@@ -1,11 +1,179 @@
 ---
 title: going electric 2024.27
-updated: 2024-07-05 08:28:01
+updated: 2024-07-06 20:00:53
 ---
 
 # going electric 2024.27
 
-(date: 2024-07-05 08:28:01)
+(date: 2024-07-06 20:00:53)
+
+---
+
+## Electrek Formula Sun Grand Prix 2024: Now just a week away
+
+date: 2024-07-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/53012919806_b453acd73c_k.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The countdown is on for this year’s <a href="https://electrek.co/guides/formula-sun-grand-prix/">Electrek Formula Sun Grand Prix</a> (FSGP) collegiate solar car track event, swiftly followed by the Electrek American Solar Challenge cross-country race. In just one week, teams from universities worldwide will put rubber to track at NCM Motorsports Park, competing to complete as many laps as possible on nothing but solar energy.</p>
+
+
+
+<p>The event is open to the public and free to attend! It kicks off on July 16 from 10 a.m. to 6 p.m. and goes through July 17-18 from 9 a.m. to 5 p.m.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="370425" href="https://electrek.co/2024/07/05/electrek-formula-sun-grand-prix-2024-now-just-a-week-away/#more-370425" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/05/electrek-formula-sun-grand-prix-2024-now-just-a-week-away/>
+
+---
+
+## Mitsubishi Outlander PHEV U.S. Sales Weakened In Q2 2024
+
+date: 2024-07-05, from: Inside EVs News
+
+The new plug-in models are still a few years away. 
+
+<https://insideevs.com/news/725590/mitsubishi-outlander-phev-us-sales-2024q2/>
+
+---
+
+## Podcast: let’s dive into Tesla, Ford, GM, BYD EV delivery results
+
+date: 2024-07-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss EV delivery results from the industry, especially Tesla, Ford, and GM.</p>
+
+
+
+<p>Today’s Podcast is sponsored by the <a href="https://www.americansolarchallenge.org/the-competition/2024-american-solar-challenge/">Electrek American Solar Challenge 2024</a>.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Electrek_7-5-24_9e55af.mp3"></audio></figure>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="370502" href="https://electrek.co/2024/07/05/podcast-lets-dive-into-tesla-ford-gm-ev-delivery-results/#more-370502" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/05/podcast-lets-dive-into-tesla-ford-gm-ev-delivery-results/>
+
+---
+
+## Electrified marine technology leaders Vita and Evoy combine forces
+
+date: 2024-07-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Vita-Evoy-logos.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/electric-boats/">Electric marine</a> experts Vita and Evoy have announced plans to unite their respective businesses in order to “consolidate their leading positions in the high-output space.” The two companies bring together a wealth of experience in all-electric propulsion and powertrain technology in the marine segment.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-boats,evoy,vita" data-layer-viewtype="unknown" data-post-id="370421" href="https://electrek.co/2024/07/05/electrified-marine-technology-leaders-vita-and-evoy-combine-forces/#more-370421" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/05/electrified-marine-technology-leaders-vita-and-evoy-combine-forces/>
+
+---
+
+## Jackery power stations 50% off in Mega Deals sale, GE’s smart indoor smoker at $799, 1-day Worx and Greenworks discounts, more
+
+date: 2024-07-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/gempages_501148581785240506-a64394e2-644a-4e6c-9ea7-cde30a2e315a.png?w=1600" /></div><p>Hope everybody had good food, good company, and good times during yesterday’s holiday! We’ve got a few strong discounts for today’s Green Deals to close out the week. The best of them is <a href="https://9to5toys.com/2024/07/05/jackerys-mega-deals-sale-takes-50-off-power-stations-bundles-accessories-from-90/">Jackery’s latest Mega Deals sale</a> that promises “the best prices of 2024” with price cuts up to 50% off – dropping costs on equipment like the new <a href="https://9to5toys.com/2024/07/05/jackerys-mega-deals-sale-takes-50-off-power-stations-bundles-accessories-from-90/">Explorer 1000 v2 Portable Power Station bundled alongside a 200W solar panel at a new $899 low</a>. Following right behind is the return of the GE Profile Smart Indoor Smoker at $799. There’s also some 1-day Best Buy sales on the <a href="https://9to5toys.com/2024/07/05/worxs-20v-powershare-cordless-electric-grass-hedge-trimmer-and-blower-drops-to-189-for-today-only-reg-280/">Worx 20V Cordless Grass Trimmer, Hedge Trimmer, and Leaf Blower Combo Kit for $189</a>, as well as the <a href="https://9to5toys.com/2024/07/05/worxs-20v-powershare-cordless-electric-grass-hedge-trimmer-and-blower-drops-to-189-for-today-only-reg-280/">refurbished Greenworks 80V 21-inch Dual Port Self-Propelled Lawn Mower for $350</a>. Plus, all the other hangover Green Deals that are still alive and well.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="370476" href="https://electrek.co/2024/07/05/jackery-power-stations-50-off-in-mega-deals-sale-ges-smart-indoor-smoker-at-799-1-day-worx-and-greenworks-discounts-more/#more-370476" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/05/jackery-power-stations-50-off-in-mega-deals-sale-ges-smart-indoor-smoker-at-799-1-day-worx-and-greenworks-discounts-more/>
+
+---
+
+## Hyundai, Kia, and Subaru offer the best electric SUV lease deals in July, starts at $199/mo
+
+date: 2024-07-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Hyundai-IONIQ-5-tax-credit.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>July is finally here, and the deals are heating up. The best SUV lease deals in July are almost all fully electric models, including the <a href="https://electrek.co/guides/hyundai-ioniq-5/">Hyundai IONIQ 5</a>, Kia Niro EV, and Subaru Solterra. Check out the new offers below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5,kia,subaru,subaru-solterra" data-layer-viewtype="unknown" data-post-id="370471" href="https://electrek.co/2024/07/05/best-july-suv-lease-deals-hyundai-kia-subaru-starts-199-mo/#more-370471" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/05/best-july-suv-lease-deals-hyundai-kia-subaru-starts-199-mo/>
+
+---
+
+## Volvo's U.S. PHEV Sales Outsold EVs By A Ratio Of 9 To 1 In Q2 2024
+
+date: 2024-07-05, from: Inside EVs News
+
+There are still no all-electric EX models to reverse the ratio. 
+
+<https://insideevs.com/news/725540/volvo-us-plugin-sales-june2024/>
+
+---
+
+## Tesla Model S/X sales are crashing and Tesla is hiding it
+
+date: 2024-07-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Tesla-Model-S-X-Lunar-Grey.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla Model S and Model X sales are not doing well, and Tesla is hiding that decline through its opaque delivery reporting.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-s" data-layer-viewtype="unknown" data-post-id="370440" href="https://electrek.co/2024/07/05/tesla-model-s-x-sales-crashing-hiding-it/#more-370440" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/05/tesla-model-s-x-sales-crashing-hiding-it/>
+
+---
+
+## Do you own an e-bike?
+
+date: 2024-07-05, from: Electrek Feed
+
+ 
+
+<https://electrek.co/poll-post/do-you-own-an-e-bike/>
+
+---
+
+## Porsche to slow Taycan output as sales slump, can the new Macan EV turn things around?
+
+date: 2024-07-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Porsche-Taycan-output.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Porsche’s first all-electric sports car was a hit. But, nearly five years later, Taycan sales are falling amid new competition. Porsche is reportedly cutting Taycan output amid the sales slump. With the new Macan EV viewed as a beacon of hope, can <a href="https://electrek.co/guides/porsche/">Porsche</a> turn things around?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="porsche,porsche-macan,porsche-taycan" data-layer-viewtype="unknown" data-post-id="370423" href="https://electrek.co/2024/07/05/porsche-slow-taycan-output-can-macan-ev-boost-sales/#more-370423" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/05/porsche-slow-taycan-output-can-macan-ev-boost-sales/>
+
+---
+
+## You can lease a 2025 Nissan Leaf for $19 a month (yes, for real)
+
+date: 2024-07-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/2025-Nissan-LEAF-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A Nissan dealer in Colorado is practically giving 2025 Nissan Leaf leases away – who said EVs weren’t affordable?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="colorado,colorado-ev-incentive,ev-lease,nissan,nissan-leaf" data-layer-viewtype="unknown" data-post-id="370432" href="https://electrek.co/2024/07/05/lease-2025-nissan-leaf-19-dollars-a-month/#more-370432" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/05/lease-2025-nissan-leaf-19-dollars-a-month/>
+
+---
+
+## BMW U.S. EV Sales Improved To Near-Record Level In Q2 2024
+
+date: 2024-07-05, from: Inside EVs News
+
+The BMW's four all-electric models represented over 15% of the brand's total volume. 
+
+<https://insideevs.com/news/725441/bmw-us-ev-sales-2024q2/>
 
 ---
 
@@ -103,7 +271,7 @@ date: 2024-07-05, from: Electrek Feed
 
 date: 2024-07-05, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A New York resident recently took electric bicycle maker Delfast to court over non-delivery of the company’s new electric bicycle model after an apparently successful crowdfunding campaign on Indiegogo failed to result in a delivery.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A Californa resident recently took electric bicycle maker Delfast to court over non-delivery of the company’s new electric bicycle model after an apparently successful crowdfunding campaign on Indiegogo failed to result in a delivery.</p>
 
 
 

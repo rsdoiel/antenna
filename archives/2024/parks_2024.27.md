@@ -1,11 +1,21 @@
 ---
 title: parks 2024.27
-updated: 2024-07-05 08:27:59
+updated: 2024-07-06 20:00:52
 ---
 
 # parks 2024.27
 
-(date: 2024-07-05 08:27:59)
+(date: 2024-07-06 20:00:52)
+
+---
+
+## Modified Transcanyon Waterline construction  closures begin October 21, 2024
+
+date: 2024-07-05, from: Press Releases
+
+The National Park Service (NPS) is announcing modified closure dates of inner canyon trails and facilities to support the Transcanyon Waterline (TCWL) construction project.  These closures are necessary for the protection of staff and visiting public during an extensive TCWL construction effort along the Bright Angel Trail. Visitors will still be able to use the upper portion of the Bright Angel Trail, from the South Rim to Havasupai Gardens, and the Tonto Trail during the Oct. 21, 2024-May 14 closure period. The South Kaibab Trail will remain open for all hikers. https://www.nps.gov/grca/learn/news/modified-waterline-closures-october-2024.htm 
+
+<https://www.nps.gov/grca/learn/news/modified-waterline-closures-october-2024.htm>
 
 ---
 
@@ -13,7 +23,7 @@ updated: 2024-07-05 08:27:59
 
 date: 2024-07-03, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>Capitan athletes aid restoration efforts by hauling water into BLM’s Fort Stanton Cave</h1></div>
+<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/blm-seeks-input-proposed-management-updates-southern-oregon" hreflang="en">BLM seeks input on proposed management updates in southern Oregon</a></h2></div>
       
 
 
@@ -21,8 +31,20 @@ date: 2024-07-03, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="e43d7640-88ec-436e-8c43-24853ea93114" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  <div class="field contact-block -release-date">
+    <div><strong>Publication Date:</strong> </div>
+              <div><time datetime="2024-06-06T12:00:00Z">Thu, 06/06/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+            <div class="field contact-block -body"><figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cc6b2997-b76c-4710-a0c7-bfd1a309f3b8" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -31,7 +53,7 @@ date: 2024-07-03, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/capitan-water-hauling-cave-001.jpg?itok=wXjwEdox" width="640" height="427" alt="Capitan High School athletes and two adult leads head into the into the Bureau of Land Management’s Fort Stanton Cave at the Fort Stanton – Snowy River Cave National Conservation Area near Lincoln, N.M., June 3." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Lakeview_sagebrush_landscape.png?itok=yJACxwvS" width="640" height="480" alt="The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM." typeof="foaf:Image">
 
 
 </div>
@@ -39,111 +61,86 @@ date: 2024-07-03, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>Capitan High School athletes and two adult leads head into the into the Bureau of Land Management’s Fort Stanton Cave at the Fort Stanton – Snowy River Cave National Conservation Area near Lincoln, N.M., June 3.</figcaption>
+<figcaption>The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM.</figcaption>
 </figure>
 
 
-<p>Fort Stanton Cave restoration crews will have eight volunteer Capitan High School athletes to thank when they’re cleaning formations within the cave this summer.</p>
+<p>&nbsp;</p>
 
-<p>Fort Stanton Cave is within the Bureau of Land Management’s Fort Stanton – Snowy River Cave National Conservation Area, and Knutt Peterson, a cave specialist for the BLM Roswell Field Office, coordinated the students, who either belong to the track team or run cross country, to bring 140 liters (37 gallons) of water a mile into the cave for this summer’s restoration projects.</p>
+<p><strong>LAKEVIEW, Ore. </strong>— The Bureau of Land Management is seeking public comment on a Draft Environmental Impact Statement (EIS) for amending the&nbsp;<a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="c8ec45bf-6708-4c48-8c95-bded76d11290" href="https://www.blm.gov/sites/default/files/Lakeview_RMP_Text_Appendices.pdf" target="_blank" title="2003 Lakeview Resource Management Plan">2003 Lakeview Resource Management Plan</a>, which would update the management of 3.2 million acres of BLM-managed public lands in Lake and Harney counties. The amendment, which has been prepared to respond to a <a href="https://eplanning.blm.gov/public_projects/lup/87435/116985/142662/20100610_57-1_AmendRemand_SettleAgree_web.pdf" target="_blank" title="2010 court settlement">2010 court settlement</a>, addresses the management of public lands for wilderness characteristics, recreation, and grazing.</p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a99fd357-c710-431f-8645-26c2fe4a0f68" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
-  
-  
+<p aria-hidden="true">“We welcome the public’s insight and input into how we can appropriately balance the management of these lands,<strong>” said Jami Ludwig, BLM Lakeview Field Manager.</strong> “This plan will help guide BLM’s management of this landscape for the next 20 years.”</p>
 
+<p>As directed by the 2010 settlement, the BLM’s draft EIS and plan amendment consider a wide-range of management options for lands with wilderness characteristics, grazing, and outdoor recreation, including off-highway vehicle use. Public comments received on this draft will help inform the development of a final plan, which could combine management approaches from several of the draft alternatives, if appropriate.</p>
 
+<p>The BLM plans to host an in-person public meeting in Lakeview and two virtual public meetings during the comment period to discuss and answer questions about the plan. The BLM will announce these meetings at least 15 days in advance through the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register">BLM National NEPA Register</a>, public notices, media releases, social media, and/or mailings.</p>
 
+<p>A Notice of Availability will publish in tomorrow’s <em>Federal Register</em> to open a 90-day comment period. Project information is available at the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register 2">BLM National NEPA Register</a> where written comments may be submitted via the “Participate Now” option (preferred) by Sept. 4, 2024. Comments may also be submitted to <a href="mailto:BLM_OR_LV_RMP_Team@blm.gov" title="send email">BLM_OR_LV_RMP_Team@blm.gov</a><u>,</u>&nbsp;or delivered to BLM Lakeview District, 1301 South G Street, Lakeview, OR 97630</p>
 
-  
+<p>For more information, please contact Michael Collins at 541-947-6112.</p>
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/capitan-water-hauling-cave-002.jpg?itok=hmgeq4IH" width="640" height="427" alt="Knutt Peterson, cave specialist for the BLM Roswell Field Office, holds a briefing before the trip into Fort Stanton Cave." typeof="foaf:Image">
+<hr>
+<h2>Public meetings</h2>
 
+<p><strong>July 15, 2024 (Virtual Meeting)</strong></p>
 
+<p>5:00 – 7:00 p.m. (PT)</p>
+
+<p>Brief presentation at 5:00 p.m., followed&nbsp;by question and answer.</p>
+
+<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_RmlA5WJ5S7u54hitBm2cOw#/registration" target="_blank" title="july 15 meeting">https://bit.ly/45xUI59</a></p>
+
+<p><strong>July 16, 2024</strong></p>
+
+<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
+
+<p>Christmas Valley @ Community Hall</p>
+
+<p>(87345 Holly Lane)</p>
+
+<p><strong>July 18, 2024</strong></p>
+
+<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
+
+<p>Lakeview District Office</p>
+
+<p>(1301 South G Street)</p>
+
+<p><strong>July 22, 2024</strong></p>
+
+<p>5:00 – 7:30 p.m. (PT)</p>
+
+<p>Brief presentation at 5:00 p.m.,&nbsp;followed by question and answer.</p>
+
+<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_THcYqrkXSDymLCZwuqBUdQ#/registration" target="_blank" title="july 22 meeting">https://bit.ly/4cowT1V</a></p>
+
+<hr>
+<p>&nbsp;</p>
+<iframe src="https://storymaps.arcgis.com/stories/d9fe856e65ea427eb0cf2e9d961e88bf" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
       
-</div>
-</div>
-
-<figcaption>Knutt Peterson, cave specialist for the BLM Roswell Field Office, holds a briefing before the trip into Fort Stanton Cave.</figcaption>
-</figure>
-
-
-<p>The effort not only helps with cave restoration but allows local youths to gain an appreciation for caving. On the first trip in May, Carrin Rich, volunteer restoration coordinator, and Aleksandr Knapowski, a BLM geologist, led the trip, and on June 3, Rich and Minori Yoshida, a volunteer cave restorer, led a second trip.</p>
-
-<p>Water is a precious commodity during cave restoration trips, Peterson said. The restoration sites are about a mile into the cave, so running a hose is impossible, and there are not any natural in-cave sources of water, so people need to haul all their water into the cave.</p>
-
-<p>While volunteers who participate in cave restoration projects normally bring three to 10 liters of water with them, that amount only lasts about eight hours, Peterson said. The extra water the students bring in allows them to extend their restoration work another four hours on each trip. This cache of water will support restoration trips this season and into the future.</p>
-
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="fce98813-7c16-4b91-9772-2c9faf3e652c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/capitan-water-hauling-cave-003.JPG?itok=azYK36rW" width="398" height="530" alt="Capitan High School athletes drag packs of water through the “Hell Hole” passage within Fort Stanton Cave." typeof="foaf:Image">
+  <div class="field contact-block -fiscal-year">
+    <div><strong>Fiscal Year:</strong> </div>
+              <div>2024</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-<figcaption>Capitan High School athletes drag packs of water through the “Hell Hole” passage within Fort Stanton Cave.</figcaption>
-</figure>
-
-
-<p>The students said hauling the water was hard work, but well worth it.</p>
-
-<p>Jewel Joy, a senior, said the experience has made her into a caver.</p>
-
-<p>“I think it’s really fun,” Joy said. “I really want to get into it now. It’s just cool – all the formations, to think about how it formed.”</p>
-
-<p>Tegan Uller, who recently graduated, said hauling the water was tough at times, and his knees were burning from the crawling, but it was a good experience overall. “Besides that, it was really fun,” he said. “I would recommend it.”</p>
-
-<p>Kainin DeSalvo, a sophomore, said he really likes crawling and navigating tight spaces in caves. “Not everybody can do it,” he said.</p>
-
-<p>Rich said she has been caving at Fort Stanton Cave for 10 years and really appreciates the work the students did on the trips.</p>
-
-<p>“They were amazing,” Rich said. “The kids were absolutely amazing. They did great today. Because they’re already teammates as athletes, they have a great teamwork ethic, and they have a good camaraderie among them.”</p>
-
-<p>The work was physically difficult, Rich said, and the students did it happily.</p>
-
-<p>“I think as athletes, they’re used to the suffering,” Rich said. “They’re used to working through pain, so you could push them, and they could get through stuff that I think people who don’t have an athletic background couldn’t necessarily do.”</p>
-
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="e58195cd-002e-4161-855d-29c94301304e" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/capitan-water-hauling-cave-004.jpg?itok=iVBnEYE1" width="640" height="427" alt="Carrin Rich, front, volunteer restoration coordinator for Fort Stanton Cave, leads Capitan HS athletes into the cave." typeof="foaf:Image">
+  <div class="field contact-block -organization">
+    <div><strong>Organization:</strong> </div>
+              <div>Bureau of land Management</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-<figcaption>Carrin Rich, front, volunteer restoration coordinator for Fort Stanton Cave, leads Capitan HS athletes into the cave.</figcaption>
-</figure>
-
-
-<p>As of June 4, Fort Stanton Cave, at 46.56 miles, is the ninth longest cave in the United States and the 40th longest cave in the world, Peterson said.</p>
-
-<p>Peterson said the BLM had to close Fort Stanton Cave to public recreation trips due to white-nose syndrome, a fungal infection that kills bats, but allows 350 people a year to enter the cave for research and educational purposes.</p>
-
-<p>“This cave has been closed for 10 years, and it’s been essentially a generation that hasn’t seen it or had an opportunity to see it,” Peterson said. “This is one of the ways that we can get kids in under our recreational hiatus. We plan to continue this partnership with local schools into the future.”</p>
-</div>
-      
 
 
 
@@ -153,9 +150,8 @@ date: 2024-07-03, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
-          <div><a href="https://www.blm.gov/region/pecos-do" hreflang="en">Pecos DO</a></div>
-          <div><a href="https://www.blm.gov/region/roswell-fo" hreflang="en">Roswell FO</a></div>
+              <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+          <div><a href="https://www.blm.gov/region/lakeview-do" hreflang="en">Lakeview DO</a></div>
               </div>
       </div>
 
@@ -165,24 +161,13 @@ date: 2024-07-03, from: Bureau of Land Management, blog
 
   
 
-<div class="blog-topics">
-    <div class="field contact-block -blog-topic">
-      <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/science" hreflang="en">Science</a></div>
-                </div>
-  </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -release-date">
-    <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-07-03T12:00:00Z">Wed, 07/03/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
+  <div class="field contact-block -tag">
+    <div><strong>Tag:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/tag/eis" hreflang="en">EIS</a></div>
+          <div><a href="https://www.blm.gov/tag/planning-and-nepa" hreflang="en">Planning and NEPA</a></div>
+              </div>
+      </div>
 
 
 
@@ -191,8 +176,8 @@ date: 2024-07-03, from: Bureau of Land Management, blog
   
 
   <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/roswell-field-office" hreflang="en">Roswell Field Office</a></div>
+    <div><strong>District/Field Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/lakeview-district-office" hreflang="en">Lakeview District Office</a></div>
           </div>
 
 
@@ -201,36 +186,50 @@ date: 2024-07-03, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -thumbnail-image">
-    <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/49319/edit" hreflang="en">capitan-water-hauling-cave-004</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -featured">
-    <div><strong>Featured:</strong> </div>
-              <div>Off</div>
-          </div>
-
-
-
-
-
-  
-
-<div class="blog-tags">
-    <div class="field contact-block -tag">
-      <div><strong>Tag:</strong> </div>
+  <div class="field contact-block -contact">
+    <div><strong>Contact:</strong> </div>
+          <div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/fort-stanton-snowy-river-cave-national-conservation-area" hreflang="en">Fort Stanton - Snowy River Cave National Conservation Area</a></div>
-                    </div>
+
+  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+  <div class="field contact-block -label">
+    <div><strong>Name:</strong> </div>
+              <div>Lisa McNee</div>
           </div>
-  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -email">
+    <div><strong>Email:</strong> </div>
+              <div>lmcnee@blm.gov</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -phone">
+    <div><strong>Phone:</strong> </div>
+              <div>541-947-6811</div>
+          </div>
+
+      </div>
+</div>
+              </div>
+      </div>
 
 
 
@@ -241,7 +240,7 @@ date: 2024-07-03, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/new-mexico" hreflang="en">New Mexico</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/oregon-washington" hreflang="en">Oregon-Washington</a></div>
               </div>
       </div> 
 
@@ -253,7 +252,7 @@ date: 2024-07-03, from: Bureau of Land Management, blog
 
 date: 2024-07-02, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>Capitan athletes aid restoration efforts by hauling water into BLM’s Fort Stanton Cave</h1></div>
+<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/blm-seeks-input-proposed-management-updates-southern-oregon" hreflang="en">BLM seeks input on proposed management updates in southern Oregon</a></h2></div>
       
 
 
@@ -261,8 +260,20 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="e43d7640-88ec-436e-8c43-24853ea93114" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  <div class="field contact-block -release-date">
+    <div><strong>Publication Date:</strong> </div>
+              <div><time datetime="2024-06-06T12:00:00Z">Thu, 06/06/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+            <div class="field contact-block -body"><figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cc6b2997-b76c-4710-a0c7-bfd1a309f3b8" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -271,7 +282,7 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/capitan-water-hauling-cave-001.jpg?itok=wXjwEdox" width="640" height="427" alt="Capitan High School athletes and two adult leads head into the into the Bureau of Land Management’s Fort Stanton Cave at the Fort Stanton – Snowy River Cave National Conservation Area near Lincoln, N.M., June 3." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Lakeview_sagebrush_landscape.png?itok=yJACxwvS" width="640" height="480" alt="The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM." typeof="foaf:Image">
 
 
 </div>
@@ -279,111 +290,86 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>Capitan High School athletes and two adult leads head into the into the Bureau of Land Management’s Fort Stanton Cave at the Fort Stanton – Snowy River Cave National Conservation Area near Lincoln, N.M., June 3.</figcaption>
+<figcaption>The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM.</figcaption>
 </figure>
 
 
-<p>Fort Stanton Cave restoration crews will have eight volunteer Capitan High School athletes to thank when they’re cleaning formations within the cave this summer.</p>
+<p>&nbsp;</p>
 
-<p>Fort Stanton Cave is within the Bureau of Land Management’s Fort Stanton – Snowy River Cave National Conservation Area, and Knutt Peterson, a cave specialist for the BLM Roswell Field Office, coordinated the students, who either belong to the track team or run cross country, to bring 140 liters (37 gallons) of water a mile into the cave for this summer’s restoration projects.</p>
+<p><strong>LAKEVIEW, Ore. </strong>— The Bureau of Land Management is seeking public comment on a Draft Environmental Impact Statement (EIS) for amending the&nbsp;<a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="c8ec45bf-6708-4c48-8c95-bded76d11290" href="https://www.blm.gov/sites/default/files/Lakeview_RMP_Text_Appendices.pdf" target="_blank" title="2003 Lakeview Resource Management Plan">2003 Lakeview Resource Management Plan</a>, which would update the management of 3.2 million acres of BLM-managed public lands in Lake and Harney counties. The amendment, which has been prepared to respond to a <a href="https://eplanning.blm.gov/public_projects/lup/87435/116985/142662/20100610_57-1_AmendRemand_SettleAgree_web.pdf" target="_blank" title="2010 court settlement">2010 court settlement</a>, addresses the management of public lands for wilderness characteristics, recreation, and grazing.</p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a99fd357-c710-431f-8645-26c2fe4a0f68" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
-  
-  
+<p aria-hidden="true">“We welcome the public’s insight and input into how we can appropriately balance the management of these lands,<strong>” said Jami Ludwig, BLM Lakeview Field Manager.</strong> “This plan will help guide BLM’s management of this landscape for the next 20 years.”</p>
 
+<p>As directed by the 2010 settlement, the BLM’s draft EIS and plan amendment consider a wide-range of management options for lands with wilderness characteristics, grazing, and outdoor recreation, including off-highway vehicle use. Public comments received on this draft will help inform the development of a final plan, which could combine management approaches from several of the draft alternatives, if appropriate.</p>
 
+<p>The BLM plans to host an in-person public meeting in Lakeview and two virtual public meetings during the comment period to discuss and answer questions about the plan. The BLM will announce these meetings at least 15 days in advance through the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register">BLM National NEPA Register</a>, public notices, media releases, social media, and/or mailings.</p>
 
+<p>A Notice of Availability will publish in tomorrow’s <em>Federal Register</em> to open a 90-day comment period. Project information is available at the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register 2">BLM National NEPA Register</a> where written comments may be submitted via the “Participate Now” option (preferred) by Sept. 4, 2024. Comments may also be submitted to <a href="mailto:BLM_OR_LV_RMP_Team@blm.gov" title="send email">BLM_OR_LV_RMP_Team@blm.gov</a><u>,</u>&nbsp;or delivered to BLM Lakeview District, 1301 South G Street, Lakeview, OR 97630</p>
 
-  
+<p>For more information, please contact Michael Collins at 541-947-6112.</p>
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/capitan-water-hauling-cave-002.jpg?itok=hmgeq4IH" width="640" height="427" alt="Knutt Peterson, cave specialist for the BLM Roswell Field Office, holds a briefing before the trip into Fort Stanton Cave." typeof="foaf:Image">
+<hr>
+<h2>Public meetings</h2>
 
+<p><strong>July 15, 2024 (Virtual Meeting)</strong></p>
 
+<p>5:00 – 7:00 p.m. (PT)</p>
+
+<p>Brief presentation at 5:00 p.m., followed&nbsp;by question and answer.</p>
+
+<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_RmlA5WJ5S7u54hitBm2cOw#/registration" target="_blank" title="july 15 meeting">https://bit.ly/45xUI59</a></p>
+
+<p><strong>July 16, 2024</strong></p>
+
+<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
+
+<p>Christmas Valley @ Community Hall</p>
+
+<p>(87345 Holly Lane)</p>
+
+<p><strong>July 18, 2024</strong></p>
+
+<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
+
+<p>Lakeview District Office</p>
+
+<p>(1301 South G Street)</p>
+
+<p><strong>July 22, 2024</strong></p>
+
+<p>5:00 – 7:30 p.m. (PT)</p>
+
+<p>Brief presentation at 5:00 p.m.,&nbsp;followed by question and answer.</p>
+
+<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_THcYqrkXSDymLCZwuqBUdQ#/registration" target="_blank" title="july 22 meeting">https://bit.ly/4cowT1V</a></p>
+
+<hr>
+<p>&nbsp;</p>
+<iframe src="https://storymaps.arcgis.com/stories/d9fe856e65ea427eb0cf2e9d961e88bf" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
       
-</div>
-</div>
-
-<figcaption>Knutt Peterson, cave specialist for the BLM Roswell Field Office, holds a briefing before the trip into Fort Stanton Cave.</figcaption>
-</figure>
-
-
-<p>The effort not only helps with cave restoration but allows local youths to gain an appreciation for caving. On the first trip in May, Carrin Rich, volunteer restoration coordinator, and Aleksandr Knapowski, a BLM geologist, led the trip, and on June 3, Rich and Minori Yoshida, a volunteer cave restorer, led a second trip.</p>
-
-<p>Water is a precious commodity during cave restoration trips, Peterson said. The restoration sites are about a mile into the cave, so running a hose is impossible, and there are not any natural in-cave sources of water, so people need to haul all their water into the cave.</p>
-
-<p>While volunteers who participate in cave restoration projects normally bring three to 10 liters of water with them, that amount only lasts about eight hours, Peterson said. The extra water the students bring in allows them to extend their restoration work another four hours on each trip. This cache of water will support restoration trips this season and into the future.</p>
-
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="fce98813-7c16-4b91-9772-2c9faf3e652c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/capitan-water-hauling-cave-003.JPG?itok=azYK36rW" width="398" height="530" alt="Capitan High School athletes drag packs of water through the “Hell Hole” passage within Fort Stanton Cave." typeof="foaf:Image">
+  <div class="field contact-block -fiscal-year">
+    <div><strong>Fiscal Year:</strong> </div>
+              <div>2024</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-<figcaption>Capitan High School athletes drag packs of water through the “Hell Hole” passage within Fort Stanton Cave.</figcaption>
-</figure>
-
-
-<p>The students said hauling the water was hard work, but well worth it.</p>
-
-<p>Jewel Joy, a senior, said the experience has made her into a caver.</p>
-
-<p>“I think it’s really fun,” Joy said. “I really want to get into it now. It’s just cool – all the formations, to think about how it formed.”</p>
-
-<p>Tegan Uller, who recently graduated, said hauling the water was tough at times, and his knees were burning from the crawling, but it was a good experience overall. “Besides that, it was really fun,” he said. “I would recommend it.”</p>
-
-<p>Kainin DeSalvo, a sophomore, said he really likes crawling and navigating tight spaces in caves. “Not everybody can do it,” he said.</p>
-
-<p>Rich said she has been caving at Fort Stanton Cave for 10 years and really appreciates the work the students did on the trips.</p>
-
-<p>“They were amazing,” Rich said. “The kids were absolutely amazing. They did great today. Because they’re already teammates as athletes, they have a great teamwork ethic, and they have a good camaraderie among them.”</p>
-
-<p>The work was physically difficult, Rich said, and the students did it happily.</p>
-
-<p>“I think as athletes, they’re used to the suffering,” Rich said. “They’re used to working through pain, so you could push them, and they could get through stuff that I think people who don’t have an athletic background couldn’t necessarily do.”</p>
-
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="e58195cd-002e-4161-855d-29c94301304e" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/capitan-water-hauling-cave-004.jpg?itok=iVBnEYE1" width="640" height="427" alt="Carrin Rich, front, volunteer restoration coordinator for Fort Stanton Cave, leads Capitan HS athletes into the cave." typeof="foaf:Image">
+  <div class="field contact-block -organization">
+    <div><strong>Organization:</strong> </div>
+              <div>Bureau of land Management</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-<figcaption>Carrin Rich, front, volunteer restoration coordinator for Fort Stanton Cave, leads Capitan HS athletes into the cave.</figcaption>
-</figure>
-
-
-<p>As of June 4, Fort Stanton Cave, at 46.56 miles, is the ninth longest cave in the United States and the 40th longest cave in the world, Peterson said.</p>
-
-<p>Peterson said the BLM had to close Fort Stanton Cave to public recreation trips due to white-nose syndrome, a fungal infection that kills bats, but allows 350 people a year to enter the cave for research and educational purposes.</p>
-
-<p>“This cave has been closed for 10 years, and it’s been essentially a generation that hasn’t seen it or had an opportunity to see it,” Peterson said. “This is one of the ways that we can get kids in under our recreational hiatus. We plan to continue this partnership with local schools into the future.”</p>
-</div>
-      
 
 
 
@@ -393,9 +379,8 @@ date: 2024-07-02, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
-          <div><a href="https://www.blm.gov/region/pecos-do" hreflang="en">Pecos DO</a></div>
-          <div><a href="https://www.blm.gov/region/roswell-fo" hreflang="en">Roswell FO</a></div>
+              <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+          <div><a href="https://www.blm.gov/region/lakeview-do" hreflang="en">Lakeview DO</a></div>
               </div>
       </div>
 
@@ -405,24 +390,13 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 
   
 
-<div class="blog-topics">
-    <div class="field contact-block -blog-topic">
-      <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/science" hreflang="en">Science</a></div>
-                </div>
-  </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -release-date">
-    <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-07-03T12:00:00Z">Wed, 07/03/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
+  <div class="field contact-block -tag">
+    <div><strong>Tag:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/tag/eis" hreflang="en">EIS</a></div>
+          <div><a href="https://www.blm.gov/tag/planning-and-nepa" hreflang="en">Planning and NEPA</a></div>
+              </div>
+      </div>
 
 
 
@@ -431,8 +405,8 @@ date: 2024-07-02, from: Bureau of Land Management, blog
   
 
   <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/roswell-field-office" hreflang="en">Roswell Field Office</a></div>
+    <div><strong>District/Field Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/lakeview-district-office" hreflang="en">Lakeview District Office</a></div>
           </div>
 
 
@@ -441,36 +415,50 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -thumbnail-image">
-    <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/49319/edit" hreflang="en">capitan-water-hauling-cave-004</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -featured">
-    <div><strong>Featured:</strong> </div>
-              <div>Off</div>
-          </div>
-
-
-
-
-
-  
-
-<div class="blog-tags">
-    <div class="field contact-block -tag">
-      <div><strong>Tag:</strong> </div>
+  <div class="field contact-block -contact">
+    <div><strong>Contact:</strong> </div>
+          <div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/fort-stanton-snowy-river-cave-national-conservation-area" hreflang="en">Fort Stanton - Snowy River Cave National Conservation Area</a></div>
-                    </div>
+
+  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+  <div class="field contact-block -label">
+    <div><strong>Name:</strong> </div>
+              <div>Lisa McNee</div>
           </div>
-  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -email">
+    <div><strong>Email:</strong> </div>
+              <div>lmcnee@blm.gov</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -phone">
+    <div><strong>Phone:</strong> </div>
+              <div>541-947-6811</div>
+          </div>
+
+      </div>
+</div>
+              </div>
+      </div>
 
 
 
@@ -481,7 +469,7 @@ date: 2024-07-02, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/new-mexico" hreflang="en">New Mexico</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/oregon-washington" hreflang="en">Oregon-Washington</a></div>
               </div>
       </div> 
 

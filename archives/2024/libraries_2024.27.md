@@ -1,11 +1,21 @@
 ---
 title: libraries 2024.27
-updated: 2024-07-05 08:27:58
+updated: 2024-07-06 20:00:51
 ---
 
 # libraries 2024.27
 
-(date: 2024-07-05 08:27:58)
+(date: 2024-07-06 20:00:51)
+
+---
+
+## Exiles, by James Joyce
+
+date: 2024-07-05, from: Standard Ebooks, new releaases
+
+An unmarried couple in early twentieth-century Dublin struggle with the consequences of their respective infidelities. 
+
+<https://standardebooks.org/ebooks/james-joyce/exiles>
 
 ---
 

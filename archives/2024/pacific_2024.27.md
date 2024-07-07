@@ -1,11 +1,52 @@
 ---
 title: pacific 2024.27
-updated: 2024-07-05 08:27:54
+updated: 2024-07-06 20:00:47
 ---
 
 # pacific 2024.27
 
-(date: 2024-07-05 08:27:54)
+(date: 2024-07-06 20:00:47)
+
+---
+
+## Tourism Redux: Doing the same thing, expecting a different result
+
+date: 2024-07-05, from: Pacific Island Times
+
+A few years before Covid slammed the door shut on tourism, I was working with the Yap Visitors Bureau and researched ways that Yap might... 
+
+<https://www.pacificislandtimes.com/post/tourism-redux-doing-the-same-thing-expecting-a-different-result>
+
+---
+
+## Multi-partner aquaculture research in support of fishpond revitalization
+
+date: 2024-07-05, from: University of Hawaiʻi News
+
+<p>Andre Seale’s studies employ two local species for sustainable aquaculture development: the sea cucumber and striped mullet.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/05/ctahr-fishpond-revitalization/">Multi-partner aquaculture research in support of fishpond revitalization</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/05/ctahr-fishpond-revitalization/>
+
+---
+
+## Making sense of the nonsensical
+
+date: 2024-07-05, from: Pacific Island Times
+
+Shortly after Trump took office, when North Korea was threatening Guam with nuclear annihilation, I managed to convince people back home... 
+
+<https://www.pacificislandtimes.com/post/making-sense-of-the-nonsensical>
+
+---
+
+## Curvature
+
+date: 2024-07-05, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Sophia Smith A mangled row of bones stacks up from your hips and into your skull, hiddenbehind layers of skin and muscle, those calcium shells twist and turnlike the skyline of a soft crested hill, make the arch of &#8230; <a href="https://hawaiipacificreview.org/2024/07/05/curvature/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/07/05/curvature/>
 
 ---
 
@@ -210,6 +251,66 @@ date: 2024-07-05, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/07/05/opinion/court-supremacy-the-supreme-court-appoints-itself-ultimate-expert-on-governing-2/>
+
+---
+
+## On small islands off Canada’s coast, a big shift in power
+
+date: 2024-07-05, from: Hawaii Tribune Harold
+
+
+				<p>HAIDA GWAII, British Columbia &#8212; The Raven, the story goes, alighted on the beach and heard sounds coming from a giant clamshell. He found creatures cowering inside, but, ever the trickster, he cajoled them out into the world. Liberated, they became the first people of the islands of Haida Gwaii.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/05/features/on-small-islands-off-canadas-coast-a-big-shift-in-power/>
+
+---
+
+## New laws aim to improve fire safety, reduce fraud during disasters
+
+date: 2024-07-05, from: Hawaii Tribune Harold
+
+
+				<p>Bills signed into law Friday by Gov. Josh Green would crack down on aerial fireworks and disaster charity fraud during emergencies, reestablish a state fire marshal and help those with limited English proficiency to navigate both emergency evacuations and relief available in the wake of disaster.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/05/hawaii-news/new-laws-aim-to-improve-fire-safety-reduce-fraud-during-disasters/>
+
+---
+
+## County sets up encampment for homeless in downtown Hilo
+
+date: 2024-07-05, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County has begun setting up a temporary encampment to house homeless people in downtown Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/05/hawaii-news/county-sets-up-encampment-for-homeless-in-downtown-hilo/>
+
+---
+
+## Pahoa man arrested after allegedly threatening to set teen on fire
+
+date: 2024-07-05, from: Hawaii Tribune Harold
+
+
+				<p>George Dale Foote Jr., 38, of Pahoa was arrested and charged with an array of offenses following a violent incident involving a juvenile that occurred Tuesday at a residence in Puna.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/05/hawaii-news/pahoa-man-arrested-after-allegedly-threatening-to-set-teen-on-fire/>
+
+---
+
+## Missing Ocean View man found dead, partially buried
+
+date: 2024-07-05, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating the death of a man whose remains were discovered on a property in Hawaiian Ocean View Estates.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/05/hawaii-news/missing-ocean-view-man-found-dead-partially-buried/>
 
 ---
 
@@ -495,6 +596,16 @@ By Pacific Island Times News Staff Koror— Palau has been hit by another ransom
 
 ---
 
+## Family Meals Boost Mental Health for All Ages
+
+date: 2024-07-05, updated: 2024-07-05, from: Marianas Variety
+
+(NewsUSA) - Sharing a meal -- with family members that include relatives but also those you choose to call family -- not only promotes healthy eating, but healthier minds as well, new data show. 
+
+<https://www.mvariety.com/online_features/health_and_wellness/family-meals-boost-mental-health-for-all-ages/article_d721dd2a-e73a-5476-82e3-d8585270ed1e.html>
+
+---
+
 ##  Beyond daylight: Solving the energy storage dilemma
 
 date: 2024-07-05, from: Pacific Island Times
@@ -534,6 +645,86 @@ date: 2024-07-04, from: Marshal Islands Journal
  
 
 <https://marshallislandsjournal.com/majuro-road-nearly-done/>
+
+---
+
+## OPINION ǀ GOP misses the mark
+
+date: 2024-07-04, updated: 2024-07-04, from: Marianas Variety
+
+IT'S rather disingenuous for GOP President Diego Benavente to be lecturing about tourism, as he did in a press release this week — especially when the biggest exodus of Japanese hotels, airlines, and other investments happened on his watch, when he was Lt. Governor (2002 - 2006). 
+
+<https://www.mvariety.com/views/columnists/opinion-gop-misses-the-mark/article_8da8396a-39ba-11ef-8484-cff390d52ac1.html>
+
+---
+
+## Fiji tourism industry stronger than ever
+
+date: 2024-07-04, updated: 2024-07-04, from: Marianas Variety
+
+NADI (Fiji Live/Pacnews) — Fiji's Deputy Prime Minister and Minister for Tourism Viliame Gavoka said the tourism industry is ready to receive over one million visitors into the country, surpassing 2023 record levels. 
+
+<https://www.mvariety.com/news/regional_world/fiji-tourism-industry-stronger-than-ever/article_9cf22282-39c4-11ef-ad31-43f5bfc37653.html>
+
+---
+
+## CHCC-EHDP announces June sanitary inspection results for local establishments
+
+date: 2024-07-04, updated: 2024-07-04, from: Marianas Variety
+
+(CHCC) — In June, the Commonwealth Healthcare Corporation’s Environmental Health Disease Prevention conducted sanitary inspections on retail, eating and drinking establishments. Through this release, CHCC-EHDP is providing (a) names of establishments by inspection grade, and (b) names of establishments ordered to close for serious violations of health and sanitation standards. For these establishments, CHCC-EHDP provided the suspension date and the date they were certified to resume operations. 
+
+<https://www.mvariety.com/news/local/chcc-ehdp-announces-june-sanitary-inspection-results-for-local-establishments/article_0eaa40ca-39c6-11ef-95a5-9f533e122fd9.html>
+
+---
+
+## Congratulations!
+
+date: 2024-07-04, updated: 2024-07-04, from: Marianas Variety
+
+On July 2, 2024 in Okinawa, Japan, the CNMI’s Jefferson Alfred Astillero Saures was promoted from U.S. Marine Corps gunnery sergeant to USMC master sergeant. Saures, his wife and three children are on Saipan for the Liberation Day and Fourth of July celebration. 
+
+<https://www.mvariety.com/news/community_bulletins/congratulations/article_4ca4d626-39c9-11ef-9e32-abbf280f9f16.html>
+
+---
+
+## Guam governor joins CNMI in Liberation Day celebration
+
+date: 2024-07-04, updated: 2024-07-04, from: Marianas Variety
+
+AHEAD of Guam's 80th Liberation Day on July 21, 2024, Gov. Lourdes "Lou" Aflague Leon Guerrero joined the CNMI in celebrating its 78th Liberation Day on Thursday. 
+
+<https://www.mvariety.com/news/local/guam-governor-joins-cnmi-in-liberation-day-celebration/article_7cee8b40-39d0-11ef-b303-93861c4fe166.html>
+
+---
+
+## MLB roundup: At age 22, A's starter Joey Estes blanks Angels
+
+date: 2024-07-04, updated: 2024-07-04, from: Marianas Variety
+
+(Reuters) — Joey Estes pitched a five-hit shutout as the Oakland Athletics made it two in a row over the visiting Los Angeles Angels with a 5-0 victory Wednesday night. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-at-age-22-as-starter-joey-estes-blanks-angels/article_d764a8a8-39e3-11ef-986c-db0f013e7c8d.html>
+
+---
+
+## Islander Rent A Car triumphs over Underground, 89-78
+
+date: 2024-07-04, updated: 2024-07-04, from: Marianas Variety
+
+ISLANDER Rent A Car is off to a strong start in the Destroyers Basketball Club Invitational Basketball League after trouncing  the Underground, 89-78, at the TSL Sports Complex on Sunday. 
+
+<https://www.mvariety.com/sports/localsports/islander-rent-a-car-triumphs-over-underground-89-78/article_65e49e84-39e0-11ef-9a7a-4bc084e19aca.html>
+
+---
+
+## Another gorgeous 4th of July
+
+date: 2024-07-04, updated: 2024-07-04, from: Marianas Variety
+
+I JUST watched a beautiful fireworks display conducted along Tinian’s Sanhalom Bay.  It was a memorable end to another gorgeous 4th of July.  Thank you to the organizers (and the funding source)! 
+
+<https://www.mvariety.com/views/letters_to_editor/another-gorgeous-4th-of-july/article_86dafcee-3a05-11ef-bcf5-b3d91bc7f942.html>
 
 ---
 

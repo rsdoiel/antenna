@@ -1,11 +1,21 @@
 ---
 title: mid central 2024.27
-updated: 2024-07-05 08:27:55
+updated: 2024-07-06 20:00:47
 ---
 
 # mid central 2024.27
 
-(date: 2024-07-05 08:27:55)
+(date: 2024-07-06 20:00:47)
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-07-05, from: Amateur Radio Relay League News
+
+<p><span>Solar activity increased this week, with average daily sunspot numbers rising from 149.6 to 181.6. For some reason average daily solar flux decreased from 178 to 175. </span></p><p><span>Seven new sunspot groups emerged this week, one on June 27, two on June 28, three on June 29, and one more on July 3. </span></p><p><span>Average daily planetary index rose from 10.3 to 15.6 while average middle latitude A index rose from 10.1 to 11....</span></p> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-835>
 
 ---
 

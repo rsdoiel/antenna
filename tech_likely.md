@@ -1,11 +1,329 @@
 ---
 title: tech likely 2024.27
-updated: 2024-07-05 08:27:56
+updated: 2024-07-06 20:00:49
 ---
 
 # tech likely 2024.27
 
-(date: 2024-07-05 08:27:56)
+(date: 2024-07-06 20:00:49)
+
+---
+
+## Google is bringing Fuchsia OS to Android devices, but not in the way you’d think
+
+date: 2024-07-05, from: OS News
+
+To evolve Fuchsia beyond smart home devices, Google has been working on projects such as Starnix to run unmodified Linux binaries on Fuchsia devices. In addition, since late April of this year, Google has been working on a new project called “microfuchsia” that aims to make Fuchsia bootable on existing devices via virtualization. Microfuchsia, according to Google, is a Fuchsia OS build that targets virtual machines and is designed to be bootable in virtualization solutions such as QEMU and pKVM. ↫ Mishaal Rahman at Android Authority The goal here might be, according to Mishaal Rahman, might be to use this new microfuchsia thing to replace the stripped-down Android version that&#8217;s currently being used inside Android&#8217;s pKVM to run certain secured workloads. Relevant patches have been submitted to both the Fuchsia and Android side of things for this very purpose. At this point, it really seems that Google&#8217;s grand ambitions with Fuchsia simply didn&#8217;t survive the massive employee culling, with leadership probably reasoning that Android and Chrome OS are good enough, and that replacing them with something homegrown and possibly more suited &#8211; speculation, of course &#8211; simply isn&#8217;t worth the investment in both time and money. It probably makes sense from a financial standpoint, but it&#8217;s still sad. 
+
+<https://www.osnews.com/story/140162/google-is-bringing-fuchsia-os-to-android-devices-but-not-in-the-way-youd-think/>
+
+---
+
+## This Week in the IndieWeb
+
+date: 2024-07-05, from: This week in Indie Web
+
+
+
+<h1><a href="https://indieweb.org/this-week/2024-07-05.html">June 28 through July 5, 2024</a></h1>
+<h2 id="recent-events">Recent Events</h2><p>From <a href="https://events.indieweb.org/archive">events.indieweb.org/archive</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/homebrew-website-club-pacific-H6HjYtrlWMkn" class="u-url">Homebrew Website Club - Pacific</a></div>
+<time class="dt-start" datetime="2024-07-03T18:00:00+00:00">Wednesday, July 3 at 6:00pm</time><br>
+<div><img src="https://indieweb.org/this-week/images/2024-07-05/46baf2e4cfea68a81f03034e09a6534a586e26f5.jpg" style="width:100%" class="u-photo"></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/homebrew-website-club-europe-london-1MGOh2nqIkCp" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-07-03T19:00:00+00:00">Wednesday, July 3 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary"><p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, a coder, or all the above.</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/homebrew-website-club-nürnberg-digital-festival-edition-MpDAKz0jW4Cn" class="u-url">Homebrew Website Club - Nürnberg Digital Festival Edition</a></div>
+<time class="dt-start" datetime="2024-07-03T18:00:00+00:00">Wednesday, July 3 at 6:00pm</time><br>
+<ul><li>NÜRNBERG, Bayern: LEONARDO – Zentrum für Kreativität und Innovation</li></ul><div style="font-style: italic" class="e-summary"><p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p></div><div><img src="https://indieweb.org/this-week/images/2024-07-05/b11b73c097b8727eb6c5ac7811f5efdbd4755310.jpg" style="width:100%" class="u-photo"></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/front-end-study-hall-006-SSFMWaLFzMng" class="u-url">Front End Study Hall #006</a></div>
+<time class="dt-start" datetime="2024-07-02T18:00:00+00:00">Tuesday, July 2 at 6:00pm</time><br>
+<div style="font-style: italic" class="e-summary"><p>Front End Study Hall is an HTML + CSS focused group meeting, held on Zoom to learn from each other about how to make code do what we want.</p>
+
+<p>Come prepared to teach and learn!</p></div><div><img src="https://indieweb.org/this-week/images/2024-07-05/27b3a9f9afa4c339002b7535078078361bae31c3.jpg" style="width:100%" class="u-photo"></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/bonus-online-homebrew-website-club-writing-edition-i8jny55Dngyd" class="u-url">Bonus Online Homebrew Website Club - Writing Edition</a></div>
+<time class="dt-start" datetime="2024-07-01T20:00:00+00:00">Monday, July 1 at 8:00pm</time><br>
+<div style="font-style: italic" class="e-summary"><p>The Homebrew Website Club to discuss the writing and writing-related topics. If you write on the web, whenever this is short message, detailed blog posts, reviews, rantings or fiction, come join us.</p></div></div>
+<h2 id="upcoming-events">Upcoming Events</h2><p>From <a href="https://events.indieweb.org/">events.indieweb.org</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/homebrew-website-club-nuremberg-germany-mSA17SBkPqdw" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2024-07-10T18:00:00+02:00">Wednesday, July 10 at 6:00pm</time><br>
+<ul><li>NÜRNBERG, Bayern: LEONARDO – Zentrum für Kreativität und Innovation</li></ul><div style="font-style: italic" class="e-summary"><p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/homebrew-website-club-global-edition--Leo9V2vDDxQV" class="u-url">Homebrew Website Club (Global Edition)</a></div>
+<time class="dt-start" datetime="2024-07-11T10:00:00+01:00">Thursday, July 11 at 10:00am</time><br>
+<div style="font-style: italic" class="e-summary"><p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, a coder, or all the above.</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/front-end-study-hall-007-J5BjND8jjFJY" class="u-url">Front End Study Hall #007</a></div>
+<time class="dt-start" datetime="2024-07-16T18:00:00+01:00">Tuesday, July 16 at 6:00pm</time><br>
+<div style="font-style: italic" class="e-summary"><p>Front End Study Hall is an HTML + CSS focused group meeting, held on Zoom to learn from each other about how to make code do what we want.</p>
+
+<p>Come prepared to teach and learn!</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/homebrew-website-club-pacific-sDiuGnKF02yt" class="u-url">Homebrew Website Club - Pacific</a></div>
+<time class="dt-start" datetime="2024-07-17T18:00:00-07:00">Wednesday, July 17 at 6:00pm</time><br>
+</div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/send-a-friend-a-webmention-day-Yg7gsfhZDigm" class="u-url">Send a Friend a Webmention Day</a></div>
+<time class="dt-start" datetime="2024-07-30T00:00:00+00:00">Tuesday, July 30</time><br>
+</div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/08/homebrew-website-club-nuremberg-germany-vxakxQ2PARVz" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2024-08-14T18:00:00+02:00">Wednesday, August 14 at 6:00pm</time><br>
+<ul><li>NÜRNBERG, Bayern: LEONARDO – Zentrum für Kreativität und Innovation</li></ul><div style="font-style: italic" class="e-summary"><p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/08/xoxo-2024-Q7X4mFWNaZYa" class="u-url">XOXO 2024</a></div>
+<time class="dt-start" datetime="2024-08-22T00:00:00+00:00">August 22</time> - <time class="dt-end" datetime="2024-08-24T00:00:00+00:00">August 24</time><br>
+<ul><li>PORTLAND, Oregon: Revolution Hall</li></ul></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/08/indiewebcamp-portland-2024-8bucXDlLqR0k" class="u-url">IndieWebCamp Portland 2024</a></div>
+<time class="dt-start" datetime="2024-08-25T00:00:00+00:00">Sunday, August 25</time><br>
+<ul><li>PORTLAND, Oregon: TBD</li></ul><div style="font-style: italic" class="e-summary"><p>A one day IndieWebCamp Portland 2024 is planned for August 25th, the day after the XOXO conference and festival, pending confirmation of a venue! If you're in Portland and have a suggested venue please get in touch via the IndieWeb chat!</p></div></div>
+<h2 id="news">What We’re Reading</h2><p>From <a href="https://news.indieweb.org/en">news.indieweb.org</a>:</p><div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://maw.sh/thoughts/1719962313/" class="u-url p-name">test if i can reply</a></div><div>by <a href="https://maw.sh/" class="p-author h-card">maw.sh</a> on <a href="https://maw.sh/thoughts/1719962313/"><time class="dt-published" datetime="2024-07-02T23:26:35+00:00">July 2</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://maw.sh/thoughts/1719960194/" class="u-url p-name">Actually this feature is pretty Awesome!!</a></div><div>by <a href="https://maw.sh/" class="p-author h-card">maw.sh</a> on <a href="https://maw.sh/thoughts/1719960194/"><time class="dt-published" datetime="2024-07-02T23:06:39+00:00">July 2</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://maw.sh/blog/get-webmention-with-jq-and-yq/" class="u-url p-name">Get webmentions with shell script using jq &amp; yq</a></div><div>by <a href="https://maw.sh/" class="p-author h-card">maw.sh</a> on <a href="https://maw.sh/blog/get-webmention-with-jq-and-yq/"><time class="dt-published" datetime="2024-07-02T12:40:29+00:00">July 2</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://hamatti.org/posts/why-personal-site-rather-than-social-media-presence/" class="u-url p-name">Why a personal site rather than social media presence?</a></div><div>by <a href="https://hamatti.org" class="p-author h-card">hamatti.org</a> on <a href="https://hamatti.org/posts/why-personal-site-rather-than-social-media-presence/"><time class="dt-published" datetime="2024-07-01T06:05:35+00:00">July 1</time></a></div></div>
+
+<h2 id="new-community-members">New Community Members</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=2">IndieWeb Wiki: New User Pages</a>:</p>
+<h3><a href="https://indieweb.org/User%3AThoughts.uncountable.uk">User:Thoughts.uncountable.uk</a></h3><p style="font-size:0.8em;">Created by Thoughts.uncountable.uk on Monday</p>
+<h3><a href="https://indieweb.org/User%3ACodingotaku.com">User:Codingotaku.com</a></h3><p style="font-size:0.8em;">Created by Codingotaku.com on Monday</p>
+<h2 id="new-wiki-pages">Top New Wiki Pages</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb Wiki: New Pages</a>:</p>
+<h3><a href="https://indieweb.org/brackets">brackets</a></h3><p>brackets are (AKA braces) pairs of mirror-image punctuation marks used to delimit some text separate from other text, like ( ) [ ] { } < > « », with special meanings in code such as HTML, CSS, JS, and in templates and mathematics.</p><p style="font-size:0.8em;">Created by [tantek] on Friday with 9 more edits by loqi.me and tantek.com</p>
+<h3><a href="https://indieweb.org/curly_quotes">curly quotes</a></h3><p>curly quotes are pairs of quote marks that are shaped with curves to indicate the start and end of a quotation, like “ ” and ‘ ’ , and should be used in prose content and posts.</p><p style="font-size:0.8em;">Created by Tantek.com on Sunday with 5 more edits by www.jeremycherfas.net and gregorlove.com</p>
+<h3><a href="https://indieweb.org/curated_comments">curated comments</a></h3><p>curated comments are an approach to presenting comments on posts which emphasize one or more techniques for only showing comments that have been explicitly selected by the original post author, both from other sites and local comments, sometimes with a UI deliberately designed to solicit comments as collaborative notes to be added to the original post.</p><p style="font-size:0.8em;">Created by [tantek] on Wednesday and edited 4 more times</p>
+<h2 id="new-event-notes">New Event Notes</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb Wiki: New Pages</a>:</p>
+
+<p><b>events/2024-07-01-writing:</b> <a href="https://indieweb.org/events/2024-07-01-writing">2024-07-01</a></p>
+<p><b>events/2024-07-03-hwc-europe:</b> <a href="https://indieweb.org/events/2024-07-03-hwc-europe">2024-07-03</a></p>
+<p><b>Front End Study Hall #006:</b> <a href="https://indieweb.org/events/2024-07-02-front-end-study-hall">2024-07-02</a></p>
+<p><b>Homebrew Website Club Nürnberg:</b> <a href="https://indieweb.org/events/2024-07-10-hwc-nuremberg">2024-07-10</a></p>
+
+<h2 id="changed-wiki-pages">Top Edited Wiki Pages</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?namespace=0&title=Special%3ARecentChanges">IndieWeb Wiki: Recent Changes</a>:</p>
+<ul>
+<li><b><a href="https://indieweb.org/now">now</a></b> <a href="https://indieweb.org/wiki/index.php?title=now&amp;action=historysubmit&amp;diff=96010&amp;oldid=0">7 edits</a> by tantek.com and loqi.me</li>
+<li><b><a href="https://indieweb.org/Front_End_Study_Hall">Front End Study Hall</a></b> <a href="https://indieweb.org/wiki/index.php?title=Front+End+Study+Hall&amp;action=historysubmit&amp;diff=96065&amp;oldid=95871">4 edits</a> by artlung.com and tantek.com</li>
+<li><b><a href="https://indieweb.org/events/2024-07-03-hwc-nuremberg">events/2024-07-03-hwc-nuremberg</a></b> <a href="https://indieweb.org/wiki/index.php?title=events%2F2024-07-03-hwc-nuremberg&amp;action=historysubmit&amp;diff=96072&amp;oldid=95827">3 edits</a> by bjoern.stierand.org</li>
+<li><b><a href="https://indieweb.org/editor">editor</a></b> <a href="https://indieweb.org/wiki/index.php?title=editor&amp;action=historysubmit&amp;diff=96091&amp;oldid=75741">2 edits</a> by tantek.com</li>
+<li><b><a href="https://indieweb.org/book">book</a></b> <a href="https://indieweb.org/wiki/index.php?title=book&amp;action=historysubmit&amp;diff=96090&amp;oldid=95138">2 edits</a> by loqi.me and tantek.com</li>
+<li><b><a href="https://indieweb.org/CloudFlare">CloudFlare</a></b> <a href="https://indieweb.org/wiki/index.php?title=CloudFlare&amp;action=historysubmit&amp;diff=96089&amp;oldid=83993">2 edits</a> by loqi.me and tantek.com</li>
+<li><b><a href="https://indieweb.org/large_language_model">large language model</a></b> <a href="https://indieweb.org/wiki/index.php?title=large+language+model&amp;action=historysubmit&amp;diff=96087&amp;oldid=95786">2 edits</a> by loqi.me and tantek.com</li>
+<li><b><a href="https://indieweb.org/static_site_generator">static site generator</a></b> <a href="https://indieweb.org/wiki/index.php?title=static+site+generator&amp;action=historysubmit&amp;diff=96040&amp;oldid=95856">2 edits</a> by loqi.me</li>
+<li><b><a href="https://indieweb.org/h-card">h-card</a></b> <a href="https://indieweb.org/wiki/index.php?title=h-card&amp;action=historysubmit&amp;diff=96016&amp;oldid=95779">2 edits</a> by codingotaku.com</li></ul>
+
+ 
+
+<https://indieweb.org/this-week/2024-07-05.html>
+
+---
+
+## Apple bows to Russian censorship once more, removes VPN apps from Russian App Store
+
+date: 2024-07-05, from: OS News
+
+A few weeks ago, I broke the news that Mozilla had removed several anti-censorship Firefox extensions from its store in Russia, and a few days later I also broke the news they reversed course on their decision and reinstated the extensions. Perhaps not worthy of a beauty prize, as a Dutch saying goes, but at least the turnaround time was short, and they did the right thing in the end. Well, let&#8217;s see how Apple is going to deal with the exact same situation. Novaya Gazeta Europe reports that bowing under pressure from the same Russian censors that targeted Mozilla, the company has removed a whole slew of VPN applications used by Russians to evade the stringent totalitarian censorship laws in the warmongering nation. Apple has removed several apps offering virtual private network (VPN) services from the Russian AppStore, following a request from Roskomnadzor, Russia’s media regulator, independent news outlet Mediazona reported on Thursday. The VPN services removed by Apple include leading services such as ProtonVPN, Red Shield VPN, NordVPN and Le VPN. Those living in Russia will no longer be able to download the services, while users who already have them on their phones can continue using them, but will be unable to update them. ↫ Novaya Gazeta Europe Apple has a long history of falling in line with the demands from dictators and totalitarian regimes, and Russia is no stranger to telling Apple what to do. Earlier this year, Apple was ordered to remove an application developed by the team of the murdered opposition figure Alexey Navalny, and of course, Apple rolled over and complied. Much like Apple&#8217;s grotesque suck-up behaviour in China, This stands in stark contrast to Apple&#8217;s whining, complaining, and tantrums in the European Union. It seems Apple finds it more comfortable to operating under dictators than in democracies. 
+
+<https://www.osnews.com/story/140159/apple-bows-to-russian-censorship-once-more-removes-vpn-apps-from-russian-app-store/>
+
+---
+
+## Psion OPL: when we owned our devices
+
+date: 2024-07-05, from: OS News
+
+We talked about Psion last week, and we&#8217;re talking about Psion again this week. This time, Kian Ryan highlights a very important capability of Psion&#8217;s devices, a capability that&#8217;s entirely absent from today&#8217;s mobile devices: a built-in IDE and dedicated programming language so you can write code and build applications, including ones with a graphical user interface, right on the device. All Psion devices could run OPL, either preinstalled on the device or via a DATAPAK memory card. It&#8217;s a BASIC-esque programming language, and while you could develop OPL programs on your PC in DOS, Psion devices also shipped with an IDE preinstalled so you could get just as much done on the device itself. Back then, this wasn&#8217;t particularly unique, but these days, mobile devices have become so locked-down and dumb that developing applications on-device is basically a non-starter. Which can’t be said about my current mobile. My mobile is a great device to consume content on, but it has no built in tools to extend its functionality. If I want to build an application for it, I have to use another computer to download a build environment, build the application, sign it, and then transfer the packaged app to my phone. On the Psion, all the tools are right there, on my home screen. It does feel like we’re missing an opportunity here. ↫ Kian Ryan They&#8217;re entirely right, of course. Our current mobile devices are faster and technically more capable than ever, but extending the functionality of your smartphone using the smartphone itself by writing and compiling code on it is far more cumbersome than it was in the past. Even my Psion Organiser II LZ64, from 1986, has OPL on it, and if I took the time to relearn the basic BASIC I once knew, I could probably still program something useful on it today, almost 40 years later, without being gatekept by anyone, and without needing any other device. That&#8217;s something quite magical that we&#8217;ve lost, and that&#8217;s sad. 
+
+<https://www.osnews.com/story/140155/psion-opl-when-we-owned-our-devices/>
+
+---
+
+## Dynamic Type on the Web
+
+date: 2024-07-05, from: Michael Tsai
+
+Craig Hockenberry: This site now supports Dynamic Type on iOS and iPadOS. If you go to System Settings on your iPhone or iPad, and change the setting for Display &#38; Brightness &#62; Text Size, you&#8217;ll see the change reflected on this website. This is a big win for accessibility: many folks make this adjustment on [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/05/dynamic-type-on-the-web/>
+
+---
+
+## Sequoia Removes Gatekeeper Contextual Menu Override
+
+date: 2024-07-05, from: Michael Tsai
+
+Jason Snell: Here&#8217;s a thing I noticed today. macOS Sequoia changes how non-notarized apps are handled on first launch. I couldn&#8217;t override by doing the control-click &#62; Open &#62; yes really Open dance. Instead, I had to go to the Settings app, to the Security screen, and click there to allow it to open. At [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/05/sequoia-removes-gatekeeper-contextual-menu-override/>
+
+---
+
+## Epic Games Store Blocked via Notarization
+
+date: 2024-07-05, from: Michael Tsai
+
+Ben Lovejoy (Slashdot): Epic Games has accused Apple of deliberately delaying its attempt to launch its own iOS games store in Europe, and has filed a further antitrust complaint with the EU. Epic Games: Apple has rejected our Epic Games Store notarization submission twice now, claiming the design and position of Epic&#8217;s &#8220;Install&#8221; button is [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/05/epic-games-store-blocked-via-notarization/>
+
+---
+
+## Apple Removes VPN Apps From Russian App Store
+
+date: 2024-07-05, from: Michael Tsai
+
+William Gallagher (Mastodon): Apple&#8217;s App Store team has been notifying VPN developers that their apps are being removed &#8220;per demand from Roskomnadzor.&#8221; This the state media watchdog that previously forced both Apple and Google to remove a political app backed by the leader of the country&#8217;s opposition.According to the Moscow Times, the Roskomnadzor regulator based [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/05/apple-removes-vpn-apps-from-russian-app-store/>
+
+---
+
+## DOJ Investigating Apple-Google Default Search Engine Deal
+
+date: 2024-07-05, from: Michael Tsai
+
+Hartley Charlton: Apple&#8217;s deal with Google that makes it the default engine on Safari faces uncertainty as the U.S. Department of Justice&#8217;s antitrust lawsuit looms, The Information reports. Chance Miller: Google pays Apple upwards of $20 billion per year to retain that default status, something the Justice Department says hinders competition in the search engine [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/05/doj-investigating-apple-google-default-search-engine-deal/>
+
+---
+
+## Bruce Bastian, RIP
+
+date: 2024-07-05, from: Michael Tsai
+
+Thomas Claburn: Bastian helped create the word processing application that became WordPerfect while still a graduate student at Brigham Young University, working with Alan Ashton, his computer science professor.They formed Satellite Software International (SSI) in 1979 and released an initial version of the software in March 1980 under the name SSI*WP for the Data General [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/05/bruce-bastian-rip/>
+
+---
+
+## The NASA Breath Diagnostics Challenge
+
+date: 2024-07-05, from: NASA breaking news
+
+The NASA Breath Diagnostics challenge tasks solvers to leverage their expertise to develop a classification model that can accurately discriminate between the breath of COVID-positive and COVID-negative individuals, using existing data. The ultimate goal is to improve the accuracy of the NASA E-Nose device as a potential clinical tool that would provide diagnostic results based [&#8230;] 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/the-nasa-breath-diagnostics-challenge/>
+
+---
+
+##  Here&#8217;s what the web looked like in 1994, including the likes of... 
+
+date: 2024-07-05, updated: 2024-07-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044904-heres-what-the-web-looked>
+
+---
+
+## reconnect: Psion connectivity for macOS
+
+date: 2024-07-05, from: Tilde.news
+
+<p><a href="https://tilde.news/s/ozdv22/reconnect_psion_connectivity_for_macos">Comments</a></p> 
+
+<https://github.com/inseven/reconnect>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-05, from: Dave Winer's Scripting News)
+
+Threads gives you a virtual <a href="https://imgs.scripting.com/2024/07/05/stub.png">ticket stub</a> for when you join, nice touch. 
+
+<http://scripting.com/2024/07/05.html#a185300>
+
+---
+
+##  Interesting convo about AI. &#8220;Working with AI has made me even more... 
+
+date: 2024-07-05, updated: 2024-07-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044903-interesting-interview-abo>
+
+---
+
+## Keys To The Future
+
+date: 2024-07-05, from: Tedium site
+
+Thoughts on a new phone keyboard from an organization that is making a convincing case we need to rethink our discussion around FOSS and self-hosting. 
+
+<https://feed.tedium.co/link/15204/16735463/futo-keyboard-foss-source-first-discussion>
+
+---
+
+##  Diary Comics, July 1 
+
+date: 2024-07-05, updated: 2024-07-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/diary-comics-july-1>
+
+---
+
+## NASA Science Activation Teams Present at National Rural STEM Summit
+
+date: 2024-07-05, from: NASA breaking news
+
+NASA Science Activation (SciAct) teams participated in the National Rural STEM (Science, Technology, Engineering, &#038; Mathematics) Summit held June 4-7, 2024 in Tucson, Arizona. Hosted by Kalman Mannis of the Rural Activation and Innovation Network (Arizona Science Center) and the SciTech Institute, the summit fostered learning and sharing among organizations dedicated to creating partnerships and […] 
+
+<https://science.nasa.gov/learning-resources/science-activation/nasa-science-activation-teams-present-at-national-rural-stem-summit/>
+
+---
+
+##  Archaeologists have discovered that Denisovan humans survived for at least 100,000 years... 
+
+date: 2024-07-05, updated: 2024-07-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044902-archaeologists-have-disco>
+
+---
+
+##  Season three of The Bear &#8220;struggles to make its point about the... 
+
+date: 2024-07-05, updated: 2024-07-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044901-season-three-of-the-bear>
+
+---
+
+## Ant Surgeons
+
+date: 2024-07-05, updated: 2024-07-05, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/07/05/ant-surgeons/>
 
 ---
 
@@ -49,7 +367,7 @@ I&#8217;ve been working on a bunch of small projects involving microcontrollers.
 
 **@Dave Winer's Scripting News** (date: 2024-07-05, from: Dave Winer's Scripting News)
 
-I hear that cancelling a NYT subscription is wicked hard. That <a href="http://scripting.com/2024/07/04/bullshit2.m4a">alone</a> is making me feel like cancelling. I cancelled their morning email of things I need to know about. It's one thing for them to exclusively report on Biden's age in their space, but my mailbox is mine. Get the fuck out of my mailbox. 
+I hear that cancelling a NYT subscription is wicked hard. That <a href="http://scripting.com/2024/07/04/bullshit2.m4a">alone</a> makes me feel like cancelling. I cancelled their morning email of things I need to know about. It's one thing for them to exclusively report on Biden's age in their space, but my mailbox is mine. Get the F out of my mailbox. 
 
 <http://scripting.com/2024/07/05.html#a141207>
 
@@ -65,7 +383,7 @@ This year I'm thinking how we can boot up a source of news that has the balance 
 
 **@Dave Winer's Scripting News** (date: 2024-07-05, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="http://scripting.com/images/2024/05/05/marchOnWashington.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Congrats to Threads on a good first year. Looks like I <a href="https://www.threads.net/@davew">signed in</a> on opening day, <a href="http://scripting.com/2023/07/05.html">July 5, 2023</a>. They have done a good job of slipping into the spot previously occupied exclusively by Twitter. 
+Congrats to Threads on a good first year. Looks like I <a href="https://www.threads.net/@davew">signed in</a> on opening day, <a href="http://scripting.com/2023/07/05.html">July 5, 2023</a>. They have done a good job of slipping into the spot previously occupied exclusively by Twitter. 
 
 <http://scripting.com/2024/07/05.html#a140632>
 
@@ -106,8 +424,6 @@ date: 2024-07-05, from: Manu - I write blog
 <p>I want to say: start even earlier. But that is also difficult because I do feel that I didn’t have much to say before I was 25 yo and also I didn’t discover my “voice”. But I think trying writing helps to discover that voice.</p>
 <p>Write as often as you can. If it’s 5 essays per year - it’s still good. I collected many over the years and sometimes I open some and read and get surprised with some insights I got. It’s a very interesting feeling. </p>
 <p>I feel like even now I don’t capture most of the insights I have during the year. So writing more is always a good advice.</p>
-<p>Write as often as you can. If it’s 5 essays per year - it’s still good. I collected many of the year and sometimes I open some and read and surprised with some insights I got. It’s very interesting feeling. </p>
-<p>I feel like even now I don’t capture huge junk of the insights I have during the year. So writing more is always a good advice.</p>
 <h2>Financial question since the web is obsessed with money: how much does it cost to run your blog? Is it just a cost or does it generate some revenue? And what's your position on people monetising personal blogs?</h2>
 <p>I think people should do what they feel is good for them. If you are in the position where you want/need to monetize - do that. If money is not critical, do not do it. Eg write for yourself first. On top of that there might be some second order unpredictable benefits to writing. Eg someone would reach out to you and would offer a job or collaboration. This is way better than money(if you don’t need them).</p>
 <p>Hard to say how much does it cost to run my site since it runs using the tool that I made. But for other people this tool is free:)</p>
@@ -250,6 +566,31 @@ date: 2024-07-05, from: Manu - I write blog
 
 ---
 
+## check_pgbackrest 2.4 has been released
+
+date: 2024-07-05, from: PostgreSQL News
+
+<p><em>Mons, Belgium, July 05, 2024</em></p>
+<p><code>check_pgbackrest</code> is designed to monitor <a href="https://pgbackrest.org">pgBackRest</a> backups from Nagios, relying on the status information given by the <a href="https://pgbackrest.org/command.html#command-info">info</a> command.</p>
+<p>It allows to monitor the backups retention and the consistency of the archived WAL segments.</p>
+<h2>Changes in check_pgbackrest 2.4</h2>
+<ul>
+<li>Only support pgBackRest <strong>2.52</strong> and above to fix issue with new pgBackRest versioning policy since <code>2.52.1</code>. (Reported by netphantm)</li>
+<li>Add new <code>pgbackrest_version</code> service, in order to check for a specific pgBackRest target version.</li>
+</ul>
+<h2>Links &amp; Credits</h2>
+<p>This is an open project, licensed under the PostgreSQL license. 
+Any contribution to improve it is welcome.</p>
+<p>Links:</p>
+<ul>
+<li>Download: https://github.com/pgstef/check_pgbackrest/releases</li>
+<li>Support: https://github.com/pgstef/check_pgbackrest/issues</li>
+</ul> 
+
+<https://www.postgresql.org/about/news/check_pgbackrest-24-has-been-released-2890/>
+
+---
+
 ## David Rosenthal on the X Windowing System’s 40th birthday
 
 date: 2024-07-04, from: OS News
@@ -310,7 +651,7 @@ Chrome Security Team (via Jeff Johnson, Hacker News): Over the past six years, w
 
 ---
 
-## Translation API in iOS 17 and macOS Sequoia
+## Translation API in iOS 18 and macOS Sequoia
 
 date: 2024-07-04, from: Michael Tsai
 
@@ -2639,8 +2980,8 @@ date: 2024-07-01, from: Manu - I write blog
 
 
                 <p>There’s a subtle difference between being humble and pretending to be something you’re not. If you are successful in some field you can—and should—recognise your success while still being humble and not letting the success make you arrogant. I find that not doing that, not recognising your success in any shape or form, can grind me in the wrong way. Because at some point you start to feel disingenuous. </p>
-<p>People and Blog is a passion project. It’s not a “successful” project by any metric. Combining RSS, Email and the site, it probably has a few thousand readers. And don’t get me wrong, it’s great. I’m grateful for that and I’ll continue to post these interviews for as long as I can. 72 incredibly <a href="http://manuelmoreale.com/supporters">kind people</a> have also decided to contribute some of their money to support it and that’s also something I’m very appreciative of.</p>
-<p>Still, I think of P&amp;B as a very niche side project, far from being a successful one. Now let’s imagine that instead of a few thousand, the P&amp;B audience was a few hundreds of thousands and instead of 72 people, 7000 were contributing something every month. At the current average that would net me almost 16000$ a month. That’s around 200k a year and it would make me in the top 0.5% of earners here in Italy. Could I still go around claiming my project was not successful? Hell no. I’d be a hypocrite if I were to do that. And you’d be rightfully pissed at me if I were still nudging you to support for 1$ a month while also being part of the 1%.</p>
+<p>People and Blog is a passion project. It’s not a “successful” project by any metric. Combining RSS, Email and the site, it probably has a few thousand readers. And don’t get me wrong, it’s great. I’m grateful for that and I’ll continue to post these interviews for as long as I can. 71 incredibly <a href="http://manuelmoreale.com/supporters">kind people</a> have also decided to contribute some of their money to support it and that’s also something I’m very appreciative of.</p>
+<p>Still, I think of P&amp;B as a very niche side project, far from being a successful one. Now let’s imagine that instead of a few thousand, the P&amp;B audience was a few hundreds of thousands and instead of 71 people, 7000 were contributing something every month. At the current average that would net me almost 16000$ a month. That’s around 200k a year and it would make me in the top 0.5% of earners here in Italy. Could I still go around claiming my project was not successful? Hell no. I’d be a hypocrite if I were to do that. And you’d be rightfully pissed at me if I were still nudging you to support for 1$ a month while also being part of the 1%.</p>
 <p>I find it interesting that the pursuit of endless growth is something we despise when corporations are doing it but it’s not something that bothers us too much when it’s done by “content creators”. And yet, after a certain scale, it’s the same mindset. This is why I love to support small creators who do things simply because they enjoy it and are not driven by other incentives.</p>
 <p>I love something <a href="https://manuelmoreale.com/pb-om-malik">Om said in his interview </a>:</p>
 <blockquote>

@@ -1,11 +1,31 @@
 ---
 title: games 2024.27
-updated: 2024-07-05 08:27:58
+updated: 2024-07-06 20:00:50
 ---
 
 # games 2024.27
 
-(date: 2024-07-05 08:27:58)
+(date: 2024-07-06 20:00:50)
+
+---
+
+## Genshin Impact version 4.8 livestream codes
+
+date: 2024-07-05, updated: 2024-07-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/genshin-impact-guides/24191672/patch-4-8-livestream-primogem-codes-redeem>
+
+---
+
+## Studio Ponoc wants its anime to change the world — and escape Studio Ghibli’s shadow
+
+date: 2024-07-05, updated: 2024-07-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/anime/24190136/studio-ponoc-the-imaginary-netflix-yoshiaki-nishimura-interview>
 
 ---
 

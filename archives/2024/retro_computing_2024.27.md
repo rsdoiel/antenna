@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.27
-updated: 2024-07-05 08:28:00
+updated: 2024-07-06 20:00:53
 ---
 
 # retro computing 2024.27
 
-(date: 2024-07-05 08:28:00)
+(date: 2024-07-06 20:00:53)
+
+---
+
+## libfp: Floating point library
+
+date: 2024-07-05, from: FreeDOS News
+
+<div class="markdown_content"><p>Gregory Pietsch has been working on libfp, a floating point library. Gregory explains: "This library is supposed to be the complement to libmpi in the C runtime library." Gregory asks all interested developers to test it out; you can share feedback on the freedos-devel email list. The libfp library is in the public domain, and you can download version "zero point zero" at <a class="" href="https://ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/libs/libfp/0.0/" rel="nofollow">/devel/libs/libfp</a> on the FreeDOS FIles Archive at Ibiblio.</p></div> 
+
+<https://sourceforge.net/p/freedos/news/2024/07/libfp-floating-point-library/>
+
+---
+
+## Starcraft (A History in Two Acts)
+
+date: 2024-07-05, from: Digital Antiquarian
+
+Act 1: Starcraft the Game Great success brings with it great expectations. And sometimes it brings an identity crisis as well. After Blizzard Entertainment&#8217;s Warcraft: Orcs and Humans became a hit in 1995, the company started down a very conventional path for a new publisher feeling its oats, initiating a diverse array of projects from [&#8230;] 
+
+<https://www.filfre.net/2024/07/starcraft-a-history-in-two-acts/>
 
 ---
 

@@ -1,11 +1,60 @@
 ---
 title: writing 2024.27
-updated: 2024-07-05 08:27:57
+updated: 2024-07-06 20:00:50
 ---
 
 # writing 2024.27
 
-(date: 2024-07-05 08:27:57)
+(date: 2024-07-06 20:00:50)
+
+---
+
+## Photo Story: Brooklyn Books & Booze
+
+date: 2024-07-05, from: Locus Magazine
+
+<p>The third anniversary Brooklyn Books &#38; Booze reading series event was held May 21, 2024 at Barrow’s Intense Tasting Room, Industry City, Brooklyn NY. The readers were Nicholas Kaufmann, M.M. DeVoe, Christina Cooke, and Matthew Kressel, and Randee Dawn hosted. Other authors in attendance included Meg Elison, C.S.E. Cooney, Carlos Hernandez, Amy Grech, Karen Heuler, Chandler Klang Smith, Carol Gyzander, and Teel James Glenn.</p>
+
+<p></p>
+<p><strong>Photographer: Randee Dawn</strong></p>
+<p><strong>While you are </strong> <a href="https://locusmag.com/2024/07/photo-story-brooklyn-books-booze/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/photo-story-brooklyn-books-booze/>
+
+---
+
+## Davies Wins Wales Book of the Year Award
+
+date: 2024-07-05, from: Locus Magazine
+
+<p>Literature Wales has announced the English-language winners of the 2024 Wales Book of the Year Awards. Of genre interest, <strong>Skrimsli</strong> by Nicola Davies (Firefly) won the Bute Energy Children &#38; Young People Award.</p>
+<p>The Awards are held annually to celebrate &#8220;outstanding literary talent from Wales across many genres and in both English and Welsh.&#8221; There are 12 total awards in English and Welsh, and all winners split the £14,000 collective  <a href="https://locusmag.com/2024/07/davies-wins-wales-book-of-the-year-award/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/davies-wins-wales-book-of-the-year-award/>
+
+---
+
+## 6 Keys to Writing a Short Script
+
+date: 2024-07-05, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/6-keys-to-writing-a-short-script" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Henry%20Sugar.jpeg" alt="A man reading from a book in 'The Wonderful Story of Henry Sugar,' 6 Keys to Writing a Short Script" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>There are many reasons to write a script for a short film. Many emerging screenwriters will write, direct, and produce a short film to use as a calling card for their feature screenplays, either as a proof of concept for a specific feature script</span><span> or to establish themselves on the film festival circuit. Whatever your reason for writing a short film script, here are six key elements to </span><span>keep in mind</span><span> when crafting your story.&nbsp;</span></p> 
+
+<https://blog.finaldraft.com/6-keys-to-writing-a-short-script>
+
+---
+
+## Liz Bourke Reviews Foul Days by Genoveva Dimova
+
+date: 2024-07-05, from: Locus Magazine
+
+<p><strong>Foul Days</strong>, Genoveva Dimova (Tor 978-1-250-87731-4, $17.99, 368pp, tp) June 2024. Cover by Rovina Cai.</p>
+<p><strong>Foul Days </strong>is Scotland-based Genoveva Dimova’s debut novel. It mixes folklore and modernity, setting itself between the walled ghetto-city of Chernograd – where monsters roam the streets, magic is as commonplace as poverty, and in order to leave you have to pay people-smugglers to get you across the wall – and the prosperous city  <a href="https://locusmag.com/2024/07/liz-bourke-reviews-foul-days-by-genoveva-dimova/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/liz-bourke-reviews-foul-days-by-genoveva-dimova/>
 
 ---
 

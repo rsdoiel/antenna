@@ -1,19 +1,124 @@
 ---
 title: socal north 2024.27
-updated: 2024-07-05 08:27:53
+updated: 2024-07-06 20:00:46
 ---
 
 # socal north 2024.27
 
-(date: 2024-07-05 08:27:53)
+(date: 2024-07-06 20:00:46)
 
 ---
 
-## A brief history of the ‘Valley Girl’ stereotype
+## Cockpit Concert returns to Two Harbors
+
+date: 2024-07-05, from: Catalina Islander
+
+The Channel Cruising Club is sponsoring the third annual Cockpit Concert on Friday, July 5 at 2:30 p.m. at the Two Harbors Isthmus. Featuring Scott Grillo on guitar, the free concert will feature a range of classic rock and country western fan favorites. The show boat will be at J27 mooring. Load up your dinghy [&#8230;] 
+
+<https://thecatalinaislander.com/cockpit-concert-returns-to-two-harbors/>
+
+---
+
+## Curb marking rules to change
+
+date: 2024-07-05, from: Catalina Islander
+
+The Avalon City Council on July 2 introduced an ordinance that amended the city code for curb markings. The council is expected to adopt the ordinance at the next council meeting, according to the staff report. The council also declared that the Municipal Code amendment is exempt from the California Environmental Quality Act. The vote [&#8230;] 
+
+<https://thecatalinaislander.com/curb-marking-rules-to-change/>
+
+---
+
+## Straight Up Builders, Catalina Express, Coyote Joe’s victorious
+
+date: 2024-07-05, from: Catalina Islander
+
+With three weeks of league play left, the Catalina CoEd Softball League standings got a little tighter. Straight Up Builders took on undefeated Catalina Realtors in the first game of the night. Straight Up Builders was up first and came out swinging. Four base hits, three walks, doubles from Chuy Sillas and Briana Morones along [&#8230;] 
+
+<https://thecatalinaislander.com/straight-up-builders-catalina-express-coyote-joes-victorious/>
+
+---
+
+## City OKs mooring contract transfer
+
+date: 2024-07-05, from: Catalina Islander
+
+The City Council voted unanimously this week to transfer the franchise agreement for Avalon Mooring and Diving Services, Inc., from Mark Bray to Scott Gorelczenko. The council also authorized the city manager to execute the eighth amendment to the franchise agreement. “This assignment is contingent upon the parties executing an agreement to transfer the business,” [&#8230;] 
+
+<https://thecatalinaislander.com/city-oks-mooring-contract-transfer/>
+
+---
+
+## Documentary: Rosie and Lolo
+
+date: 2024-07-05, from: Catalina Islander
+
+The second installment of the Summer Documentary Series, “Rosie and Lolo,” delves into the heartwarming and inspiring story of two islanders who made a significant impact on the Catalina Island community. The first, Rosie, features beloved island resident Rosie Cadman (pictured). The film celebrates her life in Avalon and her current role as the island’s [&#8230;] 
+
+<https://thecatalinaislander.com/documentary-rosie-and-lolo/>
+
+---
+
+## City to Begin Annual Road Rehab Program to Maintain Arterial and Neighborhood Streets
+
+date: 2024-07-05, from: City of Santa Clarita
+
+<p>The City of Santa Clarita will soon begin construction work on the annual 2024 -2025 Road Rehab Program, which uses slurry seal and overlay road treatment to improve City roadways, resurfacing and coating street surfaces, crack sealing, reconstruction and maintenance of roads throughout the City. Construction on the Road Rehab project is anticipated to begin [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/07/05/city-to-begin-annual-road-rehab-program-to-maintain-arterial-and-neighborhood-streets/">City to Begin Annual Road Rehab Program to Maintain Arterial and Neighborhood Streets</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/07/05/city-to-begin-annual-road-rehab-program-to-maintain-arterial-and-neighborhood-streets/>
+
+---
+
+## Four People Injured and Suspect Taken into Custody in Pacoima Stabbing
+
+date: 2024-07-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>PACOIMA (CNS) &#8211; Four people were wounded and one person was taken into custody from a stabbing that started with a fight in Pacoima early this morning, July 5. The [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/05/four-people-injured-and-suspect-taken-into-custody-in-pacoima-stabbing/">Four People Injured and Suspect Taken into Custody in Pacoima Stabbing</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/05/four-people-injured-and-suspect-taken-into-custody-in-pacoima-stabbing/>
+
+---
+
+## The overlooked advantages of attending an all-girls high school
+
+date: 2024-07-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+I looked at the group of people sitting around me at orientation, eagerly taking in all the new faces. When my eyes met those of a boy sitting across from me, I smiled and thought to myself, &#8220;How sweet, he came all this way to support his sister.&#8221;
+Then suddenly it hit me. 
+
+<https://dailybruin.com/2024/07/05/the-overlooked-advantages-of-attending-an-all-girls-high-school/>
+
+---
+
+## California voters will decide who wins on health care tax: Gavin Newsom or doctors
 
 date: 2024-07-05, updated: 2024-07-05, from: The LAist
 
-Think you know the origins of the ‘Valley Girl’ accent? Like OMG, as if! We dig into the past to explore how this ear-cringing accent evolved in the San Fernando Valley. 
+The health care industry put a measure on the November ballot that would raise more money for Medi-Cal and block lawmakers from spending it on general government services. Billions of dollars are on the line. 
+
+<https://laist.com/news/politics/california-voters-will-decide-who-wins-on-health-care-tax>
+
+---
+
+## Here are the 10 California props we'll be voting on in November
+
+date: 2024-07-05, updated: 2024-07-05, from: The LAist
+
+The final list is out. Here's an overview of what to know. 
+
+<https://laist.com/news/politics/california-ballot-propositions-2024-general-election>
+
+---
+
+## Think you know the origins of the ‘Valley Girl’ accent? Like OMG, as if!
+
+date: 2024-07-05, updated: 2024-07-05, from: The LAist
+
+We explore the origins of how the ear-cringing accent really evolved in the San Fernando Valley. 
 
 <https://laist.com/news/la-history/los-angeles-valley-girl-accent-socal-california-english>
 
@@ -51,6 +156,18 @@ date: 2024-07-04, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/07/04/playing-with-pride/>
+
+---
+
+## The Rink is Rolling Along
+
+date: 2024-07-04, from: City of Santa Clarita
+
+<p>By Mayor Cameron Smyth Growing up in the 1980s, I have many fond memories of spending time with friends at the Skate-N-Place on Soledad. From the neon lights dancing on the floor to Depeche Mode playing on the speakers, skating rinks have always held a certain nostalgia for me. That is why I am excited [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/07/04/the-rink-is-rolling-along/">The Rink is Rolling Along</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/07/04/the-rink-is-rolling-along/>
 
 ---
 

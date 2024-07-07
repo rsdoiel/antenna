@@ -1,11 +1,101 @@
 ---
 title: columns 2024.27
-updated: 2024-07-05 08:27:57
+updated: 2024-07-06 20:00:49
 ---
 
 # columns 2024.27
 
-(date: 2024-07-05 08:27:57)
+(date: 2024-07-06 20:00:49)
+
+---
+
+## Friday Squid Blogging: Newly Discovered Vampire Squid
+
+date: 2024-07-05, updated: 2024-07-05, from: Bruce Schneier blog
+
+<p>A new vampire squid species <a href="https://www.livescience.com/animals/mollusks/never-before-seen-vampire-squid-species-discovered-in-twilight-zone-of-south-china-sea">was</a> <a href="https://www.wionews.com/trending/rare-vampire-squids-appearance-in-south-china-sea-leaves-biologists-puzzled-737927">discovered</a> in the South China Sea.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/07/friday-squid-blogging-newly-discovered-vampire-squid.html>
+
+---
+
+##  Here&#8217;s what the web looked like in 1994, including the likes of... 
+
+date: 2024-07-05, updated: 2024-07-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044904-heres-what-the-web-looked>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-05, from: Dave Winer's Scripting News)
+
+Threads gives you a virtual <a href="https://imgs.scripting.com/2024/07/05/stub.png">ticket stub</a> for when you join, nice touch. 
+
+<http://scripting.com/2024/07/05.html#a185300>
+
+---
+
+##  Interesting convo about AI. &#8220;Working with AI has made me even more... 
+
+date: 2024-07-05, updated: 2024-07-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044903-interesting-interview-abo>
+
+---
+
+## The Pile-on
+
+date: 2024-07-05, from: Robert Reich's blog
+
+It feeds on itself 
+
+<https://robertreich.substack.com/p/the-pile-on>
+
+---
+
+##  Diary Comics, July 1 
+
+date: 2024-07-05, updated: 2024-07-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/diary-comics-july-1>
+
+---
+
+## July 4, 2024
+
+date: 2024-07-05, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/july-4-2024-b96>
+
+---
+
+##  Archaeologists have discovered that Denisovan humans survived for at least 100,000 years... 
+
+date: 2024-07-05, updated: 2024-07-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044902-archaeologists-have-disco>
+
+---
+
+##  Season three of The Bear &#8220;struggles to make its point about the... 
+
+date: 2024-07-05, updated: 2024-07-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044901-season-three-of-the-bear>
 
 ---
 
@@ -31,7 +121,7 @@ date: 2024-07-05, updated: 2024-07-05, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-07-05, from: Dave Winer's Scripting News)
 
-I hear that cancelling a NYT subscription is wicked hard. That <a href="http://scripting.com/2024/07/04/bullshit2.m4a">alone</a> is making me feel like cancelling. I cancelled their morning email of things I need to know about. It's one thing for them to exclusively report on Biden's age in their space, but my mailbox is mine. Get the fuck out of my mailbox. 
+I hear that cancelling a NYT subscription is wicked hard. That <a href="http://scripting.com/2024/07/04/bullshit2.m4a">alone</a> makes me feel like cancelling. I cancelled their morning email of things I need to know about. It's one thing for them to exclusively report on Biden's age in their space, but my mailbox is mine. Get the F out of my mailbox. 
 
 <http://scripting.com/2024/07/05.html#a141207>
 
@@ -47,7 +137,7 @@ This year I'm thinking how we can boot up a source of news that has the balance 
 
 **@Dave Winer's Scripting News** (date: 2024-07-05, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="http://scripting.com/images/2024/05/05/marchOnWashington.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Congrats to Threads on a good first year. Looks like I <a href="https://www.threads.net/@davew">signed in</a> on opening day, <a href="http://scripting.com/2023/07/05.html">July 5, 2023</a>. They have done a good job of slipping into the spot previously occupied exclusively by Twitter. 
+Congrats to Threads on a good first year. Looks like I <a href="https://www.threads.net/@davew">signed in</a> on opening day, <a href="http://scripting.com/2023/07/05.html">July 5, 2023</a>. They have done a good job of slipping into the spot previously occupied exclusively by Twitter. 
 
 <http://scripting.com/2024/07/05.html#a140632>
 

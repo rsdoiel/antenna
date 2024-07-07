@@ -1,11 +1,31 @@
 ---
 title: motorcycles 2024.27
-updated: 2024-07-05 08:27:59
+updated: 2024-07-06 20:00:52
 ---
 
 # motorcycles 2024.27
 
-(date: 2024-07-05 08:27:59)
+(date: 2024-07-06 20:00:52)
+
+---
+
+## ARCA Menards Series West: 2024 Irwindale 1 Race Review
+
+date: 2024-07-05, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires The fifth race of the 2023 ARCA Menards West Series season, the first of two races for the Irwindale doubleheader, the NAPA&#8230;  
+
+<https://kickinthetires.net/nascar/arca-west-2024-irwindale-1-race-review/>
+
+---
+
+## GALLERY: Nashville Superspeedway Cup Series Race
+
+date: 2024-07-05, from: Kickin the Tires blog
+
+Kickin&#8217; the Tires photographer, Ty Cobb, was at the Nashville Superspeedway Cup Series race and captured these moments throughout the event. 
+
+<https://kickinthetires.net/nascar/cup/gallery-nashville-superspeedway-cup-series-race/>
 
 ---
 
@@ -36,6 +56,16 @@ date: 2024-07-05, from: Kickin the Tires blog
 By Cole Cusumano, Staff Writer CHICAGO – One could make the case that NASCAR Cup Series crew chiefs have the most important job in the garage. These master strategists are&#8230;  
 
 <https://kickinthetires.net/nascar/return-to-chicago-presents-wide-range-of-welcomed-challenges-for-cup-crew-chiefs/>
+
+---
+
+## Return to Chicago Presents Variety of Welcomed Challenges for Cup Crew Chiefs
+
+date: 2024-07-05, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer CHICAGO – One could make the case that NASCAR Cup Series crew chiefs have the most important job in the garage. These master strategists are&#8230;  
+
+<https://kickinthetires.net/nascar/chicago-presents-challenges-crew-chiefs/>
 
 ---
 
