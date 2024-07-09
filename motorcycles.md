@@ -1,11 +1,141 @@
 ---
 title: motorcycles 2024.28
-updated: 2024-07-08 07:53:34
+updated: 2024-07-09 07:26:55
 ---
 
 # motorcycles 2024.28
 
-(date: 2024-07-08 07:53:34)
+(date: 2024-07-09 07:26:55)
+
+---
+
+## BRP Rakes in a Whopping Six Red Dot Design Awards
+
+date: 2024-07-09, from: Ride Apart, Electric Motorcycle News
+
+Products from Can-Am, Sea-Doo, Lynx, and Advex bagged the prestigious design award.  
+
+<https://www.rideapart.com/news/725768/brp-six-red-dot-design-awards/>
+
+---
+
+## Honda Issues Recall on Three Dirt Bike Models Due to Crash and Injury Hazard
+
+date: 2024-07-09, from: Ride Apart, Electric Motorcycle News
+
+One injury has been reported.  
+
+<https://www.rideapart.com/news/725898/honda-recall-crf50f-crf110f-crf125f-dirt-bike/>
+
+---
+
+## You Guys, The Maniacs at Italjet Are Making A 700cc Dragster Scooter
+
+date: 2024-07-09, from: Ride Apart, Electric Motorcycle News
+
+559cc just wasn't enough for these Italian legends. 
+
+<https://www.rideapart.com/news/725889/italjet-dragster-twin-700-preorders/>
+
+---
+
+## Bimota is Getting Real Close to Missing Homologation Rules for its Race Motorcycle
+
+date: 2024-07-09, from: Ride Apart, Electric Motorcycle News
+
+Bimota will need to produce a bunch of them if it wants to race in WSBK in 2025.  
+
+<https://www.rideapart.com/news/725776/bimota-kb5-homologation-wsbk/>
+
+---
+
+## Will This Orange County Chopper Ever Run Right?
+
+date: 2024-07-09, from: Ride Apart, Electric Motorcycle News
+
+Is the Geico OCC bike a total lost cause, or will it one day stand up to doing a road trip? 
+
+<https://www.rideapart.com/news/725882/orange-county-chopper-unfixable-mess/>
+
+---
+
+## Indian Motorcycle Brings the Thunder to Goodwood Festival of Speed with the Challenger RR and FTR750
+
+date: 2024-07-08, from: Cycle World News
+
+Indian Motorcycle, America’s first motorcycle company, will bring the thundering sound of King Of The Baggers and American Flat Track racing to the UK. 
+
+<https://www.cycleworld.com/the-wire/indian-motorcycle-brings-thunder-to-goodwood-festival-of-speed-with-challenger-rr-and-ftr750/>
+
+---
+
+## Aprilia Racing - The RS 457 Trophy is Born to Promote Young Talents
+
+date: 2024-07-08, from: Cycle World News
+
+The Aprilia RS 457 Trophy, dedicated to bikes equipped with the Racing Kit, will make its debut with two races in September and October. 
+
+<https://www.cycleworld.com/the-wire/aprilia-racing-rs-457-trophy-born-to-promote-young-talents/>
+
+---
+
+## Joey Hand ‘All Smiles’ After Chicago Street Course Top-Five
+
+date: 2024-07-08, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor Veteran road course racer Joey Hand shined through the rainy conditions to score a top-five finish in the Grant Park 165 at the Chicago Street&#8230;  
+
+<https://kickinthetires.net/nascar/joey-hand-all-smiles-chicago-top-five/>
+
+---
+
+## Seatbelts for Motorcycles?!
+
+date: 2024-07-08, from: Cycle World News
+
+CFMoto wants to enable automated braking, but how do you keep the rider on the bike in the event of sudden braking? It thinks seatbelts may be the answer. 
+
+<https://www.cycleworld.com/motorcycle-news/cfmoto-motorcycle-seatbelts/>
+
+---
+
+## Vespa Primavera Batik First Look
+
+date: 2024-07-08, from: Cycle World News
+
+Vespa’s latest special edition, the Primavera Batik gets a special graphics treatment that pays homage to an Indonesian World Heritage Fabric. 
+
+<https://www.cycleworld.com/bikes/vespa-primavera-batik-first-look/>
+
+---
+
+## 2025 BMW R 1300 GS Adventure First Look
+
+date: 2024-07-08, from: Cycle World News
+
+The 2025 BMW R 1300 GS Adventure has been unveiled, with many of the same upgrades as the base 1300 GS but with more comfort, storage, and electronics. 
+
+<https://www.cycleworld.com/bikes/bmw-r-1300-gs-adventure-first-look/>
+
+---
+
+## ARCA Menards Series West: 2024 Irwindale #2 Race Review
+
+date: 2024-07-08, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires The sixth race of the 2023 ARCA Menards West Series season, the second of two races of the Irwindale doubleheader, the West&#8230;  
+
+<https://kickinthetires.net/nascar/arca-west-2024-irwindale-2-race-review/>
+
+---
+
+## One of These New EV Motorcycle Concepts Are Coming Soon, Hopefully
+
+date: 2024-07-08, from: Ride Apart, Electric Motorcycle News
+
+At least one of Ola's new EV bike concepts is expected to become a reality in 2025.  
+
+<https://www.rideapart.com/news/725739/ola-electric-concept-motorcycles-coming-soon/>
 
 ---
 

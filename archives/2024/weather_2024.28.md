@@ -1,27 +1,163 @@
 ---
 title: weather 2024.28
-updated: 2024-07-08 07:53:31
+updated: 2024-07-09 07:26:52
 ---
 
 # weather 2024.28
 
-(date: 2024-07-08 07:53:31)
+(date: 2024-07-09 07:26:52)
+
+---
+
+## SPC - No watches are valid as of Tue Jul  9 14:02:02 UTC 2024
+
+date: 2024-07-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Tue Jul  9 14:02:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Tue Jul  9 14:02:02 UTC 2024
+
+date: 2024-07-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Tue Jul  9 14:02:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
 
 ---
 
 ## There are no tropical cyclones at this time.
 
-date: 2024-07-08, from: Eastern Pacific Basin GIS Data
+date: 2024-07-09, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Mon, 08 Jul 2024 14:51:48 GMT 
+No tropical cyclones as of Tue, 09 Jul 2024 13:38:28 GMT 
 
 <https://www.nhc.noaa.gov/gis/>
 
 ---
 
+## SPC Jul 9, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-07-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0736 AM CDT Tue Jul 09 2024
+
+Valid 091300Z - 101200Z
+
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FOR WESTERN
+KENTUCKY AND SOUTHERN INDIANA...
+
+...SUMMARY...
+Several tornadoes are possible today over the lower Ohio Valley in
+association with the remnants of Beryl.
+
+...Lower Ohio Valley/Mid Mississippi Valley...
+Water-vapor imagery this morning shows a progressive mid-level
+shortwave trough moving east across the lower MO Valley/Ozarks. 
+This mid-level trough is forecast to reach Lake Michigan/Indiana by
+late tonight.  The remnants of Beryl will move across the mid
+Mississippi and lower Ohio Valleys today.  Ahead of the associated
+surface low, morning surface analysis indicates a reservoir of lower
+70s deg F dewpoints from the IN/OH/KY tri-state south/southwest into
+the Mid South ahead of the low.  Surface streamlines show a warm
+frontal zone extending east-northeast from the low.  The warm front
+will advance northward to near the OH River by mid afternoon and
+serve as a focus for severe thunderstorm potential.
+
+Despite considerable cloud cover this morning, significant cloud
+breaks south of the warm front and pockets of heating will
+destabilize the airmass from the mid MS Valley to the OH Valley. 
+Moderate buoyancy is forecast to develop in the vicinity of the warm
+front and to its south over parts of KY/TN.  Models imply, and this
+notion is supported by morning observational trends, that a couple
+of convective bands will preferentially favor storm development
+today.  Widely scattered to scattered thunderstorms are forecast to
+develop within a moderately unstable airmass (1000-1500 J/kg
+MLCAPE).  Forecast hodographs will become enlarged --especially in
+the warm frontal zone where backed low-level flow will reside-- as a
+30-40 southerly 850-mb LLJ overspreads the OH Valley during the
+afternoon/evening.  One or more bands of quasi-discrete supercells
+are forecast with tornado potential greatest in a southwest to
+northeast corridor paralleling the OH River this afternoon into the
+evening.  
+
+...New England...
+A low-amplitude trough at mid-levels will move eastward across
+Quebec and New England during the period.  Heating of a seasonably
+moist airmass by afternoon will aid in the development of scattered
+thunderstorms.  A few organized multicells and perhaps a transient
+supercell or two, will pose an isolated risk for 50-65 mph gusts and
+large hail.
+
+..Smith/Bentley.. 07/09/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2024-07-09, from: Central Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ACPN50 PHFO 091129<br />
+ TWOCP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS Central Pacific Hurricane Center Honolulu HI<br />
+ 200 AM HST Tue Jul 9 2024<br />
+ <br />
+ For the central North Pacific...between 140W and 180W:<br />
+ <br />
+ No tropical cyclones are expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster M Ballard<br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2024-07-09, from: Eastern Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ABPZ20 KNHC 091127<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 500 AM PDT Tue Jul 9 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ Tropical cyclone formation is not expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Hagen/Brown<br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
 ## NHC Atlantic Outlook
 
-date: 2024-07-08, from: Graphical Tropical Weather Outlooks
+date: 2024-07-09, from: Graphical Tropical Weather Outlooks
 
 
 <br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
@@ -30,7 +166,7 @@ date: 2024-07-08, from: Graphical Tropical Weather Outlooks
 <img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
 <br /><br />
 <div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Mon Jul 8 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems: <br>The National Hurricane Center is issuing advisories on Hurricane <br>Beryl, located inland over southeastern Texas.<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Hagen/Blake<br>NNNN<br><br></div></div><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Tue Jul 9 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems: <br>The Weather Prediction Center is issuing advisories on Tropical <br>Depression Beryl, located inland over Arkansas.<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Hagen/Brown<br>NNNN<br><br></div></div><br />
  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
@@ -81,73 +217,6 @@ LAT...LON   28569511 28989524 29639549 30079568 30689532 31419468
  
 
 <https://www.spc.noaa.gov/products/md/md1557.html>
-
----
-
-## SPC Jul 8, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-07-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0742 AM CDT Mon Jul 08 2024
-
-Valid 081300Z - 091200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FOR PARTS OF
-EAST TEXAS INTO NORTHWEST LOUISIANA AND FAR SOUTHWEST ARKANSAS...
-
-...SUMMARY...
-Several tornadoes will be possible today, in association with
-Tropical Cyclone Beryl, from southeast Texas into northwest
-Louisiana and far southwest Arkansas.
-
-...East Texas/Ark-La-Tex/Ozarks/Lower to Mid Mississippi Valley...
-Tropical Cyclone Beryl will continue moving north across
-southeast/east TX through the day before moving north-northeast into
-the Ark-La-Tex tonight per the latest NHC forecast.  The extensive
-rain shield has yielded intermittent periods of transient mini
-supercell structures within the convective bands early this morning.
-Thinking this trend will continue during the day across
-southeast/east TX into western portions of LA. Ample low-level shear
-for hodograph enlargement will reside over the right-front quadrant
-of Beryl.  Less certain will be the development of moderate buoyancy
-within the rain shield.  Nonetheless, some evolution into more
-coherent convective banding is expected during the diurnal heating
-cycle (midday into the early evening) when the risk for several
-supercell tornadoes will probably be greatest.  An isolated tornado
-threat should continue through the evening and into the overnight
-period as this risk shifts northward coincident with the movement of
-Beryl.
-
-...Southwest Texas...
-At the surface, a cold front is forecast to move across west Texas
-today. South of the front in the vicinity of Big Bend, surface
-dewpoints are likely to be from the mid 50s to the lower 60s F. As
-surface temperature warm across this relatively moist airmass and
-yield moderate buoyancy.  Increasing low-level convergence along the
-front during the afternoon should enable scattered thunderstorms to
-develop.  A couple of the stronger storms may result in a localized
-hail/wind risk before this activity weakens this evening.  
-
-...Northern NM...
-Water-vapor imagery this morning shows an upper trough from the
-Upper Midwest extending southwestward into the CO/NM vicinity.  A
-belt of moderate north-northwest flow will gradually pivot away from
-the region during the day.  However, a relatively moist airmass via
-easterly upslope/post-frontal flow will combine with strong heating
-to yield around 1000 J/kg MLCAPE.  A few stronger storms may develop
-with a possible localized hail/wind risk for a few hours late this
-afternoon.
-
-..Smith/Bentley.. 07/08/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
@@ -261,65 +330,6 @@ storm motion vector 14040.
  
 
 <https://www.spc.noaa.gov/products/watch/ww0513.html>
-
----
-
-## CPHC Central North Pacific Outlook
-
-date: 2024-07-08, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC HFOTWOCP ALL<br />
-TTAA00 PHFO DDHHMM<br />
-<br />
-Tropical Weather Outlook<br />
-NWS Central Pacific Hurricane Center Honolulu HI<br />
-200 AM HST Mon Jul 8 2024<br />
-<br />
-For the central North Pacific...between 140W and 180W:<br />
-<br />
-No tropical cyclones are expected during the next 7 days.<br />
-<br />
-$$<br />
-Forecaster JT<br />
-NNNN<br />
-<br />
-</div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2024-07-08, from: Eastern Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ABPZ20 KNHC 081132<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 AM PDT Mon Jul 8 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Tropical cyclone formation is not expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Hagen/Blake<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 
@@ -902,16 +912,6 @@ apparent.
  
 
 <https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## SPC - No MDs are in effect as of Sun Jul  7 02:00:20 UTC 2024
-
-date: 2024-07-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Sun Jul  7 02:00:20 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 

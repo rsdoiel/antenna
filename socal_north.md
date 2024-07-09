@@ -1,11 +1,51 @@
 ---
 title: socal north 2024.28
-updated: 2024-07-08 07:53:28
+updated: 2024-07-09 07:26:48
 ---
 
 # socal north 2024.28
 
-(date: 2024-07-08 07:53:28)
+(date: 2024-07-09 07:26:48)
+
+---
+
+## How many students applied for financial aid in your school district?
+
+date: 2024-07-09, updated: 2024-07-09, from: The LAist
+
+Completion rates are down statewide following the new FAFSA’s troubled rollout, but some districts managed to maintain last year’s levels. 
+
+<https://laist.com/news/education/fafsa-financial-aid-completion-rates-school-district>
+
+---
+
+## After latest homeless count, officials cheered progress. But for many unhoused Latinos little has changed
+
+date: 2024-07-09, updated: 2024-07-09, from: The LAist
+
+The results of the recent homeless count showed fewer unhoused people sleeping outdoors in L.A. But for unhoused Latinos, the region's largest unhoused population, finding solutions remains a challenge. 
+
+<https://laist.com/news/housing-homelessness/homeless-latinos-lahsa-count>
+
+---
+
+## 6 myths about homelessness in California
+
+date: 2024-07-08, updated: 2024-07-08, from: The LAist
+
+There’s a lot of misinformation floating around out there about homelessness in California. We use data to dispel several common myths. 
+
+<https://laist.com/news/housing-homelessness/6-myths-about-houselessness-in-california>
+
+---
+
+## Big Ten Preview: Penn State
+
+date: 2024-07-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA is just weeks away from joining the Big Ten. After 96 years and 123 national championships in the Pac-12, the Bruins are at the forefront of the Big Ten&#8217;s West Coast expansion. 
+
+<https://dailybruin.com/2024/07/08/big-ten-preview-penn-state/>
 
 ---
 
@@ -56,8 +96,8 @@ UCLA is just weeks away from joining the Big Ten. After 96 years and 123 nationa
 
 date: 2024-07-07, from: The Daily Bruin (UCLA Student Newspaper)
 
-The Supreme Court ruled in an 8-1 decision June 21 to uphold a law preventing those subject to domestic abuse restraining orders from possessing firearms.
-United States v. 
+<em>This post was updated July 8 at 11:56 p.m.</em>
+The Supreme Court ruled in an 8-1 decision June 21 to uphold a law preventing those subject to domestic abuse restraining orders from possessing firearms. 
 
 <https://dailybruin.com/2024/07/06/us-supreme-court-upholds-gun-restrictions-on-domestic-abusers-in-8-1-decision/>
 

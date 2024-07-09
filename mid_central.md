@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.28
-updated: 2024-07-08 07:53:29
+updated: 2024-07-09 07:26:50
 ---
 
 # mid central 2024.28
 
-(date: 2024-07-08 07:53:29)
+(date: 2024-07-09 07:26:50)
+
+---
+
+## A simple, full color upgrade for your LED indicators
+
+date: 2024-07-09, from: EDN Blog
+
+<img width="7799" height="2677" src="https://www.edn.com/wp-content/uploads/StringLEDindicator_Figure6.jpg?fit=7799%2C2677" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/StringLEDindicator_Figure6.jpg?w=7799 7799w, https://www.edn.com/wp-content/uploads/StringLEDindicator_Figure6.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/StringLEDindicator_Figure6.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/StringLEDindicator_Figure6.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/StringLEDindicator_Figure6.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/StringLEDindicator_Figure6.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/StringLEDindicator_Figure6.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/StringLEDindicator_Figure6.jpg?w=2850 2850w" sizes="(max-width: 7799px) 100vw, 7799px" /><p>A simple, LED indicator with RGB/HSV control via a single control pin, all using LEDs from off-the-shelf LED strips with 3D-printed holders. </p>
+<p>The post <a href="https://www.edn.com/a-simple-full-color-upgrade-for-your-led-indicators/" data-wpel-link="internal">A simple, full color upgrade for your LED indicators</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/a-simple-full-color-upgrade-for-your-led-indicators/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2024-07-08 07:53:29
 
 date: 2024-07-08, from: Amateur Radio Relay League News
 
- 
+<p><em><strong>Amateur Radio is active to provide critical communications for those in the path of Hurricane Beryl. This page will be updated with the latest information as it comes in. </strong></em></p><p><em>By: John Ross, KD8IDJ, and Sierra Harrop, W5DX</em></p><hr /><p><strong>Monday, July 8, 2024, Noon EDT update: </strong></p><p>The following information is from Bobby Graves, KB5HAV, Net Manager for the Hurricane Watch Net:</p><p><span>The Hurricane Watch Net concluded operations ...</span></p> 
 
 <http://www.arrl.org/news/view/hurricane-beryl-hurricane-watch-net-active>
 
@@ -23,7 +35,7 @@ date: 2024-07-08, from: Amateur Radio Relay League News
 
 date: 2024-07-08, from: EDN Blog
 
-<img width="1500" height="1500" src="https://www.edn.com/wp-content/uploads/new-awesafe-gun-safe.jpg?fit=1500%2C1500" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/new-awesafe-gun-safe.jpg?w=1500 1500w, https://www.edn.com/wp-content/uploads/new-awesafe-gun-safe.jpg?w=150 150w, https://www.edn.com/wp-content/uploads/new-awesafe-gun-safe.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/new-awesafe-gun-safe.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/new-awesafe-gun-safe.jpg?w=1024 1024w" sizes="(max-width: 1500px) 100vw, 1500px" /><p>When is a gun safe not safe, and what’s the root cause and resolution path in such a case? Read on for more!</p>
+<img width="1500" height="1500" src="https://www.edn.com/wp-content/uploads/new-awesafe-gun-safe.jpg?fit=1500%2C1500" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/new-awesafe-gun-safe.jpg?w=1500 1500w, https://www.edn.com/wp-content/uploads/new-awesafe-gun-safe.jpg?w=150 150w, https://www.edn.com/wp-content/uploads/new-awesafe-gun-safe.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/new-awesafe-gun-safe.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/new-awesafe-gun-safe.jpg?w=1024 1024w" sizes="(max-width: 1500px) 100vw, 1500px" /><p>When is a gun safe not safe, and what’s the root cause and resolution path in such a case? Read on for more!</p>
 <p>The post <a href="https://www.edn.com/poorly-defined-design-vs-defect-a-product-recall-case-study-dissection/" data-wpel-link="internal">Poorly defined design vs defect: A product-recall case study dissect(ion)</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

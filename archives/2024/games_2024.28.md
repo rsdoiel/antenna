@@ -1,11 +1,111 @@
 ---
 title: games 2024.28
-updated: 2024-07-08 07:53:32
+updated: 2024-07-09 07:26:53
 ---
 
 # games 2024.28
 
-(date: 2024-07-08 07:53:32)
+(date: 2024-07-09 07:26:53)
+
+---
+
+## The Umbrella Academy final season trailer rightfully rocks to MCR’s The End.
+
+date: 2024-07-09, updated: 2024-07-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24194484/umbrella-academy-trailer-final-season-my-chemical-romance>
+
+---
+
+## The older you are, the more important Inside Out 2 gets
+
+date: 2024-07-09, updated: 2024-07-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24194435/inside-out-2-adult-anxiety-barbie-comparison>
+
+---
+
+## Elden Ring’s new dragon could beat up House of the Dragon’s dragons, study confirms
+
+date: 2024-07-09, updated: 2024-07-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24194492/elden-ring-dlc-sote-giant-dragon-size>
+
+---
+
+## Cities: Skylines 2 for console delayed indefinitely
+
+date: 2024-07-08, updated: 2024-07-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gaming/24194344/cities-skylines-2-console-version-delayed-paradox>
+
+---
+
+## Inside Out 2 has besmirched my favorite vegetable and I will not stand for it
+
+date: 2024-07-08, updated: 2024-07-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24194361/inside-out-2-broccoli-disgust-good>
+
+---
+
+## Shadows of the Galaxy is the first expansion for Star Wars: Unlimited, here’s where to pre-order
+
+date: 2024-07-08, updated: 2024-07-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24191030/star-wars-unlimited-shadows-of-the-galaxy-tcg-pre-order>
+
+---
+
+## Netflix’s final season of Vikings: Valhalla and more new TV to watch this week
+
+date: 2024-07-08, updated: 2024-07-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/7/8/24191611/new-tv-netflix-vikings-valhalla-premiere-boyfriend-sunny>
+
+---
+
+## Pokémon Go ‘Inbound from Ultra Space’ event, Timed Research guide
+
+date: 2024-07-08, updated: 2024-07-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/2024/7/8/24194155/inbound-from-ultra-space-timed-research-beasts>
+
+---
+
+## Agatha All Along brings a whole coven of witches (and one demiurge) to the MCU
+
+date: 2024-07-08, updated: 2024-07-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24194273/agatha-all-along-teaser-wandavision>
+
+---
+
+## Some of our favorite keyboards are on sale at Woot
+
+date: 2024-07-08, updated: 2024-07-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24194162/woot-keychron-gaming-keyboard-deal-sale>
 
 ---
 

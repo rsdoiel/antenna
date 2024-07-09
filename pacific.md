@@ -1,11 +1,681 @@
 ---
 title: pacific 2024.28
-updated: 2024-07-08 07:53:29
+updated: 2024-07-09 07:26:49
 ---
 
 # pacific 2024.28
 
-(date: 2024-07-08 07:53:29)
+(date: 2024-07-09 07:26:49)
+
+---
+
+## NMC Office of Admissions and Records closed on July 10-17
+
+date: 2024-07-09, updated: 2024-07-09, from: Marianas Variety
+
+(NMC) — Employees of Northern Marianas College’s Office of Admissions and Records will participate in software training from Wednesday, July 10, through Wednesday, July 17. To maximize employee participation, NMC-OAR will be closed on these days. 
+
+<https://www.mvariety.com/news/local/nmc-office-of-admissions-and-records-closed-on-july-10-17/article_93867622-3dfb-11ef-be03-c79c47e37cc9.html>
+
+---
+
+## Police Seize Marijuana Plants, Cash in Peleliu Drug Bust
+
+date: 2024-07-09, from: Island Times
+
+<p>Peleliu, Palau &#8211; Over $30,000 and 182 marijuana plants were seized during a drug raid in Peleliu in March 2024. Anna Gotlob was arrested and charged with Trafficking of a Controlled Substance. The Office of the Attorney General filed a felony case against Gotlob on July 4, 2024. If convicted, she faces up to ten [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/police-seize-marijuana-plants-cash-in-peleliu-drug-bust/">Police Seize Marijuana Plants, Cash in Peleliu Drug Bust</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/police-seize-marijuana-plants-cash-in-peleliu-drug-bust/>
+
+---
+
+## New IHG Hotel in Palau to open
+
+date: 2024-07-09, from: Island Times
+
+<p>A new hotel is opening by the end of 2024 in Palau by Hotel Indigo – part of IHG Hotels &#38; Resorts (IHG) According to a press release from IHG, the hotel will be located in Malakal. The newly built Hotel Indigo Palau boasts 200 rooms that offer &#8220;lagoon views with thriving marine life, a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/new-ihg-hotel-in-palau-to-open/">New IHG Hotel in Palau to open</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/new-ihg-hotel-in-palau-to-open/>
+
+---
+
+## Palau Declines to Investigate Intercepted Meth Package Addressed to Local Resident
+
+date: 2024-07-09, from: Island Times
+
+<p>By: Olkeriil Eoghan Ngirudelsang Koror, Palau &#8211; The Palau Ministry of Justice (MOJ) said it will not pursue a drug trafficking case linked to a package containing methamphetamine intercepted in the Philippines. The package, addressed to a Chinese national named Mr. Cui in Koror, Palau, was seized at Ninoy Aquino International Airport by Philippine authorities. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-declines-to-investigate-intercepted-meth-package-addressed-to-local-resident/">Palau Declines to Investigate Intercepted Meth Package Addressed to Local Resident</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-declines-to-investigate-intercepted-meth-package-addressed-to-local-resident/>
+
+---
+
+## Biden says he is ‘firmly committed’ to staying in the race
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden on Monday dared his critics to &#8220;challenge me at the convention&#8221; if they want him out of the presidential race, refusing to step aside in a defiant letter to Democratic members of Congress and in fiery remarks on MSNBC&#8217;s &#8220;Morning Joe&#8221; program.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/nation-world-news/biden-says-he-is-firmly-committed-to-staying-in-the-race/>
+
+---
+
+## Man charged with disturbance on Hele-On Kona trolley
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>Police arrested a 31-year-old Captain Cook man Friday after an alleged disturbance on a Hele-On trolley vehicle in Kailua-Kona.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/hawaii-news/man-charged-with-disturbance-on-hele-on-kona-trolley/>
+
+---
+
+## No action on Big Isle STVRs; Council considers proposed economic-impact study before deciding new standards
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>A raft of controversial changes to how the county regulates short-term vacation rentals are no closer to being passed after an inconclusive discussion Monday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/hawaii-news/no-action-on-big-isle-stvrs-council-considers-proposed-economic-impact-study-before-deciding-new-standards/>
+
+---
+
+## City, ACLU jointly dismiss ‘public welfare laws’ lawsuit
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>The American Civil Liberties Union of Hawaii and the City and County of Honolulu on Monday jointly agreed to dismiss a lawsuit challenging the city&#8217;s homeless sweeps program on Oahu.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/hawaii-news/city-aclu-jointly-dismiss-public-welfare-laws-lawsuit/>
+
+---
+
+## 4 new laws address tourism, environment
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green signed four bills into law Monday that would create action plans to manage tourism, crack down on illegal commercial ocean activities, create a beach management plan for Oahu&#8217;s iconic North Shore and prohibit seabed mining in Hawaii state waters.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/hawaii-news/4-new-laws-address-tourism-environment/>
+
+---
+
+## Parkinson’s expert visited the White House 8 times in 8 months
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>An expert on Parkinson&#8217;s disease from Walter Reed National Military Medical Center visited the White House eight times in eight months from last summer through this spring, including at least once for a meeting with President Joe Biden&#8217;s physician, according to official visitor logs.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/nation-world-news/parkinsons-expert-visited-the-white-house-8-times-in-8-months/>
+
+---
+
+## Boeing agrees to plead guilty to felony in deal with Justice Department
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Boeing agreed Sunday to plead guilty to a felony charge of conspiring to defraud the federal government over two fatal crashes of the 737 Max in 2018 and 2019, according to a late-night court filing.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/nation-world-news/boeing-agrees-to-plead-guilty-to-felony-in-deal-with-justice-department/>
+
+---
+
+## Joe Biden, in the goodest bunker ever
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>When I saw the Michael Shear story in The New York Times on Thursday, recounting how President Joe Biden had stumbled talking to Black radio hosts days after his debate debacle, telling one he was proud to have been &#8220;the first Black woman to serve with a Black president,&#8221; I knew it spelled trouble.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/opinion/joe-biden-in-the-goodest-bunker-ever/>
+
+---
+
+## Joe Biden revealed
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>This likely Democratic nominee to be president was just suffering from a cold, they said, despite no sneezes, no coughs, no runny nose, just a raspy voice whose words often made no sense. In this 90-minute national TV appearance watched by 51 million Americans, Trump said it would be a democratic achievement to turn laws on abortion over to states responding to citizen majorities.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/opinion/joe-biden-revealed/>
+
+---
+
+## Aaron Mahi / 1953-2024 Multifaceted musician inspired generations
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>Aaron Mahi, a musician, composer, conductor, recording artist, kahu and bandmaster of the Royal Hawaiian Band for 24 years, died Saturday. He was 70 and had been in declining health for several years.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/hawaii-news/aaron-mahi-1953-2024-multifaceted-musician-inspired-generations/>
+
+---
+
+## Russian missile attack kills 36, hits children’s hospital, Ukraine says
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>KYIV &#8212; Russia blasted the main children&#8217;s hospital in Kyiv with a missile in broad daylight on Monday and rained missiles down on other cities across Ukraine, killing at least 36 civilians in the deadliest wave of air strikes for months.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/nation-world-news/russian-missile-attack-kills-36-hits-childrens-hospital-ukraine-says/>
+
+---
+
+## Hamas chief says latest Israeli attack on Gaza could jeopardise ceasefire talks
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO &#8212; A new Israeli assault on Gaza on Monday threatened ceasefire talks at a crucial moment, the head of Hamas said, as Israeli tanks pressed into the heart of Gaza City and ordered residents out after a night of massive bombardment.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/nation-world-news/hamas-chief-says-latest-israeli-attack-on-gaza-could-jeopardise-ceasefire-talks/>
+
+---
+
+## Sen. Menendez sold power for gold, prosecutor says at corruption trial’s close
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Bob Menendez sold his power for money and gold to help Egypt&#8217;s government and businessmen who showered the once-powerful senator and his wife with bribes, a prosecutor said on Monday in his closing argument at Menendez&#8217;s corruption trial.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/nation-world-news/sen-menendez-sold-power-for-gold-prosecutor-says-at-corruption-trials-close/>
+
+---
+
+## Storm Beryl kills three, knocks out power for 2.7 million in Texas
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; Tropical Storm Beryl brought howling winds and torrential rain to southeast Texas on Monday, killing at least three people, flooding highways, closing oil ports, canceling more than 1,300 flights and knocking out power to more than 2.7 million homes and businesses.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/nation-world-news/storm-beryl-kills-three-knocks-out-power-for-2-7-million-in-texas/>
+
+---
+
+## South Korean president to visit Hawaii
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>South Korea President Yoon Suk Yeol will be on Oahu this week to meet with top U.S. military officials before flying to Washington, D.C., to deliver a keynote address at the 2024 NATO Public Forum.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/hawaii-news/south-korean-president-to-visit-hawaii/>
+
+---
+
+## Obituaries for July 9
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>Christina K Andrews, 98, of Hilo died June 26 at Hilo Benioff Medical Center. Born in Hilo, she was an organist and member of Haili Congregational Church and St Joseph Catholic Church. Visitation 9-10 a.m. Thursday (July 11) at Haili Congregational Church. Service at 10 a.m. Survived by daughters, Pauline Romero of Arizona, DonnaRae Akau and Susan Damo of Hilo; sons, Richard Rickard Jr. and Francis Rickard of Hilo; 10 grandchildren, 13 great-grandchildren and five great-great grandchildren; cousins. Arrangements by Ballard Family Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/obituaries/obituaries-for-july-9-11/>
+
+---
+
+## Let’s Talk Food: Mustard cabbage
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>My sister harvested her mustard cabbage and gave me some. My favorite way to eat it is by brining it into sin choi. I also like to use it instead of nori to make makizushi-stuffed with seasoned tuna. My friend Tracy will make kim chee out of it.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/community/lets-talk-food-mustard-cabbage/>
+
+---
+
+## HCRA: Kai ‘Ehitu claims second regatta win of season
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>Kai &#8216;Ehitu Canoe Club won its second regatta of the Moku O Hawai&#8217;i Outrigger Canoe Racing Association 2024 season on Saturday in Hilo Bay &#8212; accumulating 28 points and 233 points. The team also collected the most wins with 12 gold medals. The race day was sponsored by Kamehameha Canoe Club - Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/sports/hcra-kai-ehitu-claims-second-regatta-win-of-season/>
+
+---
+
+## Reardon: Decathletes are often overlooked, just ask Bryan Clay
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>Have you heard of Heath Baldwin, Zach Ziemek and Harrison Williams ?</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/sports/reardon-decathletes-are-often-overlooked-just-ask-bryan-clay/>
+
+---
+
+## U.S. names men’s soccer team for Paris Olympics; first squad to play in Games since 2008
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>Coach Marko Mitrovic revealed Monday the 18-player roster for the U.S. men&#8217;s soccer team heading to the Paris Olympics. This summer marks the first time the U.S. men will compete in the Games since 2008 after failing to qualify for the previous three cycles.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/sports/u-s-names-mens-soccer-team-for-paris-olympics-first-squad-to-play-in-games-since-2008/>
+
+---
+
+## Hawaii hoopsters Jacobs, Watanabe make Japan’s Olympic team
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>University of Hawaii basketball forward Akira Jacobs and &#8216;Iolani School alumnus Hugh (Hogland ) Watanabe will be representing Japan in the Paris 2024 Olympics.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/sports/hawaii-hoopsters-jacobs-watanabe-make-japans-olympic-team/>
+
+---
+
+## Djokovic lets rip after majestic performance; Zverev bows out ‘on one leg’
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; Emotions ran high for Novak Djokovic on Monday as he angrily lashed out at Wimbledon fans following his three-set demolition job over young Dane Holger Rune in the fourth round, while it was game over for a previously indestructible Alexander Zverev.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/sports/djokovic-lets-rip-after-majestic-performance-zverev-bows-out-on-one-leg/>
+
+---
+
+## Palau Traditional Leaders Forum Highlights Challenges to Customary Authority
+
+date: 2024-07-09, from: Island Times
+
+<p>By: Olkeriil Eoghan Ngirudelsang Palau National Gymnasium, Koror &#8211; July 3-4, 2024 A two-day forum held last week brought Palau&#8217;s traditional leaders together to discuss pressing issues facing their authority and roles in modern Palauan society. The forum, themed &#8220;Honor, Respect, and Preserve Our Basic Traditional Values,&#8221; addressed concerns ranging from multiple chiefs claiming the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-traditional-leaders-forum-highlights-challenges-to-customary-authority/">Palau Traditional Leaders Forum Highlights Challenges to Customary Authority</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-traditional-leaders-forum-highlights-challenges-to-customary-authority/>
+
+---
+
+## Youth and Drug-Free Palau Program Highlighted in Church Ministry Efforts
+
+date: 2024-07-09, from: Island Times
+
+<p>By: Marissa Dilmeang Spires KOROR, Palau — The Church and Youth Ministry of Omekulel a Biblia er a Belau has been selected as an NGO recipient of the NCD Grant for &#8220;A Drug Free Palau.&#8221; For 17 years, Omekulel has been hosting Gospel-focused activities every Friday night from 7 to 9 p.m. for youth ages [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/youth-and-drug-free-palau-program-highlighted-in-church-ministry-efforts/">Youth and Drug-Free Palau Program Highlighted in Church Ministry Efforts</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/youth-and-drug-free-palau-program-highlighted-in-church-ministry-efforts/>
+
+---
+
+## Palau’s Network of Marine Reserves Shows Promise for Coral Reef Recovery, According to Reef Resilience Report
+
+date: 2024-07-09, from: Island Times
+
+<p>KOROR, Palau &#8211; A new report by the Reef Resilience Organization highlights the encouraging progress of Palau&#8217;s coral reefs towards recovery, a decade after a major bleaching event. This positive trend is credited, in part, to the nation&#8217;s forward-thinking Protected Areas Network (PAN). Palau, an archipelago renowned for its underwater wonders, established the PAN in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-network-of-marine-reserves-shows-promise-for-coral-reef-recovery-according-to-reef-resilience-report/">Palau&#8217;s Network of Marine Reserves Shows Promise for Coral Reef Recovery, According to Reef Resilience Report</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palaus-network-of-marine-reserves-shows-promise-for-coral-reef-recovery-according-to-reef-resilience-report/>
+
+---
+
+## PICRC Junior Researcher McQuinnley Mesengei Enhances Data Analysis Skills at YSSP in South Korea
+
+date: 2024-07-09, from: Island Times
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_PICRC-Junior-Researcher-McQuinnley-Mesengei-Enhances-Data-Analysis-Skills-at-YSSP-in-South-Korea_1.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_PICRC-Junior-Researcher-McQuinnley-Mesengei-Enhances-Data-Analysis-Skills-at-YSSP-in-South-Korea_1.jpg?w=1600&amp;ssl=1 1600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_PICRC-Junior-Researcher-McQuinnley-Mesengei-Enhances-Data-Analysis-Skills-at-YSSP-in-South-Korea_1.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_PICRC-Junior-Researcher-McQuinnley-Mesengei-Enhances-Data-Analysis-Skills-at-YSSP-in-South-Korea_1.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_PICRC-Junior-Researcher-McQuinnley-Mesengei-Enhances-Data-Analysis-Skills-at-YSSP-in-South-Korea_1.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_PICRC-Junior-Researcher-McQuinnley-Mesengei-Enhances-Data-Analysis-Skills-at-YSSP-in-South-Korea_1.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_PICRC-Junior-Researcher-McQuinnley-Mesengei-Enhances-Data-Analysis-Skills-at-YSSP-in-South-Korea_1.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_PICRC-Junior-Researcher-McQuinnley-Mesengei-Enhances-Data-Analysis-Skills-at-YSSP-in-South-Korea_1.jpg?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_PICRC-Junior-Researcher-McQuinnley-Mesengei-Enhances-Data-Analysis-Skills-at-YSSP-in-South-Korea_1.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_PICRC-Junior-Researcher-McQuinnley-Mesengei-Enhances-Data-Analysis-Skills-at-YSSP-in-South-Korea_1.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_PICRC-Junior-Researcher-McQuinnley-Mesengei-Enhances-Data-Analysis-Skills-at-YSSP-in-South-Korea_1.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71182" data-permalink="https://islandtimes.org/picrc-junior-researcher-mcquinnley-mesengei-enhances-data-analysis-skills-at-yssp-in-south-korea/pr_picrc-junior-researcher-mcquinnley-mesengei-enhances-data-analysis-skills-at-yssp-in-south-korea_1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_PICRC-Junior-Researcher-McQuinnley-Mesengei-Enhances-Data-Analysis-Skills-at-YSSP-in-South-Korea_1.jpg?fit=1600%2C900&amp;ssl=1" data-orig-size="1600,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PR_PICRC Junior Researcher McQuinnley Mesengei Enhances Data Analysis Skills at YSSP in South Korea_1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_PICRC-Junior-Researcher-McQuinnley-Mesengei-Enhances-Data-Analysis-Skills-at-YSSP-in-South-Korea_1.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_PICRC-Junior-Researcher-McQuinnley-Mesengei-Enhances-Data-Analysis-Skills-at-YSSP-in-South-Korea_1.jpg?fit=780%2C439&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>McQuinnley Mesengei, a Junior Researcher at PICRC, recently attended the Young Scientist Support Program (YSSP) at the APEC Climate Center (APCC) in South Korea. The YSSP is part of the ‘Strengthening Climate Information and Knowledge Services in Five Pacific Island Countries’, supported by the United Nations Environment Program (UNEP) and the Green Climate Fund (GCF). [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-junior-researcher-mcquinnley-mesengei-enhances-data-analysis-skills-at-yssp-in-south-korea/">PICRC Junior Researcher McQuinnley Mesengei Enhances Data Analysis Skills at YSSP in South Korea</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/picrc-junior-researcher-mcquinnley-mesengei-enhances-data-analysis-skills-at-yssp-in-south-korea/>
+
+---
+
+## The Blue Economy Project
+
+date: 2024-07-09, from: Island Times
+
+<p>The Blue Economy Project, implemented by the Bureau of Fisheries (BOF) and the Japan International Cooperation Agency (JICA), has launched a questionnaire and log-sheet survey on the reef fishing with the participation of fishermen in Koror. The survey aims to collect basic data for long-term estimation of total catch and fishing effort in the reef [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-blue-economy-project/">The Blue Economy Project</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/the-blue-economy-project/>
+
+---
+
+## Accepting The Entire Spectrum Of Our Emotions is Not A Weakness
+
+date: 2024-07-09, from: Island Times
+
+<figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71172" data-permalink="https://islandtimes.org/accepting-the-entire-spectrum-of-our-emotions-is-not-a-weakness/wc1-14/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1.jpg?fit=524%2C522&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>This is in response to an article entitled Trust the Process. Many of us were taught to view emotions from a negative perspective due to our elders&#8217; belief that certain emotions indicated weakness. This upbringing, to some extent, helped to develop resilience and perseverance in many of us, but it also taught us to suppress [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/accepting-the-entire-spectrum-of-our-emotions-is-not-a-weakness/">Accepting The Entire Spectrum Of Our Emotions is Not A Weakness</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/accepting-the-entire-spectrum-of-our-emotions-is-not-a-weakness/>
+
+---
+
+## Eleven new biosphere reserves added to global list
+
+date: 2024-07-09, from: Island Times
+
+<figure><img width="920" height="920" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/opinion-according-to-microphone.png?fit=920%2C920&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/opinion-according-to-microphone.png?w=920&amp;ssl=1 920w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/opinion-according-to-microphone.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/opinion-according-to-microphone.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/opinion-according-to-microphone.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/opinion-according-to-microphone.png?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/opinion-according-to-microphone.png?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/opinion-according-to-microphone.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/opinion-according-to-microphone.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/opinion-according-to-microphone.png?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/opinion-according-to-microphone.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/opinion-according-to-microphone.png?fit=920%2C920&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71170" data-permalink="https://islandtimes.org/eleven-new-biosphere-reserves-added-to-global-list/opinion-according-to-microphone-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/opinion-according-to-microphone.png?fit=920%2C920&amp;ssl=1" data-orig-size="920,920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="opinion-according-to-microphone" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/opinion-according-to-microphone.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/opinion-according-to-microphone.png?fit=780%2C780&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>PARIS &#160;(UN NEWS CENTRE) &#8212; The UN Educational, Scientific and Cultural Organisation (UNESCO) on Friday designated 11 new biosphere reserves, recognising their importance for conserving biodiversity and cultural heritage. The new designations are in Colombia, the Dominican Republic, Gambia, Italy, Mongolia, Philippines, the Republic of Korea and Spain.&#160;&#160; Additionally, and for the first time, the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/eleven-new-biosphere-reserves-added-to-global-list/">Eleven new biosphere reserves added to global list</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/eleven-new-biosphere-reserves-added-to-global-list/>
+
+---
+
+## Japan criticiss China over buoy in Pacific Ocean
+
+date: 2024-07-09, from: Island Times
+
+<p>TOKYO, 08 JULY 2024 (THE JAPAN TIMES) &#8212; The Japanese government has criticized China for installing a buoy in the high seas over Japan&#8217;s continental shelf in the Pacific Ocean without adequate explanation. “It is regrettable that a buoy was placed without providing details of its purpose,” Chief Cabinet Secretary Yoshimasa Hayashi told a news [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japan-criticiss-china-over-buoy-in-pacific-ocean/">Japan criticiss China over buoy in Pacific Ocean</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/japan-criticiss-china-over-buoy-in-pacific-ocean/>
+
+---
+
+## Australians frozen out of Kiribati as China eyes prize
+
+date: 2024-07-09, from: Island Times
+
+<p>CANBERRA/TARAWA, 08 JULY 2024 (AAP) &#8212; Australian officials are being given the cold shoulder in Kiribati amid concerns the atoll nation’s president is being courted by China. Visa applications have dragged on or been denied while work on a treaty with Kiribati – which should have been finalised a year ago – was indefinitely put [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australians-frozen-out-of-kiribati-as-china-eyes-prize/">Australians frozen out of Kiribati as China eyes prize</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/australians-frozen-out-of-kiribati-as-china-eyes-prize/>
+
+---
+
+## ‘CNMI economy faces complete collapse
+
+date: 2024-07-09, from: Island Times
+
+<p>SAIPAN, 05 JULY 2024 (MARIANAS VARIETY)&#8212;Senate President Edith Deleon Guerrero, in her follow-up letter to U.S Department of Transportation Secretary Pete Buttigieg, echoed the local business community’s warning that “if no immediate action is taken to increase visitor arrivals, the CNMI economy faces a complete economic collapse.” She was referring to the joint statement of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/cnmi-economy-faces-complete-collapse/">‘CNMI economy faces complete collapse</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/cnmi-economy-faces-complete-collapse/>
+
+---
+
+## Four senior US Democrats join calls for Joe Biden to drop re-election bid as party cracks widen
+
+date: 2024-07-09, from: Island Times
+
+<p>In short: (ABC-Australia) Joe Biden is under growing pressure to pull out from the US presidential race, with a number of his own colleagues coming out to oppose his candidacy. Four members of the Democratic Party voiced concern about Mr Biden&#8217;s future as party leader on a leadership call, following his performance in the presidential [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/four-senior-us-democrats-join-calls-for-joe-biden-to-drop-re-election-bid-as-party-cracks-widen/">Four senior US Democrats join calls for Joe Biden to drop re-election bid as party cracks widen</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/four-senior-us-democrats-join-calls-for-joe-biden-to-drop-re-election-bid-as-party-cracks-widen/>
+
+---
+
+## Early polling predicts leftist coalition has won the most seats in France’s snap parliamentary election
+
+date: 2024-07-09, from: Island Times
+
+<p>(ABC-Australia) Polls have closed in France, with projections saying a coalition on the left that came together unexpectedly has won the most parliamentary seats in the pivotal run-off elections. The surprise projections put President Emmanuel Macron&#8217;s centrist alliance in second and the far right in third.&#160; &#160;Look back at all the latest updates about the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/early-polling-predicts-leftist-coalition-has-won-the-most-seats-in-frances-snap-parliamentary-election/">Early polling predicts leftist coalition has won the most seats in France&#8217;s snap parliamentary election</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/early-polling-predicts-leftist-coalition-has-won-the-most-seats-in-frances-snap-parliamentary-election/>
+
+---
+
+## Belau Youth Games Festival Kicks Off in Palau
+
+date: 2024-07-09, from: Island Times
+
+<figure><img width="509" height="422" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/444138893_8445652338797289_1742314345848959759_n.jpg?fit=509%2C422&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/444138893_8445652338797289_1742314345848959759_n.jpg?w=509&amp;ssl=1 509w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/444138893_8445652338797289_1742314345848959759_n.jpg?resize=300%2C249&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/444138893_8445652338797289_1742314345848959759_n.jpg?resize=400%2C332&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/444138893_8445652338797289_1742314345848959759_n.jpg?fit=509%2C422&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71152" data-permalink="https://islandtimes.org/belau-youth-games-festival-kicks-off-in-palau/444138893_8445652338797289_1742314345848959759_n/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/444138893_8445652338797289_1742314345848959759_n.jpg?fit=509%2C422&amp;ssl=1" data-orig-size="509,422" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="444138893_8445652338797289_1742314345848959759_n" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/444138893_8445652338797289_1742314345848959759_n.jpg?fit=300%2C249&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/444138893_8445652338797289_1742314345848959759_n.jpg?fit=509%2C422&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>KOROR, Palau – The Palau National Olympic Committee (PNOC) and the Ministry of Education (MOE) launched the 2024 Belau Youth Games Festival this week, with 430 students participating in 10 different sports. The program, funded by a Non-Communicable Disease (NCD) grant, aims to promote character development and social skills among youth through sports participation. MOE [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/belau-youth-games-festival-kicks-off-in-palau/">Belau Youth Games Festival Kicks Off in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/belau-youth-games-festival-kicks-off-in-palau/>
+
+---
+
+## Australia names largest-ever athletics team for a foreign Olympics ahead of Paris Games
+
+date: 2024-07-09, from: Island Times
+
+<p>In short: (ABC-Australia) Australia has named a full squad of 75 athletes to compete in the 2024 Paris Olympic Games, the largest ever for an overseas Olympics. Torrie Lewis will not run the 100m but will focus on the 200m and the 4x100m relay, which will feature an Australian men&#8217;s and women&#8217;s team for the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australia-names-largest-ever-athletics-team-for-a-foreign-olympics-ahead-of-paris-games/">Australia names largest-ever athletics team for a foreign Olympics ahead of Paris Games</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/australia-names-largest-ever-athletics-team-for-a-foreign-olympics-ahead-of-paris-games/>
+
+---
+
+## Completion of Digital Democracy Governance Workshop at USP Tonga Campus
+
+date: 2024-07-09, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) team has successfully concluded a four-day workshop from...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/successful-completion-of-undp-funded-digital-democracy-governance-initiative-workshop-at-usp-tonga-campus/">Completion of Digital Democracy Governance Workshop at USP Tonga Campus</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/successful-completion-of-undp-funded-digital-democracy-governance-initiative-workshop-at-usp-tonga-campus/>
+
+---
+
+## Honolulu Council V & State House 14 Democratic Primary
+
+date: 2024-07-09, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Our 2024 Election coverage continues as we talk to hopefuls in races from two islands...</p>
+<p>The post <a href="https://www.pbshawaii.org/honolulu-council-v-state-house-14-democratic-primary/">Honolulu Council V &#038; State House 14 Democratic Primary</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/honolulu-council-v-state-house-14-democratic-primary/>
+
+---
+
+## UH law school alumni play key role in reaching historic settlement
+
+date: 2024-07-09, from: University of Hawaiʻi News
+
+<p>William S. Richardson School of Law alumni played a key role in securing an historic settlement in the Navahine v. <span aria-label="Hawaii">Hawai&#699;i</span> Department of Transportation case.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/08/law-alumni-historic-settlement/"><abbr>UH</abbr> law school alumni play key role in reaching historic settlement</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/08/law-alumni-historic-settlement/>
+
+---
+
+## UH’s Jacobs, Raimo headed to 2024 Summer Olympics
+
+date: 2024-07-09, from: University of Hawaiʻi News
+
+<p>It has been more than 50 years since <abbr>UH</abbr> has had a basketball Olympian.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/08/jacobs-raimo-summer-olympics/"><abbr>UH</abbr>’s Jacobs, Raimo headed to 2024 Summer Olympics</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/08/jacobs-raimo-summer-olympics/>
+
+---
+
+## NAWSON initiative advances student-involved nursing research
+
+date: 2024-07-09, from: University of Hawaiʻi News
+
+<p><abbr>HONU</abbr> is designed to create a supportive environment for students interested in nursing research.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/08/student-nursing-research-hui/"><abbr>NAWSON</abbr> initiative advances student-involved nursing research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/08/student-nursing-research-hui/>
+
+---
+
+## GAO sees snags in work on new missile interceptors
+
+date: 2024-07-08, from: Pacific Island Times
+
+By Jayvee Vallejera The Government Accountability Office is not that optimistic about the progress the U.S. Department of Defense is... 
+
+<https://www.pacificislandtimes.com/post/gao-sees-snags-in-work-on-new-missile-interceptors>
+
+---
+
+## Let them be
+
+date: 2024-07-08, from: Pacific Island Times
+
+What CNMI politicians can learn from wise students Saipan — Besides the holidays, graduation season is my favorite time of the year.... 
+
+<https://www.pacificislandtimes.com/post/let-them-be>
+
+---
+
+## Flower Children
+
+date: 2024-07-08, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Georgea Jourjouklis “July eighth, noon,” Curio said into the voice recorder on his phone. “Targets A, B, C, exit their Honda after four days away from the primary location.” He raised a pair of binoculars—a cheap, dollar-store brand his &#8230; <a href="https://hawaiipacificreview.org/2024/07/08/flower-children/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/07/08/flower-children/>
+
+---
+
+## $4.6M project turns to non-invasive plants in fight against wildfires
+
+date: 2024-07-08, from: University of Hawaiʻi News
+
+<p>The project aims to mitigate wildfire risks and restore ecosystems through increased seed supply of native (and non-invasive non-native) plant materials.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/08/seeds-fight-against-wildfires/">$4.6M project turns to non-invasive plants in fight against wildfires</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/08/seeds-fight-against-wildfires/>
+
+---
+
+## FEATURE ǀ Camp Chalan Kanoa:  What was it?
+
+date: 2024-07-08, updated: 2024-07-09, from: Marianas Variety
+
+ON this day 80 years ago, July 9, 1944, Lt. General Holland Smith, USMC, speaking from his headquarters in Chalan Kanoa, declared that the island of Saipan was secure.  That did not mean all the Japanese soldiers and sailors had been killed or captured, but rather that the they would not be able to take it back.  Many Marines and soldiers would die from sniper fire before the war was over thirteen months later. 
+
+<https://www.mvariety.com/views/columnists/feature-camp-chalan-kanoa-what-was-it/article_f68c91d6-3cf0-11ef-a070-6f7dfae8b185.html>
+
+---
+
+## MLB roundup: Marlins stun White Sox with walk-off HR
+
+date: 2024-07-08, updated: 2024-07-09, from: Marianas Variety
+
+(Reuters) — Down to their last strike, the host Miami Marlins picked up a 7-4 walk-off win over the Chicago White Sox on Sunday afternoon when Jake Burger slugged a three-run homer against his former team. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-marlins-stun-white-sox-with-walk-off-hr/article_0061eaba-3cfd-11ef-9f91-bbf7c75b66fd.html>
+
+---
+
+## O’Sullivan, Tan rule 4th of July race
+
+date: 2024-07-08, updated: 2024-07-09, from: Marianas Variety
+
+JODY O’Sullivan and NMI national record holder Tania Tan dominated their respective divisions in Run Saipan’s 4th Annual 4th of July Independence Day 2-mile Race on Thursday morning. 
+
+<https://www.mvariety.com/sports/localsports/o-sullivan-tan-rule-4th-of-july-race/article_cb8f8ef0-3d06-11ef-86bb-f397db41c14b.html>
+
+---
+
+## Jayceon Smiling will return to UAA Junior Olympics
+
+date: 2024-07-08, updated: 2024-07-09, from: Marianas Variety
+
+JAYCEON Smiling, a CNMI son, will make his second appearance in the AAU Junior Olympics in Winson-Salem, North Carolina, which is set from July 29 to Aug 1. 
+
+<https://www.mvariety.com/sports/localsports/jayceon-smiling-will-return-to-uaa-junior-olympics/article_045dc90e-3d0c-11ef-a4da-dff374eb43c4.html>
+
+---
+
+## Joe Sablan Jr, Nick Reyes shine in Super Senior, A Flights
+
+date: 2024-07-08, updated: 2024-07-09, from: Marianas Variety
+
+JOE Sablan JR. and Nick Reyes earned their time in the spotlight by claiming their respective flight titles in the 2024 Joeten Memorial Classic at the east course of Laolao Bay Golf &amp; Resort on Saturday. 
+
+<https://www.mvariety.com/sports/localsports/joe-sablan-jr-nick-reyes-shine-in-super-senior-a-flights/article_cf9169c4-3d01-11ef-ba08-9bc2a3c56714.html>
+
+---
+
+## Federal financial aid available for NMC’s 2024-2025 academic year
+
+date: 2024-07-08, updated: 2024-07-09, from: Marianas Variety
+
+(NMC) — Qualified Northern Marianas College students who are looking to access financial aid can receive up to $7,365 in Pell grants for NMC’s 2024-2025 Academic Year if they submit the 2024-2025 Free Application for Federal Financial Aid and the supporting documents before the priority deadline of August 15, 2024. 
+
+<https://www.mvariety.com/news/community_bulletins/federal-financial-aid-available-for-nmc-s-2024-2025-academic-year/article_48be47b4-3cf7-11ef-9883-8b87cc0aacbd.html>
+
+---
+
+## JKPL thanks Joeten Motors for expeditious repair of Bookmobile and Technology Mobile Express
+
+date: 2024-07-08, updated: 2024-07-09, from: Marianas Variety
+
+(JKPL) — The Joeten-Kiyu Public Library is pleased to announce that thanks to the generous support and assistance of Joeten Motors Inc. the repair of the Bookmobile and Technology Mobile Express was expedited and completed in time for the Bookmobile Summer Reading Program and the resumption of outreach services to the Tanapag Youth Center from July 10-12, 2024; the Carolinian Utt/Pavilion from July 17-19; the Kagman Community Center from July 24-26, and the Fernando M. Benavente Memorial Library (San Antonio) from July 30-31 and August 2, 2024. 
+
+<https://www.mvariety.com/lifestyle/jkpl-thanks-joeten-motors-for-expeditious-repair-of-bookmobile-and-technology-mobile-express/article_cb278f9a-3d28-11ef-8e9b-af76dd16021f.html>
+
+---
+
+## Voting in the Best of the Marianas could win you a free trip to Japan!
+
+date: 2024-07-08, updated: 2024-07-09, from: Marianas Variety
+
+YOUR vote could determine this year’s top business, beach, restaurant, and more in the Best of the Marianas contest, which will be collecting votes until Aug. 25. 
+
+<https://www.mvariety.com/lifestyle/voting-in-the-best-of-the-marianas-could-win-you-a-free-trip-to-japan/article_56e11532-3cf3-11ef-8f2d-2f749b2496de.html>
+
+---
+
+## CPA board to decide on RT&T lease today
+
+date: 2024-07-08, updated: 2024-07-09, from: Marianas Variety
+
+THE Commonwealth Ports Authority board of directors will convene today, Tuesday, July 9, to decide on CPA’s lease agreement with Rota Terminal &amp; Transfer, which provides stevedoring services at Rota West Harbor. 
+
+<https://www.mvariety.com/news/local/cpa-board-to-decide-on-rt-t-lease-today/article_e8b7c0d8-3d10-11ef-baeb-135514f629f8.html>
 
 ---
 
@@ -266,6 +936,42 @@ date: 2024-07-08, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/07/08/opinion/did-hawaii-just-pave-the-way-for-court-enforcement-of-californias-climate-promises/>
+
+---
+
+## Police seek leads on missing Pahoa man
+
+date: 2024-07-08, from: Hawaii Tribune Harold
+
+
+				<p>Police are seeking the public&#8217;s assistance in locating a missing 58-year-old Pahoa man.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/08/hawaii-news/police-seek-leads-on-missing-pahoa-man-2/>
+
+---
+
+## Police seek info on assault at Kona beach
+
+date: 2024-07-08, from: Hawaii Tribune Harold
+
+
+				<p>Police are seeking the public&#8217;s assistance for leads on an assault that occurred in the early morning hours of June 2 at Magic Sands Beach on Alii Drive in Kailua Kona.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/08/hawaii-news/police-seek-info-on-assault-at-kona-beach/>
+
+---
+
+## Police seek info on assault, abduction in Hilo
+
+date: 2024-07-08, from: Hawaii Tribune Harold
+
+
+				<p>Police are requesting the public&#8217;s assistance in identifying a potential kidnapping victim and three suspects in an incident which occurred early Sunday evening in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/08/hawaii-news/police-seek-info-on-assault-abduction-in-hilo/>
 
 ---
 
