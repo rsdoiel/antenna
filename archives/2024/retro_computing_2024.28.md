@@ -1,11 +1,22 @@
 ---
 title: retro computing 2024.28
-updated: 2024-07-09 07:26:55
+updated: 2024-07-09 13:44:57
 ---
 
 # retro computing 2024.28
 
-(date: 2024-07-09 07:26:55)
+(date: 2024-07-09 13:44:57)
+
+---
+
+## An ePic reshuffle
+
+date: 2024-07-09, from: RiscOS Open
+
+<p>ePic is a single SD card combining both the official <span class="caps">RISC</span> OS Pi release plus a <a href="/content/sales/risc-os-epic/epic-contents">huge bundle</a> of commercial applications (previously called NutPi) totalling almost £600, had they each been bought individually.</p>
+<p><img src="/images/risc_os_open/sales/epic.png" title="One ePic distribution" alt="One ePic distribution" /></p> 
+
+<http://www.riscosopen.org/news/articles/2024/07/09/an-epic-reshuffle>
 
 ---
 

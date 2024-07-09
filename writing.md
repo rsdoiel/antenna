@@ -1,11 +1,92 @@
 ---
 title: writing 2024.28
-updated: 2024-07-09 07:26:53
+updated: 2024-07-09 13:44:55
 ---
 
 # writing 2024.28
 
-(date: 2024-07-09 07:26:53)
+(date: 2024-07-09 13:44:55)
+
+---
+
+## New Books, 9 July 2024
+
+date: 2024-07-09, from: Locus Magazine
+
+<p>Aryan, Stephen: <b>The Blood-Dimmed Tide</b>
+(Angry Robot 9781915202864, $18.99, 400pp, formats: trade paperback, ebook, audio, 07/09/2024)</p>
+<p>Historical fantasy novel, the second in the Nightingale and the Falcon trilogy inspired by the Mongol Empire&#8217;s invasion of Persia. Kaivon, the last Persian General, is celebrating as Hulagu Khan&#8217;s dream of conquering the whole world lies in tatters. But the fight is not yet done, as Persia is still occupied by Mongol invaders. <a href="https://locusmag.com/2024/07/new-books-9-july-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/new-books-9-july-2024/>
+
+---
+
+## Weekly Bestsellers, 8 July 2024
+
+date: 2024-07-09, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+<p>Tomi Adeyemi&#8217;s <b>Children of Anguish and Anarchy</b> (Henry Holt), third and concluding volume in the author&#8217;s Legacy of Orisha series, debuts on two lists, ranking #1 on Publishers Weekly&#8216;s Children&#8217;s Frontlist Fiction list.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+07.14
+LAT
+07.01
+USAT 
+06.30
+PW 
+07.08
+Amz 
+(07.08)
+UK:
+Amz UK 
+(07.08)
+Canada:
+Amz.ca 
+(07.08)
+
+
+Items on list -x- number of lists surveyed
+
+10&#215;3
+10&#215;2
+150
+15&#215;3
+100 <a href="https://locusmag.com/2024/07/weekly-bestsellers-8-july-2024/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/07/weekly-bestsellers-8-july-2024/>
+
+---
+
+## How screenwriters find their voice (Encore)
+
+date: 2024-07-09, from: John August blog
+
+John and Craig welcome Aline Brosh McKenna to look at what writers mean by a “voice,” and how it develops. Some screenwriters’ voice develops long before their craft, leading people to label them as “promising” even though the scripts themselves are a mess. Other writers get all the technical stuff right from the start, but [&#8230;]
+The post <a href="https://johnaugust.com/2024/how-screenwriters-find-their-voice-encore">How screenwriters find their voice (Encore)</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/how-screenwriters-find-their-voice-encore>
+
+---
+
+## Colleen Mondor Reviews The City of Stardust by Georgia Summers
+
+date: 2024-07-09, from: Locus Magazine
+
+<p><strong>The City of Stardust</strong>, Georgia Summers (Redhook 978-0-316-56148-8, $29.00, hc, 352 pp) January 2024.</p>
+<p><strong>The City of Stardust </strong>by Georgia Summers blends our recognizable world, mostly through the home of the Everly family in the English countryside, with the fictional city of Fidelis, a place of academics and magic that hides a horrific truth. (And that horror really is bad; we’re talking ritual-sacrifice-of-kidnapped-children kind of bad.) Violet Everly lives  <a href="https://locusmag.com/2024/07/colleen-mondor-reviews-the-city-of-stardust-by-georgia-summers/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/colleen-mondor-reviews-the-city-of-stardust-by-georgia-summers/>
 
 ---
 

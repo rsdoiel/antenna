@@ -1,11 +1,61 @@
 ---
 title: motorcycles 2024.28
-updated: 2024-07-09 07:26:55
+updated: 2024-07-09 13:44:57
 ---
 
 # motorcycles 2024.28
 
-(date: 2024-07-09 07:26:55)
+(date: 2024-07-09 13:44:57)
+
+---
+
+## 2024 Harley-Davidson Road Glide 3
+
+date: 2024-07-09, from: Cycle World News
+
+Harley’s three-wheeled Road Glide 3 is the classic Glide as we’ve known it, but for how much longer? 
+
+<https://www.cycleworld.com/harley-davidson/road-glide-3/>
+
+---
+
+## 2024 Harley-Davidson Tri Glide Ultra
+
+date: 2024-07-09, from: Cycle World News
+
+As the Ultra Limited is to H-D’s two-wheeled lineup, the Tri Glide Ultra is to its trike lineup, complete with rider aids and a Twin-Cooled M-8 114 engine. 
+
+<https://www.cycleworld.com/harley-davidson/tri-glide-ultra/>
+
+---
+
+## 2024 Harley-Davidson Freewheeler
+
+date: 2024-07-09, from: Cycle World News
+
+Harley-Davidson’s Freewheeler trike is the most affordable three-wheeler in the 2024 lineup, but holds its own thanks to definitive Harley styling. 
+
+<https://www.cycleworld.com/harley-davidson/freewheeler/>
+
+---
+
+## Bajaj Launches First CNG-Powered Motorcycle. Maybe Changes the Game?
+
+date: 2024-07-09, from: Ride Apart, Electric Motorcycle News
+
+The brand's reasoning behind making CNG a two-wheeled power source for low-capacity motorcycles makes perfect sense. 
+
+<https://www.rideapart.com/news/725902/bajaj-cng-freedom-motorcycle/>
+
+---
+
+## This Africa EV Moto Startup Is Getting Swappable Batteries from Carmaker BYD
+
+date: 2024-07-09, from: Ride Apart, Electric Motorcycle News
+
+BYD’s batteries will make their way into tens of thousands of electric motorcycle taxis in Rwanda and Kenya.  
+
+<https://www.rideapart.com/news/725813/byd-ev-batteries-ampersand-electric-motorcycles-chinese/>
 
 ---
 
@@ -176,16 +226,6 @@ date: 2024-07-08, from: Ride Apart, Electric Motorcycle News
 How one misunderstood statement at a shareholder meeting set off a cavalcade of confusion. 
 
 <https://www.rideapart.com/news/725475/honda-super-cub-discontinued-japan/>
-
----
-
-## 2024 Harley-Davidson Freewheeler
-
-date: 2024-07-08, from: Cycle World News
-
-Harley-Davidson’s Freewheeler trike is the most affordable three-wheeler in the 2024 lineup, but holds its own thanks to definitive Harley styling. 
-
-<https://www.cycleworld.com/harley-davidson/freewheeler/>
 
 ---
 

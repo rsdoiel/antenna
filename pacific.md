@@ -1,11 +1,22 @@
 ---
 title: pacific 2024.28
-updated: 2024-07-09 07:26:49
+updated: 2024-07-09 13:44:53
 ---
 
 # pacific 2024.28
 
-(date: 2024-07-09 07:26:49)
+(date: 2024-07-09 13:44:53)
+
+---
+
+## Boosting scientific breakthroughs aim of UH project, $335K grant
+
+date: 2024-07-09, from: University of Hawaiʻi News
+
+<p>Professor Henri Casanova's project is called WfCommons Tools for Workflow Research, Development, and Education on the CyberInfrastructure.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/09/wfcommons-nsf-grant/">Boosting scientific breakthroughs aim of <abbr>UH</abbr> project, $335<abbr>K</abbr> grant</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/09/wfcommons-nsf-grant/>
 
 ---
 
@@ -316,6 +327,18 @@ date: 2024-07-09, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/07/09/sports/djokovic-lets-rip-after-majestic-performance-zverev-bows-out-on-one-leg/>
+
+---
+
+## Hilo airport terminal evacuated after 2 inert grenades were found in luggage
+
+date: 2024-07-09, from: Hawaii Tribune Harold
+
+
+				<p>Hilo International Airport briefly halted operations this morning when Hawaii Police Department personnel responded to a report by Transportation Security Administration staff that two items resembling grenades were detected during X-ray screening within a carry-on bag belonging to male Japanese national departing the country.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/09/hawaii-news/hilo-airport-terminal-evacuated-after-2-inert-grenades-were-found-in-luggage/>
 
 ---
 

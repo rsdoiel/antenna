@@ -1,11 +1,21 @@
 ---
 title: journalism 2024.28
-updated: 2024-07-09 07:26:53
+updated: 2024-07-09 13:44:56
 ---
 
 # journalism 2024.28
 
-(date: 2024-07-09 07:26:53)
+(date: 2024-07-09 13:44:56)
+
+---
+
+## In the world’s tech capital, Gazetteer SF is staying off platforms to produce good local journalism
+
+date: 2024-07-09, from: Nieman Journalism Lab
+
+One night in May, reporter Eddie Kim went for a walk in San Francisco. Kim, a news reporter for Gazetteer SF, wanted to retrace the steps of a tech company founder who tweeted that a two-mile walk from SoMa to Hayes Valley was “the sketchiest walk of my life.” (The tweet&#8217;s been viewed more than... 
+
+<https://www.niemanlab.org/2024/07/in-the-worlds-tech-capital-gazetteer-sf-is-staying-off-platforms-to-produce-good-local-journalism/>
 
 ---
 

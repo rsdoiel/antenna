@@ -1,11 +1,111 @@
 ---
 title: games 2024.28
-updated: 2024-07-09 07:26:53
+updated: 2024-07-09 13:44:56
 ---
 
 # games 2024.28
 
-(date: 2024-07-09 07:26:53)
+(date: 2024-07-09 13:44:56)
+
+---
+
+## The best early Prime Day 2024 deals
+
+date: 2024-07-09, updated: 2024-07-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/24191144/best-prime-day-gaming-deals-blu-ray-board-games>
+
+---
+
+## Xbox games are now playable via your Amazon Fire TV Stick
+
+date: 2024-07-09, updated: 2024-07-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24187316/xbox-amazon-fire-tv-partnership>
+
+---
+
+## Walmart has discounted the Animal Crossing Switch Lite to its lowest price yet
+
+date: 2024-07-09, updated: 2024-07-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24194877/animal-crossing-switch-lite-bundle-walmart-deal-sale>
+
+---
+
+## Bloomburrow brings a menagerie of woodland creatures to MTG on Aug. 2 — here’s where you can pre-order
+
+date: 2024-07-09, updated: 2024-07-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24190175/bloomburrow-magic-the-gathering-pre-order-expansion>
+
+---
+
+## Magic: The Gathering’s Bloomburrow set doesn’t have any people in it
+
+date: 2024-07-09, updated: 2024-07-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24190201/mtg-bloomburrow-card-previews-new-mechanics>
+
+---
+
+## Pokémon’s famous Charizard artist lends his talents to Magic: The Gathering for the first time
+
+date: 2024-07-09, updated: 2024-07-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24188410/charizard-artist-mitsuhiro-arita-pokemon-tcg-magic-the-gathering-mtg>
+
+---
+
+## The Meta Quest 3 VR headset is on sale right now at its lowest price yet
+
+date: 2024-07-09, updated: 2024-07-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/2024/7/9/24194936/meta-quest-3-sale-vr-discount>
+
+---
+
+## You’ll feel like applauding this LinkedIn post from Manor Lords’ publisher
+
+date: 2024-07-09, updated: 2024-07-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24194828/manor-lords-early-access-updates-publisher-comment>
+
+---
+
+## House of the Dragon’s Red Keep seems so bleak because it’s lost all its dragon sex art
+
+date: 2024-07-09, updated: 2024-07-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24194521/house-dragons-sex-art-frescoes-tapestry-season-2-why>
+
+---
+
+## How to find the ‘suspicious shadow’ at Waterfall Soup in Zenless Zone Zero
+
+date: 2024-07-09, updated: 2024-07-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/zenless-zone-zero-guides/24194902/zzz-waterfall-soup-at-night-suspicious-shadow>
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 title: socal north 2024.28
-updated: 2024-07-09 07:26:48
+updated: 2024-07-09 13:44:52
 ---
 
 # socal north 2024.28
 
-(date: 2024-07-09 07:26:48)
+(date: 2024-07-09 13:44:52)
 
 ---
 
-## How many students applied for financial aid in your school district?
+## This year's financial aid process was filled with mistakes. Here are the completion rates by school district
 
 date: 2024-07-09, updated: 2024-07-09, from: The LAist
 

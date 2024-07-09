@@ -1,11 +1,214 @@
 ---
 title: columns 2024.28
-updated: 2024-07-09 07:26:52
+updated: 2024-07-09 13:44:55
 ---
 
 # columns 2024.28
 
-(date: 2024-07-09 07:26:52)
+(date: 2024-07-09 13:44:55)
+
+---
+
+## When you don’t own your tools
+
+date: 2024-07-09, from: Tracy Durnell Blog
+
++ Weathering Software Winter by Devine As an artist you spend time developing a skill, you become a Photoshop illustrator. When your connection to the internet fails and the software locks up, that skill that you thought was yours was actually entirely owned by someone, and can be taken away. A consequence of our tools [&#8230;] 
+
+<https://tracydurnell.com/2024/07/09/when-you-dont-own-your-tools/>
+
+---
+
+##  I saw Midnight in Chernobyl at a bookstore over the weekend and... 
+
+date: 2024-07-09, updated: 2024-07-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044927-i-saw-midnight-in-chernob>
+
+---
+
+## Why (& How) IPL Could Save Test Cricket
+
+date: 2024-07-09, from: Om Malik blog
+
+Marylebone Cricket Club, one of cricket’s august organizations, recently organized World Cricket Connects, a symposium about the future of a sport that — like so many things — finds itself caught between tradition and tomorrow. Test cricket, the traditional form of the game, is giving way to an onslaught of franchises offering up T20 cricket, &#8230; 
+
+<https://om.co/2024/07/09/why-how-ipl-could-save-test-cricket/>
+
+---
+
+## Flight Tracking in Messages (and Anywhere Data Detectors Work)
+
+date: 2024-07-09, updated: 2024-07-09, from: Daring Fireball
+
+ 
+
+<https://www.cnet.com/tech/mobile/you-can-track-any-flight-directly-from-your-iphones-text-messages/>
+
+---
+
+##  Free Shipping on Kottke Tees 
+
+date: 2024-07-09, updated: 2024-07-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/free-shipping-on-kottke-tees>
+
+---
+
+## July 8, 2024
+
+date: 2024-07-09, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/july-8-2024-33d>
+
+---
+
+##  Here&#8217;s how auto dealerships try to scam you when buying a car.... 
+
+date: 2024-07-09, updated: 2024-07-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044918-heres-how-auto-dealership>
+
+---
+
+## Windows Notepad Finally Gets Spellcheck and Autocorrect
+
+date: 2024-07-09, updated: 2024-07-09, from: Daring Fireball
+
+ 
+
+<https://blogs.windows.com/windows-insider/2024/03/21/spellcheck-in-notepad-begins-rolling-out-to-windows-insiders/>
+
+---
+
+## Reverse-Engineering Ticketmaster’s Barcode System
+
+date: 2024-07-09, updated: 2024-07-09, from: Bruce Schneier blog
+
+<p><a href="https://www.404media.co/scalpers-are-working-with-hackers-to-liberate-non-transferable-tickets-from-ticketmasters-ecosystem/">Interesting</a>:</p>
+<blockquote><p>By reverse-engineering how Ticketmaster and AXS actually make their electronic tickets, scalpers have essentially figured out how to regenerate specific, genuine tickets that they have legally purchased from scratch onto infrastructure that they control. In doing so, they are removing the anti-scalping restrictions put on the tickets by Ticketmaster and AXS.</p></blockquote>
+ 
+
+<https://www.schneier.com/blog/archives/2024/07/reverse-engineering-ticketmasters-barcode-system.html>
+
+---
+
+##  Project 2025 in a Nutshell 
+
+date: 2024-07-09, updated: 2024-07-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/project-2025-in-a-nutshell>
+
+---
+
+## New Cars in the EU Now Equipped With Nagging Speed Limiters
+
+date: 2024-07-09, updated: 2024-07-09, from: Daring Fireball
+
+ 
+
+<https://www.lbc.co.uk/news/new-cars-fitted-automatic-speed-limiters-this-week/>
+
+---
+
+##  Biden is The Candidate. Gabrielle Blair on the practical facts of the... 
+
+date: 2024-07-09, updated: 2024-07-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044926-biden-is-the-candidate-ga>
+
+---
+
+## Engineering For The Long Term
+
+date: 2024-07-09, from: David Rosenthal's blog
+
+<div style="text-align: center;"><b>Content Warning</b>: this post contains blatant self-promotion.<br /></div>
+<br />
+Contributions to engineering fields can only reasonably be assessed in hindsight, by looking at how they survived exposure to the real world over the long term.
+Four of my contributions to various systems have stood the test of time.
+Below the fold, I blow my own horn four times.<br />
+<span><a name='more'></a></span>
+<br />
+<h3>Four Decades</h3>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiat-e511fHw4JxMILSMVfjS1u9j8jb0MFSPnAYxLdN0aWvUiBGFcnCtmRmoxhZztkH9fEG85LNRlObB3pXkSGKps1tIZbpfR_pJS9-_rQLEDGeXyjW9qP806Hs3dTGg7dbxHlThdqVH6myYQMmBdxcGSTRPXxWJk3-zyuOsgabtxpeRqwj-K2skxGvNt8Y/s2048/X11R1.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1536" data-original-width="2048" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiat-e511fHw4JxMILSMVfjS1u9j8jb0MFSPnAYxLdN0aWvUiBGFcnCtmRmoxhZztkH9fEG85LNRlObB3pXkSGKps1tIZbpfR_pJS9-_rQLEDGeXyjW9qP806Hs3dTGg7dbxHlThdqVH6myYQMmBdxcGSTRPXxWJk3-zyuOsgabtxpeRqwj-K2skxGvNt8Y/w200-h150/X11R1.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">X11R1 on a Sun/1<br /></td></tr></tbody></table>
+Wikipedia has a pretty good history of the early days of the <a href="https://en.wikipedia.org/wiki/X_Window_System#Origin_and_early_development">X Window System</a>.
+In <a href="https://blog.dshr.org/2024/07/x-window-system-at-40.html"><i>The X Window System At 40</i></a> I detailed my contributions to the early development of X.  To my amazement 40 years after Bob Scheifler's initial release it is still valiantly resisting obsolescence. I contributed to the design, implementation, testing, release engineering and documentation of X11 starting a bit over 39 years ago. At least my design for how X handles keyboards is still the way it works.<br />
+<br />
+All this while I was also working on a competitor, Sun's NeWS — which didn't survive the test of time.<br />
+<h3>Nearly Three-and-a-Half Decades</h3>
+One of the things I really enjoyed about working on NeWS was that the PostScript environment it implemented was object-oriented, a legacy of PostScript's origins at Xerox PARC. Owen Densmore and I developed <a href="https://doi.org/10.1111/j.1467-8659.1987.tb00537.x"><i>A User‐Interface Toolkit in Object‐Oriented PostScript</i></a> that made developing NeWS applications very easy, provided you were comfortable with an object-oriented programming paradigm.<br />
+<br />
+I think it was sometime in 1988 while working on the SunOS 4.0 kernel that I realized that the BSD Vnode interface was in a loose sense object-oriented. It defines the interface between the file system and the rest of the kernel.
+An instance of BSD's type <tt>vnode</tt> consisted of some instance data and a pointer to an "ops vector" that defined its class via an array of methods (function pointers). But it wasn't object-oriented enough to, for example, implement inheritance properly.<br />
+<br />
+This flaw had led to some inelegancies as the interface had evolved through time, but what interested me more was the potential applications that would be unleashed if the interface could be made properly object-oriented. Instead of being implemented from scratch, file systems could be implemented by sub-classing other file systems. For example, a read-only file system such as a CD-ROM could be made writable by "stacking" a cache file system on top, as shown in Figure 11. I immediately saw the possibility of significant improvements in system administration that could flow from stacking file systems.<br />
+<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgv4C-oX40JzuQgtm-YdWn7r_Gk3YMmp19r5PR83bKUkNeGg_rg8kcjhvi7iDwHQUy6prxpXjevsgsntp8rMWl8bmpToYCXEXjDQbht476zNMkB0Mxq8SIf0u8hIWhvadhip5tLVGGvvgZkMk0uBpBI995_niUFzWh0xOS8mGKVk_A992_MJGucUADXpGw/s767/Figure-11.png" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="767" data-original-width="615" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgv4C-oX40JzuQgtm-YdWn7r_Gk3YMmp19r5PR83bKUkNeGg_rg8kcjhvi7iDwHQUy6prxpXjevsgsntp8rMWl8bmpToYCXEXjDQbht476zNMkB0Mxq8SIf0u8hIWhvadhip5tLVGGvvgZkMk0uBpBI995_niUFzWh0xOS8mGKVk_A992_MJGucUADXpGw/s320/Figure-11.png" width="257" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.abitare.org/papers/StackingVnodes.pdf">Evolving the Vnode Interface: Fig. 11</a></td></tr></tbody></table>
+I started building a prototype by performing major surgery on a copy of the code that would become SunOS 4.1. By late 1989 it worked well enough to demonstrate the potential of the idea, so I published 1990's <a href="https://www.abitare.org/papers/StackingVnodes.pdf"><i>Evolving the Vnode Interface</i></a>. The paper describes a number of Vnode modules that can be stacked together to implement interesting functions. Among them was cache-fs, which layered a writable local file system above a local or remote read-only file system:<br />
+<blockquote>
+This simple module can use any file system as a file-level cache for any other (read-only) file system. It has no knowledge of the file systems it is using; it sees them only via their opaque vnodes. Figure 11 shows it using a local writable ufs file system to cache a remote read-only NFS file system, thereby reducing the load on the server. Another possible configuration would be to use a local writable ufs file system to cache a CD-ROM, obscuring the speed penalty of CD.
+</blockquote>
+Over the next quarter-century the idea of stacking vnodes and the related idea of "union mounts" from <a href="https://www.usenix.org/legacy/publications/compsystems/1995/sum_pike.pdf">Rob Pike and Plan 9</a> churned around until, in October 2014, <a href="https://github.com/torvalds/linux/commit/e9be9d5e76e34872f0c37d72e25bc27fe9e2c54c">Linus Torvalds added overlayfs to the 3.18 kernel</a>. I covered the details of this history in 2015's <a href="https://blog.dshr.org/2015/02/it-takes-longer-than-it-takes.html"><i>It takes longer than it takes</i></a>. In it I quoted from Valerie Aurora's <a href="http://lwn.net/Articles/324291/">excellent</a> <a href="http://lwn.net/Articles/325369/">series</a> of <a href="http://lwn.net/Articles/327738/">articles</a> about the architectural and implementation difficulties involved in adding union mounts to the Linux kernel. I concurred with her statement that:<br />
+<blockquote>
+The consensus at the <a href="http://lwn.net/Articles/327601/">2009 Linux file systems workshop</a> was that stackable file systems are conceptually elegant, but difficult or impossible to implement in a maintainable manner with the current VFS structure. My own experience writing a stacked file system (an in-kernel chunkfs prototype) leads me to agree with these criticisms.
+</blockquote>
+I <a href="https://blog.dshr.org/2015/02/it-takes-longer-than-it-takes.html">wrote</a>:<br />
+<blockquote>
+Note that my original paper was only incidentally about union mounts, it was a critique of the then-current VFS structure, and a suggestion that stackable vnodes might be a better way to go. It was such a seductive suggestion that it took nearly two decades to refute it!
+</blockquote>
+Nevertheless, the example I used in <a href="https://www.abitare.org/papers/StackingVnodes.pdf"><i>Evolving the Vnode Interface</i></a> of a use for stacking vnodes was what persisted. It took a while for the fact that overlayfs was an official part of the Linux kernel to percolate through the ecosystem, but after six years I was able to write <a href="https://blog.dshr.org/2021/12/blatant-self-promotion.html#more"><i>Blatant Self-Promotion</i></a> about the transformation it wrought on Linux's packaging and software distribution, inspired by Liam Proven's <a href="https://www.theregister.com/2021/12/03/nixos_linux_os_design/"><i>NixOS and the changing face of Linux operating systems</i></a>. He writes about less radical ideas than NixOS:<br />
+<blockquote>
+So, instead of re-architecting the way distros are built, vendors are reimplementing similar functionality using simpler tools inherited from the server world: containers, squashfs filesystems inside single files, and, for distros that have them, copy-on-write filesystems to provide rollback functionality.<br />
+<br />
+The goal is to build operating systems as robust as mobile OSes: periodically, the vendor ships a thoroughly tested and integrated image which end users can't change and don't need to. In normal use, the root filesystem is mounted read-only, and there's no package manager. 
+</blockquote>
+Since then this model has become universal. Distros ship as a bootable ISO image, which uses overlayfs to mount a writable temporary file system on top. This is precisely how my 1989 prototype was intended to ship SunOS 4.1. The technology has spread to individual applications with systems such as <a href="https://en.wikipedia.org/wiki/Snap_(software)">Snaps</a> and <a href="https://en.wikipedia.org/wiki/Flatpak">Flatpak</a>.<br />
+<h3>Three Decades</h3>
+The opportunity we saw when we started Nvidia was that the PC was transitioning from the <a href="https://en.wikipedia.org/wiki/Industry_Standard_Architecture">ISA bus</a> to version 1 of the <a href="https://en.wikipedia.org/wiki/Peripheral_Component_Interconnect">PCI bus</a>. The ISA bus' bandwidth was completely inadequate for 3D games, but the PCI bus had considerably more. Whether it was enough was an open question. We clearly needed to make the best possible use of the limited bandwidth we could get.<br />
+<br />
+Nvidia's first chip had three key innovations:<br />
+<ol>
+<li>Rendering objects with quadric patches not triangles. A realistic model using quadric patches needed perehaps a fifth of the data for an equivalent triangle model.</li>
+<li>I/O virtualization with applications using a write-mostly, object-oriented interface. Read operations are neccessarily synchronous, whereas write operations are asynchronous. Thus the more writes per read across sthe bus, the better the utilization of the available bus bandwidth.</li>
+<li>A modular internal architecture based on an on-chip token-ring network. Thie goal was that each functional unit be simple enough to be designed and tested by a three-person team.</li>
+</ol>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUekTL7ri6B9cxWc-tqs20vIkYvuZFl_ypQsQFRr76bucjLxne1U6rIa2iUKc2j6tZYhHCi7y22GYQQEEz4_Z2DauOdsVDMVwYAEsvpJEDfGMUliWdsLi3xQUeYJ6sUc_ftJUbuWqQME_B/s526/NV1.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="356" data-original-width="526" height="136" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUekTL7ri6B9cxWc-tqs20vIkYvuZFl_ypQsQFRr76bucjLxne1U6rIa2iUKc2j6tZYhHCi7y22GYQQEEz4_Z2DauOdsVDMVwYAEsvpJEDfGMUliWdsLi3xQUeYJ6sUc_ftJUbuWqQME_B/w200-h136/NV1.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">SEGA's <i>Virtua Fighter</i> on NV1</td></tr></tbody></table>
+The first two of these enabled us to get Sega's arcade games running at full frame rate on a PC.  Curtis Priem and I designed the second of these, and it is the one that has lasted:<br />
+<ul>
+<li>I/O virtualization allowed multiple processes direct access to the graphics hardware, with no need to pass operations through the operating system. I explained the importance of this a decade ago in <a href="https://blog.dshr.org/2014/12/hardware-io-virtualization.html"><i>Hardware I/O Virtualization</i></a>, using the example of Amazon building their own network interface cards. Tne first chip appeared on the bus as having 128 wide FIFOs. The operating system could map one of them into each process wanting access to the chip, allowing applications direct access to the hardware but under the control of the operating system.</li>
+<li>The interface was write-mostly because the application could read from the FIFO the number of free slots, that is the number of writes before the bus would stall.</li>
+<li>The interface was object-oriented because the data and the offset in the FIFO formed an invocation of a method on an instance of a (virtual) class. Some classes were implemented in hardware, others trapped into the kernel and were implemented by the driver, but the application just created and used instances of the available classes without knowing which was which. The classes were arranged in a hierarchy starting with class CLASS. Enumerating the instances of class CLASS told the application which classes it could use. Enumerating the instances of each of those classes told the application how many of each type of resource it could use.</li>
+</ul> 
+The importance of the last of these was that it decoupled the hardware and software release schedules. Drivers could emulate classes that had yet to appear in hardware, the applications would use the hardware once it was available. Old software would run on newer hardware, it would just see some classes it didn't know how to use. One of our frustrations with Sun was the way software and hardware release schedules were inextricably interlinked.<br />
+<h3>Two-and-a-Half Decades</h3>
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsW7x_4i-TUwFG6xNVH2q_nk5jXabNhRGxUbnEeDV6vKapZoAmu9eDP1JY4Oavw508eDSbFy734Gxb2crvCI-eAQVjL-3LjYp0olWhqIR4OM6AhehgFJTKFxrKEdrLJHUOdsrPCeODqpu4dVDUT2sggb73rBj_EomjFI1YirWH2THzPUgP4_KwTIDX1Q/s151/LOCKSS.logo.png" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="151" data-original-width="151" height="151" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsW7x_4i-TUwFG6xNVH2q_nk5jXabNhRGxUbnEeDV6vKapZoAmu9eDP1JY4Oavw508eDSbFy734Gxb2crvCI-eAQVjL-3LjYp0olWhqIR4OM6AhehgFJTKFxrKEdrLJHUOdsrPCeODqpu4dVDUT2sggb73rBj_EomjFI1YirWH2THzPUgP4_KwTIDX1Q/s151/LOCKSS.logo.png" width="151" /></a></div>
+Last October I celebrated the <a href="https://blog.dshr.org/2023/10/lockss-program-turns-25.html"><i>LOCKSS Program Turns 25</i></a>. Vicky Reich explained to me how libraries preserved paper academic journals and how their move to the Web was changing libraries role from purchasing a copy of the journal to renting access to the publisher's copy, and I came up with the overall peer-to-peer archtecture (and the acronym). With help from Mark Seiden I built the prototype, and after using it to demonstrate the feasibility of the concept, also used it to show vulnerabilities in the initial protocol. In 2003 I was part of the team that solved these problems, for which we were awarded the Best Paper award at the Symposium on Operating System Principles for <a href="http://dx.doi.org/10.1145/945445.945451"><i>Preserving peer replicas by rate-limited sampled voting</i></a>.<br />
+<br /> 
+
+<https://blog.dshr.org/2024/07/engineering-for-long-term.html>
+
+---
+
+##  Gladiator II 
+
+date: 2024-07-09, updated: 2024-07-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/gladiator-ii>
 
 ---
 
@@ -78,7 +281,7 @@ date: 2024-07-09, updated: 2024-07-09, from: Jason Kittke's blog
 
 date: 2024-07-09, from: Dave Winer's Scripting News
 
-<p>The problem is elites grabbing the steering wheel with no clue about what comes next, and driving us off a cliff.</p>
+<p><i>The problem is elites grabbing the wheel with no clue about what comes next.</i></p>
 <p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/14/bidenActionFigure.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Every Tuesday I look for Jon Stewart's opening for the Daily Show on YouTube. It's always funny, great comedy, whether or not you agree with what he says, and I usually do agree. But not when it comes to him pushing President Biden out, without any idea of what comes next, and how the people, even some people who love his show, feel about having no voice. </p>
 <p>If the voters organize, using the tools we have now, and stay organized after the election, we could elect anyone to be president. There's never been a more clear opportunity to win a landslide. It depends on organization, and elites not grabbing the steering wheel with no clue about what comes next, and driving us off a cliff. </p>
 <p>I've been close to elites at times, and I can tell you, they aren't any smarter than you, they just have more power. I think that's been the real problem. We have failed to stay a democracy as we've gotten the tools to really be a democracy in ways we never could have before. And now we're at the last moment before it's all flushed away and the NYT et al (including our hero Stewart) are making it more certain, not less. </p>

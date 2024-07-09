@@ -1,11 +1,11 @@
 ---
 title: health 2024.28
-updated: 2024-07-09 07:26:55
+updated: 2024-07-09 13:44:58
 ---
 
 # health 2024.28
 
-(date: 2024-07-09 07:26:55)
+(date: 2024-07-09 13:44:58)
 
 ---
 
@@ -66,6 +66,16 @@ date: 2024-07-09, from: Frontiers in Cellular and Infection Microbiology
 BackgroundPathogenic diversity may have contributed to the high mortality of pneumonia-associated acute respiratory distress syndrome (p-ARDS). Metagenomics next-generation sequencing (mNGS) serves as a valuable diagnostic tool for early pathogen identification. However, its clinical utility in p-ARDS remains understudied. There are still limited researches on the etiology, clinical characteristics and risk factors for 28-day mortality in p-ARDS patients.MethodsA single center retrospective cohort study of 75 p-ARDS patients was conducted. Patients were categorized into survival and deceased groups based on their 28-day outcomes. A comprehensive clinical evaluation was conducted, including baseline characteristics, laboratory indicators, outcomes and pathogen identification by mNGS and traditional microbiological testing. We then evaluated the diagnostic value of mNGS and identified clinical characteristics and risk factors for 28-day mortality in p-ARDS.ResultThe overall ICU mortality was 26.67%, and the 28-day mortality was 57.33%, with 32 cases (42.67%) in the survival group, and 43 cases (57.33%) in the deceased group. Patients in the deceased group were older than those in the survival group (68(59,73) years vs. 59(44,67) years, P=0.04). The average lengths of ICU and hospital stay were 9(5,13) days and 14(7,21) days, respectively. The survival group had longer lengths of ICU and hospital stay (ICU: 11(7,17) days and hospital: 17(9,27) days) compared to the deceased group (ICU: 8(4,11) days and hospital: 12(6,19) days) (P<0.05). Survival patients exhibited lower Acute Physiology and Chronic Health Evaluation (APACHE) II score on the 3rd and 7th days, higher lymphocyte counts, higher CD3+ and CD8+ T cell counts compared to deceased patients (P<0.05). Multivariate logistic regression analysis identified age, APACHE II scores on 3rd and 7th days, CD8+ T cell count and length of ICU as independent risk factors for 28-day mortality in p-ARDS patients. mNGS demonstrated a significantly higher overall pathogen detection rate (70/75, 93.33%) compared to the traditional method (50/75, 66.67%, P=0.022). The average turnaround time (TAT) for mNGS was significantly shorter at 1(1,1) day compared to 4(3,5) days for the traditional method (P<0.001).ConclusionMetagenome next-generation sequencing can be used as a valuable tool for identifying pathogens in p-ARDS, reducing diagnostic time and improving accuracy. Early application of mNGS alongside traditional methods is recommended for p-ARDS. Furthermore, older age, higher APACHE II scores, lower lymphocyte counts and lymphocyte subset counts were associated with increased mortality in p-ARDS patients, highlighting the importance of timely assessment of immune status and disease severity, especially in elderly. 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2024.1396088>
+
+---
+
+## People’s CDC COVID-19 Weather Report
+
+date: 2024-07-08, from: People's CDC
+
+This is the @PeoplesCDC bi-weekly update for July 8, 2024! This Weather Report from the People’s CDC sheds light on the ongoing COVID situation in the US. 
+
+<https://peoplescdc.org/2024/07/08/peoples-cdc-covid-19-weather-report-78/>
 
 ---
 

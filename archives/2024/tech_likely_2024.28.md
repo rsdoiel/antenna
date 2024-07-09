@@ -1,11 +1,232 @@
 ---
 title: tech likely 2024.28
-updated: 2024-07-09 07:26:51
+updated: 2024-07-09 13:44:54
 ---
 
 # tech likely 2024.28
 
-(date: 2024-07-09 07:26:51)
+(date: 2024-07-09 13:44:54)
+
+---
+
+## iOS 18: Vehicle Motion Cues
+
+date: 2024-07-09, from: Michael Tsai
+
+Tim Hardwick: According to Apple, research shows that motion sickness is commonly caused by a sensory conflict between what a person sees and what they feel, which can prevent some users from comfortably using iPhone or iPad while riding in a moving vehicle. Vehicle Motion Cues are designed to avoid this sensory conflict with the [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/09/ios-18-vehicle-motion-cues/>
+
+---
+
+## CarPlay at WWDC24
+
+date: 2024-07-09, from: Michael Tsai
+
+Casper Kessels (April 2024, via Hacker News): The first version of CarPlay has been available since 2016 and has been a major success. For car industry standards, it was adopted quickly and by almost every carmaker. But since then, the car industry has been changing while the design and functionality of CarPlay have mostly stayed [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/09/carplay-at-wwdc24/>
+
+---
+
+## Mac App Impersonation
+
+date: 2024-07-09, from: Michael Tsai
+
+J&#233;r&#244;me Segura (via Ric Ford): On June 24, we observed a new campaign distributing a stealer targeting Mac users via malicious Google ads for the Arc browser. This is the second time in the past couple of months where we see Arc being used as a lure, certainly a sign of its popularity. It was [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/09/mac-app-impersonation/>
+
+---
+
+## Stack Overflow Links Pushing Malware
+
+date: 2024-07-09, from: Michael Tsai
+
+Lawrence Abrams (via Hacker News): Cybercriminals are abusing Stack Overflow in an interesting approach to spreading malware&#8212;answering users&#8217; questions by promoting a malicious PyPi package that installs Windows information-stealing malware.[&#8230;]This PyPi package is named &#8216;pytoileur&#8217; and was uploaded by threat actors to the PyPi repository over the weekend, claiming it was an API management tool. [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/09/stack-overflow-links-pushing-malware/>
+
+---
+
+##  I saw Midnight in Chernobyl at a bookstore over the weekend and... 
+
+date: 2024-07-09, updated: 2024-07-09, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044927-i-saw-midnight-in-chernob>
+
+---
+
+## A moment walking towards the sunset
+
+date: 2024-07-09, from: Manu - I write blog
+
+
+                <p>The sound of wind blowing through the trees and the wild grass has to be one of the most relaxing sounds existing in nature.</p>
+<p>Add to that a great view of the mountains and a lovely summer sunset and you have the best possible set for an evening walk.</p>
+<figure class="m-o" data-template="with"><div class="m-m"><img class="img" loading="lazy" src="https://manuelmoreale.com/media/pages/thoughts/a-moment-walking-towards-the-sunset/867bcf09a5-1720549120/img_1368.jpeg" style="aspect-ratio:1000 / 1333"></div></figure>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/VsoqxkIPE2bjwU1t>
+
+---
+
+## NASA Invites Media to 65th Birthday Celebration for Iconic Logo
+
+date: 2024-07-09, from: NASA breaking news
+
+NASA’s logo turns 65 on Monday, July 15, and media are invited to its birthday celebration in Cleveland, the city where the iconic symbol was designed. To mark the logo’s birthday, NASA’s Glenn Research Center in Cleveland will host a series of activities celebrating the city’s connection to one of the most recognized logos in [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-65th-birthday-celebration-for-iconic-logo/>
+
+---
+
+##  Free Shipping on Kottke Tees 
+
+date: 2024-07-09, updated: 2024-07-09, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/free-shipping-on-kottke-tees>
+
+---
+
+## What Happens if You Shoot Down a Delivery Drone?
+
+date: 2024-07-09, updated: 2024-07-09, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/07/09/what-happens-if-you-shoot-down-a-delivery-drone/>
+
+---
+
+## NASA Technology Soars at Selfridge Air Show
+
+date: 2024-07-09, from: NASA breaking news
+
+NASA’s Glenn Research Center staff traveled to Michigan for the Selfridge Air National Guard Base air show, open house, and STEAM Expo, June 8 and 9. NASA’s Journey to Tomorrow, a 53-foot traveling exhibit, was a popular feature that&#160;showcased exploration in air and space. Additionally, experts from NASA&#8217;s Fission Surface Power project shared information on [&#8230;] 
+
+<https://www.nasa.gov/general/nasa-technology-soars-at-selfridge-air-show/>
+
+---
+
+## International and Space Law
+
+date: 2024-07-09, from: NASA breaking news
+
+The International and Space Law Practice Group (ISLPG) is responsible for providing legal advice and counsel regarding international matters at Headquarters and all NASA Centers. Some of the legal issues for which ISLPG is responsible include: international law, including space law; domestic law which may impact NASA’s international cooperation; issues involving the United Nations or [&#8230;] 
+
+<https://www.nasa.gov/organizations/international-and-space-law/>
+
+---
+
+## Rainbow Alliance Advisory Group Showcases NASA at Pride Event in Downtown Cleveland
+
+date: 2024-07-09, from: NASA breaking news
+
+For the second year in a row, NASA Glenn Research Center’s Rainbow Alliance Advisory Group (RAAG), with support from additional Glenn employees, marched in Cleveland’s “Pride in the CLE” festival on June 1.&#160; This year, they widened their presence by staffing an exhibit booth, which showcased NASA and inclusion in the workplace.&#160;&#160; Throughout the day, [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/rainbow-alliance-advisory-group-showcases-nasa-at-pride-event-in-downtown-cleveland/>
+
+---
+
+## NASA Glenn Welcomes Summer Student Interns
+
+date: 2024-07-09, from: NASA breaking news
+
+NASA Glenn Research Center’s Office of STEM Engagement provided a multi-faceted orientation—including a welcome from Center Director Dr. Jimmy Kenyon—for 151 student interns (on-site and virtually) last month. This summer, student interns from across the United States and U.S. territories will gain practical experience while working with scientists, engineers, and individuals from many other professions.&#160; [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-welcomes-summer-student-interns/>
+
+---
+
+##  Here&#8217;s how auto dealerships try to scam you when buying a car.... 
+
+date: 2024-07-09, updated: 2024-07-09, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044918-heres-how-auto-dealership>
+
+---
+
+## Celebrate the Heliophysics Big Year with Free Heliophysics and Math Webinars from NASA HEAT
+
+date: 2024-07-09, from: NASA breaking news
+
+The Heliophysics Big Year (HBY) is a global celebration of the Sun’s influence on Earth and the entire solar system. It began with the Annular Solar Eclipse on Oct. 14, 2023, continued through the Total Solar Eclipse on Apr. 8, 2024, and will conclude with Parker Solar Probe’s closest approach to the Sun in December […] 
+
+<https://science.nasa.gov/learning-resources/science-activation/celebrate-the-heliophysics-big-year-with-free-heliophysics-and-math-webinars-from-nasa-heat/>
+
+---
+
+## Spectral Energies developed a NASA SBIR/STTR-Funded Tech that Could Change the Way We Fly
+
+date: 2024-07-09, from: NASA breaking news
+
+Editor Note: Article written by Nicholas Mercurio With $20 million in commercial sales and $15 million in sales to government agencies, minority-owned small business Spectral Energies, based in Beavercreek, Ohio, has found a customer base for its pulse-burst laser systems. NASA has played a significant role in developing the technology through the Small Business Innovation [&#8230;] 
+
+<https://www.nasa.gov/general/spectral-energies/>
+
+---
+
+##  Project 2025 in a Nutshell 
+
+date: 2024-07-09, updated: 2024-07-09, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/project-2025-in-a-nutshell>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-09, from: Miguel de Icaza Mastondon feed)
+
+<p>This video shows:</p><p>- The new Xcode-inspired debugger pad - organizationally, I like it more<br />- Bits of Codea-inspired keyboard assistant<br />- The old text editor (shown here as a tool to assist the port)<br />- The new text editor<br />- The game running side-by-side on a separate iOS Scene (hopefully we can run in a dedicated monitor)<br />- the new iOS provided emulation controls that are mapped to regular controller input.</p><p>And as you can see, still a lot of polish needed before this can be shipped</p> 
+
+<https://mastodon.social/@Migueldeicaza/112757280658430619>
+
+---
+
+## On Sudan and the Interminable Catastrophe: A Conversation with Bedour Alagraa
+
+date: 2024-07-09, from: Logic Magazine
+
+
+                <p>Bedour Alagraa in conversation with J Khadijah Abdurahman about the history, present, and future of Sudan and its diaspora in the wake of the one year anniversary of the war.</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/on-sudan-and-the-interminable-catastrophe-an-interview-with-bedour-alagraa>
+
+---
+
+##  Biden is The Candidate. Gabrielle Blair on the practical facts of the... 
+
+date: 2024-07-09, updated: 2024-07-09, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044926-biden-is-the-candidate-ga>
+
+---
+
+##  Gladiator II 
+
+date: 2024-07-09, updated: 2024-07-09, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/gladiator-ii>
 
 ---
 
@@ -88,7 +309,7 @@ Christy Hansen&#8217;s journey with NASA spans more than two decades and is mark
 
 date: 2024-07-09, from: Dave Winer's Scripting News
 
-<p>The problem is elites grabbing the steering wheel with no clue about what comes next, and driving us off a cliff.</p>
+<p><i>The problem is elites grabbing the wheel with no clue about what comes next.</i></p>
 <p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/14/bidenActionFigure.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Every Tuesday I look for Jon Stewart's opening for the Daily Show on YouTube. It's always funny, great comedy, whether or not you agree with what he says, and I usually do agree. But not when it comes to him pushing President Biden out, without any idea of what comes next, and how the people, even some people who love his show, feel about having no voice. </p>
 <p>If the voters organize, using the tools we have now, and stay organized after the election, we could elect anyone to be president. There's never been a more clear opportunity to win a landslide. It depends on organization, and elites not grabbing the steering wheel with no clue about what comes next, and driving us off a cliff. </p>
 <p>I've been close to elites at times, and I can tell you, they aren't any smarter than you, they just have more power. I think that's been the real problem. We have failed to stay a democracy as we've gotten the tools to really be a democracy in ways we never could have before. And now we're at the last moment before it's all flushed away and the NYT et al (including our hero Stewart) are making it more certain, not less. </p>
@@ -208,6 +429,16 @@ Lathyrus latifolius</p>
 <p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a></p> 
 
 <https://alexschroeder.ch/view/2024-07-07-neuchatel>
+
+---
+
+## Introducing KV Backup for Deno Subhosting
+
+date: 2024-07-09, updated: 2024-07-09, from: Deno blog
+
+This new feature allows Subhosting users to configure their KV databases to back up data to their own S3-compatible object storage via APIs. 
+
+<https://deno.com/blog/subhosting-kv-backup>
 
 ---
 

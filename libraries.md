@@ -1,11 +1,21 @@
 ---
 title: libraries 2024.28
-updated: 2024-07-09 07:26:53
+updated: 2024-07-09 13:44:56
 ---
 
 # libraries 2024.28
 
-(date: 2024-07-09 07:26:53)
+(date: 2024-07-09 13:44:56)
+
+---
+
+## Short Fiction, by Tanizaki Jun’ichirō
+
+date: 2024-07-09, from: Standard Ebooks, new releaases
+
+A collection of short fiction by Tanizaki Jun’ichirō, ordered by date of original publication. 
+
+<https://standardebooks.org/ebooks/tanizaki-junichiro/short-fiction/iwado-z-tamotsu>
 
 ---
 
@@ -25,7 +35,7 @@ date: 2024-07-09, from: Scholarly Kitchen
 
 date: 2024-07-08, from: Association of Research Libraries News
 
-<p>Last Updated on July 8, 2024, 5:32 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 9 &#124; Wednesday, July 10 &#124; Thursday, July 11 Monday,...</p>
+<p>Last Updated on July 9, 2024, 2:49 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 9 &#124; Wednesday, July 10 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-8-11/">Day in Review (July 8-11)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
