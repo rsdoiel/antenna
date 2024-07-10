@@ -1,11 +1,84 @@
 ---
 title: writing 2024.28
-updated: 2024-07-09 13:44:55
+updated: 2024-07-10 08:06:36
 ---
 
 # writing 2024.28
 
-(date: 2024-07-09 13:44:55)
+(date: 2024-07-10 08:06:36)
+
+---
+
+## Why Are Romance Novels So Popular?
+
+date: 2024-07-10, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p>Romance novels are the &ldquo;<a href="https://freakonomics.com/podcast/romance-novels/" target="_blank">highest-grossing fiction genre in the world</a>,&rdquo; - a useful statistic to quote when faced with readers who still look at them with disdain. The&nbsp;genre has expanded a great deal in recent decades, going beyond the formulaic novel that flourished in the 1970s. Why is this genre so popular, and where is it heading?</p>
+
+Who reads romance novels?
+
+<p>Women read more books than men, and women read far more romance novels than men (<a href="https://www.rwa.org/the-romance-genre" target="_blank">82% in 2017</a>), whether they are chick lit, historical romance, or romantasy. The genre has gone far beyond the 1970s clich&eacute; of the bodice ripper and has spawned dozens of sub-genres.</p>
+
+<p>Romance novel sales started growing in the 1970s, when Harlequin, the leading publisher of the genre, started selling its books in locations other than bookstores. As <a href="https://freakonomics.com/podcast/romance-novels/" target="_blank">this episode of the Freakonomics podcast</a> explains, &ldquo;You could walk into a supermarket or drugstore, and find yourself face-to-face with an alpha-male in a ruffled shirt, his eyes glinting at you from the cover of a paperback.&rdquo; Easy to buy, easy to read, these early romance novels appealed to a captive audience, women shopping.</p>
+
+<p>Romance novel enthusiasts are voracious readers. &ldquo;Industry data shows that around half of all romance readers go through at least one novel every week. Some read as many as 30 a month.&rdquo; Romance novels represent 23% of book sales in the US, and <a href="https://www.npr.org/2023/06/02/1179850128/even-as-overall-book-sales-are-declining-romance-novels-are-on-the-rise" target="_blank">it is the genre that has been growing the most in recent years, as overall book sales are declining</a>.</p>
+
+The history of the romance novel
+
+<p>The modern romance novel was born in the 1930s in the UK, with books published by Mills &amp; Boon, and expanded in the 1970s in the US, with Harlequin, who purchased the British publisher in 1971. But romance novels have been around as long as the novel. Jane Austen and Charlotte Bront&euml; wrote the earliest popular romance novels, but the romance novel goes back to ancient Greece, and the first modern romance novel is generally considered to be Samuel Richardson&rsquo;s 1740 novel <a href="https://en.wikipedia.org/wiki/Pamela;_or,_Virtue_Rewarded" target="_blank">Pamela; or, Virtue Rewarded</a>.</p>
+
+<p>Many historical romance novels helped develop the genre, such as those by Walter Scott, in the 19th century, and by Georgette Heyer, in the early 20th century. <em>Gone with the Wind</em>, in 1936, while&nbsp;<a href="https://www.nypl.org/blog/2019/02/15/brief-history-romance-novel-recommendations" target="_blank">not technically classified as a romance novel</a>, has a strong influence on the way characters are portrayed. Today, historical romance is a huge part of the genre.</p>
+
+What drives people to read romance novels?
+
+<p>Love is one of the major elements of human life, and, as such, the &ldquo;plot&rdquo; of falling in love is universal. Books for women, mostly written by women, provide a mirror for their lives. As <a href="https://lithub.com/the-unexpectedly-subversive-world-of-romance-novels/" target="_blank">Helen Taylor, Professor of English at the University of Exeter says</a>, &ldquo;modern romance puts women at the center of the narrative.&rdquo; Readers can identify with the heroines of these novels, and share in the experiences of all women. &ldquo;Although a woman reads a romance alone, often in secret away from male family members and workmates, she joins a virtual communal realm of female readers who share experiences and thus understand one another&rsquo;s responses.&rdquo;</p>
+
+<p>Go back a few decades, and there was a stigma to reading romance novels. They were the feminine equivalent of male pulp fiction: the western, detective story, or science fiction yarn. Now, readers openly express their love for the genre, and the literary world is beginning to recognize the value and relevance of romance fiction, in part because of the huge popularity of this genre, which generates well over $1 billion in sales. This shift in perception has helped elevate the genre&rsquo;s status, and publishers are actively promoting romance novels, leading to more readers discovering them.</p>
+
+How romance novels have changed
+
+<p>As the popularity of romance novels grew, their characters changed from being stereotypical rich or noble men and submissive women, to become stories about real people that readers can identify with. One notable turning point was Helen Fielding&rsquo;s <em><a href="https://en.wikipedia.org/wiki/Bridget_Jones%27s_Diary_(novel)" target="_blank">Bridget Jones&rsquo;s Diary</a></em>, which spawned the &ldquo;chick lit&rdquo; sub-genre by presenting a flawed character with the same problems as the women reading the novel.</p>
+
+<p>Contemporary romance novels - even those set in historical periods - feature more strong, independent heroines who defy societal norms and pursue their desires. These empowering narratives resonate with modern readers. The romance genre has also become more inclusive, including characters from diverse backgrounds, ethnicities, and sexual orientations, which allows more readers to identify with the characters.</p>
+
+<p>The genre itself has split into multiple sub-genres. While &ldquo;category romance novels&rdquo; - a term for the standard Harlequin or Mills &amp; Boon type novel - still make up the largest share of sales, many sub-genres have grown in popularity: fantasy, gothic, contemporary, historical fiction, paranormal fiction, and science fiction are all genres that get blended with romance plots. One popular genre today is <a href="https://www.theguardian.com/books/2024/feb/02/romantasy-literary-genre-booktok" target="_blank">romantasy, a genre the Guardian calls &ldquo;A genre of swords and soulmates&rdquo;</a>, which blends both romance and fantasy. While not new - the Diana Gabaldon&rsquo;s <em>Outlander</em> series did this more than 30 years ago - the popularity of this genre has been driven by TikTok and other social media,</p>
+
+<p>Finally, the popularity of erotic romance novels is increasing. While there have long been novels of this type, the sub-genre went mainstream with the <em>Fifty Shades</em> series, and the major romance novel publishers have imprints that publish erotic fiction.</p>
+
+<p>The romance novel has evolved as other pulp genres have, and it meets the desires of a large number of readers. Economically, the value of this genre is undeniable. It is more vibrant than ever and will continue to break new ground as writers expand its relevancy to modern women.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+ 
+
+<https://www.literatureandlatte.com/blog/why-are-romance-novels-so-popular>
+
+---
+
+## How Longlegs’ Terrifying Marketing Teaches You to Craft a Great Villain
+
+date: 2024-07-09, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/longlegs-terrifying-marketing-teaches-you-to-craft-a-great-villain" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Longlegs%202.jpg" alt="‘Longlegs’ Terrifying Marketing Teaches You to Craft a Great Villain" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>Creating a killer is no easy task. Sure, </span><a href="https://blog.finaldraft.com/writing-three-dimensional-villains"><span>writing villains</span></a><span> can be fun as you dive into what makes them tick and what justifies their crimes against humanity. But making a villain terrifying is another story.</span></p> 
+
+<https://blog.finaldraft.com/longlegs-terrifying-marketing-teaches-you-to-craft-a-great-villain>
 
 ---
 
@@ -144,8 +217,8 @@ date: 2024-07-08, from: Locus Magazine
 
 date: 2024-07-07, from: Locus Magazine
 
-<p><strong>Pulsifer: a Fable</strong>, Wm. Michael Mott (Splatterlight Press 978-1619474918, trade paperback, 306pp, $16.95) Jan 2024</p>
-<p><strong>Land of Ice, a Velvet Knife</strong>, Wm. Michael Mott (Splatterlight Press 978-1619474932, trade paperback, 306pp, $16.95) Feb 2024</p>
+<p><strong>Pulsifer: a Fable</strong>, Wm. Michael Mott (Spatterlight Press 978-1619474918, trade paperback, 306pp, $16.95) Jan 2024</p>
+<p><strong>Land of Ice, a Velvet Knife</strong>, Wm. Michael Mott (Spatterlight Press 978-1619474932, trade paperback, 306pp, $16.95) Feb 2024</p>
 <p>It is very seldom—perhaps almost never—that one opens up one’s copy of the Sunday New York Times and discovers that the lead article in the Magazine section is devoted to a still-living author whose roots  <a href="https://locusmag.com/2024/07/paul-di-filippo-reviews-two-vancian-novels-by-wm-michael-mott/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/07/paul-di-filippo-reviews-two-vancian-novels-by-wm-michael-mott/>

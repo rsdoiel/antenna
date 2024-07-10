@@ -1,11 +1,81 @@
 ---
 title: motorcycles 2024.28
-updated: 2024-07-09 13:44:57
+updated: 2024-07-10 08:06:38
 ---
 
 # motorcycles 2024.28
 
-(date: 2024-07-09 13:44:57)
+(date: 2024-07-10 08:06:38)
+
+---
+
+## Here's Can-Am's New EV ATV Way Before You're Supposed to See It
+
+date: 2024-07-10, from: Ride Apart, Electric Motorcycle News
+
+If these patent designs are anything to go by, this thing is going to be a beast. 
+
+<https://www.rideapart.com/news/725998/can-am-ev-atv-patent/>
+
+---
+
+## Ryvid's EV Motorcycles Can Get a Big Power Boost, But Some Assembly Required
+
+date: 2024-07-10, from: Ride Apart, Electric Motorcycle News
+
+Do you enjoy wiring in your free time?  
+
+<https://www.rideapart.com/news/726004/ryvid-anthem-outset-ev-motorcycles-power-boost-asi/>
+
+---
+
+## Italjet Shares Details On The Dragster 700 Twin, Says It's Not A Scooter
+
+date: 2024-07-10, from: Ride Apart, Electric Motorcycle News
+
+With a chain final drive, a manually-operated clutch, and a six-speed manual gearbox, it's a motorbike of a different stripe. 
+
+<https://www.rideapart.com/news/726003/italjet-dragster-700-twin-details/>
+
+---
+
+## Michigan’s “Smart Highway” Could Pave The Way For The Rest Of The US
+
+date: 2024-07-10, from: Ride Apart, Electric Motorcycle News
+
+Sensors, cameras, and a bunch of other gadgets aim to inform motorists of what lies ahead.  
+
+<https://www.rideapart.com/news/725753/michigan-interstate94-smart-highway/>
+
+---
+
+## Aprilia’s RS 457 Trophy Just Might Breed The Next Generation Of Motorcycle Racers
+
+date: 2024-07-10, from: Ride Apart, Electric Motorcycle News
+
+The racing action will kick off in 2025, but there are two debut races scheduled for September and October this year.  
+
+<https://www.rideapart.com/news/725922/aprilia-rs457-trophy-racing-series/>
+
+---
+
+## Jared Mees Triumphs at DuQuoin Mile, Scoring Third Win of the Season
+
+date: 2024-07-09, from: Cycle World News
+
+Mees currently sits second overall in championship standings at 197 Points with six rounds remaning. 
+
+<https://www.cycleworld.com/the-wire/jared-mees-triumphs-at-duquoin-mile-scoring-third-win-of-season/>
+
+---
+
+## Bagnaia Takes the MotoGP Championship Lead at Sachsenring
+
+date: 2024-07-09, from: Cycle World News
+
+Jorge Martín started the weekend at Sachsenring with a pole and sprint win, but on Sunday he crashed out giving the win and point lead to Pecco Bagnaia. 
+
+<https://www.cycleworld.com/motorcycle-racing/sachsenring-motogp-race-report-2024/>
 
 ---
 

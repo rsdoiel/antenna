@@ -1,11 +1,41 @@
 ---
 title: health 2024.28
-updated: 2024-07-09 13:44:58
+updated: 2024-07-10 08:06:39
 ---
 
 # health 2024.28
 
-(date: 2024-07-09 13:44:58)
+(date: 2024-07-10 08:06:39)
+
+---
+
+## Clinical course and prognostic factors of Pneumocystis pneumonia with respiratory failure in non-HIV patients
+
+date: 2024-07-10, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundCompared with Human Immunodeficiency Virus (HIV) patients, non-HIV patients with Pneumocystis pneumonia (PCP) have more rapid onset, more rapid progression, and higher mortality.ObjectivesTo investigate the predictive value of variables obtained upon hospital admission for in-hospital death and 90-day outcomes in non-HIV-PCP patients with respiratory failure (RF).MethodsThis was a single center retrospective study in a tertiary care institution over 15 years. It included all adults inpatients (≥18 years old) with laboratory confirmed non-HIV-PCP with RF who were discharged or died from Peking University First Hospital between April 1st, 2007 and November 1st, 2022. Epidemiological, clinical, laboratory, imaging and outcome data were collected from patient records.ResultsIn this study, a total of 146 non-HIV-PCP patients with RF were included. There were 57 patients (39%) died during hospitalization, 44 patients (53%) died in Intensive care unit (ICU). A total of 137 patients completed 90 days of follow-up, of which 58 (42.3%) died. The multivariable regression analysis revealed that a CD8+ T cell count <115/μl (P=0.009), bronchoalveolar lavage fluid (BALF)-neutrophil percentage ≥50% (P=0.047), the time from corticosteroids withdrawal to symptom onset ≤5 days (P=0.012), and the time from visit to initiation of sulfonamides ≥2 days (P=0.011) were independent risk factors for in-hospital death. Furthermore, a CD8+ T cell count < 115/μl (P=0.001) and the time from visit to initiation of sulfonamides therapy ≥2 days (P=0.033) was independently associated with 90-day all-cause death.ConclusionsA low CD8+ T cell count in peripheral blood, a high percentage of BALF-neutrophils, a short time from corticosteroids withdrawal to symptom onset, and a long time from visit to initiation of sulfonamides are associated with poor prognosis in non-HIV-PCP patients with RF. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1380494>
+
+---
+
+## The role of gut microbiota and blood metabolites in postpartum depression: a Mendelian randomization analysis
+
+date: 2024-07-10, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundPostpartum depression (PPD) is a common complication of pregnancy that imposes a heavy health and economic burden on individuals, families and society. The etiology of PPD is complex and incompletely defined, and recent studies have identified an important role for gut microbiota (GM) and their metabolites in neurological disorders. However, fewer studies on GM and PPD are available and have not yielded uniform results.MethodsInstrumental variables for GM and blood metabolites were obtained from the MiBioGen consortium and metabolomics GWAS server. Single nucleotide polymorphisms (SNPs) associated with PPD phenotypes were obtained from the FinnGen consortium. Inverse variance weighted (IVW), weighted median, weighted mode, and MR-Egger methods were used to assess causal effects. Inverse MR analysis and sensitivity analysis were also utilized to improve the stability of the results.ResultsIn this study, 5 intestinal species and 24 blood metabolites causally associated with PPD were identified using MR analysis. In addition, MR analysis showed that Prevotellaceae and Bifidobacteria may reduce the risk of PPD by elevating Xanthine and 1-arachidonoylglycerophosphoinositol (LysoPI) levels.ConclusionsThis study identified GM and blood metabolites causally associated with PPD. The results of this study may provide a theoretical basis for the discovery of PPD-related biomarkers and the treatment of the disease by regulating the gut microenvironment. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1416298>
+
+---
+
+## Mapping knowledge landscapes and research frontiers of gastrointestinal microbiota and bone metabolism: a text-mining study
+
+date: 2024-07-10, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionExtensive research efforts have been dedicated to elucidating the intricate pathways by which gastrointestinal microbiota and their metabolites exert influence on the processes of bone formation. Nonetheless, a notable gap exists in the literature concerning a bibliometric analysis of research trends at the nexus of gastrointestinal microbiota and bone metabolism.MethodsTo address this scholarly void, the present study employs a suite of bibliometric tools including online platforms, CiteSpace and VOSviewer to scrutinize the pertinent literature in the realm of gastrointestinal microbiota and bone metabolism.Results and discussionExamination of the temporal distribution of publications spanning from 2000 to 2023 reveals a discernible upward trajectory in research output, characterized by an average annual growth rate of 19.2%. Notably, China and the United States emerge as primary contributors. Predominant among contributing institutions are Emory University, Harvard University, and the University of California. Pacifici R from Emory University contributed the most research with 15 publications. In the realm of academic journals, Nutrients emerges as the foremost publisher, followed closely by Frontiers in Microbiology and PLOS One. And PLOS One attains the highest average citations of 32.48. Analysis of highly cited papers underscores a burgeoning interest in the therapeutic potential of probiotics or probiotic blends in modulating bone metabolism by augmenting host immune responses. Notably, significant research attention has coalesced around the therapeutic interventions of probiotics, particularly Lactobacillus reuteri, in osteoporosis, as well as the role of gastrointestinal microbiota in the etiology and progression of osteoarthritis. Keyword analysis reveals prevalent terms including gut microbiota, osteoporosis, bone density, probiotics, inflammation, SCFAs, metabolism, osteoarthritis, calcium absorption, obesity, double-blind, prebiotics, mechanisms, postmenopausal women, supplementation, risk factors, oxidative stress, and immune system. Future research endeavors warrant a nuanced exploration of topics such as inflammation, obesity, SCFAs, postmenopausal osteoporosis, skeletal muscle, oxidative stress, double-blind trials, and pathogenic mechanisms. In summary, this study presents a comprehensive bibliometric analysis of global research on the interplay between gastrointestinal microbiota and bone metabolism, offering valuable insights for scholars, particularly nascent researchers, embarking on analogous investigations within this domain. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1407180>
 
 ---
 

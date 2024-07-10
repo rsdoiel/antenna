@@ -1,11 +1,111 @@
 ---
 title: games 2024.28
-updated: 2024-07-09 13:44:56
+updated: 2024-07-10 08:06:36
 ---
 
 # games 2024.28
 
-(date: 2024-07-09 13:44:56)
+(date: 2024-07-10 08:06:36)
+
+---
+
+## Palworld team strikes deal with Sony that could lead to an anime
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24195617/palworld-sony-music-anime-licensing-deal>
+
+---
+
+## Sandman season 2 cast expands with Norse gods, Greek heroes, and a talking dog
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24195100/sandman-season-2-cast-release-date-netflix>
+
+---
+
+## How to get free Solar Fusion Energy and Lunar Fusion Energy with codes in Pokémon Go
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24195548/solar-fusion-energy-lunar-fusion-how-to-get>
+
+---
+
+## What the hell is Nintendo teasing with this creepy smiling man video?
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24195619/nintendo-emio-trailer-smiling-man-what>
+
+---
+
+## Why won’t Niantic put Cowboy Hat Caterpie in Pokémon Go?
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go/24184969/pokemon-go-cowboy-hat-caterpie>
+
+---
+
+## Severance finally returns to the office with a release date and a new trailer
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24195201/severance-season-2-trailer-announcement-release-date-first-look>
+
+---
+
+## Microsoft to increase Game Pass prices and drop day-one games from standard tier
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/xbox/24195533/game-pass-price-increase-console-standard-ultimate-2024>
+
+---
+
+## The Acolyte is hinging its whole story on vergences, of all things
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/star-wars/24195436/acolyte-vergences-star-wars-m-count-midi-chlorians>
+
+---
+
+## Who are Star Wars’ Nightsisters?
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/star-wars/23840577/star-wars-acolyte-nightsisters-witches-of-dathomir-clone-wars>
+
+---
+
+## The Acolyte enters the song of the summer race with the help of Victoria Monét
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/star-wars/24195433/star-wars-acolyte-victoria-monet-song-end-credits-episode-7>
 
 ---
 

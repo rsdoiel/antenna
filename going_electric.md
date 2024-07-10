@@ -1,11 +1,193 @@
 ---
 title: going electric 2024.28
-updated: 2024-07-09 13:44:58
+updated: 2024-07-10 08:06:39
 ---
 
 # going electric 2024.28
 
-(date: 2024-07-09 13:44:58)
+(date: 2024-07-10 08:06:39)
+
+---
+
+## Tesla starts pushing new Supervised Full Self-Driving update
+
+date: 2024-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has started to finally push a new Supervised Full Self-Driving (FSD) software update after a few months of delays.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="371010" href="https://electrek.co/2024/07/10/tesla-v12-4-pushing-new-supervised-full-self-driving-update/#more-371010" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/10/tesla-v12-4-pushing-new-supervised-full-self-driving-update/>
+
+---
+
+## Audi Is Becoming 'Volkswagen's Biggest Problem'
+
+date: 2024-07-10, from: Inside EVs News
+
+Audi Q8 e-tron production may end early as the luxury brand considers closing a factory. Plus, Toyota joins America's charging mafia.  
+
+<https://insideevs.com/news/726099/audi-volkswagen-sales-cm/>
+
+---
+
+## Ford unveils new Capri EV with nearly 400 miles range and sports car performance
+
+date: 2024-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Ford-Capri-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The newest all-electric <a href="https://electrek.co/guides/ford/">Ford</a> is finally here. Ford introduced its Capri EV on Wednesday, a revival of a legend. The new all-electric Ford Capri features up to 390 miles (627 km) WLTP driving range and sports car-like performance.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="371007" href="https://electrek.co/2024/07/10/ford-unveils-new-capri-ev-400-mi-range-sports-car-speed/#more-371007" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/10/ford-unveils-new-capri-ev-400-mi-range-sports-car-speed/>
+
+---
+
+## U.S. Hydrogen Car Sales Are Collapsing
+
+date: 2024-07-10, from: Inside EVs News
+
+They were already a tiny fraction of the market. Then, last quarter, sales dropped 91%. 
+
+<https://insideevs.com/news/725999/us-hydrogen-car-sales-2024q2/>
+
+---
+
+## Here's Can-Am's New EV ATV Way Before You're Supposed to See It
+
+date: 2024-07-10, from: Ride Apart, Electric Motorcycle News
+
+If these patent designs are anything to go by, this thing is going to be a beast. 
+
+<https://www.rideapart.com/news/725998/can-am-ev-atv-patent/>
+
+---
+
+## Ryvid's EV Motorcycles Can Get a Big Power Boost, But Some Assembly Required
+
+date: 2024-07-10, from: Ride Apart, Electric Motorcycle News
+
+Do you enjoy wiring in your free time?  
+
+<https://www.rideapart.com/news/726004/ryvid-anthem-outset-ev-motorcycles-power-boost-asi/>
+
+---
+
+## The Ford Capri Returns As A Tall Electric Hatchback
+
+date: 2024-07-10, from: Inside EVs News
+
+It has no connection to the classic fastback coupe, and it’s secretly a Volkswagen underneath. But Ford's latest EV is something interesting. 
+
+<https://insideevs.com/news/726089/ford-capri-returns-electric/>
+
+---
+
+## Italjet Shares Details On The Dragster 700 Twin, Says It's Not A Scooter
+
+date: 2024-07-10, from: Ride Apart, Electric Motorcycle News
+
+With a chain final drive, a manually-operated clutch, and a six-speed manual gearbox, it's a motorbike of a different stripe. 
+
+<https://www.rideapart.com/news/726003/italjet-dragster-700-twin-details/>
+
+---
+
+## Michigan’s “Smart Highway” Could Pave The Way For The Rest Of The US
+
+date: 2024-07-10, from: Ride Apart, Electric Motorcycle News
+
+Sensors, cameras, and a bunch of other gadgets aim to inform motorists of what lies ahead.  
+
+<https://www.rideapart.com/news/725753/michigan-interstate94-smart-highway/>
+
+---
+
+## Michigan gets right-to-solar – now you can tell your HOA to stuff it
+
+date: 2024-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/photo-1660330589243-4c640d878052.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Michigan Governor Gretchen Whitmer has signed a new law ensuring Michigan homeowners can install a variety of energy efficiency improvements on their homes, including EV chargers, solar panels, heat pumps and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="michigan,right-to-charge,solar-power" data-layer-viewtype="unknown" data-post-id="370999" href="https://electrek.co/2024/07/10/michigan-gets-right-to-solar-now-you-can-tell-your-hoa-to-stuff-it/#more-370999" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/10/michigan-gets-right-to-solar-now-you-can-tell-your-hoa-to-stuff-it/>
+
+---
+
+## Aprilia’s RS 457 Trophy Just Might Breed The Next Generation Of Motorcycle Racers
+
+date: 2024-07-10, from: Ride Apart, Electric Motorcycle News
+
+The racing action will kick off in 2025, but there are two debut races scheduled for September and October this year.  
+
+<https://www.rideapart.com/news/725922/aprilia-rs457-trophy-racing-series/>
+
+---
+
+## Carvana’s new tool makes it easier than ever to buy a used EV with a federal tax credit up front
+
+date: 2024-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Carvana-Used-EV-credit.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Online vehicle marketplace Carvana has launched an exciting new feature that makes buying a used EV or PHEV easier than ever. US customers can now take advantage of up to $4,000 in savings at the point of sale through the federal government’s Clean Vehicle Tax Credit. <a href="https://electrek.co/guides/carvana/">Carvana</a> has successfully streamlined this process, making affordable EVs priced as low as $12,000 much easier to obtain. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="carvana,ev-tax-credit,used-ev-tax-credit,used-evs" data-layer-viewtype="unknown" data-post-id="370928" href="https://electrek.co/2024/07/10/carvana-new-tool-easier-than-ever-buy-a-used-ev-federal-tax-credit/#more-370928" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/10/carvana-new-tool-easier-than-ever-buy-a-used-ev-federal-tax-credit/>
+
+---
+
+## The car-free US town that just passed speed limits on electric bikes
+
+date: 2024-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/bike-lane-header-AI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Michigan’s Mackinac Island has introduced a new speed limit for electric bicycles, slowing down one of the only motorized forms of transportation in the town.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="370995" href="https://electrek.co/2024/07/10/the-car-free-us-town-that-just-passed-speed-limits-on-electric-bikes/#more-370995" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/10/the-car-free-us-town-that-just-passed-speed-limits-on-electric-bikes/>
+
+---
+
+## A one-of-a-kind secret Tesla Roadster R&D prototype is for sale
+
+date: 2024-07-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Untitled.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>You’ve perhaps heard of the original Tesla Roadster, the car that started Tesla and the EV revolution. Now, a Roadster you probably <em>haven’t</em> heard of is for sale – a one-of-a-kind prototype for a performance package that never saw the light of day.</p>
+
+
+
+<p><em><strong>Update: </strong></em>The car has now been <a href="https://carsandbids.com/auctions/3vqaP6gR/2011-tesla-roadster?c=all">listed for auction on Cars &amp; Bids</a>. The auction ends July 15th at 10:30AM PDT.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-roadster" data-layer-viewtype="unknown" data-post-id="361887" href="https://electrek.co/2024/07/09/a-one-of-a-kind-secret-tesla-roadster-rd-prototype-is-for-sale/#more-361887" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/09/a-one-of-a-kind-secret-tesla-roadster-rd-prototype-is-for-sale/>
+
+---
+
+## Ford’s incentives cut in half for Michigan EV battery plant, matching plans to scale back
+
+date: 2024-07-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/Ford-lightning-sales-record.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford will receive drastically less public support for its new EV battery plant in Michigan. <a href="https://electrek.co/guides/ford/">Ford’s</a> incentives for the plant were cut by over half, matching the automaker’s recent plans to scale back.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="370972" href="https://electrek.co/2024/07/09/fords-incentives-cut-half-michigan-ev-plant/#more-370972" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/09/fords-incentives-cut-half-michigan-ev-plant/>
 
 ---
 

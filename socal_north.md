@@ -1,11 +1,87 @@
 ---
 title: socal north 2024.28
-updated: 2024-07-09 13:44:52
+updated: 2024-07-10 08:06:31
 ---
 
 # socal north 2024.28
 
-(date: 2024-07-09 13:44:52)
+(date: 2024-07-10 08:06:31)
+
+---
+
+## Campus protests over Israel often target endowments. Community college students find other ways to make noise
+
+date: 2024-07-10, updated: 2024-07-10, from: The LAist
+
+While universities nationwide have made headlines this year for student protests of Israel’s war in Gaza, local community college students haven’t seen the same attention. 
+
+<https://laist.com/news/education/community-colleges-campus-protests-israel-gaza-endowments>
+
+---
+
+## Rising Artists: Fresh faces make their voices heard with summery anthems, intimate folk pop
+
+date: 2024-07-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Summer is the perfect time to try new things, including making fresh additions to repetitive playlists.
+In every genre imaginable, a host of new musicians and rising performers are offering dynamic tracks worth listening to. 
+
+<https://dailybruin.com/2024/07/09/rising-artists-fresh-faces-make-their-voices-heard-with-summery-anthems-intimate-folk-pop/>
+
+---
+
+## Board of Trustees extends and amends President Folt’s contract
+
+date: 2024-07-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Board finalized the decision before the end of President Carol Folt's first term, a University spokesperson confirmed to the Daily Trojan on Tuesday afternoon. The spokesperson declined to provide further details about the length of the extension or the nature of the amendments to Folt's contract.</p>
+<p>The post <a href="https://dailytrojan.com/2024/07/09/board-of-trustees-extends-and-amends-president-folts-contract/">Board of Trustees extends and amends President Folt&#8217;s contract</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/07/09/board-of-trustees-extends-and-amends-president-folts-contract/>
+
+---
+
+## Spectacular 4th Annual Hueneme Beach “Show and Shine Car Show” Fundraiser Spotlights Cars and Community to Support Local Police Explorers Program
+
+date: 2024-07-09, from: Port Hueneme
+
+<p>Download Press Release Contact: Letitia Austin Public and Gov’t Relations Manager Laustin@Portofh.org &#160; [Port Hueneme, CA – July 9, 2024] — The 4th annual Hueneme Beach “Show and Shine Car&#8230;</p>
+<p>The post <a href="https://www.portofhueneme.org/spectacular-4th-annual-hueneme-beach-show-and-shine-car-show-fundraiser-spotlights-cars-and-community-to-support-local-police-explorers-program/">Spectacular 4th Annual Hueneme Beach “Show and Shine Car Show” Fundraiser Spotlights Cars and Community to Support Local Police Explorers Program</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
+ 
+
+<https://www.portofhueneme.org/spectacular-4th-annual-hueneme-beach-show-and-shine-car-show-fundraiser-spotlights-cars-and-community-to-support-local-police-explorers-program/>
+
+---
+
+## Big LA county reforms, including Board of Supervisors expansion, clear first hurdle
+
+date: 2024-07-09, updated: 2024-07-09, from: The LAist
+
+County supervisors move to expand powerful board and enact other reforms. 
+
+<https://laist.com/news/politics/la-county-supervisors-expansion>
+
+---
+
+## UCLA’s expansions across Los Angeles present opportunities for research, community
+
+date: 2024-07-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA has acquired three properties in the past two years, enabling various opportunities for the university throughout Los Angeles.
+These three properties include the former Marymount California University campus in Rancho Palos Verdes, Trust Building in downtown Los Angeles and Westside Pavilion mall in West LA. 
+
+<https://dailybruin.com/2024/07/09/uclas-expansions-across-los-angeles-present-opportunities-for-research-community/>
+
+---
+
+## LA considers boosting dog household limit to combat shelter overcrowding
+
+date: 2024-07-09, updated: 2024-07-09, from: The LAist
+
+The goal is to encourage more adoption and fostering, but the proposal needs to make it through the L.A. City Council and mayor’s office first. 
+
+<https://laist.com/news/politics/la-considers-boosting-dog-household-limit-to-combat-shelter-overcrowding>
 
 ---
 

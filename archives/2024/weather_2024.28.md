@@ -1,19 +1,19 @@
 ---
 title: weather 2024.28
-updated: 2024-07-09 13:44:55
+updated: 2024-07-10 08:06:35
 ---
 
 # weather 2024.28
 
-(date: 2024-07-09 13:44:55)
+(date: 2024-07-10 08:06:35)
 
 ---
 
 ## There are no tropical cyclones at this time.
 
-date: 2024-07-09, from: Eastern Pacific Basin GIS Data
+date: 2024-07-10, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Tue, 09 Jul 2024 20:43:06 GMT 
+No tropical cyclones as of Wed, 10 Jul 2024 15:03:37 GMT 
 
 <https://www.nhc.noaa.gov/gis/>
 
@@ -21,7 +21,7 @@ No tropical cyclones as of Tue, 09 Jul 2024 20:43:06 GMT
 
 ## NHC Atlantic Outlook
 
-date: 2024-07-09, from: Graphical Tropical Weather Outlooks
+date: 2024-07-10, from: Graphical Tropical Weather Outlooks
 
 
 <br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
@@ -30,10 +30,251 @@ date: 2024-07-09, from: Graphical Tropical Weather Outlooks
 <img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
 <br /><br />
 <div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Tue Jul 9 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems: <br>The Weather Prediction Center is issuing advisories on <br>Post-Tropical Cyclone Beryl, located inland over southeastern <br>Missouri.<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Hagen/Berg<br>NNNN<br><br></div></div><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Wed Jul 10 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems: <br>The Weather Prediction Center is issuing advisories on Post-Tropical <br>Cyclone Beryl, located inland near the Indiana/Ohio border. <br><br>1. Off the Southeastern U.S. Coast:<br>A broad trough of low pressure located off the southeastern U.S. <br>coast is currently producing some disorganized showers and <br>thunderstorms. Environmental conditions appear only marginally <br>favorable for some additional development of this system over the <br>next couple of days before it moves inland over the southeastern <br>U.S. by this weekend.<br>* Formation chance through 48 hours...low...10 percent. <br>* Formation chance through 7 days...low...10 percent.<br><br />
+<br>Forecaster Papin/Hagen<br></div></div><br />
  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## SPC - No watches are valid as of Wed Jul 10 13:54:02 UTC 2024
+
+date: 2024-07-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Wed Jul 10 13:54:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Wed Jul 10 13:54:02 UTC 2024
+
+date: 2024-07-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Wed Jul 10 13:54:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Jul 10, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-07-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0800 AM CDT Wed Jul 10 2024
+
+Valid 101300Z - 111200Z
+
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS OVER PORTIONS
+OF WESTERN AND CENTRAL NEW YORK...
+
+...SUMMARY...
+Tornadoes and damaging winds are possible over parts of
+western/central New York.
+
+...Synopsis...
+In mid/upper levels, the pattern will continue to be characterized
+by mean troughing over the Great Lakes and ridging in the west.  An
+anchoring anticyclone -- centered near LAS -- should remain
+quasistationary over the Great Basin, lower Colorado River Valley,
+Southeastern CA and much of AZ.  In the Great Lakes regime, a
+leading/strong shortwave trough is apparent in moisture-channel
+imagery from Lake Michigan to the Mid-South, containing an
+intermittently closed 700-500-mb circulation on the north end, over
+Lake Michigan.
+
+Associated cyclonic flow includes the increasingly diffuse midlevel
+remains of Beryl, with a warm axis aloft still apparent in 700-
+500-mb charts east/southeast of the shortwave perturbation's thermal
+trough.  This complex feature is forecast to eject northeastward by
+00Z to the neck of ON, Lake Huron, southeastern Lower MI, and the
+MIE area.  Overnight, the trough should lose amplitude while
+reaching southwestern QC and the Lower Great Lakes.  Upstream, a
+fairly prominent, compact, shortwave trough and PV anomaly were
+located over MN and eastern SD.  This feature should pivot
+southeastward to IA by 00Z, then parts of northwestern IL and
+northeastern MO by 12Z tomorrow.
+
+At the surface, 11Z analysis showed a low over northwestern OH, with
+cold front across eastern parts of KY/TN, to southern AL, becoming
+quasistationary near the LA coastline.  A slow-moving warm front was
+drawn from the low across the western NY/PA line to near ALB, then
+over central New England.  By 00Z, the cold front should extend from
+an occlusion triple point over (or just south of) Lake Ontario,
+across west-central NY, central parts of PA/VA/NC, to southern GA,
+becoming quasistationary and frontolytic over southern parts of
+AL/MS/LA.  The warm front should move slowly northward over western,
+central and northern NY today, decelerating/stalling across the
+higher terrain from the Adirondacks eastward across VT/NH/western
+ME.  The cold front also should decelerate as it shifts eastward
+over the Atlantic Seaboard, extending by 12Z from a triple point
+over northern parts of VT or NH across western New England, the
+Mid-Atlantic Coast, and near-coastal NC, to a deepening low offshore
+from MYR.  A prefrontal trough should shift eastward today over
+parts of NY/PA, while a post-frontal trough (with some mass-response
+reinforcement by the northwest-flow shortwave trough) should move
+southward over parts of IA, NE and northern IL.
+
+...Northeastern CONUS...
+Scattered thunderstorms are expected to develop along/ahead of the
+cold front , especially near the prefrontal trough (with that
+activity ultimately evolving upscale into a line.  All severe
+hazards will be possible from relatively discrete convection
+(including potential for several supercells) from the early-stage,
+pre-linear regime, and perhaps even in the warm sector to its east. 
+Tornado potential should be relatively maximized near the warm
+front, where backed near-surface winds will contribute to enlarged
+low-level hodographs and enhanced storm-relative flow in the
+boundary layer.  The corridor of greatest tornado probabilities is
+narrow, and may need to be shifted around today as mesoscale trends
+suggest (especially with regard to warm-frontal position).  However,
+at least marginally favorable low-level shear for embedded
+supercellular or QLCS mesovortex tornado potential is possible as
+far south as the western/upper Chesapeake Bay region.
+
+Ample low-level moisture is in place, and will continue over the
+area, with surface dewpoints commonly in the upper 60s to low 70s
+along and south of the warm front.  This will contribute to low LCL
+and, in concert with diurnal heating that satellite imagery suggests
+should be common, will yield peak/preconvective MLCAPE in the
+1500-2000 J/kg range ahead of the main convective band.  Activity
+should weaken in and near eastern parts of the "slight" to
+"marginal" probabilities this evening as it encounters a more-stable
+boundary layer.
+
+...NM and west TX...
+Isolated to scattered thunderstorms should develop this afternoon --
+preferentially over higher elevations as diurnal heating removes
+MLCINH.  Activity then should move generally southward over deeper,
+straggly heated/mixed, yet favorably moist boundary layers to
+sustain convective potential, and also, to support isolated severe
+gusts from the most vigorous downdrafts.  Forecast soundings show
+mixed/subcloud layers extending well above 700 mb, yet still beneath
+300-800 J/kg MLCAPE.  Although strong veering with height is
+expected over much of this area, very weak low/middle-level wind
+speeds and lack of appreciable vertical shear will limit convective
+organization and coverage of the severe threat overall.
+
+...IA and vicinity...
+Widely scattered to scattered thunderstorms are expected to develop
+this afternoon, with isolated severe hail and a few damaging to
+severe gusts possible.  Activity should form in a weak-MLCINH
+airmass near the surface trough, destabilizing through the
+lower/middle troposphere via a combination of diurnal surface
+heating, low-level warm/theta-e advection, and DCVA-forced cooling
+aloft that precedes the shortwave trough.  These factors, with
+surface dewpoints generally remaining in the upper 50s to mid 60s F
+through the boundary-layer heating/mixing cycle, should support a
+meso-alpha scale patch of 1000-2000 J/kg MLCAPE, atop a well-mixed
+subcloud layer.  With weak low/middle-level winds and shear, the
+main mode should be multicellular, with isolated pulse severe,
+before evening boundary-layer cooling reduces instability and
+convective coverage/intensity.
+
+..Edwards/Bentley.. 07/10/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## Central North Pacific Tropical Weather Outlook
+
+date: 2024-07-10, from: Central Pacific Basin Tropical Cyclones
+
+
+<br/>
+673 <br/>
+ACPN50 PHFO 101135<br/>
+TWOCP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS Central Pacific Hurricane Center Honolulu HI<br/>
+200 AM HST Wed Jul 10 2024<br/>
+<br/>
+For the central North Pacific...between 140W and 180W:<br/>
+<br/>
+No tropical cyclones are expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Kino<br/>
+<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2024-07-10, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ABPZ20 KNHC 101128<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+500 AM PDT Wed Jul 10 2024<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Tropical cyclone formation is not expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Hagen/Papin<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2024-07-10, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0211 AM CDT Wed Jul 10 2024
+
+Valid 111200Z - 121200Z
+
+...NO CRITICAL AREAS...
+
+...Synopsis...
+An approaching West Coast trough will increase westerly gradients
+across portions of Idaho on Thursday. Across the Snake River Valley,
+relative-humidity reductions around 10-15 percent will overlap
+sustained winds 10-20 mph. Critical winds look to remain too
+localized for Critical highlights at this time. As such, an Elevated
+delineation was maintained to cover this threat.
+
+Precipitable water will increase across southern/central Arizona on
+Thursday with an increase in thunderstorm coverage. Along the edge
+of this moisture, across central/northern Arizona, a few high-based
+dry thunderstorms will be possible, with new ignitions from lighting
+starts. Slow storm motions should help keep this threat too
+localized for highlights.
+
+..Thornton.. 07/10/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -328,78 +569,6 @@ evening.
 
 ---
 
-## Central Pacific Tropical Weather Outlook
-
-date: 2024-07-09, from: Central Pacific Tropical Weather Outlook
-
- <br />
- 087 <br />
- ACPN50 PHFO 091744<br />
- TWOCP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS Central Pacific Hurricane Center Honolulu HI<br />
- 800 AM HST Tue Jul 9 2024<br />
- <br />
- For the central North Pacific...between 140W and 180W:<br />
- <br />
- No tropical cyclones are expected during the next 7 days.<br />
- <br />
- $$<br />
- Forecaster JVC<br />
- <br />
-  
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2024-07-09, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1230 PM CDT Tue Jul 09 2024
-
-Valid 101200Z - 111200Z
-
-...20Z Update...
-
-Portions of NW Arizona may experience some isolated dry
-thunderstorms, but fuels are only modestly receptive and the threat
-is too localized for additional highlight areas at this time.
-
-No further forecast updates are necessary, as current thinking
-remains unchanged. See previous discussion for further detail.
-
-..Halbert/Weinman.. 07/09/2024
-
-.PREV DISCUSSION... /ISSUED 0159 AM CDT Tue Jul 09 2024/
-
-...Synopsis...
-A belt of strengthening west-southwesterly mid-level flow will
-impinge across the top of the western US ridge on Wednesday, leading
-to gusty westerly surface winds along and east of the Cascades
-within the Columbia Basin. Fuels within this region are critically
-dry, with several days of very warm and dry condition preceding the
-increase in surface winds. Elevated to Critical conditions are
-expected by the afternoon, as relative humidity reductions to around
-10-15 percent will overlap with sustained winds 15-20 mph (locally
-stronger). As Critical conditions appear to be fairly localized, an
-Elevated delineation was maintained with this outlook.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
 ## SPC Jul 9, 2024 1730 UTC Day 2 Convective Outlook
 
 date: 2024-07-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -490,31 +659,6 @@ layer stabilizes.
  
 
 <https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2024-07-09, from: Eastern Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ABPZ20 KNHC 091720<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 1100 AM PDT Tue Jul 9 2024<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Tropical cyclone formation is not expected during the next 7 days.<br />
- <br />
- $$<br />
- Forecaster Hagen/Berg<br />
-  
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 
@@ -637,92 +781,6 @@ highlights.
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
-
----
-
-## SPC - No watches are valid as of Tue Jul  9 14:02:02 UTC 2024
-
-date: 2024-07-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Tue Jul  9 14:02:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Tue Jul  9 14:02:02 UTC 2024
-
-date: 2024-07-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Tue Jul  9 14:02:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Jul 9, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-07-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0736 AM CDT Tue Jul 09 2024
-
-Valid 091300Z - 101200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FOR WESTERN
-KENTUCKY AND SOUTHERN INDIANA...
-
-...SUMMARY...
-Several tornadoes are possible today over the lower Ohio Valley in
-association with the remnants of Beryl.
-
-...Lower Ohio Valley/Mid Mississippi Valley...
-Water-vapor imagery this morning shows a progressive mid-level
-shortwave trough moving east across the lower MO Valley/Ozarks. 
-This mid-level trough is forecast to reach Lake Michigan/Indiana by
-late tonight.  The remnants of Beryl will move across the mid
-Mississippi and lower Ohio Valleys today.  Ahead of the associated
-surface low, morning surface analysis indicates a reservoir of lower
-70s deg F dewpoints from the IN/OH/KY tri-state south/southwest into
-the Mid South ahead of the low.  Surface streamlines show a warm
-frontal zone extending east-northeast from the low.  The warm front
-will advance northward to near the OH River by mid afternoon and
-serve as a focus for severe thunderstorm potential.
-
-Despite considerable cloud cover this morning, significant cloud
-breaks south of the warm front and pockets of heating will
-destabilize the airmass from the mid MS Valley to the OH Valley. 
-Moderate buoyancy is forecast to develop in the vicinity of the warm
-front and to its south over parts of KY/TN.  Models imply, and this
-notion is supported by morning observational trends, that a couple
-of convective bands will preferentially favor storm development
-today.  Widely scattered to scattered thunderstorms are forecast to
-develop within a moderately unstable airmass (1000-1500 J/kg
-MLCAPE).  Forecast hodographs will become enlarged --especially in
-the warm frontal zone where backed low-level flow will reside-- as a
-30-40 southerly 850-mb LLJ overspreads the OH Valley during the
-afternoon/evening.  One or more bands of quasi-discrete supercells
-are forecast with tornado potential greatest in a southwest to
-northeast corridor paralleling the OH River this afternoon into the
-evening.  
-
-...New England...
-A low-amplitude trough at mid-levels will move eastward across
-Quebec and New England during the period.  Heating of a seasonably
-moist airmass by afternoon will aid in the development of scattered
-thunderstorms.  A few organized multicells and perhaps a transient
-supercell or two, will pose an isolated risk for 50-65 mph gusts and
-large hail.
-
-..Smith/Bentley.. 07/09/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 

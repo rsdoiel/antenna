@@ -1,11 +1,476 @@
 ---
 title: pacific 2024.28
-updated: 2024-07-09 13:44:53
+updated: 2024-07-10 08:06:32
 ---
 
 # pacific 2024.28
 
-(date: 2024-07-09 13:44:53)
+(date: 2024-07-10 08:06:32)
+
+---
+
+## Top Hawaii QB Sagapolutele commits to Cal
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>With Campbell&#8217;s Jaron-Keawe Sagapolutele deciding to orally commit to California on Monday, the state&#8217;s No. 1 prospect in the class of 2025 from Hawaii is set to make history.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/sports/top-hawaii-qb-sagapolutele-commits-to-cal/>
+
+---
+
+## Wimbledon recap: Donna Vekic’s double fault recovery, tennis under roofs, American losses
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>Serving for the second set against Lulu Sun, Donna Vekic double faulted five times &#8212; the joint-second highest number in a game in Wimbledon history. It was an incredible implosion, or at least it would have been had we not seen these kind of struggles with Vekic before. She went through an excruciating defeat from an advantageous position against Serbian Olga Danilovic at the French Open.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/sports/wimbledon-recap-donna-vekics-double-fault-recovery-tennis-under-roofs-american-losses/>
+
+---
+
+## Taylor Averill went from party boy to college volleyball star to Paris-bound Olympian
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>Many people&#8217;s introduction to University of Hawaii alumnus Taylor Averill will take place in Paris, the picturesque site for his Summer Olympics debut with the U.S. men&#8217;s volleyball national team.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/sports/taylor-averill-went-from-party-boy-to-college-volleyball-star-to-paris-bound-olympian/>
+
+---
+
+## Alec Baldwin manslaughter trial revolves around Wild West gun
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>SANTA FE, New Mexico &#8212; The inner workings of a Colt .45 &#8220;Peacemaker&#8221; revolver, a symbol of the American Wild West, have become the focus of Alec Baldwin&#8217;s trial for the 2021 fatal shooting of &#8220;Rust&#8221; cinematographer Halyna Hutchins on a New Mexico movie set.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/nation-world-news/alec-baldwin-manslaughter-trial-revolves-around-wild-west-gun/>
+
+---
+
+## US safety board studies Southwest airplane damage that happened before roll
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) &#8212; The National Transportation Safety Board said on Tuesday it is seeking to determine when structural damage occurred to the rudder system on a Southwest Airlines Boeing 737 MAX that rolled in May.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/nation-world-news/us-safety-board-studies-southwest-airplane-damage-that-happened-before-roll/>
+
+---
+
+## Sen. Menendez’s defense says focus on gold belies lack of bribery evidence
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Bob Menendez&#8217;s defense lawyer on Tuesday said prosecutors at the senator&#8217;s corruption trial focused on &#8220;provocative&#8221; images of cash and gold bars found at the home the New Jersey Democrat shared with his wife because they lacked evidence of bribery.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/nation-world-news/sen-menendezs-defense-says-focus-on-gold-belies-lack-of-bribery-evidence/>
+
+---
+
+## Heat wave bakes Texas amid power outages while Canada braces for wildfires
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; Millions of Americans in southeast Texas endured brutally hot conditions on Tuesday without the relief of air conditioning after deadly Tropical Storm Beryl knocked out power to a large portion of the region.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/nation-world-news/heat-wave-bakes-texas-amid-power-outages-while-canada-braces-for-wildfires/>
+
+---
+
+## Biden looks to move past his troubles, opening NATO summit with warning to Putin
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden opened NATO&#8217;s 75th anniversary summit on Tuesday seeking to bolster confidence in both the alliance and his own political standing with a forceful speech warning of the threat posed by Russia and other authoritarian states as the world plunges into a new era of superpower conflict.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/nation-world-news/biden-looks-to-move-past-his-troubles-opening-nato-summit-with-warning-to-putin/>
+
+---
+
+## Council recommends impact study of proposed STVR regulations
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>A Hawaii County Council committee has supported a proposal for a study about the economic impacts of much-debated changes to the regulations for short-term vacation rentals.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/hawaii-news/council-recommends-impact-study-of-proposed-stvr-regulations/>
+
+---
+
+## Proposal aims to create more farmers markets
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>More farmers markets could be established across Hawaii Island.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/hawaii-news/proposal-aims-to-create-more-farmers-markets/>
+
+---
+
+## Are solar panels a good investment? New Berkeley study offers an answer
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>How much does going solar shave off those electricity bills? A major new study by scientists at Lawrence Berkeley National Laboratory that analyzed 500,000 households across the U.S. in 2021 offers the best snapshot to date on estimated savings of rooftop solar for American consumers.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/nation-world-news/are-solar-panels-a-good-investment-new-berkeley-study-offers-an-answer/>
+
+---
+
+## US economy no longer overheated, Fed’s Powell tells Congress
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212;The U.S. is &#8220;no longer an overheated economy&#8221; with a job market that has cooled from its pandemic-era extremes and in many ways is back where it was before the health crisis, Fed Chair Jerome Powell said in remarks to Congress that suggested the case for interest rate cuts is becoming stronger.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/nation-world-news/us-economy-no-longer-overheated-feds-powell-tells-congress/>
+
+---
+
+## Green signs public safety bills
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>Bills signed into law Tuesday expand the statute of limitation for civil litigation against predators who sexually abuse children, raise the age to buy ammunition to 21 &#8212; the legal age to purchase guns in Hawaii &#8212; and mandate the state&#8217;s law enforcement agencies to hire more women and nonbinary police officers.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/hawaii-news/green-signs-public-safety-bills/>
+
+---
+
+## Your Views for July 10
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>Helping the cats&#0010;of the Big Island</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/opinion/your-views-for-july-10-8/>
+
+---
+
+## The president’s promises: Biden presses on with his campaign
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>On Friday, a bit over a week after his poor debate performance against Donald Trump, President Joe Biden sat down with ABC News anchor George Stephanopoulos for a conversation widely seen as meant to reassure allies and the American electorate that he&#8217;s up to the job.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/opinion/the-presidents-promises-biden-presses-on-with-his-campaign/>
+
+---
+
+## A UK victory for Labour and ‘No Drama Starmer.’ It doesn’t take much to start a landslide
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>The Labour Party&#8217;s demolition of the chaotic Conservative Party in Britain&#8217;s July 4 general election is another marker of the reassertion of sensible, fiscally sound centrism and, above all, the rejection of leaders who bring either revolt or chaos.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/opinion/a-uk-victory-for-labour-and-no-drama-starmer-it-doesnt-take-much-to-start-a-landslide/>
+
+---
+
+## Dozens of Gazans killed in Israeli assault that Hamas warns may threaten truce talks
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/GAZA (Reuters) &#8212; Palestinian officials said an Israeli airstrike in southern Gaza Strip killed dozens while advancing tanks in Gaza City forced residents to flee under fire as Israel on Tuesday stepped up an offensive that Hamas warned could jeopardise ceasefire talks.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/nation-world-news/dozens-of-gazans-killed-in-israeli-assault-that-hamas-warns-may-threaten-truce-talks/>
+
+---
+
+## Kyiv hospital took direct hit from Russian missile, UN analysis suggests
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>KYIV (Reuters) &#8212; A U.N. rights mission said on Tuesday there was a &#8220;high likelihood&#8221; that Kyiv&#8217;s main children&#8217;s hospital took a direct hit from a Russian missile during a series of airstrikes on Ukrainian cities, as the Kremlin continued to deny involvement.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/nation-world-news/kyiv-hospital-took-direct-hit-from-russian-missile-un-analysis-suggests/>
+
+---
+
+## India’s Modi tells Putin that ‘heart bleeds’ over deaths of children in war
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>MOSCOW &#8212; Indian Prime Minister Narendra Modi told Russian President Vladimir Putin on Tuesday that the death of innocent children was painful and terrifying, a day after a lethal strike on a children&#8217;s hospital in the Ukrainian capital Kyiv.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/nation-world-news/indias-modi-tells-putin-that-heart-bleeds-over-deaths-of-children-in-war/>
+
+---
+
+## FTC slams middlemen for high drug prices, reversing hands-off approach
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>The Federal Trade Commission on Tuesday sharply criticized pharmacy benefit managers, saying in a scathing 71-page report that &#8220;these powerful middlemen may be profiting by inflating drug costs and squeezing Main Street pharmacies.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/nation-world-news/ftc-slams-middlemen-for-high-drug-prices-reversing-hands-off-approach/>
+
+---
+
+## Top Democrats, swallowing fears about Biden’s candidacy, remain behind him
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Top Democrats in Congress indicated on Tuesday that they were unwilling &#8212; at least for now &#8212; to mount an effort to push aside President Joe Biden even after a day of meetings in which their members expressed grave concerns about his age, mental acuity and ability to win reelection.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/nation-world-news/top-democrats-swallowing-fears-about-bidens-candidacy-remain-behind-him/>
+
+---
+
+## Local sports briefs: Toughman qualifier coming this weekend to Hilo; Honoka‘a seeking coach
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>One of the biggest kickboxing events in all of Hawaii will take place this weekend on the east side.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/sports/local-sports-briefs-toughman-qualifier-coming-this-weekend-to-hilo-honokaa-seeking-coach/>
+
+---
+
+## Spain’s captain ‘tackled’ by security guard, Yamal record, France out
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>On a dramatic night at Euro 2024, Kylian Mbappe discarded his mask and set up an early (and rare) France goal, only for record-breaking 16-year-old Lamine Yamal to inspire Spain to a comeback victory that took them into Sunday&#8217;s final.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/sports/spains-captain-tackled-by-security-guard-yamal-record-france-out/>
+
+---
+
+## Students learn by doing at UH-Hilo: Recent Kilauea eruption a great opportunity for aspiring geologists
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>While the most recent eruption of Kilauea volcano was short-lived, it provided an exciting hands-on learning opportunity for students using the University of Hawaii at Hilo geology lab.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/hawaii-news/students-learn-by-doing-at-uh-hilo-recent-kilauea-eruption-a-great-opportunity-for-aspiring-geologists/>
+
+---
+
+## Mayoral candidates to appear today at AARP Hawaii forum
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>Four candidates for Hawaii County mayor will speak at an AARP Hawaii forum today that will be broadcast on public access Na Leo Channel 55, naleo.tv/governmental55 and the AARP Hawaii Facebook page.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/hawaii-news/mayoral-candidates-to-appear-today-at-aarp-hawaii-forum/>
+
+---
+
+## Rep. Tokuda introduces bill to rename Hawaii Island post office after Vietnam War veteran hero
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>A bill was recently introduced in Congress to rename the Captain Cook Post Office after First Lieutenant John Kuulei Kauhaihao of Honaunau, who was killed in action in Vietnam and posthumously awarded the U.S. Army&#8217;s second highest award for valor, the Distinguished Service Cross.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/hawaii-news/rep-tokuda-introduces-bill-to-rename-hawaii-island-post-office-after-vietnam-war-veteran-hero/>
+
+---
+
+## IAS Hosts Research Communication Workshop
+
+date: 2024-07-10, from: University of the South Pacific (Fiji)
+
+<p>The Institute of Applied Sciences in collaboration with the Periodic Table of the Food Initiative...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/ias-hosts-research-communication-workshop/">IAS Hosts Research Communication Workshop</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/ias-hosts-research-communication-workshop/>
+
+---
+
+## Staff efforts lauded for MA in Climate Change Ranking
+
+date: 2024-07-10, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific’s (USP) Master of Science in Climate Change programme attained...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/staff-efforts-lauded-for-ma-programme-in-climate-change-ranking/">Staff efforts lauded for MA in Climate Change Ranking</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/staff-efforts-lauded-for-ma-programme-in-climate-change-ranking/>
+
+---
+
+## Margaret Sanchez recommended to be Kauaʻi CC chancellor
+
+date: 2024-07-10, from: University of Hawaiʻi News
+
+<p>Sanchez has been serving as interim chancellor at <span aria-label="Kauai">Kaua&#699;i</span> <abbr>CC</abbr> since 2023.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/09/sanchez-recommended-kauai-cc-chancellor/">Margaret Sanchez recommended to be Kauaʻi <abbr>CC</abbr> chancellor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/09/sanchez-recommended-kauai-cc-chancellor/>
+
+---
+
+## Hawaiian Word of the Week: Pōkole
+
+date: 2024-07-10, from: University of Hawaiʻi News
+
+<p>Pōkole&#8212;Short, brief, shortage.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/09/hawaiian-word-of-the-week-pokole/">Hawaiian Word of the Week: Pōkole</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/09/hawaiian-word-of-the-week-pokole/>
+
+---
+
+## Amazon selects UH as education partner for training, upskilling
+
+date: 2024-07-10, from: University of Hawaiʻi News
+
+<p>Training is available to Amazon hourly employees at <abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> and Honolulu <abbr>CC</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/09/amazon-selects-uh-as-education-partner/">Amazon selects <abbr>UH</abbr> as education partner for training, upskilling</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/09/amazon-selects-uh-as-education-partner/>
+
+---
+
+## Higher education, Pacific Ocean challenges at presidents’ meeting
+
+date: 2024-07-10, from: University of Hawaiʻi News
+
+<p>President Lassner joined higher education leaders from 16 countries to foster a deeper understanding and exchange of knowledge concerning the impacts of climate change on oceans.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/09/higher-education-pacific-ocean-challenges-at-presidents-meeting/">Higher education, Pacific Ocean challenges at presidents’ meeting</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/09/higher-education-pacific-ocean-challenges-at-presidents-meeting/>
+
+---
+
+## Documentary features Hawaiʻi civil rights trailblazer, Amy Agbayani
+
+date: 2024-07-10, from: University of Hawaiʻi News
+
+<p>The 15-minute short film was released last year by filmmaker Eleni Avendaño.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/09/amy-agbayani-documentary/">Documentary features Hawaiʻi civil rights trailblazer, Amy Agbayani</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/09/amy-agbayani-documentary/>
+
+---
+
+## Student-adviser pair honored for marine research, advancing inclusion
+
+date: 2024-07-10, from: University of Hawaiʻi News
+
+<p>Graduate student Reece James and professor Angelicque White were selected by the Howard Hughes Medical Institute for the Gilliam Fellows Program.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/09/student-adviser-james-white/">Student-adviser pair honored for marine research, advancing inclusion</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/09/student-adviser-james-white/>
+
+---
+
+## Enroll now! UH launches pioneering, free esports pathway program
+
+date: 2024-07-10, from: University of Hawaiʻi News
+
+<p>The program consists of nine credits and a 150-hour internship.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/09/esports-pathway-program-launch/">Enroll now! <abbr>UH</abbr> launches pioneering, free esports pathway program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/09/esports-pathway-program-launch/>
+
+---
+
+## 'Piled in shoe boxes, shoved into a storage closet'
+
+date: 2024-07-09, from: Pacific Island Times
+
+Vice speaker pushes to restore dignity to Guam ancestors by burying ancient remains in their final resting place By Pacific Island Times... 
+
+<https://www.pacificislandtimes.com/post/piled-in-shoe-boxes-shoved-into-a-storage-closet>
+
+---
+
+## High jumper Lilian Turban earns Academic All-America honors
+
+date: 2024-07-09, from: University of Hawaiʻi News
+
+<p>Turban is just the second Rainbow Wahine track and field athlete to earn Academic All-America honors and the first since 2009.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/09/turban-academic-all-america-honors/">High jumper Lilian Turban earns Academic All-America honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/09/turban-academic-all-america-honors/>
+
+---
+
+## 1st and 30th Death Anniversary: †Mary S. and †Augustine H. Moses
+
+date: 2024-07-09, updated: 2024-07-10, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/obituaries/1st-and-30th-death-anniversary-mary-s-and-augustine-h-moses/article_49644576-3e44-11ef-8427-577195012f07.html>
+
+---
+
+## Nebraska, Oakland highlight 2024 Hawaiian Airlines Diamond Head Classic
+
+date: 2024-07-09, from: University of Hawaiʻi News
+
+<p>The 15th edition of the tournament will be December 22, 23 and 25 at the SimpliFi Arena at Stan Sheriff Center.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/09/2024-diamond-head-classic-field/">Nebraska, Oakland highlight 2024 Hawaiian Airlines Diamond Head Classic</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/09/2024-diamond-head-classic-field/>
+
+---
+
+## Guam eyes modular microgrid project
+
+date: 2024-07-09, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Guam Power Authority has announced plans to deploy innovative technology that will advance the... 
+
+<https://www.pacificislandtimes.com/post/guam-eyes-modular-microgrid-project>
 
 ---
 
@@ -17,6 +482,96 @@ date: 2024-07-09, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/07/09/wfcommons-nsf-grant/">Boosting scientific breakthroughs aim of <abbr>UH</abbr> project, $335<abbr>K</abbr> grant</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/07/09/wfcommons-nsf-grant/>
+
+---
+
+## Storm Beryl kills three, knocks out power for 2.7 million in Texas
+
+date: 2024-07-09, updated: 2024-07-10, from: Marianas Variety
+
+(Reuters) — Tropical Storm Beryl brought howling winds and torrential rain to southeast Texas on Monday, killing at least three people, flooding highways, closing oil ports, canceling more than 1,300 flights and knocking out power to more than 2.7 million homes and businesses. 
+
+<https://www.mvariety.com/news/national/storm-beryl-kills-three-knocks-out-power-for-2-7-million-in-texas/article_dea30ea2-3dfd-11ef-9e24-a3f3628a16a3.html>
+
+---
+
+## Russian missile attacks kill at least 41, hit children's hospital, Ukraine says
+
+date: 2024-07-09, updated: 2024-07-10, from: Marianas Variety
+
+KYIV (Reuters) — Russia blasted the main children's hospital in Kyiv with a missile in broad daylight on Monday and rained missiles down on other cities across Ukraine, killing at least 41 civilians in the deadliest wave of air strikes for months. 
+
+<https://www.mvariety.com/news/regional_world/russian-missile-attacks-kill-at-least-41-hit-childrens-hospital-ukraine-says/article_76fee3d4-3dfd-11ef-98ee-eb7f689ff6e8.html>
+
+---
+
+## 12 CNMI lawmakers off to Guam for MILA conference
+
+date: 2024-07-09, updated: 2024-07-10, from: Marianas Variety
+
+FOUR senators and eight House members are headed to Guam to attend the Mariana Islands Legislature Association conference set for July 10-14, 2024. 
+
+<https://www.mvariety.com/news/local/12-cnmi-lawmakers-off-to-guam-for-mila-conference/article_aa9392ee-3dd0-11ef-9cb9-b39a93ff7cf8.html>
+
+---
+
+## CPA board terminates RT&T’s lease
+
+date: 2024-07-09, updated: 2024-07-10, from: Marianas Variety
+
+THE Commonwealth Ports Authority board of directors on Tuesday voted unanimously to terminate its lease agreement with Rota Terminal &amp; Transfer Co. Inc. 
+
+<https://www.mvariety.com/news/local/cpa-board-terminates-rt-t-s-lease/article_d02c2fe6-3dc3-11ef-9ef2-6fcd00f0290a.html>
+
+---
+
+## Customs finds $155K worth of meth inside portable speaker
+
+date: 2024-07-09, updated: 2024-07-10, from: Marianas Variety
+
+DURING a routine inspection of a United Parcel Service package at the Francisco C. Ada/Saipan International Airport, Division of Customs and Biosecurity officers found 1.1 pounds of methamphetamine worth $155,000 inside a portable speaker. 
+
+<https://www.mvariety.com/news/local/customs-finds-155k-worth-of-meth-inside-portable-speaker/article_4aff186e-3ddd-11ef-822f-db22ec800ba3.html>
+
+---
+
+## MLB roundup: Braves rally in 9th, top D-backs in 11th
+
+date: 2024-07-09, updated: 2024-07-10, from: Marianas Variety
+
+(Reuters) — Sean Murphy hit a game-tying two-run homer in the ninth inning and Marcell Ozuna lined a tiebreaking sacrifice fly to center in the 11th as the Atlanta Braves rallied for a 5-4 victory over the Arizona Diamondbacks on Monday night in Phoenix. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-braves-rally-in-9th-top-d-backs-in-11th/article_ee80b08a-3dfe-11ef-a717-2f9bfdf77e5d.html>
+
+---
+
+## Victorious Svitolina wears black ribbon for Ukraine at Wimbledon
+
+date: 2024-07-09, updated: 2024-07-10, from: Marianas Variety
+
+LONDON (Reuters) — Elina Svitolina powered into the Wimbledon quarter-finals on Monday but the result was secondary for the tearful Ukrainian whose thoughts were with her homeland after a Russian airstrike on a children's hospital in Kyiv. 
+
+<https://www.mvariety.com/sports/nationalsports/victorious-svitolina-wears-black-ribbon-for-ukraine-at-wimbledon/article_550bfec6-3e00-11ef-aa8e-a36ba7883f9d.html>
+
+---
+
+## USDOL approves CNMI 2024 Prevailing Wage Report
+
+date: 2024-07-09, updated: 2024-07-10, from: Marianas Variety
+
+(CNMI DOL) — The U.S. Department of Labor has approved the CNMI's 2024 Prevailing Wage Study Report for the CW-1 visa program. Effective from July 1, 2024, until June 30, 2025, the new wages will be implemented for CW-1 determinations. 
+
+<https://www.mvariety.com/news/local/usdol-approves-cnmi-2024-prevailing-wage-report/article_ce81b946-3df9-11ef-a06c-4bdcc5137952.html>
+
+---
+
+## Saipan student named to dean's list at Oregon Institute of Technology
+
+date: 2024-07-09, updated: 2024-07-10, from: Marianas Variety
+
+KLAMATH FALLS, Oregon — Clerisse Llanah Dacumos has been named to the 2023-2024 Spring Term dean's list at Oregon Institute of Technology. Inclusion on the list requires a 3.30 to 3.69 grade-point average. 
+
+<https://www.mvariety.com/news/local/saipan-student-named-to-deans-list-at-oregon-institute-of-technology/article_155f9ee0-3dfb-11ef-a286-93c5ad7b113f.html>
 
 ---
 
@@ -709,6 +1264,16 @@ date: 2024-07-08, from: Pacific Island Times
 By James C. Pearce For the first time in its history, New Caledonia has elected a pro-independence Kanak candidate to the French National... 
 
 <https://www.pacificislandtimes.com/post/new-caledonia-elects-pro-independence-kanak-candidate>
+
+---
+
+## New Guam archbishop gears up for a challenging job ahead
+
+date: 2024-07-08, from: Pacific Island Times
+
+By Pacific Island Times News Staff Bishop Ryan Jimenez, who has been appointed by the Vatican to take the helm of the Archdiocese of... 
+
+<https://www.pacificislandtimes.com/post/new-guam-archbishop-gears-up-for-a-challenging-job-ahead>
 
 ---
 

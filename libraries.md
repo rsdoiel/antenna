@@ -1,11 +1,34 @@
 ---
 title: libraries 2024.28
-updated: 2024-07-09 13:44:56
+updated: 2024-07-10 08:06:37
 ---
 
 # libraries 2024.28
 
-(date: 2024-07-09 13:44:56)
+(date: 2024-07-10 08:06:37)
+
+---
+
+## Trans/Form/Ação officially adopts preprints as a submission method
+
+date: 2024-07-10, from: SciELO in Perspective
+
+<p>As part of its 50th anniversary celebrations, <em>Trans/Form/Ação</em> is now accepting preprints as a form of submission. This pilot model seeks to encourage scientific debate and the improvement of texts of philosophical interest. Doctors or doctoral students who have passed their qualifying exams can submit their manuscripts on a continuous basis. Available in Portuguese only.  <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://humanas.blog.scielo.org/blog/2024/07/10/trans-form-acao-adere-oficialmente-aos-preprints-como-modalidade-de-submissao/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://humanas.blog.scielo.org/blog/2024/07/10/trans-form-acao-adere-oficialmente-aos-preprints-como-modalidade-de-submissao/#new_tab">Trans/Form/Ação officially adopts preprints as a submission method</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://humanas.blog.scielo.org/blog/2024/07/10/trans-form-acao-adere-oficialmente-aos-preprints-como-modalidade-de-submissao/#new_tab>
+
+---
+
+## The Case for Probabilistic Metadata
+
+date: 2024-07-10, from: Scholarly Kitchen
+
+<p>Moving from a binary right/wrong view of metadata to a probabilistic framework brings many benefits</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/07/10/the-case-for-probabilistic-metadata/">The Case for Probabilistic Metadata</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/07/10/the-case-for-probabilistic-metadata/>
 
 ---
 

@@ -1,11 +1,142 @@
 ---
 title: columns 2024.28
-updated: 2024-07-09 13:44:55
+updated: 2024-07-10 08:06:35
 ---
 
 # columns 2024.28
 
-(date: 2024-07-09 13:44:55)
+(date: 2024-07-10 08:06:35)
+
+---
+
+## RADIUS Vulnerability
+
+date: 2024-07-10, updated: 2024-07-10, from: Bruce Schneier blog
+
+<p><a href="https://www.blastradius.fail/">New attack</a> against the RADIUS authentication protocol:</p>
+<blockquote><p>The Blast-RADIUS attack allows a man-in-the-middle attacker between the RADIUS client and server to forge a valid protocol accept message in response to a failed authentication request. This forgery could give the attacker access to network devices and services without the attacker guessing or brute forcing passwords or shared secrets. The attacker does not learn user credentials.</p></blockquote>
+<p>This is one of those vulnerabilities that comes with a cool name, its own website, and a logo.</p>
+<p>News <a href="https://www.bleepingcomputer.com/news/security/new-blast-radius-attack-bypasses-widely-used-radius-authentication/">article</a>. Research ...</p> 
+
+<https://www.schneier.com/blog/archives/2024/07/radius-vulnerability.html>
+
+---
+
+##  The International Astronomical Union is currently running an open competition to name... 
+
+date: 2024-07-10, updated: 2024-07-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044931-the-international-astrono>
+
+---
+
+## Resuming the Podcast0 feed
+
+date: 2024-07-10, from: Dave Winer's Scripting News
+
+<p>A new episode for the <a href="https://this.how/podcast0/">Podcast0 feed</a>.</p>
+<p>After a break since June 20, we now resume my original "audio blog" from the summer of 2004, twenty years ago.</p>
+<p>I was just beginning to figure out how this new medium worked, and rather than record my own thoughts, as with the previous two episodes, I published audio from another source, my meditation teacher, Jeru Kabbal. </p>
+<p>Starting with the next episode, tomorrow, an interview with Steve Gillmor, one of the earliest podcast pioneers -- we'll have an original audio blog post. That's when the pulse really starts. </p>
+<p>A <a href="https://imgs.scripting.com/2024/07/10/upcomingEpisodes.png">screen shot</a> of upcoming episodes from <a href="http://morningcoffeenotes.com/">morningcoffeenotes</a>.</p>
+<p>Here's the <a href="https://podcasts.apple.com/us/podcast/quantum-light-breath/id1752527298?i=1000661785816">Apple Podcasts</a> page for this episode. </p>
+<p>I've been making mistakes in 2024 on almost every episode. This time I got the title wrong, it's Sunrise of the Soul. Rather than change it, and take a chance of the episode showing up twice in some podcast clients, I'm just leaving it as-is. Trying to get a feel for how most of the clients work. Do they refresh posts, if the descriptions change (as this one is)? I don't know. </p>
+<p>Do the clients strip out the HTML or do they support some of it? I wonder if links make it through to most clients?</p>
+<p>The <a href="http://scripting.com/2024/06/17/152838.html">original post</a> for Podcast0.</p>
+ 
+
+<http://scripting.com/2024/07/10/135952.html?title=resumingThePodcast0Feed>
+
+---
+
+## El Puerto de Santa Maria, Spain
+
+date: 2024-07-10, from: mrusme blog
+
+"El Puerto de Santa María, locally known as El Puerto and historically in
+English as Port Saint Mary, is a municipality of Spain located on the banks of
+the Guadalete River in the province of Cádiz, Andalusia. As of 2016, the city
+has a population of c. 88,184, of which some 50,000 live in the urban center,
+and the remainder in the surrounding areas." 
+
+<https://xn--gckvb8fzb.com/travel/spain/el-puerto-de-santa-maria/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-10, from: Dave Winer's Scripting News)
+
+If we were organized we could handle anything. The only reason we're panicking about Biden's capability is that our news flow is owned by largely invisible media moguls. The only way out of this mess is to route around them. 
+
+<http://scripting.com/2024/07/10.html#a131754>
+
+---
+
+## Office Hours prediction: Does Trump win or lose — against Biden or another Dem? 
+
+date: 2024-07-10, from: Robert Reich's blog
+
+Friends, We are at a strange and difficult moment. While most of you reading this understand the existential threat Trump poses if he regains the presidency, you&#8217;re divided as to whether Biden is the best candidate to beat him. So today&#8217;s Office Hours question asks you to make a 
+
+<https://robertreich.substack.com/p/office-hours-prediction-does-trump>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-07-10, from: Jessica Smith's blog)
+
+<p>Was originally doing some research to make sure Australian bureaucrats can handle names with hyphens in them, and found this. Good thing we don’t live in Queensland, so we can still name our baby “Down With Capitalism”!</p>
+<img src="https://www.jayeless.net/media/2024/07/naming-rules.png" alt="Restrictions on Baby Names: To protect children against careless and harmful names, the government had set out rules in registering baby names in Australia. The rules state that a child’s name must: not be obscene or offensive or contrary to public interest; (no racial slurs or infringements on the rights of another; be short and easy to write (In NSW, under 50 characters); not include symbols without phonetic significance such as N@talie, Da!sy, J#ke) or use numerals; not include or resemble an official title or military rank recognised in Australia such as King, Lady, Father, Prince, Sir or Admiral.Â  This was after a law was passed sometime in 1995 prohibiting the use of titles as part of the baby’s given name. use English letters only; not be similar to a recognised body, organisation or trademark; and In Queensland, the name can’t include a statement, like Save Mother Earth or Down with Capitalism."> 
+
+<https://www.jayeless.net/2024/07/down-with-capitalism.html>
+
+---
+
+## July 9, 2024 
+
+date: 2024-07-10, from: Heather Cox Richardson blog
+
+In this morning&#8217;s Talking Points Memo, David Kurtz observed that &#8220;much of political journalism is divorced from policy and the substance of politics.&#8221; It&#8217;s all about a horse race, he wrote, while complex questions, competing public interests, and the history of an issue get distilled to &#8220;whether it&#8217;s good or bad politically.&#8221; 
+
+<https://heathercoxrichardson.substack.com/p/july-9-2024>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-10, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/03/20/mrSmith.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It bugs me that there’s all this focus on Biden, when what we really need is to organize as voters so we can be ready to deal with whatever happens. That’s the real problem. The press can point out a problem, and it is a problem, but no one has the ability to build a consensus among voters. I think it’s possible to put together an online version of the Democratic Party, something that never goes away, is available to rally the electorate at any moment. That’s the way to neutralize the power of the media moguls who have us wrapped around their fingers. 
+
+<http://scripting.com/2024/07/09.html#a015602>
+
+---
+
+## Wednesday 10 July, 2024
+
+date: 2024-07-09, from: John Naughton's online diary
+
+Medieval laundry In a Provencal village Quote of the Day “One thing about which fish know exactly nothing is water, since they have no anti-environment which would enable them to perceive the element they live in.” Marshall McLuhan Musical alternative &#8230; <a href="https://memex.naughtons.org/wednesday-10-july-2024/39622/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-10-july-2024/39622/>
+
+---
+
+##  If dragons were real, how might fire-breathing work? &#8220;A dragon could draw... 
+
+date: 2024-07-09, updated: 2024-07-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044908-if-dragons-were-real-how>
+
+---
+
+##  True statement that sounds completely false: Steph Curry cannot spin a basketball... 
+
+date: 2024-07-09, updated: 2024-07-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044932-true-statement-that-sound>
 
 ---
 
