@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.28
-updated: 2024-07-10 08:06:33
+updated: 2024-07-11 07:40:31
 ---
 
 # mid central 2024.28
 
-(date: 2024-07-10 08:06:33)
+(date: 2024-07-11 07:40:31)
+
+---
+
+## Automate battery management system (BMS) test with a digital twin
+
+date: 2024-07-11, from: EDN Blog
+
+<img width="2480" height="1736" src="https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?fit=2480%2C1736" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=2480 2480w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=1900 1900w" sizes="(max-width: 2480px) 100vw, 2480px" /><p>The BMS testing with emulated battery cells can safely validate all kinds of conditions without risk of hardware damage.</p>
+<p>The post <a href="https://www.edn.com/automate-battery-management-system-bms-test-with-a-digital-twin/" data-wpel-link="internal">Automate battery management system (BMS) test with a digital twin</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/automate-battery-management-system-bms-test-with-a-digital-twin/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2024-07-10 08:06:33
 
 date: 2024-07-10, from: EDN Blog
 
-<img width="538" height="888" src="https://www.edn.com/wp-content/uploads/Slope-1.png?fit=538%2C888" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Slope-1.png?w=538 538w, https://www.edn.com/wp-content/uploads/Slope-1.png?w=182 182w" sizes="(max-width: 538px) 100vw, 538px" /><p>Discussing the slope detection FM demodulation method where a bandpass slope is used to create a slope-induced amplitude modulation.</p>
+<img width="538" height="888" src="https://www.edn.com/wp-content/uploads/Slope-1.png?fit=538%2C888" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Slope-1.png?w=538 538w, https://www.edn.com/wp-content/uploads/Slope-1.png?w=182 182w" sizes="(max-width: 538px) 100vw, 538px" /><p>Discussing the slope detection FM demodulation method where a bandpass slope is used to create a slope-induced amplitude modulation.</p>
 <p>The post <a href="https://www.edn.com/slope-detection-for-fm-demodulation/" data-wpel-link="internal">Slope detection for FM demodulation</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

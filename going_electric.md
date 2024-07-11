@@ -1,11 +1,391 @@
 ---
 title: going electric 2024.28
-updated: 2024-07-10 08:06:39
+updated: 2024-07-11 07:40:37
 ---
 
 # going electric 2024.28
 
-(date: 2024-07-10 08:06:39)
+(date: 2024-07-11 07:40:37)
+
+---
+
+## Meet the MG Cyber GTS, the electric Cyberster sports car that could rival Porsche’s 911
+
+date: 2024-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/MG-Cyber-GTS-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The new MG Cyber GTS charged up the show at the 2024 Goodwood Festival on Thursday. <a href="https://electrek.co/guides/mg/">MG</a> unveiled its new two-door electric sports car, a hardtop variant of its Cybster EV. In China, the new EV is already being compared to Porsche’s iconic 911.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mg,mg-cyberster,porsche-911-ev" data-layer-viewtype="unknown" data-post-id="371160" href="https://electrek.co/2024/07/11/meet-new-mg-cyber-gts-electric-rival-porsche-911/#more-371160" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/11/meet-new-mg-cyber-gts-electric-rival-porsche-911/>
+
+---
+
+## This is a Tesla Model 3… no really
+
+date: 2024-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Tesla-300SL.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A coach design team built a Mercedes 300SL that is more Tesla Model 3 than anything else – at least underneath the body.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="371176" href="https://electrek.co/2024/07/11/tesla-model-3-mercedes-300sl/#more-371176" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/11/tesla-model-3-mercedes-300sl/>
+
+---
+
+## EVs, PHEVs Could Still Reach 50% U.S. Market Share By 2030
+
+date: 2024-07-11, from: Inside EVs News
+
+Lithium costs are down, non-Tesla EV sales are growing steadily and many brands plan more PHEV options. Data shows the future is electrified. 
+
+<https://insideevs.com/news/726251/evs-50-percent-market-share-2030/>
+
+---
+
+## No Tesla Model Y Juniper In 2024? Fine, Prepare For A Decline
+
+date: 2024-07-11, from: Inside EVs News
+
+In June, sales of Model Ys built in China—for that country and for export—decreased by 30% year-over-year. 
+
+<https://insideevs.com/news/726147/tesla-modely-june2024-china-sales/>
+
+---
+
+## This Is a Carbon Fiber Battery, It Might Hold the Key to Our EV Future
+
+date: 2024-07-11, from: Ride Apart, Electric Motorcycle News
+
+The proposed structural batteries could make EVs much lighter and more efficient.  
+
+<https://www.rideapart.com/news/726037/sinonus-carbon-fiber-battery-technology/>
+
+---
+
+## VW Group’s PowerCo licensed to mass produce QuantumScape’s solid-state battery technology
+
+date: 2024-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/QuantumScape-PowerCo-Logos.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Solid-state battery developer QuantumScape has signed an agreement with PowerCo that gives the Volkswagen Group’s battery arm a non-exclusive license to mass produce its technology. This agreement could expedite the industrialization of <a href="https://electrek.co/guides/quantumscape/">QuantumScape’s</a> next-generation solid-state lithium-metal battery technology and potentially help revolutionize electric mobility.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="powerco,quantumscape,solid-state-batteries,solid-state-battery,volkswagen-group" data-layer-viewtype="unknown" data-post-id="371153" href="https://electrek.co/2024/07/11/vw-group-powerco-licensed-mass-produce-quantumscape-solid-state-battery/#more-371153" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/11/vw-group-powerco-licensed-mass-produce-quantumscape-solid-state-battery/>
+
+---
+
+## Segway Gives You a 'Limited' Lifetime Powertrain Warranty on Your New UTV
+
+date: 2024-07-11, from: Ride Apart, Electric Motorcycle News
+
+Neat. 
+
+<https://www.rideapart.com/news/726152/segway-limited-lifetime-powertrain-warranty-utv/>
+
+---
+
+## New Ford Capri: Here's A Detailed Video Walkaround
+
+date: 2024-07-11, from: Inside EVs News
+
+Is this tall electric sedan a "real" Capri? If the Mustang Mach-E is any indication, that question may not matter. 
+
+<https://insideevs.com/news/726241/ford-capri-video-preview/>
+
+---
+
+## We Missed Out, This Yamaha Experience Let R1M Owners Ride Alongside Valentino Rossi
+
+date: 2024-07-11, from: Ride Apart, Electric Motorcycle News
+
+Suffice it to say, R1M owners surely got their money’s worth.  
+
+<https://www.rideapart.com/news/726035/yamaha-racing-experience-2024/>
+
+---
+
+## This California Bill Wants To Stop You From Modifying Your E-Bike
+
+date: 2024-07-11, from: Ride Apart, Electric Motorcycle News
+
+Modified e-bikes, particularly those boosted for higher speeds, are becoming a big problem.  
+
+<https://www.rideapart.com/news/726052/california-bill-ebike-top-speed/>
+
+---
+
+## Polestar Concept BST: How Polestar Wants To Take On Porsche
+
+date: 2024-07-11, from: Inside EVs News
+
+This close-to-production study breathes life into the Polestar O2 concept and gives it a racing makeover. 
+
+<https://insideevs.com/news/726234/polestar-6-concept-bst-goodwood/>
+
+---
+
+## Would You Ride This Bike With An Exhaust The Size of A Propane Tank?
+
+date: 2024-07-11, from: Ride Apart, Electric Motorcycle News
+
+We don't know how much it weighs, but that weight balance has got to be strange. 
+
+<https://www.rideapart.com/news/726148/giant-exhaust-yamaha-r6-custom/>
+
+---
+
+## The UK’s Slickest Electric Motorcycle Launches in the US, It’s a Steal
+
+date: 2024-07-11, from: Ride Apart, Electric Motorcycle News
+
+It's not hard to see why the Maeving RM1S is one of the UK's best-selling electric motorcycles, especially at this price. 
+
+<https://www.rideapart.com/news/725907/maeving-electric-motorcycle-available-us/>
+
+---
+
+## Industry rebel Onewheel launches a premium off-road electric board
+
+date: 2024-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/onewheel-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the world of electric skateboards, Onewheel has always gone its own way. And that’s never been more true than with its latest launch, the new <a href="https://onewheel.com/products/onewheel-gt-s-series">Onewheel GT-S Series Rally Edition</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-skateboard,onewheel" data-layer-viewtype="unknown" data-post-id="371145" href="https://electrek.co/2024/07/10/industry-rebel-onewheel-launches-a-premium-off-road-electric-board/#more-371145" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/10/industry-rebel-onewheel-launches-a-premium-off-road-electric-board/>
+
+---
+
+## Polestar’s new Concept BST to make global debut at Goodwood and 6 Concept will do a hillclimb
+
+date: 2024-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Polestar-Goodwood-Concept-BST-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BEV manufacturer Polestar will once again participate in the annual Goodwood Festival of Speed, and the 2024 event will display several current and concept models. That lineup includes the global debut of the Concept BST, a new variant based on the upcoming Polestar 6 that teases a future variant from <a href="https://electrek.co/guides/polestar/">Polestar’s</a> performance line.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="goodwood-festival-of-speed,polestar,polestar-6,polestar-concept-bst" data-layer-viewtype="unknown" data-post-id="371052" href="https://electrek.co/2024/07/10/polestar-concept-bst-global-debut-goodwood-6-will-do-hillclimb/#more-371052" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/10/polestar-concept-bst-global-debut-goodwood-6-will-do-hillclimb/>
+
+---
+
+## “Supervised” FSD update, a rare Roadster, new Ford Capri, & Michigan gets angry
+
+date: 2024-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/dr-evil.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s episode of <em>Quick Charge</em>, Tesla launches a new “Supervised” Full Self Driving update, a rare, carbon-bodied Tesla Roadster goes on sale, there’s an all-new Ford Capri EV, and the great State of Michigan tells your HOA to stuff it when it comes to home solar and EV charging!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,full-self-driving-fsd,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="371132" href="https://electrek.co/2024/07/10/supervised-fsd-update-a-rare-roadster-new-ford-capri-michigan-gets-angry/#more-371132" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/10/supervised-fsd-update-a-rare-roadster-new-ford-capri-michigan-gets-angry/>
+
+---
+
+## Kia hopes the new EV3 will be a game-changer with a ‘bumpy road’ for EV sales in Europe
+
+date: 2024-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Kia-EV3-Europe.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After topping Hyundai in European sales last year, Kia expects a “bumpy trajectory of EV sales” in Europe. A part of this is due to its new EV3, launched in Korea last month for just over $30,000. Once it lands in Europe, <a href="https://electrek.co/guides/kia/">Kia</a> expects the low-cost EV3 to boost its market share in the region.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev3" data-layer-viewtype="unknown" data-post-id="371119" href="https://electrek.co/2024/07/10/kia-hopes-new-low-cost-ev3-game-changer-europe/#more-371119" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/10/kia-hopes-new-low-cost-ev3-game-changer-europe/>
+
+---
+
+## The Ford Capri Is Already Catching Shade From Polestar's CEO
+
+date: 2024-07-10, from: Inside EVs News
+
+You aren't alone if you did a double-take today. Even the top boss at Polestar had something to say about Ford's new EV. 
+
+<https://insideevs.com/news/726161/polestar-2-ford-capri-design/>
+
+---
+
+## BMW Group's Electric Car Sales Are Growing, But Slowing Down A Bit
+
+date: 2024-07-10, from: Inside EVs News
+
+PHEV sales continued to decline in Q2 for the sixth consecutive quarter. 
+
+<https://insideevs.com/news/726116/bmw-group-electric-car-sales-2024q2/>
+
+---
+
+## BMW speeds past luxury rivals Porsche and Audi as EV sales spike in Q2
+
+date: 2024-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/BMW-EV-sales-Q2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Who said the EV market was cooling off? Not for <a href="https://electrek.co/guides/bmw/">BMW</a>. The luxury automaker is outpacing rivals, including Porsche, Audi, and Mercedes, as electric vehicle sales continue climbing. BMW extended its lead after EV sales surged in Q2.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bmw" data-layer-viewtype="unknown" data-post-id="371093" href="https://electrek.co/2024/07/10/bmw-outpaces-luxury-rivals-porsche-audi-ev-sales-spike-q2/#more-371093" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/10/bmw-outpaces-luxury-rivals-porsche-audi-ev-sales-spike-q2/>
+
+---
+
+## This EV Charging Device Could Be A Lifesaver In An Emergency
+
+date: 2024-07-10, from: Inside EVs News
+
+EVject enables EV drivers to drive away to safety without unplugging the vehicle. Should you toss one in your car? 
+
+<https://insideevs.com/news/726136/evject-life-saving-ev-charging-device/>
+
+---
+
+## Save $780 Hiboy EX6 e-bike at $800 low, Pre-Prime Day Bluetti deals, one-day Greenworks sale, more
+
+date: 2024-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/2_db764b6b-65a8-4107-be4b-a4e045fffb5c_2048x2048.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>We’ve got a few hump day Green Deals worth considering today, led by <a href="https://9to5toys.com/2024/07/10/save-780-on-hiboys-ex6-step-thru-fat-tire-e-bike-at-return-800-low-more-evs-from-265/">Hiboy’s EX6 Step-Thru Fat Tire e-bike</a> that just dropped back to its <a href="https://9to5toys.com/2024/07/10/save-780-on-hiboys-ex6-step-thru-fat-tire-e-bike-at-return-800-low-more-evs-from-265/">$800 low</a>, with other ongoing EV discounts leftover from its 4th of July sale. Joining right along are limited-time deals being offered by Amazon on a few select Bluetti LiFePO4 power stations, like the <a href="https://9to5toys.com/2024/07/10/amazon-offers-limited-time-deals-on-bluetti-power-stations-starting-from-522-ahead-of-prime-day/">AC180 at a new $522 low</a>, as well as another one-day Best Buy sale on the <a href="https://9to5toys.com/2024/07/10/greenworks-80v-730-cfm-cordless-handheld-blower-at-new-170-low-for-today-only-reg-250/">Greenworks 80V 730 CFM Cordless Handheld Blower</a> at a new $170 low. Plus, all the other hangover Green Deals that are still alive and well. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="371065" href="https://electrek.co/2024/07/10/hiboy-ex6-e-bike-bluetti-deals-one-day-greenworks-sale-more/#more-371065" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/10/hiboy-ex6-e-bike-bluetti-deals-one-day-greenworks-sale-more/>
+
+---
+
+## Kia’s first electric PV5 van caught testing with VW ID.Buzz-like design [Video]
+
+date: 2024-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Kias-first-electric-van-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia is diving head-first into the world of fit-for-purpose EVs. After introducing its new PBV business earlier this year, <a href="https://electrek.co/guides/kia/">Kia’s</a> first electric van was spotted out in the wild for the first time. At first glance, you could mistake it for a Volkswagen ID.Buzz. Check out the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-pbv" data-layer-viewtype="unknown" data-post-id="371063" href="https://electrek.co/2024/07/10/kias-first-electric-van-spotted-vw-id-buzz-like-design-video/#more-371063" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/10/kias-first-electric-van-spotted-vw-id-buzz-like-design-video/>
+
+---
+
+## Lucid Air Recalled Over Sudden Loss Of Drive, Coolant Failure
+
+date: 2024-07-10, from: Inside EVs News
+
+Lucid observed at least 10 instances of unwarned power loss while owners were driving their sedans. 
+
+<https://insideevs.com/news/726138/lucid-air-recalled-drive-loss-coolant-failure/>
+
+---
+
+## Tesla finds buyers in Chinese state-owned companies after approval
+
+date: 2024-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/07/Tesla-Gigafactory-Shanghai-Jul-2022.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has already found a few buyers in Chinese state-owned companies after official government approval.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="370896" href="https://electrek.co/2024/07/10/tesla-finds-buyers-in-chinese-state-owned-companies-after-approval/#more-370896" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/10/tesla-finds-buyers-in-chinese-state-owned-companies-after-approval/>
+
+---
+
+## The Cadillac Escalade IQ Could Be The Most Expensive Three-Row EV On Sale
+
+date: 2024-07-10, from: Inside EVs News
+
+Nobody ever said an Escalade would be cheap, and the electric one certainly isn't. The IQ is reported to start at $129,990. 
+
+<https://insideevs.com/news/726144/cadillac-escalade-iq-pricing-revealed/>
+
+---
+
+## Porsche Might Reduce Taycan Production After Sales Tanked In H1 2024
+
+date: 2024-07-10, from: Inside EVs News
+
+In the first half of the year, the volume decreased by 51%. 
+
+<https://insideevs.com/news/726013/porsche-taycan-production-concern-sales-2024q2/>
+
+---
+
+## Volkswagen’s EV troubles deepen with possible Audi plant closure
+
+date: 2024-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Volkswagen-Audi-plant-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volkswagen may close its first plant in Europe ever. As it looks to cut costs amid falling EV sales, <a href="https://electrek.co/guides/volkswagen/">Volkswagen</a> warned a possible Audi assembly plant closure in Brussels is an option.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="audi,volkswagen,vw" data-layer-viewtype="unknown" data-post-id="371039" href="https://electrek.co/2024/07/10/volkswagens-ev-troubles-deepen-possible-audi-plant-closure/#more-371039" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/10/volkswagens-ev-troubles-deepen-possible-audi-plant-closure/>
+
+---
+
+## Are Half Of EV Owners Really 'Switching Back' To Gas? It's Complicated.
+
+date: 2024-07-10, from: Inside EVs News
+
+A new McKinsey study is being used as ammo against EVs. In reality, the next wave of EV buyers need more help than they're getting. 
+
+<https://insideevs.com/news/726008/mckinsey-study-half-ev-buyers/>
+
+---
+
+## XPeng’s first EV to utilize pure vision will be called the P7+ and we have our first images of it
+
+date: 2024-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/XPeng-Pure-vision-P7-plus-rear.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>One day after reports stated XPeng’s next BEV will abandon LiDAR for pure vision cameras, the Chinese automaker has confirmed its official model name and shared first images. Here’s what we know about the BEV, called the P7+, which <a href="https://electrek.co/guides/xpeng/">XPeng’s</a> founder says is on a “mission to open a new era of intelligent driving.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="xpeng,xpeng-motors,xpeng-p7" data-layer-viewtype="unknown" data-post-id="371041" href="https://electrek.co/2024/07/10/xpeng-first-ev-pure-vision-called-the-p7-first-images/#more-371041" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/10/xpeng-first-ev-pure-vision-called-the-p7-first-images/>
+
+---
+
+## The Xpeng P7+ Chases Tesla With Camera-Only Automated Driving
+
+date: 2024-07-10, from: Inside EVs News
+
+China's throwing down the gauntlet in the self-driving car race now too, and this offering from Xpeng is running the Tesla playbook. 
+
+<https://insideevs.com/news/726127/xpeng-p7-lidar-new-reveal/>
+
+---
+
+## ZEEKR confirms its new SUV codenamed ‘CX1e’ will be called the 7X and shares more images
+
+date: 2024-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/ZEEKR-7X-Camo.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Twenty-four hours after camouflaged images emerged of <a href="https://electrek.co/guides/zeekr/">ZEEKR’s</a> second mass-market BEV, internally codenamed “CX1e,” the Chinese automaker has confirmed it will be called the 7X. Below, we have the first official image of the family-friendly SUV and some new specs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="zeekr,zeekr-7x,zeekr-cx1e" data-layer-viewtype="unknown" data-post-id="371030" href="https://electrek.co/2024/07/10/zeekr-confirms-new-suv-cx1e-will-be-called-7x-and-shares-images/#more-371030" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/10/zeekr-confirms-new-suv-cx1e-will-be-called-7x-and-shares-images/>
 
 ---
 
@@ -41,7 +421,7 @@ date: 2024-07-10, from: Electrek Feed
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="371007" href="https://electrek.co/2024/07/10/ford-unveils-new-capri-ev-400-mi-range-sports-car-speed/#more-371007" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="371007" href="https://electrek.co/2024/07/10/ford-unveils-new-capri-ev-400-mi-range-sports-car-speed/#more-371007" class="more-link">more…</a> 
 
 <https://electrek.co/2024/07/10/ford-unveils-new-capri-ev-400-mi-range-sports-car-speed/>
 
@@ -57,7 +437,7 @@ They were already a tiny fraction of the market. Then, last quarter, sales dropp
 
 ---
 
-## Here's Can-Am's New EV ATV Way Before You're Supposed to See It
+## Can-Am's New EV ATV Looks Wild, Is Ready to Silently Conquer the Trails
 
 date: 2024-07-10, from: Ride Apart, Electric Motorcycle News
 
@@ -87,7 +467,7 @@ It has no connection to the classic fastback coupe, and it’s secretly a Volksw
 
 ---
 
-## Italjet Shares Details On The Dragster 700 Twin, Says It's Not A Scooter
+## UPDATE: Italjet Shares Details On Dragster 700 Twin, Says It's Not A Scooter
 
 date: 2024-07-10, from: Ride Apart, Electric Motorcycle News
 

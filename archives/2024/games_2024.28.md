@@ -1,11 +1,111 @@
 ---
 title: games 2024.28
-updated: 2024-07-10 08:06:36
+updated: 2024-07-11 07:40:34
 ---
 
 # games 2024.28
 
-(date: 2024-07-10 08:06:36)
+(date: 2024-07-11 07:40:34)
+
+---
+
+## Not sure what game to play? Leave a comment, we’ll help
+
+date: 2024-07-11, updated: 2024-07-11, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gaming/24194971/best-game-play-tonight-recommendations-pc>
+
+---
+
+## Longlegs, billed as 2024’s scariest horror movie, is actually pretty hilarious
+
+date: 2024-07-11, updated: 2024-07-11, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24195330/longlegs-review>
+
+---
+
+## Board games, books, movies, and more are buy 2, get 1 free at Target
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24195183/target-buy-two-get-one-free-gaming-tabletop-deal-sale>
+
+---
+
+## How to get free Solar Fusion Energy and Lunar Fusion Energy with codes in Pokémon Go
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24195548/solar-fusion-energy-lunar-fusion-how-to-get>
+
+---
+
+## Complete your Final Fantasy 7 experience with PlayStation Plus’ July games
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24195896/playstation-plus-july-2024-monthly-games-list>
+
+---
+
+## Zenless Zone Zero codes for July 2024
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/zenless-zone-zero-guides/24191640/zzz-codes-redeem-redemption-gift-polychrome>
+
+---
+
+## Where to find HIA Coins in Zenless Zone Zero
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/zenless-zone-zero-guides/24195730/hia-coin-locations-where-to-find-zzz>
+
+---
+
+## Will Johnson, Shedeur Sanders lead list of top 100 players in EA Sports College Football 25
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24195781/ea-sports-college-football-25-player-rankings-ratings-top-100>
+
+---
+
+## All DLC armor locations in Elden Ring Shadow of the Erdtree
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180255/all-new-dlc-armor-set-locations>
+
+---
+
+## How to complete Chivalrous Spirit Medal IV in Zenless Zone Zero
+
+date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/zenless-zone-zero-guides/24195745/zzz-chivalrous-spirit-medal-iv-404-error-live-house-bangboo-locations>
 
 ---
 
@@ -26,16 +126,6 @@ date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
  
 
 <https://www.polygon.com/24195100/sandman-season-2-cast-release-date-netflix>
-
----
-
-## How to get free Solar Fusion Energy and Lunar Fusion Energy with codes in Pokémon Go
-
-date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
-
- 
-
-<https://www.polygon.com/pokemon-go-guide/24195548/solar-fusion-energy-lunar-fusion-how-to-get>
 
 ---
 

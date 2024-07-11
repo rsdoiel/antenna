@@ -1,11 +1,400 @@
 ---
 title: pacific 2024.28
-updated: 2024-07-10 08:06:32
+updated: 2024-07-11 07:40:31
 ---
 
 # pacific 2024.28
 
-(date: 2024-07-10 08:06:32)
+(date: 2024-07-11 07:40:31)
+
+---
+
+## US House Republicans demand regulatory reviews after Supreme Court ruling
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; Republicans in the U.S. House of Representatives have asked all federal agencies to begin reviews of regulations that could be affected by a recent Supreme Court ruling overturning a legal precedent known as &#8220;Chevron deference,&#8221; in letters released on Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/nation-world-news/us-house-republicans-demand-regulatory-reviews-after-supreme-court-ruling/>
+
+---
+
+## Biden announces tariffs on Chinese metals routed through Mexico
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Biden administration took steps Wednesday to prevent China from circumventing U.S. tariffs on Chinese steel and aluminum by routing those imports through Mexico.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/nation-world-news/biden-announces-tariffs-on-chinese-metals-routed-through-mexico/>
+
+---
+
+## Trump steps up attacks on Harris, stays silent on running mate pick
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>Republican presidential candidate Donald Trump ratcheted up his attacks on Vice President Kamala Harris at a rally near Miami on Tuesday after press time, trying to discredit her as the Democratic Party tussles over whether President Joe Biden should remain in the race.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/nation-world-news/trump-steps-up-attacks-on-harris-stays-silent-on-running-mate-pick/>
+
+---
+
+## Boeing’s Starliner astronauts put ‘trust’ in decision makers before return to Earth
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>NASA astronauts Butch Wilmore and Suni Williams spoke with media for the first time since arriving at the International Space Station on Boeing&#8217;s CST-100 Starliner last month as they await more tests on the vehicle that suffered thruster and leak issues after launch.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/nation-world-news/boeings-starliner-astronauts-put-trust-in-decision-makers-before-return-to-earth/>
+
+---
+
+## A late play by the Biden campaign: Running out the clock
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>President Joe Biden&#8217;s resistance to pressure to end his reelection bid appears to be a strategy aimed at running out the clock, a play to leave his party so little time to come up with another candidate that his opponents stand down.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/nation-world-news/a-late-play-by-the-biden-campaign-running-out-the-clock/>
+
+---
+
+## In ‘Rust’ trial, Alec Baldwin accused of breaking gun rules; defense blames experts
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>SANTA FE, New Mexico &#8212; A New Mexico prosecutor on Wednesday said Alec Baldwin broke &#8220;cardinal rules&#8221; for handling guns in the 2021 killing of &#8220;Rust&#8221; cinematographer Halyna Hutchins, while his lawyer said he was failed by the movie&#8217;s set safety experts who already have been convicted in the case.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/nation-world-news/in-rust-trial-alec-baldwin-accused-of-breaking-gun-rules-defense-blames-experts/>
+
+---
+
+## Biden faces fresh calls to withdraw as Democrats fear electoral rout
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden faced a fresh wave of pressure on Wednesday to end his campaign or rethink his decision to run for reelection, as Democrats from Hollywood to Capitol Hill aired grave concerns that he would lose to former President Donald Trump in November and drag his party&#8217;s chance of controlling Congress down with him.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/nation-world-news/biden-faces-fresh-calls-to-withdraw-as-democrats-fear-electoral-rout/>
+
+---
+
+## Ocasio-Cortez seeks US House impeachment of Supreme Court’s Thomas, Alito
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Liberal Democratic U.S. Representative Alexandria Ocasio-Cortez has introduced articles of impeachment against conservative U.S. Supreme Court Justices Clarence Thomas and Samuel Alito, her office said on Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/nation-world-news/ocasio-cortez-seeks-us-house-impeachment-of-supreme-courts-thomas-alito/>
+
+---
+
+## US House approves Trump-backed bill on non-citizen voting
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Republican-controlled U.S. House of Representatives, fueled by Donald Trump&#8217;s false claims about election fraud, approved a bill on Wednesday that would ban non-citizens from registering to vote in federal elections, a rare practice that is already illegal.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/nation-world-news/us-house-approves-trump-backed-bill-on-non-citizen-voting/>
+
+---
+
+## NASA awards contract to UH worth up to $85.5M
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>A Maunakea telescope that is used to identify asteroids and comets that might pose a threat to Earth likely will continue operating through the end of 2033.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/hawaii-news/nasa-awards-contract-to-uh-worth-up-to-85-5m/>
+
+---
+
+## As NATO gathers in Washington, leaders urged to remember Hawaii
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; As NATO leaders gather in Washington for their 75th anniversary summit this week, a dozen U.S. senators asked them on Wednesday to plug what they see as a Hawaii-sized hole in the North Atlantic Treaty, the military alliance&#8217;s founding document.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/hawaii-news/as-nato-gathers-in-washington-leaders-urged-to-remember-hawaii/>
+
+---
+
+## US and allies aim to forge commitments to Ukraine that will endure
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The United States and its NATO allies have agreed that Ukraine should have an &#8220;irreversible&#8221; path to membership in the alliance, enshrining the phrase in a document that was released Wednesday during the alliance&#8217;s summit in Washington.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/nation-world-news/us-and-allies-aim-to-forge-commitments-to-ukraine-that-will-endure/>
+
+---
+
+## Road and sidewalk repairs begin in downtown Hilo
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>The Department of Public Works Division and Jas Glover Ltd. have begun road and sidewalk repairs on Kilauea Avenue and Keawe Street from Ponahawai Street to Waianuenue Avenue.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/hawaii-news/road-and-sidewalk-repairs-begin-in-downtown-hilo/>
+
+---
+
+## Obituaries for July 11
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>Chandler Charles, 68, of Hawaii Island died Jan. 26. No known family. Survivors are asked to contact Hilo Benioff Medical Center at (808) 932-3500, option 4.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/obituaries/obituaries-for-july-11-10/>
+
+---
+
+## Wimbledon recap: Fritz and Musetti match analysis, Djokovic walkover empties Centre Court
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>Taylor Fritz is the last American to leave the All England Club. The No 12 seed went down to Italy&#8217;s No 25 seed, with Lorenzo Musetti winning 3-6, 7-6, 6-2, 3-6, 6-1 in three hours and 27 minutes, turning on the style in the fifth set.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/sports/wimbledon-recap-fritz-and-musetti-match-analysis-djokovic-walkover-empties-centre-court/>
+
+---
+
+## The toll of starting a golf career so young
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>Asterisk Talley was faced with a tricky question after she made the cut at the U.S. Women&#8217;s Open, the second women&#8217;s major of the year. Would she have time to finish the homework that her teachers back home had assigned?</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/sports/the-toll-of-starting-a-golf-career-so-young/>
+
+---
+
+## Warriors picked to finish ninth in MWC media poll
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>LAS VEGAS &#8212; The University of Hawaii football team is predicted to finish ninth in the 12-team Mountain West Conference, according to a preseason poll selected by a media panel.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/sports/warriors-picked-to-finish-ninth-in-mwc-media-poll/>
+
+---
+
+## UH players Nusterer, Matias lending a hand in club volleyball
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>For Hawaii men&#8217;s volleyball middle blocker Kurt Nusterer, the joy in coaching is seeing kids experience moments he cherishes as his &#8220;special memories&#8221; when he was their age.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/sports/uh-players-nusterer-matias-lending-a-hand-in-club-volleyball/>
+
+---
+
+## Davis making a name for himself in pro rugby
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>Many Big Island student-athletes have gone on to have successful collegiate careers on the mainland. But one Kailua-Kona native is putting everyone on notice on the professional stage.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/sports/davis-making-a-name-for-himself-in-pro-rugby/>
+
+---
+
+## Last-minute Watkins winner sends England into Euros final
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>DORTMUND &#8212; Substitute Ollie Watkins scored a stoppage-time winner to send England through to their second successive European Championship final on Wednesday as they finally turned on the style to beat Netherlands 2-1 on a memorable night in Dortmund.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/sports/last-minute-watkins-winner-sends-england-into-euros-final/>
+
+---
+
+## Democrats’ only play is for Joe Biden to resign citing medical reasons
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>Joe Biden is toast, and with the media now sharply focused on his medical condition, the best scenario for Democrats is that the president resigns and turns the Oval Office keys over to Kamala Harris.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/opinion/democrats-only-play-is-for-joe-biden-to-resign-citing-medical-reasons/>
+
+---
+
+## It’s time to end the two-cultures era between science and the humanities
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>The melody of human progress up to the present has played on two grand instruments: science and the humanities. But for the last few hundred years, these instruments have been treated as separate entities, one concerned with the physical world and validated by objective empirical testing, the other, largely, with subjective selfhood and human meaning.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/opinion/its-time-to-end-the-two-cultures-era-between-science-and-the-humanities/>
+
+---
+
+## Your Views for July 11
+
+date: 2024-07-11, from: Hawaii Tribune Harold
+
+
+				<p>Ruling by SCOTUS&#0010;makes little sense</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/11/opinion/your-views-for-july-11-9/>
+
+---
+
+## Taiwan helps epilepsy diagnostics
+
+date: 2024-07-11, from: Marshal Islands Journal
+
+<p>The Marshall Islands faces significant challenges in effectively managing epilepsy, which is an illness of concern for the Ministry of Health and Human Services. “A major obstacle in the medical field is the lack of necessary resources and expertise for accurate diagnosis and treatment of epilepsy,” said the Taiwan Health Center in a release last [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/taiwan-helps-epilepsy-diagnostics/">Taiwan helps epilepsy diagnostics</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/taiwan-helps-epilepsy-diagnostics/>
+
+---
+
+## Nauru eyes Honolulu route
+
+date: 2024-07-11, from: Marshal Islands Journal
+
+<p>A Nauru Airlines delegation met with the RMI Cabinet at the end of June to discuss opportunities for air service to Honolulu. This followed on a meeting between Nauru Airlines representatives, led by Deputy Minister of Aviation Maverick Eoe, and a large gathering of aviation-related business people and RMI agencies. On June 26, the Nauru [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/nauru-eyes-honolulu-route/">Nauru eyes Honolulu route</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/nauru-eyes-honolulu-route/>
+
+---
+
+## Pacific TAFE attains re-accreditation
+
+date: 2024-07-11, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific’s (USP) Pacific Technical and Further Education (Pacific TAFE) has...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/pacific-tafe-attains-re-accreditation/">Pacific TAFE attains re-accreditation</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/pacific-tafe-attains-re-accreditation/>
+
+---
+
+## USP Welcomes International Media Expert for Landmark Pacific Media Conference
+
+date: 2024-07-10, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) Journalism Programme hosted renowned media studies professor Cherian...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-welcomes-international-media-expert-for-landmark-pacific-media-conference/">USP Welcomes International Media Expert for Landmark Pacific Media Conference</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-welcomes-international-media-expert-for-landmark-pacific-media-conference/>
+
+---
+
+## Capital building to be demolished
+
+date: 2024-07-10, from: Marshal Islands Journal
+
+<p>After years of sitting dormant, largely unused and deteriorating, the former RMI capital building is slated for demolition to make way for construction of a new capital building. Cabinet issued an instruction to the Ministry of Works, Infrastructure and Utilities to move the plan forward by engaging Pacific International Inc. to perform the demolition work. [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/capital-building-to-be-demolished/">Capital building to be demolished</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/capital-building-to-be-demolished/>
+
+---
+
+## Farewell Karen, and Welcome Penny!
+
+date: 2024-07-10, from: Island Conservation News
+
+<p>After 8 impactful years, Dr. Karen Poiani officially hands the reins over to our new Chief Executive Officer – Dr. Penny Becker!</p>
+<p>The post <a href="https://www.islandconservation.org/farewell-karen-and-welcome-penny/">Farewell Karen, and Welcome Penny!</a> appeared first on <a href="https://www.islandconservation.org">Island Conservation</a>.</p>
+ 
+
+<https://www.islandconservation.org/farewell-karen-and-welcome-penny/>
+
+---
+
+## Coinquilina
+
+date: 2024-07-10, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Sarah Brockhaus When I talk about want I mean a seagull taking flight against a dark night sky in Italy. I am on my own, craving vicinity more than love, someone to share the kitchen with. I pause to &#8230; <a href="https://hawaiipacificreview.org/2024/07/10/coinquilina/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/07/10/coinquilina/>
+
+---
+
+## 2024 Diamond Head Classic Teams Unveiled
+
+date: 2024-07-10, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+ 
+
+<https://www.manoanow.org/kaleo/2024-diamond-head-classic-teams-unveiled/article_2fd58a04-3ee7-11ef-85e5-67171382bc56.html>
+
+---
+
+## Image of the Week: Ipe tree
+
+date: 2024-07-10, from: University of Hawaiʻi News
+
+<p>This week's image is from <abbr>UH</abbr> Mānoa's Richard Criley.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/10/image-of-the-week-ipe-tree/">Image of the Week: Ipe tree</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/10/image-of-the-week-ipe-tree/>
+
+---
+
+## ‘Wall of shame’ faces mounting protests
+
+date: 2024-07-10, from: Pacific Island Times
+
+Guam's attorney general criticized over billboard with mugshots of convicted aliens By Mar-Vic Cagurangan Guam’s attorney general is... 
+
+<https://www.pacificislandtimes.com/post/wall-of-shame-faces-mounting-protests-guam-ag-criticized-over-mugshots-billboard>
 
 ---
 
@@ -321,6 +710,54 @@ date: 2024-07-10, from: Hawaii Tribune Harold
 
 ---
 
+## Suspects sought in assault, robbery near new county homeless camp
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>Police are seeking information about an assault and robbery that occurred Tuesday afternoon near the new Hawaii County homeless camp located off Ponahawai Street in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/hawaii-news/suspects-sought-in-assault-robbery-near-new-county-homeless-camp/>
+
+---
+
+## Japanese national who caused scare at Hilo airport has been released
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>A Japanese national whose alleged actions caused a closure of Hilo International Airport early Tuesday morning has been released from police custody pending further investigation.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/hawaii-news/japanese-national-who-caused-scare-at-hilo-airport-has-been-released/>
+
+---
+
+## Alleged kidnap victim found in good health, police say
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>Police have identified the victim in the alleged abduction Sunday night in the parking lot of the Puainako Town Center.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/hawaii-news/alleged-kidnap-victim-found-in-good-health-police-say/>
+
+---
+
+## Volcano man accused of wild drive in stolen Jeep
+
+date: 2024-07-10, from: Hawaii Tribune Harold
+
+
+				<p>A 43-year-old Volcano man was arrested after allegedly leading officers on a high-speed chase in Hilo on the Fourth of July in a stolen Jeep.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/10/hawaii-news/volcano-man-accused-of-wild-drive-in-stolen-jeep/>
+
+---
+
 ## IAS Hosts Research Communication Workshop
 
 date: 2024-07-10, from: University of the South Pacific (Fiji)
@@ -333,12 +770,12 @@ date: 2024-07-10, from: University of the South Pacific (Fiji)
 
 ---
 
-## Staff efforts lauded for MA in Climate Change Ranking
+## Staff efforts lauded for MSc in Climate Change Ranking
 
 date: 2024-07-10, from: University of the South Pacific (Fiji)
 
 <p>The University of the South Pacific’s (USP) Master of Science in Climate Change programme attained...</p>
-<p>The post <a href="https://www.usp.ac.fj/news/staff-efforts-lauded-for-ma-programme-in-climate-change-ranking/">Staff efforts lauded for MA in Climate Change Ranking</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+<p>The post <a href="https://www.usp.ac.fj/news/staff-efforts-lauded-for-ma-programme-in-climate-change-ranking/">Staff efforts lauded for MSc in Climate Change Ranking</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
  
 
 <https://www.usp.ac.fj/news/staff-efforts-lauded-for-ma-programme-in-climate-change-ranking/>

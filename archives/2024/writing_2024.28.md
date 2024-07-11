@@ -1,11 +1,211 @@
 ---
 title: writing 2024.28
-updated: 2024-07-10 08:06:36
+updated: 2024-07-11 07:40:34
 ---
 
 # writing 2024.28
 
-(date: 2024-07-10 08:06:36)
+(date: 2024-07-11 07:40:34)
+
+---
+
+## 2025 Salam Award Writers Workshop Applications Open
+
+date: 2024-07-10, from: Locus Magazine
+
+<div>The Salam Award Writers Workshop is open for applications for its 2025 session.</div>
+<div></div>
+<div>The workshop will be held February 17-27, 2025 in Lahore, Pakistan. Karen Joy Fowler and Amal El-Mohtar are the lead instructors. There will be a Clarion/Milford style workshop, lectures on craft, guest sessions from members of the Salam Award board, and a sightseeing tour. </div>
+
+<div>Since 2017, The Salam Award has honored the best Pakistani and Pakistani-diaspora writing </div> <a href="https://locusmag.com/2024/07/2025-salam-award-writers-workshop-applications-open/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/07/2025-salam-award-writers-workshop-applications-open/>
+
+---
+
+## 2024 Prix Rosny Aîné Shortlist
+
+date: 2024-07-10, from: Locus Magazine
+
+<p>The shortlist for the 2024 Prix Rosny Aîné has been announced. The prize is awarded to SF novels and short stories written in French and published in print in 2023.</p>
+<p><strong>Best Novel</strong></p>
+<ul>
+<li><strong>Les Contes suspendus</strong>, Guillaume Chamanadjian (Forges Vulcan)</li>
+<li><strong>L’Armée fantoche</strong>, Claire Duvivier (Forges Vulcan)</li>
+<li><strong>La Cité diaphane</strong>, Anouck Faure (Argyll)</li>
+<li><strong>Paideia</strong>, Claire Garand (Volte)</li>
+<li><strong>Tonnerre après les ruines</strong>, Floriane Soulas (Argyll)</li>
+</ul>
+<p><strong>Best Short Story</strong> <a href="https://locusmag.com/2024/07/2024-prix-rosny-aine-shortlist/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/2024-prix-rosny-aine-shortlist/>
+
+---
+
+## 2024 Heinlein Scholarship Recipients
+
+date: 2024-07-10, from: Locus Magazine
+
+<p>Winners of the Heinlein Society&#8217;s annual undergraduate scholarships for the 2024-2025 academic year were announced on July 7, 2024, Robert A. Heinlein&#8217;s 116th birthday.</p>
+<p>This year&#8217;s winners are Gabriel Black, Elizabeth Bradshaw, Maya Krolik, and Luxanna Sands. The scholarship awards $4,000 to each recipient. Winners were selected from a record 744 applications, including 40 international submissions from 28 different countries.</p>
+<p>Krolik received the Virginia Heinlein Memorial Scholarship, which is dedicated  <a href="https://locusmag.com/2024/07/2024-heinlein-scholarship-recipients/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/2024-heinlein-scholarship-recipients/>
+
+---
+
+## 2024 CSFFA Hall of Fame Inductees
+
+date: 2024-07-10, from: Locus Magazine
+
+<p>The Canadian Science Fiction &#38; Fantasy Association (CSFFA) announced three inductees to the Canadian Science Fiction and Fantasy Hall of Fame for 2024: Astronaut Chris A. Hadfield  and authors Nalo Hopkinson and Jo Walton.</p>
+<p>This year&#8217;s jury included Ryah Deines, Gordon Johansen, Rebecca Lovatt, Michelle Sagara, and chair David Clink.</p>
+<p>For more information, see the CSFFA website.</p>
+
+<p><strong>While you are here,</strong> please take a moment to support Locus with a  <a href="https://locusmag.com/2024/07/2024-csffa-hall-of-fame-inductees/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/2024-csffa-hall-of-fame-inductees/>
+
+---
+
+## 2024 Munsey Award Nominees
+
+date: 2024-07-10, from: Locus Magazine
+
+<p>PulpFest has announced the nominees for the 2024 Munsey Award, given to &#8220;an individual or organization that has bettered the pulp community.&#8221; Nominees are selected by the general pulp community, with the winner selected by a vote of past Lamont, Munsey, and Rusty Awards winners. The nominees are:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li>John Betancourt</li>
+<li>Gene Christie</li>
+<li>John DeWalt</li>
+<li>Henry G. Franke III</li>
+<li>Steve Lewis</li>
+<li>Chris Kalb</li>
+<li>William Patrick Maynard</li>
+<li>Gary Phillips</li>
+<li>Sheila Vanderbeek</li>
+<li>Chuck </li></ul></div> <a href="https://locusmag.com/2024/07/2024-munsey-award-nominees/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/07/2024-munsey-award-nominees/>
+
+---
+
+## 2024 Phantastikpreis der Stadt Wetzlar Shortlist
+
+date: 2024-07-10, from: Locus Magazine
+
+<p>The shortlist has been announced for the 2024 Phantastikpreis der Stadt Wetzlar, a speculative fiction prize awarded by the city of Wetzlar, Germany:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Endling</strong>, Jasmin Schreiber (Eichborn) </li>
+<li><strong>Dreizehnfurcht</strong>, Wieland Freund (Klett-Cotta) </li>
+<li><strong>Phytopia Plus</strong>, Zara Zerbe (Verbrecher Verlag)</li>
+</ul>
+</div>
+<p>The winner will be announced in mid-July, with a public award ceremony in September 2024. The winner receives €4000. For more information, visit the award website.</p>
+
+<p><strong>While you are here,</strong> <a href="https://locusmag.com/2024/07/2024-phantastikpreis-der-stadt-wetzlar-shortlist/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/2024-phantastikpreis-der-stadt-wetzlar-shortlist/>
+
+---
+
+## Can you become a screenwriter outside of LA?
+
+date: 2024-07-10, from: Interesting, a blog on writing
+
+You can make it there, but can you make it anywhere? 
+
+<https://inneresting.substack.com/p/can-you-become-a-screenwriter-outside>
+
+---
+
+## Write On: 'A Family Affair' Writer Carrie Solomon
+
+date: 2024-07-10, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-a-family-affair-writer-carrie-solomon" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Family%20Affair%20Writer%20Carrie%20Solomon.png" alt="Write On: 'A Family Affair' Writer Carrie Solomon" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“I came up doing improv where failure is the golden standard. And in improv, if you're not failing, you're doing something wrong. I feel really lucky that that was one of my bridges into entertainment and creativity, to have such a loving relationship with failure because, boy! As a writer, your days are filled with it and rejection and killing your darlings. I think comedy and improv have taught me how wonderful failure can be and how much we can get out of it for sure,” says Carrie Solomon, writer of the new Netflix romantic comedy, A Family Affair starring Nicole Kidman and Zac Ephron.&nbsp;</p> 
+
+<https://blog.finaldraft.com/write-on-a-family-affair-writer-carrie-solomon>
+
+---
+
+## Where Have I Been?
+
+date: 2024-07-10, from: Margaret Atwoods Substack
+
+Yes, I promised you more French Revolution... 
+
+<https://margaretatwood.substack.com/p/where-have-i-been>
+
+---
+
+## 2024 Dagger Awards Winners
+
+date: 2024-07-10, from: Locus Magazine
+
+<p>The Crime Writers&#8217; Association (CWA) announced the winners for the 2024 Dagger Awards.</p>
+<p>Jake Lamar&#8217;s <strong>Viper&#8217;s Dream</strong> (No Exit Press) won in the Historical Dagger category, and Anthony Horowitz won The Dagger in the Library, for &#8220;a body of work by an established writer of crime fiction or non-fiction who has long been popular with borrowers from libraries.&#8221;</p>
+<p>As previously announced, James Lee Burke and Lynda La Plante were joint  <a href="https://locusmag.com/2024/07/2024-dagger-awards-winners/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/2024-dagger-awards-winners/>
+
+---
+
+## 2024 Prometheus Awards Winners
+
+date: 2024-07-10, from: Locus Magazine
+
+<p>The Libertarian Futurist Society (LFS) has announced <strong>Critical Mass </strong>by Daniel Suarez (Dutton) as the winner of the Prometheus Award in the Best Novel category, honoring pro-freedom works published in 2023. Other nominees were:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Theft of Fire</strong>, Devon Eriksen (self-published)</li>
+<li><strong>Swim Among The People</strong>, Karl K. Gallagher (Kelt Haven)</li>
+<li><strong>God&#8217;s Girlfriend</strong>, Dr. Insensitive Jerk (self-published)</li>
+<li><strong>Lord of a Shattered Land</strong>, Howard Andrew Jones (Baen)</li>
+</ul>
+</div>
+<p><strong>The Truth </strong> <a href="https://locusmag.com/2024/07/2024-prometheus-awards-winners/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/2024-prometheus-awards-winners/>
+
+---
+
+## 2024 Sir Julius Vogel Award Winners
+
+date: 2024-07-10, from: Locus Magazine
+
+<p>Winners for the 2024 Sir Julius Vogel Awards have been announced by the Science Fiction and Fantasy Association of New Zealand (SFFANZ).</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Novel</strong></p>
+<ul>
+<li>WINNER: <strong>A New Eden, </strong>Menilik Henry Dyer (Podium)</li>
+</ul>
+<ul>
+<li><strong>Turncoat</strong>, Tīhema Baker (Lawrence &#38; Gibson)</li>
+<li><strong>A Wolf in the Garden</strong>, Allegra Hall (self-published)</li>
+<li><strong>Decimus and the Wary Widow</strong>, Emily Larkin (self-published)</li>
+<li><strong>Ghosts of the Catacombs</strong>, Janna Ruth (self-published)</li>
+</ul>
+<p><strong>Best Youth Novel</strong></p>
+<ul>
+<li>WINNER: <strong>A </strong></li></ul></div> <a href="https://locusmag.com/2024/07/2024-sir-julius-vogel-award-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/07/2024-sir-julius-vogel-award-winners/>
+
+---
+
+## Ian Mond Reviews Rakesfall by Vajra Chandrasekera
+
+date: 2024-07-10, from: Locus Magazine
+
+<p><strong>Rakesfall</strong>, Vajra Chandrasekera (Tordotcom 978-1-25084-768-3, $27.99, 304pp, hc) June 2024.</p>
+<p>To quote Tom Clancy (or was it Jeff Bezos?), it takes ten years to become an overnight success. I suspect Vajra Chandrasekera can relate. He spent a decade working on his craft, with short fiction published in various genre magazines and anthologies. Then, last year, Chandrasekera published his first novel, <strong>The Saint of Bright Doors</strong>, which immediately caught  <a href="https://locusmag.com/2024/07/ian-mond-reviews-rakesfall-by-vajra-chandrasekera/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/ian-mond-reviews-rakesfall-by-vajra-chandrasekera/>
 
 ---
 
@@ -25,7 +225,7 @@ Who reads romance novels?
 
 <p>Romance novel sales started growing in the 1970s, when Harlequin, the leading publisher of the genre, started selling its books in locations other than bookstores. As <a href="https://freakonomics.com/podcast/romance-novels/" target="_blank">this episode of the Freakonomics podcast</a> explains, &ldquo;You could walk into a supermarket or drugstore, and find yourself face-to-face with an alpha-male in a ruffled shirt, his eyes glinting at you from the cover of a paperback.&rdquo; Easy to buy, easy to read, these early romance novels appealed to a captive audience, women shopping.</p>
 
-<p>Romance novel enthusiasts are voracious readers. &ldquo;Industry data shows that around half of all romance readers go through at least one novel every week. Some read as many as 30 a month.&rdquo; Romance novels represent 23% of book sales in the US, and <a href="https://www.npr.org/2023/06/02/1179850128/even-as-overall-book-sales-are-declining-romance-novels-are-on-the-rise" target="_blank">it is the genre that has been growing the most in recent years, as overall book sales are declining</a>.</p>
+<p>Romance novel enthusiasts are voracious readers. &ldquo;Industry data shows that around half of all romance readers go through at least one novel every week. Some read as many as 30 a month.&rdquo; Romance novels represent 23% of book sales in the US, and <a href="https://www.npr.org/2023/06/02/1179850128/even-as-overall-book-sales-are-declining-romance-novels-are-on-the-rise" target="_blank">it is the genre that has been growing the most in recent years, as overall book sales are declining</a>. And <a href="https://www.nytimes.com/2024/07/07/books/romance-bookstores.html">bookstores specializing in romance novels</a> have become popular in the US.&nbsp;</p>
 
 The history of the romance novel
 

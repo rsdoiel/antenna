@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.28
-updated: 2024-07-10 08:06:37
+updated: 2024-07-11 07:40:35
 ---
 
 # libraries 2024.28
 
-(date: 2024-07-10 08:06:37)
+(date: 2024-07-11 07:40:35)
+
+---
+
+## Kitchen Essentials: An Interview with Richard Jefferson of The Lens
+
+date: 2024-07-11, from: Scholarly Kitchen
+
+<p>In today’s Kitchen Essentials, Roger Schonfeld speaks with Richard Jefferson, founder of The Lens, which enables discovery and analysis for scholarly works, patents, and patent sequences. </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/07/11/kitchen-essentials-richard-jefferson-the-lens/">Kitchen Essentials: An Interview with Richard Jefferson of The Lens</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/07/11/kitchen-essentials-richard-jefferson-the-lens/>
 
 ---
 
@@ -58,7 +70,7 @@ date: 2024-07-09, from: Scholarly Kitchen
 
 date: 2024-07-08, from: Association of Research Libraries News
 
-<p>Last Updated on July 9, 2024, 2:49 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 9 &#124; Wednesday, July 10 &#124; Thursday,...</p>
+<p>Last Updated on July 10, 2024, 4:21 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 9 &#124; Wednesday, July 10 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-8-11/">Day in Review (July 8-11)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

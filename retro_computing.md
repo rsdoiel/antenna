@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.28
-updated: 2024-07-10 08:06:38
+updated: 2024-07-11 07:40:36
 ---
 
 # retro computing 2024.28
 
-(date: 2024-07-10 08:06:38)
+(date: 2024-07-11 07:40:36)
+
+---
+
+## Google Extends Support for Linux kernels Used for Android
+
+date: 2024-07-11, from: Linux Magazine
+
+<p>Because the LTS Linux kernel releases are so important to Android, Google has decided to extend the support period beyond that offered by the kernel development team.</p> 
+
+<http://www.linux-magazine.com/Online/News/Google-Extends-Support-for-Linux-kernels-Used-for-Android>
+
+---
+
+## b.log 2024/07/10 - Messing with a shrink, Teachers.
+
+date: 2024-07-10, from: Richard Murray's blog
+
+Messing with a shrink, Teachers. 
+
+<https://heyrick.eu/blog/index.php?diary=20240710>
 
 ---
 
@@ -90,7 +110,7 @@ The title probably caught your attention: Snow Leopard on a PowerPC Mac… wait 
 
 ---
 
-## b.log 2024/07/07 - Some childhood fiction..
+## b.log 2024/07/07 - Some childhood fiction.
 
 date: 2024-07-07, from: Richard Murray's blog
 

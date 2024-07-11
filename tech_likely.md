@@ -1,11 +1,505 @@
 ---
 title: tech likely 2024.28
-updated: 2024-07-10 08:06:34
+updated: 2024-07-11 07:40:32
 ---
 
 # tech likely 2024.28
 
-(date: 2024-07-10 08:06:34)
+(date: 2024-07-11 07:40:32)
+
+---
+
+## NASA’s Hubble Traces Dark Matter in Dwarf Galaxy Using Stellar Motions
+
+date: 2024-07-11, from: NASA breaking news
+
+The qualities and behavior of dark matter, the invisible “glue” of the universe, continue to be shrouded in mystery. Though galaxies are mostly made of dark matter, understanding how it is distributed within a galaxy offers clues to what this substance is, and how it’s relevant to a galaxy’s evolution. While computer simulations suggest dark […] 
+
+<https://science.nasa.gov/missions/hubble/nasas-hubble-traces-dark-matter-in-dwarf-galaxy-using-stellar-motions/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-11, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/11/25/smallmap.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If you listened to my audio blog posts in the summer of 2004, I recommend subscribing to the <a href="http://scripting.com/podcast0/rss.xml">new podcast0 feed</a>. I just listened to <a href="https://cyber.harvard.edu/blogs/gems/crimson1/coffeeNotesJuly11.mp3">the show</a> from this day 20 years ago. It was quite a throwback, lots of questions about what I was talking about, I've forgotten a lot of it. It took a full hour to prepare the feed. I can tell this is going to be quite a flashback experience. Maybe it'll get me in the mode to do some serious innovating, because we were on fire and didn't know it, in so many ways, back in the summer of 2004. 
+
+<http://scripting.com/2024/07/11.html#a135750>
+
+---
+
+##  Ayo Edebiri Browses the Criterion Collection 
+
+date: 2024-07-11, updated: 2024-07-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/ayo-edebiri-browses-the-criterion-collection>
+
+---
+
+## Attention Civil Servant Retirees
+
+date: 2024-07-11, from: NASA breaking news
+
+NASA’s Glenn Research Center civil servant retirees are invited to attend the 2024 Summerfest!&#160; Wednesday, Aug. 7, 11 a.m. to 2:30 p.m.&#160;&#160; Along Taylor Road at Lewis Field&#160; For more information or to RSVP, contact Kathy Clark at 216–433–8354 or kathy.m.clark@nasa.gov&#160; Registration closes: July 26&#160; 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/attention-civil-servant-retirees/>
+
+---
+
+## You’re Always on That Phone: How Being Online Sustained Sudan’s Youth Revolution
+
+date: 2024-07-11, from: Logic Magazine
+
+
+                <p>Sudanese organizer Dinan Alasad on How Being Online Sustained Sudan’s Youth Revolution </p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/youre-always-on-that-phone-how-being-online-sustained-sudans-youth>
+
+---
+
+## Names I Haven&#8217;t Heard in a Long Time
+
+date: 2024-07-11, updated: 2024-07-11, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/07/11/names-i-havent-heard-in-a-long-time/>
+
+---
+
+## 
+                A little SLIP gateway for my OS/2 Warp 3.0 box
+            
+
+date: 2024-07-11, updated: 2024-07-11, from: Uninformative blog
+
+ 
+
+<https://www.uninformativ.de/blog/postings/2024-07-11/0/POSTING-en.html>
+
+---
+
+## Celebrating the community: Yang
+
+date: 2024-07-11, from: Raspberry Pi (.org)
+
+<p>We love hearing from members of the community and sharing the stories of amazing young people, volunteers, and educators who are using their passion for technology to create positive change in the world around them. In our latest story, we’re heading to London to meet Yang, a Manager in Technology Consulting at EY specialising in&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/celebrating-the-community-yang/">Celebrating the community: Yang</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/celebrating-the-community-yang/>
+
+---
+
+## Firefox 128 bumps system requirements for old boxes
+
+date: 2024-07-11, updated: 2024-07-11, from: Liam Proven's articles at the Register
+
+<h4>Get comfortable, it'll be here for a while</h4>
+      <p>Firefox 128 is out with a relatively modest feature set – but it will also be the latest Extended Support Release (ESR) release, meaning that the end for Firefox 115 is coming into view.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/11/firefox_128_new_esr/>
+
+---
+
+## Zweiter Faktor SMS: Noch schlechter als sein Ruf
+
+date: 2024-07-11, updated: 2024-07-11, from: Chaos Computer Club
+
+Einmalpasswörter werden oft per SMS versendet. Sicherheitsforscher des CCC hatten nun Live-Zugriff auf 200 Millionen solcher SMS von mehr als 200 betroffenen Unternehmen. 
+
+<https://www.ccc.de/de/updates/2024/2fa-sms>
+
+---
+
+## How does electric car adoption vary across US states?
+
+date: 2024-07-11, from: Hannah Richie at Substack
+
+Electric cars tend to be more popular in blue states. Why? 
+
+<https://www.sustainabilitybynumbers.com/p/us-states-electric-cars>
+
+---
+
+## If AI chatbots are the future, I hate it
+
+date: 2024-07-11, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">If AI chatbots are the future, I hate it</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img width="500" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/speedtest-graph-att-dropoff.png" alt="AT&amp;T Fiber Internet - speedtest graph"></p>
+
+<p>About a week ago, my home Internet (AT&amp;T Fiber) went from the ~1 Gbps I pay for down to about 100 Mbps (<a href="https://www.jeffgeerling.com/blog/2021/monitor-your-internet-raspberry-pi">see how I monitor my home Internet with a Pi</a>). It wasn't too inconvenient, and I considered waiting it out to see if the speed recovered at some point, because latency was fine.</p>
+
+<p>But as you can see around 7/7 on that graph, the 100 Mbps went down to about <em>eight</em>, and that's the point where my wife starts noticing how slow the Internet is. Action level.</p>
+
+<p>So I fired up AT&amp;T's support chat. I'm a programmer, I can usually find ways around the wily ways of chatbots.</p>
+
+<p>Except AT&amp;T's AI-powered chatbot seems to have a fiendish tendency to equate 'WiFi' with 'Internet', no doubt due to so many people thinking they are one and the same.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-07-10T20:08:00-05:00" title="Wednesday, July 10, 2024 - 20:08" class="datetime">July 10, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/if-ai-chatbots-are-future-i-hate-it>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-11, from: Dave Winer's Scripting News)
+
+I agree with <a href="https://www.manton.org/2024/07/10/looking-at-my.html">Manton</a>. The way the twitter-alikes do discourse is not the only possible way, and imho, and, as I've said <a href="http://scripting.com/stories/2007/12/17/howSpamWillLikelyEnterTheT.html">before</a> (in 2007!), most of what passes for discourse on twitter is actually spam, and that goes for Masto, Threads, Bluesky and Facebook (aka FriendFeed). 
+
+<http://scripting.com/2024/07/10.html#a003934>
+
+---
+
+##  There&#8217;s a Devil Wears Prada sequel coming&#8230; &#8220;Gird your loins.&#8221;... 
+
+date: 2024-07-10, updated: 2024-07-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044937-theres-a-devil-wears-prad>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-07-10, from: Tomosino's Mastodon feed)
+
+<p>I finished wrapping my choose your own adventure books in paper covers to keep them safe. I also decided to donate all my duplicates and the books from the newer <a href="https://tilde.zone/tags/cyoa" class="mention hashtag" rel="tag">#<span>cyoa</span></a> series. I'm just going to keep those from the 70s-90s.  </p><p>If you weren't aware, I used to have an internet radio show where I read these books and the listeners chose our path. It was a lot of fun and the archives are all on my <a href="https://tilde.zone/tags/gopher" class="mention hashtag" rel="tag">#<span>gopher</span></a> hole. I also have a how-to guide on making paper book covers on there as well. Gopher rules.</p><p>I'm a bit behind on my reading goal for the year because I was reading really really long books in the first half. I think I might run through some of these to make up the difference.</p> 
+
+<https://tilde.zone/@tomasino/112764782663345232>
+
+---
+
+##  XKCD: A Crossword Puzzle 
+
+date: 2024-07-10, updated: 2024-07-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/xkcd-a-crossword-puzzle>
+
+---
+
+## 2024-07-09 Murten
+
+date: 2024-07-10, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-09-murten">2024-07-09 Murten</h1>
+
+<p>We&rsquo;re spending two nights in Murten or Morat. The lake is small with a circumference of about 25km. <a href="2018-murten/index">A few years ago</a> we ran around it – but today we ran about six or seven kilometres before turning back. 13km is enough, these days. We&rsquo;re both out of shape, sadly.</p>
+
+<p>Just after sunset, looking out over the lake.</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-1.jpg" alt="" /></p>
+
+<p>Working on a half-enclosed patio until late into the night. There was drunken shouting to be heard until midnight, on a Monday. I did not know that this sleepy town was so rowdy!</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-2.jpg" alt="" /></p>
+
+<p>The town itself looks unchanged from our last visit in 2018.</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-3.jpg" alt="" /></p>
+
+<p>We ran over to the eastern side of the lake, a protected wetland.</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-4.jpg" alt="" /></p>
+
+<p>Our destination was this village at the foot of <a href="https://en.wikipedia.org/wiki/Mont_Vully">Mont Vully</a>.
+A rather small mountain.</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-5.jpg" alt="" /></p>
+
+<p>It got rather hot so by the time we arrived in Sugiez, I was so very tired. My wife took this picture.</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-6.jpg" alt="" /></p>
+
+<p>Canals connect the lake of Murten, the lake of Neuchâtel and the lake of Bienne. So many motorboats with proud men and underdressed women going up and down the channel. 🙄</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-7.jpg" alt="" /></p>
+
+<p>The first sunflowers are out! My wife took this picture.</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-8.jpg" alt="" /></p>
+
+<p><a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p>
+
+<p><strong>2024-07-10</strong> I was interested in the <a href="https://en.wikipedia.org/wiki/Battle_of_Morat">Battle of Morat</a>.</p>
+
+<blockquote>
+<p>On 22 June 1476, Charles the Bold, Duke of Burgundy, laid siege to the place in an action known as the Battle of Morat. The town hung on for 13 days but finally was saved by the Bernese army. The enemy&rsquo;s army was destroyed completely — some 10,000 Burgundians were killed. Since then, Murten celebrates the victory every year on June 22. – <a href="https://en.wikipedia.org/wiki/Murten">Murten</a>, Wikipedia</p>
+</blockquote>
+
+<p>I was impressed with a black and white image of the battle on the Wikipedia page but felt it didn&rsquo;t have enough resolution. I started looking for a better scan. e-rara, &ldquo;the platform for digitized rare books from Swiss institutions&rdquo; has <a href="https://doi.org/10.3931/e-rara-5076">the book</a>!</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-10.png" alt="A black and white depiction of the battle" /></p>
+
+<p>Die Schlacht bei Murten, Seite 265, aus Stumpf, Johannes: Gemeiner
+loblicher Eydgnoschafft Stetten, Landen und Völckeren Chronick
+wirdiger Thaaten Beschreybung [&hellip;]. Getruckt
+Zürych in der Eydgnoschafft : bey Christoffel Froschouer, 1548.
+Zentralbibliothek Zürich., AW 40: 1-2</p>
+
+<p>In the common room of our place in Murten, I found a very nice reproduction of an image from the Lucerne Chronicle and took a photo using my phone.</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-9.jpg" alt="A colourful depiction of the battle" /></p>
+
+<p>Diebold Schilling der Jüngere: Luzerner Chronik. Doppelseitige Blätter 107b/108a, um 1511–1513</p>
+
+<p>All these cruelties of war. The guy that climbed a tree and gets stabbed. The decapitated corpses, some of them stripped naked. The people hanging from the tree. The soldiers drowning. Ooof!</p>
+
+<p>Apparently the <a href="https://www.e-codices.unifr.ch/de/list/one/kol/S0023-2">Lucerne Chronicles</a> can be found in e-codices, Virtual Manuscript Library of Switzerland.
+&ldquo;The goal of e-codices is to provide free access to all medieval and a selection of modern manuscripts of Switzerland by means of a virtual library.&rdquo;
+The book is in the public domain and yet the site says <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY NC 4.0</a>.</p>
+
+<p>When I looked at page 107, I didn&rsquo;t see the image above, however. Some more investigation is required.</p>
+
+<p>Actually, I did find it! Pages 218–219 are the ones I was looking for. I downloaded the &ldquo;large&rdquo; pages, stitched them together in Gimp, saved them using 80% quality (😥) and uploaded them.</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-10.jpg" alt="" /></p> 
+
+<https://alexschroeder.ch/view/2024-07-09-murten>
+
+---
+
+## New Ways to Search Archived Music News
+
+date: 2024-07-10, from: Internet Archive Blog
+
+When MTVNews.com went offline in late June, Internet users were quick to discover that some (but sadly, not all) of the site had been archived in the Internet Archive’s Wayback [&#8230;] 
+
+<https://blog.archive.org/2024/07/10/new-ways-to-search-archived-music-news/>
+
+---
+
+##  I&#8217;ve linked to these before, but the Do Not Reply images (which... 
+
+date: 2024-07-10, updated: 2024-07-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044921-ive-linked-to-these-befor>
+
+---
+
+## About the Office of the General Counsel
+
+date: 2024-07-10, from: NASA breaking news
+
+The Office of the General Counsel provides functional leadership regarding legal services and issues related to all aspects of NASA activities for Center Chief and Patent Counsel and, for Agency-wide issues, the Administrator. These services and issues include establishing and disseminating legal policy and interpreting new statutes and cases. The Office of the General Counsel [&#8230;] 
+
+<https://www.nasa.gov/organizations/about-the-office-of-the-general-counsel/>
+
+---
+
+##  The Teasingest Teaser Trailer for Severance Season Two 
+
+date: 2024-07-10, updated: 2024-07-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/the-teasingest-teaser-trailer-for-severance-season-two>
+
+---
+
+## AmigaKit launches a new Amiga that’s not an Amiga at all
+
+date: 2024-07-10, from: OS News
+
+I try to keep tabs on a huge number of operating system projects out there &#8211; for obvious reasons &#8211; but long ago I learned that when it comes to the world of Amiga, it&#8217;s best to maintain distance and let any important news find its way out of the Amiga bubble, lest one loses their sanity. Keeping up with the Amiga world requires following every nook and cranny of various forums and websites with different allegiances to different (shell) companies, with often barely coherent screeching and arguments literally nobody cares about. It&#8217;s a mess is what I&#8217;m trying to say. Anyway, it seems one of the many small companies still somehow making a living in the Amiga world, AmigaKit, has recently released a new device, the A600GS. It&#8217;s a retrogaming-oriented Amiga computer, but it does come with something called AmiBench, that&#8217;s apparently a weird hybrid between bits of Amiga OS 4 and AROS, so it does also support running a proper desktop and associated applications, but only AmigaOS 3.x applications (I think? It&#8217;s a bit unclear). It has HDMI at up to 1080p, and even WiFi and Bluetooth support, which is pretty neat. Wait, Wifi and Bluetooth support? What are we really dealing with here? Once again the information is hard to find because AmigaKit is incredibly stingy with specifications &#8211; I had to read goddamn YouTube comments to get some hints &#8211; but it seems to be a custom board with an Orange Pi Zero 3 stuck on top doing most of the work. In other words, the meat of this thing is just an emulator, which in and of itself isn&#8217;t a bad thing, it&#8217;s just weird to me that they&#8217;re not upfront and direct about this. While this answers some questions, it also raises a whole bunch more. If this is running on low-end Allwinner ARM hardware from 2022, how is this AmiBench desktop environment (or operating system?) a &#8220;fork of OS4 with AROS code in it&#8220;? AmigaOS 4 is PowerPC-only, which may explain why AmigaKit only mentions AmigaOS 3.x and 68K compatibility, and not AmigaOS 4 compatibility. And what&#8217;s AROS doing in there? I mean, this is an interesting product in the sense that it&#8217;s a relatively cheap turnkey solution for classic Amiga enthusiasts, but a new Amiga this is definitely not. At about €130, this is not a bad deal, but other than hardcore fans of the classic 68K Amiga, I don&#8217;t see many people being interested in this. The Apollo Standalone V4+ piques my interest way more, but at €700-800, it&#8217;s also a lot more expensive, but at least they&#8217;re much clearer about what the Apollo is, what software it&#8217;s running, and that they&#8217;re giving back their work to AROS. 
+
+<https://www.osnews.com/story/140197/amikit-launches-a-new-amiga-thats-not-an-amiga-at-all/>
+
+---
+
+## Donkey Kong Country OST (SNES)
+
+date: 2024-07-10, from: Tilde.news
+
+<p><a href="https://tilde.news/s/te3jqr/donkey_kong_country_ost_snes">Comments</a></p> 
+
+<https://archive.org/details/DonkeyKongCountryOST>
+
+---
+
+## NASA CubeSat Launches as Rideshare on ESA’s First Ariane 6 Rocket
+
+date: 2024-07-10, from: NASA breaking news
+
+NASA launched CURIE (CubeSat Radio Interferometry Experiment) as a rideshare payload on the inaugural flight of ESA’s (European Space Agency) Ariane 6 rocket, which launched at 4 p.m. GFT on July 9 from Europe’s Spaceport, the Guiana Space Center in Kourou, in French Guiana. Designed by a team from the University of California, Berkeley, CURIE [&#8230;] 
+
+<https://www.nasa.gov/image-article/nasa-cubesat-launches-as-rideshare-on-esas-first-ariane-6-rocket/>
+
+---
+
+## USPS Metadata Surveillance Program
+
+date: 2024-07-10, from: Michael Tsai
+
+Tim Cushing: The USPS wasn&#8217;t filing its required paperwork tracking government requests for snail mail info. The USPS rarely rejected another government agency&#8217;s demand for mail metadata. And the problems weren&#8217;t minute. The forms detailing compliance with government demands for data often weren&#8217;t being filed until more than two years after those reports were due. [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/10/usps-metadata-surveillance-program/>
+
+---
+
+## The Unofficial Apple AI Weblog
+
+date: 2024-07-10, from: Michael Tsai
+
+TUAW: The Unofficial Apple Weblog (TUAW) has been a cornerstone of Apple-related journalism since its establishment on December 5, 2004. Acquired by Web Orange Limited from Yahoo IP Holdings LLC in 2024 without its original content, our mission has been rejuvenated to continue providing Apple enthusiasts and tech professionals with authoritative and engaging content. We [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/10/the-unofficial-apple-ai-weblog/>
+
+---
+
+## Calling AI a Bubble
+
+date: 2024-07-10, from: Michael Tsai
+
+Ron Miller (via Hacker News): [Rodney Brooks] knows what he&#8217;s talking about, and he thinks maybe it&#8217;s time to put the brakes on the screaming hype that is generative AI. Brooks thinks it&#8217;s impressive technology, but maybe not quite as capable as many are suggesting. &#8220;I&#8217;m not saying LLMs are not important, but we have [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/10/calling-ai-a-bubble/>
+
+---
+
+## Google Maps Is Killing Timeline for Web
+
+date: 2024-07-10, from: Michael Tsai
+
+Emma Roth: Google Maps is changing the way it handles your location data. Instead of backing up your data to the cloud, Google will soon store it locally on your device.In an email sent to users, Google says you have until December 1st to save all your travels to your mobile device before it starts [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/10/google-maps-is-killing-timeline-for-web/>
+
+---
+
+## Using DLARC, Amateur Radio Operators are Resurrecting Technical Ideas from the Past, Using 21st Century Tech
+
+date: 2024-07-10, from: Internet Archive Blog
+
+A Thank You to Internet Archive&#8217;s Digital Library of Amateur Radio &#38; Communicationsby Steve Stroh N8GNJ In 2021, I was a member of the committee that recommended approval of a&#160;significant [&#8230;] 
+
+<https://blog.archive.org/2024/07/10/using-dlarc-amateur-radio-operators-are-resurrecting-technical-ideas-from-the-past-using-21st-century-tech/>
+
+---
+
+## The Marshall Star for July 10, 2024
+
+date: 2024-07-10, from: NASA breaking news
+
+NASA Moon Rocket Stage for Artemis II Moved, Prepped for Shipment NASA is preparing the&#160;SLS (Space Launch System)&#160;rocket core stage that will help power the first crewed mission of NASA’s Artemis campaign for shipment. On July 6, NASA and Boeing, the core stage lead contractor, moved the Artemis II rocket stage to another part of [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-10-2024/>
+
+---
+
+## Surfing NASA’s Internet of Animals: Satellites Study Ocean Wildlife
+
+date: 2024-07-10, from: NASA breaking news
+
+Anchoring the boat in a sandbar, research scientist Morgan Gilmour steps into the shallows and is immediately surrounded by sharks. The warm waters around the tropical island act as a reef shark nursery, and these baby biters are curious about the newcomer. They zoom close and veer away at the last minute, as Gilmour slowly [&#8230;] 
+
+<https://www.nasa.gov/general/surfing-nasas-internet-of-animals-satellites-study-ocean-wildlife/>
+
+---
+
+##  Did you know you can renew your US passport online now? The... 
+
+date: 2024-07-10, updated: 2024-07-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044929-did-you-know-you-can>
+
+---
+
+## A Midsummer Red Sprite Seen from Space
+
+date: 2024-07-10, from: NASA breaking news
+
+NASA astronaut Matthew Dominick photographed red sprites in Earth’s upper atmosphere from the International Space Station on June 3, 2024. The bright red flashes (more easily seen by clicking on the photo to see a larger version) are a less understood phenomena associated with powerful lightning events and appear high above the clouds in the [&#8230;] 
+
+<https://www.nasa.gov/image-article/a-midsummer-red-sprite-seen-from-space/>
+
+---
+
+##  New book out this fall: Comic Sans: The Biography of a Typeface.... 
+
+date: 2024-07-10, updated: 2024-07-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044928-new-book-out-this-fall>
+
+---
+
+## NASA Deputy Administrator Strengthens Ties in Japan, Republic of Korea
+
+date: 2024-07-10, from: NASA breaking news
+
+NASA Deputy Administrator Pam Melroy will visit Japan and the Republic of Korea beginning Thursday, July 11, to underscore the critical role of international cooperation in advancing space exploration and technology development. During her week-long visit to the region, Melroy will engage with ministers and other senior government officials in both countries, including leaders from [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-deputy-administrator-strengthens-ties-in-japan-republic-of-korea/>
+
+---
+
+## Nancy Pelosi
+
+date: 2024-07-10, from: Dave Winer's Scripting News
+
+<p>I kind of like what Nancy Pelosi is doing.</p>
+<p>She's got a unique role to play, as a master of Washington and national politics.</p>
+<p>She stepped down as Democratic leader in the House to let a new generation lead, yet maintained here position as sort of overseeing and giving her blessings to how they go forward.</p>
+<p>She also helped organize the Jan 6 committee, which in the end was the only real official judgement of Trump on the insurrection before the election. </p>
+<p>I don't know how she and Biden get along.</p>
+<p>It's much better to have her leading this discussion than the children who write the NYT these days. Playing with powerful tools/weapons they don't understand, at best, being manipulated by vicious fascists at worst.</p>
+<p>I trust Pelosi in this situation, we're lucky to have her.</p>
+ 
+
+<http://scripting.com/2024/07/10/160811.html?title=nancyPelosi>
+
+---
+
+## Sols 4239-4240: ‘Vuggin’ Out’
+
+date: 2024-07-10, from: NASA breaking news
+
+Earth planning date: Monday, July 8, 2024 And just like we planned, Curiosity successfully drove about 11 meters (about 36 feet) after a 27-sol drill campaign at Mammoth Lakes! Not so fast, though, these rocks are just too interesting to leave behind so quickly. Instead of high-tailing it uphill like we usually do after a […] 
+
+<https://science.nasa.gov/blogs/sols-4239-4240-vuggin-out/>
+
+---
+
+## She's got it all!
+
+date: 2024-07-10, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/07/10/wordleRollerCoaster.png"></center>Imagine what kind of roller coaster you could build on the moon.</div></p>
+ 
+
+<http://scripting.com/2024/07/10/150459.html?title=shesGotItAll>
+
+---
+
+##  The Science Behind the Emotions in Inside Out 2 
+
+date: 2024-07-10, updated: 2024-07-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/the-science-behind-the-emotions-in-inside-out-2>
+
+---
+
+## NASA’s Hubble Finds Strong Evidence for Intermediate-Mass Black Hole in Omega Centauri
+
+date: 2024-07-10, from: NASA breaking news
+
+Most known black holes are either extremely massive, like the supermassive black holes that lie at the cores of large galaxies, or relatively lightweight, with a mass of under 100 times that of the Sun. Intermediate-mass black holes (IMBHs) are scarce, however, and are considered rare “missing links” in black hole evolution. Now, an international […] 
+
+<https://science.nasa.gov/missions/hubble/nasas-hubble-finds-strong-evidence-for-intermediate-mass-black-hole-in-omega-centauri/>
 
 ---
 
@@ -58,6 +552,16 @@ date: 2024-07-10, from: Quanta Magazine
 Number theorist Ken Ono is teaching Olympians to swim more efficiently.            <p>The post <a href="https://www.quantamagazine.org/how-americas-fastest-swimmers-use-math-to-win-gold-20240710/" target="_blank">How America’s Fastest Swimmers Use Math to Win Gold</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
 
 <https://www.quantamagazine.org/how-americas-fastest-swimmers-use-math-to-win-gold-20240710/>
+
+---
+
+## Splog Prevention
+
+date: 2024-07-10, from: Tedium site
+
+Why I ended up taking ownership of the domain where my late-2000s newspaper lived—and why you might want to consider doing the same. 
+
+<https://feed.tedium.co/link/15204/16739665/websites-domains-spam-prevention>
 
 ---
 
@@ -149,7 +653,7 @@ A small group of scientists on the biofilm mitigation team at NASA’s Marshall 
 
 **@Dave Winer's Scripting News** (date: 2024-07-10, from: Dave Winer's Scripting News)
 
-If we were organized we could handle anything. The only reason we're panicking about Biden's capability is that our news flow is owned by largely invisible media moguls. The only way out of this mess is to route around them. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/12/15/bidenHarrisMask.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If we were organized we could handle anything. The only reason we're panicking about Biden's capability is that our news flow is owned by largely invisible media moguls. The only way out of this mess is to route around them. 
 
 <http://scripting.com/2024/07/10.html#a131754>
 
@@ -186,6 +690,16 @@ View the Gateway space station's first pressurized module, HALO (Habitation and 
 
 ---
 
+## 2024/07/10 Everyday Life, Improved by Light: GRYPHON’s Photonic Discoveries
+
+date: 2024-07-10, from: Darpa News
+
+<div style="float:left"><img title="Gryphon" alt="Gryphon" src="https://www.darpa.mil/DDM_Gallery/Gryphon_Logo_619x316_thumb.jpg" border="0"/></div>Radio frequency (RF) and microwave signals are integral carriers of information for technology that enriches our everyday life - cellular communication, automotive radar sensors, and GPS navigation, among others. At the heart of each system is a single-frequency RF or microwave source, the stability and spectral purity of which is critical. While these sources are designed to generate a signal at a precise frequency, in practice the exact frequency is blurred by phase noise, arising from component imperfections and environmental sensitivity, that compromises ultimate system-level performance. 
+
+<https://www.darpa.mil/news-events/2024-07-10>
+
+---
+
 **@Jessica Smith's blog** (date: 2024-07-10, from: Jessica Smith's blog)
 
 <p>Was originally doing some research to make sure Australian bureaucrats can handle names with hyphens in them, and found this. Good thing we don’t live in Queensland, so we can still name our baby “Down With Capitalism”!</p>
@@ -200,6 +714,16 @@ View the Gateway space station's first pressurized module, HALO (Habitation and 
 <img class="imgRightMargin" src="https://imgs.scripting.com/2023/03/20/mrSmith.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It bugs me that there’s all this focus on Biden, when what we really need is to organize as voters so we can be ready to deal with whatever happens. That’s the real problem. The press can point out a problem, and it is a problem, but no one has the ability to build a consensus among voters. I think it’s possible to put together an online version of the Democratic Party, something that never goes away, is available to rally the electorate at any moment. That’s the way to neutralize the power of the media moguls who have us wrapped around their fingers. 
 
 <http://scripting.com/2024/07/09.html#a015602>
+
+---
+
+## RAG Trick: Embeddings are Spheres
+
+date: 2024-07-10, updated: 2024-07-10, from: Tom Kellog blog
+
+This post offers some helpful simplifications you can make when working with RAG or embeddings that help build a working mental model around them. Embeddings typically form a (hyper)sphere, because they're normalized. 
+
+<http://timkellogg.me/blog/2024/07/10/spheres>
 
 ---
 
@@ -618,53 +1142,6 @@ date: 2024-07-09, updated: 2024-07-09, from: Jason Kottke blog
 
 ---
 
-## 2024-07-09 Murten
-
-date: 2024-07-09, from: Alex Schroeder's Blog
-
-<h1 id="2024-07-09-murten">2024-07-09 Murten</h1>
-
-<p>We&rsquo;re spending two nights in Murten or Morat. The lake is small with a circumference of about 25km. <a href="2018-murten/index">A few years ago</a> we ran around it – but today we ran about six or seven kilometres before turning back. 13km is enough, these days. We&rsquo;re both out of shape, sadly.</p>
-
-<p>Just after sunset, looking out over the lake.</p>
-
-<p><img loading="lazy" src="2024-07-09-murten-1.jpg" alt="" /></p>
-
-<p>Working on a half-enclosed patio until late into the night. There was drunken shouting to be heard until midnight, on a Monday. I did not know that this sleepy town was so rowdy!</p>
-
-<p><img loading="lazy" src="2024-07-09-murten-2.jpg" alt="" /></p>
-
-<p>The town itself looks unchanged from our last visit in 2018.</p>
-
-<p><img loading="lazy" src="2024-07-09-murten-3.jpg" alt="" /></p>
-
-<p>We ran over to the eastern side of the lake, a protected wetland.</p>
-
-<p><img loading="lazy" src="2024-07-09-murten-4.jpg" alt="" /></p>
-
-<p>Our destination was this village at the foot of <a href="https://en.wikipedia.org/wiki/Mont_Vully">Mont Vully</a>.
-A rather small mountain.</p>
-
-<p><img loading="lazy" src="2024-07-09-murten-5.jpg" alt="" /></p>
-
-<p>It got rather hot so by the time we arrived in Sugiez, I was so very tired.</p>
-
-<p><img loading="lazy" src="2024-07-09-murten-6.jpg" alt="" /></p>
-
-<p>Canals connect the lake of Murte, the lake of Neuchâtel and the lake of Bienne. So many motorboats with proud men and underdressed women going up and down the channel. 🙄</p>
-
-<p><img loading="lazy" src="2024-07-09-murten-7.jpg" alt="" /></p>
-
-<p>The first sunflowers are out!</p>
-
-<p><img loading="lazy" src="2024-07-09-murten-8.jpg" alt="" /></p>
-
-<p><a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
-
-<https://alexschroeder.ch/view/2024-07-09-murten>
-
----
-
 ##  The Avengers Assemble for Lakota Dub 
 
 date: 2024-07-09, updated: 2024-07-09, from: Jason Kottke blog
@@ -929,6 +1406,16 @@ date: 2024-07-09, from: Raspberry Pi News (.com)
 <p>Trying to convince Viv he should go on <cite>Hard Quiz</cite> with the special topic of the 1916 <abbr title="Victorian Football League">VFL</abbr> premiership season, because he&rsquo;s like obsessed with it, hahah. Tonight he&rsquo;s explaining to me at length how many layers there are to it: the class divide, the sectarian divide between Protestants and Catholics in that era, contested notions of masculinity (is it about going off to kill people abroad, or staying home to play sport?)&hellip; honestly, he has me convinced, it&rsquo;s an interesting topic.</p> 
 
 <https://www.jayeless.net/2024/07/1916-vfl-premiership-season.html>
+
+---
+
+## 2024/07/09 Bringing Programmability and Long-Term Stability to Biomanufacturing Processes
+
+date: 2024-07-09, from: Darpa News
+
+<div style="float:left"><img title="Switch" alt="Switch" src="https://www.darpa.mil/DDM_Gallery/Switch-logo_619x316_thumb.jpg" border="0"/></div>DARPA's Switch program aims to develop a suite of tools and approaches to engineer run-time reprogrammable microorganisms that support a variety of possible manufacturing processes 
+
+<https://www.darpa.mil/news-events/2024-07-09a>
 
 ---
 

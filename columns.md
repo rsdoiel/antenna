@@ -1,11 +1,361 @@
 ---
 title: columns 2024.28
-updated: 2024-07-10 08:06:35
+updated: 2024-07-11 07:40:33
 ---
 
 # columns 2024.28
 
-(date: 2024-07-10 08:06:35)
+(date: 2024-07-11 07:40:33)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-11, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/11/25/smallmap.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If you listened to my audio blog posts in the summer of 2004, I recommend subscribing to the <a href="http://scripting.com/podcast0/rss.xml">new podcast0 feed</a>. I just listened to <a href="https://cyber.harvard.edu/blogs/gems/crimson1/coffeeNotesJuly11.mp3">the show</a> from this day 20 years ago. It was quite a throwback, lots of questions about what I was talking about, I've forgotten a lot of it. It took a full hour to prepare the feed. I can tell this is going to be quite a flashback experience. Maybe it'll get me in the mode to do some serious innovating, because we were on fire and didn't know it, in so many ways, back in the summer of 2004. 
+
+<http://scripting.com/2024/07/11.html#a135750>
+
+---
+
+##  Ayo Edebiri Browses the Criterion Collection 
+
+date: 2024-07-11, updated: 2024-07-11, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/ayo-edebiri-browses-the-criterion-collection>
+
+---
+
+## 
+                A little SLIP gateway for my OS/2 Warp 3.0 box
+            
+
+date: 2024-07-11, updated: 2024-07-11, from: Uninformative blog
+
+ 
+
+<https://www.uninformativ.de/blog/postings/2024-07-11/0/POSTING-en.html>
+
+---
+
+## Who exactly is trying to push Biden out?
+
+date: 2024-07-11, from: Robert Reich's blog
+
+A lesson in where political power really lies in America 
+
+<https://robertreich.substack.com/p/who-exactly-is-trying-to-push-biden>
+
+---
+
+## July 10, 2024 
+
+date: 2024-07-11, from: Heather Cox Richardson blog
+
+&#8220;In 1949, when leaders of 12 countries, including President Truman, came together in this very room, history was watching,&#8221; President Joe Biden said yesterday evening at the opening of the 2024 NATO Summit, being held from July 9 through July 12, in Washington, D.C. 
+
+<https://heathercoxrichardson.substack.com/p/july-10-2024>
+
+---
+
+## Romance novels as Camp
+
+date: 2024-07-11, from: Tracy Durnell Blog
+
+Honestly? Brilliant analysis 😄 The best Romances are self-aware and revel in going pedal-to-the-metal on tropes. And she&#8217;s right about Romance having a sensibility that&#8217;s different than &#8220;chick lit&#8221; or literary &#8220;romances&#8221; (that don&#8217;t follow the genre&#8217;s conventions). (Except for the mean last line &#8212; there are a lot of not-awful Romance novels 🤨) “The [&#8230;] 
+
+<https://tracydurnell.com/2024/07/10/romance-novels-as-camp/>
+
+---
+
+## A Criminal Mix
+
+date: 2024-07-11, from: Tracy Durnell Blog
+
+I put this on an impromptu mix this week and I&#8217;ve been cranking the volume every time this song comes on 🎶 More from the mix Text links go to Bandcamp. FEE LION &#8211; re:(visit) (2019) Asteroids Galaxy Tour &#8211; Attack of the Ghost Riders (2009) &#8212; apparently I will listen to basically any cover [&#8230;] 
+
+<https://tracydurnell.com/2024/07/10/a-criminal-mix/>
+
+---
+
+## If AI chatbots are the future, I hate it
+
+date: 2024-07-11, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">If AI chatbots are the future, I hate it</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img width="500" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/speedtest-graph-att-dropoff.png" alt="AT&amp;T Fiber Internet - speedtest graph"></p>
+
+<p>About a week ago, my home Internet (AT&amp;T Fiber) went from the ~1 Gbps I pay for down to about 100 Mbps (<a href="https://www.jeffgeerling.com/blog/2021/monitor-your-internet-raspberry-pi">see how I monitor my home Internet with a Pi</a>). It wasn't too inconvenient, and I considered waiting it out to see if the speed recovered at some point, because latency was fine.</p>
+
+<p>But as you can see around 7/7 on that graph, the 100 Mbps went down to about <em>eight</em>, and that's the point where my wife starts noticing how slow the Internet is. Action level.</p>
+
+<p>So I fired up AT&amp;T's support chat. I'm a programmer, I can usually find ways around the wily ways of chatbots.</p>
+
+<p>Except AT&amp;T's AI-powered chatbot seems to have a fiendish tendency to equate 'WiFi' with 'Internet', no doubt due to so many people thinking they are one and the same.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-07-10T20:08:00-05:00" title="Wednesday, July 10, 2024 - 20:08" class="datetime">July 10, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/if-ai-chatbots-are-future-i-hate-it>
+
+---
+
+## Re: 15 Books with the Most Impact
+
+date: 2024-07-11, from: Tracy Durnell Blog
+
+Lou asked about people&#8217;s most impactful books. There are so many ways I could take &#8220;impactful&#8221;: books that changed my mind? books that influenced how I live? formative books that somehow shaped me? Picking one approach didn&#8217;t feel right, so I&#8217;ve broken my list up into a few sections. Some books used to be important [&#8230;] 
+
+<https://tracydurnell.com/2024/07/10/re-15-books-with-the-most-impact/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-11, from: Dave Winer's Scripting News)
+
+I agree with <a href="https://www.manton.org/2024/07/10/looking-at-my.html">Manton</a>. The way the twitter-alikes do discourse is not the only possible way, and imho, and, as I've said <a href="http://scripting.com/stories/2007/12/17/howSpamWillLikelyEnterTheT.html">before</a> (in 2007!), most of what passes for discourse on twitter is actually spam, and that goes for Masto, Threads, Bluesky and Facebook (aka FriendFeed). 
+
+<http://scripting.com/2024/07/10.html#a003934>
+
+---
+
+## Blind Loyalty? That’s the Other Guy
+
+date: 2024-07-11, from: Dan Rather's Steady
+
+The Democrats need discourse, not discord 
+
+<https://steady.substack.com/p/blind-loyalty-thats-the-other-guy>
+
+---
+
+##  There&#8217;s a Devil Wears Prada sequel coming&#8230; &#8220;Gird your loins.&#8221;... 
+
+date: 2024-07-10, updated: 2024-07-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044937-theres-a-devil-wears-prad>
+
+---
+
+##  XKCD: A Crossword Puzzle 
+
+date: 2024-07-10, updated: 2024-07-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/xkcd-a-crossword-puzzle>
+
+---
+
+## 2024-07-09 Murten
+
+date: 2024-07-10, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-09-murten">2024-07-09 Murten</h1>
+
+<p>We&rsquo;re spending two nights in Murten or Morat. The lake is small with a circumference of about 25km. <a href="2018-murten/index">A few years ago</a> we ran around it – but today we ran about six or seven kilometres before turning back. 13km is enough, these days. We&rsquo;re both out of shape, sadly.</p>
+
+<p>Just after sunset, looking out over the lake.</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-1.jpg" alt="" /></p>
+
+<p>Working on a half-enclosed patio until late into the night. There was drunken shouting to be heard until midnight, on a Monday. I did not know that this sleepy town was so rowdy!</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-2.jpg" alt="" /></p>
+
+<p>The town itself looks unchanged from our last visit in 2018.</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-3.jpg" alt="" /></p>
+
+<p>We ran over to the eastern side of the lake, a protected wetland.</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-4.jpg" alt="" /></p>
+
+<p>Our destination was this village at the foot of <a href="https://en.wikipedia.org/wiki/Mont_Vully">Mont Vully</a>.
+A rather small mountain.</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-5.jpg" alt="" /></p>
+
+<p>It got rather hot so by the time we arrived in Sugiez, I was so very tired. My wife took this picture.</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-6.jpg" alt="" /></p>
+
+<p>Canals connect the lake of Murten, the lake of Neuchâtel and the lake of Bienne. So many motorboats with proud men and underdressed women going up and down the channel. 🙄</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-7.jpg" alt="" /></p>
+
+<p>The first sunflowers are out! My wife took this picture.</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-8.jpg" alt="" /></p>
+
+<p><a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p>
+
+<p><strong>2024-07-10</strong> I was interested in the <a href="https://en.wikipedia.org/wiki/Battle_of_Morat">Battle of Morat</a>.</p>
+
+<blockquote>
+<p>On 22 June 1476, Charles the Bold, Duke of Burgundy, laid siege to the place in an action known as the Battle of Morat. The town hung on for 13 days but finally was saved by the Bernese army. The enemy&rsquo;s army was destroyed completely — some 10,000 Burgundians were killed. Since then, Murten celebrates the victory every year on June 22. – <a href="https://en.wikipedia.org/wiki/Murten">Murten</a>, Wikipedia</p>
+</blockquote>
+
+<p>I was impressed with a black and white image of the battle on the Wikipedia page but felt it didn&rsquo;t have enough resolution. I started looking for a better scan. e-rara, &ldquo;the platform for digitized rare books from Swiss institutions&rdquo; has <a href="https://doi.org/10.3931/e-rara-5076">the book</a>!</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-10.png" alt="A black and white depiction of the battle" /></p>
+
+<p>Die Schlacht bei Murten, Seite 265, aus Stumpf, Johannes: Gemeiner
+loblicher Eydgnoschafft Stetten, Landen und Völckeren Chronick
+wirdiger Thaaten Beschreybung [&hellip;]. Getruckt
+Zürych in der Eydgnoschafft : bey Christoffel Froschouer, 1548.
+Zentralbibliothek Zürich., AW 40: 1-2</p>
+
+<p>In the common room of our place in Murten, I found a very nice reproduction of an image from the Lucerne Chronicle and took a photo using my phone.</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-9.jpg" alt="A colourful depiction of the battle" /></p>
+
+<p>Diebold Schilling der Jüngere: Luzerner Chronik. Doppelseitige Blätter 107b/108a, um 1511–1513</p>
+
+<p>All these cruelties of war. The guy that climbed a tree and gets stabbed. The decapitated corpses, some of them stripped naked. The people hanging from the tree. The soldiers drowning. Ooof!</p>
+
+<p>Apparently the <a href="https://www.e-codices.unifr.ch/de/list/one/kol/S0023-2">Lucerne Chronicles</a> can be found in e-codices, Virtual Manuscript Library of Switzerland.
+&ldquo;The goal of e-codices is to provide free access to all medieval and a selection of modern manuscripts of Switzerland by means of a virtual library.&rdquo;
+The book is in the public domain and yet the site says <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY NC 4.0</a>.</p>
+
+<p>When I looked at page 107, I didn&rsquo;t see the image above, however. Some more investigation is required.</p>
+
+<p>Actually, I did find it! Pages 218–219 are the ones I was looking for. I downloaded the &ldquo;large&rdquo; pages, stitched them together in Gimp, saved them using 80% quality (😥) and uploaded them.</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-10.jpg" alt="" /></p> 
+
+<https://alexschroeder.ch/view/2024-07-09-murten>
+
+---
+
+##  I&#8217;ve linked to these before, but the Do Not Reply images (which... 
+
+date: 2024-07-10, updated: 2024-07-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044921-ive-linked-to-these-befor>
+
+---
+
+##  The Teasingest Teaser Trailer for Severance Season Two 
+
+date: 2024-07-10, updated: 2024-07-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/the-teasingest-teaser-trailer-for-severance-season-two>
+
+---
+
+## Amid Antitrust Scrutiny, Microsoft Drops OpenAI Board Observer Seat, and Apple, Reversing Course, Will Not Take One
+
+date: 2024-07-10, updated: 2024-07-10, from: Daring Fireball
+
+ 
+
+<https://www.ft.com/content/ecfa69df-5d1c-4177-9b14-a3a73072db12>
+
+---
+
+## M1 MacBook Air Drops from $700 to $650 at Walmart
+
+date: 2024-07-10, updated: 2024-07-10, from: Daring Fireball
+
+ 
+
+<https://www.macrumors.com/2024/07/08/walmart-m1-macbook-air-for-649/>
+
+---
+
+##  Did you know you can renew your US passport online now? The... 
+
+date: 2024-07-10, updated: 2024-07-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044929-did-you-know-you-can>
+
+---
+
+## Pennsylvania Is, Finally, Getting Beautiful License Plates
+
+date: 2024-07-10, updated: 2024-07-11, from: Daring Fireball
+
+ 
+
+<https://x.com/governorshapiro/status/1810662109073588268>
+
+---
+
+## Samsung Rips Off Apple Watch Ultra, Right Down to the Name
+
+date: 2024-07-10, updated: 2024-07-10, from: Daring Fireball
+
+ 
+
+<https://x.com/snazzylabs/status/1811061102072967177?s=42>
+
+---
+
+##  New book out this fall: Comic Sans: The Biography of a Typeface.... 
+
+date: 2024-07-10, updated: 2024-07-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044928-new-book-out-this-fall>
+
+---
+
+## July 9, 2024
+
+date: 2024-07-10, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/july-9-2024-e88>
+
+---
+
+## Nancy Pelosi
+
+date: 2024-07-10, from: Dave Winer's Scripting News
+
+<p>I kind of like what Nancy Pelosi is doing.</p>
+<p>She's got a unique role to play, as a master of Washington and national politics.</p>
+<p>She stepped down as Democratic leader in the House to let a new generation lead, yet maintained here position as sort of overseeing and giving her blessings to how they go forward.</p>
+<p>She also helped organize the Jan 6 committee, which in the end was the only real official judgement of Trump on the insurrection before the election. </p>
+<p>I don't know how she and Biden get along.</p>
+<p>It's much better to have her leading this discussion than the children who write the NYT these days. Playing with powerful tools/weapons they don't understand, at best, being manipulated by vicious fascists at worst.</p>
+<p>I trust Pelosi in this situation, we're lucky to have her.</p>
+ 
+
+<http://scripting.com/2024/07/10/160811.html?title=nancyPelosi>
+
+---
+
+## She's got it all!
+
+date: 2024-07-10, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/07/10/wordleRollerCoaster.png"></center>Imagine what kind of roller coaster you could build on the moon.</div></p>
+ 
+
+<http://scripting.com/2024/07/10/150459.html?title=shesGotItAll>
+
+---
+
+##  The Science Behind the Emotions in Inside Out 2 
+
+date: 2024-07-10, updated: 2024-07-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/the-science-behind-the-emotions-in-inside-out-2>
 
 ---
 
@@ -67,7 +417,7 @@ and the remainder in the surrounding areas."
 
 **@Dave Winer's Scripting News** (date: 2024-07-10, from: Dave Winer's Scripting News)
 
-If we were organized we could handle anything. The only reason we're panicking about Biden's capability is that our news flow is owned by largely invisible media moguls. The only way out of this mess is to route around them. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/12/15/bidenHarrisMask.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If we were organized we could handle anything. The only reason we're panicking about Biden's capability is that our news flow is owned by largely invisible media moguls. The only way out of this mess is to route around them. 
 
 <http://scripting.com/2024/07/10.html#a131754>
 
@@ -172,7 +522,7 @@ Marylebone Cricket Club, one of cricket’s august organizations, recently organ
 
 ## Flight Tracking in Messages (and Anywhere Data Detectors Work)
 
-date: 2024-07-09, updated: 2024-07-09, from: Daring Fireball
+date: 2024-07-09, updated: 2024-07-10, from: Daring Fireball
 
  
 
@@ -340,53 +690,6 @@ date: 2024-07-09, updated: 2024-07-09, from: Jason Kittke's blog
  
 
 <https://kottke.org/24/07/gladiator-ii>
-
----
-
-## 2024-07-09 Murten
-
-date: 2024-07-09, from: Alex Schroeder's Blog
-
-<h1 id="2024-07-09-murten">2024-07-09 Murten</h1>
-
-<p>We&rsquo;re spending two nights in Murten or Morat. The lake is small with a circumference of about 25km. <a href="2018-murten/index">A few years ago</a> we ran around it – but today we ran about six or seven kilometres before turning back. 13km is enough, these days. We&rsquo;re both out of shape, sadly.</p>
-
-<p>Just after sunset, looking out over the lake.</p>
-
-<p><img loading="lazy" src="2024-07-09-murten-1.jpg" alt="" /></p>
-
-<p>Working on a half-enclosed patio until late into the night. There was drunken shouting to be heard until midnight, on a Monday. I did not know that this sleepy town was so rowdy!</p>
-
-<p><img loading="lazy" src="2024-07-09-murten-2.jpg" alt="" /></p>
-
-<p>The town itself looks unchanged from our last visit in 2018.</p>
-
-<p><img loading="lazy" src="2024-07-09-murten-3.jpg" alt="" /></p>
-
-<p>We ran over to the eastern side of the lake, a protected wetland.</p>
-
-<p><img loading="lazy" src="2024-07-09-murten-4.jpg" alt="" /></p>
-
-<p>Our destination was this village at the foot of <a href="https://en.wikipedia.org/wiki/Mont_Vully">Mont Vully</a>.
-A rather small mountain.</p>
-
-<p><img loading="lazy" src="2024-07-09-murten-5.jpg" alt="" /></p>
-
-<p>It got rather hot so by the time we arrived in Sugiez, I was so very tired.</p>
-
-<p><img loading="lazy" src="2024-07-09-murten-6.jpg" alt="" /></p>
-
-<p>Canals connect the lake of Murte, the lake of Neuchâtel and the lake of Bienne. So many motorboats with proud men and underdressed women going up and down the channel. 🙄</p>
-
-<p><img loading="lazy" src="2024-07-09-murten-7.jpg" alt="" /></p>
-
-<p>The first sunflowers are out!</p>
-
-<p><img loading="lazy" src="2024-07-09-murten-8.jpg" alt="" /></p>
-
-<p><a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
-
-<https://alexschroeder.ch/view/2024-07-09-murten>
 
 ---
 

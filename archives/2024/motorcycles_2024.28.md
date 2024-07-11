@@ -1,15 +1,145 @@
 ---
 title: motorcycles 2024.28
-updated: 2024-07-10 08:06:38
+updated: 2024-07-11 07:40:36
 ---
 
 # motorcycles 2024.28
 
-(date: 2024-07-10 08:06:38)
+(date: 2024-07-11 07:40:36)
 
 ---
 
-## Here's Can-Am's New EV ATV Way Before You're Supposed to See It
+## This Is a Carbon Fiber Battery, It Might Hold the Key to Our EV Future
+
+date: 2024-07-11, from: Ride Apart, Electric Motorcycle News
+
+The proposed structural batteries could make EVs much lighter and more efficient.  
+
+<https://www.rideapart.com/news/726037/sinonus-carbon-fiber-battery-technology/>
+
+---
+
+## Segway Gives You a 'Limited' Lifetime Powertrain Warranty on Your New UTV
+
+date: 2024-07-11, from: Ride Apart, Electric Motorcycle News
+
+Neat. 
+
+<https://www.rideapart.com/news/726152/segway-limited-lifetime-powertrain-warranty-utv/>
+
+---
+
+## We Missed Out, This Yamaha Experience Let R1M Owners Ride Alongside Valentino Rossi
+
+date: 2024-07-11, from: Ride Apart, Electric Motorcycle News
+
+Suffice it to say, R1M owners surely got their money’s worth.  
+
+<https://www.rideapart.com/news/726035/yamaha-racing-experience-2024/>
+
+---
+
+## This California Bill Wants To Stop You From Modifying Your E-Bike
+
+date: 2024-07-11, from: Ride Apart, Electric Motorcycle News
+
+Modified e-bikes, particularly those boosted for higher speeds, are becoming a big problem.  
+
+<https://www.rideapart.com/news/726052/california-bill-ebike-top-speed/>
+
+---
+
+## Would You Ride This Bike With An Exhaust The Size of A Propane Tank?
+
+date: 2024-07-11, from: Ride Apart, Electric Motorcycle News
+
+We don't know how much it weighs, but that weight balance has got to be strange. 
+
+<https://www.rideapart.com/news/726148/giant-exhaust-yamaha-r6-custom/>
+
+---
+
+## How Much Power Does the 2024 CFMoto 450NK Make?
+
+date: 2024-07-11, from: Cycle World News
+
+The 2024 CFMoto 450NK gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower. 
+
+<https://www.cycleworld.com/bikes/cfmoto-450nk-dyno-test-2024/>
+
+---
+
+## The UK’s Slickest Electric Motorcycle Launches in the US, It’s a Steal
+
+date: 2024-07-11, from: Ride Apart, Electric Motorcycle News
+
+It's not hard to see why the Maeving RM1S is one of the UK's best-selling electric motorcycles, especially at this price. 
+
+<https://www.rideapart.com/news/725907/maeving-electric-motorcycle-available-us/>
+
+---
+
+## 2024 Harley-Davidson Heritage Classic 114
+
+date: 2024-07-11, from: Cycle World News
+
+The Heritage Classic 114 is a foundational standard in the Harley lineup, effortlessly balancing retro-modern style with all-modern H-D performance. 
+
+<https://www.cycleworld.com/harley-davidson/heritage-classic-114/>
+
+---
+
+## Noah Gragson Sees Stability in Multi-Year Deal at Front Row
+
+date: 2024-07-10, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor CONCORD, N.C. – Although the 2025 NASCAR Cup Series season will mark another new team for Noah Gragson as he joins Front Row Motorsports, it&#8230;  
+
+<https://kickinthetires.net/nascar/gragson-stability-multi-year-front-row/>
+
+---
+
+## GALLERY: Alex Bowman, Shane van Gisbergen Victorious on the Streets of Chicago
+
+date: 2024-07-10, from: Kickin the Tires blog
+
+By Andrew Kaplan, Staff Photographer CHICAGO &#8211; Kickin&#8217; the Tires staff photographer Andrew Kaplan captured all of the action in the NASCAR Xfinity Series and NASCAR Cup Series races on&#8230;  
+
+<https://kickinthetires.net/nascar/gallery-alex-bowman-shane-van-gisbergen-victorious-on-the-streets-of-chicago/>
+
+---
+
+## 2024 LiveWire S2 Mulholland Review
+
+date: 2024-07-10, from: Cycle World News
+
+An excellent electric motorcycle, the LiveWire S2 Mulholland still wrestles with common electric bike issues. Is It time to change how we think about EVs? 
+
+<https://www.cycleworld.com/motorcycle-reviews/livewire-s2-mulholland-review/>
+
+---
+
+## 2024 Harley-Davidson Hydra-Glide Revival
+
+date: 2024-07-10, from: Cycle World News
+
+The limited-edition Harley-Davidson Hydra-Glide Revival pays homage to the 1956 FLH. Is it one of the most faithful-to-the-original retros on the market? 
+
+<https://www.cycleworld.com/harley-davidson/hydra-glide-revival/>
+
+---
+
+## Gas-powered Motocompo Could Be Revived
+
+date: 2024-07-10, from: Cycle World News
+
+The original Motocompo concept was to use the stowed two-wheeler for the final part of a commute. But what if it was also a range extender for an electric car? 
+
+<https://www.cycleworld.com/motorcycle-news/gas-powered-motocompo-could-be-revived/>
+
+---
+
+## Can-Am's New EV ATV Looks Wild, Is Ready to Silently Conquer the Trails
 
 date: 2024-07-10, from: Ride Apart, Electric Motorcycle News
 
@@ -29,7 +159,7 @@ Do you enjoy wiring in your free time?
 
 ---
 
-## Italjet Shares Details On The Dragster 700 Twin, Says It's Not A Scooter
+## UPDATE: Italjet Shares Details On Dragster 700 Twin, Says It's Not A Scooter
 
 date: 2024-07-10, from: Ride Apart, Electric Motorcycle News
 
