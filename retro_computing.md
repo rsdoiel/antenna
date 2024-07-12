@@ -1,11 +1,51 @@
 ---
 title: retro computing 2024.28
-updated: 2024-07-11 07:40:36
+updated: 2024-07-12 09:21:05
 ---
 
 # retro computing 2024.28
 
-(date: 2024-07-11 07:40:36)
+(date: 2024-07-12 09:21:05)
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2024-07-12, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 10: The Easter Mutiny 
+
+<https://www.filfre.net/2024/07/this-week-on-the-analog-antiquarian/>
+
+---
+
+## Comics from 1982/08 Commodore Computing International Mag
+
+date: 2024-07-12, from: Computer ads from the Past
+
+Time for some humor 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-198208-commodore-computing>
+
+---
+
+## Rougol July 2024 meeting on monday
+
+date: 2024-07-12, from: Icon Bar, RISC OS News
+
+The July 2024 Rougol meeting is on Monday 15th July and features Nathan Atkinson, one of the coders behind Visions of the Impossible 
+
+<http://www.iconbar.com/comments/rss/news2077.html>
+
+---
+
+## Let’s write a bytecode interpreter in… many programming languages!
+
+date: 2024-07-11, from: Paola Zaino's blog
+
+In my career, quite a few of my co-workers have had wild dreams of creating their own bytecode interpreter virtual machine (VM). Some have actually taken the plunge and attempted it. The allure of this magical endeavor still captivates many. And let&#8217;s not forget about &#8220;that colleague&#8221; who&#8217;s convinced that everything needs to be rewritten [&#8230;] 
+
+<https://paolozaino.wordpress.com/2024/07/11/lets-write-a-bytecode-interpreter-in-many-programming-languages/>
 
 ---
 

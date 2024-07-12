@@ -1,11 +1,116 @@
 ---
 title: home 2024.28
-updated: 2024-07-11 07:40:35
+updated: 2024-07-12 09:21:03
 ---
 
 # home 2024.28
 
-(date: 2024-07-11 07:40:35)
+(date: 2024-07-12 09:21:03)
+
+---
+
+## Pesticide use continues to decline in California, new data confirms – Department of Pesticide Regulation (DPR)
+
+date: 2024-07-12, from: Calfifornia Dept. Aggriculture blog
+
+In the past 10 years, use of higher-risk pesticides has markedly declined in both pounds applied and acres treated Reported pesticide use in California declined by more than 5% between 2021 and 2022, reflecting a longer-term trend, according to the &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27991">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27991>
+
+---
+
+## Digital Edition: Summer 2024
+
+date: 2024-07-11, from: Edible San Fernando Valley
+
+<p>The post <a href="https://www.ediblesfvalley.com/digital-edition/digital-edition-summer-2024/">Digital Edition: Summer 2024</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<https://www.ediblesfvalley.com/digital-edition/digital-edition-summer-2024/?utm_source=rss&utm_medium=rss&utm_campaign=digital-edition-summer-2024>
+
+---
+
+## Summer Nectarine Salsa
+
+date: 2024-07-11, from: Edible San Fernando Valley
+
+<p>This salsa recipe has a sweet twist from the inclusion of summer stone fruits. </p>
+<p>The post <a href="https://www.ediblesfvalley.com/recipes/summer-nectarine-salsa/">Summer Nectarine Salsa</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<https://www.ediblesfvalley.com/recipes/summer-nectarine-salsa/?utm_source=rss&utm_medium=rss&utm_campaign=summer-nectarine-salsa>
+
+---
+
+## For a Winter Flavorland Preserve the Flavors of Summer
+
+date: 2024-07-11, from: Edible San Fernando Valley
+
+<p>Preserving the bounty of the harvest season is a tradition as old as agriculture itself. </p>
+<p>The post <a href="https://www.ediblesfvalley.com/eat/for-a-winter-flavorland-preserve-the-flavors-of-summer/">For a Winter Flavorland Preserve the Flavors of Summer</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<https://www.ediblesfvalley.com/eat/for-a-winter-flavorland-preserve-the-flavors-of-summer/?utm_source=rss&utm_medium=rss&utm_campaign=for-a-winter-flavorland-preserve-the-flavors-of-summer>
+
+---
+
+## Homemade Fruit Leather
+
+date: 2024-07-11, from: Edible San Fernando Valley
+
+<p>Start by choosing a ripe fruit.</p>
+<p>The post <a href="https://www.ediblesfvalley.com/recipes/homemade-fruit-leather/">Homemade Fruit Leather</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<https://www.ediblesfvalley.com/recipes/homemade-fruit-leather/?utm_source=rss&utm_medium=rss&utm_campaign=homemade-fruit-leather>
+
+---
+
+## Sips and Spoonfuls: Life is Sweet at Tang & Java Gelato and Coffee
+
+date: 2024-07-11, from: Edible San Fernando Valley
+
+<p>If you are a mother of children on the spectrum, you celebrate little wins</p>
+<p>The post <a href="https://www.ediblesfvalley.com/eat/sips-and-spoonfuls-life-is-sweet-at-tang-java-gelato-and-coffee/">Sips and Spoonfuls: Life is Sweet at Tang &#038; Java Gelato and Coffee</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<https://www.ediblesfvalley.com/eat/sips-and-spoonfuls-life-is-sweet-at-tang-java-gelato-and-coffee/?utm_source=rss&utm_medium=rss&utm_campaign=sips-and-spoonfuls-life-is-sweet-at-tang-java-gelato-and-coffee>
+
+---
+
+## Keep Cool: Help Your Garden Beat the Heat
+
+date: 2024-07-11, from: Edible San Fernando Valley
+
+<p>PHOTOS BY CAROLE TOPALIAN In 2020, a three-day heat wave brought dry weather and temperatures over 120°F to the San Fernando Valley. It was dangerous for people. Can you imagine what it did to edible gardens? It doesn’t have to be that way. A warming trend is the reality of living in the Valley, or [&#8230;]</p>
+<p>The post <a href="https://www.ediblesfvalley.com/grow/keep-cool-help-your-garden-beat-the-heat/">Keep Cool: Help Your Garden Beat the Heat</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<https://www.ediblesfvalley.com/grow/keep-cool-help-your-garden-beat-the-heat/?utm_source=rss&utm_medium=rss&utm_campaign=keep-cool-help-your-garden-beat-the-heat>
+
+---
+
+## A Little About Squash
+
+date: 2024-07-11, from: Edible San Fernando Valley
+
+<p>Print your copy here</p>
+<p>The post <a href="https://www.ediblesfvalley.com/stories/a-little-about-squash/">A Little About Squash</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<https://www.ediblesfvalley.com/stories/a-little-about-squash/?utm_source=rss&utm_medium=rss&utm_campaign=a-little-about-squash>
+
+---
+
+## Moving Food Forward: Nonprofit Provides a “Glean” Bill of Health for People Who are Food Insecure
+
+date: 2024-07-11, from: Edible San Fernando Valley
+
+<p>When Food Forward rescues surplus produce, w e’re reducing the greenhouse gas emissions caused by wastste in landfifills, thus mitigating some of the effects of climate change. </p>
+<p>The post <a href="https://www.ediblesfvalley.com/summer-2024/moving-food-forward-nonprofit-provides-a-glean-bill-of-health-for-people-who-are-food-insecure/">Moving Food Forward: Nonprofit Provides a “Glean” Bill of Health for People Who are Food Insecure</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<https://www.ediblesfvalley.com/summer-2024/moving-food-forward-nonprofit-provides-a-glean-bill-of-health-for-people-who-are-food-insecure/?utm_source=rss&utm_medium=rss&utm_campaign=moving-food-forward-nonprofit-provides-a-glean-bill-of-health-for-people-who-are-food-insecure>
 
 ---
 

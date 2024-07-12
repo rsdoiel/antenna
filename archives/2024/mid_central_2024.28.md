@@ -1,11 +1,93 @@
 ---
 title: mid central 2024.28
-updated: 2024-07-11 07:40:31
+updated: 2024-07-12 09:20:59
 ---
 
 # mid central 2024.28
 
-(date: 2024-07-11 07:40:31)
+(date: 2024-07-12 09:20:59)
+
+---
+
+## How will HBM4 impact the AI-centric memory landscape?
+
+date: 2024-07-12, from: EDN Blog
+
+<img width="970" height="545" src="https://www.edn.com/wp-content/uploads/Hero-image-AMD.jpg?fit=970%2C545" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-AMD.jpg?w=970 970w, https://www.edn.com/wp-content/uploads/Hero-image-AMD.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-AMD.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-AMD.jpg?w=800 800w" sizes="(max-width: 970px) 100vw, 970px" /><p>HBM4 enhances data processing rates while maintaining essential features such as higher bandwidth and lower power consumption.</p>
+<p>The post <a href="https://www.edn.com/how-will-hbm4-impact-the-ai-centric-memory-landscape/" data-wpel-link="internal">How will HBM4 impact the AI-centric memory landscape?</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/how-will-hbm4-impact-the-ai-centric-memory-landscape/>
+
+---
+
+## Toolset bolsters image sensor development
+
+date: 2024-07-11, from: EDN Blog
+
+<img width="800" height="372" src="https://www.edn.com/wp-content/uploads/STMicro-BrightSense.jpg?fit=800%2C372" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/STMicro-BrightSense.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/STMicro-BrightSense.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/STMicro-BrightSense.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>ST’s hardware kits, evaluation camera modules, and software ease development with its BrightSense global-shutter image sensors.</p>
+<p>The post <a href="https://www.edn.com/toolset-bolsters-image-sensor-development/" data-wpel-link="internal">Toolset bolsters image sensor development</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/toolset-bolsters-image-sensor-development/>
+
+---
+
+## Current sensors improve design efficiency
+
+date: 2024-07-11, from: EDN Blog
+
+<img width="700" height="458" src="https://www.edn.com/wp-content/uploads/Allegro-ACS37220.jpg?fit=700%2C458" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Allegro-ACS37220.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Allegro-ACS37220.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Allegro’s magnetic current sensors enhance system efficiency and protection compared to discrete shunt-based current sensing circuits.</p>
+<p>The post <a href="https://www.edn.com/current-sensors-improve-design-efficiency/" data-wpel-link="internal">Current sensors improve design efficiency</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/current-sensors-improve-design-efficiency/>
+
+---
+
+## PC-based scopes gain 10Base-T1S decoder
+
+date: 2024-07-11, from: EDN Blog
+
+<img width="800" height="469" src="https://www.edn.com/wp-content/uploads/PicoScope-7.jpg?fit=800%2C469" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/PicoScope-7.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/PicoScope-7.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/PicoScope-7.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>All PicoScope oscilloscopes from Pico Technology now include a serial decoder for the 10Base-T1S automotive Ethernet standard.</p>
+<p>The post <a href="https://www.edn.com/pc-based-scopes-gain-10base-t1s-decoder/" data-wpel-link="internal">PC-based scopes gain 10Base-T1S decoder</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/pc-based-scopes-gain-10base-t1s-decoder/>
+
+---
+
+## Sensor enables ghost-free HDR imaging
+
+date: 2024-07-11, from: EDN Blog
+
+<img width="800" height="457" src="https://www.edn.com/wp-content/uploads/Omnivision-OG0TC.jpg?fit=800%2C457" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Omnivision-OG0TC.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Omnivision-OG0TC.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Omnivision-OG0TC.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The OG0TC global-shutter image sensor from Omnivision brings the company’s DCG high dynamic range technology to AR/VR/MR tracking cameras.</p>
+<p>The post <a href="https://www.edn.com/sensor-enables-ghost-free-hdr-imaging/" data-wpel-link="internal">Sensor enables ghost-free HDR imaging</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/sensor-enables-ghost-free-hdr-imaging/>
+
+---
+
+## 64-bit MPUs advance space computing
+
+date: 2024-07-11, from: EDN Blog
+
+<img width="800" height="441" src="https://www.edn.com/wp-content/uploads/Microchip-PIC64-HPSC.jpg?fit=800%2C441" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Microchip-PIC64-HPSC.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Microchip-PIC64-HPSC.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Microchip-PIC64-HPSC.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Microchip has launched the first devices in its PIC64 High-Performance Spaceflight Computing (PIC64-HPSC) family of microprocessors.</p>
+<p>The post <a href="https://www.edn.com/64-bit-mpus-advance-space-computing/" data-wpel-link="internal">64-bit MPUs advance space computing</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/64-bit-mpus-advance-space-computing/>
+
+---
+
+## Fresno State bowling club welcomes diverse group of students
+
+date: 2024-07-11, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Every Monday afternoon, the Fresno State Bowling Club gathers at the Bulldog Bowl in the University Student Union for the first of two weekly practices. They are in high spirits and gearing up to compete in their next tournament, where they’d compete with 21 other schools. Players and coaches lounge around the lane with the... 
+
+<https://fscollegian.com/2024/07/fresno-state-bowling-club-welcomes-diverse-group-of-students/>
 
 ---
 
@@ -13,7 +95,7 @@ updated: 2024-07-11 07:40:31
 
 date: 2024-07-11, from: EDN Blog
 
-<img width="2480" height="1736" src="https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?fit=2480%2C1736" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=2480 2480w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=1900 1900w" sizes="(max-width: 2480px) 100vw, 2480px" /><p>The BMS testing with emulated battery cells can safely validate all kinds of conditions without risk of hardware damage.</p>
+<img width="2480" height="1736" src="https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?fit=2480%2C1736" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=2480 2480w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Speedgoat.jpg?w=1900 1900w" sizes="(max-width: 2480px) 100vw, 2480px" /><p>The BMS testing with emulated battery cells can safely validate all kinds of conditions without risk of hardware damage.</p>
 <p>The post <a href="https://www.edn.com/automate-battery-management-system-bms-test-with-a-digital-twin/" data-wpel-link="internal">Automate battery management system (BMS) test with a digital twin</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

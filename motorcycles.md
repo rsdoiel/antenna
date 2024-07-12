@@ -1,11 +1,141 @@
 ---
 title: motorcycles 2024.28
-updated: 2024-07-11 07:40:36
+updated: 2024-07-12 09:21:04
 ---
 
 # motorcycles 2024.28
 
-(date: 2024-07-11 07:40:36)
+(date: 2024-07-12 09:21:04)
+
+---
+
+## WP's Suspension Upgrade Will Make Your Husqvarna Norden That Much Better
+
+date: 2024-07-12, from: Ride Apart, Electric Motorcycle News
+
+That'll get you far.  
+
+<https://www.rideapart.com/news/726321/wp-suspension-husqvarna-norden-901-upgrade/>
+
+---
+
+## Washington DC to Scooter Riders: Register Or Face Arrest
+
+date: 2024-07-12, from: Ride Apart, Electric Motorcycle News
+
+DC Police have impounded more than a hundred scooters and made several arrests due to unregistered scooters and mopeds.  
+
+<https://www.rideapart.com/news/726172/washington-dc-police-impound-arrest-unregistered-scooters/>
+
+---
+
+## 6D's New ATR-3 Off-Road Helmet Looks Dope, and You Can Replace Everything
+
+date: 2024-07-12, from: Ride Apart, Electric Motorcycle News
+
+Crash and bang up your helmet? Don't worry, 6D has the parts.  
+
+<https://www.rideapart.com/news/726304/6d-atr-3-off-road-motorcycle-helmet-debut/>
+
+---
+
+## Is MV Agusta’s Superveloce 1000 Serie Oro Too Pretty To Ride?
+
+date: 2024-07-12, from: Ride Apart, Electric Motorcycle News
+
+It certainly has the firepower to back up its sharp aesthetics.  
+
+<https://www.rideapart.com/news/726174/mv-agusta-superveloce-1000-serie-oro/>
+
+---
+
+## EV Powersports Company Taiga Motors Declares Bankruptcy, Starts Restructuring
+
+date: 2024-07-12, from: Ride Apart, Electric Motorcycle News
+
+Not waving, but drowning. 
+
+<https://www.rideapart.com/news/726309/taiga-motors-bankruptcy-ev-canada/>
+
+---
+
+## Utah Harley-Davidson Dealerships Get Sued, Allegedly Installed Illegal Exhausts
+
+date: 2024-07-12, from: Ride Apart, Electric Motorcycle News
+
+Maybe save the illegal exhaust installation for home mechanics? 
+
+<https://www.rideapart.com/news/726301/utah-harley-davidson-exhaust-install-no-catalytic-converter/>
+
+---
+
+## 2024 Indian Challenger
+
+date: 2024-07-12, from: Cycle World News
+
+Indian’s Challenger bagger brings excellent handling, touring amenities, modern safety features, and a healthy dose of power to the V-twin touring category. 
+
+<https://www.cycleworld.com/indian/challenger/>
+
+---
+
+## 2024 Harley-Davidson Street Bob 114
+
+date: 2024-07-12, from: Cycle World News
+
+Take everything great about the Softail Standard, give it a larger Milwaukee-Eight 114 engine, flash paint, and less chrome, and that’s the Street Bob 114. 
+
+<https://www.cycleworld.com/harley-davidson/street-bob-114/>
+
+---
+
+## MV Agusta Superveloce 1000 Serie Oro First Look
+
+date: 2024-07-11, from: Cycle World News
+
+It’s been a while since MV Agusta has offered an inline-four superbike, but now the Italian brand has released the Superveloce 1000 Serie Oro. 
+
+<https://www.cycleworld.com/bikes/mv-agusta-superveloce-1000-serie-oro-first-look/>
+
+---
+
+## 2024 Harley-Davidson Softail Standard
+
+date: 2024-07-11, from: Cycle World News
+
+It’s a stretch calling the Harley-Davidson Softail Standard “entry-level,” though it’s the least pricey Big Twin. Really, it’s an entry to H-D’s cruiser core. 
+
+<https://www.cycleworld.com/harley-davidson/softail-standard/>
+
+---
+
+## HANX For Our Troops and Harley-Davidson Forge Partnership to Support Veterans
+
+date: 2024-07-11, from: Cycle World News
+
+Harley-Davidson Motor Company proudly announces a partnership with HANX For Our Troops, a mission-driven consumer products brand committed to uplifting and supporting veterans and their families. 
+
+<https://www.cycleworld.com/the-wire/hanx-for-our-troops-and-harley-davidson-forge-partnership-to-support-veterans/>
+
+---
+
+## 2024 Harley-Davidson Hydra-Glide Revival
+
+date: 2024-07-11, from: Cycle World News
+
+The limited-edition Harley-Davidson Hydra-Glide Revival pays homage to the 1956 FLH. Is it one of the most faithful-to-the-original retros on the market? 
+
+<https://www.cycleworld.com/harley-davidson/hydra-glide-revival/>
+
+---
+
+## 2024 Harley-Davidson Heritage Classic 114
+
+date: 2024-07-11, from: Cycle World News
+
+The Heritage Classic 114 is a foundational standard in the Harley lineup, effortlessly balancing retro-modern style with all-modern H-D performance. 
+
+<https://www.cycleworld.com/harley-davidson/heritage-classic-114/>
 
 ---
 
@@ -79,16 +209,6 @@ It's not hard to see why the Maeving RM1S is one of the UK's best-selling electr
 
 ---
 
-## 2024 Harley-Davidson Heritage Classic 114
-
-date: 2024-07-11, from: Cycle World News
-
-The Heritage Classic 114 is a foundational standard in the Harley lineup, effortlessly balancing retro-modern style with all-modern H-D performance. 
-
-<https://www.cycleworld.com/harley-davidson/heritage-classic-114/>
-
----
-
 ## Noah Gragson Sees Stability in Multi-Year Deal at Front Row
 
 date: 2024-07-10, from: Kickin the Tires blog
@@ -116,16 +236,6 @@ date: 2024-07-10, from: Cycle World News
 An excellent electric motorcycle, the LiveWire S2 Mulholland still wrestles with common electric bike issues. Is It time to change how we think about EVs? 
 
 <https://www.cycleworld.com/motorcycle-reviews/livewire-s2-mulholland-review/>
-
----
-
-## 2024 Harley-Davidson Hydra-Glide Revival
-
-date: 2024-07-10, from: Cycle World News
-
-The limited-edition Harley-Davidson Hydra-Glide Revival pays homage to the 1956 FLH. Is it one of the most faithful-to-the-original retros on the market? 
-
-<https://www.cycleworld.com/harley-davidson/hydra-glide-revival/>
 
 ---
 

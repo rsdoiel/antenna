@@ -1,21 +1,110 @@
 ---
 title: socal north 2024.28
-updated: 2024-07-11 07:40:30
+updated: 2024-07-12 09:20:57
 ---
 
 # socal north 2024.28
 
-(date: 2024-07-11 07:40:30)
+(date: 2024-07-12 09:20:57)
 
 ---
 
-## Family-friendly field trips to learn more about LA’s original, Indigenous stewards
+## LA County District Attorney charges detainee in alleged on-campus sexual assault
+
+date: 2024-07-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor&#8217;s note: The following article contains a description of an alleged sexual assault incident.
+The Los Angeles County District Attorney charged a man with allegedly sexually assaulting a UCLA student at Saxon Suites. 
+
+<https://dailybruin.com/2024/07/11/la-county-district-attorney-charges-detainee-in-alleged-on-campus-sexual-assault/>
+
+---
+
+## Consignment store 2nd Street to open doors in Westwood Village this summer
+
+date: 2024-07-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA students hoping to shop sustainably will soon be able to look no further than Westwood Village.
+2nd Street is a Japan-based consignment store that offers second-hand luxury, vintage and streetwear clothing, according to its website. 
+
+<https://dailybruin.com/2024/07/11/consignment-store-2nd-street-to-open-doors-in-westwood-village-this-summer/>
+
+---
+
+## Alumnus’s donation establishes fellowship for study of Latinx communities and law
+
+date: 2024-07-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Critical Race Studies program at the UCLA School of Law received a $1 million gift in April to fund a fellowship across eight to nine years for four to five students pursuing careers in Latinx legal academia. 
+
+<https://dailybruin.com/2024/07/11/alumnuss-donation-establishes-fellowship-for-study-of-latinx-communities-and-law/>
+
+---
+
+## USAC approves $10.6M budget, including officer raises, for 2024-2025 fiscal year
+
+date: 2024-07-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council unanimously approved its budget for the 2024-2025 fiscal year during its Tuesday meeting. 
+The budget estimates $10,596,556 in budgetable income and designates $10,536,556 for budgetable expenses for the fiscal year, which is set to commence Aug. 
+
+<https://dailybruin.com/2024/07/11/usac-approves-10-6m-budget-including-officer-raises-for-2024-2025-fiscal-year/>
+
+---
+
+## Former Bruins clinch podium placements in AUX Softball season
+
+date: 2024-07-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+Softball looked for a professional league that could raise revenue at the highest level of competition.
+Now it&#8217;s here.
+Athletes Unlimited &#8211; a network of professional women&#8217;s sports leagues &#8211; created the AUX Softball event that started in 2022. 
+
+<https://dailybruin.com/2024/07/11/former-bruins-clinch-podium-placements-in-aux-softball-season/>
+
+---
+
+## Creativity in Every Corner
+
+date: 2024-07-11, from: City of Santa Clarita
+
+<p>By Mayor Pro Tem Bill Miranda Santa Clarita is known, not only for its scenic open spaces and family-friendly community, but also for its commitment to nurturing the arts and fostering a thriving, dynamic environment where creativity can flourish. The arts play a pivotal role in enhancing our City, offering a medium for expression, dialogue [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/07/11/creativity-in-every-corner/">Creativity in Every Corner</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/07/11/creativity-in-every-corner/>
+
+---
+
+## New lawsuit aims to stop LA leaders from further ‘thwarting’ Venice homeless housing project
 
 date: 2024-07-11, updated: 2024-07-11, from: The LAist
 
-Ideas of where you and your little ones can go to explore California’s Indigenous history and present-day culture. 
+The suit alleges two top city elected officials have covertly and illegally thwarted a housing proposal for a city-owned lot that’s 800 feet from the beach in Venice. The officials, including the L.A. city attorney, did not have comment. 
 
-<https://laist.com/news/education/places-to-go-los-angeles-native-american-gabrielino-tongva-chumash-tataviam-kids-history-family-friendly>
+<https://laist.com/news/housing-homelessness/venice-dell-homeless-housing-project-lawsuit>
+
+---
+
+## Cal State Fullerton promised a big space for Native American repatriation, then removed the leaders planning it
+
+date: 2024-07-11, updated: 2024-07-12, from: The LAist
+
+Part of a university library was to be used to house Native American cultural artifacts and human remains. Now they're in the basement of an academic building. 
+
+<https://laist.com/news/education/cal-state-fullerton-native-american-repatriation-administrator-removal>
+
+---
+
+## Paint the Ice at The Cube Before Temporary Closure!
+
+date: 2024-07-11, from: City of Santa Clarita
+
+<p>&#160;Paint the Surface of the Ice at The Cube for FREE! Have you ever wanted to paint the surface of an ice rink? Now’s your chance! The community is invited to bring their friends and family to a Paint the Ice event at The Cube – Ice and Entertainment Center &#124; Powered by FivePoint Valencia [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/07/11/paint-the-ice-at-the-cube-before-temporary-closure/">Paint the Ice at The Cube Before Temporary Closure!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/07/11/paint-the-ice-at-the-cube-before-temporary-closure/>
 
 ---
 
@@ -26,6 +115,16 @@ date: 2024-07-11, updated: 2024-07-11, from: The LAist
 In recent years, a number of institutions have adopted land acknowledgements. But for young children, settler colonialism might be hard to grasp. Here's how to help children understand. 
 
 <https://laist.com/news/education/early-childhood-education-pre-k/how-to-help-children-understand-the-indigenous-land-they-live-on>
+
+---
+
+## Family-friendly field trips to learn more about LA’s original, Indigenous stewards
+
+date: 2024-07-11, updated: 2024-07-11, from: The LAist
+
+Ideas of where you and your little ones can go to explore California’s Indigenous history and present-day culture. 
+
+<https://laist.com/news/education/places-to-go-los-angeles-native-american-gabrielino-tongva-chumash-tataviam-kids-history-family-friendly>
 
 ---
 

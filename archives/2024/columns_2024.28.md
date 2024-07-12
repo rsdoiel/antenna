@@ -1,11 +1,631 @@
 ---
 title: columns 2024.28
-updated: 2024-07-11 07:40:33
+updated: 2024-07-12 09:21:01
 ---
 
 # columns 2024.28
 
-(date: 2024-07-11 07:40:33)
+(date: 2024-07-12 09:21:01)
+
+---
+
+##  Cyanokites are a collection of five paper kites of different shades of... 
+
+date: 2024-07-12, updated: 2024-07-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044936-cyanokites-are-a-collecti>
+
+---
+
+##  Printernet: Get a custom print version of your reading list sent right... 
+
+date: 2024-07-12, updated: 2024-07-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044930-printernet-get-a-custom-p>
+
+---
+
+##  Molly White: Fighting bots is fighting humans. &#8220;Any attempt at limiting bot... 
+
+date: 2024-07-12, updated: 2024-07-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044905-molly-white-fighting-bots>
+
+---
+
+## NUMA Emulation speeds up Pi 5 (and other improvements)
+
+date: 2024-07-12, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">NUMA Emulation speeds up Pi 5 (and other improvements)</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Recently an Igalia engineer posted a <a href="https://lore.kernel.org/lkml/20240625125803.38038-1-tursulin@igalia.com/">NUMA Emulation patch</a> for the Pi 5 to the Linux Kernel mailing list. He said it could improve performance of Geekbench 6 scores up to 6% for single-core, and 18% for multicore.</p>
+
+<p>My testing didn't quite match those numbers, but I did see a significant and consistent performance increase across both Geekbench 6:</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/pi-5-geekbench-numa-emulation-patch-faster.jpg" alt="Raspberry Pi 5 Geekbench 6 Score comparison with NUMA Emulation enabled"></p>
+
+<p>And High Performance Linpack:</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/pi-5-hpl-numa-emulation-patch-faster.jpg" alt="Raspberry Pi 5 HPL Gigaflops and efficiency comparison with NUMA Emulation enabled"></p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-07-12T09:01:15-05:00" title="Friday, July 12, 2024 - 09:01" class="datetime">July 12, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/numa-emulation-speeds-pi-5-and-other-improvements>
+
+---
+
+## Route around journalism
+
+date: 2024-07-12, from: Dave Winer's Scripting News
+
+<p>Why journalists don’t bother trying to take Trump down, but do with the Democrat.</p>
+<p>Simple. Trump has routed around journalism as we have begged the Dems to by going direct to the people.</p>
+<p>The journos have no power over Trump and they know it.</p>
+<p>They have total power over the Dems, and they know that too.</p>
+<p>If by some miracle the journos let us (voters) determine the president, we must <i>never</i> let them have this power again.</p>
+ 
+
+<http://scripting.com/2024/07/12/131822.html?title=routeAroundJournalism>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-12, from: Dave Winer's Scripting News)
+
+Here are the <a href="http://scripting.com/2024/07/12/123754.html">show notes</a> for this episode. 
+
+<http://scripting.com/2024/07/12.html#a131502>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-12, from: Dave Winer's Scripting News)
+
+The episode from <a href="http://scripting.com/2004/07/12.html#When:9:29:59AM">this day</a> in 2004 is now in the <a href="https://this.how/podcast0/">Podcast0</a> feed. 
+
+<http://scripting.com/2024/07/12.html#a130118>
+
+---
+
+## 2024-07-12 From Vallorbe to Orbe
+
+date: 2024-07-12, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-12-from-vallorbe-to-orbe">2024-07-12 From Vallorbe to Orbe</h1>
+
+<p>We walked and ran from Vallorbe to Orbe, through the <a href="https://yverdonlesbainsregion.ch/en/itineraire/the-gorge-of-orbe/">Gorge of Orbe</a>, nearly 17km. Both my wife and I took some pictures along the way.</p>
+
+<p>When we left Vallorbe, the river was calm and slow. There were a lot of flowers.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-1.jpg" alt="" /></p>
+
+<p>The yellow flowers in the foreground:</p>
+
+<p>Tüpfel-Hartheu<br>
+Hypericum perforatum</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-18.jpg" alt="" /></p>
+
+<p>In the other direction, the railway bridge can be seen.</p>
+
+<p>Schmalblättriges Weidenröschen<br>
+Epilobium angustifolium</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-17.jpg" alt="" /></p>
+
+<p>As it turns out, there is a pedestrian passage beneath the railway.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-2.jpg" alt="" /></p>
+
+<p>And here we&rsquo;re underneath one of these arches, looking back at Vallorbe.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-3.jpg" alt="" /></p>
+
+<p>Later, the gorge got a lot narrower. We crossed over the river just for bit because there was a nice lookout on the other side. Two friendly teenagers took pictures of us.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-4.jpg" alt="" /></p>
+
+<p>The water was pretty turbulent up here. We&rsquo;re just above the falls of the Day, though: Le Saut du Day.
+The small lookout is built right there, overlooking the falls.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-19.jpg" alt="" />
+<img loading="lazy" src="2024-07-11-vallorbe-6.jpg" alt="" /></p>
+
+<p>We walked down along the falls and noticed some weird constructions on the other side.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-23.jpg" alt="" /></p>
+
+<p>And on our side, there was this foreboding entrance. As it turns out, however, it leads into a passage underneath the waterfall!</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-21.jpg" alt="" /></p>
+
+<p>The sign had an explanation of how there used to be a hydro power plant here.
+The electricity was used to create explosives.
+When the canton gave itself the electricity monopoly, the chemical plant was forced to buy the electricity at regular prices and since those were 4–5 times as much, the chemical plant was forced to close down.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-22.jpg" alt="" /></p>
+
+<p>We continued on our way, with one last look back.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-30.jpg" alt="" /></p>
+
+<p>Down below the river was calm again.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-24.jpg" alt="" /></p>
+
+<p>The occasional steps are there to break the speed of the flow, I guess?</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-8.jpg" alt="" /></p>
+
+<p>The trail started climbing up and down along the river.
+When the cliffs were to risky to navigate, they had drilled small tunnels.
+Using explosives, I presume.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-9.jpg" alt="" /></p>
+
+<p>We saw many nice flowers along the way.</p>
+
+<p>Further up, along some meadows:</p>
+
+<p>Dornige Hauhechel (Artengruppe)<br>
+Ononis spinosa agg.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-27.jpg" alt="" /></p>
+
+<p>Fuchsschwanz-Klee<br>
+Trifolium rubens</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-28.jpg" alt="" /></p>
+
+<p>Deeper in the shade of the trees:</p>
+
+<p>Nesselblättrige Glockenblume<br>
+Campanula trachelium</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-29.jpg" alt="" /></p>
+
+<p>At one point there was a very cool draft coming out of the bushes above us and we found an entrance to a big tunnel! It had warning signs for speleologists, particularly regarding heat and noise – because of the bats that like to sleep and hibernate in here. We didn&rsquo;t see any bats in our 4–5m delve, however. The floor was very wet.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-25.jpg" alt="" />
+<img loading="lazy" src="2024-07-11-vallorbe-26.jpg" alt="" /></p>
+
+<p>Later, we came upon the pressurized water pipes that still feed a hydro power plant. These pipes are huge!</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-10.jpg" alt="" />
+<img loading="lazy" src="2024-07-11-vallorbe-11.jpg" alt="" /></p>
+
+<p>Before arriving at Orbe, there was another lake and more dams.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-12.jpg" alt="" /></p>
+
+<p>And finally, Orbe. An old town with houses and small gardens.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-13.jpg" alt="" /></p>
+
+<p>The main road of Orbe.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-16.jpg" alt="" /></p>
+
+<p>And tiny back-alleys with occasional connections for the upper floors.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-14.jpg" alt="" /></p>
+
+<p>A great view over the flat lands. Incidentally, the remaining distance to Yverdon-les-bains where our hotel is, doesn&rsquo;t make for great running in the summer heat. Also we were dead tired! 😅</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-15.jpg" alt="" /></p>
+
+<p><a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-11-vallorbe>
+
+---
+
+## The NSA Has a Long-Lost Lecture by Adm. Grace Hopper
+
+date: 2024-07-12, updated: 2024-07-11, from: Bruce Schneier blog
+
+<p>The NSA has a video recording of a 1982 lecture by Adm. Grace Hopper titled &#8220;Future Possibilities: Data, Hardware, Software, and People.&#8221; The agency is (so far) <a href="https://www.muckrock.com/news/archives/2024/jul/10/grace-hopper-lost-lecture-found-nsa/">refusing</a> to release it.</p>
+<p>Basically, the recording is in an obscure video format. People at the NSA can&#8217;t easily watch it, so they can&#8217;t redact it. So they won&#8217;t do anything.</p>
+<blockquote><p>With digital obsolescence threatening many early technological formats, the dilemma surrounding Admiral Hopper&#8217;s lecture underscores the critical need for and challenge of digital preservation. This challenge transcends the confines of NSA&#8217;s operational scope. It is our shared obligation to safeguard such pivotal elements of our nation&#8217;s history, ensuring they remain within reach of future generations. While the stewardship of these recordings may extend beyond the NSA&#8217;s typical purview, they are undeniably a part of America&#8217;s national heritage...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/07/the-nsa-has-a-long-lost-lecture-by-adm-grace-hopper.html>
+
+---
+
+## 2024-07-11 Exim config for UUCP, NNCP and MSMTP
+
+date: 2024-07-12, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-11-exim-config-for-uucp-nncp-and-msmtp">2024-07-11 Exim config for UUCP, NNCP and MSMTP</h1>
+
+<p>My laptop doesn&rsquo;t have a static IP number. My mail service provider is not a smart host for my laptop.
+That&rsquo;s why I&rsquo;ve been using <code>msmtp</code> to send email from the command line.</p>
+
+<p>My <code>~/.mailrc</code> used to contain the following:</p>
+
+<pre><code>set sendmail=&quot;/usr/bin/msmtp&quot;
+</code></pre>
+
+<p>I removed this line because I want to send mails by UUCP or NNCP, depending on the domain used.
+It is only when none of these work that I want to fall back to <code>msmtp</code>.</p>
+
+<p>Clearly, I need to add something to my <code>exim</code> configuration. When reading the <code>exim</code> config, it&rsquo;s important
+to understand that all the additions come in pairs: a router and a transport.</p>
+
+<p>I use Debian.</p>
+
+<h2 id="mail-and-ed">mail and ed</h2>
+
+<p>I use <code>mail</code> to read mail and <code>ed</code> to write mail. At least when I&rsquo;m doing this particular admin hobby project. 😂</p>
+
+<p>As people will use a variety of domain names to send mail to me, I have to decide which ones <code>mail</code> should recognize as being &ldquo;me&rdquo;. That&rsquo;s why <code>~/.mailrc</code> contains the following:</p>
+
+<pre><code>alternates alex@sibirocobombus,alex@campaignwiki.org,alex@campaignwiki
+</code></pre>
+
+<p>To read MIME-encoded mail, I use <code>munpack -t</code> which comes with the <code>mpack</code> package.</p>
+
+<h2 id="etc-exim4-update-exim4-conf-conf">/etc/exim4/update-exim4.conf.conf</h2>
+
+<p>This is the file generated by <code>sudo dpkg-reconfigure exim4-config</code>.</p>
+
+<p>Importantly, it specifies that my laptop only delivers local mail.
+UUCP, NNCP and <code>msmtp</code> are all exceptions to that.</p>
+
+<p>This config file also specifies that the <code>exim</code> configuration is split into many small files.
+This makes it easy for me to add new files.</p>
+
+<p>When I make changes, I must always run <code>sudo update-exim4.conf</code>.</p>
+
+<p>The config files are concatenated in sort order, which is why the file names start with numbers.
+All of the routers must sort before <code>200_exim4-config_primary</code> because it stops all processing.
+It does that because this config file says that my laptop only delivers local mail.</p>
+
+<pre><code>dc_eximconfig_configtype='local'
+dc_other_hostnames='melanobombus'
+dc_local_interfaces='127.0.0.1 ; ::1'
+dc_readhost='alexschroeder.ch'
+dc_relay_domains=''
+dc_minimaldns='false'
+dc_relay_nets=''
+dc_smarthost=''
+CFILEMODE='644'
+dc_use_split_config='true'
+dc_hide_mailname='false'
+dc_mailname_in_oh='true'
+dc_localdelivery='mail_spool'
+</code></pre>
+
+<h2 id="etc-exim4-conf-d-router-110-exim4-config-uucp">/etc/exim4/conf.d/router/110_exim4-config_uucp</h2>
+
+<p>The domains that get mail via UUCP are listed in <code>/etc/exim4/uucp</code>.</p>
+
+<pre><code>uucp_router:
+    debug_print = &quot;R: uucp_router for $local_part@$domain&quot;
+    driver = accept
+    require_files = +/usr/bin/uux
+    domains = wildlsearch;/etc/exim4/uucp
+    transport = rsmtp
+</code></pre>
+
+<p>Example <code>/etc/exim4/uucp</code>:</p>
+
+<pre><code>dwalin	sibirocobombus!dwalin
+campaignwiki	sibirocobombus
+</code></pre>
+
+<p>That is, <code>dwalin</code> can only be reached via <code>sibirocobombus</code> and <code>campaignwiki</code> is the same as <code>sibirocobombus</code>.</p>
+
+<p><code>sibirocobombus</code> is defined in <code>/etc/uucp/sys</code>.</p>
+
+<p>Note that mail to the <code>sibirocobombus</code> domain itself doesn&rsquo;t get sent via UUCP!</p>
+
+<h2 id="etc-exim4-conf-d-router-111-exim4-config-nncp">/etc/exim4/conf.d/router/111_exim4-config_nncp</h2>
+
+<p>The domains that get mail via NNCP are listed in <code>/etc/exim4/nncp</code>.</p>
+
+<pre><code>nncp_router:
+    debug_print = &quot;R: nncp_router for $local_part@$domain&quot;
+    driver=accept
+    require_files = +/usr/bin/nncp-exec
+    domains = wildlsearch;/etc/exim4/nncp
+    transport = nncp
+</code></pre>
+
+<p>Example <code>/etc/exim4/nncp</code>:</p>
+
+<pre><code>sibirocobombus          sibirocobombus
+erebor                  erebor
+</code></pre>
+
+<p>Compare this to the previous entry. Mail to the <code>sibirocobombus</code> domain is sent via NNCP!</p>
+
+<p>Both <code>sibirocobombus</code> and <code>erebor</code> must be defined in <code>/etc/nncp.hjson</code>.</p>
+
+<h2 id="etc-exim4-conf-d-router-112-exim4-config-msmtp">/etc/exim4/conf.d/router/112_exim4-config_msmtp</h2>
+
+<p>This relies on the fact that the sender is a local user.</p>
+
+<pre><code>msmtp_router:
+    debug_print = &quot;R: msmtp_router for $local_part@$domain&quot;
+    driver=accept
+    user = ${lookup{$sender_address_local_part}lsearch,ret=key{/etc/passwd}}
+    domains = ! +local_domains
+    require_files = +/usr/bin/msmtp
+    transport = msmtp
+</code></pre>
+
+<h2 id="etc-exim4-conf-d-transport-40-exim4-config-uucp">/etc/exim4/conf.d/transport/40_exim4-config_uucp</h2>
+
+<pre><code>rsmtp:
+    debug_print = &quot;T: rsmtp for $pipe_addresses&quot;
+    driver=pipe
+    command = /usr/bin/uux - -r -a${lookup{$sender_address_local_part}lsearch,ret=key{/etc/passwd}} -gC $domain_data!rsmtp
+    use_bsmtp
+    return_fail_output
+    user=uucp
+    batch_max = 100
+</code></pre>
+
+<h2 id="etc-exim4-conf-d-transport-41-exim4-config-nncp">/etc/exim4/conf.d/transport/41_exim4-config_nncp</h2>
+
+<pre><code>nncp:
+    debug_print = &quot;T: nncp for $pipe_addresses&quot;
+    driver=pipe
+    user=nncp
+    command = /usr/bin/nncp-exec -noprogress -quiet $domain_data rsmtp
+    use_bsmtp
+    return_fail_output
+</code></pre>
+
+<h2 id="etc-exim4-conf-d-transport-42-exim4-config-msmtp">/etc/exim4/conf.d/transport/42_exim4-config_msmtp</h2>
+
+<pre><code>msmtp:
+    debug_print = &quot;T: msmtp for $pipe_addresses&quot;
+    driver = pipe
+    command = /usr/bin/msmtp --read-recipients --file=/home/${lookup{$sender_address_local_part}lsearch,ret=key{/etc/passwd}}/.config/msmtp/config
+    return_fail_output
+</code></pre>
+
+<p>Note that this ensures that <code>msmtp</code> is run for each user, using their own config files.</p>
+
+<p>My config is stored in <code>~/.config/msmtp/config</code> and it must necessarily be non-interactive.</p>
+
+<h2 id="previous-blog-posts">Previous blog posts:</h2>
+
+<ul>
+<li><a href="2024-06-30-nncp">2024-06-30 Connecting the laptop to the server using UUCP</a></li>
+<li><a href="2024-06-29-nncp">2024-06-29 Sending mail from the laptop to the server via NNCP</a></li>
+<li><a href="2024-06-28-nncp">2024-06-28 Connecting the laptop to the server via NNCP</a></li>
+<li><a href="2024-06-15-uucp">2024-06-15 Old tech: UUCP</a></li>
+<li><a href="2020-12-17_Rmail">2020-12-17 Rmail</a>, about <code>msmtp</code></li>
+</ul>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Mail">#Mail</a> <a class="tag" href="/search/?q=%23UUCP">#UUCP</a> <a class="tag" href="/search/?q=%23NNCP">#NNCP</a> <a class="tag" href="/search/?q=%23msmtp">#msmtp</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-11-exim>
+
+---
+
+## Debunking Myth #7: America is socialist
+
+date: 2024-07-12, from: Robert Reich's blog
+
+BUNK! 
+
+<https://robertreich.substack.com/p/debunking-myth-7-america-is-socialist>
+
+---
+
+## July 11, 2024 
+
+date: 2024-07-12, from: Heather Cox Richardson blog
+
+Yesterday, Raw Story reported that Ivan Raiklin, Trump&#8217;s self-declared &#8220;Secretary of Retribution&#8221; has compiled a &#8220;Deep State target list&#8221; of 350 people he wants to see arrested and punished for &#8220;treason&#8221; if Trump is reelected. The list includes Democratic and Republican elected officials, journalists he considers to be Trump&#8217;s enemies, U.S. Capitol Police officers, and witnesses against Trump in his impeachment trials and the hearings concerning the events of January 6, 2021. 
+
+<https://heathercoxrichardson.substack.com/p/july-11-2024>
+
+---
+
+## There’s only one relevant question
+
+date: 2024-07-12, from: Robert Reich's blog
+
+Fearful thoughts on hearing Biden&#8217;s first news conference since November 2023 
+
+<https://robertreich.substack.com/p/theres-only-one-relevant-question>
+
+---
+
+##  The Cleverness of the Axe 
+
+date: 2024-07-11, updated: 2024-07-11, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/the-cleverness-of-the-axe>
+
+---
+
+## Friday 12 July, 2024
+
+date: 2024-07-11, from: John Naughton's online diary
+
+Deux Amis Neither of the friends were around when I called, alas. Quote of the Day We forget most of our past but embody all of it. John Updike Musical alternative to the morning’s radio news Michael Hedges &#124; Aerial &#8230; <a href="https://memex.naughtons.org/friday-12-july-2024/39627/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-12-july-2024/39627/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-11, from: Dave Winer's Scripting News)
+
+I had a post here about the inevitability of Biden stepping aside, then I turned on the news and saw how the press was humiliating the President at a meeting with the president of Ukraine. We can't give into this. How dare they insult the president as he represents the US in NATO. I can't get behind this. We're in a bad bad place. 
+
+<http://scripting.com/2024/07/11.html#a222615>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-11, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=-1pYKdqD1ls">Respect Yourself</a>. For all of us, but especially the people of the United States of America. 
+
+<http://scripting.com/2024/07/11.html#a221110>
+
+---
+
+## The importance of anecdotal evidence
+
+date: 2024-07-11, from: Tracy Durnell Blog
+
+When it comes to environmental harm, where should the burden of proof stand? How much evidence do we need before we pursue regulation, or pull back on usage? In America, we like the idea of &#8220;innocent until proven guilty,&#8221; but it doesn&#8217;t necessarily make sense to apply this logic beyond humans to novel chemicals (e.g. [&#8230;] 
+
+<https://tracydurnell.com/2024/07/11/the-importance-of-anecdotal-evidence/>
+
+---
+
+##  Area codes that are also HTTP response headers. For instance, 404 (Not... 
+
+date: 2024-07-11, updated: 2024-07-11, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044943-area-codes-that-are-also>
+
+---
+
+## Interaction bait is killing social media
+
+date: 2024-07-11, from: Chris Heilmann's blog
+
+OK, I&#8217;m going to say it: interaction bait is killing social media. You know what I&#8217;m talking about. Those posts that are designed to get you to comment, like, or share. They&#8217;re everywhere, and they&#8217;re getting more and more annoying. I never cared much about timelines. Almost all my social media interaction is posting things, [&#8230;] 
+
+<https://christianheilmann.com/2024/07/11/interaction-bait-is-killing-social-media/>
+
+---
+
+##  Reading Miranda July&#8217;s All Fours 
+
+date: 2024-07-11, updated: 2024-07-11, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/reading-miranda-julys-all-fours>
+
+---
+
+##  This Crystal Fragment Turns Everything You See Into 8-bit Pixel Art, and... 
+
+date: 2024-07-11, updated: 2024-07-11, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044940-this-crystal-fragment-tur>
+
+---
+
+## A special note to our friends at Steady
+
+date: 2024-07-11, from: Dan Rather's Steady
+
+There&#8217;s a new documentary out on Netflix titled &#8220;Rather,&#8221; about Dan&#8217;s life and career. The distinguished director Frank Marshall, the production company Wavelength, and countless others did a masterful job making this film. They did so independent of Dan but with his cooperation. Click 
+
+<https://steady.substack.com/p/a-special-note-to-our-friends-at>
+
+---
+
+## July 10, 2024
+
+date: 2024-07-11, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/july-10-2024-71d>
+
+---
+
+##  Gene Kelly Doesn&#8217;t Want to Perform Singin&#8217; in the Rain on the Muppet Show 
+
+date: 2024-07-11, updated: 2024-07-11, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/gene-kelly-doesnt-want-to-perform-singin-in-the-rain-on-the-muppet-show>
+
+---
+
+## Apple Is Alerting iPhone Users of Spyware Attacks
+
+date: 2024-07-11, updated: 2024-07-11, from: Bruce Schneier blog
+
+<p>Not a lot of <a href="https://techcrunch.com/2024/07/10/apple-alerts-iphone-users-in-98-countries-to-mercenary-spyware-attacks/">details</a>:</p>
+<blockquote><p>Apple has issued a new round of threat notifications to iPhone users across 98 countries, warning them of potential mercenary spyware attacks. It&#8217;s the second such alert campaign from the company this year, following a <a href="https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/">similar notification sent to users in 92 nations</a> in April.</p></blockquote>
+ 
+
+<https://www.schneier.com/blog/archives/2024/07/apple-is-alerting-iphone-users-of-spyware-attacks.html>
+
+---
+
+## More On The Halvening
+
+date: 2024-07-11, from: David Rosenthal's blog
+
+At the end of May I wrote <a href="https://blog.dshr.org/2024/05/one-heck-of-halvening.html"><i>One Heck Of A Halvening</i></a> about the aftermath of the halving of Bitcoin's block reward on April 19<sup>th</sup>. Six weeks later it is time for a quick update, so follow me below the fold.<br />
+<span><a name='more'></a></span>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuT-2jCqGHt7qR_DkpKnZ9TYW_nuFzfW7EGIEl0s615phZAkVNeOouSXXavSXQC5Ii8zBVIgSqIXpJeDn-vyAGhAsyGx99O1FocG7uQZO8bu0WKx3qlqoMdLYaufkjAQoOss8uwkpoqbxc0emEImhcR3BLlGxDFiTuRYgS473d-nIW-NIkp8b0_na6dJAS/s1200/hash-rate.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="600" data-original-width="1200" height="100" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuT-2jCqGHt7qR_DkpKnZ9TYW_nuFzfW7EGIEl0s615phZAkVNeOouSXXavSXQC5Ii8zBVIgSqIXpJeDn-vyAGhAsyGx99O1FocG7uQZO8bu0WKx3qlqoMdLYaufkjAQoOss8uwkpoqbxc0emEImhcR3BLlGxDFiTuRYgS473d-nIW-NIkp8b0_na6dJAS/w200-h100/hash-rate.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.blockchain.com/explorer/charts/hash-rate">Source</a></td></tr></tbody></table>
+All the graphs in this post are 7-day moving averages, to filter out some of the noise. The first shows what the halvening did to the hash rate. Before the halvening it was around 620EH/s. Except for a spike up to 657EH/s on 26<sup>th</sup> May, after the BTC "price" hit nearly $71.5K, it has hovered around 580EH/s. Since power is the biggest cost, the miners' costs have dropped up to 6.5% since the halvening.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmsGbb2_nQwkqSYdNfwKVPvZIm1GaOXHWa3wC9Zj8M7TQv2rvt3TTG0ebrlykyzqny5_aFO2LU1xMlJdE5r8Hi383ttGaGD3mrEOXVaEr4ohiFdpLfcu9BCGCXTw9UExBElTVEMorlXG9Diea-U1Y13vuL1St_LDuPnfLsK_h-ImAI13aK7WUV6iJCVhyC/s1200/miners-revenue.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="600" data-original-width="1200" height="100" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmsGbb2_nQwkqSYdNfwKVPvZIm1GaOXHWa3wC9Zj8M7TQv2rvt3TTG0ebrlykyzqny5_aFO2LU1xMlJdE5r8Hi383ttGaGD3mrEOXVaEr4ohiFdpLfcu9BCGCXTw9UExBElTVEMorlXG9Diea-U1Y13vuL1St_LDuPnfLsK_h-ImAI13aK7WUV6iJCVhyC/w200-h100/miners-revenue.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.blockchain.com/explorer/charts/miners-revenue">Source</a></td></tr></tbody></table>
+The second graph is much more dramatic. It shows miners' revenue dropping from around $70M/day before the the halvening to around $30M/day after, a drop of 57%. So with costs down 6.5% and revenue down 57% their margins have taken a huge hit.<br />
+<br />
+Back in May I <a href="https://blog.dshr.org/2024/05/one-heck-of-halvening.html">wrote</a>:<br />
+<blockquote>
+Lets start back in October when the Bitcoin "price" was in the high $20Ks. This was a problem, because only the most efficient miners could make a profit at that "price".
+</blockquote>
+Mysteriously, that was when Tether's money printer started running at full speed, and the "price" got pumped up to around $70K. If I'm right that only the most efficient miners could make money with the "price" in the high $20Ks, and if their (income - costs) has dropped 50%, the most efficient miners need the "price" to be in the mid-$50Ks. Mysteriously, the mid-$50Ks is where the "price" has dropped to, down 21% since its last peak on June 5<sup>th</sup>.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLOlCwKKzFtPOF2-n9-jooIEWxCv9M8gyh_0Qs47LPmRVbAc7o6chzbm_dW-rNv4hRETS-WzdBHwPApZYIwMvpdrNiyDX_E7Y3H1Poq4kfkS5y8Tl_RJx3iK2-nToU8dT7bpP6PcyiHk3kDbMAaNxxYMjGsINrbU6CpaDthJFUp8Ww1bPdwYHmmApzxZwx/s800/HashRate-052724.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="400" data-original-width="800" height="100" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLOlCwKKzFtPOF2-n9-jooIEWxCv9M8gyh_0Qs47LPmRVbAc7o6chzbm_dW-rNv4hRETS-WzdBHwPApZYIwMvpdrNiyDX_E7Y3H1Poq4kfkS5y8Tl_RJx3iK2-nToU8dT7bpP6PcyiHk3kDbMAaNxxYMjGsINrbU6CpaDthJFUp8Ww1bPdwYHmmApzxZwx/w200-h100/HashRate-052724.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.blockchain.com/explorer/charts/hash-rate">Source</a></td></tr></tbody></table>
+That the hash rate was broadly flat after the halvening is interesting. Before the pre-halvening pump started, with the BTC "price" roughly flat, there was a slow but steady increase in the hash rate reflecting Bitmain's shipments of new, efficient chips displacing a smaller contribution from older chips being turned off. Bitmain's shipments continued, but once the block reward was halved many more of the less efficient chips should have been turned off, and the hash rate reduced. This didn't happen, and I can see two possible explanations:<br />
+<ul>
+<li>It may be that mining power is highly skewed, with the vast majority coming from the latest chips running on low-cost power which are still profitable after the halvening. Then the shutdown of a huge number of older chips sucked in by the pre-halvening pump would have had only a small reduction in the total hash rate.</li>
+<li>It may be that miners are burning their excess profit from the pre-halvening pump by staying in the market rather than <a href="https://pivot-to-ai.com/">pivoting to AI</a>, each hoping to be among the survivors from the eventual cull.</li>
+</ul>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzdizVKn5gQOf0Sq4HkTPrW-FrkX_m1D_ald3Cdj7hb-BKNCB6h0l55rdxZ1dEHj2hvzfVoHssGAisa7yTFgKOdTNqCfrv-_e7aphSzGnnDogvB77MR5u7qiDUd3z5Bp71bBBSZkACNJIQ7Kk5Lm7XfJFObA2997PkgZRG7jXWsJQpzQjsXH2zbpvGOJDf/s1200/fees-usd-per-transaction.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="600" data-original-width="1200" height="100" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzdizVKn5gQOf0Sq4HkTPrW-FrkX_m1D_ald3Cdj7hb-BKNCB6h0l55rdxZ1dEHj2hvzfVoHssGAisa7yTFgKOdTNqCfrv-_e7aphSzGnnDogvB77MR5u7qiDUd3z5Bp71bBBSZkACNJIQ7Kk5Lm7XfJFObA2997PkgZRG7jXWsJQpzQjsXH2zbpvGOJDf/w200-h100/fees-usd-per-transaction.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.blockchain.com/explorer/charts/fees-usd-per-transaction">Source</a></td></tr></tbody></table>
+Another feature of the halvening was a massive spike in transaction fees to over $40/transaction. The third graph shows this spike, and a smaller one around the peak in the BTIC "price". But it also shows that right now no-one wants to transact, because the average fee is now $1.72. So the miners are once again almost entirely dependent upon inflating the currency with block rewards.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiW34vyiWP7De-oShlLa7QrMDLxCJRhyphenhyphenPt6PysCcW1M2orOB-2czL2hDdpPqB8rpkPE2GYs4Ev_OXDDp2fDeK-o5nhc8Vd_G3ea4WZK2-otWRb6EAzd-KjKMGfWwAnXWjRKQ9jvTCf7Zx3SpomeUnNUanviRuMyrw3xwj4VZ8XsAYni7vOsrxFfMqHxdil/s1200/cost-per-transaction.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="600" data-original-width="1200" height="100" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiW34vyiWP7De-oShlLa7QrMDLxCJRhyphenhyphenPt6PysCcW1M2orOB-2czL2hDdpPqB8rpkPE2GYs4Ev_OXDDp2fDeK-o5nhc8Vd_G3ea4WZK2-otWRb6EAzd-KjKMGfWwAnXWjRKQ9jvTCf7Zx3SpomeUnNUanviRuMyrw3xwj4VZ8XsAYni7vOsrxFfMqHxdil/w200-h100/cost-per-transaction.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.blockchain.com/explorer/charts/cost-per-transaction">Source</a></td></tr></tbody></table>
+The last graph shows the total cost of a transaction. It shows that the fee spike around the "price" peak made little difference, The current average cost per transaction is $48.57, of which $1.72 is the fee. So the system is 96.5% supported by inflation; there is currently no risk of the dangers associated with <a href="https://blog.dshr.org/2024/05/fee-only-bitcoin.html"><i>Fee-Only Bitcoin</i></a>.<br />
+<br /> 
+
+<https://blog.dshr.org/2024/07/more-on-halvening.html>
+
+---
+
+##  Enduring 129°F in Death Valley. &#8220;The breeze only makes things worse, by... 
+
+date: 2024-07-11, updated: 2024-07-11, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044938-enduring-129f-in-death-va>
+
+---
+
+## Seville, Spain
+
+date: 2024-07-11, from: mrusme blog
+
+"Seville is the capital and largest city of the Spanish autonomous community
+of Andalusia and the province of Seville. It is situated on the lower reaches
+of the River Guadalquivir, in the southwest of the Iberian Peninsula." 
+
+<https://xn--gckvb8fzb.com/travel/spain/seville/>
 
 ---
 

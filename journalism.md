@@ -1,21 +1,41 @@
 ---
 title: journalism 2024.28
-updated: 2024-07-11 07:40:34
+updated: 2024-07-12 09:21:03
 ---
 
 # journalism 2024.28
 
-(date: 2024-07-11 07:40:34)
+(date: 2024-07-12 09:21:03)
 
 ---
 
-## Are you willing to pay for CNN.com? Prepare to be asked before year’s end
+## NPR’s Collaborative Journalism Network to expand with an Appalachia newsroom, short-form video pilot, and more
 
-date: 2024-07-10, from: Nieman Journalism Lab
+date: 2024-07-11, from: Nieman Journalism Lab
 
-Paying for CNN is not something people are used to. Let me rephrase that: Directly paying for CNN is not something people are used to. For decades, an overwhelming majority of American households paid for cable or satellite service, and an opaque slice of that monthly charge — around $1 or so — found its... 
+In 2019, the four largest public radio stations in Texas teamed up with NPR to establish a collaborative statewide newsroom. When that collaboration was first announced, NPR specified reporting goals including “increas[ing] coverage of statewide issues and boost[ing] reporting from underserved regions.” But the vision for this experiment was always much bigger than Texas: By... 
 
-<https://www.niemanlab.org/2024/07/are-you-willing-to-pay-for-cnn-com-prepare-to-be-asked-before-years-end/>
+<https://www.niemanlab.org/2024/07/nprs-collaborative-journalism-network-to-expand-with-an-appalachia-newsroom-short-form-video-pilot-and-more/>
+
+---
+
+## The Copa, Euro, and Wimbledon finals collide on July 14. Here’s how The Athletic is preparing for its “biggest day ever.”
+
+date: 2024-07-11, from: Nieman Journalism Lab
+
+For fans of international sports, this has been the summer of decadence. June was bookended by the T20 Cricket World Cup, which — thanks in part to the U.S. team’s stunning upset over Pakistan — seemed to finally put the sport on Americans’ radars. The European Championship and Copa América kicked off halfway through the... 
+
+<https://www.niemanlab.org/2024/07/the-copa-euro-and-wimbledon-finals-collide-on-july-14-heres-how-the-athletic-is-preparing-for-its-biggest-day-ever/>
+
+---
+
+## Making sense of science: Using LLMs to help reporters understand complex research
+
+date: 2024-07-11, from: Nieman Journalism Lab
+
+During the news gathering process, reporters can often struggle with understanding complex, jargon-heavy documents, particularly in fields like science and technology. For instance, a tech reporter trying to write a story about a new study about AI may encounter difficulty making sense of specialized terms and concepts from the field. This can create friction during... 
+
+<https://www.niemanlab.org/2024/07/making-sense-of-science-using-llms-to-help-reporters-understand-complex-research/>
 
 ---
 
@@ -26,6 +46,16 @@ date: 2024-07-10, from: Nieman Journalism Lab
 In the two years that The New York Times executive editor Joe Kahn has been on the job, there&#8217;s been a firehose flow of challenges to tackle. In a New Yorker interview with Clare Malone published on Wednesday, Kahn gets into just about all of them: the biggest controversies of his tenure so far like... 
 
 <https://www.niemanlab.org/2024/07/the-new-york-times-is-constantly-thinking-about-the-hierarchy-of-the-stories-that-were-promoting-joe-kahn-says/>
+
+---
+
+## Are you willing to pay for CNN.com? Prepare to be asked before year’s end
+
+date: 2024-07-10, from: Nieman Journalism Lab
+
+Paying for CNN is not something people are used to. Let me rephrase that: Directly paying for CNN is not something people are used to. For decades, an overwhelming majority of American households paid for cable or satellite service, and an opaque slice of that monthly charge — around $1 or so — found its... 
+
+<https://www.niemanlab.org/2024/07/are-you-willing-to-pay-for-cnn-com-prepare-to-be-asked-before-years-end/>
 
 ---
 

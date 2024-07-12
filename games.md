@@ -1,11 +1,111 @@
 ---
 title: games 2024.28
-updated: 2024-07-11 07:40:34
+updated: 2024-07-12 09:21:02
 ---
 
 # games 2024.28
 
-(date: 2024-07-11 07:40:34)
+(date: 2024-07-12 09:21:02)
+
+---
+
+## How the Descendants franchise became the biggest thing in Disney villainy
+
+date: 2024-07-12, updated: 2024-07-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24196575/descendants-rise-red-explainer-disney-villains>
+
+---
+
+## Half the internet thinks they know Giancarlo Esposito’s secret Captain America role
+
+date: 2024-07-12, updated: 2024-07-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24197123/giancarlo-esposito-g-w-bridge-captain-america-villain-brave-new-world>
+
+---
+
+## My new video game nemesis is the dreadful Stalker from Helldivers 2
+
+date: 2024-07-12, updated: 2024-07-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24196714/helldivers-2-stalkers-worst-enemy-terminid-stealth>
+
+---
+
+## Win a Steam Deck from Polygon!
+
+date: 2024-07-12, updated: 2024-07-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24188193/steamdeck-sweepstakes-newsletter-entry-details>
+
+---
+
+## Apex Legends league looking to ‘resolve’ gaffe that awarded more than $100,000 prize money incorrectly
+
+date: 2024-07-12, updated: 2024-07-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24196854/apex-legends-global-series-agls-pro-league-wrong-prize-payment>
+
+---
+
+## Captain America: Brave New World trailer reveals Marvel’s long-delayed Hulk-driven thriller
+
+date: 2024-07-12, updated: 2024-07-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24195933/captain-america-brave-new-world-trailer-red-hulk>
+
+---
+
+## The new Disney princess board game is just as fun as I dreamed
+
+date: 2024-07-12, updated: 2024-07-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24196764/disney-princess-chronicles-of-light-darkness-falls-review>
+
+---
+
+## How to get free Solar Fusion Energy and Lunar Fusion Energy with codes in Pokémon Go
+
+date: 2024-07-12, updated: 2024-07-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24195548/solar-fusion-energy-lunar-fusion-how-to-get>
+
+---
+
+## The Animal Kingdom director unpacks the year’s most fascinating sci-fi movie
+
+date: 2024-07-11, updated: 2024-07-11, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24100927/the-animal-kingdom-movie-french-effects-creature-design-meaning-hulu>
+
+---
+
+## 8BitDo celebrates its 11th anniversary with a massive sale and gold SN30 Pro controllers
+
+date: 2024-07-11, updated: 2024-07-11, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/2024/7/11/24196710/8bitdo-sale-gold-sn30-pro-controllers-pro-2-discount>
 
 ---
 
@@ -36,16 +136,6 @@ date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
  
 
 <https://www.polygon.com/deals/24195183/target-buy-two-get-one-free-gaming-tabletop-deal-sale>
-
----
-
-## How to get free Solar Fusion Energy and Lunar Fusion Energy with codes in Pokémon Go
-
-date: 2024-07-10, updated: 2024-07-10, from: Polygon Website
-
- 
-
-<https://www.polygon.com/pokemon-go-guide/24195548/solar-fusion-energy-lunar-fusion-how-to-get>
 
 ---
 

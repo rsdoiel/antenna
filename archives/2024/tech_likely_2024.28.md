@@ -1,11 +1,964 @@
 ---
 title: tech likely 2024.28
-updated: 2024-07-11 07:40:32
+updated: 2024-07-12 09:21:00
 ---
 
 # tech likely 2024.28
 
-(date: 2024-07-11 07:40:32)
+(date: 2024-07-12 09:21:00)
+
+---
+
+##  Cyanokites are a collection of five paper kites of different shades of... 
+
+date: 2024-07-12, updated: 2024-07-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044936-cyanokites-are-a-collecti>
+
+---
+
+##  Printernet: Get a custom print version of your reading list sent right... 
+
+date: 2024-07-12, updated: 2024-07-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044930-printernet-get-a-custom-p>
+
+---
+
+## Comics from 1982/08 Commodore Computing International Mag
+
+date: 2024-07-12, from: Computer ads from the Past
+
+Time for some humor 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-198208-commodore-computing>
+
+---
+
+## Pixelify the World
+
+date: 2024-07-12, updated: 2024-07-12, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/07/12/pixelify-the-world/>
+
+---
+
+##  Molly White: Fighting bots is fighting humans. &#8220;Any attempt at limiting bot... 
+
+date: 2024-07-12, updated: 2024-07-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044905-molly-white-fighting-bots>
+
+---
+
+## NUMA Emulation speeds up Pi 5 (and other improvements)
+
+date: 2024-07-12, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">NUMA Emulation speeds up Pi 5 (and other improvements)</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Recently an Igalia engineer posted a <a href="https://lore.kernel.org/lkml/20240625125803.38038-1-tursulin@igalia.com/">NUMA Emulation patch</a> for the Pi 5 to the Linux Kernel mailing list. He said it could improve performance of Geekbench 6 scores up to 6% for single-core, and 18% for multicore.</p>
+
+<p>My testing didn't quite match those numbers, but I did see a significant and consistent performance increase across both Geekbench 6:</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/pi-5-geekbench-numa-emulation-patch-faster.jpg" alt="Raspberry Pi 5 Geekbench 6 Score comparison with NUMA Emulation enabled"></p>
+
+<p>And High Performance Linpack:</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/pi-5-hpl-numa-emulation-patch-faster.jpg" alt="Raspberry Pi 5 HPL Gigaflops and efficiency comparison with NUMA Emulation enabled"></p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-07-12T09:01:15-05:00" title="Friday, July 12, 2024 - 09:01" class="datetime">July 12, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/numa-emulation-speeds-pi-5-and-other-improvements>
+
+---
+
+## Vivid Portrait of Interacting Galaxies Marks Webb’s Second Anniversary
+
+date: 2024-07-12, from: NASA breaking news
+
+Two for two! A duo of interacting galaxies commemorates the second science anniversary of NASA’s James Webb Space Telescope, which takes constant observations, including images and highly detailed data known as spectra. Its operations have led to a “parade” of discoveries by astronomers around the world. “Since President Biden and Vice President Harris unveiled the […] 
+
+<https://science.nasa.gov/missions/webb/vivid-portrait-of-interacting-galaxies-marks-webbs-second-anniversary/>
+
+---
+
+## What you’ve been making with the Raspberry Pi AI Kit
+
+date: 2024-07-12, from: Raspberry Pi News (.com)
+
+<p>It's been just over a month since we launched the Raspberry Pi AI Kit and the Raspberry Pi community has responded with characteristic quirkiness. Here are some of the things we've seen over the last few weeks.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/what-youve-been-making-with-the-raspberry-pi-ai-kit/">What you&#8217;ve been making with the Raspberry Pi AI Kit</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/what-youve-been-making-with-the-raspberry-pi-ai-kit/>
+
+---
+
+## What Could Explain the Gallium Anomaly?
+
+date: 2024-07-12, from: Quanta Magazine
+
+Physicists have ruled out a mundane explanation for the strange findings of an old Soviet experiment, leaving open the possibility that the results point to a new fundamental particle.            <p>The post <a href="https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/" target="_blank">What Could Explain the Gallium Anomaly?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/>
+
+---
+
+## Route around journalism
+
+date: 2024-07-12, from: Dave Winer's Scripting News
+
+<p>Why journalists don’t bother trying to take Trump down, but do with the Democrat.</p>
+<p>Simple. Trump has routed around journalism as we have begged the Dems to by going direct to the people.</p>
+<p>The journos have no power over Trump and they know it.</p>
+<p>They have total power over the Dems, and they know that too.</p>
+<p>If by some miracle the journos let us (voters) determine the president, we must <i>never</i> let them have this power again.</p>
+ 
+
+<http://scripting.com/2024/07/12/131822.html?title=routeAroundJournalism>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-12, from: Dave Winer's Scripting News)
+
+Here are the <a href="http://scripting.com/2024/07/12/123754.html">show notes</a> for this episode. 
+
+<http://scripting.com/2024/07/12.html#a131502>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-12, from: Dave Winer's Scripting News)
+
+The episode from <a href="http://scripting.com/2004/07/12.html#When:9:29:59AM">this day</a> in 2004 is now in the <a href="https://this.how/podcast0/">Podcast0</a> feed. 
+
+<http://scripting.com/2024/07/12.html#a130118>
+
+---
+
+## 2024-07-12 From Vallorbe to Orbe
+
+date: 2024-07-12, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-12-from-vallorbe-to-orbe">2024-07-12 From Vallorbe to Orbe</h1>
+
+<p>We walked and ran from Vallorbe to Orbe, through the <a href="https://yverdonlesbainsregion.ch/en/itineraire/the-gorge-of-orbe/">Gorge of Orbe</a>, nearly 17km. Both my wife and I took some pictures along the way.</p>
+
+<p>When we left Vallorbe, the river was calm and slow. There were a lot of flowers.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-1.jpg" alt="" /></p>
+
+<p>The yellow flowers in the foreground:</p>
+
+<p>Tüpfel-Hartheu<br>
+Hypericum perforatum</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-18.jpg" alt="" /></p>
+
+<p>In the other direction, the railway bridge can be seen.</p>
+
+<p>Schmalblättriges Weidenröschen<br>
+Epilobium angustifolium</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-17.jpg" alt="" /></p>
+
+<p>As it turns out, there is a pedestrian passage beneath the railway.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-2.jpg" alt="" /></p>
+
+<p>And here we&rsquo;re underneath one of these arches, looking back at Vallorbe.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-3.jpg" alt="" /></p>
+
+<p>Later, the gorge got a lot narrower. We crossed over the river just for bit because there was a nice lookout on the other side. Two friendly teenagers took pictures of us.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-4.jpg" alt="" /></p>
+
+<p>The water was pretty turbulent up here. We&rsquo;re just above the falls of the Day, though: Le Saut du Day.
+The small lookout is built right there, overlooking the falls.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-19.jpg" alt="" />
+<img loading="lazy" src="2024-07-11-vallorbe-6.jpg" alt="" /></p>
+
+<p>We walked down along the falls and noticed some weird constructions on the other side.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-23.jpg" alt="" /></p>
+
+<p>And on our side, there was this foreboding entrance. As it turns out, however, it leads into a passage underneath the waterfall!</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-21.jpg" alt="" /></p>
+
+<p>The sign had an explanation of how there used to be a hydro power plant here.
+The electricity was used to create explosives.
+When the canton gave itself the electricity monopoly, the chemical plant was forced to buy the electricity at regular prices and since those were 4–5 times as much, the chemical plant was forced to close down.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-22.jpg" alt="" /></p>
+
+<p>We continued on our way, with one last look back.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-30.jpg" alt="" /></p>
+
+<p>Down below the river was calm again.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-24.jpg" alt="" /></p>
+
+<p>The occasional steps are there to break the speed of the flow, I guess?</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-8.jpg" alt="" /></p>
+
+<p>The trail started climbing up and down along the river.
+When the cliffs were to risky to navigate, they had drilled small tunnels.
+Using explosives, I presume.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-9.jpg" alt="" /></p>
+
+<p>We saw many nice flowers along the way.</p>
+
+<p>Further up, along some meadows:</p>
+
+<p>Dornige Hauhechel (Artengruppe)<br>
+Ononis spinosa agg.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-27.jpg" alt="" /></p>
+
+<p>Fuchsschwanz-Klee<br>
+Trifolium rubens</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-28.jpg" alt="" /></p>
+
+<p>Deeper in the shade of the trees:</p>
+
+<p>Nesselblättrige Glockenblume<br>
+Campanula trachelium</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-29.jpg" alt="" /></p>
+
+<p>At one point there was a very cool draft coming out of the bushes above us and we found an entrance to a big tunnel! It had warning signs for speleologists, particularly regarding heat and noise – because of the bats that like to sleep and hibernate in here. We didn&rsquo;t see any bats in our 4–5m delve, however. The floor was very wet.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-25.jpg" alt="" />
+<img loading="lazy" src="2024-07-11-vallorbe-26.jpg" alt="" /></p>
+
+<p>Later, we came upon the pressurized water pipes that still feed a hydro power plant. These pipes are huge!</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-10.jpg" alt="" />
+<img loading="lazy" src="2024-07-11-vallorbe-11.jpg" alt="" /></p>
+
+<p>Before arriving at Orbe, there was another lake and more dams.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-12.jpg" alt="" /></p>
+
+<p>And finally, Orbe. An old town with houses and small gardens.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-13.jpg" alt="" /></p>
+
+<p>The main road of Orbe.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-16.jpg" alt="" /></p>
+
+<p>And tiny back-alleys with occasional connections for the upper floors.</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-14.jpg" alt="" /></p>
+
+<p>A great view over the flat lands. Incidentally, the remaining distance to Yverdon-les-bains where our hotel is, doesn&rsquo;t make for great running in the summer heat. Also we were dead tired! 😅</p>
+
+<p><img loading="lazy" src="2024-07-11-vallorbe-15.jpg" alt="" /></p>
+
+<p><a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-11-vallorbe>
+
+---
+
+## Graphics offload continued
+
+date: 2024-07-12, from: Gtk Developer blog
+
+We first introduced support for dmabufs and  graphics offload last fall, and it is included in GTK 4.14. Since we last talked about, more improvements have happened, so it is time for another update. Transformations When you rotate your monitor, it changes its aspect from landscape (say, 1920 x 1200 to portrait (1200 x 1920). &#8230; <a href="https://blog.gtk.org/2024/07/12/graphics-offload-continued/" class="more-link">Continue reading<span class="screen-reader-text"> "Graphics offload continued"</span></a> 
+
+<https://blog.gtk.org/2024/07/12/graphics-offload-continued/>
+
+---
+
+## Smartphone is already many folks' only computer – say hi to optional desktop mode in Android 15 beta
+
+date: 2024-07-12, updated: 2024-07-12, from: Liam Proven's articles at the Register
+
+<h4>Future Androids may let you dock them and use them as a desktop – as standard</h4>
+      <p>It's been tried before, more than once, but if it comes as a stock feature, maybe people will actually start to use the feature.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/12/android_15_beta_desktop/>
+
+---
+
+## P&B: Andrew Stephens
+
+date: 2024-07-12, from: Manu - I write blog
+
+
+                <p>This is the 46th edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Andrew Stephens and his blog, <a href="https://sheep.horse">sheep.horse</a> 🐑🐎</p>
+<p>To follow this series <a href="https://peopleandblogs.com">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<p>If you're enjoying the People and Blogs series and you want to see it grow, consider supporting on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a>.</p>
+<hr />
+<h2>Let's start from the basics: can you introduce yourself?</h2>
+<p>My name is Andrew Stephens. As a child in 1980s small town New Zealand I few in love with the 8-bit micro computers of the time which delightfully allowed my own creations (mostly elaborate text adventures) to be displayed on our TV screen. I never quite lost the thrill of computing so a degree in Computer Science seemed a natural choice. I joined the workforce just as the Internet was taking off and work eventually brought me to Boston, USA where I live now.</p>
+<p>My day job is programming C++ but I enjoy stretching myself with projects at home in various media. But what I like most of all is publishing something on the web where everyone can see it.</p>
+<h2>What's the story behind your blog?</h2>
+<p>I first created a (long lost) web page back in 1996 during my student days. I loved reading other people's stuff on the web and wanted to contribute my own content - it seemed only fair to give something back. I am not sure when I first heard the word blog but I remember thinking it sounded like a stupid idea; nevertheless sometime in the mid 2000s I installed WordPress and started writing just in time to completely miss the heyday of blogging.</p>
+<p>My blog has never been popular. Occasionally something I write will get some attention but it soon settles down.</p>
+<p>The most modern iteration of my blog was created when I realized that I should be the change I wanted to see. There is no point complaining about the "old internet" fading when we all have the tools to create whatever we want.</p>
+<p>The sheep.horse domain name came about because the .horse top level domain had just become available and I couldn't resist such a stupid offering. Of course all the good .horse domains were snapped up by squatters but sheep.horse was available. According to family lore, "sheep horse" was the first multiple word sentence I uttered as I beheld a lama but it holds no other significance.</p>
+<p>It has caused some awkward moments professionally though.<br />
+"Great interview question, I have a blog post on exactly this technical subject"<br />
+"Excellent, what is the URL?"<br />
+"ummm, sheep dot horse"</p>
+<p>Thankfully it has never failed to get a laugh.</p>
+<h2>What does your creative process look like when it comes to blogging?</h2>
+<p>I am a big proponent of letting my mind wander when doing something mindless like cleaning or commuting. We spend so much effort minimizing time spent in menial activity but I find such "unproductive" periods both relaxing and useful for generating new ideas. Often times a thought will hit me and rattle around in my head for a few days before I even start to write. Sometimes it is just an opening phrase or a neat metaphor and more than once I have started a piece arguing one side only to talk myself around to the other side. Those pieces often get abandoned - if I don't feel strongly enough to hold an opinion then I probably have little to say on the subject.</p>
+<p>I am a slow writer (I don't even touch-type properly) but I try to blat everything out in a single evening. Then I let it sit for at least 12 hours to proof like a loaf of bread while I sleep. Then I read through it again and make revisions, usually making it worse. My wife is a very good proof reader and the best presented articles are the ones that she has corrected.</p>
+<p>I write almost all of my text in a plain text editor called TextMate (it is what I am typing into now). Apart from checking my spelling it does not get in the way with fancy features. I find "real" word processors distracting.</p>
+<h2>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</h2>
+<p>My home office is pretty comfortable but I have also written on trains and flights with good results. There is something about writing that puts me in my own world. When I was younger I used to work listening to music but now I find the quiet works best for me. It doesn't have to be silence, just background noise without voices.</p>
+<p>I find getting out into nature really helps with ideas but I have never managed to write anything sitting outside.</p>
+<h2>A question for the techie readers: can you run us through your tech stack?</h2>
+<p>I thought you would never ask. The most modern iteration of my blog is statically generated by a python project of my own called gensite that turns a directory structure of markdown files into modern html and rsync's the result to my server which is a DigitalOcean droplet. I even wrote some custom markdown tags so that I could include asides and footnotes. I was aiming for mostly text so I based the style of my blog on Edward Tufte's ideas on document formatting which I was very excited about at the time.</p>
+<p>If I was to be honest I would have to admit that I rent a server to run a blog, and maintain a blog to give my server something to do. Writing a static site generator was just to justify both and now I am in too deep to stop now. The actual contents of my site is secondary.</p>
+<p>On top of that I have a simple hit counter of my own design. I gradually grew to hate the influence of Google Analytics and vowed not to include it or anything similar on my site because I believe that chasing eyeballs has led us to the state the Internet is in today. However, I am a total hypocrite and found that I really wanted to know if anyone was reading my stuff. So now I just count hits.</p>
+<h2>Given your experience, if you were to start a blog today, would you do anything differently?</h2>
+<p>I am happy with the way everything works now - it suits me. But I could not recommend my setup to anyone else. Honestly, the most important part is putting your work somewhere people can access it with minimal fuss. Hosted is fine although I will say that it is important to choose a service that will allow you to migrate your work if you need to part ways with your hosting provider, which is why I think WordPress is a good choice to start with.</p>
+<p>One thing I have learned is not to spend too much time futzing with the aesthetics of your blog. Just pick a readable theme - the words are the important part.</p>
+<h2>Financial question since the Web is obsessed with money: how much does it cost to run your blog? Is it just a cost, or does it generate some revenue? And what's your position on people monetising personal blogs?</h2>
+<p>I have never tried to monetize my work - part of me still considers blogging to be contributing to the wacky ball of nonsense called the internet. My total cost is about $10 a month for hosting and the domain. Perhaps I could get cheaper but this is what works for me now.</p>
+<h2>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</h2>
+<p>I love passion project single-subject blogs that go into great detail on arcane matters. <a href="http://nzpetesmatteshot.blogspot.com">Matte Shot</a> has been a favorite of mine for a long time.</p>
+<p>But I am really interested in the citizen journalists who do rigorous reporting on topics they cover. I have been very interested in cryptocurrency (very much on the "this is all a stupid idea" side of the table) for over a decade and I admire the great reporting done by the likes of <a href="https://davidgerard.co.uk/blockchain/">David Gerard</a> and <a href="https://amycastor.com">Amy Castor</a>. And of course, <a href="https://www.mollywhite.net">Molly White</a>'s writing is amazing as well. I have no idea how they can stay so focused on a world they (rightfully) disdain and I would love to hear what motivates them.</p>
+<h2>Final question: is there anything you want to share with us?</h2>
+<p>I recently went back to my roots and created a short but elaborate text adventure with illustrations, <a href="https://sheep.horse/voyage_of_the_marigold/">Voyage of the Marigold</a>. Its my love letter to 80s adventure gamebooks and Star Trek, I get an enormous kick when people tell me they have played it.</p>
+<hr />
+<p>This was the 46th edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Andrew. Make sure to <a href="https://sheep.horse">follow his blog</a> (<a href="https://sheep.horse/rss.xml">RSS</a>) and get in touch with him if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com">official site</a> of the newsletter.</p>
+<p><a href="https://www.thingelstad.com">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml">RSS</a>) — <a href="https://some.studio">Piet Terheyden</a> — <a href="https://minim.blog">Raul Montala</a> (<a href="http://github.com/rmontala/minim/commits.atom">RSS</a>) — Eleonora — <a href="https://carlbarenbrug.com">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss">RSS</a>) — <a href="https://tangiblelife.net">Steve Ledlow</a> (<a href="https://tangiblelife.net/feed.rss">RSS</a>) — <a href="https://www.feadin.eu">Paolo Ruggeri</a> (<a href="https://www.feadin.eu/en/posts/index.xml">RSS</a>) — <a href="https://thejollyteapot.com">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss">RSS</a>) — <a href="https://robhope.com">Rob Hope</a> — <a href="https://chrishannah.me">Chris Hannah</a> (<a href="https://chrishannah.me/index.xml">RSS</a>) — <a href="https://blog.pcora.eu">Pedro Corá</a> (<a href="https://blog.pcora.eu/feed.xml">RSS</a>) — <a href="https://colinwalker.blog/">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml">RSS</a>) — <a href="https://softlandings.world/">Sixian Lim</a> (<a href="https://www.softlandings.world/feed.rss">RSS</a>) — <a href="https://mattstein.com">Matt Stein</a> (<a href="https://mattstein.com/rss.xml">RSS</a>) — <a href="https://winnielim.org">Winnie Lim</a> (<a href="https://winnielim.org/feed/">RSS</a>) — <a href="https://flamedfury.com/">Flamed</a> (<a href="https://flamedfury.com/feed.xml/">RSS</a>) — <a href="https://skyhold.org">C Jackdaw</a> (<a href="https://journal.miso.town/atom?url=https://skyhold.org/index.html">RSS</a>) — <a href="https://tiv.today">Kevin Humdrum</a> (<a href="https://tiv.today/feed.rss">RSS</a>) — <a href="https://www.doc.cc/">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml">RSS</a>) — <a href="https://rosalindcroad.com">Rosalind Croad</a> — <a href="https://frankmeeuwsen.com">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml">RSS</a>) — <a href="https://www.elmike.me">Mike Walsh</a> (<a href="https://www.elmike.me/feed.xml">RSS</a>) — <a href="https://www.byzero.de/">Markus Heurung</a> — <a href="https://cleverlaziness.xyz/">Juan Villela</a> (<a href="https://cleverlaziness.xyz/posts/index.xml">RSS</a>) — <a href="https://mwarrenarts.com/">Michael Warren</a> (<a href="https://mwarrenarts.com/rss">RSS</a>) — <a href="https://cagrimmett.com/">Chuck Grimmett</a> (<a href="https://cagrimmett.com/feed">RSS</a>) — <a href="https://eatweeds.co.uk">Robin Harford</a> (<a href="https://www.eatweeds.co.uk/feed/">RSS</a>) — <a href="https://bryanmanio.com/">Bryan Maniotakis</a> (<a href="https://bryanmanio.com/feed/">RSS</a>) — <a href="https://bjhess.com/">Barry Hess</a> (<a href="https://bjhess.com/posts_feed">RSS</a>) — <a href="https://ivanmoreale.com">Ivan Moreale</a> — <a href="https://islandinthenet.com">Khürt Williams</a> (<a href="https://islandinthenet.com/feed/">RSS</a>) — <a href="https://werd.io/">Ben Werdmuller</a> (<a href="https://werd.io/feed">RSS</a>) — <a href="https://corygibbons.com">Cory Gibbons</a> — <a href="https://www.lkhrs.com/">Luke Harris</a> (<a href="https://www.lkhrs.com/blog/index.xml">RSS</a>) — <a href="https://lars-christian.com/">Lars-Christian Simonsen</a> (<a href="https://lars-christian.com/feed/">RSS</a>) — <a href="https://www.codyschultz.com">Cody Schultz</a> — <a href="https://bradbarrish.com">Brad Barrish</a> (<a href="https://bradbarrish.com/feed/">RSS</a>) — <a href="https://galaiko.rocks">Nikita Galaiko</a> — Erik Blankvoort — <a href="https://jagasantagostino.com">Jaga Santagostino</a> — <a href="https://andzuck.com/">Andrew Zuckerman</a> — <a href="https://www.mattiacompagnucci.com">Mattia Compagnucci</a> (<a href="https://mattiacompagnucci.com/feed.rss">RSS</a>) — <a href="https://tdh.se/">Thord D. Hedengren</a> (<a href="https://tdh.se/feed/feed.xml">RSS</a>) — <a href="https://fabiensauser.ch">Fabien Sauser</a> (<a href="https://fabiensauser.ch/index.xml">RSS</a>) — <a href="http://dizzard.net/">Maxwell Omdal</a> — <a href="https://numericcitizen.me">Numeric Citizen</a> (<a href="https://feedpress.me/numericcitizen-feeds.xml?ref=numericcitizen.me">RSS</a>) — <a href="https://heydingus.net">Jarrod Blundy</a> (<a href="https://heydingus.net/feeds">RSS</a>) — <a href="https://gwtf.it">Andrea Contino</a> (<a href="https://gwtf.it/feed">RSS</a>) — <a href="https://sebastiandedeyne.com/">Sebastian De Deyne</a> (<a href="https://sebastiandedeyne.com/index.xml">RSS</a>) — <a href="https://koolinus.net/blog/">Nicola Losito</a> (<a href="https://koolinus.net/blog/feed/">RSS</a>) — <a href="https://amerpie.lol/">Lou Plummer</a> (<a href="https://amerpie.lol/feed.xml">RSS</a>) — <a href="https://lmika.org/">Leon Mika</a> (<a href="https://lmika.org/feed.xml">RSS</a>) — <a href="http://veronique.ink">Veronique</a> (<a href="https://veronique.ink/feed/">RSS</a>) — <a href="https://surplusjouissance.com">Neil Gorman</a> (<a href="https://www.surplusjouissance.com/rss/">RSS</a>) — <a href="https://reaper.is/">Reaper</a> (<a href="https://reaper.is/rss.xml">RSS</a>) — <a href="https://www.mattrutherford.co.uk/">Matt Rutherford</a> (<a href="https://www.mattrutherford.co.uk/rss/">RSS</a>) — <a href="https://aleemshaun.com/">Aleem Ali</a> (<a href="https://aleemshaun.com/feed">RSS</a>) — <a href="https://nikkin.dev/">Nikkin</a> (<a href="https://nikkin.dev/feed.xml">RSS</a>) — <a href="https://jeremyfelt.com/">Jeremy Felt</a> (<a href="https://jeremyfelt.com/feed">RSS</a>) — <a href="https://hansfast.net">Hans</a> (<a href="https://hansfast.net/everything.rss">RSS</a>) — <a href="https://www.markpitblado.me/">Mark Pitblado</a> (<a href="https://www.markpitblado.me/feed.xml">RSS</a>) — <a href="https://www.morelightmorelight.com/">Matt Katz</a> (<a href="https://www.morelightmorelight.com/feed">RSS</a>) — <a href="https://iljapanic.com/">Ilja Panić</a> — <a href="https://odongo.pl">Emmanuel Odongo</a> — <a href="https://kevquirk.com/">Kev Quirk</a> (<a href="https://kevquirk.com/feed">RSS</a>) — <a href="https://artlung.com/">Joe Crawford</a> (<a href="https://artlung.com/feed/">RSS</a>) — <a href="https://www.ismailsevik.com/">İsmail Şevik</a> (<a href="https://www.ismailsevik.com/feeds/posts/default?alt=rss">RSS</a>) — <a href="https://eessoo.co/">Elena Saharova</a> — <a href="https://ruk.ca/">Peter Rukavina</a> (<a href="https://ruk.ca/rss/feedburner.xml">RSS</a>) — <a href="https://jsrn.net">jsrn</a> (<a href="https://jsrn.net/feed.xml">RSS</a>) — <a href="https://therealadam.com">Adam Keys</a> (<a href="https://therealadam.com/feed.xml">RSS</a>) — <a href="https://www.alexeystar.com/">Alexey Staroselets</a> (<a href="https://alexeystar.com/index.xml">RSS</a>)</p>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/YhgpWjBBSRTLdjr5>
+
+---
+
+## Hubble Measures the Distance to a Supernova
+
+date: 2024-07-12, from: NASA breaking news
+
+Measuring the distance to truly remote objects like galaxies, quasars, and galaxy clusters is a crucial task in astrophysics, particularly when it comes to studying the early universe, but it’s a difficult one to complete. We can only measure the distances to a few nearby objects like the Sun, planets, and some nearby stars directly. […] 
+
+<https://science.nasa.gov/missions/hubble/hubble-measures-the-distance-to-a-supernova/>
+
+---
+
+## Hume and literature
+
+date: 2024-07-12, from: Ayjay blog
+
+As previously indicated, I will eventually return to Moonbound, but I need to think some things through first. For now, let’s go back twelve thousand years or so and revisit David Hume’s History of England. When Hume was writing his History of England, the word “literature” only occasionally referred to a body of texts, or [&#8230;] 
+
+<https://blog.ayjay.org/hume-and-literature/>
+
+---
+
+## 2024-07-11 Exim config for UUCP, NNCP and MSMTP
+
+date: 2024-07-12, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-11-exim-config-for-uucp-nncp-and-msmtp">2024-07-11 Exim config for UUCP, NNCP and MSMTP</h1>
+
+<p>My laptop doesn&rsquo;t have a static IP number. My mail service provider is not a smart host for my laptop.
+That&rsquo;s why I&rsquo;ve been using <code>msmtp</code> to send email from the command line.</p>
+
+<p>My <code>~/.mailrc</code> used to contain the following:</p>
+
+<pre><code>set sendmail=&quot;/usr/bin/msmtp&quot;
+</code></pre>
+
+<p>I removed this line because I want to send mails by UUCP or NNCP, depending on the domain used.
+It is only when none of these work that I want to fall back to <code>msmtp</code>.</p>
+
+<p>Clearly, I need to add something to my <code>exim</code> configuration. When reading the <code>exim</code> config, it&rsquo;s important
+to understand that all the additions come in pairs: a router and a transport.</p>
+
+<p>I use Debian.</p>
+
+<h2 id="mail-and-ed">mail and ed</h2>
+
+<p>I use <code>mail</code> to read mail and <code>ed</code> to write mail. At least when I&rsquo;m doing this particular admin hobby project. 😂</p>
+
+<p>As people will use a variety of domain names to send mail to me, I have to decide which ones <code>mail</code> should recognize as being &ldquo;me&rdquo;. That&rsquo;s why <code>~/.mailrc</code> contains the following:</p>
+
+<pre><code>alternates alex@sibirocobombus,alex@campaignwiki.org,alex@campaignwiki
+</code></pre>
+
+<p>To read MIME-encoded mail, I use <code>munpack -t</code> which comes with the <code>mpack</code> package.</p>
+
+<h2 id="etc-exim4-update-exim4-conf-conf">/etc/exim4/update-exim4.conf.conf</h2>
+
+<p>This is the file generated by <code>sudo dpkg-reconfigure exim4-config</code>.</p>
+
+<p>Importantly, it specifies that my laptop only delivers local mail.
+UUCP, NNCP and <code>msmtp</code> are all exceptions to that.</p>
+
+<p>This config file also specifies that the <code>exim</code> configuration is split into many small files.
+This makes it easy for me to add new files.</p>
+
+<p>When I make changes, I must always run <code>sudo update-exim4.conf</code>.</p>
+
+<p>The config files are concatenated in sort order, which is why the file names start with numbers.
+All of the routers must sort before <code>200_exim4-config_primary</code> because it stops all processing.
+It does that because this config file says that my laptop only delivers local mail.</p>
+
+<pre><code>dc_eximconfig_configtype='local'
+dc_other_hostnames='melanobombus'
+dc_local_interfaces='127.0.0.1 ; ::1'
+dc_readhost='alexschroeder.ch'
+dc_relay_domains=''
+dc_minimaldns='false'
+dc_relay_nets=''
+dc_smarthost=''
+CFILEMODE='644'
+dc_use_split_config='true'
+dc_hide_mailname='false'
+dc_mailname_in_oh='true'
+dc_localdelivery='mail_spool'
+</code></pre>
+
+<h2 id="etc-exim4-conf-d-router-110-exim4-config-uucp">/etc/exim4/conf.d/router/110_exim4-config_uucp</h2>
+
+<p>The domains that get mail via UUCP are listed in <code>/etc/exim4/uucp</code>.</p>
+
+<pre><code>uucp_router:
+    debug_print = &quot;R: uucp_router for $local_part@$domain&quot;
+    driver = accept
+    require_files = +/usr/bin/uux
+    domains = wildlsearch;/etc/exim4/uucp
+    transport = rsmtp
+</code></pre>
+
+<p>Example <code>/etc/exim4/uucp</code>:</p>
+
+<pre><code>dwalin	sibirocobombus!dwalin
+campaignwiki	sibirocobombus
+</code></pre>
+
+<p>That is, <code>dwalin</code> can only be reached via <code>sibirocobombus</code> and <code>campaignwiki</code> is the same as <code>sibirocobombus</code>.</p>
+
+<p><code>sibirocobombus</code> is defined in <code>/etc/uucp/sys</code>.</p>
+
+<p>Note that mail to the <code>sibirocobombus</code> domain itself doesn&rsquo;t get sent via UUCP!</p>
+
+<h2 id="etc-exim4-conf-d-router-111-exim4-config-nncp">/etc/exim4/conf.d/router/111_exim4-config_nncp</h2>
+
+<p>The domains that get mail via NNCP are listed in <code>/etc/exim4/nncp</code>.</p>
+
+<pre><code>nncp_router:
+    debug_print = &quot;R: nncp_router for $local_part@$domain&quot;
+    driver=accept
+    require_files = +/usr/bin/nncp-exec
+    domains = wildlsearch;/etc/exim4/nncp
+    transport = nncp
+</code></pre>
+
+<p>Example <code>/etc/exim4/nncp</code>:</p>
+
+<pre><code>sibirocobombus          sibirocobombus
+erebor                  erebor
+</code></pre>
+
+<p>Compare this to the previous entry. Mail to the <code>sibirocobombus</code> domain is sent via NNCP!</p>
+
+<p>Both <code>sibirocobombus</code> and <code>erebor</code> must be defined in <code>/etc/nncp.hjson</code>.</p>
+
+<h2 id="etc-exim4-conf-d-router-112-exim4-config-msmtp">/etc/exim4/conf.d/router/112_exim4-config_msmtp</h2>
+
+<p>This relies on the fact that the sender is a local user.</p>
+
+<pre><code>msmtp_router:
+    debug_print = &quot;R: msmtp_router for $local_part@$domain&quot;
+    driver=accept
+    user = ${lookup{$sender_address_local_part}lsearch,ret=key{/etc/passwd}}
+    domains = ! +local_domains
+    require_files = +/usr/bin/msmtp
+    transport = msmtp
+</code></pre>
+
+<h2 id="etc-exim4-conf-d-transport-40-exim4-config-uucp">/etc/exim4/conf.d/transport/40_exim4-config_uucp</h2>
+
+<pre><code>rsmtp:
+    debug_print = &quot;T: rsmtp for $pipe_addresses&quot;
+    driver=pipe
+    command = /usr/bin/uux - -r -a${lookup{$sender_address_local_part}lsearch,ret=key{/etc/passwd}} -gC $domain_data!rsmtp
+    use_bsmtp
+    return_fail_output
+    user=uucp
+    batch_max = 100
+</code></pre>
+
+<h2 id="etc-exim4-conf-d-transport-41-exim4-config-nncp">/etc/exim4/conf.d/transport/41_exim4-config_nncp</h2>
+
+<pre><code>nncp:
+    debug_print = &quot;T: nncp for $pipe_addresses&quot;
+    driver=pipe
+    user=nncp
+    command = /usr/bin/nncp-exec -noprogress -quiet $domain_data rsmtp
+    use_bsmtp
+    return_fail_output
+</code></pre>
+
+<h2 id="etc-exim4-conf-d-transport-42-exim4-config-msmtp">/etc/exim4/conf.d/transport/42_exim4-config_msmtp</h2>
+
+<pre><code>msmtp:
+    debug_print = &quot;T: msmtp for $pipe_addresses&quot;
+    driver = pipe
+    command = /usr/bin/msmtp --read-recipients --file=/home/${lookup{$sender_address_local_part}lsearch,ret=key{/etc/passwd}}/.config/msmtp/config
+    return_fail_output
+</code></pre>
+
+<p>Note that this ensures that <code>msmtp</code> is run for each user, using their own config files.</p>
+
+<p>My config is stored in <code>~/.config/msmtp/config</code> and it must necessarily be non-interactive.</p>
+
+<h2 id="previous-blog-posts">Previous blog posts:</h2>
+
+<ul>
+<li><a href="2024-06-30-nncp">2024-06-30 Connecting the laptop to the server using UUCP</a></li>
+<li><a href="2024-06-29-nncp">2024-06-29 Sending mail from the laptop to the server via NNCP</a></li>
+<li><a href="2024-06-28-nncp">2024-06-28 Connecting the laptop to the server via NNCP</a></li>
+<li><a href="2024-06-15-uucp">2024-06-15 Old tech: UUCP</a></li>
+<li><a href="2020-12-17_Rmail">2020-12-17 Rmail</a>, about <code>msmtp</code></li>
+</ul>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Mail">#Mail</a> <a class="tag" href="/search/?q=%23UUCP">#UUCP</a> <a class="tag" href="/search/?q=%23NNCP">#NNCP</a> <a class="tag" href="/search/?q=%23msmtp">#msmtp</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-11-exim>
+
+---
+
+## FLTK 1.4.x Weekly Snapshot (master)
+
+date: 2024-07-12, from: Fast Light Tool Kit
+
+A new weekly snapshot of FLTK 1.4.x (master) is now available 
+
+<https://www.fltk.org/articles.php?L1931>
+
+---
+
+## Request for Meetings
+
+date: 2024-07-12, updated: 2024-07-12, from: Tom Kellog blog
+
+Are you a decision maker? I would love to talk to you about your posture in regards to AI. Also contact me if you want to know what I find out. 
+
+<http://timkellogg.me/blog/2024/07/12/ai>
+
+---
+
+##  The Cleverness of the Axe 
+
+date: 2024-07-11, updated: 2024-07-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/the-cleverness-of-the-axe>
+
+---
+
+## Qualcomm’s Oryon core: a long time in the making
+
+date: 2024-07-11, from: OS News
+
+In 2019, a startup called Nuvia came out of stealth mode. Nuvia was notable because its leadership included several notable chip architects, including one who used to work for Apple. Apple chips like the M1 drew recognition for landing in the same performance neighborhood as AMD and Intel’s offerings while offering better power efficiency. Nuvia had similar goals, aiming to create a power efficient core that could could surpass designs from AMD, Apple, Arm, and Intel. Qualcomm acquired Nuvia in 2021, bringing its staff into Qualcomm’s internal CPU efforts. Bringing on Nuvia staff rejuvenated Qualcomm’s internal CPU efforts, which led to the Oryon core in Snapdragon X Elite. Oryon arrives nearly five years after Nuvia hit the news, and almost eight years after Qualcomm last released a smartphone SoC with internally designed cores. For people following Nuvia’s developments, it has been a long wait. ↫ Chips and Cheese Now that the Snapdragon X Elite and Pro chips are finally making their way to consumers, we&#8217;re also finally starting to see proper deep-dives into the brand new hardware. Considering this will set the standard for ARM laptops for a long time to come &#8211; including easy availability of powerful ARM Linux laptops &#8211; I really want to know every single quirk or performance statistic we can find. 
+
+<https://www.osnews.com/story/140215/qualcomms-oryon-core-a-long-time-in-the-making/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-11, from: Dave Winer's Scripting News)
+
+I had a post here about the inevitability of Biden stepping aside, then I turned on the news and saw how the press was humiliating the President at a meeting with the president of Ukraine. We can't give into this. How dare they insult the president as he represents the US in NATO. I can't get behind this. We're in a bad bad place. 
+
+<http://scripting.com/2024/07/11.html#a222615>
+
+---
+
+## Affinity Six-Month Trial
+
+date: 2024-07-11, from: Michael Tsai
+
+Jess Weatherbed (Hacker News, Reddit): Design software developer Serif has launched a new six-month free trial for its Affinity creative suite, which is well regarded as being one of the few viable alternatives to Adobe&#8217;s professional design apps. The offer is available for Affinity Photo, Affinity Designer, and Affinity Publisher starting today on Mac, Windows [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/11/affinity-six-month-trial/>
+
+---
+
+## Ricoh ScanSnap iX1600
+
+date: 2024-07-11, from: Michael Tsai
+
+Ricoh (Amazon): The newest flagship in the ScanSnap family is 33% faster, giving you more time back in your day. Designed for everyday use, the ScanSnap iX1600 gets documents digitized, organized and sent anywhere&#8212;anytime&#8212;with minimal effort. The Fujitsu ScanSnap S500M was the only document scanner that ever worked well for me. I&#8217;d been using it [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/11/ricoh-scansnap-ix1600/>
+
+---
+
+## Mac UPS Software
+
+date: 2024-07-11, from: Michael Tsai
+
+Howard Oakley: The commonest error in deciding whether to use a UPS is the argument that, because your Mac isn&#8217;t left on 24/7, it&#8217;s always attended, so should anything go wrong with the power, you&#8217;ll be able to deal with it. Even if you&#8217;re sat at your Mac, with instant reactions, there&#8217;s no way that [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/11/mac-ups-software/>
+
+---
+
+## App Intents Dogfooding
+
+date: 2024-07-11, from: Michael Tsai
+
+Matthew Cassinelli: Overall, seeing updates to these Reminders actions is a good sign for the Shortcuts ecosystem, as it&#8217;s the first signal that Apple is updating their native Shortcuts actions with App Intents-based replacements in iOS 18. Since the inception of many of these actions in Workflow when Shortcuts was a third-party app, many actions [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/11/app-intents-dogfooding/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-11, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=-1pYKdqD1ls">Respect Yourself</a>. For all of us, but especially the people of the United States of America. 
+
+<http://scripting.com/2024/07/11.html#a221110>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-11, from: Miguel de Icaza Mastondon feed)
+
+<p>Today’s Inspector restyling brought to you by:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112770132192968447>
+
+---
+
+## NASA Remembers Retired Astronaut, US Air Force Pilot Joe Engle
+
+date: 2024-07-11, from: NASA breaking news
+
+Retired NASA astronaut and U.S. Air Force Maj. Gen. Joe Engle died July 10, surrounded by his family at home in Houston. Among his many honors, he is the only astronaut to pilot both the X-15 and space shuttle. He was 91. Engle became an astronaut at age 32 while flying the X-15 for the [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-remembers-retired-astronaut-us-air-force-pilot-joe-engle/>
+
+---
+
+## Iconography of the X Window System: the boot stipple
+
+date: 2024-07-11, from: OS News
+
+For the uninitiated, what are we looking at? Could it be the Moiré Error from Doom? Well, no. You are looking at (part of) the boot up screen for the X Window System, specifically the pattern it uses as the background of the root window. This pattern is technically called a stipple. What you’re seeing is pretty important and came to symbolize a lot for me as a computer practitioner. ↫ Matt T. Proud The X bootup pattern is definitely burnt onto my retina, as it probably is for a lot of late &#8217;90s, early 2000s Linux users. Setting up X correctly, and more importantly, not breaking it later, was almost an art at the time, so any time you loaded up your PC and this pattern didn&#8217;t greet you, you&#8217;d get this sinister feeling in the pit of your stomach. There was now a very real chance you were going to have to debug your X configuration file, and nobody &#8211; absolutely nobody &#8211; liked doing that, and if you did, you&#8217;re lying. Matt T. Proud dove into the history of the X stipple, and discovered it&#8217;s been part of X since pretty much the very beginning, and even more esoteric X implementations, like the ones used by Solaris or the various commercial versions, have the stipple. He also discovered several other variants of the stipple included in X, so there is a chance your memory might be just a tiny bit different. The stipple eventually disappeared at around 2008 or so, it disappeared as part of the various efforts to modernise, sanitise, and speed up the Linux boot process on desktops. On modern distributions still using X, you won&#8217;t encounter it anymore by default, but in true X fashion, the code is still there and you can easily bring it back using a flag specifically designed for it, -retro, that you can use with startx or your X init file. There&#8217;s a ton more information in Proud&#8217;s excellent article, but this one paragraph made me smile: I will remark that in spite of my job being a software engineer, I had never spent a lot of time looking at the source code for the X Server (XFree86 or X.Org) before. It’s really nuts to see that a lot of the architecture from X10R3 and X11R1 still persists in the code today, which is a statement that can be said in deep admiration for legacy code but also disturbance from the power of old decisions. Without having looked at the internals of any Wayland implementation, I can sympathize sight unseen with the sentiments that some developers have toward the X Window System: the code is a dead end. I say that with the utmost respect to the X Window System as a technology and an ecosystem. I’ll keep using X, and I will be really sad when it’s no longer possible for me to do so for one reason or another, as I’m extremely attached to it quirks. But it’s clear the future is limited. ↫ Matt T. Proud We all have great &#8211; and not so great &#8211; memories of X, but I am really, really happy I no longer have to use it. 
+
+<https://www.osnews.com/story/140211/iconography-of-the-x-window-system-the-boot-stipple/>
+
+---
+
+## Local AI on Windows: Explaining the Audio Editor app sample
+
+date: 2024-07-11, from: Windows Developer Blog
+
+<p>Building Windows apps that leverage on-device AI models can seem like a daunting task - there's a lot of work that goes into defining your use case, choosing and tuning the right models, and refining the logic surrounding the models.</p>
+<p>While there's n</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2024/07/11/local-ai-on-windows-explaining-the-audio-editor-app-sample/">Local AI on Windows: Explaining the Audio Editor app sample </a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<https://blogs.windows.com/windowsdeveloper/2024/07/11/local-ai-on-windows-explaining-the-audio-editor-app-sample/>
+
+---
+
+## Palestinians say Microsoft unfairly closing their accounts
+
+date: 2024-07-11, from: OS News
+
+Palestinians living abroad have accused Microsoft of closing their email accounts without warning &#8211; cutting them off from crucial online services. They say it has left them unable to access bank accounts and job offers &#8211; and stopped them using Skype, which Microsoft owns, to contact relatives in war-torn Gaza. Microsoft says they violated its terms of service &#8211; a claim they dispute. ↫ Mohamed Shalaby and Joe Tidy at the BBC Checking up on your family members to see if they survived another day of an ongoing genocide doesn&#8217;t seem like something that should be violating any terms of any services, but that&#8217;s just me. 
+
+<https://www.osnews.com/story/140207/palestinians-say-microsoft-unfairly-closing-their-accounts/>
+
+---
+
+## “Majority of websites and mobile apps use dark patterns”
+
+date: 2024-07-11, from: OS News
+
+A global internet sweep that examined the websites and mobile apps of 642 traders has found that 75,7% of them employed at least one dark pattern, and 66,8% of them employed two or more dark patterns. Dark patterns are defined as practices commonly found in online user interfaces and that steer, deceive, coerce, or manipulate consumers into making choices that often are not in their best interests. ↫ International Consumer Protection and Enforcement Network Dark patterns are everywhere, and it&#8217;s virtually impossible to browse the web, use certain types of services, or install mobile applications, without having to dodge and roll just to avoid all kinds of nonsense being thrown at you. It&#8217;s often not even ads that make the web unusable &#8211; it&#8217;s all the dark patterns tricking you into viewing ads, entering into a subscription, enabling notifications, sharing your email address or whatever, that&#8217;s the real reason. This is why one of the absolute primary demands I have for the next version of OSNews is zero dark patterns. I don&#8217;t want any dialogs begging you to enable ads, no modal windows demanding you sign up for a newsletter, no popups asking you to enable notifications, and so on &#8211; none of that stuff. My golden standard is &#8220;your computer, your rules&#8221;, and that includes your right to use ad blockers or anything else to change the appearance or functioning of our website on your computer. It&#8217;d be great if dark patterns became illegal somehow, but it would be incredibly difficult to write any legislation that would properly cover these practices. 
+
+<https://www.osnews.com/story/140203/majority-of-websites-and-mobile-apps-use-dark-patterns/>
+
+---
+
+## 45 Years Ago: Skylab Reenters Earth’s Atmosphere
+
+date: 2024-07-11, from: NASA breaking news
+
+A few days before they left Skylab on Feb. 8, 1974, the final crew to occupy the station raised its altitude, hoping to keep it in orbit until a future space shuttle could revisit it. But higher than predicted solar activity caused the Earth’s atmosphere to expand, increasing drag on the large vehicle, causing its [&#8230;] 
+
+<https://www.nasa.gov/history/45-years-ago-skylab-reenters-earths-atmosphere/>
+
+---
+
+## Electrical and Mechanical Technician Clifton Brown
+
+date: 2024-07-11, from: NASA breaking news
+
+“We have a group photo of my first project here, ASTRO-H, and that one means a lot to me because I came [to that NASA project] fresh off the street. I was super scared and intimidated. It was me and three other [technicians], who were also all new, and a handful of very seasoned scientists [&#8230;] 
+
+<https://www.nasa.gov/image-article/electrical-and-mechanical-technician-clifton-brown/>
+
+---
+
+##  Area codes that are also HTTP response headers. For instance, 404 (Not... 
+
+date: 2024-07-11, updated: 2024-07-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044943-area-codes-that-are-also>
+
+---
+
+## OpenSSH bug leaves RHEL 9 and the RHELatives vulnerable
+
+date: 2024-07-11, updated: 2024-07-11, from: Liam Proven's articles at the Register
+
+<h4>Newly discovered flaw affects OpenSSH 8.7 and 8.8 daemon</h4>
+      <p>The founder of Openwall has discovered a new signal handler race condition in the core sshd daemon used in RHEL 9.x and its various offshoots.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/11/openssh_bug_in_rhel_9/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-11, from: Miguel de Icaza Mastondon feed)
+
+<p>Lifting more design idioms from FinalCut Pro, tiny changes to the code, but these look so much better</p> 
+
+<https://mastodon.social/@Migueldeicaza/112769398304651873>
+
+---
+
+##  Reading Miranda July&#8217;s All Fours 
+
+date: 2024-07-11, updated: 2024-07-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/reading-miranda-julys-all-fours>
+
+---
+
+## You’re Always on That Phone: How Being Online Sustained Sudan’s Youth Revolution
+
+date: 2024-07-11, from: Logic Magazine
+
+
+                <p>Sudanese organizer Dinan Alasad on How Being Online Sustained Sudan’s Youth Revolution </p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/youre-always-on-that-phone-how-being-online-sustained-sudans-youth>
+
+---
+
+## On Sudan and the Interminable Catastrophe: A Conversation with Bedour Alagraa
+
+date: 2024-07-11, from: Logic Magazine
+
+
+                <p>Bedour Alagraa in conversation with J Khadijah Abdurahman about the history, present, and future of Sudan and its diaspora in the wake of the one year anniversary of the war.</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/on-sudan-and-the-interminable-catastrophe-an-interview-with-bedour-alagraa>
+
+---
+
+## View From the Nuba Mountains: An Interview with Kuna
+
+date: 2024-07-11, from: Logic Magazine
+
+
+                <p>An interview with Kuna (a pseudonym for her protection), a Nuba diaspora returnee currently displaced within Sudan due to the ongoing war between the Rapid Support Forces and the Sudanese Armed Forces.</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/view-from-the-nuba-mountains-an-interview-with-kuna>
+
+---
+
+##  This Crystal Fragment Turns Everything You See Into 8-bit Pixel Art, and... 
+
+date: 2024-07-11, updated: 2024-07-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044940-this-crystal-fragment-tur>
+
+---
+
+## political proverbs
+
+date: 2024-07-11, from: Ayjay blog
+
+Nothing good ever comes from indulging the egos of old men.  Nothing good comes from indulging the ego of any politician, but the you-can’t-tell-me-I’ve-seen-it-all arrogance of old men is especially dangerous.  If you want political success, it’s better to be fortunate in your enemies than in your friends. An incompetent enemy can do more for [&#8230;] 
+
+<https://blog.ayjay.org/political-proverbs/>
+
+---
+
+## NASA Barge Preparations Underway for Artemis II Rocket Stage Delivery
+
+date: 2024-07-11, from: NASA breaking news
+
+Team members are installing pedestals aboard NASA’s Pegasus barge to hold and secure the massive core stage of NASA’s SLS (Space Launch System) rocket, indicating NASA barge crews are nearly ready for its first delivery to support the Artemis II test flight around the Moon. The barge will ferry the core stage on a 900-mile [&#8230;] 
+
+<https://www.nasa.gov/image-article/nasa-barge-preparations-underway-for-artemis-ii-rocket-stage-delivery/>
+
+---
+
+## Peter Easthope commented on issue #141 at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-07-11, updated: 2024-07-11, from: Oberon A2 at CAS
+
+
+<p data-sourcepos="1:1-1:121" dir="auto">The output quoted above suggests a snag in Oberon.Configuration.Mod but I don&#39;t understand the meaning of @ConstSections.</p>
+<p data-sourcepos="3:1-3:17" dir="auto">Thx,     ... P.L.</p>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/141#note_193438>
+
+---
+
+## The iPod is back… kinda
+
+date: 2024-07-11, from: Raspberry Pi News (.com)
+
+<p>Maker Del Hatch's ePiPod is a portable music player with a Raspberry Pi Zero 2 W for a brain, masquerading as an iPod.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/the-ipod-is-back-kinda/">The iPod is back&#8230; kinda</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/the-ipod-is-back-kinda/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-11, from: Miguel de Icaza Mastondon feed)
+
+<p>When you have an iPad sitting next to a Mac, if you push your cursor with the trackpad on the edge, it can move to the iPad.</p><p>The question is: what sorcery is MacOS using to figure out in which side the iPad is sitting?   I did not tell MacOS this at all, and it just figured it out.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112768662780552742>
+
+---
+
+##  Gene Kelly Doesn&#8217;t Want to Perform Singin&#8217; in the Rain on the Muppet Show 
+
+date: 2024-07-11, updated: 2024-07-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/gene-kelly-doesnt-want-to-perform-singin-in-the-rain-on-the-muppet-show>
+
+---
+
+## IN YOUR OWN TIME, JOE
+
+date: 2024-07-11, from: Howard Jacobson blog
+
+Remember Kamala Harris laughing throatily on the phone to Biden after they&#8217;d dumped Trump in 2020? &#8216;We did it, Joe. We did it. You&#8217;re gonna be the next President of the United States.&#8217; Erotic, I thought. The hottest words a woman could ever speak to a man. &#8216;We did it, Joe.&#8217; 
+
+<https://jacobsonh.substack.com/p/in-your-own-time-joe>
+
+---
+
+## Take a Summer Cosmic Road Trip With NASA’s Chandra and Webb
+
+date: 2024-07-11, from: NASA breaking news
+
+It’s time to take a cosmic road trip using light as the highway and visit four stunning destinations across space. The vehicles for this space get-away are NASA’s Chandra X-ray Observatory and James Webb Space Telescope. The first stop on this tour is the closest, Rho Ophiuchi, at a distance of about 390 light-years from [&#8230;] 
+
+<https://www.nasa.gov/image-article/take-a-summer-cosmic-road-trip-with-nasas-chandra-and-webb/>
+
+---
+
+## Coffee Pot – The Movie
+
+date: 2024-07-11, from: Status-Q blog
+
+For a long time, it has both bugged and bemused me that, though the first webcam ran for 10 years taking photos of our departmental coffee pot, there are almost no original images saved from the millions it served up to viewers around the world! I had one or two. Then, suddenly, in a recent <a class="more-link excerpt-link" href="https://statusq.org/archives/2024/07/11/12127/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<https://statusq.org/archives/2024/07/11/12127/>
+
+---
+
+##  Enduring 129°F in Death Valley. &#8220;The breeze only makes things worse, by... 
+
+date: 2024-07-11, updated: 2024-07-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044938-enduring-129f-in-death-va>
+
+---
+
+## Acting Center Chief Technologist Dr. Phillip Williams
+
+date: 2024-07-11, from: NASA breaking news
+
+&#8220;I did not know that NASA Langley was right here in my own backyard. I was born and raised in Portsmouth, Virginia, and NASA Langley is in Hampton, about 45 minutes away. All throughout elementary school, I didn&#8217;t know that NASA was here. I always thought NASA was in Florida or Texas or somewhere. &#8220;I [&#8230;] 
+
+<https://www.nasa.gov/image-article/acting-center-chief-technologist-dr-phillip-williams/>
+
+---
+
+## Seville, Spain
+
+date: 2024-07-11, from: mrusme blog
+
+"Seville is the capital and largest city of the Spanish autonomous community
+of Andalusia and the province of Seville. It is situated on the lower reaches
+of the River Guadalquivir, in the southwest of the Iberian Peninsula." 
+
+<https://xn--gckvb8fzb.com/travel/spain/seville/>
+
+---
+
+## Voyagers of Mars: The First CHAPEA Crew’s Yearlong Journey
+
+date: 2024-07-11, from: NASA breaking news
+
+When the first humans travel to the Red Planet, they will need to know how to repair and maintain equipment, grow their own food, and stay healthy, all while contending with Earth-to-Mars communication delays. They must also find ways to build comradery and have fun.&#160; The first all-volunteer CHAPEA (Crew Health and Performance Exploration Analog) [&#8230;] 
+
+<https://www.nasa.gov/missions/voyagers-of-mars-the-first-chapea-crews-yearlong-journey/>
 
 ---
 
@@ -44,19 +997,6 @@ date: 2024-07-11, from: NASA breaking news
 NASA’s Glenn Research Center civil servant retirees are invited to attend the 2024 Summerfest!&#160; Wednesday, Aug. 7, 11 a.m. to 2:30 p.m.&#160;&#160; Along Taylor Road at Lewis Field&#160; For more information or to RSVP, contact Kathy Clark at 216–433–8354 or kathy.m.clark@nasa.gov&#160; Registration closes: July 26&#160; 
 
 <https://www.nasa.gov/centers-and-facilities/glenn/attention-civil-servant-retirees/>
-
----
-
-## You’re Always on That Phone: How Being Online Sustained Sudan’s Youth Revolution
-
-date: 2024-07-11, from: Logic Magazine
-
-
-                <p>Sudanese organizer Dinan Alasad on How Being Online Sustained Sudan’s Youth Revolution </p>
-
-             
-
-<https://logicmag.io/issue-21-medicine-and-the-body/youre-always-on-that-phone-how-being-online-sustained-sudans-youth>
 
 ---
 
@@ -102,6 +1042,16 @@ date: 2024-07-11, updated: 2024-07-11, from: Liam Proven's articles at the Regis
       <p>Firefox 128 is out with a relatively modest feature set – but it will also be the latest Extended Support Release (ESR) release, meaning that the end for Firefox 115 is coming into view.</p> 
 
 <https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/11/firefox_128_new_esr/>
+
+---
+
+## Deno 1.45: Workspace and Monorepo Support
+
+date: 2024-07-11, updated: 2024-07-11, from: Deno blog
+
+Deno 1.45 introduces workspaces and monorepo support, improved Node.js compatibility, updates to `deno install`, the new `deno init --lib` command, deprecation of `deno vendor`, Standard Library stabilization, upgrades to V8 12.7 and TypeScript 5.5.2, and more. 
+
+<https://deno.com/blog/v1.45>
 
 ---
 
@@ -1109,19 +2059,6 @@ date: 2024-07-09, updated: 2024-07-09, from: Jason Kottke blog
 
 ---
 
-## On Sudan and the Interminable Catastrophe: A Conversation with Bedour Alagraa
-
-date: 2024-07-09, from: Logic Magazine
-
-
-                <p>Bedour Alagraa in conversation with J Khadijah Abdurahman about the history, present, and future of Sudan and its diaspora in the wake of the one year anniversary of the war.</p>
-
-             
-
-<https://logicmag.io/issue-21-medicine-and-the-body/on-sudan-and-the-interminable-catastrophe-an-interview-with-bedour-alagraa>
-
----
-
 ##  Biden is The Candidate. Gabrielle Blair on the practical facts of the... 
 
 date: 2024-07-09, updated: 2024-07-09, from: Jason Kottke blog
@@ -1826,19 +2763,6 @@ date: 2024-07-08, updated: 2024-07-08, from: Jason Kottke blog
  
 
 <https://kottke.org/24/07/0044916-the-forgotten-black-explo>
-
----
-
-## View From the Nuba Mountains: An Interview with Kuna
-
-date: 2024-07-08, from: Logic Magazine
-
-
-                <p>An interview with Kuna (a pseudonym for her protection), a Nuba diaspora returnee currently displaced within Sudan due to the ongoing war between the Rapid Support Forces and the Sudanese Armed Forces.</p>
-
-             
-
-<https://logicmag.io/issue-21-medicine-and-the-body/view-from-the-nuba-mountains-an-interview-with-kuna>
 
 ---
 

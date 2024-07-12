@@ -1,11 +1,33 @@
 ---
 title: libraries 2024.28
-updated: 2024-07-11 07:40:35
+updated: 2024-07-12 09:21:03
 ---
 
 # libraries 2024.28
 
-(date: 2024-07-11 07:40:35)
+(date: 2024-07-12 09:21:03)
+
+---
+
+## Design Matters: What Should the Future of Transportation Sound Like?
+
+date: 2024-07-12, from: Scholarly Kitchen
+
+<p>Designers have spent decades trying to reduce the sounds that cars make. Now with electric vehicles, they are being forced to add sounds to provide feedback to drivers and pedestrians. What should the future sound like?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/07/12/design-matters-what-should-the-future-of-transportation-sound-like/">Design Matters: What Should the Future of Transportation Sound Like?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/07/12/design-matters-what-should-the-future-of-transportation-sound-like/>
+
+---
+
+## Volumetric flow meter development for household scale biogas reactors
+
+date: 2024-07-12, from: ETH Zurich, recently added
+
+Teufen, Gian 
+
+<http://hdl.handle.net/20.500.11850/682666>
 
 ---
 
@@ -70,7 +92,7 @@ date: 2024-07-09, from: Scholarly Kitchen
 
 date: 2024-07-08, from: Association of Research Libraries News
 
-<p>Last Updated on July 10, 2024, 4:21 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 9 &#124; Wednesday, July 10 &#124; Thursday,...</p>
+<p>Last Updated on July 11, 2024, 4:06 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 9 &#124; Wednesday, July 10 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-8-11/">Day in Review (July 8-11)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

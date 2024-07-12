@@ -1,11 +1,75 @@
 ---
 title: writing 2024.28
-updated: 2024-07-11 07:40:34
+updated: 2024-07-12 09:21:02
 ---
 
 # writing 2024.28
 
-(date: 2024-07-11 07:40:34)
+(date: 2024-07-12 09:21:02)
+
+---
+
+## Featured Friday: Frankenstein Fables
+
+date: 2024-07-12, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at how writers have adapted, remixed, distorted and exploded the story of Frankenstein’s Monster. Our collection includes: Edward Scissorhands by Caroline Thompson Ex Machina by Alex Garland Frankenweenie by John August Mary [&#8230;]
+The post <a href="https://johnaugust.com/2024/frankenstein-fables">Featured Friday: Frankenstein Fables</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/frankenstein-fables>
+
+---
+
+## 2024 Ignotus Finalists
+
+date: 2024-07-12, from: Locus Magazine
+
+<p>The Asociación Española de Fantasía, Ciencia Ficción y Terror (AEFCFT) has announced the finalists for the 2024 Ignotus Awards (the Spanish equivalent of the Hugo Awards).</p>
+<div class="mynomorebulletlist">
+<p><strong>Novela extranjera (Foreign Novel)</strong></p>
+<ul>
+<li><strong>Ascensión </strong>[Ascesnion], Nicholas Binge, translated by Gemma Benavent (Minotauro)</li>
+<li><strong>Mi corazón es una motosierra </strong>[My Heart Is a Chainsaw], Stephen Graham Jones, translated by Manuel de los Reyes (Biblioteca de Carfax)</li>
+<li><strong>Hermana Roja</strong> [Red Sister], Mark Lawrence, translated by Natalia </li></ul></div> <a href="https://locusmag.com/2024/07/2024-ignotus-finalists/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/07/2024-ignotus-finalists/>
+
+---
+
+## Charles Payseur Reviews Short Fiction: GigaNotoSaurus, Fiyah, and Baffling
+
+date: 2024-07-12, from: Locus Magazine
+
+<p>GigaNotoSaurus 3/24
+Fiyah Spring ’24
+Baffling 4/24</p>
+<p>GigaNotoSaurus’s April story, “<strong>The Grand­mother Hypothesis</strong>” by <strong>J.S. Richardson</strong>, finds the narrator jumping from reality to reality using a machine of her own creation – one that can­not take her home again. But returning to her own world was never the goal, not after losing her child, and the story follows the narrator as she loses herself trying to explore,  <a href="https://locusmag.com/2024/07/charles-payseur-reviews-short-fiction-giganotosaurus-fiyah-and-baffling/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/charles-payseur-reviews-short-fiction-giganotosaurus-fiyah-and-baffling/>
+
+---
+
+## Teaching Beat Board Techniques
+
+date: 2024-07-11, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/teaching-beat-board-techniques" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/BeatBoard-ForBeginners.png" alt="Teaching Beat Board Techniques" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>This article will cover strategies for teaching <a href="https://blog.finaldraft.com/what-is-a-beat-board-anyway">Beat Board</a> techniques to use as a tool in your classes on scriptwriting. For more comprehensive information on how to use the various functions of the beat board and story map, please <a href="https://m.youtube.com/watch?v=3eUwfuu2IcI&amp;pp=ygUZYmVhdCBib2FyZCBmaW5hbCBkcmFmdCAxMw%3D%3D">check out this video</a>.&nbsp;</p> 
+
+<https://blog.finaldraft.com/teaching-beat-board-techniques>
+
+---
+
+## Alexandra Pierce Reviews The Familiar by Leigh Bardugo
+
+date: 2024-07-11, from: Locus Magazine
+
+<p><strong>The Familiar, </strong>Leigh Bardugo (Flatiron Books 978-1-25088-425-1, 400pp, $29.99 hc) April 2024. Cover by Jim Tierney &#38; Emma Pidsley.</p>
+<p>Spain in the 1500s was not a great place to be if your family were converso – a term applied to Jews or Muslims who had been (often force­fully) converted to Catholicism – and worse still if you were caught secretly practicing your familial faith: It was the time of the  <a href="https://locusmag.com/2024/07/alexandra-pierce-reviews-the-familiar-by-leigh-bardugo/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/alexandra-pierce-reviews-the-familiar-by-leigh-bardugo/>
 
 ---
 
