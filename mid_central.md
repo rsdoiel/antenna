@@ -1,11 +1,61 @@
 ---
 title: mid central 2024.28
-updated: 2024-07-12 09:20:59
+updated: 2024-07-13 10:11:54
 ---
 
 # mid central 2024.28
 
-(date: 2024-07-12 09:20:59)
+(date: 2024-07-13 10:11:54)
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-07-12, from: Amateur Radio Relay League News
+
+<p><span>New sunspot groups, nine in all, emerged on every day of this reporting week, July 4 to 10. One on July 4, another on July 5, two more on July 6, another each on July 7 and July 8, two more on July 9 and another on July 10. </span></p><p><span>On July 11, two more sunspot groups emerged, and the total sunspot area expanded by 13 per cent. </span></p><p><span>Despite the appearance of so many new sunspots, average daily sunspot number...</span></p> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-836>
+
+---
+
+## ARRL on The Weather Channel
+
+date: 2024-07-12, from: Amateur Radio Relay League News
+
+<p>ARRL® The National Association for Amateur Radio® joined The Weather Channel on Thursday, July 11, 2024, for a live chat about the value of amateur radio during hurricane season and beyond. ARRL’s Bob Inderbitzen, NQ1R, talked about how radio helps inform the warning process through surface observations relayed through the Hurricane Watch Net and other nets to WX4NHC, the amateur radio station ...</p> 
+
+<http://www.arrl.org/news/view/arrl-on-the-weather-channel>
+
+---
+
+## Celebrating Software Defined Radio
+
+date: 2024-07-12, from: Amateur Radio Relay League News
+
+<p>At Ham Radio 2024, the International amateur radio exhibition, last week in Friedrichshafen, Germany, the Software Defined Radio Academy (SDRA) celebrated its 10-year anniversary. Founded in 2014, the SDRA has become a new platform for the exchange of knowledge surrounding software defined radio. In the early years, the academy’s lectures were recorded with primitive camera technology, but toda...</p> 
+
+<http://www.arrl.org/news/view/celebrating-software-defined-radio>
+
+---
+
+## Hurricane Beryl Aftermath and Update
+
+date: 2024-07-12, from: Amateur Radio Relay League News
+
+<p>Remnants of Hurricane Beryl, now a post-tropical cyclone, were moving northeast as of early Thursday morning with heavy rain and 35 mph winds. The storm is forecast to continue its current direction as it moves through Pennsylvania, upstate New York, northern New England and Canada, moving ENE at 20 mph. Beryl was the fastest and earliest storm of the hurricane season and during its 8-day run t...</p> 
+
+<http://www.arrl.org/news/view/hurricane-beryl-aftermath-and-update>
+
+---
+
+## 2024 ARRL Field Day Log Deadline Approaching
+
+date: 2024-07-12, from: Amateur Radio Relay League News
+
+<p>The numbers for ARRL 2024 Field Day continue to grow. As of Thursday, July 11, there were nearly 3,500 entries posted. Remember, the deadline for entries is July 23, 2024. It’s a good idea to check the ARRL Field Day website daily for the latest updates and to make sure your entries are completed. If you see “complete” in the status column, your entries are good. If you see ‘pending documents,’...</p> 
+
+<http://www.arrl.org/news/view/2024-arrl-field-day-log-deadline-approaching>
 
 ---
 

@@ -36,7 +36,1271 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="tech-likely-2024.28">tech likely 2024.28</h1>
-<p>(date: 2024-07-12 09:21:00)</p>
+<p>(date: 2024-07-13 10:11:56)</p>
+<hr />
+<h2
+id="windows-nt-4.0-ported-to-run-on-certain-apple-powerpc-macs">Windows
+NT 4.0 ported to run on certain Apple PowerPC Macs</h2>
+<p>date: 2024-07-12, from: OS News</p>
+<p>The most fascinating time for Windows NT were its first few years on
+the market, when the brand new operating system supported a wide variety
+of architectures, from default x86, all the way down to stuff like
+Alpha, MIPS, and exotic things like Intel i860, and even weirder stuff
+like Clipper (even a SPARC port was planned, but never released). One of
+the more conventional architectures that saw a Windows NT port – one
+that was actually released to the public, no less – was PowerPC. The
+last version of Windows NT to support exotic architectures was 4.0, with
+Windows 2000 only supporting x86, dropping everything else, including
+PowerPC (although Windows 2000 for Alpha reached RC1 status). The
+PowerPC version of Windows NT only supported IBM and Motorola systems
+using the PowerPC Reference Platform, and never the vastly more popular
+PowerPC systems from Apple. Well, it’s 2024, and that just changed:
+Windows NT 4.0 can now be installed and run on certain Apple New World
+Power Macintosh systems. This repository currently contains the source
+code for the ARC firmware and its loader, targeting New World Power
+Macintosh systems using the Gossamer architecture (that is, MPC106
+“Grackle” memory controller and PCI host, and “Heathrow” or “Paddington”
+super-I/O chip on the PCI bus). NT4 only, currently. NT 3.51 may become
+compatible if HAL and drivers get ported to it. NT 3.5 will never be
+compatible, as it only supports PowerPC 601. (The additional
+suspend/hibernation features in NT 3.51 PMZ could be made compatible in
+theory but in practise would require all of the additional drivers for
+that to be reimplemented.) ↫ maciNTosh GitHub page This is absolutely
+wild, and one of the most interesting projects I’ve seen in a long, long
+time. The deeply experimental nature of this effort does mean that NT
+4.0 is definitely not stable on any of the currently supported machines,
+and the number of drivers implemented is the absolute bare minimum to
+run NT 4.0 on these systems. It does, however, support dual-booting both
+NT 4.0 and Mac OS8, 9, and X, which would be quite something to set up.
+I’m not definitely going to keep an eye on eBay for a supported machine,
+because running NT on anything other than x86 has always been a bit of a
+weird fascination for me. Sadly, period-correct PowerPC machines that
+support NT are extremely rare and thus insanely expensive, and will
+often require board-level repairs that I can’t perform. Getting a more
+recent Yikes PowerMac G4 should be easy, since those just materialise
+out of thin air randomly in the world. I’m incredibly excited about
+this.</p>
+<p><a
+href="https://www.osnews.com/story/140227/windows-nt-4-0-ported-to-run-on-certain-apple-powerpc-macs/"
+class="uri">https://www.osnews.com/story/140227/windows-nt-4-0-ported-to-run-on-certain-apple-powerpc-macs/</a></p>
+<hr />
+<h2 id="transferring-google-photos">Transferring Google Photos</h2>
+<p>date: 2024-07-12, from: Michael Tsai</p>
+<p>Data Transfer Project: Beginning today, Apple and Google are
+expanding on their direct data transfer offerings to allow users of
+Google Photos to transfer their collections directly to iCloud Photos.
+This complements and completes the existing transfers that were first
+made possible from iCloud Photos to Google Photos and fulfills a core
+Data Transfer Initiative […]</p>
+<p><a
+href="https://mjtsai.com/blog/2024/07/12/transferring-google-photos/"
+class="uri">https://mjtsai.com/blog/2024/07/12/transferring-google-photos/</a></p>
+<hr />
+<h2 id="delta-1.6-rejected-from-the-app-store">Delta 1.6 Rejected From
+the App Store</h2>
+<p>date: 2024-07-12, from: Michael Tsai</p>
+<p>Zac Hall: We knew the retro game emulator app Delta was popular, but
+over 10 million users on iPhone alone? That’s the stat that the team
+behind Delta shared today alongside the latest news about availability
+on iPad. […] Delta for iPad comes with features exclusive to iPadOS,
+including support for Handoff from iPhone, opening […]</p>
+<p><a
+href="https://mjtsai.com/blog/2024/07/12/delta-1-6-rejected-from-the-app-store/"
+class="uri">https://mjtsai.com/blog/2024/07/12/delta-1-6-rejected-from-the-app-store/</a></p>
+<hr />
+<h2 id="http-status-codes-as-area-codes">HTTP Status Codes As Area
+Codes</h2>
+<p>date: 2024-07-12, from: Michael Tsai</p>
+<p>httpareacodes (via Mark Christian): Things that are three digits?
+HTTP response headers. Area codes. […] 301: Moved Permanently: Western
+Maryland</p>
+<p><a
+href="https://mjtsai.com/blog/2024/07/12/http-status-codes-as-area-codes/"
+class="uri">https://mjtsai.com/blog/2024/07/12/http-status-codes-as-area-codes/</a></p>
+<hr />
+<h2 id="huge-att-data-breach">Huge AT&amp;T Data Breach</h2>
+<p>date: 2024-07-12, from: Michael Tsai</p>
+<p>Zack Whittaker ( Hacker News): U.S. phone giant AT&amp;T confirmed
+Friday it will begin notifying millions of consumers about a fresh data
+breach that allowed cybercriminals to steal the phone records of “nearly
+all” of its customers, a company spokesperson told TechCrunch.In a
+statement, AT&amp;T said that the stolen data contains phone numbers of
+both […]</p>
+<p><a href="https://mjtsai.com/blog/2024/07/12/huge-att-data-breach/"
+class="uri">https://mjtsai.com/blog/2024/07/12/huge-att-data-breach/</a></p>
+<hr />
+<h2
+id="package-amigaos-software-for-linux-and-windows-with-axruntime">Package
+AmigaOS software for Linux and Windows with AxRuntime</h2>
+<p>date: 2024-07-12, from: OS News</p>
+<p>This solution lets developers compile their Amiga API-based
+applications as Linux binaries. Once the features are implemented,
+tested and optimized using the runtime on Linux or Windows, developers
+re-compile their applications for their Amiga-like system of choice and
+perform final quality checking. Applications created with AxRuntime can
+be distributed to Linux or Windows communities, giving developers a much
+broader user base and a possibility to invite developers from outside
+general Amiga community to contribute to the application. ↫ AxRuntime
+website I had never considered this as an option, but with AmigaOS 3.x
+basically being frozen in time, it’s a relatively easy target for an
+effort such as this. It won’t surprise you to learnt hat AxRuntime is
+using code from AROS, which itself is fully compatible with AmigaOS 3.1.
+This should technically mean that any AmigaOS application that runs on
+AROS should be able to be made to run using this runtime, which is great
+news for Amiga developers. Why? Well, the cold, harsh truth is that the
+number of Amiga users is probably still dwindling as the sands of time
+cause people to, well, die, and the influx of new users, who also happen
+to possess the skillset to develop AmigaOS software, must be a very,
+very slow trickle, at best. This runtime will allow AmigaOS developer to
+package their software to run on Linux and Windows machines, getting a
+lot more eyes on the software in the process. Amiga devices are not
+exactly cheap or easy to come by, so this is a great alternative.</p>
+<p><a
+href="https://www.osnews.com/story/140225/package-amigaos-software-for-linux-and-windows-with-axruntime/"
+class="uri">https://www.osnews.com/story/140225/package-amigaos-software-for-linux-and-windows-with-axruntime/</a></p>
+<hr />
+<h2
+id="sols-42414242-we-cant-go-around-itweve-got-to-go-through-it">Sols
+4241–4242: We Can’t Go Around It…We’ve Got To Go Through It!</h2>
+<p>date: 2024-07-12, from: NASA breaking news</p>
+<p>Earth planning date: Wednesday, July 10, 2024 Curiosity is currently
+trekking across Gediz Vallis channel because, as my nephew’s favorite
+book says, if we can’t go around it… we’ve got to go through it!
+Recently we’ve been parked for a while on the channel to drill “Mammoth
+Lakes,”
+(https://science.nasa.gov/blogs/sols-4222-4224-a-particularly-prickly-power-puzzle/)
+and are now on the move […]</p>
+<p><a
+href="https://science.nasa.gov/blogs/sols-4241-4242-we-cant-go-around-itweve-got-to-go-through-it/"
+class="uri">https://science.nasa.gov/blogs/sols-4241-4242-we-cant-go-around-itweve-got-to-go-through-it/</a></p>
+<hr />
+<h2 id="this-week-in-the-indieweb">This Week in the IndieWeb</h2>
+<p>date: 2024-07-12, from: This week in Indie Web</p>
+<h1>
+<a href="https://indieweb.org/this-week/2024-07-12.html">July 5-12,
+2024</a>
+</h1>
+<h2 id="recent-events">
+Recent Events
+</h2>
+<p>
+From
+<a href="https://events.indieweb.org/archive">events.indieweb.org/archive</a>:
+</p>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/07/homebrew-website-club-global-edition--Leo9V2vDDxQV" class="u-url">Homebrew
+Website Club (Global Edition)</a>
+</div>
+<time class="dt-start" datetime="2024-07-11T10:00:00+00:00">Thursday,
+July 11 at 10:00am</time><br>
+<div class="e-summary" style="font-style: italic">
+<p>
+Join us online in Zoom for demos of personal sites, recent
+breakthroughs, discussions about the independent web, and meet IndieWeb
+community members! Homebrew Website club is for all levels and areas of
+IndieWeb interest, whether curious, creative, a coder, or all the above.
+</p>
+</div>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/07/homebrew-website-club-europe-london-BolXOUde7WlN" class="u-url">Homebrew
+Website Club Europe/London</a>
+</div>
+<time class="dt-start" datetime="2024-07-10T19:00:00+00:00">Wednesday,
+July 10 at 7:00pm</time><br>
+<div class="e-summary" style="font-style: italic">
+<p>
+Join us online in Zoom for demos of personal sites, recent
+breakthroughs, discussions about the independent web, and meet IndieWeb
+community members! Homebrew Website club is for all levels and areas of
+IndieWeb interest, whether curious, creative, a coder, or all the above.
+</p>
+</div>
+<div>
+<img src="https://indieweb.org/this-week/images/2024-07-12/df6788128df82d21bca044eed485a69a204aeb0b.jpg" style="width:100%" class="u-photo">
+</div>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/07/homebrew-website-club-nuremberg-germany-mSA17SBkPqdw" class="u-url">Homebrew
+Website Club - Nuremberg/Germany</a>
+</div>
+<time class="dt-start" datetime="2024-07-10T18:00:00+00:00">Wednesday,
+July 10 at 6:00pm</time><br>
+<ul>
+<li>
+NÜRNBERG, Bayern: LEONARDO – Zentrum für Kreativität und Innovation
+</li>
+</ul>
+<div class="e-summary" style="font-style: italic">
+<p>
+HWC Nuremberg is a in-person meeting for everybody who is interested in
+setting up a personal website and talk about web-related issues.
+</p>
+</div>
+</div>
+<h2 id="upcoming-events">
+Upcoming Events
+</h2>
+<p>
+From <a href="https://events.indieweb.org/">events.indieweb.org</a>:
+</p>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/07/front-end-study-hall-007-J5BjND8jjFJY" class="u-url">Front
+End Study Hall #007</a>
+</div>
+<time class="dt-start" datetime="2024-07-16T18:00:00+01:00">Tuesday,
+July 16 at 6:00pm</time><br>
+<div class="e-summary" style="font-style: italic">
+<p>
+Front End Study Hall is an HTML + CSS focused group meeting, held on
+Zoom to learn from each other about how to make code do what we want.
+</p>
+<p>
+Come prepared to teach and learn!
+</p>
+</div>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/07/homebrew-website-club-europe-london-71CFBSaGNtzR" class="u-url">Homebrew
+Website Club Europe/London</a>
+</div>
+<time class="dt-start" datetime="2024-07-17T19:00:00+01:00">Wednesday,
+July 17 at 7:00pm</time><br>
+<div class="e-summary" style="font-style: italic">
+<p>
+Join us online in Zoom for demos of personal sites, recent
+breakthroughs, discussions about the independent web, and meet IndieWeb
+community members! Homebrew Website club is for all levels and areas of
+IndieWeb interest, whether curious, creative, a coder, or all the above.
+</p>
+</div>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/07/homebrew-website-club-pacific-sDiuGnKF02yt" class="u-url">Homebrew
+Website Club - Pacific</a>
+</div>
+<p><time class="dt-start" datetime="2024-07-17T18:00:00-07:00">Wednesday,
+July 17 at 6:00pm</time><br></p>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/07/send-a-friend-a-webmention-day-Yg7gsfhZDigm" class="u-url">Send
+a Friend a Webmention Day</a>
+</div>
+<p><time class="dt-start" datetime="2024-07-30T00:00:00+00:00">Tuesday,
+July 30</time><br></p>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/08/homebrew-website-club-nuremberg-germany-vxakxQ2PARVz" class="u-url">Homebrew
+Website Club - Nuremberg/Germany</a>
+</div>
+<time class="dt-start" datetime="2024-08-14T18:00:00+02:00">Wednesday,
+August 14 at 6:00pm</time><br>
+<ul>
+<li>
+NÜRNBERG, Bayern: LEONARDO – Zentrum für Kreativität und Innovation
+</li>
+</ul>
+<div class="e-summary" style="font-style: italic">
+<p>
+HWC Nuremberg is a in-person meeting for everybody who is interested in
+setting up a personal website and talk about web-related issues.
+</p>
+</div>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/08/xoxo-2024-Q7X4mFWNaZYa" class="u-url">XOXO
+2024</a>
+</div>
+<time class="dt-start" datetime="2024-08-22T00:00:00+00:00">August
+22</time> -
+<time class="dt-end" datetime="2024-08-24T00:00:00+00:00">August
+24</time><br>
+<ul>
+<li>
+PORTLAND, Oregon: Revolution Hall
+</li>
+</ul>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/08/indiewebcamp-portland-2024-8bucXDlLqR0k" class="u-url">IndieWebCamp
+Portland 2024</a>
+</div>
+<time class="dt-start" datetime="2024-08-25T00:00:00+00:00">Sunday,
+August 25</time><br>
+<ul>
+<li>
+PORTLAND, Oregon: TBD
+</li>
+</ul>
+<div class="e-summary" style="font-style: italic">
+<p>
+A one day IndieWebCamp Portland 2024 is planned for August 25th, the day
+after the XOXO conference and festival, pending confirmation of a venue!
+If you’re in Portland and have a suggested venue please get in touch via
+the IndieWeb chat!
+</p>
+</div>
+</div>
+<h2 id="new-community-members">
+New Community Members
+</h2>
+<p>
+From
+<a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=2">IndieWeb
+Wiki: New User Pages</a>:
+</p>
+<h3>
+<a href="https://indieweb.org/User%3ADustin.boston">User:Dustin.boston</a>
+</h3>
+<p style="font-size:0.8em;">
+Created by Dustin.boston on Saturday and edited 1 more time
+</p>
+<h3>
+<a href="https://indieweb.org/User%3AUxbrad.com">User:Uxbrad.com</a>
+</h3>
+<p style="font-size:0.8em;">
+Created by Uxbrad.com on Wednesday
+</p>
+<h3>
+<a href="https://indieweb.org/User%3AJan.boddez.net">User:Jan.boddez.net</a>
+</h3>
+<p style="font-size:0.8em;">
+Created by Jan.boddez.net on Monday
+</p>
+<h2 id="new-wiki-pages">
+Top New Wiki Pages
+</h2>
+<p>
+From
+<a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb
+Wiki: New Pages</a>:
+</p>
+<h3>
+<a href="https://indieweb.org/marketing">marketing</a>
+</h3>
+<p>
+marketing is, from a positive perspective, the work you can do to make
+it super easy for others (bloggers, journalists, etc) to write about
+your site, specific posts, projects, events, services, and even
+products, by doing things like creating easy to re-use icons for
+yourself and your site, featured images for posts, copy pasteable links,
+logos, and short/medium/long descriptions of your things, and easy to
+find guides.
+</p>
+<p style="font-size:0.8em;">
+Created by [tantek] on Wednesday with 2 more edits by loqi.me and
+paulrobertlloyd.com
+</p>
+<h3>
+<a href="https://indieweb.org/h-feed_validator">h-feed validator</a>
+</h3>
+<p>
+Closest thing we currently have to an h-feed validator is the Preview
+tool in Monocle, which will accept the URL of your h-feed, parse it, and
+the display a minimally styled visual feed of what it found, which you
+can use to verify your feed name, and the entries in your feed with
+author information, article names if any, HTML or plain text content,
+and date-times published linked to entry permalinks.
+</p>
+<p style="font-size:0.8em;">
+Created by Tantek.com on Saturday and edited 1 more time
+</p>
+<h2 id="new-event-notes">
+New Event Notes
+</h2>
+<p>
+From
+<a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb
+Wiki: New Pages</a>:
+</p>
+<p>
+<b>Homebrew Website Club - Pacific:</b>
+<a href="https://indieweb.org/events/2024-07-03-hwc-pacific">2024-07-03</a>
+</p>
+<p>
+<b>Homebrew Website Club (Global Edition):</b>
+<a href="https://indieweb.org/events/2024-07-11-hwc-global">2024-07-11</a>
+</p>
+<p>
+<b>Homebrew Website Club Europe/London:</b>
+<a href="https://indieweb.org/events/2024-07-10-hwc-europe">2024-07-10</a>
+</p>
+<h2 id="changed-wiki-pages">
+Top Edited Wiki Pages
+</h2>
+<p>
+From
+<a href="https://indieweb.org/wiki/index.php?namespace=0&title=Special%3ARecentChanges">IndieWeb
+Wiki: Recent Changes</a>:
+</p>
+<ul>
+<li>
+<b><a href="https://indieweb.org/curly_quotes">curly quotes</a></b>
+<a href="https://indieweb.org/wiki/index.php?title=curly+quotes&amp;action=historysubmit&amp;diff=96196&amp;oldid=96031">7
+edits</a> by tantek.com, loqi.me, and vanderven.se martijn
+</li>
+<li>
+<b><a href="https://indieweb.org/curated_comments">curated
+comments</a></b>
+<a href="https://indieweb.org/wiki/index.php?title=curated+comments&amp;action=historysubmit&amp;diff=96200&amp;oldid=96048">4
+edits</a> by tantek.com and loqi.me
+</li>
+<li>
+<b><a href="https://indieweb.org/maps">maps</a></b>
+<a href="https://indieweb.org/wiki/index.php?title=maps&amp;action=historysubmit&amp;diff=96199&amp;oldid=89345">3
+edits</a> by loqi.me and tantek.com
+</li>
+<li>
+<b><a href="https://indieweb.org/blogroll">blogroll</a></b>
+<a href="https://indieweb.org/wiki/index.php?title=blogroll&amp;action=historysubmit&amp;diff=96194&amp;oldid=95635">3
+edits</a> by zacharykai.net and tantek.com
+</li>
+<li>
+<b><a href="https://indieweb.org/large_language_model">large language
+model</a></b>
+<a href="https://indieweb.org/wiki/index.php?title=large+language+model&amp;action=historysubmit&amp;diff=96201&amp;oldid=96087">2
+edits</a> by loqi.me and tantek.com
+</li>
+<li>
+<b><a href="https://indieweb.org/press-kit">press-kit</a></b>
+<a href="https://indieweb.org/wiki/index.php?title=press-kit&amp;action=historysubmit&amp;diff=96197&amp;oldid=88201">2
+edits</a> by tantek.com
+</li>
+<li>
+<b><a href="https://indieweb.org/health-and-safety">health-and-safety</a></b>
+<a href="https://indieweb.org/wiki/index.php?title=health-and-safety&amp;action=historysubmit&amp;diff=96175&amp;oldid=95612">2
+edits</a> by gregorlove.com
+</li>
+<li>
+<b><a href="https://indieweb.org/footnote">footnote</a></b>
+<a href="https://indieweb.org/wiki/index.php?title=footnote&amp;action=historysubmit&amp;diff=96152&amp;oldid=92980">2
+edits</a> by tantek.com and loqi.me
+</li>
+<li>
+<b><a href="https://indieweb.org/UTF-8">UTF-8</a></b>
+<a href="https://indieweb.org/wiki/index.php?title=UTF-8&amp;action=historysubmit&amp;diff=96114&amp;oldid=34580">2
+edits</a> by loqi.me and tantek.com
+</li>
+</ul>
+<p><a href="https://indieweb.org/this-week/2024-07-12.html"
+class="uri">https://indieweb.org/this-week/2024-07-12.html</a></p>
+<hr />
+<h2
+id="google-is-ending-support-for-lacros-the-experimental-version-of-chrome-for-chromeos">Google
+is ending support for Lacros, the experimental version of Chrome for
+ChromeOS</h2>
+<p>date: 2024-07-12, from: OS News</p>
+<p>Back in August 2023, we previewed our work on an experimental version
+of Chrome browser for ChromeOS named Lacros. The original intention was
+to allow Chrome browser on Chromebooks to swiftly get the latest feature
+and security updates without needing a full OS update. As we refocus our
+efforts on achieving similar objectives with ChromeOS embracing portions
+of the Android stack, we have decided to end support for this
+experiment. We believe this will be a more effective way to help
+accelerate the pace of innovation on Chromebook. ↫ ChromeOS Beta Tester
+Community To refresh your memory, Lacros was an attempt by Google to
+decouple the Chrome browser from ChromeOS itself, so that the browser
+could be updated indepdnently from ChromeOS as a whole. This would
+obviously bring quite a few benefits with it, from faster and easier
+updates, to the ability to keep updating the Chrome browser after device
+support has ended. This was always an experimental feature, so the end
+of this experiment really won’t be affecting many people. The
+interesting part is the reference to the recent announcement that
+ChromeOS’ Linux kernel and various subsystems will be replaced by their
+Android counterparts. I’m not entirely sure what this means for the
+Chrome browser on ChromeOS, since it seems unlikely that they’re going
+to be using the Android version of Chrome on ChromeOS. It’s generally
+impossible to read the tea leaves when it comes to whatever Google does,
+so I’m not even going to try.</p>
+<p><a
+href="https://www.osnews.com/story/140222/google-is-ending-support-for-lacros-the-experimental-version-of-chrome-for-chromeos/"
+class="uri">https://www.osnews.com/story/140222/google-is-ending-support-for-lacros-the-experimental-version-of-chrome-for-chromeos/</a></p>
+<hr />
+<h2
+id="nasa-to-commemorate-55th-anniversary-of-apollo-11-moon-landing">NASA
+to Commemorate 55th Anniversary of Apollo 11 Moon Landing</h2>
+<p>date: 2024-07-12, from: NASA breaking news</p>
+<p>As the agency explores more of the Moon than ever before under the
+Artemis campaign, NASA will celebrate the 55th anniversary of the first
+astronauts landing on the Moon through a variety of in-person, virtual,
+and engagement activities nationwide between Monday, July 15, and
+Thursday, July 25. Events will honor America’s vision and technology
+that […]</p>
+<p><a
+href="https://www.nasa.gov/news-release/nasa-to-commemorate-55th-anniversary-of-apollo-11-moon-landing/"
+class="uri">https://www.nasa.gov/news-release/nasa-to-commemorate-55th-anniversary-of-apollo-11-moon-landing/</a></p>
+<hr />
+<h2 id="sending-files-via-nncp">2024-07-12 Sending files via NNCP</h2>
+<p>date: 2024-07-12, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-07-12-sending-files-via-nncp">
+2024-07-12 Sending files via NNCP
+</h1>
+<p>
+Let’s assume that you want to send me a file via NNCP. What do you need
+to do?
+</p>
+<p>
+You need to add my server to your <code>/etc/nncp.hjson</code> file, in
+the <code>neigh</code> section.
+</p>
+<p>
+In the following examples, you want to change “alex” to your own
+username.
+</p>
+<pre><code>    sibirocobombus: {
+      id:       CCAIPFSAZWYICBQ5BIURX4UMEJIXVSZFIING7HRUFTDOFV5XISVQ
+      exchpub:  NGEIDPDVZ2I6CTRKCBT734VV4W2YFVTV6YFBU5UGB6IHBA3QDJUQ
+      signpub:  VXBMWXS74IGAYQCLJY4UPAXXQXPT3K53QI5XCFHOAKL4I2FQNLKQ
+      noisepub: MGGBAOHRHEWEC6CGT47GA2DOQXQFZUAKJ66PD734Y5WNWP364UXQ
+      addrs: {
+        internet: &quot;alexschroeder.ch:5400&quot;
+      }
+      incoming: &quot;/home/alex/incoming/sibirocobombus&quot;
+      exec: {
+        rsmtp: [&quot;/usr/sbin/sendmail&quot;, &quot;-bS&quot;]
+      }
+      calls: [
+        {
+          cron: &quot;12 * * * *&quot;
+        }
+      ]
+    }
+</code></pre>
+<p>
+What does it mean?
+</p>
+<ol>
+<li>
+you know how to contact my server via the <code>.addrs.internet</code>
+key – you need this, but you can specify <code>campaignwiki.org</code>
+instead, if your prefer
+</li>
+<li>
+you allow my server to save incoming files in a directory via the
+<code>.incoming</code> key – you only need this if you want to receive
+files (the directory must exist and the <code>nncp</code> group must be
+allowed to write to it)
+</li>
+<li>
+you allow my server to send mail to local users via the
+<code>.exec.rsmtp</code> key – this is not necessary if you don’t want
+to receive mail
+</li>
+<li>
+you connect to my server every now and then via the
+<code>calls[0].cron</code> entry – this is not necessary if you don’t
+mind using <code>nncp-call</code> every now and then
+</li>
+</ol>
+<p>
+Note that my server allows sending mail but doesn’t have an “incoming”
+directory. Basically, you need to get the public keys for my laptop from
+me, and set that up as well.
+</p>
+<pre><code>    melanobombus: {
+      id:       R23WEIHB52TMA4EKGJPKUDBFSYP2HG4HHW2HGJ3RJATCCRLYDUZQ
+      exchpub:  EGP2MMLQJQUKWTHI22JTIRMR2UV3BA2ATE3AYLVOFODMTNRGAMEA
+      signpub:  YO6SZXVEIU77OQQRKMAUFUT4V3NJER4U7LQE5JI7JORJXKXY5FBA
+      noisepub: 6ECO4WXJNDED6WHJ6SM2HGRQMUO75X65ALT2YRKZ3YGGBDXRNV4A
+      via:      [&quot;sibirocobombus&quot;]
+      incoming: &quot;/home/alex/incoming/melanobombus&quot;
+      exec: {
+        rsmtp:  [&quot;/usr/sbin/sendmail&quot;, &quot;-bS&quot;]
+      }
+    }
+</code></pre>
+<p>
+What does it mean?
+</p>
+<ol>
+<li>
+you know how to contact my laptop via my server using the
+<code>.via[0]</code> key – you need this and the name needs to match the
+name you used for my server
+</li>
+<li>
+you allow the laptop to save incoming files in a directory via the
+<code>.incoming</code> key – you only need this if you want to receive
+files (the directory must exist and the <code>nncp</code> group must be
+allowed to write to it)
+</li>
+<li>
+you allow the laptop to send mail to local users via the
+<code>.exec.rsmtp</code> key – this is not necessary if you don’t want
+to receive mail
+</li>
+</ol>
+<p>
+You also need to send me two things:
+</p>
+<ol>
+<li>
+your system’s public keys so that I can set up similar entries on my
+laptop and my server
+</li>
+<li>
+your system’s internet address – unless only you can call my server
+</li>
+</ol>
+<p>
+If your system doesn’t have a public internet address, no problem. My
+server will enqueue stuff for your system without ever sending it. It
+will wait for you there until your system calls. You would do this as
+follows:
+</p>
+<pre><code>sudo -u nncp nncp-call sibirocobombus
+</code></pre>
+<p>
+Now, to send me a README file, you’d run:
+</p>
+<pre><code>sudo -u nncp nncp-file README melanobombus:
+2024-07-12T18:12:15Z Tx README 486 B/486 B 100% (73 KiB/sec)
+2024-07-12T18:12:15Z File README (282 B) is sent to melanobombus:README
+</code></pre>
+<p>
+At this point, the file is in the queue.
+</p>
+<p>
+You need to <code>sudo -u nncp nncp-call sibirocobombus</code> to
+actually send the files unless you have set up regular calls via the
+<code>calls[0].cron</code> key in your <code>/etc/nncp.hjson</code>. My
+server will receive the packets encrypted and addressed to my laptop and
+enqueue it again. The next time my laptop calls my server, it’ll get
+them.
+</p>
+<p>
+You probably want to let me know about the channel via another channel,
+be it IRC, regular mail – or mail via NNCP!
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Administration">#Administration</a>
+<a class="tag" href="/search/?q=%23NNCP">#NNCP</a>
+</p>
+<p><a
+href="https://alexschroeder.ch/view/2024-07-12-sending-files-via-nncp"
+class="uri">https://alexschroeder.ch/view/2024-07-12-sending-files-via-nncp</a></p>
+<hr />
+<h2 id="github-is-starting-to-feel-like-legacy-software">“GitHub” Is
+Starting to Feel Like Legacy Software</h2>
+<p>date: 2024-07-12, from: Tilde.news</p>
+<p>
+<a href="https://tilde.news/s/o9258d/github_is_starting_feel_like_legacy">Comments</a>
+</p>
+<p><a
+href="https://www.mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software/"
+class="uri">https://www.mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software/</a></p>
+<hr />
+<h2 id="ubuntu-security-updates-are-a-confusing-mess">Ubuntu security
+updates are a confusing mess</h2>
+<p>date: 2024-07-12, from: OS News</p>
+<p>I’ve read this article several times now, and I’m still not entirely
+sure how to properly summarise the main points without leaving important
+details out. If you really boil it down to the very bare essentials,
+which packages get updates on which Ubuntu release is a confusing mess
+that most normal users will never be able to understand, potentially
+leaving them vulnerable to security flaws that have already been widely
+patched and are available on Ubuntu – just not your specific Ubuntu
+version, your specific customer type, or the specific package type in
+question. So, in the case of McPhail here, they needed a patched version
+of tomcat 9 for Ubuntu 22.04. This patched version was available for
+Ubuntu 18.04 users because not only is 18.04 an LTS release – meaning
+five years of support – Canonical also offers a commercial Extended
+Security Maintenance (ESM) subscription for 18.04, so if you’re paying
+for that, you get the patched tomcat9. On Ubuntu 20.04, another LTS
+release, the patched version of tomcat9 is available for everyone, but
+for the version McPhail is running, the newer LTS release 22.04, it’s
+only available for Ubuntu Pro subscribers (24.04 is not affected, so not
+relevant for this discussion). Intuitively, this doesn’t make any sense.
+The main cause of the weird discrepancy between 20.04 and 22.04 is that
+Canonical’s LTS support only covers the packages in main (about 10% of
+the total amount of packages), whereas tomcat9 lives in universe (90% of
+packages). LTS packages in universe are only supported on a “best
+effort” basis, and one of the ways a patched universe package can be
+made available to non-paying LTS users is if it is inhereted from
+Debian, which happens to be the case for tomcat9 in 20.04, while in
+22.04, it’s considered part of an Ubuntu Pro subscription. So, there’s a
+fixed package, but 22.04 LTS users, who may expect LTS to truly mean
+LTS, don’t get the patched version that exists and is ready to go
+without issues. Wild. This is incredibly confusing, and would make me
+run for the Debian hills before my next reboot. I understand maintaining
+packages is a difficult, thankless task, but the nebulousness here is
+entirely of Canonical’s own making, and it’s without a doubt leaving
+users vulnerable who fully expect to be safe and all patched up because
+they’re using an LTS release.</p>
+<p><a
+href="https://www.osnews.com/story/140219/ubuntu-security-updates-are-a-confusing-mess/"
+class="uri">https://www.osnews.com/story/140219/ubuntu-security-updates-are-a-confusing-mess/</a></p>
+<hr />
+<h2 id="whats-next-for-mister">What’s Next for MiSTer</h2>
+<p>date: 2024-07-12, from: Stephen Smith’s blog</p>
+<p>Introduction MiSTer is a collection of FPGA implementations for
+pretty much any early 8-bit computer, console or arcade system. Then
+there are many implementations of a selection of 16-bit and 32-bit
+systems. Most notably there is an FPGA implementation of the Motorola
+68000/68020 used in early Macs, Amigas and Atari STs. On the PC side
+[…]</p>
+<p><a
+href="https://smist08.wordpress.com/2024/07/12/whats-next-for-mister/"
+class="uri">https://smist08.wordpress.com/2024/07/12/whats-next-for-mister/</a></p>
+<hr />
+<h2
+id="deno-july-update-monorepo-workspace-and-private-npm-registry-support">Deno
+July Update: monorepo, workspace, and private npm registry support</h2>
+<p>date: 2024-07-12, from: Deno News</p>
+<h1>
+Deno July Update
+</h1>
+<p>
+This month’s update includes Deno 1.45, JSR updates, and more! Let’s
+dive right in.
+</p>
+<p>
+<a href="https://www.youtube.com/watch?v=OMJKEDvsT7Q&amp;utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank"><img alt="image.png" class="newsletter-image" src="https://assets.buttondown.email/images/f6dd13a0-4915-4e96-9cc8-761efa1478c8.png?w=960&amp;fit=max"/></a>
+<em>Join us for
+<a href="https://www.youtube.com/watch?v=OMJKEDvsT7Q&amp;utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">a
+livestream</a> next Tuesday, July 16th, 9am PT (UTC-7), where we cover
+how to setup monorepos and workspaces with Deno and answer your
+questions.</em>
+</p>
+<h2>
+Deno 1.45: Workspaces, monorepos, private npm registries
+</h2>
+<p>
+We’ve had a busy summer so far, with added support for workspaces,
+monorepo, and
+<a href="https://deno.com/blog/v1.44?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update#support-for-private-npm-registries" target="_blank">private
+npm registries</a> (as of
+<a href="https://deno.com/blog/v1.44?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">1.44</a>).
+</p>
+<h3>
+Workspace support
+</h3>
+<p>
+There are two forms of supported workspaces: Deno-first workspaces
+(defined in a root-level <code>deno.json</code> ) and
+backwards-compatible npm workspaces.
+</p>
+<p>
+To get started, define a <code>“workspace”</code> element inside
+your <code>deno.json</code> and list the member directories:
+</p>
+<div class="codehilite">
+<pre><span></span><code><span class="p">{</span>
+<span class="w">  </span><span class="s2">"workspace"</span><span class="o">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"./add"</span><span class="p">,</span><span class="w"> </span><span class="s2">"./subtract"</span><span class="p">]</span>
+<span class="p">}</span>
+</code></pre>
+</div>
+<p>
+<code>npm</code> workspaces also work in Deno, whether you’re including
+a Deno library in a larger npm workspace or vice versa.
+</p>
+<p>
+To learn more about workspaces and to see examples, check out
+<a href="https://docs.deno.com/runtime/manual/basics/workspaces/?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">Deno
+Docs</a>.
+</p>
+<p>
+We’re also hosting a
+<a href="https://www.youtube.com/watch?v=OMJKEDvsT7Q&amp;utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">one-hour
+livestream on YouTube on Tuesday, July 16th, 9AM PT (UTC-7)</a> to cover
+our new workspace support in detail and answer your questions.
+</p>
+<h3>
+Private npm registries
+</h3>
+<p>
+As of Deno 1.44, you can use an <code>.npmrc</code> file to configure
+Deno to fetch packages from a private registry. Here’s an example:
+</p>
+<div class="codehilite">
+<pre><span></span><code><span class="c1">// .npmrc</span>
+<span class="err">@</span><span class="nx">mycompany</span><span class="o">:</span><span class="nx">registry</span><span class="o">=</span><span class="nx">http</span><span class="o">:</span><span class="c1">//mycompany.com:8111/</span>
+<span class="c1">//mycompany.com:8111/:_auth=secretToken</span>
+</code></pre>
+</div>
+<div class="codehilite">
+<pre><span></span><code><span class="c1">// deno.json</span>
+<span class="p">{</span>
+<span class="w">  </span><span class="s2">"imports"</span><span class="o">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="s2">"@mycompany/package"</span><span class="o">:</span><span class="w"> </span><span class="s2">"npm:@mycompany/package@1.0.0"</span>
+<span class="w">  </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre>
+</div>
+<div class="codehilite">
+<pre><span></span><code><span class="c1">// main.ts</span>
+<span class="k">import</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nx">hello</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="kr">from</span><span class="w"> </span><span class="s2">"@mycompany/package"</span><span class="p">;</span>
+
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">hello</span><span class="p">());</span>
+</code></pre>
+</div>
+<div class="codehilite">
+<pre><span></span><code><span class="nx">$</span><span class="w"> </span><span class="nx">deno</span><span class="w"> </span><span class="nx">run</span><span class="w"> </span><span class="nx">main</span><span class="p">.</span><span class="nx">ts</span>
+<span class="nx">Hello</span><span class="w"> </span><span class="nx">world</span><span class="o">!</span>
+</code></pre>
+</div>
+<p>
+You can also watch
+<a href="https://www.youtube.com/watch?v=8pzbdz1TSOw&amp;utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">a
+short demo on how to use private npm registries</a> on YouTube.
+</p>
+<h3>
+Other runtime updates
+</h3>
+<p>
+We’ve made a ton of improvements and bug fixes to the Deno runtime in
+1.44 and 1.45. The most notable updates being:
+</p>
+<ul>
+<li>
+<a href="https://deno.com/blog/v1.44?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update#grpc-connections-now-supported" target="_blank">gRPC
+connections are now supported</a>
+</li>
+<li>
+improved lockfile management with
+<a href="https://deno.com/blog/v1.45?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update#frozen-lockfile" target="_blank">the
+new <code>–frozen</code> flag</a> that lets you know if your lockfile is
+out of date
+</li>
+<li>
+updated <code>deno install</code> that will behave more like <code>npm
+install</code> to support common workflows
+</li>
+<li>
+<a href="https://deno.com/blog/v1.45?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update#deno-init---lib---easily-set-up-a-new-library" target="_blank"><code>deno
+init –lib</code></a> to easily setup a new library
+</li>
+<li>
+<a href="https://deno.com/blog/v1.45?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update#deno-compile-supports---env-flag" target="_blank"><code>deno
+compile</code></a> now supports the <code>–env</code> flag
+</li>
+</ul>
+<p>
+And more!
+</p>
+<p>
+<a href="https://deno.com/blog/v1.45?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">Read
+the full 1.45 release notes ⇒</a>
+</p>
+<h2>
+JSR: Hono, Deno Standard Library, and more
+</h2>
+<p>
+Everyday, we continue to see modules being added to JSR. Recent ones of
+note include
+<a href="https://deno.com/blog/std-on-jsr?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">the
+Deno Standard Library</a> and
+<a href="https://deno.com/blog/hono-on-jsr?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">Hono</a>.
+Note that we are working towards
+<a href="https://deno.com/blog/stabilize-std?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">stabilizing
+the Standard Library</a>, which will be stabilized on a
+package-by-package basis. (As of this newsletter, we have stabilized
+<a href="https://github.com/denoland/deno_std?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">13
+out of 38 utility packages</a>.)
+</p>
+<p>
+We also recently published a video that shows, side-by-side, publishing
+a TypeScript module to npm vs. JSR. There are a bunch of steps that one
+must take to make sure the right files are getting to npm, which are
+handled by JSR behind the scenes:
+</p>
+<p>
+<a href="https://www.youtube.com/watch?v=dzycAeRdOSM&amp;utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank"><img alt="image.png" class="newsletter-image" src="https://assets.buttondown.email/images/e651dde6-c80c-4a35-9bd5-45d968afc61d.png?w=960&amp;fit=max"/></a>
+</p>
+<h2>
+From the community
+</h2>
+<h3>
+The 5th
+<a href="http://deco.cx?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">deco.cx</a>
+Hackathon
+</h3>
+<p>
+That’s right,
+<a href="https://deco.cx/hackathon5?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">the
+HTMX Edition of this hackathon</a> begins today, Friday, July 12th. It’s
+a great opportunity to turn your ideas into high-performance websites
+using HTMX. Plus, there’s also over $5k in prizes 💰️.
+</p>
+<h3>
+#Showcase
+</h3>
+<p>
+There have been plenty of new projects being shared in our
+<a href="https://discord.gg/deno?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">Discord’s
+#showcase channel</a>:
+</p>
+<ul>
+<li>
+<a href="https://x.com/KyleRayKelley/status/1792998164926026238?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">The
+Jupyter kernel in Zed is powered by Deno</a>
+</li>
+<li>
+<a href="https://jsr.io/@grunet/openfeature-for-denodeploy?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">A
+feature flag library for Deno Deploy</a>
+</li>
+<li>
+<a href="https://github.com/eroblaze/erodev?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">Erodev:
+a Deno development server with auto-reload</a>
+</li>
+<li>
+<a href="https://github.com/nomake-toolchain/nomake-zit?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">NoMake-zit:
+a simple compression/decompression library for Deno</a>
+</li>
+<li>
+<a href="https://pomdtr-excalidraw.web.val.run/?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">An
+excalidraw demo</a> written as
+<a href="https://www.val.town/v/pomdtr/excalidraw?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">a
+single JSR import</a> 🤯️
+</li>
+<li>
+<a href="https://jsr.io/@olli/jex?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">jex:
+a configurable API client that lets you define strongly-typed HTTP calls
+with a JSON-like schema</a>
+</li>
+<li>
+<a href="https://github.com/jeff-hykin/html-bundle/blob/master/readme.md?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">A
+simple HTML bundler that offers a CLI, Deno and a web API.</a>
+</li>
+</ul>
+<p>
+If you’ve created something with Deno and would like to share it with
+the Deno community, please use the Discord’s #showcase channel.
+</p>
+<h2>
+In case you missed it…
+</h2>
+<ul>
+<li>
+<a href="https://deno.com/blog/optimizing-our-lsp?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">How
+we made our Deno language server faster ten times faster</a>
+</li>
+<li>
+<a href="https://deno.com/blog/guardian?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">Did
+you know the Guardian uses Deno to audit 2.7m articles?</a>
+</li>
+<li>
+We’ve quietly added more features to Subhosting, our product that lets
+you easily run third-party JavaScript securely, such as
+<a href="https://deno.com/blog/subhosting-flexible-domain-association?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">more
+flexible domain association</a> and
+<a href="https://deno.com/blog/subhosting-kv-backup?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">KV
+backup</a>
+</li>
+<li>
+Haven’t found time to learn TypeScript?
+<a href="https://deno.com/blog/deno-bites-ts-intro?utm_source=denonews&amp;utm_medium=email&amp;utm_campaign=deno-july-update" target="_blank">We’re
+starting a new bite-sized TypeScript tutorial series</a>!
+</li>
+</ul>
+<p>
+And that’s it for this issue! If you think someone might find this
+useful, please forward it to them.
+</p>
+<p>
+— Andy
+</p>
+<p><a href="https://buttondown.email/denonews/archive/deno-july-update/"
+class="uri">https://buttondown.email/denonews/archive/deno-july-update/</a></p>
+<hr />
+<h2
+id="theres-a-25th-anniversary-edition-version-of-brian-greenes-the-elegant-universe">There’s
+a 25th anniversary edition version of Brian Greene’s The Elegant
+Universe…</h2>
+<p>date: 2024-07-12, updated: 2024-07-12, from: Jason Kottke blog</p>
+<p><a href="https://kottke.org/24/07/0044944-theres-a-25th-edition-ver"
+class="uri">https://kottke.org/24/07/0044944-theres-a-25th-edition-ver</a></p>
+<hr />
+<h2
+id="two-years-since-webbs-first-images-celebrating-with-the-penguin-and-the-egg">Two
+Years Since Webb’s First Images: Celebrating with the Penguin and the
+Egg</h2>
+<p>date: 2024-07-12, from: NASA breaking news</p>
+<p>To celebrate the second science anniversary of NASA’s James Webb
+Space Telescope, the team has released a near- and mid-infrared image on
+July 12, 2024, of two interacting galaxies: The Penguin and the Egg.
+Webb specializes in capturing infrared light – which is beyond what our
+own eyes can see – allowing us to view and […]</p>
+<p><a
+href="https://www.nasa.gov/image-article/two-years-since-webbs-first-images-celebrating-with-the-penguin-and-the-egg/"
+class="uri">https://www.nasa.gov/image-article/two-years-since-webbs-first-images-celebrating-with-the-penguin-and-the-egg/</a></p>
+<hr />
+<h2
+id="nasa-marshall-engineers-unveil-versatile-low-cost-hybrid-engine-testbed">NASA
+Marshall Engineers Unveil Versatile, Low-cost Hybrid Engine Testbed</h2>
+<p>date: 2024-07-12, from: NASA breaking news</p>
+<p>In June, engineers at NASA’s Marshall Space Flight Center in
+Huntsville, Alabama, unveiled an innovative, 11-inch hybrid rocket motor
+testbed. The new hybrid testbed, which features variable flow capability
+and a 20-second continuous burn duration, is designed to provide a
+low-cost, quick-turnaround solution for conducting hot-fire tests of
+advanced nozzles and other rocket engine hardware, […]</p>
+<p><a
+href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-engineers-unveil-versatile-low-cost-hybrid-engine-testbed/"
+class="uri">https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-engineers-unveil-versatile-low-cost-hybrid-engine-testbed/</a></p>
+<hr />
+<h2 id="powertoys-bring-fun-tweaks-to-windows-10-and-11">PowerToys bring
+fun tweaks to Windows 10 and 11</h2>
+<p>date: 2024-07-12, updated: 2024-07-12, from: Liam Proven’s articles
+at the Register</p>
+<h4>
+<span class="label">Friday FOSS Fest</span> Mac migrants (if any exist)
+will find Powertoys Run strangely familiar
+</h4>
+<pre><code>  &lt;p&gt;Microsoft&#39;s collection of Power Toys for the current versions of Windows has some nifty little helpers, and Power Run may be comfortingly familiar if you&#39;re more used to macOS.&lt;/p&gt; </code></pre>
+<p><a
+href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/12/latest_powertoys_bring_run_fun/"
+class="uri">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/12/latest_powertoys_bring_run_fun/</a></p>
+<hr />
+<h2 id="baltic-ice">Baltic Ice</h2>
+<p>date: 2024-07-12, updated: 2024-07-12, from: Jason Kottke blog</p>
+<p><a href="https://kottke.org/24/07/baltic-ice"
+class="uri">https://kottke.org/24/07/baltic-ice</a></p>
+<hr />
+<h2 id="comedic-consultant">Comedic Consultant</h2>
+<p>date: 2024-07-12, from: Tedium site</p>
+<p>Trevor Noah has been on the Microsoft payroll for years, and nobody
+apparently noticed until now. Is that a problem? (Hint: Yes.)</p>
+<p><a
+href="https://feed.tedium.co/link/15204/16742023/trevor-noah-microsoft-conflict-of-interest"
+class="uri">https://feed.tedium.co/link/15204/16742023/trevor-noah-microsoft-conflict-of-interest</a></p>
+<hr />
+<h2 id="connecting-the-laptop-to-the-server-via-nncp">2024-06-28
+Connecting the laptop to the server via NNCP</h2>
+<p>date: 2024-07-12, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-06-28-connecting-the-laptop-to-the-server-via-nncp">
+2024-06-28 Connecting the laptop to the server via NNCP
+</h1>
+<p>
+First, install the <code>nncp</code> package on both systems. In
+addition to that, install the <code>openbsd-inetd</code> package on the
+server. (In the following passages, I’m connected as <code>root</code>
+to the server.)
+</p>
+<p>
+Generate new configs on the systems that are missing
+<code>/etc/nncp.hjson</code>.
+</p>
+<pre><code>nncp-cfgnew &gt; /etc/nncp.hjson
+chown nncp:nncp /etc/nncp.hjson
+chmod 660 /etc/nncp.hjson
+</code></pre>
+<p>
+Examine the file using a text editor. Each system needs to know the
+public keys of the other.
+</p>
+<p>
+So, on the laptop, I need to add to add the public keys of the server. I
+also want to specify that I’m going to call the node on a regular basis
+and that files sent to me from that node should be saved in my
+“incoming” directory. I also want to accept mail.
+</p>
+<pre><code>    sibirocobombus: {
+      id:       ...
+      exchpub:  ...
+      signpub:  ...
+      noisepub: ...
+      incoming: &quot;/home/alex/incoming/sibirocobombus&quot;
+      exec: {
+        sendmail: [&quot;/usr/sbin/sendmail&quot;]
+      }
+      addrs: {
+        internet: &quot;alexschroeder.ch:5400&quot;
+      }
+      calls: [
+        {
+          cron: &quot;12 * * * *&quot;
+        }
+      ]
+    }
+</code></pre>
+<p>
+And on the server, I need to add the public keys of the laptop. I also
+want to save incoming files from the laptop. And I want to accept mail.
+</p>
+<pre><code>    melanobombus: {
+      id:       ...
+      exchpub:  ...
+      signpub:  ...
+      noisepub: ...
+      incoming: &quot;/home/alex/incoming&quot;
+      exec: {
+        sendmail: [&quot;/usr/sbin/sendmail&quot;]
+      }
+    }
+</code></pre>
+<p>
+Note how the laptop calls the server but the server does not call the
+laptop!
+</p>
+<p>
+Let’s make sure those directories exist:
+</p>
+<pre><code>mkdir ~/incoming
+ssh sibirocobombus mkdir incoming
+</code></pre>
+<p>
+Let’s create a file and send it from the laptop to the server using
+<code>nncp-file</code>:
+</p>
+<pre><code>echo Hello &gt; hello.txt
+sudo -u nncp nncp-file hello.txt sibirocobombus:
+</code></pre>
+<p>
+Check the log using <code>nncp-log</code>:
+</p>
+<pre><code>nncp-log | tail -n 1
+2024-06-28T21:36:02Z File hello.txt (282 B) is sent to sibirocobombus:hello.txt
+</code></pre>
+<p>
+Let’s connect to the server and check:
+</p>
+<pre><code>ssh sibirocobombus ls incoming
+</code></pre>
+<p>
+Nothing has arrived!
+</p>
+<p>
+Let’s call the server using <code>nncp-call</code>:
+</p>
+<pre><code>sudo -u nncp nncp-call sibirocobombus
+2024-06-28T22:07:36Z ERROR Calling sibirocobombus (alexschroeder.ch:5400): dial tcp [2a02:418:6a04:178:209:50:237:1]:5400: connect: connection refused
+</code></pre>
+<p>
+Oops. It’s not running? That’s right, I need to run
+<code>nncp-daemon</code> on the server side.
+</p>
+<p>
+Add the following to <code>/etc/inetd.conf</code> on the server to
+accept NNCP connections on port 5400:
+</p>
+<pre><code>5400 stream  tcp nowait  nncp    /usr/bin/nncp-daemon    nncp-daemon -quiet -ucspi
+</code></pre>
+<p>
+Reload it:
+</p>
+<pre><code>systemctl reload openbsd-inetd
+</code></pre>
+<p>
+Try again on the laptop:
+</p>
+<pre><code>sudo -u nncp nncp-call sibirocobombus
+2024-06-28T22:14:13Z We have got for sibirocobombus: 1 packets, 486 B
+2024-06-28T22:14:13Z ERROR SP with sibirocobombus (nice MAX): reading: EOF
+2024-06-28T22:14:13Z ERROR Connection to sibirocobombus (alexschroeder.ch:5400): EOF
+</code></pre>
+<p>
+Back to the server:
+</p>
+<pre><code>nncp-log
+2024-06-28T22:15:25Z ERROR SP nice MAX: waiting for first message: unknown peer: ...
+2024-06-28T22:15:25Z Connected to unknown
+</code></pre>
+<p>
+Strange! That id listed there matches my laptop’s <code>noisepub</code>.
+Checking the <code>/etc/nncp.hjson</code> on the server again, I see
+that pasted the wrong pubkeys… 🤦 Fix that and try again…
+</p>
+<pre><code>sudo -u nncp nncp-call sibirocobombus
+2024-06-28T22:19:31Z We have got for sibirocobombus: 1 packets, 486 B
+2024-06-28T22:19:31Z Connection to sibirocobombus (alexschroeder.ch:5400)
+2024-06-28T22:19:31Z Tx QAROTFMX25ZPQOT5..I6JKH75EC2DMSSZQ 486 B/486 B 100% (0 B/sec)
+2024-06-28T22:19:31Z Packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ is sent
+2024-06-28T22:19:42Z Finished call with sibirocobombus (0:0:11): 32 KiB received (32 KiB/sec), 33 KiB transferred (33 KiB/sec)
+</code></pre>
+<p>
+Looking good! Check for the file on the server:
+</p>
+<pre><code>ssh sibirocobombus ls incoming
+</code></pre>
+<p>
+It’s not there!
+</p>
+<p>
+Let’s investigate on the server:
+</p>
+<pre><code>nncp-log
+2024-06-28T22:19:31Z Packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ (486 B) (nice B): 0%
+2024-06-28T22:19:31Z melanobombus has got for us: 1 packets, 486 B
+2024-06-28T22:19:31Z Connection with melanobombus (PIPE)
+2024-06-28T22:19:31Z Got packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ 100% (486 B / 486 B): done
+2024-06-28T22:19:42Z Finished call with melanobombus (0:0:11): 33 KiB received (33 KiB/sec), 32 KiB transferred (32 KiB/sec)
+</code></pre>
+<p>
+This looks good, so we have the packet! And we can confirm this using
+<code>nncp-stat</code>:
+</p>
+<pre><code>nncp-stat
+melanobombus
+    nice:   B | Rx:      486 B,   1 pkts | Tx:        0 B,   0 pkts
+self
+</code></pre>
+<p>
+What needs to happen now is “tossing” using <code>nncp-toss</code>. This
+is, “processing” the packet and thereby delivering it.
+</p>
+<pre><code>sudo -u nncp nncp-toss
+2024-06-28T22:24:28Z ERROR Tossing file melanobombus/QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ (6 B): hello.txt: mktemp: open /home/alex/incoming/nncpfile17dd4b56c39f64d4: permission denied
+</code></pre>
+<p>
+That’s right, the incoming file should be writable by more people…
+</p>
+<pre><code>chgrp nncp /home/alex/incoming
+chmod g+w /home/alex/incoming
+</code></pre>
+<p>
+Try again!
+</p>
+<pre><code>sudo -u nncp nncp-toss
+2024-06-28T22:26:35Z Rx file QAROTFMX25ZPQOT5..I6JKH75EC2DMSSZQ 6 B/6 B 100% (0 B/sec)
+2024-06-28T22:26:36Z Got file hello.txt (6 B) from melanobombus
+</code></pre>
+<p>
+It worked:
+</p>
+<pre><code>ls -l /home/alex/incoming/
+total 4
+-rw-r--r-- 1 nncp nncp 6 29. Jun 00:26 hello.txt
+
+cat /home/alex/incoming/hello.txt 
+Hello
+</code></pre>
+<p>
+🥳
+</p>
+<p>
+I need to think about
+<a href="https://nncp.mirrors.quux.org/Administration.html">admin
+issues</a>, clearly.
+</p>
+<p>
+I need to set up regular <code>nncp-call</code> on the laptop; I need to
+set up regular <code>nncp-toss</code> on the server.
+</p>
+<p>
+It would be nice to switch from <code>inetd</code> to
+<code>systemd</code> perhaps? Surely they have written a replacement for
+it. They have written replacements for everything! 😬
+</p>
+<p>
+Next up, <a href="2024-06-29-nncp">sending email back and forth</a>!
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Administration">#Administration</a>
+<a class="tag" href="/search/?q=%23NNCP">#NNCP</a>
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-06-28-nncp"
+class="uri">https://alexschroeder.ch/view/2024-06-28-nncp</a></p>
 <hr />
 <h2
 id="cyanokites-are-a-collection-of-five-paper-kites-of-different-shades-of">Cyanokites
@@ -44,6 +1308,11 @@ are a collection of five paper kites of different shades of…</h2>
 <p>date: 2024-07-12, updated: 2024-07-12, from: Jason Kottke blog</p>
 <p><a href="https://kottke.org/24/07/0044936-cyanokites-are-a-collecti"
 class="uri">https://kottke.org/24/07/0044936-cyanokites-are-a-collecti</a></p>
+<hr />
+<h2 id="book-tour-simulator-2024">Book Tour Simulator 2024</h2>
+<p>date: 2024-07-12, updated: 2024-07-12, from: Robin Rendle Essays</p>
+<p><a href="https://robinrendle.com/notes/book-tour-simulator-2024/"
+class="uri">https://robinrendle.com/notes/book-tour-simulator-2024/</a></p>
 <hr />
 <h2
 id="printernet-get-a-custom-print-version-of-your-reading-list-sent-right">Printernet:
@@ -3767,233 +5036,6 @@ participating must contact the newsroom at NASA’s […]</p>
 href="https://www.nasa.gov/news-release/nasa-boeing-provide-next-update-on-space-station-crew-flight-test/"
 class="uri">https://www.nasa.gov/news-release/nasa-boeing-provide-next-update-on-space-station-crew-flight-test/</a></p>
 <hr />
-<h2 id="connecting-the-laptop-to-the-server-via-nncp">2024-06-28
-Connecting the laptop to the server via NNCP</h2>
-<p>date: 2024-07-08, from: Alex Schroeder’s Blog</p>
-<h1 id="2024-06-28-connecting-the-laptop-to-the-server-via-nncp">
-2024-06-28 Connecting the laptop to the server via NNCP
-</h1>
-<p>
-First, install the <code>nncp</code> package on both systems. In
-addition to that, install the <code>openbsd-inetd</code> package on the
-server. (In the following passages, I’m connected as <code>root</code>
-to the server.)
-</p>
-<p>
-Generate new configs on the systems that are missing
-<code>/etc/nncp.hjson</code>.
-</p>
-<pre><code>nncp-cfgnew &gt; /etc/nncp.hjson
-chown nncp:nncp /etc/nncp.hjson
-chmod 660 /etc/nncp.hjson
-</code></pre>
-<p>
-Examine the file using a text editor. Each system needs to know the
-public keys of the other.
-</p>
-<p>
-So, on the laptop, I need to add to add the public keys of the server. I
-also want to specify that I’m going to call the node on a regular basis
-and that files sent to me from that node should be saved in my
-“incoming” directory. I also want to accept mail.
-</p>
-<pre><code>    sibirocobombus: {
-      id:       ...
-      exchpub:  ...
-      signpub:  ...
-      noisepub: ...
-      incoming: &quot;/home/alex/incoming/sibirocobombus&quot;
-      exec: {
-        sendmail: [&quot;/usr/sbin/sendmail&quot;]
-      }
-      addrs: {
-        internet: &quot;alexschroeder.ch:5400&quot;
-      }
-      calls: [
-        {
-          cron: &quot;12 * * * *&quot;
-        }
-      ]
-    }
-</code></pre>
-<p>
-And on the server, I need to add the public keys of the laptop. I also
-want to save incoming files from the laptop. And I want to accept mail.
-</p>
-<pre><code>    melanobombus: {
-      id:       ...
-      exchpub:  ...
-      signpub:  ...
-      noisepub: ...
-      incoming: &quot;/home/alex/incoming&quot;
-      exec: {
-        sendmail: [&quot;/usr/sbin/sendmail&quot;]
-      }
-    }
-</code></pre>
-<p>
-Note how the laptop calls the server but the server does not call the
-laptop!
-</p>
-<p>
-Let’s make sure those directories exist:
-</p>
-<pre><code>mkdir ~/incoming
-ssh sibirocobombus mkdir incoming
-</code></pre>
-<p>
-Let’s create a file and send it from the laptop to the server using
-<code>nncp-file</code>:
-</p>
-<pre><code>echo Hello &gt; hello.txt
-sudo -u nncp nncp-file hello.txt sibirocobombus:
-</code></pre>
-<p>
-Check the log using <code>nncp-log</code>:
-</p>
-<pre><code>nncp-log | tail -n 1
-2024-06-28T21:36:02Z File hello.txt (282 B) is sent to sibirocobombus:hello.txt
-</code></pre>
-<p>
-Let’s connect to the server and check:
-</p>
-<pre><code>ssh sibirocobombus ls incoming
-</code></pre>
-<p>
-Nothing has arrived!
-</p>
-<p>
-Let’s call the server using <code>nncp-call</code>:
-</p>
-<pre><code>sudo -u nncp nncp-call sibirocobombus
-2024-06-28T22:07:36Z ERROR Calling sibirocobombus (alexschroeder.ch:5400): dial tcp [2a02:418:6a04:178:209:50:237:1]:5400: connect: connection refused
-</code></pre>
-<p>
-Oops. It’s not running? That’s right, I need to run
-<code>nncp-daemon</code> on the server side.
-</p>
-<p>
-Add the following to <code>/etc/inetd.conf</code> on the server to
-accept NNCP connections on port 5400:
-</p>
-<pre><code>5400 stream  tcp nowait  nncp    /usr/local/bin/nncp-daemon  nncp-daemon -quiet -ucspi
-</code></pre>
-<p>
-Reload it:
-</p>
-<pre><code>systemctl reload openbsd-inetd
-</code></pre>
-<p>
-Try again on the laptop:
-</p>
-<pre><code>sudo -u nncp nncp-call sibirocobombus
-2024-06-28T22:14:13Z We have got for sibirocobombus: 1 packets, 486 B
-2024-06-28T22:14:13Z ERROR SP with sibirocobombus (nice MAX): reading: EOF
-2024-06-28T22:14:13Z ERROR Connection to sibirocobombus (alexschroeder.ch:5400): EOF
-</code></pre>
-<p>
-Back to the server:
-</p>
-<pre><code>nncp-log
-2024-06-28T22:15:25Z ERROR SP nice MAX: waiting for first message: unknown peer: ...
-2024-06-28T22:15:25Z Connected to unknown
-</code></pre>
-<p>
-Strange! That id listed there matches my laptop’s <code>noisepub</code>.
-Checking the <code>/etc/nncp.hjson</code> on the server again, I see
-that pasted the wrong pubkeys… 🤦 Fix that and try again…
-</p>
-<pre><code>sudo -u nncp nncp-call sibirocobombus
-2024-06-28T22:19:31Z We have got for sibirocobombus: 1 packets, 486 B
-2024-06-28T22:19:31Z Connection to sibirocobombus (alexschroeder.ch:5400)
-2024-06-28T22:19:31Z Tx QAROTFMX25ZPQOT5..I6JKH75EC2DMSSZQ 486 B/486 B 100% (0 B/sec)
-2024-06-28T22:19:31Z Packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ is sent
-2024-06-28T22:19:42Z Finished call with sibirocobombus (0:0:11): 32 KiB received (32 KiB/sec), 33 KiB transferred (33 KiB/sec)
-</code></pre>
-<p>
-Looking good! Check for the file on the server:
-</p>
-<pre><code>ssh sibirocobombus ls incoming
-</code></pre>
-<p>
-It’s not there!
-</p>
-<p>
-Let’s investigate on the server:
-</p>
-<pre><code>nncp-log
-2024-06-28T22:19:31Z Packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ (486 B) (nice B): 0%
-2024-06-28T22:19:31Z melanobombus has got for us: 1 packets, 486 B
-2024-06-28T22:19:31Z Connection with melanobombus (PIPE)
-2024-06-28T22:19:31Z Got packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ 100% (486 B / 486 B): done
-2024-06-28T22:19:42Z Finished call with melanobombus (0:0:11): 33 KiB received (33 KiB/sec), 32 KiB transferred (32 KiB/sec)
-</code></pre>
-<p>
-This looks good, so we have the packet! And we can confirm this using
-<code>nncp-stat</code>:
-</p>
-<pre><code>nncp-stat
-melanobombus
-    nice:   B | Rx:      486 B,   1 pkts | Tx:        0 B,   0 pkts
-self
-</code></pre>
-<p>
-What needs to happen now is “tossing” using <code>nncp-toss</code>. This
-is, “processing” the packet and thereby delivering it.
-</p>
-<pre><code>sudo -u nncp nncp-toss
-2024-06-28T22:24:28Z ERROR Tossing file melanobombus/QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ (6 B): hello.txt: mktemp: open /home/alex/incoming/nncpfile17dd4b56c39f64d4: permission denied
-</code></pre>
-<p>
-That’s right, the incoming file should be writable by more people…
-</p>
-<pre><code>chgrp nncp /home/alex/incoming
-chmod g+w /home/alex/incoming
-</code></pre>
-<p>
-Try again!
-</p>
-<pre><code>sudo -u nncp nncp-toss
-2024-06-28T22:26:35Z Rx file QAROTFMX25ZPQOT5..I6JKH75EC2DMSSZQ 6 B/6 B 100% (0 B/sec)
-2024-06-28T22:26:36Z Got file hello.txt (6 B) from melanobombus
-</code></pre>
-<p>
-It worked:
-</p>
-<pre><code>ls -l /home/alex/incoming/
-total 4
--rw-r--r-- 1 nncp nncp 6 29. Jun 00:26 hello.txt
-
-cat /home/alex/incoming/hello.txt 
-Hello
-</code></pre>
-<p>
-🥳
-</p>
-<p>
-I need to think about
-<a href="https://nncp.mirrors.quux.org/Administration.html">admin
-issues</a>, clearly.
-</p>
-<p>
-I need to set up regular <code>nncp-call</code> on the laptop; I need to
-set up regular <code>nncp-toss</code> on the server.
-</p>
-<p>
-It would be nice to switch from <code>inetd</code> to
-<code>systemd</code> perhaps? Surely they have written a replacement for
-it. They have written replacements for everything! 😬
-</p>
-<p>
-Next up, <a href="2024-06-29-nncp">sending email back and forth</a>!
-</p>
-<p>
-<a class="tag" href="/search/?q=%23Administration">#Administration</a>
-<a class="tag" href="/search/?q=%23NNCP">#NNCP</a>
-</p>
-<p><a href="https://alexschroeder.ch/view/2024-06-28-nncp"
-class="uri">https://alexschroeder.ch/view/2024-06-28-nncp</a></p>
-<hr />
 <h2 id="the-terrifying-project-2025">The Terrifying Project 2025</h2>
 <p>date: 2024-07-08, updated: 2024-07-08, from: Jason Kottke blog</p>
 <p><a href="https://kottke.org/24/07/the-terrifying-project-2025"
@@ -4466,15 +5508,6 @@ and ever-developing corpus. […]</p>
 <p><a href="https://blog.ayjay.org/human-voices/"
 class="uri">https://blog.ayjay.org/human-voices/</a></p>
 <hr />
-<h2 id="advent-of-computing-episode-135---xenix">Advent of Computing:
-Episode 135 - XENIX</h2>
-<p>date: 2024-07-08, from: Tilde.news</p>
-<p>
-<a href="https://tilde.news/s/mbbbno/advent_computing_episode_135_xenix">Comments</a>
-</p>
-<p><a href="https://adventofcomputing.libsyn.com/episode-135-xenix"
-class="uri">https://adventofcomputing.libsyn.com/episode-135-xenix</a></p>
-<hr />
 <h2 id="my-fears-about-ai-are-not-what-you-think">My fears about AI are
 not what you think</h2>
 <p>date: 2024-07-08, from: Ze Iaso’s blog</p>
@@ -4482,6 +5515,19 @@ not what you think</h2>
 AI industry</p>
 <p><a href="https://xeiaso.net/videos/2024/ai-fears/"
 class="uri">https://xeiaso.net/videos/2024/ai-fears/</a></p>
+<hr />
+<h2 id="episode-135---xenix">Episode 135 - XENIX</h2>
+<p>date: 2024-07-07, from: Advent of Computing</p>
+<p data-pm-slice="0 0 []">
+In 1984 SCO released PC XENIX, a port of UNIX that ran on an IBM PC. To
+understand why that’s such a technical feat, and how we even got here,
+we have to go back to the late 1970s. In this episode we are taking a
+look at how Microsoft got into the UNIX game, and how they repeatedly
+struggled to make micro-UNIX work for them. Along the way we run into
+vaporware, conspiracy, and the expected missing sources!
+</p>
+<p><a href="https://adventofcomputing.libsyn.com/episode-135-xenix"
+class="uri">https://adventofcomputing.libsyn.com/episode-135-xenix</a></p>
 <hr />
 <h2 id="seymour-and-brownie">Seymour and Brownie</h2>
 <p>date: 2024-07-07, from: John Udell blog</p>

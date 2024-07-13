@@ -1,11 +1,76 @@
 ---
 title: writing 2024.28
-updated: 2024-07-12 09:21:02
+updated: 2024-07-13 10:11:57
 ---
 
 # writing 2024.28
 
-(date: 2024-07-12 09:21:02)
+(date: 2024-07-13 10:11:57)
+
+---
+
+## BayCon to Host Westercons 77 and 78
+
+date: 2024-07-12, from: Locus Magazine
+
+<p>BayCon will host both Westercon 77 (2025) and 78 (2026).  Site selection for 2026 was held during Westercon 76, July 4-7, 2024 in Salt Lake City UT. BayCon 2025 was previously awarded the right to host Westercon 77, announced on June 14, 2024.</p>
+<p>More information about the vote is available on the Westercon website. Information about BayCon 2025/Westercon 77 is available at the BayCon site.</p>
+
+<p><strong>While you are here,</strong> please  <a href="https://locusmag.com/2024/07/baycon-to-host-westercons-77-and-78/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/baycon-to-host-westercons-77-and-78/>
+
+---
+
+## Virtual ICFA Call For Papers
+
+date: 2024-07-12, from: Locus Magazine
+
+<p>VICFA 3, the third Virtual International Conference for the Fantastic in the Arts, is open to academic and creative proposals. The theme of the conference is &#8220;Pantheology in World-Building and Magic Systems,&#8221; but VICFA welcomes proposals &#8220;on any topic of interest and specialization whether part of the conference theme or independent of it.&#8221; Submissions are open until July 31, 2024, and the conference will take place online from October 9-12,  <a href="https://locusmag.com/2024/07/virtual-icfa-call-for-papers/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/virtual-icfa-call-for-papers/>
+
+---
+
+## 🥸 #207 - That's What THEY Want You To Think
+
+date: 2024-07-12, from: Interesting, a blog on writing
+
+Who controls the British Crown? Who keeps the Metric System down? 
+
+<https://inneresting.substack.com/p/207-thats-what-they-want-you-to-think>
+
+---
+
+## Scriptnotes, Episode 645: The Third Season, Transcript
+
+date: 2024-07-12, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August, and you’re listening to Episode 645 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. For showrunners, the first season of a television show is often a trial by fire as [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-645-the-third-season-transcript">Scriptnotes, Episode 645: The Third Season, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-645-the-third-season-transcript>
+
+---
+
+## Scriptnotes, Episode 644: The Power of the Cold Open, Transcript
+
+date: 2024-07-12, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: Meow. My name is Craig Mazin. John: This is Episode 644 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, we will sing the praises [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-644-the-power-of-the-cold-open-transcript">Scriptnotes, Episode 644: The Power of the Cold Open, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-644-the-power-of-the-cold-open-transcript>
+
+---
+
+## July Announcements
+
+date: 2024-07-12, from: Locus Magazine
+
+<p>The Virginia Kidd Agency/Arrowhead SF Foundation will once again sponsor and host the SF Portion of the annual Milford Readers &#38; Writers Festival, to be held September 13-15 2024 in Milford PA, with a few of the events hosted at Arrowhead,Virginia Kidd’s historic home (and still the offices of her eponymous agency.) This year’s panel is &#8220;Mil­ford: Why Our Town Was/Is a Mecca For Science Fiction&#8221;, with panelists Lawrence C.  <a href="https://locusmag.com/2024/07/july-announcements/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/july-announcements/>
 
 ---
 
@@ -13,7 +78,7 @@ updated: 2024-07-12 09:21:02
 
 date: 2024-07-12, from: John August blog
 
-Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at how writers have adapted, remixed, distorted and exploded the story of Frankenstein’s Monster. Our collection includes: Edward Scissorhands by Caroline Thompson Ex Machina by Alex Garland Frankenweenie by John August Mary [&#8230;]
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at how writers have adapted, remixed, distorted and exploded the story of Frankenstein’s Monster.
 The post <a href="https://johnaugust.com/2024/frankenstein-fables">Featured Friday: Frankenstein Fables</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
 
 <https://johnaugust.com/2024/frankenstein-fables>

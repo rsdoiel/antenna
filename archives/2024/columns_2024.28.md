@@ -1,11 +1,408 @@
 ---
 title: columns 2024.28
-updated: 2024-07-12 09:21:01
+updated: 2024-07-13 10:11:57
 ---
 
 # columns 2024.28
 
-(date: 2024-07-12 09:21:01)
+(date: 2024-07-13 10:11:57)
+
+---
+
+## American Conversations: Secretary of State Antony Blinken
+
+date: 2024-07-12, from: Heather Cox Richardson blog
+
+On February 4, 2021, in a speech at the State Department, President Joe Biden talked about the importance of diplomacy and the different actions he had taken in the two weeks since taking office. Then he said: &#8220;There&#8217;s no longer a bright line between foreign and domestic policy. Every action we take in our conduct abroad, we must take with American working families in mind. Advancing a foreign policy for the middle class demands urgent focus on our domestic&#8230;economic renewal.&#8221; 
+
+<https://heathercoxrichardson.substack.com/p/american-conversations-secretary>
+
+---
+
+## Google Chrome, Along With Other Popular Chromium Browsers, Grants System Monitoring Privileges to *.google.com Domains
+
+date: 2024-07-12, updated: 2024-07-13, from: Daring Fireball
+
+ 
+
+<https://x.com/lcasdev/status/1810696257137959018>
+
+---
+
+## 2024-07-12 Sending files via NNCP
+
+date: 2024-07-12, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-12-sending-files-via-nncp">2024-07-12 Sending files via NNCP</h1>
+
+<p>Let&rsquo;s assume that you want to send me a file via NNCP. What do you need to do?</p>
+
+<p>You need to add my server to your <code>/etc/nncp.hjson</code> file, in the <code>neigh</code> section.</p>
+
+<p>In the following examples, you want to change &ldquo;alex&rdquo; to your own username.</p>
+
+<pre><code>    sibirocobombus: {
+      id:       CCAIPFSAZWYICBQ5BIURX4UMEJIXVSZFIING7HRUFTDOFV5XISVQ
+      exchpub:  NGEIDPDVZ2I6CTRKCBT734VV4W2YFVTV6YFBU5UGB6IHBA3QDJUQ
+      signpub:  VXBMWXS74IGAYQCLJY4UPAXXQXPT3K53QI5XCFHOAKL4I2FQNLKQ
+      noisepub: MGGBAOHRHEWEC6CGT47GA2DOQXQFZUAKJ66PD734Y5WNWP364UXQ
+      addrs: {
+        internet: &quot;alexschroeder.ch:5400&quot;
+      }
+      incoming: &quot;/home/alex/incoming/sibirocobombus&quot;
+      exec: {
+        rsmtp: [&quot;/usr/sbin/sendmail&quot;, &quot;-bS&quot;]
+      }
+      calls: [
+        {
+          cron: &quot;12 * * * *&quot;
+        }
+      ]
+    }
+</code></pre>
+
+<p>What does it mean?</p>
+
+<ol>
+<li>you know how to contact my server via the <code>.addrs.internet</code> key – you need this, but you can specify <code>campaignwiki.org</code> instead, if your prefer</li>
+<li>you allow my server to save incoming files in a directory via the <code>.incoming</code> key – you only need this if you want to receive files (the directory must exist and the <code>nncp</code> group must be allowed to write to it)</li>
+<li>you allow my server to send mail to local users via the <code>.exec.rsmtp</code> key – this is not necessary if you don&rsquo;t want to receive mail</li>
+<li>you connect to my server every now and then via the <code>calls[0].cron</code> entry – this is not necessary if you don&rsquo;t mind using <code>nncp-call</code> every now and then</li>
+</ol>
+
+<p>Note that my server allows sending mail but doesn&rsquo;t have an &ldquo;incoming&rdquo; directory. Basically, you need to get the public keys for my laptop from me, and set that up as well.</p>
+
+<pre><code>    melanobombus: {
+      id:       R23WEIHB52TMA4EKGJPKUDBFSYP2HG4HHW2HGJ3RJATCCRLYDUZQ
+      exchpub:  EGP2MMLQJQUKWTHI22JTIRMR2UV3BA2ATE3AYLVOFODMTNRGAMEA
+      signpub:  YO6SZXVEIU77OQQRKMAUFUT4V3NJER4U7LQE5JI7JORJXKXY5FBA
+      noisepub: 6ECO4WXJNDED6WHJ6SM2HGRQMUO75X65ALT2YRKZ3YGGBDXRNV4A
+      via:      [&quot;sibirocobombus&quot;]
+      incoming: &quot;/home/alex/incoming/melanobombus&quot;
+      exec: {
+        rsmtp:  [&quot;/usr/sbin/sendmail&quot;, &quot;-bS&quot;]
+      }
+    }
+</code></pre>
+
+<p>What does it mean?</p>
+
+<ol>
+<li>you know how to contact my laptop via my server using the <code>.via[0]</code> key – you need this and the name needs to match the name you used for my server</li>
+<li>you allow the laptop to save incoming files in a directory via the <code>.incoming</code> key – you only need this if you want to receive files (the directory must exist and the <code>nncp</code> group must be allowed to write to it)</li>
+<li>you allow the laptop to send mail to local users via the <code>.exec.rsmtp</code> key – this is not necessary if you don&rsquo;t want to receive mail</li>
+</ol>
+
+<p>You also need to send me two things:</p>
+
+<ol>
+<li>your system&rsquo;s public keys so that I can set up similar entries on my laptop and my server</li>
+<li>your system&rsquo;s internet address – unless only you can call my server</li>
+</ol>
+
+<p>If your system doesn&rsquo;t have a public internet address, no problem.
+My server will enqueue stuff for your system without ever sending it.
+It will wait for you there until your system calls.
+You would do this as follows:</p>
+
+<pre><code>sudo -u nncp nncp-call sibirocobombus
+</code></pre>
+
+<p>Now, to send me a README file, you&rsquo;d run:</p>
+
+<pre><code>sudo -u nncp nncp-file README melanobombus:
+2024-07-12T18:12:15Z Tx README 486 B/486 B 100% (73 KiB/sec)
+2024-07-12T18:12:15Z File README (282 B) is sent to melanobombus:README
+</code></pre>
+
+<p>At this point, the file is in the queue.</p>
+
+<p>You need to <code>sudo -u nncp nncp-call sibirocobombus</code> to actually send the files unless you have set up regular calls via the <code>calls[0].cron</code> key in your <code>/etc/nncp.hjson</code>. My server will receive the packets encrypted and addressed to my laptop and enqueue it again. The next time my laptop calls my server, it&rsquo;ll get them.</p>
+
+<p>You probably want to let me know about the channel via another channel, be it IRC, regular mail – or mail via NNCP!</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23NNCP">#NNCP</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-12-sending-files-via-nncp>
+
+---
+
+## Friday Squid Blogging: 1994 Lair of Squid Game
+
+date: 2024-07-12, updated: 2024-07-12, from: Bruce Schneier blog
+
+<p>I <a href="https://arstechnica.com/gaming/2024/07/how-i-found-a-forgotten-squid-based-ode-to-doom-on-a-1994-palmtop-pc/">didn&#8217;t know</a>:</p>
+<blockquote><p>In 1994, Hewlett-Packard released a miracle machine: the HP 200LX pocket-size PC. In the depths of the device, among the MS-DOS productivity apps built into its fixed memory, there lurked a first-person maze game called <i>Lair of Squid</i>.</p>
+<p>[&#8230;]</p>
+<p>In <i>Lair of Squid</i>, you&#8217;re trapped in an underwater labyrinth, seeking a way out while avoiding squid roaming the corridors. A collision with any cephalopod results in death. To progress through each stage and ascend to the surface, you locate the exit and provide a hidden, scrambled code word. The password is initially displayed as asterisks, with letters revealed as you encounter them within the maze. ...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/07/friday-squid-blogging-1994-lair-of-squid-game.html>
+
+---
+
+## July 11, 2024
+
+date: 2024-07-12, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/july-11-2024-182>
+
+---
+
+## Massive Data Breach at AT&T Exposed Six Months of Call and SMS Records of Nearly All Customers
+
+date: 2024-07-12, updated: 2024-07-13, from: Daring Fireball
+
+ 
+
+<https://www.cnn.com/2024/07/12/business/att-customers-massive-breach/index.html>
+
+---
+
+## Hermès’s H08 Watch, the Other Source for Samsung’s Ultra Rip-Off
+
+date: 2024-07-12, updated: 2024-07-12, from: Daring Fireball
+
+ 
+
+<https://www.hermes.com/us/en/product/hermes-h08-watch-42mm-W402992WW00/>
+
+---
+
+##  There&#8217;s a 25th anniversary edition version of Brian Greene&#8217;s The Elegant Universe... 
+
+date: 2024-07-12, updated: 2024-07-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044944-theres-a-25th-edition-ver>
+
+---
+
+## European Commission Charges X With Breach of DSA
+
+date: 2024-07-12, updated: 2024-07-12, from: Daring Fireball
+
+ 
+
+<https://ec.europa.eu/commission/presscorner/detail/en/IP_24_3761>
+
+---
+
+##  Baltic Ice 
+
+date: 2024-07-12, updated: 2024-07-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/baltic-ice>
+
+---
+
+## 2024-06-28 Connecting the laptop to the server via NNCP
+
+date: 2024-07-12, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-28-connecting-the-laptop-to-the-server-via-nncp">2024-06-28 Connecting the laptop to the server via NNCP</h1>
+
+<p>First, install the <code>nncp</code> package on both systems.
+In addition to that, install the <code>openbsd-inetd</code> package on the server.
+(In the following passages, I&rsquo;m connected as <code>root</code> to the server.)</p>
+
+<p>Generate new configs on the systems that are missing <code>/etc/nncp.hjson</code>.</p>
+
+<pre><code>nncp-cfgnew &gt; /etc/nncp.hjson
+chown nncp:nncp /etc/nncp.hjson
+chmod 660 /etc/nncp.hjson
+</code></pre>
+
+<p>Examine the file using a text editor.
+Each system needs to know the public keys of the other.</p>
+
+<p>So, on the laptop, I need to add to add the public keys of the server.
+I also want to specify that I&rsquo;m going to call the node on a regular basis
+and that files sent to me from that node should be saved in my &ldquo;incoming&rdquo;
+directory. I also want to accept mail.</p>
+
+<pre><code>    sibirocobombus: {
+      id:       ...
+      exchpub:  ...
+      signpub:  ...
+      noisepub: ...
+      incoming: &quot;/home/alex/incoming/sibirocobombus&quot;
+      exec: {
+        sendmail: [&quot;/usr/sbin/sendmail&quot;]
+      }
+      addrs: {
+        internet: &quot;alexschroeder.ch:5400&quot;
+      }
+      calls: [
+        {
+          cron: &quot;12 * * * *&quot;
+        }
+      ]
+    }
+</code></pre>
+
+<p>And on the server, I need to add the public keys of the laptop.
+I also want to save incoming files from the laptop.
+And I want to accept mail.</p>
+
+<pre><code>    melanobombus: {
+      id:       ...
+      exchpub:  ...
+      signpub:  ...
+      noisepub: ...
+      incoming: &quot;/home/alex/incoming&quot;
+      exec: {
+        sendmail: [&quot;/usr/sbin/sendmail&quot;]
+      }
+    }
+</code></pre>
+
+<p>Note how the laptop calls the server but the server does not call the laptop!</p>
+
+<p>Let&rsquo;s make sure those directories exist:</p>
+
+<pre><code>mkdir ~/incoming
+ssh sibirocobombus mkdir incoming
+</code></pre>
+
+<p>Let&rsquo;s create a file and send it from the laptop to the server using <code>nncp-file</code>:</p>
+
+<pre><code>echo Hello &gt; hello.txt
+sudo -u nncp nncp-file hello.txt sibirocobombus:
+</code></pre>
+
+<p>Check the log using <code>nncp-log</code>:</p>
+
+<pre><code>nncp-log | tail -n 1
+2024-06-28T21:36:02Z File hello.txt (282 B) is sent to sibirocobombus:hello.txt
+</code></pre>
+
+<p>Let&rsquo;s connect to the server and check:</p>
+
+<pre><code>ssh sibirocobombus ls incoming
+</code></pre>
+
+<p>Nothing has arrived!</p>
+
+<p>Let&rsquo;s call the server using <code>nncp-call</code>:</p>
+
+<pre><code>sudo -u nncp nncp-call sibirocobombus
+2024-06-28T22:07:36Z ERROR Calling sibirocobombus (alexschroeder.ch:5400): dial tcp [2a02:418:6a04:178:209:50:237:1]:5400: connect: connection refused
+</code></pre>
+
+<p>Oops. It&rsquo;s not running? That&rsquo;s right, I need to run <code>nncp-daemon</code> on the server side.</p>
+
+<p>Add the following to <code>/etc/inetd.conf</code> on the server to accept NNCP connections on port 5400:</p>
+
+<pre><code>5400	stream	tcp	nowait	nncp	/usr/bin/nncp-daemon	nncp-daemon -quiet -ucspi
+</code></pre>
+
+<p>Reload it:</p>
+
+<pre><code>systemctl reload openbsd-inetd
+</code></pre>
+
+<p>Try again on the laptop:</p>
+
+<pre><code>sudo -u nncp nncp-call sibirocobombus
+2024-06-28T22:14:13Z We have got for sibirocobombus: 1 packets, 486 B
+2024-06-28T22:14:13Z ERROR SP with sibirocobombus (nice MAX): reading: EOF
+2024-06-28T22:14:13Z ERROR Connection to sibirocobombus (alexschroeder.ch:5400): EOF
+</code></pre>
+
+<p>Back to the server:</p>
+
+<pre><code>nncp-log
+2024-06-28T22:15:25Z ERROR SP nice MAX: waiting for first message: unknown peer: ...
+2024-06-28T22:15:25Z Connected to unknown
+</code></pre>
+
+<p>Strange! That id listed there matches my laptop&rsquo;s <code>noisepub</code>.
+Checking the <code>/etc/nncp.hjson</code> on the server again, I see that pasted the wrong pubkeys… 🤦
+Fix that and try again…</p>
+
+<pre><code>sudo -u nncp nncp-call sibirocobombus
+2024-06-28T22:19:31Z We have got for sibirocobombus: 1 packets, 486 B
+2024-06-28T22:19:31Z Connection to sibirocobombus (alexschroeder.ch:5400)
+2024-06-28T22:19:31Z Tx QAROTFMX25ZPQOT5..I6JKH75EC2DMSSZQ 486 B/486 B 100% (0 B/sec)
+2024-06-28T22:19:31Z Packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ is sent
+2024-06-28T22:19:42Z Finished call with sibirocobombus (0:0:11): 32 KiB received (32 KiB/sec), 33 KiB transferred (33 KiB/sec)
+</code></pre>
+
+<p>Looking good!
+Check for the file on the server:</p>
+
+<pre><code>ssh sibirocobombus ls incoming
+</code></pre>
+
+<p>It&rsquo;s not there!</p>
+
+<p>Let&rsquo;s investigate on the server:</p>
+
+<pre><code>nncp-log
+2024-06-28T22:19:31Z Packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ (486 B) (nice B): 0%
+2024-06-28T22:19:31Z melanobombus has got for us: 1 packets, 486 B
+2024-06-28T22:19:31Z Connection with melanobombus (PIPE)
+2024-06-28T22:19:31Z Got packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ 100% (486 B / 486 B): done
+2024-06-28T22:19:42Z Finished call with melanobombus (0:0:11): 33 KiB received (33 KiB/sec), 32 KiB transferred (32 KiB/sec)
+</code></pre>
+
+<p>This looks good, so we have the packet!
+And we can confirm this using <code>nncp-stat</code>:</p>
+
+<pre><code>nncp-stat
+melanobombus
+	nice:   B | Rx:      486 B,   1 pkts | Tx:        0 B,   0 pkts
+self
+</code></pre>
+
+<p>What needs to happen now is &ldquo;tossing&rdquo; using <code>nncp-toss</code>.
+This is, &ldquo;processing&rdquo; the packet and thereby delivering it.</p>
+
+<pre><code>sudo -u nncp nncp-toss
+2024-06-28T22:24:28Z ERROR Tossing file melanobombus/QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ (6 B): hello.txt: mktemp: open /home/alex/incoming/nncpfile17dd4b56c39f64d4: permission denied
+</code></pre>
+
+<p>That&rsquo;s right, the incoming file should be writable by more people…</p>
+
+<pre><code>chgrp nncp /home/alex/incoming
+chmod g+w /home/alex/incoming
+</code></pre>
+
+<p>Try again!</p>
+
+<pre><code>sudo -u nncp nncp-toss
+2024-06-28T22:26:35Z Rx file QAROTFMX25ZPQOT5..I6JKH75EC2DMSSZQ 6 B/6 B 100% (0 B/sec)
+2024-06-28T22:26:36Z Got file hello.txt (6 B) from melanobombus
+</code></pre>
+
+<p>It worked:</p>
+
+<pre><code>ls -l /home/alex/incoming/
+total 4
+-rw-r--r-- 1 nncp nncp 6 29. Jun 00:26 hello.txt
+
+cat /home/alex/incoming/hello.txt 
+Hello
+</code></pre>
+
+<p>🥳</p>
+
+<p>I need to think about <a href="https://nncp.mirrors.quux.org/Administration.html">admin issues</a>, clearly.</p>
+
+<p>I need to set up regular <code>nncp-call</code> on the laptop; I need to set up regular <code>nncp-toss</code> on the server.</p>
+
+<p>It would be nice to switch from <code>inetd</code> to <code>systemd</code> perhaps? Surely they have written a replacement for it. They have written replacements for everything! 😬</p>
+
+<p>Next up, <a href="2024-06-29-nncp">sending email back and forth</a>!</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23NNCP">#NNCP</a></p> 
+
+<https://alexschroeder.ch/view/2024-06-28-nncp>
 
 ---
 
@@ -913,7 +1310,7 @@ date: 2024-07-10, updated: 2024-07-11, from: Daring Fireball
 
 ## Samsung Rips Off Apple Watch Ultra, Right Down to the Name
 
-date: 2024-07-10, updated: 2024-07-10, from: Daring Fireball
+date: 2024-07-10, updated: 2024-07-13, from: Daring Fireball
 
  
 
@@ -1142,7 +1539,7 @@ Marylebone Cricket Club, one of cricket’s august organizations, recently organ
 
 ## Flight Tracking in Messages (and Anywhere Data Detectors Work)
 
-date: 2024-07-09, updated: 2024-07-10, from: Daring Fireball
+date: 2024-07-09, updated: 2024-07-13, from: Daring Fireball
 
  
 
@@ -1553,212 +1950,6 @@ date: 2024-07-08, updated: 2024-07-08, from: Jason Kittke's blog
  
 
 <https://kottke.org/24/07/0044917-project-2025-would-be-a>
-
----
-
-## 2024-06-28 Connecting the laptop to the server via NNCP
-
-date: 2024-07-08, from: Alex Schroeder's Blog
-
-<h1 id="2024-06-28-connecting-the-laptop-to-the-server-via-nncp">2024-06-28 Connecting the laptop to the server via NNCP</h1>
-
-<p>First, install the <code>nncp</code> package on both systems.
-In addition to that, install the <code>openbsd-inetd</code> package on the server.
-(In the following passages, I&rsquo;m connected as <code>root</code> to the server.)</p>
-
-<p>Generate new configs on the systems that are missing <code>/etc/nncp.hjson</code>.</p>
-
-<pre><code>nncp-cfgnew &gt; /etc/nncp.hjson
-chown nncp:nncp /etc/nncp.hjson
-chmod 660 /etc/nncp.hjson
-</code></pre>
-
-<p>Examine the file using a text editor.
-Each system needs to know the public keys of the other.</p>
-
-<p>So, on the laptop, I need to add to add the public keys of the server.
-I also want to specify that I&rsquo;m going to call the node on a regular basis
-and that files sent to me from that node should be saved in my &ldquo;incoming&rdquo;
-directory. I also want to accept mail.</p>
-
-<pre><code>    sibirocobombus: {
-      id:       ...
-      exchpub:  ...
-      signpub:  ...
-      noisepub: ...
-      incoming: &quot;/home/alex/incoming/sibirocobombus&quot;
-      exec: {
-        sendmail: [&quot;/usr/sbin/sendmail&quot;]
-      }
-      addrs: {
-        internet: &quot;alexschroeder.ch:5400&quot;
-      }
-      calls: [
-        {
-          cron: &quot;12 * * * *&quot;
-        }
-      ]
-    }
-</code></pre>
-
-<p>And on the server, I need to add the public keys of the laptop.
-I also want to save incoming files from the laptop.
-And I want to accept mail.</p>
-
-<pre><code>    melanobombus: {
-      id:       ...
-      exchpub:  ...
-      signpub:  ...
-      noisepub: ...
-      incoming: &quot;/home/alex/incoming&quot;
-      exec: {
-        sendmail: [&quot;/usr/sbin/sendmail&quot;]
-      }
-    }
-</code></pre>
-
-<p>Note how the laptop calls the server but the server does not call the laptop!</p>
-
-<p>Let&rsquo;s make sure those directories exist:</p>
-
-<pre><code>mkdir ~/incoming
-ssh sibirocobombus mkdir incoming
-</code></pre>
-
-<p>Let&rsquo;s create a file and send it from the laptop to the server using <code>nncp-file</code>:</p>
-
-<pre><code>echo Hello &gt; hello.txt
-sudo -u nncp nncp-file hello.txt sibirocobombus:
-</code></pre>
-
-<p>Check the log using <code>nncp-log</code>:</p>
-
-<pre><code>nncp-log | tail -n 1
-2024-06-28T21:36:02Z File hello.txt (282 B) is sent to sibirocobombus:hello.txt
-</code></pre>
-
-<p>Let&rsquo;s connect to the server and check:</p>
-
-<pre><code>ssh sibirocobombus ls incoming
-</code></pre>
-
-<p>Nothing has arrived!</p>
-
-<p>Let&rsquo;s call the server using <code>nncp-call</code>:</p>
-
-<pre><code>sudo -u nncp nncp-call sibirocobombus
-2024-06-28T22:07:36Z ERROR Calling sibirocobombus (alexschroeder.ch:5400): dial tcp [2a02:418:6a04:178:209:50:237:1]:5400: connect: connection refused
-</code></pre>
-
-<p>Oops. It&rsquo;s not running? That&rsquo;s right, I need to run <code>nncp-daemon</code> on the server side.</p>
-
-<p>Add the following to <code>/etc/inetd.conf</code> on the server to accept NNCP connections on port 5400:</p>
-
-<pre><code>5400	stream	tcp	nowait	nncp	/usr/local/bin/nncp-daemon	nncp-daemon -quiet -ucspi
-</code></pre>
-
-<p>Reload it:</p>
-
-<pre><code>systemctl reload openbsd-inetd
-</code></pre>
-
-<p>Try again on the laptop:</p>
-
-<pre><code>sudo -u nncp nncp-call sibirocobombus
-2024-06-28T22:14:13Z We have got for sibirocobombus: 1 packets, 486 B
-2024-06-28T22:14:13Z ERROR SP with sibirocobombus (nice MAX): reading: EOF
-2024-06-28T22:14:13Z ERROR Connection to sibirocobombus (alexschroeder.ch:5400): EOF
-</code></pre>
-
-<p>Back to the server:</p>
-
-<pre><code>nncp-log
-2024-06-28T22:15:25Z ERROR SP nice MAX: waiting for first message: unknown peer: ...
-2024-06-28T22:15:25Z Connected to unknown
-</code></pre>
-
-<p>Strange! That id listed there matches my laptop&rsquo;s <code>noisepub</code>.
-Checking the <code>/etc/nncp.hjson</code> on the server again, I see that pasted the wrong pubkeys… 🤦
-Fix that and try again…</p>
-
-<pre><code>sudo -u nncp nncp-call sibirocobombus
-2024-06-28T22:19:31Z We have got for sibirocobombus: 1 packets, 486 B
-2024-06-28T22:19:31Z Connection to sibirocobombus (alexschroeder.ch:5400)
-2024-06-28T22:19:31Z Tx QAROTFMX25ZPQOT5..I6JKH75EC2DMSSZQ 486 B/486 B 100% (0 B/sec)
-2024-06-28T22:19:31Z Packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ is sent
-2024-06-28T22:19:42Z Finished call with sibirocobombus (0:0:11): 32 KiB received (32 KiB/sec), 33 KiB transferred (33 KiB/sec)
-</code></pre>
-
-<p>Looking good!
-Check for the file on the server:</p>
-
-<pre><code>ssh sibirocobombus ls incoming
-</code></pre>
-
-<p>It&rsquo;s not there!</p>
-
-<p>Let&rsquo;s investigate on the server:</p>
-
-<pre><code>nncp-log
-2024-06-28T22:19:31Z Packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ (486 B) (nice B): 0%
-2024-06-28T22:19:31Z melanobombus has got for us: 1 packets, 486 B
-2024-06-28T22:19:31Z Connection with melanobombus (PIPE)
-2024-06-28T22:19:31Z Got packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ 100% (486 B / 486 B): done
-2024-06-28T22:19:42Z Finished call with melanobombus (0:0:11): 33 KiB received (33 KiB/sec), 32 KiB transferred (32 KiB/sec)
-</code></pre>
-
-<p>This looks good, so we have the packet!
-And we can confirm this using <code>nncp-stat</code>:</p>
-
-<pre><code>nncp-stat
-melanobombus
-	nice:   B | Rx:      486 B,   1 pkts | Tx:        0 B,   0 pkts
-self
-</code></pre>
-
-<p>What needs to happen now is &ldquo;tossing&rdquo; using <code>nncp-toss</code>.
-This is, &ldquo;processing&rdquo; the packet and thereby delivering it.</p>
-
-<pre><code>sudo -u nncp nncp-toss
-2024-06-28T22:24:28Z ERROR Tossing file melanobombus/QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ (6 B): hello.txt: mktemp: open /home/alex/incoming/nncpfile17dd4b56c39f64d4: permission denied
-</code></pre>
-
-<p>That&rsquo;s right, the incoming file should be writable by more people…</p>
-
-<pre><code>chgrp nncp /home/alex/incoming
-chmod g+w /home/alex/incoming
-</code></pre>
-
-<p>Try again!</p>
-
-<pre><code>sudo -u nncp nncp-toss
-2024-06-28T22:26:35Z Rx file QAROTFMX25ZPQOT5..I6JKH75EC2DMSSZQ 6 B/6 B 100% (0 B/sec)
-2024-06-28T22:26:36Z Got file hello.txt (6 B) from melanobombus
-</code></pre>
-
-<p>It worked:</p>
-
-<pre><code>ls -l /home/alex/incoming/
-total 4
--rw-r--r-- 1 nncp nncp 6 29. Jun 00:26 hello.txt
-
-cat /home/alex/incoming/hello.txt 
-Hello
-</code></pre>
-
-<p>🥳</p>
-
-<p>I need to think about <a href="https://nncp.mirrors.quux.org/Administration.html">admin issues</a>, clearly.</p>
-
-<p>I need to set up regular <code>nncp-call</code> on the laptop; I need to set up regular <code>nncp-toss</code> on the server.</p>
-
-<p>It would be nice to switch from <code>inetd</code> to <code>systemd</code> perhaps? Surely they have written a replacement for it. They have written replacements for everything! 😬</p>
-
-<p>Next up, <a href="2024-06-29-nncp">sending email back and forth</a>!</p>
-
-<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23NNCP">#NNCP</a></p> 
-
-<https://alexschroeder.ch/view/2024-06-28-nncp>
 
 ---
 

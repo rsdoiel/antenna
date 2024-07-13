@@ -1,11 +1,31 @@
 ---
 title: games 2024.28
-updated: 2024-07-12 09:21:02
+updated: 2024-07-13 10:11:58
 ---
 
 # games 2024.28
 
-(date: 2024-07-12 09:21:02)
+(date: 2024-07-13 10:11:58)
+
+---
+
+## The Bikeriders, The Kingdom of the Planet of the Apes, and every movie new to streaming this week
+
+date: 2024-07-12, updated: 2024-07-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/7/12/24191828/new-movies-the-bikeriders-kingdom-of-the-planet-of-the-apes-netflix-the-peasants>
+
+---
+
+## Metroid Prime 4: Beyond artist opens up about redesigning Samus’ HUD
+
+date: 2024-07-12, updated: 2024-07-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gaming/24197414/metroid-prime-4-beyond-samus-aran-visor-hud-view-redesign>
 
 ---
 

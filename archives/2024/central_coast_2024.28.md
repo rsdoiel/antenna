@@ -1,11 +1,73 @@
 ---
 title: central coast 2024.28
-updated: 2024-07-12 09:20:59
+updated: 2024-07-13 10:11:55
 ---
 
 # central coast 2024.28
 
-(date: 2024-07-12 09:20:59)
+(date: 2024-07-13 10:11:55)
+
+---
+
+## SpaceX Rockets Grounded Amid Review of Failure
+
+date: 2024-07-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-SpaceX-Launch-Flop-cont.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-SpaceX-Launch-Flop-cont.jpg?w=1403&amp;ssl=1 1403w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-SpaceX-Launch-Flop-cont.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-SpaceX-Launch-Flop-cont.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-SpaceX-Launch-Flop-cont.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-SpaceX-Launch-Flop-cont.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-SpaceX-Launch-Flop-cont.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-SpaceX-Launch-Flop-cont.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-SpaceX-Launch-Flop-cont.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The 20 Starlink satellites that failed to reach their intended orbit following a SpaceX rocket’s failure after lifting off from Vandenberg Space Force Base Thursday can’t be rescued but don’t [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/spacex-rockets-grounded-amid-review-of-failure/">SpaceX Rockets Grounded Amid Review of Failure</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/spacex-rockets-grounded-amid-review-of-failure/>
+
+---
+
+## Lompoc Man Sentenced to 20 Years in Prison for Distributing Fentanyl in County Jail
+
+date: 2024-07-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A 32-year-old Lompoc man was sentenced to 20 years in prison Friday for aiding and abetting the distribution of fentanyl which led to the death of one inmate and serious [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lompoc-man-sentenced-to-20-years-in-prison-for-distributing-fentanyl-in-county-jail/">Lompoc Man Sentenced to 20 Years in Prison for Distributing Fentanyl in County Jail</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/lompoc-man-sentenced-to-20-years-in-prison-for-distributing-fentanyl-in-county-jail/>
+
+---
+
+## Santa Barbara Left-Handed Pitcher Chase Hoover Transfers to UCSB
+
+date: 2024-07-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/chase-hoover-transferring.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/chase-hoover-transferring.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/chase-hoover-transferring.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/chase-hoover-transferring.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/chase-hoover-transferring.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/chase-hoover-transferring.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/chase-hoover-transferring.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/chase-hoover-transferring.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/chase-hoover-transferring.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/chase-hoover-transferring.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/chase-hoover-transferring.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Chase Hoover is returning to where his baseball journey began. The left-handed pitcher who made a name for himself at San Marcos High School has transferred from TCU to UCSB [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-local-left-handed-pitcher-chase-hoover-transfers-to-ucsb-baseball-program/">Santa Barbara Left-Handed Pitcher Chase Hoover Transfers to UCSB</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-local-left-handed-pitcher-chase-hoover-transfers-to-ucsb-baseball-program/>
+
+---
+
+## Santa Barbara Historical Museum Joins Fiesta Centennial Celebration
+
+date: 2024-07-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara Historical Museum will celebrate the 100th anniversary of Old Spanish Days Fiesta with an enlarged, expanded version of its annual Project Fiesta! exhibit, on view July 12 through Nov. 1. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-historical-museum-joins-fiesta-centennial-celebration/">Santa Barbara Historical Museum Joins Fiesta Centennial Celebration</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-historical-museum-joins-fiesta-centennial-celebration/>
+
+---
+
+## Megan Sunthimer Joins C&D, LLP
+
+date: 2024-07-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>C&#38;D, LLP accounting firm in the Santa Ynez Valley has added Megan Sunthimer to the firm’s partnership ranks. She joins Kyle Gotcher, Stephen Palmer, Mike Sgobba and Matthew Watson to assist [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/megan-sunthimer-joins-cd-llp/">Megan Sunthimer Joins C&amp;D, LLP</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/megan-sunthimer-joins-cd-llp/>
 
 ---
 

@@ -1,11 +1,51 @@
 ---
 title: motorcycles 2024.28
-updated: 2024-07-12 09:21:04
+updated: 2024-07-13 10:12:00
 ---
 
 # motorcycles 2024.28
 
-(date: 2024-07-12 09:21:04)
+(date: 2024-07-13 10:12:00)
+
+---
+
+## 2024 Indian Challenger
+
+date: 2024-07-12, from: Cycle World News
+
+Indian’s Challenger bagger brings excellent handling, touring amenities, modern safety features, and a healthy dose of power to the V-twin touring category. 
+
+<https://www.cycleworld.com/indian/challenger/>
+
+---
+
+## 2024 Praga ZS 800 Review
+
+date: 2024-07-12, from: Cycle World News
+
+Praga’s ZS 800 is a $98,500 homage to the brand’s 1928 BD 500. This is one of the most exquisitely crafted motorcycles we’ve tested in quite a while. 
+
+<https://www.cycleworld.com/motorcycle-reviews/praga-zs-800-review/>
+
+---
+
+## 2024 ARCA West at Irwindale Doubleheader: Team Reactions, Analysis
+
+date: 2024-07-12, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires The Irwindale doubleheader, fifth and sixth races of the 2024 ARCA Menards West Series season, saw Sean Hingorani return to victory for&#8230;  
+
+<https://kickinthetires.net/nascar/24-arca-west-irwindale-reaction-analysis/>
+
+---
+
+## World’s First Production CNG-Powered Motorcycle
+
+date: 2024-07-12, from: Cycle World News
+
+Indian brand Bajaj has just released the world’s first CNG-powered motorcycle called the Freedom 125. The bike also has a gasoline backup tank, just in case. 
+
+<https://www.cycleworld.com/motorcycle-news/bajaj-freedom-125-cng-powered-motorcycle/>
 
 ---
 
@@ -66,16 +106,6 @@ date: 2024-07-12, from: Ride Apart, Electric Motorcycle News
 Maybe save the illegal exhaust installation for home mechanics? 
 
 <https://www.rideapart.com/news/726301/utah-harley-davidson-exhaust-install-no-catalytic-converter/>
-
----
-
-## 2024 Indian Challenger
-
-date: 2024-07-12, from: Cycle World News
-
-Indian’s Challenger bagger brings excellent handling, touring amenities, modern safety features, and a healthy dose of power to the V-twin touring category. 
-
-<https://www.cycleworld.com/indian/challenger/>
 
 ---
 

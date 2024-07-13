@@ -1,11 +1,78 @@
 ---
 title: pacific 2024.28
-updated: 2024-07-12 09:20:58
+updated: 2024-07-13 10:11:54
 ---
 
 # pacific 2024.28
 
-(date: 2024-07-12 09:20:58)
+(date: 2024-07-13 10:11:54)
+
+---
+
+## Hardisty earns Big West Service and Leadership Award
+
+date: 2024-07-12, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> M&#257;noa beach volleyball player Sabrina Hardisty has held numerous leadership positions throughout her time at the university.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/12/hardisty-earns-big-west-award/">Hardisty earns Big West Service and Leadership Award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/12/hardisty-earns-big-west-award/>
+
+---
+
+## Q&A: Shark expert addresses misconceptions, recommends safety tips
+
+date: 2024-07-12, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> shark expert Carl Meyer discussed the importance of sharks to ocean ecosystems, common misconceptions and safety tips for being in the ocean.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/12/shark-expert-carl-meyer/">Q&A: Shark expert addresses misconceptions, recommends safety tips</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/12/shark-expert-carl-meyer/>
+
+---
+
+## Couch, Wo join UH Foundation Board of Trustees
+
+date: 2024-07-12, from: University of Hawaiʻi News
+
+<p>John C. Couch and C. Scott Wo returned to the <abbr>UH</abbr> Foundation Board of Trustees on July 1.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/12/couch-wo-uh-foundation-board-of-trustees/">Couch, Wo join <abbr>UH</abbr> Foundation Board of Trustees</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/12/couch-wo-uh-foundation-board-of-trustees/>
+
+---
+
+## Restauración de Desecheo: Éxito en la Atracción Social para el Pardelas de Audubon
+
+date: 2024-07-12, from: Island Conservation News
+
+<p>Un nuevo artículo en el Journal of Caribbean Ornithology, publicado por científicos del Servicio de Pesca y Vida Silvestre de EE.UU. y por Cielo Figuerola-Hernández y José L. Herrera-Giraldo de Island Conservation, celebra el éxito de uno de nuestros proyectos de restauración más emocionantes: la Isla Desecheo, Puerto Rico. La isla, que alguna vez fue... </p>
+<div class="clear"></div>
+<p><a href="https://www.islandconservation.org/restaurando-el-exito-de-atraccion-social-de-desecheo-para-la-pardela-audubons/" class="excerpt-read-more">Read More</a></p>
+<p>The post <a href="https://www.islandconservation.org/restaurando-el-exito-de-atraccion-social-de-desecheo-para-la-pardela-audubons/">Restauración de Desecheo: Éxito en la Atracción Social para el Pardelas de Audubon</a> appeared first on <a href="https://www.islandconservation.org">Island Conservation</a>.</p>
+ 
+
+<https://www.islandconservation.org/restaurando-el-exito-de-atraccion-social-de-desecheo-para-la-pardela-audubons/>
+
+---
+
+## There’s a rare and devastating cancer affecting young adults: One woman’s tips on how to cope with a difficult diagnosis
+
+date: 2024-07-12, updated: 2024-07-12, from: Marianas Variety
+
+(BPT) - Sponsored by Adaptimmune Therapeutics. 
+
+<https://www.mvariety.com/online_features/health_and_wellness/there-s-a-rare-and-devastating-cancer-affecting-young-adults-one-woman-s-tips-on/article_d2e8a4bd-a9e8-59a3-9238-3e0d5fb91314.html>
+
+---
+
+## rusted
+
+date: 2024-07-12, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Mikayla Maeshiro  i am the host to a funeral in my brain an open casket with no body a eulogy gratingly carved in sepia grave-robbed flowers pay their respects the living are not worthy of mourners.  caked clay under &#8230; <a href="https://hawaiipacificreview.org/2024/07/12/rusted/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/07/12/rusted/>
 
 ---
 
@@ -16,6 +83,26 @@ date: 2024-07-12, from: Pacific Island Times
 By Bryan Manabat In the face of escalating threats in the region, CNMI House Floor Leader Edwin Propst said Guam and the Northern... 
 
 <https://www.pacificislandtimes.com/post/lawmaker-says-guam-cnmi-must-look-after-each-other-amid-rising-tensions-in-the-region>
+
+---
+
+## How AWS is empowering global generative AI startups with a $230M commitment
+
+date: 2024-07-12, updated: 2024-07-12, from: Marianas Variety
+
+(BPT) - Startups are at the forefront of a revolution, harnessing the transformative power of generative artificial intelligence (AI) to drive innovation like never before. Whether creating images, videos, insights from unstructured data, or better, cheaper new medicines, the potential for groundbreaking solutions is vast. 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/how-aws-is-empowering-global-generative-ai-startups-with-a-230m-commitment/article_6c10f748-d926-500f-82fe-211b113f3739.html>
+
+---
+
+## The EPA Can Help You Save Big  On Energy Efficient Upgrades For The Home
+
+date: 2024-07-12, updated: 2024-07-12, from: Marianas Variety
+
+(NAPSI)—If you’re like most homeowners, there’s probably a laundry list of major upgrades you’d like to make to improve the efficiency, performance, and functionality of your house. However, high upfront costs and project complexity can keep you from taking action, especially when projects involve expensive but essential systems, such as heating and cooling, water heater, and home envelope. Now, though, thanks to the Inflation Reduction Act (2022), there are numerous financial incentives that can significantly reduce the cost of these upgrades, making them more affordable and accessible, even for low- and middle-income households. 
+
+<https://www.mvariety.com/online_features/green_living/the-epa-can-help-you-save-big-on-energy-efficient-upgrades-for-the-home/article_ec334af8-9ee5-5ef8-a953-6eb4e6f47e29.html>
 
 ---
 
@@ -304,6 +391,18 @@ date: 2024-07-12, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/07/12/opinion/this-record-breaking-heat-is-an-emergency-its-time-to-treat-it-like-one/>
+
+---
+
+## Man, 32, arrested in connection with downtown Hilo robbery, assault
+
+date: 2024-07-12, from: Hawaii Tribune Harold
+
+
+				<p>Police have arrested a 32-year-old man in connection with a robbery and assault that occurred Tuesday afternoon in downtown Hilo near the new Hawaii County homeless camp.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/12/hawaii-news/man-32-arrested-in-connection-with-downtown-hilo-robbery-assault/>
 
 ---
 
@@ -650,6 +749,26 @@ date: 2024-07-12, from: Island Times
 
 ---
 
+## Create Lasting Summer Memories With These Kid-Friendly Activity Ideas
+
+date: 2024-07-12, updated: 2024-07-12, from: Marianas Variety
+
+(StatePoint) Want to build lasting summer memories with your family? 
+
+<https://www.mvariety.com/online_features/family_living/create-lasting-summer-memories-with-these-kid-friendly-activity-ideas/article_b8f4f9d4-255d-527a-91af-e4fe9669101e.html>
+
+---
+
+## U.S. Families Are Shopping In-Store This Back-to-School Season
+
+date: 2024-07-12, updated: 2024-07-12, from: Marianas Variety
+
+(StatePoint) This fall, U.S. families will do the bulk of their back-to-school shopping in brick-and-mortar stores, according to new research highlighting what’s important to shoppers this season, and offering insights into how to secure all the items on your checklist while beating the crowds. 
+
+<https://www.mvariety.com/online_features/family_living/u-s-families-are-shopping-in-store-this-back-to-school-season/article_50004dfa-d8c2-579b-9a7a-f2eae6f45797.html>
+
+---
+
 ## Pacific Scholars Complete Climate Resilience Training Under the USP PEUMP Project
 
 date: 2024-07-12, from: University of the South Pacific (Fiji)
@@ -693,6 +812,26 @@ The post <a href="https://www.hawaii.edu/news/2024/07/11/susan-kazama-recommende
 
 ---
 
+## Watching the Games? See How U.S. Army Soldier-athletes Train for Gold
+
+date: 2024-07-11, updated: 2024-07-13, from: Marianas Variety
+
+(BPT) - This month, all eyes are on Paris as the world tunes in to watch the top athletes fight for gold. 
+
+<https://www.mvariety.com/online_features/health_and_wellness/watching-the-games-see-how-u-s-army-soldier-athletes-train-for-gold/article_e19c018a-58f8-5c5a-9b2b-087adc06a67b.html>
+
+---
+
+## New scholarship program aims to meet demand for skilled technicians
+
+date: 2024-07-11, updated: 2024-07-13, from: Marianas Variety
+
+(BPT) - Did you know there is an urgent need for nearly 800,000 skilled technicians to enter the American workforce by 2027 in order to meet demand? This pressing shortage has proven challenging to remedy, particularly due to the underrepresentation of diverse groups in skilled trades. The U.S. Bureau of Labor Statistics finds that women are particularly underrepresented, accounting for less than 3% of employed technicians. 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/new-scholarship-program-aims-to-meet-demand-for-skilled-technicians/article_c35639ad-eb83-549c-b65f-e8c3c39fa084.html>
+
+---
+
 ## Nuke study gets delayed
 
 date: 2024-07-11, from: Marshal Islands Journal
@@ -713,6 +852,26 @@ date: 2024-07-11, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/07/11/drone-tech-fishponds/">Drone technology aids restoration, resilience of Native Hawaiian fishponds</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/07/11/drone-tech-fishponds/>
+
+---
+
+## How to say buh-bye to 'Ozempic face'
+
+date: 2024-07-11, updated: 2024-07-13, from: Marianas Variety
+
+(BPT) - Are you one of the many Americans who has benefited from losing weight quickly due to GLP-1 medications? If so, you're probably feeling grateful for the improved health and appearance these groundbreaking medications have provided — but less so for the loose, sagging skin that may be left behind. 
+
+<https://www.mvariety.com/online_features/senior_living/how-to-say-buh-bye-to-ozempic-face/article_dd34109a-18c0-5364-a5ed-459060f2efa2.html>
+
+---
+
+## Can you recognize the 4 Ps of a scam?
+
+date: 2024-07-11, updated: 2024-07-12, from: Marianas Variety
+
+(BPT) - Have you ever received a call or message from someone claiming to be from a governmental agency like the Internal Revenue Service or Social Security, or even claiming to be your grandchild? Did they ask for money, demand immediate payment, or say you've won the lottery? Did it make you feel threatened, scared, or suspicious? Trust your gut. It's likely a scam. 
+
+<https://www.mvariety.com/online_features/senior_living/can-you-recognize-the-4-ps-of-a-scam/article_9112de19-387d-58f9-9422-bb37d86f6825.html>
 
 ---
 

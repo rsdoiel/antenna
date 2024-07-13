@@ -1,11 +1,23 @@
 ---
 title: home 2024.28
-updated: 2024-07-12 09:21:03
+updated: 2024-07-13 10:11:59
 ---
 
 # home 2024.28
 
-(date: 2024-07-12 09:21:03)
+(date: 2024-07-13 10:11:59)
+
+---
+
+## Friday Links: July 12, 2024
+
+date: 2024-07-12, from: California Native Plants Society
+
+<p>Learn about ancient oaks, tribal cultural burns, resilient plants, climate impacts, and more in CNPS's first Friday Links blog.</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-july-12-2024-39114">Friday Links: July 12, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-july-12-2024-39114>
 
 ---
 

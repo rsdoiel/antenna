@@ -1,11 +1,155 @@
 ---
 title: socal north 2024.28
-updated: 2024-07-12 09:20:57
+updated: 2024-07-13 10:11:53
 ---
 
 # socal north 2024.28
 
-(date: 2024-07-12 09:20:57)
+(date: 2024-07-13 10:11:53)
+
+---
+
+## Album Review: Clairo’s ‘Charm’ evokes romance, vulnerability with dreamy lyrics, confident sound
+
+date: 2024-07-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+By the grace of “Charm,” Clairo has pulled off a discography hat trick.
+As she warmly hums, “When candles burn out/And the record has faded down/I know you&#8217;ve got people to turn to” on “Slow Dance,” Clairo enchantingly captures the tension between yearning and surrender that defines her third full length album. 
+
+<https://dailybruin.com/2024/07/12/album-review-clairos-charm-evokes-romance-vulnerability-with-dreamy-lyrics-confident-sound/>
+
+---
+
+## Detectives Seeking Clues in 2022 Homicide of San Fernando Woman
+
+date: 2024-07-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="590" height="419" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/user36009-1720739427-media2.jpg?fit=590%2C419&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/user36009-1720739427-media2.jpg?w=590&amp;ssl=1 590w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/user36009-1720739427-media2.jpg?resize=300%2C213&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/user36009-1720739427-media2.jpg?resize=400%2C284&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/user36009-1720739427-media2.jpg?fit=590%2C419&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>&#160;SAN FERNANDO (CNS) &#8211; Authorities are seeking the public&#8217;s help to solve the December 2022 stabbing death of a 27-year-old San Fernando woman whose burned body was discovered in Bakersfield. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/12/detectives-seeking-clues-in-2022-homicide-of-san-fernando-woman/">Detectives Seeking Clues in 2022 Homicide of San Fernando Woman</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/12/detectives-seeking-clues-in-2022-homicide-of-san-fernando-woman/>
+
+---
+
+## Santa Clarita’s 2024 Public Opinion Poll Highlights
+
+date: 2024-07-12, from: City of Santa Clarita
+
+<p>The City of Santa Clarita is pleased to share the results of the 2024 Public Opinion Poll. They reveal high levels of community satisfaction and highlight the key issues that matter most to residents. This scientific survey is conducted every two years and offers invaluable insights that guide the City&#8217;s strategic planning and decision-making processes. [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/07/12/santa-claritas-2024-public-opinion-poll-highlights/">Santa Clarita&#8217;s 2024 Public Opinion Poll Highlights</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/07/12/santa-claritas-2024-public-opinion-poll-highlights/>
+
+---
+
+## Santa Clarita Spotlight to Highlight Fitness
+
+date: 2024-07-12, from: City of Santa Clarita
+
+<p>City of Santa Clarita and SCVTV Release Fourth Episode of Santa Clarita Spotlight The City of Santa Clarita, in partnership with SCVTV, is excited to release the fourth episode of &#8220;Santa Clarita Spotlight,&#8221; a Shop Local series dedicated to promoting and celebrating the diverse range of local businesses within the City. If you’re looking to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/07/12/santa-clarita-spotlight-to-highlight-fitness/">Santa Clarita Spotlight to Highlight Fitness</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/07/12/santa-clarita-spotlight-to-highlight-fitness/>
+
+---
+
+## Friday Links: July 12, 2024
+
+date: 2024-07-12, from: California Native Plants Society
+
+<p>Learn about ancient oaks, tribal cultural burns, resilient plants, climate impacts, and more in CNPS's first Friday Links blog.</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-july-12-2024-39114">Friday Links: July 12, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-july-12-2024-39114>
+
+---
+
+## Judge orders Santa Ana to remove ‘flawed’ language from ballot measure that would allow noncitizens to vote in city elections
+
+date: 2024-07-12, updated: 2024-07-12, from: The LAist
+
+A lawsuit against the city claimed the language was “unlawfully partisan.” 
+
+<https://laist.com/news/politics/judge-orders-santa-ana-to-remove-flawed-language-from-ballot-measure-that-would-allow-noncitizens-to-vote-in-city-elections>
+
+---
+
+## CI Yacht Club celebrates its centennial
+
+date: 2024-07-12, from: Catalina Islander
+
+The Catalina Island Yacht Club opened its 100th season Saturday, May 25, with a bang. Among the highlights was a cannon shot fired as the American flag was raised to begin the opening ceremony. A proclamation from Supervisor Janice Hahn’s office honoring the Club was presented to Commodore John Wells. The ceremonies were concluded with [&#8230;] 
+
+<https://thecatalinaislander.com/ci-yacht-club-celebrates-its-centennial/>
+
+---
+
+## Edison misses some drinking water tests
+
+date: 2024-07-12, from: Catalina Islander
+
+Southern California Edison apparently missed or did not complete 93 state-mandated drinking water tests here over the past half-decade, according to a recent mail notice from Edison. That’s out of 8,000 tests a year, according to an Edison spokesperson. Edison reports that it has changed internal procedures to prevent a re-occurrence. Edison recently notified Island [&#8230;] 
+
+<https://thecatalinaislander.com/edison-misses-some-drinking-water-tests/>
+
+---
+
+## Celebrating Independence Day
+
+date: 2024-07-12, from: Catalina Islander
+
+The city of Avalon and Catalina Island celebrated America’s Independence Day on July 4, with a parade, home decorating contest, concert and, of course, a fireworks show. The theme of the celebration was a tribute to the 1920s-‘30s on the island. 
+
+<https://thecatalinaislander.com/celebrating-independence-day/>
+
+---
+
+## Sheriff’s Log: July 3 to July 10, 2024
+
+date: 2024-07-12, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of July 3 to July 10, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<https://thecatalinaislander.com/sheriffs-log-july-3-to-july-10-2024/>
+
+---
+
+## Santa Clarita Shakespeare Festival to Present “An Evening of Absurdity” and Spanish Language Show
+
+date: 2024-07-12, from: City of Santa Clarita
+
+<p>Join Us for an Annual Summer Theatre Festival at The MAIN The MAIN (24266 Main Street) is excited to present the Santa Clarita Shakespeare Festival annual summer productions which include “An Evening of Absurdity” and “Papá está en la Atlántida” (“Our Dad is in Atlantis”). “An Evening of Absurdity” features one-act plays by master absurdist [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/07/12/santa-clarita-shakespeare-festival-to-present-an-evening-of-absurdity-and-spanish-language-show/">Santa Clarita Shakespeare Festival to Present &#8220;An Evening of Absurdity&#8221; and Spanish Language Show</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/07/12/santa-clarita-shakespeare-festival-to-present-an-evening-of-absurdity-and-spanish-language-show/>
+
+---
+
+## April 2024 saw 15% overall increase in visitors compared to April 2023
+
+date: 2024-07-12, from: Catalina Islander
+
+The April 2024 visitor count increased by more than 15% compared with April 2023, according to data recently released by Love Catalina Island Tourism Authority. “April visitation increased year-over-year by 15.3% or 12,833 visitors with 96,442 total arrivals,” according to the Love Catalina website. “April’s total arrival count was above the three, five and ten-year [&#8230;] 
+
+<https://thecatalinaislander.com/april-2024-saw-15-overall-increase-in-visitors-compared-to-april-2023/>
+
+---
+
+## Immerse Yourself in a “Symphony of Colors”
+
+date: 2024-07-12, from: City of Santa Clarita
+
+<p>Zony Gordon Painting Exhibit at the Old Town Newhall Library Branch The City of Santa Clarita is excited to announce the upcoming exhibition, “Symphony of Colors,” featuring the works of local contemporary impressionist artist Zony Gordon. This exhibition will run from Friday, July 19, to Wednesday, October 16, at the Old Town Newhall Library Branch [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/07/12/immerse-yourself-in-a-symphony-of-colors/">Immerse Yourself in a &#8220;Symphony of Colors&#8221;</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/07/12/immerse-yourself-in-a-symphony-of-colors/>
 
 ---
 
@@ -108,6 +252,16 @@ date: 2024-07-11, from: City of Santa Clarita
 
 ---
 
+## Family-friendly field trips to learn more about LA’s original, Indigenous stewards
+
+date: 2024-07-11, updated: 2024-07-12, from: The LAist
+
+Ideas of where you and your little ones can go to explore California’s Indigenous history and present-day culture. 
+
+<https://laist.com/news/education/places-to-go-los-angeles-native-american-gabrielino-tongva-chumash-tataviam-kids-history-family-friendly>
+
+---
+
 ## How to help children understand the Indigenous land they live on
 
 date: 2024-07-11, updated: 2024-07-11, from: The LAist
@@ -118,21 +272,11 @@ In recent years, a number of institutions have adopted land acknowledgements. Bu
 
 ---
 
-## Family-friendly field trips to learn more about LA’s original, Indigenous stewards
-
-date: 2024-07-11, updated: 2024-07-11, from: The LAist
-
-Ideas of where you and your little ones can go to explore California’s Indigenous history and present-day culture. 
-
-<https://laist.com/news/education/places-to-go-los-angeles-native-american-gabrielino-tongva-chumash-tataviam-kids-history-family-friendly>
-
----
-
 ## El Tribunal de CARE Basado en la Voluntad No Puede Exigir Tratamiento para Quienes Más lo Necesitan
 
 date: 2024-07-11, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/perezandmom_elsol-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Gina Pérez, de San Fernando, cuyo hijo adulto sin hogar con enfermedades mentales desapareció durante meses el año pasado y tuvo dos retenciones psiquiátricas involuntarias “5150” en los últimos meses, [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/07/10/el-tribunal-de-care-basado-en-la-voluntad-no-puede-exigir-tratamiento-para-quienes-mas-lo-necesitan/">El Tribunal de CARE Basado en la Voluntad No Puede Exigir Tratamiento para Quienes Más lo Necesitan</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

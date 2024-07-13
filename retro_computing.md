@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.28
-updated: 2024-07-12 09:21:05
+updated: 2024-07-13 10:12:00
 ---
 
 # retro computing 2024.28
 
-(date: 2024-07-12 09:21:05)
+(date: 2024-07-13 10:12:00)
+
+---
+
+## Sunday coding session with Gerph on Sunday
+
+date: 2024-07-12, from: Icon Bar, RISC OS News
+
+If you are interested in coding RISC OS (or just want to see a really good coder in action), then you should be on Youtube again on sunday... 
+
+<http://www.iconbar.com/comments/rss/news2082.html>
 
 ---
 
