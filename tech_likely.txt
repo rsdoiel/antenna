@@ -218,6 +218,7 @@ https://mattweidner.com/feed.xml "~Matt Weidner blog" # Local-First blogger
 https://maggieappleton.com/rss.xml "~Maggie Appleton blog"
 #https://thesephist.com/index.xml "~The Sephist blog"
 
+https://bytecodealliance.org/feed.xml "~Bytecode Alliance News"
 
 #
 # Publications

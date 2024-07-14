@@ -297,7 +297,7 @@ https://solar.lowtechmagazine.com/posts/index.xml "~Blog Muffinlabs"
 # Software, Technology, and Science
 # Or STEM stuff
 #
-https://medium.com/feed/@hywan "~Ivan Enderlin's Medium Wasmer announcements" 
+https://medium.com/feed/@hywan "~Ivan Enderlin's Medium Wasmer announcements"
 https://conoroneill.net/index.xml "~Conor O'Niell's blog, Cross Dominant"
 https://chriscoyier.net/feed/ "~Chris Coyier blog"
 https://api.quantamagazine.org/feed/ "~Quanta Magazine" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
@@ -375,6 +375,7 @@ https://thesephist.com/index.xml "~The Sephist blog"
 https://www.oneusefulthing.org/feed "~One Useful Thing"
 https://webcurios.co.uk/feed/ "~Web Curios blog"
 https://feed.tedium.co/ "~Tedium feed"
+https://bytecodealliance.org/feed.xml "~Bytecode Alliance News"
 
 #
 # Hobbies
@@ -414,4 +415,3 @@ https://www.coreystephan.com/feed/ "~Corey Stephan blog"
 # Corporate blogs
 #
 https://blueskyweb.xyz/rss.xml "~Bluesky web news"
-
