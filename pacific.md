@@ -1,11 +1,121 @@
 ---
 title: pacific 2024.29
-updated: 2024-07-16 08:12:27
+updated: 2024-07-16 14:33:20
 ---
 
 # pacific 2024.29
 
-(date: 2024-07-16 08:12:27)
+(date: 2024-07-16 14:33:20)
+
+---
+
+## US Senator Menendez convicted at corruption trial, cementing political downfall
+
+date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
+
+NEW YORK (Reuters) — U.S. Senator Bob Menendez was convicted on Tuesday on all 16 criminal counts he faced including bribery at his corruption trial, completing the once-powerful New Jersey Democrat's dramatic downfall. 
+
+<https://www.mvariety.com/news/national/us-senator-menendez-convicted-at-corruption-trial-cementing-political-downfall/article_8322571c-4399-11ef-a1dc-8bd7a1d7b2b3.html>
+
+---
+
+## NMC adopts AI policy to enhance learning and innovation
+
+date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
+
+(NMC) — During its regular board meeting on June 27, 2024, the Northern Marianas College Board of Regents adopted a new Artificial Intelligence or AI policy aimed to enhance the educational experience for students, faculty, and staff. 
+
+<https://www.mvariety.com/news/community_bulletins/nmc-adopts-ai-policy-to-enhance-learning-and-innovation/article_4389c402-438d-11ef-9968-8b108fc64ab8.html>
+
+---
+
+## OPINION ǀ Truth 60: Stuck in Reverse needing to go FORWARD!
+
+date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
+
+THE TRUTH of the matter is that it’s obvious the CNMI is stuck in reverse needing to go forward. Ever since the poli-tricking that killed La Fiesta the CNMI has being slowly going backwards economically with no end in site because there has yet to be any REAL REFORMS to make the CNMI a BETTER Tourist destination.  Crying for tourists from China will NOT fix our economy and it is a small bandage if anything. WE can’t keep our people nor get new tourists because “the CNMI is out-of-step with the rest of America/World Tourism.”  IF our leaders would take the RIGHT steps to turn our economic downfall around, the rest will be easy, as the real problem is not new tourists but the need for NEW Attractions which is what WE were supposed to have been setting up during Covid.  But Ralph was busy with “pipe dream of Mr. Tan with the Deer BS for “high-end tourists” in the Northern Islands and giving our money away! Ralph put us in reverse and now we must go FORWARD and I’m fighting FOR ALL of us in this boat, even my critics who are full of bigotry, I just keep praying for them! 
+
+<https://www.mvariety.com/views/columnists/opinion-truth-60-stuck-in-reverse-needing-to-go-forward/article_f2e389e8-438c-11ef-8b91-5fcf4b31ea1d.html>
+
+---
+
+## FEATURE ǀ Milestones
+
+date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
+
+The following essay won second prize in the Northern Marianas Humanities Council’s 2024 My Marianas Writing Contest. 
+
+<https://www.mvariety.com/views/columnists/feature-milestones/article_7144a020-438c-11ef-858f-0b4c08085ff9.html>
+
+---
+
+## Youth group advocates inclusion of West Philippine Sea history in K-12 curriculum
+
+date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
+
+MANILA, the Philippines (NYMWPS) — The National Youth Movement for West Philippine Sea has formally addressed a letter dated July 8, 2024 to President Ferdinand “Bong Bong” Marcos, Jr. and Secretary Sonny Angara of the Department of Education, calling for the inclusion of the history and significance of the West Philippine Sea in the K-12 curriculum. 
+
+<https://www.mvariety.com/news/regional_world/youth-group-advocates-inclusion-of-west-philippine-sea-history-in-k-12-curriculum/article_100b6e66-4386-11ef-bb4d-9ff8295a9db3.html>
+
+---
+
+## Trump steps into Republican convention spotlight after assassination attempt
+
+date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
+
+MILWAUKEE (Reuters) — Donald Trump begins the second day of the 2024 Republican Party convention on Tuesday with a visual reminder of his recent assassination attempt, a young running mate who shares his hardline populist views and the backing of the world's richest person. 
+
+<https://www.mvariety.com/news/national/trump-steps-into-republican-convention-spotlight-after-assassination-attempt/article_67519f8c-4387-11ef-9bd4-c342ad9b5c86.html>
+
+---
+
+## Interior’s Cantor announces $66 million in Compact funding for Palau
+
+date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
+
+WASHINGTON, D.C. — The Department of the Interior’s Assistant Secretary for Insular and International Affairs Carmen G. Cantor has announced $66 million in funding to the Government of Palau and completed the first bilateral economic consultations on June 26 and 27 in Koror, Palau. The U.S. implemented provisions under Public Law 118-42 and the recently negotiated Compact of Free Association Section 432 Review signed between the United States and Palau on May 22, 2023. 
+
+<https://www.mvariety.com/news/regional_world/interior-s-cantor-announces-66-million-in-compact-funding-for-palau/article_5e578866-4386-11ef-9dd9-07f1a1fd2ced.html>
+
+---
+
+## 2nd Annual Rota Marathon on Jan. 18
+
+date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
+
+(MVA) — Building on the success of its inaugural race highlighting one of the most picturesque islands of the archipelago, the Marianas Visitors Authority will hold the 2nd  Annual Rota Marathon on Jan. 18, 2025, featuring a full marathon, half-marathon and 5K courses. 
+
+<https://www.mvariety.com/sports/localsports/2nd-annual-rota-marathon-on-jan-18/article_ac58bb78-4388-11ef-8fe7-573cf5b64864.html>
+
+---
+
+## Islander Rent-A-Car eases past Triskelion to maintain win streak
+
+date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
+
+ISLANDER Rent-A-Car has yet to face defeat and is on a three-game winning streak after powering past Triskelion, 74-57, in the Destroyers Basketball Club Invitational Basketball League 2024 at the TSL Sports Complex on Sunday. 
+
+<https://www.mvariety.com/sports/localsports/islander-rent-a-car-eases-past-triskelion-to-maintain-win-streak/article_fb90e8d6-4389-11ef-be38-c7e7dd3e48c9.html>
+
+---
+
+## Sae Hee Kim rules July tournament
+
+date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
+
+SAE Hee Kim seized the spotlight this month by finishing first in the CNMI Women’s Golf Association July tournament with a net score of 66 at Laolao Bay Golf &amp; Resort west course on Saturday. 
+
+<https://www.mvariety.com/sports/localsports/sae-hee-kim-rules-july-tournament/article_b3e1808a-438a-11ef-83b0-2fcda0c7bf4b.html>
+
+---
+
+## Hawaii, Guam not covered by treaty but NATO got their back, US official says
+
+date: 2024-07-16, from: Pacific Island Times
+
+By Mar-Vic Cagurangan If a foreign aggressor attacked Hawaii or Guam, the Department of State expressed confidence that the North... 
+
+<https://www.pacificislandtimes.com/post/hawaii-guam-not-covered-by-treaty-but-nato-got-their-back-us-official-says>
 
 ---
 

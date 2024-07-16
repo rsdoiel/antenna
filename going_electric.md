@@ -1,11 +1,181 @@
 ---
 title: going electric 2024.29
-updated: 2024-07-16 08:12:34
+updated: 2024-07-16 14:33:27
 ---
 
 # going electric 2024.29
 
-(date: 2024-07-16 08:12:34)
+(date: 2024-07-16 14:33:27)
+
+---
+
+## More EVs = more mining = more equipment, but not necessarily more miners
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/WrongTurn_MAIN.jpg?quality=82&#038;strip=all&#038;w=1440" /></div><p>In this special, <em>second</em> vacation episode of <em>Quick Charge</em>, we explore the historic dive in global diesel demand, and how the proliferation of EVs large and small is driving growth in the global mining industry – which, in turn, is driving growth in both the electric &amp; autonomous mining equipment markets.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,mining,quick-charge" data-layer-viewtype="unknown" data-post-id="371804" href="https://electrek.co/2024/07/16/more-evs-more-mining-more-equipment-but-not-necessarily-more-miners/#more-371804" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/more-evs-more-mining-more-equipment-but-not-necessarily-more-miners/>
+
+---
+
+## Here’s our first look at the inside of Kia’s new electric van [Video]
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Kia-electric-vans.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With the launch of <a href="https://electrek.co/guides/kia/">Kia’s</a> first electric van nearing, we are finally starting to see the PV5 out in the wild testing. The inside of Kia’s electric van was recently captured for the first time, giving us a closer look at what we can expect. Check out the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-pbv" data-layer-viewtype="unknown" data-post-id="371952" href="https://electrek.co/2024/07/16/first-look-inside-kias-new-electric-van-video/#more-371952" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/first-look-inside-kias-new-electric-van-video/>
+
+---
+
+## Tesla Supercharger deployment is already slowing down in critical time
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesa-Supercharger-for-all-hero.jpg?quality=82&#038;strip=all&#038;w=1237" /></div><p>Tesla Supercharger deployment has already greatly slowed down compared to the same period last year and it is coming at a critical time for the charging network.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="371958" href="https://electrek.co/2024/07/16/tesla-supercharger-deployment-slowing-down-critical-time/#more-371958" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/tesla-supercharger-deployment-slowing-down-critical-time/>
+
+---
+
+## China is on track to reach its clean energy targets this month… six years ahead of schedule
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/China-clean-energy.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China, the world’s largest pollution emitter, is going green with clean energy alternatives and doing so quickly. Recent energy reports detail the nation’s commitment to implementing <a href="https://electrek.co/guides/solar-power/">solar</a> and wind power, so much so that it is expected to achieve its 2030 clean energy targets by the end of the month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="371923" href="https://electrek.co/2024/07/16/china-on-track-to-reach-clean-energy-targets-six-years-ahead-of-schedule/#more-371923" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/china-on-track-to-reach-clean-energy-targets-six-years-ahead-of-schedule/>
+
+---
+
+## Hyundai Motor Group Led U.S. Non-Tesla EV Sales To New Record In Q2 2024
+
+date: 2024-07-16, from: Inside EVs News
+
+The Korean auto conglomerate remained at the top among automotive groups, ahead of Ford and General Motors. 
+
+<https://insideevs.com/news/726779/ev-sales-group-q2-2024/>
+
+---
+
+## Ford is launching an all-electric Puma EV: Here’s what we know so far
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Ford-Puma-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>An all-electric <a href="https://electrek.co/guides/ford/">Ford</a> Puma is expected to arrive by the end of this year. Based on the new Ford Puma, the EV version is expected to start at under $40,000 with distinct elements to help it stand apart.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="371922" href="https://electrek.co/2024/07/16/ford-launching-all-electric-puma-ev/#more-371922" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/ford-launching-all-electric-puma-ev/>
+
+---
+
+## Save up to $229 on Solo Stove smokeless fire pits, Segway Cube power stations, LG smart all-in-one electric washer/ventless dryer, and much more
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Solo-Stove-Bonfire-2.0-smokeless-fire-pit.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Amazon Prime Day deals are officially in full swing, and we’ve got quite the collection of Green Deals to share with you today, with a focus on some less commonly seen devices in our regular lineups. Leading the pack is the <a href="https://9to5toys.com/2024/07/16/solo-stoves-smokeless-wood-burning-fire-pits-and-accessories-are-30-off-in-prime-day-savings-starting-from-35/">Solo Stove smokeless wood-burning fire pits and accessories</a> that are 30% off for the time being, with the <a href="https://9to5toys.com/2024/07/16/solo-stoves-smokeless-wood-burning-fire-pits-and-accessories-are-30-off-in-prime-day-savings-starting-from-35/">Bonfire 2.0 sitting at $241</a>. It is joined by the <a href="https://9to5toys.com/2024/07/16/amazon-prime-day-takes-up-to-700-off-segways-cube-series-power-stations-at-new-lows-starting-from-500/">Segway Cube series power stations</a> that are seeing up to $700 in discounts – but the <a href="https://9to5toys.com/2024/07/16/amazon-prime-day-takes-up-to-700-off-segways-cube-series-power-stations-at-new-lows-starting-from-500/">Cube 1000</a> in particular will be increasing in price as the days go on, starting at a new <a href="https://9to5toys.com/2024/07/16/amazon-prime-day-takes-up-to-700-off-segways-cube-series-power-stations-at-new-lows-starting-from-500/">$500 low</a>. Bringing up the rear is the return of the <a href="https://9to5toys.com/2024/07/15/save-1000-on-lgs-smart-all-in-one-electric-washer-and-ventless-dryer-at-2000-more-from-300/">LG 5.0 Cubic-Foot HE Smart All-in-One Electric Washer and Ventless Dryer</a> at its second-lowest <a href="https://9to5toys.com/2024/07/15/save-1000-on-lgs-smart-all-in-one-electric-washer-and-ventless-dryer-at-2000-more-from-300/">$2,000 rate</a>. Plus, all the Prime Day Green Deals that have been collected together in our <a href="https://electrek.co/2024/07/15/prime-day-green-deals-evs-power-stations-tools-smart-devices-appliances-more/">Prime Day hub here</a>, which you can also find down at the bottom of the page. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="371895" href="https://electrek.co/2024/07/16/solo-stove-smokeless-fire-pits-segway-cube-power-stations-lg-smart-all-in-one-electric-washer-ventless-dryer-more/#more-371895" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/solo-stove-smokeless-fire-pits-segway-cube-power-stations-lg-smart-all-in-one-electric-washer-ventless-dryer-more/>
+
+---
+
+## Genesis Electrified GV70 gains Apple CarPlay and Android Auto in 2025
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Genesis-GV70-Apple-CarPlay.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Genesis is upgrading its best-selling EV in the US with new features. The 2025 <a href="https://electrek.co/guides/genesis-electrified-gv70/">Genesis Electrifed GV70</a> is gaining Wireless Android Auto and Apple CarPlay as the all-electric luxury SUV continues winning over US buyers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis,genesis-electrified-gv70" data-layer-viewtype="unknown" data-post-id="371888" href="https://electrek.co/2024/07/16/genesis-electrified-gv70-gains-apple-carplay-android-auto/#more-371888" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/genesis-electrified-gv70-gains-apple-carplay-android-auto/>
+
+---
+
+## BYD breaks into Toyota-dominated Japan as EV sales climb
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/BYD-Japan-EV-sales.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Can BYD compete with Toyota on its home turf? According to the latest sales data, <a href="https://electrek.co/guides/byd/">BYD</a> accounted for nearly 3% of Japan’s EV market in the first half of 2024. And that’s after launching its first EV in the region just last year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="371864" href="https://electrek.co/2024/07/16/byd-breaks-toyota-dominated-japan-ev-sales-climb/#more-371864" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/byd-breaks-toyota-dominated-japan-ev-sales-climb/>
+
+---
+
+## Chevy Silverado EV's More Affordable LT Trim: This Is It
+
+date: 2024-07-16, from: Inside EVs News
+
+The cheaper LT model and off-road-ready Silverado EV Trail Boss are due next year.  
+
+<https://insideevs.com/news/726794/silverado-ev-lt-trail-boss/>
+
+---
+
+## Flux Marine unveils 100% electric center console boat with a hull from Scout and DC fast charging
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Scout-electric-boat-flux-marine.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Outboard motor and battery specialist Flux Marine has introduced a new center console boat package to its lineup to help further <a href="https://electrek.co/guides/electric-boats/">electrify the industry.</a> The package combines Flux’s 100% electric propulsion system with a hull from Scout boats to deliver a vessel that can travel 30 mph and replenish on a DC fast charger.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-boat,electric-boats,flux-marine,scout-boats" data-layer-viewtype="unknown" data-post-id="371850" href="https://electrek.co/2024/07/16/flux-marine-unveils-electric-center-console-boat-with-hull-from-scout/#more-371850" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/flux-marine-unveils-electric-center-console-boat-with-hull-from-scout/>
+
+---
+
+## Trump Opposes EVs. His PAC May Get $45M From Elon Musk Every Month
+
+date: 2024-07-16, from: Inside EVs News
+
+Plus, EV tax credit eligibility leaves consumers guessing and study predicts that used EV values will stabilize. 
+
+<https://insideevs.com/news/726784/musk-trump-ev-super-pac/>
+
+---
+
+## Flat Year? Not So Fast: U.S. Non-Tesla EV Sales Hit New Record In Q2
+
+date: 2024-07-16, from: Inside EVs News
+
+The latest comparison of brands reveals which ones are accelerating electrification. 
+
+<https://insideevs.com/news/726693/us-ev-sales-2024-q2/>
 
 ---
 
@@ -218,6 +388,20 @@ date: 2024-07-16, from: Inside EVs News
 “We have a perfect strategy to be flexible for the next 10 years," Audi's chairman told InsideEVs as it readies a new e-tron and gas sedan. 
 
 <https://insideevs.com/news/726706/audi-electric-2026-plan/>
+
+---
+
+## Prime Day Green Deals: EVs, power stations, tools, smart devices, appliances, more
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/amazon-prime-day-electrek.png?w=1600" /></div><p>Amazon  are officially rolling in! The two-day savings event has begun, bringing with it some of the absolute best Green Deals of the year – we’ve already seen numerous early deals having already dropped, while those same deals and new ones alike will continue pouring in over the next 48-hour period. We’ve got plenty of great opportunities to save big bucks on eco-friendly devices and equipment from your favorite brands, including EVs, power stations, electric tools, smart irrigation controllers, wood-burning grills and fire pits, and so much more. We’ve collected all these discounts together and curated this one-stop-shopping hub for you to peruse at your own convenience, which we will be updating regularly as new deals come in – but don’t dawdle too long, you’ll only have two days to take advantage of these offers!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="371705" href="https://electrek.co/2024/07/16/prime-day-green-deals-evs-power-stations-tools-smart-devices-appliances-more/#more-371705" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/prime-day-green-deals-evs-power-stations-tools-smart-devices-appliances-more/>
 
 ---
 

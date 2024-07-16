@@ -1,11 +1,77 @@
 ---
 title: writing 2024.29
-updated: 2024-07-16 08:12:30
+updated: 2024-07-16 14:33:23
 ---
 
 # writing 2024.29
 
-(date: 2024-07-16 08:12:30)
+(date: 2024-07-16 14:33:23)
+
+---
+
+## 2024 Scribe Award Nominees
+
+date: 2024-07-16, from: Locus Magazine
+
+<p>The International Association of Media Tie-in Writers (IAMTW) announced the nominees for the 2024 Scribe Awards, honoring excellence in licensed tie-in writing. Nominees of genre interest follow.</p>
+<div class="mynomorebulletlist">
+<p><strong>Original Novel — Speculative</strong></p>
+<ul>
+<li><strong>Star Trek: Deep Space Nine: The Autobiography of Benjamin Sisko</strong>, Derek Tyler Attico (Titan)</li>
+<li><strong>Assassin’s Creed: The Resurrection Plot</strong>, Kate Heartfield (Asmodee)</li>
+<li><strong>Star Trek: Picard: Firewall</strong>, David Mack (Pocket)</li>
+<li><strong>Star Wars: The Eye of Darkness</strong>, </li></ul></div> <a href="https://locusmag.com/2024/07/2024-scribe-award-nominees/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/07/2024-scribe-award-nominees/>
+
+---
+
+## AlphaBirds, our favorite office game
+
+date: 2024-07-16, from: John August blog
+
+Back in 2017, friends and I came up with a fun little game called AlphaBirds.1 We&#8217;ve been playing it in the office nearly every Friday since then. It’s a word game like Scrabble or Wordle, but faster and more fun. And it&#8217;s ridiculously simple to learn. On your turn, draw two cards. Play one card [&#8230;]
+The post <a href="https://johnaugust.com/2024/alphabirds-our-favorite-office-game">AlphaBirds, our favorite office game</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/alphabirds-our-favorite-office-game>
+
+---
+
+## Overwritten
+
+date: 2024-07-16, from: John August blog
+
+John welcomes back Mike Schur (The Good Place, Parks and Recreation) to ask, how do you fix an overwritten script? They discuss ways to rebuild scenes and restore muddy characters that have become burdened by too many notes, all while making sure your script retains its voice. We also look at the new IATSE deal [&#8230;]
+The post <a href="https://johnaugust.com/2024/overwritten">Overwritten</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/overwritten>
+
+---
+
+## New Books, 16 July 2024
+
+date: 2024-07-16, from: Locus Magazine
+
+<p>Alering, Alisa: <b>Smothermoss</b>
+(Tin House 9781959030584, $17.95, 264pp, formats: trade paperback, ebook, audio, 07/16/2024)</p>
+<p>Dark fantasy/rural gothic/fairytale novel. Two sisters in 1980s rural Appalachia are drawn into the hunt for the murderer of two female hikers on a nearby trail, as darkness seems to take over their home and community.</p>
+<p>&#160;</p>
+<p>Allen, Mike: <b>Slow Burn</b>
+(Mythic Delirium Books 9781956522037, $18.95, 296pp, formats: trade paperback, ebook, 07/16/2024)</p>
+<p>Collection of short body  <a href="https://locusmag.com/2024/07/new-books-16-july-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/new-books-16-july-2024/>
+
+---
+
+## Gabino Iglesias Reviews Baby X by Kira Peikoff
+
+date: 2024-07-16, from: Locus Magazine
+
+<p><strong>Baby X</strong>, Kira Peikoff (Crooked Lane 978-1-63910-633-2, $30.99, 336pp, hc) March 2024. Cover by Nicole Lecht.</p>
+<p>Kira Peikoff’s <strong>Baby X </strong>is a solid technothriller that feels very timely while also delivering great entertainment. At once a novel of big ideas that will satisfy fans of science fiction and a fast-paced narrative about crimes that might become a reality sooner rather than later, <strong>Baby X </strong>pulls readers into a future  <a href="https://locusmag.com/2024/07/gabino-iglesias-reviews-baby-x-by-kira-peikoff/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/gabino-iglesias-reviews-baby-x-by-kira-peikoff/>
 
 ---
 

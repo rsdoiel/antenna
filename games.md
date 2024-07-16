@@ -1,11 +1,21 @@
 ---
 title: games 2024.29
-updated: 2024-07-16 08:12:30
+updated: 2024-07-16 14:33:24
 ---
 
 # games 2024.29
 
-(date: 2024-07-16 08:12:30)
+(date: 2024-07-16 14:33:24)
+
+---
+
+## The best Amazon Prime Day board game deals under $50
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/24191421/best-board-game-deals>
 
 ---
 
@@ -16,16 +26,6 @@ date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
  
 
 <https://www.polygon.com/amazon-prime-day/24199715/best-deals-lego-sets>
-
----
-
-## Lev Grossman’s ‘one fear’ for his King Arthur novel: People who expect more of The Magicians
-
-date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
-
- 
-
-<https://www.polygon.com/24199026/lev-grossman-the-bright-sword-interview>
 
 ---
 
@@ -49,6 +49,76 @@ date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
 
 ---
 
+## Here are the best Prime Day deals we’ve found
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/24199570/best-deals-gaming-board-games-toys>
+
+---
+
+## The most difficult movie to see of the past decade is now streaming
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24199980/memoria-steaming-mubi-tilda-swinton>
+
+---
+
+## The darkest story the DC Animated Universe ever told is on sale for Prime Day
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/24199950/batman-beyond-return-of-the-joker-blu-ray>
+
+---
+
+## I’ve figured out my zen in Minecraft, and it’s digging a big cube
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gaming/24199911/minecraft-big-cube-digging-fun-realm-therapeutic>
+
+---
+
+## Apex Legends players are furious over new battle pass
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24199903/apex-legends-players-battle-pass-uproar-controversy-steam-review-bomb>
+
+---
+
+## The best Dungeons & Dragons deals of Amazon Prime Day
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/24199887/best-dnd-deals-dungeons-dragons>
+
+---
+
+## Lev Grossman’s ‘one fear’ for his King Arthur novel: People who expect more of The Magicians
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24199026/lev-grossman-the-bright-sword-interview>
+
+---
+
 ## The Death Note musical fixed the anime to become the superior adaptation
 
 date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
@@ -56,16 +126,6 @@ date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
  
 
 <https://www.polygon.com/24195889/death-note-anime-bad-musical-good>
-
----
-
-## The best Prime Day 2024 deals
-
-date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
-
- 
-
-<https://www.polygon.com/amazon-prime-day/24199570/best-deals-gaming-board-games-toys>
 
 ---
 

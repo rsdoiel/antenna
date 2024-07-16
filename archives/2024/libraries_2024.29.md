@@ -1,11 +1,21 @@
 ---
 title: libraries 2024.29
-updated: 2024-07-16 08:12:31
+updated: 2024-07-16 14:33:24
 ---
 
 # libraries 2024.29
 
-(date: 2024-07-16 08:12:31)
+(date: 2024-07-16 14:33:24)
+
+---
+
+## The Case of Charles Dexter Ward, by H. P. Lovecraft
+
+date: 2024-07-16, from: Standard Ebooks, new releaases
+
+A young scholar delves into his family past and finds more than he bargained for. 
+
+<https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward>
 
 ---
 
@@ -55,7 +65,7 @@ A collection of short fiction by Walter M. Miller Jr., ordered by date of origin
 
 date: 2024-07-15, from: Association of Research Libraries News
 
-<p>Last Updated on July 15, 2024, 2:14 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 16 &#124; Wednesday, July 17 &#124; Thursday, July 18 Monday, July 15...</p>
+<p>Last Updated on July 16, 2024, 3:24 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 16 &#124; Wednesday, July 17 &#124; Thursday, July 18 Monday, July 15...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-15-18/">Day in Review (July 15-18)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

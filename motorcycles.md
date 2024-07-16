@@ -1,11 +1,31 @@
 ---
 title: motorcycles 2024.29
-updated: 2024-07-16 08:12:32
+updated: 2024-07-16 14:33:26
 ---
 
 # motorcycles 2024.29
 
-(date: 2024-07-16 08:12:32)
+(date: 2024-07-16 14:33:26)
+
+---
+
+## Harley-Davidson Announces BUILD Moto Sponsorship
+
+date: 2024-07-16, from: Cycle World News
+
+Harley-Davidson, Inc. today announced their new sponsorship of BUILD Moto ("BUILD") starting with the 2025 season. 
+
+<https://www.cycleworld.com/the-wire/harley-davidson-announces-build-moto-sponsorship/>
+
+---
+
+## Ducati Panigale V2 Superquadro Final Edition First Look
+
+date: 2024-07-16, from: Cycle World News
+
+As when Ducati put the 1299 V-twin Panigale out to pasture, the current Panigale V2 will exit the lineup with a bang. Just 555 units of the V2 Final Edition will be produced. 
+
+<https://www.cycleworld.com/bikes/ducati-panigale-v2-superquadro-final-edition-first-look/>
 
 ---
 
@@ -76,16 +96,6 @@ date: 2024-07-16, from: Cycle World News
 Harley-Davidson Factory Racing rider Kyle Wyman took over the MotoAmerica Mission King of the Baggers points lead with a dominating win on Saturday. 
 
 <https://www.cycleworld.com/the-wire/harley-davidson-factory-racer-kyle-wyman-claims-king-of-the-baggers-points-lead/>
-
----
-
-## Ducati Panigale V2 Superquadro Final Edition First Look
-
-date: 2024-07-15, from: Cycle World News
-
-As when Ducati put the 1299 V-twin Panigale out to pasture, the current Panigale V2 will exit the lineup with a bang. Just 555 units of the V2 Final Edition will be produced. 
-
-<https://www.cycleworld.com/bikes/ducati-panigale-v2-superquadro-final-edition-first-look/>
 
 ---
 

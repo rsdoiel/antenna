@@ -1,11 +1,878 @@
 ---
 title: weather 2024.29
-updated: 2024-07-16 08:12:30
+updated: 2024-07-16 14:33:23
 ---
 
 # weather 2024.29
 
-(date: 2024-07-16 08:12:30)
+(date: 2024-07-16 14:33:23)
+
+---
+
+## SPC MD 1657
+
+date: 2024-07-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1657.html"><img src="https://www.spc.noaa.gov/products/md/mcd1657.png" border="1" alt="MD 1657 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1657
+NWS Storm Prediction Center Norman OK
+0349 PM CDT Tue Jul 16 2024
+
+Areas affected...Southeast CO...northeast NM...southwest KS...TX/OK
+Panhandles
+
+Concerning...Severe potential...Watch possible 
+
+Valid 162049Z - 162245Z
+
+Probability of Watch Issuance...40 percent
+
+SUMMARY...Some increase in the severe-wind and isolated hail threat
+is possible through late afternoon into early evening.
+
+DISCUSSION...Convection developing near the higher terrain of
+south-central CO into northeast NM has gradually intensified this
+afternoon, with a recent measured gust of 51 kt at Colorado Springs.
+Farther east, storms are beginning to develop across parts of
+southeast CO into the Raton Mesa vicinity. Low-level moisture is
+generally rather modest across the region, but strong heating has
+resulted in MLCAPE increasing to 500-1000 J/kg, with some further
+increase possible into late afternoon. Modest northwesterly midlevel
+flow along the periphery of an upper ridge over the southern Rockies
+is supporting effective shear of 25-35 kt, which may support
+occasional storm organization.
+
+Initial discrete storms will continue to pose a threat of isolated
+severe gusts and possibly some hail. With time, increasingly
+prominent outflow within the initially hot and well-mixed
+environment will support development of one or more loosely
+organized clusters, which would move southeastward with some
+increase in the severe-wind threat into parts of the
+central/southern High Plains. Watch issuance is possible over parts
+of the region, if a more organized severe threat appears imminent.
+
+..Dean/Hart.. 07/16/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...DDC...GLD...AMA...PUB...BOU...ABQ...
+
+LAT...LON   38670512 38800169 37820065 36470076 35000080 34950082
+            34860235 35000350 36140432 37070460 38670512 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1657.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/md/md1657.html>
+
+---
+
+## SPC MD 1656
+
+date: 2024-07-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1656.html"><img src="https://www.spc.noaa.gov/products/md/mcd1656.png" border="1" alt="MD 1656 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1656
+NWS Storm Prediction Center Norman OK
+0300 PM CDT Tue Jul 16 2024
+
+Areas affected...Central and Eastern New York into Vermont
+
+Concerning...Severe Thunderstorm Watch 546...547...
+
+Valid 162000Z - 162130Z
+
+The severe weather threat for Severe Thunderstorm Watch 546, 547
+continues.
+
+SUMMARY...The severe weather threat continues for WW 547, with
+measured wind gusts of 65+ MPH and a few tornadoes possible.
+
+DISCUSSION...The severe weather threat continues for Central and
+Eastern New York this afternoon, as an ongoing linear convective
+complex moves across the highlight area. Measured wind gusts of 65+
+MPH have already been observed, in addition to tornadoes. This
+convective activity is expected to persist over the next few hours
+as it moves eastward into Vermont.
+
+There is a localized corridor of enhanced tornado potential in the
+center of the convective line, where low-level convective
+organization and rotation is concentrated in a favorable environment
+of STP > 1. Multiple embedded circulations have been observed
+already, and will likely persist in the storm term.
+
+..Halbert/Squitieri.. 07/16/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...BOX...BTV...ALY...BGM...BUF...
+
+LAT...LON   42187437 42217488 42407533 42607549 42887543 43177542
+            43457541 43807531 44147517 44417496 44667430 44757352
+            44707293 44497247 44207225 43777233 43187258 42847283
+            42537308 42177363 42187437 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1656.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/md/md1656.html>
+
+---
+
+## SPC MD 1655
+
+date: 2024-07-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1655.html"><img src="https://www.spc.noaa.gov/products/md/mcd1655.png" border="1" alt="MD 1655 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1655
+NWS Storm Prediction Center Norman OK
+0240 PM CDT Tue Jul 16 2024
+
+Areas affected...Central NE into parts of north-central KS and
+south-central SD
+
+Concerning...Severe potential...Watch possible 
+
+Valid 161940Z - 162145Z
+
+Probability of Watch Issuance...40 percent
+
+SUMMARY...Strong to severe storms may develop by late afternoon.
+
+DISCUSSION...Cumulus is deepening this afternoon across parts of
+south-central NE, with some building cumulus also noted into
+northwest NE and extreme south-central SD. The building cumulus is
+ongoing within a region of relatively rich low-level moisture, with
+diurnal heating supporting MLCAPE of near/above 1500 J/kg and
+weakening MLCINH. In the absence of stronger large-scale ascent,
+details regarding storm coverage and timing of more robust storm
+development remain uncertain. However, storm initiation is underway
+across south-central NE, with at least isolated development possible
+farther north, within a zone of modest low-level confluence near a
+weak surface low across central NE. 
+
+Low-level flow is weak, but modest midlevel west-northwesterlies are
+supporting effective shear of 30-40 kt, and it is possible that a
+couple of supercells and/or stronger storm clusters could develop by
+late afternoon into the early evening. Midlevel lapse rates are
+generally rather weak, but some hail threat could accompany any
+sustained supercells, along with a threat of localized severe gusts.
+Watch issuance is possible for parts of the area later this
+afternoon, if development of multiple severe storms appears
+imminent.
+
+..Dean/Hart.. 07/16/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...FSD...OAX...TOP...ICT...GID...LBF...DDC...UNR...
+GLD...
+
+LAT...LON   43360030 42929853 41749728 40919720 40199716 39469763
+            39079809 39019974 38990054 39130096 39460102 40020109
+            40430109 42250183 43170172 43360030 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1655.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/md/md1655.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 547 Status Reports
+
+date: 2024-07-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0547.html"><img src="https://www.spc.noaa.gov/products/watch/ww0547_radar.gif" border="1" alt="WW 0547 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 547
+
+THE SEVERE WEATHER THREAT CONTINUES ACROSS THE ENTIRE WATCH AREA.
+
+FOR ADDITIONAL INFORMATION SEE MESOSCALE DISCUSSION 1656
+
+..HALBERT..07/16/24
+
+ATTN...WFO...ALY...BTV...
+
+
+STATUS REPORT FOR WS 547 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+MAC003-162140-
+
+MA 
+.    MASSACHUSETTS COUNTIES INCLUDED ARE
+
+BERKSHIRE            
+
+
+NYC001-019-021-031-033-035-039-041-043-057-083-089-091-093-095-
+113-115-162140-
+
+NY 
+.    NEW YORK COUNTIES INCLUDED ARE
+
+ALBANY               CLINTON             COLUMBIA            
+ESSEX                FRANKLIN            FULTON              
+GREENE               HAMILTON            HERKIMER            
+MONTGOMERY           RENSSELAER          ST. LAWRENCE        
+SARATOGA             SCHENECTADY         SCHOHARIE           
+WARREN               WASHINGTON          
+
+
+VTC001-003-007-013-017-021-023-025-027-162140-
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0547.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0547.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 547
+
+date: 2024-07-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0547.html"><img src="https://www.spc.noaa.gov/products/watch/ww0547_radar.gif" border="1" alt="WW 0547 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 547
+NWS Storm Prediction Center Norman OK
+150 PM EDT Tue Jul 16 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  Western Massachusetts
+  Eastern New York
+  Central and Southern Vermont
+
+* Effective this Tuesday afternoon and evening from 150 PM until
+  900 PM EDT.
+
+* Primary threats include...
+  Scattered damaging winds likely with isolated significant gusts
+    to 75 mph possible
+  Isolated large hail events to 1.5 inches in diameter possible
+  A tornado or two possible
+
+SUMMARY...Thunderstorms over central New York will track quickly
+eastward across the watch area this afternoon, posing a risk of
+damaging winds.
+
+The severe thunderstorm watch area is approximately along and 60
+statute miles east and west of a line from 45 miles north northeast
+of Saranac Lake NY to 30 miles southwest of Pittsfield MA. For a
+complete depiction of the watch see the associated watch outline
+update (WOUS64 KWNS WOU7).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 546...
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+1.5 inches. Extreme turbulence and surface wind gusts to 65 knots. A
+few cumulonimbi with maximum tops to 500. Mean storm motion vector
+27030.
+
+...Hart
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0547.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0547.html>
+
+---
+
+## SPC Jul 16, 2024 2000 UTC Day 1 Convective Outlook
+
+date: 2024-07-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0257 PM CDT Tue Jul 16 2024
+
+Valid 162000Z - 171200Z
+
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS PORTIONS OF
+EASTERN NEW YORK INTO SOUTHERN VERMONT...
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS
+CENTRAL/EASTERN NEBRASKA...SOUTHEAST COLORADO INTO NORTHWEST
+OKLAHOMA...SOUTHERN MISSOURI INTO WESTERN KENTUCKY...
+
+...SUMMARY...
+Strong to severe thunderstorms are possible from the central Plains
+to the Northeast.  Greatest severe-thunderstorm threats within that
+are over parts of the central Plains and upper Ohio Valley to parts
+of the northern Mid-Atlantic and western New England.
+
+...20Z Update...
+Severe probabilities have been adjusted behind ongoing convection
+and the mid-level shortwave in parts of New York and Pennsylvania.
+Elsewhere, the outlook remains mostly on track with only minor
+adjustments based on current observations and expected convective
+evolution.
+
+..Wendt.. 07/16/2024
+
+.PREV DISCUSSION... /ISSUED 1128 AM CDT Tue Jul 16 2024/
+
+...Northeast States...
+A well-defined shortwave trough and embedded MCV from last night's
+severe MCS is tracking into western NY.  Strong heating of a moist
+air mass ahead of this system will result in intensification of
+thunderstorms early this afternoon, with storms tracking eastward
+across NY/northern PA into New England this evening.  Damaging winds
+(potentially widespread) will be the main concern with these storms,
+although hail and a tornado or two are also possible.  Have expanded
+the SLGT risk to the MA/NH coast, given favorable westerly surface
+winds and morning CAM solutions suggesting that MCS may persist that
+far.
+
+South of the main upper feature, a hot and humid air mass is present
+from central PA and NJ southward.  Widely scattered afternoon
+thunderstorms will develop in this area, despite rather weak
+forcing.  Sufficient winds aloft will promote a few organized storm
+clusters, capable of damaging wind gusts.
+
+...CO/KS/OK/TX...
+Full sunshine will lead to very deep boundary-layer mixing and
+scattered high-based showers/thunderstorms along the Colorado Front
+Range this afternoon.  This activity will be capable of locally
+gusty/damaging winds.  As the convection spread east-southeastward
+into a progressively more moist air mass, intensification and
+organization of storms into an MCS is expected.  This system will
+track into southwest KS and northwest OK this evening, with a
+continued risk of locally damaging wind gusts.
+
+...Central NE...
+A surface cold front is sagging southward across SD/NE today. 
+Thunderstorms are expected to intensify along this front over
+central NE late this afternoon or early evening.  Activity will
+track southward for a few hours, posing a risk of damaging wind
+gusts.
+
+...Mid MS Valley...
+A large and persistent area of thunderstorms has been affecting
+portions of MO/IL all morning, resulting in a very large cloud
+shield.  This will significantly impact heating/destabilization
+later today.  Therefore, have adjusted the SLGT region to the areas
+along and south of the cloud shield, where strong heating is still
+possible.  12z CAM solutions suggest storms will build southward
+from this MCS across southern MO/western KY and into parts of AR/TN
+later today, with some risk of damaging winds.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2024-07-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0240 PM CDT Tue Jul 16 2024
+
+Valid 171200Z - 181200Z
+
+No changes are needed to the D2 Fire Weather Outlook. See previous
+discussion below.
+
+..Thornton.. 07/16/2024
+
+.PREV DISCUSSION... /ISSUED 0134 AM CDT Tue Jul 16 2024/
+
+...Synopsis...
+Dry thunderstorms will continue to pose a fire weather threat on
+Wednesday across parts of the Pacific Northwest and Great Basin.
+Monsoonal moisture continues to stream north into the northern Great
+Basin/Pacific Northwest, on the northwestern periphery of a Four
+Corners upper ridge per recent advected PWAT imagery. A weak
+upper-level impulse (evident in early-morning water-vapor imagery
+off the CA coast) will translate across the Pacific Northwest
+through the day Wednesday, providing sufficient lift for
+thunderstorm development. Deep boundary-layer mixing through roughly
+3 km is anticipated across much of the Great Basin and Pacific
+Northwest. Such dry conditions will limit rainfall totals at the
+surface and support dry lightning potential. Recent fuel analyses
+and fire activity indicate that driest fuels are likely found across
+the Pacific Northwest where there has been negligible rainfall over
+the past 7 days. Further southeast into the Great Basin, pockets of
+wetting rainfall may have limited the spatial extent of viable fuels
+to some degree, but most locations have likely retained burnable
+fuels. Consequently, dry thunderstorms should pose a fire weather
+concern for both regions.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 548 Status Reports
+
+date: 2024-07-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0548.html"><img src="https://www.spc.noaa.gov/products/watch/ww0548_radar.gif" border="1" alt="WW 0548 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS FOR WATCH 0548 HAS NOT BEEN ISSUED YET
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0548.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0548.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 548
+
+date: 2024-07-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0548.html"><img src="https://www.spc.noaa.gov/products/watch/ww0548_radar.gif" border="1" alt="WW 0548 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 548
+NWS Storm Prediction Center Norman OK
+335 PM EDT Tue Jul 16 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  District Of Columbia
+  Delaware
+  Central Maryland
+  New Jersey
+  Southeast New York
+  Eastern Pennsylvania
+  Northeast Virginia
+  Coastal Waters
+
+* Effective this Tuesday afternoon and evening from 335 PM until
+  1000 PM EDT.
+
+* Primary threats include...
+  Scattered damaging wind gusts to 70 mph possible
+  Isolated large hail events to 1 inch in diameter possible
+
+SUMMARY...Widely scattered thunderstorms are expected to develop
+this afternoon in a hot and humid air mass.  Sufficiently strong
+westerly flow aloft will promote a risk of locally damaging wind
+gusts in the strongest cells.
+
+The severe thunderstorm watch area is approximately along and 65
+statute miles east and west of a line from 15 miles west southwest
+of Patuxent River MD to 55 miles east northeast of Wilkesbarre PA.
+For a complete depiction of the watch see the associated watch
+outline update (WOUS64 KWNS WOU8).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 546...WW 547...
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+1 inch. Extreme turbulence and surface wind gusts to 60 knots. A few
+cumulonimbi with maximum tops to 500. Mean storm motion vector
+27025.
+
+...Hart
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0548.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0548.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 546 Status Reports
+
+date: 2024-07-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0546.html"><img src="https://www.spc.noaa.gov/products/watch/ww0546_radar.gif" border="1" alt="WW 0546 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 546
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 35 NNE IPT
+TO 35 W ART.
+
+FOR ADDITIONAL INFORMATION SEE MESOSCALE DISCUSSION 1652
+
+..HALBERT..07/16/24
+
+ATTN...WFO...BUF...BGM...CTP...
+
+
+STATUS REPORT FOR WS 546 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+NYC007-011-017-023-025-045-049-053-065-067-075-077-107-109-
+161940-
+
+NY 
+.    NEW YORK COUNTIES INCLUDED ARE
+
+BROOME               CAYUGA              CHENANGO            
+CORTLAND             DELAWARE            JEFFERSON           
+LEWIS                MADISON             ONEIDA              
+ONONDAGA             OSWEGO              OTSEGO              
+TIOGA                TOMPKINS            
+
+
+PAC015-115-161940-
+
+PA 
+.    PENNSYLVANIA COUNTIES INCLUDED ARE
+
+BRADFORD             SUSQUEHANNA         
+
+
+LOZ044-045-064-065-161940-
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0546.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0546.html>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-07-16, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Tue, 16 Jul 2024 17:30:49 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-07-16, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Tue Jul 16 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Pasch<br>NNNN<br><br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2024-07-16, from: Eastern Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ABPZ20 KNHC 161728<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 1100 AM PDT Tue Jul 16 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ Western East Pacific (EP92): <br />
+ A broad, elongated area of low pressure located several hundred <br />
+ miles southwest of the southern tip of the Baja California peninsula <br />
+ is producing a large area of disorganized showers and thunderstorms. <br />
+ Environmental conditions appear marginally conducive for some <br />
+ development, and a tropical depression could form in the next day <br />
+ or two while the system moves west-northwestward at 10 to 15 mph <br />
+ across the western part of the basin.<br />
+ * Formation chance through 48 hours...medium...40 percent.<br />
+ * Formation chance through 7 days...medium...40 percent.<br />
+ <br />
+ $$<br />
+ Forecaster Kelly<br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## SPC Jul 16, 2024 1730 UTC Day 2 Convective Outlook
+
+date: 2024-07-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1220 PM CDT Tue Jul 16 2024
+
+Valid 171200Z - 181200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR THE NORTHERN
+MID-ATLANTIC INTO PARTS OF SOUTHERN NEW ENGLAND...
+
+...SUMMARY...
+Isolated strong to severe thunderstorms are possible from the
+Carolinas into New England on Wednesday, with a corridor of greater
+coverage from northeast Virginia into the Hudson Valley and adjacent
+southern Vermont/western Massachusetts. Isolated strong to severe
+thunderstorms are possible across the central High Plains as well.
+
+...Synopsis...
+An upper-level trough is expected to shift eastward, with some
+southward digging into the northern Mid-Atlantic states on
+Wednesday. In the West, an upper-level ridge is expected to amplify
+somewhat roughly over the Divide. A shortwave trough will slide
+northward through the Northwest during the period along the western
+flank of the upper ridge. At the surface, a cold front will be
+situated from the southern Plains into the Ohio Valley. A surface
+trough will deepen near the Blue Ridge during the afternoon.
+
+...Mid-Atlantic into the Northeast...
+Scattered to numerous thunderstorms are expected to develop
+along/ahead of the cold front and surface trough during the
+afternoon. While mid-level lapse rates will be rather weak, strong
+heating will support 2000-3000 J/kg of MLCAPE, particularly east of
+the Blue Ridge. Enhanced mid-level winds with the approaching trough
+should support at least modest storm organization. Shear will be
+slightly greater within the northern Mid-Atlantic into parts of
+southern New England. Buoyancy will decrease with northward extent,
+however. The expectation is for a few clusters/linear segments, and
+perhaps a marginal supercell or two, to pose a risk of primarily
+damaging winds. Warm temperatures aloft should keep large hail
+potential low.
+
+...High Plains...
+Upslope flow behind the cold front will push low-level moisture up
+against the terrain. Dewpoints in the mid/upper 40s F are generally
+expected by the afternoon, though some low 50s F are possible
+especially farther to the east. Modest northwesterly flow aloft on
+the western flank of the upper trough will support from 25 kts of
+effective shear near the Raton to around 35 kts in eastern Wyoming
+and the Nebraska Panhandle. Given the modest shear and relatively
+dry boundary layer, storms are expected to be outflow dominant with
+an attendant risk for severe winds. Some large hail threat could
+occur within the first hour or two of storm initiation.
+
+...ArkLaTex Vicinity...
+An MCV from convection within parts of the Front Range on Tuesday
+evening is expected to be over Oklahoma at the beginning of the
+period. Heating ahead of this feature appears likely to support
+scattered storms from parts of North Texas into the ArkLaTex. While
+strong wind gusts are possible, the disorganized wind profile is not
+expected to support and organized severe threat.
+
+..Wendt.. 07/16/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
+
+---
+
+## Central North Pacific Tropical Weather Outlook
+
+date: 2024-07-16, from: Central Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ACPN50 PHFO 161721<br/>
+TWOCP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS Central Pacific Hurricane Center Honolulu HI<br/>
+800 AM HST Tue Jul 16 2024<br/>
+<br/>
+For the central North Pacific...between 140W and 180W:<br/>
+<br/>
+No tropical cyclones are expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster JVC<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-07-16, from: Central Pacific Basin Tropical Cyclones
+
+No tropical cyclones as of Tue, 16 Jul 2024 17:30:49 GMT 
+
+<https://www.nhc.noaa.gov/>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-07-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1152 AM CDT Tue Jul 16 2024
+
+Valid 161700Z - 171200Z
+
+Minimal changes were made to the isolated dry thunderstorm area to
+reflect trends in guidance. Otherwise, the D1 Fire Outlook remains
+on track. See previous discussion for more information.
+
+..Thornton.. 07/16/2024
+
+.PREV DISCUSSION... /ISSUED 0133 AM CDT Tue Jul 16 2024/
+
+...Synopsis...
+Another afternoon of dry thunderstorms is expected later today
+across parts of the Great Basin and Pacific Northwest. Regional 00
+UTC soundings continue to show a gradual moistening trend across
+much of the West that has been noted over the past 48 hours. This
+comes amid several days of widely scattered thunderstorms and a
+steady influx of mid-level monsoonal moisture evident in advected
+PWAT satellite imagery. Consequently, thermodynamic conditions
+appear to favor a mixture of wet and dry thunderstorms across the
+eastern Great Basin, Southwest, and central Rockies this afternoon.
+To the west on the periphery of the better moisture (where PWATs are
+generally around 0.75 inch), dry thunderstorms will be more probable
+as lift associated with a weak upper low overspreads the West
+Coast/western Great Basin. Recent analyses continue to suggest that
+fuels are receptive to lightning starts, and gusty outflow winds may
+impact ongoing fires across the region.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## SPC Jul 16, 2024 1630 UTC Day 1 Convective Outlook
+
+date: 2024-07-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1128 AM CDT Tue Jul 16 2024
+
+Valid 161630Z - 171200Z
+
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON
+AND EVENING ACROSS PORTIONS OF NEW YORK AND VERMONT...
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ELSEWHERE OVER
+MUCH OF THE NORTHEAST...AS WELL AS PARTS OF:  CENTRAL
+PLAINS...SOUTH-CENTRAL HIGH PLAINS...OZARKS...AND LOWER
+MISSOURI/OHIO VALLEY REGIONS...
+
+...SUMMARY...
+Strong to severe thunderstorms are possible from the central Plains
+to the Northeast.  Greatest severe-thunderstorm threats within that
+are over parts of the central Plains and upper Ohio Valley to parts
+of the northern Mid-Atlantic and western New England.
+
+...Northeast States...
+A well-defined shortwave trough and embedded MCV from last night's
+severe MCS is tracking into western NY.  Strong heating of a moist
+air mass ahead of this system will result in intensification of
+thunderstorms early this afternoon, with storms tracking eastward
+across NY/northern PA into New England this evening.  Damaging winds
+(potentially widespread) will be the main concern with these storms,
+although hail and a tornado or two are also possible.  Have expanded
+the SLGT risk to the MA/NH coast, given favorable westerly surface
+winds and morning CAM solutions suggesting that MCS may persist that
+far.
+
+South of the main upper feature, a hot and humid air mass is present
+from central PA and NJ southward.  Widely scattered afternoon
+thunderstorms will develop in this area, despite rather weak
+forcing.  Sufficient winds aloft will promote a few organized storm
+clusters, capable of damaging wind gusts.
+
+...CO/KS/OK/TX...
+Full sunshine will lead to very deep boundary-layer mixing and
+scattered high-based showers/thunderstorms along the Colorado Front
+Range this afternoon.  This activity will be capable of locally
+gusty/damaging winds.  As the convection spread east-southeastward
+into a progressively more moist air mass, intensification and
+organization of storms into an MCS is expected.  This system will
+track into southwest KS and northwest OK this evening, with a
+continued risk of locally damaging wind gusts.
+
+...Central NE...
+A surface cold front is sagging southward across SD/NE today. 
+Thunderstorms are expected to intensify along this front over
+central NE late this afternoon or early evening.  Activity will
+track southward for a few hours, posing a risk of damaging wind
+gusts.
+
+...Mid MS Valley...
+A large and persistent area of thunderstorms has been affecting
+portions of MO/IL all morning, resulting in a very large cloud
+shield.  This will significantly impact heating/destabilization
+later today.  Therefore, have adjusted the SLGT region to the areas
+along and south of the cloud shield, where strong heating is still
+possible.  12z CAM solutions suggest storms will build southward
+from this MCS across southern MO/western KY and into parts of AR/TN
+later today, with some risk of damaging winds.
+
+..Hart/Halbert/Squitieri.. 07/16/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 
@@ -123,21 +990,6 @@ LAT...LON   39729035 38748947 37948894 37168931 37249018 37779225
  
 
 <https://www.spc.noaa.gov/products/md/md1649.html>
-
----
-
-## SPC Severe Thunderstorm Watch 546 Status Reports
-
-date: 2024-07-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/watch/ws0546.html"><img src="https://www.spc.noaa.gov/products/watch/ww0546_radar.gif" border="1" alt="WW 0546 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
-
-STATUS FOR WATCH 0546 HAS NOT BEEN ISSUED YET
-</pre>
-<a href="https://www.spc.noaa.gov/products/watch/ws0546.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/watch/ws0546.html>
 
 ---
 
@@ -508,105 +1360,6 @@ cold pools with forward propagation and forced ascent.
 
 ---
 
-## There are no tropical cyclones at this time.
-
-date: 2024-07-16, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Tue, 16 Jul 2024 11:56:07 GMT 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-07-16, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Tue Jul 16 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Pasch<br>NNNN<br><br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2024-07-16, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ACPN50 PHFO 161145<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-200 AM HST Tue Jul 16 2024<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Almanza<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-07-16, from: Central Pacific Basin Tropical Cyclones
-
-No tropical cyclones as of Tue, 16 Jul 2024 11:56:07 GMT 
-
-<https://www.nhc.noaa.gov/>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2024-07-16, from: Eastern Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ABPZ20 KNHC 161135<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 AM PDT Tue Jul 16 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Western East Pacific (EP92): <br/>
-A broad area of low pressure located several hundred miles southwest <br/>
-of the southern tip of the Baja California peninsula is producing a <br/>
-large area of disorganized showers and thunderstorms.  Environmental <br/>
-conditions appear generally conducive for some development, and a <br/>
-tropical depression could form in the next couple of days while the <br/>
-system moves west-northwestward at 10 to 15 mph across the western <br/>
-part of the basin.<br/>
-* Formation chance through 48 hours...medium...40 percent.<br/>
-* Formation chance through 7 days...medium...40 percent.<br/>
-<br/>
-$$<br/>
-Forecaster Kelly<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
 ## SPC - No watches are valid as of Mon Jul 15 13:55:02 UTC 2024
 
 date: 2024-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -624,49 +1377,6 @@ date: 2024-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale disc
 No Mesoscale Discussions are in effect as of Mon Jul 15 13:55:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2024-07-15, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0201 AM CDT Mon Jul 15 2024
-
-Valid 161200Z - 171200Z
-
-...Synopsis...
-Dry thunderstorms will continue to pose a fire weather concern
-across parts of the Great Basin and Pacific Northwest on Tuesday.
-The gradual breakdown of the Four Corners ridge will not only
-continue to promote thunderstorm chances, but will also mute surface
-pressure-gradient winds across the region. A gradual moistening
-trend noted in recent upper-air and satellite observations is
-forecast to continue into Tuesday across the Great Basin and central
-Rockies with PWAT values above 0.75 inch becoming more common.
-Recent forecast soundings and ensemble QPF solutions suggest that
-moistening will be greatest from AZ/NM into CO, WY, and perhaps
-parts of ID. Areas west of this axis will continue to see PWAT
-values around or below 0.75 inch and the potential for dry
-thunderstorms. In the absence of wetting rainfall over the next 24
-hours, fuels across this region should remain receptive as
-thunderstorms initiate Tuesday afternoon. In addition to the
-potential for new fire starts from dry lightning, outflow winds from
-decaying thunderstorms will continue to pose a localized fire
-weather concern for ongoing fires across the region.
-
-..Moore.. 07/15/2024
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -791,118 +1501,6 @@ LAT...LON   39548660 39838515 40368389 40818402 41058404 41148380
 
 ---
 
-## SPC Jul 14, 2024 2000 UTC Day 1 Convective Outlook
-
-date: 2024-07-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0259 PM CDT Sun Jul 14 2024
-
-Valid 142000Z - 151200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR PARTS OF THE
-NORTHERN PLAINS AND THE MIDWEST INTO THE OHIO VALLEY...
-
-...SUMMARY...
-Strong to severe thunderstorms are still expected from the northern
-Plains into the Upper Midwest and Ohio Valley this afternoon through
-tonight.
-
-...20Z Update...
-The primary changes made to this outlook were to adjust severe
-probabilities in the northern Plains to account for both the latest
-guidance consensus, and reflect recent trends in observations and
-re-analysis. Visible satellite and surface observations indicate a
-northwest-to-southeast oriented baroclinic boundary draped over
-extreme northeast MT/northwestern ND, down to central and eastern
-SD, extending to the MN border. Though MLCINH remains over the warm
-sector, and additional airmass modification is needed for
-appreciable airmass recovery after earlier storms, several hours of
-surface heating remain. Furthermore, this boundary may serve as a
-focal point for deep-moist convection to initiate and anchor on
-later this evening. Latest guidance consensus suggests that
-supercell structures with mainly a hail threat will materialize
-closer to the U.S./Canada by around 00Z (perhaps before).
-Thereafter, upscale growth into an MCS is possible along the
-baroclinic boundary. Should this occur, steep mid-level lapse rates,
-along with adequate vertical wind shear may promote a corridor of
-severe gusts, and a 75+ mph gust or two is possible, hence the
-addition of a hatched area within the Northern Plains Category
-2/Slight Risk.
-
-The Slight Risk in the Midwest was also expanded a bit westward in
-IA to account for potential westward convective initiation. This
-convection may also form into an MCS and traverse the same areas
-impacted by an earlier MCS, hence why changes were not made farther
-east despite some convective overturning noted. Otherwise, the
-forecast remains on track across the west of the CONUS.
-
-..Squitieri.. 07/14/2024
-
-.PREV DISCUSSION... /ISSUED 1117 AM CDT Sun Jul 14 2024/
-
-...Synopsis...
-West-northwesterly flow aloft is in place today across the northern
-Plains and Midwest, with several small-scale features noted in
-satellite imagery embedded in the flow.  This will result in
-multiple MCSs from MT into the upper OH valley during this period.
-
-...IN/OH this afternoon...
-A linear MCS is currently ongoing over portions of northwest IN and
-northeast IL.  Strong heating ahead of the system across much of
-IN/OH, combined with surface dewpoints near 70F will yield a
-corridor of moderate CAPE, likely aiding intensification of storms. 
-Given 20-25 knots of mid-level flow and relatively steep mid-level
-lapse rates, a few strong to severe storms are possible through the
-afternoon.  Please refer to MCD #1612 for further details.
-
-...Eastern IA/Southern WI/Northern IL/Northern IN...
-Strong heating is occurring in wake of aforementioned MCS across
-parts of eastern IA/southern WI/northern IL, where ample low-level
-moisture remains.  A well-defined remnant MCV from the overnight
-severe MCS over SD is currently over northern IA, and will track
-into the destabilizing air mass.  A consensus of morning CAM
-solutions suggest that thunderstorms will develop ahead of the MCV
-and track toward northern IL/IN this evening.  Damaging winds and
-some hail would be the main threats.
-
-...Northeast MT/Dakotas/Western MN...
-Water vapor imagery shows a strong upper trough digging
-southeastward across southern AB.  Large scale lift ahead of this
-system will lead to scattered thunderstorm development by early
-evening across portions of northeast MT and western ND.  Model
-solutions remain diverse in the details of how this convective
-scenario unfolds.  However, it appears likely that one or more
-clusters of strong/severe storms will track across ND and into
-northeast SD/western MN during the night.  Large hail and damaging
-winds will be possible with these storms.
-
-...Mid Atlantic...
-Widely scattered afternoon thunderstorms are expected today from
-parts of eastern VA northeastward into eastern PA and NJ.  Winds
-through the low/mid troposphere are rather weak and lapse rates are
-poor.  Nevertheless, ample low-level moisture and rather high PWAT
-values may result in gusty winds near the strongest storms.
-
-...AZ...
-Clear skies early today combined with dewpoints in the mid 60s will
-yield a hot and moderately unstable air mass this afternoon with
-MLCAPE values of 1000-1500 J/kg.  Thunderstorms are expected to form
-over the higher terrain of western NM/eastern AZ and along the rim
-later today, with sufficient easterly mid-level flow to aid
-propagation off the mountains.  Locally damaging wind gusts may
-accompany these storms.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
-
----
-
 ## SPC Severe Thunderstorm Watch 532 Status Reports
 
 date: 2024-07-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -1007,308 +1605,4 @@ few cumulonimbi with maximum tops to 500. Mean storm motion vector
  
 
 <https://www.spc.noaa.gov/products/watch/ww0532.html>
-
----
-
-## SPC Jul 14, 2024 1730 UTC Day 2 Convective Outlook
-
-date: 2024-07-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1230 PM CDT Sun Jul 14 2024
-
-Valid 151200Z - 161200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FOR PARTS OF
-THE MIDWEST INTO THE OHIO VALLEY...
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR PORTIONS OF
-THE CENTRAL HIGH PLAINS...
-
-...SUMMARY...
-Strong to severe thunderstorms are likely from the Upper Midwest
-into the Mid Mississippi Valley and Upper Great Lakes region
-tomorrow (Monday). A focused corridor of damaging winds is possible.
-Isolated severe thunderstorms are also possible across the central
-Plains as well as south-central/southeast Arizona.
-
-...Synopsis...
-A complex severe weather scenario is possible across portions of the
-Midwest tomorrow (Monday). Upper ridging will prevail across the
-western CONUS as broad cyclonic flow remains in place, centered over
-the Upper MS Valley. Multiple mid-level impulses will pivot around
-the cyclonic flow from the Midwest into the Northeast, with a
-surface lee trough and associated cold front poised to sweep
-southeastward into the Midwest and OH Valley regions. Multiple
-areas/rounds of thunderstorm development are expected from the
-Midwest to the Northeast, with preceding storms exhibiting potential
-influence on the evolution of subsequent convective complexes.
-Nonetheless, the latest high-resolution guidance consensus, general
-synoptic pattern, and regional climatology, all suggest that at
-least one focused round of organized severe thunderstorms should
-occur across the Midwest at some point from the late morning to late
-afternoon hours, perhaps accompanied by a focused corridor of strong
-to severe wind gusts. Meanwhile, surface high pressure will dominate
-the Intermountain west, with monsoonal mid-level moisture pivoting
-around the upper ridge, fostering multiple areas of high-based
-strong to isolated severe thunderstorms from the Desert Southwest to
-the central High Plains.
-
-...Midwest into the OH Valley...
-Multiple convective scenarios may unfold across portions of the
-Midwest tomorrow, including the possibility of a focused corridor or
-of severe gusts produced by a bow-echo MCS. By late morning/early
-afternoon, a pronounced mid-level impulse will quickly traverse the
-region, overspreading a generally west-to-east oriented surface
-baroclinic zone. Along this boundary, upper 70s F surface dewpoints
-will be in place, that in tandem with surface heating, will boost
-MLCAPE to at least 3500-4500 J/kg. Given strong mid-level westerly
-flow accompanying the impulse, appreciable low-level shear and
-modest deep-layer shear is expected, characterized by enlarged and
-curved low-level hodographs, but short hodographs aloft. This
-environment climatologically favors the development of a progressive
-bow-echo capable of producing a focused corridor of severe gusts
-(perhaps exceeding 75 mph in spots). Furthermore, some HREF members
-also depict possible bow echo development. However, there are some
-uncertainties regarding how the bow echo could form, with some
-members showing a bow echo approaching from MN/IA from Day 1
-convection, or from new convective development over central IA.
-Since multiple rounds of preceding convection may also influence the
-position of the baroclinic zone and associated gradient of strong to
-extreme buoyancy, there is some uncertainty as to exactly where a
-bow echo would materialize and track.
-
-A Category 3/Enhanced risk has been introduced in the general region
-where a bow echo may form, and these highlights may need some
-adjustments during the Day 1 Outlook to account for baroclinic zone
-placement, or impacts from preceding convection. 5 percent tornado
-probabilities have also been added where a bow echo would most
-likely reach mature stage, where line-end and
-leading-line/system-scale mesovortices may foster leading-line QLCS
-tornado potential. However, even in the event that a bow echo does
-not materialize, a surface cold front will approach the Midwest
-tomorrow, contributing to linear convective initiation amid
-strong/extreme buoyancy, where severe gusts will still be of
-concern.
-
-...Portions of the Northeast...
-The first in a series of mid-level impulses traversing the cyclonic
-flow aloft will approach the northern Appalachians by late
-morning/early afternoon, contributing to increasing thunderstorm
-coverage during the day. Surface dewpoints exceeding 70 F in several
-areas, along with modest mid-level lapse rates (perhaps approaching
-7 C/km in spots), will result in widespread 1500-2500 J/kg MLCAPE.
-Stronger flow aloft will likely remain west into the OH Valley
-though, so vertical shear should be modest at best (i.e. bulk
-effective shear values around 25 kts). Pulse cellular and occasional
-multicell complexes are possible, accompanied by mainly a damaging
-gust threat. Storms should gradually weaken around or after sunset.
-
-...Portions of the Central High Plains...
-Upslope low-level flow by late afternoon/early evening, in tandem
-with peak afternoon heating, will encourage at least scattered
-thunderstorm development along the lee of the Rocky Mountains. 30-40
-kts of westerly 500 mb flow pivoting around the north side an
-anticyclone will assist in thunderstorms quickly moving into the
-central High Plains. Here, thunderstorms will be preceded by a well
-mixed boundary layer extending up to 700 mb. Surface to 500 mb lapse
-rates should be in the 8.5-9.5 C/km range, which favors deep-layer
-convective mixing and associated potential for severe gusts. A
-Category 2/Slight Risk has been added to portions of the central
-High Plains where thunderstorm clustering is expected to be greatest
-(based on the latest high-resolution guidance consensus), and where
-cold-pool mergers are most likely to occur.
-
-...Portions of southern into central Arizona...
-Thunderstorms are expected to develop along the Mogollon Rim by
-afternoon peak heating in central AZ. Easterly mid-level flow
-pivoting around the south side of an anticyclone may assist the
-storms in moving off of the higher terrain, amid a well-mixed
-boundary layer. Surface temperatures approaching 100 F ahead of the
-storms, beneath the monsoonal mid-level moisture, will support
-MLCAPE exceeding 1000 J/kg in spots. Modest elongation of the
-hodographs may result in effective bulk shear values approaching 30
-kts, which may support sustained multicellular clusters by late
-afternoon into early evening, accompanied by an isolated severe gust
-threat.
-
-..Squitieri.. 07/14/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2024-07-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1153 AM CDT Sun Jul 14 2024
-
-Valid 141700Z - 151200Z
-
-No changes are need to the previous D1 Fire Weather Outlook. See
-discussion below for more information.
-
-..Thornton.. 07/14/2024
-
-.PREV DISCUSSION... /ISSUED 0136 AM CDT Sun Jul 14 2024/
-
-...Synopsis...
-Widely scattered dry thunderstorms will continue to pose a fire
-weather risk across much of the West for today amid continued
-warm/dry conditions with widespread receptive fuels. Thunderstorm
-activity has been fairly widespread across the Great Basin and parts
-of the Pacific Northwest/northern Rockies over the past 24 hours.
-GOES IR/fire temperature imagery reveals multiple hot spots that
-have emerged during this period, possibly as a result of lightning
-strikes. MRMS rainfall estimates suggests that wetting rainfall was
-largely confined to the central Sierra Nevada and lower CO River
-Valley with little accumulation further north into the Great Basin. 
-
-A similar scenario is anticipated for today across a broad swath of
-the West. 00 UTC soundings continued to sample adequate mid-level
-moisture and sufficiently steep lapse rates to support weak
-convection, and GOES PWAT imagery suggests 0.5-0.9 inch PWAT values
-have spread east from the Great Basin into the central Rockies.
-While some low-level cooling/moistening from yesterday's convection
-is noted in surface temperature and RH trends, conditions in the
-lowest few kilometers should remain sufficiently dry to limit
-rainfall amounts. Thunderstorm coverage is expected to remain
-isolated to widely scattered with the exception of parts of the
-Sierra Nevada and lower CO River Valley where higher PWATS will
-favor a mix of wet/dry storms. Given the antecedent dry fuels and
-ongoing fires, dry lightning and strong outflow winds will continue
-to pose a fire weather concern. 
-
-...Columbia Basin...
-A lee trough east of the Cascades is forecast to deepen this
-afternoon, which will result in strengthening downslope/gap winds
-into the Columbia Basin and through the Columbia Gorge. Ensemble
-guidance continues to show reasonably high probability for 15-20 mph
-winds with RH falling into the single digits to low teens. Elevated
-conditions are expected, and a few locations may see a couple hours
-of critical conditions with winds closer to 20 mph. Recent fire
-activity in the region indicates that fuels are receptive and should
-support the fire weather threat. 
-
-...Eastern Oregon into southern Idaho...
-Recent model solutions have shifted the stronger mid-level flow
-northward away from the northern Great Basin. This trend appears to
-be supported by upper-air observations and analyses over the past
-6-12 hours. Consequently, the potential for mixing down stronger
-flow to the surface appears to be reduced compared to previous
-forecasts. This trend is reflected in recent ensemble guidance with
-lower probability for sustained elevated conditions. The previous
-Elevated risk area has been removed given this trend, but areas of
-transient elevated wind/RH conditions will remain possible.
-
-...Southern Montana to eastern Wyoming...
-Patchy elevated fire weather conditions are likely this afternoon
-from south-central MT into eastern WY. A deepening surface low along
-the northern High Plains should support 15-20 mph downslope winds
-with RH values falling into the teens to low 20s. While the synoptic
-pattern favors a fire weather concern, deterministic solutions show
-considerable spread in the strengthen of winds and coverage/duration
-of elevated conditions - possibly due to the potential for
-convection by mid-afternoon. Likewise, only a modest signal is noted
-in ensemble guidance. However, given active wildfires in this region
-over the past 24 hours (mostly across southern MT), trends will be
-monitored for the need for highlights in future forecast updates.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
-
----
-
-## SPC Jul 14, 2024 1630 UTC Day 1 Convective Outlook
-
-date: 2024-07-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1117 AM CDT Sun Jul 14 2024
-
-Valid 141630Z - 151200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM PORTIONS OF
-THE NORTHERN HIGH PLAINS TO THE OHIO VALLEY...
-
-...SUMMARY...
-Strong to severe thunderstorms are expected from the northern Plains
-into the Upper Midwest and Ohio Valley.
-
-...Synopsis...
-West-northwesterly flow aloft is in place today across the northern
-Plains and Midwest, with several small-scale features noted in
-satellite imagery embedded in the flow.  This will result in
-multiple MCSs from MT into the upper OH valley during this period.
-
-...IN/OH this afternoon...
-A linear MCS is currently ongoing over portions of northwest IN and
-northeast IL.  Strong heating ahead of the system across much of
-IN/OH, combined with surface dewpoints near 70F will yield a
-corridor of moderate CAPE, likely aiding intensification of storms. 
-Given 20-25 knots of mid-level flow and relatively steep mid-level
-lapse rates, a few strong to severe storms are possible through the
-afternoon.  Please refer to MCD #1612 for further details.
-
-...Eastern IA/Southern WI/Northern IL/Northern IN...
-Strong heating is occurring in wake of aforementioned MCS across
-parts of eastern IA/southern WI/northern IL, where ample low-level
-moisture remains.  A well-defined remnant MCV from the overnight
-severe MCS over SD is currently over northern IA, and will track
-into the destabilizing air mass.  A consensus of morning CAM
-solutions suggest that thunderstorms will develop ahead of the MCV
-and track toward northern IL/IN this evening.  Damaging winds and
-some hail would be the main threats.
-
-...Northeast MT/Dakotas/Western MN...
-Water vapor imagery shows a strong upper trough digging
-southeastward across southern AB.  Large scale lift ahead of this
-system will lead to scattered thunderstorm development by early
-evening across portions of northeast MT and western ND.  Model
-solutions remain diverse in the details of how this convective
-scenario unfolds.  However, it appears likely that one or more
-clusters of strong/severe storms will track across ND and into
-northeast SD/western MN during the night.  Large hail and damaging
-winds will be possible with these storms.
-
-...Mid Atlantic...
-Widely scattered afternoon thunderstorms are expected today from
-parts of eastern VA northeastward into eastern PA and NJ.  Winds
-through the low/mid troposphere are rather weak and lapse rates are
-poor.  Nevertheless, ample low-level moisture and rather high PWAT
-values may result in gusty winds near the strongest storms.
-
-...AZ...
-Clear skies early today combined with dewpoints in the mid 60s will
-yield a hot and moderately unstable air mass this afternoon with
-MLCAPE values of 1000-1500 J/kg.  Thunderstorms are expected to form
-over the higher terrain of western NM/eastern AZ and along the rim
-later today, with sufficient easterly mid-level flow to aid
-propagation off the mountains.  Locally damaging wind gusts may
-accompany these storms.
-
-..Hart/Leitman.. 07/14/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 

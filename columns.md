@@ -1,11 +1,109 @@
 ---
 title: columns 2024.29
-updated: 2024-07-16 08:12:29
+updated: 2024-07-16 14:33:23
 ---
 
 # columns 2024.29
 
-(date: 2024-07-16 08:12:29)
+(date: 2024-07-16 14:33:23)
+
+---
+
+##  In this interview, Errol Morris talks about truth, documentary filmmaking, and AI.... 
+
+date: 2024-07-16, updated: 2024-07-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044954-in-this-interview-errol-m>
+
+---
+
+## Taboola + Apple News? No thanks
+
+date: 2024-07-16, from: Om Malik blog
+
+I’ve been a happy Apple One customer. It made perfect sense signing up for the package considering I was paying for Apple TV+, Apple Music and iCloud storage. For an extra couple of dollars, I could get Apple News+, so I thought why not. That ended today, when I learned that Apple had struck a &#8230; 
+
+<https://om.co/2024/07/16/taboola-apple-news-no-thanks/>
+
+---
+
+##  Important not to forget with all that is going on: Republicans will... 
+
+date: 2024-07-16, updated: 2024-07-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044953-important-not-to-forget-w>
+
+---
+
+## Why FTC Needs to Rethink Tech Regulation
+
+date: 2024-07-16, from: Om Malik blog
+
+If you’ve been a regular reader, you know I’m a little skeptical of government regulators (including the FTC and DOJ) being able to control and rein in Big Tech, and more importantly, bring about change that is timely, impactful and meaningful in the long run. No matter how well-meaning their intentions might be — and &#8230; 
+
+<https://om.co/2024/07/16/why-ftc-needs-to-rethink-tech-regulation/>
+
+---
+
+##  E.B. White Writes to a Man Who Has Lost Faith in Humanity 
+
+date: 2024-07-16, updated: 2024-07-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/eb-white-writes-to-a-man-who-has-lost-faith-in-humanity>
+
+---
+
+##  If you&#8217;re on Bluesky, you can follow the Downticket Democrats bot: &#8220;I... 
+
+date: 2024-07-16, updated: 2024-07-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044948-if-youre-on-bluesky-you>
+
+---
+
+##  After 12 years, Pete Wells is stepping down as the NY Times&#8217;... 
+
+date: 2024-07-16, updated: 2024-07-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044950-after-12-years-pete-wells>
+
+---
+
+##  Nothing About the Attempted Assassination Redeems Trump. &#8220;That Trump is a victim... 
+
+date: 2024-07-16, updated: 2024-07-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044949-nothing-about-the-attempt>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-16, from: Dave Winer's Scripting News)
+
+Highly recommend this <a href="https://www.netflix.com/title/81614129">Netflix series</a> -- esp the last three episodes. I found it enlightening, even though I lived through most of this history, I never saw it all put together in a series of events over decades. I came out of it with a much clearer perspective of where we are in the Cold War. It never was over. "The end of history" was too good to be true. Also glad I read so much about slavery a few years ago. If you put both these together, you get the USA, and the deep and lasting wounds we keep re-opening. 
+
+<http://scripting.com/2024/07/16.html#a163319>
+
+---
+
+## July 15, 2024
+
+date: 2024-07-16, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/july-15-2024-633>
 
 ---
 
@@ -321,7 +419,7 @@ What really got me interested, however, was <a href="https://www.ystrickler.com/
 
 **@Dave Winer's Scripting News** (date: 2024-07-16, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/16/loganRoy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The problem with <a href="https://en.wikipedia.org/wiki/J._D._Vance">JD Vance</a> is that he has no principles, he'll be whatever he needs to be to get more power, and he's young. He's as empty as Trump, and much younger, so we can't hope to outwait him. Now we have a real problem, because Trump has a successor. I imagine Trump's sons probably aren't happy about this, had he picked <a href="https://en.wikipedia.org/wiki/Marco_Rubio">Little Marco</a>, no one would mistake him as an heir, or <a href="https://en.wikipedia.org/wiki/Doug_Burgum">Doug Burgum</a> who is a bit too old to be an heir (same age as I am). We <i>do</i> have a problem with Biden, he hasn't prepared for this moment. Old or not, they had 3.5 years to get ready, and they didn't. As I wrote <a href="http://scripting.com/2024/07/15.html#a124845">yesterday</a>, the biggest most important thing is that we <b>organize ourselves.</b> That's the best defense all around. Every attempt to <a href="https://en.wikipedia.org/wiki/Pen_(enclosure)">corral</a> the insurrection has been either non-existent or overwhelmingly inadequate. Trump should be out of the picture, and for a while it seemed as if he was getting there, but now he's back, and probably a bigger threat than ever. I don't think replacing Biden is anywhere near enough. We need leadership. Not wait to be led. We've waited too long. People who appear ready to step up -- AOC, Bernie Sanders. Who else? I wouldn't put Obama on that list, he tried to welcome Trump, even let him have his Supreme Court pick, just to be a nice guy. We are not going to prevail by being nice, unfortunately. We're also not going to prevail by each of us taking care of Number One. We have to work together. Organize and work together. Those ought to be our mantras until we achieve them. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/16/loganRoy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The problem with <a href="https://en.wikipedia.org/wiki/J._D._Vance">JD Vance</a> is that he's empty inside, he'll be whatever he needs to be to get more power, and he's young. He's as empty as Trump, and much younger, so we can't hope to outwait him. Now we have a real problem, because Trump has a successor. I imagine Trump's sons probably aren't happy about this. Had he picked <a href="https://en.wikipedia.org/wiki/Marco_Rubio">Little Marco</a>, no one would mistake him as an heir, or <a href="https://en.wikipedia.org/wiki/Doug_Burgum">Doug Burgum</a> who is a bit too old to be an heir (same age as I am). We <i>do</i> have a problem with Biden, he hasn't prepared for this moment. Old or not, they had 3.5 years to get ready, and they didn't. As I wrote <a href="http://scripting.com/2024/07/15.html#a124845">yesterday</a>, the biggest most important thing is that we <b>organize ourselves.</b> That's the best defense all around. Every attempt to <a href="https://en.wikipedia.org/wiki/Pen_(enclosure)">corral</a> the insurrection has been either non-existent or overwhelmingly inadequate. Trump should be out of the picture, and for a while it seemed as if he was getting there, but now he's back, and probably a bigger threat than ever. I don't think replacing Biden is anywhere near enough. We need leadership. Not wait to be led. We've waited too long. People who appear ready to step up -- AOC, Bernie Sanders. Who else? I wouldn't put Obama on that list, he tried to welcome Trump, even let him have his Supreme Court pick, just to be a nice guy. We are not going to prevail by being nice, unfortunately. We're also not going to prevail by each of us taking care of Number One. We have to work together. Organize and work together. Those ought to be our mantras until we achieve them. 
 
 <http://scripting.com/2024/07/16.html#a114643>
 
@@ -959,7 +1057,7 @@ I&#8217;ve always had a hard time keeping up with flossing, which is embarrassin
 
 ## ★ It’s the Guns, It’s the Guns, It’s the Guns
 
-date: 2024-07-15, updated: 2024-07-15, from: Daring Fireball
+date: 2024-07-15, updated: 2024-07-16, from: Daring Fireball
 
 Make them all say, as Trump himself did after a school shooting massacre in Iowa this year, that we “have to get over it, we have to move forward.” 
 

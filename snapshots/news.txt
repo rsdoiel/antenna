@@ -377,6 +377,8 @@ https://webcurios.co.uk/feed/ "~Web Curios blog"
 https://feed.tedium.co/ "~Tedium feed"
 https://bytecodealliance.org/feed.xml "~Bytecode Alliance News"
 
+https://www.brettbecker.com/feed/ "~Brett Brecker Blog (CS Prof. UCD Dublin)"
+
 #
 # Hobbies
 #

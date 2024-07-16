@@ -1,11 +1,21 @@
 ---
 title: home 2024.29
-updated: 2024-07-16 08:12:31
+updated: 2024-07-16 14:33:25
 ---
 
 # home 2024.29
 
-(date: 2024-07-16 08:12:31)
+(date: 2024-07-16 14:33:25)
+
+---
+
+## California Welcomes New Zealand Prime Minister to Highlight Partnerships on Climate and Energy
+
+date: 2024-07-16, from: Calfifornia Dept. Aggriculture blog
+
+CDFA Secretary Karen Ross joins Governor Newsom to highlight partnerships on climate, energy and more CDFA Secretary Karen Ross joined Governor Newsom and Cabinet colleagues last week in welcoming New Zealand Prime Minister Christopher Luxon in San Francisco. New Zealand &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27999">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27999>
 
 ---
 

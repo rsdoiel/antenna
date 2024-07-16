@@ -225,6 +225,8 @@ https://bytecodealliance.org/feed.xml "~Bytecode Alliance News"
 #
 https://www.oreilly.com/radar/feed/index.xml "~O'Reilly Radar"
 
+https://www.brettbecker.com/feed/ "~Brett Brecker Blog (CS Prof. UCD Dublin)"
+
 #
 # Problem feeds
 #

@@ -1,11 +1,262 @@
 ---
 title: tech likely 2024.29
-updated: 2024-07-16 08:12:28
+updated: 2024-07-16 14:33:22
 ---
 
 # tech likely 2024.29
 
-(date: 2024-07-16 08:12:28)
+(date: 2024-07-16 14:33:22)
+
+---
+
+##  In this interview, Errol Morris talks about truth, documentary filmmaking, and AI.... 
+
+date: 2024-07-16, updated: 2024-07-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044954-in-this-interview-errol-m>
+
+---
+
+## NASA Ships Moon Rocket Stage Ahead of First Crewed Artemis Flight
+
+date: 2024-07-16, from: NASA breaking news
+
+NASA rolled out the SLS (Space Launch System) rocket’s core stage for the Artemis II test flight from its manufacturing facility in New Orleans on Tuesday for shipment to the agency’s spaceport in Florida. The rollout is key progress on the path to NASA’s first crewed mission to the Moon under the Artemis campaign. Using [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-ships-moon-rocket-stage-ahead-of-first-crewed-artemis-flight/>
+
+---
+
+## NASA Deputy Administrator Holds First Bilateral Engagement with KASA
+
+date: 2024-07-16, from: NASA breaking news
+
+NASA Deputy Administrator Pam Melroy conducted the first bilateral meeting on Monday with Dr. Young-bin Yoon, administrator of the newly established KASA (Korea AeroSpace Administration), which opened on May 27. The creation of KASA underscores the Republic of Korea&#8217;s commitment to advancing space exploration. The bilateral meeting marks a pivotal moment for a NASA’s relationship [&#8230;] 
+
+<https://www.nasa.gov/image-article/nasa-deputy-administrator-holds-first-bilateral-engagement-with-kasa/>
+
+---
+
+## NASA Celebrates 20 Years of Earth-Observing Aura Satellite
+
+date: 2024-07-16, from: NASA breaking news
+
+A few of the many highlights from the last 20 years since Aura Launched. 
+
+<https://science.nasa.gov/earth/nasa-celebrates-20-years-of-earth-observing-aura-satellite/>
+
+---
+
+## Safari already contains ad tracking technology, and they’re now adding it to Safari’s Private Browsing mode, too
+
+date: 2024-07-16, from: OS News
+
+We&#8217;ve been talking a lot about sleazy ways in which the online advertising industry is conspiring with browser makers &#8211; who also happen to be in the online advertising industry &#8211; to weaken privacy features so they can still track you and the ads they serve you, but with &#8220;privacy&#8221;. They&#8217;re trying really hard to make it seem as if they&#8217;re doing us a huge favour by making tracking slightly more private, and browser makers are falling over themselves to convince us that allowing some user and ad tracking is the only way to stop the kind of total everything, everywhere, all at once tracking we have now. We&#8217;ve got Google and Chrome pushing something called &#8220;Privacy Sandbox&#8220;, and we&#8217;ve got Mozilla and Facebook pushing something called &#8220;Privacy-Preserving Attribution&#8220;, both of which are designed to give the advertising industry slightly more private tracking in the desperate hope they won&#8217;t still be doing a lot more tracking on the side. Safari users, meanwhile, have been feeling pretty good about all of this in the knowledge Apple cares about privacy, so surely Safari won&#8217;t be doing any of this. You know where this is going, right? Today, the WebKit project published a lengthy blog post detailing all the various additional measures it&#8217;s taking to make its Private Browsing mode more, well, private, and a lot of them are great moves, very welcome, and ensure that private browsing on Safari is a little bit more private than it is on Chrome, as the blog post gleefully points out. However, not long into the blog post, the shoe drops. We also expanded Web AdAttributionKit (formerly Private Click Measurement) as a replacement for tracking parameters in URL to help developers understand the performance of their marketing campaigns even under Private Browsing. ↫ John Wilander, Charlie Wolfe, Matthew Finkel, Wenson Hsieh, and Keith Holleman A little further down, they go into more detail: Web AdAttributionKit (formerly Private Click Measurement) is a way for advertisers, websites, and apps to implement ad attribution and click measurement in a privacy-preserving way. You can read more about it here. Alongside the new suite of enhanced privacy protections in Private Browsing, Safari also brings a version of Web AdAttributionKit to Private Browsing. This allows click measurement and attribution to continue working in a privacy-preserving manner. ↫ John Wilander, Charlie Wolfe, Matthew Finkel, Wenson Hsieh, and Keith Holleman So not only does Safari already include the kind of tracking technology everyone is &#8211; rightfully &#8211; attacking Mozilla over for adding it to Firefox, Apple and the Safari team are actually taking it a step further and making this ad tracking technology available in private browsing mode. The technology is limited a bit more in Private Browsing mode, but its intent is preserved: to track you and the ads you see online. I would hazard a guess that when you enable a browser&#8217;s private browsing or incognito mode, you assume that means zero tracking. We already know that Chrome&#8217;s Incognito mode leaks data like a sieve with bullet holes in it, and now it seems Safari&#8217;s Private Browsing mode, too, is going to allow advertisers to track you and the ads you see &#8211; blog post full of fancy privacy features be damned. Do you know those &#8220;Around the web&#8221; chumboxes? Even if you&#8217;re unfamiliar with the term, you&#8217;ve most definitely seen these things all over the web, and really hate them. A major player in the chumbox business is a company called Taboola, a name that&#8217;s quite despised and reviled online. Popular Apple blogger John Gruber called Taboola a &#8220;slumlord&#8221; and the &#8220;lowest common denominator clickbait property&#8220;. Do you want to know which major technology company just signed a massive deal with Taboola? Ad tech giant Taboola has struck a deal with Apple to power native advertising within the Apple News and Apple Stocks apps, Taboola founder and CEO Adam Singolda told Axios. ↫ Sara Fischer at Axios Apple needs to find new markets to keep growing, and clearly, pestering its users with upsells and subscriptions to its services isn&#8217;t enough. The online advertising industry is massive &#8211; just look at Google&#8217;s and Facebook&#8217;s financial disclosures &#8211; and Apple seems to be interested in taking a bigger slice of that fat pie. And as Google and now Mozilla are finding out, a browser that blocks ads and ad tracking kind of gets in the way of that. Anyone who can make and sell plug-and-play Pi-Hole devices even normal people can use is going to make a killing. 
+
+<https://www.osnews.com/story/140252/safari-already-contains-ad-tracking-technology-and-theyre-now-adding-it-to-safaris-private-browsing-mode-too/>
+
+---
+
+##  Important not to forget with all that is going on: Republicans will... 
+
+date: 2024-07-16, updated: 2024-07-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044953-important-not-to-forget-w>
+
+---
+
+## Apollo 11 Lifts Off
+
+date: 2024-07-16, from: NASA breaking news
+
+55 years ago on July 16, 1969, NASA’s Apollo 11 spacecraft launched from the agency’s Kennedy Space Center in Florida, as seen in this photo. Astronauts Neil Armstrong, Michael Collins, and Buzz Aldrin were aboard. Apollo 11’s primary mission objective was to fulfill a national goal set by President John F. Kennedy on May 25, [&#8230;] 
+
+<https://www.nasa.gov/image-article/apollo-11-lifts-off/>
+
+---
+
+## NASA to Provide Background on Space Station Deorbit Planning
+
+date: 2024-07-16, from: NASA breaking news
+
+NASA is planning for the future in low Earth orbit for science, research, and commercial opportunities as the agency and its international partners maximize the use of the International Space Station. As the agency fosters new commercial space stations, leadership from NASA and SpaceX will participate in a media teleconference at 2 p.m. EDT Wednesday, [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-to-provide-background-on-space-station-deorbit-planning/>
+
+---
+
+##  E.B. White Writes to a Man Who Has Lost Faith in Humanity 
+
+date: 2024-07-16, updated: 2024-07-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/eb-white-writes-to-a-man-who-has-lost-faith-in-humanity>
+
+---
+
+## macOS 15 Sequoia Public Beta
+
+date: 2024-07-16, from: Michael Tsai
+
+Juli Clover: Apple today released the first beta of an upcoming macOS Sequoia update to its public beta testing group, giving the general public a chance to try out the new operating system's features ahead of its fall launch. The first public beta includes the same content as the third developer beta. [&#8230;] All of [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/16/macos-15-sequoia-public-beta/>
+
+---
+
+## An Ode to the Volume Swipe
+
+date: 2024-07-16, from: Michael Tsai
+
+M.G. Siegler: I found myself thinking about the AirPods&#8230; Specifically, how truly great the volume swiping mechanism is on the AirPods Pro. This must be my most-used gesture in life beyond perhaps swiping up to unlock my phone. I have AirPods in my ears a good percentage of the day and I&#8217;m constantly swiping up [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/16/an-ode-to-the-volume-swipe/>
+
+---
+
+## NSCopyObject, the Griefer That Keeps on Griefing
+
+date: 2024-07-16, from: Michael Tsai
+
+Wade Tregaskis: Almost nobody intentionally uses NSCopyObject, but your superclass might, and therefore you might.[&#8230;]Someguides specify a better method, which is to manually zero out the copied object&#8217;s ivars and then repopulate them via formal property setters. That actually works with or without ARC, although it may break &#x2013; causing memory leaks &#x2013; if the [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/16/nscopyobject-the-griefer-that-keeps-on-griefing/>
+
+---
+
+## Chromium Browsers Preferencing *.google.com Domains
+
+date: 2024-07-16, from: Michael Tsai
+
+Simon Willison (Hacker News): It turns out Google Chrome (via Chromium) includes a default extension which makes extra services available to code running on the *.google.com domains - tweeted about today by Luca Casonato, but the code has been there in the public repo since October 2013 as far as I can tell.It looks like [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/16/chromium-browsers-preferencing-google-com-domains/>
+
+---
+
+## Sols 4246-4247: Next Stop: Fairview Dome
+
+date: 2024-07-16, from: NASA breaking news
+
+Earth planning date: Monday, July 15, 2024 Summer is in full swing in the northern hemisphere here on Earth. Warmer temperatures and fair weather make for prime opportunities for road trips and enjoying the best of the outdoors. Summer is in full swing too for the southern hemisphere of Mars and Gale crater, where Curiosity […] 
+
+<https://science.nasa.gov/blogs/sols-4246-4247-next-stop-fairview-dome/>
+
+---
+
+##  If you&#8217;re on Bluesky, you can follow the Downticket Democrats bot: &#8220;I... 
+
+date: 2024-07-16, updated: 2024-07-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044948-if-youre-on-bluesky-you>
+
+---
+
+##  After 12 years, Pete Wells is stepping down as the NY Times&#8217;... 
+
+date: 2024-07-16, updated: 2024-07-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044950-after-12-years-pete-wells>
+
+---
+
+## Robotic Assembly and Outfitting for NASA Space Missions
+
+date: 2024-07-16, from: NASA breaking news
+
+NASA is turning to the 3D modeling experts in the community for ideas and designs to use or enhance the current state of modular robotic construction techniques. Robotic building of structures in space is an active area of research for NASA and might prove to be a path towards sustainable and scalable space exploration. This [&#8230;] 
+
+<https://www.nasa.gov/general/robotic-assembly-and-outfitting-for-nasa-space-missions/>
+
+---
+
+## Sols 4243-4245: Exploring Stubblefield Canyon
+
+date: 2024-07-16, from: NASA breaking news
+
+Earth planning date: Friday, July 12, 2024 Curiosity, now heading uphill from the Mammoth Lakes drill site, has focused on a very interesting exposure of conglomerate rocks, consisting of pebbles cemented together by a fine-grained matrix material. On Earth, conglomerate rock is associated with downhill flows of rock and soil mixtures, often in a water-rich […] 
+
+<https://science.nasa.gov/blogs/sols-4243-4245-exploring-stubblefield-canyon/>
+
+---
+
+##  Nothing About the Attempted Assassination Redeems Trump. &#8220;That Trump is a victim... 
+
+date: 2024-07-16, updated: 2024-07-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044949-nothing-about-the-attempt>
+
+---
+
+## What The Campaign Is For
+
+date: 2024-07-16, from: Dave Karpf's blog
+
+Biden is the candidate. The stakes are existential. The whole point of a campaign is that poll numbers in July are not immutable destiny. 
+
+<https://davekarpf.substack.com/p/what-the-campaign-is-for>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-16, from: Dave Winer's Scripting News)
+
+Highly recommend this <a href="https://www.netflix.com/title/81614129">Netflix series</a> -- esp the last three episodes. I found it enlightening, even though I lived through most of this history, I never saw it all put together in a series of events over decades. I came out of it with a much clearer perspective of where we are in the Cold War. It never was over. "The end of history" was too good to be true. Also glad I read so much about slavery a few years ago. If you put both these together, you get the USA, and the deep and lasting wounds we keep re-opening. 
+
+<http://scripting.com/2024/07/16.html#a163319>
+
+---
+
+## Here’s How AI Is Changing NASA’s Mars Rover Science
+
+date: 2024-07-16, from: NASA breaking news
+
+Artificial intelligence is helping scientists to identify minerals within rocks studied by the Perseverance rover. Some scientists dream of exploring planets with “smart” spacecraft that know exactly what data to look for, where to find it, and how to analyze it. Although making that dream a reality will take time, advances made with NASA’s Perseverance [&#8230;] 
+
+<https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/heres-how-ai-is-changing-nasas-mars-rover-science/>
+
+---
+
+## NASA Announces Leadership Changes
+
+date: 2024-07-16, from: NASA breaking news
+
+NASA Administrator Bill Nelson announced Tuesday Dr. Kurt Vogel, associate administrator for the Space Technology Mission Directorate (STMD), is retiring from the agency. NASA Langley Research Center Director Clayton Turner will become the acting associate administrator for STMD, and NASA Glenn Research Center Deputy Director Dawn Schaible will become acting Langley center director. The changes [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-announces-leadership-changes/>
+
+---
+
+## قبور وراء النافذة / “Graves behind the Window” معذبو الأرض / “The Wretched of the Earth”
+
+date: 2024-07-16, from: Logic Magazine
+
+
+                <p>A selection of poems by Gazan poet Anees Ghanima, Translator’s Note Leena Aboutaleb, and preface by Abdalhadi Alijla</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/2-poems>
+
+---
+
+## This Man Should Definitely Have Some Regerts
+
+date: 2024-07-16, updated: 2024-07-16, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/07/16/this-man-should-definitely-have-some-regerts/>
 
 ---
 
@@ -46,19 +297,6 @@ date: 2024-07-16, from: NASA breaking news
 “Houston, Tranquility Base here, the Eagle has landed.” “That’s one small step for [a] man, one giant leap for mankind.” “Magnificent desolation.” Three phrases that recall humanity’s first landing on and exploration of the lunar surface. In July 1969, Apollo 11 astronauts Neil A. Armstrong, Michael Collins, and Edwin E. “Buzz” Aldrin completed humanity’s first [&#8230;] 
 
 <https://www.nasa.gov/history/55-years-ago-apollo-11s-one-small-step-one-giant-leap/>
-
----
-
-## قبور وراء النافذة / “Graves behind the Window” معذبو الأرض / “The Wretched of the Earth”
-
-date: 2024-07-16, from: Logic Magazine
-
-
-                <p>A selection of poems by Gazan poet Anees Ghanima, Translator’s Note Leena Aboutaleb, and preface by Abdalhadi Alijla</p>
-
-             
-
-<https://logicmag.io/issue-21-medicine-and-the-body/2-poems>
 
 ---
 
@@ -286,7 +524,7 @@ Supabase's isomorphic JavaScript client library is now available on JSR.
 
 **@Dave Winer's Scripting News** (date: 2024-07-16, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/16/loganRoy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The problem with <a href="https://en.wikipedia.org/wiki/J._D._Vance">JD Vance</a> is that he has no principles, he'll be whatever he needs to be to get more power, and he's young. He's as empty as Trump, and much younger, so we can't hope to outwait him. Now we have a real problem, because Trump has a successor. I imagine Trump's sons probably aren't happy about this, had he picked <a href="https://en.wikipedia.org/wiki/Marco_Rubio">Little Marco</a>, no one would mistake him as an heir, or <a href="https://en.wikipedia.org/wiki/Doug_Burgum">Doug Burgum</a> who is a bit too old to be an heir (same age as I am). We <i>do</i> have a problem with Biden, he hasn't prepared for this moment. Old or not, they had 3.5 years to get ready, and they didn't. As I wrote <a href="http://scripting.com/2024/07/15.html#a124845">yesterday</a>, the biggest most important thing is that we <b>organize ourselves.</b> That's the best defense all around. Every attempt to <a href="https://en.wikipedia.org/wiki/Pen_(enclosure)">corral</a> the insurrection has been either non-existent or overwhelmingly inadequate. Trump should be out of the picture, and for a while it seemed as if he was getting there, but now he's back, and probably a bigger threat than ever. I don't think replacing Biden is anywhere near enough. We need leadership. Not wait to be led. We've waited too long. People who appear ready to step up -- AOC, Bernie Sanders. Who else? I wouldn't put Obama on that list, he tried to welcome Trump, even let him have his Supreme Court pick, just to be a nice guy. We are not going to prevail by being nice, unfortunately. We're also not going to prevail by each of us taking care of Number One. We have to work together. Organize and work together. Those ought to be our mantras until we achieve them. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/16/loganRoy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The problem with <a href="https://en.wikipedia.org/wiki/J._D._Vance">JD Vance</a> is that he's empty inside, he'll be whatever he needs to be to get more power, and he's young. He's as empty as Trump, and much younger, so we can't hope to outwait him. Now we have a real problem, because Trump has a successor. I imagine Trump's sons probably aren't happy about this. Had he picked <a href="https://en.wikipedia.org/wiki/Marco_Rubio">Little Marco</a>, no one would mistake him as an heir, or <a href="https://en.wikipedia.org/wiki/Doug_Burgum">Doug Burgum</a> who is a bit too old to be an heir (same age as I am). We <i>do</i> have a problem with Biden, he hasn't prepared for this moment. Old or not, they had 3.5 years to get ready, and they didn't. As I wrote <a href="http://scripting.com/2024/07/15.html#a124845">yesterday</a>, the biggest most important thing is that we <b>organize ourselves.</b> That's the best defense all around. Every attempt to <a href="https://en.wikipedia.org/wiki/Pen_(enclosure)">corral</a> the insurrection has been either non-existent or overwhelmingly inadequate. Trump should be out of the picture, and for a while it seemed as if he was getting there, but now he's back, and probably a bigger threat than ever. I don't think replacing Biden is anywhere near enough. We need leadership. Not wait to be led. We've waited too long. People who appear ready to step up -- AOC, Bernie Sanders. Who else? I wouldn't put Obama on that list, he tried to welcome Trump, even let him have his Supreme Court pick, just to be a nice guy. We are not going to prevail by being nice, unfortunately. We're also not going to prevail by each of us taking care of Number One. We have to work together. Organize and work together. Those ought to be our mantras until we achieve them. 
 
 <http://scripting.com/2024/07/16.html#a114643>
 
@@ -471,6 +709,31 @@ Since I would like the dungeons to be close to the prep I do for my own games so
 <p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%231PDC">#1PDC</a></p> 
 
 <https://alexschroeder.ch/view/2024-07-15-1pdc>
+
+---
+
+## PGDay UK 2024 - Schedule published
+
+date: 2024-07-16, from: PostgreSQL News
+
+<p>Join us on 11th September 2024 in London, for a day of talks on the World's Most Advanced Open Source Database coupled with the usual valuable hallway track. This event is aimed at all users and developers of PostgreSQL and is your chance to meet and exchange ideas and knowledge with like-minded database fanatics in London.</p>
+<h1>Schedule</h1>
+<p>We are pleased to announce that the schedule for PGDay UK 2024 has now been published. You can see the fantastic selection of talks we have planned at:</p>
+<p><a href="https://2024.pgday.uk/schedule/">https://2024.pgday.uk/schedule/</a></p>
+<p>The team would like to thank all those who submitted talks, as well as the program committee who had a long and difficult job selecting the talks!</p>
+<h1>Registration</h1>
+<p>Registration for attendees is now open. For more information and to secure your seat, please visit:</p>
+<p><a href="https://2024.pgday.uk/registration/">https://2024.pgday.uk/registration/</a></p>
+<h1>Sponsors</h1>
+<p>Sponsor the event and take your chance to present your services or products to the PostgreSQL community - or see it as a give-back opportunity. The benefactor sponsorship level also includes a free entrance ticket. Please head to:</p>
+<p><a href="https://2024.pgday.uk/become-sponsor/">https://2024.pgday.uk/become-sponsor/</a></p>
+<p>for more details.</p>
+<h1>See you there!</h1>
+<p>As usual, if you have any questions, don't hesitate to contact us at contact@pgday.uk.</p>
+<p>We look forward to seeing you in London in September!</p>
+<p>PGDay UK 2024 is a <a href="https://www.postgresql.eu/">PostgreSQL Europe</a> event run according to the PostgreSQL <a href="https://www.postgresql.org/about/policies/conferences/">Community Conference Recognition</a> programme. Local logistics and other services are provided by Slonik Enterprises Ltd. on a not-for-profit basis.</p> 
+
+<https://www.postgresql.org/about/news/pgday-uk-2024-schedule-published-2895/>
 
 ---
 

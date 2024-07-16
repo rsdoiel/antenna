@@ -1,11 +1,65 @@
 ---
 title: socal north 2024.29
-updated: 2024-07-16 08:12:26
+updated: 2024-07-16 14:33:19
 ---
 
 # socal north 2024.29
 
-(date: 2024-07-16 08:12:26)
+(date: 2024-07-16 14:33:19)
+
+---
+
+## Joe ‘Jellybean’ Bryant, Father of Kobe Bryant, Dies at 69
+
+date: 2024-07-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ANGELES (CNS) &#8211; Joe &#8220;Jellybean&#8221; Bryant, the father of Los Angeles Lakers basketball player Kobe Bryant and a coach for the Los Angeles Sparks of the WNBA, has died, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/16/joe-jellybean-bryant-father-of-kobe-bryant-dies-at-69/">Joe &#8216;Jellybean&#8217; Bryant, Father of Kobe Bryant, Dies at 69</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/16/joe-jellybean-bryant-father-of-kobe-bryant-dies-at-69/>
+
+---
+
+## LA County leaders vote to give renters free eviction attorneys, a first in SoCal
+
+date: 2024-07-16, updated: 2024-07-16, from: The LAist
+
+The proposed Right To Counsel program would give low-income renters in unincorporated L.A. County a free eviction attorney starting next year. 
+
+<https://laist.com/news/housing-homelessness/los-angeles-county-right-to-counsel-eviction-court-vote-attorney-tenant-renter-landlord-housing>
+
+---
+
+## UCLA promotes language learning engagement amid decreased national enrollment
+
+date: 2024-07-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Amid a downward trend in collegiate language course enrollments nationally, UCLA language programs and student organizations continue to push for active engagement in language learning.
+Language learning enrollment in higher education saw a significant drop in recent years, according to the latest Modern Language Association report released last November. 
+
+<https://dailybruin.com/2024/07/16/ucla-promotes-language-learning-engagement-amid-decreased-national-enrollment/>
+
+---
+
+## Prison Education Program offers joint classes for UCLA and incarcerated students
+
+date: 2024-07-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Prison Education Program is allowing UCLA students to learn with incarcerated students by visiting local prisons through a new class.
+The PEP offers various courses taught by UCLA faculty for incarcerated students, which are open to UCLA students. 
+
+<https://dailybruin.com/2024/07/16/prison-education-program-offers-joint-classes-for-ucla-and-incarcerated-students/>
+
+---
+
+## California Republicans applaud Trump’s VP pick of JD Vance at national convention
+
+date: 2024-07-16, updated: 2024-07-16, from: The LAist
+
+California Republicans cheered as former President Donald Trump announced Republican senator and MAGA favorite JD Vance as his running VP at the Republican National Convention. 
+
+<https://laist.com/news/politics/california-republicans-applaud-trumps-vp-pick-of-jd-vance-at-national-convention>
 
 ---
 
