@@ -1,11 +1,85 @@
 ---
 title: libraries 2024.29
-updated: 2024-07-15 08:45:30
+updated: 2024-07-16 08:12:31
 ---
 
 # libraries 2024.29
 
-(date: 2024-07-15 08:45:30)
+(date: 2024-07-16 08:12:31)
+
+---
+
+## What To Do Once the Paper is Retracted: NISO Issues Recommended Practice on the Communication of Retractions, Removals, and Expressions of Concern
+
+date: 2024-07-16, from: Scholarly Kitchen
+
+<p>New NISO guidance on clear consistent display of retraction information will reduce inadvertent reuse of erroneous research.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/07/16/niso-recommendation-retraction-communications/">What To Do Once the Paper is Retracted: NISO Issues Recommended Practice on the Communication of Retractions, Removals, and Expressions of Concern</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/07/16/niso-recommendation-retraction-communications/>
+
+---
+
+## Measuring distances in protein-RNA complexes
+
+date: 2024-07-16, from: ETH Zurich, recently added
+
+Sarnowski, Chris P.; Leitner, Alexander 
+
+<http://hdl.handle.net/20.500.11850/683144>
+
+---
+
+## The Blue Lagoon, by H. de Vere Stacpoole
+
+date: 2024-07-15, from: Standard Ebooks, new releaases
+
+After a shipwreck, two surviving children are stranded on an island paradise, experiencing its bounties and resources, facing the dangers of the natural world, and undergoing their own maturation and romance. 
+
+<https://standardebooks.org/ebooks/h-de-vere-stacpoole/the-blue-lagoon>
+
+---
+
+## Short Fiction, by Walter M. Miller Jr.
+
+date: 2024-07-15, from: Standard Ebooks, new releaases
+
+A collection of short fiction by Walter M. Miller Jr., ordered by date of original publication. 
+
+<https://standardebooks.org/ebooks/walter-m-miller-jr/short-fiction>
+
+---
+
+## Day in Review (July 15-18)
+
+date: 2024-07-15, from: Association of Research Libraries News
+
+<p>Last Updated on July 15, 2024, 2:14 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 16 &#124; Wednesday, July 17 &#124; Thursday, July 18 Monday, July 15...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-15-18/">Day in Review (July 15-18)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/day-in-review/day-in-review-july-15-18/>
+
+---
+
+## Mrs. Warren’s Profession, by George Bernard Shaw
+
+date: 2024-07-15, from: Standard Ebooks, new releaases
+
+A young woman learns a secret about her mother’s past and must decide what it means for her future. 
+
+<https://standardebooks.org/ebooks/george-bernard-shaw/mrs-warrens-profession>
+
+---
+
+## A Voice from the South, by Anna Julia Cooper
+
+date: 2024-07-15, from: Standard Ebooks, new releaases
+
+A Black woman from the American South philosophizes on various subjects. 
+
+<https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south>
 
 ---
 

@@ -1,11 +1,696 @@
 ---
 title: pacific 2024.29
-updated: 2024-07-15 08:45:25
+updated: 2024-07-16 08:12:27
 ---
 
 # pacific 2024.29
 
-(date: 2024-07-15 08:45:25)
+(date: 2024-07-16 08:12:27)
+
+---
+
+## Your Views for July 16
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>A &#8216;cultish&#8217; &#0010;obsession with assault rifles</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/opinion/your-views-for-july-16-7/>
+
+---
+
+## Congress can still do the right thing on bump stocks
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>Arecent Supreme Court decision striking down the Trump administration&#8217;s ban on bump stocks was a setback for public safety, but only a temporary one &#8212; provided Congress still has the courage to do the right thing.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/opinion/congress-can-still-do-the-right-thing-on-bump-stocks/>
+
+---
+
+## Nuclear energy gets a much-needed boost
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>President Joe Biden, as you&#8217;ve no doubt heard, has had a rough few weeks. Yet last Tuesday, he signed a bill into law that could well prove transformative for America&#8217;s energy future. Here&#8217;s hoping &#8212; whatever happens in November&#8217;s election &#8212; that more progress lies ahead. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/opinion/nuclear-energy-gets-a-much-needed-boost/>
+
+---
+
+## US Justice Department to appeal ruling dismissing Trump documents case
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>A U.S. judge in Florida on Monday dismissed the criminal case accusing Donald Trump of illegally keeping classified documents after leaving office, handing the Republican former president another major legal victory as he seeks a return to the White House.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/nation-world-news/us-justice-department-to-appeal-ruling-dismissing-trump-documents-case/>
+
+---
+
+## Trump rally gunman ‘didn’t want attention’ in school, classmates said
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>BETHEL PARK, Pa. &#8212; Before he climbed onto a rooftop and added his name to America&#8217;s bloody history of would-be presidential assassins, Thomas Crooks, 20, seemed to try to shrink from view.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/nation-world-news/trump-rally-gunman-didnt-want-attention-in-school-classmates-said/>
+
+---
+
+## Trump appears with bandaged ear at RNC, names Vance as running mate
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>MILWAUKEE &#8212; Donald Trump made a triumphant entrance during the first night of the Republican National Convention on Monday, receiving a raucous ovation from the party faithful two days after a would-be assassin&#8217;s bullet grazed his right ear. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/nation-world-news/trump-appears-with-bandaged-ear-at-rnc-names-vance-as-running-mate/>
+
+---
+
+## Elon Musk allies help start pro-Trump super PAC
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>Some of Elon Musk&#8217;s closest friends have helped start a new super political action committee meant to help former President Donald Trump, creating an avenue for Musk and his $250 billion fortune to potentially play a significant role in the 2024 presidential race.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/nation-world-news/elon-musk-allies-help-start-pro-trump-super-pac/>
+
+---
+
+## Ukraine battles to contain Russian advances across the front
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Russian forces over the weekend pushed into Urozhaine, a southern village won back by Ukraine last summer, the latest in a series of slow but steady advances that are reversing hard-won Ukrainian victories.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/nation-world-news/ukraine-battles-to-contain-russian-advances-across-the-front/>
+
+---
+
+## Israel launches new Gaza strikes after weekend attack kills scores in safe zone
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/GAZA &#8212; Israel struck the southern and central Gaza Strip on Monday to put more pressure on Hamas, following a weekend strike targeting the militant group&#8217;s leadership, which killed scores of Palestinians who had sought shelter in a makeshift camp. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/nation-world-news/israel-launches-new-gaza-strikes-after-weekend-attack-kills-scores-in-safe-zone/>
+
+---
+
+## Merchants have mixed views about county homeless camp
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>Some downtown Hilo business owners are conflicted about a temporary shelter erected on Ponahawai Street to house the area&#8217;s homeless population.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/hawaii-news/merchants-have-mixed-views-about-county-homeless-camp/>
+
+---
+
+## The gunshots rang out. Then the conspiracy theories erupted online.
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>Four minutes after the first report of a shooting at a rally for Donald Trump on Saturday, an anonymous account on the social platform X posted, &#8220;Joe Biden&#8217;s antifa shot President Trump.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/nation-world-news/the-gunshots-rang-out-then-the-conspiracy-theories-erupted-online/>
+
+---
+
+## Protesters march in Milwaukee as Republicans meet at national convention
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>MILWAUKEE &#8212; Organizers had predicted that the left-leaning protesters who gathered in Milwaukee on Monday, as the Republican National Convention began, would number well into the thousands.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/nation-world-news/protesters-march-in-milwaukee-as-republicans-meet-at-national-convention/>
+
+---
+
+## Obituaries for July 16
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>Kevin Masayoshi Araki, 54, of Hilo, formerly of Arizona, died May 10 at Hilo Benioff Medical Center. Born in Hilo, he was a resort hotel bartender and cook, and a U.S. Marine Corps Persian Gulf War veteran. Private services held. Survived by sisters, Paulette Nagata of Honokaa, Darlene Varize and Burnalyn (Benny) Yee of Keaau, Terry (Francis) Tajon and Laureen (Delis) Estabilio of Hilo; brother, Benedict Shon Jr. of Pepeekeo; aunts, uncles, cousins, nieces and nephews. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/obituaries/obituaries-for-july-16-11/>
+
+---
+
+## Biden says it was a mistake to say he wanted to put Trump in a ‘bull’s-eye’
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden said Monday that it was &#8220;a mistake&#8221; to say that he wanted to put former President Donald Trump back in &#8220;a bull&#8217;s-eye&#8221; but defended his descriptions of his rival in the 2024 election as a threat to the foundations of the nation&#8217;s democracy.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/nation-world-news/biden-says-it-was-a-mistake-to-say-he-wanted-to-put-trump-in-a-bulls-eye/>
+
+---
+
+## Amazon Prime Day sales to hit record $14 billion, data firm says
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>Shoppers are likely to spend roughly $14 billion during Amazon&#8217;s Prime Day two-day shopping event this week, according to projections from Adobe Analytics, a firm that studies e-commerce transaction data. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/nation-world-news/amazon-prime-day-sales-to-hit-record-14-billion-data-firm-says/>
+
+---
+
+## Trial to decide NRA’s financial future begins in Manhattan
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The former board president of the National Rifle Association spent Monday on a witness stand trying to ward off an effort by New York&#8217;s attorney general, Letitia James, to have an outside monitor appointed to oversee the gun group.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/nation-world-news/trial-to-decide-nras-financial-future-begins-in-manhattan/>
+
+---
+
+## Beloved Oahu surfer and lifeguard Tamayo Perry is celebrated
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>The celebration of life for Ocean Safety lifeguard and professional surfer Tamayo Perry on Sunday drew more laughter than tears as friends and family paid tribute to a man who bubbled over with happiness from all the earthly goals that he had achieved and his certainty that he had a future in heaven.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/hawaii-news/beloved-oahu-surfer-and-lifeguard-tamayo-perry-is-celebrated/>
+
+---
+
+## Harris outdoes Biden in 2 state polls but has her own weaknesses
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>Just before a gunman fired at Donald Trump at a Pennsylvania rally Saturday, we concluded a new set of New York Times/Siena College polls of Pennsylvania and Virginia. While the polls were completed before the shooting, they still offer context about the state of the race.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/nation-world-news/harris-outdoes-biden-in-2-state-polls-but-has-her-own-weaknesses/>
+
+---
+
+## Let’s Talk Food: Foods of Indonesia
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>The foods of Indonesia are very interesting and rich in history.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/features/lets-talk-food-foods-of-indonesia/>
+
+---
+
+## Tsai:   Poaching is a problem for Mountain West football teams
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>LAS VEGAS &#8212; Thor was set to hammer punts for the University of Hawaii football team this season.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/sports/tsai-poaching-is-a-problem-for-mountain-west-football-teams/>
+
+---
+
+## UHH: Vulcans soccer’s 17-game schedule released, men’s soccer ID camp coming up
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; One year after posting the third double-digit win season in program history, the Hawai&#8217;i Hilo men&#8217;s soccer Vulcans will embark on a 17-game regular season schedule in the upcoming fall.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/sports/uhh-vulcans-soccers-17-game-schedule-released-mens-soccer-id-camp-coming-up/>
+
+---
+
+## The fighting spirit: Toughman Hawaii qualifier a huge success in Hilo
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; Fighters from around the Aloha State made their way to Hilo over the weekend to compete in the largest international youth kickboxing tournament Hawaii has ever seen. Saturday&#8217;s Toughman Hawaii&#8217;s Next Generation Interisland Qualifier (for keiki fighters aged 6-18) at the Hilo Civic proved to live up to every bit of what it was hyped to be.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/sports/the-fighting-spirit-toughman-hawaii-qualifier-a-huge-success-in-hilo/>
+
+---
+
+## Lomavita, Shojinaga drafted into MLB
+
+date: 2024-07-16, from: Hawaii Tribune Harold
+
+
+				<p>Saint Louis alum Caleb Lomavita, who turned down a significant professional contract offer out of high school to play three seasons at California, was rewarded for that decision.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/16/sports/lomavita-shojinaga-drafted-into-mlb/>
+
+---
+
+## Whipps condemns assassination attempt on Trump
+
+date: 2024-07-16, from: Island Times
+
+<figure><img width="497" height="696" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?w=497&amp;ssl=1 497w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?resize=214%2C300&amp;ssl=1 214w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?resize=400%2C560&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71308" data-permalink="https://islandtimes.org/whipps-condemns-assassination-attempt-on-trump/surangel_whipps_jr-_at_japan-palau_summit_september_2022/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" data-orig-size="497,696" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;7.1&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS R5&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1662694309&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;109&quot;,&quot;iso&quot;:&quot;8000&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022" data-image-description="" data-image-caption="&lt;p&gt;President Whipps Jr.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=214%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Palau President Surangel Whipps Jr. had issued a statement condemning the attempted assassination of former United States President Donald Trump. Trump was shot and injured during a campaign rally in Pennsylvania. Trump suffered a bullet wound in his ear. An audience, however, died as a result and the gunman was shot by the Secret Service. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-condemns-assassination-attempt-on-trump/">Whipps condemns assassination attempt on Trump</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/whipps-condemns-assassination-attempt-on-trump/>
+
+---
+
+## Ivan Kelulau Tewid Charged in Manslaughter Case
+
+date: 2024-07-16, from: Island Times
+
+<p>Koror, Palau &#8211; Ivan Kelulau Tewid was indicted on a felony manslaughter charge in connection with the death of Ms. Kedoi Meyar of Meyuns, Koror, on May 31, 2024. The indictment also includes charges of first-degree assault, physical abuse of a family or household member, and failure to report a wound or death, all stemming [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ivan-kelulau-tewid-charged-in-manslaughter-case/">Ivan Kelulau Tewid Charged in Manslaughter Case</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ivan-kelulau-tewid-charged-in-manslaughter-case/>
+
+---
+
+## Remengesau Faces Press After Four-Year Hiatus, Addresses Key Issues in Presidential Bid
+
+date: 2024-07-16, from: Island Times
+
+<figure><img width="800" height="1022" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/800px-Tommy_Remengesau_2016.jpg?fit=800%2C1022&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/800px-Tommy_Remengesau_2016.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/800px-Tommy_Remengesau_2016.jpg?resize=235%2C300&amp;ssl=1 235w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/800px-Tommy_Remengesau_2016.jpg?resize=768%2C981&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/800px-Tommy_Remengesau_2016.jpg?resize=400%2C511&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/800px-Tommy_Remengesau_2016.jpg?resize=706%2C902&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/800px-Tommy_Remengesau_2016.jpg?fit=800%2C1022&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71304" data-permalink="https://islandtimes.org/remengesau-faces-press-after-four-year-hiatus-addresses-key-issues-in-presidential-bid/800px-tommy_remengesau_2016/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/800px-Tommy_Remengesau_2016.jpg?fit=800%2C1022&amp;ssl=1" data-orig-size="800,1022" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="800px-Tommy_Remengesau_2016" data-image-description="" data-image-caption="&lt;p&gt;Former President Remengesau Jr.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/800px-Tommy_Remengesau_2016.jpg?fit=235%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/800px-Tommy_Remengesau_2016.jpg?fit=780%2C996&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>(Koror, Palau)Former President Tommy E. Remengesau Jr. faced the press on July 12 for the first time in nearly four years, addressing questions about his decision to run for the Palau presidency again. Journalists from various media outlets in Palau inquired about his perspectives on critical issues affecting the nation. Since announcing his candidacy in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/remengesau-faces-press-after-four-year-hiatus-addresses-key-issues-in-presidential-bid/">Remengesau Faces Press After Four-Year Hiatus, Addresses Key Issues in Presidential Bid</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/remengesau-faces-press-after-four-year-hiatus-addresses-key-issues-in-presidential-bid/>
+
+---
+
+## Ambassador Jessica C. Lee of the Republic of China (Taiwan) hands over an ambulance to Hon. Uduch Sengebau Senior, Vice President and Minister of Justice
+
+date: 2024-07-16, from: Island Times
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?w=1271&amp;ssl=1 1271w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71301" data-permalink="https://islandtimes.org/ambassador-jessica-c-lee-of-the-republic-of-china-taiwan-hands-over-an-ambulance-to-hon-uduch-sengebau-senior-vice-president-and-minister-of-justice/taiwan-donates-ambulance/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?fit=1271%2C847&amp;ssl=1" data-orig-size="1271,847" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Taiwan donates Ambulance" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?fit=780%2C519&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Jefferson Eriich, Chief of the fire and rescue division, Bureau of the Public Safety, Ministry of Justice, pointed out that the ambulance is fully equipped, including oxygen tanks, BP Monitor, Extrication devices, Suction set, stair chair, etc. The emergency rescue team can hit the road at any time for missions. After the donation ceremony, Chief [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ambassador-jessica-c-lee-of-the-republic-of-china-taiwan-hands-over-an-ambulance-to-hon-uduch-sengebau-senior-vice-president-and-minister-of-justice/">Ambassador Jessica C. Lee of the Republic of China (Taiwan) hands over an ambulance to Hon. Uduch Sengebau Senior, Vice President and Minister of Justice</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ambassador-jessica-c-lee-of-the-republic-of-china-taiwan-hands-over-an-ambulance-to-hon-uduch-sengebau-senior-vice-president-and-minister-of-justice/>
+
+---
+
+## Interim Special Prosecutor Handles Surge of Complaints Amid Legal Challenges
+
+date: 2024-07-16, from: Island Times
+
+<p>By: Olkeriil Eoghan Ngirudelsang (Koror, Palau) Interim Special Prosecutor Tamara Hutzler reported receiving 12 new complaints, including one just yesterday, during a phone interview. Hutzler inherited over a hundred cases from the previous special prosecutor. She has closed 46 cases, leaving 80 still open. Four cases involving alleged embezzlement and mismanagement of COVID-19 assistance funds [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/interim-special-prosecutor-handles-surge-of-complaints-amid-legal-challenges/">Interim Special Prosecutor Handles Surge of Complaints Amid Legal Challenges</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/interim-special-prosecutor-handles-surge-of-complaints-amid-legal-challenges/>
+
+---
+
+## Absentee Voting Sparks Debate in Palau Ahead of Election
+
+date: 2024-07-16, from: Island Times
+
+<p>By: Olkeriil Eoghan Ngirudelsang (Koror, Palau) With the election approaching in four months, the issue of absentee voting has resurfaced. Presidential candidate Tommy Remengesau emphasized the importance of voting in a recent interview, stating, &#8220;It is a right that every citizen of Palau should exercise.&#8221; He added, &#8220;Voting is crucial because Palau is their future; [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/absentee-voting-sparks-debate-in-palau-ahead-of-election/">Absentee Voting Sparks Debate in Palau Ahead of Election</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/absentee-voting-sparks-debate-in-palau-ahead-of-election/>
+
+---
+
+## Remengesau’s Presidential bid: Driven by Rising Costs and Social Issues
+
+date: 2024-07-16, from: Island Times
+
+<p>By: Leilani N. Reklai and Summer Kennard KOROR, Palau (July 12, 2024) — In a special press conference, former President Tommy Remengesau explained the reasons behind his decision to run for the presidency again. Remengesau opened by reflecting on the difficulty of his decision, emphasizing that he and his family had considered their public service [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/remengesaus-presidential-bid-driven-by-rising-costs-and-social-issues/">Remengesau’s Presidential bid: Driven by Rising Costs and Social Issues</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/remengesaus-presidential-bid-driven-by-rising-costs-and-social-issues/>
+
+---
+
+## Palau one of the quietest places in the world
+
+date: 2024-07-16, from: Island Times
+
+<p>Palau is named one of the quietest countries in the world compared to other nations, according to a report by Tempo. co. The list was based on the population density with Palau only having 10,051 in the latest United Nations estimates.&#160; The Vatican is the number 1 quietest country in the world with a small [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-one-of-the-quietest-places-in-the-world/">Palau one of the quietest places in the world</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-one-of-the-quietest-places-in-the-world/>
+
+---
+
+## President Whipps Leads Palau Delegation to PALM10 in Japan
+
+date: 2024-07-16, from: Island Times
+
+<p>TOKYO – President Surangel S. Whipps Jr. and First Lady Valerie Whipps arrived in Japan today to attend the 10th Pacific Islands Leaders Meeting (PALM10) with a delegation including Del. Noah Kemesong, Sen. Kerai Mariur, Gov. Eyos Rudimch, Gov. Sharp Sakuma, and Gov. Norman Ngiratecheboet, as well as ministers of state, MAFE and MHRCTD. President [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/president-whipps-leads-palau-delegation-to-palm10-in-japan/">President Whipps Leads Palau Delegation to PALM10 in Japan</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/president-whipps-leads-palau-delegation-to-palm10-in-japan/>
+
+---
+
+## BECOMING WHOLE
+
+date: 2024-07-16, from: Island Times
+
+<figure><img width="225" height="224" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?w=225&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71287" data-permalink="https://islandtimes.org/becoming-whole-2/images-2-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1" data-orig-size="225,224" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (2)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Unless you learn to face your own shadows, you will continue to see them in others because the world outside of you is only a reflection of the world inside of you. -Anonymous I was drawn to Carl Jung&#8217;s teaching when he said &#8220;What if I were the least of these?&#8221; He was reflecting on [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/becoming-whole-2/">BECOMING WHOLE </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/becoming-whole-2/>
+
+---
+
+## Global goal of tripling renewables by 2030 still out of reach, says IRENA
+
+date: 2024-07-16, from: Island Times
+
+<figure><img width="512" height="512" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?fit=512%2C512&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?w=512&amp;ssl=1 512w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?fit=512%2C512&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71285" data-permalink="https://islandtimes.org/global-goal-of-tripling-renewables-by-2030-still-out-of-reach-says-irena/attachment/1736168/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?fit=512%2C512&amp;ssl=1" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="1736168" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?fit=512%2C512&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By Daisy Clague ABU DHABI (CLIMATE HOME) &#8212; Despite growing at an unprecedented rate last year, renewable energy sources are still not being deployed quickly enough to put the world on track to meet an international goal of tripling renewables by 2030, new data shows. At the COP28 climate summit in Dubai in 2023, nearly [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/global-goal-of-tripling-renewables-by-2030-still-out-of-reach-says-irena/">Global goal of tripling renewables by 2030 still out of reach, says IRENA </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/global-goal-of-tripling-renewables-by-2030-still-out-of-reach-says-irena/>
+
+---
+
+## China inks closer fishery ties with Kiribati, including deal involving controversy-plagued Ocean Family
+
+date: 2024-07-16, from: Island Times
+
+<p>TARAWA, 12 JULY 2024 (SEAFOOD SOURCE) &#8212; China has signed a memorandum of understanding for a “Blue Partnership” with the Pacific Island nation of Kiribati. Kiribati Fisheries and Marine Resources Development Minister Ribanatak Siwo signed the agreement after meeting with Sun Shuxian, director of China’s State Oceanic Administration and vice minister of China’s Ministry of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/china-inks-closer-fishery-ties-with-kiribati-including-deal-involving-controversy-plagued-ocean-family/">China inks closer fishery ties with Kiribati, including deal involving controversy-plagued Ocean Family</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/china-inks-closer-fishery-ties-with-kiribati-including-deal-involving-controversy-plagued-ocean-family/>
+
+---
+
+## ‘Culture plays a big part’: Pacific female journalists face harassment and worse
+
+date: 2024-07-16, from: Island Times
+
+<p>SUVA, 15 JULY 2024 (RNZ PACIFIC) &#8212; Delegates at a Pacific media conference in Fiji two weeks ago heard harrowing stories of female reporters facing threats of violence and harassment. This raised the question: is enough being done to protect female reporters in the Pacific region? In 2022, the Fiji Women&#8217;s Rights Movement, in partnership [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/culture-plays-a-big-part-pacific-female-journalists-face-harassment-and-worse/">&#8216;Culture plays a big part&#8217;: Pacific female journalists face harassment and worse</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/culture-plays-a-big-part-pacific-female-journalists-face-harassment-and-worse/>
+
+---
+
+## CNMI, Guam lawmakers propose joint Marianas visa for both territories
+
+date: 2024-07-16, from: Island Times
+
+<p>SAIPAN/HAGATNA, 15 JULY 2024 (MARIANAS VARIETY) &#8212; The Marianas Islands Legislature Association (MILA) has adopted a resolution seeking to replace the CNMI’s foreign worker programme with a joint Marianas visa tailored to meet the unique needs of both Guam and the Northern Mariana Islands. MILA unanimously passed Resolution 2-GA-05, which CNMI Rep. Ed. Propst introduced [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/cnmi-guam-lawmakers-propose-joint-marianas-visa-for-both-territories/">CNMI, Guam lawmakers propose joint Marianas visa for both territories</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/cnmi-guam-lawmakers-propose-joint-marianas-visa-for-both-territories/>
+
+---
+
+## Who was Thomas Matthew Crooks? What we know about the Donald Trump rally shooter
+
+date: 2024-07-16, from: Island Times
+
+<p>By&#160;Annika Burgess (ABC-Australia) A 20-year-old man from Pennsylvania has been identified as the suspect who attempted to assassinate Donald Trump at a political rally in the United States, law enforcement officials said. Thomas Matthew Crooks has been named as the &#8220;subject involved&#8221; in the incident, the FBI said in a statement. Crooks, who was killed [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/who-was-thomas-matthew-crooks-what-we-know-about-the-donald-trump-rally-shooter/">Who was Thomas Matthew Crooks? What we know about the Donald Trump rally shooter</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/who-was-thomas-matthew-crooks-what-we-know-about-the-donald-trump-rally-shooter/>
+
+---
+
+## Belau Youth Games Closing Ceremony with awards and recognition of STUDENTS ATHLETES
+
+date: 2024-07-16, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71269" data-permalink="https://islandtimes.org/belau-youth-games-closing-ceremony-with-awards-and-recognition-of-students-athletes/group-space-gym-photo/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?fit=2048%2C1536&amp;ssl=1" data-orig-size="2048,1536" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="group space gym photo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?fit=780%2C585&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>The Belau Youth Games and Festival, featuring over 400 student athletes participating in 11 sporting events, held its closing ceremony on Saturday July 13 at the Palau National Gymnasium. The sports events were held at various sports venues in Koror and Airai, and the Youth Games offered numerous activities and opportunities for learning different sports [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/belau-youth-games-closing-ceremony-with-awards-and-recognition-of-students-athletes/">Belau Youth Games Closing Ceremony with awards and recognition of STUDENTS ATHLETES</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/belau-youth-games-closing-ceremony-with-awards-and-recognition-of-students-athletes/>
+
+---
+
+## PSFA Celebrates Akitaya atTekoi ‘L Beluu Fishing Derby
+
+date: 2024-07-16, from: Island Times
+
+<figure><img width="1024" height="746" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?fit=1024%2C746&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=300%2C219&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=1024%2C746&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=768%2C559&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=1200%2C874&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=400%2C291&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=706%2C514&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?fit=1024%2C746&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71267" data-permalink="https://islandtimes.org/psfa-celebrates-akitaya-attekoi-l-beluu-fishing-derby/20240708_press_psfa_tekoilbeluu/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?fit=1477%2C1076&amp;ssl=1" data-orig-size="1477,1076" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;20240708_PRESS_PSFA_TEKOILBELUU&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20240708_PRESS_PSFA_TEKOILBELUU" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?fit=300%2C219&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?fit=780%2C568&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Drop Off, Koror, Palau &#8211; In honor of a beloved fisher, congressman, athlete, youth advocate,and active member of the Palauan community, the Palau Sports Fishing Association held the Tekoi ‘L Beluu Fishing Derby to celebrate the life of the late Senator Regis Akitaya. Eachstate was asked to sponsor a team for this first-of-its-kind Tekoi ‘L [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/psfa-celebrates-akitaya-attekoi-l-beluu-fishing-derby/">PSFA Celebrates Akitaya atTekoi ‘L Beluu Fishing Derby</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/psfa-celebrates-akitaya-attekoi-l-beluu-fishing-derby/>
+
+---
+
+## Australia to fix Palau's hospital pending plans to build a new medical facility 
+
+date: 2024-07-16, from: Pacific Island Times
+
+By Ron Rocky Coloma The Australian Embassy has launched a major project to refurbish the Belau National Hospital in Palau to extend the... 
+
+<https://www.pacificislandtimes.com/post/australia-to-fix-palau-s-hospital-pending-plans-to-build-a-new-medical-facility>
+
+---
+
+## Kapiʻolani CC, partners aim to educate students in STEM opportunities
+
+date: 2024-07-16, from: University of Hawaiʻi News
+
+<p>A new project aims to provide 300 <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> students with local, hands-on STEM opportunities.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/15/kapiolani-cc-partners-stem-opportunities/">Kapiʻolani <abbr>CC</abbr>, partners aim to educate students in <abbr>STEM</abbr> opportunities</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/15/kapiolani-cc-partners-stem-opportunities/>
+
+---
+
+## Vulcans student-athletes set new academic record
+
+date: 2024-07-16, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo posted a 3.284 combined <abbr>GPA</abbr> for the 2023&#8211;24 school year, a new Vulcan high.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/15/vulcans-student-athletes-academic-record/">Vulcans student-athletes set new academic record</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/15/vulcans-student-athletes-academic-record/>
+
+---
+
+## Trump enlists J.D. Vance for vice president
+
+date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
+
+MILWAUKEE (Reuters) — Donald Trump chose Ohio U.S. Senator J.D. Vance to be his vice presidential running mate, as the Republican Party officially nominated the former president to run again for the White House on Monday at the start of the party's national convention in Milwaukee. 
+
+<https://www.mvariety.com/news/national/trump-enlists-j-d-vance-for-vice-president/article_3ad3e3e0-4312-11ef-bfa0-d777b5d09293.html>
+
+---
+
+## Bill seeks to make abandoned Yigo raceway available for Guam motorsports 
+
+date: 2024-07-16, from: Pacific Island Times
+
+By Pacific Island Times News Staff Sen. Amanda Shelton introduced a bill authorizing the Chamorro Land Trust Commission to lease all or a... 
+
+<https://www.pacificislandtimes.com/post/bill-seeks-to-make-abandoned-yigo-raceway-available-for-guam-motorsports>
+
+---
+
+## UH Mānoa men’s basketball receives academic accolades
+
+date: 2024-07-16, from: University of Hawaiʻi News
+
+<p>The Rainbow Warriors earned recognition from the National Association of Basketball Coaches for their achievements in the classroom.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/15/uh-manoa-mens-basketball-academic-accolades/"><abbr>UH</abbr> Mānoa men’s basketball receives academic accolades</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/15/uh-manoa-mens-basketball-academic-accolades/>
+
+---
+
+## Ranches, Oki, Otani earn national scholar team honors
+
+date: 2024-07-16, from: University of Hawaiʻi News
+
+<p>The trio was among 1,497 women’s collegiate golfers recognized for achieving a cumulative <abbr>GPA</abbr> of 3.50 or higher.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/15/ranches-oki-otani-national-scholar-honors/">Ranches, Oki, Otani earn national scholar team honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/15/ranches-oki-otani-national-scholar-honors/>
+
+---
+
+## Miss Hawaiʻi Volunteer 2024: Merging passion and purpose at UH
+
+date: 2024-07-16, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa student Makenna Kinsler crowned Miss <span aria-label="Hawaii">Hawai&#699;i</span> Volunteer 2024.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/15/miss-hawaii-volunteer-2024/">Miss Hawaiʻi Volunteer 2024: Merging passion and purpose at <abbr>UH</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/15/miss-hawaii-volunteer-2024/>
+
+---
+
+## Frequent flyers: Guam governor, lt. gov under fire for traveling too much
+
+date: 2024-07-15, from: Pacific Island Times
+
+Barnett: "I’ve lost track of how many times we’ve had an acting governor or acting lt. governor." By Pacific Island Times News Staff Sen.... 
+
+<https://www.pacificislandtimes.com/post/increased-travels-keep-guam-leaders-from-their-offices>
+
+---
+
+## UH to study Lahaina wildfire response and impact on residents
+
+date: 2024-07-15, from: University of Hawaiʻi News
+
+<p>The $3.8 million, 5-year study is funded by the National Institutes of Health.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/15/lahaina-wildfire-response-impact-study/"><abbr>UH</abbr> to study Lahaina wildfire response and impact on residents</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/15/lahaina-wildfire-response-impact-study/>
+
+---
+
+## Japan bags three doubles titles
+
+date: 2024-07-15, updated: 2024-07-16, from: Marianas Variety
+
+JAPAN showcased yet another dominant performance in the 2024 Dove Saipan International Tournament with three of its teams claiming the women’s doubles, men’s doubles and mixed doubles titles at the Gilbert C. Ada Gymnasium on Saturday. 
+
+<https://www.mvariety.com/sports/localsports/japan-bags-three-doubles-titles/article_9ac44bee-42bf-11ef-832a-cfdd72d101f1.html>
+
+---
+
+## FEATURE ǀ From firewood to stove top
+
+date: 2024-07-15, updated: 2024-07-16, from: Marianas Variety
+
+The following essay won first prize in the Northern Marianas Humanities Council’s 2024 My Marianas Writing Contest. 
+
+<https://www.mvariety.com/views/columnists/feature-from-firewood-to-stove-top/article_81d9d85a-42c0-11ef-b52a-37744ce31cb1.html>
+
+---
+
+## US trustee wants IPI’s Chapter 11 petition dismissed
+
+date: 2024-07-15, updated: 2024-07-16, from: Marianas Variety
+
+THE Office of the United States Trustee, through acting U.S. Trustee Tiffany L. Carroll, has requested the NMI bankruptcy court to dismiss Imperial Pacific International’s Chapter 11 petition. 
+
+<https://www.mvariety.com/news/local/us-trustee-wants-ipi-s-chapter-11-petition-dismissed/article_731cc7d6-42b7-11ef-b86d-0b26dff79f8d.html>
+
+---
+
+## Bench warrant leads to arrest of man with meth
+
+date: 2024-07-15, updated: 2024-07-16, from: Marianas Variety
+
+CNMI Chief Marshal Jason Tarkong executed an active bench warrant for James Basa Camacho on July 11, which led to the discovery of eleven Ziploc bags containing methamphetamine in Camacho’s possession. 
+
+<https://www.mvariety.com/news/local/bench-warrant-leads-to-arrest-of-man-with-meth/article_d86dbe24-42b7-11ef-ab35-3b07304577ca.html>
+
+---
+
+## DPL proposes changes to Managaha commercial regulations
+
+date: 2024-07-15, updated: 2024-07-16, from: Marianas Variety
+
+THE Department of Public Lands on Monday, July 15, issued a public notice regarding its proposal to amend the commercial rules and regulations governing Managaha. 
+
+<https://www.mvariety.com/news/local/dpl-proposes-changes-to-managaha-commercial-regulations/article_2fa72e18-42b9-11ef-b500-1b3c70cadd7e.html>
+
+---
+
+## There is still no final plan for rotation of PSS principals
+
+date: 2024-07-15, updated: 2024-07-16, from: Marianas Variety
+
+(PSS) — The office of Commissioner of Education Dr. Lawrence F. Camacho issued the following statement Monday: 
+
+<https://www.mvariety.com/news/local/there-is-still-no-final-plan-for-rotation-of-pss-principals/article_d04f77da-42b9-11ef-b86d-ab4d29dda387.html>
+
+---
+
+## MLB roundup: Orioles walk off Yankees with 3-run 9th
+
+date: 2024-07-15, updated: 2024-07-16, from: Marianas Variety
+
+(Reuters) —  Cedric Mullins ripped a two-out, two-run double in the bottom of a wild ninth inning as the Baltimore Orioles pulled out a 6-5 victory against the visiting New York Yankees on Sunday, taking a one-game lead in the American League East into the All-Star break. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-orioles-walk-off-yankees-with-3-run-9th/article_84419cb8-42bb-11ef-91cb-a3730c07b26c.html>
+
+---
+
+## Only Reels tops 40th International Fishing Derby
+
+date: 2024-07-15, updated: 2024-07-16, from: Marianas Variety
+
+AFTER a weekend of open water action during the Saipan Fishermen’s Association’s 40th Annual Saipan International Fishing Derby, Captain Aaron Benavente of the boat Only Reels took the grand prize for catching a billfish that weighed 211 pounds. 
+
+<https://www.mvariety.com/sports/localsports/only-reels-tops-40th-international-fishing-derby/article_2e370038-42c0-11ef-bb30-938c57ede951.html>
+
+---
+
+## Saipan resident wants to bring sound bath therapy to Marianas
+
+date: 2024-07-15, updated: 2024-07-16, from: Marianas Variety
+
+SAIPAN-BORN podcaster, self-love and business coach Asia Camacho Hilario is looking for a community partner to help bring sound bath therapy to a wider, local audience. 
+
+<https://www.mvariety.com/news/local/saipan-resident-wants-to-bring-sound-bath-therapy-to-marianas/article_e5845142-428d-11ef-96fd-03c02ecaabd3.html>
 
 ---
 
@@ -343,6 +1028,16 @@ date: 2024-07-14, updated: 2024-07-14, from: Marianas Variety
 (Reuters) — Corbin Carroll smacked two homers and drove in a career-high six runs and Jose Herrera reached base four times on three hits and a walk to help the Arizona Diamondbacks notch a 12-1 victory over the Toronto Blue Jays on Saturday night at Phoenix. 
 
 <https://www.mvariety.com/sports/nationalsports/corbin-carroll-leads-d-backs-past-jays/article_8940f7b6-41e1-11ef-9b8a-93ac35008701.html>
+
+---
+
+## Over $400M in US grants awarded to Marshall Islands and Palau since COFA aid renewals 
+
+date: 2024-07-14, from: Pacific Island Times
+
+By Pacific Island Times News Staff More than $400 million in fresh grants have been awarded to the Marshall Islands and Palau under the... 
+
+<https://www.pacificislandtimes.com/post/372-million-in-compact-funding-for-marshall-islands>
 
 ---
 

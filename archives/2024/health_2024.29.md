@@ -1,11 +1,51 @@
 ---
 title: health 2024.29
-updated: 2024-07-15 08:45:32
+updated: 2024-07-16 08:12:33
 ---
 
 # health 2024.29
 
-(date: 2024-07-15 08:45:32)
+(date: 2024-07-16 08:12:33)
+
+---
+
+## Treatment of infections caused by carbapenem-resistant Acinetobacter baumannii
+
+date: 2024-07-18, from: Frontiers in Cellular and Infection Microbiology
+
+Patients with severe carbapenem-resistant Acinetobacter baumannii (CRAB) infections currently face significant treatment challenges. When patients display signs of infection and the clinical suspicion of CRAB infections is high, appropriate treatment should be immediately provided. However, current treatment plans and clinical data for CRAB are limited. Inherent and acquired resistance mechanisms, as well as host factors, significantly restrict options for empirical medication. Moreover, inappropriate drug coverage can have detrimental effects on patients. Most existing studies have limitations, such as a restricted sample size, and are predominantly observational or non-randomized, which report significant variability in patient infection severity and comorbidities. Therefore, a gold-standard therapy remains lacking. Current and future treatment options of infections due to CRAB were described in this review. The dose and considerable side effects restrict treatment options for polymyxins, and high doses of ampicillin-sulbactam or tigecycline appear to be the best option at the time of initial treatment. Moreover, new drugs such as durlobactam and cefiderocol have substantial therapeutic capabilities and may be effective salvage treatments. Bacteriophages and antimicrobial peptides may serve as alternative treatment options in the near future. The advantages of a combination antimicrobial regimen appear to predominate those of a single regimen. Despite its significant nephrotoxicity, colistin is considered a primary treatment and is often used in combination with antimicrobials, such as tigecycline, ampicillin-sulbactam, meropenem, or fosfomycin. The Infectious Diseases Society of America (IDSA) has deemed high-dose ampicillin-sulbactam, which is typically combined with high-dose tigecycline, polymyxin, and other antibacterial agents, the best option for treating serious CRAB infections. A rational combination of drug use and the exploration of new therapeutic drugs can alleviate or prevent the effects of CRAB infections, shorten hospital stays, and reduce patient mortality. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1395260>
+
+---
+
+## Methylome-wide analysis in systemic microbial-induced experimental periodontal disease in mice with different susceptibility
+
+date: 2024-07-16, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveThe study delved into the epigenetic factors associated with periodontal disease in two lineages of mice, namely C57bl/6 and Balb/c. Its primary objective was to elucidate alterations in the methylome of mice with distinct genetic backgrounds following systemic microbial challenge, employing high-throughput DNA methylation analysis as the investigative tool.MethodsPorphyromonas gingivalis (Pg)was orally administered to induce periodontitis in both Balb/c and C57bl/6 lineage. After euthanasia, genomic DNA from both maxilla and blood were subjected to bisulfite conversion, PCR amplification and genome-wide DNA methylation analysis using the Ovation RRBS Methyl-Seq System coupled with the Illumina Infinium Mouse Methylation BeadChip.ResultsOf particular significance was the distinct methylation profile observed within the Pg-induced group of the Balb/c lineage, contrasting with both the control and Pg-induced groups of the C57bl/6 lineage. Utilizing rigorous filtering criteria, we successfully identified a substantial number of differentially methylated regions (DMRs) across various tissues and comparison groups, shedding light on the prevailing hypermethylation in non-induced cohorts and hypomethylation in induced groups. The comparison between blood and maxilla samples underscored the unique methylation patterns specific to the jaw tissue. Our comprehensive methylome analysis further unveiled statistically significant disparities, particularly within promoter regions, in several comparison groups.ConclusionThe differential DNA methylation patterns observed between C57bl/6 and Balb/c mouse lines suggest that epigenetic factors contribute to the variations in disease susceptibility. The identified differentially methylated regions associated with immune regulation and inflammatory response provide potential targets for further investigation. These findings emphasize the importance of considering epigenetic mechanisms in the development and progression of periodontitis. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1369226>
+
+---
+
+## Endophthalmitis: a bibliometric study and visualization analysis from 1993 to 2023
+
+date: 2024-07-16, from: Frontiers in Cellular and Infection Microbiology
+
+AimsThis study is designed to generalize and depict the research hotspots of endophthalmitis through bibliometric methods and software and analyze the evolutive tendency of the work on this severe disease over the past 30 years.MethodsThis study employed a rigorous bibliometric approach. We identified all endophthalmitis-related literature by conducting a comprehensive search of the Science Citation Index Expanded database under the Web of Science Core Collection. The data was then analyzed and visualized using CiteSpace and VOSviewer, two widely recognized software tools in the field of bibliometrics. CiteSpace was used to analyze the country distributions, dual map overlay of journals, keyword bursts, and co-cited references. VOSviewer was employed to describe the authors and co-cited authors, the journals, the co-cited journals, and the keywords co-occurrence network. This robust methodology ensures the reliability and validity of the study’s findings.ResultsA total of 2960 publications, including 2695 articles and 265 reviews, were included in this bibliometric study. There has been no shortage of endophthalmitis-related publications since 1993, with an apparent upward trend during recent years. Possible correlations with the COVID-19 pandemic are also analyzed. These studies were finished by 11,048 authors from 75 countries worldwide, with the United States in the lead. In the keyword co-occurrence network, except for the endophthalmitis term, cataract surgery becomes the keyword with the highest frequency. Different categories of endophthalmitis, including postoperative, post-injection, post-traumatic, and endogenous endophthalmitis, and antibacterial and anti-inflammatory therapies of infectious endophthalmitis, are discussed by categories. From the perspective of the timeline, postoperative and post-injection endophthalmitis were the dominant forms before and after the year 2000, respectively. Co-citation analyses reveal that the Endophthalmitis Vitrectomy Study (EVS) conducted in 1995 provides pivotal guidance for later research. Diverse pathogenic bacteria (e.g., Coagulase-negative Staphylococci, Propionibacterium acnes, Viridians Streptococci, and Bacillus cereus) or fungi (e.g., Candida, Aspergillus, and Fusarium) contribute to varying treatment principles and clinical prognosis, which should be taken seriously. In addition, intravitreal and intracameral antibiotics are the mainstay for treating and preventing infectious endophthalmitis, respectively.ConclusionOur bibliometric analysis provides an overview of dynamic evolution and structural relationships in the research field of endophthalmitis. The displayed hotspots and developmental directions have reference values for future investigation. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1355397>
+
+---
+
+## Rhino-orbital-cerebral mucormycosis caused by Rhizopus arrhizus diagnosis via metagenomics next-generation sequencing: a case report
+
+date: 2024-07-16, from: Frontiers in Cellular and Infection Microbiology
+
+Rhino-orbital-cerebral mucormycosis (ROCM) is a rare, invasive, and fatal fungal disease that is often easily misdiagnosed in the early stages due to the lack of specific clinical manifestations and adequate auxiliary examinations. Early diagnosis and timely therapy are essential for successful treatment. In this report, we presented a 46-year-old man with diabetes who experienced gradual vision loss, right ptosis, swelling, and headaches that progressively worsened to death within 4 days after admission. It was finally confirmed as a fungal Rhizopus arrhizus infection by metagenomics next-generation sequencing (mNGS). Our report has proved that mNGS testing should be strongly recommended in highly suspected patients. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1375058>
 
 ---
 

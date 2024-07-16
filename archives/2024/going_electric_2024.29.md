@@ -1,11 +1,489 @@
 ---
 title: going electric 2024.29
-updated: 2024-07-15 08:45:32
+updated: 2024-07-16 08:12:34
 ---
 
 # going electric 2024.29
 
-(date: 2024-07-15 08:45:32)
+(date: 2024-07-16 08:12:34)
+
+---
+
+## Tesla might have figured out longer-lasting manganese-rich batteries
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-4680-Battery-cell.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla might have figured out how to make manganese-rich battery cells last longer with doped cathode active material.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="371859" href="https://electrek.co/2024/07/16/tesla-might-have-figured-out-longer-lasting-manganese-rich-batteries/#more-371859" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/tesla-might-have-figured-out-longer-lasting-manganese-rich-batteries/>
+
+---
+
+## China's CATL Hints At EV Batteries That Last 16 Years
+
+date: 2024-07-16, from: Inside EVs News
+
+According to CATL, its "Long-Service-Life Battery" packs can last up to 16 years or 1.24 million miles. That's a lot of driving. 
+
+<https://insideevs.com/news/726654/catl-long-servicelife-battery-16years-2million-kilometers/>
+
+---
+
+## Husqvarna’s New Dirt Bike Wants to Shape the Next Generation of Racers
+
+date: 2024-07-16, from: Ride Apart, Electric Motorcycle News
+
+The TC 85 gets a bunch of updates for 2025, including a new frame and updated engine.  
+
+<https://www.rideapart.com/news/726605/2025-husqvarna-tc85-motocross-bike-unveiled/>
+
+---
+
+## Genesis is launching an exclusive luxury EV platform to close the gap with Tesla
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Genesis-GV60-new.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The luxury brand taking the US by storm has a new secret weapon. Genesis is developing a new EV platform to challenge luxury rivals like Tesla and BMW. Unlike the GV60, the new <a href="https://electrek.co/guides/genesis/">Genesis</a> EV platform is expected to be brand exclusive, separate from Hyundai models.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis,hyundai,hyundai-motor-group" data-layer-viewtype="unknown" data-post-id="371807" href="https://electrek.co/2024/07/16/genesis-launch-exclusive-luxury-ev-platform-challenge-tesla/#more-371807" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/genesis-launch-exclusive-luxury-ev-platform-challenge-tesla/>
+
+---
+
+## Baidu-backed JiYue brand will launch its 07 sedan in September with up to 545 miles of range
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/JiYue-07-sedan.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Media out of China reports that <a href="https://electrek.co/guides/jiyue/">JiYue’s</a> second all-electric model, the 07, has reached some local showrooms and will officially launch in September. Advertised as a fierce competitor to the Tesla Model 3, the JiYue 07 will arrive in multiple powertrain and battery size options, offering impressive (CLTC) range options.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="baidu,china,geely,jiyue,jiyue-07" data-layer-viewtype="unknown" data-post-id="371817" href="https://electrek.co/2024/07/16/baidu-jiyue-brand-will-launch-07-sedan-september-up-to-545-mile-range/#more-371817" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/baidu-jiyue-brand-will-launch-07-sedan-september-up-to-545-mile-range/>
+
+---
+
+## Forget Stanley Cups, Check Out These Suzuki Stainless Steel Tumblers
+
+date: 2024-07-16, from: Ride Apart, Electric Motorcycle News
+
+Double-wall insulation to keep your favorite beverages ice cold this summer. 
+
+<https://www.rideapart.com/news/726701/suzuki-katana-stainless-steel-tumbler/>
+
+---
+
+## Nissan Ariya Nismo Heads To Europe To Resurrect Performance Brand
+
+date: 2024-07-16, from: Inside EVs News
+
+With several performance tweaks, the go-fast Ariya crossover is the first Nismo-branded car in Europe since the 370Z went bust. 
+
+<https://insideevs.com/news/726776/nissan-ariya-nismo-ev-europe/>
+
+---
+
+## Wallke X3 Max: Shoving two motors in a full-suspension fat tire e-bike
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/wallke-x3-pro-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Wallke’s electric bikes <a href="https://electrek.co/2022/09/19/wallke-h6-review-fast-electric-bike/">have never shied away</a> from high-power motors or heavy duty frames. But with the Wallke X3 Max, the company doubled down to give us twice the motors for an all-wheel-drive ride.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,review" data-layer-viewtype="unknown" data-post-id="371551" href="https://electrek.co/2024/07/16/wallke-x3-max-shoving-two-motors-in-a-full-suspension-fat-tire-e-bike/#more-371551" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/wallke-x3-max-shoving-two-motors-in-a-full-suspension-fat-tire-e-bike/>
+
+---
+
+## This Chinese Motorcycle Company Is Selling a Honda Hunter Cub on Steroids
+
+date: 2024-07-16, from: Ride Apart, Electric Motorcycle News
+
+Leten’s Adventure Cub LT190 is loaded with tech—maybe too much tech. 
+
+<https://www.rideapart.com/news/726573/leten-lt190-adventure-cub/>
+
+---
+
+## The Lucid Air Just Hit A Huge EV Milestone
+
+date: 2024-07-16, from: Inside EVs News
+
+The EV startup announced some tweaks to its 2025 lineup. Most notably, the Air is now the country's most efficient EV by a wide margin. 
+
+<https://insideevs.com/news/726704/lucid-air-2025-efficiency-range/>
+
+---
+
+## Lucid confirms the 2025 Air Pure offers 5 miles per kWh, making it the most efficient car in the world
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/2025-Lucid-Air-pure.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lucid Motors shared details of a 2025 update to its Air Pure sedan today, which has achieved a landmark 5 miles of range per kWh of energy efficiency. Per <a href="https://electrek.co/guides/lucid-motors/">Lucid</a>, that figure solidifies the latest Air Pure as the most energy-efficient vehicle ever made. See more details of the 2025 Air lineup below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-air,lucid-air-pure,lucid-motors" data-layer-viewtype="unknown" data-post-id="371644" href="https://electrek.co/2024/07/16/lucid-2025-air-pure-offers-5-miles-per-kwh-most-efficient-car-in-world/#more-371644" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/lucid-2025-air-pure-offers-5-miles-per-kwh-most-efficient-car-in-world/>
+
+---
+
+## Electrek Formula Sun Grand Prix 2024: Live stream and schedule
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/53852490060_d7336d0506_k.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>After a challenging weekend and a half of “scrutineering,” teams are now beginning to tighten the last bolts ahead of the official start of the Electrek Formula Sun Grand Prix 2024. The event will kick off tomorrow, July 16, at 10 am CT at NCM Motorsports Park.</p>
+
+
+
+<p>FSGP is open to the public and completely free (you’ll be asked to sign a waiver at most); however, if you’re unable to attend, there are still a few ways you can follow along on the fun.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="371699" href="https://electrek.co/2024/07/16/electrek-formula-sun-grand-prix-2024-live-stream-and-schedule/#more-371699" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/electrek-formula-sun-grand-prix-2024-live-stream-and-schedule/>
+
+---
+
+## What Do You Think, Can This Snoopy Motorcycle Win An Off-Road Gymkhana?
+
+date: 2024-07-16, from: Ride Apart, Electric Motorcycle News
+
+Let's just say this Flying Ace wasn't exactly made for jumps. 
+
+<https://www.rideapart.com/news/726686/snoopy-bike-off-road-racing/>
+
+---
+
+## Porsche's New Macan Trim Addresses Its Biggest Problem
+
+date: 2024-07-16, from: Inside EVs News
+
+The newly introduced rear-wheel drive Porsche Macan is the cheapest of the bunch, but there’s also a new Macan 4S. 
+
+<https://insideevs.com/news/726721/porsche-macan-macan-4s-specs-price/>
+
+---
+
+## Porsche adds new RWD and 4S variants, off-road package to its electric Macan lineup [Videos]
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/electric-Porsche-Macan-4S-RWD.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With production of the all-electric Macan now underway in Germany,<a href="https://electrek.co/guides/porsche/"> Porsche</a> is launching two new variants to appeal to a broader customer base. The automaker has introduced a lighter RWD variant and a new dual-motor 4S version with an optional off-road design package.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="porsche,porsche-macan" data-layer-viewtype="unknown" data-post-id="371658" href="https://electrek.co/2024/07/16/porsche-adds-rwd-4s-variants-off-road-package-electric-macan-lineup/#more-371658" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/porsche-adds-rwd-4s-variants-off-road-package-electric-macan-lineup/>
+
+---
+
+## CFMoto Just Sorta Brought The Triumph Daytona 675R Back To Life
+
+date: 2024-07-16, from: Ride Apart, Electric Motorcycle News
+
+The new 675SR-R is poised to be CFMoto’s most performance-oriented model to date.  
+
+<https://www.rideapart.com/news/726567/cfmoto-675srr-unveiled/>
+
+---
+
+## Bucking the Trend, CFMoto Might Be Introducing a Sporty ATV
+
+date: 2024-07-16, from: Ride Apart, Electric Motorcycle News
+
+Yes, do it.  
+
+<https://www.rideapart.com/news/726679/cfmoto-sport-atv-quad-patent/>
+
+---
+
+## Will Audi Still Go All-Electric By 2026? It's Staying 'Flexible.'
+
+date: 2024-07-16, from: Inside EVs News
+
+“We have a perfect strategy to be flexible for the next 10 years," Audi's chairman told InsideEVs as it readies a new e-tron and gas sedan. 
+
+<https://insideevs.com/news/726706/audi-electric-2026-plan/>
+
+---
+
+## Prime Day Green Deals: EVs, power stations, tools, smart devices, appliances, more
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/amazon-prime-day-electrek.png?w=1600" /></div><p>Amazon  are officially rolling in! The two-day savings event has begun, bringing with it some of the absolute best Green Deals of the year – we’ve already seen numerous early deals having already dropped, while those same deals and new ones alike will continue pouring in over the next 48-hour period. We’ve got plenty of great opportunities to save big bucks on eco-friendly devices and equipment from your favorite brands, including EVs, power stations, electric tools, smart irrigation controllers, wood-burning grills and fire pits, and so much more. We’ve collected all these discounts together and curated this one-stop-shopping hub for you to peruse at your own convenience, which we will be updating regularly as new deals come in – but don’t dawdle too long, you’ll only have two days to take advantage of these offers!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="371705" href="https://electrek.co/2024/07/15/prime-day-green-deals-evs-power-stations-tools-smart-devices-appliances-more/#more-371705" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/15/prime-day-green-deals-evs-power-stations-tools-smart-devices-appliances-more/>
+
+---
+
+## Just after his huge stock grant, Elon Musk commits $45M/month to harm EVs
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/elon-alt-right-crowd.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla CEO Elon Musk, who said he would stay on the sidelines during this election, will spend $45 million per month to elect Donald Trump, a presidential candidate who has repeatedly <a href="https://electrek.co/2024/06/10/donald-trump-electric-car-rant-full-lies-hilarious-nonsense/">targeted EVs</a> during his campaign and who has promised to end EV incentives in exchange for <a href="https://electrek.co/2024/05/09/trump-reportedly-told-oil-execs-hell-end-electric-car-incentives-for-1-billion-in-donations/">a billion dollars in bribes from the oil industry.</a></p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,elon-musk,opinion" data-layer-viewtype="unknown" data-post-id="371731" href="https://electrek.co/2024/07/15/just-after-his-huge-stock-grant-elon-musk-commits-45mil-mo-to-harm-evs/#more-371731" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/15/just-after-his-huge-stock-grant-elon-musk-commits-45mil-mo-to-harm-evs/>
+
+---
+
+## Stellantis is offering a home charger or public charging credits for buying one of its BEVs
+
+date: 2024-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Stellantis-charger.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/stellantis/">Stellantis</a> has introduced a new demand lever to entice potential customers to buy one of its BEV models. When US consumers opt to buy a new EV, Stellantis is now offering the choice between a home charger or charge credits through its Free2Move program. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-chargers,ev-charging,stellantis" data-layer-viewtype="unknown" data-post-id="371710" href="https://electrek.co/2024/07/15/stellantis-offering-home-charger-public-charging-credits-for-buying-bevs/#more-371710" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/15/stellantis-offering-home-charger-public-charging-credits-for-buying-bevs/>
+
+---
+
+## GM Won't Hit 1 Million EV Target in 2025: 'Market Not Developing'
+
+date: 2024-07-15, from: Inside EVs News
+
+GM CEO Mary Barra announced that it won't hit its production capacity goal, but remains optimistic that EV market share will continue to grow. 
+
+<https://insideevs.com/news/726703/gm-barra-missed-goal-2025/>
+
+---
+
+## Diesel demand drops while commercial EV, electric semi markets grow
+
+date: 2024-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/WrongTurn_MAIN.jpg?quality=82&#038;strip=all&#038;w=1440" /></div><p>In this special vacation episode of <em>Quick Charge</em>, we explore the historic dive in global diesel demand, and whether it’s being caused inflation and a slowing economy or the rapid rise in EV sales displacing millions of gallons of oil demand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,diesel,electric-semi-truck,quick-charge" data-layer-viewtype="unknown" data-post-id="371536" href="https://electrek.co/2024/07/15/diesel-demand-drops-while-commercial-ev-electric-semi-markets-grow/#more-371536" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/15/diesel-demand-drops-while-commercial-ev-electric-semi-markets-grow/>
+
+---
+
+## Kia EV6 Owner Review After Two Years: Still 'A Really Good Option'
+
+date: 2024-07-15, from: Inside EVs News
+
+He's a gas-car guy who loves making videos about his modifications and builds. See why he's still a big Kia EV6 fan after two years.  
+
+<https://insideevs.com/news/726687/kia-ev6-owner-review-2022/>
+
+---
+
+## Genesis GV60 update caught testing with new headlights and front design in the US [Video]
+
+date: 2024-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Genesis-GV60-new.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The first fully electric Genesis is getting an upgrade. Ahead of its official debut, the <a href="https://electrek.co/guides/genesis-gv60/">Genesis GV60</a> update was spotted testing in the US, rocking new headlights and a redesigned front bumper (finally!). Check it out for yourself in the new video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis,genesis-gv60" data-layer-viewtype="unknown" data-post-id="371668" href="https://electrek.co/2024/07/15/genesis-gv60-caught-new-headlights-front-design-video/#more-371668" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/15/genesis-gv60-caught-new-headlights-front-design-video/>
+
+---
+
+## Elon Musk supports new VP candidate that would crush Tesla’s sales in the US
+
+date: 2024-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Elon-Musk-wrecking-ball.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk has announced his support to Donald Trump’s VP pick, Senator JD Vance. It’s hard to believe, considering Vance is pushing a bill that would crush Tesla’s sales in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="371667" href="https://electrek.co/2024/07/15/elon-musk-supports-new-vp-candidate-crush-tesla-sales-us/#more-371667" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/15/elon-musk-supports-new-vp-candidate-crush-tesla-sales-us/>
+
+---
+
+## Kia EV9: How Much Range Does It Have?
+
+date: 2024-07-15, from: Inside EVs News
+
+It depends on the version, the weather and how you drive it, but we break that all down for you here.  
+
+<https://insideevs.com/news/726683/kia-ev9-range/>
+
+---
+
+## Why Elon Musk Delayed The Tesla Robotaxi Event
+
+date: 2024-07-15, from: Inside EVs News
+
+Musk said the event will happen later than expected but didn't say exactly when.  
+
+<https://insideevs.com/news/726694/tesla-robotaxi-event-delayed-musk/>
+
+---
+
+## The Newest Tesla Model 3 Is A Screaming EV Deal For Range Lovers
+
+date: 2024-07-15, from: Inside EVs News
+
+Tesla's new Model 3 Long Range Rear-Wheel Drive offers the most miles per dollar on the EV market.  
+
+<https://insideevs.com/news/726688/tesla-model-3-range-deal/>
+
+---
+
+## Hyundai confirms new three-row electric SUV and updated IONIQ 5 are coming soon
+
+date: 2024-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Hyundai-three-row-electric-SUV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s official. Hyundai confirmed the news we’ve all been waiting for. The first three-row electric <a href="https://electrek.co/guides/hyundai/">Hyundai</a> SUV is coming to the US and will make its first appearance later this year. The new electric SUV will launch alongside an updated IONIQ 5 for Hyundai’s 2025 lineup.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="371638" href="https://electrek.co/2024/07/15/hyundai-confirms-three-row-electric-suv-new-ioniq-5-coming/#more-371638" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/15/hyundai-confirms-three-row-electric-suv-new-ioniq-5-coming/>
+
+---
+
+## The Average EV Owner Is Deeply Underwater On Their Loan
+
+date: 2024-07-15, from: Inside EVs News
+
+We knew the recent depreciation problems were having an impact, but the number is bigger than we expected. 
+
+<https://insideevs.com/news/726659/ev-negative-equity-trade-10000/>
+
+---
+
+## Worx Landroid robot mower at new low, EcoFlow’s final 24-hour power station flash sale, 1-day Rexing EV charger and adapter deals, more
+
+date: 2024-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/WORX-landroid-robot-lawn-mower.webp?w=1200" /></div><p>Well folks, its the calm before the proverbial savings storm that is Amazon’s Prime Day week, which will officially go live tomorrow morning, and we’ve got some great early discounts on some popular Green Deals to wet your whistle with today. Headlining the collection is the <a href="https://9to5toys.com/2024/07/15/early-prime-day-deals-take-450-off-worxs-landroid-s-20v-robotic-lawn-mower-at-new-550-low-more-from-750/">Worx Landroid Robotic Lawn Mowers</a> that have dropped back down to their lowest rates, with the <a href="https://9to5toys.com/2024/07/15/early-prime-day-deals-take-450-off-worxs-landroid-s-20v-robotic-lawn-mower-at-new-550-low-more-from-750/">S 20V 1/8-acre model</a> even hitting a <a href="https://9to5toys.com/2024/07/15/early-prime-day-deals-take-450-off-worxs-landroid-s-20v-robotic-lawn-mower-at-new-550-low-more-from-750/">new $550 low</a>. It is joined by the <a href="https://9to5toys.com/2024/07/15/ecoflows-final-24-hour-flash-sale-takes-up-to-899-off-two-power-station-bundles-starting-from-a-new-179-low/">final 24-hour flash sale of EcoFlow’s big Prime Day sale</a> that is taking up to $899 off two power station bundles, with the <a href="https://9to5toys.com/2024/07/15/ecoflows-final-24-hour-flash-sale-takes-up-to-899-off-two-power-station-bundles-starting-from-a-new-179-low/">RIVER 2 Portable Power Station</a> coming with a 45W solar panel for a <a href="https://9to5toys.com/2024/07/15/ecoflows-final-24-hour-flash-sale-takes-up-to-899-off-two-power-station-bundles-starting-from-a-new-179-low/">new $179 low</a>. Lastly, we’ve got a bunch of one-day Best Buy deals on a <a href="https://9to5toys.com/2024/07/15/rexings-j1772-level-2-portable-ev-charger-adds-versatility-to-your-setup-at-230-for-today-only-reg-320-more-from-45/">Rexing portable EV charger</a>, as well as <a href="https://9to5toys.com/2024/07/15/get-more-charging-access-with-rexings-j1772-to-tesla-ev-charger-adapter-at-new-45-low-more-from-150/">J1772 to Tesla adapters</a> starting from new lows of <a href="https://9to5toys.com/2024/07/15/get-more-charging-access-with-rexings-j1772-to-tesla-ev-charger-adapter-at-new-45-low-more-from-150/">$45</a>. Plus, all the other hangover Green Deals that are still alive and well.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="371606" href="https://electrek.co/2024/07/15/worx-landroid-robot-mowers-ecoflows-24-hour-flash-sale-rexing-ev-charger-and-adapter-more/#more-371606" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/15/worx-landroid-robot-mowers-ecoflows-24-hour-flash-sale-rexing-ev-charger-and-adapter-more/>
+
+---
+
+## ZEEKR shares details of its 009 MPV refresh ahead of global launch next week [Video]
+
+date: 2024-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/ZEEKR-009-MPV-both.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It has only been a year since ZEEKR launched its 009 multi-purpose vehicle (MPV), but the EV automaker is already on the cusp of launching a model refresh. The updated version comes in two different seat configurations and a massive battery that promises a leading range in its segment. <a href="https://electrek.co/guides/zeekr/">ZEEKR</a> is also hailing it as one of the safest and most environmentally friendly interiors for MPVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,zeekr,zeekr-009" data-layer-viewtype="unknown" data-post-id="371588" href="https://electrek.co/2024/07/15/zeekr-shares-details-009-mpv-refresh-global-launch-video/#more-371588" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/15/zeekr-shares-details-009-mpv-refresh-global-launch-video/>
+
+---
+
+## Elon Musk confirms Tesla Robotaxi delay, says front design change
+
+date: 2024-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-robotaxi.webp?w=1500" /></div><p>Elon Musk has confirmed that Tesla is delaying the unveiling of its Robotaxi and adds that he requested a front design change.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="371612" href="https://electrek.co/2024/07/15/elon-musk-confirms-tesla-robotaxi-delay-front-design-change/#more-371612" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/15/elon-musk-confirms-tesla-robotaxi-delay-front-design-change/>
+
+---
+
+## Nissan Ariya EV lease prices cut with up to $13,000 off MSRP, nearly the same as a Rogue
+
+date: 2024-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Nissan-Ariya-lease-prices-Rogue-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With up to $13,000 off MSRP, Nissan’s fully electric Ariya is cheaper to lease than ever. After introducing new summer discounts, the 2024 <a href="https://electrek.co/guides/nissan-ariya/">Nissan Ariya</a> lease prices are nearly identical to the Rogue. It’s even more affordable to lease than last year’s Ariya model.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,nissan-ariya" data-layer-viewtype="unknown" data-post-id="371604" href="https://electrek.co/2024/07/15/nissan-ariya-lease-prices-match-rogue-13k-off/#more-371604" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/15/nissan-ariya-lease-prices-match-rogue-13k-off/>
+
+---
+
+## Wrecked Tesla Cybertruck Becomes DIY Repair Project. Here’s How It’s Going So Far
+
+date: 2024-07-15, from: Inside EVs News
+
+The controversial EV was T-boned by a Ford Edge in an intersection. 
+
+<https://insideevs.com/news/726587/wrecked-tesla-cybertruck-diy-repair-video/>
+
+---
+
+## Kia believes it has an edge with electric vans as it preps for its first PBV launch
+
+date: 2024-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Kias-first-electric-van-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia is launching its first dedicated electric van next year to compete with Ford, Mercedes, and Stellantis. However, <a href="https://electrek.co/guides/kia/">Kia</a> believes it has an advantage with its new dedicated EV platform built from the ground up. Ahead of its official debut, Kia’s first EV van has already been spotted testing. Can Kia take the lead?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-pbv" data-layer-viewtype="unknown" data-post-id="371575" href="https://electrek.co/2024/07/15/kia-claims-edge-electric-vans-first-pbv-launch-looms/#more-371575" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/15/kia-claims-edge-electric-vans-first-pbv-launch-looms/>
+
+---
+
+## Genesis GV60 Magma Hot Version Coming In 2025
+
+date: 2024-07-15, from: Inside EVs News
+
+The GV60 will be the first to receive a Magma performance version, and we're expecting around 600 HP and an unforgettable paint job. 
+
+<https://insideevs.com/news/726622/genesis-gv60-magma-coming-2025/>
+
+---
+
+## NIO shows off its new ET9’s soccer skills and teases second-generation phone coming soon
+
+date: 2024-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/NIO-new-ET9-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>If you’re a fan of soccer (or football, depending on where you live), you’ve been blessed with some exciting championship matches around the world recently. To celebrate the beautiful game, <a href="https://electrek.co/guides/nio">NIO</a> has shown off some juggling, dribbling, and scoring skills of its new ET9 EV using its unique, fully-active suspension. See more in the videos below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nio,nio-et9,nio-phone" data-layer-viewtype="unknown" data-post-id="371569" href="https://electrek.co/2024/07/15/nio-luxury-et9-soccer-skills-teases-second-generation-phone-coming/#more-371569" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/15/nio-luxury-et9-soccer-skills-teases-second-generation-phone-coming/>
 
 ---
 

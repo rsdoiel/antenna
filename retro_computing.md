@@ -1,11 +1,41 @@
 ---
 title: retro computing 2024.29
-updated: 2024-07-15 08:45:31
+updated: 2024-07-16 08:12:33
 ---
 
 # retro computing 2024.29
 
-(date: 2024-07-15 08:45:31)
+(date: 2024-07-16 08:12:33)
+
+---
+
+## Vote for the July 2004 Plus Post Topic
+
+date: 2024-07-16, from: Computer ads from the Past
+
+If you are a paid subscriber, voting is open for one week for this month's topic 
+
+<https://computeradsfromthepast.substack.com/p/vote-for-the-july-2004-plus-post>
+
+---
+
+## Rougol Talk July 2024 - Nathan Atkinson
+
+date: 2024-07-16, from: Icon Bar, RISC OS News
+
+The July 2024 talk was a hybrid meeting featuring Nathan Atkinson talking about the coding group Visions of the Impossible and his general RISC OS experiences. 
+
+<http://www.iconbar.com/comments/rss/news2084.html>
+
+---
+
+## TUXEDO Computers Releases InfinityBook Pro 14 Gen9 Laptop
+
+date: 2024-07-15, from: Linux Magazine
+
+<p>Sporting either AMD or Intel CPUs, the TUXEDO InfinityBook Pro 14 is an extremely compact, lightweight, sturdy powerhouse.</p> 
+
+<http://www.linux-magazine.com/Online/News/TUXEDO-Computers-Releases-InfinityBook-Pro-14-Gen9-Laptop>
 
 ---
 
@@ -640,7 +670,7 @@ Finally, the tForth itself, which immediately follows the machine code trampolin
 <p>
 Our patcher will insert all of this into the 288 bytes at the end of display memory on disk. Since most of you don't have a Cat, here's a video of the picture disk in action.
 
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzn-KLTg74E7TWsU2wLPPY6CtLcav2bXQPZkkWnc8ziBFUcMjX-m5sODbm8fr5S9wGUgxnej9k8wtMdffIz1Q' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz-WPuG23m2a0AtEBosofb299jADM5LyLY9plreEdExMRo8fQ65Bj5eLWChgUxqCD_FpTU4RhAKBxcPAc3pEQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 
 We turn on the Cat, insert the Raskin picture disk and press USE FRONT-DISK. The disk loads, displaying our picture, and pauses with "press any key" and a beep. (The disk light remains on as a side effect since we haven't yet run the word that turns the disk drive off.) We press a key, loading completes, and the document appears. Next, we use SHIFT and the LEAP keys to scroll line by line, then LEAP to the word "Apple" forwards and back a few times (using USE FRONT-LEAP to leap again with the same search), LEAP to the word "Aza," and finally LEAP to the DOCUMENT/PAGE marker, which will eventually bring us at the bottom of the text. Sorry about the darkness and changing light levels, but it's hard to video a CRT with a Pixel 7 Pro.
 <p>
@@ -766,7 +796,7 @@ We highlight the entire text and do USE FRONT-ANSWER to define the words, and th
 <p>
 As a last convenience we enter and highlight the word <tt>catterm</tt> in the document so that you can just run it again from the editor by pressing USE FRONT-ANSWER. We save it to disk and create a disk image, and patch it. Here it is booting. I couldn't run to the workstation and type at the same time as I was filming, but you can see that it autostarts and cleanly returns to the editor. The CatTerm disk image is <a href="https://github.com/classilla/catbox/tree/main/examples/catterm">in the Catbox</a>.
 
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzjOQn1weRPvG7ekWKq1UoBMPqHr_BjVrmi1mgVoEx4BYtwL_D8YzAKaAKoP9eXrV0xxcS8PduiQ_qhrbueMg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyctmW3oEbPXC68vyCwIrk_ijSpbdeCtGBMWXSdYZbC86kQWGdHJxJchXNqZX1ocamFrp_eJvbydRxipijFvg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 
 I also demonstrate running it from the <tt>ok</tt> prompt by pressing SHIFT-USE FRONT-SPACE, entering <tt>page</tt>, entering <tt>catterm</tt>, and after pressing UNDO entering <tt>re</tt> to return to the editor. Everything works just as it should. Port speed and settings are configured with SETUP, just like everywhere else.
 <p>
@@ -980,7 +1010,7 @@ Accordingly, the problem I ran into with this hack was the drive couldn't reliab
 <p>
 Here's the finished product. Both disk images are <a href="https://github.com/classilla/catbox/tree/main/examples/slideshow">in the Catbox</a>.
 
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyIsMOqS0C44MpmKF5dd7qQmkBgSAQ3YVIB_Ci_YLg1NcjNSHkYVdAEmqsqsKaUxAqDEPjcnJ-fdF2KYYaOPQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwiWBUMXSNfNV5Tf-tnTv2QyxyEDgxL4JPjwWwuIVlvcmIthqlQOcB_65pW-XKZpu4aQc7UneirKEFjhXHX7g' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 
 This hack brings you the final iteration of <a href="https://github.com/classilla/catbox/blob/main/catcpic"><tt>catcpic</tt></a>, which now is a three-headed application. It requires your original eDSK and a properly formatted and inverted PBM, generates a nice randomized idtable so that your Cat can't confuse it with anything else (though you can pass it one in hex with <tt>-idtable=...</tt> if you want) and emits the resulting disk image to standard output. If you don't pass it a token in hex, it will install the "press any key" patch; if you do, and you specify <tt>-cold</tt>, you'll get a cold booter; otherwise you'll get a autostarter that will enable you to cleanly return to the editor.
 <p>

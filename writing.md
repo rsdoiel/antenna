@@ -1,11 +1,61 @@
 ---
 title: writing 2024.29
-updated: 2024-07-15 08:45:29
+updated: 2024-07-16 08:12:30
 ---
 
 # writing 2024.29
 
-(date: 2024-07-15 08:45:29)
+(date: 2024-07-16 08:12:30)
+
+---
+
+## New Books Video Up Now!
+
+date: 2024-07-16, from: Locus Magazine
+
+<p>Check out the latest top genre books hitting shelves now!</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2024/07/new-books-video-up-now/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/07/new-books-video-up-now/>
+
+---
+
+## Scriptnotes, Episode 646: Industry Software, Transcript
+
+date: 2024-07-15, from: John August blog
+
+The original post for this episode can be found here. John August: Hey, this is John. Heads up that today’s episode has just a little bit of swearing in it. Hello and welcome. My name is John August. Craig Mazin: My name is Craig Mazin. John: This is Episode 646 of Scriptnotes, a podcast about [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-646-industry-software-transcript">Scriptnotes, Episode 646: Industry Software, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-646-industry-software-transcript>
+
+---
+
+## Weekly Bestsellers, 15 July 2024
+
+date: 2024-07-15, from: Locus Magazine
+
+<div style="padding: 14px 0px 0px 0px; text-align: center;">
+<p>A new fantasy novel by K.X. Song, <b>The Night Ends with Fire</b> (Ace), debuts on three lists, ranking as high as #10 on the Publishers Weekly list.</p>
+<p>Meanwhile, <b>Powerless</b> and <b>Powerful</b> by Lauren Roberts have disappeared from New York Times&#8216; Young Adult Hardcover list, after ranking there for many weeks. With the publication of a third book in that series, <b>Reckless</b>, NYT has combined them into a single entry </p></div> <a href="https://locusmag.com/2024/07/weekly-bestsellers-15-july-2024/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/07/weekly-bestsellers-15-july-2024/>
+
+---
+
+## 2024 Sturgeon Award Finalists
+
+date: 2024-07-15, from: Locus Magazine
+
+<p>The finalists for the Theodore Sturgeon Memorial Award for the best short science fiction story have been announced by the Gunn Center for the Study of Science Fiction.</p>
+<div class="mynomorebulletlist">
+<ul>
+<li>“The Rainbow Ghosts”, Violet Allen (<strong>Luminescent Machinations: Queer Tales of</strong><strong> Monumental Invention</strong>)</li>
+<li>“Patsy Cline Sings Sweet Dreams to the Universe&#8221;, Beston Barnett (Strange Horizons 11/20/23)</li>
+<li>“The Unpastured Sea&#8221;, Gregory Feeley (Asimov’s 9-10/23)</li>
+<li>“Tantie Merle and the Farmhand 4200&#8243;, R.S.A. Garcia </li></ul></div> <a href="https://locusmag.com/2024/07/2024-sturgeon-award-finalists/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/07/2024-sturgeon-award-finalists/>
 
 ---
 

@@ -1,11 +1,134 @@
 ---
 title: central coast 2024.29
-updated: 2024-07-15 08:45:26
+updated: 2024-07-16 08:12:28
 ---
 
 # central coast 2024.29
 
-(date: 2024-07-15 08:45:26)
+(date: 2024-07-16 08:12:28)
+
+---
+
+## Violet and Her Ball
+
+date: 2024-07-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/052724-POD-Stacey-Carr.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Violet and her ball." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/052724-POD-Stacey-Carr.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/052724-POD-Stacey-Carr.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/052724-POD-Stacey-Carr.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/052724-POD-Stacey-Carr.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/052724-POD-Stacey-Carr.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/052724-POD-Stacey-Carr.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/052724-POD-Stacey-Carr.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/052724-POD-Stacey-Carr.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/052724-POD-Stacey-Carr.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/052724-POD-Stacey-Carr.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/052724-POD-Stacey-Carr.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/052724-POD-Stacey-Carr.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/052724-POD-Stacey-Carr.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/violet-and-her-ball/">Violet and Her Ball</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/violet-and-her-ball/>
+
+---
+
+## State Street Master Plan Effort Gets Stuck in Neutral Amid Complaints About Wasted Time
+
+date: 2024-07-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071524-State-Street-Master-Plan-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara&#039;s State Street." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071524-State-Street-Master-Plan-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071524-State-Street-Master-Plan-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071524-State-Street-Master-Plan-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071524-State-Street-Master-Plan-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071524-State-Street-Master-Plan-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071524-State-Street-Master-Plan-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071524-State-Street-Master-Plan-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071524-State-Street-Master-Plan-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071524-State-Street-Master-Plan-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071524-State-Street-Master-Plan-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It takes a lot to upset Roger Durling. The longtime executive director of the Santa Barbara International Film Festival reached his limit, however, at Monday night&#8217;s State Street Advisory Committee [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/stalled-process-over-future-of-state-street-fuels-complaints/">State Street Master Plan Effort Gets Stuck in Neutral Amid Complaints About Wasted Time</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/stalled-process-over-future-of-state-street-fuels-complaints/>
+
+---
+
+## Lompoc Man Arrested After Standoff at Ex-Girlfriend’s Home
+
+date: 2024-07-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A Lompoc man who showed up at his ex-girlfriend’s home in violation of a restraining order was arrested following a standoff that spanned several hours Monday.&#160; At approximately 11:15 a.m., [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lompoc-man-arrested-after-standoff-at-ex-girlfriends-home/">Lompoc Man Arrested After Standoff at Ex-Girlfriend&#8217;s Home</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/lompoc-man-arrested-after-standoff-at-ex-girlfriends-home/>
+
+---
+
+## Goleta Posts Update on Hollister Avenue Interim Striping Project
+
+date: 2024-07-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Crews will be working overnight tonight, 8 p.m.-6 a.m., Monday, July 15 installing green paint in portions of the new bicycle lanes on Hollister Avenue in Old Town Goleta. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-posts-update-on-hollister-avenue-interim-striping-project/">Goleta Posts Update on Hollister Avenue Interim Striping Project</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-posts-update-on-hollister-avenue-interim-striping-project/>
+
+---
+
+## Daughter Accused of Killing Mother in Vandenberg Village Homicide
+
+date: 2024-07-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The woman killed in a Vandenberg Village homicide over the weekend was the mother of the suspect arrested in the case, the Santa Barbara County Sheriff’s Office revealed on Monday.  [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/vandenberg-village-mother-named-as-homicide-victim/">Daughter Accused of Killing Mother in Vandenberg Village Homicide</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/vandenberg-village-mother-named-as-homicide-victim/>
+
+---
+
+## DignityMoves Lauded for Success of Its Local Interim Housing Villages
+
+date: 2024-07-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The California Chapter of the American Planning Association has recognized DignityMoves of Santa Barbara County for outstanding achievement in opportunity and empowerment. DignityMoves is a nonprofit dedicated to ending unsheltered [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dignitymoves-lauded-for-success-of-its-local-interim-housing-villages/">DignityMoves Lauded for Success of Its Local Interim Housing Villages</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dignitymoves-lauded-for-success-of-its-local-interim-housing-villages/>
+
+---
+
+## City Offers Nearly $250,000 in Cultural Arts Grants for Local Nonprofits
+
+date: 2024-07-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>As part of its commitment to a vibrant, sustainable local cultural sector and arts access for all, the city of Santa Barbara is investing nearly $250,000 into the community through [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/city-offers-nearly-250000-in-cultural-arts-grants-for-local-nonprofits/">City Offers Nearly $250,000 in Cultural Arts Grants for Local Nonprofits</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/city-offers-nearly-250000-in-cultural-arts-grants-for-local-nonprofits/>
+
+---
+
+## Santa Barbara Cottage Brain/Spinal Tumor Program Receives Gold Seal
+
+date: 2024-07-15, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara Cottage Hospital’s Brain &#38; Spinal Tumor Program has earned The Joint Commission’s (TJC) Gold Seal of Approval for Brain Tumor Certification. SBCH is the first hospital in California [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-cottage-brain-spinal-tumor-program-receives-gold-seal/">Santa Barbara Cottage Brain/Spinal Tumor Program Receives Gold Seal</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-cottage-brain-spinal-tumor-program-receives-gold-seal/>
+
+---
+
+## Lake Fire Spares Popular Figueroa Mountain Area Campgrounds
+
+date: 2024-07-15, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/lake.0711-11-1.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/lake.0711-11-1.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/lake.0711-11-1.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/lake.0711-11-1.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/lake.0711-11-1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/lake.0711-11-1.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/lake.0711-11-1.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/lake.0711-11-1.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/lake.0711-11-1.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/lake.0711-11-1.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/lake.0711-11-1.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/lake.0711-11-1.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/lake.0711-11-1.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/lake.0711-11-1.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/lake.0711-11-1.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/lake.0711-11-1.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/lake.0711-11-1.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Lake Fire burned through some forest recreation areas, but popular spots such as the Figueroa and Davy Brown campgrounds had relatively minor damage, according to Los Padres National Forest [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lake-fire-spares-popular-figueroa-mountain-campgrounds/">Lake Fire Spares Popular Figueroa Mountain Area Campgrounds</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/lake-fire-spares-popular-figueroa-mountain-campgrounds/>
+
+---
+
+## Dolphin Derby Draws Donations for Rotary Club of Santa Barbara Sunrise
+
+date: 2024-07-15, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="684" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071424-dolphin-derby-santa-barbara-4.jpg?fit=1024%2C684&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="And they&#039;re off! The first race of the day begins at 12:30 p.m., sending hundreds of newly adopted dolphins down the racecourse. Prizes await the winners at the derby event, which is a fundraiser for the Rotary Club of Santa Barbara Sunrise." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071424-dolphin-derby-santa-barbara-4.jpg?w=1616&amp;ssl=1 1616w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071424-dolphin-derby-santa-barbara-4.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071424-dolphin-derby-santa-barbara-4.jpg?resize=1024%2C684&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071424-dolphin-derby-santa-barbara-4.jpg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071424-dolphin-derby-santa-barbara-4.jpg?resize=1536%2C1027&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071424-dolphin-derby-santa-barbara-4.jpg?resize=1200%2C802&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071424-dolphin-derby-santa-barbara-4.jpg?resize=1568%2C1048&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071424-dolphin-derby-santa-barbara-4.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071424-dolphin-derby-santa-barbara-4.jpg?resize=706%2C472&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071424-dolphin-derby-santa-barbara-4.jpg?fit=1024%2C684&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Sunday&#8217;s Dolphin Derby Festival, organized by the Rotary Club of Santa Barbara Sunrise, offered a day of lively entertainment and community spirit. Attendees watched dolphin races where miniature, multi-colored dolphins [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dolphin-derby-draws-donations-for-rotary-club-of-santa-barbara-sunrise/">Dolphin Derby Draws Donations for Rotary Club of Santa Barbara Sunrise</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dolphin-derby-draws-donations-for-rotary-club-of-santa-barbara-sunrise/>
 
 ---
 

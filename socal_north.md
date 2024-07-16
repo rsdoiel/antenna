@@ -1,11 +1,97 @@
 ---
 title: socal north 2024.29
-updated: 2024-07-15 08:45:24
+updated: 2024-07-16 08:12:26
 ---
 
 # socal north 2024.29
 
-(date: 2024-07-15 08:45:24)
+(date: 2024-07-16 08:12:26)
+
+---
+
+## Could union labor mandates on construction projects mean less affordable housing?
+
+date: 2024-07-16, updated: 2024-07-16, from: The LAist
+
+If passed, the measure would leave most developers little choice — work with labor unions or miss out on hundreds of millions in funding. 
+
+<https://laist.com/news/housing-homelessness/labor-costs-homelessness-funding>
+
+---
+
+## Former Bruins feature on USA Softball team at World Cup Finals
+
+date: 2024-07-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Retribution.
+In the Japan All-Star Series, the U.S. Women’s Elite Team was swept and outscored 18-6 across three games by Japan.
+Now, the spotlight is on the U.S. 
+
+<https://dailybruin.com/2024/07/15/former-bruins-feature-on-usa-softball-team-at-world-cup-finals/>
+
+---
+
+## Judge finds illegal discrimination blocks some disabled veterans from housing at West LA VA campus
+
+date: 2024-07-16, updated: 2024-07-16, from: The LAist
+
+Judge David O. Carter says he’ll rule in the future on what changes will have to be made. 
+
+<https://laist.com/news/housing-homelessness/homeless-veterans-west-la-campus-ruling-judge-carter>
+
+---
+
+## USAC recap – July 9
+
+date: 2024-07-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its second meeting of the summer July 9.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<https://dailybruin.com/2024/07/15/usac-recap-july-9/>
+
+---
+
+## Documents reveal how UCPD coordinated protest responses with other departments
+
+date: 2024-07-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Documents obtained by the Daily Bruin showed how police contracts were used by UCPD for policing on campus.
+UCLA has seen frequent police activity from April to June sparked by the April 30 attacks on the Palestine solidarity encampment and its subsequent police sweep. 
+
+<https://dailybruin.com/2024/07/15/documents-reveal-how-ucpd-coordinated-protest-responses-with-other-departments/>
+
+---
+
+## California lawmakers’ safety gets new attention after Trump shooting
+
+date: 2024-07-15, updated: 2024-07-15, from: The LAist
+
+Assembly Bill 2041 would allow candidates and elected officials to use more campaign funds for personal security for themselves, family members and staff. 
+
+<https://laist.com/news/politics/california-lawmakers-safety-gets-new-attention-after-trump-shooting>
+
+---
+
+## In the Field: Exploring the Central Coast Oak Woodlands
+
+date: 2024-07-15, from: California Native Plants Society
+
+<p>California's central coast oak woodlands create a sprawling lush woodland, home to wildflowers and rare plants.</p>
+<p>The post <a href="https://www.cnps.org/in-the-field/in-the-field-exploring-the-central-coast-oak-woodlands-39032">In the Field: Exploring the Central Coast Oak Woodlands</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/in-the-field/in-the-field-exploring-the-central-coast-oak-woodlands-39032>
+
+---
+
+## Big Ten Preview: Iowa
+
+date: 2024-07-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA is just weeks away from joining the Big Ten. After 96 years and 123 national championships in the Pac-12, the Bruins are at the forefront of the Big Ten&#8217;s West Coast expansion. 
+
+<https://dailybruin.com/2024/07/15/big-ten-preview-iowa/>
 
 ---
 

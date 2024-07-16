@@ -1,11 +1,111 @@
 ---
 title: games 2024.29
-updated: 2024-07-15 08:45:29
+updated: 2024-07-16 08:12:30
 ---
 
 # games 2024.29
 
-(date: 2024-07-15 08:45:29)
+(date: 2024-07-16 08:12:30)
+
+---
+
+## So many great Lego sets are 20% off for Prime Day
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/24199715/best-deals-lego-sets>
+
+---
+
+## Lev Grossman’s ‘one fear’ for his King Arthur novel: People who expect more of The Magicians
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24199026/lev-grossman-the-bright-sword-interview>
+
+---
+
+## The best gaming deals of Amazon Prime Day 2024
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games>
+
+---
+
+## The best Magic: The Gathering deals of Amazon Prime Day 2024
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering>
+
+---
+
+## The Death Note musical fixed the anime to become the superior adaptation
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24195889/death-note-anime-bad-musical-good>
+
+---
+
+## The best Prime Day 2024 deals
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/24199570/best-deals-gaming-board-games-toys>
+
+---
+
+## Why Innersloth is funding your next favorite indie game
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24198840/inntersloth-among-us-funding-indie-games>
+
+---
+
+## Both The Complete Calvin and Hobbes and new Portable Compendiums are on sale for Prime Day
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/24190884/calvin-hobbes-complete-bill-watterson-mysteries-deal-sales>
+
+---
+
+## The best Lord of the Rings deals for Prime Day
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/24191453/best-lotr-deals-books-movies>
+
+---
+
+## Lego Star Wars and Super Mario sets are 20% off for Prime Day
+
+date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/24191428/best-lego-deals>
 
 ---
 

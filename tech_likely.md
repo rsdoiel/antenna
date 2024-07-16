@@ -1,17 +1,420 @@
 ---
 title: tech likely 2024.29
-updated: 2024-07-15 08:45:27
+updated: 2024-07-16 08:12:28
 ---
 
 # tech likely 2024.29
 
-(date: 2024-07-15 08:45:27)
+(date: 2024-07-16 08:12:28)
+
+---
+
+##  It&#8217;s Random Midsummer Shopping Day Again! (AKA Prime Day) 
+
+date: 2024-07-16, updated: 2024-07-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/its-random-midsummer-shopping-day-again-aka-prime-day>
+
+---
+
+## Vote for the July 2004 Plus Post Topic
+
+date: 2024-07-16, from: Computer ads from the Past
+
+If you are a paid subscriber, voting is open for one week for this month's topic 
+
+<https://computeradsfromthepast.substack.com/p/vote-for-the-july-2004-plus-post>
+
+---
+
+## Rebekah Hounsell: Tracking Cosmic Light to Untangle the Universe’s Darkest Mysteries
+
+date: 2024-07-16, from: NASA breaking news
+
+Rebekah Hounsell is an assistant research scientist working on ways to optimize and build infrastructure for future observations made by the Nancy Grace Roman Space Telescope. The mission will shed light on many astrophysics topics, like dark energy, which are currently shrouded in mystery. Rebekah also works as a support scientist for the TESS (Transiting [&#8230;] 
+
+<https://www.nasa.gov/people-of-nasa/rebekah-hounsell-tracking-cosmic-light-to-untangle-the-universes-darkest-mysteries/>
+
+---
+
+## 55 Years Ago: Apollo 11’s One Small Step, One Giant Leap
+
+date: 2024-07-16, from: NASA breaking news
+
+“Houston, Tranquility Base here, the Eagle has landed.” “That’s one small step for [a] man, one giant leap for mankind.” “Magnificent desolation.” Three phrases that recall humanity’s first landing on and exploration of the lunar surface. In July 1969, Apollo 11 astronauts Neil A. Armstrong, Michael Collins, and Edwin E. “Buzz” Aldrin completed humanity’s first [&#8230;] 
+
+<https://www.nasa.gov/history/55-years-ago-apollo-11s-one-small-step-one-giant-leap/>
+
+---
+
+## قبور وراء النافذة / “Graves behind the Window” معذبو الأرض / “The Wretched of the Earth”
+
+date: 2024-07-16, from: Logic Magazine
+
+
+                <p>A selection of poems by Gazan poet Anees Ghanima, Translator’s Note Leena Aboutaleb, and preface by Abdalhadi Alijla</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/2-poems>
+
+---
+
+## 2024-07-16 What's the minimal NNCP setup to get started?
+
+date: 2024-07-16, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-16-what-s-the-minimal-nncp-setup-to-get-started">2024-07-16 What&rsquo;s the minimal NNCP setup to get started?</h1>
+
+<p>This page is for you if you are curious about NNCP and you don&rsquo;t know how to get started.
+It contains instructions on how to set up your laptop such that it can exchange files with my laptop (melanobombus) via my server (sibirocobombus).</p>
+
+<p>Before testing it, you need to send me an email with some info but we&rsquo;ll get to that.</p>
+
+<p>First, switch to the root user. Everything will be easier that way.</p>
+
+<pre><code>sudo su
+</code></pre>
+
+<p>The instructions are going to assume a Debian system.</p>
+
+<p>First, install the <code>nncp</code> package.</p>
+
+<pre><code>apt install nncp
+</code></pre>
+
+<p>Generate a new <code>/etc/nncp.hjson</code> file and secure it:</p>
+
+<pre><code>nncp-cfgnew &gt; /etc/nncp.hjson
+chown nncp:nncp /etc/nncp.hjson
+chmod 660 /etc/nncp.hjson
+</code></pre>
+
+<p>You need to add my server to your <code>/etc/nncp.hjson</code> file, in the <code>neigh</code> section.</p>
+
+<pre><code>    sibirocobombus: {
+      id:       CCAIPFSAZWYICBQ5BIURX4UMEJIXVSZFIING7HRUFTDOFV5XISVQ
+      exchpub:  NGEIDPDVZ2I6CTRKCBT734VV4W2YFVTV6YFBU5UGB6IHBA3QDJUQ
+      signpub:  VXBMWXS74IGAYQCLJY4UPAXXQXPT3K53QI5XCFHOAKL4I2FQNLKQ
+      noisepub: MGGBAOHRHEWEC6CGT47GA2DOQXQFZUAKJ66PD734Y5WNWP364UXQ
+      addrs: {
+        internet: &quot;alexschroeder.ch:5400&quot;
+      }
+      calls: [
+        {
+          cron: &quot;@daily&quot;
+        }
+      ]
+    }
+</code></pre>
+
+<p>What does it mean?</p>
+
+<ol>
+<li>you know how to contact my server via the <code>.addrs.internet</code> key – you need this, but you can specify <code>campaignwiki.org</code> instead, if your prefer</li>
+<li>you connect to my server every now and then via the <code>calls[0].cron</code> entry – this is not necessary if you don&rsquo;t mind using <code>nncp-call</code> every now and then</li>
+</ol>
+
+<p>My laptop can only be reached via my server. You need to add it as well.</p>
+
+<p>As far as the <code>melanobombus.incoming</code> key goes, pick a suitable directory that your regular account has access to.</p>
+
+<pre><code>    melanobombus: {
+      id:       R23WEIHB52TMA4EKGJPKUDBFSYP2HG4HHW2HGJ3RJATCCRLYDUZQ
+      exchpub:  EGP2MMLQJQUKWTHI22JTIRMR2UV3BA2ATE3AYLVOFODMTNRGAMEA
+      signpub:  YO6SZXVEIU77OQQRKMAUFUT4V3NJER4U7LQE5JI7JORJXKXY5FBA
+      noisepub: 6ECO4WXJNDED6WHJ6SM2HGRQMUO75X65ALT2YRKZ3YGGBDXRNV4A
+      via:      [&quot;sibirocobombus&quot;]
+      incoming: &quot;/home/alex/incoming/melanobombus&quot;
+      exec: {
+        rsmtp:  [&quot;/usr/sbin/sendmail&quot;, &quot;-bS&quot;]
+      }
+    }
+</code></pre>
+
+<p>What does it mean?</p>
+
+<ol>
+<li>you know how to contact my laptop via my server using the <code>.via[0]</code> key – you need this and the name needs to match the name you used for my server</li>
+<li>you allow my laptop to save incoming files in a directory via the <code>.incoming</code> key – you only need this if you want to receive files (the directory must exist and the <code>nncp</code> group must be allowed to write to it)</li>
+<li>you allow my laptop to send mail to local users via the <code>.exec.rsmtp</code> key – this is not necessary if you don&rsquo;t want to receive mail</li>
+</ol>
+
+<p>You would create the directory as follows.
+I&rsquo;m assuming that <code>$SUDO_USER</code> is your actual username so I&rsquo;ll use that instead of &ldquo;alex&rdquo;.</p>
+
+<pre><code>dir=&quot;/home/$SUDO_USER/incoming/melanobombus&quot;
+mkdir --parents &quot;$dir&quot;
+chown $SUDO_USER:nncp &quot;$dir&quot;
+chmod g+w &quot;$dir&quot;
+</code></pre>
+
+<p>You need to send me your system&rsquo;s public keys from the <code>/etc/nncp.hjson</code> file so that I can set up similar entries on my laptop and my server.</p>
+
+<p>Once I&rsquo;ve added your public keys to my server, we can test it.</p>
+
+<p>My server will not call you, since it doesn&rsquo;t know your Internet address.
+It waits for you to call it both when you want to send or when you want to receive something.
+You would do this as follows:</p>
+
+<pre><code>sudo -u nncp nncp-call sibirocobombus
+</code></pre>
+
+<p>Otherwise, the <code>@daily</code> entry in the <code>sibirocobombus.cron[0]</code> entry of your <code>/etc/nncp.hjson</code> file will call my server once a day, at midnight.</p>
+
+<p>To send me a README file, you&rsquo;d run:</p>
+
+<pre><code>sudo -u nncp nncp-file README melanobombus:
+2024-07-12T18:12:15Z Tx README 486 B/486 B 100% (73 KiB/sec)
+2024-07-12T18:12:15Z File README (282 B) is sent to melanobombus:README
+</code></pre>
+
+<p>At this point, the file is in the queue.</p>
+
+<p>You need to to call my server using <code>sudo -u nncp nncp-call sibirocobombus</code> to actually send the files or you&rsquo;ll have to wait for the cron job. My server will receive the packets encrypted and addressed to my laptop and enqueue them again. The next time my laptop calls my server, it&rsquo;ll get them.</p>
+
+<p>You probably want to let me know about the channel via another channel, be it IRC, regular mail!</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23NNCP">#NNCP</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-16-minimal-nncp-setup>
+
+---
+
+##  &#8220;15 Books About Appalachia to Read Instead of Hillbilly Elegy&#8221; 
+
+date: 2024-07-16, updated: 2024-07-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/15-books-about-appalachia-to-read-instead-of-hillbilly-elegy>
+
+---
+
+## NASA Signs US, Saudi Arabia Agreement for Civil Aeronautics, Space Collaboration
+
+date: 2024-07-16, from: NASA breaking news
+
+The United States and Saudi Arabia signed a framework agreement that opens new possibilities for cooperation with NASA in areas such as space science, exploration, aeronautics, space operations, education, and Earth science. NASA Administrator Bill Nelson signed on behalf of the U.S., and CEO of the Saudi Space Agency Mohammed bin Saud Al-Tamimi signed on [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-signs-us-saudi-arabia-agreement-for-civil-aeronautics-space-collaboration/>
+
+---
+
+##  Investigation Finds Secret Service Failed To Account For Nation’s 393 Million Guns.... 
+
+date: 2024-07-16, updated: 2024-07-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044945-investigation-finds-secre>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-16, from: Dave Winer's Scripting News)
+
+<a href="https://www.facebook.com/photo.php?fbid=2288764287997630&set=a.113966572144090&type=3&comment_id=1236133897373396&notif_id=1721130567941861&notif_t=feedback_reaction_generic&ref=notif">Today's adventure</a>: "The great and cute Wordle Kitty was surprisingly chosen to be the running mate of the most popular presidential candidate in the history of the United States, who happens to also be very very old so that’s why they nominated the cute little cat to be the vice president because she is so young and so incredibly cute." 
+
+<http://scripting.com/2024/07/16.html#a122427>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-16, from: Dave Winer's Scripting News)
+
+And btw, don't panic. You can't accomplish anything that way. 
+
+<http://scripting.com/2024/07/16.html#a122149>
+
+---
+
+## 2024-07-16 The Dark Net
+
+date: 2024-07-16, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-16-the-dark-net">2024-07-16 The Dark Net</h1>
+
+<p>I haven&rsquo;t read The Dark Forest but I read a few blog posts about it.
+What really got me interested, however, was <a href="https://www.ystrickler.com/the-dark-forest-theory-of-the-internet/">The Dark Forest Theory of the Internet</a> by Yancey Strickler in 2019:</p>
+
+<blockquote>
+<p>In response to the ads, the tracking, the trolling, the hype, and other predatory behaviors, we’re retreating to our dark forests of the internet, and away from the mainstream. – Yancey Strickler</p>
+</blockquote>
+
+<p>I often think of where the world is headed, politically. I&rsquo;m a doomer at heart.</p>
+
+<p>As part of that, I think about the Internet in a few decades. In the worst case, the public Internet is gone. An alternative that is slightly less bad is that governments will have discovered that blocking at the level of the national Domain Name System (DNS) won&rsquo;t work because it&rsquo;s easy to circumvent using alternative name servers. And so, slowly at first but then ever faster, from the top down, people will think that perhaps the Great Firewall is cool: for the children, against porn, against spam, against vandalism, to fight tax evasion, to fight terrorism, you know the deal. And yes, even to fight fascism. So many people are telling me that we should ban Telegram, for example.</p>
+
+<p>I&rsquo;m honestly not sure what to recommend. Is the free press our problem? I don&rsquo;t think so. It&rsquo;s the incentives and the power imbalances that are a problem. Rich people pay other people to create companies, to buy companies, to sponsor some programs and to cancel others, and slowly the landscape changes. Big corporations buy small ones. Rich people buy failing ones. The prime example here in Switzerland is how the Weltwoche was bought by billionaires and handed to somebody who supports a flat tax, who supports the ban on minarets, who supports supports tax evasion abroad, who supports anti-refugee policies… all of it legal, of course, but these laws are nauseating. The same pattern can be seen in how the state tries to support media diversity and still the big publishers manage to profit the most. The same pattern can be seen in how the right wing parties fight against state radio and state TV.</p>
+
+<p>So what I recommend is to not go dark. Have friends. Have social media. But be aware that our time might be short. We might have to build the infrastructure while we can. Those of us who can should build for the rest of us who have other things on their mind. We should build this to be as easy to use as possible. We should build this so that we can detach from the public Internet and it will still work.</p>
+
+<p>The sneaker-net will be back. They will call it the dark net but to me, it will forever be friends meeting in a place, with mass storage in our backpacks (at the time) or in our pockets, exchanging stuff. And even if this future is not great at all, we need that alternative. How else will our future selves and our children organize? And even if it turns out to be unnecessary because we keep riding that wild horse of freedom, forever teetering at the brink of fascism, alternative needs to be there to keep the next level of services in line. I still believe that the availability and ubiquity of bit-torrent is what keeps the prices of streaming services down. It&rsquo;s the threat of piracy that keeps the official channels honest. Because we can always go back. The infrastructure is still around. The software is still around.</p>
+
+<p>This is why I&rsquo;m interested in <a class="account" href="https://floss.social/@jgoerzen" title="@jgoerzen@floss.social">@jgoerzen</a>&rsquo;s <a href="https://changelog.complete.org/archives/10231-recovering-our-lost-free-will-online-tools-and-techniques-that-are-available-now">Recovering Our Lost Free Will Online: Tools and Techniques That Are Available Now</a>. In my case, the thing I&rsquo;m most interested in is NNCP.</p>
+
+<p>NNCP allows us to connect all services that can be made to work with a <a href="https://en.wikipedia.org/wiki/Store_and_forward">store and forward</a> architecture. The simplest and oldest protocols in this respect are mail and file copying, and services built on top of that, such as net news. These services grew big with UUCP, the precursor to NNCP. Store-and-forward precludes the kind of interactive applications many of us are used to. Instead, it&rsquo;s a bit like a library or a book store: you order a book and at some point you get the book. There is a delay. The postal system works the same way: write a letter and send it off, wait for some days, maybe get a reply back. Basically, anything that can be imagined as requesting something and getting back a reply after some time can be implemented using store-and-forward architecture.</p>
+
+<p>If you think of the web as serving static documents, it can be made to work. Imagine reading Wikipedia via email: you send the URL via email to a service, and some time later you get back an email with the response. Soon we would be thinking of extensions to this. What if the response returned an archive of the page requested, all the images it includes, and the same for all the Wikipedia content pages it links to? Fewer visits to the library, so to say! It would be much harder to do the same thing using traditional social media because the web sites are more like web apps. There are a gazillion ways to view things: in a time line (or multiple time lines!), on a profile (so many profiles!), in threads, in search results, and so on. If every click on a button requires a trip that can take many days, it&rsquo;s doesn&rsquo;t work. Instead, such social media sites must be restructured to work a bit like net news: new posts satisfying some filters are sent in regular updates and your local client rearranges the, filters them, searches them.</p>
+
+<p>All of this <a href="https://en.wikipedia.org/wiki/Delay-tolerant_networking">delay-tolerant networking</a> is possible with Unix to Unix Copy (<a href="https://en.wikipedia.org/wiki/UUCP">UUCP</a>). What Node to Node Copy (<a href="http://www.nncpgo.org/">NNCP</a>) adds is <a href="https://en.wikipedia.org/wiki/End-to-end_encryption">end-to-end encryption</a> (in a multi-hop setup the packets remain encrypted so the carrier cannot read them) and <a href="https://en.wikipedia.org/wiki/Onion_routing">onion routing</a> (in a multi-hop setup the carrier doesn&rsquo;t know where the packet is originally from or where the packet is going to end up). And with that, the sneaker-net is back. You can imagine a low-tech future where most of the last miles are burned, the copper stolen and repurposed, the optical fibre no longer functional, and a service springs up where the post or some other courier is used to send USB sticks and SD cards from community to community in order to exchange letters, reports, movies, pictures, music, and so on. Or if the government is monitoring the airwaves and declaring mesh networks illegal or taking over the mesh networks (like Cuba&rsquo;s Street Network, <a href="https://en.wikipedia.org/wiki/Internet_in_Cuba#SNET">SNET</a>), we&rsquo;ll have to rely on USB sticks and SD cards, too.</p>
+
+<p>This is where we&rsquo;re getting back to the Dark Forest. I don&rsquo;t have an answer to that. It&rsquo;s a bit like members-only bit-torrent sites. Do you trust them? Do they trust you? How are you going to learn about the trustworthy ones?</p>
+
+<p>In order to learn more, to be prepared, to think things through, I want to experiment with the technology. I want to see what can be done, run into the issues, pick the low hanging fruits. Play with the technology before we really need it.</p>
+
+<p>I remember audio cassettes being sent back and forth as a kid when we were living in South-West Africa (back before they finally got their freedom and renamed the country to Namibia) and my grandparents were living in Austria. Phone calls were very expensive. So the family sat around a tape recorder, each of us speaking in turn, saying something, and weeks later, all of us gathering again, listening to the replies.</p>
+
+<p>Using images like these virtual, delay-tolerant family gatherings worked long before I knew anything at all about computers.</p>
+
+<p><a class="tag" href="/search/?q=%23NNCP">#NNCP</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-16-why-nncp>
+
+---
+
+## Announcing Supabase on JSR
+
+date: 2024-07-16, updated: 2024-07-16, from: Deno blog
+
+Supabase's isomorphic JavaScript client library is now available on JSR. 
+
+<https://deno.com/blog/supabase-on-jsr>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-16, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/16/loganRoy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The problem with <a href="https://en.wikipedia.org/wiki/J._D._Vance">JD Vance</a> is that he has no principles, he'll be whatever he needs to be to get more power, and he's young. He's as empty as Trump, and much younger, so we can't hope to outwait him. Now we have a real problem, because Trump has a successor. I imagine Trump's sons probably aren't happy about this, had he picked <a href="https://en.wikipedia.org/wiki/Marco_Rubio">Little Marco</a>, no one would mistake him as an heir, or <a href="https://en.wikipedia.org/wiki/Doug_Burgum">Doug Burgum</a> who is a bit too old to be an heir (same age as I am). We <i>do</i> have a problem with Biden, he hasn't prepared for this moment. Old or not, they had 3.5 years to get ready, and they didn't. As I wrote <a href="http://scripting.com/2024/07/15.html#a124845">yesterday</a>, the biggest most important thing is that we <b>organize ourselves.</b> That's the best defense all around. Every attempt to <a href="https://en.wikipedia.org/wiki/Pen_(enclosure)">corral</a> the insurrection has been either non-existent or overwhelmingly inadequate. Trump should be out of the picture, and for a while it seemed as if he was getting there, but now he's back, and probably a bigger threat than ever. I don't think replacing Biden is anywhere near enough. We need leadership. Not wait to be led. We've waited too long. People who appear ready to step up -- AOC, Bernie Sanders. Who else? I wouldn't put Obama on that list, he tried to welcome Trump, even let him have his Supreme Court pick, just to be a nice guy. We are not going to prevail by being nice, unfortunately. We're also not going to prevail by each of us taking care of Number One. We have to work together. Organize and work together. Those ought to be our mantras until we achieve them. 
+
+<http://scripting.com/2024/07/16.html#a114643>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-16, from: Dave Winer's Scripting News)
+
+<a href="https://shownotes.scripting.com/podcast0/2024/07/16/interstate25DietCokeWhileDrivingNotes.html">Shownotes</a> for the <a href="https://this.how/podcast0/">Podcast0</a> from July 16, 2004. 
+
+<http://scripting.com/2024/07/16.html#a114218>
+
+---
+
+## Prepare for Perseids!
+
+date: 2024-07-16, from: NASA breaking news
+
+The annual Perseid meteor shower is scheduled to peak this August 11-12. Cross your fingers for good weather, find a nice dark spot to bring a blanket or lounge chair, and get ready to relax and spot some meteors. 
+
+<https://science.nasa.gov/solar-system/skywatching/night-sky-network/prepare-for-perseids/>
+
+---
+
+## Beyond Imitation
+
+date: 2024-07-16, from: O'Reilly Radar
+
+The first AI image generation model I got to play around with was Midjourney v2 in summer 2022. A month earlier, OpenAI had launched DALL-E 2 in beta, and the results looked unbelievably magical. You could generate images in any art style simply by prompting an AI with the name of an artist. I didn’t [&#8230;] 
+
+<https://www.oreilly.com/radar/beyond-imitation/>
+
+---
+
+## Ten years of Overcast: A new foundation
+
+date: 2024-07-16, from: Marco Arment blog
+
+<p><center style="margin-top: 1.5em; margin-bottom: 1.5em;"><a href="https://marco.org/media/2024/overcast-rewrite-list.png"><img style="max-width: 45%; border: 1px solid #eee; border-radius: 8px; margin-right: 2%;" src="https://marco.org/media/2024/overcast-rewrite-list.png"/></a> <a href="https://marco.org/media/2024/overcast-rewrite-nowplaying.png"><img style="max-width: 45%; border: 1px solid #eee; border-radius: 8px; margin-left: 2%;" src="https://marco.org/media/2024/overcast-rewrite-nowplaying.png"/></a></center></p>
+
+<p>Today, on the <strong>tenth anniversary</strong> of <a href="https://marco.org/2014/07/16/overcast">Overcast 1.0</a>, I&#8217;m happy to launch a complete rewrite and redesign of most of the iOS app, built to carry Overcast into the next decade — and hopefully beyond.</p>
+
+<p><strong>Like podcasts better than blog posts? <a href="https://atp.fm/596">Listen to ATP #596</a> for more!</strong></p>
+
+<h3>What&#8217;s new</h3>
+
+<ul>
+<li><strong>Much faster,</strong> more responsive, more reliable, and more accessible.</li>
+<li><strong>Modern design,</strong> optimized for easily-reached controls on today&#8217;s phone sizes.</li>
+<li><strong>Improvements</strong> throughout, such as undoing large seeks, new playlist-priority options, easier navigation, and more.</li>
+</ul>
+
+<h3>What&#8217;s not</h3>
+
+<ul>
+<li><strong>Most features.</strong> Overcast is still Overcast!</li>
+<li><strong>The audio engine.</strong> It&#8217;s the best part of Overcast, and still leads the industry in sound quality, silence skipping, and volume normalization. (More soon!)</li>
+<li><strong>The business.</strong> I&#8217;m still a one-person operation, with no funding or external ownership, serving <em>only</em> my customers.</li>
+<li><strong>My principles.</strong> I always want to make the best podcast app, and I&#8217;ll never disrespect your time, attention, or privacy.</li>
+</ul>
+
+<h3>What&#8217;s gone</h3>
+
+<p><strong>Streaming.</strong> Most big podcasts now use dynamic ad insertion, which causes bugs and problems for streaming playback.<sup id="fnref:pMYQjMdU5streambugs"><a href="#fn:pMYQjMdU5streambugs" rel="footnote">1</a></sup> Downloading episodes completely before they begin playback is <em>much</em> more reliable.</p>
+
+<p>Tapping a non-downloading episode will now open the playback screen, download it, <em>then</em> start playback. It works similarly to the way streaming did before, but playback begins after the download completes, not after a portion of it is buffered.</p>
+
+<p>On today&#8217;s fast networks, this usually only takes a few extra seconds.</p>
+
+<p>And in the near future, I&#8217;ll be adding smarter options and more control over selective downloading of episodes to further improve the experience for people who don&#8217;t automatically download every episode.</p>
+
+<h3>What&#8217;s next</h3>
+
+<ul>
+<li>The last few missing features from the old app, such as Shortcuts support, storage management, and OPML. These are absent now, but will return soon.</li>
+<li>More options for downloading and deleting episodes.</li>
+<li>Upgrading the Apple Watch app to the new, faster sync engine. (The Watch app is currently unchanged from the previous one.)</li>
+</ul>
+
+<p>And, of course, more features, including some of your most-requested features over the last decade.</p>
+
+<p>Getting this rewrite out the door was a monumental task. Thank you for your patience as I work through this list!</p>
+
+<h3>Why?</h3>
+
+<p>Most of Overcast&#8217;s core code was 10 years old, which made it cumbersome or impossible to easily move with the times, adopt new iOS functionality, or add new features, especially as one person.</p>
+
+<p>That&#8217;s why there haven&#8217;t been many new features or changes in years.</p>
+
+<p>You saw it, and I saw it. I wasn&#8217;t able to serve my customers as well as I wanted.</p>
+
+<p>For Overcast to have a future, it needed a modern foundation for its second decade. I&#8217;ve spent the past 18 months rebuilding most of the app with Swift, SwiftUI, <a href="https://github.com/marcoarment/Blackbird">Blackbird</a>, and modern Swift concurrency.</p>
+
+<p>Now, development is rapidly accelerating. I&#8217;m more responsive, iterating more quickly, and ultimately making the app <em>much</em> better.</p>
+
+<p>Thank you all so much for the first decade of Overcast.</p>
+
+<p>Here&#8217;s to the next one.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:pMYQjMdU5streambugs">
+<p>Dynamic ad insertion (DAI) splices ads into each download, and no two downloads are guaranteed to have the same number or duration of ads. So, for example, if the first half of an episode downloads, then the download fails, and it downloads the second half with another request, the combined audio may jump forward or back at the halfway mark, losing or repeating content.&#160;<a href="#fnref:pMYQjMdU5streambugs" rev="footnote">&#8617;&#xFE0E;</a></p>
+</li>
+
+</ol>
+</div> 
+
+<https://marco.org/2024/07/16/overcast-rewrite>
+
+---
+
+## New RP2040 CMSIS Pack
+
+date: 2024-07-16, from: Raspberry Pi News (.com)
+
+<p>To better integrate RP2040 into the Arm ecosystem, we've released a new Common Microcontroller Software Interface Standard (CMSIS) Device Family Pack (DFP). With this new DFP, you can now use Raspberry Pi Pico and Pico W with all of Arm's CMSIS tools.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/new-rp2040-cmsis-pack/">New RP2040 CMSIS Pack</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/new-rp2040-cmsis-pack/>
 
 ---
 
 ## 2024-07-15 One Page Dungeon Contest
 
-date: 2024-07-15, from: Alex Schroeder's Blog
+date: 2024-07-16, from: Alex Schroeder's Blog
 
 <h1 id="2024-07-15-one-page-dungeon-contest">2024-07-15 One Page Dungeon Contest</h1>
 
@@ -33,7 +436,7 @@ Since I would like the dungeons to be close to the prep I do for my own games so
 <p>Result:</p>
 
 <ul>
-<li><a href="/pdfs/Orc_Halls_by_Alex_Schroeder_1.pdf">Orc Halls by Alex Schroeder</a></li>
+<li><a href="/pdfs/Orc_Halls_by_Alex_Schroeder_2.pdf">Orc Halls by Alex Schroeder</a></li>
 </ul>
 
 <p>At the time I had a second 10-headed hydra, too…</p>
@@ -68,6 +471,228 @@ Since I would like the dungeons to be close to the prep I do for my own games so
 <p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%231PDC">#1PDC</a></p> 
 
 <https://alexschroeder.ch/view/2024-07-15-1pdc>
+
+---
+
+## NASA Johnson to Dedicate Building to Dorothy Vaughan, Women of Apollo
+
+date: 2024-07-15, from: NASA breaking news
+
+NASA’s Johnson Space Center in Houston will recognize legendary human computer Dorothy Vaughan and the women of Apollo with activities marking their achievements, including a renaming and ribbon-cutting ceremony at the center’s “Building 12,” on Friday, July 19, the eve of the 55th anniversary of the Apollo 11 Moon landing. At 9 a.m. CDT, NASA [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-johnson-to-dedicate-building-to-dorothy-vaughan-women-of-apollo/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-07-15, from: Tomosino's Mastodon feed)
+
+<p><a href="https://m.dpreview.com/articles/6017416570/in-photos-cincinnati-s-impressive-old-main-public-library" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">m.dpreview.com/articles/601741</span><span class="invisible">6570/in-photos-cincinnati-s-impressive-old-main-public-library</span></a></p><p>The Cincinnati Main Library before the 1955 demolition was out of this world. Pictures attached and more in the link.</p> 
+
+<https://tilde.zone/@tomasino/112792824111341146>
+
+---
+
+## I told you so: Mozilla working with Facebook to weaken Firefox’ privacy and anti-tracking features
+
+date: 2024-07-15, from: OS News
+
+I&#8217;ve long been warning about the dangers of relying on just one browser as the bullwark against the onslaught of Chrome, Chrome skins, and Safari. With Firefox&#8217; user numbers rapidly declining, now stuck at a mere 2% or so &#8211; and even less on mobile &#8211; and regulatory pressure possibly ending the Google-Mozilla deal with makes up roughly 80% of Mozilla&#8217;s income, I&#8217;ve been warning that Mozilla will most likely have to start making Firefox worse to gain more temporary revenue. As the situation possibly grows even more dire, Firefox for Linux would be the first on the chopping block. I&#8217;ve received quite a bit of backlash over expressing these worries, but over the course of the last year or so we&#8217;ve been seeing my fears slowly become reality before our very eyes, culminating in Mozilla recently acquiring an online advertising analytics company. Over the last few days, things have become even worse: with the release of Firefox 128, the enshitification of Firefox has now well and truly begun. Less than a month after acquiring the AdTech company Anonym, Mozilla has added special software co-authored by Meta and built for the advertising industry directly to the latest release of Firefox, in an experimental trial you have to opt out of manually. This &#8220;Privacy-Preserving Attribution&#8221; (PPA) API adds another tool to the arsenal of tracking features that advertisers can use, which is thwarted by traditional content blocking extensions. ↫ Jonah Aragon If you have already upgraded to Firefox 128, you have automatically been opted into using this new API, and for now, you can still opt-out by going to Settings > Privacy &#38; Security > Website Advertising Preferences, and remove the checkmark &#8220;Allow websites to perform privacy-preserving ad measurement&#8221;. You were opted in without your consent, without any widespread announcement, and if it wasn&#8217;t for so many Firefox users being on edge about Mozilla&#8217;s recent behaviour, it might not have been snuffed out this quickly. Over on GitHub, there&#8217;s a more in-depth description of this new API, and the first few words are something you never want to hear from an organisation that claims to fight tracking and protect your privacy: &#8220;Mozilla is working with Meta&#8221;. I&#8217;m not surprised by this at all &#8211; like I, perhaps gleefully, pointed out, I&#8217;ve been warning about this eventuality for a long time &#8211; but I&#8217;ve noted that on the wider internet, a lot of people were very much unpleasently surprised, feeling almost betrayed by this, the latest in a series of dubious moves by Mozilla. It&#8217;s not even just the fact they&#8217;re &#8220;working with Meta&#8221;, which is entirely disqualifying in and of itself, but also the fact there&#8217;s zero transparency or accountability about this new API towards Firefox&#8217; users. Sure, we&#8217;re all technologically inclined and follow technology news closely, but the vast majority of people don&#8217;t, and there&#8217;s bound to be countless people who perhaps only recently moved to Firefox from Chrome for privacy reasons, only to be stabbed in the back by Mozilla partnering up with Facebook, of all companies, if they even find out about this at all. It&#8217;s right out of Facebook&#8217;s playbook to secretly experiment on users. This is what I wrote a year ago: I’m genuinely worried about the state of browsers on Linux, and the future of Firefox on Linux in particular. I think it’s highly irresponsible of the various prominent players in the desktop Linux community, from GNOME to KDE, from Ubuntu to Fedora, to seemingly have absolutely zero contingency plans for when Firefox enshittifies or dies, despite everything we know about the current state of the browser market, the state of Mozilla’s finances, and the future prospects of both. Desktop Linux has a Firefox problem, but nobody seems willing to acknowledge it. ↫ Thom Holwerda It seems my warnings are turning into reality one by one, and if, at this point, you&#8217;re still not worried about where you&#8217;re going to go after Firefox starts integrating even more Facebook technologies or Firefox for Linux gets ever more resources pulled away from it until it eventually gets cancelled, you&#8217;re blind. 
+
+<https://www.osnews.com/story/140247/i-told-you-so-mozilla-working-with-facebook-to-weaken-firefox-privacy-and-anti-tracking-features/>
+
+---
+
+## Telepong
+
+date: 2024-07-15, from: NASA breaking news
+
+Next Generation Science Standards:&#160;Engineering Design (MS-PS4-1, MS-ETS1) Grades 5+ In this activity, students will create an “antenna” or “receiver” out of re-used materials. After construction is complete, the students test their design by throwing “data” (in this case, ping pong balls) across the room and comparing the message to test the success of their receivers. 
+
+<https://www.nasa.gov/general/telepong/>
+
+---
+
+## The AMD Zen 5 microarchitecture: powering Ryzen AI 300 series for mobile and Ryzen 9000 for desktop
+
+date: 2024-07-15, from: OS News
+
+Built around the new Zen 5 CPU microarchitecture with some fundamental improvements to both graphics and AI performance, the Ryzen AI 300 series, code-named Strix Point, is set to deliver improvements in several areas. The Ryzen AI 300 series looks set to add another footnote in the march towards the AI PC with its mobile SoC featuring a new XDNA 2 NPU, from which AMD promises 50 TOPS of performance. AMD has also upgraded the integrated graphics with the RDNA 3.5, which is designed to replace the last generation of RDNA 3 mobile graphics, for better performance in games than we&#8217;ve seen before. Further to this, during AMD&#8217;s recent Tech Day last week, AMD disclosed some of the technical details regarding Zen 5, which also covers a number of key elements under the hood on both the Ryzen AI 300 and the Ryzen 9000 series. On paper, the Zen 5 architecture looks quite a big step up compared to Zen 4, with the key component driving Zen 5 forward through higher instructions per cycle than its predecessor, which is something AMD has managed to do consistently from Zen to Zen 2, Zen 3, Zen 4, and now Zen 5. ↫ Gavin Bonshor at AnandTech Not the review and deep analysis quite yet, but a first thorough look at what Zen 5 is going to bring us, straight from AnandTech. 
+
+<https://www.osnews.com/story/140243/the-amd-zen-5-microarchitecture-powering-ryzen-ai-300-series-for-mobile-and-ryzen-9000-for-desktop/>
+
+---
+
+## 15 Years Ago: STS-127 Delivers Japanese External Platform to Space Station
+
+date: 2024-07-15, from: NASA breaking news
+
+On July 15, 2009, space shuttle Endeavour began its 23rd trip into space, on the 2JA mission to the International Space Station, the 29th shuttle flight to the orbiting lab. During the 16-day mission, the seven-member STS-127 crew, working with Expedition 20, the first six-person crew aboard the station, completed the primary objectives of the [&#8230;] 
+
+<https://www.nasa.gov/history/15-years-ago-sts-127-delivers-japanese-external-platform-to-space-station/>
+
+---
+
+## Tech Today: NASA’s Moonshot Launched Commercial Fuel Cell Industry
+
+date: 2024-07-15, from: NASA breaking news
+
+Agency’s technology development prepared fuel cells for tomorrow’s renewable energy grids   
+
+<https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-nasas-moonshot-launched-commercial-fuel-cell-industry/>
+
+---
+
+## NASA, Universities Take Learning Out of Classroom
+
+date: 2024-07-15, from: NASA breaking news
+
+There’s no “I” in team, and that holds true for NASA and its partners as the agency ramps up efforts to recruit tenured professors to research science for a semester at the agency’s Kennedy Space Center in Florida. The tenured teachers work for up to a year in an area where the agency needs specific [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/kennedy/nasa-universities-take-learning-out-of-classroom/>
+
+---
+
+## NASA Transmits Hip-Hop Song to Deep Space for First Time
+
+date: 2024-07-15, from: NASA breaking news
+
+The stars above and on Earth aligned as an inspirational message and lyrics from the song “The Rain (Supa Dupa Fly)” by hip-hop artist Missy Elliott were beamed to Venus via NASA’s DSN (Deep Space Network). The agency’s Jet Propulsion Laboratory in Southern California sent the transmission at 10:05 a.m. PDT on Friday, July 12. [&#8230;] 
+
+<https://www.nasa.gov/general/nasa-transmits-hip-hop-song-to-deep-space-for-first-time/>
+
+---
+
+## You’re Always on That Phone: How Being Online Sustained Sudan’s Youth Revolution
+
+date: 2024-07-15, from: Logic Magazine
+
+
+                <p>The sit-in became a physical embodiment of the safe spaces we
+had only imagined could exist online. We congregated freely and spoke without bounds. We cared for each other in immediate ways.</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/youre-always-on-that-phone-how-being-online-sustained-sudans-youth>
+
+---
+
+## View From the Nuba Mountains: An Interview with Kuna
+
+date: 2024-07-15, from: Logic Magazine
+
+
+                <p>“Previously, when I was outside of Sudan, I was very much like, “I’m just Sudanese.” But now, I find myself more and more—I don’t want to say less willing—but I will say I feel safer identifying as a Nuba.”</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/view-from-the-nuba-mountains-an-interview-with-kuna>
+
+---
+
+## On Sudan and the Interminable Catastrophe: A Conversation with Bedour Alagraa
+
+date: 2024-07-15, from: Logic Magazine
+
+
+                <p>“In terms of genres of the human, I think that Sudan has a lot to tell the world about our assumptions about Man, because it’s a country that doesn’t have very many white people at all.”</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/on-sudan-and-the-interminable-catastrophe-an-interview-with-bedour-alagraa>
+
+---
+
+## Genocidal Technologies: The Deprivation of Medicine in Tigray
+
+date: 2024-07-15, from: Logic Magazine
+
+
+                <p>“The decimation of medicine and healthcare was a genocidal technology used to actualize as many deaths as possible—and one whose future deployment can by no means be ruled out.”</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/the-deprivation-of-medicine-in-tigray>
+
+---
+
+## Big Tech’s Power Consumption
+
+date: 2024-07-15, updated: 2024-07-15, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/07/15/big-techs-power-consumption/>
+
+---
+
+## UTM SE Now in the App Store
+
+date: 2024-07-15, from: Michael Tsai
+
+Wes Davis (Hacker News, MacRumors): Apple has approved UTM SE, an app for emulating a computer to run classic software and games, weeks after the company rejected it and barred it from being notarized for third-party app stores in the European Union. The app is now available for free for iOS, iPadOS, and visionOS.After Apple [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/15/utm-se-now-in-the-app-store/>
+
+---
+
+## Stack Overflow Changes Data Dump Process
+
+date: 2024-07-15, from: Michael Tsai
+
+Philippe (via Hacker News): I&#8217;m going to start with an important statement: this is primarily only a change in location for where the data dump is accessed. Moving forward, we&#8217;ll be providing the data dump from a section of the site user profile on a Stack Exchange profile.There are a number of reasons for this: [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/15/stack-overflow-changes-data-dump-process/>
+
+---
+
+## Midnight HomePod mini
+
+date: 2024-07-15, from: Michael Tsai
+
+Joe Rossignol: Apple today announced that the existing HomePod mini is now available in a Midnight color option, which replaces the nearly-identical Space Gray color previously offered. [&#8230;] Apple first released the HomePod mini in November 2020, and it has yet to release a second-generation model of the speaker. Caveat emptor: Apple still advertises this [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/15/midnight-homepod-mini/>
+
+---
+
+## NSCopying in a Swift World
+
+date: 2024-07-15, from: Michael Tsai
+
+Douglas Hill: This crash happens because, behind the scenes, the Swift compiler synthesises overrides of a superclass&#8217;s designated initialisers. These overridden initialisers crash to prevent objects from being incorrectly initialised from Objective-C. [&#8230;] From a quick look on Stack Overflow, it seems [self.class alloc] is often a recommended way to create a copy in Objective-C. [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/15/nscopying-in-a-swift-world/>
+
+---
+
+## Sequoia Beta 3 VMs Don’t Support Mac App Store
+
+date: 2024-07-15, from: Michael Tsai
+
+Howard Oakley: The third developer beta of macOS 15 Sequoia finally brings support for Apple ID in macOS virtual machines (VM). As this is likely to form the first public beta-release next week, here&#8217;s a short guide to how to install a Sequoia VM, and what you can do with it.[&#8230;]Apple has previously stated that [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/15/sequoia-beta-3-vms-dont-support-mac-app-store/>
+
+---
+
+## Sequoia Finally Addresses Notification Center Privacy
+
+date: 2024-07-15, from: Michael Tsai
+
+Arin Waichulis: The privacy implications of Notification Center popups are well-known in the security forensics community. Whether a user likes it or not, macOS temporarily keeps a log of every notification received in a single plaintext database. This can include messages from applications like iMessage, Slack, Teams, and virtually anything else. However, it now appears [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/15/sequoia-finally-addresses-notification-center-privacy/>
+
+---
+
+## Linux kernel 6.10 arrives with punched-up hardware support
+
+date: 2024-07-15, updated: 2024-07-15, from: Liam Proven's articles at the Register
+
+<h4>Plus: Broader Rust abilities, better sandboxing, and more</h4>
+      <p>The latest Linux kernel is here, with relatively few new features but better support for several hardware platforms, including non-Intel kit.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/15/linux_kernel_610_is_out/>
 
 ---
 
@@ -133,7 +758,7 @@ date: 2024-07-15, from: Raspberry Pi News (.com)
 
 **@Dave Winer's Scripting News** (date: 2024-07-15, from: Dave Winer's Scripting News)
 
-BTW, Al Sharpton should write the defining op-ed in the NYT, not George Clooney, who is very pretty, and a great choice to cast in movies like Up In The Air or Michael Clayton, but we don't know <i>anything</i> about his political judgement. He hasn't done anything to tell us who he is in that dimension. To the extent that we do know anything about him: 1. He's a jokester. 2. He has a brilliant and beautiful wife. 3. He has a huge villa in Italy which he keeps very private. That's about it. He's rich. We have nothing in common. He should run for office and get in the mix. The fact that the NYT chose him, that says something about them, other than they don't care what people think, or they think we're really shallow and will fall for bullshit like George Clooney who says he loves Biden. We didn't even know he knew Joe Biden! Why should Clooney have more of a say in this than I do? Tell me what Nancy Pelosi thinks, or Al Sharpton (I know I said that before). Or give Michael Moore a shot. He has a lot more skin in the game than Clooney. I'd love to read an op-ed by David Frum. Liz Cheney! I would be interested in her opinion on this. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/09/08/theTruthCanBeAdjusted.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://en.wikipedia.org/wiki/Al_Sharpton">Al Sharpton</a> should write the defining op-ed in the NYT, not <a href="https://en.wikipedia.org/wiki/George_Clooney">George Clooney</a>, who is very pretty, and a great choice to cast in movies like <a href="https://en.wikipedia.org/wiki/Up_in_the_Air_(2009_film)">Up In The Air</a> or <a href="https://en.wikipedia.org/wiki/Michael_Clayton">Michael Clayton</a>, but we don't know <i>anything</i> about his political judgement. He hasn't done anything to tell us who he is in that dimension. To the extent that we do know anything about him: 1. He's a <a href="https://www.yahoo.com/entertainment/george-clooney-reveals-hilarious-pranks-hes-pulled-while-pretending-to-be-brad-pitt-and-bill-clinton-063025071.html">prankster</a>. 2. He has a brilliant and beautiful <a href="https://en.wikipedia.org/wiki/Amal_Clooney">wife</a>. 3. He has a huge <a href="https://www.housebeautiful.com/lifestyle/entertainment/a45302334/george-clooney-not-selling-lake-como-villa/">mansion</a> in Italy which he keeps very private. 4. He's <a href="https://www.cosmopolitan.com/entertainment/celebs/a44752794/george-clooney-net-worth/">rich</a>. We have nothing in common. He should run for office and get in the mix. The fact that the NYT chose him, that says something about them, they don't care what people think, or they think we're really shallow and will fall for bullshit like George Clooney. He loves Biden. We didn't even know he knew Joe Biden! Why should Clooney have more of a say in this than I do? Tell me what <a href="https://en.wikipedia.org/wiki/Nancy_Pelosi">Nancy Pelosi</a> thinks, or Al Sharpton. Or give <a href="https://en.wikipedia.org/wiki/Michael_Moore">Michael Moore</a> a shot. He has a lot more skin in the game than Clooney. I'd love to read an op-ed by <a href="https://en.wikipedia.org/wiki/David_Frum">David Frum</a>. <a href="https://en.wikipedia.org/wiki/Liz_Cheney">Liz Cheney</a>. <a href="https://www.google.com/search?q=site%3Ascripting.com+%22elie+mystal%22">Elie Mystal</a>. 
 
 <http://scripting.com/2024/07/15.html#a130217>
 
@@ -141,7 +766,7 @@ BTW, Al Sharpton should write the defining op-ed in the NYT, not George Clooney,
 
 **@Dave Winer's Scripting News** (date: 2024-07-15, from: Dave Winer's Scripting News)
 
-Government should roll out new initiatives with the same skill as Apple rolls out new products. Not the same as Steve Jobs, that's asking too much. But with focus and showmanship, and a livestream, and fanbois and Al Sharpton in place of John Gruber. Focus our attention on each product (ie climate change, social security, Ukraine, etc), so the ideas don't get missed, and we can network in support of the initiative. This is all part of the idea of having a <i>democratic.party</i> website that we call call home for our political organizing. None of this pissing in the wind we do on twitter-like systems. Form buddy groups of people we organize with, based on locality or common interests. Organize the people as well as the billionaires are organized. This is what political parties should be in 2024 for crying out loud. We're missing the point of the mess in our politics. It's all a mess because it needs to be organized and it's not. Maybe I should take everything else off my blog now so I can use what little attention I have been able to gather here to focus on this idea. <i>We. Need. To. Organize.</i> 
+<i>We. Need. To. Organize.</i> Democrats should roll out new initiatives with the same skill as Apple rolls out new products. Not the same as <a href="https://www.google.com/search?q=site%3Ascripting.com+%22Steve+Jobs%22">Steve Jobs</a>, that's asking too much. But with focus and showmanship, and a livestream, and fanbois and Al Sharpton in place of <a href="https://en.wikipedia.org/wiki/John_Gruber">John Gruber</a>. Focus our attention on each product (ie climate change, social security, Ukraine, etc), so the ideas don't get missed, and we can network in support of the initiative. This is all part of the idea of having a <i>democratic.party</i> website that we call call home for our political organizing. None of this pissing in the wind we do on twitter-like systems. Form buddy groups of people we organize with, based on locality or common interests. Organize the people as well as the billionaires are organized. This is what political parties should be in 2024 for crying out loud. We're missing the point of the mess in our politics. It's all a mess because it needs to be organized and it's not. Maybe I should take everything else off my blog now so I can use what little attention I have been able to gather here to focus on this idea. 
 
 <http://scripting.com/2024/07/15.html#a124845>
 
@@ -173,7 +798,7 @@ date: 2024-07-15, from: Dave Winer's Scripting News
 
 **@Dave Winer's Scripting News** (date: 2024-07-15, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/21/wordleKittyHello.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">In today's <a href="https://www.facebook.com/photo/?fbid=2288099451397447&set=a.113966572144090">episode</a>: "The very cute but also very courageous Wordle Kitty is learning how to be a surgeon. They brought a mysterious leader into the operating room and asked the Kitty to please operate on the leader and save his life so Wordle Kitty got out the <a href="https://www.amazon.com/Brain-Surgery-Beginners-Operations-Minors/dp/0590031872">textbook</a> and read up on brain surgery, even though the patient only had a nick on his ear, which was admittedly very bloody, she operated on the patient’s brain and unfortunately the patient died. So we are looking at the scene where the dead body of the patient is on the operating table and Wordle Kitty is smoking a cigarette, relaxing and reflecting on what she learned. She’s still very cute of course." 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/21/wordleKittyHello.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">In today's Kitty Komix <a href="https://www.facebook.com/photo/?fbid=2288099451397447&set=a.113966572144090">episode</a>: "The very cute but also very courageous Wordle Kitty is learning how to be a surgeon. They brought a mysterious leader into the operating room and asked the Kitty to please operate on the leader and save his life so Wordle Kitty got out the <a href="https://www.amazon.com/Brain-Surgery-Beginners-Operations-Minors/dp/0590031872">textbook</a> and read up on brain surgery, even though the patient only had a nick on his ear, which was admittedly very bloody, she operated on the patient’s brain and unfortunately the patient died. So we are looking at the scene where the dead body of the patient is on the operating table and Wordle Kitty is smoking a cigarette, relaxing and reflecting on what she learned. She’s still very cute of course." 
 
 <http://scripting.com/2024/07/15.html#a115144>
 

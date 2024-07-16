@@ -1,11 +1,131 @@
 ---
 title: motorcycles 2024.29
-updated: 2024-07-15 08:45:31
+updated: 2024-07-16 08:12:32
 ---
 
 # motorcycles 2024.29
 
-(date: 2024-07-15 08:45:31)
+(date: 2024-07-16 08:12:32)
+
+---
+
+## Husqvarna’s New Dirt Bike Wants to Shape the Next Generation of Racers
+
+date: 2024-07-16, from: Ride Apart, Electric Motorcycle News
+
+The TC 85 gets a bunch of updates for 2025, including a new frame and updated engine.  
+
+<https://www.rideapart.com/news/726605/2025-husqvarna-tc85-motocross-bike-unveiled/>
+
+---
+
+## Forget Stanley Cups, Check Out These Suzuki Stainless Steel Tumblers
+
+date: 2024-07-16, from: Ride Apart, Electric Motorcycle News
+
+Double-wall insulation to keep your favorite beverages ice cold this summer. 
+
+<https://www.rideapart.com/news/726701/suzuki-katana-stainless-steel-tumbler/>
+
+---
+
+## This Chinese Motorcycle Company Is Selling a Honda Hunter Cub on Steroids
+
+date: 2024-07-16, from: Ride Apart, Electric Motorcycle News
+
+Leten’s Adventure Cub LT190 is loaded with tech—maybe too much tech. 
+
+<https://www.rideapart.com/news/726573/leten-lt190-adventure-cub/>
+
+---
+
+## What Do You Think, Can This Snoopy Motorcycle Win An Off-Road Gymkhana?
+
+date: 2024-07-16, from: Ride Apart, Electric Motorcycle News
+
+Let's just say this Flying Ace wasn't exactly made for jumps. 
+
+<https://www.rideapart.com/news/726686/snoopy-bike-off-road-racing/>
+
+---
+
+## CFMoto Just Sorta Brought The Triumph Daytona 675R Back To Life
+
+date: 2024-07-16, from: Ride Apart, Electric Motorcycle News
+
+The new 675SR-R is poised to be CFMoto’s most performance-oriented model to date.  
+
+<https://www.rideapart.com/news/726567/cfmoto-675srr-unveiled/>
+
+---
+
+## Bucking the Trend, CFMoto Might Be Introducing a Sporty ATV
+
+date: 2024-07-16, from: Ride Apart, Electric Motorcycle News
+
+Yes, do it.  
+
+<https://www.rideapart.com/news/726679/cfmoto-sport-atv-quad-patent/>
+
+---
+
+## Harley-Davidson Factory Racer Kyle Wyman Claims King of the Baggers Points Lead
+
+date: 2024-07-16, from: Cycle World News
+
+Harley-Davidson Factory Racing rider Kyle Wyman took over the MotoAmerica Mission King of the Baggers points lead with a dominating win on Saturday. 
+
+<https://www.cycleworld.com/the-wire/harley-davidson-factory-racer-kyle-wyman-claims-king-of-the-baggers-points-lead/>
+
+---
+
+## Ducati Panigale V2 Superquadro Final Edition First Look
+
+date: 2024-07-15, from: Cycle World News
+
+As when Ducati put the 1299 V-twin Panigale out to pasture, the current Panigale V2 will exit the lineup with a bang. Just 555 units of the V2 Final Edition will be produced. 
+
+<https://www.cycleworld.com/bikes/ducati-panigale-v2-superquadro-final-edition-first-look/>
+
+---
+
+## MV Agusta Turismo Veloce Lusso SCS Review
+
+date: 2024-07-15, from: Cycle World News
+
+MV Agusta’s Turismo Veloce Lusso SCS combines sportbike performance with Italian styling and lots of tech, including a Smart Clutch System. 
+
+<https://www.cycleworld.com/motorcycle-reviews/mv-agusta-turismo-veloce-lusso-scs-review/>
+
+---
+
+## Royal Enfield “Flying Flea” Electric Bike
+
+date: 2024-07-15, from: Cycle World News
+
+New patents from Royal Enfield appear to be an evolution of a never produced 2022 concept electric motorcycle. Will this new model be called the Flying Flea? 
+
+<https://www.cycleworld.com/motorcycle-news/royal-enfield-flying-flea-electric-bike/>
+
+---
+
+## Gallery: NASCAR Cup, Xfinity at Pocono Raceway
+
+date: 2024-07-15, from: Kickin the Tires blog
+
+By Andrew Kaplan, Staff Photographer LONG POND, Pa. – Cole Custer and Ryan Blaney took the wins in the NASCAR Xfinity Series Explore the Pocono Mountains 225 and NASCAR Cup Series&#8230;  
+
+<https://kickinthetires.net/nascar/gallery-nascar-cup-xfinity-at-pocono-raceway/>
+
+---
+
+## 2024 Indian Challenger
+
+date: 2024-07-15, from: Cycle World News
+
+Indian’s Challenger bagger brings excellent handling, touring amenities, modern safety features, and a healthy dose of power to the V-twin touring category. 
+
+<https://www.cycleworld.com/indian/challenger/>
 
 ---
 
