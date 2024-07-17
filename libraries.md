@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.29
-updated: 2024-07-16 14:33:24
+updated: 2024-07-17 08:39:52
 ---
 
 # libraries 2024.29
 
-(date: 2024-07-16 14:33:24)
+(date: 2024-07-17 08:39:52)
+
+---
+
+## Kitchen Essentials: An Interview with Wendy Queen of Project MUSE
+
+date: 2024-07-17, from: Scholarly Kitchen
+
+<p>In today’s Kitchen Essentials, Roger Schonfeld speaks with Wendy Queen, Director, Project MUSE, a leading provider of digital humanities and social science content for the scholarly community around the world. </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/07/17/kitchen-essentials-an-interview-with-wendy-queen-of-project-muse/">Kitchen Essentials: An Interview with Wendy Queen of Project MUSE</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/07/17/kitchen-essentials-an-interview-with-wendy-queen-of-project-muse/>
 
 ---
 

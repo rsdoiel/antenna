@@ -1,11 +1,290 @@
 ---
 title: tech likely 2024.29
-updated: 2024-07-16 14:33:22
+updated: 2024-07-17 08:39:50
 ---
 
 # tech likely 2024.29
 
-(date: 2024-07-16 14:33:22)
+(date: 2024-07-17 08:39:50)
+
+---
+
+## Coming of Age during Wartime in Sudan: A Conversation with Omnia Mustafa
+
+date: 2024-07-17, from: Logic Magazine
+
+
+                <p>“When we are engaging with African people, they tell us, ‘You’re too Arab for us.’ And when we engage with Arab people, they tell us, ‘You’re too African for us.’”</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/coming-of-age-during-wartime-in-sudan-a-conversation-with-omnia-mustafa>
+
+---
+
+##  Scientists extracted DNA from an exceptionally preserved woolly mammoth. &#8220;A complete genome... 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044952-scientists-extracted-dna->
+
+---
+
+## NASA STEM Program for Indigenous Communities Honored for Excellence
+
+date: 2024-07-17, from: NASA breaking news
+
+NASA has been selected by the International Astronautical Federation to receive its 2024 “3G” Diversity Award, which recognizes organizations for their contributions to fostering geographic, generational, and gender diversity in the space sector. NASA’s Indigenous Community-Based Education (CBE) Program is a consortium of partnerships between NASA and numerous, diverse Indigenous communities which co-create unique educational [&#8230;] 
+
+<https://www.nasa.gov/general/nasa-stem-program-for-indigenous-communities-honored-for-excellence/>
+
+---
+
+## Tight-Knit Microbes Live Together to Make a Vital Nutrient
+
+date: 2024-07-17, from: Quanta Magazine
+
+At sea, biologists discovered microbial partners that together produce nitrogen, a nutrient essential for life. The pair are in the process of merging into a single organism.            <p>The post <a href="https://www.quantamagazine.org/tight-knit-microbes-live-together-to-make-a-vital-nutrient-20240717/" target="_blank">Tight-Knit Microbes Live Together to Make a Vital Nutrient</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/tight-knit-microbes-live-together-to-make-a-vital-nutrient-20240717/>
+
+---
+
+## Lunch break
+
+date: 2024-07-17, from: Rachel Kwon blog
+
+I never had a regular &ldquo;lunch break&rdquo; until recently. Early in my career it was not by choice — in surgery training there&rsquo;s really no such thing as a break, only a stolen minute or two here and there to pee or wolf down whatever food you can scrounge or nap in a chair if it&rsquo;s the middle of the night and you&rsquo;re on call. We did get a $5 meal coupon for the hospital cafeteria which could get you a cup of terrible coffee and a bagel drier than a bag of silica gel in the Sahara desert. 
+
+<https://kwon.nyc/notes/lunch-break/>
+
+---
+
+## Saving Modernist Houses with the Help of the Internet Archive
+
+date: 2024-07-17, from: Internet Archive Blog
+
+George Smart is on a mission to save mid-century modern houses. He believes the structures are works of art that people should respect—if they only realized their significance and knew [&#8230;] 
+
+<https://blog.archive.org/2024/07/17/saving-modernist-houses-with-the-help-of-the-internet-archive/>
+
+---
+
+## Hume’s characters
+
+date: 2024-07-17, from: Ayjay blog
+
+In the Oxford English Dictionary, definition II.12.a. of “character” is: “A description, delineation, or detailed report of a person&#8217;s qualities. Now chiefly historical.” As an example, one R. Lucas wrote: “He undertook to write characters of Pitt and Bonaparte.” The originator of this practice — in some formal sense; surely people have been doing it [&#8230;] 
+
+<https://blog.ayjay.org/humes-characters/>
+
+---
+
+## GNOME head honcho Holly Million steps down
+
+date: 2024-07-17, updated: 2024-07-17, from: Liam Proven's articles at the Register
+
+<h4>The nonprofit behind the desktop environment of the world's most profitable Linux company will be looking for money again</h4>
+      <p>The executive director of the GNOME Foundation has quit after less than a year in the role.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/17/gnome_boss_steps_down/>
+
+---
+
+## Windows NT on a whole new platform: PowerMac
+
+date: 2024-07-17, updated: 2024-07-17, from: Liam Proven's articles at the Register
+
+<h4>Got a G3 iMac? Want to run NT? Now you can!</h4>
+      <p>Ever wanted to run Windows NT on your vintage PowerPC Macintosh? No, me neither, but now it's possible thanks to some amazing FOSS work.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/17/windows_nt_on_powermac_g3/>
+
+---
+
+## Get pied with this triple Pi(e) game
+
+date: 2024-07-17, from: Raspberry Pi News (.com)
+
+<p>This innovative game incorporates three different forms of pi(e): the mathematical constant, a whipped cream pie, and a Raspberry Pi Pico.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/get-pied-with-this-triple-pie-game/">Get pied with this triple Pi(e) game</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/get-pied-with-this-triple-pie-game/>
+
+---
+
+## 2024-07-16 What's the minimal NNCP setup to get started?
+
+date: 2024-07-17, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-16-what-s-the-minimal-nncp-setup-to-get-started">2024-07-16 What&rsquo;s the minimal NNCP setup to get started?</h1>
+
+<p>This page is for you if you are curious about NNCP and you don&rsquo;t know how to get started.
+It contains instructions on how to set up your laptop such that it can exchange files with my laptop (melanobombus) via my server (sibirocobombus).</p>
+
+<p>Before testing it, you need to send me an email with some info but we&rsquo;ll get to that.</p>
+
+<p>First, switch to the root user. Everything will be easier that way.</p>
+
+<pre><code>sudo su
+</code></pre>
+
+<p>The instructions are going to assume a Debian system.</p>
+
+<p>Begin by installing the <code>nncp</code> package.</p>
+
+<pre><code>apt install nncp
+</code></pre>
+
+<p>Generate a new <code>/etc/nncp.hjson</code> file and secure it:</p>
+
+<pre><code>nncp-cfgnew &gt; /etc/nncp.hjson
+chown nncp:nncp /etc/nncp.hjson
+chmod 660 /etc/nncp.hjson
+</code></pre>
+
+<p>You need to add my server to your <code>/etc/nncp.hjson</code> file, in the <code>neigh</code> section.</p>
+
+<pre><code>    sibirocobombus: {
+      id:       CCAIPFSAZWYICBQ5BIURX4UMEJIXVSZFIING7HRUFTDOFV5XISVQ
+      exchpub:  NGEIDPDVZ2I6CTRKCBT734VV4W2YFVTV6YFBU5UGB6IHBA3QDJUQ
+      signpub:  VXBMWXS74IGAYQCLJY4UPAXXQXPT3K53QI5XCFHOAKL4I2FQNLKQ
+      noisepub: MGGBAOHRHEWEC6CGT47GA2DOQXQFZUAKJ66PD734Y5WNWP364UXQ
+      addrs: {
+        internet: &quot;alexschroeder.ch:5400&quot;
+      }
+      calls: [
+        {
+          cron: &quot;@daily&quot;
+        }
+      ]
+    }
+</code></pre>
+
+<p>What does it mean?</p>
+
+<ol>
+<li>you know how to contact my server via the <code>.addrs.internet</code> key – you need this, but you can specify <code>campaignwiki.org</code> instead, if your prefer</li>
+<li>you connect to my server every now and then via the <code>calls[0].cron</code> entry – this is not necessary if you don&rsquo;t mind using <code>nncp-call</code> every now and then</li>
+</ol>
+
+<p>My laptop can only be reached via my server. You need to add it as well.</p>
+
+<p>As far as the <code>melanobombus.incoming</code> key goes, pick a suitable directory that your regular account has access to.</p>
+
+<pre><code>    melanobombus: {
+      id:       R23WEIHB52TMA4EKGJPKUDBFSYP2HG4HHW2HGJ3RJATCCRLYDUZQ
+      exchpub:  EGP2MMLQJQUKWTHI22JTIRMR2UV3BA2ATE3AYLVOFODMTNRGAMEA
+      signpub:  YO6SZXVEIU77OQQRKMAUFUT4V3NJER4U7LQE5JI7JORJXKXY5FBA
+      noisepub: 6ECO4WXJNDED6WHJ6SM2HGRQMUO75X65ALT2YRKZ3YGGBDXRNV4A
+      via:      [&quot;sibirocobombus&quot;]
+      incoming: &quot;/home/alex/incoming/melanobombus&quot;
+      exec: {
+        rsmtp:  [&quot;/usr/sbin/sendmail&quot;, &quot;-bS&quot;]
+      }
+    }
+</code></pre>
+
+<p>What does it mean?</p>
+
+<ol>
+<li>you know how to contact my laptop via my server using the <code>.via[0]</code> key – you need this and the name needs to match the name you used for my server</li>
+<li>you allow my laptop to save incoming files in a directory via the <code>.incoming</code> key – you only need this if you want to receive files (the directory must exist and the <code>nncp</code> group must be allowed to write to it)</li>
+<li>you allow my laptop to send mail to local users via the <code>.exec.rsmtp</code> key – this is not necessary if you don&rsquo;t want to receive mail</li>
+</ol>
+
+<p>You would create the incoming directory as follows, as your regular user:</p>
+
+<pre><code>mkdir --parents ~/incoming/melanobombus
+sudo chgrp nncp ~/incoming/melanobombus
+sudo chmod g+w ~/incoming/melanobombus
+</code></pre>
+
+<p>You need to send me your system&rsquo;s public keys from the <code>/etc/nncp.hjson</code> file so that I can set up similar entries on my laptop and my server.</p>
+
+<p>Once I&rsquo;ve added your public keys to my server, we can test it.</p>
+
+<p>My server will not call you, since it doesn&rsquo;t know your Internet address.
+It waits for you to call it both when you want to send or when you want to receive something.
+You would do this as follows:</p>
+
+<pre><code>sudo -u nncp nncp-call sibirocobombus
+</code></pre>
+
+<p>Otherwise, the <code>@daily</code> entry in the <code>sibirocobombus.cron[0]</code> entry of your <code>/etc/nncp.hjson</code> file will call my server once a day, at midnight.</p>
+
+<p>To send me a README file, you&rsquo;d run:</p>
+
+<pre><code>sudo -u nncp nncp-file README melanobombus:
+2024-07-12T18:12:15Z Tx README 486 B/486 B 100% (73 KiB/sec)
+2024-07-12T18:12:15Z File README (282 B) is sent to melanobombus:README
+</code></pre>
+
+<p>At this point, the file is in the queue.</p>
+
+<p>You need to to call my server using <code>sudo -u nncp nncp-call sibirocobombus</code> to actually send the files or you&rsquo;ll have to wait for the cron job. My server will receive the packets encrypted and addressed to my laptop and enqueue them again. The next time my laptop calls my server, it&rsquo;ll get them.</p>
+
+<p>You probably want to let me know about the file via <a href="Contact">another channel</a>. But soon enough we can set up mail via NNCP. 😁</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23NNCP">#NNCP</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-16-minimal-nncp-setup>
+
+---
+
+## Not So Tenacious
+
+date: 2024-07-17, from: Tedium site
+
+The hiatus and possible breakup of Tenacious D makes me feel sad about the state of creative partnerships, and how power dynamics can break them. 
+
+<https://feed.tedium.co/link/15204/16745780/tenacious-d-comedic-partnership-controversy>
+
+---
+
+## Discovery Alert: With Six New Worlds, 5,500 Discovery Milestone Passed!
+
+date: 2024-07-17, from: NASA breaking news
+
+On Aug. 24, 2023, more than three decades after the first confirmation of planets beyond our own solar system, scientists announced the discovery of six new exoplanets, stretching that number to 5,502. From zero exoplanet confirmations to over 5,500 in just a few decades, this new milestone marks another major step in the journey to […] 
+
+<https://science.nasa.gov/universe/exoplanets/discovery-alert-with-six-new-worlds-5500-discovery-milestone-passed/>
+
+---
+
+## Whispers of Vanished Childhood
+
+date: 2024-07-17, from: Logic Magazine
+
+
+                <p>“The deserted street felt like a canvas wiped clean, with only my mother and I left as the remaining strokes of a forsaken painting.”</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/whispers-of-vanished-childhood>
+
+---
+
+##  Jimi Hendrix Goes Acoustic 
+
+date: 2024-07-16, updated: 2024-07-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/jimi-hendrix-goes-acoustic>
+
+---
+
+## NASA Invites Media to Discuss Exploration Science Program Update
+
+date: 2024-07-16, from: NASA breaking news
+
+NASA will hold a media teleconference at 4 p.m. EDT, Wednesday, July 17, to provide an update on a program within NASA’s Exploration Science Strategy and Integration Office. Audio of the teleconference will stream live on the agency’s website at: https://www.nasa.gov/nasatv Participants in the teleconference include: To ask questions during the teleconference, media must RSVP [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-exploration-science-program-update/>
 
 ---
 
@@ -300,127 +579,6 @@ date: 2024-07-16, from: NASA breaking news
 
 ---
 
-## 2024-07-16 What's the minimal NNCP setup to get started?
-
-date: 2024-07-16, from: Alex Schroeder's Blog
-
-<h1 id="2024-07-16-what-s-the-minimal-nncp-setup-to-get-started">2024-07-16 What&rsquo;s the minimal NNCP setup to get started?</h1>
-
-<p>This page is for you if you are curious about NNCP and you don&rsquo;t know how to get started.
-It contains instructions on how to set up your laptop such that it can exchange files with my laptop (melanobombus) via my server (sibirocobombus).</p>
-
-<p>Before testing it, you need to send me an email with some info but we&rsquo;ll get to that.</p>
-
-<p>First, switch to the root user. Everything will be easier that way.</p>
-
-<pre><code>sudo su
-</code></pre>
-
-<p>The instructions are going to assume a Debian system.</p>
-
-<p>First, install the <code>nncp</code> package.</p>
-
-<pre><code>apt install nncp
-</code></pre>
-
-<p>Generate a new <code>/etc/nncp.hjson</code> file and secure it:</p>
-
-<pre><code>nncp-cfgnew &gt; /etc/nncp.hjson
-chown nncp:nncp /etc/nncp.hjson
-chmod 660 /etc/nncp.hjson
-</code></pre>
-
-<p>You need to add my server to your <code>/etc/nncp.hjson</code> file, in the <code>neigh</code> section.</p>
-
-<pre><code>    sibirocobombus: {
-      id:       CCAIPFSAZWYICBQ5BIURX4UMEJIXVSZFIING7HRUFTDOFV5XISVQ
-      exchpub:  NGEIDPDVZ2I6CTRKCBT734VV4W2YFVTV6YFBU5UGB6IHBA3QDJUQ
-      signpub:  VXBMWXS74IGAYQCLJY4UPAXXQXPT3K53QI5XCFHOAKL4I2FQNLKQ
-      noisepub: MGGBAOHRHEWEC6CGT47GA2DOQXQFZUAKJ66PD734Y5WNWP364UXQ
-      addrs: {
-        internet: &quot;alexschroeder.ch:5400&quot;
-      }
-      calls: [
-        {
-          cron: &quot;@daily&quot;
-        }
-      ]
-    }
-</code></pre>
-
-<p>What does it mean?</p>
-
-<ol>
-<li>you know how to contact my server via the <code>.addrs.internet</code> key – you need this, but you can specify <code>campaignwiki.org</code> instead, if your prefer</li>
-<li>you connect to my server every now and then via the <code>calls[0].cron</code> entry – this is not necessary if you don&rsquo;t mind using <code>nncp-call</code> every now and then</li>
-</ol>
-
-<p>My laptop can only be reached via my server. You need to add it as well.</p>
-
-<p>As far as the <code>melanobombus.incoming</code> key goes, pick a suitable directory that your regular account has access to.</p>
-
-<pre><code>    melanobombus: {
-      id:       R23WEIHB52TMA4EKGJPKUDBFSYP2HG4HHW2HGJ3RJATCCRLYDUZQ
-      exchpub:  EGP2MMLQJQUKWTHI22JTIRMR2UV3BA2ATE3AYLVOFODMTNRGAMEA
-      signpub:  YO6SZXVEIU77OQQRKMAUFUT4V3NJER4U7LQE5JI7JORJXKXY5FBA
-      noisepub: 6ECO4WXJNDED6WHJ6SM2HGRQMUO75X65ALT2YRKZ3YGGBDXRNV4A
-      via:      [&quot;sibirocobombus&quot;]
-      incoming: &quot;/home/alex/incoming/melanobombus&quot;
-      exec: {
-        rsmtp:  [&quot;/usr/sbin/sendmail&quot;, &quot;-bS&quot;]
-      }
-    }
-</code></pre>
-
-<p>What does it mean?</p>
-
-<ol>
-<li>you know how to contact my laptop via my server using the <code>.via[0]</code> key – you need this and the name needs to match the name you used for my server</li>
-<li>you allow my laptop to save incoming files in a directory via the <code>.incoming</code> key – you only need this if you want to receive files (the directory must exist and the <code>nncp</code> group must be allowed to write to it)</li>
-<li>you allow my laptop to send mail to local users via the <code>.exec.rsmtp</code> key – this is not necessary if you don&rsquo;t want to receive mail</li>
-</ol>
-
-<p>You would create the directory as follows.
-I&rsquo;m assuming that <code>$SUDO_USER</code> is your actual username so I&rsquo;ll use that instead of &ldquo;alex&rdquo;.</p>
-
-<pre><code>dir=&quot;/home/$SUDO_USER/incoming/melanobombus&quot;
-mkdir --parents &quot;$dir&quot;
-chown $SUDO_USER:nncp &quot;$dir&quot;
-chmod g+w &quot;$dir&quot;
-</code></pre>
-
-<p>You need to send me your system&rsquo;s public keys from the <code>/etc/nncp.hjson</code> file so that I can set up similar entries on my laptop and my server.</p>
-
-<p>Once I&rsquo;ve added your public keys to my server, we can test it.</p>
-
-<p>My server will not call you, since it doesn&rsquo;t know your Internet address.
-It waits for you to call it both when you want to send or when you want to receive something.
-You would do this as follows:</p>
-
-<pre><code>sudo -u nncp nncp-call sibirocobombus
-</code></pre>
-
-<p>Otherwise, the <code>@daily</code> entry in the <code>sibirocobombus.cron[0]</code> entry of your <code>/etc/nncp.hjson</code> file will call my server once a day, at midnight.</p>
-
-<p>To send me a README file, you&rsquo;d run:</p>
-
-<pre><code>sudo -u nncp nncp-file README melanobombus:
-2024-07-12T18:12:15Z Tx README 486 B/486 B 100% (73 KiB/sec)
-2024-07-12T18:12:15Z File README (282 B) is sent to melanobombus:README
-</code></pre>
-
-<p>At this point, the file is in the queue.</p>
-
-<p>You need to to call my server using <code>sudo -u nncp nncp-call sibirocobombus</code> to actually send the files or you&rsquo;ll have to wait for the cron job. My server will receive the packets encrypted and addressed to my laptop and enqueue them again. The next time my laptop calls my server, it&rsquo;ll get them.</p>
-
-<p>You probably want to let me know about the channel via another channel, be it IRC, regular mail!</p>
-
-<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23NNCP">#NNCP</a></p> 
-
-<https://alexschroeder.ch/view/2024-07-16-minimal-nncp-setup>
-
----
-
 ##  &#8220;15 Books About Appalachia to Read Instead of Hillbilly Elegy&#8221; 
 
 date: 2024-07-16, updated: 2024-07-16, from: Jason Kottke blog
@@ -709,6 +867,16 @@ Since I would like the dungeons to be close to the prep I do for my own games so
 <p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%231PDC">#1PDC</a></p> 
 
 <https://alexschroeder.ch/view/2024-07-15-1pdc>
+
+---
+
+## 2024/07/16 Moving Quantum Computing from Hype to Prototype
+
+date: 2024-07-16, from: Darpa News
+
+<div style="float:left"><img title="Moving Quantum Computing from Hype to Prototype" alt="Moving Quantum Computing from Hype to Prototype" src="https://www.darpa.mil/DDM_Gallery/shutterstock_2463642439_619x316_thumb.jpg" border="0"/></div>DARPA is starting a new effort to examine industrial quantum computing. The Quantum Benchmarking Initiative (QBI) will benchmark quantum computing applications and algorithms as well as significantly expand our efforts to validate quantum computer hardware progress. DARPA's goal is to determine if it's possible to actually build an industrially useful quantum computer much faster than conventional predictions. 
+
+<https://www.darpa.mil/news-events/2024-07-16>
 
 ---
 

@@ -1,11 +1,210 @@
 ---
 title: columns 2024.29
-updated: 2024-07-16 14:33:23
+updated: 2024-07-17 08:39:50
 ---
 
 # columns 2024.29
 
-(date: 2024-07-16 14:33:23)
+(date: 2024-07-17 08:39:50)
+
+---
+
+## Pete Wells Is Stepping Down as NYT Food Critic
+
+date: 2024-07-17, updated: 2024-07-17, from: Daring Fireball
+
+ 
+
+<https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html?unlocked_article_code=1.7k0.R2zu.sGv5x7hNrfba>
+
+---
+
+##  Scientists extracted DNA from an exceptionally preserved woolly mammoth. &#8220;A complete genome... 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044952-scientists-extracted-dna->
+
+---
+
+## Office Hours: Did the assassination attempt help Trump, and if so, how?
+
+date: 2024-07-17, from: Robert Reich's blog
+
+Friends, As I said Saturday, I was enormously relieved that the assassination attempt on Trump failed. Besides the human cost would have been a dangerous political one: The violence lurking just under the surface of American politics needs no further provocation. 
+
+<https://robertreich.substack.com/p/office-hours-did-the-assassination>
+
+---
+
+## DIY electricity
+
+date: 2024-07-17, from: Enlightenment Economics blog
+
+My student Aneesha gave me a book a few weeks ago before she headed off to do her PhD in energy systems at Berkeley, The Grid by Gretchen Bakke. OK, I thought, I&#8217;ll give it a try &#8211; but how &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/07/diy-electricity/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2024/07/diy-electricity/>
+
+---
+
+## July 16, 2024 
+
+date: 2024-07-17, from: Heather Cox Richardson blog
+
+The Republican National Convention is a moment to reintroduce Trump and MAGA Republicans to voters who have not seen them up close since at least 2021. So far, the convention has proved that the Republican Party is now the MAGA Party. It has not been a smooth unveiling. 
+
+<https://heathercoxrichardson.substack.com/p/july-16-2024>
+
+---
+
+## Vision Pro, the first few days
+
+date: 2024-07-17, from: Paolo Valdemarin's blog
+
+I picked up my Vision Pro last Friday, as soon as it became available in the UK. These have been busy days, so I haven’t had much time to play with the new toy, but I want to share my first impressions. It’s an impressive piece of kit. While I’m not sure the steep price &#8230; <a href="https://val.demar.in/2024/07/vision-pro-first-few-days/" class="more-link">Continue reading<span class="screen-reader-text"> "Vision Pro, the first few days"</span></a> 
+
+<https://val.demar.in/2024/07/vision-pro-first-few-days/>
+
+---
+
+## 2024-07-16 What's the minimal NNCP setup to get started?
+
+date: 2024-07-17, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-16-what-s-the-minimal-nncp-setup-to-get-started">2024-07-16 What&rsquo;s the minimal NNCP setup to get started?</h1>
+
+<p>This page is for you if you are curious about NNCP and you don&rsquo;t know how to get started.
+It contains instructions on how to set up your laptop such that it can exchange files with my laptop (melanobombus) via my server (sibirocobombus).</p>
+
+<p>Before testing it, you need to send me an email with some info but we&rsquo;ll get to that.</p>
+
+<p>First, switch to the root user. Everything will be easier that way.</p>
+
+<pre><code>sudo su
+</code></pre>
+
+<p>The instructions are going to assume a Debian system.</p>
+
+<p>Begin by installing the <code>nncp</code> package.</p>
+
+<pre><code>apt install nncp
+</code></pre>
+
+<p>Generate a new <code>/etc/nncp.hjson</code> file and secure it:</p>
+
+<pre><code>nncp-cfgnew &gt; /etc/nncp.hjson
+chown nncp:nncp /etc/nncp.hjson
+chmod 660 /etc/nncp.hjson
+</code></pre>
+
+<p>You need to add my server to your <code>/etc/nncp.hjson</code> file, in the <code>neigh</code> section.</p>
+
+<pre><code>    sibirocobombus: {
+      id:       CCAIPFSAZWYICBQ5BIURX4UMEJIXVSZFIING7HRUFTDOFV5XISVQ
+      exchpub:  NGEIDPDVZ2I6CTRKCBT734VV4W2YFVTV6YFBU5UGB6IHBA3QDJUQ
+      signpub:  VXBMWXS74IGAYQCLJY4UPAXXQXPT3K53QI5XCFHOAKL4I2FQNLKQ
+      noisepub: MGGBAOHRHEWEC6CGT47GA2DOQXQFZUAKJ66PD734Y5WNWP364UXQ
+      addrs: {
+        internet: &quot;alexschroeder.ch:5400&quot;
+      }
+      calls: [
+        {
+          cron: &quot;@daily&quot;
+        }
+      ]
+    }
+</code></pre>
+
+<p>What does it mean?</p>
+
+<ol>
+<li>you know how to contact my server via the <code>.addrs.internet</code> key – you need this, but you can specify <code>campaignwiki.org</code> instead, if your prefer</li>
+<li>you connect to my server every now and then via the <code>calls[0].cron</code> entry – this is not necessary if you don&rsquo;t mind using <code>nncp-call</code> every now and then</li>
+</ol>
+
+<p>My laptop can only be reached via my server. You need to add it as well.</p>
+
+<p>As far as the <code>melanobombus.incoming</code> key goes, pick a suitable directory that your regular account has access to.</p>
+
+<pre><code>    melanobombus: {
+      id:       R23WEIHB52TMA4EKGJPKUDBFSYP2HG4HHW2HGJ3RJATCCRLYDUZQ
+      exchpub:  EGP2MMLQJQUKWTHI22JTIRMR2UV3BA2ATE3AYLVOFODMTNRGAMEA
+      signpub:  YO6SZXVEIU77OQQRKMAUFUT4V3NJER4U7LQE5JI7JORJXKXY5FBA
+      noisepub: 6ECO4WXJNDED6WHJ6SM2HGRQMUO75X65ALT2YRKZ3YGGBDXRNV4A
+      via:      [&quot;sibirocobombus&quot;]
+      incoming: &quot;/home/alex/incoming/melanobombus&quot;
+      exec: {
+        rsmtp:  [&quot;/usr/sbin/sendmail&quot;, &quot;-bS&quot;]
+      }
+    }
+</code></pre>
+
+<p>What does it mean?</p>
+
+<ol>
+<li>you know how to contact my laptop via my server using the <code>.via[0]</code> key – you need this and the name needs to match the name you used for my server</li>
+<li>you allow my laptop to save incoming files in a directory via the <code>.incoming</code> key – you only need this if you want to receive files (the directory must exist and the <code>nncp</code> group must be allowed to write to it)</li>
+<li>you allow my laptop to send mail to local users via the <code>.exec.rsmtp</code> key – this is not necessary if you don&rsquo;t want to receive mail</li>
+</ol>
+
+<p>You would create the incoming directory as follows, as your regular user:</p>
+
+<pre><code>mkdir --parents ~/incoming/melanobombus
+sudo chgrp nncp ~/incoming/melanobombus
+sudo chmod g+w ~/incoming/melanobombus
+</code></pre>
+
+<p>You need to send me your system&rsquo;s public keys from the <code>/etc/nncp.hjson</code> file so that I can set up similar entries on my laptop and my server.</p>
+
+<p>Once I&rsquo;ve added your public keys to my server, we can test it.</p>
+
+<p>My server will not call you, since it doesn&rsquo;t know your Internet address.
+It waits for you to call it both when you want to send or when you want to receive something.
+You would do this as follows:</p>
+
+<pre><code>sudo -u nncp nncp-call sibirocobombus
+</code></pre>
+
+<p>Otherwise, the <code>@daily</code> entry in the <code>sibirocobombus.cron[0]</code> entry of your <code>/etc/nncp.hjson</code> file will call my server once a day, at midnight.</p>
+
+<p>To send me a README file, you&rsquo;d run:</p>
+
+<pre><code>sudo -u nncp nncp-file README melanobombus:
+2024-07-12T18:12:15Z Tx README 486 B/486 B 100% (73 KiB/sec)
+2024-07-12T18:12:15Z File README (282 B) is sent to melanobombus:README
+</code></pre>
+
+<p>At this point, the file is in the queue.</p>
+
+<p>You need to to call my server using <code>sudo -u nncp nncp-call sibirocobombus</code> to actually send the files or you&rsquo;ll have to wait for the cron job. My server will receive the packets encrypted and addressed to my laptop and enqueue them again. The next time my laptop calls my server, it&rsquo;ll get them.</p>
+
+<p>You probably want to let me know about the file via <a href="Contact">another channel</a>. But soon enough we can set up mail via NNCP. 😁</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23NNCP">#NNCP</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-16-minimal-nncp-setup>
+
+---
+
+## Wednesday 17 July, 2024
+
+date: 2024-07-16, from: John Naughton's online diary
+
+A rose by any other name… Quote of the Day &#8220;I don&#8217;t think I am any good. If I thought I was any good, I wouldn&#8217;t be&#8221; John Betjeman Lovely man, though logic wasn’t his strong point. I never pass &#8230; <a href="https://memex.naughtons.org/wednesday-17-july-2024/39641/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-17-july-2024/39641/>
+
+---
+
+##  Jimi Hendrix Goes Acoustic 
+
+date: 2024-07-16, updated: 2024-07-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/jimi-hendrix-goes-acoustic>
 
 ---
 
@@ -212,127 +411,6 @@ Mr. Market will do what Mr. Market does, the stock price isn't under Huang's con
 <br /> 
 
 <https://blog.dshr.org/2024/07/accelerated-computing.html>
-
----
-
-## 2024-07-16 What's the minimal NNCP setup to get started?
-
-date: 2024-07-16, from: Alex Schroeder's Blog
-
-<h1 id="2024-07-16-what-s-the-minimal-nncp-setup-to-get-started">2024-07-16 What&rsquo;s the minimal NNCP setup to get started?</h1>
-
-<p>This page is for you if you are curious about NNCP and you don&rsquo;t know how to get started.
-It contains instructions on how to set up your laptop such that it can exchange files with my laptop (melanobombus) via my server (sibirocobombus).</p>
-
-<p>Before testing it, you need to send me an email with some info but we&rsquo;ll get to that.</p>
-
-<p>First, switch to the root user. Everything will be easier that way.</p>
-
-<pre><code>sudo su
-</code></pre>
-
-<p>The instructions are going to assume a Debian system.</p>
-
-<p>First, install the <code>nncp</code> package.</p>
-
-<pre><code>apt install nncp
-</code></pre>
-
-<p>Generate a new <code>/etc/nncp.hjson</code> file and secure it:</p>
-
-<pre><code>nncp-cfgnew &gt; /etc/nncp.hjson
-chown nncp:nncp /etc/nncp.hjson
-chmod 660 /etc/nncp.hjson
-</code></pre>
-
-<p>You need to add my server to your <code>/etc/nncp.hjson</code> file, in the <code>neigh</code> section.</p>
-
-<pre><code>    sibirocobombus: {
-      id:       CCAIPFSAZWYICBQ5BIURX4UMEJIXVSZFIING7HRUFTDOFV5XISVQ
-      exchpub:  NGEIDPDVZ2I6CTRKCBT734VV4W2YFVTV6YFBU5UGB6IHBA3QDJUQ
-      signpub:  VXBMWXS74IGAYQCLJY4UPAXXQXPT3K53QI5XCFHOAKL4I2FQNLKQ
-      noisepub: MGGBAOHRHEWEC6CGT47GA2DOQXQFZUAKJ66PD734Y5WNWP364UXQ
-      addrs: {
-        internet: &quot;alexschroeder.ch:5400&quot;
-      }
-      calls: [
-        {
-          cron: &quot;@daily&quot;
-        }
-      ]
-    }
-</code></pre>
-
-<p>What does it mean?</p>
-
-<ol>
-<li>you know how to contact my server via the <code>.addrs.internet</code> key – you need this, but you can specify <code>campaignwiki.org</code> instead, if your prefer</li>
-<li>you connect to my server every now and then via the <code>calls[0].cron</code> entry – this is not necessary if you don&rsquo;t mind using <code>nncp-call</code> every now and then</li>
-</ol>
-
-<p>My laptop can only be reached via my server. You need to add it as well.</p>
-
-<p>As far as the <code>melanobombus.incoming</code> key goes, pick a suitable directory that your regular account has access to.</p>
-
-<pre><code>    melanobombus: {
-      id:       R23WEIHB52TMA4EKGJPKUDBFSYP2HG4HHW2HGJ3RJATCCRLYDUZQ
-      exchpub:  EGP2MMLQJQUKWTHI22JTIRMR2UV3BA2ATE3AYLVOFODMTNRGAMEA
-      signpub:  YO6SZXVEIU77OQQRKMAUFUT4V3NJER4U7LQE5JI7JORJXKXY5FBA
-      noisepub: 6ECO4WXJNDED6WHJ6SM2HGRQMUO75X65ALT2YRKZ3YGGBDXRNV4A
-      via:      [&quot;sibirocobombus&quot;]
-      incoming: &quot;/home/alex/incoming/melanobombus&quot;
-      exec: {
-        rsmtp:  [&quot;/usr/sbin/sendmail&quot;, &quot;-bS&quot;]
-      }
-    }
-</code></pre>
-
-<p>What does it mean?</p>
-
-<ol>
-<li>you know how to contact my laptop via my server using the <code>.via[0]</code> key – you need this and the name needs to match the name you used for my server</li>
-<li>you allow my laptop to save incoming files in a directory via the <code>.incoming</code> key – you only need this if you want to receive files (the directory must exist and the <code>nncp</code> group must be allowed to write to it)</li>
-<li>you allow my laptop to send mail to local users via the <code>.exec.rsmtp</code> key – this is not necessary if you don&rsquo;t want to receive mail</li>
-</ol>
-
-<p>You would create the directory as follows.
-I&rsquo;m assuming that <code>$SUDO_USER</code> is your actual username so I&rsquo;ll use that instead of &ldquo;alex&rdquo;.</p>
-
-<pre><code>dir=&quot;/home/$SUDO_USER/incoming/melanobombus&quot;
-mkdir --parents &quot;$dir&quot;
-chown $SUDO_USER:nncp &quot;$dir&quot;
-chmod g+w &quot;$dir&quot;
-</code></pre>
-
-<p>You need to send me your system&rsquo;s public keys from the <code>/etc/nncp.hjson</code> file so that I can set up similar entries on my laptop and my server.</p>
-
-<p>Once I&rsquo;ve added your public keys to my server, we can test it.</p>
-
-<p>My server will not call you, since it doesn&rsquo;t know your Internet address.
-It waits for you to call it both when you want to send or when you want to receive something.
-You would do this as follows:</p>
-
-<pre><code>sudo -u nncp nncp-call sibirocobombus
-</code></pre>
-
-<p>Otherwise, the <code>@daily</code> entry in the <code>sibirocobombus.cron[0]</code> entry of your <code>/etc/nncp.hjson</code> file will call my server once a day, at midnight.</p>
-
-<p>To send me a README file, you&rsquo;d run:</p>
-
-<pre><code>sudo -u nncp nncp-file README melanobombus:
-2024-07-12T18:12:15Z Tx README 486 B/486 B 100% (73 KiB/sec)
-2024-07-12T18:12:15Z File README (282 B) is sent to melanobombus:README
-</code></pre>
-
-<p>At this point, the file is in the queue.</p>
-
-<p>You need to to call my server using <code>sudo -u nncp nncp-call sibirocobombus</code> to actually send the files or you&rsquo;ll have to wait for the cron job. My server will receive the packets encrypted and addressed to my laptop and enqueue them again. The next time my laptop calls my server, it&rsquo;ll get them.</p>
-
-<p>You probably want to let me know about the channel via another channel, be it IRC, regular mail!</p>
-
-<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23NNCP">#NNCP</a></p> 
-
-<https://alexschroeder.ch/view/2024-07-16-minimal-nncp-setup>
 
 ---
 

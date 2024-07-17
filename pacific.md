@@ -1,17 +1,542 @@
 ---
 title: pacific 2024.29
-updated: 2024-07-16 14:33:20
+updated: 2024-07-17 08:39:48
 ---
 
 # pacific 2024.29
 
-(date: 2024-07-16 14:33:20)
+(date: 2024-07-17 08:39:48)
+
+---
+
+## San Nicolas, Moylan trade barbs ahead of Guam's August primary elections 
+
+date: 2024-07-17, from: Pacific Island Times
+
+By Mar-Vic Cagurangan Temperatures soared Tuesday as two congressional candidates exchanged cutting remarks ahead of Guam’s Aug. 3... 
+
+<https://www.pacificislandtimes.com/post/san-nicolas-moylan-trade-barbs-as-august-primary-nears>
+
+---
+
+## GPA teams up with national labs and industry experts on advanced data analytics and grid modernization 
+
+date: 2024-07-17, from: Pacific Island Times
+
+By Pacific Island Times News Staff As the Guam Power Authority integrates more renewable energy to meet Guam’s clean energy goals,... 
+
+<https://www.pacificislandtimes.com/post/gpa-teams-up-with-national-labs-and-industry-experts-on-advanced-data-analytics-and-grid-modernizati>
+
+---
+
+## Pacific leaders demand fresh New Caledonia independence referendum 
+
+date: 2024-07-17, from: Pacific Island Times
+
+Four prime ministers declare French handling of decolonization process 'illegitimate, null and void.' By Stefan Armbruster (BenarNews)--... 
+
+<https://www.pacificislandtimes.com/post/pacific-leaders-demand-fresh-new-caledonia-independence-referendum>
+
+---
+
+## 2024 UHH women’s soccer schedule released; five Vulcans earn NABC honors
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; A 17-match slate awaits the Hawai&#8217;i Hilo Women&#8217;s Soccer team in the upcoming fall.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/sports/2024-uhh-womens-soccer-schedule-released-five-vulcans-earn-nabc-honors/>
+
+---
+
+## Moore proving to be good as gold in and out of the water
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>About a week before the start of the women&#8217;s Lexus Pipe Pro at Pipeline, then 17-year-old Sunny Kazama sent a text.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/sports/moore-proving-to-be-good-as-gold-in-and-out-of-the-water/>
+
+---
+
+## Shohei Ohtani goes deep, Jarren Duran delivers as AL resumes All-Star Game dominance
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>ARLINGTON, Texas &#8212; The pitching was relentless, and the game&#8217;s biggest name went deep, but it was a first-time All-Star from the Boston Red Sox who delivered the deciding blow in Tuesday&#8217;s All-Star Game.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/sports/shohei-ohtani-goes-deep-jarren-duran-delivers-as-al-resumes-all-star-game-dominance/>
+
+---
+
+## Community celebrates ballfield improvements
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>Mayor Mitch Roth, the Department of Parks and Recreation, and West Side Hawai&#8216;i Little League (WSHLL) celebrated their partnership and recent improvements to the ballfield at William Charles Lunalilo Park in Kona on Tuesday, July 16.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/sports/community-celebrates-ballfield-improvements/>
+
+---
+
+## USWNT heads to Olympics lacking goals scored: ‘If we went into Zambia perfect, I’d be worried’
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>After two friendlies in blazing heat and humid weather, the U.S. women&#8217;s national team is headed to France for the Paris Olympics. With a 1-0 win against Mexico and a dreary scoreless draw against Costa Rica, head coach Emma Hayes&#8217; plan of attack is still unclear. The game against Costa Rica in particular showed what not to do with the U.S. registering 26 shots (12 on goal) and 80% possession. Costa Rica took just two shots and they were both in the first half.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/sports/uswnt-heads-to-olympics-lacking-goals-scored-if-we-went-into-zambia-perfect-id-be-worried/>
+
+---
+
+## U.S. women’s water polo, with an unlikely hype man, eyes Olympic history
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>Rapper Flavor Flav realizes it is an unexpected crossover. He once had only a vague awareness of water polo, from seeing Olympic matches on television. But he has a new appreciation for the sport, and the stamina required to play it, after recently signing a five-year sponsorship deal as the official hype man for the U.S. women&#8217;s and men&#8217;s national water polo teams.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/sports/u-s-womens-water-polo-with-an-unlikely-hype-man-eyes-olympic-history/>
+
+---
+
+## Obituaries for July 17
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>Douglas Dal Edens, 81, of Hawi died July 2 at home. Born in Sacramento, Calif., he was a retired gardening specialist for California State University-Sacramento home surrounded by family. A retired gardening specialist from CSU Sacramento, he spent his retirement in Hawaii gardening, was a California Master Mason, member of the DeMolay Legion of Honor, Eagle Scout, Community Emergency Response Team and neighborhood watch organizer. No services. Burial in family plot in Roseville, Calif. Survived by daughter, Tiffany (Timothy) DeEtte Shafto. Arrangements by Dodo Mortary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/obituaries/obituaries-for-july-17-11/>
+
+---
+
+## US retail sales report showcases consumer, economic resilience
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. retail sales were unchanged in June as a drop in receipts at auto dealerships was offset by broad strength elsewhere, a display of consumer resilience that bolstered economic growth prospects for the second quarter.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/nation-world-news/us-retail-sales-report-showcases-consumer-economic-resilience/>
 
 ---
 
 ## US Senator Menendez convicted at corruption trial, cementing political downfall
 
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; U.S. Senator Bob Menendez was convicted on Tuesday on all 16 criminal counts he faced including bribery at his corruption trial in Manhattan federal court, completing the once-powerful New Jersey Democrat&#8217;s dramatic downfall.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/nation-world-news/us-senator-menendez-convicted-at-corruption-trial-cementing-political-downfall/>
+
+---
+
+## State works to keep bird flu out of Hawaii
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>As the number of dairy cows infected with H5N1 bird flu continues to grow and spread to multiple states in the U.S., Hawaii is hoping to keep the virus away.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/hawaii-news/state-works-to-keep-bird-flu-out-of-hawaii/>
+
+---
+
+## Four in five Americans fear country is sliding into chaos, Reuters/Ipsos poll finds
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Americans fear their country is spiraling out of control following an assassination attempt on Donald Trump, with worries growing that the Nov. 5 election could spark more political violence, a Reuters/Ipsos poll that closed on Tuesday found.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/nation-world-news/four-in-five-americans-fear-country-is-sliding-into-chaos-reuters-ipsos-poll-finds/>
+
+---
+
+## Trump courts RFK Jr’s support in leaked phone call
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Republican presidential nominee Donald Trump suggested to Robert F. Kennedy Jr. that the independent presidential candidate could do something to support the Trump campaign, according to a video of a phone call on Sunday posted on social media and confirmed by Kennedy.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/nation-world-news/trump-courts-rfk-jrs-support-in-leaked-phone-call/>
+
+---
+
+## Popularity of private school choice is booming
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>There&#8217;s little debate that school choice programs have been booming in popularity in recent years.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/opinion/popularity-of-private-school-choice-is-booming/>
+
+---
+
+## How do you tell immigrant stories? Dinaw Mengestu has an answer
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>Novelist Dinaw Mengestu thinks deeply about how stories are told, especially migrant tales. His earlier books &#8212; &#8220;The Beautiful Things That Heaven Bears,&#8221; &#8220;How to Read the Air&#8221; and &#8220;All Our Names&#8221; &#8212; explored the psychic tolls on Ethiopian immigrants of being adrift in an alien American landscape.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/features/how-do-you-tell-immigrant-stories-dinaw-mengestu-has-an-answer/>
+
+---
+
+## Richard Simmons reportedly refused to see doctor after fall because it was his birthday
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>The night before Richard Simmons was found dead in his West Hollywood, California, home, he took a fall in his bathroom but dismissed his housekeeper&#8217;s plea to seek medical attention because it was his birthday, TMZ is reporting.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/nation-world-news/richard-simmons-reportedly-refused-to-see-doctor-after-fall-because-it-was-his-birthday/>
+
+---
+
+## Movie review: ‘Twisters’ a supremely entertaining summer blockbuster
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>Tornadoes have been a subject of film fascination since &#8220;The Wizard of Oz&#8221; in 1939, but Dutch filmmaker Jan de Bont helped to solidify the appeal of the cinematic cyclone with his 1996 summer blockbuster &#8220;Twister,&#8221; about a group of adrenaline junkie storm chasers. A new installment, &#8220;Twisters,&#8221; arrives 28 years after de Bont&#8217;s film, chasing away all those &#8220;Sharknados&#8221; that have cluttered up the tornado movie subgenre, and reminding us of what made &#8220;Twister&#8221; so appealing to begin with: it wasn&#8217;t necessarily the airborne fauna, but rather, the human dramas that play out as tornadoes roam across the landscape.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/entertainment/movie-review-twisters-a-supremely-entertaining-summer-blockbuster/>
+
+---
+
+## Hawaiian Electric deploys video cameras to help detect wildfires
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>Hawaiian Electric will install nearly 30 cameras on the Big Island to help detect warning signs of wildfires by using artificial intelligence technology.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/hawaii-news/hawaiian-electric-deploys-video-cameras-to-help-detect-wildfires/>
+
+---
+
+## What Trump 2.0 could mean for the environment
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>As president, Donald Trump&#8217;s sweeping attempts to roll back federal environmental regulations were often stymied &#8212; by the courts, by a lack of experience, even by internal resistance from government employees.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/nation-world-news/what-trump-2-0-could-mean-for-the-environment/>
+
+---
+
+## Honokaa High celebrates 135 years of Dragon Pride
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>Honokaa High School is celebrating 135 years of Dragon Pride today through Saturday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/hawaii-news/honokaa-high-celebrates-135-years-of-dragon-pride/>
+
+---
+
+## Republican speakers wrestle with a ‘unity’ theme
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>As one of the first speakers Monday at the Republican National Convention, Sen. Ron Johnson of Wisconsin, struck a familiarly strident tone.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/nation-world-news/republican-speakers-wrestle-with-a-unity-theme/>
+
+---
+
+## Former Trump rivals Haley, DeSantis endorse him in show of unity at Republican convention
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>MILWAUKEE &#8212; Donald Trump&#8217;s former leading rivals for the Republican presidential nomination, Nikki Haley and Ron DeSantis, offered full-throated endorsements of his candidacy at the party&#8217;s convention on Tuesday, a display of unity three days after Trump survived an assassination attempt.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/nation-world-news/former-trump-rivals-haley-desantis-endorse-him-in-show-of-unity-at-republican-convention/>
+
+---
+
+## Uncertain path forward for Bayfront Trails: Funding needed for next phases of the project
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>The next phase of the Bayfront Trails project connecting parts of Hilo is currently up in the air because of funding uncertainties.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/hawaii-news/uncertain-path-forward-for-bayfront-trails-funding-needed-for-next-phases-of-the-project/>
+
+---
+
+## Nation and world news in brief for July 17
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>Musk says he will move SpaceX, X headquarters to Texas from Calf.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/nation-world-news/nation-and-world-news-in-brief-for-july-17/>
+
+---
+
+## Health advocates target Philip Morris’ US launch of heated tobacco
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; Health campaigners have written to U.S. regulators accusing Philip Morris International of misrepresenting past regulatory decisions, seeking to disrupt the launch of its flagship heated tobacco device IQOS in the United States.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/nation-world-news/health-advocates-target-philip-morris-us-launch-of-heated-tobacco/>
+
+---
+
+## Rising COVID clashes with carefree California summer as cases jump, precautions fade
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>COVID is continuing to rise this summer, and its spread is being aided by people who are still going to work or traveling while sick.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/nation-world-news/rising-covid-clashes-with-carefree-california-summer-as-cases-jump-precautions-fade/>
+
+---
+
+## When even an assassination attempt becomes a concert tee
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>Of all the images that have flooded the national conversation since the assassination attempt on former President Donald Trump at a rally in Pennsylvania on Saturday, one in particular was destined to become part of history, the record of this particular national trauma. Taken by Evan Vucci of The Associated Press, it shows Trump with blood streaks on his face, fist raised in the air. Surrounded by a crouching phalanx of Secret Service agents, he seems to be rising up. Behind him, against a bright blue sky, flies an American flag.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/features/when-even-an-assassination-attempt-becomes-a-concert-tee/>
+
+---
+
+## JD Vance is red meat for Trump’s MAGA base
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>J.D. Vance once called Donald Trump &#8220;America&#8217;s Hitler,&#8221; likening him to &#8220;cultural heroin.&#8221; On Monday, the Ohio senator was named the former president&#8217;s running mate.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/opinion/jd-vance-is-red-meat-for-trumps-maga-base/>
+
+---
+
+## Down on the farm: Sidling up to the trough
+
+date: 2024-07-17, from: Hawaii Tribune Harold
+
+
+				<p>The Biden saga has roiled Democrats and gripped the Beltway, but Congress marches on doing what it does best: wasting other people&#8217;s money. Consider the ongoing stalemate involving the $1.5 trillion farm bill.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/17/opinion/down-on-the-farm-sidling-up-to-the-trough/>
+
+---
+
+## Rapist sentenced to 30 years seeks new trial
+
+date: 2024-07-17, from: Guam Daily Post
+
+A rapist sentenced to 30 years is seeking a new trial on the grounds that he did not receive effective counsel and his co-actor received an “extraordinary” plea agreement. 
+
+<https://www.postguam.com/news/local/rapist-sentenced-to-30-years-seeks-new-trial/article_9fb3eeba-4342-11ef-accf-4fa3be613652.html>
+
+---
+
+## Jury selection begins for trial of mother accused of killing child
+
+date: 2024-07-17, from: Guam Daily Post
+
+Jury selection has begun in the Superior Court of Guam for a woman accused of beating her 1-year-old son to death. 
+
+<https://www.postguam.com/news/local/jury-selection-begins-for-trial-of-mother-accused-of-killing-child/article_f6e4618c-433e-11ef-b7ae-6fd263894fdd.html>
+
+---
+
+## UOG to host outreach event Saturday
+
+date: 2024-07-17, from: Guam Daily Post
+
+The University of Guam is heading out into the community to showcase its student support programs and help students with on-the-spot academic advisement with the UOG Sea of Green outreach event Saturday, according to a press release from the university. 
+
+<https://www.postguam.com/news/local/uog-to-host-outreach-event-saturday/article_dbd90c18-43dd-11ef-a2d7-9fe6b566a396.html>
+
+---
+
+## Career Tech receives accreditation
+
+date: 2024-07-17, from: Guam Daily Post
+
+Career Tech High Academy Charter School has secured accreditation from the Cognia Global Accreditation Commission, an achievement the school’s former principal said is a sign of a “safe and positive learning environment.” 
+
+<https://www.postguam.com/news/local/career-tech-receives-accreditation/article_350b5410-43d6-11ef-b9ae-3fbb14572c8b.html>
+
+---
+
+## Testimony mixed on doula project bill
+
+date: 2024-07-17, from: Guam Daily Post
+
+Legislation seeking to appropriate $400,000 from general fund excess to the Bureau of Women's Affairs to fund the Guåhan Doula Project received mixed testimony Tuesday as questions rose about regulations and oversight, as well as concerns from some anti-abortion advocates. 
+
+<https://www.postguam.com/news/local/testimony-mixed-on-doula-project-bill/article_1dac01be-4356-11ef-a2b7-7fea97b94886.html>
+
+---
+
+## Barnett publishes Legislature's travel info, asks same from executive branch
+
+date: 2024-07-17, from: Guam Daily Post
+
+Following last week's statements from Sen. Thomas Fisher about the need for transparency regarding legislative travel, Sen. Chris Barnett has now made public all travel authorizations and expenditure reports for every senatorial office. 
+
+<https://www.postguam.com/news/local/barnett-publishes-legislatures-travel-info-asks-same-from-executive-branch/article_cf124984-4326-11ef-a023-f73a38eb87c0.html>
+
+---
+
+## 4 Wahine water polo players to compete at Olympics
+
+date: 2024-07-17, from: University of Hawaiʻi News
+
+<p>Members of the Rainbow Wahine water polo program's past, present and future will compete at the Olympics in Paris.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/16/water-polo-olympics/">4 Wahine water polo players to compete at Olympics</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/16/water-polo-olympics/>
+
+---
+
+## Vilele ready for Semester 2 studies
+
+date: 2024-07-17, from: University of the South Pacific (Fiji)
+
+<p>Seniana Vilele is encouraging all resuming students to register for their courses early to better...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/vilele-ready-for-semester-2-studies/">Vilele ready for Semester 2 studies</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/vilele-ready-for-semester-2-studies/>
+
+---
+
+## Hawaiian Word of the Week: Wahi
+
+date: 2024-07-17, from: University of Hawaiʻi News
+
+<p>Wahi&#8212;Place, location, position, site, setting.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/16/hawaiian-word-of-the-week-wahi/">Hawaiian Word of the Week: Wahi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/16/hawaiian-word-of-the-week-wahi/>
+
+---
+
+## UH empowers advisors from across Pacific, shares tools
+
+date: 2024-07-17, from: University of Hawaiʻi News
+
+<p>The Council of Academic Advisors at <abbr>UH</abbr> Mānoa hosted a virtual conference for advisors and educators from around the Pacific.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/16/empowering-advisors-across-pacific/"><abbr>UH</abbr> empowers advisors from across Pacific, shares tools</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/16/empowering-advisors-across-pacific/>
+
+---
+
+## Youths graduate with USP caregiving certificates
+
+date: 2024-07-17, from: University of the South Pacific (Fiji)
+
+<p>About 28 participants from various youth clubs in the Lautoka area graduated recently with a...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/youths-graduate-with-usp-caregiving-certificates/">Youths graduate with USP caregiving certificates</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/youths-graduate-with-usp-caregiving-certificates/>
+
+---
+
+## Gov. Green announces Climate Advisory Team, all with UH ties
+
+date: 2024-07-17, from: University of Hawaiʻi News
+
+<p>The team is charged with developing policy recommendations to minimize the impacts of future climate-related natural disasters and to speed recovery from the damage they cause.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/16/gov-green-climate-advisory-team/">Gov. Green announces Climate Advisory Team, all with <abbr>UH</abbr> ties</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/16/gov-green-climate-advisory-team/>
+
+---
+
+## UH engineers conquer game of drones, place 3rd nationally in competition
+
+date: 2024-07-17, from: University of Hawaiʻi News
+
+<p>The competition provides students with valuable hands-on experience in the rapidly evolving field of drone technology.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/16/aerial-systems-competition-engineering/"><abbr>UH</abbr> engineers conquer game of drones, place 3rd nationally in competition</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/16/aerial-systems-competition-engineering/>
+
+---
+
+## †Francisco "Chief" Iwashita Aquino
+
 date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/obituaries/francisco-chief-iwashita-aquino/article_2f770c12-43c5-11ef-97e4-6f11605ef7b0.html>
+
+---
+
+## Vessels
+
+date: 2024-07-16, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Haley King I. I learned the purple and blue marks were ones of pain. They led to what happened coming at you from everyone who notices. I had this grape-color on my knee for two weeks from falling on &#8230; <a href="https://hawaiipacificreview.org/2024/07/16/vessels/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/07/16/vessels/>
+
+---
+
+## US Senator Menendez convicted at corruption trial, cementing political downfall
+
+date: 2024-07-16, updated: 2024-07-17, from: Marianas Variety
 
 NEW YORK (Reuters) — U.S. Senator Bob Menendez was convicted on Tuesday on all 16 criminal counts he faced including bribery at his corruption trial, completing the once-powerful New Jersey Democrat's dramatic downfall. 
 
@@ -19,9 +544,19 @@ NEW YORK (Reuters) — U.S. Senator Bob Menendez was convicted on Tuesday on all
 
 ---
 
+## Islander Rent-A-Car eases past Triskelion to maintain win streak
+
+date: 2024-07-16, updated: 2024-07-17, from: Marianas Variety
+
+ISLANDER Rent-A-Car has yet to face defeat and is on a three-game winning streak after powering past Triskelion, 74-57, in the Destroyers Basketball Club Invitational Basketball League 2024 at the TSL Sports Complex on Sunday. 
+
+<https://www.mvariety.com/sports/localsports/islander-rent-a-car-eases-past-triskelion-to-maintain-win-streak/article_fb90e8d6-4389-11ef-be38-c7e7dd3e48c9.html>
+
+---
+
 ## NMC adopts AI policy to enhance learning and innovation
 
-date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
+date: 2024-07-16, updated: 2024-07-17, from: Marianas Variety
 
 (NMC) — During its regular board meeting on June 27, 2024, the Northern Marianas College Board of Regents adopted a new Artificial Intelligence or AI policy aimed to enhance the educational experience for students, faculty, and staff. 
 
@@ -31,11 +566,61 @@ date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
 
 ## OPINION ǀ Truth 60: Stuck in Reverse needing to go FORWARD!
 
-date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
+date: 2024-07-16, updated: 2024-07-17, from: Marianas Variety
 
 THE TRUTH of the matter is that it’s obvious the CNMI is stuck in reverse needing to go forward. Ever since the poli-tricking that killed La Fiesta the CNMI has being slowly going backwards economically with no end in site because there has yet to be any REAL REFORMS to make the CNMI a BETTER Tourist destination.  Crying for tourists from China will NOT fix our economy and it is a small bandage if anything. WE can’t keep our people nor get new tourists because “the CNMI is out-of-step with the rest of America/World Tourism.”  IF our leaders would take the RIGHT steps to turn our economic downfall around, the rest will be easy, as the real problem is not new tourists but the need for NEW Attractions which is what WE were supposed to have been setting up during Covid.  But Ralph was busy with “pipe dream of Mr. Tan with the Deer BS for “high-end tourists” in the Northern Islands and giving our money away! Ralph put us in reverse and now we must go FORWARD and I’m fighting FOR ALL of us in this boat, even my critics who are full of bigotry, I just keep praying for them! 
 
 <https://www.mvariety.com/views/columnists/opinion-truth-60-stuck-in-reverse-needing-to-go-forward/article_f2e389e8-438c-11ef-8b91-5fcf4b31ea1d.html>
+
+---
+
+## Free NMC info session on July 20
+
+date: 2024-07-16, updated: 2024-07-17, from: Marianas Variety
+
+(NMC) — Northern Marianas College invites all community members interested in earning a college degree to attend a free information session on Saturday, July 20, 2024. 
+
+<https://www.mvariety.com/news/community_bulletins/free-nmc-info-session-on-july-20/article_f1425ce2-438f-11ef-8ec7-0f1417bdf33c.html>
+
+---
+
+## Youth group advocates inclusion of West Philippine Sea history in K-12 curriculum
+
+date: 2024-07-16, updated: 2024-07-17, from: Marianas Variety
+
+MANILA, the Philippines (NYMWPS) — The National Youth Movement for West Philippine Sea has formally addressed a letter dated July 8, 2024 to President Ferdinand “Bong Bong” Marcos, Jr. and Secretary Sonny Angara of the Department of Education, calling for the inclusion of the history and significance of the West Philippine Sea in the K-12 curriculum. 
+
+<https://www.mvariety.com/news/regional_world/youth-group-advocates-inclusion-of-west-philippine-sea-history-in-k-12-curriculum/article_100b6e66-4386-11ef-bb4d-9ff8295a9db3.html>
+
+---
+
+## Trump steps into Republican convention spotlight after assassination attempt
+
+date: 2024-07-16, updated: 2024-07-17, from: Marianas Variety
+
+MILWAUKEE (Reuters) — Donald Trump begins the second day of the 2024 Republican Party convention on Tuesday with a visual reminder of his recent assassination attempt, a young running mate who shares his hardline populist views and the backing of the world's richest person. 
+
+<https://www.mvariety.com/news/national/trump-steps-into-republican-convention-spotlight-after-assassination-attempt/article_67519f8c-4387-11ef-9bd4-c342ad9b5c86.html>
+
+---
+
+## Interior’s Cantor announces $66 million in Compact funding for Palau
+
+date: 2024-07-16, updated: 2024-07-17, from: Marianas Variety
+
+WASHINGTON, D.C. — The Department of the Interior’s Assistant Secretary for Insular and International Affairs Carmen G. Cantor has announced $66 million in funding to the Government of Palau and completed the first bilateral economic consultations on June 26 and 27 in Koror, Palau. The U.S. implemented provisions under Public Law 118-42 and the recently negotiated Compact of Free Association Section 432 Review signed between the United States and Palau on May 22, 2023. 
+
+<https://www.mvariety.com/news/regional_world/interior-s-cantor-announces-66-million-in-compact-funding-for-palau/article_5e578866-4386-11ef-9dd9-07f1a1fd2ced.html>
+
+---
+
+## 2nd Annual Rota Marathon on Jan. 18
+
+date: 2024-07-16, updated: 2024-07-17, from: Marianas Variety
+
+(MVA) — Building on the success of its inaugural race highlighting one of the most picturesque islands of the archipelago, the Marianas Visitors Authority will hold the 2nd  Annual Rota Marathon on Jan. 18, 2025, featuring a full marathon, half-marathon and 5K courses. 
+
+<https://www.mvariety.com/sports/localsports/2nd-annual-rota-marathon-on-jan-18/article_ac58bb78-4388-11ef-8fe7-573cf5b64864.html>
 
 ---
 
@@ -49,56 +634,6 @@ The following essay won second prize in the Northern Marianas Humanities Council
 
 ---
 
-## Youth group advocates inclusion of West Philippine Sea history in K-12 curriculum
-
-date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
-
-MANILA, the Philippines (NYMWPS) — The National Youth Movement for West Philippine Sea has formally addressed a letter dated July 8, 2024 to President Ferdinand “Bong Bong” Marcos, Jr. and Secretary Sonny Angara of the Department of Education, calling for the inclusion of the history and significance of the West Philippine Sea in the K-12 curriculum. 
-
-<https://www.mvariety.com/news/regional_world/youth-group-advocates-inclusion-of-west-philippine-sea-history-in-k-12-curriculum/article_100b6e66-4386-11ef-bb4d-9ff8295a9db3.html>
-
----
-
-## Trump steps into Republican convention spotlight after assassination attempt
-
-date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
-
-MILWAUKEE (Reuters) — Donald Trump begins the second day of the 2024 Republican Party convention on Tuesday with a visual reminder of his recent assassination attempt, a young running mate who shares his hardline populist views and the backing of the world's richest person. 
-
-<https://www.mvariety.com/news/national/trump-steps-into-republican-convention-spotlight-after-assassination-attempt/article_67519f8c-4387-11ef-9bd4-c342ad9b5c86.html>
-
----
-
-## Interior’s Cantor announces $66 million in Compact funding for Palau
-
-date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
-
-WASHINGTON, D.C. — The Department of the Interior’s Assistant Secretary for Insular and International Affairs Carmen G. Cantor has announced $66 million in funding to the Government of Palau and completed the first bilateral economic consultations on June 26 and 27 in Koror, Palau. The U.S. implemented provisions under Public Law 118-42 and the recently negotiated Compact of Free Association Section 432 Review signed between the United States and Palau on May 22, 2023. 
-
-<https://www.mvariety.com/news/regional_world/interior-s-cantor-announces-66-million-in-compact-funding-for-palau/article_5e578866-4386-11ef-9dd9-07f1a1fd2ced.html>
-
----
-
-## 2nd Annual Rota Marathon on Jan. 18
-
-date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
-
-(MVA) — Building on the success of its inaugural race highlighting one of the most picturesque islands of the archipelago, the Marianas Visitors Authority will hold the 2nd  Annual Rota Marathon on Jan. 18, 2025, featuring a full marathon, half-marathon and 5K courses. 
-
-<https://www.mvariety.com/sports/localsports/2nd-annual-rota-marathon-on-jan-18/article_ac58bb78-4388-11ef-8fe7-573cf5b64864.html>
-
----
-
-## Islander Rent-A-Car eases past Triskelion to maintain win streak
-
-date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
-
-ISLANDER Rent-A-Car has yet to face defeat and is on a three-game winning streak after powering past Triskelion, 74-57, in the Destroyers Basketball Club Invitational Basketball League 2024 at the TSL Sports Complex on Sunday. 
-
-<https://www.mvariety.com/sports/localsports/islander-rent-a-car-eases-past-triskelion-to-maintain-win-streak/article_fb90e8d6-4389-11ef-be38-c7e7dd3e48c9.html>
-
----
-
 ## Sae Hee Kim rules July tournament
 
 date: 2024-07-16, updated: 2024-07-16, from: Marianas Variety
@@ -109,11 +644,11 @@ SAE Hee Kim seized the spotlight this month by finishing first in the CNMI Women
 
 ---
 
-## Hawaii, Guam not covered by treaty but NATO got their back, US official says
+## Wishful thinking? Hawaii, Guam not covered by treaty but NATO's got their backs, US official claims
 
 date: 2024-07-16, from: Pacific Island Times
 
-By Mar-Vic Cagurangan If a foreign aggressor attacked Hawaii or Guam, the Department of State expressed confidence that the North... 
+By Mar-Vic Cagurangan If a foreign aggressor attacked Hawaii or Guam, the Department of State is optimistic that the North Atlantic... 
 
 <https://www.pacificislandtimes.com/post/hawaii-guam-not-covered-by-treaty-but-nato-got-their-back-us-official-says>
 
@@ -457,6 +992,76 @@ date: 2024-07-16, from: Island Times
  
 
 <https://islandtimes.org/interim-special-prosecutor-handles-surge-of-complaints-amid-legal-challenges/>
+
+---
+
+## 'Career offender' to serve 9 years for receiving drugs through mail
+
+date: 2024-07-16, from: Guam Daily Post
+
+A "career offender" was sentenced to nine years in federal prison for charges stemming from a package of methamphetamine mailed to Guam in 2017. 
+
+<https://www.postguam.com/news/local/career-offender-to-serve-9-years-for-receiving-drugs-through-mail/article_cbd70fba-4313-11ef-80d5-7bbc4a9deee5.html>
+
+---
+
+## Philippine celebrities share their first impressions of Guam
+
+date: 2024-07-16, from: Guam Daily Post
+
+Ahead of the Pista Sa Nayon festival, two Philippine celebrities took a moment to meet local media and express their thoughts about Guam. 
+
+<https://www.postguam.com/island_life/philippine-celebrities-share-their-first-impressions-of-guam/article_59bda840-4173-11ef-80c2-ab77b8a2472d.html>
+
+---
+
+## Network hosts 2nd annual meeting to plan for regional health concerns
+
+date: 2024-07-16, from: Guam Daily Post
+
+Monday kicked off the second annual Pacific Vector Network meeting in Guam, which brought together representatives from Pacific island countries, regional partner institutions and global health organizations to come up with a game plan for the future of vector surveillance… 
+
+<https://www.postguam.com/news/local/network-hosts-2nd-annual-meeting-to-plan-for-regional-health-concerns/article_f8d81ac8-424f-11ef-a47c-dbf363684d80.html>
+
+---
+
+## Judge denies motion to dismiss doctor’s sexual assault charges
+
+date: 2024-07-16, from: Guam Daily Post
+
+Dr. Ugochukwu Akoma's request to dismiss criminal sexual conduct charges with prejudice were denied by a Superior Court of Guam judge. 
+
+<https://www.postguam.com/news/local/judge-denies-motion-to-dismiss-doctor-s-sexual-assault-charges/article_24c8043a-4305-11ef-8729-f7086a006e56.html>
+
+---
+
+## DOD transparency questioned in hearing for resolution on Guam missile defense
+
+date: 2024-07-16, from: Guam Daily Post
+
+Representatives from a couple of local organizations discussed transparency issues and other concerns related to military plans on Guam as they testified Monday on a resolution that would see the legislative Committee on Rules request from the secretary of defense… 
+
+<https://www.postguam.com/news/local/dod-transparency-questioned-in-hearing-for-resolution-on-guam-missile-defense/article_a1b431c6-4265-11ef-8999-536bb44a92d2.html>
+
+---
+
+## Former police officer to testify in August jury tampering trial
+
+date: 2024-07-16, from: Guam Daily Post
+
+Former Guam Police Department officer John "Boom" Mantanona is expected to testify next month in the trial of a couple accused of jury tampering. 
+
+<https://www.postguam.com/news/local/former-police-officer-to-testify-in-august-jury-tampering-trial/article_22a1c6aa-430a-11ef-a651-6b89fc95d41d.html>
+
+---
+
+## 99-year-old WWII vet to be 'grand liberator' at Liberation Day Parade
+
+date: 2024-07-16, from: Guam Daily Post
+
+Guam will be celebrating 80 years of liberation on Sunday with the annual Liberation Day Parade in Hagåtña. And this year, parade celebrations will include World War II liberator U.S. Marine Corps Cpl. Frank Wright. It's the 99-year-old's first time… 
+
+<https://www.postguam.com/news/local/99-year-old-wwii-vet-to-be-grand-liberator-at-liberation-day-parade/article_df9b3288-4313-11ef-acae-1f2a5ab269d0.html>
 
 ---
 
@@ -1030,6 +1635,106 @@ date: 2024-07-15, from: Hawaii Tribune Harold
 
 ---
 
+## Suspect charged in June crash that  killed pregnant woman in Harmon
+
+date: 2024-07-15, from: Guam Daily Post
+
+A man accused of hitting a pregnant woman crossing Route 16 last month allegedly thought he hit a dog after leaving the scene of the collision. 
+
+<https://www.postguam.com/news/local/suspect-charged-in-june-crash-that-killed-pregnant-woman-in-harmon/article_08aa2f98-4234-11ef-87fb-67e16fef88e0.html>
+
+---
+
+## Elementary school burglary suspect charged
+
+date: 2024-07-15, from: Guam Daily Post
+
+One of three men suspected of burglarizing and stealing items from a Dededo public school has been charged in the Superior Court of Guam. 
+
+<https://www.postguam.com/news/local/elementary-school-burglary-suspect-charged/article_9170b596-423d-11ef-b8d6-0f0f2935a1da.html>
+
+---
+
+## Diwa's 31 points lead Northern Construction to South Shooters championship title
+
+date: 2024-07-15, from: Guam Daily Post
+
+With Dennis Geron opening the South Shooters Basketball Club championship game with a pair of long 3-pointers and big man Scott Walker dominating the defensive glass, Sphere Tech led the game 10-0 but couldn’t hold on to beat defending champion… 
+
+<https://www.postguam.com/sports/local/diwas-31-points-lead-northern-construction-to-south-shooters-championship-title/article_84607fdc-4236-11ef-80d6-e7f099c08d6a.html>
+
+---
+
+## New dinosaur species named after CHamoru creation legend
+
+date: 2024-07-15, from: Guam Daily Post
+
+Far out in the remote deserts of Utah, a group of researchers discovered a new dinosaur species, a discovery that the study’s author said provides a snapshot of a period in our earth’s history that had until now been unclear.… 
+
+<https://www.postguam.com/news/new-dinosaur-species-named-after-chamoru-creation-legend/article_7a345630-40cb-11ef-ba65-c3d6894f3ac2.html>
+
+---
+
+## New charter school set to open  at former San Vicente campus
+
+date: 2024-07-15, from: Guam Daily Post
+
+The island’s newest charter school, Business and Technology Academy Charter School, or BTACS, is gearing up to open its doors at the old San Vicente Catholic School in Barrigada in September, an effort that has taken months of planning. 
+
+<https://www.postguam.com/news/local/new-charter-school-set-to-open-at-former-san-vicente-campus/article_40382ffc-4250-11ef-8bd6-8f98023d524b.html>
+
+---
+
+## GDOE to cease  payroll deductions  with Bank of Guam
+
+date: 2024-07-15, from: Guam Daily Post
+
+The Guam Department of Education announced it will stop payroll deductions for employees who are customers of the Bank of Guam in a couple of weeks. 
+
+<https://www.postguam.com/news/local/gdoe-to-cease-payroll-deductions-with-bank-of-guam/article_96b7d3f4-4265-11ef-9842-fb9664c2e82b.html>
+
+---
+
+## Trump assassination attempt  drawing local condemnation
+
+date: 2024-07-15, from: Guam Daily Post
+
+The assassination attempt on former President Donald Trump over the weekend has garnered concern and condemnation from political parties and leaders on Guam. 
+
+<https://www.postguam.com/news/local/trump-assassination-attempt-drawing-local-condemnation/article_7b0749e4-41e0-11ef-aff6-13a2f916899b.html>
+
+---
+
+## Man, 71, accused of punching woman, 74
+
+date: 2024-07-15, from: Guam Daily Post
+
+A 71-year-old man was accused of assaulting a 74-year-old woman known to him after a night of drinking alcohol. 
+
+<https://www.postguam.com/news/local/man-71-accused-of-punching-woman-74/article_2e777af0-424d-11ef-b31d-6f213ec0386f.html>
+
+---
+
+## Farmers, families and fun fill the Fort
+
+date: 2024-07-15, from: Guam Daily Post
+
+Families spend quality time - and some cash - supporting local growers at the Summer Farmers Market on Sunday at Fort Santa Agueda on Apugan Hill in Agana Heights. 
+
+<https://www.postguam.com/entertainment/lifestyle/farmers-families-and-fun-fill-the-fort/article_7ce5ad28-41ef-11ef-94a8-d72bb3248a50.html>
+
+---
+
+## Economy, health care, veterans issues  among concerns as early voting starts
+
+date: 2024-07-15, from: Guam Daily Post
+
+Early voting for the primary election began at The Westin Resort Guam on Monday, drawing constituents and candidates alike. 
+
+<https://www.postguam.com/news/local/economy-health-care-veterans-issues-among-concerns-as-early-voting-starts/article_e2d78970-4254-11ef-9b45-e3a6ee17e83e.html>
+
+---
+
 ## Apathy or disillusionment? Examining Guam’s low candidate turnout in 2024 
 
 date: 2024-07-14, from: Pacific Island Times
@@ -1449,7 +2154,7 @@ BUTLER, Pa. - Former President Donald Trump on Saturday was rushed offstage with
 
 date: 2024-07-14, from: Guam Daily Post
 
-Sen. Thomas Fisher has introduced the Transparency in Legislative Travel Act of 2024, a measure that would require the Guam Legislature to post all travel authorizations on its official website within five business days of approval. 
+Editor's note: 
 
 <https://www.postguam.com/news/local/fisher-pens-legislative-travel-transparency-bill-after-senator-spends-more-than-16k/article_41d90102-4006-11ef-bbfe-2fe7f4664c1b.html>
 

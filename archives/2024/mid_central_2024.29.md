@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.29
-updated: 2024-07-16 14:33:21
+updated: 2024-07-17 08:39:48
 ---
 
 # mid central 2024.29
 
-(date: 2024-07-16 14:33:21)
+(date: 2024-07-17 08:39:48)
+
+---
+
+## Automotive processor IP complies with ISO 21434 cybersecurity
+
+date: 2024-07-17, from: EDN Blog
+
+<img width="1000" height="829" src="https://www.edn.com/wp-content/uploads/Hero-image-synopsys-4.jpg?fit=1000%2C829" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-synopsys-4.jpg?w=1000 1000w, https://www.edn.com/wp-content/uploads/Hero-image-synopsys-4.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-synopsys-4.jpg?w=768 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><p>The ISO/SAE 21434 standard defines the engineering requirements for cybersecurity to monitor, detect, and mitigate risks in vehicles.</p>
+<p>The post <a href="https://www.edn.com/automotive-processor-ip-complies-with-iso-21434-cybersecurity/" data-wpel-link="internal">Automotive processor IP complies with ISO 21434 cybersecurity</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/automotive-processor-ip-complies-with-iso-21434-cybersecurity/>
 
 ---
 
@@ -23,7 +35,7 @@ date: 2024-07-16, from: Amateur Radio Relay League News
 
 date: 2024-07-16, from: EDN Blog
 
-<img width="1400" height="1157" src="https://www.edn.com/wp-content/uploads/pcb-top-faraday-removed-closeup.jpg?fit=1400%2C1157" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/pcb-top-faraday-removed-closeup.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/pcb-top-faraday-removed-closeup.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/pcb-top-faraday-removed-closeup.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/pcb-top-faraday-removed-closeup.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Same-era media streamers from different suppliers have a common silicon foundation, albeit with some notable implementation differences.</p>
+<img width="1400" height="1157" src="https://www.edn.com/wp-content/uploads/pcb-top-faraday-removed-closeup.jpg?fit=1400%2C1157" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/pcb-top-faraday-removed-closeup.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/pcb-top-faraday-removed-closeup.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/pcb-top-faraday-removed-closeup.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/pcb-top-faraday-removed-closeup.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Same-era media streamers from different suppliers have a common silicon foundation, albeit with some notable implementation differences.</p>
 <p>The post <a href="https://www.edn.com/walmarts-onn-uhd-streaming-device-android-tv-at-a-compelling-price/" data-wpel-link="internal">Walmart’s onn. UHD streaming device: Android TV at a compelling price</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

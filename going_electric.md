@@ -1,11 +1,273 @@
 ---
 title: going electric 2024.29
-updated: 2024-07-16 14:33:27
+updated: 2024-07-17 08:39:55
 ---
 
 # going electric 2024.29
 
-(date: 2024-07-16 14:33:27)
+(date: 2024-07-17 08:39:55)
+
+---
+
+## Houston Homes Went Dark In Hurricane Beryl. EVs Powered Them Up.
+
+date: 2024-07-17, from: Inside EVs News
+
+As Hurricane Beryl took power out in parts of Texas, some EV owners relied on bidirectional charging to power their homes and appliances. 
+
+<https://insideevs.com/news/726819/houston-hurricane-beryl-electric-cars-power-homes/>
+
+---
+
+## Jaguar to end EV production with Magna Steyr as it transitions into a more exclusive luxury brand
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Jaguar-EV-production-I-PACE-dead.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Jaguar-Land Rover has decided not to renew its production contract with <a href="https://electrek.co/guides/magna-steyr/">Magna Steyr</a> as it looks to transition from a “mass premium” brand to a luxury EV automaker in 2025. This is the latest OEM to drop Magna Steyr, which is now expanding its search for new clients to other global automakers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="jaguar,jaguar-i-pace,magna-steyr" data-layer-viewtype="unknown" data-post-id="372014" href="https://electrek.co/2024/07/17/jaguar-to-end-ev-production-magna-steyrtransitions-more-exclusive-luxury-brand/#more-372014" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/jaguar-to-end-ev-production-magna-steyrtransitions-more-exclusive-luxury-brand/>
+
+---
+
+## A Pro Mountain Biker Tried To Ride a MotoGP Bike, Asked 'How Hard Can It Be?'
+
+date: 2024-07-17, from: Ride Apart, Electric Motorcycle News
+
+You can't just hop on. 
+
+<https://www.rideapart.com/news/726853/mountain-biker-rides-motogp-bike/>
+
+---
+
+## This Is The Charging Adapter Nissan Leaf Owners Need Right Now
+
+date: 2024-07-17, from: Inside EVs News
+
+ A new CHAdeMO to CCS adapter could add many more years of driving to your Leaf. 
+
+<https://insideevs.com/news/726889/chademo-ccs-adapter-a2z-video-unboxing/>
+
+---
+
+## Elon Musk might give up on Tesla’s 4680 battery cell by the end of the year
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-4680-Battery-cell.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk might give up on Tesla’s 4680 battery cell if the situation doesn’t improve by the end of the year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="372013" href="https://electrek.co/2024/07/17/elon-musk-might-give-up-tesla-4680-battery-cell-end-of-the-year/#more-372013" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/elon-musk-might-give-up-tesla-4680-battery-cell-end-of-the-year/>
+
+---
+
+## Ferrari’s first EV hits the road for testing ahead of its official launch
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Ferraris-first-EV-testing-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ferrari promises its first electric vehicle will be built “the right way” as the Italian luxury sports car maker preps for a new era. Ahead of its official debut, <a href="https://electrek.co/guides/ferrari/">Ferrari’s</a> first EV is already out for testing.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ferrari" data-layer-viewtype="unknown" data-post-id="371999" href="https://electrek.co/2024/07/17/ferraris-first-ev-hits-road-testing-official-launch/#more-371999" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/ferraris-first-ev-hits-road-testing-official-launch/>
+
+---
+
+## More Proof That Tariffs On China's EVs Won't Work Forever
+
+date: 2024-07-17, from: Inside EVs News
+
+Facing tariffs from the European Union, Chinese giant BYD is just building a factory in Turkey instead. Plus, Honda banks on EV growth. 
+
+<https://insideevs.com/news/726927/byd-tariff-turkey-cm/>
+
+---
+
+## Norton Motorcycles Is Back, Will Launch Six New Bikes in the Next Three Years
+
+date: 2024-07-17, from: Ride Apart, Electric Motorcycle News
+
+TVS Motor has some really big plans for the iconic British brand.  
+
+<https://www.rideapart.com/news/726707/norton-motorcycles-6-new-models-3-years/>
+
+---
+
+## Tesla Cybertruck Was Among The Top 5 Most Registered EVs In The U.S. In May
+
+date: 2024-07-17, from: Inside EVs News
+
+It beat all of the other EV pickups with a number higher than the next two contenders combined. 
+
+<https://insideevs.com/news/726922/tesla-cybertruck-us-registrations-may2024/>
+
+---
+
+## Genesis Tones Down Plan To Only Sell EVs: ‘Customers Want Hybrid More Than EV’
+
+date: 2024-07-17, from: Inside EVs News
+
+Meanwhile, the company remains committed to full electrification and will launch a new, bespoke EV architecture soon. 
+
+<https://insideevs.com/news/726901/genesis-ev-plan-2025-more-hybrids/>
+
+---
+
+## It’s Official, New York State Mandates Moped Registration
+
+date: 2024-07-17, from: Ride Apart, Electric Motorcycle News
+
+Mopeds aside, new regulations surrounding e-bike and e-scooter safety have also been rolled out.  
+
+<https://www.rideapart.com/news/726708/new-york-state-moped-registration/>
+
+---
+
+## Europe meets Texas? The MOD Berlin electric bike seeks to find the best of both
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Mod-Berline-electric-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Austin, Texas-based electric bike maker MOD Bikes has just announced the launch of its latest model, the new<a href="https://mod-bikes.com/products/mod-berlin-step-thru-commuter-ebike?variant=39631584854156"> MOD Berlin</a> e-bike. It may be a commuter-class electric bike, but that doesn’t mean it hasn’t come ready to compete.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="371995" href="https://electrek.co/2024/07/17/europe-meets-texas-the-mod-berlin-electric-bike-seeks-to-find-the-best-of-both/#more-371995" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/europe-meets-texas-the-mod-berlin-electric-bike-seeks-to-find-the-best-of-both/>
+
+---
+
+## Good News, The DJI Ban Isn't Included in the US Senate's Latest Plans
+
+date: 2024-07-17, from: Ride Apart, Electric Motorcycle News
+
+Drone fans can breathe a little easier ... but the danger isn't over yet. 
+
+<https://www.rideapart.com/news/726854/senate-ndaa-no-dji-ban/>
+
+---
+
+## I Want This Porsche Electric Mountain Bike, and So Will You
+
+date: 2024-07-17, from: Ride Apart, Electric Motorcycle News
+
+It's a collab with eBike specialist Rotwild and comes in all your favorite Porsche colors.  
+
+<https://www.rideapart.com/news/726840/porsche-ebike-cross-performance-exc-specs-price/>
+
+---
+
+## Mercedes Brings EV Fast Charging To Starbucks
+
+date: 2024-07-17, from: Inside EVs News
+
+Mercedes-Benz's charging firm is outfitting over 100 Starbucks locations with its high-powered charging plugs.  
+
+<https://insideevs.com/news/726856/starbucks-ev-charging-mercedes/>
+
+---
+
+## Build Moto Is Forging The Future Of Motorcycles Mechanics, Harley Becomes a Sponsor
+
+date: 2024-07-17, from: Ride Apart, Electric Motorcycle News
+
+Did you build motorcycles with expert help in high school? Do you want to?  
+
+<https://www.rideapart.com/news/726842/build-moto-milwaukee-harley-2025/>
+
+---
+
+## The Ukrainians Built This Sick Fast-Attack UTV, Has a Rocket Launcher
+
+date: 2024-07-17, from: Ride Apart, Electric Motorcycle News
+
+Witness me! 
+
+<https://www.rideapart.com/news/726832/ukraine-utv-fast-attack-dpv-rocket-launcher-anti-tank/>
+
+---
+
+## AI Is Being Used To Appraise Used Motorcycles, But Should It?
+
+date: 2024-07-17, from: Ride Apart, Electric Motorcycle News
+
+It’s said to cut assessment time down from one hour to just five minutes.  
+
+<https://www.rideapart.com/news/726709/ai-used-assess-value-repossessed-motorcycles/>
+
+---
+
+## Battery-swapping leader Gogoro to begin sales of electric scooters in Singapore
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/gogoro-food-panda-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Singapore is the latest stop on <a href="http://gogoro.com">Gogoro’s</a> worldwide expansion tour, bringing the company’s industry-leading battery swapping to local riders and expanding the sale of its electric scooters in the local market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="gogoro,singapore" data-layer-viewtype="unknown" data-post-id="371985" href="https://electrek.co/2024/07/17/battery-swapping-leader-gogoro-to-begin-sales-of-electric-scooters-in-singapore/#more-371985" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/battery-swapping-leader-gogoro-to-begin-sales-of-electric-scooters-in-singapore/>
+
+---
+
+## Prime Day Green Deals: EVs, power stations, tools, smart devices, appliances, more
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/amazon-prime-day-electrek.png?w=1600" /></div><p>Amazon  are officially rolling in! The two-day savings event has begun, bringing with it some of the absolute best Green Deals of the year – we’ve already seen numerous early deals having already dropped, while those same deals and new ones alike will continue pouring in over the next 48-hour period. We’ve got plenty of great opportunities to save big bucks on eco-friendly devices and equipment from your favorite brands, including EVs, power stations, electric tools, smart irrigation controllers, wood-burning grills and fire pits, and so much more. We’ve collected all these discounts together and curated this one-stop-shopping hub for you to peruse at your own convenience, which we will be updating regularly as new deals come in – but don’t dawdle too long, you’ll only have two days to take advantage of these offers!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="371705" href="https://electrek.co/2024/07/17/prime-day-green-deals-evs-power-stations-tools-smart-devices-appliances-more/#more-371705" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/prime-day-green-deals-evs-power-stations-tools-smart-devices-appliances-more/>
+
+---
+
+## Ioniq 5 & EV6 spotted supercharging, native NACS coming soon?
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/08/Hyundai-IONIQ-5-Kia-EV6-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A Hyundai Ioniq 5 and Kia EV6 have been spotted at a supercharger, but not charging with an adapter – this time they were using a native NACS port, suggesting native NACS support could be coming soon.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai-ioniq-5,kia-ev6,north-american-charging-standard-nacs" data-layer-viewtype="unknown" data-post-id="371979" href="https://electrek.co/2024/07/16/ioniq-5-ev6-spotted-supercharging-native-nacs-coming-soon/#more-371979" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/ioniq-5-ev6-spotted-supercharging-native-nacs-coming-soon/>
+
+---
+
+## Judge Approves Fisker's Plan To Offload Ocean EVs
+
+date: 2024-07-16, from: Inside EVs News
+
+The bankrupt EV startup plans to sell some 3,000 Ocean SUVs to a leasing company in New York for a shockingly low price.  
+
+<https://insideevs.com/news/726850/fisker-ocean-fleet-sale-approved/>
+
+---
+
+## Tesla launches new Cybertruck tailgate shield and jumpseats
+
+date: 2024-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Tesla-Cybertruck-jumpseats.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has launched two new Cybertruck accessories: a tailgate shield and jumpseats that attach to the tailgate.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="371961" href="https://electrek.co/2024/07/16/tesla-launches-cybertruck-tailgate-shield-jumpseats/#more-371961" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/16/tesla-launches-cybertruck-tailgate-shield-jumpseats/>
 
 ---
 

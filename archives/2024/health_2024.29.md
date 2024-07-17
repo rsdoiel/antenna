@@ -1,11 +1,11 @@
 ---
 title: health 2024.29
-updated: 2024-07-16 14:33:26
+updated: 2024-07-17 08:39:54
 ---
 
 # health 2024.29
 
-(date: 2024-07-16 14:33:26)
+(date: 2024-07-17 08:39:54)
 
 ---
 
@@ -16,6 +16,26 @@ date: 2024-07-18, from: Frontiers in Cellular and Infection Microbiology
 Patients with severe carbapenem-resistant Acinetobacter baumannii (CRAB) infections currently face significant treatment challenges. When patients display signs of infection and the clinical suspicion of CRAB infections is high, appropriate treatment should be immediately provided. However, current treatment plans and clinical data for CRAB are limited. Inherent and acquired resistance mechanisms, as well as host factors, significantly restrict options for empirical medication. Moreover, inappropriate drug coverage can have detrimental effects on patients. Most existing studies have limitations, such as a restricted sample size, and are predominantly observational or non-randomized, which report significant variability in patient infection severity and comorbidities. Therefore, a gold-standard therapy remains lacking. Current and future treatment options of infections due to CRAB were described in this review. The dose and considerable side effects restrict treatment options for polymyxins, and high doses of ampicillin-sulbactam or tigecycline appear to be the best option at the time of initial treatment. Moreover, new drugs such as durlobactam and cefiderocol have substantial therapeutic capabilities and may be effective salvage treatments. Bacteriophages and antimicrobial peptides may serve as alternative treatment options in the near future. The advantages of a combination antimicrobial regimen appear to predominate those of a single regimen. Despite its significant nephrotoxicity, colistin is considered a primary treatment and is often used in combination with antimicrobials, such as tigecycline, ampicillin-sulbactam, meropenem, or fosfomycin. The Infectious Diseases Society of America (IDSA) has deemed high-dose ampicillin-sulbactam, which is typically combined with high-dose tigecycline, polymyxin, and other antibacterial agents, the best option for treating serious CRAB infections. A rational combination of drug use and the exploration of new therapeutic drugs can alleviate or prevent the effects of CRAB infections, shorten hospital stays, and reduce patient mortality. 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2024.1395260>
+
+---
+
+## Analysis of Amblyomma americanum microRNAs in response to Ehrlichia chaffeensis infection and their potential role in vectorial capacity
+
+date: 2024-07-17, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundMicroRNAs (miRNAs) represent a subset of small noncoding RNAs and carry tremendous potential for regulating gene expression at the post-transcriptional level. They play pivotal roles in distinct cellular mechanisms including inhibition of bacterial, parasitic, and viral infections via immune response pathways. Intriguingly, pathogens have developed strategies to manipulate the host’s miRNA profile, fostering environments conducive to successful infection. Therefore, changes in an arthropod host’s miRNA profile in response to pathogen invasion could be critical in understanding host-pathogen dynamics. Additionally, this area of study could provide insights into discovering new targets for disease control and prevention. The main objective of the present study is to investigate the functional role of differentially expressed miRNAs upon Ehrlichia chaffeensis, a tick-borne pathogen, infection in tick vector, Amblyomma americanum.MethodsSmall RNA libraries from uninfected and E. chaffeensis-infected Am. americanum midgut and salivary gland tissues were prepared using the Illumina Truseq kit. Small RNA sequencing data was analyzed using miRDeep2 and sRNAtoolbox to identify novel and known miRNAs. The differentially expressed miRNAs were validated using a quantitative PCR assay. Furthermore, a miRNA inhibitor approach was used to determine the functional role of selected miRNA candidates.ResultsThe sequencing of small RNA libraries generated >147 million raw reads in all four libraries and identified a total of >250 miRNAs across the four libraries. We identified 23 and 14 differentially expressed miRNAs in salivary glands, and midgut tissues infected with E. chaffeensis, respectively. Three differentially expressed miRNAs (miR-87, miR-750, and miR-275) were further characterized to determine their roles in pathogen infection. Inhibition of target miRNAs significantly decreased the E. chaffeensis load in tick tissues, which warrants more in-depth mechanistic studies.ConclusionsThe current study identified known and novel miRNAs and suggests that interfering with these miRNAs may impact the vectorial capacity of ticks to harbor Ehrlichia. This study identified several new miRNAs for future analysis of their functions in tick biology and tick-pathogen interaction studies. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1427562>
+
+---
+
+## Integrated analysis of gut microbiome and its metabolites in ACE2-knockout and ACE2-overexpressed mice
+
+date: 2024-07-17, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundAberrant activation of the classic renin–angiotensin system (RAS) and intestinal micro dysbiosis adversely affect insulin resistance (IR), dyslipidemia, and other metabolic syndrome markers. However, the action of angiotensin-converting enzyme 2 (ACE2) and gut health in systemic homeostasis vary, and their interaction is not completely understood.MethodsWe adopted a combinatory approach of metabolomics and fecal 16S rRNA analysis to investigate gut microbiota and metabolite in two different mouse models, ACE2 knockout (ACE2 KO) mice and the ACE2-overexpressing obese mice.Results16S rRNA gene sequencing revealed that ACE2 influences microbial community composition and function, and ACE2 KO mice had increased Deferribacteres, Alcaligenaceae, Parasutterella, Catenibacterium, and Anaerotruncus, with decreased short-chain fatty acid (SCFA)-producing bacteria (Marvinbryantia and Alistipes). In contrast, ACE2-overexpressed mice exhibited increased anti-inflammatory probiotic (Oscillospiraceae, Marinifilaceae, and Bifidobacteriaceae) and SCFA-producing microbes (Rikenellaceae, Muribaculaceae, Ruminococcaceae, Odoribacter, and Alistipes) and decreased Firmicutes/Bacteroidetes, Lactobacillaceae, Erysipelotrichaceae, and Lachnospiraceae. Metabolome analysis indicated differential metabolites in ACE2 KO and ACE2-overexpression mice, especially the glucolipid metabolism-related compounds. Furthermore, correlation analysis between gut microbiota and metabolites showed a dynamic mutual influence affecting host health.ConclusionOur study confirms for the first time a significant association between ACE2 status and gut microbiome and metabolome profiles, providing a novel mechanism for the positive effect of ACE2 on energy homeostasis. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1404678>
 
 ---
 

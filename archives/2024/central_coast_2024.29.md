@@ -1,11 +1,136 @@
 ---
 title: central coast 2024.29
-updated: 2024-07-16 14:33:21
+updated: 2024-07-17 08:39:49
 ---
 
 # central coast 2024.29
 
-(date: 2024-07-16 14:33:21)
+(date: 2024-07-17 08:39:49)
+
+---
+
+## Sunset in College Station
+
+date: 2024-07-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-POD-Ross-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sunset in College Station, Texas." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-POD-Ross-Macfadyen.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-POD-Ross-Macfadyen.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-POD-Ross-Macfadyen.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-POD-Ross-Macfadyen.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-POD-Ross-Macfadyen.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-POD-Ross-Macfadyen.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-POD-Ross-Macfadyen.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-POD-Ross-Macfadyen.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-POD-Ross-Macfadyen.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-POD-Ross-Macfadyen.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-POD-Ross-Macfadyen.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-POD-Ross-Macfadyen.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071224-POD-Ross-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/sunset-in-college-station/">Sunset in College Station</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sunset-in-college-station/>
+
+---
+
+## Santa Barbara School Board OKs New Contract for Teachers, Extension for Superintendent Maldonado
+
+date: 2024-07-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-School-Board-Gabe-Escobedo-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara school board member Gabe Escobedo." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-School-Board-Gabe-Escobedo-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-School-Board-Gabe-Escobedo-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-School-Board-Gabe-Escobedo-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-School-Board-Gabe-Escobedo-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-School-Board-Gabe-Escobedo-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-School-Board-Gabe-Escobedo-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-School-Board-Gabe-Escobedo-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-School-Board-Gabe-Escobedo-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-School-Board-Gabe-Escobedo-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-School-Board-Gabe-Escobedo-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It&#8217;s a deal — and it came with an apology. The Santa Barbara Unified School District Board of Education voted unanimously Tuesday night to approve a new contract with the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-school-board-approves-new-contract-for-teachers-extension-for-superintendent-maldonado/">Santa Barbara School Board OKs New Contract for Teachers, Extension for Superintendent Maldonado</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-school-board-approves-new-contract-for-teachers-extension-for-superintendent-maldonado/>
+
+---
+
+## UCSB’s Zander Darby, Brendan Durfee Drafted on Day 3 of 2024 MLB Draft
+
+date: 2024-07-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/day-3-mlb-draft-cover.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/day-3-mlb-draft-cover.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/day-3-mlb-draft-cover.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/day-3-mlb-draft-cover.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/day-3-mlb-draft-cover.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/day-3-mlb-draft-cover.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/day-3-mlb-draft-cover.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/day-3-mlb-draft-cover.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/day-3-mlb-draft-cover.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/day-3-mlb-draft-cover.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/day-3-mlb-draft-cover.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A pair of UCSB Gauchos baseball players were selected on the third day of the 2024 MLB Draft on Tuesday, making it six total Gauchos to be drafted. Zander Darby [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsbs-zander-darby-brendan-durfee-drafted-on-day-3-of-2024-mlb-draft/">UCSB&#8217;s Zander Darby, Brendan Durfee Drafted on Day 3 of 2024 MLB Draft</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsbs-zander-darby-brendan-durfee-drafted-on-day-3-of-2024-mlb-draft/>
+
+---
+
+## Santa Maria Mayor Alice Patino Confirms Re-Election Bid, Will Face Challenger Diana Perez
+
+date: 2024-07-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-Santa-Maria-mayor-race-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Maria Mayor Alice Patino, left, is running for re-election and will face challenger Diana Perez in the Nov. 5 election." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-Santa-Maria-mayor-race-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-Santa-Maria-mayor-race-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-Santa-Maria-mayor-race-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-Santa-Maria-mayor-race-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-Santa-Maria-mayor-race-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-Santa-Maria-mayor-race-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-Santa-Maria-mayor-race-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-Santa-Maria-mayor-race-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-Santa-Maria-mayor-race-2000.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071624-Santa-Maria-mayor-race-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The board president for the Santa Maria Joint Union High School District has resigned, saying she intends to run for the job of Santa Maria mayor, giving incumbent Alice Patino [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-mayor-alice-patino-confirms-re-election-bid-will-face-challenger-diana-perez/">Santa Maria Mayor Alice Patino Confirms Re-Election Bid, Will Face Challenger Diana Perez</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-maria-mayor-alice-patino-confirms-re-election-bid-will-face-challenger-diana-perez/>
+
+---
+
+## Santa Barbara Teacher Arrested on Suspicion of Secretly Recording Minors
+
+date: 2024-07-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara County sheriff&#8217;s deputies on Saturday arrested a Santa Barbara Charter School teacher suspected of using hidden recording devices to secretly record minors in several locations, including at the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-teacher-arrested-on-suspicion-of-secretly-recording-minors/">Santa Barbara Teacher Arrested on Suspicion of Secretly Recording Minors</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-teacher-arrested-on-suspicion-of-secretly-recording-minors/>
+
+---
+
+## Charlotte Raisin Playing for U.S. Water Polo Cadets in Europe
+
+date: 2024-07-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>San Marcos water polo star Charlotte Raisin has been spending her summer playing for the USA Water Polo Cadet National Team in Europe. Raisin, who is entering her junior year [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/charlotte-raisin-playing-for-u-s-water-polo-cadets-in-europe/">Charlotte Raisin Playing for U.S. Water Polo Cadets in Europe</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/charlotte-raisin-playing-for-u-s-water-polo-cadets-in-europe/>
+
+---
+
+## 1875 Ringsted Drive, SOLVANG, CA 93463
+
+date: 2024-07-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1875-Ringsted-Drive-1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1875-Ringsted-Drive-1.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1875-Ringsted-Drive-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1875-Ringsted-Drive-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1875-Ringsted-Drive-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1875-Ringsted-Drive-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1875-Ringsted-Drive-1.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1875-Ringsted-Drive-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1875-Ringsted-Drive-1.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1875-Ringsted-Drive-1.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1875-Ringsted-Drive-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1875-Ringsted-Drive-1.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1875-Ringsted-Drive-1.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1875-Ringsted-Drive-1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Offered At $2,300,000</p>
+<p>The post <a href="https://www.noozhawk.com/1875-ringsted-drive-solvang-ca-93463-2/">1875 Ringsted Drive, SOLVANG, CA 93463</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/1875-ringsted-drive-solvang-ca-93463-2/>
+
+---
+
+## 2697 Montrose Place Place, Santa Barbara, CA
+
+date: 2024-07-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/2697-Montrose-Place-.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/2697-Montrose-Place-.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/2697-Montrose-Place-.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/2697-Montrose-Place-.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/2697-Montrose-Place-.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/2697-Montrose-Place-.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/2697-Montrose-Place-.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/2697-Montrose-Place-.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/2697-Montrose-Place-.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/2697-Montrose-Place-.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/2697-Montrose-Place-.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/2697-Montrose-Place-.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/2697-Montrose-Place-.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/2697-Montrose-Place-.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Offered At $2,595,000</p>
+<p>The post <a href="https://www.noozhawk.com/2697-montrose-place-place-santa-barbara-ca/">2697 Montrose Place Place, Santa Barbara, CA</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/2697-montrose-place-place-santa-barbara-ca/>
+
+---
+
+## Gerald Carpenter: A Requiem For Emma Lou and Betty
+
+date: 2024-07-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Most of those reading this are already aware that June witnessed the winking out of two of the brightest lights of our local music world: the composer/organist/educator Emma Lou Diemer [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/gerald-carpenter-a-requiem-for-emma-lou-and-betty/">Gerald Carpenter: A Requiem For Emma Lou and Betty</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/gerald-carpenter-a-requiem-for-emma-lou-and-betty/>
+
+---
+
+## Santa Maria Riverbed Fire Chars 4 Acres
+
+date: 2024-07-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A vegetation fire in the Santa Maria Riverbed sent up a large column of smoke Tuesday afternoon. Personnel from the Santa Maria Fire Department and Cal Fire in San Luis [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-riverbed-fire-chars-4-acres/">Santa Maria Riverbed Fire Chars 4 Acres</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-maria-riverbed-fire-chars-4-acres/>
 
 ---
 

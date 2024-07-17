@@ -1,11 +1,11 @@
 ---
 title: retro computing 2024.29
-updated: 2024-07-16 14:33:26
+updated: 2024-07-17 08:39:54
 ---
 
 # retro computing 2024.29
 
-(date: 2024-07-16 14:33:26)
+(date: 2024-07-17 08:39:54)
 
 ---
 
@@ -680,7 +680,7 @@ Finally, the tForth itself, which immediately follows the machine code trampolin
 <p>
 Our patcher will insert all of this into the 288 bytes at the end of display memory on disk. Since most of you don't have a Cat, here's a video of the picture disk in action.
 
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyVWiQutiOFEU5poJwx7XJHxZtp_OYBeB0xqMuDm3djcuo1l0y84rJ35a7M4_0GogbPMQjD094bzYTkoahA3Q' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxy1EOPAjnuoq8ubj-F3YjtuLZI3n3fPgIMbSN9O8mMdnknlTKVXjxP-Pgg36LY_fwFL-QkUyBVpHCwbGs5Uw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 
 We turn on the Cat, insert the Raskin picture disk and press USE FRONT-DISK. The disk loads, displaying our picture, and pauses with "press any key" and a beep. (The disk light remains on as a side effect since we haven't yet run the word that turns the disk drive off.) We press a key, loading completes, and the document appears. Next, we use SHIFT and the LEAP keys to scroll line by line, then LEAP to the word "Apple" forwards and back a few times (using USE FRONT-LEAP to leap again with the same search), LEAP to the word "Aza," and finally LEAP to the DOCUMENT/PAGE marker, which will eventually bring us at the bottom of the text. Sorry about the darkness and changing light levels, but it's hard to video a CRT with a Pixel 7 Pro.
 <p>
@@ -806,7 +806,7 @@ We highlight the entire text and do USE FRONT-ANSWER to define the words, and th
 <p>
 As a last convenience we enter and highlight the word <tt>catterm</tt> in the document so that you can just run it again from the editor by pressing USE FRONT-ANSWER. We save it to disk and create a disk image, and patch it. Here it is booting. I couldn't run to the workstation and type at the same time as I was filming, but you can see that it autostarts and cleanly returns to the editor. The CatTerm disk image is <a href="https://github.com/classilla/catbox/tree/main/examples/catterm">in the Catbox</a>.
 
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxvLHKd3eNYymF8uKzT6txWsEUxauklouSGqncDdwO1Chlsp3k5-VrpGWSv_N_gEAmGAmIuOntiuw92nc0g9w' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz6c4f5eQpxvpacCflzFvZ4nqq5l547rCB1Lax7Yy9_Ne4xLZJ-gRBd_9_2cOvl20QgTQsRmCaCAzF9qU3kjw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 
 I also demonstrate running it from the <tt>ok</tt> prompt by pressing SHIFT-USE FRONT-SPACE, entering <tt>page</tt>, entering <tt>catterm</tt>, and after pressing UNDO entering <tt>re</tt> to return to the editor. Everything works just as it should. Port speed and settings are configured with SETUP, just like everywhere else.
 <p>
@@ -1020,7 +1020,7 @@ Accordingly, the problem I ran into with this hack was the drive couldn't reliab
 <p>
 Here's the finished product. Both disk images are <a href="https://github.com/classilla/catbox/tree/main/examples/slideshow">in the Catbox</a>.
 
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxTOOFC3pYVBPKIqD9r4cFy0Yjqa-rzrJygNo42nMe5yJ-jz5h23BuprAFo4lbCEJh98zgzxVQG41lXBKwxlA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyDrcadsqc4hIIb8uj01bLBf7VYDlO36IPdABX8XIcHYz9SmakOoDUhE0LRK6ZiBeqxXex59asgxR2VQirP6Q' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 
 This hack brings you the final iteration of <a href="https://github.com/classilla/catbox/blob/main/catcpic"><tt>catcpic</tt></a>, which now is a three-headed application. It requires your original eDSK and a properly formatted and inverted PBM, generates a nice randomized idtable so that your Cat can't confuse it with anything else (though you can pass it one in hex with <tt>-idtable=...</tt> if you want) and emits the resulting disk image to standard output. If you don't pass it a token in hex, it will install the "press any key" patch; if you do, and you specify <tt>-cold</tt>, you'll get a cold booter; otherwise you'll get a autostarter that will enable you to cleanly return to the editor.
 <p>

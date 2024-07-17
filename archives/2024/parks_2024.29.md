@@ -1,19 +1,19 @@
 ---
 title: parks 2024.29
-updated: 2024-07-16 14:33:25
+updated: 2024-07-17 08:39:53
 ---
 
 # parks 2024.29
 
-(date: 2024-07-16 14:33:25)
+(date: 2024-07-17 08:39:53)
 
 ---
 
-## BIL funds benefit wildlife habitat on BLM lands in northwest Nevada
+## Ripple Effect: Dillon Field Office Partners Help Riparian Areas Thrive
 
-date: 2024-07-15, from: Bureau of Land Management, blog
+date: 2024-07-16, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>BIL funds benefit wildlife habitat on BLM lands in northwest Nevada</h1></div>
+<div class="field contact-block -title"><h1>Ripple Effect: Dillon Field Office Partners Help Riparian Areas Thrive</h1></div>
       
 
 
@@ -21,16 +21,12 @@ date: 2024-07-15, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><p><em>Story by Jeff Fontana, Public Affairs Officer, Northern California District. Photos by A. Hedrick, BLM</em></p>
+            <div class="field contact-block -body"><p style="margin-bottom:11px">Riparian areas in the BLM Dillon Field Office area are thriving thanks in part to partnerships with local non-profit organizations.</p>
 
-<p>Thousands of acres of important high desert wildlife habitat on BLM-managed lands in northwest Nevada, including sage-grouse and other sagebrush habitat, will undergo improvements thanks to partnerships, science-based research, and $500,000 from the&nbsp;<a href="https://www.blm.gov/about/laws-and-regulations/infrastructure#:~:text=The%20Infrastructure%20Investment%20and%20Jobs%2cthe%20communities%20we%20directly%20serve.">Bipartisan Infrastructure Law</a>&nbsp;(BIL).</p>
-
-<p>The BLM, in partnership with the Nevada Department of Wildlife, will restore more than 10,000 acres of public lands by removing invasive grasses, including cheatgrass, and replanting the areas with native and more fire-resilient grasses; shrubs; and leafy, flowering and herbaceous plants called forbs.&nbsp;</p>
-
-<p>The BLM is also restoring public lands invaded by annual grasses and impacted by wildfire to help speed up the long process of wildfire recovery.&nbsp;&nbsp;</p>
+<p>The Southwest Montana Sagebrush Partnership (SMSP) and the Youth Employment Program (YEP) have been hard at work this summer installing Beaver Dam Analogs (BDAs) on BLM-administered lands in southwestern Montana.</p>
 
 <figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="968a6d64-8db1-44ff-b826-209c96dfc96b" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="ea4c22d8-e6ef-4ef4-8d48-3784ad950861" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -39,7 +35,7 @@ date: 2024-07-15, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/Photo%201.png?itok=ZOfXmNzu" width="640" height="391" alt="New plants are growing in an area that was treated in an earlier project. (Photo by BLM)  " typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/Dillon%20FO%20Partners%203%20BDA.JPG?itok=AqNUUCAq" width="640" height="427" alt="A row of short posts stands in a creek bed, surrounded by green grass and shrubs" typeof="foaf:Image">
 
 
 </div>
@@ -47,22 +43,18 @@ date: 2024-07-15, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption><em>New plants are growing in an area that was treated in an earlier project. (Photo by BLM)</em></figcaption>
+<figcaption>A completed Beaver Dam Analog (BDA) on BLM-administered lands on Little Sage Creek in southwestern Montana. BLM photo</figcaption>
 </figure>
 
 
-<p>“This significant investment will improve plant diversity in sagebrush habitat, supporting a wider variety of wildlife,” said Dereck Wilson, BLM Northern California District Manager. “Reducing invasive grasses can also help reduce the severity of wildfires, which can spread rapidly when fed by large areas of dry plants such as cheatgrass.”</p>
+<p>BDAs are handmade structures that mimic beaver dams. They hold back water and cause it to spread across the landscape. This process creates larger wetland areas which in turn increases willows and other riparian area plant species.</p>
 
-<p>In burned areas, wildfires removed large swaths of sagebrush, bitterbrush, and other native plants critical for sage-grouse, a species of special concern, and larger animals including mule deer and pronghorn. This allows for invasive grasses to spread over large landscapes.</p>
+<p>Riparian areas are critically important for diverse wildlife habitat and forage. By expanding riparian areas and holding more water on the landscape, these riparian areas continue to thrive and help the BLM fulfill its multiple use mission.</p>
 
-<p>In other areas targeted for treatment, invasive grasses are crowding out important native plants, making the areas more susceptible to wildfire and less desirable for wildlife.</p>
-
-<p>“Without restoration such as reseeding, these areas no longer support diverse, healthy wildlife populations and are less fire resilient than diverse landscapes with mixes of mature shrubs, grasses and forbs,” said Emily Ryan, BLM Eagle Lake Field Office Manager in Susanville, California.</p>
-
-<p>According to the University of Wyoming’s and Colorado State University’s Cheatgrass Management Handbook, cheatgrass (or downy brome) is one of the most significant invasive weeds in the western United States because it reduces forage quantity and quality, alters wildfire regimes, impacts species diversity, and reduces wildlife habitat.&nbsp;&nbsp;</p>
+<p>So far this summer, SMSP and YEP have maintained close to 70 BDA structures and built 60 new ones. YEP crews are comprised of mostly high school-aged youth and some college-aged employees. The youthful enthusiasm of the crews makes for a very fun and productive environment. They are very important to the Dillon Field Office and get a lot of work accomplished on BLM and adjacent lands.</p>
 
 <figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="d67030b0-8be2-4b36-aab8-f8a55a03c245" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="2e78a6dc-2203-46de-a114-e337f0c32ebe" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -71,7 +63,7 @@ date: 2024-07-15, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/Photo%202.jpeg?itok=rWB7i3YC" width="624" height="530" alt="Cheatgrass, an invasive weed, grows on public land. (Photo by A. Hedrick)" typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/Dillon%20FO%20Partners%202.JPG?itok=IAAFxRRJ" width="640" height="427" alt="Group of people look at analog dam in the creek, surrounded by green grass and shrubs" typeof="foaf:Image">
 
 
 </div>
@@ -79,20 +71,11 @@ date: 2024-07-15, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption><em>Cheatgrass, an invasive weed, grows on public land. (Photo by A. Hedrick)</em></figcaption>
+<figcaption>Crews from the Youth Empowerment Program install Beaver Dam Analogs on BLM-administered lands on Little Sage Creek in southwestern Montana. BLM photo</figcaption>
 </figure>
 
 
-<p>Cheatgrass has been a problem in the western Great Basin since the late 1800s and early 1900s. Other invasive annual grasses, such as Medusahead Wildrye and Ventenata, are somewhat more recent in their expansion in the region.&nbsp;&nbsp;&nbsp;</p>
-
-<p>“The largest issue with invasive annual grasses is the way they influence the Great Basin's fire cycle, carrying fires farther and faster as they fill in the interspaces between native shrubs and perennial grasses,” said Ryan.</p>
-
-<p>Public lands in the project areas are managed by the BLM California’s&nbsp;<a href="https://www.blm.gov/office/eagle-lake-field-office">Eagle Lake Field Office</a>&nbsp;in Susanville and the<a href="https://www.blm.gov/office/applegate-field-office">&nbsp;Applegate Field Office</a>&nbsp;in Alturas. These areas are popular for hunting, camping, and grazing. They also support critical habitat for sage-grouse, other sagebrush obligate species, and wild horses and burros.</p>
-
-<p>The projects continue a longstanding partnership between the BLM and the Nevada Department of Wildlife to improve habitat conditions.&nbsp;<br>
-&nbsp;</p>
-
-<p><em>This story is part of the “Unleashing the Science” series, showcasing how bureaus within the Department of the Interior produce and apply science to ensure responsible management decisions for our planet now and for the future.</em></p>
+<p>These projects are partially funded through Inflation Reduction Act (IRA) funds. IRA funding is hitting the ground locally and is helping to complete important conservation projects as well as providing the next generation of public land users and managers with a great jump start in public land awareness.</p>
 </div>
       
 
@@ -104,7 +87,8 @@ date: 2024-07-15, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+              <div><a href="https://www.blm.gov/region/western-montana-do" hreflang="en">Western Montana DO</a></div>
+          <div><a href="https://www.blm.gov/region/dillon-fo" hreflang="en">Dillon FO</a></div>
               </div>
       </div>
 
@@ -117,7 +101,7 @@ date: 2024-07-15, from: Bureau of Land Management, blog
 <div class="blog-topics">
     <div class="field contact-block -blog-topic">
       <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/weeds-and-invasives" hreflang="en">Weeds and Invasives</a></div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/partnerships" hreflang="en">Partnerships</a></div>
                 </div>
   </div>
 
@@ -129,7 +113,7 @@ date: 2024-07-15, from: Bureau of Land Management, blog
 
   <div class="field contact-block -release-date">
     <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-07-15T12:00:00Z">Mon, 07/15/2024 - 12:00 pm UTC</time>
+              <div><time datetime="2024-07-17T12:00:00Z">Wed, 07/17/2024 - 12:00 pm UTC</time>
 </div>
           </div>
 
@@ -141,7 +125,7 @@ date: 2024-07-15, from: Bureau of Land Management, blog
 
   <div class="field contact-block -office">
     <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/northern-california-district-office" hreflang="en">Northern California District Office</a></div>
+              <div><a href="https://www.blm.gov/office/montanadakotas-state-office" hreflang="en">Montana/Dakotas State Office</a></div>
           </div>
 
 
@@ -152,7 +136,7 @@ date: 2024-07-15, from: Bureau of Land Management, blog
 
   <div class="field contact-block -thumbnail-image">
     <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/49469/edit" hreflang="en">Cheat grass</a></div>
+              <div><a href="https://www.blm.gov/media/49507/edit" hreflang="en">MT/DKs DFO Partners 20240717</a></div>
           </div>
 
 
@@ -163,7 +147,7 @@ date: 2024-07-15, from: Bureau of Land Management, blog
 
   <div class="field contact-block -featured">
     <div><strong>Featured:</strong> </div>
-              <div>On</div>
+              <div>Off</div>
           </div>
 
 
@@ -176,7 +160,8 @@ date: 2024-07-15, from: Bureau of Land Management, blog
     <div class="field contact-block -tag">
       <div><strong>Tag:</strong> </div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/weeds" hreflang="en">Weeds</a></div>
+                    <div><a href="https://www.blm.gov/tag/riparian" hreflang="en">Riparian</a></div>
+              <div><a href="https://www.blm.gov/tag/watershed" hreflang="en">Watershed</a></div>
                     </div>
           </div>
   </div>
@@ -190,7 +175,94 @@ date: 2024-07-15, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+              </div>
+      </div> 
+
+<https://www.blm.gov/blog/2024-07-17/ripple-effect-dillon-field-office-partners-help-riparian-areas-thrive>
+
+---
+
+## Ute Mountain Ute Youth and Elders Spend the Day at Canyons of the Ancients
+
+date: 2024-07-16, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Ripple Effect: Dillon Field Office Partners Help Riparian Areas Thrive</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:11px">Riparian areas in the BLM Dillon Field Office area are thriving thanks in part to partnerships with local non-profit organizations.</p>
+
+<p>The Southwest Montana Sagebrush Partnership (SMSP) and the Youth Employment Program (YEP) have been hard at work this summer installing Beaver Dam Analogs (BDAs) on BLM-administered lands in southwestern Montana.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="ea4c22d8-e6ef-4ef4-8d48-3784ad950861" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/Dillon%20FO%20Partners%203%20BDA.JPG?itok=AqNUUCAq" width="640" height="427" alt="A row of short posts stands in a creek bed, surrounded by green grass and shrubs" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>A completed Beaver Dam Analog (BDA) on BLM-administered lands on Little Sage Creek in southwestern Montana. BLM photo</figcaption>
+</figure>
+
+
+<p>BDAs are handmade structures that mimic beaver dams. They hold back water and cause it to spread across the landscape. This process creates larger wetland areas which in turn increases willows and other riparian area plant species.</p>
+
+<p>Riparian areas are critically important for diverse wildlife habitat and forage. By expanding riparian areas and holding more water on the landscape, these riparian areas continue to thrive and help the BLM fulfill its multiple use mission.</p>
+
+<p>So far this summer, SMSP and YEP have maintained close to 70 BDA structures and built 60 new ones. YEP crews are comprised of mostly high school-aged youth and some college-aged employees. The youthful enthusiasm of the crews makes for a very fun and productive environment. They are very important to the Dillon Field Office and get a lot of work accomplished on BLM and adjacent lands.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="2e78a6dc-2203-46de-a114-e337f0c32ebe" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/Dillon%20FO%20Partners%202.JPG?itok=IAAFxRRJ" width="640" height="427" alt="Group of people look at analog dam in the creek, surrounded by green grass and shrubs" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Crews from the Youth Empowerment Program install Beaver Dam Analogs on BLM-administered lands on Little Sage Creek in southwestern Montana. BLM photo</figcaption>
+</figure>
+
+
+<p>These projects are partially funded through Inflation Reduction Act (IRA) funds. IRA funding is hitting the ground locally and is helping to complete important conservation projects as well as providing the next generation of public land users and managers with a great jump start in public land awareness.</p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/western-montana-do" hreflang="en">Western Montana DO</a></div>
+          <div><a href="https://www.blm.gov/region/dillon-fo" hreflang="en">Dillon FO</a></div>
               </div>
       </div>
 
@@ -200,10 +272,260 @@ date: 2024-07-15, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -teaser-image">
-    <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/49469/edit" hreflang="en">Cheat grass</a></div>
-          </div> 
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/partnerships" hreflang="en">Partnerships</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-07-17T12:00:00Z">Wed, 07/17/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/montanadakotas-state-office" hreflang="en">Montana/Dakotas State Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/49507/edit" hreflang="en">MT/DKs DFO Partners 20240717</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/riparian" hreflang="en">Riparian</a></div>
+              <div><a href="https://www.blm.gov/tag/watershed" hreflang="en">Watershed</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+              </div>
+      </div> 
+
+<https://www.blm.gov/blog/2024-07-16/ute-mountain-ute-youth-and-elders-spend-day-canyons-ancients>
+
+---
+
+## Unleashing the Science - BIL funds benefit wildlife habitat on BLM lands in northwest Nevada
+
+date: 2024-07-15, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Ripple Effect: Dillon Field Office Partners Help Riparian Areas Thrive</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:11px">Riparian areas in the BLM Dillon Field Office area are thriving thanks in part to partnerships with local non-profit organizations.</p>
+
+<p>The Southwest Montana Sagebrush Partnership (SMSP) and the Youth Employment Program (YEP) have been hard at work this summer installing Beaver Dam Analogs (BDAs) on BLM-administered lands in southwestern Montana.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="ea4c22d8-e6ef-4ef4-8d48-3784ad950861" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/Dillon%20FO%20Partners%203%20BDA.JPG?itok=AqNUUCAq" width="640" height="427" alt="A row of short posts stands in a creek bed, surrounded by green grass and shrubs" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>A completed Beaver Dam Analog (BDA) on BLM-administered lands on Little Sage Creek in southwestern Montana. BLM photo</figcaption>
+</figure>
+
+
+<p>BDAs are handmade structures that mimic beaver dams. They hold back water and cause it to spread across the landscape. This process creates larger wetland areas which in turn increases willows and other riparian area plant species.</p>
+
+<p>Riparian areas are critically important for diverse wildlife habitat and forage. By expanding riparian areas and holding more water on the landscape, these riparian areas continue to thrive and help the BLM fulfill its multiple use mission.</p>
+
+<p>So far this summer, SMSP and YEP have maintained close to 70 BDA structures and built 60 new ones. YEP crews are comprised of mostly high school-aged youth and some college-aged employees. The youthful enthusiasm of the crews makes for a very fun and productive environment. They are very important to the Dillon Field Office and get a lot of work accomplished on BLM and adjacent lands.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="2e78a6dc-2203-46de-a114-e337f0c32ebe" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/Dillon%20FO%20Partners%202.JPG?itok=IAAFxRRJ" width="640" height="427" alt="Group of people look at analog dam in the creek, surrounded by green grass and shrubs" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Crews from the Youth Empowerment Program install Beaver Dam Analogs on BLM-administered lands on Little Sage Creek in southwestern Montana. BLM photo</figcaption>
+</figure>
+
+
+<p>These projects are partially funded through Inflation Reduction Act (IRA) funds. IRA funding is hitting the ground locally and is helping to complete important conservation projects as well as providing the next generation of public land users and managers with a great jump start in public land awareness.</p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/western-montana-do" hreflang="en">Western Montana DO</a></div>
+          <div><a href="https://www.blm.gov/region/dillon-fo" hreflang="en">Dillon FO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/partnerships" hreflang="en">Partnerships</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-07-17T12:00:00Z">Wed, 07/17/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/montanadakotas-state-office" hreflang="en">Montana/Dakotas State Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/49507/edit" hreflang="en">MT/DKs DFO Partners 20240717</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/riparian" hreflang="en">Riparian</a></div>
+              <div><a href="https://www.blm.gov/tag/watershed" hreflang="en">Watershed</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+              </div>
+      </div> 
 
 <https://www.blm.gov/blog/2024-07-15/bil-funds-benefit-wildlife-habitat-blm-lands-northwest-nevada>
 

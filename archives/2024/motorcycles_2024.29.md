@@ -1,11 +1,121 @@
 ---
 title: motorcycles 2024.29
-updated: 2024-07-16 14:33:26
+updated: 2024-07-17 08:39:54
 ---
 
 # motorcycles 2024.29
 
-(date: 2024-07-16 14:33:26)
+(date: 2024-07-17 08:39:54)
+
+---
+
+## A Pro Mountain Biker Tried To Ride a MotoGP Bike, Asked 'How Hard Can It Be?'
+
+date: 2024-07-17, from: Ride Apart, Electric Motorcycle News
+
+You can't just hop on. 
+
+<https://www.rideapart.com/news/726853/mountain-biker-rides-motogp-bike/>
+
+---
+
+## Norton Motorcycles Is Back, Will Launch Six New Bikes in the Next Three Years
+
+date: 2024-07-17, from: Ride Apart, Electric Motorcycle News
+
+TVS Motor has some really big plans for the iconic British brand.  
+
+<https://www.rideapart.com/news/726707/norton-motorcycles-6-new-models-3-years/>
+
+---
+
+## It’s Official, New York State Mandates Moped Registration
+
+date: 2024-07-17, from: Ride Apart, Electric Motorcycle News
+
+Mopeds aside, new regulations surrounding e-bike and e-scooter safety have also been rolled out.  
+
+<https://www.rideapart.com/news/726708/new-york-state-moped-registration/>
+
+---
+
+## Good News, The DJI Ban Isn't Included in the US Senate's Latest Plans
+
+date: 2024-07-17, from: Ride Apart, Electric Motorcycle News
+
+Drone fans can breathe a little easier ... but the danger isn't over yet. 
+
+<https://www.rideapart.com/news/726854/senate-ndaa-no-dji-ban/>
+
+---
+
+## I Want This Porsche Electric Mountain Bike, and So Will You
+
+date: 2024-07-17, from: Ride Apart, Electric Motorcycle News
+
+It's a collab with eBike specialist Rotwild and comes in all your favorite Porsche colors.  
+
+<https://www.rideapart.com/news/726840/porsche-ebike-cross-performance-exc-specs-price/>
+
+---
+
+## Build Moto Is Forging The Future Of Motorcycles Mechanics, Harley Becomes a Sponsor
+
+date: 2024-07-17, from: Ride Apart, Electric Motorcycle News
+
+Did you build motorcycles with expert help in high school? Do you want to?  
+
+<https://www.rideapart.com/news/726842/build-moto-milwaukee-harley-2025/>
+
+---
+
+## The Ukrainians Built This Sick Fast-Attack UTV, Has a Rocket Launcher
+
+date: 2024-07-17, from: Ride Apart, Electric Motorcycle News
+
+Witness me! 
+
+<https://www.rideapart.com/news/726832/ukraine-utv-fast-attack-dpv-rocket-launcher-anti-tank/>
+
+---
+
+## AI Is Being Used To Appraise Used Motorcycles, But Should It?
+
+date: 2024-07-17, from: Ride Apart, Electric Motorcycle News
+
+It’s said to cut assessment time down from one hour to just five minutes.  
+
+<https://www.rideapart.com/news/726709/ai-used-assess-value-repossessed-motorcycles/>
+
+---
+
+## 2024 Harley-Davidson Low Rider ST
+
+date: 2024-07-17, from: Cycle World News
+
+Based on the Harley-Davidson Low Rider S, the ST delves deeper into the West Coast look and becomes more versatile with a fairing and removable bags. 
+
+<https://www.cycleworld.com/harley-davidson/low-rider-st/>
+
+---
+
+## 2024 Indian Challenger
+
+date: 2024-07-16, from: Cycle World News
+
+Indian’s Challenger bagger brings excellent handling, touring amenities, modern safety features, and a healthy dose of power to the V-twin touring category. 
+
+<https://www.cycleworld.com/indian/challenger/>
+
+---
+
+## 2024 Harley-Davidson Low Rider S
+
+date: 2024-07-16, from: Cycle World News
+
+Harley’s latest interpretation of the iconic Low Rider is a hot-rodded softail with a 117ci engine and West Coast vibes. 
+
+<https://www.cycleworld.com/harley-davidson/low-rider-s/>
 
 ---
 
@@ -126,16 +236,6 @@ date: 2024-07-15, from: Kickin the Tires blog
 By Andrew Kaplan, Staff Photographer LONG POND, Pa. – Cole Custer and Ryan Blaney took the wins in the NASCAR Xfinity Series Explore the Pocono Mountains 225 and NASCAR Cup Series&#8230;  
 
 <https://kickinthetires.net/nascar/gallery-nascar-cup-xfinity-at-pocono-raceway/>
-
----
-
-## 2024 Indian Challenger
-
-date: 2024-07-15, from: Cycle World News
-
-Indian’s Challenger bagger brings excellent handling, touring amenities, modern safety features, and a healthy dose of power to the V-twin touring category. 
-
-<https://www.cycleworld.com/indian/challenger/>
 
 ---
 

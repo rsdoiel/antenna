@@ -1,21 +1,111 @@
 ---
 title: games 2024.29
-updated: 2024-07-16 14:33:24
+updated: 2024-07-17 08:39:52
 ---
 
 # games 2024.29
 
-(date: 2024-07-16 14:33:24)
+(date: 2024-07-17 08:39:52)
 
 ---
 
-## The best Amazon Prime Day board game deals under $50
+## No Man’s Sky’s newest update adds new physics and a bug-stomping Expedition
 
-date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
+date: 2024-07-17, updated: 2024-07-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24200456/no-mans-sky-worlds-part-1-tech-overhaul-weather>
+
+---
+
+## The best Amazon Prime Day board game deals
+
+date: 2024-07-17, updated: 2024-07-17, from: Polygon Website
 
  
 
 <https://www.polygon.com/amazon-prime-day/24191421/best-board-game-deals>
+
+---
+
+## Microsoft just gave the Xbox controller a huge ass
+
+date: 2024-07-17, updated: 2024-07-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24200443/xbox-deadpool-wolverine-wireless-controller-giveaway-ass>
+
+---
+
+## How to Party Play and earn rewards in Pokémon Go
+
+date: 2024-07-17, updated: 2024-07-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/23918919/party-play-party-power-damage-co-op-multiplayer-bonus>
+
+---
+
+## My Favorite Anime: Logic’s journey from Cowboy Bebop to Lupin the Third
+
+date: 2024-07-17, updated: 2024-07-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/anime/24196703/my-favorite-anime-logic-cowboy-bebop-lupin-the-third>
+
+---
+
+## The best Magic: The Gathering deals of Amazon Prime Day 2024
+
+date: 2024-07-17, updated: 2024-07-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering>
+
+---
+
+## The best Dungeons & Dragons deals of Amazon Prime Day
+
+date: 2024-07-17, updated: 2024-07-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/24199887/best-dnd-deals-dungeons-dragons>
+
+---
+
+## The best gaming deals of Amazon Prime Day 2024
+
+date: 2024-07-17, updated: 2024-07-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games>
+
+---
+
+## Capcom’s oddest game in ages hits Game Pass this week
+
+date: 2024-07-17, updated: 2024-07-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24200391/game-pass-july-2024-free-xbox-games-kunitsu-gami-flintlock-dungeons-of-hinterberg>
+
+---
+
+## The best order to watch all of Star Wars, based on your needs
+
+date: 2024-07-17, updated: 2024-07-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga>
 
 ---
 
@@ -26,26 +116,6 @@ date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
  
 
 <https://www.polygon.com/amazon-prime-day/24199715/best-deals-lego-sets>
-
----
-
-## The best gaming deals of Amazon Prime Day 2024
-
-date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
-
- 
-
-<https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games>
-
----
-
-## The best Magic: The Gathering deals of Amazon Prime Day 2024
-
-date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
-
- 
-
-<https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering>
 
 ---
 
@@ -96,16 +166,6 @@ date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
  
 
 <https://www.polygon.com/24199903/apex-legends-players-battle-pass-uproar-controversy-steam-review-bomb>
-
----
-
-## The best Dungeons & Dragons deals of Amazon Prime Day
-
-date: 2024-07-16, updated: 2024-07-16, from: Polygon Website
-
- 
-
-<https://www.polygon.com/amazon-prime-day/24199887/best-dnd-deals-dungeons-dragons>
 
 ---
 

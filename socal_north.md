@@ -1,11 +1,31 @@
 ---
 title: socal north 2024.29
-updated: 2024-07-16 14:33:19
+updated: 2024-07-17 08:39:47
 ---
 
 # socal north 2024.29
 
-(date: 2024-07-16 14:33:19)
+(date: 2024-07-17 08:39:47)
+
+---
+
+## These six people wanted a career change. Community colleges offered a path
+
+date: 2024-07-17, updated: 2024-07-17, from: The LAist
+
+Changing your career can feel like a leap of faith, but there are questions you can ask yourself to help weigh your decision. 
+
+<https://laist.com/news/education/community-college-mid-career-change-zine>
+
+---
+
+## LA mayor vetoes police discipline ballot measure
+
+date: 2024-07-16, updated: 2024-07-16, from: The LAist
+
+Mayor Karen Bass told the City Council the proposed initiative "risks creating bureaucratic confusion" in the police department. 
+
+<https://laist.com/news/politics/la-mayor-vetoes-police-discipline-ballot-measure>
 
 ---
 
