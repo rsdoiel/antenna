@@ -1,11 +1,136 @@
 ---
 title: central coast 2024.29
-updated: 2024-07-17 08:39:49
+updated: 2024-07-18 07:46:41
 ---
 
 # central coast 2024.29
 
-(date: 2024-07-17 08:39:49)
+(date: 2024-07-18 07:46:41)
+
+---
+
+## Ellwood Mesa Flyby
+
+date: 2024-07-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062224-POD-Frank-DiMarco.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Ellwood Mesa flyby." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062224-POD-Frank-DiMarco.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062224-POD-Frank-DiMarco.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062224-POD-Frank-DiMarco.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062224-POD-Frank-DiMarco.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062224-POD-Frank-DiMarco.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062224-POD-Frank-DiMarco.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062224-POD-Frank-DiMarco.jpg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062224-POD-Frank-DiMarco.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062224-POD-Frank-DiMarco.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062224-POD-Frank-DiMarco.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062224-POD-Frank-DiMarco.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062224-POD-Frank-DiMarco.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062224-POD-Frank-DiMarco.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/ellwood-mesa-flyby/">Ellwood Mesa Flyby</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ellwood-mesa-flyby/>
+
+---
+
+## Goleta Valley South Little League to Host Annual Golf Classic & Dinner Fundraiser
+
+date: 2024-07-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Get ready to swing into action at the 2nd Annual GVSLL Golf Classic &#38; Dinner Fundraiser! Join us on July 26th at Glen Annie Golf Course for a day filled [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-valley-south-little-league-to-host-annual-golf-classic-dinner-fundraiser/">Goleta Valley South Little League to Host Annual Golf Classic &amp; Dinner Fundraiser</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-valley-south-little-league-to-host-annual-golf-classic-dinner-fundraiser/>
+
+---
+
+## Old Spanish Days Celebrates 100th Year, But Fiesta Will Go On Without Iconic Carnival
+
+date: 2024-07-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Fiesta-Carnival-File.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Old Spanish Days has canceled the carnival during Fiesta this year." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Fiesta-Carnival-File.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Fiesta-Carnival-File.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Fiesta-Carnival-File.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Fiesta-Carnival-File.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Fiesta-Carnival-File.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Fiesta-Carnival-File.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Fiesta-Carnival-File.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Fiesta-Carnival-File.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Fiesta-Carnival-File.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Fiesta-Carnival-File.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Viva la Fiesta! Unless you&#8217;re one of the thousands of people who attended its annual carnival. One of Fiesta&#8217;s iconic traditions has been canceled this year. Old Spanish Days, the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/old-spanish-days-celebrates-100th-year-but-show-will-go-on-without-iconic-family-carnival/">Old Spanish Days Celebrates 100th Year, But Fiesta Will Go On Without Iconic Carnival</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/old-spanish-days-celebrates-100th-year-but-show-will-go-on-without-iconic-family-carnival/>
+
+---
+
+## Study Session Set as Richards Ranch Pursues 3 Paths Toward Approval for Orcutt Development
+
+date: 2024-07-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070524-Richards-Ranch1-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara County Fourth District Supervisor Bob Nelson." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070524-Richards-Ranch1-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070524-Richards-Ranch1-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070524-Richards-Ranch1-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070524-Richards-Ranch1-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070524-Richards-Ranch1-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070524-Richards-Ranch1-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070524-Richards-Ranch1-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070524-Richards-Ranch1-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070524-Richards-Ranch1-js.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070524-Richards-Ranch1-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A proposed development that has raised the ire of Orcutt residents continues to push forward on paths deemed less desirable but likely leading toward the finish line. Michael Stoltey of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/study-session-set-as-richards-ranch-pursues-3-paths-toward-approval-for-orcutt-development/">Study Session Set as Richards Ranch Pursues 3 Paths Toward Approval for Orcutt Development</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/study-session-set-as-richards-ranch-pursues-3-paths-toward-approval-for-orcutt-development/>
+
+---
+
+## Lake Fire Containment Hits 42% as Hot Weather Returns to Forecast
+
+date: 2024-07-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="770" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-nws-excessive-heat-watch-map.jpg?fit=1024%2C770&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="An excessive heat watch for some inland areas of Santa Barbara County starts Friday and lasts through next Wednesday, the National Weather Service said." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-nws-excessive-heat-watch-map.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-nws-excessive-heat-watch-map.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-nws-excessive-heat-watch-map.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-nws-excessive-heat-watch-map.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-nws-excessive-heat-watch-map.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-nws-excessive-heat-watch-map.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-nws-excessive-heat-watch-map.jpg?resize=706%2C531&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-nws-excessive-heat-watch-map.jpg?fit=1024%2C770&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Crews continue to successfully work on surrounding the Lake Fire burning north of the Santa Ynez Valley as&#160;the weather forecast for the coming days calls for “dangerously hot conditions.”&#160; As [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lake-fire-containment-hits-42-as-hot-weather-returns-to-forecast/">Lake Fire Containment Hits 42% as Hot Weather Returns to Forecast</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/lake-fire-containment-hits-42-as-hot-weather-returns-to-forecast/>
+
+---
+
+## Accessorize for Fiesta With Handmade Flower Hair Adornments
+
+date: 2024-07-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Explore Ecology invites community members to “elevate your Fiesta look with a touch of floral finesse” during a Paper Flower Hair Accessories Workshop, 6-8 p.m. Friday, July 26, at 302 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/accessorize-for-fiesta-with-handmade-flower-hair-adornments/">Accessorize for Fiesta With Handmade Flower Hair Adornments</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/accessorize-for-fiesta-with-handmade-flower-hair-adornments/>
+
+---
+
+## Martial Arts Sensei Tony Becerra Challenges Former Student Oscar Gutierrez for Council Seat
+
+date: 2024-07-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Tony-Becerra-1-JM-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Martial arts teacher and dojo master Tony Becerra has pulled papers to challenge incumbent Oscar Gutierrez for the District 3 seat on the Santa Barbara City Council." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Tony-Becerra-1-JM-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Tony-Becerra-1-JM-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Tony-Becerra-1-JM-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Tony-Becerra-1-JM-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Tony-Becerra-1-JM-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Tony-Becerra-1-JM-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Tony-Becerra-1-JM-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Tony-Becerra-1-JM-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Tony-Becerra-1-JM-2000.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-Tony-Becerra-1-JM-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The sensei is challenging the student. In a big shakeup to the Santa Barbara City Council contest, martial arts teacher and dojo master Tony Becerra has pulled papers to challenge [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/martial-arts-sensei-tony-becerra-challenges-former-student-oscar-gutierrez-for-council-seat/">Martial Arts Sensei Tony Becerra Challenges Former Student Oscar Gutierrez for Council Seat</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/martial-arts-sensei-tony-becerra-challenges-former-student-oscar-gutierrez-for-council-seat/>
+
+---
+
+## Santa Barbara Museum of Natural History Appoints 2 Team Members
+
+date: 2024-07-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara Museum of Natural History has added two professionals to its team: financial expert Brian Storr is the new chief financial officer; and Rosina Garcia, a leader in [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-museum-of-natural-history-appoints-2-team-members/">Santa Barbara Museum of Natural History Appoints 2 Team Members</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-museum-of-natural-history-appoints-2-team-members/>
+
+---
+
+## Plot Your Course to Understanding the Field of Geologic Map Reading
+
+date: 2024-07-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Solvang Library invites local adventurers to explore the world of geologic map reading at a free workshop, Adventures in Geology: Map Reading and the Story of the Dibblee Maps, on [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/plot-your-course-to-understanding-the-field-of-geologic-map-reading/">Plot Your Course to Understanding the Field of Geologic Map Reading</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/plot-your-course-to-understanding-the-field-of-geologic-map-reading/>
+
+---
+
+## State Rejects Santa Barbara Oil Pipeline Plan Omitting Shutoff Valves
+
+date: 2024-07-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-file-refugio-state-beach-oil-platform-surfers-seagulls-gm-2.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Surfers and seagulls spend the afternoon at Refugio State Beach, the site of the 2015 Refugio Oil Spill. One of the Santa Ynez Unit oil platforms is seen in the background." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-file-refugio-state-beach-oil-platform-surfers-seagulls-gm-2.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-file-refugio-state-beach-oil-platform-surfers-seagulls-gm-2.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-file-refugio-state-beach-oil-platform-surfers-seagulls-gm-2.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-file-refugio-state-beach-oil-platform-surfers-seagulls-gm-2.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-file-refugio-state-beach-oil-platform-surfers-seagulls-gm-2.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-file-refugio-state-beach-oil-platform-surfers-seagulls-gm-2.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-file-refugio-state-beach-oil-platform-surfers-seagulls-gm-2.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-file-refugio-state-beach-oil-platform-surfers-seagulls-gm-2.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-file-refugio-state-beach-oil-platform-surfers-seagulls-gm-2.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-file-refugio-state-beach-oil-platform-surfers-seagulls-gm-2.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-file-refugio-state-beach-oil-platform-surfers-seagulls-gm-2.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071724-file-refugio-state-beach-oil-platform-surfers-seagulls-gm-2.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A state oversight agency rejected a proposal to restart Santa Barbara County oil pipelines without installing shutoff valves. The Office of the State Fire Marshal issued a rejection letter to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/state-rejects-santa-barbara-oil-pipeline-plan-omitting-shutoff-valves/">State Rejects Santa Barbara Oil Pipeline Plan Omitting Shutoff Valves</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/state-rejects-santa-barbara-oil-pipeline-plan-omitting-shutoff-valves/>
 
 ---
 

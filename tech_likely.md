@@ -1,11 +1,442 @@
 ---
 title: tech likely 2024.29
-updated: 2024-07-17 08:39:50
+updated: 2024-07-18 07:46:42
 ---
 
 # tech likely 2024.29
 
-(date: 2024-07-17 08:39:50)
+(date: 2024-07-18 07:46:42)
+
+---
+
+##  The reintroduction of beavers in southwest England has resulted in a marked... 
+
+date: 2024-07-18, updated: 2024-07-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044963-the-reintroduction-of-bea>
+
+---
+
+## Unified kernel image
+
+date: 2024-07-18, from: OS News
+
+UKIs can run on UEFI systems and simplify the distribution of small kernel images. For example, they simplify network booting with iPXE. UKIs make rootfs and kernels composable, making it possible to derive a rootfs for multiple kernel versions with one file for each pair. A Unified Kernel Image (UKI) is a combination of a UEFI boot stub program, a Linux kernel image, an initramfs, and further resources in a single UEFI PE file (device tree, cpu µcode, splash screen, secure boot sig/key, &#8230;). This file can either be directly invoked by the UEFI firmware or through a boot loader. ↫ Hugues If you&#8217;re still a bit unfamiliar with unified kernel images, this post contains a ton of detailed practical information. Unified kernel images might become a staple for forward-looking Linux distributions, and I know for a fact that my distribution of choice, Fedora, has been working on it for a while now. The goal is to eventually simplify the boot process as a whole, and make better, more optimal use of the advanced capabilities UEFI gives us over the old, limited, 1980s BIOS model. Like I said a few posts ago, I really don&#8217;t want to be using traditional bootloaders anymore. UEFI is explicitly designed to just boot operating systems on its own, and modern PCs just don&#8217;t need bootloaders anymore. They&#8217;re points of failure users shouldn&#8217;t be dealing with anymore in 2024, and I&#8217;m glad to see the Linux world is seriously moving towards negating the need for their existence. 
+
+<https://www.osnews.com/story/140258/unified-kernel-image/>
+
+---
+
+## Super Nova makes PiSloth robot even smarter
+
+date: 2024-07-18, from: Raspberry Pi News (.com)
+
+<p>PiSloth is a super-cute Raspberry Pi-powered bionic robot kit. One maker took it a step further with the help of the Nova AI platform.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/super-nova-makes-pisloth-robot-even-smarter/">Super Nova makes PiSloth robot even smarter</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/super-nova-makes-pisloth-robot-even-smarter/>
+
+---
+
+## Inside an IBM/Motorola mainframe controller chip from 1981
+
+date: 2024-07-18, from: OS News
+
+In this article, I look inside a chip in the IBM 3274 Control Unit.1 But before I discuss the chip, I need to give some background on mainframes. ↫ Ken Shirriff Whenever we talk about mainframes, I am obligated to link to the story of an 18 year old buying a mainframe, while still living at his parents. One of the greatest presentations of all time. 
+
+<https://www.osnews.com/story/140256/inside-an-ibm-motorola-mainframe-controller-chip-from-1981/>
+
+---
+
+## July 2024 Transformer of the Month: Brooke Weborg
+
+date: 2024-07-18, from: NASA breaking news
+
+“She gets things done.”&#160;&#160;&#160; This is how colleagues describe Brooke Weborg, machine learning data scientist and engineer at NASA. Weborg was nominated as Digital Transformer of the Month for her work on the AI/ML (artificial intelligence/machine learning) consultation portal, the type of ambitious project that computer scientist Herb Schilling had seen fail in the past. [&#8230;] 
+
+<https://www.nasa.gov/general/july-2024-transformer-of-the-month-brooke-weborg/>
+
+---
+
+## Will AI Ever Have Common Sense?
+
+date: 2024-07-18, from: Quanta Magazine
+
+Common sense has been viewed as one of the hardest challenges in AI. That said, ChatGPT4 has acquired what some believe is an impressive sense of humanity. How is this possible? Listen to this week’s “The Joy of Why” with co-host Steven Strogatz.            <p>The post <a href="https://www.quantamagazine.org/will-ai-ever-have-common-sense-20240718/" target="_blank">Will AI Ever Have Common Sense?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/will-ai-ever-have-common-sense-20240718/>
+
+---
+
+## An Ancient Partnership: Co-Evolution of Earth Environments and Microbial Life
+
+date: 2024-07-18, from: NASA breaking news
+
+NASA-supported scientists have examined the long and intricately linked history of microbial life and the Earth’s environment. By reviewing the current state of knowledge across fields like microbiology, molecular biology, and geology, the study looks at how microorganisms have both shaped and been shaped by chemical properties of our planet’s oceans, land, and atmosphere. 
+
+<https://science.nasa.gov/science-research/planetary-science/astrobiology/an-ancient-partnership-co-evolution-of-earth-environments-and-microbial-lifean-ancient-partnership/>
+
+---
+
+## Curating Colonization: On Sharing Visuals of the Dead
+
+date: 2024-07-18, from: Logic Magazine
+
+
+                <p>“Using images to highlight the gruesome and merciless power of an oppressor does not necessarily generate sympathy for the oppressed; it can be a tool to reinforce the ruling order.”</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/curating-colonization-on-sharing-visuals-of-the-dead>
+
+---
+
+## Four key learnings from teaching Experience AI lessons
+
+date: 2024-07-18, from: Raspberry Pi (.org)
+
+<p>Developed by us and Google DeepMind, Experience AI provides teachers with free resources to help them confidently deliver lessons that inspire and educate young people about artificial intelligence (AI) and the role it could play in their lives. Tracy Mayhead is a computer science teacher at Arthur Mellows Village College in Cambridgeshire. She recently taught&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/four-key-learnings-from-teaching-experience-ai-lessons/">Four key learnings from teaching Experience AI lessons</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/four-key-learnings-from-teaching-experience-ai-lessons/>
+
+---
+
+## Thunderbird is go: 128 now out with revamped 'Nebula' UI
+
+date: 2024-07-18, updated: 2024-07-18, from: Liam Proven's articles at the Register
+
+<h4>Give it a try, if only in case you lose your webmail account</h4>
+      <p>Following the new ESR version of Firefox, upon which it is based, the latest Thunderbird is out too – with a fresh new look.  </p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/18/thunderbird_128_nebula/>
+
+---
+
+## Should you give up social media?
+
+date: 2024-07-18, from: Manu - I write blog
+
+
+                <p>In a <a href="https://kevquirk.com/blog/could-you-give-up-social-media">recent post</a>, Kev used the magic words to summon me and make me write something on this site: he talked about social media, mentioned me, and posed a question. Rather than focusing on the could/should/would why don’t we focus on the actual product and figure out what is that we’re getting out of social media? And I’m saying “we” even though I’m not really on any traditional social media platform. But more on that later.</p>
+<p>The quality and usefulness of a social platform are a by-product of three factors: my inputs, other people’s inputs, and the platform creator’s intentions. The first two are quite obvious since social media is the product of what people decide to put into it. The third is what really shapes a platform. Not all platforms are created equal and as a result of that the mixture of inputs and outputs can differ widely from one digital place to another. Fame and money are terrible incentives when it comes to digital spaces because people are willing to do pretty much everything to get a following if that can help them earn money. So every time a platform gets big enough you just know things are doomed to turn to shit. That’s an inescapable reality of social platforms. So if you’re looking for a decent social media space you probably want to stay on one that’s designed to either stay small in size or one that’s designed to stay small in scope.</p>
+<p>You might be tempted to think that a Mastodon server is a good example of the first type but you’d be wrong. The decentralised social media experiments—Mastodon, Threads, Bluesky—are not designed to stay small. Quite the contrary. They can stay small but you have to fight against the main concept behind those platforms. In the past, I argued that <a href="https://manuelmoreale.com/small-communities-are-the-best-communities">small communities are the best type of communities</a> and so one potential solution to this social media conundrum is to find—or create!—a closed-door, small community that wants to stay small on purpose in order to keep it sane.</p>
+<p>Another potential solution is to not join a kitchen-sink social platform where (almost) everything goes and instead join one that is specifically designed to cater for a specific audience. <a href="https://literal.club">Literal</a> is a good example. It’s a social platform but the focus is books so everything that’s happening there is related to books and book reading. You won’t find people sharing memes or random links or anything like that but if you care about books you’ll find plenty of those.</p>
+<p>Another good example is <a href="https://read.cv/">read.cv</a> and its sibling, <a href="https://posts.cv/">posts.cv</a>. The first one gives out very early Dribbble vibes but with a different overall aesthetic and the second, since it’s tied to the first one, is a Twitter clone where everyone’s a designer posting stuff about design or photography. I have a profile on both so technically I am on social media but my activity on there is non-existent. I update the <a href="https://read.cv/manuelmoreale">read.cv profile</a> periodically since it’s my online CV and I never posted anything on post.cv even though every three or four weeks I scroll through it for 5 minutes to see what people are creating. And it’s an incredibly positive experience. No flame wars, no memes, and nobody is trying to crypto scam anyone. Just a chill place that’s mainly focused on design (and cats).</p>
+<p>The main issue with social media is that we want them to be everything. We want them to be a place for casual interactions, for discovery, for news, for serious discourse. And that’s a mistake. Because the moment you put a stupid amount of people in one room and you let them do whatever they want the only reasonable outcome you can expect is chaos. Sure, you might get some positive results out of it but you’ll also likely get someone shitting in a corner and someone trying to fuck the power outlet. Because that’s the world we live in. Now sprinkle some nonsense AI on top of it all and Bob’s your uncle.</p>
+<p>So, to circle back to the original question you asked Kev, I don’t think it’s a matter of wanting to give up social media entirely. You should be asking if you’re willing to give up this specific flavour of social media, you should be asking what parts of this type of social media you’re treasuring and then figure out if there are saner ways to get those same things elsewhere.</p>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/zbUJZQFqIkvoJP3V>
+
+---
+
+## The cost of driving a gasoline vs. an electric car across US states
+
+date: 2024-07-18, from: Hannah Richie at Substack
+
+Does it affect the popularity of electric cars? 
+
+<https://www.sustainabilitybynumbers.com/p/cost-gasoline-electric-us-states>
+
+---
+
+##  An Online Database of Marimekko Patterns 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/an-online-database-of-marimekko-patterns>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-17, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=Z0GFRcFm-aY">It's the End of the World as We Know It (And I Feel Fine)</a>.
+ 
+
+<http://scripting.com/2024/07/17.html#a220627>
+
+---
+
+## Nana Kitty played Shoreline
+
+date: 2024-07-17, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/07/17/grandmaKittyPlaysShorelineWithTheDead.png"></center>Wordle Kitty's great grandma plays with the Dead at Shoreline in the 80s. </div></p>
+ 
+
+<http://scripting.com/2024/07/17/220302.html?title=nanaKittyPlayedShoreline>
+
+---
+
+##  A Guide to Miyazaki&#8217;s Weird Little Guys: warawara, susuwatari (soot sprites), kodama,... 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044962-a-guide-to-miyazakis-weir>
+
+---
+
+##  A useful tool for students & researchers (&#8220;educational purposes only&#8221;): Bypass Paywalls... 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044960-a-useful-tool-for-student>
+
+---
+
+## The Marshall Star for July 17, 2024
+
+date: 2024-07-17, from: NASA breaking news
+
+NASA Ships Moon Rocket Stage Ahead of First Crewed Artemis Flight NASA rolled out the SLS (Space Launch System) rocket’s core stage for the&#160;Artemis II&#160;test flight from its Michoud Assembly Facility on Tuesday for shipment to the agency’s Kennedy Space Center. The rollout is key progress on the path to NASA’s first crewed mission to [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-17-2024/>
+
+---
+
+##  Lessons from the recent French elections. &#8220;You have to vote! You have... 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044958-lessons-from-the-recent-f>
+
+---
+
+## NASA Ends VIPER Project, Continues Moon Exploration
+
+date: 2024-07-17, from: NASA breaking news
+
+Following a comprehensive internal review, NASA announced Wednesday its intent to discontinue development of its VIPER (Volatiles Investigating Polar Exploration Rover) project. NASA stated cost increases, delays to the launch date, and the risks of future cost growth as the reasons to stand down on the mission. The rover was originally planned to launch in [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-ends-viper-project-continues-moon-exploration/>
+
+---
+
+##  Project 2025: The Minority Rule by Extremists 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/project-2025-the-minority-rule-by-extremists>
+
+---
+
+## XCTest in Xcode 16
+
+date: 2024-07-17, from: Michael Tsai
+
+Jesse Squires: The first is waitForNonExistence(withTimeout:), which provides the inverse of the existing waitForExistence(timeout:) API. Finally! This is such a welcome change. Often in UI testing it is more semantic to wait for an element to disappear rather than appear &#8212; for example, waiting for a loading indicator or waiting for a UIContentUnavailableView to disappear. [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/17/xctest-in-xcode-16/>
+
+---
+
+## Swift Testing in Xcode 16
+
+date: 2024-07-17, from: Michael Tsai
+
+Stuart Montgomery (September 2023): I&#8217;m excited to announce a new open source project exploring improvements to the testing experience for Swift. John McCall: I&#8217;m pleased to announce that the Swift project has accepted a vision document for A New Direction for Testing in Swift. The vision: It should gracefully coexist with projects that use XCTest [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/17/swift-testing-in-xcode-16/>
+
+---
+
+## Chacha20 on coroutines
+
+date: 2024-07-17, from: Tilde.news
+
+<p><a href="https://tilde.news/s/fujbym/chacha20_on_coroutines">Comments</a></p> 
+
+<https://git.disroot.org/tankf33der/chacha20-coroutines>
+
+---
+
+## Xcode 16 Announced
+
+date: 2024-07-17, from: Michael Tsai
+
+Apple: Discover the latest productivity and performance improvements in Xcode 16. Learn about enhancements to code completion, diagnostics, and Xcode Previews. Find out more about updates in builds and explore improvements in debugging and Instruments. See also: Download, Release Notes, Updates. &#8226; &#8226; &#8226; Adam Bell: The new Xcode 16 AI autocomplete tech is actually [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/17/xcode-16-announced/>
+
+---
+
+## Mac Marketshare in Q2 2024
+
+date: 2024-07-17, from: Michael Tsai
+
+William Gallagher: Overall, the global PC market grew by 3.4% year on year in Q2 2024, for a total of 62.8 million shipped. Of those, laptops represented 50 million, which by itself is a 4% rise YoY. Global desktop computer shipments rose by 1% to reach 12.8 million. Across both laptops and desktops, Apple came [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/17/mac-marketshare-in-q2-2024/>
+
+---
+
+##  The best Prime Day deal is Apple&#8217;s AirPods Pro (2nd gen) on... 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044956-the-best-prime-day-deal>
+
+---
+
+## Letter from the Editor on Medicine and the Body in Tech
+
+date: 2024-07-17, from: Logic Magazine
+
+
+                <p>Editorial Note from Editor Khadijah Abdurrahman for Logic(s) Issue 21</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/editorial-note-on-medicine-and-the-body-in-tech>
+
+---
+
+## You’re Always on That Phone: How Being Online Sustained Sudan’s Youth Revolution
+
+date: 2024-07-17, from: Logic Magazine
+
+
+                <p>The sit-in became a physical embodiment of the safe spaces we
+had only imagined could exist online. We congregated freely and spoke without bounds. We cared for each other in immediate ways.</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/youre-always-on-that-phone-how-being-online-sustained-sudans-youth>
+
+---
+
+## Whispers of Vanished Childhood
+
+date: 2024-07-17, from: Logic Magazine
+
+
+                <p>“The deserted street felt like a canvas wiped clean, with only my mother and I left as the remaining strokes of a forsaken painting.”</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/whispers-of-vanished-childhood>
+
+---
+
+##  Immunotherapy Is Changing Cancer Treatment Forever. &#8220;Immunotherapy&#8230;has produced breakthroughs for previously untreatable... 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044959-immunotherapy-is-changing>
+
+---
+
+**@Ayjay blog** (date: 2024-07-17, from: Ayjay blog)
+
+Mark Bristol&#8217;s storyboards for Terrence Malick&#8217;s The Thin Red Line. 
+
+<https://blog.ayjay.org/46548-2/>
+
+---
+
+## Experience the Launch of NASA’s SpaceX Crew-9 Mission
+
+date: 2024-07-17, from: NASA breaking news
+
+Digital content creators are invited to register to attend the launch of the ninth SpaceX Dragon spacecraft and Falcon 9 rocket that will carry astronauts to the International Space Station for a science expedition mission. This mission is part of NASA’s Commercial Crew Program.&#160; Launch of NASA’s SpaceX Crew-9 mission is targeted for no earlier [&#8230;] 
+
+<https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-9-mission/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-17, from: Dave Winer's Scripting News)
+
+The Repubs can win by throwing the election into the House. They can probably get it by the courts in enough places, just a couple of swing states, and they win even if they lose by normal vote-counting methods. The whole bit about Biden's age is meant to distract us from the fact it probably doesn't matter how old the Democratic candidate is. 
+
+<http://scripting.com/2024/07/17.html#a172051>
+
+---
+
+##  On Politics and Poetry 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/on-politics-and-poetry>
+
+---
+
+## NASA, SpaceX Invite Media to Watch Crew-9 Launch to Space Station
+
+date: 2024-07-17, from: NASA breaking news
+
+Media accreditation now is open for the launch of NASA’s ninth rotational mission of a SpaceX Falcon 9 rocket and Dragon spacecraft that will carry astronauts to the International Space Station for a science expedition. This mission is part of NASA’s Commercial Crew Program. Launch of NASA’s SpaceX Crew-9 mission is targeted for no earlier [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-9-launch-to-space-station/>
+
+---
+
+## The Next Full Moon is the Buck or Thunder Moon
+
+date: 2024-07-17, from: NASA breaking news
+
+The Next Full Moon is the Buck or Thunder Moon; the Hay or Mead Moon; Guru Purnima; Asalha Puja (aka Dharma Day or Esala Poya); and the start of Vassa.  The next full Moon will be Sunday morning, July 21, 2024, appearing opposite the Sun (in Earth-based longitude) at 6:17 AM EDT. For the International […] 
+
+<https://science.nasa.gov/uncategorized/the-next-full-moon-is-the-buck-or-thunder-moon/>
+
+---
+
+## Hello from 2024
+
+date: 2024-07-17, from: Dave Winer's Scripting News
+
+<p>A <a href="http://scripting.com/2024/07/17/helloFrom2024.m4a">podcast</a> about listening to the podcasts from 2004. </p>
+<p>This is a short episode about what I learned, and what's coming up.</p>
+<p>Humbling experience. </p>
+ 
+
+<http://scripting.com/2024/07/17/155053.html?title=helloFrom2024>
+
+---
+
+## Nobody Asked for Evil Malört
+
+date: 2024-07-17, updated: 2024-07-17, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/07/17/nobody-asked-for-evil-malort/>
+
+---
+
+## Science Activation’s PLACES Team Facilitates Second Professional Learning Institute
+
+date: 2024-07-17, from: NASA breaking news
+
+The NASA Science Activation Program’s Place-Based Learning to Advance Connections, Education, and Stewardship (PLACES) team successfully led their second Professional Learning (PL) Summer Institute (SI) at Northern Arizona University (NAU) in Flagstaff, Arizona from June 11-13, 2024. The team led a group of 13 educators through a variety of powerful place-based data-rich (PBDR) experiences across […] 
+
+<https://science.nasa.gov/learning-resources/science-activation/places-team-facilitates-second-professional-learning-institute/>
 
 ---
 
@@ -39,6 +470,16 @@ date: 2024-07-17, from: NASA breaking news
 NASA has been selected by the International Astronautical Federation to receive its 2024 “3G” Diversity Award, which recognizes organizations for their contributions to fostering geographic, generational, and gender diversity in the space sector. NASA’s Indigenous Community-Based Education (CBE) Program is a consortium of partnerships between NASA and numerous, diverse Indigenous communities which co-create unique educational [&#8230;] 
 
 <https://www.nasa.gov/general/nasa-stem-program-for-indigenous-communities-honored-for-excellence/>
+
+---
+
+## NASA STEM Program for Indigenous Communities Honored for Excellence
+
+date: 2024-07-17, from: NASA breaking news
+
+NASA has been selected by the International Astronautical Federation to receive its 2024 “3G” Diversity Award, which recognizes organizations for their contributions to fostering geographic, generational, and gender diversity in the space sector. NASA’s Indigenous Community-Based Education (CBE) Program is a consortium of partnerships between NASA and numerous, diverse Indigenous communities which co-create unique educational [&#8230;] 
+
+<https://www.nasa.gov/learning-resources/nasa-stem-program-for-indigenous-communities-honored-for-excellence/>
 
 ---
 
@@ -86,7 +527,7 @@ In the Oxford English Dictionary, definition II.12.a. of “character” is: “
 
 date: 2024-07-17, updated: 2024-07-17, from: Liam Proven's articles at the Register
 
-<h4>The nonprofit behind the desktop environment of the world's most profitable Linux company will be looking for money again</h4>
+<h4>As nonprofit behind the desktop environment of the world's most profitable Linux distro maker scours around for cash</h4>
       <p>The executive director of the GNOME Foundation has quit after less than a year in the role.</p> 
 
 <https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/17/gnome_boss_steps_down/>
@@ -255,16 +696,13 @@ On Aug. 24, 2023, more than three decades after the first confirmation of planet
 
 ---
 
-## Whispers of Vanished Childhood
+## The ROG Ally and Steam Deck are different products
 
-date: 2024-07-17, from: Logic Magazine
+date: 2024-07-17, from: Ze Iaso's blog
 
+Specs don't define the experience 
 
-                <p>“The deserted street felt like a canvas wiped clean, with only my mother and I left as the remaining strokes of a forsaken painting.”</p>
-
-             
-
-<https://logicmag.io/issue-21-medicine-and-the-body/whispers-of-vanished-childhood>
+<https://xeiaso.net/notes/2024/rog-ally/>
 
 ---
 
@@ -990,20 +1428,6 @@ date: 2024-07-15, from: NASA breaking news
 The stars above and on Earth aligned as an inspirational message and lyrics from the song “The Rain (Supa Dupa Fly)” by hip-hop artist Missy Elliott were beamed to Venus via NASA’s DSN (Deep Space Network). The agency’s Jet Propulsion Laboratory in Southern California sent the transmission at 10:05 a.m. PDT on Friday, July 12. [&#8230;] 
 
 <https://www.nasa.gov/general/nasa-transmits-hip-hop-song-to-deep-space-for-first-time/>
-
----
-
-## You’re Always on That Phone: How Being Online Sustained Sudan’s Youth Revolution
-
-date: 2024-07-15, from: Logic Magazine
-
-
-                <p>The sit-in became a physical embodiment of the safe spaces we
-had only imagined could exist online. We congregated freely and spoke without bounds. We cared for each other in immediate ways.</p>
-
-             
-
-<https://logicmag.io/issue-21-medicine-and-the-body/youre-always-on-that-phone-how-being-online-sustained-sudans-youth>
 
 ---
 

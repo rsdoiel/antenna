@@ -1,11 +1,50 @@
 ---
 title: writing 2024.29
-updated: 2024-07-17 08:39:51
+updated: 2024-07-18 07:46:43
 ---
 
 # writing 2024.29
 
-(date: 2024-07-17 08:39:51)
+(date: 2024-07-18 07:46:43)
+
+---
+
+## Seeking Authors & Books to Feature in Our Book Talk Series with Internet Archive
+
+date: 2024-07-18, from: Author's Union blog
+
+Authors and Publishers: We are looking for books (both new &#38; classic titles) to feature in our popular book talk series. Starting in 2023, Authors Alliance and Internet Archive have partnered on a series of virtual book talks highlighting issues of importance to the library and information communities. Last year, more than 2,000 people attended [&#8230;] 
+
+<https://www.authorsalliance.org/2024/07/18/seeking-authors-books-to-feature-in-our-book-talk-series-with-internet-archive/>
+
+---
+
+## 2024 Wellman Award Winner
+
+date: 2024-07-17, from: Locus Magazine
+
+<p></p>
+<p>The North Carolina Speculative Fiction Foundation (NCSFF) has announced the winner for the 2024 Manly Wade Wellman Award. The award recognizes &#8220;outstanding achievement in science fiction and fantasy novels written by North Carolina authors.&#8221;</p>
+<div class="mynomorebulletlist">
+<ul>
+<li>WINNER: <strong>The Night Field</strong>, Donna Glee Williams (Jo Fletcher)</li>
+</ul>
+<ul>
+<li><strong>The Strange</strong>, Nathan Ballingrud (Saga)</li>
+<li><strong>A Harvest of Ash and Blood</strong>, D.J. Molles (Blackstone)</li>
+<li><strong>The Master of Samar</strong>, Melissa Scott (Candlemark &#38; Gleam)</li></ul></div> <a href="https://locusmag.com/2024/07/2024-wellman-award-winner/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/07/2024-wellman-award-winner/>
+
+---
+
+## 🍗🚙 Inciting Incident: Koo Koo Roo Edition
+
+date: 2024-07-17, from: Interesting, a blog on writing
+
+Who should you help? Can you help? 
+
+<https://inneresting.substack.com/p/inciting-incident-koo-koo-roo-edition>
 
 ---
 

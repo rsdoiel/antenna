@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.29
-updated: 2024-07-17 08:39:52
+updated: 2024-07-18 07:46:44
 ---
 
 # libraries 2024.29
 
-(date: 2024-07-17 08:39:52)
+(date: 2024-07-18 07:46:44)
+
+---
+
+## A Successful Start to a New Festival of Identifiers: PIDfest 2024
+
+date: 2024-07-18, from: Scholarly Kitchen
+
+<p>In this post by Todd Carpenter, Phill Jones, and Alice Meadows, you can read all about PIDfest, which brought together nearly 400 persistent identifier users and providers from around the world (in person in Prague, and virtually).</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/07/18/a-successful-start-to-a-new-festival-of-identifiers-pidfest-2024/">A Successful Start to a New Festival of Identifiers: PIDfest 2024</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/07/18/a-successful-start-to-a-new-festival-of-identifiers-pidfest-2024/>
 
 ---
 
@@ -77,7 +89,7 @@ A collection of short fiction by Walter M. Miller Jr., ordered by date of origin
 
 date: 2024-07-15, from: Association of Research Libraries News
 
-<p>Last Updated on July 16, 2024, 3:24 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 16 &#124; Wednesday, July 17 &#124; Thursday, July 18 Monday, July 15...</p>
+<p>Last Updated on July 17, 2024, 1:49 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 16 &#124; Wednesday, July 17 &#124; Thursday, July 18 Monday, July 15...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-15-18/">Day in Review (July 15-18)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

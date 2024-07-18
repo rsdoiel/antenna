@@ -1,11 +1,111 @@
 ---
 title: games 2024.29
-updated: 2024-07-17 08:39:52
+updated: 2024-07-18 07:46:44
 ---
 
 # games 2024.29
 
-(date: 2024-07-17 08:39:52)
+(date: 2024-07-18 07:46:44)
+
+---
+
+## The best Prime Day deals still available
+
+date: 2024-07-18, updated: 2024-07-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/2024/7/18/24200717/best-deals-still-available>
+
+---
+
+## Who was The Acolyte supposed to be about?
+
+date: 2024-07-18, updated: 2024-07-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24200698/star-wars-acolyte-season-1-review>
+
+---
+
+## Descendants: The Rise of Red owes everything to Brandy’s take on Cinderella
+
+date: 2024-07-18, updated: 2024-07-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24200594/disney-cinderella-brandy-1997-descendants-best-fairy-tale>
+
+---
+
+## Hasbro is making a Monopoly board game based off its mobile game based off the board game
+
+date: 2024-07-18, updated: 2024-07-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24199990/monopoly-go-board-game-announcement>
+
+---
+
+## Was BioShock Infinite good?
+
+date: 2024-07-18, updated: 2024-07-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24196012/was-bioshock-infinite-good>
+
+---
+
+## Monster Hunter Now monster list
+
+date: 2024-07-18, updated: 2024-07-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all>
+
+---
+
+## Pokémon Go ‘Whispers in the Woods’ Masterwork Research tasks and rewards so far
+
+date: 2024-07-18, updated: 2024-07-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24188008/whispering-in-the-woods-masterwork-research-tasks-rewards-shiny-celebi>
+
+---
+
+## All the Boys season 5 news we’ve heard so far
+
+date: 2024-07-18, updated: 2024-07-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24199837/boys-season-5-release-date-cast-news>
+
+---
+
+## Get the best Magic: The Gathering Prime Day deals before they end tonight
+
+date: 2024-07-17, updated: 2024-07-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering>
+
+---
+
+## The best Amazon Prime Day deals to get before the sale ends tonight
+
+date: 2024-07-17, updated: 2024-07-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/2024/7/17/24200331/best-deals-board-games-gaming-toys>
 
 ---
 
@@ -56,16 +156,6 @@ date: 2024-07-17, updated: 2024-07-17, from: Polygon Website
  
 
 <https://www.polygon.com/anime/24196703/my-favorite-anime-logic-cowboy-bebop-lupin-the-third>
-
----
-
-## The best Magic: The Gathering deals of Amazon Prime Day 2024
-
-date: 2024-07-17, updated: 2024-07-17, from: Polygon Website
-
- 
-
-<https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering>
 
 ---
 

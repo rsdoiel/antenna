@@ -1,15 +1,45 @@
 ---
 title: journalism 2024.29
-updated: 2024-07-17 08:39:52
+updated: 2024-07-18 07:46:44
 ---
 
 # journalism 2024.29
 
-(date: 2024-07-17 08:39:52)
+(date: 2024-07-18 07:46:44)
 
 ---
 
-## Could social media support healthy online conversations? New_Public is working on it
+## You’re more likely to believe fake news shared by someone you barely know than by your best friend
+
+date: 2024-07-17, from: Nieman Journalism Lab
+
+Half a century ago, a young Stanford professor named Mark Granovetter published what would become one of the seminal papers in the field of sociology. &#8220;The Strength of Weak Ties&#8221; argued for the important of mere acquaintances — not just your friends — in the growing field of social network analysis. (It&#8217;s been cited more... 
+
+<https://www.niemanlab.org/2024/07/youre-more-likely-to-believe-fake-news-shared-by-someone-you-barely-know-than-by-your-best-friend/>
+
+---
+
+## Now you can get news on your vape
+
+date: 2024-07-17, from: Nieman Journalism Lab
+
+Vaping and doomscrolling are both addictive and both bad for you, so why not combine the two? Because look, here&#8217;s a touchscreen vape that gets news alerts. You’re still looking at Twitter to get your news? That’s cool I guess. Me? I get it on my vape pic.twitter.com/PHZi022tXf &#8212; Katie Notopoulos (@katienotopoulos) July 17, 2024... 
+
+<https://www.niemanlab.org/2024/07/now-you-can-get-news-on-your-vape/>
+
+---
+
+## With Carlos Watson’s conviction, the Ozy story reaches its poetic ending
+
+date: 2024-07-17, from: Nieman Journalism Lab
+
+Carlos Watson&#8217;s luck may have run out. The founder of Ozy — that Google-exec-impersonating, mystery-traffic-generating discoverer of people who have already been discovered — was found guilty Tuesday in his trial in Brooklyn. A jury of his peers found he had indeed engaged in a conspiracy to commit securities fraud, a conspiracy to commit wire... 
+
+<https://www.niemanlab.org/2024/07/with-carlos-watsons-conviction-the-ozy-story-reaches-its-poetic-ending/>
+
+---
+
+## Could social media support healthy online conversations? New_ Public is working on it
 
 date: 2024-07-16, from: Nieman Journalism Lab
 

@@ -1,11 +1,601 @@
 ---
 title: pacific 2024.29
-updated: 2024-07-17 08:39:48
+updated: 2024-07-18 07:46:40
 ---
 
 # pacific 2024.29
 
-(date: 2024-07-17 08:39:48)
+(date: 2024-07-18 07:46:40)
+
+---
+
+## Territorial citizens' right to vote in US elections shunned in voting reform bill 
+
+date: 2024-07-18, from: Pacific Island Times
+
+CNMI delegate says SAVE Act puts up roadblocks for Americans born in Guam, Northern Marianas and other territories By Jayvee Vallejera A... 
+
+<https://www.pacificislandtimes.com/post/federal-voting-reform-bill-shuns-territorial-citizens-right-to-vote-in-us>
+
+---
+
+## Reclaiming what belongs to Guam 
+
+date: 2024-07-18, from: Pacific Island Times
+
+Hornbostel Collection final report nearly complete By Jan S.N. Furukawa CHamoru chants and songs of praise filled the cool morning... 
+
+<https://www.pacificislandtimes.com/post/reclaiming-what-belongs-to-guam>
+
+---
+
+## Pirates phenom Paul Skenes completes remarkable year as pro
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>ARLINGTON, Texas &#8212; Paul Skenes capped a remarkable 53-week run as a professional on Tuesday night, starting the All-Star Game for the National League in the latest of a seemingly endless series of firsts.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/sports/pirates-phenom-paul-skenes-completes-remarkable-year-as-pro/>
+
+---
+
+## HCRA: Kai ‘Ehitu dominates regatta field again
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>Kai &#8216;Ehitu Canoe Club had another successful outing in Moko O Hawai&#8216;i Outrigger Canoe Association&#8217;s sixth regatta of the 2024 season last weekend in Hilo. During Saturday&#8217;s outing, the club tallied 26 total medals and secured 12 gold &#8212; the most of any team competing. Kai &#8216;Ehitu also posted the most points of the day with 234.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/sports/hcra-kai-ehitu-dominates-regatta-field-again/>
+
+---
+
+## Marroquin named UH Vulcans head coach
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; Diego Marroquin has been named UH-Hilo men&#8217;s soccer head coach effective July 16 after leading the Vulcans to a 10-6-0 record in 2023.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/sports/marroquin-named-uh-vulcans-head-coach/>
+
+---
+
+## Chiefs arrive to camp early for extra work with Patrick Mahomes
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>Chiefs quarterback Patrick Mahomes and several rookies reported to training camp as Kansas City sets the course for a bid at history.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/sports/chiefs-arrive-to-camp-early-for-extra-work-with-patrick-mahomes/>
+
+---
+
+## Hawaii Kupuna Softball Tournament continues today
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>The Department of Parks and Recreation&#8217;s Elderly Activities Division kicked off the 49th Annual Hawaii Kupuna Softball Tournament on Wednesday, hosting 21 teams and over 400 players from around the island.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/hawaii-news/hawaii-kupuna-softball-tournament-continues-today/>
+
+---
+
+## Anthony Davis and Bam Adebayo come off bench to spark Team USA’s 105-79 rout of Serbia in Olympic tuneup
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>Joel Embiid isn&#8217;t Team USA&#8217;s secret weapon after all.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/sports/anthony-davis-and-bam-adebayo-come-off-bench-to-spark-team-usas-105-79-rout-of-serbia-in-olympic-tuneup/>
+
+---
+
+## Police commissioner sues HPD and assistant chief
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>A Hawaii County police commissioner is suing the Hawaii Police Department and one of its senior commanders.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/hawaii-news/police-commissioner-sues-hpd-and-assistant-chief/>
+
+---
+
+## Trump gunman Thomas Crooks leaves behind pile of mysteries
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>BUTLER, Pennsylvania &#8212; Thomas Crooks was pacing next to a warehouse building outside the Butler Farm Show grounds as a crowd gathered for one of former President Donald Trump&#8217;s signature outdoor rallies.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/nation-world-news/trump-gunman-thomas-crooks-leaves-behind-pile-of-mysteries/>
+
+---
+
+## Biden says he’d consider dropping out if a ‘medical condition’ emerged
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden said in an interview released Wednesday that he would reevaluate whether to stay in the presidential race if a doctor told him directly that he had a medical condition that made that necessary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/nation-world-news/biden-says-hed-consider-dropping-out-if-a-medical-condition-emerged/>
+
+---
+
+## Warriors fully engaged as art imitates life in EA Sports video game
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8212; Hawaii quarterback Brayden Schager was in the hurry-up mode.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/sports/warriors-fully-engaged-as-art-imitates-life-in-ea-sports-video-game/>
+
+---
+
+## Long holes look intimidating, but it’s the short ones that often befuddle golfers
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>The British Open at Royal Troon in Scotland this week might help answer a question vexing professional golf. Is the antidote to golfers hitting increasingly long drives creating holes that are even longer? Or is it the opposite: incredible shortness?</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/sports/long-holes-look-intimidating-but-its-the-short-ones-that-often-befuddle-golfers/>
+
+---
+
+## Trump’s running mate J.D. Vance introduces himself to nation at Republican convention
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>MILWAUKEE &#8212; Donald Trump&#8217;s vice presidential running mate, U.S. Senator J.D. Vance, presented himself to the nation on Wednesday night as the son of a forgotten industrial Ohio town who will fight for the working class if elected in November.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/nation-world-news/trumps-running-mate-j-d-vance-introduces-himself-to-nation-at-republican-convention/>
+
+---
+
+## Collective security works — NATO at 75 has been a success in keeping the peace
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>Overshadowed by the wonderings about President Joe Biden&#8217;s vigor was the actual purpose of the NATO alliance&#8217;s 75th anniversary summit in Washington last week. It marked three quarters of a century since Harry Truman hosted leaders of 10 nations from Western Europe, as well as Canada, to create a new, permanent defense pact in 1949.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/opinion/collective-security-works-nato-at-75-has-been-a-success-in-keeping-the-peace/>
+
+---
+
+## Despite Trump’s denials, he and Project 2025 are close
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>Project 2025 is the staffing and policy planning organization led by the Heritage Foundation. It published &#8220;Mandate for Leadership,&#8221; a 900-page document of policy recommendations, for the next Republican administration. Project 2025&#8217;s numerous unpopular conservative policy positions, such as its proposal to ban most abortion procedures nationwide, have come under fire.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/opinion/despite-trumps-denials-he-and-project-2025-are-close/>
+
+---
+
+## New polling shows a large and growing majority want Biden to step aside
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>Nearly two-thirds of Democrats said President Joe Biden should step aside and allow the party to select a different nominee, according to a new poll from the AP-NORC Center for Public Affairs Research.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/nation-world-news/new-polling-shows-a-large-and-growing-majority-want-biden-to-step-aside/>
+
+---
+
+## ‘Our nation is not well’: Voters fear what could happen next
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>BUTLER, Pa. &#8212; Before Saturday, when Butler, Pennsylvania, became the latest stunned backdrop for the nation&#8217;s political fury, Mayor Bob Dandoy thought of his town as a place that had learned to work around party lines. A Democrat in a Republican stronghold, he had campaigned on consensus.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/nation-world-news/our-nation-is-not-well-voters-fear-what-could-happen-next/>
+
+---
+
+## Your Views for July 18
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>Concerns about&#0010;non-native bees</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/opinion/your-views-for-july-18-9/>
+
+---
+
+## 32nd Annual Relay For Life this Saturday
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>The American Cancer Society Relay For Life of the Big Island is celebrating its 32nd year of raising awareness and funds through its annual community event this Saturday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/community/32nd-annual-relay-for-life-this-saturday/>
+
+---
+
+## Legal Aid Society to offer free legal 
+information in Kona
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>The Legal Aid Society of Hawaii is pleased to announce a free legal information presentation from 12 p.m. to 1 p.m. Friday at the West Hawaii Civic Center in Mayor&#8217;s Conference Room B-2.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/community/legal-aid-society-to-offer-free-legal-information-in-kona/>
+
+---
+
+## Christmas in July craft fair Saturday in Kona
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>The 31st annual Joann &#8220;Goose&#8221; Williams Christmas in July Art, Gift, Jewelry, &#038; Craft Fair will be held from 9 a.m. to 5 p.m. Saturday at the Courtyard King Kamehameha&#8217;s Kona Beach Hotel.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/community/christmas-in-july-craft-fair-saturday-in-kona/>
+
+---
+
+## KDEN to perform ‘You’re a Good Man, Charlie Brown’ over 3 weekends
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>Kilauea Drama and Entertainment, or KDEN, will be bringing its summer musical to three locations for three weekends.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/hawaii-news/kden-to-perform-youre-a-good-man-charlie-brown-over-3-weekends/>
+
+---
+
+## With sewage gushing into sea, US and Mexican border towns plead for help
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>IMPERIAL BEACH, California/TIJUANA, Mexico &#8212; Each day, millions of gallons of sewage cascade through a canyon and into the Pacific Ocean just south of the U.S.-Mexican border. As any surfer in San Diego knows, summer swells that come from the south will push the toxic brew north.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/nation-world-news/with-sewage-gushing-into-sea-us-and-mexican-border-towns-plead-for-help/>
+
+---
+
+## Nation and world news in brief for July 18
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>Top Republicans call for Secret Service chief to step down</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/nation-world-news/nation-and-world-news-in-brief-for-july-18/>
+
+---
+
+## US single-family housing starts hit eight-month low; green shoots in manufacturing
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. single-family homebuilding fell to an eight-month low in June amid higher mortgage rates, suggesting the housing market was likely a drag on economic growth in the second quarter.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/nation-world-news/us-single-family-housing-starts-hit-eight-month-low-green-shoots-in-manufacturing/>
+
+---
+
+## Obituaries for July 18
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>Mina Cascayan Alabab, 99, of Mountain View died June 1 at home. Born on Kauai, she was a retired vegetable farmer. Visitation 10-11:30 a.m. Wednesday (July 24) at Mililani Mortuary Makai Chapel. Funeral service at 11:30 a.m. Burial to follow at Mililani Memorial Park. Casual attire. Survived by daughters, Priscilla Gaces of Maui, Gloria (Jack) Magann of Waialua, Oahu, Edna (Nestor) Rabago of Mililani, Oahu, Delia (Robert) Villanueva of Fremont, Calif., Nely (Jeff) Boyd of North Carolina, Fely Applegate of Maui, Marlene Berger of Mountain View, Cheryl Alabab and Althea (McCoy Smith) Alabab of Portland, Ore.; son, Tony Alabab of Henderson, Nev.; 21 grandchildren, 25 great-grandchildren and a great-great-grandchild. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/obituaries/obituaries-for-july-18-11/>
+
+---
+
+## Vaccines significantly reduce the risk of long COVID, study finds
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>A large new study provides some of the strongest evidence yet that vaccines reduce the risk of developing long COVID.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/nation-world-news/vaccines-significantly-reduce-the-risk-of-long-covid-study-finds/>
+
+---
+
+## Arms race gathers pace as Russia and US plan to redeploy once-banned weapons
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; Four decades ago, the United States deployed cruise and Pershing II nuclear missiles in Europe to counter Soviet SS-20s - a move that stoked Cold War tensions but led within years to a historic disarmament deal.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/nation-world-news/arms-race-gathers-pace-as-russia-and-us-plan-to-redeploy-once-banned-weapons/>
+
+---
+
+## Prosecutors appeal Trump classified documents case dismissal
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. prosecutors formally appealed on Wednesday a federal judge&#8217;s decision to throw out the criminal case brought by Special Counsel Jack Smith accusing Donald Trump of illegally holding on to classified documents following the end of his presidency.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/nation-world-news/prosecutors-appeal-trump-classified-documents-case-dismissal/>
+
+---
+
+## Biden tests positive for COVID
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden tested positive for COVID on Wednesday, according to the White House, forcing him to cancel an event in Las Vegas and likely sidelining him for days following the conclusion of former President Donald Trump&#8217;s nominating convention Thursday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/nation-world-news/biden-tests-positive-for-covid/>
+
+---
+
+## Rev. Harry Sam remembered
+
+date: 2024-07-18, from: Marshal Islands Journal
+
+<p>HILARY HOSIA The United Church of Christ congregation in Majuro bid their final farewell to Reverend Harry Sam Monday evening prior to Harry&#8217;s departure to his resting grounds on Kwajalein. UCC core leadership President Rev. Lawson Matauto and Rev. Jeledrik Binejal presided over the service Monday at the UCC headquarters in Uliga while former Kwajalein [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/rev-harry-sam-remembered/">Rev. Harry Sam remembered</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/rev-harry-sam-remembered/>
+
+---
+
+## Guam ranks 5th among US jurisdictions with highest error rates for SNAP denials 
+
+date: 2024-07-18, from: Pacific Island Times
+
+Federal report prompts local welfare office to cut bureaucratic requirements By Pacific Island Times News Staff Guam ranked fifth among... 
+
+<https://www.pacificislandtimes.com/post/guam-ranks-5th-among-us-jurisdictions-with-highest-error-rates-for-snap>
+
+---
+
+## The last storytellers: The last WWII survivors on Guam pass the torch to the next generation 
+
+date: 2024-07-18, from: Pacific Island Times
+
+By Mar-Vic Cagurangan To this day, Joseph Mafnas is still trying to figure out how he survived WWII. He was barely one year old when he... 
+
+<https://www.pacificislandtimes.com/post/the-last-storytellers-the-last-wwii-survivors-on-guam-pass-the-torch-to-the-next-generation>
+
+---
+
+## US Ambassador: RMI closest partner
+
+date: 2024-07-18, from: Marshal Islands Journal
+
+<p>New United States Ambassador Laura Stone presented her diplomatic credentials to Marshall Islands President Hilda Heine last week at the Cabinet, ending a 16-month period without an American ambassador in Majuro. Stone took the opportunity of her first official meeting with the president to emphasize the unique nature of the US-Marshall Islands relationship. “Our closest [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/us-ambassador-rmi-closest-partner/">US Ambassador: RMI closest partner</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/us-ambassador-rmi-closest-partner/>
+
+---
+
+## 3 UH alumni earn appointments to 1st Circuit Court
+
+date: 2024-07-18, from: University of Hawaiʻi News
+
+<p>Judges Brian Costa, Dyan Medeiros and Steven Nichols, once sworn in, will each serve a term of 10 years.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/17/uh-alumni-earn-appointments-to-1st-circuit-court/">3 <abbr>UH</abbr> alumni earn appointments to 1st Circuit Court</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/17/uh-alumni-earn-appointments-to-1st-circuit-court/>
+
+---
+
+## Men’s and beach volleyball programs earn AVCA academic awards
+
+date: 2024-07-18, from: University of Hawaiʻi News
+
+<p>The Rainbow Warrior men’s volleyball team and the Rainbow Wahine beach team earned <abbr>AVCA</abbr><abbr> Team Academic Awards.</abbr></p>
+The post <a href="https://www.hawaii.edu/news/2024/07/17/volleyball-programs-earn-avca-academic-awards/">Men’s and beach volleyball programs earn <abbr>AVCA<abbr> academic awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/17/volleyball-programs-earn-avca-academic-awards/>
+
+---
+
+## Guam's conservation efforts for endangered Slevin’s Skink get a boost 
+
+date: 2024-07-18, from: Pacific Island Times
+
+By Ron Rocky Coloma In a significant boost to efforts to enhance the habitat for the endangered Slevin’s Skink on Cocos Island, the Guam... 
+
+<https://www.pacificislandtimes.com/post/guam-s-conservation-efforts-for-endangered-slevin-s-skink-get-a-boost>
+
+---
+
+## Boosting diversity aim of 1st gathering at UH genome center
+
+date: 2024-07-18, from: University of Hawaiʻi News
+
+<p>The Pacific Center for Genome Research plays a role in enhancing genomic research capabilities in underrepresented communities.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/17/uh-hosts-genome-consorium/">Boosting diversity aim of 1st gathering at <abbr>UH</abbr> genome center</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/17/uh-hosts-genome-consorium/>
+
+---
+
+## †Jercilla Maria "Chill" Ada Camacho
+
+date: 2024-07-17, updated: 2024-07-17, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/obituaries/jercilla-maria-chill-ada-camacho/article_ceb207fc-4490-11ef-9d69-57fce1d5318e.html>
+
+---
+
+## Red Cross donates Starlink devices
+
+date: 2024-07-17, from: Marshal Islands Journal
+
+<p>HILARY HOSIA The flow of communication has always been a recurring challenge to communities in remote outer islands in the Marshall Islands. This issue may be a thing of the past with the introduction of free Starlink equipment donated by the Marshall Islands Red Cross Society last week during the Marshall Islands Mayors Association at [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/red-cross-donates-starlink-devices/">Red Cross donates Starlink devices</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/red-cross-donates-starlink-devices/>
+
+---
+
+## Former UH sailor Moroz to compete in Paris Olympics
+
+date: 2024-07-17, from: University of Hawaiʻi News
+
+<p>The inaugural Olympic kiteboarding competition will take place at Marseille Marina, the official Olympics sailing venue, in the Mediterranean Sea.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/17/former-uh-sailor-moroz-olympics/">Former <abbr>UH</abbr> sailor Moroz to compete in Paris Olympics</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/17/former-uh-sailor-moroz-olympics/>
+
+---
+
+## Image of the Week: Frogfish
+
+date: 2024-07-17, from: University of Hawaiʻi News
+
+<p>This week’s image is from <abbr>UH</abbr> Mānoa's Daniela Escontrela.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/17/image-of-the-week-frogfish/">Image of the Week: Frogfish</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/17/image-of-the-week-frogfish/>
+
+---
+
+## MLSC closed from July 22 to 26
+
+date: 2024-07-17, updated: 2024-07-18, from: Marianas Variety
+
+(MLSC) — The Marianas Office of Micronesian Legal Services Corp. will be closed from Monday, July 22, 2024 through Friday, July 26, 2024 for staff development. 
+
+<https://www.mvariety.com/news/community_bulletins/mlsc-closed-from-july-22-to-26/article_6c9c4478-440a-11ef-8974-53ca225c1a74.html>
+
+---
+
+## DPS will ask FBI to examine skeletal remains found in Marpi cave
+
+date: 2024-07-17, updated: 2024-07-18, from: Marianas Variety
+
+THE Department of Public Safety’s Criminal Investigation Bureau will seek the Federal Bureau of Investigation’s laboratory assistance in examining an “incomplete set of bones” found in a Marpi cave by hikers on July 7, 2024. 
+
+<https://www.mvariety.com/news/local/dps-will-ask-fbi-to-examine-skeletal-remains-found-in-marpi-cave/article_4827c1ba-4452-11ef-a60c-53de1f6d6268.html>
+
+---
+
+## Saipan International School celebrates record-breaking AP achievements
+
+date: 2024-07-17, updated: 2024-07-18, from: Marianas Variety
+
+(SIS) —  Saipan International School proudly announces that 26 of its students have earned an impressive 42 Advanced Placement or AP distinctions this year. Additionally, three-fourths of SIS students taking AP exams achieved scores of 3 or higher. Leading the way in their respective grade levels were Senior Tony Li with an average score of 4.43, Christian Newman (Grade 11) with an average score of 3.67, and Dong Hyun Lee (Grade 10) with an average score of 4.4. 
+
+<https://www.mvariety.com/news/local/saipan-international-school-celebrates-record-breaking-ap-achievements/article_f60a7a48-4452-11ef-9aba-f3bc0fac8bc3.html>
+
+---
+
+## FEATURE ǀ More than a Marianas
+
+date: 2024-07-17, updated: 2024-07-18, from: Marianas Variety
+
+The following essay won third prize in the Northern Marianas Humanities Council’s 2024 My Marianas Writing Contest. 
+
+<https://www.mvariety.com/views/columnists/feature-more-than-a-marianas/article_96181de6-444f-11ef-a68a-df6ca9b22037.html>
+
+---
+
+## Cruz, Yiftheg and Diaz top My Marianas Writing Contest
+
+date: 2024-07-17, updated: 2024-07-18, from: Marianas Variety
+
+THE Northern Marianas Humanities Council on July 17 announced the three winners of the 2024 My Marianas Writing Contest. 
+
+<https://www.mvariety.com/news/local/cruz-yiftheg-and-diaz-top-my-marianas-writing-contest/article_88359296-440c-11ef-bb80-db7d34975c24.html>
+
+---
+
+## 2nd round of fisheries assistance checks to start arriving by Friday
+
+date: 2024-07-17, updated: 2024-07-18, from: Marianas Variety
+
+FINANCIAL relief assistance for the CNMI’s fisheries community should be ready for pick up as early as July 19, Friday afternoon. 
+
+<https://www.mvariety.com/news/local/2nd-round-of-fisheries-assistance-checks-to-start-arriving-by-friday/article_9feef706-4452-11ef-9271-ff39150b35c3.html>
+
+---
+
+## Green flag on Saipan
+
+date: 2024-07-17, updated: 2024-07-18, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan’s east and south recreational beaches this week as part of the regularly scheduled sampling. None of the samples collected contained excessive concentration of fecal indicator bacteria nor did they exceed CNMI marine water quality standards. Therefore, BECQ assigns the following sampled beach sites a green flag. Enjoy our waters! 
+
+<https://www.mvariety.com/news/local/green-flag-on-saipan/article_6733be14-4453-11ef-b079-0ba54f93b448.html>
+
+---
+
+## Senior Republican lawmakers ask Biden for options to support Philippines in Beijing standoff
+
+date: 2024-07-17, updated: 2024-07-18, from: Marianas Variety
+
+WASHINGTON (Reuters) — Two senior Republican U.S. senators have asked President Joe Biden to provide a complete list of options developed by the Pentagon and State Department to help support the Philippines in recent standoffs with Beijing over a contested shoal in the South China Sea. 
+
+<https://www.mvariety.com/news/national/senior-republican-lawmakers-ask-biden-for-options-to-support-philippines-in-beijing-standoff/article_1e5f7194-4456-11ef-ac8a-bff1af1f70be.html>
+
+---
+
+## NMSA honors Team Marianas
+
+date: 2024-07-17, updated: 2024-07-18, from: Marianas Variety
+
+THE Northern Marianas Sports Association on Tuesday hosted an Appreciation Night to honor and recognize the historic achievements of Team Marianas in 10th Micronesian Games held in Majuro, the Marshall Islands last month. 
+
+<https://www.mvariety.com/sports/localsports/nmsa-honors-team-marianas/article_1ba01f8a-445b-11ef-9298-f7c2bea69874.html>
 
 ---
 
@@ -974,7 +1564,7 @@ date: 2024-07-16, from: Island Times
 
 date: 2024-07-16, from: Island Times
 
-<figure><img width="1024" height="682" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?w=1271&amp;ssl=1 1271w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71301" data-permalink="https://islandtimes.org/ambassador-jessica-c-lee-of-the-republic-of-china-taiwan-hands-over-an-ambulance-to-hon-uduch-sengebau-senior-vice-president-and-minister-of-justice/taiwan-donates-ambulance/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?fit=1271%2C847&amp;ssl=1" data-orig-size="1271,847" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Taiwan donates Ambulance" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?fit=780%2C519&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="1024" height="682" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?w=1271&amp;ssl=1 1271w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71301" data-permalink="https://islandtimes.org/ambassador-jessica-c-lee-of-the-republic-of-china-taiwan-hands-over-an-ambulance-to-hon-uduch-sengebau-senior-vice-president-and-minister-of-justice/taiwan-donates-ambulance/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?fit=1271%2C847&amp;ssl=1" data-orig-size="1271,847" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Taiwan donates Ambulance" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Taiwan-donates-Ambulance.jpg?fit=780%2C519&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>Jefferson Eriich, Chief of the fire and rescue division, Bureau of the Public Safety, Ministry of Justice, pointed out that the ambulance is fully equipped, including oxygen tanks, BP Monitor, Extrication devices, Suction set, stair chair, etc. The emergency rescue team can hit the road at any time for missions. After the donation ceremony, Chief [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/ambassador-jessica-c-lee-of-the-republic-of-china-taiwan-hands-over-an-ambulance-to-hon-uduch-sengebau-senior-vice-president-and-minister-of-justice/">Ambassador Jessica C. Lee of the Republic of China (Taiwan) hands over an ambulance to Hon. Uduch Sengebau Senior, Vice President and Minister of Justice</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1117,7 +1707,7 @@ date: 2024-07-16, from: Island Times
 
 date: 2024-07-16, from: Island Times
 
-<figure><img width="225" height="224" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?w=225&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71287" data-permalink="https://islandtimes.org/becoming-whole-2/images-2-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1" data-orig-size="225,224" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (2)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="225" height="224" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?w=225&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71287" data-permalink="https://islandtimes.org/becoming-whole-2/images-2-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1" data-orig-size="225,224" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (2)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>Unless you learn to face your own shadows, you will continue to see them in others because the world outside of you is only a reflection of the world inside of you. -Anonymous I was drawn to Carl Jung&#8217;s teaching when he said &#8220;What if I were the least of these?&#8221; He was reflecting on [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/becoming-whole-2/">BECOMING WHOLE </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1130,7 +1720,7 @@ date: 2024-07-16, from: Island Times
 
 date: 2024-07-16, from: Island Times
 
-<figure><img width="512" height="512" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?fit=512%2C512&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?w=512&amp;ssl=1 512w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?fit=512%2C512&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71285" data-permalink="https://islandtimes.org/global-goal-of-tripling-renewables-by-2030-still-out-of-reach-says-irena/attachment/1736168/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?fit=512%2C512&amp;ssl=1" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="1736168" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?fit=512%2C512&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="512" height="512" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?fit=512%2C512&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?w=512&amp;ssl=1 512w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?fit=512%2C512&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71285" data-permalink="https://islandtimes.org/global-goal-of-tripling-renewables-by-2030-still-out-of-reach-says-irena/attachment/1736168/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?fit=512%2C512&amp;ssl=1" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="1736168" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/1736168.png?fit=512%2C512&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>By Daisy Clague ABU DHABI (CLIMATE HOME) &#8212; Despite growing at an unprecedented rate last year, renewable energy sources are still not being deployed quickly enough to put the world on track to meet an international goal of tripling renewables by 2030, new data shows. At the COP28 climate summit in Dubai in 2023, nearly [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/global-goal-of-tripling-renewables-by-2030-still-out-of-reach-says-irena/">Global goal of tripling renewables by 2030 still out of reach, says IRENA </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1191,7 +1781,7 @@ date: 2024-07-16, from: Island Times
 
 date: 2024-07-16, from: Island Times
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71269" data-permalink="https://islandtimes.org/belau-youth-games-closing-ceremony-with-awards-and-recognition-of-students-athletes/group-space-gym-photo/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?fit=2048%2C1536&amp;ssl=1" data-orig-size="2048,1536" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="group space gym photo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?fit=780%2C585&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71269" data-permalink="https://islandtimes.org/belau-youth-games-closing-ceremony-with-awards-and-recognition-of-students-athletes/group-space-gym-photo/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?fit=2048%2C1536&amp;ssl=1" data-orig-size="2048,1536" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="group space gym photo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/group-space-gym-photo.jpeg?fit=780%2C585&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>The Belau Youth Games and Festival, featuring over 400 student athletes participating in 11 sporting events, held its closing ceremony on Saturday July 13 at the Palau National Gymnasium. The sports events were held at various sports venues in Koror and Airai, and the Youth Games offered numerous activities and opportunities for learning different sports [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/belau-youth-games-closing-ceremony-with-awards-and-recognition-of-students-athletes/">Belau Youth Games Closing Ceremony with awards and recognition of STUDENTS ATHLETES</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1204,7 +1794,7 @@ date: 2024-07-16, from: Island Times
 
 date: 2024-07-16, from: Island Times
 
-<figure><img width="1024" height="746" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?fit=1024%2C746&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=300%2C219&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=1024%2C746&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=768%2C559&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=1200%2C874&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=400%2C291&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=706%2C514&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?fit=1024%2C746&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71267" data-permalink="https://islandtimes.org/psfa-celebrates-akitaya-attekoi-l-beluu-fishing-derby/20240708_press_psfa_tekoilbeluu/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?fit=1477%2C1076&amp;ssl=1" data-orig-size="1477,1076" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;20240708_PRESS_PSFA_TEKOILBELUU&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20240708_PRESS_PSFA_TEKOILBELUU" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?fit=300%2C219&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?fit=780%2C568&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="1024" height="746" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?fit=1024%2C746&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?w=1477&amp;ssl=1 1477w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=300%2C219&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=1024%2C746&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=768%2C559&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=1200%2C874&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=400%2C291&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?resize=706%2C514&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?fit=1024%2C746&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71267" data-permalink="https://islandtimes.org/psfa-celebrates-akitaya-attekoi-l-beluu-fishing-derby/20240708_press_psfa_tekoilbeluu/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?fit=1477%2C1076&amp;ssl=1" data-orig-size="1477,1076" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;20240708_PRESS_PSFA_TEKOILBELUU&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20240708_PRESS_PSFA_TEKOILBELUU" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?fit=300%2C219&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PSFA_TEKOILBELUU-2.jpg?fit=780%2C568&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>Drop Off, Koror, Palau &#8211; In honor of a beloved fisher, congressman, athlete, youth advocate,and active member of the Palauan community, the Palau Sports Fishing Association held the Tekoi ‘L Beluu Fishing Derby to celebrate the life of the late Senator Regis Akitaya. Eachstate was asked to sponsor a team for this first-of-its-kind Tekoi ‘L [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/psfa-celebrates-akitaya-attekoi-l-beluu-fishing-derby/">PSFA Celebrates Akitaya atTekoi ‘L Beluu Fishing Derby</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  

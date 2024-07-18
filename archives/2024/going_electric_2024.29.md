@@ -1,15 +1,363 @@
 ---
 title: going electric 2024.29
-updated: 2024-07-17 08:39:55
+updated: 2024-07-18 07:46:47
 ---
 
 # going electric 2024.29
 
-(date: 2024-07-17 08:39:55)
+(date: 2024-07-18 07:46:47)
 
 ---
 
-## Houston Homes Went Dark In Hurricane Beryl. EVs Powered Them Up.
+## Tesla releases app update to reduce phantom drain in its EVs
+
+date: 2024-07-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/themes/ninetofive/dist/images/default-electrek-related-guide.png?w=1600" /></div><p>Tesla has released a new mobile app update to reduce the phantom drain in its parled electric vehicles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="372188" href="https://electrek.co/2024/07/18/tesla-releases-app-update-to-reduce-phantom-drain-in-its-evs/#more-372188" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/18/tesla-releases-app-update-to-reduce-phantom-drain-in-its-evs/>
+
+---
+
+## China's QJ Motor Aims to Shake Up Entry-Level ADV Segment, Drops New Motorcycle
+
+date: 2024-07-18, from: Ride Apart, Electric Motorcycle News
+
+It hopes to give the Honda NX500 a run for its money.  
+
+<https://www.rideapart.com/news/726858/qj-motor-srt-550x-debut/>
+
+---
+
+## The Jeep Dune Concept Is An Adorable, Pint-Sized Wannabe EV Off-Roader
+
+date: 2024-07-18, from: Inside EVs News
+
+It seats two and it has fabric doors and chunky tires. It’s also not a real Jeep. 
+
+<https://insideevs.com/news/727045/jeep-dune-concept-citroen-ami/>
+
+---
+
+## Ford expands Super Duty truck production to Ontario after three-row electric SUV delay
+
+date: 2024-07-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Fords-first-all-electric-Explorer.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford announced plans to build F-Series Super Duty trucks in Ontario on Thursday. The announcement comes after <a href="https://electrek.co/guides/ford/">Ford</a> delayed the launch of its first three-row electric SUV at the facility.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="372176" href="https://electrek.co/2024/07/18/ford-plans-build-super-duty-trucks-ontario-ev-delays/#more-372176" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/18/ford-plans-build-super-duty-trucks-ontario-ev-delays/>
+
+---
+
+## Does Everything Count as a Wheelie When Riding This EV Monowheel?
+
+date: 2024-07-18, from: Ride Apart, Electric Motorcycle News
+
+Serious question, guys: Would you have a go on this thing? 
+
+<https://www.rideapart.com/news/727004/electric-monowheel-custom-build-hoverboard/>
+
+---
+
+## Can-Am Torture-Tested Its Upcoming Motorcycles, Almost Hard To Watch
+
+date: 2024-07-18, from: Ride Apart, Electric Motorcycle News
+
+It almost hurts to see motorcycles tortured like this. But it's all for our benefit, we just have to remind ourselves of that. 
+
+<https://www.rideapart.com/news/727000/watch-can-ams-new-electric-motorcycle-testing/>
+
+---
+
+## The Royal Enfield Guerrilla 450 Wants To Stand Out From The Crowd. Does It?
+
+date: 2024-07-18, from: Ride Apart, Electric Motorcycle News
+
+Meant for all roads with no algorithms necessary, says Enfield. 
+
+<https://www.rideapart.com/news/727001/royal-enfield-guerrilla-450-details/>
+
+---
+
+## EICMA's 110th Anniversary Is Nearly Here, It’s Time To Get Your Tickets
+
+date: 2024-07-18, from: Ride Apart, Electric Motorcycle News
+
+This is it—the motorcycle show of the year. And being its 110th anniversary, there's plenty in store for eventgoers.  
+
+<https://www.rideapart.com/news/726994/eicma-110-year-edition-2024/>
+
+---
+
+## Someone Set Wire Traps to Decapitate Dirt Bikers and ATV Riders, Cops Ask for Help
+
+date: 2024-07-18, from: Ride Apart, Electric Motorcycle News
+
+There's a $1,000 reward for any info on the person.  
+
+<https://www.rideapart.com/news/726996/wire-booby-traps-dirt-bikers-atv-riders-cops-decapitate/>
+
+---
+
+## Suzuki France Goes Racing, But is Using The GSX-8S Naked Streetfighter
+
+date: 2024-07-18, from: Ride Apart, Electric Motorcycle News
+
+The 8S Cup showcases the performance and versatility of the Suzuki GSX-8S.  
+
+<https://www.rideapart.com/news/726861/suzuki-france-gsx-8s-cup-2025/>
+
+---
+
+## Electrek Formula Sun Grand Prix 2024: Day 2 results
+
+date: 2024-07-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/53861159018_fcddda17b3_k.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The second day of the 2024 Electrek Formula Sun Grand Prix (FSGP) at the NCM Motorsports Park was marked by intense competition for some and a struggle to get rolling for others. </p>
+
+
+
+<p>École de Technologie Supérieure (ETS) out of Montreal, which translates to Superior Technology School, continued to lead the pack on day two with 65 laps. Meanwhile, Standford, Georgia Tech, MIT, and a few others continued to be plagued with mechanical issues. They hope to have those ironed out soon for tomorrow’s last day of racing.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="formula-sun-grand-prix,solar-electric-vehicles" data-layer-viewtype="unknown" data-post-id="372096" href="https://electrek.co/2024/07/17/electrek-formula-sun-grand-prix-2024-day-2-results/#more-372096" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/electrek-formula-sun-grand-prix-2024-day-2-results/>
+
+---
+
+## Cybertruck’s redesigned  wheel covers are ready to go, almost half a year later
+
+date: 2024-07-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/Toyota-Tesla-Cybertruck.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After<a href="https://electrek.co/2024/02/01/tesla-cybertruck-wheel-covers-cause-unusual-wear-will-be-redesigned/"> stopping shipment</a> of Cybertruck’s original aerodynamic wheel covers due to unusual tire wear in early February, Tesla is finally starting to install redesigned wheel covers on Cybertrucks that were delivered without them in the interim, and we’re finally seeing pictures of what they’ll look like.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="372136" href="https://electrek.co/2024/07/17/cybertrucks-redesigned-wheel-covers-are-ready-to-go-almost-half-a-year-later/#more-372136" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/cybertrucks-redesigned-wheel-covers-are-ready-to-go-almost-half-a-year-later/>
+
+---
+
+## Check out Volkswagen’s new ID.UNYX electric SUV, starting under $30,000 in China
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/VWs-new-electric-SUV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/volkswagen/">Volkswagen</a> launched its new ID.UNYX electric SUV in China on Wednesday. Starting under $30,000, VW’s new electric SUV is set to compete against top-selling EVs in an intensifying market. The electric SUV is the first to wear the golden logo from its new sub-brand as VW looks to take on BYD and Tesla in the world’s largest EV market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,vw" data-layer-viewtype="unknown" data-post-id="372106" href="https://electrek.co/2024/07/17/vws-new-electric-suv-under-30000-china/#more-372106" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/vws-new-electric-suv-under-30000-china/>
+
+---
+
+## Diesel is down, restomods are fun (these are probably not related)
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/WrongTurn_MAIN.jpg?quality=82&#038;strip=all&#038;w=1440" /></div><p>On this episode of Quick Charge, we explore the wide range of electric conversions and restomods out there bringing classic style to the ultra modern world of electric vehicles … even if there aren’t that many of them around.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="quick-charge,restomods" data-layer-viewtype="unknown" data-post-id="372090" href="https://electrek.co/2024/07/17/diesel-is-down-restomods-are-fun-these-are-probably-not-related/#more-372090" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/diesel-is-down-restomods-are-fun-these-are-probably-not-related/>
+
+---
+
+## Aptera partner US Capital Global leads $60M investment round to reach low volume SEV production
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Aptera-investment-solar-EV.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Aptera’s new partner, financial group US Capital Global, is helping lead the solar EV startup’s latest investment round, which will offer up to $60 million in convertible notes. With this funding, <a href="https://electrek.co/guides/aptera/">Aptera</a> hopes to complete production intent SEV builds for crash testing ahead of a (very) low-volume start of production in early 2025. Here’s the latest.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aptera,solar-electric-vehicles,us-capital-global" data-layer-viewtype="unknown" data-post-id="372092" href="https://electrek.co/2024/07/17/aptera-partner-us-capital-global-60m-investment-round-low-volume-production/#more-372092" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/aptera-partner-us-capital-global-60m-investment-round-low-volume-production/>
+
+---
+
+## Honda believes it will outpace US rivals as its first electric SUV is available in all markets
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Honda-US-rivals.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Can <a href="https://electrek.co/guides/honda/">Honda</a> take a bigger piece of the US auto market in 2024? Honda and luxury brand Acura are banking on brand loyalty and new EVs, including the Prologue and ZDX, to help outpace US rivals. The Honda Prologue is now available at most dealers, spanning all US markets.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda" data-layer-viewtype="unknown" data-post-id="372084" href="https://electrek.co/2024/07/17/honda-outpace-us-rivals-new-ev-rolls-out/#more-372084" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/honda-outpace-us-rivals-new-ev-rolls-out/>
+
+---
+
+## U.S. Battery Recycling Capacity To Triple In The Next Few Years
+
+date: 2024-07-17, from: Inside EVs News
+
+It might be enough to recycle a six-digit number of EV battery packs. 
+
+<https://insideevs.com/news/726941/us-battery-recycling-capacity-forecast/>
+
+---
+
+## U.S. Plans Restrictions On Chinese Car Software
+
+date: 2024-07-17, from: Inside EVs News
+
+"A car is a very scary thing,” a senior U.S. Commerce Department official said. "It knows a lot about you." 
+
+<https://insideevs.com/news/726987/chinese-ev-car-software-rules/>
+
+---
+
+## Smart Mulls Electric Fortwo Replacement But Won’t Make It Alone
+
+date: 2024-07-17, from: Inside EVs News
+
+The Fortwo is being discontinued this year, but Smart is looking at ways to make a new generation happen. 
+
+<https://insideevs.com/news/726957/smart-fortwo-replacement-considered/>
+
+---
+
+## EGO Power+ 56V self-propelled mower, Eve Aqua controller, AeroGarden Harvest 2.0 – all at all-time lows, with even more
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/EGO-Power-21-inch-56V-cordless-self-propelled-lawn-mower-2.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>We’re coming up on the home stretch of <a href="https://electrek.co/2024/07/17/prime-day-green-deals-evs-power-stations-tools-smart-devices-appliances-more/">Amazon’s Prime Day deals</a>, with the 2-day savings event ending tonight. Today’s Green Deals are all at their lowest prices to lend you a helping hand out in the yard and/or garden, with the headliner being the <a href="https://9to5toys.com/2024/07/16/ego-power-56v-21-inch-select-cut-self-propelled-lawn-mower-at-return-530-low-169-off-more-from-144/">EGO Power+ 56V 21-inch Select Cut self-propelled lawn mower</a> that has returned to its <a href="https://9to5toys.com/2024/07/16/ego-power-56v-21-inch-select-cut-self-propelled-lawn-mower-at-return-530-low-169-off-more-from-144/">$530 low</a>. It is joined by the <a href="https://9to5toys.com/2024/07/17/eve-aqua-smart-water-controller-at-new-80-low-reg-150-more-from-28/">Eve Aqua Smart Water Controller</a> that is hitting a <a href="https://9to5toys.com/2024/07/17/eve-aqua-smart-water-controller-at-new-80-low-reg-150-more-from-28/">new $80 low</a>, as well as <a href="https://9to5toys.com/2024/07/17/aerogardens-upgraded-harvest-2-0-indoor-hydroponic-garden-system-hits-new-50-low-save-40/">AeroGarden’s Harvest 2.0 Indoor Hydroponic Garden System at a new $50 low</a>. Plus, all the Amazon Prime Day Green Deals that have been collected together in our <a href="https://electrek.co/2024/07/15/prime-day-green-deals-evs-power-stations-tools-smart-devices-appliances-more/">Prime Day hub here</a>, which you can also find down at the bottom of the page. Time is running out to take advantage of all these insane price cuts – don’t dawdle!</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="372073" href="https://electrek.co/2024/07/17/amazon-prime-day-ego-power-56v-self-propelled-mower-eve-aqua-controller-aerogarden-harvest-2-0-more/#more-372073" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/amazon-prime-day-ego-power-56v-self-propelled-mower-eve-aqua-controller-aerogarden-harvest-2-0-more/>
+
+---
+
+## Ioniq 5 & EV6 spotted with native NACS port, Hyundai confirms 2024 release
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/08/Hyundai-IONIQ-5-Kia-EV6-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A Hyundai Ioniq 5 and Kia EV6 have been spotted at a supercharger, but not charging with an adapter – this time they were using a native NACS port, suggesting native NACS support could be coming soon.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai-ioniq-5,kia-ev6,north-american-charging-standard-nacs" data-layer-viewtype="unknown" data-post-id="371979" href="https://electrek.co/2024/07/17/ioniq-5-ev6-spotted-supercharging-native-nacs-coming-soon/#more-371979" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/ioniq-5-ev6-spotted-supercharging-native-nacs-coming-soon/>
+
+---
+
+## The Volkswagen ID.UNYX Wants To Be Your Conversation Companion
+
+date: 2024-07-17, from: Inside EVs News
+
+This China-Only Volkswagen crossover-coupe has a 3D companion powered by AI, that will be able to "accompany the driver on conversations." 
+
+<https://insideevs.com/news/726978/vw-idunyx-china-ai/>
+
+---
+
+## Tesla claims a 95% automated production at Gigafactory Shanghai
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/07/Tesla-Gigafactory-Shanghai-Jul-2022.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla claims that it is now achieving “95% automated production” at Gigafactory Shanghai with recent updates.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="372058" href="https://electrek.co/2024/07/17/tesla-claims-automated-production-gigafactory-shanghai/#more-372058" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/tesla-claims-automated-production-gigafactory-shanghai/>
+
+---
+
+## Genesis to launch hybrids ASAP after it ‘overachieved’ with EVs
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Genesis-hybrids-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Korean luxury brand wants to bring hybrids to market as soon as possible. Genesis revealed plans to launch hybrids for “as many models as possible.” The comments come after <a href="https://electrek.co/guides/genesis/">Genesis</a> “overachieved” with EVs, according to the brand’s director of vehicle development, Tyrone Johnson.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis" data-layer-viewtype="unknown" data-post-id="372060" href="https://electrek.co/2024/07/17/genesis-launch-hybrids-asap-overachieved-evs/#more-372060" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/genesis-launch-hybrids-asap-overachieved-evs/>
+
+---
+
+## E1 relaunches Pilot Academy in search of electric boat racers to compete in the 2025 season
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/E1-pilot-academy.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Have you ever dreamt of competing at the professional race level in gorgeous coastal locations around the globe? Now is your chance to step up and join the nascent <a href="https://electrek.co/guides/e1-series/">E1 electric boat racing series</a>. E1 has reopened its Pilot Academy in search of fresh talent that will compete in the racing series’ second season in 2025. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="e1,e1-series,electric-boat-racing,racebird,uim-e1-world-championship" data-layer-viewtype="unknown" data-post-id="372057" href="https://electrek.co/2024/07/17/e1-launches-pilot-academy-in-search-electric-boat-racers-2025-season/#more-372057" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/e1-launches-pilot-academy-in-search-electric-boat-racers-2025-season/>
+
+---
+
+## Kia EV3 uses next-gen tech and batteries for more range and faster charging than the Niro EV
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Kia-EV3-reservations.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s new affordable EV is already having a big impact on the brand. Powered by its fourth-gen tech, Kia says <a href="https://electrek.co/guides/kia-ev3/">the EV3</a> battery has 22% higher energy density than the Niro EV, enabling longer range and faster charging.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev3" data-layer-viewtype="unknown" data-post-id="372032" href="https://electrek.co/2024/07/17/kia-ev3-features-new-tech-more-range-faster-charging/#more-372032" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/kia-ev3-features-new-tech-more-range-faster-charging/>
+
+---
+
+## This Tesla Model S Taxi Has 430,000 Miles. Here's How Its Battery Holds Up
+
+date: 2024-07-17, from: Inside EVs News
+
+It's still on its first battery and hasn't had its electric motors replaced either. 
+
+<https://insideevs.com/news/726910/tesla-taxi-battery-still-good/>
+
+---
+
+## Mercedes-Benz High-Power Charging goes large at Starbucks
+
+date: 2024-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Mercedes_Benz_and_Starbucks.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Mercedes-Benz High-Power Charging will install 400 kW DC fast chargers at 100 Starbucks stores on the US West Coast.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,dc-fast-charging,ev-chargers,mercedes-benz,oregon,starbucks,washington-state" data-layer-viewtype="unknown" data-post-id="372027" href="https://electrek.co/2024/07/17/mercedes-benz-high-power-charging-starbucks/#more-372027" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/17/mercedes-benz-high-power-charging-starbucks/>
+
+---
+
+## How Electric Vehicles Powered Houston Homes During Hurricane Beryl
 
 date: 2024-07-17, from: Inside EVs News
 

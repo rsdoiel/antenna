@@ -1,11 +1,255 @@
 ---
 title: parks 2024.29
-updated: 2024-07-17 08:39:53
+updated: 2024-07-18 07:46:45
 ---
 
 # parks 2024.29
 
-(date: 2024-07-17 08:39:53)
+(date: 2024-07-18 07:46:45)
+
+---
+
+## Chimney Peak, Long Valley campgrounds and portion of the Pacific Crest Trail are closed due to wildland fire danger
+
+date: 2024-07-18, from: Bureau of Land Management, California
+
+<div class="layout layout--onecol">
+        <div class="layout__region layout__region--content">
+      
+
+  
+<div class="breadcrumb-max-width block">
+  
+    
+        <nav role="navigation" aria-labelledby="system-breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/">Home</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/media">Info</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/press-release">Press Releases</a></li>
+          <li class="breadcrumb-item">Press Releases</li>
+        </ol>
+  </nav>
+
+  </div>
+
+    </div>
+  </div>
+  <div class="layout layout--twocol-section layout--twocol-section--67-33 section-one-full-width wide-content d-flex flex-lg-nowrap">
+                  <div class="layout__region layout__region--first mb-4 mb-lg-0">
+          
+
+  
+<div class="block">
+  
+    
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p><a class="cta-button" href="https://www.blm.gov/announcement" style="
+    display: inline-block;
+    background: 0 0;
+    color: #007fad;
+    margin-bottom: 0;
+    font-weight: 500;
+    padding: 0;">&lt; All Announcements</a></p>
+</div>
+      
+  </div>
+
+        </div>
+                    <div class="layout__region layout__region--second">
+          
+        </div>
+            </div> 
+
+<https://www.blm.gov/announcement/chimney-peak-long-valley-campgrounds-and-portion-pacific-crest-trail-are-closed-due>
+
+---
+
+## Public land mining claim fees and waivers due September 3: Conveniently pay online using the Mineral & Land Records System
+
+date: 2024-07-17, from: Bureau of Land Management, California
+
+<div class="layout layout--onecol">
+        <div class="layout__region layout__region--content">
+      
+
+  
+<div class="breadcrumb-max-width block">
+  
+    
+        <nav role="navigation" aria-labelledby="system-breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/">Home</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/media">Info</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/press-release">Press Releases</a></li>
+          <li class="breadcrumb-item">Press Releases</li>
+        </ol>
+  </nav>
+
+  </div>
+
+    </div>
+  </div>
+  <div class="layout layout--twocol-section layout--twocol-section--67-33 section-one-full-width wide-content d-flex flex-lg-nowrap">
+                  <div class="layout__region layout__region--first mb-4 mb-lg-0">
+          
+
+  
+<div class="block">
+  
+    
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p><a class="cta-button" href="https://www.blm.gov/announcement" style="
+    display: inline-block;
+    background: 0 0;
+    color: #007fad;
+    margin-bottom: 0;
+    font-weight: 500;
+    padding: 0;">&lt; All Announcements</a></p>
+</div>
+      
+  </div>
+
+        </div>
+                    <div class="layout__region layout__region--second">
+          
+        </div>
+            </div> 
+
+<https://www.blm.gov/announcement/public-land-mining-claim-fees-and-waivers-due-september-3-conveniently-pay-online>
+
+---
+
+## Call for Nominations for the California Desert District Advisory Council, the Central California Resource Advisory Council, and the Northern California District Resource Advisory Council
+
+date: 2024-07-17, from: Bureau of Land Management, California
+
+<div class="layout layout--onecol">
+        <div class="layout__region layout__region--content">
+      
+
+  
+<div class="breadcrumb-max-width block">
+  
+    
+        <nav role="navigation" aria-labelledby="system-breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/">Home</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/media">Info</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/press-release">Press Releases</a></li>
+          <li class="breadcrumb-item">Press Releases</li>
+        </ol>
+  </nav>
+
+  </div>
+
+    </div>
+  </div>
+  <div class="layout layout--twocol-section layout--twocol-section--67-33 section-one-full-width wide-content d-flex flex-lg-nowrap">
+                  <div class="layout__region layout__region--first mb-4 mb-lg-0">
+          
+
+  
+<div class="block">
+  
+    
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p><a class="cta-button" href="https://www.blm.gov/notices-rule" style="
+    display: inline-block;
+    background: 0 0;
+    color: #007fad;
+    margin-bottom: 0;
+    font-weight: 500;
+    padding: 0;">&lt; All Notices &amp; Rules</a></p>
+</div>
+      
+  </div>
+
+        </div>
+                    <div class="layout__region layout__region--second">
+          
+        </div>
+            </div> 
+
+<https://www.blm.gov/announcement/call-nominations-california-desert-district-advisory-council-central-california>
+
+---
+
+## BLM seeks nominations to Resource Advisory Councils in California
+
+date: 2024-07-17, from: Bureau of Land Management, California
+
+<div class="layout layout--onecol">
+        <div class="layout__region layout__region--content">
+      
+
+  
+<div class="breadcrumb-max-width block">
+  
+    
+        <nav role="navigation" aria-labelledby="system-breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/">Home</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/media">Info</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/press-release">Press Releases</a></li>
+          <li class="breadcrumb-item">Press Releases</li>
+        </ol>
+  </nav>
+
+  </div>
+
+    </div>
+  </div>
+  <div class="layout layout--twocol-section layout--twocol-section--67-33 section-one-full-width wide-content d-flex flex-lg-nowrap">
+                  <div class="layout__region layout__region--first mb-4 mb-lg-0">
+          
+
+  
+<div class="block">
+  
+    
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p><a class="cta-button" href="https://www.blm.gov/announcement" style="
+    display: inline-block;
+    background: 0 0;
+    color: #007fad;
+    margin-bottom: 0;
+    font-weight: 500;
+    padding: 0;">&lt; All Announcements</a></p>
+</div>
+      
+  </div>
+
+        </div>
+                    <div class="layout__region layout__region--second">
+          
+        </div>
+            </div> 
+
+<https://www.blm.gov/announcement/blm-seeks-nominations-resource-advisory-councils-california>
 
 ---
 

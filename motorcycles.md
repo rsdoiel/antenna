@@ -1,11 +1,91 @@
 ---
 title: motorcycles 2024.29
-updated: 2024-07-17 08:39:54
+updated: 2024-07-18 07:46:46
 ---
 
 # motorcycles 2024.29
 
-(date: 2024-07-17 08:39:54)
+(date: 2024-07-18 07:46:46)
+
+---
+
+## China's QJ Motor Aims to Shake Up Entry-Level ADV Segment, Drops New Motorcycle
+
+date: 2024-07-18, from: Ride Apart, Electric Motorcycle News
+
+It hopes to give the Honda NX500 a run for its money.  
+
+<https://www.rideapart.com/news/726858/qj-motor-srt-550x-debut/>
+
+---
+
+## Does Everything Count as a Wheelie When Riding This EV Monowheel?
+
+date: 2024-07-18, from: Ride Apart, Electric Motorcycle News
+
+Serious question, guys: Would you have a go on this thing? 
+
+<https://www.rideapart.com/news/727004/electric-monowheel-custom-build-hoverboard/>
+
+---
+
+## Can-Am Torture-Tested Its Upcoming Motorcycles, Almost Hard To Watch
+
+date: 2024-07-18, from: Ride Apart, Electric Motorcycle News
+
+It almost hurts to see motorcycles tortured like this. But it's all for our benefit, we just have to remind ourselves of that. 
+
+<https://www.rideapart.com/news/727000/watch-can-ams-new-electric-motorcycle-testing/>
+
+---
+
+## The Royal Enfield Guerrilla 450 Wants To Stand Out From The Crowd. Does It?
+
+date: 2024-07-18, from: Ride Apart, Electric Motorcycle News
+
+Meant for all roads with no algorithms necessary, says Enfield. 
+
+<https://www.rideapart.com/news/727001/royal-enfield-guerrilla-450-details/>
+
+---
+
+## EICMA's 110th Anniversary Is Nearly Here, It’s Time To Get Your Tickets
+
+date: 2024-07-18, from: Ride Apart, Electric Motorcycle News
+
+This is it—the motorcycle show of the year. And being its 110th anniversary, there's plenty in store for eventgoers.  
+
+<https://www.rideapart.com/news/726994/eicma-110-year-edition-2024/>
+
+---
+
+## Someone Set Wire Traps to Decapitate Dirt Bikers and ATV Riders, Cops Ask for Help
+
+date: 2024-07-18, from: Ride Apart, Electric Motorcycle News
+
+There's a $1,000 reward for any info on the person.  
+
+<https://www.rideapart.com/news/726996/wire-booby-traps-dirt-bikers-atv-riders-cops-decapitate/>
+
+---
+
+## Suzuki France Goes Racing, But is Using The GSX-8S Naked Streetfighter
+
+date: 2024-07-18, from: Ride Apart, Electric Motorcycle News
+
+The 8S Cup showcases the performance and versatility of the Suzuki GSX-8S.  
+
+<https://www.rideapart.com/news/726861/suzuki-france-gsx-8s-cup-2025/>
+
+---
+
+## CFMoto 675SR-R Coming Soon
+
+date: 2024-07-17, from: Cycle World News
+
+CFMoto’s buildup for its new 675cc triple has dripped on for almost a year, and now it appears the bike is set to be officially released as a production model soon. 
+
+<https://www.cycleworld.com/motorcycle-news/cfmoto-675sr-r-coming-soon/>
 
 ---
 

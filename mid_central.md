@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.29
-updated: 2024-07-17 08:39:48
+updated: 2024-07-18 07:46:40
 ---
 
 # mid central 2024.29
 
-(date: 2024-07-17 08:39:48)
+(date: 2024-07-18 07:46:40)
+
+---
+
+## Hold that peak with a PIC
+
+date: 2024-07-17, from: EDN Blog
+
+<img width="544" height="250" src="https://www.edn.com/wp-content/uploads/PICHold_fig1_v2.jpg?fit=544%2C250" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PICHold_fig1_v2.jpg?w=544 544w, https://www.edn.com/wp-content/uploads/PICHold_fig1_v2.jpg?w=300 300w" sizes="(max-width: 544px) 100vw, 544px" /><p>A simple peak-sensing circuit that captures transient analog signals using a microcontroller’s A-D converter and very little else. </p>
+<p>The post <a href="https://www.edn.com/hold-that-peak-with-a-pic/" data-wpel-link="internal">Hold that peak with a PIC</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/hold-that-peak-with-a-pic/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2024-07-17 08:39:48
 
 date: 2024-07-17, from: EDN Blog
 
-<img width="1000" height="829" src="https://www.edn.com/wp-content/uploads/Hero-image-synopsys-4.jpg?fit=1000%2C829" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-synopsys-4.jpg?w=1000 1000w, https://www.edn.com/wp-content/uploads/Hero-image-synopsys-4.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-synopsys-4.jpg?w=768 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><p>The ISO/SAE 21434 standard defines the engineering requirements for cybersecurity to monitor, detect, and mitigate risks in vehicles.</p>
+<img width="1000" height="829" src="https://www.edn.com/wp-content/uploads/Hero-image-synopsys-4.jpg?fit=1000%2C829" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-synopsys-4.jpg?w=1000 1000w, https://www.edn.com/wp-content/uploads/Hero-image-synopsys-4.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-synopsys-4.jpg?w=768 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><p>The ISO/SAE 21434 standard defines the engineering requirements for cybersecurity to monitor, detect, and mitigate risks in vehicles.</p>
 <p>The post <a href="https://www.edn.com/automotive-processor-ip-complies-with-iso-21434-cybersecurity/" data-wpel-link="internal">Automotive processor IP complies with ISO 21434 cybersecurity</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

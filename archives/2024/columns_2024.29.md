@@ -1,11 +1,275 @@
 ---
 title: columns 2024.29
-updated: 2024-07-17 08:39:50
+updated: 2024-07-18 07:46:43
 ---
 
 # columns 2024.29
 
-(date: 2024-07-17 08:39:50)
+(date: 2024-07-18 07:46:43)
+
+---
+
+##  The reintroduction of beavers in southwest England has resulted in a marked... 
+
+date: 2024-07-18, updated: 2024-07-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044963-the-reintroduction-of-bea>
+
+---
+
+## Trumpism's next generation
+
+date: 2024-07-18, from: Robert Reich's blog
+
+JD Vance, Donald Trump Jr., and Elon Musk 
+
+<https://robertreich.substack.com/p/the-future-of-trumpworld>
+
+---
+
+## Election Countdown, 110 Days to Go: History Happening All at Once.
+
+date: 2024-07-18, from: James Fallows, Substack
+
+How should we act, when we can't know what will happen? Spoiler: we have to keep trying our best. 
+
+<https://fallows.substack.com/p/election-countdown-110-days-to-go>
+
+---
+
+## July 17, 2024
+
+date: 2024-07-18, from: Heather Cox Richardson blog
+
+On July 18, 1863, at dusk, the Black soldiers of the Massachusetts 54th Volunteer Infantry of the U.S. Army charged the walls of Fort Wagner, a fortification on Morris Island off Charleston Harbor in South Carolina. Because Fort Wagner covered the southern entrance to the harbor, it was key to enabling the U.S. government to take the city. 
+
+<https://heathercoxrichardson.substack.com/p/july-17-2024>
+
+---
+
+##  An Online Database of Marimekko Patterns 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/an-online-database-of-marimekko-patterns>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-17, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=Z0GFRcFm-aY">It's the End of the World as We Know It (And I Feel Fine)</a>.
+ 
+
+<http://scripting.com/2024/07/17.html#a220627>
+
+---
+
+## Nana Kitty played Shoreline
+
+date: 2024-07-17, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/07/17/grandmaKittyPlaysShorelineWithTheDead.png"></center>Wordle Kitty's great grandma plays with the Dead at Shoreline in the 80s. </div></p>
+ 
+
+<http://scripting.com/2024/07/17/220302.html?title=nanaKittyPlayedShoreline>
+
+---
+
+##  A Guide to Miyazaki&#8217;s Weird Little Guys: warawara, susuwatari (soot sprites), kodama,... 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044962-a-guide-to-miyazakis-weir>
+
+---
+
+## Tech is a philosophy
+
+date: 2024-07-17, from: Tracy Durnell Blog
+
+Without our agreement or desire, we’re forced into dependence on technologies that are expensive and have disastrous consequences for both the living planet and for human social connections. Over time, societies are taught to forget those harms. The forgetting is intentional. I used to be an &#8220;assume new tech is good&#8221; person, but I&#8217;ve learned [&#8230;] 
+
+<https://tracydurnell.com/2024/07/17/tech-is-a-philosophy/>
+
+---
+
+##  A useful tool for students & researchers (&#8220;educational purposes only&#8221;): Bypass Paywalls... 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044960-a-useful-tool-for-student>
+
+---
+
+## Selective Memory in Milwaukee
+
+date: 2024-07-17, from: Dan Rather's Steady
+
+Donald Trump&#8217;s repugnant record is MIA at the RNC 
+
+<https://steady.substack.com/p/selective-memory-in-milwaukee>
+
+---
+
+## AirPods Pro at Amazon: $169
+
+date: 2024-07-17, updated: 2024-07-17, from: Daring Fireball
+
+ 
+
+<https://amzn.to/3Y8cRVv>
+
+---
+
+##  Lessons from the recent French elections. &#8220;You have to vote! You have... 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044958-lessons-from-the-recent-f>
+
+---
+
+## ★ The AT&T Data Breach Shows Why RCS Can’t Be Trusted and the Downside of Apple Adding Support for It in iOS 18
+
+date: 2024-07-17, updated: 2024-07-17, from: Daring Fireball
+
+SMS wasn’t dying, but it was slowly fading away, and should have been left for things like automated “your table is ready” notifications from restaurants. RCS is just going to give carrier-based messaging new legs that it shouldn’t have gotten. 
+
+<https://daringfireball.net/2024/07/att_data_breach_rcs_ios>
+
+---
+
+## My long strange trip into home automation
+
+date: 2024-07-17, from: Matt Haughey blog
+
+<p>Over the past few years I&apos;ve written about things I&apos;ve done around my home, like putting in <a href="https://a.wholelottanothing.org/how-to-build-a-5-acre-wifi-network-cheap-reliable-long-range-wireless-points-make-amazing-things-possible/" rel="noreferrer">a five-acre wide WiFi network</a> or <a href="https://a.wholelottanothing.org/entering-your-home-with-just-a-tap-nfc-and-ios/" rel="noreferrer">tapping a NFC tag to unlock the front door</a>, and I think I&apos;ve finally figured out a novel setup for home</p> 
+
+<https://a.wholelottanothing.org/my-long-strange-trip-into-home-automation/>
+
+---
+
+##  Project 2025: The Minority Rule by Extremists 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/project-2025-the-minority-rule-by-extremists>
+
+---
+
+## Field Notes. 07.17.2024
+
+date: 2024-07-17, from: Om Malik blog
+
+&#8220;In 2023, intense competition among over 100 LLMs has emerged in China, resulting in a significant waste of resources, particularly computing power. I&#8217;ve noticed that many people still primarily focus on foundational models. But I want to ask: How about real-world applications? Who has benefitted from them?&#8221; Robin Li Yanhong,&#160;the founder and CEO of Baidu &#8230; 
+
+<https://om.co/2024/07/17/field-notes-07-17-2024/>
+
+---
+
+##  The best Prime Day deal is Apple&#8217;s AirPods Pro (2nd gen) on... 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044956-the-best-prime-day-deal>
+
+---
+
+##  Immunotherapy Is Changing Cancer Treatment Forever. &#8220;Immunotherapy&#8230;has produced breakthroughs for previously untreatable... 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044959-immunotherapy-is-changing>
+
+---
+
+## July 16, 2024
+
+date: 2024-07-17, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/july-16-2024-bf3>
+
+---
+
+## Social internet has ED
+
+date: 2024-07-17, from: Om Malik blog
+
+Interaction bait is killing social media. You know what I’m talking about. Those posts that are designed to get you to comment, like, or share. They’re everywhere, and they’re getting more and more annoying. People are posting things that are clearly designed to get a reaction. And it’s not just the posts themselves that are &#8230; 
+
+<https://om.co/2024/07/17/social-internet-has-ed/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-17, from: Dave Winer's Scripting News)
+
+The Repubs can win by throwing the election into the House. They can probably get it by the courts in enough places, just a couple of swing states, and they win even if they lose by normal vote-counting methods. The whole bit about Biden's age is meant to distract us from the fact it probably doesn't matter how old the Democratic candidate is. 
+
+<http://scripting.com/2024/07/17.html#a172051>
+
+---
+
+##  On Politics and Poetry 
+
+date: 2024-07-17, updated: 2024-07-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/on-politics-and-poetry>
+
+---
+
+## Delightful, friendly maps
+
+date: 2024-07-17, from: Tracy Durnell Blog
+
+I know this article isn&#8217;t *really* about maps, but I *have* wished Google Maps had a &#8220;scenic route&#8221; option. (It seems I&#8217;m not the only one who wants more options in Google Maps.) I figure you could combine actual scenic routes with old highways that often run alongside the freeways that replaced them for road [&#8230;] 
+
+<https://tracydurnell.com/2024/07/17/delightful-friendly-maps/>
+
+---
+
+## Cloudflare Reports that Almost 7% of All Internet Traffic Is Malicious
+
+date: 2024-07-17, updated: 2024-07-17, from: Bruce Schneier blog
+
+<p><a href="https://www.crowdstrike.com/2024-state-of-application-security-report/">6.8%</a>, to be precise.</p>
+<p>From <a href="https://www.zdnet.com/article/cloudflare-reports-almost-7-percent-of-internet-traffic-is-malicious/">ZDNet</a>:</p>
+<blockquote><p>However, <a href="https://www.zdnet.com/article/what-is-a-ddos-attack-everything-you-need-to-know-about-ddos-attacks-and-how-to-protect-against-them/">Distributed Denial of Service (DDoS)</a> attacks continue to be cybercriminals&#8217; weapon of choice, making up over 37% of all mitigated traffic. The scale of these attacks is staggering. In the first quarter of 2024 alone, Cloudflare blocked 4.5 million unique DDoS attacks. That total is nearly a third of all the DDoS attacks they mitigated the previous year.</p>
+<p>But it&#8217;s not just about the sheer volume of DDoS attacks. The sophistication of these attacks is increasing, too. Last August, <a href="https://www.zdnet.com/article/google-cloud-aws-and-cloudflare-report-largest-ddos-attacks-ever/">Cloudflare mitigated a massive HTTP/2 Rapid Reset DDoS attack that peaked at 201 million requests per second (RPS)...</a></p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/07/cloudflare-reports-that-almost-7-of-all-internet-traffic-is-malicious.html>
+
+---
+
+## Hello from 2024
+
+date: 2024-07-17, from: Dave Winer's Scripting News
+
+<p>A <a href="http://scripting.com/2024/07/17/helloFrom2024.m4a">podcast</a> about listening to the podcasts from 2004. </p>
+<p>This is a short episode about what I learned, and what's coming up.</p>
+<p>Humbling experience. </p>
+ 
+
+<http://scripting.com/2024/07/17/155053.html?title=helloFrom2024>
 
 ---
 
@@ -222,7 +486,7 @@ date: 2024-07-16, updated: 2024-07-16, from: Jason Kittke's blog
 
 date: 2024-07-16, from: Om Malik blog
 
-I’ve been a happy Apple One customer. It made perfect sense signing up for the package considering I was paying for Apple TV+, Apple Music and iCloud storage. For an extra couple of dollars, I could get Apple News+, so I thought why not. That ended today, when I learned that Apple had struck a &#8230; 
+I’ve been a happy Apple One customer. It made perfect sense to sign up for the package considering I was paying for Apple TV+, Apple Music, and iCloud storage. For an extra couple of dollars, I could get Apple News+, so I thought why not. That ended today when I learned that Apple had struck &#8230; 
 
 <https://om.co/2024/07/16/taboola-apple-news-no-thanks/>
 
