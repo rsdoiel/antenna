@@ -1,11 +1,323 @@
 ---
 title: columns 2024.29
-updated: 2024-07-18 07:46:43
+updated: 2024-07-19 07:54:33
 ---
 
 # columns 2024.29
 
-(date: 2024-07-18 07:46:43)
+(date: 2024-07-19 07:54:33)
+
+---
+
+## Google Is Mind-Bogglingly Bad
+
+date: 2024-07-19, from: Om Malik blog
+
+A few days ago I&#160;wondered&#160;aloud, “What&#160;would happen if&#160;Google CEO&#160;Sundar Pichai decided to sign up for Google Cloud using a secret identity, without getting help from any of his&#160;staff?”&#160;I added, “Every single CEO should try&#160;to&#160;use their service as if they were a new customer that the company is going to try and win over. That alone &#8230; 
+
+<https://om.co/2024/07/19/google-is-mind-bogglingly-bad/>
+
+---
+
+##  Deadpan comic icon Bob Newhart has died at age 94. I was... 
+
+date: 2024-07-19, updated: 2024-07-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044973-deadpan-comic-icon-bob-ne>
+
+---
+
+## Where is Qualcomm's Snapdragon X Elite Dev Kit?
+
+date: 2024-07-19, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Where is Qualcomm's Snapdragon X Elite Dev Kit?</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>I signed up to buy a Qualcomm Snapdragon X Dev Kit the second I found out about it. It's <em>supposed to be</em> the <a href="https://www.xda-developers.com/3-reasons-snapdragon-dev-kit-mac-mini-killer/">Mac mini killer for Windows</a>.</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/snapdragon-dev-kit-transparent.jpg" alt="Snapdragon X Elite Dev Kit Transparent"></p>
+
+<p>They even promoted it with <a href="https://www.theverge.com/2024/5/21/24158603/qualcomm-windows-snapdragon-dev-kit-x-elite">this amazing-looking transparent shell</a>, and I and hundreds of other devs were ready to pony up the $899 Qualcomm was asking.</p>
+
+<p>Their pre-order form said it would be out June 18. Almost exactly one month later, I got an email saying it was available. Great!</p>
+
+<p>So I went to <a href="https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm">the purchase page on Arrow</a>... and it showed as out of stock. That was about 15 minutes after receiving the email.</p>
+
+<p>There were three possibilities:</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-07-19T09:04:14-05:00" title="Friday, July 19, 2024 - 09:04" class="datetime">July 19, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/where-qualcomms-snapdragon-x-elite-dev-kit>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-19, from: Dave Winer's Scripting News)
+
+Now that <a href="https://slate.com/business/2024/07/elon-musk-donald-trump-donation-republican-twitter-troll-meme-posts.html">Elon Musk</a> is giving so generously, dollars and flow, to the fascists, he's encouraging more of us to use Zuckerberg's twitter-like system, aka Threads. But Zuck isn't making it go down easy. There's a piece in Bloomberg (paywall) that says Trump is <a href="https://www.theguardian.com/us-news/live/2024/jul/19/trump-biden-rnc-democrats-election-updates">badass</a> but isn't supporting either candidate. What could possibly go wrong? 
+
+<http://scripting.com/2024/07/19.html#a132857>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-19, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/09/20/bounce.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://ma.tt/2024/07/6-6/">Matt says</a> some interesting new stuff is coming from Automattic now that <a href="https://wordpress.org/news/2024/07/dorsey/">WordPress 6.6</a> is out. Something for writers? Perhaps something that moves WordPress into a space adjacent to twitter-like systems? They just added support for Threads to WordPress, so now you can <a href="https://jetpack.com/social/">crosspost</a> from a blog to a thread. Haven't tried it yet. They also have a new <a href="https://blog.gravatar.com/2024/06/03/profiles-as-a-service/">identity system</a> built around Gravatar, announced in early June. It'll be interesting to see what they come out with. I wonder if there is a developer ecosystem building on this, and if they have an evangelism program. I have my own vision of how these things should work. 
+
+<http://scripting.com/2024/07/19.html#a130945>
+
+---
+
+## 2024-07-19 Trusting a self-signed certificate
+
+date: 2024-07-19, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-19-trusting-a-self-signed-certificate">2024-07-19 Trusting a self-signed certificate</h1>
+
+<p><a class="account" href="https://mastodon.social/@sarahjamielewis" title="@sarahjamielewis@mastodon.social">@sarahjamielewis</a> recently announced an IRC server with a self-signed certificate. What if you have an IRC client that keeps complaining about this?</p>
+
+<p>On a system like Debian, you can download the certificate and install it such that all applications trust it.</p>
+
+<pre><code># Get certificate from the correct port
+openssl s_client -showcerts -connect resistant.tech:6697 \
+  &lt; /dev/null \
+  2&gt; /dev/null \
+  | openssl x509 -outform PEM \
+  &gt; resistant-tech.pem
+
+# Compare fingerprint with
+# 63:B1:2E:A7:8A:BD:8A:33:B5:62:21:7C:42:71:75:66:43:BA:D2:78:21:09:8E:80:17:7E:28:D2:58:65:E6:48
+openssl x509 -in resistant-tech.pem -noout -sha256 -fingerprint
+
+# Install on Debian (the new extension is important)
+sudo mv --interactive resistant-tech.pem /usr/local/share/ca-certificates/resistant-tech.crt
+sudo dpkg-reconfigure ca-certificates
+
+# The output above should say &quot;1 added, 0 removed; done&quot; somewhere
+
+# Test it
+gnutls-cli resistant.tech:6697
+</code></pre>
+
+<p>If the output says &ldquo;PKI verification of server certificate failed&hellip;&rdquo; then the installation didn&rsquo;t work.</p>
+
+<p>If the output says &ldquo;Handshake was completed&rdquo; and seems to hang, that&rsquo;s because you can now type raw IRC commands.</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a></p>
+
+<p>(I saw comments by myself on related Stack Exchange questions from 2014. 😑)</p> 
+
+<https://alexschroeder.ch/view/2024-07-19-self-signed>
+
+---
+
+## Debunking Myth #8: “Corporate tax cuts create jobs”
+
+date: 2024-07-19, from: Robert Reich's blog
+
+BUNK! 
+
+<https://robertreich.substack.com/p/debunking-myth-8-corporate-tax-cuts>
+
+---
+
+## July 18, 2024 
+
+date: 2024-07-19, from: Heather Cox Richardson blog
+
+Paul Manafort walking onto the floor of the Republican National Convention yesterday illustrated that the Republican Party under Trump has become thoroughly corrupted into an authoritarian party aligned with foreign dictators. Manafort first advised and then managed Trump&#8217;s 2016 campaign. A long-time Republican political operative, he came to the job after the Ukrainian people threw his client,Viktor Yanukovych out of Ukraine&#8217;s presidency in 2014. Yanukovych was backed by Russian president Vladimir Putin, who was determined to prevent Ukraine from turning toward Europe and to install a puppet government that would extend his power over the neighboring country. Beginning in 2004, Manafort had worked to install and then keep Yanukovych and his party in power. His efforts won him a fortune thanks to his new friends, especially Russian billionaire Oleg Deripaska. Then in 2014, after months of popular protests, Ukrainians ousted Yanukovych from power in what is known as the Revolution of Dignity. 
+
+<https://heathercoxrichardson.substack.com/p/july-18-2024>
+
+---
+
+## Minimalist and Functional Desktop Environment without Xorg
+
+date: 2024-07-19, from: mrusme blog
+
+A brief write-up on how I've set up my Linux desktop environment to be minimal
+yet functional, to let me work and use the computer as efficiently as
+possible. All without using Xorg. 
+
+<https://xn--gckvb8fzb.com/minimalist-and-functional-desktop-environment-without-xorg/>
+
+---
+
+## Summer rental
+
+date: 2024-07-18, from: Dave Rupert blog
+
+<p>4:05am<br />
+The windows are open, hoping to capture the faint winds and convert them into a mythical cooling cross-breeze. A gust passes through vacuuming all the doors shut, cancelling hope for a miracle.<br />
+I’m awake. It’s cool but I’m on top of the covers and not cool enough.<br />
+The plastic thump-thump-thump of the oscillating fan reaching the end of its arc is rhythmic yet not. After three-to-six attempts, it yields to the resistance and heads the other way. It will be back soon.<br />
+Another fan in the room sounds like a far off propeller plane looping around the property. I await its arrival at each approach.<br />
+The alleyway ebbs and flows throughout the night with the smell of marijuana smoke, teens cussing, and the clinking of bottles as passers-by rummage through recycling bins.<br />
+There’s a sick child in the other room. My child. Been sick for days, poor thing. On antibiotics now. Spit the first dose on the floor because she didn’t like the taste.<br />
+I can hear her labored breath as different subconscious systems battle for what they deem as comfortable. Warm, yet shivering. Cold, yet burning up. Asleep, yet aware.<br />
+My wife is there next to her. Also sick with a persistent unspecified cough.<br />
+Since arriving at the rental three days ago, I have only left the house to buy medicine and wine.</p>
+<p>7:23am<br />
+Scuttling in the alleyway. Two voices. A truck starts. A woman pleads, “I’m sorry, I fucked up.” The truck drives off.<br />
+I put on a pot of coffee.</p>
+<p>9:15am<br />
+Left the rental to walk and pick up breakfast. Peeked at the ocean to remind myself of the magnitude. I’m a block away but hadn’t seen it in days.<br />
+I got a breakfast burrito. The potatoes were a little al dente, but it had black beans and wasn’t a soupy mess so I call that a win.<br />
+PCR tests came back and it’s not Covid and it’s not strep, but we don’t have any answer for what sickness(es?) our family is dealing with.<br />
+I’m on vacation but it’s not quite vacation anymore.<br />
+I’m working a bit. Dysfunctional but I appreciate a place to channel anxiety.<br />
+Caretaking is much harder than computer work.</p>
+<p>4:46pm<br />
+We made it to the beach. Wife and son thought it was too windy for my solar shade —and it was— but I persevered. After naysaying me they had the audacity to want to join me in my solar fortress. Haha. Nice try.<br />
+My congested little one made me pretend food with wet sand. She’s allowed to join me in my fortress.<br />
+We left as the tide came in and ordered pizza. The pizza was just okay.</p>
+<p>9:44pm<br />
+A good day. A long day.<br />
+Another member of the family is reporting a sore throat, so that’s less than ideal.<br />
+“When this vacation is over I’m going to need another vacation,” the protagonist says looking directly through the fourth wall. The canned laughter erupts.<br />
+Do wells of rage fill up faster than waters of peace? Am I broken or is the underlying system broken?</p>
+<p>5:32am<br />
+Awakened by two crows squawking at each other.<br />
+I went to bed after midnight. A new day begins.</p> 
+
+<https://daverupert.com/2024/07/summer-rental/>
+
+---
+
+## Friday 19 July, 2024
+
+date: 2024-07-18, from: John Naughton's online diary
+
+Gehry’s tower For the new Luna Centre in Arles. Quite a building. Quote of the Day “I regard not finding Lord Lucan as my most spectacular success in journalism. Of course, many of my colleagues have also been fairly successful &#8230; <a href="https://memex.naughtons.org/friday-19-july-2024/39650/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-19-july-2024/39650/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-18, from: Dave Winer's Scripting News)
+
+If the world doesn't know you did something you might as well not have done it. This is what <a href="https://en.wikipedia.org/wiki/Douglas_Engelbart">Doug Engelbart</a> learned, and what we learned in his aftermath. He is known for inventing the mouse, because that's the one thing he invented everyone knows about. He also developed software that pioneered using a computer to <a href="https://web.stanford.edu/class/history34q/readings/Engelbart/Engelbart_AugmentIntellect.html">organize your ideas</a>. For the most part people don't know about that because (I guess) most people don't organize their work? 
+
+<http://scripting.com/2024/07/18.html#a210120>
+
+---
+
+##  Peregrine Falcon Killing a Duck in Mid-Air 
+
+date: 2024-07-18, updated: 2024-07-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/peregrine-falcon-killing-a-duck-in-mid-air-1>
+
+---
+
+##  Heartbreaking: This Guy Has No Idea That He&#8217;s So Strange And Memorable-Looking... 
+
+date: 2024-07-18, updated: 2024-07-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044969-heartbreaking-this-guy-ha>
+
+---
+
+## Tonight: Put on your seatbelts, watch your wallets, bring your parachute, and join us
+
+date: 2024-07-18, from: Robert Reich's blog
+
+For a watchalong of Trump&#8217;s acceptance speech at 10pm ET, 7pm PT 
+
+<https://robertreich.substack.com/p/tonight-put-on-your-seatbelts-watch>
+
+---
+
+##  Keanu Reeves & China Miéville have written a novel called The Book... 
+
+date: 2024-07-18, updated: 2024-07-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044972-keanu-reeves-china-mievil>
+
+---
+
+## July 17, 2024
+
+date: 2024-07-18, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/july-17-2024-e4f>
+
+---
+
+##  Moving Posters for Studio Ghibli Films 
+
+date: 2024-07-18, updated: 2024-07-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/moving-posters-for-studio-ghibli-films>
+
+---
+
+##  California has strengthened its electrical grid significantly in recent years: no rolling... 
+
+date: 2024-07-18, updated: 2024-07-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044970-california-has-strengthen>
+
+---
+
+##  Interactive map from the University of Maryland Center for Environmental Science: What... 
+
+date: 2024-07-18, updated: 2024-07-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044968-interactive-map-from-the->
+
+---
+
+## Criminal Gang Physically Assaulting People for Their Cryptocurrency
+
+date: 2024-07-18, updated: 2024-07-18, from: Bruce Schneier blog
+
+<p>This is <a href="https://www.wired.com/story/crypto-home-invasion-crime-ring/">pretty horrific</a>:</p>
+<blockquote><p>&#8230;a group of men behind a violent crime spree designed to compel victims to hand over access to their cryptocurrency savings. That announcement and the criminal complaint laying out charges against St. Felix focused largely on a single theft of cryptocurrency from an elderly North Carolina couple, whose home St. Felix and one of his accomplices broke into before physically assaulting the two victims&#8212;­both in their seventies&#8212;­and forcing them to transfer more than $150,000 in Bitcoin and Ether to the thieves&#8217; crypto wallets...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/07/criminal-gang-physically-assaulting-people-for-their-cryptocurrency.html>
+
+---
+
+##  Inside the Trump Plan for 2025 
+
+date: 2024-07-18, updated: 2024-07-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/inside-the-trump-plan-for-2025>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-18, from: Dave Winer's Scripting News)
+
+I'm avoiding the actual RNC, the speakers are just actors. Trump looks like the Queens kid he is. People from Queens don't feel like we really belong, except with other Queens people. We expect to be thought of as the kid from Queens. I know this so well. So the "boss" slumps around not sure what to do or say. He's not gregarious. Not in charge of anything. 
+
+<http://scripting.com/2024/07/18.html#a145522>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-18, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@nancywicklundgonzalez/post/C9kHz4POkP7">Nancy Wicklund Gonzalez</a>: "I’ve had to switch to watching the BBC. American news is unwatchable. Between the lionization of a sociopath and the denigration of a decent man, I just can’t even." 
+
+<http://scripting.com/2024/07/18.html#a144830>
 
 ---
 
@@ -61,8 +373,7 @@ date: 2024-07-17, updated: 2024-07-17, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-07-17, from: Dave Winer's Scripting News)
 
-Today's song: <a href="https://www.youtube.com/watch?v=Z0GFRcFm-aY">It's the End of the World as We Know It (And I Feel Fine)</a>.
- 
+Today's song: <a href="https://www.youtube.com/watch?v=Z0GFRcFm-aY">It's the End of the World as We Know It (And I Feel Fine)</a>. 
 
 <http://scripting.com/2024/07/17.html#a220627>
 

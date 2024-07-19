@@ -1,11 +1,729 @@
 ---
 title: tech likely 2024.29
-updated: 2024-07-18 07:46:42
+updated: 2024-07-19 07:54:32
 ---
 
 # tech likely 2024.29
 
-(date: 2024-07-18 07:46:42)
+(date: 2024-07-19 07:54:32)
+
+---
+
+## Cámara Poética: the original poetry camera?
+
+date: 2024-07-19, from: Raspberry Pi News (.com)
+
+<p>Cámara Poética translates images into poetic texts using a Raspberry Pi 3B+ and an algorithm based on Markov chains. </p>
+<p>The post <a href="https://www.raspberrypi.com/news/camara-poetica-the-original-poetry-camera/">Cámara Poética: the original poetry camera?</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/camara-poetica-the-original-poetry-camera/>
+
+---
+
+##  Deadpan comic icon Bob Newhart has died at age 94. I was... 
+
+date: 2024-07-19, updated: 2024-07-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044973-deadpan-comic-icon-bob-ne>
+
+---
+
+## Where is Qualcomm's Snapdragon X Elite Dev Kit?
+
+date: 2024-07-19, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Where is Qualcomm's Snapdragon X Elite Dev Kit?</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>I signed up to buy a Qualcomm Snapdragon X Dev Kit the second I found out about it. It's <em>supposed to be</em> the <a href="https://www.xda-developers.com/3-reasons-snapdragon-dev-kit-mac-mini-killer/">Mac mini killer for Windows</a>.</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/snapdragon-dev-kit-transparent.jpg" alt="Snapdragon X Elite Dev Kit Transparent"></p>
+
+<p>They even promoted it with <a href="https://www.theverge.com/2024/5/21/24158603/qualcomm-windows-snapdragon-dev-kit-x-elite">this amazing-looking transparent shell</a>, and I and hundreds of other devs were ready to pony up the $899 Qualcomm was asking.</p>
+
+<p>Their pre-order form said it would be out June 18. Almost exactly one month later, I got an email saying it was available. Great!</p>
+
+<p>So I went to <a href="https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm">the purchase page on Arrow</a>... and it showed as out of stock. That was about 15 minutes after receiving the email.</p>
+
+<p>There were three possibilities:</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-07-19T09:04:14-05:00" title="Friday, July 19, 2024 - 09:04" class="datetime">July 19, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/where-qualcomms-snapdragon-x-elite-dev-kit>
+
+---
+
+## Monumental Proof Settles Geometric Langlands Conjecture
+
+date: 2024-07-19, from: Quanta Magazine
+
+In work that has been 30 years in the making, mathematicians have proved a major part of a profound mathematical vision called the Langlands program.            <p>The post <a href="https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/" target="_blank">Monumental Proof Settles Geometric Langlands Conjecture</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/>
+
+---
+
+## What Are Sheaves?
+
+date: 2024-07-19, from: Quanta Magazine
+
+These metaphorical gardens have become central objects in modern mathematics.            <p>The post <a href="https://www.quantamagazine.org/what-are-sheaves-20240719/" target="_blank">What Are Sheaves?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/what-are-sheaves-20240719/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-19, from: Dave Winer's Scripting News)
+
+Now that <a href="https://slate.com/business/2024/07/elon-musk-donald-trump-donation-republican-twitter-troll-meme-posts.html">Elon Musk</a> is giving so generously, dollars and flow, to the fascists, he's encouraging more of us to use Zuckerberg's twitter-like system, aka Threads. But Zuck isn't making it go down easy. There's a piece in Bloomberg (paywall) that says Trump is <a href="https://www.theguardian.com/us-news/live/2024/jul/19/trump-biden-rnc-democrats-election-updates">badass</a> but isn't supporting either candidate. What could possibly go wrong? 
+
+<http://scripting.com/2024/07/19.html#a132857>
+
+---
+
+## victimology
+
+date: 2024-07-19, from: Ayjay blog
+
+I’ve been meaning for some time to write a brief post about Freddie deBoer’s case for forcing mentally ill people into treatment — or rather, about one element of the story. And then today I see a new post by Freddie on this review of this book by Jonathan Rosen, and that got the wheels [&#8230;] 
+
+<https://blog.ayjay.org/victimology/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-19, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/09/20/bounce.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://ma.tt/2024/07/6-6/">Matt says</a> some interesting new stuff is coming from Automattic now that <a href="https://wordpress.org/news/2024/07/dorsey/">WordPress 6.6</a> is out. Something for writers? Perhaps something that moves WordPress into a space adjacent to twitter-like systems? They just added support for Threads to WordPress, so now you can <a href="https://jetpack.com/social/">crosspost</a> from a blog to a thread. Haven't tried it yet. They also have a new <a href="https://blog.gravatar.com/2024/06/03/profiles-as-a-service/">identity system</a> built around Gravatar, announced in early June. It'll be interesting to see what they come out with. I wonder if there is a developer ecosystem building on this, and if they have an evangelism program. I have my own vision of how these things should work. 
+
+<http://scripting.com/2024/07/19.html#a130945>
+
+---
+
+## Peanut Butter Hit a Walk-Off Dinger
+
+date: 2024-07-19, updated: 2024-07-19, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/07/19/peanut-butter-hit-a-walk-off-dinger/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-19, from: Miguel de Icaza Mastondon feed)
+
+<p>Yesterday I did half a day of SwiftLint endorphin injection and half a day of measuring dialog font sizes.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112813202864238328>
+
+---
+
+## P&B: Luke Harris
+
+date: 2024-07-19, from: Manu - I write blog
+
+
+                <p>This is the 47th edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Luke Harris and his blog, <a href="https://www.lkhrs.com">www.lkhrs.com</a></p>
+<p><a href="https://kevquirk.com/">Kev Quirk</a> suggested Luke as a potential guest way back in September, when this series was in its infancy. I'm quite sure I stumbled on Luke's site before that, though.  </p>
+<p>To follow this series <a href="https://peopleandblogs.com">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<p>If you're enjoying the People and Blogs series and you want to see it grow, consider supporting on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a>.</p>
+<hr />
+<h2>Let's start from the basics: can you introduce yourself?</h2>
+<p>I’m Luke, I’m 29, and I live in Chicago with my partner and five cats. I grew up in Austin, Texas. I was homeschooled—which was horrific—and haven’t gone to college yet.</p>
+<p>I’m in-between jobs at the moment; I’ve been looking for IT and web development work. For the last eleven years I’ve been doing web design on the side in addition to full-time jobs in electrical, HVAC, apartment maintenance, logistics brokering, and healthcare IT. Web design and working in tech was The Dream™ for a long time; with each new non-tech job I kept telling myself it was just a brief interlude before I was “discovered” and hired for a wonderful position doing what I love. But experience and rejection slowly eroded the naivety away. I still love this stuff but with how turbulent things have been in the industry these last few years, I’ve been looking at what else I can do for a career besides drawing rectangles and making logos bigger.</p>
+<p>My hobbies include blogging (whoa), playing video games, reading books, listening to music, and coding. Lately I’ve been playing Helldivers 2, Diablo IV, and Rimworld. Learning Go has been an obsession for the last year and I’ve been having fun building a form handler. The code is a complete mess right now but a couple weeks ago I got it to take a form submission and send me an email—which made me so excited that I haven’t touched the project since.</p>
+<h2>What's the story behind your blog?</h2>
+<p>My first blog was on Blogger in 2010. I frequented a number of forums at the time and I saw other people had their blogs linked in their signature, and I thought it was cool to have a spot all my own for topics that didn’t fit the theme of those forums. Early posts centered around the computer forum I started during that time.</p>
+<p>In March 2011 I moved to WordPress and decided the previous posts weren’t worth moving, and their teenage angst is lost to time. Frustrated with WordPress, I moved over to Tumblr for a couple months before pulling a 180 and moving right back to WordPress in June 2011. My posts continued to revolve around running my forums—now multiple—and random computer activities I was up to that day.</p>
+<p>In 2013 I switched to Anchor CMS (RIP Charlotte). This is when the first rendition of the cactus logo I use on my site showed up. I <em>loved</em> the Markdown approach to blogging after fighting the WordPress editor, but I wasn’t able to delete comments and I missed the WordPress media gallery. Later that same year I moved to WordPress for the third time. For the next couple of years I wrote about my solutions to problems I encountered and my adventures in Elite: Dangerous.</p>
+<p>2016 saw a decline in posts and the beginning of a 4-year hiatus from blogging altogether. I met my partner that same year. Embarrassed by my teenage self and uncertain how to market my web design services, I took down the blog and switched my site to a resume-like Gatsby template. </p>
+<p>I started things back up again in 2020 with the fourth return to WordPress, this time embracing the Gutenberg editor and boasting about how not-Jamstack my site was—out of exasperation with Gatsby’s build times. But as usual at this point, my time on WordPress wouldn’t last long and in 2021 I moved to Eleventy, followed by Hugo a few months later.</p>
+<p>For the first year after my return to blogging, I mainly wrote about web development and tech. In 2022 I grew tired of this; I love those things but they can be incredibly dry and I wanted to express myself more. I started writing more about life and posted about <a href="https://www.lkhrs.com/blog/2022/08/wiper-adventure/">my trip to purchase wiper blades</a>, which became a reader favorite. I went back and forth on whether to separate the tech posts or keep posting through it, and ultimately decided it doesn’t matter. I write about what interests me and let the people following my blog decide for themselves.</p>
+<p>My blog also functioned as my portfolio, and I went back and forth on this for years until I removed the portfolio and business parts for good a couple years ago. I felt like trying to attract business on my personal site limited what I could write about, and it was so freeing to finally rip that stuff out. </p>
+<h2>What does your creative process look like when it comes to blogging?</h2>
+<p>I consume an unhealthy amount of articles every day and a lot of my inspiration comes from the excellent people who live in my RSS reader. I’ll get an idea in my head and start writing to uncover more meaning behind it—like sculpting but less cool. Sometimes I start with a good title and then the rest flows out as I think through it in real time. Other times I might be journaling my thoughts and a sentence will grow into three paragraphs, a title will appear, and eventually the whole mess finds its way into my blog. I try to publish posts the same day I start them; my drafts folder is where posts go to die.</p>
+<p>I research almost every post, which is a problem because I can get way too into the research portion and kill my writing flow. Even the personal posts will have me going through maps and photos to make sure I’ve got the story and names straight. I keep reminding myself that I don’t need to provide proof for absolutely everything.</p>
+<p>On days or topics where I feel less confident I ask my partner to proofread. I re-read what I write about 15-20 times and when the frustration reaches a breaking point I switch to Sublime Merge, close my eyes, hit the keys to stage/commit/push, and whisper a prayer to the gods of blogging.</p>
+<p>Once a post is published I have a habit of re-reading what I wrote 5–10 <em>more</em> times because the context switch from my editor to the wild web tends to inspire additional changes. I consider this part an unhealthy obsession and I’m working on not doing that and posting carefree to the wind.</p>
+<h2>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</h2>
+<p>My ideal creative environment is on an airplane mid-flight after they’ve passed out the complimentary snacks and drinks that you can’t taste because you’ve temporarily surfaced above nature’s tender embrace, and in your newfound godhood your thoughts drift to thinking about how we never should have left the trees all those years ago. Many posts have started in the shower, where I’ll strike upon a turn of phrase that I like and then do my darnedest to remember it when I’m dry enough to type it out.</p>
+<p>I can’t be airborne or in the shower perpetually, so I gladly settle for my desk in the corner with a nice cup of coffee and one of five cats in my lap. The physical space I’m in absolutely influences my creativity; I struggle to think in loud environments with sounds I can’t tune out.</p>
+<p>Noise-cancelling headphones help a lot. I find being unable to hear my keystrokes to be incredibly helpful for staying in the trance-like state of the zone while writing. I put on music that I’ve either heard a bazillion times or with few lyrics. Lately my go-to has been Chicago house inspired.</p>
+<h2>A question for the techie readers: can you run us through your tech stack?</h2>
+<p>My blog is generated with Hugo and hosted on Cloudflare Pages. The domain is registered through Namecheap. My CMS is my operating system and text editor, which can be a frustrating combination at times but it works. I use Hugo’s archetypes feature to start a new post with the front matter populated, and then Hugo opens it in iA Writer. Final edits happen in Sublime Text.</p>
+<h2>Given your experience, if you were to start a blog today, would you do anything differently?</h2>
+<p>There’s a lot I’d do with hindsight. For example, I had to switch my domain from a .work to a .com TLD a few years ago because the .work TLD made it onto a few widely-used corporate firewall blocklists years after I registered mine, to the point where I couldn’t access my own website in a coffee shop one day. While preventing potential employers and coworkers from accessing my site could be a useful feature, I’d go with a boring TLD from the start.</p>
+<p>I would have separated my consulting from my personal site earlier. And I would have kept my site as my main online presence, instead of dumping words into various social media platforms for five minutes of fame. A lot of those words and images are lost now.</p>
+<p>I’d still switch up my tech stack with the season though. Part of me enjoys creating problems for my future self.</p>
+<h2>Financial question since the Web is obsessed with money: how much does it cost to run your blog? Is it just a cost, or does it generate some revenue? And what's your position on people monetising personal blogs?</h2>
+<ul>
+<li>Domains renewal: $28 USD/year</li>
+<li>Cloudflare Pages: $0</li>
+</ul>
+<p>Way back near the start I had banner ads, but they produced pennies a year and looked terrible. I <a href="https://ko-fi.com/lkhrs">recently set up a Ko-fi page</a> and added the link to the bottom of my blog posts, and a couple wonderful readers have funded domain renewals for the next couple of years. And I’ve been hired by people who found me via my blog—that counts, right?</p>
+<p>I absolutely support monetizing personal blogs. Those recurring costs add up and it’s another avenue for people to send you warm and fuzzy feelings. But it should be tasteful. Am I running around town wearing clothing plastered with ads for the latest VC-funded grift? (No, but please reach out if that’s an option. People don’t need to know it’s me). On the blog it’s different; my literal name and persona is wrapped up in it. When I added banner ads it felt filthy, like I sold my soul to the company with the largest fraction of a penny on AdSense. It would take a large—not small—dump truck load of pennies to make me consider doing that again. The sponsored article people have tried hard, but every time I ask for the load of zinc measured in cubic yards, negotiations fall through.</p>
+<p>I encourage a cautious, almost hesitant approach. Monetization should be an afterthought, not the primary goal. </p>
+<h2>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</h2>
+<p>I recommend checking out each of these blogs and interviewing their wonderful owners. A few of them have been interviewed already.</p>
+<ul>
+<li><a href="https://gkeenan.co/">A Very Good Blog by Keenan</a></li>
+<li><a href="https://aegir.org/">Aegir.org</a></li>
+<li><a href="https://brainbaking.com/">Brain Baking</a></li>
+<li><a href="https://www.brycewray.com/">Bryce Wray</a></li>
+<li><a href="https://chrisglass.com/">Chris Glass</a></li>
+<li><a href="https://chriswiegman.com/">Chris Wiegman</a></li>
+<li><a href="https://kevquirk.com/">Kev Quirk</a> (<a href="https://manuelmoreale.com/pb-kev-quirk"><em>Read Kev's P&amp;B Interview</em></a>)</li>
+<li><a href="https://minutestomidnight.co.uk/">Minutes to Midnight</a> (<a href="https://manuelmoreale.com/pb-simone-silvestroni"><em>Read Simone 's P&amp;B Interview</em></a>)</li>
+<li><a href="https://rubenerd.com/">Rubenerd</a></li>
+<li><a href="https://stillness.digital/">Stillness.Digital</a> by <a href="https://henry.codes/">Henry From Online</a></li>
+</ul>
+<h2>Final question: is there anything you want to share with us?</h2>
+<p>While writing this I came across the album <a href="https://song.link/https://music.apple.com/us/album/ease-the-work/1725718657"><em>Ease the Work</em></a> by the instrumental group Hour. It feels like a nice stroll at sunset with a cool breeze behind you and an endless expanse of tired and dusty landscape in front. It beckons you to explore its gentle swells and sweeping strings while the beat steadily plods along, kicking up little swirls of vague nostalgia. Thoughts you’ve thought before but hadn’t properly put to rest will surface and demand to be explored, to be wholly perceived; thoughts that may have first surfaced decades prior. They nibble at your attention, threatening the tranquil state of your mind, but it is effortless to cast them away. You lose yourself in the fiery sun, yearning to someday follow its passage behind the hazy horizon. Not today though. Today is a great day to write a blog post.</p>
+<hr />
+<p>This was the 47th edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Luke. Make sure to <a href="https://www.lkhrs.com/">follow his blog</a> (<a href="https://www.lkhrs.com/blog/index.xml">RSS</a>) and get in touch with him if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com">official site</a> of the newsletter.</p>
+<p><a href="https://www.thingelstad.com">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml">RSS</a>) — <a href="https://some.studio">Piet Terheyden</a> — <a href="https://minim.blog">Raul Montala</a> (<a href="http://github.com/rmontala/minim/commits.atom">RSS</a>) — Eleonora — <a href="https://carlbarenbrug.com">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss">RSS</a>) — <a href="https://tangiblelife.net">Steve Ledlow</a> (<a href="https://tangiblelife.net/feed.rss">RSS</a>) — <a href="https://www.feadin.eu">Paolo Ruggeri</a> (<a href="https://www.feadin.eu/en/posts/index.xml">RSS</a>) — <a href="https://thejollyteapot.com">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss">RSS</a>) — <a href="https://robhope.com">Rob Hope</a> — <a href="https://chrishannah.me">Chris Hannah</a> (<a href="https://chrishannah.me/index.xml">RSS</a>) — <a href="https://blog.pcora.eu">Pedro Corá</a> (<a href="https://blog.pcora.eu/feed.xml">RSS</a>) — <a href="https://colinwalker.blog/">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml">RSS</a>) — <a href="https://softlandings.world/">Sixian Lim</a> (<a href="https://www.softlandings.world/feed.rss">RSS</a>) — <a href="https://mattstein.com">Matt Stein</a> (<a href="https://mattstein.com/rss.xml">RSS</a>) — <a href="https://winnielim.org">Winnie Lim</a> (<a href="https://winnielim.org/feed/">RSS</a>) — <a href="https://flamedfury.com/">Flamed</a> (<a href="https://flamedfury.com/feed.xml/">RSS</a>) — <a href="https://skyhold.org">C Jackdaw</a> (<a href="https://journal.miso.town/atom?url=https://skyhold.org/index.html">RSS</a>) — <a href="https://tiv.today">Kevin Humdrum</a> (<a href="https://tiv.today/feed.rss">RSS</a>) — <a href="https://www.doc.cc/">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml">RSS</a>) — <a href="https://rosalindcroad.com">Rosalind Croad</a> — <a href="https://frankmeeuwsen.com">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml">RSS</a>) — <a href="https://www.elmike.me">Mike Walsh</a> (<a href="https://www.elmike.me/feed.xml">RSS</a>) — <a href="https://www.byzero.de/">Markus Heurung</a> — <a href="https://cleverlaziness.xyz/">Juan Villela</a> (<a href="https://cleverlaziness.xyz/posts/index.xml">RSS</a>) — <a href="https://mwarrenarts.com/">Michael Warren</a> (<a href="https://mwarrenarts.com/rss">RSS</a>) — <a href="https://cagrimmett.com/">Chuck Grimmett</a> (<a href="https://cagrimmett.com/feed">RSS</a>) — <a href="https://eatweeds.co.uk">Robin Harford</a> (<a href="https://www.eatweeds.co.uk/feed/">RSS</a>) — <a href="https://bryanmanio.com/">Bryan Maniotakis</a> (<a href="https://bryanmanio.com/feed/">RSS</a>) — <a href="https://bjhess.com/">Barry Hess</a> (<a href="https://bjhess.com/posts_feed">RSS</a>) — <a href="https://ivanmoreale.com">Ivan Moreale</a> — <a href="https://islandinthenet.com">Khürt Williams</a> (<a href="https://islandinthenet.com/feed/">RSS</a>) — <a href="https://werd.io/">Ben Werdmuller</a> (<a href="https://werd.io/feed">RSS</a>) — <a href="https://corygibbons.com">Cory Gibbons</a> — <a href="https://www.lkhrs.com/">Luke Harris</a> (<a href="https://www.lkhrs.com/blog/index.xml">RSS</a>) — <a href="https://lars-christian.com/">Lars-Christian Simonsen</a> (<a href="https://lars-christian.com/feed/">RSS</a>) — <a href="https://www.codyschultz.com">Cody Schultz</a> — <a href="https://bradbarrish.com">Brad Barrish</a> (<a href="https://bradbarrish.com/feed/">RSS</a>) — <a href="https://galaiko.rocks">Nikita Galaiko</a> — Erik Blankvoort — <a href="https://jagasantagostino.com">Jaga Santagostino</a> — <a href="https://andzuck.com/">Andrew Zuckerman</a> — <a href="https://www.mattiacompagnucci.com">Mattia Compagnucci</a> (<a href="https://mattiacompagnucci.com/feed.rss">RSS</a>) — <a href="https://tdh.se/">Thord D. Hedengren</a> (<a href="https://tdh.se/feed/feed.xml">RSS</a>) — <a href="https://fabiensauser.ch">Fabien Sauser</a> (<a href="https://fabiensauser.ch/index.xml">RSS</a>) — <a href="http://dizzard.net/">Maxwell Omdal</a> — <a href="https://numericcitizen.me">Numeric Citizen</a> (<a href="https://feedpress.me/numericcitizen-feeds.xml?ref=numericcitizen.me">RSS</a>) — <a href="https://heydingus.net">Jarrod Blundy</a> (<a href="https://heydingus.net/feeds">RSS</a>) — <a href="https://gwtf.it">Andrea Contino</a> (<a href="https://gwtf.it/feed">RSS</a>) — <a href="https://sebastiandedeyne.com/">Sebastian De Deyne</a> (<a href="https://sebastiandedeyne.com/index.xml">RSS</a>) — <a href="https://koolinus.net/blog/">Nicola Losito</a> (<a href="https://koolinus.net/blog/feed/">RSS</a>) — <a href="https://amerpie.lol/">Lou Plummer</a> (<a href="https://amerpie.lol/feed.xml">RSS</a>) — <a href="https://lmika.org/">Leon Mika</a> (<a href="https://lmika.org/feed.xml">RSS</a>) — <a href="http://veronique.ink">Veronique</a> (<a href="https://veronique.ink/feed/">RSS</a>) — <a href="https://surplusjouissance.com">Neil Gorman</a> (<a href="https://www.surplusjouissance.com/rss/">RSS</a>) — <a href="https://reaper.is/">Reaper</a> (<a href="https://reaper.is/rss.xml">RSS</a>) — <a href="https://www.mattrutherford.co.uk/">Matt Rutherford</a> (<a href="https://www.mattrutherford.co.uk/rss/">RSS</a>) — <a href="https://aleemshaun.com/">Aleem Ali</a> (<a href="https://aleemshaun.com/feed">RSS</a>) — <a href="https://nikkin.dev/">Nikkin</a> (<a href="https://nikkin.dev/feed.xml">RSS</a>) — <a href="https://jeremyfelt.com/">Jeremy Felt</a> (<a href="https://jeremyfelt.com/feed">RSS</a>) — <a href="https://hansfast.net">Hans</a> (<a href="https://hansfast.net/everything.rss">RSS</a>) — <a href="https://www.markpitblado.me/">Mark Pitblado</a> (<a href="https://www.markpitblado.me/feed.xml">RSS</a>) — <a href="https://www.morelightmorelight.com/">Matt Katz</a> (<a href="https://www.morelightmorelight.com/feed">RSS</a>) — <a href="https://iljapanic.com/">Ilja Panić</a> — <a href="https://odongo.pl">Emmanuel Odongo</a> — <a href="https://kevquirk.com/">Kev Quirk</a> (<a href="https://kevquirk.com/feed">RSS</a>) — <a href="https://artlung.com/">Joe Crawford</a> (<a href="https://artlung.com/feed/">RSS</a>) — <a href="https://www.ismailsevik.com/">İsmail Şevik</a> (<a href="https://www.ismailsevik.com/feeds/posts/default?alt=rss">RSS</a>) — <a href="https://eessoo.co/">Elena Saharova</a> — <a href="https://ruk.ca/">Peter Rukavina</a> (<a href="https://ruk.ca/rss/feedburner.xml">RSS</a>) — <a href="https://jsrn.net">jsrn</a> (<a href="https://jsrn.net/feed.xml">RSS</a>) — <a href="https://therealadam.com">Adam Keys</a> (<a href="https://therealadam.com/feed.xml">RSS</a>) — <a href="https://www.alexeystar.com/">Alexey Staroselets</a> (<a href="https://alexeystar.com/index.xml">RSS</a>) — <a href="https://saturnvalley.org">John L</a></p>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/zoK3rXNSiCI5hSmW>
+
+---
+
+## Hubble Studies a Potential Galactic Merger
+
+date: 2024-07-19, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image features the dwarf irregular galaxy NGC 5238, located 14.5 million light-years from Earth in the constellation Canes Venatici. Its unexciting, blob-like appearance seems to resemble an oversized star cluster more than a classic image of a galaxy. Its lackluster appearance belies its complicated structure, which is the subject of […] 
+
+<https://science.nasa.gov/missions/hubble/hubble-studies-a-potential-galactic-merger/>
+
+---
+
+## the rise of detective fiction
+
+date: 2024-07-19, from: Ayjay blog
+
+In The Long Week-End, their entertaining, sardonic, and often insightful social history of England between the two world wars, Robert Graves and Alan Hodge assert that in the years immediately following the Great War, “Detective-novel writing was not yet an industry; Sherlock Holmes stood alone.” (That comment, like this post, refers only to the British [&#8230;] 
+
+<https://blog.ayjay.org/the-rise-of-detective-fiction/>
+
+---
+
+## CrowdStrike issue is causing massive computer outages worldwide
+
+date: 2024-07-19, from: OS News
+
+Well, this sure is something to wake up to: a massive worldwide outage of computer systems due to a problem with CrowdStrike software. Payment systems, airlines, hospitals, governments, TV stations &#8211; pretty much anything or anyone using computers could be dealing with bluescreens, bootloops, and similar issues today. Open-heart surgeries had to be stopped mid-surgery, planes can&#8217;t take off, people can&#8217;t board trains, shoppers can&#8217;t pay for their groceries, and much, much more, all over the world. The problem is caused by CrowdStrike, a sort-of enterprise AV/monitoring software that uses a Windows NT kernel driver to monitor everything people do on corporate machines and logs it for&#8230; Security purposes, I guess? I&#8217;ve never worked in a corporate setting so I have no experience with software like this. From what I hear, software like this is deeply loathed by workers the world over, as it gets in the way and slows systems down. And, as can happen with a kernel driver, a bug can cause massive worldwide outages which is costing people billions in damages and may even have killed people. There is a workaround, posted by CrowdStrike: This is a solution for individually fixing affected machines, but I&#8217;ve seen responses like &#8220;great, how do I apply this to 70k endpoints?&#8221;, indicating that this may not be a practical solution for many affected customers. Then there&#8217;s the issue that this may require a BitLocker password, which not everyone has on hand either. To add insult to injury, CrowdStrike&#8217;s advisory about the issue is locked behind a login wall. A shitshow all around. Do note that while the focus is on Windows, Linux machines can run CrowdStrike software too, and I&#8217;ve heard from Linux kernel engineers who happen to also administer large numbers of Linux servers that they&#8217;re seeing a huge spike in Linux kernel panics&#8230; Caused by CrowdStrike, which is installed on a lot more Linux servers than you might think. So while Windows is currently the focus of the story, the problems are far more widespread than just Windows. I&#8217;m sure we&#8217;re going to see some major consequences here, and my &#8211; misplaced, I&#8217;m sure &#8211; hope is that this will make people think twice about one, using these invasive anti-worker monitoring tools, and two, employing kernel drivers for this nonsense. 
+
+<https://www.osnews.com/story/140267/crowdstrike-issue-is-causing-massive-computer-outages-worldwide/>
+
+---
+
+## New guide on using generative AI for teachers and schools
+
+date: 2024-07-19, from: Raspberry Pi (.org)
+
+<p>The world of education is loud with discussions about the uses and risks of generative AI — tools for outputting human-seeming media content such as text, images, audio, and video. In answer, there&#8217;s a new practical guide on using generative AI aimed at Computing teachers (and others), written by a group of classroom teachers and&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/new-guide-on-using-generative-ai-for-teachers-and-schools/">New guide on using generative AI for teachers and schools</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/new-guide-on-using-generative-ai-for-teachers-and-schools/>
+
+---
+
+## 2024-07-19 Trusting a self-signed certificate
+
+date: 2024-07-19, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-19-trusting-a-self-signed-certificate">2024-07-19 Trusting a self-signed certificate</h1>
+
+<p><a class="account" href="https://mastodon.social/@sarahjamielewis" title="@sarahjamielewis@mastodon.social">@sarahjamielewis</a> recently announced an IRC server with a self-signed certificate. What if you have an IRC client that keeps complaining about this?</p>
+
+<p>On a system like Debian, you can download the certificate and install it such that all applications trust it.</p>
+
+<pre><code># Get certificate from the correct port
+openssl s_client -showcerts -connect resistant.tech:6697 \
+  &lt; /dev/null \
+  2&gt; /dev/null \
+  | openssl x509 -outform PEM \
+  &gt; resistant-tech.pem
+
+# Compare fingerprint with
+# 63:B1:2E:A7:8A:BD:8A:33:B5:62:21:7C:42:71:75:66:43:BA:D2:78:21:09:8E:80:17:7E:28:D2:58:65:E6:48
+openssl x509 -in resistant-tech.pem -noout -sha256 -fingerprint
+
+# Install on Debian (the new extension is important)
+sudo mv --interactive resistant-tech.pem /usr/local/share/ca-certificates/resistant-tech.crt
+sudo dpkg-reconfigure ca-certificates
+
+# The output above should say &quot;1 added, 0 removed; done&quot; somewhere
+
+# Test it
+gnutls-cli resistant.tech:6697
+</code></pre>
+
+<p>If the output says &ldquo;PKI verification of server certificate failed&hellip;&rdquo; then the installation didn&rsquo;t work.</p>
+
+<p>If the output says &ldquo;Handshake was completed&rdquo; and seems to hang, that&rsquo;s because you can now type raw IRC commands.</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a></p>
+
+<p>(I saw comments by myself on related Stack Exchange questions from 2014. 😑)</p> 
+
+<https://alexschroeder.ch/view/2024-07-19-self-signed>
+
+---
+
+## FLTK 1.4.x Weekly Snapshot (master)
+
+date: 2024-07-19, from: Fast Light Tool Kit
+
+A new weekly snapshot of FLTK 1.4.x (master) is now available 
+
+<https://www.fltk.org/articles.php?L1932>
+
+---
+
+## Reviewers Deserve Respect
+
+date: 2024-07-19, from: Tedium site
+
+Manufacturers that strong-arm reviewers who don’t say nice things about products cannot become the norm. Which is why it’s good to see reviewers pushing back. 
+
+<https://feed.tedium.co/link/15204/16747887/goldensound-audiophile-reviewer-controversy>
+
+---
+
+## Minimalist and Functional Desktop Environment without Xorg
+
+date: 2024-07-19, from: mrusme blog
+
+A brief write-up on how I've set up my Linux desktop environment to be minimal
+yet functional, to let me work and use the computer as efficiently as
+possible. All without using Xorg. 
+
+<https://xn--gckvb8fzb.com/minimalist-and-functional-desktop-environment-without-xorg/>
+
+---
+
+## "No way to prevent this" say users of only language where this regularly happens
+
+date: 2024-07-19, from: Ze Iaso's blog
+
+ 
+
+<https://xeiaso.net/shitposts/no-way-to-prevent-this/OVE-20240719-0001/>
+
+---
+
+## Summer rental
+
+date: 2024-07-18, from: Dave Rupert blog
+
+<p>4:05am<br />
+The windows are open, hoping to capture the faint winds and convert them into a mythical cooling cross-breeze. A gust passes through vacuuming all the doors shut, cancelling hope for a miracle.<br />
+I’m awake. It’s cool but I’m on top of the covers and not cool enough.<br />
+The plastic thump-thump-thump of the oscillating fan reaching the end of its arc is rhythmic yet not. After three-to-six attempts, it yields to the resistance and heads the other way. It will be back soon.<br />
+Another fan in the room sounds like a far off propeller plane looping around the property. I await its arrival at each approach.<br />
+The alleyway ebbs and flows throughout the night with the smell of marijuana smoke, teens cussing, and the clinking of bottles as passers-by rummage through recycling bins.<br />
+There’s a sick child in the other room. My child. Been sick for days, poor thing. On antibiotics now. Spit the first dose on the floor because she didn’t like the taste.<br />
+I can hear her labored breath as different subconscious systems battle for what they deem as comfortable. Warm, yet shivering. Cold, yet burning up. Asleep, yet aware.<br />
+My wife is there next to her. Also sick with a persistent unspecified cough.<br />
+Since arriving at the rental three days ago, I have only left the house to buy medicine and wine.</p>
+<p>7:23am<br />
+Scuttling in the alleyway. Two voices. A truck starts. A woman pleads, “I’m sorry, I fucked up.” The truck drives off.<br />
+I put on a pot of coffee.</p>
+<p>9:15am<br />
+Left the rental to walk and pick up breakfast. Peeked at the ocean to remind myself of the magnitude. I’m a block away but hadn’t seen it in days.<br />
+I got a breakfast burrito. The potatoes were a little al dente, but it had black beans and wasn’t a soupy mess so I call that a win.<br />
+PCR tests came back and it’s not Covid and it’s not strep, but we don’t have any answer for what sickness(es?) our family is dealing with.<br />
+I’m on vacation but it’s not quite vacation anymore.<br />
+I’m working a bit. Dysfunctional but I appreciate a place to channel anxiety.<br />
+Caretaking is much harder than computer work.</p>
+<p>4:46pm<br />
+We made it to the beach. Wife and son thought it was too windy for my solar shade —and it was— but I persevered. After naysaying me they had the audacity to want to join me in my solar fortress. Haha. Nice try.<br />
+My congested little one made me pretend food with wet sand. She’s allowed to join me in my fortress.<br />
+We left as the tide came in and ordered pizza. The pizza was just okay.</p>
+<p>9:44pm<br />
+A good day. A long day.<br />
+Another member of the family is reporting a sore throat, so that’s less than ideal.<br />
+“When this vacation is over I’m going to need another vacation,” the protagonist says looking directly through the fourth wall. The canned laughter erupts.<br />
+Do wells of rage fill up faster than waters of peace? Am I broken or is the underlying system broken?</p>
+<p>5:32am<br />
+Awakened by two crows squawking at each other.<br />
+I went to bed after midnight. A new day begins.</p> 
+
+<https://daverupert.com/2024/07/summer-rental/>
+
+---
+
+## NVIDIA transitions fully towards open-source GPU Linux kernel modules
+
+date: 2024-07-18, from: OS News
+
+It&#8217;s a bit of a Linux news day today &#8211; it happens &#8211; but this one is good news we can all be happy about. After earning a bad reputation for mishandling its Linux graphics drivers for years, almost decades, NVIDIA has been turning the ship around these past two years, and today they made a major announcement: from here on out, the open source NVIDIA kernel modules will be the default for all recent NVIDIA cards. We’re now at a point where transitioning fully to the open-source GPU kernel modules is the right move, and we’re making that change in the upcoming R560 driver release. ↫ Rob Armstrong, Kevin Mittman and Fred Oh There are some caveats regarding which generations, exactly, should be using the open source modules for optimal performance. For NVIDIA&#8217;s most cutting edge generations, Grace Hopper and Blackwell, you actually must use the open source modules, since the proprietary ones are not even supported. For GPUs from the Turing, Ampere, Ada Lovelace, or Hopper architectures, NVIDIA recommends the open source modules, but the proprietary ones are compatible as well. Anything older than that is restricted to the proprietary modules, as they&#8217;re not supported by the open source modules. This is a huge milestone, and NVIDIA becoming a better team player in the Linux world is a big deal for those of us with NVIDIA GPUs &#8211; it&#8217;s already paying dividend in vastly improved Wayland support, which up until very recently was a huge problem. Do note, though, that this only covers the kernel module; the userspace parts of the NVIDIA driver are still closed-source, and there&#8217;s no indication that&#8217;s going to change. 
+
+<https://www.osnews.com/story/140265/nvidia-transitions-fully-towards-open-source-gpu-linux-kernel-modules/>
+
+---
+
+## From One Crew to Another: Artemis II Astronauts Meet NASA Barge Crew
+
+date: 2024-07-18, from: NASA breaking news
+
+Members of the Artemis II crew met with the crew of NASA’s Pegasus barge prior to their departure to deliver the core stage of NASA’s SLS (Space Launch System) rocket to the Space Coast. NASA astronaut and pilot of the Artemis II mission Victor Glover met the crew July 15. NASA astronaut Reid Wiseman, commander, [&#8230;] 
+
+<https://www.nasa.gov/image-article/from-one-crew-to-another-artemis-ii-astronauts-meet-nasa-barge-crew/>
+
+---
+
+## Linux patch to disable Snapdragon X Elite GPU by default
+
+date: 2024-07-18, from: OS News
+
+Not too long ago it seemed like Linux support for the new ARM laptops running the Snapdragon X Pro and Elite processors was going to be pretty good &#8211; Qualcomm seemed to really be stepping up its game, and detailed in a blog post exactly what they were doing to make Linux a first-tier operating system on their new, fancy laptop chips. Now that the devices are in people&#8217;s hand, though, it seems all is not so rosy in this new Qualcomm garden. A recent Linux kernel DeviceTree patch outright disables the GPU on the Snapdragon X Elite, and the issue is, as usual, vendor nonsense, as it needs something called a ZAP shader to be useful. The ZAP shader is needed as by default the GPU will power on in a specialized &#8220;secure&#8221; mode and needs to be zapped out of it. With OEM key signing of the GPU ZAP shader it sounds like the Snapdragon X laptop GPU support will be even messier than typically encountered for laptop graphics. ↫ Michael Larabel This is exactly the kind of nonsense you don&#8217;t want to be dealing with, whether you&#8217;re a user, developer, or OEM, so I hope this gets sorted out sooner rather than later. Qualcomm&#8217;s commitments and blog posts about ensuring Linux is a first-tier platform are meaningless if the company can&#8217;t even get the GPU to work properly. These enablement problems should&#8217;ve been handled well before the devices entered circulation, so this is very disheartening to see. So, for now, hold off on X Elite laptops if you&#8217;re a Linux user. 
+
+<https://www.osnews.com/story/140262/linux-patch-to-disable-snapdragon-x-elite-gpu-by-default/>
+
+---
+
+## Sols 4248-4249: Lunch at Fairview Dome
+
+date: 2024-07-18, from: NASA breaking news
+
+Earth planning date: Wednesday, July 17, 2024 We started our day at an outcrop called “Fairview Dome,” a light-colored rock so big that it can easily be seen from orbit! We have had our eye on Fairview Dome since Curiosity descended into the Gediz Vallis channel. As a geologist who has spent a lot of […] 
+
+<https://science.nasa.gov/blogs/sols-4248-4249-lunch-at-fairview-dome/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-18, from: Dave Winer's Scripting News)
+
+If the world doesn't know you did something you might as well not have done it. This is what <a href="https://en.wikipedia.org/wiki/Douglas_Engelbart">Doug Engelbart</a> learned, and what we learned in his aftermath. He is known for inventing the mouse, because that's the one thing he invented everyone knows about. He also developed software that pioneered using a computer to <a href="https://web.stanford.edu/class/history34q/readings/Engelbart/Engelbart_AugmentIntellect.html">organize your ideas</a>. For the most part people don't know about that because (I guess) most people don't organize their work? 
+
+<http://scripting.com/2024/07/18.html#a210120>
+
+---
+
+## Letter from the Editor on Medicine and the Body in Tech
+
+date: 2024-07-18, from: Logic Magazine
+
+
+                <p>Editor in Chief J. Khadijah Abdurahman introduces Logic(s) issue 21</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/editorial-note-on-medicine-and-the-body-in-tech>
+
+---
+
+##  Peregrine Falcon Killing a Duck in Mid-Air 
+
+date: 2024-07-18, updated: 2024-07-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/peregrine-falcon-killing-a-duck-in-mid-air-1>
+
+---
+
+## NASA Space ROS Sim Summer Sprint Challenge
+
+date: 2024-07-18, from: NASA breaking news
+
+Space ROS is an open-source software framework, derived from ROS 2, which was created to be compatible with the demands of safety-critical space robotics applications. NASA is looking to expand the Space ROS repository with new higher fidelity demonstration environments and additional capabilities. Award: $10,000 in total prizes Open Date: July 18, 2024 Close Date: [&#8230;] 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-ros-sim-summer-sprint-challenge/>
+
+---
+
+## Ly: a TUI display manager
+
+date: 2024-07-18, from: OS News
+
+Ly is a lightweight TUI (ncurses-like) display manager for Linux and BSD. ↫ Ly GitHub page That&#8217;s it. That&#8217;s the description. I&#8217;ve been wanting to take a stab at running a full CLI/TUI environment for a while, see just how far I can get in my computing life (excluding games) running nothing but a few tiled terminal emulators running various TUI apps for email, Mastodon, browsing, and so on. I&#8217;m not sure I&#8217;d be particularly happy with it &#8211; I&#8217;m a GUI user through and through &#8211; but lately I&#8217;ve seen quite a few really capable and just pleasantly usable TUI applications come by, and they&#8217;ve made me wonder. It&#8217;d make a great article too. 
+
+<https://www.osnews.com/story/140260/ly-a-tui-display-manager/>
+
+---
+
+## NASA Sounding Rocket Launches, Studies Heating of Sun’s Active Regions
+
+date: 2024-07-18, from: NASA breaking news
+
+By Wayne Smith Investigators at NASA’s Marshall Space Flight Center in Huntsville, Alabama, will use observations from a recently-launched sounding rocket mission to provide a clearer image of how and why the Sun’s corona grows so much hotter than the visible surface of Earth’s parent star. The MaGIXS-2 mission – short for the second flight [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/nasa-sounding-rocket-launches-studies-heating-of-suns-active-regions/>
+
+---
+
+##  Heartbreaking: This Guy Has No Idea That He&#8217;s So Strange And Memorable-Looking... 
+
+date: 2024-07-18, updated: 2024-07-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044969-heartbreaking-this-guy-ha>
+
+---
+
+## Overcast’s New Foundation
+
+date: 2024-07-18, from: Michael Tsai
+
+Marco Arment (Mastodon): Today, on the tenth anniversary of Overcast 1.0, I&#8217;m happy to launch a complete rewrite and redesign of most of the iOS app, built to carry Overcast into the next decade &#8212; and hopefully beyond.[&#8230;]Much faster, more responsive, more reliable, and more accessible.Modern design, optimized for easily-reached controls on today&#8217;s phone sizes.Improvements [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/18/overcasts-new-foundation/>
+
+---
+
+## Safari Private Click Measurement and Firefox Privacy-Preserving Attribution
+
+date: 2024-07-18, from: Michael Tsai
+
+John Wilander (2021): A new, on-by-default feature called Private Click Measurement, or PCM, for privacy-preserving measurement of ad clicks across websites and from iOS apps to websites in iOS and iPadOS 14.5 betas. This didn&#8217;t attract a lot of attention at the time, but now it&#8217;s getting some criticism for being opt-out and somewhat hidden [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/18/safari-private-click-measurement-and-firefox-privacy-preserving-attribution/>
+
+---
+
+## Safari Private Browsing 2.0
+
+date: 2024-07-18, from: Michael Tsai
+
+John Wilander et al. (Mastodon): These are the protections and defenses added to Private Browsing in Safari 17.0: Link Tracking Protection Blocking network loads of known trackers, including CNAME-cloaked known trackers Advanced Fingerprinting Protection Extensions with website or history access are off by default In addition, we added these protections and defenses in all browsing [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/18/safari-private-browsing-2-0/>
+
+---
+
+## New Evidence Adds to Findings Hinting at Network of Caves on Moon
+
+date: 2024-07-18, from: NASA breaking news
+
+An international team of scientists using data from NASA’s LRO (Lunar Reconnaissance Orbiter) has discovered evidence of caves beneath the Moon’s surface. 
+
+<https://science.nasa.gov/solar-system/new-evidence-adds-to-findings-hinting-at-network-of-caves-on-moon/>
+
+---
+
+## You’re Always on That Phone: How Being Online Sustained Sudan’s Youth Revolution
+
+date: 2024-07-18, from: Logic Magazine
+
+
+                <p>“The sit-in became a physical embodiment of the safe spaces we had only imagined could exist online. We congregated freely and spoke without bounds. We cared for each other in immediate ways.”</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/youre-always-on-that-phone-how-being-online-sustained-sudans-youth>
+
+---
+
+## On Sudan and the Interminable Catastrophe: A Conversation with Bedour Alagraa
+
+date: 2024-07-18, from: Logic Magazine
+
+
+                <p>“In terms of genres of the human, I think that Sudan has a lot to tell the world about our assumptions about Man, because it’s a country that doesn’t have very many white people at all.”</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/on-sudan-and-the-interminable-catastrophe-an-interview-with-bedour-alagraa>
+
+---
+
+## View From the Nuba Mountains: An Interview with Kuna
+
+date: 2024-07-18, from: Logic Magazine
+
+
+                <p>“Previously, when I was outside of Sudan, I was very much like, “I’m just Sudanese.” But now, I find myself more and more—I don’t want to say less willing—but I will say I feel safer identifying as a Nuba.”</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/view-from-the-nuba-mountains-an-interview-with-kuna>
+
+---
+
+## Safari 18 Announced
+
+date: 2024-07-18, from: Michael Tsai
+
+Apple: Safari, the world&#8217;s fastest&#160;browser, now offers Highlights, an even easier way to discover information on the web, such as directions, summaries, or quick links to learn more about people, music, movies, and TV shows. A redesigned Reader includes even more ways to enjoy articles without distractions, featuring a streamlined view of the article a [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/18/safari-18-announced/>
+
+---
+
+## Genocidal Technologies: The Deprivation of Medicine in Tigray
+
+date: 2024-07-18, from: Logic Magazine
+
+
+                <p>“The decimation of medicine and healthcare was a genocidal technology used to actualize as many deaths as possible—and one whose future deployment can by no means be ruled out.”</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/the-deprivation-of-medicine-in-tigray>
+
+---
+
+##  Keanu Reeves & China Miéville have written a novel called The Book... 
+
+date: 2024-07-18, updated: 2024-07-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044972-keanu-reeves-china-mievil>
+
+---
+
+## The Earth Observer Editor’s Corner: Summer 2024
+
+date: 2024-07-18, from: NASA breaking news
+
+NASA’s third EOS mission—AURA—marked 20 years in orbit on July 15, with two of its four instruments—MLS and OMI—still collecting quality datasets. 
+
+<https://science.nasa.gov/uncategorized/the-earth-observer-editors-corner-summer-2024/>
+
+---
+
+##  Moving Posters for Studio Ghibli Films 
+
+date: 2024-07-18, updated: 2024-07-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/moving-posters-for-studio-ghibli-films>
+
+---
+
+## The Earth Observer’s 35th Anniversary
+
+date: 2024-07-18, from: NASA breaking news
+
+Welcome to a new era for The Earth Observer newsletter! Our 35th anniversary also marks the official public release of our new website. Over the past year and a half, The Earth Observer has migrated from a print publication (the last printed issue was November–December 2022) to publishing PDFs online only (final PDF issue published in May 2024) to publishing individual articles […] 
+
+<https://science.nasa.gov/science-research/earth-science/the-earth-observers-35th-anniversary/>
+
+---
+
+## Artemis II Core Stage on the Move
+
+date: 2024-07-18, from: NASA breaking news
+
+On July 16, 2024, the first core stage of NASA’s SLS (Space Launch System) rocket for the agency’s Artemis II mission began a journey from NASA’s Michoud Assembly Facility in New Orleans. The core stage was moved onto the agency’s Pegasus barge, where it will be ferried 900 miles to NASA’s Kennedy Space Center in [&#8230;] 
+
+<https://www.nasa.gov/image-article/artemis-ii-core-stage-on-the-move/>
+
+---
+
+## Registration Opens for the 2024 NASA International Space Apps Challenge
+
+date: 2024-07-18, from: NASA breaking news
+
+NASA invites innovators, technologists, storytellers, and problem solvers to register for the 2024 NASA Space Apps Challenge, the largest annual global hackathon. 
+
+<https://science.nasa.gov/earth/registration-opens-2024-nasa-international-space-apps-challenge/>
+
+---
+
+## Curating Colonization: On Sharing Visuals of the Dead
+
+date: 2024-07-18, from: Logic Magazine
+
+
+                <p>“Using images to highlight the gruesome and merciless power of an oppressor does not necessarily generate sympathy for the oppressed; it can be a tool to reinforce the ruling order.”</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/curating-colonization-on-sharing-visuals-of-the-dead>
+
+---
+
+##  California has strengthened its electrical grid significantly in recent years: no rolling... 
+
+date: 2024-07-18, updated: 2024-07-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044970-california-has-strengthen>
+
+---
+
+##  Interactive map from the University of Maryland Center for Environmental Science: What... 
+
+date: 2024-07-18, updated: 2024-07-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044968-interactive-map-from-the->
+
+---
+
+## Two Awful Vacations In One
+
+date: 2024-07-18, updated: 2024-07-18, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/07/18/two-awful-vacations-in-one/>
+
+---
+
+##  Inside the Trump Plan for 2025 
+
+date: 2024-07-18, updated: 2024-07-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/inside-the-trump-plan-for-2025>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-18, from: Dave Winer's Scripting News)
+
+I'm avoiding the actual RNC, the speakers are just actors. Trump looks like the Queens kid he is. People from Queens don't feel like we really belong, except with other Queens people. We expect to be thought of as the kid from Queens. I know this so well. So the "boss" slumps around not sure what to do or say. He's not gregarious. Not in charge of anything. 
+
+<http://scripting.com/2024/07/18.html#a145522>
+
+---
+
+## Nvidia's next Linux driver to be… just as open
+
+date: 2024-07-18, updated: 2024-07-18, from: Liam Proven's articles at the Register
+
+<h4>Big Green's software remains tricky, but Fedora and AMD are finding ways to cope</h4>
+      <p>Nvidia says its forthcoming release 560 driver will be as open as releases 515 and 555 were – and will support more devices.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/18/nvidia_drivers_remain_as_foss/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-18, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@nancywicklundgonzalez/post/C9kHz4POkP7">Nancy Wicklund Gonzalez</a>: "I’ve had to switch to watching the BBC. American news is unwatchable. Between the lionization of a sociopath and the denigration of a decent man, I just can’t even." 
+
+<http://scripting.com/2024/07/18.html#a144830>
 
 ---
 
@@ -81,19 +799,6 @@ NASA-supported scientists have examined the long and intricately linked history 
 
 ---
 
-## Curating Colonization: On Sharing Visuals of the Dead
-
-date: 2024-07-18, from: Logic Magazine
-
-
-                <p>“Using images to highlight the gruesome and merciless power of an oppressor does not necessarily generate sympathy for the oppressed; it can be a tool to reinforce the ruling order.”</p>
-
-             
-
-<https://logicmag.io/issue-21-medicine-and-the-body/curating-colonization-on-sharing-visuals-of-the-dead>
-
----
-
 ## Four key learnings from teaching Experience AI lessons
 
 date: 2024-07-18, from: Raspberry Pi (.org)
@@ -163,8 +868,7 @@ date: 2024-07-17, updated: 2024-07-17, from: Jason Kottke blog
 
 **@Dave Winer's Scripting News** (date: 2024-07-17, from: Dave Winer's Scripting News)
 
-Today's song: <a href="https://www.youtube.com/watch?v=Z0GFRcFm-aY">It's the End of the World as We Know It (And I Feel Fine)</a>.
- 
+Today's song: <a href="https://www.youtube.com/watch?v=Z0GFRcFm-aY">It's the End of the World as We Know It (And I Feel Fine)</a>. 
 
 <http://scripting.com/2024/07/17.html#a220627>
 
@@ -298,33 +1002,6 @@ date: 2024-07-17, updated: 2024-07-17, from: Jason Kottke blog
  
 
 <https://kottke.org/24/07/0044956-the-best-prime-day-deal>
-
----
-
-## Letter from the Editor on Medicine and the Body in Tech
-
-date: 2024-07-17, from: Logic Magazine
-
-
-                <p>Editorial Note from Editor Khadijah Abdurrahman for Logic(s) Issue 21</p>
-
-             
-
-<https://logicmag.io/issue-21-medicine-and-the-body/editorial-note-on-medicine-and-the-body-in-tech>
-
----
-
-## You’re Always on That Phone: How Being Online Sustained Sudan’s Youth Revolution
-
-date: 2024-07-17, from: Logic Magazine
-
-
-                <p>The sit-in became a physical embodiment of the safe spaces we
-had only imagined could exist online. We congregated freely and spoke without bounds. We cared for each other in immediate ways.</p>
-
-             
-
-<https://logicmag.io/issue-21-medicine-and-the-body/youre-always-on-that-phone-how-being-online-sustained-sudans-youth>
 
 ---
 
@@ -1428,45 +2105,6 @@ date: 2024-07-15, from: NASA breaking news
 The stars above and on Earth aligned as an inspirational message and lyrics from the song “The Rain (Supa Dupa Fly)” by hip-hop artist Missy Elliott were beamed to Venus via NASA’s DSN (Deep Space Network). The agency’s Jet Propulsion Laboratory in Southern California sent the transmission at 10:05 a.m. PDT on Friday, July 12. [&#8230;] 
 
 <https://www.nasa.gov/general/nasa-transmits-hip-hop-song-to-deep-space-for-first-time/>
-
----
-
-## View From the Nuba Mountains: An Interview with Kuna
-
-date: 2024-07-15, from: Logic Magazine
-
-
-                <p>“Previously, when I was outside of Sudan, I was very much like, “I’m just Sudanese.” But now, I find myself more and more—I don’t want to say less willing—but I will say I feel safer identifying as a Nuba.”</p>
-
-             
-
-<https://logicmag.io/issue-21-medicine-and-the-body/view-from-the-nuba-mountains-an-interview-with-kuna>
-
----
-
-## On Sudan and the Interminable Catastrophe: A Conversation with Bedour Alagraa
-
-date: 2024-07-15, from: Logic Magazine
-
-
-                <p>“In terms of genres of the human, I think that Sudan has a lot to tell the world about our assumptions about Man, because it’s a country that doesn’t have very many white people at all.”</p>
-
-             
-
-<https://logicmag.io/issue-21-medicine-and-the-body/on-sudan-and-the-interminable-catastrophe-an-interview-with-bedour-alagraa>
-
----
-
-## Genocidal Technologies: The Deprivation of Medicine in Tigray
-
-date: 2024-07-15, from: Logic Magazine
-
-
-                <p>“The decimation of medicine and healthcare was a genocidal technology used to actualize as many deaths as possible—and one whose future deployment can by no means be ruled out.”</p>
-
-             
-
-<https://logicmag.io/issue-21-medicine-and-the-body/the-deprivation-of-medicine-in-tigray>
 
 ---
 

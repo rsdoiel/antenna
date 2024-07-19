@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.29
-updated: 2024-07-18 07:46:46
+updated: 2024-07-19 07:54:37
 ---
 
 # retro computing 2024.29
 
-(date: 2024-07-18 07:46:46)
+(date: 2024-07-19 07:54:37)
+
+---
+
+## Icon bar’s cloak of invisibility improved in Pinboard 2.05
+
+date: 2024-07-19, from: RiscOS Story
+
+A new version of Pinboard 2 has been released by RISC OS Developments. The software is a replacement for the standard &#8216;Pinboard&#8217; supplied with the operating system &#8211; the component that looks after the desktop background, allowing backdrops to be displayed, icons to be pinned to it to save navigating to the relevant files or applications using the filer, and so on &#8211; and provides quite a number of new features that make it a worthy replacement. For example, as well as pinning icons to the desktop, Pinboard 2 allows&#8230; 
+
+<https://www.riscository.com/2024/icon-bar-improved-transparency-pinboard-2-05/>
+
+---
+
+## KPDFUtil 1.06 released
+
+date: 2024-07-19, from: RiscOS Story
+
+KPDFUtil is an application from Kevin Wells that provides a front-end to the facilities found in PDFUtils, itself a set of command line utilities for getting information about PDF documents, and performing actions on them such as extracting individual pages, converting them to HTML, and so on. Kevin&#8217;s application presents a main window with the various possible actions in a series of buttons, and version 1.06 adds a menu over the main window as another method of accessing those actions. If you find any of Kevin&#8217;s software, why not consider&#8230; 
+
+<https://www.riscository.com/2024/kpdfutil-1-06-released/>
 
 ---
 
@@ -690,7 +710,7 @@ Finally, the tForth itself, which immediately follows the machine code trampolin
 <p>
 Our patcher will insert all of this into the 288 bytes at the end of display memory on disk. Since most of you don't have a Cat, here's a video of the picture disk in action.
 
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dx_GqUEn7hIB1O9ICX9Fn9xrKQq7R-wMYKxNRxKsEHNyCaJeknq67d_NRJPEKSimWhZzsyQdolkhtTm3CORMg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dw71XvItypYPPquDq9cBa_Ix4Fok5ihqJXWboh4T9xxUluuB7WPId5iOz2ouUoN3uBZZaCVbJFOV21yzZFNPQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 
 We turn on the Cat, insert the Raskin picture disk and press USE FRONT-DISK. The disk loads, displaying our picture, and pauses with "press any key" and a beep. (The disk light remains on as a side effect since we haven't yet run the word that turns the disk drive off.) We press a key, loading completes, and the document appears. Next, we use SHIFT and the LEAP keys to scroll line by line, then LEAP to the word "Apple" forwards and back a few times (using USE FRONT-LEAP to leap again with the same search), LEAP to the word "Aza," and finally LEAP to the DOCUMENT/PAGE marker, which will eventually bring us at the bottom of the text. Sorry about the darkness and changing light levels, but it's hard to video a CRT with a Pixel 7 Pro.
 <p>
@@ -816,7 +836,7 @@ We highlight the entire text and do USE FRONT-ANSWER to define the words, and th
 <p>
 As a last convenience we enter and highlight the word <tt>catterm</tt> in the document so that you can just run it again from the editor by pressing USE FRONT-ANSWER. We save it to disk and create a disk image, and patch it. Here it is booting. I couldn't run to the workstation and type at the same time as I was filming, but you can see that it autostarts and cleanly returns to the editor. The CatTerm disk image is <a href="https://github.com/classilla/catbox/tree/main/examples/catterm">in the Catbox</a>.
 
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyv3QsTbfjWYvaYYtYky9ieyJkuas7sOxFVqQb6xpY52QoxlgyzijT2gjP-VJlprUnnEaKcol4nISwXVY4SqA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyb7VwicZBp750qw1fZnpruWvYcRVwJ0IJ4cnaskZdnIeD6CV7hgGc7Yi5z-XOvWYghad5eyyfNawJ0IivVdw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 
 I also demonstrate running it from the <tt>ok</tt> prompt by pressing SHIFT-USE FRONT-SPACE, entering <tt>page</tt>, entering <tt>catterm</tt>, and after pressing UNDO entering <tt>re</tt> to return to the editor. Everything works just as it should. Port speed and settings are configured with SETUP, just like everywhere else.
 <p>
@@ -1030,7 +1050,7 @@ Accordingly, the problem I ran into with this hack was the drive couldn't reliab
 <p>
 Here's the finished product. Both disk images are <a href="https://github.com/classilla/catbox/tree/main/examples/slideshow">in the Catbox</a>.
 
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dw-ORdBG3Xii1ye9nE-wYHElQtemSSwz1Xoy2__jtSeOb-ebBerglUBRDQfBGbDWEYKWk5-JCRWDThHL-Ekfg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyhVFVE0tMkJSdx9aP9nMFbtTrK3ec892uzUmk4ERrU---d9ZU2oqDqoYvw8lvtD23_shgckxh2PN1tkaU0NA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 
 This hack brings you the final iteration of <a href="https://github.com/classilla/catbox/blob/main/catcpic"><tt>catcpic</tt></a>, which now is a three-headed application. It requires your original eDSK and a properly formatted and inverted PBM, generates a nice randomized idtable so that your Cat can't confuse it with anything else (though you can pass it one in hex with <tt>-idtable=...</tt> if you want) and emits the resulting disk image to standard output. If you don't pass it a token in hex, it will install the "press any key" patch; if you do, and you specify <tt>-cold</tt>, you'll get a cold booter; otherwise you'll get a autostarter that will enable you to cleanly return to the editor.
 <p>

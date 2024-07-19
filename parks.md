@@ -1,11 +1,63 @@
 ---
 title: parks 2024.29
-updated: 2024-07-18 07:46:45
+updated: 2024-07-19 07:54:36
 ---
 
 # parks 2024.29
 
-(date: 2024-07-18 07:46:45)
+(date: 2024-07-19 07:54:36)
+
+---
+
+## Veteran Land Management Leader Takes Role as BLM California State Director
+
+date: 2024-07-18, from: Bureau of Land Management, California
+
+<div class="field contact-block -teaser-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/teaser/public/Leadership_JoeStout_ActingCAStateDirector.jpeg?h=06ac0d8c&amp;itok=cmJD0lo1" width="150" height="100" alt="A portrait of a man. " typeof="foaf:Image">
+
+
+</div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p><strong>WASHINGTON</strong>&nbsp;– Bureau of Land Management Director Tracy Stone-Manning today announced that veteran land manager Joe Stout has been named the new BLM California State Director, where he will oversee 15 million acres of public lands and 42 million acres of minerals and energy resources in California, as well as 1.6 million surface acres in northwestern Nevada. Stout will begin his new role on August 11, 2024<strong>.</strong></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="95d343fb-bae3-47b7-bb85-f2198a723563" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/Leadership_JoeStout_ActingCAStateDirector.jpeg?itok=hH2MSBAL" width="640" height="427" alt="A portrait of a man. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p>Stout is returning to BLM California, where he previously served for over seven years as the Associate State Director and Acting State Director. Most recently, Stout has served as the Forest Supervisor of the Eldorado National Forest in the Central Sierras of California, overseeing four ranger districts and managing programs in natural resources, fire and aviation, public services, and engineering.</p>
+
+<p>“Joe brings nearly 25 years of experience in natural resources, conservation, and business management to his new role,”&nbsp;<strong>said BLM Director Tracy Stone-Manning.</strong>&nbsp;“He is highly respected for his inclusive approach to management, his ability to build strong relationships on the ground, and his knack for finding solutions to tough issues. His expertise will benefit the BLM and the communities we serve.”</p>
+
+<p>Before his tenure with the United States Forest Service, Stout held leadership positions at all levels of the BLM. At the Bureau’s Headquarters, he served as the Acting Chief of Staff for the Director’s Office and Division Chief for the Decision Support, Planning, and NEPA programs. At the Regional level, he served as the Acting Associate State Director of BLM Colorado, and at the field level he led a land use plan revision for the Kremmling and Glenwood Springs Field Offices in Colorado.</p>
+
+<p>As BLM California State Director, Stout will lead a team of 1,100<strong>&nbsp;</strong>permanent staff who oversee public lands across the rangelands, forests, high mountains, and deserts that make California one of the most diverse states in the nation. The BLM manages an abundance of resources for multiple use in California, supporting generations of families and local communities, and providing important economic benefits to Californians and the nation.</p>
+
+<p>Stout holds a master’s degree in public administration (Environmental Policy, Management, and Law) from the University of Colorado in Denver, and he completed his undergraduate studies in sociology and environmental studies at the State University of New York at Fredonia.</p>
+
+<p>Stout and his family love spending time outdoors, including backpacking, fly fishing and skiing.</p>
+</div> 
+
+<https://www.blm.gov/press-release/veteran-land-management-leader-takes-role-blm-california-state-director>
 
 ---
 

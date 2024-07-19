@@ -1,11 +1,834 @@
 ---
 title: pacific 2024.29
-updated: 2024-07-18 07:46:40
+updated: 2024-07-19 07:54:30
 ---
 
 # pacific 2024.29
 
-(date: 2024-07-18 07:46:40)
+(date: 2024-07-19 07:54:30)
+
+---
+
+## Pat Williams, charismatic NBA executive, is dead at 84
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>Pat Williams, who for 51 years was a charismatic executive with National Basketball Association teams in Chicago; Philadelphia; Atlanta; and Orlando, Florida; and who was also a prolific author and motivational speaker, died on Wednesday in Orlando. He was 84.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/sports/pat-williams-charismatic-nba-executive-is-dead-at-84/>
+
+---
+
+## Shane Lowry cards 66 at Open Championship as Rory McIlroy struggles
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>Shane Lowry made the ideal start to his bid for a second Open title as Rory McIlroy effectively wrote off his chances of doing the same at Royal Troon in Scotland.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/sports/shane-lowry-cards-66-at-open-championship-as-rory-mcilroy-struggles-2/>
+
+---
+
+## Caitlin Clark breaks WNBA single-game assist record with 19
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>Caitlin Clark made more WNBA history Wednesday night. The Indiana Fever rookie sensation recorded 19 assists against the Dallas Wings, a new WNBA record for most assists in a single game. The previous record was 18 from Courtney Vandersloot, which she set on Aug. 31, 2020, with the Chicago Sky.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/sports/caitlin-clark-breaks-wnba-single-game-assist-record-with-19/>
+
+---
+
+## NWS: Minor coastal flooding possible
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>The National Weather Service in Honolulu on Thursday issued a Coastal Flood Statement for Hawaii Island through Sunday afternoon.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/hawaii-news/nws-minor-coastal-flooding-possible/>
+
+---
+
+## Pauahi Street closed for part of next week
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>Pauahi Street in Hilo from Aupuni Street to Kamehameha Avenue will be closed Monday, July 22, to Thursday, July 26. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/hawaii-news/pauahi-street-closed-for-part-of-next-week/>
+
+---
+
+## County clerk: Lee Loy can vote in District 2
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>County Clerk Jon Henricks denied a challenge to County Councilwoman Sue Lee Loy&#8217;s registration to vote in State House District 2.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/hawaii-news/county-clerk-lee-loy-can-vote-in-district-2/>
+
+---
+
+## Police arrest 20 for DUI
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>During the week of July 8-14, Hawaii Island police arrested 20 motorists for DUI. Four of the drivers were involved in a traffic accident. None were younger than 21.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/hawaii-news/police-arrest-20-for-dui-20/>
+
+---
+
+## Kupuna Softball Tournament wraps up
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>More than 400 players in 21 Hawaii Island teams played games Thursday during the last day of the two-day Hawaii County Kupuna Softball Tournament at Walter Victor Baseball Complex in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/hawaii-news/kupuna-softball-tournament-wraps-up/>
+
+---
+
+## WNBA players, bargaining power soaring, seek expert advice on labor deal
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>WNBA players have never had more leverage than they have right now.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/sports/wnba-players-bargaining-power-soaring-seek-expert-advice-on-labor-deal/>
+
+---
+
+## Shane Lowry cards 66 at Open Championship as Rory McIlroy struggles
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>Shane Lowry made the ideal start to his bid for a second Open title as Rory McIlroy effectively wrote off his chances of doing the same at Royal Troon in Scotland.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/sports/shane-lowry-cards-66-at-open-championship-as-rory-mcilroy-struggles/>
+
+---
+
+## Runnin’ with Rani: 6th annual Hilo Hill Climb
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; The Hawaii Cycling Club hosted its 6th Annual Hilo Hill Climb Training Time Trial on Saturday, July 6, marking yet another successful race on its calendar of events as 15 dedicated cyclists conquered the grueling 12-mile and newly introduced 26.3-mile challenges.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/sports/runnin-with-rani-6th-annual-hilo-hill-climb/>
+
+---
+
+## Trump offers dramatic account of assassination attempt, accepts Republican nomination
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>MILWAUKEE/REHOBOTH BEACH, Delaware &#8212; Donald Trump described on Thursday how he narrowly survived an attempt on his life, telling a rapt audience at the Republican National Convention in his first speech since the attack that he was only there &#8220;by the grace of Almighty God.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/nation-world-news/trump-offers-dramatic-account-of-assassination-attempt-accepts-republican-nomination/>
+
+---
+
+## People close to Biden say he appears to accept he may have to leave the race
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Several people close to President Joe Biden said Thursday that they believe he has begun to accept the idea that he may not be able to win in November and may have to drop out of the race, bowing to the growing demands of many anxious members of his party.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/nation-world-news/people-close-to-biden-say-he-appears-to-accept-he-may-have-to-leave-the-race/>
+
+---
+
+## Husband of crash victim sues other driver, blasts plea offer
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>The family of a woman who was killed in a North Kona traffic crash two years ago is suing the driver of the other car, his parents and a car rental company, seeking more than $14 million in damages.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/hawaii-news/husband-of-crash-victim-sues-other-driver-blasts-plea-offer/>
+
+---
+
+## Planning director: Bill could slow down permitting process
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>Requests for zoning changes could become more complicated under a proposed Hawaii County bill, warned the county&#8217;s top planning official.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/hawaii-news/planning-director-bill-could-slow-down-permitting-process/>
+
+---
+
+## US sues shelter provider over sexual abuse of migrant children
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; Multiple employees at the largest shelter provider for unaccompanied migrant children in the United States sexually abused and harassed children in their care, the U.S. Department of Justice alleged in a lawsuit filed this week.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/nation-world-news/us-sues-shelter-provider-over-sexual-abuse-of-migrant-children/>
+
+---
+
+## Your Views for July 19
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>Save Keauhou Bay&#0010;from development</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/opinion/your-views-for-july-19-6/>
+
+---
+
+## Nation and world news in brief for July 19
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>Lou Dobbs, former Fox &#0010;and CNN host, dead at 78</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/nation-world-news/nation-and-world-news-in-brief-for-july-19/>
+
+---
+
+## Losing hope, Venezuelans vow to leave their country if Maduro wins
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>BOGOT&#0193;, Colombia &#8212; A young opposition activist planning to trek through seven countries and a perilous jungle to reach the United States. A journalist ready to abandon everything to build a new life abroad. A lawyer in her 60s, fearful that her last daughter is about to leave.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/nation-world-news/losing-hope-venezuelans-vow-to-leave-their-country-if-maduro-wins/>
+
+---
+
+## Russia says ‘let’s be realistic’ about Trump plan to end Ukraine war
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>MOSCOW &#8212; Russia said on Thursday that Donald Trump&#8217;s assertion he could quickly end the Ukraine war should be viewed realistically, given that he had promised a Middle East peace breakthrough but failed to achieve it during his presidency.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/nation-world-news/russia-says-lets-be-realistic-about-trump-plan-to-end-ukraine-war/>
+
+---
+
+## Assassination attempt will not be the end of leftist violence
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>Details are still emerging about the attempt to kill Donald Trump &#8212; about the shooter and how it was possible, and also what it says about America.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/opinion/assassination-attempt-will-not-be-the-end-of-leftist-violence/>
+
+---
+
+## Right-wing politicos must relinquish their violent rhetoric
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>Sadly, political violence is as old as politics itself, around the globe and, yes, in the United States. However, the last decade has seen a marked increase, especially in the United States.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/opinion/right-wing-politicos-must-relinquish-their-violent-rhetoric/>
+
+---
+
+## House to hold hearings next week to look at attempted Trump assassination
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>MILWAUKEE &#8212; Three U.S. House committees will hold hearings next week on the attempted assassination of former President Donald Trump, and Butler officials have been asked to testify at a fourth.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/nation-world-news/house-to-hold-hearings-next-week-to-look-at-attempted-trump-assassination/>
+
+---
+
+## US appeals court blocks all of Biden student debt relief plan
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>A federal appeals court on Thursday blocked President Joe Biden&#8217;s administration from continuing to implement a new student debt relief plan designed to lower monthly payments for millions of Americans.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/nation-world-news/us-appeals-court-blocks-all-of-biden-student-debt-relief-plan/>
+
+---
+
+## Israel bombards central Gaza as tanks advance deeper in Rafah
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/GAZA &#8212; Israeli forces bombarded the Gaza Strip&#8217;s historic refugee camps in the center of the enclave and struck Gaza City in the north on Thursday, killing at least 21 people, and tanks pushed deeper into Rafah in the south, health officials and residents said.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/nation-world-news/israel-bombards-central-gaza-as-tanks-advance-deeper-in-rafah/>
+
+---
+
+## In landmark ruling, South Korea’s top court confirms state benefits for gay couples
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL &#8212; South Korea&#8217;s supreme court on Thursday upheld a ruling that a same-sex partner was eligible for spousal benefits from state health insurance, a move hailed as a win for LGBTQ rights in a country that has lagged others in the region.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/nation-world-news/in-landmark-ruling-south-koreas-top-court-confirms-state-benefits-for-gay-couples/>
+
+---
+
+## A daily pill to prevent STIs? It may work, scientists say
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>A daily dose of a widely used antibiotic can prevent some infections with syphilis, gonorrhea and chlamydia, potentially a new solution to the escalating crisis of sexually transmitted infections, scientists reported Thursday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/nation-world-news/a-daily-pill-to-prevent-stis-it-may-work-scientists-say/>
+
+---
+
+## Illinois deputy fired, charged in fatal shooting of Black woman at her home
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>A former Illinois sheriff&#8217;s deputy pleaded not guilty to murder on Thursday, according to court documents, one day after he was fired, arrested and charged in the fatal shooting of a 36-year-old Black woman during a call for help at her home.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/nation-world-news/illinois-deputy-fired-charged-in-fatal-shooting-of-black-woman-at-her-home/>
+
+---
+
+## Actor Bob Newhart, famous for deadpan humor, dies at age 94
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES (Reuters) &#8212; Bob Newhart, who fled the tedium of an accounting job to become a master of stammering, deadpan humor as a standup comedian and later as a U.S. television sitcom star, died on Thursday at the age of 94, his publicist said.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/nation-world-news/actor-bob-newhart-famous-for-deadpan-humor-dies-at-age-94/>
+
+---
+
+## Trump supporters sport bandaged ears at RNC in show of solidarity
+
+date: 2024-07-19, from: Hawaii Tribune Harold
+
+
+				<p>Donald Trump supporters and GOP delegates wore bandages over their right ears at this week&#8217;s Republican National Convention in a show of support for their presidential candidate, who sported a similar look after he was grazed by a bullet during an assassination attempt on Saturday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/19/nation-world-news/trump-supporters-sport-bandaged-ears-at-rnc-in-show-of-solidarity/>
+
+---
+
+## Public Health Benefits Portal to be temporarily offline
+
+date: 2024-07-19, from: Guam Daily Post
+
+Island residents who receive public assistance should take notice that the Public Health Benefits Portal is scheduled to go offline for a couple of days over the Liberation Day weekend, the Department of Public Health and Social Services announced in… 
+
+<https://www.postguam.com/news/local/public-health-benefits-portal-to-be-temporarily-offline/article_b38c24d6-44c1-11ef-8b6e-8304a097c5a0.html>
+
+---
+
+## GVB hosts block party at Paseo for Liberation Weekend
+
+date: 2024-07-19, from: Guam Daily Post
+
+As a part of the 80th Guam Liberation Day festivities, the Guam Visitors Bureau is pleased to host the celebratory Liberation Block Party, which will be held from 2 p.m. to 10 p.m. Saturday and Sunday at the Paseo de… 
+
+<https://www.postguam.com/news/local/gvb-hosts-block-party-at-paseo-for-liberation-weekend/article_cec4b6e6-4561-11ef-be0c-17a657415e93.html>
+
+---
+
+## OAG: 'Lookout' suspect charged in school burglaries
+
+date: 2024-07-19, from: Guam Daily Post
+
+A second man has been charged in connection to a string of thefts reported by a Dededo public school. 
+
+<https://www.postguam.com/news/local/oag-lookout-suspect-charged-in-school-burglaries/article_ecd14daa-44f5-11ef-8b96-4f89a5b6288d.html>
+
+---
+
+## GDOE, Homeland Security collaborate in ‘Surviving an Active Threat’ training event
+
+date: 2024-07-19, from: Guam Daily Post
+
+Guam Department of Education school administration and staff will be prepared to handle an active threat on a school campus as they are undergoing a training program called “Surviving an Active Threat,” GDOE announced in a press release issued Thursday. 
+
+<https://www.postguam.com/news/local/gdoe-homeland-security-collaborate-in-surviving-an-active-threat-training-event/article_e0773244-44c4-11ef-a29f-732d0007b6db.html>
+
+---
+
+## Man found guilty of drug, firearm charges
+
+date: 2024-07-19, from: Guam Daily Post
+
+A jury reached a guilty verdict for a man facing charges related to a traffic stop in April that resulted in police officers finding drugs and a firearm. 
+
+<https://www.postguam.com/news/local/man-found-guilty-of-drug-firearm-charges/article_36465e56-44f8-11ef-8592-a3153f3f4cf7.html>
+
+---
+
+## Governor signs Bill 175, 3 others into law
+
+date: 2024-07-19, from: Guam Daily Post
+
+With the lieutenant governor and various lawmakers and other stakeholders surrounding her, Gov. Lou Leon Guerrero appended her signature onto Bill 175-37 during a signing ceremony at Adelup on Thursday afternoon. 
+
+<https://www.postguam.com/news/local/governor-signs-bill-175-3-others-into-law/article_543d48e4-4579-11ef-a7e2-cfd7e84f20de.html>
+
+---
+
+## Supreme Court issues ruling in Public Health director’s criminal case
+
+date: 2024-07-19, from: Guam Daily Post
+
+A 28-page Supreme Court of Guam decision issued Thursday in the criminal case involving Guam Department of Public Health and Social Services Director Arthur San Agustin means that Presiding Judge Alberto Lamorena III will stay on the case. 
+
+<https://www.postguam.com/news/local/supreme-court-issues-ruling-in-public-health-director-s-criminal-case/article_7c4ada94-457a-11ef-beaf-9ff53c55b228.html>
+
+---
+
+## Airport says no impact to flights at this time as global tech issues cause delays
+
+date: 2024-07-19, from: Guam Daily Post
+
+The A.B. Won Pat International Airport Authority is reporting no impact to flights at this time as news outlets report about global technical issues affecting airlines and other businesses. 
+
+<https://www.postguam.com/news/airport-says-no-impact-to-flights-at-this-time-as-global-tech-issues-cause-delays/article_686d6712-45a7-11ef-94c0-d729b0df3fe7.html>
+
+---
+
+## Unofficial results of Ngiwal State 11th general election highlight low voter turnout
+
+date: 2024-07-19, from: Island Times
+
+<p>Ngiwal, Palau – The unofficial results for the Ngiwal State 11th General Election, held on July 09, 202, have been released, revealing a low voter turnout that could have significant implications for future elections and perhaps the 2024 National General Elections. LOW VOTER TURNOUT Out of 727 registered voters in Ngiwal State, only 282 participated [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/unofficial-results-of-ngiwal-state-11th-general-election-highlight-low-voter-turnout/">Unofficial results of Ngiwal State 11th general election highlight low voter turnout</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/unofficial-results-of-ngiwal-state-11th-general-election-highlight-low-voter-turnout/>
+
+---
+
+## Palau makes an effort to comply with human trafficking protection but is still placed on Tier 2
+
+date: 2024-07-19, from: Island Times
+
+<p>The United States Department placed Palau again in Tier 2 on the annual Trafficking In Persons Report (TIP), but the report highlighted several efforts being made by the island nation to combat human trafficking. In the report, Palau is said to be “increasing efforts compared with the previous reporting period; therefore, Palau remained on Tier [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-makes-an-effort-to-comply-with-human-trafficking-protection-but-is-still-placed-on-tier-2/">Palau makes an effort to comply with human trafficking protection but is still placed on Tier 2</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-makes-an-effort-to-comply-with-human-trafficking-protection-but-is-still-placed-on-tier-2/>
+
+---
+
+## Lebuu’s Odyssey
+
+date: 2024-07-19, from: Island Times
+
+<figure><img width="600" height="783" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_Lebuus-Voyage-.jpg?fit=600%2C783&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_Lebuus-Voyage-.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_Lebuus-Voyage-.jpg?resize=230%2C300&amp;ssl=1 230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_Lebuus-Voyage-.jpg?resize=400%2C522&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_Lebuus-Voyage-.jpg?fit=600%2C783&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71374" data-permalink="https://islandtimes.org/lebuus-odyssey/npg-d14235-lee-boo-by-henry-kingsbury-published-by-george-nicol-published-for-henry-wilson-after-georgiana-jane-henderson-nee-keate/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_Lebuus-Voyage-.jpg?fit=600%2C783&amp;ssl=1" data-orig-size="600,783" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;National Portrait Gallery London&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;by Henry Kingsbury, published by  George Nicol, published for  Henry Wilson, after  Georgiana Jane Henderson (n\u00c8e Keate), stipple engraving, published 1 May 1788&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;\u00a9 National Portrait Gallery, London&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;NPG D14235; Lee Boo by Henry Kingsbury, published by  George Nicol, published for  Henry Wilson, after  Georgiana Jane Henderson (n\u00c8e Keate)&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="NPG D14235; Lee Boo by Henry Kingsbury, published by  George Nicol, published for  Henry Wilson, after  Georgiana Jane Henderson (nÈe Keate)" data-image-description="" data-image-caption="&lt;p&gt;by Henry Kingsbury, published by  George Nicol, published for  Henry Wilson, after  Georgiana Jane Henderson (nÈe Keate), stipple engraving, published 1 May 1788&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_Lebuus-Voyage-.jpg?fit=230%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_Lebuus-Voyage-.jpg?fit=600%2C783&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Inspiring Palau&#8217;s Ocean Exploration Lebuu, a young Palauan from Koror, holds the distinction of being Palau&#8217;s first explorer and one of the first Pacific Islanders to visit Great Britain. His story, documented in 1788 by George Keate, highlights a remarkable chapter in Pacific and global exploration history. In 1783, Lebuu&#8217;s life took an extraordinary turn. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/lebuus-odyssey/">Lebuu&#8217;s Odyssey</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/lebuus-odyssey/>
+
+---
+
+## Landslide cleared after blocking road in Babeldaob
+
+date: 2024-07-19, from: Island Times
+
+<figure><img width="600" height="445" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/landslide.jpg?fit=600%2C445&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/landslide.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/landslide.jpg?resize=300%2C223&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/landslide.jpg?resize=400%2C297&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/landslide.jpg?fit=600%2C445&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71371" data-permalink="https://islandtimes.org/landslide-cleared-after-blocking-road-in-babeldaob/landslide/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/landslide.jpg?fit=600%2C445&amp;ssl=1" data-orig-size="600,445" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="landslide" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/landslide.jpg?fit=300%2C223&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/landslide.jpg?fit=600%2C445&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By:  Olkeriil Eoghan Ngirudelsang Heavy rains caused a landslide on the west side of a compact road between the intersections of Aimeliik and Ngatpang in Babeldaob two nights ago. The Palau Bureau of Public Safety announced the landslide on its social media page and through Eco Paradise FM at 7:50 pm that night. The post [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/landslide-cleared-after-blocking-road-in-babeldaob/">Landslide cleared after blocking road in Babeldaob</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/landslide-cleared-after-blocking-road-in-babeldaob/>
+
+---
+
+## Australia to fix Palau’s hospital pending plans to build a new medical facility
+
+date: 2024-07-19, from: Island Times
+
+<p>KOROR (PACIFIC ISLAND TIMES) &#8212; The Australian Embassy has launched a major project to refurbish the Belau National Hospital in Palau to extend the facility&#8217;s lifespan pending plans to build a new hospital. The embassy has partnered with the Alexander &#38; Lloyd Group on the project. “Australia is responding to Palau’s priorities by supporting Palau [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australia-to-fix-palaus-hospital-pending-plans-to-build-a-new-medical-facility/">Australia to fix Palau&#8217;s hospital pending plans to build a new medical facility</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/australia-to-fix-palaus-hospital-pending-plans-to-build-a-new-medical-facility/>
+
+---
+
+## Public schools in Palau welcome students for New School Year
+
+date: 2024-07-19, from: Island Times
+
+<p>Public schools in Palau began a new school year on Wednesday, following the year-round school calendar. This contrasts with private schools, which are resuming classes after a summer break. Palau High School (PHS), the only public high school in the country, is currently in its drop-and-add period, which ends tomorrow. This allows students to finalize [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/public-schools-in-palau-welcome-students-for-new-school-year/">Public schools in Palau welcome students for New School Year</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/public-schools-in-palau-welcome-students-for-new-school-year/>
+
+---
+
+## Palau Congress welcomes contribution from Taiwan to support the 4th conference of the PIPG
+
+date: 2024-07-19, from: Island Times
+
+<figure><img width="1024" height="398" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PRESS-RELEASE_2024-PIPG_1.jpg?fit=1024%2C398&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PRESS-RELEASE_2024-PIPG_1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PRESS-RELEASE_2024-PIPG_1.jpg?resize=300%2C117&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PRESS-RELEASE_2024-PIPG_1.jpg?resize=1024%2C398&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PRESS-RELEASE_2024-PIPG_1.jpg?resize=768%2C299&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PRESS-RELEASE_2024-PIPG_1.jpg?resize=1200%2C467&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PRESS-RELEASE_2024-PIPG_1.jpg?resize=400%2C156&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PRESS-RELEASE_2024-PIPG_1.jpg?resize=706%2C275&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PRESS-RELEASE_2024-PIPG_1.jpg?fit=1024%2C398&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71357" data-permalink="https://islandtimes.org/palau-congress-welcomes-contribution-from-taiwan-to-support-the-4th-conference-of-the-pipg/press-release-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PRESS-RELEASE_2024-PIPG_1.jpg?fit=1249%2C486&amp;ssl=1" data-orig-size="1249,486" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Josepha Joyce Rdialul&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;PRESS RELEASE&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PRESS RELEASE" data-image-description="" data-image-caption="&lt;p&gt;L-R: OEK Procurement Officer, Adora Ngiramolau, Sen. Umiich Sengebau, Senate PIPG Rep,; Hon. Hokkons Baules, Senate President; Min. Kaleb Udui, MOF; Amb. Jessica C. Lee; Speaker Sabino Anastacio; Del. Sebastian R. Marino, HOD PIPG Rep; and Franklin F. Y. Chen, Minister/ Counselor, ROC &#8211; Taiwan Embassy&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PRESS-RELEASE_2024-PIPG_1.jpg?fit=300%2C117&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PRESS-RELEASE_2024-PIPG_1.jpg?fit=780%2C303&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>The National Congress of Palau is pleased to announce the generous contribution of USD 25,000 from Taiwan to support the 4th Conference of the Pacific Islands Parliaments Group (PIPG). The conference, scheduled to take place in Palau from August 14 to 16, 2024, will focus on the theme &#8220;Human Development in Oceania: How Can Legislatures [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-congress-welcomes-contribution-from-taiwan-to-support-the-4th-conference-of-the-pipg/">Palau Congress welcomes contribution from Taiwan to support the 4th conference of the PIPG</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-congress-welcomes-contribution-from-taiwan-to-support-the-4th-conference-of-the-pipg/>
+
+---
+
+## Soaring costs push Palauans abroad, candidates offer solutions
+
+date: 2024-07-19, from: Island Times
+
+<p>By: Olkeriil Eoghan Ngirudelsang Outmigration is a critical issue in Palau, with residents citing the high cost of living as a key factor driving them abroad. Presidential candidate Tommy Remengesau expressed alarm at the trend, stating that in the past, Palauans migrated for jobs, housing, and independence. Now, he said, &#8220;the scenario where Palauans who [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/soaring-costs-push-palauans-abroad-candidates-offer-solutions/">Soaring costs push Palauans abroad, candidates offer solutions</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/soaring-costs-push-palauans-abroad-candidates-offer-solutions/>
+
+---
+
+## Japan Culture Week
+
+date: 2024-07-19, from: Island Times
+
+<figure><img width="600" height="415" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/30th-Anniversary-Logo-Palau-Japan-copy.jpg?fit=600%2C415&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/30th-Anniversary-Logo-Palau-Japan-copy.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/30th-Anniversary-Logo-Palau-Japan-copy.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/30th-Anniversary-Logo-Palau-Japan-copy.jpg?resize=400%2C277&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/30th-Anniversary-Logo-Palau-Japan-copy.jpg?fit=600%2C415&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71361" data-permalink="https://islandtimes.org/japan-culture-week/30th-anniversary-logo-palau-japan-copy/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/30th-Anniversary-Logo-Palau-Japan-copy.jpg?fit=600%2C415&amp;ssl=1" data-orig-size="600,415" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="30th Anniversary Logo Palau-Japan copy" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/30th-Anniversary-Logo-Palau-Japan-copy.jpg?fit=300%2C208&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/30th-Anniversary-Logo-Palau-Japan-copy.jpg?fit=600%2C415&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Introducing Judo &#38; Kimono to Palauan Schools The year 2024 marks the 30th anniversary of the Independence of Palau as well as the 30th anniversary of the establishment of diplomatic relations between Japan and Palau. In addition, the 10th Pacific Island Leaders Meeting (PALM10) will be held in Tokyo on the 16th to the 18th [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japan-culture-week/">Japan Culture Week</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/japan-culture-week/>
+
+---
+
+## Vendor Day Event
+
+date: 2024-07-19, from: Island Times
+
+<figure><img width="600" height="690" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Koa-Moana-24-Vendor-Day-Event-Press-Release-002.jpg?fit=600%2C690&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Koa-Moana-24-Vendor-Day-Event-Press-Release-002.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Koa-Moana-24-Vendor-Day-Event-Press-Release-002.jpg?resize=261%2C300&amp;ssl=1 261w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Koa-Moana-24-Vendor-Day-Event-Press-Release-002.jpg?resize=400%2C460&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Koa-Moana-24-Vendor-Day-Event-Press-Release-002.jpg?fit=600%2C690&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71354" data-permalink="https://islandtimes.org/vendor-day-event/koa-moana-24-vendor-day-event-press-release-002/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Koa-Moana-24-Vendor-Day-Event-Press-Release-002.jpg?fit=600%2C690&amp;ssl=1" data-orig-size="600,690" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Jackson SSgt John E&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Koa Moana 24 Vendor Day Event Press Release (002)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Koa-Moana-24-Vendor-Day-Event-Press-Release-002.jpg?fit=261%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Koa-Moana-24-Vendor-Day-Event-Press-Release-002.jpg?fit=600%2C690&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>on July 24, 9 a.m. KOROR, PALAU – U.S. Marines from Combat Logistics Battalion 13, part of the 1st Marine Logistics Group, in collaboration with the U.S. Embassy – Koror, announce an upcoming Vendor Day Event aimed at empowering and educating small business owners in Palau while providing an opportunity to speak with CLB-13’s contracting [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/vendor-day-event/">Vendor Day Event</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/vendor-day-event/>
+
+---
+
+## 6 JICA volunteers completing their assignment and returning to Japan
+
+date: 2024-07-19, from: Island Times
+
+<p>In late July 2024, 6 JICA volunteers are completing their assignment in Palau and returning to Japan. Itabashi Naomi, Yamahata Rika, Dodo Maiko and Hasewaga Tsuyoshi contributed to the improvement of math education at Maris Stella school, Airai Elementary School, Melekeok Elementary School and Bureau of Curriculum and Instruction/Palau High school respectively. Support for mathematics [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/6-jica-volunteers-completing-their-assignment-and-returning-to-japan/">6 JICA volunteers completing their assignment and returning to Japan</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/6-jica-volunteers-completing-their-assignment-and-returning-to-japan/>
+
+---
+
+## Bureau of Customs and Border Protection announces new hires and promotions
+
+date: 2024-07-19, from: Island Times
+
+<figure><img width="1024" height="502" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Oath-of-Office.jpg?fit=1024%2C502&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Oath-of-Office.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Oath-of-Office.jpg?resize=300%2C147&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Oath-of-Office.jpg?resize=1024%2C502&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Oath-of-Office.jpg?resize=768%2C376&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Oath-of-Office.jpg?resize=1200%2C588&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Oath-of-Office.jpg?resize=400%2C196&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Oath-of-Office.jpg?resize=706%2C346&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Oath-of-Office.jpg?fit=1024%2C502&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71348" data-permalink="https://islandtimes.org/bureau-of-customs-and-border-protection-announces-new-hires-and-promotions/oath-of-office/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Oath-of-Office.jpg?fit=1249%2C612&amp;ssl=1" data-orig-size="1249,612" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Oath of Office" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Oath-of-Office.jpg?fit=300%2C147&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Oath-of-Office.jpg?fit=780%2C382&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Koror, Palau – July 16, 2024 &#8211; The Bureau of Customs and Border Protection is pleased to announce the addition of four new Customs Officers: Joyah Nigraiwet, Dawn Surech Kemesong, Lynette Ikesakes, and Carter Ngiralbong. Carter Ngiralbong, previously serving as a Biosecurity Officer, has transitioned into his new role as a Customs Officer. The swearing-in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/bureau-of-customs-and-border-protection-announces-new-hires-and-promotions/">Bureau of Customs and Border Protection announces new hires and promotions</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/bureau-of-customs-and-border-protection-announces-new-hires-and-promotions/>
+
+---
+
+## Farewell Note from Marissa Dilmeang Spires
+
+date: 2024-07-19, from: Island Times
+
+<p>To the readers of Island Times, the newspaper staff, other figures in the media, my family, friends, and to those who have followed along my articles: &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; It was such an honor to work as an intern for Island Times this summer under the mentorship of publisher and editor, Leilani Reklai. Mrs. Reklai is a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/farewell-note-from-marissa-dilmeang-spires/">Farewell Note from Marissa Dilmeang Spires</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/farewell-note-from-marissa-dilmeang-spires/>
+
+---
+
+## The Silent Majority
+
+date: 2024-07-19, from: Island Times
+
+<p>by Alonzo Kahalic alkahalic6801@gmail.com Dear Editor, Leaders: Serve the People, Not Yourselves So during our Constitution Day, I am reminded that in small nations like Palau, the relationship between leaders and constituents should be one of mutual respect, transparency, and genuine service. However, in recent times, it seems that our leaders have become more interested [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-silent-majority-13/">The Silent Majority</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/the-silent-majority-13/>
+
+---
+
+## Plane crash in Vanuatu claims one life
+
+date: 2024-07-19, from: Island Times
+
+<p>PORT VILA (VANUATU DAILY POST) &#8212; Air Taxi suffered its second disastrous plane crash of 2024, landing at Montmartre Plantation with five people on board, including the pilot, Monday  This morning, the Vanuatu Daily Post received news that one of the five survivors, who was badly hurt, has died from his injuries. Flying from Tafea [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/plane-crash-in-vanuatu-claims-one-life/">Plane crash in Vanuatu claims one life</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/plane-crash-in-vanuatu-claims-one-life/>
+
+---
+
+## Nations gather to negotiate deep sea mining code as opposition mounts
+
+date: 2024-07-19, from: Island Times
+
+<p>KINGSTON (STAIT TIMES) &#8212; The United Nations&#8217; International Seabed Authority (ISA) will meet on Monday to consider new rules allowing firms to extract minerals from the ocean floor, despite mounting concerns about the economic and environmental risks. Supporters say deep sea mining will help boost supplies of raw materials like cobalt and nickel, which are [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/nations-gather-to-negotiate-deep-sea-mining-code-as-opposition-mounts/">Nations gather to negotiate deep sea mining code as opposition mounts</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/nations-gather-to-negotiate-deep-sea-mining-code-as-opposition-mounts/>
+
+---
+
+## Hawaii, Guam not covered by treaty, but NATO’s got their backs, U.S official claims
+
+date: 2024-07-19, from: Island Times
+
+<p>HONOLULU/HAGATNA (PACIFIC ISLAND TIMES) &#8212; If a foreign aggressor attacked Hawaii or Guam, the Department of State is optimistic that the North Atlantic Treaty Organisation (NATO) would come to the rescue, notwithstanding the Pacific territories&#8217; exclusion from the treaty. Any attack on the U.S or its territories, “even if outside of the geographic scope of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/hawaii-guam-not-covered-by-treaty-but-natos-got-their-backs-u-s-official-claims/">Hawaii, Guam not covered by treaty, but NATO&#8217;s got their backs, U.S official claims</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/hawaii-guam-not-covered-by-treaty-but-natos-got-their-backs-u-s-official-claims/>
+
+---
+
+## Pacific leaders demand fresh New Caledonia independence referendum
+
+date: 2024-07-19, from: Island Times
+
+<p>NOUMEA (BENAR NEWS) &#8212; A bloc of Pacific Island leaders on Wednesday condemned France’s “illegitimate” handling of the UN-mandated decolonization of its Pacific territory New Caledonia and called for a further referendum on independence. In a statement, the five member Melanesian Spearhead Group – Fiji, Papua New Guinea, Solomon Islands, Vanuatu and the pro-independence FLNKS [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-leaders-demand-fresh-new-caledonia-independence-referendum/">Pacific leaders demand fresh New Caledonia independence referendum</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/pacific-leaders-demand-fresh-new-caledonia-independence-referendum/>
+
+---
+
+## How Laos’ plans to fast-track development left it facing a debt and inflation crisis
+
+date: 2024-07-19, from: Island Times
+
+<p>By Will Jackson (ABC-Australia) Laos borrowed big — mainly from China through the Belt and Road Initiative — to fund an ambitious infrastructure program. Some have accused China of carrying out &#8220;debt-trap diplomacy&#8221; by intentionally luring Laos into taking on huge loans it cannot pay. What&#8217;s next? Defaulting, or declaring itself unable to pay its debtors, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/how-laos-plans-to-fast-track-development-left-it-facing-a-debt-and-inflation-crisis/">How Laos&#8217; plans to fast-track development left it facing a debt and inflation crisis</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/how-laos-plans-to-fast-track-development-left-it-facing-a-debt-and-inflation-crisis/>
+
+---
+
+## Russia and Ukraine each free 95 prisoners of war in third exchange in recent weeks
+
+date: 2024-07-19, from: Island Times
+
+<p>(ABC-Australia) Russia and Ukraine have released a total of 190 captured soldiers in their latest prisoner exchange, officials from the two sides said. Each side freed 95 soldiers, Ukrainian President Volodymyr Zelenskyy and Russia&#8217;s defence ministry said. The exchange was mediated by the United Arab Emirates, Mr Zelenskyy said. Russia and Ukraine have released a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/russia-and-ukraine-each-free-95-prisoners-of-war-in-third-exchange-in-recent-weeks/">Russia and Ukraine each free 95 prisoners of war in third exchange in recent weeks</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/russia-and-ukraine-each-free-95-prisoners-of-war-in-third-exchange-in-recent-weeks/>
+
+---
+
+## UH’s Machado signs free agent deal with Atlanta Braves
+
+date: 2024-07-19, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> designated hitter and catcher Austin Machado made a huge impact in his only year as a Rainbow Warrior.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/18/uhs-machado-signs-free-agent-deal-with-atlanta-braves/"><abbr>UH</abbr>’s Machado signs free agent deal with Atlanta Braves</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/18/uhs-machado-signs-free-agent-deal-with-atlanta-braves/>
+
+---
+
+## USP concludes Fiji-wide teachers’ workshop
+
+date: 2024-07-19, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) recently completed the 2024 Fiji-wide Careers Teachers and...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-concludes-fiji-wide-teachers-workshop/">USP concludes Fiji-wide teachers’ workshop</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-concludes-fiji-wide-teachers-workshop/>
+
+---
+
+## USP conducts workshop on understanding addiction
+
+date: 2024-07-19, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) recently conducted the latest in a series of...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-conducts-workshop-on-understanding-addiction/">USP conducts workshop on understanding addiction</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-conducts-workshop-on-understanding-addiction/>
+
+---
+
+## Employee service award winner commended for going above and beyond
+
+date: 2024-07-18, from: University of Hawaiʻi News
+
+<p>Kathie Kane, director for the Office of Faculty Development and Academic Support at <abbr>UH</abbr> Mānoa was honored for her service to the university.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/18/willard-wilson-award-2024-kane/">Employee service award winner commended for going above and beyond</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/18/willard-wilson-award-2024-kane/>
+
+---
+
+## Impacts of wildfires on clouds, climate research focus of mid-career award
+
+date: 2024-07-18, from: University of Hawaiʻi News
+
+<p>Jennifer Griswold’s research will aid scientists and policymakers in making decisions to protect community health, improve air quality and prepare for future wildfires.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/18/mid-career-award/">Impacts of wildfires on clouds, climate research focus of mid-career award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/18/mid-career-award/>
+
+---
+
+## July President’s BOR report: Enrollment, NASA telescope, employee service award
+
+date: 2024-07-18, from: University of Hawaiʻi News
+
+<p>President David Lassner provided updates on fall enrollment, recognized Kathleen Kane, more.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/18/july-presidents-bor-report-2024/">July President’s <abbr>BOR</abbr> report: Enrollment, NASA telescope, employee service award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/18/july-presidents-bor-report-2024/>
+
+---
+
+## 5 Vulcans earn national academic honors
+
+date: 2024-07-18, from: University of Hawaiʻi News
+
+<p>Five <abbr>UH</abbr> Hilo men’s basketball student-athletes were named to the 2023&#8211;24 National Association of Basketball Coaches Honors Court.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/18/vulcans-earn-national-academic-honors/">5 Vulcans earn national academic honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/18/vulcans-earn-national-academic-honors/>
+
+---
+
+## Aussies give not to RMI
+
+date: 2024-07-18, from: Marshal Islands Journal
+
+<p>Journal 7/17/1987 P1 Aussies give nod to new Marshalls statusAustralia became the first South Pacific country to formally recognize the Marshall Islands when the Australian Ambassador to the Marshall Islands Richard Smith exchanged diplomatic notes with Foreign Minister Charles Domnick last week. “We are now dealing independently with the government of the Marshall Islands, not [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/aussies-give-not-to-rmi/">Aussies give not to RMI</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/aussies-give-not-to-rmi/>
+
+---
+
+## Bookshelf: Guam, 80 years ago 
+
+date: 2024-07-18, from: Pacific Island Times
+
+By Pacific Island Times News Staff On July, 27 1944, the Stars and Stripes were raised over Guam, symbolizing the return of the Old Glory... 
+
+<https://www.pacificislandtimes.com/post/bookshelf-guam-80-years-ago>
+
+---
+
+## Bookshelf: Madeleine Bordallo's biography slated for release July 22
+
+date: 2024-07-18, from: Pacific Island Times
+
+By Pacific Island Times News Staff Madeleine Z. Bordallo’s career in public service and politics spanned more than five decades. She... 
+
+<https://www.pacificislandtimes.com/post/bookshelf-madeleine-bordallo-s-biography-slated-for-release-july-22>
+
+---
+
+## State House District 23 (Democratic Primary)
+
+date: 2024-07-18, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists: Pat McCain Ikaika Olds Paul Robotti Ian Ross To read our Election Policy, click here. &#160;</p>
+<p>The post <a href="https://www.pbshawaii.org/state-house-23-democratic-primary/">State House District 23 (Democratic Primary)</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/state-house-23-democratic-primary/>
+
+---
+
+## Youth have a blast
+
+date: 2024-07-18, from: Marshal Islands Journal
+
+<p>The Church of Jesus Christ of Latter-Day Saints concluded its multi-stake youth conference with a dance night earlier this month at the Long Island center. Ebeye and Majuro youth and leaders took it to the dance floor with exhilarating and amorous music from the Al in Majel band, which is their third performance for the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/youth-have-a-blast/">Youth have a blast</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/youth-have-a-blast/>
 
 ---
 
@@ -378,6 +1201,18 @@ date: 2024-07-18, from: Hawaii Tribune Harold
 
 ---
 
+## NATO protection for Hawaii is not clear-cut
+
+date: 2024-07-18, from: Hawaii Tribune Harold
+
+
+				<p>In response to recent prodding by congressional lawmakers on whether NATO&#8217;s mutual defense treaty applies to Hawaii and whether it can be amended to explicitly include it, the U.S. State Department has responded with a partial answer. A senior State Department official said the agency believes that U.S. allies likely would respond if Hawaii was attacked, but that any chance of explicitly amending the treaty to include it or other U.S. Pacific territories is not likely.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/18/hawaii-news/nato-protection-for-hawaii-is-not-clear-cut/>
+
+---
+
 ## Rev. Harry Sam remembered
 
 date: 2024-07-18, from: Marshal Islands Journal
@@ -387,6 +1222,106 @@ date: 2024-07-18, from: Marshal Islands Journal
  
 
 <https://marshallislandsjournal.com/rev-harry-sam-remembered/>
+
+---
+
+## Past due: GEB questions why GDOE owes money to employees, vendors
+
+date: 2024-07-18, from: Guam Daily Post
+
+Money owed to Guam Department of Education employees and vendors was scrutinized during the Guam Education Board meeting on Tuesday, as one board member informed the GDOE superintendent that not paying carries penalties. 
+
+<https://www.postguam.com/news/local/past-due-geb-questions-why-gdoe-owes-money-to-employees-vendors/article_c44fd86a-43f1-11ef-bce9-372f10ae545f.html>
+
+---
+
+## Woman charged with possession of nearly 14 grams of meth
+
+date: 2024-07-18, from: Guam Daily Post
+
+Guam Police Department officers were conducting a traffic stop when they noticed a weapon on the dashboard of one of the vehicles they had stopped, which led to the arrest of a woman who allegedly was in possession of methamphetamine,… 
+
+<https://www.postguam.com/news/local/woman-charged-with-possession-of-nearly-14-grams-of-meth/article_b03d16bc-43fb-11ef-865c-37bba4bec9fd.html>
+
+---
+
+## Man accused of assaulting woman, 1-year-old
+
+date: 2024-07-18, from: Guam Daily Post
+
+A man was accused by multiple witnesses of assaulting a woman and her 1-year-old son. 
+
+<https://www.postguam.com/news/local/man-accused-of-assaulting-woman-1-year-old/article_95bab51e-43ca-11ef-816d-3ff660541a8c.html>
+
+---
+
+## Suspect allegedly had meth during traffic stop
+
+date: 2024-07-18, from: Guam Daily Post
+
+Jayjam Selbart, 26, was arrested by Guam Police Department officers on Tuesday, after he allegedly displayed behavior that prompted police to conduct a search during the traffic stop, according to a magistrate's complaint filed Wednesday in the Superior Court of… 
+
+<https://www.postguam.com/news/local/suspect-allegedly-had-meth-during-traffic-stop/article_6f5ca0ba-43fe-11ef-a244-4f3ce20dc45d.html>
+
+---
+
+## Trial begins for mother accused in son's death
+
+date: 2024-07-18, from: Guam Daily Post
+
+Jurors sat quietly to listen to opening statements and the first witness in the case of a mother who is accused of beating her 14-month-old son to death on Nov. 1, 2023. On the first day of the trial, Giltinan… 
+
+<https://www.postguam.com/news/local/trial-begins-for-mother-accused-in-sons-death/article_8a0c0992-44c0-11ef-9302-2fecbff45f0b.html>
+
+---
+
+## Former, current delegates butt heads on federal voter eligibility measure
+
+date: 2024-07-18, from: Guam Daily Post
+
+In press release issued by former Guam Del. Michael San Nicolas, who is vying to retake the seat this election, San Nicolas said current Del. James Moylan "has got to go," as he criticized the current congressman over the passage… 
+
+<https://www.postguam.com/news/local/former-current-delegates-butt-heads-on-federal-voter-eligibility-measure/article_304fea36-4402-11ef-9a51-d32448934b5c.html>
+
+---
+
+## Guam youth tennis returns home with championship
+
+date: 2024-07-18, from: Guam Daily Post
+
+In April, in the Commonwealth of the Northern Mariana Islands, after a successful North Pacific Regional Championship, 10 Guam Junior National Tennis Team players traveled to Fiji to participate in the Pacific Oceania Junior Championships. 
+
+<https://www.postguam.com/sports/local/guam-youth-tennis-returns-home-with-championship/article_e8e1de24-4493-11ef-b85f-8f5e0f51b14d.html>
+
+---
+
+## Harvest Eagles' Shinohara flies into Shieh Su Ying Scholar Athlete finals
+
+date: 2024-07-18, from: Guam Daily Post
+
+Editor's note: In this eighth of 13 articles in a series that chronicles the successes and achievements of the 2024 Shieh Su Ying Scholar Athlete Award finalists, The Guam Daily Post shares the story of Harvest Christian Academy student-athlete Christian… 
+
+<https://www.postguam.com/sports/local/harvest-eagles-shinohara-flies-into-shieh-su-ying-scholar-athlete-finals/article_984d7b68-448d-11ef-861a-bf9424757f7b.html>
+
+---
+
+## GPA: Ukudu plant 88% completed, temporary power fully online soon
+
+date: 2024-07-18, from: Guam Daily Post
+
+The temporary Aggreko power generation units stationed in Yigo have now tested up to 16 megawatts and, while there are still 4 more megawatts to go before the units reach full capacity at 20 MW, the generators have been contributing… 
+
+<https://www.postguam.com/news/local/gpa-ukudu-plant-88-completed-temporary-power-fully-online-soon/article_771bc1ec-449d-11ef-a480-5bfdb9f7e289.html>
+
+---
+
+## Governor signs Bill 175, three others into law
+
+date: 2024-07-18, from: Guam Daily Post
+
+With the lieutenant governor and various lawmakers and stakeholders surrounding her, Gov. Lou Leon Guerrero appended her signature onto Bill 175-37 during a signing ceremony at Adelup Thursday afternoon. 
+
+<https://www.postguam.com/news/governor-signs-bill-175-three-others-into-law/article_015e3680-44b4-11ef-9003-df5550794a8e.html>
 
 ---
 

@@ -1,11 +1,136 @@
 ---
 title: central coast 2024.29
-updated: 2024-07-18 07:46:41
+updated: 2024-07-19 07:54:31
 ---
 
 # central coast 2024.29
 
-(date: 2024-07-18 07:46:41)
+(date: 2024-07-19 07:54:31)
+
+---
+
+## Lamanai Mayan Ruins
+
+date: 2024-07-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="684" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Lori-Call.jpg?fit=1024%2C684&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Lamanai Mayan Ruins in Belize." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Lori-Call.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Lori-Call.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Lori-Call.jpg?resize=1024%2C684&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Lori-Call.jpg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Lori-Call.jpg?resize=1536%2C1026&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Lori-Call.jpg?resize=2048%2C1368&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Lori-Call.jpg?resize=1200%2C802&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Lori-Call.jpg?resize=1568%2C1047&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Lori-Call.jpg?resize=2000%2C1336&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Lori-Call.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Lori-Call.jpg?resize=706%2C472&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Lori-Call.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Lori-Call.jpg?fit=1024%2C684&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/lamanai-mayan-ruins/">Lamanai Mayan Ruins</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/lamanai-mayan-ruins/>
+
+---
+
+## Errors Haunt Santa Barbara Foresters in 8-2 Loss to Rival San Luis Obispo Blues
+
+date: 2024-07-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/forester-cover-718.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/forester-cover-718.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/forester-cover-718.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/forester-cover-718.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/forester-cover-718.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/forester-cover-718.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/forester-cover-718.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/forester-cover-718.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/forester-cover-718.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/forester-cover-718.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/forester-cover-718.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Santa Barbara Foresters’ struggles against their rival San Luis Obispo Blues continued on Thursday as they fell by a score of 8-2 at Eddie Mathews Field. The Foresters (22-9, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/errors-haunt-santa-barbara-foresters-in-8-2-loss-to-rival-san-luis-obispo-blues/">Errors Haunt Santa Barbara Foresters in 8-2 Loss to Rival San Luis Obispo Blues</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/errors-haunt-santa-barbara-foresters-in-8-2-loss-to-rival-san-luis-obispo-blues/>
+
+---
+
+## BizHawk: Boss Dog Gets New Digs in Santa Barbara’s Paseo Nuevo
+
+date: 2024-07-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-BizHawk-BossDog-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Devin Eklund, manager of Boss Dog, moved from Palm Springs to run the store in Santa Barbara&#039;s Paseo Nuevo mall." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-BizHawk-BossDog-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-BizHawk-BossDog-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-BizHawk-BossDog-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-BizHawk-BossDog-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-BizHawk-BossDog-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-BizHawk-BossDog-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-BizHawk-BossDog-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-BizHawk-BossDog-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-BizHawk-BossDog-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-BizHawk-BossDog-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara loves its dogs. Now, here comes the Boss Dog. Owner Mikey McKennedy has expanded his Palm Springs Boss Dog streetwear clothing brand and art prints shop into Santa [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-boss-dog-finds-new-digs-in-santa-barbaras-paseo-nuevo-mall/">BizHawk: Boss Dog Gets New Digs in Santa Barbara&#8217;s Paseo Nuevo</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bizhawk-boss-dog-finds-new-digs-in-santa-barbaras-paseo-nuevo-mall/>
+
+---
+
+## Restriping on Hollister Avenue in Old Town Goleta Draws Mixed Reactions
+
+date: 2024-07-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/07162024-Restriping-Hollister-05.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Hollister Avenue in Old Town Goleta." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/07162024-Restriping-Hollister-05.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/07162024-Restriping-Hollister-05.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/07162024-Restriping-Hollister-05.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/07162024-Restriping-Hollister-05.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/07162024-Restriping-Hollister-05.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/07162024-Restriping-Hollister-05.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/07162024-Restriping-Hollister-05.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/07162024-Restriping-Hollister-05.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/07162024-Restriping-Hollister-05.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/07162024-Restriping-Hollister-05.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>David Pulver, the owner of Upholstery Décor Inc. in Old Town Goleta, has opposed the restriping plan for Hollister Avenue from the beginning. He said he believes business owners were [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/restriping-on-hollister-avenue-in-old-town-goleta-draws-mixed-reactions/">Restriping on Hollister Avenue in Old Town Goleta Draws Mixed Reactions</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/restriping-on-hollister-avenue-in-old-town-goleta-draws-mixed-reactions/>
+
+---
+
+## Pedal the Pacific Team Making Strides to Raise Awareness of Sex Trafficking
+
+date: 2024-07-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-pedal-the-pacific-1-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The 2024 Pedal the Pacific team at the Santa Barbara County District Attorney’s Office. From left, Tiffany Carty of the DA’s Victim-Witness Assistance Program; team members Livia Sumner, Clare Harkins, Morgan McGehee, Alexis Couret, Hanna Teerman, Chloe Aguilar and Grace Hornung; Noozhawk publisher Bill Macfadyen; District Attorney John Savrnoch; Assistant District Attorney Kelly Duncan; Victim-Witness Assistance Program director Megan Rheinschild; and Chief Deputy District Attorney Jennifer Karapetian." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-pedal-the-pacific-1-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-pedal-the-pacific-1-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-pedal-the-pacific-1-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-pedal-the-pacific-1-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-pedal-the-pacific-1-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-pedal-the-pacific-1-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-pedal-the-pacific-1-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-pedal-the-pacific-1-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-pedal-the-pacific-1-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-pedal-the-pacific-1-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>On the 40th day of a 50-day journey from Seattle to San Diego, the 2024 Pedal the Pacific team stopped in Santa Barbara on Wednesday and met with representatives of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/pedal-the-pacific-team-making-strides-to-raise-awareness-of-human-trafficking/">Pedal the Pacific Team Making Strides to Raise Awareness of Sex Trafficking</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/pedal-the-pacific-team-making-strides-to-raise-awareness-of-human-trafficking/>
+
+---
+
+## Fun in the Sun Summer Learning Program Keeps Kids in the Know
+
+date: 2024-07-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Some 500 children are back on campus this summer for United Way of Santa Barbara County’s free 2024 Fun in the Sun summer learning program that runs for six weeks, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/fun-in-the-sun-summer-learning-program-keeps-kids-in-the-know/">Fun in the Sun Summer Learning Program Keeps Kids in the Know</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/fun-in-the-sun-summer-learning-program-keeps-kids-in-the-know/>
+
+---
+
+## Two Lanes of Hwy. 154 to Reopen After Repairs to Cracked Pavement
+
+date: 2024-07-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Caltrans reports it will reopen two lanes of Hwy. 154 between San Antonio Creek Road and Painted Cave Road by end of day Friday, July 19, following repairs to pavement [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/two-lanes-of-hwy-154-to-reopen-after-repairs-to-cracked-pavement/">Two Lanes of Hwy. 154 to Reopen After Repairs to Cracked Pavement</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/two-lanes-of-hwy-154-to-reopen-after-repairs-to-cracked-pavement/>
+
+---
+
+## LiveStrong at the Y Helps Cancer Survivors Change Their Focus
+
+date: 2024-07-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Stuart C. Gildred Family YMCA in Santa Ynez is offering LiveStrong at the YMCA, a free 12-week program for adult cancer survivors. Cancer is a life-changing disease that takes a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/livestrong-at-the-y-helps-cancer-survivors-change-their-focus/">LiveStrong at the Y Helps Cancer Survivors Change Their Focus</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/livestrong-at-the-y-helps-cancer-survivors-change-their-focus/>
+
+---
+
+## Welcome New Meiners Oaks Library
+
+date: 2024-07-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Ventura County Library will host a grand opening for the new Meiners Oaks Library, noon-2 p.m. Saturday, July 20 at 400 S. Lomita Ave., Ojai. Community members are invited to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/welcome-new-meiners-oaks-library/">Welcome New Meiners Oaks Library</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/welcome-new-meiners-oaks-library/>
+
+---
+
+## Caltrans Reopening Lanes of Highway 154 Traffic Starting Friday
+
+date: 2024-07-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-highway-154-caltrans-1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Caltrans is reopening lanes in each direction on Highway 154 near Painted Cave Road, which has had closures and one-way traffic control for emergency repairs." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-highway-154-caltrans-1.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-highway-154-caltrans-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-highway-154-caltrans-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-highway-154-caltrans-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-highway-154-caltrans-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-highway-154-caltrans-1.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-highway-154-caltrans-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-highway-154-caltrans-1.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-highway-154-caltrans-1.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-highway-154-caltrans-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-highway-154-caltrans-1.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071824-highway-154-caltrans-1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Highway 154 is preparing to open to more traffic this week as Caltrans makes progress on emergency repairs. Caltrans said it will be reopening lanes between San Antonio Creek Road [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/caltrans-reopening-lanes-of-highway-154-traffic-starting-friday/">Caltrans Reopening Lanes of Highway 154 Traffic Starting Friday</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/caltrans-reopening-lanes-of-highway-154-traffic-starting-friday/>
 
 ---
 

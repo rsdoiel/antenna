@@ -1,11 +1,35 @@
 ---
 title: home 2024.29
-updated: 2024-07-18 07:46:45
+updated: 2024-07-19 07:54:35
 ---
 
 # home 2024.29
 
-(date: 2024-07-18 07:46:45)
+(date: 2024-07-19 07:54:35)
+
+---
+
+## Momentum Builds for California Monuments
+
+date: 2024-07-18, from: California Native Plants Society
+
+<p>Tribes, community leaders, and organizations collaborate to protect Sáttítla and other vital California landscapes, ensuring the preservation of over 1 million acres of biologically and culturally significant lands.</p>
+<p>The post <a href="https://www.cnps.org/conservation/momentum-builds-for-california-monuments-39242">Momentum Builds for California Monuments</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/conservation/momentum-builds-for-california-monuments-39242>
+
+---
+
+## California Legislature Responds to Urgent Call for Funding
+
+date: 2024-07-18, from: California Native Plants Society
+
+<p>Proposition 4 on the November ballot seeks to secure resources for watershed restoration, wildfire resilience, and 30x30 conservation.</p>
+<p>The post <a href="https://www.cnps.org/conservation/california-legislature-responds-to-urgent-call-for-funding-39225">California Legislature Responds to Urgent Call for Funding</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/conservation/california-legislature-responds-to-urgent-call-for-funding-39225>
 
 ---
 

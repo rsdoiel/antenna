@@ -1,11 +1,33 @@
 ---
 title: writing 2024.29
-updated: 2024-07-18 07:46:43
+updated: 2024-07-19 07:54:34
 ---
 
 # writing 2024.29
 
-(date: 2024-07-18 07:46:43)
+(date: 2024-07-19 07:54:34)
+
+---
+
+## Alex Brown Reviews Mirrored Heavens by Rebecca Roanhorse
+
+date: 2024-07-18, from: Locus Magazine
+
+<p><strong>Mirrored Heavens</strong>, Rebecca Roanhorse (Saga Press 978-1-53443-770-8, $29.99. 608pp, hc) June 2024. Cover by John Picacio.</p>
+<p><strong>B</strong><strong>lack Sun</strong>, the first book in Rebecca Roan­horse’s epic fantasy series Between Earth and Sky, opened with one of the most impactful first chapters I’ve read in a long time. <strong>Fevered Star</strong>, the sequel, contained one of the most intense scenes of people who kinda deserved it getting slaughtered by  <a href="https://locusmag.com/2024/07/alex-brown-reviews-mirrored-heavens-by-rebecca-roanhorse/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/alex-brown-reviews-mirrored-heavens-by-rebecca-roanhorse/>
+
+---
+
+## World Convention News
+
+date: 2024-07-18, from: Locus Magazine
+
+<p>Glasgow 2024: A Worldcon for our Futures, the 82nd World Science Fiction, to be held August 8-12, 2024 at the Scottish Events Campus in Glasgow, Scotland, published Media Release #25 on June 7, 2024, announcing Samantha Béart Announced as Special Guest at Glasgow 2024. Beart &#8220;is a BAFTA and DICE nominated, GANG Award-winning actor. They are best known for their role as Karlach in Baldur’s Gate 3.&#8221; For more.</p>
+<p>The  <a href="https://locusmag.com/2024/07/world-convention-news/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/world-convention-news/>
 
 ---
 

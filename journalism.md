@@ -1,21 +1,41 @@
 ---
 title: journalism 2024.29
-updated: 2024-07-18 07:46:44
+updated: 2024-07-19 07:54:34
 ---
 
 # journalism 2024.29
 
-(date: 2024-07-18 07:46:44)
+(date: 2024-07-19 07:54:34)
 
 ---
 
 ## You’re more likely to believe fake news shared by someone you barely know than by your best friend
 
-date: 2024-07-17, from: Nieman Journalism Lab
+date: 2024-07-18, from: Nieman Journalism Lab
 
 Half a century ago, a young Stanford professor named Mark Granovetter published what would become one of the seminal papers in the field of sociology. &#8220;The Strength of Weak Ties&#8221; argued for the important of mere acquaintances — not just your friends — in the growing field of social network analysis. (It&#8217;s been cited more... 
 
 <https://www.niemanlab.org/2024/07/youre-more-likely-to-believe-fake-news-shared-by-someone-you-barely-know-than-by-your-best-friend/>
+
+---
+
+## To find readers for longform investigations, Public Health Watch leans on partners and in-person work
+
+date: 2024-07-18, from: Nieman Journalism Lab
+
+In the natural world, convergent evolution is when two organisms independently evolve to look or behave in very similar ways. The beloved — if endangered and chlamydia-ridden — koala evolved human-like fingerprints despite last sharing a common ancestor more than 100 million years ago. Humans are even less closely related to cephalopods and yet the... 
+
+<https://www.niemanlab.org/2024/07/to-find-readers-for-longform-investigations-public-health-watch-leans-on-partners-and-in-person-work/>
+
+---
+
+## Nearly all local online newsrooms produce newsletters, a LION report finds
+
+date: 2024-07-18, from: Nieman Journalism Lab
+
+How can local online newsrooms best reach, and keep, their audiences? That question keeps many news publishers up at night. In the inhospitable internet climate of 2024, between the ambivalence-to-antagonism of social media toward news and the looming threat of AI search decimating Google referrals, the need for alternatives to the two sources that were... 
+
+<https://www.niemanlab.org/2024/07/nearly-all-local-online-newsrooms-produce-newsletters-a-lion-report-finds/>
 
 ---
 

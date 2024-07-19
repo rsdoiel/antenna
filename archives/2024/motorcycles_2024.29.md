@@ -1,11 +1,81 @@
 ---
 title: motorcycles 2024.29
-updated: 2024-07-18 07:46:46
+updated: 2024-07-19 07:54:36
 ---
 
 # motorcycles 2024.29
 
-(date: 2024-07-18 07:46:46)
+(date: 2024-07-19 07:54:36)
+
+---
+
+## This All-Carbon EV Motorcycle Looks Like Tons Of Fun, Weighs Almost Nothing
+
+date: 2024-07-19, from: Ride Apart, Electric Motorcycle News
+
+It’s twice as powerful but nearly half the weight of a Honda Grom.  
+
+<https://www.rideapart.com/news/727055/solar-e-clipse-race-edition/>
+
+---
+
+## Sea-Doo’s Jet Skis Are Heading to the Olympics, but Not Competing
+
+date: 2024-07-19, from: Ride Apart, Electric Motorcycle News
+
+They'd kill in the 100-meter relay.  
+
+<https://www.rideapart.com/news/727141/sea-doo-jet-ski-wave-runner-olympics/>
+
+---
+
+## You Have to Watch a Twin Hayabusa-Swapped Mini Drag Race a Cross Kart
+
+date: 2024-07-19, from: Ride Apart, Electric Motorcycle News
+
+Liam Doran’s twin-hayabusa-engined Mini goes up against a custom Autograss racer.  
+
+<https://www.rideapart.com/news/727057/autograss-racer-drag-race-hoonigan/>
+
+---
+
+## Democratic Chair Struck From Behind, Killed in Motorcycle Accident
+
+date: 2024-07-19, from: Ride Apart, Electric Motorcycle News
+
+It will always be with a heavy heart we share news like this. 
+
+<https://www.rideapart.com/news/727155/rebecca-taylor-killed-motorcycle-accident/>
+
+---
+
+## Upcoming changes to the discovery feed
+
+date: 2024-07-19, from: Herman Bear Blog
+
+Bear's discovery feed improvements and a call for feedback 
+
+<https://herman.bearblog.dev/discovery-feed-changes/>
+
+---
+
+## 2024 Harley-Davidson Nightster and Nightster Special
+
+date: 2024-07-18, from: Cycle World News
+
+It might be the next-gen Sportster people expected from H-D in the first place, but is its more conventional cruiser styling at ease on the modern platform? 
+
+<https://www.cycleworld.com/harley-davidson/nightster/>
+
+---
+
+## Rajah Caruth: NASCAR’s Drive for Diversity ‘Was My Saving Grace’
+
+date: 2024-07-18, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor Every driver who competes in NASCAR has their own unique journey to reach the top levels of stock car racing. While some start at a&#8230;  
+
+<https://kickinthetires.net/nascar/caruth-drive-for-diversity-saving-grace/>
 
 ---
 

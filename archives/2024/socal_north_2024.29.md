@@ -1,11 +1,91 @@
 ---
 title: socal north 2024.29
-updated: 2024-07-18 07:46:39
+updated: 2024-07-19 07:54:29
 ---
 
 # socal north 2024.29
 
-(date: 2024-07-18 07:46:39)
+(date: 2024-07-19 07:54:29)
+
+---
+
+## Big Ten Preview: Northwestern
+
+date: 2024-07-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA is just weeks away from joining the Big Ten. After 96 years and 123 national championships in the Pac-12, the Bruins are at the forefront of the Big Ten&#8217;s West Coast expansion. 
+
+<https://dailybruin.com/2024/07/19/big-ten-preview-northwestern/>
+
+---
+
+## UCLA softball alumni power Team USA through group stage of 2024 WBSC World Cup
+
+date: 2024-07-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+One of the four Bruin alumni on Team USA&#8217;s 16-person roster was sure to make an impact on the team.
+What came more unexpectedly, however, was for the UCLA softball contingent to paint the box score and dominate on both sides of the ball. 
+
+<https://dailybruin.com/2024/07/18/ucla-softball-alumni-power-team-usa-through-group-stage-of-2024-wbsc-world-cup/>
+
+---
+
+## Film preview: Spirited adventures, heartwarming tales spark theater heat waves this summer
+
+date: 2024-07-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+As temperatures rise, cinema’s best films are being uncovered.
+Movie theaters will offer a chilling escape from the scorching heat this summer. Thrillers, comedies and coming-of-age nostalgia films will be released throughout this year’s most vibrant months. 
+
+<https://dailybruin.com/2024/07/18/film-preview-spirited-adventures-heartwarming-tales-spark-theater-heat-waves-this-summer/>
+
+---
+
+## Momentum Builds for California Monuments
+
+date: 2024-07-18, from: California Native Plants Society
+
+<p>Tribes, community leaders, and organizations collaborate to protect Sáttítla and other vital California landscapes, ensuring the preservation of over 1 million acres of biologically and culturally significant lands.</p>
+<p>The post <a href="https://www.cnps.org/conservation/momentum-builds-for-california-monuments-39242">Momentum Builds for California Monuments</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/conservation/momentum-builds-for-california-monuments-39242>
+
+---
+
+## Summer Camps at Your Local Community Centers
+
+date: 2024-07-18, from: City of Santa Clarita
+
+<p>By Councilwoman Marsha McLean “Summer camp is a great opportunity for children to be independent and self-reliant, but also to have a great time and create wonderful memories.” &#8211; Michael Eisner Summer is here! With the season in full swing and kids starting their school break, the City of Santa Clarita welcomes youth to one [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/07/18/summer-camps-at-your-local-community-centers/">Summer Camps at Your Local Community Centers</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/07/18/summer-camps-at-your-local-community-centers/>
+
+---
+
+## From UCLA to Paris, Noelle Quinn hones coaching in preparation for Olympics
+
+date: 2024-07-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated July 18 at 4:36 p.m.</em>
+Noelle Quinn stepped Tuesday onto a court she once called home.
+Quinn, who played three of her 13 WNBA seasons with the Los Angeles Sparks, said being back in the city as her current Seattle squad battles against the Sparks evoked a sense of nostalgia. 
+
+<https://dailybruin.com/2024/07/18/from-ucla-to-paris-noelle-quinn-hones-coaching-in-preparation-for-olympics/>
+
+---
+
+## California Legislature Responds to Urgent Call for Funding
+
+date: 2024-07-18, from: California Native Plants Society
+
+<p>Proposition 4 on the November ballot seeks to secure resources for watershed restoration, wildfire resilience, and 30x30 conservation.</p>
+<p>The post <a href="https://www.cnps.org/conservation/california-legislature-responds-to-urgent-call-for-funding-39225">California Legislature Responds to Urgent Call for Funding</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/conservation/california-legislature-responds-to-urgent-call-for-funding-39225>
 
 ---
 

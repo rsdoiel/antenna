@@ -1,11 +1,91 @@
 ---
 title: games 2024.29
-updated: 2024-07-18 07:46:44
+updated: 2024-07-19 07:54:34
 ---
 
 # games 2024.29
 
-(date: 2024-07-18 07:46:44)
+(date: 2024-07-19 07:54:34)
+
+---
+
+## The Sims 4’s Create-A-Date tool adds way more realism
+
+date: 2024-07-19, updated: 2024-07-19, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24200037/the-sims-4-create-a-date-update-lovestruck-expansion>
+
+---
+
+## The magic of tabletop crowdfunding is dying
+
+date: 2024-07-19, updated: 2024-07-19, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24200145/tabletop-crowdfunding-is-dying>
+
+---
+
+## New Switch accessory might confirm some leaked details about Switch 2
+
+date: 2024-07-19, updated: 2024-07-19, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/nintendo/24201770/joy-con-charging-stand-switch-2>
+
+---
+
+## In Kite Man: Hell Yeah! the best running gag in comics has been co-opted by the worst
+
+date: 2024-07-19, updated: 2024-07-19, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24201124/kite-man-hell-yeah-origin-tom-king-ivan-reis>
+
+---
+
+## Capcom’s Kunitsu-Gami plays like a lost PS2 cult classic
+
+date: 2024-07-19, updated: 2024-07-19, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24201259/kunitsu-gami-path-of-the-goddess-capcom-game-pass-impressions>
+
+---
+
+## Halo, which only just made it to Halo, canceled after 2 seasons
+
+date: 2024-07-18, updated: 2024-07-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24106882/halo-season-3-tv-show-release-cast-news>
+
+---
+
+## The collector’s edition of Arcane season one is now available to pre-order
+
+date: 2024-07-18, updated: 2024-07-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24201416/arcane-collectors-edition-4k-blu-ray-box-set-pre-order>
+
+---
+
+## Max is half off if you sign up for college
+
+date: 2024-07-18, updated: 2024-07-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/2024/7/18/24201426/hbo-max-college-student-discount>
 
 ---
 
@@ -16,6 +96,16 @@ date: 2024-07-18, updated: 2024-07-18, from: Polygon Website
  
 
 <https://www.polygon.com/amazon-prime-day/2024/7/18/24200717/best-deals-still-available>
+
+---
+
+## Diablo 4’s new Spiritborn class lets you be an animalistic martial artist
+
+date: 2024-07-18, updated: 2024-07-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24200700/class-reveal-spiritborn-breakdown-vessel-of-hatred-expansion>
 
 ---
 

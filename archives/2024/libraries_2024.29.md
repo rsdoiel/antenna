@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.29
-updated: 2024-07-18 07:46:44
+updated: 2024-07-19 07:54:35
 ---
 
 # libraries 2024.29
 
-(date: 2024-07-18 07:46:44)
+(date: 2024-07-19 07:54:35)
+
+---
+
+## Digital Archiving, and What Would it Cost to Print an Always Up-to-date Version of Wikipedia
+
+date: 2024-07-19, from: Scholarly Kitchen
+
+<p>Is the easiest way to preserve digital materials printing them out? What if we're talking about the constantly changing Wikipedia?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/07/19/the-costs-of-digital-archiving-and-what-would-it-cost-to-print-an-always-up-to-date-version-of-wikipedia/">Digital Archiving, and What Would it Cost to Print an Always Up-to-date Version of Wikipedia</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/07/19/the-costs-of-digital-archiving-and-what-would-it-cost-to-print-an-always-up-to-date-version-of-wikipedia/>
 
 ---
 
@@ -89,7 +101,7 @@ A collection of short fiction by Walter M. Miller Jr., ordered by date of origin
 
 date: 2024-07-15, from: Association of Research Libraries News
 
-<p>Last Updated on July 17, 2024, 1:49 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 16 &#124; Wednesday, July 17 &#124; Thursday, July 18 Monday, July 15...</p>
+<p>Last Updated on July 18, 2024, 3:04 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 16 &#124; Wednesday, July 17 &#124; Thursday, July 18 Monday, July 15...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-15-18/">Day in Review (July 15-18)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
