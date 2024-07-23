@@ -1,11 +1,131 @@
 ---
 title: motorcycles 2024.30
-updated: 2024-07-22 08:22:25
+updated: 2024-07-23 08:47:14
 ---
 
 # motorcycles 2024.30
 
-(date: 2024-07-22 08:22:25)
+(date: 2024-07-23 08:47:14)
+
+---
+
+## 2025 Honda Metropolitan
+
+date: 2024-07-23, from: Cycle World News
+
+The Honda Metropolitan is a small-displacement scooter designed for getting around in the confines of urban centers. 
+
+<https://www.cycleworld.com/honda/metropolitan/>
+
+---
+
+## This Spanish EV Dirt Bike Looks Perfect for Beginners
+
+date: 2024-07-23, from: Ride Apart, Electric Motorcycle News
+
+Experienced riders are sure to have a blast on this thing, too.  
+
+<https://www.rideapart.com/news/727371/rieju-etango-electric-dirtbike/>
+
+---
+
+## HJC’s Retro Fabio Quartararo Helmet Smacks, but There’s a Problem
+
+date: 2024-07-23, from: Ride Apart, Electric Motorcycle News
+
+The V10 FQ20 hits way harder than any MotoGP rider-inspired helmets we've seen recently because HJC took the retro road. 
+
+<https://www.rideapart.com/news/727495/hjc-fabio-quartararo-retro-helmet/>
+
+---
+
+## Celebrating Its Founder, “The Centennial” is a Sick-Looking Naked Motorcycle
+
+date: 2024-07-23, from: Ride Apart, Electric Motorcycle News
+
+Only 100 examples will ever see the light of day.  
+
+<https://www.rideapart.com/news/725903/hero-motocorp-centennial-limited-edition/>
+
+---
+
+## Boat Sends Passengers Flying, Teen on a Jet Ski Jumps on and Saves the Day
+
+date: 2024-07-23, from: Ride Apart, Electric Motorcycle News
+
+He's setting himself up for a helluva stuntman career.  
+
+<https://www.rideapart.com/news/727474/out-of-control-boat-jet-ski-teen-save/>
+
+---
+
+## I'm Sorry, But You're Not as Good as a MotoGP Rider
+
+date: 2024-07-23, from: Ride Apart, Electric Motorcycle News
+
+If you start training right now, you'll still never be them.  
+
+<https://www.rideapart.com/news/727487/motogp-rider-motorcycle-physics-video-watch/>
+
+---
+
+## Watch KTM Develop the 2025 990 RC R, Get a Peak Behind the Curtain
+
+date: 2024-07-23, from: Ride Apart, Electric Motorcycle News
+
+It's insane to see the amount of work that goes into creating a bike from the ground up. And this is just the second chapter. 
+
+<https://www.rideapart.com/news/727479/ktm-develop-990-rcr-chapter-2/>
+
+---
+
+## Taking a Hayabusa-Swapped EV to a Drag Strip Is a Fine Idea, Right?
+
+date: 2024-07-23, from: Ride Apart, Electric Motorcycle News
+
+No gods, no master(links). 
+
+<https://www.rideapart.com/news/727500/hayabusa-swapped-ev-drag-strip/>
+
+---
+
+## Watch a UTV Hilariously Pass a Line of Stuck Trophy Trucks, Driver Laughs at Them
+
+date: 2024-07-23, from: Ride Apart, Electric Motorcycle News
+
+Float like a butterfly, sting like a UTV.  
+
+<https://www.rideapart.com/news/727463/utv-laughs-stuck-trophy-trucks-video-norra-race/>
+
+---
+
+## 2025 Royal Enfield Guerrilla 450 First Look
+
+date: 2024-07-22, from: Cycle World News
+
+Royal Enfield debuts its Guerrilla 450 model, a naked roadster that shares much with the latest Himalayan. The bike will be available in the US in 2025. 
+
+<https://www.cycleworld.com/bikes/royal-enfield-guerrilla-450-first-look/>
+
+---
+
+## 2025 Ducati Panigale V4 First Details
+
+date: 2024-07-22, from: Cycle World News
+
+European documents show that the new 2025 Ducati Panigale V4 will have a peakier power delivery and possibly a double-sided swingarm. 
+
+<https://www.cycleworld.com/motorcycle-news/ducati-panigale-v4-first-details/>
+
+---
+
+## Strong day for Legacy M.C. lamented after late-race carnage in Indy
+
+date: 2024-07-22, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer When Jimmie Johnson joined forces with fellow seven-time champion Richard Petty and business entrepreneur Maury Gallagher to become a team owner in the NASCAR Cup&#8230;  
+
+<https://kickinthetires.net/nascar/strong-day-for-legacy-m-c-lamented-after-late-race-carnage-in-indy/>
 
 ---
 
@@ -89,6 +209,16 @@ SPEEDWAY, Ind. – The return of NASCAR’s crown jewel brought much anticipatio
 
 ---
 
+## Kyle Larson Wins Brickyard 400’s 30th Anniversary Race in Double Overtime
+
+date: 2024-07-22, from: Kickin the Tires blog
+
+SPEEDWAY, Ind. – The return of NASCAR’s crown jewel brought much anticipation, and the excitement in the closing laps was nothing short of the historical significance of the Brickyard 400.&#8230;  
+
+<https://kickinthetires.net/nascar/cup/kyle-larson-wins-30th-running-of-brickyard-400-in-double-overtime/>
+
+---
+
 ## Ryan Blaney’s Bad Luck in Final Restarts Relegate to Third in Brickyard Return
 
 date: 2024-07-22, from: Kickin the Tires blog
@@ -116,6 +246,16 @@ date: 2024-07-21, from: Ride Apart, Electric Motorcycle News
 Just a few tasteful bolt-ons can really transform the look of this neo-retro roadster.  
 
 <https://www.rideapart.com/news/726872/kijima-active-custom-yamaha-xsr125/>
+
+---
+
+## Riley Herbst Prevails in Three-Wide Fight for Indianapolis Victory
+
+date: 2024-07-21, from: Kickin the Tires blog
+
+SPEEDWAY, Ind. – As the white flag waved over the NASCAR Xfinity Series field, the leaders were battling three–wide battling for the win in the Pennzoil 250. Defending series champion&#8230;  
+
+<https://kickinthetires.net/nascar/xfinity/riley-herbst-prevails-in-three-wide-fight-for-indianapolis-victory/>
 
 ---
 

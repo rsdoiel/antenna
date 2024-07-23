@@ -30,7 +30,1234 @@
 Items collected from feeds in <a href="tech_likely.txt">tech_likely.txt</a>
 </div>
 <h1 id="tech-likely-2024.30">tech likely 2024.30</h1>
-<p>(date: 2024-07-22 08:22:21)</p>
+<p>(date: 2024-07-23 08:47:10)</p>
+<hr />
+<h2
+id="from-scientific-american-what-to-know-about-project-2025s-dangers-to-science.">From
+Scientific American: What to Know about Project 2025’s Dangers to
+Science….</h2>
+<p>date: 2024-07-23, updated: 2024-07-23, from: Jason Kottke blog</p>
+<p><a href="https://kottke.org/24/07/0044993-from-scientific-american-"
+class="uri">https://kottke.org/24/07/0044993-from-scientific-american-</a></p>
+<hr />
+<h2 id="eglot-for-go-perl-and-markdown">2024-07-23 Eglot for Go, Perl
+and Markdown</h2>
+<p>date: 2024-07-23, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-07-23-eglot-for-go-perl-and-markdown">
+2024-07-23 Eglot for Go, Perl and Markdown
+</h1>
+<p>
+Apparently there’s a way to have Oddµ and Eglot cooperate in Emacs using
+<a href="https://github.com/artempyanykh/marksman">Marksman</a>.
+</p>
+<p>
+Note that LSP integration only works in a “project”: a VCS repository,
+or in the case of Marksman, a directory containing an (empty)
+<code>.marksman.toml</code> file. This latter option is important if
+your notes aren’t under version control.
+</p>
+<p>
+After installing the Marksman binary, use something like the following.
+This installs Eglot for Go mode, Perl mode and Markdown mode.
+</p>
+<pre><code>;; There is probably a way to put this inside the use-package form but
+;; this is how it works for me.
+(add-hook 'go-mode-hook 'eglot-ensure)
+(add-hook 'perl-mode-hook 'eglot-ensure)
+(add-hook 'markdown-mode-hook 'eglot-ensure)
+(autoload 'eglot-ensure &quot;eglot&quot; &quot;Start Eglot session for current buffer if there isn’t one.&quot;)
+
+(use-package eglot :ensure t
+  :config (add-to-list 'eglot-server-programs '(markdown-mode . (&quot;marksman&quot;))))
+
+(setq-default eglot-workspace-configuration
+    '((:gopls .
+        ((staticcheck . t)
+         (matcher . &quot;CaseSensitive&quot;)))))
+</code></pre>
+<p>
+<a class="tag" href="/search/?q=%23Emacs">#Emacs</a>
+<a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a>
+<a class="tag" href="/search/?q=%23Markdown">#Markdown</a>
+<a class="tag" href="/search/?q=%23Perl">#Perl</a>
+<a class="tag" href="/search/?q=%23Golang">#Golang</a>
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-07-23-eglot"
+class="uri">https://alexschroeder.ch/view/2024-07-23-eglot</a></p>
+<hr />
+<h2 id="fashionably-late-to-update">Fashionably Late to Update</h2>
+<p>date: 2024-07-23, updated: 2024-07-23, from: One Foot Tsunami</p>
+<p><a
+href="https://onefoottsunami.com/2024/07/23/fashionably-late-to-update/"
+class="uri">https://onefoottsunami.com/2024/07/23/fashionably-late-to-update/</a></p>
+<hr />
+<h2 id="live-nasa-is-with-you-from-oshkosh">LIVE: NASA is with you from
+Oshkosh</h2>
+<p>date: 2024-07-23, from: NASA breaking news</p>
+<p>Welcome to NASA Aeronautics’ live update page with news about NASA
+events and other festivities taking place throughout the week at EAA
+AirVenture Oshkosh 2024, which we simply call Oshkosh. A Two-Minute Tour
+Tuesday, July 23 at 11 a.m. EDT Be sure to give us a follow on social
+media for more coverage of Oshkosh […]</p>
+<p><a
+href="https://www.nasa.gov/aeronautics/live-nasa-is-with-you-from-oshkosh/"
+class="uri">https://www.nasa.gov/aeronautics/live-nasa-is-with-you-from-oshkosh/</a></p>
+<hr />
+<h2
+id="dark-oxygen-source-discovered-on-ocean-floor.-the-metal-nodules-are-able">“Dark
+oxygen” source discovered on ocean floor. “The metal nodules are
+able…</h2>
+<p>date: 2024-07-23, updated: 2024-07-23, from: Jason Kottke blog</p>
+<p><a href="https://kottke.org/24/07/0044992-dark-oxygen-source-discov"
+class="uri">https://kottke.org/24/07/0044992-dark-oxygen-source-discov</a></p>
+<hr />
+<h2
+id="this-telephone-sprays-a-custom-scent-to-match-what-you-say-to-it">This
+telephone sprays a custom scent to match what you say to it</h2>
+<p>date: 2024-07-23, from: Raspberry Pi News (.com)</p>
+<p>
+Techpla Lab incorporated Raspberry Pi 5 into a device which sprays you
+with the scent it thinks best suits your needs according to what you say
+to it
+</p>
+<p>
+The post
+<a href="https://www.raspberrypi.com/news/this-telephone-sprays-a-custom-scent-to-match-what-you-say-to-it/">This
+telephone sprays a custom scent to match what you say to it</a> appeared
+first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.
+</p>
+<p><a
+href="https://www.raspberrypi.com/news/this-telephone-sprays-a-custom-scent-to-match-what-you-say-to-it/"
+class="uri">https://www.raspberrypi.com/news/this-telephone-sprays-a-custom-scent-to-match-what-you-say-to-it/</a></p>
+<hr />
+<h2 id="a-less-rigorous-version-of-friendship">A Less Rigorous Version
+of Friendship</h2>
+<p>date: 2024-07-23, updated: 2024-07-23, from: Jason Kottke blog</p>
+<p><a
+href="https://kottke.org/24/07/a-less-rigorous-version-of-friendship"
+class="uri">https://kottke.org/24/07/a-less-rigorous-version-of-friendship</a></p>
+<hr />
+<h2
+id="nasas-21st-northrop-grumman-mission-launches-scientific-studies-to-station">NASA’s
+21st Northrop Grumman Mission Launches Scientific Studies to
+Station</h2>
+<p>date: 2024-07-23, from: NASA breaking news</p>
+<p>NASA and its international partners are sending scientific
+investigations to the International Space Station on Northrop Grumman’s
+21st commercial resupply services mission. Flying aboard the company’s
+Cygnus spacecraft are tests of water recovery technology and a process
+to produce stem cells in microgravity, studies of the effects of
+spaceflight on microorganism DNA and liver tissue […]</p>
+<p><a
+href="https://www.nasa.gov/missions/station/iss-research/nasas-21st-northrop-grumman-mission-launches-scientific-studies-to-station/"
+class="uri">https://www.nasa.gov/missions/station/iss-research/nasas-21st-northrop-grumman-mission-launches-scientific-studies-to-station/</a></p>
+<hr />
+<h2 id="no-southwest-airlines-is-not-still-using-windows-3.1">No,
+Southwest Airlines is not still using Windows 3.1</h2>
+<p>date: 2024-07-23, from: OS News</p>
+<p>A story that’s been persistently making the rounds since the
+CrowdStrike event is that while several airline companies were affected
+in one way or another, Southwest Airlines escaped the mayhem because
+they were still using windows 3.1. It’s a great story that fits the
+current zeitgeist about technology and its role in society, underlining
+that what is claimed to be technological progress is nothing but
+trouble, and that it’s better to stick with the old. At the same time,
+anybody who dislikes Southwest Airlines can point and laugh at the
+bumbling idiots working there for still using Windows 3.1. It’s like a
+perfect storm of technology news click and ragebait. Too bad the whole
+story is nonsense. But how could that be? It’s widely reported by
+reputable news websites all over the world, shared on social media like
+a strain of the common cold, and nobody seems to question it or doubt
+the veracity of the story. It seems that Southwest Airlines running on
+an operating system from 1992 is a perfectly believable story to just
+about everyone, so nobody is questioning it or wondering if it’s
+actually true. Well, I did, and no, it’s not true. Let’s start with the
+actual source of the claim that Southwest Airlines was unaffected by
+CrowdStrike because they’re still using Windows 3.11 for large parts of
+their primary systems. This claim is easily traced back to its origin –
+a tweet by someone called Artem Russakovskii, stating that “the reason
+Southwest is not affected is because they still run on Windows 3.1”.
+This tweet formed the basis for virtually all of the stories, but it
+contains no sources, no links, no background information, nothing. It
+was literally just this one line. It turned out be a troll tweet. A
+reply to the tweet by Russakovskii a day later made that very lear: “To
+be clear, I was trolling last night, but it turned out to be true. Some
+Southwest systems apparently do run Windows 3.1. lol.” However, that
+linked article doesn’t cite any sources either, so we’re right back
+where we started. After quite a bit of digging – that is, clicking a few
+links and like 3 minutes of searching online – following the various
+reference and links back to their sources, I managed to find where all
+these stories actually come from to arrive at the root claim that
+spawned all these other claims. It’s from an article by The Dallas
+Morning News, titled “What’s the problem with Southwest Airlines
+scheduling system?” At the end of last year, Southwest Airlines’
+scheduling system had a major meltdown, leading to a lot of cancelled
+flights and stranded travelers just around the Christmas holidays. Of
+course, the media wanted to know what caused it, and that’s where this
+The Dallas Morning News article comes from. In it, we find the
+paragraphs that started the story that Southwest Airlines is still using
+Windows 3.1 (and Windows 95!): Southwest uses internally built and
+maintained systems called SkySolver and Crew Web Access for pilots and
+flight attendants. They can sign on to those systems to pick flights and
+then make changes when flights are canceled or delayed or when there is
+an illness. “Southwest has generated systems internally themselves
+instead of using more standard programs that others have used,”
+Montgomery said. “Some systems even look historic like they were
+designed on Windows 95.” SkySolver and Crew Web Access are both
+available as mobile apps, but those systems often break down during even
+mild weather events, and employees end up making phone calls to
+Southwest’s crew scheduling help desk to find better routes. During
+periods of heavy operational trouble, the system gets bogged down with
+too much demand. ↫ Kyle Arnold at The Dallas Morning News That’s it.
+That’s where all these stories can trace their origin to. These few
+paragraphs do not say that Southwest is still using ancient Windows
+versions; it just states that the systems they developed internally,
+SkySolver and Crew Web Access, look “historic like they were designed on
+Windows 95”. The fact that they are also available as mobile
+applications should further make it clear that no, these applications
+are not running on Windows 3.1 or Windows 95. Southwest pilots and cabin
+crews are definitely not carrying around pocket laptops from the ’90s.
+These paragraphs were then misread, misunderstood, and mangled in a game
+of social media and bad reporting telephone, and here we are. The fact
+that nobody seems to have taken the time to click through a few links to
+find the supposed source of these claims, instead focusing on cashing in
+on the clicks and rage these stories would illicit, is a rather damning
+indictment of the state of online (tech) media. Many of the websites
+reporting on these stories are part of giant media conglomerates, have a
+massive number of paid staff, and they’re being outdone by a dude in the
+Arctic with a small Patreon, minimal journalism training, and some
+common sense. This story wasn’t hard to debunk – a few clicks and a few
+minutes of online searching is all it took. Ask yourself – why do these
+massive news websites not even perform the bare minimum?</p>
+<p><a
+href="https://www.osnews.com/story/140301/no-southwest-airlines-is-not-still-using-windows-3-1/"
+class="uri">https://www.osnews.com/story/140301/no-southwest-airlines-is-not-still-using-windows-3-1/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-07-23, from: Dave Winer’s Scripting
+News)</p>
+<p>All the reporters know the Repubs refused to fund border stuff so
+they could use it to tag the Dems in the election. So the first thing
+the Repubs do is tag VP Harris with the border. The reporter asks a Dem
+what they have to say about that. But the reporter <i>knows</i> what the
+Repubs did. So why do they even ask the freaking question? They just
+play the script the Repubs wrote for them. They are so savvy, but we
+heard all that too, so we know how corrupt they are. They don’t care if
+we know.</p>
+<p><a href="http://scripting.com/2024/07/23.html#a133302"
+class="uri">http://scripting.com/2024/07/23.html#a133302</a></p>
+<hr />
+<h2
+id="bodycam-footage-of-aston-villa-midfielder-youri-tielemans-shows-how-quick-and">Bodycam
+footage of Aston Villa midfielder Youri Tielemans shows how quick
+and…</h2>
+<p>date: 2024-07-23, updated: 2024-07-23, from: Jason Kottke blog</p>
+<p><a href="https://kottke.org/24/07/0044990-bodycam-footage-of-aston-"
+class="uri">https://kottke.org/24/07/0044990-bodycam-footage-of-aston-</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-07-23, from: Dave Winer’s Scripting
+News)</p>
+<p><a href="https://shownotes.scripting.com/scripting/2024/07/23/podcastStartsWithLinkblogging.html">Show
+notes</a> for today’s Scripting podcast.</p>
+<p><a href="http://scripting.com/2024/07/23.html#a131631"
+class="uri">http://scripting.com/2024/07/23.html#a131631</a></p>
+<hr />
+<h2 id="podcast-starts-with-linkblogging">Podcast starts with
+linkblogging</h2>
+<p>date: 2024-07-23, from: Dave Winer’s Scripting News</p>
+<p>
+A 20-minute morning coffee notes rambler
+<a href="https://s3.amazonaws.com/scripting.com/2024/07/23/randomMorningCoffeeNotes.m4a">podcast</a>,
+started with a narration of how we do linkblogging these days, mostly by
+hand, and how Bluesky is being hurt by not having a large-enough
+character limit. Another plea for textcasting, some standards for what
+we put on the wire over the social web.
+</p>
+<p>
+Also talked about twitter-like systems, and idea borrowed from
+algol-like and lisp-like.
+</p>
+<p>
+I talk about what made Unix so great.
+</p>
+<p>
+Eric Raymond once told me that <a href="https://xmlrpc.com/">XML-RPC</a>
+was very much like Unix, and I said oh yeah, and so is
+<a href="http://reallysimple.org/">RSS</a> and the rest. Huge compliment
+because the simplicity of Unix is what I strive for, put huge time into.
+</p>
+<p>
+Journos once said Apple is dead, but that was ridiculous because they
+had built a product that was just starting to grow and they had planted
+the seeds of huge growth in the 80s when they focused on selling to
+education, which made sure that kids when they grew up would have good
+feelings about Apple, and it totally worked. When the reporters were
+calling them dead, they were actually just about to boom in a whole new
+way, on the web, which the Mac was perfect for, given the built in
+simple networking. And then boom again when Jobs came back. And again
+with the iPod and then again with the iPhone. See how reporters miss the
+big picture. We shouldn’t give them so much power, they pretend they
+know, but they are usually pretty clueless.
+</p>
+<p>
+This podcast is also a demo of how my mind works. I flit around all over
+the place but also have learned over the years that if I want to get
+anything done I have to focus on one thing for at least a few hours
+every day, and string those days together.
+</p>
+<p>
+I want to document this stuff for the benefit of young programmers. I
+learned a lot from reading the code of Unix, I always want to pay that
+back, the message is to strive for simplicity, keep technical debt to a
+minimum, and factor, factor and factor again to reduce technical debt.
+Those are the hardest projects, I’m doing one of those right now, but in
+the end it’s worth it, because with simplicity you get to build higher.
+</p>
+<p><a
+href="http://scripting.com/2024/07/23/130117.html?title=podcastStartsWithLinkblogging"
+class="uri">http://scripting.com/2024/07/23/130117.html?title=podcastStartsWithLinkblogging</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-07-23, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/23/hopeKamala.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I
+was able to follow <a href="https://x.com/kamalahq">kamalhq</a> on
+twitter. This
+<a href="https://www.yahoo.com/news/trump-lover-elon-musk-already-145940678.html">report</a>
+says that Musk is rate-limiting followers on that account. Of course we
+<a href="http://scripting.com/2017/01/14/whatIfTwtrIsBoughtByARepub.html">warned</a>
+what could happen if a Republican bought twitter, but I didn’t honestly
+contemplate that a fascist would. These days our greatest fears aren’t
+scary enough. People laugh that Musk paid too much for twitter, but if
+the US ends up as an autocracy, the oligarch that owns the entire news
+distribution system for the world will probably have the last laugh.
+BTW, if you want to know why we’re so thrilled to have Harris as the
+candidate, even though we didn’t want Joe to give in, it’s because no
+informed and sane person wants to live in a new Trump term. We tried
+that if you recall. The hope you hear now is much greater than the hope
+we had when Obama was selling that (though hope was a good word for it).
+Today it’s the hope that we won’t be deported or worse.</p>
+<p><a href="http://scripting.com/2024/07/23.html#a122650"
+class="uri">http://scripting.com/2024/07/23.html#a122650</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-07-23, from: Dave Winer’s Scripting
+News)</p>
+<p>I want future President Harris to stay happy no matter what the
+bastards do or say. We should have a crisis line for her to call to get
+some quick love. 1-800-LUV-KAMALA.</p>
+<p><a href="http://scripting.com/2024/07/23.html#a121858"
+class="uri">http://scripting.com/2024/07/23.html#a121858</a></p>
+<hr />
+<h2
+id="arch-based-cachyos-promises-speed-but-trips-over-its-laces">Arch-based
+CachyOS promises speed but trips over its laces</h2>
+<p>date: 2024-07-23, updated: 2024-07-23, from: Liam Proven’s articles
+at the Register</p>
+<h4>
+<span class="label">Hands-on</span> Strictly for performance fiends with
+ultra-modern kit who want a distro to match
+</h4>
+<pre><code>  &lt;p&gt;CachyOS is a performance-optimized rebuild of Arch Linux, with a simpler installer and dozens of desktops and options to tweak. Stable reliability, not so much.&lt;/p&gt; </code></pre>
+<p><a
+href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/23/cachyos_arch_linux/"
+class="uri">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/23/cachyos_arch_linux/</a></p>
+<hr />
+<h2 id="what-was-hard-about-the-oddµ-architecture">2024-07-21 What was
+hard about the Oddµ architecture?</h2>
+<p>date: 2024-07-23, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-07-21-what-was-hard-about-the-oddµ-architecture">
+2024-07-21 What was hard about the Oddµ architecture?
+</h1>
+<p>
+If you know Go, I think you’ll find the architecture of Oddmu to be very
+traditional: There is a list of actions it knows how to handle when it
+serves a site on the web and a list of commands it understands when
+called from the shell. Everything involving HTML or the RSS feed uses a
+Go template.
+</p>
+<p>
+There were two things that were tricky, in hindsight. I didn’t know
+enough Go to know how best to do it and so it took me a long time to
+figure them out.
+</p>
+<p>
+The first was what data to keep in memory. I didn’t want search to
+involve a database so I experimented a lot with different ways of
+indexing the content. Trigrams? Full-text? And what about scoring? In
+the end, I dropped all of that. The only thing I keep in memory is a map
+of page names and page titles as well as a map of hashtags and pages. I
+find that searching titles and hashtags is what I do most often. For
+everything else, I search the files. This, of course, is much slower but
+for a site of ten thousand pages it’s still fast enough. So figuring out
+how to do search was hard. Once I had this figured out, I discovered
+that keeping maps in memory when there are multiple Go routines being
+used by the web server means that I need locks. Both of my maps are in
+fact data structures that each contain a map and a lock. This was new to
+me and it took me a long time to realize that having the lock was
+important. For a while, I didn’t have those locks. 😅
+</p>
+<p>
+The second thing that took me a long time to get right is that I wanted
+pages to be served from Oddµ when it runs as a web server and I wanted
+to be able to edit files locally and upload them (using rsync, for
+example) while it was still running on the server. I didn’t know about
+watching the filesystem for changes and had to learn how to do this: a
+watcher per directory, spawning new watchers when directories are
+created, and updating those maps I keep in memory as files are added,
+deleted or edited.
+</p>
+<p>
+Watching the files introduced another complication, however: What if a
+user edited a page via the web? I already had code in place that would
+update my maps. Now the file system watcher would report the same file
+being written to, resulting in two updates. And what about a change to a
+file that results in multiple events: create a file, write something to
+the file, write some more to the file. Three events resulting in three
+updates? The code is therefore complicated.
+</p>
+<p>
+If Oddµ knows that a file is going to change ahead of time, like when a
+user on the web saves an edit, the file is added to a map of ignored
+files for a second. When the file system watcher sees those changes, no
+updates are done because it knows that the edit handler already does it.
+</p>
+<p>
+If Oddµ sees a file change because of somebody editing files directly, a
+one second timer is started. If another event for the same file arrives,
+the timer is reset to one second. Only when a second has elapsed without
+changes does the watcher do the updates to the internal data structures.
+That is to say, changes made to the file system regarding page title
+changes or hash tag changes take an effect on the web with a one second
+delay.
+</p>
+<p>
+So now, with all that in place, think of all the go routines running in
+parallel. Every one second timer is a go routine. Every go routine
+accessing a map like the map if files to ignore means that this map
+needs to be a data structure containing a map and a lock.
+</p>
+<p>
+When I look at that part of the code, I still get dizzy. 😵‍💫
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a>
+<a class="tag" href="/search/?q=%23Programming">#Programming</a>
+</p>
+<p>
+<strong>2024-07-21</strong>.
+<a class="account" href="https://merveilles.town/@bouncepaw" title="@bouncepaw@merveilles.town"><span
+class="citation" data-cites="bouncepaw">@bouncepaw</span></a> asked
+about usability issues, specially in the context of using Oddµ for
+picture galleries. In my case, I think the hardest part is finding
+particular pictures. Consider <a href="2020-blumen/index">the page of
+flowers in 2020</a>. I know that there’s a sanseveria in bloom on that
+page, for example. But how can I find it? I can find the page if I
+search for “bogenhanf #pictures”, and then I can search for the same
+word on the page, and then I have to wait for a bit as the browser
+lazy-loads pictures.
+</p>
+<p>
+Perhaps, if I could get into the habit of putting the image description
+into the Markdown alt text, I could index all the images and their alt
+text, providing direct access to the images. I guess I would also have
+to add special code to the Markdown renderer that made the alt text
+visible for regular visitors (as title attribute or as regular
+paragraphs). That’d be interesting.
+</p>
+<p>
+<strong>Later</strong>. I have implemented something useful, I hope. If
+one of the search terms (excluding hashtags and predicates) matches an
+alt-text of an image, that image is included in the result.
+</p>
+<p>
+Of course, almost none of my galleries use the alt-text, so right now
+there aren’t many pages that will show results for a query like
+“bogenhanf #pictures”.
+</p>
+<p>
+My expectations regarding alt texts and title attributes for images have
+changed significantly as I’ve spent time on fedi, so I’m really not sure
+what to do about Markdown in this respect. Right now I’m in the habit of
+adding neither alt-text nor title attribute, trying to provide enough
+text in the paragraphs above or below. With this new search option, that
+might have to change, too. As a sighted person, I sort of expect the
+title attribute to be the same as the alt text.
+</p>
+<p>
+<strong>2024-07-22</strong>. Sometimes I have the urge to write a small
+editor, something like the kilo project: so small that it is barely
+usable. I also imagine it to have a sort of conversational UI – which I
+guess ed has? – if ed is your grumpiest of companions! – or maybe the
+M-x commands for emacs – and I guess I‘m looking at Oddmu as a site
+generator and Markdown file server and I wonder: what sort of editor
+would I need to maintain this? What sort of minimal SVG editing
+capabilities would be nice to have?
+</p>
+<p><a
+href="https://alexschroeder.ch/view/2024-07-21-what-is-hard-about-oddmu"
+class="uri">https://alexschroeder.ch/view/2024-07-21-what-is-hard-about-oddmu</a></p>
+<hr />
+<h2 id="software-architecture-in-an-ai-world">Software Architecture in
+an AI World</h2>
+<p>date: 2024-07-23, from: O’Reilly Radar</p>
+<p>Like almost any question about AI, “How does AI impact software
+architecture?” has two sides to it: how AI changes the practice of
+software architecture and how AI changes the things we architect. These
+questions are coupled; one can’t really be discussed without the other.
+But to jump to the conclusion, we can say that […]</p>
+<p><a
+href="https://www.oreilly.com/radar/software-architecture-in-an-ai-world/"
+class="uri">https://www.oreilly.com/radar/software-architecture-in-an-ai-world/</a></p>
+<hr />
+<h2 id="ngircd-and-munin">2024-07-23 ngIRCd and Munin</h2>
+<p>date: 2024-07-23, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-07-23-ngircd-and-munin">
+2024-07-23 ngIRCd and Munin
+</h1>
+<p>
+Today I tried to make the
+<a href="https://github.com/munin-monitoring/contrib/blob/master/plugins/ircd/irc2">irc2</a>
+plugin work for my IRC server.
+</p>
+<p>
+Mostly fiddling with the regular expressions. Adding an optional comma.
+Making it case-insensitive. The usual, I guess.
+</p>
+<p>
+I was positively impressed by Debians pre-packaged Perl modules:
+</p>
+<pre><code>apt install libpoe-component-irc-perl libpoe-component-sslify-perl
+</code></pre>
+<p>
+Here’s the modified plugin for <code>/etc/munin/plugins</code>:
+</p>
+<pre><code>#!/usr/bin/perl
+# -*- perl -*-
+
+=head1 NAME
+
+ircstats  - Plugin to graph data about an IRC network and a single IRC server
+
+=head1 CONFIGURATION
+
+- env.SERVER to point to the server to connect to, defaults to localhost.
+- env.PORT port to use, defaults to 6667.
+- env.NICK nickname to use, defaults to munin-$HASH.
+- env.USESSL 0 or 1 values to enable SSL/TLS, defaults to 0.
+- env.USEIPV6 0 or 1 to enable IPv6 use, defaults to 0.
+
+=head1 USAGE
+
+This plugin connects to an IRC server.
+
+It requires POE::Component::IRC and POE::Component::SSLify if you use SSL/TLS.
+
+=head1 AUTHOR
+
+Robin H. Johnson
+Alex Schroeder
+
+=head1 LICENSE
+
+3-clause BSD.
+
+=head1 MAGIC MARKERS
+
+  #%# family=manual
+
+=cut
+use strict;
+use warnings;
+use Data::Dumper;
+use POE qw(Component::IRC);
+use Digest::MD5 qw(md5_hex);
+
+my $nickname = $ENV{NICK} || 'munin-'.substr(md5_hex(rand().time()), 0, 3);
+my $ircname = &quot;Munin statistics gathering from $ENV{SERVER}&quot;;
+my $server = $ENV{SERVER} || 'localhost';
+my $port = $ENV{PORT} || 6667;
+my $usessl = $ENV{USESSL} || 0;
+my $useipv6 = $ENV{USEIPV6} || 0;
+
+if($ARGV[0] and $ARGV[0] eq &quot;config&quot;) {
+  print &quot;graph_title ircd status - $server\n&quot;;
+  print &quot;graph_category chat\n&quot;;
+  print &quot;graph_order clients channels servers localclients clientmax localclientmax localservers opers unknownconns\n&quot;;
+  print &quot;graph_args -l 0\n&quot;;
+  print &quot;clients.label clients\n&quot;;
+  print &quot;clients.draw LINE2\n&quot;;
+  print &quot;channels.label channels\n&quot;;
+  print &quot;channels.draw LINE2\n&quot;;
+  print &quot;servers.label servers\n&quot;;
+  print &quot;servers.draw LINE2\n&quot;;
+  print &quot;localclients.label localclients\n&quot;;
+  print &quot;localclients.draw LINE2\n&quot;;
+  print &quot;clientmax.label clientmax\n&quot;;
+  print &quot;clientmax.draw LINE2\n&quot;;
+  print &quot;localclientmax.label localclientmax\n&quot;;
+  print &quot;localclientmax.draw LINE2\n&quot;;
+  print &quot;opers.label opers\n&quot;;
+  print &quot;opers.draw LINE2\n&quot;;
+  print &quot;localservers.label localservers\n&quot;;
+  print &quot;localservers.draw LINE2\n&quot;;
+  print &quot;unknownconns.label unknownconns\n&quot;;
+  print &quot;unknownconns.draw LINE2\n&quot;;
+  exit 0;
+}
+
+my %result;
+
+# We create a new PoCo-IRC object
+my $irc = POE::Component::IRC-&gt;spawn(
+  nick =&gt; $nickname,
+  ircname =&gt; $ircname,
+  server =&gt; $server,
+  port =&gt; $port,
+  raw =&gt; 0,
+  UseSSL =&gt; $usessl,
+  useipv6 =&gt; $useipv6,
+    ) or die &quot;Oh noooo! $!&quot;;
+
+POE::Session-&gt;create(
+  package_states =&gt; [
+    # debug messages:
+    # main =&gt; [ qw(_default _start irc_001 irc_376 irc_disconnected irc_public) ],
+    # These are the interesting ones:
+    # irc_251:  'localhost' 'There are 13 users and 0 services on 2 servers' [There are 13 users and 0 services on 2 servers]
+    # irc_254:  'localhost' '26 :channels formed' [26, channels formed]
+    # irc_255:  'localhost' 'I have 8 users, 0 services and 1 servers' [I have 8 users, 0 services and 1 servers]
+    # irc_265:  'localhost' '8 8 :Current local users: 8, Max: 8' [8, 8, Current local users: 8, Max: 8]
+    # irc_266:  'localhost' '13 14 :Current global users: 13, Max: 14' [13, 14, Current global users: 13, Max: 14]
+    main =&gt; [ qw(_start irc_001 irc_251 irc_252 irc_253 irc_254 irc_255 irc_265 irc_266 irc_372 irc_375 irc_376 irc_public irc_disconnected) ],
+  ],
+  heap =&gt; { irc =&gt; $irc },
+    );
+
+$poe_kernel-&gt;run();
+
+my $RPL_LUSER_CLIENT = 251;
+my $RPL_LUSERCHANNELS = 254;
+my $RPL_ENDOFMOTD = 376;
+
+sub _start {
+  my ($heap,$kernel,$sender) = @_[HEAP,KERNEL,SENDER];
+
+  # retrieve our component's object from the heap where we stashed it
+  my $irc = $heap-&gt;{irc};
+
+  $irc-&gt;yield( register =&gt; 'all' );
+  $irc-&gt;yield( connect =&gt; { } );
+  return;
+}
+
+sub irc_001 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  $irc-&gt;yield( quit =&gt; { });
+  return;
+}
+
+
+#irc_251:  'moo.us.p2p-network.net' 'There are 155 users and 3397 invisible on 16 servers' [There are 155 users and 3397 invisible on 16 servers]
+# luserclient
+sub irc_251 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  my $s = $_[ARG1];
+  # Do we have something like an UnrealIRCD?
+  if($s =~  /There are (\d+) users and (\d+) invisible on (\d+) servers/) {
+    $result{'clients'} = $1 + $2 - 1; # don't count this script
+    $result{'servers'} = $3;
+  }
+  # Or maybe some freendode hyperion stuff?
+  elsif($s =~  /There are (\d+) listed and (\d+) unlisted users on (\d+) servers/) {
+    $result{'clients'} = $1 + $2 - 1; # don't count this script
+    $result{'servers'} = $3;
+  }
+  # Or some recent ircnet ircd?
+  elsif($s =~  /There are (\d+) users and \d+ services on (\d+) servers/) {
+    $result{'clients'} = $1 - 1; # don't count this script
+    $result{'servers'} = $2;
+  }
+  # Anything else goes here
+  elsif($s =~  /There are (\d+) users and (\d+) invisible/) {
+    $result{'clients'} = $1 + $2 - 1; # don't count this script
+  }
+  # And here (if there are no invisible count)
+  elsif($s =~  /There are (\d+) users/) {
+    $result{'clients'} = $1 - 1; # don't count this script
+  }
+}
+
+#irc_252:  'moo.us.p2p-network.net' '18 :operator(s) online' [18, operator(s) online]
+# opers
+sub irc_252 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  my $s = $_[ARG1];
+  if($s =~  /^(\d+)/) {
+    $result{'opers'} = $1;
+  }
+}
+
+#irc_253:  'moo.us.p2p-network.net' '1 :unknown connection(s)' [1, unknown connection(s)]
+sub irc_253 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  my $s = $_[ARG1];
+  if($s =~  /^(\d+)/) {
+    $result{'unknownconns'} = $1;
+  }
+}
+
+#irc_254:  'moo.us.p2p-network.net' '1325 :channels formed' [1325, channels formed]
+# luserchannels
+sub irc_254 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  my $s = $_[ARG1];
+  if($s =~  /^(\d+)/) {
+    $result{'channels'} = $1;
+  }
+}
+
+#irc_255:  'moo.us.p2p-network.net' 'I have 348 clients and 1 servers' [I have 348 clients and 1 servers]
+# local clients/servers
+sub irc_255 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  my $s = $_[ARG1];
+  if($s =~  /I have (\d+) clients and (\d+) servers/) {
+    $result{'localclients'} = $1-1; # don't count this script
+    $result{'localservers'} = $2;
+  }
+  elsif($s =~  /I have (\d+) users, \d+ services and (\d+) servers/) {
+    $result{'localclients'} = $1-1; # don't count this script
+    $result{'localservers'} = $2;
+  }
+}
+
+#irc_265:  'moo.us.p2p-network.net' 'Current Local Users: 348  Max: 1900' [Current Local Users: 348  Max: 1900]
+sub irc_265 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  my $s = $_[ARG1];
+  if($s =~  /Current Local Users: (\d+),?\s+Max: (\d+)/i) {
+    $result{'localclients'} = $1-1; # don't count this script
+    $result{'localclientmax'} = $2;
+  }
+}
+
+#irc_266:  'moo.us.p2p-network.net' 'Current Global Users: 3552  Max: 8742' [Current Global Users: 3552  Max: 8742]
+sub irc_266 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  my $s = $_[ARG1];
+  if($s =~  /Current Global Users: (\d+),?\s+Max: (\d+)/i) {
+    $result{'clients'} = $1-1; # don't count this script
+    $result{'clientmax'} = $2;
+  }
+}
+
+# 372 motdline
+sub irc_372 {
+  return;
+}
+# 375 startofmotd
+sub irc_375 {
+  return;
+}
+# 376 endofmotd
+sub irc_376 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  $irc-&gt;yield( quit =&gt; {} );
+}
+
+sub munin_print {
+  my $key = shift;
+  my $val = shift;
+  print &quot;${key}.value &quot;.($val || 'U').&quot;\n&quot;;
+}
+
+sub irc_disconnected {
+  for my $var (qw(clients channels servers localclients clientmax localclientmax localservers opers unknownconns)) {
+    munin_print($var, $result{$var});
+  }
+  exit 0;
+}
+
+sub irc_public {
+  my ($sender, $who, $where, $what) = @_[SENDER, ARG0 .. ARG2];
+  my $nick = ( split /!/, $who )[0];
+  my $channel = $where-&gt;[0];
+
+  if ( my ($rot13) = $what =~ /^rot13 (.+)/ ) {
+    $rot13 =~ tr[a-zA-Z][n-za-mN-ZA-M];
+    $irc-&gt;yield( privmsg =&gt; $channel =&gt; &quot;$nick: $rot13&quot; );
+  }
+  return;
+}
+
+# We registered for all events, this will produce some debug info.
+sub _default {
+  my ($event, $args) = @_[ARG0 .. $#_];
+  my @output = ( &quot;$event: &quot; );
+
+  for my $arg (@$args) {
+    if ( ref $arg eq 'ARRAY' ) {
+      push( @output, '[' . join(', ', @$arg ) . ']' );
+    }
+    else {
+      push ( @output, &quot;'$arg'&quot; );
+    }
+  }
+  print join ' ', @output, &quot;\n&quot;;
+  return 0;
+}
+</code></pre>
+<p>
+To configure, I created the file
+<code>/etc/munin/plugin-conf.d/irc.conf</code>:
+</p>
+<pre><code>[irc2]
+env.SERVER campaignwiki.org
+env.PORT 6697
+env.USESSL 1
+</code></pre>
+<p>
+The result:
+</p>
+<p>
+<img loading="lazy" src="2024-07-23-ngircd-and-munin-1.jpg" alt="A graph showing some ngIRCd data" />
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Administration">#Administration</a>
+<a class="tag" href="/search/?q=%23Munin">#Munin</a>
+<a class="tag" href="/search/?q=%23IRC">#IRC</a>
+<a class="tag" href="/search/?q=%23ngircd">#ngircd</a>
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-07-23-ngircd-and-munin"
+class="uri">https://alexschroeder.ch/view/2024-07-23-ngircd-and-munin</a></p>
+<hr />
+<h2
+id="sergey-durmanov-commented-on-issue-143-at-felix-oliver-friedrich-oberon-a2">Sergey
+Durmanov commented on issue #143 at Felix Oliver Friedrich / Oberon
+A2</h2>
+<p>date: 2024-07-23, updated: 2024-07-23, from: Oberon A2 at CAS</p>
+<p data-sourcepos="1:1-2:66" dir="auto">
+You are right, there is too much code for this in static analyzers, and
+(at least) without cfg and dfa it is difficult to make any assumptions.
+But do we need recursion (in practice, not theoretically) for operators?
+Maybe it's worth adding a {recursive} modifier to allow recursion?
+</p>
+<p><a
+href="https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/143#note_193840"
+class="uri">https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/143#note_193840</a></p>
+<hr />
+<h2 id="thank-you-billionaires">Thank you billionaires</h2>
+<p>date: 2024-07-22, from: Dave Winer’s Scripting News</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/07/22/messageForBillionaires.png">
+</center>
+Or, less politely..
+</div>
+</p>
+<p><a
+href="http://scripting.com/2024/07/22/214539.html?title=thankYouBillionaires"
+class="uri">http://scripting.com/2024/07/22/214539.html?title=thankYouBillionaires</a></p>
+<hr />
+<h2
+id="nasa-awards-launch-services-contract-for-noaas-jpss-4-mission">NASA
+Awards Launch Services Contract for NOAA’s JPSS-4 Mission</h2>
+<p>date: 2024-07-22, from: NASA breaking news</p>
+<p>NASA, on behalf of the National Oceanic and Atmospheric
+Administration (NOAA), has selected SpaceX (Space Exploration
+Technologies Corporation) to provide launch services for NOAA’s JPSS-4
+mission. The spacecraft is part of the multi-satellite cooperative Joint
+Polar Satellite System (JPSS) program, a partnership between NASA and
+NOAA. This mission is the next satellite in the program, […]</p>
+<p><a
+href="https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-noaas-jpss-4-mission/"
+class="uri">https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-noaas-jpss-4-mission/</a></p>
+<hr />
+<h2
+id="an-explainer-and-organizational-toolkit-from-red-wine-blue-about-project">An
+explainer and organizational toolkit from Red Wine &amp; Blue about
+Project…</h2>
+<p>date: 2024-07-22, updated: 2024-07-22, from: Jason Kottke blog</p>
+<p><a href="https://kottke.org/24/07/0044989-an-explainer-and-organiza"
+class="uri">https://kottke.org/24/07/0044989-an-explainer-and-organiza</a></p>
+<hr />
+<h2 id="a-brief-history-of-dell-unix">A brief history of Dell UNIX</h2>
+<p>date: 2024-07-22, from: OS News</p>
+<p>“Dell UNIX? I didn’t know there was such a thing.” A couple of weeks
+ago I had my new XO with me for breakfast at a nearby bakery café. Other
+patrons were drawn to seeing an XO for the first time, including a Linux
+person from Dell. I mentioned Dell UNIX and we talked a little about the
+people who had worked on Dell UNIX. He expressed surprise that mention
+of Dell UNIX evokes the above quote so often and pointed out that Emacs
+source still has #ifdef for Dell UNIX. Quick Googling doesn’t reveal
+useful history of Dell UNIX, so here’s my version, a summary of the
+three major development releases. ↫ Charles H. Sauer I sure had never
+heard of Dell UNIX, and despite the original version of the linked
+article being very, very old – 2008 – there’s a few updates from 2020
+and 2021 that add links to the files and instructions needed to install,
+set up, and run Dell UNIX in a virtual machine; 86Box or VirtualBox
+specifically. What was Dell UNIX? in the late ’80s, Dell started a the
+Olympic project, an effort to create a completely new architecture
+spanning desktops, workstations, and servers, some of which would be
+using multiple processors. When searching for an operating system for
+this project, the only real option was UNIX, and as such, the Olympic
+team set out to developer a UNIX variant. The first version was based on
+System V Release 3.2, used Motif and the X Window System, a DOS virtual
+machine to run, well, DOS applications called Merge, and compatibility
+with Microsoft Xenix. It might seem strange to us today, but Microsoft’s
+Xenix was incredibly popular at the time, and compatibility with it was
+a big deal. The Olympic project turned out to be too ambitious on the
+hardware front so it got cancelled, but the Dell UNIX project continued
+to be developed. The next release, Dell System V Release 4, was a
+massive release, and included a full X Window System desktop environment
+called X.desktop, an office suite, e-mail software, and a lot more. It
+also contained something Windows wouldn’t be getting for quite a few
+years to come: automatic configuration of device drivers. This was
+apparently so successful, it reduced the number of support calls during
+the first 90 days of availability by 90% compared to the previous
+release. Dell SVR4 finally seemed like real UNIX on a PC. We were
+justifiably proud of the quality and comprehensiveness, especially
+considering that our team was so much smaller than those of our
+perceived competitors at ISC, SCO and Sun(!). The reviewers were
+impressed. Reportedly, Dell SVR4 was chosen by Intel as their reference
+implementation in their test labs, chosen by Oracle as their reference
+Intel UNIX implementation, and used by AT&amp;T USL for in house
+projects requiring high reliability, in preference to their own ports of
+SVR4.0. (One count showed Dell had resolved about 1800 problems in the
+AT&amp;T source.) I was astonished one morning in the winter of 1991-92
+when Ed Zander, at the time president of SunSoft, and three other
+SunSoft executives arrived at my office, requesting Dell help with their
+plans to put Solaris on X86. ↫ Charles H. Sauer Sadly, this would also
+prove to be the last release of Dell UNIX. After a few more point
+release, the brass at Dell had realised that Dell UNIX, intended to sell
+Dell hardware, was mostly being sold to people running it on non-Dell
+hardware, and after a short internal struggle, the entire project was
+cancelled since it was costing them more than it was earning them. As I
+noted, the article contains the files and instructions needed to run
+Dell UNIX today, on a virtual machine. I’m definitely going to try that
+out once I have some time, if only to take a peek at that X.desktop,
+because that looks absolutely stunning for its time.</p>
+<p><a
+href="https://www.osnews.com/story/140296/a-brief-history-of-dell-unix/"
+class="uri">https://www.osnews.com/story/140296/a-brief-history-of-dell-unix/</a></p>
+<hr />
+<h2 id="the-state-of-docker-on-popular-risc-v-platforms">The state of
+Docker on popular RISC-V platforms</h2>
+<p>date: 2024-07-22, from: Jeff Geerling blog</p>
+<p><span
+class="field field--name-title field--type-string field--label-hidden">The
+state of Docker on popular RISC-V platforms</span></p>
+<pre><code>        &lt;div class=&quot;clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;p&gt;I&#39;ve been testing a &lt;a href=&quot;https://github.com/geerlingguy/sbc-reviews/issues/47&quot;&gt;Milk-V Jupiter&lt;/a&gt; this week, and have tested a number of other RISC-V development boards over the past two years.&lt;/p&gt;</code></pre>
+<p>
+As with any new CPU architecture, software support and ease of adoption
+are extremely important if you want to reach a wider audience. I
+wouldn’t expect every developer and SBC hobbyist to be able to compile
+the Linux kernel, and the need to compile much of anything these days is
+getting rare. So having any instance where one <em>has</em> to know how
+to tweak a Makefile or pass in different flags to a compiler is a bit of
+a turn-off for platform adoption.
+</p>
+<p>
+So one thing I’ve followed closely is how easy it is for me to get my
+own software running on RISC-V boards. It’s one thing to run some
+vendor-provided demos. It’s another entirely to take my real-world
+applications and infrastructure apps, and get them to work without
+hassle.
+</p>
+<p>
+And to that end, Docker and Ansible, two tools I use extensively for
+dev/ops work, both run stably—though with plenty of caveats since RISC-V
+is still so new.
+</p>
+</div>
+<pre><code>  &lt;span class=&quot;field field--name-uid field--type-entity-reference field--label-hidden&quot;&gt;&lt;span&gt;Jeff Geerling&lt;/span&gt;&lt;/span&gt;</code></pre>
+<p><span
+class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-07-22T15:32:40-05:00" title="Monday, July 22, 2024 - 15:32" class="datetime">July
+22, 2024</time> </span></p>
+<p><a
+href="https://www.jeffgeerling.com/blog/2024/state-docker-on-popular-risc-v-platforms"
+class="uri">https://www.jeffgeerling.com/blog/2024/state-docker-on-popular-risc-v-platforms</a></p>
+<hr />
+<h2
+id="kamala-harris-and-her-views-on-the-climate-crisis.-harris-has-made">Kamala
+Harris and her views on the climate crisis. “Harris has made…</h2>
+<p>date: 2024-07-22, updated: 2024-07-22, from: Jason Kottke blog</p>
+<p><a href="https://kottke.org/24/07/0044988-kamala-harris-and-her-vie"
+class="uri">https://kottke.org/24/07/0044988-kamala-harris-and-her-vie</a></p>
+<hr />
+<h2
+id="nasa-rocket-discovers-new-energization-process-in-upper-atmosphere">NASA
+Rocket Discovers New Energization Process in Upper Atmosphere</h2>
+<p>date: 2024-07-22, from: NASA breaking news</p>
+<p>When it comes to discoveries about our upper atmosphere, it pays to
+know your surroundings. Using data from the Twin Rockets to Investigate
+Cusp Electrodynamics (TRICE-2) rocket launch, NASA scientist Francesca
+Di Mare and Gregory Howes from the University of Iowa studied waves
+traveling down Earth’s magnetic field lines into the polar atmosphere.
+These waves […]</p>
+<p><a
+href="https://science.nasa.gov/science-research/heliophysics/nasa-rocket-discovers-new-energization-process-in-upper-atmosphere/"
+class="uri">https://science.nasa.gov/science-research/heliophysics/nasa-rocket-discovers-new-energization-process-in-upper-atmosphere/</a></p>
+<hr />
+<h2 id="openbsd-workstation-for-the-people">OpenBSD workstation for the
+people</h2>
+<p>date: 2024-07-22, from: OS News</p>
+<p>This is an attempt at building an OpenBSD desktop than could be used
+by newcomers or by people that don’t care about tinkering with computers
+and just want a working daily driver for general tasks. Somebody will
+obviously need to know a bit of UNIX but we’ll try to limit it to the
+minimum. ↫ Joel Carnat An excellent, to-the-point, no-nonsense guide
+about turning a default OpenBSD installation into a desktop operating
+system running Xfce. You definitely don’t need intimate, arcane
+knowledge of OpenBSD to follow along with this one.</p>
+<p><a
+href="https://www.osnews.com/story/140293/openbsd-workstation-for-the-people/"
+class="uri">https://www.osnews.com/story/140293/openbsd-workstation-for-the-people/</a></p>
+<hr />
+<h2 id="chandra-sees-the-peacocks-galaxy">Chandra Sees the Peacock’s
+Galaxy</h2>
+<p>date: 2024-07-22, from: NASA breaking news</p>
+<p>To commemorate the 25th anniversary of NASA’s Chandra X-ray
+Observatory launch, the Chandra team released this never-seen-before
+image of NGC 6872, a spiral galaxy in the Pavo (Peacock) constellation,
+on July 22, 2024. This image and 24 others, which all include data from
+Chandra, demonstrate how X-ray astronomy explores all corners of the
+universe. NGC […]</p>
+<p><a
+href="https://www.nasa.gov/image-article/chandra-sees-the-peacocks-galaxy/"
+class="uri">https://www.nasa.gov/image-article/chandra-sees-the-peacocks-galaxy/</a></p>
+<hr />
+<h2
+id="news-happening-faster-than-man-can-generate-uninformed-opinions.-its-getting-harder">News
+Happening Faster Than Man Can Generate Uninformed Opinions. “It’s
+getting harder…</h2>
+<p>date: 2024-07-22, updated: 2024-07-22, from: Jason Kottke blog</p>
+<p><a href="https://kottke.org/24/07/0044987-news-happening-faster-tha"
+class="uri">https://kottke.org/24/07/0044987-news-happening-faster-tha</a></p>
+<hr />
+<h2 id="seed-funding-proposals-due-november-19-this-year">Seed Funding
+Proposals Due November 19 This Year!</h2>
+<p>date: 2024-07-22, from: NASA breaking news</p>
+<p>Since 2020, NASA’s Citizen Science Seed Funding Program (CSSFP) has
+launched 24 new projects to expand citizen science in professional
+research. This year, proposals are due by November 19, 2024, with
+optional Notices of Intent by October 1, 2024. The planning start date
+is May 1, 2025. Current grant recipients can request a No Cost
+Extension, but must submit requests more than 10 days before the grant’s
+end date. NASA looks forward to new proposals and supporting citizen
+science projects.</p>
+<p><a
+href="https://science.nasa.gov/get-involved/citizen-science/seed-funding-proposals-due-november-19-this-year/"
+class="uri">https://science.nasa.gov/get-involved/citizen-science/seed-funding-proposals-due-november-19-this-year/</a></p>
+<hr />
+<h2 id="mismatch">Mismatch</h2>
+<p>date: 2024-07-22, from: Manu - I write blog</p>
+<pre><code>            &lt;p&gt;My current life situation is not great. For a variety of reasons that aren&#39;t worth listing here. It&#39;s not like everything&#39;s bad. Some aspects of my life are great. But overall, I&#39;d not say I&#39;m in a happy place. Which is fine, or at least it would be fine if the root cause of the problem was known. Because when you know the cause of a problem you can work towards a solution. But up until the other day, I didn&#39;t know why I was feeling this way. And when you&#39;re in that situation, you feel hopeless and you can see things slowly spiralling out of control. But the other day, I had a realisation: a mismatch. That&#39;s why I feel this way. I realised that there&#39;s a mismatch between the way I see myself, the way I perceive myself as a person, and who I actually am. And that mismatch is driving me insane. There are things I know about myself, or at least I think I know about myself, that are important to me. And those things should play a role in the way I live my life. And yet because of this stupid mismatch, those things weren&#39;t playing a role and were superseded by other things I absolutely despise. And this mismatch manifests in subtle ways.&lt;/p&gt;</code></pre>
+<p>
+I am a morning person. I know it. I experimented with it and I know for
+a fact that I’m happier, more productive and live a better life when I
+wake up early. Not once, when up early, I thought “Why am I already
+awake? Shouldn’t I be sleeping?”. That’s just not a thought I have
+because I know how much more I enjoy life when I’m up early. But late at
+night? That’s a constant thought. I’m sitting there, reading something
+online and I constantly think “Why am I here reading this? I should be
+sleeping”. And in doing that, in staying up late, the mismatch gathers
+strength. It’s a vicious cycle.
+</p>
+<p>
+That’s one example but I’m realising that this is the source of all my
+struggles. And it’s not much the fact that I am not the person I’d love
+to be—or that I think I am—but the fact that I don’t do the things that
+I should be doing in order to become that person. And it fucking sucks.
+It sucks because I know that’s going to be incredibly hard to correct
+that but at the same time I’m glad that at least now I know where the
+problem is and I can work towards a solution.
+</p>
+<pre><code>            &lt;hr&gt;
+            &lt;p&gt;Thank you for keeping RSS alive. You&#39;re awesome.&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;mailto:hello@manuelmoreale.com&quot;&gt;Email me&lt;/a&gt; ::
+            &lt;a href=&quot;https://manuelmoreale.com/guestbook&quot;&gt;Sign my guestbook&lt;/a&gt; :: 
+            &lt;a href=&quot;https://ko-fi.com/manuelmoreale&quot;&gt;Support for 1$/month&lt;/a&gt; :: 
+            &lt;a href=&quot;https://manuelmoreale.com/supporters&quot;&gt;See my awesome supporters&lt;/a&gt; :: 
+            &lt;a href=&quot;https://buttondown.email/peopleandblogs&quot;&gt;Subscribe to People and Blogs&lt;/a&gt;&lt;/p&gt;
+         </code></pre>
+<p><a href="https://manuelmoreale.com/@/page/Ucfqwk6Jex01NTET"
+class="uri">https://manuelmoreale.com/@/page/Ucfqwk6Jex01NTET</a></p>
+<hr />
+<h2 id="taboola-apple-news">Taboola + Apple News</h2>
+<p>date: 2024-07-22, from: Michael Tsai</p>
+<p>Sara Fischer (Hacker News): Ad tech giant Taboola has struck a deal
+with Apple to power native advertising within the Apple News and Apple
+Stocks apps, Taboola founder and CEO Adam Singolda told Axios.[…]The
+deal is also a recognition from Apple that growing its ad business will
+require a serious sales operation — one that, […]</p>
+<p><a href="https://mjtsai.com/blog/2024/07/22/taboola-apple-news/"
+class="uri">https://mjtsai.com/blog/2024/07/22/taboola-apple-news/</a></p>
+<hr />
+<h2 id="crowdstrike-update-causes-bsod">CrowdStrike Update Causes
+BSOD</h2>
+<p>date: 2024-07-22, from: Michael Tsai</p>
+<p>Rory Tingle et al.: The ‘most serious IT outage the world has ever
+seen’ sparked global chaos today - with planes and trains halted, the
+NHS disrupted, shops closed, football teams unable to sell tickets and
+banks and TV channels knocked offline. See also: Reddit, Hacker News,
+and Slashdot. Qasim Nauman (Hacker News): Frontier Airlines […]</p>
+<p><a
+href="https://mjtsai.com/blog/2024/07/22/crowdstrike-update-causes-bsod/"
+class="uri">https://mjtsai.com/blog/2024/07/22/crowdstrike-update-causes-bsod/</a></p>
+<hr />
+<h2 id="swift-6-announced">Swift 6 Announced</h2>
+<p>date: 2024-07-22, from: Michael Tsai</p>
+<p>What’s new in Swift: We’ll briefly go through a history of Swift over
+the past decade, and show you how the community has grown through
+workgroups, expanded the package ecosystem, and increased platform
+support. We’ll introduce you to a new language mode that achieves
+data-race safety by default, and a language subset that lets you […]</p>
+<p><a href="https://mjtsai.com/blog/2024/07/22/swift-6-announced/"
+class="uri">https://mjtsai.com/blog/2024/07/22/swift-6-announced/</a></p>
+<hr />
+<h2 id="images-to-celebrate-nasas-chandra-25th-anniversary">25 Images to
+Celebrate NASA’s Chandra 25th Anniversary</h2>
+<p>date: 2024-07-22, from: NASA breaking news</p>
+<p>To celebrate the 25th anniversary of its launch, NASA’s Chandra X-ray
+Observatory is releasing 25 never-before-seen views of a wide range of
+cosmic objects. These images, which all include data from Chandra,
+demonstrate how X-ray astronomy explores all corners of the universe. By
+combining X-rays from Chandra with other space-based observatories and
+telescopes on the ground, as […]</p>
+<p><a
+href="https://www.nasa.gov/missions/chandra/25-images-to-celebrate-nasas-chandra-25th-anniversary/"
+class="uri">https://www.nasa.gov/missions/chandra/25-images-to-celebrate-nasas-chandra-25th-anniversary/</a></p>
+<hr />
+<h2
+id="قبور-وراء-النافذة-graves-behind-the-window-معذبو-الأرض-the-wretched-of-the-earth">قبور
+وراء النافذة / “Graves behind the Window” معذبو الأرض / “The Wretched of
+the Earth”</h2>
+<p>date: 2024-07-22, from: Logic Magazine</p>
+<pre><code>            &lt;p&gt;A selection of poems by Gazan poet Anees Ghanima, Translator’s Note Leena Aboutaleb, and preface by Abdalhadi Alijla&lt;/p&gt;</code></pre>
+<p><a href="https://logicmag.io/issue-21-medicine-and-the-body/2-poems"
+class="uri">https://logicmag.io/issue-21-medicine-and-the-body/2-poems</a></p>
+<hr />
+<h2
+id="ground-antenna-trio-to-give-nasas-artemis-campaign-legs-to-stand-on">Ground
+Antenna Trio to Give NASA’s Artemis Campaign ‘LEGS’ to Stand On</h2>
+<p>date: 2024-07-22, from: NASA breaking news</p>
+<p>Background NASA’s LEGS can do more than help Earthlings move about
+the planet. Three Lunar Exploration Ground Sites, or LEGS, will enhance
+the Near Space Network’s communications services and support of NASA’s
+Artemis campaign. NASA’s Space Communications and Navigation (SCaN)
+program maintains the agency’s two primary communications networks — the
+Deep Space Network and the […]</p>
+<p><a
+href="https://www.nasa.gov/missions/artemis/ground-antenna-trio-to-give-nasas-artemis-campaign-legs-to-stand-on/"
+class="uri">https://www.nasa.gov/missions/artemis/ground-antenna-trio-to-give-nasas-artemis-campaign-legs-to-stand-on/</a></p>
+<hr />
+<h2
+id="eileen-collins-broke-barriers-as-americas-first-female-space-shuttle-commander">Eileen
+Collins Broke Barriers as America’s First Female Space Shuttle
+Commander</h2>
+<p>date: 2024-07-22, from: NASA breaking news</p>
+<p>At the end of February 1998, Johnson Space Center Deputy Director
+James D. Wetherbee called Astronaut Eileen Collins to his office in
+Building 1. He told her she had been assigned to command STS-93 and went
+with her to speak with Center Director George W.S. Abbey who informed
+her that she would be going to […]</p>
+<p><a
+href="https://www.nasa.gov/humans-in-space/astronauts/former-astronauts/eileen-m-collins/eileen-collins-broke-barriers-as-americas-first-female-space-shuttle-commander/"
+class="uri">https://www.nasa.gov/humans-in-space/astronauts/former-astronauts/eileen-m-collins/eileen-collins-broke-barriers-as-americas-first-female-space-shuttle-commander/</a></p>
+<hr />
+<h2 id="im-from-queens-too">I’m from Queens too</h2>
+<p>date: 2024-07-22, from: Dave Winer’s Scripting News</p>
+<p>
+I grew up in the same part of Queens as Trump, about ten years after he
+did. His family was in Jamaica, mine in Flushing. Here’s a
+<a href="https://www.google.com/maps/dir/2931+170th+Street,+Queens,+NY/85-15+Wareham+Pl,+Jamaica,+NY+11432/@40.74413,-73.7982607,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89c28a8078136589:0xcdf1c8651455269a!2m2!1d-73.7948958!2d40.7696471!1m5!1m1!1s0x89c2611ad4d2c6a5:0xfe60c1b9262c3e04!2m2!1d-73.7858048!2d40.7170409!3e0?entry=ttu">map</a>
+that shows you where the two houses are. 4.0 miles apart if you take
+<a href="https://en.wikipedia.org/wiki/Utopia_Parkway">Utopia
+Parkway</a>. A great name for a street, but it’s not a parkway and it’s
+nice but definitely not a utopia.
+</p>
+<p>
+People who aren’t from huge cities like New York don’t know that Trump
+what our losers look like. They probably have their own loser types. I
+think that’s where 99% of the confusion is. They really don’t believe
+he’s so bad. Don’t hold that against them, that’s nowhere near as bad as
+knowing what he is and being okay with that.
+</p>
+<p>
+He’s a mean bully type. The name-calling is a big clue. Distracts from
+<i>his</i> weaknesses, which are very obvious. I don’t believe in
+<a href="https://en.wikipedia.org/wiki/Body_shaming">body shaming</a>,
+because I care about other people’s feelings. If I criticize his
+appearance it might reflect poorly on nice people who have his body type
+who may not be mean bully losers like Trump.
+</p>
+<p>
+He’s also a really good comedian if you don’t think he wants to have the
+power to kill millions of people and control many more people. Last time
+he was our president just through incompetence, without trying, he was
+responsible for the deaths of hundreds of thousands of Americans in the
+Covid disaster. He also wanted the army shoot protestors, that’s the
+mean part of our former president. Luckily the people who worked for him
+told him to fuck off. They saved us from going into a very deep hole
+that would have been hard to escape from.
+</p>
+<p>
+I watched the coverage of the aftermath of the assassination attempt,
+and listened to the Americans they interviewed, not the actors they put
+behind him on stage, to make him look like a badass I guess, these were
+just normal people who mostly like Trump, but seem pretty likeable
+themselves. The one thing you heard over and over was how If you don’t
+like a candidate vote against them don’t shoot them. That’s American and
+it’s not fascist at all. I don’t think they know that he wants to make
+big changes in how our politics work. People think if he’s bad they can
+just vote him out next time. He tells them this will be the last
+election if he wins, he actually says that, but somehow it doesn’t seem
+to register.
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/07/22/massDeportationNow.png">
+</center>
+Do Trump supporters understand what they support?
+</div>
+</p>
+<p>
+Of course the journalists are distorting who Trump supporters are. Trump
+is deplorable if you take him at his word. Some of Trump’s followers are
+deplorable too, like the ones who rioted at our Capitol and January 6
+and the people who are lined up to work in his next administration if he
+wins. They are awful people who want to control all of us. They’re
+already doing it via the Supreme Court. It’s going to get a lot worse if
+we go the wrong way. We shouldn’t accept that we’re horribly divided.
+The powerful media people want us to be divided, I don’t know why and I
+don’t care, I just know they do, based on their actions.
+</p>
+<p>
+Anyway I know we’re at a high moment, we’re excited, and I’m going to
+enjoy the feeling. We all seem to be pulling the same way, at least on
+“our side” but I hold out hope that being an American still means
+something, that we can be friends, and fellow countrymen, and work
+together. I think that’s still our greatest challange and our greatest
+opportunity. Yeah I am woke, that means I care about all of us. I think
+most of us do no matter who you vote for.
+</p>
+<p><a
+href="http://scripting.com/2024/07/22/165652.html?title=imFromQueensToo"
+class="uri">http://scripting.com/2024/07/22/165652.html?title=imFromQueensToo</a></p>
 <hr />
 <h2 id="brr-wants-a-job">Brr Wants A Job</h2>
 <p>date: 2024-07-22, from: brr, an Antarctica IT blog</p>
@@ -501,18 +1728,6 @@ class="uri">https://www.raspberrypi.com/news/using-m-2-hat-with-raspberry-pi-5/<
 <p><a href="https://davekarpf.substack.com/p/a-campaign-reset"
 class="uri">https://davekarpf.substack.com/p/a-campaign-reset</a></p>
 <hr />
-<h2 id="live-nasa-is-with-you-from-oshkosh">LIVE: NASA is with you from
-Oshkosh</h2>
-<p>date: 2024-07-22, from: NASA breaking news</p>
-<p>NASA Aeronautics Returns to Oshkosh Sunday, July 21 at 8:30 p.m. EDT
-NASA will appear at Oshkosh with a full slate of interactive exhibits,
-informative activities, and fascinating people to meet. But if you can’t
-make it we’ve got you covered. Enjoy the show virtually right here on
-this page. John Gould will be onsite […]</p>
-<p><a
-href="https://www.nasa.gov/aeronautics/live-nasa-is-with-you-from-oshkosh/"
-class="uri">https://www.nasa.gov/aeronautics/live-nasa-is-with-you-from-oshkosh/</a></p>
-<hr />
 <p><strong><span class="citation" data-cites="Miguel">@Miguel</span> de
 Icaza Mastondon feed</strong> (date: 2024-07-22, from: Miguel de Icaza
 Mastondon feed)</p>
@@ -594,6 +1809,218 @@ started as a developer &amp; in Postgres</a>
 <p><a
 href="https://www.postgresql.org/about/news/new-podcast-talking-postgres-2896/"
 class="uri">https://www.postgresql.org/about/news/new-podcast-talking-postgres-2896/</a></p>
+<hr />
+<h2 id="metadata-schema-development-plans">Metadata schema development
+plans</h2>
+<p>date: 2024-07-22, from: Crossref Blog</p>
+<h2 id="its-been-a-while-heres-a-metadata-update-and-request-for-feedback">
+It’s been a while, here’s a metadata update and request for feedback
+</h2>
+<p>
+In Spring 2023 we sent out a
+<a href="https://community.crossref.org/t/take-our-metadata-priorities-survey-by-may-18/3498" target="_blank">survey</a>
+to our community with a goal of assessing what our priorities for
+metadata development should be - what projects are our community ready
+to support? Where is the greatest need? What are the roadblocks?
+</p>
+<p>
+The intention was to help prioritize our metadata development work.
+There’s a lot we want to do, a lot our community needs from us, but we
+really want to make sure we’re focusing on the projects that will have
+the most immediate impact for now.
+</p>
+<p>
+Several projects were proposed, based on community demand over time. All
+are projects we intend to support long-term.
+</p>
+<h2 id="projects">
+Projects
+</h2>
+<p>
+The projects included in the survey were:
+</p>
+<ul>
+<li>
+<strong>Alternate names</strong> - We proposed adding a repeatable
+‘name’ element to allow for names that aren’t separated by
+given/family/surname.
+</li>
+<li>
+<strong>Updates to funding data</strong>
+-<a href="https://www.crossref.org/blog/roring-ahead-using-ror-in-place-of-the-open-funder-registry/" target="_blank">this
+update</a> will be released in the near future and includes:
+<ul>
+<li>
+Expand ROR support - Allow members to supply ROR ID instead of funder ID
+in funding data and grant records.
+</li>
+<li>
+Include Grant DOIs in funding metadata.
+</li>
+</ul>
+</li>
+<li>
+<strong>Publication typing in citations</strong> - Support citation type
+in citation metadata (for example article, preprint, data, software,
+etc.).
+</li>
+<li>
+<strong>Expand contributor role support</strong> - Allow multiple
+contributor roles to be provided per contributor and add support for
+external vocabularies (like CRediT)
+</li>
+<li>
+<strong>Expand abstract support</strong> - We currently require all
+abstracts to be formatted using JATS. We will be adding new abstract
+formats, including BITS and ONIX (which have been requested), as well as
+a generic abstract format (non-JATS).
+</li>
+<li>
+<strong>Statements</strong> - Add support for free text statements such
+as data availability, acknowledgments, funding, and conflict of
+interest.
+</li>
+<li>
+<strong>Contributor identifiers</strong> - Accept contributor
+identifiers such as ISNI (in addition to ORCID, which is already
+supported).
+</li>
+<li>
+<strong>Conference event IDs</strong> - Identifiers for
+<a href="https://www.crossref.org/blog/taking-the-con-out-of-conferences/" target="_blank">conference
+events</a>.
+</li>
+</ul>
+<h2 id="whats-next">
+What’s next?
+</h2>
+<p>
+There is a clear preference for publication types in citations and
+abstract markup, expanded support for multilingual metadata, followed by
+expanding contributor roles to support multiple roles and the CRediT
+taxonomy. The results have helped us prioritize our work and we’re
+advancing several projects soon based on our readiness to move forward.
+</p>
+<p>
+First up is <strong>publication typing in citations and
+statements</strong> - we hope to be able to make this ready for
+registration in the coming months, but want to confirm a few things
+first, primarily the list of ‘types’ to apply to citations, so please
+review and comment:
+<a href="https://docs.google.com/document/u/0/d/1VPXhTPMZzfvAPmTOlNp-bZf9cTLkw0dPZFTuDtDIPls/edit" target="_blank">Metadata
+updates in need of feedback July 2024</a>
+</p>
+<p>
+We also have been discussing expansions to our <strong>support for
+preprints metadata</strong> with our
+<a href="https://www.crossref.org/working-groups/preprints/" target="_blank">Preprints
+Advisory Group</a> and have a number of preprint-specific updates that
+will be rolled out in the coming months as well, including support for
+versions and status. These proposed changes are also available for
+comment.
+</p>
+<p>
+And finally, we will be expanding <strong>support for contributor
+roles</strong> to include multiple roles per contributor, as well as
+adding support for the
+<a href="https://credit.niso.org/" target="_blank">CRediT</a> taxonomy.
+This update is yet to be scheduled but we do have the inputs and output
+planning done and welcome any comments on this as well.
+</p>
+<p>
+We will also be continuing work on other projects highlighted in the
+survey that aren’t quite ready to go:
+</p>
+<ul>
+<li>
+<p>
+<strong>Multilingual metadata</strong>: Support for multilingual
+metadata in particular is very important and will require a fairly
+significant technical effort, so we want to be sure we get this right -
+at minimum we need to include repeatable fields flagged with language
+metadata for most items, there may be other considerations as well such
+as the scope of languages supported.
+</p>
+<p>
+As we develop new metadata segments we’re keeping language metadata in
+mind, but I’d like to form a short-term working group to help shape this
+update - this group will be focused on the details of supporting
+multilingual metadata in our inputs and outputs, so conversations will
+be very XML and JSON heavy. If you are interested and available please
+contact <a href="mailto:pfeeney@crossref.org">pfeeney@crossref.org</a>.
+<p>
+</p>
+</li>
+<li>
+<p>
+<strong>Abstract markup:</strong> we are currently in the research phase
+of this project but will be proposing updates and asking for input this
+fall. At the moment support for BITS and ONIX abstracts have been
+requested, as well as an agnostic format.
+</p>
+</li>
+<li>
+<p>
+<strong>Expansion of name and contributor ID support</strong>: work is
+under way for this as well, and I should have inputs and outputs for
+feedback in the coming months.
+</p>
+</li>
+</ul>
+<p>
+We anticipate more developments and requests for feedback in the future
+as we still have other projects from the list above to get to. I’ve
+opened up a
+‘<a href="https://community.crossref.org/c/metadata-development/15" target="_blank">Metadata
+Development</a>’ section in our Community Forum to invite discussion and
+will be kicking off a renewed Metadata Interest Group in the fall.
+</p>
+<p><a
+href="https://www.crossref.org/blog/metadata-schema-development-plans/"
+class="uri">https://www.crossref.org/blog/metadata-schema-development-plans/</a></p>
+<hr />
+<h2 id="low-tech-magazine-the-ebooks">Low-tech Magazine: The Ebooks</h2>
+<p>date: 2024-07-22, from: Blog Muffinlabs</p>
+<div class="article-img">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-2_dithered.png" alt='Image: Ebook.' loading="lazy"/>
+</figure>
+<figcaption class="caption">
+Image: Ebook.
+</figcaption>
+</div>
+</div>
+<p>
+Many of you have asked for ebooks, and now you can download both the
+chronological and thematic books series in epub version. The files work
+on any type of device, without restrictions. You can find all ebooks in
+<a href="https://payhip.com/LOWTECHMAGAZINE">our online bookshop</a>.
+</p>
+<p>
+<a href="https://patreon.com/lowtechmagazine">Patrons get free access to
+all ebooks and PDF archives</a>.
+</p>
+<div class="article-img">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-3_dithered.png" alt='Image: Low-tech Magazine Ebook.' loading="lazy"/>
+</figure>
+<figcaption class="caption">
+Image: Low-tech Magazine Ebook.
+</figcaption>
+</div>
+</div>
+<div class="article-img vertical">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-1_dithered.png" alt='Image: Low-tech Magazine Ebook.' loading="lazy"/>
+</figure>
+<figcaption class="caption">
+Image: Low-tech Magazine Ebook.
+</figcaption>
+</div>
+</div>
+<p><a
+href="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/"
+class="uri">https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/</a></p>
 <hr />
 <h2 id="episode-136---getting-on-trac">Episode 136 - Getting On
 TRAC</h2>
@@ -709,131 +2136,6 @@ miracle. I said that’s her department. <span
 class="spOldSchoolEmoji">❤️</span></p>
 <p><a href="http://scripting.com/2024/07/21.html#a212256"
 class="uri">http://scripting.com/2024/07/21.html#a212256</a></p>
-<hr />
-<h2 id="what-was-hard-about-the-oddµ-architecture">2024-07-21 What was
-hard about the Oddµ architecture?</h2>
-<p>date: 2024-07-21, from: Alex Schroeder’s Blog</p>
-<h1 id="2024-07-21-what-was-hard-about-the-oddµ-architecture">
-2024-07-21 What was hard about the Oddµ architecture?
-</h1>
-<p>
-If you know Go, I think you’ll find the architecture of Oddmu to be very
-traditional: There is a list of actions it knows how to handle when it
-serves a site on the web and a list of commands it understands when
-called from the shell. Everything involving HTML or the RSS feed uses a
-Go template.
-</p>
-<p>
-There were two things that were tricky, in hindsight. I didn’t know
-enough Go to know how best to do it and so it took me a long time to
-figure them out.
-</p>
-<p>
-The first was what data to keep in memory. I didn’t want search to
-involve a database so I experimented a lot with different ways of
-indexing the content. Trigrams? Full-text? And what about scoring? In
-the end, I dropped all of that. The only thing I keep in memory is a map
-of page names and page titles as well as a map of hashtags and pages. I
-find that searching titles and hashtags is what I do most often. For
-everything else, I search the files. This, of course, is much slower but
-for a site of ten thousand pages it’s still fast enough. So figuring out
-how to do search was hard. Once I had this figured out, I discovered
-that keeping maps in memory when there are multiple Go routines being
-used by the web server means that I need locks. Both of my maps are in
-fact data structures that each contain a map and a lock. This was new to
-me and it took me a long time to realize that having the lock was
-important. For a while, I didn’t have those locks. 😅
-</p>
-<p>
-The second thing that took me a long time to get right is that I wanted
-pages to be served from Oddµ when it runs as a web server and I wanted
-to be able to edit files locally and upload them (using rsync, for
-example) while it was still running on the server. I didn’t know about
-watching the filesystem for changes and had to learn how to do this: a
-watcher per directory, spawning new watchers when directories are
-created, and updating those maps I keep in memory as files are added,
-deleted or edited.
-</p>
-<p>
-Watching the files introduced another complication, however: What if a
-user edited a page via the web? I already had code in place that would
-update my maps. Now the file system watcher would report the same file
-being written to, resulting in two updates. And what about a change to a
-file that results in multiple events: create a file, write something to
-the file, write some more to the file. Three events resulting in three
-updates? The code is therefore complicated.
-</p>
-<p>
-If if Oddµ knows that a file is going to change ahead of time, like when
-a user on the web saves an edit, the file is added to a map of ignored
-files for a second. When the file system watcher sees those changes, no
-updates are done because it knows that the edit handler already does it.
-</p>
-<p>
-If Oddµ sees a file change because of somebody editing files directly, a
-one second timer is started. If another event for the same file arrives,
-the timer is reset to one second. Only when a second has elapsed without
-changes does the watcher do the updates to the internal data structures.
-That is to say, changes made to the file system regarding page title
-changes or hash tag changes take an effect on the web with a one second
-delay.
-</p>
-<p>
-So now, with all that in place, think of all the go routines running in
-parallel. Every one second timer is a go routine. Every go routine
-accessing a map like the map if files to ignore means that this map
-needs to be a data structure containing a map and a lock.
-</p>
-<p>
-When I look at that part of the code, I still get dizzy. 😵‍💫
-</p>
-<p>
-<a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a>
-<a class="tag" href="/search/?q=%23Programming">#Programming</a>
-</p>
-<p>
-<strong>2024-07-21</strong>.
-<a class="account" href="https://merveilles.town/@bouncepaw" title="@bouncepaw@merveilles.town"><span
-class="citation" data-cites="bouncepaw">@bouncepaw</span></a> asked
-about usability issues, specially in the context of using Oddµ for
-picture galleries. In my case, I think the hardest part is finding
-particular pictures. Consider <a href="2020-blumen/index">the page of
-flowers in 2020</a>. I know that there’s a sanseveria in bloom on that
-page, for example. But how can I find it? I can find the page if I
-search for “bogenhanf #pictures”, and then I can search for the same
-word on the page, and then I have to wait for a bit as the browser
-lazy-loads pictures.
-</p>
-<p>
-Perhaps, if I could get into the habit of putting the image description
-into the Markdown alt text, I could index all the images and their alt
-text, providing direct access to the images. I guess I would also have
-to add special code to the Markdown renderer that made the alt text
-visible for regular visitors (as title attribute or as regular
-paragraphs). That’d be interesting.
-</p>
-<p>
-<strong>Later</strong>. I have implemented something useful, I hope. If
-one of the search terms (excluding hashtags and predicates) matches an
-alt-text of an image, that image is included in the result.
-</p>
-<p>
-Of course, almost none of my galleries use the alt-text, so right now
-there aren’t many pages that will show results for a query like
-“bogenhanf #pictures”.
-</p>
-<p>
-My expectations regarding alt texts and title attributes for images have
-changed significantly as I’ve spent time on fedi, so I’m really not sure
-what to do about Markdown in this respect. Right now I’m in the habit of
-adding neither alt-text nor title attribute, trying to provide enough
-text in the paragraphs above or below. With this new search option, that
-might have to change, too. As a sighted person, I sort of expect the
-title attribute to be the same as the alt text.
-</p>
-<p><a
-href="https://alexschroeder.ch/view/2024-07-21-what-is-hard-about-oddmu"
-class="uri">https://alexschroeder.ch/view/2024-07-21-what-is-hard-about-oddmu</a></p>
 <hr />
 <h2 id="nyt-just-stop-podcast">NYT just stop podcast</h2>
 <p>date: 2024-07-21, from: Dave Winer’s Scripting News</p>

@@ -1,11 +1,76 @@
 ---
 title: retro computing 2024.30
-updated: 2024-07-22 08:22:26
+updated: 2024-07-23 08:47:14
 ---
 
 # retro computing 2024.30
 
-(date: 2024-07-22 08:22:26)
+(date: 2024-07-23 08:47:14)
+
+---
+
+## RISCOSbits 'extend' their FIRE and Pyro machines
+
+date: 2024-07-23, from: Icon Bar, RISC OS News
+
+If you have a FIRE or Pyro system from RISCOSbits (I reviewed mine here) you may be interested in their new machine stands. The stand has a gap underneath that will fit a DVD drive underneath. 
+
+<http://www.iconbar.com/comments/rss/news2087.html>
+
+---
+
+## Snow Leopard PPC: What Works, What Doesn’t
+
+date: 2024-07-22, from: Happy Macs site
+
+Summary: In my first post covering the install of Snow Leopard on a PPC Mac, I mentioned that I would follow up with more insights into issues with this unsupported configuration, and workarounds that I had found. This post provides those &#8220;insights&#8221;… more like &#8220;observations&#8221;, but at any rate, a follow up on what works [&#8230;] 
+
+<https://happymacs.wordpress.com/2024/07/22/snow-leopard-ppc-what-works-what-doesnt/>
+
+---
+
+## OpenMandriva Lx 24.07 Released
+
+date: 2024-07-22, from: Linux Magazine
+
+<p>If you’re into rolling release Linux distributions, OpenMandriva ROME has a new snapshot with a new kernel.</p> 
+
+<http://www.linux-magazine.com/Online/News/OpenMandriva-Lx-24.07-Released>
+
+---
+
+## Low-tech Magazine: The Ebooks
+
+date: 2024-07-22, from: Low-tech magazine
+
+<div class="article-img ">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-2_dithered.png" alt='Image: Ebook.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Ebook. 
+</figcaption>
+</div>
+</div>
+<p>Many of you have asked for ebooks, and now you can download both the chronological and thematic books series in epub version. The files work on any type of device, without restrictions. You can find all ebooks in <a href="https://payhip.com/LOWTECHMAGAZINE">our online bookshop</a>.</p>
+<p><a href="https://patreon.com/lowtechmagazine">Patrons get free access to all ebooks and PDF archives</a>.</p>
+<div class="article-img ">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-3_dithered.png" alt='Image: Low-tech Magazine Ebook.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Low-tech Magazine Ebook. 
+</figcaption>
+</div>
+</div>
+<div class="article-img  vertical">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-1_dithered.png" alt='Image: Low-tech Magazine Ebook.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Low-tech Magazine Ebook. 
+</figcaption>
+</div>
+</div> 
+
+<https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/>
 
 ---
 

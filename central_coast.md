@@ -1,11 +1,134 @@
 ---
 title: central coast 2024.30
-updated: 2024-07-22 08:22:20
+updated: 2024-07-23 08:47:09
 ---
 
 # central coast 2024.30
 
-(date: 2024-07-22 08:22:20)
+(date: 2024-07-23 08:47:09)
+
+---
+
+## Naples Harbor
+
+date: 2024-07-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062324-POD-Chris-Cartwright.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Naples harbor, Italy." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062324-POD-Chris-Cartwright.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062324-POD-Chris-Cartwright.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062324-POD-Chris-Cartwright.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062324-POD-Chris-Cartwright.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062324-POD-Chris-Cartwright.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062324-POD-Chris-Cartwright.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062324-POD-Chris-Cartwright.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062324-POD-Chris-Cartwright.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062324-POD-Chris-Cartwright.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062324-POD-Chris-Cartwright.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062324-POD-Chris-Cartwright.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062324-POD-Chris-Cartwright.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062324-POD-Chris-Cartwright.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/naples-harbor/">Naples Harbor</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/naples-harbor/>
+
+---
+
+## Santa Barbara School Board Student Member Erick Gonzalez Ramirez Brings Passion for Representation
+
+date: 2024-07-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-student-board-member-2-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara Unified School District student board member Erick Gonzalez Ramirez." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-student-board-member-2-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-student-board-member-2-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-student-board-member-2-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-student-board-member-2-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-student-board-member-2-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-student-board-member-2-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-student-board-member-2-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-student-board-member-2-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-student-board-member-2-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-student-board-member-2-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Erick Gonzalez Ramirez, 17, is focused on mental health and representation for all students as he begins his role as student body board member for the Santa Barbara Unified School [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-school-board-student-member-erick-gonzalez-ramirez-brings-passion-for-representation/">Santa Barbara School Board Student Member Erick Gonzalez Ramirez Brings Passion for Representation</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-school-board-student-member-erick-gonzalez-ramirez-brings-passion-for-representation/>
+
+---
+
+## Laurie Jervis: Kaena Wine Co. Closing Los Olivos Tasting Room
+
+date: 2024-07-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-Jervis-Kaena-The-Ranch-7.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="When Kaena Wine Co. closes its Los Olivos tasting room later this summer, its second and larger site, “The Ranch,” at 800 E. Highway 246 in Solvang, will be the label’s sole site." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-Jervis-Kaena-The-Ranch-7.jpg?w=1896&amp;ssl=1 1896w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-Jervis-Kaena-The-Ranch-7.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-Jervis-Kaena-The-Ranch-7.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-Jervis-Kaena-The-Ranch-7.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-Jervis-Kaena-The-Ranch-7.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-Jervis-Kaena-The-Ranch-7.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-Jervis-Kaena-The-Ranch-7.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-Jervis-Kaena-The-Ranch-7.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-Jervis-Kaena-The-Ranch-7.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-Jervis-Kaena-The-Ranch-7.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Kaena Wine Co., owned by Mikael and Sally Sigouin, soon will close its longtime Los Olivos tasting room and focus on “the Ranch,” its second and newer location at 800 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/laurie-jervis-kaena-wine-co-closing-los-olivos-tasting-room/">Laurie Jervis: Kaena Wine Co. Closing Los Olivos Tasting Room</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/laurie-jervis-kaena-wine-co-closing-los-olivos-tasting-room/>
+
+---
+
+## Spine Surgeon Dr. Sean Keem Joins Sansum’s  Orthopedics Department
+
+date: 2024-07-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Dr. Sean Keem, a board-certified and fellowship-trained spine surgeon has joined Sansum Clinic’s Orthopedics Department and will be performing surgeries at its Foothill Surgery Center, Sansum Clinic, now part of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/spine-surgeon-dr-sean-keem-joins-sansums-orthopedics-department/">Spine Surgeon Dr. Sean Keem Joins Sansum&#8217;s  Orthopedics Department</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/spine-surgeon-dr-sean-keem-joins-sansums-orthopedics-department/>
+
+---
+
+## Fairies, Sprites Romp at Elings Park in ‘A Midsummer Night’s Dream’
+
+date: 2024-07-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Theatricum Botanicum’s signature production of Shakespeare’s “A Midsummer Night’s Dream,” will be transported from the company’s Topanga Canyon amphitheater to Santa Barbara’s Elings Park this summer for an outdoor performance, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/fairies-sprites-romp-at-elings-park-in-a-midsummer-nights-dream/">Fairies, Sprites Romp at Elings Park in &#8216;A Midsummer Night’s Dream&#8217;</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/fairies-sprites-romp-at-elings-park-in-a-midsummer-nights-dream/>
+
+---
+
+## Santa Barbara Talks: Instagram Fave Michael Montenegro Documents Chicano Culture, History
+
+date: 2024-07-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara resident Michael Montenegro has grown his Instagram page to about 8,000 followers in the past few years. How did he do it? Documenting Chicano culture and history. On [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-talks-instagram-fave-michael-montenegro-documents-chicano-culture-history/">Santa Barbara Talks: Instagram Fave Michael Montenegro Documents Chicano Culture, History</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-talks-instagram-fave-michael-montenegro-documents-chicano-culture-history/>
+
+---
+
+## Santa Barbara Museum of Art Hosts Docent Recruitment Reception
+
+date: 2024-07-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara Museum of Art (SBMA) is looking for volunteer docents to engage with visitors of all ages through guided tours to help make artwork accessible to everyone. For [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-museum-of-art-hosts-docent-recruitment-reception/">Santa Barbara Museum of Art Hosts Docent Recruitment Reception</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-museum-of-art-hosts-docent-recruitment-reception/>
+
+---
+
+## Eight More Years! of Accreditation for CSU Channel Islands
+
+date: 2024-07-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Academic excellence, inventiveness and a commitment to equity are among the qualities that have recently earned CSU Channel Islands (CSUCI) another eight years of accreditation from the Western Association of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/eight-more-years-of-accreditation-for-csu-channel-islands/">Eight More Years! of Accreditation for CSU Channel Islands</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/eight-more-years-of-accreditation-for-csu-channel-islands/>
+
+---
+
+## Karen Telleen-Lawton: Find Your Happy Place With Happy Planet Index
+
+date: 2024-07-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>“If you want to be happy, set a goal that commands your thoughts, liberates your energy and inspires your hopes.”&#160; Attributed to Andrew Carnegie, this quote demonstrates the direct link [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/karen-telleen-lawton-find-your-happy-place-with-happy-planet-index/">Karen Telleen-Lawton: Find Your Happy Place With Happy Planet Index</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/karen-telleen-lawton-find-your-happy-place-with-happy-planet-index/>
+
+---
+
+## Crews Contain Wasioja Fire in Cuyama Valley; County Opens Cooling Centers
+
+date: 2024-07-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-wasioja-fire-cuyama-county-fire-1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The Wasioja Fire burned 50 acres in the Cuyama Valley Sunday and Monday. The cause is still being investigated." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-wasioja-fire-cuyama-county-fire-1.jpg?w=1530&amp;ssl=1 1530w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-wasioja-fire-cuyama-county-fire-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-wasioja-fire-cuyama-county-fire-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-wasioja-fire-cuyama-county-fire-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-wasioja-fire-cuyama-county-fire-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-wasioja-fire-cuyama-county-fire-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-wasioja-fire-cuyama-county-fire-1.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072224-wasioja-fire-cuyama-county-fire-1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Crews have completely contained a 50-acre vegetation fire burning in the Cuyama Valley, Santa Barbara County Fire Capt. Scott Safechuck said Monday. The Wasioja Fire started at 5:10 p.m. Sunday [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/crews-contain-wasioja-fire-in-cuyama-valley-county-opens-cooling-centers/">Crews Contain Wasioja Fire in Cuyama Valley; County Opens Cooling Centers</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/crews-contain-wasioja-fire-in-cuyama-valley-county-opens-cooling-centers/>
 
 ---
 

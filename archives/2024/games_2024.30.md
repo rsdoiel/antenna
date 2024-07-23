@@ -1,11 +1,111 @@
 ---
 title: games 2024.30
-updated: 2024-07-22 08:22:23
+updated: 2024-07-23 08:47:12
 ---
 
 # games 2024.30
 
-(date: 2024-07-22 08:22:23)
+(date: 2024-07-23 08:47:12)
+
+---
+
+## The 14 best Zelda-likes to play after Tears of the Kingdom
+
+date: 2024-07-23, updated: 2024-07-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/zelda/23634048/best-games-like-zelda-on-nintendo-switch-pc-ps5-xbox>
+
+---
+
+## Assassin’s Creed Shadows devs address blowback over game’s ‘historical accuracy’
+
+date: 2024-07-23, updated: 2024-07-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24204308/assassins-creed-shadows-yasuke-samurai-ubisoft-controversy>
+
+---
+
+## What DC isn’t bringing to SDCC, but could have
+
+date: 2024-07-23, updated: 2024-07-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/sdcc/2024/7/23/24202130/sdcc-2024-dc-movies-release-james-gunn-updates>
+
+---
+
+## The latest strategy to fuel indie development? Turning yourself into a VTuber
+
+date: 2024-07-23, updated: 2024-07-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24201435/vtuber-indie-game-developers>
+
+---
+
+## Sky Team board game soars to prestigious Spiel des Jahres win
+
+date: 2024-07-23, updated: 2024-07-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24204315/sky-team-wins-spiel-des-jahres-2023>
+
+---
+
+## Disney Lorcana Gateway is a perfect entry point for the trading card game
+
+date: 2024-07-23, updated: 2024-07-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24203783/disney-lorcana-tcg-gateway-on-sale>
+
+---
+
+## Lego’s four new Fortnite sets are big ol’ boxes of color and fun
+
+date: 2024-07-23, updated: 2024-07-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24204303/lego-fortnite-preorder-battle-bus-llama-burger-peely>
+
+---
+
+## Survival horror game Conscript puts you face-down in the muck of World War I
+
+date: 2024-07-23, updated: 2024-07-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24203819/conscript-review-world-war-1-survival-horror>
+
+---
+
+## Donald Trump’s Twitch channel is back
+
+date: 2024-07-22, updated: 2024-07-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24203801/donald-trump-twitch-channel-unbanned>
+
+---
+
+## In defense of House of the Dragon’s drawn-out Harrenhal story
+
+date: 2024-07-22, updated: 2024-07-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24203885/house-dragon-daemon-harrenhal-good>
 
 ---
 

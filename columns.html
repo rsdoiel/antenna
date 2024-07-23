@@ -30,7 +30,908 @@
 Items collected from feeds in <a href="columns.txt">columns.txt</a>
 </div>
 <h1 id="columns-2024.30">columns 2024.30</h1>
-<p>(date: 2024-07-22 08:22:22)</p>
+<p>(date: 2024-07-23 08:47:11)</p>
+<hr />
+<h2
+id="from-scientific-american-what-to-know-about-project-2025s-dangers-to-science.">From
+Scientific American: What to Know about Project 2025’s Dangers to
+Science….</h2>
+<p>date: 2024-07-23, updated: 2024-07-23, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/07/0044993-from-scientific-american-"
+class="uri">https://kottke.org/24/07/0044993-from-scientific-american-</a></p>
+<hr />
+<h2 id="eglot-for-go-perl-and-markdown">2024-07-23 Eglot for Go, Perl
+and Markdown</h2>
+<p>date: 2024-07-23, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-07-23-eglot-for-go-perl-and-markdown">
+2024-07-23 Eglot for Go, Perl and Markdown
+</h1>
+<p>
+Apparently there’s a way to have Oddµ and Eglot cooperate in Emacs using
+<a href="https://github.com/artempyanykh/marksman">Marksman</a>.
+</p>
+<p>
+Note that LSP integration only works in a “project”: a VCS repository,
+or in the case of Marksman, a directory containing an (empty)
+<code>.marksman.toml</code> file. This latter option is important if
+your notes aren’t under version control.
+</p>
+<p>
+After installing the Marksman binary, use something like the following.
+This installs Eglot for Go mode, Perl mode and Markdown mode.
+</p>
+<pre><code>;; There is probably a way to put this inside the use-package form but
+;; this is how it works for me.
+(add-hook 'go-mode-hook 'eglot-ensure)
+(add-hook 'perl-mode-hook 'eglot-ensure)
+(add-hook 'markdown-mode-hook 'eglot-ensure)
+(autoload 'eglot-ensure &quot;eglot&quot; &quot;Start Eglot session for current buffer if there isn’t one.&quot;)
+
+(use-package eglot :ensure t
+  :config (add-to-list 'eglot-server-programs '(markdown-mode . (&quot;marksman&quot;))))
+
+(setq-default eglot-workspace-configuration
+    '((:gopls .
+        ((staticcheck . t)
+         (matcher . &quot;CaseSensitive&quot;)))))
+</code></pre>
+<p>
+<a class="tag" href="/search/?q=%23Emacs">#Emacs</a>
+<a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a>
+<a class="tag" href="/search/?q=%23Markdown">#Markdown</a>
+<a class="tag" href="/search/?q=%23Perl">#Perl</a>
+<a class="tag" href="/search/?q=%23Golang">#Golang</a>
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-07-23-eglot"
+class="uri">https://alexschroeder.ch/view/2024-07-23-eglot</a></p>
+<hr />
+<h2
+id="dark-oxygen-source-discovered-on-ocean-floor.-the-metal-nodules-are-able">“Dark
+oxygen” source discovered on ocean floor. “The metal nodules are
+able…</h2>
+<p>date: 2024-07-23, updated: 2024-07-23, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/07/0044992-dark-oxygen-source-discov"
+class="uri">https://kottke.org/24/07/0044992-dark-oxygen-source-discov</a></p>
+<hr />
+<h2 id="a-less-rigorous-version-of-friendship">A Less Rigorous Version
+of Friendship</h2>
+<p>date: 2024-07-23, updated: 2024-07-23, from: Jason Kittke’s blog</p>
+<p><a
+href="https://kottke.org/24/07/a-less-rigorous-version-of-friendship"
+class="uri">https://kottke.org/24/07/a-less-rigorous-version-of-friendship</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-07-23, from: Dave Winer’s Scripting
+News)</p>
+<p>All the reporters know the Repubs refused to fund border stuff so
+they could use it to tag the Dems in the election. So the first thing
+the Repubs do is tag VP Harris with the border. The reporter asks a Dem
+what they have to say about that. But the reporter <i>knows</i> what the
+Repubs did. So why do they even ask the freaking question? They just
+play the script the Repubs wrote for them. They are so savvy, but we
+heard all that too, so we know how corrupt they are. They don’t care if
+we know.</p>
+<p><a href="http://scripting.com/2024/07/23.html#a133302"
+class="uri">http://scripting.com/2024/07/23.html#a133302</a></p>
+<hr />
+<h2
+id="bodycam-footage-of-aston-villa-midfielder-youri-tielemans-shows-how-quick-and">Bodycam
+footage of Aston Villa midfielder Youri Tielemans shows how quick
+and…</h2>
+<p>date: 2024-07-23, updated: 2024-07-23, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/07/0044990-bodycam-footage-of-aston-"
+class="uri">https://kottke.org/24/07/0044990-bodycam-footage-of-aston-</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-07-23, from: Dave Winer’s Scripting
+News)</p>
+<p><a href="https://shownotes.scripting.com/scripting/2024/07/23/podcastStartsWithLinkblogging.html">Show
+notes</a> for today’s Scripting podcast.</p>
+<p><a href="http://scripting.com/2024/07/23.html#a131631"
+class="uri">http://scripting.com/2024/07/23.html#a131631</a></p>
+<hr />
+<h2 id="podcast-starts-with-linkblogging">Podcast starts with
+linkblogging</h2>
+<p>date: 2024-07-23, from: Dave Winer’s Scripting News</p>
+<p>
+A 20-minute morning coffee notes rambler
+<a href="https://s3.amazonaws.com/scripting.com/2024/07/23/randomMorningCoffeeNotes.m4a">podcast</a>,
+started with a narration of how we do linkblogging these days, mostly by
+hand, and how Bluesky is being hurt by not having a large-enough
+character limit. Another plea for textcasting, some standards for what
+we put on the wire over the social web.
+</p>
+<p>
+Also talked about twitter-like systems, and idea borrowed from
+algol-like and lisp-like.
+</p>
+<p>
+I talk about what made Unix so great.
+</p>
+<p>
+Eric Raymond once told me that <a href="https://xmlrpc.com/">XML-RPC</a>
+was very much like Unix, and I said oh yeah, and so is
+<a href="http://reallysimple.org/">RSS</a> and the rest. Huge compliment
+because the simplicity of Unix is what I strive for, put huge time into.
+</p>
+<p>
+Journos once said Apple is dead, but that was ridiculous because they
+had built a product that was just starting to grow and they had planted
+the seeds of huge growth in the 80s when they focused on selling to
+education, which made sure that kids when they grew up would have good
+feelings about Apple, and it totally worked. When the reporters were
+calling them dead, they were actually just about to boom in a whole new
+way, on the web, which the Mac was perfect for, given the built in
+simple networking. And then boom again when Jobs came back. And again
+with the iPod and then again with the iPhone. See how reporters miss the
+big picture. We shouldn’t give them so much power, they pretend they
+know, but they are usually pretty clueless.
+</p>
+<p>
+This podcast is also a demo of how my mind works. I flit around all over
+the place but also have learned over the years that if I want to get
+anything done I have to focus on one thing for at least a few hours
+every day, and string those days together.
+</p>
+<p>
+I want to document this stuff for the benefit of young programmers. I
+learned a lot from reading the code of Unix, I always want to pay that
+back, the message is to strive for simplicity, keep technical debt to a
+minimum, and factor, factor and factor again to reduce technical debt.
+Those are the hardest projects, I’m doing one of those right now, but in
+the end it’s worth it, because with simplicity you get to build higher.
+</p>
+<p><a
+href="http://scripting.com/2024/07/23/130117.html?title=podcastStartsWithLinkblogging"
+class="uri">http://scripting.com/2024/07/23/130117.html?title=podcastStartsWithLinkblogging</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-07-23, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/23/hopeKamala.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I
+was able to follow <a href="https://x.com/kamalahq">kamalhq</a> on
+twitter. This
+<a href="https://www.yahoo.com/news/trump-lover-elon-musk-already-145940678.html">report</a>
+says that Musk is rate-limiting followers on that account. Of course we
+<a href="http://scripting.com/2017/01/14/whatIfTwtrIsBoughtByARepub.html">warned</a>
+what could happen if a Republican bought twitter, but I didn’t honestly
+contemplate that a fascist would. These days our greatest fears aren’t
+scary enough. People laugh that Musk paid too much for twitter, but if
+the US ends up as an autocracy, the oligarch that owns the entire news
+distribution system for the world will probably have the last laugh.
+BTW, if you want to know why we’re so thrilled to have Harris as the
+candidate, even though we didn’t want Joe to give in, it’s because no
+informed and sane person wants to live in a new Trump term. We tried
+that if you recall. The hope you hear now is much greater than the hope
+we had when Obama was selling that (though hope was a good word for it).
+Today it’s the hope that we won’t be deported or worse.</p>
+<p><a href="http://scripting.com/2024/07/23.html#a122650"
+class="uri">http://scripting.com/2024/07/23.html#a122650</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-07-23, from: Dave Winer’s Scripting
+News)</p>
+<p>I want future President Harris to stay happy no matter what the
+bastards do or say. We should have a crisis line for her to call to get
+some quick love. 1-800-LUV-KAMALA.</p>
+<p><a href="http://scripting.com/2024/07/23.html#a121858"
+class="uri">http://scripting.com/2024/07/23.html#a121858</a></p>
+<hr />
+<h2 id="odni-memo-on-kaspersky-labs">2017 ODNI Memo on Kaspersky
+Labs</h2>
+<p>date: 2024-07-23, updated: 2024-07-23, from: Bruce Schneier blog</p>
+<p>
+It’s
+<a href="https://www.dni.gov/files/documents/FOIA/DF-2018-00013-National-Intelligence-Council-Memorandum.pdf">heavily
+redacted</a>, but still interesting.
+</p>
+<p>
+Many more ODNI documents
+<a href="https://www.dni.gov/index.php/read-released-records">here</a>.
+</p>
+<p><a
+href="https://www.schneier.com/blog/archives/2024/07/2017-odni-memo-on-kaspersky-labs.html"
+class="uri">https://www.schneier.com/blog/archives/2024/07/2017-odni-memo-on-kaspersky-labs.html</a></p>
+<hr />
+<h2 id="what-was-hard-about-the-oddµ-architecture">2024-07-21 What was
+hard about the Oddµ architecture?</h2>
+<p>date: 2024-07-23, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-07-21-what-was-hard-about-the-oddµ-architecture">
+2024-07-21 What was hard about the Oddµ architecture?
+</h1>
+<p>
+If you know Go, I think you’ll find the architecture of Oddmu to be very
+traditional: There is a list of actions it knows how to handle when it
+serves a site on the web and a list of commands it understands when
+called from the shell. Everything involving HTML or the RSS feed uses a
+Go template.
+</p>
+<p>
+There were two things that were tricky, in hindsight. I didn’t know
+enough Go to know how best to do it and so it took me a long time to
+figure them out.
+</p>
+<p>
+The first was what data to keep in memory. I didn’t want search to
+involve a database so I experimented a lot with different ways of
+indexing the content. Trigrams? Full-text? And what about scoring? In
+the end, I dropped all of that. The only thing I keep in memory is a map
+of page names and page titles as well as a map of hashtags and pages. I
+find that searching titles and hashtags is what I do most often. For
+everything else, I search the files. This, of course, is much slower but
+for a site of ten thousand pages it’s still fast enough. So figuring out
+how to do search was hard. Once I had this figured out, I discovered
+that keeping maps in memory when there are multiple Go routines being
+used by the web server means that I need locks. Both of my maps are in
+fact data structures that each contain a map and a lock. This was new to
+me and it took me a long time to realize that having the lock was
+important. For a while, I didn’t have those locks. 😅
+</p>
+<p>
+The second thing that took me a long time to get right is that I wanted
+pages to be served from Oddµ when it runs as a web server and I wanted
+to be able to edit files locally and upload them (using rsync, for
+example) while it was still running on the server. I didn’t know about
+watching the filesystem for changes and had to learn how to do this: a
+watcher per directory, spawning new watchers when directories are
+created, and updating those maps I keep in memory as files are added,
+deleted or edited.
+</p>
+<p>
+Watching the files introduced another complication, however: What if a
+user edited a page via the web? I already had code in place that would
+update my maps. Now the file system watcher would report the same file
+being written to, resulting in two updates. And what about a change to a
+file that results in multiple events: create a file, write something to
+the file, write some more to the file. Three events resulting in three
+updates? The code is therefore complicated.
+</p>
+<p>
+If Oddµ knows that a file is going to change ahead of time, like when a
+user on the web saves an edit, the file is added to a map of ignored
+files for a second. When the file system watcher sees those changes, no
+updates are done because it knows that the edit handler already does it.
+</p>
+<p>
+If Oddµ sees a file change because of somebody editing files directly, a
+one second timer is started. If another event for the same file arrives,
+the timer is reset to one second. Only when a second has elapsed without
+changes does the watcher do the updates to the internal data structures.
+That is to say, changes made to the file system regarding page title
+changes or hash tag changes take an effect on the web with a one second
+delay.
+</p>
+<p>
+So now, with all that in place, think of all the go routines running in
+parallel. Every one second timer is a go routine. Every go routine
+accessing a map like the map if files to ignore means that this map
+needs to be a data structure containing a map and a lock.
+</p>
+<p>
+When I look at that part of the code, I still get dizzy. 😵‍💫
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a>
+<a class="tag" href="/search/?q=%23Programming">#Programming</a>
+</p>
+<p>
+<strong>2024-07-21</strong>.
+<a class="account" href="https://merveilles.town/@bouncepaw" title="@bouncepaw@merveilles.town"><span
+class="citation" data-cites="bouncepaw">@bouncepaw</span></a> asked
+about usability issues, specially in the context of using Oddµ for
+picture galleries. In my case, I think the hardest part is finding
+particular pictures. Consider <a href="2020-blumen/index">the page of
+flowers in 2020</a>. I know that there’s a sanseveria in bloom on that
+page, for example. But how can I find it? I can find the page if I
+search for “bogenhanf #pictures”, and then I can search for the same
+word on the page, and then I have to wait for a bit as the browser
+lazy-loads pictures.
+</p>
+<p>
+Perhaps, if I could get into the habit of putting the image description
+into the Markdown alt text, I could index all the images and their alt
+text, providing direct access to the images. I guess I would also have
+to add special code to the Markdown renderer that made the alt text
+visible for regular visitors (as title attribute or as regular
+paragraphs). That’d be interesting.
+</p>
+<p>
+<strong>Later</strong>. I have implemented something useful, I hope. If
+one of the search terms (excluding hashtags and predicates) matches an
+alt-text of an image, that image is included in the result.
+</p>
+<p>
+Of course, almost none of my galleries use the alt-text, so right now
+there aren’t many pages that will show results for a query like
+“bogenhanf #pictures”.
+</p>
+<p>
+My expectations regarding alt texts and title attributes for images have
+changed significantly as I’ve spent time on fedi, so I’m really not sure
+what to do about Markdown in this respect. Right now I’m in the habit of
+adding neither alt-text nor title attribute, trying to provide enough
+text in the paragraphs above or below. With this new search option, that
+might have to change, too. As a sighted person, I sort of expect the
+title attribute to be the same as the alt text.
+</p>
+<p>
+<strong>2024-07-22</strong>. Sometimes I have the urge to write a small
+editor, something like the kilo project: so small that it is barely
+usable. I also imagine it to have a sort of conversational UI – which I
+guess ed has? – if ed is your grumpiest of companions! – or maybe the
+M-x commands for emacs – and I guess I‘m looking at Oddmu as a site
+generator and Markdown file server and I wonder: what sort of editor
+would I need to maintain this? What sort of minimal SVG editing
+capabilities would be nice to have?
+</p>
+<p><a
+href="https://alexschroeder.ch/view/2024-07-21-what-is-hard-about-oddmu"
+class="uri">https://alexschroeder.ch/view/2024-07-21-what-is-hard-about-oddmu</a></p>
+<hr />
+<h2 id="industrial-policy-the-long-and-the-short-of-it.">Industrial
+policy – the long and the short of it.</h2>
+<p>date: 2024-07-23, from: Enlightenment Economics blog</p>
+<p>I’ve been dipping into the proofs of a substantial book, Industrial
+Policy for the United States by Marc Fasteau and Ian Fletcher, due out
+in September. It will prove a significant resource for anybody
+interested in the issue. The book …
+<a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/07/industrial-policy-the-long-and-the-short-of-it/">Continue
+reading <span class="meta-nav">→</span></a></p>
+<p><a
+href="http://www.enlightenmenteconomics.com/blog/index.php/2024/07/industrial-policy-the-long-and-the-short-of-it/"
+class="uri">http://www.enlightenmenteconomics.com/blog/index.php/2024/07/industrial-policy-the-long-and-the-short-of-it/</a></p>
+<hr />
+<h2 id="ngircd-and-munin">2024-07-23 ngIRCd and Munin</h2>
+<p>date: 2024-07-23, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-07-23-ngircd-and-munin">
+2024-07-23 ngIRCd and Munin
+</h1>
+<p>
+Today I tried to make the
+<a href="https://github.com/munin-monitoring/contrib/blob/master/plugins/ircd/irc2">irc2</a>
+plugin work for my IRC server.
+</p>
+<p>
+Mostly fiddling with the regular expressions. Adding an optional comma.
+Making it case-insensitive. The usual, I guess.
+</p>
+<p>
+I was positively impressed by Debians pre-packaged Perl modules:
+</p>
+<pre><code>apt install libpoe-component-irc-perl libpoe-component-sslify-perl
+</code></pre>
+<p>
+Here’s the modified plugin for <code>/etc/munin/plugins</code>:
+</p>
+<pre><code>#!/usr/bin/perl
+# -*- perl -*-
+
+=head1 NAME
+
+ircstats  - Plugin to graph data about an IRC network and a single IRC server
+
+=head1 CONFIGURATION
+
+- env.SERVER to point to the server to connect to, defaults to localhost.
+- env.PORT port to use, defaults to 6667.
+- env.NICK nickname to use, defaults to munin-$HASH.
+- env.USESSL 0 or 1 values to enable SSL/TLS, defaults to 0.
+- env.USEIPV6 0 or 1 to enable IPv6 use, defaults to 0.
+
+=head1 USAGE
+
+This plugin connects to an IRC server.
+
+It requires POE::Component::IRC and POE::Component::SSLify if you use SSL/TLS.
+
+=head1 AUTHOR
+
+Robin H. Johnson
+Alex Schroeder
+
+=head1 LICENSE
+
+3-clause BSD.
+
+=head1 MAGIC MARKERS
+
+  #%# family=manual
+
+=cut
+use strict;
+use warnings;
+use Data::Dumper;
+use POE qw(Component::IRC);
+use Digest::MD5 qw(md5_hex);
+
+my $nickname = $ENV{NICK} || 'munin-'.substr(md5_hex(rand().time()), 0, 3);
+my $ircname = &quot;Munin statistics gathering from $ENV{SERVER}&quot;;
+my $server = $ENV{SERVER} || 'localhost';
+my $port = $ENV{PORT} || 6667;
+my $usessl = $ENV{USESSL} || 0;
+my $useipv6 = $ENV{USEIPV6} || 0;
+
+if($ARGV[0] and $ARGV[0] eq &quot;config&quot;) {
+  print &quot;graph_title ircd status - $server\n&quot;;
+  print &quot;graph_category chat\n&quot;;
+  print &quot;graph_order clients channels servers localclients clientmax localclientmax localservers opers unknownconns\n&quot;;
+  print &quot;graph_args -l 0\n&quot;;
+  print &quot;clients.label clients\n&quot;;
+  print &quot;clients.draw LINE2\n&quot;;
+  print &quot;channels.label channels\n&quot;;
+  print &quot;channels.draw LINE2\n&quot;;
+  print &quot;servers.label servers\n&quot;;
+  print &quot;servers.draw LINE2\n&quot;;
+  print &quot;localclients.label localclients\n&quot;;
+  print &quot;localclients.draw LINE2\n&quot;;
+  print &quot;clientmax.label clientmax\n&quot;;
+  print &quot;clientmax.draw LINE2\n&quot;;
+  print &quot;localclientmax.label localclientmax\n&quot;;
+  print &quot;localclientmax.draw LINE2\n&quot;;
+  print &quot;opers.label opers\n&quot;;
+  print &quot;opers.draw LINE2\n&quot;;
+  print &quot;localservers.label localservers\n&quot;;
+  print &quot;localservers.draw LINE2\n&quot;;
+  print &quot;unknownconns.label unknownconns\n&quot;;
+  print &quot;unknownconns.draw LINE2\n&quot;;
+  exit 0;
+}
+
+my %result;
+
+# We create a new PoCo-IRC object
+my $irc = POE::Component::IRC-&gt;spawn(
+  nick =&gt; $nickname,
+  ircname =&gt; $ircname,
+  server =&gt; $server,
+  port =&gt; $port,
+  raw =&gt; 0,
+  UseSSL =&gt; $usessl,
+  useipv6 =&gt; $useipv6,
+    ) or die &quot;Oh noooo! $!&quot;;
+
+POE::Session-&gt;create(
+  package_states =&gt; [
+    # debug messages:
+    # main =&gt; [ qw(_default _start irc_001 irc_376 irc_disconnected irc_public) ],
+    # These are the interesting ones:
+    # irc_251:  'localhost' 'There are 13 users and 0 services on 2 servers' [There are 13 users and 0 services on 2 servers]
+    # irc_254:  'localhost' '26 :channels formed' [26, channels formed]
+    # irc_255:  'localhost' 'I have 8 users, 0 services and 1 servers' [I have 8 users, 0 services and 1 servers]
+    # irc_265:  'localhost' '8 8 :Current local users: 8, Max: 8' [8, 8, Current local users: 8, Max: 8]
+    # irc_266:  'localhost' '13 14 :Current global users: 13, Max: 14' [13, 14, Current global users: 13, Max: 14]
+    main =&gt; [ qw(_start irc_001 irc_251 irc_252 irc_253 irc_254 irc_255 irc_265 irc_266 irc_372 irc_375 irc_376 irc_public irc_disconnected) ],
+  ],
+  heap =&gt; { irc =&gt; $irc },
+    );
+
+$poe_kernel-&gt;run();
+
+my $RPL_LUSER_CLIENT = 251;
+my $RPL_LUSERCHANNELS = 254;
+my $RPL_ENDOFMOTD = 376;
+
+sub _start {
+  my ($heap,$kernel,$sender) = @_[HEAP,KERNEL,SENDER];
+
+  # retrieve our component's object from the heap where we stashed it
+  my $irc = $heap-&gt;{irc};
+
+  $irc-&gt;yield( register =&gt; 'all' );
+  $irc-&gt;yield( connect =&gt; { } );
+  return;
+}
+
+sub irc_001 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  $irc-&gt;yield( quit =&gt; { });
+  return;
+}
+
+
+#irc_251:  'moo.us.p2p-network.net' 'There are 155 users and 3397 invisible on 16 servers' [There are 155 users and 3397 invisible on 16 servers]
+# luserclient
+sub irc_251 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  my $s = $_[ARG1];
+  # Do we have something like an UnrealIRCD?
+  if($s =~  /There are (\d+) users and (\d+) invisible on (\d+) servers/) {
+    $result{'clients'} = $1 + $2 - 1; # don't count this script
+    $result{'servers'} = $3;
+  }
+  # Or maybe some freendode hyperion stuff?
+  elsif($s =~  /There are (\d+) listed and (\d+) unlisted users on (\d+) servers/) {
+    $result{'clients'} = $1 + $2 - 1; # don't count this script
+    $result{'servers'} = $3;
+  }
+  # Or some recent ircnet ircd?
+  elsif($s =~  /There are (\d+) users and \d+ services on (\d+) servers/) {
+    $result{'clients'} = $1 - 1; # don't count this script
+    $result{'servers'} = $2;
+  }
+  # Anything else goes here
+  elsif($s =~  /There are (\d+) users and (\d+) invisible/) {
+    $result{'clients'} = $1 + $2 - 1; # don't count this script
+  }
+  # And here (if there are no invisible count)
+  elsif($s =~  /There are (\d+) users/) {
+    $result{'clients'} = $1 - 1; # don't count this script
+  }
+}
+
+#irc_252:  'moo.us.p2p-network.net' '18 :operator(s) online' [18, operator(s) online]
+# opers
+sub irc_252 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  my $s = $_[ARG1];
+  if($s =~  /^(\d+)/) {
+    $result{'opers'} = $1;
+  }
+}
+
+#irc_253:  'moo.us.p2p-network.net' '1 :unknown connection(s)' [1, unknown connection(s)]
+sub irc_253 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  my $s = $_[ARG1];
+  if($s =~  /^(\d+)/) {
+    $result{'unknownconns'} = $1;
+  }
+}
+
+#irc_254:  'moo.us.p2p-network.net' '1325 :channels formed' [1325, channels formed]
+# luserchannels
+sub irc_254 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  my $s = $_[ARG1];
+  if($s =~  /^(\d+)/) {
+    $result{'channels'} = $1;
+  }
+}
+
+#irc_255:  'moo.us.p2p-network.net' 'I have 348 clients and 1 servers' [I have 348 clients and 1 servers]
+# local clients/servers
+sub irc_255 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  my $s = $_[ARG1];
+  if($s =~  /I have (\d+) clients and (\d+) servers/) {
+    $result{'localclients'} = $1-1; # don't count this script
+    $result{'localservers'} = $2;
+  }
+  elsif($s =~  /I have (\d+) users, \d+ services and (\d+) servers/) {
+    $result{'localclients'} = $1-1; # don't count this script
+    $result{'localservers'} = $2;
+  }
+}
+
+#irc_265:  'moo.us.p2p-network.net' 'Current Local Users: 348  Max: 1900' [Current Local Users: 348  Max: 1900]
+sub irc_265 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  my $s = $_[ARG1];
+  if($s =~  /Current Local Users: (\d+),?\s+Max: (\d+)/i) {
+    $result{'localclients'} = $1-1; # don't count this script
+    $result{'localclientmax'} = $2;
+  }
+}
+
+#irc_266:  'moo.us.p2p-network.net' 'Current Global Users: 3552  Max: 8742' [Current Global Users: 3552  Max: 8742]
+sub irc_266 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  my $s = $_[ARG1];
+  if($s =~  /Current Global Users: (\d+),?\s+Max: (\d+)/i) {
+    $result{'clients'} = $1-1; # don't count this script
+    $result{'clientmax'} = $2;
+  }
+}
+
+# 372 motdline
+sub irc_372 {
+  return;
+}
+# 375 startofmotd
+sub irc_375 {
+  return;
+}
+# 376 endofmotd
+sub irc_376 {
+  my $sender = $_[SENDER];
+  my $irc = $sender-&gt;get_heap();
+  $irc-&gt;yield( quit =&gt; {} );
+}
+
+sub munin_print {
+  my $key = shift;
+  my $val = shift;
+  print &quot;${key}.value &quot;.($val || 'U').&quot;\n&quot;;
+}
+
+sub irc_disconnected {
+  for my $var (qw(clients channels servers localclients clientmax localclientmax localservers opers unknownconns)) {
+    munin_print($var, $result{$var});
+  }
+  exit 0;
+}
+
+sub irc_public {
+  my ($sender, $who, $where, $what) = @_[SENDER, ARG0 .. ARG2];
+  my $nick = ( split /!/, $who )[0];
+  my $channel = $where-&gt;[0];
+
+  if ( my ($rot13) = $what =~ /^rot13 (.+)/ ) {
+    $rot13 =~ tr[a-zA-Z][n-za-mN-ZA-M];
+    $irc-&gt;yield( privmsg =&gt; $channel =&gt; &quot;$nick: $rot13&quot; );
+  }
+  return;
+}
+
+# We registered for all events, this will produce some debug info.
+sub _default {
+  my ($event, $args) = @_[ARG0 .. $#_];
+  my @output = ( &quot;$event: &quot; );
+
+  for my $arg (@$args) {
+    if ( ref $arg eq 'ARRAY' ) {
+      push( @output, '[' . join(', ', @$arg ) . ']' );
+    }
+    else {
+      push ( @output, &quot;'$arg'&quot; );
+    }
+  }
+  print join ' ', @output, &quot;\n&quot;;
+  return 0;
+}
+</code></pre>
+<p>
+To configure, I created the file
+<code>/etc/munin/plugin-conf.d/irc.conf</code>:
+</p>
+<pre><code>[irc2]
+env.SERVER campaignwiki.org
+env.PORT 6697
+env.USESSL 1
+</code></pre>
+<p>
+The result:
+</p>
+<p>
+<img loading="lazy" src="2024-07-23-ngircd-and-munin-1.jpg" alt="A graph showing some ngIRCd data" />
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Administration">#Administration</a>
+<a class="tag" href="/search/?q=%23Munin">#Munin</a>
+<a class="tag" href="/search/?q=%23IRC">#IRC</a>
+<a class="tag" href="/search/?q=%23ngircd">#ngircd</a>
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-07-23-ngircd-and-munin"
+class="uri">https://alexschroeder.ch/view/2024-07-23-ngircd-and-munin</a></p>
+<hr />
+<h2 id="go-kamala">Go Kamala!</h2>
+<p>date: 2024-07-23, from: Robert Reich’s blog</p>
+<p>Friends,</p>
+<p><a href="https://robertreich.substack.com/p/go-kamala"
+class="uri">https://robertreich.substack.com/p/go-kamala</a></p>
+<hr />
+<h2 id="july-22-2024">July 22, 2024</h2>
+<p>date: 2024-07-23, from: Heather Cox Richardson blog</p>
+<p>Vice President Kamala Harris has continued to rack up endorsements
+and delegates since President Biden’s surprise announcement yesterday
+that he would not accept the 2024 Democratic presidential nomination. As
+of tonight, Harris has the support of at least 2,471 delegates, more
+than the 1,976 she will need to secure the nomination.</p>
+<p><a href="https://heathercoxrichardson.substack.com/p/july-22-2024"
+class="uri">https://heathercoxrichardson.substack.com/p/july-22-2024</a></p>
+<hr />
+<h2 id="flower-field-trip-to-volunteer-park">Flower field trip to
+Volunteer Park</h2>
+<p>date: 2024-07-23, from: Tracy Durnell Blog</p>
+<p>My friend and I are trying to get out of the house more often,
+exploring new destinations we don’t think will be too crowded. (COVID
+numbers are high so we both still masked too.) This weekend we headed
+into Seattle to the conservatory at Volunteer Park on Capitol Hill. I’ve
+always loved the San Francisco […]</p>
+<p><a
+href="https://tracydurnell.com/2024/07/22/flower-field-trip-to-volunteer-park/"
+class="uri">https://tracydurnell.com/2024/07/22/flower-field-trip-to-volunteer-park/</a></p>
+<hr />
+<h2 id="the-new-overcast">The New Overcast</h2>
+<p>date: 2024-07-23, updated: 2024-07-23, from: Daring Fireball</p>
+<p><a href="https://marco.org/2024/07/16/overcast-rewrite"
+class="uri">https://marco.org/2024/07/16/overcast-rewrite</a></p>
+<hr />
+<h2
+id="fbi-used-new-cellebrite-software-to-access-trump-shooters-samsung-phone">FBI
+Used New Cellebrite Software to Access Trump Shooter’s Samsung
+Phone</h2>
+<p>date: 2024-07-23, updated: 2024-07-23, from: Daring Fireball</p>
+<p><a
+href="https://www.bloomberg.com/news/articles/2024-07-18/fbi-used-new-cellebrite-software-to-access-trump-shooter-s-phone"
+class="uri">https://www.bloomberg.com/news/articles/2024-07-18/fbi-used-new-cellebrite-software-to-access-trump-shooter-s-phone</a></p>
+<hr />
+<h2 id="surely-microsoft-isnt-blaming-eu-for-its-problems">Surely
+Microsoft Isn’t Blaming EU for Its Problems?</h2>
+<p>date: 2024-07-22, from: Om Malik blog</p>
+<p>The CrowdStrike fiasco has once again focused the spotlight on
+Microsoft’s Achilles’ heel — security, or rather the lack there of. I
+have been writing about technology long enough to know that nothing
+about the Windows operating system surprises me. Over the weekend, The
+Wall Street Journal outlined a multitude of reasons why the “blue …</p>
+<p><a
+href="https://om.co/2024/07/22/surely-microsoft-isnt-blaming-eu-for-its-problems/"
+class="uri">https://om.co/2024/07/22/surely-microsoft-isnt-blaming-eu-for-its-problems/</a></p>
+<hr />
+<h2 id="thank-you-billionaires">Thank you billionaires</h2>
+<p>date: 2024-07-22, from: Dave Winer’s Scripting News</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/07/22/messageForBillionaires.png">
+</center>
+Or, less politely..
+</div>
+</p>
+<p><a
+href="http://scripting.com/2024/07/22/214539.html?title=thankYouBillionaires"
+class="uri">http://scripting.com/2024/07/22/214539.html?title=thankYouBillionaires</a></p>
+<hr />
+<h2
+id="an-explainer-and-organizational-toolkit-from-red-wine-blue-about-project">An
+explainer and organizational toolkit from Red Wine &amp; Blue about
+Project…</h2>
+<p>date: 2024-07-22, updated: 2024-07-22, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/07/0044989-an-explainer-and-organiza"
+class="uri">https://kottke.org/24/07/0044989-an-explainer-and-organiza</a></p>
+<hr />
+<h2 id="the-state-of-docker-on-popular-risc-v-platforms">The state of
+Docker on popular RISC-V platforms</h2>
+<p>date: 2024-07-22, from: Jeff Geerling blog</p>
+<p><span
+class="field field--name-title field--type-string field--label-hidden">The
+state of Docker on popular RISC-V platforms</span></p>
+<pre><code>        &lt;div class=&quot;clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;p&gt;I&#39;ve been testing a &lt;a href=&quot;https://github.com/geerlingguy/sbc-reviews/issues/47&quot;&gt;Milk-V Jupiter&lt;/a&gt; this week, and have tested a number of other RISC-V development boards over the past two years.&lt;/p&gt;</code></pre>
+<p>
+As with any new CPU architecture, software support and ease of adoption
+are extremely important if you want to reach a wider audience. I
+wouldn’t expect every developer and SBC hobbyist to be able to compile
+the Linux kernel, and the need to compile much of anything these days is
+getting rare. So having any instance where one <em>has</em> to know how
+to tweak a Makefile or pass in different flags to a compiler is a bit of
+a turn-off for platform adoption.
+</p>
+<p>
+So one thing I’ve followed closely is how easy it is for me to get my
+own software running on RISC-V boards. It’s one thing to run some
+vendor-provided demos. It’s another entirely to take my real-world
+applications and infrastructure apps, and get them to work without
+hassle.
+</p>
+<p>
+And to that end, Docker and Ansible, two tools I use extensively for
+dev/ops work, both run stably—though with plenty of caveats since RISC-V
+is still so new.
+</p>
+</div>
+<pre><code>  &lt;span class=&quot;field field--name-uid field--type-entity-reference field--label-hidden&quot;&gt;&lt;span&gt;Jeff Geerling&lt;/span&gt;&lt;/span&gt;</code></pre>
+<p><span
+class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-07-22T15:32:40-05:00" title="Monday, July 22, 2024 - 15:32" class="datetime">July
+22, 2024</time> </span></p>
+<p><a
+href="https://www.jeffgeerling.com/blog/2024/state-docker-on-popular-risc-v-platforms"
+class="uri">https://www.jeffgeerling.com/blog/2024/state-docker-on-popular-risc-v-platforms</a></p>
+<hr />
+<h2
+id="kamala-harris-and-her-views-on-the-climate-crisis.-harris-has-made">Kamala
+Harris and her views on the climate crisis. “Harris has made…</h2>
+<p>date: 2024-07-22, updated: 2024-07-22, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/07/0044988-kamala-harris-and-her-vie"
+class="uri">https://kottke.org/24/07/0044988-kamala-harris-and-her-vie</a></p>
+<hr />
+<h2
+id="news-happening-faster-than-man-can-generate-uninformed-opinions.-its-getting-harder">News
+Happening Faster Than Man Can Generate Uninformed Opinions. “It’s
+getting harder…</h2>
+<p>date: 2024-07-22, updated: 2024-07-22, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/07/0044987-news-happening-faster-tha"
+class="uri">https://kottke.org/24/07/0044987-news-happening-faster-tha</a></p>
+<hr />
+<h2 id="july-21-2024">July 21, 2024</h2>
+<p>date: 2024-07-22, from: Heather Cox Richardson blog</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/july-21-2024-655"
+class="uri">https://heathercoxrichardson.substack.com/p/july-21-2024-655</a></p>
+<hr />
+<h2 id="go-features-by-version">Go features by version</h2>
+<p>date: 2024-07-22, from: Anton Zhiyanov blog</p>
+<p>Which major features appeared in which versions of Go.</p>
+<p><a href="https://antonz.org/which-go/"
+class="uri">https://antonz.org/which-go/</a></p>
+<hr />
+<h2 id="im-from-queens-too">I’m from Queens too</h2>
+<p>date: 2024-07-22, from: Dave Winer’s Scripting News</p>
+<p>
+I grew up in the same part of Queens as Trump, about ten years after he
+did. His family was in Jamaica, mine in Flushing. Here’s a
+<a href="https://www.google.com/maps/dir/2931+170th+Street,+Queens,+NY/85-15+Wareham+Pl,+Jamaica,+NY+11432/@40.74413,-73.7982607,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89c28a8078136589:0xcdf1c8651455269a!2m2!1d-73.7948958!2d40.7696471!1m5!1m1!1s0x89c2611ad4d2c6a5:0xfe60c1b9262c3e04!2m2!1d-73.7858048!2d40.7170409!3e0?entry=ttu">map</a>
+that shows you where the two houses are. 4.0 miles apart if you take
+<a href="https://en.wikipedia.org/wiki/Utopia_Parkway">Utopia
+Parkway</a>. A great name for a street, but it’s not a parkway and it’s
+nice but definitely not a utopia.
+</p>
+<p>
+People who aren’t from huge cities like New York don’t know that Trump
+what our losers look like. They probably have their own loser types. I
+think that’s where 99% of the confusion is. They really don’t believe
+he’s so bad. Don’t hold that against them, that’s nowhere near as bad as
+knowing what he is and being okay with that.
+</p>
+<p>
+He’s a mean bully type. The name-calling is a big clue. Distracts from
+<i>his</i> weaknesses, which are very obvious. I don’t believe in
+<a href="https://en.wikipedia.org/wiki/Body_shaming">body shaming</a>,
+because I care about other people’s feelings. If I criticize his
+appearance it might reflect poorly on nice people who have his body type
+who may not be mean bully losers like Trump.
+</p>
+<p>
+He’s also a really good comedian if you don’t think he wants to have the
+power to kill millions of people and control many more people. Last time
+he was our president just through incompetence, without trying, he was
+responsible for the deaths of hundreds of thousands of Americans in the
+Covid disaster. He also wanted the army shoot protestors, that’s the
+mean part of our former president. Luckily the people who worked for him
+told him to fuck off. They saved us from going into a very deep hole
+that would have been hard to escape from.
+</p>
+<p>
+I watched the coverage of the aftermath of the assassination attempt,
+and listened to the Americans they interviewed, not the actors they put
+behind him on stage, to make him look like a badass I guess, these were
+just normal people who mostly like Trump, but seem pretty likeable
+themselves. The one thing you heard over and over was how If you don’t
+like a candidate vote against them don’t shoot them. That’s American and
+it’s not fascist at all. I don’t think they know that he wants to make
+big changes in how our politics work. People think if he’s bad they can
+just vote him out next time. He tells them this will be the last
+election if he wins, he actually says that, but somehow it doesn’t seem
+to register.
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/07/22/massDeportationNow.png">
+</center>
+Do Trump supporters understand what they support?
+</div>
+</p>
+<p>
+Of course the journalists are distorting who Trump supporters are. Trump
+is deplorable if you take him at his word. Some of Trump’s followers are
+deplorable too, like the ones who rioted at our Capitol and January 6
+and the people who are lined up to work in his next administration if he
+wins. They are awful people who want to control all of us. They’re
+already doing it via the Supreme Court. It’s going to get a lot worse if
+we go the wrong way. We shouldn’t accept that we’re horribly divided.
+The powerful media people want us to be divided, I don’t know why and I
+don’t care, I just know they do, based on their actions.
+</p>
+<p>
+Anyway I know we’re at a high moment, we’re excited, and I’m going to
+enjoy the feeling. We all seem to be pulling the same way, at least on
+“our side” but I hold out hope that being an American still means
+something, that we can be friends, and fellow countrymen, and work
+together. I think that’s still our greatest challange and our greatest
+opportunity. Yeah I am woke, that means I care about all of us. I think
+most of us do no matter who you vote for.
+</p>
+<p><a
+href="http://scripting.com/2024/07/22/165652.html?title=imFromQueensToo"
+class="uri">http://scripting.com/2024/07/22/165652.html?title=imFromQueensToo</a></p>
 <hr />
 <p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
 Scripting News</strong> (date: 2024-07-22, from: Dave Winer’s Scripting
@@ -419,23 +1320,13 @@ class="uri">https://www.schneier.com/blog/archives/2024/07/snake-mimics-a-spider
 <hr />
 <h2 id="what-we-must-do-now">What we must do now</h2>
 <p>date: 2024-07-22, from: Robert Reich’s blog</p>
-<p>Friends, Trump swiftly reacted to President Joe Biden’s withdrawal
-from the 2024 presidential campaign with typically nasty vitriol. Biden
-was “not fit to run,” “he wasn’t capable of being President,” “the Worst
-President, by far, in the History of our Nation,” who “just quit the
-race in COMPLETE DISGRACE!”</p>
+<p>Friends,</p>
 <p><a href="https://robertreich.substack.com/p/what-dems-must-do-now"
 class="uri">https://robertreich.substack.com/p/what-dems-must-do-now</a></p>
 <hr />
-<h2 id="july-21-2024">July 21, 2024</h2>
+<h2 id="july-21-2024-1">July 21, 2024</h2>
 <p>date: 2024-07-22, from: Heather Cox Richardson blog</p>
-<p>“My Fellow Americans, “Over the past three and a half years, we have
-made great progress as a Nation. “Today, America has the strongest
-economy in the world. We’ve made historic investments in rebuilding our
-Nation, in lowering prescription drug costs for seniors, and in
-expanding affordable health care to a record number of Americans. We’ve
-provided critically needed care to a million veterans exposed to toxic
-substances. Passed the first gun safety law in 30 years.</p>
+<p>“My Fellow Americans,</p>
 <p><a href="https://heathercoxrichardson.substack.com/p/july-21-2024"
 class="uri">https://heathercoxrichardson.substack.com/p/july-21-2024</a></p>
 <hr />
@@ -453,13 +1344,7 @@ class="uri">https://tracydurnell.com/2024/07/21/straight-no-chaser-gerry-mulliga
 <hr />
 <h2 id="thank-you-joe.">Thank you, Joe.</h2>
 <p>date: 2024-07-22, from: Robert Reich’s blog</p>
-<p>Friends, Let me add my words of gratitude to Joe Biden for doing
-something Donald Trump is incapable of doing: putting his country over
-ego, ambition, and pride. Biden bowed out with grace and dignity. It
-would have been better had he done so three weeks ago, after the debate
-revealed him to be much frailer and weaker than most of America had
-assumed. Or better yet, had he not sought a second term to begin
-with.</p>
+<p>Friends,</p>
 <p><a href="https://robertreich.substack.com/p/thank-you-joe"
 class="uri">https://robertreich.substack.com/p/thank-you-joe</a></p>
 <hr />
@@ -542,131 +1427,6 @@ Drops Out of Reelection Bid, Fully Endorses Kamala Harris</h2>
 <p>date: 2024-07-21, updated: 2024-07-21, from: Daring Fireball</p>
 <p><a href="https://x.com/JoeBiden/status/1815080881981190320"
 class="uri">https://x.com/JoeBiden/status/1815080881981190320</a></p>
-<hr />
-<h2 id="what-was-hard-about-the-oddµ-architecture">2024-07-21 What was
-hard about the Oddµ architecture?</h2>
-<p>date: 2024-07-21, from: Alex Schroeder’s Blog</p>
-<h1 id="2024-07-21-what-was-hard-about-the-oddµ-architecture">
-2024-07-21 What was hard about the Oddµ architecture?
-</h1>
-<p>
-If you know Go, I think you’ll find the architecture of Oddmu to be very
-traditional: There is a list of actions it knows how to handle when it
-serves a site on the web and a list of commands it understands when
-called from the shell. Everything involving HTML or the RSS feed uses a
-Go template.
-</p>
-<p>
-There were two things that were tricky, in hindsight. I didn’t know
-enough Go to know how best to do it and so it took me a long time to
-figure them out.
-</p>
-<p>
-The first was what data to keep in memory. I didn’t want search to
-involve a database so I experimented a lot with different ways of
-indexing the content. Trigrams? Full-text? And what about scoring? In
-the end, I dropped all of that. The only thing I keep in memory is a map
-of page names and page titles as well as a map of hashtags and pages. I
-find that searching titles and hashtags is what I do most often. For
-everything else, I search the files. This, of course, is much slower but
-for a site of ten thousand pages it’s still fast enough. So figuring out
-how to do search was hard. Once I had this figured out, I discovered
-that keeping maps in memory when there are multiple Go routines being
-used by the web server means that I need locks. Both of my maps are in
-fact data structures that each contain a map and a lock. This was new to
-me and it took me a long time to realize that having the lock was
-important. For a while, I didn’t have those locks. 😅
-</p>
-<p>
-The second thing that took me a long time to get right is that I wanted
-pages to be served from Oddµ when it runs as a web server and I wanted
-to be able to edit files locally and upload them (using rsync, for
-example) while it was still running on the server. I didn’t know about
-watching the filesystem for changes and had to learn how to do this: a
-watcher per directory, spawning new watchers when directories are
-created, and updating those maps I keep in memory as files are added,
-deleted or edited.
-</p>
-<p>
-Watching the files introduced another complication, however: What if a
-user edited a page via the web? I already had code in place that would
-update my maps. Now the file system watcher would report the same file
-being written to, resulting in two updates. And what about a change to a
-file that results in multiple events: create a file, write something to
-the file, write some more to the file. Three events resulting in three
-updates? The code is therefore complicated.
-</p>
-<p>
-If if Oddµ knows that a file is going to change ahead of time, like when
-a user on the web saves an edit, the file is added to a map of ignored
-files for a second. When the file system watcher sees those changes, no
-updates are done because it knows that the edit handler already does it.
-</p>
-<p>
-If Oddµ sees a file change because of somebody editing files directly, a
-one second timer is started. If another event for the same file arrives,
-the timer is reset to one second. Only when a second has elapsed without
-changes does the watcher do the updates to the internal data structures.
-That is to say, changes made to the file system regarding page title
-changes or hash tag changes take an effect on the web with a one second
-delay.
-</p>
-<p>
-So now, with all that in place, think of all the go routines running in
-parallel. Every one second timer is a go routine. Every go routine
-accessing a map like the map if files to ignore means that this map
-needs to be a data structure containing a map and a lock.
-</p>
-<p>
-When I look at that part of the code, I still get dizzy. 😵‍💫
-</p>
-<p>
-<a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a>
-<a class="tag" href="/search/?q=%23Programming">#Programming</a>
-</p>
-<p>
-<strong>2024-07-21</strong>.
-<a class="account" href="https://merveilles.town/@bouncepaw" title="@bouncepaw@merveilles.town"><span
-class="citation" data-cites="bouncepaw">@bouncepaw</span></a> asked
-about usability issues, specially in the context of using Oddµ for
-picture galleries. In my case, I think the hardest part is finding
-particular pictures. Consider <a href="2020-blumen/index">the page of
-flowers in 2020</a>. I know that there’s a sanseveria in bloom on that
-page, for example. But how can I find it? I can find the page if I
-search for “bogenhanf #pictures”, and then I can search for the same
-word on the page, and then I have to wait for a bit as the browser
-lazy-loads pictures.
-</p>
-<p>
-Perhaps, if I could get into the habit of putting the image description
-into the Markdown alt text, I could index all the images and their alt
-text, providing direct access to the images. I guess I would also have
-to add special code to the Markdown renderer that made the alt text
-visible for regular visitors (as title attribute or as regular
-paragraphs). That’d be interesting.
-</p>
-<p>
-<strong>Later</strong>. I have implemented something useful, I hope. If
-one of the search terms (excluding hashtags and predicates) matches an
-alt-text of an image, that image is included in the result.
-</p>
-<p>
-Of course, almost none of my galleries use the alt-text, so right now
-there aren’t many pages that will show results for a query like
-“bogenhanf #pictures”.
-</p>
-<p>
-My expectations regarding alt texts and title attributes for images have
-changed significantly as I’ve spent time on fedi, so I’m really not sure
-what to do about Markdown in this respect. Right now I’m in the habit of
-adding neither alt-text nor title attribute, trying to provide enough
-text in the paragraphs above or below. With this new search option, that
-might have to change, too. As a sighted person, I sort of expect the
-title attribute to be the same as the alt text.
-</p>
-<p><a
-href="https://alexschroeder.ch/view/2024-07-21-what-is-hard-about-oddmu"
-class="uri">https://alexschroeder.ch/view/2024-07-21-what-is-hard-about-oddmu</a></p>
 <hr />
 <h2 id="nyt-just-stop-podcast">NYT just stop podcast</h2>
 <p>date: 2024-07-21, from: Dave Winer’s Scripting News</p>

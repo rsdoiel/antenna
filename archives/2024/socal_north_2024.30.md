@@ -1,11 +1,106 @@
 ---
 title: socal north 2024.30
-updated: 2024-07-22 08:22:18
+updated: 2024-07-23 08:47:07
 ---
 
 # socal north 2024.30
 
-(date: 2024-07-22 08:22:18)
+(date: 2024-07-23 08:47:07)
+
+---
+
+## As Harris launches her presidential run, the veepstakes is on. Here's who to watch
+
+date: 2024-07-23, updated: 2024-07-23, from: The LAist
+
+With the announcement that President Biden would no longer run for the Democratic nomination, and his endorsement of Vice President Harris, the focus is on who Harris might choose as her running mate. 
+
+<https://laist.com/news/politics/as-harris-launches-her-presidential-run-the-veepstakes-is-on-heres-who-to-watch>
+
+---
+
+## UC Regents committee evaluates implications of AI in health care
+
+date: 2024-07-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Regents Public Engagement and Development Committee discussed the use of artificial intelligence in health care Wednesday.
+Three leading data scientists answered questions from the UC Board of Regents about how the UC Health system uses artificial intelligence, the implications of AI usage on underrepresented communities and oversight for artificial intelligence usage. 
+
+<https://dailybruin.com/2024/07/22/uc-regents-committee-evaluates-implications-of-ai-in-health-care/>
+
+---
+
+## US National Team ends perfect streak in Women’s Softball World Cup loss to Japan
+
+date: 2024-07-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+It sometimes takes perfection to win a championship.
+Going into the final game of the WBSC World Cup Finals, the United States had tossed 28 consecutive scoreless innings. 
+
+<https://dailybruin.com/2024/07/22/us-national-team-ends-perfect-streak-in-womens-softball-world-cup-loss-to-japan/>
+
+---
+
+## UC Regents discusses UC Press, math requirements, recovery programs at meeting
+
+date: 2024-07-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Board of Regents Academic and Student Affairs Committee discussed the UC Press, admission requirements and recovery programs at a meeting Wednesday. 
+The committees met at UC San Francisco as part of the UC Regents&#8217; July meeting. 
+
+<https://dailybruin.com/2024/07/22/uc-regents-discusses-uc-press-math-requirements-recovery-programs-at-meeting/>
+
+---
+
+## What is a delegate? Here’s what happens now that Kamala Harris is running for president
+
+date: 2024-07-22, updated: 2024-07-23, from: The LAist
+
+As Vice President Kamala Harris enters the spotlight, California 496 delegates have significant — and largely unprecedented — power over what happens next. On Monday, night the California delegation put their full support behind their fellow Californian. 
+
+<https://laist.com/news/politics/what-is-a-delegate-heres-what-happens-now-that-kamala-harris-is-running-for-president>
+
+---
+
+## Big Ten Preview: Ohio State
+
+date: 2024-07-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA is just weeks away from joining the Big Ten. After 96 years and 123 national championships in the Pac-12, the Bruins are at the forefront of the Big Ten&#8217;s West Coast expansion. 
+
+<https://dailybruin.com/2024/07/22/big-ten-preview-ohio-state/>
+
+---
+
+## Single-family housing landlord agrees to pay California cities $20M over unpermitted work claims
+
+date: 2024-07-22, updated: 2024-07-22, from: The LAist
+
+Invitation Homes buys, renovates and rents out suburban houses. A lawsuit claims many SoCal renovations were not permitted. The company settled but maintains there was no wrongdoing. 
+
+<https://laist.com/news/housing-homelessness/invitation-homes-settlement-20-million-california-los-angeles-southern-lawsuit-unpermitted-renovations>
+
+---
+
+## **Traffic Advisory** Upcoming Lane Closures Part of the Traffic and Pedestrian Safety Improvement Project
+
+date: 2024-07-22, from: City of Santa Clarita
+
+<p>Median Modifications to Begin July 29 Beginning Monday, July 29, crews will start the construction of traffic circulation modifications on two intersections, part of the federally-funded, Traffic and Pedestrian Circulation and Safety Improvements Project. The first location is Golden Valley Road at Valley Center Drive, where there will be median modifications, paving, grinding and overlay [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/07/22/traffic-advisory-upcoming-lane-closures-part-of-the-traffic-and-pedestrian-safety-improvement-project/">**Traffic Advisory** Upcoming Lane Closures Part of the Traffic and Pedestrian Safety Improvement Project</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/07/22/traffic-advisory-upcoming-lane-closures-part-of-the-traffic-and-pedestrian-safety-improvement-project/>
+
+---
+
+## Democrats run the California Capitol. When the party backs a bill, lawmakers pay attention
+
+date: 2024-07-22, updated: 2024-07-22, from: The LAist
+
+The California Democratic Party’s primary function is electing candidates. Lately, it’s become a lobbying powerhouse, taking positions on dozens of bills. The party usually gets its way. 
+
+<https://laist.com/news/politics/democrats-run-the-california-capitol-when-the-party-backs-a-bill-lawmakers-pay-attention>
 
 ---
 
@@ -66,7 +161,7 @@ date: 2024-07-21, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated July 21 at 11:17 p.m.</em>
 President Joe Biden announced Sunday that he would not pursue a reelection bid, endorsing Vice President Kamala Harris for the Democratic presidential nomination.&#160;
-The move to drop out of the race comes after more than 30 Democratic lawmakers publicly called upon Biden to drop out of the race. 
+The choice to remove himself from the ballot comes after more than 30 Democratic lawmakers publicly called upon Biden to drop out of the race. 
 
 <https://dailybruin.com/2024/07/21/president-joe-biden-ends-his-reelection-campaign-endorses-kamala-harris/>
 
