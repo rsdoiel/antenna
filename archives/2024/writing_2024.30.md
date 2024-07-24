@@ -1,11 +1,66 @@
 ---
 title: writing 2024.30
-updated: 2024-07-24 07:36:30
+updated: 2024-07-24 16:18:07
 ---
 
 # writing 2024.30
 
-(date: 2024-07-24 07:36:30)
+(date: 2024-07-24 16:18:07)
+
+---
+
+## Your Elevator Pitch Just Got Shorter: Writing Super High Concept Stories
+
+date: 2024-07-24, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/your-elevator-pitch-just-got-shorter" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Your%20Elevator%20Pitch%20Just%20Got%20Shorter_featured.jpg" alt="Your Elevator Pitch Just Got Shorter" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>The term “elevator pitch” has been popular in Hollywood for decades.&nbsp;</p> 
+
+<https://blog.finaldraft.com/your-elevator-pitch-just-got-shorter>
+
+---
+
+## 🤐🕵️ Silent Evidence
+
+date: 2024-07-24, from: Interesting, a blog on writing
+
+Avoiding incorrect assumptions based on limited evidence. 
+
+<https://inneresting.substack.com/p/silent-evidence>
+
+---
+
+## 2024 Clarke Award Winner
+
+date: 2024-07-24, from: Locus Magazine
+
+<p>The winner for the annual Arthur C. Clarke Award, celebrating the best science fiction novel published in the UK, has been announced:</p>
+<div class="nobullets">
+<p><strong></strong></p>
+<ul>
+<li>WINNER: <strong>In Ascension</strong>, Martin MacInnes (Atlantic)</li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><strong>Chain-Gang All-Stars</strong>, Nana Kwame Adjei-Brenyah (Harvill Secker)</li>
+<li style="font-weight: 400;"><strong>The Ten Percent Thief</strong>, Lavanya Lakshminarayan (Solaris)</li>
+<li style="font-weight: 400;"><strong>The Mountain in the Sea</strong>, Ray Nayler (Weidenfeld &#38; Nicholson)</li>
+<li style="font-weight: 400;"><strong>Some Desperate Glory</strong>, Emily Tesh (Orbit)</li>
+<li style="font-weight: 400;"><strong>Corey Fah Does Social Mobility</strong>, Isabel </li></ul></div> <a href="https://locusmag.com/2024/07/2024-clarke-award-winner/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/07/2024-clarke-award-winner/>
+
+---
+
+## Wole Talabi Reviews Ghostroots by ’Pemi Aguda
+
+date: 2024-07-24, from: Locus Magazine
+
+<p><strong>Ghostroots</strong>, ’Pemi Aguda (W.W. Norton &#38; Company 978-1-324-06585-2, $26.99, 224pp, hc) May 2024.</p>
+<p><strong>Ghostroots</strong>, ’Pemi Aguda’s spectacular de­but collection, is an instant classic. These 12 stories feature hauntings, reincarna­tions, invisible markets, dancing masquerades, shapeshifting houses, miracles, and magical transformations. Even the stories that aren’t overtly speculative possess a speculative, surreal sensibil­ity. But regardless of the degree of imaginative calisthenics employed, the roots of every narrative in this collection  <a href="https://locusmag.com/2024/07/wole-talabi-reviews-ghostroots-by-pemi-aguda/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/wole-talabi-reviews-ghostroots-by-pemi-aguda/>
 
 ---
 

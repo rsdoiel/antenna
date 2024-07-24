@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.30
-updated: 2024-07-24 07:36:33
+updated: 2024-07-24 16:18:09
 ---
 
 # retro computing 2024.30
 
-(date: 2024-07-24 07:36:33)
+(date: 2024-07-24 16:18:09)
+
+---
+
+## NVIDIA Released Driver for Upcoming NVIDIA 560 GPU for Linux
+
+date: 2024-07-24, from: Linux Magazine
+
+<p>Not only has NVIDIA released the driver for its upcoming CPU series, it's the first release that defaults to using open-source GPU kernel modules.</p> 
+
+<http://www.linux-magazine.com/Online/News/NVIDIA-Released-Driver-for-Upcoming-NVIDIA-560-GPU-for-Linux>
 
 ---
 

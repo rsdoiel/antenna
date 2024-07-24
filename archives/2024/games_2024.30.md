@@ -1,11 +1,111 @@
 ---
 title: games 2024.30
-updated: 2024-07-24 07:36:30
+updated: 2024-07-24 16:18:07
 ---
 
 # games 2024.30
 
-(date: 2024-07-24 07:36:30)
+(date: 2024-07-24 16:18:07)
+
+---
+
+## New PS5 beta update makes roommate-friendly changes to Remote Play, audio
+
+date: 2024-07-24, updated: 2024-07-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24205485/ps5-beta-update-remote-play-audio>
+
+---
+
+## More game studios are changing the industry by unionizing
+
+date: 2024-07-24, updated: 2024-07-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gaming/23538801/video-game-studio-union-microsoft-activision-blizzard>
+
+---
+
+## Take home the 8BitDo Famicom mechanical keyboard for its lowest price ever
+
+date: 2024-07-24, updated: 2024-07-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24205425/8bitdos-famicom-keyboard-40-percent-off-sale>
+
+---
+
+## World of Warcraft’s new character-select screen made me emotional
+
+date: 2024-07-24, updated: 2024-07-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24205283/world-of-warcraft-pre-patch-11-0-warband-character-select>
+
+---
+
+## Monty Python and the Holy Grail becomes the latest addition to Magic: The Gathering
+
+date: 2024-07-24, updated: 2024-07-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24205368/magic-the-gathering-secret-lair-monty-python-holy-grail>
+
+---
+
+## Nintendo summer sale has big discounts on NES controllers, Final Fantasy, and Resident Evil
+
+date: 2024-07-24, updated: 2024-07-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24205225/nintendo-switch-summer-sale-square-enix-capcom-wb-games-nes>
+
+---
+
+## Co-op makes Slay the Spire: The Board Game an instant classic
+
+date: 2024-07-24, updated: 2024-07-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/tabletop-games/2024/7/24/24204495/slay-the-spire-the-board-game-cooperative-overboard>
+
+---
+
+## Warframe 99 lets you fight a ’90s boy band in space and I don’t know what else you want
+
+date: 2024-07-24, updated: 2024-07-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24205315/warframe-99-digital-extremes-visual-style-lore-design-art>
+
+---
+
+## Brandon Sanderson’s Stormlight RPG adds clever new dice to its more traditional d20-based system
+
+date: 2024-07-24, updated: 2024-07-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/tabletop-games/24204718/brandon-sanderson-stormlight-rpg-beta-preview>
+
+---
+
+## Ghostbusters: Frozen Empire botched a beautiful queer storyline
+
+date: 2024-07-24, updated: 2024-07-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24204715/new-netflix-ghostbusters-frozen-empire-queer-relationship-phoebe>
 
 ---
 
@@ -226,16 +326,6 @@ date: 2024-07-22, updated: 2024-07-22, from: Polygon Website
  
 
 <https://www.polygon.com/24201533/evo-announcements-reveals-trailers-2024>
-
----
-
-## More game studios are changing the industry by unionizing
-
-date: 2024-07-22, updated: 2024-07-22, from: Polygon Website
-
- 
-
-<https://www.polygon.com/gaming/23538801/video-game-studio-union-microsoft-activision-blizzard>
 
 ---
 

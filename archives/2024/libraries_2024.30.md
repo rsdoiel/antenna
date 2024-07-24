@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.30
-updated: 2024-07-24 07:36:31
+updated: 2024-07-24 16:18:08
 ---
 
 # libraries 2024.30
 
-(date: 2024-07-24 07:36:31)
+(date: 2024-07-24 16:18:08)
 
 ---
 
@@ -58,7 +58,7 @@ date: 2024-07-23, from: Scholarly Kitchen
 
 date: 2024-07-22, from: Association of Research Libraries News
 
-<p>Last Updated on July 23, 2024, 11:00 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 23 &#124; Wednesday, July 24 &#124; Thursday,...</p>
+<p>Last Updated on July 24, 2024, 3:13 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 23 &#124; Wednesday, July 24 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-22-25/">Day in Review (July 22–25)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

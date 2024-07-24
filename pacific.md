@@ -1,11 +1,33 @@
 ---
 title: pacific 2024.30
-updated: 2024-07-24 07:36:26
+updated: 2024-07-24 16:18:03
 ---
 
 # pacific 2024.30
 
-(date: 2024-07-24 07:36:26)
+(date: 2024-07-24 16:18:03)
+
+---
+
+## Q&A: Expert on the world’s first academic ethnomathematics program
+
+date: 2024-07-24, from: University of Hawaiʻi News
+
+<p>Linda Furuto, a professor at <abbr>UH</abbr> Mānoa, started teaching ethnomathematics at <abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> in 2007.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/24/ethnomathematics-q-and-a/"><abbr>Q</abbr>&<abbr>A</abbr>: Expert on the world’s first academic ethnomathematics program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/24/ethnomathematics-q-and-a/>
+
+---
+
+## Image of the Week: Tree climbing
+
+date: 2024-07-24, from: University of Hawaiʻi News
+
+<p>This week's image is from the Lyon Arboretum.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/24/image-of-the-week-tree-climbing/">Image of the Week: Tree climbing</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/24/image-of-the-week-tree-climbing/>
 
 ---
 

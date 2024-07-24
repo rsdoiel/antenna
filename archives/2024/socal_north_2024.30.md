@@ -1,11 +1,43 @@
 ---
 title: socal north 2024.30
-updated: 2024-07-24 07:36:25
+updated: 2024-07-24 16:18:02
 ---
 
 # socal north 2024.30
 
-(date: 2024-07-24 07:36:25)
+(date: 2024-07-24 16:18:02)
+
+---
+
+## Where are the kids? Preschools in LA County struggle with enrollment post-pandemic
+
+date: 2024-07-24, updated: 2024-07-24, from: The LAist
+
+Private centers and state-funded preschools in L.A. County have reported nearly 28,000 empty slots. 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/la-county-kids-preschools-struggle-with-enrollment-post-pandemic>
+
+---
+
+## UCLA alumni fuse internet, sublime in Fellows of Contemporary Art summer exhibit
+
+date: 2024-07-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA alumni are proving that even in the digital age, art can be sublime.
+At Los Angeles&#8217; Fellows of Contemporary Art, the summer exhibition &#8220;Hyperobject: Art in the Age of YOLO*&#8221; is featuring the work of seven artists born between 1991 and 2003 through Aug. 
+
+<https://dailybruin.com/2024/07/24/ucla-alumni-fuse-internet-sublime-in-fellows-of-contemporary-art-summer-exhibit/>
+
+---
+
+## UC regents committee meets to discuss funding, alumni engagement
+
+date: 2024-07-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Regents Public Engagement and Development Committee discussed government funding and alumni advocacy at their meeting Wednesday. 
+During the meeting, the committee &#8211; which discusses fundraising and advocacy for the UC towards elected officials &#8211; announced funding received from Governor Gavin Newsom&#8217;s annual budget and heard presentations about funding for Black student centers. 
+
+<https://dailybruin.com/2024/07/24/uc-regents-committee-meets-to-discuss-funding-alumni-engagement/>
 
 ---
 

@@ -1,11 +1,311 @@
 ---
 title: tech likely 2024.30
-updated: 2024-07-24 07:36:28
+updated: 2024-07-24 16:18:05
 ---
 
 # tech likely 2024.30
 
-(date: 2024-07-24 07:36:28)
+(date: 2024-07-24 16:18:05)
+
+---
+
+## The UNIX Pipe Card Game
+
+date: 2024-07-24, from: Tilde.news
+
+<p><a href="https://tilde.news/s/gzcggn/unix_pipe_card_game">Comments</a></p> 
+
+<https://punkx.org/unix-pipe-game/>
+
+---
+
+##  Simple Advice for Personal Finance 
+
+date: 2024-07-24, updated: 2024-07-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/simple-advice-for-personal-finance-1>
+
+---
+
+## LIVE: NASA is with you from Oshkosh
+
+date: 2024-07-24, from: NASA breaking news
+
+Welcome to NASA Aeronautics&#8217; live update page with news about NASA events and other festivities taking place throughout the week at EAA AirVenture Oshkosh 2024, which we simply call Oshkosh. It Takes All Jobs Wednesday, July 24 at 5:30 p.m. EDT Another panel today at Oshkosh titled “Unique Careers at NASA” expanded that career-advice subject [&#8230;] 
+
+<https://www.nasa.gov/aeronautics/live-nasa-is-with-you-from-oshkosh/>
+
+---
+
+## UPDATE: NASA, Boeing to Stream Flight Test Mission Briefing on NASA+
+
+date: 2024-07-24, from: NASA breaking news
+
+NASA and Boeing will host a news conference with mission leadership at 11:30 a.m. EDT Thursday, July 25, to provide the latest status of the agency’s Boeing Crew Flight Test aboard the International Space Station. NASA previously planned an audio-only media teleconference to host the discussion. The agency will provide live coverage on NASA+, NASA [&#8230;] 
+
+<https://www.nasa.gov/news-release/update-nasa-boeing-to-stream-flight-test-mission-briefing-on-nasa/>
+
+---
+
+##  &#8220;In supposedly affluent Western nations, the dire state or absence of public... 
+
+date: 2024-07-24, updated: 2024-07-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045004-in-supposedly-affluent-we>
+
+---
+
+##  A study of the world&#8217;s most, and least, walkable cities (and those... 
+
+date: 2024-07-24, updated: 2024-07-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045006-a-study-of-the-worlds>
+
+---
+
+## Why the "Open Convention" proposal only appeals to Op-Ed columnists.
+
+date: 2024-07-24, from: Dave Karpf's blog
+
+Political campaigns are supposed to tell a coherent story. Nominee-by-acclamation is Good, Actually. 
+
+<https://davekarpf.substack.com/p/why-the-open-convention-proposal>
+
+---
+
+## Steve Jobs: Objects of Our Life
+
+date: 2024-07-24, from: Michael Tsai
+
+Jony Ive (Hacker News): Steve rarely attended design conferences. This was 1983, before the launch of the Mac, and still relatively early days of Apple. I find it breathtaking how profound his understanding was of the dramatic changes that were about to happen as the computer became broadly accessible. Of course, beyond just being prophetic, [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/24/steve-jobs-objects-of-our-life/>
+
+---
+
+## Safari Profiles and Extension Permissions Madness
+
+date: 2024-07-24, from: Michael Tsai
+
+Jeff Johnson: I&#8217;ve discovered a bug that unexpectedly causes Safari extensions in a profile to lose access to websites. I&#8217;ve reproduced the bug in Safari 17.5 on macOS 14.5 and in the Safari 18 beta on the macOS 15 beta. I haven&#8217;t yet been able to reproduce on iOS, but correspondence with a customer&#8212;the origin [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/24/safari-profiles-and-extension-permissions-madness/>
+
+---
+
+## SwiftUI at WWDC24
+
+date: 2024-07-24, from: Michael Tsai
+
+What&#8217;s new in SwiftUI: Learn how you can use SwiftUI to build great apps for any Apple platform. Explore a fresh new look and feel for tabs and documents on iPadOS. Improve your window management with new windowing APIs, and gain more control over immersive spaces and volumes in your visionOS apps. We&#8217;ll also take [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/24/swiftui-at-wwdc24/>
+
+---
+
+## The Future is Bright: Johnson Space Center Interns Shine Throughout Summer Term
+
+date: 2024-07-24, from: NASA breaking news
+
+More than 100 interns supported operations at NASA’s Johnson Space Center in Houston this summer, each making an important impact on the agency’s mission success. Get to know seven stellar interns nominated by their mentors for their hard work and outstanding contributions. Stella Alcorn Assignment: Engineering Directorate, Guidance, Navigation, and Control Autonomous Flight Systems Branch, [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/the-future-is-bright-johnson-space-center-interns-shine-throughout-summer-term/>
+
+---
+
+## The Marshall Star for July 24, 2024
+
+date: 2024-07-24, from: NASA breaking news
+
+25 Years On, Chandra Highlights Legacy of NASA Engineering Ingenuity By Rick Smith “The art of aerospace engineering is a matter of seeing around corners,” said NASA thermal analyst Jodi Turk. In the case of NASA’s&#160;Chandra X-ray Observatory, marking its 25th anniversary in space this year, some of those corners proved to be as far [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-24-2024/>
+
+---
+
+##  Some good climate news: the pace of decarbonization in the US is... 
+
+date: 2024-07-24, updated: 2024-07-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045012-some-good-climate-news-th>
+
+---
+
+## You can contribute to KDE with non-C++ code
+
+date: 2024-07-24, from: OS News
+
+Not everything made by KDE uses C++. This is probably obvious to some people, but it’s worth mentioning nevertheless. And I don’t mean this as just “well duh, KDE uses QtQuick which is written with C++ and QML”. I also don’t mean this as “well duh, Qt has a lot of bindings to other languages”. I mean explicitly “KDE has tools written primarily in certain languages and specialized formats”. ↫ Thiago Sueto If you ever wanted to contribute to KDE but weren&#8217;t sure if your preferred programming language or tools were relevant, this is a great blog post detailing how you can contribute if you are familiar with any of the following: Python, Ruby, Perl, Containerfile/Docker/Podman, HTML/SCSS/JavaScript, Web Assembly, Flatpak/Snap, CMake, Java, and Rust. A complex, large project like KDE needs people with a wide variety of skills, so it&#8217;s definitely not just C++. An excellent place to start. 
+
+<https://www.osnews.com/story/140316/you-can-contribute-to-kde-with-non-c-code/>
+
+---
+
+##  All About U.S. — A Look at the Lives of 50 Real Kids from Across the United States 
+
+date: 2024-07-24, updated: 2024-07-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/all-about-us-a-look-at-the-lives-of-50-real-kids-from-across-the-united-states>
+
+---
+
+##  If you&#8217;re feeling nostalgic, here&#8217;s a version of MS Paint that works... 
+
+date: 2024-07-24, updated: 2024-07-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044986-if-youre-feeling-nostalgi>
+
+---
+
+## A Saturnian Summer
+
+date: 2024-07-24, from: NASA breaking news
+
+NASA’s Hubble Space Telescope captured this image of Saturn and its colossal rings on July 4, 2020, during summer in the gas giant’s northern hemisphere. Two of Saturn&#8217;s icy moons are also clearly visible: Mimas at right, and Enceladus at bottom.  The light reddish haze over the northern hemisphere seen in this color composite could [&#8230;] 
+
+<https://www.nasa.gov/image-article/a-saturnian-summer/>
+
+---
+
+##  The Gods of Logic: Benjamín Labatut (When We Cease to Understand the... 
+
+date: 2024-07-24, updated: 2024-07-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045003-the-gods-of-logic-benjami>
+
+---
+
+##  Books to Read to Understand Where Project 2025 Came From 
+
+date: 2024-07-24, updated: 2024-07-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/books-to-read-to-understand-where-project-2025-came-from>
+
+---
+
+**@Liam on Linux** (date: 2024-07-24, from: Liam on Linux)
+
+&nbsp;<a href="https://en.wikipedia.org/wiki/ARRA_(computer)">ARRA</a> was the first ever Dutch computer.<br />&nbsp;<br />There's an account of its creation entitled <a href="https://ir.cwi.nl/pub/13534">9.2 Computers ontwerpen, toen</a>&nbsp;(<em>&quot;Computer Designs, then&quot;</em>)&nbsp;by the late&nbsp;<a href="https://en.wikipedia.org/wiki/Carel_S._Scholten">Carel S Scholten</a>,&nbsp;but sadly for Anglophone readers it's in Dutch.<br /><br />This is a translation into English, done using ChatGPT 4o by Gavin Scott. I found it readable and fun, although I have no way to judge how accurate it is.<br /><br /><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">C.S. Scholten<br /><br /><o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">In the summer of 1947, I was on vacation in Almelo. Earlier that year, on the same day as my best friend and inseparable study mate, Brain Jan Loopstra, I had successfully passed the qualifying exams in mathematics and physics. The mandatory brief introduction to the three major laboratories&mdash;the Physics Laboratory, the V.d. Waals Laboratory, and the Zeeman Laboratory&mdash;was behind us, and we were about to start our doctoral studies in experimental physics. For two years, we would be practically working in one of the aforementioned laboratories.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">One day, I received a telegram in Almelo with approximately the following content: &quot;Would you like to assist in building an automatic calculating machine?&quot; For assurance, another sentence was added: &quot;Mr. Loopstra has already agreed.&quot; The sender was &quot;The Mathematical Center,&quot; according to further details, located in Amsterdam. I briefly considered whether my friend had already confirmed my cooperation, but in that case, the telegram seemed unnecessary, so I dismissed that assumption. Both scenarios were equally valid: breaking up our long-standing cooperation (dating back to the beginning of high school) was simply unthinkable. Furthermore, the telegram contained two attractive points: &quot;automatic calculating machine&quot; and &quot;Mathematical Center,&quot; both new concepts to me. I couldn&rsquo;t deduce more than the name suggested. Since the cost of a telegram exceeded my budget, I posted a postcard with my answer and resumed my vacation activities. Those of you who have been involved in recruiting staff will, I assume, be filled with admiration for this unique example of recruitment tactics: no fuss about salary or working hours, not to mention irrelevant details like pension, vacation, and sick leave. For your reassurance, it should be mentioned that I was indeed offered a salary and benefits, which, in our eyes, were quite generous.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">I wasn't too concerned about how the new job could be combined with the mandatory two-year laboratory work. I believed that a solution had to be found for that. And a solution was found: the laboratory work could be replaced by our work at the Mathematical Center.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">Upon returning to Amsterdam, I found out the following: the Mathematical Center was founded in 1946, with a goal that could roughly be inferred from its name. One of the departments was the 'Calculation Department,' where diligent young ladies, using hand calculators&mdash;colloquially known as 'coffee grinders'&mdash;numerically solved, for example, differential equations (in a later stage, so-called 'bookkeeping machines' were added to the machinery). The problems dealt with usually came from external clients. The head of the Calculation Department was Dr. ir. A. van Wijngaarden. Stories about automatic calculating machines had also reached the management of the Mathematical Center, and it was clear from the outset that such a tool&mdash;if viable&mdash;could be of great importance, especially for the Calculation Department. However, it was not possible to buy this equipment; those who wanted to discuss it had to build it themselves. Consequently, it was decided to establish a separate group under the Calculation Department, with the task of constructing an automatic calculating machine. Given the probable nature of this group&rsquo;s activities, it was somewhat an oddity within the Mathematical Center, doomed to disappear, if not after completing the first machine, then certainly once this kind of tool became a normal trade object.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">We were not the only group in the Netherlands involved in constructing calculating machines. As we later discovered, Dr. W.L. v.d. Poel had already started constructing a machine in 1946.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">Our direct boss was Van Wijngaarden, and our newly formed two-man group was temporarily housed in a room of the Physics Laboratory on Plantage Muidergracht, where Prof. Clay was in charge. Our first significant act was the removal of a high-voltage installation in the room, much to the dismay of Clay, who was fond of the thing but arrived too late to prevent the disaster. Then we thought it might be useful to equip the room with some 220V sockets, so we went to Waterlooplein and returned with a second-hand hammer, pliers, screwdriver, some wire, and a few wooden (it was 1947!) sockets. I remember wondering whether we could reasonably submit the exorbitant bill corresponding to these purchases. Nonetheless, we did.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">After providing our room with voltage, we felt an unpleasant sensation that something was expected from us, though we had no idea how to start. We decided to consult the sparse literature. This investigation yielded two notable articles: one about the ENIAC, a digital (decimal) computer designed for ballistic problems, and one about a differential analyzer, a device for solving differential equations, where the values of variables were represented by continuously variable physical quantities, in this case, the rotation of shafts. The first article was abominably written and incomprehensible, and as far as we understood it, it was daunting, mentioning, for instance, 18,000 vacuum tubes, a number we were sure our employer could never afford. The second article (by V. Bush), on the other hand, was excellently written and gave us the idea that such a thing indeed seemed buildable.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">Therefore, it had to be a differential analyzer, and a mechanical one at that. As we now know, we were betting on the wrong horse, but first, we didn&rsquo;t know that, and second, it didn&rsquo;t really matter. Initially, we were not up to either task simply because we lacked any electronic training. We were supposed to master electricity and atomic physics, but how a vacuum tube looked inside was known only to radio amateurs among us, and we certainly were not. Our own (preliminary) practicum contained, to my knowledge, no experiment in which a vacuum tube was the object of study, and the physics practicum for medical students (the so-called 'medical practicum'), where we had supervised for a year as student assistants, contained exactly one such experiment. It involved a rectifier, dated by colleagues with some training in archaeology to about the end of the First World War. The accompanying manual prescribed turning on the 'plate voltage' only tens of seconds after the filament voltage, and the students had to answer why this instruction was given. The answers were sometimes very amusing. One such answer I won&rsquo;t withhold from you: 'That is to give the current a chance to go around once.'<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">Our first own experiment with a vacuum tube would not have been out of place in a slapstick movie. It involved a triode, in whose anode circuit we included a megohm resistor for safety. Safely ensconced behind a tipped-over table, we turned on the 'experiment.' Unlike in a slapstick movie, nothing significant happened in our case.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">With the help of some textbooks, and not to forget the 'tube manuals' of some manufacturers of these useful objects, we somewhat brushed up on our electronic knowledge and managed to get a couple of components, which were supposed to play a role in the differential analyzer, to a state where their function could at least be guessed. They were a moment amplifier and a curve follower. How we should perfect these devices so that they would work reliably and could be produced in some numbers remained a mystery to us. The solution to this mystery was never found. Certainly not by me, as around this time (January 1948), I was summoned to military service, which couldn&rsquo;t do without me. During the two years and eight months of my absence (I returned to civilian life in September 1950), a drastic change took place, which I could follow thanks to frequent contacts with Loopstra.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">First, the Mathematical Center, including our group, moved to the current building at 2nd Boerhaavestraat 49. The building looked somewhat different back then. The entire building had consisted of two symmetrically built schools. During the war, the building was requisitioned by the Germans and used as a garage. In this context, the outer wall of one of the gymnasiums was demolished. Now, one half was again in use as a school, and the other half, as well as the attic above both halves, was assigned to the Mathematical Center. The Germans had installed a munitions lift in the building. The lift was gone, but the associated lift shaft was not. Fortunately, few among us had suicidal tendencies. The frosted glass in the toilet doors (an old school!) had long since disappeared; for the sake of decorum, curtains were hung in front of them.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">Van Wijngaarden could operate for a long time over a hole in the floor next to his desk, corresponding with a hole in the ceiling of the room below (unoccupied). Despite his impressive cigar consumption at that time, I didn&rsquo;t notice that this gigantic ashtray ever filled up.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">The number of employees in our group had meanwhile expanded somewhat; all in all, perhaps around five.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">The most significant change in the situation concerned our further plans. The idea of a differential analyzer was abandoned as it had become clear that the future belonged to digital computers. Upon my return, a substantial part of such a computer, the 'ARRA' (Automatische Relais Rekenmachine Amsterdam), had already been realized. The main components were relays (for various logical functions) and tubes (for the flip-flops that composed the registers). The relays were Siemens high-speed relays (switching times in the order of a few milliseconds), personally retrieved by Loopstra and Van Wijngaarden from an English war surplus. They contained a single changeover contact (break-before-make), with make and break contacts rigidly set, although adjustable. Logically appealing were the two separate coils (with an equal number of windings): both the inclusive and exclusive OR functions were within reach. The relays were mounted on octal bases by us and later enclosed in a plastic bag to prevent contact contamination.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">They were a constant source of concern: switching times were unreliable (especially when the exclusive OR was applied) and contact degradation occurred nonetheless. Cleaning the contacts ('polishing the pins') and resetting the switching times became a regular pastime, often involving the girls from the Calculation Department. The setting was done on a relay tester, and during this setting, the contacts were under considerable voltage. Although an instrument with a wooden handle was used for setting, the curses occasionally uttered suggested it was not entirely effective.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">For the flip-flops, double triodes were used, followed by a power tube to drive a sufficient number of relays, and a pilot lamp for visual indication of the flip-flop state. Since the A had three registers, each 30 bits wide, there must have been about 90 power tubes, and we noted with dismay that 90 power tubes oscillated excellently. After some time, we knew exactly which pilot lamp socket needed a 2-meter wire to eliminate the oscillation.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">At a later stage, a drum (initially, the instructions were read from a plugboard via step switches) functioned as memory; for input and output, a tape reader (paper, as magnetic tape was yet to be invented) and a teleprinter were available. A wooden kitchen table served as the control desk.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">Relays and tubes might have been the main logical building blocks, but they were certainly not the only ones. Without too much exaggeration, it can be said that the ARRA was a collection of what the electronic industry had to offer, a circumstance greatly contributed to by our frequent trips to Eindhoven, from where we often returned with some 'sample items.' On the train back, we first reminisced about the excellent lunch we had enjoyed and then inventoried to determine if we brought back enough to cover the travel expenses. This examination usually turned out positive.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">It should be noted that the ARRA was mainly not clocked. Each primitive operation was followed by an 'operation complete' signal, which in turn started the next operation. It is somewhat amusing that nowadays such a system is sometimes proposed again (but hopefully more reliable than what we produced) to prevent glitch problems, a concept we were not familiar with at the time.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">Needless to say, the ARRA was so unreliable that little productive work could be done with it. However, it was officially put into use. By mid-1952, this was the case. His Excellency F.J. Th. Rutten, then Minister of Education, appeared at our place and officially inaugurated the ARRA with some ceremony. For this purpose, we carefully chose a demonstration program with minimal risk of failure, namely producing random numbers &agrave; la Fibonacci. We had rehearsed the demonstration so often that we knew large parts of the output sequence by heart, and we breathed a sigh of relief when we found that the machine produced the correct output. In hindsight, I am surprised that this demonstration did not earn us a reprimand from higher-ups. Imagine: you are the Minister of Education, thoroughly briefed at the Department about the wonders of the upcoming computing machines; you attend the official inauguration, and you are greeted by a group explaining that, to demonstrate these wonders, the machine will soon produce a series of random numbers. When the moment arrives, they tell you with beaming faces that the machine works excellently. I would have assumed that, if not with the truth, at least with me, they were having a bit of fun. His Excellency remained friendly, a remarkable display of self-control.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">The emotions stirred by this festivity were apparently too much for the ARRA. After the opening, as far as I recall, no reasonable amount of useful work was ever produced. After some time, towards the end of 1952, we decided to give up the ARRA as a hopeless case and do something else. There was another reason for this decision. The year 1952 should be considered an excellent harvest year for the Mathematical Center staff: in March and November of that year, Edsger Dijkstra and Gerrit Blaauw respectively appeared on the scene. Of these two, the latter is of particular importance for today's story and our future narrative. Gerrit had worked on computers at Harvard, under the supervision of Howard Aiken. He had also written a dissertation there and was willing to lend his knowledge and insight to the Mathematical Center. We were not very compliant boys at that time. Let me put it this way: we were aware that we did not have a monopoly on wisdom, but we found it highly unlikely that anyone else would know better. Therefore, the 'newcomer' was viewed with some suspicion. Gerrit&rsquo;s achievement was all the greater when he convinced us in a lecture of the validity of what he proposed. And that was quite something: a clocked machine, uniform building blocks consisting of various types of AND/OR gates and corresponding amplifiers, pluggable (and thus interchangeable) units, a neat design method based on the use of two alternating, separate series of clock pulses, and proper documentation.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">We were sold on the plan and got to work. A small difficulty had to be overcome: what we intended to do was obviously nothing more or less than building a new machine, and this fact encountered some political difficulties. The solution to this problem was simple: formally, it would be a 'revision' of the ARRA. The new machine was thus also called ARRA II (we shall henceforth speak of A II), but the double bottom was perfectly clear to any visitor: the frames of the two machines were distinctly separated, with no connecting wire between them.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">For the AND/OR gates, we decided to use selenium diodes. These usually arrived in the form of selenium rectifiers, a sort of firecrackers of varying sizes, which we dismantled to extract the individual rectifier plates, about half the diameter of a modern-day dime. The assembly&mdash;the selenium plates couldn't tolerate high temperatures, so soldering was out of the question&mdash;was as follows: holes were drilled in a thick piece of pertinax. One end of the hole was sealed with a metal plug; into the resulting pot hole went a spring and a selenium plate, and finally, the other end of the hole was also sealed with a metal plug. For connecting the plugs, we thought the use of silver paint was appropriate, and soon we were busy painting our first own circuits. Some time later, we had plenty of reasons to curse this decision. The reliability of these connections was poor, to put it mildly, and around this time, the 'high-frequency hammer' must have been invented: we took a small hammer with a rubber head and rattled it along the handles of the units, like a child running its hand along the railings of a fence. It proved an effective means to turn intermittent interruptions into permanent ones. I won't hazard a guess as to how many interruptions we introduced in this way. At a later stage, the selenium diodes were replaced by germanium diodes, which were simply soldered.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">The AND/OR gates were followed by a triode amplifier and a cathode follower. ARRA II also got a drum and a tape reader. For output, an electric typewriter was installed, with 16 keys operable by placing magnets underneath them. The decoding tree for these magnets provided us with the means to build an echo-check, and Dijkstra fabricated a routine where, simultaneously with printing a number, the same number (if all went well) was reconstructed. I assume we thus had one of the first fully controlled print routines. Characteristic of ARRA II&rsquo;s speed was the time for an addition: 20 ms (the time of a drum rotation).<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">ARRA II came into operation in December 1953, this time without ministerial assistance, but it performed significantly more useful work than its predecessor, despite the technical difficulties outlined above.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">The design phase of ARRA II marks for me the point where computer design began to become a profession. This was greatly aided by the introduction of uniform building blocks, describable in a multidimensional binary state space, making the use of tools like Boolean algebra meaningful. We figured out how to provide ARRA II with signed multiplicative addition for integers (i.e., an operation of the form (A,S) := (M) * (&plusmn;S') + (A), for all sign combinations of (A), (S), and (M) before and of the result), despite the fact that ARRA II had only a counter as wide as a register. As far as I can recall, this was the first time I devoted a document to proving that the proposed solution was correct. Undoubtedly, the proof was in a form I would not be satisfied with today, but still... It worked as intended, and you can imagine my amusement when, years later, I learned from a French book on computers that this problem was considered unsolvable.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">In May 1954, work began on a (slightly modified) copy of ARRA II, the FERTA (Fokker's First Calculating Machine Type A), intended for Fokker. The FERTA was handed over to Fokker in April 1955. This entire affair was mainly handled by Blaauw and Dijkstra. Shortly thereafter, Blaauw left the service of the Mathematical Center.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">In June 1956, the ARMAC (Automatic Calculating Machine Mathematical Center), successor to ARRA II, was put into operation, several dozen times faster than its predecessor. Design and construction took about 1&frac12; years. Worth mentioning is that the ARMAC first used cores, albeit on a modest scale (in total 64 words of 34 bits each, I believe). For generating the horizontal and vertical selection currents for these cores, we used large cores. To drive these large cores, however, they had to be equipped with a coil with a reasonable number of windings. Extensive embroidery work didn&rsquo;t seem appealing to us, so the following solution was devised: a (fairly deep) rim was turned from transparent plastic. Thus, we now had two rings: the rim and the core. The rim was sawed at one place, and the flexibility of the material made it possible to interlock the two rings. Then, the coil was applied to the rim by rotating it from the outside using a rubber wheel. The result was a neatly wound coil. The whole thing was then encased in Araldite. The unintended surprising effect was that, since the refractive indices of the plastic and Araldite apparently differed little, the plastic rim became completely invisible. The observer saw a core in the Araldite with a beautifully regularly wound coil around it. We left many a visitor in the dark for quite some time about how we produced these things!<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">The time of amateurism was coming to an end. Computers began to appear on the market, and the fact that our group, which had now grown to several dozen employees, did not really belong in the Mathematical Center started to become painfully clear to us. Gradual dissolution of the group was, of course, an option, but that meant destroying a good piece of know-how. A solution was found when the Nillmij, which had been automating its administration for some time using Bull punch card equipment, declared its willingness to take over our group as the core of a new Dutch computer industry. Thus it happened. The new company, N.V. Elektrologica, was formally established in 1956, and gradually our group&rsquo;s employees were transferred to Elektrologica, a process that was completed with my own transfer on January 1, 1959. As the first commercial machine, we designed a fully transistorized computer, the XI, whose prototype performed its first calculations at the end of 1957. The speed was about ten times that of the ARMAC.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">With this, I consider the period I had to cover as concluded. When I confront my memories with the title of this lecture, it must be said that 'designing computers' as such hardly existed: the activities that could be labeled as such were absorbed in the total of concerns that demanded our attention. Those who engaged in constructing calculating machines at that time usually worked in very small teams and performed all the necessary tasks. We decided on the construction of racks, doors, and closures, the placement of fans (the ARMAC consumed 10 kW!), we mounted power distribution cabinets and associated wiring, we knew the available fuses and cross-sections of electrical cables by heart, we soldered, we peered at oscillographs, we climbed into the machine armed with a vacuum cleaner to clean it, and, indeed, sometimes we were also involved in design.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">We should not idealize. As you may have gathered from the above, we were occasionally brought to the brink of despair by technical problems. Inadequate components plagued us, as did a lack of knowledge and insight. This lack existed not only in our group but globally the field was not yet mastered.<o:p></o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif;">However, it was also a fascinating time, marked by a constant sense of 'never before seen,' although that may not always have been literally true. It was a time when organizing overtime, sometimes lasting all night, posed no problem. It was a time when we knew a large portion of the participants in international computer conferences at least by sight!<o:p></o:p></p><br type="_moz" /><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=91041" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<https://liam-on-linux.dreamwidth.org/91041.html>
+
+---
+
+## On goals, online projects, and the usefulness of money
+
+date: 2024-07-24, from: Manu - I write blog
+
+
+                <p>I’m currently a <em>“<a href="https://getkirby.com/partners">Certified Kirby Partner</a>”</em>. Fancy title, I know. What that means is that I paid some money, last summer, to be listed on a website. This upcoming August, I will no longer be a <em>“Certified Kirby Partner”</em> because I am not going to pay money—again—to be listed on a website. But my certified status is not what I want to write about. It’s just an excuse to talk about the role money plays in achieving goals in the context of online projects.</p>
+<p>Most online projects exist to fulfil a goal. Sometimes that goal is stated, sometimes it’s implied. And money may or may not be an aid in achieving said goal. I was chatting about online communities with <a href="https://kevquirk.com/blog">Kev</a> the other day and we both reached the same conclusion that in order to create something meaningful in that space it has to be a paid product. Not because you need that to make it sustainable financially but because a monetary commitment—even a small one—is a helpful tool to find people who are genuinely interested in what you’re creating. You’re not likely to spend money on something you don’t care about. So in that context, money is a helpful tool to achieve the goal of creating a small community of people who care about the shared space.</p>
+<p>That same way of reasoning wouldn’t make sense for something like my <a href="https://peopleandblogs.com">People and Blogs</a> series. My goal with that project is to help as many people as possible rediscover the beauty of having a personal blog and owning your corner of the web, and to encourage a healthier way to live online. Making it a paid series wouldn’t help me reach that goal. It would probably be an obstacle. This is why I started the series knowing it was going to be a cost for me both in terms of time and in terms of actual money but it was one I was willing to sustain because I believe it’s important.</p>
+<p>It’s easy for me to commit to paying money when stated goals and monetisation schemes are aligned. To bring it back to Kirby, I absolutely love it both as a tool and as a project. It’s been run fantastically for more than a decade by a great group of people and I have nothing but positive things to say about it. I plan to keep using it and buying licenses for as long as they stay in business. But it’s also why I won’t pay again to be a <em>“Certified Kirby Partner”</em>. Because there the stated goals and the monetisation scheme are not aligned. As they say, money talks.</p>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/xX8CrexikM8ERTM7>
+
+---
+
+##  In the latest data release, the UN&#8217;s global population peak projection was... 
+
+date: 2024-07-24, updated: 2024-07-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045005-in-the-latest-data-releas>
+
+---
+
+##  Martin Pollack writes about his Gestapo father and his family, who remained... 
+
+date: 2024-07-24, updated: 2024-07-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045010-martin-pollack-writes-abo>
+
+---
+
+## Why OpenAI may well be completely Zuck’d
+
+date: 2024-07-24, from: Gary Marcus blog
+
+Regular readers of this Substack will recall that I have never been bullish on OpenAI. Last Fall, I warned that they might someday be known as the WeWork of AI, and in late January I wrote an essay about some of the strong headwinds they faced, despite their seeming invincibility, called &#8220; 
+
+<https://garymarcus.substack.com/p/why-openai-may-well-be-completely>
+
+---
+
+## Getting Started with Meshtastic
+
+date: 2024-07-24, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Getting Started with Meshtastic</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>After seeing the Meshtastic booth at Open Sauce, my Dad and I thought it would be fun to learn more about the low power radio tech by getting our own radios and experimenting.</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/meshtastic-nodes.jpg" alt="Meshtastic nodes"></p>
+
+<p>Then, we were contacted by Simon from <a href="https://muzi.works">Muzi Works</a>, and he offered to send a few units of R1 and H1, his company's pre-built Meshtastic nodes.</p>
+
+<p>What's a node, and what is Meshtastic? Excellent question.</p>
+
+<h2>What is Meshtastic?</h2>
+
+<p>Simply put—and copied shamelessly from the <a href="https://meshtastic.org">official website</a>:</p>
+
+<blockquote>
+  <p>An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices</p>
+</blockquote>
+
+<p>Meshtastic nodes are often tiny gumstick-size PCBs with a LoRa radio module, a couple buttons, a tiny OLED display, and a USB port.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-07-24T10:00:45-05:00" title="Wednesday, July 24, 2024 - 10:00" class="datetime">July 24, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/getting-started-meshtastic>
+
+---
+
+## NASA’s Webb Images Cold Exoplanet 12 Light-Years Away
+
+date: 2024-07-24, from: NASA breaking news
+
+An international team of astronomers using NASA’s James Webb Space Telescope has directly imaged an exoplanet roughly 12 light-years from Earth. The planet, Epsilon Indi Ab, is one of the coldest exoplanets observed to date. The planet is several times the mass of Jupiter and orbits the K-type star Epsilon Indi A (Eps Ind A), […] 
+
+<https://science.nasa.gov/missions/webb/nasas-webb-images-cold-exoplanet-12-light-years-away/>
+
+---
+
+## EMD Climate Adaptation Video
+
+date: 2024-07-24, from: NASA breaking news
+
+ 
+
+<https://www.nasa.gov/organizations/osi/emd/emd-climate-adaptation-video/>
 
 ---
 
@@ -67,16 +367,6 @@ date: 2024-07-24, updated: 2024-07-24, from: Liam Proven's articles at the Regis
       <p>Some of the common arguments for moving away from proprietary operating systems are about increasing personal (or corporate) freedom and decreasing expenditure, but there are bigger things at stake.</p> 
 
 <https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/24/foss_gets_geopolitical/>
-
----
-
-## LIVE: NASA is with you from Oshkosh
-
-date: 2024-07-24, from: NASA breaking news
-
-Welcome to NASA Aeronautics&#8217; live update page with news about NASA events and other festivities taking place throughout the week at EAA AirVenture Oshkosh 2024, which we simply call Oshkosh. Still Busy on Day 3 Wednesday, July 24 at 9 a.m. EDT Good morning from this, Day 3 of EAA AirVenture Oshkosh 2024. Here at [&#8230;] 
-
-<https://www.nasa.gov/aeronautics/live-nasa-is-with-you-from-oshkosh/>
 
 ---
 
@@ -259,6 +549,16 @@ date: 2024-07-24, from: NASA breaking news
 Earth planning date: Friday, July 19, 2024 As usual with our weekend plans, we are packing a lot of science into today’s three-sol plan. I had the fun of planning a complex and large set of arm activities as the Arm Rover Planner today. Since we did not drive in Wednesday’s plan, we still are […] 
 
 <https://science.nasa.gov/blogs/sols-4250-4252-so-many-rocks-so-little-time/>
+
+---
+
+## Mistral: Are LLMs Commodities Now?
+
+date: 2024-07-24, updated: 2024-07-24, from: Tom Kellog blog
+
+Mistral 2 Large is out, and it's right up there with GPT-4o, ...and Llama 3.1, and Claude Sonnet 3.5, and...yeah, there's a lot of them. These "Frontier Models" are starting to look more like commodities. And with that shift, we need to adjust AI strategy to match. There's strong arguments to make for using an operator that doesn't also train models. Read more! 
+
+<http://timkellogg.me/blog/2024/07/24/mistral>
 
 ---
 
@@ -1009,10 +1309,10 @@ Maybe it&#39;s worth adding a {recursive} modifier to allow recursion?</p>
 
 date: 2024-07-23, updated: 2024-07-23, from: Tom Kellog blog
 
-<p>Today Meta announced a new LLM, <a href="https://ai.meta.com/blog/meta-llama-3-1/">Llama 3.1 405B</a> and along with it, a great letter by
-Mark Zuckerburg about <a href="https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/">why open source is good for developers, Meta &amp; the world</a>.
+Today Meta announced a new LLM, Llama 3.1 405B and along with it, a great letter by
+Mark Zuckerburg about why open source is good for developers, Meta &amp; the world.
 It might seem redundant, amidst the flood of other AI models being released, but I do think this
-is a big moment, for 4 reasons.</p> 
+is a big moment, for 4 reasons. 
 
 <http://timkellogg.me/blog/2024/07/23/llama-3.1>
 
@@ -1772,6 +2072,17 @@ date: 2024-07-22, from: Blog Muffinlabs
 </div> 
 
 <https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/>
+
+---
+
+## US-RSE July 2024 Newsletter
+
+date: 2024-07-22, from: The United States Research Software Engineer Association
+
+July 2024 - 
+          In this monthly newsletter, we share recent, current, and planned activities of the US-RSE Association, and related news that we think is of interest to US-RSE members. Newsletters are also available on our website alongside the growing resources and information on the US-RSE Association. To receive our newsletter, join US-RSE.... 
+
+<https://us-rse.org/2024-07-22-newsletter/>
 
 ---
 

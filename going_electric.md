@@ -1,11 +1,259 @@
 ---
 title: going electric 2024.30
-updated: 2024-07-24 07:36:34
+updated: 2024-07-24 16:18:10
 ---
 
 # going electric 2024.30
 
-(date: 2024-07-24 07:36:34)
+(date: 2024-07-24 16:18:10)
+
+---
+
+## Even If Trump Wins, Ford Isn't Slowing Down On EVs
+
+date: 2024-07-24, from: Inside EVs News
+
+CEO Jim Farley told investors that they'll have to keep up with Chinese EV innovations no matter who is in the White House. 
+
+<https://insideevs.com/news/727809/ford-ev-strategy-trump-wins/>
+
+---
+
+## The Affordable Kia EV3's Tech Is A Much Bigger Deal Than You Think
+
+date: 2024-07-24, from: Inside EVs News
+
+Kia's affordable, compact EV actually gets some serious tech upgrades beyond even the more expensive models. Here's what we know. 
+
+<https://insideevs.com/news/727803/kia-ev3-upgrades-korea-tech/>
+
+---
+
+## Ford misses Q2 earnings by a wide margin as EV losses reach $2.5 billion in 2024
+
+date: 2024-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/Ford-lightning-sales-record.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><span style="box-sizing: border-box; margin: 0px; padding: 0px;"><a href="https://electrek.co/guides/ford/" target="_blank" rel="noopener">Ford</a> (F) released its second-quarter earnings on Wednesday. Although Ford beat top-line expectations with revenue up 6%, it missed Q2 2024 earnings expectations by a wide margin.</span></p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="373124" href="https://electrek.co/2024/07/24/ford-misses-q2-earnings-wide-margin-ev-losses-reach-2-5b/#more-373124" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/24/ford-misses-q2-earnings-wide-margin-ev-losses-reach-2-5b/>
+
+---
+
+## Xiaomi's 1,548-HP SU7 Ultra Is Already Going To Production
+
+date: 2024-07-24, from: Inside EVs News
+
+That was fast, in more ways than one. Xiaomi's new super electric sedan took one week to go from prototype to reality.  
+
+<https://insideevs.com/news/727793/xiaomi-su7-ultra-production-power/>
+
+---
+
+## Tesla officially pauses Giga Mexico project over potential Trump win
+
+date: 2024-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/Tesla-Gigafactory-Mexico.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has officially paused its Gigafactory Mexico project over a potential Trump election win, which would greatly reduce the factory’s profitability.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="373117" href="https://electrek.co/2024/07/24/tesla-officially-pauses-giga-mexico-project-over-potential-trump-win/#more-373117" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/24/tesla-officially-pauses-giga-mexico-project-over-potential-trump-win/>
+
+---
+
+## Do Electric Vehicles Really Pollute More Than Gas Cars?
+
+date: 2024-07-24, from: Inside EVs News
+
+Some critics argue that various factors mean EVs are dirtier than gas cars. We brought receipts to show you the real answer. 
+
+<https://insideevs.com/news/727802/ev-myths-cleaner-gas-cars/>
+
+---
+
+## Starbucks throws its weight behind 6 new community solar farms
+
+date: 2024-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Nexamp___IL_Kirkland_Solar-1.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Starbucks has partnered with Nexamp, the largest community solar provider in the US, to anchor six new community solar farms in Illinois. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="community-solar,egeb,energy-brief,solar,illinois,solar-power,starbucks" data-layer-viewtype="unknown" data-post-id="373100" href="https://electrek.co/2024/07/24/starbucks-community-solar-farms/#more-373100" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/24/starbucks-community-solar-farms/>
+
+---
+
+## Chevy’s Equinox EV just got even more affordable to lease
+
+date: 2024-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Chevy-Equinox-EV-2025.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chevy’s new all-electric Equinox is already on sale. With new incentives, the 2024 <a href="https://electrek.co/guides/chevy-equinox-ev/">Chevy Equinox EV</a> is now cheaper to lease than the gas-powered model despite its MSRP being nearly $12,500 more expensive.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevy-equinox-ev" data-layer-viewtype="unknown" data-post-id="373105" href="https://electrek.co/2024/07/24/chevys-equinox-ev-more-affordable-lease/#more-373105" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/24/chevys-equinox-ev-more-affordable-lease/>
+
+---
+
+## GM Gives $7,500 Off Chevrolet Silverado EV Work Trucks Ineligible For Tax Credit
+
+date: 2024-07-24, from: Inside EVs News
+
+Dealers are reportedly being paid $2,500 for every Chevy Silverado EV work truck they manage to sell. 
+
+<https://insideevs.com/news/727798/chevrolet-silverado-ev-ultium-promise/>
+
+---
+
+## Save $1,000 on MOD’s Groove 1 e-bike at $1,499, ALLPOWERS R2500 power station deals, rare Electric Bike Co. promotion, more
+
+date: 2024-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/MOD-Bikes-Groove-1-Utility-e-bike.webp?w=1600" /></div><p>Headlining today’s Green Deals is a massive $1,000 price cut on <a href="https://9to5toys.com/2024/07/24/take-a-leisurely-cruise-around-town-on-mod-bikes-groove-1-utility-e-bike-at-1499-low-save-1000/">MOD Bikes’ Groove 1 Utility e-bike</a> that is down at <a href="https://9to5toys.com/2024/07/24/take-a-leisurely-cruise-around-town-on-mod-bikes-groove-1-utility-e-bike-at-1499-low-save-1000/">$1,499</a>, as well as the rest of the company’s summer sale options for the rest of July. It is joined by <a href="https://9to5toys.com/2024/07/24/save-650-on-allpowers-2016wh-r2500-portable-power-station-at-949-bundle-options-start-from-959/">ALLPOWERS’ R2500 Portable Power Station</a> that is down at <a href="https://9to5toys.com/2024/07/24/save-650-on-allpowers-2016wh-r2500-portable-power-station-at-949-bundle-options-start-from-959/">$949</a>, with bundle options for a 200W, 400W, or 600W solar panel – starting from <a href="https://9to5toys.com/2024/07/24/save-650-on-allpowers-2016wh-r2500-portable-power-station-at-949-bundle-options-start-from-959/">$959</a>. Then there is a <a href="https://9to5toys.com/2024/07/24/electric-bike-co-offers-rare-100-discount-on-all-e-bikes-and-free-anti-theft-alarms-starting-at-1379-up-to-349-value/">rare discount from Electric Bike Co.</a> that is taking <strong>$100 off any e-bike</strong> while also giving you a <strong>free anti-theft alarm</strong>, with some models beginning at already discounted prices, like the <a href="https://9to5toys.com/2024/07/24/electric-bike-co-offers-rare-100-discount-on-all-e-bikes-and-free-anti-theft-alarms-starting-at-1379-up-to-349-value/">Model J e-bike that starts at $1,379</a>. Plus, all the other hangover Green Deals that are still alive and well, including the <a href="https://electrek.co/2024/07/18/prime-day-green-deals-evs-power-stations-tools-smart-devices-appliances-more/">leftover Prime Day Green Deals</a> that are slowly dwindling as the days go on and also a price cut on <a href="https://9to5toys.com/2024/07/24/sun-joes-3-in-1-20v-hedge-trimmer-pole-saw-leaf-blower-tool-system-drops-to-127-reg-179-more-from-75/">Sun Joe’s 20V Hedge Trimmer/Pole Saw/Leaf Blower Garden Tool System</a>. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="373091" href="https://electrek.co/2024/07/24/mod-groove-1-e-bike-allpowers-r2500-power-station-electric-bike-co-promotion-more/#more-373091" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/24/mod-groove-1-e-bike-allpowers-r2500-power-station-electric-bike-co-promotion-more/>
+
+---
+
+## A Zeekr May Be Your Next Waymo Taxi In The U.S.
+
+date: 2024-07-24, from: Inside EVs News
+
+The Swedish-designed electric minivan has a removable steering wheel, which could help Waymo go over any regulatory speed bump. 
+
+<https://insideevs.com/news/727741/waymo-zeekr-robotaxi-us-testing/>
+
+---
+
+## Kia’s new EV6 GT will pull features from Hyundai’s electric sports car
+
+date: 2024-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Kia-EV6-GT-update-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The affordable Kia electric sports car is getting an upgrade. In addition to a design makeover, Kia’s new <a href="https://electrek.co/guides/kia-ev6-gt/">EV6 GT</a> will gain features from the Hyundai IONIQ 5 N.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev6,kia-ev6-gt" data-layer-viewtype="unknown" data-post-id="373082" href="https://electrek.co/2024/07/24/kias-new-ev6-gt-pull-features-hyundais-ev-sports-car/#more-373082" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/24/kias-new-ev6-gt-pull-features-hyundais-ev-sports-car/>
+
+---
+
+## Tesla Cybertruck police vehicle to get adopted by Irvine PD
+
+date: 2024-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla-Cybertruck-police-vehicle-unplugged-performance-1-e1717773548814.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Irvine Police Department announced that it will get a Tesla Cybertruck police vehicle upfitted by Unplugged Performance.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="373051" href="https://electrek.co/2024/07/24/tesla-cybertruck-police-vehicle-to-get-adopted-by-irvine-pd/#more-373051" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/24/tesla-cybertruck-police-vehicle-to-get-adopted-by-irvine-pd/>
+
+---
+
+## Stellantis Is ‘Ready For The Fight’ Against Chinese EVs In Europe
+
+date: 2024-07-24, from: Inside EVs News
+
+With a new EV production line at the former Yugo factory in Serbia, the auto giant reckons it has what it takes. Will it succeed? 
+
+<https://insideevs.com/news/727678/stellantis-fight-chinese-evs-europe/>
+
+---
+
+## Tesla will change the world in 6 ways next year, says serial overpromiser Musk
+
+date: 2024-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Tesla-Bot-Optimus-hero.webp?w=1500" /></div><p>Tesla held its quarterly report yesterday, and stated that six major products would be ready for action next year. This would suggest that Tesla has a truly historic year coming up for it, set to disrupt trucking, affordable EVs, sportscars, taxis, driving in general, and, oh, just <em>all human work</em>.</p>
+
+
+
+<p>But we’ve heard all this before, and forgive us for saying that it seems slightly more likely that the boy is crying wolf.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="robotaxi,tesla,tesla-full-self-driving,tesla-optimus,tesla-roadster,tesla-semi" data-layer-viewtype="unknown" data-post-id="373022" href="https://electrek.co/2024/07/24/tesla-will-change-the-world-in-5-ways-next-year-says-serial-overpromiser-musk/#more-373022" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/24/tesla-will-change-the-world-in-5-ways-next-year-says-serial-overpromiser-musk/>
+
+---
+
+## The 2024 Chevy Silverado EV lease price costs as much as two Rivian trucks [update]
+
+date: 2024-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/magna-chevy-silverado-EV-2024-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The 2024 <a href="https://www.carsdirect.com/buildyourcar/style?make=chevrolet&amp;model=silverado-ev&amp;src=1001054&amp;lnk=subIDMichelle" target="_blank" rel="noreferrer noopener">Chevy Silverado EV</a> lease price is so expensive that it costs about as much as leasing <em>two</em> Rivian R1T Adventure trucks.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet,chevy,chevy-silverado-ev,ev-lease,rivian,rivian-r1t" data-layer-viewtype="unknown" data-post-id="370253" href="https://electrek.co/2024/07/24/2024-chevy-silverado-ev-lease-price-rivian/#more-370253" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/24/2024-chevy-silverado-ev-lease-price-rivian/>
+
+---
+
+## Tesla's EV Market Share: See How Much It's Slipping In One Chart
+
+date: 2024-07-24, from: Inside EVs News
+
+Two consecutive quarters of falling deliveries are taking their toll. 
+
+<https://insideevs.com/news/727744/tesla-market-share-2024-q2/>
+
+---
+
+## BYD surges overseas: Can it steal back the EV sales crown from Tesla?
+
+date: 2024-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/BYD-Teslas-EV-sales.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD is making a strong push overseas as it expands into new markets. With sales surging in China, Southeast Asia, Japan, Brazil, Mexico, and other key markets, will it be enough for <a href="https://electrek.co/guides/byd/">BYD</a> to take back the EV sales crown from Tesla? New research suggests it could happen sooner than expected.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="373059" href="https://electrek.co/2024/07/24/byd-surges-overseas-take-back-teslas-ev-sales-crown/#more-373059" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/24/byd-surges-overseas-take-back-teslas-ev-sales-crown/>
+
+---
+
+## All New Chevy And Cadillac EVs Will Have Fewer Parts
+
+date: 2024-07-24, from: Inside EVs News
+
+GM’s Ultium-based models are going on a diet to reduce costs and manufacturing complexity. 
+
+<https://insideevs.com/news/727763/new-chevy-cadillac-fewer-part/>
+
+---
+
+## Lucid CEO Confident Of Success, Plans To Sell A Million EVs Annually
+
+date: 2024-07-24, from: Inside EVs News
+
+Peter Rawlinson has not been one to shy away from expressing what he thinks Lucid’s EV competitors are doing wrong. 
+
+<https://insideevs.com/news/727640/lucid-ceo-sell-one-million/>
 
 ---
 
@@ -101,11 +349,11 @@ Gogoro teamed up with Shell to make its swapping stations accessible to the mass
 
 ---
 
-## Is the Royal Enfield Himalayan 450’s Best Color Not Coming to the US?
+## UPDATE: Royal Enfield Himalayan 450's Best Color Is Coming To The US Soon
 
 date: 2024-07-24, from: Ride Apart, Electric Motorcycle News
 
-Canada and Mexico also don't get it. 
+What about Canada and Mexico, though? 
 
 <https://www.rideapart.com/news/727647/royal-enfield-new-himalayan-pricing/>
 

@@ -1,11 +1,61 @@
 ---
 title: motorcycles 2024.30
-updated: 2024-07-24 07:36:32
+updated: 2024-07-24 16:18:09
 ---
 
 # motorcycles 2024.30
 
-(date: 2024-07-24 07:36:32)
+(date: 2024-07-24 16:18:09)
+
+---
+
+## 2024 Honda Fury
+
+date: 2024-07-24, from: Cycle World News
+
+Believe it or not, Honda has had a chopper in its line for 15 years, offering the fit, finish, and build quality that it is renowned for at an affordable price. 
+
+<https://www.cycleworld.com/honda/fury/>
+
+---
+
+## 2024 Indian Super Chief & Super Chief Limited
+
+date: 2024-07-24, from: Cycle World News
+
+Indian’s Super Chief builds onto the redesigned Chief platform with the addition of a touring screen, side bags, floorboards, and a touring saddle. 
+
+<https://www.cycleworld.com/indian/super-chief-limited/>
+
+---
+
+## 2024 Harley-Davidson Road King Special
+
+date: 2024-07-24, from: Cycle World News
+
+The Road King Special is a stripped-back bagger with 30 years of heritage. No fairing, no speakers, no frills. 
+
+<https://www.cycleworld.com/harley-davidson/road-king-special/>
+
+---
+
+## 2024 Harley-Davidson Road King Special Gallery
+
+date: 2024-07-24, from: Cycle World News
+
+Photos from Cycle World's 2024 Harley-Davidson Road King Special Buyer's Guide article. 
+
+<https://www.cycleworld.com/gallery/2024-harley-davidson-road-king-special-photos/>
+
+---
+
+## 2025 Ducati Panigale V4 First Details
+
+date: 2024-07-24, from: Cycle World News
+
+European documents show that the new 2025 Ducati Panigale V4 will have a peakier power delivery and possibly a double-sided swingarm. 
+
+<https://www.cycleworld.com/motorcycle-news/ducati-panigale-v4-first-details/>
 
 ---
 
@@ -19,11 +69,11 @@ Gogoro teamed up with Shell to make its swapping stations accessible to the mass
 
 ---
 
-## Is the Royal Enfield Himalayan 450’s Best Color Not Coming to the US?
+## UPDATE: Royal Enfield Himalayan 450's Best Color Is Coming To The US Soon
 
 date: 2024-07-24, from: Ride Apart, Electric Motorcycle News
 
-Canada and Mexico also don't get it. 
+What about Canada and Mexico, though? 
 
 <https://www.rideapart.com/news/727647/royal-enfield-new-himalayan-pricing/>
 
@@ -216,16 +266,6 @@ date: 2024-07-22, from: Cycle World News
 Royal Enfield debuts its Guerrilla 450 model, a naked roadster that shares much with the latest Himalayan. The bike will be available in the US in 2025. 
 
 <https://www.cycleworld.com/bikes/royal-enfield-guerrilla-450-first-look/>
-
----
-
-## 2025 Ducati Panigale V4 First Details
-
-date: 2024-07-22, from: Cycle World News
-
-European documents show that the new 2025 Ducati Panigale V4 will have a peakier power delivery and possibly a double-sided swingarm. 
-
-<https://www.cycleworld.com/motorcycle-news/ducati-panigale-v4-first-details/>
 
 ---
 

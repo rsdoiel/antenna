@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.30
-updated: 2024-07-24 07:36:27
+updated: 2024-07-24 16:18:04
 ---
 
 # mid central 2024.30
 
-(date: 2024-07-24 07:36:27)
+(date: 2024-07-24 16:18:04)
+
+---
+
+## Take-Back-Half precision diode charge pump
+
+date: 2024-07-24, from: EDN Blog
+
+<img width="1334" height="810" src="https://www.edn.com/wp-content/uploads/THCP_Figure3.png?fit=1334%2C810" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/THCP_Figure3.png?w=1334 1334w, https://www.edn.com/wp-content/uploads/THCP_Figure3.png?w=300 300w, https://www.edn.com/wp-content/uploads/THCP_Figure3.png?w=768 768w, https://www.edn.com/wp-content/uploads/THCP_Figure3.png?w=1024 1024w" sizes="(max-width: 1334px) 100vw, 1334px" /><p>The “Take-Back-Half” precision diode charge pump adds a half-amplitude reverse-polarity pump that subtracts error terms.</p>
+<p>The post <a href="https://www.edn.com/take-back-half-precision-diode-charge-pump/" data-wpel-link="internal">Take-Back-Half precision diode charge pump</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/take-back-half-precision-diode-charge-pump/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2024-07-24 07:36:27
 
 date: 2024-07-24, from: EDN Blog
 
-<img width="705" height="398" src="https://www.edn.com/wp-content/uploads/Hero-image-11.jpg?fit=705%2C398" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-11.jpg?w=705 705w, https://www.edn.com/wp-content/uploads/Hero-image-11.jpg?w=300 300w" sizes="(max-width: 705px) 100vw, 705px" /><p>Passive techniques are popular because they are usually less expensive and more reliable than active ones because there are no fans.</p>
+<img width="705" height="398" src="https://www.edn.com/wp-content/uploads/Hero-image-11.jpg?fit=705%2C398" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-11.jpg?w=705 705w, https://www.edn.com/wp-content/uploads/Hero-image-11.jpg?w=300 300w" sizes="(max-width: 705px) 100vw, 705px" /><p>Passive techniques are popular because they are usually less expensive and more reliable than active ones because there are no fans.</p>
 <p>The post <a href="https://www.edn.com/how-passive-cooling-advances-electronics-sustainability/" data-wpel-link="internal">How passive cooling advances electronics sustainability</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
