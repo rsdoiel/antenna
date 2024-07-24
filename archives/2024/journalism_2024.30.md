@@ -1,11 +1,31 @@
 ---
 title: journalism 2024.30
-updated: 2024-07-23 08:47:13
+updated: 2024-07-24 07:36:31
 ---
 
 # journalism 2024.30
 
-(date: 2024-07-23 08:47:13)
+(date: 2024-07-24 07:36:31)
+
+---
+
+## Why “Sorry, I don’t know” is sometimes the best answer: The Washington Post’s technology chief on its first AI chatbot
+
+date: 2024-07-23, from: Nieman Journalism Lab
+
+Earlier this month, The Washington Post debuted its first generative AI chatbot, Climate Answers. The chatbot’s promise is to take in readers&#8217; most pressing questions about climate change science, policy, and politics, and turn out a brief summary of the Post’s reporting on that topic, with full citations and link outs to relevant stories. The... 
+
+<https://www.niemanlab.org/2024/07/the-washington-posts-cto-on-first-ai-chatbot-climate-answers/>
+
+---
+
+## Browser cookies, as unkillable as cockroaches, won’t be leaving Google Chrome after all
+
+date: 2024-07-23, from: Nieman Journalism Lab
+
+Good news or bad news? It depends. Are you an internet user who cares about privacy? An internet publisher who cares about making money? Or somewhere in between? On Monday afternoon, Google shocked the online-advertising world by saying that, actually, despite years of promises, it wouldn&#8217;t be dropping cookies from its world-dominant web browser, Chrome.... 
+
+<https://www.niemanlab.org/2024/07/browser-cookies-as-unkillable-as-cockroaches-wont-be-leaving-google-chrome-after-all/>
 
 ---
 

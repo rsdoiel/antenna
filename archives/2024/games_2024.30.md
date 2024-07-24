@@ -1,11 +1,111 @@
 ---
 title: games 2024.30
-updated: 2024-07-23 08:47:12
+updated: 2024-07-24 07:36:30
 ---
 
 # games 2024.30
 
-(date: 2024-07-23 08:47:12)
+(date: 2024-07-24 07:36:30)
+
+---
+
+## Apparently someone spent more than $21,000 to rig the Hugo Awards, badly
+
+date: 2024-07-24, updated: 2024-07-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24204754/hugo-awards-2024-rigging-vote-scandal-worldcon>
+
+---
+
+## The 25 best games on Game Pass
+
+date: 2024-07-24, updated: 2024-07-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox>
+
+---
+
+## Marvel Studios can fix the MCU — but it has to start Saturday at SDCC
+
+date: 2024-07-24, updated: 2024-07-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/sdcc/24203804/marvel-studios-sdcc-2024-hall-h-panel-preview>
+
+---
+
+## Deadpool & Wolverine makes the MCU the villain — and not in a good way
+
+date: 2024-07-23, updated: 2024-07-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/review/24204724/deadpool-and-wolverine-review-mcu-x-men>
+
+---
+
+## How to pick the best pipelines for you in College Football 25
+
+date: 2024-07-23, updated: 2024-07-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/guides/24204524/college-football-25-best-pipelines-cfb>
+
+---
+
+## How to throw a touch pass in EA Sports College Football 25
+
+date: 2024-07-23, updated: 2024-07-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/guides/24204359/ea-sports-college-football-25-touch-pass-how-throw-cfb>
+
+---
+
+## Nintendo revokes Splatoon championship title following misconduct from winning team
+
+date: 2024-07-23, updated: 2024-07-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/nintendo/24204551/nintendo-splatoon-championship-revoked-racism-allegations>
+
+---
+
+## Call of Duty finally comes to Game Pass with Modern Warfare 3 release
+
+date: 2024-07-23, updated: 2024-07-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24204402/call-of-duty-modern-warfare-3-game-pass-cod-mw3>
+
+---
+
+## Pokémon Go ‘Grow Together’ Timed Research — is it worth it?
+
+date: 2024-07-23, updated: 2024-07-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24200541/grow-together-paid-timed-research-worth-it>
+
+---
+
+## The Operator is the deep state sim I’ve craved for so long
+
+date: 2024-07-23, updated: 2024-07-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/review/24203919/the-operator-indie-game-mystery-puzzle-federal-intelligence>
 
 ---
 

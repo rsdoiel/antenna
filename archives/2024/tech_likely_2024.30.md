@@ -1,11 +1,472 @@
 ---
 title: tech likely 2024.30
-updated: 2024-07-23 08:47:10
+updated: 2024-07-24 07:36:28
 ---
 
 # tech likely 2024.30
 
-(date: 2024-07-23 08:47:10)
+(date: 2024-07-24 07:36:28)
+
+---
+
+## The Physics of Cold Water May Have Jump-Started Complex Life
+
+date: 2024-07-24, from: Quanta Magazine
+
+When seawater gets cold, it gets viscous. This fact could explain how single-celled ocean creatures became multicellular when the planet was frozen during “Snowball Earth,” according to experiments.            <p>The post <a href="https://www.quantamagazine.org/the-physics-of-cold-water-may-have-jump-started-complex-life-20240724/" target="_blank">The Physics of Cold Water May Have Jump-Started Complex Life</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/the-physics-of-cold-water-may-have-jump-started-complex-life-20240724/>
+
+---
+
+## Don’t Salsa in the Pool
+
+date: 2024-07-24, updated: 2024-07-24, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/07/24/dont-salsa-in-the-pool/>
+
+---
+
+## Media Invited to Watch NASA Stream 4K Video to Space
+
+date: 2024-07-24, from: NASA breaking news
+
+NASA invites media to attend a real-time laser communications experiment at the agency’s Glenn Research Center in Cleveland. Researchers are testing a laser communications networking system that could enable the public to watch the first woman and first person of color walk on the Moon in HD during the Artemis missions. The media availability begins [&#8230;] 
+
+<https://www.nasa.gov/news-release/media-invited-to-watch-nasa-stream-4k-video-to-space/>
+
+---
+
+## NASA Streams First 4K Video from Aircraft to Space Station, Back
+
+date: 2024-07-24, from: NASA breaking news
+
+A team at NASA’s Glenn Research Center in Cleveland streamed 4K video footage from an aircraft to the International Space Station and back for the first time using optical, or laser, communications. The feat was part of a series of tests on new technology that could provide live video coverage of astronauts on the Moon [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-streams-first-4k-video-from-aircraft-to-space-station-back/>
+
+---
+
+## 45 Years Ago: Space Shuttle Enterprise Completes Launch Pad Checkout
+
+date: 2024-07-24, from: NASA breaking news
+
+On July 23, 1979, space shuttle Enterprise completed its time as a pathfinder vehicle at Launch Pad 39A at NASA’s Kennedy Space Center (KSC) in Florida. Workers towed it back to the Vehicle Assembly Building (VAB). During its four-month stay at KSC, Enterprise validated procedures for the assembly of the space shuttle stack and interfaces [&#8230;] 
+
+<https://www.nasa.gov/history/45-years-ago-space-shuttle-enterprise-completes-launch-pad-checkout/>
+
+---
+
+## CrowdStrike fiasco highlights growing Sino-Russian tech independence
+
+date: 2024-07-24, updated: 2024-07-24, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Analysis</span> China is playing a long game, which could pay off on an enormous scale</h4>
+      <p>Some of the common arguments for moving away from proprietary operating systems are about increasing personal (or corporate) freedom and decreasing expenditure, but there are bigger things at stake.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/24/foss_gets_geopolitical/>
+
+---
+
+## LIVE: NASA is with you from Oshkosh
+
+date: 2024-07-24, from: NASA breaking news
+
+Welcome to NASA Aeronautics&#8217; live update page with news about NASA events and other festivities taking place throughout the week at EAA AirVenture Oshkosh 2024, which we simply call Oshkosh. Still Busy on Day 3 Wednesday, July 24 at 9 a.m. EDT Good morning from this, Day 3 of EAA AirVenture Oshkosh 2024. Here at [&#8230;] 
+
+<https://www.nasa.gov/aeronautics/live-nasa-is-with-you-from-oshkosh/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-24, from: Miguel de Icaza Mastondon feed)
+
+<p>I made a letter from the tooth fairy to the 8yo.  Then I added an AI generated tooth fairy logo to the letter.</p><p>This morning:<br />“Wow you got a letter form the tooth fairy, and this is their official logo”<br />“Dad, it’s AI generated”</p> 
+
+<https://mastodon.social/@Migueldeicaza/112841336750918771>
+
+---
+
+## Guadalcanal: 2
+
+date: 2024-07-24, from: Ayjay blog
+
+How vividly did the Guadalcanal campaign impress itself on the American imagination? Well, this movie was released around nine months after the last Japanese soldiers were driven from the island. But all the media were moving at fast pace in those days. In propaganda, as in so many other things — internment of undesirables, terror-bombing [&#8230;] 
+
+<https://blog.ayjay.org/guadalcanal-2/>
+
+---
+
+## 2024-07-24 Gridmapper Local
+
+date: 2024-07-24, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-24-gridmapper-local">2024-07-24 Gridmapper Local</h1>
+
+<p>I was wondering whether I should get back to Gridmapper, but not using Javascript and the web but using Common Lisp.
+I spent some time on this <a href="2022-07-20_Gridmapper_CL">two years ago</a>.
+Of course by now I have forgotten everything – like how to build it!</p>
+
+<p>This is the Makefile that seems to work, given that I have both <code>gridmapper.asd</code> and <code>gridmapper.lisp</code> in the current directory.</p>
+
+<pre><code>SHELL = /bin/sh
+LISP ?= sbcl --non-interactive
+PWD   = $(shell pwd)
+
+build:
+	$(LISP) --eval '(asdf:load-asd &quot;$(PWD)/gridmapper.asd&quot;)' \
+	--eval '(asdf:load-system :gridmapper)' \
+	--eval '(asdf:make :gridmapper)' \
+	--eval '(quit)'
+</code></pre>
+
+<p>Surely there is a better way to do this?</p>
+
+<p>If I replace <code>(asdf:load-system :gridmapper)</code> with <code>(ql:quickload :gridmapper)</code> it no longer gives me a warning about <code>cl-colors.asd</code> which I don&rsquo;t know anything about. I guess the warning is still preferable because it means no dependency on Quicklisp? I have no idea. The <a href="https://src.alexschroeder.ch/gridmapper-local.git">README</a> comes with a long explanation of what to install and how to do it, in order to build Gridmapper – including the use of Quicklisp.</p>
+
+<p>The hairiest part is that I need access to a function that isn&rsquo;t exported from the Cairo package. So now I&rsquo;m accessing the private function (using two colons):</p>
+
+<pre><code>;; Sorry for the ugly hack… cairo_format_stride_for_width is not exported.
+(cairo::cairo_format_stride_for_width :CAIRO_FORMAT_ARGB32 (surface-width surface)))))
+</code></pre>
+
+<p>Two years ago, there was a different solution to this that apparently no longer works. 🤷</p>
+
+<p><a class="tag" href="/search/?q=%23Common_Lisp">#Common Lisp</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-24-gridmapper-local>
+
+---
+
+## TrackPack: a smart backpack for horse riders
+
+date: 2024-07-24, from: Raspberry Pi News (.com)
+
+<p>TrackPack is a smart backpack designed for horse riders,  featuring turn signals, automatic lights, and route tracking. </p>
+<p>The post <a href="https://www.raspberrypi.com/news/trackpack-a-smart-backpack-for-horse-riders/">TrackPack: a smart backpack for horse riders</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/trackpack-a-smart-backpack-for-horse-riders/>
+
+---
+
+## 2024-07-24 My ed, wondering
+
+date: 2024-07-24, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-24-my-ed-wondering">2024-07-24 My ed, wondering</h1>
+
+<p>Sometimes I have the urge to write a small editor, something like the kilo project: so small that it is barely usable. I also imagine it to have a sort of conversational UI – which I guess ed has? – if ed is your grumpiest of companions! – or maybe the M-x commands for emacs – and I guess I‘m looking at <a href="Odd%C2%B5">Oddµ</a> as a site generator and Markdown file server and I wonder: what sort of editor would I need to maintain this? What sort of minimal SVG editing capabilities would be nice to have?</p>
+
+<p>What if I could use an ed-like &ldquo;conversational&rdquo; interface, with better prompts, wrapped in <code>readline</code> for ‹Up, Return› combos to repeat things, opening multiple files, switching between them, with completion or menus, and saving it all in one go.</p>
+
+<p>I think I will install <code>rlwrap</code> as a first step and wrap <code>ed</code> and <code>mail</code> in it.</p>
+
+<p>When I read the Wikipedia pages of <code>sam</code> and <code>acme</code> I get the feeling that the started out at the same point and then moved towards a different, full-screen, mouse-support paradigm.</p>
+
+<p>What would my ed have, in addition to ed?</p>
+
+<p>My ed would have the notion of &ldquo;units&rdquo;. Perhaps these can be defined by a separator marker, a regular expression. A &ldquo;line&rdquo; is a unit separated by a newline, or a &ldquo;beginning of line&rdquo; regular expression. A &ldquo;sentence&rdquo; is a unit separated by all sorts of punctuation followed by zero or more quotes and one or more spaces, and so on. A &ldquo;block&rdquo; is a unit separated by empty lines, or special line beginnings such as header markup or list item markup. A &ldquo;section&rdquo; is a unit separated by line beginnings with header markup. These unit names and the corresponding separators are defined in a file, per type, so that they can be changed.</p>
+
+<p>File types are associated with file extensions or special matches (such as looking at the first two lines of a file).</p>
+
+<p>My ed would have a config file so that it can be redefined in parts. For example, every file type has special, system dependent commands to &ldquo;render&rdquo; it, be it compilation, viewing, printing, etc. Perhaps mailcap could be an interesting option to fall back to.</p>
+
+<p>My ed would be line oriented and still offer keyboard navigation using the arrows or vi-style keys. It would have two panes: the top one would show the file content and a cursor or the highlighted unit. The bottom one would be a command line history. The command line history shouldn&rsquo;t be a complete file buffer that can be edited, though, because the temporal ordering seems important to me.</p>
+
+<p>The navigation commands can also be used to modify the selection. Ideally, using arrows to move, shift arrows to select, and typing commands would all work seamlessly.</p>
+
+<p>My ed would have commands that are words or even phrases, and can defined more of them in files, and edit and &ldquo;source&rdquo; them into your session. It would have understandable errors.</p>
+
+<p>My ed would have a snarf buffer or a clipboard to use for cut, copy and insert. Cutting and copying would work on whole units.</p>
+
+<p>My ed would have infinite undo and redo and an auto-save file. Perhaps the auto-save file would contain the redo script.</p>
+
+<p>I&rsquo;m starting to wonder whether I&rsquo;m reinventing vi, here. 🤔</p>
+
+<p><a class="tag" href="/search/?q=%23Editors">#Editors</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-24-ed>
+
+---
+
+## 2024-07-21 What was hard about the Oddµ architecture?
+
+date: 2024-07-24, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-21-what-was-hard-about-the-oddµ-architecture">2024-07-21 What was hard about the Oddµ architecture?</h1>
+
+<p>If you know Go, I think you&rsquo;ll find the architecture of Oddmu to be very traditional: There is a list of actions it knows how to handle when it serves a site on the web and a list of commands it understands when called from the shell. Everything involving HTML or the RSS feed uses a Go template.</p>
+
+<p>There were two things that were tricky, in hindsight. I didn&rsquo;t know enough Go to know how best to do it and so it took me a long time to figure them out.</p>
+
+<p>The first was what data to keep in memory. I didn&rsquo;t want search to involve a database so I experimented a lot with different ways of indexing the content. Trigrams? Full-text? And what about scoring? In the end, I dropped all of that. The only thing I keep in memory is a map of page names and page titles as well as a map of hashtags and pages. I find that searching titles and hashtags is what I do most often. For everything else, I search the files. This, of course, is much slower but for a site of ten thousand pages it&rsquo;s still fast enough. So figuring out how to do search was hard. Once I had this figured out, I discovered that keeping maps in memory when there are multiple Go routines being used by the web server means that I need locks. Both of my maps are in fact data structures that each contain a map and a lock. This was new to me and it took me a long time to realize that having the lock was important. For a while, I didn&rsquo;t have those locks. 😅</p>
+
+<p>The second thing that took me a long time to get right is that I wanted pages to be served from Oddµ when it runs as a web server and I wanted to be able to edit files locally and upload them (using rsync, for example) while it was still running on the server. I didn&rsquo;t know about watching the filesystem for changes and had to learn how to do this: a watcher per directory, spawning new watchers when directories are created, and updating those maps I keep in memory as files are added, deleted or edited.</p>
+
+<p>Watching the files introduced another complication, however: What if a user edited a page via the web? I already had code in place that would update my maps. Now the file system watcher would report the same file being written to, resulting in two updates. And what about a change to a file that results in multiple events: create a file, write something to the file, write some more to the file. Three events resulting in three updates? The code is therefore complicated.</p>
+
+<p>If Oddµ knows that a file is going to change ahead of time, like when a user on the web saves an edit, the file is added to a map of ignored files for a second. When the file system watcher sees those changes, no updates are done because it knows that the edit handler already does it.</p>
+
+<p>If Oddµ sees a file change because of somebody editing files directly, a one second timer is started. If another event for the same file arrives, the timer is reset to one second. Only when a second has elapsed without changes does the watcher do the updates to the internal data structures. That is to say, changes made to the file system regarding page title changes or hash tag changes take an effect on the web with a one second delay.</p>
+
+<p>So now, with all that in place, think of all the go routines running in parallel. Every one second timer is a go routine. Every go routine accessing a map like the map if files to ignore means that this map needs to be a data structure containing a map and a lock.</p>
+
+<p>When I look at that part of the code, I still get dizzy. 😵‍💫</p>
+
+<p><a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a> <a class="tag" href="/search/?q=%23Programming">#Programming</a></p>
+
+<p><strong>2024-07-21</strong>. <a class="account" href="https://merveilles.town/@bouncepaw" title="@bouncepaw@merveilles.town">@bouncepaw</a> asked about usability issues, specially in the context of using Oddµ for picture galleries. In my case, I think the hardest part is finding particular pictures. Consider <a href="2020-blumen/index">the page of flowers in 2020</a>. I know that there&rsquo;s a sanseveria in bloom on that page, for example. But how can I find it? I can find the page if I search for &ldquo;bogenhanf #pictures&rdquo;, and then I can search for the same word on the page, and then I have to wait for a bit as the browser lazy-loads pictures.</p>
+
+<p>Perhaps, if I could get into the habit of putting the image description into the Markdown alt text, I could index all the images and their alt text, providing direct access to the images. I guess I would also have to add special code to the Markdown renderer that made the alt text visible for regular visitors (as title attribute or as regular paragraphs).
+That&rsquo;d be interesting.</p>
+
+<p><strong>Later</strong>. I have implemented something useful, I hope. If one of the search terms (excluding hashtags and predicates) matches an alt-text of an image, that image is included in the result.</p>
+
+<p>Of course, almost none of my galleries use the alt-text, so right now there aren&rsquo;t many pages that will show results for a query like &ldquo;bogenhanf #pictures&rdquo;.</p>
+
+<p>My expectations regarding alt texts and title attributes for images have changed significantly as I&rsquo;ve spent time on fedi, so I&rsquo;m really not sure what to do about Markdown in this respect. Right now I&rsquo;m in the habit of adding neither alt-text nor title attribute, trying to provide enough text in the paragraphs above or below. With this new search option, that might have to change, too. As a sighted person, I sort of expect the title attribute to be the same as the alt text.</p> 
+
+<https://alexschroeder.ch/view/2024-07-21-what-is-hard-about-oddmu>
+
+---
+
+## What’s the outlook for global food production this year?
+
+date: 2024-07-24, from: Hannah Richie at Substack
+
+So far, USDA projections suggest a big year of production for our key crops. 
+
+<https://www.sustainabilitybynumbers.com/p/global-food-outlook-2024>
+
+---
+
+## Sols 4253-4254: Pit Stop for Contact Science
+
+date: 2024-07-24, from: NASA breaking news
+
+Earth planning date: Monday, July 22, 2024 Last week we wrapped up activities at Fairview Dome and started heading south towards our next potential drill location in the Upper Gediz Vallis ridge campaign. We had about a 29-meter (about 95 feet) drive over the weekend, which set us up nicely for contact science and remote […] 
+
+<https://science.nasa.gov/blogs/sols-4253-4254-pit-stop-for-contact-science/>
+
+---
+
+## Sols 4250-4252: So Many Rocks, So Little Time
+
+date: 2024-07-24, from: NASA breaking news
+
+Earth planning date: Friday, July 19, 2024 As usual with our weekend plans, we are packing a lot of science into today’s three-sol plan. I had the fun of planning a complex and large set of arm activities as the Arm Rover Planner today. Since we did not drive in Wednesday’s plan, we still are […] 
+
+<https://science.nasa.gov/blogs/sols-4250-4252-so-many-rocks-so-little-time/>
+
+---
+
+## New Samsung phones block sideloading by default
+
+date: 2024-07-23, from: OS News
+
+The assault on a user&#8217;s freedom to install whatever they want on what is supposed to be their phone continues. This time, it&#8217;s Samsung adding an additional blocker to users installing applications from outside the Play Store and its own mostly useless Galaxy Store. Technically, Android already blocks sideloading by default at an operating system level. The permission that’s needed to silently install new apps without prompting the user, INSTALL_PACKAGES, can only be granted to preinstalled app stores like the Google Play Store, and it’s granted automatically to apps that request it. The permission that most third-party app stores end up using, REQUEST_INSTALL_PACKAGES, has to be granted explicitly by the user. Even then, Android will prompt the user every time an app with this permission tries to install a new app. Samsung’s Auto Blocker feature takes things a bit further. The feature, first introduced in One UI 6.0, fully blocks the installation of apps from unauthorized sources, even if those sources were granted the REQUEST_INSTALL_PACKAGES permission. ↫ Mishaal Rahman I&#8217;m not entirely sure why Samsung felt the need to add an additional, Samsung-specific blocking mechanism, but at least for now, you can turn it off in the Settings application. This means that in order to install an application from outside of the Play Store and the Galaxy Store on brand new Samsung phones &#8211; the ones shipping with OneUI 6.1.1 &#8211; you need to both give the regular Android permission to do so, but also turn off this nag feature. Having two variants of every application on your Samsung phone wasn&#8217;t enough, apparently. 
+
+<https://www.osnews.com/story/140312/new-samsung-phones-block-sideloading-by-default/>
+
+---
+
+## Google won’t be deprecating third-party cookies from Chrome after all
+
+date: 2024-07-23, from: OS News
+
+This story just never ever ends. After delays, changes in plans, more delays, we now have more changed plans. After years of stalling, Google has now announced it is, in fact, not going to deprecate third-party cookies in Chrome by default. In light of this, we are proposing an updated approach that elevates user choice. Instead of deprecating third-party cookies, we would introduce a new experience in Chrome that lets people make an informed choice that applies across their web browsing, and they’d be able to adjust that choice at any time. We&#8217;re discussing this new path with regulators, and will engage with the industry as we roll this out. ↫ Anthony Chavez Google remains unclear about what, exactly, users will be able to choose between. The consensus seems to be that users will be able to choose between retaining third-party cookies and turning them off, but that&#8217;s based on a statement by the British Competition and Market Authority, and not on a statement from Google itself. It seems reasonable to assume the CMA knows what it&#8217;s talking about, but with a company like Google you never know what&#8217;s going to happen tomorrow, let alone a few months from now. While both Safari and Firefox have already made this move ages ago, it&#8217;s taking Google and Chrome a lot longer to deal with this issue, because Google needs to find different ways of tracking you that are not using third-party cookies. Google&#8217;s own testing with Privacy Sandbox, Chrome&#8217;s sarcastically-named alternative to third-party cookies, shows that it seems to perform reasonable well, which should definitely raise some alarm bells about just how private it really is. Regardless, I doubt this saga will be over any time soon. 
+
+<https://www.osnews.com/story/140309/google-wont-be-deprecating-third-party-cookies-from-chrome-after-all/>
+
+---
+
+##  13-Year-Old Daredevil Jumps Trash Cans in Alley on &#8220;Junker Special&#8221; Bike 
+
+date: 2024-07-23, updated: 2024-07-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/13-year-old-daredevil-jumps-trash-cans-in-alley-on-junker-special-bike>
+
+---
+
+## 10 Things for Mars 10
+
+date: 2024-07-23, from: NASA breaking news
+
+Scientists from around the world are gathering this week in California to take stock of the state of science from Mars and discuss goals for the next steps in exploration of the Red Planet. In the spirit of Mars 10, formally known as the 10th International Conference on Mars, here are 10 recent significant events […] 
+
+<https://science.nasa.gov/solar-system/planets/mars/10-things-for-mars-10/>
+
+---
+
+##  Chronic Pain is Psychedelic. &#8220;In moments of extreme pain, physical or psychological,... 
+
+date: 2024-07-23, updated: 2024-07-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045007-chronic-pain-is-psychedel>
+
+---
+
+##  Flint, MI is giving pregnant residents a &#8220;cash prescription&#8221; of $1500 during... 
+
+date: 2024-07-23, updated: 2024-07-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045000-flint-mi-is-giving-pregna>
+
+---
+
+## Bible Research Systems' THE WORD Processor
+
+date: 2024-07-23, from: Computer ads from the Past
+
+For Those Who Seek. 
+
+<https://computeradsfromthepast.substack.com/p/bible-research-systems-the-word-processor>
+
+---
+
+## Designing Space Exploration With the Human in Mind
+
+date: 2024-07-23, from: NASA breaking news
+
+When designing a new spacecraft or exploration vehicle, there is intense focus on its technical performance. Do its systems perform as expected? What kind of power does it need? Will it safely reach its destination? Equally important, however, is whether that vehicle also works for the humans inside. Can astronauts easily reach critical controls? Do [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/designing-space-exploration-with-the-human-in-mind/>
+
+---
+
+##  How Sci-Fi Movies Have Changed Since the 50s 
+
+date: 2024-07-23, updated: 2024-07-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/how-sci-fi-movies-have-changed-since-the-50s>
+
+---
+
+## Google Breaking URL Shortener Links
+
+date: 2024-07-23, from: Michael Tsai
+
+Google: In 2018, we announced the deprecation and transition of Google URL Shortener because of the changes we&#8217;ve seen in how people find content on the internet, and the number of new popular URL shortening services that emerged in that time. This meant that we no longer accepted new URLs to shorten but that we [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/23/google-breaking-url-shortener-links/>
+
+---
+
+## Scaling Back Apple TV+ Content
+
+date: 2024-07-23, from: Michael Tsai
+
+Hartley Charlton: Apple is in active talks to license more films from major Hollywood studios as it seeks to bolster Apple TV+, according to Bloomberg.Apple has traditionally focused on original productions for its streaming platform, but it is increasingly looking to expand its offerings by acquiring programming from the extensive libraries of established studios, sources [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/23/scaling-back-apple-tv-content/>
+
+---
+
+## India Calls Out App Store
+
+date: 2024-07-23, from: Michael Tsai
+
+Aditya Kalra (via Ryan Christoffel): An investigation by India&#8217;s antitrust body has found that Apple exploited its dominant position in the market for app stores on its iOS operating system, engaging &#8220;in abusive conduct and practices&#8221;, a confidential report seen by Reuters showed.The Competition Commission of India (CCI) has been investigating Apple Inc, opens new [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/23/india-calls-out-app-store/>
+
+---
+
+## NASA Releases First Integrated Ranking of Civil Space Challenges
+
+date: 2024-07-23, from: NASA breaking news
+
+This spring, NASA published a document overviewing almost 200 technology areas requiring further development to meet future exploration, science, and other mission needs – and asked the aerospace community to rate their importance. The goal was to better integrate the community’s most pervasive technical challenges, or shortfalls, to help guide NASA’s space technology development and [&#8230;] 
+
+<https://www.nasa.gov/general/nasa-releases-first-integrated-ranking-of-civil-space-challenges/>
+
+---
+
+##  Livestream of a blooming corpse flower (you know, the big stinky one)... 
+
+date: 2024-07-23, updated: 2024-07-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045009-livestream-of-a-blooming->
+
+---
+
+## NASA, Boeing to Discuss Crew Flight Test Mission, Ground Testing
+
+date: 2024-07-23, from: NASA breaking news
+
+Leadership from NASA and Boeing will participate in a media teleconference at 11:30 a.m. EDT Thursday, July 25, to provide the latest status of the agency’s Boeing Crew Flight Test mission aboard the International Space Station. Audio of the media teleconference will stream live on the agency’s website: https://www.nasa.gov/nasatv Participants include: Media interested in participating [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-boeing-to-discuss-crew-flight-test-mission-ground-testing/>
+
+---
+
+## The Kremlin Jails the Father of Russia’s Internet
+
+date: 2024-07-23, from: Tilde.news
+
+<p><a href="https://tilde.news/s/cbiezf/kremlin_jails_father_russia_s_internet">Comments</a></p> 
+
+<https://cepa.org/article/russia-jails-the-father-of-russias-internet/>
+
+---
+
+##  &#8220;Trump&#8217;s Massive Deportation Plan Echoes Concentration Camp History&#8221; 
+
+date: 2024-07-23, updated: 2024-07-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/trumps-massive-deportation-plan-echoes-concentration-camp-history>
+
+---
+
+##  A generic version of a drug that&#8217;s &#8220;as close as we&#8217;ve ever... 
+
+date: 2024-07-23, updated: 2024-07-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044995-a-generic-version-of-a>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-07-23, from: Tomosino's Mastodon feed)
+
+<p>I was playing around with CSS aspect-ratio now that it has solid evergreen support, and wanted to see if I could apply it to Picture tags (which I use for responsive imagery) in a smart, concise way. I wanted to accomplish a few goals:</p><ol><li>No content shift on load</li><li>Display some sort of placeholder while images load</li><li>Ensure aspect-ratio is respected, especially when inside flexbox rows and columns</li><li>(for funsies) styling the alt text on the placeholder when an image fails to load for a pretty fallback</li></ol><p>I found several little tips and tricks around the web, but ultimately the secret sauce was flex-basis and flex-grow settings.</p><p>Here's where I landed:<br><a href="https://codepen.io/jamestomasino/pen/dyBXgop" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">codepen.io/jamestomasino/pen/d</span><span class="invisible">yBXgop</span></a></p><p><a href="https://tilde.zone/tags/css" class="mention hashtag" rel="tag">#<span>css</span></a> <a href="https://tilde.zone/tags/picture" class="mention hashtag" rel="tag">#<span>picture</span></a> <a href="https://tilde.zone/tags/webdev" class="mention hashtag" rel="tag">#<span>webdev</span></a></p> 
+
+<https://tilde.zone/@tomasino/112836780272294766>
+
+---
+
+## Linking Through Hoops
+
+date: 2024-07-23, from: Tedium site
+
+You would not believe the level of insanity you have to go through to allow a link to see an organic audience on LinkedIn. 
+
+<https://feed.tedium.co/link/15204/16751240/linkedin-complex-linking-schemes>
+
+---
+
+##  Kamala Harris is to the left of Joe Biden on health care... 
+
+date: 2024-07-23, updated: 2024-07-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044994-kamala-harris-is-to-the>
 
 ---
 
@@ -65,16 +526,6 @@ date: 2024-07-23, updated: 2024-07-23, from: One Foot Tsunami
  
 
 <https://onefoottsunami.com/2024/07/23/fashionably-late-to-update/>
-
----
-
-## LIVE: NASA is with you from Oshkosh
-
-date: 2024-07-23, from: NASA breaking news
-
-Welcome to NASA Aeronautics&#8217; live update page with news about NASA events and other festivities taking place throughout the week at EAA AirVenture Oshkosh 2024, which we simply call Oshkosh. A Two-Minute Tour Tuesday, July 23 at 11 a.m. EDT Be sure to give us a follow on social media for more coverage of Oshkosh [&#8230;] 
-
-<https://www.nasa.gov/aeronautics/live-nasa-is-with-you-from-oshkosh/>
 
 ---
 
@@ -173,6 +624,16 @@ date: 2024-07-23, from: Dave Winer's Scripting News
 
 ---
 
+## Discussing Markdown and structured content with Niklas Begley
+
+date: 2024-07-23, from: Blog by Fabrizio Ferri-Benedetti
+
+<p>Last week I had the pleasure of conversing with Niklas Begley from Doctave. It was a follow-up to <a href="https://passo.uno/pros-cons-markdown/">The Pros and Cons of Markdown</a>, focused on why Markdown and other lightweight markup languages could benefit from some structure, in the DITA sense, but without going the XML way. Hint: There could be a bit of JSON schemas involved.</p> 
+
+<https://passo.uno/markdown-structured-content/>
+
+---
+
 **@Dave Winer's Scripting News** (date: 2024-07-23, from: Dave Winer's Scripting News)
 
 <img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/23/hopeKamala.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I was able to follow <a href="https://x.com/kamalahq">kamalhq</a> on twitter. This <a href="https://www.yahoo.com/news/trump-lover-elon-musk-already-145940678.html">report</a> says that Musk is rate-limiting followers on that account.  Of course we <a href="http://scripting.com/2017/01/14/whatIfTwtrIsBoughtByARepub.html">warned</a> what could happen if a Republican bought twitter, but I didn't honestly contemplate that a fascist would. These days our greatest fears aren't scary enough. People laugh that Musk paid too much for twitter, but if the US ends up as an autocracy, the oligarch that owns the entire news distribution system for the world will probably have the last laugh. BTW, if you want to know why we're so thrilled to have Harris as the candidate, even though we didn't want Joe to give in, it's because no informed and sane person wants to live in a new Trump term. We tried that if you recall. The hope you hear now is much greater than the hope we had when Obama was selling that (though hope was a good word for it). Today it's the hope that we won't be deported or worse. 
@@ -197,49 +658,6 @@ date: 2024-07-23, updated: 2024-07-23, from: Liam Proven's articles at the Regis
       <p>CachyOS is a performance-optimized rebuild of Arch Linux, with a simpler installer and dozens of desktops and options to tweak. Stable reliability, not so much.</p> 
 
 <https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/23/cachyos_arch_linux/>
-
----
-
-## 2024-07-21 What was hard about the Oddµ architecture?
-
-date: 2024-07-23, from: Alex Schroeder's Blog
-
-<h1 id="2024-07-21-what-was-hard-about-the-oddµ-architecture">2024-07-21 What was hard about the Oddµ architecture?</h1>
-
-<p>If you know Go, I think you&rsquo;ll find the architecture of Oddmu to be very traditional: There is a list of actions it knows how to handle when it serves a site on the web and a list of commands it understands when called from the shell. Everything involving HTML or the RSS feed uses a Go template.</p>
-
-<p>There were two things that were tricky, in hindsight. I didn&rsquo;t know enough Go to know how best to do it and so it took me a long time to figure them out.</p>
-
-<p>The first was what data to keep in memory. I didn&rsquo;t want search to involve a database so I experimented a lot with different ways of indexing the content. Trigrams? Full-text? And what about scoring? In the end, I dropped all of that. The only thing I keep in memory is a map of page names and page titles as well as a map of hashtags and pages. I find that searching titles and hashtags is what I do most often. For everything else, I search the files. This, of course, is much slower but for a site of ten thousand pages it&rsquo;s still fast enough. So figuring out how to do search was hard. Once I had this figured out, I discovered that keeping maps in memory when there are multiple Go routines being used by the web server means that I need locks. Both of my maps are in fact data structures that each contain a map and a lock. This was new to me and it took me a long time to realize that having the lock was important. For a while, I didn&rsquo;t have those locks. 😅</p>
-
-<p>The second thing that took me a long time to get right is that I wanted pages to be served from Oddµ when it runs as a web server and I wanted to be able to edit files locally and upload them (using rsync, for example) while it was still running on the server. I didn&rsquo;t know about watching the filesystem for changes and had to learn how to do this: a watcher per directory, spawning new watchers when directories are created, and updating those maps I keep in memory as files are added, deleted or edited.</p>
-
-<p>Watching the files introduced another complication, however: What if a user edited a page via the web? I already had code in place that would update my maps. Now the file system watcher would report the same file being written to, resulting in two updates. And what about a change to a file that results in multiple events: create a file, write something to the file, write some more to the file. Three events resulting in three updates? The code is therefore complicated.</p>
-
-<p>If Oddµ knows that a file is going to change ahead of time, like when a user on the web saves an edit, the file is added to a map of ignored files for a second. When the file system watcher sees those changes, no updates are done because it knows that the edit handler already does it.</p>
-
-<p>If Oddµ sees a file change because of somebody editing files directly, a one second timer is started. If another event for the same file arrives, the timer is reset to one second. Only when a second has elapsed without changes does the watcher do the updates to the internal data structures. That is to say, changes made to the file system regarding page title changes or hash tag changes take an effect on the web with a one second delay.</p>
-
-<p>So now, with all that in place, think of all the go routines running in parallel. Every one second timer is a go routine. Every go routine accessing a map like the map if files to ignore means that this map needs to be a data structure containing a map and a lock.</p>
-
-<p>When I look at that part of the code, I still get dizzy. 😵‍💫</p>
-
-<p><a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a> <a class="tag" href="/search/?q=%23Programming">#Programming</a></p>
-
-<p><strong>2024-07-21</strong>. <a class="account" href="https://merveilles.town/@bouncepaw" title="@bouncepaw@merveilles.town">@bouncepaw</a> asked about usability issues, specially in the context of using Oddµ for picture galleries. In my case, I think the hardest part is finding particular pictures. Consider <a href="2020-blumen/index">the page of flowers in 2020</a>. I know that there&rsquo;s a sanseveria in bloom on that page, for example. But how can I find it? I can find the page if I search for &ldquo;bogenhanf #pictures&rdquo;, and then I can search for the same word on the page, and then I have to wait for a bit as the browser lazy-loads pictures.</p>
-
-<p>Perhaps, if I could get into the habit of putting the image description into the Markdown alt text, I could index all the images and their alt text, providing direct access to the images. I guess I would also have to add special code to the Markdown renderer that made the alt text visible for regular visitors (as title attribute or as regular paragraphs).
-That&rsquo;d be interesting.</p>
-
-<p><strong>Later</strong>. I have implemented something useful, I hope. If one of the search terms (excluding hashtags and predicates) matches an alt-text of an image, that image is included in the result.</p>
-
-<p>Of course, almost none of my galleries use the alt-text, so right now there aren&rsquo;t many pages that will show results for a query like &ldquo;bogenhanf #pictures&rdquo;.</p>
-
-<p>My expectations regarding alt texts and title attributes for images have changed significantly as I&rsquo;ve spent time on fedi, so I&rsquo;m really not sure what to do about Markdown in this respect. Right now I&rsquo;m in the habit of adding neither alt-text nor title attribute, trying to provide enough text in the paragraphs above or below. With this new search option, that might have to change, too. As a sighted person, I sort of expect the title attribute to be the same as the alt text.</p>
-
-<p><strong>2024-07-22</strong>. Sometimes I have the urge to write a small editor, something like the kilo project: so small that it is barely usable. I also imagine it to have a sort of conversational UI – which I guess ed has? – if ed is your grumpiest of companions! – or maybe the M-x commands for emacs – and I guess I‘m looking at Oddmu as a site generator and Markdown file server and I wonder: what sort of editor would I need to maintain this? What sort of minimal SVG editing capabilities would be nice to have?</p> 
-
-<https://alexschroeder.ch/view/2024-07-21-what-is-hard-about-oddmu>
 
 ---
 
@@ -584,6 +1002,73 @@ Maybe it&#39;s worth adding a {recursive} modifier to allow recursion?</p>
  
 
 <https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/143#note_193840>
+
+---
+
+## Why The Llama 3.1 Announcement Is Huge
+
+date: 2024-07-23, updated: 2024-07-23, from: Tom Kellog blog
+
+<p>Today Meta announced a new LLM, <a href="https://ai.meta.com/blog/meta-llama-3-1/">Llama 3.1 405B</a> and along with it, a great letter by
+Mark Zuckerburg about <a href="https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/">why open source is good for developers, Meta &amp; the world</a>.
+It might seem redundant, amidst the flood of other AI models being released, but I do think this
+is a big moment, for 4 reasons.</p> 
+
+<http://timkellogg.me/blog/2024/07/23/llama-3.1>
+
+---
+
+## Thematic Book Series: How Circular is the Circular Economy?
+
+date: 2024-07-23, from: Blog Muffinlabs
+
+<div class="article-img ">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2024/07/thematic-book-series-how-circular-is-the-circular-economy/images/dithers/coverthumbnailGREY3_dithered.png" alt='Image: Book cover.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Book cover. 
+</figcaption>
+</div>
+</div>
+<p><span id="ft_img"></span></p>
+<ul>
+<li>Buy the <a href="https://www.lulu.com/shop/kris-de-decker/how-circular-is-the-circular-economy/paperback/product-84n2mvv.html?q=how+circular+is+the+circular+economy&amp;page=1&amp;pageSize=4">print edition</a>.</li>
+<li>Buy the <a href="https://payhip.com/b/76Cnm">epub edition</a>.</li>
+</ul>
+<p>The circular economy – the newest magical word in the sustainable development vocabulary – promises economic growth without environmental destruction or waste. However, growth makes a circular economy impossible, even if we recycle all raw materials and all recycling is 100% efficient. No technology can change that because it&rsquo;s not a technological problem. In addition, many modern products are too complex to recycle.</p>
+<p>In this series of articles, LOW←TECH MAGAZINE explores how the circularity of various technologies like bicycles, solar panels, and wind turbines evolves. Placing the recycling of resources in a historical context makes clear that we are not moving toward a circular economy but rather increasingly away from it.</p>
+<h2 id="contents-table">Contents table:</h2>
+<ul>
+<li>How circular is the circular economy?</li>
+<li>Can we make bicycles sustainable again?</li>
+<li>Plastic waste in the fuel tank?</li>
+<li>Recycling animal and human manure is the key to sustainable farming</li>
+<li>How to make wind power sustainable again?</li>
+<li>Reinventing the small wind turbine</li>
+<li>How to build a low-tech solar panel?</li>
+<li>How to escape from the Iron Age?</li>
+</ul>
+<h2 id="available-in-our-bookshop">Available in our bookshop:</h2>
+<ul>
+<li><a href="https://www.lulu.com/shop/kris-de-decker/how-circular-is-the-circular-economy/paperback/product-84n2mvv.html?q=how+circular+is+the+circular+economy&amp;page=1&amp;pageSize=4">Print edition</a>.</li>
+<li><a href="https://payhip.com/b/76Cnm">Epub edition</a>.</li>
+</ul>
+<p><a href="https://www.patreon.com/lowtechmagazine">Patrons</a> get free access to ebooks, as well as early access to new print books at a reduced price.</p>
+<h2 id="other-books-in-the-series">Other books in the series:</h2>
+<ul>
+<li>
+<p><a href="https://lulu.com/shop/roel-roscam-abbing-and-marie-otsuka-and-kris-de-decker/how-to-build-a-low-tech-internet/paperback/product-9yq8v7.html?q=&amp;page=1&amp;pageSize=4">How to build a low-tech internet?</a>, Kris De Decker, Roel Roscam Abbing, Marie Otsuka, 2023. <a href="https://payhip.com/b/tZwV9">Ebook edition</a>.</p>
+</li>
+<li>
+<p><a href="https://www.lulu.com/shop/kris-de-decker/how-to-downsize-a-transport-network/paperback/product-42n4p7.html?q=&amp;page=1&amp;pageSize=4">How to downsize a transport network?</a>, Kris De Decker, 2023. <a href="https://payhip.com/b/foXDM">Ebook edition</a>.</p>
+</li>
+<li>
+<p><a href="https://www.lulu.com/shop/kris-de-decker/heating-people-not-spaces/paperback/product-zm52en6.html?q=heating+people+not+spaces&amp;page=1&amp;pageSize=4">Heating people not spaces</a>, Kris De Decker, 2024. <a href="https://payhip.com/b/AXGN2">Ebook edition</a></p>
+</li>
+</ul>
+<p>The Low-tech Magazine archives are also available as a <a href="https://solar.lowtechmagazine.com/offline-reading/">chronological series consisting of four volumes</a>.</p> 
+
+<https://solar.lowtechmagazine.com/2024/07/thematic-book-series-how-circular-is-the-circular-economy/>
 
 ---
 
@@ -1176,7 +1661,7 @@ Thank you, Mr. President.
 
 **@Miguel de Icaza Mastondon feed** (date: 2024-07-22, from: Miguel de Icaza Mastondon feed)
 
-<p>Last night I went to sleep at 3:30am because I was watching TikTok’s.</p><p>And I don’t regret a single moment.</p> 
+<p>Last night I went to sleep at 3:30am because I was watching TikToks</p><p>And I don’t regret a single moment.</p> 
 
 <https://mastodon.social/@Migueldeicaza/112827688781371497>
 
@@ -1261,9 +1746,9 @@ date: 2024-07-22, from: Blog Muffinlabs
 
 <div class="article-img ">
 <figure data-imgstate="dither">
-<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-2_dithered.png" alt='Image: Ebook.' loading="lazy"/></figure>
+<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-2_dithered.png" alt='Image: Ebook. Photo: Marie Verdeil.' loading="lazy"/></figure>
 <figcaption class="caption">
- Image: Ebook. 
+ Image: Ebook. Photo: Marie Verdeil. 
 </figcaption>
 </div>
 </div>
@@ -1271,17 +1756,17 @@ date: 2024-07-22, from: Blog Muffinlabs
 <p><a href="https://patreon.com/lowtechmagazine">Patrons get free access to all ebooks and PDF archives</a>.</p>
 <div class="article-img ">
 <figure data-imgstate="dither">
-<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-3_dithered.png" alt='Image: Low-tech Magazine Ebook.' loading="lazy"/></figure>
+<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-3_dithered.png" alt='Image: Low-tech Magazine Ebook. Photo: Marie Verdeil.' loading="lazy"/></figure>
 <figcaption class="caption">
- Image: Low-tech Magazine Ebook. 
+ Image: Low-tech Magazine Ebook. Photo: Marie Verdeil. 
 </figcaption>
 </div>
 </div>
 <div class="article-img  vertical">
 <figure data-imgstate="dither">
-<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-1_dithered.png" alt='Image: Low-tech Magazine Ebook.' loading="lazy"/></figure>
+<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-1_dithered.png" alt='Image: Low-tech Magazine Ebook. Photo: Marie Verdeil.' loading="lazy"/></figure>
 <figcaption class="caption">
- Image: Low-tech Magazine Ebook. 
+ Image: Low-tech Magazine Ebook. Photo: Marie Verdeil. 
 </figcaption>
 </div>
 </div> 
@@ -1375,7 +1860,7 @@ date: 2024-07-21, from: Manu - I write blog
 </blockquote>
 <p>I think this is a good definition. We begin by making it clear that we need <em>“living things”</em> to have a community and considering the weird AI phase we’re going through that’s probably worth stating. So bots are out, humans are in.</p>
 <p>We then move on to what makes a community a community: the sharing of some <em>“socially significant characteristic”</em>. In the context of online communities, I like to refer to that as the <em>“what are we here for”</em> characteristic. At a fundamental level, members of a community have to share the same motivations to be there in the first place. If those motivations start to diverge then things quickly fall apart.</p>
-<p>It’s like politics. You can have different ideas on how things should be done—and we can debate those forever—but we have to agree that, at a fundamental, level we do want to move in the same general direction: make the place better. The devil’s in the details and we can discuss what better means but there has to be at least some common ground in the overall direction. Without that, things will fall apart. And things might fall apart even with a common ground!</p>
+<p>It’s like politics. You can have different ideas on how things should be done—and we can debate those forever—but we have to agree that, at a fundamental level, we do want to move in the same general direction: make the place better. The devil’s in the details and we can discuss what better means but there has to be at least some common ground in the overall direction. Without that, things will fall apart. And things might fall apart even with a common ground!</p>
 <p>Back to online communities. I have my place here on the web. I’m happy with my site, I’m happy with my projects. But I keep thinking that maybe there’s something else that can be done, that I should be doing. I keep bouncing around various digital places—mostly forums—and I have yet to find one that truly feels like the place where I want to be. Some move too fast, some don’t move at all. Some are narrowly focused on one thing, others are not focused at all and it’s pure chaos. And I don’t blame those places or the people who tried to create them. Creating a community is hard. Figuring out the right mixture of people is complicated. Figuring out the right amount of people is complicated. Group dynamics are never easy to navigate.</p>
 <p>I’d love to know what you think about all this. Are there online places where you feel at home? Is there something you’re missing? Do you even care about all this? <a href="mailto:hello@manuelmoreale.com">Let me know</a>!</p>                <hr>
                 <p>Thank you for keeping RSS alive. You're awesome.</p>
@@ -1508,7 +1993,8 @@ date: 2024-07-21, from: Full Circle Magazine
 <li>Theme Music: From The Dust - Stardust</li>
 <li><a href="https://soundcloud.com/ftdmusic">https://soundcloud.com/ftdmusic</a></li>
 <li><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></li>
-</ul> 
+</ul>
+<p>fdDLNqbR7DYYQo8cLyry</p> 
 
 <https://fullcirclemagazine.org/podcasts/podcast-375/>
 

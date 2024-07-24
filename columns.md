@@ -1,11 +1,293 @@
 ---
 title: columns 2024.30
-updated: 2024-07-23 08:47:11
+updated: 2024-07-24 07:36:29
 ---
 
 # columns 2024.30
 
-(date: 2024-07-23 08:47:11)
+(date: 2024-07-24 07:36:29)
+
+---
+
+## changelog changes
+
+date: 2024-07-24, from: Daniel Stenberg Blog
+
+On the curl website we of course list exactly what changes that go into each and every single release we do. In recent years I have even gone back and made sure we provide this information for every single release ever done. At the moment that means 258 releases, listing over 10,000 bugfixes and almost &#8230; <a href="https://daniel.haxx.se/blog/2024/07/24/changelog-changes/" class="more-link">Continue reading <span class="screen-reader-text">changelog changes</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/07/24/changelog-changes/>
+
+---
+
+## 2024-07-24 Gridmapper Local
+
+date: 2024-07-24, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-24-gridmapper-local">2024-07-24 Gridmapper Local</h1>
+
+<p>I was wondering whether I should get back to Gridmapper, but not using Javascript and the web but using Common Lisp.
+I spent some time on this <a href="2022-07-20_Gridmapper_CL">two years ago</a>.
+Of course by now I have forgotten everything – like how to build it!</p>
+
+<p>This is the Makefile that seems to work, given that I have both <code>gridmapper.asd</code> and <code>gridmapper.lisp</code> in the current directory.</p>
+
+<pre><code>SHELL = /bin/sh
+LISP ?= sbcl --non-interactive
+PWD   = $(shell pwd)
+
+build:
+	$(LISP) --eval '(asdf:load-asd &quot;$(PWD)/gridmapper.asd&quot;)' \
+	--eval '(asdf:load-system :gridmapper)' \
+	--eval '(asdf:make :gridmapper)' \
+	--eval '(quit)'
+</code></pre>
+
+<p>Surely there is a better way to do this?</p>
+
+<p>If I replace <code>(asdf:load-system :gridmapper)</code> with <code>(ql:quickload :gridmapper)</code> it no longer gives me a warning about <code>cl-colors.asd</code> which I don&rsquo;t know anything about. I guess the warning is still preferable because it means no dependency on Quicklisp? I have no idea. The <a href="https://src.alexschroeder.ch/gridmapper-local.git">README</a> comes with a long explanation of what to install and how to do it, in order to build Gridmapper – including the use of Quicklisp.</p>
+
+<p>The hairiest part is that I need access to a function that isn&rsquo;t exported from the Cairo package. So now I&rsquo;m accessing the private function (using two colons):</p>
+
+<pre><code>;; Sorry for the ugly hack… cairo_format_stride_for_width is not exported.
+(cairo::cairo_format_stride_for_width :CAIRO_FORMAT_ARGB32 (surface-width surface)))))
+</code></pre>
+
+<p>Two years ago, there was a different solution to this that apparently no longer works. 🤷</p>
+
+<p><a class="tag" href="/search/?q=%23Common_Lisp">#Common Lisp</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-24-gridmapper-local>
+
+---
+
+## Office Hours: And now, for vice president?
+
+date: 2024-07-24, from: Robert Reich's blog
+
+Friends, 
+
+<https://robertreich.substack.com/p/office-hours-for-vice-president>
+
+---
+
+## July 23, 2024 
+
+date: 2024-07-24, from: Heather Cox Richardson blog
+
+Vice President Kamala Harris continues her momentum toward the 2024 presidential election since President Joe Biden&#8217;s surprise announcement on Sunday that he would not accept the 2024 Democratic presidential nomination. 
+
+<https://heathercoxrichardson.substack.com/p/july-23-2024>
+
+---
+
+## curl 8.9.0
+
+date: 2024-07-24, from: Daniel Stenberg Blog
+
+Numbers the 258th release11 changes63 days (total: 9,623)260 bugfixes (total: 10,531)423 commits (total: 32,704)0 new public libcurl function (total: 94)1 new curl_easy_setopt() option (total: 306)4 new curl command line option (total: 263)80 contributors, 38 new (total: 3,209)47 authors, 16 new (total: 1,288)2 security fixes (total: 157) Download the new curl release from curl.se as always. &#8230; <a href="https://daniel.haxx.se/blog/2024/07/24/curl-8-9-0/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.9.0</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/07/24/curl-8-9-0/>
+
+---
+
+## 2024-07-24 My ed, wondering
+
+date: 2024-07-24, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-24-my-ed-wondering">2024-07-24 My ed, wondering</h1>
+
+<p>Sometimes I have the urge to write a small editor, something like the kilo project: so small that it is barely usable. I also imagine it to have a sort of conversational UI – which I guess ed has? – if ed is your grumpiest of companions! – or maybe the M-x commands for emacs – and I guess I‘m looking at <a href="Odd%C2%B5">Oddµ</a> as a site generator and Markdown file server and I wonder: what sort of editor would I need to maintain this? What sort of minimal SVG editing capabilities would be nice to have?</p>
+
+<p>What if I could use an ed-like &ldquo;conversational&rdquo; interface, with better prompts, wrapped in <code>readline</code> for ‹Up, Return› combos to repeat things, opening multiple files, switching between them, with completion or menus, and saving it all in one go.</p>
+
+<p>I think I will install <code>rlwrap</code> as a first step and wrap <code>ed</code> and <code>mail</code> in it.</p>
+
+<p>When I read the Wikipedia pages of <code>sam</code> and <code>acme</code> I get the feeling that the started out at the same point and then moved towards a different, full-screen, mouse-support paradigm.</p>
+
+<p>What would my ed have, in addition to ed?</p>
+
+<p>My ed would have the notion of &ldquo;units&rdquo;. Perhaps these can be defined by a separator marker, a regular expression. A &ldquo;line&rdquo; is a unit separated by a newline, or a &ldquo;beginning of line&rdquo; regular expression. A &ldquo;sentence&rdquo; is a unit separated by all sorts of punctuation followed by zero or more quotes and one or more spaces, and so on. A &ldquo;block&rdquo; is a unit separated by empty lines, or special line beginnings such as header markup or list item markup. A &ldquo;section&rdquo; is a unit separated by line beginnings with header markup. These unit names and the corresponding separators are defined in a file, per type, so that they can be changed.</p>
+
+<p>File types are associated with file extensions or special matches (such as looking at the first two lines of a file).</p>
+
+<p>My ed would have a config file so that it can be redefined in parts. For example, every file type has special, system dependent commands to &ldquo;render&rdquo; it, be it compilation, viewing, printing, etc. Perhaps mailcap could be an interesting option to fall back to.</p>
+
+<p>My ed would be line oriented and still offer keyboard navigation using the arrows or vi-style keys. It would have two panes: the top one would show the file content and a cursor or the highlighted unit. The bottom one would be a command line history. The command line history shouldn&rsquo;t be a complete file buffer that can be edited, though, because the temporal ordering seems important to me.</p>
+
+<p>The navigation commands can also be used to modify the selection. Ideally, using arrows to move, shift arrows to select, and typing commands would all work seamlessly.</p>
+
+<p>My ed would have commands that are words or even phrases, and can defined more of them in files, and edit and &ldquo;source&rdquo; them into your session. It would have understandable errors.</p>
+
+<p>My ed would have a snarf buffer or a clipboard to use for cut, copy and insert. Cutting and copying would work on whole units.</p>
+
+<p>My ed would have infinite undo and redo and an auto-save file. Perhaps the auto-save file would contain the redo script.</p>
+
+<p>I&rsquo;m starting to wonder whether I&rsquo;m reinventing vi, here. 🤔</p>
+
+<p><a class="tag" href="/search/?q=%23Editors">#Editors</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-24-ed>
+
+---
+
+## 2024-07-21 What was hard about the Oddµ architecture?
+
+date: 2024-07-24, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-21-what-was-hard-about-the-oddµ-architecture">2024-07-21 What was hard about the Oddµ architecture?</h1>
+
+<p>If you know Go, I think you&rsquo;ll find the architecture of Oddmu to be very traditional: There is a list of actions it knows how to handle when it serves a site on the web and a list of commands it understands when called from the shell. Everything involving HTML or the RSS feed uses a Go template.</p>
+
+<p>There were two things that were tricky, in hindsight. I didn&rsquo;t know enough Go to know how best to do it and so it took me a long time to figure them out.</p>
+
+<p>The first was what data to keep in memory. I didn&rsquo;t want search to involve a database so I experimented a lot with different ways of indexing the content. Trigrams? Full-text? And what about scoring? In the end, I dropped all of that. The only thing I keep in memory is a map of page names and page titles as well as a map of hashtags and pages. I find that searching titles and hashtags is what I do most often. For everything else, I search the files. This, of course, is much slower but for a site of ten thousand pages it&rsquo;s still fast enough. So figuring out how to do search was hard. Once I had this figured out, I discovered that keeping maps in memory when there are multiple Go routines being used by the web server means that I need locks. Both of my maps are in fact data structures that each contain a map and a lock. This was new to me and it took me a long time to realize that having the lock was important. For a while, I didn&rsquo;t have those locks. 😅</p>
+
+<p>The second thing that took me a long time to get right is that I wanted pages to be served from Oddµ when it runs as a web server and I wanted to be able to edit files locally and upload them (using rsync, for example) while it was still running on the server. I didn&rsquo;t know about watching the filesystem for changes and had to learn how to do this: a watcher per directory, spawning new watchers when directories are created, and updating those maps I keep in memory as files are added, deleted or edited.</p>
+
+<p>Watching the files introduced another complication, however: What if a user edited a page via the web? I already had code in place that would update my maps. Now the file system watcher would report the same file being written to, resulting in two updates. And what about a change to a file that results in multiple events: create a file, write something to the file, write some more to the file. Three events resulting in three updates? The code is therefore complicated.</p>
+
+<p>If Oddµ knows that a file is going to change ahead of time, like when a user on the web saves an edit, the file is added to a map of ignored files for a second. When the file system watcher sees those changes, no updates are done because it knows that the edit handler already does it.</p>
+
+<p>If Oddµ sees a file change because of somebody editing files directly, a one second timer is started. If another event for the same file arrives, the timer is reset to one second. Only when a second has elapsed without changes does the watcher do the updates to the internal data structures. That is to say, changes made to the file system regarding page title changes or hash tag changes take an effect on the web with a one second delay.</p>
+
+<p>So now, with all that in place, think of all the go routines running in parallel. Every one second timer is a go routine. Every go routine accessing a map like the map if files to ignore means that this map needs to be a data structure containing a map and a lock.</p>
+
+<p>When I look at that part of the code, I still get dizzy. 😵‍💫</p>
+
+<p><a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a> <a class="tag" href="/search/?q=%23Programming">#Programming</a></p>
+
+<p><strong>2024-07-21</strong>. <a class="account" href="https://merveilles.town/@bouncepaw" title="@bouncepaw@merveilles.town">@bouncepaw</a> asked about usability issues, specially in the context of using Oddµ for picture galleries. In my case, I think the hardest part is finding particular pictures. Consider <a href="2020-blumen/index">the page of flowers in 2020</a>. I know that there&rsquo;s a sanseveria in bloom on that page, for example. But how can I find it? I can find the page if I search for &ldquo;bogenhanf #pictures&rdquo;, and then I can search for the same word on the page, and then I have to wait for a bit as the browser lazy-loads pictures.</p>
+
+<p>Perhaps, if I could get into the habit of putting the image description into the Markdown alt text, I could index all the images and their alt text, providing direct access to the images. I guess I would also have to add special code to the Markdown renderer that made the alt text visible for regular visitors (as title attribute or as regular paragraphs).
+That&rsquo;d be interesting.</p>
+
+<p><strong>Later</strong>. I have implemented something useful, I hope. If one of the search terms (excluding hashtags and predicates) matches an alt-text of an image, that image is included in the result.</p>
+
+<p>Of course, almost none of my galleries use the alt-text, so right now there aren&rsquo;t many pages that will show results for a query like &ldquo;bogenhanf #pictures&rdquo;.</p>
+
+<p>My expectations regarding alt texts and title attributes for images have changed significantly as I&rsquo;ve spent time on fedi, so I&rsquo;m really not sure what to do about Markdown in this respect. Right now I&rsquo;m in the habit of adding neither alt-text nor title attribute, trying to provide enough text in the paragraphs above or below. With this new search option, that might have to change, too. As a sighted person, I sort of expect the title attribute to be the same as the alt text.</p> 
+
+<https://alexschroeder.ch/view/2024-07-21-what-is-hard-about-oddmu>
+
+---
+
+## [Sponsor] 1Password: You Can’t Ignore GDPR Anymore
+
+date: 2024-07-24, updated: 2024-07-24, from: Daring Fireball
+
+ 
+
+<https://1password.com/daringfireball>
+
+---
+
+## Wednesday 24 July, 2024
+
+date: 2024-07-23, from: John Naughton's online diary
+
+Peak Viewing The Peak District viewed from Stanage Edge. Note the strategically-positioned crow. Photo by my son Pete. Quote of the Day “A new scientific truth does not triumph by convincing its opponents and making them see the light, but &#8230; <a href="https://memex.naughtons.org/wednesday-24-july-2024/39660/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-24-july-2024/39660/>
+
+---
+
+##  13-Year-Old Daredevil Jumps Trash Cans in Alley on &#8220;Junker Special&#8221; Bike 
+
+date: 2024-07-23, updated: 2024-07-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/13-year-old-daredevil-jumps-trash-cans-in-alley-on-junker-special-bike>
+
+---
+
+##  Chronic Pain is Psychedelic. &#8220;In moments of extreme pain, physical or psychological,... 
+
+date: 2024-07-23, updated: 2024-07-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045007-chronic-pain-is-psychedel>
+
+---
+
+##  Flint, MI is giving pregnant residents a &#8220;cash prescription&#8221; of $1500 during... 
+
+date: 2024-07-23, updated: 2024-07-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045000-flint-mi-is-giving-pregna>
+
+---
+
+##  How Sci-Fi Movies Have Changed Since the 50s 
+
+date: 2024-07-23, updated: 2024-07-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/how-sci-fi-movies-have-changed-since-the-50s>
+
+---
+
+##  Livestream of a blooming corpse flower (you know, the big stinky one)... 
+
+date: 2024-07-23, updated: 2024-07-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045009-livestream-of-a-blooming->
+
+---
+
+## July 22, 2024
+
+date: 2024-07-23, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/july-22-2024-0ab>
+
+---
+
+##  &#8220;Trump&#8217;s Massive Deportation Plan Echoes Concentration Camp History&#8221; 
+
+date: 2024-07-23, updated: 2024-07-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/trumps-massive-deportation-plan-echoes-concentration-camp-history>
+
+---
+
+## Musk, the Foxy Kingmaker
+
+date: 2024-07-23, from: Om Malik blog
+
+No matter how much I try to avoid political news, there’s no hiding from the forthcoming U.S. presidential election and the ensuing political circus. Not even technology newsletters are a respite. Charlie Warzel of The Atlantic and Sarah Frier of Bloomberg in their most recent editions made a point that echoes something I said two &#8230; 
+
+<https://om.co/2024/07/23/musk-the-foxy-kingmaker/>
+
+---
+
+##  A generic version of a drug that&#8217;s &#8220;as close as we&#8217;ve ever... 
+
+date: 2024-07-23, updated: 2024-07-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044995-a-generic-version-of-a>
+
+---
+
+##  Kamala Harris is to the left of Joe Biden on health care... 
+
+date: 2024-07-23, updated: 2024-07-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044994-kamala-harris-is-to-the>
 
 ---
 
@@ -146,49 +428,6 @@ date: 2024-07-23, updated: 2024-07-23, from: Bruce Schneier blog
  
 
 <https://www.schneier.com/blog/archives/2024/07/2017-odni-memo-on-kaspersky-labs.html>
-
----
-
-## 2024-07-21 What was hard about the Oddµ architecture?
-
-date: 2024-07-23, from: Alex Schroeder's Blog
-
-<h1 id="2024-07-21-what-was-hard-about-the-oddµ-architecture">2024-07-21 What was hard about the Oddµ architecture?</h1>
-
-<p>If you know Go, I think you&rsquo;ll find the architecture of Oddmu to be very traditional: There is a list of actions it knows how to handle when it serves a site on the web and a list of commands it understands when called from the shell. Everything involving HTML or the RSS feed uses a Go template.</p>
-
-<p>There were two things that were tricky, in hindsight. I didn&rsquo;t know enough Go to know how best to do it and so it took me a long time to figure them out.</p>
-
-<p>The first was what data to keep in memory. I didn&rsquo;t want search to involve a database so I experimented a lot with different ways of indexing the content. Trigrams? Full-text? And what about scoring? In the end, I dropped all of that. The only thing I keep in memory is a map of page names and page titles as well as a map of hashtags and pages. I find that searching titles and hashtags is what I do most often. For everything else, I search the files. This, of course, is much slower but for a site of ten thousand pages it&rsquo;s still fast enough. So figuring out how to do search was hard. Once I had this figured out, I discovered that keeping maps in memory when there are multiple Go routines being used by the web server means that I need locks. Both of my maps are in fact data structures that each contain a map and a lock. This was new to me and it took me a long time to realize that having the lock was important. For a while, I didn&rsquo;t have those locks. 😅</p>
-
-<p>The second thing that took me a long time to get right is that I wanted pages to be served from Oddµ when it runs as a web server and I wanted to be able to edit files locally and upload them (using rsync, for example) while it was still running on the server. I didn&rsquo;t know about watching the filesystem for changes and had to learn how to do this: a watcher per directory, spawning new watchers when directories are created, and updating those maps I keep in memory as files are added, deleted or edited.</p>
-
-<p>Watching the files introduced another complication, however: What if a user edited a page via the web? I already had code in place that would update my maps. Now the file system watcher would report the same file being written to, resulting in two updates. And what about a change to a file that results in multiple events: create a file, write something to the file, write some more to the file. Three events resulting in three updates? The code is therefore complicated.</p>
-
-<p>If Oddµ knows that a file is going to change ahead of time, like when a user on the web saves an edit, the file is added to a map of ignored files for a second. When the file system watcher sees those changes, no updates are done because it knows that the edit handler already does it.</p>
-
-<p>If Oddµ sees a file change because of somebody editing files directly, a one second timer is started. If another event for the same file arrives, the timer is reset to one second. Only when a second has elapsed without changes does the watcher do the updates to the internal data structures. That is to say, changes made to the file system regarding page title changes or hash tag changes take an effect on the web with a one second delay.</p>
-
-<p>So now, with all that in place, think of all the go routines running in parallel. Every one second timer is a go routine. Every go routine accessing a map like the map if files to ignore means that this map needs to be a data structure containing a map and a lock.</p>
-
-<p>When I look at that part of the code, I still get dizzy. 😵‍💫</p>
-
-<p><a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a> <a class="tag" href="/search/?q=%23Programming">#Programming</a></p>
-
-<p><strong>2024-07-21</strong>. <a class="account" href="https://merveilles.town/@bouncepaw" title="@bouncepaw@merveilles.town">@bouncepaw</a> asked about usability issues, specially in the context of using Oddµ for picture galleries. In my case, I think the hardest part is finding particular pictures. Consider <a href="2020-blumen/index">the page of flowers in 2020</a>. I know that there&rsquo;s a sanseveria in bloom on that page, for example. But how can I find it? I can find the page if I search for &ldquo;bogenhanf #pictures&rdquo;, and then I can search for the same word on the page, and then I have to wait for a bit as the browser lazy-loads pictures.</p>
-
-<p>Perhaps, if I could get into the habit of putting the image description into the Markdown alt text, I could index all the images and their alt text, providing direct access to the images. I guess I would also have to add special code to the Markdown renderer that made the alt text visible for regular visitors (as title attribute or as regular paragraphs).
-That&rsquo;d be interesting.</p>
-
-<p><strong>Later</strong>. I have implemented something useful, I hope. If one of the search terms (excluding hashtags and predicates) matches an alt-text of an image, that image is included in the result.</p>
-
-<p>Of course, almost none of my galleries use the alt-text, so right now there aren&rsquo;t many pages that will show results for a query like &ldquo;bogenhanf #pictures&rdquo;.</p>
-
-<p>My expectations regarding alt texts and title attributes for images have changed significantly as I&rsquo;ve spent time on fedi, so I&rsquo;m really not sure what to do about Markdown in this respect. Right now I&rsquo;m in the habit of adding neither alt-text nor title attribute, trying to provide enough text in the paragraphs above or below. With this new search option, that might have to change, too. As a sighted person, I sort of expect the title attribute to be the same as the alt text.</p>
-
-<p><strong>2024-07-22</strong>. Sometimes I have the urge to write a small editor, something like the kilo project: so small that it is barely usable. I also imagine it to have a sort of conversational UI – which I guess ed has? – if ed is your grumpiest of companions! – or maybe the M-x commands for emacs – and I guess I‘m looking at Oddmu as a site generator and Markdown file server and I wonder: what sort of editor would I need to maintain this? What sort of minimal SVG editing capabilities would be nice to have?</p> 
-
-<https://alexschroeder.ch/view/2024-07-21-what-is-hard-about-oddmu>
 
 ---
 
@@ -1090,7 +1329,7 @@ And last week&#8217;s winner
 
 date: 2024-07-21, from: Heather Cox Richardson blog
 
-Spent the evening with family, and my photographer nephew showed me today&#8217;s capture: a seagull trying to move in on an osprey&#8217;s catch. It&#8217;s a nice break to see drama from something other than the human news this past week&#8212; it seemed relentless. Taking the night off. I&#8217;ll be back at it tomorrow. 
+Spent the evening with family, and my photographer nephew showed me today&#8217;s capture: a seagull trying to move in on an osprey&#8217;s catch. It&#8217;s a nice break to see drama from something other than the human news this past week&#8212; it seemed relentless. 
 
 <https://heathercoxrichardson.substack.com/p/july-20-2024>
 

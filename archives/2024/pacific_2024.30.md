@@ -1,11 +1,539 @@
 ---
 title: pacific 2024.30
-updated: 2024-07-23 08:47:09
+updated: 2024-07-24 07:36:26
 ---
 
 # pacific 2024.30
 
-(date: 2024-07-23 08:47:09)
+(date: 2024-07-24 07:36:26)
+
+---
+
+## Pacific island region's transition to renewable moving at snail's pace
+
+date: 2024-07-24, from: Pacific Island Times
+
+Policy paper: Clean energy cuts production costs but savings don't translate to power rate reduction By Pacific Island Times News Staff... 
+
+<https://www.pacificislandtimes.com/post/pacific-island-region-s-transition-to-renewable-moving-at-snail-s-pace>
+
+---
+
+## Governor says new Guam law creating cybersecurity panel infringes on executive powers
+
+date: 2024-07-24, from: Pacific Island Times
+
+By Ron Rocky Coloma Gov. Lourdes Leon Guerrero has voiced her strong opposition to Bill 190-37, which proposes the creation of the... 
+
+<https://www.pacificislandtimes.com/post/governor-says-new-guam-law-creating-cybersecurity-panel-infringes-on-executive-powers>
+
+---
+
+## Beefed-Up Olympics security thins out tourists, squeezing merchants
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; Fabrice Pierret is used to catering to hordes of tourists who pack Le Lut&#0233;tia, a brasserie he manages on the &#0206;le Saint-Louis, where a splendid view of the Seine River, with a glass of red wine and steak frites, has long made it a popular stop for visitors.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/nation-world-news/beefed-up-olympics-security-thins-out-tourists-squeezing-merchants/>
+
+---
+
+## Police arrest 19 for DUI
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>During the week of July 15-21, Hawaii Island police arrested 19 motorists for DUI. Five of the drivers were involved in a traffic accident. Two of the drivers were younger than 21.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/hawaii-news/police-arrest-19-for-dui-24/>
+
+---
+
+## Hydrothermal explosion at Yellowstone sends tourists racing for safety
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>A hydrothermal explosion sent a towering column of boiling water, mud and rock shooting into the air at Yellowstone National Park in Wyoming on Tuesday morning, destroying a section of boardwalk and sending dozens of tourists running for safety, officials said. No injuries were reported, according to the United States Geological Survey, but the area remained closed to the public.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/nation-world-news/hydrothermal-explosion-at-yellowstone-sends-tourists-racing-for-safety/>
+
+---
+
+## Harris rallies exuberant Democrats in Wisconsin: ‘The baton is in our hands’
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>WEST ALLIS, Wis. &#8212; Delivering a jolt of enthusiasm to a party reeling from weeks of infighting, Vice President Kamala Harris rallied Democrats on Tuesday in Wisconsin and laid out a fierce argument against former President Donald Trump.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/nation-world-news/harris-rallies-exuberant-democrats-in-wisconsin-the-baton-is-in-our-hands/>
+
+---
+
+## Shaelynn Lehano-Stone: a timeline of tragedy
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>A 9-year-old developmentally disabled Hilo girl starved to death by her parents and grandmother eight years ago was on the radar of Child Welfare Services almost from birth.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/hawaii-news/shaelynn-lehano-stone-a-timeline-of-tragedy/>
+
+---
+
+## Trump’s new rival may bring out his harshest instincts
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>Donald Trump and his political team spent nearly two years tailoring a campaign to defeat an old white male president who is conspicuously frail and who most Americans had told pollsters they doubted could handle another four-year term.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/nation-world-news/trumps-new-rival-may-bring-out-his-harshest-instincts/>
+
+---
+
+## Biden plans to address the nation on Wednesday night
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden returned to Washington on Tuesday for the first time since withdrawing from the presidential race and announced plans to address the nation tonight to explain his decision and outline how he wants to use his final six months in office.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/nation-world-news/biden-plans-to-address-the-nation-on-wednesday-night/>
+
+---
+
+## Menendez will resign from Senate, avoiding an ugly, intraparty battle
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>Sen. Bob Menendez of New Jersey announced Tuesday that he would resign from Congress effective in late August, bowing to intense pressure from Democratic colleagues who had pushed him to step down or face an expulsion vote after his conviction in a vast international bribery scheme.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/nation-world-news/menendez-will-resign-from-senate-avoiding-an-ugly-intraparty-battle/>
+
+---
+
+## Obituaries for July 24
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>Setsuko Higuchi Isa, 93, of Hilo died May 13 at The Queen&#8217;s Medical Center in Honolulu. Born in Hilo, she was retired from Honsador Lumber in Kapolei, Oahu, worked for City Mill in Honolulu and was a member of Hui Okinawa. Private services held. No flowers or koden (monetary gifts). Survived by sons, Russell Isa of Hilo and Darryl (Mary) Isa of Kohala; sisters, Chizuru Sugawara and Carole Yano of Hilo; &#0010;sister-in-law, Amy Higuchi of Hilo; brothers-in-law, Yoshiharu Mikami of Hilo and Richard (Leilani) Isa of Honolulu; a grandson; nieces, nephews and cousins. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/hawaii-news/obituaries-for-july-24-9/>
+
+---
+
+## Police commander provides more details on Trump rally shooting
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Two days before a gunman wounded former President Donald Trump in Butler, Pennsylvania, the Secret Service walked the site of the planned campaign rally with members of the Pennsylvania State Police, who had been pulled in for added security.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/nation-world-news/police-commander-provides-more-details-on-trump-rally-shooting/>
+
+---
+
+## Israeli military using tanks and fighter jets to strike in Khan Younis
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Israel&#8217;s military said Tuesday that it was pushing ahead with operations against Hamas in the southern Gaza Strip city of Khan Younis, using tanks and fighter jets to strike what it said were weapons caches and observation posts, a day after aid workers reported that dozens of people had been killed and hundreds of others wounded in the area.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/nation-world-news/israeli-military-using-tanks-and-fighter-jets-to-strike-in-khan-younis/>
+
+---
+
+## Netanyahu to address a Congress deeply divided over his leadership
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Vice President Kamala Harris will be absent from the rostrum.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/nation-world-news/netanyahu-to-address-a-congress-deeply-divided-over-his-leadership/>
+
+---
+
+## Secret Service director resigns after Trump assassination attempt
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The director of the Secret Service, Kimberly A. Cheatle, resigned Tuesday, after security failures surrounding the attempted assassination of former President Donald Trump and calls for her to step down from lawmakers in both parties.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/nation-world-news/secret-service-director-resigns-after-trump-assassination-attempt/>
+
+---
+
+## Two landslides kill 229 people in Ethiopia
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>JOHANNESBURG &#8212; At least 229 people were killed in southwestern Ethiopia on Monday after a landslide flattened several houses in a village following days of heavy rain, and neighbors who rushed to dig out those buried under the mud were hit with a second landslide about an hour later.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/nation-world-news/two-landslides-kill-229-people-in-ethiopia/>
+
+---
+
+## An Olympian’s awkward packing list: Toothbrush? Check. Rifle? Check
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>COLUMBUS, Ga. &#8212; Olympic shooters have time-tested mental exercises they use to get through some of the most stressful moments of their careers: They exhale deeply to steady their nerves. They assess the targets ahead of them. They trust in the preparation that got them there.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/sports/an-olympians-awkward-packing-list-toothbrush-check-rifle-check/>
+
+---
+
+## Kamehameha-Maui’s Palmeira circles back to join Rainbow baseball
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>Catcher Konnor Palmeira is rounding the bases and heading home.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/sports/kamehameha-mauis-palmeira-circles-back-to-join-rainbow-baseball/>
+
+---
+
+## Top Japanese gymnast withdraws from paris 2024 for smoking and drinking alcohol
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>Japan&#8217;s Olympic gymnastics team will head into the Paris Games this week without its captain, Shoko Miyata, after she withdrew from the team following an investigation that found she had violated the squad&#8217;s code of conduct by smoking and drinking alcohol.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/sports/top-japanese-gymnast-withdraws-from-paris-2024-for-smoking-and-drinking-alcohol/>
+
+---
+
+## Hawaiʻi County announces winners of Kupuna Softball Tournament
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; The Department of Parks &#038; Recreation&#8217;s Elderly Activities Division (EAD) is pleased to announce the winners of the 49th Annual Hawai&#8216;i Kupuna Softball Tournament, which took place July 17-18, 2024 in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/sports/hawai%ca%bbi-county-announces-winners-of-kupuna-softball-tournament/>
+
+---
+
+## Marroquin loads up with 15 newcomers
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; With one full year under his belt, UH-Hilo men&#8217;s soccer head coach Diego Marroquin has loaded up with 15 newcomers for the upcoming fall season.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/sports/marroquin-loads-up-with-15-newcomers/>
+
+---
+
+## Matthew Stafford reporting to Rams training camp with reworked contract
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>Los Angeles Rams quarterback Matthew Stafford will report to the team&#8217;s training camp with the lingering issue of his contract containing no additional guaranteed money after the 2024 season seemingly resolved. Rams coach Sean McVay confirmed the new deal during Tuesday&#8217;s pre-training camp news conference.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/sports/matthew-stafford-reporting-to-rams-training-camp-with-reworked-contract/>
+
+---
+
+## Experience Volcano Festival this weekend
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>Residents and visitors are invited to &#8220;Experience Volcano&#8221; through all of the diverse art, culture, music, activities and food that the community has to offer.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/hawaii-news/experience-volcano-festival-this-weekend-2/>
+
+---
+
+## Temple to hold ‘Garage Sale’ at Sangha Hall
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>Honpa Hongwanji Hilo Betsuin on Saturday will present &#8220;the largest Garage Sale in Hilo&#8221; after a six-year break.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/community/temple-to-hold-garage-sale-at-sangha-hall/>
+
+---
+
+## Kona pool to close for repairs starting Aug. 10
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>The Kona Community Aquatic Center will be closed starting at 3 p.m. on Aug. 10 for repairs and maintenance, according to the Department of Parks and Recreation.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/community/kona-pool-to-close-for-repairs-starting-aug-10/>
+
+---
+
+## Supreme Court ethics rules and term limits are good for democracy
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>President Joe Biden is reportedly pondering support for a legislative package that would enact ethics rules with the force of law on the Supreme Court, as well as some sort of term limits.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/opinion/supreme-court-ethics-rules-and-term-limits-are-good-for-democracy/>
+
+---
+
+## Biden’s withdrawal decision shifts the election again
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>President Joe Biden has withdrawn from the 2024 presidential election, stepping aside in the race to best Donald Trump in a contest over the basic identity of this country.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/opinion/bidens-withdrawal-decision-shifts-the-election-again/>
+
+---
+
+## Pitted against Kamala Harris, can Trump tone down the racism and misogyny?
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>Vice President Kamala Harris is the highest-ranking female in U.S. political history and the first Black woman and Asian American to hold her post. The 59-year-old lawyer is a former U.S. senator and served as California attorney general and San Francisco&#8217;s district attorney.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/opinion/pitted-against-kamala-harris-can-trump-tone-down-the-racism-and-misogyny/>
+
+---
+
+## Applicants sought for DLNR advisory councils
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Land and Natural Resources&#8217; Division of Forestry and Wildlife, in cooperation with the U.S. Forest Service, is accepting applications for vacant seats on the Laupahoehoe and Pu&#8216;uwa&#8216;awa&#8216;a advisory councils on Hawaii Island.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/community/applicants-sought-for-dlnr-advisory-councils/>
+
+---
+
+## United to end Guam-Fukuoka service
+
+date: 2024-07-24, from: Pacific Island Times
+
+By Pacific Island Times News Staff United Airlines will discontinue the daily service between Fukuoka and Guam, which apparently did not... 
+
+<https://www.pacificislandtimes.com/post/united-to-end-guam-fukuoka-service>
+
+---
+
+## Guam's water treatment plant project may receive federal fund boost
+
+date: 2024-07-24, from: Pacific Island Times
+
+By Pacific Island Times News Staff The U.S.  House  of Representatives on Monday passed the Water Resources Development Act, which... 
+
+<https://www.pacificislandtimes.com/post/guam-s-water-treatment-plant-project-may-receive-federal-fund-boost>
+
+---
+
+## Hawaiian Word of the Week: Makani
+
+date: 2024-07-24, from: University of Hawaiʻi News
+
+<p>Makani&#8212;Wind, breeze.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/23/hawaiian-word-of-the-week-makani/">Hawaiian Word of the Week: Makani</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/23/hawaiian-word-of-the-week-makani/>
+
+---
+
+## Guam's drug dealers warned: 'Your days are numbered' 
+
+date: 2024-07-24, from: Pacific Island Times
+
+New law boosts government's fight against meth, fentanyl By Pacific Island Times News Staff Drug dealers on Guam are facing stiffer... 
+
+<https://www.pacificislandtimes.com/post/guam-s-drug-dealers-warned-your-days-are-numbered>
+
+---
+
+## Japanese law leaders visit UH law school, discuss programs
+
+date: 2024-07-24, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> M&#257;noa welcomed a delegation of 30 distinguished lawyers, executive leaders and their spouses from the Japan Federation of Bar Associations.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/23/japan-law-delegation-visit/">Japanese law leaders visit <abbr>UH</abbr> law school, discuss programs</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/23/japan-law-delegation-visit/>
+
+---
+
+## Susan Kazama returns home to lead Hawaiʻi CC
+
+date: 2024-07-24, from: University of Hawaiʻi News
+
+<p>Hilo native and Waiākea High School graduate Susan Kazama is <span aria-label="Hawaii">Hawai&#699;i</span> <abbr>CC</abbr>’s new chancellor.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/23/kazama-returns-home-to-lead-hawaii-cc/">Susan Kazama returns home to lead Hawaiʻi <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/23/kazama-returns-home-to-lead-hawaii-cc/>
+
+---
+
+## Local producer seeks to maintain steady egg supply and stable prices in CNMI
+
+date: 2024-07-24, from: Pacific Island Times
+
+By Bryan Manabat Saipan --  Customers at Joeten Superstore Wholesale emptied the chiller display taking advantage of the sale price of... 
+
+<https://www.pacificislandtimes.com/post/local-producer-seeks-to-maintain-steady-egg-supply-and-stable-prices-in-cnmi>
+
+---
+
+## New 2-in-1 appliances for UH Mānoa student residents
+
+date: 2024-07-24, from: University of Hawaiʻi News
+
+<p>MicroFridges, a combination appliance of a refrigerator/freezer with a connected microwave on top, will be available starting in the 2024&#8211;25 academic year.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/23/microfridges-for-uh-manoa-student-residents/">New 2-in-1 appliances for <abbr>UH</abbr> Mānoa student residents</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/23/microfridges-for-uh-manoa-student-residents/>
+
+---
+
+## Pacific TAFE hosts Industry Consultation in Marshall Islands
+
+date: 2024-07-23, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific’s (USP) Pacific TAFE marked a significant milestone by hosting...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-pacific-tafe-hosts-industry-consultation-in-marshall-islands/">Pacific TAFE hosts Industry Consultation in Marshall Islands</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-pacific-tafe-hosts-industry-consultation-in-marshall-islands/>
+
+---
+
+## Guam residents urged to ask questions regarding missile defense tests 
+
+date: 2024-07-23, from: Pacific Island Times
+
+By Pacific Island Times News Staff Now is the time to ask questions and add community input to the Missile Defense Agency's plan to... 
+
+<https://www.pacificislandtimes.com/post/guam-residents-urged-to-ask-questions-regarding-missile-defense-tests>
+
+---
+
+## Professor to be Scholar in Residence at Frank Lloyd Wright’s Fallingwater
+
+date: 2024-07-23, from: University of Hawaiʻi News
+
+<p>School of Architecture Professor Kevin Nute was awarded to be a Scholar in Residence at Frank Lloyd Wright’s famous modernist home overhanging a waterfall.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/23/frank-lloyd-wrights-fallingwater/">Professor to be Scholar in Residence at Frank Lloyd Wright’s Fallingwater</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/23/frank-lloyd-wrights-fallingwater/>
+
+---
+
+## Tonga Campus welcomes 2024 PDLP Cohort
+
+date: 2024-07-23, from: University of the South Pacific (Fiji)
+
+<p>The Tonga Campus welcomed its Third Professional Diploma in Legal Practice (PDLP) Cohort for 2024...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/tonga-campus-welcomes-second-2024-pdlp-cohort/">Tonga Campus welcomes 2024 PDLP Cohort</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/tonga-campus-welcomes-second-2024-pdlp-cohort/>
+
+---
+
+## UH med school achieves top tier status in new U.S. News & World Report rankings
+
+date: 2024-07-23, from: University of Hawaiʻi News
+
+<p>There were 15 schools placed in the elite Tier 1 category, marking the fifth time in seven years that <abbr>JABSOM</abbr> has made the top 25.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/23/us-news-jabsom-rankings-2024/"><abbr>UH</abbr> med school achieves top tier status in new <em>U.S. News & World Report</em> rankings</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/23/us-news-jabsom-rankings-2024/>
+
+---
+
+## Sentell appointed inaugural endowed chair in public health
+
+date: 2024-07-23, from: University of Hawaiʻi News
+
+<p>The endowment aims to recruit and retain top public health faculty in <span aria-label="Hawaii">Hawai&#699;i</span> and the Pacific.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/23/endowed-chair-in-public-health/">Sentell appointed inaugural endowed chair in public health</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/23/endowed-chair-in-public-health/>
+
+---
+
+## White House taps UH, others to prepare for Pacific’s future
+
+date: 2024-07-23, from: University of Hawaiʻi News
+
+<p>A <abbr>UH</abbr> delegation met with a group from the University of the South Pacific in June 2024 to help launch this new initiative.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/23/pacific-initiative-regional-collaboration/">White House taps <abbr>UH</abbr>, others to prepare for Pacific’s future</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/23/pacific-initiative-regional-collaboration/>
+
+---
+
+## Marine Protected Areas producing more ‘trophy-size’ fish
+
+date: 2024-07-23, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> scientists found that Marine Protected Areas are having a positive spillover effect, producing more &#8220;trophy-size&#8221; fish just outside of the fully protected areas.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/23/trophy-size-fish-mpas/">Marine Protected Areas producing more ‘trophy-size’ fish</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/23/trophy-size-fish-mpas/>
+
+---
+
+## Punihei Lipe selected to lead systemwide Native Hawaiian initiative
+
+date: 2024-07-23, from: University of Hawaiʻi News
+
+<p>Lipe has been named the director of <span aria-label="Hawaii">Hawai&#699;i</span> Papa O Ke Ao and will lead the 10-campus system’s commitment to becoming an Indigenous-serving and Indigenous-centered institution.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/23/lipe-selected-systemwide-native-hawaiian-initiative/">Punihei Lipe selected to lead systemwide Native Hawaiian initiative</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/23/lipe-selected-systemwide-native-hawaiian-initiative/>
 
 ---
 
@@ -352,6 +880,18 @@ date: 2024-07-23, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/07/23/features/lets-talk-food-american-influences-in-south-korea/>
+
+---
+
+## RIMPAC exercises continue on USS Carl Vinson
+
+date: 2024-07-23, from: Hawaii Tribune Harold
+
+
+				<p>As the biennial exercise Rim of the Pacific continues off the coast of Hawaii, the U.S. Navy&#8217;s Carrier Strike Group 1 has been practicing flight operations from its flagship the USS Carl Vinson.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/23/hawaii-news/rimpac-exercises-continue-on-uss-carl-vinson/>
 
 ---
 

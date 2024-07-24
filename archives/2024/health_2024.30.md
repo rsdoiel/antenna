@@ -1,11 +1,31 @@
 ---
 title: health 2024.30
-updated: 2024-07-23 08:47:15
+updated: 2024-07-24 07:36:33
 ---
 
 # health 2024.30
 
-(date: 2024-07-23 08:47:15)
+(date: 2024-07-24 07:36:33)
+
+---
+
+## The predictive value of peripheral blood cell mitochondrial gene expression in identifying the prognosis in pediatric sepsis at preschool age
+
+date: 2024-07-24, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundSepsis represents a severe manifestation of infection often accompanied by metabolic disorders and mitochondrial dysfunction. Notably, mitochondrial DNA copy number (mtDNA-CN) and the expression of specific mitochondrial genes have emerged as sensitive indicators of mitochondrial function. To investigate the utility of mitochondrial gene expression in peripheral blood cells for distinguishing severe infections and predicting associated outcomes, we conducted a prospective cohort study.MethodsWe established a prospective cohort comprising 74 patients with non-sepsis pneumonia and 67 cases of sepsis induced by respiratory infections, aging from 2 to 6 years old. We documented corresponding clinical data and laboratory information and collected blood samples upon initial hospital admission. Peripheral blood cells were promptly isolated, and both total DNA and RNA were extracted. We utilized absolute quantification PCR to assess mtDNA-CN, as well as the expression levels of mt-CO1, mt-ND1, and mt-ATP6. Subsequently, we extended these comparisons to include survivors and non-survivors among patients with sepsis using univariate and multivariate analyses. Receiver operating characteristic (ROC) curves were constructed to assess the diagnostic potential.ResultsThe mtDNA-CN in peripheral blood cells was significantly lower in the sepsis group. Univariate analysis revealed a significant reduction in the expression of mt-CO1, mt-ND1, and mt-ATP6 in patients with sepsis. However, multivariate analysis did not support the use of mitochondrial function in peripheral blood cells for sepsis diagnosis. In the comparison between pediatric sepsis survivors and non-survivors, univariate analysis indicated a substantial reduction in the expression of mt-CO1, mt-ND1, and mt-ATP6 among non-survivors. Notably, total bilirubin (TB), mt-CO1, mt-ND1, and mt-ATP6 levels were identified as independent risk factors for sepsis-induced mortality. ROC curves were then established for these independent risk factors, revealing areas under the curve (AUCs) of 0.753 for TB (95% CI 0.596–0.910), 0.870 for mt-CO1 (95% CI 0.775–0.965), 0.987 for mt-ND1 (95% CI 0.964–1.000), and 0.877 for mt-ATP6 (95% CI 0.793–0.962).ConclusionMtDNA-CN and mitochondrial gene expression are closely linked to the severity and clinical outcomes of infectious diseases. Severe infections lead to impaired mitochondrial function in peripheral blood cells. Notably, when compared to other laboratory parameters, the expression levels of mt-CO1, mt-ND1, and mt-ATP6 demonstrate promising potential for assessing the prognosis of pediatric sepsis. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1413103>
+
+---
+
+## MnoSR removal in Mycobacterium smegmatis triggers broad transcriptional response to 1,3-propanediol and glucose as sole carbon sources
+
+date: 2024-07-24, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThe two-component signal transduction systems play an essential role in the adaptation of bacteria to changing environmental conditions. One of them is the MnoSR system involved in the regulation of methylotrophic metabolism in M. smegmatis.MethodsMycobacterium smegmatis mutant strains ΔmnoS, ΔmnoR and ΔmnoS/R lacking functional mnoS, mnoR and both genes were generated using a homologous recombination approach. MnoR recombinant protein was purified by affinity column chromatography. The present study employs molecular biology techniques: cloning strategies, global RNA sequencing, qRT-PCR, EMSA, Microscale thermophoresis, and bioinformatics analysis.Results and discussionThe ∆mnoS, ∆mnoR, and ∆mnoS/R mutant strains were generated and cultured in the presence of defined carbon sources. Growth curve analysis confirmed that inactivation of the MnoSR impairs the ability of M. smegmatis cells to use alcohols such as 1,3-propanediol and ethanol but improves the bacterial growth on ethylene glycol, xylitol, and glycerol. The total RNA sequencing method was employed to understand the importance of MnoSR in the global responses of mycobacteria to limited carbon access and in carbon-rich conditions. The loss of MnoSR significantly affected carbon utilization in the case of mycobacteria cultured on glucose or 1,3-propanediol as sole carbon sources as it influenced the expression of multiple metabolic pathways. The numerous transcriptional changes could not be linked to the presence of evident MnoR DNA-binding sites within the promotor regions for the genes outside of the mno operon. This was confirmed by EMSA and microscale thermophoresis with mutated MnoR binding consensus region. Our comprehensive analysis highlights the system’s vital role in metabolic adaptability, providing insights into its potential impact on the environmental survival of mycobacteria. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1427829>
 
 ---
 

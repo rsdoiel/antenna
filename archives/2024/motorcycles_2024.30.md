@@ -1,11 +1,71 @@
 ---
 title: motorcycles 2024.30
-updated: 2024-07-23 08:47:14
+updated: 2024-07-24 07:36:32
 ---
 
 # motorcycles 2024.30
 
-(date: 2024-07-23 08:47:14)
+(date: 2024-07-24 07:36:32)
+
+---
+
+## Shell Partners With Battery-Swapping Scooter Company, Wants Better Last-Mile Service
+
+date: 2024-07-24, from: Ride Apart, Electric Motorcycle News
+
+Gogoro teamed up with Shell to make its swapping stations accessible to the masses.  
+
+<https://www.rideapart.com/news/727507/gogoro-battery-swapping-singapore/>
+
+---
+
+## Is the Royal Enfield Himalayan 450’s Best Color Not Coming to the US?
+
+date: 2024-07-24, from: Ride Apart, Electric Motorcycle News
+
+Canada and Mexico also don't get it. 
+
+<https://www.rideapart.com/news/727647/royal-enfield-new-himalayan-pricing/>
+
+---
+
+## NYC's E-Bike Trade-in Program Seemingly Has No Catch, Just Saving Lives
+
+date: 2024-07-24, from: Ride Apart, Electric Motorcycle News
+
+All you have to do is meet these bare minimum requirements. 
+
+<https://www.rideapart.com/news/727628/nyc-ebike-trade-in-program/>
+
+---
+
+## How the Hell Did This Motorcycle End up Stuck on a Telephone Pole?
+
+date: 2024-07-24, from: Ride Apart, Electric Motorcycle News
+
+Sir, you can't park there.  
+
+<https://www.rideapart.com/news/727616/motorcycle-stuck-telephone-pole/>
+
+---
+
+## Why Is KTM Only Now Addressing Its Camshaft Issues?
+
+date: 2024-07-24, from: Ride Apart, Electric Motorcycle News
+
+KTM has finally responded to the community—but is it too late?  
+
+<https://www.rideapart.com/news/727508/ktm-addresses-lc8c-camshaft-issue/>
+
+---
+
+## Kawasaki’s Hydrogen Bike Looks Like a Road-Going Spaceship, Doesn’t It?
+
+date: 2024-07-24, from: Ride Apart, Electric Motorcycle News
+
+Riding Kawi rocket, I want to go to Pluto. 
+
+<https://www.rideapart.com/news/727574/kawasaki-hydrogen-bike-test-run/>
 
 ---
 
@@ -16,6 +76,56 @@ date: 2024-07-23, from: Cycle World News
 The Honda Metropolitan is a small-displacement scooter designed for getting around in the confines of urban centers. 
 
 <https://www.cycleworld.com/honda/metropolitan/>
+
+---
+
+## 2024 Harley-Davidson Pan America 1250 Special
+
+date: 2024-07-23, from: Cycle World News
+
+Three years after Harley entered the ADV-tourer category, the Pan America continues to forge new ground. 
+
+<https://www.cycleworld.com/harley-davidson/pan-america-1250-special/>
+
+---
+
+## 2024 Kawasaki Eliminator
+
+date: 2024-07-23, from: Cycle World News
+
+Kawasaki’s Eliminator is a sporty lightweight cruiser based on the Ninja 500 and Z500. 
+
+<https://www.cycleworld.com/kawasaki/eliminator/>
+
+---
+
+## GasGas SM 700 Review Gallery
+
+date: 2024-07-23, from: Cycle World News
+
+Photos from Cycle World's GasGas SM 700 review article. 
+
+<https://www.cycleworld.com/gallery/gasgas-sm-700-review-photos/>
+
+---
+
+## Kawasaki Demonstrates Hydrogen Prototype
+
+date: 2024-07-23, from: Cycle World News
+
+With a push around the world for much lower exhaust emissions, Kawasaki has been hard at work on its hydrogen-powered motorcycle that it demonstrated recently. 
+
+<https://www.cycleworld.com/motorcycle-news/kawasaki-demonstrates-hydrogen-prototype-motorcycle/>
+
+---
+
+## GasGas SM 700 Review
+
+date: 2024-07-23, from: Cycle World News
+
+GasGas’ SM 700 is the third supermoto motorcycle built on the same platform by Pierer Mobility. So what’s the difference? This one’s red. 
+
+<https://www.cycleworld.com/motorcycle-reviews/gasgas-sm-700-review/>
 
 ---
 

@@ -1,11 +1,129 @@
 ---
 title: writing 2024.30
-updated: 2024-07-23 08:47:12
+updated: 2024-07-24 07:36:30
 ---
 
 # writing 2024.30
 
-(date: 2024-07-23 08:47:12)
+(date: 2024-07-24 07:36:30)
+
+---
+
+## Why Is Crime and Thriller Fiction So Popular?
+
+date: 2024-07-24, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p>At the time of this writing in July 2024, eight of the 15 books on the <a href="https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-fiction/" target="_blank">New York Times combined print &amp; e-book fiction best-seller list</a> are crime or thriller fiction. It&rsquo;s summer, and this sort of book is popular for beach or vacation reading, but if you look at best-seller lists at any time, you&rsquo;ll find mysteries and thrillers prominently featured.</p>
+
+Crime sells
+
+<p>It is estimated that one in eight novels sold are in the crime genre, and this genre is responsible for about 20% of audiobook sales, and more than a third of ebook sales, <a href="https://nielsenbook.co.uk/crime-and-thrills-pay-in-the-uk-book-market/" target="_blank">according to a Nielsen study in the UK</a>. Crime and thriller fiction has been growing in recent years, as the popularity of some sub-genres has increased. Psychological thrillers have become very popular, especially among women, and cozy mysteries - books like those of Agatha Christie, who is estimated to have sold between two and four billion books - have had a recent revival.</p>
+
+<p>According to Nielsen, &ldquo;Overall, the crime &amp; thriller buyer skews older,&rdquo; though crime and thriller novels appeal to all ages. The study points out that psychological thrillers are most popular among younger readers (25 - 44), and &ldquo;dark countryside,&rdquo; or rural noir, is most popular among older readers.</p>
+
+Crime fiction has many sub-genres
+
+<p>The crime and thriller genre is broad, and covers many sub-genres: classic mysteries, thrillers, psychological thrillers, spy novels, legal thrillers, historical mysteries, cozy mysteries, and police procedurals; from the whodunit to the detective story, there is something for everyone.</p>
+
+<p>Readers who may not want to read a gritty urban thriller might be attracted by a mystery set in the 16th century or a cozy mystery with little or no violence. And readers who want action have plenty to choose from, with larger-than-life characters, such as Lee Child&rsquo;s Jack Reacher or Vince Flynn&rsquo;s Mitch Rapp.</p>
+
+<p>With this vast range of sub-genres, crime and thriller fiction can appeal to many types of readers. With traditional murder mysteries, readers try to figure out whodunit and accompany a detective as they amass clues. A good mystery is an intellectual game the writer plays with the reader, and readers are satisfied when the guilty party is found, but when they aren&rsquo;t too obvious. Readers want to be fooled, but not cheated, and it&rsquo;s important that, as Raymond Chandler said, a mystery &ldquo;must baffle a reasonably intelligent reader,&rdquo; but also &ldquo;must be honest with the reader.&rdquo;</p>
+
+<p>With psychological thrillers, readers can identify with the characters, which are often everyday people thrust into unexpected situations. Legal thrillers give a view of the justice system, which most readers never encounter personally. And many readers of crime fiction like to read novels set in unfamiliar locations, or even in historical settings.</p>
+
+<p>A unique element of crime fiction is that it can be written in series, with a recurring police officer or private detective. Series readers appreciate returning to new cases with familiar characters, and many popular series have more than two dozen novels. This type of novel is usually a police or detective procedural, featuring characters like Ian Rankin&rsquo;s Rebus, Peter Robinson&rsquo;s DCI Banks, and Laura Lippman&rsquo;s Tess Monaghan, who readers get to watch as they grow and change over time.</p>
+
+<p>Through their presence in novels and films, some crime fiction characters have become iconic: think of Philip Marlowe, Sam Spade, and Miss Marple, not to mention the best-known of all, Sherlock Holmes, and serve as templates for modern detectives.</p>
+
+Why do readers like crime and thriller fiction?
+
+<p>Crime and thriller fiction gives readers the opportunity to experience unfamiliar parts of the world. They may be transported into dangerous areas where criminals thrive, and they may experience the thrill of the heist or the adrenaline rush of an exciting spy story. Or they may look over the shoulder of a detective as he or she tries to determine who is guilty.</p>
+
+<p>Crime fiction delves into the complexities of human behavior, exploring both the best and worst of humanity. It can look at parts of society that readers don&rsquo;t know with a high level of realism, and can be a tool for examining social norms and injustices. In some sub-genres, such as the noir or hardboiled detective genre, crime fiction explores the lower depths of society, and readers can learn about vice and corruption from a safe distance.</p>
+
+<p>Crime fiction almost always presents legal and moral quandaries, allowing readers to gauge their own feelings about the gray areas of right and wrong. In most crime fiction, the resolution is satisfying, and readers can feel vindicated when they&rsquo;ve seen how crime is punished. However, some crime fiction - especially in the noir sub-genre - does not offer neat resolutions, and this, too, can be satisfying.</p>
+
+<p>Psychological thrillers are a sub-genre where readers can experience danger and suspense from a safe distance. Many of these novels feature everyday people thrust into dangerous situations, and this can allow readers to immerse themselves in thrilling scenarios that they would never experience. Readers can imagine themselves in these situations, and figure out what they would do without any of the risks involved.</p>
+
+<p>The crime and thriller genre is firmly established as one of the main forms of storytelling, not just in novels, but also in movies and TV series. Many crime fiction authors are considered among the greatest writers, and this genre offers a rich history for readers to discover. The genre&rsquo;s ability to adapt and incorporate contemporary issues keeps it relevant and engaging, while the vast trove of crime and thriller fiction written over the past decades and centuries offers a valuable canon for anyone who wants to discover this genre.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+ 
+
+<https://www.literatureandlatte.com/blog/why-is-crime-and-thriller-fiction-is-so-popular>
+
+---
+
+## Gossow Wins 2024 AFTS Award
+
+date: 2024-07-23, from: Locus Magazine
+
+<p>Kathryn Gossow has won the 2024 Australian Fairy Tale Society (AFTS) Award, honoring &#8220;her many contributions to the field of fairy tales in Australia, particularly in building and nurturing the community of fairytalers.&#8221;</p>
+<p>The other finalists were were glass artist Spike Deane and performer Em Chandler.</p>
+<p>For more information, see the announcement.</p>
+
+<p><strong>While you are here,</strong> please take a moment to support Locus with a one-time or recurring donation. We  <a href="https://locusmag.com/2024/07/gossow-wins-2024-afts-award/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/gossow-wins-2024-afts-award/>
+
+---
+
+## Seattle Worldcon 2025 announces Poet Laureate
+
+date: 2024-07-23, from: Locus Magazine
+
+<p>Seattle Worldcon 2025 has announced Brandon O&#8217;Brien as their poet laureate, a special guest position that aims to &#8220;elevate our proceedings and help us spotlight and emphasize the craft and literary tradition of speculative poetry at this Worldcon.&#8221;</p>
+<p>Seattle Worldcon 2025 will be held in August 13-17, 2025. The theme is &#8220;Building Yesterday&#8217;s Future &#8211; For Everyone&#8221;</p>
+<p>For more information, see the announcement.</p>
+
+<p></p>
+<p><strong>While you are here,</strong> please take a  <a href="https://locusmag.com/2024/07/seattle-worldcon-2025-announces-poet-laureate/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/seattle-worldcon-2025-announces-poet-laureate/>
+
+---
+
+## 2024 Frank R. Paul Award Winners
+
+date: 2024-07-23, from: Locus Magazine
+
+<p>Winners have been announced for the Frank R. Paul awards, honoring &#8220;outstanding work in book and magazine cover art.&#8221; Paul was a prominent cover illustrator for Golden Age science fiction magazines.</p>
+<p><strong>Best Book Cover</strong></p>
+<ul>
+<li>Kurt Miller for <strong>Lineage, Ravages of Honor: Book 3 </strong>by Monalisa Foster (self-published)</li>
+</ul>
+<p><strong>Best Magazine Cover</strong></p>
+<ul>
+<li>Sergio Rebolledo for Clarkesworld 7/23</li>
+</ul>
+<p>The awards were presented on July 20, 2024 at the 16th North American Science Fiction  <a href="https://locusmag.com/2024/07/2024-frank-r-paul-award-winners/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/2024-frank-r-paul-award-winners/>
+
+---
+
+## Introducing Yuanxiao Xu, Authors Alliance’s New Staff Attorney
+
+date: 2024-07-23, from: Author's Union blog
+
+By Dave Hansen Today I’m pleased to introduce to the Authors Alliance community Yuanxiao Xu, who will be taking on the role of Authors Alliance’s Staff Attorney.&#160;&#160; Over the past few years, Authors Alliance has been more active than ever before advocating for the interests of authors before courts and administrative agencies. Our involvement has [&#8230;] 
+
+<https://www.authorsalliance.org/2024/07/23/introducing-yuanxiao-xu-authors-alliances-new-staff-attorney/>
 
 ---
 
