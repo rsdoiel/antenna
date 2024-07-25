@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.30
-updated: 2024-07-24 16:18:09
+updated: 2024-07-25 08:04:58
 ---
 
 # retro computing 2024.30
 
-(date: 2024-07-24 16:18:09)
+(date: 2024-07-25 08:04:58)
+
+---
+
+## Next installment of 'Live Coding with Gerph" on sunday
+
+date: 2024-07-25, from: Icon Bar, RISC OS News
+
+If you have been enjoying the regular chance to see a RISC OS coding masterclass (or if you wish you had not missed the previous sessions), you can catch another episode live at 1pm on sunday. 
+
+<http://www.iconbar.com/comments/rss/news2088.html>
 
 ---
 
@@ -49,9 +59,64 @@ If you have a FIRE or Pyro system from RISCOSbits (I reviewed mine here) you may
 
 ---
 
-## Thematic Book Series: How Circular is the Circular Economy?
+## Low-tech Magazine: The Ebooks
 
 date: 2024-07-23, from: Low-tech magazine
+
+<div class="article-img ">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-2_dithered.png" alt='Image: Ebook. Photo: Marie Verdeil.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Ebook. Photo: Marie Verdeil. 
+</figcaption>
+</div>
+</div>
+<p>Many of you have asked for ebooks, and now you can download both the chronological and thematic books series in epub version. The files work on any type of device, without restrictions. You can find all ebooks in <a href="https://payhip.com/LOWTECHMAGAZINE">our online bookshop</a>.</p>
+<p><a href="https://patreon.com/lowtechmagazine">Patrons get free access to all ebooks and PDF archives</a>.</p>
+<div class="article-img ">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-3_dithered.png" alt='Image: Low-tech Magazine Ebook. Photo: Marie Verdeil.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Low-tech Magazine Ebook. Photo: Marie Verdeil. 
+</figcaption>
+</div>
+</div>
+<div class="article-img  vertical">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-1_dithered.png" alt='Image: Low-tech Magazine Ebook. Photo: Marie Verdeil.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Low-tech Magazine Ebook. Photo: Marie Verdeil. 
+</figcaption>
+</div>
+</div> 
+
+<https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/>
+
+---
+
+## Snow Leopard PPC: What Works, What Doesn’t
+
+date: 2024-07-22, from: Happy Macs site
+
+Summary: In my first post covering the install of Snow Leopard on a PPC Mac, I mentioned that I would follow up with more insights into issues with this unsupported configuration, and workarounds that I had found. This post provides those &#8220;insights&#8221;… more like &#8220;observations&#8221;, but at any rate, a follow up on what works [&#8230;] 
+
+<https://happymacs.wordpress.com/2024/07/22/snow-leopard-ppc-what-works-what-doesnt/>
+
+---
+
+## OpenMandriva Lx 24.07 Released
+
+date: 2024-07-22, from: Linux Magazine
+
+<p>If you’re into rolling release Linux distributions, OpenMandriva ROME has a new snapshot with a new kernel.</p> 
+
+<http://www.linux-magazine.com/Online/News/OpenMandriva-Lx-24.07-Released>
+
+---
+
+## Thematic Book Series: How Circular is the Circular Economy?
+
+date: 2024-07-22, from: Low-tech magazine
 
 <div class="article-img ">
 <figure data-imgstate="dither">
@@ -100,61 +165,6 @@ date: 2024-07-23, from: Low-tech magazine
 <p>The Low-tech Magazine archives are also available as a <a href="https://solar.lowtechmagazine.com/offline-reading/">chronological series consisting of four volumes</a>.</p> 
 
 <https://solar.lowtechmagazine.com/2024/07/thematic-book-series-how-circular-is-the-circular-economy/>
-
----
-
-## Snow Leopard PPC: What Works, What Doesn’t
-
-date: 2024-07-22, from: Happy Macs site
-
-Summary: In my first post covering the install of Snow Leopard on a PPC Mac, I mentioned that I would follow up with more insights into issues with this unsupported configuration, and workarounds that I had found. This post provides those &#8220;insights&#8221;… more like &#8220;observations&#8221;, but at any rate, a follow up on what works [&#8230;] 
-
-<https://happymacs.wordpress.com/2024/07/22/snow-leopard-ppc-what-works-what-doesnt/>
-
----
-
-## OpenMandriva Lx 24.07 Released
-
-date: 2024-07-22, from: Linux Magazine
-
-<p>If you’re into rolling release Linux distributions, OpenMandriva ROME has a new snapshot with a new kernel.</p> 
-
-<http://www.linux-magazine.com/Online/News/OpenMandriva-Lx-24.07-Released>
-
----
-
-## Low-tech Magazine: The Ebooks
-
-date: 2024-07-22, from: Low-tech magazine
-
-<div class="article-img ">
-<figure data-imgstate="dither">
-<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-2_dithered.png" alt='Image: Ebook. Photo: Marie Verdeil.' loading="lazy"/></figure>
-<figcaption class="caption">
- Image: Ebook. Photo: Marie Verdeil. 
-</figcaption>
-</div>
-</div>
-<p>Many of you have asked for ebooks, and now you can download both the chronological and thematic books series in epub version. The files work on any type of device, without restrictions. You can find all ebooks in <a href="https://payhip.com/LOWTECHMAGAZINE">our online bookshop</a>.</p>
-<p><a href="https://patreon.com/lowtechmagazine">Patrons get free access to all ebooks and PDF archives</a>.</p>
-<div class="article-img ">
-<figure data-imgstate="dither">
-<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-3_dithered.png" alt='Image: Low-tech Magazine Ebook. Photo: Marie Verdeil.' loading="lazy"/></figure>
-<figcaption class="caption">
- Image: Low-tech Magazine Ebook. Photo: Marie Verdeil. 
-</figcaption>
-</div>
-</div>
-<div class="article-img  vertical">
-<figure data-imgstate="dither">
-<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-1_dithered.png" alt='Image: Low-tech Magazine Ebook. Photo: Marie Verdeil.' loading="lazy"/></figure>
-<figcaption class="caption">
- Image: Low-tech Magazine Ebook. Photo: Marie Verdeil. 
-</figcaption>
-</div>
-</div> 
-
-<https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/>
 
 ---
 

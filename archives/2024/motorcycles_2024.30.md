@@ -1,11 +1,141 @@
 ---
 title: motorcycles 2024.30
-updated: 2024-07-24 16:18:09
+updated: 2024-07-25 08:04:58
 ---
 
 # motorcycles 2024.30
 
-(date: 2024-07-24 16:18:09)
+(date: 2024-07-25 08:04:58)
+
+---
+
+## I'd Immediately Get These White Off-Road Boots Dirty, I Still Want Them
+
+date: 2024-07-25, from: Ride Apart, Electric Motorcycle News
+
+That drip, tho. 
+
+<https://www.rideapart.com/news/727804/gaerne-balance-xtr-trials-atv-adv-motorcycle-boots/>
+
+---
+
+## Brake-Maker Brembo Is Investing Big in Connected Mobility Tech
+
+date: 2024-07-25, from: Ride Apart, Electric Motorcycle News
+
+It acquired a stake in Spoke Safety, a startup specializing in advanced connected mobility technology.  
+
+<https://www.rideapart.com/news/727675/brembo-invests-in-spoke-safety-connected-mobility/>
+
+---
+
+## The Main Highway to Sturgis is Under Construction, Won't Be Fixed Until 2027
+
+date: 2024-07-25, from: Ride Apart, Electric Motorcycle News
+
+Hope you like gravel.  
+
+<https://www.rideapart.com/news/727659/sturgis-2024-gravel-highway-construction/>
+
+---
+
+## I’ve Been Using onX Maps Wrong, But You Don’t Have To
+
+date: 2024-07-25, from: Ride Apart, Electric Motorcycle News
+
+Those who don’t learn from history are doomed to repeat it. 
+
+<https://www.rideapart.com/news/727797/onx-hunt-off-road-maps-how-to-use-right/>
+
+---
+
+## Get Ready, Honda's E-Clutch CB650R and CBR650R Are Coming to the US
+
+date: 2024-07-25, from: Ride Apart, Electric Motorcycle News
+
+No clutch lever confidence, no problem. 
+
+<https://www.rideapart.com/news/727795/honda-eclutch-cb650r-cbr650r-us/>
+
+---
+
+## Yamaha Wants Hydrogen Power, Will Use It to Power Manufacturing Facilities
+
+date: 2024-07-25, from: Ride Apart, Electric Motorcycle News
+
+It’s all part of Team Blue’s goal of achieving carbon neutrality by 2050.  
+
+<https://www.rideapart.com/news/727677/yamaha-hydrogen-powered-manufacturing/>
+
+---
+
+## There’s a Limited Edition Hello Kitty Honda Scooter, and I Need It
+
+date: 2024-07-25, from: Ride Apart, Electric Motorcycle News
+
+International style icon Kitty White isn't the only one celebrating a milestone birthday in 2024, either... 
+
+<https://www.rideapart.com/news/727791/hello-kitty-scooter-limited-edition/>
+
+---
+
+## 2025 Honda ADV160
+
+date: 2024-07-25, from: Cycle World News
+
+Honda’s ADV160 is an urban-adventure scooter that is built to deal with the potholes and broken pavement of the city, but can also wander off the beaten path. 
+
+<https://www.cycleworld.com/honda/adv160/>
+
+---
+
+## 2024 Harley-Davidson Ultra Limited
+
+date: 2024-07-25, from: Cycle World News
+
+The Harley-Davidson Ultra Limited is a high-end tourer in the classic Milwaukee mold. How much longer will it be cast in the same mold? 
+
+<https://www.cycleworld.com/harley-davidson/ultra-limited/>
+
+---
+
+## 2024 Harley-Davidson Ultra Limited Gallery
+
+date: 2024-07-25, from: Cycle World News
+
+Photos from Cycle World's 2024 Harley Davidson Ultra Limited Buyer's Guide article. 
+
+<https://www.cycleworld.com/gallery/2024-harley-davidson-ultra-limited-photos/>
+
+---
+
+## 2024 Honda Navi
+
+date: 2024-07-25, from: Cycle World News
+
+Honda’s diminutive Navi is the company’s most affordable road-legal model and ideal for bopping around urban centers. 
+
+<https://www.cycleworld.com/honda/navi/>
+
+---
+
+## MotoGP’s Front Tire Heat Problem
+
+date: 2024-07-25, from: Cycle World News
+
+Front tire and the rules around that pressure play a big part of the story of how racers race in MotoGP right now, but why? 
+
+<https://www.cycleworld.com/blogs/ask-kevin/motogp-front-tire-heat-problem/>
+
+---
+
+## The Challenges of Quick Suspension Adjustments
+
+date: 2024-07-25, from: Kickin the Tires blog
+
+By Jack Shaw, Guest Writer Car customization has always been popular for cosmetic purposes. However, suspension adjustments focus more on functionality and performance. These tweaks can make a big difference&#8230;  
+
+<https://kickinthetires.net/feature/the-challenges-of-quick-suspension-adjustments/>
 
 ---
 

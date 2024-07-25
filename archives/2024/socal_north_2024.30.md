@@ -1,17 +1,215 @@
 ---
 title: socal north 2024.30
-updated: 2024-07-24 16:18:02
+updated: 2024-07-25 08:04:50
 ---
 
 # socal north 2024.30
 
-(date: 2024-07-24 16:18:02)
+(date: 2024-07-25 08:04:50)
+
+---
+
+## LA is planning for hundreds of thousands of new homes. But not in single-family zones
+
+date: 2024-07-25, updated: 2024-07-25, from: The LAist
+
+The city has a lot of work to do to meet state housing goals, including rezoning. But officials don’t want to touch single-family neighborhoods. 
+
+<https://laist.com/news/housing-homelessness/los-angeles-city-rezoning-citywide-housing-incentive-program-state-goals-element-planning-single-family-zones-homelessness>
+
+---
+
+## Fernandeño Tataviam Tribe Cultivará un Vivero de Arboles Nativos para Aliviar el Impacto del Cambio Climático
+
+date: 2024-07-25, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Seedlings-for-Urban-Forest_SN_12-scaled-e1721883556363.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Seedlings-for-Urban-Forest_SN_12-scaled-e1721883556363.jpeg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Seedlings-for-Urban-Forest_SN_12-scaled-e1721883556363.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Seedlings-for-Urban-Forest_SN_12-scaled-e1721883556363.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Seedlings-for-Urban-Forest_SN_12-scaled-e1721883556363.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A medida que las temperaturas subieron a tres dígitos en el Valle de San Fernando y los centros de enfriamiento se abrieron para los residentes que necesitan aire acondicionado, los [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/24/fernandeno-tataviam-tribe-cultivara-un-vivero-de-arboles-nativos-para-aliviar-el-impacto-del-cambio-climatico/">Fernandeño Tataviam Tribe Cultivará un Vivero de Arboles Nativos para Aliviar el Impacto del Cambio Climático</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/24/fernandeno-tataviam-tribe-cultivara-un-vivero-de-arboles-nativos-para-aliviar-el-impacto-del-cambio-climatico/>
+
+---
+
+## Los Veteranos Expuestos a Productos Químicos Tóxicos Pueden Reclamar Beneficios Ampliados a Través de la Ley PACT
+
+date: 2024-07-25, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="646" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/PXL_20240718_173937263-scaled-e1721883407678.jpg?fit=1024%2C646&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/PXL_20240718_173937263-scaled-e1721883407678.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/PXL_20240718_173937263-scaled-e1721883407678.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/PXL_20240718_173937263-scaled-e1721883407678.jpg?fit=1024%2C646&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/PXL_20240718_173937263-scaled-e1721883407678.jpg?fit=1024%2C646&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Fannie Long, miembra del Consejo Vecinal de Pacoima, es una veterana militar que sirvió en la Fuerza Aérea de los EE. UU. de 1976 a 1998 como mecánica de aviones. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/24/los-veteranos-expuestos-a-productos-quimicos-toxicos-pueden-reclamar-beneficios-ampliados-a-traves-de-la-ley-pact/">Los Veteranos Expuestos a Productos Químicos Tóxicos Pueden Reclamar Beneficios Ampliados a Través de la Ley PACT</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/24/los-veteranos-expuestos-a-productos-quimicos-toxicos-pueden-reclamar-beneficios-ampliados-a-traves-de-la-ley-pact/>
+
+---
+
+## Horóscopo
+
+date: 2024-07-25, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>ARIES (21 de mar &#8211; 19 de abr) Tus sentimientos se vierten a través de cada actividad, lo quieras o no. Los grandes sentimientos tienen una intensidad que los demás [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/24/horoscopo-173/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/24/horoscopo-173/>
+
+---
+
+## EVENTOS Locales – Semana de 25 de julio, 2020
+
+date: 2024-07-25, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Julio 26 Películas en el Parque Pioneer Park 828 Harding Ave. San Fernando 7 p.m. – 10 p.m. ¡Es la hora del espectáculo! ¡Toma una manta o tu silla [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/24/eventos-locales-semana-de-25-de-julio-2020/">EVENTOS Locales &#8211; Semana de 25 de julio, 2020 </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/24/eventos-locales-semana-de-25-de-julio-2020/>
+
+---
+
+## Manifestantes Exigen que Supervisores del Condado de Ventura Demanden por Laboratorio Tóxico de Simi Valley
+
+date: 2024-07-25, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="508" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/SSFLProtest_1_JanetMurphy.jpg?fit=1024%2C508&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/SSFLProtest_1_JanetMurphy.jpg?w=1131&amp;ssl=1 1131w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/SSFLProtest_1_JanetMurphy.jpg?resize=300%2C149&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/SSFLProtest_1_JanetMurphy.jpg?resize=1024%2C508&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/SSFLProtest_1_JanetMurphy.jpg?resize=768%2C381&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/SSFLProtest_1_JanetMurphy.jpg?resize=400%2C198&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/SSFLProtest_1_JanetMurphy.jpg?resize=706%2C350&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/SSFLProtest_1_JanetMurphy.jpg?fit=1024%2C508&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Aproximadamente 20 personas protestaron afuera de la reunión de la Junta de Supervisores del Condado de Ventura el martes 23 de julio, exigiendo que cumplan su promesa y demanden al [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/24/manifestantes-exigen-que-supervisores-del-condado-de-ventura-demanden-por-laboratorio-toxico-de-simi-valley/">Manifestantes Exigen que Supervisores del Condado de Ventura Demanden por Laboratorio Tóxico de Simi Valley</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/24/manifestantes-exigen-que-supervisores-del-condado-de-ventura-demanden-por-laboratorio-toxico-de-simi-valley/>
+
+---
+
+## Padilla y EPA Anuncian Casi $500 Millones para Mejorar la Calidad del Aire en el Sur de California
+
+date: 2024-07-25, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="973" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/thumbnail_image002_elsol.jpg?fit=1024%2C973&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/thumbnail_image002_elsol.jpg?w=1336&amp;ssl=1 1336w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/thumbnail_image002_elsol.jpg?resize=300%2C285&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/thumbnail_image002_elsol.jpg?resize=1024%2C973&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/thumbnail_image002_elsol.jpg?resize=768%2C730&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/thumbnail_image002_elsol.jpg?resize=1200%2C1141&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/thumbnail_image002_elsol.jpg?resize=400%2C380&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/thumbnail_image002_elsol.jpg?resize=706%2C671&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/thumbnail_image002_elsol.jpg?fit=1024%2C973&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El senador estadounidense Alex Padilla y líderes de la Agencia de Protección Ambiental (EPA, por sus siglas en inglés) anunciaron $500 millones en fondos históricos para reducir las emisiones tóxicas [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/24/padilla-y-epa-anuncian-casi-500-millones-para-mejorar-la-calidad-del-aire-en-el-sur-de-california/">Padilla y EPA Anuncian Casi $500 Millones para Mejorar la Calidad del Aire en el Sur de California</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/24/padilla-y-epa-anuncian-casi-500-millones-para-mejorar-la-calidad-del-aire-en-el-sur-de-california/>
+
+---
+
+## Cárdenas Entrega Más de $3 Millones a San Fernando Gardens en Pacoima
+
+date: 2024-07-25, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="599" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/SF-Gardens-01-scaled-e1721882640953.jpg?fit=1024%2C599&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/SF-Gardens-01-scaled-e1721882640953.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/SF-Gardens-01-scaled-e1721882640953.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/SF-Gardens-01-scaled-e1721882640953.jpg?fit=1024%2C599&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/SF-Gardens-01-scaled-e1721882640953.jpg?fit=1024%2C599&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Más de 1,400 residentes que viven en el complejo habitacional San Fernando Gardens en Pacoima están recibiendo nuevas unidades de aire acondicionado y techos fríos de bajo consumo para ayudar [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/24/cardenas-entrega-mas-de-3-millones-a-san-fernando-gardens-en-pacoima/">Cárdenas Entrega Más de $3 Millones a San Fernando Gardens en Pacoima</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/24/cardenas-entrega-mas-de-3-millones-a-san-fernando-gardens-en-pacoima/>
+
+---
+
+## Los Niños Reciben Mochilas, Material Escolar y Exámenes de Salud Gratuitos
+
+date: 2024-07-25, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/005-Boy-getting-haircut.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/005-Boy-getting-haircut.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/005-Boy-getting-haircut.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/005-Boy-getting-haircut.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/005-Boy-getting-haircut.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/005-Boy-getting-haircut.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/005-Boy-getting-haircut.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/005-Boy-getting-haircut.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/005-Boy-getting-haircut.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/005-Boy-getting-haircut.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/005-Boy-getting-haircut.jpg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/005-Boy-getting-haircut.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/005-Boy-getting-haircut.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/005-Boy-getting-haircut.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Docenas de niños y familias recibieron mochilas y exámenes de salud gratuitos, y disfrutaron de pintura facial gratuita y otras actividades divertidas, durante una Feria de Recursos de Regreso a [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/24/los-ninos-reciben-mochilas-material-escolar-y-examenes-de-salud-gratuitos/">Los Niños Reciben Mochilas, Material Escolar y Exámenes de Salud Gratuitos</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/24/los-ninos-reciben-mochilas-material-escolar-y-examenes-de-salud-gratuitos/>
+
+---
+
+## Harris Pide Apoyo para la Elección a Las Mujeres de Color En Discurso en Indiana
+
+date: 2024-07-25, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/national-el-sol.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/national-el-sol.webp?w=1440&amp;ssl=1 1440w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/national-el-sol.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/national-el-sol.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/national-el-sol.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/national-el-sol.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/national-el-sol.webp?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/national-el-sol.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/national-el-sol.webp?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/national-el-sol.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>By Josh BoakAssociated Press INDIANÁPOLIS (AP) — La vicepresidenta Kamala Harris dijo el miércoles a las integrantes de la histórica sororidad negra Zeta Phi Beta que “no estamos jugando” y [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/24/harris-pide-apoyo-para-la-eleccion-a-las-mujeres-de-color-en-discurso-en-indiana/">Harris Pide Apoyo para la Elección a Las Mujeres de Color En Discurso en Indiana</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/24/harris-pide-apoyo-para-la-eleccion-a-las-mujeres-de-color-en-discurso-en-indiana/>
+
+---
+
+## Las Sobredosis Fatales Relacionadas con Drogas se Disparan en LACo
+
+date: 2024-07-25, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ÁNGELES (CNS) &#8211; Las muertes por sobredosis e intoxicación relacionadas con drogas en el condado de Los Ángeles en 2023 se mantuvieron estables por primera vez en 10 años [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/24/las-sobredosis-fatales-relacionadas-con-drogas-se-disparan-en-laco/">Las Sobredosis Fatales Relacionadas con Drogas se Disparan en LACo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/24/las-sobredosis-fatales-relacionadas-con-drogas-se-disparan-en-laco/>
+
+---
+
+## UCLA spends millions on pro-Palestine protests, considers attendants to fund costs
+
+date: 2024-07-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA spent over $12 million in relation to spring pro-Palestine protests, according to estimates obtained by the Daily Bruin.
+The university spent $11,781,917 on security and law enforcement, including mutual aid with outside law enforcement agencies, private security and overtime payment for UC employees during the spring quarter, according to a preliminary estimate from the UCLA Compliance Office. 
+
+<https://dailybruin.com/2024/07/24/ucla-spends-millions-on-pro-palestine-protests-considers-attendants-to-fund-costs/>
+
+---
+
+## How to stay protected from the UV ray from sunlight
+
+date: 2024-07-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/07/24/how-to-stay-protected-from-the-uv-ray-from-sunlight/>
+
+---
+
+## UC regents committee hold public comments session, vote on Health CEO bonuses
+
+date: 2024-07-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Board of Regents Health Services Committee heard public comment from community members and voted to alter the bonus structures of UC Health CEOs on Tuesday. 
+
+<https://dailybruin.com/2024/07/24/uc-regents-committee-hold-public-comments-session-vote-on-health-ceo-bonuses/>
+
+---
+
+## Editorial: Heightened anti-Muslim hate in US, globally must be condemned
+
+date: 2024-07-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+As of July 10, an estimated 38,000 Palestinians have died and over 2.3 million have been displaced from their homes as a result of Israel’s military campaign in Gaza. 
+
+<https://dailybruin.com/2024/07/24/editorial-heightened-anti-muslim-hate-in-us-globally-must-be-condemned/>
+
+---
+
+## Big Ten Preview: Indiana
+
+date: 2024-07-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA is just weeks away from joining the Big Ten. After 96 years and 123 national championships in the Pac-12, the Bruins are at the forefront of the Big Ten&#8217;s West Coast expansion. 
+
+<https://dailybruin.com/2024/07/24/big-ten-preview-indiana/>
+
+---
+
+## Biden, in Oval Office address, says it was time to 'pass the torch'
+
+date: 2024-07-24, updated: 2024-07-25, from: The LAist
+
+President Biden will address the nation Wednesday evening at 5 p.m. PT for the first time since dropping out of the race for president and endorsing Vice President Harris. 
+
+<https://laist.com/news/politics/for-the-first-time-since-he-exited-the-presidential-race-biden-to-address-the-nation>
 
 ---
 
 ## Where are the kids? Preschools in LA County struggle with enrollment post-pandemic
 
-date: 2024-07-24, updated: 2024-07-24, from: The LAist
+date: 2024-07-24, updated: 2024-07-25, from: The LAist
 
 Private centers and state-funded preschools in L.A. County have reported nearly 28,000 empty slots. 
 

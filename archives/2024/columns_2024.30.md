@@ -1,11 +1,190 @@
 ---
 title: columns 2024.30
-updated: 2024-07-24 16:18:06
+updated: 2024-07-25 08:04:54
 ---
 
 # columns 2024.30
 
-(date: 2024-07-24 16:18:06)
+(date: 2024-07-25 08:04:54)
+
+---
+
+## Matt Levine Explains Cryptocurrency Markets
+
+date: 2024-07-25, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiishaLOWlVs2KWrWXdP5uLq_y9IOZ8SlrzpnnnpCe88AtJy8lDZX6am9wu445SYA2gL6gvaPch-f-1GDy3iANX36Ha03IfldWVGg4cp-Uz9NhoPCJUg8aPXpIjf56oy361fn9qjpMyCBZR-dyxXr6zL8K5GKwhFo5dLFw6ui-LuBAjCDJrUdkS2rE_kWXk/s768/KanavKariya.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="768" data-original-width="768" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiishaLOWlVs2KWrWXdP5uLq_y9IOZ8SlrzpnnnpCe88AtJy8lDZX6am9wu445SYA2gL6gvaPch-f-1GDy3iANX36Ha03IfldWVGg4cp-Uz9NhoPCJUg8aPXpIjf56oy361fn9qjpMyCBZR-dyxXr6zL8K5GKwhFo5dLFw6ui-LuBAjCDJrUdkS2rE_kWXk/w200-h200/KanavKariya.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.bloomberg.com/news/articles/2021-09-14/jump-trading-names-25-year-old-former-intern-as-crypto-unit-head">Kanav Kariya</a></td></tr></tbody></table>
+Matt Levine's superpower is his ability to describe financial issues in wonderfully simple terms, and in a section of <a href="https://www.bloomberg.com/opinion/articles/2024-07-22/bad-trades-are-also-valuable">Monday's column</a> entitled <i>Crypto is for fun</i> he is on top form:<br />
+<blockquote>
+In many cases, the essential attribute of a crypto token is <i>liquidity</i>: What you want, often, is a token that trades a lot, because your goal for the token is to trade it a lot. Real-world utility, a sensible business model, acceptance in real transactions, etc., are all less important than just <i>trading</i> if you think of crypto as a toy market for traders to play with. If a token trades a lot at a high price, that in itself <i>justifies</i> the price, because that is all that is asked of a token: It doesn’t need to have a good underlying business or cash flows; it just has to trade a lot at a high price.
+</blockquote>
+Below the fold I discuss the astonishing story behind this explanation of why <a href="https://doi.org/10.1016/j.frl.2021.101982">wash</a> <a href="https://arxiv.org/abs/2108.10984">trading</a> is <a href="https://arxiv.org/abs/2102.07001">so rife</a> in cryptocurrencies.<br />
+<span><a name='more'></a></span>
+<br />
+Levine is commenting on Leo Schwartz' <a href="https://fortune.com/2024/07/11/jump-trading-kanav-kariya-crypto-terra-do-kwon-disaster"><i>The rise and fall of a crypto whiz kid: How 25-year-old Kanav Kariya went from president of Jump Crypto to pleading the Fifth</i></a>. This tells how Jump Crypto got started as a way to evaluate interns, such as Kanav Kariya, as potential hires:<br />
+<blockquote>
+The firm needed to test the mettle of its would-be staffers—whether they could parse the nuances in financial markets and translate them into algorithmic trading models. But it couldn’t give the temporary hires the keys to the kingdom, with its proprietary strategies and billions of dollars in capital.<br />
+<br />
+Crypto offered a solution. The sector had its own tradable assets, exchanges, and quirks, but it was separated enough from Jump’s world of stocks and bonds that it wouldn’t pose a threat.
+</blockquote>
+Levine <a href="https://www.bloomberg.com/opinion/articles/2024-07-22/bad-trades-are-also-valuable">comments</a>:<br />
+<blockquote>
+It feels like a useful mental model for crypto: Crypto is what you get when you take the smart ambitious interns at traditional financial firms and put them in charge of their own play market. Only for real money.
+</blockquote>
+Jump Crypto made markets, and for many <a href="https://blog.dshr.org/2023/10/shitcoins.html">shitcoins</a> they were the dominant market maker, and thus the reason why the shitcoins traded a lot, and thus the source of their value. This was because they made <a href="https://fortune.com/2024/07/11/jump-trading-kanav-kariya-crypto-terra-do-kwon-disaster">deals with the shitcoin projects</a>:<br />
+<blockquote>
+Token projects will lend market makers a large supply of tokens so they can kickstart trading. Some firms also negotiate a call option, which gives the market makers the right to buy a chunk of the tokens for a steep discount if the project goes well. Selig says that the inverted structure in crypto—where market makers work with token projects, rather than exchanges—makes some sense, given projects’ need to spur trading activity. It also creates dynamics that would never be allowed in TradFi. While crypto market makers still make money off the trading spreads, the massive windfalls often come from those lucrative call options.
+</blockquote>
+If I'm a shitcoin promoter, I can sell Jump Crypto cheap call options for a bunch of my new shitcoin. They will pump the price by wash trading it. We'll, both get rich; me from selling some of my inflated tokens, and Jump Crypto by exercising the options and selling. Who are we selling to? The retail speculators sucked in by the spectacle of a new token with a rapidly rising "price". This is another version of the VC's <a href="https://blog.dshr.org/2022/02/list-and-dump-schemes.html"><i>List And Dump Schemes</i></a> described by Fais Khan in <a href="https://startupsandecon.substack.com/p/you-dont-own-web3-a-coinbase-curse"><i>"You Don't Own Web3": A Coinbase Curse and How VCs Sell Crypto to Retail</i></a>.<br />
+<br />
+Schwartz <a href="https://fortune.com/2024/07/11/jump-trading-kanav-kariya-crypto-terra-do-kwon-disaster">writes</a>:<br />
+<blockquote>
+For a firm like Jump, becoming the market maker for a token project meant unlimited upside with no real financial risk. “If you’re at Jump, you decide which one is going to win,” one crypto exchange founder tells Fortune, speaking on the condition of anonymity to discuss industry dynamics.
+</blockquote>
+And Levine <a href="https://www.bloomberg.com/opinion/articles/2024-07-22/bad-trades-are-also-valuable">comments</a>:<br />
+<blockquote>
+Man, what a crazy time the crypto boom was. It really did teach a generation of young financial traders that they could build perpetual motion machines: You make a token, you trade it, that makes it go up, the value comes from you trading it, you can do no wrong, you get rich, “unlimited upside with no real financial risk.”
+</blockquote>
+Like most financial schemes, this all worked great at first. Two of the shitcoins for which Jump Crypto made markets were Do Kwon's Terra/Luna pair. Schwartz' article starts by recounting a  <a href="https://fortune.com/2024/07/11/jump-trading-kanav-kariya-crypto-terra-do-kwon-disaster">May 2021 crisis</a>:<br />
+<blockquote>
+[Jump Crypto] had become a kind of silent partner for one of the most high-profile projects in crypto, an algorithmic stablecoin called TerraUSD that was meant to maintain a $1 peg through a complex mechanism tied to a related cryptocurrency called Luna—a careful dance that Jump helped coordinate on the backend by fulfilling trades. But despite the bluster of Terra's swaggering founder, Do Kwon, the stablecoin was failing. It had lost its peg.
+</blockquote>
+Jump Crypto and Do Kwon <a href="https://fortune.com/2024/07/11/jump-trading-kanav-kariya-crypto-terra-do-kwon-disaster">averted the crisis</a>:<br />
+<blockquote>
+Over the next week, Jump secretly bought up huge tranches of TerraUSD to create the appearance of demand and restore the coin's value to $1, according to court documents. Meanwhile, Kwon "vested" Jump, meaning he agreed to deliver 65 million tokens of Luna to Jump at just $0.40, even though the coin would trade, at times, at more than $90 on exchanges.<br />
+<br />
+Jump ultimately made $1 billion from that agreement alone
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQCYA-I1GD2_87qcEm75jMuXNdj4aWqC-XpDCQ0_a_nSa1MDU7Ood0kN7tuKxnvjMA8Qpk6jEFT_jkNePo0OF4-WC_YkJQ5QI_6i0T4AhJSEmt0Ouw2QmhryV8AG-5ypiVMPkf08BouviEXodZrYwZenH1_OiaDwTaE-0i5ga7egb2efw3p7Wfn3PjzQ/s929/UST_ALL_graph_coinmarketcap.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="400" data-original-width="929" height="86" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQCYA-I1GD2_87qcEm75jMuXNdj4aWqC-XpDCQ0_a_nSa1MDU7Ood0kN7tuKxnvjMA8Qpk6jEFT_jkNePo0OF4-WC_YkJQ5QI_6i0T4AhJSEmt0Ouw2QmhryV8AG-5ypiVMPkf08BouviEXodZrYwZenH1_OiaDwTaE-0i5ga7egb2efw3p7Wfn3PjzQ/w200-h86/UST_ALL_graph_coinmarketcap.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://coinmarketcap.com/currencies/terrausd/">Terra loses peg</a><br /></td></tr></tbody></table>
+Like most financial schemes it could not last, and the longer it lasted <a href="https://fortune.com/2024/07/11/jump-trading-kanav-kariya-crypto-terra-do-kwon-disaster">the bigger the crash</a>:<br />
+<blockquote>
+These dubious heroics succeeded only in staving off the inevitable: When TerraUSD lost its peg again a year later, there was nothing Jump could do.  By May 2022, the cryptocurrency had grown in popularity, and its failure was catastrophic. Some $40 billion in investors' money evaporated into thin air in a matter of days.
+</blockquote>
+The details of Jump Crypto's involvement with Terra/Luna were revealed because the SEC's case against Terraform Labs and Kwon was based partly on a whistleblower from Jump Crypto. The testimony will probably feature in the criminal case against Kwon, currently awaiting extradition from Montenegro.<br /> 
+
+<https://blog.dshr.org/2024/07/matt-levine-explains-cryptocurrency.html>
+
+---
+
+## 2024-07-24 Gridmapper Local
+
+date: 2024-07-25, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-24-gridmapper-local">2024-07-24 Gridmapper Local</h1>
+
+<p>I was wondering whether I should get back to Gridmapper, but not using Javascript and the web but using Common Lisp.
+I spent some time on this <a href="2022-07-20_Gridmapper_CL">two years ago</a>.
+Of course by now I have forgotten everything – like how to build it!</p>
+
+<p>This is the Makefile that seems to work, given that I have both <code>gridmapper.asd</code> and <code>gridmapper.lisp</code> in the current directory.</p>
+
+<pre><code>SHELL = /bin/sh
+LISP ?= sbcl --non-interactive
+PWD   = $(shell pwd)
+
+build:
+	$(LISP) --eval '(asdf:load-asd &quot;$(PWD)/gridmapper.asd&quot;)' \
+	--eval '(asdf:load-system :gridmapper)' \
+	--eval '(asdf:make :gridmapper)' \
+	--eval '(quit)'
+</code></pre>
+
+<p>Surely there is a better way to do this?</p>
+
+<p>If I replace <code>(asdf:load-system :gridmapper)</code> with <code>(ql:quickload :gridmapper)</code> it no longer gives me a warning about <code>cl-colors.asd</code> which I don&rsquo;t know anything about. I guess the warning is still preferable because it means no dependency on Quicklisp? I have no idea. The <a href="https://src.alexschroeder.ch/gridmapper-local.git">README</a> comes with a long explanation of what to install and how to do it, in order to build Gridmapper – including the use of Quicklisp.</p>
+
+<p>The hairiest part is that I need access to a function that isn&rsquo;t exported from the Cairo package. So now I&rsquo;m accessing the private function (using two colons):</p>
+
+<pre><code>;; Sorry for the ugly hack… cairo_format_stride_for_width is not exported.
+(cairo::cairo_format_stride_for_width :CAIRO_FORMAT_ARGB32 (surface-width surface)))))
+</code></pre>
+
+<p>Two years ago, there was a different solution to this that apparently no longer works. 🤷</p>
+
+<p><a class="tag" href="/search/?q=%23Common_Lisp">#Common Lisp</a></p>
+
+<p><strong>2024-07-25</strong>. Another option would be to switch to a different binding of the SDL2 library, of course.
+<code>hu.dwim.sdl</code> sounds like the package I need? Sadly, there is no documentation. The SDL2 symbols are translated by the rules given into Common Lisp symbols. Given my lack of understanding, that makes it
+difficult. Furthermore, the binding I&rsquo;ve been using until now came with hand-written convenience methods
+such as <code>with-rects</code> that don&rsquo;t exist in this other binding. There is some porting to do. And given all
+of that… I must confess that it makes me tired.</p>
+
+<p>Using the browser as a universal user-interface is a pretty cool idea! Even if the application itself
+is a stand-alone program that can act as a web-server (like <a href="Oddmu">Oddmu</a>), all the hard parts are abstracted
+away: line-breaks, hyphenation, spell-checking when writing. Perhaps using the canvas is hard? But using
+the DOM and SVG is something I&rsquo;ve done countless times and by now I know my way around.</p>
+
+<p>Sigh.</p> 
+
+<https://alexschroeder.ch/view/2024-07-24-gridmapper-local>
+
+---
+
+## Córdoba, Spain
+
+date: 2024-07-25, from: mrusme blog
+
+"Córdoba, is a city in Andalusia, Spain, and the capital of the province of
+Córdoba. It is the third most populated municipality in Andalusia." 
+
+<https://xn--gckvb8fzb.com/travel/spain/cordoba/>
+
+---
+
+## Data Wallets Using the Solid Protocol
+
+date: 2024-07-25, updated: 2024-07-24, from: Bruce Schneier blog
+
+<p>I am the Chief of Security Architecture at <a href="https://www.inrupt.com/">Inrupt, Inc.</a>, the company that is commercializing Tim Berners-Lee&#8217;s <a href="https://solidproject.org/">Solid</a> open W3C standard for distributed data ownership. This week, we <a href="https://www.inrupt.com/blog/data-wallet-release">announced</a> a digital wallet based on the Solid architecture.</p>
+<p>Details are <a href="https://www.inrupt.com/release/data-wallet">here</a>, but basically a digital wallet is a repository for personal data and documents. Right now, there are hundreds of different wallets, but no standard. We think designing a wallet around Solid makes sense for lots of reasons. A wallet is more than a data store&#8212;data in wallets is for using and sharing. That requires interoperability, which is what you get from an open standard. It also requires fine-grained permissions and robust security, and that&#8217;s what the Solid protocols provide...</p> 
+
+<https://www.schneier.com/blog/archives/2024/07/data-wallets-using-the-solid-protocol.html>
+
+---
+
+## Beware the Mump
+
+date: 2024-07-25, from: Robert Reich's blog
+
+Musk is going all out for Trump. Let&#8217;s boycott Musk&#8217;s companies. 
+
+<https://robertreich.substack.com/p/beware-the-mump-0ee>
+
+---
+
+## Election Countdown, 103 Days to Go: Biden and Harris Each Set a Tone for Looking Ahead.
+
+date: 2024-07-25, from: James Fallows, Substack
+
+&#8216;I revere this office, but I love my country more&#8217;: Joe Biden on passing the torch, to Kamala Harris and to the rest of us. 
+
+<https://fallows.substack.com/p/election-countdown-103-days-to-go>
+
+---
+
+## July 24, 2024 
+
+date: 2024-07-25, from: Heather Cox Richardson blog
+
+Tonight, President Joe Biden explained to the American people why he decided to refuse the 2024 Democratic presidential nomination and hand the torch to Vice President Kamala Harris. 
+
+<https://heathercoxrichardson.substack.com/p/july-24-2024>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-25, from: Dave Winer's Scripting News)
+
+Is Reddit now <a href="https://news.ycombinator.com/item?id=41057033">only available</a> on Google search? 
+
+<http://scripting.com/2024/07/24.html#a002741>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-25, from: Dave Winer's Scripting News)
+
+Fantastic <a href="https://apnews.com/live/harris-biden-trump-election-campaign-updates">speech</a> by President Biden. It's good we'll have both a president and a campaign and that they'll be separate thing. I look forward to reading it slowly. And he put a cap on the awful communication of the last month, he took control of the story from the snobs and shit throwers in the press. 
+
+<http://scripting.com/2024/07/24.html#a002055>
 
 ---
 
@@ -86,6 +265,14 @@ date: 2024-07-24, updated: 2024-07-24, from: Jason Kittke's blog
  
 
 <https://kottke.org/24/07/0045003-the-gods-of-logic-benjami>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-24, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/03/smallerPatrioticKitty.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">How <a href="https://www.fastcompany.com/91158989/chatgpt-ai-appreciation-day">Harry McCracken discovered</a> that ChatGPT is a deeply and broadly knowledgable, infinitely patient, always available, inexpensive, programming partner. I've been <a href="https://www.google.com/search?q=site%3Ascripting.com+chatgpt">using it that way</a> for a year, and it has enabled me to take on much more ambitious and complete projects. It could evolve into something much more powerful, but where it is now is already amazing. The criticisms for ChatGPT have mostly missed the point of what it's useful for. 
+
+<http://scripting.com/2024/07/24.html#a174217>
 
 ---
 
@@ -186,47 +373,6 @@ date: 2024-07-24, from: Daniel Stenberg Blog
 On the curl website we of course list exactly what changes that go into each and every single release we do. In recent years I have even gone back and made sure we provide this information for every single release ever done. At the moment that means 258 releases, listing over 10,000 bugfixes and almost &#8230; <a href="https://daniel.haxx.se/blog/2024/07/24/changelog-changes/" class="more-link">Continue reading <span class="screen-reader-text">changelog changes</span> <span class="meta-nav">&#8594;</span></a> 
 
 <https://daniel.haxx.se/blog/2024/07/24/changelog-changes/>
-
----
-
-## 2024-07-24 Gridmapper Local
-
-date: 2024-07-24, from: Alex Schroeder's Blog
-
-<h1 id="2024-07-24-gridmapper-local">2024-07-24 Gridmapper Local</h1>
-
-<p>I was wondering whether I should get back to Gridmapper, but not using Javascript and the web but using Common Lisp.
-I spent some time on this <a href="2022-07-20_Gridmapper_CL">two years ago</a>.
-Of course by now I have forgotten everything – like how to build it!</p>
-
-<p>This is the Makefile that seems to work, given that I have both <code>gridmapper.asd</code> and <code>gridmapper.lisp</code> in the current directory.</p>
-
-<pre><code>SHELL = /bin/sh
-LISP ?= sbcl --non-interactive
-PWD   = $(shell pwd)
-
-build:
-	$(LISP) --eval '(asdf:load-asd &quot;$(PWD)/gridmapper.asd&quot;)' \
-	--eval '(asdf:load-system :gridmapper)' \
-	--eval '(asdf:make :gridmapper)' \
-	--eval '(quit)'
-</code></pre>
-
-<p>Surely there is a better way to do this?</p>
-
-<p>If I replace <code>(asdf:load-system :gridmapper)</code> with <code>(ql:quickload :gridmapper)</code> it no longer gives me a warning about <code>cl-colors.asd</code> which I don&rsquo;t know anything about. I guess the warning is still preferable because it means no dependency on Quicklisp? I have no idea. The <a href="https://src.alexschroeder.ch/gridmapper-local.git">README</a> comes with a long explanation of what to install and how to do it, in order to build Gridmapper – including the use of Quicklisp.</p>
-
-<p>The hairiest part is that I need access to a function that isn&rsquo;t exported from the Cairo package. So now I&rsquo;m accessing the private function (using two colons):</p>
-
-<pre><code>;; Sorry for the ugly hack… cairo_format_stride_for_width is not exported.
-(cairo::cairo_format_stride_for_width :CAIRO_FORMAT_ARGB32 (surface-width surface)))))
-</code></pre>
-
-<p>Two years ago, there was a different solution to this that apparently no longer works. 🤷</p>
-
-<p><a class="tag" href="/search/?q=%23Common_Lisp">#Common Lisp</a></p> 
-
-<https://alexschroeder.ch/view/2024-07-24-gridmapper-local>
 
 ---
 

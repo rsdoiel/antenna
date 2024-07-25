@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.30
-updated: 2024-07-24 16:18:08
+updated: 2024-07-25 08:04:56
 ---
 
 # libraries 2024.30
 
-(date: 2024-07-24 16:18:08)
+(date: 2024-07-25 08:04:56)
+
+---
+
+## A Look Under the Hood of Scopus AI: An Interview with Maxim Khan
+
+date: 2024-07-25, from: Scholarly Kitchen
+
+<p>To learn about how Scopus AI works under the hood, we interview Elsevier Sr. VP of Analytics Products and Data Platform, Maxim Khan.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/07/25/interview-with-maxim-khan-about-scopus-ai/">A Look Under the Hood of Scopus AI: An Interview with Maxim Khan</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/07/25/interview-with-maxim-khan-about-scopus-ai/>
 
 ---
 

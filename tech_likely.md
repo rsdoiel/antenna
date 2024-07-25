@@ -1,11 +1,237 @@
 ---
 title: tech likely 2024.30
-updated: 2024-07-24 16:18:05
+updated: 2024-07-25 08:04:54
 ---
 
 # tech likely 2024.30
 
-(date: 2024-07-24 16:18:05)
+(date: 2024-07-25 08:04:54)
+
+---
+
+## Benchmarking AWS Lambda Cold Starts Across JavaScript Runtimes
+
+date: 2024-07-25, updated: 2024-07-25, from: Deno blog
+
+When running production JavaScript in the cloud, performance is a critical consideration. Here’s how Deno’s cold start times compare against other JavaScript runtimes on AWS Lambda. 
+
+<https://deno.com/blog/aws-lambda-coldstart-benchmarks>
+
+---
+
+## Reclaiming the Viral Asian Body
+
+date: 2024-07-25, from: Logic Magazine
+
+
+                <p>“The truth is that we, as actors both individual and collective, are fundamentally enmeshed in/with the world. Our technologies weave their ways into our minds and bodies.”</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/reclaiming-the-viral-asian-body>
+
+---
+
+## 2024-07-24 Gridmapper Local
+
+date: 2024-07-25, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-24-gridmapper-local">2024-07-24 Gridmapper Local</h1>
+
+<p>I was wondering whether I should get back to Gridmapper, but not using Javascript and the web but using Common Lisp.
+I spent some time on this <a href="2022-07-20_Gridmapper_CL">two years ago</a>.
+Of course by now I have forgotten everything – like how to build it!</p>
+
+<p>This is the Makefile that seems to work, given that I have both <code>gridmapper.asd</code> and <code>gridmapper.lisp</code> in the current directory.</p>
+
+<pre><code>SHELL = /bin/sh
+LISP ?= sbcl --non-interactive
+PWD   = $(shell pwd)
+
+build:
+	$(LISP) --eval '(asdf:load-asd &quot;$(PWD)/gridmapper.asd&quot;)' \
+	--eval '(asdf:load-system :gridmapper)' \
+	--eval '(asdf:make :gridmapper)' \
+	--eval '(quit)'
+</code></pre>
+
+<p>Surely there is a better way to do this?</p>
+
+<p>If I replace <code>(asdf:load-system :gridmapper)</code> with <code>(ql:quickload :gridmapper)</code> it no longer gives me a warning about <code>cl-colors.asd</code> which I don&rsquo;t know anything about. I guess the warning is still preferable because it means no dependency on Quicklisp? I have no idea. The <a href="https://src.alexschroeder.ch/gridmapper-local.git">README</a> comes with a long explanation of what to install and how to do it, in order to build Gridmapper – including the use of Quicklisp.</p>
+
+<p>The hairiest part is that I need access to a function that isn&rsquo;t exported from the Cairo package. So now I&rsquo;m accessing the private function (using two colons):</p>
+
+<pre><code>;; Sorry for the ugly hack… cairo_format_stride_for_width is not exported.
+(cairo::cairo_format_stride_for_width :CAIRO_FORMAT_ARGB32 (surface-width surface)))))
+</code></pre>
+
+<p>Two years ago, there was a different solution to this that apparently no longer works. 🤷</p>
+
+<p><a class="tag" href="/search/?q=%23Common_Lisp">#Common Lisp</a></p>
+
+<p><strong>2024-07-25</strong>. Another option would be to switch to a different binding of the SDL2 library, of course.
+<code>hu.dwim.sdl</code> sounds like the package I need? Sadly, there is no documentation. The SDL2 symbols are translated by the rules given into Common Lisp symbols. Given my lack of understanding, that makes it
+difficult. Furthermore, the binding I&rsquo;ve been using until now came with hand-written convenience methods
+such as <code>with-rects</code> that don&rsquo;t exist in this other binding. There is some porting to do. And given all
+of that… I must confess that it makes me tired.</p>
+
+<p>Using the browser as a universal user-interface is a pretty cool idea! Even if the application itself
+is a stand-alone program that can act as a web-server (like <a href="Oddmu">Oddmu</a>), all the hard parts are abstracted
+away: line-breaks, hyphenation, spell-checking when writing. Perhaps using the canvas is hard? But using
+the DOM and SVG is something I&rsquo;ve done countless times and by now I know my way around.</p>
+
+<p>Sigh.</p> 
+
+<https://alexschroeder.ch/view/2024-07-24-gridmapper-local>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-25, from: Miguel de Icaza Mastondon feed)
+
+<p>I am struggling with coming up with a good looking set of document tab bars for Godot on iPad.</p><p>My first take was this, it was a blend of Xcode elements.</p><p>And Václav suggested something like the second, but I think it feels strange.  Anyone has some pointers to apps with document tabs on iPadOS?</p> 
+
+<https://mastodon.social/@Migueldeicaza/112847635346376144>
+
+---
+
+## NASA Supports Burst Test for Orbital Reef Commercial Space Station
+
+date: 2024-07-25, from: NASA breaking news
+
+An element of a NASA-funded commercial space station, Orbital Reef, under development by Blue Origin and Sierra Space, recently completed a full-scale ultimate burst pressure test as part of the agency’s efforts for new destinations in low Earth orbit. This milestone is part of a NASA Space Act Agreement awarded to Blue Origin in 2021. [&#8230;] 
+
+<https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-supports-burst-test-for-orbital-reef-commercial-space-station/>
+
+---
+
+## Heat’s Impact on Train Travel
+
+date: 2024-07-25, updated: 2024-07-25, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/07/25/heats-impact-on-train-travel/>
+
+---
+
+## Córdoba, Spain
+
+date: 2024-07-25, from: mrusme blog
+
+"Córdoba, is a city in Andalusia, Spain, and the capital of the province of
+Córdoba. It is the third most populated municipality in Andalusia." 
+
+<https://xn--gckvb8fzb.com/travel/spain/cordoba/>
+
+---
+
+## FreeBSD as a platform for your future technology
+
+date: 2024-07-25, from: OS News
+
+Choosing an operating system for new technology can be crucial for the success of any project. Years down the road, this decision will continue to inform the speed and efficiency of development.&#160;But should you build the infrastructure yourself or rely on a proven system? When faced with this decision, many companies have chosen, and continue to choose, FreeBSD. Few operating systems offer the immediate high performance and security of FreeBSD, areas where new technologies typically struggle. Having a stable and secure development platform reduces upfront costs and development time. The combination of stability, security, and high performance has led to the adoption of FreeBSD in a wide range of applications and industries. This is true for new startups and larger established companies such as Sony, Netflix, and Nintendo. FreeBSD continues to be a dependable ecosystem and an industry-leading platform. ↫ FreeBSD Foundation A FreeBSD marketing document highlighting FreeBSD&#8217;s strengths is, of course, hardly a surprise, but considering it&#8217;s fighting what you could generously call an uphill battle against the dominance of Linux, it&#8217;s still interesting to see what, exactly, FreeBSD highlights as its strengths. It should come as no surprise that its licensing model &#8211; the simple BSD license &#8211; is mentioned first and foremost, since it&#8217;s a less cumbersome license to deal with than something like the GPL. It&#8217;s philosophical debate we won&#8217;t be concluding any time soon, but the point still stands. FreeBSD also highlights that it&#8217;s apparently quite easy to upstream changes to FreeBSD, making sure that changes benefit everyone who uses FreeBSD. While I can&#8217;t vouch for this, it does seem reasonable to assume that it&#8217;s easier to deal with the integrated, one-stop-shop that is FreeBSD, compared to the hodge-podge of hundreds and thousands of groups whose software all together make up a Linux system. Like I said, this is a marketing document so do keep that in mind, but I still found it interesting. 
+
+<https://www.osnews.com/story/140325/freebsd-as-a-platform-for-your-future-technology/>
+
+---
+
+## How NASA’s Roman Space Telescope Will Illuminate Cosmic Dawn
+
+date: 2024-07-25, from: NASA breaking news
+
+Today, enormous stretches of space are crystal clear, but that wasn’t always the case. During its infancy, the universe was filled with a “fog” that made it opaque, cloaking the first stars and galaxies. NASA’s upcoming Nancy Grace Roman Space Telescope will probe the universe’s subsequent transition to the brilliant starscape we see today –– [&#8230;] 
+
+<https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-space-telescope-will-illuminate-cosmic-dawn/>
+
+---
+
+## Former Space Communications, Navigation Interns Pioneer NASA’s Future
+
+date: 2024-07-25, from: NASA breaking news
+
+For over a decade, NASA’s SCaN (Space Communications and Navigation) Internship Project alumni have played important roles in extending the agency’s long-term vision for exploration. For National Intern Day on Thursday, July 25, previous program interns reflect on their journeys to and through NASA and offer advice for current and future interns.&#160; Every summer interns [&#8230;] 
+
+<https://www.nasa.gov/directorates/somd/space-communications-navigation-program/former-space-communications-navigation-interns-pioneer-nasas-future/>
+
+---
+
+## X.org lone ranger rides to rescue multi-monitor refresh rates
+
+date: 2024-07-25, updated: 2024-07-25, from: Liam Proven's articles at the Register
+
+<h4>X11 isn't dead while people still keep working on it</h4>
+      <p>It isn't quite XKCD 2347, but it's close. At least one developer is still working away on the X.org codebase with an effort to improve variable refresh rate support in several different OSes.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/25/xorg_monitor_refresh_rates/>
+
+---
+
+## Gehn Imager Andotrope | The MagPi #144
+
+date: 2024-07-25, from: Raspberry Pi News (.com)
+
+<p>Replicating a beloved display from a favourite game yielded amazing results for one Raspberry Pi maker.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/gehn-imager-andotrope-the-magpi-144/">Gehn Imager Andotrope | The MagPi #144</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/gehn-imager-andotrope-the-magpi-144/>
+
+---
+
+## OpenBSD enthusiast cooks up guide for the technically timid
+
+date: 2024-07-25, updated: 2024-07-25, from: Liam Proven's articles at the Register
+
+<h4>If you want a simple step-by-step, this is the best we've seen</h4>
+      <p>French BSD enthusiast Joel Carnat has written a how-to guide on setting up a laptop with OpenBSD for general use. It's worth a go for the Unix-curious.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/25/openbsd_for_the_people/>
+
+---
+
+## LIVE: NASA is with you from Oshkosh
+
+date: 2024-07-25, from: NASA breaking news
+
+Welcome to NASA Aeronautics&#8217; live update page with news about NASA events and other festivities taking place throughout the week at EAA AirVenture Oshkosh 2024, which we simply call Oshkosh. Final Fact on Day 3 Wednesday, July 24 at 8:30 p.m. EDT Fun fact! During the week of EAA AirVenture Oshkosh, the number of takeoffs, [&#8230;] 
+
+<https://www.nasa.gov/aeronautics/live-nasa-is-with-you-from-oshkosh/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-25, from: Dave Winer's Scripting News)
+
+Is Reddit now <a href="https://news.ycombinator.com/item?id=41057033">only available</a> on Google search? 
+
+<http://scripting.com/2024/07/24.html#a002741>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-25, from: Dave Winer's Scripting News)
+
+Fantastic <a href="https://apnews.com/live/harris-biden-trump-election-campaign-updates">speech</a> by President Biden. It's good we'll have both a president and a campaign and that they'll be separate thing. I look forward to reading it slowly. And he put a cap on the awful communication of the last month, he took control of the story from the snobs and shit throwers in the press. 
+
+<http://scripting.com/2024/07/24.html#a002055>
+
+---
+
+## 55 Years Ago: One Year Before the Moon Landing
+
+date: 2024-07-24, from: NASA breaking news
+
+In July 1968, much work still remained to meet the goal President John F. Kennedy set in May 1961, to land a man on the Moon and return him safely to the Earth before the end of the decade. No American astronaut had flown in space since the November 1966 flight of Gemini XII, the [&#8230;] 
+
+<https://www.nasa.gov/history/55-years-ago-one-year-before-the-moon-landing/>
+
+---
+
+## 25 Years Ago: STS-93, Launch of the Chandra X-Ray Observatory
+
+date: 2024-07-24, from: NASA breaking news
+
+On July 23, 1999, space shuttle Columbia took to the skies on its 26th trip into space, to deliver its heaviest payload ever – the Chandra X-ray Observatory. The STS-93 crew included Commander Eileen M. Collins, the first woman to command a space shuttle mission, Pilot Jeffrey S. Ashby, and Mission Specialists Catherine “Cady” G. [&#8230;] 
+
+<https://www.nasa.gov/history/25-years-ago-sts-93-launch-of-the-chandra-x-ray-observatory/>
 
 ---
 
@@ -26,16 +252,6 @@ date: 2024-07-24, updated: 2024-07-24, from: Jason Kottke blog
  
 
 <https://kottke.org/24/07/simple-advice-for-personal-finance-1>
-
----
-
-## LIVE: NASA is with you from Oshkosh
-
-date: 2024-07-24, from: NASA breaking news
-
-Welcome to NASA Aeronautics&#8217; live update page with news about NASA events and other festivities taking place throughout the week at EAA AirVenture Oshkosh 2024, which we simply call Oshkosh. It Takes All Jobs Wednesday, July 24 at 5:30 p.m. EDT Another panel today at Oshkosh titled “Unique Careers at NASA” expanded that career-advice subject [&#8230;] 
-
-<https://www.nasa.gov/aeronautics/live-nasa-is-with-you-from-oshkosh/>
 
 ---
 
@@ -186,6 +402,14 @@ date: 2024-07-24, updated: 2024-07-24, from: Jason Kottke blog
  
 
 <https://kottke.org/24/07/0045003-the-gods-of-logic-benjami>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-24, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/03/smallerPatrioticKitty.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">How <a href="https://www.fastcompany.com/91158989/chatgpt-ai-appreciation-day">Harry McCracken discovered</a> that ChatGPT is a deeply and broadly knowledgable, infinitely patient, always available, inexpensive, programming partner. I've been <a href="https://www.google.com/search?q=site%3Ascripting.com+chatgpt">using it that way</a> for a year, and it has enabled me to take on much more ambitious and complete projects. It could evolve into something much more powerful, but where it is now is already amazing. The criticisms for ChatGPT have mostly missed the point of what it's useful for. 
+
+<http://scripting.com/2024/07/24.html#a174217>
 
 ---
 
@@ -385,47 +609,6 @@ date: 2024-07-24, from: Ayjay blog
 How vividly did the Guadalcanal campaign impress itself on the American imagination? Well, this movie was released around nine months after the last Japanese soldiers were driven from the island. But all the media were moving at fast pace in those days. In propaganda, as in so many other things — internment of undesirables, terror-bombing [&#8230;] 
 
 <https://blog.ayjay.org/guadalcanal-2/>
-
----
-
-## 2024-07-24 Gridmapper Local
-
-date: 2024-07-24, from: Alex Schroeder's Blog
-
-<h1 id="2024-07-24-gridmapper-local">2024-07-24 Gridmapper Local</h1>
-
-<p>I was wondering whether I should get back to Gridmapper, but not using Javascript and the web but using Common Lisp.
-I spent some time on this <a href="2022-07-20_Gridmapper_CL">two years ago</a>.
-Of course by now I have forgotten everything – like how to build it!</p>
-
-<p>This is the Makefile that seems to work, given that I have both <code>gridmapper.asd</code> and <code>gridmapper.lisp</code> in the current directory.</p>
-
-<pre><code>SHELL = /bin/sh
-LISP ?= sbcl --non-interactive
-PWD   = $(shell pwd)
-
-build:
-	$(LISP) --eval '(asdf:load-asd &quot;$(PWD)/gridmapper.asd&quot;)' \
-	--eval '(asdf:load-system :gridmapper)' \
-	--eval '(asdf:make :gridmapper)' \
-	--eval '(quit)'
-</code></pre>
-
-<p>Surely there is a better way to do this?</p>
-
-<p>If I replace <code>(asdf:load-system :gridmapper)</code> with <code>(ql:quickload :gridmapper)</code> it no longer gives me a warning about <code>cl-colors.asd</code> which I don&rsquo;t know anything about. I guess the warning is still preferable because it means no dependency on Quicklisp? I have no idea. The <a href="https://src.alexschroeder.ch/gridmapper-local.git">README</a> comes with a long explanation of what to install and how to do it, in order to build Gridmapper – including the use of Quicklisp.</p>
-
-<p>The hairiest part is that I need access to a function that isn&rsquo;t exported from the Cairo package. So now I&rsquo;m accessing the private function (using two colons):</p>
-
-<pre><code>;; Sorry for the ugly hack… cairo_format_stride_for_width is not exported.
-(cairo::cairo_format_stride_for_width :CAIRO_FORMAT_ARGB32 (surface-width surface)))))
-</code></pre>
-
-<p>Two years ago, there was a different solution to this that apparently no longer works. 🤷</p>
-
-<p><a class="tag" href="/search/?q=%23Common_Lisp">#Common Lisp</a></p> 
-
-<https://alexschroeder.ch/view/2024-07-24-gridmapper-local>
 
 ---
 
@@ -1318,57 +1501,38 @@ is a big moment, for 4 reasons.
 
 ---
 
-## Thematic Book Series: How Circular is the Circular Economy?
+## Low-tech Magazine: The Ebooks
 
 date: 2024-07-23, from: Blog Muffinlabs
 
 <div class="article-img ">
 <figure data-imgstate="dither">
-<img src="https://solar.lowtechmagazine.com/2024/07/thematic-book-series-how-circular-is-the-circular-economy/images/dithers/coverthumbnailGREY3_dithered.png" alt='Image: Book cover.' loading="lazy"/></figure>
+<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-2_dithered.png" alt='Image: Ebook. Photo: Marie Verdeil.' loading="lazy"/></figure>
 <figcaption class="caption">
- Image: Book cover. 
+ Image: Ebook. Photo: Marie Verdeil. 
 </figcaption>
 </div>
 </div>
-<p><span id="ft_img"></span></p>
-<ul>
-<li>Buy the <a href="https://www.lulu.com/shop/kris-de-decker/how-circular-is-the-circular-economy/paperback/product-84n2mvv.html?q=how+circular+is+the+circular+economy&amp;page=1&amp;pageSize=4">print edition</a>.</li>
-<li>Buy the <a href="https://payhip.com/b/76Cnm">epub edition</a>.</li>
-</ul>
-<p>The circular economy – the newest magical word in the sustainable development vocabulary – promises economic growth without environmental destruction or waste. However, growth makes a circular economy impossible, even if we recycle all raw materials and all recycling is 100% efficient. No technology can change that because it&rsquo;s not a technological problem. In addition, many modern products are too complex to recycle.</p>
-<p>In this series of articles, LOW←TECH MAGAZINE explores how the circularity of various technologies like bicycles, solar panels, and wind turbines evolves. Placing the recycling of resources in a historical context makes clear that we are not moving toward a circular economy but rather increasingly away from it.</p>
-<h2 id="contents-table">Contents table:</h2>
-<ul>
-<li>How circular is the circular economy?</li>
-<li>Can we make bicycles sustainable again?</li>
-<li>Plastic waste in the fuel tank?</li>
-<li>Recycling animal and human manure is the key to sustainable farming</li>
-<li>How to make wind power sustainable again?</li>
-<li>Reinventing the small wind turbine</li>
-<li>How to build a low-tech solar panel?</li>
-<li>How to escape from the Iron Age?</li>
-</ul>
-<h2 id="available-in-our-bookshop">Available in our bookshop:</h2>
-<ul>
-<li><a href="https://www.lulu.com/shop/kris-de-decker/how-circular-is-the-circular-economy/paperback/product-84n2mvv.html?q=how+circular+is+the+circular+economy&amp;page=1&amp;pageSize=4">Print edition</a>.</li>
-<li><a href="https://payhip.com/b/76Cnm">Epub edition</a>.</li>
-</ul>
-<p><a href="https://www.patreon.com/lowtechmagazine">Patrons</a> get free access to ebooks, as well as early access to new print books at a reduced price.</p>
-<h2 id="other-books-in-the-series">Other books in the series:</h2>
-<ul>
-<li>
-<p><a href="https://lulu.com/shop/roel-roscam-abbing-and-marie-otsuka-and-kris-de-decker/how-to-build-a-low-tech-internet/paperback/product-9yq8v7.html?q=&amp;page=1&amp;pageSize=4">How to build a low-tech internet?</a>, Kris De Decker, Roel Roscam Abbing, Marie Otsuka, 2023. <a href="https://payhip.com/b/tZwV9">Ebook edition</a>.</p>
-</li>
-<li>
-<p><a href="https://www.lulu.com/shop/kris-de-decker/how-to-downsize-a-transport-network/paperback/product-42n4p7.html?q=&amp;page=1&amp;pageSize=4">How to downsize a transport network?</a>, Kris De Decker, 2023. <a href="https://payhip.com/b/foXDM">Ebook edition</a>.</p>
-</li>
-<li>
-<p><a href="https://www.lulu.com/shop/kris-de-decker/heating-people-not-spaces/paperback/product-zm52en6.html?q=heating+people+not+spaces&amp;page=1&amp;pageSize=4">Heating people not spaces</a>, Kris De Decker, 2024. <a href="https://payhip.com/b/AXGN2">Ebook edition</a></p>
-</li>
-</ul>
-<p>The Low-tech Magazine archives are also available as a <a href="https://solar.lowtechmagazine.com/offline-reading/">chronological series consisting of four volumes</a>.</p> 
+<p>Many of you have asked for ebooks, and now you can download both the chronological and thematic books series in epub version. The files work on any type of device, without restrictions. You can find all ebooks in <a href="https://payhip.com/LOWTECHMAGAZINE">our online bookshop</a>.</p>
+<p><a href="https://patreon.com/lowtechmagazine">Patrons get free access to all ebooks and PDF archives</a>.</p>
+<div class="article-img ">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-3_dithered.png" alt='Image: Low-tech Magazine Ebook. Photo: Marie Verdeil.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Low-tech Magazine Ebook. Photo: Marie Verdeil. 
+</figcaption>
+</div>
+</div>
+<div class="article-img  vertical">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-1_dithered.png" alt='Image: Low-tech Magazine Ebook. Photo: Marie Verdeil.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Low-tech Magazine Ebook. Photo: Marie Verdeil. 
+</figcaption>
+</div>
+</div> 
 
-<https://solar.lowtechmagazine.com/2024/07/thematic-book-series-how-circular-is-the-circular-economy/>
+<https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/>
 
 ---
 
@@ -2040,38 +2204,57 @@ date: 2024-07-22, from: Crossref Blog
 
 ---
 
-## Low-tech Magazine: The Ebooks
+## Thematic Book Series: How Circular is the Circular Economy?
 
 date: 2024-07-22, from: Blog Muffinlabs
 
 <div class="article-img ">
 <figure data-imgstate="dither">
-<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-2_dithered.png" alt='Image: Ebook. Photo: Marie Verdeil.' loading="lazy"/></figure>
+<img src="https://solar.lowtechmagazine.com/2024/07/thematic-book-series-how-circular-is-the-circular-economy/images/dithers/coverthumbnailGREY3_dithered.png" alt='Image: Book cover.' loading="lazy"/></figure>
 <figcaption class="caption">
- Image: Ebook. Photo: Marie Verdeil. 
+ Image: Book cover. 
 </figcaption>
 </div>
 </div>
-<p>Many of you have asked for ebooks, and now you can download both the chronological and thematic books series in epub version. The files work on any type of device, without restrictions. You can find all ebooks in <a href="https://payhip.com/LOWTECHMAGAZINE">our online bookshop</a>.</p>
-<p><a href="https://patreon.com/lowtechmagazine">Patrons get free access to all ebooks and PDF archives</a>.</p>
-<div class="article-img ">
-<figure data-imgstate="dither">
-<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-3_dithered.png" alt='Image: Low-tech Magazine Ebook. Photo: Marie Verdeil.' loading="lazy"/></figure>
-<figcaption class="caption">
- Image: Low-tech Magazine Ebook. Photo: Marie Verdeil. 
-</figcaption>
-</div>
-</div>
-<div class="article-img  vertical">
-<figure data-imgstate="dither">
-<img src="https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/images/dithers/epub-picture-1_dithered.png" alt='Image: Low-tech Magazine Ebook. Photo: Marie Verdeil.' loading="lazy"/></figure>
-<figcaption class="caption">
- Image: Low-tech Magazine Ebook. Photo: Marie Verdeil. 
-</figcaption>
-</div>
-</div> 
+<p><span id="ft_img"></span></p>
+<ul>
+<li>Buy the <a href="https://www.lulu.com/shop/kris-de-decker/how-circular-is-the-circular-economy/paperback/product-84n2mvv.html?q=how+circular+is+the+circular+economy&amp;page=1&amp;pageSize=4">print edition</a>.</li>
+<li>Buy the <a href="https://payhip.com/b/76Cnm">epub edition</a>.</li>
+</ul>
+<p>The circular economy – the newest magical word in the sustainable development vocabulary – promises economic growth without environmental destruction or waste. However, growth makes a circular economy impossible, even if we recycle all raw materials and all recycling is 100% efficient. No technology can change that because it&rsquo;s not a technological problem. In addition, many modern products are too complex to recycle.</p>
+<p>In this series of articles, LOW←TECH MAGAZINE explores how the circularity of various technologies like bicycles, solar panels, and wind turbines evolves. Placing the recycling of resources in a historical context makes clear that we are not moving toward a circular economy but rather increasingly away from it.</p>
+<h2 id="contents-table">Contents table:</h2>
+<ul>
+<li>How circular is the circular economy?</li>
+<li>Can we make bicycles sustainable again?</li>
+<li>Plastic waste in the fuel tank?</li>
+<li>Recycling animal and human manure is the key to sustainable farming</li>
+<li>How to make wind power sustainable again?</li>
+<li>Reinventing the small wind turbine</li>
+<li>How to build a low-tech solar panel?</li>
+<li>How to escape from the Iron Age?</li>
+</ul>
+<h2 id="available-in-our-bookshop">Available in our bookshop:</h2>
+<ul>
+<li><a href="https://www.lulu.com/shop/kris-de-decker/how-circular-is-the-circular-economy/paperback/product-84n2mvv.html?q=how+circular+is+the+circular+economy&amp;page=1&amp;pageSize=4">Print edition</a>.</li>
+<li><a href="https://payhip.com/b/76Cnm">Epub edition</a>.</li>
+</ul>
+<p><a href="https://www.patreon.com/lowtechmagazine">Patrons</a> get free access to ebooks, as well as early access to new print books at a reduced price.</p>
+<h2 id="other-books-in-the-series">Other books in the series:</h2>
+<ul>
+<li>
+<p><a href="https://lulu.com/shop/roel-roscam-abbing-and-marie-otsuka-and-kris-de-decker/how-to-build-a-low-tech-internet/paperback/product-9yq8v7.html?q=&amp;page=1&amp;pageSize=4">How to build a low-tech internet?</a>, Kris De Decker, Roel Roscam Abbing, Marie Otsuka, 2023. <a href="https://payhip.com/b/tZwV9">Ebook edition</a>.</p>
+</li>
+<li>
+<p><a href="https://www.lulu.com/shop/kris-de-decker/how-to-downsize-a-transport-network/paperback/product-42n4p7.html?q=&amp;page=1&amp;pageSize=4">How to downsize a transport network?</a>, Kris De Decker, 2023. <a href="https://payhip.com/b/foXDM">Ebook edition</a>.</p>
+</li>
+<li>
+<p><a href="https://www.lulu.com/shop/kris-de-decker/heating-people-not-spaces/paperback/product-zm52en6.html?q=heating+people+not+spaces&amp;page=1&amp;pageSize=4">Heating people not spaces</a>, Kris De Decker, 2024. <a href="https://payhip.com/b/AXGN2">Ebook edition</a></p>
+</li>
+</ul>
+<p>The Low-tech Magazine archives are also available as a <a href="https://solar.lowtechmagazine.com/offline-reading/">chronological series consisting of four volumes</a>.</p> 
 
-<https://solar.lowtechmagazine.com/2024/07/low-tech-magazine-the-ebooks/>
+<https://solar.lowtechmagazine.com/2024/07/thematic-book-series-how-circular-is-the-circular-economy/>
 
 ---
 

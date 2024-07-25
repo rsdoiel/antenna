@@ -1,11 +1,71 @@
 ---
 title: games 2024.30
-updated: 2024-07-24 16:18:07
+updated: 2024-07-25 08:04:56
 ---
 
 # games 2024.30
 
-(date: 2024-07-24 16:18:07)
+(date: 2024-07-25 08:04:56)
+
+---
+
+## I’m heartbroken no one likes my outfits in Dress to Impress
+
+date: 2024-07-25, updated: 2024-07-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24205592/dress-to-impress-roblox>
+
+---
+
+## Best STG44 loadout, class build in Modern Warfare 3
+
+date: 2024-07-25, updated: 2024-07-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/modern-warfare-3-guides/24205995/best-stg44-loadout-class-build-mw3>
+
+---
+
+## Best Static-HV loadout, class build in Modern Warfare 3
+
+date: 2024-07-25, updated: 2024-07-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/modern-warfare-3-guides/24205969/best-static-hv-loadout-class-build-mw3>
+
+---
+
+## The best puzzle games to play right now
+
+date: 2024-07-25, updated: 2024-07-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/what-to-play/24114511/best-puzzle-games-play-ios-android-windows-playstation-xbox>
+
+---
+
+## Guncho is a truly mind-melting old west cowboy shooter
+
+date: 2024-07-25, updated: 2024-07-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24204176/guncho-impressions-turn-based-shooter>
+
+---
+
+## Apex Legends reverses (some of) the battle pass changes everyone hated
+
+date: 2024-07-25, updated: 2024-07-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24205871/apex-legends-battle-pass-u-turn>
 
 ---
 

@@ -1,11 +1,187 @@
 ---
 title: going electric 2024.30
-updated: 2024-07-24 16:18:10
+updated: 2024-07-25 08:04:59
 ---
 
 # going electric 2024.30
 
-(date: 2024-07-24 16:18:10)
+(date: 2024-07-25 08:04:59)
+
+---
+
+## You Can Get $6,000 Off A New EV In Vermont If Your Gas Car Was Flood-Damaged
+
+date: 2024-07-25, from: Inside EVs News
+
+The state also offers $5,000 for getting a used EV, and all the incentives can be piled up with the federal tax credit. 
+
+<https://insideevs.com/news/727847/new-ev-flood-damage-vermont-incentive/>
+
+---
+
+## ChargePoint (CHPT) hits network milestone with 1 million charging ports available globally
+
+date: 2024-07-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/ChargePoint-charging-1-million-ports.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>EV charging network <a href="https://electrek.co/guides/chargepoint/">ChargePoint</a> recently hit a key milestone in global expansion, reaching 1 million charging ports across North America and Europe. To date, these combined ports have delivered billions of miles to EV drivers around the world.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chargepoint,ev-chargers,ev-charging" data-layer-viewtype="unknown" data-post-id="373235" href="https://electrek.co/2024/07/25/chargepoint-chpt-hits-network-milestone-1-million-charging-ports-globally/#more-373235" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/25/chargepoint-chpt-hits-network-milestone-1-million-charging-ports-globally/>
+
+---
+
+## EVs Left These Owners Stranded. But Not For Why You Think
+
+date: 2024-07-25, from: Inside EVs News
+
+Running out of battery power seems like an obvious reason, but that’s not what left owners stranded. 
+
+<https://insideevs.com/news/727893/evs-owners-stranded-tech-battery/>
+
+---
+
+## Porsche teases first Cayenne Electric prototypes [Images]
+
+date: 2024-07-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Porsche-Cayenne-Electric-prototypes-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The all-electric Porsche Cayenne is on its way. Porsche confirmed the next-gen Cayenne will be electric. Meanwhile, <a href="https://electrek.co/guides/porsche/">Porsche</a> plans to keep hybrid and gas models around a while longer. Porsche gave us a sneak peek as the first Cayenne Electric prototypes hit the road for testing. Check it out below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="porsche,porsche-cayenne" data-layer-viewtype="unknown" data-post-id="373229" href="https://electrek.co/2024/07/25/porsche-teases-first-cayenne-electric-prototypes-images/#more-373229" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/25/porsche-teases-first-cayenne-electric-prototypes-images/>
+
+---
+
+## Audi Q6 E-Tron Beats Tesla Model Y In This Long-Distance Challenge
+
+date: 2024-07-25, from: Inside EVs News
+
+It's now the fastest all-electric SUV in Bjørn Nyland's 622 miles (1,000 km) challenge. 
+
+<https://insideevs.com/news/727792/audi-q6-etron-long-distance-driving-test/>
+
+---
+
+## The latest belt-drive single-speed electric bike storming the bike lane: Tenways CGO600 Pro
+
+date: 2024-07-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/tenways-cgo600-pro-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>At just 37 lb (16.8 kg), the <a href="https://us.tenways.com/products/cgo600-pro?variant=44815100182824">Tenways CGO600 Pro</a> is pretty darn lightweight for an electric bike. Of course, you give up a lot of the features and performance many riders have come to expect of chunkier e-bikes, but the tradeoff leaves us with a lightweight ride that is still punchy enough for most commutes.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,review" data-layer-viewtype="unknown" data-post-id="373025" href="https://electrek.co/2024/07/25/the-latest-belt-drive-single-speed-electric-bike-storming-the-bike-lane-tenways-cgo600-pro/#more-373025" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/25/the-latest-belt-drive-single-speed-electric-bike-storming-the-bike-lane-tenways-cgo600-pro/>
+
+---
+
+## Chevrolet Equinox EV Is Now Cheaper To Lease Than The Gas Version
+
+date: 2024-07-25, from: Inside EVs News
+
+It’s also cheaper to lease than the bigger Blazer EV, which makes it an even better deal. However, there is an asterisk. 
+
+<https://insideevs.com/news/727827/2024-chevrolet-equinox-ev-cheaper-lease-gas-version/>
+
+---
+
+## I'd Immediately Get These White Off-Road Boots Dirty, I Still Want Them
+
+date: 2024-07-25, from: Ride Apart, Electric Motorcycle News
+
+That drip, tho. 
+
+<https://www.rideapart.com/news/727804/gaerne-balance-xtr-trials-atv-adv-motorcycle-boots/>
+
+---
+
+## Brake-Maker Brembo Is Investing Big in Connected Mobility Tech
+
+date: 2024-07-25, from: Ride Apart, Electric Motorcycle News
+
+It acquired a stake in Spoke Safety, a startup specializing in advanced connected mobility technology.  
+
+<https://www.rideapart.com/news/727675/brembo-invests-in-spoke-safety-connected-mobility/>
+
+---
+
+## The Main Highway to Sturgis is Under Construction, Won't Be Fixed Until 2027
+
+date: 2024-07-25, from: Ride Apart, Electric Motorcycle News
+
+Hope you like gravel.  
+
+<https://www.rideapart.com/news/727659/sturgis-2024-gravel-highway-construction/>
+
+---
+
+## I’ve Been Using onX Maps Wrong, But You Don’t Have To
+
+date: 2024-07-25, from: Ride Apart, Electric Motorcycle News
+
+Those who don’t learn from history are doomed to repeat it. 
+
+<https://www.rideapart.com/news/727797/onx-hunt-off-road-maps-how-to-use-right/>
+
+---
+
+## Get Ready, Honda's E-Clutch CB650R and CBR650R Are Coming to the US
+
+date: 2024-07-25, from: Ride Apart, Electric Motorcycle News
+
+No clutch lever confidence, no problem. 
+
+<https://www.rideapart.com/news/727795/honda-eclutch-cb650r-cbr650r-us/>
+
+---
+
+## Yamaha Wants Hydrogen Power, Will Use It to Power Manufacturing Facilities
+
+date: 2024-07-25, from: Ride Apart, Electric Motorcycle News
+
+It’s all part of Team Blue’s goal of achieving carbon neutrality by 2050.  
+
+<https://www.rideapart.com/news/727677/yamaha-hydrogen-powered-manufacturing/>
+
+---
+
+## There’s a Limited Edition Hello Kitty Honda Scooter, and I Need It
+
+date: 2024-07-25, from: Ride Apart, Electric Motorcycle News
+
+International style icon Kitty White isn't the only one celebrating a milestone birthday in 2024, either... 
+
+<https://www.rideapart.com/news/727791/hello-kitty-scooter-limited-edition/>
+
+---
+
+## Q2 earnings, Elon bets big on AI, cheap Tesla EVs, and Chevy EV lease deals
+
+date: 2024-07-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/elon-tesla-bot-meme.webp?w=1600" /></div><p>On this, extra-dense episode of Quick Charge, we cover Tesla’s Q2 earnings call, Elon Musk talks cheap Tesla cars and cheaper 4680 batteries while promising to finally deliver on that new Roadster from 2017.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet,quick-charge,tesla,tsla-tesla-stock,waymo" data-layer-viewtype="unknown" data-post-id="373202" href="https://electrek.co/2024/07/24/q2-earnings-elon-bets-big-on-ai-cheap-tesla-evs-and-chevy-ev-lease-deals/#more-373202" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/24/q2-earnings-elon-bets-big-on-ai-cheap-tesla-evs-and-chevy-ev-lease-deals/>
+
+---
+
+## Why Ford's CEO Is Pushing For Smaller EVs Instead Of Big Trucks
+
+date: 2024-07-24, from: Inside EVs News
+
+The rise of EVs has changed the rules of the game for established manufacturers like Ford.  
+
+<https://insideevs.com/news/727810/ford-small-ev-trucks-farley/>
 
 ---
 
@@ -13,7 +189,7 @@ updated: 2024-07-24 16:18:10
 
 date: 2024-07-24, from: Inside EVs News
 
-CEO Jim Farley told investors that they'll have to keep up with Chinese EV innovations no matter who is in the White House. 
+CEO Jim Farley told investors that Ford will have to keep up with Chinese EV innovations no matter who is in the White House. 
 
 <https://insideevs.com/news/727809/ford-ev-strategy-trump-wins/>
 

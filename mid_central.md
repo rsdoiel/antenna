@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.30
-updated: 2024-07-24 16:18:04
+updated: 2024-07-25 08:04:52
 ---
 
 # mid central 2024.30
 
-(date: 2024-07-24 16:18:04)
+(date: 2024-07-25 08:04:52)
+
+---
+
+## IoT: GenAI voice helps generate speech recognition models
+
+date: 2024-07-25, from: EDN Blog
+
+<img width="912" height="942" src="https://www.edn.com/wp-content/uploads/Hero-image-SensiML-GenAI-Voice.png?fit=912%2C942" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-SensiML-GenAI-Voice.png?w=912 912w, https://www.edn.com/wp-content/uploads/Hero-image-SensiML-GenAI-Voice.png?w=290 290w, https://www.edn.com/wp-content/uploads/Hero-image-SensiML-GenAI-Voice.png?w=768 768w" sizes="(max-width: 912px) 100vw, 912px" /><p>A new AI feature allows developers to generate synthetic speech data with greater precision and tailor voice attributes.</p>
+<p>The post <a href="https://www.edn.com/iot-genai-voice-helps-generate-speech-recognition-models/" data-wpel-link="internal">IoT: GenAI voice helps generate speech recognition models</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/iot-genai-voice-helps-generate-speech-recognition-models/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2024-07-24 16:18:04
 
 date: 2024-07-24, from: EDN Blog
 
-<img width="1334" height="810" src="https://www.edn.com/wp-content/uploads/THCP_Figure3.png?fit=1334%2C810" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/THCP_Figure3.png?w=1334 1334w, https://www.edn.com/wp-content/uploads/THCP_Figure3.png?w=300 300w, https://www.edn.com/wp-content/uploads/THCP_Figure3.png?w=768 768w, https://www.edn.com/wp-content/uploads/THCP_Figure3.png?w=1024 1024w" sizes="(max-width: 1334px) 100vw, 1334px" /><p>The “Take-Back-Half” precision diode charge pump adds a half-amplitude reverse-polarity pump that subtracts error terms.</p>
+<img width="1334" height="810" src="https://www.edn.com/wp-content/uploads/THCP_Figure3.png?fit=1334%2C810" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/THCP_Figure3.png?w=1334 1334w, https://www.edn.com/wp-content/uploads/THCP_Figure3.png?w=300 300w, https://www.edn.com/wp-content/uploads/THCP_Figure3.png?w=768 768w, https://www.edn.com/wp-content/uploads/THCP_Figure3.png?w=1024 1024w" sizes="(max-width: 1334px) 100vw, 1334px" /><p>The “Take-Back-Half” precision diode charge pump adds a half-amplitude reverse-polarity pump that subtracts error terms.</p>
 <p>The post <a href="https://www.edn.com/take-back-half-precision-diode-charge-pump/" data-wpel-link="internal">Take-Back-Half precision diode charge pump</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

@@ -1,11 +1,344 @@
 ---
 title: pacific 2024.30
-updated: 2024-07-24 16:18:03
+updated: 2024-07-25 08:04:52
 ---
 
 # pacific 2024.30
 
-(date: 2024-07-24 16:18:03)
+(date: 2024-07-25 08:04:52)
+
+---
+
+## Typhoon Gaemi leaves 21 dead, massive flooding in the Philippines 
+
+date: 2024-07-25, from: Pacific Island Times
+
+By Jinky J. Jorgio Manila— Twenty-one people were killed, hundreds were injured and thousands were displaced from their homes after... 
+
+<https://www.pacificislandtimes.com/post/typhoon-gaemi-leaves-22-dead-causes-massive-flooding-in-the-philippines>
+
+---
+
+## UHH women’s soccer: Meet the incoming class of Okamura’s nine-year tenure
+
+date: 2024-07-25, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; Entering the ninth season as UH-Hilo women&#8217;s soccer coach, Gene Okamura welcomes his largest incoming class with 16 newcomers set to join the Vulcans in just under a month&#8217;s time.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/25/sports/uhh-womens-soccer-meet-the-incoming-class-of-okamuras-nine-year-tenure/>
+
+---
+
+## Trent Williams holding out of 49ers training camp over contract
+
+date: 2024-07-25, from: Hawaii Tribune Harold
+
+
+				<p>SANTA CLARA, Calif. &#8212; There&#8217;s another 49er who&#8217;s dissatisfied with his contract situation.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/25/sports/trent-williams-holding-out-of-49ers-training-camp-over-contract/>
+
+---
+
+## June Jones continues mentorship, friendship with Chang
+
+date: 2024-07-25, from: Hawaii Tribune Harold
+
+
+				<p>On Sunday morning, University of Hawaii football coach Timmy Chang brought coffee, doughnuts and an open mind to the program&#8217;s conference room.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/25/sports/june-jones-continues-mentorship-friendship-with-chang/>
+
+---
+
+## LeBron James and Coco Gauff selected as U.S. flagbearers for Paris Olympics
+
+date: 2024-07-25, from: Hawaii Tribune Harold
+
+
+				<p>LeBron James is set to compete in his fourth Olympics.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/25/sports/lebron-james-and-coco-gauff-selected-as-u-s-flagbearers-for-paris-olympics/>
+
+---
+
+## Biden says he’s ‘passing the torch’ to defend democracy in speech from Oval Office
+
+date: 2024-07-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON&#8212; President Joe Biden said on Wednesday he pulled out of the race against Republican Donald Trump over concerns about the future of U.S. democracy, explaining he was stepping aside to allow a new generation to take over in his first public remarks since ending his re-election bid. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/25/nation-world-news/biden-says-hes-passing-the-torch-to-defend-democracy-in-speech-from-oval-office/>
+
+---
+
+## Time to end affordable housing credits? Report finds they don’t work as intended
+
+date: 2024-07-25, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County&#8217;s incentives for building affordable housing don&#8217;t work, according to a study of the County Code.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/25/hawaii-news/time-to-end-affordable-housing-credits-report-finds-they-dont-work-as-intended/>
+
+---
+
+## How Kamala Harris took command of the democratic party in 48 hours
+
+date: 2024-07-25, from: Hawaii Tribune Harold
+
+
+				<p>Late Sunday morning, Vice President Kamala Harris summoned a small clutch of her closest advisers and allies to the Naval Observatory, where she lives and works, with little notice and even less information.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/25/nation-world-news/how-kamala-harris-took-command-of-the-democratic-party-in-48-hours/>
+
+---
+
+## Trump attacks Harris as ‘radical’ in first rally since her ascent
+
+date: 2024-07-25, from: Hawaii Tribune Harold
+
+
+				<p>Former President Donald Trump on Wednesday blasted Vice President Kamala Harris as radically liberal and blamed her for what he called the Biden administration&#8217;s &#8220;disastrous&#8221; policies, repurposing attacks he had long leveled at President Joe Biden now that Harris is poised to be his opponent in November. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/25/nation-world-news/trump-attacks-harris-as-radical-in-first-rally-since-her-ascent/>
+
+---
+
+## Hawaiian Electric rolls out weather-monitoring stations
+
+date: 2024-07-25, from: Hawaii Tribune Harold
+
+
+				<p>Hawaiian Electric will install a series of weather-monitoring stations in wildfire-prone areas statewide.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/25/hawaii-news/hawaiian-electric-rolls-out-weather-monitoring-stations/>
+
+---
+
+## New Mexico woman drowns in Kona
+
+date: 2024-07-25, from: Hawaii Tribune Harold
+
+
+				<p>Police say a 54-year-old woman who died Monday in a possible drowning in Kailua-Kona has been identified as Jennifer Kathleen Purcell of Albuquerque, N.M.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/25/hawaii-news/new-mexico-woman-drowns-in-kona/>
+
+---
+
+## Obituaries for July 25
+
+date: 2024-07-25, from: Hawaii Tribune Harold
+
+
+				<p>Hisako Hirai, 92, of Kealakekua died June 24 at Kona Community Hospital. Born in Shizuoka, Japan, she was a clerk for Ben Franklin Store, server at Kona Tei and Kazan restaurants, worked for Japanese tour companies, participated in a senior bowling league and line dancing, and enjoyed yarn crafting. Private services. No flowers or koden (monetary gifts). Survived by sons, George (Kathy) Hirai of Ewa Beach, Oahu, Tommy (Sharon) Hirai of Hilo and Jeffrey (Lacey) Hirai of Captain Cook; daughter, Linda Hirai of Kealakekua; brother-in-law, Richard (Ruth) Hirai of Kaneohe, Oahu; seven grandchildren; great-grandchildren. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/25/obituaries/obituaries-for-july-25-8/>
+
+---
+
+## Not afraid of sharks? Well, now they’re on cocaine
+
+date: 2024-07-25, from: Hawaii Tribune Harold
+
+
+				<p>If the prospect of sharks lurking just off the beach wasn&#8217;t frightening enough, researchers in Brazil have discovered a new reason to be unnerved: Some of them have cocaine in their system. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/25/nation-world-news/not-afraid-of-sharks-well-now-theyre-on-cocaine/>
+
+---
+
+## Amid national tension, a man placing Trump signs is attacked in Michigan
+
+date: 2024-07-25, from: Hawaii Tribune Harold
+
+
+				<p>An act of political violence in a small Michigan town left an 80-year-old man in critical condition over the weekend, local officials said. His assailant, who called the police to confess, later killed himself.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/25/nation-world-news/amid-national-tension-a-man-placing-trump-signs-is-attacked-in-michigan/>
+
+---
+
+## Whale capsizes fishing boat off New Hampshire coast
+
+date: 2024-07-25, from: Hawaii Tribune Harold
+
+
+				<p>A humpback whale that an expert said was looking for food breached the water and landed on a recreational boat near Portsmouth, New Hampshire, on Tuesday, capsizing the vessel and ejecting two passengers, the United States Coast Guard said. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/25/nation-world-news/whale-capsizes-fishing-boat-off-new-hampshire-coast/>
+
+---
+
+## Nation and world news in brief for July 25
+
+date: 2024-07-25, from: Hawaii Tribune Harold
+
+
+				<p>Salman Rushdie&#8217;s alleged attacker faces federal terrorism charges</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/25/nation-world-news/nation-and-world-news-in-brief-for-july-25/>
+
+---
+
+## Taiwan on high alert as powerful typhoon slams into coast
+
+date: 2024-07-25, from: Hawaii Tribune Harold
+
+
+				<p>TAIPEI, Taiwan &#8212; Typhoon Gaemi lashed the northeastern region of Taiwan on Wednesday night, bringing fierce winds and heavy rain in what was forecast to be the most powerful storm to hit the island in eight years. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/25/nation-world-news/taiwan-on-high-alert-as-powerful-typhoon-slams-into-coast/>
+
+---
+
+## Netanyahu sketches vague outline for post-war Gaza
+
+date: 2024-07-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Israeli Prime Minister Benjamin Netanyahu sketched a vague outline of a plan for a &#8220;deradicalized&#8221; post-war Gaza in a speech to Congress on Wednesday and touted a potential future alliance between Israel and America&#8217;s Arab allies. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/25/nation-world-news/netanyahu-sketches-vague-outline-for-post-war-gaza/>
+
+---
+
+## Kupuna Care
+
+date: 2024-07-25, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>The winner-take-all Democratic Primary features four candidates...</p>
+<p>The post <a href="https://www.pbshawaii.org/kupuna-care/">Kupuna Care</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/kupuna-care/>
+
+---
+
+## First Death Anniversary: †Vivian Koyama Pangelinan-Cruz
+
+date: 2024-07-25, updated: 2024-07-25, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/obituaries/first-death-anniversary-vivian-koyama-pangelinan-cruz/article_bfae773c-4a66-11ef-abfc-47ead6482b16.html>
+
+---
+
+## †Edith Villagomez Deleon Guerrero Cruz
+
+date: 2024-07-25, updated: 2024-07-25, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/obituaries/edith-villagomez-deleon-guerrero-cruz/article_3d6a7e92-4a66-11ef-8af5-b3a43205b9c0.html>
+
+---
+
+## Fire leaves family homeless
+
+date: 2024-07-25, from: Marshal Islands Journal
+
+<p>HILARY HOSIA What began as a normal Saturday morning for a Delap family of five turned into a living nightmare after their&#160;home caught fire. The couple and their two children, a three-year old girl and a five-year-old boy, were watching movies in the bedroom around 10 in the morning when neighbors banged on their door [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/fire-leaves-family-homeless/">Fire leaves family homeless</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/fire-leaves-family-homeless/>
+
+---
+
+## Triple J acquires Stroll, expanding into ridesharing and mobility services
+
+date: 2024-07-25, from: Pacific Island Times
+
+By Pacific Island Times News Staff Triple J Enterprises has acquired Stroll, Guam’s ride-hailing and mobility platform, further expanding... 
+
+<https://www.pacificislandtimes.com/post/triple-j-acquires-stroll-expanding-into-ridesharing-and-mobility-services>
+
+---
+
+## Official says Washington’s Indo-Pacific policy to remain in place no matter who wins the presidential election 
+
+date: 2024-07-25, from: Pacific Island Times
+
+By Pacific Island Times News Staff Washington’s alliance with the Indo-Pacific region is sealed in place and won’t change no matter who... 
+
+<https://www.pacificislandtimes.com/post/official-says-washington-s-indo-pacific-policy-to-remain-in-place-no-matter-who-wins-the-presidentia>
+
+---
+
+## University of Guam accredited for another eight years
+
+date: 2024-07-25, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Western Association of Schools and Colleges Senior College and University Commission has... 
+
+<https://www.pacificislandtimes.com/post/university-of-guam-accredited-for-another-eight-years>
+
+---
+
+## CNMI SBDC’s Christmas in July event happening July 25!
+
+date: 2024-07-25, updated: 2024-07-25, from: Marianas Variety
+
+(SBDC) — The CNMI Small Business Development Center Network is excited to remind everyone about Saipan’s upcoming "Christmas in July" celebration happening Thursday, July 25, 2024 from 5 p.m. to 8 p.m. in the NMC As Terlaje campus pine tree parking lot (Bldg. V) for a festive evening filled with holiday cheer, entertainment, and community fun. 
+
+<https://www.mvariety.com/business/business_news/cnmi-sbdc-s-christmas-in-july-event-happening-july-25/article_aba190d2-4a37-11ef-9836-23684ee810df.html>
+
+---
+
+## ‘At heart of our work’: Violence prevention
+
+date: 2024-07-25, from: Marshal Islands Journal
+
+<p>WILMER JOEL One of the topics covered at the Women&#8217;s Triennial Conference on Tuesday at the International Conference Center was the prevention of gender-based violence. Speakers were Acting Director for Fiji Ministry of Women and Social Protection Emily Kamoe-Veiqati, General Secretary of the Pacific Conference of Churches Rev. James Bhagwan, and Director of Tonga Women [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/at-heart-of-our-work-violence-prevention/">‘At heart of our work’: Violence prevention</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/at-heart-of-our-work-violence-prevention/>
+
+---
+
+## Father of Parkland shooting victim: It could happen in your community
+
+date: 2024-07-25, from: University of Hawaiʻi News
+
+<p>Tony Montalto is turning the pain of losing his daughter in a school shooting into preventing targeted violence.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/24/father-of-parkland-shooting-victim-uh-west-oahu/">Father of Parkland shooting victim: It could happen in your community</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/24/father-of-parkland-shooting-victim-uh-west-oahu/>
+
+---
+
+## India-RMI agree on aid plan
+
+date: 2024-07-24, from: Marshal Islands Journal
+
+<p>The Economic Times of India described the aid projects as including the construction of a community sports center, airport terminal, and two community centers through India&#8217;s annual grant-in-aid. India is also reported to be working on providing desalination and dialysis units to address healthcare needs here. The signing between India Ambassador Sibi George and Minister [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/india-rmi-agree-on-aid-plan/">India-RMI agree on aid plan</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/india-rmi-agree-on-aid-plan/>
 
 ---
 
@@ -31,11 +364,81 @@ The post <a href="https://www.hawaii.edu/news/2024/07/24/image-of-the-week-tree-
 
 ---
 
+## PSS, CHCC vaccination program
+
+date: 2024-07-24, updated: 2024-07-25, from: Marianas Variety
+
+On Friday, July 19, 2024, the Public School System, represented by Commissioner of Education Dr. Lawrence F. Camacho, and the Public Health Immunization Program team of the Commonwealth Healthcare Corporation met to start working on their goal of reaching a 100% immunization rate among PSS students. Following the meeting, Camacho, Emman Parian, manager of CHCC’s Immunization Program, and his team announced plans for the immunization and issuance of health certificates to all public school students on Saipan, Tinian and Rota. Parian’s team members include Gloria Ramon, adolescent and adult services coordinator; Keanna Villagomez Lin, policies, partnerships and communications coordinator; K Cyji C. Tenorio, immunization information system coordinator; and John Dax Moreno, vaccines for children coordinator, 
+
+<https://www.mvariety.com/news/local/pss-chcc-vaccination-program/article_1ce4feb4-49ca-11ef-b52e-3bf8dd1dd975.html>
+
+---
+
+## DPL backs E-Land bid to lease Marpi property
+
+date: 2024-07-24, updated: 2024-07-25, from: Marianas Variety
+
+THE Department of Public Lands is asking the Legislature for a favorable decision on the final draft of a proposed land lease agreement with E-Land Corp. involving publicly owned property in Marpi that used to be occupied by the now defunct Mariana Resort &amp; Spa. 
+
+<https://www.mvariety.com/news/local/dpl-backs-e-land-bid-to-lease-marpi-property/article_38cb415e-4986-11ef-b692-876609e7fb81.html>
+
+---
+
+## No more ARPA, CARE funds for CPA by September
+
+date: 2024-07-24, updated: 2024-07-25, from: Marianas Variety
+
+THE $37 million in American Rescue Plan Act and Coronavirus Aid, Relief and Economic Security Act funds that the Commonwealth Ports Authority received three years ago from the federal government for Covid-19 related expenses "will be completely zero" by September 2024, CPA board's financial affairs committee chair Dolores Kiyoshi said. 
+
+<https://www.mvariety.com/news/local/no-more-arpa-care-funds-for-cpa-by-september/article_d97bcc86-4995-11ef-b767-a7c56fa1513e.html>
+
+---
+
+## New Himawari executive chef adds new menu items
+
+date: 2024-07-24, updated: 2024-07-25, from: Marianas Variety
+
+HIMAWARI’S new executive chef, Ryuta Yoshimoto, is already expanding the Japanese restaurant’s menu items and its bento offerings, Himawari Vice President Tatsuhito Suzuki said. 
+
+<https://www.mvariety.com/lifestyle/new-himawari-executive-chef-adds-new-menu-items/article_d1b5e68e-4991-11ef-96a2-77042b771424.html>
+
+---
+
+## CannaSaipan showcases advanced, clean indoor growing facility
+
+date: 2024-07-24, updated: 2024-07-25, from: Marianas Variety
+
+AT a tour Tuesday, July 23, of CannaSaipan’s 5,000 square foot indoor growing facility, General Manager Louis Rodgers emphasized the operation’s cleanliness and efficiency. 
+
+<https://www.mvariety.com/news/local/cannasaipan-showcases-advanced-clean-indoor-growing-facility/article_3b353c4a-497e-11ef-b42f-57bba6455e7c.html>
+
+---
+
+## CUC official optimistic after meeting with CHCC on utility payments
+
+date: 2024-07-24, updated: 2024-07-25, from: Marianas Variety
+
+COMMONWEALTH Utilities Corporation Executive Director Kevin Watson said they have met with Commonwealth Healthcare Corporation officials regarding CHCC’s utility bills, and “it’s a very positive meeting.” 
+
+<https://www.mvariety.com/news/local/cuc-official-optimistic-after-meeting-with-chcc-on-utility-payments/article_3e27451a-49c9-11ef-ae15-a3812f28e12e.html>
+
+---
+
+## CUC board to decide on CFO hiring today
+
+date: 2024-07-24, updated: 2024-07-25, from: Marianas Variety
+
+THE Commonwealth Utilities Corporation board of directors will decide today, Thursday, whether or not to hire an eligible applicant for the chief financial officer’s position. 
+
+<https://www.mvariety.com/news/local/cuc-board-to-decide-on-cfo-hiring-today/article_a6d2a858-49c8-11ef-aa10-632324f90c58.html>
+
+---
+
 ## Pacific island region's transition to renewable moving at snail's pace
 
 date: 2024-07-24, from: Pacific Island Times
 
-Policy paper: Clean energy cuts production costs but savings don't translate to power rate reduction By Pacific Island Times News Staff... 
+Policy paper: Clean energy cuts production costs but savings don't translate to power rate reduction By Mar-Vic Cagurangan While Pacific... 
 
 <https://www.pacificislandtimes.com/post/pacific-island-region-s-transition-to-renewable-moving-at-snail-s-pace>
 
@@ -372,6 +775,18 @@ date: 2024-07-24, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/07/24/community/applicants-sought-for-dlnr-advisory-councils/>
+
+---
+
+## Man charged in fatal hit-and-run; victim ID’d in documents
+
+date: 2024-07-24, from: Hawaii Tribune Harold
+
+
+				<p>Police reportedly phoned a motorist early Monday morning after he allegedly hit and killed a pedestrian in Kona and then abandoned his car.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/24/hawaii-news/man-charged-in-fatal-hit-and-run-victim-idd-in-documents/>
 
 ---
 
