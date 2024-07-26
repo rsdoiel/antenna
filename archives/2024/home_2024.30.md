@@ -1,11 +1,21 @@
 ---
 title: home 2024.30
-updated: 2024-07-25 08:04:57
+updated: 2024-07-26 07:32:28
 ---
 
 # home 2024.30
 
-(date: 2024-07-25 08:04:57)
+(date: 2024-07-26 07:32:28)
+
+---
+
+## CDFA awarded $100,000 Farm to School grant from the USDA
+
+date: 2024-07-25, from: Calfifornia Dept. Aggriculture blog
+
+The USDA has awarded $100,000 to CDFA&#8217;s Office of Farm to Fork (CDFA-F2F) from the Patrick Leahy Farm to School Grant Program. This is part of a USDA award of $14.3 million to 154 projects in 43 states, as well &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28022">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28022>
 
 ---
 

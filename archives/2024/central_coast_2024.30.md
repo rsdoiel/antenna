@@ -1,11 +1,134 @@
 ---
 title: central coast 2024.30
-updated: 2024-07-25 08:04:53
+updated: 2024-07-26 07:32:24
 ---
 
 # central coast 2024.30
 
-(date: 2024-07-25 08:04:53)
+(date: 2024-07-26 07:32:24)
+
+---
+
+## Goleta Sunset
+
+date: 2024-07-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/102722-POD-Jacobson.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Goleta sunset." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/102722-POD-Jacobson.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/102722-POD-Jacobson.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/102722-POD-Jacobson.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/102722-POD-Jacobson.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/102722-POD-Jacobson.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/102722-POD-Jacobson.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/102722-POD-Jacobson.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/102722-POD-Jacobson.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/102722-POD-Jacobson.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/102722-POD-Jacobson.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/102722-POD-Jacobson.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/102722-POD-Jacobson.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/102722-POD-Jacobson.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/goleta-sunset/">Goleta Sunset</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-sunset/>
+
+---
+
+## Injury Crash on Highway 101 Leads to Power Outage in Los Alamos
+
+date: 2024-07-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-Highway-101-Los-Alamos-Crash-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Injuries were reported in a single-vehicle crash Thursday night on Highway 101 near Los Alamos that caused a power outage for some nearby residents." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-Highway-101-Los-Alamos-Crash-sbcfd-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-Highway-101-Los-Alamos-Crash-sbcfd-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-Highway-101-Los-Alamos-Crash-sbcfd-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-Highway-101-Los-Alamos-Crash-sbcfd-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-Highway-101-Los-Alamos-Crash-sbcfd-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-Highway-101-Los-Alamos-Crash-sbcfd-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-Highway-101-Los-Alamos-Crash-sbcfd-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-Highway-101-Los-Alamos-Crash-sbcfd-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-Highway-101-Los-Alamos-Crash-sbcfd-2000.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-Highway-101-Los-Alamos-Crash-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Injuries were reported in a single-vehicle crash Thursday night on Highway 101 near Los Alamos that caused a power outage for some nearby residents. Santa Barbara County firefighters and other [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/injury-crash-on-highway-101-leads-to-power-outage-in-los-alamos/">Injury Crash on Highway 101 Leads to Power Outage in Los Alamos</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/injury-crash-on-highway-101-leads-to-power-outage-in-los-alamos/>
+
+---
+
+## BizHawk: Yona Redz Founder Dishes About His Plan for Santa Playa Mariscos on State Street
+
+date: 2024-07-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-BizHawk-Yona-Estrada-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Jonathan &quot;Yona&quot; Estrada plans to open his fresh shrimp, lobster and seafood restaurant, Santa Playa Mariscos, at the former Brasil Arts Cafe, where he once worked as a dishwasher." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-BizHawk-Yona-Estrada-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-BizHawk-Yona-Estrada-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-BizHawk-Yona-Estrada-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-BizHawk-Yona-Estrada-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-BizHawk-Yona-Estrada-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-BizHawk-Yona-Estrada-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-BizHawk-Yona-Estrada-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-BizHawk-Yona-Estrada-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-BizHawk-Yona-Estrada-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-BizHawk-Yona-Estrada-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>During the worst of the COVID-19 pandemic, Jonathan &#8220;Yona&#8221; Estrada built Yona Redz, one of Santa Barbara&#8217;s most popular restaurants, known for its birria quesatacos. Delicioso. Now, he&#8217;s about to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-restaurateur-dishes-about-plan-for-santa-playa-mariscos-on-state-street/">BizHawk: Yona Redz Founder Dishes About His Plan for Santa Playa Mariscos on State Street</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bizhawk-restaurateur-dishes-about-plan-for-santa-playa-mariscos-on-state-street/>
+
+---
+
+## Santa Maria Man Arrested on Charges Related to Child Sexual Abuse Material
+
+date: 2024-07-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A Santa Maria man has been arrested on suspicion of possessing and transmitting child sexual abuse material via social media after X Corp. reported the illegal activity. On Thursday morning, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-man-arrested-on-charges-related-to-child-sexual-abuse-material/">Santa Maria Man Arrested on Charges Related to Child Sexual Abuse Material</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-maria-man-arrested-on-charges-related-to-child-sexual-abuse-material/>
+
+---
+
+## Coordinated Cleanup Begins of Homeless Encampments in Santa Maria Riverbed
+
+date: 2024-07-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-SM-Riverbed-Cleanup1-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Workers remove homeless encampments in the Santa Maria Riverbed on Thursday." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-SM-Riverbed-Cleanup1-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-SM-Riverbed-Cleanup1-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-SM-Riverbed-Cleanup1-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-SM-Riverbed-Cleanup1-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-SM-Riverbed-Cleanup1-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-SM-Riverbed-Cleanup1-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-SM-Riverbed-Cleanup1-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-SM-Riverbed-Cleanup1-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-SM-Riverbed-Cleanup1-js.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072524-SM-Riverbed-Cleanup1-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A planned removal of homeless encampments in the Santa Maria Riverbed began Thursday following months of coordination and days after the distribution of eviction notices.  Coincidentally, as work in the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/coordinated-cleanup-begins-of-homeless-encampments-in-santa-maria-riverbed/">Coordinated Cleanup Begins of Homeless Encampments in Santa Maria Riverbed</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/coordinated-cleanup-begins-of-homeless-encampments-in-santa-maria-riverbed/>
+
+---
+
+## Holly McCord Duncan: Writing a College Application Essay
+
+date: 2024-07-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>College application essays matter. Why? Most colleges want more than an army of academic robots; they want to build a community. High GPAs and activity lists don’t reveal enough. A [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/holly-mccord-duncan-writing-a-college-application-essay/">Holly McCord Duncan: Writing a College Application Essay</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/holly-mccord-duncan-writing-a-college-application-essay/>
+
+---
+
+## Captain’s Log: Fish Wrinkle Their Noses at Certain Scents
+
+date: 2024-07-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Scents are a thing when it comes to fishing. Actually, an important thing. Scents make fish bite better … or make them wrinkle their noses and flee the area at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/captains-log-fish-wrinkle-their-noses-at-certain-scents/">Captain’s Log: Fish Wrinkle Their Noses at Certain Scents</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/captains-log-fish-wrinkle-their-noses-at-certain-scents/>
+
+---
+
+## Central Coast Community Energy Offers Home Battery Rebate Program
+
+date: 2024-07-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Central Coast Community Energy (3CE) is starting a Residential Battery Rebate Program, which provides residential 3CE customers with rebates for the purchase and installation of an eligible battery energy storage [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/central-coast-community-energy-offers-home-battery-rebate-program/">Central Coast Community Energy Offers Home Battery Rebate Program</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/central-coast-community-energy-offers-home-battery-rebate-program/>
+
+---
+
+## Santa Maria Waives Fees on Summer Splash Day at Nelson Aquatic Center
+
+date: 2024-07-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Maria residents are invited to enjoy an afternoon at the pool with music and fun at the free Summer Splash recreational swim day, 12:30-3:30 p.m. Sunday, July 28 at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-waives-fees-on-summer-splash-day-at-nelson-aquatic-center/">Santa Maria Waives Fees on Summer Splash Day at Nelson Aquatic Center</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-maria-waives-fees-on-summer-splash-day-at-nelson-aquatic-center/>
+
+---
+
+## Tracy Pfautch to Lead Santa Barbara Meals on Wheels Nonprofit
+
+date: 2024-07-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara Meals on Wheels (SBMOW), which supports independent living for homebound residents by delivering affordable freshly prepared meals, has hired Tracy Pfautch as its new executive director. Pfautch brings [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/tracy-pfautch-to-lead-santa-barbara-meals-on-wheels-nonprofit/">Tracy Pfautch to Lead Santa Barbara Meals on Wheels Nonprofit</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/tracy-pfautch-to-lead-santa-barbara-meals-on-wheels-nonprofit/>
 
 ---
 

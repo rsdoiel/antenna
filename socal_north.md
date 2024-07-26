@@ -1,11 +1,106 @@
 ---
 title: socal north 2024.30
-updated: 2024-07-25 08:04:50
+updated: 2024-07-26 07:32:22
 ---
 
 # socal north 2024.30
 
-(date: 2024-07-25 08:04:50)
+(date: 2024-07-26 07:32:22)
+
+---
+
+## LA city planners hear from a chorus of Angelenos wanting more housing in single-family neighborhoods
+
+date: 2024-07-26, updated: 2024-07-26, from: The LAist
+
+City officials plan to leave single-family zones out of their blueprint for hundreds of thousands of new homes. Many residents are urging them to reverse course. 
+
+<https://laist.com/news/housing-homelessness/los-angeles-city-housing-element-rezoning-citywide-incentive-program-hearing-feedback-rhna-goals>
+
+---
+
+## UCLA football downplays travel concerns ahead of Big Ten debut season
+
+date: 2024-07-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+No other Big Ten programs will travel as many miles as the players that call the Rose Bowl home.
+Nebraska head coach Matt Rhule welcomed UCLA football to its new conference during the 2024 Big Ten Football Media Days at Lucas Oil Stadium in Indianapolis, but he noted concerns about adjustments for the Bruins and the three other former Pac-12 teams. 
+
+<https://dailybruin.com/2024/07/25/ucla-football-downplays-travel-concerns-ahead-of-big-ten-debut-season/>
+
+---
+
+## The Bruin Gastronomer: Despite challenges of avoiding gluten, campus resources can keep students healthy
+
+date: 2024-07-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+As the school ranked No. 1 for its dining halls by Niche for five consecutive years, UCLA students have a wide variety of inviting meal options to choose from. 
+
+<https://dailybruin.com/2024/07/25/the-bruin-gastronomer-despite-challenges-of-avoiding-gluten-campus-resources-can-keep-students-healthy/>
+
+---
+
+## Opinion: I refuse to be ashamed of my Palestinian identity as my people face a genocide
+
+date: 2024-07-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Second grade was the first time I experienced identity denial.
+I don’t remember much about my teacher, Ms. Vidito, except that she was a frail old woman who favored me as a student. 
+
+<https://dailybruin.com/2024/07/25/opinion-i-refuse-to-be-ashamed-of-my-palestinian-identity-as-my-people-face-a-genocide/>
+
+---
+
+## Speakers criticize protest response, inadequate raises at July UC Regents meeting
+
+date: 2024-07-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students and employees across the UC expressed dissatisfaction with University administration during the UC Board of Regents meeting last week.
+Speakers during the July 17 public comment session of the regents meeting voiced concerns about what they deemed to be a misallocation of funds and employee underpayment, as well as the University&#8217;s response to the Palestine solidarity encampment at UCLA. 
+
+<https://dailybruin.com/2024/07/25/speakers-criticize-protest-response-inadequate-raises-at-july-uc-regents-meeting/>
+
+---
+
+## Construction begins on affordable housing in Fullerton — 6 years after controversy
+
+date: 2024-07-26, updated: 2024-07-26, from: The LAist
+
+The battle over the city-owned lot was the subject of a 2022 podcast by LAist Studios. 
+
+<https://laist.com/news/housing-homelessness/affordable-housing-fullerton-commonwealth>
+
+---
+
+## 2024 Paris Olympics gymnastics predictions
+
+date: 2024-07-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>Jordan Chiles and Emma Malabuyo of UCLA gymnastics are both set to compete at the 2024 Paris Olympics for the United States and the Philippines, respectively.</em> 
+
+<https://dailybruin.com/2024/07/25/2024-paris-olympics-gymnastics-predictions-2/>
+
+---
+
+## New and Upcoming Projects in Santa Clarita!
+
+date: 2024-07-25, from: City of Santa Clarita
+
+<p>By Councilmember Jason Gibbs Nothing says Santa Clarita like our beautiful mountains, pristine parks, paseos meandering through our neighborhoods, lush trees and amenities for residents of all ages. This year, the City has already completed and started multiple Capital Improvement Projects located throughout Santa Clarita, each one adding to the reasons why we all love [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/07/25/new-and-upcoming-projects-in-santa-clarita/">New and Upcoming Projects in Santa Clarita!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/07/25/new-and-upcoming-projects-in-santa-clarita/>
+
+---
+
+## Newsom issues order on clearing homeless encampments
+
+date: 2024-07-25, updated: 2024-07-26, from: The LAist
+
+Last month the U.S. Supreme Court ruled that cities are no longer prohibited from punishing homeless people for camping if they have nowhere else to go. 
+
+<https://laist.com/news/housing-homelessness/gov-newsom-expected-to-issue-order-homeless-encampments>
 
 ---
 
@@ -239,6 +334,16 @@ During the meeting, the committee &#8211; which discusses fundraising and advoca
 
 ---
 
+## To see past P-22's hype, you have to understand LA's historic war on predators
+
+date: 2024-07-24, updated: 2024-07-24, from: The LAist
+
+Self-described cynic Jill Replogle was asked to report on the celebrity mountain lion for LAist's new podcast, Imperfect Paradise: Lions, Coyotes & Bears. Along the way, she found herself converted to a fan. 
+
+<https://laist.com/news/climate-environment/p-22-mountain-lions-coyotes-bears-imperfect-paradise-podcast>
+
+---
+
 ## Knock, knock. Who's there? The Department of Public Health, and they want to help
 
 date: 2024-07-24, updated: 2024-07-24, from: The LAist
@@ -339,8 +444,8 @@ With the announcement that President Biden would no longer run for the Democrati
 
 date: 2024-07-23, from: The Daily Bruin (UCLA Student Newspaper)
 
-The UC Regents Public Engagement and Development Committee discussed the use of artificial intelligence in health care Wednesday.
-Three leading data scientists answered questions from the UC Board of Regents about how the UC Health system uses artificial intelligence, the implications of AI usage on underrepresented communities and oversight for artificial intelligence usage. 
+<em>This post was updated July 26 at 1:36 a.m.</em>
+The UC Regents Public Engagement and Development Committee discussed the use of artificial intelligence in health care Wednesday. 
 
 <https://dailybruin.com/2024/07/22/uc-regents-committee-evaluates-implications-of-ai-in-health-care/>
 

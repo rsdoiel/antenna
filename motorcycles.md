@@ -1,11 +1,191 @@
 ---
 title: motorcycles 2024.30
-updated: 2024-07-25 08:04:58
+updated: 2024-07-26 07:32:29
 ---
 
 # motorcycles 2024.30
 
-(date: 2024-07-25 08:04:58)
+(date: 2024-07-26 07:32:29)
+
+---
+
+## Ducati Riders ready to put on a show
+
+date: 2024-07-26, from: Cycle World News
+
+From July 26th to 28th, Ducati is staging a unique world-class spectacle for motorsport enthusiasts as part of the World Ducati Week 2024 with the Lenovo Race of Champions. 
+
+<https://www.cycleworld.com/the-wire/world-ducati-week-2024-2/>
+
+---
+
+## How Much Power Does the 2025 Triumph Daytona 660 Make?
+
+date: 2024-07-26, from: Cycle World News
+
+The 2025 Triumph Daytona 660 gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower. 
+
+<https://www.cycleworld.com/bikes/triumph-daytona-660-dyno-test-2025/>
+
+---
+
+## Cleetus McFarland Gets a Suzuki Running After 21 Years, Freedom Sings Again
+
+date: 2024-07-26, from: Ride Apart, Electric Motorcycle News
+
+Dusty, but not forgotten. 
+
+<https://www.rideapart.com/news/727925/cleetus-mcfarland-suzuki-gs1000l-watch-video/>
+
+---
+
+## This EV Motorcycle Battery Can Be Charged to 80 Percent in Just 30 Minutes
+
+date: 2024-07-26, from: Ride Apart, Electric Motorcycle News
+
+But, weirdly, it’s designed specifically for B2B use.  
+
+<https://www.rideapart.com/news/727813/vmoto-ultra-fast-charging-battery/>
+
+---
+
+## This LiveWire EV Motorcycle Story Sounds Horrifying, Possibly a Lemon Law Case
+
+date: 2024-07-26, from: Ride Apart, Electric Motorcycle News
+
+This is why I don't like dealer-installed parts.  
+
+<https://www.rideapart.com/news/727913/livewire-s2-reddit-fiasco-broken-motorcycle-ev/>
+
+---
+
+## Hot Damn, Check out All of Honda’s Updated and Returning On-Road Motorcycles
+
+date: 2024-07-26, from: Ride Apart, Electric Motorcycle News
+
+E-Clutch here we come! 
+
+<https://www.rideapart.com/news/727814/2025-honda-on-road-models-usa/>
+
+---
+
+## Snowmobilers Start Your Applications, Yellowstone’s Permit Lottery is Open
+
+date: 2024-07-26, from: Ride Apart, Electric Motorcycle News
+
+If you ain't in it, you can't win it. 
+
+<https://www.rideapart.com/news/727649/yellowstone-national-park-snowmobile-lottery/>
+
+---
+
+## 2024 Honda NC750X DCT
+
+date: 2024-07-26, from: Cycle World News
+
+Honda considers the NC750X its jack-of-all-trades motorcycle, equally happy around town or exploring off-the-grid backroads. 
+
+<https://www.cycleworld.com/honda/nc750x-dct/>
+
+---
+
+## 2024 Honda CB300R
+
+date: 2024-07-26, from: Cycle World News
+
+Buyers looking for an affordable and stylish entry-level motorcycle that isn’t intimidating should take a good look at the Honda CB300R naked. 
+
+<https://www.cycleworld.com/honda/cb300r/>
+
+---
+
+## 2024 Honda Africa Twin / Africa Twin Adventure Sport ES
+
+date: 2024-07-26, from: Cycle World News
+
+Honda’s Africa Twin has been its primary entry into the adventure-bike market for just shy of a decade. It continues to be improved and refined. 
+
+<https://www.cycleworld.com/honda/africa-twin-adventure-sport-es/>
+
+---
+
+## 2024 Honda CBR600RR
+
+date: 2024-07-26, from: Cycle World News
+
+Honda’s CBR600RR has a long heritage of race and championship wins. It marches on as Honda’s middleweight Supersport weapon of choice. 
+
+<https://www.cycleworld.com/honda/cbr600rr/>
+
+---
+
+## 2024 Honda CBR500R
+
+date: 2024-07-26, from: Cycle World News
+
+The 2024 Honda CBR500R is an affordable, fun, and freshly restyled middleweight, parallel-twin sportbike. 
+
+<https://www.cycleworld.com/honda/cbr500r/>
+
+---
+
+## 2024 Honda CB500F
+
+date: 2024-07-25, from: Cycle World News
+
+Honda’s parallel-twin-powered CB500F has served as a versatile midsize naked for more than a decade. It revives a host of updates for 2024. 
+
+<https://www.cycleworld.com/honda/cb500f/>
+
+---
+
+## Zero’s Electric Minimoto
+
+date: 2024-07-25, from: Cycle World News
+
+With the popularity of Honda’s Grom and Monkey, it’s no surprise that electric-motorcycle pioneer Zero is working on an electric competitor to rival them. 
+
+<https://www.cycleworld.com/motorcycle-news/zero-electric-minimoto/>
+
+---
+
+## 2024 Honda CB1000R Black Edition
+
+date: 2024-07-25, from: Cycle World News
+
+Utilizing a previous-generation engine from the CBR1000RR, this neo-retro-styled naked sportbike is blacked out for a stylish appearance. 
+
+<https://www.cycleworld.com/honda/cb1000r-black-edition/>
+
+---
+
+## The Panigale V2 Superquadro’s Final Act
+
+date: 2024-07-25, from: Cycle World News
+
+Ducati’s V-2 Superquadro entered service in 2012 with the Panigale 1199. It will disappear after the 555 2025 Panigale V2 Superquadro Final Editions are delivered. 
+
+<https://www.cycleworld.com/motorcycle-news/ducati-panigale-v2-superquadro-final-editions/>
+
+---
+
+## Maeving RM1S Electric Motorcycle Review
+
+date: 2024-07-25, from: Cycle World News
+
+We ride the Maeving RM1S electric motorcycle, which has a top speed of 70 mph and range of 80 miles, with removable batteries for easy charging. 
+
+<https://www.cycleworld.com/motorcycle-reviews/maeving-rm1s-electric-motorcycle-review/>
+
+---
+
+## Maeving RM1S Electric Motorcycle Review Gallery
+
+date: 2024-07-25, from: Cycle World News
+
+Photos from Cycle World's Maeving RM1S Electric Motorcycle Review article. 
+
+<https://www.cycleworld.com/gallery/maeving-rm1s-electric-motorcycle-review-photos/>
 
 ---
 
@@ -219,7 +399,7 @@ All you have to do is meet these bare minimum requirements.
 
 ---
 
-## How the Hell Did This Motorcycle End up Stuck on a Telephone Pole?
+## A Hot-Air Balloon Crash-Landed, Dragged a Motorcycle Perfectly Onto a Telephone Wire
 
 date: 2024-07-24, from: Ride Apart, Electric Motorcycle News
 

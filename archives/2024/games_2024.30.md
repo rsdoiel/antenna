@@ -1,11 +1,111 @@
 ---
 title: games 2024.30
-updated: 2024-07-25 08:04:56
+updated: 2024-07-26 07:32:27
 ---
 
 # games 2024.30
 
-(date: 2024-07-25 08:04:56)
+(date: 2024-07-26 07:32:27)
+
+---
+
+## Blind boxes of Dungeons & Dragons minifigs are available to pre-order from Lego
+
+date: 2024-07-26, updated: 2024-07-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24206375/lego-dungeons-and-dragons-minifigs-pre-order>
+
+---
+
+## Puzzle games should always let you skip levels that are too hard
+
+date: 2024-07-26, updated: 2024-07-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24205494/puzzle-games-rules-skipping-levels>
+
+---
+
+## Every major announcement from SDCC 2024
+
+date: 2024-07-25, updated: 2024-07-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/sdcc/24203751/comic-con-2024-news-announcements-trailers-release-dates-sdcc>
+
+---
+
+## The Percy Jackson SDCC panel reveals season 2’s cyclops brother
+
+date: 2024-07-25, updated: 2024-07-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/sdcc/2024/7/25/24204516/percy-jackson-olympians-season-2-tyson-casting>
+
+---
+
+## The platonic ideal of tabletop terrain is finally back in circulation with the reboot of Heroscape
+
+date: 2024-07-25, updated: 2024-07-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/tabletop-games/24206407/heroscape-tiles-terrain-where-to-buy>
+
+---
+
+## The Crow’s SDCC 2024 clip says it’s hard out here for a vengeance demon
+
+date: 2024-07-25, updated: 2024-07-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/sdcc/24206454/the-crow-bill-skarsgard-sdcc-2024-exclusive-clip>
+
+---
+
+## I’m running out of reasons to keep Apple Arcade
+
+date: 2024-07-25, updated: 2024-07-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24206470/quit-apple-arcade-fantasian-neo-dimension>
+
+---
+
+## Deadpool & Wolverine spends its two credits scenes on radically different goodbyes
+
+date: 2024-07-25, updated: 2024-07-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24206373/deadpool-wolverine-post-credits-scenes>
+
+---
+
+## James Wan showed off his Peacock horror series at SDCC 2024
+
+date: 2024-07-25, updated: 2024-07-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/sdcc/24205445/james-wan-teacup-trailer-peacock-release-date-cast>
+
+---
+
+## Legacy of Kain: Soul Reaver remasters may have just leaked out of Comic-Con
+
+date: 2024-07-25, updated: 2024-07-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24206416/legacy-of-kain-soul-reaver-remastered-crystal-dynamics>
 
 ---
 

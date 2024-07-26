@@ -1,11 +1,377 @@
 ---
 title: going electric 2024.30
-updated: 2024-07-25 08:04:59
+updated: 2024-07-26 07:32:31
 ---
 
 # going electric 2024.30
 
-(date: 2024-07-25 08:04:59)
+(date: 2024-07-26 07:32:31)
+
+---
+
+## Check out Kia’s sporty new EV3 GT-Line [Video]
+
+date: 2024-07-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Kia-EV3-reservations.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It may be small, but Kia’s new <a href="https://electrek.co/guides/kia-ev3/">EV3 GT-Line</a> has a big presence on the road. Hyundai gave us a closer look at the sporty electric SUV driving on domestic highways. From the first look, the EV3 GT-Line appears nimble and quick. Check out the new video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev3" data-layer-viewtype="unknown" data-post-id="373413" href="https://electrek.co/2024/07/26/kias-sporty-new-ev3-gt-line-video/#more-373413" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/26/kias-sporty-new-ev3-gt-line-video/>
+
+---
+
+## No, You Can’t Lease A Nissan Leaf For $9. But This Deal Is Still Insane
+
+date: 2024-07-26, from: Inside EVs News
+
+Add up all the fees and taxes and the effective monthly fee is considerably higher than $9, but it’s still worth considering. 
+
+<https://insideevs.com/news/727980/nissan-leaf-9-dollars-lease-colorado/>
+
+---
+
+## This Spanish EV Dirt Bike Looks Perfect For Beginners
+
+date: 2024-07-26, from: Inside EVs News
+
+Experienced riders are sure to have a blast on this thing, too.  
+
+<https://insideevs.com/news/727646/spanish-ev-dirt-bike/>
+
+---
+
+## Tesla Was The Leader In New EV Owner Satisfaction. Not Anymore
+
+date: 2024-07-26, from: Inside EVs News
+
+A new J.D. Power survey shows that Tesla is being "surpassed" by other EV makers, and those cars rank higher than gas ones too. 
+
+<https://insideevs.com/news/728027/tesla-jp-power-apeal-2024/>
+
+---
+
+## Wheel-E Podcast: MOD Berlin e-bike, ELF bike-car is back, more
+
+date: 2024-07-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes new e-bikes from MOD and Mooncool, how micromobility is having an interesting impact on the Paris Olympics, a review of the Tenways CGO600 Pro e-bike, a potential return of the lovable ELF electric bike-car, and more.</p>
+
+
+
+<p><em>Today’s episode is sponsored by CYCROWN, an electric cycling specialist focused on growing a community of e-bike enthusiasts around the globe. For a limited time, take advantage of CYCROWN Online Store Prime Day and enjoy an additional 5% Off all items. This offer can also be combined with an additional $150 discount for every $1,799 spent. </em><strong><em>Learn more at <a href="http://cycrown.com/" target="_blank" rel="noreferrer noopener">cycrown.com</a></em></strong></p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="373408" href="https://electrek.co/2024/07/26/wheel-e-podcast-mod-berlin-e-bike-elf-bike-car-is-back-more/#more-373408" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/26/wheel-e-podcast-mod-berlin-e-bike-elf-bike-car-is-back-more/>
+
+---
+
+## Cleetus McFarland Gets a Suzuki Running After 21 Years, Freedom Sings Again
+
+date: 2024-07-26, from: Ride Apart, Electric Motorcycle News
+
+Dusty, but not forgotten. 
+
+<https://www.rideapart.com/news/727925/cleetus-mcfarland-suzuki-gs1000l-watch-video/>
+
+---
+
+## Someone Did The 'Finger Test' On A Chevy Silverado EV Frunk. It Didn’t Go Well
+
+date: 2024-07-26, from: Inside EVs News
+
+After the Tesla Cybertruck went viral for injuring human fingers with its frunk, it appears the Silverado EV has a similar habit. 
+
+<https://insideevs.com/news/727955/chevrolet-silverado-ev-frunk-finger-test/>
+
+---
+
+## This EV Motorcycle Battery Can Be Charged to 80 Percent in Just 30 Minutes
+
+date: 2024-07-26, from: Ride Apart, Electric Motorcycle News
+
+But, weirdly, it’s designed specifically for B2B use.  
+
+<https://www.rideapart.com/news/727813/vmoto-ultra-fast-charging-battery/>
+
+---
+
+## This LiveWire EV Motorcycle Story Sounds Horrifying, Possibly a Lemon Law Case
+
+date: 2024-07-26, from: Ride Apart, Electric Motorcycle News
+
+This is why I don't like dealer-installed parts.  
+
+<https://www.rideapart.com/news/727913/livewire-s2-reddit-fiasco-broken-motorcycle-ev/>
+
+---
+
+## Hot Damn, Check out All of Honda’s Updated and Returning On-Road Motorcycles
+
+date: 2024-07-26, from: Ride Apart, Electric Motorcycle News
+
+E-Clutch here we come! 
+
+<https://www.rideapart.com/news/727814/2025-honda-on-road-models-usa/>
+
+---
+
+## Snowmobilers Start Your Applications, Yellowstone’s Permit Lottery is Open
+
+date: 2024-07-26, from: Ride Apart, Electric Motorcycle News
+
+If you ain't in it, you can't win it. 
+
+<https://www.rideapart.com/news/727649/yellowstone-national-park-snowmobile-lottery/>
+
+---
+
+## Paris has the perfect solution for Olympic traffic, even if many people will hate it
+
+date: 2024-07-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/paris-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In a perfectly Parisian solution to the expected influx of tourists for the Olympic games, and the resulting traffic, city officials have been hard at work. And the answer has proven to be getting half of those wheels off the road.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,paris" data-layer-viewtype="unknown" data-post-id="373404" href="https://electrek.co/2024/07/25/paris-has-the-perfect-solution-for-olympic-traffic-even-if-many-people-will-hate-it/#more-373404" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/25/paris-has-the-perfect-solution-for-olympic-traffic-even-if-many-people-will-hate-it/>
+
+---
+
+## The Porsche Cayenne Is Going Electric. Just Not Entirely
+
+date: 2024-07-25, from: Inside EVs News
+
+The next generation Cayenne will be all-electric. But the current one is sticking around with some upgrades too, just in case. 
+
+<https://insideevs.com/news/727932/porsche-cayenne-electric-teaser/>
+
+---
+
+## Carvana Made It Way Easier To Get A Used EV
+
+date: 2024-07-25, from: Inside EVs News
+
+This move could push more used car buyers to choose EVs. 
+
+<https://insideevs.com/news/727933/carvana-ev-used-buying-easier/>
+
+---
+
+## Acura undercuts Cadillac Lyriq, Chevy Blazer EV after slashing ZDX rates
+
+date: 2024-07-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/2024-Acura-ZDX-prices-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Which luxury electric SUV would you choose, the Acura ZDX or Cadillac Lyriq? After slashing financing rates, the Acura ZDX may be a better buy than the Cadillac Lyriq or Chevy Blazer EV. With up to $7,200 off a fully loaded ZDX, <a href="https://electrek.co/guides/acura/">Acura</a> looks to take a piece of the EV market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="acura,acura-zdx" data-layer-viewtype="unknown" data-post-id="373367" href="https://electrek.co/2024/07/25/acura-undercuts-cadillac-lyriq-slashing-zdx-rates/#more-373367" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/25/acura-undercuts-cadillac-lyriq-slashing-zdx-rates/>
+
+---
+
+## A much-needed solar cell factory is coming to the US
+
+date: 2024-07-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Heliene-Premier-Energy-solar-cells.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Canadian solar panel maker Heliene and India’s solar cell maker Premier Energies are joining forces to build a US solar cell factory.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="373358" href="https://electrek.co/2024/07/25/us-solar-cell-factory/#more-373358" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/25/us-solar-cell-factory/>
+
+---
+
+## Volvo Backs Off EV-Only Promise, Will Likely Push Hybrids Instead
+
+date: 2024-07-25, from: Inside EVs News
+
+Volvo previously pledged not to "sell a single car" that isn't fully electric after 2030, but that trajectory may have changed. 
+
+<https://insideevs.com/news/727927/volvo-hybrid-good-idea-evs/>
+
+---
+
+## Lucid Motors to further localize supply chain under materials agreement with Graphite One
+
+date: 2024-07-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Lucid-supply-chain-Graphite-One.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lucid Motors and Graphite One have signed a new non-binding supply agreement that involves synthetic anode active materials. Through the agreement, <a href="https://electrek.co/guides/lucid-motors/">the American automaker</a> looks to cater its BEV supply chain to more locally sourced materials.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="graphite-one,lucid,lucid-motors,supply-chain" data-layer-viewtype="unknown" data-post-id="373363" href="https://electrek.co/2024/07/25/lucid-motors-to-localize-supply-chain-materials-agreement-graphite-one/#more-373363" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/25/lucid-motors-to-localize-supply-chain-materials-agreement-graphite-one/>
+
+---
+
+## Elon Musk will ‘discuss’ Tesla investing $5 billion in his private AI company
+
+date: 2024-07-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/Elon-Musk-Game-of-Thrones-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk says that he will ‘discuss’ Tesla investing $5 billion in xAI, his own private artificial intelligence company.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="373315" href="https://electrek.co/2024/07/25/elon-musk-will-discuss-tesla-investing-5-billion-private-ai-company/#more-373315" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/25/elon-musk-will-discuss-tesla-investing-5-billion-private-ai-company/>
+
+---
+
+## Is Volvo backing down from its promise to go all-EV by 2030?
+
+date: 2024-07-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/07/Volvo-EV-margins-Q2-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volvo’s EV commitment is in question after CEO Jim Rowan’s recent comments. As one of the first automakers to announce plans for an all-electric lineup, <a href="https://electrek.co/guides/volvo/">Volvo</a> was viewed as a first mover. Here’s why Volvo may be backing off its all-EV promise by 2030.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo" data-layer-viewtype="unknown" data-post-id="373324" href="https://electrek.co/2024/07/25/volvo-backing-down-promise-all-ev-2030/#more-373324" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/25/volvo-backing-down-promise-all-ev-2030/>
+
+---
+
+## The 2024 GMC Sierra EV’s lease price will give you sticker shock
+
+date: 2024-07-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/2024-gmc-sierra-ev-denali-edition-trailer.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Based on the latest incentive data, the 2024 GMC Sierra EV lease price costs nearly twice as much as GMC’s HUMMER EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-lease,gmc,gmc-hummer-ev,gmc-sierra-ev" data-layer-viewtype="unknown" data-post-id="373332" href="https://electrek.co/2024/07/25/2024-gmc-sierra-ev-lease-price/#more-373332" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/25/2024-gmc-sierra-ev-lease-price/>
+
+---
+
+## Pre-order discount on MOD’s new Berlin 3 e-bike, Jackery SolarSaga 100 Prime $120 off, Greenworks 1-day discounts, more
+
+date: 2024-07-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/MOD-Bikes-Berlin-Step-Thru-3-e-bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Leading today’s pack of Green Deals is a new addition to MOD Bikes’ ongoing summer sale, the <a href="https://9to5toys.com/2024/07/25/mod-bikes-summer-sale-adds-pre-order-discount-on-new-berlin-3-step-thru-e-bike-at-2199-save-300/">Berlin Step-Thru 3 e-bike</a> that is now available for <a href="https://9to5toys.com/2024/07/25/mod-bikes-summer-sale-adds-pre-order-discount-on-new-berlin-3-step-thru-e-bike-at-2199-save-300/">pre-order at $2,199</a>. It is joined by <a href="https://9to5toys.com/2024/07/25/jackerys-latest-solarsaga-100-prime-bifacial-mountable-solar-panel-at-new-179-low-save-120/">Jackery’s SolarSaga 100 Prime Bifacial DIY Solar Panel</a> that is down at its all-time low of <a href="https://9to5toys.com/2024/07/25/jackerys-latest-solarsaga-100-prime-bifacial-mountable-solar-panel-at-new-179-low-save-120/">$179</a>, as well as a first-chance pre-order of the latest Solar Generator 1000 Roam Kit bundle. Bringing up the rear is a collection of discounted Greenworks lawncare tools, lead by the 1-day discount on the brand’s <a href="https://9to5toys.com/2024/07/25/shape-up-to-1-2-acre-with-greenworks-80v-16-inch-cordless-electric-string-trimmer-at-175-for-today-only-reg-250/">80V 16-inch Cordless Electric Straight Shaft Grass Trimmer for $175</a>. Plus, all the other hangover Green Deals that are still alive and well, including the <a href="https://electrek.co/2024/07/18/prime-day-green-deals-evs-power-stations-tools-smart-devices-appliances-more/">leftover Prime Day Green Deals</a> that are slowly dwindling as the days go on and will likely dry up for good over the weekend.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="373317" href="https://electrek.co/2024/07/25/mod-berlin-3-e-bike-jackery-solarsaga-100-prime-greenworks-more/#more-373317" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/25/mod-berlin-3-e-bike-jackery-solarsaga-100-prime-greenworks-more/>
+
+---
+
+## Hyundai caught benchmarking Ford’s F-150 Lightning: Is an electric Kia pickup on the way?
+
+date: 2024-07-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Hyundai-Fords-F-150-Lightning.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Is an electric Hyundai or Kia pickup on the way? Ford’s F-150 Lightning was recently spotted with Korean test plates near <a href="https://electrek.co/guides/hyundai/">Hyundai’s</a> facility, fueling speculation that an EV pickup may be closer than expected.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,kia" data-layer-viewtype="unknown" data-post-id="373291" href="https://electrek.co/2024/07/25/hyundai-caught-benchmarking-fords-f-150-lightning-ev-pickup/#more-373291" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/25/hyundai-caught-benchmarking-fords-f-150-lightning-ev-pickup/>
+
+---
+
+## E1 adds Blue Imprint sustainability championship to its electric boat racing series
+
+date: 2024-07-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/E1-championship-Blue-Impact.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The young electric boat racing series <a href="https://electrek.co/guides/e1/">E1</a> is adding a new dimension of sustainability to its championship competition. It has introduced a new element called the E1 Blue Imprint Championship, in which its racing teams will compete to deliver the most significant impact in reversing effects on ocean and aquatic ecosystems in regions where races are held.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="e1,e1-series,electric-boat-racing,uim-e1-world-championship" data-layer-viewtype="unknown" data-post-id="373258" href="https://electrek.co/2024/07/25/e1-adds-blue-imprint-sustainability-championship-electric-boat-racing-series/#more-373258" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/25/e1-adds-blue-imprint-sustainability-championship-electric-boat-racing-series/>
+
+---
+
+## These Were The Best-Selling EVs In Europe For 2024's First Half
+
+date: 2024-07-25, from: Inside EVs News
+
+The ever-popular Tesla Model Y is losing ground, while Chinese-made EVs are on the rise in Europe. 
+
+<https://insideevs.com/news/727873/best-selling-ev-europe-h1-2024/>
+
+---
+
+## Hyundai to plug demand gap with hybrids but still sees EVs as the future
+
+date: 2024-07-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Hyundai-IONIQ-5-deal.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After electric car sales fell nearly 25% in the second quarter, <a href="https://electrek.co/guides/hyundai/">Hyundai</a> will lean on hybrids to boost growth. Despite a short-term “Chasm,” Hyundai expects EVs to lead long-term growth. As such, the company is doubling down on its IONIQ lineup and new low-cost EVs like the Casper Electric (Inster EV overseas).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="373260" href="https://electrek.co/2024/07/25/hyundai-plug-demand-gap-hybrids-but-evs-still-future/#more-373260" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/25/hyundai-plug-demand-gap-hybrids-but-evs-still-future/>
+
+---
+
+## Tesla warns against wet towel trick to speed up Supercharging
+
+date: 2024-07-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Screenshot-2024-07-25-at-11.04.03 AM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has warned against a trick that involves placing a wet towel around a Supercharger connector to speed up the charging process.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="373256" href="https://electrek.co/2024/07/25/tesla-warns-against-wet-towel-trick-to-speed-up-supercharging/#more-373256" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/25/tesla-warns-against-wet-towel-trick-to-speed-up-supercharging/>
+
+---
+
+## Electrek American Solar Challenge arriving at Scotts Bluff National Monument on Friday
+
+date: 2024-07-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/439555683_412982785001648_2999675509833433848_n.jpg?quality=82&#038;strip=all&#038;w=1080" /></div><p>The 2024 Electrek <a href="https://electrek.co/guides/american-solar-challenge/">American Solar Challenge</a> (ASC) will arrive at Scotts Bluff National Monument in western Nebraska on Friday, July 26, marking the beginning of the final stage of what I can only imagine has been a grueling yet rewarding cross-country competition.</p>
+
+
+
+<p>Congratulations to <strong><a href="https://www.instagram.com/umsolarcarteam/">#2 – Michigan</a></strong>, which is currently leading the Single Occupant Vehicle (SOV) class by 53 miles with a total of 1233.2 miles traveled.</p>
+
+
+
+<p>In the Multi-Occupant Vehicle (MOV) class, <b><a href="https://www.instagram.com/esteban_polymtl/">#55 – Poly Montreal </a></b>and <strong><a href="https://www.instagram.com/appstatesvt/">#828 – App State</a></strong> are currently neck and neck with 907 miles and 901 miles, respectively.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="american-solar-challenge,solar,solar-electric-vehicles" data-layer-viewtype="unknown" data-post-id="373232" href="https://electrek.co/2024/07/25/electrek-american-solar-challenge-arriving-at-scotts-bluff-national-monument-on-friday/#more-373232" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/25/electrek-american-solar-challenge-arriving-at-scotts-bluff-national-monument-on-friday/>
+
+---
+
+## Nissan Is In A Death Spiral
+
+date: 2024-07-25, from: Inside EVs News
+
+Plus, ChargePoint expects EVs to continue growing regardless of presidential election and Tesla will push anything but its cars. 
+
+<https://insideevs.com/news/727870/nissan-ev-death-spiral-99/>
 
 ---
 
@@ -175,7 +541,7 @@ date: 2024-07-25, from: Electrek Feed
 
 ---
 
-## Why Ford's CEO Is Pushing For Smaller EVs Instead Of Big Trucks
+## Why Ford's CEO Thinks Small, Cheap EVs Are The Future
 
 date: 2024-07-24, from: Inside EVs News
 
@@ -545,7 +911,7 @@ All you have to do is meet these bare minimum requirements.
 
 ---
 
-## How the Hell Did This Motorcycle End up Stuck on a Telephone Pole?
+## A Hot-Air Balloon Crash-Landed, Dragged a Motorcycle Perfectly Onto a Telephone Wire
 
 date: 2024-07-24, from: Ride Apart, Electric Motorcycle News
 

@@ -1,11 +1,31 @@
 ---
 title: health 2024.30
-updated: 2024-07-25 08:04:59
+updated: 2024-07-26 07:32:30
 ---
 
 # health 2024.30
 
-(date: 2024-07-25 08:04:59)
+(date: 2024-07-26 07:32:30)
+
+---
+
+## Role of Rhipicephalus bursa larvae in transstadial transmission and endemicity of Babesia ovis in chronically infected sheep
+
+date: 2024-07-26, from: Frontiers in Cellular and Infection Microbiology
+
+Babesia ovis, transmitted by Rhipicephalus bursa ticks, is the causative agent of ovine babesiosis, a disease characterized by fever, anemia, hemoglobinuria, and high mortality in sheep. This study investigates whether sheep that survived babesiosis without treatment can serve as a source of infection for B. ovis-free host-seeking R. bursa larvae in a later season. Three donor sheep were experimentally infected with B. ovis, and after six months, persistence of B. ovis was assessed through blood and tick transmission experiments. Blood from donor sheep was intravenously injected into three recipient sheep, while donor sheep were also infested with B. ovis-free R. bursa larvae. Engorged nymphs molted to adults, and new recipient sheep were infested with these ticks. All recipient sheep were monitored for B. ovis for 100 days using microscopic, serological, and molecular approaches. The presence of B. ovis was confirmed in the recipient sheep that received blood, leading to clinical infection in two. However, no B. ovis was detected in recipient sheep infested with ticks. These results suggest that sheep recovering from B. ovis infection do not serve as a source of infection for R. bursa larvae in subsequent seasons. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1428719>
+
+---
+
+## Editorial: Novel approaches for developing vaccines against influenza virus
+
+date: 2024-07-26, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1435768>
 
 ---
 

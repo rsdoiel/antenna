@@ -1,11 +1,391 @@
 ---
 title: columns 2024.30
-updated: 2024-07-25 08:04:54
+updated: 2024-07-26 07:32:26
 ---
 
 # columns 2024.30
 
-(date: 2024-07-25 08:04:54)
+(date: 2024-07-26 07:32:26)
+
+---
+
+## Unix-like things
+
+date: 2024-07-26, from: Dave Winer's Scripting News
+
+<p>I sent a <a href="https://x.com/davewiner/status/1816831709351977372">tweet</a> to Eric Raymond, lightly edited here, basically following up on a thread that started in <a href="http://scripting.com/2001/02/20.html">2001</a>. </p>
+<p>It's good to see you tweeting. A long time ago you <a href="https://web.archive.org/web/20070517142407/http://www.xmlrpc.com/stories/storyReader$1265">said</a> XML-RPC, something I worked on, is Unix-like. </p>
+<ul>
+<li>XML-RPC, in particular, is very much in the Unix spirit. It's deliberately minimalist but nevertheless quite powerful, offering a way for the vast majority of RPC applications that can get by on passing around boolean/integer/float/string datatypes to do their thing in a way that is lightweight and easy to to understand and monitor. This simple type ontology acts as a valuable check on interface complexity.</li>
+</ul>
+<p>It's very true, my design goal for my whole 50+ year career has been to factor my code so well so it was as clean as Unix is, from top to bottom</p>
+<p>The virtue of relentless factoring is you can build higher if each layer of the stack lets through the functionality that's needed, and no more. Ideally there should be one way of doing something. and it should work pretty well. </p>
+<p>I realized that the web, RSS and podcasting are also a Unix-like things. </p>
+<p>Because they can be made to do anything, but are  simple, not a lot to understand.</p>
+<p>But -- there's been this huge proliferation of languages and frameworks, and incredibly complex and underspecified formats. </p>
+<p>Meanwhile core functions like storage combined with identity for end users, has not been implemented, because of course if the users had their own networked data independent of any platform vendor there would be no lockin. that's 2024 version of the cathedral, to follow your analogy.</p>
+<p>Anyway, seeing you here made me think of this, I've wanted to say this to you for a long to you and now I have. ;-)</p>
+<p>PS: The <a href="https://web.archive.org/web/20070517142407/http://www.xmlrpc.com/stories/storyReader$1265">2001 email</a> from Eric Raymond.</p>
+ 
+
+<http://scripting.com/2024/07/26/134607.html?title=unixlikeThings>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-26, from: Dave Winer's Scripting News)
+
+Has anyone ever seen Trump laugh? 
+
+<http://scripting.com/2024/07/26.html#a134544>
+
+---
+
+## Debunking Myth #9: “Inflation is caused by wage increases and too much government spending.”
+
+date: 2024-07-26, from: Robert Reich's blog
+
+BUNK! It&#8217;s caused by corporate power. And what would President Harris do about it? 
+
+<https://robertreich.substack.com/p/debunking-myth-9-inflation-is-caused>
+
+---
+
+## July 25, 2024 
+
+date: 2024-07-26, from: Heather Cox Richardson blog
+
+Momentum continues to build behind Vice President Kamala Harris to become the Democratic Party&#8217;s presidential nominee, and the national narrative as a whole has shifted. 
+
+<https://heathercoxrichardson.substack.com/p/july-25-2024>
+
+---
+
+## Using biology to color in the long-lost past
+
+date: 2024-07-26, from: Tracy Durnell Blog
+
+(via Mx Tynehorne who also recently wrote a delightful piece on their favorite dinosaur) 
+
+<https://tracydurnell.com/2024/07/25/using-biology-to-color-in-the-long-lost-past/>
+
+---
+
+## When will the bubble pop?
+
+date: 2024-07-26, from: Tracy Durnell Blog
+
+The Grimy Residue of the AI Bubble by Dr. Alex Hanna But I&#8217;m more pessimistic &#8212; and frankly upset &#8212; about what will be left behind once the AI bubble pops. Already, Google and Microsoft have sheepishly admitted that they are far from reaching their climate goals, due to the large investment in AI. &#8230;Will [&#8230;] 
+
+<https://tracydurnell.com/2024/07/25/when-will-the-bubble-pop/>
+
+---
+
+## Friday 26 July, 2024
+
+date: 2024-07-25, from: John Naughton's online diary
+
+l’Auto Following the Route Napoleon on our drive northwards through the Rhone Alps a couple of weeks ago, we stopped for coffee in the village of Corps and came on this quaint vehicle. It was small but perfectly formed, as &#8230; <a href="https://memex.naughtons.org/friday-26-july-2024/39676/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-26-july-2024/39676/>
+
+---
+
+##  The Origin & Evolution of Italian Stuffed Pasta Shapes 
+
+date: 2024-07-25, updated: 2024-07-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/the-origin-evolution-of-italian-stuffed-pasta-shapes>
+
+---
+
+##  Susannah Breslin discovers that you can post nudity on YouTube if it&#8217;s... 
+
+date: 2024-07-25, updated: 2024-07-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045019-susannah-breslin-discover>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-25, from: Dave Winer's Scripting News)
+
+We're at a huge fork in the road. One fork -- goodbye USA, the other way, we're stronger than ever. We're in a good spot imho because Trump's tank is empty. He's old, tired, fat, addled, fetid, rotten. You have to work really hard not to see that. If it works, Biden will have stabilized the country, and Harris will erect the guardrails that make sure no one follows in Trump's path, and the Supreme Court gets back into its proper place. They've been overthrowing our society, economy and political system. That all has to be reversed before it does too much damage, and prevented in the future. I want to know why the court can't be expanded, and if Harris will put that in her platform. 
+
+<http://scripting.com/2024/07/25.html#a200442>
+
+---
+
+##  An interview with YACHT&#8217;s Claire Evans & Jona Bechtolt on that indie... 
+
+date: 2024-07-25, updated: 2024-07-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045020-an-interview-with-yachts->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-25, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="http://scripting.com/images/2024/02/14/bidenActionFigure.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Biden's speech might turn out to be a <a href="https://en.wikipedia.org/wiki/Gettysburg_Address">Gettysburg</a> type speech. I hope it does. 
+
+<http://scripting.com/2024/07/25.html#a193040>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-25, from: Dave Winer's Scripting News)
+
+Software-wise I realized recently that everything that takes me away from creating really nice writing and publishing tools is a waste. I have to get off track because there are huge holes in the web as a runtime platform. And every year it gets worse as new incompatible languages are added, new incompatible stacks built. As a result we have to re-do everything all the time, and never get a chance to create new user experience. The market fragments, which is exactly what the tech companies want. It keeps their products from becoming commodities. And like it or not, the politicians and corporations don't want us writing too much, they just want us working, donating to their campaigns, paying taxes, buying their crap, and not getting all agitated about things they don't care about. 
+
+<http://scripting.com/2024/07/25.html#a192311>
+
+---
+
+## Optimisim
+
+date: 2024-07-25, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2020/11/27/kamala.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I am optimistic that Trump is headed for the graveyard of history, shortly. </p>
+<p>First time I've felt like this in a long time. </p>
+<p>When (if) that happens, we can use Cory Doctorow's excellent concept <a href="https://en.wiktionary.org/wiki/enshittification">enshitification</a> to describe what he did to the American political system.</p>
+<p>He also stress tested it, and we would be the greatest fools imaginable if we didn't add some seriously enforceable guardrails to prevent this kind of attack happening in the future. </p>
+<p>Might work out well to have a <a href="https://en.wikipedia.org/wiki/Kamala_Harris">lawyer</a> in the White House. </p>
+ 
+
+<http://scripting.com/2024/07/25/191835.html?title=optimisim>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-25, from: Dave Winer's Scripting News)
+
+I want a Masto-clone that does not do replies. You can't insert anything under my idea, but you can if you like include my idea, as a link, in yours. This model works. I think by now we know the other way does not work. BTW I use the term Masto-clone interchangeably with Twitter-like. Let's spread the love around. 
+
+<http://scripting.com/2024/07/25.html#a191605>
+
+---
+
+## JD Crank goes to Mardi Gras
+
+date: 2024-07-25, from: Dave Winer's Scripting News
+
+<p>JD goes as a childless cat lady in the Cretins of Trumpland <a href="https://en.wikipedia.org/wiki/Krewe">krewe</a>.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/07/25/cretinsOfTrumpland.png"></center>Hey Mister throw me a kitten!</div></p>
+ 
+
+<http://scripting.com/2024/07/25/191217.html?title=jdCrankGoesToMardiGras>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-25, from: Dave Winer's Scripting News)
+
+I almost used <a href="https://www.google.com/search?q=site%3Ascripting.com+enshitification">enshitification</a> in a post yesterday. 
+
+<http://scripting.com/2024/07/25.html#a190517>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-25, from: Dave Winer's Scripting News)
+
+It's weird that JD Vance goes out with the insults before most people have any idea who he is. Instead of <a href="https://www.bbc.com/news/articles/cpe3pz2pz8no">childless cat ladies</a> sticking to Kamala, it's sticking to him, which I'm pretty sure wasn't his intent. 
+
+<http://scripting.com/2024/07/25.html#a190304>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-25, from: Dave Winer's Scripting News)
+
+Pretty remarkable how abusive the bots on Twitter have become. Makes discourse there seem pretty silly. Might as well turn it into a one-way medium, for all practical purposes that's what it is. 
+
+<http://scripting.com/2024/07/25.html#a190245>
+
+---
+
+##  Incredible Time Lapse Movies of Exoplanets 
+
+date: 2024-07-25, updated: 2024-07-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/incredible-time-lapse-movies-of-exoplanets>
+
+---
+
+## The CrowdStrike Outage and Market-Driven Brittleness
+
+date: 2024-07-25, updated: 2024-07-25, from: Bruce Schneier blog
+
+<p>Friday&#8217;s massive internet outage, caused by a mid-sized tech company called CrowdStrike, disrupted major airlines, hospitals, and banks. Nearly <a href="https://www.independent.co.uk/tech/microsoft-outage-crowdstrike-global-it-flights-banks-windows-b2582964.html">7,000 flights were canceled</a>. It took down 911 systems and factories, courthouses, and television stations. Tallying the total cost will take time. The outage affected more than 8.5 million Windows computers, and the cost will surely be in the <a href="https://www.theguardian.com/technology/article/2024/jul/24/crowdstrike-outage-companies-cost">billions of dollars</a>­easily matching the most costly previous cyberattacks, such as <a href="https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/">NotPetya</a>.</p>
+<p>The catastrophe is yet another reminder of how brittle global internet infrastructure is. It’s complex, deeply interconnected, and filled with single points of failure. As we experienced last week, a single problem in a small piece of software can take large swaths of the internet and global economy offline...</p> 
+
+<https://www.schneier.com/blog/archives/2024/07/the-crowdstrike-outage-and-market-driven-brittleness.html>
+
+---
+
+##  On her birthday, US Rep. Rashida Tlaib, who is Palestinian-American, wore a... 
+
+date: 2024-07-25, updated: 2024-07-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045017-on-her-birthday-us-rep>
+
+---
+
+## July 24, 2024
+
+date: 2024-07-25, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/july-24-2024-56c>
+
+---
+
+##  Fun little browser game: What Beats Rock?... 
+
+date: 2024-07-25, updated: 2024-07-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045016-fun-little-browser-game-w>
+
+---
+
+##  Laura Dern was forced to drop out of UCLA&#8217;s film school to... 
+
+date: 2024-07-25, updated: 2024-07-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045015-laura-dern-was-forced-to>
+
+---
+
+## The Man Who Loved Politics: Mr. Walter Shapiro, 1947-2024.
+
+date: 2024-07-25, from: James Fallows, Substack
+
+A writer who was a joy to know, and to read. 
+
+<https://fallows.substack.com/p/the-man-who-loved-politics-mr-walter>
+
+---
+
+## 2024-07-24 Gridmapper Local
+
+date: 2024-07-25, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-24-gridmapper-local">2024-07-24 Gridmapper Local</h1>
+
+<p>I was wondering whether I should get back to Gridmapper, but not using Javascript and the web but using Common Lisp.
+I spent some time on this <a href="2022-07-20_Gridmapper_CL">two years ago</a>.
+Of course by now I have forgotten everything – like how to build it!</p>
+
+<p>This is the Makefile that seems to work, given that I have both <code>gridmapper.asd</code> and <code>gridmapper.lisp</code> in the current directory.</p>
+
+<pre><code>SHELL = /bin/sh
+LISP ?= sbcl --non-interactive
+PWD   = $(shell pwd)
+
+build:
+	$(LISP) --eval '(asdf:load-asd &quot;$(PWD)/gridmapper.asd&quot;)' \
+	--eval '(asdf:load-system :gridmapper)' \
+	--eval '(asdf:make :gridmapper)' \
+	--eval '(quit)'
+</code></pre>
+
+<p>Surely there is a better way to do this?</p>
+
+<p>If I replace <code>(asdf:load-system :gridmapper)</code> with <code>(ql:quickload :gridmapper)</code> it no longer gives me a warning about <code>cl-colors.asd</code> which I don&rsquo;t know anything about. I guess the warning is still preferable because it means no dependency on Quicklisp? I have no idea. The <a href="https://src.alexschroeder.ch/gridmapper-local.git">README</a> comes with a long explanation of what to install and how to do it, in order to build Gridmapper – including the use of Quicklisp.</p>
+
+<p>The hairiest part is that I need access to a function that isn&rsquo;t exported from the Cairo package. So now I&rsquo;m accessing the private function (using two colons):</p>
+
+<pre><code>;; Sorry for the ugly hack… cairo_format_stride_for_width is not exported.
+(cairo::cairo_format_stride_for_width :CAIRO_FORMAT_ARGB32 (surface-width surface)))))
+</code></pre>
+
+<p>Two years ago, there was a different solution to this that apparently no longer works. 🤷</p>
+
+<p><a class="tag" href="/search/?q=%23Common_Lisp">#Common Lisp</a></p>
+
+<p><strong>2024-07-25</strong>. Another option would be to switch to a different binding of the SDL2 library, of course.
+<code>hu.dwim.sdl</code> sounds like the package I need? Sadly, there is no documentation. The SDL2 symbols are translated by the rules given into Common Lisp symbols. Given my lack of understanding, that makes it
+difficult. Furthermore, the binding I&rsquo;ve been using until now came with hand-written convenience methods
+such as <code>with-rects</code> that don&rsquo;t exist in this other binding. There is some porting to do. And given all
+of that… I must confess that it makes me tired.</p>
+
+<p>Using the browser as a universal user-interface is a pretty cool idea! Even if the application itself
+is a stand-alone program that can act as a web-server (like <a href="Oddmu">Oddmu</a>), all the hard parts are abstracted
+away: line-breaks, hyphenation, spell-checking when writing. Perhaps using the canvas is hard? But using
+the DOM and SVG is something I&rsquo;ve done countless times and by now I know my way around.</p>
+
+<p>Sigh.</p>
+
+<p>I suspect something like the following is required for every symbol that I want to use:</p>
+
+<pre><code>(defun render-fill-rect (&amp;rest args) (apply 'HU.DWIM.SDL.FFI::|SDL_RenderFillRect| args))
+</code></pre>
+
+<p>And then take a look at the arguments. The other SDL2 binding already has this.</p>
+
+<p><code>rect.lisp</code> defines these:</p>
+
+<pre><code>(defun make-rect (x y w h)
+  &quot;Allocate and return a new SDL_Rect filled in with the arguments.&quot;
+  (c-let ((rect sdl2-ffi:sdl-rect))
+    (setf (rect :x) x
+          (rect :y) y
+          (rect :w) w
+          (rect :h) h)
+    rect))
+
+(define-struct-accessors (rect sdl2-ffi:sdl-rect)
+  :x :y (width :w) (height :h))
+</code></pre>
+
+<p><code>render.lisp</code> defines this:</p>
+
+<pre><code>(defun render-fill-rect (renderer sdl-rect)
+  &quot;Use this function to fill a rectangle on the current rendering target with
+the drawing color. &quot;
+  (check-rc (sdl2-ffi.functions:sdl-render-fill-rect renderer sdl-rect)))
+</code></pre>
+
+<p>So I am between a rock and a hard place.
+The SDL2 bindings I had were pretty good.
+They don&rsquo;t come with bindings for SDL2/gfx so I would I need to do the missing legwork myself.
+Which I could do.</p>
+
+<p>Or I could stick with Javascript and the web.</p>
+
+<p>Sadly, the situation for the Cairo library doesn&rsquo;t appear to be much better.
+The function <code>format-stride-for-width</code> is not exported and I suspect nobody is actively working on the library.
+<a href="https://github.com/rpav/cl-cairo2/issues/25">My issue</a> has no reaction since Jul 20, 2022.</p> 
+
+<https://alexschroeder.ch/view/2024-07-24-gridmapper-local>
+
+---
+
+##  &#8220;We Choose Freedom&#8221; 
+
+date: 2024-07-25, updated: 2024-07-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/we-choose-freedom>
+
+---
+
+##  A recent book, Van Gogh and the End of Nature, is a... 
+
+date: 2024-07-25, updated: 2024-07-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045008-a-recent-book-van-gogh>
 
 ---
 
@@ -63,60 +443,6 @@ These dubious heroics succeeded only in staving off the inevitable: When TerraUS
 The details of Jump Crypto's involvement with Terra/Luna were revealed because the SEC's case against Terraform Labs and Kwon was based partly on a whistleblower from Jump Crypto. The testimony will probably feature in the criminal case against Kwon, currently awaiting extradition from Montenegro.<br /> 
 
 <https://blog.dshr.org/2024/07/matt-levine-explains-cryptocurrency.html>
-
----
-
-## 2024-07-24 Gridmapper Local
-
-date: 2024-07-25, from: Alex Schroeder's Blog
-
-<h1 id="2024-07-24-gridmapper-local">2024-07-24 Gridmapper Local</h1>
-
-<p>I was wondering whether I should get back to Gridmapper, but not using Javascript and the web but using Common Lisp.
-I spent some time on this <a href="2022-07-20_Gridmapper_CL">two years ago</a>.
-Of course by now I have forgotten everything – like how to build it!</p>
-
-<p>This is the Makefile that seems to work, given that I have both <code>gridmapper.asd</code> and <code>gridmapper.lisp</code> in the current directory.</p>
-
-<pre><code>SHELL = /bin/sh
-LISP ?= sbcl --non-interactive
-PWD   = $(shell pwd)
-
-build:
-	$(LISP) --eval '(asdf:load-asd &quot;$(PWD)/gridmapper.asd&quot;)' \
-	--eval '(asdf:load-system :gridmapper)' \
-	--eval '(asdf:make :gridmapper)' \
-	--eval '(quit)'
-</code></pre>
-
-<p>Surely there is a better way to do this?</p>
-
-<p>If I replace <code>(asdf:load-system :gridmapper)</code> with <code>(ql:quickload :gridmapper)</code> it no longer gives me a warning about <code>cl-colors.asd</code> which I don&rsquo;t know anything about. I guess the warning is still preferable because it means no dependency on Quicklisp? I have no idea. The <a href="https://src.alexschroeder.ch/gridmapper-local.git">README</a> comes with a long explanation of what to install and how to do it, in order to build Gridmapper – including the use of Quicklisp.</p>
-
-<p>The hairiest part is that I need access to a function that isn&rsquo;t exported from the Cairo package. So now I&rsquo;m accessing the private function (using two colons):</p>
-
-<pre><code>;; Sorry for the ugly hack… cairo_format_stride_for_width is not exported.
-(cairo::cairo_format_stride_for_width :CAIRO_FORMAT_ARGB32 (surface-width surface)))))
-</code></pre>
-
-<p>Two years ago, there was a different solution to this that apparently no longer works. 🤷</p>
-
-<p><a class="tag" href="/search/?q=%23Common_Lisp">#Common Lisp</a></p>
-
-<p><strong>2024-07-25</strong>. Another option would be to switch to a different binding of the SDL2 library, of course.
-<code>hu.dwim.sdl</code> sounds like the package I need? Sadly, there is no documentation. The SDL2 symbols are translated by the rules given into Common Lisp symbols. Given my lack of understanding, that makes it
-difficult. Furthermore, the binding I&rsquo;ve been using until now came with hand-written convenience methods
-such as <code>with-rects</code> that don&rsquo;t exist in this other binding. There is some porting to do. And given all
-of that… I must confess that it makes me tired.</p>
-
-<p>Using the browser as a universal user-interface is a pretty cool idea! Even if the application itself
-is a stand-alone program that can act as a web-server (like <a href="Oddmu">Oddmu</a>), all the hard parts are abstracted
-away: line-breaks, hyphenation, spell-checking when writing. Perhaps using the canvas is hard? But using
-the DOM and SVG is something I&rsquo;ve done countless times and by now I know my way around.</p>
-
-<p>Sigh.</p> 
-
-<https://alexschroeder.ch/view/2024-07-24-gridmapper-local>
 
 ---
 
@@ -1092,7 +1418,7 @@ Friends,
 
 date: 2024-07-23, from: Heather Cox Richardson blog
 
-Vice President Kamala Harris has continued to rack up endorsements and delegates since President Biden&#8217;s surprise announcement yesterday that he would not accept the 2024 Democratic presidential nomination. As of tonight, Harris has the support of at least 2,471 delegates, more than the 1,976 she will need to secure the nomination. 
+Vice President Kamala Harris has continued to rack up endorsements and delegates since President Biden&#8217;s surprise announcement yesterday that he would not accept the 2024 Democratic presidential nomination. 
 
 <https://heathercoxrichardson.substack.com/p/july-22-2024>
 
@@ -1561,7 +1887,7 @@ Evolution Of one thing at least we can be sure: ‘soapy Sam’ would not have a
 
 date: 2024-07-21, from: Dan Rather's Steady
 
-Americans, every one of us, are about to be tested as never before. We have always been known for our ability to rise above challenges. This will be one for the ages. I have hope and faith that we are up to it. We had better be. Democracy as we have known it depends on us. 
+Americans, every one of us, are about to be tested as never before. 
 
 <https://steady.substack.com/p/biden-bows-out>
 
@@ -1645,7 +1971,7 @@ And last week&#8217;s winner
 
 date: 2024-07-21, from: Heather Cox Richardson blog
 
-Spent the evening with family, and my photographer nephew showed me today&#8217;s capture: a seagull trying to move in on an osprey&#8217;s catch. It&#8217;s a nice break to see drama from something other than the human news this past week&#8212; it seemed relentless. 
+Spent the evening with family, and my photographer nephew showed me today&#8217;s capture: a seagull trying to move in on an osprey&#8217;s catch. 
 
 <https://heathercoxrichardson.substack.com/p/july-20-2024>
 

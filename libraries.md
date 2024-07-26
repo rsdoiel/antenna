@@ -1,11 +1,33 @@
 ---
 title: libraries 2024.30
-updated: 2024-07-25 08:04:56
+updated: 2024-07-26 07:32:28
 ---
 
 # libraries 2024.30
 
-(date: 2024-07-25 08:04:56)
+(date: 2024-07-26 07:32:28)
+
+---
+
+## Forget about AI, Here Comes PowerPoint
+
+date: 2024-07-26, from: Scholarly Kitchen
+
+<p>Did you know that PowerPoint is the only computing application you need to do, well, anything?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/07/26/forget-about-ai-here-comes-powerpoint/">Forget about AI, Here Comes PowerPoint</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/07/26/forget-about-ai-here-comes-powerpoint/>
+
+---
+
+## Data set for article "Finite-temperature grain boundary properties from quasistatic atomistics"
+
+date: 2024-07-26, from: ETH Zurich, recently added
+
+Spinola, Miguel 
+
+<http://hdl.handle.net/20.500.11850/683240>
 
 ---
 
@@ -63,6 +85,16 @@ date: 2024-07-23, from: Scholarly Kitchen
  
 
 <https://scholarlykitchen.sspnet.org/2024/07/23/guest-post-new-directions-seminar-reverse-roundtables-kept-the-post-lunch-conversations-going/>
+
+---
+
+## The increasingly dominant role of climate change on length of day variations
+
+date: 2024-07-23, from: ETH Zurich, recently added
+
+Kiani Shahvandi, Mostafa; Adhikari, Surendra; Dumberry, Mathieu; Mishra, Siddhartha; Soja, Benedikt 
+
+<http://hdl.handle.net/20.500.11850/685374>
 
 ---
 

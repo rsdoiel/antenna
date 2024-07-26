@@ -1,11 +1,83 @@
 ---
 title: mid central 2024.30
-updated: 2024-07-25 08:04:52
+updated: 2024-07-26 07:32:23
 ---
 
 # mid central 2024.30
 
-(date: 2024-07-25 08:04:52)
+(date: 2024-07-26 07:32:23)
+
+---
+
+## Tiny board jumpstarts motor-drive design
+
+date: 2024-07-25, from: EDN Blog
+
+<img width="800" height="449" src="https://www.edn.com/wp-content/uploads/STMicro-EVLDRIVE101.jpg?fit=800%2C449" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/STMicro-EVLDRIVE101.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/STMicro-EVLDRIVE101.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/STMicro-EVLDRIVE101.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>ST’s reference design packs a 3-phase gate driver, an STM32G0 MCU, and a 750-W power stage on a circular PCB that is just 50-mm in diameter.</p>
+<p>The post <a href="https://www.edn.com/tiny-board-jumpstarts-motor-drive-design/" data-wpel-link="internal">Tiny board jumpstarts motor-drive design</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/tiny-board-jumpstarts-motor-drive-design/>
+
+---
+
+## PSoC-based eval kit focuses on edge AI
+
+date: 2024-07-25, from: EDN Blog
+
+<img width="800" height="460" src="https://www.edn.com/wp-content/uploads/Infineon-PSoC-6-AI-kit.jpg?fit=800%2C460" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Infineon-PSoC-6-AI-kit.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Infineon-PSoC-6-AI-kit.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Infineon-PSoC-6-AI-kit.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The PSoC 6 AI evaluation kit from Infineon offers tools for creating embedded AI and ML system designs for consumer and IoT applications.</p>
+<p>The post <a href="https://www.edn.com/psoc-based-eval-kit-focuses-on-edge-ai/" data-wpel-link="internal">PSoC-based eval kit focuses on edge AI</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/psoc-based-eval-kit-focuses-on-edge-ai/>
+
+---
+
+## Power amp targets multicarrier transmitters
+
+date: 2024-07-25, from: EDN Blog
+
+<img width="800" height="418" src="https://www.edn.com/wp-content/uploads/Guerrilla-RF-GRF5112.jpg?fit=800%2C418" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Guerrilla-RF-GRF5112.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Guerrilla-RF-GRF5112.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Guerrilla-RF-GRF5112.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>A broadband power amplifier from Guerrilla RF provides enhanced compression performance over large fractional bandwidths of up to 40%.</p>
+<p>The post <a href="https://www.edn.com/power-amp-targets-multicarrier-transmitters/" data-wpel-link="internal">Power amp targets multicarrier transmitters</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/power-amp-targets-multicarrier-transmitters/>
+
+---
+
+## EDA tools enable PCIe, UCIe simulation
+
+date: 2024-07-25, from: EDN Blog
+
+<img width="800" height="446" src="https://www.edn.com/wp-content/uploads/Keysight-PCIe-Designer.jpg?fit=800%2C446" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Keysight-PCIe-Designer.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Keysight-PCIe-Designer.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Keysight-PCIe-Designer.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>System Designer for PCIe from Keysight enhances design productivity by supporting simulation workflows compatible with industry standards.</p>
+<p>The post <a href="https://www.edn.com/eda-tools-enable-pcie-ucie-simulation/" data-wpel-link="internal">EDA tools enable PCIe, UCIe simulation</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/eda-tools-enable-pcie-ucie-simulation/>
+
+---
+
+## Video interface IP runs on multiple UMC nodes
+
+date: 2024-07-25, from: EDN Blog
+
+<img width="800" height="445" src="https://www.edn.com/wp-content/uploads/Faraday-MIPI-D.jpg?fit=800%2C445" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Faraday-MIPI-D.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Faraday-MIPI-D.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Faraday-MIPI-D.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Faraday’s MIPI D-PHY and V-by-One PHY IP portfolios are now compatible with UMC fabrication processes across nodes from 55 nm to 22 nm.</p>
+<p>The post <a href="https://www.edn.com/video-interface-ip-runs-on-multiple-umc-nodes/" data-wpel-link="internal">Video interface IP runs on multiple UMC nodes</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/video-interface-ip-runs-on-multiple-umc-nodes/>
+
+---
+
+## Visual overload alert
+
+date: 2024-07-25, from: EDN Blog
+
+<img width="592" height="396" src="https://www.edn.com/wp-content/uploads/VOA_fig1_v1.jpg?fit=592%2C396" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/VOA_fig1_v1.jpg?w=592 592w, https://www.edn.com/wp-content/uploads/VOA_fig1_v1.jpg?w=300 300w" sizes="(max-width: 592px) 100vw, 592px" /><p>A simple device and useful add-on to an audio kit to warn when any stage in an audio system is close to its overload point.</p>
+<p>The post <a href="https://www.edn.com/visual-overload-alert/" data-wpel-link="internal">Visual overload alert</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/visual-overload-alert/>
 
 ---
 
@@ -13,7 +85,7 @@ updated: 2024-07-25 08:04:52
 
 date: 2024-07-25, from: EDN Blog
 
-<img width="912" height="942" src="https://www.edn.com/wp-content/uploads/Hero-image-SensiML-GenAI-Voice.png?fit=912%2C942" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-SensiML-GenAI-Voice.png?w=912 912w, https://www.edn.com/wp-content/uploads/Hero-image-SensiML-GenAI-Voice.png?w=290 290w, https://www.edn.com/wp-content/uploads/Hero-image-SensiML-GenAI-Voice.png?w=768 768w" sizes="(max-width: 912px) 100vw, 912px" /><p>A new AI feature allows developers to generate synthetic speech data with greater precision and tailor voice attributes.</p>
+<img width="912" height="942" src="https://www.edn.com/wp-content/uploads/Hero-image-SensiML-GenAI-Voice.png?fit=912%2C942" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-SensiML-GenAI-Voice.png?w=912 912w, https://www.edn.com/wp-content/uploads/Hero-image-SensiML-GenAI-Voice.png?w=290 290w, https://www.edn.com/wp-content/uploads/Hero-image-SensiML-GenAI-Voice.png?w=768 768w" sizes="(max-width: 912px) 100vw, 912px" /><p>A new AI feature allows developers to generate synthetic speech data with greater precision and tailor voice attributes.</p>
 <p>The post <a href="https://www.edn.com/iot-genai-voice-helps-generate-speech-recognition-models/" data-wpel-link="internal">IoT: GenAI voice helps generate speech recognition models</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

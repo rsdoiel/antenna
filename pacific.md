@@ -1,11 +1,749 @@
 ---
 title: pacific 2024.30
-updated: 2024-07-25 08:04:52
+updated: 2024-07-26 07:32:23
 ---
 
 # pacific 2024.30
 
-(date: 2024-07-25 08:04:52)
+(date: 2024-07-26 07:32:23)
+
+---
+
+## Event at Hilo museum aims to hike awareness about tsunamis
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>Awareness and preparedness will be the main focus Saturday during the inaugural Tsunami Summer Jam in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/hawaii-news/event-at-hilo-museum-aims-to-hike-awareness-about-tsunamis/>
+
+---
+
+## Harris gains ground in polls as Trump tries to brand her a Marxist
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>HOUSTON &#8212; Vice President Kamala Harris took her presidential campaign blitz to the largest U.S. teachers&#8217; union on Thursday, promising a &#8220;fight for the future&#8221; as new opinion polls showed her narrowing the gap with Republican rival Donald Trump. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/nation-world-news/harris-gains-ground-in-polls-as-trump-tries-to-brand-her-a-marxist/>
+
+---
+
+## Newsom orders California officials to remove homeless encampments
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>SACRAMENTO, Calif. &#8212; Gov. Gavin Newsom ordered California state officials on Thursday to begin dismantling thousands of homeless encampments, the nation&#8217;s most sweeping response to a recent Supreme Court ruling that gave governments greater authority to remove homeless people from their streets. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/nation-world-news/newsom-orders-california-officials-to-remove-homeless-encampments/>
+
+---
+
+## Big expansion of Hilo Harbor entrance still in the works
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>A $62 million plan to expand the entrance to Hilo Harbor still needs some time in the oven.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/hawaii-news/big-expansion-of-hilo-harbor-entrance-still-in-the-works/>
+
+---
+
+## Nation and world news in brief for July 26
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>Man arrested in Calif. wildfire that forced thousands &#0010;to evacuate</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/nation-world-news/nation-and-world-news-in-brief-for-july-26/>
+
+---
+
+## M.I.S.O. Elite: Hawaii’s best U12 soccer players compete in Japan
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii&#8217;s top U12 Boys and Girls soccer players got a chance to represent the Aloha State at an international level with the M.I.S.O. Elite Team on their recent trip to Japan from July 10 to July 23.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/sports/m-i-s-o-elite-hawaiis-best-u12-soccer-players-compete-in-japan/>
+
+---
+
+## Why Harris should pick former astronaut Mark Kelly as running mate
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>With the Democratic presidential nomination all but delivered for Kamala Harris, speculation has turned to who would best compliment her as the vice-presidential nominee. There are certainly several interesting possibilities but there is one who, like Harris herself, draws stark and strategic contrasts with the Trump-Vance ticket: Sen. Mark Kelly of Arizona.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/opinion/why-harris-should-pick-former-astronaut-mark-kelly-as-running-mate/>
+
+---
+
+## Former Uvalde officers plead not guilty in Texas school shooting case
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>Two former Texas school police officers have pleaded not guilty to charges related to the 2022 shooting at Robb Elementary School in Uvalde that killed 19 students and two teachers. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/nation-world-news/former-uvalde-officers-plead-not-guilty-in-texas-school-shooting-case/>
+
+---
+
+## Hollywood’s videogame performers to strike over AI, pay concerns
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>Videogame voice actors and motion-capture performers have called a strike over failed labor contract negotiations focused around AI-related protections for workers, bringing about another work stoppage in Hollywood. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/nation-world-news/hollywoods-videogame-performers-to-strike-over-ai-pay-concerns/>
+
+---
+
+## Breast cancer survival not boosted by double mastectomy, study says
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>For the more than 310,000 women diagnosed with breast cancer every year, no matter how well the treatment goes, there is always a lingering fear. Could the disease come back, even years later? And what if it comes back in the other breast? Could they protect themselves today by having a double mastectomy? </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/nation-world-news/breast-cancer-survival-not-boosted-by-double-mastectomy-study-says/>
+
+---
+
+## Guns aren’t as good for self-defense as America thinks
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>A couple of hours before a young man shot an AR-15 rifle at former President Donald Trump, killing one bystander and wounding others, I had been finishing a column about gun violence as a public health threat. It was an eerie coincidence but not an unlikely one: More than 100 people die from gunshots on an average day in the United States.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/opinion/guns-arent-as-good-for-self-defense-as-america-thinks/>
+
+---
+
+## Public invited to fentanyl summit in Hilo
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>The 3rd Annual Hawaii Fentanyl and Addictions Summit will be held from 8 a.m. to 4 p.m. Monday, Aug. 5, at the Hilo Hawaiian Hotel.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/hawaii-news/public-invited-to-fentanyl-summit-in-hilo/>
+
+---
+
+## Artists explore the meaning of home
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>Eleven artists will explore the meaning of home and belonging Saturday during a one-day arts celebration across Hawaii Island.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/hawaii-news/artists-explore-the-meaning-of-home/>
+
+---
+
+## Community invited to BISAC’s Summer Jam
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>The Big Island Substance Abuse Council, or BISAC, will hold its 10th annual Summer Jam Event from 8 a.m. to 2 p.m. this Saturday at the Hilo Afook-Chinen Civic Auditorium.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/community/community-invited-to-bisacs-summer-jam/>
+
+---
+
+## Southwest Airlines will end its long-standing open-seating policy
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>Southwest Airlines will start assigning seats to passengers, ending its long-standing policy of allowing passengers to pick their seats once they have boarded, the airline said Thursday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/nation-world-news/southwest-airlines-will-end-its-long-standing-open-seating-policy/>
+
+---
+
+## Obama has been in touch with Harris and is expected to endorse her soon
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Former President Barack Obama has been in regular touch with Vice President Kamala Harris since she emerged as the likely Democratic nominee to share his experiences &#8212; and is expected to endorse her soon, according to people familiar with the situation. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/nation-world-news/obama-has-been-in-touch-with-harris-and-is-expected-to-endorse-her-soon/>
+
+---
+
+## Homicides in US continue to fall from pandemic highs
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>Homicides in the United States are continuing to dramatically decrease from the surge in violent crime in the first years of the coronavirus pandemic, according to an analysis released Thursday by the nonpartisan Council on Criminal Justice. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/nation-world-news/homicides-in-us-continue-to-fall-from-pandemic-highs/>
+
+---
+
+## Good waves expected to kick off Tahiti surfing, ISA head says
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>TEAHUPO&#8217;O, Tahiti &#8212; Surfing in the Paris Games is likely to kick off in excellent waves at the perfect reef break of Teahupo&#8217;o on Saturday, the head of the governing body said, vindicating the decision to hold the event in Tahiti, a record 16,000km from the host city. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/sports/good-waves-expected-to-kick-off-tahiti-surfing-isa-head-says/>
+
+---
+
+## The Summer Olympics: How to Watch. What to Watch.
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>Another Summer Olympics already? It&#8217;s true: Because Tokyo 2020 was delayed to 2021 by the pandemic, only three years have passed since the last Games.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/sports/the-summer-olympics-how-to-watch-what-to-watch/>
+
+---
+
+## QB Schager given keys to unlock the Warriors’ run-and-shoot offense
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>First things first.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/sports/qb-schager-given-keys-to-unlock-the-warriors-run-and-shoot-offense/>
+
+---
+
+## UHH women’s v  olleyball adds four to experienced roster
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; Hawai&#8216;i Hilo Women&#8217;s Volleyball sixth-year head coach Chris Leonard has announced the addition of four newcomers to an experienced squad for the upcoming fall 2024 season.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/sports/uhh-womens-v-olleyball-adds-four-to-experienced-roster/>
+
+---
+
+## UHH women’s basketball: Vulcans earn WBCA Academic Special Mention
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA, Ga. &#8212; The Hawai&#8216;i Hilo women&#8217;s basketball Vulcans once again received recognition for academic excellence by earning a Women&#8217;s Basketball Coaches Association Academic Special Mention for the 2023-24 school year.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/sports/uhh-womens-basketball-vulcans-earn-wbca-academic-special-mention/>
+
+---
+
+## China doping row to raise tension at Paris pool
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; A doping row involving Chinese athletes may prove a tinderbox at the Olympic swimming meet where the United States face the biggest challenge to their reign in decades from Saturday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/sports/china-doping-row-to-raise-tension-at-paris-pool/>
+
+---
+
+## Ohio State is desperate. Michigan is not. What comes next for the Wolverines?
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>INDIANAPOLIS &#8212; It would take an army of psychologists to unpack the relationship between Michigan and Ohio State and the way those two rivals have taken up permanent residence in each other&#8217;s minds.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/sports/ohio-state-is-desperate-michigan-is-not-what-comes-next-for-the-wolverines/>
+
+---
+
+## CNMI launches new campaign targeting Japanese millennial and Gen Z travelers
+
+date: 2024-07-26, from: Pacific Island Times
+
+By Pacific Island Times News Staff Saipan– The Marianas Visitors Authority has launched a new campaign that seeks to attract young... 
+
+<https://www.pacificislandtimes.com/post/cnmi-launches-new-campaign-targeting-japanese-millennial-and-gen-z-travelers>
+
+---
+
+## GPA seeks to speed up Guam’s power project, eyes $50M cut in contract costs
+
+date: 2024-07-26, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Public Utilities Commission has approved amendments to the energy conversion agreement between the... 
+
+<https://www.pacificislandtimes.com/post/gpa-seeks-to-speed-up-guam-s-power-project-eyes-50m-cut-in-contract-costs>
+
+---
+
+## Palau hosts First E-Gaming tournament
+
+date: 2024-07-26, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Participants-in-the-first-e-game-competition-in-Palau.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Participants-in-the-first-e-game-competition-in-Palau.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Participants-in-the-first-e-game-competition-in-Palau.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Participants-in-the-first-e-game-competition-in-Palau.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Participants-in-the-first-e-game-competition-in-Palau.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Participants-in-the-first-e-game-competition-in-Palau.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Participants-in-the-first-e-game-competition-in-Palau.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Participants-in-the-first-e-game-competition-in-Palau.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Participants-in-the-first-e-game-competition-in-Palau.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Participants-in-the-first-e-game-competition-in-Palau.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Participants-in-the-first-e-game-competition-in-Palau.jpeg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Participants-in-the-first-e-game-competition-in-Palau.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71500" data-permalink="https://islandtimes.org/palau-hosts-first-e-gaming-tournament/participants-in-the-first-e-game-competition-in-palau/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Participants-in-the-first-e-game-competition-in-Palau.jpeg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Participants in the first e-game competition in Palau" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Participants-in-the-first-e-game-competition-in-Palau.jpeg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Participants-in-the-first-e-game-competition-in-Palau.jpeg?fit=780%2C585&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>KOROR, Palau – Palau held its first electronic gaming exhibition and tournament Wednesday, July 25, as part of a two-day fintech conference at West Plaza Hotel. “Fintech is a short term for financial technology, it’s a sector where a lot of technologies intersect with finance,” said Steven Rdechor, a host of the event on behalf [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-hosts-first-e-gaming-tournament/">Palau hosts First E-Gaming tournament</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-hosts-first-e-gaming-tournament/>
+
+---
+
+## Legal question looms as Palau officials defy Senate subpoenas
+
+date: 2024-07-26, from: Island Times
+
+<figure><img width="400" height="341" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/legal.jpg?fit=400%2C341&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/legal.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/legal.jpg?resize=300%2C256&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/legal.jpg?fit=400%2C341&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71496" data-permalink="https://islandtimes.org/legal-question-looms-as-palau-officials-defy-senate-subpoenas/legal/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/legal.jpg?fit=400%2C341&amp;ssl=1" data-orig-size="400,341" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="legal" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/legal.jpg?fit=300%2C256&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/legal.jpg?fit=400%2C341&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Olkeriil Eoghan Ngirudelsang KOROR, Palau – A legal showdown is brewing in Palau after the finance minister and the CEO of the Public Utilities Commission defied subpoenas issued by the Senate. The Senate’s Committee on Energy, Public Utilities, and Telecommunications, chaired by Senator Kerai Mariur, summoned Finance Minister Kaleb Udui Jr. on July 8 [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/legal-question-looms-as-palau-officials-defy-senate-subpoenas/">Legal question looms as Palau officials defy Senate subpoenas</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/legal-question-looms-as-palau-officials-defy-senate-subpoenas/>
+
+---
+
+## WIOA to disburse $11.5M to 516 residents
+
+date: 2024-07-26, from: Island Times
+
+<figure><img width="1024" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/08/WIOA.jpg?fit=1024%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/08/WIOA.jpg?w=1563&amp;ssl=1 1563w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/08/WIOA.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/08/WIOA.jpg?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/08/WIOA.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/08/WIOA.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/08/WIOA.jpg?resize=1536%2C1536&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/08/WIOA.jpg?resize=1200%2C1200&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/08/WIOA.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/08/WIOA.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/08/WIOA.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/08/WIOA.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/08/WIOA.jpg?fit=1024%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="65259" data-permalink="https://islandtimes.org/former-wioa-director-criminally-charged/wioa-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/08/WIOA.jpg?fit=1563%2C1563&amp;ssl=1" data-orig-size="1563,1563" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="WIOA" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/08/WIOA.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/08/WIOA.jpg?fit=780%2C780&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>KOROR, Palau — The Workforce Innovation and Opportunity Act office will distribute about $11.5 million to 516 people who qualified for WIOA assistance in 2020 but didn’t receive full payments. Glenda Ngirmeriil, WIOA executive director, said the office lacked funds to cover the full amount owed to the 516 applicants. After searching U.S. states and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/wioa-to-disburse-11-5m-to-516-residents/">WIOA to disburse $11.5M to 516 residents</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/wioa-to-disburse-11-5m-to-516-residents/>
+
+---
+
+## The Pacific economic malaise
+
+date: 2024-07-26, from: Pacific Island Times
+
+Stagnant development in Pacific island countries triggers continued emigration By Steve Pollard As the Pacific island countries prepare... 
+
+<https://www.pacificislandtimes.com/post/the-pacific-economic-malaise>
+
+---
+
+## New Palau Red Cross Warehouse Opens
+
+date: 2024-07-26, from: Island Times
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/p2a.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/p2a.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/p2a.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/p2a.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/p2a.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/p2a.jpg?resize=1200%2C799&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/p2a.jpg?resize=400%2C266&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/p2a.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/p2a.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71489" data-permalink="https://islandtimes.org/new-palau-red-cross-warehouse-opens/p2a-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/p2a.jpg?fit=1249%2C832&amp;ssl=1" data-orig-size="1249,832" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="p2a" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/p2a.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/p2a.jpg?fit=780%2C519&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Olkeriil Eoghan Ngirudelsang Airai, Palau – The Palau Red Cross Society opened a new emergency relief supplies warehouse and training center on Wednesday, July 25, 2024, with a ribbon-cutting ceremony. The facility, funded by a Japanese government grant, will store non-food items for disaster relief and provide a space for training volunteers. Construction began [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/new-palau-red-cross-warehouse-opens/">New Palau Red Cross Warehouse Opens</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/new-palau-red-cross-warehouse-opens/>
+
+---
+
+## Palau disburses Tax Refunds and Social Assistance to 3,802 citizens
+
+date: 2024-07-26, from: Island Times
+
+<figure><img width="900" height="837" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/04/tax.jpg?fit=900%2C837&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/04/tax.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/04/tax.jpg?resize=300%2C279&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/04/tax.jpg?resize=768%2C714&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/04/tax.jpg?resize=400%2C372&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/04/tax.jpg?fit=900%2C837&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="63518" data-permalink="https://islandtimes.org/palau-collects-4-2m-pgst-from-the-first-quarterly-collection/tax/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/04/tax.jpg?fit=900%2C837&amp;ssl=1" data-orig-size="900,837" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="tax" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/04/tax.jpg?fit=300%2C279&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/04/tax.jpg?fit=780%2C725&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Eustoria Marie Borja KOROR, Palau – The Palau Bureau of Revenue &#38; Taxation (BR&#38;T) announced the disbursement of tax refunds and social assistance payments to approximately 3,802 eligible Palauan citizens. The total distribution, amounting to $1.8 million, will occur over the next week. Expanded Tax Refunds and New Social Subsidy This disbursement follows the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-disburses-tax-refunds-and-social-assistance-to-3802-citizens/">Palau disburses Tax Refunds and Social Assistance to 3,802 citizens</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-disburses-tax-refunds-and-social-assistance-to-3802-citizens/>
+
+---
+
+## Immigration Chief resigns after being served with termination notice
+
+date: 2024-07-26, from: Island Times
+
+<figure><img width="300" height="450" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/flavin.jpg?fit=300%2C450&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/flavin.jpg?w=300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/flavin.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/flavin.jpg?fit=300%2C450&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/flavin.jpg?fit=300%2C450&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71482" data-permalink="https://islandtimes.org/immigration-chief-resigns-after-being-served-with-termination-notice/flavin/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/flavin.jpg?fit=300%2C450&amp;ssl=1" data-orig-size="300,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="flavin" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/flavin.jpg?fit=200%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/flavin.jpg?fit=300%2C450&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Bernadette Carreon Division of Immigration&#160; Chief Flavian Misech has resigned from his post but that is after he received a notice that he will be terminated effective July 7 for allegedly using his position “for private gain or profit.” “You are also notified of your dismissal/termination for cause as of July 7, 2024 , [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/immigration-chief-resigns-after-being-served-with-termination-notice/">Immigration Chief resigns after being served with termination notice</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/immigration-chief-resigns-after-being-served-with-termination-notice/>
+
+---
+
+## Palauan students showcase skills at Internship presentations
+
+date: 2024-07-26, from: Island Times
+
+<figure><img width="400" height="344" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/cooper-kokichi.jpg?fit=400%2C344&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/cooper-kokichi.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/cooper-kokichi.jpg?resize=300%2C258&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/cooper-kokichi.jpg?fit=400%2C344&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71478" data-permalink="https://islandtimes.org/palauan-students-showcase-skills-at-internship-presentations/july26issues-indd/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/cooper-kokichi.jpg?fit=400%2C344&amp;ssl=1" data-orig-size="400,344" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;july26issues.indd&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="july26issues.indd" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/cooper-kokichi.jpg?fit=300%2C258&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/cooper-kokichi.jpg?fit=400%2C344&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Summer Kennard and Leilani Reklai KOROR, Palau (July 25, 2024) – Palau National Scholarship Board (PNSB) interns presented their summer internship experiences at a forum held yesterday at Palau Community College Assembly Hall. The event, attended by President Surangel Whipps and Senator Andrew Tabelual, provided a platform for 29 Palauan college students to showcase [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauan-students-showcase-skills-at-internship-presentations/">Palauan students showcase skills at Internship presentations</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palauan-students-showcase-skills-at-internship-presentations/>
+
+---
+
+## Dmakeiukl hosts community meeting in Ngeremlengui
+
+date: 2024-07-26, from: Island Times
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/image001.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/image001.jpg?w=2016&amp;ssl=1 2016w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/image001.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/image001.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/image001.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/image001.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/image001.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/image001.jpg?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/image001.jpg?resize=2000%2C1125&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/image001.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/image001.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/image001.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71473" data-permalink="https://islandtimes.org/dmakeiukl-hosts-community-meeting-in-ngeremlengui/image001-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/image001.jpg?fit=2016%2C1134&amp;ssl=1" data-orig-size="2016,1134" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="image001" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/image001.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/image001.jpg?fit=780%2C439&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>What is Dmakeiukl? Dmakeiukl refers to the four states on the west coast of Palau, namely Ngardmau, Ngeremlengui, Ngatpang and Aimeliik. These four states have formally signed an agreement to work jointly together to manage their natural resources and have named their alliance as “Dmakeiukl”. Some of the joint activities conducted include (1) quarterly leadership [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/dmakeiukl-hosts-community-meeting-in-ngeremlengui/">Dmakeiukl hosts community meeting in Ngeremlengui</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/dmakeiukl-hosts-community-meeting-in-ngeremlengui/>
+
+---
+
+## New Summer Program launched byPICRC and PCC Educational Talent Search Program
+
+date: 2024-07-26, from: Island Times
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_FishDissection_NewIntercessionProgram.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_FishDissection_NewIntercessionProgram.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_FishDissection_NewIntercessionProgram.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_FishDissection_NewIntercessionProgram.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_FishDissection_NewIntercessionProgram.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_FishDissection_NewIntercessionProgram.jpg?resize=1200%2C799&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_FishDissection_NewIntercessionProgram.jpg?resize=400%2C266&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_FishDissection_NewIntercessionProgram.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_FishDissection_NewIntercessionProgram.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71469" data-permalink="https://islandtimes.org/new-summer-program-launched-bypicrc-and-pcc-educational-talent-search-program/pr_fishdissection_newintercessionprogram/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_FishDissection_NewIntercessionProgram.jpg?fit=1249%2C832&amp;ssl=1" data-orig-size="1249,832" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PR_FishDissection_NewIntercessionProgram" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_FishDissection_NewIntercessionProgram.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PR_FishDissection_NewIntercessionProgram.jpg?fit=780%2C519&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>In collaboration with the Palau Community College Educational Talent Search Program, the Palau International Coral Reef Center (PICRC) launched a new STEM summer program for recently promoted Grades 8 and 9 students. The 17 students came from Palau High School, Emmaus-Bethania High School, Koror Elementary School (KES), Peleliu Elementary School, Airai Elementary School, Meyuns Elementary [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/new-summer-program-launched-bypicrc-and-pcc-educational-talent-search-program/">New Summer Program launched byPICRC and PCC Educational Talent Search Program</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/new-summer-program-launched-bypicrc-and-pcc-educational-talent-search-program/>
+
+---
+
+## Three-week training solidifies DMSFWP officers’ ship maintenance skills
+
+date: 2024-07-26, from: Island Times
+
+<figure><img width="1024" height="771" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/MTU_07191.jpeg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/MTU_07191.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/MTU_07191.jpeg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/MTU_07191.jpeg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/MTU_07191.jpeg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/MTU_07191.jpeg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/MTU_07191.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/MTU_07191.jpeg?resize=1200%2C903&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/MTU_07191.jpeg?resize=706%2C531&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/MTU_07191.jpeg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71465" data-permalink="https://islandtimes.org/three-week-training-solidifies-dmsfwp-officers-ship-maintenance-skills/mtu_07191/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/MTU_07191.jpeg?fit=1249%2C940&amp;ssl=1" data-orig-size="1249,940" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="MTU_0719(1)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/MTU_07191.jpeg?fit=300%2C226&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/MTU_07191.jpeg?fit=780%2C587&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>“Presence is Deterrence”. This cannot be achieved without proper maintenance of patrol vessels. Keeping patrol vessels in good condition and ready for operation at all times is the most important course of action to protect Palauan waters. With the support of The Nippon Foundation, three sponsored officers from the Division of Maritime Security and Fish [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/three-week-training-solidifies-dmsfwp-officers-ship-maintenance-skills/">Three-week training solidifies DMSFWP officers’ ship maintenance skills</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/three-week-training-solidifies-dmsfwp-officers-ship-maintenance-skills/>
+
+---
+
+## Sharing the Spirit of Japan:
+
+date: 2024-07-26, from: Island Times
+
+<figure><img width="843" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Japan-Culture-Event_Post.jpg?fit=843%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Japan-Culture-Event_Post.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Japan-Culture-Event_Post.jpg?resize=247%2C300&amp;ssl=1 247w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Japan-Culture-Event_Post.jpg?resize=843%2C1024&amp;ssl=1 843w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Japan-Culture-Event_Post.jpg?resize=768%2C933&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Japan-Culture-Event_Post.jpg?resize=400%2C486&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Japan-Culture-Event_Post.jpg?resize=706%2C857&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Japan-Culture-Event_Post.jpg?fit=843%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71461" data-permalink="https://islandtimes.org/sharing-the-spirit-of-japan/japan-culture-event_post/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Japan-Culture-Event_Post.jpg?fit=900%2C1093&amp;ssl=1" data-orig-size="900,1093" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;BERROUS REKEMESIK&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Japan Culture Event_Post" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Japan-Culture-Event_Post.jpg?fit=247%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Japan-Culture-Event_Post.jpg?fit=780%2C947&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Palauan Students thrilled about Judo &#38; Kimono Events The Embassy of Japan successfully wrapped up Japan Culture Week from July 16th to July 19th, marking a vibrant tribute to two significant milestones in 2024: the 30th anniversary of the Japan-Palau diplomatic relations and Palau’s 30th Independence Day. This cultural celebration was held concurrently with the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/sharing-the-spirit-of-japan/">Sharing the Spirit of Japan:</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/sharing-the-spirit-of-japan/>
+
+---
+
+## President Surangel S. Whipps Jr. meets with Prime Minister KISHIDA Fumio –
+
+date: 2024-07-26, from: Island Times
+
+<p>Japan-Palau Summit Meeting On July 17th, during his visit to Japan to participate in the 10th Pacific Islands Leaders Meeting (PALM10), President Surangel S. Whipps Jr. met with the Prime Minister of Japan, His Excellency KISHIDA Fumio, for a Japan-Palau Summit Meeting that commenced at 9:45 am and lasted approximately 20 minutes. The overview of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/president-surangel-s-whipps-jr-meets-with-prime-minister-kishida-fumio/">President Surangel S. Whipps Jr. meets with Prime Minister KISHIDA Fumio –</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/president-surangel-s-whipps-jr-meets-with-prime-minister-kishida-fumio/>
+
+---
+
+## Pacific island region’s transition to renewable moving at snail’s pace
+
+date: 2024-07-26, from: Island Times
+
+<p>SYDNEY/MANILA (PACIFIC ISLAND TIMES) &#8212;While Pacific island nations have each set an ambitious goal to grow their renewable capacity by up to 100 percent, the region as a whole has been slow in advancing toward the collective target, according to a new policy paper published today by the Asian Development Bank’s Pacific Private Sector Development [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-island-regions-transition-to-renewable-moving-at-snails-pace/">Pacific island region&#8217;s transition to renewable moving at snail&#8217;s pace</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/pacific-island-regions-transition-to-renewable-moving-at-snails-pace/>
+
+---
+
+## Rethinking Strength and Vulnerability
+
+date: 2024-07-26, from: Island Times
+
+<figure><img width="225" height="224" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?w=225&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71287" data-permalink="https://islandtimes.org/becoming-whole-2/images-2-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1" data-orig-size="225,224" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (2)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/images-2.png?fit=225%2C224&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>True strength is a multifaceted concept that encompasses physical and emotional resilience. It combines perseverance, kindness, and bravery and is cultivated through the overcoming of adversity. I asked multiple individuals about the meaning of true strength and received diverse responses. Overall, the reactions had a positive connotation. However, some people&#8217;s understanding was influenced by their [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/rethinking-strength-and-vulnerability/">Rethinking Strength and Vulnerability</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/rethinking-strength-and-vulnerability/>
+
+---
+
+## French President Macron yet to sign off on Pacific leaders request to visit New Caledonia
+
+date: 2024-07-26, from: Island Times
+
+<p>NOUMEA (RNZ PACIFIC)&#8212;The French Ambassador to the Pacific says President Emmanuel Macron is yet to sign a letter from the Pacific Islands Forum (PIF) requesting authorisation for a high-level Pacific mission to New Caledonia. Véronique Roger-Lacan told RNZ Pacific with the Paris Olympics kicking off this week, it could be tough propping up security in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/french-president-macron-yet-to-sign-off-on-pacific-leaders-request-to-visit-new-caledonia/">French President Macron yet to sign off on Pacific leaders request to visit New Caledonia</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/french-president-macron-yet-to-sign-off-on-pacific-leaders-request-to-visit-new-caledonia/>
+
+---
+
+## President Heine urges bold action on gender equality at Pacific Women’s Conference
+
+date: 2024-07-26, from: Island Times
+
+<p>MAJURO (PACNEWS)&#8212;Marshall Islands President D. Hilda Heine has called on Pacific leaders, urging them to adopt intentional, innovative, and bold approaches to tackle the complex challenges of gender inequality in the region. Addressing the 15th Triennial Conference of Pacific Women in Majuro, President Heine emphasised the need for transformative action: “We must take risks, create [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/president-heine-urges-bold-action-on-gender-equality-at-pacific-womens-conference/">President Heine urges bold action on gender equality at Pacific Women&#8217;s Conference</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/president-heine-urges-bold-action-on-gender-equality-at-pacific-womens-conference/>
+
+---
+
+## Bangladeshi student protesters recount ‘brutal’ violence amid government crackdown
+
+date: 2024-07-26, from: Island Times
+
+<p>By Hannah Jose In short:&#160; (ABC-Australia) Almost 150 people, mostly demonstrators, have reportedly been killed in clashes with police and military. The Sheikh Hasina government is accused of using excessive force against student protesters, but it blames the opposition for fomenting the violence. What&#8217;s next? The government is expected to roll back its quota system that [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/bangladeshi-student-protesters-recount-brutal-violence-amid-government-crackdown/">Bangladeshi student protesters recount &#8216;brutal&#8217; violence amid government crackdown</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/bangladeshi-student-protesters-recount-brutal-violence-amid-government-crackdown/>
+
+---
+
+## US Secret Service director Kimberly Cheatle resigns after conceding agency failed to prevent assassination attempt on Donald Trump
+
+date: 2024-07-26, from: Island Times
+
+<p>By Lucy Sweeney in Washington DC In short:&#160; (ABC-Australia) Kimberly Cheatle has resigned as director of the Secret Service, after coming under scrutiny following the assassination attempt on Donald Trump. Democratic and Republican representatives called for Ms Cheatle to step aside following her testimony at a House oversight committee hearing on Tuesday. What&#8217;s next? A bipartisan task [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/us-secret-service-director-kimberly-cheatle-resigns-after-conceding-agency-failed-to-prevent-assassination-attempt-on-donald-trump/">US Secret Service director Kimberly Cheatle resigns after conceding agency failed to prevent assassination attempt on Donald Trump</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/us-secret-service-director-kimberly-cheatle-resigns-after-conceding-agency-failed-to-prevent-assassination-attempt-on-donald-trump/>
+
+---
+
+## 𝐎𝐥𝐲𝐦𝐩𝐢𝐜 𝐀𝐭𝐡𝐥𝐞𝐭𝐞𝐬 𝐜𝐚𝐥𝐥 𝐟𝐨𝐫 𝐩𝐞𝐚𝐜𝐞 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐜 𝐕𝐢𝐥𝐥𝐚𝐠𝐞
+
+date: 2024-07-26, from: Island Times
+
+<figure><img width="1024" height="668" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/oly.jpg?fit=1024%2C668&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/oly.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/oly.jpg?resize=300%2C196&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/oly.jpg?resize=1024%2C668&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/oly.jpg?resize=768%2C501&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/oly.jpg?resize=1200%2C783&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/oly.jpg?resize=400%2C261&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/oly.jpg?resize=706%2C461&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/oly.jpg?fit=1024%2C668&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71436" data-permalink="https://islandtimes.org/%f0%9d%90%8e%f0%9d%90%a5%f0%9d%90%b2%f0%9d%90%a6%f0%9d%90%a9%f0%9d%90%a2%f0%9d%90%9c-%f0%9d%90%80%f0%9d%90%ad%f0%9d%90%a1%f0%9d%90%a5%f0%9d%90%9e%f0%9d%90%ad%f0%9d%90%9e%f0%9d%90%ac-%f0%9d%90%9c/oly/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/oly.jpg?fit=1249%2C815&amp;ssl=1" data-orig-size="1249,815" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="oly" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/oly.jpg?fit=300%2C196&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/oly.jpg?fit=780%2C509&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>July 22 2024 &#8211; Hundreds of Olympic athletes representing the athletes of the territories of the 206 NOC’s and the IOC Refugee Olympic Team made a powerful call for peace. They gathered in a solemn moment wearing scarfs with the message “Give peace a chance” emphasizing the powerful role that sport can play to foster [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/%f0%9d%90%8e%f0%9d%90%a5%f0%9d%90%b2%f0%9d%90%a6%f0%9d%90%a9%f0%9d%90%a2%f0%9d%90%9c-%f0%9d%90%80%f0%9d%90%ad%f0%9d%90%a1%f0%9d%90%a5%f0%9d%90%9e%f0%9d%90%ad%f0%9d%90%9e%f0%9d%90%ac-%f0%9d%90%9c/">𝐎𝐥𝐲𝐦𝐩𝐢𝐜 𝐀𝐭𝐡𝐥𝐞𝐭𝐞𝐬 𝐜𝐚𝐥𝐥 𝐟𝐨𝐫 𝐩𝐞𝐚𝐜𝐞 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐜 𝐕𝐢𝐥𝐥𝐚𝐠𝐞</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/%f0%9d%90%8e%f0%9d%90%a5%f0%9d%90%b2%f0%9d%90%a6%f0%9d%90%a9%f0%9d%90%a2%f0%9d%90%9c-%f0%9d%90%80%f0%9d%90%ad%f0%9d%90%a1%f0%9d%90%a5%f0%9d%90%9e%f0%9d%90%ad%f0%9d%90%9e%f0%9d%90%ac-%f0%9d%90%9c/>
+
+---
+
+## IBA president demands Thomas Bach resignation
+
+date: 2024-07-26, from: Island Times
+
+<p>LAUSANNE (INSIDE THE GAMES) &#8212;In an open letter, IBA President Umar Kremlev demanded the immediate resignation of IOC President Thomas Bach and his team.&#160; Kremlev has accused Bach of transforming the IOC into a wealthy entity that neglects athletes and sports communities, failing to serve their needs. &#8220;Dear IOC members, on behalf of the global [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/iba-president-demands-thomas-bach-resignation/">IBA president demands Thomas Bach resignation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/iba-president-demands-thomas-bach-resignation/>
+
+---
+
+## Where do they stand on Guam's healthcare issues?
+
+date: 2024-07-26, from: Pacific Island Times
+
+San Nicolas, Cruz share their views on abortion, universal healthcare and gender politics at GMA debate By Mar-Vic Cagurangan... 
+
+<https://www.pacificislandtimes.com/post/where-do-they-stand-on-guam-s-healthcare-issues>
+
+---
+
+## Navigating nursing: From Kapiʻolani CC to UH Hilo’s Waiʻanae Cohort
+
+date: 2024-07-26, from: University of Hawaiʻi News
+
+<p>Three graduates of <abbr>UH</abbr> Hilo’s School of Nursing credit a <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> program for Native Hawaiian students.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/25/kapiolani-cc-to-uh-hilos-waianae-cohort/">Navigating nursing: From Kapiʻolani <abbr>CC</abbr> to <abbr>UH</abbr> Hilo’s Waiʻanae Cohort</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/25/kapiolani-cc-to-uh-hilos-waianae-cohort/>
+
+---
+
+## USP team meets with the International Science Council in Paris
+
+date: 2024-07-25, from: University of the South Pacific (Fiji)
+
+<p>As part of the Family Farming, Lifestyle and Health (FALAH) project and their secondment to...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-team-meets-with-the-international-science-council-in-paris/">USP team meets with the International Science Council in Paris</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-team-meets-with-the-international-science-council-in-paris/>
+
+---
+
+## Dribo returns to his islands
+
+date: 2024-07-25, from: Marshal Islands Journal
+
+<p>Journal 7/21-28/1978 P2 Marshalls buys outA tough campaign waged over the question of accepting or rejecting the drafted Constitution of the Federated States of Micronesia resulted in a clear victory for FSM opponents in the district. Unofficial results as of July 23 gave the Jab (“no”) voters a 61.5 percent to 38.5 percent margin of [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/dribo-returns-to-his-islands/">Dribo returns to his islands</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/dribo-returns-to-his-islands/>
+
+---
+
+## DPL meets with marine sports vendors
+
+date: 2024-07-25, updated: 2024-07-25, from: Marianas Variety
+
+THE Department of Public Lands met with marine sports vendors on Thursday, July 25 regarding proposed changes to the commercial rules and regulations pertaining to Managaha. 
+
+<https://www.mvariety.com/news/local/dpl-meets-with-marine-sports-vendors/article_eedecfc2-4a46-11ef-aba9-af2265323d03.html>
+
+---
+
+## 2024 Summertech program concludes
+
+date: 2024-07-25, updated: 2024-07-25, from: Marianas Variety
+
+SIXTY-TWO Public School System students completed the 2024 Summertech program with the Northern Marianas Technical Institute. 
+
+<https://www.mvariety.com/news/local/2024-summertech-program-concludes/article_3b3c3144-4a5a-11ef-9d02-635807e4922a.html>
+
+---
+
+## Chinese Olympian to conduct two-day weightlifting seminar
+
+date: 2024-07-25, updated: 2024-07-25, from: Marianas Variety
+
+A WEIGHTLIFTING seminar will be conducted by former Chinese Olympian and national coach Jianping Ma on Nov. 30 and Dec. 1. 
+
+<https://www.mvariety.com/sports/localsports/chinese-olympian-to-conduct-two-day-weightlifting-seminar/article_6711c40a-4a91-11ef-8f47-6bf37725035c.html>
+
+---
+
+## Veteran riders highlight round 6 of MRA Points Race Series
+
+date: 2024-07-25, updated: 2024-07-25, from: Marianas Variety
+
+VETERAN riders gave spectators a day of high-octane races in round 6 of the Marianas Racing Association “Moto IV” 2024 Points Race Series at CowTown Raceway Park on Sunday. 
+
+<https://www.mvariety.com/sports/localsports/veteran-riders-highlight-round-6-of-mra-points-race-series/article_121fbd2a-4a92-11ef-ac4d-3f2cc6e80625.html>
+
+---
+
+## Guam outlasts Mongolia, 2-1
+
+date: 2024-07-25, updated: 2024-07-25, from: Marianas Variety
+
+THE Guam Women’s U21 National Team bagged their first win in the NMIFA Women’s U21 Three Nations Cup by outscoring the Mongolian Women’s National Team, 2-1, at the NMI Soccer Training Center in Koblerville on Wednesday. 
+
+<https://www.mvariety.com/sports/localsports/guam-outlasts-mongolia-2-1/article_6ffd21c6-4a92-11ef-a781-17670d3df22e.html>
+
+---
+
+## MLB roundup: 20-run barrage lifts Rockies past Red Sox
+
+date: 2024-07-25, updated: 2024-07-25, from: Marianas Variety
+
+(Reuters) — Brenton Doyle hit his first career grand slam while Ezequiel Tovar, Jacob Stallings and Ryan McMahon also homered as the Colorado Rockies matched their single-game franchise run record in a 20-7 rout over the visiting Boston Red Sox on Wednesday in Denver. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-20-run-barrage-lifts-rockies-past-red-sox/article_1ab5eec0-4a90-11ef-b6ed-0b247250e52d.html>
+
+---
+
+## Variations ǀ Faith-based tourism policy
+
+date: 2024-07-25, updated: 2024-07-25, from: Marianas Variety
+
+FOR those wondering why the local economy is still in the dumps and, consequently, why the CNMI government is not collecting enough revenue, I suggest that you watch, in its three-hour entirety, the recent Senate Fiscal Affairs Committee hearing on MVA’s budget. (https://rb.gy/v6r0j1) 
+
+<https://www.mvariety.com/views/columnists/variations-faith-based-tourism-policy/article_ed0a9124-4a94-11ef-a62d-abb8195c89fa.html>
+
+---
+
+## Governing is not like throwing dice
+
+date: 2024-07-25, updated: 2024-07-25, from: Marianas Variety
+
+Consequences 
+
+<https://www.mvariety.com/views/editorials/governing-is-not-like-throwing-dice/article_c1a93ee6-4a93-11ef-bfbc-672a9a6a9543.html>
+
+---
+
+## Picnic table with legs: A serious concern
+
+date: 2024-07-25, updated: 2024-07-25, from: Marianas Variety
+
+(This is an attempt at satire to bring some levity to an otherwise serious concern of theft.) 
+
+<https://www.mvariety.com/views/letters_to_editor/picnic-table-with-legs-a-serious-concern/article_9a68b6d4-4a95-11ef-afc3-ef2aede05630.html>
+
+---
+
+## Floods, flights canceled as Typhoon Gaemi dumps heavy rain on Manila
+
+date: 2024-07-25, updated: 2024-07-25, from: Marianas Variety
+
+MANILA (Reuters) — Heavy rain from Typhoon Gaemi has flooded the Philippine capital Manila and nearby cities, forcing authorities to shut schools, offices and cancel flights on Wednesday and declare a state of calamity in a region that is home to 13 million people. 
+
+<https://www.mvariety.com/news/regional_world/floods-flights-canceled-as-typhoon-gaemi-dumps-heavy-rain-on-manila/article_0eca3538-4a8d-11ef-b2b3-b3358a18bf4c.html>
+
+---
+
+## Star Marianas Air threatens to terminate air service in the CNMI 
+
+date: 2024-07-25, from: Pacific Island Times
+
+By Ron Rocky Coloma Star Marianas Air, a commuter airline that provides passenger and air cargo service in the Northern Marianas, has... 
+
+<https://www.pacificislandtimes.com/post/star-marianas-air-threatens-to-terminate-air-service-in-the-cnmi>
+
+---
+
+## Basketball clinic draws big group
+
+date: 2024-07-25, from: Marshal Islands Journal
+
+<p>Basketball continues to be the sport of choice among Marshallese regardless of age as evident by the large turnout in the two-day Marshall Islands Basketball Federation-sponsored basketball clinic over the weekend. The mini-clinic catered to children ages 8 to 14 where basketball fundamentals were taught by members of the national basketball men’s and women’s teams. [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/basketball-clinic-draws-big-group/">Basketball clinic draws big group</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/basketball-clinic-draws-big-group/>
 
 ---
 
