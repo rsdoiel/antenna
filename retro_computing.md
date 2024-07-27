@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.30
-updated: 2024-07-26 07:32:30
+updated: 2024-07-27 10:18:05
 ---
 
 # retro computing 2024.30
 
-(date: 2024-07-26 07:32:30)
+(date: 2024-07-27 10:18:05)
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2024-07-26, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 11: Winter in Patagonia 
+
+<https://www.filfre.net/2024/07/this-week-on-the-analog-antiquarian/>
+
+---
+
+## July 2024 News Summary
+
+date: 2024-07-26, from: Icon Bar, RISC OS News
+
+Some things we noticed this month. What did you see? 
+
+<http://www.iconbar.com/comments/rss/news2078.html>
 
 ---
 
@@ -33,7 +53,7 @@ date: 2024-07-24, from: Linux Magazine
 
 date: 2024-07-24, from: Hans Otten's Pascal for small machines
 
-I found an archive with the source of the early Lisa Pascal by Silicon Valley Software. The archive contains images of Lisa disks in dc42 format. In these disk images are the sources (and more) of the Silicon Valley Software Pascal compiler for the Lisa. Andy McFadden (of Ciderpres fame) analyzed this and found out [&#8230;] 
+I found an archive with the source of the early Lisa Pascal by Silicon Valley Software. The archive contains images of Lisa disks in dc42 format. In these disk images are the sources (and more) of the Silicon Valley Software Pascal compiler for the Lisa. The archive, together with sources of the Lisa Operating system [&#8230;] 
 
 <http://pascal.hansotten.com/2024/07/24/apple-lisa-pascal-compiler-sources/>
 

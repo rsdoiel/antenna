@@ -1,11 +1,205 @@
 ---
 title: going electric 2024.30
-updated: 2024-07-26 07:32:31
+updated: 2024-07-27 10:18:06
 ---
 
 # going electric 2024.30
 
-(date: 2024-07-26 07:32:31)
+(date: 2024-07-27 10:18:06)
+
+---
+
+## The US just canceled the second Gulf of Mexico offshore wind lease sale
+
+date: 2024-07-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/08/RWE-wind-turbine.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The US Bureau of Ocean Energy Management (BOEM) has canceled the second offshore wind lease sale in the Gulf of Mexico due to “a lack of competitive interest.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,offshore-wind-power,texas" data-layer-viewtype="unknown" data-post-id="373520" href="https://electrek.co/2024/07/26/us-just-canceled-second-gulf-of-mexico-offshore-wind-lease-sale/#more-373520" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/26/us-just-canceled-second-gulf-of-mexico-offshore-wind-lease-sale/>
+
+---
+
+## Ford compares new low-cost EV platform to Rivian and Tesla, says rivals will turn to China
+
+date: 2024-07-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Ford-monster-vehicles.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford is betting on smaller electric cars as the future. Its “Skunkworks ” team is not so small, and now that the cat is out of the bag, we are learning more about <a href="https://electrek.co/guides/ford/">Ford’s</a> new affordable platform. Ford CEO Jim Farley compared its new low-cost EV platform to Rivian and Tesla. However, Farley suggested Ford’s could be even better and cheaper.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="373482" href="https://electrek.co/2024/07/26/ford-compares-new-low-cost-ev-platform-rivian-tesla/#more-373482" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/26/ford-compares-new-low-cost-ev-platform-rivian-tesla/>
+
+---
+
+## Hate Touchscreens? See How This EV Lets You Add Buttons
+
+date: 2024-07-26, from: Inside EVs News
+
+Every car with a touchscreen should work like this. Oh, and its accessory game is worthy of Apple itself. 
+
+<https://insideevs.com/news/728089/xiaomi-su7-button-accessories/>
+
+---
+
+## This Texas solar panel recycling plant is powered by secondhand panels
+
+date: 2024-07-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/11/SOLARCYCLE.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Solar panel recycling company SolarCycle is using secondhand solar panels to power its panel recycling plant in Texas.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,texas" data-layer-viewtype="unknown" data-post-id="373499" href="https://electrek.co/2024/07/26/this-texas-solar-panel-recycling-plant-is-powered-by-secondhand-panels/#more-373499" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/26/this-texas-solar-panel-recycling-plant-is-powered-by-secondhand-panels/>
+
+---
+
+## These Large Electric SUVs Have The Most Range
+
+date: 2024-07-26, from: Inside EVs News
+
+They can haul the entire family and still go the distance. 
+
+<https://insideevs.com/news/728055/electric-suvs-most-range-highest/>
+
+---
+
+## Podcast: Tesla, Ford, GM earnings, Rivian R2, and more
+
+date: 2024-07-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla, Ford, and GM earnings, Rivian R2, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Electrek_7-27-24.mp3"></audio></figure>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="373458" href="https://electrek.co/2024/07/26/podcast-tesla-ford-gm-earnings-rivian-r2-and-more/#more-373458" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/26/podcast-tesla-ford-gm-earnings-rivian-r2-and-more/>
+
+---
+
+## Weird: Jaguar I-Pace Charges Faster If You Put The Hazard Lights On
+
+date: 2024-07-26, from: Inside EVs News
+
+It sounds like a weird EV myth, but a new video shows that, for at least some people, it's true.  
+
+<https://insideevs.com/news/728080/jaguar-i-pace-charge-with-hazards/>
+
+---
+
+## Rivian tops the most satisfying US auto brands, but it doesn’t count
+
+date: 2024-07-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Rivian-leasing-states-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>California-based EV maker <a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) was the most satisfying US auto brand, according to the 2024 JD Power US Automotive Performance, Execution, and Layout (APEAL) study. Although it had the highest rating, since Rivian didn’t meet the criteria, it was not officially ranked. Here’s why buyers love up-and-coming EV brand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="373446" href="https://electrek.co/2024/07/26/rivian-tops-most-satisfying-us-auto-brands/#more-373446" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/26/rivian-tops-most-satisfying-us-auto-brands/>
+
+---
+
+## Save $700 on Worx + Aventon Power Share e-bike, Jackery Explorer 600 Plus low, 1-day Worx TRIVAC discount, more
+
+date: 2024-07-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Worx-Aventon-e-bike-powered-by-Power-Share-4-also-new.webp?w=1600" /></div><p>Closing out this week’s Green Deals is a surprise return of the joint <a href="https://9to5toys.com/2024/07/26/save-700-on-the-joint-worx-aventon-power-share-e-bike-at-new-1000-low/">Worx and Aventon Power Share e-bike</a> that is now $700 off at a <a href="https://9to5toys.com/2024/07/26/save-700-on-the-joint-worx-aventon-power-share-e-bike-at-new-1000-low/">new $1,000 low</a>. Coming in right alongside it is the <a href="https://9to5toys.com/2024/07/25/save-100-for-your-next-trip-with-jackerys-632wh-explorer-600-plus-portable-power-station-at-399-low/">Jackery Explorer 600 Plus Portable Power Station</a> that has returned to its <a href="https://9to5toys.com/2024/07/25/save-100-for-your-next-trip-with-jackerys-632wh-explorer-600-plus-portable-power-station-at-399-low/">$399 low</a> for the first time at Amazon, as well as a 1-day Best Buy discount on <a href="https://9to5toys.com/2024/07/26/blow-it-collect-it-mulch-it-and-save-time-with-worxs-12a-3-in-1-trivac-at-65-for-today-only-reg-100/">Worx’s handy 3-in-1 12A TRIVAC corded blower/vacuum/mulcher</a> that is down at <a href="https://9to5toys.com/2024/07/26/blow-it-collect-it-mulch-it-and-save-time-with-worxs-12a-3-in-1-trivac-at-65-for-today-only-reg-100/">$65</a>. Plus, all the other hangover Green Deals that are still active after during these post-Prime Day sales. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="373454" href="https://electrek.co/2024/07/26/save-700-on-worx-aventon-power-share-e-bike-jackery-explorer-600-plus-low-1-day-worx-trivac-discount-more/#more-373454" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/26/save-700-on-worx-aventon-power-share-e-bike-jackery-explorer-600-plus-low-1-day-worx-trivac-discount-more/>
+
+---
+
+## China Is Paying People Extra To Dump Their Gas Cars
+
+date: 2024-07-26, from: Inside EVs News
+
+It's a good time to be an EV shopper in China. Yes, even more than usual. 
+
+<https://insideevs.com/news/727937/china-gas-ev-subsidies/>
+
+---
+
+## The 2025 Audi Q6 E-Tron Is Now The Longest-Range Audi EV Ever
+
+date: 2024-07-26, from: Inside EVs News
+
+With up to 307 miles of range, Audi's newest EV is indeed "back in the game." 
+
+<https://insideevs.com/news/727981/2025-audi-q6-etron-range/>
+
+---
+
+## EV newcomer Xiaomi completes speedy ramp up and expects to hit 100k production target early
+
+date: 2024-07-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Xiaomi-SU7-colors.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The production momentum continues for <a href="https://electrek.co/guides/xiaomi-automobile">Xiaomi Automobile</a>, the new EV arm of Chinese smartphone manufacturer Xiaomi Inc. Today, the automaker shared it has completed a recently announced production ramp up of its flagship model and is on track to hit 100,000 builds this year… two months ahead of schedule.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,xiaomi,xiaomi-automobile,xiaomi-su7" data-layer-viewtype="unknown" data-post-id="373439" href="https://electrek.co/2024/07/26/ev-xiaomi-completes-ramp-up-expects-to-hit-100k-production-target-early/#more-373439" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/26/ev-xiaomi-completes-ramp-up-expects-to-hit-100k-production-target-early/>
+
+---
+
+## Toyota plots new EV battery plant to fend off incoming BYD, low-cost Chinese EVs
+
+date: 2024-07-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Toyota-new-EV-battery-plant-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota is planning to build a new EV battery plant on Japan’s “Silicon Island” to keep pace with BYD and other incoming Chinese electric car makers. The factory will strengthen <a href="https://electrek.co/guides/toyota/">Toyota’s</a> EV supply chain while supplying batteries for its luxury Lexus brand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lexus,toyota" data-layer-viewtype="unknown" data-post-id="373425" href="https://electrek.co/2024/07/26/toyota-plots-new-ev-battery-plant-fend-off-surging-byd/#more-373425" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/26/toyota-plots-new-ev-battery-plant-fend-off-surging-byd/>
+
+---
+
+## Elon Musk signals reaching limit of Tesla’s HW3 despite self-driving promise
+
+date: 2024-07-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Hardware-4-self-driving-computer.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk is signaling that Tesla is close to reaching its limit with its HW3 onboard self-driving computer despite having yet to deliver on its self-driving promise.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="373422" href="https://electrek.co/2024/07/26/elon-musk-signals-reaching-limit-of-teslas-hw3-despite-self-driving-promise/#more-373422" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/26/elon-musk-signals-reaching-limit-of-teslas-hw3-despite-self-driving-promise/>
+
+---
+
+## Here’s How Ford Plans To Outpace Chinese Rivals
+
+date: 2024-07-26, from: Inside EVs News
+
+Also in today’s roundup: impact of U.S. market on global automakers and Hyundai crushing it in the U.S. 
+
+<https://insideevs.com/news/728056/how-ford-plans-to-outpace-chinese-rivals/>
 
 ---
 
@@ -62,6 +256,10 @@ date: 2024-07-26, from: Electrek Feed
 
 
 <p><em>Today’s episode is sponsored by CYCROWN, an electric cycling specialist focused on growing a community of e-bike enthusiasts around the globe. For a limited time, take advantage of CYCROWN Online Store Prime Day and enjoy an additional 5% Off all items. This offer can also be combined with an additional $150 discount for every $1,799 spent. </em><strong><em>Learn more at <a href="http://cycrown.com/" target="_blank" rel="noreferrer noopener">cycrown.com</a></em></strong></p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Wheele_7-26-24.mp3"></audio></figure>
 
 
 

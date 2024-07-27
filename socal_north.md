@@ -1,11 +1,88 @@
 ---
 title: socal north 2024.30
-updated: 2024-07-26 07:32:22
+updated: 2024-07-27 10:17:58
 ---
 
 # socal north 2024.30
 
-(date: 2024-07-26 07:32:22)
+(date: 2024-07-27 10:17:58)
+
+---
+
+## Movie review: ‘Deadpool & Wolverine’ thoughtfully honors genre’s beginnings, iconic characters
+
+date: 2024-07-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+“Deadpool &#38; Wolverine” is honoring the days of Marvel’s future past.
+Released on Friday, “Deadpool &#38; Wolverine,” directed by Shawn Levy, is not only a great Deadpool movie, but the “Spider-Man: No Way Home” of Fox Studios’ Marvel Universe. 
+
+<https://dailybruin.com/2024/07/26/movie-review-deadpool-s-beginnings-iconic-characters/>
+
+---
+
+## Skid Row cooling stations inadequate to protect unhoused people from heat illness
+
+date: 2024-07-26, updated: 2024-07-26, from: The LAist
+
+Unsheltered people in Skid Row lack sufficient access to water and shade, and advocates say they need dozens more climate stations to address the need. 
+
+<https://laist.com/news/housing-homelessness/skid-row-cooling-stations-inadequate-to-protect-unhoused-people-from-heat-illness>
+
+---
+
+## In The Field: Tracking Rare Plants in the El Dorado National Forest
+
+date: 2024-07-26, from: California Native Plants Society
+
+<p>CNPS volunteers and staff collected data and seeds for rare plants regrowing after the Caldor and Mosquito fires, highlighting the importance of tracking these species for conservation and ecosystem recovery.</p>
+<p>The post <a href="https://www.cnps.org/in-the-field/in-the-field-tracking-rare-plants-in-the-el-dorado-national-forest-39327">In The Field: Tracking Rare Plants in the El Dorado National Forest</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/in-the-field/in-the-field-tracking-rare-plants-in-the-el-dorado-national-forest-39327>
+
+---
+
+## This high school has produced Olympians for every Summer Games since 1952
+
+date: 2024-07-26, updated: 2024-07-26, from: The LAist
+
+Water polo player Max Irving and track athlete Rachel Glenn are among the more than 30 Olympians that have graduated from Wilson High School in Long Beach. 
+
+<https://laist.com/news/education/long-beach-wilson-high-school-summer-olympics-alumni>
+
+---
+
+## Grables depart from UCLA gymnastics, Kyle off to Iowa
+
+date: 2024-07-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA gymnastics might look unrecognizable in 2025.
+For the second time in three years, UCLA’s coaching staff will experience significant turnover.
+Assistant coaches Kyle and Autumn Grable have departed from the program, a UCLA athletics spokesperson confirmed to the Daily Bruin. 
+
+<https://dailybruin.com/2024/07/26/grables-depart-from-ucla-gymnastics-kyle-off-to-iowa/>
+
+---
+
+## UCLA’s Olympic Legacy and a Preview of Paris
+
+date: 2024-07-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/07/26/uclas-olympic-legacy-and-a-preview-of-paris/>
+
+---
+
+## Friday Links: July 26, 2024
+
+date: 2024-07-26, from: California Native Plants Society
+
+<p>Stories about wild native plant gardens; plants that might grow on Mars; condor babies; creating equity in science &#038; conservation; and more.</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-july-26-2024-39301">Friday Links: July 26, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-july-26-2024-39301>
 
 ---
 
@@ -55,8 +132,8 @@ I don’t remember much about my teacher, Ms. Vidito, except that she was a frai
 
 date: 2024-07-26, from: The Daily Bruin (UCLA Student Newspaper)
 
-Students and employees across the UC expressed dissatisfaction with University administration during the UC Board of Regents meeting last week.
-Speakers during the July 17 public comment session of the regents meeting voiced concerns about what they deemed to be a misallocation of funds and employee underpayment, as well as the University&#8217;s response to the Palestine solidarity encampment at UCLA. 
+<em>This post was updated July 26 at 7:49 p.m.</em>
+Students and employees across the UC expressed dissatisfaction with University administration during the UC Board of Regents meeting last week. 
 
 <https://dailybruin.com/2024/07/25/speakers-criticize-protest-response-inadequate-raises-at-july-uc-regents-meeting/>
 

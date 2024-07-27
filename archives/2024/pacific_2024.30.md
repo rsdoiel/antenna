@@ -1,11 +1,33 @@
 ---
 title: pacific 2024.30
-updated: 2024-07-26 07:32:23
+updated: 2024-07-27 10:17:59
 ---
 
 # pacific 2024.30
 
-(date: 2024-07-26 07:32:23)
+(date: 2024-07-27 10:17:59)
+
+---
+
+## Faster devices, smarter phones? UH project aims to boost computing efficiency
+
+date: 2024-07-26, from: University of Hawaiʻi News
+
+<p>The project offers paid research opportunities for college students, fostering the next generation of computer scientists.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/26/faster-devices-smarter-phones-nsf-grant/">Faster devices, smarter phones? <abbr>UH</abbr> project aims to boost computing efficiency</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/26/faster-devices-smarter-phones-nsf-grant/>
+
+---
+
+## UH Sea Grant, partners awarded $68.5M to advance climate resilience
+
+date: 2024-07-26, from: University of Hawaiʻi News
+
+<p>The project will build long-term climate resilience by restoring forest, watershed, coastal and marine ecosystems and through improved co-management and community governance of resources.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/26/uh-sea-grant-partners-advance-climate-resilience/"><abbr>UH</abbr> Sea Grant, partners awarded $68.5M to advance climate resilience</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/26/uh-sea-grant-partners-advance-climate-resilience/>
 
 ---
 
@@ -297,6 +319,18 @@ date: 2024-07-26, from: Hawaii Tribune Harold
 
 ---
 
+## It’s history: Observation tower removed from bluff in HVNP
+
+date: 2024-07-26, from: Hawaii Tribune Harold
+
+
+				<p>The landscape of Uekahuna bluff in Hawaii Volcanoes National Park has forever changed with the demolition today of the Hawaiian Volcano Observatory Tower.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/26/hawaii-news/its-history-observation-tower-removed-from-bluff-in-hvnp/>
+
+---
+
 ## CNMI launches new campaign targeting Japanese millennial and Gen Z travelers
 
 date: 2024-07-26, from: Pacific Island Times
@@ -307,7 +341,7 @@ By Pacific Island Times News Staff Saipan– The Marianas Visitors Authority ha
 
 ---
 
-## GPA seeks to speed up Guam’s power project, eyes $50M cut in contract costs
+## GPA seeks to speed up Guam’s power project, eyes $40M cut in contract costs
 
 date: 2024-07-26, from: Pacific Island Times
 

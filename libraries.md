@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.30
-updated: 2024-07-26 07:32:28
+updated: 2024-07-27 10:18:04
 ---
 
 # libraries 2024.30
 
-(date: 2024-07-26 07:32:28)
+(date: 2024-07-27 10:18:04)
 
 ---
 
@@ -102,7 +102,7 @@ Kiani Shahvandi, Mostafa; Adhikari, Surendra; Dumberry, Mathieu; Mishra, Siddhar
 
 date: 2024-07-22, from: Association of Research Libraries News
 
-<p>Last Updated on July 24, 2024, 3:13 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 23 &#124; Wednesday, July 24 &#124; Thursday,...</p>
+<p>Last Updated on July 26, 2024, 12:50 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 23 &#124; Wednesday, July 24 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-22-25/">Day in Review (July 22–25)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

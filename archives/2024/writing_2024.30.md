@@ -1,11 +1,102 @@
 ---
 title: writing 2024.30
-updated: 2024-07-26 07:32:27
+updated: 2024-07-27 10:18:03
 ---
 
 # writing 2024.30
 
-(date: 2024-07-26 07:32:27)
+(date: 2024-07-27 10:18:03)
+
+---
+
+## 🤣🥊 #210 - Punches and Punchlines
+
+date: 2024-07-26, from: Interesting, a blog on writing
+
+The hard-hitting humor of Action Comedy. 
+
+<https://inneresting.substack.com/p/210-punches-and-punchlines>
+
+---
+
+## 2024 Tähtifantasia Award Winner
+
+date: 2024-07-26, from: Locus Magazine
+
+<p><strong>Kertomukset</strong>, Jorge Luis Borges, translated by Anu Partanen (Teos) is the winner of the 2024 Tähtifantasia Award, presented by the Helsinki Science Fiction Society for the best Finnish fantasy book published in the previous year. Other nominees were</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Babel</strong>, R.F. Kuang, translated by Helene Bützow (Teos)</li>
+<li><strong>Kellopelisydän</strong>, Vehka Kurjenmiekka (Aula &#38; Co)</li>
+<li><strong>Tytär hämärän, piika pimeän</strong>, J.S. Meresmaa (Myllylahti)</li>
+<li><strong>Soturi sumussa</strong>, Gene Wolfe, translated by </li></ul></div> <a href="https://locusmag.com/2024/07/2024-tahtifantasia-award-winner/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/07/2024-tahtifantasia-award-winner/>
+
+---
+
+## 2024 SF&F Hall of Fame Inductees
+
+date: 2024-07-26, from: Locus Magazine
+
+<p>The Museum of Pop Culture (MoPOP) announced the 2024 inductees to the Science Fiction and Fantasy Hall of Fame: Nicola Griffith and Nnedi Okorafor were honored as Creators. Inductees are added to the SF&#38;F Hall of Fame display in the museum.</p>
+<p>The Science Fiction Hall of Fame was founded in 1996 and then relocated from the Gunn Center for the Study of Science Fiction and Fantasy at the University of   <a href="https://locusmag.com/2024/07/2024-sff-hall-of-fame-inductees/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/2024-sff-hall-of-fame-inductees/>
+
+---
+
+## 2024 Glass Bell Award Shortlist
+
+date: 2024-07-26, from: Locus Magazine
+
+<p>The shortlist for the seventh annual Goldsboro Books Glass Bell Award has been announced. Authors and titles of genre interest include:</p>
+<div class="nobullets">
+<ul>
+<li>
+<p class="p1"><strong>Clytemnestra</strong>, Costanza Casati (Michael Joseph)</p>
+</li>
+<li>
+<p class="p1"><strong>The Square of Sevens</strong>, Laura Shepherd-Robinson (Mantle)</p>
+</li>
+</ul>
+</div>
+<p>The winning title will be announced on September 26, 2024, and the author will receive a handmade glass bell and a cash prize of £2,000. For more information, including the full shortlist, see the Goldsboro  <a href="https://locusmag.com/2024/07/2024-glass-bell-award-shortlist/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/2024-glass-bell-award-shortlist/>
+
+---
+
+## Featured Friday: Emmy Nominees
+
+date: 2024-07-26, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at the series nominated across all categories at the upcoming 76th Emmy Awards. (In some cases, we&#8217;re using the pilot, so you don&#8217;t worry about spoilers for later seasons.) Our collection includes: [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-emmy-nominees">Featured Friday: Emmy Nominees</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/featured-friday-emmy-nominees>
+
+---
+
+## Check out the New Books Video for 7/23/24!
+
+date: 2024-07-26, from: Locus Magazine
+
+<p>If you have a few minutes, we&#8217;ve got the top genre books hitting shelves, IRL and digital, this week! Help us keep doing this weekly round up by liking and subscribing!</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2024/07/check-out-the-new-books-video-for-7-23-24/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/07/check-out-the-new-books-video-for-7-23-24/>
+
+---
+
+## Liz Bourke Reviews The Sky on Fire by Jenn Lyons
+
+date: 2024-07-26, from: Locus Magazine
+
+<p><strong>The Sky on Fire</strong>, Jenn Lyons (Tor 978-1-250-34200-3, $29.99, 448pp, hc) July 2024. Cover by Michael Rogers.</p>
+<p>Jenn Lyons made her debut with <strong>The Ruin of Kings</strong>, first of a five-book series (“the Chorus of Dragons”) that took epic fantasy, shook it, subverted it, and played entertaining games with the pieces that fell out. <strong>The Sky on Fire </strong>is not at all related to that series, except that  <a href="https://locusmag.com/2024/07/liz-bourke-reviews-the-sky-on-fire-by-jenn-lyons/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/liz-bourke-reviews-the-sky-on-fire-by-jenn-lyons/>
 
 ---
 

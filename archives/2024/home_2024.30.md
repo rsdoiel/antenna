@@ -1,11 +1,35 @@
 ---
 title: home 2024.30
-updated: 2024-07-26 07:32:28
+updated: 2024-07-27 10:18:04
 ---
 
 # home 2024.30
 
-(date: 2024-07-26 07:32:28)
+(date: 2024-07-27 10:18:04)
+
+---
+
+## In The Field: Tracking Rare Plants in the El Dorado National Forest
+
+date: 2024-07-26, from: California Native Plants Society
+
+<p>CNPS volunteers and staff collected data and seeds for rare plants regrowing after the Caldor and Mosquito fires, highlighting the importance of tracking these species for conservation and ecosystem recovery.</p>
+<p>The post <a href="https://www.cnps.org/in-the-field/in-the-field-tracking-rare-plants-in-the-el-dorado-national-forest-39327">In The Field: Tracking Rare Plants in the El Dorado National Forest</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/in-the-field/in-the-field-tracking-rare-plants-in-the-el-dorado-national-forest-39327>
+
+---
+
+## Friday Links: July 26, 2024
+
+date: 2024-07-26, from: California Native Plants Society
+
+<p>Stories about wild native plant gardens; plants that might grow on Mars; condor babies; creating equity in science &#038; conservation; and more.</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-july-26-2024-39301">Friday Links: July 26, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-july-26-2024-39301>
 
 ---
 

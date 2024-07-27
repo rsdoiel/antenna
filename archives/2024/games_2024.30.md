@@ -1,11 +1,91 @@
 ---
 title: games 2024.30
-updated: 2024-07-26 07:32:27
+updated: 2024-07-27 10:18:03
 ---
 
 # games 2024.30
 
-(date: 2024-07-26 07:32:27)
+(date: 2024-07-27 10:18:03)
+
+---
+
+## Prime Video’s Like a Dragon show trailer premieres at SDCC
+
+date: 2024-07-26, updated: 2024-07-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/sdcc/24204487/like-dragon-show-trailer-yakuza-amazon-prime-video>
+
+---
+
+## James Gunn’s DCU kickoff Creature Commandos snuck a trailer into SDCC
+
+date: 2024-07-26, updated: 2024-07-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/sdcc/24207268/creature-commandos-first-look-trailer-2024>
+
+---
+
+## Bad Boys: Ride or Die, Ghostbusters: Frozen Empire on Netflix, and every movie new to streaming this week
+
+date: 2024-07-26, updated: 2024-07-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/7/26/24199709/new-movies-bad-boys-ride-or-die-netflix-ghostbusters-frozen-empire>
+
+---
+
+## Mortal Kombat 1 year 2 DLC adds Scream’s Ghostface, Noob Saibot, and Animalities
+
+date: 2024-07-26, updated: 2024-07-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/sdcc/24198902/mk1-kombat-pack-2-dlc-characters-khaos-reigns-ed-boon>
+
+---
+
+## Legend of Vox Machina’s first season 3 look at SDCC is good chaotic fun
+
+date: 2024-07-26, updated: 2024-07-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/sdcc/2024/7/26/24204659/legend-vox-machina-season-3-new-clip>
+
+---
+
+## The long-awaited anime adaptation of Junji Ito’s Uzumaki is finally almost here
+
+date: 2024-07-26, updated: 2024-07-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/anime/2024/7/26/24207176/uzumaki-anime-premiere-date-trailer-september>
+
+---
+
+## Doctor Who teases a new spinoff series and Christmas special at SDCC 2024
+
+date: 2024-07-26, updated: 2024-07-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/sdcc/24206340/doctor-who-christmas-special-war-between-land-and-sea>
+
+---
+
+## Viva El Presidente! Grab the Tropico collection and more for $15 from Humble Bundle
+
+date: 2024-07-26, updated: 2024-07-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/2024/7/26/24206378/tropico-sale-railway-empire-humble-bundle-kalypso>
 
 ---
 

@@ -1,11 +1,171 @@
 ---
 title: motorcycles 2024.30
-updated: 2024-07-26 07:32:29
+updated: 2024-07-27 10:18:05
 ---
 
 # motorcycles 2024.30
 
-(date: 2024-07-26 07:32:29)
+(date: 2024-07-27 10:18:05)
+
+---
+
+## 2025 Honda CBR1000RR-R Fireblade SP
+
+date: 2024-07-26, from: Cycle World News
+
+Honda’s inline-four-powered flagship sportbike has been optimized across all aspects for improved engine, chassis, and braking performance. 
+
+<https://www.cycleworld.com/honda/cbr1000rr-r-fireblade-sp-2/>
+
+---
+
+## 2024 Harley-Davidson Road Glide Limited
+
+date: 2024-07-26, from: Cycle World News
+
+While the 2024 Road Glide Limited didn’t receive the same updates as its bagger sibling, it still has lots to offer. 
+
+<https://www.cycleworld.com/harley-davidson/road-glide-limited/>
+
+---
+
+## 2024 Harley-Davidson Road Glide Limited Gallery
+
+date: 2024-07-26, from: Cycle World News
+
+Photos from Cycle World's 2024 Harley-Davidson Road Glide Limited Buyer's Guide article. 
+
+<https://www.cycleworld.com/gallery/2024-harley-davidson-road-glide-limited-photos/>
+
+---
+
+## 2024 Honda CBR650R
+
+date: 2024-07-26, from: Cycle World News
+
+Honda’s inline-four-powered CBR650R returns to the lineup with the new E-Clutch technology. 
+
+<https://www.cycleworld.com/honda/cbr650r/>
+
+---
+
+## 2024 Kawasaki KLR650
+
+date: 2024-07-26, from: Cycle World News
+
+Kawasaki’s KLR650 is a tried-and-true adventure bike platform with different variants suitable for all riders. 
+
+<https://www.cycleworld.com/kawasaki/klr650/>
+
+---
+
+## 2024 MV Agusta Enduro Veloce First Ride Gallery
+
+date: 2024-07-26, from: Cycle World News
+
+Photos from Cycle World's 2024 MV Agusta Enduro Veloce First Ride article. 
+
+<https://www.cycleworld.com/gallery/2024-mv-agusta-enduro-veloce-first-ride-photos/>
+
+---
+
+## 2025 Indian Motorcycle Scout First Ride Review Gallery
+
+date: 2024-07-26, from: Cycle World News
+
+Photos from Cycle World's 2025 Indian Motorcycle Scout First Ride Review article. 
+
+<https://www.cycleworld.com/gallery/2025-indian-motorcycle-scout-first-ride-review-photos/>
+
+---
+
+## Ducati Panigale V2 Superquadro Final Edition First Look Gallery
+
+date: 2024-07-26, from: Cycle World News
+
+Photos from Cycle World's Ducati Panigale V2 Superquadro Final Edition First Look article. 
+
+<https://www.cycleworld.com/gallery/ducati-panigale-v2-superquadro-final-edition-first-look-photos/>
+
+---
+
+## MV Agusta Turismo Veloce Lusso SCS Review Gallery
+
+date: 2024-07-26, from: Cycle World News
+
+Photos from Cycle World's MV Agusta Turismo Veloce Lusso SCS Review article. 
+
+<https://www.cycleworld.com/gallery/mv-agusta-turismo-veloce-lusso-scs-review-photos/>
+
+---
+
+## 2024 Harley-Davidson Pan America 1250 Special Gallery
+
+date: 2024-07-26, from: Cycle World News
+
+Photos from Cycle World's 2024 Harley-Davidson Pan America 1250 Special buyer's guide article. 
+
+<https://www.cycleworld.com/gallery/2024-harley-davidson-pan-america-1250-special-photos/>
+
+---
+
+## ARCA Menards West Series: 2024 Shasta Race Preview
+
+date: 2024-07-26, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires This Saturday, July 27, we are moving into the second half of the 2024&#160;ARCA Menards West Series&#160;season. The Shasta 150 seventh race&#8230;  
+
+<https://kickinthetires.net/nascar/arca-west-series-24-shasta-race-preview/>
+
+---
+
+## 2025 Yamaha MT-09 Y-AMT Details
+
+date: 2024-07-26, from: Cycle World News
+
+Alternative clutch/gearboxes are all the rage now. Honda’s DCT has proven the point in the showroom. Yamaha is the latest to jump on board with its Y-AMT unit. 
+
+<https://www.cycleworld.com/motorcycle-news/2025-yamaha-mt-09-y-amt-details/>
+
+---
+
+## 2025 Yamaha MT-09 Y-AMT Details Gallery
+
+date: 2024-07-26, from: Cycle World News
+
+Photos from Cycle World's 2025 Yamaha MT-09 Y-AMT Details article. 
+
+<https://www.cycleworld.com/gallery/2025-yamaha-mt-09-y-amt-details-photos/>
+
+---
+
+## MotoGP Rider Coaches Are the Bridge Between Racers and Crew
+
+date: 2024-07-26, from: Cycle World News
+
+MotoGP rider coaches are the bridge between the engineers and the racers, and have become an important element in the success of a team. 
+
+<https://www.cycleworld.com/motorcycle-racing/motogp-rider-coaches/>
+
+---
+
+## All-Suzuki NHRA Pro Stock Motorcycle Final in Seattle
+
+date: 2024-07-26, from: Cycle World News
+
+The RevZilla/Motul/Vance & Hines Suzuki team returns to action July 26-28 at the DENSO NHRA Sonoma Nationals at Sonoma Raceway in Sonoma, CA. 
+
+<https://www.cycleworld.com/the-wire/suzuki-nhra-pro-stock-motorcycle-final-seattle/>
+
+---
+
+## Yamaha Proudly Sponsors AMA® Vintage Motorcycle Days
+
+date: 2024-07-26, from: Cycle World News
+
+Yamaha is pleased to announce its support of the AMA®’s annual Vintage Motorcycle Days event scheduled to take place this weekend (July 26th-28th) at the Mid-Ohio Sports Car Course in Lexington, Ohio. 
+
+<https://www.cycleworld.com/the-wire/yamaha-sponsors-ama-vintage-motorcycle-days/>
 
 ---
 
