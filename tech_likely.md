@@ -1,11 +1,468 @@
 ---
 title: tech likely 2024.31
-updated: 2024-07-29 07:29:24
+updated: 2024-07-30 08:05:25
 ---
 
 # tech likely 2024.31
 
-(date: 2024-07-29 07:29:24)
+(date: 2024-07-30 08:05:25)
+
+---
+
+##  Germans are installing &#8220;plug-and-play&#8221; solar panels to feed energy back to the... 
+
+date: 2024-07-30, updated: 2024-07-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045031-germans-are-installing-pl>
+
+---
+
+## Fixing curl install failures with Ansible on Red Hat-derivative OSes
+
+date: 2024-07-30, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Fixing curl install failures with Ansible on Red Hat-derivative OSes</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Over the past few months, I've noticed some of my automation failing on Red Hat-derivative OSes like Rocky Linux and AlmaLinux. The reason for this has to do with the inclusion of a <code>curl-minimal</code> package in some distros, which conflicts with <code>curl</code> if you try installing the full package.</p>
+
+<p>Unfortunately, the fix for this is a little strange, and so only ends up in Ansible's <a href="https://docs.ansible.com/ansible/latest/collections/ansible/builtin/dnf_module.html">dnf</a> module, not in the more cross-compatible <a href="https://docs.ansible.com/ansible/latest/collections/ansible/builtin/package_module.html">package</a> module.</p>
+
+<p>The error I was seeing is like:</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-07-30T09:40:50-05:00" title="Tuesday, July 30, 2024 - 09:40" class="datetime">July 30, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/fixing-curl-install-failures-ansible-on-red-hat-derivative-oses>
+
+---
+
+## ‘Metaphysical Experiments’ Probe Our Hidden Assumptions About Reality
+
+date: 2024-07-30, from: Quanta Magazine
+
+Experiments that test physics and philosophy "as a single whole" may be our only route to surefire knowledge about the universe.            <p>The post <a href="https://www.quantamagazine.org/metaphysical-experiments-test-hidden-assumptions-about-reality-20240730/" target="_blank">‘Metaphysical Experiments’ Probe Our Hidden Assumptions About Reality</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/metaphysical-experiments-test-hidden-assumptions-about-reality-20240730/>
+
+---
+
+## Hacking Pi firmware to get the fastest overclock
+
+date: 2024-07-30, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Hacking Pi firmware to get the fastest overclock</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-5-smoky-overclock.jpeg" alt="Raspberry Pi 5 with dry ice smoke surrounding it"></p>
+
+<p>Since boosting my Pi 5 from the default 2.4 GHz clock to <a href="https://www.jeffgeerling.com/blog/2024/raspberry-pi-5-can-overclock-314-ghz">3.14 GHz on Pi Day</a>, I've wanted to go faster. Especially since many other users have topped my Geekbench scores since then :)</p>
+
+<p>In March, Raspberry Pi introduced new firmware that unlocked frequencies above 3,000 MHz for overclocking. This summer, <a href="https://www.jeffgeerling.com/blog/2024/numa-emulation-speeds-pi-5-and-other-improvements">NUMA Emulation patches</a> boosted performance another 5-10% through memory access optimizations.</p>
+
+<p>But even with a <a href="https://www.reddit.com/r/overclocking/comments/3d1y4j/comment/ct1sk4e/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button">golden sample</a> Pi 5, I haven't seen anybody go much beyond 3.1 or 3.2 GHz. The problem seemed to be power supply—the Pi's firmware limits the SoC to a maximum of 1.000V.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-07-30T09:02:57-05:00" title="Tuesday, July 30, 2024 - 09:02" class="datetime">July 30, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/hacking-pi-firmware-get-fastest-overclock>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-30, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/18/patrioticKitty.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Like 193K others I tuned into <a href="https://apnews.com/article/harris-supporters-by-ethnic-background-white-dudes-b474af62f6b225c71cde16be7e9eb077">White Dudes For Harris</a> last night. Please, let that be the last time we do that. I felt like it might as well have been <i>Slave Owners for Harris</i> or <i>Reformed Republicans for Harris.</i> I don't have anything against people of my gender and approximate race, but I also am a child of Holocaust survivors, and I happen to be one of the elites the Repubs claim to hate, and also am one of at least two castes that Democrats tend to blame for all our problems (other than White Dudes). I think we've done enough segregation for one campaign, now please please I beg you, let's <i>work together,</i> regardless of labels, to save the country we all love. I have a philosophy, I don't care how you got to the party, if you took a subway, walked, rode a bike, or came by Uber or a Cadillac limousine. We all got here, and have a common purpose, so lets all love each other and party our way to victory. Regardless of race, creed, color or whatever. 
+
+<http://scripting.com/2024/07/30.html#a123918>
+
+---
+
+## A Gold Medal Caption
+
+date: 2024-07-30, updated: 2024-07-30, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/07/30/a-gold-medal-caption/>
+
+---
+
+**@Ayjay blog** (date: 2024-07-30, from: Ayjay blog)
+
+The story of the Nisei linguists — who served in the Second World War as translators, interpreters, and intelligence officers, while their parents were imprisoned in internment camps — is a remarkable one. James C. McNaughton’s book about them is available as a PDF here. 
+
+<https://blog.ayjay.org/46570-2/>
+
+---
+
+## 2024-07-30 Fight On! Magazine #15
+
+date: 2024-07-30, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-30-fight-on-magazine-15">2024-07-30 Fight On! Magazine <a class="tag" href="/search/?q=%2315">#15</a></h1>
+
+<p>Pretty amazing news:</p>
+
+<blockquote>
+<p>After ten long years we are back to <em>Fight On!</em> once more!</p>
+</blockquote>
+
+<p>And it includes the <a href="Caverns_of_Slime">Caverns of Slime</a>! So now there&rsquo;s a way to get them in <a href="http://www.lulu.com/shop/ignatius-umlaut/fight-on-15/paperback/product-65qpr2w.html">print</a> and <a href="http://www.lulu.com/shop/ignatius-umlaut/fight-on-15-pdf-edition/ebook/product-84kg7gz.html">PDF</a>, together with a lot of other good stuff.</p>
+
+<p>Table of Contents:</p>
+
+<ul>
+<li>Ten Ways to Holmesify your Game (Zach Howard) 3</li>
+<li>Special Ability Charts (Attronarch) 4</li>
+<li>The Orthogonal Dwarf (Olle Skogren) 11</li>
+<li>Gremlins! (Calithena) 14</li>
+<li>Maze Master’s Miscellany (Alex Schroder &amp; Cal) 15</li>
+<li>The Catacombs under Old Samora (Philipp H.) 17</li>
+<li>Knights &amp; Knaves: Holmes Town Heroes (Tony A. Rowe) 28</li>
+<li>Bringing It All Back Holmes (Clark/Grodog/Cal) 30</li>
+<li>Maps from the Maze of Peril (J. Eric Holmes) 34</li>
+<li>Distributary of Darkness (Alex Zisch) 36</li>
+<li>The Silken See (Motley Dice) 37</li>
+<li>Grognard’s Grimoire (Richard Rittenhouse) 41</li>
+<li>The Wizard’s Satchel (J. Blasso-Gieseke) 43</li>
+<li>Artifacts, Adjuncts, and Oddments (Rittenhouse) 44</li>
+<li>Victory or Death! (Gabor Lux) 46</li>
+<li>Megadungeon Workshop Extravaganza! (Kesher) 50</li>
+<li>Calvero! (István Boldog-Bernád) 53</li>
+<li>Creepies &amp; Crawlies (James Maliszewski) 61</li>
+<li>Tables for Fables (Al, Greco, Wetzel, and Rients) 63</li>
+<li>The Darkness Beneath (Alex Schroder &amp; Lior Wehrli) 68</li>
+<li>Henchmen-Я-Us: Pole Arm Caddies! (Calithena) 91</li>
+<li>Chainmail: Battle for Bronzolo (Settembrini) 92</li>
+<li>Doxy, Urgent Care Cleric (Linneman &amp; Green) 98</li>
+<li>Education of a Magic User (Douglas Cox) 99</li>
+<li>Wham! (Tom Gordon) 100</li>
+</ul>
+
+<p>Front cover by Tom Gordon (facebook.com/tgordo). Back cover by Mitzi! Fight On! logo by Jeff Rients. J. Eric Holmes photo by Steve Pyryezstov. Images by Germille (2), Cameron Hawkey (cameronhawkey.com; 3, 25, 29, 33, 40, 92, 97), Allan T. Grohe Jr. (greyhawkonline.com/grodog; 6), Peter Mullen (instagram.com/pmullenillustrations; 10, 40), J. Blasso-Gieseke (charybdispress.com; 11, 64), Micheal Russell (12, 94), Black Blade Publishing (facebook.com/blackbladepublishing; 14, 49), Patrick Farley (15, retro 16, 67), Philipp H. (18), Philipp Knopp (21, 22), Gabor Lux (beyondfomalhaut.blogspot.com; 27), Justin Russell (32), Jean-Francois Beaulieu (32), Chris Holmes (33), J. Eric Holmes (34, 35), Alex Zisch (36, 44), Motley Dice (motleydice.net; 37, 38, 39), Ed Heil (edheil@fastmail.fm; 38), John Tenniel (40), Mac Teg (macteg.com, 45, 63), Raymond Perry (46, 47), The Antique Alumni (47, 48), Pacesetter Games (pacesettergames.com; 49), The Dead Victorians (54, 55, 56, 58), István Boldog-Bernád (57, 59), Jason Sholtis (roll1d12@blogspot.com; 61, 62), Zhu Bajiee (realmofzhu@blogspot.com; 61. 62, 63), Robert S. Conley (68), Ndege Diamond (70,80), Alex Schroder (71, 79, 81), Kelvin Green (kelvingreen.blogspot.com; 82, 91, 98), Anthony Stiller (83), Niel-Jan Que (89), Settembrini (93) Knights &amp; Knaves and Creepies &amp; Crawlies logos by Lee Barber. Tables for Fables logo derived from one by Age of Fable.</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%23Fight_On">#Fight On</a> <a class="tag" href="/search/?q=%23Caverns_of_Slime">#Caverns of Slime</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-30-fight-on>
+
+---
+
+## Latest update for 'extremely fast' compression algorithm LZ4 sprints past old versions
+
+date: 2024-07-30, updated: 2024-07-30, from: Liam Proven's articles at the Register
+
+<h4>New release does something you might have thought it already did</h4>
+      <p>The new version of the high-speed compression algorithm LZ4 gets a big speed boost – nearly an order of magnitude.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/30/lz4_gets_much_faster/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-30, from: Miguel de Icaza Mastondon feed)
+
+<p>Watching Dark for the third time, this time with my 11yo.</p><p>Finding all sorts of jewels I missed the first two times.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112873113192821376>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-30, from: Dave Winer's Scripting News)
+
+Like <a href="https://en.wikipedia.org/wiki/Cholesterol">cholesterol</a>, there's "good weird" and "bad weird." I <a href="https://www.threads.net/@davew/post/C-AoGfspfFB">think</a> we all know which kind of <a href="https://www.salon.com/2024/07/29/old-and-quite-weird-democrats-finally-discover-new-effective--and-hate-it/">weird</a> the Repubs are. 
+
+<http://scripting.com/2024/07/29.html#a004743>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-07-30, from: Tomosino's Mastodon feed)
+
+<p>Just saw Deadpool. Absolutely loved it. No spoilers from me, but stay till the very end of the credits for the post credit scene. The bit earlier on isn't it.</p> 
+
+<https://tilde.zone/@tomasino/112872507235577567>
+
+---
+
+## Schedule and Cross-Post with Buffer
+
+date: 2024-07-30, from: Bluesky web news
+
+We're thrilled to announce that Bluesky has partnered with Buffer, a social media toolkit with scheduling and cross-posting features. 
+
+<https://bsky.social/about/blog/07-30-2024-schedule-and-crosspost-with-buffer>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-29, from: Miguel de Icaza Mastondon feed)
+
+<p>When you are an Apple developer every day is Christmas!  ”I hope it doesn’t destroy all my data” edition.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112872428454357601>
+
+---
+
+##  Drum Beat Typography 
+
+date: 2024-07-29, updated: 2024-07-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/drum-beat-typography>
+
+---
+
+##  Ran across this hilariously nonsensical gymnastics commentary by Joe Tracini this morning... 
+
+date: 2024-07-29, updated: 2024-07-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045030-ran-across-this-hilarious>
+
+---
+
+## NASA to Highlight 13th Space Station Research, Development Conference
+
+date: 2024-07-29, from: NASA breaking news
+
+Editor&#8217;s Note: This media advisory was updated on July 29, 2024 to reflect the updated times for the Low Earth Orbit panel on Wednesday, July 31 and the keynote address on Thursday, Aug. 1. NASA will broadcast groundbreaking discoveries, benefits for humanity, and how the agency and its commercial and international partners are maximizing research [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-to-highlight-13th-space-station-research-development-conference/>
+
+---
+
+## Sols 4257-4258: A Little Nudge on Kings Canyon
+
+date: 2024-07-29, from: NASA breaking news
+
+Earth planning date: Friday, July 26, 2024 Today’s 2-sol weekend plan is our first taste of a new location for a potential sampling campaign. We call today’s plan type: Drill Sol 1 – triage contact science. We arrived this morning to a lovely new workspace. The science team has been eagerly observing these lighter-toned rocks […] 
+
+<https://science.nasa.gov/blogs/sols-4257-4258-a-little-nudge-on-kings-canyon/>
+
+---
+
+## Sols 4255-4256: Just Passing Through
+
+date: 2024-07-29, from: NASA breaking news
+
+Earth planning date: Wednesday, July 24, 2024 Happy Wednesday, terrestrials! We wrapped up our Mammoth Lakes drill campaign only three weeks ago and are already looking for our next drill site. This will be the last drill campaign in the Gediz Vallis region, an area on Mars the Curiosity team has had their eyes on since sol […] 
+
+<https://science.nasa.gov/blogs/sols-4255-4256-just-passing-through/>
+
+---
+
+## 60 Years Ago: Ranger 7 Photographs the Moon
+
+date: 2024-07-29, from: NASA breaking news
+
+Long before Apollo astronauts set foot upon the Moon, much remained unknown about the lunar surface. While most scientists believed the Moon had a solid surface that would support astronauts and their landing craft, some believed a deep layer of dust covered it that would swallow any visitors. Until 1964, no closeup photographs of the [&#8230;] 
+
+<https://www.nasa.gov/history/60-years-ago-ranger-7-photographs-the-moon/>
+
+---
+
+## The First Apple Intelligence Beta
+
+date: 2024-07-29, from: Michael Tsai
+
+Joe Rossignol: Apple Intelligence is still not available as of the fourth developer beta of iOS 18 this week, leading some to wonder if the features have been delayed. However, we have confirmed that Apple still plans to add some of the new Apple Intelligence features to an upcoming beta this summer. Matthew Cassinelli: I [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/29/the-first-apple-intelligence-beta/>
+
+---
+
+## Magic Lasso Redesigned
+
+date: 2024-07-29, from: Michael Tsai
+
+Matthew Bickham: Under the covers, Magic Lasso has been re-architected using SwiftUI which enables a shared but tailored UI implementation across the iPhone, iPad and Mac apps. The move to SwiftUI delivers improved user accessibility including complete support for variable type sizing and Dark mode. In the future, multilingual support will also be considerably easier [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/29/magic-lasso-redesigned/>
+
+---
+
+## Actor Reentrancy in Swift
+
+date: 2024-07-29, from: Michael Tsai
+
+Donny Wals (Mastodon): When you start learning about actors in Swift, you&#8217;ll find that explanations will always contain something along the lines of &#8220;Actors protect shared mutable state by making sure the actor only does one thing at a time&#8221;. As a single sentence summary of actors, this is great but it misses an important [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/29/actor-reentrancy-in-swift/>
+
+---
+
+##  Parker or Driver? 
+
+date: 2024-07-29, updated: 2024-07-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/parker-or-driver>
+
+---
+
+## NASA Embraces Streaming Service to Reach, Inspire Artemis Generation
+
+date: 2024-07-29, from: NASA breaking news
+
+As part of its ongoing web and television modernization efforts, NASA is shifting its digital focus to its on-demand streaming service, NASA+, which has already gained four times more viewership than the agency’s traditional cable channel. To streamline how it brings the latest aeronautics, human spaceflight, science, and technology news to the universe, the agency [&#8230;] 
+
+<https://www.nasa.gov/general/nasa-embraces-streaming-service-to-reach-inspire-artemis-generation/>
+
+---
+
+## Visit with NASA SCaN
+
+date: 2024-07-29, from: NASA breaking news
+
+Interested in having a NASA SCaN expert speak to your class or group? The SCaN program is accepting requests for visits (both virtual and in-person) during the coming calendar year. Request a virtual visit below. Request a visit with the SCaN team at: NASA Glenn NASA Goddard NASA&#8217;s Jet Propulsion Laboratory Social Media Stay connected [&#8230;] 
+
+<https://www.nasa.gov/general/visit-with-nasa-scan/>
+
+---
+
+## PLACES team publishes blog post on NextGenScience Blog
+
+date: 2024-07-29, from: NASA breaking news
+
+The NASA Science Activation program’s PLACES (Broadening Data Fluency Through the Integration of NASA Assets and Place-Based Learning to Advance Connections, Education, and Stewardship) team – which focuses on supporting educators to implement Place-Based, Data-Rich (PBDR) instruction using NASA assets in their own contexts – recently published a blog post about the PLACES PBDR framework […] 
+
+<https://science.nasa.gov/learning-resources/science-activation/places-team-publishes-blog-post-on-nextgenscience-blog/>
+
+---
+
+## Peekaboo!
+
+date: 2024-07-29, from: NASA breaking news
+
+In this image from May 4, 2017, a rabbit is nearly obscured by grass at NASA’s Kennedy Space Center in Florida. Kennedy shares a border with the Merritt Island Wildlife Refuge, which is home to over 31 mammal species and hundreds of bird, fish, amphibian, and reptile species. Kennedy is responsible for more protected species [&#8230;] 
+
+<https://www.nasa.gov/image-article/peekaboo/>
+
+---
+
+##  How Democracy Happens: First Gradually and Then Suddenly 
+
+date: 2024-07-29, updated: 2024-07-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/how-democracy-happens-first-gradually-and-then-suddenly>
+
+---
+
+##  Lithub: The Republicans&#8217; Project 2025 is disastrous for books. &#8220;Project 2025 is... 
+
+date: 2024-07-29, updated: 2024-07-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045026-lithub-the-republicans-pr>
+
+---
+
+## NASA Offers Virtual Activities for 21st Northrop Grumman Resupply Mission
+
+date: 2024-07-29, from: NASA breaking news
+
+NASA invites the public to participate in virtual activities ahead of the launch of Northrop Grumman’s 21st commercial resupply services mission for the agency.&#160; Mission teams are targeting 11:28 a.m. EDT Saturday, Aug. 3, for the launch of the company’s Cygnus cargo spacecraft on a SpaceX Falcon 9 rocket from Space Launch Complex 40 at [&#8230;] 
+
+<https://www.nasa.gov/missions/nasa-offers-virtual-activities-for-21st-northrop-grumman-resupply-mission/>
+
+---
+
+##  10 settings to tweak to increase iPhone battery life, including turning off... 
+
+date: 2024-07-29, updated: 2024-07-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045001-10-settings-to-tweak-to>
+
+---
+
+## oberon@gitlab.inf.ethz.ch pushed to project branch main at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-07-29, updated: 2024-07-29, from: Oberon A2 at CAS
+
+
+<p>
+<strong>oberon@gitlab.inf.ethz.ch</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/45a180eb68f092b24471bab97682d06a7c6d60ae">(45a180eb)</a>
+<i>
+at
+29 Jul 17:36
+</i>
+</p>
+<div class="blockquote"><p dir="auto">handle SYSTEM.VAL conversion and normal type conversion differently...</p></div>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/45a180eb68f092b24471bab97682d06a7c6d60ae>
+
+---
+
+##  WWW: The Way We Were 
+
+date: 2024-07-29, updated: 2024-07-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/www-the-way-we-were-1>
+
+---
+
+## Breaking the Cycle: Against the Militarization of Neuroscience Research
+
+date: 2024-07-29, from: Logic Magazine
+
+
+                <p>“Adoption of a critical perspective on funding choices is possible—even for faculty previously connected to US military systems—but it is more labor intensive, entailing work that all too often lies outside of the research infrastructure universities provide.”</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/on-the-militarization-of-computational-cognitive-science-and-neuroscience>
+
+---
+
+## Tech Explainer: Brain–Computer Interfaces and Neural Prosthetics
+
+date: 2024-07-29, from: Logic Magazine
+
+
+                <p>“The brain is the ultimate site of an individual’s identity, and implanted devices not only have access to it, but the potential to alter it.”</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/tech-explainer-brain-computer-interfaces-and-neural-prosthetics>
+
+---
+
+## NASA Data Shows July 22 Was Earth’s Hottest Day on Record
+
+date: 2024-07-29, from: NASA breaking news
+
+July 22, 2024, was the hottest day on record, according to a NASA analysis of global daily temperature data. July 21 and 23 of this year also exceeded the previous daily record, set in July 2023. These record-breaking temperatures are part of a long-term warming trend driven by human activities, primarily the emission of greenhouse [&#8230;] 
+
+<https://www.nasa.gov/earth/nasa-data-shows-july-22-was-earths-hottest-day-on-record/>
+
+---
+
+##  Margaret Sullivan: &#8220;I urge news decision-makers to take Trump&#8217;s authoritarian desires very... 
+
+date: 2024-07-29, updated: 2024-07-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045024-margaret-sullivan-i-urge->
+
+---
+
+## Most people don’t think GenAI has improved their productivity
+
+date: 2024-07-29, from: Gary Marcus blog
+
+Damning new study from Upwork 
+
+<https://garymarcus.substack.com/p/most-people-dont-think-genai-has>
 
 ---
 
@@ -21,7 +478,7 @@ date: 2024-07-29, updated: 2024-07-29, from: Jason Kottke blog
 
 **@Dave Winer's Scripting News** (date: 2024-07-29, from: Dave Winer's Scripting News)
 
-Here's a <a href="https://imgs.scripting.com/2024/07/29/twowaysofsupport.png">perfect illustration</a> how ChatGPT can improve customer relations. I bought an iPhone that I now don't need, and it's arriving today via FedEx. I wanted to know whether I should just refuse delivery, or accept it and then return it. Obviously it's easier for me to refuse. I asked ChatGPT and it gave me a detailed reply. Apple's chatbot saw it as a "technical" question and wasn't prepared to help. Sales support is one of those applications where cost is totally justified. A human helper would cost a lot more I imagine than a LLM chat system. I tried calling 1-800-CALL-APPLE and talked to a human who was very nice, but couldn't find anything in her manual about refusing delivery. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/01/21/handmaidsAndMan.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Here's a <a href="https://imgs.scripting.com/2024/07/29/twowaysofsupport.png">perfect illustration</a> how ChatGPT can improve customer relations. I bought an iPhone that I now don't need, and it's arriving today via FedEx. I wanted to know whether I should just refuse delivery, or accept it and then return it. Obviously it's easier for me to refuse. I asked ChatGPT and it gave me a detailed reply. Apple's chatbot saw it as a "technical" question and wasn't prepared to help. Sales support is one of those applications where cost is totally justified. A human helper would cost a lot more I imagine than a LLM chat system. I tried calling 1-800-CALL-APPLE and talked to a human who was very nice, but couldn't find anything in her manual about refusing delivery. 
 
 <http://scripting.com/2024/07/29.html#a140845>
 
@@ -67,7 +524,7 @@ date: 2024-07-29, from: Manu - I write blog
 <p>What prompted me to consider joining 500.social was recalling the feeling I had when we learned that Biden had dropped out of the race. That's the sort of event that evokes an immediate, emotional response because of its significance to a broad range of people, presumably my "community."</p>
 </blockquote>
 <p>This is the perfect example of why I think social media is a flawed tool. Can you imagine doing the same in the phone era? Can you imagine reading a piece of news and start calling hundreds, potentially thousands of people simply to share what you think about some news? And can you imagine doing that with people who don’t even live in your country and couldn’t care less about that specific news? Now can you imagine if everyone was doing the same for the news that evoked a strong reaction to them? You’d quickly put your phone on airplane mode because there are only so many random opinions on news you can bear to listen to. I can have a 3 hours discussion about politics, I can’t listen 3 hours of soundbites.</p>
-<p>The problem with social media and politics is that way too many people are interested in sharing what they think about social media but very few are interested in having actual, real discussions. Because blasting out a tweet takes 10 seconds while having an actual conversation might take hours and span days.</p>
+<p>The problem with social media and politics is that way too many people are interested in sharing what they think on social media but very few are interested in having actual, real discussions. Because blasting out a tweet takes 10 seconds while having an actual conversation might take hours and span days.</p>
 <p>I’d love to know what you think about this whole situation though. Do you think some topics should be banned on social platforms? If you have opinions get in touch or even better write a blog post!</p>                <hr>
                 <p>Thank you for keeping RSS alive. You're awesome.</p>
                 <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
@@ -118,6 +575,16 @@ date: 2024-07-29, updated: 2024-07-29, from: One Foot Tsunami
  
 
 <https://onefoottsunami.com/2024/07/29/how-to-strengthen-democracy-in-three-unlikely-to-be-easy-steps/>
+
+---
+
+## What we got wrong about HTTP imports
+
+date: 2024-07-29, updated: 2024-07-29, from: Deno blog
+
+Designing a module system around HTTP imports was ambitious. Here are some issues we encountered and how we solved for them. 
+
+<https://deno.com/blog/http-imports>
 
 ---
 
@@ -276,6 +743,39 @@ date: 2024-07-29, from: Raspberry Pi News (.com)
 
 ---
 
+## pgAdmin 4 v8.10 Released
+
+date: 2024-07-29, from: PostgreSQL News
+
+<p>The pgAdmin Development Team is pleased to announce pgAdmin 4 version 8.10. This release of pgAdmin 4 includes 29 bug fixes and new features. For more details please see the <a href="https://www.pgadmin.org/docs/pgadmin4/8.10/release_notes_8_10.html">release notes</a>.</p>
+<p>pgAdmin is the leading Open Source graphical management tool for PostgreSQL. For more information, please see <a href="https://www.pgadmin.org/">the website</a>.</p>
+<h3>Note: With this release, pgAdmin 4 has transitioned from NW.js to Electron.</h3>
+<p>Notable changes in this release include:</p>
+<h3>Features:</h3>
+<ul>
+<li>Add support for Postgres Server Logs for Text, CSV, and JSON format in plain and tabular formats.</li>
+<li>Add support for highlighting selection matches in the query editor.</li>
+<li>Add a keyboard shortcut to close the active tab panel.</li>
+</ul>
+<h3>Bugs/Housekeeping:</h3>
+<ul>
+<li>Replace pgAdmin NW.js container with Electron container.</li>
+<li>Ensure that pgAdmin 4 is compatible with PostgreSQL v17.</li>
+<li>Fixed an issue where paste operation in query tool data grid should skip bytea columns and put the value as NULL instead.</li>
+<li>Ensure pgAdmin never makes network requests to Google etc.</li>
+<li>Fixed the permission denied issue for functions of the pgstattuple extension when accessing statistics with a non-admin user.</li>
+<li>Updated entrypoint.sh to utilize the email-validator package for email validation.</li>
+<li>Fixed an issue where users could not insert characters at the desired location, as it was added to the end of the line.</li>
+<li>Fixed an issue where users could not autofill their saved passwords in the connect server dialog in the browser.</li>
+<li>Fixed an issue where boolean values in node details of the graphical explain plan were not interpreted correctly.</li>
+<li>Ensure that pgAdmin works when opened in an iframe.</li>
+</ul>
+<p>Builds for Windows and macOS are available now, along with a Python Wheel, Docker Container, RPM, DEB Package, and source code tarball from the <a href="https://www.pgadmin.org/download/">tarball area</a>.</p> 
+
+<https://www.postgresql.org/about/news/pgadmin-4-v810-released-2899/>
+
+---
+
 ## When technology moves backwards
 
 date: 2024-07-28, from: Dave Winer's Scripting News
@@ -297,32 +797,6 @@ date: 2024-07-28, from: Dave Winer's Scripting News
 <p>Despite my best efforts this weekend, I have yet to watch every video on TikTok. </p><p>But I made a ton of progress.</p> 
 
 <https://mastodon.social/@Migueldeicaza/112866409882493642>
-
----
-
-## Breaking the Cycle: Against the Militarization of Neuroscience Research
-
-date: 2024-07-28, from: Logic Magazine
-
-
-                <p>“Adoption of a critical perspective on funding choices is possible—even for faculty previously connected to US military systems—but it is more labor intensive, entailing work that all too often lies outside of the research infrastructure universities provide.”</p>
-
-             
-
-<https://logicmag.io/issue-21-medicine-and-the-body/on-the-militarization-of-computational-cognitive-science-and-neuroscience>
-
----
-
-## Tech Explainer: Brain–Computer Interfaces and Neural Prosthetics
-
-date: 2024-07-28, from: Logic Magazine
-
-
-                <p>“The brain is the ultimate site of an individual’s identity, and implanted devices not only have access to it, but the potential to alter it.”</p>
-
-             
-
-<https://logicmag.io/issue-21-medicine-and-the-body/tech-explainer-brain-computer-interfaces-and-neural-prosthetics>
 
 ---
 

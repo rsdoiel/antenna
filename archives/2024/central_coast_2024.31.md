@@ -1,11 +1,135 @@
 ---
 title: central coast 2024.31
-updated: 2024-07-29 07:29:23
+updated: 2024-07-30 08:05:24
 ---
 
 # central coast 2024.31
 
-(date: 2024-07-29 07:29:23)
+(date: 2024-07-30 08:05:24)
+
+---
+
+## Santa Barbara Dragonfly
+
+date: 2024-07-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071024-POD-Marguerite-Williams.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara dragonfly." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071024-POD-Marguerite-Williams.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071024-POD-Marguerite-Williams.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071024-POD-Marguerite-Williams.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071024-POD-Marguerite-Williams.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071024-POD-Marguerite-Williams.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071024-POD-Marguerite-Williams.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071024-POD-Marguerite-Williams.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071024-POD-Marguerite-Williams.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071024-POD-Marguerite-Williams.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071024-POD-Marguerite-Williams.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071024-POD-Marguerite-Williams.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071024-POD-Marguerite-Williams.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/071024-POD-Marguerite-Williams.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-dragonfly/">Santa Barbara Dragonfly</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-dragonfly/>
+
+---
+
+## Local Miles Evans, Chase Budinger Shine in Olympics Beach Volleyball Debut
+
+date: 2024-07-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="820" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?fit=1024%2C820&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?w=1600&amp;ssl=1 1600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?resize=300%2C240&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?resize=1024%2C820&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?resize=768%2C615&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?resize=1536%2C1230&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?resize=1200%2C961&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?resize=1568%2C1255&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?resize=400%2C320&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?resize=706%2C565&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?fit=1024%2C820&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara’s Miles Evans and partner Chase Budinger faced the unenviable task of playing against the top team from the host country in their Olympics beach volleyball debut Monday before [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/local-miles-evans-chase-budinger-shine-in-olympics-beach-volleyball-debut/">Local Miles Evans, Chase Budinger Shine in Olympics Beach Volleyball Debut</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/local-miles-evans-chase-budinger-shine-in-olympics-beach-volleyball-debut/>
+
+---
+
+## Magical Run by Dos Pueblos LL Junior All-Stars Ends at Regionals
+
+date: 2024-07-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>In a year the Dos Pueblos Little League celebrated its 50th anniversary, the league’s Junior Division All-Stars team made history. The 14U squad advanced further than any other DPLL All-Stars [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/magical-run-by-dos-pueblos-ll-junior-all-stars-ends-at-regionals/">Magical Run by Dos Pueblos LL Junior All-Stars Ends at Regionals</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/magical-run-by-dos-pueblos-ll-junior-all-stars-ends-at-regionals/>
+
+---
+
+## Feud Over Evictions at Bath Street Apartments in Santa Barbara Takes New Turn in Court
+
+date: 2024-07-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-Bath-Street-Controversy-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The battle of evictions at 215 Bath St. in Santa Barbara has escalated in Santa Barbara County Superior Court." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-Bath-Street-Controversy-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-Bath-Street-Controversy-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-Bath-Street-Controversy-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-Bath-Street-Controversy-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-Bath-Street-Controversy-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-Bath-Street-Controversy-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-Bath-Street-Controversy-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-Bath-Street-Controversy-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-Bath-Street-Controversy-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-Bath-Street-Controversy-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The controversy over a Santa Barbara apartment building at the center of a &#8220;renoviction&#8221; has escalated in Santa Barbara County Superior Court. James Knapp, the property manager for 215 Bath [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/controversy-over-evictions-at-bath-street-apartments-in-santa-barbara-takes-new-turn-in-court/">Feud Over Evictions at Bath Street Apartments in Santa Barbara Takes New Turn in Court</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/controversy-over-evictions-at-bath-street-apartments-in-santa-barbara-takes-new-turn-in-court/>
+
+---
+
+## Conservancy Drops Appeal After Deal with El Capitan Canyon Over Campground Expansion
+
+date: 2024-07-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>After the appeal hearing was rescheduled multiple times, the Gaviota Coast Conservancy has dropped its appeal against the El Capitan Canyon campground expansion project after the two groups settled on [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/conservancy-drops-appeal-after-agreement-with-el-capitan-canyon-over-campground-expansion/">Conservancy Drops Appeal After Deal with El Capitan Canyon Over Campground Expansion</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/conservancy-drops-appeal-after-agreement-with-el-capitan-canyon-over-campground-expansion/>
+
+---
+
+## Laurie Jervis: Santa Ynez Museum’s Historical Coach Back On Display After Renovation
+
+date: 2024-07-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="793" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/Jervis-SYV-Historical-Museum-Stagecoach.jpg?fit=1024%2C793&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Krissy Castillo, executive director of the Santa Ynez Valley Historical Museum, and John Copeland, a board member and historian, stand in front of a coach from the Coast Line Stage Co." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/Jervis-SYV-Historical-Museum-Stagecoach.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/Jervis-SYV-Historical-Museum-Stagecoach.jpg?resize=300%2C232&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/Jervis-SYV-Historical-Museum-Stagecoach.jpg?resize=1024%2C793&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/Jervis-SYV-Historical-Museum-Stagecoach.jpg?resize=768%2C594&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/Jervis-SYV-Historical-Museum-Stagecoach.jpg?resize=1536%2C1189&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/Jervis-SYV-Historical-Museum-Stagecoach.jpg?resize=1200%2C929&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/Jervis-SYV-Historical-Museum-Stagecoach.jpg?resize=1568%2C1214&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/Jervis-SYV-Historical-Museum-Stagecoach.jpg?resize=400%2C310&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/Jervis-SYV-Historical-Museum-Stagecoach.jpg?resize=706%2C546&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/Jervis-SYV-Historical-Museum-Stagecoach.jpg?fit=1024%2C793&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Might you, readers, know the precise definition of “stagecoach”? Not I —&#160;until John Copeland, historian and board member of the Santa Ynez Valley Historical Museum &#38; Parks-Janeway Carriage House, shared [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/laurie-jervis-santa-ynez-museums-historical-coach-back-on-display-after-renovation/">Laurie Jervis: Santa Ynez Museum&#8217;s Historical Coach Back On Display After Renovation</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/laurie-jervis-santa-ynez-museums-historical-coach-back-on-display-after-renovation/>
+
+---
+
+## Gov. Newsom Appoints First CSUCI Student to CSU Board of Trustees
+
+date: 2024-07-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Nursing student Jazmin Guajardo of Santa Paula has become the first CSU Channel Islands (CSUCI) student ever appointed to the CSU Board of Trustees. The first-generation college student’s name was [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/gov-newsom-appoints-first-csuci-student-to-csu-board-of-trustees/">Gov. Newsom Appoints First CSUCI Student to CSU Board of Trustees</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/gov-newsom-appoints-first-csuci-student-to-csu-board-of-trustees/>
+
+---
+
+## Ron Werft Retiring as Cottage Health CEO Next Year
+
+date: 2024-07-29, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="838" height="1024" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/082323-Cottage-Health-Ron-Werft-contributed.jpg?fit=838%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Cottage Health CEO Ron Werft. (Contributed photo)" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/082323-Cottage-Health-Ron-Werft-contributed.jpg?w=838&amp;ssl=1 838w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/082323-Cottage-Health-Ron-Werft-contributed.jpg?resize=246%2C300&amp;ssl=1 246w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/082323-Cottage-Health-Ron-Werft-contributed.jpg?resize=768%2C938&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/082323-Cottage-Health-Ron-Werft-contributed.jpg?resize=400%2C489&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/082323-Cottage-Health-Ron-Werft-contributed.jpg?fit=838%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Longtime Cottage Health President &#38; CEO Ron Werft is retiring next year, the Santa Barbara-based healthcare system announced Monday. Werft has been with Cottage Health for 37 years and has [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ron-werft-retiring-as-cottage-health-ceo-next-year/">Ron Werft Retiring as Cottage Health CEO Next Year</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ron-werft-retiring-as-cottage-health-ceo-next-year/>
+
+---
+
+## Santa Maria Man Arrested for Murder After Assault Victim Dies
+
+date: 2024-07-29, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A Santa Maria man&#160;was arrested for suspicion of homicide after an assault victim died due to his injuries. At approximately 7:40 p.m. Sunday, Santa Maria police officers responded to a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-man-arrested-after-assault-victim-dies/">Santa Maria Man Arrested for Murder After Assault Victim Dies</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-maria-man-arrested-after-assault-victim-dies/>
+
+---
+
+## Santa Barbara Talks: A City-Chamber Deal, and Democratic Party’s Decision to Pass on Mike Jordan Endorsement
+
+date: 2024-07-29, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara South Coast Chamber of Commerce is on the verge of sealing a deal to create an economic development proposal for the city of Santa Barbara. The plan [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-talks-a-city-chamber-deal-and-democratic-partys-decision-to-pass-on-mike-jordan-endorsement/">Santa Barbara Talks: A City-Chamber Deal, and Democratic Party&#8217;s Decision to Pass on Mike Jordan Endorsement</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-talks-a-city-chamber-deal-and-democratic-partys-decision-to-pass-on-mike-jordan-endorsement/>
 
 ---
 

@@ -1,11 +1,584 @@
 ---
 title: pacific 2024.31
-updated: 2024-07-29 07:29:22
+updated: 2024-07-30 08:05:23
 ---
 
 # pacific 2024.31
 
-(date: 2024-07-29 07:29:22)
+(date: 2024-07-30 08:05:23)
+
+---
+
+## Biden calls for major changes to Supreme Court
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>AUSTIN, Texas &#8212; President Joe Biden, warning that the country&#8217;s courts were being weaponized to push an &#8220;extreme and unchecked&#8221; conservative agenda, said Monday that he would push for legislation that would bring major changes to the Supreme Court, including imposing term limits and creating an enforceable code of ethics on the justices.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/nation-world-news/biden-calls-for-major-changes-to-supreme-court/>
+
+---
+
+## Neighbors of Punalu‘u project seek contested case
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>An association of Punalu&#8216;u residents is once again challenging a resort development planned for the area.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/hawaii-news/neighbors-of-punaluu-project-seek-contested-case/>
+
+---
+
+## DNA helps solve mystery in 1991 Dana Ireland murder
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Police Department Chief Benjamin Moszkowicz said Monday that his department didn&#8217;t have probable cause to arrest the former &#8220;Unknown Male No. 1&#8221; for the Christmas Eve 1991 murder of Dana Ireland in lower Puna.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/hawaii-news/dna-helps-solve-mystery-in-1991-dana-ireland-murder/>
+
+---
+
+## County’s eminent domain plan heads to court
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>A plan by Hawaii County to take private land in Puna in order to restore Pohoiki Road has gone to court.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/hawaii-news/countys-eminent-domain-plan-heads-to-court/>
+
+---
+
+## Obituaries for July 30
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>Densiann Denno, 20, of Keaau died June 25 at The Queen&#8217;s Medical Center in Honolulu. She was born in Chuuk, Federated States of Micronesia. Visitation 2-5 p.m. Saturday (Aug. 3) at Dodo Mortuary Chapel. Funeral service at 5 p.m. Final services and burial will take place in Chuuk. Casual attire; no flowers. Survived by mother, Lorcy (Paren) Suta of Hilo; brothers, Denjunior Denno, Donson Denno, Ferden Denno and Brian Defang of Hilo; sisters, Dinorciann Denno and Pefercyann (Daren) Defang of Hilo; maternal grandparents, Donak Suda and Febronia Oneitan of Hilo; aunts, uncles, cousins, nieces and nephews. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/obituaries/obituaries-for-july-30-11/>
+
+---
+
+## Trump launches ad blitz to try to slow Harris surge
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Republican presidential candidate Donald Trump&#8217;s campaign will launch a $10 million advertising blitz in six battleground states this week as it tries to counter a surge of voter enthusiasm and donations for his Democratic rival Kamala Harris.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/nation-world-news/trump-launches-ad-blitz-to-try-to-slow-harris-surge/>
+
+---
+
+## RIMPAC participants practice coastal combat at Bellows
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>At this year&#8217;s Rim of the Pacific exercise, service members from countries in Asia, the Pacific islands and Latin America have joined American Marines in training around Bellows Beach, practicing amphibious fighting tactics.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/hawaii-news/rimpac-participants-practice-coastal-combat-at-bellows/>
+
+---
+
+## Judge lets NRA keep its independence but pushes for reforms
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A New York judge decided against imposing an outside monitor on the National Rifle Association on Monday, a win for the embattled gun group and the beginning of the end of a 4-year-old case brought by state regulators.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/nation-world-news/judge-lets-nra-keep-its-independence-but-pushes-for-reforms/>
+
+---
+
+## Protests erupt in Venezuela as nations denounce election result
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>CARACAS, Venezuela &#8212; Protests broke out Monday in Caracas, Venezuela&#8217;s capital, with hundreds of young people marching through the streets furious over a presidential election in which the incumbent, Nicol&#225;s Maduro, declared victory despite widespread accusations of fraud, officially proclaiming the election decided without releasing the full vote counts.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/nation-world-news/protests-erupt-in-venezuela-as-nations-denounce-election-result/>
+
+---
+
+## Netanyahu vows ‘severe’ response to deadly rocket attack tied to Hezbollah
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Tensions were high on both sides of the Israeli-Lebanese border Monday as Israeli leaders vowed to deliver a significant military blow against the armed group Hezbollah in response to a deadly rocket attack over the weekend.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/nation-world-news/netanyahu-vows-severe-response-to-deadly-rocket-attack-tied-to-hezbollah/>
+
+---
+
+## Roy Cooper withdraws from Harris’ vice-presidential field
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Roy Cooper of North Carolina, who had been seen as a leading contender to become Vice President Kamala Harris&#8217; running mate, has withdrawn from the vice-presidential sweepstakes.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/nation-world-news/roy-cooper-withdraws-from-harris-vice-presidential-field/>
+
+---
+
+## Novak Djokovic eliminates rival Rafael Nadal in Olympics singles
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; Top-seeded Serbian Novak Djokovic overcame a brief bout of nerves in the second set before beating 14-time French Open champion Rafael Nadal 6-1, 6-4 at the Paris Olympics on Monday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/sports/novak-djokovic-eliminates-rival-rafael-nadal-in-olympics-singles/>
+
+---
+
+## U.S women’s hoops on target for eighth gold after beating Japan
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>VILLENEVE-D&#8217;ASCQ, France &#8212; The United States romped to a resounding 102-76 victory over Japan in the women&#8217;s basketball tournament at the Pierre Mauroy stadium on Monday, demonstrating that the defending champions are positioned to make a strong push for their eighth consecutive Olympic gold medal.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/sports/u-s-womens-hoops-on-target-for-eighth-gold-after-beating-japan/>
+
+---
+
+## Local sports briefs: Vulcans named Cobalt Golf All-America scholars; HHSAA flag football returning
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>Vulcans named Cobalt &#0010;Golf All-America scholars</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/sports/local-sports-briefs-vulcans-named-cobalt-golf-all-america-scholars-hhsaa-flag-football-returning/>
+
+---
+
+## UH’s Ashlock and Heimuli are true brothers in the braddahhood
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>When Hawaii freshman All-American wideout Pofele Ashlock was just a high school sophomore, he and his younger brother, Jarvis &#8220;Dino&#8221; Heimuli, went to live with their maternal grandparents. Mafi and Siope Heimuli resided in Euless, home to a notable Tongan population in Texas, as natives of Tonga.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/sports/uhs-ashlock-and-heimuli-are-true-brothers-in-the-braddahhood/>
+
+---
+
+## Brazil’s Medina, and Tahiti’s ‘Wall of Skulls’, approach perfection; John John Florence out
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>TEAHUPO&#8217;O, Tahiti &#8212; Brazil&#8217;s Gabriel Medina powered through a giant blue barrel for the highest score of the Olympic surfing competition so far, but Tahiti&#8217;s Teahupo&#8217;o stole the show on Monday with some of the most incredible waves ever seen in competition.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/sports/brazils-medina-and-tahitis-wall-of-skulls-approach-perfection-john-john-florence-out/>
+
+---
+
+## Belichick isn’t back, he’s everywhere
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>Bill Belichick landed his first NFL coaching gig in 1975 as a special assistant on Ted Marchibroda&#8217;s Baltimore Colts. To put that in perspective, it was so long ago that 48-year-old George Blanda was still playing in the NFL. It was so long ago that Robert Kraft was a little-known part owner of the Boston Lobsters in World Team Tennis. It was so long ago that most NFL fans under age 50 have no memory of the Colts being based in Baltimore.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/sports/belichick-isnt-back-hes-everywhere/>
+
+---
+
+## In the 1,500, there’s Katie Ledecky and then there’s everyone else
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>NANTERRE, France &#8212; The last time that Katie Ledecky was beaten in a 1,500-meter freestyle event was a regional swim meet in Maryland 14 years ago.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/sports/in-the-1500-theres-katie-ledecky-and-then-theres-everyone-else/>
+
+---
+
+## Permission to build — Finally, a deal to allow for faster approval of energy projects
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>Months if not years in the making, a bipartisan bill in Washington seeks to speed up permitting for new energy infrastructure, which far too often today gets bogged down if not killed by exhausting regulatory processes and lawsuits. Here&#8217;s hoping the imperfect but worthy legislation isn&#8217;t bogged down or killed by the forces protecting the status quo, which far too often today carry the day in Congress.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/opinion/permission-to-build-finally-a-deal-to-allow-for-faster-approval-of-energy-projects/>
+
+---
+
+## NATO needs better bridges — and bulwarks
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>Although the U.S. and its allies agreed recently to put Ukraine on an &#8220;irreversible path&#8221; to NATO membership, there&#8217;s no avoiding the obvious: A Trump presidency could well render such pledges meaningless.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/opinion/nato-needs-better-bridges-and-bulwarks/>
+
+---
+
+## Your Views for July 30
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>STVR bills &#8216;should&#0010;be soundly defeated&#8217;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/opinion/your-views-for-july-30-9/>
+
+---
+
+## Let’s Talk Food: Fried rice
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>Fried rice originated in the Sui Dynasty in Yangzhou, the Eastern Jiangsu province of China, as a way to use up leftover (usually day old) rice and avoid food waste. During the Gold Rush in the 19th century, the Chinese immigrants introduced Americans to fried rice.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/community/lets-talk-food-fried-rice/>
+
+---
+
+## Today Features
+
+date: 2024-07-30, from: Island Times
+
+<p>The post <a href="https://islandtimes.org/today-features-3/">Today Features</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/today-features-3/>
+
+---
+
+## Gov’t Employees Must Resign to Run for Office
+
+date: 2024-07-30, from: Island Times
+
+<p>By: Olkeriil Eoghan Ngirudelsang KOROR, Palau – Any government employee in Palau must resign within 14 days of filing candidacy papers to run for elected office, according to the National Public Services Act. The law, outlined in Section 1104 of the act, prohibits national and state government employees from accepting nominations for elected office without [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/govt-employees-must-resign-to-run-for-office/">Gov’t Employees Must Resign to Run for Office</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/govt-employees-must-resign-to-run-for-office/>
+
+---
+
+## Palau Grapples with Solar Energy Surge
+
+date: 2024-07-30, from: Island Times
+
+<p>By: Olkeriil Eoghan Ngirudelsang KOROR, Palau – President Surangel Whipps said last week the government is struggling to manage the influx of solar energy and is asking neighboring countries to pause new solar projects. “One of the first meetings we had was meeting the Japanese, Taiwanese, and the Australians asking them to please stop any [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-grapples-with-solar-energy-surge/">Palau Grapples with Solar Energy Surge</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-grapples-with-solar-energy-surge/>
+
+---
+
+## Improved Bus Service Launches in Koror
+
+date: 2024-07-30, from: Island Times
+
+<figure><img width="602" height="335" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/bus-service3.jpg?fit=602%2C335&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/bus-service3.jpg?w=602&amp;ssl=1 602w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/bus-service3.jpg?resize=300%2C167&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/bus-service3.jpg?resize=600%2C335&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/bus-service3.jpg?resize=400%2C223&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/bus-service3.jpg?fit=602%2C335&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71549" data-permalink="https://islandtimes.org/improved-bus-service-launches-in-koror/bus-service3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/bus-service3.jpg?fit=602%2C335&amp;ssl=1" data-orig-size="602,335" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="bus service3" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/bus-service3.jpg?fit=300%2C167&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/bus-service3.jpg?fit=602%2C335&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Olkeriil Eoghan Ngirudelsang KOROR – A new public bus route with expanded service began Monday in Koror. The bus now operates Monday through Friday, up from twice a week previously. The new route includes more stops throughout Koror, and fares remain at $1 per ride. The first westbound bus departs Surangel Super Center at [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/improved-bus-service-launches-in-koror/">Improved Bus Service Launches in Koror</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/improved-bus-service-launches-in-koror/>
+
+---
+
+## Local Pork Hits West Melekeok Store
+
+date: 2024-07-30, from: Island Times
+
+<figure><img width="1024" height="521" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?fit=1024%2C521&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?w=1367&amp;ssl=1 1367w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=300%2C153&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=1024%2C521&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=768%2C391&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=1200%2C611&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=400%2C204&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=706%2C359&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?fit=1024%2C521&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71546" data-permalink="https://islandtimes.org/local-pork-hits-west-melekeok-store/messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?fit=1367%2C696&amp;ssl=1" data-orig-size="1367,696" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?fit=300%2C153&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?fit=780%2C397&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Olkeriil Eoghan Ngirudelsang MELEKEOK, Palau – Locally raised and butchered pork is now available at WCTC’s West Melekeok store. About 120 pounds of pork were delivered to the store last week. The meat, labeled simply “Local Pork,” is individually packaged and carries the seal of approval from Palau’s Bureau of Agriculture. The piglets were [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/local-pork-hits-west-melekeok-store/">Local Pork Hits West Melekeok Store</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/local-pork-hits-west-melekeok-store/>
+
+---
+
+## Ngerulmud Experiences Water Outage Due to Major Pipe Leak
+
+date: 2024-07-30, from: Island Times
+
+<p>By: Summer Kennard NGERULMUD, Palau – The Ngerulmud office is currently without water due to a significant pipe leak that was discovered earlier this morning. As a result, all comfort rooms in the building are closed until the situation is resolved. Director of Public Works, Brian Melairei, stated that the source of the leak was [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngerulmud-experiences-water-outage-due-to-major-pipe-leak/">Ngerulmud Experiences Water Outage Due to Major Pipe Leak</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ngerulmud-experiences-water-outage-due-to-major-pipe-leak/>
+
+---
+
+## Palauan community in CNMI to hold concerts asks OEK support
+
+date: 2024-07-30, from: Island Times
+
+<p>The Palauan community in the&#160; Commonwealth of the Northern Marianas Island (CNMI)&#160; is requesting funding to hold a Palauan concert funding event scheduled on August 10. 2024. CNMI’s Palauan Community Association ( PCA) Vice-President Thelma Madracheluib Mizer in a letter to the Senate President Hokkons Baules thanked Olbiil Era Kelulau ( OEK)&#160; for recently passing&#160; [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauan-community-in-cnmi-to-hold-concerts-asks-oek-support/">Palauan community in CNMI to hold concerts asks OEK support</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palauan-community-in-cnmi-to-hold-concerts-asks-oek-support/>
+
+---
+
+## Koa Moana 24: ARFF SME Exchange
+
+date: 2024-07-30, from: Island Times
+
+<figure><img width="624" height="416" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?fit=624%2C416&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?w=624&amp;ssl=1 624w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?fit=624%2C416&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71536" data-permalink="https://islandtimes.org/koa-moana-24-arff-sme-exchange/koa/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?fit=624%2C416&amp;ssl=1" data-orig-size="624,416" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="koa" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?fit=624%2C416&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Photo by Sgt. Nello Miele1st Marine Logistics Group U.S. Marines with Marine Air Control Group 38, 3rd Marine Aircraft Wing and Palauan locals say goodbye after a subject matter exchange with Aircraft Rescue and Fire Fighting personnel during exercise Koa Moana 24 at the Palau International Airport, Airai, Palau, July 26, 2024. During Koa Moana’s [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/koa-moana-24-arff-sme-exchange/">Koa Moana 24: ARFF SME Exchange</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/koa-moana-24-arff-sme-exchange/>
+
+---
+
+## PICRC Undertakes Pilot Study to Identify if Different Moon Phases Influence Fish Abundance and Diversity at FADs
+
+date: 2024-07-30, from: Island Times
+
+<p>Researchers from the Palau International Coral Reef Center (PICRC) are currently undertaking a pilot study at a fish aggregating device (FAD) to assess whether different moon phases influence the diversity and abundance of fish species. This project is using baited remote underwater video stations (BRUVS) to capture data which provides a permanent visual record of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-undertakes-pilot-study-to-identify-if-different-moon-phases-influence-fish-abundance-and-diversity-at-fads/">PICRC Undertakes Pilot Study to Identify if Different Moon Phases Influence Fish Abundance and Diversity at FADs</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/picrc-undertakes-pilot-study-to-identify-if-different-moon-phases-influence-fish-abundance-and-diversity-at-fads/>
+
+---
+
+## Australian Embassy welcomes Tegan Long for Yiwarra Kuju: The Canning Stock route
+
+date: 2024-07-30, from: Island Times
+
+<figure><img width="180" height="240" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?w=180&amp;ssl=1 180w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71531" data-permalink="https://islandtimes.org/australian-embassy-welcomes-tegan-long-for-yiwarra-kuju-the-canning-stock-route/australia-13/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1" data-orig-size="180,240" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="australia" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Ambassador Richelle Turner is pleased to welcome Ms Tegan Long to the Australian Embassy, Republic of Palau for the next three weeks. Ms Long is in Palau to assist the Embassy showcase Yiwarra Kuju: The Canning Stock Route. The Yiwarra Kuju exhibition features stories and artwork from senior and emerging Australian artists and traditional custodians [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australian-embassy-welcomes-tegan-long-for-yiwarra-kuju-the-canning-stock-route/">Australian Embassy welcomes Tegan Long for Yiwarra Kuju: The Canning Stock route</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/australian-embassy-welcomes-tegan-long-for-yiwarra-kuju-the-canning-stock-route/>
+
+---
+
+## Palau Mangrove Campaign Launched with Future Stewards
+
+date: 2024-07-30, from: Island Times
+
+<figure><img width="624" height="317" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?fit=624%2C317&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?w=624&amp;ssl=1 624w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?resize=300%2C152&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?resize=400%2C203&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?fit=624%2C317&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71528" data-permalink="https://islandtimes.org/palau-mangrove-campaign-launched-with-future-stewards/mangrove2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?fit=624%2C317&amp;ssl=1" data-orig-size="624,317" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mangrove2" data-image-description="" data-image-caption="&lt;p&gt;5th grade students kayaking at Oikull.  PC: Jesse Alpert&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?fit=300%2C152&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?fit=624%2C317&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Palau In a grand celebration of World Mangrove Day, approximately 130 5th and 6th grade students from elementary schools across Palau participated in an immersive field trip to explore and learn about the vital mangrove ecosystems. This initiative was part of a national Mangrove Education Campaign guided by a coalition of local partners. The students, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-mangrove-campaign-launched-with-future-stewards/">Palau Mangrove Campaign Launched with Future Stewards</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-mangrove-campaign-launched-with-future-stewards/>
+
+---
+
+## Family Warzone
+
+date: 2024-07-30, from: Island Times
+
+<figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71526" data-permalink="https://islandtimes.org/family-warzone/wc1-15/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?fit=524%2C522&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Are you hungry for more in life? This column was created as a reaction to domestic violence that was rampant throughout the island. That was twenty-two years ago. Domestic violence is still rampant. Are we being self destructive by trying to be nice to everyone? I know a wife who died of cancer a couple [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/family-warzone/">Family Warzone</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/family-warzone/>
+
+---
+
+## The Pacific economic malaise
+
+date: 2024-07-30, from: Island Times
+
+<p>By Steve Pollard SYDNEY, 26 JULY 2024 (DEVPOLICY.ORG) &#8212;As the Pacific island countries (PICs) prepare for another Pacific Islands Forum Economic Ministers Meeting (FEMM) next week, it is timely to ask how they are faring. Much of the regional picture does not look too good. According to preliminary census findings, the Federated States of Micronesia [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-pacific-economic-malaise/">The Pacific economic malaise</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/the-pacific-economic-malaise/>
+
+---
+
+## Official says Washington’s Indo-Pacific policy to remain in place no matter who wins the presidential election
+
+date: 2024-07-30, from: Island Times
+
+<p>WASHINGTON, 29 JULY 2024 (PACIFIC ISLAND TIMES) &#8212; Washington’s alliance with the Indo-Pacific region is sealed in place and won’t change no matter who gets elected president in November, according to a State Department official. “I’ve never seen a stronger demand signal for American engagement across the region,” said Daniel Kritenbrink, Assistant secretary for East [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/official-says-washingtons-indo-pacific-policy-to-remain-in-place-no-matter-who-wins-the-presidential-election/">Official says Washington’s Indo-Pacific policy to remain in place no matter who wins the presidential election</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/official-says-washingtons-indo-pacific-policy-to-remain-in-place-no-matter-who-wins-the-presidential-election/>
+
+---
+
+## New economic prospects needed for ‘chameleon’ Nauru
+
+date: 2024-07-30, from: Island Times
+
+<p>YAREN, 29 JULY 2024 (AAP) &#8212; By day, Nauru&#8217;s gravel Linkbelt Oval is dotted with groups of young people playing the country&#8217;s national sport &#8211; Australian rules &#8211; in the searing heat. Just after nightfall, hundreds of cars roll up for another Nauruan pastime, bingo. Under a portable gazebo, the caller works at lightning pace, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/new-economic-prospects-needed-for-chameleon-nauru/">New economic prospects needed for &#8216;chameleon&#8217; Nauru</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/new-economic-prospects-needed-for-chameleon-nauru/>
+
+---
+
+## Star Marianas Air threatens to terminate air service in the CNMI
+
+date: 2024-07-30, from: Island Times
+
+<p>SAIPAN, 26 JULY 2024 (PACIFIC ISLAND TIMES)&#8212;Star Marianas Air, a commuter airline that provides passenger and air cargo service in the Northern Marianas, has issued a notice of its intent to terminate its air services to these locations effective 15 October. This decision was driven by the unsustainable fee structure currently imposed by the Commonwealth [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/star-marianas-air-threatens-to-terminate-air-service-in-the-cnmi/">Star Marianas Air threatens to terminate air service in the CNMI</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/star-marianas-air-threatens-to-terminate-air-service-in-the-cnmi/>
+
+---
+
+## A surprise veepstakes excites the Democratic Party, as Kamala Harris seeks a running mate for US election
+
+date: 2024-07-30, from: Island Times
+
+<p>By North America correspondent&#160;Barbara Miller&#160;in Washington DC&#160; (ABC-Australia) She&#8217;s already got the Clintons, the Obamas and other party bigwigs behind her, and within the space of a week, US Vice-President Kamala Harris is off and running in her bid to become America&#8217;s first female leader. Now, Joe Biden&#8217;s number two needs her own deputy, and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/a-surprise-veepstakes-excites-the-democratic-party-as-kamala-harris-seeks-a-running-mate-for-us-election/">A surprise veepstakes excites the Democratic Party, as Kamala Harris seeks a running mate for US election</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/a-surprise-veepstakes-excites-the-democratic-party-as-kamala-harris-seeks-a-running-mate-for-us-election/>
+
+---
+
+## The Pacific Island athletes at the Paris Olympics and when you can watch them
+
+date: 2024-07-30, from: Island Times
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71512" data-permalink="https://islandtimes.org/the-pacific-island-athletes-at-the-paris-olympics-and-when-you-can-watch-them/palau-team-at-paris-olympics/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?fit=1080%2C1440&amp;ssl=1" data-orig-size="1080,1440" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Palau Team at Paris Olympics" data-image-description="" data-image-caption="&lt;p&gt;Jion Hosei , Yuri Hosei  and Sydney Francisco, Palau Olympians in  the 2024 Paris Olympics. (Photo credit:  Palau NOC)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?fit=768%2C1024&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By Penina Momoisea https://https://www.abc.net.au/pacific/olympic-games-2024-pacific-athletes-in-paris/104140220 (ABC-Australia) The 2024 Paris Olympic Games will officially begin with Saturday morning&#8217;s opening ceremony, although some athletes, including the rugby sevens, have already taken to the field. There are plenty of Pasifika athletes representing their countries and cultures in Paris – here&#8217;s an alphabetical list of those competing, the flag bearers [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-pacific-island-athletes-at-the-paris-olympics-and-when-you-can-watch-them/">The Pacific Island athletes at the Paris Olympics and when you can watch them</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/the-pacific-island-athletes-at-the-paris-olympics-and-when-you-can-watch-them/>
+
+---
+
+## Vanuatu fights for marine protection at pivotal UN deep-sea mining meeting 
+
+date: 2024-07-30, from: Pacific Island Times
+
+Battle for top job at International Seabed Authority could determine future of environmental regulations By Stephen Wright... 
+
+<https://www.pacificislandtimes.com/post/vanuatu-fights-for-marine-protection-at-pivotal-un-deep-sea-mining-meeting>
+
+---
+
+## Tax hike for Maui short-term rentals, UHERO blog suggests
+
+date: 2024-07-30, from: University of Hawaiʻi News
+
+<p>This approach parallels a policy solution that a growing number of cities have used to try and address housing shortages: levying higher taxes on vacant housing units.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/29/maui-short-term-rental-uhero-blog/">Tax hike for Maui short-term rentals, <abbr>UHERO</abbr> blog suggests</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/29/maui-short-term-rental-uhero-blog/>
+
+---
+
+## 4 Vulcans named Cobalt Golf All-America Scholars
+
+date: 2024-07-30, from: University of Hawaiʻi News
+
+<p>Nicholas Gomez, Junsu Im, Jordan Sato and Jacob Torres averaged under 78.0 and achieved a cumulative <abbr title="grade point average">GPA</abbr> of 3.2 or higher.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/29/4-vulcans-named-cobalt-golf-all-america-scholars/">4 Vulcans named Cobalt Golf All-America Scholars</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/29/4-vulcans-named-cobalt-golf-all-america-scholars/>
+
+---
+
+## Schager selected to Maxwell Award watch list
+
+date: 2024-07-29, from: University of Hawaiʻi News
+
+<p>Last season, <abbr>UH</abbr> Mānoa quarterback Brayden Schager led the Mountain West in passing yards, touchdown passes and points responsible for.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/29/schager-maxwell-award-watch-list/">Schager selected to Maxwell Award watch list</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/29/schager-maxwell-award-watch-list/>
+
+---
+
+## Hawaiʻi Keiki’s Maui providers honored for wildfire response
+
+date: 2024-07-29, from: University of Hawaiʻi News
+
+<p>The team provided care through shelters, telehealth, partnerships and emotional support activities.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/29/hawaii-keiki-maui-team-award/">Hawaiʻi Keiki’s Maui providers honored for wildfire response</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/29/hawaii-keiki-maui-team-award/>
+
+---
+
+## Anti-fraud measures sought to protect billions of investments in Guam and other Pacific island areas
+
+date: 2024-07-29, from: Pacific Island Times
+
+By Ron Rocky Coloma Guam Del James C. Moylan, Hawaii Rep. Ed Case and CNMI Rep. Gregorio Sablan wrote to Inspector General Robert Storch,... 
+
+<https://www.pacificislandtimes.com/post/anti-fraud-measures-sought-to-protect-billions-of-investments-in-guam-and-other-pacific-island-areas>
+
+---
+
+## She Will Not Stir
+
+date: 2024-07-29, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Elina Kumra Rapid tweets across the valleys of the Kashmir, where murmurs grow to roars, quelled by fog — the hourglass frozen for the lost child on the lonely path. Longing to chronicle the rape red-hot incident, the cast-off &#8230; <a href="https://hawaiipacificreview.org/2024/07/29/she-will-not-stir/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/07/29/she-will-not-stir/>
+
+---
+
+## Native Hawaiians face higher rates of accelerated biological aging, UH study finds
+
+date: 2024-07-29, from: University of Hawaiʻi News
+
+<p>Biological aging refers to the gradual deterioration of cellular and physiological functions over time.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/29/biological-aging-study/">Native Hawaiians face higher rates of accelerated biological aging, <abbr>UH</abbr> study finds</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/29/biological-aging-study/>
 
 ---
 
@@ -210,6 +783,30 @@ date: 2024-07-29, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/07/29/nation-world-news/italys-meloni-vows-to-relaunch-cooperation-with-china/>
+
+---
+
+## Police ID suspect in Dana Ireland murder case
+
+date: 2024-07-29, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Island police have announced the identification of a suspect via DNA evidence in the 1991 murder of Dana Ireland.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/29/hawaii-news/police-id-suspect-in-dana-ireland-murder-case/>
+
+---
+
+## Several earthquakes shake the Big Island; Kilauea not erupting
+
+date: 2024-07-29, from: Hawaii Tribune Harold
+
+
+				<p>Several minor earthquakes rattled the Big Island this morning.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/29/hawaii-news/several-earthquakes-shake-the-big-island-kilauea-not-erupting/>
 
 ---
 

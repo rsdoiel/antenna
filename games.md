@@ -1,11 +1,111 @@
 ---
 title: games 2024.31
-updated: 2024-07-29 07:29:26
+updated: 2024-07-30 08:05:27
 ---
 
 # games 2024.31
 
-(date: 2024-07-29 07:29:26)
+(date: 2024-07-30 08:05:27)
+
+---
+
+## Earth Defense Force 6 is the perfect podcast game
+
+date: 2024-07-30, updated: 2024-07-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24206444/earth-defense-force-6-impressions-podcast-game>
+
+---
+
+## Elden Ring update makes useless spells useful, fixes a major UI problem
+
+date: 2024-07-30, updated: 2024-07-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24209497/elden-ring-patch-july-30-version-113-from-software>
+
+---
+
+## Gen Con 2024: The best new board games, card games, and tabletop RPGs
+
+date: 2024-07-30, updated: 2024-07-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24209479/gen-con-2024-the-best-new-board-games-card-games-and-tabletop-rpgs>
+
+---
+
+## Netflix’s live-action anime and manga adaptations, ranked
+
+date: 2024-07-30, updated: 2024-07-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/entertainment/24031888/netflixs-live-action-anime-manga-adaptations-ranked>
+
+---
+
+## Undaunted 2200: Callisto, a bold change for the acclaimed board game series
+
+date: 2024-07-30, updated: 2024-07-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24203797/undaunted-2200-callisto-preview-gen-con-2024>
+
+---
+
+## Can Togedemaru be shiny in Pokémon Go?
+
+date: 2024-07-30, updated: 2024-07-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24208974/can-togedemaru-be-shiny>
+
+---
+
+## What is the Destiny 2 raid and dungeon rotation this week?
+
+date: 2024-07-29, updated: 2024-07-29, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule>
+
+---
+
+## The best gaming laptops
+
+date: 2024-07-29, updated: 2024-07-29, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/what-to-buy/23773912/best-gaming-laptop>
+
+---
+
+## Here’s why people think fictional vampire Lestat de Lioncourt is feuding with Taylor Swift
+
+date: 2024-07-29, updated: 2024-07-29, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24208936/lestat-interview-vampire-taylor-swift-feud>
+
+---
+
+## Gamers mourn Xbox 360 after digital store shutdown
+
+date: 2024-07-29, updated: 2024-07-29, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24209001/xbox-360-store-shutdown-rip>
 
 ---
 

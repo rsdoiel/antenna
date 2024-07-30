@@ -1,11 +1,351 @@
 ---
 title: columns 2024.31
-updated: 2024-07-29 07:29:25
+updated: 2024-07-30 08:05:26
 ---
 
 # columns 2024.31
 
-(date: 2024-07-29 07:29:25)
+(date: 2024-07-30 08:05:26)
+
+---
+
+##  Germans are installing &#8220;plug-and-play&#8221; solar panels to feed energy back to the... 
+
+date: 2024-07-30, updated: 2024-07-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045031-germans-are-installing-pl>
+
+---
+
+## Fixing curl install failures with Ansible on Red Hat-derivative OSes
+
+date: 2024-07-30, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Fixing curl install failures with Ansible on Red Hat-derivative OSes</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Over the past few months, I've noticed some of my automation failing on Red Hat-derivative OSes like Rocky Linux and AlmaLinux. The reason for this has to do with the inclusion of a <code>curl-minimal</code> package in some distros, which conflicts with <code>curl</code> if you try installing the full package.</p>
+
+<p>Unfortunately, the fix for this is a little strange, and so only ends up in Ansible's <a href="https://docs.ansible.com/ansible/latest/collections/ansible/builtin/dnf_module.html">dnf</a> module, not in the more cross-compatible <a href="https://docs.ansible.com/ansible/latest/collections/ansible/builtin/package_module.html">package</a> module.</p>
+
+<p>The error I was seeing is like:</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-07-30T09:40:50-05:00" title="Tuesday, July 30, 2024 - 09:40" class="datetime">July 30, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/fixing-curl-install-failures-ansible-on-red-hat-derivative-oses>
+
+---
+
+## Hacking Pi firmware to get the fastest overclock
+
+date: 2024-07-30, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Hacking Pi firmware to get the fastest overclock</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-5-smoky-overclock.jpeg" alt="Raspberry Pi 5 with dry ice smoke surrounding it"></p>
+
+<p>Since boosting my Pi 5 from the default 2.4 GHz clock to <a href="https://www.jeffgeerling.com/blog/2024/raspberry-pi-5-can-overclock-314-ghz">3.14 GHz on Pi Day</a>, I've wanted to go faster. Especially since many other users have topped my Geekbench scores since then :)</p>
+
+<p>In March, Raspberry Pi introduced new firmware that unlocked frequencies above 3,000 MHz for overclocking. This summer, <a href="https://www.jeffgeerling.com/blog/2024/numa-emulation-speeds-pi-5-and-other-improvements">NUMA Emulation patches</a> boosted performance another 5-10% through memory access optimizations.</p>
+
+<p>But even with a <a href="https://www.reddit.com/r/overclocking/comments/3d1y4j/comment/ct1sk4e/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button">golden sample</a> Pi 5, I haven't seen anybody go much beyond 3.1 or 3.2 GHz. The problem seemed to be power supply—the Pi's firmware limits the SoC to a maximum of 1.000V.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-07-30T09:02:57-05:00" title="Tuesday, July 30, 2024 - 09:02" class="datetime">July 30, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/hacking-pi-firmware-get-fastest-overclock>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-30, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/18/patrioticKitty.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Like 193K others I tuned into <a href="https://apnews.com/article/harris-supporters-by-ethnic-background-white-dudes-b474af62f6b225c71cde16be7e9eb077">White Dudes For Harris</a> last night. Please, let that be the last time we do that. I felt like it might as well have been <i>Slave Owners for Harris</i> or <i>Reformed Republicans for Harris.</i> I don't have anything against people of my gender and approximate race, but I also am a child of Holocaust survivors, and I happen to be one of the elites the Repubs claim to hate, and also am one of at least two castes that Democrats tend to blame for all our problems (other than White Dudes). I think we've done enough segregation for one campaign, now please please I beg you, let's <i>work together,</i> regardless of labels, to save the country we all love. I have a philosophy, I don't care how you got to the party, if you took a subway, walked, rode a bike, or came by Uber or a Cadillac limousine. We all got here, and have a common purpose, so lets all love each other and party our way to victory. Regardless of race, creed, color or whatever. 
+
+<http://scripting.com/2024/07/30.html#a123918>
+
+---
+
+## Gist of Go: Wait groups
+
+date: 2024-07-30, from: Anton Zhiyanov blog
+
+Waiting for goroutines to finish. 
+
+<https://antonz.org/go-concurrency/wait-groups/>
+
+---
+
+## Providing Security Updates to Automobile Software
+
+date: 2024-07-30, updated: 2024-07-30, from: Bruce Schneier blog
+
+<p>Auto manufacturers are <a href="https://www.wired.com/story/cars-are-now-rolling-computers-so-how-long-will-they-get-updates-automakers-cant-say/">just starting to realize</a> the problems of supporting the software in older models:</p>
+<blockquote><p>Today’s phones are able to receive updates six to eight years after their purchase date. Samsung and Google provide Android OS updates and security updates for seven years. Apple <a href="https://support.apple.com/en-us/102772">halts servicing</a> products seven years after they stop selling them.</p>
+<p>That might not cut it in the auto world, where the average age of cars on US roads is only going up. A <a href="https://www.spglobal.com/mobility/en/research-analysis/average-age-vehicles-united-states-2024.html">recent report</a> found that cars and trucks just reached a new record average age of 12.6 years, up two months from 2023. That means the car software hitting the road today needs to work­&#8212;and maybe even improve&#8212;­beyond 2036. The average length of smartphone ownership is just ...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/07/providing-security-updates-to-automobile-software.html>
+
+---
+
+## Gist of Go: Goroutines
+
+date: 2024-07-30, from: Anton Zhiyanov blog
+
+Let's write a concurrent program in Go! 
+
+<https://antonz.org/go-concurrency/goroutines/>
+
+---
+
+## Gist of Go: Concurrency
+
+date: 2024-07-30, from: Anton Zhiyanov blog
+
+Interactive book on concurrent programming with many exercises. 
+
+<https://antonz.org/go-concurrency/>
+
+---
+
+## 2024-07-30 Fight On! Magazine #15
+
+date: 2024-07-30, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-30-fight-on-magazine-15">2024-07-30 Fight On! Magazine <a class="tag" href="/search/?q=%2315">#15</a></h1>
+
+<p>Pretty amazing news:</p>
+
+<blockquote>
+<p>After ten long years we are back to <em>Fight On!</em> once more!</p>
+</blockquote>
+
+<p>And it includes the <a href="Caverns_of_Slime">Caverns of Slime</a>! So now there&rsquo;s a way to get them in <a href="http://www.lulu.com/shop/ignatius-umlaut/fight-on-15/paperback/product-65qpr2w.html">print</a> and <a href="http://www.lulu.com/shop/ignatius-umlaut/fight-on-15-pdf-edition/ebook/product-84kg7gz.html">PDF</a>, together with a lot of other good stuff.</p>
+
+<p>Table of Contents:</p>
+
+<ul>
+<li>Ten Ways to Holmesify your Game (Zach Howard) 3</li>
+<li>Special Ability Charts (Attronarch) 4</li>
+<li>The Orthogonal Dwarf (Olle Skogren) 11</li>
+<li>Gremlins! (Calithena) 14</li>
+<li>Maze Master’s Miscellany (Alex Schroder &amp; Cal) 15</li>
+<li>The Catacombs under Old Samora (Philipp H.) 17</li>
+<li>Knights &amp; Knaves: Holmes Town Heroes (Tony A. Rowe) 28</li>
+<li>Bringing It All Back Holmes (Clark/Grodog/Cal) 30</li>
+<li>Maps from the Maze of Peril (J. Eric Holmes) 34</li>
+<li>Distributary of Darkness (Alex Zisch) 36</li>
+<li>The Silken See (Motley Dice) 37</li>
+<li>Grognard’s Grimoire (Richard Rittenhouse) 41</li>
+<li>The Wizard’s Satchel (J. Blasso-Gieseke) 43</li>
+<li>Artifacts, Adjuncts, and Oddments (Rittenhouse) 44</li>
+<li>Victory or Death! (Gabor Lux) 46</li>
+<li>Megadungeon Workshop Extravaganza! (Kesher) 50</li>
+<li>Calvero! (István Boldog-Bernád) 53</li>
+<li>Creepies &amp; Crawlies (James Maliszewski) 61</li>
+<li>Tables for Fables (Al, Greco, Wetzel, and Rients) 63</li>
+<li>The Darkness Beneath (Alex Schroder &amp; Lior Wehrli) 68</li>
+<li>Henchmen-Я-Us: Pole Arm Caddies! (Calithena) 91</li>
+<li>Chainmail: Battle for Bronzolo (Settembrini) 92</li>
+<li>Doxy, Urgent Care Cleric (Linneman &amp; Green) 98</li>
+<li>Education of a Magic User (Douglas Cox) 99</li>
+<li>Wham! (Tom Gordon) 100</li>
+</ul>
+
+<p>Front cover by Tom Gordon (facebook.com/tgordo). Back cover by Mitzi! Fight On! logo by Jeff Rients. J. Eric Holmes photo by Steve Pyryezstov. Images by Germille (2), Cameron Hawkey (cameronhawkey.com; 3, 25, 29, 33, 40, 92, 97), Allan T. Grohe Jr. (greyhawkonline.com/grodog; 6), Peter Mullen (instagram.com/pmullenillustrations; 10, 40), J. Blasso-Gieseke (charybdispress.com; 11, 64), Micheal Russell (12, 94), Black Blade Publishing (facebook.com/blackbladepublishing; 14, 49), Patrick Farley (15, retro 16, 67), Philipp H. (18), Philipp Knopp (21, 22), Gabor Lux (beyondfomalhaut.blogspot.com; 27), Justin Russell (32), Jean-Francois Beaulieu (32), Chris Holmes (33), J. Eric Holmes (34, 35), Alex Zisch (36, 44), Motley Dice (motleydice.net; 37, 38, 39), Ed Heil (edheil@fastmail.fm; 38), John Tenniel (40), Mac Teg (macteg.com, 45, 63), Raymond Perry (46, 47), The Antique Alumni (47, 48), Pacesetter Games (pacesettergames.com; 49), The Dead Victorians (54, 55, 56, 58), István Boldog-Bernád (57, 59), Jason Sholtis (roll1d12@blogspot.com; 61, 62), Zhu Bajiee (realmofzhu@blogspot.com; 61. 62, 63), Robert S. Conley (68), Ndege Diamond (70,80), Alex Schroder (71, 79, 81), Kelvin Green (kelvingreen.blogspot.com; 82, 91, 98), Anthony Stiller (83), Niel-Jan Que (89), Settembrini (93) Knights &amp; Knaves and Creepies &amp; Crawlies logos by Lee Barber. Tables for Fables logo derived from one by Age of Fable.</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%23Fight_On">#Fight On</a> <a class="tag" href="/search/?q=%23Caverns_of_Slime">#Caverns of Slime</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-30-fight-on>
+
+---
+
+## Kamala and the politics of joy
+
+date: 2024-07-30, from: Robert Reich's blog
+
+Versus Trump&#8217;s politics of grimness 
+
+<https://robertreich.substack.com/p/kamala-and-the-politics-of-joy>
+
+---
+
+## July 29, 2024
+
+date: 2024-07-30, from: Heather Cox Richardson blog
+
+One of the advantages of refusing the Democratic nomination for president is that his decision to do that has left President Joe Biden in the position of being above the political fray and being able to act for the good of the whole country. 
+
+<https://heathercoxrichardson.substack.com/p/july-29-2024>
+
+---
+
+## Election Countdown, 99 Days to Go: Who Is Tim Walz?
+
+date: 2024-07-30, from: James Fallows, Substack
+
+A governor, a six-term Congressman, a National Guard artillery specialist, a school teacher for 20 years&#8212;and a geographer. A speech that will introduce you to him, and that contains surprises. 
+
+<https://fallows.substack.com/p/election-countdown-99-days-to-go>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-30, from: Dave Winer's Scripting News)
+
+Like <a href="https://en.wikipedia.org/wiki/Cholesterol">cholesterol</a>, there's "good weird" and "bad weird." I <a href="https://www.threads.net/@davew/post/C-AoGfspfFB">think</a> we all know which kind of <a href="https://www.salon.com/2024/07/29/old-and-quite-weird-democrats-finally-discover-new-effective--and-hate-it/">weird</a> the Repubs are. 
+
+<http://scripting.com/2024/07/29.html#a004743>
+
+---
+
+## Apple Intelligence Hits Beta With New Beta OS Releases for iOS 18.1, iPadOS 18.1, and MacOS 15.1 Sequoia
+
+date: 2024-07-29, updated: 2024-07-29, from: Daring Fireball
+
+ 
+
+<https://sixcolors.com/post/2024/07/new-betas-for-ios-18-1-ipados-18-1-and-macos-sequoia-bring-some-apple-intelligence-features/>
+
+---
+
+## Pretty things I saw in Bellingham
+
+date: 2024-07-29, from: Tracy Durnell Blog
+
+A couple friends and I day-tripped up to Bellingham, a small coastal city near the Canadian border, over the weekend. I went to college there, but haven&#8217;t been back in ages, and my friends had never been before. We explored around downtown and the Fairhaven neighborhood, ate a lot of food, and soaked up the [&#8230;] 
+
+<https://tracydurnell.com/2024/07/29/pretty-things-i-saw-in-bellingham/>
+
+---
+
+## Learning your own learning process
+
+date: 2024-07-29, from: Tracy Durnell Blog
+
+I love Nick Zentner&#8217;s videos because he&#8217;s so good at describing his thinking, especially what he is looking at and why. He pulls in reference resources, learning from others even as he makes that learning his own. Borrowing someone else&#8217;s notes really doesn&#8217;t help because it&#8217;s the taking of the notes that matters &#8212; we [&#8230;] 
+
+<https://tracydurnell.com/2024/07/29/learning-your-own-learning-process/>
+
+---
+
+##  Drum Beat Typography 
+
+date: 2024-07-29, updated: 2024-07-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/drum-beat-typography>
+
+---
+
+## Computation: Math and the Church-Turing Thesis
+
+date: 2024-07-29, updated: 2024-07-29, from: Ron Garret
+
+(Part 9 in a series on the scientific method)In the last installment of this series I addressed a philosophical question: what does it mean for a mathematical statement to be true?&nbsp; I tackled this in the context of a general definition of scientific truth, namely, that a statement is true if it corresponds on some way to the actual state of affairs in objective reality.(Note that this 
+
+<https://blog.rongarret.info/2024/07/computation-math-and-church-turing.html>
+
+---
+
+##  Ran across this hilariously nonsensical gymnastics commentary by Joe Tracini this morning... 
+
+date: 2024-07-29, updated: 2024-07-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045030-ran-across-this-hilarious>
+
+---
+
+## Freedom
+
+date: 2024-07-29, from: Dan Rather's Steady
+
+A Campaign Theme with a Double Meaning 
+
+<https://steady.substack.com/p/freedom>
+
+---
+
+##  Parker or Driver? 
+
+date: 2024-07-29, updated: 2024-07-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/parker-or-driver>
+
+---
+
+##  How Democracy Happens: First Gradually and Then Suddenly 
+
+date: 2024-07-29, updated: 2024-07-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/how-democracy-happens-first-gradually-and-then-suddenly>
+
+---
+
+## $1000 UBI financial experiment
+
+date: 2024-07-29, from: Tracy Durnell Blog
+
+Cash is one important piece of the puzzle. The impact may be limited without other resources like health care and child care. &#160; See also: Trust people to know what they need &#8220;UBI&#8221; experiment in Tacoma UBI is a society-level failsafe for its people A better dream 
+
+<https://tracydurnell.com/2024/07/29/1000-ubi-financial-experiment/>
+
+---
+
+## July 28, 2024
+
+date: 2024-07-29, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/july-28-2024-040>
+
+---
+
+##  Lithub: The Republicans&#8217; Project 2025 is disastrous for books. &#8220;Project 2025 is... 
+
+date: 2024-07-29, updated: 2024-07-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045026-lithub-the-republicans-pr>
+
+---
+
+##  10 settings to tweak to increase iPhone battery life, including turning off... 
+
+date: 2024-07-29, updated: 2024-07-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045001-10-settings-to-tweak-to>
+
+---
+
+##  WWW: The Way We Were 
+
+date: 2024-07-29, updated: 2024-07-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/www-the-way-we-were-1>
+
+---
+
+##  Margaret Sullivan: &#8220;I urge news decision-makers to take Trump&#8217;s authoritarian desires very... 
+
+date: 2024-07-29, updated: 2024-07-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045024-margaret-sullivan-i-urge->
 
 ---
 
@@ -21,7 +361,7 @@ date: 2024-07-29, updated: 2024-07-29, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-07-29, from: Dave Winer's Scripting News)
 
-Here's a <a href="https://imgs.scripting.com/2024/07/29/twowaysofsupport.png">perfect illustration</a> how ChatGPT can improve customer relations. I bought an iPhone that I now don't need, and it's arriving today via FedEx. I wanted to know whether I should just refuse delivery, or accept it and then return it. Obviously it's easier for me to refuse. I asked ChatGPT and it gave me a detailed reply. Apple's chatbot saw it as a "technical" question and wasn't prepared to help. Sales support is one of those applications where cost is totally justified. A human helper would cost a lot more I imagine than a LLM chat system. I tried calling 1-800-CALL-APPLE and talked to a human who was very nice, but couldn't find anything in her manual about refusing delivery. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/01/21/handmaidsAndMan.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Here's a <a href="https://imgs.scripting.com/2024/07/29/twowaysofsupport.png">perfect illustration</a> how ChatGPT can improve customer relations. I bought an iPhone that I now don't need, and it's arriving today via FedEx. I wanted to know whether I should just refuse delivery, or accept it and then return it. Obviously it's easier for me to refuse. I asked ChatGPT and it gave me a detailed reply. Apple's chatbot saw it as a "technical" question and wasn't prepared to help. Sales support is one of those applications where cost is totally justified. A human helper would cost a lot more I imagine than a LLM chat system. I tried calling 1-800-CALL-APPLE and talked to a human who was very nice, but couldn't find anything in her manual about refusing delivery. 
 
 <http://scripting.com/2024/07/29.html#a140845>
 
