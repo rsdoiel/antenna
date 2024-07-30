@@ -1,15 +1,49 @@
 ---
 title: going electric 2024.31
-updated: 2024-07-30 08:05:30
+updated: 2024-07-30 10:04:42
 ---
 
 # going electric 2024.31
 
-(date: 2024-07-30 08:05:30)
+(date: 2024-07-30 10:04:42)
 
 ---
 
-## Tesla Will Finally Show Off "Flying" Next-Gen Roadster In 2025: Musk
+## This City Has The First Fully Electric Police Fleet In The U.S.
+
+date: 2024-07-30, from: Inside EVs News
+
+With the switch to all-electric, the City of South Pasadena is projecting cost savings of about $400,000 over ten years. 
+
+<https://insideevs.com/news/728326/south-pasadena-first-full-ev-police-fleet/>
+
+---
+
+## Ford’s low-cost EV platform could spawn electric Fiesta and Focus models
+
+date: 2024-07-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Fords-EV-platform-focus.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford is officially shifting gears to focus on smaller, more affordable electric cars. CEO Jim Farley emphasized <a href="https://electrek.co/guides/ford/">Ford’s</a> (not-so-secret) low-cost EV platform is progressing in Long Beach as former Tesla, Rivian, Lucid, and Apple execs aim to develop some of the world’s most efficient electric cars. With a focus on affordability, Ford’s EV platform opens the door for electric Focus and Fiesta successors.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-focus-electric" data-layer-viewtype="unknown" data-post-id="373832" href="https://electrek.co/2024/07/30/fords-new-ev-platform-spawn-electric-fiesta-focus-models/#more-373832" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/30/fords-new-ev-platform-spawn-electric-fiesta-focus-models/>
+
+---
+
+## GMC Sierra Denali EV Lease Price Is Shockingly High
+
+date: 2024-07-30, from: Inside EVs News
+
+It's nearly twice the price of a Hummer EV. 
+
+<https://insideevs.com/news/727926/gmc-sierra-ev-lease-price-high/>
+
+---
+
+## Tesla Will Finally Show Off 'Flying' Next-Gen Roadster In 2025: Musk
 
 date: 2024-07-30, from: Inside EVs News
 

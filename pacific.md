@@ -1,11 +1,111 @@
 ---
 title: pacific 2024.31
-updated: 2024-07-30 08:05:23
+updated: 2024-07-30 10:04:37
 ---
 
 # pacific 2024.31
 
-(date: 2024-07-30 08:05:23)
+(date: 2024-07-30 10:04:37)
+
+---
+
+## Worldwide web of corruption
+
+date: 2024-07-30, updated: 2024-07-30, from: Marianas Variety
+
+FACEBOOK, Messenger and other big organizations and corporations think they are powerful. These include the pharmaceuticals in Seattle, Oregon and California that continue to exploit homeless people and drug addicts. 
+
+<https://www.mvariety.com/views/letters_to_editor/worldwide-web-of-corruption/article_15893c06-4e8f-11ef-b566-57895bcb36dd.html>
+
+---
+
+## New step aerobics class at Gold's Gym
+
+date: 2024-07-30, updated: 2024-07-30, from: Marianas Variety
+
+GOLD’S Gym fitness instructor JP Camacho is inviting the public to join the step aerobics class that he teaches on Fridays. 
+
+<https://www.mvariety.com/lifestyle/new-step-aerobics-class-at-golds-gym/article_3f922430-4e36-11ef-acc1-533db444e5a4.html>
+
+---
+
+## Good luck!
+
+date: 2024-07-30, updated: 2024-07-30, from: Marianas Variety
+
+Filomenaleonisa Iakopo, representing American Samoa, poses for a photo shortly after arriving at the venue of the Olympic Games in Paris, France. 
+
+<https://www.mvariety.com/sports/localsports/good-luck/article_11865eda-4e86-11ef-a112-57c46b7eb393.html>
+
+---
+
+## Trump launches ad blitz to try to slow Harris surge
+
+date: 2024-07-30, updated: 2024-07-30, from: Marianas Variety
+
+WASHINGTON (Reuters) — Republican presidential candidate Donald Trump's campaign will launch a $10 million advertising blitz in six battleground states this week as it tries to counter a surge of voter enthusiasm and donations for his Democratic rival Kamala Harris. 
+
+<https://www.mvariety.com/news/national/trump-launches-ad-blitz-to-try-to-slow-harris-surge/article_e07506c2-4e83-11ef-b1f6-2fc9877b9aab.html>
+
+---
+
+## MLB roundup: Royals send White Sox to 15th straight loss
+
+date: 2024-07-30, updated: 2024-07-30, from: Marianas Variety
+
+(Reuters) — Bobby Witt Jr. went 4-for-5 and drilled a go-ahead grand slam in the eighth inning as the visiting Kansas City Royals defeated the White Sox 8-5 on Monday, sending Chicago to a single-season, franchise-record 15th straight loss. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-royals-send-white-sox-to-15th-straight-loss/article_56f3a4ec-4e85-11ef-a1e5-eb0b573aec0a.html>
+
+---
+
+## Anti-Maduro protests spread as Venezuelan opposition says he stole vote
+
+date: 2024-07-30, updated: 2024-07-30, from: Marianas Variety
+
+CARACAS (Reuters) — Opponents and supporters of Venezuela's President Nicolas Maduro planned to rally on Tuesday as protests and clashes spread after a weekend election was awarded to the long-ruling socialist despite opposition claims of a landslide victory. 
+
+<https://www.mvariety.com/news/regional_world/anti-maduro-protests-spread-as-venezuelan-opposition-says-he-stole-vote/article_7efcdba4-4e83-11ef-a1f8-734f3dadacc1.html>
+
+---
+
+## Falcons rout White Sox, clinch pennant
+
+date: 2024-07-30, updated: 2024-07-30, from: Marianas Variety
+
+THE Falcons secured the no.1 spot going into the playoffs of the 2024 Tan Holdings Saipan Baseball League, and claimed the pennant after trouncing the White Sox, 14-3, at the Francisco “Tan Ko” Palacios Baseball Field on Monday. 
+
+<https://www.mvariety.com/sports/localsports/falcons-rout-white-sox-clinch-pennant/article_5087f660-4e87-11ef-8ca6-8f0f23e0aaa3.html>
+
+---
+
+## Fuel Adjustment Charge remains the same for August: CUC
+
+date: 2024-07-30, updated: 2024-07-30, from: Marianas Variety
+
+(CUC) — The Commonwealth Utilities Corporation announces that the Fuel Adjustment Charge remains the same at $0.24173 per kWh for the month of August.  Although there has been a slight increase in the average fuel oil prices, the increase did not equal or exceed a 4.5% differential of the average per gallon cost of fuel. 
+
+<https://www.mvariety.com/news/local/fuel-adjustment-charge-remains-the-same-for-august-cuc/article_dc15e96a-4e5c-11ef-b9c7-876edfc71b3f.html>
+
+---
+
+## Governor resubmits Farrell, Maratita nominations
+
+date: 2024-07-30, updated: 2024-07-30, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios on Friday resubmitted his nominations of Richard Dela Cruz Farrell to the Civil Service Commission and Dwayne L. Maratita to the Marianas Visitors Authority board. 
+
+<https://www.mvariety.com/news/local/governor-resubmits-farrell-maratita-nominations/article_101ec1ca-4e42-11ef-93bd-eb38d0c909c7.html>
+
+---
+
+## Students explore educational career pathways with Teacher Academy Summer Program
+
+date: 2024-07-30, updated: 2024-07-30, from: Marianas Variety
+
+(NMC) —  Northern Marianas College’s Community Development Institute and School of Education, in partnership with the Public School System Career and Technical Education Program, recently hosted the 2024 cohort of the Teacher Academy Summer Program or TASP. 
+
+<https://www.mvariety.com/news/community_bulletins/students-explore-educational-career-pathways-with-teacher-academy-summer-program/article_f2d55e5a-4e3a-11ef-b66d-abbf92e60c43.html>
 
 ---
 

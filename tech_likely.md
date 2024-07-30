@@ -1,11 +1,91 @@
 ---
 title: tech likely 2024.31
-updated: 2024-07-30 08:05:25
+updated: 2024-07-30 10:04:38
 ---
 
 # tech likely 2024.31
 
-(date: 2024-07-30 08:05:25)
+(date: 2024-07-30 10:04:38)
+
+---
+
+## Optimizing the Number Row and Numpad Layouts
+
+date: 2024-07-30, from: Tilde.news
+
+<p><a href="https://tilde.news/s/zkiscv/optimizing_number_row_numpad_layouts">Comments</a></p> 
+
+<https://old.reddit.com/r/KeyboardLayouts/comments/j4vt1s/optimizing_the_number_row_essay_script/>
+
+---
+
+## Improving Open Library’s Translation Pipeline
+
+date: 2024-07-30, from: Open Library Blog
+
+A forward by Drini CamiDrini Cami here, Open Library staff developer. It&#8217;s my pleasure to introduce Rebecca Shoptaw, a 2024 Open Library Engineering Fellow, to the Open Library blog in her first blog post. Rebecca began volunteering with us a few months ago and has already made many great improvements to Open Library. I&#8217;ve had [&#8230;] 
+
+<https://blog.openlibrary.org/2024/07/30/improving-open-librarys-translation-pipeline/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-30, from: Miguel de Icaza Mastondon feed)
+
+<p>With 208,000 pictures I suspect I am not going to get to play with this new feature any time soon:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112876380763612814>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-30, from: Dave Winer's Scripting News)
+
+The <a href="https://this.how/podcast0/">Podcast0</a> project is teaching me how to read the archive of my own blog. Until now I had not carefully read the story I tell on my blog more than a few days after it happened. Here's I'm learning to reconstruct the summer of 2004, one of the most creative periods of my life, at least that's viewable in such a public and preserved way. Am I the first to do this for any blog? If you know of an example of historic research done using the archive of a blog, please send me a note. I'd love to learn about what you learned! Also because of its longevity and continuity, I offer <a href="http://scripting.com/2024/07/25.html">this blog</a> as some kind of record of what happened in the last 30 years or so. I see it as a complete work of writing, a kind of <a href="https://en.wikipedia.org/wiki/Fresco">fresco</a> writing. 
+
+<http://scripting.com/2024/07/30.html#a155728>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-30, from: Dave Winer's Scripting News)
+
+I said on <a href="http://scripting.com/2024/07/25.html">Thursday</a> that Biden's speech last Wednesday had the potential to be a <a href="https://en.wikipedia.org/wiki/Gettysburg_Address">Gettysburg</a> address, if it the United States turns back toward democracy and government of the people, by the people and for the people. Biden has the potential of being as great a president as Lincoln. Let that settle in for a moment. I get goosebumps when I think about it. If he hadn't taken that stand, he could have become known as the US equivalent of <a href="https://en.wikipedia.org/wiki/Wilhelm_II#Life_in_exile">Kaiser Wilhelm</a>. 
+
+<http://scripting.com/2024/07/30.html#a155257>
+
+---
+
+##  Extended Trailer for The Rings of Power Season Two 
+
+date: 2024-07-30, updated: 2024-07-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/extended-trailer-for-the-rings-of-power-season-two>
+
+---
+
+## Childless vs childful
+
+date: 2024-07-30, from: Dave Winer's Scripting News
+
+<p>Notes accumulated during the day -- not in any particular order. <span class="spOldSchoolEmoji">😄</span></p>
+<p>I asked ChatGPT what percentage of adults in the US are childless. I was shocked to find the <a href="https://chatgpt.com/share/618189a5-5446-4796-9207-9be3558c12dd">answer</a> was 56%. <a href="https://www.meta.ai/c/2975abf7-c8f5-4108-adf7-d9e230225b11">Meta.ai</a> has the same info, but breaks it down further and <a href="https://www.meta.ai/c/2975abf7-c8f5-4108-adf7-d9e230225b11">provides</a> links to its sources.</p>
+<p>I keep a solid line between my personal life and blogging, learned the hard way. When I started blogging in 1994, I didn't have such a solid line, and found that I couldn't have a personal life if I made it public. But now I want to reveal something. I am "childless" which is a term I find pretty insulting, as if being child<i>ful</i> is the only normal state of being. </p>
+<p>I find, in general childful people are not great friends or family members. They want special privileges and they often get them. If childful vs childless is going to be an issue in this campaign, I say -- bring it on. We should have this discussion. </p>
+<p>I'm often tempted to offer advice to the parents, but I won't offer it unless asked, except this. If you have children, there's a good chance one or more of them will not have children, and you should love them the same, and provide models of acceptance while they're growing up, by bringing childless people into your home, so the kids know that this is one of the legitimate choices in life, offering proof that you won't love them any less if they go down that path. And here's the hard part, imho, for people with children -- <i>keep that promise. </i></p>
+<p>BTW, people say it's seflish to not have children, but I don't agree, in fact I think it's the opposite. There was a point in human evolution where the struggle to survive for our species was fed by procreation, but some time in the last hundred years we crossed a line, where increasing human population worked against species survival. Our understanding of the meaning of procreating, like so much else about our civilization, has not yet caught up with the current reality. </p>
+ 
+
+<http://scripting.com/2024/07/30/154518.html?title=childlessVsChildful>
+
+---
+
+## NASA’s DART Mission Sheds New Light on Target Binary Asteroid System
+
+date: 2024-07-30, from: NASA breaking news
+
+In studying data collected from NASA’s DART (Double Asteroid Redirection Test) mission, which in 2022 sent a spacecraft to intentionally collide with the asteroid moonlet Dimorphos, the mission’s science team has discovered new information on the origins of the target binary asteroid system and why the DART spacecraft was so effective in shifting Dimorphos’ orbit.  In five recently […] 
+
+<https://science.nasa.gov/missions/dart/nasas-dart-mission-sheds-new-light-on-target-binary-asteroid-system/>
 
 ---
 
@@ -179,6 +259,16 @@ Like <a href="https://en.wikipedia.org/wiki/Cholesterol">cholesterol</a>, there'
 <p>Just saw Deadpool. Absolutely loved it. No spoilers from me, but stay till the very end of the credits for the post credit scene. The bit earlier on isn't it.</p> 
 
 <https://tilde.zone/@tomasino/112872507235577567>
+
+---
+
+## "No way to prevent this" say users of only language where this regularly happens
+
+date: 2024-07-30, from: Ze Iaso's blog
+
+ 
+
+<https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-5535/>
 
 ---
 

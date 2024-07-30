@@ -1,11 +1,21 @@
 ---
 title: socal north 2024.31
-updated: 2024-07-30 08:05:22
+updated: 2024-07-30 10:04:36
 ---
 
 # socal north 2024.31
 
-(date: 2024-07-30 08:05:22)
+(date: 2024-07-30 10:04:36)
+
+---
+
+## Should LA County jail unhoused people for camping in public? Leaders to discuss
+
+date: 2024-07-30, updated: 2024-07-30, from: The LAist
+
+A motion up for approval by county supervisors calls for a regional strategy to reduce the effect of a recent Supreme Court ruling on homelessness. 
+
+<https://laist.com/news/housing-homelessness/homelessness-camping-jails-los-angeles-county-supervisors>
 
 ---
 
@@ -79,7 +89,7 @@ From her seat on the grassy hill of Janss Steps, the rising third-year mathemati
 
 date: 2024-07-28, from: The Daily Bruin (UCLA Student Newspaper)
 
-UCLA is just weeks away from joining the Big Ten. After 96 years and 123 national championships in the Pac-12, the Bruins are at the forefront of the Big Ten&#8217;s West Coast expansion. 
+UCLA is just five days away from joining the Big Ten. After 96 years and 123 national championships in the Pac-12, the Bruins are at the forefront of the Big Ten&#8217;s West Coast expansion. 
 
 <https://dailybruin.com/2024/07/28/big-ten-preview-maryland/>
 

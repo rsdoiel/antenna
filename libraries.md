@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.31
-updated: 2024-07-30 08:05:27
+updated: 2024-07-30 10:04:40
 ---
 
 # libraries 2024.31
 
-(date: 2024-07-30 08:05:27)
+(date: 2024-07-30 10:04:40)
 
 ---
 
@@ -16,6 +16,16 @@ date: 2024-08-01, from: ETH Zurich, recently added
 Freihardt, Jan 
 
 <http://hdl.handle.net/20.500.11850/677990>
+
+---
+
+## Improving Open Library’s Translation Pipeline
+
+date: 2024-07-30, from: Open Library Blog
+
+A forward by Drini CamiDrini Cami here, Open Library staff developer. It&#8217;s my pleasure to introduce Rebecca Shoptaw, a 2024 Open Library Engineering Fellow, to the Open Library blog in her first blog post. Rebecca began volunteering with us a few months ago and has already made many great improvements to Open Library. I&#8217;ve had [&#8230;] 
+
+<https://blog.openlibrary.org/2024/07/30/improving-open-librarys-translation-pipeline/>
 
 ---
 

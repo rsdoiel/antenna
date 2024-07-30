@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.31
-updated: 2024-07-30 08:05:23
+updated: 2024-07-30 10:04:37
 ---
 
 # mid central 2024.31
 
-(date: 2024-07-30 08:05:23)
+(date: 2024-07-30 10:04:37)
+
+---
+
+## Dissecting a feature-enhanced digital bathroom scale
+
+date: 2024-07-30, from: EDN Blog
+
+<img width="1400" height="1626" src="https://www.edn.com/wp-content/uploads/partial-disassembly1.jpg?fit=1400%2C1626" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/partial-disassembly1.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/partial-disassembly1.jpg?w=258 258w, https://www.edn.com/wp-content/uploads/partial-disassembly1.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/partial-disassembly1.jpg?w=882 882w, https://www.edn.com/wp-content/uploads/partial-disassembly1.jpg?w=1323 1323w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Weight! Body mass index! And body fat percentage! For multiple users! All undone by a malcontent monochrome LCD display…sigh…</p>
+<p>The post <a href="https://www.edn.com/dissecting-a-feature-enhanced-digital-bathroom-scale/" data-wpel-link="internal">Dissecting a feature-enhanced digital bathroom scale</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/dissecting-a-feature-enhanced-digital-bathroom-scale/>
 
 ---
 
@@ -23,7 +35,7 @@ date: 2024-07-29, from: City of Atwater News Releases
 
 date: 2024-07-29, from: EDN Blog
 
-<img width="732" height="506" src="https://www.edn.com/wp-content/uploads/LLC-converter-with-an-integrated-matrix-transformer_Figure1.png?fit=732%2C506" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/LLC-converter-with-an-integrated-matrix-transformer_Figure1.png?w=732 732w, https://www.edn.com/wp-content/uploads/LLC-converter-with-an-integrated-matrix-transformer_Figure1.png?w=300 300w" sizes="(max-width: 732px) 100vw, 732px" /><p>Exploring a planar transformer size and efficiency optimization algorithm for a 1 kW high-density GaN LLC power module. </p>
+<img width="732" height="506" src="https://www.edn.com/wp-content/uploads/LLC-converter-with-an-integrated-matrix-transformer_Figure1.png?fit=732%2C506" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/LLC-converter-with-an-integrated-matrix-transformer_Figure1.png?w=732 732w, https://www.edn.com/wp-content/uploads/LLC-converter-with-an-integrated-matrix-transformer_Figure1.png?w=300 300w" sizes="(max-width: 732px) 100vw, 732px" /><p>Exploring a planar transformer size and efficiency optimization algorithm for a 1 kW high-density GaN LLC power module. </p>
 <p>The post <a href="https://www.edn.com/power-tips-131-planar-transformer-size-and-efficiency-optimization-algorithm-for-a-1-kw-high-density-llc-power-module/" data-wpel-link="internal">Power Tips #131: Planar transformer size and efficiency optimization algorithm for a 1 kW high-density LLC power module</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

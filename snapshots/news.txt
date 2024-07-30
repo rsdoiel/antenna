@@ -379,6 +379,8 @@ https://bytecodealliance.org/feed.xml "~Bytecode Alliance News"
 
 https://www.brettbecker.com/feed/ "~Brett Brecker Blog (CS Prof. UCD Dublin)"
 
+http://www.aymerick.com/rss.xml "~Aymerick's blog"
+
 #
 # Hobbies
 #

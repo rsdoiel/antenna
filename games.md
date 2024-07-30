@@ -1,11 +1,71 @@
 ---
 title: games 2024.31
-updated: 2024-07-30 08:05:27
+updated: 2024-07-30 10:04:40
 ---
 
 # games 2024.31
 
-(date: 2024-07-30 08:05:27)
+(date: 2024-07-30 10:04:40)
+
+---
+
+## Br’aaxskin treasure locations in FFXIV: Dawntrail
+
+date: 2024-07-30, updated: 2024-07-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24209512/braaxskin-treasure-locations-maps-cenote-ja-gural>
+
+---
+
+## Duck Detective: The Secret Salami takes the hard-boiled detective trope and makes it quack
+
+date: 2024-07-30, updated: 2024-07-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/review/24209581/duck-detective-the-secret-salami-review>
+
+---
+
+## Here’s why you should give the Rebel Moon director’s cut an actual chance
+
+date: 2024-07-30, updated: 2024-07-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24206201/rebel-moon-director-cut-snyder-worth-it>
+
+---
+
+## Where to unlock every normal raid in FFXIV
+
+date: 2024-07-30, updated: 2024-07-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24171296/normal-raids-unlock-roulette-list-tiers-gear>
+
+---
+
+## When Robert Downey Jr. plays Doctor Doom he better keep the mask on
+
+date: 2024-07-30, updated: 2024-07-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24208774/robert-downey-jr-doctor-doom-marvel-doomsday>
+
+---
+
+## This Kingdom Hearts/Kamala Harris mashup was not on my 2024 bingo card
+
+date: 2024-07-30, updated: 2024-07-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24208938/kingdom-hearts-kamala-harris-tiktok>
 
 ---
 

@@ -1,11 +1,55 @@
 ---
 title: writing 2024.31
-updated: 2024-07-30 08:05:26
+updated: 2024-07-30 10:04:39
 ---
 
 # writing 2024.31
 
-(date: 2024-07-30 08:05:26)
+(date: 2024-07-30 10:04:39)
+
+---
+
+## What happens when your publisher licenses your work for AI training?
+
+date: 2024-07-30, from: Author's Union blog
+
+Over the last year, we’ve seen a number of major deals inked between companies like OpenAI and news publishers. In July 2023, OpenAI entered into a two-year deal with The Associated Press for ChatGPT to ingest the publisher’s news stories. In December 2023, Open AI announced its first non-US partnership to train ChatGPT on German [&#8230;] 
+
+<https://www.authorsalliance.org/2024/07/30/what-happens-when-your-publisher-licenses-your-work-for-ai-training/>
+
+---
+
+## Rituals
+
+date: 2024-07-30, from: John August blog
+
+John and Craig welcome back Megana Rao to look at rituals and what they can tell us about our characters. But what are characters doing deliberately, and what is just routine? They separate routines from rites, and how both can help deepen our understanding of characters and the threats that face them. We also follow [&#8230;]
+The post <a href="https://johnaugust.com/2024/rituals">Rituals</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/rituals>
+
+---
+
+## Russell Letson Reviews Beyond the Light Horizon by Ken MacLeod
+
+date: 2024-07-30, from: Locus Magazine
+
+<p><strong>Beyond the Light Horizon</strong>, Ken MacLeod (Orbit 978-0-356-51482-6, £10.99, 336 pp, tp) May 2024. Cover by Duncan Spilling. (Pyr 978-1-64506-066-6, $21.00, 336pp, tp) June 2024.</p>
+<p><strong>Beyond the Light Horizon </strong>picks up right where <strong>Beyond the Reach of Earth </strong>ends, with Grant fig­uring out when he has landed and how he might return to his own time. But his problem is only the beginning of a considerable thematic and physical  <a href="https://locusmag.com/2024/07/russell-letson-reviews-beyond-the-light-horizon-by-ken-macleod-2/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/russell-letson-reviews-beyond-the-light-horizon-by-ken-macleod-2/>
+
+---
+
+## New Books, 30 July 2024
+
+date: 2024-07-30, from: Locus Magazine
+
+<p>Bracken, Alexandra: <b>The Mirror of Beasts</b>
+(Penguin Random House/Knopf 9780593481691, $20.99, 496pp, formats: hardcover, ebook, audio, 07/30/2024)</p>
+<p>Young-adult dark fantasy novel, second in the Silver in the Bone duology. With the dream of Avalon in ruins, Tamsin and her friends are all that stands in the way of Lord Death&#8217;s plans to unleash the horrors of Anwnn on the world of the living. Legend tells of a &#8220;Mirror of Beasts&#8221;  <a href="https://locusmag.com/2024/07/new-books-30-july-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/new-books-30-july-2024/>
 
 ---
 
