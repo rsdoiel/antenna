@@ -1,11 +1,32 @@
 ---
 title: retro computing 2024.31
-updated: 2024-07-30 10:04:42
+updated: 2024-07-31 08:05:05
 ---
 
 # retro computing 2024.31
 
-(date: 2024-07-30 10:04:42)
+(date: 2024-07-31 08:05:05)
+
+---
+
+## QML Haskell Library
+
+date: 2024-07-31, from: James Hobson blog
+
+Making UIs in haskell is a pain. Not because the libraries are bad, but because they are either hard to use or short lived. My reason for thinking this is because making UI bindings is just not a normal haskeller&rsquo;s idea of fun. They may make a library, and then abandon it.
+There is basically one UI library that has stood the test of time, and that is gi-gtk, whi is here because it&rsquo;s auto-generated using gobject-introspection. 
+
+</posts/posts/qml/>
+
+---
+
+## Gould Electronic's PowerNode 6000 
+
+date: 2024-07-31, from: Computer ads from the Past
+
+The Firebreathers from Gould blast the competition into oblivion. 
+
+<https://computeradsfromthepast.substack.com/p/gould-electronics-powernode-6000>
 
 ---
 

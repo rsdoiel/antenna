@@ -1,11 +1,31 @@
 ---
 title: journalism 2024.31
-updated: 2024-07-30 10:04:40
+updated: 2024-07-31 08:05:03
 ---
 
 # journalism 2024.31
 
-(date: 2024-07-30 10:04:40)
+(date: 2024-07-31 08:05:03)
+
+---
+
+## AI search engine Perplexity launches revenue sharing with six news publishers
+
+date: 2024-07-30, from: Nieman Journalism Lab
+
+Since its launch in 2022, Perplexity has staked its claim as the generative AI disruptor of Google search. Its core product uses conversational AI to synthesize and summarize sites and news articles from the web in real time, rather than simply offering up a list of links to those sites or brief article previews. With... 
+
+<https://www.niemanlab.org/2024/07/perplexity-ai-search-engine-launches-revenue-sharing-with-six-news-publishers/>
+
+---
+
+## Fewer digital news outlets launched last year, according to a new global report
+
+date: 2024-07-30, from: Nieman Journalism Lab
+
+The number of digital news startup launches has been slowing since 2022 in Europe, Latin America, and North America, according to the new Global Project Oasis report. Global Project Oasis, a research project funded by the Google News Initiative that maps digital-native news startups globally, cited economic challenges, slow growth, and political conflicts as potential... 
+
+<https://www.niemanlab.org/2024/07/fewer-digital-news-outlets-launched-last-year-according-to-a-new-global-report/>
 
 ---
 

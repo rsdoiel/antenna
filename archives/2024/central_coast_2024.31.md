@@ -1,11 +1,139 @@
 ---
 title: central coast 2024.31
-updated: 2024-07-30 10:04:38
+updated: 2024-07-31 08:05:00
 ---
 
 # central coast 2024.31
 
-(date: 2024-07-30 10:04:38)
+(date: 2024-07-31 08:05:00)
+
+---
+
+## Little Cottonwood Canyon
+
+date: 2024-07-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072624-POD-Melissa-Marsted.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Little Cottonwood Canyon, Utah." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072624-POD-Melissa-Marsted.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072624-POD-Melissa-Marsted.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072624-POD-Melissa-Marsted.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072624-POD-Melissa-Marsted.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072624-POD-Melissa-Marsted.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072624-POD-Melissa-Marsted.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072624-POD-Melissa-Marsted.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072624-POD-Melissa-Marsted.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072624-POD-Melissa-Marsted.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072624-POD-Melissa-Marsted.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072624-POD-Melissa-Marsted.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072624-POD-Melissa-Marsted.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072624-POD-Melissa-Marsted.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/little-cottonwood-canyon/">Little Cottonwood Canyon</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/little-cottonwood-canyon/>
+
+---
+
+## Fire Chiefs Urge County to Change Ambulance Model as Lawsuit Continues
+
+date: 2024-07-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-ambulance-contract-santa-barbara-fire-chief-chris-mailes-gm-1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara City Fire Chief Chris Mailes says the county should add additional ambulances to its contract. First responders are &quot;increasingly concerned that the county may compromise community life safety&quot; by extending the current contract, the Fire Chiefs Association said." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-ambulance-contract-santa-barbara-fire-chief-chris-mailes-gm-1.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-ambulance-contract-santa-barbara-fire-chief-chris-mailes-gm-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-ambulance-contract-santa-barbara-fire-chief-chris-mailes-gm-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-ambulance-contract-santa-barbara-fire-chief-chris-mailes-gm-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-ambulance-contract-santa-barbara-fire-chief-chris-mailes-gm-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-ambulance-contract-santa-barbara-fire-chief-chris-mailes-gm-1.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-ambulance-contract-santa-barbara-fire-chief-chris-mailes-gm-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-ambulance-contract-santa-barbara-fire-chief-chris-mailes-gm-1.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-ambulance-contract-santa-barbara-fire-chief-chris-mailes-gm-1.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-ambulance-contract-santa-barbara-fire-chief-chris-mailes-gm-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-ambulance-contract-santa-barbara-fire-chief-chris-mailes-gm-1.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-ambulance-contract-santa-barbara-fire-chief-chris-mailes-gm-1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Fire chiefs and city leaders are again asking Santa Barbara County to change its ambulance-services model, but the current contract will be extended until the American Medical Response lawsuit is [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/fire-chiefs-urge-county-to-change-ambulance-model-as-lawsuit-continues/">Fire Chiefs Urge County to Change Ambulance Model as Lawsuit Continues</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/fire-chiefs-urge-county-to-change-ambulance-model-as-lawsuit-continues/>
+
+---
+
+## Democratic Women of Santa Barbara County Hopes to Build On Enthusiasm for Harris Campaign
+
+date: 2024-07-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Luz-Reyes-Martin-Dem-Women-Event-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Luz Reyes-Martin, a member of the Goleta City Council, talks about the importance of electing Kamala Harris to the U.S. presidency in November during an event Monday night at the SB Biergarten sponsored by the Democratic Women of Santa Barbara County." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Luz-Reyes-Martin-Dem-Women-Event-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Luz-Reyes-Martin-Dem-Women-Event-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Luz-Reyes-Martin-Dem-Women-Event-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Luz-Reyes-Martin-Dem-Women-Event-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Luz-Reyes-Martin-Dem-Women-Event-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Luz-Reyes-Martin-Dem-Women-Event-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Luz-Reyes-Martin-Dem-Women-Event-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Luz-Reyes-Martin-Dem-Women-Event-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Luz-Reyes-Martin-Dem-Women-Event-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Luz-Reyes-Martin-Dem-Women-Event-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The mood has changed. The entry of Vice President Kamala Harris into the U.S. presidential race has ignited a fire of enthusiasm among Democrats. &#8220;I feel so much energy to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/democratic-women-of-santa-barbara-county-hopes-to-build-on-enthusiasm-for-harris-campaign/">Democratic Women of Santa Barbara County Hopes to Build On Enthusiasm for Harris Campaign</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/democratic-women-of-santa-barbara-county-hopes-to-build-on-enthusiasm-for-harris-campaign/>
+
+---
+
+## Big Lots’ Planned Closures Include Stores in Santa Maria, Lompoc
+
+date: 2024-07-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Big-Lots-Closing1-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Big Lots is closing dozens of stores, including locations in Santa Maria and Lompoc, amid the corporation&#039;s financial troubles." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Big-Lots-Closing1-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Big-Lots-Closing1-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Big-Lots-Closing1-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Big-Lots-Closing1-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Big-Lots-Closing1-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Big-Lots-Closing1-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Big-Lots-Closing1-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Big-Lots-Closing1-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Big-Lots-Closing1-js.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-Big-Lots-Closing1-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Big Lots stores in Santa Maria and Lompoc are among dozens slated for closure in the coming weeks amid the national discount chain&#8217;s financial struggles. Huge signs stating “Closing” and [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/big-lots-planned-closures-include-stores-in-santa-maria-lompoc/">Big Lots&#8217; Planned Closures Include Stores in Santa Maria, Lompoc</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/big-lots-planned-closures-include-stores-in-santa-maria-lompoc/>
+
+---
+
+## Santa Barbara County Supervisors Approve Staff Labor Contracts
+
+date: 2024-07-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070924-seiu-county-supervisors-meeting-gm-1.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="SEIU Local 620 members pack the July 9 Santa Barbara County Board of Supervisors meeting to ask for a salary increase in their new contract." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070924-seiu-county-supervisors-meeting-gm-1.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070924-seiu-county-supervisors-meeting-gm-1.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070924-seiu-county-supervisors-meeting-gm-1.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070924-seiu-county-supervisors-meeting-gm-1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070924-seiu-county-supervisors-meeting-gm-1.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070924-seiu-county-supervisors-meeting-gm-1.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070924-seiu-county-supervisors-meeting-gm-1.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070924-seiu-county-supervisors-meeting-gm-1.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070924-seiu-county-supervisors-meeting-gm-1.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070924-seiu-county-supervisors-meeting-gm-1.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070924-seiu-county-supervisors-meeting-gm-1.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070924-seiu-county-supervisors-meeting-gm-1.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070924-seiu-county-supervisors-meeting-gm-1.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070924-seiu-county-supervisors-meeting-gm-1.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070924-seiu-county-supervisors-meeting-gm-1.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Despite not being scheduled for a meeting, the Santa Barbara County Board of Supervisors gathered to approve labor contracts for staff covered under the Service Employees International Union and other [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-county-supervisors-approve-labor-contracts-for-staff/">Santa Barbara County Supervisors Approve Staff Labor Contracts</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-county-supervisors-approve-labor-contracts-for-staff/>
+
+---
+
+## 1640 E Mountain Drive, Montecito, CA 93108
+
+date: 2024-07-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="622" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1640-E-Mountain-Drive.jpg?fit=1024%2C622&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1640-E-Mountain-Drive.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1640-E-Mountain-Drive.jpg?resize=300%2C182&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1640-E-Mountain-Drive.jpg?resize=1024%2C622&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1640-E-Mountain-Drive.jpg?resize=768%2C467&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1640-E-Mountain-Drive.jpg?resize=1536%2C933&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1640-E-Mountain-Drive.jpg?resize=2048%2C1244&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1640-E-Mountain-Drive.jpg?resize=1200%2C729&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1640-E-Mountain-Drive.jpg?resize=1568%2C953&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1640-E-Mountain-Drive.jpg?resize=2000%2C1215&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1640-E-Mountain-Drive.jpg?resize=400%2C243&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1640-E-Mountain-Drive.jpg?resize=706%2C429&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1640-E-Mountain-Drive.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/1640-E-Mountain-Drive.jpg?fit=1024%2C622&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Offered At $26,000,000</p>
+<p>The post <a href="https://www.noozhawk.com/1640-e-mountain-drive-montecito-ca-93108/">1640 E Mountain Drive, Montecito, CA 93108</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/1640-e-mountain-drive-montecito-ca-93108/>
+
+---
+
+## 3770 Foothill Road, Santa Barbara, CA 93105
+
+date: 2024-07-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/3770-Foothill-Road.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/3770-Foothill-Road.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/3770-Foothill-Road.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/3770-Foothill-Road.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/3770-Foothill-Road.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/3770-Foothill-Road.jpg?resize=1536%2C1151&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/3770-Foothill-Road.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/3770-Foothill-Road.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/3770-Foothill-Road.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/3770-Foothill-Road.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/3770-Foothill-Road.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/3770-Foothill-Road.jpg?resize=1568%2C1175&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/3770-Foothill-Road.jpg?resize=2000%2C1499&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/3770-Foothill-Road.jpg?resize=706%2C529&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/3770-Foothill-Road.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Offered At $6,500,000</p>
+<p>The post <a href="https://www.noozhawk.com/3770-foothill-road-santa-barbara-ca-93105/">3770 Foothill Road, Santa Barbara, CA 93105</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/3770-foothill-road-santa-barbara-ca-93105/>
+
+---
+
+## Cal Poly Gets Go-Ahead to Add 4,100 Beds of On-Campus Student Housing
+
+date: 2024-07-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-tribune-cal-poly-new-dorms-housing.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Over the next decade, Cal Poly will add about 4,100 beds to campus housing in nine eight- and nine-story buildings on the existing site of the K1, K2 and R1 parking lots and the North Mountain residence halls." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-tribune-cal-poly-new-dorms-housing.jpg?w=1140&amp;ssl=1 1140w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-tribune-cal-poly-new-dorms-housing.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-tribune-cal-poly-new-dorms-housing.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-tribune-cal-poly-new-dorms-housing.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-tribune-cal-poly-new-dorms-housing.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-tribune-cal-poly-new-dorms-housing.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072924-tribune-cal-poly-new-dorms-housing.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The California State University Board of Trustees approved Cal Poly’s 10-year plan to dramatically expand and improve its on-campus housing. Over the next several years, the billion-dollar Future Housing Plan [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/cal-poly-gets-go-ahead-to-add-4100-beds-of-on-campus-student-housing/">Cal Poly Gets Go-Ahead to Add 4,100 Beds of On-Campus Student Housing</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/cal-poly-gets-go-ahead-to-add-4100-beds-of-on-campus-student-housing/>
+
+---
+
+## Santa Barbara Finishes Trails Project at Parma Park
+
+date: 2024-07-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-parma-park-trails-project-2.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A new sign for the Plateau Park at Parma Park in Santa Barbara." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-parma-park-trails-project-2.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-parma-park-trails-project-2.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-parma-park-trails-project-2.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-parma-park-trails-project-2.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-parma-park-trails-project-2.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-parma-park-trails-project-2.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-parma-park-trails-project-2.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-parma-park-trails-project-2.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-parma-park-trails-project-2.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-parma-park-trails-project-2.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-parma-park-trails-project-2.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073024-parma-park-trails-project-2.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Parma Park, almost 200 acres of open space in Santa Barbara&#8217;s foothills, is open again after an extensive renovation project for its existing trails, and is now home to three [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-finishes-trails-project-at-parma-park/">Santa Barbara Finishes Trails Project at Parma Park</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-finishes-trails-project-at-parma-park/>
+
+---
+
+## Ron Fink: Lompoc School District Pays Average $112,776 per Employee; What Do Kids Get for the Investment?
+
+date: 2024-07-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Back in 2017 I wrote this Noozhawk commentary concerning the Lompoc Unified School District (LUSD). The link to the full commentary is below: “The Lompoc Unified School District has failed to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ron-fink-lompoc-school-district-pays-average-112776-per-employee-what-do-kids-get-for-the-investment/">Ron Fink: Lompoc School District Pays Average $112,776 per Employee; What Do Kids Get for the Investment? </a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ron-fink-lompoc-school-district-pays-average-112776-per-employee-what-do-kids-get-for-the-investment/>
 
 ---
 

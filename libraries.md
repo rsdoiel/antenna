@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.31
-updated: 2024-07-30 10:04:40
+updated: 2024-07-31 08:05:03
 ---
 
 # libraries 2024.31
 
-(date: 2024-07-30 10:04:40)
+(date: 2024-07-31 08:05:03)
 
 ---
 
@@ -16,6 +16,28 @@ date: 2024-08-01, from: ETH Zurich, recently added
 Freihardt, Jan 
 
 <http://hdl.handle.net/20.500.11850/677990>
+
+---
+
+## Single-cell genomic profiling to study regeneration
+
+date: 2024-08-01, from: ETH Zurich, recently added
+
+Maynard, Ashley; Soretić, Mateja; Treutlein, Barbara 
+
+<http://hdl.handle.net/20.500.11850/686189>
+
+---
+
+## SSP’s Early Career Development Podcast Episode 19: An Ear to SSP’s 2024 Annual Meeting
+
+date: 2024-07-31, from: Scholarly Kitchen
+
+<p>This episode of SSP’s Early Career Development Podcast offers a ‘vox pop’ peek into the 2024 SSP Annual Meeting with a recap and on-site interviews with attendees. Hosted by Meredith Adinolfi (Cell Press) and Sara Grimme (Digital Science). </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/07/31/ssps-early-career-development-podcast-episode-19-an-ear-to-ssps-2024-annual-meeting/">SSP&#8217;s Early Career Development Podcast Episode 19: An Ear to SSP’s 2024 Annual Meeting</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/07/31/ssps-early-career-development-podcast-episode-19-an-ear-to-ssps-2024-annual-meeting/>
 
 ---
 

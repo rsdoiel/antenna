@@ -1,11 +1,347 @@
 ---
 title: going electric 2024.31
-updated: 2024-07-30 10:04:42
+updated: 2024-07-31 08:05:06
 ---
 
 # going electric 2024.31
 
-(date: 2024-07-30 10:04:42)
+(date: 2024-07-31 08:05:06)
+
+---
+
+## Tesla Cybertruck Tri-Motor Vs. Dual-Motor: See How Much Faster The Cyberbeast Is
+
+date: 2024-07-31, from: Inside EVs News
+
+Spoiler alert: it’s up there with cars like the BMW M5 and Cadillac CTS-V on the quarter mile. 
+
+<https://insideevs.com/news/728393/tesla-cybertruck-tri-motor-10-second-quarter-mile/>
+
+---
+
+## BYD to unleash 100,000 EVs globally with its new partner, Uber
+
+date: 2024-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/BYD-Song-L.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s <a href="https://electrek.co/guides/byd/">BYD</a> found a new partner to cut EV costs and fuel adoption. As part of a massive new multi-year alliance, BYD is set to launch 100,000 EVs on Uber’s platform globally.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,uber" data-layer-viewtype="unknown" data-post-id="373943" href="https://electrek.co/2024/07/31/byd-unleash-100000-evs-globally-new-partner-uber/#more-373943" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/31/byd-unleash-100000-evs-globally-new-partner-uber/>
+
+---
+
+## New Tesla Model Y refresh leaks
+
+date: 2024-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Tesla-Model-Y-Juniper-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A new Tesla prototype, rumored to be the upcoming Model Y Juniper refresh, has leaked from the factory.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="373964" href="https://electrek.co/2024/07/31/new-tesla-model-y-refresh-leaks/#more-373964" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/31/new-tesla-model-y-refresh-leaks/>
+
+---
+
+## TVS Expands Into Italy, Could Mean Big Things For The Industry
+
+date: 2024-07-31, from: Ride Apart, Electric Motorcycle News
+
+TVS making its way to Italy could point to changing consumer preferences.  
+
+<https://www.rideapart.com/news/728315/tvs-expansion-rome-italy/>
+
+---
+
+## This is the biggest Bosch electric bike in the world… literally
+
+date: 2024-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/dirtysixer-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Bosch may be big in the world of electric bikes, but thanks to one endeavoring electric bike manufacturer, it just got a whole lot bigger. That’s because DirtySixer has now launched its oversized e-bikes with Bosch mid-drive motors. The <a href="https://www.dirtysixer.com/products/edirtysixer-bosch-32-or-36-wheels-payment-1-out-of-3?utm_source=Klaviyo&amp;utm_medium=campaign&amp;_kx=44mQMmmA7tARN9NUO6Hr4Yuly21b1ThJrSN78fVflLg.SRuEGf">eDirtySixer</a> rolls on the biking equivalent of massive wagon wheels sized at either 32″ or 36″, now fitting those that just couldn’t fit on a Bosch-powered e-bike before.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="373944" href="https://electrek.co/2024/07/31/edirtysixer-is-the-biggest-bosch-electric-bike-in-the-world/#more-373944" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/31/edirtysixer-is-the-biggest-bosch-electric-bike-in-the-world/>
+
+---
+
+## Samsung Just Showed a 600-Mile Solid-State EV Battery, Charges in 9 Minutes
+
+date: 2024-07-31, from: Ride Apart, Electric Motorcycle News
+
+You know things are serious when big tech hops aboard.  
+
+<https://www.rideapart.com/news/728316/samsung-ss-ev-battery-coming-soon/>
+
+---
+
+## Hell Yes, Husqvarna is Bringing Back a More Powerful Vitpilen Cafe Racer
+
+date: 2024-07-31, from: Ride Apart, Electric Motorcycle News
+
+Somehow, the (cooler) Vitpilen has returned.  
+
+<https://www.rideapart.com/news/728462/husqvarna-vitpilen-801-leak/>
+
+---
+
+## Motorcycles Raced in Paris in 1900, but Were They Part of the Olympics?
+
+date: 2024-07-31, from: Ride Apart, Electric Motorcycle News
+
+It was the second-ever Olympics, and the organization was such a mess that historians still haven't sorted it all out. 
+
+<https://www.rideapart.com/news/728461/olympic-motorcycle-racing-controversy-history/>
+
+---
+
+## Alpinestars Drops Tech-Air MX Vest, Aims to Make Dirt Biking Safer
+
+date: 2024-07-31, from: Ride Apart, Electric Motorcycle News
+
+Airbags are coming to your local dirt bike track.  
+
+<https://www.rideapart.com/news/728450/alpinestars-tech-air-mx-vest-motocross-dirt-bike-airbag-safety/>
+
+---
+
+## Whoa, Is Polaris Going to Start Selling Race-Ready RZR UTVs?
+
+date: 2024-07-31, from: Ride Apart, Electric Motorcycle News
+
+This could be huge.  
+
+<https://www.rideapart.com/news/728441/polaris-rzr-race-ready-off-road-sell-patent/>
+
+---
+
+## Japanese Government Raids Harley Japan, Allegations Over Excessive Quotas
+
+date: 2024-07-31, from: Ride Apart, Electric Motorcycle News
+
+If the allegations are true, it could violate Japan's Antimonopoly Act. 
+
+<https://www.rideapart.com/news/728468/harley-japan-government-quota-investigation/>
+
+---
+
+## I Learned to Weld, Made Cool Stuff Thanks to These Awesome Teachers
+
+date: 2024-07-31, from: Ride Apart, Electric Motorcycle News
+
+The Real Deal Revolution and the Jessi Combs Foundation are out here changing lives, one by one. 
+
+<https://www.rideapart.com/news/728314/real-deal-revolution-jessi-combs-welding-learning-skills/>
+
+---
+
+## Audi A6 E-Tron: This Is It
+
+date: 2024-07-31, from: Inside EVs News
+
+After a long wait, Audi's mainstream EV sedan is here. It's got plenty of range, ultra-fast charging and a lot of tech. 
+
+<https://insideevs.com/news/728448/audi-q6-etron-price-specs/>
+
+---
+
+## Tesla Model Y ‘Juniper’ Refresh: Here’s a Sneak Peak Of The Supposedly Finished Version
+
+date: 2024-07-31, from: Inside EVs News
+
+If real, the photos show a new design language for Tesla’s best-selling EV, including a full-width LED light bar at the rear. 
+
+<https://insideevs.com/news/728500/tesla-model-y-facelift-spy-photos-rear/>
+
+---
+
+## Amazon EV milestone: 15,000 electric delivery vans in service (100,000 by 2030)
+
+date: 2024-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/hero-001-amazon-rivian-sustainability-amazon-rivian-acam-19372-final-copy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>When Amazon co-founded The Climate Pledge in 2019, it announced plans to put more than 100,000 electric delivery vans on the road by 2040. Five years later, and the house that Bezos built just crossed the 15,000 EV milestone.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="amazon,commercial-evs,rivian" data-layer-viewtype="unknown" data-post-id="373923" href="https://electrek.co/2024/07/30/amazon-ev-milestone-15000-electric-delivery-vans-in-service-100000-by-2030/#more-373923" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/30/amazon-ev-milestone-15000-electric-delivery-vans-in-service-100000-by-2030/>
+
+---
+
+## Massive Tesla recall, massive self-driving haul truck, and a massive new wind farm
+
+date: 2024-07-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/BYD-Yangwang-U9-supercar-4.png?w=1600" /></div><p>In today’s massive new episode of <em>Quick Charge</em>, Tesla issues a massive 1.8 million EV recall to keep their hoods from flying open, Liebherr puts out a massive, 264-ton electric haul truck, and a massive 2.2 MW wind farm gets one step closer to reality.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,liebherr,quick-charge,tesla,tesla-recall" data-layer-viewtype="unknown" data-post-id="373915" href="https://electrek.co/2024/07/30/massive-tesla-recall-massive-self-driving-haul-truck-and-a-massive-new-wind-farm/#more-373915" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/30/massive-tesla-recall-massive-self-driving-haul-truck-and-a-massive-new-wind-farm/>
+
+---
+
+## Here’s how much money you’ll get with the Inflation Reduction Act
+
+date: 2024-07-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/08/updated-tesla-model-3-1-e1693528447192.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Inflation Reduction Act (IRA) is a “free electric bank account with your name on it.” It’s packed with rebates and tax credits that help Americans purchase everything from EVs to solar and electrical appliances to heat pumps. Check out this easy-to-use <a href="https://www.rewiringamerica.org/app/ira-calculator" target="_blank" rel="noreferrer noopener">IRA savings calculator from Rewiring America</a> that tells you what you get – and when.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,inflation-reduction-act,rooftop-solar,solar-power" data-layer-viewtype="unknown" data-post-id="261855" href="https://electrek.co/2024/07/30/inflation-reduction-act-calculator/#more-261855" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/30/inflation-reduction-act-calculator/>
+
+---
+
+## China's BYD Is Preparing To Sell EVs In Canada: Report
+
+date: 2024-07-30, from: Inside EVs News
+
+China's biggest EV maker is setting its sights on Canada's car market, according to documents filed with the country's government.  
+
+<https://insideevs.com/news/728465/byd-canada-ev-sales/>
+
+---
+
+## Chevy’s Bolt EV is still a steal with used models selling for under $10,000
+
+date: 2024-07-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Chevy-Malibu-Bolt-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/chevy-bolt/">Chevy Bolt EV</a> is still one of the most affordable ways to drive an electric car in the US. Even though it’s discontinued, used Chevy Bolt EV models are selling for under $10,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevy-bolt" data-layer-viewtype="unknown" data-post-id="373888" href="https://electrek.co/2024/07/30/chevy-bolt-ev-steal-used-models-under-10000/#more-373888" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/30/chevy-bolt-ev-steal-used-models-under-10000/>
+
+---
+
+## This smart splitter solved my EV home charging needs without costly electrical work
+
+date: 2024-07-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/neocharge-smart-splitter.webp?w=1600" /></div><p>Part of positive EV ownership is having a convenient home charging solution. While public charging stations are great for travel, home charging is both a time and cost savings. The <a href="https://getneocharge.com/products/neocharge-smart-splitter">NeoCharge Smart Splitter</a> has been key for making home EV charging smooth for me.</p>
+
+
+
+<p>Adding a second 240V outlet to my house as a renter is a tall order. Continually swapping the dryer plug and mobile charging plug is inconvenient and ill-advised. The Smart Splitter solves both those problems easily and affordably.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="neocharge" data-layer-viewtype="unknown" data-post-id="373898" href="https://electrek.co/2024/07/30/this-smart-splitter-solved-my-ev-home-charging-needs-without-costly-electrical-work/#more-373898" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/30/this-smart-splitter-solved-my-ev-home-charging-needs-without-costly-electrical-work/>
+
+---
+
+## 2025 Cadillac Optiq: Pricing, Specs Overview
+
+date: 2024-07-30, from: Inside EVs News
+
+The most affordable electric Cadillac is just around the corner, with an estimated 300 miles of range. 
+
+<https://insideevs.com/news/728335/2025-cadillac-optiq-pricing-specs-overview/>
+
+---
+
+## Tesla Cybertruck becomes an EMS vehicle
+
+date: 2024-07-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Tesla-Cybertruck-EMS.jpg?quality=82&#038;strip=all&#038;w=934" /></div><p>An emergency medical service (EMS) provider in New Jersey has received a nice gift: a Tesla Cybertruck, which it turned into an emergency service vehicle.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="373877" href="https://electrek.co/2024/07/30/tesla-cybertruck-becomes-ems-vehicle/#more-373877" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/30/tesla-cybertruck-becomes-ems-vehicle/>
+
+---
+
+## Tesla Cybertruck Wows The Crowd At Tractor Pull Events
+
+date: 2024-07-30, from: Inside EVs News
+
+Cybertrucks were not this good before the recent Off-Road Mode update, which allows the differentials to be locked. 
+
+<https://insideevs.com/news/728390/tesla-cybertruck-tractor-pull-wows/>
+
+---
+
+## BYD to shake up North American EV market with plans to enter Canada
+
+date: 2024-07-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/BYD-new-EVs-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s <a href="https://electrek.co/guides/byd/">BYD</a> wants a bigger piece of the North American EV market. With plans to sell electric cars in Canada, BYD is closing in on the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="373875" href="https://electrek.co/2024/07/30/byd-shake-up-north-american-ev-market/#more-373875" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/30/byd-shake-up-north-american-ev-market/>
+
+---
+
+## Tesla Just Recalled 1.8 Million Cars
+
+date: 2024-07-30, from: Inside EVs News
+
+The issue affects all Tesla models except the Cybertruck. It’s already been corrected through a software update. 
+
+<https://insideevs.com/news/728416/tesla-unlatched-hood-global-recall/>
+
+---
+
+## Mercedes’ answer to the Tesla Model Y is coming soon
+
+date: 2024-07-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Mercedes-Tesla-Model-Y-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Mercedes-Benz is set to launch its electric CLA next year, the first of its more affordable EV series. The new EV will help <a href="https://electrek.co/guides/mercedes-benz/">Mercedes</a> narrow the gap with Tesla. Meanwhile, an electric crossover is expected to follow as Mercedes’ answer to Tesla’s best-selling Model Y.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz" data-layer-viewtype="unknown" data-post-id="373848" href="https://electrek.co/2024/07/30/mercedes-answer-tesla-model-y-coming-soon/#more-373848" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/30/mercedes-answer-tesla-model-y-coming-soon/>
+
+---
+
+## Samsung  smart electric washer/ventless dryer bundle $1,470+ off,  Worx Landroid mower lows, Trek Cruiser e-bikes, more
+
+date: 2024-07-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Samsung-Bespoke-AI-all-in-one-washer-and-ventless-dryer.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Today’s Green Deals are here to start (and complete) business at home before letting you go out for some adventurous fun! Leading the group today is one of the best electric appliance deals we’ve seen with <a href="https://9to5toys.com/2024/07/30/upgrade-to-samsungs-bespoke-smart-electric-washer-ventless-dryer-at-2199-2529-value/">Samsung’s Bespoke AI-supported All-in-One Electric Washer and Ventless dryer</a> landing at <a href="https://9to5toys.com/2024/07/30/upgrade-to-samsungs-bespoke-smart-electric-washer-ventless-dryer-at-2199-2529-value/">$2,199</a> – with <strong>$330+ in bonuses</strong> that include a free Jet 60 vacuum and free installation/haul-away services too. It is joined by the popular <a href="https://9to5toys.com/2024/07/30/let-worxs-ai-driven-landroid-l-20v-robotic-lawn-mower-tackle-yard-duties-at-new-750-low-50-off-more-from-600/">Worx Landroid L 20V Robotic Lawn Mower</a> that tackles 1/2 an acre of land at a <a href="https://9to5toys.com/2024/07/30/let-worxs-ai-driven-landroid-l-20v-robotic-lawn-mower-tackle-yard-duties-at-new-750-low-50-off-more-from-600/">new $750 low</a>, as well as a return of Trek’s Crusier Go! e-bikes at discounted rates, with the <a href="https://9to5toys.com/2024/07/29/treks-electra-cruiser-go-e-bikes-return-to-1200-reg-1600-more-up-to-550-off/">Electra Cruiser Go! e-bike</a> specifically returning to its <a href="https://9to5toys.com/2024/07/29/treks-electra-cruiser-go-e-bikes-return-to-1200-reg-1600-more-up-to-550-off/">$1,200 low</a>. Plus, all the other hangover Green Deals that are still alive and well – including a 1-day discount on the <a href="https://9to5toys.com/2024/07/30/worxs-4v-3-speed-screwdriver-fits-right-in-to-any-toolbox-at-30-for-today-only-reg-50/">Worx 4V 3-speed screwdriver</a> that makes a handy and affordable addition to any toolbox.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="373853" href="https://electrek.co/2024/07/30/samsung-smart-electric-washer-ventless-dryer-worx-landroid-mower-trek-cruiser-e-bikes-more/#more-373853" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/30/samsung-smart-electric-washer-ventless-dryer-worx-landroid-mower-trek-cruiser-e-bikes-more/>
+
+---
+
+## See The Tesla Cybertruck Put Its Diff Locker To Work Off-Road: ‘Much Better Than Expected’
+
+date: 2024-07-30, from: Inside EVs News
+
+Tesla’s angular pickup got a lot of flak in the past for underperforming off-road. Now, though, things seem to have improved. 
+
+<https://insideevs.com/news/728334/tesla-cybertruck/>
 
 ---
 

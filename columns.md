@@ -1,11 +1,345 @@
 ---
 title: columns 2024.31
-updated: 2024-07-30 10:04:39
+updated: 2024-07-31 08:05:01
 ---
 
 # columns 2024.31
 
-(date: 2024-07-30 10:04:39)
+(date: 2024-07-31 08:05:01)
+
+---
+
+## 2024-07-31 Hashtags
+
+date: 2024-07-31, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-31-hashtags">2024-07-31 Hashtags</h1>
+
+<p>I implemented <a href="oddmu/oddmu-hashtags.1">a new subcommand for Oddmu</a>.
+I was mostly curious to see
+whether Administration had alread overtaken role-playing games, that
+is, RPG. I am happy to report that administration issues are still far
+from the top of the list. <em>Homo ludens</em> is still winning out. 😄</p>
+
+<table>
+<thead>
+<tr>
+<th align="right">Rank</th>
+<th>Hashtag</th>
+<th align="right">Count</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a class="tag" href="/search/?q=%23rpg">#rpg</a></td>
+<td align="right">1478</td>
+</tr>
+
+<tr>
+<td align="right">2</td>
+<td><a class="tag" href="/search/?q=%23old_school">#old school</a></td>
+<td align="right">475</td>
+</tr>
+
+<tr>
+<td align="right">3</td>
+<td><a class="tag" href="/search/?q=%23software">#software</a></td>
+<td align="right">314</td>
+</tr>
+
+<tr>
+<td align="right">4</td>
+<td><a class="tag" href="/search/?q=%23life">#life</a></td>
+<td align="right">284</td>
+</tr>
+
+<tr>
+<td align="right">5</td>
+<td><a class="tag" href="/search/?q=%23web">#web</a></td>
+<td align="right">263</td>
+</tr>
+
+<tr>
+<td align="right">6</td>
+<td><a class="tag" href="/search/?q=%23rsp">#rsp</a></td>
+<td align="right">233</td>
+</tr>
+
+<tr>
+<td align="right">7</td>
+<td><a class="tag" href="/search/?q=%23wikis">#wikis</a></td>
+<td align="right">214</td>
+</tr>
+
+<tr>
+<td align="right">8</td>
+<td><a class="tag" href="/search/?q=%23emacs">#emacs</a></td>
+<td align="right">205</td>
+</tr>
+
+<tr>
+<td align="right">9</td>
+<td><a class="tag" href="/search/?q=%23pictures">#pictures</a></td>
+<td align="right">204</td>
+</tr>
+
+<tr>
+<td align="right">10</td>
+<td><a class="tag" href="/search/?q=%23copyright">#copyright</a></td>
+<td align="right">173</td>
+</tr>
+
+<tr>
+<td align="right">11</td>
+<td><a class="tag" href="/search/?q=%23oddmuse">#oddmuse</a></td>
+<td align="right">168</td>
+</tr>
+
+<tr>
+<td align="right">12</td>
+<td><a class="tag" href="/search/?q=%23music">#music</a></td>
+<td align="right">164</td>
+</tr>
+
+<tr>
+<td align="right">13</td>
+<td><a class="tag" href="/search/?q=%23games">#games</a></td>
+<td align="right">141</td>
+</tr>
+
+<tr>
+<td align="right">14</td>
+<td><a class="tag" href="/search/?q=%23books">#books</a></td>
+<td align="right">138</td>
+</tr>
+
+<tr>
+<td align="right">15</td>
+<td><a class="tag" href="/search/?q=%23usa">#usa</a></td>
+<td align="right">132</td>
+</tr>
+
+<tr>
+<td align="right">16</td>
+<td><a class="tag" href="/search/?q=%23administration">#administration</a></td>
+<td align="right">132</td>
+</tr>
+
+<tr>
+<td align="right">17</td>
+<td><a class="tag" href="/search/?q=%23movies">#movies</a></td>
+<td align="right">126</td>
+</tr>
+
+<tr>
+<td align="right">18</td>
+<td><a class="tag" href="/search/?q=%23blogs">#blogs</a></td>
+<td align="right">119</td>
+</tr>
+
+<tr>
+<td align="right">19</td>
+<td><a class="tag" href="/search/?q=%23programming">#programming</a></td>
+<td align="right">115</td>
+</tr>
+
+<tr>
+<td align="right">20</td>
+<td><a class="tag" href="/search/?q=%23gadgets">#gadgets</a></td>
+<td align="right">99</td>
+</tr>
+</tbody>
+</table>
+<p><a class="tag" href="/search/?q=%23Blogging">#Blogging</a> <a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-31-hashtags>
+
+---
+
+## The NYT is weird
+
+date: 2024-07-31, from: Dave Winer's Scripting News
+
+<p>Someone in charge at the NYT needs to take a step back and view events, and the NYT role in those events, from the point of view of an ordinary non-NYT-employed citizen, bewildered at the enormous risks journalists are taking with the system of government of the United States. </p>
+<p>In the context of who we are as a country, what the Repubs do and say is to be very mild about it "weird." What word would you prefer the Democrats use? Imagine <a href="https://en.wikipedia.org/wiki/William_Safire">William Safire</a> were here, the great linguist columnist of the NYT, wrote that column. (Safire was a <a href="https://chatgpt.com/share/ab14f5b9-2b55-406f-9b78-057313c03d63">Republican</a> btw.)</p>
+<p>And to the Democrats, no matter what the NYT says, keep using the term. This is where you get to speak out about what they're doing over there, and how it's not journalism. One of the rare things you agree with Trump on. </p>
+<p>Podcast: <a href="http://scripting.com/2024/07/31/theNYTIsWeird.m4a">3 minutes</a>.</p>
+<p>PS: Safire went to <a href="https://en.wikipedia.org/wiki/Bronx_High_School_of_Science">Bronx Science</a>! I did not know that. (So did I.) I love the idea of writers who aren't scared of tech stuff. </p>
+<p>PPS: Even Richard Nixon would think today's so-called Republicans were weird. </p>
+<p>PPPS: The NYT is totally unmoored, a word I bet Safire would like. </p>
+ 
+
+<http://scripting.com/2024/07/31/142559.html?title=theNytIsWeird>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-31, from: Dave Winer's Scripting News)
+
+People who get their sense of self-esteem from having procreated are placing a heavy burden on their children. What if the child doesn't live up to their expectations? How will they treat the child then! Creating a new human is not an accomplishment. Treating that new life as a full person starting at birth, and through their whole life, <i>that's</i> an accomplishment. For a man to father a child just means they have a functioning reproductive system. It's not anything to be proud or to expect to be rewarded or respected for. 
+
+<http://scripting.com/2024/07/31.html#a135556>
+
+---
+
+## Office Hours: Will Trump seek Dictator for Life?
+
+date: 2024-07-31, from: Robert Reich's blog
+
+He&#8217;s giving more and more hints 
+
+<https://robertreich.substack.com/p/office-hours-if-hes-elected-in-2024>
+
+---
+
+## curl 8.9.1
+
+date: 2024-07-31, from: Daniel Stenberg Blog
+
+Some annoying regressions triggered this. Numbers the 259th release0 changes7 days (total: 9,630)28 bugfixes (total: 10,559)43 commits (total: 32,748)0 new public libcurl function (total: 94)0 new curl_easy_setopt() option (total: 306)0 new curl command line option (total: 263)19 contributors, 5 new (total: 3,211)10 authors, 1 new (total: 1,288)1 security fixes (total: 158) Download the new curl &#8230; <a href="https://daniel.haxx.se/blog/2024/07/31/curl-8-9-1/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.9.1</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/07/31/curl-8-9-1/>
+
+---
+
+## July 30, 2024 
+
+date: 2024-07-31, from: Heather Cox Richardson blog
+
+On Friday, speaking to Christians at the Turning Point Action Believers&#8217; Summit in West Palm Beach, Florida, Trump begged the members of the audience to &#8220;vote. 
+
+<https://heathercoxrichardson.substack.com/p/july-30-2024>
+
+---
+
+## Tim Sweeney Declares Find My ‘Super Creepy Surveillance Tech and Shouldn’t Exist’
+
+date: 2024-07-31, updated: 2024-07-31, from: Daring Fireball
+
+ 
+
+<https://www.macrumors.com/2024/07/30/tim-sweeney-find-my-creepy-surveillance-tech/>
+
+---
+
+## Intermittent Social media fasting 
+
+date: 2024-07-31, from: Om Malik blog
+
+As a diabetic, my life is a constant&#160;balance&#160;between hypoglycemic and hyperglycemic levels—and proper food consumption is&#160;key&#160;to&#160;maintaining&#160;steady&#160;blood&#160;sugar levels. Work, travel and access to&#160;the right kinds&#160;of&#160;food determine&#160;how&#160;successfully&#160;I&#160;can&#160;keep my sugar levels in my desired&#160;range.&#160; At&#160;the start of the pandemic lockdown, I decided to embrace intermittent fasting. Losing weight wasn’t the primary&#160;motive;&#160;instead, I wanted to bring some discipline&#160;to&#160;when and &#8230; 
+
+<https://om.co/2024/07/30/intermittent-social-media-fasting/>
+
+---
+
+## Using personal weeknotes as a tool for attention
+
+date: 2024-07-30, from: Tracy Durnell Blog
+
+Since leaving my day job two years ago, I&#8217;ve been writing personal weeknotes. In short: once a week, I publish on my blog a set of notes about what I did the past week. I believe weeknotes started inside organizations (here&#8217;s a good primer on professional weeknotes), but I appreciate using the weekly checkpoint as [&#8230;] 
+
+<https://tracydurnell.com/2024/07/30/using-personal-weeknotes-as-a-tool-for-attention/>
+
+---
+
+## Wednesday 31 July, 2024
+
+date: 2024-07-30, from: John Naughton's online diary
+
+The First Webcam This was the world’s very first webcam. In 1991 my friend Quentin Stafford-Fraser and his colleague Paul Jardetzky set it up to watch a coffee-pot in the Cambridge Computer Laboratory’s Trojan Room (a large space previously occupied &#8230; <a href="https://memex.naughtons.org/wednesday-31-july-2024/39695/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-31-july-2024/39695/>
+
+---
+
+##  An extensive history of Birdo&#8217;s gender (according to her Nintendo appearances). &#8220;If... 
+
+date: 2024-07-30, updated: 2024-07-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045039-an-extensive-history-of-b>
+
+---
+
+##  Abortion: Our Bodies, Their Lies, and the Truths We Use to Win... 
+
+date: 2024-07-30, updated: 2024-07-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045037-abortion-our-bodies-their>
+
+---
+
+##  Clive Thompson writes about the influence of BASIC (&#8220;the most consequential language... 
+
+date: 2024-07-30, updated: 2024-07-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045035-clive-thompson-writes-abo>
+
+---
+
+##  A nationwide study of young people in South Korea found a significant... 
+
+date: 2024-07-30, updated: 2024-07-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045033-a-nationwide-study-of-you>
+
+---
+
+## When not to LLM
+
+date: 2024-07-30, from: Jonudell blog
+
+Here&#8217;s the latest installment in the series on working with LLMS: https://thenewstack.io/choosing-when-to-use-or-not-use-llms-as-a-developer/ For certain things, the LLM is a clear win. If I’m looking at an invalid blob of JSON that won’t even parse, there’s no reason to avoid augmentation. My brain isn’t a fuzzy parser — I’m just not wired to see that kind &#8230; <a href="https://blog.jonudell.net/2024/07/30/when-not-to-llm/" class="more-link">Continue reading <span class="screen-reader-text">When not to LLM</span></a> 
+
+<https://blog.jonudell.net/2024/07/30/when-not-to-llm/>
+
+---
+
+##  For the first time, wind & solar generated more of the EU&#8217;s... 
+
+date: 2024-07-30, updated: 2024-07-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045036-for-the-first-time-wind-1>
+
+---
+
+##  An explainer of the conservatives&#8217; plan for women in America. &#8220;If enacted,... 
+
+date: 2024-07-30, updated: 2024-07-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045038-an-explainer-of-the-conse>
+
+---
+
+##  Speed jigsaw-puzzle competitions are a thing&#8230;and the mindet required seems the same... 
+
+date: 2024-07-30, updated: 2024-07-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0045034-speed-jigsaw-puzzle-compe>
+
+---
+
+## Ask WWDC
+
+date: 2024-07-30, updated: 2024-07-31, from: Daring Fireball
+
+ 
+
+<https://askwwdc.com/>
 
 ---
 
@@ -50,7 +384,6 @@ date: 2024-07-30, updated: 2024-07-30, from: Jason Kittke's blog
 date: 2024-07-30, from: Dave Winer's Scripting News
 
 <p>Notes accumulated during the day -- not in any particular order. <span class="spOldSchoolEmoji">😄</span></p>
-<p>I asked ChatGPT what percentage of adults in the US are childless. I was shocked to find the <a href="https://chatgpt.com/share/618189a5-5446-4796-9207-9be3558c12dd">answer</a> was 56%. <a href="https://www.meta.ai/c/2975abf7-c8f5-4108-adf7-d9e230225b11">Meta.ai</a> has the same info, but breaks it down further and <a href="https://www.meta.ai/c/2975abf7-c8f5-4108-adf7-d9e230225b11">provides</a> links to its sources.</p>
 <p>I keep a solid line between my personal life and blogging, learned the hard way. When I started blogging in 1994, I didn't have such a solid line, and found that I couldn't have a personal life if I made it public. But now I want to reveal something. I am "childless" which is a term I find pretty insulting, as if being child<i>ful</i> is the only normal state of being. </p>
 <p>I find, in general childful people are not great friends or family members. They want special privileges and they often get them. If childful vs childless is going to be an issue in this campaign, I say -- bring it on. We should have this discussion. </p>
 <p>I'm often tempted to offer advice to the parents, but I won't offer it unless asked, except this. If you have children, there's a good chance one or more of them will not have children, and you should love them the same, and provide models of acceptance while they're growing up, by bringing childless people into your home, so the kids know that this is one of the legitimate choices in life, offering proof that you won't love them any less if they go down that path. And here's the hard part, imho, for people with children -- <i>keep that promise. </i></p>
@@ -61,7 +394,7 @@ date: 2024-07-30, from: Dave Winer's Scripting News
 
 ---
 
-##  Germans are installing &#8220;plug-and-play&#8221; solar panels to feed energy back to the... 
+##  Germans are installing &#8220;plug-and-play&#8221; solar panels to decrease their electric bills. &#8220;You... 
 
 date: 2024-07-30, updated: 2024-07-30, from: Jason Kittke's blog
 
@@ -248,6 +581,16 @@ A governor, a six-term Congressman, a National Guard artillery specialist, a sch
 Like <a href="https://en.wikipedia.org/wiki/Cholesterol">cholesterol</a>, there's "good weird" and "bad weird." I <a href="https://www.threads.net/@davew/post/C-AoGfspfFB">think</a> we all know which kind of <a href="https://www.salon.com/2024/07/29/old-and-quite-weird-democrats-finally-discover-new-effective--and-hate-it/">weird</a> the Repubs are. 
 
 <http://scripting.com/2024/07/29.html#a004743>
+
+---
+
+## Misfire
+
+date: 2024-07-30, updated: 2024-07-30, from: Alex Russel's blog
+
+ 
+
+<https://infrequently.org/2024/07/misfire/>
 
 ---
 

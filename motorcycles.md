@@ -1,11 +1,221 @@
 ---
 title: motorcycles 2024.31
-updated: 2024-07-30 10:04:41
+updated: 2024-07-31 08:05:05
 ---
 
 # motorcycles 2024.31
 
-(date: 2024-07-30 10:04:41)
+(date: 2024-07-31 08:05:05)
+
+---
+
+## TVS Expands Into Italy, Could Mean Big Things For The Industry
+
+date: 2024-07-31, from: Ride Apart, Electric Motorcycle News
+
+TVS making its way to Italy could point to changing consumer preferences.  
+
+<https://www.rideapart.com/news/728315/tvs-expansion-rome-italy/>
+
+---
+
+## Samsung Just Showed a 600-Mile Solid-State EV Battery, Charges in 9 Minutes
+
+date: 2024-07-31, from: Ride Apart, Electric Motorcycle News
+
+You know things are serious when big tech hops aboard.  
+
+<https://www.rideapart.com/news/728316/samsung-ss-ev-battery-coming-soon/>
+
+---
+
+## Hell Yes, Husqvarna is Bringing Back a More Powerful Vitpilen Cafe Racer
+
+date: 2024-07-31, from: Ride Apart, Electric Motorcycle News
+
+Somehow, the (cooler) Vitpilen has returned.  
+
+<https://www.rideapart.com/news/728462/husqvarna-vitpilen-801-leak/>
+
+---
+
+## Motorcycles Raced in Paris in 1900, but Were They Part of the Olympics?
+
+date: 2024-07-31, from: Ride Apart, Electric Motorcycle News
+
+It was the second-ever Olympics, and the organization was such a mess that historians still haven't sorted it all out. 
+
+<https://www.rideapart.com/news/728461/olympic-motorcycle-racing-controversy-history/>
+
+---
+
+## Alpinestars Drops Tech-Air MX Vest, Aims to Make Dirt Biking Safer
+
+date: 2024-07-31, from: Ride Apart, Electric Motorcycle News
+
+Airbags are coming to your local dirt bike track.  
+
+<https://www.rideapart.com/news/728450/alpinestars-tech-air-mx-vest-motocross-dirt-bike-airbag-safety/>
+
+---
+
+## Whoa, Is Polaris Going to Start Selling Race-Ready RZR UTVs?
+
+date: 2024-07-31, from: Ride Apart, Electric Motorcycle News
+
+This could be huge.  
+
+<https://www.rideapart.com/news/728441/polaris-rzr-race-ready-off-road-sell-patent/>
+
+---
+
+## Japanese Government Raids Harley Japan, Allegations Over Excessive Quotas
+
+date: 2024-07-31, from: Ride Apart, Electric Motorcycle News
+
+If the allegations are true, it could violate Japan's Antimonopoly Act. 
+
+<https://www.rideapart.com/news/728468/harley-japan-government-quota-investigation/>
+
+---
+
+## I Learned to Weld, Made Cool Stuff Thanks to These Awesome Teachers
+
+date: 2024-07-31, from: Ride Apart, Electric Motorcycle News
+
+The Real Deal Revolution and the Jessi Combs Foundation are out here changing lives, one by one. 
+
+<https://www.rideapart.com/news/728314/real-deal-revolution-jessi-combs-welding-learning-skills/>
+
+---
+
+## Can We Rally Race a Suzuki V-Strom 800DE? Gallery
+
+date: 2024-07-30, from: Cycle World News
+
+Photos from Cycle World's Can We Rally Race a Suzuki V-Strom 800DE? article. 
+
+<https://www.cycleworld.com/gallery/suzuki-v-strom-800de-mexican-1000-rally-race-photos/>
+
+---
+
+## 2024 LiveWire S2 Mulholland Review Gallery
+
+date: 2024-07-30, from: Cycle World News
+
+Photos from Cycle World's 2024 LiveWire S2 Mulholland Review article. 
+
+<https://www.cycleworld.com/gallery/2024-livewire-s2-mulholland-review-article/>
+
+---
+
+## 2024 Praga ZS 800 Review Gallery
+
+date: 2024-07-30, from: Cycle World News
+
+Photos from Cycle World's 2024 Praga ZS 800 Review article. 
+
+<https://www.cycleworld.com/gallery/2024-praga-zs-800-review-photos/>
+
+---
+
+## 2024 Triumph Rocket 3 Storm R and GT First Ride Review Gallery
+
+date: 2024-07-30, from: Cycle World News
+
+Photos from Cycle World's 2024 Triumph Rocket 3 Storm R and GT First Ride Review article. 
+
+<https://www.cycleworld.com/gallery/2024-triumph-rocket-3-storm-r-and-gt-first-ride-review-photos/>
+
+---
+
+## How an Edelweiss Tour Taught Me to Go Along for the Ride
+
+date: 2024-07-30, from: Cycle World News
+
+How I learned to go along for the ride on the Edelweiss Balkans Adventure. 
+
+<https://www.cycleworld.com/motorcycle-news/how-edelweiss-balkans-adventure-tour-taught-me-to-ride/>
+
+---
+
+## 2024 Yamaha MT-09 First Ride Review Gallery
+
+date: 2024-07-30, from: Cycle World News
+
+Photos from Cycle World's 2024 Yamaha MT-09 First Ride Review article. 
+
+<https://www.cycleworld.com/gallery/2024-yamaha-mt-09-first-ride-review-photos/>
+
+---
+
+## 2024 Husqvarna Svartpilen 801 First Ride Review Gallery
+
+date: 2024-07-30, from: Cycle World News
+
+Photos from Cycle World's 2024 Husqvarna Svartpilen 801 First Ride Review article. 
+
+<https://www.cycleworld.com/gallery/2024-husqvarna-svartpilen-801-first-ride-review-photos/>
+
+---
+
+## 2024 Yamaha YZ450FX Race Test Gallery
+
+date: 2024-07-30, from: Cycle World News
+
+Photos from Cycle World's 2024 Yamaha YZ450FX Race Test article. 
+
+<https://www.cycleworld.com/gallery/2024-yamaha-yz450x-race-test-photos/>
+
+---
+
+## 2024 Triumph Tiger 1200 First Ride Review Gallery
+
+date: 2024-07-30, from: Cycle World News
+
+Photos from Cycle World's 2024 Triumph Tiger 1200 First Ride Review article. 
+
+<https://www.cycleworld.com/gallery/2024-triumph-tiger-1200-first-ride-review-photos/>
+
+---
+
+## Alpinestars Tech-Air Off-Road Airbag System Review Gallery
+
+date: 2024-07-30, from: Cycle World News
+
+Photos from Cycle World's Alpinestars Tech-Air Off-Road Airbag System Review article. 
+
+<https://www.cycleworld.com/gallery/alpinestars-tech-air-off-road-airbag-system-review-photos/>
+
+---
+
+## 2025 Ducati Panigale V4 First Look
+
+date: 2024-07-30, from: Cycle World News
+
+Ducati’s 2025 Panigale V4 is completely reworked with a new chassis that includes a two-sided swingarm and a host of new electronics. 
+
+<https://www.cycleworld.com/bikes/ducati-panigale-v4-first-look/>
+
+---
+
+## Royal Enfield INT Bear 650 Scrambler
+
+date: 2024-07-30, from: Cycle World News
+
+Royal Enfield has been working on a new “scrambler” motorcycle for more than a year. Patents show that the bike will be called the INT Bear 650 in the US market. 
+
+<https://www.cycleworld.com/motorcycle-news/royal-enfield-int-bear-650-scrambler-details/>
+
+---
+
+## Arai Launches Two New Programs at Sturgis in 2024
+
+date: 2024-07-30, from: Cycle World News
+
+Arai is thrilled to announce that they will be attending the Sturgis motorcycle rally this year with two exciting new services for Arai customers. 
+
+<https://www.cycleworld.com/the-wire/arai-launches-two-new-programs-at-sturgis-in-2024/>
 
 ---
 

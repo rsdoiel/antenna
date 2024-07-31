@@ -1,11 +1,52 @@
 ---
 title: socal north 2024.31
-updated: 2024-07-30 10:04:36
+updated: 2024-07-31 08:04:57
 ---
 
 # socal north 2024.31
 
-(date: 2024-07-30 10:04:36)
+(date: 2024-07-31 08:04:57)
+
+---
+
+## LAUSD ordered to hand over records in long-running funding dispute with archdiocese
+
+date: 2024-07-31, updated: 2024-07-31, from: The LAist
+
+The district cut federal Title I funding by 90% for low-income students in Catholic schools. 
+
+<https://laist.com/news/education/lausd-ordered-to-hand-over-records-dispute-with-archdiocese>
+
+---
+
+## New rent hike limits largely unchanged for LA and OC residents. How to watchdog an illegal increase
+
+date: 2024-07-31, updated: 2024-07-31, from: The LAist
+
+Rent hike limits under a key state law stayed steady for many SoCal renters in 2024. Here’s what to do if your landlord demands more. 
+
+<https://laist.com/news/housing-homelessness/los-angeles-rent-increase-hike-how-much-can-my-rent-go-up-tenant-protection-act-ab-1484-10-percent-8-9-landlord-state-law>
+
+---
+
+## UCLA gymnastics’ Jordan Chiles wins team gold medal at 2024 Paris Olympics
+
+date: 2024-07-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+The stars were aligned for Team USA.
+Qualifying for the team final in first place – over five points ahead of second – the Americans were expected to dominate in the team final. 
+
+<https://dailybruin.com/2024/07/30/ucla-gymnastics-jordan-chiles-wins-team-gold-medal-at-2024-paris-olympics/>
+
+---
+
+## Gallery: Exploring New York City’s boroughs for 24 hours
+
+date: 2024-07-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Assistant Photo editor Michael Gallagher spent 24 hours exploring New York City. Gallagher took photos of the city that never sleeps, traveling through three of the metropolis’ boroughs by subway and walking. 
+
+<https://dailybruin.com/2024/07/30/gallery-exploring-new-york-citys-boroughs-for-24-hours/>
 
 ---
 

@@ -1,11 +1,656 @@
 ---
 title: tech likely 2024.31
-updated: 2024-07-30 10:04:38
+updated: 2024-07-31 08:05:00
 ---
 
 # tech likely 2024.31
 
-(date: 2024-07-30 10:04:38)
+(date: 2024-07-31 08:05:00)
+
+---
+
+## Sergey Durmanov opened issue #149: issue with SET64 constructor for 32-bit CPUs at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-07-31, updated: 2024-07-31, from: Oberon A2 at CAS
+
+
+<p dir="auto">SET64 constructor does not work for 32-bit CPUs</p>
+<div class="gl-relative markdown-code-block js-markdown-code">
+<pre class="code highlight js-syntax-highlight language-plaintext" v-pre="true"><code><span id="LC1" class="line" lang="plaintext" xml:lang="plaintext">MODULE TestSet2;</span>
+<span id="LC2" class="line" lang="plaintext" xml:lang="plaintext">IMPORT KernelLog;</span>
+<span id="LC3" class="line" lang="plaintext" xml:lang="plaintext">	PROCEDURE Do*;</span>
+<span id="LC4" class="line" lang="plaintext" xml:lang="plaintext">	VAR s: SET64;</span>
+<span id="LC5" class="line" lang="plaintext" xml:lang="plaintext">	BEGIN</span>
+<span id="LC6" class="line" lang="plaintext" xml:lang="plaintext">		s := { 7..13 };</span>
+<span id="LC7" class="line" lang="plaintext" xml:lang="plaintext">		Set(s);</span>
+<span id="LC8" class="line" lang="plaintext" xml:lang="plaintext">		s := { 27..53 };</span>
+<span id="LC9" class="line" lang="plaintext" xml:lang="plaintext">		Set(s);</span>
+<span id="LC10" class="line" lang="plaintext" xml:lang="plaintext">	END Do;</span>
+<span id="LC11" class="line" lang="plaintext" xml:lang="plaintext"></span>
+<span id="LC12" class="line" lang="plaintext" xml:lang="plaintext">PROCEDURE Set*(x: SET64);</span>
+<span id="LC13" class="line" lang="plaintext" xml:lang="plaintext">VAR first := TRUE: BOOLEAN; bit := {0}: SET64; i: INTEGER;</span>
+<span id="LC14" class="line" lang="plaintext" xml:lang="plaintext">BEGIN</span>
+<span id="LC15" class="line" lang="plaintext" xml:lang="plaintext">	KernelLog.Char(&#34;{&#34;);</span>
+<span id="LC16" class="line" lang="plaintext" xml:lang="plaintext">	FOR i := 0 TO MAX(SET64) DO</span>
+<span id="LC17" class="line" lang="plaintext" xml:lang="plaintext">		IF bit * x # {} THEN</span>
+<span id="LC18" class="line" lang="plaintext" xml:lang="plaintext">			IF ~first THEN KernelLog.Char(&#34;,&#34;) ELSE first := FALSE END;</span>
+<span id="LC19" class="line" lang="plaintext" xml:lang="plaintext">			KernelLog.Int(i,1);</span>
+<span id="LC20" class="line" lang="plaintext" xml:lang="plaintext">		END;</span>
+<span id="LC21" class="line" lang="plaintext" xml:lang="plaintext">		bit := SHL(bit, 1);</span>
+<span id="LC22" class="line" lang="plaintext" xml:lang="plaintext">	END;</span>
+<span id="LC23" class="line" lang="plaintext" xml:lang="plaintext">	KernelLog.Char(&#34;}&#34;);</span>
+<span id="LC24" class="line" lang="plaintext" xml:lang="plaintext">END Set;</span>
+<span id="LC25" class="line" lang="plaintext" xml:lang="plaintext">END TestSet2.</span>
+<span id="LC26" class="line" lang="plaintext" xml:lang="plaintext"></span>
+<span id="LC27" class="line" lang="plaintext" xml:lang="plaintext">System.Free TestSet2~</span>
+<span id="LC28" class="line" lang="plaintext" xml:lang="plaintext">TestSet2.Do~</span></code></pre>
+<copy-code></copy-code>
+</div>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/149>
+
+---
+
+## Sergey Durmanov opened issue #148: issue with set constructor (range order) at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-07-31, updated: 2024-07-31, from: Oberon A2 at CAS
+
+
+<p dir="auto">If the order of the elements is in the range from largest to smallest, the set constructor produces an incorrect result.</p>
+<div class="gl-relative markdown-code-block js-markdown-code">
+<pre class="code highlight js-syntax-highlight language-plaintext" v-pre="true"><code><span id="LC1" class="line" lang="plaintext" xml:lang="plaintext">MODULE TestSet1;</span>
+<span id="LC2" class="line" lang="plaintext" xml:lang="plaintext">	PROCEDURE Do*;</span>
+<span id="LC3" class="line" lang="plaintext" xml:lang="plaintext">	VAR s: SET;</span>
+<span id="LC4" class="line" lang="plaintext" xml:lang="plaintext">	BEGIN</span>
+<span id="LC5" class="line" lang="plaintext" xml:lang="plaintext">		s := { 13..7 };</span>
+<span id="LC6" class="line" lang="plaintext" xml:lang="plaintext">		TRACE(s);</span>
+<span id="LC7" class="line" lang="plaintext" xml:lang="plaintext">		s := { 7..13 };</span>
+<span id="LC8" class="line" lang="plaintext" xml:lang="plaintext">		TRACE(s);</span>
+<span id="LC9" class="line" lang="plaintext" xml:lang="plaintext">	END Do;</span>
+<span id="LC10" class="line" lang="plaintext" xml:lang="plaintext">END TestSet1.</span>
+<span id="LC11" class="line" lang="plaintext" xml:lang="plaintext"></span>
+<span id="LC12" class="line" lang="plaintext" xml:lang="plaintext">System.Free TestSet1~</span>
+<span id="LC13" class="line" lang="plaintext" xml:lang="plaintext">TestSet1.Do~</span></code></pre>
+<copy-code></copy-code>
+</div>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/148>
+
+---
+
+## 2024-07-31 Hashtags
+
+date: 2024-07-31, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-31-hashtags">2024-07-31 Hashtags</h1>
+
+<p>I implemented <a href="oddmu/oddmu-hashtags.1">a new subcommand for Oddmu</a>.
+I was mostly curious to see
+whether Administration had alread overtaken role-playing games, that
+is, RPG. I am happy to report that administration issues are still far
+from the top of the list. <em>Homo ludens</em> is still winning out. 😄</p>
+
+<table>
+<thead>
+<tr>
+<th align="right">Rank</th>
+<th>Hashtag</th>
+<th align="right">Count</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a class="tag" href="/search/?q=%23rpg">#rpg</a></td>
+<td align="right">1478</td>
+</tr>
+
+<tr>
+<td align="right">2</td>
+<td><a class="tag" href="/search/?q=%23old_school">#old school</a></td>
+<td align="right">475</td>
+</tr>
+
+<tr>
+<td align="right">3</td>
+<td><a class="tag" href="/search/?q=%23software">#software</a></td>
+<td align="right">314</td>
+</tr>
+
+<tr>
+<td align="right">4</td>
+<td><a class="tag" href="/search/?q=%23life">#life</a></td>
+<td align="right">284</td>
+</tr>
+
+<tr>
+<td align="right">5</td>
+<td><a class="tag" href="/search/?q=%23web">#web</a></td>
+<td align="right">263</td>
+</tr>
+
+<tr>
+<td align="right">6</td>
+<td><a class="tag" href="/search/?q=%23rsp">#rsp</a></td>
+<td align="right">233</td>
+</tr>
+
+<tr>
+<td align="right">7</td>
+<td><a class="tag" href="/search/?q=%23wikis">#wikis</a></td>
+<td align="right">214</td>
+</tr>
+
+<tr>
+<td align="right">8</td>
+<td><a class="tag" href="/search/?q=%23emacs">#emacs</a></td>
+<td align="right">205</td>
+</tr>
+
+<tr>
+<td align="right">9</td>
+<td><a class="tag" href="/search/?q=%23pictures">#pictures</a></td>
+<td align="right">204</td>
+</tr>
+
+<tr>
+<td align="right">10</td>
+<td><a class="tag" href="/search/?q=%23copyright">#copyright</a></td>
+<td align="right">173</td>
+</tr>
+
+<tr>
+<td align="right">11</td>
+<td><a class="tag" href="/search/?q=%23oddmuse">#oddmuse</a></td>
+<td align="right">168</td>
+</tr>
+
+<tr>
+<td align="right">12</td>
+<td><a class="tag" href="/search/?q=%23music">#music</a></td>
+<td align="right">164</td>
+</tr>
+
+<tr>
+<td align="right">13</td>
+<td><a class="tag" href="/search/?q=%23games">#games</a></td>
+<td align="right">141</td>
+</tr>
+
+<tr>
+<td align="right">14</td>
+<td><a class="tag" href="/search/?q=%23books">#books</a></td>
+<td align="right">138</td>
+</tr>
+
+<tr>
+<td align="right">15</td>
+<td><a class="tag" href="/search/?q=%23usa">#usa</a></td>
+<td align="right">132</td>
+</tr>
+
+<tr>
+<td align="right">16</td>
+<td><a class="tag" href="/search/?q=%23administration">#administration</a></td>
+<td align="right">132</td>
+</tr>
+
+<tr>
+<td align="right">17</td>
+<td><a class="tag" href="/search/?q=%23movies">#movies</a></td>
+<td align="right">126</td>
+</tr>
+
+<tr>
+<td align="right">18</td>
+<td><a class="tag" href="/search/?q=%23blogs">#blogs</a></td>
+<td align="right">119</td>
+</tr>
+
+<tr>
+<td align="right">19</td>
+<td><a class="tag" href="/search/?q=%23programming">#programming</a></td>
+<td align="right">115</td>
+</tr>
+
+<tr>
+<td align="right">20</td>
+<td><a class="tag" href="/search/?q=%23gadgets">#gadgets</a></td>
+<td align="right">99</td>
+</tr>
+</tbody>
+</table>
+<p><a class="tag" href="/search/?q=%23Blogging">#Blogging</a> <a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-31-hashtags>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-31, from: Miguel de Icaza Mastondon feed)
+
+<p>As I was telling a friend, If you are not running iOS 18.1 you might as well just run Android or live in a cave.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112881574260230389>
+
+---
+
+## The NYT is weird
+
+date: 2024-07-31, from: Dave Winer's Scripting News
+
+<p>Someone in charge at the NYT needs to take a step back and view events, and the NYT role in those events, from the point of view of an ordinary non-NYT-employed citizen, bewildered at the enormous risks journalists are taking with the system of government of the United States. </p>
+<p>In the context of who we are as a country, what the Repubs do and say is to be very mild about it "weird." What word would you prefer the Democrats use? Imagine <a href="https://en.wikipedia.org/wiki/William_Safire">William Safire</a> were here, the great linguist columnist of the NYT, wrote that column. (Safire was a <a href="https://chatgpt.com/share/ab14f5b9-2b55-406f-9b78-057313c03d63">Republican</a> btw.)</p>
+<p>And to the Democrats, no matter what the NYT says, keep using the term. This is where you get to speak out about what they're doing over there, and how it's not journalism. One of the rare things you agree with Trump on. </p>
+<p>Podcast: <a href="http://scripting.com/2024/07/31/theNYTIsWeird.m4a">3 minutes</a>.</p>
+<p>PS: Safire went to <a href="https://en.wikipedia.org/wiki/Bronx_High_School_of_Science">Bronx Science</a>! I did not know that. (So did I.) I love the idea of writers who aren't scared of tech stuff. </p>
+<p>PPS: Even Richard Nixon would think today's so-called Republicans were weird. </p>
+<p>PPPS: The NYT is totally unmoored, a word I bet Safire would like. </p>
+ 
+
+<http://scripting.com/2024/07/31/142559.html?title=theNytIsWeird>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-31, from: Dave Winer's Scripting News)
+
+People who get their sense of self-esteem from having procreated are placing a heavy burden on their children. What if the child doesn't live up to their expectations? How will they treat the child then! Creating a new human is not an accomplishment. Treating that new life as a full person starting at birth, and through their whole life, <i>that's</i> an accomplishment. For a man to father a child just means they have a functioning reproductive system. It's not anything to be proud or to expect to be rewarded or respected for. 
+
+<http://scripting.com/2024/07/31.html#a135556>
+
+---
+
+## NASA’s First-Ever Quantum Memory Made at Glenn Research Center
+
+date: 2024-07-31, from: NASA breaking news
+
+Bringing bright minds together has once again proven to be the key to unlocking the mysteries of the universe. Researchers developed technology that will store information within a cloud of atoms. Together with Infleqtion Inc., researchers at NASA’s Glenn Research Center in Cleveland produced NASA’s first-ever quantum memory. This technology is NASA’s first step in [&#8230;] 
+
+<https://www.nasa.gov/general/nasas-first-ever-quantum-memory-made-at-glenn-research-center/>
+
+---
+
+## AI causing burnout, lower productivity
+
+date: 2024-07-31, from: OS News
+
+Is machine learning, also known as &#8220;artificial intelligence&#8221;, really aiding workers and increasing productivity? A study by Upwork &#8211; which, as Baldur Bjarnason so helpfully points out, sells AI solutions and hence did not promote this study on its blog as it does with its other studies &#8211; reveals that this might not actually be the case. Nearly half (47%) of workers using AI say they have no idea how to achieve the productivity gains their employers expect. Over three in four (77%) say AI tools have decreased their productivity and added to their workload in at least one way. For example, survey respondents reported that they’re spending more time reviewing or moderating AI-generated content (39%), invest more time learning to use these tools (23%), and are now being asked to do more work (21%). Forty percent of employees feel their company is asking too much of them when it comes to AI. ↫ Upwork research This shouldn&#8217;t come as a surprise. We&#8217;re in a massive hype cycle when it comes to machine learning, and we&#8217;re being told it&#8217;s going to revolutionise work and lead to massive productivity gains. In practice, however, it seems these tools just can&#8217;t measure up to the hyped promises, and in fact is making people do less and work slower. There&#8217;s countless stories of managers being told by upper management to shove machine learning into everything, from products to employee workflows, whether it makes any sense to do so or not. I know from experience as a translator that machine learning can greatly improve my productivity, but the fact that there are certain types of tasks that benefit from ML, doesn&#8217;t mean every job suddenly thrives with it. I&#8217;m definitely starting to see some cracks in the hype cycle, and this study highlights a major one. I hope we can all come down to earth again, and really take a careful look at where ML makes sense and where it does not, instead of giving every worker a ChatGPT account and blanket demanding massive productivity gains that in no way match the reality on the office floor. And of course, despite demanding massive productivity increases, it&#8217;s not like workers are getting an equivalent increase in salary. We&#8217;ve seen massive productivity increases for decades now, while paychecks have not followed suit at all, and many people can actually buy less with their salary today than their parents could decades ago. Demands imposed by managers by introducing AI is only going to make this discrepancy even worse. 
+
+<https://www.osnews.com/story/140365/ai-causing-burnout-lower-productivity/>
+
+---
+
+## Why 'You're Being Weird' Works So Well
+
+date: 2024-07-31, from: Dave Karpf's blog
+
+The Republican Party stopped trying to appeal to normies a long time ago. 
+
+<https://davekarpf.substack.com/p/why-youre-being-weird-works-so-well>
+
+---
+
+## Logitech has an idea for a “forever mouse” that requires a subscription
+
+date: 2024-07-31, from: OS News
+
+Logitech CEO Hanneke Faber talked about someting called the &#8220;forever mouse&#8221;, which would be, as the name implies, a mouse that customers could use for a very long time. While you may think this would mean an incredibly well-built mouse, or one that can be easily repaired, which Logitech already makes somewhat possible through a partnership with iFixIt, another option the company is thinking about is a subscription model. Yes. Faber said subscription software updates would mean that people wouldn&#8217;t need to worry about their mouse. The business model is similar to what Logitech already does with video conferencing services (Logitech&#8217;s B2B business includes Logitech Select, a subscription service offering things like apps, 24/7 support, and advanced RMA). Having to pay a regular fee for full use of a peripheral could deter customers, though. HP is trying a similar idea with rentable printers that require a monthly fee. The printers differ from the idea of the forever mouse in that the HP hardware belongs to HP, not the user. However, concerns around tracking and the addition of ongoing expenses are similar. ↫ Scharon Harding at Ars Technica Now, buying a mouse whose terrible software requires subscription models would still be a choice you can avoid, but my main immediately conjured up a far darker scenario. PC makers have a long history of adding crapware to their machines in return for payments from the producers of said crapware. I can totally see what&#8217;s going to happen next. You buy a brand new laptop, unbox it at home, and turn it on. Before you know it, a dialog pops up right after he crappy Windows out-of-box experience asking you to subscribe to your laptop&#8217;s touchpad software in order to unlock its more advanced features like gestures. But why stop there? The keyboard of that new laptop has RGB backlighting, but if you want to change its settings, you&#8217;re going to have to pay for another subscription. Your laptop&#8217;s display has additional features and modes for specific types of content and more settings sliders, but you&#8217;ll have to pay up to unlock them. And so on. I&#8217;m not saying this will happen, but I&#8217;m also not saying it won&#8217;t. I&#8217;m sorry for birthing this idea into the world. 
+
+<https://www.osnews.com/story/140363/logitech-has-an-idea-for-a-forever-mouse-that-requires-a-subscription/>
+
+---
+
+## Guadalcanal: 5
+
+date: 2024-07-31, from: Ayjay blog
+
+If, as I said in my previous post, to confront another soldier in war is to confront yourself, then … isn’t that other soldier … you? Yes. Necessarily.&#160; It is this necessity that produces a constant hum of meditation in Malick’s The Thin Red Line: “Maybe all men got one big soul,” thinks one of [&#8230;] 
+
+<https://blog.ayjay.org/guadalcanal-5/>
+
+---
+
+## Compared to other distros, Vanilla OS 2 'Orchid' is rewriting how Linux works
+
+date: 2024-07-31, updated: 2024-07-31, from: Liam Proven's articles at the Register
+
+<h4>In front, unmodified GNOME; underneath, it's all a bit strange, but purposefully so</h4>
+      <p>Vanilla OS is an experimental distro testing out new implementations of immutability, cross-distro packaging, A/B failover, and more.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/31/vanilla_os_friendly_radical/>
+
+---
+
+## Sergey Durmanov closed issue #146: issue with system.val(float, constant) at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-07-31, updated: 2024-07-31, from: Oberon A2 at CAS
+
+
+<p dir="auto">Issue with system.val for float constant</p>
+<div class="gl-relative markdown-code-block js-markdown-code">
+<pre class="code highlight js-syntax-highlight language-plaintext" v-pre="true"><code><span id="LC1" class="line" lang="plaintext" xml:lang="plaintext">MODULE TestCast;</span>
+<span id="LC2" class="line" lang="plaintext" xml:lang="plaintext">IMPORT SYSTEM;</span>
+<span id="LC3" class="line" lang="plaintext" xml:lang="plaintext">CONST pi = UNSIGNED64(0x40091EB851EB851F); (*3.14*)</span>
+<span id="LC4" class="line" lang="plaintext" xml:lang="plaintext"></span>
+<span id="LC5" class="line" lang="plaintext" xml:lang="plaintext">PROCEDURE Do*;</span>
+<span id="LC6" class="line" lang="plaintext" xml:lang="plaintext">VAR d: RECORD f: FLOAT64; bits { OFFSET=0 }: SET64 END;</span>
+<span id="LC7" class="line" lang="plaintext" xml:lang="plaintext">BEGIN</span>
+<span id="LC8" class="line" lang="plaintext" xml:lang="plaintext">  d.f := 3.14;</span>
+<span id="LC9" class="line" lang="plaintext" xml:lang="plaintext">  TRACE( d.f, d.bits);</span>
+<span id="LC10" class="line" lang="plaintext" xml:lang="plaintext">  d.bits := SET64(pi);</span>
+<span id="LC11" class="line" lang="plaintext" xml:lang="plaintext">  TRACE( d.f, d.bits);</span>
+<span id="LC12" class="line" lang="plaintext" xml:lang="plaintext"></span>
+<span id="LC13" class="line" lang="plaintext" xml:lang="plaintext">  VAR u64 := pi: UNSIGNED64;</span>
+<span id="LC14" class="line" lang="plaintext" xml:lang="plaintext">  d.f := SYSTEM.VAL(FLOAT64, u64); (* OK *)</span>
+<span id="LC15" class="line" lang="plaintext" xml:lang="plaintext">  TRACE( d.f, d.bits);</span>
+<span id="LC16" class="line" lang="plaintext" xml:lang="plaintext"></span>
+<span id="LC17" class="line" lang="plaintext" xml:lang="plaintext">  d.f := SYSTEM.VAL(FLOAT64, pi); (* BAD *)</span>
+<span id="LC18" class="line" lang="plaintext" xml:lang="plaintext">  TRACE( d.f, d.bits);</span>
+<span id="LC19" class="line" lang="plaintext" xml:lang="plaintext">END Do;</span>
+<span id="LC20" class="line" lang="plaintext" xml:lang="plaintext"></span>
+<span id="LC21" class="line" lang="plaintext" xml:lang="plaintext">END TestCast.</span>
+<span id="LC22" class="line" lang="plaintext" xml:lang="plaintext"></span>
+<span id="LC23" class="line" lang="plaintext" xml:lang="plaintext">System.Free TestCast ~</span>
+<span id="LC24" class="line" lang="plaintext" xml:lang="plaintext">TestCast.Do ~</span></code></pre>
+<copy-code></copy-code>
+</div>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/146>
+
+---
+
+## Gould Electronic's PowerNode 6000 
+
+date: 2024-07-31, from: Computer ads from the Past
+
+The Firebreathers from Gould blast the competition into oblivion. 
+
+<https://computeradsfromthepast.substack.com/p/gould-electronics-powernode-6000>
+
+---
+
+## Peter Easthope commented on issue #141 at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-07-31, updated: 2024-07-31, from: Oberon A2 at CAS
+
+
+<p data-sourcepos="1:1-1:24" dir="auto"><a href="/fnec.ece" data-reference-type="user" data-user="20002" data-container="body" data-placement="top" class="gfm gfm-project_member js-user-link" title="fnec ece">@fnec.ece</a> · 4 weeks ago</p>
+<blockquote data-sourcepos="2:1-7:21" dir="auto">
+<p data-sourcepos="2:3-3:40">Hi, I have corrected the problem for oberon subsystem in the MyUnix.KbdMouse.Mod file.
+Could you test after HotKeys disabled?</p>
+<p data-sourcepos="5:3-5:15">Best regards,</p>
+<p data-sourcepos="7:3-7:21">MyUnix.KbdMouse.Mod</p>
+</blockquote>
+<p data-sourcepos="9:1-9:63" dir="auto">Today, compiled MyUnix.KbdMouse.Mod in repository A2, Linux64.</p>
+<p data-sourcepos="11:1-12:17" dir="auto">Now, after &lt;F12&gt;, the &lt;F1&gt; key sets the * marker.  The &lt;delete&gt; key
+remains inactive.</p>
+<p data-sourcepos="14:1-16:52" dir="auto">Auto switching keyboard functionality according to focus would be ideal.
+Oberon functionality when focus is in Oberon; A2 functionality when
+focus is in A2.  Prior to release 10272 that worked.</p>
+<p data-sourcepos="18:1-18:53" dir="auto">Thanks,        ... P.L.</p>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/141#note_194106>
+
+---
+
+## Less Coffee, Better Sleep
+
+date: 2024-07-31, from: Marginallia log
+
+As an experiment, I&rsquo;ve reduced my coffee-intake to a single cup a day for about a week now. It&rsquo;s made an enormous difference in sleep, mood and energy. I get tired at night, fall asleep quickly, and wake up refreshed.
+As mentioned previously in the context of morning sunlight exposure&mdash;another thing that&rsquo;s aided my sleeping habits, but is somewhat less practical to sustain as it requires fair weather&mdash;I&rsquo;ve always been slow to get going in the morning, active at night, bad at getting to bed at sane hours. 
+
+<https://www.marginalia.nu/log/a_109_sleep2/>
+
+---
+
+## pg_ivm 1.9 released
+
+date: 2024-07-31, from: PostgreSQL News
+
+<p>IVM Development Group is pleased to announce the release of <a href="https://github.com/sraoss/pg_ivm/releases/tag/v1.9">pg_ivm 1.9</a>.</p>
+<p>Changes since the v1.8 release include:</p>
+<h3>Bug fixes</h3>
+<ul>
+<li>
+<p>Add support for PostgreSQL 17 (Yugo Nagata, Takuma Hoshiai, reshke)</p>
+<p>This contains the following changes:</p>
+</li>
+<li>
+<p>Change functions to use a safe search_path during maintenance operations when used with PostgreSQL 17</p>
+<p>This prevents maintenance operations (automatic maintenance of IMMVs and refresh_immv) from performing
+unsafe access. Functions used by IMMVs that need to reference non-default schemas must specify a search
+path during function creation.</p>
+</li>
+<li>
+<p>refresh_immv can be executed by users with the MAINTAIN privilege when used with PostgreSQL 17</p>
+</li>
+</ul>
+<h3>About pg_ivm</h3>
+<p>pg_ivm is an extension module that provides Incremental View Maintenance (IVM) feature.</p>
+<p>Incremental View Maintenance (IVM) is a way to make materialized views up-to-date in
+which only incremental changes are computed and applied on views rather than recomputing. 
+pg_ivm provides a kind of immediate maintenance, in which materialized views are updated
+immediately after a base table is modified.</p>
+<p>Source repository: <a href="https://github.com/sraoss/pg_ivm">https://github.com/sraoss/pg_ivm</a></p> 
+
+<https://www.postgresql.org/about/news/pg_ivm-19-released-2902/>
+
+---
+
+## Announcing postgres-contrib.org | Contributions to PostgreSQL
+
+date: 2024-07-31, from: PostgreSQL News
+
+<p>We are pleased to announce <a href="https://postgres-contrib.org/">postgres-contrib.org</a>, a new website started in July 2024 by members of the PostgreSQL community, highlighting contributions to the project by the amazing people standing behind it.</p>
+<p>Many contributions to and for the PostgreSQL Project happen outside of writing code. This was the topic of the <a href="https://wiki.postgresql.org/wiki/PGConf.dev_2024_Developer_Unconference#Increase_Community_Participation">Increase Community Participation</a> session at <a href="https://wiki.postgresql.org/wiki/PGConf.dev_2024">PGConf.dev 2024</a>.<br>
+<a href="https://postgres-contrib.org/">postgres-contrib.org</a> has weekly posts listing contributions, but they will likely not be complete — if you spot something which is worth noticing, please contact us by <a href="mailto:info@postgresql.life">email</a>.  </p>
+<p>The following people contributed to this list, and the general idea: <a href="https://mastodon.social/@ascherbaum">Andreas Scherbaum</a>, <a href="https://mastodon.world/@tchorix">Boriss Mejías</a>, <a href="https://postgresql.life/post/chris_ellis/">Chris Ellis</a>, <a href="https://postgresql.life/post/floor_drees/">Floor Drees</a>, <a href="https://postgresql.life/post/jimmy_angelakos/">Jimmy Angelakos</a> and <a href="https://postgresql.life/post/pavlo_golub/">Pavlo Golub</a>.</p> 
+
+<https://www.postgresql.org/about/news/announcing-postgres-contriborg-contributions-to-postgresql-2897/>
+
+---
+
+## PGConf NYC 2024 Schedule Announced!
+
+date: 2024-07-31, from: PostgreSQL News
+
+<p><a href="https://2024.pgconf.nyc/">PGConf NYC 2024</a> (September 30 - October 2, 2024, New York City) is packed with
+user stories and best practices for how to use <a href="https://www.postgresql.org">PostgreSQL</a>. <a href="https://2024.pgconf.nyc/">Join us in New York City</a> and connect with other developers, DBAs, administrators, decisions makers, and contributors to the open source PostgreSQL community! We're expecting to sell out - we're not just saying that - so please <a href="https://2024.pgconf.nyc/tickets/">register today</a> to secure your spot!</p>
+<p>The <a href="https://postgresql.us/events/pgconfnyc2024/schedule/">schedule</a> is now available! You can see the schedule here:</p>
+<p><a href="https://postgresql.us/events/pgconfnyc2024/schedule/">https://postgresql.us/events/pgconfnyc2024/schedule/</a></p>
+<p>PGConf NYC 2024 also has lots of content relevant to <a href="https://postgresql.us/events/pgconfnyc2024/schedule/">how you're running PostgreSQL</a>, including case studies on managing large fleets and workloads on PostgreSQL, how to improve your query performance, hot topics like the intersection of AI and databases, different ways to minimize your downtime, and learning about upcoming PostgreSQL features!</p>
+<p><a href="https://2024.pgconf.nyc/">PGConf NYC 2024</a> is not possible without the <a href="https://2024.pgconf.nyc/sponsors/">generous support of our sponsors</a>. PGConf NYC takes place in one of the largest markets of PostgreSQL users. Your sponsorship lets you connect with decision makers, developers, DBAs, and PostgreSQL contributors, helps keep ticket prices low, and helps grow the PostgreSQL community. We have sold out our Platinum and Gold sponsorships, but we still have other sponsorships available. For more information on <a href="https://2024.pgconf.nyc/sponsors/">sponsorship</a>, please visit the below link:</p>
+<p><a href="https://2024.pgconf.nyc/sponsors/">https://2024.pgconf.nyc/sponsors/</a></p>
+<p>Can't wait to participate in PGConf NYC 2024? <a href="https://2024.pgconf.nyc/tickets/">Registration</a> is available:</p>
+<p><a href="https://2024.pgconf.nyc/tickets/">https://2024.pgconf.nyc/tickets/</a></p>
+<p>We look forward to seeing you in New York!</p> 
+
+<https://www.postgresql.org/about/news/pgconf-nyc-2024-schedule-announced-2903/>
+
+---
+
+## This game would be perfect if it wasn't gacha
+
+date: 2024-07-31, from: Ze Iaso's blog
+
+TL;DR: Zenless Zone Zero is a fantastic game that's ruined by its gacha system. It's a shame that it's a gacha game, because it's so good otherwise. 8/10 
+
+<https://xeiaso.net/videos/2024/zzz-review/>
+
+---
+
+## Design ain’t a democracy
+
+date: 2024-07-30, updated: 2024-07-30, from: Robin Rendle Essays
+
+ 
+
+<https://robinrendle.com/notes/design-aint-a-democracy/>
+
+---
+
+##  An extensive history of Birdo&#8217;s gender (according to her Nintendo appearances). &#8220;If... 
+
+date: 2024-07-30, updated: 2024-07-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045039-an-extensive-history-of-b>
+
+---
+
+##  Abortion: Our Bodies, Their Lies, and the Truths We Use to Win... 
+
+date: 2024-07-30, updated: 2024-07-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045037-abortion-our-bodies-their>
+
+---
+
+##  Clive Thompson writes about the influence of BASIC (&#8220;the most consequential language... 
+
+date: 2024-07-30, updated: 2024-07-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045035-clive-thompson-writes-abo>
+
+---
+
+## NASA Sets Coverage for Northrop Grumman’s 21st Station Resupply Launch
+
+date: 2024-07-30, from: NASA breaking news
+
+NASA, Northrop Grumman, and SpaceX are targeting 11:28 a.m. EDT on Saturday, Aug. 3, for the next launch to deliver science investigations, supplies, and equipment to the International Space Station. This launch is the 21st Northrop Grumman commercial resupply services mission to the orbital laboratory for the agency. NASA’s live launch coverage will begin at [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-21st-station-resupply-launch/>
+
+---
+
+##  A nationwide study of young people in South Korea found a significant... 
+
+date: 2024-07-30, updated: 2024-07-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045033-a-nationwide-study-of-you>
+
+---
+
+## When not to LLM
+
+date: 2024-07-30, from: John Udell blog
+
+Here&#8217;s the latest installment in the series on working with LLMS: https://thenewstack.io/choosing-when-to-use-or-not-use-llms-as-a-developer/ For certain things, the LLM is a clear win. If I’m looking at an invalid blob of JSON that won’t even parse, there’s no reason to avoid augmentation. My brain isn’t a fuzzy parser — I’m just not wired to see that kind &#8230; <a href="https://blog.jonudell.net/2024/07/30/when-not-to-llm/" class="more-link">Continue reading <span class="screen-reader-text">When not to LLM</span></a> 
+
+<https://blog.jonudell.net/2024/07/30/when-not-to-llm/>
+
+---
+
+##  For the first time, wind & solar generated more of the EU&#8217;s... 
+
+date: 2024-07-30, updated: 2024-07-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045036-for-the-first-time-wind-1>
+
+---
+
+## Overview for NASA’s Northrop Grumman 21st Commercial Resupply Mission
+
+date: 2024-07-30, from: NASA breaking news
+
+NASA, Northrop Grumman, and SpaceX are targeting no earlier than 11:28 a.m. EDT on Saturday, Aug. 3, for the next launch to deliver scientific investigations, supplies, and equipment to the International Space Station. Filled with more than 8,200 pounds of supplies, the Cygnus cargo spacecraft, carried on the SpaceX Falcon 9 rocket, will launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. This launch is the 21st Northrop Grumman commercial resupply services mission to the orbital laboratory for the agency. 
+
+<https://www.nasa.gov/general/overview-for-nasas-northrop-grumman-21st-commercial-resupply-mission/>
+
+---
+
+##  An explainer of the conservatives&#8217; plan for women in America. &#8220;If enacted,... 
+
+date: 2024-07-30, updated: 2024-07-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045038-an-explainer-of-the-conse>
+
+---
+
+## BitTorrent Apps in AltStore PAL
+
+date: 2024-07-30, from: Michael Tsai
+
+Jess Weatherbed: Specifically, the new additions include iTorrent, an iOS torrent client that can be used without jailbreaking iPhones or iPads, and qBitControl, a qBittorrent remote client for iOS devices. PeopleDrop is a dating-focused &#8220;social discovery platform&#8221; that connects you with other users in the real world as they pass by. Hartley Charlton: Apple has [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/30/bittorrent-apps-in-altstore-pal/>
+
+---
+
+## Spain Investigates App Store
+
+date: 2024-07-30, from: Michael Tsai
+
+Hartley Charlton: Spain&#8217;s competition authority has launched an investigation into Apple&#8217;s App Store over potential anti-competitive practices that could result in hefty fines (via Reuters).[&#8230;]If the CNMC&#8217;s investigation confirms these allegations, Apple could face fines up to 10% of its global annual turnover, potentially amounting to billions of euros. The inquiry, which may take up [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/30/spain-investigates-app-store/>
+
+---
+
+## Social Media AI Training
+
+date: 2024-07-30, from: Michael Tsai
+
+C. Scott Brown: Meta is now scraping Facebook posts to train its AI model. While this isn&#8217;t surprising on its own, what is surprising is just how difficult Meta is making it for users to opt out of this process. Via X Daily News: Instagram is training AI on your data but makes it nearly [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/30/social-media-ai-training/>
+
+---
+
+##  Speed jigsaw-puzzle competitions are a thing&#8230;and the mindet required seems the same... 
+
+date: 2024-07-30, updated: 2024-07-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045034-speed-jigsaw-puzzle-compe>
+
+---
+
+## Repair Kit for NASA’s NICER Mission Heading to Space Station
+
+date: 2024-07-30, from: NASA breaking news
+
+NASA will deliver a patch kit for NICER (Neutron star Interior Composition Explorer), an X-ray telescope on the International Space Station, on the agency’s Northrop Grumman 21st commercial resupply mission. Astronauts will conduct a spacewalk to complete the repair. Located near the space station’s starboard solar array, NICER was damaged in May 2023. The mission […] 
+
+<https://science.nasa.gov/missions/station/iss-research/nicer/repair-kit-for-nasas-nicer-mission-heading-to-space-station/>
+
+---
+
+## Ames Science Directorate’s Stars of the Month, July 2024
+
+date: 2024-07-30, from: NASA breaking news
+
+The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Ryan T. Scott, Mike Kubo, Ehsan (Sam) Gharib-Nezhad, and Kristen Okorn. Their commitment to the NASA mission represents the talent, camaraderie, and vision needed to explore this world and beyond. Space Biosciences Star: Ryan T. Scott Ryan Scott, a Space Biosciences [&#8230;] 
+
+<https://www.nasa.gov/general/ames-science-directorates-stars-of-the-month-july-2024/>
+
+---
+
+## Sols 4259-4260: Kings Canyon Go Again!
+
+date: 2024-07-30, from: NASA breaking news
+
+Earth planning date: Monday, July 29, 2024 Our weekend drill preload test on the target “Kings Canyon” (shown in the accompanying MAHLI image) didn’t give us the full range of data we need to move forward with the full drilling process. This coming Wednesday, we hope to rerun our preload test on Kings Canyon or somewhere […] 
+
+<https://science.nasa.gov/blogs/sols-4259-4260-kings-canyon-go-again/>
 
 ---
 
@@ -34,6 +679,16 @@ A forward by Drini CamiDrini Cami here, Open Library staff developer. It&#8217;s
 <p>With 208,000 pictures I suspect I am not going to get to play with this new feature any time soon:</p> 
 
 <https://mastodon.social/@Migueldeicaza/112876380763612814>
+
+---
+
+## GLOBE Alumna and Youth for Habitat Program Lead Named Scientist of the Month in Alaska
+
+date: 2024-07-30, from: NASA breaking news
+
+As a 16-year old high school graduate, Maggie House decided to leave the military base in Germany where she lived with her family and go to college close to nature in Fairbanks, Alaska. She had lived in many countries and US states and knew she was ready. At the University of Alaska Fairbanks Troth Yeddha’ […] 
+
+<https://science.nasa.gov/learning-resources/science-activation/globe-alumna-and-youth-for-habitat-program-lead-named-scientist-of-the-month-in-alaska/>
 
 ---
 
@@ -68,7 +723,6 @@ date: 2024-07-30, updated: 2024-07-30, from: Jason Kottke blog
 date: 2024-07-30, from: Dave Winer's Scripting News
 
 <p>Notes accumulated during the day -- not in any particular order. <span class="spOldSchoolEmoji">😄</span></p>
-<p>I asked ChatGPT what percentage of adults in the US are childless. I was shocked to find the <a href="https://chatgpt.com/share/618189a5-5446-4796-9207-9be3558c12dd">answer</a> was 56%. <a href="https://www.meta.ai/c/2975abf7-c8f5-4108-adf7-d9e230225b11">Meta.ai</a> has the same info, but breaks it down further and <a href="https://www.meta.ai/c/2975abf7-c8f5-4108-adf7-d9e230225b11">provides</a> links to its sources.</p>
 <p>I keep a solid line between my personal life and blogging, learned the hard way. When I started blogging in 1994, I didn't have such a solid line, and found that I couldn't have a personal life if I made it public. But now I want to reveal something. I am "childless" which is a term I find pretty insulting, as if being child<i>ful</i> is the only normal state of being. </p>
 <p>I find, in general childful people are not great friends or family members. They want special privileges and they often get them. If childful vs childless is going to be an issue in this campaign, I say -- bring it on. We should have this discussion. </p>
 <p>I'm often tempted to offer advice to the parents, but I won't offer it unless asked, except this. If you have children, there's a good chance one or more of them will not have children, and you should love them the same, and provide models of acceptance while they're growing up, by bringing childless people into your home, so the kids know that this is one of the legitimate choices in life, offering proof that you won't love them any less if they go down that path. And here's the hard part, imho, for people with children -- <i>keep that promise. </i></p>
@@ -89,7 +743,7 @@ In studying data collected from NASA’s DART (Double Asteroid Redirection Test)
 
 ---
 
-##  Germans are installing &#8220;plug-and-play&#8221; solar panels to feed energy back to the... 
+##  Germans are installing &#8220;plug-and-play&#8221; solar panels to decrease their electric bills. &#8220;You... 
 
 date: 2024-07-30, updated: 2024-07-30, from: Jason Kottke blog
 
@@ -259,6 +913,16 @@ Like <a href="https://en.wikipedia.org/wiki/Cholesterol">cholesterol</a>, there'
 <p>Just saw Deadpool. Absolutely loved it. No spoilers from me, but stay till the very end of the credits for the post credit scene. The bit earlier on isn't it.</p> 
 
 <https://tilde.zone/@tomasino/112872507235577567>
+
+---
+
+## Misfire
+
+date: 2024-07-30, updated: 2024-07-30, from: Alex Russel's blog
+
+ 
+
+<https://infrequently.org/2024/07/misfire/>
 
 ---
 
@@ -963,6 +1627,16 @@ at
  
 
 <https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/3e81eb63099b7968539f969781ee824cd593c2c1>
+
+---
+
+## oberon@gitlab.inf.ethz.ch joined project Felix Oliver Friedrich / Oberon A2
+
+date: 2024-07-28, updated: 2024-07-28, from: Oberon A2 at CAS
+
+ 
+
+<>
 
 ---
 

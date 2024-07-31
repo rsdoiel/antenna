@@ -1,11 +1,339 @@
 ---
 title: pacific 2024.31
-updated: 2024-07-30 10:04:37
+updated: 2024-07-31 08:04:59
 ---
 
 # pacific 2024.31
 
-(date: 2024-07-30 10:04:37)
+(date: 2024-07-31 08:04:59)
+
+---
+
+## Sides spar in case to decide whether Schweitzers deserve compensation
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>A hearing Tuesday to determine if Albert &#8220;Ian&#8221; Schweitzer and his brother, Shawn Schweitzer &#8212; whose convictions for abducting, raping and killing Dana Ireland on Christmas Eve 1991 were vacated last year by a judge &#8212; are &#8220;actually innocent,&#8221; turned out to be a contentious affair.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/hawaii-news/sides-spar-in-case-to-decide-whether-schweitzers-deserve-compensation/>
+
+---
+
+## Enviromental review for TMT extended: Federal report not expected until the end of 2026
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>A federal agency will take at least two years longer to determine whether to fund the Thirty Meter Telescope.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/hawaii-news/enviromental-review-for-tmt-extended-federal-report-not-expected-until-the-end-of-2026/>
+
+---
+
+## State OK’s Hawaiian Telcom’s request to provide cable TV service
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>Big Island residents are finally getting another option for cable television service.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/hawaii-news/state-oks-hawaiian-telcoms-request-to-provide-cable-tv-service/>
+
+---
+
+## Biden finally passes torch to Kamala Harris. What took you so long?
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>Now that the dust has settled, and the Democratic Party is quickly and forcefully rallying around Vice President Kamala Harris, there remains one nagging question.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/opinion/biden-finally-passes-torch-to-kamala-harris-what-took-you-so-long/>
+
+---
+
+## Alaska Airlines, Hawaiian Airlines extend review period of deal amid antitrust scrutiny
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; Alaska Air Group has agreed to extend the review period for the proposed $1.9 billion acquisition of rival Hawaiian Airlines amid antitrust scrutiny from the U.S. Department of Justice, the carrier said in a filing on Tuesday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/nation-world-news/alaska-airlines-hawaiian-airlines-extend-review-period-of-deal-amid-antitrust-scrutiny/>
+
+---
+
+## Harris, rallying thousands in Georgia, challenges Trump to ‘say it to my face’
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA &#8212; Vice President Kamala Harris on Tuesday night challenged former President Donald Trump to commit to a presidential debate during a raucous rally in Atlanta that featured some 10,000 attendees, celebrity appearances and another rare feature of Democrats&#8217; rallies lately: fun.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/nation-world-news/harris-rallying-thousands-in-georgia-challenges-trump-to-say-it-to-my-face/>
+
+---
+
+## Obituaries for July 31
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>Cynthia Baji, 59, of Ka&#8216;u died June 10 at Hilo Benioff Medical Center. Born in North Kona, she was an educational assistant at Naalehu School and pastor for Big Island Remnant Ministries in Ka&#8216;u. Celebration of life 10 a.m.-noon Saturday, Aug. 17, at Kauahaao Congregational Church, 95-1642 Pinao St. in Waiohinu. Survived by husband, Wade K. Baji Sr. of Ka&#8216;u; sons, Wade (Allison) K. Baji Jr. and Marshall K. Baji of Ka&#8216;u; daughters, Debbie K. Baji and Hulali R. Baji of Ka&#8216;u; father, Lot (Alice) Kawaauhau Sr. of Ka&#8216;u; brothers, Lot Kawaauhau Jr. and Scotty Kawaauhau; sisters, Christine Kawaauhau, Elizabeth Kaimiola, Clover (Dominic) Gouveia and Alice Gouveia; 11 grandchildren; nieces, nephews, aunts, uncles, and cousins. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/obituaries/obituaries-for-july-31-10/>
+
+---
+
+## Are Asian American voters loyal to Democrats or shifting Republican?
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>There are more than 700 Asian American elected officials across the country, including the presumed Democratic Party presidential nominee Kamala Harris and 20 members of Congress.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/opinion/are-asian-american-voters-loyal-to-democrats-or-shifting-republican/>
+
+---
+
+## Robots are coming, and they’re on a mission: Install solar panels
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>The companies racing to build large solar farms across the United States are facing a growing problem: not enough workers.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/nation-world-news/robots-are-coming-and-theyre-on-a-mission-install-solar-panels/>
+
+---
+
+## Senate passes child online safety bill, sending it to an uncertain House fate
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Senate on Tuesday passed bipartisan legislation to impose sweeping safety and privacy requirements for children and teens on social media and other technology platforms, voting overwhelmingly to send the measure to the House, where its fate was uncertain.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/nation-world-news/senate-passes-child-online-safety-bill-sending-it-to-an-uncertain-house-fate/>
+
+---
+
+## Israel claims to kill Hezbollah senior commander in Beirut strike
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT/JERUSALEM &#8212; Israel&#8217;s military claimed it killed Hezbollah&#8217;s most senior commander in an airstrike on Beirut on Tuesday, in retaliation for a cross-border rocket attack that killed 12 youngsters three days ago which it blamed on the Lebanese armed group.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/nation-world-news/israel-claims-to-kill-hezbollah-senior-commander-in-beirut-strike/>
+
+---
+
+## US pledges $500 million in new military aid to the Philippines, as China asserts sea claims
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>MANILA, Philippines &#8212; The Biden administration announced Tuesday an additional $500 million of military aid to the Philippines, further bolstering the defense alliance between the two nations while the Philippine military is grappling with aggressive actions by Chinese ships in the South China Sea.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/nation-world-news/us-pledges-500-million-in-new-military-aid-to-the-philippines-as-china-asserts-sea-claims/>
+
+---
+
+## Street clashes turn deadly as Venezuela’s power struggle deepens
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>CARACAS, Venezuela &#8212; At least 11 people &#8212; including one soldier &#8212; have died and about 750 more have been arrested as a result of protests in Venezuela following the highly contentious presidential election over the weekend, according to government officials, rights groups and relatives of the victims.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/nation-world-news/street-clashes-turn-deadly-as-venezuelas-power-struggle-deepens/>
+
+---
+
+## Trump again says that Christians ‘won’t have to vote anymore’ if they vote for him
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>Former President Donald Trump, in an interview broadcast Monday night, repeated his recent assertion that Christians will never have to vote again if they vote for him this November, and brushed aside multiple requests to walk back or clarify the statement.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/nation-world-news/trump-again-says-that-christians-wont-have-to-vote-anymore-if-they-vote-for-him/>
+
+---
+
+## Morgan brothers bring home silver at AVP Junior Nationals, eye Olympic dreams
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>HERMOSA BEACH, Calif. &#8212; Elijah and Ellison Morgan, rising beach volleyball stars from the West Side, recently clinched the silver medal in the AVP Junior National Championships in Hermosa Beach. The brothers&#8217; impressive performance fuels their ambition to represent the United States in beach volleyball at the Olympics one day, inspired by the electrifying setting under the Eiffel Tower in Paris.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/sports/morgan-brothers-bring-home-silver-at-avp-junior-nationals-eye-olympic-dreams/>
+
+---
+
+## MLB trade deadline roundup: All the trades from Monday
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>Less than 24 hours remain before the MLB trade deadline. If you want to catch up on all the deals made over the weekend, here&#8217;s your Thursday-Saturday roundup, and here&#8217;s Sunday&#8217;s edition. Let&#8217;s dig in on all the deals that went down Monday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/sports/mlb-trade-deadline-roundup-all-the-trades-from-monday/>
+
+---
+
+## Simone Biles, US women’s gymnastics golden once again
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; It took 6.81 seconds to erase a conversation stretching back three years and three days.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/sports/simone-biles-us-womens-gymnastics-golden-once-again/>
+
+---
+
+## Nadal and Alcaraz turn up the heat, Gauff knocked out
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; Spain&#8217;s raging bulls Rafa Nadal and Carlos Alcaraz blazed into the quarter-finals of the Olympics men&#8217;s doubles but a host of women&#8217;s singles medal contenders were knocked out as the heat was turned up at Roland Garros on Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/sports/nadal-and-alcaraz-turn-up-the-heat-gauff-knocked-out/>
+
+---
+
+## Nation and world news in brief for July 31
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>Head of Project 2025 policy group steps down after Trump criticism</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/nation-world-news/nation-and-world-news-in-brief-for-july-31/>
+
+---
+
+## Hawaiian Word of the Week: Kūʻai
+
+date: 2024-07-31, from: University of Hawaiʻi News
+
+<p><span aria-label="Kuai">K&#363;&#699;ai</span>&#8212;To buy, barter.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/30/hawaiian-word-of-the-week-kuai/">Hawaiian Word of the Week: Kūʻai</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/30/hawaiian-word-of-the-week-kuai/>
+
+---
+
+## Microbiome data ambassadors selected from UH
+
+date: 2024-07-31, from: University of Hawaiʻi News
+
+<p>Two graduate students and a postdoctoral researcher were selected to be National Microbiome Data Collective Ambassadors of 2024.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/30/microbiome-data-ambassadors/">Microbiome data ambassadors selected from <abbr>UH</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/30/microbiome-data-ambassadors/>
+
+---
+
+## USP hosts Preliminary Rounds of annual high school competitions
+
+date: 2024-07-30, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific’s (USP) Laucala Campus recently hosted the preliminary rounds of...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-hosts-preliminary-rounds-of-annual-high-school-competitions/">USP hosts Preliminary Rounds of annual high school competitions</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-hosts-preliminary-rounds-of-annual-high-school-competitions/>
+
+---
+
+## Free summer intelligence program gains momentum in second year
+
+date: 2024-07-30, from: University of Hawaiʻi News
+
+<p>Participants who successfully completed the program earned three college credits for <abbr>POLS</abbr> 120: Introduction to World Politics.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/30/academy-for-hawaii-intelligence-2nd-year/">Free summer intelligence program gains momentum in second year</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/30/academy-for-hawaii-intelligence-2nd-year/>
+
+---
+
+## UH Hilo students upgrade planetary rover for global testing
+
+date: 2024-07-30, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo software engineering students upgrade software on a planetary rover to be used by space agencies around the world.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/30/uh-hilo-students-rover-global-testing/"><abbr>UH</abbr> Hilo students upgrade planetary rover for global testing</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/30/uh-hilo-students-rover-global-testing/>
+
+---
+
+## Windward CC pioneers pathways to cybersecurity
+
+date: 2024-07-30, from: University of Hawaiʻi News
+
+<p>Five tribal colleges, including Windward <abbr>CC</abbr>, are collaborating to improve cybersecurity and computer science training.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/30/windward-cc-pioneers-cybersecurity-pathways/">Windward <abbr>CC</abbr> pioneers pathways to cybersecurity</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/30/windward-cc-pioneers-cybersecurity-pathways/>
+
+---
+
+## Shidler gives $1M to launch UH Cancer Center Director’s Innovation Fund
+
+date: 2024-07-30, from: University of Hawaiʻi News
+
+<p>The new fund will allow Director Naoto Ueno to advance the lifesaving research being done at the center.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/30/shidler-gifts-1m-uhcc/">Shidler gives $1M to launch <abbr>UH</abbr> Cancer Center Director’s Innovation Fund</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/30/shidler-gifts-1m-uhcc/>
+
+---
+
+## From Moon dust to Antarctica: UH machinist approaches 60 years of service
+
+date: 2024-07-30, from: University of Hawaiʻi News
+
+<p>Roy Tom started on June 15, 1967, fresh out of Honolulu Community College’s machine shop program.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/30/uh-machinist-approaches-60-years/">From Moon dust to Antarctica: <abbr>UH</abbr> machinist approaches 60 years of service</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/30/uh-machinist-approaches-60-years/>
+
+---
+
+## PDC supports humanitarian aid, disaster relief at RIMPAC
+
+date: 2024-07-30, from: University of Hawaiʻi News
+
+<p>The <abbr>UH</abbr> Pacific Disaster Center assisted with a hurricane scenario during <abbr>RIMPAC</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/30/pdc-support-at-rimpac/"><abbr>PDC</abbr> supports humanitarian aid, disaster relief at <abbr>RIMPAC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/30/pdc-support-at-rimpac/>
 
 ---
 
@@ -373,6 +701,42 @@ date: 2024-07-30, from: Hawaii Tribune Harold
 
 ---
 
+## Over 10,000 claims due to Maui fires top $3.29B in losses and damage
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>A breakdown of insurance data for the Maui wildfires shows more than 10,033 claims representing an estimated $3.29 billion-plus in losses.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/hawaii-news/over-10000-claims-due-to-maui-fires-top-3-29b-in-losses-and-damage/>
+
+---
+
+## County: Downtown Hilo homeless camp will be relocated Wednesday
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County on Wednesday will relocate the temporary camp for homeless individuals it set up earlier this month off Ponahawai Street in downtown Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/hawaii-news/county-downtown-hilo-homeless-camp-will-be-relocated-wednesday/>
+
+---
+
+## State Circuit Court rules in favor of Native Hawaiian midwives
+
+date: 2024-07-30, from: Hawaii Tribune Harold
+
+
+				<p>A state Circuit Court has ruled in favor of plaintiffs challenging a Hawaii law that prevented traditional midwives from assisting in pregnancies and births without state-issued licenses.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/30/hawaii-news/state-circuit-court-rules-in-favor-of-native-hawaiian-midwives/>
+
+---
+
 ## Today Features
 
 date: 2024-07-30, from: Island Times
@@ -425,7 +789,7 @@ date: 2024-07-30, from: Island Times
 
 date: 2024-07-30, from: Island Times
 
-<figure><img width="1024" height="521" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?fit=1024%2C521&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?w=1367&amp;ssl=1 1367w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=300%2C153&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=1024%2C521&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=768%2C391&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=1200%2C611&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=400%2C204&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=706%2C359&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?fit=1024%2C521&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71546" data-permalink="https://islandtimes.org/local-pork-hits-west-melekeok-store/messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?fit=1367%2C696&amp;ssl=1" data-orig-size="1367,696" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?fit=300%2C153&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?fit=780%2C397&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="1024" height="521" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?fit=1024%2C521&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?w=1367&amp;ssl=1 1367w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=300%2C153&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=1024%2C521&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=768%2C391&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=1200%2C611&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=400%2C204&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?resize=706%2C359&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?fit=1024%2C521&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71546" data-permalink="https://islandtimes.org/local-pork-hits-west-melekeok-store/messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?fit=1367%2C696&amp;ssl=1" data-orig-size="1367,696" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?fit=300%2C153&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Messenger_creation_3c9282b5-5f95-4ef9-844e-c22db9b677bd.jpeg?fit=780%2C397&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>By: Olkeriil Eoghan Ngirudelsang MELEKEOK, Palau – Locally raised and butchered pork is now available at WCTC’s West Melekeok store. About 120 pounds of pork were delivered to the store last week. The meat, labeled simply “Local Pork,” is individually packaged and carries the seal of approval from Palau’s Bureau of Agriculture. The piglets were [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/local-pork-hits-west-melekeok-store/">Local Pork Hits West Melekeok Store</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -462,7 +826,7 @@ date: 2024-07-30, from: Island Times
 
 date: 2024-07-30, from: Island Times
 
-<figure><img width="624" height="416" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?fit=624%2C416&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?w=624&amp;ssl=1 624w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?fit=624%2C416&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71536" data-permalink="https://islandtimes.org/koa-moana-24-arff-sme-exchange/koa/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?fit=624%2C416&amp;ssl=1" data-orig-size="624,416" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="koa" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?fit=624%2C416&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="624" height="416" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?fit=624%2C416&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?w=624&amp;ssl=1 624w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?fit=624%2C416&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71536" data-permalink="https://islandtimes.org/koa-moana-24-arff-sme-exchange/koa/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?fit=624%2C416&amp;ssl=1" data-orig-size="624,416" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="koa" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/koa.jpg?fit=624%2C416&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>Photo by Sgt. Nello Miele1st Marine Logistics Group U.S. Marines with Marine Air Control Group 38, 3rd Marine Aircraft Wing and Palauan locals say goodbye after a subject matter exchange with Aircraft Rescue and Fire Fighting personnel during exercise Koa Moana 24 at the Palau International Airport, Airai, Palau, July 26, 2024. During Koa Moana’s [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/koa-moana-24-arff-sme-exchange/">Koa Moana 24: ARFF SME Exchange</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -487,7 +851,7 @@ date: 2024-07-30, from: Island Times
 
 date: 2024-07-30, from: Island Times
 
-<figure><img width="180" height="240" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?w=180&amp;ssl=1 180w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71531" data-permalink="https://islandtimes.org/australian-embassy-welcomes-tegan-long-for-yiwarra-kuju-the-canning-stock-route/australia-13/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1" data-orig-size="180,240" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="australia" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="180" height="240" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?w=180&amp;ssl=1 180w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71531" data-permalink="https://islandtimes.org/australian-embassy-welcomes-tegan-long-for-yiwarra-kuju-the-canning-stock-route/australia-13/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1" data-orig-size="180,240" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="australia" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/australia.jpg?fit=180%2C240&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>Ambassador Richelle Turner is pleased to welcome Ms Tegan Long to the Australian Embassy, Republic of Palau for the next three weeks. Ms Long is in Palau to assist the Embassy showcase Yiwarra Kuju: The Canning Stock Route. The Yiwarra Kuju exhibition features stories and artwork from senior and emerging Australian artists and traditional custodians [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/australian-embassy-welcomes-tegan-long-for-yiwarra-kuju-the-canning-stock-route/">Australian Embassy welcomes Tegan Long for Yiwarra Kuju: The Canning Stock route</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -500,7 +864,7 @@ date: 2024-07-30, from: Island Times
 
 date: 2024-07-30, from: Island Times
 
-<figure><img width="624" height="317" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?fit=624%2C317&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?w=624&amp;ssl=1 624w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?resize=300%2C152&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?resize=400%2C203&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?fit=624%2C317&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71528" data-permalink="https://islandtimes.org/palau-mangrove-campaign-launched-with-future-stewards/mangrove2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?fit=624%2C317&amp;ssl=1" data-orig-size="624,317" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mangrove2" data-image-description="" data-image-caption="&lt;p&gt;5th grade students kayaking at Oikull.  PC: Jesse Alpert&lt;/p&gt;
+<figure><img width="624" height="317" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?fit=624%2C317&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?w=624&amp;ssl=1 624w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?resize=300%2C152&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?resize=400%2C203&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?fit=624%2C317&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71528" data-permalink="https://islandtimes.org/palau-mangrove-campaign-launched-with-future-stewards/mangrove2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?fit=624%2C317&amp;ssl=1" data-orig-size="624,317" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mangrove2" data-image-description="" data-image-caption="&lt;p&gt;5th grade students kayaking at Oikull.  PC: Jesse Alpert&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?fit=300%2C152&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/mangrove2.jpg?fit=624%2C317&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>Palau In a grand celebration of World Mangrove Day, approximately 130 5th and 6th grade students from elementary schools across Palau participated in an immersive field trip to explore and learn about the vital mangrove ecosystems. This initiative was part of a national Mangrove Education Campaign guided by a coalition of local partners. The students, [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/palau-mangrove-campaign-launched-with-future-stewards/">Palau Mangrove Campaign Launched with Future Stewards</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
@@ -514,7 +878,7 @@ date: 2024-07-30, from: Island Times
 
 date: 2024-07-30, from: Island Times
 
-<figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71526" data-permalink="https://islandtimes.org/family-warzone/wc1-15/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?fit=524%2C522&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71526" data-permalink="https://islandtimes.org/family-warzone/wc1-15/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/WC1-1.jpg?fit=524%2C522&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>Are you hungry for more in life? This column was created as a reaction to domestic violence that was rampant throughout the island. That was twenty-two years ago. Domestic violence is still rampant. Are we being self destructive by trying to be nice to everyone? I know a wife who died of cancer a couple [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/family-warzone/">Family Warzone</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -587,7 +951,7 @@ date: 2024-07-30, from: Island Times
 
 date: 2024-07-30, from: Island Times
 
-<figure><img width="768" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71512" data-permalink="https://islandtimes.org/the-pacific-island-athletes-at-the-paris-olympics-and-when-you-can-watch-them/palau-team-at-paris-olympics/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?fit=1080%2C1440&amp;ssl=1" data-orig-size="1080,1440" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Palau Team at Paris Olympics" data-image-description="" data-image-caption="&lt;p&gt;Jion Hosei , Yuri Hosei  and Sydney Francisco, Palau Olympians in  the 2024 Paris Olympics. (Photo credit:  Palau NOC)&lt;/p&gt;
+<figure><img width="768" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71512" data-permalink="https://islandtimes.org/the-pacific-island-athletes-at-the-paris-olympics-and-when-you-can-watch-them/palau-team-at-paris-olympics/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?fit=1080%2C1440&amp;ssl=1" data-orig-size="1080,1440" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Palau Team at Paris Olympics" data-image-description="" data-image-caption="&lt;p&gt;Jion Hosei , Yuri Hosei  and Sydney Francisco, Palau Olympians in  the 2024 Paris Olympics. (Photo credit:  Palau NOC)&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Palau-Team-at-Paris-Olympics.jpg?fit=768%2C1024&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>By Penina Momoisea https://https://www.abc.net.au/pacific/olympic-games-2024-pacific-athletes-in-paris/104140220 (ABC-Australia) The 2024 Paris Olympic Games will officially begin with Saturday morning&#8217;s opening ceremony, although some athletes, including the rugby sevens, have already taken to the field. There are plenty of Pasifika athletes representing their countries and cultures in Paris – here&#8217;s an alphabetical list of those competing, the flag bearers [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/the-pacific-island-athletes-at-the-paris-olympics-and-when-you-can-watch-them/">The Pacific Island athletes at the Paris Olympics and when you can watch them</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
