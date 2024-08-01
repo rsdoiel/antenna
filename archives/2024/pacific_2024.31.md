@@ -1,11 +1,511 @@
 ---
 title: pacific 2024.31
-updated: 2024-07-31 08:04:59
+updated: 2024-08-01 08:25:58
 ---
 
 # pacific 2024.31
 
-(date: 2024-07-31 08:04:59)
+(date: 2024-08-01 08:25:58)
+
+---
+
+## Ocean View man indicted for sexual assault of a minor
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>A Kailua-Kona grand jury last week indicted a 44-year-old Ocean View man for the alleged sexual assault of a juvenile girl over a six-year period.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/hawaii-news/ocean-view-man-indicted-for-sexual-assault-of-a-minor/>
+
+---
+
+## Why are so many Americans choosing to not have children?
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>For years, some conservatives have framed the declining fertility rate of the United States as an example of eroding family values, a moral catastrophe in slow motion.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/nation-world-news/why-are-so-many-americans-choosing-to-not-have-children/>
+
+---
+
+## Accused Sept. 11 plotters agree to plead guilty at Guantánamo Bay
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>GUANT&#193;NAMO BAY, Cuba &#8212; The man accused of plotting the attacks of Sept. 11 and two of his accomplices have agreed to plead guilty to conspiracy and murder charges in exchange for a life sentence rather than a death-penalty trial at Guant&#225;namo Bay, Cuba, prosecutors said Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/nation-world-news/accused-sept-11-plotters-agree-to-plead-guilty-at-guantanamo-bay/>
+
+---
+
+## Forecasters keeping eye on Tropical Storm Carlotta
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>Forecasters are keeping an eye on the newly developed Tropical Storm Carlotta.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/hawaii-news/forecasters-keeping-eye-on-tropical-storm-carlotta/>
+
+---
+
+## Trump questions Harris’ racial identity, saying she only ‘became a Black person’ recently
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO &#8212; Former President Donald Trump questioned Vice President Kamala Harris&#8217; identity as a Black woman Wednesday in front of an audience of Black journalists, suggesting his opponent for the presidency had adopted her racial profile as a way to gain a political advantage. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/nation-world-news/trump-questions-harris-racial-identity-saying-she-only-became-a-black-person-recently/>
+
+---
+
+## County homeless camp relocated: Former site in Hilo has been restored
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>A downtown Hilo homeless shelter has been closed and relocated elsewhere in town, to the surprise of some of its new neighbors.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/hawaii-news/county-homeless-camp-relocated-former-site-in-hilo-has-been-restored/>
+
+---
+
+## Obituaries for August 1
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>Alvin Godfrey Castro III, 21, of Waimea died June 28 in Waimea. Born in Waimea, he did maintenance at the Makani Golf Club. Visitation 9:30-11 a.m. Saturday, Aug. 17, at Mana Christian Ohana, 67-1182 Lindsey Rd. in Waimea. Service at 11 a.m. Survived by mother, Kristen Castro of Waimea; girlfriend, Jazlyn Kawasaki of Kailua-Kona; sisters, Jasmine (Justen Kawamoto) Juan Leong, Kiana (Kea Ibana) Juan Leong and Kayli-Ann Castro of Waimea, Ashlyn Castro of Honolulu; brother, Caleb Castro of Waimea; grandfather, Alvin (Thelma Meheula) Castro Sr. of Honolulu; nieces, nephews, aunts, uncles and cousins. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/obituaries/obituaries-for-august-1-7/>
+
+---
+
+## North Korea wants to restart nuclear talks if Trump wins, says ex-diplomat
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL &#8212; North Korea wants to reopen nuclear talks with the United States if Donald Trump is re-elected as president and is working to devise a new negotiating strategy, a senior North Korean diplomat who recently defected to South Korea told Reuters. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/nation-world-news/north-korea-wants-to-restart-nuclear-talks-if-trump-wins-says-ex-diplomat/>
+
+---
+
+## Venezuela’s election was deeply flawed. Here’s how
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>BOGOT&#193;, Colombia &#8212; It had already been clear for months that Venezuela&#8217;s presidential election Sunday, would not be free or fair, as the government jailed opposition leaders or disqualified them from running for office, and prevented millions of Venezuelans abroad from voting.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/nation-world-news/venezuelas-election-was-deeply-flawed-heres-how/>
+
+---
+
+## California cities divided on response to homeless encampments
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>San Francisco will ramp up sweeps of homeless encampments under a directive issued days after California Governor Gavin Newsom told cities to begin enforcing laws against camping, while Los Angeles said it would effectively ignore the state&#8217;s order. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/nation-world-news/california-cities-divided-on-response-to-homeless-encampments/>
+
+---
+
+## Your Views for August 1
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>Mahalo for the help&#0010;at downtown KTA</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/opinion/your-views-for-august-1-8/>
+
+---
+
+## Man up, MAGA. White Dudes for Harris are here
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>A mob of white men in the thousands amassed in a show of solidarity for their presidential candidate of choice, and no violence ensued. Not one broken window, makeshift noose or whiff of bear spray.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/opinion/man-up-maga-white-dudes-for-harris-are-here/>
+
+---
+
+## Who will pay for the Crowdstrike outage?
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>Crowdstrike did not have a good day on July 19. During a routine software update, the file that the cybersecurity firm issued triggered a logic error that prohibited Windows machines from rebooting. Microsoft estimates that around 8.5 million computers may have been affected by the event.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/opinion/who-will-pay-for-the-crowdstrike-outage/>
+
+---
+
+## Cities scaled back traffic stops, and road deaths soared
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>In the early days of the pandemic in 2020, traffic stops by police plummeted around the country, as fewer cars were on the road and as agencies instructed officers to avoid nonessential contact with the public.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/nation-world-news/cities-scaled-back-traffic-stops-and-road-deaths-soared/>
+
+---
+
+## Arizona Republican who said 2020 election was not stolen loses primary
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>PHOENIX &#8212; Republican voters on Tuesday ousted a top elections official in Arizona&#8217;s most populous county who angered conservatives by defending the state&#8217;s voting system against false claims that the 2020 election was stolen, according to The Associated Press.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/nation-world-news/arizona-republican-who-said-2020-election-was-not-stolen-loses-primary/>
+
+---
+
+## Fed’s Powell puts September rate cut on table as US inflation cools
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Federal Reserve Chair Jerome Powell said on Wednesday interest rates could be cut as soon as September if the U.S. economy follows its expected path, putting the central bank near the end of a more than two-year battle against inflation but square in the middle of the nation&#8217;s presidential election campaign. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/business/feds-powell-puts-september-rate-cut-on-table-as-us-inflation-cools/>
+
+---
+
+## Biden calls for bigger penalties, more controls to fight US fentanyl crisis
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden called for larger penalties for drug smugglers and stricter controls on pill presses and importers on Wednesday as part of new steps to deal with the U.S. opioid crisis, according to a senior administration official. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/nation-world-news/biden-calls-for-bigger-penalties-more-controls-to-fight-us-fentanyl-crisis/>
+
+---
+
+## United Auto Workers union endorses Harris’ bid for US president
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>DETROIT/WASHINGTON &#8212; The United Auto Workers union endorsed Vice President Kamala Harris for U.S. president on Wednesday, providing a likely boost for Harris in the swing state of Michigan as her recently launched campaign ramps up. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/nation-world-news/united-auto-workers-union-endorses-harris-bid-for-us-president/>
+
+---
+
+## Killing of Hamas chief in Iran stirs fears of retaliation, regional conflict
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/DUBAI &#8212; Hamas leader Ismail Haniyeh was assassinated in the Iranian capital Tehran early on Wednesday morning, an attack that drew threats of revenge on Israel and fuelled further concern that the conflict in Gaza was turning into a wider Middle East war. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/nation-world-news/killing-of-hamas-chief-in-iran-stirs-fears-of-retaliation-regional-conflict/>
+
+---
+
+## USWNT 2 Australia 1: Korbin Albert’s goal, VAR call help U.S. capture first place in Olympic group
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>If it&#8217;s not broken, don&#8217;t fix it.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/sports/uswnt-2-australia-1-korbin-alberts-goal-var-call-help-u-s-capture-first-place-in-olympic-group/>
+
+---
+
+## Acrobats’ son Kharun flips script to win medal for Canada
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; When two Ukrainian acrobats from the Cirque du Soleil raised their son in Las Vegas, little did they know he would one day win an Olympic medal for Canada.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/sports/acrobats-son-kharun-flips-script-to-win-medal-for-canada/>
+
+---
+
+## Djokovic and Alcaraz move closer to golden showdown, ‘Nadalcaraz’ dream over
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; Serbia&#8217;s Novak Djokovic and Spain&#8217;s Carlos Alcaraz stayed on collision course for a golden showdown at the Paris Olympics as they surged through to the quarter-finals on Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/sports/djokovic-and-alcaraz-move-closer-to-golden-showdown-nadalcaraz-dream-over/>
+
+---
+
+## U.S. on track for another gold with victory over South Sudan, Serbia win
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>LILLE, France &#8212; The United States continued their quest for a fifth successive gold medal with a 103-86 victory over South Sudan in men&#8217;s basketball, while Serbia dominated Puerto Rico in a 107-66 win in the second round of Group C matches on Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/sports/u-s-on-track-for-another-gold-with-victory-over-south-sudan-serbia-win/>
+
+---
+
+## Nation and world news in brief for August 1
+
+date: 2024-08-01, from: Hawaii Tribune Harold
+
+
+				<p>Border arrests in July drop to low under Biden</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/01/nation-world-news/nation-and-world-news-in-brief-for-august-1/>
+
+---
+
+## Futsal tourney a RMI first
+
+date: 2024-08-01, from: Marshal Islands Journal
+
+<p>With less than two weeks notice, the Marshall Islands Soccer Federation was able to successfully host the inaugural Outrigger Challenge Cup Futsal Tournament in Majuro, with included visiting teams from Federated States of Micronesia and Kiribati. The final, played at the Marshall Islands High School gym, was won by Kiribati who fought off a determined [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/futsal-tourney-a-rmi-first/">Futsal tourney a RMI first</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/futsal-tourney-a-rmi-first/>
+
+---
+
+## How we can win this drug war from within
+
+date: 2024-08-01, from: Pacific Island Times
+
+By Jayne Flores Not so fun fact: In March of this year, the Guam Behavioral Health and Wellness Center acquired a new vending machine... 
+
+<https://www.pacificislandtimes.com/post/how-we-can-win-this-drug-war-from-within>
+
+---
+
+## The ‘My Way’ doctrine of Guam politics
+
+date: 2024-08-01, from: Pacific Island Times
+
+Given many residents of Guam are new and many, if not most, are too young to remember, here is a bit of background on the original... 
+
+<https://www.pacificislandtimes.com/post/the-my-way-doctrine-of-guam-politics>
+
+---
+
+## Lolelaplap HQ showcases Jeimata domain
+
+date: 2024-08-01, from: Marshal Islands Journal
+
+<p>A milestone in the traditional sphere of governance in the Marshall Islands was reached last Saturday with the opening of the Lolelaplap Headquarters in Kwajalein Atoll. The Mojen (domain) eo an Iroojlaplap Bweio Jeimata Kabua is one of four domains in the Ralik Chain, under the leadership of Iroojlaplap Michael LaMañiñi Kabua. Last Saturday, the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/lolelaplap-hq-showcases-jeimata-domain/">Lolelaplap HQ showcases Jeimata domain</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/lolelaplap-hq-showcases-jeimata-domain/>
+
+---
+
+## Small Island, Big Dreams: Brown’s Academic Pursuit
+
+date: 2024-08-01, from: University of the South Pacific (Fiji)
+
+<p>Pinak Brown, a 22-year-old from the serene Rabi Island, is making waves at The University...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/small-island-big-dreams-browns-academic-pursuit/">Small Island, Big Dreams: Brown’s Academic Pursuit</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/small-island-big-dreams-browns-academic-pursuit/>
+
+---
+
+## Planned US missile defense tests divide Guam residents
+
+date: 2024-07-31, from: Pacific Island Times
+
+A 10-year launch program is part of the U.S. military’s Pacific build-up against China By Mar-Vic Cagurangan and Stefan Armbruster... 
+
+<https://www.pacificislandtimes.com/post/planned-us-missile-defense-tests-divide-guam-residents>
+
+---
+
+## USP leads Regional Study on Gender Equality in STEM Disciplines
+
+date: 2024-07-31, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) recently formalised a grant agreement with the Pacific...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-leads-regional-study-on-gender-equality-in-stem-disciplines/">USP leads Regional Study on Gender Equality in STEM Disciplines</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-leads-regional-study-on-gender-equality-in-stem-disciplines/>
+
+---
+
+## ‘Green’ vessel hailed on arrival
+
+date: 2024-07-31, from: Marshal Islands Journal
+
+<p>EVE BURNS The newest state of the art sailing cargo-passenger vessel added to Marshall Islands fleet is none other than the SV Juren Ae, which was welcomed home last Wednesday. Witnessing the arrival of the Juren Ae were President Hilda Heine, and a lineup of VIPs and general public. Leading the welcoming ceremony was Shipping [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/green-vessel-hailed-on-arrival/">‘Green’ vessel hailed on arrival</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/green-vessel-hailed-on-arrival/>
+
+---
+
+## Microplastics’ effect on lung health part of pioneering UH study
+
+date: 2024-07-31, from: University of Hawaiʻi News
+
+<p>Engineers are trying to figure out how these tiny plastic particles affect our health and the environment.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/31/microplastics-effect-on-lung-health/">Microplastics’ effect on lung health part of pioneering <abbr>UH</abbr> study</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/31/microplastics-effect-on-lung-health/>
+
+---
+
+## Image of the Week: Olympic volleyball
+
+date: 2024-07-31, from: University of Hawaiʻi News
+
+<p>This week's image is <abbr>UH</abbr> Mānoa alumnus Taylor Averill who is competing for Team <abbr>USA</abbr> at the Paris Olympics.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/31/image-of-the-week-olympic-volleyball/">Image of the Week: Olympic volleyball</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/31/image-of-the-week-olympic-volleyball/>
+
+---
+
+## CNMI's longest serving lawmaker seeks reelection
+
+date: 2024-07-31, updated: 2024-08-01, from: Marianas Variety
+
+WITH his wife, Lydia Manibusan Manglona, children, grandchildren, brother Thomas A. Manglona, other relatives, friends and supporters, Rota Sen. Paul A. Manglona filed his candidacy at the Commonwealth Election Commission on Wednesday. 
+
+<https://www.mvariety.com/news/local/cnmis-longest-serving-lawmaker-seeks-reelection/article_d31a786c-4f10-11ef-bedd-db1c1ddbd6c2.html>
+
+---
+
+## Hamas chief's killing in Iran fuels fears of retaliation and wider war
+
+date: 2024-07-31, updated: 2024-08-01, from: Marianas Variety
+
+CAIRO/DUBAI (Reuters) — Hamas leader Ismail Haniyeh was assassinated early on Wednesday morning in Iran, the Palestinian militant group and Tehran said, drawing threats of revenge on Israel in a region already shaken by the war in Gaza and a deepening conflict in Lebanon. 
+
+<https://www.mvariety.com/news/regional_world/hamas-chiefs-killing-in-iran-fuels-fears-of-retaliation-and-wider-war/article_2a8c840c-4f46-11ef-afd7-676e07de73be.html>
+
+---
+
+## Governor tries to resolve SMA’s dispute with CPA
+
+date: 2024-07-31, updated: 2024-08-01, from: Marianas Variety
+
+“WE’RE working on something mutually acceptable to Star Marianas Air, the Commonwealth Ports Authority, the Saipan community, the community of Rota, and the community of Tinian,” Gov. Arnold I. Palacios said on Wednesday. 
+
+<https://www.mvariety.com/news/local/governor-tries-to-resolve-sma-s-dispute-with-cpa/article_2dec9760-4f3f-11ef-8f21-07158af4799d.html>
+
+---
+
+## Palacios, Apatang hear marine sports operators’ concerns
+
+date: 2024-07-31, updated: 2024-08-01, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios and Lt. Gov. David M. Apatang met with marine sports operators on Wednesday at the governor’s office to hear concerns regarding the proposed changes to the commercial rules and regulations pertaining to Managaha. 
+
+<https://www.mvariety.com/news/local/palacios-apatang-hear-marine-sports-operators-concerns/article_5eb1a9e6-4f42-11ef-a94f-4f0bf8407264.html>
+
+---
+
+## RB demands public hearing on Managaha rules
+
+date: 2024-07-31, updated: 2024-08-01, from: Marianas Variety
+
+SAIPAN Mayor Ramon “RB” Camacho said a public hearing should be held on the Department of Public Lands’s proposed changes to the commercial rules and regulations pertaining to Managaha. 
+
+<https://www.mvariety.com/news/local/rb-demands-public-hearing-on-managaha-rules/article_60291cf8-4f44-11ef-af9c-cf86438755ae.html>
+
+---
+
+## Water meter tampering trial underway
+
+date: 2024-07-31, updated: 2024-08-01, from: Marianas Variety
+
+THE bench trial of John M. Deleon Guerrero, who is accused of tampering with a Commonwealth Utilities Corporation water meter, started on Wednesday with Superior Court Associate Judge Joseph N. Camacho presiding. 
+
+<https://www.mvariety.com/news/local/water-meter-tampering-trial-underway/article_c8f6fd04-4f44-11ef-b2d0-7b842b057154.html>
+
+---
+
+## DLNR conducts livestock survey
+
+date: 2024-07-31, updated: 2024-08-01, from: Marianas Variety
+
+THE Department of Land and Natural Resources-Animal Health Division has been conducting a comprehensive livestock survey across Saipan. This initiative aims to gather critical data to enhance animal health and production programs for the benefit of local ranchers and the broader community. 
+
+<https://www.mvariety.com/news/local/dlnr-conducts-livestock-survey/article_1f8965da-4f45-11ef-ad87-d3a905b282dc.html>
+
+---
+
+## 3Q revenue shortfall: $3.4M
+
+date: 2024-07-31, updated: 2024-08-01, from: Marianas Variety
+
+THE CNMI government’s revenue shortfall went down to $3.4 million in the third quarter from $4.1 million in the second quarter of fiscal year 2024, Finance Secretary Tracy B. Norita said in her quarterly financial report. 
+
+<https://www.mvariety.com/news/local/3q-revenue-shortfall-3-4m/article_480bc0ba-4f0a-11ef-9c3f-93cb4939784e.html>
+
+---
+
+## In Atalig’s lawsuit against DPW, judge sets status conference for Aug. 12
+
+date: 2024-07-31, updated: 2024-08-01, from: Marianas Variety
+
+JUDGE Pro Tempore Dana A. Gutierrez on Monday set a status conference for Aug. 12, 2024, regarding Felipe Q. Atalig's lawsuit against the Department of Public Works. 
+
+<https://www.mvariety.com/news/local/in-atalig-s-lawsuit-against-dpw-judge-sets-status-conference-for-aug-12/article_c790177a-4f03-11ef-8fcd-3345abe57d1c.html>
+
+---
+
+## Life in NMI is getting harder
+
+date: 2024-07-31, updated: 2024-08-01, from: Marianas Variety
+
+OVER the past few years, many island residents have left the CNMI for the U.S. in search of a better life. 
+
+<https://www.mvariety.com/news/local/life-in-nmi-is-getting-harder/article_71532514-4f03-11ef-b740-d3fd2162004a.html>
 
 ---
 
@@ -234,6 +734,18 @@ date: 2024-07-31, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/07/31/nation-world-news/nation-and-world-news-in-brief-for-july-31/>
+
+---
+
+## Police seek ‘armed and dangerous’ suspect
+
+date: 2024-07-31, from: Hawaii Tribune Harold
+
+
+				<p>Police are seeking the public&#8217;s assistance to find a 32-year-old man they describe as &#8220;armed and dangerous.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/31/hawaii-news/police-seek-armed-and-dangerous-suspect/>
 
 ---
 

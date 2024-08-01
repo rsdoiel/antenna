@@ -1,11 +1,271 @@
 ---
 title: motorcycles 2024.31
-updated: 2024-07-31 08:05:05
+updated: 2024-08-01 08:26:05
 ---
 
 # motorcycles 2024.31
 
-(date: 2024-07-31 08:05:05)
+(date: 2024-08-01 08:26:05)
+
+---
+
+## How Much Power Does the 2024 Harley-Davidson Low Rider S Make?
+
+date: 2024-08-01, from: Cycle World News
+
+The 2024 Harley-Davidson Low Rider S gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower. 
+
+<https://www.cycleworld.com/bikes/harley-davidson-low-rider-s-dyno-test-2024/>
+
+---
+
+## Suzuki Says Stop Sale, Stop Ride On 2023-24 V-Strom 800DEs Over Rear Tire
+
+date: 2024-08-01, from: Ride Apart, Electric Motorcycle News
+
+A rear tire defect on a range of tires supplied by Sumitomo could pose a serious safety issue. 
+
+<https://www.rideapart.com/news/728593/suzuki-vstrom-800de-tire-recall/>
+
+---
+
+## Ola Electric Might Launch a New EV Motorcycle, Way Sooner Than We Expected
+
+date: 2024-08-01, from: Ride Apart, Electric Motorcycle News
+
+No less than Ola’s CEO took to social media to flex the upcoming model.  
+
+<https://www.rideapart.com/news/728473/ola-electric-ev-motorcycle-launch-august-15/>
+
+---
+
+## Indian Recalls Some 2024 Bikes, Risk of Rear Suspension Failure
+
+date: 2024-08-01, from: Ride Apart, Electric Motorcycle News
+
+A specific production range of rear suspension pushrods were not manufactured to Indian's specifications. 
+
+<https://www.rideapart.com/news/728588/indian-motorcycle-rear-suspension-recall/>
+
+---
+
+## Seattle Tesla Driver Who Killed a Motorcyclist Was Using Autopilot, Cops Say
+
+date: 2024-08-01, from: Ride Apart, Electric Motorcycle News
+
+How haven't the Feds stepped in already? 
+
+<https://www.rideapart.com/news/728584/tesla-autopilot-motorcyclist-death-killed-cops/>
+
+---
+
+## Mainstream Helmet Use Stemmed From the Death of This Famous Dude
+
+date: 2024-08-01, from: Ride Apart, Electric Motorcycle News
+
+Turns out our heads weren’t designed to be smacked on the ground at 60 miles an hour.  
+
+<https://www.rideapart.com/news/728476/mainstream-helmet-use-lawrence-of-arabia/>
+
+---
+
+## Ducati Working on Less Expensive V-twin Sportbike
+
+date: 2024-07-31, from: Cycle World News
+
+Ducati’s Panigale V2 will disappear after 2025 with the Final Edition; it appears that a cheaper, street-oriented sportbike is going to take its place. 
+
+<https://www.cycleworld.com/motorcycle-news/ducati-budget-v-twin-sportbike-coming-soon/>
+
+---
+
+## How an Edelweiss Tour Taught Me to Go Along for the Ride Gallery
+
+date: 2024-07-31, from: Cycle World News
+
+Photos from Cycle World's How an Edelweiss Tour Taught Me to Go Along for the Ride article. 
+
+<https://www.cycleworld.com/gallery/how-edelweiss-tour-taught-me-to-go-along-for-the-ride-photos/>
+
+---
+
+## 2024 Yamaha XSR900 GP First Ride Gallery
+
+date: 2024-07-31, from: Cycle World News
+
+Photos from Cycle World's 2024 Yamaha XSR900 GP First Ride article. 
+
+<https://www.cycleworld.com/gallery/2024-yamaha-xsr900-gp-first-ride-photos/>
+
+---
+
+## 2024 BMW CE 02 Ride Review Gallery
+
+date: 2024-07-31, from: Cycle World News
+
+Photos from Cycle World's 2024 BMW CE 02 Ride Review article. 
+
+<https://www.cycleworld.com/gallery/2024-bmw-ce-02-ride-review-photos/>
+
+---
+
+## Ducati Monster Senna First Look Gallery
+
+date: 2024-07-31, from: Cycle World News
+
+Photos from Cycle World's Ducati Monster Senna First Look article. 
+
+<https://www.cycleworld.com/gallery/ducati-monster-senna-first-look-photos/>
+
+---
+
+## Bridgestone Battlax Hypersport S23 Tire Review Gallery
+
+date: 2024-07-31, from: Cycle World News
+
+Photos from Cycle World's Bridgestone Battlax Hypersport S23 Tire Review article. 
+
+<https://www.cycleworld.com/gallery/bridgestone-battlax-hypersport-s23-tire-review-photos/>
+
+---
+
+## Ducati Presents Two Scrambler Concept Bikes at Bike Shed Gallery
+
+date: 2024-07-31, from: Cycle World News
+
+Photos from Cycle World's Ducati Presents Two Scrambler Concept Bikes at Bike Shed article. 
+
+<https://www.cycleworld.com/gallery/ducati-presents-two-scrambler-concept-bikes-at-bike-shed-photos/>
+
+---
+
+## 2024 Yamaha YZF-R7
+
+date: 2024-07-31, from: Cycle World News
+
+Yamaha’s YZF-R7 is the sportier option in the new middleweight sportbike category that also includes Aprilia’s RS 660, Suzuki’s GSX-8R, and others. 
+
+<https://www.cycleworld.com/yamaha/yzf-r7/>
+
+---
+
+## Arai XD-5 Review Gallery
+
+date: 2024-07-31, from: Cycle World News
+
+Photos from Cycle World's Arai XD-5 Review article. 
+
+<https://www.cycleworld.com/gallery/arai-xd-5-review-photos/>
+
+---
+
+## Highlights From the 2024 Quail Motorcycle Gathering Gallery
+
+date: 2024-07-31, from: Cycle World News
+
+Photos from Cycle World's 2024 Quail Motorcycle Gathering article. 
+
+<https://www.cycleworld.com/gallery/2024-quail-motorcycle-gathering-photos/>
+
+---
+
+## 2024 Indian Super Chief Limited Review Gallery
+
+date: 2024-07-31, from: Cycle World News
+
+Photos from Cycle World's 2024 Indian Super Chief Limited Review article. 
+
+<https://www.cycleworld.com/gallery/2024-indian-super-chief-limited-review-photos/>
+
+---
+
+## First Look: 2025 Ducati Streetfighter V4 S Supreme Gallery
+
+date: 2024-07-31, from: Cycle World News
+
+Photos from Cycle World's 2025 Ducati Streetfighter V4 S Supreme First Look article. 
+
+<https://www.cycleworld.com/gallery/2025-ducati-streetfighter-v4-s-supreme-photos/>
+
+---
+
+## Suzuki V-Strom 800DE Rally Racer Project Gallery
+
+date: 2024-07-31, from: Cycle World News
+
+Photos from Cycle World's Suzuki V-Strom 800DE Rally Racer Project article. 
+
+<https://www.cycleworld.com/gallery/suzuki-v-strom-800de-rally-racer-project-photos/>
+
+---
+
+## 2025 Triumph Speed Triple 1200 RR Breitling Limited Edition Gallery
+
+date: 2024-07-31, from: Cycle World News
+
+Photos from Cycle World's 2025 Triumph Speed Triple 1200 RR Breitling Limited Edition article. 
+
+<https://www.cycleworld.com/gallery/2025-triumph-speed-triple-1200-rr-breitling-limited-edition-photos/>
+
+---
+
+## Rev’It Xena 4 Ladies One-Piece Motorcycle Suit Review
+
+date: 2024-07-31, from: Cycle World News
+
+Photos from Cycle World's Rev’It Xena 4 Ladies One-Piece Motorcycle Suit Review article. 
+
+<https://www.cycleworld.com/gallery/2024-rev-it-xena-4-ladies-one-piece-motorcycle-suit-photos/>
+
+---
+
+## 2024 KTM RC 8C First Ride Gallery
+
+date: 2024-07-31, from: Cycle World News
+
+Photos from Cycle World's 2024 KTM RC 8C First Ride article. 
+
+<https://www.cycleworld.com/gallery/2024-ktm-rc-8c-first-ride-photos/>
+
+---
+
+## 2024 Barber Small Bore Photo Gallery
+
+date: 2024-07-31, from: Cycle World News
+
+Photos from Cycle World's 2024 Barber Small Bore article. 
+
+<https://www.cycleworld.com/gallery/2024-barber-small-bore-photos/>
+
+---
+
+## Royal Enfield Launches Borderless Warranty Program
+
+date: 2024-07-31, from: Cycle World News
+
+First Indian Automotive brand to offer a global warranty, backed by a network of over 3000+  Royal Enfield authorised service touch points in 70+ countries. 
+
+<https://www.cycleworld.com/the-wire/royal-enfield-launches-borderless-warranty-program/>
+
+---
+
+## 2024 ARCA West at Shasta: Team Reactions, Analysis
+
+date: 2024-07-31, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires The Shasta 150, the seventh race of the 2024 ARCA Menards West Series season, held at Shasta Speedway in Anderson, CA, kicked&#8230;  
+
+<https://kickinthetires.net/nascar/2024-arca-west-shasta-reactions-analysis/>
+
+---
+
+## How an Edelweiss Tour Taught Me to Go Along for the Ride
+
+date: 2024-07-31, from: Cycle World News
+
+How I learned to go along for the ride on the Edelweiss Balkans Adventure. 
+
+<https://www.cycleworld.com/motorcycle-news/how-edelweiss-balkans-adventure-tour-taught-me-to-ride/>
 
 ---
 
@@ -126,16 +386,6 @@ date: 2024-07-30, from: Cycle World News
 Photos from Cycle World's 2024 Triumph Rocket 3 Storm R and GT First Ride Review article. 
 
 <https://www.cycleworld.com/gallery/2024-triumph-rocket-3-storm-r-and-gt-first-ride-review-photos/>
-
----
-
-## How an Edelweiss Tour Taught Me to Go Along for the Ride
-
-date: 2024-07-30, from: Cycle World News
-
-How I learned to go along for the ride on the Edelweiss Balkans Adventure. 
-
-<https://www.cycleworld.com/motorcycle-news/how-edelweiss-balkans-adventure-tour-taught-me-to-ride/>
 
 ---
 

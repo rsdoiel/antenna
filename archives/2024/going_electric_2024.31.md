@@ -1,11 +1,405 @@
 ---
 title: going electric 2024.31
-updated: 2024-07-31 08:05:06
+updated: 2024-08-01 08:26:06
 ---
 
 # going electric 2024.31
 
-(date: 2024-07-31 08:05:06)
+(date: 2024-08-01 08:26:06)
+
+---
+
+## Tesla Full Self-Driving data makes Elon Musk reduce expectations
+
+date: 2024-08-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Elon-Musk-wrecking-ball.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla still resists releasing its Full Self-Driving data, but early crowdsourced data shows that improvements are much more limited than CEO Elon Musk told us.</p>
+
+
+
+<p>He is now lowering expectations.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="374115" href="https://electrek.co/2024/08/01/tesla-full-self-driving-data-makes-elon-musk-reduce-expectations/#more-374115" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/01/tesla-full-self-driving-data-makes-elon-musk-reduce-expectations/>
+
+---
+
+## Amazon Has Over 15,000 Rivian Electric Delivery Vans Now
+
+date: 2024-08-01, from: Inside EVs News
+
+The American e-commerce giant increased its U.S. EDV fleet by 50% in roughly nine months. 
+
+<https://insideevs.com/news/728621/amazon-rivian-vans-fleet-update-15000/>
+
+---
+
+## Kia ‘confident’ in brand growth after record-breaking EV sales in July, driven by the new EV9
+
+date: 2024-08-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/Kia-EV9-reservations.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>If you’re seeing more <a href="https://electrek.co/guides/kia/">Kia</a> electric cars on the road, it’s not just you. The company set a new EV sales record in July as its first three-row electric SUV gains momentum. With new electrified models like the EV9, Kia is “confident that consumer interest in the Kia brand will continue to strengthen.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev9" data-layer-viewtype="unknown" data-post-id="374103" href="https://electrek.co/2024/08/01/kia-ev9-drives-record-july-ev-sales-confidence-brand-grows/#more-374103" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/01/kia-ev9-drives-record-july-ev-sales-confidence-brand-grows/>
+
+---
+
+## Suzuki Says Stop Sale, Stop Ride On 2023-24 V-Strom 800DEs Over Rear Tire
+
+date: 2024-08-01, from: Ride Apart, Electric Motorcycle News
+
+A rear tire defect on a range of tires supplied by Sumitomo could pose a serious safety issue. 
+
+<https://www.rideapart.com/news/728593/suzuki-vstrom-800de-tire-recall/>
+
+---
+
+## Why Nissan, Honda And Mitsubishi Had To Team Up
+
+date: 2024-08-01, from: Inside EVs News
+
+Plus, GM explains what's going on with its EVs and Tesla's CEO warns a large portion of its fleet is headed towards obsolescence. 
+
+<https://insideevs.com/news/728595/honda-nissan-mitsubishi-ev-partnership/>
+
+---
+
+## Ola Electric Might Launch a New EV Motorcycle, Way Sooner Than We Expected
+
+date: 2024-08-01, from: Ride Apart, Electric Motorcycle News
+
+No less than Ola’s CEO took to social media to flex the upcoming model.  
+
+<https://www.rideapart.com/news/728473/ola-electric-ev-motorcycle-launch-august-15/>
+
+---
+
+## Indian Recalls Some 2024 Bikes, Risk of Rear Suspension Failure
+
+date: 2024-08-01, from: Ride Apart, Electric Motorcycle News
+
+A specific production range of rear suspension pushrods were not manufactured to Indian's specifications. 
+
+<https://www.rideapart.com/news/728588/indian-motorcycle-rear-suspension-recall/>
+
+---
+
+## Porsche Won't Join The EV World's Most Controversial Trend
+
+date: 2024-08-01, from: Inside EVs News
+
+"We are not following what most of the other brands are doing," Porsche's style chief said. That's good news for your user experience. 
+
+<https://insideevs.com/news/728607/porsche-small-infotainment-screens-purposeful/>
+
+---
+
+## What went so horribly wrong with California’s e-bike incentive program?
+
+date: 2024-08-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/04/gazelle-bikes-avignon-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Ever since the federal government <a href="https://electrek.co/2022/08/07/the-new-climate-bill-abandoned-the-type-of-electric-vehicle-that-can-make-the-biggest-difference/">gave up on including electric bikes</a> in its broader electric vehicle incentive programs, alternative incentives at the local and state levels have been met largely with success—except, of course, in California. In stark contrast to most other incentive programs around the US, California’s partially developed program has spent years in shambles with no apparent launch date in sight.</p>
+
+
+
+<p>Here’s how California screwed the pooch so badly with its own state-sponsored electric bicycle incentive program.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,tax-credit" data-layer-viewtype="unknown" data-post-id="374097" href="https://electrek.co/2024/08/01/what-went-so-horribly-wrong-with-californias-e-bike-incentive-program/#more-374097" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/01/what-went-so-horribly-wrong-with-californias-e-bike-incentive-program/>
+
+---
+
+## Tesla Cybertruck Six-Month Owner Review: ‘The Best Tow Vehicle’
+
+date: 2024-08-01, from: Inside EVs News
+
+That goes against just about every other owner review out there. But this driver seems awfully impressed with what a Cybertruck can do. 
+
+<https://insideevs.com/news/728550/tesla-cybertruck-six-month-owner/>
+
+---
+
+## Seattle Tesla Driver Who Killed a Motorcyclist Was Using Autopilot, Cops Say
+
+date: 2024-08-01, from: Ride Apart, Electric Motorcycle News
+
+How haven't the Feds stepped in already? 
+
+<https://www.rideapart.com/news/728584/tesla-autopilot-motorcyclist-death-killed-cops/>
+
+---
+
+## Mainstream Helmet Use Stemmed From the Death of This Famous Dude
+
+date: 2024-08-01, from: Ride Apart, Electric Motorcycle News
+
+Turns out our heads weren’t designed to be smacked on the ground at 60 miles an hour.  
+
+<https://www.rideapart.com/news/728476/mainstream-helmet-use-lawrence-of-arabia/>
+
+---
+
+## The US to turn a Manhattan Project nuclear site into a 1 GW solar farm
+
+date: 2024-08-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Hanford_Reactor.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The US Department of Energy (DOE) plans to build a 1 GW solar farm on a former top-secret Manhattan Project nuclear site in Washington State. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="department-of-energy,egeb,energy-brief,solar,nuclear-plant,washington-state" data-layer-viewtype="unknown" data-post-id="374084" href="https://electrek.co/2024/07/31/the-us-to-turn-a-manhattan-project-nuclear-site-into-a-1-gw-solar-farm/#more-374084" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/31/the-us-to-turn-a-manhattan-project-nuclear-site-into-a-1-gw-solar-farm/>
+
+---
+
+## For Just $995, Your Ford Mustang Mach-E GT Can Outrun A Tesla Model Y Performance
+
+date: 2024-07-31, from: Inside EVs News
+
+I mean, c'mon, all that torque is cheaper per pound than some deli meat. 
+
+<https://insideevs.com/news/728604/mustang-mach-e-100-torque-ota/>
+
+---
+
+## Rivian round-up, Elon flip-flops on patents, and Amazon bets big on EVs
+
+date: 2024-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/100000-vans.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>On today’s thrilling episode of <em>Quick Charge</em>, we’re catching up with the latest news about Rivian, its high marks for quality, lawsuit with Tesla, and (maybe) hot-selling R2. We also cover Amazon’s aggressive EV expansion plans and do our level best not to call Trump fans “<a href="https://uk.news.yahoo.com/everyone-calling-trump-vance-weird-220728301.html">weird</a>.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="amazon,quick-charge,rivian" data-layer-viewtype="unknown" data-post-id="373947" href="https://electrek.co/2024/07/31/rivian-round-up-elon-flip-flops-on-patents-and-amazon-bets-big-on-evs/#more-373947" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/31/rivian-round-up-elon-flip-flops-on-patents-and-amazon-bets-big-on-evs/>
+
+---
+
+## Tesla ‘Full Self-driving’ was on during fatal crash with motorcyclist, police says
+
+date: 2024-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s ‘Full Self-driving’ features were reportedly on during a previously reported fatal crash with a motorcyclist, according to the police.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="374078" href="https://electrek.co/2024/07/31/tesla-full-self-driving-was-on-during-fatal-crash-with-motorcyclist-police-says/#more-374078" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/31/tesla-full-self-driving-was-on-during-fatal-crash-with-motorcyclist-police-says/>
+
+---
+
+## Half Of All Cars Sold In China Are Plug-Ins
+
+date: 2024-07-31, from: Inside EVs News
+
+Plug-in cars—both EVs and PHEVs—will soon make up the majority of Chinese car sales.  
+
+<https://insideevs.com/news/728590/china-plugin-car-sales-june2024/>
+
+---
+
+## 2025 Hyundai Kona Electric prices start at under $35,000 with sporty new N Line trim
+
+date: 2024-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Hyundai-Kona-Electric-N-Line-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The 2025 <a href="https://electrek.co/guides/hyundai-kona-electric/">Hyundai Kona Electric</a> remains one of the most affordable EV options in the US, with starting prices under $35,000. Hyundai added a new, sporty N Line model with sleek design upgrades.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-kona-electric" data-layer-viewtype="unknown" data-post-id="374060" href="https://electrek.co/2024/07/31/2025-hyundai-kona-electric-prices-under-35000/#more-374060" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/31/2025-hyundai-kona-electric-prices-under-35000/>
+
+---
+
+## Lucid's Gravity SUV Is One Step Closer To Reality Now
+
+date: 2024-07-31, from: Inside EVs News
+
+The first pre-production Lucid Gravity just rolled off the assembly line. Will it still be in customers' driveways before 2024 ends? 
+
+<https://insideevs.com/news/728591/lucid-gravity-preproduction-suv/>
+
+---
+
+## Oregon to get a massive 900 MW solar + battery storage project
+
+date: 2024-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/OSSIA-solar-Oregon.jpg?quality=82&#038;strip=all&#038;w=1402" /></div><p>Brookfield Renewable US has filed a Notice of Intent to develop one of Oregon’s largest solar + battery storage projects.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,egeb,energy-brief,solar,oregon,solar-power" data-layer-viewtype="unknown" data-post-id="374055" href="https://electrek.co/2024/07/31/oregon-900-mw-solar-battery-storage/#more-374055" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/31/oregon-900-mw-solar-battery-storage/>
+
+---
+
+## Police Determine Tesla Driver Had FSD Enabled In Fatal Motorcycle Crash
+
+date: 2024-07-31, from: Inside EVs News
+
+Police used information from the event data recorder in the Model S to determine that FSD was in use during the crash. 
+
+<https://insideevs.com/news/728564/test-fsd-used-motorcycle-crash/>
+
+---
+
+## BYD EVs Are Coming To Canada
+
+date: 2024-07-31, from: Inside EVs News
+
+The biggest Chinese EV maker is already in Mexico. Now, it's preparing to enter the U.S.' Northern neighbor. 
+
+<https://insideevs.com/news/728586/byd-will-sell-evs-in-canada/>
+
+---
+
+## Kia EV4 spotted testing in Europe for the first time: A new Tesla Model 3 rival?
+
+date: 2024-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Kia-EV4-Europe.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The upcoming <a href="https://electrek.co/guides/kia-ev4/">Kia EV4</a> was spotted testing in Europe for the first time as the Korean automaker’s latest affordable EV. Kia’s EV4 is an electric sedan similar in size to Tesla’s Model 3. Can it compete with Tesla?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" data-post-id="374024" href="https://electrek.co/2024/07/31/kia-ev4-spotted-europe-first-time-tesla-model-3-rival/#more-374024" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/31/kia-ev4-spotted-europe-first-time-tesla-model-3-rival/>
+
+---
+
+## Musk Says Tesla Roadster Will Take The Place Of Canceled Model S Plaid Plus
+
+date: 2024-07-31, from: Inside EVs News
+
+The Model S Plaid Plus was supposed to offer 520 miles of range and even quicker acceleration than the standard Plaid. 
+
+<https://insideevs.com/news/728546/tesla-roadster-plaid-plus-replacement/>
+
+---
+
+## Audi unveils A6 e-tron luxury electric sedan
+
+date: 2024-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Audi-A6-e-tron-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Today, Audi unveiled its new A6 e-tron electric sedan with Sportsback and Avant versions, expanding its already extensive EV lineup.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="audi,audi-a6-e-tron" data-layer-viewtype="unknown" data-post-id="374010" href="https://electrek.co/2024/07/31/audi-unveils-a6-e-tron-luxury-electric-sedan/#more-374010" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/31/audi-unveils-a6-e-tron-luxury-electric-sedan/>
+
+---
+
+## Save $600 on Velotric e-bikes with up to $300 in free gear, Leviton level 2 EV charger low, Bluetti sale last call, more
+
+date: 2024-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/Velotric-Discover-1-e-bike-2.webp?w=1200" /></div><p>We’ve got a great lineup of Green Deals for you today, led by the final day of <a href="https://9to5toys.com/2024/07/31/last-day-to-save-up-to-600-on-apple-find-my-velotric-e-bikes-with-300-in-free-gear-deals-from-1199/">Velotric’s Summer Prime sale</a> that is taking <strong>up to $600 off</strong> e-bikes and giving away <strong>up to $300</strong> in free gear. There’s plenty of standout models here, with the <a href="https://9to5toys.com/2024/07/31/last-day-to-save-up-to-600-on-apple-find-my-velotric-e-bikes-with-300-in-free-gear-deals-from-1199/">upgraded 2024 Discover 1 Plus Commuter e-bike</a> sitting at the lowest <a href="https://9to5toys.com/2024/07/31/last-day-to-save-up-to-600-on-apple-find-my-velotric-e-bikes-with-300-in-free-gear-deals-from-1199/">$1,199 rate</a>. It is joined by <a href="https://9to5toys.com/2024/07/31/levitons-ev40p-level-2-smart-ev-charger-for-at-home-or-on-the-go-use-drops-to-new-418-low-reg-499/">Leviton’s EV40P Level 2 Smart EV Charger</a> hitting a <a href="https://9to5toys.com/2024/07/31/levitons-ev40p-level-2-smart-ev-charger-for-at-home-or-on-the-go-use-drops-to-new-418-low-reg-499/">new $418 low</a>, as well as a last call on <a href="https://9to5toys.com/2024/07/31/bluettis-prime-day-sale-shifts-to-next-phase-ramping-up-to-4428-off-power-stations-and-bundles-starting-from-249/">Bluetti’s ongoing Prime Day sale</a> that officially ends tonight. You’ll also find some other surprise drops alongside our hangover Green Deals – including a 2024 low on <a href="https://9to5toys.com/2024/07/31/double-your-shower-time-with-ecosmarts-7-2kw-electric-water-heating-booster-at-310-2024-low/">EcoSmart’s 7.2kW Electric Water Heating Booster</a> that can double your shower time and some <a href="https://9to5toys.com/2024/07/30/get-a-cozier-atmosphere-outdoors-with-east-oaks-brasa-smokeless-mini-tabletop-fire-pit-at-53-reg-76/">smokeless tabletop fire pit</a> discounts from East Oak, among the others. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="374011" href="https://electrek.co/2024/07/31/velotric-summer-prime-e-bike-sale-leviton-level-2-ev-charger-bluetti-sale-last-call-more/#more-374011" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/31/velotric-summer-prime-e-bike-sale-leviton-level-2-ev-charger-bluetti-sale-last-call-more/>
+
+---
+
+## The 100% Tariff On Chinese EVs Will Be At Least Two Weeks Late
+
+date: 2024-07-31, from: Inside EVs News
+
+The tariff was originally meant to go into effect on August 1st. But the government still needs to go through 1,100 public comments.  
+
+<https://insideevs.com/news/728570/tarrif-late-two-weeks-china/>
+
+---
+
+## Ford's NACS Adapter Rollout Gets Delayed Again
+
+date: 2024-07-31, from: Inside EVs News
+
+Ford emailed its EV customers this afternoon saying it was working to deliver the NACS adapters "as soon as possible." 
+
+<https://insideevs.com/news/728585/ford-nacs-adapter-rollout-delayed-again/>
+
+---
+
+## Ford Mustang Mach-E GT gains new performance upgrade to outpace Tesla’s Model Y
+
+date: 2024-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Ford-Mach-E-upgrade-Tesla-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford is challenging Tesla and Porsche as it unlocks more performance for Mustang Mach-E GT drivers. A new <a href="https://electrek.co/guides/ford-mach-e/">Ford Mustang Mach-E GT</a> performance upgrade enables a quicker 0 to 60 mph time than the Tesla Model Y Performance and Porsche Macan 4 Electric.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-mach-e" data-layer-viewtype="unknown" data-post-id="373995" href="https://electrek.co/2024/07/31/ford-unlocks-mustang-mach-e-upgrade-outpace-teslas-model-y/#more-373995" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/31/ford-unlocks-mustang-mach-e-upgrade-outpace-teslas-model-y/>
+
+---
+
+## 2025 Chevy Equinox EV: Pricing Overview
+
+date: 2024-07-31, from: Inside EVs News
+
+The new model year brings some minor changes, but it’s still the most affordable Ultium EV. 
+
+<https://insideevs.com/news/728457/2025-chevrolet-equinox-ev-pricing/>
+
+---
+
+## Ford’s BlueCruise Hands-Free Driving Assistant Goes Live In More European Countries
+
+date: 2024-07-31, from: Inside EVs News
+
+The SAE Level 2 advanced driver assistance system (ADAS) can now be used on over 80,000 miles of European highways. 
+
+<https://insideevs.com/news/728514/ford-bluecruise-europe-more-countries/>
+
+---
+
+## Lucid’s (LCID) first pre-production Gravity electric SUV rolls out of assembly [Video]
+
+date: 2024-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Lucids-first-Gravity.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>In a big milestone, Lucid’s (LCID) first pre-production luxury <a href="https://electrek.co/guides/lucid-gravity/">Gravity electric SUV</a> rolled off the assembly line at its Casa Grande, Arizona factory. Lucid is embarking on a new journey with its first electric SUV and second EV joining its lineup.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid-gravity,lucid-motors" data-layer-viewtype="unknown" data-post-id="373983" href="https://electrek.co/2024/07/31/lucids-lcid-first-gravity-electric-suv-rolls-off-assembly-video/#more-373983" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/31/lucids-lcid-first-gravity-electric-suv-rolls-off-assembly-video/>
+
+---
+
+## Ford’s Skunkworks EV Platform Could Spawn Next-Gen Fiesta, Puma: Report
+
+date: 2024-07-31, from: Inside EVs News
+
+Plus, we discuss BYD and Uber’s partnership to deploy electric taxis across the world. 
+
+<https://insideevs.com/news/728568/ford-skunkworks-ev-next-gen-fiesta-focus/>
 
 ---
 
@@ -151,7 +545,7 @@ After a long wait, Audi's mainstream EV sedan is here. It's got plenty of range,
 
 ---
 
-## Tesla Model Y ‘Juniper’ Refresh: Here’s a Sneak Peak Of The Supposedly Finished Version
+## Tesla Model Y ‘Juniper’ Update: This May Be The Final Version
 
 date: 2024-07-31, from: Inside EVs News
 

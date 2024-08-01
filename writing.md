@@ -1,11 +1,49 @@
 ---
 title: writing 2024.31
-updated: 2024-07-31 08:05:02
+updated: 2024-08-01 08:26:02
 ---
 
 # writing 2024.31
 
-(date: 2024-07-31 08:05:02)
+(date: 2024-08-01 08:26:02)
+
+---
+
+## Issue 763 Table of Contents, August 2024
+
+date: 2024-08-01, from: Locus Magazine
+
+<p>The August 2024 issue of Locus magazine has interviews with Sarah Langan and Moniquill Blackgoose and spotlights on artist Chris McGrath and the Authors Against Book Bans organization. News covers the Shirley Jackson and Prometheus awards winners, the Hugo Awards disqualification, a new Orbit horror imprint, and much more. Reports include the 2024 Locus Awards Weekend, the SFWA Nebula Conference, Readercon, BayCon, the Academic Conference on Canadian Science Fiction and  <a href="https://locusmag.com/2024/08/issue-763-table-of-contents-august-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/issue-763-table-of-contents-august-2024/>
+
+---
+
+## 2024 Trigon Awards Winners
+
+date: 2024-07-31, from: Locus Magazine
+
+<p>Spiral Tower Press has announced the third annual Trigon Awards, honoring “the past, present, and future of science fiction, fantasy, and horror” in three categories.</p>
+<p></p>
+<p><strong>Literary Achievement</strong>: Howard Andrew Jones</p>
+<p><strong>Scholarly Achievement</strong>: Jeffrey Shanks</p>
+<p><strong>Special Achievement</strong>: Oliver Brackenbury</p>
+<p>The awards were presented online on July 27, 2024 during SpiralCon 3. Awardees were selected by the Trigon Committee. For more information, see the Spiral Tower Press website.</p>
+
+<p><strong>While </strong> <a href="https://locusmag.com/2024/07/2024-trigon-awards-winners/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/2024-trigon-awards-winners/>
+
+---
+
+## Ian Mond Reviews The Bright Sword by Lev Grossman
+
+date: 2024-07-31, from: Locus Magazine
+
+<p><strong>The Bright Sword</strong>, Lev Grossman (Viking 978-0-73522-404-9, $35.00, 688pp, hc) June 2024.</p>
+<p>In a “Historical Note” to his new novel <strong>The Bright Sword </strong>(his first adult novel since wrapping up The Magicians trilogy), Lev Grossman remarks that people have been re-working and re-inventing King Arthur’s story for nearly 1,400 years. As he poetically puts it, the legend has “never been told quite the same way twice. Every age and  <a href="https://locusmag.com/2024/07/ian-mond-reviews-the-bright-sword-by-lev-grossman/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/ian-mond-reviews-the-bright-sword-by-lev-grossman/>
 
 ---
 
@@ -233,7 +271,7 @@ The post <a href="https://johnaugust.com/2024/rituals">Rituals</a> first appeare
 date: 2024-07-30, from: Locus Magazine
 
 <p><strong>Beyond the Light Horizon</strong>, Ken MacLeod (Orbit 978-0-356-51482-6, £10.99, 336 pp, tp) May 2024. Cover by Duncan Spilling. (Pyr 978-1-64506-066-6, $21.00, 336pp, tp) June 2024.</p>
-<p><strong>Beyond the Light Horizon </strong>picks up right where <strong>Beyond the Reach of Earth </strong>ends, with Grant fig­uring out when he has landed and how he might return to his own time. But his problem is only the beginning of a considerable thematic and physical  <a href="https://locusmag.com/2024/07/russell-letson-reviews-beyond-the-light-horizon-by-ken-macleod-2/" class="read-more">...Read More </a></p> 
+<p><strong>Beyond the Light Horizon </strong>picks up right where <strong>Beyond the Reach of Earth (click to see review) </strong>ends, with Grant fig­uring out when he has landed and how he might return to his own time. But his problem is only the beginning of a  <a href="https://locusmag.com/2024/07/russell-letson-reviews-beyond-the-light-horizon-by-ken-macleod-2/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/07/russell-letson-reviews-beyond-the-light-horizon-by-ken-macleod-2/>
 

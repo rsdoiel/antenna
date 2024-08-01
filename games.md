@@ -1,11 +1,111 @@
 ---
 title: games 2024.31
-updated: 2024-07-31 08:05:03
+updated: 2024-08-01 08:26:03
 ---
 
 # games 2024.31
 
-(date: 2024-07-31 08:05:03)
+(date: 2024-08-01 08:26:03)
+
+---
+
+## Wuthering Waves codes and how to redeem them
+
+date: 2024-08-01, updated: 2024-08-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/guides/24163081/wuthering-waves-codes-how-to-redeem-redemption>
+
+---
+
+## You can save up to 40% on some of our favorite tabletop systems at DriveThruRPG
+
+date: 2024-08-01, updated: 2024-08-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24208860/drivethrurpg-ttrpg-tabletop-deal-sale>
+
+---
+
+## Pokémon Go leader counters for Sierra, Arlo, and Cliff in August 2024
+
+date: 2024-08-01, updated: 2024-08-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses>
+
+---
+
+## Deadpool & Wolverine is a Toy Story movie
+
+date: 2024-08-01, updated: 2024-08-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24209992/deadpool-wolverine-toy-story-movies-similarities>
+
+---
+
+## Pokémon Go Giovanni counters, team line-up in August 2024
+
+date: 2024-08-01, updated: 2024-08-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket>
+
+---
+
+## Pokémon Go Ditto disguises list for August 2024
+
+date: 2024-08-01, updated: 2024-08-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny>
+
+---
+
+## Not sure what movie to watch? Leave a comment, we’ll help
+
+date: 2024-08-01, updated: 2024-08-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/8/1/24210362/best-movies-watch-tonight-best-recommendations-streaming>
+
+---
+
+## We preview the Pathfinder 2e playtest, which fully separates the science fantasy game from the OGL
+
+date: 2024-08-01, updated: 2024-08-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24206159/starfinder-2e-playtest-launch-pathfinder-compatible-gen-con>
+
+---
+
+## United Paizo Workers win Diana Jones trophy for excellence in gaming
+
+date: 2024-08-01, updated: 2024-08-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24208790/united-paizo-workers-diana-jones-award-2024>
+
+---
+
+## Every movie and show coming to Netflix in August
+
+date: 2024-08-01, updated: 2024-08-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/entertainment/2024/8/1/24208884/new-netflix-august-2024-movies-tv-to-watch>
 
 ---
 

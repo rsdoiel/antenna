@@ -1,11 +1,41 @@
 ---
 title: retro computing 2024.31
-updated: 2024-07-31 08:05:05
+updated: 2024-08-01 08:26:05
 ---
 
 # retro computing 2024.31
 
-(date: 2024-07-31 08:05:05)
+(date: 2024-08-01 08:26:05)
+
+---
+
+## August developer 'fireside' chat is on saturday night
+
+date: 2024-08-01, from: Icon Bar, RISC OS News
+
+The next 'fireside' chat is on saturday night 3rd August (we are being spoiled with online coding opportunities at the moment!). Starting time is 7:30pm UK time and the event is on Zoom. Stay as long or as short a time as you like. 
+
+<http://www.iconbar.com/comments/rss/news2091.html>
+
+---
+
+## Plus Post: Microware's OS-9
+
+date: 2024-08-01, from: Computer ads from the Past
+
+We Dare to Say it: OS-9 Is a Better Choice Than UNIX for Micros 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-microwares-os-9>
+
+---
+
+## Nitrux 3.6.0 ("ie") Available for Download and Install
+
+date: 2024-07-31, from: Linux Magazine
+
+<p>The latest version of the systemd-free Linux distribution, Nitrux, has been released for general usage and includes the beta of the upcoming NVIDIA 560 graphics driver.</p> 
+
+<http://www.linux-magazine.com/Online/News/Nitrux-3.6.0-ie-Available-for-Download-and-Install>
 
 ---
 

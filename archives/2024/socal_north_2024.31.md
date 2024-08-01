@@ -1,11 +1,200 @@
 ---
 title: socal north 2024.31
-updated: 2024-07-31 08:04:57
+updated: 2024-08-01 08:25:57
 ---
 
 # socal north 2024.31
 
-(date: 2024-07-31 08:04:57)
+(date: 2024-08-01 08:25:57)
+
+---
+
+## Northrop Grumman Acusado de Ocultar Contaminación Tóxica a los Residentes del Valle de San Fernando
+
+date: 2024-08-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Behar-2_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Behar-2_SN_05-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Behar-2_SN_05-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Behar-2_SN_05-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Behar-2_SN_05-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Behar-2_SN_05-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Behar-2_SN_05-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Behar-2_SN_05-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Behar-2_SN_05-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Behar-2_SN_05-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Behar-2_SN_05-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Behar-2_SN_05-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Behar-2_SN_05-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Behar-2_SN_05-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Behar-2_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Esta es la Parte 2 de una serie En vecindarios tranquilos, bordeados de casas unifamiliares, los residentes de Canoga Park y Winnetka pueden, sin saberlo, estar sentados sobre peligrosos productos [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/31/northrop-grumman-acusado-de-ocultar-contaminacion-toxica-a-los-residentes-del-valle-de-san-fernando/">Northrop Grumman Acusado de Ocultar Contaminación Tóxica a los Residentes del Valle de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/31/northrop-grumman-acusado-de-ocultar-contaminacion-toxica-a-los-residentes-del-valle-de-san-fernando/>
+
+---
+
+## Cómo Deshacerse del Césped Artificial y Lograr un Verdadero Césped de California
+
+date: 2024-08-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/turf_elsol.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/turf_elsol.jpg?w=2240&amp;ssl=1 2240w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/turf_elsol.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/turf_elsol.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/turf_elsol.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/turf_elsol.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/turf_elsol.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/turf_elsol.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/turf_elsol.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/turf_elsol.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/turf_elsol.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/turf_elsol.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/turf_elsol.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/turf_elsol.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/turf_elsol.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/turf_elsol.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El césped sintético puede parecer uniforme y aparentemente libre de mantenimiento, pero las preocupaciones ambientales y de salud están impulsando a muchos californianos a arrancar sus céspedes artificiales. Los funcionarios [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/31/como-deshacerse-del-cesped-artificial-y-lograr-un-verdadero-cesped-de-california/">Cómo Deshacerse del Césped Artificial y Lograr un Verdadero Césped de California</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/31/como-deshacerse-del-cesped-artificial-y-lograr-un-verdadero-cesped-de-california/>
+
+---
+
+## Horóscopo
+
+date: 2024-08-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>ARIES (21 de mar &#8211; 19 de abr) Es posible ser muy receptivo y, sin embargo, no muy verbal, lo cual es algo que hay que explorar en los momentos [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/31/horoscopo-174/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/31/horoscopo-174/>
+
+---
+
+## EVENTOS Locales – Semana de 1 de agosto, 2024
+
+date: 2024-08-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Agusto 2 Película en el Parque &#8211; Super Mario Bros. The Movie Recreation Park 828 Harding Ave. San Fernando 7 p.m. – 10 p.m. ¡Toma una manta o tu [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/31/eventos-locales-semana-de-1-de-agosto-2024/">EVENTOS Locales &#8211; Semana de 1 de agosto, 2024</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/31/eventos-locales-semana-de-1-de-agosto-2024/>
+
+---
+
+## Padilla Pide al Servicio Meteorológico Nacional que Defina Domos de Calor para Protegerse del Calor Extremo
+
+date: 2024-08-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="741" height="406" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Heat_Wave_elsol.jpg?fit=741%2C406&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Heat_Wave_elsol.jpg?w=741&amp;ssl=1 741w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Heat_Wave_elsol.jpg?resize=300%2C164&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Heat_Wave_elsol.jpg?resize=400%2C219&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Heat_Wave_elsol.jpg?resize=706%2C387&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Heat_Wave_elsol.jpg?fit=741%2C406&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>En medio de peligrosos niveles de calor en gran parte de los Estados Unidos, el senador Alex Padilla lideró a cinco senadores para pedir al Servicio Meteorológico Nacional (NWS) el [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/31/padilla-pide-al-servicio-meteorologico-nacional-que-defina-domos-de-calor-para-protegerse-del-calor-extremo/">Padilla Pide al Servicio Meteorológico Nacional que Defina Domos de Calor para Protegerse del Calor Extremo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/31/padilla-pide-al-servicio-meteorologico-nacional-que-defina-domos-de-calor-para-protegerse-del-calor-extremo/>
+
+---
+
+## Comienza la Instalación del Puente Peatonal en Valley Glen Sobre la Gran Muralla de Los Ángeles
+
+date: 2024-08-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="680" height="907" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/452937083_884194856863080_6332831911114341856_n.jpg?fit=680%2C907&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/452937083_884194856863080_6332831911114341856_n.jpg?w=680&amp;ssl=1 680w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/452937083_884194856863080_6332831911114341856_n.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/452937083_884194856863080_6332831911114341856_n.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/452937083_884194856863080_6332831911114341856_n.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/452937083_884194856863080_6332831911114341856_n.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/452937083_884194856863080_6332831911114341856_n.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/452937083_884194856863080_6332831911114341856_n.jpg?resize=400%2C534&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/452937083_884194856863080_6332831911114341856_n.jpg?fit=680%2C907&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El jueves 25 de julio se instaló un puente peatonal sobre el Canal de Control de Inundaciones de Tujunga, que una vez completado, proporcionará a los miembros de la comunidad [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/31/comienza-la-instalacion-del-puente-peatonal-en-valley-glen-sobre-la-gran-muralla-de-los-angeles/">Comienza la Instalación del Puente Peatonal en Valley Glen Sobre la Gran Muralla de Los Ángeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/31/comienza-la-instalacion-del-puente-peatonal-en-valley-glen-sobre-la-gran-muralla-de-los-angeles/>
+
+---
+
+## Padilla Obtiene $200 Millones para Reforzar la Infraestructura de Transporte de Los Ángeles Antes de los Juegos Olímpicos y Paralímpicos de 2028
+
+date: 2024-08-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/2028-Olympic-Games_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/2028-Olympic-Games_elsol.jpg?w=1086&amp;ssl=1 1086w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/2028-Olympic-Games_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/2028-Olympic-Games_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/2028-Olympic-Games_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/2028-Olympic-Games_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/2028-Olympic-Games_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/2028-Olympic-Games_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/2028-Olympic-Games_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El senador estadounidense Alex Padilla anunció el viernes 26 de julio que obtuvo $200 millones iniciales para establecer un programa de arrendamiento de autobuses, sistemas regionales de gestión de tráfico [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/31/padilla-obtiene-200-millones-para-reforzar-la-infraestructura-de-transporte-de-los-angeles-antes-de-los-juegos-olimpicos-y-paralimpicos-de-2028/">Padilla Obtiene $200 Millones para Reforzar la Infraestructura de Transporte de Los Ángeles Antes de los Juegos Olímpicos y Paralímpicos de 2028</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/31/padilla-obtiene-200-millones-para-reforzar-la-infraestructura-de-transporte-de-los-angeles-antes-de-los-juegos-olimpicos-y-paralimpicos-de-2028/>
+
+---
+
+## Gente Famosa se unen a una Coalición para Combatir el Odio en el Condado de Los Ángeles
+
+date: 2024-08-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Unity-Coalition-Lead-Image_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Unity-Coalition-Lead-Image_elsol.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Unity-Coalition-Lead-Image_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Unity-Coalition-Lead-Image_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Unity-Coalition-Lead-Image_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Unity-Coalition-Lead-Image_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Unity-Coalition-Lead-Image_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Unity-Coalition-Lead-Image_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Unity-Coalition-Lead-Image_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ÁNGELES (CNS) &#8211; Un programa contra el odio del condado de Los Ángeles anunció el jueves 25 de julio un esfuerzo colaborativo compuesto por gente famosa, incluida la actriz [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/31/gente-famosa-se-unen-a-una-coalicion-para-combatir-el-odio-en-el-condado-de-los-angeles/">Gente Famosa se unen a una Coalición para Combatir el Odio en el Condado de Los Ángeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/31/gente-famosa-se-unen-a-una-coalicion-para-combatir-el-odio-en-el-condado-de-los-angeles/>
+
+---
+
+## Cinco Posibles Candidatos han Sacado sus Papeles para el Concejo Municipal de San Fernando
+
+date: 2024-08-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Cinco personas han retirado los documentos de nominación para postularse para los dos escaños de mandato completo en el Concejo Municipal de San Fernando. Después de la presentación, sus nombres [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/31/cinco-posibles-candidatos-han-sacado-sus-papeles-para-el-concejo-municipal-de-san-fernando/">Cinco Posibles Candidatos han Sacado sus Papeles para el Concejo Municipal de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/31/cinco-posibles-candidatos-han-sacado-sus-papeles-para-el-concejo-municipal-de-san-fernando/>
+
+---
+
+## El Hombre de North Hills Acusado de Matar y Enterrar a un Hombre en el Patio Trasero Permanece Bajo Custodia
+
+date: 2024-08-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="461" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/el_sol-version-scaled.jpg?fit=1024%2C461&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/el_sol-version-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/el_sol-version-scaled.jpg?resize=300%2C135&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/el_sol-version-scaled.jpg?resize=1024%2C461&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/el_sol-version-scaled.jpg?resize=768%2C346&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/el_sol-version-scaled.jpg?resize=1536%2C692&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/el_sol-version-scaled.jpg?resize=2048%2C922&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/el_sol-version-scaled.jpg?resize=1200%2C540&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/el_sol-version-scaled.jpg?resize=1568%2C706&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/el_sol-version-scaled.jpg?resize=2000%2C901&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/el_sol-version-scaled.jpg?resize=400%2C180&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/el_sol-version-scaled.jpg?resize=706%2C318&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/el_sol-version-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/el_sol-version-scaled.jpg?fit=1024%2C461&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Un año después de que Russell Robinson presuntamente asesinó a Carlos DeLeón, un guatemalteco de 35 años, y enterró el cuerpo en el patio trasero de su casa en North [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/31/el-hombre-de-north-hills-acusado-de-matar-y-enterrar-a-un-hombre-en-el-patio-trasero-permanece-bajo-custodia/">El Hombre de North Hills Acusado de Matar y Enterrar a un Hombre en el Patio Trasero Permanece Bajo Custodia</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/31/el-hombre-de-north-hills-acusado-de-matar-y-enterrar-a-un-hombre-en-el-patio-trasero-permanece-bajo-custodia/>
+
+---
+
+## Big Ten Preview: Illinois
+
+date: 2024-08-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA is just two days away from joining the Big Ten. After 96 years and 123 national championships in the Pac-12, the Bruins are at the forefront of the Big Ten&#8217;s West Coast expansion. 
+
+<https://dailybruin.com/2024/07/31/big-ten-preview-illinois/>
+
+---
+
+## UC President Michael Drake to step down following 2024-2025 academic year
+
+date: 2024-07-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+UC President Michael Drake announced Wednesday that he would step down from his role at the end of the 2024-2025 academic year.
+Drake assumed the role as the 21st president of the UC in July 2020, becoming the first Black person to hold the position. 
+
+<https://dailybruin.com/2024/07/31/uc-president-michael-drake-to-step-down-following-2024-2025-academic-year/>
+
+---
+
+## University of California president Michael Drake to step down
+
+date: 2024-07-31, updated: 2024-07-31, from: The LAist
+
+Drake started as UC president in July 2020, charged with leading the UC system through the COVID-19 pandemic. 
+
+<https://laist.com/news/education/university-of-california-president-michael-drake-will-step-down>
+
+---
+
+## LA County leaders rebuff Newsom and push for shelter to be offered when clearing encampments
+
+date: 2024-07-31, updated: 2024-07-31, from: The LAist
+
+In a unanimous vote, the five supervisors said they’re not changing the county’s longstanding approach in the jurisdiction they control. 
+
+<https://laist.com/news/housing-homelessness/los-angeles-county-supervisors-homeless-encampments-order-state-governor-newsom>
+
+---
+
+## At LA’s infamous Cecil Hotel, formerly unhoused tenants report a plague of problems
+
+date: 2024-07-31, updated: 2024-08-01, from: The LAist
+
+The iconic Skid Row building went from the true crime spotlight to homeless housing. But some residents wonder if they were better off before moving in. 
+
+<https://laist.com/news/housing-homelessness/cecil-hotel-downtown-los-angeles-skid-row-homeless-housing-problems-tenants>
+
+---
+
+## In LA, your chic vacation rental may be a rent-controlled apartment
+
+date: 2024-07-31, updated: 2024-07-31, from: The LAist
+
+Amid an affordable housing crisis, dozens of rent-controlled buildings are listed on short-term rental websites. A 2018 law was supposed to stop that, but the city is struggling to enforce it. 
+
+<https://laist.com/news/housing-homelessness/vacation-rental-rent-controlled-apartment-los-angeles-short-term-rental-enforcement>
 
 ---
 

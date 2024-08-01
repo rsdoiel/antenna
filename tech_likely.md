@@ -1,11 +1,672 @@
 ---
 title: tech likely 2024.31
-updated: 2024-07-31 08:05:00
+updated: 2024-08-01 08:26:00
 ---
 
 # tech likely 2024.31
 
-(date: 2024-07-31 08:05:00)
+(date: 2024-08-01 08:26:00)
+
+---
+
+## 2024-07-31 Hashtags
+
+date: 2024-08-01, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-31-hashtags">2024-07-31 Hashtags</h1>
+
+<p>I implemented <a href="oddmu/oddmu-hashtags.1">a new subcommand for Oddmu</a>.
+I was mostly curious to see
+whether Administration had alread overtaken role-playing games, that
+is, RPG. I am happy to report that administration issues are still far
+from the top of the list. <em>Homo ludens</em> is still winning out. 😄</p>
+
+<table>
+<thead>
+<tr>
+<th align="right">Rank</th>
+<th>Hashtag</th>
+<th align="right">Count</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="right">1</td>
+<td>#rpg</td>
+<td align="right">1478</td>
+</tr>
+
+<tr>
+<td align="right">2</td>
+<td>#old_school</td>
+<td align="right">475</td>
+</tr>
+
+<tr>
+<td align="right">3</td>
+<td>#software</td>
+<td align="right">314</td>
+</tr>
+
+<tr>
+<td align="right">4</td>
+<td>#life</td>
+<td align="right">284</td>
+</tr>
+
+<tr>
+<td align="right">5</td>
+<td>#web</td>
+<td align="right">263</td>
+</tr>
+
+<tr>
+<td align="right">6</td>
+<td>#rsp</td>
+<td align="right">233</td>
+</tr>
+
+<tr>
+<td align="right">7</td>
+<td>#wikis</td>
+<td align="right">214</td>
+</tr>
+
+<tr>
+<td align="right">8</td>
+<td>#emacs</td>
+<td align="right">205</td>
+</tr>
+
+<tr>
+<td align="right">9</td>
+<td>#pictures</td>
+<td align="right">204</td>
+</tr>
+
+<tr>
+<td align="right">10</td>
+<td>#copyright</td>
+<td align="right">173</td>
+</tr>
+
+<tr>
+<td align="right">11</td>
+<td>#oddmuse</td>
+<td align="right">168</td>
+</tr>
+
+<tr>
+<td align="right">12</td>
+<td>#music</td>
+<td align="right">164</td>
+</tr>
+
+<tr>
+<td align="right">13</td>
+<td>#games</td>
+<td align="right">141</td>
+</tr>
+
+<tr>
+<td align="right">14</td>
+<td>#books</td>
+<td align="right">138</td>
+</tr>
+
+<tr>
+<td align="right">15</td>
+<td>#usa</td>
+<td align="right">132</td>
+</tr>
+
+<tr>
+<td align="right">16</td>
+<td>#administration</td>
+<td align="right">132</td>
+</tr>
+
+<tr>
+<td align="right">17</td>
+<td>#movies</td>
+<td align="right">126</td>
+</tr>
+
+<tr>
+<td align="right">18</td>
+<td>#blogs</td>
+<td align="right">119</td>
+</tr>
+
+<tr>
+<td align="right">19</td>
+<td>#programming</td>
+<td align="right">115</td>
+</tr>
+
+<tr>
+<td align="right">20</td>
+<td>#gadgets</td>
+<td align="right">99</td>
+</tr>
+</tbody>
+</table>
+<p><a class="tag" href="/search/?q=%23Blogging">#Blogging</a> <a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-31-hashtags>
+
+---
+
+##  The True Function of Racism Is Distraction 
+
+date: 2024-08-01, updated: 2024-08-01, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/the-true-function-of-racism-is-distraction>
+
+---
+
+## Just the Republic
+
+date: 2024-08-01, updated: 2024-08-01, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/08/01/just-the-republic/>
+
+---
+
+## What Happens in a Mind That Can’t ‘See’ Mental Images
+
+date: 2024-08-01, from: Quanta Magazine
+
+Neuroscience research into people with aphantasia, who don’t experience mental imagery, is revealing how imagination works and demonstrating the sweeping variety in our subjective experiences.            <p>The post <a href="https://www.quantamagazine.org/what-happens-in-a-mind-that-cant-see-mental-images-20240801/" target="_blank">What Happens in a Mind That Can’t ‘See’ Mental Images</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/what-happens-in-a-mind-that-cant-see-mental-images-20240801/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-01, from: Dave Winer's Scripting News)
+
+Where is the AI-based meme maker for Kamala. I'd like to have her flying in the sky with a cape, like SuperPresidentLady, going from town to town, finding out what they need, and churning it out for them in an efficiently run government meme factory in the nation's capital. Like we were doing with the <a href="https://www.google.com/search?q=site%3Ascripting.com+kitten">kittens</a> earlier this summer. 
+
+<http://scripting.com/2024/08/01.html#a142530>
+
+---
+
+##  Terrified Conservative Planning To Move To 1930s Austria If Trump Loses. &#8220;A... 
+
+date: 2024-08-01, updated: 2024-08-01, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045047-terrified-conservative-pl>
+
+---
+
+## How Does Math Keep Secrets?
+
+date: 2024-08-01, from: Quanta Magazine
+
+Cryptography is the thread that connects Julius Caesar, World War II and quantum computing, and it now lies under nearly every part of modern life. In this week’s episode, computer scientist Boaz Barak and co-host Janna Levin discuss the past and future of secrecy.            <p>The post <a href="https://www.quantamagazine.org/how-does-math-keep-secrets-20240801/" target="_blank">How Does Math Keep Secrets?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/how-does-math-keep-secrets-20240801/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-08-01, from: Miguel de Icaza Mastondon feed)
+
+<p>Every time I flip through an outdoor furniture catalog, the only thing I can think of is “that’s a nice chair for mosquitos to feed from”</p> 
+
+<https://mastodon.social/@Migueldeicaza/112886962332519674>
+
+---
+
+## Madrid, Spain
+
+date: 2024-08-01, from: mrusme blog
+
+"The Community of Madrid is one of the seventeen autonomous communities of
+Spain. It is located in the centre of the Iberian Peninsula, and of the
+Central Plateau (Meseta Central). Its capital and largest municipality is the
+City of Madrid, which is also the capital of the country." 
+
+<https://xn--gckvb8fzb.com/travel/spain/madrid/>
+
+---
+
+## Serpent OS prealpha0 released
+
+date: 2024-08-01, from: OS News
+
+Serpent OS, a new Linux distribution with a completely custom package management system written in Rust, has released its very very rough pre-alpha release. They&#8217;ve been working on this for four years, and they&#8217;re making some interesting choices regarding packaging that I really like, at least on paper. This will of course appear to be a very rough (crap) prealpha ISO. Underneath the surface it is using the moss package manager, our very own package management solution written in Rust. Quite simply, every single transaction in moss generates a new filesystem tree (/usr) in a staging area as a full, stateless, OS transaction. When the package installs succeed, any transaction triggers are run in a private namespace (container) before finally activating the new /usr tree. Through our enforced stateless design, usr-merge, etc, we can atomically update the running OS with a single renameat2 call. As a neat aside, all OS content is deduplicated, meaning your last system transaction is still available on disk allowing offline rollbacks. ↫ Ikey Doherty Since this is only a very rough pre-alpha release, I don&#8217;t have much more to say at this point, but I do think it&#8217;s interesting enough to let y&#8217;all know about it. Even if you&#8217;re not the kind of person to dive into pre-alphas, I think you should keep an eye on Serpent OS, because I have a feeling they&#8217;re on to something valuable here. 
+
+<https://www.osnews.com/story/140384/serpent-os-prealpha0-released/>
+
+---
+
+## The impact of AI on computer science education
+
+date: 2024-08-01, from: OS News
+
+Yesterday I highlighted a study that found that AI and ML, and the expectations around them, are actually causing people to need to work harder and more, instead of less. Today, I have another study for you, this time focusing a more long-term issue: when you use something like ChatGPT to troubleshoot and fix a bug, are you actually learning anything? A professor at MIT divided a group of students into three, and gave them a programming task in a language they did not know (FORTRAN). One group was allowed to use ChatGPT to solve the problem, the second group was told to use Meta’s Code Llama large language model (LLM), and the third group could only use Google. The group that used ChatGPT, predictably, solved the problem quickest, while it took the second group longer to solve it. It took the group using Google even longer, because they had to break the task down into components. Then, the students were tested on how they solved the problem from memory, and the tables turned. The ChatGPT group “remembered nothing, and they all failed,” recalled Klopfer, a professor and director of the MIT Scheller Teacher Education Program and The Education Arcade. Meanwhile, half of the Code Llama group passed the test. The group that used Google? Every student passed. ↫ Esther Shein at ACM I find this an interesting result, but at the same time, not a very surprising one. It reminds me a lot of that when I went to high school, I was part of the first generation whose math and algebra courses were built around using a graphic calculator. Despite being able to solve and graph complex equations with ease thanks to our TI-83, we were, of course, still told to include our &#8220;work&#8221;, the steps taken to get from the question to the answer, instead of only writing down the answer itself. Since I was quite good &#8220;at computers&#8221;, and even managed to do some very limited programming on the TI-83, it was an absolute breeze for me to hit some buttons and get the right answers &#8211; but since I knew, and know, absolutely nothing about math, I couldn&#8217;t for the life of me explain how I got to the answers. Using ChatGPT to fix your programming problem feels like a very similar thing. Sure, ChatGPT can spit out a workable solution for you, but since you aren&#8217;t aware of the steps between problem and solution, you aren&#8217;t actually learning anything. By using ChatGPT, you&#8217;re not actually learning how to program or how to improve your skills &#8211; you&#8217;re just hitting the right buttons on a graphing calculator and writing down what&#8217;s on the screen, without understanding why or how. I can totally see how using ChatGPT for boring boilerplate code you&#8217;ve written a million times over, or to point you in the right direction while still coming up with your own solution to a problem, can be a good and helpful thing. I&#8217;m just worried about a degradation in skill level and code quality, and how society will, at some point, pay the price for that. 
+
+<https://www.osnews.com/story/140379/the-impact-of-ai-on-computer-science-education/>
+
+---
+
+## The Gig Is Up
+
+date: 2024-08-01, from: Logic Magazine
+
+
+                <p>“The eight-hour workday was a hard-won victory by labor organizers of yesterday. Today, gig corporations are actively undermining those victories.”</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/the-gig-is-up>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-01, from: Dave Winer's Scripting News)
+
+<a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2024/07.opml">OPML archive</a> for July's posts on Scripting News. 
+
+<http://scripting.com/2024/08/01.html#a120326>
+
+---
+
+## The Interim Computer Museum
+
+date: 2024-08-01, from: Tilde.news
+
+<p><a href="https://tilde.news/s/sgvkin/interim_computer_museum">Comments</a></p> 
+
+<https://icm.museum>
+
+---
+
+## Celebrating Astro Pi 2024
+
+date: 2024-08-01, from: Raspberry Pi (.org)
+
+<p>About the projects Over the past few months, young people across Europe have run their computer programs&#160; on the International Space Station (ISS) as part of Astro Pi Mission Zero and Mission Space Lab. Mission Zero offers young people the chance to write a simple program that takes a reading from the colour and luminosity&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/celebrating-astro-pi-2024/">Celebrating Astro Pi 2024</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/celebrating-astro-pi-2024/>
+
+---
+
+## Sols 4261-4262: Drill Sol 1…Take 2
+
+date: 2024-08-01, from: NASA breaking news
+
+Earth planning date: Wednesday, July 31, 2024 As Cat mentioned on Monday, today’s plan is a second attempt at our Drill Sol 1 activities. We’ve shifted the target on Kings Canyon a little bit, but the activities remain the same — a preload test to ensure that we’re able to safely drill here, and contact […] 
+
+<https://science.nasa.gov/blogs/sols-4261-4262-drill-sol-1take-2/>
+
+---
+
+## Linux updates with an undo function? Some distros have that
+
+date: 2024-08-01, updated: 2024-08-01, from: Liam Proven's articles at the Register
+
+<h4>Snapshots, failover, recovery, and uninstallation on a plate</h4>
+      <p>The big names mostly can't yet, but some lesser-known Linux distributions offer the ability to undo updates and recover from damage, even automatically.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/08/01/linux_rollback_options/>
+
+---
+
+## Raspberry Pi Pico makes this portrait’s eyes follow you around the room
+
+date: 2024-08-01, from: Raspberry Pi News (.com)
+
+<p>Is it Halloween yet? This project creates a creepy portrait with eyes that follow you around the room.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/raspberry-pi-pico-makes-this-portraits-eyes-follow-you-around-the-room/">Raspberry Pi Pico makes this portrait&#8217;s eyes follow you around the room</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/raspberry-pi-pico-makes-this-portraits-eyes-follow-you-around-the-room/>
+
+---
+
+## Choosing Tools
+
+date: 2024-08-01, updated: 2024-08-01, from: Tantek Çelik's blog
+
+ 
+
+<https://tantek.com/2024/213/b1/choosing-tools>
+
+---
+
+## Plus Post: Microware's OS-9
+
+date: 2024-08-01, from: Computer ads from the Past
+
+We Dare to Say it: OS-9 Is a Better Choice Than UNIX for Micros 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-microwares-os-9>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-08-01, from: Jessica Smith's blog)
+
+<p>I should’ve known I’d be in for a wild conversation when Viv burst into my room all like, “Did you hear what Canada is doing to the polar bears?!?”</p>
+<p>Apparently (I have not seen whatever he saw), some town in Canada is trying to deter polar bears from entering the town by capturing them, depriving them of food and subjecting them to “shock therapy” for two months, before releasing them back into the wild? Like, what kind of scheme is this. &ldquo;Oh no no, we can&rsquo;t <em>kill</em> the polar bears, so we&rsquo;re just going to lock them up for two months and torture them, before dropping them off right back where there&rsquo;s still no food.&rdquo; And Viv is raging, insisting that the mining companies should be required to deposit truckloads of seals in the area where the polar bears are so they have something to eat, and I&rsquo;m like&hellip; I don&rsquo;t think that&rsquo;s the crux of the issue here. Anyway, idk, it made me laugh (even though it sucks for the polar bears). Very Canadian things.</p> 
+
+<https://www.jayeless.net/2024/08/canada-torturing-polar-bears.html>
+
+---
+
+## System-Wide Safety Project Description
+
+date: 2024-08-01, from: NASA breaking news
+
+A new era of aviation is here, and NASA’s System-Wide Safety (SWS) project is developing innovative data solutions to assure safe, rapid, and repeatable access to a transformed National Airspace System (NAS). SWS was created in 2018 and is part of NASA Aeronautics’ Airspace Operations and Safety Program. SWS evaluates how the aerospace industry and [&#8230;] 
+
+<https://www.nasa.gov/directorates/armd/aosp/sws/about-system-wide-safety/>
+
+---
+
+## System-Wide Safety Project Leadership
+
+date: 2024-08-01, from: NASA breaking news
+
+System-Wide Safety (SWS) project leaders are listed here. Project ManagerDr. Kyle Ellis Deputy Project ManagerSummer Brandt Associate Project ManagerDr. Wendy Okolo Associate Project ManagerMichael Vincent Project ScientistDr. Paul Miner Senior Technical Advisor for Aviation SafetyDr. Lance Prinzel Senior Technical Advisor for AutonomyDr. Joseph Coughlan Senior Technical Advisor for AssuranceDr. Natasha Neogi Safety LiaisonDr. Misty Davies [&#8230;] 
+
+<https://www.nasa.gov/directorates/armd/aosp/sws/sws-project-leadership/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-31, from: Miguel de Icaza Mastondon feed)
+
+<p>I just learned about this jewel by <span class="h-card" translate="no"><a href="https://mastodon.social/@nicklockwood" class="u-url mention">@<span>nicklockwood</span></a></span> - and I had to share it:</p><p><a href="https://github.com/nicklockwood/Euclid" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="">github.com/nicklockwood/Euclid</span><span class="invisible"></span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112883773646225102>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-31, from: Miguel de Icaza Mastondon feed)
+
+<p>There are a few things I am removing on purpose.  </p><p>I looked at the GitHub history for some of these, and they seem to serve a niche - I am not convinced they are necessary, so I am pruning in advance, and that buys me some screen real estate.</p><p>Might have to add them back, or find a better home, but this can always be done later.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112883757044997055>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-31, from: Miguel de Icaza Mastondon feed)
+
+<p>Next step in the iPad-fication of Godot.</p><p>Converting the 3D menus and options.</p><p>First image shows a collage of the various parts I need to convert.   Second image is a prototype of the different screens I am replacing it with.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112883662549539579>
+
+---
+
+##  Public Work: A Fast Search Engine for Public Domain Images 
+
+date: 2024-07-31, updated: 2024-07-31, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/public-work-a-fast-search-engine-for-public-domain-images>
+
+---
+
+##  Driving PSA&#8230; 
+
+date: 2024-07-31, updated: 2024-07-31, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/driving-psa>
+
+---
+
+##  London expanded their Ultra Low Emission Zone (which polluting cars need to... 
+
+date: 2024-07-31, updated: 2024-07-31, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045049-london-expanded-their-ult>
+
+---
+
+##  The science and mechanics of six Olympic events, explained. Skater Minna Stess:... 
+
+date: 2024-07-31, updated: 2024-07-31, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045051-the-science-and-mechanics>
+
+---
+
+## The Marshall Star for July 31, 2024
+
+date: 2024-07-31, from: NASA breaking news
+
+SLS Core Stage Rolls Inside Vehicle Assembly Building at Kennedy NASA’s SLS (Space Launch System) rocket&#160;core stage&#160;for the Artemis II mission is inside the Vehicle Assembly Building at the agency’s Kennedy Space Center. Tugboats and towing vessels moved the barge and core stage 900-miles to the Florida spaceport&#160;from NASA’s Michoud Assembly Facility, where it was [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-31-2024/>
+
+---
+
+## A Picture-Perfect Portrait: Eliza Hoffman’s Take on Dorothy Vaughan
+
+date: 2024-07-31, from: NASA breaking news
+
+On July 19, 2024, NASA officially named Johnson Space Center’s building 12 the “Dorothy Vaughan Center in Honor of the Women of Apollo.” A portrait of Dorothy Vaughan is now the central feature at the entrance of the newly named building. This portrait was hand-painted by Eliza Hoffman, an accomplished artist who is also a [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/a-picture-perfect-portrait-eliza-hoffmans-take-on-dorothy-vaughan/>
+
+---
+
+## 2024 Software of the Year Co-Winner – Orbital Debris Engineering Model (ORDEM)
+
+date: 2024-07-31, from: NASA breaking news
+
+NASA Johnson Space Center: ORDEM represents the state of the art in orbital debris models intended for engineering analysis. It is a data-driven model, relying on large quantities of radar, optical, in situ, and laboratory measurement data. When released, it was the first software code to include a model for different orbital debris material densities, population [&#8230;] 
+
+<https://www.nasa.gov/organizations/otps/2024-software-of-the-year-co-winner-orbital-debris-engineering-model-ordem/>
+
+---
+
+## 2024 Software of the Year Award Co-Winner -Prognostics Python Packages (ProgPy)
+
+date: 2024-07-31, from: NASA breaking news
+
+NASA Ames Research Center: ProgPy is an open-source Python package supporting research and development of prognostics, health management, and predictive maintenance tools.   Prognostics is the science of prediction, and the field of Prognostics and Health Management (PHM) aims at estimating the current physical health of a system (e.g., motor, battery, etc.) and predicting how the [&#8230;] 
+
+<https://www.nasa.gov/organizations/otps/2024-software-of-the-year-award-co-winner-prognostics-python-packages-progpy/>
+
+---
+
+##  Building Lego Machines to Destroy Tall Lego Towers 
+
+date: 2024-07-31, updated: 2024-07-31, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers>
+
+---
+
+##  Mocking fascists is good, necessary, and effective. &#8220;Good thrusting mockery cuts right... 
+
+date: 2024-07-31, updated: 2024-07-31, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045042-mocking-fascists-is-good->
+
+---
+
+## 2024 Invention of the Year Winner – Thrust Chamber Liner and Fabrication Method
+
+date: 2024-07-31, from: NASA breaking news
+
+NASA Marshall Space Flight Center: A thrust chamber assembly (TCA) is the critical and central component in a rocket engine that provides thrust to propel a launch vehicle into space. Since the 1960s, while small improvements in TCA performance have been made, little has been done to reduce weight, improve development timelines, and reduce manufacturing cost. [&#8230;] 
+
+<https://www.nasa.gov/organizations/otps/2024-invention-of-the-year-winner/>
+
+---
+
+##  It&#8217;s the wrong trousers, Gromit! And they&#8217;ve gone wrong! (Electric hiking pants?)... 
+
+date: 2024-07-31, updated: 2024-07-31, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045044-its-the-wrong-trousers-gr>
+
+---
+
+## Ranger 7 Snaps the Moon
+
+date: 2024-07-31, from: NASA breaking news
+
+On July 31, 1964, the Ranger 7 spacecraft took this photo, the first image of the Moon taken by a United States spacecraft. 17 minutes later, it crashed into the Moon on the northern rim of the Sea of Clouds as intended. The 4,316 images sent back helped identify safe Moon landing sites for Apollo [&#8230;] 
+
+<https://www.nasa.gov/image-article/ranger-7-snaps-the-moon/>
+
+---
+
+## Tech Today: Remote Sensing Technology Fights Forest Fires
+
+date: 2024-07-31, from: NASA breaking news
+
+Enabled by NASA Sensors and Technical Assistance 
+
+<https://www.nasa.gov/general/tech-today-remote-sensing-technology-fights-forest-fires/>
+
+---
+
+##  Point Break & Kathryn Bigelow&#8217;s Revolutionary POV Shots 
+
+date: 2024-07-31, updated: 2024-07-31, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/point-break-kathryn-bigelows-revolutionary-pov-shots>
+
+---
+
+## Five signs that the GenAI honeymoon is over
+
+date: 2024-07-31, from: Gary Marcus blog
+
+And why that might be a good thing 
+
+<https://garymarcus.substack.com/p/five-signs-that-the-genai-honeymoon>
+
+---
+
+##  The EFF on the harmful KOSA bill working its way through Congress.... 
+
+date: 2024-07-31, updated: 2024-07-31, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045040-the-eff-on-the-harmful>
+
+---
+
+##  Results of LA&#8217;s 3-year basic income experiment were &#8220;transformative&#8221;. It gave people... 
+
+date: 2024-07-31, updated: 2024-07-31, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0045041-results-of-las-3-year-bas>
+
+---
+
+## macOS 14.6
+
+date: 2024-07-31, from: Michael Tsai
+
+Juli Clover (release notes, security, developer, enterprise, full installer, IPSW): macOS Sonoma 14.6 includes bug fixes and security improvements, and it is recommended for all Macs that run the macOS Sonoma operating system. Juli Clover: The macOS Sonoma 14.6 update that Apple released today includes dual display support, an important feature specifically for the 14-inch [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/31/macos-14-6/>
+
+---
+
+## macOS 13.6.8 and macOS 12.7.6
+
+date: 2024-07-31, from: Michael Tsai
+
+Apple (full installer): This document describes the security content of macOS Ventura 13.6.8. Apple (full installer): This document describes the security content of macOS Monterey 12.7.6. Adam Engst: Our general advice is that these updates are all worth installing soon, but with one exception, you can wait until it&#8217;s convenient since none of the vulnerabilities [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/31/macos-13-6-8-and-macos-12-7-6/>
+
+---
+
+## iOS 17.6 and iPadOS 17.6
+
+date: 2024-07-31, from: Michael Tsai
+
+Juli Clover (release notes, security, developer): There are no notable features in the iOS 17.6 and iPadOS 17.6 updates, with Apple adding unspecified bug fixes and security updates. Nothing new was discovered during the beta testing process. Eric deRuiter: Updating to iOS 17.6 now prompts to enable Stolen Device Protection on the first boot. This [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/31/ios-17-6-and-ipados-17-6/>
+
+---
+
+## watchOS 10.6
+
+date: 2024-07-31, from: Michael Tsai
+
+Juli Clover (release notes, security, developer): The watchOS 10.6 update does not add any new features, and instead focuses on bug fixes and security improvements. Previously: watchOS 10.5 
+
+<https://mjtsai.com/blog/2024/07/31/watchos-10-6/>
+
+---
+
+## tvOS 17.6
+
+date: 2024-07-31, from: Michael Tsai
+
+Juli Clover (release notes, security, developer): There were no new features found during the beta testing process. Previously: tvOS 17.5.1 
+
+<https://mjtsai.com/blog/2024/07/31/tvos-17-6/>
+
+---
+
+## visionOS 1.3
+
+date: 2024-07-31, from: Michael Tsai
+
+Juli Clover (release notes, security, developer): There are no new features in the visionOS 1.3 update, but it does bring small bug fixes and security improvements. Previously: visionOS 2 Announced 
+
+<https://mjtsai.com/blog/2024/07/31/visionos-1-3/>
+
+---
+
+## Sergey Durmanov opened issue #151: IN operators dont work with SET64 for 32-bit CPUs at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-07-31, updated: 2024-07-31, from: Oberon A2 at CAS
+
+
+<p dir="auto">IN operators dont work with SET64 for 32-bit CPUs, because in FoxIntermediateBackend.EvaluateBinaryExpression after calling the Convert procedures the argument types are system.setType</p>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/151>
+
+---
+
+## Sergey Durmanov opened issue #150: INCL/EXCL operators dont work with SET64 for 32-bit CPUs at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-07-31, updated: 2024-07-31, from: Oberon A2 at CAS
+
+
+<p dir="auto">INCL/EXCL operators dont work with SET64 for 32-bit CPUs, because in FoxIntermediateBackend.DesignateBuiltinCallDesignator after calling the Convert procedure the argument types become 64-bit, but in the I386.Builtins module for shifts the second parameter is 32-bit.</p>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/150>
 
 ---
 
@@ -80,155 +741,6 @@ date: 2024-07-31, updated: 2024-07-31, from: Oberon A2 at CAS
 
 ---
 
-## 2024-07-31 Hashtags
-
-date: 2024-07-31, from: Alex Schroeder's Blog
-
-<h1 id="2024-07-31-hashtags">2024-07-31 Hashtags</h1>
-
-<p>I implemented <a href="oddmu/oddmu-hashtags.1">a new subcommand for Oddmu</a>.
-I was mostly curious to see
-whether Administration had alread overtaken role-playing games, that
-is, RPG. I am happy to report that administration issues are still far
-from the top of the list. <em>Homo ludens</em> is still winning out. 😄</p>
-
-<table>
-<thead>
-<tr>
-<th align="right">Rank</th>
-<th>Hashtag</th>
-<th align="right">Count</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td align="right">1</td>
-<td><a class="tag" href="/search/?q=%23rpg">#rpg</a></td>
-<td align="right">1478</td>
-</tr>
-
-<tr>
-<td align="right">2</td>
-<td><a class="tag" href="/search/?q=%23old_school">#old school</a></td>
-<td align="right">475</td>
-</tr>
-
-<tr>
-<td align="right">3</td>
-<td><a class="tag" href="/search/?q=%23software">#software</a></td>
-<td align="right">314</td>
-</tr>
-
-<tr>
-<td align="right">4</td>
-<td><a class="tag" href="/search/?q=%23life">#life</a></td>
-<td align="right">284</td>
-</tr>
-
-<tr>
-<td align="right">5</td>
-<td><a class="tag" href="/search/?q=%23web">#web</a></td>
-<td align="right">263</td>
-</tr>
-
-<tr>
-<td align="right">6</td>
-<td><a class="tag" href="/search/?q=%23rsp">#rsp</a></td>
-<td align="right">233</td>
-</tr>
-
-<tr>
-<td align="right">7</td>
-<td><a class="tag" href="/search/?q=%23wikis">#wikis</a></td>
-<td align="right">214</td>
-</tr>
-
-<tr>
-<td align="right">8</td>
-<td><a class="tag" href="/search/?q=%23emacs">#emacs</a></td>
-<td align="right">205</td>
-</tr>
-
-<tr>
-<td align="right">9</td>
-<td><a class="tag" href="/search/?q=%23pictures">#pictures</a></td>
-<td align="right">204</td>
-</tr>
-
-<tr>
-<td align="right">10</td>
-<td><a class="tag" href="/search/?q=%23copyright">#copyright</a></td>
-<td align="right">173</td>
-</tr>
-
-<tr>
-<td align="right">11</td>
-<td><a class="tag" href="/search/?q=%23oddmuse">#oddmuse</a></td>
-<td align="right">168</td>
-</tr>
-
-<tr>
-<td align="right">12</td>
-<td><a class="tag" href="/search/?q=%23music">#music</a></td>
-<td align="right">164</td>
-</tr>
-
-<tr>
-<td align="right">13</td>
-<td><a class="tag" href="/search/?q=%23games">#games</a></td>
-<td align="right">141</td>
-</tr>
-
-<tr>
-<td align="right">14</td>
-<td><a class="tag" href="/search/?q=%23books">#books</a></td>
-<td align="right">138</td>
-</tr>
-
-<tr>
-<td align="right">15</td>
-<td><a class="tag" href="/search/?q=%23usa">#usa</a></td>
-<td align="right">132</td>
-</tr>
-
-<tr>
-<td align="right">16</td>
-<td><a class="tag" href="/search/?q=%23administration">#administration</a></td>
-<td align="right">132</td>
-</tr>
-
-<tr>
-<td align="right">17</td>
-<td><a class="tag" href="/search/?q=%23movies">#movies</a></td>
-<td align="right">126</td>
-</tr>
-
-<tr>
-<td align="right">18</td>
-<td><a class="tag" href="/search/?q=%23blogs">#blogs</a></td>
-<td align="right">119</td>
-</tr>
-
-<tr>
-<td align="right">19</td>
-<td><a class="tag" href="/search/?q=%23programming">#programming</a></td>
-<td align="right">115</td>
-</tr>
-
-<tr>
-<td align="right">20</td>
-<td><a class="tag" href="/search/?q=%23gadgets">#gadgets</a></td>
-<td align="right">99</td>
-</tr>
-</tbody>
-</table>
-<p><a class="tag" href="/search/?q=%23Blogging">#Blogging</a> <a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a></p> 
-
-<https://alexschroeder.ch/view/2024-07-31-hashtags>
-
----
-
 **@Miguel de Icaza Mastondon feed** (date: 2024-07-31, from: Miguel de Icaza Mastondon feed)
 
 <p>As I was telling a friend, If you are not running iOS 18.1 you might as well just run Android or live in a cave.</p> 
@@ -279,6 +791,16 @@ date: 2024-07-31, from: OS News
 Is machine learning, also known as &#8220;artificial intelligence&#8221;, really aiding workers and increasing productivity? A study by Upwork &#8211; which, as Baldur Bjarnason so helpfully points out, sells AI solutions and hence did not promote this study on its blog as it does with its other studies &#8211; reveals that this might not actually be the case. Nearly half (47%) of workers using AI say they have no idea how to achieve the productivity gains their employers expect. Over three in four (77%) say AI tools have decreased their productivity and added to their workload in at least one way. For example, survey respondents reported that they’re spending more time reviewing or moderating AI-generated content (39%), invest more time learning to use these tools (23%), and are now being asked to do more work (21%). Forty percent of employees feel their company is asking too much of them when it comes to AI. ↫ Upwork research This shouldn&#8217;t come as a surprise. We&#8217;re in a massive hype cycle when it comes to machine learning, and we&#8217;re being told it&#8217;s going to revolutionise work and lead to massive productivity gains. In practice, however, it seems these tools just can&#8217;t measure up to the hyped promises, and in fact is making people do less and work slower. There&#8217;s countless stories of managers being told by upper management to shove machine learning into everything, from products to employee workflows, whether it makes any sense to do so or not. I know from experience as a translator that machine learning can greatly improve my productivity, but the fact that there are certain types of tasks that benefit from ML, doesn&#8217;t mean every job suddenly thrives with it. I&#8217;m definitely starting to see some cracks in the hype cycle, and this study highlights a major one. I hope we can all come down to earth again, and really take a careful look at where ML makes sense and where it does not, instead of giving every worker a ChatGPT account and blanket demanding massive productivity gains that in no way match the reality on the office floor. And of course, despite demanding massive productivity increases, it&#8217;s not like workers are getting an equivalent increase in salary. We&#8217;ve seen massive productivity increases for decades now, while paychecks have not followed suit at all, and many people can actually buy less with their salary today than their parents could decades ago. Demands imposed by managers by introducing AI is only going to make this discrepancy even worse. 
 
 <https://www.osnews.com/story/140365/ai-causing-burnout-lower-productivity/>
+
+---
+
+## A Starving Person Eating Junk Food
+
+date: 2024-07-31, updated: 2024-08-01, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/07/31/a-starving-person-eating-junk-food/>
 
 ---
 
@@ -481,6 +1003,48 @@ date: 2024-07-31, from: Ze Iaso's blog
 TL;DR: Zenless Zone Zero is a fantastic game that's ruined by its gacha system. It's a shame that it's a gacha game, because it's so good otherwise. 8/10 
 
 <https://xeiaso.net/videos/2024/zzz-review/>
+
+---
+
+## CloudNativePG 1.23.3 and 1.22.5 Released!
+
+date: 2024-07-31, from: PostgreSQL News
+
+<p>We are delighted to announce the latest updates for the <strong>CloudNativePG
+Operator</strong>, now available for versions 1.23 and 1.22.</p>
+<p><strong>Patch releases 1.23.3 and 1.22.5</strong> bring essential bug fixes and enhancements
+to ensure greater stability and resilience for your systems.</p>
+<p><strong>Important Notice:</strong> Version 1.22 has now reached End-of-Life (EOL). The
+1.22.5 release is the final update for this version.</p>
+<p><strong>Upgrade Now:</strong> We strongly recommend updating your operator to take advantage
+of these improvements and ensure your system remains robust.</p>
+<p>For comprehensive details on the changes, please review the release notes:</p>
+<ul>
+<li><a href="https://cloudnative-pg.io/documentation/1.23/release_notes/v1.23/">Release Notes for 1.23.3</a></li>
+<li><a href="https://cloudnative-pg.io/documentation/1.22/release_notes/v1.22/">Release Notes for 1.22.5</a></li>
+</ul>
+<p>Thank you for your continued support. We are committed to providing you with a
+seamless experience with the CloudNativePG Operator. If you are using our
+operator in production, we invite you to
+<a href="https://github.com/cloudnative-pg/cloudnative-pg/blob/main/ADOPTERS.md">add your organization as an adopter of the project</a>.</p>
+<p>Your support is invaluable to us and helps us grow and improve!</p>
+<h2>About CloudNativePG</h2>
+<p><a href="https://cloudnative-pg.io">CloudNativePG</a> stands as a groundbreaking
+open-source Kubernetes Operator designed explicitly for PostgreSQL workloads.
+Seamlessly orchestrating the entire life cycle of a PostgreSQL cluster,
+CloudNativePG takes charge from bootstrapping and configuration to ensuring
+high availability, connection routing, and comprehensive backup and disaster
+recovery mechanisms.
+Leveraging PostgreSQL's native streaming replication, CloudNativePG efficiently
+distributes data across pods, nodes, and zones using standard Kubernetes
+patterns. This enables seamless scaling of replicas in a Kubernetes-native
+manner, with the operator autonomously and safely reconfiguring replication as
+needed.
+Originally conceived and supported by <a href="https://www.enterprisedb.com/">EDB</a>,
+CloudNativePG represents a paradigm shift in managing PostgreSQL workloads
+within Kubernetes environments.</p> 
+
+<https://www.postgresql.org/about/news/cloudnativepg-1233-and-1225-released-2900/>
 
 ---
 

@@ -1,11 +1,134 @@
 ---
 title: central coast 2024.31
-updated: 2024-07-31 08:05:00
+updated: 2024-08-01 08:25:59
 ---
 
 # central coast 2024.31
 
-(date: 2024-07-31 08:05:00)
+(date: 2024-08-01 08:25:59)
+
+---
+
+## Honolulu Afternoon
+
+date: 2024-08-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-POD-Colin-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Honolulu afternoon." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-POD-Colin-Macfadyen.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-POD-Colin-Macfadyen.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-POD-Colin-Macfadyen.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-POD-Colin-Macfadyen.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-POD-Colin-Macfadyen.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-POD-Colin-Macfadyen.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-POD-Colin-Macfadyen.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-POD-Colin-Macfadyen.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-POD-Colin-Macfadyen.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-POD-Colin-Macfadyen.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-POD-Colin-Macfadyen.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-POD-Colin-Macfadyen.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/072124-POD-Colin-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/honolulu-afternoon/">Honolulu Afternoon</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/honolulu-afternoon/>
+
+---
+
+## El Mercado De la Guerra Kicks Off Santa Barbara’s Old Spanish Days Fiesta
+
+date: 2024-08-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Fiesta-El-Mercado-DG-1.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sisters Jessica and Erika Sahagun of Sahagun Dance perform on stage at Mercado De la Guerra." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Fiesta-El-Mercado-DG-1.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Fiesta-El-Mercado-DG-1.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Fiesta-El-Mercado-DG-1.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Fiesta-El-Mercado-DG-1.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Fiesta-El-Mercado-DG-1.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Fiesta-El-Mercado-DG-1.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Fiesta-El-Mercado-DG-1.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Fiesta-El-Mercado-DG-1.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Fiesta-El-Mercado-DG-1.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Fiesta-El-Mercado-DG-1.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Since moving to Santa Barbara two months ago, I have been trying to learn more about my new home, meeting new people and zeroing in on important issues and the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/el-mercado-de-la-guerra-kicks-off-santa-barbaras-old-spanish-days-fiesta/">El Mercado De la Guerra Kicks Off Santa Barbara&#8217;s Old Spanish Days Fiesta</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/el-mercado-de-la-guerra-kicks-off-santa-barbaras-old-spanish-days-fiesta/>
+
+---
+
+## UC Workers Rally at UCSB to Call for Higher Wages, Better Contract
+
+date: 2024-08-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Ralph-Armbruster-Sandoval-Union-Rally-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Ralph Armbruster-Sandoval, a professor of Chicano studies at UCSB, calls on the UC system to pay higher wages to AFSCME 3299 workers during a rally on Wednesday." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Ralph-Armbruster-Sandoval-Union-Rally-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Ralph-Armbruster-Sandoval-Union-Rally-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Ralph-Armbruster-Sandoval-Union-Rally-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Ralph-Armbruster-Sandoval-Union-Rally-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Ralph-Armbruster-Sandoval-Union-Rally-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Ralph-Armbruster-Sandoval-Union-Rally-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Ralph-Armbruster-Sandoval-Union-Rally-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Ralph-Armbruster-Sandoval-Union-Rally-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Ralph-Armbruster-Sandoval-Union-Rally-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-Ralph-Armbruster-Sandoval-Union-Rally-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Rosalva Alcala lives with her adult daughter and two grandkids in Oxnard. She works at UCSB as a custodian. She said she can&#8217;t afford to live in Santa Barbara. She [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/everyone-is-struggling-uc-workers-rally-at-ucsb-to-call-for-higher-wages-better-contract/">UC Workers Rally at UCSB to Call for Higher Wages, Better Contract</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/everyone-is-struggling-uc-workers-rally-at-ucsb-to-call-for-higher-wages-better-contract/>
+
+---
+
+## Former UCSB Star Michael McGreevy is Lights Out in Major-League Debut for Cardinals
+
+date: 2024-08-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2021/07/071221_McGreevy2_1320_880_c1_modified.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Michael McGreevy" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2021/07/071221_McGreevy2_1320_880_c1_modified.jpg?w=1320&amp;ssl=1 1320w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2021/07/071221_McGreevy2_1320_880_c1_modified.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2021/07/071221_McGreevy2_1320_880_c1_modified.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2021/07/071221_McGreevy2_1320_880_c1_modified.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2021/07/071221_McGreevy2_1320_880_c1_modified.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2021/07/071221_McGreevy2_1320_880_c1_modified.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2021/07/071221_McGreevy2_1320_880_c1_modified.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2021/07/071221_McGreevy2_1320_880_c1_modified.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2021/07/071221_McGreevy2_1320_880_c1_modified.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>What a Major League Baseball debut for former UC Santa Barbara pitching star Michael McGreevy. A 2021 draft pick of the St. Louis Cardinals, McGreevy pitched seven innings and allowed [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/former-ucsb-star-michael-mcgreevy-is-lights-out-in-major-league-debut-for-cardinals/">Former UCSB Star Michael McGreevy is Lights Out in Major-League Debut for Cardinals</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/former-ucsb-star-michael-mcgreevy-is-lights-out-in-major-league-debut-for-cardinals/>
+
+---
+
+## 805 Water Polo Club Brings Home 1 Gold, 2 Silvers from Junior Olympics
+
+date: 2024-08-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara 805 Water Polo Club captured one gold medal and two silvers in the Championship Divisions at the USA Water Polo Junior Olympics last week in the Bay [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/805-water-polo-club-brings-home-1-gold-2-silvers-from-junior-olympics/">805 Water Polo Club Brings Home 1 Gold, 2 Silvers from Junior Olympics</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/805-water-polo-club-brings-home-1-gold-2-silvers-from-junior-olympics/>
+
+---
+
+## Ryann Neushul Scores First Olympics Goal in U.S. Water Polo Win Over Italy
+
+date: 2024-08-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Goleta’s Ryann Neushul scored her first goal of the Olympics, and the U.S. Women’s Water Polo Team rebounded from its first loss with a dominating performance in a 10-3 win [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ryann-neushul-scores-first-olympics-goal-in-u-s-water-polo-win-over-italy/">Ryann Neushul Scores First Olympics Goal in U.S. Water Polo Win Over Italy</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ryann-neushul-scores-first-olympics-goal-in-u-s-water-polo-win-over-italy/>
+
+---
+
+## Murder, Other Charges Filed Against Suspect in Deadly Santa Maria Assault
+
+date: 2024-07-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A Santa Maria man has been charged with murder and other felonies in connection with a fatal assault at a mini-storage facility over the weekend.  Carlos Israel Loyola, 30, is [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/murder-other-charges-filed-against-suspect-in-deadly-santa-maria-assault/">Murder, Other Charges Filed Against Suspect in Deadly Santa Maria Assault</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/murder-other-charges-filed-against-suspect-in-deadly-santa-maria-assault/>
+
+---
+
+## UCSB Signs Dunn, Santa Barbara Soccer Club Standout Manu Duah
+
+date: 2024-07-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The UC Santa Barbara men’s soccer program continued its tradition of signing a student athlete from Dunn School in Los Olivos. The latest signing is Manu Duah, a midfielder who [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-signs-dunn-santa-barbara-soccer-club-standout-manu-duah/">UCSB Signs Dunn, Santa Barbara Soccer Club Standout Manu Duah</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-signs-dunn-santa-barbara-soccer-club-standout-manu-duah/>
+
+---
+
+## Michele Allyn: The Value a Local Realtor Brings to Sale of a Home
+
+date: 2024-07-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>As the president of the Board of Directors for the Santa Barbara Association of Realtors, I know firsthand the vital role that using a local Realtorplays in the successful sale [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/michele-allyn-the-value-a-local-realtor-brings-to-sale-of-a-home/">Michele Allyn: The Value a Local Realtor Brings to Sale of a Home</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/michele-allyn-the-value-a-local-realtor-brings-to-sale-of-a-home/>
+
+---
+
+## Captain’s Log: Wildest of Wildlife Viewing Story
+
+date: 2024-07-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Once in a while we get lucky with wildlife viewing, but most of the time being thoughtful and prepared beats luck like a flush beats a straight. Here is one [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/captains-log-wildest-of-wildlife-viewing-story/">Captain’s Log: Wildest of Wildlife Viewing Story</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/captains-log-wildest-of-wildlife-viewing-story/>
 
 ---
 

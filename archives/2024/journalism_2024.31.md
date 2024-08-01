@@ -1,11 +1,31 @@
 ---
 title: journalism 2024.31
-updated: 2024-07-31 08:05:03
+updated: 2024-08-01 08:26:03
 ---
 
 # journalism 2024.31
 
-(date: 2024-07-31 08:05:03)
+(date: 2024-08-01 08:26:03)
+
+---
+
+## To preserve their work — and drafts of history — journalists take archiving into their own hands
+
+date: 2024-07-31, from: Nieman Journalism Lab
+
+When news sites shut down, those sites&#8217; owners often don&#8217;t prioritize the preservation of the content. MTV pulled down MTV News in June. After Deadspin was sold, many of its archives temporarily disappeared. This week, Flaming Hydra reported that The Awl&#8217;s archives are gone. And those examples are just from the past couple of months;... 
+
+<https://www.niemanlab.org/2024/07/to-preserve-their-work-and-drafts-of-history-journalists-take-archiving-into-their-own-hands/>
+
+---
+
+## With the Hyperlocal News Network, TAPinto adds a licensing option to its longtime franchise model
+
+date: 2024-07-31, from: Nieman Journalism Lab
+
+Fun fact: Local news network TAPinto and Nieman Lab share a birthday (month)! We were both founded in October 2008, in a moment of trepidation and excitement about possibilities for news on the internet. Two years before, in 2006, BuzzFeed had been established; in 2007, the first iPhone had been released; and the same year... 
+
+<https://www.niemanlab.org/2024/07/with-the-hyperlocal-news-network-tapinto-adds-a-licensing-option-to-its-longtime-franchise-model/>
 
 ---
 

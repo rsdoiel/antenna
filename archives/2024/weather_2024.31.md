@@ -1,11 +1,713 @@
 ---
 title: weather 2024.31
-updated: 2024-07-31 08:05:02
+updated: 2024-08-01 08:26:02
 ---
 
 # weather 2024.31
 
-(date: 2024-07-31 08:05:02)
+(date: 2024-08-01 08:26:02)
+
+---
+
+## Advisory #005 Forecast Track [kmz] - Tropical Storm Carlotta (EP3/EP032024)
+
+date: 2024-08-01, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 01 Aug 2024 14:52:27 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP032024_005adv_TRACK.kmz>
+
+---
+
+## Advisory #005 Wind Field [shp] - Tropical Storm Carlotta (EP3/EP032024)
+
+date: 2024-08-01, from: Eastern Pacific Basin GIS Data
+
+Initial and Forecast Surface Winds. Shapefile last updated Thu, 01 Aug 2024 14:52:03 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep032024_fcst_005.zip>
+
+---
+
+## Preliminary Best Track [shp] - Tropical Storm Carlotta (EP3/EP032024)
+
+date: 2024-08-01, from: Eastern Pacific Basin GIS Data
+
+Track, Points, and Wind Swath. Shapefile last updated Thu, 01 Aug 2024 14:51:57 GMT 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep032024_best_track.zip>
+
+---
+
+## Preliminary Best Track Points [kmz] - Tropical Storm Carlotta (EP3/EP032024)
+
+date: 2024-08-01, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 01 Aug 2024 14:51:57 GMT 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep032024_best_track.kmz>
+
+---
+
+## Advisory #005 Cone of Uncertainty [kmz] - Tropical Storm Carlotta (EP3/EP032024)
+
+date: 2024-08-01, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 01 Aug 2024 14:51:54 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP032024_005adv_CONE.kmz>
+
+---
+
+## Advisory #005 Forecast [shp] - Tropical Storm Carlotta (EP3/EP032024)
+
+date: 2024-08-01, from: Eastern Pacific Basin GIS Data
+
+Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Thu, 01 Aug 2024 14:51:41 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep032024_5day_005.zip>
+
+---
+
+## Tropical Storm Carlotta Graphics
+
+date: 2024-08-01, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep3+shtml/145115.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP03/EP032024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Carlotta 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Thu, 01 Aug 2024 14:51:15 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep3+shtml/145115.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP03/EP032024_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Carlotta 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Thu, 01 Aug 2024 15:22:53 GMT
+ 
+
+<https://www.nhc.noaa.gov/refresh/graphics_ep3+shtml/145115.shtml?cone>
+
+---
+
+## Tropical Storm Carlotta Forecast Discussion Number 5
+
+date: 2024-08-01, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPZ43 KNHC 011449
+TCDEP3
+ 
+Tropical Storm Carlotta Discussion Number   5
+NWS National Hurricane Center Miami FL       EP032024
+800 AM MST Thu Aug 01 2024
+ 
+After intensifying over the past 12 to 18 hours, Carlotta is taking
+a brief pause as the inner-core becomes better established, though
+the system is still quite healthy looking on satellite imagery with
+plenty of curved bands around a formative central dense overcast
+(CDO). A blend of the latest subjective Dvorak intensity estimates
+still support an intensity of 50-kt this advisory, which is also
+roughly in the middle of objective intensity guidance.
+ 
+Carlotta continues to move west-northwestward at 295/10-kt. This
+motion is caused by a prominent deep-layer ridge located over the
+southwestern United States, and Carlotta may turn more back westward
+over the next few days as this ridge continues to strengthen.
+However by day 3 and beyond, the tropical cyclone will begin to
+feel a weakness to the north, which will likely result in a gradual
+slowdown in its forward motion and another gentle shift more
+poleward in the track. The latest track guidance is ever so slightly
+further north and faster compared to the previous cycle. Thus, the
+NHC track forecast has been shifted a bit in that direction,
+roughly in between the prior track forecast, and the reliable
+consensus aids TVCE and HCCA.
+ 
+Environmental conditions still appear quite favorable for 
+intensification, with warm 28-29 C sea-surface temperatures (SSTs), 
+and low to moderate shear between 10-15 kt out of the northwest. The 
+rate of intensification may be determined more by how Carlotta's 
+inner-core evolves, and there have not been any recent microwave 
+images to diagnose the current structure. The SHIPS rapid 
+intensification index is a little lower than last night, though this 
+could also be in response to the temporary pause in the 
+intensification. However the last few GOES-18 images suggest the CDO 
+is becoming better established though an eye has yet to fully appear 
+on first-light visible imagery. Even though the intensity guidance 
+has shifted a little lower than last night, I have elected to keep 
+the same intensification rate in the NHC forecast from the last 
+cycle over the next 24 hours. This forecast is in better agreement 
+with the regional-hurricane models HAFS-A/B versus the lower 
+consensus aids that have been influenced by the lower SHIPS and LGEM 
+guidance. After 48-60 hours, SSTs begin to markedly decrease along 
+the forecast track, dropping under 26 C in 96 hours. Thus, the NHC 
+intensity forecast shows gradual weakening between days 3 to 5.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  01/1500Z 17.2N 111.0W   50 KT  60 MPH
+ 12H  02/0000Z 17.9N 112.6W   65 KT  75 MPH
+ 24H  02/1200Z 18.2N 114.8W   75 KT  85 MPH
+ 36H  03/0000Z 18.3N 117.0W   85 KT 100 MPH
+ 48H  03/1200Z 18.4N 119.2W   90 KT 105 MPH
+ 60H  04/0000Z 18.6N 121.0W   85 KT 100 MPH
+ 72H  04/1200Z 19.0N 122.7W   80 KT  90 MPH
+ 96H  05/1200Z 19.5N 125.5W   65 KT  75 MPH
+120H  06/1200Z 20.0N 128.0W   55 KT  65 MPH
+ 
+$$
+Forecaster Papin
+ 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/011449.shtml>
+
+---
+
+## Tropical Storm Carlotta Wind Speed Probabilities Number 5
+
+date: 2024-08-01, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+297 
+FOPZ13 KNHC 011447
+PWSEP3
+                                                                    
+TROPICAL STORM CARLOTTA WIND SPEED PROBABILITIES NUMBER   5         
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP032024               
+1500 UTC THU AUG 01 2024                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL STORM CARLOTTA WAS LOCATED NEAR     
+LATITUDE 17.2 NORTH...LONGITUDE 111.0 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 50 KTS...60 MPH...95 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z THU 00Z FRI 12Z FRI 00Z SAT 12Z SAT 12Z SUN 12Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z FRI 12Z FRI 00Z SAT 12Z SAT 12Z SUN 12Z MON 12Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+ISLA SOCORRO   34  3   2( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+ISLA CLARION   34  2  91(93)   3(96)   X(96)   X(96)   X(96)   X(96)
+ISLA CLARION   50  X  64(64)  10(74)   X(74)   X(74)   X(74)   X(74)
+ISLA CLARION   64  X  36(36)   9(45)   X(45)   X(45)   X(45)   X(45)
+ 
+15N 115W       34  1   2( 3)   2( 5)   1( 6)   X( 6)   X( 6)   X( 6)
+ 
+20N 115W       34  1  20(21)  12(33)   1(34)   1(35)   X(35)   X(35)
+20N 115W       50  X   2( 2)   2( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+15N 120W       34  X   X( X)   3( 3)   3( 6)   4(10)   1(11)   X(11)
+ 
+20N 120W       34  X   X( X)   6( 6)  45(51)  18(69)   1(70)   1(71)
+20N 120W       50  X   X( X)   X( X)  12(12)  14(26)   X(26)   X(26)
+20N 120W       64  X   X( X)   X( X)   4( 4)   7(11)   X(11)   X(11)
+ 
+15N 125W       34  X   X( X)   X( X)   X( X)   3( 3)   3( 6)   1( 7)
+ 
+20N 125W       34  X   X( X)   X( X)   1( 1)  27(28)  36(64)   4(68)
+20N 125W       50  X   X( X)   X( X)   X( X)   5( 5)  21(26)   3(29)
+20N 125W       64  X   X( X)   X( X)   X( X)   1( 1)   9(10)   2(12)
+ 
+25N 125W       34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   1( 4)
+ 
+20N 130W       34  X   X( X)   X( X)   X( X)   X( X)   5( 5)  13(18)
+20N 130W       50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   3( 4)
+20N 130W       64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+25N 130W       34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+$$                                                                  
+FORECASTER PAPIN                                                    
+
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIAPWSEP3+shtml/011447.shtml>
+
+---
+
+## Tropical Storm Carlotta Public Advisory Number 5
+
+date: 2024-08-01, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+293 
+WTPZ33 KNHC 011447
+TCPEP3
+ 
+BULLETIN
+Tropical Storm Carlotta Advisory Number   5
+NWS National Hurricane Center Miami FL       EP032024
+800 AM MST Thu Aug 01 2024
+ 
+...CARLOTTA STILL EXPECTED TO BECOME A HURRICANE BY TONIGHT OR
+TOMORROW...
+ 
+ 
+SUMMARY OF 800 AM MST...1500 UTC...INFORMATION
+----------------------------------------------
+LOCATION...17.2N 111.0W
+ABOUT 455 MI...735 KM WSW OF MANZANILLO MEXICO
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...997 MB...29.44 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM MST (1500 UTC), the center of Tropical Storm Carlotta was
+located near latitude 17.2 North, longitude 111.0 West. Carlotta is 
+moving toward the west-northwest near 12 mph (19 km/h). This motion 
+is expected to continue today, followed by a turn toward the west on 
+Friday and a continued westward motion through the weekend.
+ 
+Maximum sustained winds are near 60 mph (95 km/h) with higher gusts. 
+Strengthening is forecast during the next couple of days, and 
+Carlotta is expected to become a hurricane either tonight or 
+tomorrow.
+ 
+Tropical-storm-force winds extend outward up to 60 miles (95 km)
+from the center.
+ 
+The estimated minimum central pressure is 997 mb (29.44 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+SURF: Swells generated by Carlotta will affect the coasts of
+west-central mainland Mexico and the southern Baja California
+peninsula beginning later today. These swells are likely to cause
+life-threatening surf and rip current conditions through the
+weekend. Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 200 PM MST.
+ 
+$$
+Forecaster Papin
+ 
+
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/011447.shtml>
+
+---
+
+## Tropical Storm Carlotta Forecast Advisory Number 5
+
+date: 2024-08-01, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+721 
+WTPZ23 KNHC 011446
+TCMEP3
+ 
+TROPICAL STORM CARLOTTA FORECAST/ADVISORY NUMBER   5
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP032024
+1500 UTC THU AUG 01 2024
+ 
+TROPICAL STORM CENTER LOCATED NEAR 17.2N 111.0W AT 01/1500Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST-NORTHWEST OR 290 DEGREES AT  10 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  997 MB
+MAX SUSTAINED WINDS  50 KT WITH GUSTS TO  60 KT.
+50 KT....... 20NE   0SE   0SW  20NW.
+34 KT....... 50NE  40SE  20SW  40NW.
+12 FT SEAS.. 90NE  60SE  45SW  60NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 17.2N 111.0W AT 01/1500Z
+AT 01/1200Z CENTER WAS LOCATED NEAR 17.2N 110.5W
+ 
+FORECAST VALID 02/0000Z 17.9N 112.6W
+MAX WIND  65 KT...GUSTS  80 KT.
+64 KT... 10NE   0SE   0SW   0NW.
+50 KT... 30NE  25SE  15SW  25NW.
+34 KT... 60NE  50SE  40SW  60NW.
+ 
+FORECAST VALID 02/1200Z 18.2N 114.8W
+MAX WIND  75 KT...GUSTS  90 KT.
+64 KT... 15NE  10SE   0SW  10NW.
+50 KT... 40NE  35SE  25SW  35NW.
+34 KT... 80NE  60SE  50SW  70NW.
+ 
+FORECAST VALID 03/0000Z 18.3N 117.0W
+MAX WIND  85 KT...GUSTS 105 KT.
+64 KT... 20NE  10SE  10SW  15NW.
+50 KT... 40NE  30SE  30SW  40NW.
+34 KT... 80NE  60SE  60SW  80NW.
+ 
+FORECAST VALID 03/1200Z 18.4N 119.2W
+MAX WIND  90 KT...GUSTS 110 KT.
+64 KT... 25NE  15SE  10SW  20NW.
+50 KT... 40NE  35SE  30SW  40NW.
+34 KT... 80NE  60SE  60SW  80NW.
+ 
+FORECAST VALID 04/0000Z 18.6N 121.0W
+MAX WIND  85 KT...GUSTS 105 KT.
+50 KT... 40NE  30SE  30SW  40NW.
+34 KT... 80NE  70SE  60SW  80NW.
+ 
+FORECAST VALID 04/1200Z 19.0N 122.7W
+MAX WIND  80 KT...GUSTS 100 KT.
+50 KT... 40NE  35SE  30SW  40NW.
+34 KT... 80NE  60SE  60SW  80NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 05/1200Z 19.5N 125.5W
+MAX WIND  65 KT...GUSTS  80 KT.
+50 KT... 35NE  25SE  20SW  35NW.
+34 KT... 70NE  50SE  50SW  70NW.
+ 
+OUTLOOK VALID 06/1200Z 20.0N 128.0W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 30NE   0SE   0SW  30NW.
+34 KT... 60NE  50SE  50SW  60NW.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 17.2N 111.0W
+ 
+NEXT ADVISORY AT 01/2100Z
+ 
+$$
+FORECASTER PAPIN
+ 
+ 
+
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCMEP3+shtml/011446.shtml>
+
+---
+
+## ATCF XML Prototype [xml] - Tropical Storm Carlotta (EP3/EP032024)
+
+date: 2024-08-01, from: Eastern Pacific Basin GIS Data
+
+Issued at  Thu, 01 Aug 2024 14:47:08 GMT. This is only a prototype and the file format may change without notice. 
+
+<https://www.nhc.noaa.gov/storm_graphics/EP03/atcf-ep032024.xml>
+
+---
+
+## SPC - No watches are valid as of Thu Aug  1 13:52:02 UTC 2024
+
+date: 2024-08-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Thu Aug  1 13:52:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Thu Aug  1 13:52:02 UTC 2024
+
+date: 2024-08-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Thu Aug  1 13:52:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Aug 1, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-08-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0756 AM CDT Thu Aug 01 2024
+
+Valid 011300Z - 021200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+THE MIDWEST AND OHIO VALLEY...
+
+...SUMMARY...
+Severe thunderstorms will be possible today across parts of the
+Midwest and Ohio Valley, with a threat of damaging winds, isolated
+hail, and a tornado or two.
+
+...Synopsis...
+In mid/upper levels, extensive subtropical ridging is apparent from
+the northern Bahamas across FL, the north-central/northeastern Gulf,
+central/west TX, to the Four Corners region, bending northwestward
+into a large-scale ridge over the Great Basin and northern Rockies. 
+This ridging will consolidate around a developing high over the Four
+Corners, while weakening over the Southeast/Gulf Coast in response
+to northern-stream trough amplification across the Great Lakes.  The
+main factor in the latter is a strong shortwave trough -- apparent
+in moisture-channel imagery over parts of northern/western MN and
+western IA, with an embedded 500-mb low over west-central MN.  The
+trough/low should dig southeastward through the period, with the low
+reaching WI by 00Z and trough south-southwestward across MO.  By
+12Z, the trough should extend from Lake Huron through the low (then
+near southern Lake Michigan) to near STL.
+
+The surface analysis at 11Z showed a primary synoptic low over
+western Lake Superior, with cold front southwestward across western
+IA to central/southwestern KS, the TX Panhandle and northeastern NM.
+The KS portion of the front may advance far enough southeastward
+today so that its baroclinicity will blend with that of a northward-
+drifting, prefrontal outflow boundary now over central/northwestern
+OK.  Otherwise, the low should move/redevelop southeastward to Lower
+MI through the period, while the trailing front advances down the
+upper/mid Mississippi Valley to the Ozarks.
+
+...Parts of the Midwest/Ohio Valley...
+One or more clusters of strong-severe thunderstorms are possible
+between the Ohio Valley and Great Lakes this afternoon into evening,
+offering damaging to severe gusts, isolated large hail and a
+marginal/conditional tornado risk.  A mesoscale corridor of more-
+concentrated wind potential may evolve on the region, but still
+appears too conditional for greater probabilities at this time. 
+That is because uncertainty continues regarding the relative
+influence on the main afternoon/evening severe potential of:
+1.  The ongoing remnant MCS across portions of IL/IN, and the
+related pressure/theta-e perturbation as it moves eastward over
+parts of IN/OH and encounters destabilizing, favorably moist
+boundary layer from midday into early afternoon, and
+2. Development either side of the trailing outflow boundary across
+portions of central IN into southern IL, and especially its northern
+extent into heated/modified outflow air from the previous MCS.
+
+A corridor along and south of the outflow boundary, and east of the
+continuing MCS, should be characterized by upper 60s to mid 70s F
+surface dewpoints.  This will combine with strong surface heating to
+yield peak/preconvective MLCAPE in the 2500-3500 J/kg range, beneath
+difluent yet strengthening mid/upper winds ahead of the shortwave
+trough.  Deep-layer shear will weaken with eastward extent, but
+should be favorable for supercells in the first few hours of the
+main convective cycle.  Ultimately, one or two dominant, forward-
+propagating MCSs may evolve out of either scenario numbered above,
+with a swath of damaging to severe gusts possible.
+
+...Upper Mississippi Valley to parts of the Upper Great Lakes...
+Closer to the mid/upper low -- across WI and vicinity -- widely
+scattered to scattered mainly afternoon-developing thunderstorms are
+possible in an arc moving mostly eastward over the region.  This
+close to the low/trough, deep shear will be relatively weak,
+limiting overall convective organization.  However, mid/upper-level
+DCVA/cooling, and related steepening of deep-layer lapse rates in
+conjunction with diurnal heating, will overlie favorable pockets of
+low-level moisture, with surface dewpoints commonly in the upper 60s
+to lower 70s F.  As such, 1500-2500 J/kg of MLCAPE is expected in a
+"top-heavy" buoyancy profile (with largest LIs in the 500-300-mb
+layer).  Pulse-severe hail and gusts will be the main concerns.  The
+threat should weaken rapidly after sunset.
+
+...Northeastern NM to Ozarks...
+The combined outflow/frontal baroclinic zone cross this corridor, as
+well as the Raton Mesa and eastern parts of the southern Rockies,
+should focus isolated to widely scattered afternoon thunderstorms. 
+Some of this convection may persist through the evening where
+upscale clustering can occur, but in general, should diminish after
+dark.  Isolated severe gusts are the main concern.  The most intense
+cores may bring down locally severe hail as well, despite very high
+ambient freezing levels.
+
+The kinematic environment along the boundary will be characterized
+by strong veering of winds with height, but weak absolute speeds,
+rendering largely 25-35-kt effective-shear magnitudes and slow
+motions for those thunderstorms not accelerated by local to
+mesobeta-scale cold-pool processes.  A well-mixed and deep boundary
+layer showing "inverted-V" profiles on forecast soundings should
+develop through the afternoon, with temperatures commonly over 100F
+in elevations below about 4500 ft, and along and south of the
+boundary.  This will support DCAPE of 1000-2000 J/kg beneath similar
+MLCAPE values. Just north of the front, somewhat less-intense
+heating/mixing, but richer moisture, will yield an axis of 2000-3500
+J/kg MLCAPE near and largely parallel to the KS/OK line.  A mix of
+wet and dry downburst characteristics therefore is possible across
+this corridor.
+
+...Mid Atlantic to GA...
+A broad swath of the Eastern Seaboard from the Mid-Atlantic region
+to parts of GA, and the central/southern Appalachians, will
+experience isolated to scattered thunderstorms today.  Strong
+diurnal heating and rich boundary-layer moisture will increase
+buoyancy and erode MLCINH, beneath broadly difluent mid/upper-level
+flow.  Large-scale vertical motion will be weak (upward or downward)
+over the region, with the bulk of lift coming from residual outflow/
+differential-heating boundaries, terrain features, and perhaps
+sea-breeze boundaries.  Veering of winds with height is likely
+beneath modest mid/upper westerly to northwesterly flow, but lack of
+greater low/middle-level speeds will limit deep shear.  A few
+multicellular clusters are possible within this regime, offering
+locally concentrated damaging-wind potential, with isolated gusts
+near severe limits possible in the most intense, water-loaded cores.
+
+..Edwards/Grams.. 08/01/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## Central North Pacific Tropical Weather Outlook
+
+date: 2024-08-01, from: Central Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ACPN50 PHFO 011143<br/>
+TWOCP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS Central Pacific Hurricane Center Honolulu HI<br/>
+200 AM HST Thu Aug 1 2024<br/>
+<br/>
+For the central North Pacific...between 140W and 180W:<br/>
+<br/>
+No tropical cyclones are expected through the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Shigesato<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-08-01, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Thu Aug 1 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Southwestern Atlantic and Eastern Gulf of Mexico:<br>A well-defined tropical wave is producing a large area of <br>disorganized showers and thunderstorms over Hispaniola, Puerto <br>Rico, the Virgin Islands, and the adjacent waters of the <br>southwestern Atlantic and northeastern Caribbean Sea. Development of <br>this system should be slow to occur during the next couple of days <br>while it moves west-northwestward over portions of the Greater <br>Antilles. However, environmental conditions are forecast to be more <br>conducive for development after the wave passes the Greater <br>Antilles, and a tropical depression could form this weekend or early <br>next week over the eastern Gulf of Mexico or near the Florida <br>Peninsula. Interests across the Greater Antilles, the Bahamas, and <br>Florida should continue to monitor the progress of this system.<br>* Formation chance through 48 hours...low...20 percent.<br>* Formation chance through 7 days...medium...60 percent.<br><br />
+<br>Forecaster Beven<br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2024-08-01, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ABPZ20 KNHC 011135<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+500 AM PDT Thu Aug 1 2024<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on Tropical <br/>
+Storm Carlotta, located a few hundred miles west-southwest of <br/>
+Manzanillo, Mexico.<br/>
+<br/>
+Western East Pacific (EP95):<br/>
+An area of low pressure located more than one thousand miles to the <br/>
+west-southwest of the southern tip of the Baja California peninsula <br/>
+continues to produce disorganized shower and thunderstorm activity <br/>
+to the west of its center. Environmental conditions appear marginal <br/>
+for some development of this system during the next couple of days <br/>
+while it moves slowly westward at 5 to 10 mph. By this weekend, <br/>
+environmental conditions are forecast to become more unfavorable, <br/>
+and further development is not expected.<br/>
+* Formation chance through 48 hours...low...20 percent.<br/>
+* Formation chance through 7 days...low...20 percent.<br/>
+<br/>
+South of Central America and Southern Mexico:<br/>
+A trough of low pressure located a few hundred miles to the south of <br/>
+Central America is producing disorganized showers and thunderstorms. <br/>
+An area of low pressure is expected to form from this system during <br/>
+the next day or two, and thereafter environmental conditions appear <br/>
+conducive for gradual development. A tropical depression is likely <br/>
+to form by this weekend or early next week while the system moves <br/>
+westward to west-northwestward at 10 to 15 mph, remaining well <br/>
+offshore of the coast of Mexico. <br/>
+* Formation chance through 48 hours...low...20 percent.<br/>
+* Formation chance through 7 days...high...90 percent. <br/>
+<br/>
+&&<br/>
+Public Advisories on Tropical Storm Carlotta are issued under <br/>
+WMO header WTPZ33 KNHC and under AWIPS header MIATCPEP3.<br/>
+Forecast/Advisories on Tropical Storm Carlotta are issued under <br/>
+WMO header WTPZ23 KNHC and under AWIPS header MIATCMEP3.<br/>
+<br/>
+$$<br/>
+Forecaster Papin<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## 120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins
+
+date: 2024-08-01, from: Eastern Pacific Basin GIS Data
+
+Shapefile last updated Thu, 01 Aug 2024 09:23:13 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip>
 
 ---
 
@@ -173,26 +875,6 @@ LAT...LON   40608781 40548737 40188620 39888581 39688583 39328603
  
 
 <https://www.spc.noaa.gov/products/md/md1763.html>
-
----
-
-## Preliminary Best Track [shp] - Tropical Depression Three-E (EP3/EP032024)
-
-date: 2024-07-31, from: Eastern Pacific Basin GIS Data
-
-Track, Points, and Wind Swath. Shapefile last updated Wed, 31 Jul 2024 14:47:18 GMT 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep032024_best_track.zip>
-
----
-
-## Preliminary Best Track Points [kmz] - Tropical Depression Three-E (EP3/EP032024)
-
-date: 2024-07-31, from: Eastern Pacific Basin GIS Data
-
-KMZ last updated Wed, 31 Jul 2024 14:47:18 GMT 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep032024_best_track.kmz>
 
 ---
 
@@ -465,16 +1147,6 @@ FORECASTER PAPIN
 
 ---
 
-## ATCF XML Prototype [xml] - Tropical Depression Three-E (EP3/EP032024)
-
-date: 2024-07-31, from: Eastern Pacific Basin GIS Data
-
-Issued at  Wed, 31 Jul 2024 14:42:18 GMT. This is only a prototype and the file format may change without notice. 
-
-<https://www.nhc.noaa.gov/storm_graphics/EP03/atcf-ep032024.xml>
-
----
-
 ## Tropical Depression Three-E Forecast Advisory Number 1
 
 date: 2024-07-31, from: Eastern Pacific Basin Tropical Cyclones
@@ -603,194 +1275,6 @@ CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
  
 
 <https://www.spc.noaa.gov/products/watch/ws0577.html>
-
----
-
-## SPC Jul 31, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-07-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0759 AM CDT Wed Jul 31 2024
-
-Valid 311300Z - 011200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS THE
-MIDDLE MISSOURI VALLEY AND UPPER MIDWEST...
-
-...SUMMARY...
-Another active severe-weather day is expected from the
-northern/central Plains and Upper Midwest to the southern
-Appalachians. This includes potential for large hail across parts of
-the northern/central Plains, aside from a more prevalent risk of
-damaging winds, some of which could be significantly strong.
-
-...Great Plains/Mid-Missouri and Mid-Mississippi Valleys...
-A relatively prominent summertime mid-level trough is readily
-apparent across the northern High Plains early this morning, and
-will reach the Upper Midwest tonight. Ahead of this trough,
-scattered occasionally strong/locally severe convection has occurred
-overnight across northern South Dakota into southern/eastern North
-Dakota. This convection should further increase into midday/early
-afternoon, with a more appreciable severe risk evolving across
-north-central/eastern South Dakota, and eventually into southwest
-Minnesota by mid/late afternoon. Some initial supercells capable of
-very large hail will be possible, but storm mergers within a very
-unstable environment by mid/late afternoon should lead to MCS
-development and heightened wind potential. 
-
-Additional potentially intense storm development is expected
-southwestward near the cold front into Nebraska and Kansas, with
-large hail and severe-wind gusts expected. One or more organized
-clusters should regionally evolve by early/mid-evening across the
-Siouxland and far eastern Nebraska into much of Iowa. Potentially
-significant wind gusts in excess of 75 mph are plausible given the
-steep lapse rate environment and reservoir of strong to extreme
-buoyancy. Severe-MCS persistence seems viable tonight across much of
-Iowa/southern Minnesota, possibly northern Missouri, and Illinois.
-
-...Central Plains/southern High Plains...
-Isolated to scattered thunderstorms are expected to develop along
-and ahead of the front. Deep-layer shear will be strong enough for
-an isolated severe threat. Large to very large hail will be possible
-with supercells in parts of central Kansas. However, the environment
-will be less favorable further southwest with more of an
-isolated/marginal overall severe threat expected across southwest
-Kansas into northwest Oklahoma and the Texas Panhandle.
-
-...Lower Ohio Valley/Cumberland Plateau/Southern Appalachians...
-Similar to yesterday, a seasonally strong belt of northwesterly flow
-aloft will persist today from the lower Ohio Valley to the southern
-Appalachians and coastal Southeast. Much of this will reside atop a
-moist and very unstable air mass, especially across parts of the
-lower Ohio Valley to Cumberland Plateau, where upwards of 3000-4000
-J/kg MLCAPE may develop by peak heating outside of any MCS-related
-impacts. This general scenario will likely support several organized
-severe-producing storms clusters/MCSs through the evening across
-these regions. Somewhat higher severe probabilities (Enhanced
-category) may be warranted in subsequent outlooks for parts of these
-region.
-
-For one, an MCS ongoing across central Illinois this morning may
-potentially persist southeastward within this increasingly unstable
-environment, possibly impacting areas such as southern Indiana,
-southern Ohio and parts of Kentucky/Tennessee with a heightened wind
-damage potential. Aided by differential heating, scattered storms
-should also increase across the southern Appalachians vicinity this
-afternoon, with some organization into clusters possible given the
-aforementioned relative strength of winds aloft, with wind damage
-possible.
-
-...Southern Arizona...
-An upper low near Baja and ongoing early day storms across parts of
-northwest Mexico may influence thunderstorm development this
-afternoon within a moist air mass particularly across southeast
-Arizona. Some of the storms could produce severe-caliber wind gusts
-and blowing dust this afternoon into early evening.
-
-..Guyer/Grams.. 07/31/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## CPHC Central North Pacific Outlook
-
-date: 2024-07-31, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>200 AM HST Wed Jul 31 2024<br><br>For the central North Pacific...between 140W and 180W:<br><br>No tropical cyclones are expected through the next 7 days.<br><br>$$<br>Forecaster Shigesato<br>NNNN<br><br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2024-07-31, from: Eastern Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ABPZ20 KNHC 311140<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 AM PDT Wed Jul 31 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-South of Southwestern Mexico (EP94):<br/>
-Shower and thunderstorm activity is gradually becoming more <br/>
-organized near an area of low pressure located a few hundred miles <br/>
-south-southwest of Manzanillo, Mexico.  If these current trends <br/>
-continue, this system is expected to become a tropical depression as <br/>
-soon as later this morning. The system is forecast to move westward <br/>
-to west-northwestward at 10 to 15 mph during the next several days, <br/>
-remaining offshore of the southern coast of Mexico.<br/>
-* Formation chance through 48 hours...high...90 percent.<br/>
-* Formation chance through 7 days...high...90 percent.<br/>
-<br/>
-Western East Pacific (EP95):<br/>
-Shower and thunderstorm activity remains disorganized in association <br/>
-with an area of low pressure located more than one thousand miles to <br/>
-the southwest of the southern tip of the Baja California Peninsula. <br/>
-Some gradual development of this system remains possible, and a <br/>
-tropical depression could form by this weekend.  This system is <br/>
-forecast to move slowly westward at 5 to 10 mph, remaining over the <br/>
-western portion of the basin.<br/>
-* Formation chance through 48 hours...low...30 percent.<br/>
-* Formation chance through 7 days...medium...40 percent.<br/>
-<br/>
-South of Central America and Southern Mexico:<br/>
-An area of low pressure is expected to form offshore of the coast of <br/>
-Central America and southern Mexico later this week. Afterwards, <br/>
-environmental conditions appear conducive for gradual development of <br/>
-this system, and a tropical depression is likely to form by this <br/>
-weekend. The system is forecast to move westward to <br/>
-west-northwestward at 10 to 15 mph during the next several days, <br/>
-remaining offshore. <br/>
-* Formation chance through 48 hours...low...near 0 percent.<br/>
-* Formation chance through 7 days...high...80 percent. <br/>
-<br/>
-$$<br/>
-Forecaster Papin<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-07-31, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Wed Jul 31 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Near the Greater Antilles and the Bahamas:<br>A large tropical wave located  near the Lesser Antilles continues to <br>produce a broad area of disorganized shower and thunderstorm <br>activity. Environmental conditions are forecast to gradually become <br>more conducive for development while the system moves generally <br>west-northwestward over the Greater Antilles and towards the <br>Bahamas. A tropical depression could form by this weekend while the <br>system is in the vicinity of the Greater Antilles, Bahamas, or near <br>Florida. Interests in the Greater Antilles, the Bahamas, and the <br>southeastern U.S. should monitor the progress of this system.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...medium...60 percent.<br><br />
-<br>Forecaster Papin/Landsea<br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
@@ -1553,26 +2037,6 @@ CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
  
 
 <https://www.spc.noaa.gov/products/watch/ws0566.html>
-
----
-
-## SPC - No watches are valid as of Mon Jul 29 13:29:02 UTC 2024
-
-date: 2024-07-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Mon Jul 29 13:29:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Mon Jul 29 13:29:02 UTC 2024
-
-date: 2024-07-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Mon Jul 29 13:29:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 
