@@ -1,11 +1,41 @@
 ---
 title: retro computing 2024.31
-updated: 2024-08-01 08:26:05
+updated: 2024-08-02 08:37:52
 ---
 
 # retro computing 2024.31
 
-(date: 2024-08-01 08:26:05)
+(date: 2024-08-02 08:37:52)
+
+---
+
+## Developers’ fireside chat – 3rd August
+
+date: 2024-08-01, from: RiscOS Story
+
+The time has come once again for RISC OS developers, and anyone with an interest in the subject &#8211; perhaps as a beginner, or someone thinking of dipping their toes in &#8211; to gather around the virtual fire for a friendly chat. The next such meeting will take place on Saturday, 3rd August, kicking off at around 7:30pm. Taking place online, using the Zoom video conferencing platform, these meetings take place on a semi-regular basis, with the date of the next meeting decided at some point during the current one.&#8230; 
+
+<https://www.riscository.com/2024/developers-fireside-chat-3rd-august/>
+
+---
+
+## New features for FAST machines in latest update
+
+date: 2024-08-01, from: RiscOS Story
+
+FAST &#8211; a backronym for &#8216;Fast Access to Storage Technology&#8217; &#8211; is the name given by Andy Marks of RISCOSbits to a new range of machines launched at the 2023 Southwest Show &#8211; machines that do exactly as the acronym suggests, by accessing the PCIe port on the Raspberry Pi Compute Module to provide up to four full-speed SATA ports. At launch, Andy promised a regular upgrade cycle for anyone who buys a FAST computer, and he says the latest update &#8211; the second release for 2024 &#8211; brings the&#8230; 
+
+<https://www.riscository.com/2024/fast-update-2024-2/>
+
+---
+
+## MACadd version 2.01 released
+
+date: 2024-08-01, from: RiscOS Story
+
+Kevin Wells has released an update to one of his various applications that allow remote sites to be interrogated for information from the RISC OS desktop &#8211; this time MACadd, a program used for getting information about MAC (Media Access Control) addresses. MAC addresses are usually written as twelve digit hexadecimal (base 16) values, and are intended to be unique addresses associated with devices connected to a network &#8211; although more often than not, they are usually associated with network interfaces on those devices. A computer with both an ethernet&#8230; 
+
+<https://www.riscository.com/2024/macadd-2-01/>
 
 ---
 
@@ -104,7 +134,7 @@ The FAST systems from RISCOSbits will not currently work with the standard RISC 
 
 date: 2024-07-28, from: Happy Macs site
 
-I am pleased to announce that the Happy Macs Gopher site, gopher://happymacs.ddns.net, is back online after a lengthy outage related to both ISP issues and an upgrade of the server that the site runs on. A current screen shot of the Happy Macs Gopher site appears below: To access the Happy Macs Gopher site from [&#8230;] 
+I am pleased to announce that the Happy Macs Gopher site, gopher://happymacs.ddns.net, is back online after a lengthy outage related to ISP issues and to an upgrade of both the base software of the site and the Gopher server that runs there. The site sports a refreshed appearance as well. A screen shot of the [&#8230;] 
 
 <https://happymacs.wordpress.com/2024/07/28/happy-macs-gopher-site-back-online/>
 

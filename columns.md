@@ -1,11 +1,218 @@
 ---
 title: columns 2024.31
-updated: 2024-08-01 08:26:01
+updated: 2024-08-02 08:37:48
 ---
 
 # columns 2024.31
 
-(date: 2024-08-01 08:26:01)
+(date: 2024-08-02 08:37:48)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-02, from: Dave Winer's Scripting News)
+
+I was trying to find Tony Kahn on the web for a friend doing a documentary on the origins of podcasting, and came up empty. I just stumbled across him on Facebook and that led to <a href="https://www.tonykahn.org/home">this autobiographical site</a> where he tells his story of podcasting. Tony was the person who brought NPR into podcasting in 2004. A major contributor who isn't often credited. He was at WGBH at the time. 
+
+<http://scripting.com/2024/08/02.html#a122204>
+
+---
+
+## Leaked GitHub Python Token
+
+date: 2024-08-02, updated: 2024-08-02, from: Bruce Schneier blog
+
+<p>Here&#8217;s a disaster that <a href="https://www.techradar.com/pro/security/github-token-leak-could-have-put-the-entire-python-language-at-risk">didn&#8217;t happen</a>:</p>
+<blockquote><p>Cybersecurity researchers from JFrog recently discovered a GitHub Personal Access Token in a public Docker container hosted on Docker Hub, which granted elevated access to the GitHub repositories of the Python language, Python Package Index (PyPI), and the Python Software Foundation (PSF).</p></blockquote>
+<p>JFrog discussed what <a href="https://jfrog.com/blog/leaked-pypi-secret-token-revealed-in-binary-preventing-suppy-chain-attack/">could have happened</a>:</p>
+<blockquote><p>The implications of someone finding this leaked token could be extremely severe. The holder of such a token would have had administrator access to all of Python&#8217;s, PyPI&#8217;s and Python Software Foundation&#8217;s repositories, supposedly making it possible to carry out an extremely large scale supply chain attack...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/08/leaked-github-python-token.html>
+
+---
+
+## Debunking Myth #10: Economic growth is always good
+
+date: 2024-08-02, from: Robert Reich's blog
+
+BUNK! The Earth is a finite resource &#8212; and infinite growth will destroy it 
+
+<https://robertreich.substack.com/p/debunking-myth-10-economic-growth>
+
+---
+
+## Friday 2 August, 2024
+
+date: 2024-08-02, from: John Naughton's online diary
+
+Morning conference 8:30am, Provence, June Quote of the Day “If at first you don’t succeed, skydiving definitely isn’t for you” Steven Wright Musical alternative to the morning’s radio news Mozart &#124; Soave sia il vento &#124; Così fan tutte Link &#8230; <a href="https://memex.naughtons.org/friday-2-august-2024/39708/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-2-august-2024/39708/>
+
+---
+
+## August 1, 2024
+
+date: 2024-08-02, from: Heather Cox Richardson blog
+
+&#8220;This is a very good afternoon,&#8221; President Joe Biden said today. 
+
+<https://heathercoxrichardson.substack.com/p/august-1-2024>
+
+---
+
+## This Guy is Scared
+
+date: 2024-08-01, from: Dan Rather's Steady
+
+His worst nightmare? Losing to a woman of color 
+
+<https://steady.substack.com/p/this-guy-is-scared>
+
+---
+
+## The flag of pride
+
+date: 2024-08-01, from: Robert Reich's blog
+
+Or the flag of shame 
+
+<https://robertreich.substack.com/p/the-flag-of-pride>
+
+---
+
+## The Talk Show: ‘Hock TUAW’
+
+date: 2024-08-01, updated: 2024-08-01, from: Daring Fireball
+
+ 
+
+<https://daringfireball.net/thetalkshow/2024/07/31/ep-406>
+
+---
+
+##  As an experiment, The Pudding used an LLM (Claude) to produce one... 
+
+date: 2024-08-01, updated: 2024-08-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045056-as-an-experiment-the-pudd>
+
+---
+
+##  Diary Comics, July 3-5 
+
+date: 2024-08-01, updated: 2024-08-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/diary-comics-july-3>
+
+---
+
+## Notes from Doppelganger
+
+date: 2024-08-01, from: Tracy Durnell Blog
+
+&#8220;Ideas are tools of transformation, personal and collective.&#8221; I read through page 95 of the hardcover. likens social media to the enclosures &#8212; once enclosed, it became extractive, not to benefit the community as a shared resource but for private profit &#8212; likewise our relationships become about harvesting data for profit doppelganger stories: original is [&#8230;] 
+
+<https://tracydurnell.com/2024/08/01/notes-from-doppelganger/>
+
+---
+
+##  &#8220;Everywhere they go, the world&#8217;s best table tennis players meet strangers who... 
+
+date: 2024-08-01, updated: 2024-08-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045055-everywhere-they-go-the-wo>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-01, from: Dave Winer's Scripting News)
+
+<a href="https://mastodon.social/@davew/112887942698442458">Best podcasts</a> for Democratic voters? 
+
+<http://scripting.com/2024/08/01.html#a184129>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-01, from: Dave Winer's Scripting News)
+
+There isn't a whole lot of love in this <a href="https://www.threads.net/@davew/post/C-Ipp7VJX-m">39-year-old man</a>. I worry for his kids, esp if either of them don't have kids. 
+
+<http://scripting.com/2024/08/01.html#a182615>
+
+---
+
+##  The DMV Is Good Actually 
+
+date: 2024-08-01, updated: 2024-08-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/the-dmv-is-good-actually>
+
+---
+
+##  How the decline of Indian vultures led to 500,000 human deaths. &#8220;Understanding... 
+
+date: 2024-08-01, updated: 2024-08-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045053-how-the-decline-of-indian>
+
+---
+
+##  Watch a clip from the first animation Hayao Miyazaki directed on his... 
+
+date: 2024-08-01, updated: 2024-08-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045045-watch-a-clip-from-the>
+
+---
+
+## July 31, 2024
+
+date: 2024-08-01, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/july-31-2024-e72>
+
+---
+
+## 2024-08-01 Where to look online for RPG conversation?
+
+date: 2024-08-01, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-01-where-to-look-online-for-rpg-conversation">2024-08-01 Where to look online for RPG conversation?</h1>
+
+<p>This is a reaction to a post by the same title on the <a href="https://grumpywizard.home.blog/2024/08/01/where-to-look-online-for-rpg-conversation/">Grumpy Wizard</a> blog. I know where I get my conversation in any case. But all the points the Grumpy Wizard makes need to be considered. I don’t care about D&amp;D and Pathfinder. I don’t even care for the old editions. If at all, I care about the problems you ran into and your solutions at the table: techniques, procedures, house rules.</p>
+
+<p>I also don’t care for product announcements or read-through reviews. I also don’t care about the details of session reports. I care about the in-between: what have you used or made for use at the table, what can you say about it, did it work, what would do differently.</p>
+
+<p>Given these peculiarities, I find my conversation on Discord – on small servers with a dozen active people, no more, and we mostly care about the games we play with each other; or on the fediverse with an account that follows a lot of people from tabletop.social and dice.camp (or rollenspiel.social and pnpde.social, if you speak German). These sites are all a bit like early Twitter except you can follow people on compatible servers, too.</p>
+
+<p>There are similar sites that are bit a like Reddit, but you can also follow people on other servers – but I was never very active on Reddit and so they don’t appeal much to me.</p>
+
+<p>I guess if I were to look for forums, I’d go back to old haunts: EN World, ODD74, or whatever flavour you preferred back then.</p>
+
+<p>Anyway, when I post stuff that got started because of something I heard or somebody I spoke to, I try to link to their social media profiles or blogs so that you can check them out and maybe follow them, too.</p>
+
+<p>I sometimes wish there was more conversation to be found on IRC and Usenet. But that basically requires people love both role-playing games and old tech. It’s rare.</p>
+
+<p>And then there’s what the Grumpy Wizard also said: So many thi gs have been discussed for so long, I just don’t care about the conversation anymore. Ascending or descending armour class? 6 mile hex? I no longer care.</p>
+
+<p>I guess I’m still into blogs. 😄</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
+
+<https://alexschroeder.ch/view/2024-08-01-rpg-conversation>
 
 ---
 
@@ -322,7 +529,7 @@ City of Madrid, which is also the capital of the country."
 
 **@Dave Winer's Scripting News** (date: 2024-08-01, from: Dave Winer's Scripting News)
 
-<a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2024/07.opml">OPML archive</a> for July's posts on Scripting News. 
+Welcome to August. <a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2024/07.opml">OPML archive</a> for July's posts on Scripting News. 
 
 <http://scripting.com/2024/08/01.html#a120326>
 

@@ -1,11 +1,21 @@
 ---
 title: health 2024.31
-updated: 2024-08-01 08:26:06
+updated: 2024-08-02 08:37:52
 ---
 
 # health 2024.31
 
-(date: 2024-08-01 08:26:06)
+(date: 2024-08-02 08:37:52)
+
+---
+
+## Microbial signatures predictive of short-term prognosis in severe pneumonia
+
+date: 2024-08-02, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveThis retrospective cohort study aimed to investigate the composition and diversity of lung microbiota in patients with severe pneumonia and explore its association with short-term prognosis.MethodsA total of 301 patients diagnosed with severe pneumonia underwent bronchoalveolar lavage fluid metagenomic next-generation sequencing (mNGS) testing from February 2022 to January 2024. After applying exclusion criteria, 236 patients were included in the study. Baseline demographic and clinical characteristics were compared between survival and non-survival groups. Microbial composition and diversity were analyzed using alpha and beta diversity metrics. Additionally, LEfSe analysis and machine learning methods were employed to identify key pathogenic microorganism associated with short-term mortality. Microbial interaction modes were assessed through network co-occurrence analysis.ResultsThe overall 28-day mortality rate was 37.7% in severe pneumonia. Non-survival patients had a higher prevalence of hypertension and exhibited higher APACHE II and SOFA scores, higher procalcitonin (PCT), and shorter hospitalization duration. Microbial α and β diversity analysis showed no significant differences between the two groups. However, distinct species diversity patterns were observed, with the non-survival group showing a higher abundance of Acinetobacter baumannii, Klebsiella pneumoniae, and Enterococcus faecium, while the survival group had a higher prevalence of Corynebacterium striatum and Enterobacter. LEfSe analysis identified 29 distinct terms, with 10 potential markers in the non-survival group, including Pseudomonas sp. and Enterococcus durans. Machine learning models selected 16 key pathogenic bacteria, such as Klebsiella pneumoniae, significantly contributing to predicting short-term mortality. Network co-occurrence analysis revealed greater complexity in the non-survival group compared to the survival group, with differences in central genera.ConclusionOur study highlights the potential significance of lung microbiota composition in predicting short-term prognosis in severe pneumonia patients. Differences in microbial diversity and composition, along with distinct microbial interaction modes, may contribute to variations in short-term outcomes. Further research is warranted to elucidate the clinical implications and underlying mechanisms of these findings. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1397717>
 
 ---
 

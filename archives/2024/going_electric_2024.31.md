@@ -1,15 +1,359 @@
 ---
 title: going electric 2024.31
-updated: 2024-08-01 08:26:06
+updated: 2024-08-02 08:37:53
 ---
 
 # going electric 2024.31
 
-(date: 2024-08-01 08:26:06)
+(date: 2024-08-02 08:37:53)
 
 ---
 
-## Tesla Full Self-Driving data makes Elon Musk reduce expectations
+## The Kia EV4 Aims To Undercut The Tesla Model 3
+
+date: 2024-08-02, from: Inside EVs News
+
+The EV4 electric sedan will follow the EV3 crossover as the second model in Kia’s new line of more affordable EVs. 
+
+<https://insideevs.com/news/728862/kia-ev4-spotted-europe/>
+
+---
+
+## How Japan's Auto Industry Became Two Factions To Survive The EV War
+
+date: 2024-08-02, from: Inside EVs News
+
+Plus, Chrysler CEO faces an uphill battle to make the storied brand survive and another fatal crash allegedly caused due to Tesla’s Autopilot.  
+
+<https://insideevs.com/news/728867/japan-automakers-ev-race/>
+
+---
+
+## Tesla sued by family of motorcyclist killed in Autopilot crash
+
+date: 2024-08-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/03/img_1665-e1457955946161.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is facing another wrongful death lawsuit by the family of a motorcyclist killed in a crash involving Autopilot.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="374209" href="https://electrek.co/2024/08/02/tesla-sued-by-family-of-motorcyclist-killed-in-autopilot-crash/#more-374209" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/02/tesla-sued-by-family-of-motorcyclist-killed-in-autopilot-crash/>
+
+---
+
+## BYD ups the ante on Tesla’s Model 3 as new Seal EV gains LiDAR, other design updates
+
+date: 2024-08-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/BYD-Q3-profit.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD’s answer to the Tesla Model 3 is gaining LiDAR and other design improvements for the new 2025 model year. BYD revealed the new 2025 <a href="https://electrek.co/guides/byd-seal/">Seal EV</a> Friday as it looks to continue its dominant run in the global electric vehicle market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,byd-seal" data-layer-viewtype="unknown" data-post-id="374203" href="https://electrek.co/2024/08/02/byd-ups-ante-teslas-model-3-new-seal-ev/#more-374203" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/02/byd-ups-ante-teslas-model-3-new-seal-ev/>
+
+---
+
+## Supertyphoon Ravages The Philippines, Suzuki Lends a Helping Hand
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+Suzuki is offering free check-ups and oil changes to those affected by recent heavy flooding.  
+
+<https://www.rideapart.com/news/728612/suzuki-philippines-free-check-ups-typhoon-carina/>
+
+---
+
+## 2025 Hyundai Kona Electric Gets New N Line Trim
+
+date: 2024-08-02, from: Inside EVs News
+
+The sporty appearance does not come with more power or range. 
+
+<https://insideevs.com/news/728705/2025-hyundai-kona-electric-n-line-trim/>
+
+---
+
+## Guy Builds a Crazy Drift Shopping Cart From an Old Scooter, Hilarity Ensues
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+Why he doesn't have a bazillion subscribers, I'll never understand. 
+
+<https://www.rideapart.com/news/728765/crazy-drift-shopping-cart-build/>
+
+---
+
+## Royal Enfield Wants You To Ride Further, Offers “Borderless Warranty Program”
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+You’re covered by more than 3,000 service centers across more than 70 countries.  
+
+<https://www.rideapart.com/news/728613/royal-enfield-borderless-warranty-program/>
+
+---
+
+## Polaris Doubles Down On Utility, Working On 4-Seater EV UTV
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+More work, less noise.  
+
+<https://www.rideapart.com/news/728611/polaris-electric-4seater-utv-patent/>
+
+---
+
+## The Indian MotoGP Race Is Back On, but I Can’t Help but Wonder Why?
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+Insert "But why?" gif here. 
+
+<https://www.rideapart.com/news/728743/motogp-indian-gp-race-returns/>
+
+---
+
+## Why A Failed Startup’s Cheap EVs Are Piling Up In This Junkyard
+
+date: 2024-08-02, from: Inside EVs News
+
+Remember the ElectraMeccanica Solo? This is its final resting place. 
+
+<https://insideevs.com/news/728795/electrameccanica-solo-junkyard-arizona/>
+
+---
+
+## Men Sue Artist For Hosting a Women-Only Motorcycle Painting Event
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+Call Elle Woods, because this is just the latest in a long line of men's rights activists weaponizing California's Unruh Civil Rights Act.  
+
+<https://www.rideapart.com/news/728758/artist-gets-sued-women-only-motorcyclist-incel/>
+
+---
+
+## Harley Motorcyclist Pops Wheelie, Immediately Crashes Into Another Motorcycle
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+The other motorcyclist was also doing a wheelie.  
+
+<https://www.rideapart.com/news/728739/harley-davidson-wheelie-crash-into-another-wheelie/>
+
+---
+
+## Polaris Ups the Ante With the New RZR Pro, Takes a Shot at Can-Am's Maverick R
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+Who wants to go fast? 
+
+<https://www.rideapart.com/news/728589/2025-polaris-rzr-pro-ultimate-xp-specs-pricing/>
+
+---
+
+## Whoa, Polaris Just Added Heated and Cooled Seats to Its New RZR UTV
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+Hold on to your climate-controlled butts. 
+
+<https://www.rideapart.com/news/728767/polaris-rzr-r-ultimate-2025/>
+
+---
+
+## This anodeless, compressionless solid-state battery could be the next big thing [Update]
+
+date: 2024-08-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/ION-solid-state-battery.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Maryland-based ION Storage Systems is about to dramatically accelerate the commercialization of its unique solid-state batteries (SSBs).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-batteries,solid-state-batteries,solid-state-battery" data-layer-viewtype="unknown" data-post-id="352812" href="https://electrek.co/2024/08/01/anodeless-compressionless-solid-state-battery-ion/#more-352812" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/01/anodeless-compressionless-solid-state-battery-ion/>
+
+---
+
+## VinFast VF 3 shipments are officially underway with starting prices under $13,000
+
+date: 2024-08-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/VinFast-VF-3-pre-orders-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>VinFast (VFS) announced it has officially begun shipping its new mini electric SUV, the VinFast VF 3. Starting under $13,000, the new <a href="https://electrek.co/guides/vinfast-vf-3/">VF 3</a> generated strong buzz, with VinFast calling it a “social media phenomenon” ahead of shipments.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="vinfast,vinfast-vf-3" data-layer-viewtype="unknown" data-post-id="374193" href="https://electrek.co/2024/08/01/vinfast-vf-3-shipments-officially-underway-starting-under-13k/#more-374193" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/01/vinfast-vf-3-shipments-officially-underway-starting-under-13k/>
+
+---
+
+## The New VW Transporter Is Actually A Ford With ICE, PHEV And EV Power
+
+date: 2024-08-01, from: Inside EVs News
+
+Volkswagen is diversifying its range of vans by having three models, and the new Transporter is a VW/Ford joint venture product. 
+
+<https://insideevs.com/news/728755/volkswagen-transporter-ford-e-transit/>
+
+---
+
+## Here’s How Much An EV Could Save You, Based On Your State
+
+date: 2024-08-01, from: Inside EVs News
+
+No matter where you live or what car you buy, every EV is cheaper to fill up than a comparable gas car.  
+
+<https://insideevs.com/news/728609/ev-gas-savings-calculator-map/>
+
+---
+
+## NIO (NIO) crosses the 20,000 EV delivery mark for the third straight month in July
+
+date: 2024-08-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/NIO-Q2-EV-deliveries.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s <a href="https://electrek.co/guides/nio/">NIO</a> (NYSE: NIO) crossed the 20K delivery threshold for the third straight month in July. Despite intensifying competition, NIO continues to see strong demand in the world’s largest EV market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nio" data-layer-viewtype="unknown" data-post-id="374185" href="https://electrek.co/2024/08/01/nio-crosses-20k-delivery-mark-third-straight-month-july/#more-374185" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/01/nio-crosses-20k-delivery-mark-third-straight-month-july/>
+
+---
+
+## Which EV Has The Best User Experience?
+
+date: 2024-08-01, from: Inside EVs News
+
+Some have screen real estate for days, while others keep things simple. But which one is better? 
+
+<https://insideevs.com/news/728651/best-user-experience-ev-live-wire/>
+
+---
+
+## Tesla Karaoke Mic: China's Hottest Accessory Is Yours For $215
+
+date: 2024-08-01, from: Inside EVs News
+
+It's time to channel your inner Charli XCX. 
+
+<https://insideevs.com/news/728742/tesla-caraoke-mic-is-available-in-us/>
+
+---
+
+## First photos and details of VW’s new Transporter and Caravelle vans
+
+date: 2024-08-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/VW-transporter-main-image.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>VW just shared the first photos of the seventh generation of BEV and PHEV Transporter and Caravelle vans, along with lots of spec details.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-van,volkswagen,vw,vw-electric-van" data-layer-viewtype="unknown" data-post-id="374136" href="https://electrek.co/2024/08/01/volkswagen-vw-new-transporter-caravelle-vans/#more-374136" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/01/volkswagen-vw-new-transporter-caravelle-vans/>
+
+---
+
+## Head back to class with $500 off Rad Power e-bikes and 20% off accessories, Worx budget-friendly mower, Jackery 1-day sale, more
+
+date: 2024-08-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Rad-Power-RadWagon-4-Cargo-e-bike.webp?w=1600" /></div><p>August is officially here, which means plenty of folks are starting their back to school planning. Whether you’re heading to college, or have kids returning to grade school, <a href="https://9to5toys.com/2024/08/01/cruise-to-school-with-up-to-500-off-rad-power-e-bikes-20-off-accessories-and-more-starting-from-1099/">Rad Power Bikes has a new Back to School sale</a> that is offering <a href="https://9to5toys.com/2024/08/01/cruise-to-school-with-up-to-500-off-rad-power-e-bikes-20-off-accessories-and-more-starting-from-1099/">up to $500 e-bike discounts and 20% off accessories</a> – all to get hungry minds where they need to be. It is joined by the budget-friendly <a href="https://9to5toys.com/2024/07/31/worx-40v-14-inch-cordless-electric-mower-is-a-friend-to-homeowners-on-a-budget-at-240-save-60-more-from-349/">Worx 40V 14-inch Cordless Electric Lawn Mower at $230</a> (which I’m sure some folks will appreciate after tallying the costs for school supplies), with its more powerful <a href="https://9to5toys.com/2024/07/31/worx-40v-14-inch-cordless-electric-mower-is-a-friend-to-homeowners-on-a-budget-at-240-save-60-more-from-349/">Nitro 40V 21-inch model down at $349</a>. There’s also a 1-day sale on the reliable <a href="https://9to5toys.com/2024/08/01/take-jackerys-explorer-290-portable-power-station-on-your-next-trip-at-its-180-low-save-70-today-only/">Jackery Explorer 290 Portable Power Station</a> that can handle student needs or empty nesters on their next planned trip out of the house – <a href="https://9to5toys.com/2024/08/01/take-jackerys-explorer-290-portable-power-station-on-your-next-trip-at-its-180-low-save-70-today-only/">back at its $180 low</a>. Plus, all the other hangover Green Deals that are still alive and well – including a few extended savings on <a href="https://9to5toys.com/2024/07/31/last-day-to-save-up-to-600-on-apple-find-my-velotric-e-bikes-with-300-in-free-gear-deals-from-1199/">Velotric Apple Find My e-bikes</a> and <a href="https://9to5toys.com/2024/08/01/take-a-leisurely-cruise-around-town-on-mod-bikes-groove-1-utility-e-bike-at-1499-low-save-1000/">MOD’s Groove 1 Utility e-bike</a>, as well as <a href="https://9to5toys.com/2024/08/01/hiboy-debuts-new-x300-big-wheel-e-scooter-with-400-launch-discount-to-650-for-the-first-100-units-only/">Hiboy’s new X300 e-scooter</a> and two more weeks of <a href="https://9to5toys.com/2024/08/01/dont-let-hurricane-outages-take-you-down-with-ecoflow-power-stations-bundles-more-from-219-up-to-2799-off/">EcoFlow power station discounts</a>!</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="374160" href="https://electrek.co/2024/08/01/rad-e-bike-school-sale-worx-mower-jackery-more/#more-374160" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/01/rad-e-bike-school-sale-worx-mower-jackery-more/>
+
+---
+
+## These Are The Features New Car Buyers Want Most
+
+date: 2024-08-01, from: Inside EVs News
+
+AutoPacific surveyed more than 14,000 drivers on what features they want most. Wireless charging and driver profiles top the list. 
+
+<https://insideevs.com/news/728740/new-wireless-charging-driver-survey/>
+
+---
+
+## BYD sold a record 342K NEVs in July, but EV sales slipped
+
+date: 2024-08-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/BYD-July-EV-sales.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD set a new sales record last month with over 342,000 new energy vehicles (NEVs) sold. Although <a href="https://electrek.co/guides/byd/">BYD’s</a> EV sales fell slightly in July, PHEVs continued building momentum after setting a new record for the fifth straight month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="374129" href="https://electrek.co/2024/08/01/byd-sold-record-342k-nevs-july-but-ev-sales-slipped/#more-374129" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/01/byd-sold-record-342k-nevs-july-but-ev-sales-slipped/>
+
+---
+
+## Meet Toyota's Big New Electric Van. It's Not What You Think
+
+date: 2024-08-01, from: Inside EVs News
+
+The all-new Proace Max is Toyota’s first electric heavy-duty van. It’s also a textbook case of badge engineering. 
+
+<https://insideevs.com/news/728700/toyota-proace-max-ev/>
+
+---
+
+## Hertz accelerates sales of Tesla vehicles as value crumbles
+
+date: 2024-08-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-uber-hertz.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Hertz is accelerating its sales of Tesla vehicles and plans to sell tens of thousand more this year as their value crumbles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="374133" href="https://electrek.co/2024/08/01/hertz-accelerates-sales-of-tesla-vehicles-as-value-crumbles/#more-374133" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/01/hertz-accelerates-sales-of-tesla-vehicles-as-value-crumbles/>
+
+---
+
+## Why An Electric Lotus Elise Successor Might Be Off The Table For Now
+
+date: 2024-08-01, from: Inside EVs News
+
+Lotus was looking to launch the Elise’s EV successor in 2027, but it may be pushed back if it can't live up to the "archetype."  
+
+<https://insideevs.com/news/728712/lotus-elise-electric-successor-postponed/>
+
+---
+
+## Nissan and Honda unite to join global software-defined EV race, play catch up with Tesla
+
+date: 2024-08-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Nissan-Honda-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/nissan/">Nissan</a> and Honda building a software-defined EV? The Japanese automakers revealed a new partnership Thursday as they look to keep pace with Tesla and others leading the SDV movement.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda,nissan" data-layer-viewtype="unknown" data-post-id="374113" href="https://electrek.co/2024/08/01/nissan-honda-unite-join-software-ev-race-catch-up-tesla/#more-374113" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/01/nissan-honda-unite-join-software-ev-race-catch-up-tesla/>
+
+---
+
+## Tesla Full Self-Driving data makes Elon Musk lower expectations
 
 date: 2024-08-01, from: Electrek Feed
 

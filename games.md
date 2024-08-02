@@ -1,11 +1,111 @@
 ---
 title: games 2024.31
-updated: 2024-08-01 08:26:03
+updated: 2024-08-02 08:37:49
 ---
 
 # games 2024.31
 
-(date: 2024-08-01 08:26:03)
+(date: 2024-08-02 08:37:49)
+
+---
+
+## Here’s why MrBeast is at the center of a whole new firestorm
+
+date: 2024-08-02, updated: 2024-08-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24211562/mrbeast-recent-controversies-ava-kris-tyson-fraud-video-beast-games>
+
+---
+
+## Yakuza producer says he wants more than just Kiryu as a guest character in fighting games
+
+date: 2024-08-02, updated: 2024-08-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24211470/yakuza-producer-kiryu-guest-character-tekken-street-fighter>
+
+---
+
+## The 33 best movies on Netflix right now
+
+date: 2024-08-02, updated: 2024-08-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## The Rebel Moon director’s cut proves it’s franchise-worthy
+
+date: 2024-08-02, updated: 2024-08-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24211439/netflix-rebel-moon-zack-snyder-cut-different-review>
+
+---
+
+## The new D&D Player’s Handbook makes the old one feel like a dictionary
+
+date: 2024-08-02, updated: 2024-08-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24210741/dnd-players-handbook-2024-phb-impressions>
+
+---
+
+## Harry Potter: Quidditch Champions’ first gameplay shows off multiplayer, character creator
+
+date: 2024-08-01, updated: 2024-08-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24209907/harry-potter-quidditch-video-game-release-date-ps-plus>
+
+---
+
+## Olympic gymnast Casimir Schmidt has a Mew tattoo — but that’s not his favorite Pokémon
+
+date: 2024-08-01, updated: 2024-08-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24211259/olympic-gymnastic-casimir-schmidt-gaming-pokemon-nintendo-tattoo>
+
+---
+
+## Alien: The Role-Playing Game Second Edition hits Kickstarter
+
+date: 2024-08-01, updated: 2024-08-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24211249/alien-ttrpg-second-edition-kickstarter-campaign>
+
+---
+
+## When Deadpool says he wants to matter, he means he wants to be canon
+
+date: 2024-08-01, updated: 2024-08-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24210563/deadpool-mcu-canon-multiverse-fox>
+
+---
+
+## I played Elden Ring wrong for two years
+
+date: 2024-08-01, updated: 2024-08-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24211369/playing-elden-ring-wrong>
 
 ---
 

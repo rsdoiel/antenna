@@ -1,11 +1,135 @@
 ---
 title: central coast 2024.31
-updated: 2024-08-01 08:25:59
+updated: 2024-08-02 08:37:45
 ---
 
 # central coast 2024.31
 
-(date: 2024-08-01 08:25:59)
+(date: 2024-08-02 08:37:45)
+
+---
+
+## Bill Macfadyen: Landlord Fights Back Over Santa Barbara Eviction Criminal Charges
+
+date: 2024-08-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-072924-Bath-Street-Controversy-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="This Santa Barbara apartment building is at the center of a controversy over Santa Barbara’s controversial “just-cause” eviction ordinance." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-072924-Bath-Street-Controversy-1-JM.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-072924-Bath-Street-Controversy-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-072924-Bath-Street-Controversy-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-072924-Bath-Street-Controversy-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-072924-Bath-Street-Controversy-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-072924-Bath-Street-Controversy-1-JM.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-072924-Bath-Street-Controversy-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-072924-Bath-Street-Controversy-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-072924-Bath-Street-Controversy-1-JM.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-072924-Bath-Street-Controversy-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-072924-Bath-Street-Controversy-1-JM.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-072924-Bath-Street-Controversy-1-JM.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-072924-Bath-Street-Controversy-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>From Dr. William Sansum, a pioneering diabetes researcher, to Yulan Wang, the father of modern robotic surgery, Santa Barbara has been blessed with some giants in the field of health [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bill-macfadyen-landlord-fights-back-over-santa-barbara-eviction-criminal-charges/">Bill Macfadyen: Landlord Fights Back Over Santa Barbara Eviction Criminal Charges</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bill-macfadyen-landlord-fights-back-over-santa-barbara-eviction-criminal-charges/>
+
+---
+
+## Morning Run at Haskell’s Beach
+
+date: 2024-08-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Michael-Diamant.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Morning run at Haskell’s Beach in Goleta." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Michael-Diamant.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Michael-Diamant.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Michael-Diamant.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Michael-Diamant.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Michael-Diamant.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Michael-Diamant.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Michael-Diamant.jpg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Michael-Diamant.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Michael-Diamant.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Michael-Diamant.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Michael-Diamant.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Michael-Diamant.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062924-POD-Michael-Diamant.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/morning-run-at-haskells-beach/">Morning Run at Haskell’s Beach</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/morning-run-at-haskells-beach/>
+
+---
+
+## BizHawk: After 42 Years, Mendez Family Still On a Roll Selling Confetti-Filled Eggs During Fiesta
+
+date: 2024-08-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-BizHawk-Adelaida-Mendez-Jennifer-Martinez-Henry-Mendez-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Adelaida Mendez, left, Jennifer Martinez and Henry Mendez sell cascarone, which are confetti-filled eggs with elaborate and colorful designs, along State Street d" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-BizHawk-Adelaida-Mendez-Jennifer-Martinez-Henry-Mendez-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-BizHawk-Adelaida-Mendez-Jennifer-Martinez-Henry-Mendez-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-BizHawk-Adelaida-Mendez-Jennifer-Martinez-Henry-Mendez-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-BizHawk-Adelaida-Mendez-Jennifer-Martinez-Henry-Mendez-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-BizHawk-Adelaida-Mendez-Jennifer-Martinez-Henry-Mendez-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-BizHawk-Adelaida-Mendez-Jennifer-Martinez-Henry-Mendez-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-BizHawk-Adelaida-Mendez-Jennifer-Martinez-Henry-Mendez-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-BizHawk-Adelaida-Mendez-Jennifer-Martinez-Henry-Mendez-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-BizHawk-Adelaida-Mendez-Jennifer-Martinez-Henry-Mendez-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-BizHawk-Adelaida-Mendez-Jennifer-Martinez-Henry-Mendez-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>She&#8217;s 86. And there&#8217;s no stopping her. For the past 42 years, Adelaida Mendez has sold cascarone — confetti-filled eggs — along State Street during Santa Barbara&#8217;s Old Spanish Days [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-after-42-years-mendez-family-still-on-a-roll-selling-confetti-filled-eggs-during-fiesta/">BizHawk: After 42 Years, Mendez Family Still On a Roll Selling Confetti-Filled Eggs During Fiesta</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bizhawk-after-42-years-mendez-family-still-on-a-roll-selling-confetti-filled-eggs-during-fiesta/>
+
+---
+
+## Foresters Fall in Quarterfinals at NBC World Series
+
+date: 2024-08-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara Foresters’ run at an 11th National Baseball Congress World Series title came to an end Thursday as they were beaten by the Hutchinson (Kan.) Monarchs, 3-2, in [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/foresters-fall-in-quarterfinals-at-nbc-world-series/">Foresters Fall in Quarterfinals at NBC World Series</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/foresters-fall-in-quarterfinals-at-nbc-world-series/>
+
+---
+
+## County Commission Denies Appeals Against Cannabis Processing at Buellton Farm
+
+date: 2024-08-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-Planning-Commission-DG-01.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The Santa Barbara County Planning Commission on Wednesday takes up an appeal for Sierra Botanicals, a Buellton cannabis farm." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-Planning-Commission-DG-01.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-Planning-Commission-DG-01.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-Planning-Commission-DG-01.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-Planning-Commission-DG-01.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-Planning-Commission-DG-01.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-Planning-Commission-DG-01.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-Planning-Commission-DG-01.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-Planning-Commission-DG-01.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-Planning-Commission-DG-01.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-Planning-Commission-DG-01.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Santa Barbara County Planning Commission approved a Buellton-area cannabis farm&#8217;s plans to process its crop on its property, despite resistance from its neighbors. On Wednesday, the commission voted 4-0 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/county-planning-commission-denies-appeals-against-cannabis-processing-at-buellton-farm/">County Commission Denies Appeals Against Cannabis Processing at Buellton Farm</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/county-planning-commission-denies-appeals-against-cannabis-processing-at-buellton-farm/>
+
+---
+
+## Teen Trails Hiking Series Gets Kids Into the Great Outdoors
+
+date: 2024-08-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Teen Trails hiking program is returning this fall and the Santa Maria Recreation and Parks Department invites youth ages 12-18, who are in grades seven through 12, to register [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/teen-trails-hiking-series-gets-kids-into-the-great-outdoors/">Teen Trails Hiking Series Gets Kids Into the Great Outdoors</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/teen-trails-hiking-series-gets-kids-into-the-great-outdoors/>
+
+---
+
+## Chance of Thunderstorms, Dry Lightning in Santa Barbara County
+
+date: 2024-08-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="900" height="506" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-nws-thunderstorm.jpg?fit=900%2C506&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-nws-thunderstorm.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-nws-thunderstorm.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-nws-thunderstorm.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-nws-thunderstorm.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-nws-thunderstorm.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080124-nws-thunderstorm.jpg?fit=900%2C506&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>There’s a chance of thunderstorms and dry lightning in Santa Barbara County Thursday and Friday, increasing the risk of wildfires, the National Weather Service said. The agency issued a Red [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/chance-of-thunderstorms-dry-lightning-in-santa-barbara-county/">Chance of Thunderstorms, Dry Lightning in Santa Barbara County</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/chance-of-thunderstorms-dry-lightning-in-santa-barbara-county/>
+
+---
+
+## Not a Techie? Book a Tech Help Session at Santa Maria Public Library
+
+date: 2024-08-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The city of Santa Maria Public Library will offer several one-on-one Tech Help sessions in August. Each appointment provides 25-minutes for instruction on topics such as setting up new devices, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/not-a-techie-book-a-tech-help-session-at-santa-maria-public-library/">Not a Techie? Book a Tech Help Session at Santa Maria Public Library</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/not-a-techie-book-a-tech-help-session-at-santa-maria-public-library/>
+
+---
+
+## Brass Factory Playing at Santa Maria Concerts in the Park Series
+
+date: 2024-08-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Maria Recreation and Parks Department and People for Leisure and Youth, Inc. (PLAY) will host the performance of the Brass Factory at the Concerts in the Park Series, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/brass-factory-playing-at-santa-maria-concerts-in-the-park-series/">Brass Factory Playing at Santa Maria Concerts in the Park Series</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/brass-factory-playing-at-santa-maria-concerts-in-the-park-series/>
+
+---
+
+## Sansum Diabetes Research Institute Seeks Children for Clinical Trials
+
+date: 2024-08-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Sansum Diabetes Research Institute (SDRI) is actively recruiting children and adolescent participants for pediatric clinical trials. With a commitment to advancing diabetes care, SDRI invites children, ages 2 to 18, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/sansum-diabetes-research-institute-seeks-children-for-clinical-trials/">Sansum Diabetes Research Institute Seeks Children for Clinical Trials</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sansum-diabetes-research-institute-seeks-children-for-clinical-trials/>
 
 ---
 

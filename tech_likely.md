@@ -1,11 +1,513 @@
 ---
 title: tech likely 2024.31
-updated: 2024-08-01 08:26:00
+updated: 2024-08-02 08:37:47
 ---
 
 # tech likely 2024.31
 
-(date: 2024-08-01 08:26:00)
+(date: 2024-08-02 08:37:47)
+
+---
+
+## NASA Invites Media, Public to Attend Deep Space Food Challenge Finale
+
+date: 2024-08-02, from: NASA breaking news
+
+NASA invites the media and public to explore the nexus of space and food innovation at the agency’s Deep Space Food Challenge symposium and winners’ announcement at the Nationwide and Ohio Farm Bureau 4-H Center in Columbus, Ohio, on Friday, Aug. 16.&#160; In 2019, NASA and the CSA (Canadian Space Agency) started the&#160;Deep Space Food [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-public-to-attend-deep-space-food-challenge-finale/>
+
+---
+
+## What Is Analog Computing?
+
+date: 2024-08-02, from: Quanta Magazine
+
+You don’t need 0s and 1s to perform computations, and in some cases it’s better to avoid them.            <p>The post <a href="https://www.quantamagazine.org/what-is-analog-computing-20240802/" target="_blank">What Is Analog Computing?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/what-is-analog-computing-20240802/>
+
+---
+
+## NASA Scientists on Why We Might Not Spot Solar Panel Technosignatures
+
+date: 2024-08-02, from: NASA breaking news
+
+One of NASA’s key priorities is understanding the potential for life elsewhere in the universe. NASA has not found any credible evidence of extraterrestrial life — but NASA is exploring the solar system and beyond to help us answer fundamental questions, including whether we are alone in the universe. For those who study the potential […] 
+
+<https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-scientists-on-why-we-might-not-spot-solar-panel-technosignatures/>
+
+---
+
+## Systems Engineer Douglas Wong
+
+date: 2024-08-02, from: NASA breaking news
+
+“When I was around 16 or 17, I came across this book by Arthur C. Clarke called Space Odyssey 2001. That was actually the first science fiction book that I&#8217;ve ever read. I was just so captured by what he had written because the things that he wrote about weren’t [happening] in the far-off future, [&#8230;] 
+
+<https://www.nasa.gov/image-article/systems-engineer-douglas-wong/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-08-02, from: Miguel de Icaza Mastondon feed)
+
+<p>I am not a very knowledgeable C++ programmer, but this introduction to Swift for C++ programmers both covers a lot of ground I had not seen before, and explains things succinctly that I had not grasped before.</p><p>I am jealous of how well written it is, how effectively it communicates these concepts.   </p><p>Wish I could write like this:</p><p><a href="https://www.douggregor.net/tags/swift/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="">douggregor.net/tags/swift/</span><span class="invisible"></span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112892838248797115>
+
+---
+
+## oberon@gitlab.inf.ethz.ch pushed to project branch main at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-08-02, updated: 2024-08-02, from: Oberon A2 at CAS
+
+
+<p>
+<strong>oberon@gitlab.inf.ethz.ch</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/fc3421e93d21bea49e14b912a34c4c7dc6454b33">(fc3421e9)</a>
+<i>
+at
+02 Aug 15:32
+</i>
+</p>
+<div class="blockquote"><p dir="auto">limit SYSTEM.VAL conversion to types with compatible size;</p></div>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/fc3421e93d21bea49e14b912a34c4c7dc6454b33>
+
+---
+
+## Technology history: where Unix came from
+
+date: 2024-08-02, from: OS News
+
+Today, every Unix-like system can trace their ancestry back to the original Unix. That includes Linux, which uses the GNU tools – and the GNU tools are based on the Unix tools. Linux in 2024 is removed from the original Unix design, and for good reason – Linux supports architectures and tools not dreamt of during the original Unix era. But the core command line experience in Linux is still very similar to the Unix command line of the 1970s. The next time you use ls to list the files in a directory, remember that you’re using a command line that’s been with us for more than fifty years. ↫ Jim Hall An excellent overview of some of the more ancient UNIX commands that are still with us today. One thing I always appreciate when I dive into an operating system closer to &#8220;real&#8221; UNIX, like OpenBSD, or a actual UNIX, like HP-UX, is just how much more logical sense they make under the hood than a Linux system does. This is not a dunk on modern Linux &#8211; it has to cater to endless more modern needs than something ancient and dead like HP-UX &#8211; but what I learn while using these systems closer to the UNIX has made me appreciate proper UNIX more than I used to in the past. In what surely sounds like utter lunacy to system administrators who actually had to seriously administer HP-UX systems back in the day, I genuinely love using HP-UX, setting it up, configuring it, messing around with it, because it just makes so much more logical sense than the systems we use today. The knowledge gained from using BSD, HP-UX, and others, while not always directly applicable to Linux, does aid me in understanding certain Linux things better than I did before. What I&#8217;m trying to say is &#8211; go and load up an old UNIX, or at least a modern BSD. Aside from being great operating systems in their own right, they&#8217;re much easier to grasp than a modern Linux system, and you&#8217;ll learn a lot form the experience. 
+
+<https://www.osnews.com/story/140392/technology-history-where-unix-came-from/>
+
+---
+
+## Sorry, George
+
+date: 2024-08-02, updated: 2024-08-02, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/08/02/sorry-george/>
+
+---
+
+## oberon@gitlab.inf.ethz.ch pushed to project branch main at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-08-02, updated: 2024-08-02, from: Oberon A2 at CAS
+
+
+<p>
+<strong>oberon@gitlab.inf.ethz.ch</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/4893ba188cc29ec48da783ca98321237d68ab50c">(4893ba18)</a>
+<i>
+at
+02 Aug 14:22
+</i>
+</p>
+<div class="blockquote"><p dir="auto">made MathArray execution test compilable again</p></div>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/4893ba188cc29ec48da783ca98321237d68ab50c>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-02, from: Dave Winer's Scripting News)
+
+I was trying to find Tony Kahn on the web for a friend doing a documentary on the origins of podcasting, and came up empty. I just stumbled across him on Facebook and that led to <a href="https://www.tonykahn.org/home">this autobiographical site</a> where he tells his story of podcasting. Tony was the person who brought NPR into podcasting in 2004. A major contributor who isn't often credited. He was at WGBH at the time. 
+
+<http://scripting.com/2024/08/02.html#a122204>
+
+---
+
+## Hubble Spies a Diminutive Galaxy
+
+date: 2024-08-02, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image reveals the subtle glow of the galaxy named IC 3430, located 45 million light-years from Earth in the constellation Virgo. This dwarf elliptical galaxy is part of the Virgo cluster, a rich collection of galaxies both large and small, many of which are very similar in type to this […] 
+
+<https://science.nasa.gov/missions/hubble/hubble-spies-a-diminutive-galaxy/>
+
+---
+
+## P&B: Anne Sturdivant
+
+date: 2024-08-02, from: Manu - I write blog
+
+
+                <p>This is the 49th edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Anne Sturdivant and her blog, <a href="https://weblog.anniegreens.lol">weblog.anniegreens.lol</a></p>
+<p>To follow this series <a href="https://peopleandblogs.com">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<p>If you're enjoying the People and Blogs series and you want to see it grow, consider supporting on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a>.</p>
+<hr />
+<h2>Let's start from the basics: can you introduce yourself?</h2>
+<p>Hello! My name is Anne Sturdivant, you will often find me online as "Apple Annie" or using the handle <code>anniegreens</code>. I give a little background on these names on my weblog: <a href="https://weblog.anniegreens.lol/2023/01/origins-of-a-nickname">Origins of a nickname</a>. I am originally from Washington state in the US but have lived in Portland, OR, for about 20 years.</p>
+<p>I moved to Portland to attend college (for the second time) and studied web design and interactive media, for which I received a BS. I continued on that course for my career for the last 16 years, working mainly on the front-end with Drupal, design systems, and structured content. I recently have been on a hiatus from full-time work due to health (and other) factors. I am still active in the front-end and web design spaces, also more recently jumping back into "work" on a personal level.</p>
+<p>Hobbies are hard to define since so many things I enjoy doing and could categorize as hobbies are just a core part of me. I am a gardener but calling that a hobby feels like an understatement. My entire yard is a garden and I put every single plant in the ground. I post many photos and write a bit about it more on my <a href="https://micro.anniegreens.lol">microblog</a> than my weblog. I also travel to gardens in the Pacific Northwest and take photos and write about it in a newsletter that has been on hold for a while. I do plan on resuming this newsletter at some point, platform to be determined.</p>
+<p>I also watch a fair amount of movies and television, mostly on streaming services, though I don't write about that much. I love listening to podcasts and find myself gravitating towards the weird and unusual, tech-related and front-end, US political news (though not what you might think, I really only listen to serious lawyers that don't get into hyperbolic punditry), and health-related and local subjects.</p>
+<p>I read but am not a dedicated book reader, I find myself more drawn to blogs and the interlinking nature of the web. I do usually start this path in my RSS reader but very often a trail starts on Mastodon due to a post someone shares. I enjoy photography and hiking and visiting natural areas in the Pacific Northwest, also featured in my newsletter, but do less of that now (except photos of my garden) due to current health limitations.</p>
+<p>I suppose you could call tinkering with front-end development a hobby as well, since nowadays I'm doing that for personal pleasure and growth, even if I am trained to do that as a career as well. I find this to be a creative outlet as much as other creative endeavors, including gardening, and I've written in the past about how I find both gardening and front-end development to share some of the same parts of my brain.</p>
+<p>Finally, this "hobby" should lead us right into the next question: blogging!</p>
+<h2>What's the story behind your blog?</h2>
+<p>I have several blogs, it might be an addiction. I've written pretty extensively about my weblog, which I consider my main blog, and how it came to be. Part of my hiatus and worsening health issues were due to work-induced burnout and I spent several years away from the web, unsure I'd ever return. In 2022 I started to have the desire to once again do <em>something</em> on the web, though I was unsure what that would look like. I had a blog in college but long abandoned it, though it still sits on the same domain my old portfolio site sits on, locked behind a login.</p>
+<p>After coming to Mastodon, I discovered an instance that was part of a paid suite of tools, <a href="https://home.omg.lol/referred-by/anniegreens">omg.lol</a>, and signed up after finding the Local timeline to be quite enjoyable (it's now my main instance). What I didn't realize was that the rest of the tools would become just as important to me. I first created a "link page" that now acts as my global profile, then a /now page, and a weblog, and a statuslog, and soon had also signed up for Micro.blog. I now have nine blogs, seven of them active, spread across omg.lol and Micro.blog.</p>
+<p>As I said, the <a href="https://weblog.anniegreens.lol">weblog</a> is my main blog and started as a way to get back into doing front-end development again and to write about it and the process of customizing the blog. I really started it for myself, to work my way out of burnout, as a means of therapy. I now post mostly longer form, often technical, posts about front-end development and web design, the indieweb, blogging, the internet, as well as some more personal pieces, and still the process of working on the blog.</p>
+<p>I'd then consider my <a href="https://micro.anniegreens.lol">microblog</a> a close second to the weblog. I post more short form content there, photo-blogging, bookmarks, gardening, chronic illness, as well as some politics and technology. I sometimes cross-post to one of my four Mastodon accounts.</p>
+<p>My other blogs are more projects than traditional blogs. I have a trio of blogs that serve as one project for <a href="https://weblog.lol">weblog.lol</a>: <a href="https://themes.lol">Themes</a>, <a href="https://styles.themes.lol">Styles</a>, and <a href="https://custom.themes.lol">Custom</a>, which I use exclusively for weblog.lol styles and customizations to create themes. This work is on hold right now as weblog.lol's backend will be seeing some overhaul over the next few months and I'll need to reflect that there.</p>
+<p><a href="https://3x5.pics">3x5.pics</a> is a fun project that I loved designing. I'm currently authoring all the messages on the notecards myself but I would like to open it up to submissions one day. Right now I'm working on the <a href="https://100daystooffload.com/">100 Days to Offload</a> challenge on a dedicated blog called <a href="https://100daysof.blog">100 Days of Blog</a>. Another microblog I haven't started yet, other than to obtain a domain and have a direction for it, will be for testing and modernizing a trove of old recipes I inherited from my grandmother. It is called Table for One Cafe. Finally, I have a sixth weblog.lol blog that I'm working to make a place for front-end experiments that I can include with blog posts on my main weblog. This is code named Tiny Pages.</p>
+<h2>What does your creative process look like when it comes to blogging?</h2>
+<p>For posts on my weblog, they are usually about something I worked on or a process/knowledge piece to share. For this type of post I put in a fair amount of research on a subject, create an outline, prepare assets or code samples, and citations and footnotes. These very often are about working on one of my blogs, adding a new feature, updating and improving something technical, or learning a modern and new piece of functionality within front-end development.</p>
+<p>Personal pieces are far more spontaneous and may reflect how I am feeling or a struggle I am dealing with. Other posts are reactions to blog posts, articles, podcasts, and movies or television shows. I also try to post a near-daily featured photo on my microblog. Sometimes these are curated ahead of time, where I'll plan out a week of photos, but often they are a picture that the Apple Photos.app is featuring that day. I thought about the kinds of blogs posts once and <a href="https://weblog.anniegreens.lol/2023/11/types-of-blog-posts">wrote something about it</a>, I'm not sure I've hit all of them yet!</p>
+<p>I had many requests from the omg.lol community about what my weblog workflow was so I published a piece aptly titled <a href="https://weblog.anniegreens.lol/2024/04/weblog-publishing-workflow"><em>Weblog Publishing Workflow</em></a>. In it I describe the tools I use, including <a href="https://getdrafts.com/">Drafts</a>, which I am writing these answers in right now. As far as how many drafts I write, I really can't tell you. The way Drafts works I never see a "draft" version, I'm just constantly reading and rewriting or reorganizing sections. One of the nice part of Drafts is being able to set up preview templates that look exactly like the front-end of your blog, using all the same assets, which I have stored on a CDN. When I read a piece for editing, I read it in that preview as it gives me the best feeling of how something will be seen once published on my weblog.</p>
+<p>As for proof reading or asking for help in reviewing what I blog about, I haven't yet started to do that, but the idea has been in my mind for a while. I know I make mistakes and I will often find at least a couple after publishing, but I am not too worried about that. I'm fine airing my bumps and bruises. I would, however, appreciate a review on more technical pieces that I write in the future and may start looking for someone I trust to do that or that is willing to offer their time.</p>
+<h2>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</h2>
+<p>I usually write in the morning or later at night, often with a cup of coffee or tea, nestled into my large chair with ottoman in my living room. I have a proper (and rather nice) office and I worked from home for many years at my last job, but I've since moved away from that strict feeling space for blogging or creative endeavors, unless I need an external monitor for something large or complicated that I want to see in a code editor or graphics program.</p>
+<p>One thing that definitely influences my ability to write is sound. I don't necessarily mean I need to listen to music to be creative or to write, but if there is sound it cannot be dialogue or lyrics with music. For this reason I primarily listen to two highly curated Pandora stations I created many years ago. I also listen to them while working on design or technical projects, though often I prefer no sound at all.</p>
+<p>If I'm already in the flow of something, either writing or working on a site or design, I will often listen to music, but also from one of those Pandora stations. I've been listening to them for so long, they are like a comfortable friend and may therefore help me feel at ease. I know creative spaces are important.</p>
+<p>When I moved to Portland to attend an art college, I lived in a very inspiring neighborhood near my school and felt like a creative's dream every time I stepped onto the sidewalk. Now when I am stuck on something I find that just stepping out my back door into my garden is enough of an escape that when I return I can get past that block. In 2019 when I was at the worst of my burnout I planted a pollinator garden in my raised vegetable beds and could spend hours out there gazing at the flowers and wildlife. It was therapeutic, got the creative juices flowing, and a means to make the day pass.</p>
+<h2>A question for the techie readers: can you run us through your tech stack?</h2>
+<p>I assume most people answering these questions may run across the same thing as myself: I have written about this on my blog before. My weblog <a href="https://weblog.anniegreens.lol/colophon">Colophon</a> details much of this. The weblog is using <a href="https://weblog.lol">weblog.lol</a>, a small blogging platform that comes with an <a href="https://home.omg.lol/referred-by/anniegreens">omg.lol</a> address. There is a lightweight templating system that allows passing of variables with front-matter and config and authoring in Markdown and HTML, or a combination of the two. </p>
+<p>All static assets are stored on my <a href="https://bunny.net/cdn/">CDN at Bunny.net</a>, the domain is registered at and DNS is currently managed by <a href="https://porkbun.com/">Porkbun</a> but I may moved to Bunny.net for DNS as well, which would serve weblog as a static site. Email for my domain is handled by <a href="https://www.fastmail.com/">Fastmail</a>. I have just recently added a contact form using <a href="https://letterbird.co/">Letterbird</a>. Analytics are using <a href="https://tinylytics.app/">Tinylytics</a> for the time being, though I am investigating self-hosting Umami for analytics with PikaPods.</p>
+<p>The theme is entirely custom CSS and HTML with limited Javascript for theme switching and some web components. I mention in my workflow post that I desired to use a platform and workflow that didn't require a lot of maintenance overhead, such as updating modules, dependencies, and debugging build systems. I wanted the platform to get out of the way so I could work on the parts I want to work on and write about it. I love that there are so many diverse ways to blog right now, so many different options for complexity based on what people want to do or can do. And opportunities to do more when they want to and move to another platform as they need more features. There is no wrong way to blog and the best way is the way that makes it easiest for you.</p>
+<p>My microblog is hosted on <a href="https://micro.blog">Micro.blog</a> and uses a community contributed theme called Tiny Theme as a base with custom CSS, some Javascript for web components, and template overrides to complement the look and feel of my weblog's theme. My other projects/blogs are also on one of these platforms: Themes, Styles, and Custom use weblog.lol; 3x5.pics and Tiny Pages use weblog.lol; and both 100 Days of Blog and Table for One Cafe are on Micro.blog.</p>
+<h2>Given your experience, if you were to start a blog today, would you do anything differently?</h2>
+<p>If I started over today, I'd be in a different head space and I like to think I would have "branched out" more and relied on my web development experience to build something more custom using 11ty or another static site generator. I have more experience with PHP so I might have gone in the direction of a PHP static site generator, but I appreciate and stay updated with what is happening with 11ty enough that I think I will end up using that some day.</p>
+<p>Weblog.lol has some limitations and though I have gotten very far with truly making it my own, I started the blog in January 2023,  I've only just started hitting walls that I am unable to get past due to the platform's limitations. The next version of weblog will run on a new backend called Neato and I am willing to wait until that is ready to try out before making any moves to another platform.</p>
+<p>I think it more likely I leave Micro.blog before I leave weblog.lol (or <a href="https://home.omg.lol/referred-by/anniegreens">omg.lol</a>). The original needs I had when I joined Micro.blog have either ended up being something I decided I didn't need (Fediverse integration), or I've found alternatives to some of its functionality (cross-posting), and the remaining piece I've yet to get set up, a newsletter, I already have options, such as Buttondown or Ghost, that I could use.</p>
+<p>I am still very pleased with the structure of my weblog. I believe starting with a Styleguide up front helped me to keep styling consistent by structuring the content and front-matter properly from fairly early on. The only structure that I find lacking is, again, due to the platform's limitations. Having come from more than a decade of working on Drupal platforms, I can see gaps in functionality that other platforms might give me the flexibility to fill.</p>
+<p>As for the name of my weblog, I'm glad this was brought up in the suggestions—I <em>love</em> when a blog has a name! I curate a blogroll by "spinning" it with nine new blogs at a time at no particular regularity. In the process of doing so I come across the "name" of each blog by peaking at the HTML <code>&lt;head&gt;</code> and I am always delighted to find when someone takes the time or creative effort to put a little gem in there that you may not otherwise know about. I wrote a <a href="https://weblog.anniegreens.lol/2024/03/give-your-blog-a-name">blog post</a> about this once and I still think the blog I name in that post is still my favorite name. As for my blog's name(s), well, I have so many of them, I'm getting to scratch that naming itch!</p>
+<h2>Financial question since the Web is obsessed with money: how much does it cost to run your blog? Is it just a cost, or does it generate some revenue? And what's your position on people monetising personal blogs?</h2>
+<p>Since I have so many blogs I'm going to break this into each platform's costs along with additional costs for related services.</p>
+<h3>Weblog, 3x5.pics, Themes/Styles/Custom, Tiny Pages</h3>
+<p>All six of these blogs are omg.lol addresses. A one year subscription for all the tools and goodies <a href="https://home.omg.lol/referred-by/anniegreens">omg.lol</a> offers is $20USD. Sometimes there are deals (very often, multiple times a year) and you can also gain banks of time through referrals. So although, the cost of these would normally be $120USD per year combined, I don't actually pay that much right now. I have also bought banks of time during promotional deals, so that helps as well. Each of these addresses comes with multiple tools and web presences that are infinitely configurable, so you gain quite a lot for a fairly low price. On top of that it is a lovely welcoming community run by a really nice guy, and I'm not just saying that.</p>
+<h3>Microblog, 100 Days of Blog, Table for One Cafe</h3>
+<p>A Micro.blog premium membership gets you up to five blogs plus a whole other host of goodies, such as podcasting, newsletter functionality, Fediverse integration, cross-posting, bookmarking, and more. The cost of the premium memership is $10USD per month. A non-premium membership with just one blog, plus cross-posting, and a few other goodies, is $5USD per month.</p>
+<h3>Related Services</h3>
+<ul>
+<li><a href="https://porkbun.com">Porkbun</a> handles all five of my domains. I got a deal on most of them for the first year. If all five of them were to renew at the same time at the estimated costs it would be roughly $115USD for another year.</li>
+<li><a href="https://tinylytics.app">Tinylytics</a> is currently the lightweight analytics I use. There is a free tier, a monthly tier, and a yearly tier. I am currently on the yearly plan and paying $50USD per year. I am looking into moving to self-hosting Umami through PikaPods and that would be slightly more.</li>
+<li><a href="https://bunny.net/cdn">Bunny.net CDN</a> is a pay-as-you-go service, so I don't have exact figures to give, but I can try to estimate. I serve all my domain's static assets, except for the Micro.blog sites which have their own storage. For March 2023 through June 2024 I paid $60-70 for the CDN + optimization on one of the storage zones, so that is less than $10USD per month at my current rate of traffic, which does vary from month-to-month.</li>
+<li><a href="https://echofeed.app">EchoFeed</a> Pro (Prami's Version) is an ad hoc cross-posting service. There is a free plan that allows for one feed. The Pro plan gives you unlimited feeds and the "Prami's Version" is a small discount for omg.lol members. The creator of this service is an omg.lol member. I pay $20USD per year.</li>
+<li><a href="https://letterbird.co">Letterbird</a> Pro is a contact form with customizations. The free plan has less options and no CSS customizations. I pay $10USD per month for the Pro plan. I am using it on two of my sites.</li>
+<li><a href="https://flickr.com">Flickr</a> Pro is listed here because I do use Flickr hosted images quite often on my main Microblog due to the image quality and automatic resizing available, which I use to craft responsive images in some posts. Flickr Pro is $72.99USD per year with unlimited storage and full resolution.</li>
+</ul>
+<p>On the subject of monetization, I don't think I have any issue with it. I don't enjoy ads, but I don't mind unobtrusive methods of helping to support independent creators. I have a Buy me a coffee button on my blog at the bottom of every page. It rarely gets used, though I wouldn't mind it got used more (obviously 😆) to help support the cost of my infrastructure.</p>
+<p>I think if you find value in something someone creates there is no shame in giving them some money to show appreciation and encourage them to keep it up. Many people have stressful jobs and the creative output they get via writing or doing other art and coding on their blogs may be payment enough, but they still absolutely appreciate when someone shows support monetarily. I try to give when I can, especially if I find myself going back to a person over and over for things they create to give away or for writing that has helped me.</p>
+<h2>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</h2>
+<p>This feels just as loaded as creating a blogroll! Which I took a different route in that I cannot and will not just choose a handful of people, especially since we all tend to get caught up in silos and add people that look and sound like us. My blogroll is an ever changing list that I "spin" with nine new blogs at a time when I've collected enough blogs to round out a diverse selection of bloggers and types of blogs.</p>
+<p>These three suggestions come off my blogroll, any of them would be good candidates for your next interview that I would be very interested in reading.</p>
+<ul>
+<li>Roma Komarov: <a href="https://kizu.dev/">Articles &amp; Experiments by Roman Komarov</a> and <a href="https://blog.kizu.dev/">Roma's Unpolished Posts</a></li>
+<li>Melanie Kat: <a href="https://melkat.blog/">melkat.blog</a></li>
+<li>Olu Niyi-Awosusi: <a href="https://olu.online/">Olu Online</a></li>
+</ul>
+<h2>Final question: is there anything you want to share with us?</h2>
+<p>Okay, this is admittedly a smorgasbord of links, but I think they're all great. How do you choose just a handful of what the web has to offer? For me, these are things I've thought about and looked at recently. Three of these items I submitted for a <a href="https://tinyawards.net/">Tiny Award</a>.</p>
+<ul>
+<li><a href="https://www.igalia.com/chats/">Igalia Chats</a><br />
+I really enjoy this podcast. It combines two of my most favorite front-end topics: CSS and accessibility and is co-hosted by one of the all-time most influential figures in CSS: Eric Meyer.</li>
+<li><a href="https://www.oddbird.net/talks/">Oddbird past and upcoming talks &amp; workshops</a><br />
+I'm always looking for new front-end content to watch or listen to. I was recently on a quest to find front-end podcasts and wasn't as successful as I hoped but I came across other resources. This Oddbird resource is really great, featuring upcoming and past talks &amp; workshops by the esteemed team at Oddbird, notably Miriam Suzanne.</li>
+<li><a href="https://slashpages.net/">Slash Pages</a><br />
+This is another fun project by Robb Knight. If you're just building a blog or looking for ways to add new content that isn't necessarily blog posts but still represent you and your ideas, "slash pages" are a great way to do that. I'm still on my way to achieving "slash pages totality" but I have <a href="https://weblog.anniegreens.lol/slashes">quite a selection</a> already.</li>
+<li><a href="https://reply.cards/">Reply Cards</a><br />
+A small project by Adam Newbold, creator of omg.lol. Reply cards are what they sound like: "Answer messages without having to write a personal response." Choose from the existing library of cards or create your own for a couple bucks and avoid that uncomfortable response you'd rather not have to make!</li>
+<li><a href="https://3x5.pics">3x5.pics</a><br />
+A project I recently completed but still have plans for some updates and improvements, namely accepting submissions for new entries. <a href="https://weblog.anniegreens.lol/2024/03/creating-3x5-pics">Read a little write-up on the project</a>.</li>
+<li><a href="https://buttondown.email/ericwbailey/archive/">Eric Bailey's newsletter: SC 2.4.4</a><br />
+You will find many newsletters to subscribe to but Eric's is one of my favorites. Somehow curating a diverse list of links to articles and information that always interest me. Some front-end, some web or tech, some unusual and bizarre, always relevant to our times, and often shocking and humbling.</li>
+</ul>
+<hr />
+<p>This was the 49th edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Annie. Make sure to <a href="https://weblog.anniegreens.lol">follow her blog</a> (<a href="https://weblog.anniegreens.lol/rss.xml">RSS</a>) and get in touch with her if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com">official site</a> of the newsletter.</p>
+<p><a href="https://www.thingelstad.com">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml">RSS</a>) — <a href="https://some.studio">Piet Terheyden</a> — <a href="https://minim.blog">Raul Montala</a> (<a href="http://github.com/rmontala/minim/commits.atom">RSS</a>) — Eleonora — <a href="https://carlbarenbrug.com">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss">RSS</a>) — <a href="https://tangiblelife.net">Steve Ledlow</a> (<a href="https://tangiblelife.net/feed.rss">RSS</a>) — <a href="https://www.feadin.eu">Paolo Ruggeri</a> (<a href="https://www.feadin.eu/en/posts/index.xml">RSS</a>) — <a href="https://thejollyteapot.com">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss">RSS</a>) — <a href="https://robhope.com">Rob Hope</a> — <a href="https://chrishannah.me">Chris Hannah</a> (<a href="https://chrishannah.me/index.xml">RSS</a>) — <a href="https://blog.pcora.eu">Pedro Corá</a> (<a href="https://blog.pcora.eu/feed.xml">RSS</a>) — <a href="https://colinwalker.blog/">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml">RSS</a>) — <a href="https://softlandings.world/">Sixian Lim</a> (<a href="https://www.softlandings.world/feed.rss">RSS</a>) — <a href="https://mattstein.com">Matt Stein</a> (<a href="https://mattstein.com/rss.xml">RSS</a>) — <a href="https://winnielim.org">Winnie Lim</a> (<a href="https://winnielim.org/feed/">RSS</a>) — <a href="https://flamedfury.com/">Flamed</a> (<a href="https://flamedfury.com/feed.xml/">RSS</a>) — <a href="https://skyhold.org">C Jackdaw</a> (<a href="https://jackdaw.weblog.lol/rss.xml">RSS</a>) — <a href="https://tiv.today">Kevin Humdrum</a> (<a href="https://tiv.today/feed.rss">RSS</a>) — <a href="https://www.doc.cc/">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml">RSS</a>) — <a href="https://rosalindcroad.com">Rosalind Croad</a> — <a href="https://frankmeeuwsen.com">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml">RSS</a>) — <a href="https://www.elmike.me">Mike Walsh</a> (<a href="https://www.elmike.me/feed.xml">RSS</a>) — <a href="https://www.byzero.de/">Markus Heurung</a> — <a href="https://cleverlaziness.xyz/">Juan Villela</a> (<a href="https://cleverlaziness.xyz/posts/index.xml">RSS</a>) — <a href="https://mwarrenarts.com/">Michael Warren</a> (<a href="https://mwarrenarts.com/rss">RSS</a>) — <a href="https://cagrimmett.com/">Chuck Grimmett</a> (<a href="https://cagrimmett.com/feed">RSS</a>) — <a href="https://eatweeds.co.uk">Robin Harford</a> (<a href="https://www.eatweeds.co.uk/feed/">RSS</a>) — <a href="https://bryanmanio.com/">Bryan Maniotakis</a> (<a href="https://bryanmanio.com/feed/">RSS</a>) — <a href="https://bjhess.com/">Barry Hess</a> (<a href="https://bjhess.com/posts_feed">RSS</a>) — <a href="https://ivanmoreale.com">Ivan Moreale</a> — <a href="https://islandinthenet.com">Khürt Williams</a> (<a href="https://islandinthenet.com/feed/">RSS</a>) — <a href="https://werd.io/">Ben Werdmuller</a> (<a href="https://werd.io/feed">RSS</a>) — <a href="https://corygibbons.com">Cory Gibbons</a> — <a href="https://www.lkhrs.com/">Luke Harris</a> (<a href="https://www.lkhrs.com/blog/index.xml">RSS</a>) — <a href="https://lars-christian.com/">Lars-Christian Simonsen</a> (<a href="https://lars-christian.com/feed/">RSS</a>) — <a href="https://www.codyschultz.com">Cody Schultz</a> — <a href="https://bradbarrish.com">Brad Barrish</a> (<a href="https://bradbarrish.com/feed/">RSS</a>) — <a href="https://galaiko.rocks">Nikita Galaiko</a> — Erik Blankvoort — <a href="https://jagasantagostino.com">Jaga Santagostino</a> — <a href="https://andzuck.com/">Andrew Zuckerman</a> — <a href="https://www.mattiacompagnucci.com">Mattia Compagnucci</a> (<a href="https://mattiacompagnucci.com/feed.rss">RSS</a>) — <a href="https://tdh.se/">Thord D. Hedengren</a> (<a href="https://tdh.se/feed/feed.xml">RSS</a>) — <a href="https://fabiensauser.ch">Fabien Sauser</a> (<a href="https://fabiensauser.ch/index.xml">RSS</a>) — <a href="http://dizzard.net/">Maxwell Omdal</a> — <a href="https://numericcitizen.me">Numeric Citizen</a> (<a href="https://feedpress.me/numericcitizen-feeds.xml?ref=numericcitizen.me">RSS</a>) — <a href="https://heydingus.net">Jarrod Blundy</a> (<a href="https://heydingus.net/feeds">RSS</a>) — <a href="https://gwtf.it">Andrea Contino</a> (<a href="https://gwtf.it/feed">RSS</a>) — <a href="https://sebastiandedeyne.com/">Sebastian De Deyne</a> (<a href="https://sebastiandedeyne.com/index.xml">RSS</a>) — <a href="https://koolinus.net/blog/">Nicola Losito</a> (<a href="https://koolinus.net/blog/feed/">RSS</a>) — <a href="https://amerpie.lol/">Lou Plummer</a> (<a href="https://amerpie.lol/feed.xml">RSS</a>) — <a href="https://lmika.org/">Leon Mika</a> (<a href="https://lmika.org/feed.xml">RSS</a>) — <a href="http://veronique.ink">Veronique</a> (<a href="https://veronique.ink/feed/">RSS</a>) — <a href="https://surplusjouissance.com">Neil Gorman</a> (<a href="https://www.surplusjouissance.com/rss/">RSS</a>) — <a href="https://reaper.is/">Reaper</a> (<a href="https://reaper.is/rss.xml">RSS</a>) — <a href="https://www.mattrutherford.co.uk/">Matt Rutherford</a> (<a href="https://www.mattrutherford.co.uk/rss/">RSS</a>) — <a href="https://aleemshaun.com/">Aleem Ali</a> (<a href="https://aleemshaun.com/feed">RSS</a>) — <a href="https://nikkin.dev/">Nikkin</a> (<a href="https://nikkin.dev/feed.xml">RSS</a>) — <a href="https://jeremyfelt.com/">Jeremy Felt</a> (<a href="https://jeremyfelt.com/feed">RSS</a>) — <a href="https://hansfast.net">Hans</a> (<a href="https://hansfast.net/everything.rss">RSS</a>) — <a href="https://www.markpitblado.me/">Mark Pitblado</a> (<a href="https://www.markpitblado.me/feed.xml">RSS</a>) — <a href="https://www.morelightmorelight.com/">Matt Katz</a> (<a href="https://www.morelightmorelight.com/feed">RSS</a>) — <a href="https://iljapanic.com/">Ilja Panić</a> — <a href="https://odongo.pl">Emmanuel Odongo</a> — <a href="https://kevquirk.com/">Kev Quirk</a> (<a href="https://kevquirk.com/feed">RSS</a>) — <a href="https://artlung.com/">Joe Crawford</a> (<a href="https://artlung.com/feed/">RSS</a>) — <a href="https://www.ismailsevik.com/">İsmail Şevik</a> (<a href="https://www.ismailsevik.com/feeds/posts/default?alt=rss">RSS</a>) — <a href="https://eessoo.co/">Elena Saharova</a> — <a href="https://ruk.ca/">Peter Rukavina</a> (<a href="https://ruk.ca/rss/feedburner.xml">RSS</a>) — <a href="https://jsrn.net">jsrn</a> (<a href="https://jsrn.net/feed.xml">RSS</a>) — <a href="https://therealadam.com">Adam Keys</a> (<a href="https://therealadam.com/feed.xml">RSS</a>) — <a href="https://www.alexeystar.com/">Alexey Staroselets</a> (<a href="https://alexeystar.com/index.xml">RSS</a>) — <a href="https://saturnvalley.org">John L</a> — <a href="https://kangminsuk.com">Minsuk Kang</a> (<a href="https://kangminsuk.com/index.xml">RSS</a>)</p>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/e4QPxx0pYG6qeLZo>
+
+---
+
+## Guadalcanal: 6
+
+date: 2024-08-02, from: Ayjay blog
+
+Around the rim of the shield Hephaestus made for Achilles is the Ocean River, the great water that (Homer believed) rings our world — Middle-earth, it’s sometimes called: the place where we live and, often enough, fight and kill and die. And, as I have noted, Guadalcanal Island is ringed by that very ocean. Guadalcanal [&#8230;] 
+
+<https://blog.ayjay.org/guadalcanal-6/>
+
+---
+
+## 50 years ago, CP/M started the microcomputer revolution
+
+date: 2024-08-02, updated: 2024-08-02, from: Liam Proven's articles at the Register
+
+<h4>In 1974, Gary Kildall got the first version working and changed the world of operating systems</h4>
+      <p>Late in the summer of 1974, CP/M first started running on hardware. It became one of the first cross-platform microcomputer OSes, and revolutionized the hardware and software industries.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/08/02/cpm_50th_anniversary/>
+
+---
+
+## FLTK 1.4.x Weekly Snapshot (master)
+
+date: 2024-08-02, from: Fast Light Tool Kit
+
+A new weekly snapshot of FLTK 1.4.x (master) is now available 
+
+<https://www.fltk.org/articles.php?L1934>
+
+---
+
+## Play Store could soon handle updates for sideloaded applications
+
+date: 2024-08-01, from: OS News
+
+Android 14 introduced the ability for application stores to claim ownership over application updates, to ensure other installation sources won&#8217;t accidentally update applications they shouldn&#8217;t. What is still lacking, however, is for users to easily change the update ownership for applications. In other words, say you install an application by downloading an APK from GitHub, and later the application makes its way to F-Droid, you&#8217;ll get warning popups when F-Droid tries to update that application. That&#8217;s about to change, it seems, as Android Authority discovered that the Play Store application seems to be getting a new feature where it can take ownership of an application&#8217;s updates. A new flag spotted in the latest Google Play Store release suggests that users may see the option to install updates for apps downloaded from a different source. As you can see in the attached screenshots, the Play Store will show available updates for apps downloaded from different sources. On the app listing, you’ll also see a new “Update from Play” button that will switch the update ownership from the original source to the Play Store. ↫ Pranob Mehrotra at Android Authority Assuming this functionality is just an API other application stores can also tap into, this will be a great addition to Android for power users who use multiple application stores and want to properly manage which store updates what applications. It&#8217;s not something most people will ever really use or need, but if you&#8217;re the kind of person who does need it &#8211; it&#8217;ll become indispensable. 
+
+<https://www.osnews.com/story/140390/play-store-could-soon-handle-updates-for-sideloaded-applications/>
+
+---
+
+## “Why I prefer rST to Markdown”
+
+date: 2024-08-01, from: OS News
+
+This is my second book written with Sphinx, after the new Learn TLA+. Sphinx uses a peculiar markup called reStructured Text (rST), which has a steeper learning curve than markdown. I only switched to it after writing a couple of books in markdown and deciding I needed something better. So I want to talk about why rst was that something. ↫ Hillel Wayne I&#8217;ve never liked Markdown &#8211; I find it quite arbitrary and unpleasant to look at, and the fact there&#8217;s countless variants that all differ a tiny bit doesn&#8217;t help &#8211; so even though I don&#8217;t actually use Markdown for anything, I always have a passing interest in possible alternatives, if only to see what other, different, and unique ideas are out there when it comes to relatively simple markup languages. Now, I&#8217;m quite sure reStructured Text isn&#8217;t for me either, since I feel like it&#8217;s far more powerful than Markdown, and serves a different, more complex purpose. That being said, I figured I&#8217;d highlight it here since it seems it may be interesting to some of you who work on documentation for your software projects or similar endeavours. 
+
+<https://www.osnews.com/story/140388/why-i-prefer-rst-to-markdown/>
+
+---
+
+##  As an experiment, The Pudding used an LLM (Claude) to produce one... 
+
+date: 2024-08-01, updated: 2024-08-01, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045056-as-an-experiment-the-pudd>
+
+---
+
+## NASA Shares its SpaceX Crew-10 Assignments for Space Station Mission
+
+date: 2024-08-01, from: NASA breaking news
+
+As part of NASA’s SpaceX Crew-10 mission, four crew members are preparing to launch for a long-duration stay aboard the International Space Station. NASA astronauts Commander Anne McClain and Pilot Nichole Ayers, JAXA (Japan Aerospace Exploration Agency) astronaut Mission Specialist Takuya Onishi, and Roscosmos cosmonaut Mission Specialist Kirill Peskov will join astronauts at the orbiting [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-shares-its-spacex-crew-10-assignments-for-space-station-mission/>
+
+---
+
+##  Diary Comics, July 3-5 
+
+date: 2024-08-01, updated: 2024-08-01, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/diary-comics-july-3>
+
+---
+
+##  &#8220;Everywhere they go, the world&#8217;s best table tennis players meet strangers who... 
+
+date: 2024-08-01, updated: 2024-08-01, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045055-everywhere-they-go-the-wo>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-01, from: Dave Winer's Scripting News)
+
+<a href="https://mastodon.social/@davew/112887942698442458">Best podcasts</a> for Democratic voters? 
+
+<http://scripting.com/2024/08/01.html#a184129>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-01, from: Dave Winer's Scripting News)
+
+There isn't a whole lot of love in this <a href="https://www.threads.net/@davew/post/C-Ipp7VJX-m">39-year-old man</a>. I worry for his kids, esp if either of them don't have kids. 
+
+<http://scripting.com/2024/08/01.html#a182615>
+
+---
+
+## iStat Menus 7
+
+date: 2024-08-01, from: Michael Tsai
+
+Marc Edwards: What&#8217;s new? Everything. iStat Menus 7 is a full reboot, sporting an all-new design with hundreds of big and small improvements. Bjango (version history): New menu bar modes, including stacked labels and values. New menu bar items, like Wi-Fi name, and GPU frames per second. Frequency monitoring and additional sensors on Apple Silicon [&#8230;] 
+
+<https://mjtsai.com/blog/2024/08/01/istat-menus-7/>
+
+---
+
+## ContextMenu 1.4.3
+
+date: 2024-08-01, from: Michael Tsai
+
+Matt Sephton: Many years ago I found ContextMenu ($4.99) which solves all of the issues I have with the Automator approach [to adding file commands to Finder&#8217;s contextual menu]. There&#8217;s also a free version, ContextMenu Lite, that supports up to 3 actions to give you a taste of the good stuff. Submenu is optional Apply [&#8230;] 
+
+<https://mjtsai.com/blog/2024/08/01/contextmenu-1-4-3/>
+
+---
+
+## FileUtils 1.0.1
+
+date: 2024-08-01, from: Michael Tsai
+
+ZigZag: Still, no matter how often I use an alternate file manager and constantly tracking progress of development of most of them, I still find myself manipulating files in Finder very often. Finder is just convenient. It&#8217;s always there, ready to be put into action. There are also some things, for which Finder is practically [&#8230;] 
+
+<https://mjtsai.com/blog/2024/08/01/fileutils-1-0-1/>
+
+---
+
+## Kaleidoscope 5.0.3
+
+date: 2024-08-01, from: Michael Tsai
+
+Kaleidoscope 4.5 (tweet): Recently, we have spent a lot of time on many aspects of the folder comparison feature for Kaleidoscope 4.4 and 4.5. We have overhauled some of the underpinnings and worked hard to improve reliability and speed. But we also added some major new features. It&#8217;s time to tell you a bit what [&#8230;] 
+
+<https://mjtsai.com/blog/2024/08/01/kaleidoscope-5-0-3/>
+
+---
+
+## Exploring Deep Space: NASA Announces 2025 RASC-AL Competition
+
+date: 2024-08-01, from: NASA breaking news
+
+NASA has officially announced the 2025 Revolutionary Aerospace Systems Concepts &#8211; Academic Linkage (RASC-AL) competition, an initiative to fuel innovation for aerospace systems concepts, analogs, and technology prototyping through university engagement. RASC-AL, one of NASA’s longest-running student competitions, solicits concepts from the next generation of engineers and scientists to explore the future of deep space [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/langley/exploring-deep-space-nasa-announces-2025-rasc-al-competition/>
+
+---
+
+##  The DMV Is Good Actually 
+
+date: 2024-08-01, updated: 2024-08-01, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/the-dmv-is-good-actually>
+
+---
+
+## Telfer Mine, Western Australia
+
+date: 2024-08-01, from: NASA breaking news
+
+Landsat 9’s Operational Land Imager-2 captured this image of the open pits and ponds of Telfer Mine and the surrounding rust-colored soil on Dec. 15, 2023. The soils have a reddish tint from the iron oxides that have accumulated from millions of years of weathering. This part of Western Australia is known for being rich in natural [&#8230;] 
+
+<https://www.nasa.gov/image-article/telfer-mine-western-australia/>
+
+---
+
+## This one important fact about current AI explains almost everything
+
+date: 2024-08-01, from: Gary Marcus blog
+
+An entire industry has been built - and will collapse - because many people haven&#8217;t yet gotten it. 
+
+<https://garymarcus.substack.com/p/this-one-important-fact-about-current>
+
+---
+
+## Subscribe, Forever
+
+date: 2024-08-01, from: Tedium site
+
+Logitech’s hinting at a mouse with a subscription suggests hardware companies want to become addicted to subscription revenue, too. 
+
+<https://feed.tedium.co/link/15204/16759218/logitech-forever-mouse-hardware-subscription>
+
+---
+
+##  How the decline of Indian vultures led to 500,000 human deaths. &#8220;Understanding... 
+
+date: 2024-08-01, updated: 2024-08-01, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045053-how-the-decline-of-indian>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2024-08-01, from: Robert's feed at BlueSky)
+
+Lovely new piece from LAGQ https://www.lagq.com/news/2024/7/31/new-maracasalsa-video-previews-our-2024-25-season 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3kyo7suyohs2n>
+
+---
+
+##  Watch a clip from the first animation Hayao Miyazaki directed on his... 
+
+date: 2024-08-01, updated: 2024-08-01, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045045-watch-a-clip-from-the>
+
+---
+
+## 2024-08-01 Where to look online for RPG conversation?
+
+date: 2024-08-01, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-01-where-to-look-online-for-rpg-conversation">2024-08-01 Where to look online for RPG conversation?</h1>
+
+<p>This is a reaction to a post by the same title on the <a href="https://grumpywizard.home.blog/2024/08/01/where-to-look-online-for-rpg-conversation/">Grumpy Wizard</a> blog. I know where I get my conversation in any case. But all the points the Grumpy Wizard makes need to be considered. I don’t care about D&amp;D and Pathfinder. I don’t even care for the old editions. If at all, I care about the problems you ran into and your solutions at the table: techniques, procedures, house rules.</p>
+
+<p>I also don’t care for product announcements or read-through reviews. I also don’t care about the details of session reports. I care about the in-between: what have you used or made for use at the table, what can you say about it, did it work, what would do differently.</p>
+
+<p>Given these peculiarities, I find my conversation on Discord – on small servers with a dozen active people, no more, and we mostly care about the games we play with each other; or on the fediverse with an account that follows a lot of people from tabletop.social and dice.camp (or rollenspiel.social and pnpde.social, if you speak German). These sites are all a bit like early Twitter except you can follow people on compatible servers, too.</p>
+
+<p>There are similar sites that are bit a like Reddit, but you can also follow people on other servers – but I was never very active on Reddit and so they don’t appeal much to me.</p>
+
+<p>I guess if I were to look for forums, I’d go back to old haunts: EN World, ODD74, or whatever flavour you preferred back then.</p>
+
+<p>Anyway, when I post stuff that got started because of something I heard or somebody I spoke to, I try to link to their social media profiles or blogs so that you can check them out and maybe follow them, too.</p>
+
+<p>I sometimes wish there was more conversation to be found on IRC and Usenet. But that basically requires people love both role-playing games and old tech. It’s rare.</p>
+
+<p>And then there’s what the Grumpy Wizard also said: So many thi gs have been discussed for so long, I just don’t care about the conversation anymore. Ascending or descending armour class? 6 mile hex? I no longer care.</p>
+
+<p>I guess I’m still into blogs. 😄</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
+
+<https://alexschroeder.ch/view/2024-08-01-rpg-conversation>
+
+---
+
+## NASA Additive Manufacturing Project Shapes Future for Agency, Industry Rocket Makers
+
+date: 2024-08-01, from: NASA breaking news
+
+The widespread commercial adoption of additive manufacturing technologies, commonly known as 3D printing, is no surprise to design engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama whose research created stronger, lighter weight materials and new manufacturing processes to make rocket parts. NASA’s RAMPT (Rapid Analysis and Manufacturing Propulsion Technology) project is on the [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/nasa-additive-manufacturing-project-shapes-future-for-agency-industry-rocket-makers/>
 
 ---
 
@@ -272,7 +774,7 @@ date: 2024-08-01, from: Logic Magazine
 
 **@Dave Winer's Scripting News** (date: 2024-08-01, from: Dave Winer's Scripting News)
 
-<a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2024/07.opml">OPML archive</a> for July's posts on Scripting News. 
+Welcome to August. <a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2024/07.opml">OPML archive</a> for July's posts on Scripting News. 
 
 <http://scripting.com/2024/08/01.html#a120326>
 
@@ -297,6 +799,16 @@ date: 2024-08-01, from: Raspberry Pi (.org)
  
 
 <https://www.raspberrypi.org/blog/celebrating-astro-pi-2024/>
+
+---
+
+## August’s Night Sky Notes: Seeing Double
+
+date: 2024-08-01, from: NASA breaking news
+
+Your eyes aren’t playing tricks on you – you’re seeing double stars through that telescope! Learn about which double stars to spot this summer with August’s Night Sky Notes! 
+
+<https://science.nasa.gov/solar-system/skywatching/night-sky-network/aug2024-night-sky-notes/>
 
 ---
 
@@ -2191,16 +2703,6 @@ at
  
 
 <https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/3e81eb63099b7968539f969781ee824cd593c2c1>
-
----
-
-## oberon@gitlab.inf.ethz.ch joined project Felix Oliver Friedrich / Oberon A2
-
-date: 2024-07-28, updated: 2024-07-28, from: Oberon A2 at CAS
-
- 
-
-<>
 
 ---
 

@@ -1,11 +1,31 @@
 ---
 title: journalism 2024.31
-updated: 2024-08-01 08:26:03
+updated: 2024-08-02 08:37:50
 ---
 
 # journalism 2024.31
 
-(date: 2024-08-01 08:26:03)
+(date: 2024-08-02 08:37:50)
+
+---
+
+## The transit beat is becoming the climate beat
+
+date: 2024-08-01, from: Nieman Journalism Lab
+
+Back in July, as I was in the middle of my morning routine of coffee and local news, I read a headline that made me stop mid-sip: “Third Avenue Bridge in the Bronx gets stuck due to heat, DOT says.” I live in Brooklyn (I was, essentially, sitting next to my AC as I read... 
+
+<https://www.niemanlab.org/2024/08/the-transit-beat-is-becoming-the-climate-beat/>
+
+---
+
+## How Norway’s public broadcaster overhauled its climate coverage
+
+date: 2024-08-01, from: Nieman Journalism Lab
+
+Four years ago, Norway’s national broadcaster set out to completely reshape its coverage of climate change, restructuring reporters’ positions in the newsroom, and investing in producing fewer, but more widely read, climate stories. The Norwegian Broadcasting Corporation’s dedicated climate coverage now consistently receives more views than the rest of the newsroom’s coverage, head climate editors say.... 
+
+<https://www.niemanlab.org/2024/08/how-norways-public-broadcaster-overhauled-its-climate-coverage/>
 
 ---
 

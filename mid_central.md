@@ -1,11 +1,83 @@
 ---
 title: mid central 2024.31
-updated: 2024-08-01 08:25:59
+updated: 2024-08-02 08:37:45
 ---
 
 # mid central 2024.31
 
-(date: 2024-08-01 08:25:59)
+(date: 2024-08-02 08:37:45)
+
+---
+
+## NoCs and the transition to multi-die systems using chiplets
+
+date: 2024-08-02, from: EDN Blog
+
+<img width="4216" height="1524" src="https://www.edn.com/wp-content/uploads/Fig-2-Star-Topology-Chiplet-Arteris.png?fit=4216%2C1524" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-2-Star-Topology-Chiplet-Arteris.png?w=4216 4216w, https://www.edn.com/wp-content/uploads/Fig-2-Star-Topology-Chiplet-Arteris.png?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-2-Star-Topology-Chiplet-Arteris.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-2-Star-Topology-Chiplet-Arteris.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-2-Star-Topology-Chiplet-Arteris.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig-2-Star-Topology-Chiplet-Arteris.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig-2-Star-Topology-Chiplet-Arteris.png?w=1900 1900w, https://www.edn.com/wp-content/uploads/Fig-2-Star-Topology-Chiplet-Arteris.png?w=2850 2850w" sizes="(max-width: 4216px) 100vw, 4216px" /><p>Choosing the right network-on-chip (NoC) configuration is crucial for chiplet-based designs.</p>
+<p>The post <a href="https://www.edn.com/nocs-and-the-transition-to-multi-die-systems-using-chiplets/" data-wpel-link="internal">NoCs and the transition to multi-die systems using chiplets</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/nocs-and-the-transition-to-multi-die-systems-using-chiplets/>
+
+---
+
+## GNSS module offers precise RTK positioning
+
+date: 2024-08-01, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Quectel-LG290P.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Quectel-LG290P.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Quectel-LG290P.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Quectel-LG290P.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The Quectel LG290P is a quad-band, multiconstellation GNSS module that achieves centimeter-level positioning accuracy.</p>
+<p>The post <a href="https://www.edn.com/gnss-module-offers-precise-rtk-positioning/" data-wpel-link="internal">GNSS module offers precise RTK positioning</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/gnss-module-offers-precise-rtk-positioning/>
+
+---
+
+## MLCCs boast high-capacitance in minuscule package
+
+date: 2024-08-01, from: EDN Blog
+
+<img width="800" height="459" src="https://www.edn.com/wp-content/uploads/Murata-GRM188.jpg?fit=800%2C459" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Murata-GRM188.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Murata-GRM188.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Murata-GRM188.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Murata expands its line of multilayer ceramic capacitors with two chips that provide a capacitance of 100 µF in a tiny 0603-size package. </p>
+<p>The post <a href="https://www.edn.com/mlccs-boast-high-capacitance-in-minuscule-package/" data-wpel-link="internal">MLCCs boast high-capacitance in minuscule package</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/mlccs-boast-high-capacitance-in-minuscule-package/>
+
+---
+
+## Magnachip grows IGBT lineup for solar energy
+
+date: 2024-08-01, from: EDN Blog
+
+<img width="800" height="455" src="https://www.edn.com/wp-content/uploads/Magnachip-MBQ-IGBTs.jpg?fit=800%2C455" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Magnachip-MBQ-IGBTs.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Magnachip-MBQ-IGBTs.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Magnachip-MBQ-IGBTs.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Magnachip Semiconductor has developed a 1200-V, 75-A IGBT for solar inverters, housed in a TO-247PLUS package.</p>
+<p>The post <a href="https://www.edn.com/magnachip-grows-igbt-lineup-for-solar-energy/" data-wpel-link="internal">Magnachip grows IGBT lineup for solar energy</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/magnachip-grows-igbt-lineup-for-solar-energy/>
+
+---
+
+## Data center SSDs achieve blistering speeds
+
+date: 2024-08-01, from: EDN Blog
+
+<img width="800" height="473" src="https://www.edn.com/wp-content/uploads/Micron-9550.jpg?fit=800%2C473" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Micron-9550.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Micron-9550.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Micron-9550.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Optimized for data center and AI workloads, Micron’s SSDs deliver sequential read speeds of 14 GB/s and sequential write speeds of 10 GB/s. </p>
+<p>The post <a href="https://www.edn.com/data-center-ssds-achieve-blistering-speeds/" data-wpel-link="internal">Data center SSDs achieve blistering speeds</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/data-center-ssds-achieve-blistering-speeds/>
+
+---
+
+## BLE module optimizes power and processing
+
+date: 2024-08-01, from: EDN Blog
+
+<img width="800" height="446" src="https://www.edn.com/wp-content/uploads/Kaga-Fei-EC4L15BA1.jpg?fit=800%2C446" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Kaga-Fei-EC4L15BA1.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Kaga-Fei-EC4L15BA1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Kaga-Fei-EC4L15BA1.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>A Bluetooth LE module, the EC4L15BA1 from KAGA FEI, offers a built-in antenna and various certifications to reduce development time.</p>
+<p>The post <a href="https://www.edn.com/ble-module-optimizes-power-and-processing/" data-wpel-link="internal">BLE module optimizes power and processing</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/ble-module-optimizes-power-and-processing/>
 
 ---
 
@@ -13,7 +85,7 @@ updated: 2024-08-01 08:25:59
 
 date: 2024-08-01, from: EDN Blog
 
-<img width="1115" height="579" src="https://www.edn.com/wp-content/uploads/dsPIC-block-diagram_Figure-2.png?fit=1115%2C579" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/dsPIC-block-diagram_Figure-2.png?w=1115 1115w, https://www.edn.com/wp-content/uploads/dsPIC-block-diagram_Figure-2.png?w=300 300w, https://www.edn.com/wp-content/uploads/dsPIC-block-diagram_Figure-2.png?w=768 768w, https://www.edn.com/wp-content/uploads/dsPIC-block-diagram_Figure-2.png?w=1024 1024w" sizes="(max-width: 1115px) 100vw, 1115px" /><p>Discussing the recently released dsPIC33A with the corporate vice president of digital signal controllers at Microchip.</p>
+<img width="1115" height="579" src="https://www.edn.com/wp-content/uploads/dsPIC-block-diagram_Figure-2.png?fit=1115%2C579" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/dsPIC-block-diagram_Figure-2.png?w=1115 1115w, https://www.edn.com/wp-content/uploads/dsPIC-block-diagram_Figure-2.png?w=300 300w, https://www.edn.com/wp-content/uploads/dsPIC-block-diagram_Figure-2.png?w=768 768w, https://www.edn.com/wp-content/uploads/dsPIC-block-diagram_Figure-2.png?w=1024 1024w" sizes="(max-width: 1115px) 100vw, 1115px" /><p>Discussing the recently released dsPIC33A with the corporate vice president of digital signal controllers at Microchip.</p>
 <p>The post <a href="https://www.edn.com/a-look-at-microchips-new-dspic33a-digital-signal-controller/" data-wpel-link="internal">A look at Microchip’s new dsPIC33A digital signal controller</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

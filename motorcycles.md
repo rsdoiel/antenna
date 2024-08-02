@@ -1,11 +1,211 @@
 ---
 title: motorcycles 2024.31
-updated: 2024-08-01 08:26:05
+updated: 2024-08-02 08:37:52
 ---
 
 # motorcycles 2024.31
 
-(date: 2024-08-01 08:26:05)
+(date: 2024-08-02 08:37:52)
+
+---
+
+## Supertyphoon Ravages The Philippines, Suzuki Lends a Helping Hand
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+Suzuki is offering free check-ups and oil changes to those affected by recent heavy flooding.  
+
+<https://www.rideapart.com/news/728612/suzuki-philippines-free-check-ups-typhoon-carina/>
+
+---
+
+## Guy Builds a Crazy Drift Shopping Cart From an Old Scooter, Hilarity Ensues
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+Why he doesn't have a bazillion subscribers, I'll never understand. 
+
+<https://www.rideapart.com/news/728765/crazy-drift-shopping-cart-build/>
+
+---
+
+## Royal Enfield Wants You To Ride Further, Offers “Borderless Warranty Program”
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+You’re covered by more than 3,000 service centers across more than 70 countries.  
+
+<https://www.rideapart.com/news/728613/royal-enfield-borderless-warranty-program/>
+
+---
+
+## Polaris Doubles Down On Utility, Working On 4-Seater EV UTV
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+More work, less noise.  
+
+<https://www.rideapart.com/news/728611/polaris-electric-4seater-utv-patent/>
+
+---
+
+## The Indian MotoGP Race Is Back On, but I Can’t Help but Wonder Why?
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+Insert "But why?" gif here. 
+
+<https://www.rideapart.com/news/728743/motogp-indian-gp-race-returns/>
+
+---
+
+## Men Sue Artist For Hosting a Women-Only Motorcycle Painting Event
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+Call Elle Woods, because this is just the latest in a long line of men's rights activists weaponizing California's Unruh Civil Rights Act.  
+
+<https://www.rideapart.com/news/728758/artist-gets-sued-women-only-motorcyclist-incel/>
+
+---
+
+## Harley Motorcyclist Pops Wheelie, Immediately Crashes Into Another Motorcycle
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+The other motorcyclist was also doing a wheelie.  
+
+<https://www.rideapart.com/news/728739/harley-davidson-wheelie-crash-into-another-wheelie/>
+
+---
+
+## 2024 Harley-Davidson Homecoming Festival Rocks Milwaukee
+
+date: 2024-08-02, from: Cycle World News
+
+The 2024 Harley-Davidson Homecoming Festival rocked Milwaukee with four days of music and moto-culture July 25-28 at multiple venues across the community. 
+
+<https://www.cycleworld.com/the-wire/2024-harley-davidson-homecoming-festival-rocks-milwaukee/>
+
+---
+
+## 2024 Honda Shadow Phantom
+
+date: 2024-08-02, from: Cycle World News
+
+Honda’s Shadow Phantom is a middleweight cruiser with traditional styling. For 2024, it received a long list of updates and styling changes. 
+
+<https://www.cycleworld.com/honda/shadow-phantom/>
+
+---
+
+## 2024 Honda PCX
+
+date: 2024-08-02, from: Cycle World News
+
+Scooters are all about functionality and getting around urban environments. The PCX is Honda’s take on the class, with slick modern styling. 
+
+<https://www.cycleworld.com/honda/pcx/>
+
+---
+
+## 2024 Honda Rebel 300
+
+date: 2024-08-02, from: Cycle World News
+
+Honda’s Rebel 300 is a great entry-level cruiser-style motorcycle, with an ultralow seat height and nonintimidating engine. 
+
+<https://www.cycleworld.com/honda/rebel-300/>
+
+---
+
+## Polaris Ups the Ante With the New RZR Pro, Takes a Shot at Can-Am's Maverick R
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+Who wants to go fast? 
+
+<https://www.rideapart.com/news/728589/2025-polaris-rzr-pro-ultimate-xp-specs-pricing/>
+
+---
+
+## Whoa, Polaris Just Added Heated and Cooled Seats to Its New RZR UTV
+
+date: 2024-08-02, from: Ride Apart, Electric Motorcycle News
+
+Hold on to your climate-controlled butts. 
+
+<https://www.rideapart.com/news/728767/polaris-rzr-r-ultimate-2025/>
+
+---
+
+## Amontons’ Laws of Friction
+
+date: 2024-08-01, from: Cycle World News
+
+Tire grip is absolutely tied to tire footprint, despite what Amontons’ laws of friction say. Kevin Cameron explains. 
+
+<https://www.cycleworld.com/blogs/ask-kevin/amontons-laws-of-friction-and-motorcycle-tires/>
+
+---
+
+## 2024’s Top Heavyweight Baggers
+
+date: 2024-08-01, from: Cycle World News
+
+Our picks for six great heavyweight baggers of 2024 include the Harley Road Glide, BMW K 1600 B, Indian Challenger, and Honda Gold Wing. 
+
+<https://www.cycleworld.com/motorcycle-news/top-heavyweight-baggers/>
+
+---
+
+## Jorge Lorenzo on Bagnaia, Martín, and Márquez
+
+date: 2024-08-01, from: Cycle World News
+
+Jorge Lorenzo speaks to Cycle World about the 2025 MotoGP Championship—specifically Bagnaia, Márquez, and Martín. 
+
+<https://www.cycleworld.com/motorcycle-racing/jorge-lorenzo-on-bagnaia-martin-and-marquez-interview/>
+
+---
+
+## Isle of Man TT Gallery—Sunshine and Blazing Speeds
+
+date: 2024-08-01, from: Cycle World News
+
+Photos from Cycle World's coverage of the 2023 Isle of Man TT. 
+
+<https://www.cycleworld.com/gallery/2023-isle-of-man-tt-photos/>
+
+---
+
+## Buckle Up, It’s a Column by Mat Mladin Gallery
+
+date: 2024-08-01, from: Cycle World News
+
+Photos from Cycle World's column by Mat Mladin. 
+
+<https://www.cycleworld.com/gallery/mat-mladin-photos/>
+
+---
+
+## 2024 Honda Rebel 1100T / Rebel 1100
+
+date: 2024-08-01, from: Cycle World News
+
+Honda has two versions of its Rebel 1100 parallel-twin cruiser, available in a touring model or a standard model. Each version can be ordered with DCT. 
+
+<https://www.cycleworld.com/honda/rebel-1100t/>
+
+---
+
+## 2025 KTM and Husqvarna Electric Streetbikes
+
+date: 2024-08-01, from: Cycle World News
+
+KTM has been in the electric game since 2011, but never with a street-legal model. New documents show KTM and Husqvarna will have such machines for 2025. 
+
+<https://www.cycleworld.com/bikes/ktm-and-husqvarna-electric-streetbikes/>
 
 ---
 
