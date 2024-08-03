@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.31
-updated: 2024-08-02 08:37:52
+updated: 2024-08-03 09:52:22
 ---
 
 # retro computing 2024.31
 
-(date: 2024-08-02 08:37:52)
+(date: 2024-08-03 09:52:22)
+
+---
+
+## Tex Murphy and the Coming of the DVD (A Shaggy-Dog Story)
+
+date: 2024-08-02, from: Digital Antiquarian
+
+In his expatriate memoir Notes from a Small Island, Bill Bryson describes what a false picture of the world&#8217;s geography you would end up with if you were to try to surmise it from British mass media. Britain, you would probably assume from the crazy amount of attention the United States gets in that country&#8217;s [&#8230;] 
+
+<https://www.filfre.net/2024/08/tex-murphy-and-the-coming-of-the-dvd-a-shaggy-dog-story/>
+
+---
+
+## 'Live Coding with Gerph" session on sunday
+
+date: 2024-08-02, from: Icon Bar, RISC OS News
+
+If you have been enjoying the regular chance to see a RISC OS coding masterclass (or bore dof the Olympics and want to see some real action), there is another episode live at 1pm on sunday. 
+
+<http://www.iconbar.com/comments/rss/news2092.html>
 
 ---
 

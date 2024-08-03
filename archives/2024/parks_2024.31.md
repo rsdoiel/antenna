@@ -1,11 +1,21 @@
 ---
 title: parks 2024.31
-updated: 2024-08-02 08:37:51
+updated: 2024-08-03 09:52:21
 ---
 
 # parks 2024.31
 
-(date: 2024-08-02 08:37:51)
+(date: 2024-08-03 09:52:21)
+
+---
+
+## BASE Jumper Fatality in Grand Canyon National Park
+
+date: 2024-08-02, from: Press Releases
+
+On Thursday, August 1, at approximately 7:30 a.m., the Grand Canyon Regional Communications Center received a report of a visitor who had attempted a BASE jump from Yavapai Point on the South Rim of Grand Canyon National Park. Park rangers responded and located the body of a deceased male approximately 500 feet below the rim, along with a deployed parachute. https://www.nps.gov/grca/learn/news/base-jumper-recovery-at-yavapai-point.htm 
+
+<https://www.nps.gov/grca/learn/news/base-jumper-recovery-at-yavapai-point.htm>
 
 ---
 

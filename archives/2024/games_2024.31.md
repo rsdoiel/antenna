@@ -1,11 +1,71 @@
 ---
 title: games 2024.31
-updated: 2024-08-02 08:37:49
+updated: 2024-08-03 09:52:19
 ---
 
 # games 2024.31
 
-(date: 2024-08-02 08:37:49)
+(date: 2024-08-03 09:52:19)
+
+---
+
+## Netflix’s Rebel Moon director’s cut, A Quiet Place: Day One, and every movie new to streaming this week
+
+date: 2024-08-02, updated: 2024-08-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/8/2/24204236/new-movies-rebel-moon-netflix-quiet-place-day-one-kingdom-planet-apes>
+
+---
+
+## Trap feels like a Shyamalan movie through and through — for better and worse
+
+date: 2024-08-02, updated: 2024-08-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24212250/trap-review-shyamalan-m-night-movie-hartnett>
+
+---
+
+## PlayStation’s Concord is a fine shooter, but there’s little faith it can compete
+
+date: 2024-08-02, updated: 2024-08-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24211550/concord-ps5-pc-beta-player-numbers>
+
+---
+
+## Bloomburrow brings a menagerie of woodland creatures to MTG — here’s where you can buy the new set
+
+date: 2024-08-02, updated: 2024-08-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24190175/bloomburrow-magic-the-gathering-pre-order-expansion>
+
+---
+
+## The Deer King, now on Netflix, feels like a Ghibli movie — even if it isn’t one
+
+date: 2024-08-02, updated: 2024-08-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/anime/24210117/the-deer-king-netflix-anime-movie-streaming>
+
+---
+
+## Pokémon Go ‘Adventure Week’ 2024 event guide
+
+date: 2024-08-02, updated: 2024-08-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24212012/adventure-week-2024-event-fossil-timed-research-premium>
 
 ---
 

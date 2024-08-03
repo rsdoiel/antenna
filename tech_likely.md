@@ -1,11 +1,276 @@
 ---
 title: tech likely 2024.31
-updated: 2024-08-02 08:37:47
+updated: 2024-08-03 09:52:17
 ---
 
 # tech likely 2024.31
 
-(date: 2024-08-02 08:37:47)
+(date: 2024-08-03 09:52:17)
+
+---
+
+## This Week in the IndieWeb
+
+date: 2024-08-02, from: This week in Indie Web
+
+
+
+<h1><a href="https://indieweb.org/this-week/2024-08-02.html">July 26 through August 2, 2024</a></h1>
+<h2 id="recent-events">Recent Events</h2><p>From <a href="https://events.indieweb.org/archive">events.indieweb.org/archive</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/08/front-end-study-hall-008-BVfQ91G65DtL" class="u-url">Front End Study Hall #008</a></div>
+<time class="dt-start" datetime="2024-08-01T12:00:00+00:00">Thursday, August 1 at 12:00pm</time><br>
+<div style="font-style: italic" class="e-summary"><p>Front End Study Hall is an HTML + CSS focused group meeting, held on Zoom to learn from each other about how to make code do what we want.</p>
+
+<p>Come prepared to teach and learn!</p></div><div><img src="https://indieweb.org/this-week/images/2024-08-02/d5202c6819129c5f0f2116d752902a849d830f2c.jpg" style="width:100%" class="u-photo"></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/homebrew-website-club-pacific-DsBjlAnfxEAp" class="u-url">Homebrew Website Club - Pacific</a></div>
+<time class="dt-start" datetime="2024-07-31T18:00:00+00:00">Wednesday, July 31 at 6:00pm</time><br>
+<div><img src="https://indieweb.org/this-week/images/2024-08-02/555108276db073df6357e9326bcb634ed9550c98.jpg" style="width:100%" class="u-photo"></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/homebrew-website-club-europe-london-SREkOvgDDxsB" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-07-31T19:00:00+00:00">Wednesday, July 31 at 7:00pm</time><br>
+<div><img src="https://indieweb.org/this-week/images/2024-08-02/e5054cdf007391aaba298b746b2c8a0a215ba465.jpg" style="width:100%" class="u-photo"></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/homebrew-website-club-edinburgh-DPO1FRx8NjDL" class="u-url">Homebrew Website Club Edinburgh</a></div>
+<time class="dt-start" datetime="2024-07-30T18:00:00+00:00">Tuesday, July 30 at 6:00pm</time><br>
+<ul><li>EDINBURGH, Scotland: Costa Coffee</li></ul></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/send-a-friend-a-webmention-day-Yg7gsfhZDigm" class="u-url">Send a Friend a Webmention Day</a></div>
+<time class="dt-start" datetime="2024-07-30T00:00:00+00:00">Tuesday, July 30</time><br>
+</div>
+<h2 id="upcoming-events">Upcoming Events</h2><p>From <a href="https://events.indieweb.org/">events.indieweb.org</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/08/homebrew-website-club-europe-london-fk4atYf19pgP" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-08-07T19:00:00+01:00">Wednesday, August 7 at 7:00pm</time><br>
+</div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/08/homebrew-website-club-nuremberg-germany-vxakxQ2PARVz" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2024-08-14T18:00:00+02:00">Wednesday, August 14 at 6:00pm</time><br>
+<ul><li>NÜRNBERG, Bayern: LEONARDO – Zentrum für Kreativität und Innovation</li></ul><div style="font-style: italic" class="e-summary"><p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/08/homebrew-website-club-pacific-SKUNaesxx2pP" class="u-url">Homebrew Website Club - Pacific</a></div>
+<time class="dt-start" datetime="2024-08-14T18:00:00-07:00">Wednesday, August 14 at 6:00pm</time><br>
+</div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/08/xoxo-2024-Q7X4mFWNaZYa" class="u-url">XOXO 2024</a></div>
+<time class="dt-start" datetime="2024-08-22T00:00:00+00:00">August 22</time> - <time class="dt-end" datetime="2024-08-24T00:00:00+00:00">August 24</time><br>
+<ul><li>PORTLAND, Oregon: Revolution Hall</li></ul></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/08/indiewebcamp-portland-2024-8bucXDlLqR0k" class="u-url">IndieWebCamp Portland 2024</a></div>
+<time class="dt-start" datetime="2024-08-25T00:00:00+00:00">Sunday, August 25</time><br>
+<ul><li>PORTLAND, Oregon: TBD</li></ul><div style="font-style: italic" class="e-summary"><p>A one day IndieWebCamp Portland 2024 is planned for August 25th, the day after the XOXO conference and festival, pending confirmation of a venue! If you're in Portland and have a suggested venue please get in touch via the IndieWeb chat!</p></div></div>
+<h2 id="news">What We’re Reading</h2><p>From <a href="https://news.indieweb.org/en">news.indieweb.org</a>:</p><div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://kiko.io/post/Push-Over-Webmentions/" class="u-url p-name">Push Over Webmentions</a></div><div>by <a href="https://kiko.io" class="p-author h-card">kiko.io</a> on <a href="https://kiko.io/post/Push-Over-Webmentions/"><time class="dt-published" datetime="2024-08-02T07:10:55+00:00">August 2</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://marksuth.dev/posts/2024/08/indieweb-movie-club-august-2024-the-matrix-1999" class="u-url p-name">IndieWeb Movie Club: August 2024 - The Matrix (1999)</a></div><div>by <a href="https://marksuth.dev/" class="p-author h-card">marksuth.dev</a> on <a href="https://marksuth.dev/posts/2024/08/indieweb-movie-club-august-2024-the-matrix-1999"><time class="dt-published" datetime="2024-08-01T16:49:55+00:00">August 1</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://tantek.com/2024/213/b1/choosing-tools" class="u-url p-name">Choosing Tools</a></div><div>by <a href="https://tantek.com/" class="p-author h-card">tantek.com</a> on <a href="https://tantek.com/2024/213/b1/choosing-tools"><time class="dt-published" datetime="2024-08-01T08:56:02+00:00">August 1</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://marksuth.dev/posts/2024/07/indieweb-movie-club" class="u-url p-name">IndieWeb Movie Club</a></div><div>by <a href="https://marksuth.dev/" class="p-author h-card">marksuth.dev</a> on <a href="https://marksuth.dev/posts/2024/07/indieweb-movie-club"><time class="dt-published" datetime="2024-07-31T20:01:24+00:00">July 31</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://tracydurnell.com/2024/07/30/using-personal-weeknotes-as-a-tool-for-attention/" class="u-url p-name">Using personal weeknotes as a tool for attention</a></div><div>by <a href="https://tracydurnell.com" class="p-author h-card">tracydurnell.com</a> on <a href="https://tracydurnell.com/2024/07/30/using-personal-weeknotes-as-a-tool-for-attention/"><time class="dt-published" datetime="2024-07-30T23:25:27+00:00">July 30</time></a></div></div>
+
+
+<h2 id="new-wiki-pages">Top New Wiki Pages</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb Wiki: New Pages</a>:</p>
+<h3><a href="https://indieweb.org/TUAW">TUAW</a></h3><p>TUAW(.com) (AKA The Unofficial Apple Weblog) was a long-lived technology media site and blog which shutdown in 2015 whose domain was purchased in 2024 and relaunched as a zombie site using slop articles based on its prior content and GenAI fake images of prior authors using their actual names.</p><p style="font-size:0.8em;">Created by Tantek.com on Thursday and edited 11 more times</p>
+<h3><a href="https://indieweb.org/indieweb-movie-club">indieweb-movie-club</a></h3><p>IndieWeb Movie Club is a monthly movie themed blog carnival inspired by indieweb-carnival started in August 2024.</p><p style="font-size:0.8em;">Created by Marksuth.dev on Wednesday with 5 more edits by sarajaksa.eu and tantek.com</p>
+<h3><a href="https://indieweb.org/Bear_Blog">Bear Blog</a></h3><p>Bear Blog is a blog hosting service and open source platform describing itself as “no-nonsense”.</p><p style="font-size:0.8em;">Created by Vanderven.se martijn on Wednesday and edited 1 more time</p>
+<h2 id="new-event-notes">New Event Notes</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb Wiki: New Pages</a>:</p>
+
+<p><b>Front End Study Hall #008:</b> <a href="https://indieweb.org/events/2024-08-01-front-end-study-hall">2024-08-01</a></p>
+<p><b>Homebrew Website Club Europe/London:</b> <a href="https://indieweb.org/events/2024-07-31-hwc-europe">2024-07-31</a></p>
+
+<h2 id="changed-wiki-pages">Top Edited Wiki Pages</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?namespace=0&title=Special%3ARecentChanges">IndieWeb Wiki: Recent Changes</a>:</p>
+<ul>
+<li><b><a href="https://indieweb.org/posts">posts</a></b> <a href="https://indieweb.org/wiki/index.php?title=posts&amp;action=historysubmit&amp;diff=96412&amp;oldid=87976">5 edits</a> by tantek.com</li>
+<li><b><a href="https://indieweb.org/URL_design">URL design</a></b> <a href="https://indieweb.org/wiki/index.php?title=URL+design&amp;action=historysubmit&amp;diff=96409&amp;oldid=95498">4 edits</a> by tantek.com</li>
+<li><b><a href="https://indieweb.org/blog_carnival">blog carnival</a></b> <a href="https://indieweb.org/wiki/index.php?title=blog+carnival&amp;action=historysubmit&amp;diff=96378&amp;oldid=91898">3 edits</a> by sarajaksa.eu</li>
+<li><b><a href="https://indieweb.org/large_language_model">large language model</a></b> <a href="https://indieweb.org/wiki/index.php?title=large+language+model&amp;action=historysubmit&amp;diff=96346&amp;oldid=96201">3 edits</a> by loqi.me</li>
+<li><b><a href="https://indieweb.org/site-deaths">site-deaths</a></b> <a href="https://indieweb.org/wiki/index.php?title=site-deaths&amp;action=historysubmit&amp;diff=96415&amp;oldid=96247">2 edits</a> by loqi.me and tantek.com</li>
+<li><b><a href="https://indieweb.org/zombie">zombie</a></b> <a href="https://indieweb.org/wiki/index.php?title=zombie&amp;action=historysubmit&amp;diff=96414&amp;oldid=90088">2 edits</a> by tantek.com</li>
+<li><b><a href="https://indieweb.org/discuss">discuss</a></b> <a href="https://indieweb.org/wiki/index.php?title=discuss&amp;action=historysubmit&amp;diff=96358&amp;oldid=96328">2 edits</a> by marksuth.dev and jamesg.blog</li>
+<li><b><a href="https://indieweb.org/88x31">88x31</a></b> <a href="https://indieweb.org/wiki/index.php?title=88x31&amp;action=historysubmit&amp;diff=96341&amp;oldid=96319">2 edits</a> by tantek.com</li>
+<li><b><a href="https://indieweb.org/badge">badge</a></b> <a href="https://indieweb.org/wiki/index.php?title=badge&amp;action=historysubmit&amp;diff=96339&amp;oldid=90821">2 edits</a> by tantek.com</li></ul>
+
+ 
+
+<https://indieweb.org/this-week/2024-08-02.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-08-02, from: Miguel de Icaza Mastondon feed)
+
+<p>This is by no means the most important thing about Swift, but the fact that you do not need to use semicolons to separate statements feels liberating.</p><p>After a while, other codebases just look aged.   </p><p>I feel like I am punching cards every time I have to write code with semicolons.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112894513687647415>
+
+---
+
+## The Gig Is Up
+
+date: 2024-08-02, from: Logic Magazine
+
+
+                <p>“The eight-hour workday was a hard-won victory by labor organizers of yesterday. Today, gig corporations are actively undermining those victories.”</p>
+
+             
+
+<https://logicmag.io/issue-21-medicine-and-the-body/the-gig-is-up>
+
+---
+
+## Securing Virtual Machines on Apple Silicon
+
+date: 2024-08-02, from: Michael Tsai
+
+Howard Oakley: In addition to Sequoia VMs on Apple silicon Macs being able to use services such as iCloud using Apple ID, they now appear able to support full-strength FileVault when Apple ID is activated. This contrasts with FileVault supported by previous macOS guests, which appears comparable to that provided by Intel Macs without T2 [&#8230;] 
+
+<https://mjtsai.com/blog/2024/08/02/securing-virtual-machines-on-apple-silicon/>
+
+---
+
+## Unread RSS Reader for Mac
+
+date: 2024-08-02, from: Michael Tsai
+
+John Brayton: Unread for Mac is a native Mac app. The user interface is built with AppKit and a touch of SwiftUI. [&#8230;] Like on iPhone and iPad, on Mac you can easily switch between showing feed text, webpage text, or both for an individual article. The latter is for feeds that contain only a [&#8230;] 
+
+<https://mjtsai.com/blog/2024/08/02/unread-rss-reader-for-mac/>
+
+---
+
+## The Switch From File Paths to URLs
+
+date: 2024-08-02, from: Michael Tsai
+
+Quinn: I don&#8217;t think we ever documented this officially, but to understand this choice you have to look at the history of macOS. Traditional Mac OS did not use paths a lot. Rather, files were identified by an FSSpec, which contains a volume identifier, a directory ID, and a name. The directory ID was an [&#8230;] 
+
+<https://mjtsai.com/blog/2024/08/02/the-switch-from-file-paths-to-urls/>
+
+---
+
+## Snapshots Aren’t Backups
+
+date: 2024-08-02, from: Michael Tsai
+
+Howard Oakley: What is different is that restoring a whole volume from a snapshot is a one-way trip, and there is no undo. This is because snapshots subsequent to that used to restore from will be removed, and you won&#8217;t then be able to &#8216;roll forward&#8217; to a later snapshot. That contrasts with a normal [&#8230;] 
+
+<https://mjtsai.com/blog/2024/08/02/snapshots-arent-backups/>
+
+---
+
+## Override xdg-open behavior with xdg-override
+
+date: 2024-08-02, from: OS News
+
+Most application on GNU/Linux by convention delegate to xdg-open when they need to open a file or a URL. This ensures consistent behavior between applications and desktop environments: URLs are always opened in our preferred browser, images are always opened in the same preferred viewer. However, there are situations when this consistent behavior is not desired: for example, if we need to override default browser just for one application and only temporarily. This is where xdg-override helps: it replaces xdg-open with itself to alter the behavior without changing system settings. ↫ xdg-override GitHub page I love this project ever since I came across it a few days ago. Not because I need it &#8211; I really don&#8217;t &#8211; but because of the story behind its creation. The author of the tool, Dmytro Kostiuchenko, wanted Slack, which he only uses for work, to only open his work browser &#8211; which is a different browser from his default browser. For example, imagine you normally use Firefox for everything, but for all your work-related things, you use Chrome. So, when you open a link sent to you in Slack by a colleague, you want that specific link to open in Chrome. Well, this is not easily achieved in Linux. Applications on Linux tend to use freedesktop.org&#8217;s xdg-open for this, which looks at the file mimeapps.list to learn which application opens which file type or URL. To solve Kostiuchenko&#8217;s issue, changing the variable $XDG_CONFIG_HOME just for Slack to point xdg-open to a different configuration file doesn&#8217;t work, because the setting will be inherited by everything else spwaned from Slack itself. Changing mimeapps.list doesn&#8217;t work either, of course, since that would affect all other applications, too. So, what&#8217;s the actual solution? We’d like also not to change xdg-open implementation globally in our system: ideally, the change should only affect Slack, not all other apps. But foremost, diverging from upstream is very unpractical. However, in the spirit of this solution, we can introduce a proxy implementation of xdg-open, which we’ll &#8220;inject&#8221; into Slack by adding it to PATH. ↫ Dmytro Kostiuchenko xdg-override takes this idea and runs with it: It is based on the idea described above, but the script won’t generate proxy implementation. Instead, xdg-override will copy itself to /tmp/xdg-override-$USER/xdg-open and will set a few $XDG_OVERRIDE_* variables and the $PATH. When xdg-override is invoked from this new location as xdg-open, it’ll operate in a different mode, parsing $XDG_OVERRIDE_MATCH and dispatching the call appropriately. I tested this script briefly, but automated tests are missing, so expect some rough edges and bugs. ↫ Dmytro Kostiuchenko I don&#8217;t fully understand how it works, but I get the overall gist of what it&#8217;s doing. I think it&#8217;s quite clever, and solves a very specific issue in a non-destructive way. While it&#8217;s not something most people will ever need, it feels like something that if you do need it, it will quickly become a default part of your toolbox or workflow. 
+
+<https://www.osnews.com/story/140394/override-xdg-open-behavior-with-xdg-override/>
+
+---
+
+## The Rich Data Wonk
+
+date: 2024-08-02, from: Tedium site
+
+There‘s something weirdly comforting about Steve Ballmer’s unusual second act as a nonpartisan truth-teller, through his USAFacts nonprofit. 
+
+<https://feed.tedium.co/link/15204/16760547/steve-ballmer-usafacts-nonpartisan-commercials>
+
+---
+
+## NASA Johnson Dedicates Dorothy Vaughan Center to Women of Apollo
+
+date: 2024-08-02, from: NASA breaking news
+
+On the eve of the 55th anniversary of the Apollo 11 Moon landing, NASA’s Johnson Space Center in Houston commemorated the unsung heroes who helped make humanity’s first steps on the Moon possible.&#160; To celebrate their enduring legacy, Johnson named one of its central buildings the “Dorothy Vaughan Center in Honor of the Women of [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-dedicates-dorothy-vaughan-center-to-women-of-apollo/>
+
+---
+
+## Artemis II Core Stage Arrives at Kennedy
+
+date: 2024-08-02, from: NASA breaking news
+
+Teams transport NASA’s SLS (Space Launch System) core stage into the Vehicle Assembly Building at the agency’s Kennedy Space Center in Florida on July 24, 2024. Tugboats and towing vessels moved the Pegasus barge and 212-foot-long core stage 900-miles to the Florida spaceport from NASA’s Michoud Assembly Facility in New Orleans, where it was manufactured and assembled. [&#8230;] 
+
+<https://www.nasa.gov/image-article/artemis-ii-core-stage-arrives-at-kennedy/>
+
+---
+
+## There Are No Imaginary Boundaries for Dr. Ariadna Farrés-Basiana
+
+date: 2024-08-02, from: NASA breaking news
+
+Dr. Ariadna Farrés-Basiana would look up at the sky and marvel at the immensity of space when she was younger. Now, the bounds are limitless as she helps NASA explore the expansive universe by computing the trajectories and maneuvers to get a spacecraft into space. Name: Dr. Ariadna Farrés-BasianaTitle: Astrodynamics and solar radiation pressure specialist, [&#8230;] 
+
+<https://www.nasa.gov/people-of-nasa/goddard-people/there-are-no-imaginary-boundaries-for-dr-ariadna-farres-basiana/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-08-02, from: Miguel de Icaza Mastondon feed)
+
+<p>I like the Twitter ads that say “here ever?  Upgrade your premium”, because they are a reminder to close the app.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112893724114724934>
+
+---
+
+## Celebrating NASA’s Coast Guard Astronauts on Coast Guard Day
+
+date: 2024-08-02, from: NASA breaking news
+
+Each Aug. 4, Coast Guard Day commemorates the founding on Aug. 4, 1790, of the U.S. Coast Guard as the Revenue-Marine by Secretary of the Treasury Alexander Hamilton. Although considered an internal event for active duty and reserve Coast Guard members, we take the opportunity of Coast Guard Day to honor the astronauts who began [&#8230;] 
+
+<https://www.nasa.gov/history/celebrating-nasas-coast-guard-astronauts-on-coast-guard-day/>
+
+---
+
+## NASA Ames to Host Supercomputing Resources for UC Berkeley Researchers
+
+date: 2024-08-02, from: NASA breaking news
+
+Under a new agreement, NASA will host supercomputing resources for the University of California, Berkeley, at the agency’s Ames Research Center in California’s Silicon Valley. The agreement is part of an expanding partnership between Ames and UC Berkeley and will support the development of novel computing algorithms and software for a wide variety of scientific [&#8230;] 
+
+<https://www.nasa.gov/general/nasa-ames-to-host-supercomputing-resources-for-uc-berkeley-researchers/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-02, from: Dave Winer's Scripting News)
+
+<a href="https://blogroll.social/">Blogrolls</a>, in the 90s, were the beginning of the social web. In the 20s, they can bring today’s social web into blogs. 
+
+<http://scripting.com/2024/08/02.html#a171715>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-08-02, from: Miguel de Icaza Mastondon feed)
+
+<p>I was bothered by having to have two sets of popups in the toolbar, so I collapsed them into one:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112893308096818132>
+
+---
+
+## MESSENGER – From Setbacks to Success
+
+date: 2024-08-02, from: NASA breaking news
+
+The excerpts below are taken from Discovery Program oral history interviews conducted in 2009 by Dr. Susan Niebur and tell the story of the hurdles the MESSENGER (MErcury Surface, Space ENvironment, GEochemistry, and Ranging) mission team faced with the technical requirements of visiting Mercury, budget challenges, and schedule impacts —all while keeping their mission goals [&#8230;] 
+
+<https://www.nasa.gov/history/messenger-from-setbacks-to-success/>
 
 ---
 
@@ -277,6 +542,85 @@ A new weekly snapshot of FLTK 1.4.x (master) is now available
 
 ---
 
+## Announcing WASI 0.2.1
+
+date: 2024-08-02, updated: 2024-08-02, from: Bytecode Alliance News
+
+Welcome to the Bytecode Alliance blog. The Bytecode Alliance is a nonprofit organization dedicated to creating secure new software foundations, building on standards such as WebAssembly and WebAssembly System Interface (WASI). 
+
+<https://bytecodealliance.org/articles/WASI-0.2.1>
+
+---
+
+## Get Ready for PGconf.EU 2024: Schedule Now Live!
+
+date: 2024-08-02, from: PostgreSQL News
+
+<p>We invite you to the 14th annual <a href="https://2024.pgconf.eu/">PostgreSQL Conference Europe</a> that will take place in Athens on October 22-24! </p>
+<p>The <a href="https://www.postgresql.eu/events/pgconfeu2024/schedule/">schedule</a> for the conference has now been published, and as you can see, we’ll have a great, diverse speaker lineup this year:</p>
+<p><a href="https://www.postgresql.eu/events/pgconfeu2024/schedule/">https://www.postgresql.eu/events/pgconfeu2024/schedule/</a></p>
+<p>The conference is the largest PostgreSQL event in Europe and year after year brings together both renowned and emerging names in the Postgres ecosystem. Database developers, administrators, users, and open-source enthusiasts from all around the globe will come together to discuss the challenges, solutions, future of the database, and the upcoming release.</p>
+<p>The first day of the conference is packed with half- and full-day Postgres training sessions, taught by PostgreSQL experts from around the world. These sessions have a limited number of places, so please register for those as soon as possible.</p>
+<p>The conference always ends up with a long waiting list, so if you want to guarantee a seat, <a href="https://2024.pgconf.eu/registration/">book your tickets</a> today!</p>
+<p>We look forward to seeing you in the Greek capital in October!</p> 
+
+<https://www.postgresql.org/about/news/get-ready-for-pgconfeu-2024-schedule-now-live-2905/>
+
+---
+
+## pgmoneta 0.13
+
+date: 2024-08-02, from: PostgreSQL News
+
+<p>The <a href="https://pgmoneta.github.io/">pgmoneta</a> community is happy to
+announce version <a href="https://pgmoneta.github.io/release/announcement/2024/07/31/pgmoneta-0.13.0.html">0.13.0</a>.</p>
+<p><strong>New features</strong></p>
+<ul>
+<li>Detailed information about a backup</li>
+<li>Verify a backup</li>
+<li>Support more hash algorithms for backup manifest</li>
+<li>Allow compression and decompression from the command line interface</li>
+</ul>
+<p><strong>pgmoneta</strong></p>
+<p><a href="https://pgmoneta.github.io/">pgmoneta</a> is a backup / restore solution for <a href="https://www.postgresql.org/">PostgreSQL</a> 13+.</p>
+<p>Read our <a href="https://pgmoneta.github.io/gettingstarted.html">getting started</a> guide to setup
+<a href="https://pgmoneta.github.io/">pgmoneta</a> for your backup needs.</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Full backup</li>
+<li>Restore</li>
+<li>Compression (gzip, zstd, lz4, bzip2)</li>
+<li>AES encryption support</li>
+<li>Symlink support</li>
+<li>WAL shipping support</li>
+<li>Hot standby</li>
+<li>Prometheus support</li>
+<li>Remote management</li>
+<li>Offline mode</li>
+<li>Transport Layer Security (TLS) v1.2+ support</li>
+<li>Daemon mode</li>
+<li>User vault</li>
+</ul>
+<p>Learn more on our <a href="https://pgmoneta.github.io/">web site</a> or <a href="https://github.com/pgmoneta/pgmoneta">GitHub</a>.
+Follow on <a href="https://twitter.com/pgmoneta">Twitter</a>.</p>
+<p><a href="https://pgmoneta.github.io/">pgmoneta</a> is released under the <a href="https://opensource.org/licenses/BSD-3-Clause">3-clause BSD license</a>.</p> 
+
+<https://www.postgresql.org/about/news/pgmoneta-013-2904/>
+
+---
+
+## PgBouncer 1.23.1 released
+
+date: 2024-08-02, from: PostgreSQL News
+
+<p>PgBouncer 1.23.1 has been released. This release fixes two crashes that could occur since 1.23.0. If you are on 1.23.0, upgrading to 1.23.1 is strongly recommended.</p>
+<p>See <a href="https://www.pgbouncer.org/2024/08/pgbouncer-1-23-1">https://www.pgbouncer.org/2024/08/pgbouncer-1-23-1</a> for more information, the detailed changelog, and download links.</p>
+<p>PgBouncer is a lightweight connection pooler for PostgreSQL.</p> 
+
+<https://www.postgresql.org/about/news/pgbouncer-1231-released-2906/>
+
+---
+
 ## Play Store could soon handle updates for sideloaded applications
 
 date: 2024-08-01, from: OS News
@@ -437,7 +781,7 @@ An entire industry has been built - and will collapse - because many people have
 
 date: 2024-08-01, from: Tedium site
 
-Logitech’s hinting at a mouse with a subscription suggests hardware companies want to become addicted to subscription revenue, too. 
+Logitech’s hinting at a “forever mouse” suggests hardware companies want to become addicted to subscription revenue, too. 
 
 <https://feed.tedium.co/link/15204/16759218/logitech-forever-mouse-hardware-subscription>
 
@@ -756,19 +1100,6 @@ date: 2024-08-01, from: OS News
 Yesterday I highlighted a study that found that AI and ML, and the expectations around them, are actually causing people to need to work harder and more, instead of less. Today, I have another study for you, this time focusing a more long-term issue: when you use something like ChatGPT to troubleshoot and fix a bug, are you actually learning anything? A professor at MIT divided a group of students into three, and gave them a programming task in a language they did not know (FORTRAN). One group was allowed to use ChatGPT to solve the problem, the second group was told to use Meta’s Code Llama large language model (LLM), and the third group could only use Google. The group that used ChatGPT, predictably, solved the problem quickest, while it took the second group longer to solve it. It took the group using Google even longer, because they had to break the task down into components. Then, the students were tested on how they solved the problem from memory, and the tables turned. The ChatGPT group “remembered nothing, and they all failed,” recalled Klopfer, a professor and director of the MIT Scheller Teacher Education Program and The Education Arcade. Meanwhile, half of the Code Llama group passed the test. The group that used Google? Every student passed. ↫ Esther Shein at ACM I find this an interesting result, but at the same time, not a very surprising one. It reminds me a lot of that when I went to high school, I was part of the first generation whose math and algebra courses were built around using a graphic calculator. Despite being able to solve and graph complex equations with ease thanks to our TI-83, we were, of course, still told to include our &#8220;work&#8221;, the steps taken to get from the question to the answer, instead of only writing down the answer itself. Since I was quite good &#8220;at computers&#8221;, and even managed to do some very limited programming on the TI-83, it was an absolute breeze for me to hit some buttons and get the right answers &#8211; but since I knew, and know, absolutely nothing about math, I couldn&#8217;t for the life of me explain how I got to the answers. Using ChatGPT to fix your programming problem feels like a very similar thing. Sure, ChatGPT can spit out a workable solution for you, but since you aren&#8217;t aware of the steps between problem and solution, you aren&#8217;t actually learning anything. By using ChatGPT, you&#8217;re not actually learning how to program or how to improve your skills &#8211; you&#8217;re just hitting the right buttons on a graphing calculator and writing down what&#8217;s on the screen, without understanding why or how. I can totally see how using ChatGPT for boring boilerplate code you&#8217;ve written a million times over, or to point you in the right direction while still coming up with your own solution to a problem, can be a good and helpful thing. I&#8217;m just worried about a degradation in skill level and code quality, and how society will, at some point, pay the price for that. 
 
 <https://www.osnews.com/story/140379/the-impact-of-ai-on-computer-science-education/>
-
----
-
-## The Gig Is Up
-
-date: 2024-08-01, from: Logic Magazine
-
-
-                <p>“The eight-hour workday was a hard-won victory by labor organizers of yesterday. Today, gig corporations are actively undermining those victories.”</p>
-
-             
-
-<https://logicmag.io/issue-21-medicine-and-the-body/the-gig-is-up>
 
 ---
 

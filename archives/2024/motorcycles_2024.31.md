@@ -1,11 +1,51 @@
 ---
 title: motorcycles 2024.31
-updated: 2024-08-02 08:37:52
+updated: 2024-08-03 09:52:21
 ---
 
 # motorcycles 2024.31
 
-(date: 2024-08-02 08:37:52)
+(date: 2024-08-03 09:52:21)
+
+---
+
+## 2024 Honda Shadow Aero
+
+date: 2024-08-02, from: Cycle World News
+
+Honda’s Shadow Aero is a classically styled cruiser with a midsize powertrain. 
+
+<https://www.cycleworld.com/honda/shadow-aero/>
+
+---
+
+## Hydrogen Suzuki Evolves
+
+date: 2024-08-02, from: Cycle World News
+
+Suzuki is among a consortium of Japanese companies working on making hydrogen-powered vehicles more practical. The biggest hurdle has been packing fuel tanks. 
+
+<https://www.cycleworld.com/motorcycle-news/hydrogen-suzuki-scooter-prototype/>
+
+---
+
+## 2024 Honda Trail125
+
+date: 2024-08-02, from: Cycle World News
+
+Honda’s Trail125 is a reincarnation of the popular CT series of the early 1960s to ’80s. This new iteration carries on the tradition with modern components. 
+
+<https://www.cycleworld.com/honda/trail125/>
+
+---
+
+## 2024 Honda Rebel 500
+
+date: 2024-08-02, from: Cycle World News
+
+Honda’s Rebel 500 fills the gap between entry-level cruisers and large-displacement machines. 
+
+<https://www.cycleworld.com/honda/rebel-500/>
 
 ---
 

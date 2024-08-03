@@ -1,11 +1,73 @@
 ---
 title: central coast 2024.31
-updated: 2024-08-02 08:37:45
+updated: 2024-08-03 09:52:16
 ---
 
 # central coast 2024.31
 
-(date: 2024-08-02 08:37:45)
+(date: 2024-08-03 09:52:16)
+
+---
+
+## Jury Starts Deliberating in Santa Barbara Stabbing Attempted-Murder Case
+
+date: 2024-08-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="After four weeks of trial for an attempted murder case, a Superior Court jury is deliberating. Cora Vides, 21, is accused of stabbing a classmate and friend at her home three years ago." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Attorneys delivered closing arguments Thursday in the attempted-murder trial of a 21-year-old Santa Barbara woman accused of stabbing a friend in 2021. Cora Vides, who was 18 at the time [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/jury-starts-deliberating-in-santa-barbara-stabbing-attempted-murder-case/">Jury Starts Deliberating in Santa Barbara Stabbing Attempted-Murder Case</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/jury-starts-deliberating-in-santa-barbara-stabbing-attempted-murder-case/>
+
+---
+
+## Olympics Roundup: Dos Pueblos Alums Go 1-1 in Group Finales
+
+date: 2024-08-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="660" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Ryann-Olympics.jpeg?fit=1024%2C660&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Ryann-Olympics.jpeg?w=1464&amp;ssl=1 1464w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Ryann-Olympics.jpeg?resize=300%2C193&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Ryann-Olympics.jpeg?resize=1024%2C660&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Ryann-Olympics.jpeg?resize=768%2C495&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Ryann-Olympics.jpeg?resize=1200%2C773&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Ryann-Olympics.jpeg?resize=400%2C258&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Ryann-Olympics.jpeg?resize=706%2C455&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Ryann-Olympics.jpeg?fit=1024%2C660&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>For the third time in four games, the U.S. Women’s Water Polo Team held an opponent under six goals as they routed France, 17-5, and booked a spot in the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/olympics-roundup-dos-pueblos-alums-go-1-1-in-group-finales/">Olympics Roundup: Dos Pueblos Alums Go 1-1 in Group Finales</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/olympics-roundup-dos-pueblos-alums-go-1-1-in-group-finales/>
+
+---
+
+## Rep. Carbajal to Host Town Hall in Lompoc on Aug. 5
+
+date: 2024-08-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Rep. Salud Carbajal will host the ninth Town Hall of his current congressional term at 5:30 p.m. Monday Aug. 5 at Dick DeWees Community Senior Center, 1120 W Ocean Ave., [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/rep-carbajal-to-host-town-hall-in-lompoc-on-aug-5/">Rep. Carbajal to Host Town Hall in Lompoc on Aug. 5</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/rep-carbajal-to-host-town-hall-in-lompoc-on-aug-5/>
+
+---
+
+## Paint Brushes Ready? Goleta Library Creek Week Art Contest Now Open
+
+date: 2024-08-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Goleta Valley Library’s Third Annual Creek Week Art Contest, in celebration of Creek Week, Sept. 21-28, is now underway. The library, along with Goleta’s Environmental Services Division, invites community members [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/paint-brushes-ready-goleta-library-creek-week-art-contest-now-open/">Paint Brushes Ready? Goleta Library Creek Week Art Contest Now Open</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/paint-brushes-ready-goleta-library-creek-week-art-contest-now-open/>
+
+---
+
+## One-Way Reversing Traffic Control on Hwy. 166 Begins Monday
+
+date: 2024-08-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Construction continues at the Highway 166/Black Road intersection near Santa Maria as part of the Traffic Signal and Safety Improvement project. Work at the intersection of Highway 166 at Black [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/one-way-reversing-traffic-control-on-hwy-166-begins-monday/">One-Way Reversing Traffic Control on Hwy. 166 Begins Monday</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/one-way-reversing-traffic-control-on-hwy-166-begins-monday/>
 
 ---
 

@@ -1,11 +1,71 @@
 ---
 title: columns 2024.31
-updated: 2024-08-02 08:37:48
+updated: 2024-08-03 09:52:17
 ---
 
 # columns 2024.31
 
-(date: 2024-08-02 08:37:48)
+(date: 2024-08-03 09:52:17)
+
+---
+
+## Oops. I sent out the klatch early. 
+
+date: 2024-08-02, from: Robert Reich's blog
+
+Sorry! My bad. 
+
+<https://robertreich.substack.com/p/oops-i-sent-out-the-klatch-early>
+
+---
+
+## Will Trump dump Vance? The Coffee Klatch | August 3, 2024
+
+date: 2024-08-02, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly 
+
+<https://robertreich.substack.com/p/will-trump-dump-vance-the-coffee>
+
+---
+
+## Friday Squid Blogging: Treating Squid Parasites
+
+date: 2024-08-02, updated: 2024-08-02, from: Bruce Schneier blog
+
+<p>A newly discovered parasite that attacks squid eggs has been <a href="https://www.technologynetworks.com/applied-sciences/news/sustainable-treatment-shields-squid-eggs-from-newly-discovered-parasite-388915">treated</a>.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/08/friday-squid-blogging-treating-squid-parasites.html>
+
+---
+
+## Bloomberg Broke an Embargo and Put Evan Gershkovich’s Release at Risk Just to Claim a Scoop
+
+date: 2024-08-02, updated: 2024-08-02, from: Daring Fireball
+
+ 
+
+<https://nymag.com/intelligencer/article/bloombergs-risky-embargo-breaking-evan-gershkovich-scoop.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-02, from: Dave Winer's Scripting News)
+
+<a href="https://blogroll.social/">Blogrolls</a>, in the 90s, were the beginning of the social web. In the 20s, they can bring today’s social web into blogs. 
+
+<http://scripting.com/2024/08/02.html#a171715>
+
+---
+
+## August 1, 2024
+
+date: 2024-08-02, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-1-2024-2dd>
 
 ---
 

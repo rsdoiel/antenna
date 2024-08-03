@@ -1,15 +1,167 @@
 ---
 title: socal north 2024.31
-updated: 2024-08-02 08:37:42
+updated: 2024-08-03 09:52:13
 ---
 
 # socal north 2024.31
 
-(date: 2024-08-02 08:37:42)
+(date: 2024-08-03 09:52:13)
 
 ---
 
-## Why Pacoima’s StylesVille barbershop is about to get historic status
+## Crimewatch: July 2024
+
+date: 2024-08-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sources: UCPD. Graphic reporting by Gabrielle Gillette, Assistant News Editor. Interactive by Liam McGlynn, Data Editor.
+UCPD recorded 546 unique entries in its July daily crime log. 
+
+<https://dailybruin.com/2024/08/02/crimewatch-july-2024/>
+
+---
+
+## Film review: ‘Trap’ falls short of trapping audience until finale with unrealistic turns
+
+date: 2024-08-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+“Trap” hopes to ensnare audiences in a tightly wound thriller but releases all of its tension – and the audience’s attention – well before the finish line. 
+
+<https://dailybruin.com/2024/08/02/film-review-trap-falls-short-of-trapping-audience-until-finale-with-unrealistic-turns/>
+
+---
+
+## Former Bruin tennis stars fail to advance past second rounds at Paris Olympics
+
+date: 2024-08-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Tennis at the 2024 Paris Olympics began Saturday.
+But by the conclusion of the second round of matches, all three former Bruins competing were eliminated.
+Knocked out by Wednesday&#8217;s end, Ena Shibahara, Marcos Giron and Jean-Julien Rojer left Roland Garros empty-handed. 
+
+<https://dailybruin.com/2024/08/02/former-bruin-tennis-stars-fail-to-advance-past-second-rounds-at-paris-olympics/>
+
+---
+
+## Friday Links: August 2, 2024
+
+date: 2024-08-02, from: California Native Plants Society
+
+<p>Stories about roasting agave; Casa Apocalyptica; the Central Valley; gardening in a changing climate; and more.</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-august-2-2024-39524">Friday Links: August 2, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-august-2-2024-39524>
+
+---
+
+## ‘Taking it off the speculative market’: These nonprofits help tenants afford to stay put
+
+date: 2024-08-02, updated: 2024-08-02, from: The LAist
+
+California community land trusts, which buy land and sell or rent the buildings on it to low-income residents, have tripled. 
+
+<https://laist.com/news/housing-homelessness/taking-it-off-the-speculative-market-these-nonprofits-help-tenants-afford-to-stay-put>
+
+---
+
+## US Supreme Court overturns Chevron doctrine, giving power to courts over agencies
+
+date: 2024-08-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+The U.S. Supreme Court ruled in a 6-3 decision June 28 to overturn the Chevron doctrine.
+The Chevron doctrine – named after the 1984 Supreme Court case Chevron U.S.A., Inc. 
+
+<https://dailybruin.com/2024/08/02/us-supreme-court-overturns-chevron-doctrine-giving-power-to-courts-over-agencies/>
+
+---
+
+## Enjoy the Final Four Weeks of Concerts in the Park with Convenient Transportation Options
+
+date: 2024-08-02, from: City of Santa Clarita
+
+<p>Santa Clarita Offers Multiple Ways to Get to Central Park for Free Summer Concerts The City of Santa Clarita&#8217;s Concerts in the Park series, presented by Logix Federal Credit Union, continues at Central Park (27150 Bouquet Canyon Road) every Saturday through August 24. As we enter the final four weeks, residents are encouraged to explore [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/08/02/enjoy-the-final-four-weeks-of-concerts-in-the-park-with-convenient-transportation-options/">Enjoy the Final Four Weeks of Concerts in the Park with Convenient Transportation Options</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/08/02/enjoy-the-final-four-weeks-of-concerts-in-the-park-with-convenient-transportation-options/>
+
+---
+
+## UCLA swim and dive makes waves at Paris Olympics, Daley wins silver medal
+
+date: 2024-08-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two UCLA student-athletes. One coach. One Olympic Games.
+UCLA assistant coach Tom Daley walked away with an Olympic silver medal.
+But the student-athletes walked away medal-less, being eliminated in their first rounds of competition. 
+
+<https://dailybruin.com/2024/08/02/ucla-swim-and-dive-makes-waves-at-paris-olympics-daley-wins-silver-medal/>
+
+---
+
+## ME Main Productions to Present “Agatha’s Murder Mystery Dinner Party” at The MAIN
+
+date: 2024-08-02, from: City of Santa Clarita
+
+<p>Step into Agatha’s world and solve the mystery alongside Houdini, Edgar Allan Poe and more! Agatha’s Murder Mystery Dinner Party is a laugh-packed whodunit, solved by the biggest who’s who in crime fiction of 1925! Sir Arthur Conan Doyle, Dorothy Sayers, Edgar Allan Poe, Mary Shelley and Harry Houdini try to help Agatha Christie find [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/08/02/me-main-productions-to-present-agathas-murder-mystery-dinner-party-at-the-main/">ME Main Productions to Present &#8220;Agatha&#8217;s Murder Mystery Dinner Party&#8221; at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/08/02/me-main-productions-to-present-agathas-murder-mystery-dinner-party-at-the-main/>
+
+---
+
+## Join in the Kayak Clean-up
+
+date: 2024-08-02, from: Catalina Islander
+
+Love Catalina Island, WetSpot Rentals, and Bleu World are hosting the next Kayak Clean-up event on Thursday, Aug. 8. Under their mutual support of Caring For Catalina and the ocean environment, volunteers are invited to join in the efforts and have fun kayaking and spotting sea life along the way. The day will begin at [&#8230;] 
+
+<https://thecatalinaislander.com/join-in-the-kayak-clean-up/>
+
+---
+
+## Dinner and a Movie with Elvis returns
+
+date: 2024-08-02, from: Catalina Islander
+
+The Catalina Museum for Art &#38; History has announced the return of the beloved tradition, Dinner and a Movie with Elvis. This exceptional event guarantees an evening of entertainment, music and cinematic delight on Saturday, Aug. 17, from 6 &#8211; 10 p.m. The evening begins in the Schreiner Family Plaza, where guests will indulge in [&#8230;] 
+
+<https://thecatalinaislander.com/dinner-and-a-movie-with-elvis-returns/>
+
+---
+
+## CI Concert Series brings back Taimane
+
+date: 2024-08-02, from: Catalina Islander
+
+World-renowned performer Taimane will be the next star to take the stage in the Catalina Island Concert Series on Aug. 10, at 8 p.m. The free, family-friendly concert series takes place throughout the summer at Wrigley Stage overlooking Avalon Bay. Taimane last performed in the series in 2014. The evening performance will begin with a [&#8230;] 
+
+<https://thecatalinaislander.com/ci-concert-series-brings-back-taimane/>
+
+---
+
+## Sheriff’s Log: July 25 to July 31, 2024
+
+date: 2024-08-02, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of July 25 to July 31, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<https://thecatalinaislander.com/sheriffs-log-july-25-to-july-31-2024/>
+
+---
+
+## Avalon seeks state grant
+
+date: 2024-08-02, from: Catalina Islander
+
+The city of Avalon was scheduled to submit a grant application to the California Division of Boating and Waterways on Thursday, Aug. 1. The city is seeking money to design and build a replacement for the Pier End Float System, according to a recent staff report by Assistant Harbormaster Kevin Schmidt and Administrative Analyst Aliana [&#8230;] 
+
+<https://thecatalinaislander.com/avalon-seeks-state-grant/>
+
+---
+
+## This LA barbershop could soon be made a historic landmark
 
 date: 2024-08-02, updated: 2024-08-02, from: The LAist
 
@@ -23,7 +175,7 @@ The Black-owned shop has been at its current location since 1977. It was part of
 
 date: 2024-08-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="516" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?fit=1024%2C516&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=300%2C151&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=1024%2C516&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=768%2C387&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=1536%2C773&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=2048%2C1031&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=1200%2C604&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=1568%2C790&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=2000%2C1007&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=400%2C201&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=706%2C355&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?fit=1024%2C516&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="516" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?fit=1024%2C516&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=300%2C151&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=1024%2C516&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=768%2C387&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=1536%2C773&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=2048%2C1031&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=1200%2C604&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=1568%2C790&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=2000%2C1007&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=400%2C201&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?resize=706%2C355&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Teriyaki-Madness-Break-in-scaled.jpg?fit=1024%2C516&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>For the second night in a row, multiple businesses in the City of San Fernando were broken into.&#160; Last night Flor de Lima and La Michoacana were vandalized, while Teriyaki [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/08/01/sfpd-releases-video-from-second-night-of-break-ins-in-the-city-of-san-fernando/">SFPD Releases Video from Second Night of Break-Ins in the City of San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -51,6 +203,18 @@ date: 2024-08-01, updated: 2024-08-02, from: The LAist
 Los Angeles County districts have until August 9 to decide whether to ask local voters to approve bonds and parcel taxes. 
 
 <https://laist.com/news/education/los-angeles-county-school-bond-election-deadline-2024>
+
+---
+
+## Two Ventura County Ports Drive Innovative Solution to Improve Trade
+
+date: 2024-08-01, from: Port Hueneme
+
+<p>&#160; Download Press Release Contact: Letitia Austin Public and Gov’t Relations Manager Laustin@Portofh.org &#160; Contact: Todd Mitchell Senior Business Operations Manager tmitchell@venturaharbor.com (805) 621-7169 &#160; [PORT HUENEME, CA and VENTURA,&#8230;</p>
+<p>The post <a href="https://www.portofhueneme.org/two-ventura-county-ports-drive-innovative-solution-to-improve-trade/">Two Ventura County Ports Drive Innovative Solution to Improve Trade</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
+ 
+
+<https://www.portofhueneme.org/two-ventura-county-ports-drive-innovative-solution-to-improve-trade/>
 
 ---
 

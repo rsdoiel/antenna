@@ -1,11 +1,41 @@
 ---
 title: mid central 2024.31
-updated: 2024-08-02 08:37:45
+updated: 2024-08-03 09:52:15
 ---
 
 # mid central 2024.31
 
-(date: 2024-08-02 08:37:45)
+(date: 2024-08-03 09:52:15)
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-08-02, from: Amateur Radio Relay League News
+
+<p><span>High solar activity continued this week, with average daily sunspot number changing from 208.1 to 208.9 and average daily solar flux from 193 to 207.3.<span>  </span>Average daily planetary A index shifted from 6 to 14, and average middle latitude A index from 7.3 to 13.1. </span></p><p><span>The Penticton observatory in British Columbia reported a solar flux of 400.7 at noon on July 30, which we threw out due to obvious overl...</span></p> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-839>
+
+---
+
+## Generational Legacy Carried on in ARRL Teachers Institute
+
+date: 2024-08-02, from: Amateur Radio Relay League News
+
+<p>As ARRL continues to empower teachers to bring amateur radio and radio technology into their classrooms through the ARRL Teachers Institute on Wireless Technology, many generous donors have stepped up to enable the work.</p><p>Parents can make all the difference in someone’s success. David Ginsberg, N3BKV, knows that well. His parents, Hy and Mimi Ginsberg, supported his passions, “Whether it was my m...</p> 
+
+<http://www.arrl.org/news/view/generational-legacy-carried-on-in-arrl-teachers-institute>
+
+---
+
+## ARRL Teachers Institute on Wireless Technology Adds Third Level
+
+date: 2024-08-02, from: Amateur Radio Relay League News
+
+<p>ARRL continues to develop the highly successful ARRL Teachers Institute on Wireless Technology. Much as is done with new equipment in the amateur radio hobby, a prototype is being tinkered with this week: TI3. The third phase of the program is centered around space. Teachers who have each been through the previous versions of the program are at ARRL Headquarters in Newington, Connecticut, to te...</p> 
+
+<http://www.arrl.org/news/view/arrl-teachers-institute-on-wireless-technology-adds-third-level>
 
 ---
 

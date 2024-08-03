@@ -1,11 +1,66 @@
 ---
 title: writing 2024.31
-updated: 2024-08-02 08:37:49
+updated: 2024-08-03 09:52:18
 ---
 
 # writing 2024.31
 
-(date: 2024-08-02 08:37:49)
+(date: 2024-08-03 09:52:18)
+
+---
+
+## 🚶‍➡️⛰️ #211 - Many Paths Up The Mountain
+
+date: 2024-08-02, from: Interesting, a blog on writing
+
+Which way are you taking? 
+
+<https://inneresting.substack.com/p/211-many-paths-up-the-mountain>
+
+---
+
+## Taral Wayne (1951-2024)
+
+date: 2024-08-02, from: Locus Magazine
+
+<p>SF artist and editor Taral Wayne, 72, died at home on July 31, 2024.</p>
+<p>Wayne MacDonald was born October 12, 1951 in Toronto, Canada. He took the pen name Taral from an invented language, Siroihin, introduced in one of his fanzines. He joined the Ontario Science Fiction Club in 1971, contributing works of art and writing to fanzines and semiprozines, and publishing his own journals, including Delta Psi, New Toy,  <a href="https://locusmag.com/2024/08/taral-wayne-1951-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/taral-wayne-1951-2024/>
+
+---
+
+## Screenwriter Spotlight: How Joe Russo Broke into Hollywood Without Knowing Anyone
+
+date: 2024-08-02, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/screenwriter-spotlight-how-joe-russo-broke-into-hollywood-without-knowing-anyone" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Screenwriter%20Spotlight_%20How%20Joe%20Russo%20Broke%20into%20Hollywood%20Without%20Knowing%20Anyone.jpg" alt="Screenwriter Spotlight: How Joe Russo Broke into Hollywood Without Knowing Anyone" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p style="font-weight: normal;"><span style="font-size: 14px; color: #434343;">If you don't know anybody in the film industry, breaking into Hollywood might seem like an impossible feat. Oh, but you'd be mistaken! In fact, we chatted with Joe Russo, screenwriter of <em>The Inheritance, Soul Mates, </em>and<em> The Au Pair Nightmare</em>, about the journey he took to become a professional writer, director, and producer. (Hint: it didn't include having Hollywood connections or living in Los Angeles.)</span></p> 
+
+<https://blog.finaldraft.com/screenwriter-spotlight-how-joe-russo-broke-into-hollywood-without-knowing-anyone>
+
+---
+
+## Mobile improvements
+
+date: 2024-08-02, from: IF Database News
+
+Pages for individual games work much better on mobile browsers now. In addition, we've added the ability to collapse the "Welcome to IFDB!" section, so you can see more IFDB news on the home page. (If you sign in and collapse the section, we'll remember that you prefer the section collapsed.) 
+
+<https://ifdb.org/news?item=140>
+
+---
+
+## Featured Friday: Spies & Secret Agents
+
+date: 2024-08-02, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we enter the clandestine world of spies and secret agents to see how their writers use action, tension and character to keep us on the edge of our seats. Our collection includes: Argo by [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-spies-secret-agents">Featured Friday: Spies & Secret Agents</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/featured-friday-spies-secret-agents>
 
 ---
 
@@ -40,7 +95,7 @@ date: 2024-08-01, from: Final Draft blog
 
 date: 2024-08-01, from: Locus Magazine
 
-<p>Finalists for the 2023 Caine Prize for African Writing, including several works of genre interest, have been announced, including <strong>Breastmilk</strong> by Pemi Aguda (One Story 5/27/21).</p>
+<p>Finalists for the 2024 Caine Prize for African Writing, including several works of genre interest, have been announced, including <strong>Breastmilk</strong> by Pemi Aguda (One Story 5/27/21).</p>
 <p>The winner will be selected by a panel of judges and announced at an awards dinner to be held September 17, 2024. The winner will receive a £10,000 prize.</p>
 <p>For more information, see the Caine Prize website.</p>
 

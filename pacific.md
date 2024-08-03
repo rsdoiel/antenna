@@ -1,11 +1,108 @@
 ---
 title: pacific 2024.31
-updated: 2024-08-02 08:37:44
+updated: 2024-08-03 09:52:14
 ---
 
 # pacific 2024.31
 
-(date: 2024-08-02 08:37:44)
+(date: 2024-08-03 09:52:14)
+
+---
+
+## Beach volleyball’s Glagau is Big West’s NCAA Woman of the Year nominee
+
+date: 2024-08-02, from: University of Hawaiʻi News
+
+<p>It’s the second time in the last three years that a <abbr>UH</abbr> beach volleyball player earned the distinction as the Big West nominee.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/02/glagau-woman-of-the-year-nominee/">Beach volleyball’s Glagau is Big West’s <abbr>NCAA</abbr> Woman of the Year nominee</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/02/glagau-woman-of-the-year-nominee/>
+
+---
+
+## Inclusive gaming: UH pioneers Hawaiʻi’s first esports disability camp
+
+date: 2024-08-02, from: University of Hawaiʻi News
+
+<p>Participants learned to build <abbr>PC</abbr>s, create in-game avatars and practice online gaming safety.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/02/uh-esports-disability-camp/">Inclusive gaming: <abbr>UH</abbr> pioneers Hawaiʻi’s first esports disability camp</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/02/uh-esports-disability-camp/>
+
+---
+
+## Sharks critical to ocean ecosystems, more protection needed
+
+date: 2024-08-02, from: University of Hawaiʻi News
+
+<p>Tiger sharks and great whites play an oversized role in healthy oceans, but they are often the most affected by fishing.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/02/big-sharks/">Sharks critical to ocean ecosystems, more protection needed</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/02/big-sharks/>
+
+---
+
+## Creative resistance: Guam's ‘Ta Nå'i Ånimu’ exhibit highlights activism in indigenous art 
+
+date: 2024-08-02, from: Pacific Island Times
+
+By Johanna Salinas “Our work is more than just creativity; it’s an act of resistance in a world where what is sacred to us indigenous... 
+
+<https://www.pacificislandtimes.com/post/creative-resistance-guam-s-ta-n%C3%A5-i-%C3%A5nimu-exhibit-highlights-activism-in-indigenous-art>
+
+---
+
+## Step behind the velvet rope into Kevin Hart’s Coramino Live Lounge
+
+date: 2024-08-02, updated: 2024-08-02, from: Marianas Variety
+
+(BPT) - For the first time ever, Kevin is inviting guests to get a front row seat into how he lives. Think inner circle levels of exclusivity. For three nights only, guests will step behind the velvet rope for two of Kevin’s favorite things: good company and great tequila. 
+
+<https://www.mvariety.com/online_features/travel/step-behind-the-velvet-rope-into-kevin-hart-s-coramino-live-lounge/article_ff273ca0-db41-548e-9322-ce7ee4b380ab.html>
+
+---
+
+## UH men’s basketball gets commitment from 6-10 player from Netherlands
+
+date: 2024-08-02, from: Hawaii Tribune Harold
+
+
+				<p>The University of Hawaii men&#8217;s basketball team reinforced the post with today&#8217;s commitment from 6-foot-10, 215-pound Jerome Palm.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/02/sports/uh-mens-basketball-gets-commitment-from-6-10-player-from-netherlands/>
+
+---
+
+## Update On Efforts to End Homelessness
+
+date: 2024-08-02, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Efforts to help the unhoused population in the islands has been a continual struggle for decades...</p>
+<p>The post <a href="https://www.pbshawaii.org/update-on-efforts-to-end-homelessness/">Update On Efforts to End Homelessness</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/update-on-efforts-to-end-homelessness/>
+
+---
+
+## Buying a new home? 3 ways to master your mortgage and save
+
+date: 2024-08-02, updated: 2024-08-02, from: Marianas Variety
+
+(BPT) - It's probably an understatement to say that buying a home can feel overwhelming, especially in the current housing environment. From the different types of loans and lenders to the hidden fees that drive up costs, it's easy to feel lost, confused and unsure if you're making the right decisions for you and your household. In fact, a recent study from the JPMorgan Chase Institute shows that a lack of understanding the mortgage process could lead to unfavorable terms in the long run and a higher risk of costs. 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/buying-a-new-home-3-ways-to-master-your-mortgage-and-save/article_243e13d6-6900-5c5e-9e2a-d8f2cbc3aa2a.html>
+
+---
+
+## New Book By Gary Vaynerchuk  Teaches Kids The Importance of Balance
+
+date: 2024-08-02, updated: 2024-08-02, from: Marianas Variety
+
+(NAPSI)—Here’s good news for many parents: Teaching kids to look at both sides of an issue can be easier and more delightful than they realize. 
+
+<https://www.mvariety.com/online_features/family_living/new-book-by-gary-vaynerchuk-teaches-kids-the-importance-of-balance/article_6ef4c08d-34cf-553e-8d38-a766372a7d4b.html>
 
 ---
 
@@ -268,6 +365,30 @@ date: 2024-08-02, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/08/02/entertainment/aerial-acrobatics-on-display-in-fleurish-new-production-is-saturday-at-the-palace/>
+
+---
+
+## Green announces $4 billion settlement to resolve Maui wildfire lawsuits
+
+date: 2024-08-02, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green today announced &#8220;a historic&#8221; $4 billion settlement to resolve more than 400 lawsuits filed after last year&#8217;s deadly Maui wildfires.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/02/hawaii-news/green-announces-4-billion-settlement-to-resolve-maui-wildfire-lawsuits/>
+
+---
+
+## DOE suspends school bus service to East Hawaii schools
+
+date: 2024-08-02, from: Hawaii Tribune Harold
+
+
+				<p>Due to a shortage of bus drivers, public school bus routes in East Hawaii have been temporarily suspended, according to the state Department of Education.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/02/hawaii-news/doe-suspends-school-bus-service-to-east-hawaii-schools/>
 
 ---
 
@@ -582,6 +703,46 @@ date: 2024-08-02, from: Island Times
 
 ---
 
+## Body found at fishing base identified as former inmate; case classified as homicide
+
+date: 2024-08-02, updated: 2024-08-02, from: Marianas Variety
+
+DEPARTMENT of Public Safety Commissioner Anthony Macaranas on Friday, Aug. 2, said 71-year-old Pedro Pangelinan Cabrera, a former inmate, was the deceased individual found south of the Garapan Fishing Base dock on Thursday, Aug. 1. 
+
+<https://www.mvariety.com/news/local/body-found-at-fishing-base-identified-as-former-inmate-case-classified-as-homicide/article_7fdae2be-5095-11ef-aa3d-93377503fe96.html>
+
+---
+
+## Promote Safe Sharps Disposal This Back-to-School Season
+
+date: 2024-08-02, updated: 2024-08-02, from: Marianas Variety
+
+Guidance to help students thrive this school year 
+
+<https://www.mvariety.com/online_features/education/promote-safe-sharps-disposal-this-back-to-school-season/article_fb39626c-5d76-509a-943d-5e9aa89badee.html>
+
+---
+
+## Message of Appreciation: †Edith Villagomez Deleon Guerrero Cruz
+
+date: 2024-08-02, updated: 2024-08-02, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/obituaries/message-of-appreciation-edith-villagomez-deleon-guerrero-cruz/article_abed29fc-5086-11ef-ae05-a719766a645f.html>
+
+---
+
+## Too Much Sun Can Cause Skin Cancer, But This Woman Was Cured Without Surgery
+
+date: 2024-08-02, updated: 2024-08-02, from: Marianas Variety
+
+(NewsUSA) - President Biden, First Lady Jill Biden, Hugh Jackman, Diane Keaton, Melanie Griffith, Richard Simmons and Caitlyn Jenner have all had nonmelanoma skin cancer, the most common type of cancer in the United States. More than 3.3 million Americans are diagnosed with this disease every year, and most undergo Mohs surgery, which can be painful and disfiguring. Seattle-area resident Cheryl Cayford was happy to find an FDA-cleared device providing a nonsurgical cure. 
+
+<https://www.mvariety.com/online_features/health_and_wellness/too-much-sun-can-cause-skin-cancer-but-this-woman-was-cured-without-surgery/article_942c3c17-3926-5f7c-a305-790028cd987f.html>
+
+---
+
 ## Oceanography student makes deep-sea wonders visible, accessible
 
 date: 2024-08-02, from: University of Hawaiʻi News
@@ -670,6 +831,16 @@ By Johanna Salinas What started as a personal project to get a Guam flag signed 
 
 ---
 
+## Para un envejecimiento saludable, evite estos obstáculos comunes para una buena nutrición
+
+date: 2024-08-01, updated: 2024-08-01, from: Marianas Variety
+
+(StatePoint) Una nutrición adecuada es fundamental para la vitalidad general de los adultos mayores, ya que proporciona energía, ayuda a controlar el peso e incluso previene y controla algunas afecciones. 
+
+<https://www.mvariety.com/online_features/espanol/para-un-envejecimiento-saludable-evite-estos-obst-culos-comunes-para-una-buena-nutrici-n/article_5327ca6b-45e9-547b-ada1-003cdea59ee9.html>
+
+---
+
 ## August 2024 anniversaries
 
 date: 2024-08-01, from: University of Hawaiʻi News
@@ -690,6 +861,26 @@ date: 2024-08-01, from: Island Conservation News
  
 
 <https://www.islandconservation.org/meet-our-new-vice-president-of-conservation/>
+
+---
+
+## Bank of Guam celebrates Guam winners of US Small Business Administration  awards
+
+date: 2024-08-01, updated: 2024-08-01, from: Marianas Variety
+
+HAGÅTÑA, Guam (BoG) —   Jessica Leon Guerrero, president, M80 Systems Inc., was awarded the 2024 Guam Small Business Person of the Year. Sara Pleadwell Doctor and Monique Genereux Amani, owners of MoSa’s Joint, were awarded the 2024 Veteran Small Business Champion of the Year for Guam. 
+
+<https://www.mvariety.com/business/business_news/bank-of-guam-celebrates-guam-winners-of-us-small-business-administration-awards/article_c939463c-4fda-11ef-94ae-43511f543ff9.html>
+
+---
+
+## NMI-Guam rivalry in spotlight at Marianas Cup
+
+date: 2024-08-01, updated: 2024-08-01, from: Marianas Variety
+
+(NMIFA) — The NMI and Guam’s rivalry on the pitch unfolds once again as the Northern Mariana Islands Football Association hosts the Marianas Football Cup 2024 this weekend at the NMI Soccer Training Center in Koblerville. 
+
+<https://www.mvariety.com/sports/localsports/nmi-guam-rivalry-in-spotlight-at-marianas-cup/article_baf75b3e-500e-11ef-88b5-fb1a2adc2886.html>
 
 ---
 
