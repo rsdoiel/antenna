@@ -9,6 +9,8 @@ https://theodorepayne.org/feed/ "~Theodore Payne Foundation (SoCal Native Plants
 https://www.cnps.org/feed "~California Native Plants Society"
 https://californiaoaks.org/feed/ "~California Oaks News"
 https://ucanr.edu/blogs/UrbanAg/rssmain.xml "~Urban Ag blog"
+https://homesteadandchill.com/feed/ "~Homestead and Chil"
+https://www.familyhandyman.com/feed/ "~Family Handyman Blog"
 
 #
 # Inspiration
