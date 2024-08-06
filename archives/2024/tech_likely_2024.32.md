@@ -1,11 +1,268 @@
 ---
 title: tech likely 2024.32
-updated: 2024-08-05 17:08:26
+updated: 2024-08-06 08:33:43
 ---
 
 # tech likely 2024.32
 
-(date: 2024-08-05 17:08:26)
+(date: 2024-08-06 08:33:43)
+
+---
+
+## 2024-08-06 Pocket Reform
+
+date: 2024-08-06, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-06-pocket-reform">2024-08-06 Pocket Reform</h1>
+
+<p>I got my <a href="https://www.crowdsupply.com/mnt/pocket-reform">MNT Pocket Reform</a> miniature laptop!
+I&rsquo;m hoping that this will be my new travel laptop as the Purism laptop I got <a href="2017-12-23_New_Laptop">back in 2017</a> has a <a href="2021-08-26_New_laptop%2C_again%E2%80%BD">broken hinge</a>. The two halves are attached to each other using two super strong hinges. The hinges are so strong, in fact, that one of them ripped its screws out of the plastic. So now the screen is held up by just one super strong hinge and don&rsquo;t really want to open or close it all that often for fear of breaking it.</p>
+
+<p>Here are my initial impressions of the new MNT Pocket Reform.</p>
+
+<p>It is small, but chunky. It&rsquo;s definitely not flat. It also isn&rsquo;t heavy, so I&rsquo;m happy.
+The small keyboard and the small trackball work.</p>
+
+<p>I was unable to power it on for the longest time.
+I had two problems.</p>
+
+<p>First, there&rsquo;s a small standby power switch on the left hand side that you need to turn on.
+The manual suggests &ldquo;using a pointed object such as a SIM card ejector.&rdquo;
+Which I managed to find. And then what do you do?
+You use the SIM card ejector like you always do: stab it into the small hole.
+So I did that for a bit, wondering at the empty spaces I was a able to reach.
+What was I supposed to press?
+It was only when I started to really look into the small hole that I realized: there was actually something to be moved left and right within it!</p>
+
+<p>Second, the manual says that to turn it on, &ldquo;hold <em>Hyper</em> + <em>Enter</em> for more than 2 seconds.&rdquo;
+I pressed those two keys and the OLED display lit up. There was the menu! There it said &ldquo;Power On&rdquo;. I picked it.
+Nothing happened. Then the OLED display showed a tiny &ldquo;T&rdquo; in the upper left corner.
+I did this again and again, exploring the small menu.
+The laptop wouldn&rsquo;t power on no matter how often I selected the menu.
+That&rsquo;s because I didn&rsquo;t press <em>Hyper</em> + <em>Enter</em> for <em>more than 2 seconds</em>!
+Press those keys until the keyboard lights up with the pink backlights.</p>
+
+<p>I setup my root passwords, created my user account, ran <code>sudo apt update</code> and <code>sudo apt upgrade</code> and looked around at things.
+After a few minutes I noticed that there is no indication of the batteries charging.
+That made me nervous for a while as I kept seeing that &ldquo;1%&rdquo; charge in the top right corner.
+It&rsquo;s probably charging, I thought.
+Then the laptop turned off. Oh!
+I guess it wasn&rsquo;t charging after all.
+What did I miss?
+Now that it is powered off, I see that the load percentage starts climbing again.</p>
+
+<p>This is what it says right now:</p>
+
+<pre><code>🔋 3.6                8%
+🔋 3.7               Off
+                  -1.07A
+                  7.57V
+</code></pre>
+
+<p>Why is the second battery off?
+The manual doesn&rsquo;t explain what On/Off on the second line means.
+It&rsquo;s an indication of whether the computer is on or off!
+For the longest time I thought that the first battery had some charge and the second battery was &ldquo;off&rdquo;.
+Once I rebooted, it changed to &ldquo;On&rdquo;.</p>
+
+<p>In any case, it seems that my problem is that when the laptop powers on without being connected to a charger, it won&rsquo;t charge if you do connect it.
+Perhaps a new system image would fix it?
+I&rsquo;m not sure. I downloaded an image, unzipped it, wrote it to a microSD card, and maybe booted from it, but nothing seemed to have changed.
+I had to provide a root password and a first username and another password… and that&rsquo;s it.
+Was I supposed to run a command? I don&rsquo;t know.
+Did the <code>apt update &amp;&amp; apt upgrade</code> fix the problem? I don&rsquo;t know.</p>
+
+<p>Anyway, when the laptop suddenly lost power (see above) I waited for it to recharge for a bit and rebooted.
+It looked like this had corrupted the disk, somehow.
+There are plenty of recovery messages and percentages ending with an error because something cannot be written to the read-only file system.</p>
+
+<p>The output ends with the following, in an extremely tiny font:</p>
+
+<pre><code>...
+mount: mounting /dev/mmcblk2p2 on /root failed: Structure needs cleaning
+Failed to mount /dev/mmcblk2p2 as root file system
+</code></pre>
+
+<p>And now I am dropped in the <code>initramfs</code>.
+I try figure what I&rsquo;m supposed to do.
+I search for some keywords online but don&rsquo;t understand what I&rsquo;m seeing.
+Finally, I try to leave with <code>exit</code>, Ctrl+D and whatever else I can think off.
+I reboot. This time there are fewer messages about the filesystem and then I&rsquo;m
+back at the login prompt.
+It fixed itself.</p>
+
+<p>Phew!</p>
+
+<p>I&rsquo;m back.</p>
+
+<p>My take-away is this: usability and user interface issues both large and small remain a challenge in computers.</p>
+
+<p><a class="tag" href="/search/?q=%23Gadgets">#Gadgets</a> <a class="tag" href="/search/?q=%23Laptop">#Laptop</a> <a class="tag" href="/search/?q=%23Reform">#Reform</a></p> 
+
+<https://alexschroeder.ch/view/2024-08-06-pocket-reform>
+
+---
+
+## Tech Today: Flipping NASA Tech and Sticking the Landing
+
+date: 2024-08-06, from: NASA breaking news
+
+NASA tech adds gecko grip to phone accessory   
+
+<https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-flipping-nasa-tech-and-sticking-the-landing/>
+
+---
+
+## Roadmap for the campaign
+
+date: 2024-08-06, from: Dave Winer's Scripting News
+
+<p>A roadmap for the campaign is coming into view.</p>
+<ul>
+<li>Harris has her knee on Trump's neck, and she won't let up. </li>
+<li>There won't be time for anyone to get tired of her. </li>
+<li>The campaign rallies should get bigger and bigger, and more rambunctuous. The rally on the Sunday before Election Day should take place in stadiums all over America, with the cast of Democratic leadership spread out too, and the best musicians and comedians, again spread out over all the venues. Streaming on YouTube, with online participation <a href="https://en.wikipedia.org/wiki/Get_out_the_vote">GOTV</a> coordination on the new democrat.social community site.   </li>
+<li>Trump is a comedian, a cross between <a href="https://en.wikipedia.org/wiki/Don_Rickles">Don Rickles</a> and <a href="https://en.wikipedia.org/wiki/Joan_Rivers">Joan Rivers</a> with a bit of <a href="https://en.wikipedia.org/wiki/Sam_Kinison">Sam Kinison</a>. He had a good schtick for a long run if you find fascist slapstick entertaining, as millions of Americans do or did. </li>
+<li>Last night Maddow tried to get us excited about how the Repubs have planted people on voting boards in swing states with the purpose of stopping the counts, and thus preventing a vote in the Electoral College. But they're doing it too late. The administrators will feel the tide turning too. </li>
+<li>This campaign will take place in the popular culture of 2024, which thankfully is not centered on cable news or the NYT. But Mark Zuckerberg and Elon Musk are in control.</li>
+<li>In my <a href="http://scripting.com/2017/01/14/whatIfTwtrIsBoughtByARepub.html">2017 piece</a> I thought Zuck would run for president, given his new style <a href="https://imgs.scripting.com/2024/08/06/zucksNewStyle.png">makeover</a> I wouldn't discount that, but these two will certainly have  influence over how the election goes. Both Facebook and Twitter have algorithms that are opaque and controlled by them. Same deal as with the owners of cable media. </li>
+<li>Trump stoked resentment with voters for being left behind, even if individually they were doing fine. But that was eight years ago and a lot has happened. Harris saying basically "there you go again" is an <a href="https://www.youtube.com/watch?v=qN7gDRjTNf4&t=46s">echo of Reagan</a>, btw. It worked for Reagan, you just have to get the <a href="https://www.dictionary.com/browse/derision">derision</a> right. And Harris can do that, she laughs and we laugh. Trump loses his mind.</li>
+<li>The Harris candidacy happened almost as if it was staged. The campaign hit the ground running, it feels like there was a lot of advance work. Or they picked bloggers who were up and running, gave them the keys and said go. Either approach is fine, breaking through where previous Demo campaigns didn't have the nerve. Whatever it is, there's a sign of competence and urgency in the Democrats that is grounded in the challenge not in some almost religious sense that she's The One, which was understandable with Obama, but won't do now. We have no illusions about what's ahead. I think for that Biden must have been a great teacher. </li>
+<li>Now we're grounded. We've seen the outline of our future. Our eyes were fully opened on Jan 6. A few weeks ago the lead Republican thinker behind Project 2025 said, like an idiot, in an interview, it was up to the liberals to avoid a bloodbath, as they took over. You don't hear that anymore. Those people must now be thinking more seriously about jail for what they're doing. And the Supreme Court will go to jail too if they try to support what Maddow was talking about. We must not let them overthrow the government. And that's why Maddow's concern is okay but overstated, imho.</li>
+<li>I had my doubts whether Biden would stop the <a href="https://www.dictionary.com/browse/dissolution">dissolution</a> of the Supreme Court, and I don't know if Harris will, but given how purposefully the campaign in running, I suspect (hope, pray) she will. Our job is to give her the support she needs to feel like we've got her back. </li>
+</ul>
+<p>PS: FDR <a href="https://chatgpt.com/share/83fbfae5-d28d-4332-bda1-480fed1e9584">threatened</a> to pack the court and the court backed down in 1937.</p>
+<p>PPS: If you haven't listened to <a href="http://scripting.com/2024/08/04/195427.html">Sunday's podcast</a>, please do. A lot of what you read here will assume that you have listened to it. It's just 12 minutes. </p>
+ 
+
+<http://scripting.com/2024/08/06/141312.html?title=roadmapForTheCampaign>
+
+---
+
+## Setting the terms, redux
+
+date: 2024-08-06, from: Doc Searls (at Harvard), New Old Blog
+
+I wrote for Linux Journal from 1996 to 2019, the final years as editor-in-chief. After ownership changed and the whole staff turned over. The new owner, Slashdot Media, agreed to keep the server up so nothing would be 404&#8217;d. I am grateful that they have kept that promise. I should add, however, that much of [&#8230;] 
+
+<https://doc.searls.com/2024/08/06/setting-the-terms-redux/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-06, from: Dave Winer's Scripting News)
+
+Walz is Harris' choice. Picking Shapiro would have been leading with her chin because of Netanyahu. Walz looks older than her but they're actually the same age. And he figured out the right word to get under Trump's skin, so there's that. He just has to say <a href="https://www.merriam-webster.com/dictionary/weird">weird</a> in campaign speeches to bring down the house. 
+
+<http://scripting.com/2024/08/06.html#a140340>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-08-06, from: Miguel de Icaza Mastondon feed)
+
+<p>Another big chunk of work is done.</p><p>I rewrote the Godot 3D toolbars and context menus in SwiftUI.   I am pretty happy how it turned out, and even has some live features that do not exist in regular Godot</p><p><a href="https://www.youtube.com/watch?v=Tpf3UaQ4G-M" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=Tpf3UaQ4G-</span><span class="invisible">M</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112915355764423407>
+
+---
+
+## Quantum Scale Sensors used to Measure Planetary Scale Magnetic Fields
+
+date: 2024-08-06, from: NASA breaking news
+
+Magnetic fields are everywhere in our solar system. They originate from the Sun, planets, and moons, and are carried throughout interplanetary space by solar wind. This is precisely why magnetometers—devices used to measure magnetic fields—are flown on almost all missions in space to benefit the Earth, Planetary, and Heliophysics science communities, and ultimately enrich knowledge […] 
+
+<https://science.nasa.gov/science-research/science-enabling-technology/quantum-scale-sensors-used-to-measure-planetary-scale-magnetic-fields/>
+
+---
+
+## WordStar for DOS 7.0 archive
+
+date: 2024-08-06, from: OS News
+
+As you all know, I continue to use WordStar for DOS 7.0 as my word-processing program. It was last updated in December 1992, and the company that made it has been defunct for decades; the program is abandonware. There was no proper archive of WordStar for DOS 7.0 available online, so I decided to create one. I’ve put weeks of work into this. Included are not only full installs of the program (as well as images of the installation disks), but also plug-and-play solutions for running WordStar for DOS 7.0 under Windows, and also complete full-text-searchable PDF versions of all seven manuals that came with WordStar — over a thousand pages of documentation. ↫ Robert J. Sawyer WordStar for DOS is definitely a bit of a known entity in our circles for still being used by a number of world-famous authors. WordStar 4.0 is still being used by George R. R. Martin &#8211; assuming he&#8217;s still even working on The Winds of Winter &#8211; and there must be some sort of reason as to why it&#8217;s still so oddly popular. Thanks to this work by author Robert J. Sawyer, accessing and using version 7 of WordStar for DOS is now easier than ever. One of the reasons Sawyer set out to do this was making sure that if he passes away, the people responsible for his estate and works will have an easy way to access his writings. It&#8217;s refreshing to see an author think ahead this far, and it will surely help a ton of other people too, since there&#8217;s quite a few documents lingering around using the WordStar format. 
+
+<https://www.osnews.com/story/140431/wordstar-for-dos-7-0-archive/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-08-06, from: Miguel de Icaza Mastondon feed)
+
+<p>In this household we shit on cryptocurrencies</p> 
+
+<https://mastodon.social/@Migueldeicaza/112915292228487661>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-08-06, from: Miguel de Icaza Mastondon feed)
+
+<p>I need to keep reminding myself to not put critical features behind a long-press gesture.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112915084172031233>
+
+---
+
+## About 3.8% Short
+
+date: 2024-08-06, updated: 2024-08-06, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/08/06/about-3-8-short/>
+
+---
+
+## Why we’re taking a problem-first approach to the development of AI systems
+
+date: 2024-08-06, from: Raspberry Pi (.org)
+
+<p>If you are into tech, keeping up with the latest updates can be tough, particularly when it comes to artificial intelligence (AI) and generative AI (GenAI). Sometimes I admit to feeling this way myself, however, there was one update recently that really caught my attention. OpenAI launched their latest iteration of ChatGPT, this time adding&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/why-were-taking-a-problem-first-approach-to-the-development-of-ai-systems/">Why we’re taking a problem-first approach to the development of AI systems</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/why-were-taking-a-problem-first-approach-to-the-development-of-ai-systems/>
+
+---
+
+## It’s not a Nixie clock, it’s a Pixie clock
+
+date: 2024-08-06, from: Raspberry Pi News (.com)
+
+<p>Our Maker In Residence intern tells us about his foray into NeoPixels to build a Pixie clock (that's a Pi-powered Nixie clock).</p>
+<p>The post <a href="https://www.raspberrypi.com/news/its-not-a-nixie-clock-its-a-pixie-clock/">It&#8217;s not a Nixie clock, it&#8217;s a Pixie clock</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/its-not-a-nixie-clock-its-a-pixie-clock/>
+
+---
+
+## Radar Trends to Watch: August 2024
+
+date: 2024-08-06, from: O'Reilly Radar
+
+July was a big month for model releases: There are new large models from Mistral and Meta, smaller multilingual models from Mistral and DeepL, another Mistral model that specializes in code generation, and a small version of GPT-4o. The security world saw another software supply chain disaster when CrowdStrike released a bad software update that [&#8230;] 
+
+<https://www.oreilly.com/radar/radar-trends-to-watch-august-2024/>
+
+---
+
+## WordStar 7, the last ever DOS version, is re-released for free
+
+date: 2024-08-06, updated: 2024-08-06, from: Liam Proven's articles at the Register
+
+<h4>The preferred tool of Arthur C Clarke, Anne Rice and George R R Martin</h4>
+      <p>Before WordPerfect, the most popular work processor was WordStar. Now, the last ever DOS version has been bundled and set free by one of its biggest fans.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/08/06/wordstar_7_the_last_ever/>
+
+---
+
+## The OpenAI Plot Thickens
+
+date: 2024-08-06, from: Gary Marcus blog
+
+Crazy day gets crazier 
+
+<https://garymarcus.substack.com/p/the-openai-plot-thickens>
 
 ---
 
@@ -723,6 +980,16 @@ Plug-in hybrids are still going strong in some markets. Their climate benefits s
 
 ---
 
+## River of No Return 108K Race Report (2024)
+
+date: 2024-08-05, updated: 2024-08-05, from: Educated Guesswork blog
+
+ 
+
+<https://educatedguesswork.org/posts/ronr-report/>
+
+---
+
 ## pgspot 0.8.0 released
 
 date: 2024-08-05, from: PostgreSQL News
@@ -772,6 +1039,7 @@ date: 2024-08-04, from: Dave Winer's Scripting News
 <p>It's not hard to do this, a few of us, who are good listeners and writers, to build lists of sources and provide them for people to access away from the nonstop (often entertaining) bullshit of the social web of 2024.</p>
 <p>I've asked for ideas for podcasts that would go into a list of shows people who are voting Democratic would find interesting or useful. Not for spreading religion, but based on facts, not the unhinged lunacy and revenge of Trump. Our news now is too polluted by that. He shouldn't be able to lie about Harris's race, and have that be an issue carried by journalism, for example. That should not be possible but it happens. </p>
 <p>Podcast: <a href="http://scripting.com/2024/08/04/timeToCreateOurOwnMediaAgain.m4a">12 minutes</a>. </p>
+<p>PS: Here's a computer-generated <a href="https://recorder.google.com/b5aa5e3f-2164-4005-a302-38d5919775eb">transcript</a>.</p>
  
 
 <http://scripting.com/2024/08/04/195427.html?title=itsTimeToCreateOurOwnMediaAgain>

@@ -1,11 +1,201 @@
 ---
 title: going electric 2024.32
-updated: 2024-08-05 17:08:31
+updated: 2024-08-06 08:33:49
 ---
 
 # going electric 2024.32
 
-(date: 2024-08-05 17:08:31)
+(date: 2024-08-06 08:33:49)
+
+---
+
+## A Ford Mustang Mach-E Just Drove 570 Miles On A Single Charge
+
+date: 2024-08-06, from: Inside EVs News
+
+It drove 21 miles after the battery reach 0% and the efficiency was 6.25 miles per kilowatt hour. 
+
+<https://insideevs.com/news/729226/ford-mustang-mach-e-range-record-570-miles/>
+
+---
+
+## NIO eclipses 50 million battery swaps, providing evidence that drivers prefer the charge method
+
+date: 2024-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/NIO-battery-swaps-milestone.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/nio/">NIO’s</a> industry-leading battery swap technology is continuing to gain prowess as the Chinese EV company hits another milestone. Yesterday evening, NIO hit 50 million cumulative battery swaps, providing evidence that the EV charging method is not only viable but also preferred by many drivers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-swap,china,nio" data-layer-viewtype="unknown" data-post-id="374525" href="https://electrek.co/2024/08/06/nio-eclipses-50-million-battery-swaps-drivers-prefer-the-charge-method/#more-374525" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/06/nio-eclipses-50-million-battery-swaps-drivers-prefer-the-charge-method/>
+
+---
+
+## This EV Has A Built-In Charging Cable. Here's Why That's Brilliant
+
+date: 2024-08-06, from: Inside EVs News
+
+Fiat's Grande Panda is the first in a new line of EVs with charging cables built into the front fascia. This could solve a lot of problems. 
+
+<https://insideevs.com/news/729217/fiat-ev-retractable-charging-cable/>
+
+---
+
+## SunPower files for Chapter 11 bankruptcy
+
+date: 2024-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/12/SunPower-rooftop-solar.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Solar developer SunPower has <a href="https://dm.epiq11.com/case/sunpower/info" target="_blank" rel="noreferrer noopener">filed for Chapter 11 bankruptcy</a> protection in the US, and it’s selling parts of its business to Complete Solaria for $45 million in cash. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,sunpower" data-layer-viewtype="unknown" data-post-id="374540" href="https://electrek.co/2024/08/06/sunpower-files-for-chapter-11-bankruptcy/#more-374540" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/06/sunpower-files-for-chapter-11-bankruptcy/>
+
+---
+
+## Rivian launches limited-time 2.99% financing offer on the new Dual Max R1S
+
+date: 2024-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Rivian-limited-time-financing-R1S.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rivian introduced a new, limited-time 2.99% financing offer on its new Dual Max R1S this week. With over 400 miles of range, a re-engineered suspension, and an in-house Dual-Motor system, <a href="https://electrek.co/guides/rivian-r1s/">Rivian’s new R1S</a> is more capable and efficient than ever.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r1s" data-layer-viewtype="unknown" data-post-id="374517" href="https://electrek.co/2024/08/06/rivian-launches-limited-time-2-99-financing-new-dual-max-r1s/#more-374517" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/06/rivian-launches-limited-time-2-99-financing-new-dual-max-r1s/>
+
+---
+
+## This Could Be Ram's Secret Weapon In The EV Wars
+
+date: 2024-08-06, from: Inside EVs News
+
+It's not just fleet sales. Ram offers a slew of connected car services, including fleet-managed charging infrastructure.  
+
+<https://insideevs.com/news/729125/ram-professional-ev-charging-credit-financing/>
+
+---
+
+## The Auto Industry Is Tired Of Politics Screwing With EVs
+
+date: 2024-08-06, from: Inside EVs News
+
+Plus, the U.S. is expected to ban Chinese software in autonomous cars and German automakers restart ICE R&D spending. 
+
+<https://insideevs.com/news/729131/automakers-suppliers-politics-ev-policy/>
+
+---
+
+## I Went Inside the Harley-Davidson Motorcycle Vault, and It’s Awesome
+
+date: 2024-08-06, from: Ride Apart, Electric Motorcycle News
+
+Only about 5 percent of the Harley Museum collection is on display at any given time. The rest is in this vault, and I got to see it. 
+
+<https://www.rideapart.com/news/729129/harley-museum-motorcycle-vault-inside/>
+
+---
+
+## Mercedes-Benz gets the OK to begin testing its Level 4 autonomous driving tech in China
+
+date: 2024-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Mercedes-autonomous-driving-China.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Mercedes-Benz has been certified to begin testing its Level 4 autonomous driving technology in Shanghai, China. It is the first international automaker to garner approval from local regulators as <a href="https://electrek.co/guides/mercedes-benz/">the German automaker</a> looks to set its lineup apart from stiff competition overseas.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous-driving,autonomous-vehicle,china,mercedes-drive-pilot,mercedes-benz" data-layer-viewtype="unknown" data-post-id="374509" href="https://electrek.co/2024/08/06/mercedes-benz-gets-the-ok-to-begin-testing-its-level-4-autonomous-driving-tech-in-china/#more-374509" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/06/mercedes-benz-gets-the-ok-to-begin-testing-its-level-4-autonomous-driving-tech-in-china/>
+
+---
+
+## Motorcyclist's Family Sues Tesla, Says Autopilot is to Blame for Son's Death
+
+date: 2024-08-06, from: Ride Apart, Electric Motorcycle News
+
+Autopilot was engaged during the accident.  
+
+<https://www.rideapart.com/news/729123/motorcycle-death-tesla-autopilot-fsd-full-self-driving/>
+
+---
+
+## Velotric launches new lower-cost folding e-bike and upgrades its most popular models
+
+date: 2024-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/velotric-discover-1-plus-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Velotric just announced the launch of its new <a href="https://velotricebike.pxf.io/jro0yP">Fold Lite</a>, a lower-cost folding e-bike that still packs in most of what makes the brand’s e-bikes stand out so much. But that’s not all, because we’re also getting a look at the company’s recently launched “Plus” models, which bring new upgrades to classic designs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="374496" href="https://electrek.co/2024/08/06/velotric-launches-new-lower-cost-folding-e-bike-and-upgrades-its-most-popular-models/#more-374496" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/06/velotric-launches-new-lower-cost-folding-e-bike-and-upgrades-its-most-popular-models/>
+
+---
+
+## Royal Enfield Tries To Disguise Himalayan 650 With Tape, Fails Miserably
+
+date: 2024-08-06, from: Ride Apart, Electric Motorcycle News
+
+You could spot this thing a mile away.  
+
+<https://www.rideapart.com/news/728969/royal-enfield-himalayan-650-spotted-india/>
+
+---
+
+## Kriega Re-Engineers the R25 Backpack, Has Even More Utility
+
+date: 2024-08-06, from: Ride Apart, Electric Motorcycle News
+
+It’s designed to meet the needs of the most demanding riders—are you one of them?  
+
+<https://www.rideapart.com/news/728971/2024-kriega-r25-backpack/>
+
+---
+
+## Yamaha Goes Green, Uses Recycled Steel for Motorcycle Packaging
+
+date: 2024-08-06, from: Ride Apart, Electric Motorcycle News
+
+It’s a big step in reducing the company’s carbon footprint.  
+
+<https://www.rideapart.com/news/728980/yamaha-recycled-steel-motorcycle-packaging-frames/>
+
+---
+
+## A Hayabusa-Swapped Banned EV Is a Thing, and It's Wild
+
+date: 2024-08-06, from: Ride Apart, Electric Motorcycle News
+
+This should be the only way you're allowed to repurpose a banned electric vehicle. 
+
+<https://www.rideapart.com/news/729114/hyabusa-swapped-solo-ev/>
+
+---
+
+## This Custom Bike Has Four Wheels, but Don’t Call It a Quad
+
+date: 2024-08-06, from: Ride Apart, Electric Motorcycle News
+
+Do you think these guys will be able to pull this concept off? 
+
+<https://www.rideapart.com/news/729107/four-wheeled-rear-steer-bike/>
+
+---
+
+## EVs May Get Cheaper Than Gas Cars As Early As Next Year. Here’s Why
+
+date: 2024-08-06, from: Inside EVs News
+
+With plummeting battery costs and rapidly advancing technology, electric cars will soon reach a breakeven point with ICE cars. 
+
+<https://insideevs.com/news/729153/ev-price-parity-ice-2025-2026/>
 
 ---
 

@@ -1,17 +1,215 @@
 ---
 title: columns 2024.32
-updated: 2024-08-05 17:08:27
+updated: 2024-08-06 08:33:44
 ---
 
 # columns 2024.32
 
-(date: 2024-08-05 17:08:27)
+(date: 2024-08-06 08:33:44)
+
+---
+
+## Tim Walz for Vice President!
+
+date: 2024-08-06, from: Robert Reich's blog
+
+A terrific choice, on all grounds 
+
+<https://robertreich.substack.com/p/tim-walz-for-vice-president>
+
+---
+
+## 2024-08-06 Pocket Reform
+
+date: 2024-08-06, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-06-pocket-reform">2024-08-06 Pocket Reform</h1>
+
+<p>I got my <a href="https://www.crowdsupply.com/mnt/pocket-reform">MNT Pocket Reform</a> miniature laptop!
+I&rsquo;m hoping that this will be my new travel laptop as the Purism laptop I got <a href="2017-12-23_New_Laptop">back in 2017</a> has a <a href="2021-08-26_New_laptop%2C_again%E2%80%BD">broken hinge</a>. The two halves are attached to each other using two super strong hinges. The hinges are so strong, in fact, that one of them ripped its screws out of the plastic. So now the screen is held up by just one super strong hinge and don&rsquo;t really want to open or close it all that often for fear of breaking it.</p>
+
+<p>Here are my initial impressions of the new MNT Pocket Reform.</p>
+
+<p>It is small, but chunky. It&rsquo;s definitely not flat. It also isn&rsquo;t heavy, so I&rsquo;m happy.
+The small keyboard and the small trackball work.</p>
+
+<p>I was unable to power it on for the longest time.
+I had two problems.</p>
+
+<p>First, there&rsquo;s a small standby power switch on the left hand side that you need to turn on.
+The manual suggests &ldquo;using a pointed object such as a SIM card ejector.&rdquo;
+Which I managed to find. And then what do you do?
+You use the SIM card ejector like you always do: stab it into the small hole.
+So I did that for a bit, wondering at the empty spaces I was a able to reach.
+What was I supposed to press?
+It was only when I started to really look into the small hole that I realized: there was actually something to be moved left and right within it!</p>
+
+<p>Second, the manual says that to turn it on, &ldquo;hold <em>Hyper</em> + <em>Enter</em> for more than 2 seconds.&rdquo;
+I pressed those two keys and the OLED display lit up. There was the menu! There it said &ldquo;Power On&rdquo;. I picked it.
+Nothing happened. Then the OLED display showed a tiny &ldquo;T&rdquo; in the upper left corner.
+I did this again and again, exploring the small menu.
+The laptop wouldn&rsquo;t power on no matter how often I selected the menu.
+That&rsquo;s because I didn&rsquo;t press <em>Hyper</em> + <em>Enter</em> for <em>more than 2 seconds</em>!
+Press those keys until the keyboard lights up with the pink backlights.</p>
+
+<p>I setup my root passwords, created my user account, ran <code>sudo apt update</code> and <code>sudo apt upgrade</code> and looked around at things.
+After a few minutes I noticed that there is no indication of the batteries charging.
+That made me nervous for a while as I kept seeing that &ldquo;1%&rdquo; charge in the top right corner.
+It&rsquo;s probably charging, I thought.
+Then the laptop turned off. Oh!
+I guess it wasn&rsquo;t charging after all.
+What did I miss?
+Now that it is powered off, I see that the load percentage starts climbing again.</p>
+
+<p>This is what it says right now:</p>
+
+<pre><code>🔋 3.6                8%
+🔋 3.7               Off
+                  -1.07A
+                  7.57V
+</code></pre>
+
+<p>Why is the second battery off?
+The manual doesn&rsquo;t explain what On/Off on the second line means.
+It&rsquo;s an indication of whether the computer is on or off!
+For the longest time I thought that the first battery had some charge and the second battery was &ldquo;off&rdquo;.
+Once I rebooted, it changed to &ldquo;On&rdquo;.</p>
+
+<p>In any case, it seems that my problem is that when the laptop powers on without being connected to a charger, it won&rsquo;t charge if you do connect it.
+Perhaps a new system image would fix it?
+I&rsquo;m not sure. I downloaded an image, unzipped it, wrote it to a microSD card, and maybe booted from it, but nothing seemed to have changed.
+I had to provide a root password and a first username and another password… and that&rsquo;s it.
+Was I supposed to run a command? I don&rsquo;t know.
+Did the <code>apt update &amp;&amp; apt upgrade</code> fix the problem? I don&rsquo;t know.</p>
+
+<p>Anyway, when the laptop suddenly lost power (see above) I waited for it to recharge for a bit and rebooted.
+It looked like this had corrupted the disk, somehow.
+There are plenty of recovery messages and percentages ending with an error because something cannot be written to the read-only file system.</p>
+
+<p>The output ends with the following, in an extremely tiny font:</p>
+
+<pre><code>...
+mount: mounting /dev/mmcblk2p2 on /root failed: Structure needs cleaning
+Failed to mount /dev/mmcblk2p2 as root file system
+</code></pre>
+
+<p>And now I am dropped in the <code>initramfs</code>.
+I try figure what I&rsquo;m supposed to do.
+I search for some keywords online but don&rsquo;t understand what I&rsquo;m seeing.
+Finally, I try to leave with <code>exit</code>, Ctrl+D and whatever else I can think off.
+I reboot. This time there are fewer messages about the filesystem and then I&rsquo;m
+back at the login prompt.
+It fixed itself.</p>
+
+<p>Phew!</p>
+
+<p>I&rsquo;m back.</p>
+
+<p>My take-away is this: usability and user interface issues both large and small remain a challenge in computers.</p>
+
+<p><a class="tag" href="/search/?q=%23Gadgets">#Gadgets</a> <a class="tag" href="/search/?q=%23Laptop">#Laptop</a> <a class="tag" href="/search/?q=%23Reform">#Reform</a></p> 
+
+<https://alexschroeder.ch/view/2024-08-06-pocket-reform>
+
+---
+
+## Roadmap for the campaign
+
+date: 2024-08-06, from: Dave Winer's Scripting News
+
+<p>A roadmap for the campaign is coming into view.</p>
+<ul>
+<li>Harris has her knee on Trump's neck, and she won't let up. </li>
+<li>There won't be time for anyone to get tired of her. </li>
+<li>The campaign rallies should get bigger and bigger, and more rambunctuous. The rally on the Sunday before Election Day should take place in stadiums all over America, with the cast of Democratic leadership spread out too, and the best musicians and comedians, again spread out over all the venues. Streaming on YouTube, with online participation <a href="https://en.wikipedia.org/wiki/Get_out_the_vote">GOTV</a> coordination on the new democrat.social community site.   </li>
+<li>Trump is a comedian, a cross between <a href="https://en.wikipedia.org/wiki/Don_Rickles">Don Rickles</a> and <a href="https://en.wikipedia.org/wiki/Joan_Rivers">Joan Rivers</a> with a bit of <a href="https://en.wikipedia.org/wiki/Sam_Kinison">Sam Kinison</a>. He had a good schtick for a long run if you find fascist slapstick entertaining, as millions of Americans do or did. </li>
+<li>Last night Maddow tried to get us excited about how the Repubs have planted people on voting boards in swing states with the purpose of stopping the counts, and thus preventing a vote in the Electoral College. But they're doing it too late. The administrators will feel the tide turning too. </li>
+<li>This campaign will take place in the popular culture of 2024, which thankfully is not centered on cable news or the NYT. But Mark Zuckerberg and Elon Musk are in control.</li>
+<li>In my <a href="http://scripting.com/2017/01/14/whatIfTwtrIsBoughtByARepub.html">2017 piece</a> I thought Zuck would run for president, given his new style <a href="https://imgs.scripting.com/2024/08/06/zucksNewStyle.png">makeover</a> I wouldn't discount that, but these two will certainly have  influence over how the election goes. Both Facebook and Twitter have algorithms that are opaque and controlled by them. Same deal as with the owners of cable media. </li>
+<li>Trump stoked resentment with voters for being left behind, even if individually they were doing fine. But that was eight years ago and a lot has happened. Harris saying basically "there you go again" is an <a href="https://www.youtube.com/watch?v=qN7gDRjTNf4&t=46s">echo of Reagan</a>, btw. It worked for Reagan, you just have to get the <a href="https://www.dictionary.com/browse/derision">derision</a> right. And Harris can do that, she laughs and we laugh. Trump loses his mind.</li>
+<li>The Harris candidacy happened almost as if it was staged. The campaign hit the ground running, it feels like there was a lot of advance work. Or they picked bloggers who were up and running, gave them the keys and said go. Either approach is fine, breaking through where previous Demo campaigns didn't have the nerve. Whatever it is, there's a sign of competence and urgency in the Democrats that is grounded in the challenge not in some almost religious sense that she's The One, which was understandable with Obama, but won't do now. We have no illusions about what's ahead. I think for that Biden must have been a great teacher. </li>
+<li>Now we're grounded. We've seen the outline of our future. Our eyes were fully opened on Jan 6. A few weeks ago the lead Republican thinker behind Project 2025 said, like an idiot, in an interview, it was up to the liberals to avoid a bloodbath, as they took over. You don't hear that anymore. Those people must now be thinking more seriously about jail for what they're doing. And the Supreme Court will go to jail too if they try to support what Maddow was talking about. We must not let them overthrow the government. And that's why Maddow's concern is okay but overstated, imho.</li>
+<li>I had my doubts whether Biden would stop the <a href="https://www.dictionary.com/browse/dissolution">dissolution</a> of the Supreme Court, and I don't know if Harris will, but given how purposefully the campaign in running, I suspect (hope, pray) she will. Our job is to give her the support she needs to feel like we've got her back. </li>
+</ul>
+<p>PS: FDR <a href="https://chatgpt.com/share/83fbfae5-d28d-4332-bda1-480fed1e9584">threatened</a> to pack the court and the court backed down in 1937.</p>
+<p>PPS: If you haven't listened to <a href="http://scripting.com/2024/08/04/195427.html">Sunday's podcast</a>, please do. A lot of what you read here will assume that you have listened to it. It's just 12 minutes. </p>
+ 
+
+<http://scripting.com/2024/08/06/141312.html?title=roadmapForTheCampaign>
+
+---
+
+## Setting the terms, redux
+
+date: 2024-08-06, from: Doc Searls (at Harvard), New Old Blog
+
+I wrote for Linux Journal from 1996 to 2019, the final years as editor-in-chief. After ownership changed and the whole staff turned over. The new owner, Slashdot Media, agreed to keep the server up so nothing would be 404&#8217;d. I am grateful that they have kept that promise. I should add, however, that much of [&#8230;] 
+
+<https://doc.searls.com/2024/08/06/setting-the-terms-redux/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-06, from: Dave Winer's Scripting News)
+
+Walz is Harris' choice. Picking Shapiro would have been leading with her chin because of Netanyahu. Walz looks older than her but they're actually the same age. And he figured out the right word to get under Trump's skin, so there's that. He just has to say <a href="https://www.merriam-webster.com/dictionary/weird">weird</a> in campaign speeches to bring down the house. 
+
+<http://scripting.com/2024/08/06.html#a140340>
+
+---
+
+## A Better Investigatory Board for Cyber Incidents
+
+date: 2024-08-06, updated: 2024-08-02, from: Bruce Schneier blog
+
+<p>When an airplane crashes, impartial investigatory bodies leap into action, empowered by law to unearth what happened and why. But there is no such empowered and impartial body to investigate CrowdStrike&#8217;s <a href="https://www.nytimes.com/2024/07/19/business/microsoft-outage-cause-azure-crowdstrike.html">faulty update</a> that recently unfolded, ensnarling banks, airlines, and emergency services to the tune of billions of dollars. We need one. To be sure, there is the White House&#8217;s <a href="https://www.cisa.gov/resources-tools/groups/cyber-safety-review-board-csrb">Cyber Safety Review Board</a>. On March 20, the CSRB <a href="https://www.cisa.gov/sites/default/files/2024-04/CSRB_Review_of_the_Summer_2023_MEO_Intrusion_Final_508c.pdf">released</a> a report into last summer&#8217;s intrusion by a Chinese hacking group into Microsoft&#8217;s cloud environment, where it compromised the U.S. Department of Commerce, State Department, congressional offices, and several associated companies. But the board&#8217;s report&#8212;well-researched and containing some good and actionable recommendations&#8212;shows how it suffers from its lack of subpoena power and its political unwillingness to generalize from specific incidents to the broader industry...</p> 
+
+<https://www.schneier.com/blog/archives/2024/08/a-better-investigatory-board-for-cyber-incidents.html>
+
+---
+
+## Kamala’s surprise opportunity 
+
+date: 2024-08-06, from: Robert Reich's blog
+
+(And I'm not talking about her pick for VP) 
+
+<https://robertreich.substack.com/p/how-kamala-should-respond-to-the>
+
+---
+
+## libcurl is 24 years old
+
+date: 2024-08-06, from: Daniel Stenberg Blog
+
+On Monday August 7, 2000 at 14:49 UTC, we announced the release of the first libcurl version ever. Exactly twenty-four years ago today. We called it version 7.1. The simple reason we did a point one release as the first one was that we had shipped a whole range of 7.0 beta versions before that &#8230; <a href="https://daniel.haxx.se/blog/2024/08/06/libcurl-is-24-years-old/" class="more-link">Continue reading <span class="screen-reader-text">libcurl is 24 years old</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/08/06/libcurl-is-24-years-old/>
+
+---
+
+## August 5, 2024 
+
+date: 2024-08-06, from: Heather Cox Richardson blog
+
+Christi Carras of the Los Angeles Times reported today that the reality TV industry has collapsed. 
+
+<https://heathercoxrichardson.substack.com/p/august-5-2024>
+
+---
+
+## Minimalism as a way of taking up less space
+
+date: 2024-08-06, from: Tracy Durnell Blog
+
+We are told to—all people are told this, but particularly conditioned women— to long for less in so many ways, to take up less space in so many ways. The control piece of this, there’s just a lot where it’s like, you are trying to sort of winnow yourself into this tiny, clean surfaces, very [&#8230;] 
+
+<https://tracydurnell.com/2024/08/05/minimalism-as-a-way-of-taking-up-less-space/>
 
 ---
 
 ## Federal Judge Rules Google Search an Illegal Monopoly
 
-date: 2024-08-05, updated: 2024-08-05, from: Daring Fireball
+date: 2024-08-05, updated: 2024-08-06, from: Daring Fireball
 
  
 
@@ -71,7 +269,7 @@ date: 2024-08-05, updated: 2024-08-05, from: Jason Kittke's blog
 
 ## Bloomberg Fires One of the Two Reporters Whose Byline Was on Embargo-Breaking Gershkovich-Release Story
 
-date: 2024-08-05, updated: 2024-08-05, from: Daring Fireball
+date: 2024-08-05, updated: 2024-08-06, from: Daring Fireball
 
  
 
@@ -383,6 +581,16 @@ Nun gilt es, den Teig in viel Mehl zu wenden, so dass er nirgends mehr anklebt. 
 
 ---
 
+## Talk notes: Let’s make a simpler, more accessible web
+
+date: 2024-08-05, from: Chris Heilmann's blog
+
+I am just on my way back home from presenting at the Typo3 Developer Days in Karlsruhe, Germany. I had a great time and met a lot of interesting people. I also had the opportunity to present my talk on making the web simpler. The talk was well received and there were some requests to [&#8230;] 
+
+<https://christianheilmann.com/2024/08/05/talk-notes-lets-make-a-simpler-more-accessible-web/>
+
+---
+
 ## Why we need nauseous optimism 
 
 date: 2024-08-05, from: Robert Reich's blog
@@ -464,6 +672,7 @@ date: 2024-08-04, from: Dave Winer's Scripting News
 <p>It's not hard to do this, a few of us, who are good listeners and writers, to build lists of sources and provide them for people to access away from the nonstop (often entertaining) bullshit of the social web of 2024.</p>
 <p>I've asked for ideas for podcasts that would go into a list of shows people who are voting Democratic would find interesting or useful. Not for spreading religion, but based on facts, not the unhinged lunacy and revenge of Trump. Our news now is too polluted by that. He shouldn't be able to lie about Harris's race, and have that be an issue carried by journalism, for example. That should not be possible but it happens. </p>
 <p>Podcast: <a href="http://scripting.com/2024/08/04/timeToCreateOurOwnMediaAgain.m4a">12 minutes</a>. </p>
+<p>PS: Here's a computer-generated <a href="https://recorder.google.com/b5aa5e3f-2164-4005-a302-38d5919775eb">transcript</a>.</p>
  
 
 <http://scripting.com/2024/08/04/195427.html?title=itsTimeToCreateOurOwnMediaAgain>

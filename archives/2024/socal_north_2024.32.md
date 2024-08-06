@@ -1,11 +1,11 @@
 ---
 title: socal north 2024.32
-updated: 2024-08-05 17:08:22
+updated: 2024-08-06 08:33:40
 ---
 
 # socal north 2024.32
 
-(date: 2024-08-05 17:08:22)
+(date: 2024-08-06 08:33:40)
 
 ---
 
@@ -24,8 +24,8 @@ But three Bruins of the past and one present took to the hardwood early, in Pari
 
 date: 2024-08-05, from: The Daily Bruin (UCLA Student Newspaper)
 
-A UCLA baseball coach was disciplined for slapping a player, according to a university report obtained by the Daily Bruin.
-David Berg, formerly an assistant coach of UCLA baseball, was placed on investigative leave for striking a player in the face after a dinner with the team&#8217;s recruits Oct. 
+<em>This post was updated Aug. 6 at 1:32 a.m.</em>
+A UCLA baseball coach was disciplined for slapping a player, according to a university report obtained by the Daily Bruin. 
 
 <https://dailybruin.com/2024/08/05/former-ucla-baseball-assistant-coach-disciplined-for-slapping-player/>
 

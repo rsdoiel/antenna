@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.32
-updated: 2024-08-05 17:08:24
+updated: 2024-08-06 08:33:41
 ---
 
 # mid central 2024.32
 
-(date: 2024-08-05 17:08:24)
+(date: 2024-08-06 08:33:41)
+
+---
+
+## TMR empowers sensors in health wearables, building automation
+
+date: 2024-08-06, from: EDN Blog
+
+<img width="1838" height="1084" src="https://www.edn.com/wp-content/uploads/Fig-1-Consumer-health-wearable-Allegro.png?fit=1838%2C1084" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-Consumer-health-wearable-Allegro.png?w=1838 1838w, https://www.edn.com/wp-content/uploads/Fig-1-Consumer-health-wearable-Allegro.png?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-Consumer-health-wearable-Allegro.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-Consumer-health-wearable-Allegro.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-1-Consumer-health-wearable-Allegro.png?w=1536 1536w" sizes="(max-width: 1838px) 100vw, 1838px" /><p>Here is how TMR technology meets design challenges in sensors serving consumer health wearables and building automation.</p>
+<p>The post <a href="https://www.edn.com/tmr-empowering-sensors-in-health-wearables-building-automation/" data-wpel-link="internal">TMR empowers sensors in health wearables, building automation</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/tmr-empowering-sensors-in-health-wearables-building-automation/>
 
 ---
 

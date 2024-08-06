@@ -1,11 +1,33 @@
 ---
 title: writing 2024.32
-updated: 2024-08-05 17:08:28
+updated: 2024-08-06 08:33:45
 ---
 
 # writing 2024.32
 
-(date: 2024-08-05 17:08:28)
+(date: 2024-08-06 08:33:45)
+
+---
+
+## Ian Mond Reviews The Underhistory by Kaaron Warren
+
+date: 2024-08-06, from: Locus Magazine
+
+<p><strong>The Underhistory</strong>, Kaaron Warren (Viper 978-1-80081-202-4, £16.99, 383pp, hc) April 2024.</p>
+<p>The publication of a new novel from Kaaron Warren is an event worthy of fanfare. She’s one of the rare few – Kirstyn McDermott is another – who can blend literary and horror fiction without undermining the strengths of either. It makes for a reading experience that’s both deep and textured, but also taut and brutal. <strong>The Underhistory </strong> <a href="https://locusmag.com/2024/08/ian-mond-reviews-the-underhistory-by-kaaron-warren/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/ian-mond-reviews-the-underhistory-by-kaaron-warren/>
+
+---
+
+## Multi-Cam Comedies and WGA Dollars
+
+date: 2024-08-06, from: John August blog
+
+John welcomes writer-director Betsy Thomas (Superior Donuts, Superstore) to finally discuss writing multi-camera sitcoms. Using famous sitcom scripts as guides, they look at how multi-cam sets itself apart through its unique formatting and production, how it utilizes blocking, its surprising limitations in post, and the live studio audience. But Betsy is more than just a [&#8230;]
+The post <a href="https://johnaugust.com/2024/multi-cam-comedies-and-wga-dollars">Multi-Cam Comedies and WGA Dollars</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/multi-cam-comedies-and-wga-dollars>
 
 ---
 

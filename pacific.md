@@ -1,11 +1,663 @@
 ---
 title: pacific 2024.32
-updated: 2024-08-05 17:08:24
+updated: 2024-08-06 08:33:41
 ---
 
 # pacific 2024.32
 
-(date: 2024-08-05 17:08:24)
+(date: 2024-08-06 08:33:41)
+
+---
+
+## Port Authority of Guam posts $4.6M net gain despite setbacks caused by Mawar 
+
+date: 2024-08-06, from: Pacific Island Times
+
+By Ron Rocky Coloma Despite the devastation wrought by Typhoon Mawar last year, the Port Authority of Guam has demonstrated resilience... 
+
+<https://www.pacificislandtimes.com/post/port-authority-of-guam-posts-4-6m-net-gain-despite-setbacks-caused-by-mawar>
+
+---
+
+## A year after a devastating fire, Lahaina is ready to rebuild. But how?
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>Across nine generations, Archie Kalepa&#8217;s family has seen the waterfront in Lahaina, Maui, undergo repeated transformation.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/nation-world-news/a-year-after-a-devastating-fire-lahaina-is-ready-to-rebuild-but-how/>
+
+---
+
+## Harris nears her big VP reveal after fierce lobbying from Democrats
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Vice President Kamala Harris is expected to reveal her running mate today, a decision that will end a 16-day sprint to vet, interview and choose a person who could potentially become the future leader of the Democratic Party.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/nation-world-news/harris-nears-her-big-vp-reveal-after-fierce-lobbying-from-democrats/>
+
+---
+
+## Maui Strong Fund has paid out $109 million
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Community Foundation has awarded over $109 million in grants over the past year to support recovery efforts from the devastating Aug. 8 wildfires on Maui.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/hawaii-news/maui-strong-fund-has-paid-out-109-million/>
+
+---
+
+## Summit discusses fentanyl crisis, impact on youth
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>County and state policy makers urged public engagement in protecting Big Island keiki from the scourge of fentanyl.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/hawaii-news/summit-discusses-fentanyl-crisis-impact-on-youth/>
+
+---
+
+## Roaches, sewage, close L&L Drive Inn in Captain Cook
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health has shut down the L&#038;L Drive Inn in Captain Cook after discovering an active roach infestation, a suspected sewage backup and several other health violations in the restaurant.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/hawaii-news/roaches-sewage-close-ll-drive-inn-in-captain-cook/>
+
+---
+
+## ‘Kai Ehitu, Kawaihae win big at HCRA states
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>With how dominant Kai &#8216;Ehitu Canoe Club has been all season, Saturday&#8217;s Hawaii Canoe Racing Association&#8217;s (HCRA) State Championship Regatta victory came as no surprise.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/sports/kai-ehitu-kawaihae-win-big-at-hcra-states/>
+
+---
+
+## UHH sports: Men’s golf earns GCAA All-Academic team recognition; Trio of local hoopers to join Vulcans
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>NORMAN, Oklahoma &#8211; Hawai&#8217;i Hilo men&#8217;s golf was among nearly 250 collegiate golf teams to earn recognition by the Golf Coaches Association of America for achieving outstanding team academics for the 2023-24 school year.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/sports/uhh-sports-mens-golf-earns-gcaa-all-academic-team-recognition-trio-of-local-hoopers-to-join-vulcans/>
+
+---
+
+## Hawaii District 4 wins minors state title
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>Another local squad made the Big Island proud over the weekend, as Hawaii Little League District 4&#8217;s team won the Minor League Baseball State Championship on Wednesday on O&#8216;ahu.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/sports/hawaii-district-4-wins-minors-state-title/>
+
+---
+
+## Warriors engage in trench warfare in no-frills scrimmage
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii running back Landon Sims picked up some &#8220;Nasti&#8221; tips and receiver/returner Tylan Hines was given &#8220;Mighty&#8221; advice in a football afternoon of 11-on-11 scrimmaging and no-autopsy, no-foul collision drills.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/sports/warriors-engage-in-trench-warfare-in-no-frills-scrimmage/>
+
+---
+
+## Simone Biles gets silver on floor, Jordan Chiles bronze, as gymnastics ends in Paris
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; Gymnastics saved the drama for the last day. Simone Biles failed to earn a gold medal, but her teammate Jordan Chiles earned a bronze after a judges inquiry into her difficulty score.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/sports/simone-biles-gets-silver-on-floor-jordan-chiles-bronze-as-gymnastics-ends-in-paris/>
+
+---
+
+## US personnel wounded in attack against base in Iraq, officials say
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; At least five U.S. personnel were injured in an attack against a military base in Iraq on Monday, U.S. officials told Reuters, as the Middle East braced for a possible new wave of attacks by Iran and its allies following last week&#8217;s killing of senior members of militant groups Hamas and Hezbollah.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/nation-world-news/us-personnel-wounded-in-attack-against-base-in-iraq-officials-say/>
+
+---
+
+## Facing mass protests, Bangladesh leader quits, setting up power struggle
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>DHAKA, Bangladesh &#8212; They came prepared for violence. A day after about 100 people were killed in anti-government protests, hundreds of thousands took to the streets of Dhaka, Bangladesh&#8217;s capital, defying a curfew imposed by the government and demanding the resignation of Prime Minister Sheikh Hasina.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/nation-world-news/facing-mass-protests-bangladesh-leader-quits-setting-up-power-struggle/>
+
+---
+
+## ‘Google is a monopolist,’ judge rules inlandmark antitrust case
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Google acted illegally to maintain a monopoly in online search, a federal judge ruled Monday, a landmark decision that strikes at the power of tech giants in the modern internet era and that may fundamentally alter the way they do business.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/nation-world-news/google-is-a-monopolist-judge-rules-inlandmark-antitrust-case/>
+
+---
+
+## Study puts a $43 billion yearly price tag on cancer screening
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>The United States spent $43 billion annually on screening to prevent five cancers, according to one of the most comprehensive estimates of medically recommended cancer testing ever produced.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/nation-world-news/study-puts-a-43-billion-yearly-price-tag-on-cancer-screening/>
+
+---
+
+## Kennedy fights to stay on ballot, but everyone’s talking about the bear
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>Lucas Altman remembers it well: On an early October night in 2014, he had taken his two Labradors to New York&#8217;s Central Park when suddenly they became alert, their tails wagging with the thrill of the hunt as they towed him to a patch of shrubbery.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/nation-world-news/kennedy-fights-to-stay-on-ballot-but-everyones-talking-about-the-bear/>
+
+---
+
+## Fears of slowing U.S. growth jolt markets around the world
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>Anxiety over a slowdown in the U.S. economy intensified Monday, with a retreat in markets that began last week snowballing into a global rout.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/nation-world-news/fears-of-slowing-u-s-growth-jolt-markets-around-the-world/>
+
+---
+
+## Debby will bring heavy flooding to Georgia and the Carolinas
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>Tropical Storm Debby continued its slow march into Georgia on Monday night, with forecasters warning residents across the southeastern United States that the threat of major flooding from the storm could last for the next several days.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/nation-world-news/debby-will-bring-heavy-flooding-to-georgia-and-the-carolinas/>
+
+---
+
+## Can you define socialism?
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>Before we explore this divisive issue, I want to be clear that I believe capitalism has done more to lift people out of poverty than any other social and economic system in history. But don&#8217;t kid yourself that we live in a country that embraces &#8220;free market&#8221; capitalism. As we embark on this exploration, please know that I&#8217;m not suggesting we embrace policies that create disincentives to work, and work hard. Nor am I suggesting that we embrace policies that guarantee equal outcomes for all Americans. Rather, we need to evolve capitalism and break out of the political narratives that constrain that objective.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/opinion/can-you-define-socialism/>
+
+---
+
+## Home again: Russia prisoner swap brings back Americans
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>After harrowing ordeals wrongly detained in Russian prisons, 16 people were freed in exchange for eight Russian prisoners held in the United States, Slovenia, Poland, Norway and Germany.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/opinion/home-again-russia-prisoner-swap-brings-back-americans/>
+
+---
+
+## Let’s Talk Food: Chicken hekka
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>My friend Amy Aoyagi mentioned that she misses eating chicken hekka but there are no restaurants in town that serve this dish anymore. This dish was created in the 1880s, probably in the sugar plantation camps. Hekka is the Hiroshima dialect for sukiyaki and is great for sharing. Amy&#8217;s memories are eating hekka that was cooked over a hibachi.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/features/lets-talk-food-chicken-hekka/>
+
+---
+
+## Remengesau Officially files at the Palau Election Commission
+
+date: 2024-08-06, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71700" data-permalink="https://islandtimes.org/remengesau-officially-files-at-the-palau-election-commission/remengesau-files-nomination-for-office-of-the-president/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?fit=2560%2C1920&amp;ssl=1" data-orig-size="2560,1920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone XS Max&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1722853345&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.25&quot;,&quot;iso&quot;:&quot;25&quot;,&quot;shutter_speed&quot;:&quot;0.00062111801242236&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Remengesau files nomination for Office of the President" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Remengesau-files-nomination-for-Office-of-the-President-scaled.jpg?fit=780%2C585&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>August 5, 2024 – On this New Moon Monday, Presidential candidate Tommy Esang Remengesau, Jr. officially declared his candidacy at the Palau Election Commission. With support from families and friends, the grassroots candidate filed his candidacy after over 5,000 petition signatures urged him to run. In response to personal claims that his candidacy is unconstitutional, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/remengesau-officially-files-at-the-palau-election-commission/">Remengesau Officially files at the Palau Election Commission</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/remengesau-officially-files-at-the-palau-election-commission/>
+
+---
+
+## Former Vice President Oilouch Joins Race for Office Again
+
+date: 2024-08-06, from: Island Times
+
+<figure><img width="670" height="360" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/image_123650291.jpg?fit=670%2C360&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/image_123650291.jpg?w=670&amp;ssl=1 670w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/image_123650291.jpg?resize=300%2C161&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/image_123650291.jpg?resize=400%2C215&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/image_123650291.jpg?fit=670%2C360&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71698" data-permalink="https://islandtimes.org/former-vice-president-oilouch-joins-race-for-office-again/image_123650291/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/image_123650291.jpg?fit=670%2C360&amp;ssl=1" data-orig-size="670,360" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="image_123650291" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/image_123650291.jpg?fit=300%2C161&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/image_123650291.jpg?fit=670%2C360&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Raynold &#8220;Arnold&#8221; Oilouch, a candidate for the Vice President&#8217;s office, filed his nomination petition at the Office of Palau Election Commission on August 5, witnessed by family and supporters. Many candidates, including Oilouch, chose August 5 to file their candidacies, following Palau’s traditional belief that the &#8220;new moon&#8221; is an auspicious day to start new [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/former-vice-president-oilouch-joins-race-for-office-again/">Former Vice President Oilouch Joins Race for Office Again</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/former-vice-president-oilouch-joins-race-for-office-again/>
+
+---
+
+## TRAGIC UPDATE: MISSING PERSON FOUND DECEASED
+
+date: 2024-08-06, from: Island Times
+
+<p>By: Eustoria Maria Borja Koror, Palau – The community is mourning the loss of Costner Desbedall Tellei, 29, who was reported missing on July 31, 2024. The Palau Bureau of Public Safety (BPS) confirmed that Costner Tellei has been found deceased. Costner Desbedall Tellei was last seen at the Belau National Hospital area around 11:00 [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tragic-update-missing-person-found-deceased/">TRAGIC UPDATE: MISSING PERSON FOUND DECEASED</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/tragic-update-missing-person-found-deceased/>
+
+---
+
+## Senator Kuartei Protests Inclusion in Colleague’s Letter to Election Commission
+
+date: 2024-08-06, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau — Senator Stevenson Kuartei has lodged a formal complaint with Senate President Hokkons Baules, opposing Senator Rukebai Inabo&#8217;s letter to the Palau Election Commission (PEC). Inabo&#8217;s letter, dated July 30, requested the PEC to review the candidacy of former President Tommy E. Remengesau Jr. for the upcoming presidential election [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/senator-kuartei-protests-inclusion-in-colleagues-letter-to-election-commission/">Senator Kuartei Protests Inclusion in Colleague&#8217;s Letter to Election Commission</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/senator-kuartei-protests-inclusion-in-colleagues-letter-to-election-commission/>
+
+---
+
+## Police Car Crash Sparks Concerns
+
+date: 2024-08-06, from: Island Times
+
+<p>KOROR, Palau – A police vehicle crashed over the weekend, prompting questions from the community about the incident. The single-vehicle crash occurred on the road between Did Ra Ngmatl and Neco Shell, with the car ending up on an island. Details about the crash were scarce. Social media posts offered conflicting accounts. Some suggested the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/police-car-crash-sparks-concerns/">Police Car Crash Sparks Concerns</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/police-car-crash-sparks-concerns/>
+
+---
+
+## Chinese worker’s entry visa to Palau revoked, permits rejected
+
+date: 2024-08-06, from: Island Times
+
+<p>The entry visa of the Chinese worker who obtained a work visa by submitting a Philippines passport was revoked. In a letter to Vance Polycarp, DBA HK Lucky Restaurant, the employer of William Estacio Lim, Division of Employment Service&#160; Director Terralyn Nabeyama stated that the entry and work permit of Lim has been revoked. Earlier [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/chinese-workers-entry-visa-to-palau-revoked-permits-rejected/">Chinese worker’s entry visa to Palau revoked, permits rejected</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/chinese-workers-entry-visa-to-palau-revoked-permits-rejected/>
+
+---
+
+## Primary Election Decision Pending as Filing Deadline Approaches in Palau
+
+date: 2024-08-06, from: Island Times
+
+<p>The question of whether Palau will hold a primary election remains unanswered as the deadline for filing nominating petitions for the offices of President, Vice-President, and the Olbiil Era Kelulau approaches today, August 7. If there are three candidates for President, the commission will hold a primary election on September 24. The general election is [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/primary-election-decision-pending-as-filing-deadline-approaches-in-palau/">Primary Election Decision Pending as Filing Deadline Approaches in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/primary-election-decision-pending-as-filing-deadline-approaches-in-palau/>
+
+---
+
+## 26th Oceania Customs Organisation (OCO) Annual Conference
+
+date: 2024-08-06, from: Island Times
+
+<figure><img width="1024" height="322" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OCO-Group-Photo.jpg?fit=1024%2C322&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OCO-Group-Photo.jpg?w=1105&amp;ssl=1 1105w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OCO-Group-Photo.jpg?resize=300%2C94&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OCO-Group-Photo.jpg?resize=1024%2C322&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OCO-Group-Photo.jpg?resize=768%2C241&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OCO-Group-Photo.jpg?resize=400%2C126&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OCO-Group-Photo.jpg?resize=706%2C222&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OCO-Group-Photo.jpg?fit=1024%2C322&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71682" data-permalink="https://islandtimes.org/26th-oceania-customs-organisation-oco-annual-conference/oco-group-photo/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OCO-Group-Photo.jpg?fit=1105%2C347&amp;ssl=1" data-orig-size="1105,347" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="OCO Group Photo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OCO-Group-Photo.jpg?fit=300%2C94&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OCO-Group-Photo.jpg?fit=780%2C245&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Rarotonga, Cook Islands 29 – 31 July 2024 Theme: “Strengthening Partnerships for Dynamic Solutions and a Future-ready Blue Pacific” The 26th OCO Annual Conference was held in Rarotonga, Cook Islands, from 29th to 31st July 2024, under the theme “Strengthening Partnerships for Dynamic Solutions and a Future-ready Blue Pacific.” The conference was attended by Heads [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/26th-oceania-customs-organisation-oco-annual-conference/">26th Oceania Customs Organisation (OCO) Annual Conference</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/26th-oceania-customs-organisation-oco-annual-conference/>
+
+---
+
+## Couple in prison pending trial for drowning death of toddler
+
+date: 2024-08-06, from: Guam Daily Post
+
+A man and a woman are being held in prison pending trial on charges related to the death of a 3-year-old boy last month. 
+
+<https://www.postguam.com/news/local/couple-in-prison-pending-trial-for-drowning-death-of-toddler/article_53478ca8-5387-11ef-8945-9bdfd38273db.html>
+
+---
+
+## Suspect in fatal hit-and-run of child allowed to look for a job
+
+date: 2024-08-06, from: Guam Daily Post
+
+A man accused in the fatal hit-and-run of a 2-year-old girl last year has been allowed to try to find a job. 
+
+<https://www.postguam.com/news/local/suspect-in-fatal-hit-and-run-of-child-allowed-to-look-for-a-job/article_e53c894e-5399-11ef-87b0-cb4e2a896a7e.html>
+
+---
+
+## Guam Local Working Group to identify resource issues
+
+date: 2024-08-06, from: Guam Daily Post
+
+As an island, Guam’s natural resources such as land and water are limited, but work is being done by the Guam Local Working Group to ensure that farmers, ranchers and landowners come to the table to help address resource issues… 
+
+<https://www.postguam.com/news/local/guam-local-working-group-to-identify-resource-issues/article_27eba650-52da-11ef-8150-7f65b1371687.html>
+
+---
+
+## Senators meet again on Bill 317, start of class delayed to Aug. 15
+
+date: 2024-08-06, from: Guam Daily Post
+
+Lawmakers met again in emergency session Tuesday afternoon to consider a measure meant to allow public schools to open pending an inspection from the Department of Public Health and Social Services, after initially rejecting the measure last week. 
+
+<https://www.postguam.com/news/local/senators-meet-again-on-bill-317-start-of-class-delayed-to-aug-15/article_2c63acbc-5395-11ef-a263-5fb05a9807ed.html>
+
+---
+
+## GFD locates missing surveyor
+
+date: 2024-08-06, from: Guam Daily Post
+
+A 28-year-old man reported missing on Monday afternoon was located Tuesday morning. 
+
+<https://www.postguam.com/news/local/gfd-locates-missing-surveyor/article_62416e7a-53a7-11ef-bd8d-3b17d34768ef.html>
+
+---
+
+## Parks and Rec officials: Funding needed
+
+date: 2024-08-06, from: Guam Daily Post
+
+Officials from the Department of Parks and Recreation appeared before lawmakers Monday afternoon to discuss the need for a $5 million appropriation for the purchase of equipment and supplies to address Guam's parks, as well as the purchase of essential… 
+
+<https://www.postguam.com/news/local/parks-and-rec-officials-funding-needed/article_691ea63e-52fa-11ef-8622-8f2729497424.html>
+
+---
+
+## PICRC researcher Daniel Cassidy completes training at the world’s largest reef restoration project
+
+date: 2024-08-06, from: Island Times
+
+<figure><img width="1024" height="575" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_MARRS_group.jpg?fit=1024%2C575&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_MARRS_group.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_MARRS_group.jpg?resize=300%2C168&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_MARRS_group.jpg?resize=1024%2C575&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_MARRS_group.jpg?resize=768%2C431&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_MARRS_group.jpg?resize=1200%2C673&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_MARRS_group.jpg?resize=400%2C224&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_MARRS_group.jpg?resize=706%2C396&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_MARRS_group.jpg?fit=1024%2C575&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71679" data-permalink="https://islandtimes.org/picrc-researcher-daniel-cassidy-completes-training-at-the-worlds-largest-reef-restoration-project/pr_marrs_group/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_MARRS_group.jpg?fit=1249%2C701&amp;ssl=1" data-orig-size="1249,701" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon PowerShot G7 X Mark III&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1717508827&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;8.8&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.008&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PR_MARRS_group" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_MARRS_group.jpg?fit=300%2C168&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_MARRS_group.jpg?fit=780%2C438&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Palau International Coral Reef Center (PICRC)’s aquarium researcher Daniel Cassidy has recently completed the official SER-endorsed competency training for the Mars Assisted Reef Restoration System (MARRS) on Bontosua Island, in the Spermonde Archipelago, South Sulawesi, Indonesia. The Mars Coral Reef Restoration Program, the largest-scale reef restoration program in the world, began in 2006 to restore [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-researcher-daniel-cassidy-completes-training-at-the-worlds-largest-reef-restoration-project/">PICRC researcher Daniel Cassidy completes training at the world’s largest reef restoration project</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/picrc-researcher-daniel-cassidy-completes-training-at-the-worlds-largest-reef-restoration-project/>
+
+---
+
+## Koa Moana 24 Marines and Palauan Community Rally for Anti-Human Trafficking 5K on World Day Against Trafficking in Persons
+
+date: 2024-08-06, from: Island Times
+
+<figure><img width="1000" height="667" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/koa-moana-24.jpg?fit=1000%2C667&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/koa-moana-24.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/koa-moana-24.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/koa-moana-24.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/koa-moana-24.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/koa-moana-24.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/koa-moana-24.jpg?fit=1000%2C667&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71677" data-permalink="https://islandtimes.org/koa-moana-24-marines-and-palauan-community-rally-for-anti-human-trafficking-5k-on-world-day-against-trafficking-in-persons/koa-moana-24/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/koa-moana-24.jpg?fit=1000%2C667&amp;ssl=1" data-orig-size="1000,667" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="koa moana 24" data-image-description="" data-image-caption="&lt;p&gt;Photo By Sgt. Nello Miele | U.S. Marines with Combat Logistics Battalion 13, Combat Logistics Regiment 17, 1st Marine Logistics Group, participate in a 5K run and walk in support of anti-human trafficking awareness on World Day Against Trafficking in Persons during exercise Koa Moana 24 at Koror, Palau, July 30, 2024. During Koa Moana’s deployment throughout the Indo-Pacific region, U.S. Marines and Sailors from I Marine Expeditionary Force work to strengthen alliances and partnerships with development of interoperable capabilities, combined operations, theater security cooperation, and capacity-building efforts. (U.S. Marine Corps photo by Sgt. Nello Miele)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/koa-moana-24.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/koa-moana-24.jpg?fit=780%2C520&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Story by 1st Lt. John Carter 1st Marine Logistics Group&#160; KOROR, Palau — In a compelling display of international collaboration and community spirit, U.S. Marines from Koa Moana 24 joined with the Palauan community on July 30, 2024 to observe World Day Against Trafficking in Persons. The event, a vibrant 5K run and walk, saw [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/koa-moana-24-marines-and-palauan-community-rally-for-anti-human-trafficking-5k-on-world-day-against-trafficking-in-persons/">Koa Moana 24 Marines and Palauan Community Rally for Anti-Human Trafficking 5K on World Day Against Trafficking in Persons</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/koa-moana-24-marines-and-palauan-community-rally-for-anti-human-trafficking-5k-on-world-day-against-trafficking-in-persons/>
+
+---
+
+## GRATITUDE RECIPROCATES
+
+date: 2024-08-06, from: Island Times
+
+<figure><img width="900" height="900" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/unnamed.jpg?fit=900%2C900&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/unnamed.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/unnamed.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/unnamed.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/unnamed.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/unnamed.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/unnamed.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/unnamed.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/unnamed.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/unnamed.jpg?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/unnamed.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/unnamed.jpg?fit=900%2C900&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71675" data-permalink="https://islandtimes.org/gratitude-reciprocates/unnamed-24/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/unnamed.jpg?fit=900%2C900&amp;ssl=1" data-orig-size="900,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="unnamed" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/unnamed.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/unnamed.jpg?fit=780%2C780&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Matthew McCanaughey&#8217;s speech when he won the award fir BEST ACTOR of the year. His speech moved me. He said, &#8220;I want to thank God because that&#8217;s who I look up to. He&#8217;s graced my life with opportunities. He&#8217;s shown me it&#8217;s a scientific fact that gratitude reciprocates.&#8221;&#160; According to Robert Emmons, a pioneer in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/gratitude-reciprocates/">GRATITUDE RECIPROCATES</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/gratitude-reciprocates/>
+
+---
+
+## The Silent Majority
+
+date: 2024-08-06, from: Island Times
+
+<figure><img width="920" height="920" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/opinion-according-to-microphone.png?fit=920%2C920&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/opinion-according-to-microphone.png?w=920&amp;ssl=1 920w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/opinion-according-to-microphone.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/opinion-according-to-microphone.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/opinion-according-to-microphone.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/opinion-according-to-microphone.png?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/opinion-according-to-microphone.png?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/opinion-according-to-microphone.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/opinion-according-to-microphone.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/opinion-according-to-microphone.png?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/opinion-according-to-microphone.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/opinion-according-to-microphone.png?fit=920%2C920&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71673" data-permalink="https://islandtimes.org/the-silent-majority-15/opinion-according-to-microphone-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/opinion-according-to-microphone.png?fit=920%2C920&amp;ssl=1" data-orig-size="920,920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="opinion-according-to-microphone" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/opinion-according-to-microphone.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/opinion-according-to-microphone.png?fit=780%2C780&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>by Alonzo Kahalic/alkahalic6801@gmail.com Dear Leadership of Palau, In response to your inquiry regarding President Remengesau running in this year&#8217;s 2024 election, I&#8217;d like to address the phrase consecutive terms, “which means terms that are served without interruption&#8221; and how it applies to the position of President of the Republic of Palau. The phrase &#8220;consecutive terms&#8221; [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-silent-majority-15/">The Silent Majority</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/the-silent-majority-15/>
+
+---
+
+## New head of UN deep-sea mining regulator vows to restore neutrality
+
+date: 2024-08-06, from: Island Times
+
+<p>KINGSTON, 05 AUGUST 2024 (BENAR NEWS) &#8212; Promises of “accountability and transparency” in deep-sea mining saw nations vote on Friday for a Brazilian scientist as head of an obscure UN organisation that regulates the world’s seabed. Mounting opposition to the International Seabed Authority approving exploitation of the ocean’s minerals by corporations, before its environmental regulations [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/new-head-of-un-deep-sea-mining-regulator-vows-to-restore-neutrality/">New head of UN deep-sea mining regulator vows to restore neutrality</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/new-head-of-un-deep-sea-mining-regulator-vows-to-restore-neutrality/>
+
+---
+
+## Guam ‘facing a silent killer’
+
+date: 2024-08-06, from: Island Times
+
+<p>HAGÅTÑA, 05 AUGUST 2024 (THE GUAM DAILY POST) &#8212; A new threat has emerged on the island, according to Guam Governor Lou Leon Guerrero, who over the weekend issued a special address on fentanyl, a synthetic opioid drug that is a national problem and now a local problem. “Clearly, Guam is no stranger to the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/guam-facing-a-silent-killer/">Guam ‘facing a silent killer’</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/guam-facing-a-silent-killer/>
+
+---
+
+## Pacific Islands seek solutions to economic woes
+
+date: 2024-08-06, from: Island Times
+
+<p>SUVA, 05 AUGUST 2024 (FBC NEWS) &#8212; Pacific Islands, including Fiji, continue to face challenges with inflation, debt distress, and access to climate finance. This was highlighted by Deputy Prime Minister and Minister for Finance Biman Prasad during the two-day Forum Economic Ministers Meeting held in Suva last week. Prasad said these challenges need to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-islands-seek-solutions-to-economic-woes/">Pacific Islands seek solutions to economic woes</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/pacific-islands-seek-solutions-to-economic-woes/>
+
+---
+
+## Fears US economy headed towards recession spark jitters across global markets
+
+date: 2024-08-06, from: Island Times
+
+<p>ByDavid Taylor Business Reporter&#160; In short: (ABC-Australia) Global financial markets have fallen on fears the US is heading toward a recession. The tech-heavy NASDAQ lost 2.43 per cent on on Friday, local time, and is now in technical correction. What&#8217;s next?&#160; Analysts say further economic and financial markets weakness could put pressure on central banks [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/fears-us-economy-headed-towards-recession-spark-jitters-across-global-markets/">Fears US economy headed towards recession spark jitters across global markets</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/fears-us-economy-headed-towards-recession-spark-jitters-across-global-markets/>
+
+---
+
+## Protests in Bangladesh leave nearly 100 dead as demonstrators push for prime minister to resign
+
+date: 2024-08-06, from: Island Times
+
+<p>In short:(ABC-Australia) Student groups calling for Bangladesh&#8217;s government to resignhave again protested, clashing with police.At least 95 people have died and the government has shut down internetservices.What&#8217;s next?The prime minister says the protesters are &#8220;terrorists&#8221; and the government willimpose an indefinite nationwide curfew.The death toll from protests in Bangladesh on Sunday has risen to at [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/protests-in-bangladesh-leave-nearly-100-dead-as-demonstrators-push-for-prime-minister-to-resign/">Protests in Bangladesh leave nearly 100 dead as demonstrators push for prime minister to resign</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/protests-in-bangladesh-leave-nearly-100-dead-as-demonstrators-push-for-prime-minister-to-resign/>
+
+---
+
+## Team Palau Olympians debut in their first Olympics in Paris.
+
+date: 2024-08-06, from: Island Times
+
+<p>Team Palau Olympians debut in their first Olympics in Paris. Brother and sister, Jion and Yuri Hosei marked a first for Palau, siblings who both qualified for the Olympics. Another special first, a daughter of a former Palauan Olympian, named after the Sydney Olympics, also debuted in her first Olympic in Paris, Sydney Francisco. Not [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/team-palau-olympians-debut-in-their-first-olympics-in-paris/">Team Palau Olympians debut in their first Olympics in Paris.</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/team-palau-olympians-debut-in-their-first-olympics-in-paris/>
+
+---
+
+## Noah Lyles wins the Paris 2024 Olympic Games 100m, the shortest race making time bend and twist
+
+date: 2024-08-06, from: Island Times
+
+<p>By&#160;Simon Smale&#160;at the Stade de France (ABC-Australia) Time is a funny thing. Sometimes it can feel like you have too much of it.&#160; We all know the feeling. Wasted, lethargic hours waiting for that one moment, that one thing you&#8217;ve been looking forward to for an age. Or perhaps there&#8217;s not enough time. Suddenly that [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/noah-lyles-wins-the-paris-2024-olympic-games-100m-the-shortest-race-making-time-bend-and-twist/">Noah Lyles wins the Paris 2024 Olympic Games 100m, the shortest race making time bend and twist</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/noah-lyles-wins-the-paris-2024-olympic-games-100m-the-shortest-race-making-time-bend-and-twist/>
+
+---
+
+## Suspect accused of assault at Tumon bar
+
+date: 2024-08-06, from: Guam Daily Post
+
+A man charged with aggravated assault allegedly punched the victim after the victim was taunting him. 
+
+<https://www.postguam.com/news/suspect-accused-of-assault-at-tumon-bar/article_565266bc-53a9-11ef-8415-3bab9eeccb73.html>
+
+---
+
+## Off-limits: Missile Defense Agency eyes lease agreements with property owners around missile defense sites
+
+date: 2024-08-06, from: Pacific Island Times
+
+By Mar-Vic Cagurangan The draft environmental impact statement for the Guam missile defense system will be released in October, and if... 
+
+<https://www.pacificislandtimes.com/post/off-limits-missile-defense-agency-eyes-lease-agreements-with-property-owners-around-missile-defense>
+
+---
+
+## A call to redefine leadership in Fiji
+
+date: 2024-08-06, from: Pacific Island Times
+
+The call for gender equality may be resonating louder than ever before, yet its echoes often fall on deaf ears. We may stand on the... 
+
+<https://www.pacificislandtimes.com/post/a-call-to-redefine-leadership-in-fiji>
+
+---
+
+## Alumna receives award for championing health equity in Hawaiʻi
+
+date: 2024-08-06, from: University of Hawaiʻi News
+
+<p>The award was presented by Asian and Pacific Islander American Health Forum.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/05/uh-alumna-receives-apiahf-award/">Alumna receives award for championing health equity in Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/05/uh-alumna-receives-apiahf-award/>
+
+---
+
+## USP Journalism alumni shine at Solomon Islands national media awards
+
+date: 2024-08-06, from: University of the South Pacific (Fiji)
+
+<p>Four alumni of The University of the South Pacific&#8217;s (USP) Journalism programme, who are leading...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-journalism-alumni-shine-at-solomon-islands-national-media-awards/">USP Journalism alumni shine at Solomon Islands national media awards</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-journalism-alumni-shine-at-solomon-islands-national-media-awards/>
+
+---
+
+## The Land of the Rising Sun’s rising role in the Pacific 
+
+date: 2024-08-06, from: Pacific Island Times
+
+Japanese defense spending explodes; highest since WWII Spending 1.6 percent of GDP on defense is considered normal for much of the world.... 
+
+<https://www.pacificislandtimes.com/post/the-land-of-the-rising-sun-s-rising-role-in-the-pacific>
+
+---
+
+## $21.4M contract awarded for repair of  Mawar-damaged terminal at Andersen Air Force Base
+
+date: 2024-08-06, from: Pacific Island Times
+
+By Pacific Island Times News Staff Fargo Pacific Inc., a  Guam company, has been awarded a $21.4 million contract to repair the passenger... 
+
+<https://www.pacificislandtimes.com/post/21-4m-contract-awarded-for-repair-of-mawar-damaged-terminal-at-andersen-air-force-base>
+
+---
+
+## New class of aspiring physicians welcomed at JABSOM
+
+date: 2024-08-06, from: University of Hawaiʻi News
+
+<p>More than 2,200 applied for admission to <abbr>JABSOM</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/05/jabsom-welcomes-class-of-2028/">New class of aspiring physicians welcomed at <abbr>JABSOM</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/05/jabsom-welcomes-class-of-2028/>
+
+---
+
+## New Article Connects Island Restoration, Seabird Populations, and Coral Reef Health
+
+date: 2024-08-06, from: Island Conservation News
+
+<p>New research shows the vital link between island restoration, healthy seabird populations, and resilient, thriving coral reefs!</p>
+<p>The post <a href="https://www.islandconservation.org/seabirds-and-coral-reef-health/">New Article Connects Island Restoration, Seabird Populations, and Coral Reef Health</a> appeared first on <a href="https://www.islandconservation.org">Island Conservation</a>.</p>
+ 
+
+<https://www.islandconservation.org/seabirds-and-coral-reef-health/>
+
+---
+
+## GFD: Missing surveyor located 'in fairly good health'
+
+date: 2024-08-06, from: Guam Daily Post
+
+A 28-year-old man reported missing on Monday afternoon was located Tuesday morning. 
+
+<https://www.postguam.com/news/gfd-missing-surveyor-located-in-fairly-good-health/article_18f4f336-5389-11ef-a6b9-b766a290df79.html>
 
 ---
 
@@ -39,6 +691,106 @@ date: 2024-08-05, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/08/05/online-textbook-orders-2024/">Textbook orders move fully online for <abbr>UH</abbr> Mānoa fall 2024</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/08/05/online-textbook-orders-2024/>
+
+---
+
+## Japan professor to lecture on Chamorro culture
+
+date: 2024-08-05, updated: 2024-08-06, from: Marianas Variety
+
+THE Northern Marianas Humanities Council invites the public to its community lecture series this Wednesday, featuring Teikyo University Professor Kyoko Nakayama, who will discuss her interest in Chamorro culture, history, and dance. 
+
+<https://www.mvariety.com/news/local/japan-professor-to-lecture-on-chamorro-culture/article_2ac27c1a-52cf-11ef-952b-b74bca5361ff.html>
+
+---
+
+## Carlos Yulo wins men's vault to scoop second gold for Philippines in Paris
+
+date: 2024-08-05, updated: 2024-08-06, from: Marianas Variety
+
+PARIS (Reuters) — Carlos Edriel Yulo of the Philippines won his second gold medal in as many days after he soared to the top of the podium in men's vault at the Paris Olympics on Sunday. 
+
+<https://www.mvariety.com/sports/nationalsports/carlos-yulo-wins-mens-vault-to-scoop-second-gold-for-philippines-in-paris/article_d1b0f1be-532e-11ef-84b3-4fb9c824eca8.html>
+
+---
+
+## Registration for Rota Marathon now open
+
+date: 2024-08-05, updated: 2024-08-06, from: Marianas Variety
+
+(MVA) — Registration is now open for the 2nd Annual Rota Marathon, which is set for Jan. 18, 2025. The race will feature a full marathon, half-marathon and 5K courses on the picturesque island of Rota in the 14-island archipelago known for its natural beauty, rich history, and friendly community. 
+
+<https://www.mvariety.com/sports/localsports/registration-for-rota-marathon-now-open/article_3c862f36-532f-11ef-87d6-dbcf33f51777.html>
+
+---
+
+## Vicente Palacios leads Intermediate Class in round 7
+
+date: 2024-08-05, updated: 2024-08-06, from: Marianas Variety
+
+VICENTE Palacios on Sunday recorded his first overall win in the Intermediate Class in round 7 of the Marianas Racing Association’s “Moto IV” 2024 Points Race Series at CowTown Raceway Park. 
+
+<https://www.mvariety.com/sports/localsports/vicente-palacios-leads-intermediate-class-in-round-7/article_d1f32c22-532f-11ef-affb-a3420c2581ae.html>
+
+---
+
+## Two battleground states seen vulnerable to post-election chaos
+
+date: 2024-08-05, updated: 2024-08-06, from: Marianas Variety
+
+WASHINGTON (Reuters) — Pennsylvania and Wisconsin, two states seen as must-wins in the Nov. 5 presidential election, have failed to adopt electoral reforms intended to avoid a repeat of the chaos that followed Republican Donald Trump's attempts to overturn his 2020 defeat. 
+
+<https://www.mvariety.com/news/national/two-battleground-states-seen-vulnerable-to-post-election-chaos/article_2a86f8b2-532d-11ef-a490-5776ce473cca.html>
+
+---
+
+## World records tumble as US rules the Paris pool
+
+date: 2024-08-05, updated: 2024-08-06, from: Marianas Variety
+
+PARIS (Reuters) — Iron-man Bobby Finke and the U.S. women's medley relay team shattered world records in golden performances as the Olympic swim meet ended in exhilarating fashion on Sunday with the Americans on top again. 
+
+<https://www.mvariety.com/sports/nationalsports/world-records-tumble-as-us-rules-the-paris-pool/article_65e84680-532e-11ef-902e-3b390f4aa087.html>
+
+---
+
+## CNMI SBDC and Bank of Hawaii continue partnership for third year with ‘Smart Money Seminar’
+
+date: 2024-08-05, updated: 2024-08-06, from: Marianas Variety
+
+(SBDC) — The CNMI Small Business Development Center hosted by Northern Marianas College is excited to announce the continuation of its partnership with Bank of Hawaii for the third consecutive year, bringing the "I Kinometi Para I Kuminidat I Isla-ta" Small Business Revitalization &amp; Development Grant to local entrepreneurs. This partnership aims to support the growth and sustainability of small businesses in the CNMI, providing them with essential resources and training. 
+
+<https://www.mvariety.com/business/business_news/cnmi-sbdc-and-bank-of-hawaii-continue-partnership-for-third-year-with-smart-money-seminar/article_60510d28-5334-11ef-94ca-2ba73ca74e48.html>
+
+---
+
+## FY 2025 budget bill would suspend more earmarks
+
+date: 2024-08-05, updated: 2024-08-06, from: Marianas Variety
+
+THE fiscal year 2025 budget measure will include a proposal to suspend additional earmarked funds. 
+
+<https://www.mvariety.com/news/local/fy-2025-budget-bill-would-suspend-more-earmarks/article_7b71176e-5312-11ef-8827-0bab0a5f705a.html>
+
+---
+
+## Tinian mayor urges Senate panel to fund 31 job positions
+
+date: 2024-08-05, updated: 2024-08-06, from: Marianas Variety
+
+TINIAN Mayor Edwin P. Aldan on Monday asked the Senate Fiscal Affairs Committee to fund 31 job positions at his office. 
+
+<https://www.mvariety.com/news/local/tinian-mayor-urges-senate-panel-to-fund-31-job-positions/article_9c0b8250-530a-11ef-a6e0-bb9431064c0f.html>
+
+---
+
+## IslandHer Rising fellowship now open for applicants
+
+date: 2024-08-05, updated: 2024-08-06, from: Marianas Variety
+
+THE IslandHer Rising College and Career Prep Fellowship application is currently live on the organization's official website: 
+
+<https://www.mvariety.com/news/local/islandher-rising-fellowship-now-open-for-applicants/article_7c23f53e-52cf-11ef-a3b0-4f03bcb565a8.html>
 
 ---
 
@@ -231,6 +983,106 @@ date: 2024-08-05, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/08/05/opinion/women-are-americas-working-class-now/>
+
+---
+
+## WOW cast member, Guam native 'Tiki Chamorro' talks van life and wrestling
+
+date: 2024-08-05, from: Guam Daily Post
+
+Before Billionna Olivia “Tiki Chamorro” Reyes left Guam for careers in the military, on the small and silver screens, and in the ring as a professional wrestler, the 2009 Southern High School graduate enjoyed life with her family in Sånta… 
+
+<https://www.postguam.com/sports/local/wow-cast-member-guam-native-tiki-chamorro-talks-van-life-and-wrestling/article_f7da6e08-52b4-11ef-b577-8be282767c81.html>
+
+---
+
+## Superintendent to public school employees: ‘Be a positive voice’
+
+date: 2024-08-05, from: Guam Daily Post
+
+It’s been tough going for the Guam Department of Education. It is faced with the challenge of starting the school year in a few days as 18 schools still need passing sanitary inspections. Student proficiency data is remarkably low. But… 
+
+<https://www.postguam.com/news/local/superintendent-to-public-school-employees-be-a-positive-voice/article_238b6810-52d6-11ef-a99d-8f9531581876.html>
+
+---
+
+## AG’s office 'reconsidering several things'  for father charged in 1-year-old's death
+
+date: 2024-08-05, from: Guam Daily Post
+
+The Office of the Attorney General is in plea deal negotiations with a man charged with child abuse stemming from the death of his 1-year-old son. 
+
+<https://www.postguam.com/news/local/ag-s-office-reconsidering-several-things-for-father-charged-in-1-year-olds-death/article_7ad175f2-52d0-11ef-a9a9-83b80a4b539c.html>
+
+---
+
+## 2021 murder suspect to be seen by neuropsychologist this month
+
+date: 2024-08-05, from: Guam Daily Post
+
+A man accused of fatally stabbing a radiologist in 2021 will be evaluated by a neuropsychologist later this month. 
+
+<https://www.postguam.com/news/local/2021-murder-suspect-to-be-seen-by-neuropsychologist-this-month/article_0919e7d2-52d5-11ef-adc6-1f66ff67d412.html>
+
+---
+
+## Defendant in 2021 Humåtak mayor  homicide appointed new attorney
+
+date: 2024-08-05, from: Guam Daily Post
+
+Rudy Fegurgur Quinata was appointed a new attorney in a case in which he is accused of killing former Humåtak Mayor Daniel Sanchez in 2021. 
+
+<https://www.postguam.com/news/local/defendant-in-2021-hum-tak-mayor-homicide-appointed-new-attorney/article_a2e70e8c-52bf-11ef-aa61-5bc3ccdafb98.html>
+
+---
+
+## Legislature set to address annual budget bill in session this month
+
+date: 2024-08-05, from: Guam Daily Post
+
+The government of Guam is nearing the end of budget season, with the Guam Legislature set to debate the budget act this month. Lawmakers are anticipated to meet in session on Aug. 14. 
+
+<https://www.postguam.com/news/local/legislature-set-to-address-annual-budget-bill-in-session-this-month/article_06ae94c4-52cc-11ef-8d4f-bbe497a9d1e2.html>
+
+---
+
+## Guam native honored at  Pentagon
+
+date: 2024-08-05, from: Guam Daily Post
+
+A Guam native is helping the Chief Digital and Artificial Intelligence Office in its mission to accelerate the Department of Defense's adoption of data, analytics and artificial intelligence after receiving a promotion from the Office of the Secretary of Defense. 
+
+<https://www.postguam.com/news/local/guam-native-honored-at-pentagon/article_7f7fbbc4-52ce-11ef-8cbc-2f980bff4fce.html>
+
+---
+
+## Man accused of sexually assaulting teen
+
+date: 2024-08-05, from: Guam Daily Post
+
+A 38-year-old man was accused of sexually assaulting a 16-year-old girl over the weekend as well as in 2019. 
+
+<https://www.postguam.com/news/local/man-accused-of-sexually-assaulting-teen/article_1f80dc2c-52dc-11ef-b1b0-27313b1484cd.html>
+
+---
+
+## Governor, Legislature file briefs opposing AG's SCOTUS petition
+
+date: 2024-08-05, from: Guam Daily Post
+
+Gov. Lou Leon Guerrero and the Guam Legislature have both submitted briefs in opposition to the attorney general's petition to have the Supreme Court of the United States review a local decision holding the island's old abortion ban without effect.… 
+
+<https://www.postguam.com/news/local/governor-legislature-file-briefs-opposing-ags-scotus-petition/article_e17e61c0-5091-11ef-bac2-5f2bc7e8d160.html>
+
+---
+
+## GFD searching for 28-year-old man at Tanguisson
+
+date: 2024-08-05, from: Guam Daily Post
+
+The Guam Fire Department is currently conducting a search of the Tanguisson area for a 28-year-old male individual part of a surveying team, who was reported unaccounted for at around 2:21 p.m. 
+
+<https://www.postguam.com/news/gfd-searching-for-28-year-old-man-at-tanguisson/article_e771083e-5303-11ef-9ba3-7370075f6153.html>
 
 ---
 
@@ -622,6 +1474,66 @@ date: 2024-08-04, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/08/04/sports/joel-embiid-says-he-chose-team-usa-over-france-because-these-guys-wanted-me/>
+
+---
+
+## 2 cabotage exemption resolutions supported
+
+date: 2024-08-04, from: Guam Daily Post
+
+A joint public hearing was held Friday on two similar resolutions working in tandem through a two-pronged approach, one on the local front and the other on the federal front, aimed at addressing the significant challenges of the rising cost… 
+
+<https://www.postguam.com/news/local/2-cabotage-exemption-resolutions-supported/article_d78a6d06-51e2-11ef-b5f5-8b3488c581c0.html>
+
+---
+
+## Salas siblings earn Pan Kids hardware
+
+date: 2024-08-04, from: Guam Daily Post
+
+Late last month, Guam siblings Emmett Salas, Eyan Salas and Aria Salas competed in the 2024 International Brazilian Jiu-Jitsu Federation Championship Pan Kids at Silver Spurs Arena in Kissimmee, Florida. 
+
+<https://www.postguam.com/sports/local/salas-siblings-earn-pan-kids-hardware/article_eec7c412-51e9-11ef-9471-1302e6dcd758.html>
+
+---
+
+## Green runs a season-best time in Paris
+
+date: 2024-08-04, from: Guam Daily Post
+
+One day after Team Guam’s Regine Tugade’s historic run in the women’s 100-meter sprint at the 2024 Paris Summer Olympic Games, where she became the first female from Guam to advance out of a preliminary round, Guam’s Joe Green delivered… 
+
+<https://www.postguam.com/sports/local/green-runs-a-season-best-time-in-paris/article_cee4412e-51e0-11ef-8dac-6bf5049160bc.html>
+
+---
+
+## USS Abraham Lincoln makes port call
+
+date: 2024-08-04, from: Guam Daily Post
+
+Cloudy skies and light showers didn’t dampen spirits aboard the USS Abraham Lincoln, which pulled into Apra Harbor on Sunday morning. 
+
+<https://www.postguam.com/news/local/uss-abraham-lincoln-makes-port-call/article_b42d8bf8-5201-11ef-af39-f7c63f5f820d.html>
+
+---
+
+## GDOE deputy superintendent named
+
+date: 2024-08-04, from: Guam Daily Post
+
+Morgan “Wade” Borja Paul has been hired to oversee the finances and administrative services of the Guam Department of Education, GDOE said in a press release issued Thursday, which announced Paul as the department's newest deputy superintendent. 
+
+<https://www.postguam.com/news/local/gdoe-deputy-superintendent-named/article_c5e3afb6-5121-11ef-937f-ef254e899045.html>
+
+---
+
+## Unofficial primary election results in, voter turnout low
+
+date: 2024-08-04, from: Guam Daily Post
+
+Voter turnout for the 2024 primary election, which decides who will advance to the senatorial, congressional and mayoral races in November, was significantly low at 31%, which begs the question: where are the voters? 
+
+<https://www.postguam.com/news/local/unofficial-primary-election-results-in-voter-turnout-low/article_dcf182f2-520f-11ef-ba24-13e5dc51848f.html>
 
 ---
 

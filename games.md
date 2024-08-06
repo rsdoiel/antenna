@@ -1,11 +1,81 @@
 ---
 title: games 2024.32
-updated: 2024-08-05 17:08:28
+updated: 2024-08-06 08:33:45
 ---
 
 # games 2024.32
 
-(date: 2024-08-05 17:08:28)
+(date: 2024-08-06 08:33:45)
+
+---
+
+## Brandon Sanderson, master of crowdfunding hype, surprises with a second TTRPG setting
+
+date: 2024-08-06, updated: 2024-08-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/tabletop-games/24214470/brandon-sanderson-cosmere-ttrpg-surprise-announcement>
+
+---
+
+## Dead by Daylight’s Castlevania crossover is here
+
+date: 2024-08-06, updated: 2024-08-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24214453/castlevania-dead-by-daylight-crossover-release-date-ptb>
+
+---
+
+## Randy Pitchford is happy there’s finally a version of Borderlands his mom can get into
+
+date: 2024-08-06, updated: 2024-08-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24211430/borderlands-movie-randy-pitchford>
+
+---
+
+## GTA’s radio shows that Rockstar is a DJ
+
+date: 2024-08-06, updated: 2024-08-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24208534/gta-radio-rockstar-dj-non-stop-pop>
+
+---
+
+## Disney Dreamlight Valley update adds Tiana and her iconic restaurant in August
+
+date: 2024-08-06, updated: 2024-08-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24214028/disney-dreamlight-valley-tiana-gameloft-montreal-q-a>
+
+---
+
+## What time does Helldivers 2’s Freedom’s Flame Warbond release?
+
+date: 2024-08-06, updated: 2024-08-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/guides/2024/8/6/24214100/helldivers-2-freedoms-flame-warbond-start-time-release-date>
+
+---
+
+## Can Drilbur be shiny in Pokémon Go?
+
+date: 2024-08-06, updated: 2024-08-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24213801/can-drilbur-be-shiny-excadrill>
 
 ---
 

@@ -1,11 +1,21 @@
 ---
 title: journalism 2024.32
-updated: 2024-08-05 17:08:28
+updated: 2024-08-06 08:33:46
 ---
 
 # journalism 2024.32
 
-(date: 2024-08-05 17:08:28)
+(date: 2024-08-06 08:33:46)
+
+---
+
+## Readers are more suspicious of journalists providing corrections than journalists providing confirmations
+
+date: 2024-08-06, from: Nieman Journalism Lab
+
+Pointing out that someone else is wrong is a part of life. And journalists need to do this all the time — their job includes helping sort what’s true from what’s not. But what if people just don’t like hearing corrections? Our new research, published in the journal Communication Research, suggests that’s the case. In two studies,... 
+
+<https://www.niemanlab.org/2024/08/readers-are-more-suspicious-of-journalists-providing-corrections-than-journalists-providing-confirmations/>
 
 ---
 

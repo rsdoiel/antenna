@@ -1,11 +1,81 @@
 ---
 title: motorcycles 2024.32
-updated: 2024-08-05 17:08:30
+updated: 2024-08-06 08:33:48
 ---
 
 # motorcycles 2024.32
 
-(date: 2024-08-05 17:08:30)
+(date: 2024-08-06 08:33:48)
+
+---
+
+## I Went Inside the Harley-Davidson Motorcycle Vault, and It’s Awesome
+
+date: 2024-08-06, from: Ride Apart, Electric Motorcycle News
+
+Only about 5 percent of the Harley Museum collection is on display at any given time. The rest is in this vault, and I got to see it. 
+
+<https://www.rideapart.com/news/729129/harley-museum-motorcycle-vault-inside/>
+
+---
+
+## Motorcyclist's Family Sues Tesla, Says Autopilot is to Blame for Son's Death
+
+date: 2024-08-06, from: Ride Apart, Electric Motorcycle News
+
+Autopilot was engaged during the accident.  
+
+<https://www.rideapart.com/news/729123/motorcycle-death-tesla-autopilot-fsd-full-self-driving/>
+
+---
+
+## Royal Enfield Tries To Disguise Himalayan 650 With Tape, Fails Miserably
+
+date: 2024-08-06, from: Ride Apart, Electric Motorcycle News
+
+You could spot this thing a mile away.  
+
+<https://www.rideapart.com/news/728969/royal-enfield-himalayan-650-spotted-india/>
+
+---
+
+## Kriega Re-Engineers the R25 Backpack, Has Even More Utility
+
+date: 2024-08-06, from: Ride Apart, Electric Motorcycle News
+
+It’s designed to meet the needs of the most demanding riders—are you one of them?  
+
+<https://www.rideapart.com/news/728971/2024-kriega-r25-backpack/>
+
+---
+
+## Yamaha Goes Green, Uses Recycled Steel for Motorcycle Packaging
+
+date: 2024-08-06, from: Ride Apart, Electric Motorcycle News
+
+It’s a big step in reducing the company’s carbon footprint.  
+
+<https://www.rideapart.com/news/728980/yamaha-recycled-steel-motorcycle-packaging-frames/>
+
+---
+
+## A Hayabusa-Swapped Banned EV Is a Thing, and It's Wild
+
+date: 2024-08-06, from: Ride Apart, Electric Motorcycle News
+
+This should be the only way you're allowed to repurpose a banned electric vehicle. 
+
+<https://www.rideapart.com/news/729114/hyabusa-swapped-solo-ev/>
+
+---
+
+## This Custom Bike Has Four Wheels, but Don’t Call It a Quad
+
+date: 2024-08-06, from: Ride Apart, Electric Motorcycle News
+
+Do you think these guys will be able to pull this concept off? 
+
+<https://www.rideapart.com/news/729107/four-wheeled-rear-steer-bike/>
 
 ---
 
