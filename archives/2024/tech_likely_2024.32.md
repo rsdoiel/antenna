@@ -1,11 +1,367 @@
 ---
 title: tech likely 2024.32
-updated: 2024-08-05 08:13:42
+updated: 2024-08-05 17:08:26
 ---
 
 # tech likely 2024.32
 
-(date: 2024-08-05 08:13:42)
+(date: 2024-08-05 17:08:26)
+
+---
+
+##  YES YES YES: &#8220;Campaigns from Harris for President on down should clarify... 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045068-yes-yes-yes-campaigns-fro>
+
+---
+
+## US judge rules Google is a monopoly, search deals with Apple and Mozilla in peril
+
+date: 2024-08-05, from: OS News
+
+That sure is a big news drop for a random Tuesday. A federal judge ruled that Google violated US antitrust law by maintaining a monopoly in the search and advertising markets. “After having carefully considered and weighed the witness testimony and evidence, the court reaches the following conclusion: Google is a monopolist, and it has acted as one to maintain its monopoly,” according to the court’s ruling, which you can read in full at the bottom of this story. “It has violated Section 2 of the Sherman Act.” ↫ Lauren Feiner at The Verge Among many other things, the judge mentions Google&#8217;s own admissions that the company can do pretty much whatever it wants with Google Search and its advertisement business, without having to worry about users opting to go elsewhere or ad buyers leaving the Google platform. Studies from inside Google itself made it very clear that Google could systematically make Search worse without it affecting user and/or usage numbers in any way, shape, or form &#8211; because users have nowhere else to realistically go. While the ability to raise prices at will without fear of losing customers is a sure sign of being a monopoly, so is being able to make a product worse without fear of losing customers, the judge argues. Google plans to appeal, obviously, and this ruling has nothing yet to say about potential remedies, so what, exactly, is going to change is as of yet unknown. Potential remedies will be handled during the next phase of the proceedings, with the wildest and most aggressive remedy being a potential break-up of Google, Alphabet, or whatever it&#8217;s called today. My sights are definitely set on a break-up &#8211; hopefully followed by Apple, Amazon, Facebook, and Microsoft &#8211; to create some much-needed breathing room into the technology market, and pave the way for a massive number of newcomers to compete on much fairer terms. Of note is that the judge also put yet another nail in the coffin of Google&#8217;s various exclusivity deals, most notable with Apple and, for our interests, with Mozilla. Google pays Apple well over 20 billion dollars a year to be the default search engine on iOS, and it pays about 80% of Mozilla&#8217;s revenue to be the default search engine in Firefox. According to the judge, such deals are anticompetitive. Mehta rejected Google’s arguments that its contracts with phone and browser makers like Apple were not exclusionary and therefore shouldn’t qualify it for liability under the Sherman Act. “The prospect of losing tens of billions in guaranteed revenue from Google — which presently come at little to no cost to Apple — disincentivizes Apple from launching its own search engine when it otherwise has built the capacity to do so,” he wrote. ↫ Lauren Feiner at The Verge If the end of these deals become part of the package of remedies, it will be a massive financial blow to Apple &#8211; 20 billion dollars a year is about 15% of Apple&#8217;s total annual operating profits, and I&#8217;m also pretty sure those Google billions are counted as part of Tim Cook&#8217;s much-vaunted services revenue, so losing it would definitely impact Apple directly where it hurts. Sure, it&#8217;s not like it&#8217;ll make Apple any less of a dangerous behemoth, but it will definitely have some explaining to do to investors. Much more worrisome, however, is the similar deal Google has with Mozilla. About 80% of Mozilla&#8217;s total revenue comes from a search deal with Google, and if that deal were to be dissolved, the consequences for Mozilla, and thus for Firefox, would be absolutely immense. This is something I&#8217;ve been warning about for years now, and the end of this deal would be yet another worry that I&#8217;ve voiced repeatedly becoming reality, right after Mozilla becoming an advertising company and making Firefox worse in the name of quick profits. One by one, every single concern I&#8217;ve voiced about the future of Firefox is becoming reality. Canonical, Fedora, KDE, GNOME, and many other stakeholders &#8211; ignore these developments at your own peril. 
+
+<https://www.osnews.com/story/140425/us-judge-rules-google-is-a-monopoly-searxh-deals-with-apple-and-mozilla-in-peril/>
+
+---
+
+##  The Spielberg Face 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/the-spielberg-face-1>
+
+---
+
+## August 5, 2024, a big day in tech?
+
+date: 2024-08-05, from: Gary Marcus blog
+
+Big day. 
+
+<https://garymarcus.substack.com/p/august-5-2024-a-big-day-in-tech>
+
+---
+
+## NASA Seeks Student Missions to Send to Space in 2026, Beyond
+
+date: 2024-08-05, from: NASA breaking news
+
+NASA announced a&#160;new round of opportunities&#160;for CubeSat, developers to build spacecrafts on&#160;that will fly on upcoming&#160;launches through the agency’s&#160;CSLI (CubeSat Launch Initiative).&#160;CubeSats are a class of small spacecraft called nanosatellites. The initiative provides space access to U.S. educational institutions, certain non-profit organizations, and informal educational institutions such as museums and science centers, as well as [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-seeks-student-missions-to-send-to-space-in-2026-beyond/>
+
+---
+
+##  Cooking with Pixar, a playlist of videos with recipes inspired by Luca... 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045066-cooking-with-pixar-a-play>
+
+---
+
+## Every Microsoft employee is now being judged on their security work
+
+date: 2024-08-05, from: OS News
+
+After a number of very bug security incidents involving Microsoft&#8217;s software, the company promised it would take steps to put security at the top of its list of priorities. Today we got another glimpse of the step it&#8217;s taking, since the company is going to take security into account during performance reviews. Kathleen Hogan, Microsoft’s chief people officer, has outlined what the company expects of employees in an internal memo obtained by The Verge. “Everyone at Microsoft will have security as a Core Priority,” says Hogan. “When faced with a tradeoff, the answer is clear and simple: security above all else.” A lack of security focus for Microsoft employees could impact promotions, merit-based salary increases, and bonuses. “Delivering impact for the Security Core Priority will be a key input for managers in determining impact and recommending rewards,” Microsoft is telling employees in an internal Microsoft FAQ on its new policy. ↫ Tom Warren at The Verge Now, I&#8217;ve never worked in a corporate environment or something even remotely close to it, but something about this feels off to me. Often, it seems that individual, lower-level employees know all too well they&#8217;re cutting corners, but they&#8217;re effectively forced to because management expects almost inhuman results from its workers. So, in the case of a technology company like Microsoft, this means workers are pushed to write as much code as possible, or to implement as many features as possible, and the only way to achieve the goals set by management is to take shortcuts &#8211; like not caring as much about code quality or security. In other words, I don&#8217;t see how Microsoft employees are supposed to make security their top priority, while also still having to achieve any unrealistic goals set by management and other higher-ups. What I&#8217;m missing from this memo and associated reporting is Microsoft telling its employees that if unrealistic targets, crunch, low pay, and other factors that contribute to cutting corners get in the way of putting security first, they have the freedom to choose security. If employees are not given such freedom, demanding even more from them without anything in return seems like a recipe for disaster to me, making this whole memo quite moot. We&#8217;ll have to see what this will amount to in practice, but with how horrible employees are treated in most industries these days, especially in countries with terrible union coverage and laughable labour protection laws like the US, I don&#8217;t have high hopes for this. 
+
+<https://www.osnews.com/story/140421/every-microsoft-employee-is-now-being-judged-on-their-security-work/>
+
+---
+
+## Disaster Response Coordination System (DRCS) Formally Launches
+
+date: 2024-08-05, from: NASA breaking news
+
+The NASA Disasters Response Coordination System (DRCS) formally launched on 6/13/24 during a ceremony at NASA Headquarters with Administrator Nelson as the keynote speaker. The DRCS is a revamped one NASA approach in how the agency responds to natural hazards and disasters domestically and internationally to support partners and stakeholders The DRCS will be organized [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/disaster-response-coordination-system-drcs-formally-launches/>
+
+---
+
+## Coming in Hot – NASA’s Chandra Checks Habitability of Exoplanets
+
+date: 2024-08-05, from: NASA breaking news
+
+This graphic shows a three-dimensional map of stars near the Sun. The blue haloes represent stars observed with NASA’s Chandra X-ray Observatory and ESA’s XMM-Newton. Astronomers are using these X-ray data to determine how habitable exoplanets may be based on whether they receive lethal radiation from the stars they orbit. This research will help guide [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/coming-in-hot-nasas-chandra-checks-habitability-of-exoplanets-2/>
+
+---
+
+## Marshall Disasters Team Support National Weather Service Offices During May Severe Weather
+
+date: 2024-08-05, from: NASA breaking news
+
+May 2024 was a very active month for severe weather across the United States, with several hundred tornadoes occurring throughout the United States. The MSFC Disasters team has been working with several National Weather Service (NWS) Offices across the Southeast this spring to help support their damage surveys with high-resolution commercial imagery and derived products. [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/marshall-disasters-team-support-national-weather-service-offices-during-may-severe-weather/>
+
+---
+
+## Snowstorm Field Campaign Wins Prestigious Presidential Rank Group Achievement Award
+
+date: 2024-08-05, from: NASA breaking news
+
+Personnel from the MSFC Earth Science Branch and local partners participated in the Investigation of Microphysics and Precipitation for Atlantic Coast-Threatening Snowstorms (IMPACTS), and they are members of the IMPACTS team that recently won the prestigious Presidential Rank Group Achievement Award from NASA. IMPACTS was a highly successful NASA Earth Venture Suborbital airborne field campaign [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/snowstorm-field-campaign-wins-prestigious-presidential-rank-group-achievement-award/>
+
+---
+
+## KNaCK LIDAR Technology Demonstration at 5th Joint EVA Test Team (JETT5) Field Compaign, Flagstaff, Arizona
+
+date: 2024-08-05, from: NASA breaking news
+
+Michael Zanetti (ST13), Kyle Miller (EV42), and Chris Whetsel (ES52) conducted a technology demonstration and field work with the NASA JSC 5th Joint EVA Test Team (JETT-3) from 5/17-23/24, near SP Crater, Flagstaff, AZ. JETT5 tested full-up mission operations with communication to JSC-Houston, and included astronauts Kate Rubins and Andre Douglas testing ATLAS suits and [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/knack-lidar-technology-demonstration-at-5th-joint-eva-test-team-jettf-field-compaign-flagstaff-arizona/>
+
+---
+
+## IEEE Geoscience and Remote Sensing Society – Earth Science Informatics Workshop and Hackathon on Remote Sensing Data Systems Held at SRM University, Chennai
+
+date: 2024-08-05, from: NASA breaking news
+
+Muthukumaran Ramasubramanian, Slesa Adhikari, and Nish Pantha from IMPACT/ST11 organized hands-on workshops and a hackathon in collaboration with the Department of Computational Intelligence at SRMIST’s School of Computing in Chennai, India. These sessions were held as part of the IEEE GRSS-ESI TC (Geoscience and Remote Sensing Society &#8211; Earth Science Informatics Technical Committee) Remote Sensing [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/ieee-geoscience-and-remote-sensing-society-earth-science-informatics-workshop-and-hackathon-on-remote-sensing-data-systems-held-at-srm-university-chennai/>
+
+---
+
+## SERVIR Science Coordination Office (SCO) and Bhutan’s Implementing Partners Launch Farm Action Toolkit Service
+
+date: 2024-08-05, from: NASA breaking news
+
+On 5/13/24, in alignment with the NASA Interagency Agreement with the US Department of State Advancing Science, Technology, Engineering, and Math in Bhutan through Increased Earth Observation Capacity, Aparna R. Phalke, Sarah Cox and Tony Kim (ST11) traveled to Thimphu, Bhutan, to represent the SERVIR SCO at the official launch on 5/17/24 of the “Farm [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/servir-science-coordination-office-sco-and-bhutans-implementing-partners-launch-farm-action-toolkit-service/>
+
+---
+
+##  When kids can&#8217;t get outside to play in a world built for... 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045065-when-kids-cant-get-outsid>
+
+---
+
+## Participation at the National Artificial Intelligence (AI) Research Resource Event on Capitol Hill
+
+date: 2024-08-05, from: NASA breaking news
+
+Manil Maskey (ST11/IMPACT) represented NASA at a discussion on the National Artificial Intelligence Research Resource (NAIRR) Pilot program held on Capitol Hill. The event brought together key members of the House AI Caucus, including Representatives Anna Eshoo, Bill Foster, Haley Stevens, Jim Baird, and Sean Casten. In attendance were several congressional staffers and the director [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/participation-at-the-national-artificial-intelligence-ai-research-resource-event-on-capitol-hill/>
+
+---
+
+## SERVIR/ResilienceLinks Webinar on “Floods, Drought, and Water Security: How is Water Data Critical to Climate Resilience?”
+
+date: 2024-08-05, from: NASA breaking news
+
+On 5/22/24, Chinmay Deval, the Water Security Lead at the SERVIR Science Coordination Office, moderated a virtual panel for the ResilienceLinks monthly webinar series. ResilienceLinks is the knowledge platform for the US Agency for International Development (USAID) Center for Resilience. The theme for May focused on Water Data and Climate Resilience. The panel featured distinguished [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/servir-resiliencelinks-webinar-on-floods-drought-and-water-security-how-is-water-data-critical-to-climate-resilience/>
+
+---
+
+## 50 years ago, CP/M started the microcomputer revolution
+
+date: 2024-08-05, from: OS News
+
+CP/M is turning 50 this year. The ancient Control Program for Microcomputers, or CP/M for short, has been enjoying a modest renaissance in recent years. By 21st century standards, it&#8217;s unimaginably tiny and simple. The whole OS fits into under 200 kB, and the resident bit of the kernel is only about 3 kB. Today, in the era of end-user OSes in the tens-of-gigabytes size range, this exerts a fascination to a certain kind of hobbyist. Back when it was new, though, this wasn&#8217;t minimalist – it was all that early hardware could support. ↫ Liam Proven I&#8217;m a little too young to have experienced CP/M as anything other than a retro platform &#8211; I&#8217;m from 1984, and we got our first computer in 1990 or so &#8211; but its importance and influence cannot be overstated. Many of the conventions set by CP/M made their way to the various DOS variants, and in turn, we still see some of those conventions in Windows today. Had Digital Research, the company CP/M creator Gary Kildall set up to sell CP/M, accepted the deal with IBM to make CP/M the default operating system for the then newly-created IBM PC, we&#8217;d be living in a very different world today. Digital Research would also create several other popular and/or influential software products beyond CP/M, such as DR DOS and GEM, as well as various other DOS variants and CP/M versions with DOS compatibility. It would eventually be acquired by Novell, where it faded into obscurity. 
+
+<https://www.osnews.com/story/140419/50-years-ago-cp-m-started-the-microcomputer-revolution/>
+
+---
+
+##  Is 5% of the Earth&#8217;s Population Related to Genghis Khan? 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/is-5-of-the-earths-population-related-to-genghis-khan>
+
+---
+
+##  Google, a monopoly, loses its antitrust case against the Dept of Justice.... 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045063-google-a-monopoly-loses-i>
+
+---
+
+##  Australia is starting kids with peanut allergies on an oral immunotherapy program.... 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045062-australia-is-starting-kid>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-05, from: Dave Winer's Scripting News)
+
+When reporting massacres, imho we should cite the number of people who were shot. It measures of how much violence there was, and how excessive the gun tech used. Many who were injured but not killed have their lives ruined. Their suffering can go for decades. 
+
+<http://scripting.com/2024/08/05.html#a185656>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-05, from: Dave Winer's Scripting News)
+
+If you want to keep up on political news, esp at a time when so much is happening so quickly, the best resource I have at this time is the <a href="https://news.scripting.com?tab=politics">politics tab</a> on news.scripting.com. Here's a <a href="http://scripting.com/images/2024/08/05/politicsTabNewsScriptingCom.png">screen shot</a>. 
+
+<http://scripting.com/2024/08/05.html#a183833>
+
+---
+
+## Beta for Apple Intelligence in Apple Mail
+
+date: 2024-08-05, from: Michael Tsai
+
+Cabel Sasser (Hacker News): Apple Intelligence in 15.1 just flagged a phishing email as &#8220;Priority&#8221; and moved it to the top of my Inbox. This seems&#8230; bad I&#8217;ve been trying to test the new features in Mail to make sure that they work properly with my apps, but Mail is not showing any categories or [&#8230;] 
+
+<https://mjtsai.com/blog/2024/08/05/beta-for-apple-intelligence-in-apple-mail/>
+
+---
+
+## Apple Intelligence Privacy Dark Patterns
+
+date: 2024-08-05, from: Michael Tsai
+
+After I got off the beta waitlist, I went to enable Apple Intelligence, and it wouldn&#8217;t let me do so without also enabling Siri. I don&#8217;t find Siri to be useful on my Macs and tend to restrict it to my iPhone to prevent accidentally triggering the wrong device. It also doesn&#8217;t seem to work [&#8230;] 
+
+<https://mjtsai.com/blog/2024/08/05/apple-intelligence-privacy-dark-patterns/>
+
+---
+
+## Apple’s Q3 2024 Results
+
+date: 2024-08-05, from: Michael Tsai
+
+Apple (transcript, MacRumors, MacStories, ArsTechnica): The Company posted quarterly revenue of $85.8 billion, up 5 percent year over year, and quarterly earnings per diluted share of $1.40, up 11 percent year over year. [&#8230;] &#8220;During the quarter, our record business performance generated EPS growth of 11 percent and nearly $29 billion in operating cash flow, [&#8230;] 
+
+<https://mjtsai.com/blog/2024/08/05/apples-q3-2024-results/>
+
+---
+
+## “Find My” Privacy
+
+date: 2024-08-05, from: Michael Tsai
+
+Tim Sweeney (MacRumors): This feature is super creepy surveillance tech and shouldn&#8217;t exist. Years ago, a kid stole a Mac laptop out of my car. Years later, I was checking out Find My and it showed a map with the house where the kid who stole my Mac lived. WTF Apple? How is that okay?! [&#8230;] 
+
+<https://mjtsai.com/blog/2024/08/05/find-my-privacy/>
+
+---
+
+##  The Evolution of Olympic Performances, 1912 to 2020 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/the-evolution-of-olympic-performances-1912-to-2020>
+
+---
+
+## MiSTer, PlayStation 1, Nintendo 64 and the MIPS CPU
+
+date: 2024-08-05, from: Stephen Smith's blog
+
+Introduction In the late mid-90s, the Nintendo 64 and Sony Playstation introduced a new generation of game consoles. Both utilized MIPS CPUs and licensed advanced 3D graphics capabilities from SGI. In fact SGI was the main developer for the N64 hardware as SGI was looking to expand into consumer markets from their lofty usual expensive [&#8230;] 
+
+<https://smist08.wordpress.com/2024/08/05/mister-playstation-1-nintendo-64-and-the-mips-cpu/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-08-05, from: Tomosino's Mastodon feed)
+
+<p>I got a fabulous new-to-me sewing machine. It's so much fancier than anything I've ever used. I love it! </p><p>Today I'm practicing basics: straight stitches, zig-zag, overlock, blind hems, joins, embroidery, curves, spacing, etc. Little break now, then button holes.</p><p>I'll start on some basic patterns soon. Maybe dice bags for the players in my TTRPG game.</p><p><a href="https://tilde.zone/tags/sewing" class="mention hashtag" rel="tag">#<span>sewing</span></a></p> 
+
+<https://tilde.zone/@tomasino/112910464563481714>
+
+---
+
+## Writearound
+
+date: 2024-08-05, from: Tedium site
+
+How I gradually fell out of love with the idea of using a code editor for all of my writing—in part because of a subtle MacOS feature that Linux doesn’t have. 
+
+<https://feed.tedium.co/link/15204/16762389/linux-markdown-writing-vs-code>
+
+---
+
+## Dog Overboard (2024)
+
+date: 2024-08-05, updated: 2024-08-05, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/08/05/dog-overboard-2/>
+
+---
+
+## 2024-08-05 Free speech advocacy on the fediverse
+
+date: 2024-08-05, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-05-free-speech-advocacy-on-the-fediverse">2024-08-05 Free speech advocacy on the fediverse</h1>
+
+<p>It all started with <a class="account" href="https://social.wildeboer.net/@jwildeboer" title="@jwildeboer@social.wildeboer.net">@jwildeboer</a> <a href="https://social.wildeboer.net/@jwildeboer/112893255029322563">arguing</a> that the original poster (OP) of a message should be in control of what’s considered to be a reply to the their post. Apparently, this would be within the realm of how ActivityPub works, but it&rsquo;s not how Mastodon works. From my point of view, I&rsquo;d love the ability to unlink replies from my post so that people clicking through to my post don&rsquo;t end up seeing those replies. I&rsquo;d be protecting my readers from spam, trolls and detractors. Jan also argued that as a positive side-effect, servers getting the original post that starts a thread would immediately get the whole tree of replies. Finally, Jan also argued that replies should not be able to reduce the audience scope of the audience because it was used for bullying. People replying with a “followers only” audience can effectively pile-on the original poster with their friends and followers without anybody else being able to see this – you have to be a follower of the bully in order to see it.</p>
+
+<p>There was a longer thread by <a class="account" href="https://eattherich.club/@deflarerOfClouds" title="@deflarerOfClouds@eattherich.club">@deflarerOfClouds</a> arguing that &ldquo;silencing critics is an anti-speech injustice &amp; if their replies are detached that obviously censors their ideas.&rdquo; I disagree.</p>
+
+<p>In situations like these I like to explain the situation without using the word censorship as we’ll get bogged down in a word definition game that I find fundamentally boring. I want to make sure that speech I disagree with does not benefit from my reach; I want no part in distributing it. If somebody wants to argue that this is censorship and therefore bad, I’m bored. I’d like to hear an explanation that hows how this attachment is something I should support. Note that I&rsquo;m not interested in the question of whether people can or cannot say their words; all I care about is them not distributing their words along with mine.</p>
+
+<p>In this sense, running a blog without comments is perfect. There&rsquo;s not even the illusion of censorship. If people want to counter, let them put it up on their blogs. I’m not in a debate club. Instead, I feel like an essayist or a book author. Other people should feel free to write their own books and their essays – and their own blog posts, possibly linking to mine – but me having to endure the inane and the boring, and inflicting it on my readers, is disrespectful to my readership. It&rsquo;s abuse of my distribution channel.</p>
+
+<p>Similarly, I expect newspapers and academic journals to exercise their editorial powers to filter and select the replies and comments and letters to the editors worth their readers&rsquo; time. It is what I expect because life is short and the number of boring comments are endless. A world without curation is not my goal.</p>
+
+<p>On my blog, people can find ways to contact me. And maybe I’ll post their replies or additions. But really, adversarial comments can be hosted elsewhere and I feel no compulsion to link them all. This sort of third party comment aggregation is exactly what Hacker News, Reddit or Lemmy do. It makes no sense to demand that blogs do the same. It makes no sense to demand all social media to do the same. Tools can be different and interaction models can be different.</p>
+
+<p>To come back to the fediverse: I would prefer Mastodon (and the software I use, GoToSocial) to change their defaults because I think the original poster having control over comments provides exactly the kind of curation I like. In this social media model, I&rsquo;m following people so I implicitly trust their curation. Calling this curation censorship or suppression is an exaggeration.</p>
+
+<p>I write on the web. I don’t plan to prevent other people from reading my words and writing posts quoting my words. What I do want is the option of having no part in their distribution. I&rsquo;m not interested in technology that allows people to use my blog or my posts to reach my readership with their adversarial replies. In other words, I&rsquo;m fine with people writing replies on their blog posts and linking to mine. I don&rsquo;t need to link back. On social media, I&rsquo;m willing to go a step further and allow people to write public replies linked to my posts. I&rsquo;d very much like the option of detaching adversarial replies from my posts.</p>
+
+<p>The important part about this is the realization that none of this is &ldquo;natural&rdquo; – everything is engineered and the people writing the software make decisions about how the people on these platforms interact and it&rsquo;s important to think about the choices being made and the consequences these choices have. Replies being attached to original posts in the fediverse is a feature somebody developed and it is not at all clear to me that denying this features amounts to suppression or censorship.</p>
+
+<p>The belief that denying technological features amounts to suppression and censorship is a leap I am not willing to make.</p>
+
+<p><a class="tag" href="/search/?q=%23Fediverse">#Fediverse</a></p> 
+
+<https://alexschroeder.ch/view/2024-08-05-free-speech-on-fedi>
+
+---
+
+##  Carl Zimmer&#8217;s new book sounds fascinating & relevant: Air-Borne: The Hidden History... 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045059-carl-zimmers-new-book-sou>
 
 ---
 
@@ -364,6 +720,24 @@ date: 2024-08-05, from: Hannah Richie at Substack
 Plug-in hybrids are still going strong in some markets. Their climate benefits strongly depend on who is buying them. 
 
 <https://www.sustainabilitybynumbers.com/p/are-plug-in-hybrids-booming-or-fading>
+
+---
+
+## pgspot 0.8.0 released
+
+date: 2024-08-05, from: PostgreSQL News
+
+<p>The pgspot development team is happy to announce the release of version 0.8.0.</p>
+<p>This version of adds the following new features:</p>
+<ul>
+<li>Add flag to ignore specific procedural languages</li>
+<li>Support @extschema:name@ placeholders introduced with PG16</li>
+<li>Warn about C security definer functions without search_path</li>
+</ul>
+<p>See <a href="https://github.com/timescale/pgspot/releases/tag/0.8.0">full release notes</a> for more information.</p>
+<p><a href="https://github.com/timescale/pgspot">pgspot</a> is a tool to find security vulnerabilities in postgres sql scripts.</p> 
+
+<https://www.postgresql.org/about/news/pgspot-080-released-2907/>
 
 ---
 

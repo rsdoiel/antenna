@@ -1,11 +1,135 @@
 ---
 title: central coast 2024.32
-updated: 2024-08-05 08:13:41
+updated: 2024-08-05 17:08:25
 ---
 
 # central coast 2024.32
 
-(date: 2024-08-05 08:13:41)
+(date: 2024-08-05 17:08:25)
+
+---
+
+## Cottage Health Will Host Two Blood Drives in August
+
+date: 2024-08-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>To bolster local blood supply and contribute to the community&#8217;s well-being, Cottage Health, in partnership with Vitalant, is hosting two blood drives in August. The blood drives are scheduled in [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/cottage-health-will-hosts-two-blood-drives-in-august/">Cottage Health Will Host Two Blood Drives in August</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/cottage-health-will-hosts-two-blood-drives-in-august/>
+
+---
+
+## Breast Cancer Resource Center Award Named For Dr. Fred Kass
+
+date: 2024-08-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Breast Cancer Resource Center of Santa Barbara (BCRC) will present its inaugural Healing through Compassion Award to Dr. Fred Kass at the Pink Lounge Gala, Friday, Sept. 27. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/breast-cancer-resource-center-award-named-for-dr-fred-kass/">Breast Cancer Resource Center Award Named For Dr. Fred Kass</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/breast-cancer-resource-center-award-named-for-dr-fred-kass/>
+
+---
+
+## James Harvey Clement, 64, of Santa Barbara
+
+date: 2024-08-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="511" height="741" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/James-Obit-Headshot2.jpg-.jpg?fit=511%2C741&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="James Harvey Clement" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/James-Obit-Headshot2.jpg-.jpg?w=511&amp;ssl=1 511w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/James-Obit-Headshot2.jpg-.jpg?resize=207%2C300&amp;ssl=1 207w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/James-Obit-Headshot2.jpg-.jpg?resize=400%2C580&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/James-Obit-Headshot2.jpg-.jpg?fit=511%2C741&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>On May 2, 2024, surrounded by family and close friends, James Harvey Clement, beloved son, father, grand “Pops,” brother and friend, passed away unexpectedly at the age of 64 from [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/james-harvey-clement-64-of-santa-barbara/">James Harvey Clement, 64, of Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/james-harvey-clement-64-of-santa-barbara/>
+
+---
+
+## Ricardo Pardo, Formerly of Santa Barbara, 1943-2024
+
+date: 2024-08-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="468" height="578" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Dad.jpg?fit=468%2C578&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Ricardo Pardo" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Dad.jpg?w=468&amp;ssl=1 468w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Dad.jpg?resize=243%2C300&amp;ssl=1 243w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Dad.jpg?resize=400%2C494&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Dad.jpg?fit=468%2C578&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Ricardo Pardo passed away June 18, 2024 in his home surrounded by his family. He was born to Ricardo and Celia Pardo in Mexico City in 1943, and was the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ricardo-pardo-formerly-of-santa-barbara-1943-2024/">Ricardo Pardo, Formerly of Santa Barbara, 1943-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ricardo-pardo-formerly-of-santa-barbara-1943-2024/>
+
+---
+
+## Lake Fire Reaches 100% Containment
+
+date: 2024-08-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="643" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-post-Lake-Fire-fig-mountain-zaca-ph-3.jpg?fit=1024%2C643&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The FIgueroa Mountain area seen from the air on July 29 after the Lake Fire. Responders reached 100% containment on the blaze this week, one month after it started." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-post-Lake-Fire-fig-mountain-zaca-ph-3.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-post-Lake-Fire-fig-mountain-zaca-ph-3.jpg?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-post-Lake-Fire-fig-mountain-zaca-ph-3.jpg?resize=1024%2C643&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-post-Lake-Fire-fig-mountain-zaca-ph-3.jpg?resize=768%2C482&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-post-Lake-Fire-fig-mountain-zaca-ph-3.jpg?resize=1536%2C964&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-post-Lake-Fire-fig-mountain-zaca-ph-3.jpg?resize=2048%2C1286&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-post-Lake-Fire-fig-mountain-zaca-ph-3.jpg?resize=1200%2C753&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-post-Lake-Fire-fig-mountain-zaca-ph-3.jpg?resize=1568%2C984&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-post-Lake-Fire-fig-mountain-zaca-ph-3.jpg?resize=2000%2C1255&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-post-Lake-Fire-fig-mountain-zaca-ph-3.jpg?resize=400%2C251&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-post-Lake-Fire-fig-mountain-zaca-ph-3.jpg?resize=706%2C443&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-post-Lake-Fire-fig-mountain-zaca-ph-3.jpg?fit=1024%2C643&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>One month after it began, the Lake Fire has been 100% contained, marking the end of the blaze that burned 38,664 acres. Since the fire began on July 5, fire [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lake-fire-reaches-100-containment/">Lake Fire Reaches 100% Containment</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/lake-fire-reaches-100-containment/>
+
+---
+
+## Plaza del Mar Band Shell Set for Act II as Concert and Performance Venue
+
+date: 2024-08-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>To mark the completed renovation of the Plaza del Mar’s historic Band Shell,the Santa Barbara Parks and Recreation Department will host a ribbon-cutting event, 4 p.m. Wednesday, Aug. 21 at the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/plaza-del-mar-band-shell-set-for-act-ii-as-concert-and-performance-venue/">Plaza del Mar Band Shell Set for Act II as Concert and Performance Venue</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/plaza-del-mar-band-shell-set-for-act-ii-as-concert-and-performance-venue/>
+
+---
+
+## Karen Telleen-Lawton: The Secrets of Scots
+
+date: 2024-08-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The bus driver in the Highlands clued us in on the secret of forecasting Scottish weather. We were passing alongside a Munro — a mountain higher than 3,000 feet — [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/karen-telleen-lawton-the-secrets-of-scots/">Karen Telleen-Lawton: The Secrets of Scots</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/karen-telleen-lawton-the-secrets-of-scots/>
+
+---
+
+## Dr. Bonnie Franklin: Essential Tips for Safe and Healthy Canine Exercise
+
+date: 2024-08-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>We live in Paradise where we can jog or take a run almost every day. We often bring our dogs with us. Prior to starting your pal on an exercise [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dr-bonnie-franklin-essential-tips-for-safe-and-healthy-canine-exercise/">Dr. Bonnie Franklin: Essential Tips for Safe and Healthy Canine Exercise</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dr-bonnie-franklin-essential-tips-for-safe-and-healthy-canine-exercise/>
+
+---
+
+## Local Miles Evans, Partner Chase Budinger Eliminated in Olympics Beach Volleyball
+
+date: 2024-08-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="792" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-Miles-Evans-Chase-Budinger-jpg.jpg?fit=1024%2C792&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-Miles-Evans-Chase-Budinger-jpg.jpg?w=1700&amp;ssl=1 1700w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-Miles-Evans-Chase-Budinger-jpg.jpg?resize=300%2C232&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-Miles-Evans-Chase-Budinger-jpg.jpg?resize=1024%2C792&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-Miles-Evans-Chase-Budinger-jpg.jpg?resize=768%2C594&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-Miles-Evans-Chase-Budinger-jpg.jpg?resize=1536%2C1188&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-Miles-Evans-Chase-Budinger-jpg.jpg?resize=1200%2C928&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-Miles-Evans-Chase-Budinger-jpg.jpg?resize=1568%2C1213&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-Miles-Evans-Chase-Budinger-jpg.jpg?resize=400%2C309&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-Miles-Evans-Chase-Budinger-jpg.jpg?resize=706%2C546&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080524-Miles-Evans-Chase-Budinger-jpg.jpg?fit=1024%2C792&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>As a pro beach volleyball player, Santa Barbara&#8217;s Miles Evans has played on sand volleyball courts all over the world and competed in prestigious events like the Manhattan Beach Open. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/local-miles-evans-partner-chase-budinger-eliminated-in-olympics-beach-volleyball/">Local Miles Evans, Partner Chase Budinger Eliminated in Olympics Beach Volleyball</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/local-miles-evans-partner-chase-budinger-eliminated-in-olympics-beach-volleyball/>
+
+---
+
+## Red Cross Seeks Donors as Nation’s Emergency Blood Supply Drops
+
+date: 2024-08-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The American Red Cross reports it is experiencing an emergency blood shortage as the nation faces dangerous levels of heat and people head out for final summer travel plans. Since [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/red-cross-seeks-donors-as-nations-emergency-blood-supply-drops/">Red Cross Seeks Donors as Nation&#8217;s Emergency Blood Supply Drops</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/red-cross-seeks-donors-as-nations-emergency-blood-supply-drops/>
 
 ---
 

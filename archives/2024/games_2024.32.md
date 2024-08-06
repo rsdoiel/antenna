@@ -1,11 +1,111 @@
 ---
 title: games 2024.32
-updated: 2024-08-05 08:13:44
+updated: 2024-08-05 17:08:28
 ---
 
 # games 2024.32
 
-(date: 2024-08-05 08:13:44)
+(date: 2024-08-05 17:08:28)
+
+---
+
+## Gen Con’s 3-hour D&D actual play is now on YouTube
+
+date: 2024-08-05, updated: 2024-08-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24213975/dnd-dungeons-dragons-gen-con-2024-actual-play-brennan-aabria-astarion-karlach-anjali-bhimani>
+
+---
+
+## The newest Helldivers 2 mission has a twist: less murder, not more
+
+date: 2024-08-05, updated: 2024-08-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24213984/helldivers-2-major-order-anti-tank-mines-stratagem>
+
+---
+
+## All the House of the Dragon season 3 news we’ve heard so far
+
+date: 2024-08-05, updated: 2024-08-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24212021/house-of-the-dragon-season-3-release-date-cast-news>
+
+---
+
+## The House of the Dragon season 2 finale is Westeros at its best and worst
+
+date: 2024-08-05, updated: 2024-08-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24213814/house-dragon-season-2-finale-review-episode-8>
+
+---
+
+## Limited sets of collectible cards inspired by D&D are coming to Magic: The Gathering
+
+date: 2024-08-05, updated: 2024-08-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24212178/magic-the-gathering-dungeons-and-dragons-secret-lair-where-to-buy>
+
+---
+
+## Zelda: Tears of the Kingdom players find complicated glitch that ends with an unbreakable Master Sword
+
+date: 2024-08-05, updated: 2024-08-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/legend-zelda-tears-kingdom/24213767/zelda-tears-kingdom-unbreakable-master-sword-glitch>
+
+---
+
+## Ellen Joe trust event and best answers in Zenless Zone Zero
+
+date: 2024-08-05, updated: 2024-08-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/zenless-zone-zero-guides/24204519/ellen-joe-trust-event-best-answers-zzz>
+
+---
+
+## Kickstart your Alchemy VTT library with this $30 bundle
+
+date: 2024-08-05, updated: 2024-08-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24213669/vaesen-free-league-ttrpg-humble-bundle-alchemy-vtt-deal-sale>
+
+---
+
+## The Legend of Zelda: Echoes of Wisdom is full of references to other Zelda games
+
+date: 2024-08-05, updated: 2024-08-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/zelda/24213626/legend-of-zelda-echoes-of-wisdom-references-other-zelda-games>
+
+---
+
+## Humble Bundle’s latest deal offers 90% off digital board game essentials
+
+date: 2024-08-05, updated: 2024-08-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24213616/digital-board-games-humble-bundle-sale>
 
 ---
 
@@ -96,16 +196,6 @@ date: 2024-08-05, updated: 2024-08-05, from: Polygon Website
  
 
 <https://www.polygon.com/24212244/house-dragon-season-2-finale-questions>
-
----
-
-## All the House of the Dragon season 3 news we’ve heard so far
-
-date: 2024-08-05, updated: 2024-08-05, from: Polygon Website
-
- 
-
-<https://www.polygon.com/24212021/house-of-the-dragon-season-3-release-date-cast-news>
 
 ---
 

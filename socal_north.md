@@ -1,11 +1,55 @@
 ---
 title: socal north 2024.32
-updated: 2024-08-05 08:13:39
+updated: 2024-08-05 17:08:22
 ---
 
 # socal north 2024.32
 
-(date: 2024-08-05 08:13:39)
+(date: 2024-08-05 17:08:22)
+
+---
+
+## US women’s volleyball led by three Bruins advance to Olympic knockout stage
+
+date: 2024-08-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA is under a month away from its first Big Ten women&#8217;s volleyball season.
+But three Bruins of the past and one present took to the hardwood early, in Paris for Olympic women’s volleyball preliminary rounds from July 29 to Aug. 
+
+<https://dailybruin.com/2024/08/05/us-womens-volleyball-led-by-three-bruins-advance-to-olympic-knockout-stage/>
+
+---
+
+## Former UCLA baseball assistant coach disciplined for slapping player
+
+date: 2024-08-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+A UCLA baseball coach was disciplined for slapping a player, according to a university report obtained by the Daily Bruin.
+David Berg, formerly an assistant coach of UCLA baseball, was placed on investigative leave for striking a player in the face after a dinner with the team&#8217;s recruits Oct. 
+
+<https://dailybruin.com/2024/08/05/former-ucla-baseball-assistant-coach-disciplined-for-slapping-player/>
+
+---
+
+## Dugalić, Bessoir, Sontag continue to Olympic women’s basketball knockout stage
+
+date: 2024-08-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Three Bruins will continue to the women’s basketball knockout stage of the Paris Olympics.
+Athletes represented UCLA in each of the three groups during the group phase of the Olympic women’s basketball tournament. 
+
+<https://dailybruin.com/2024/08/05/dugali-bessoir-sontag-continue-to-olympic-womens-basketball-knockout-stage/>
+
+---
+
+## Opinion: Biden’s executive order for new immigration restrictions worsens border crisis
+
+date: 2024-08-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+The United States has long branded itself as a haven for asylum seekers and refugees. 
+In 1948, the U.S. signed into law the Displaced Persons Act, the first piece of national legislation that provided a formal legal framework to accommodate people leaving their country out of fear of persecution. 
+
+<https://dailybruin.com/2024/08/05/opinion-bidens-executive-order-for-new-immigration-restrictions-worsens-border-crisis/>
 
 ---
 

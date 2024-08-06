@@ -1,11 +1,103 @@
 ---
 title: writing 2024.32
-updated: 2024-08-05 08:13:44
+updated: 2024-08-05 17:08:28
 ---
 
 # writing 2024.32
 
-(date: 2024-08-05 08:13:44)
+(date: 2024-08-05 17:08:28)
+
+---
+
+## Oscar-Winning Writer of 'Ghost' Explores Death Experiences on Film and in Life in New Memoir
+
+date: 2024-08-05, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/oscar-winning-writer-of-ghost-explores-death-experiences-on-film-and-in-life-in-new-memoir" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Oscar-Winning%20Writer%20of%20Ghost%20Explores%20Death%20Experiences%20on%20Film%20and%20in%20Life%20in%20New%20Memoir.jpg" alt="Oscar-Winning Writer of Ghost Explores Death Experiences on Film and in Life in New Memoir" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>The film <em>Ghos</em>t (1990) is one of the most iconic love stories ever put on film. Who can forget Patrick Swayze and Demi Moore sensually touching fingers through soft, buttery clay as the song “Unchained Melody” is soulfully crooned by The Righteous Brothers? The film’s exploration of love’s ability to transcend physical boundaries struck a nerve with audiences.</p> 
+
+<https://blog.finaldraft.com/oscar-winning-writer-of-ghost-explores-death-experiences-on-film-and-in-life-in-new-memoir>
+
+---
+
+## Weekly Bestsellers, 5 August 2024
+
+date: 2024-08-05, from: Locus Magazine
+
+<div style="padding: 14px 0px 0px 0px; text-align: center;">
+<p><b>The Book of Elsewhere</b> by Keanu Reeves &#38; China Miéville (Del Rey) debuts on all four print lists compiled here, ranking among the top ten on three of them.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+08.11
+LAT
+08.04
+USAT 
+07.28
+PW 
+08.05
+Amz 
+(08.05)
+UK:
+Amz UK 
+(08.05)
+Canada:
+Amz.ca 
+(08.05)
+
+
+Items on list -x- number of lists surveyed
+
+10&#215;3
+10&#215;2
+150
+15&#215;3
+100
+100
+100
+
+
+Hardcovers
+
+
+Adeyemi, <a href="https://locusmag.com/2024/08/weekly-bestsellers-5-august-2024/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/weekly-bestsellers-5-august-2024/>
+
+---
+
+## Deborah P. Kolodji (1959-2024)
+
+date: 2024-08-05, from: Locus Magazine
+
+<p>Poet Deborah P. Kolodji, 64, died July 21, 2024 at home in Temple City CA. She was well known in science fiction poetry circles, and was best known for her haiku.</p>
+<p>Kolodji was born August 11, 1959 in Long Beach CA. She began publishing her work in the 1970s, mostly <strong>Star Trek</strong>-inspired poems in fanzines. She attended the University of Southern California, graduating with a mathematics degree, and worked  <a href="https://locusmag.com/2024/08/deborah-p-kolodji-1959-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/deborah-p-kolodji-1959-2024/>
+
+---
+
+## Paula Guran Reviews Apex, The Sunday Morning Transport and Reactor
+
+date: 2024-08-05, from: Locus Magazine
+
+<p>Apex #144
+The Sunday Morning Transport 4/7/24, 4/21/24, 4/28/24, 5/5/24, 5/19/24
+Reactor 1/1/24 – 5/22/24</p>
+<p>Apex #144 features five original stories. “<strong>Those Left Behind</strong>” by <strong>Kanishk Tantia </strong>is a deftly writ­ten SF story about two robotic caregivers crafted to look and act exactly like dead human spouses. When their elderly humans permanently leave Earth (along with every other human on the plan­et) the robots realize that that those  <a href="https://locusmag.com/2024/08/paula-guran-reviews-apex-the-sunday-morning-transport-and-reactor/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/paula-guran-reviews-apex-the-sunday-morning-transport-and-reactor/>
 
 ---
 

@@ -1,11 +1,263 @@
 ---
 title: going electric 2024.32
-updated: 2024-08-05 08:13:48
+updated: 2024-08-05 17:08:31
 ---
 
 # going electric 2024.32
 
-(date: 2024-08-05 08:13:48)
+(date: 2024-08-05 17:08:31)
+
+---
+
+## Porsche Macan EV spotted on US streets ahead of deliveries [Video]
+
+date: 2024-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Porsche-Macan-EV-US-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The all-electric Porsche Macan is almost here. Ahead of deliveries later this year, the <a href="https://electrek.co/guides/porsche-macan/">Porsche Macan EV</a> was spotted in the US rolling down palm tree-filled streets. Check out the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="porsche-macan" data-layer-viewtype="unknown" data-post-id="374477" href="https://electrek.co/2024/08/05/porsche-macan-ev-caught-us-roads-deliveries-video/#more-374477" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/05/porsche-macan-ev-caught-us-roads-deliveries-video/>
+
+---
+
+## Cybertruck frame failure, women have worries, and China makes progress
+
+date: 2024-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/tesla-elon-oof.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>On today’s exciting episode of <em>Quick Charge</em>, we talk about Whistlin’ Diesel snapping a Cybertruck’s gigacast frame, whether or not women worry too much about EV charging, and the progress being made by Tesla rivals in China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,nio,quick-charge,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="374478" href="https://electrek.co/2024/08/05/cybertruck-frame-failure-women-have-worries-and-china-makes-progress/#more-374478" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/05/cybertruck-frame-failure-women-have-worries-and-china-makes-progress/>
+
+---
+
+## Lucid Gets Another $1.5 Billion Lifeline From Saudi Arabia
+
+date: 2024-08-05, from: Inside EVs News
+
+That's on top of another $1 billion investment earlier this year. It should help the EV startup get the Gravity SUV off the ground. 
+
+<https://insideevs.com/news/729124/lucid-saudi-pif-cash-infusion/>
+
+---
+
+## Forge Battery says its 21700 EV batteries fast charge in 10 minutes
+
+date: 2024-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Forge-Nano.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Forge Battery is now shipping its prototype <a href="https://forgebattery.com/batteries/" target="_blank" rel="noreferrer noopener">21700 cylindrical Li-ion battery cells</a> with a confirmed specific energy of 300 Wh/kg.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,egeb,ev-batteries,solar,lithium-ion-battery,north-carolina" data-layer-viewtype="unknown" data-post-id="374450" href="https://electrek.co/2024/08/05/forge-battery-21700-ev-batteries/#more-374450" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/05/forge-battery-21700-ev-batteries/>
+
+---
+
+## Lucid (LCID) beats Q2 revenue estimates with another $1.5 billion injection from Saudi PIF
+
+date: 2024-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Lucid-Q2-2024-earnings-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/lucid-motors/">Lucid Motors</a> (LCID) topped Wall Street’s Q2 revenue estimates Monday after announcing another $1.5 billion investment from Saudi Arabia’s Public Investment Fund (PIF).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="374449" href="https://electrek.co/2024/08/05/lucid-lcid-tops-q2-revenue-another-1-5b-saudi-pif/#more-374449" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/05/lucid-lcid-tops-q2-revenue-another-1-5b-saudi-pif/>
+
+---
+
+## Tesla is testing Supercharging at over 300 kW
+
+date: 2024-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesa-Supercharger-for-all-hero.jpg?quality=82&#038;strip=all&#038;w=1237" /></div><p>Tesla is currently testing the potential for its current Supercharging V4 (with V3 cabinets) to charge at over 300 kW</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="374448" href="https://electrek.co/2024/08/05/tesla-testing-supercharging-at-over-300-kw/#more-374448" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/05/tesla-testing-supercharging-at-over-300-kw/>
+
+---
+
+## Are 51% Of Tesla Buyers Switching Back To Gas? Absolutely Not.
+
+date: 2024-08-05, from: Inside EVs News
+
+A recent story suggested that over half of Tesla owners trade into gas cars. That's not true. 
+
+<https://insideevs.com/news/729112/edmunds-tesla-trade-ins-debunked/>
+
+---
+
+## America's EV Future May Ride On The Donald Trump-Elon Musk Bromance
+
+date: 2024-08-05, from: Inside EVs News
+
+Just don't call it quid-pro-quo. 
+
+<https://insideevs.com/news/729056/trump-evs-musk-endorsements-choice/>
+
+---
+
+## Dodge Charger Daytona EV Price May Go Way Up From The Gas Version
+
+date: 2024-08-05, from: Inside EVs News
+
+Going electric isn't cheap, but will the Mopar faithful show up for this one?  
+
+<https://insideevs.com/news/729115/dodge-charger-v8-daytona-ev/>
+
+---
+
+## Rivian (RIVN) to release critical Q2 earnings: Here’s what to expect
+
+date: 2024-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Rivian-costs-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s EV earnings season again, and <a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) is set to release critical Q2 2024 earnings on Tuesday, August 6, 2024, after the bell. Rivian has been aggressively cutting costs in an effort to achieve a gross profit by the end of the year. Here’s what to expect from its second quarter report.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="374432" href="https://electrek.co/2024/08/05/rivian-rivn-release-critical-q2-earnings/#more-374432" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/05/rivian-rivn-release-critical-q2-earnings/>
+
+---
+
+## If Your Tesla Cybertruck Is Supercharging At 320+ kW, 'It's Not A Bug'
+
+date: 2024-08-05, from: Inside EVs News
+
+Tesla is running a trial of a DC charging boost at a few stations before a wider rollout. 
+
+<https://insideevs.com/news/729088/tesla-cybertruck-supercharging-320kw/>
+
+---
+
+## CATL is investing hundreds of millions of dollars in eVTOL developer AutoFlight
+
+date: 2024-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/CATL-eVTOL-AutoFlight.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Prominent eVTOL developer <a href="https://electrek.co/guides/autoflight/">AutoFlight</a> has announced the signing of a strategic cooperation agreement with battery behemoth CATL in which the latter will invest hundreds of millions to support the former’s arial technology development.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autoflight,catl,evtol" data-layer-viewtype="unknown" data-post-id="374407" href="https://electrek.co/2024/08/05/catl-is-investing-hundreds-of-millions-of-dollars-in-evtol-developer-autoflight/#more-374407" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/05/catl-is-investing-hundreds-of-millions-of-dollars-in-evtol-developer-autoflight/>
+
+---
+
+## Jackery 3-day sale takes $1,700 off power stations, Segway EVs up to 46% off, VEVOR upgraded level 2 EV charger $187, more
+
+date: 2024-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Jackery-August-Member-Sale-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>We’ve got a mixed bag of EV-focused Green Deals for you today, starting off with <a href="https://9to5toys.com/2024/08/05/save-up-to-1700-on-jackery-power-stations-bundles-more-starting-from-90-during-3-day-sale/">Jackery’s latest 3-day Member sale (membership is free and easy)</a> that is taking <strong>up to $1,700 off</strong> a selection of power stations, solar generator bundles, and accessories – all <a href="https://9to5toys.com/2024/08/05/save-up-to-1700-on-jackery-power-stations-bundles-more-starting-from-90-during-3-day-sale/">starting from $90</a>. It is joined by <a href="https://9to5toys.com/2024/08/05/get-segways-e22-electric-kickscooter-with-a-free-add-on-seat-at-360-save-280-more-from-550/">Segway’s Ninebot E22 Electric KickScooter</a> that comes with an add-on seat for <a href="https://9to5toys.com/2024/08/05/get-segways-e22-electric-kickscooter-with-a-free-add-on-seat-at-360-save-280-more-from-550/">$360</a>, as well as a few more of the brand’s popular e-scooter models that are also seeing discounts. Bringing up the rear for today’s deals is <a href="https://9to5toys.com/2024/08/05/vevors-newly-upgraded-level-2-40a-portable-ev-charger-with-nema-type-4-protection-ratings-now-at-187-reg-240/">VEVOR’s newly upgraded Level 2 40A portable EV charger at $187</a>. Plus, all the other hangover Green Deals that are still alive and well – including severe price drops across the entire board of <a href="https://9to5toys.com/2024/08/05/hover-1s-altai-pro-r500-r750-e-bikes-see-up-to-32-off-early-prime-day-discounts-starting-from-1725/">Hover-1’s Altai Pro R500 and R750 e-bikes</a> and Samsung dropping the price on its <a href="https://9to5toys.com/2024/08/05/upgrade-to-samsungs-bespoke-smart-electric-washer-ventless-dryer-at-2199-2529-value/">Bespoke All-in-One Smart Electric Washer and Ventless Dryer bundle</a> with free services and a Jet 60 stick vaccum. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="374402" href="https://electrek.co/2024/08/05/jackery-sale-segway-evs-vevor-upgraded-level-2-ev-charger-more/#more-374402" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/05/jackery-sale-segway-evs-vevor-upgraded-level-2-ev-charger-more/>
+
+---
+
+## Do EVs Regain The Range Lost Going Up A Mountain On The Way Down?
+
+date: 2024-08-05, from: Inside EVs News
+
+EVs use a lot more electricity than normal when going up a mountain road, but brake regen helps recover a lot of energy on the descent. 
+
+<https://insideevs.com/news/729091/evs-range-lost-regen-mountain/>
+
+---
+
+## Lexus will spearhead Toyota’s EV strategy with new ‘ajimigaki’ approach
+
+date: 2024-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/Lexus-RZ-300e-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota’s luxury Lexus brand will play a key role in the Japanese automaker’s EV plans. After opening its new global headquarters, <a href="https://electrek.co/guides/lexus/">Lexus</a> is embracing an “ajimigaki” strategy to revamp the luxury brand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lexus,toyota" data-layer-viewtype="unknown" data-post-id="374396" href="https://electrek.co/2024/08/05/lexus-spearhead-toyotas-ev-plan-new-ajimigaki-approach/#more-374396" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/05/lexus-spearhead-toyotas-ev-plan-new-ajimigaki-approach/>
+
+---
+
+## Tesla Cybertruck’s tow hitch snaps off the frame in torture test
+
+date: 2024-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/TEsla-Cybertruck-tow-hitch-fell-off.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Tesla Cybertruck’s tow hitch snapped off the frame of the truck in what was to be fair a pretty ridiculous torture test.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="374369" href="https://electrek.co/2024/08/05/tesla-cybertrucks-tow-hitch-snaps-off-the-frame-torture-test/#more-374369" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/05/tesla-cybertrucks-tow-hitch-snaps-off-the-frame-torture-test/>
+
+---
+
+## Geely’s new all-electric Galaxy E5 SUV will hit the global market at a starting price below $16,000
+
+date: 2024-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Galaxy-E5-driving.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Galaxy, a newer EV lineup under the <a href="https://electrek.co/guides/geely/">Geely Auto</a> umbrella, has launched its latest model, the E5. The new all-electric SUV was designed for overseas markets outside its native China and will have a starting price below $16,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="galaxy,galaxy-e5,geely,geely-galaxy-e5" data-layer-viewtype="unknown" data-post-id="374385" href="https://electrek.co/2024/08/05/geely-new-electric-galaxy-e5-suv-will-hit-global-market-starting-price/#more-374385" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/05/geely-new-electric-galaxy-e5-suv-will-hit-global-market-starting-price/>
+
+---
+
+## Here's How A BYD EV Holds Up After 12,000 Miles
+
+date: 2024-08-05, from: Inside EVs News
+
+Wheelsboy's BYD Yuan Up, aka the Atto 3, has been a camera car for the China-based YouTuber. Here's how it's doing after a year and a half.  
+
+<https://insideevs.com/news/729094/byd-yuan-plus-video-test/>
+
+---
+
+## Hyundai IONIQ 6 refresh spotted with sleek new design upgrades [Video]
+
+date: 2024-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Hyundai-IONIQ-6-refresh-4.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/hyundai-ioniq-6/">Hyundai IONIQ 6</a> refresh has officially been spotted out in the wild. Hyundai’s electric fastback is getting a facelift, and from the first look, the design upgrades look like a major improvement. Check it out in the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-6" data-layer-viewtype="unknown" data-post-id="374368" href="https://electrek.co/2024/08/05/hyundai-ioniq-6-refresh-spotted-sleek-new-design-video/#more-374368" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/05/hyundai-ioniq-6-refresh-spotted-sleek-new-design-video/>
+
+---
+
+## 2025 Hyundai Ioniq 6: Price And Range Overview
+
+date: 2024-08-05, from: Inside EVs News
+
+The model is no longer expected to go 361 miles on a charge. 
+
+<https://insideevs.com/news/729018/2025-hyundai-ioniq-6-price-range/>
 
 ---
 

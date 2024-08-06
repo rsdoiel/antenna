@@ -1,11 +1,44 @@
 ---
 title: pacific 2024.32
-updated: 2024-08-05 08:13:40
+updated: 2024-08-05 17:08:24
 ---
 
 # pacific 2024.32
 
-(date: 2024-08-05 08:13:40)
+(date: 2024-08-05 17:08:24)
+
+---
+
+## Storing animal cells on the Moon in case of disaster
+
+date: 2024-08-05, from: University of Hawaiʻi News
+
+<p>The team has successfully cryopreserved skin cells from a reef fish found in Hawaiian waters known as the starry goby.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/05/animal-cells-moon-storage/">Storing animal cells on the Moon in case of disaster</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/05/animal-cells-moon-storage/>
+
+---
+
+## UH astronomers uncover risks to planets that could host life
+
+date: 2024-08-05, from: University of Hawaiʻi News
+
+<p><abbr>IfA</abbr> astronomers discover <abbr>UV</abbr> radiation from stellar flares could significantly impact planets that could support life.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/05/risks-to-planets-that-could-host-life/"><abbr>UH</abbr> astronomers uncover risks to planets that could host life</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/05/risks-to-planets-that-could-host-life/>
+
+---
+
+## Textbook orders move fully online for UH Mānoa fall 2024
+
+date: 2024-08-05, from: University of Hawaiʻi News
+
+<p>Starting August 5, students can place orders for their textbooks through STAR GPS with their student account or through the <abbr>UH</abbr> Mānoa Bookstore website.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/05/online-textbook-orders-2024/">Textbook orders move fully online for <abbr>UH</abbr> Mānoa fall 2024</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/05/online-textbook-orders-2024/>
 
 ---
 

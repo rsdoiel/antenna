@@ -1,11 +1,209 @@
 ---
 title: columns 2024.32
-updated: 2024-08-05 08:13:43
+updated: 2024-08-05 17:08:27
 ---
 
 # columns 2024.32
 
-(date: 2024-08-05 08:13:43)
+(date: 2024-08-05 17:08:27)
+
+---
+
+## Federal Judge Rules Google Search an Illegal Monopoly
+
+date: 2024-08-05, updated: 2024-08-05, from: Daring Fireball
+
+ 
+
+<https://www.nytimes.com/2024/08/05/technology/google-antitrust-ruling.html>
+
+---
+
+## Who’s Minding Musk?
+
+date: 2024-08-05, from: Dan Rather's Steady
+
+Nobody, and that&#8217;s a problem 
+
+<https://steady.substack.com/p/whos-minding-musk>
+
+---
+
+##  YES YES YES: &#8220;Campaigns from Harris for President on down should clarify... 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045068-yes-yes-yes-campaigns-fro>
+
+---
+
+## ★ Apple’s Profits From Services Are on the Cusp of Surpassing Its Profits From Device Sales
+
+date: 2024-08-05, updated: 2024-08-05, from: Daring Fireball
+
+Apple’s success with services is no more a distraction from their core business than their success with their own chain of retail stores has been. 
+
+<https://daringfireball.net/2024/08/apple_services_profit>
+
+---
+
+##  The Spielberg Face 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/the-spielberg-face-1>
+
+---
+
+##  Cooking with Pixar, a playlist of videos with recipes inspired by Luca... 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045066-cooking-with-pixar-a-play>
+
+---
+
+## Bloomberg Fires One of the Two Reporters Whose Byline Was on Embargo-Breaking Gershkovich-Release Story
+
+date: 2024-08-05, updated: 2024-08-05, from: Daring Fireball
+
+ 
+
+<https://x.com/charlottetklein/status/1820480340932346271>
+
+---
+
+##  When kids can&#8217;t get outside to play in a world built for... 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045065-when-kids-cant-get-outsid>
+
+---
+
+##  Is 5% of the Earth&#8217;s Population Related to Genghis Khan? 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/is-5-of-the-earths-population-related-to-genghis-khan>
+
+---
+
+##  Google, a monopoly, loses its antitrust case against the Dept of Justice.... 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045063-google-a-monopoly-loses-i>
+
+---
+
+## Another Black Monday?
+
+date: 2024-08-05, from: Robert Reich's blog
+
+What really happened today on Wall Street 
+
+<https://robertreich.substack.com/p/another-black-monday>
+
+---
+
+##  Australia is starting kids with peanut allergies on an oral immunotherapy program.... 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045062-australia-is-starting-kid>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-05, from: Dave Winer's Scripting News)
+
+When reporting massacres, imho we should cite the number of people who were shot. It measures of how much violence there was, and how excessive the gun tech used. Many who were injured but not killed have their lives ruined. Their suffering can go for decades. 
+
+<http://scripting.com/2024/08/05.html#a185656>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-05, from: Dave Winer's Scripting News)
+
+If you want to keep up on political news, esp at a time when so much is happening so quickly, the best resource I have at this time is the <a href="https://news.scripting.com?tab=politics">politics tab</a> on news.scripting.com. Here's a <a href="http://scripting.com/images/2024/08/05/politicsTabNewsScriptingCom.png">screen shot</a>. 
+
+<http://scripting.com/2024/08/05.html#a183833>
+
+---
+
+##  The Evolution of Olympic Performances, 1912 to 2020 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/the-evolution-of-olympic-performances-1912-to-2020>
+
+---
+
+## August 4, 2024
+
+date: 2024-08-05, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-4-2024-81e>
+
+---
+
+## 2024-08-05 Free speech advocacy on the fediverse
+
+date: 2024-08-05, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-05-free-speech-advocacy-on-the-fediverse">2024-08-05 Free speech advocacy on the fediverse</h1>
+
+<p>It all started with <a class="account" href="https://social.wildeboer.net/@jwildeboer" title="@jwildeboer@social.wildeboer.net">@jwildeboer</a> <a href="https://social.wildeboer.net/@jwildeboer/112893255029322563">arguing</a> that the original poster (OP) of a message should be in control of what’s considered to be a reply to the their post. Apparently, this would be within the realm of how ActivityPub works, but it&rsquo;s not how Mastodon works. From my point of view, I&rsquo;d love the ability to unlink replies from my post so that people clicking through to my post don&rsquo;t end up seeing those replies. I&rsquo;d be protecting my readers from spam, trolls and detractors. Jan also argued that as a positive side-effect, servers getting the original post that starts a thread would immediately get the whole tree of replies. Finally, Jan also argued that replies should not be able to reduce the audience scope of the audience because it was used for bullying. People replying with a “followers only” audience can effectively pile-on the original poster with their friends and followers without anybody else being able to see this – you have to be a follower of the bully in order to see it.</p>
+
+<p>There was a longer thread by <a class="account" href="https://eattherich.club/@deflarerOfClouds" title="@deflarerOfClouds@eattherich.club">@deflarerOfClouds</a> arguing that &ldquo;silencing critics is an anti-speech injustice &amp; if their replies are detached that obviously censors their ideas.&rdquo; I disagree.</p>
+
+<p>In situations like these I like to explain the situation without using the word censorship as we’ll get bogged down in a word definition game that I find fundamentally boring. I want to make sure that speech I disagree with does not benefit from my reach; I want no part in distributing it. If somebody wants to argue that this is censorship and therefore bad, I’m bored. I’d like to hear an explanation that hows how this attachment is something I should support. Note that I&rsquo;m not interested in the question of whether people can or cannot say their words; all I care about is them not distributing their words along with mine.</p>
+
+<p>In this sense, running a blog without comments is perfect. There&rsquo;s not even the illusion of censorship. If people want to counter, let them put it up on their blogs. I’m not in a debate club. Instead, I feel like an essayist or a book author. Other people should feel free to write their own books and their essays – and their own blog posts, possibly linking to mine – but me having to endure the inane and the boring, and inflicting it on my readers, is disrespectful to my readership. It&rsquo;s abuse of my distribution channel.</p>
+
+<p>Similarly, I expect newspapers and academic journals to exercise their editorial powers to filter and select the replies and comments and letters to the editors worth their readers&rsquo; time. It is what I expect because life is short and the number of boring comments are endless. A world without curation is not my goal.</p>
+
+<p>On my blog, people can find ways to contact me. And maybe I’ll post their replies or additions. But really, adversarial comments can be hosted elsewhere and I feel no compulsion to link them all. This sort of third party comment aggregation is exactly what Hacker News, Reddit or Lemmy do. It makes no sense to demand that blogs do the same. It makes no sense to demand all social media to do the same. Tools can be different and interaction models can be different.</p>
+
+<p>To come back to the fediverse: I would prefer Mastodon (and the software I use, GoToSocial) to change their defaults because I think the original poster having control over comments provides exactly the kind of curation I like. In this social media model, I&rsquo;m following people so I implicitly trust their curation. Calling this curation censorship or suppression is an exaggeration.</p>
+
+<p>I write on the web. I don’t plan to prevent other people from reading my words and writing posts quoting my words. What I do want is the option of having no part in their distribution. I&rsquo;m not interested in technology that allows people to use my blog or my posts to reach my readership with their adversarial replies. In other words, I&rsquo;m fine with people writing replies on their blog posts and linking to mine. I don&rsquo;t need to link back. On social media, I&rsquo;m willing to go a step further and allow people to write public replies linked to my posts. I&rsquo;d very much like the option of detaching adversarial replies from my posts.</p>
+
+<p>The important part about this is the realization that none of this is &ldquo;natural&rdquo; – everything is engineered and the people writing the software make decisions about how the people on these platforms interact and it&rsquo;s important to think about the choices being made and the consequences these choices have. Replies being attached to original posts in the fediverse is a feature somebody developed and it is not at all clear to me that denying this features amounts to suppression or censorship.</p>
+
+<p>The belief that denying technological features amounts to suppression and censorship is a leap I am not willing to make.</p>
+
+<p><a class="tag" href="/search/?q=%23Fediverse">#Fediverse</a></p> 
+
+<https://alexschroeder.ch/view/2024-08-05-free-speech-on-fedi>
+
+---
+
+##  Carl Zimmer&#8217;s new book sounds fascinating & relevant: Air-Borne: The Hidden History... 
+
+date: 2024-08-05, updated: 2024-08-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045059-carl-zimmers-new-book-sou>
 
 ---
 

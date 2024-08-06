@@ -1,11 +1,21 @@
 ---
 title: motorcycles 2024.32
-updated: 2024-08-05 08:13:47
+updated: 2024-08-05 17:08:30
 ---
 
 # motorcycles 2024.32
 
-(date: 2024-08-05 08:13:47)
+(date: 2024-08-05 17:08:30)
+
+---
+
+## High-Performance Yamaha Electric in Development
+
+date: 2024-08-05, from: Cycle World News
+
+Yamaha has been working on EV prototype sportbikes for ages, but none have come to fruition. It now appears that the company continues to pursue the technology. 
+
+<https://www.cycleworld.com/motorcycle-news/high-performance-yamaha-electric-sportbike-in-development/>
 
 ---
 
