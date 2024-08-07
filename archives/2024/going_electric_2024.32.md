@@ -1,11 +1,399 @@
 ---
 title: going electric 2024.32
-updated: 2024-08-06 08:33:49
+updated: 2024-08-07 08:30:37
 ---
 
 # going electric 2024.32
 
-(date: 2024-08-06 08:33:49)
+(date: 2024-08-07 08:30:37)
+
+---
+
+## Tesla releases new safety report, claims improvement in Autopilot crashes
+
+date: 2024-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-Radar-e1603395743425.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Tesla has released a new safety report claiming a slight improvement in miles between Autopilot crashes.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="374716" href="https://electrek.co/2024/08/07/tesla-releases-new-safety-report-claims-improvement-in-autopilot-crashes/#more-374716" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/07/tesla-releases-new-safety-report-claims-improvement-in-autopilot-crashes/>
+
+---
+
+## Lucid’s CEO details how its EV tech is king and why it will take competitors years to catch up
+
+date: 2024-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Lucid-CEO-Tech-advantage.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Efficiency, efficiency, efficiency. It’s the most important performance spec to <span style="box-sizing: border-box; margin: 0px; padding: 0px;">consider</span> when comparing EVs, and <a href="https://electrek.co/guides/lucid-motors/">Lucid Motors</a> is the global leader. After recently sharing that its flagship Air sedan has earned the title of the most efficient production car in the world, Lucid CEO Peter Rawlinson shared some data that explains just how far ahead the American automaker is and how long it might take its competitors like Tesla to catch up.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid-air,lucid-air-pure,lucid-motors,mercedes-benz-eqs,porsche-taycan,tesla-model-s" data-layer-viewtype="unknown" data-post-id="374708" href="https://electrek.co/2024/08/07/lucids-ceo-details-how-ev-tech-is-king-it-will-take-competitors-years-to-catch-up/#more-374708" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/07/lucids-ceo-details-how-ev-tech-is-king-it-will-take-competitors-years-to-catch-up/>
+
+---
+
+## America Is Divided: Let China's Automakers Build Here, Or Not?
+
+date: 2024-08-07, from: Inside EVs News
+
+Plus, Nissan's former top boss fears a Honda "takeover," and Rivian doubles down on cost-cutting.  
+
+<https://insideevs.com/news/729357/china-us-production-cm/>
+
+---
+
+## Hyundai takes aim at BYD with new EV and battery plant in this surging overseas market
+
+date: 2024-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Hyundais-Casper-EV-spotted.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai is upping the ante on China’s leading EV maker with plans to dish out $28 million (1 billion baht) on a new EV assembly and battery plant in Thailand. BYD is leading the “Detroit of Asia’s” surging EV market, but <a href="https://electrek.co/guides/hyundai/">Hyundai</a> looks to grab its share.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,hyundai" data-layer-viewtype="unknown" data-post-id="374706" href="https://electrek.co/2024/08/07/hyundai-takes-aim-byd-new-ev-plant-surging-market/#more-374706" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/07/hyundai-takes-aim-byd-new-ev-plant-surging-market/>
+
+---
+
+## Tesla FSD 12.5 Goes Rogue In Inclement Weather, Imagines Turns That Don’t Exist
+
+date: 2024-08-07, from: Inside EVs News
+
+Bad weather compromised a Tesla Model 3’s FSD. And then it tried entering a furniture store. 
+
+<https://insideevs.com/news/729364/tesla-fsd-goes-rogue-imagines-turns-that-dont-exist/>
+
+---
+
+## Yamaha's New RMax4 Takes Aim at Polaris and Can-Am, But Smaller Model Remains
+
+date: 2024-08-07, from: Ride Apart, Electric Motorcycle News
+
+Go fast, go far.  
+
+<https://www.rideapart.com/news/729238/2025-yamaha-wolverine-rmax4-utv-sxs-debut/>
+
+---
+
+## Rad Power Bikes launches its first belt drive low-cost e-bike, the RadKick
+
+date: 2024-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/rad-power-bikes-e-bike-radkick-battery-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Rad Power Bikes announced its newest model this morning, marking the first belt-driven low-cost electric bike from the Seattle-based e-bike maker. Meet the new <a href="http://bit.ly/Rad-Power_Bikes">Rad Power Bikes RadKick</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,rad-power-bikes" data-layer-viewtype="unknown" data-post-id="374671" href="https://electrek.co/2024/08/07/rad-power-bikes-launches-its-first-belt-drive-low-cost-e-bike-the-radkick/#more-374671" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/07/rad-power-bikes-launches-its-first-belt-drive-low-cost-e-bike-the-radkick/>
+
+---
+
+## Bajaj Is Selling This New Electric Scooter, Only On Amazon
+
+date: 2024-08-07, from: Ride Apart, Electric Motorcycle News
+
+Boasting features including an 84-ish mile range on a single charge, can this special edition Chetak win customers over? 
+
+<https://www.rideapart.com/news/729266/bajaj-chetak-special-edition-amazon/>
+
+---
+
+## You Don’t Need To Be a Racer To Ride Aprilia’s SR GT Scooter Replica
+
+date: 2024-08-07, from: Ride Apart, Electric Motorcycle News
+
+Would you ride this sporty scooter?  
+
+<https://www.rideapart.com/news/729134/aprilia-sr-gt-replica-scooter-europe/>
+
+---
+
+## 2025 Lucid Air Range And Pricing Overview
+
+date: 2024-08-07, from: Inside EVs News
+
+Check the comparison of all versions with range from 361 to 512 miles. 
+
+<https://insideevs.com/news/729195/2025-lucid-air-range-pricing-overview/>
+
+---
+
+## The Affordable Kia EV4 Should Be A Sedan And A Hatchback
+
+date: 2024-08-07, from: Inside EVs News
+
+Sedan? Hatch? How about both? Kia's next electric entry is playing the spread. 
+
+<https://insideevs.com/news/729347/kia-ev4-sedan-hatch/>
+
+---
+
+## Injured Motorcycle Racer's Family Is Currently Crowdfunding For Her Care
+
+date: 2024-08-07, from: Ride Apart, Electric Motorcycle News
+
+Norwegian racer Mia Rusthen had a bad crash in the first-ever World WCR round. Can you help? 
+
+<https://www.rideapart.com/news/729260/world-wcr-injury-mia-rusthen/>
+
+---
+
+## Polaris Reports Worrying Sales Decline, President Leaves Company
+
+date: 2024-08-07, from: Ride Apart, Electric Motorcycle News
+
+Interesting timing.  
+
+<https://www.rideapart.com/news/729133/polaris-sales-decline-q2-2024/>
+
+---
+
+## Arai Is Bringing back the Sakata Bomb Graphic, but There’s a Catch
+
+date: 2024-08-07, from: Ride Apart, Electric Motorcycle News
+
+Bring back all the stellar, bright '90s graphics, I say. 
+
+<https://www.rideapart.com/news/729245/arai-rapide-neo-sakata-helmet/>
+
+---
+
+## BMW Recalls New R 1300 GS Due To Faulty Starter Relay, World-wide Models Affected
+
+date: 2024-08-07, from: Ride Apart, Electric Motorcycle News
+
+Around 25,000 units are affected worldwide.  
+
+<https://www.rideapart.com/news/729132/bmw-r-1300-gs-recall-starter-relay/>
+
+---
+
+## Watch This Retro Sit-in Jet Ski Rip, Until It Capsizes
+
+date: 2024-08-07, from: Ride Apart, Electric Motorcycle News
+
+It's clear why this model had a one-year production run, but I think the world is ready for a modern sit-in jet ski. 
+
+<https://www.rideapart.com/news/729120/cboys-sit-in-jet-ski/>
+
+---
+
+## Ford unveils new Mustang and Bronco electric bikes along with N+
+
+date: 2024-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Mustang-e-bike-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the latest example of car companies jumping into the electric bicycle market, Ford has teamed up with cycling company N+ to create a pair of officially licensed e-bike models to celebrate the Ford Mustang and Bronco. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="374674" href="https://electrek.co/2024/08/07/ford-unveils-new-mustang-and-bronco-electric-bikes-along-with-n/#more-374674" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/07/ford-unveils-new-mustang-and-bronco-electric-bikes-along-with-n/>
+
+---
+
+## Tesla partners with Sunrun on its ‘Tesla Electric’ utility
+
+date: 2024-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/sunrun-solar-battery-storage-tesla-powerwall.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla Electric, Tesla’s electric utility division, is partnering with solar installer Sunrun to grow its user base in Texas.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-electric" data-layer-viewtype="unknown" data-post-id="374657" href="https://electrek.co/2024/08/06/tesla-electric-partners-sunrun-utility/#more-374657" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/06/tesla-electric-partners-sunrun-utility/>
+
+---
+
+## Elon hurts Tesla sales, self driving Mercedes, and Matt from Chargeway stops by
+
+date: 2024-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/furry-elon.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s <em>extra long</em> episode of <em>Quick Charge</em>, Elon Musk is definitely hurting sales at Tesla, Mercedes is taking the self-driving lead, and Chargeway founder Matt Teske stops by to show us how extreme weather could impact your electric road trip.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous,elon-musk,mercedes,quick-charge" data-layer-viewtype="unknown" data-post-id="374658" href="https://electrek.co/2024/08/06/elon-hurts-tesla-sales-self-driving-mercedes-and-matt-from-chargeway-stops-by/#more-374658" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/06/elon-hurts-tesla-sales-self-driving-mercedes-and-matt-from-chargeway-stops-by/>
+
+---
+
+## Waymo expands its LA & SF service areas, with Austin coming soon
+
+date: 2024-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/Screenshot-2023-10-08-at-2.25.55PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Waymo is adding to its driverless taxi service areas in both Los Angeles and San Francisco, and is currently testing in Austin in advance of offering rides to the public soon.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="waymo" data-layer-viewtype="unknown" data-post-id="374652" href="https://electrek.co/2024/08/06/waymo-expands-its-la-sf-service-areas-with-austin-coming-soon/#more-374652" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/06/waymo-expands-its-la-sf-service-areas-with-austin-coming-soon/>
+
+---
+
+## Tesla Model 3 Performance Races Hyundai Ioniq 5 N: Not What You'd Expect
+
+date: 2024-08-06, from: Inside EVs News
+
+One of these has a lot more horsepower, but numbers aren't everything. Can Hyundai's EV hot rod take down Tesla's best? 
+
+<https://insideevs.com/news/729258/model-3-hyundai-drag-race/>
+
+---
+
+## VP Pick Gov. Tim Walz Is An EV Advocate: 'EVs Are Irrefutable’
+
+date: 2024-08-06, from: Inside EVs News
+
+Kamala Harris’s new running mate has championed EVs for his state. Now he plans to do the same on the national stage. 
+
+<https://insideevs.com/news/729259/tim-walz-ev-advocate/>
+
+---
+
+## Rivian (RIVN) reports ‘defining’ Q2 2024 earnings with profitability in sight
+
+date: 2024-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Rivians-legal-battle-Tesla.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) released its second-quarter earnings after the market closed on Tuesday as the EV maker aggressively cuts costs. CEO RJ Scaringe called the quarter a “defining one” as Rivian eyes its first gross profit by the end of the year. Here’s a breakdown of Rivian’s Q2 2024 earnings.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="374624" href="https://electrek.co/2024/08/06/rivian-reports-defining-q2-2024-earnings-profitability-in-sight/#more-374624" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/06/rivian-reports-defining-q2-2024-earnings-profitability-in-sight/>
+
+---
+
+## Jeep to unveil the new electric Compass soon: Here’s what to expect
+
+date: 2024-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Jeep-electric-Compass-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The all-electric <a href="https://electrek.co/guides/jeep/">Jeep</a> Compass is finally coming. Jeep plans to reveal the electric Compass before the end of the year ahead of a 2025 launch in Europe. Here’s what we know about the new electric SUV so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-jeep,jeep" data-layer-viewtype="unknown" data-post-id="374594" href="https://electrek.co/2024/08/06/jeep-unveil-new-electric-compass-soon/#more-374594" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/06/jeep-unveil-new-electric-compass-soon/>
+
+---
+
+## The US awards $2.2 billion to expand and strengthen the grid
+
+date: 2024-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/08/Electric-vehicles-recession-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The US Department of Energy (DOE) today announced a $2.2 billion investment in the grid to create resiliency and growth. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="department-of-energy,egeb,electric-grid,electrical-grid,solar,microgrids" data-layer-viewtype="unknown" data-post-id="374582" href="https://electrek.co/2024/08/06/us-awards-2-2-billion-grid/#more-374582" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/06/us-awards-2-2-billion-grid/>
+
+---
+
+## Elon Musk kills Tesla marketing program with Costco, says ‘didn’t approve it’
+
+date: 2024-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/Tesla-Model-3-red-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk said that he killed a Tesla marketing program in partnership with Costco in Taiwan. He didn’t explain why other than the CEO “didn’t approve it.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="374571" href="https://electrek.co/2024/08/06/elon-musk-kills-tesla-marketing-program-costco-say-didnt-approve-it/#more-374571" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/06/elon-musk-kills-tesla-marketing-program-costco-say-didnt-approve-it/>
+
+---
+
+## Save $699 on Heybike EV bundled with Jackery power station, UGREEN PowerRoam 1200 $504 off, Segway Navimow robot mower lows, more
+
+date: 2024-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Jackery-Heybike-venture-FI.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>We’ve got some great new and returning low prices for today’s Green Deals, with a special Jackery and Heybike joint venture leading the pack and offering a bundled <a href="https://9to5toys.com/2024/08/06/heybike-mars-2-0-e-bike-gets-bundled-with-jackerys-explorer-600-plus-power-station-for-1299-low-reg-1998/">Mars 2.0 Folding e-bike alongside an Explorer 600 Plus Portable Power Station for $1,299</a>. It is joined by the return of the massive 50% markdown on <a href="https://9to5toys.com/2024/08/06/ugreens-powerroam-1200-power-station-supports-camping-and-home-backup-alike-at-return-495-low-reg-999/">UGREEN’s PowerRoam 1200 Portable Power Station</a> back at its<a href="https://9to5toys.com/2024/08/06/ugreens-powerroam-1200-power-station-supports-camping-and-home-backup-alike-at-return-495-low-reg-999/"> $495 low</a>, as well as <a href="https://9to5toys.com/2024/08/06/work-smarter-not-harder-with-segways-navimow-h-series-robot-lawn-mowers-from-1299-low-600-off/">Segway’s Navimow H series Robot Lawn Mowers</a> seeing $600 discounts across the board starting from the <a href="https://9to5toys.com/2024/08/06/work-smarter-not-harder-with-segways-navimow-h-series-robot-lawn-mowers-from-1299-low-600-off/">$1,299 low</a>. Plus, all the other hangover Green Deals that are still alive and well – including a one-day sale on <a href="https://9to5toys.com/2024/08/06/get-an-affordable-starter-e-bike-in-gotraxs-z4-lite-folding-model-at-return-600-low-reg-800/">GoTrax’s Z4 LITE Folding e-bike at a $600 low</a> and also some <a href="https://9to5toys.com/2024/08/06/score-ankers-solix-c1000-power-station-with-a-water-resistant-carry-bag-at-599-low-save-469-more-bundles-from-749/">Anker SOLIX C1000 Portable Power Station bundle lows</a> with the addition of a new bundle option too. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="374580" href="https://electrek.co/2024/08/06/heybike-ev-bundled-with-jackery-power-station-ugreen-powerroam-segway-navimow-more/#more-374580" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/06/heybike-ev-bundled-with-jackery-power-station-ugreen-powerroam-segway-navimow-more/>
+
+---
+
+## Kia’s new EV4 electric sedan is already gaining a hatchback model
+
+date: 2024-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Kia-EV4-hatchback.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ahead of its official launch, Kia’s <a href="https://electrek.co/guides/kia-ev4/">new EV4</a> is already gaining a new hatchback variant. The EV4 is Kia’s take on an electric sedan, but a hatchback model will help Kia target specific EV markets.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" data-post-id="374564" href="https://electrek.co/2024/08/06/kias-new-ev4-electric-sedan-already-gaining-hatchback-model/#more-374564" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/06/kias-new-ev4-electric-sedan-already-gaining-hatchback-model/>
+
+---
+
+## Mercedes EQE's Catastrophic Fire In Underground Garage: What We Know
+
+date: 2024-08-06, from: Inside EVs News
+
+The EV was parked in a Korean parking garage for three days before it spontaneously burst into flames, and wasn't charging at the time. 
+
+<https://insideevs.com/news/729196/mercedes-eqe-korea-fire-underground/>
+
+---
+
+## Tesla loses corporate sales over Elon Musk ‘going against Tesla’s mission’
+
+date: 2024-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/Elon-Musk-Game-of-Thrones-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla loses corporate sales in Germany over what a firm sees as CEO Elon Musk going against Tesla’s mission to accelerate the advent of sustainable energy.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="374563" href="https://electrek.co/2024/08/06/tesla-loses-corporate-sales-over-elon-musk-tesla-mission/#more-374563" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/06/tesla-loses-corporate-sales-over-elon-musk-tesla-mission/>
+
+---
+
+## EV Battery Pack Costs Were Cut By 90% From 2008 To 2023
+
+date: 2024-08-06, from: Inside EVs News
+
+The latest data reveals massive reductions in costs. 
+
+<https://insideevs.com/news/729184/ev-battery-pack-costs-comparison-2008-2023/>
+
+---
+
+## Ford Mustang Mach-E breaks Guinness World Record after 569 mile-trip on a single charge
+
+date: 2024-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Ford-Mach-E-World-Record.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Ford <a href="https://electrek.co/guides/ford-mach-e/">Mustang Mach-E</a> just set a new Guinness World Record after traveling over 569 miles on a single charge. After driving for over 24 hours, the journey was verified by vehicle tracking and fleet management firm Webfleet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-mach-e" data-layer-viewtype="unknown" data-post-id="374535" href="https://electrek.co/2024/08/06/ford-mustang-mach-e-sets-guinness-world-record-569-mi-trip/#more-374535" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/06/ford-mustang-mach-e-sets-guinness-world-record-569-mi-trip/>
 
 ---
 
@@ -13,7 +401,7 @@ updated: 2024-08-06 08:33:49
 
 date: 2024-08-06, from: Inside EVs News
 
-It drove 21 miles after the battery reach 0% and the efficiency was 6.25 miles per kilowatt hour. 
+It drove 21 miles after the battery reached 0%. 
 
 <https://insideevs.com/news/729226/ford-mustang-mach-e-range-record-570-miles/>
 

@@ -1,11 +1,98 @@
 ---
 title: socal north 2024.32
-updated: 2024-08-06 08:33:40
+updated: 2024-08-07 08:30:30
 ---
 
 # socal north 2024.32
 
-(date: 2024-08-06 08:33:40)
+(date: 2024-08-07 08:30:30)
+
+---
+
+## Why did LA take the ‘right’ out of the city’s plans for a renter’s ‘right to counsel’ in eviction court?
+
+date: 2024-08-07, updated: 2024-08-07, from: The LAist
+
+Other cities give free eviction lawyers to tenants as a right. But the city of L.A. is weighing a proposal that explicitly says that won’t be guaranteed. 
+
+<https://laist.com/news/housing-homelessness/los-angeles-city-right-to-counsel-draft-city-attorney-hydee-feldstein-soto-housing-eviction-renter-tenant-landlord-attorney>
+
+---
+
+## LAUSD board to consider adding $9 billion bond to November ballot
+
+date: 2024-08-07, updated: 2024-08-07, from: The LAist
+
+The Los Angeles Unified School District will vote Wednesday on whether to put the bond that would pay for school repairs and upgrades to voters. 
+
+<https://laist.com/news/education/lausd-9-billion-dollar-bond-proposal-vote>
+
+---
+
+## Classifieds – August 7, 2024
+
+date: 2024-08-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/07/classifieds-august-7-2024/">Classifieds &#8211; August 7, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/07/classifieds-august-7-2024/>
+
+---
+
+## Aided by Bruin alumni, US women’s water polo advances to semifinals at Olympics
+
+date: 2024-08-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+The only nation to medal in every Games since water polo joined the Olympic catalog is one step closer to the podium.
+The United States women’s water polo team – which rosters three UCLA alumni as players and two as coaches – finished second in its preliminary rounds to advance to the quarterfinals of the 2024 Paris Olympics. 
+
+<https://dailybruin.com/2024/08/06/aided-by-bruin-alumni-us-womens-water-polo-advances-to-semifinals-at-olympics/>
+
+---
+
+## Leader of L.A.'s community colleges announces early retirement
+
+date: 2024-08-06, updated: 2024-08-06, from: The LAist
+
+Chancellor Francisco Rodriguez says he’s retiring to take care of his ailing father, but the announcement comes amid district turmoil. 
+
+<https://laist.com/news/education/laccd-resignation-retirement-chancellor-francisco-rodriguez>
+
+---
+
+## Theater review: Contemporary revival of classic musical ‘Company’ is something to be celebrated
+
+date: 2024-08-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Although the party may be over, “Company” is far from blowing out its candles anytime soon.
+Until Aug. 18, the partygoers of “Company” will be celebrating on the Hollywood Pantages Theatre stage. 
+
+<https://dailybruin.com/2024/08/06/theater-review-contemporary-revival-of-classic-musical-company-is-something-to-be-celebrated/>
+
+---
+
+## UCLA women’s golf alumnus Lilia Vu showcases perseverance on road to Olympic debut
+
+date: 2024-08-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Athletes spend years preparing to represent their nation at the Olympics.
+For UCLA women’s golf alumnus Lilia Vu, her Olympic debut on the national team is about more than just a title – it’s one filled with perseverance. 
+
+<https://dailybruin.com/2024/08/06/ucla-womens-golf-alumnus-lilia-vu-showcases-perseverance-on-road-to-olympic-debut/>
+
+---
+
+## Port of Hueneme Partners with STAX Engineering “Breaking Waves” with Emissions Capture and Control Project
+
+date: 2024-08-06, from: Port Hueneme
+
+<p>Download Press Release Contact: Letitia Austin Public and Gov’t Relations Manager Laustin@Portofh.org &#160; [PORT HUENEME, CA] – The Port of Hueneme, a vital gateway for international trade and a leader&#8230;</p>
+<p>The post <a href="https://www.portofhueneme.org/port-of-hueneme-partners-with-stax-engineering-breaking-waves-with-emissions-capture-and-control-project/">Port of Hueneme Partners with STAX Engineering “Breaking Waves” with Emissions Capture and Control Project</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
+ 
+
+<https://www.portofhueneme.org/port-of-hueneme-partners-with-stax-engineering-breaking-waves-with-emissions-capture-and-control-project/>
 
 ---
 

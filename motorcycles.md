@@ -1,11 +1,161 @@
 ---
 title: motorcycles 2024.32
-updated: 2024-08-06 08:33:48
+updated: 2024-08-07 08:30:36
 ---
 
 # motorcycles 2024.32
 
-(date: 2024-08-06 08:33:48)
+(date: 2024-08-07 08:30:36)
+
+---
+
+## Yamaha's New RMax4 Takes Aim at Polaris and Can-Am, But Smaller Model Remains
+
+date: 2024-08-07, from: Ride Apart, Electric Motorcycle News
+
+Go fast, go far.  
+
+<https://www.rideapart.com/news/729238/2025-yamaha-wolverine-rmax4-utv-sxs-debut/>
+
+---
+
+## Bajaj Is Selling This New Electric Scooter, Only On Amazon
+
+date: 2024-08-07, from: Ride Apart, Electric Motorcycle News
+
+Boasting features including an 84-ish mile range on a single charge, can this special edition Chetak win customers over? 
+
+<https://www.rideapart.com/news/729266/bajaj-chetak-special-edition-amazon/>
+
+---
+
+## You Don’t Need To Be a Racer To Ride Aprilia’s SR GT Scooter Replica
+
+date: 2024-08-07, from: Ride Apart, Electric Motorcycle News
+
+Would you ride this sporty scooter?  
+
+<https://www.rideapart.com/news/729134/aprilia-sr-gt-replica-scooter-europe/>
+
+---
+
+## Injured Motorcycle Racer's Family Is Currently Crowdfunding For Her Care
+
+date: 2024-08-07, from: Ride Apart, Electric Motorcycle News
+
+Norwegian racer Mia Rusthen had a bad crash in the first-ever World WCR round. Can you help? 
+
+<https://www.rideapart.com/news/729260/world-wcr-injury-mia-rusthen/>
+
+---
+
+## Polaris Reports Worrying Sales Decline, President Leaves Company
+
+date: 2024-08-07, from: Ride Apart, Electric Motorcycle News
+
+Interesting timing.  
+
+<https://www.rideapart.com/news/729133/polaris-sales-decline-q2-2024/>
+
+---
+
+## Arai Is Bringing back the Sakata Bomb Graphic, but There’s a Catch
+
+date: 2024-08-07, from: Ride Apart, Electric Motorcycle News
+
+Bring back all the stellar, bright '90s graphics, I say. 
+
+<https://www.rideapart.com/news/729245/arai-rapide-neo-sakata-helmet/>
+
+---
+
+## BMW Recalls New R 1300 GS Due To Faulty Starter Relay, World-wide Models Affected
+
+date: 2024-08-07, from: Ride Apart, Electric Motorcycle News
+
+Around 25,000 units are affected worldwide.  
+
+<https://www.rideapart.com/news/729132/bmw-r-1300-gs-recall-starter-relay/>
+
+---
+
+## Watch This Retro Sit-in Jet Ski Rip, Until It Capsizes
+
+date: 2024-08-07, from: Ride Apart, Electric Motorcycle News
+
+It's clear why this model had a one-year production run, but I think the world is ready for a modern sit-in jet ski. 
+
+<https://www.rideapart.com/news/729120/cboys-sit-in-jet-ski/>
+
+---
+
+## Enea Bastianini Puts It All Together at Silverstone
+
+date: 2024-08-06, from: Cycle World News
+
+Ducati’s Enea Bastianini started at the front at Silverstone and proved that he is the fastest rider in a field in the last half of the race with two wins. 
+
+<https://www.cycleworld.com/motorcycle-racing/silverstone-motogp-race-report-2024/>
+
+---
+
+## 2024 Husqvarna 701 Enduro
+
+date: 2024-08-06, from: Cycle World News
+
+Husqvarna’s 701 Enduro is a lot of things: a lightweight adventure bike, a heavyweight dual sport, and something in between. Jack-of-all-trades sums it up nicely. 
+
+<https://www.cycleworld.com/husqvarna/701-enduro/>
+
+---
+
+## 2024 Kawasaki Ninja 500
+
+date: 2024-08-06, from: Cycle World News
+
+Kawasaki improves the Ninja 400 platform with a larger engine, new styling, and a new dash. 
+
+<https://www.cycleworld.com/kawasaki/ninja-500/>
+
+---
+
+## 2023 Husqvarna Norden 901 Expedition
+
+date: 2024-08-06, from: Cycle World News
+
+Husqvarna’s Norden 901 Expedition comes with upgraded suspension plus standard features that prepare the bike for an adventure right from the showroom floor. 
+
+<https://www.cycleworld.com/husqvarna/norden-901-expedition-2023/>
+
+---
+
+## 2024 Honda SCL500
+
+date: 2024-08-06, from: Cycle World News
+
+Honda takes the Rebel 500 platform and transforms it into a stylish scrambler-style machine. 
+
+<https://www.cycleworld.com/honda/scl500/>
+
+---
+
+## 2023 Honda XR150L
+
+date: 2024-08-06, from: Cycle World News
+
+The Honda XR150L is a beginner-friendly dual sport powered by a 149cc air-cooled single-cylinder engine perfect for riders who want to ride from home to trail. 
+
+<https://www.cycleworld.com/honda/xr150l-2023/>
+
+---
+
+## 2024 Honda Super Cub C125 ABS
+
+date: 2024-08-06, from: Cycle World News
+
+For more than 60 years, the Super Cub has defined practical urban transportation. This formula lives on today in the Super Cub C125 ABS. 
+
+<https://www.cycleworld.com/honda/super-cub-c125-abs/>
 
 ---
 

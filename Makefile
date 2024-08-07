@@ -20,7 +20,7 @@ endif
 
 PROJECT = Antenna
 
-section_names = socal_north pacific mid_central central_coast tech_likely columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric
+section_names = national socal_north pacific mid_central central_coast tech_likely columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric
 
 md_files = $(addsuffix .md,$(section_names))
 
@@ -47,6 +47,8 @@ harvest: $(section_names)
 #
 # Helper rules to retrieve and debug specific feed lists
 #
+national: .FORCE
+	-skimmer national.txt
 
 socal_north: .FORCE
 	-skimmer socal_north.txt
@@ -144,6 +146,8 @@ pagefind: .FORCE
 	git add pagefind
 
 clean: .FORCE
+	-rm national.md 2>/dev/null
+	-rm national.html 2>/dev/null
 	-rm mid_central.md 2>/dev/null
 	-rm mid_central.html 2>/dev/null
 	-rm tech_likely.md 2>/dev/null

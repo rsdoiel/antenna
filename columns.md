@@ -1,27 +1,73 @@
 ---
 title: columns 2024.32
-updated: 2024-08-06 08:33:44
+updated: 2024-08-07 08:30:33
 ---
 
 # columns 2024.32
 
-(date: 2024-08-06 08:33:44)
+(date: 2024-08-07 08:30:33)
 
 ---
 
-## Tim Walz for Vice President!
+##  The theme for the Cooper Hewitt&#8217;s upcoming Design Triennial (in collaboration with... 
 
-date: 2024-08-06, from: Robert Reich's blog
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kittke's blog
 
-A terrific choice, on all grounds 
+ 
 
-<https://robertreich.substack.com/p/tim-walz-for-vice-president>
+<https://kottke.org/24/08/0045079-the-theme-for-the-cooper>
+
+---
+
+##  55 Things to Know About Tim Walz 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/55-things-to-know-about-tim-walz>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/04/butHerEmails.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">When I see a reference to an evil NYT piece, I RT it with a simple message: Ignore the NY Times. It's relaxing. You don't have to do something about it, in fact it says the opposite. Do nothing. It works on all social nets, and for any news org that's promoting lies, ignoring relevant facts, against the interest of the US. Find new ways to get informed. And if you can't find them, start one. And we can find each other. 
+
+<http://scripting.com/2024/08/07.html#a140432>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
+
+The <a href="https://www.threads.net/@davew/post/C-Xr_dcp8Vn">Bruce Springsteen</a> mention at last night's rally was no accident. Boomers are now of the age where we vote in great numbers. So our feeling like there's something here for us might make the difference in one or more of the swing states. 
+
+<http://scripting.com/2024/08/07.html#a140039>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
+
+Last night's Democratic rally was wonderful. I was laughing and sobbing all the way through it. What an emotional release. We needed and deserved this. Beyond hope, we're finally going to fight. I hope President Kamala is really up to it, because we have a pretty substantial cleanup job to do here. 
+
+<http://scripting.com/2024/08/07.html#a134011>
+
+---
+
+## Problems with Georgia’s Voter Registration Portal
+
+date: 2024-08-07, updated: 2024-08-06, from: Bruce Schneier blog
+
+<p>It&#8217;s possible to <a href="https://www.propublica.org/article/georgia-voter-registration-cancellation-portal-mtg-raffensperger">cancel</a> other people&#8217;s voter registration:</p>
+<blockquote><p>On Friday, four days after Georgia Democrats <a href="https://x.com/GASenateDems/status/1817949715234717988">began warning</a> that bad actors could abuse the state&#8217;s new online portal for canceling voter registrations, the Secretary of State&#8217;s Office acknowledged to ProPublica that it had identified multiple such attempts&#8230;</p>
+<p>&#8230;the portal suffered at least two security glitches that briefly exposed voters&#8217; dates of birth, the last four digits of their Social Security numbers and their full driver&#8217;s license numbers&#8212;the exact information needed to cancel others&#8217; voter registrations...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/08/problems-with-georgias-voter-registration-portal.html>
 
 ---
 
 ## 2024-08-06 Pocket Reform
 
-date: 2024-08-06, from: Alex Schroeder's Blog
+date: 2024-08-07, from: Alex Schroeder's Blog
 
 <h1 id="2024-08-06-pocket-reform">2024-08-06 Pocket Reform</h1>
 
@@ -107,9 +153,262 @@ It fixed itself.</p>
 
 <p>My take-away is this: usability and user interface issues both large and small remain a challenge in computers.</p>
 
-<p><a class="tag" href="/search/?q=%23Gadgets">#Gadgets</a> <a class="tag" href="/search/?q=%23Laptop">#Laptop</a> <a class="tag" href="/search/?q=%23Reform">#Reform</a></p> 
+<p><a class="tag" href="/search/?q=%23Gadgets">#Gadgets</a> <a class="tag" href="/search/?q=%23Laptop">#Laptop</a> <a class="tag" href="/search/?q=%23Reform">#Reform</a></p>
+
+<p><strong>2024-08-07</strong>. Before the login prompt is shown, there is a long and helpful
+introduction that flashes by. At the login prompt, you can specify a different
+command to run instead of starting the window manager. I did that, specifying
+<code>/usr/bin/fish</code> (I have installed <code>fish</code> and prefer it over the default shell,
+<code>bash</code>). This allows you to read the message. I guess it&rsquo;s the
+<code>/etc/reform-help</code> message.</p>
+
+<p>Specifically, I learned about all the commands starting with <code>reform-</code>. Nice!
+In the manual these tools are mentioned on page 50.</p>
+
+<p>When I run <code>sudo reform-check</code>, it tells me that &ldquo;eMMC does not contain the latest
+uboot&rdquo; and that I can run <code>reform-flash-uboot emmc</code> to fix it. Do I dare?
+The following two messages are shown and they are not identical. That&rsquo;s a bit strange.</p>
+
+<pre><code>W: /boot/flash.bin is not the latest uboot
+W: You can update it to the latest version by running as root:
+reform-flash-uboot
+W: eMMC does not contain latest uboot
+W: You can update it to the latest version by running as root:
+reform-flash-uboot emmc
+</code></pre>
+
+<p>I guess I&rsquo;ll run the first command and then <code>reform-check</code> again.</p>
+
+<p>In the meantime I saw that I don&rsquo;t have the <code>pocket-reform-handbook</code> installed
+but that I do have the <code>reform-handbook</code>. Heh. (The MNT Reform is the bigger
+laptop.)</p>
+
+<p>Anyway, when I run <code>reform-flash-uboot</code> without arguments, I get an error.</p>
+
+<pre><code>/usr/sbin/reform-flash-uboot: 59: MMC_BOOT: parameter not set
+</code></pre>
+
+<p>I cannot decide whether this is a typo or not. It looks like one?</p>
+
+<pre><code>alex@subterraneobombus ~&gt; sudo nl /usr/sbin/reform-flash-uboot|grep MMC_BOOT
+    27	if [ &quot;$EMMC_BOOT&quot; = false ]; then
+    49		if [ &quot;$EMMC_BOOT&quot; = true ] &amp;&amp; [ &quot;$SD_BOOT&quot; = true ]; then
+    53		elif [ &quot;$MMC_BOOT&quot; = true ]; then
+    60		if [ &quot;$EMMC_BOOT&quot; = true ] &amp;&amp; [ &quot;$SD_BOOT&quot; = true ]; then
+    71		elif [ &quot;$MMC_BOOT&quot; = true ]; then
+alex@subterraneobombus ~&gt; grep MMC_BOOT &quot;/usr/share/reform-tools/machines/MNT Pocket Reform with
+ i.MX8MP Module.conf&quot;
+EMMC_BOOT=true
+</code></pre>
+
+<p>Do I really want to do this? Luckily, I mentioned this issue on IRC, and <a class="account" href="https://floss.social/@josch" title="@josch@floss.social">@josch</a> pointed me to this post by <a class="account" href="https://macaw.social/@andypiper" title="@andypiper@macaw.social">@andypiper</a>: <a href="https://community.mnt.re/t/updating-uboot/2348">Updating uboot?</a>. This is the important bit:</p>
+
+<blockquote>
+<p>Do <em>not</em> flash u-boot to emmc on the pocket reform.
+There is a bug in the u-boot offset which will make your pocket unbootable if you fix the other bug in reform-flash-uboot. – josch on IRC</p>
+</blockquote>
+
+<p>Oof! Disaster narrowly avoided. And now I understand what Andy Piper means when he writes:</p>
+
+<blockquote>
+<p>I also managed to temporarily brick the machine by corrupting the uboot in flash, and needed to rig it up with Dupont wires on headers and access the machine from another via USB to get back to where I wanted to be. – <a href="https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/">MNT Pocket Reform: first impressions</a></p>
+</blockquote>
+
+<p>Andy&rsquo;s post had a screenshot showing the fediverse client <a href="https://tuba.geopjr.dev/">Tuba</a> which is available on Debian testing. Nice! I&rsquo;ll give it a try.</p>
+
+<p>Tuba requires a &ldquo;login&rdquo; keyring so I had to install <code>seahorse</code> also known as &ldquo;Passwords and Keys&rdquo;.</p> 
 
 <https://alexschroeder.ch/view/2024-08-06-pocket-reform>
+
+---
+
+## Office Hours: The second-worst person in American public life today?
+
+date: 2024-08-07, from: Robert Reich's blog
+
+Trump is clearly the worst, but who comes second? 
+
+<https://robertreich.substack.com/p/office-hours-the-second-worst-person>
+
+---
+
+## August 6, 2024 
+
+date: 2024-08-07, from: Heather Cox Richardson blog
+
+Today Vice President Kamala Harris named her choice for her vice presidential running mate: Governor Tim Walz of Minnesota. 
+
+<https://heathercoxrichardson.substack.com/p/august-6-2024>
+
+---
+
+##  An English couple took photos in front of a Swiss glacier in... 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045075-an-english-couple-took-ph>
+
+---
+
+## Wednesday 7 August, 2024
+
+date: 2024-08-06, from: John Naughton's online diary
+
+Air Bee&#8217;n Bee One of my boys and his partner gave me a ‘bug hotel’ for my birthday and we decided to pin it to the garden fence and await developments. So far, five Mason Bees have booked accommodation. Quote &#8230; <a href="https://memex.naughtons.org/wednesday-7-august-2024/39723/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-7-august-2024/39723/>
+
+---
+
+##  World&#8217;s longest bicycle (180+ feet) or slow & impractical steamroller?... 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045074-worlds-longest-bicycle-18>
+
+---
+
+##  Amazing stat about the disappearance of bands from the UK music charts... 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045077-amazing-stat-about-the-di>
+
+---
+
+## On the “ARC-AGI” $1 Million Reasoning Challenge
+
+date: 2024-08-06, from: Melanie Mitchell, AI Guide for Human Thinking
+
+In this post I&#8217;m going to go into the weeds, describing how some people are trying to win a big $$$ prize for solving a still-wide-open AI challenge, the &#8220;Abstraction and Reasoning Corpus,&#8221; and what it all means. 
+
+<https://aiguide.substack.com/p/on-the-arc-agi-1-million-reasoning>
+
+---
+
+##  What&#8217;s In the Box? (The Olympics Medalists&#8217; Box) 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/whats-in-the-box-the-olympics-medalists-box>
+
+---
+
+##  Tressie McMillan Cottom reports from Louisville, KY on the challenges of residents... 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045073-tressie-mcmillan-cottom-r>
+
+---
+
+##  Forthcoming book: The Marvel Comics Covers of Jack Kirby Volume 1. This... 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045070-forthcoming-book-the-marv>
+
+---
+
+##  It looks like overdose deaths in the US might finally be falling.... 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045072-it-looks-like-overdose-de>
+
+---
+
+## August 5, 2024
+
+date: 2024-08-06, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-5-2024-699>
+
+---
+
+##  A Drawing of NYC&#8217;s Chinatown 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/a-drawing-of-nycs-chinatown>
+
+---
+
+## Taegan Goddard: ‘Some Quick Thoughts on Tim Walz’
+
+date: 2024-08-06, updated: 2024-08-06, from: Daring Fireball
+
+ 
+
+<https://politicalwire.com/2024/08/06/initial-thoughts-on-tim-walz/>
+
+---
+
+## Nate Silver: ‘Tim Walz Is a Minnesota Nice Choice’
+
+date: 2024-08-06, updated: 2024-08-06, from: Daring Fireball
+
+ 
+
+<https://www.natesilver.net/p/tim-walz-is-a-minnesota-nice-choice>
+
+---
+
+## Kamala Harris Selects Minnesota Gov. Tim Walz to Be VP Running Mate
+
+date: 2024-08-06, updated: 2024-08-06, from: Daring Fireball
+
+ 
+
+<https://www.cnn.com/politics/live-news/kamala-harris-trump-election-08-06-24#h_a1cb3a353c1e0655524a827af0197796>
+
+---
+
+##  A deep dive into Null Island. &#8220;Null Island is a long-running inside... 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045069-a-deep-dive-into-null>
+
+---
+
+##  The Marshall Project: what communities have learned from sending unarmed responders instead... 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045067-the-marshall-project-what>
+
+---
+
+## Tim Walz for Vice President!
+
+date: 2024-08-06, from: Robert Reich's blog
+
+A terrific choice, on all grounds 
+
+<https://robertreich.substack.com/p/tim-walz-for-vice-president>
 
 ---
 
@@ -121,18 +420,17 @@ date: 2024-08-06, from: Dave Winer's Scripting News
 <ul>
 <li>Harris has her knee on Trump's neck, and she won't let up. </li>
 <li>There won't be time for anyone to get tired of her. </li>
-<li>The campaign rallies should get bigger and bigger, and more rambunctuous. The rally on the Sunday before Election Day should take place in stadiums all over America, with the cast of Democratic leadership spread out too, and the best musicians and comedians, again spread out over all the venues. Streaming on YouTube, with online participation <a href="https://en.wikipedia.org/wiki/Get_out_the_vote">GOTV</a> coordination on the new democrat.social community site.   </li>
+<li>Their rallies are going to be the best in a very long time. They're executing perfectly. </li>
 <li>Trump is a comedian, a cross between <a href="https://en.wikipedia.org/wiki/Don_Rickles">Don Rickles</a> and <a href="https://en.wikipedia.org/wiki/Joan_Rivers">Joan Rivers</a> with a bit of <a href="https://en.wikipedia.org/wiki/Sam_Kinison">Sam Kinison</a>. He had a good schtick for a long run if you find fascist slapstick entertaining, as millions of Americans do or did. </li>
 <li>Last night Maddow tried to get us excited about how the Repubs have planted people on voting boards in swing states with the purpose of stopping the counts, and thus preventing a vote in the Electoral College. But they're doing it too late. The administrators will feel the tide turning too. </li>
-<li>This campaign will take place in the popular culture of 2024, which thankfully is not centered on cable news or the NYT. But Mark Zuckerberg and Elon Musk are in control.</li>
-<li>In my <a href="http://scripting.com/2017/01/14/whatIfTwtrIsBoughtByARepub.html">2017 piece</a> I thought Zuck would run for president, given his new style <a href="https://imgs.scripting.com/2024/08/06/zucksNewStyle.png">makeover</a> I wouldn't discount that, but these two will certainly have  influence over how the election goes. Both Facebook and Twitter have algorithms that are opaque and controlled by them. Same deal as with the owners of cable media. </li>
+<li>This campaign will take place in the popular culture of 2024, which thankfully is not centered on cable news or the NYT. But Mark Zuckerberg and Elon Musk are in control. In my <a href="http://scripting.com/2017/01/14/whatIfTwtrIsBoughtByARepub.html">2017 piece</a> I thought Zuck would run for president, given his new style <a href="https://imgs.scripting.com/2024/08/06/zucksNewStyle.png">makeover</a> I wouldn't discount that, but these two will certainly have  influence over how the election goes. Both Facebook and Twitter have algorithms that are opaque and controlled by them. Same deal as with the owners of cable media. </li>
 <li>Trump stoked resentment with voters for being left behind, even if individually they were doing fine. But that was eight years ago and a lot has happened. Harris saying basically "there you go again" is an <a href="https://www.youtube.com/watch?v=qN7gDRjTNf4&t=46s">echo of Reagan</a>, btw. It worked for Reagan, you just have to get the <a href="https://www.dictionary.com/browse/derision">derision</a> right. And Harris can do that, she laughs and we laugh. Trump loses his mind.</li>
 <li>The Harris candidacy happened almost as if it was staged. The campaign hit the ground running, it feels like there was a lot of advance work. Or they picked bloggers who were up and running, gave them the keys and said go. Either approach is fine, breaking through where previous Demo campaigns didn't have the nerve. Whatever it is, there's a sign of competence and urgency in the Democrats that is grounded in the challenge not in some almost religious sense that she's The One, which was understandable with Obama, but won't do now. We have no illusions about what's ahead. I think for that Biden must have been a great teacher. </li>
-<li>Now we're grounded. We've seen the outline of our future. Our eyes were fully opened on Jan 6. A few weeks ago the lead Republican thinker behind Project 2025 said, like an idiot, in an interview, it was up to the liberals to avoid a bloodbath, as they took over. You don't hear that anymore. Those people must now be thinking more seriously about jail for what they're doing. And the Supreme Court will go to jail too if they try to support what Maddow was talking about. We must not let them overthrow the government. And that's why Maddow's concern is okay but overstated, imho.</li>
-<li>I had my doubts whether Biden would stop the <a href="https://www.dictionary.com/browse/dissolution">dissolution</a> of the Supreme Court, and I don't know if Harris will, but given how purposefully the campaign in running, I suspect (hope, pray) she will. Our job is to give her the support she needs to feel like we've got her back. </li>
+<li>Now we're grounded. We've seen the outline of our future. Our eyes were fully opened on Jan 6. A few weeks ago the lead Republican thinker behind Project 2025 <a href="https://thehill.com/homenews/campaign/4757210-heritage-blowback-bloodless-revolution/">said</a>, like an idiot, in an interview, it was up to liberals to avoid a bloodbath, as they took over. You don't hear that anymore. Those people must now be thinking more seriously about jail for what they're doing. And the Supreme Court will go to jail too if they try to support what Maddow was talking about. We must not let them overthrow the government. And that's why Maddow's concern is okay but overstated, imho.</li>
+<li>I had my doubts whether Biden would stop the <a href="https://www.dictionary.com/browse/dissolution">dissolution</a> of the Supreme Court, and I don't know if Harris will, but given how purposefully the campaign in running, I suspect (hope, pray) she will. Our job is to give her the support she needs to feel that we've got her back. </li>
 </ul>
-<p>PS: FDR <a href="https://chatgpt.com/share/83fbfae5-d28d-4332-bda1-480fed1e9584">threatened</a> to pack the court and the court backed down in 1937.</p>
-<p>PPS: If you haven't listened to <a href="http://scripting.com/2024/08/04/195427.html">Sunday's podcast</a>, please do. A lot of what you read here will assume that you have listened to it. It's just 12 minutes. </p>
+<p>PS: FDR <a href="https://chatgpt.com/share/83fbfae5-d28d-4332-bda1-480fed1e9584">threatened</a> to pack the court in 1937. </p>
+<p>PPS: If you haven't listened to <a href="http://scripting.com/2024/08/04/195427.html">Sunday's podcast</a>, please do. It's just 12 minutes. </p>
  
 
 <http://scripting.com/2024/08/06/141312.html?title=roadmapForTheCampaign>
@@ -143,7 +441,7 @@ date: 2024-08-06, from: Dave Winer's Scripting News
 
 date: 2024-08-06, from: Doc Searls (at Harvard), New Old Blog
 
-I wrote for Linux Journal from 1996 to 2019, the final years as editor-in-chief. After ownership changed and the whole staff turned over. The new owner, Slashdot Media, agreed to keep the server up so nothing would be 404&#8217;d. I am grateful that they have kept that promise. I should add, however, that much of [&#8230;] 
+I wrote for Linux Journal from 1996 to 2019, the final years as editor-in-chief. After ownership changed and the whole staff turned over, the new owner, Slashdot Media, agreed to keep the server up so nothing would be 404&#8217;d. I am grateful that they have kept that promise. I should add, however, that some of [&#8230;] 
 
 <https://doc.searls.com/2024/08/06/setting-the-terms-redux/>
 
@@ -157,9 +455,9 @@ Walz is Harris' choice. Picking Shapiro would have been leading with her chin be
 
 ---
 
-## A Better Investigatory Board for Cyber Incidents
+## On the Cyber Safety Review Board
 
-date: 2024-08-06, updated: 2024-08-02, from: Bruce Schneier blog
+date: 2024-08-06, updated: 2024-08-06, from: Bruce Schneier blog
 
 <p>When an airplane crashes, impartial investigatory bodies leap into action, empowered by law to unearth what happened and why. But there is no such empowered and impartial body to investigate CrowdStrike&#8217;s <a href="https://www.nytimes.com/2024/07/19/business/microsoft-outage-cause-azure-crowdstrike.html">faulty update</a> that recently unfolded, ensnarling banks, airlines, and emergency services to the tune of billions of dollars. We need one. To be sure, there is the White House&#8217;s <a href="https://www.cisa.gov/resources-tools/groups/cyber-safety-review-board-csrb">Cyber Safety Review Board</a>. On March 20, the CSRB <a href="https://www.cisa.gov/sites/default/files/2024-04/CSRB_Review_of_the_Summer_2023_MEO_Intrusion_Final_508c.pdf">released</a> a report into last summer&#8217;s intrusion by a Chinese hacking group into Microsoft&#8217;s cloud environment, where it compromised the U.S. Department of Commerce, State Department, congressional offices, and several associated companies. But the board&#8217;s report&#8212;well-researched and containing some good and actionable recommendations&#8212;shows how it suffers from its lack of subpoena power and its political unwillingness to generalize from specific incidents to the broader industry...</p> 
 
@@ -699,6 +997,16 @@ date: 2024-08-04, from: Dave Winer's Scripting News
  
 
 <http://scripting.com/2024/08/04/162845.html?title=kittenTrashesSuite>
+
+---
+
+## Apple Q3 2024 Results
+
+date: 2024-08-04, updated: 2024-08-07, from: Daring Fireball
+
+ 
+
+<https://sixcolors.com/post/2024/08/apple-results-quarterly-record-all-time-high-in-services/>
 
 ---
 

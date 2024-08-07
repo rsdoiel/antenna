@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.32
-updated: 2024-08-06 08:33:48
+updated: 2024-08-07 08:30:36
 ---
 
 # retro computing 2024.32
 
-(date: 2024-08-06 08:33:48)
+(date: 2024-08-07 08:30:36)
+
+---
+
+## Looking for Gopher Clients? We Got ’em!
+
+date: 2024-08-06, from: Happy Macs site
+
+In an earlier post, I announced that the Happy Macs Gopher site, gopher://happymacs.ddns.net, was back online after a lengthy outage. To access this site, you need a Gopher client, and to that end, a new archive, Gopher Clients, has been added to the set of software archives at http://retro-computing.com. In that archive, you will find [&#8230;] 
+
+<https://happymacs.wordpress.com/2024/08/06/looking-for-gopher-clients-we-got-em/>
+
+---
+
+## Sorbet Leopard – One Cool Cat
+
+date: 2024-08-06, from: Happy Macs site
+
+Apple ended support for the PPC line of Macs at Mac OS X 10.5.8, Leopard. Leopard might be viewed as a suitable final release for PPCs, bursting as it was at the seams with a massive set of new features, the sheer number of which (Apple advertized 300+ new &#8220;features&#8221;) would not be repeated for [&#8230;] 
+
+<https://happymacs.wordpress.com/2024/08/06/sorbet-leopard-one-cool-cat/>
 
 ---
 

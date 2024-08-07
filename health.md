@@ -1,11 +1,51 @@
 ---
 title: health 2024.32
-updated: 2024-08-06 08:33:48
+updated: 2024-08-07 08:30:36
 ---
 
 # health 2024.32
 
-(date: 2024-08-06 08:33:48)
+(date: 2024-08-07 08:30:36)
+
+---
+
+## Risk factors related to low-level viraemia in chronic hepatitis B patients receiving entecavir treatment
+
+date: 2024-08-07, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundAbout 20% of on-treatment patients with chronic hepatitis B (CHB) experienced low-level viraemia (LLV), which is associated with persistent low-grade inflammation, fibrosis progression, and increased risk of hepatocellular carcinoma. We aimed to investigate the high-risk factors related to LLV.MethodsIn this retrospective study, patients receiving entecavir (ETV) treatment from January 2018 to January 2023 were enrolled, and were divided into a LLV (HBV DNA 20-2000 IU/mL) cohort and a complete virological response (CVR) (HBV DNA < 20 IU/mL) cohort according to the virological response at week 48 posttreatment. Treatment baseline characteristics were retrieved from electronic medical records. Multivariate logistic regression was performed.ResultsTotally, 1653 patients were enrolled, male patients accounted for 73.0%; the median age was 44 years; the mean HBV DNA level was 5.9 Log10 IU/ml. Among them, 472 (28.6%) experienced LLV. Multivariate analysis showed that HBeAg positivity (OR = 2.650, 95% CI: 2.000-3.511, p < 0.001), HBV DNA ≥ 6.0 Log10 IU/mL (OR = 1.370, 95% CI: 1.054-1.780, p = 0.019), qHBsAg ≥ 9000 IU/mL (OR = 4.472, 95% CI: 3.410-5.866, p < 0.001), cirrhosis (OR = 1.650, 95% CI: 1.234-2.207, P = 0.001), LSM ≥ 13.0 kPa (OR = 1.644, 95% CI: 1.203-2.246, p = 0.002), and PLT < 100×109/L (OR = 1.450, 95% CI: 1.094-1.922, p = 0.010) at baseline were related to the development of LLV.ConclusionsHigh HBV DNA/HBsAg quantification/LSM, low PLT, HBeAg positivity, and liver cirrhosis were high-risk factors associated with LLV in patients receiving entecavir treatment. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1413589>
+
+---
+
+## Gut microbiota and psoriasis: pathogenesis, targeted therapy, and future directions
+
+date: 2024-08-07, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundPsoriasis is one of the most common autoimmune skin diseases. Increasing evidence shows that alterations in the diversity and function of microbiota can participate in the pathogenesis of psoriasis through various pathways and mechanisms.ObjectiveTo review the connection between microbial changes and psoriasis, how microbial-targeted therapy can be used to treat psoriasis, as well as the potential of prebiotics, probiotics, synbiotics, fecal microbiota transplantation, diet, and Traditional Chinese Medicine as supplementary and adjunctive therapies.MethodsLiterature related to the relationship between psoriasis and gut microbiota was searched in PubMed and CNKI.ResultsAdjunct therapies such as dietary interventions, traditional Chinese medicine, and probiotics can enhance gut microbiota abundance and diversity in patients with psoriasis. These therapies stimulate immune mediators including IL-23, IL-17, IL-22, and modulate gamma interferon (IFN-γ) along with the NF-kB pathway, thereby suppressing the release of pro-inflammatory cytokines and ameliorating systemic inflammatory conditions.ConclusionThis article discusses the direction of future research and clinical treatment of psoriasis from the perspective of intestinal microbiota and the mechanism of traditional Chinese medicine, so as to provide clinicians with more comprehensive diagnosis and treatment options and bring greater hope to patients with psoriasis. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1430586>
+
+---
+
+## Editorial: Clinical metagenomics-based diagnostics for infectious diseases
+
+date: 2024-08-07, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1459621>
+
+---
+
+## Antifungal susceptibility pattern of Candida species isolated from pregnant women
+
+date: 2024-08-07, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionCandida species, opportunistic yeast, are the second most common cause of female vulvovaginal candidiasis. This study aimed to evaluate the antifungal susceptibility profile of the isolated Candida species in pregnant women in Hajjah governorate, Yemen.MethodsA hospital-based cross-sectional study was conducted among 396 pregnant women attending Authority AL-Gumhorri Hospital Hajjah between February and July 2023. Vaginal swabs were collected, and Candida species were isolated and identified based on the standard laboratory method. Furthermore, the antifungal drug susceptibility of Candida species was determined by the Kirby-Bauer technique.Results and discussionThe prevalence of vaginal Candida infection among pregnant women was 61.4%. Candida albicans was the most predominant species (59.26%), followed by Candida krusei(13.58%), Candida Tropicalis (11.12%), Candida Grabata (9.87%), and Candida dubliniensis (6.17%). The highest rate of Candida infections was among women aged 24–30 years (71.9%) who finished primary school (77.8%), with the third trimester (80%), multigravida (66.1%), and recurrent infection (67.7%) showing significant differences (P < 0.05). The Candida albicans isolates were resistant to clotrimazole and itraconazole at 34.7% and 23.6%, respectively.In addition, the resistance of Candida krusei, Candida tropicalis, Candida glabrata, and Candida dublinensis isolates to fluconazole, voriconazole, voriconazole, and nystatin was 57.6%, 63%, 43.8%, and 60%, respectively. Additionally, approximately 46.2% of isolated Candida albicans exhibited one kind of antifungal drug resistance, whereas 38.7% of isolated non-albicans exhibited resistance to three different antifungal agents. According to the above findings, Candida infection is highly prevalent in Yemen and quite widespread. Interventions in health education are advised to increase women’s knowledge of vaginitis and its prevention. The antifungal susceptibility test may also be helpful in determining the best medication for each patient. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1434677>
 
 ---
 

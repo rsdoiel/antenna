@@ -1,11 +1,121 @@
 ---
 title: games 2024.32
-updated: 2024-08-06 08:33:45
+updated: 2024-08-07 08:30:34
 ---
 
 # games 2024.32
 
-(date: 2024-08-06 08:33:45)
+(date: 2024-08-07 08:30:34)
+
+---
+
+## The best TV of 2024 so far
+
+date: 2024-08-07, updated: 2024-08-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series>
+
+---
+
+## We can thank Hideki Naganuma for putting Malcolm X in a Sonic game
+
+date: 2024-08-07, updated: 2024-08-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24213685/malcolm-x-sonic-game-soundtrack-sample>
+
+---
+
+## The must-watch anime to look out for in summer 2024
+
+date: 2024-08-07, updated: 2024-08-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/23960593/new-anime-2024-release-calendar-schedule-watch-streaming>
+
+---
+
+## House of the Dragon season 2 told a deeper story through its dragons
+
+date: 2024-08-07, updated: 2024-08-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24214547/house-dragon-season-2-book-spoilers-rhaenyra>
+
+---
+
+## Witcher 3 composer Mikolai Stroinski begins work on each game by ‘going on a date’
+
+date: 2024-08-07, updated: 2024-08-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24214165/witcher-3-composer-mikolai-stroinski-interview>
+
+---
+
+## Final Fantasy characters keep on bursting into song — and it works
+
+date: 2024-08-07, updated: 2024-08-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24212297/final-fantasy-7-rebirth-theme-diegetic-songs>
+
+---
+
+## How to fast travel with the Battle Bus and Bus Stations in Lego Fortnite
+
+date: 2024-08-07, updated: 2024-08-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/lego-fortnite-guides/24214593/fast-travel-bus-stations-battle-bus-rift-shards>
+
+---
+
+## Here’s where you can pre-order DC Versus Marvel: The Amalgam Age Omnibus
+
+date: 2024-08-06, updated: 2024-08-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24214713/dc-versus-marvel-the-amalgam-age-omnibus-where-to-pre-order>
+
+---
+
+## Why the creators of Like A Dragon: Yakuza believe in their video game TV adaptation
+
+date: 2024-08-06, updated: 2024-08-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24214701/like-a-dragon-yakuza-tv-show-amazon-prime-video>
+
+---
+
+## Chrono Cross’ minimalist music drove Disasterpeace to Hyper Light Drifter and beyond
+
+date: 2024-08-06, updated: 2024-08-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24213818/disasterpeace-songs-interview>
+
+---
+
+## World of Warcraft’s new big bad plays spider politics in a new animation
+
+date: 2024-08-06, updated: 2024-08-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24214718/world-warcraft-xal-atath-threads-destiny-nerubian-kingdom>
 
 ---
 

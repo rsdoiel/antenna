@@ -1,11 +1,21 @@
 ---
 title: journalism 2024.32
-updated: 2024-08-06 08:33:46
+updated: 2024-08-07 08:30:34
 ---
 
 # journalism 2024.32
 
-(date: 2024-08-06 08:33:46)
+(date: 2024-08-07 08:30:34)
+
+---
+
+## Axios has its first-ever layoffs, citing “shifting reader attention and behavior” and AI
+
+date: 2024-08-06, from: Nieman Journalism Lab
+
+On Tuesday, Axios CEO Jim VandeHei told staff (in an email that used Axios’ “smart brevity” format) the company is laying off 50 people, or about 10% of its employees. These are the first layoffs in the 7-year history of the company, which until now seemed to have dodged the icebergs that had torn holes... 
+
+<https://www.niemanlab.org/2024/08/axios-has-its-first-ever-layoffs-citing-shifting-reader-attention-and-behavior-and-ai/>
 
 ---
 

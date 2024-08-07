@@ -1,11 +1,589 @@
 ---
 title: pacific 2024.32
-updated: 2024-08-06 08:33:41
+updated: 2024-08-07 08:30:30
 ---
 
 # pacific 2024.32
 
-(date: 2024-08-06 08:33:41)
+(date: 2024-08-07 08:30:30)
+
+---
+
+## Americans trounce Brazil as Kevin Durant becomes Team USA’s all-time leading Olympic scorer
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; Most of the Olympic men&#8217;s basketball quarterfinals were stressful for the favorites, with the top seeds in the first three games falling behind by double digits and one (Canada) going down in an upset.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/sports/americans-trounce-brazil-as-kevin-durant-becomes-team-usas-all-time-leading-olympic-scorer/>
+
+---
+
+## Cole Hocker stuns the world, outkicks Josh Kerr to win men’s 1500m title Olympic gold
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>Cole Hocker of the United States scored one of the biggest upsets in Olympic running Tuesday night, outrunning Jakob Ingebrigtsen and outkicking Josh Kerr, and everyone else, down the stretch to win the men&#8217;s 1500-meter to turn what was supposed to be a two-man battle into the surprise of the Games.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/sports/cole-hocker-stuns-the-world-outkicks-josh-kerr-to-win-mens-1500m-title-olympic-gold/>
+
+---
+
+## Storm Debby inundates coastal Georgia, South Carolina
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA &#8212; Tropical Storm Debby inundated coastal Georgia and South Carolina with a deluge of rain that could bring &#8220;catastrophic flooding&#8221; to Charleston, Savannah and other cities on Tuesday, a day after it slammed into Florida&#8217;s Gulf Coast as a hurricane. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/nation-world-news/storm-debby-inundates-coastal-georgia-south-carolina/>
+
+---
+
+## Microsoft says Delta was largely responsible for flight cancellations
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>Microsoft criticized Delta Air Lines on Tuesday for overstating the technology company&#8217;s role in a costly disruption that led the airline to cancel thousands of flights last month.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/nation-world-news/microsoft-says-delta-was-largely-responsible-for-flight-cancellations/>
+
+---
+
+## Energy Department awards $2.2B in grid grants
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Biden administration on Tuesday will announce $2.2 billion in grants from the 2021 infrastructure law for projects that aim to grow electric grid capacity and protect against extreme weather. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/nation-world-news/energy-department-awards-2-2b-in-grid-grants/>
+
+---
+
+## Trump and his allies seize on market downturn to attack Harris
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>Donald Trump didn&#8217;t wait for the opening bell before blaming Monday&#8217;s market sell-off on Vice President Kamala Harris.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/nation-world-news/trump-and-his-allies-seize-on-market-downturn-to-attack-harris/>
+
+---
+
+## Obituaries for Aug. 7
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>Juan Acoba Acob, 85, of Papaaloa, died July 17 at Hilo Benioff Medical Center. Born in Bacarra in the Philippines, he was a 2nd Lieutenant in the Philippine Air Force and a retired landscaper at the Hilton Waikoloa Hotel. Visitation for friends and family to be held 9-10 a.m. Aug. 18 at the Honokaa Seventh-Day Adventist Church, with service at 10 a.m. and burial to follow. Survived by wife Lilia R. Acob of Papaaloa; children Ferdinand (Meriko) Acob of Canada, Janet (Rodelio) Cabreros of Hilo, Mildred (Chung) Cho of California, Ligaya (Steve) Acob-Powell of Maui, and Luis (Ferlita) Acob of Hilo; sister Arsenia Acosta of Hilo; and five grandchildren. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/obituaries/obituaries-for-aug-7-2/>
+
+---
+
+## Iran wants its Israel retaliation to hurt but not start a wider war
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>Iran faces a dilemma over how to deliver a meaningful blow to Israel without prompting a war that could engulf the Middle East. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/nation-world-news/iran-wants-its-israel-retaliation-to-hurt-but-not-start-a-wider-war/>
+
+---
+
+## Arizona grand jury wanted to indict Trump in fake electors case
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>A state grand jury in Arizona that charged 18 people this spring in a scheme that sought to overturn Donald Trump&#8217;s 2020 election loss wanted to indict him, too, according to court papers released Tuesday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/nation-world-news/arizona-grand-jury-wanted-to-indict-trump-in-fake-electors-case/>
+
+---
+
+## Boeing to make design changes to prevent future 737 MAX 9 door panel blowout
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Boeing said on Tuesday it plans to make design changes to prevent a future mid-air cabin panel blowout like the one in an Alaska Airlines 737 MAX 9 flight in January that spun the planemaker into its second major crisis in recent years. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/nation-world-news/boeing-to-make-design-changes-to-prevent-future-737-max-9-door-panel-blowout/>
+
+---
+
+## New testimony shows Alaska Air crew feared passengers were lost in mid-air blowout
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>Alaska Airlines flight attendants feared passengers had been sucked out of the plane in the chaos following the Jan. 5 mid-air panel blowout on a Boeing 737 MAX 9 jet, according to harrowing testimony released by safety experts on Tuesday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/nation-world-news/new-testimony-shows-alaska-air-crew-feared-passengers-were-lost-in-mid-air-blowout/>
+
+---
+
+## Trump’s plan for attacking Tim Walz: Paint him as a Bernie Sanders liberal
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>The Trump team was all set for Josh Shapiro.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/nation-world-news/trumps-plan-for-attacking-tim-walz-paint-him-as-a-bernie-sanders-liberal/>
+
+---
+
+## Harris and Walz make their national entrance before upbeat Democrats
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>PHILADELPHIA &#8212; Vice President Kamala Harris finished her two-week sprint to find a running mate by formally introducing Gov. Tim Walz of Minnesota to the Democratic Party and the nation during a jubilant rally on Tuesday evening in Philadelphia.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/nation-world-news/harris-and-walz-make-their-national-entrance-before-upbeat-democrats/>
+
+---
+
+## Council bill proposes changes to ohana housing rules
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>A newly amended Hawaii County Council bill would limit the square footage of future ohana housing units.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/hawaii-news/council-bill-proposes-changes-to-ohana-housing-rules/>
+
+---
+
+## Everyone wants a better government
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>Politics aside, Americans are united on some of the basic things their government should do better: Make sure air travel is safe, simplify the process for filing tax returns, streamline applications for student loans.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/opinion/everyone-wants-a-better-government/>
+
+---
+
+## Nation and world news in brief for Aug. 7
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>Ohio ban on &#0010;gender-affirming care for minors upheld by judge</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/nation-world-news/nation-and-world-news-in-brief-for-aug-7/>
+
+---
+
+## Pahoa man charged with DUI after crashing into police vehicle
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>A Pahoa man was arrested and charged Monday after crashing into a police vehicle.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/hawaii-news/pahoa-man-charged-with-dui-after-crashing-into-police-vehicle/>
+
+---
+
+## If Trump loses, are we prepared for the backlash?
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>If you watched as much of the Republican National Convention as I did, you must have been impressed by the energy, unity and commitment of the speakers and delegates. One could sense the momentum building.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/opinion/if-trump-loses-are-we-prepared-for-the-backlash/>
+
+---
+
+## Pedestrian critically injured in Pahoa
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating an early morning traffic collision Monday between a pickup truck and a pedestrian that occurred on Ainaloa Boulevard in Pahoa, in the general area of Palm Way.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/hawaii-news/pedestrian-critically-injured-in-pahoa/>
+
+---
+
+## Your Views for August 7
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>Speed limits that&#0010;make zero sense</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/opinion/your-views-for-august-7-9/>
+
+---
+
+## Kona man wanted for questioning
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>Police are requesting the public&#8217;s assistance in locating 52-year-old David Scheper of South Kona.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/hawaii-news/kona-man-wanted-for-questioning/>
+
+---
+
+## Police seek help to find missing man, 77
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>Police are renewing their request for the public&#8217;s assistance in locating 77-year-old Charles Poole.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/hawaii-news/police-seek-help-to-find-missing-man-77/>
+
+---
+
+## Free farmer-focused health checkups coming this month
+
+date: 2024-08-07, from: Guam Daily Post
+
+Farmers and agriculture workers, in addition to other Guam residents age 18 and older, are invited to a free community health checkup event being held from 3 p.m. to 7 p.m. on Aug. 13, 15, 17, and 20 in Mangilao,… 
+
+<https://www.postguam.com/news/local/free-farmer-focused-health-checkups-coming-this-month/article_b53696fc-53af-11ef-92f5-e358d4bb182d.html>
+
+---
+
+## Former MLB player Hattig seeks dismissal of 2021 drug charges
+
+date: 2024-08-07, from: Guam Daily Post
+
+A former Major League Baseball player facing 2021 drug and gun charges has requested his case be dismissed. 
+
+<https://www.postguam.com/news/local/former-mlb-player-hattig-seeks-dismissal-of-2021-drug-charges/article_f28fd926-539d-11ef-a153-3f12cfe503c0.html>
+
+---
+
+## Viking Cruise Lines looking for workers
+
+date: 2024-08-07, from: Guam Daily Post
+
+Representatives from Viking Cruise Lines are on Guam looking for individuals to join their Mississippi shipboard team and will be available to speak with local jobseekers at three events beginning Friday. 
+
+<https://www.postguam.com/news/local/viking-cruise-lines-looking-for-workers/article_29c6dd72-53c1-11ef-96fe-571893a49b89.html>
+
+---
+
+## Education board declares a state  of emergency for public schools
+
+date: 2024-08-07, from: Guam Daily Post
+
+Public school students and their parents will know by close of business Friday if there will be any further adjustments to the start of the school year, which is currently set to begin on Aug. 15, according to discussions Wednesday… 
+
+<https://www.postguam.com/news/local/education-board-declares-a-state-of-emergency-for-public-schools/article_aca6f708-5458-11ef-8972-c33d5acde745.html>
+
+---
+
+## Juanita Martinez set to admit  to jury tampering next week
+
+date: 2024-08-07, from: Guam Daily Post
+
+Juanita Moser Martinez is scheduled to plead guilty next week to her role in tampering with a jury in 2018. 
+
+<https://www.postguam.com/news/local/juanita-martinez-set-to-admit-to-jury-tampering-next-week/article_b17fcdbe-5457-11ef-ac88-e3f08285923b.html>
+
+---
+
+## Hawaiian Word of the Week: ʻAukake
+
+date: 2024-08-07, from: University of Hawaiʻi News
+
+<p>&#699;Aukake&#8212;August</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/06/hawaiian-word-of-the-week-aukake/">Hawaiian Word of the Week: ʻAukake</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/06/hawaiian-word-of-the-week-aukake/>
+
+---
+
+## Man accused of burglarizing home he was ordered to stay away from
+
+date: 2024-08-07, from: Guam Daily Post
+
+A man was accused of using a wrench to break into a residence he was ordered to stay away from. 
+
+<https://www.postguam.com/news/man-accused-of-burglarizing-home-he-was-ordered-to-stay-away-from/article_47bc7fe6-5473-11ef-be5d-8711ef9e1745.html>
+
+---
+
+## Rev and Tax urges public to  report driver's license scams
+
+date: 2024-08-07, from: Guam Daily Post
+
+The Department of Revenue and Taxation is urging the community to report social media accounts claiming to issue or renew driver's licenses. 
+
+<https://www.postguam.com/news/rev-and-tax-urges-public-to-report-drivers-license-scams/article_c71e5614-545b-11ef-8884-d76666edfb7a.html>
+
+---
+
+## Tariuvi: A Beacon of Hope for Vanuatu
+
+date: 2024-08-07, from: University of the South Pacific (Fiji)
+
+<p>Yvanna Tariuvi, a promising student from Vanuatu, is determined to make a significant impact on...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/tariuvi-a-beacon-of-hope-for-vanuatu/">Tariuvi: A Beacon of Hope for Vanuatu</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/tariuvi-a-beacon-of-hope-for-vanuatu/>
+
+---
+
+## Maui fires 1 year on: UH research continues to assess impacts, support recovery
+
+date: 2024-08-07, from: University of Hawaiʻi News
+
+<p>Within days of the worst natural disaster in state history, University of <span aria-label="Hawaii">Hawai&#699;i</span> researchers began providing assistance and support on multiple fronts.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/06/maui-fires-1-year-on-uh-research/">Maui fires 1 year on: <abbr>UH</abbr> research continues to assess impacts, support recovery</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/06/maui-fires-1-year-on-uh-research/>
+
+---
+
+## UH Maui students turn tragedy into community-building opportunity
+
+date: 2024-08-07, from: University of Hawaiʻi News
+
+<p>Their efforts are part of a National Science Foundation RAPID grant on trauma-informed <abbr>STEM</abbr> education.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/06/students-turn-tragedy-into-community-building/"><abbr>UH</abbr> Maui students turn tragedy into community-building opportunity</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/06/students-turn-tragedy-into-community-building/>
+
+---
+
+## UH Hilo men’s golf earns national academic team recognition
+
+date: 2024-08-07, from: University of Hawaiʻi News
+
+<p>The back-to-back Pacific West Conference Champions were one of just two teams from the conference to earn academic accolades.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/06/uh-hilo-mens-golf-gcaa-recognition/"><abbr>UH</abbr> Hilo men’s golf earns national academic team recognition</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/06/uh-hilo-mens-golf-gcaa-recognition/>
+
+---
+
+## Q&A: Maui water quality expert on reef health since wildfires
+
+date: 2024-08-07, from: University of Hawaiʻi News
+
+<p>As the anniversary of Maui’s devastating wildfires approaches on August 8, <em>UH News</em> interviewed water quality expert Andrea Kealoha.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/06/maui-water-quality-kealoha/">Q&A: Maui water quality expert on reef health since wildfires</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/06/maui-water-quality-kealoha/>
+
+---
+
+## UH Hilo professor pioneers new era in sustainable fish farming
+
+date: 2024-08-07, from: University of Hawaiʻi News
+
+<p>Armando Garc&#237;a-Ortega, an aquaculture professor at <abbr>UH</abbr> Hilo, is leading a significant change in fish farming.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/06/new-era-in-sustainable-fish-farming/"><abbr>UH</abbr> Hilo professor pioneers new era in sustainable fish farming</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/06/new-era-in-sustainable-fish-farming/>
+
+---
+
+## Distorted federal policies
+
+date: 2024-08-06, from: Pacific Island Times
+
+The Compact Impact Fairness Act is now the law of the land. It is unclear what effects this legislation will have in the long run. It... 
+
+<https://www.pacificislandtimes.com/post/distorted-federal-policies>
+
+---
+
+## 2024 Primary Election Review/General Election Preview
+
+date: 2024-08-06, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>We will analyze the results including any surprises and look ahead to any intriguing matches in November’s General Election...</p>
+<p>The post <a href="https://www.pbshawaii.org/2024-primary-election-review-general-election-preview/">2024 Primary Election Review/General Election Preview</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/2024-primary-election-review-general-election-preview/>
+
+---
+
+## Home is Here Foster Botanical Garden, Star Tuiʻasoa, Hawaii Quilt Guild Exhibition
+
+date: 2024-08-06, from: Home is Here
+
+<p>In this episode of Home is Here, we start at Foster Botanical Garden, the artwork of Shar Tui‘asoa and The Hawaii Quilt Guild...</p>
+<p>The post <a href="https://www.pbshawaii.org/home-is-here-foster-botanical-garden-star-tui%ca%bbasoa-hawaii-quilt-guild-exhibition/">Home is Here &lt;br/&gt;Foster Botanical Garden, Star Tuiʻasoa, Hawaii Quilt Guild Exhibition</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/home-is-here-foster-botanical-garden-star-tui%ca%bbasoa-hawaii-quilt-guild-exhibition/>
+
+---
+
+## Stop brain power from going down the drain 
+
+date: 2024-08-06, from: Pacific Island Times
+
+Why young Micronesians are leaving FSM "Don't just teach your children to read, teach them to question what they read. Teach them to... 
+
+<https://www.pacificislandtimes.com/post/stop-brain-power-from-going-down-the-drain>
+
+---
+
+## $1.4M NIH grant boosts Maui Wildfire Exposure Study research
+
+date: 2024-08-06, from: University of Hawaiʻi News
+
+<p>The grant will help fund the longitudinal aspect of the study for up to 1,000 participants for two years.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/06/nih-grant-maui-wes/">$1.4<abbr>M</abbr> <abbr>NIH</abbr> grant boosts Maui Wildfire Exposure Study research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/06/nih-grant-maui-wes/>
+
+---
+
+## $2.5M boost for mesothelioma research at UH Cancer Center
+
+date: 2024-08-06, from: University of Hawaiʻi News
+
+<p>Study may change how mesothelioma patients are diagnosed and treated, survivor attests.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/06/mesothelioma-research-grant/">$2.5M boost for mesothelioma research at <abbr>UH</abbr> Cancer Center</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/06/mesothelioma-research-grant/>
+
+---
+
+## FEATURE ǀ Oba Sakae's deeds will help develop the Japanese market
+
+date: 2024-08-06, updated: 2024-08-07, from: Marianas Variety
+
+ALTHOUGH the depreciation of the yen has affected the willingness of Japanese people to travel abroad, there will still be more than 10 million Japanese traveling abroad in 2023 (the number before the epidemic was 20 million). But among these 10 million of visitors to Saipan is almost negligible. What's the problem? 
+
+<https://www.mvariety.com/views/columnists/feature-oba-sakaes-deeds-will-help-develop-the-japanese-market/article_df227bf8-53c2-11ef-865e-fbe75cf04813.html>
+
+---
+
+## Vaast goes to ‘war’ to win surfing gold for Polynesia and France
+
+date: 2024-08-06, updated: 2024-08-07, from: Marianas Variety
+
+TEAHUPO'O, Tahiti (Reuters) — Local hero Kauli Vaast said he was ready to go to “war” to win an Olympic surfing gold medal at his home break — for his family, for all Tahitians and for France. 
+
+<https://www.mvariety.com/sports/nationalsports/vaast-goes-to-war-to-win-surfing-gold-for-polynesia-and-france/article_58f7f74e-53f7-11ef-9570-8f09be9e0cb2.html>
+
+---
+
+## Basketball: Germany beats Greece to be first through to semi-finals
+
+date: 2024-08-06, updated: 2024-08-07, from: Marianas Variety
+
+PARIS (Reuters) — Germany overcame a sleepy start to ease past Greece 76-63 on Tuesday and become the first team through to the semi-finals of the Paris Olympic men's basketball tournament. 
+
+<https://www.mvariety.com/sports/nationalsports/basketball-germany-beats-greece-to-be-first-through-to-semi-finals/article_0d089d98-53f7-11ef-a2f3-07cb8bd1b135.html>
+
+---
+
+## TSL Foundation is Presidential Sponsor of HANMI Golf Tournament
+
+date: 2024-08-06, updated: 2024-08-07, from: Marianas Variety
+
+(HANMI) — The 22nd Annual HANMI Charity Golf Tournament has gained a Presidential Suite Sponsor in Tan Siu Lin Foundation with a $2,000 cash donation made on Wednesday, July 31. 
+
+<https://www.mvariety.com/sports/localsports/tsl-foundation-is-presidential-sponsor-of-hanmi-golf-tournament/article_0772f93a-53f4-11ef-a660-afa5b7078da5.html>
+
+---
+
+## Save More tames Saipan Tigers, 95-84
+
+date: 2024-08-06, updated: 2024-08-07, from: Marianas Variety
+
+SAVE More earned their fourth win in the Destroyers Basketball Club Invitational Basketball League 2024 by outplaying the Saipan Tigers, 95-84, at the TSL Sports Complex on Sunday. 
+
+<https://www.mvariety.com/sports/localsports/save-more-tames-saipan-tigers-95-84/article_1f3cddb6-53f3-11ef-8b37-932f468847d1.html>
+
+---
+
+## The Clique rules Beer Mile corporate relay
+
+date: 2024-08-06, updated: 2024-08-07, from: Marianas Variety
+
+THE Clique topped the newly added corporate relay division of the 3rd Annual Michelob Ultra Beer Mile 2024, besting seven other teams to place first with a time of 7:06 at the Saipan Vegas Country Club on Friday. 
+
+<https://www.mvariety.com/sports/localsports/the-clique-rules-beer-mile-corporate-relay/article_a9732e78-53ed-11ef-aeda-f760b03fb3b2.html>
+
+---
+
+## Tarkong, Ball to compete in IVF Va'a World Elite and Club Sprint Championship
+
+date: 2024-08-06, updated: 2024-08-07, from: Marianas Variety
+
+JASON Tarkong and Pipit Ball have been selected to compete in the IVF Va'a World Elite and Club Sprint Championship 2024 in Hilo, Hawaii on Aug. 13-24. 
+
+<https://www.mvariety.com/sports/localsports/tarkong-ball-to-compete-in-ivf-vaa-world-elite-and-club-sprint-championship/article_9c36d1b2-53f0-11ef-8348-1ba671e86dec.html>
+
+---
+
+## 2 Republican House candidates for Precinct 1
+
+date: 2024-08-06, updated: 2024-08-07, from: Marianas Variety
+
+PRECINCT 1 Republicans Roy Ada and Ben Piteg officially filed their candidacies for the House of Representatives with the Commonwealth Election Commission on Monday. 
+
+<https://www.mvariety.com/news/local/2-republican-house-candidates-for-precinct-1/article_62d3563e-53ff-11ef-a96c-ffe268d050d7.html>
+
+---
+
+## DFW seeks input for Statewide Wildlife Action Plan
+
+date: 2024-08-06, updated: 2024-08-07, from: Marianas Variety
+
+THE Division of Fish and Wildlife is seeking public input for the 2025-2035 Statewide Wildlife Action Plan, wildlife biologist and conservation planner Dacia Wiitala said. 
+
+<https://www.mvariety.com/news/local/dfw-seeks-input-for-statewide-wildlife-action-plan/article_7f956298-53bf-11ef-816a-b3a980c4dbaa.html>
+
+---
+
+## Japan professor broadens students’ cultural horizons on Saipan
+
+date: 2024-08-06, updated: 2024-08-07, from: Marianas Variety
+
+KYOKO Nakayama, a Teikyo University professor and fa’fa’nague or Chamorro dance instructor, is visiting Saipan with her students to help broaden their perspective about Chamorro culture. 
+
+<https://www.mvariety.com/news/local/japan-professor-broadens-students-cultural-horizons-on-saipan/article_a2e64a62-53c6-11ef-b1b9-6ba1f10a7d31.html>
 
 ---
 
@@ -256,6 +834,18 @@ date: 2024-08-06, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/08/06/features/lets-talk-food-chicken-hekka/>
+
+---
+
+## Tropical storms Emilia, Fabio could possibly combine
+
+date: 2024-08-06, from: Hawaii Tribune Harold
+
+
+				<p>A pair of tropical storms in the Eastern Pacific Ocean are dancing with each other as they head west.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/06/hawaii-news/tropical-storms-emilia-fabio-could-possibly-combine/>
 
 ---
 
@@ -569,7 +1159,7 @@ A man charged with aggravated assault allegedly punched the victim after the vic
 
 date: 2024-08-06, from: Pacific Island Times
 
-By Mar-Vic Cagurangan The draft environmental impact statement for the Guam missile defense system will be released in October, and if... 
+By Mar-Vic Cagurangan The draft environmental impact statement for the Guam missile defense system will be released in October. If you... 
 
 <https://www.pacificislandtimes.com/post/off-limits-missile-defense-agency-eyes-lease-agreements-with-property-owners-around-missile-defense>
 

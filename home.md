@@ -1,11 +1,31 @@
 ---
 title: home 2024.32
-updated: 2024-08-06 08:33:46
+updated: 2024-08-07 08:30:35
 ---
 
 # home 2024.32
 
-(date: 2024-08-06 08:33:46)
+(date: 2024-08-07 08:30:35)
+
+---
+
+## Remove Grout Faster With a Reciprocating Saw or an Oscillating Tool
+
+date: 2024-08-06, from: Family Handyman Blog
+
+Simplify how to remove grout removal by using a carbide-grit blade in a reciprocating saw or an oscillating tool. Both speed up this chore. 
+
+<https://www.familyhandyman.com/article/grout-removal-methods/>
+
+---
+
+## CDFA celebrates National Farmers’ Market Week (August 4-10)
+
+date: 2024-08-06, from: Calfifornia Dept. Aggriculture blog
+
+CDFA Secretary Karen Ross joins Sacramento-area Certified Farmers Market manager Dan Best for a discussion in celebration of National Farmers Market Week, running from August 4-10. See and hear more about the importance of supporting local farmers and the incredible &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28037">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28037>
 
 ---
 

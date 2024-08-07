@@ -1,17 +1,129 @@
 ---
 title: tech likely 2024.32
-updated: 2024-08-06 08:33:43
+updated: 2024-08-07 08:30:32
 ---
 
 # tech likely 2024.32
 
-(date: 2024-08-06 08:33:43)
+(date: 2024-08-07 08:30:32)
+
+---
+
+##  The theme for the Cooper Hewitt&#8217;s upcoming Design Triennial (in collaboration with... 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045079-the-theme-for-the-cooper>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-08-07, from: Miguel de Icaza Mastondon feed)
+
+<p>It is now Wikipedia official, after a long and painful debate.</p><p>It is a genocide.   </p><p><a href="https://en.wikipedia.org/wiki/Gaza_genocide" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">en.wikipedia.org/wiki/Gaza_gen</span><span class="invisible">ocide</span></a></p><p>Sidebar: and it is so, because the US has ensured that it will continue to be funded and will do everything in its power to let it continue.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112921296260544982>
+
+---
+
+## OpenAI: On a Path to Becoming The World’s Most Frightening Surveillance Company?
+
+date: 2024-08-07, from: Gary Marcus blog
+
+&#9888;&#65039; Something terrifying just snapped in place: 
+
+<https://garymarcus.substack.com/p/openai-on-a-path-to-becoming-the>
+
+---
+
+## Physicists Pinpoint the Quantum Origin of the Greenhouse Effect
+
+date: 2024-08-07, from: Quanta Magazine
+
+Carbon dioxide’s powerful heat-trapping effect has been traced to a quirk of its quantum structure. The finding may explain climate change better than any computer model.            <p>The post <a href="https://www.quantamagazine.org/physicists-pinpoint-the-quantum-origin-of-the-greenhouse-effect-20240807/" target="_blank">Physicists Pinpoint the Quantum Origin of the Greenhouse Effect</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/physicists-pinpoint-the-quantum-origin-of-the-greenhouse-effect-20240807/>
+
+---
+
+##  55 Things to Know About Tim Walz 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/55-things-to-know-about-tim-walz>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/04/butHerEmails.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">When I see a reference to an evil NYT piece, I RT it with a simple message: Ignore the NY Times. It's relaxing. You don't have to do something about it, in fact it says the opposite. Do nothing. It works on all social nets, and for any news org that's promoting lies, ignoring relevant facts, against the interest of the US. Find new ways to get informed. And if you can't find them, start one. And we can find each other. 
+
+<http://scripting.com/2024/08/07.html#a140432>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
+
+The <a href="https://www.threads.net/@davew/post/C-Xr_dcp8Vn">Bruce Springsteen</a> mention at last night's rally was no accident. Boomers are now of the age where we vote in great numbers. So our feeling like there's something here for us might make the difference in one or more of the swing states. 
+
+<http://scripting.com/2024/08/07.html#a140039>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
+
+Last night's Democratic rally was wonderful. I was laughing and sobbing all the way through it. What an emotional release. We needed and deserved this. Beyond hope, we're finally going to fight. I hope President Kamala is really up to it, because we have a pretty substantial cleanup job to do here. 
+
+<http://scripting.com/2024/08/07.html#a134011>
+
+---
+
+## I Am Artemis: Julia Khodabandeh
+
+date: 2024-08-07, from: NASA breaking news
+
+Unlike most of her friends in the 80s who covered their walls with posters of bands, Julia Khodabandeh plastered hers with posters of rockets and fighter jets. Khodabandeh’s interest in aerospace and aeronautics developed at a young age. Her parents were avid fans of the Apollo Program and were heavily invested in her education. Khodabandeh’s [&#8230;] 
+
+<https://www.nasa.gov/image-article/i-am-artemis-julia-khodabandeh/>
+
+---
+
+## Paradise Jost
+
+date: 2024-08-07, updated: 2024-08-07, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/08/07/paradise-jost/>
+
+---
+
+## Developing a cryptographically secure bootloader for RISC-V in Rust
+
+date: 2024-08-07, from: OS News
+
+It seems to be bootloader season, because we&#8217;ve got another one &#8211; this time, a research project with very limited application for most people. SentinelBoot is a cryptographically secure bootloader aimed at enhancing boot flow safety of RISC-V through memory-safe principles, predominantly leveraging the Rust programming language with its ownership, borrowing, and lifetime constraints. Additionally, SentinelBoot employs public-key cryptography to verify the integrity of a booted kernel (digital signature), by the use of the RISC-V Vector Cryptography extension, establishing secure boot functionality. SentinelBoot achieves these objectives with a 20.1% hashing overhead (approximately 0.27s additional runtime) when compared to an example U-Boot binary (mainline at time of development), and produces a resulting binary one-tenth the size of an example U-Boot binary with half the memory footprint. ↫ Lawrence Hunter SentinelBoot is a project undertaken at the University of Manchester, and its goal is probably clear from the description: to develop a more secure bootloader for RISC V devices. An additional element is that they looked specifically at devices that receive updates over-the-air, like smartphones. In addition, scenarios where an attacker has physical access to the device in question were not considered, for obvious reasons &#8211; in such cases, the attacker can just replace the bootloader altogether anyway, and no amount of fancy Rust code is going to save you there. The details of the implementation as described in the article are definitely a little bit over my head, but the gist seems to be that the project&#8217;s been able to achieve a much more secure boot process without giving up much in performance. This being a research project with an intentionally limited scope does mean it&#8217;s most just something that&#8217;ll immediately benefit all of us, but it&#8217;s these kinds of projects that can really push the state of the art and try out the viability of new ideas. 
+
+<https://www.osnews.com/story/140437/developing-a-cryptographically-secure-bootloader-for-risc-v-in-rust/>
+
+---
+
+## the state and the people
+
+date: 2024-08-07, from: Ayjay blog
+
+A few years ago I published an essay called “Miss Marple and the Problem of Modern Identity,” in which I described the rise of certain technologies by which people have become “legible” to the state. At that point I had not read a classic, though a somewhat controversial classic, of history, A. J. P. Taylor’s [&#8230;] 
+
+<https://blog.ayjay.org/the-state-and-the-people/>
 
 ---
 
 ## 2024-08-06 Pocket Reform
 
-date: 2024-08-06, from: Alex Schroeder's Blog
+date: 2024-08-07, from: Alex Schroeder's Blog
 
 <h1 id="2024-08-06-pocket-reform">2024-08-06 Pocket Reform</h1>
 
@@ -97,9 +209,375 @@ It fixed itself.</p>
 
 <p>My take-away is this: usability and user interface issues both large and small remain a challenge in computers.</p>
 
-<p><a class="tag" href="/search/?q=%23Gadgets">#Gadgets</a> <a class="tag" href="/search/?q=%23Laptop">#Laptop</a> <a class="tag" href="/search/?q=%23Reform">#Reform</a></p> 
+<p><a class="tag" href="/search/?q=%23Gadgets">#Gadgets</a> <a class="tag" href="/search/?q=%23Laptop">#Laptop</a> <a class="tag" href="/search/?q=%23Reform">#Reform</a></p>
+
+<p><strong>2024-08-07</strong>. Before the login prompt is shown, there is a long and helpful
+introduction that flashes by. At the login prompt, you can specify a different
+command to run instead of starting the window manager. I did that, specifying
+<code>/usr/bin/fish</code> (I have installed <code>fish</code> and prefer it over the default shell,
+<code>bash</code>). This allows you to read the message. I guess it&rsquo;s the
+<code>/etc/reform-help</code> message.</p>
+
+<p>Specifically, I learned about all the commands starting with <code>reform-</code>. Nice!
+In the manual these tools are mentioned on page 50.</p>
+
+<p>When I run <code>sudo reform-check</code>, it tells me that &ldquo;eMMC does not contain the latest
+uboot&rdquo; and that I can run <code>reform-flash-uboot emmc</code> to fix it. Do I dare?
+The following two messages are shown and they are not identical. That&rsquo;s a bit strange.</p>
+
+<pre><code>W: /boot/flash.bin is not the latest uboot
+W: You can update it to the latest version by running as root:
+reform-flash-uboot
+W: eMMC does not contain latest uboot
+W: You can update it to the latest version by running as root:
+reform-flash-uboot emmc
+</code></pre>
+
+<p>I guess I&rsquo;ll run the first command and then <code>reform-check</code> again.</p>
+
+<p>In the meantime I saw that I don&rsquo;t have the <code>pocket-reform-handbook</code> installed
+but that I do have the <code>reform-handbook</code>. Heh. (The MNT Reform is the bigger
+laptop.)</p>
+
+<p>Anyway, when I run <code>reform-flash-uboot</code> without arguments, I get an error.</p>
+
+<pre><code>/usr/sbin/reform-flash-uboot: 59: MMC_BOOT: parameter not set
+</code></pre>
+
+<p>I cannot decide whether this is a typo or not. It looks like one?</p>
+
+<pre><code>alex@subterraneobombus ~&gt; sudo nl /usr/sbin/reform-flash-uboot|grep MMC_BOOT
+    27	if [ &quot;$EMMC_BOOT&quot; = false ]; then
+    49		if [ &quot;$EMMC_BOOT&quot; = true ] &amp;&amp; [ &quot;$SD_BOOT&quot; = true ]; then
+    53		elif [ &quot;$MMC_BOOT&quot; = true ]; then
+    60		if [ &quot;$EMMC_BOOT&quot; = true ] &amp;&amp; [ &quot;$SD_BOOT&quot; = true ]; then
+    71		elif [ &quot;$MMC_BOOT&quot; = true ]; then
+alex@subterraneobombus ~&gt; grep MMC_BOOT &quot;/usr/share/reform-tools/machines/MNT Pocket Reform with
+ i.MX8MP Module.conf&quot;
+EMMC_BOOT=true
+</code></pre>
+
+<p>Do I really want to do this? Luckily, I mentioned this issue on IRC, and <a class="account" href="https://floss.social/@josch" title="@josch@floss.social">@josch</a> pointed me to this post by <a class="account" href="https://macaw.social/@andypiper" title="@andypiper@macaw.social">@andypiper</a>: <a href="https://community.mnt.re/t/updating-uboot/2348">Updating uboot?</a>. This is the important bit:</p>
+
+<blockquote>
+<p>Do <em>not</em> flash u-boot to emmc on the pocket reform.
+There is a bug in the u-boot offset which will make your pocket unbootable if you fix the other bug in reform-flash-uboot. – josch on IRC</p>
+</blockquote>
+
+<p>Oof! Disaster narrowly avoided. And now I understand what Andy Piper means when he writes:</p>
+
+<blockquote>
+<p>I also managed to temporarily brick the machine by corrupting the uboot in flash, and needed to rig it up with Dupont wires on headers and access the machine from another via USB to get back to where I wanted to be. – <a href="https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/">MNT Pocket Reform: first impressions</a></p>
+</blockquote>
+
+<p>Andy&rsquo;s post had a screenshot showing the fediverse client <a href="https://tuba.geopjr.dev/">Tuba</a> which is available on Debian testing. Nice! I&rsquo;ll give it a try.</p>
+
+<p>Tuba requires a &ldquo;login&rdquo; keyring so I had to install <code>seahorse</code> also known as &ldquo;Passwords and Keys&rdquo;.</p> 
 
 <https://alexschroeder.ch/view/2024-08-06-pocket-reform>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-08-07, from: Miguel de Icaza Mastondon feed)
+
+<p>Made the toolbar fluid in Godot for iPad:</p><p><a href="https://www.youtube.com/watch?v=vKl_XMxVUio" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=vKl_XMxVUi</span><span class="invisible">o</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112918612762359516>
+
+---
+
+## credcheck v2.8 has been released
+
+date: 2024-08-07, from: PostgreSQL News
+
+<p>Antananarivo, Madagascar - August 07, 2024</p>
+<h2>PostgreSQL credcheck extension</h2>
+<p>The credcheck PostgreSQL extension provides few general credential checks, which will be evaluated during the user creation, during the password change and user renaming. By using this extension, we can define a set of rules:</p>
+<ul>
+<li>allow a specific set of credentials</li>
+<li>reject a certain type of credentials</li>
+<li>deny password that can be easily cracked</li>
+<li>enforce use of an expiration date with a minimum of day for a password</li>
+<li>define a password reuse policy</li>
+<li>define the number of authentication failure allowed before a user is banned</li>
+<li>define a delay on authentication failures</li>
+</ul>
+<p>Release 2.8 has been published, it adds the compatibility with PostgreSQL 17
+and shows current credcheck settings in error messageis.</p>
+<p>Upgrade require a PostgreSQL restart to reload the credcheck library.</p>
+<p>Complete list of changes is available <a href="https://github.com/MigOpsRepos/credcheck/releases/tag/v2.8">here</a></p>
+<h2>Links &amp; Credits</h2>
+<p>credcheck is an open project under the PostgreSQL license created at <a href="https://migops.com/">MigOps Inc</a>.
+Any contribution to build a better tool is welcome. You can send your ideas, features requests or patches
+using the GitHub tools.</p>
+<p><strong>Links :</strong></p>
+<ul>
+<li>Download:  <a href="https://github.com/MigOpsRepos/credcheck/releases/">https://github.com/MigOpsRepos/credcheck/releases/</a></li>
+<li>Support: use GitHub report tool at <a href="https://github.com/MigOpsRepos/credcheck/issues">https://github.com/MigOpsRepos/credcheck/issues</a></li>
+</ul>
+<h2>About credcheck</h2>
+<p>The credcheck extension is an original work of MigOps Inc, Since MigOPs is closed the extension is developped and maintained by Gilles Darold at <a href="https://hexacluster.ai">HexaCluster Corp</a>. If you need more information please <a href="https://hexacluster.ai/contact-us/">contact us</a>.</p>
+<p>Documentation at <a href="https://github.com/MigOpsRepos/credcheck#readme">https://github.com/MigOpsRepos/credcheck#readme</a></p> 
+
+<https://www.postgresql.org/about/news/credcheck-v28-has-been-released-2908/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-08-06, from: Miguel de Icaza Mastondon feed)
+
+<p>Cool hack to share builds of iOS apps on the simulator quickly:</p><p><a href="https://tuist.io/blog/2024/08/06/url-centric-collaboration/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">tuist.io/blog/2024/08/06/url-c</span><span class="invisible">entric-collaboration/</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112917685294239971>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-08-06, from: Miguel de Icaza Mastondon feed)
+
+<p>Friends, I have perfected my Gazpacho skills.   </p><p>The trick was to strain the mixture after blending!</p><p>I always skipped that step because “just how big of a difference will it make, and I need to wash more stuff”.</p><p>Anyways, here it is:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112917642607431103>
+
+---
+
+##  An English couple took photos in front of a Swiss glacier in... 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045075-an-english-couple-took-ph>
+
+---
+
+##  World&#8217;s longest bicycle (180+ feet) or slow & impractical steamroller?... 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045074-worlds-longest-bicycle-18>
+
+---
+
+##  Amazing stat about the disappearance of bands from the UK music charts... 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045077-amazing-stat-about-the-di>
+
+---
+
+##  What&#8217;s In the Box? (The Olympics Medalists&#8217; Box) 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/whats-in-the-box-the-olympics-medalists-box>
+
+---
+
+## The Moral Implications of Being a Moderately Successful Computer Scientist and a Woman
+
+date: 2024-08-06, from: Tilde.news
+
+<p><a href="https://tilde.news/s/90mnqv/moral_implications_being_moderately">Comments</a></p> 
+
+<https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/>
+
+---
+
+## Doomed Star Eta Carinae
+
+date: 2024-08-06, from: NASA breaking news
+
+Eta Carinae may be about to explode. But no one knows when &#8211; it may be next year, it may be one million years from now. Eta Carinae&#8217;s mass &#8211; about 100 times greater than our Sun &#8211; makes it an excellent candidate for a full blown supernova. Historical records do show that about 170 [&#8230;] 
+
+<https://www.nasa.gov/image-article/doomed-star-eta-carinae/>
+
+---
+
+## NASA to Provide Crew Flight Test, Space Station Missions Update
+
+date: 2024-08-06, from: NASA breaking news
+
+NASA will host a media teleconference at 12:30 p.m. EDT, Wednesday, Aug. 7, to discuss ongoing International Space Station operations, including the agency’s Boeing Crew Flight Test and NASA’s SpaceX Crew-9 mission. &#160; Audio of the briefing will stream live on NASA’s website. Agency participants include: To ask questions during the teleconference, media must RSVP [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-to-provide-crew-flight-test-space-station-missions-update/>
+
+---
+
+##  Tressie McMillan Cottom reports from Louisville, KY on the challenges of residents... 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045073-tressie-mcmillan-cottom-r>
+
+---
+
+## Google Search and Ads Monopoly
+
+date: 2024-08-06, from: Michael Tsai
+
+Lauren Feiner (Hacker News): A federal judge ruled that Google violated US antitrust law by maintaining a monopoly in the search and advertising markets.&#8220;After having carefully considered and weighed the witness testimony and evidence, the court reaches the following conclusion: Google is a monopolist, and it has acted as one to maintain its monopoly,&#8221; according [&#8230;] 
+
+<https://mjtsai.com/blog/2024/08/06/google-search-and-ads-monopoly/>
+
+---
+
+## NetNewsWire and Conditional GET Issues
+
+date: 2024-08-06, from: Michael Tsai
+
+Brent Simmons (Mastodon): I had thought that NetNewsWire&#8217;s conditional GET support was rock-solid &#8212;&#160;and so my first reaction was to be very surprised to learn that it&#8217;s not! [&#8230;] When a server returns a Last-Modified header, the client should return that exact same string in follow-up requests in an If-Modified-Since header. The server then looks [&#8230;] 
+
+<https://mjtsai.com/blog/2024/08/06/netnewswire-and-conditional-get-issues/>
+
+---
+
+## Google Chromecast to Google TV Streamer
+
+date: 2024-08-06, from: Michael Tsai
+
+Google (Hacker News): After 11 years and over 100 million devices sold, we&#8217;re ending production of Chromecast, which will now only be available while supplies last. The time has now come to evolve the smart TV streaming device category &#8212; primed for the new area of AI, entertainment and smart homes.[&#8230;]We invested heavily in embedding [&#8230;] 
+
+<https://mjtsai.com/blog/2024/08/06/google-chromecast-to-google-tv-streamer/>
+
+---
+
+## SuperDrive Sunset
+
+date: 2024-08-06, from: Michael Tsai
+
+Filipe Esp&#243;sito (MacRumors): As noted by one of our readers, it&#8217;s no longer possible to buy an Apple USB SuperDrive online via the official Apple Store in the US. The product&#8217;s webpage says that it&#8217;s &#8220;Sold Out,&#8221; and given that it&#8217;s a product introduced in 2008, it seems very unlikely that Apple will ever produce [&#8230;] 
+
+<https://mjtsai.com/blog/2024/08/06/superdrive-sunset/>
+
+---
+
+##  Forthcoming book: The Marvel Comics Covers of Jack Kirby Volume 1. This... 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045070-forthcoming-book-the-marv>
+
+---
+
+## Tundra Vegetation to Grow Taller, Greener Through 2100, NASA Study Finds
+
+date: 2024-08-06, from: NASA breaking news
+
+Warming global climate is changing the vegetation structure of forests in the far north. It’s a trend that will continue at least through the end of this century, according to NASA researchers. The change in forest structure could absorb more of the greenhouse gas carbon dioxide (CO2) from the atmosphere, or increase permafrost thawing, resulting [&#8230;] 
+
+<https://www.nasa.gov/earth/tundra-vegetation-to-grow-taller-greener-through-2100-nasa-study-finds/>
+
+---
+
+##  It looks like overdose deaths in the US might finally be falling.... 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045072-it-looks-like-overdose-de>
+
+---
+
+## Collegiate Teams to Focus on Aviation Solutions for Agriculture in 2025 Gateways to Blue Skies Competition
+
+date: 2024-08-06, from: NASA breaking news
+
+In the 2025 Gateways to Blue Skies Competition, the theme is AgAir: Aviation Solutions for Agriculture. NASA asks collegiate teams to investigate either new or improved aviation capabilities that could assist the agriculture industry by improving production, efficiency, environmental impact and extreme weather/climate resilience.  The agriculture industry plays a vital role in providing food, fuel, [&#8230;] 
+
+<https://www.nasa.gov/aeronautics/collegiate-teams-to-focus-on-aviation-solutions-for-agriculture-in-2025-gateways-to-blue-skies-competition/>
+
+---
+
+##  A Drawing of NYC&#8217;s Chinatown 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/a-drawing-of-nycs-chinatown>
+
+---
+
+##  A deep dive into Null Island. &#8220;Null Island is a long-running inside... 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045069-a-deep-dive-into-null>
+
+---
+
+## Tim Walz. Hell yeah.
+
+date: 2024-08-06, from: Dave Karpf's blog
+
+The electoral math made Shapiro look like the safer pick. But Walz better communicates the story and stakes of this election. 
+
+<https://davekarpf.substack.com/p/tim-walz-hell-yeah>
+
+---
+
+## Celebrate Heliophysics Big Year: Free Monthly Webinars on the Sun Touches Everything
+
+date: 2024-08-06, from: NASA breaking news
+
+Once a month (usually on the first Tuesday), the Heliophysics Education Community meets online to share knowledge and opportunities. During the Heliophysics Big Year (HBY) – a global celebration of the Sun’s influence on Earth and the entire solar system, beginning with the Annular Solar Eclipse on October 14, 2023, continuing through the Total Solar […] 
+
+<https://science.nasa.gov/learning-resources/science-activation/celebrate-heliophysics-big-year-free-monthly-webinars-on-the-sun-touches-everything/>
+
+---
+
+## Artemis Emergency Egress System Emphasizes Crew Safety
+
+date: 2024-08-06, from: NASA breaking news
+
+Since NASA began sending astronauts to space, the agency has relied on emergency systems for personnel to safely leave the launch pad and escape the hazard in the unlikely event of an emergency during the launch countdown.&#160;&#160; During the Mercury and Gemini programs, NASA used launch escape systems on spacecraft for the crew to safely [&#8230;] 
+
+<https://www.nasa.gov/missions/artemis/artemis-2/artemis-emergency-egress-system-emphasizes-crew-safety/>
+
+---
+
+##  The Marshall Project: what communities have learned from sending unarmed responders instead... 
+
+date: 2024-08-06, updated: 2024-08-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045067-the-marshall-project-what>
+
+---
+
+## Nominations for the 2024 Microsoft Store App Awards are now open
+
+date: 2024-08-06, from: Windows Developer Blog
+
+<p><span data-contrast="auto">We are thrilled to announce the 2024 Microsoft Store App Awards, a testament to our continued commitment to honor and celebrate developers for their exceptional quality, creativity and originality of Windows apps and games.</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2024/08/06/nominations-for-the-2024-microsoft-store-app-awards-are-now-open/">Nominations for the 2024 Microsoft Store App Awards are now open </a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<https://blogs.windows.com/windowsdeveloper/2024/08/06/nominations-for-the-2024-microsoft-store-app-awards-are-now-open/>
+
+---
+
+## Bindu Rani Explores Black Holes, Mothers Hard, Balances Life
+
+date: 2024-08-06, from: NASA breaking news
+
+Bindu Rani had childhood dreams of flight. Today she lifts her gaze even higher, helping researchers study stars, planets beyond our solar system, and black holes billions of times more massive than our Sun. Name: Bindu RaniTitle: Astrophysicist, Neil Gehrels Swift Observatory Guest Investigator Program Lead ScientistOrganization: Astroparticle Physics Laboratory, Science Directorate (Code 661) What [&#8230;] 
+
+<https://www.nasa.gov/people-of-nasa/goddard-people/bindu-rani-explores-black-holes-mothers-hard-balances-life/>
 
 ---
 
@@ -121,18 +599,17 @@ date: 2024-08-06, from: Dave Winer's Scripting News
 <ul>
 <li>Harris has her knee on Trump's neck, and she won't let up. </li>
 <li>There won't be time for anyone to get tired of her. </li>
-<li>The campaign rallies should get bigger and bigger, and more rambunctuous. The rally on the Sunday before Election Day should take place in stadiums all over America, with the cast of Democratic leadership spread out too, and the best musicians and comedians, again spread out over all the venues. Streaming on YouTube, with online participation <a href="https://en.wikipedia.org/wiki/Get_out_the_vote">GOTV</a> coordination on the new democrat.social community site.   </li>
+<li>Their rallies are going to be the best in a very long time. They're executing perfectly. </li>
 <li>Trump is a comedian, a cross between <a href="https://en.wikipedia.org/wiki/Don_Rickles">Don Rickles</a> and <a href="https://en.wikipedia.org/wiki/Joan_Rivers">Joan Rivers</a> with a bit of <a href="https://en.wikipedia.org/wiki/Sam_Kinison">Sam Kinison</a>. He had a good schtick for a long run if you find fascist slapstick entertaining, as millions of Americans do or did. </li>
 <li>Last night Maddow tried to get us excited about how the Repubs have planted people on voting boards in swing states with the purpose of stopping the counts, and thus preventing a vote in the Electoral College. But they're doing it too late. The administrators will feel the tide turning too. </li>
-<li>This campaign will take place in the popular culture of 2024, which thankfully is not centered on cable news or the NYT. But Mark Zuckerberg and Elon Musk are in control.</li>
-<li>In my <a href="http://scripting.com/2017/01/14/whatIfTwtrIsBoughtByARepub.html">2017 piece</a> I thought Zuck would run for president, given his new style <a href="https://imgs.scripting.com/2024/08/06/zucksNewStyle.png">makeover</a> I wouldn't discount that, but these two will certainly have  influence over how the election goes. Both Facebook and Twitter have algorithms that are opaque and controlled by them. Same deal as with the owners of cable media. </li>
+<li>This campaign will take place in the popular culture of 2024, which thankfully is not centered on cable news or the NYT. But Mark Zuckerberg and Elon Musk are in control. In my <a href="http://scripting.com/2017/01/14/whatIfTwtrIsBoughtByARepub.html">2017 piece</a> I thought Zuck would run for president, given his new style <a href="https://imgs.scripting.com/2024/08/06/zucksNewStyle.png">makeover</a> I wouldn't discount that, but these two will certainly have  influence over how the election goes. Both Facebook and Twitter have algorithms that are opaque and controlled by them. Same deal as with the owners of cable media. </li>
 <li>Trump stoked resentment with voters for being left behind, even if individually they were doing fine. But that was eight years ago and a lot has happened. Harris saying basically "there you go again" is an <a href="https://www.youtube.com/watch?v=qN7gDRjTNf4&t=46s">echo of Reagan</a>, btw. It worked for Reagan, you just have to get the <a href="https://www.dictionary.com/browse/derision">derision</a> right. And Harris can do that, she laughs and we laugh. Trump loses his mind.</li>
 <li>The Harris candidacy happened almost as if it was staged. The campaign hit the ground running, it feels like there was a lot of advance work. Or they picked bloggers who were up and running, gave them the keys and said go. Either approach is fine, breaking through where previous Demo campaigns didn't have the nerve. Whatever it is, there's a sign of competence and urgency in the Democrats that is grounded in the challenge not in some almost religious sense that she's The One, which was understandable with Obama, but won't do now. We have no illusions about what's ahead. I think for that Biden must have been a great teacher. </li>
-<li>Now we're grounded. We've seen the outline of our future. Our eyes were fully opened on Jan 6. A few weeks ago the lead Republican thinker behind Project 2025 said, like an idiot, in an interview, it was up to the liberals to avoid a bloodbath, as they took over. You don't hear that anymore. Those people must now be thinking more seriously about jail for what they're doing. And the Supreme Court will go to jail too if they try to support what Maddow was talking about. We must not let them overthrow the government. And that's why Maddow's concern is okay but overstated, imho.</li>
-<li>I had my doubts whether Biden would stop the <a href="https://www.dictionary.com/browse/dissolution">dissolution</a> of the Supreme Court, and I don't know if Harris will, but given how purposefully the campaign in running, I suspect (hope, pray) she will. Our job is to give her the support she needs to feel like we've got her back. </li>
+<li>Now we're grounded. We've seen the outline of our future. Our eyes were fully opened on Jan 6. A few weeks ago the lead Republican thinker behind Project 2025 <a href="https://thehill.com/homenews/campaign/4757210-heritage-blowback-bloodless-revolution/">said</a>, like an idiot, in an interview, it was up to liberals to avoid a bloodbath, as they took over. You don't hear that anymore. Those people must now be thinking more seriously about jail for what they're doing. And the Supreme Court will go to jail too if they try to support what Maddow was talking about. We must not let them overthrow the government. And that's why Maddow's concern is okay but overstated, imho.</li>
+<li>I had my doubts whether Biden would stop the <a href="https://www.dictionary.com/browse/dissolution">dissolution</a> of the Supreme Court, and I don't know if Harris will, but given how purposefully the campaign in running, I suspect (hope, pray) she will. Our job is to give her the support she needs to feel that we've got her back. </li>
 </ul>
-<p>PS: FDR <a href="https://chatgpt.com/share/83fbfae5-d28d-4332-bda1-480fed1e9584">threatened</a> to pack the court and the court backed down in 1937.</p>
-<p>PPS: If you haven't listened to <a href="http://scripting.com/2024/08/04/195427.html">Sunday's podcast</a>, please do. A lot of what you read here will assume that you have listened to it. It's just 12 minutes. </p>
+<p>PS: FDR <a href="https://chatgpt.com/share/83fbfae5-d28d-4332-bda1-480fed1e9584">threatened</a> to pack the court in 1937. </p>
+<p>PPS: If you haven't listened to <a href="http://scripting.com/2024/08/04/195427.html">Sunday's podcast</a>, please do. It's just 12 minutes. </p>
  
 
 <http://scripting.com/2024/08/06/141312.html?title=roadmapForTheCampaign>
@@ -143,7 +620,7 @@ date: 2024-08-06, from: Dave Winer's Scripting News
 
 date: 2024-08-06, from: Doc Searls (at Harvard), New Old Blog
 
-I wrote for Linux Journal from 1996 to 2019, the final years as editor-in-chief. After ownership changed and the whole staff turned over. The new owner, Slashdot Media, agreed to keep the server up so nothing would be 404&#8217;d. I am grateful that they have kept that promise. I should add, however, that much of [&#8230;] 
+I wrote for Linux Journal from 1996 to 2019, the final years as editor-in-chief. After ownership changed and the whole staff turned over, the new owner, Slashdot Media, agreed to keep the server up so nothing would be 404&#8217;d. I am grateful that they have kept that promise. I should add, however, that some of [&#8230;] 
 
 <https://doc.searls.com/2024/08/06/setting-the-terms-redux/>
 
@@ -263,6 +740,36 @@ date: 2024-08-06, from: Gary Marcus blog
 Crazy day gets crazier 
 
 <https://garymarcus.substack.com/p/the-openai-plot-thickens>
+
+---
+
+## Browsertrix 1.11: You can sign up now!
+
+date: 2024-08-06, updated: 2024-08-06, from: Web Recorder
+
+Self Serve Sign-up 
+
+<https://webrecorder.net//2024/08/06/browsertrix-1-11.html>
+
+---
+
+## Meet the Projects Receiving NGI Taler grants
+
+date: 2024-08-06, updated: 2024-08-06, from: nlnet feed
+
+ 
+
+<https://nlnet.nl/news/2024/20240806-Taler-selection.html>
+
+---
+
+## Bluesky Welcomes Mike Masnick to Board of Directors
+
+date: 2024-08-06, from: Bluesky web news
+
+We’re thrilled to announce that Mike Masnick has joined Bluesky’s Board of Directors. 
+
+<https://bsky.social/about/blog/08-06-2024-board>
 
 ---
 

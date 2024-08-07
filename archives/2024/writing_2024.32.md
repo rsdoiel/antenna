@@ -1,11 +1,172 @@
 ---
 title: writing 2024.32
-updated: 2024-08-06 08:33:45
+updated: 2024-08-07 08:30:34
 ---
 
 # writing 2024.32
 
-(date: 2024-08-06 08:33:45)
+(date: 2024-08-07 08:30:34)
+
+---
+
+## Write Now with Scrivener, Episode no. 41: Natasha Bell, Thriller Author and Creative Writing Teacher
+
+date: 2024-08-07, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p><iframe frameborder="0" height="200" scrolling="no" src="https://player.fireside.fm/v2/FGsx06Yz+tf02PhGh?theme=light" width="740"></iframe></p>
+
+<p><strong>Show notes</strong>:</p>
+
+
+	<a href="https://natashabell.co.uk" target="_blank">Natasha Bell</a>
+	<a href="https://natashabell.co.uk/his-perfect-wife-uk" target="_blank">His Perfect Wife</a>
+	<a href="https://youtu.be/1Q1NEmOZdgw?feature=shared&amp;t=1095" target="_blank">How author Ken Follett sold nearly 200 million books (video showing how he writes)</a>
+	<a href="https://faberacademy.com/product/finish-your-draft-30-september-2024/" target="_blank">Faber Academy: Finish Your Draft</a>
+	<a href="https://us.macmillan.com/books/9780374606176/biographyofx" target="_blank">Catherine Lacey: Biography of X</a>
+
+
+<p>Learn more about <a href="https://www.literatureandlatte.com/scrivener/overview" target="_blank">Scrivener</a>, and check out the ebook <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>.</p>
+
+<p>If you like the podcast, please <a href="https://podcasts.apple.com/us/podcast/write-now-with-scrivener/id1568550068" target="_blank">follow it in Apple Podcasts</a> or your favorite podcast app. Leave a rating or review, and tell your friends. And check out past episodes of <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+
+<p>&nbsp;</p>
+
+
+<p>Natasha Bell has written two novels, and is a creative writing teacher with a PhD in Autofiction. It took her eight years to finish her first novel, after having started writing it then putting it aside. When she started a Master&rsquo;s course in Creative and Life Writing, &ldquo;it was still kind of bugging me. So I ended up working on that a little bit. I submitted the first book for the anthology that we sent out to agents and editors. I got quite a bit of response from agents, and that kicked me back into gear. I signed with an agent and got an editor for that.&rdquo;</p>
+
+<p>This shows how starting a piece of fiction, then setting it aside for a while, can help grow that story. &ldquo;If you put a novel aside and you&rsquo;re never thinking about it again, then it probably needs to stay there. But if those characters are really bugging you, tapping you on your shoulder, then you need to return to them.&rdquo;</p>
+
+<p>Natasha works teaching creative writing, and I pointed out that there is a trope that creative writing cannot be taught, though that has changed in recent decades. Natasha said, &ldquo;my attitude as a tutor is that we&rsquo;re all in this together; writing is a set of problems to be solved. You&rsquo;re always faced with problems, however experienced you are, you&rsquo;re still having to figure out these things and do a lot of creative problem-solving.&rdquo;</p>
+
+<p>Nevertheless, there is no recipe to teaching creative writing. So many elements in writing are interrelated, and it&rsquo;s hard to grasp them all. Natasha said, &ldquo;There&rsquo;s good advice when it comes to teaching writing, but you sometimes need to hear those at specific moments. Someone can tell you until they&rsquo;re blue in the face that you should try and show not tell, which obviously, we can critique that as a piece of advice anyway. But until you&rsquo;re faced with a particular kind of challenge within your own narrative, applying that to fixes, you&rsquo;re not going to really learn that on a deep level. We can read dozens of books telling us exactly how to structure our novels or how to kind of polish our sentences, but you can&rsquo;t take it all in at once. You can only take one thing at a time when it reaches you at the right moment.&rdquo;</p>
+
+<p>Natasha has long used Scrivener, and said, &ldquo;What I find Scrivener amazing for is the earliest stages, starting to write, vomiting out all of your ideas, collating the research, moving things around, changing point of view. Because you can have everything in one place, it&rsquo;s such a good place to experiment with and to move structure around.&rdquo;</p>
+
+<p>Natasha also said, &ldquo;The Corkboard is amazing, because that&rsquo;s what I do on my floor anyway with note cards, so it&rsquo;s nice to be able to visualize it like that. Being able to label chapters, use the icons, move them into folders, move them around. The different functionality of comments, being able to change the colors or label them as different types. But then also being able to turn all of that off and then just look in Composition Mode. So being able to react to where you are in the writing process and what you need on a particular day is really useful.&rdquo;</p>
+
+<p>Natasha does a lot of revision, and Scrivener helps with that. &ldquo;There&rsquo;s something for me about the labor of moving things, compiling things, rewriting even for both my published novels at quite a late stage. I have rewritten them word for word, because it&rsquo;s part of the editing process. I quite like the analog versions of moving things back and forth.&rdquo;</p>
+
+<p>I asked if she meant that she retyped the entire manuscript, and she said, &ldquo;Yeah, it really forces you to think, &lsquo;okay, does this word need to be here?&rsquo; You&rsquo;re asking a reader to read every single word you&rsquo;ve written. Once you get to kind of that almost final draft, you&rsquo;re so numb to everything, you&rsquo;re not even reading your whole sentences because you know them so well. So I think forcing yourself to engage with your work again on the sentence level and think about, &lsquo;what am I asking the reader to spend their time engaging with? And is it? Is it worth it? Is this sentence really earning its weight?&rsquo;&rdquo;</p>
+
+<p>Finally, I asked how Natasha separated her writing time from her teaching time. &ldquo;With difficulty. But the pleasure of teaching is that I get to spend my days talking to people about writing, and craft, and narrative. So all of that feeds into my own writing.&rdquo;</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+ 
+
+<https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-41-natasha-bell-thriller-author-and-creative-writing-teacher>
+
+---
+
+## BSFS Contest Honors Miller
+
+date: 2024-08-06, from: Locus Magazine
+
+<p dir="ltr">The Baltimore Science Fiction Society has announced that the annual BSFS Annual Poetry Contest has been renamed in honor of late SF author Steve Miller, who died in February 2024. The contest will henceforth be known as the Steve Miller BSFS Annual Poetry Contest.</p>
+<p dir="ltr">The BSFS membership voted to rename the contest with the support of Miller&#8217;s widow and collaborator Sharon Lee.</p>
+
+<p dir="ltr">The poetry contest was founded in 2008, and  <a href="https://locusmag.com/2024/08/bsfs-contest-honors-miller/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/bsfs-contest-honors-miller/>
+
+---
+
+## Magazines Received – July
+
+date: 2024-08-06, from: Locus Magazine
+
+<div class="blockquote">This list covers new SF/F/H print, online, and electronic periodicals (including regularly updated websites) seen by Locus magazine, focusing on those that publish fiction or reviews and criticism. To submit titles for listing on these pages, please send to Locus Publications, 655 13th St. #100, Oakland CA 94612 or email locus@locusmag.com.</div>
+<div>
+<div class="mynomorebulletlist">
+
+<p>Analog Science Fiction and Fact</p>
+<ul>
+<li>Trevor Qua­chri, ed.</li>
+<li>Vol. 94 Nos. 7 &#38; 8, July/August 2024, $8.99, bimonthly, 208pp, </li></ul></div></div> <a href="https://locusmag.com/2024/08/magazines-received-july-3/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/magazines-received-july-3/>
+
+---
+
+## 2024 Premio Italia Finalists
+
+date: 2024-08-06, from: Locus Magazine
+
+<p>Finalists for the 2024 Premio Italia Awards have been announced:</p>
+<div class="mynomorebulletlist">
+<p><strong>International SF Novel</strong></p>
+<ul>
+<li><strong>Le navi d’ossa </strong>[<strong>The Bone Ships</strong>], R.J. Barker (Meridiano Zero – Elara)</li>
+<li><strong>L’archivio dei finali alternativi </strong>[<strong>The Archive of Alternate Endings</strong>]<strong>,</strong> Lindsey Drager (Zona42)</li>
+<li><strong>The Kaiju Preservation Society</strong>, John Scalzi (Fanucci Editore)</li>
+<li><strong>Fattore Rh</strong>, Charles Stross (Mondadori)</li>
+<li><strong>Project Hail Mary,</strong> Andy Weir (Mondadori)</li>
+</ul>
+<p><strong>Science Fiction Novel</strong></p>
+<ul>
+<li><strong>Per le ceneri dei </strong></li></ul></div> <a href="https://locusmag.com/2024/08/2024-premio-italia-finalists/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/2024-premio-italia-finalists/>
+
+---
+
+## 'Wonderland' Writer/Director Tells You How to Survive a Screenwriting Career
+
+date: 2024-08-06, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/wonderland-writer-director-tells-you-how-to-survive-a-screenwriting-career" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Visionary%20Writer_Director%20James%20Cox%20Releases%20Futuristic%20Book%20Grand%20Theft%20AI.png" alt="'Wonderland' Writer/Director Tells You How to Survive a Screenwriting Career" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Writer/director James Cox has had an incredibly successful career as a filmmaker, making movies such as <em>Wonderland, Straight A’s,</em> and <em>Billionaire Boys Club</em>.</p> 
+<p>While fairy tales can come true, the film business can be a rollercoaster even for the most brilliant and talented artists. But Cox is also resilient and has learned how to hang on – sometimes for dear life - during the ups and downs. A visionary storyteller and master world-builder, Cox has just released his first novel, <em>Grand Theft AI</em>. Part <em>The Matrix</em>, part <em>Blade Runner</em>, part personal inventory of inner demons, the book takes the reader on a wild, futuristic ride that embraces our fears of the digital world while instilling hope in humanity.</p> 
+
+<https://blog.finaldraft.com/wonderland-writer-director-tells-you-how-to-survive-a-screenwriting-career>
+
+---
+
+## 2024 Dragon Awards Ballot
+
+date: 2024-08-06, from: Locus Magazine
+
+<p>Dragon Con has announced the ballot for the 2024 Dragon Awards.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Science Fiction Novel</strong></p>
+<ul>
+<li><strong>The Jinn-Bot of Shantiport</strong>, Samit Basu (Tordotcom)</li>
+<li><strong>The Saint of Bright Doors</strong>, Vajra Chandrasekera (Tordotcom)</li>
+<li><strong>Theft of Fire</strong>, Devon Eriksen (self-published)</li>
+<li><strong>These Burning Stars</strong>, Bethany Jacobs (Orbit US; Orbit UK)</li>
+<li><strong>Beyond the Ranges</strong>, John Ringo &#38; James Aidee (Baen)</li>
+<li><strong>Starter Villain</strong>, John Scalzi (Tor; Tor UK)</li>
+<li><strong>System Collapse</strong>, </li></ul></div> <a href="https://locusmag.com/2024/08/2024-dragon-awards-ballot/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/2024-dragon-awards-ballot/>
+
+---
+
+## New Books, 6 August 2024
+
+date: 2024-08-06, from: Locus Magazine
+
+<p>Anderson, Leslie J.: <b>The Unmothers</b>
+(Quirk Books 9781683694298, $18.99, 320pp, formats: trade paperback, ebook, audio, 08/06/2024)</p>
+<p>Folk horror novel. After the death of her husband, and involvement in her own terrible accident, a journalist is sent to a small, backwards town to investigate the rumor that a horse has given birth to a human baby boy. Thinking the story is clearly ridiculous, she goes to investigate and finds two horribly  <a href="https://locusmag.com/2024/08/new-books-6-august-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/new-books-6-august-2024/>
 
 ---
 

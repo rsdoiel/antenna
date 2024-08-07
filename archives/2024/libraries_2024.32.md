@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.32
-updated: 2024-08-06 08:33:46
+updated: 2024-08-07 08:30:35
 ---
 
 # libraries 2024.32
 
-(date: 2024-08-06 08:33:46)
+(date: 2024-08-07 08:30:35)
+
+---
+
+## Guest Post — Never Waste a Good Crisis: A Conversation with Klaas Sijtsma, Former Rector Magnificus of Tilburg University
+
+date: 2024-08-07, from: Scholarly Kitchen
+
+<p>An interview with Klaas Sijtsma discussing the importance of statistical analysis in research integrity.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/08/07/guest-post-never-waste-a-good-crisis-a-conversation-with-klaas-sijtsma-former-rector-magnificus-of-tilburg-university/">Guest Post &#8212; Never Waste a Good Crisis: A Conversation with Klaas Sijtsma, Former Rector Magnificus of Tilburg University</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/08/07/guest-post-never-waste-a-good-crisis-a-conversation-with-klaas-sijtsma-former-rector-magnificus-of-tilburg-university/>
 
 ---
 
