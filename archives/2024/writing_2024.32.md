@@ -1,11 +1,45 @@
 ---
 title: writing 2024.32
-updated: 2024-08-07 08:30:34
+updated: 2024-08-07 15:20:32
 ---
 
 # writing 2024.32
 
-(date: 2024-08-07 08:30:34)
+(date: 2024-08-07 15:20:32)
+
+---
+
+## Galaxy Revival
+
+date: 2024-08-07, from: Locus Magazine
+
+<p></p>
+<p>Starship Sloane Publishing has announced the revival of classic SF magazine Galaxy Science Fiction, originally published from 1950-80, with a brief revival in the &#8217;90s.</p>
+<p>The journal is being brought back in both print and digital form &#8220;for a contemporary audience, featuring both authors from its original run and beyond into today’s global SF landscape, with works spanning seven countries.&#8221;</p>
+<p>Authors and artists include Eugen Bacon, F.J. Bergmann, Eliane Boey,  <a href="https://locusmag.com/2024/08/galaxy-revival/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/galaxy-revival/>
+
+---
+
+## 💲 Good day jobs for writers (and others)
+
+date: 2024-08-07, from: Interesting, a blog on writing
+
+Finding work that lets you do The Work. 
+
+<https://inneresting.substack.com/p/good-day-jobs-for-writers-and-others>
+
+---
+
+## Colleen Mondor Reviews Infinity Alchemist by Kacen Callender
+
+date: 2024-08-07, from: Locus Magazine
+
+<p><strong>Infinity Alchemist</strong>, Kacen Callender (Tor Teen 978-1-250-89025-2, $19.99, hc, 400pp) February 2024.</p>
+<p>In the annals of magical instruction, Kacen Cal­lender’s <strong>Infinity Alchemist </strong>should definitely be in the running for containing the worst bunch of adults ever. Supposedly a place to learn the science of alchemy, Lancaster College is more of a place to plot and plan to take over the world. Ash wants in because it’s the only way  <a href="https://locusmag.com/2024/08/colleen-mondor-reviews-infinity-alchemist-by-kacen-callender/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/colleen-mondor-reviews-infinity-alchemist-by-kacen-callender/>
 
 ---
 

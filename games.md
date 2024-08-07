@@ -1,11 +1,101 @@
 ---
 title: games 2024.32
-updated: 2024-08-07 08:30:34
+updated: 2024-08-07 15:20:32
 ---
 
 # games 2024.32
 
-(date: 2024-08-07 08:30:34)
+(date: 2024-08-07 15:20:32)
+
+---
+
+## What is the Fortunate Star bow god roll in Destiny 2’s Solstice 2024
+
+date: 2024-08-07, updated: 2024-08-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24215570/fortunate-star-god-roll-bow-void>
+
+---
+
+## See Link speak! Save more than 50% on The Legend of Zelda complete manga box set
+
+date: 2024-08-07, updated: 2024-08-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/2024/8/7/24215560/legend-of-zelda-manga-box-set>
+
+---
+
+## Interstellar’s IMAX rerelease wasn’t canceled over destroyed prints, despite viral rumors
+
+date: 2024-08-07, updated: 2024-08-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24215607/interstellar-imax-release-december-2024-release-date>
+
+---
+
+## Take advantage of these Keychron keyboard discounts while they last
+
+date: 2024-08-07, updated: 2024-08-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24215473/woot-keychron-mechanical-keyboard-deal-sale>
+
+---
+
+## Why was Magic School simultaneously announced and canceled? For once, we actually know
+
+date: 2024-08-07, updated: 2024-08-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24215274/magic-school-dinosaur-polo-club-canceled-interview>
+
+---
+
+## Olympic shooting competitions need to become an anime already
+
+date: 2024-08-07, updated: 2024-08-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24214634/olympic-shooting-events-memes-anime-yusuf-dikec>
+
+---
+
+## Chicory made Lena Raine’s dream to write an RPG theme song come true
+
+date: 2024-08-07, updated: 2024-08-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24214661/chicory-music-lena-raine-rpg-theme-song-interview>
+
+---
+
+## Fortnite to remove FOMO from future battle passes
+
+date: 2024-08-07, updated: 2024-08-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24215355/fortnite-battle-pass-exclusive-skins-return-store-epic-games>
+
+---
+
+## Baldur’s Gate 3’s Honour Mode is so hard, less than 12% of people beat it
+
+date: 2024-08-07, updated: 2024-08-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24215305/baldurs-gate-3-honour-mode-stats-one-year-anniversary>
 
 ---
 

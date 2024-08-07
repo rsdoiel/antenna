@@ -1,123 +1,111 @@
 ---
 title: tech likely 2024.32
-updated: 2024-08-07 08:30:32
+updated: 2024-08-07 15:20:31
 ---
 
 # tech likely 2024.32
 
-(date: 2024-08-07 08:30:32)
+(date: 2024-08-07 15:20:31)
 
 ---
 
-##  The theme for the Cooper Hewitt&#8217;s upcoming Design Triennial (in collaboration with... 
+## Column Order in SQL Tables
 
-date: 2024-08-07, updated: 2024-08-07, from: Jason Kottke blog
+date: 2024-08-07, from: Ocelot SQL GUI blog
 
- 
+Read The language rules we know – but don’t know we know which says &#8220;Adjectives in English absolutely have to be in this order: opinion-size-age-shape-colour-origin-material-purpose Noun.&#8221; Then you&#8217;ll know this is correct: CREATE TABLE little_girls ( grade FLOAT, height SMALLINT, birth DATE, fatness BLOB, hair SET('blond','black'), previous_school VARCHAR(64), is_made_of_sugar_and_spice_and_everything_nice BOOL, reason_for_existence TEXT DEFAULT 'thank heaven');&#8230; <a class="continue" href="https://ocelot.ca/blog/blog/2024/08/07/column-order-in-sql-tables/">Continue Reading Column Order in SQL Tables</a> 
 
-<https://kottke.org/24/08/0045079-the-theme-for-the-cooper>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2024-08-07, from: Miguel de Icaza Mastondon feed)
-
-<p>It is now Wikipedia official, after a long and painful debate.</p><p>It is a genocide.   </p><p><a href="https://en.wikipedia.org/wiki/Gaza_genocide" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">en.wikipedia.org/wiki/Gaza_gen</span><span class="invisible">ocide</span></a></p><p>Sidebar: and it is so, because the US has ensured that it will continue to be funded and will do everything in its power to let it continue.</p> 
-
-<https://mastodon.social/@Migueldeicaza/112921296260544982>
+<https://ocelot.ca/blog/blog/2024/08/07/column-order-in-sql-tables/>
 
 ---
 
-## OpenAI: On a Path to Becoming The World’s Most Frightening Surveillance Company?
+## Safari Distraction Control
 
-date: 2024-08-07, from: Gary Marcus blog
+date: 2024-08-07, from: Michael Tsai
 
-&#9888;&#65039; Something terrifying just snapped in place: 
+Ivan Mehta (Hacker News): Safari&#8217;s newest feature, Distraction Control, can remove distracting elements from a website. The feature follows Arc Browser&#8217;s addition of Boosts last year, which similarly lets users remove features from a site and further customize its appearance.Apple is rolling out the early version of the feature this week through new developer betas [&#8230;] 
 
-<https://garymarcus.substack.com/p/openai-on-a-path-to-becoming-the>
-
----
-
-## Physicists Pinpoint the Quantum Origin of the Greenhouse Effect
-
-date: 2024-08-07, from: Quanta Magazine
-
-Carbon dioxide’s powerful heat-trapping effect has been traced to a quirk of its quantum structure. The finding may explain climate change better than any computer model.            <p>The post <a href="https://www.quantamagazine.org/physicists-pinpoint-the-quantum-origin-of-the-greenhouse-effect-20240807/" target="_blank">Physicists Pinpoint the Quantum Origin of the Greenhouse Effect</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
-
-<https://www.quantamagazine.org/physicists-pinpoint-the-quantum-origin-of-the-greenhouse-effect-20240807/>
+<https://mjtsai.com/blog/2024/08/07/safari-distraction-control/>
 
 ---
 
-##  55 Things to Know About Tim Walz 
+## Inside Apple Arcade
 
-date: 2024-08-07, updated: 2024-08-07, from: Jason Kottke blog
+date: 2024-08-07, from: Michael Tsai
 
- 
+Neil Long: Some studios now wait up to six months to get paid, which almost put one indie dev out of businessThe Apple Arcade team do not respond to routine emails for weeks or even months, if they respond at allOne developer who had semi-regular meetings with the tech giant said that &#8220;half the Apple [&#8230;] 
 
-<https://kottke.org/24/08/55-things-to-know-about-tim-walz>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/04/butHerEmails.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">When I see a reference to an evil NYT piece, I RT it with a simple message: Ignore the NY Times. It's relaxing. You don't have to do something about it, in fact it says the opposite. Do nothing. It works on all social nets, and for any news org that's promoting lies, ignoring relevant facts, against the interest of the US. Find new ways to get informed. And if you can't find them, start one. And we can find each other. 
-
-<http://scripting.com/2024/08/07.html#a140432>
+<https://mjtsai.com/blog/2024/08/07/inside-apple-arcade/>
 
 ---
 
-**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
+## Twitter for Mac Dead Again
 
-The <a href="https://www.threads.net/@davew/post/C-Xr_dcp8Vn">Bruce Springsteen</a> mention at last night's rally was no accident. Boomers are now of the age where we vote in great numbers. So our feeling like there's something here for us might make the difference in one or more of the swing states. 
+date: 2024-08-07, from: Michael Tsai
 
-<http://scripting.com/2024/08/07.html#a140039>
+Zac Hall: As noted by Vedant, the official Twitter for Mac app is currently missing from the Mac App Store. While it hasn&#8217;t been confirmed, the most obvious guess is that X, formerly Twitter, finally got around to delisting the abandoned software.Twitter for Mac has been abandoned and rebuilt over the years long before Elon [&#8230;] 
 
----
-
-**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
-
-Last night's Democratic rally was wonderful. I was laughing and sobbing all the way through it. What an emotional release. We needed and deserved this. Beyond hope, we're finally going to fight. I hope President Kamala is really up to it, because we have a pretty substantial cleanup job to do here. 
-
-<http://scripting.com/2024/08/07.html#a134011>
+<https://mjtsai.com/blog/2024/08/07/twitter-for-mac-dead-again/>
 
 ---
 
-## I Am Artemis: Julia Khodabandeh
+## Discontinuing Spotify’s Car Thing
+
+date: 2024-08-07, from: Michael Tsai
+
+Chris Welch (via John Gruber): Spotify&#8217;s brief attempt at being a hardware company wasn&#8217;t all that successful: the company stopped producing its Car Thing dashboard accessory less than a year after it went on sale to the public. And now, two years later, the device is about to be rendered completely inoperable. Customers who bought [&#8230;] 
+
+<https://mjtsai.com/blog/2024/08/07/discontinuing-spotifys-car-thing/>
+
+---
+
+## Here’s How Curiosity’s Sky Crane Changed the Way NASA Explores Mars
 
 date: 2024-08-07, from: NASA breaking news
 
-Unlike most of her friends in the 80s who covered their walls with posters of bands, Julia Khodabandeh plastered hers with posters of rockets and fighter jets. Khodabandeh’s interest in aerospace and aeronautics developed at a young age. Her parents were avid fans of the Apollo Program and were heavily invested in her education. Khodabandeh’s [&#8230;] 
+Twelve years ago, NASA landed its six-wheeled science lab using a daring new technology that lowers the rover using a robotic jetpack. NASA’s Curiosity rover mission is celebrating a dozen years on the Red Planet, where the six-wheeled scientist continues to make big discoveries as it inches up the foothills of a Martian mountain. Just [&#8230;] 
 
-<https://www.nasa.gov/image-article/i-am-artemis-julia-khodabandeh/>
-
----
-
-## Paradise Jost
-
-date: 2024-08-07, updated: 2024-08-07, from: One Foot Tsunami
-
- 
-
-<https://onefoottsunami.com/2024/08/07/paradise-jost/>
+<https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/heres-how-curiositys-sky-crane-changed-the-way-nasa-explores-mars/>
 
 ---
 
-## Developing a cryptographically secure bootloader for RISC-V in Rust
+## The Marshall Star for August 7, 2024
+
+date: 2024-08-07, from: NASA breaking news
+
+NASA Additive Manufacturing Project Shapes Future for Agency, Industry Rocket Makers The widespread commercial adoption of additive manufacturing technologies, commonly known as 3D printing, is no surprise to design engineers at NASA’s Marshall Space Flight Center whose research created stronger, lighter weight materials and new manufacturing processes to make rocket parts. NASA’s RAMPT (Rapid Analysis [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-august-7-2024/>
+
+---
+
+## macOS Sequoia makes it harder to override Gatekeeper security
 
 date: 2024-08-07, from: OS News
 
-It seems to be bootloader season, because we&#8217;ve got another one &#8211; this time, a research project with very limited application for most people. SentinelBoot is a cryptographically secure bootloader aimed at enhancing boot flow safety of RISC-V through memory-safe principles, predominantly leveraging the Rust programming language with its ownership, borrowing, and lifetime constraints. Additionally, SentinelBoot employs public-key cryptography to verify the integrity of a booted kernel (digital signature), by the use of the RISC-V Vector Cryptography extension, establishing secure boot functionality. SentinelBoot achieves these objectives with a 20.1% hashing overhead (approximately 0.27s additional runtime) when compared to an example U-Boot binary (mainline at time of development), and produces a resulting binary one-tenth the size of an example U-Boot binary with half the memory footprint. ↫ Lawrence Hunter SentinelBoot is a project undertaken at the University of Manchester, and its goal is probably clear from the description: to develop a more secure bootloader for RISC V devices. An additional element is that they looked specifically at devices that receive updates over-the-air, like smartphones. In addition, scenarios where an attacker has physical access to the device in question were not considered, for obvious reasons &#8211; in such cases, the attacker can just replace the bootloader altogether anyway, and no amount of fancy Rust code is going to save you there. The details of the implementation as described in the article are definitely a little bit over my head, but the gist seems to be that the project&#8217;s been able to achieve a much more secure boot process without giving up much in performance. This being a research project with an intentionally limited scope does mean it&#8217;s most just something that&#8217;ll immediately benefit all of us, but it&#8217;s these kinds of projects that can really push the state of the art and try out the viability of new ideas. 
+Speaking of an operating system for toddlers: Apple is eliminating the option to Control-click to open Mac software that is not correctly signed or notarized in ‌macOS Sequoia‌. To install apps that Gatekeeper blocks, users will need to open up System Settings and go to the Privacy and Security section to &#8220;review security information&#8221; before being able to run the software. ↫ Juli Clover at MacRumors On a related note, I&#8217;ve got an exclusive photo of the next MacBook Pro. 
 
-<https://www.osnews.com/story/140437/developing-a-cryptographically-secure-bootloader-for-risc-v-in-rust/>
+<https://www.osnews.com/story/140446/macos-sequoia-makes-it-harder-to-override-gatekeeper-security/>
 
 ---
 
-## the state and the people
+## macOS Sequia will nag you every week if you have screenshot apps and screen recorders installed
 
-date: 2024-08-07, from: Ayjay blog
+date: 2024-08-07, from: OS News
 
-A few years ago I published an essay called “Miss Marple and the Problem of Modern Identity,” in which I described the rise of certain technologies by which people have become “legible” to the state. At that point I had not read a classic, though a somewhat controversial classic, of history, A. J. P. Taylor’s [&#8230;] 
+With macOS Sequoia this fall, using apps that need access to screen recording permissions will become a little bit more tedious. Apple is rolling out a change that will require you to give explicit permission on a weekly basis to these types of apps, and every time you reboot your Mac. If you’ve been using the macOS Sequoia beta this summer in conjunction with a third-party screenshot or screen recording app, you’ve likely been prompted multiple times to continue allowing that app access to your screen. While many speculated this could be a bug, that’s not the case. ↫ Chance Miller Everybody is making comparisons to Windows Vista, but I don&#8217;t think that&#8217;s fair at all. Windows Vista suffered from an avelanche of permission dialogs because the wider Windows application, driver, and peripheral ecosystem was not at all used to the security boundaries present in Windows NT being enforced. Vista was the first consumer-focused version of Windows that started doing this, and after a difficult transition period, the flood of dialogs settled down, and for a long time now you can blame Windows for a lot of things, but it&#8217;s definitely not throwing up more permission dialogs than, say, an average desktop-focused Linux distribution. In other words, Vista&#8217;s UAC dialogs were a desperately necessary evil, an adjustment period the Windows ecosystem simply had to go through, and Windows as a whole is better off for it today. This, however, is different. This is Apple having such a low opinion of its users, and such a deep disregard for basic usability and computer ownership, that it feels entirely okay with bothering its users with weekly &#8211; or more, if you tend to reboot &#8211; nag dialogs for applications the user has already properly given permission to. I don&#8217;t have any real issues with a reminder or permission dialog upon first launching a newly installed screen recording application &#8211; or when an exisiting application gains this functionality in an update &#8211; but nagging users weekly is just beyond insanity. More and more it feels like macOS is becoming an operating system for toddlers &#8211; or at least, that&#8217;s how Apple seems to view its users. 
 
-<https://blog.ayjay.org/the-state-and-the-people/>
+<https://www.osnews.com/story/140442/macos-sequia-will-nag-you-every-week-if-you-have-screenshot-apps-and-screen-recorders-installed/>
+
+---
+
+##  How Technology Is Making Olympic Mountain Bikers Faster 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/how-technology-is-making-olympics-mountain-bikers-faster>
 
 ---
 
@@ -272,9 +260,250 @@ There is a bug in the u-boot offset which will make your pocket unbootable if yo
 
 <p>Andy&rsquo;s post had a screenshot showing the fediverse client <a href="https://tuba.geopjr.dev/">Tuba</a> which is available on Debian testing. Nice! I&rsquo;ll give it a try.</p>
 
-<p>Tuba requires a &ldquo;login&rdquo; keyring so I had to install <code>seahorse</code> also known as &ldquo;Passwords and Keys&rdquo;.</p> 
+<p>Tuba requires a &ldquo;login&rdquo; keyring so I had to install <code>seahorse</code> also known as &ldquo;Passwords and Keys&rdquo;.</p>
+
+<p>Back to small things to watch out for. When I run <code>apt update</code> it ends with a notice saying: &ldquo;Missing Signed-By in the sources.list(5) entry for <code>https://mnt.re/reform-debian-repo</code>&rdquo;</p> 
 
 <https://alexschroeder.ch/view/2024-08-06-pocket-reform>
+
+---
+
+##  Yes, the &#8220;ope!&#8221; explainer that America needs right now. As a native... 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045084-yes-the-ope-explainer-tha>
+
+---
+
+## NASA Optical Navigation Tech Could Streamline Planetary Exploration
+
+date: 2024-08-07, from: NASA breaking news
+
+In a dim, barren landscape like the surface of the Moon, it can be easy to get lost. With few discernable landmarks to navigate with the naked eye, astronauts and rovers must rely on other means to plot a course. As NASA pursues its Moon to Mars missions, encompassing exploration of the lunar surface and [&#8230;] 
+
+<https://www.nasa.gov/technology/goddard-tech/nasa-optical-navigation-tech-could-streamline-planetary-exploration/>
+
+---
+
+## Carving Canyons
+
+date: 2024-08-07, from: NASA breaking news
+
+Erosion, tectonic uplift, and a human-built dam have all helped shape the Upper Lake Powell area in Utah. This astronaut photograph was acquired on July 28, 2023, with a Nikon D5 digital camera using a focal length of 1,150 millimeters. It is provided by the ISS Crew Earth Observations Facility and the Earth Science and [&#8230;] 
+
+<https://www.nasa.gov/image-article/carving-canyons/>
+
+---
+
+##  The Undisguised Extremism of the Republican Party 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/the-undisguised-extremism-of-the-republican-party>
+
+---
+
+## Chrome will let you shop with “AI”
+
+date: 2024-08-07, from: OS News
+
+When you&#8217;re shopping online, you’ll likely find yourself jumping between multiple tabs to read reviews and research prices. It can be cumbersome doing all that back and forth tab switching, and online comparison is something we hear users want help with. In the next few weeks, starting in the U.S., Chrome will introduce Tab compare, a new feature that presents an AI-generated overview of products from across multiple tabs, all in one place. Imagine you&#8217;re looking for a new Bluetooth portable speaker for an upcoming trip, but the product details and reviews are spread across different pages and websites. Soon, Chrome will offer to generate a comparison table by showing a suggestion next to your tabs. By bringing all the essential details — product specs, features, price, ratings — into one tab, you’ll be able to easily compare and make an informed decision without the endless tab switching. ↫ Parisa Tabriz Is this really what people want from their browser, or am I just completely out of touch? I&#8217;m not at all convinced the latter isn&#8217;t the case, but this just seems like a filler feature. Is this really what all the AI hype is about? Is this kind of nonsense the end game we&#8217;re killing the planet even harder for? 
+
+<https://www.osnews.com/story/140439/chrome-will-let-you-shop-with-ai/>
+
+---
+
+## Digital nudges
+
+date: 2024-08-07, from: Manu - I write blog
+
+
+                <p>I design and code things for the web. I build them for myself, for friends, and clients. In doing that I have to make assumptions about how people behave. Because websites aren’t—usually—art pieces. They’re tools, used by people. People like yourself. And let me tell you: you’re quite unpredictable. When I build things for myself, I’m guided by a series of very simple principles:</p>
+<ul>
+<li>Don’t waste their time</li>
+<li>Don’t make things complicated for no reason</li>
+<li>Don’t add pointless distractions</li>
+</ul>
+<p>The problem though, is that my way of experiencing the web is skewed by the fact that I spend almost all my days working on this damn thing. And so my assumptions on how people behave are sometimes incredibly wrong.</p>
+<p>For example: the other day someone got in touch and asked if there’s a way to support what I do (<a href="https://ko-fi.com/manuelmoreale">there is</a>). This link is present on literally every single page of my site, just below the end of the content. It’s also present in every single post in my RSS feed. And yet, some people don’t see it.</p>
+<p>The same story is true for my <a href="https://manuelmoreale.com/guestbook">guestbook</a>. The link to it is right there, just below the end of this post. And yet, every time I mention it directly in a post, a bunch of people sign it, as if it’s the first time they see it mentioned even though there’s a link to it in every single post on this site.</p>
+<p>And every time something like this happens I’m left wondering if my assumptions about what people notice on a site are just plain wrong. Maybe there’s a reason why creators in other types of media keep repeating the same damn thing—like and subscribe, leave a review—at every occasion. Maybe the attention span online is so low that you need to repeat something a thousand times before one goes through. Which is... sad? I don’t know, part of me refuses to believe this because I have high hopes for you all out there. I think we’re all collectively better than this.</p>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/FZdk7LxXYeqSnf6V>
+
+---
+
+##  Utah is basically burning books now. &#8220;State has ordered books by 13... 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045082-utah-is-basically-burning>
+
+---
+
+##  Why the word &#8220;Taiwan&#8221; is banned at the Olympics. &#8220;Taiwan is one... 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045081-why-the-word-taiwan-is>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
+
+<a href="https://x.com/davewiner/status/1821209204977189268">Timothy Snyder</a>: "If JD Vance really were a normal midwestern guy he’d be very respectful of someone like Tim Walz." 
+
+<http://scripting.com/2024/08/07.html#a160344>
+
+---
+
+## Announcing Official Puppeteer Support for Firefox
+
+date: 2024-08-07, from: Mozilla Developer Network blog
+
+<p>We’re pleased to announce that, as of version 23, the Puppeteer browser automation library now has first-class support for Firefox. This means that it’s now easy to write automation and perform end-to-end testing using Puppeteer, and run against both Chrome and Firefox.</p>
+<p>The post <a href="https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/">Announcing Official Puppeteer Support for Firefox</a> appeared first on <a href="https://hacks.mozilla.org">Mozilla Hacks - the Web developer blog</a>.</p>
+ 
+
+<https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/>
+
+---
+
+##  The World&#8217;s First Medieval Electronic Instrument 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/the-worlds-first-medieval-electronic-instrument>
+
+---
+
+##  The theme for the Cooper Hewitt&#8217;s upcoming Design Triennial (in collaboration with... 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/0045079-the-theme-for-the-cooper>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-08-07, from: Miguel de Icaza Mastondon feed)
+
+<p>It is now Wikipedia official, after a long and painful debate.</p><p>It is a genocide.   </p><p><a href="https://en.wikipedia.org/wiki/Gaza_genocide" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">en.wikipedia.org/wiki/Gaza_gen</span><span class="invisible">ocide</span></a></p><p>Sidebar: and it is so, because the US has ensured that it will continue to be funded and will do everything in its power to let it continue.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112921296260544982>
+
+---
+
+## OpenAI: On a Path to Becoming The World’s Most Frightening Surveillance Company?
+
+date: 2024-08-07, from: Gary Marcus blog
+
+&#9888;&#65039; Something terrifying just snapped in place: 
+
+<https://garymarcus.substack.com/p/openai-on-a-path-to-becoming-the>
+
+---
+
+## Physicists Pinpoint the Quantum Origin of the Greenhouse Effect
+
+date: 2024-08-07, from: Quanta Magazine
+
+Carbon dioxide’s powerful heat-trapping effect has been traced to a quirk of its quantum structure. The finding may explain climate change better than any computer model.            <p>The post <a href="https://www.quantamagazine.org/physicists-pinpoint-the-quantum-origin-of-the-greenhouse-effect-20240807/" target="_blank">Physicists Pinpoint the Quantum Origin of the Greenhouse Effect</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/physicists-pinpoint-the-quantum-origin-of-the-greenhouse-effect-20240807/>
+
+---
+
+##  55 Things to Know About Tim Walz 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/08/55-things-to-know-about-tim-walz>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/04/butHerEmails.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">When I see a reference to an evil NYT piece, I RT it with a simple message: Ignore the NY Times. It's relaxing. You don't have to do something about it, in fact it says the opposite. Do nothing. It works on all social nets, and for any news org that's promoting lies, ignoring relevant facts, against the interest of the US. Find new ways to get informed. And if you can't find them, start one. And we can find each other. 
+
+<http://scripting.com/2024/08/07.html#a140432>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
+
+The <a href="https://www.threads.net/@davew/post/C-Xr_dcp8Vn">Bruce Springsteen</a> mention at last night's rally was no accident. Boomers are now of the age where we vote in great numbers. So our feeling like there's something here for us might make the difference in one or more of the swing states. 
+
+<http://scripting.com/2024/08/07.html#a140039>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
+
+Last night's Democratic rally was wonderful. I was laughing and sobbing all the way through it. What an emotional release. We needed and deserved this. Beyond hope, we're finally going to fight. I hope President Kamala is really up to it, because we have a pretty substantial cleanup job to do here. 
+
+<http://scripting.com/2024/08/07.html#a134011>
+
+---
+
+## I Am Artemis: Julia Khodabandeh
+
+date: 2024-08-07, from: NASA breaking news
+
+Unlike most of her friends in the 80s who covered their walls with posters of bands, Julia Khodabandeh plastered hers with posters of rockets and fighter jets. Khodabandeh’s interest in aerospace and aeronautics developed at a young age. Her parents were avid fans of the Apollo Program and were heavily invested in her education. Khodabandeh’s [&#8230;] 
+
+<https://www.nasa.gov/image-article/i-am-artemis-julia-khodabandeh/>
+
+---
+
+## Paradise Jost
+
+date: 2024-08-07, updated: 2024-08-07, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/08/07/paradise-jost/>
+
+---
+
+## Developing a cryptographically secure bootloader for RISC-V in Rust
+
+date: 2024-08-07, from: OS News
+
+It seems to be bootloader season, because we&#8217;ve got another one &#8211; this time, a research project with very limited application for most people. SentinelBoot is a cryptographically secure bootloader aimed at enhancing boot flow safety of RISC-V through memory-safe principles, predominantly leveraging the Rust programming language with its ownership, borrowing, and lifetime constraints. Additionally, SentinelBoot employs public-key cryptography to verify the integrity of a booted kernel (digital signature), by the use of the RISC-V Vector Cryptography extension, establishing secure boot functionality. SentinelBoot achieves these objectives with a 20.1% hashing overhead (approximately 0.27s additional runtime) when compared to an example U-Boot binary (mainline at time of development), and produces a resulting binary one-tenth the size of an example U-Boot binary with half the memory footprint. ↫ Lawrence Hunter SentinelBoot is a project undertaken at the University of Manchester, and its goal is probably clear from the description: to develop a more secure bootloader for RISC V devices. An additional element is that they looked specifically at devices that receive updates over-the-air, like smartphones. In addition, scenarios where an attacker has physical access to the device in question were not considered, for obvious reasons &#8211; in such cases, the attacker can just replace the bootloader altogether anyway, and no amount of fancy Rust code is going to save you there. The details of the implementation as described in the article are definitely a little bit over my head, but the gist seems to be that the project&#8217;s been able to achieve a much more secure boot process without giving up much in performance. This being a research project with an intentionally limited scope does mean it&#8217;s most just something that&#8217;ll immediately benefit all of us, but it&#8217;s these kinds of projects that can really push the state of the art and try out the viability of new ideas. 
+
+<https://www.osnews.com/story/140437/developing-a-cryptographically-secure-bootloader-for-risc-v-in-rust/>
+
+---
+
+## the state and the people
+
+date: 2024-08-07, from: Ayjay blog
+
+A few years ago I published an essay called “Miss Marple and the Problem of Modern Identity,” in which I described the rise of certain technologies by which people have become “legible” to the state. At that point I had not read a classic, though a somewhat controversial classic, of history, A. J. P. Taylor’s [&#8230;] 
+
+<https://blog.ayjay.org/the-state-and-the-people/>
 
 ---
 
@@ -743,11 +972,11 @@ Crazy day gets crazier
 
 ---
 
-## Browsertrix 1.11: You can sign up now!
+## Browsertrix 1.11: Self Sign-Up, QA Improvements, Easier Downloading and new APIs
 
 date: 2024-08-06, updated: 2024-08-06, from: Web Recorder
 
-Self Serve Sign-up 
+Self Sign-up 
 
 <https://webrecorder.net//2024/08/06/browsertrix-1-11.html>
 

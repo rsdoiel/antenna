@@ -1,11 +1,31 @@
 ---
 title: journalism 2024.32
-updated: 2024-08-07 08:30:34
+updated: 2024-08-07 15:20:33
 ---
 
 # journalism 2024.32
 
-(date: 2024-08-07 08:30:34)
+(date: 2024-08-07 15:20:33)
+
+---
+
+## The Assembly aims to be a state-level, digital-first Atlantic Magazine for North Carolina
+
+date: 2024-08-07, from: Nieman Journalism Lab
+
+The outlets stepping into the breach of the United States’ local news crisis come in many shapes, sizes, and models. You have startup nonprofits; worker-owned newsrooms; for-profits, including legacy chains (for-profits still make up the majority of local news outlets today); and publications originally established with narrower coverage mandates expanding to other areas to meet... 
+
+<https://www.niemanlab.org/2024/08/the-assembly-aims-to-be-a-state-level-digital-first-atlantic-magazine-for-north-carolina/>
+
+---
+
+## Nearly half The New York Times’ digital subscribers pay for more than one Times product
+
+date: 2024-08-07, from: Nieman Journalism Lab
+
+The New York Times now has 10.2 million digital-only subscribers, and 4.8 million of them are paying for some kind of Times bundle — the news product plus at least one of The Athletic, cooking, games, or Wirecutter — the company said in its second quarter earnings report Wednesday. A few other bits from the earnings... 
+
+<https://www.niemanlab.org/2024/08/nearly-half-the-new-york-times-digital-subscribers-pay-for-more-than-one-times-product/>
 
 ---
 

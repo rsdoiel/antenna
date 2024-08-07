@@ -1,11 +1,55 @@
 ---
 title: socal north 2024.32
-updated: 2024-08-07 08:30:30
+updated: 2024-08-07 15:20:29
 ---
 
 # socal north 2024.32
 
-(date: 2024-08-07 08:30:30)
+(date: 2024-08-07 15:20:29)
+
+---
+
+## All campus gates to open Aug. 15, ID still required to enter
+
+date: 2024-08-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The McClintock Avenue and McCarthy Way entrances will be open 24 hours per day, but all other entrances will be open from 6 a.m. to 8 p.m.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/07/all-campus-gates-to-open-aug-15-id-still-required-to-enter/">All campus gates to open Aug. 15, ID still required to enter</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/07/all-campus-gates-to-open-aug-15-id-still-required-to-enter/>
+
+---
+
+## Audit: California risked millions in homelessness funds due to poor anti-fraud protections
+
+date: 2024-08-07, updated: 2024-08-07, from: The LAist
+
+A critical new federal audit calls out California for doing too little to prevent fraudulent spending of homelessness funds. Nearly $320 million was at risk. 
+
+<https://laist.com/news/housing-homelessness/audit-california-risked-millions-in-homelessness-funds-due-to-poor-anti-fraud-protections>
+
+---
+
+## Jordan Chiles of UCLA gymnastics notches Olympic bronze, her 1st individual medal
+
+date: 2024-08-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+The score popped in, and it was good enough for fifth.
+It seemed Jordan Chiles was out of luck for an individual medal.
+But then, a judging error was noticed. 
+
+<https://dailybruin.com/2024/08/07/jordan-chiles-of-ucla-gymnastics-notches-olympic-bronze-her-1st-individual-medal/>
+
+---
+
+## LAUSD board approves $9 billion bond election
+
+date: 2024-08-07, updated: 2024-08-07, from: The LAist
+
+The Los Angeles Unified School District voted unanimously put a bond that would pay for school repairs and upgrades to voters. 
+
+<https://laist.com/news/education/lausd-9-billion-dollar-bond-proposal-vote>
 
 ---
 
@@ -16,16 +60,6 @@ date: 2024-08-07, updated: 2024-08-07, from: The LAist
 Other cities give free eviction lawyers to tenants as a right. But the city of L.A. is weighing a proposal that explicitly says that won’t be guaranteed. 
 
 <https://laist.com/news/housing-homelessness/los-angeles-city-right-to-counsel-draft-city-attorney-hydee-feldstein-soto-housing-eviction-renter-tenant-landlord-attorney>
-
----
-
-## LAUSD board to consider adding $9 billion bond to November ballot
-
-date: 2024-08-07, updated: 2024-08-07, from: The LAist
-
-The Los Angeles Unified School District will vote Wednesday on whether to put the bond that would pay for school repairs and upgrades to voters. 
-
-<https://laist.com/news/education/lausd-9-billion-dollar-bond-proposal-vote>
 
 ---
 

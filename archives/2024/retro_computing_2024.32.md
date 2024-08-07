@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.32
-updated: 2024-08-07 08:30:36
+updated: 2024-08-07 15:20:34
 ---
 
 # retro computing 2024.32
 
-(date: 2024-08-07 08:30:36)
+(date: 2024-08-07 15:20:34)
+
+---
+
+## b.log 2024/08/07 - Tea v0.14.
+
+date: 2024-08-07, from: Richard Murray's blog
+
+Tea v0.14. 
+
+<https://heyrick.eu/blog/index.php?diary=20240807>
 
 ---
 

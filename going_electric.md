@@ -1,11 +1,171 @@
 ---
 title: going electric 2024.32
-updated: 2024-08-07 08:30:37
+updated: 2024-08-07 15:20:35
 ---
 
 # going electric 2024.32
 
-(date: 2024-08-07 08:30:37)
+(date: 2024-08-07 15:20:35)
+
+---
+
+## Can Hyundai’s EV hot hatch keep up with the new Tesla Model 3 in a drag race? [Video]
+
+date: 2024-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Hyundais-Tesla-Model-3-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Can <a href="https://electrek.co/guides/hyundai/">Hyundai’s</a> sporty IONIQ 5 N keep pace with the new Tesla Model 3 Performance? Hyundai’s EV hot hatch packs more horsepower, but it also weighs more. Check out the epic drag race showdown in the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5-n,tesla-model-3" data-layer-viewtype="unknown" data-post-id="374840" href="https://electrek.co/2024/08/07/hyundais-ev-hot-hatch-drag-races-new-tesla-model-3-video/#more-374840" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/07/hyundais-ev-hot-hatch-drag-races-new-tesla-model-3-video/>
+
+---
+
+## Tesla Will Install Your Cybertruck's Lightbar, But Won't Plug It In
+
+date: 2024-08-07, from: Inside EVs News
+
+Tesla will install your Cybertruck's factory lightbar but just don't ask employees to plug it in. 
+
+<https://insideevs.com/news/729391/tesla-cybertruck-lightbar-install-legal/>
+
+---
+
+## Is this what the new Tesla Model Y looks like?
+
+date: 2024-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Tesla-Model-Y-refresh-render.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A young visual artist put together some Tesla Model Y refresh renders that look like they could be pretty close to what the actual upcoming new version of the popular electric SUV will look like.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="374817" href="https://electrek.co/2024/08/07/tesla-model-y-refresh-render/#more-374817" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/07/tesla-model-y-refresh-render/>
+
+---
+
+## 2025 Mini Countryman SE ALL4 Pricing And Specs Overview
+
+date: 2024-08-07, from: Inside EVs News
+
+The model is coming to the U.S. in Fall 2024. 
+
+<https://insideevs.com/news/729369/2025-mini-countryman-se-all4-pricing-specs-overview/>
+
+---
+
+## Rivian (RIVN) stock slips after pivotal earnings: Here’s why the CEO is defending its progress
+
+date: 2024-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Rivian-costs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rivian’s (RIVN) stock is down after a “pivotal” Q2 earnings. Although it wasn’t enough to convince investors, <a href="https://electrek.co/guides/rivian/">Rivian’s</a> CEO is defending the EV maker’s progress over the past few months as it preps for its next growth stage. Here’s what Rivian’s CEO, RJ Scaringe, had to say.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="374790" href="https://electrek.co/2024/08/07/rivians-rivn-stock-falling-after-pivotal-q2-report/#more-374790" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/07/rivians-rivn-stock-falling-after-pivotal-q2-report/>
+
+---
+
+## This $900 Kia EV9 Upgrade Would Cost Thousands On A Gas Car
+
+date: 2024-08-07, from: Inside EVs News
+
+On Kia's electric family hauler, $900 will get you a lot of speed.  
+
+<https://insideevs.com/news/729404/kia-ev9-boost-download/>
+
+---
+
+## Heavy-lift drones are flying cargo to offshore wind turbines in 4 minutes
+
+date: 2024-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Orsted-heavy-lift-cargo-drones.jpg?quality=82&#038;strip=all&#038;w=1440" /></div><p>Danish renewables giant Ørsted is deploying heavy-lift cargo drones for the first time in an operational campaign at a Dutch offshore wind farm.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="drone,egeb,energy-brief,solar,offshore-wind-power" data-layer-viewtype="unknown" data-post-id="374788" href="https://electrek.co/2024/08/07/heavy-lift-cargo-drones-offshore-wind-farm/#more-374788" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/07/heavy-lift-cargo-drones-offshore-wind-farm/>
+
+---
+
+## Get $343 in free gear with Electric Bike Co. purchase, rare Maui e-bike discount, EAST OAK smokless fire pit, more
+
+date: 2024-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Electric-Bike-Co-Model-A-Chopper-e-bike.png?w=1200" /></div><p>Today’s Green Deals are all about enhancing your outdoor fun at more affordable rates, with <a href="https://9to5toys.com/2024/08/07/electric-bike-co-offers-343-in-free-gear-with-purchase-of-customized-e-bike-starting-from-1599/">Electric Bike Co. offering a special summer bundle that gives you $343 in free gear</a> along with your purchase of a customized e-bike. It is joined by an even rare price cut on <a href="https://9to5toys.com/2024/08/07/maui-bikes-offers-a-rare-chance-to-save-on-its-class-2-jack-folding-e-bike-at-1650/">Maui’s Jack Folding e-bike</a> that is now down at <a href="https://9to5toys.com/2024/08/07/maui-bikes-offers-a-rare-chance-to-save-on-its-class-2-jack-folding-e-bike-at-1650/">$1,650</a>, as well as <a href="https://9to5toys.com/2024/08/06/compliment-your-outdoor-gatherings-with-east-oaks-21-inch-smokeless-wood-burning-fire-pit-at-182-reg-270/">EAST OAK’s 21-inch wood burning Smokeless Fire Pit</a> that is seeing a massive price drop to <a href="https://9to5toys.com/2024/08/06/compliment-your-outdoor-gatherings-with-east-oaks-21-inch-smokeless-wood-burning-fire-pit-at-182-reg-270/">$182</a>, with its smaller models also seeing discounts. Plus, all the other hangover Green Deals that are still alive and well – including a one-day return on the very popular <a href="https://9to5toys.com/2024/08/07/get-a-full-detail-cleaning-with-greenworks-1900-psi-electric-pressure-washer-combo-at-100-today-only-120-off/">Greenworks 1,900 PSI Electric Pressure Washer Combo Kit</a>, <a href="https://9to5toys.com/2024/08/06/allpowers-latest-flash-sale-brings-its-r1500-lifepo4-power-station-back-to-499-save-400-more-from-79/">ALLPOWERS’ latest power station sale</a>, and a collection of <a href="https://9to5toys.com/2024/08/07/organize-your-cars-documents-key-cards-etc-with-spigens-car-registration-holder-at-23-more-from-48/">Tesla-focused accessories</a> that are seeing discounts too. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="374771" href="https://electrek.co/2024/08/07/electric-bike-co-bundle-maui-e-bike-discount-east-oak-fire-pit-more/#more-374771" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/07/electric-bike-co-bundle-maui-e-bike-discount-east-oak-fire-pit-more/>
+
+---
+
+## Chevy slashes the 2024 Silverado EV lease price by $400 a month
+
+date: 2024-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/2024-silverado-ev-gm-energy-products-01.jpg?quality=82&#038;strip=all&#038;w=1497" /></div><p>Chevy slashed lease prices for the 2024 Silverado EV by nearly $400 a month last week, but customers may still find it to be too expensive.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet,chevy-silverado-ev,ev-lease,gmc-hummer-ev" data-layer-viewtype="unknown" data-post-id="374766" href="https://electrek.co/2024/08/07/chevy-2024-silverado-ev-lease/#more-374766" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/07/chevy-2024-silverado-ev-lease/>
+
+---
+
+## Dodge officially reveals prices for its first EV, the 2024 Dodge Charger Daytona
+
+date: 2024-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Dodge-Charger-EV-prices.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>We are finally learning how much <a href="https://electrek.co/guides/dodge/">Dodge’s</a> first electric muscle car will cost. Dodge officially announced prices for the 2024 Dodge Charger Daytona EV will start at $59,595. Meanwhile, if you’re looking for the higher-performance Scat Pack model, it will cost an extra $13,500. Both versions qualify for the full $7,500 EV tax credit when leased.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dodge,electric-dodge-charger" data-layer-viewtype="unknown" data-post-id="374751" href="https://electrek.co/2024/08/07/dodge-officially-reveals-prices-first-ev-charger-daytona/#more-374751" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/07/dodge-officially-reveals-prices-first-ev-charger-daytona/>
+
+---
+
+## If your Tesla starts to stink like cheesy feet, this is what you have to do
+
+date: 2024-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2020/07/Tesla-model-3-vent.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>If your Tesla starts to stink like old sweat socks, you can fix that problem yourself, but it’s a little bit of a daunting process.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="air-filter,hepa-air-filter,tesla,tesla-model-3" data-layer-viewtype="unknown" data-post-id="313138" href="https://electrek.co/2024/08/07/tesla-stink-like-feet-this-is-what-you-have-to-do/#more-313138" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/07/tesla-stink-like-feet-this-is-what-you-have-to-do/>
+
+---
+
+## Volkswagen launches its sportiest EV yet, but can it keep pace with the Golf GTI?
+
+date: 2024-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Volkswagen-sportiest-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/volkswagen/">Volkswagen </a>launched its sportiest EV so far this week. Powered by its most powerful electric motor and new batteries, the Volkswagen ID.3 GTX Performance is seen as the EV counterpart to the popular Golf GTI Clubsport. But can it keep up with the hot hatch?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,vw" data-layer-viewtype="unknown" data-post-id="374731" href="https://electrek.co/2024/08/07/volkswagen-launches-sportiest-ev-rival-golf-gti/#more-374731" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/07/volkswagen-launches-sportiest-ev-rival-golf-gti/>
 
 ---
 
@@ -61,6 +221,20 @@ date: 2024-08-07, from: Electrek Feed
 
 ---
 
+## Hyundai takes aim at BYD with a new EV plant in the ‘Detroit of Asia’
+
+date: 2024-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Hyundais-Casper-EV-spotted.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai is upping the ante on China’s leading EV maker with plans to dish out $28 million (1 billion baht) on a new EV assembly and battery plant in Thailand. BYD is leading the “Detroit of Asia’s” surging EV market, but <a href="https://electrek.co/guides/hyundai/">Hyundai</a> looks to grab its share.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,hyundai" data-layer-viewtype="unknown" data-post-id="374706" href="https://electrek.co/2024/08/07/hyundai-byd-new-ev-plant-detroit-of-asia/#more-374706" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/07/hyundai-byd-new-ev-plant-detroit-of-asia/>
+
+---
+
 ## Tesla FSD 12.5 Goes Rogue In Inclement Weather, Imagines Turns That Don’t Exist
 
 date: 2024-08-07, from: Inside EVs News
@@ -89,7 +263,7 @@ date: 2024-08-07, from: Electrek Feed
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="ebikes,rad-power-bikes" data-layer-viewtype="unknown" data-post-id="374671" href="https://electrek.co/2024/08/07/rad-power-bikes-launches-its-first-belt-drive-low-cost-e-bike-the-radkick/#more-374671" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="374671" href="https://electrek.co/2024/08/07/rad-power-bikes-launches-its-first-belt-drive-low-cost-e-bike-the-radkick/#more-374671" class="more-link">more…</a> 
 
 <https://electrek.co/2024/08/07/rad-power-bikes-launches-its-first-belt-drive-low-cost-e-bike-the-radkick/>
 

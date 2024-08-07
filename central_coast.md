@@ -1,11 +1,133 @@
 ---
 title: central coast 2024.32
-updated: 2024-08-07 08:30:31
+updated: 2024-08-07 15:20:30
 ---
 
 # central coast 2024.32
 
-(date: 2024-08-07 08:30:31)
+(date: 2024-08-07 15:20:30)
+
+---
+
+## Santa Barbara Talks: Hilda Maldonado Says Criticisms of Leadership Style Like ‘Arrow Through Your Heart’
+
+date: 2024-08-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>In a frank, extended interview, Santa Barbara Unified School District Superintendent Hilda Maldonado talks about the exodus of her cabinet, controversial teacher contract negotiations, and her views on SBTA president [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-talks-hilda-maldonado-says-criticisms-of-leadership-style-like-arrow-through-your-heart/">Santa Barbara Talks: Hilda Maldonado Says Criticisms of Leadership Style Like &#8216;Arrow Through Your Heart&#8217;</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-talks-hilda-maldonado-says-criticisms-of-leadership-style-like-arrow-through-your-heart/>
+
+---
+
+## Lompoc Police Department Lines Up Car Show and Cruise Night
+
+date: 2024-08-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The 20th Lompoc Police Car Show will be 9 a.m.-3 p.m. Saturday, Aug. 10, with a Cruise Night, 5-7 p.m. on Aug. 9. All event proceeds will go toward acquiring [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lompoc-police-department-lines-up-car-show-and-cruise-night/">Lompoc Police Department Lines Up Car Show and Cruise Night</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/lompoc-police-department-lines-up-car-show-and-cruise-night/>
+
+---
+
+## Vaqueros 5k Stampede, Sept. 28, Supports Athletics at City College
+
+date: 2024-08-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara City College invites community members to participate in the Vaqueros 5k Stampede, 9 a.m. Sept. 28, starting at La Playa Stadium track. The family-friendly activity, open to runners [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/vaqueros-5k-stampede-sept-28-supports-athletics-at-city-college/">Vaqueros 5k Stampede, Sept. 28, Supports Athletics at City College</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/vaqueros-5k-stampede-sept-28-supports-athletics-at-city-college/>
+
+---
+
+## Workshop Helps Parents Help Kids Navigate School Transitions
+
+date: 2024-08-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>YouthWell will host its free Hybrid Parent Wellness Workshop designed for parents and caregivers of tweens and teens in Santa Barbara County, 4:30-6:30 p.m. Sept. 2, both in-person at 1528 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/workshop-helps-parents-help-kids-navigate-school-transitions/">Workshop Helps Parents Help Kids Navigate School Transitions</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/workshop-helps-parents-help-kids-navigate-school-transitions/>
+
+---
+
+## Robert Zemeckis Reflects on His Films Featured in ‘Santa Barbara Home Movies’ Series
+
+date: 2024-08-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Back-to-the-Future-Image-2-Credit-Universal-Studios.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Doc Brown, left, played by Christopher Lloyd, sits in the retrofitted DeLorean that allows Marty McFly, played by Michael J. Fox, to travel back in time to the 1950s in “Back to the Future.” The 1985 hit film by local filmmaker Robert Zemeckis will be shown Aug. 17 at The Granada Theatre as part of the “Santa Barbara Home Movies” series." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Back-to-the-Future-Image-2-Credit-Universal-Studios.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Back-to-the-Future-Image-2-Credit-Universal-Studios.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Back-to-the-Future-Image-2-Credit-Universal-Studios.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Back-to-the-Future-Image-2-Credit-Universal-Studios.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Back-to-the-Future-Image-2-Credit-Universal-Studios.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Back-to-the-Future-Image-2-Credit-Universal-Studios.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Back-to-the-Future-Image-2-Credit-Universal-Studios.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Back-to-the-Future-Image-2-Credit-Universal-Studios.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Back-to-the-Future-Image-2-Credit-Universal-Studios.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Back-to-the-Future-Image-2-Credit-Universal-Studios.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>In Montecito resident Robert Zemeckis&#8216; films, a romance novelist gets caught up in a real-life, amorous adventure; a teen time-travels to the 1950s in a retrofitted DeLorean; a frisky, animated [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/robert-zemeckis-reflects-on-his-films-featured-in-santa-barbara-home-movies-series/">Robert Zemeckis Reflects on His Films Featured in &#8216;Santa Barbara Home Movies&#8217; Series</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/robert-zemeckis-reflects-on-his-films-featured-in-santa-barbara-home-movies-series/>
+
+---
+
+## Hear Stories of Harrowing Rescues at Screening of ‘Where the Rope Ends’
+
+date: 2024-08-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara Search and Rescue Foundation, a new&#160;organization supported by the Santa Barbara Foundation, will host a premiere screening of “Where the Rope Ends,” 6:30-9 p.m. Friday, Aug. 23 at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/hear-stories-of-harrowing-rescues-at-screening-of-where-the-rope-ends/">Hear Stories of Harrowing Rescues at Screening of &#8216;Where the Rope Ends&#8217;</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/hear-stories-of-harrowing-rescues-at-screening-of-where-the-rope-ends/>
+
+---
+
+## Ventura Mayor, One City Council Incumbent Not Seeking Re-election
+
+date: 2024-08-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The city of Ventura has announced the following incumbents have not filed nomination papers to seek re-election for their respective offices: Mayor Joe Schroeder (District 7) and Councilmember Mike Johnson [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ventura-mayor-one-city-council-incumbent-not-seeking-re-election/">Ventura Mayor, One City Council Incumbent Not Seeking Re-election</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ventura-mayor-one-city-council-incumbent-not-seeking-re-election/>
+
+---
+
+## Theater Scholar’s Work Unpacks Masterpiece of American Stage
+
+date: 2024-08-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>William Davies King was a math-and-science kid in boarding school when a reading assignment in a literature class opened his young mind to the power of the arts. From that [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/theater-scholars-work-unpacks-masterpiece-of-american-stage/">Theater Scholar’s Work Unpacks Masterpiece of American Stage</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/theater-scholars-work-unpacks-masterpiece-of-american-stage/>
+
+---
+
+## Dear Annie: How Can I Mend Family Ties with Estranged Stepchildren?
+
+date: 2024-08-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Dear Annie: My husband has five kids from a previous marriage. One was — well, I’ll say never overly friendly. The other four I thought we were good. But things [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dear-annie-how-can-i-mend-family-ties-with-estranged-stepchildren/">Dear Annie: How Can I Mend Family Ties with Estranged Stepchildren?</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dear-annie-how-can-i-mend-family-ties-with-estranged-stepchildren/>
+
+---
+
+## 510 Meigs Road, SANTA BARBARA, CA 93109
+
+date: 2024-08-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="774" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/510-Meigs-Road.jpg?fit=1024%2C774&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/510-Meigs-Road.jpg?w=2117&amp;ssl=1 2117w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/510-Meigs-Road.jpg?resize=300%2C227&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/510-Meigs-Road.jpg?resize=1024%2C774&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/510-Meigs-Road.jpg?resize=768%2C580&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/510-Meigs-Road.jpg?resize=1536%2C1161&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/510-Meigs-Road.jpg?resize=2048%2C1548&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/510-Meigs-Road.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/510-Meigs-Road.jpg?resize=1200%2C907&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/510-Meigs-Road.jpg?resize=1568%2C1185&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/510-Meigs-Road.jpg?resize=2000%2C1512&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/510-Meigs-Road.jpg?resize=400%2C302&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/510-Meigs-Road.jpg?resize=706%2C534&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/510-Meigs-Road.jpg?fit=1024%2C774&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Offered At $1,695,000</p>
+<p>The post <a href="https://www.noozhawk.com/510-meigs-road-santa-barbara-ca-93109/">510 Meigs Road, SANTA BARBARA, CA 93109</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/510-meigs-road-santa-barbara-ca-93109/>
 
 ---
 

@@ -1,11 +1,31 @@
 ---
 title: home 2024.32
-updated: 2024-08-07 08:30:35
+updated: 2024-08-07 15:20:33
 ---
 
 # home 2024.32
 
-(date: 2024-08-07 08:30:35)
+(date: 2024-08-07 15:20:33)
+
+---
+
+## The 6 Best Nightstands to Update Your Bedroom, Tested and Reviewed
+
+date: 2024-08-07, from: Family Handyman Blog
+
+Our shopping editors tested the best nightstands. Here are their six favorite picks after months of testing.  
+
+<https://www.familyhandyman.com/list/best-nightstands/>
+
+---
+
+## The present state of agriculture and a look into the future — from ABC 10, Sacramento
+
+date: 2024-08-07, from: Calfifornia Dept. Aggriculture blog
+
+The California State Board of Food and Agriculture met yesterday at CDFA headquarters for a discussion about the current state of ag and how things might look in the future. The meeting was covered by ABC 10 TV in Sacramento, &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28045">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28045>
 
 ---
 

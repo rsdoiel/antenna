@@ -1,11 +1,91 @@
 ---
 title: motorcycles 2024.32
-updated: 2024-08-07 08:30:36
+updated: 2024-08-07 15:20:34
 ---
 
 # motorcycles 2024.32
 
-(date: 2024-08-07 08:30:36)
+(date: 2024-08-07 15:20:34)
+
+---
+
+## Toyota Racing Development’s David Wilson Announces Retirement
+
+date: 2024-08-07, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor A decade ago, Toyota Motor Company promoted David Wilson to its top position in North American motorsports, naming him the president of Toyota Racing Development (TRD).&#8230;  
+
+<https://kickinthetires.net/nascar/toyota-racing-developments-david-wilson-announces-retirement/>
+
+---
+
+## How Much Power Does the 2024 Harley-Davidson Low Rider S Make?
+
+date: 2024-08-07, from: Cycle World News
+
+The 2024 Harley-Davidson Low Rider S gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower. 
+
+<https://www.cycleworld.com/bikes/harley-davidson-low-rider-s-dyno-test-2024/>
+
+---
+
+## 2024 Husqvarna Svartpilen 401
+
+date: 2024-08-07, from: Cycle World News
+
+There aren’t too many entry-level motorcycles that are this stylish and this cool. The Svartpilen 401 grabs attention wherever it goes and provides a ton of fun. 
+
+<https://www.cycleworld.com/husqvarna/svartpilen-401/>
+
+---
+
+## 2024 Husqvarna Vitpilen 401
+
+date: 2024-08-07, from: Cycle World News
+
+The 2024 Husqvarna Vitpilen 401 is a stylish naked streetbike designed to attack the streets of urban cities. 
+
+<https://www.cycleworld.com/husqvarna/vitpilen-401/>
+
+---
+
+## 2024 Yamaha YZF-R3
+
+date: 2024-08-07, from: Cycle World News
+
+Yamaha’s YZF-R3 powers on with its small-displacement 321cc twin and bodywork inspired by Yamaha’s proven racebikes, making it a stylish option for new riders. 
+
+<https://www.cycleworld.com/yamaha/yzf-r3/>
+
+---
+
+## Yamaha Finalizing Forward-Facing Camera
+
+date: 2024-08-07, from: Cycle World News
+
+There are many purposes for a forward-facing camera, from aiding cruise control to allowing auto-dimming headlights; we believe Yamaha is working on the latter. 
+
+<https://www.cycleworld.com/motorcycle-news/yamaha-forward-facing-camera/>
+
+---
+
+## 2024 Yamaha Bolt R-Spec
+
+date: 2024-08-07, from: Cycle World News
+
+Yamaha’s Bolt R-Spec is a stripped-down V-twin cruiser inspired by Harley-Davidson’s extremely popular Sportster. 
+
+<https://www.cycleworld.com/yamaha/bolt-r-spec/>
+
+---
+
+## 2024 Husqvarna 701 Enduro
+
+date: 2024-08-07, from: Cycle World News
+
+Husqvarna’s 701 Enduro is a lot of things: a lightweight adventure bike, a heavyweight dual sport, and something in between. Jack-of-all-trades sums it up nicely. 
+
+<https://www.cycleworld.com/husqvarna/701-enduro/>
 
 ---
 
@@ -96,16 +176,6 @@ date: 2024-08-06, from: Cycle World News
 Ducati’s Enea Bastianini started at the front at Silverstone and proved that he is the fastest rider in a field in the last half of the race with two wins. 
 
 <https://www.cycleworld.com/motorcycle-racing/silverstone-motogp-race-report-2024/>
-
----
-
-## 2024 Husqvarna 701 Enduro
-
-date: 2024-08-06, from: Cycle World News
-
-Husqvarna’s 701 Enduro is a lot of things: a lightweight adventure bike, a heavyweight dual sport, and something in between. Jack-of-all-trades sums it up nicely. 
-
-<https://www.cycleworld.com/husqvarna/701-enduro/>
 
 ---
 

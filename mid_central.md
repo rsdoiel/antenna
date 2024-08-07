@@ -1,11 +1,21 @@
 ---
 title: mid central 2024.32
-updated: 2024-08-07 08:30:31
+updated: 2024-08-07 15:20:29
 ---
 
 # mid central 2024.32
 
-(date: 2024-08-07 08:30:31)
+(date: 2024-08-07 15:20:29)
+
+---
+
+## Andy Milluzzi, KK4LWR, Appointed Vice Director of ARRL Southeastern Division
+
+date: 2024-08-07, from: Amateur Radio Relay League News
+
+<p>Andrew “Andy” Milluzzi, Ph.D., KK4LWR, has been appointed Vice Director of the ARRL Southeastern Division. ARRL President Rick Roderick, K5UR, appointed Milluzzi to the remainder of the term ending in December 2025 following the recent death of former Vice Director Jeff Beals, WA4AW (SK).</p><p>Milluzzi works for Walt Disney Imagineering as a Senior Ride Control Systems Engineer. He earned his Ph.D. a...</p> 
+
+<http://www.arrl.org/news/view/andy-milluzzi-kk4lwr-appointed-vice-director-of-arrl-southeastern-division>
 
 ---
 

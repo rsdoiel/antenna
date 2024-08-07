@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.32
-updated: 2024-08-07 08:30:35
+updated: 2024-08-07 15:20:33
 ---
 
 # libraries 2024.32
 
-(date: 2024-08-07 08:30:35)
+(date: 2024-08-07 15:20:33)
 
 ---
 
@@ -25,7 +25,7 @@ date: 2024-08-07, from: Scholarly Kitchen
 
 date: 2024-08-05, from: Association of Research Libraries News
 
-<p>Last Updated on August 5, 2024, 4:59 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, August 6 &#124; Wednesday, August 7 &#124; Thursday,...</p>
+<p>Last Updated on August 7, 2024, 2:25 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, August 6 &#124; Wednesday, August 7 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-august-5-8/">Day in Review (August 5–8)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

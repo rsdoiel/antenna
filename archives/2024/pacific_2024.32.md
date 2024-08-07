@@ -1,11 +1,53 @@
 ---
 title: pacific 2024.32
-updated: 2024-08-07 08:30:30
+updated: 2024-08-07 15:20:29
 ---
 
 # pacific 2024.32
 
-(date: 2024-08-07 08:30:30)
+(date: 2024-08-07 15:20:29)
+
+---
+
+## Speaker Terlaje: Environmental assessment on Guam flight tests ‘inadequate’
+
+date: 2024-08-07, from: Pacific Island Times
+
+By Jayvee Vallejera Speaker Therese Terlaje said the proposed final environmental assessment for a plan to hold missile tests in Guam is... 
+
+<https://www.pacificislandtimes.com/post/speaker-terlaje-environmental-assessment-on-guam-flight-tests-inadequate>
+
+---
+
+## Todu Guam Health Center recognized as a National Health Service Corps site
+
+date: 2024-08-07, from: Pacific Island Times
+
+By Pacific Island Times News Staff Todu Guam Foundation Health and Wellness Center has been approval as a National Health Service Corps... 
+
+<https://www.pacificislandtimes.com/post/todu-guam-health-center-recognized-as-a-national-health-service-corps-site>
+
+---
+
+## Coastal water quality rebounding after Lahaina wildfire
+
+date: 2024-08-07, from: University of Hawaiʻi News
+
+<p>The study found that polycyclic aromatic hydrocarbons levels in water samples were higher in September 2023 but dropped to low levels by November.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/07/coastal-water-quality-rebounding/">Coastal water quality rebounding after Lahaina wildfire</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/07/coastal-water-quality-rebounding/>
+
+---
+
+## Image of the Week: Royal island
+
+date: 2024-08-07, from: University of Hawaiʻi News
+
+<p>This week's image is <span aria-label="Mokuula">Moku&#699;ula</span> the island in Lahaina where King Kamehameha <abbr title="Roman numeral three">III</abbr> once lived.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/07/image-of-the-week-royal-island/">Image of the Week: Royal island</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/07/image-of-the-week-royal-island/>
 
 ---
 

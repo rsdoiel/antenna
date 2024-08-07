@@ -1,67 +1,31 @@
 ---
 title: columns 2024.32
-updated: 2024-08-07 08:30:33
+updated: 2024-08-07 15:20:31
 ---
 
 # columns 2024.32
 
-(date: 2024-08-07 08:30:33)
+(date: 2024-08-07 15:20:31)
 
 ---
 
-##  The theme for the Cooper Hewitt&#8217;s upcoming Design Triennial (in collaboration with... 
+## Election Countdown, 90 Days to Go: Three Lessons in Speech-Making.
+
+date: 2024-08-07, from: James Fallows, Substack
+
+Shapiro, Harris, and Walz each did their jobs last evening, in different and fascinating ways. Plus, the return of &#8216;Clear Eyes, Full Hearts.&#8217; 
+
+<https://fallows.substack.com/p/election-countdown-90-days-to-go>
+
+---
+
+##  How Technology Is Making Olympic Mountain Bikers Faster 
 
 date: 2024-08-07, updated: 2024-08-07, from: Jason Kittke's blog
 
  
 
-<https://kottke.org/24/08/0045079-the-theme-for-the-cooper>
-
----
-
-##  55 Things to Know About Tim Walz 
-
-date: 2024-08-07, updated: 2024-08-07, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/08/55-things-to-know-about-tim-walz>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/04/butHerEmails.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">When I see a reference to an evil NYT piece, I RT it with a simple message: Ignore the NY Times. It's relaxing. You don't have to do something about it, in fact it says the opposite. Do nothing. It works on all social nets, and for any news org that's promoting lies, ignoring relevant facts, against the interest of the US. Find new ways to get informed. And if you can't find them, start one. And we can find each other. 
-
-<http://scripting.com/2024/08/07.html#a140432>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
-
-The <a href="https://www.threads.net/@davew/post/C-Xr_dcp8Vn">Bruce Springsteen</a> mention at last night's rally was no accident. Boomers are now of the age where we vote in great numbers. So our feeling like there's something here for us might make the difference in one or more of the swing states. 
-
-<http://scripting.com/2024/08/07.html#a140039>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
-
-Last night's Democratic rally was wonderful. I was laughing and sobbing all the way through it. What an emotional release. We needed and deserved this. Beyond hope, we're finally going to fight. I hope President Kamala is really up to it, because we have a pretty substantial cleanup job to do here. 
-
-<http://scripting.com/2024/08/07.html#a134011>
-
----
-
-## Problems with Georgia’s Voter Registration Portal
-
-date: 2024-08-07, updated: 2024-08-06, from: Bruce Schneier blog
-
-<p>It&#8217;s possible to <a href="https://www.propublica.org/article/georgia-voter-registration-cancellation-portal-mtg-raffensperger">cancel</a> other people&#8217;s voter registration:</p>
-<blockquote><p>On Friday, four days after Georgia Democrats <a href="https://x.com/GASenateDems/status/1817949715234717988">began warning</a> that bad actors could abuse the state&#8217;s new online portal for canceling voter registrations, the Secretary of State&#8217;s Office acknowledged to ProPublica that it had identified multiple such attempts&#8230;</p>
-<p>&#8230;the portal suffered at least two security glitches that briefly exposed voters&#8217; dates of birth, the last four digits of their Social Security numbers and their full driver&#8217;s license numbers&#8212;the exact information needed to cancel others&#8217; voter registrations...</p></blockquote> 
-
-<https://www.schneier.com/blog/archives/2024/08/problems-with-georgias-voter-registration-portal.html>
+<https://kottke.org/24/08/how-technology-is-making-olympics-mountain-bikers-faster>
 
 ---
 
@@ -216,9 +180,165 @@ There is a bug in the u-boot offset which will make your pocket unbootable if yo
 
 <p>Andy&rsquo;s post had a screenshot showing the fediverse client <a href="https://tuba.geopjr.dev/">Tuba</a> which is available on Debian testing. Nice! I&rsquo;ll give it a try.</p>
 
-<p>Tuba requires a &ldquo;login&rdquo; keyring so I had to install <code>seahorse</code> also known as &ldquo;Passwords and Keys&rdquo;.</p> 
+<p>Tuba requires a &ldquo;login&rdquo; keyring so I had to install <code>seahorse</code> also known as &ldquo;Passwords and Keys&rdquo;.</p>
+
+<p>Back to small things to watch out for. When I run <code>apt update</code> it ends with a notice saying: &ldquo;Missing Signed-By in the sources.list(5) entry for <code>https://mnt.re/reform-debian-repo</code>&rdquo;</p> 
 
 <https://alexschroeder.ch/view/2024-08-06-pocket-reform>
+
+---
+
+## The establishment strikes back
+
+date: 2024-08-07, from: Robert Reich's blog
+
+The New York and Washington chattering class thinks Walz is too far left 
+
+<https://robertreich.substack.com/p/the-establishment-strikes-back>
+
+---
+
+##  Yes, the &#8220;ope!&#8221; explainer that America needs right now. As a native... 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045084-yes-the-ope-explainer-tha>
+
+---
+
+## Flighty 4.0
+
+date: 2024-08-07, updated: 2024-08-07, from: Daring Fireball
+
+ 
+
+<https://apps.apple.com/app/id1358823008>
+
+---
+
+##  The Undisguised Extremism of the Republican Party 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/the-undisguised-extremism-of-the-republican-party>
+
+---
+
+## The Harris-Walz Campaign Logo Is Not Great
+
+date: 2024-08-07, updated: 2024-08-07, from: Daring Fireball
+
+ 
+
+<https://www.fastcompany.com/91168459/new-logo-harris-walz-campaign>
+
+---
+
+##  Utah is basically burning books now. &#8220;State has ordered books by 13... 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045082-utah-is-basically-burning>
+
+---
+
+## August 6, 2024
+
+date: 2024-08-07, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-6-2024-c69>
+
+---
+
+##  Why the word &#8220;Taiwan&#8221; is banned at the Olympics. &#8220;Taiwan is one... 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045081-why-the-word-taiwan-is>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
+
+<a href="https://x.com/davewiner/status/1821209204977189268">Timothy Snyder</a>: "If JD Vance really were a normal midwestern guy he’d be very respectful of someone like Tim Walz." 
+
+<http://scripting.com/2024/08/07.html#a160344>
+
+---
+
+##  The World&#8217;s First Medieval Electronic Instrument 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/the-worlds-first-medieval-electronic-instrument>
+
+---
+
+##  The theme for the Cooper Hewitt&#8217;s upcoming Design Triennial (in collaboration with... 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045079-the-theme-for-the-cooper>
+
+---
+
+##  55 Things to Know About Tim Walz 
+
+date: 2024-08-07, updated: 2024-08-07, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/55-things-to-know-about-tim-walz>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/04/butHerEmails.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">When I see a reference to an evil NYT piece, I RT it with a simple message: Ignore the NY Times. It's relaxing. You don't have to do something about it, in fact it says the opposite. Do nothing. It works on all social nets, and for any news org that's promoting lies, ignoring relevant facts, against the interest of the US. Find new ways to get informed. And if you can't find them, start one. And we can find each other. 
+
+<http://scripting.com/2024/08/07.html#a140432>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
+
+The <a href="https://www.threads.net/@davew/post/C-Xr_dcp8Vn">Bruce Springsteen</a> mention at last night's rally was no accident. Boomers are now of the age where we vote in great numbers. So our feeling like there's something here for us might make the difference in one or more of the swing states. 
+
+<http://scripting.com/2024/08/07.html#a140039>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-07, from: Dave Winer's Scripting News)
+
+Last night's Democratic rally was wonderful. I was laughing and sobbing all the way through it. What an emotional release. We needed and deserved this. Beyond hope, we're finally going to fight. I hope President Kamala is really up to it, because we have a pretty substantial cleanup job to do here. 
+
+<http://scripting.com/2024/08/07.html#a134011>
+
+---
+
+## Problems with Georgia’s Voter Registration Portal
+
+date: 2024-08-07, updated: 2024-08-06, from: Bruce Schneier blog
+
+<p>It&#8217;s possible to <a href="https://www.propublica.org/article/georgia-voter-registration-cancellation-portal-mtg-raffensperger">cancel</a> other people&#8217;s voter registration:</p>
+<blockquote><p>On Friday, four days after Georgia Democrats <a href="https://x.com/GASenateDems/status/1817949715234717988">began warning</a> that bad actors could abuse the state&#8217;s new online portal for canceling voter registrations, the Secretary of State&#8217;s Office acknowledged to ProPublica that it had identified multiple such attempts&#8230;</p>
+<p>&#8230;the portal suffered at least two security glitches that briefly exposed voters&#8217; dates of birth, the last four digits of their Social Security numbers and their full driver&#8217;s license numbers&#8212;the exact information needed to cancel others&#8217; voter registrations...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/08/problems-with-georgias-voter-registration-portal.html>
 
 ---
 
