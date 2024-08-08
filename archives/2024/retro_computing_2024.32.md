@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.32
-updated: 2024-08-07 15:20:34
+updated: 2024-08-08 08:29:37
 ---
 
 # retro computing 2024.32
 
-(date: 2024-08-07 15:20:34)
+(date: 2024-08-08 08:29:37)
+
+---
+
+## FreeDOS Format 0.92
+
+date: 2024-08-08, from: FreeDOS News
+
+<div class="markdown_content"><p>Format is a disk formatting program. It creates FAT file systems and low-level formats floppy disks. Jeremy has published a new version of FreeDOS Format to fix several reported bugs, and merged a pull request adding 128KB cluster support. You can download the new version from <a class="" href="https://github.com/FDOS/format" rel="nofollow">FreeDOS Format</a> at GitHub.</p></div> 
+
+<https://sourceforge.net/p/freedos/news/2024/08/freedos-format-092/>
+
+---
+
+## WROCC August 2024 meeting - Paul Reuvers (XAT) X
+
+date: 2024-08-08, from: Icon Bar, RISC OS News
+
+Wakefield's August speaker was Paul Reuvers from XAT in the Netherlands, talking about his 42 years of Acorn and RISC OS. 
+
+<http://www.iconbar.com/comments/rss/news2097.html>
 
 ---
 

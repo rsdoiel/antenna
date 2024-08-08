@@ -20,7 +20,6 @@ Collection                                Description of Posts                  
 [Games](games.html)                       Interactive games                                                  [games.txt](games.txt)
 [Libraries](libraries.html)               Libraries, Archives and Museums                                    [libraries.txt](libraries.txt)
 [Journalism](journalism.html)             Journalism and the 4th estate                                      [journalism.txt](journalism.txt)
-[Tech Likely](tech_likely.html)           Miscellanious, often technology related                            [tech_likely.txt](tech_likely.txt)
 [Motorcycles](motorcycles.html)           Electric motorcycle and related                                    [motorcycles.txt](motorcycles.txt)
 [Writing](writing.html)                   Writing and Writing Tools                                          [writing.txt](writing.txt)
 [Weather](weather.html)                   [NOAA's](https://noaa.gov) and [weather.gov](https://weather.gov)  [weather.txt](weather.txt)

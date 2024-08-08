@@ -1,11 +1,44 @@
 ---
 title: writing 2024.32
-updated: 2024-08-07 15:20:32
+updated: 2024-08-08 08:29:34
 ---
 
 # writing 2024.32
 
-(date: 2024-08-07 15:20:32)
+(date: 2024-08-08 08:29:34)
+
+---
+
+## DuBois Arrested
+
+date: 2024-08-08, from: Locus Magazine
+
+<p>SF writer Brendan DuBois, 64, was arrested in Exeter NH on July 10, 2024, and faces six felony counts of possession of child pornogaphy. DuBois turned himself in after the arrest warrant was issued. The complaint al­leges he ‘‘did knowingly possess at least 35 visual representations of children engaging in sexually explicit conduct.’’ The police received a tip from Google earlier this year and executed a search warrant in May,  <a href="https://locusmag.com/2024/08/dubois-arrested/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/dubois-arrested/>
+
+---
+
+## Russell Letson Reviews Morphotrophic by Greg Egan
+
+date: 2024-08-08, from: Locus Magazine
+
+<p><strong>Morphotrophic</strong>, Greg Egan (Greg Egan, 978-1922240-53-8, $25.00, 384 pp, hc) April 2024. Cover by Greg Egan.</p>
+<p>Much of Greg Egan’s work is driven by single, transformative ideas – not the “gimmick” of the gadget story, but something more like Darko Suvin’s idea of a “novum” – often radical reconsiderations or alterations of basic principles of cosmology or psychology or physics that unfold to generate entire worlds, imagining how things  <a href="https://locusmag.com/2024/08/russell-letson-reviews-morphotrophic-by-greg-egan/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/russell-letson-reviews-morphotrophic-by-greg-egan/>
+
+---
+
+## Kennedy Resigns as SFWA President
+
+date: 2024-08-07, from: Locus Magazine
+
+<p>Jeffe Kennedy sent the following message to members of the Science Fiction &#38; Fantasy Writers Association: </p>
+<p>Dear SFWA members, friends, and all in the larger SFF and cross-genre community,</p>
+<p>I’m writing today to announce my resignation as President of SFWA. I’ve served in this role for over three years and on the Board of Directors for more than seven years. It has been a privilege and an honor to serve  <a href="https://locusmag.com/2024/08/kennedy-resigns-as-sfwa-president/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/kennedy-resigns-as-sfwa-president/>
 
 ---
 

@@ -1,11 +1,88 @@
 ---
 title: central coast 2024.32
-updated: 2024-08-07 15:20:30
+updated: 2024-08-08 08:29:32
 ---
 
 # central coast 2024.32
 
-(date: 2024-08-07 15:20:30)
+(date: 2024-08-08 08:29:32)
+
+---
+
+## Late Afternoon Sun on the Missouri River
+
+date: 2024-08-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Late afternoon sun on the Missouri River in Great Falls, Montana." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/late-afternoon-sun-on-the-missouri-river/">Late Afternoon Sun on the Missouri River</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/late-afternoon-sun-on-the-missouri-river/>
+
+---
+
+## Marichu Polancos Kern and Randall Richard Kern of Santa Maria
+
+date: 2024-08-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="994" height="994" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-Marichu-and-Randall-Kern.jpg?fit=994%2C994&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Marichu Polancos Kern and Randall Richard Kern" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-Marichu-and-Randall-Kern.jpg?w=994&amp;ssl=1 994w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-Marichu-and-Randall-Kern.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-Marichu-and-Randall-Kern.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-Marichu-and-Randall-Kern.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-Marichu-and-Randall-Kern.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-Marichu-and-Randall-Kern.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-Marichu-and-Randall-Kern.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-Marichu-and-Randall-Kern.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-Marichu-and-Randall-Kern.jpg?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-Marichu-and-Randall-Kern.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-Marichu-and-Randall-Kern.jpg?fit=994%2C994&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Marichu Polancos Kern, 55, and Randall Richard Kern, 68, passed away unexpectedly on August 1, 2024, in a vehicular accident in Santa Maria, California. They are survived by their children [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/marichu-polancos-kern-and-randall-richard-kern-of-santa-maria/">Marichu Polancos Kern and Randall Richard Kern of Santa Maria</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/marichu-polancos-kern-and-randall-richard-kern-of-santa-maria/>
+
+---
+
+## Military Exercise at Santa Maria Airport Gets Mixed Reaction From Residents
+
+date: 2024-08-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Bamboo-Eagle1a-ds.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Several F-35 Lightning fighter jets are staging at the Santa Maria Public Airport this week as part of a larger Bamboo Eagle military exercise." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Bamboo-Eagle1a-ds.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Bamboo-Eagle1a-ds.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Bamboo-Eagle1a-ds.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Bamboo-Eagle1a-ds.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Bamboo-Eagle1a-ds.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Bamboo-Eagle1a-ds.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Bamboo-Eagle1a-ds.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Bamboo-Eagle1a-ds.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Bamboo-Eagle1a-ds.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Bamboo-Eagle1a-ds.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>In what some view as the sound of freedom and others say is a source of frustrating noise, Air Force fighter jets have staged at the Santa Maria Public Airport [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/air-force-aircraft-stage-at-santa-maria-airport-for-military-exercise/">Military Exercise at Santa Maria Airport Gets Mixed Reaction From Residents</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/air-force-aircraft-stage-at-santa-maria-airport-for-military-exercise/>
+
+---
+
+## Santa Maria Program Aims to Help Students ‘Rocket’ Into High School
+
+date: 2024-08-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Rocketing-into-HIgh-School1a-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Jose Garcia, an incoming ninth-grader at Santa Maria High School, watches as his model rocket begins its ascent Wednesday as part of the &quot;Rocketing Into High School&quot; program for ninth-graders in the Santa Maria Joint Union High School District." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Rocketing-into-HIgh-School1a-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Rocketing-into-HIgh-School1a-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Rocketing-into-HIgh-School1a-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Rocketing-into-HIgh-School1a-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Rocketing-into-HIgh-School1a-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Rocketing-into-HIgh-School1a-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Rocketing-into-HIgh-School1a-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Rocketing-into-HIgh-School1a-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Rocketing-into-HIgh-School1a-js.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-Rocketing-into-HIgh-School1a-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Some Santa Maria Valley high school science teachers and their newest students launched the year&#8217;s lessons a bit early.&#160; Marking its fourth year, “Rocketing Into High School” took place Tuesday [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-program-aims-to-help-students-rocket-into-high-school/">Santa Maria Program Aims to Help Students &#8216;Rocket&#8217; Into High School</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-maria-program-aims-to-help-students-rocket-into-high-school/>
+
+---
+
+## Suspect Arrested, Injuries Reported in Santa Barbara Jewelry Heist Attempt
+
+date: 2024-08-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-State-Street-Robbery-ph-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A suspect was arrested Wednesday afternoon in the attempted robbery of a jewelry store in downtown Santa Barbara, according to the Santa Barbara Police Department." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-State-Street-Robbery-ph-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-State-Street-Robbery-ph-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-State-Street-Robbery-ph-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-State-Street-Robbery-ph-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-State-Street-Robbery-ph-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-State-Street-Robbery-ph-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-State-Street-Robbery-ph-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-State-Street-Robbery-ph-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-State-Street-Robbery-ph-2000.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080724-State-Street-Robbery-ph-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A suspect was arrested Wednesday afternoon in the attempted robbery of a jewelry store in downtown Santa Barbara, according to the Santa Barbara Police Department. Officers were dispatched at about [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/suspect-arrested-injuries-reported-in-santa-barbara-jewelry-heist-attempt/">Suspect Arrested, Injuries Reported in Santa Barbara Jewelry Heist Attempt</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/suspect-arrested-injuries-reported-in-santa-barbara-jewelry-heist-attempt/>
+
+---
+
+## Dan McCaslin: Interacting with Nature, Face to Face
+
+date: 2024-08-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-Pool-along-Rattlesnake-Canyon-Trail-dm.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A pool along the Rattlesnake Canyon Trail." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-Pool-along-Rattlesnake-Canyon-Trail-dm.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-Pool-along-Rattlesnake-Canyon-Trail-dm.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-Pool-along-Rattlesnake-Canyon-Trail-dm.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-Pool-along-Rattlesnake-Canyon-Trail-dm.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-Pool-along-Rattlesnake-Canyon-Trail-dm.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-Pool-along-Rattlesnake-Canyon-Trail-dm.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-Pool-along-Rattlesnake-Canyon-Trail-dm.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-Pool-along-Rattlesnake-Canyon-Trail-dm.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-Pool-along-Rattlesnake-Canyon-Trail-dm.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-Pool-along-Rattlesnake-Canyon-Trail-dm.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>When the writhing throes of competing world empires roil my overactive mind, when even music won’t cure these 21st-century blues, I can turn to Ralph Waldo Emerson, the great American [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dan-mccaslin-interacting-with-nature-face-to-face/">Dan McCaslin: Interacting with Nature, Face to Face</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dan-mccaslin-interacting-with-nature-face-to-face/>
 
 ---
 

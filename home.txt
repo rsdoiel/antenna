@@ -11,6 +11,8 @@ https://californiaoaks.org/feed/ "~California Oaks News"
 https://ucanr.edu/blogs/UrbanAg/rssmain.xml "~Urban Ag blog"
 https://homesteadandchill.com/feed/ "~Homestead and Chil"
 https://www.familyhandyman.com/feed/ "~Family Handyman Blog"
+http://www.verticalfarm.com/?feed=rss2 "~Virtical Farm Blog"
+
 
 #
 # Inspiration

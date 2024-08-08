@@ -1,11 +1,33 @@
 ---
 title: mid central 2024.32
-updated: 2024-08-07 15:20:29
+updated: 2024-08-08 08:29:31
 ---
 
 # mid central 2024.32
 
-(date: 2024-08-07 15:20:29)
+(date: 2024-08-08 08:29:31)
+
+---
+
+## Keep Dpot pseudologarithmic gain control on a leash
+
+date: 2024-08-08, from: EDN Blog
+
+<img width="498" height="443" src="https://www.edn.com/wp-content/uploads/DpotGains_Figure3.png?fit=498%2C443" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/DpotGains_Figure3.png?w=498 498w, https://www.edn.com/wp-content/uploads/DpotGains_Figure3.png?w=300 300w" sizes="(max-width: 498px) 100vw, 498px" /><p>A solution that uses the MCP4xxx family of Dpots and maintains pseudologarithmic gain control while keeping the full 8-bit resolution.</p>
+<p>The post <a href="https://www.edn.com/keep-dpot-pseudologarithmic-gain-control-on-a-leash/" data-wpel-link="internal">Keep Dpot pseudologarithmic gain control on a leash</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/keep-dpot-pseudologarithmic-gain-control-on-a-leash/>
+
+---
+
+## Fresno Pro-Am set to bring NBA stars back to the Valley
+
+date: 2024-08-07, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Fresno Pro-Am is set to host its biggest Season 3 Finale event with NBA stars returning to their hometown to play against the Valley crowd once again.  On Aug. 10 at 2 p.m. team Chill Suite will take on Call My Agent at Clovis North High School for a chance at the title.  Afterward, a... 
+
+<https://fscollegian.com/2024/08/fresno-pro-am-set-to-bring-nba-stars-back-to-the-valley/>
 
 ---
 
@@ -23,7 +45,7 @@ date: 2024-08-07, from: Amateur Radio Relay League News
 
 date: 2024-08-07, from: EDN Blog
 
-<img width="227" height="221" src="https://www.edn.com/wp-content/uploads/Resettablefuse_Figure-1.gif?fit=227%2C221" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" /><p>A resettable fuse design that limits the output current instead of dropping the connection entirely, removing the setbacks of standard PPTCs. </p>
+<img width="227" height="221" src="https://www.edn.com/wp-content/uploads/Resettablefuse_Figure-1.gif?fit=227%2C221" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" /><p>A resettable fuse design that limits the output current instead of dropping the connection entirely, removing the setbacks of standard PPTCs. </p>
 <p>The post <a href="https://www.edn.com/an-accurate-resettable-fuse/" data-wpel-link="internal">An accurate resettable fuse</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

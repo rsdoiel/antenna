@@ -36,7 +36,790 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="columns-2024.32">columns 2024.32</h1>
-<p>(date: 2024-08-07 15:20:31)</p>
+<p>(date: 2024-08-08 08:29:33)</p>
+<hr />
+<h2 id="man-pages">2024-08-08 Man pages</h2>
+<p>date: 2024-08-08, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-08-08-man-pages">
+2024-08-08 Man pages
+</h1>
+<p>
+Here’s a great thing on the command line. You want to use the command
+<strong>foo</strong> and don’t know how, so you run <strong>man
+foo</strong> and read the manual page. Sometimes there will be more info
+in different “sections”. Commands are in section 1, which is why
+documentation would sometimes refer to the command “foo” as
+<strong>foo(1)</strong> because <strong>foo(5)</strong> might document
+the file format or the config file that goes along with the command.
+</p>
+<p>
+If that’s news to you, run <strong>man man</strong>. And if you find the
+structure bewildering, read the manual on how to write manual pages:
+<strong>man man-pages</strong> (section 7).
+</p>
+<p>
+I’ve embraced man pages because when I write Perl code, I can put
+documentation into the script such that when the script is installed, it
+automatically works as its own man page – this works for
+<a href="https://metacpan.org/dist/App-jupiter">jupiter</a>,
+<a href="https://metacpan.org/dist/App-BookmarkFeed">bookmark-feed</a> –
+it also works for bigger projects, like
+<a href="https://metacpan.org/dist/App-Phoebe">phoebe</a> where each
+extension is also a Perl module and therefore also gets its own man
+page.
+</p>
+<p>
+For programming languages where the documentation is more focused on
+documenting the code, things are different. Of course, there’s
+<code>pydoc</code> for Python code and <code>go doc</code> for Go code,
+but it’s not great. The list of variables and functions are maybe
+suitable for libraries, but not for applications.
+</p>
+<p>
+Since I don’t enjoy writing man pages directly (<code>man</code> is
+actually a macro package for the <code>nroff</code> language, see
+<strong>man nroff</strong>, obviously) I write my documentation in the
+<a href="https://gitlab.com/ddevault/scdoc">scdoc</a> format.
+<a class="account" href="https://fosstodon.org/@drewdevault" title="@drewdevault@fosstodon.org"><span
+class="citation" data-cites="drewdevault">@drewdevault</span></a> wrote
+it <a href="https://drewdevault.com/2018/05/13/scdoc.html">in 2018</a>.
+It looks a bit like Markdown and friends and I like it. I even put a
+little sequence of <code>sed</code> expressions into a Makefile to turn
+scdoc into Markdown so that I could publish the man pages on this site,
+see <a href="oddmu/index">Oddµ man pages</a>.
+</p>
+<p>
+When documentation for a project is a website, I wonder how they serve
+people offline or with bad connections. Perhaps they want to write the
+documentation in texinfo? I haven’t done that in a long time but I
+really enjoy reading a well-written manual like that. And you can get a
+PDF for free but I’m not sure anybody really wants that. Even a README
+is bad because in those rare cases where the program gets added to a
+distro, how will end-users find the README? Man pages are the answer.
+</p>
+<p>
+README files and offline copies of the HTML documentation have multiple
+problems.
+</p>
+<ul>
+<li>
+Which directory is it, exactly? <code>/usr/doc</code> does not exist on
+my system. <code>/usr/share</code> lists lots of package names but these
+are not the docs. <code>/usr/share/doc</code> is the one! But the
+problems continue. Which is the file that you want to read when you’re
+faced with <code>BUGS changelog.Debian.gz changelog.gz copyright README
+README.Debian README.frames RELEASE-NOTES.txt WhatsNew.gz</code> – it’s
+README, I guess, but I am always confused. Sometimes you’re looking at
+binary and it’s also not obvious what the package name would be.
+<code>find</code> is in <code>/usr/share/doc/findutils</code>, for
+example.
+</li>
+</ul>
+<p>
+Compared to this, man pages are so much better.
+</p>
+<p>
+And some package managers like <code>go</code>, <code>pip</code>
+(Python), <code>cabal</code> (Haskell) and <code>cargo</code> (Rust)
+don’t install any of these files, I think.
+</p>
+<p>
+I suspect that many developers consider using a website like
+<a href="https://about.readthedocs.com/">Read the Docs</a> to be good
+enough. Bad luck for people who are offline or who have bad reception,
+in hotel rooms with bad wife, in planes? My sister lives in the Rhine
+valley, on the German side, close to Switzerland, in a tiny village of a
+bit more than 100 people. They have no glass fibre. They have bad
+reception, both from Switzerland and from Germany. It’s terrible! But
+even for me: I have wifi in the apartment and glass windows that act
+that block the signal. I have no reception on the balcony unless I use
+my phone as a hotspot.
+</p>
+<p>
+Local documentation that is easy to find is so much better.
+</p>
+<p>
+And man pages are powerful. <em>All</em> of Perl is documented in many
+pages. All the modules. All the switches. All the language features. I
+learned to program in Perl from man pages back when my browser was
+<a href="https://en.wikipedia.org/wiki/NCSA_Mosaic">NCSA Mosaic</a>. (I
+am a bit astonished to find that I still knew that acronym! But I didn’t
+know that it stands for National Center for Supercomputing
+Applications.) Anyway, what I wanted to say is that man pages can be
+used to document large and complex things. From the command line, they
+are readily accessible. With the right man reader, they can act as a
+hypertext, linking to other pages. They don’t have to be terse and
+cryptic, either. Man pages can be tutorials, introductions, FAQs, and
+more. And if you write man pages using a suitable format, you can still
+generate HTML pages with links.
+</p>
+<p>
+If you’re not writing man pages, if your community doesn’t have the
+habit of writing man pages, start small. Get <code>scdoc</code> and
+write a little something. Skim <strong>man man-pages</strong> and learn
+about the conventions, then write some text files. Then use <code>scdoc
+&lt; text-file &gt; man-page</code> to create the file and install them
+into <code>~/.local/share/man</code>, following the conventions. A page
+from section 1 (commands) has the extension “.1” and goes into
+<code>~/.local/share/man/man1</code> whereas a page from section 5 (file
+formats and config files) has the extension “.5” and goes into
+<code>~/.local/share/man/man5</code>.
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Programming">#Programming</a>
+<a class="tag" href="/search/?q=%23Software">#Software</a>
+<a class="tag" href="/search/?q=%23Documentation">#Documentation</a>
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-08-08-man-pages"
+class="uri">https://alexschroeder.ch/view/2024-08-08-man-pages</a></p>
+<hr />
+<h2
+id="raspberry-pi-pico-2---rp2350-adds-more-pio-risc-v-cores">Raspberry
+Pi Pico 2 - RP2350 adds more PIO, RISC-V cores</h2>
+<p>date: 2024-08-08, from: Jeff Geerling blog</p>
+<p><span
+class="field field--name-title field--type-string field--label-hidden">Raspberry
+Pi Pico 2 - RP2350 adds more PIO, RISC-V cores</span></p>
+<pre><code>        &lt;div class=&quot;clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;p&gt;&lt;img width=&quot;700&quot; height=&quot;auto&quot; class=&quot;insert-image&quot; src=&quot;https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-pico-2.jpeg&quot; alt=&quot;Pico 2 Logo&quot;&gt;&lt;/p&gt;</code></pre>
+<p>
+The <a href="https://www.raspberrypi.com/products/raspberry-pi-pico/">$5
+Raspberry Pi Pico 2</a> was announced today, with a new chip, the
+RP2350. This silicon improves on almost every aspect of the RP2040:
+</p>
+<ul>
+<li>
+3 PIOs instead of 2
+</li>
+<li>
+150 MHz instead of 133 MHz base clock
+</li>
+<li>
+Faster Arm Cortex M33 cores <em>and</em> RISC-V Hazard3 cores
+</li>
+</ul>
+<p>
+I’ve had access to pre-release hardware and good news: even though the
+new chip is faster and has more features, it actually uses <em>less</em>
+power than RP2040, meaning if you run one of these things off a battery,
+it’ll last longer.
+</p>
+<p>
+I’ll talk more about power later, but first, here’s the specs.
+</p>
+<p>
+<img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/pico-pico-2-side-by-side.jpeg" alt="Pico 2 and Pico side by side comparison">
+</p>
+</div>
+<pre><code>  &lt;span class=&quot;field field--name-uid field--type-entity-reference field--label-hidden&quot;&gt;&lt;span&gt;Jeff Geerling&lt;/span&gt;&lt;/span&gt;</code></pre>
+<p><span
+class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-08-08T10:04:29-05:00" title="Thursday, August 8, 2024 - 10:04" class="datetime">August
+8, 2024</time> </span></p>
+<p><a
+href="https://www.jeffgeerling.com/blog/2024/raspberry-pi-pico-2-rp2350-adds-more-pio-risc-v-cores"
+class="uri">https://www.jeffgeerling.com/blog/2024/raspberry-pi-pico-2-rp2350-adds-more-pio-risc-v-cores</a></p>
+<hr />
+<h2 id="greenwashing">Greenwashing</h2>
+<p>date: 2024-08-08, from: David Rosenthal’s blog</p>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;">
+<tbody>
+<tr>
+<td style="text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNw44mW0LLZbkmI6PPvDKnpLWve_g_Zmbc_8N4jPX80RaL80g6oWM05vhagWeDl1u7VuRW51cPieOynKXe8MYCnt7G5hzaeZr5Fk17FRuE0lChavi8SZlMy1yQjrAFCRXFrQoTfhxKk43d0EF83s1tMSWoyug6HGmU_bP9SyF8oIDbrjFs-Mei5EKwxKk5/s897/Greenwashing.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="504" data-original-width="897" height="113" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNw44mW0LLZbkmI6PPvDKnpLWve_g_Zmbc_8N4jPX80RaL80g6oWM05vhagWeDl1u7VuRW51cPieOynKXe8MYCnt7G5hzaeZr5Fk17FRuE0lChavi8SZlMy1yQjrAFCRXFrQoTfhxKk43d0EF83s1tMSWoyug6HGmU_bP9SyF8oIDbrjFs-Mei5EKwxKk5/w200-h113/Greenwashing.png" width="200" /></a>
+</td>
+</tr>
+<tr>
+<td class="tr-caption" style="text-align: center;">
+<a href="https://hntrbrk.com/terawulf/">Source</a>
+</td>
+</tr>
+</tbody>
+</table>
+You have only to scan Molly White’s
+<a href="https://www.web3isgoinggreat.com/"><i>Web3 is Going Just
+Great</i></a> to realize that
+<a href="https://www.quotes.net/mquote/90955">you will never find a more
+wretched hive of scum and villainy</a> than the cryptosphere. Everywhere
+you look you find lies, grift, fraud, and theft. Below the fold I
+discuss the latest example, in which a coal company marketing itself as
+“zero-carbon Bitcoin mining” is just the start.<br />
+<span><a name='more'></a></span> <br /> The legal way to make money from
+the wretched hives of scum and villainy in the markets is selling short.
+Recently, a startup called <a href="https://hntrbrk.com">Hunterbrook</a>
+has developed an innovative business model for doing so. Matt Levine
+<a href="https://www.bloomberg.com/opinion/articles/2024-04-02/a-hedge-fund-that-s-also-a-newspaper">explains</a>:<br />
+<blockquote>
+Hunterbrook hit upon a differentiated media business model:<br />
+<ol>
+<li>
+They would start a newsroom (Hunterbrook Media) to publish general news
+and investigative journalism.
+</li>
+<li>
+There’s no paywall and no advertising.
+</li>
+<li>
+But before each investigative piece is published, the newsroom would
+send it to Hunterbrook’s affiliated hedge fund (Hunterbrook Capital),
+which could trade on the news.
+</li>
+<li>
+The hedge fund’s trading profits can — they hope! — pay the journalists’
+salaries.
+</li>
+</ol>
+One way to think of this business model is that Hunterbrook is
+essentially an activist short-selling hedge fund, like Hindenburg
+Research: It investigates companies, finds problems, shorts the
+companies, and then noisily publishes its investigation to draw
+attention to the problems. But whereas Hindenburg is straightforwardly a
+short-selling firm, Hunterbrook’s news site is at least theoretically
+independent of its hedge fund, and if it publishes enough good general
+news then perhaps it can become more widely read and trusted — and have
+more stock-price impact — than a pure hedge fund.
+</blockquote>
+Hunterbrook’s latest investigation is entitled
+<a href="https://hntrbrk.com/terawulf/"><i>COAL, CRYPTO, AND FALSE
+BRANDING: INSIDE TERAWULF’S GREENWASHING MACHINE</i></a>. Here is
+Terawulf’s pitch:<br /> <br />
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+The future is
+<a href="https://twitter.com/hashtag/ZeroCarbon?src=hash&amp;ref_src=twsrc%5Etfw">#ZeroCarbon</a>
+♻️⚡️ and
+<a href="https://twitter.com/search?q=%24WULF&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$WULF</a>
+is ahead of the
+curve.<a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a>
+<a href="https://twitter.com/hashtag/BitcoinMining?src=hash&amp;ref_src=twsrc%5Etfw">#BitcoinMining</a>
+<a href="https://twitter.com/hashtag/SustainableMining?src=hash&amp;ref_src=twsrc%5Etfw">#SustainableMining</a>
+<a href="https://t.co/3aq4OipWld">pic.twitter.com/3aq4OipWld</a>
+</p>
+— TeraWulf (<span class="citation"
+data-cites="TeraWulfInc">@TeraWulfInc</span>)
+<a href="https://twitter.com/TeraWulfInc/status/1762840210684223922?ref_src=twsrc%5Etfw">February
+28, 2024</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Hunterbrook reveals that Terawulf’s claim to run on renewable power
+<a href="https://hntrbrk.com/terawulf/">is false</a>:<br />
+<blockquote>
+<ul>
+<li>
+TeraWulf Inc. (NASDAQ: $WULF) brands itself as a “zero-carbon Bitcoin
+miner” — and claims its commitment to renewable energy will help it land
+AI data center contracts. But the New York Power Authority, which
+supplies 45% of the facility’s energy, told Hunterbrook Media: “None of
+the power that NYPA provides the firm can be claimed as renewable
+power.”
+</li>
+<li>
+The rest of TeraWulf’s power is sourced from the New York grid, which is
+less than half zero-carbon, according to the New York Independent System
+Operator, the organization responsible for managing the state’s
+wholesale electric marketplace.
+</li>
+<li>
+The only way TeraWulf can legally substantiate its zero-carbon claims is
+by purchasing renewable energy credits (RECs), according to New York and
+federal regulators, but a TeraWulf spokesperson confirmed that the
+company has not done so. “Without the REC, there is no legal claim to
+the renewable attributes of electricity,” a spokesperson for the New
+York State Energy Research and Development Authority confirmed in an
+email to Hunterbrook.
+</li>
+</ul>
+</blockquote>
+But lying about renewables is just the tip of the iceberg. Hunterbrook
+reports that they <a href="https://hntrbrk.com/terawulf/">lied to get
+permits</a>:<br />
+<blockquote>
+The team behind TeraWulf promised New York State that it was “not
+targeting bitcoin or any other cyber currency” in a 2019 application for
+its facilities seen by Hunterbrook, despite seizing on the idea of
+bitcoin mining as a strategy as early as 2018.
+</blockquote>
+Hunterbrook is skeptical about Terawulf’s commitment to zero-carbon
+mining <a href="https://hntrbrk.com/terawulf/">because</a>:<br />
+<blockquote>
+The company’s management team, including CEO Paul Prager, trace their
+roots to Beowulf Energy LLC, an operator of fossil fuel plants that
+previously revived a struggling coal plant to mine bitcoin. The same
+TeraWulf executives who claim TeraWulf’s mining is zero-carbon likely
+continue to manage this coal plant.
+</blockquote>
+Prager apparently has a <a href="https://hntrbrk.com/terawulf/">lavish
+lifestyle</a>:<br />
+<blockquote>
+Prager has been known to split his time between a “five-bedroom Fifth
+Avenue co-op” in Manhattan and a sprawling 250-acre estate on Maryland’s
+Eastern Shore, according to a 2021 profile in Washingtonian. This
+estate, called Maiden Point Farm, is described as “more like a small
+village with 20 structures,” including a “main house, English-style
+gardens, a pool, a tennis pavilion, a squash court,” and even a private
+gas station for his car collection, which includes multiple Ferraris.
+</blockquote>
+How is this <a href="https://hntrbrk.com/terawulf/">funded?</a>:<br />
+<blockquote>
+Hunterbrook’s analysis of the company’s SEC filings shows TeraWulf’s
+operations are deeply entwined with a constellation of entities under
+Prager’s control, making it difficult to discern where TeraWulf ends and
+Prager’s other interests begin. <br /> <br /> Beowulf Electricity &amp;
+Data, a company owned and controlled by Prager, provides TeraWulf with
+“infrastructure, construction, operations and maintenance and
+administrative services necessary to build out and operate certain
+Bitcoin mining centers” — functions that TeraWulf claims are “readily
+available from independent entities.” <br /> <br /> In 2023, TeraWulf
+paid $20.3 million to Beowulf for these services, representing 38% of
+TeraWulf’s combined operating and administrative expenses. It also
+accounted for more than half of the company’s $29.4 million operating
+loss for the year. The trend continued into 2024, with TeraWulf
+recognizing $3.5 million in related party expenses in the first quarter
+alone, amounting to 21% of its operating and administrative expenses for
+the quarter.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;">
+<tbody>
+<tr>
+<td style="text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn6yRTuz8mAbVNa807Lj4r1qhPPwf0zQmJ7EpmWdinGsj7L0FOBq20m7-eo7UdMGsziFLdvC4cc08a8GRnmkjORyZWhxAX7cmHP-eon7GOwwLqVJ0ZirOU522g_SrD4zoXuQPdkRVtzGtZ3kNiOYwBQYlHoPIsamfK4ZnlMEaFN06bX01S_pNdOaDDx9et/s775/PragerStock.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="576" data-original-width="775" height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn6yRTuz8mAbVNa807Lj4r1qhPPwf0zQmJ7EpmWdinGsj7L0FOBq20m7-eo7UdMGsziFLdvC4cc08a8GRnmkjORyZWhxAX7cmHP-eon7GOwwLqVJ0ZirOU522g_SrD4zoXuQPdkRVtzGtZ3kNiOYwBQYlHoPIsamfK4ZnlMEaFN06bX01S_pNdOaDDx9et/w200-h149/PragerStock.png" width="200" /></a>
+</td>
+</tr>
+<tr>
+<td class="tr-caption" style="text-align: center;">
+<a href="https://hntrbrk.com/terawulf/">Source</a>
+</td>
+</tr>
+</tbody>
+</table>
+Prager apears to have another way to
+<a href="https://hntrbrk.com/terawulf/">fund his lifestyle</a>:<br />
+<blockquote>
+In recent years, Prager has received a significant quantity of TeraWulf
+shares — through both the related party transactions and financial
+activities. And in an open letter published early in 2023, he shared
+that he hadn’t “sold a share” as “evidence of my conviction.” But since
+mid-2023, Prager has significantly reduced his claimed ownership of the
+company through a series of stock disposals.<br /> <br /> His reported
+ownership has dwindled, with his holdings falling to around 10 million
+shares compared to more than 30 million shares in 2023.
+</blockquote>
+Executives of Bitcoin miners have a history of looting their companies.
+Two years ago Paul Butler wrote in
+<a href="https://paulbutler.org/2022/the-problem-with-bitcoin-miners/"><i>The
+problem with bitcoin miners</i></a>:<br />
+<blockquote>
+There’s one group of people for whom bitcoin mining is an extremely
+lucrative business: executives. Last year, one MARA executive
+<a href="https://www.sec.gov/Archives/edgar/data/0001507605/000149315222011630/formdef14a.htm">earned
+over $220 million</a> in cash and stock-based compensation, in a year
+when the company’s total revenue was $150 million. RIOT’s top five
+executives collectively took home a more modest
+<a href="https://www.sec.gov/ix?doc=/Archives/edgar/data/1167419/000107997322000531/riot_10ka-123121.htm#item11">$90
+million</a> in a year with a net loss.
+</blockquote>
+How was this
+<a href="https://paulbutler.org/2022/the-problem-with-bitcoin-miners/">possible?</a>::<br />
+<blockquote>
+This, I think, points to the crux of the problem. Investors have been
+happy to provide capital to these companies, looking for anything in the
+public markets that provides some exposure to bitcoin, without paying
+much attention to what the companies are doing.<br /> <br /> I don’t
+think it ends well.
+</blockquote>
+It certianly looks like everyone except Hunterbrook wasn’t “paying much
+attention to what the companies are doing”.<br /> <br /> Like many
+miners in the wake of
+<a href="https://blog.dshr.org/2024/05/one-heck-of-halvening.html"><i>One
+Heck Of A Halvening</i></a>, Terawulf is trying to
+<a href="https://pivot-to-ai">pivot to AI</a>. Hunterbrook notes
+<a href="https://hntrbrk.com/terawulf/">that</a>:<br />
+<blockquote>
+TeraWulf has not resisted the hype, with the management team
+<a href="https://www.investing.com/news/company-news/cantor-fitzgerald-lifts-terawulf-stock-price-target-highlights-robust-demand-93CH-3497574">suggesting</a>
+it could land a similar deal. CFO Fleury specified in an
+<a href="https://www.alphaspread.com/security/nasdaq/wulf/earnings-calls/q1-2024">earnings
+call</a> earlier this year that, by leasing out all of the 300 available
+megawatts at Lake Mariner, the company could bring in $300 million to
+$450 million in hosting revenues a year. TeraWulf’s revenue last year
+was $69 million.
+</blockquote>
+But this won’t happen <a href="https://hntrbrk.com/terawulf/">any time
+soon</a>:<br />
+<blockquote>
+TeraWulf doesn’t yet have AI-ready facilities, unlike competitors who
+made the switch to HPC data center hosting years ago. But TeraWulf
+announced it is on track to build a 2 MW experimental AI data center by
+the third quarter of this year and plans to build another 20 MW data
+center with a target completion date of the end of 2024.
+</blockquote>
+<p>I have only hit the highlights of Hunterbrook’s work, you should go
+<a href="https://hntrbrk.com/terawulf/">read the whole
+thing</a>.<br /></p>
+<p><a href="https://blog.dshr.org/2024/08/greenwashing.html"
+class="uri">https://blog.dshr.org/2024/08/greenwashing.html</a></p>
+<hr />
+<h2 id="curl-welcomes-wcurl-to-the-team">curl welcomes wcurl to the
+team</h2>
+<p>date: 2024-08-08, from: Daniel Stenberg Blog</p>
+<p>The curl project welcomes its newest sibling into the family: wcurl.
+I already wrote about wcurl. I will try to not repeat myself too much
+here, but starting now wcurl has its new home under the curl
+organization umbrella. It is now an official curl project. www:
+https://curl.se/wcurlGitHub: https://github.com/curl/wcurl The initial
+developers and people behind …
+<a href="https://daniel.haxx.se/blog/2024/08/08/curl-welcomes-wcurl-to-the-team/" class="more-link">Continue
+reading <span class="screen-reader-text">curl welcomes wcurl to the
+team</span> <span class="meta-nav">→</span></a></p>
+<p><a
+href="https://daniel.haxx.se/blog/2024/08/08/curl-welcomes-wcurl-to-the-team/"
+class="uri">https://daniel.haxx.se/blog/2024/08/08/curl-welcomes-wcurl-to-the-team/</a></p>
+<hr />
+<h2 id="the-cost-of-fueling-my-body">The cost of fueling my body</h2>
+<p>date: 2024-08-08, from: Dave Rupert blog</p>
+<p>
+I’ve become a bit obsessed with how much it costs to fuel my body during
+the working hours.
+</p>
+<table>
+<thead>
+<tr>
+<th>
+Item
+</th>
+<th>
+Cost/Serving
+</th>
+<th>
+Qty/Day
+</th>
+<th>
+Cost/Day
+</th>
+<th>
+Qty/Month
+</th>
+<th>
+Cost/Month
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<a href="https://daverupert.com/2023/10/snap-kitchen/">Snap Kitchen
+500cal meal</a>
+</td>
+<td>
+$10.00
+</td>
+<td>
+1
+</td>
+<td>
+$10.00
+</td>
+<td>
+22
+</td>
+<td>
+$220
+</td>
+</tr>
+<tr>
+<td>
+Fairlife 42g Protein Shake
+</td>
+<td>
+$3.50
+</td>
+<td>
+1
+</td>
+<td>
+$3.50
+</td>
+<td>
+22
+</td>
+<td>
+$77
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://daverupert.com/2023/07/liquid-death/">Liquid Death</a>
+</td>
+<td>
+$1.75
+</td>
+<td>
+1
+</td>
+<td>
+$1.75
+</td>
+<td>
+22
+</td>
+<td>
+$38.50
+</td>
+</tr>
+<tr>
+<td>
+Ruta Maya Dark Roast
+</td>
+<td>
+$0.25
+</td>
+<td>
+3
+</td>
+<td>
+$0.75
+</td>
+<td>
+66
+</td>
+<td>
+$16.50
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://daverupert.com/2023/10/califia-farms-oat-barista/">Califia
+Farms Café Oat</a>
+</td>
+<td>
+$0.11
+</td>
+<td>
+3
+</td>
+<td>
+$0.33
+</td>
+<td>
+66
+</td>
+<td>
+$7.26
+</td>
+</tr>
+<tr>
+<td>
+Total
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+$16.33
+</td>
+<td>
+</td>
+<td>
+$359.26
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+To keep me and my brain running during working hours costs me
+~$359.26/month. Not much to say beyond that –no grand epiphanies– except
+that I think it’s too expensive. Sitting in an office by myself costs me
+$16.33/day (or $2/hour). This budget doesn’t include breakfast, dinner,
+exercise, healthcare, transit, internet, electricity, or office
+supplies… all necessities that enable the work. This is just the daily
+cost of caloric fuel to keep my body going during the nine-to-five. My
+family has three other humans in it too, so this seems collossaly
+expensive.
+</p>
+<p>
+If I wanted to save money (I sort of do), here’s what I’d could try to
+optimize from top to bottom:
+</p>
+<ul>
+<li>
+I could make my own pre-made meals for about ~$2/meal. I’ve had success
+with this but it requires a lot of weekend logistics to execute
+properly. This would be the most significant cost reduction, costing
+only $44/month and saving $176/month.
+</li>
+<li>
+I could buy whey protein in bulk. A 5 lb bag of Muscle Milk (nearest
+approximate flavor) is $72/bag and contains 68 servings for a reduced
+costs of $1.05/serving. However, one serving only has 25g of protein, so
+if I’d need to double the scoops. The total cost would then be
+$2.11/serving or $46.42/month. Buying bulk powder makes fiscal sense,
+but $30/month to not have to deal with drinking clumpy protein shakes
+and washing crusted stinky shakers seems almost worth it.
+</li>
+<li>
+I considered eggs as an alternate source of protein instead. A single
+egg has ~6g of protein and costs about 50¢. The cost could potentially
+come down but the bigger issue is to get the same 42g of protein I’d
+need to eat 7 eggs. I don’t know if you’ve eaten eggs before but <u>7
+eggs is a lot of eggs</u>. Imagine woofing down 7 sweaty hard-boiled
+orbs a couple times a day, yikes.
+</li>
+<li>
+I could brew my own agave-sweetened tea. I’ve done this once, but the
+crisp flavor profile wasn’t the same so I wouldn’t call it a success.
+Needs more experimentation.
+</li>
+<li>
+Thanks to Costco selling our favorite local coffee roaster in bulk, we
+have caffeine ritual costs dialed down about as low as they can go. Feel
+comfortable there.
+</li>
+</ul>
+<p>
+Lowering my lunch costs stands out as the best candidate for
+improvement. But
+<a href="https://daverupert.com/2023/10/snap-kitchen/">as I noted
+before</a>, adding even a small pile of extra duties risks toppling the
+wagon and I’m back to eating emergency $14 Spicy Chicken Sando Combos to
+quench my hunger. I wonder where my daily costs fit on a graph of
+national statistics. Is this average? Is this Bidenomic inflation? Am I
+making myself poor with my avocado toast? Someone who understands
+finances help me budget! Ack!
+</p>
+<p><a href="https://daverupert.com/2024/08/fueling-my-body/"
+class="uri">https://daverupert.com/2024/08/fueling-my-body/</a></p>
+<hr />
+<h2 id="bilbao-spain">Bilbao, Spain</h2>
+<p>date: 2024-08-08, from: mrusme blog</p>
+<p>“Bilbao is a city in northern Spain, the largest city in the province
+of Biscay and in the Basque Country as a whole. It is also the largest
+city proper in northern Spain. Bilbao is the tenth largest city in
+Spain, with a population of more than 347,000 as of 2023.”</p>
+<p><a href="https://xn--gckvb8fzb.com/travel/spain/bilbao/"
+class="uri">https://xn--gckvb8fzb.com/travel/spain/bilbao/</a></p>
+<hr />
+<h2 id="my-version-of-the-nyt">My version of the NYT</h2>
+<p>date: 2024-08-08, from: Dave Winer’s Scripting News</p>
+<p>
+My version of the NY Times has campaign news too, featuring the cutest
+kitty on the trail, headed to North Carolina today to support the cute
+and adorable running mates, Kamala and Tim!
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/08/08/kittyHeadsSouth.png">
+</center>
+Kitten hits the trail with Kamala and Tim!
+</div>
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/08/08/airforce2.png">
+</center>
+A real-life photo of Air Force 2, in Detroit.
+</div>
+</p>
+<p><a
+href="http://scripting.com/2024/08/08/140537.html?title=myVersionOfTheNyt"
+class="uri">http://scripting.com/2024/08/08/140537.html?title=myVersionOfTheNyt</a></p>
+<hr />
+<h2 id="high-precision-datetime-in-sqlite">High-precision date/time in
+SQLite</h2>
+<p>date: 2024-08-08, from: Anton Zhiyanov blog</p>
+<p>A rich set of functions for working with date, time and
+durations.</p>
+<p><a href="https://antonz.org/sqlean-time/"
+class="uri">https://antonz.org/sqlean-time/</a></p>
+<hr />
+<h2 id="the-second-worst-person-in-american-public-life-is">The
+second-worst person in American public life is …</h2>
+<p>date: 2024-08-08, from: Robert Reich’s blog</p>
+<p>We can fight Trump with our votes. But what to do about his newfound
+ally?</p>
+<p><a
+href="https://robertreich.substack.com/p/the-second-worst-person-in-american"
+class="uri">https://robertreich.substack.com/p/the-second-worst-person-in-american</a></p>
+<hr />
+<h2 id="august-7-2024">August 7, 2024</h2>
+<p>date: 2024-08-08, from: Heather Cox Richardson blog</p>
+<p>The Democratic presidential ticket of Vice President Kamala Harris
+and Minnesota governor Tim Walz continues to gain momentum, with people
+flocking to their events and pouring money into the Democrats’ campaign:
+in the first 24 hours after Walz joined the ticket, the party raised $36
+million from more than 450,000 donors, more than a third of them giving
+for the first time.</p>
+<p><a href="https://heathercoxrichardson.substack.com/p/august-7-2024"
+class="uri">https://heathercoxrichardson.substack.com/p/august-7-2024</a></p>
+<hr />
+<h2 id="democratic-party-greatness">Democratic Party greatness</h2>
+<p>date: 2024-08-08, from: Dave Winer’s Scripting News</p>
+<p>
+I have great respect for Hillary Clinton and supported her over Sanders
+in 2016. I also supported Biden because we needed to win in 2020.
+</p>
+<p>
+But we could have had a campaign team like the one we saw yesterday and
+today, with some very impressive presenters who’ve yet to take the
+stage, we could have had it in 2016. We didn’t have to go through the
+tragedy of Trump.
+</p>
+<p>
+The Democrats are stage managing perfectly now. I never really thought
+we’d see this day, but here it is.
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/08/07/wordleKittyOnTheRoad.png">
+</center>
+Our favorite kitten is on the road with the Democrats.
+</div>
+</p>
+<p><a
+href="http://scripting.com/2024/08/07/032858.html?title=democraticPartyGreatness"
+class="uri">http://scripting.com/2024/08/07/032858.html?title=democraticPartyGreatness</a></p>
+<hr />
+<h2
+id="overriding-gatekeeper-protections-in-macos-15-sequoia-will-require-clicking-through-panels-in-system-settings">Overriding
+Gatekeeper Protections in MacOS 15 Sequoia Will Require Clicking Through
+Panels in System Settings</h2>
+<p>date: 2024-08-08, updated: 2024-08-08, from: Daring Fireball</p>
+<p><a href="https://developer.apple.com/news/?id=saqachfa"
+class="uri">https://developer.apple.com/news/?id=saqachfa</a></p>
+<hr />
+<h2
+id="macos-15-sequoia-adds-weekly-thats-right-weekly-nagging-permission-prompts-for-screenshot-and-screen-recording-apps">MacOS
+15 Sequoia Adds Weekly — That’s Right, Weekly — Nagging Permission
+Prompts for Screenshot and Screen Recording Apps</h2>
+<p>date: 2024-08-08, updated: 2024-08-08, from: Daring Fireball</p>
+<p><a
+href="https://9to5mac.com/2024/08/06/macos-sequoia-screen-recording-privacy-prompt/"
+class="uri">https://9to5mac.com/2024/08/06/macos-sequoia-screen-recording-privacy-prompt/</a></p>
+<hr />
+<h2 id="googles-real-googly.-no-not-the-anti-trust">Google’s Real
+Googly. No Not The Anti-Trust!</h2>
+<p>date: 2024-08-08, from: Om Malik blog</p>
+<p>What does Afghan spin bowler Rashid Khan have to do with Google,
+Microsoft, OpenAI and Yahoo? Well, it’s all neatly wrapped in my
+3,500-word essay on the big changes in the tech landscape – and no, the
+antitrust actions have nothing to do with it.</p>
+<p><a
+href="https://om.co/2024/08/07/googles-real-googly-no-not-the-anti-trust/"
+class="uri">https://om.co/2024/08/07/googles-real-googly-no-not-the-anti-trust/</a></p>
+<hr />
+<h2 id="the-verge-humanes-daily-returns-are-outpacing-sales">The Verge:
+‘Humane’s Daily Returns Are Outpacing Sales’</h2>
+<p>date: 2024-08-08, updated: 2024-08-08, from: Daring Fireball</p>
+<p><a
+href="https://www.theverge.com/2024/8/7/24211339/humane-ai-pin-more-daily-returns-than-sales"
+class="uri">https://www.theverge.com/2024/8/7/24211339/humane-ai-pin-more-daily-returns-than-sales</a></p>
+<hr />
+<h2 id="teach-your-children-well">Teach Your Children Well</h2>
+<p>date: 2024-08-07, from: Dan Rather’s Steady</p>
+<p>Why Tim Walz is the perfect antidote to Project 2025</p>
+<p><a href="https://steady.substack.com/p/teach-your-children-well"
+class="uri">https://steady.substack.com/p/teach-your-children-well</a></p>
 <hr />
 <h2
 id="election-countdown-90-days-to-go-three-lessons-in-speech-making.">Election
@@ -397,7 +1180,8 @@ News)</p>
 sobbing all the way through it. What an emotional release. We needed and
 deserved this. Beyond hope, we’re finally going to fight. I hope
 President Kamala is really up to it, because we have a pretty
-substantial cleanup job to do here.</p>
+substantial cleanup job to do
+<a href="https://en.wikipedia.org/wiki/Trump_v._United_States_(2024)">here</a>.</p>
 <p><a href="http://scripting.com/2024/08/07.html#a134011"
 class="uri">http://scripting.com/2024/08/07.html#a134011</a></p>
 <hr />

@@ -1,11 +1,111 @@
 ---
 title: motorcycles 2024.32
-updated: 2024-08-07 15:20:34
+updated: 2024-08-08 08:29:37
 ---
 
 # motorcycles 2024.32
 
-(date: 2024-08-07 15:20:34)
+(date: 2024-08-08 08:29:37)
+
+---
+
+## Honda Invites 500 Testers To Ride Its New Electric Scooter, For Free
+
+date: 2024-08-08, from: Ride Apart, Electric Motorcycle News
+
+How would you like to borrow a vehicle from a major OEM for free for two months? 
+
+<https://www.rideapart.com/news/729412/honda-em1e-electric-scooter-trial/>
+
+---
+
+## Benchmade's PSK Pocket Knife Will Survive Anything, Even Getting Run Over by an ATV
+
+date: 2024-08-08, from: Ride Apart, Electric Motorcycle News
+
+A burly EDC ready for whatever. 
+
+<https://www.rideapart.com/news/729398/benchmade-psk-pocket-knife/>
+
+---
+
+## Guy Builds Two-Stroke Engine From Hardware Store Parts, But There's More
+
+date: 2024-08-08, from: Ride Apart, Electric Motorcycle News
+
+Patience and good problem-solving skills go hand in hand. 
+
+<https://www.rideapart.com/news/729399/scratch-built-two-stroke-engine/>
+
+---
+
+## Please, Someone Stop Me From Buying this Wrecked Ducati Panigale V4 R
+
+date: 2024-08-08, from: Ride Apart, Electric Motorcycle News
+
+I'd never financially recover. 
+
+<https://www.rideapart.com/news/729393/wrecked-ducati-panigale-v4-r-copart/>
+
+---
+
+## Can This New Entry-Level Sportbike Dominate the Market?
+
+date: 2024-08-08, from: Ride Apart, Electric Motorcycle News
+
+It’s set to make its debut at EICMA.  
+
+<https://www.rideapart.com/news/729286/qj-motor-srk421rr-coming-eicma-2024/>
+
+---
+
+## New Patent Shows Electric Yamaha Sportbike, Production Uncertain
+
+date: 2024-08-08, from: Ride Apart, Electric Motorcycle News
+
+Could this be the first serious electric sportbike we've seen from a major OEM? 
+
+<https://www.rideapart.com/news/729297/electric-yamaha-sportbike-patent/>
+
+---
+
+## Here’s a Sneak Peek at What KTM, Husqvarna, GasGas, and MV are Bringing to EICMA
+
+date: 2024-08-08, from: Ride Apart, Electric Motorcycle News
+
+Pierer promises an exciting show across the KTM, Husqvarna, GasGas, and MV Agusta brands.  
+
+<https://www.rideapart.com/news/729281/ktm-group-sneak-peek-eicma-2024/>
+
+---
+
+## The Rarest Suomy in MotoGP Can Be Yours, a Bagnaia S1-XR GP Replica
+
+date: 2024-08-08, from: Ride Apart, Electric Motorcycle News
+
+This might be the slickest MotoGP replica on the market. 
+
+<https://www.rideapart.com/news/729247/suomy-sr-xr-gp-bagnaia-replica/>
+
+---
+
+## ARCA Menards West Series: 2024 Tri-City Race Preview
+
+date: 2024-08-08, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires. This Saturday, August 10, 2024, an old acquaintance will make his return to the ARCA Menards West Series, it is the Tri-City&#8230;  
+
+<https://kickinthetires.net/nascar/arca-west-2024-tri-city-race-preview/>
+
+---
+
+## Tropical Storm Debby Cancels Richmond’s Pre-Event Activities
+
+date: 2024-08-08, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor The potential threat of severe weather and flooding from Tropical Storm Debby has forced Richmond Raceway to cancel multiple pre-race events in the lead up&#8230;  
+
+<https://kickinthetires.net/nascar/tropical-storm-debby-cancels-richmond-pre-event-activities/>
 
 ---
 

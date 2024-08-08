@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.32
-updated: 2024-08-07 15:20:33
+updated: 2024-08-08 08:29:35
 ---
 
 # libraries 2024.32
 
-(date: 2024-08-07 15:20:33)
+(date: 2024-08-08 08:29:35)
+
+---
+
+## Should Publishers Invoice Authors for Retraction Costs?
+
+date: 2024-08-08, from: Scholarly Kitchen
+
+<p>It is essential to address the hidden costs of retraction and to discuss who needs to bear this cost.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/08/08/should-publishers-invoice-authors-for-retraction-costs/">Should Publishers Invoice Authors for Retraction Costs?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/08/08/should-publishers-invoice-authors-for-retraction-costs/>
 
 ---
 
@@ -25,7 +37,7 @@ date: 2024-08-07, from: Scholarly Kitchen
 
 date: 2024-08-05, from: Association of Research Libraries News
 
-<p>Last Updated on August 7, 2024, 2:25 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, August 6 &#124; Wednesday, August 7 &#124; Thursday,...</p>
+<p>Last Updated on August 8, 2024, 9:20 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, August 6 &#124; Wednesday, August 7 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-august-5-8/">Day in Review (August 5–8)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

@@ -1,11 +1,365 @@
 ---
 title: pacific 2024.32
-updated: 2024-08-07 15:20:29
+updated: 2024-08-08 08:29:31
 ---
 
 # pacific 2024.32
 
-(date: 2024-08-07 15:20:29)
+(date: 2024-08-08 08:29:31)
+
+---
+
+## RMI athletes perform in Paris
+
+date: 2024-08-08, from: Marshal Islands Journal
+
+<p>Two of the three Marshall Islands athletes competing in the early stages of the Paris Olympic Games delivered “personal best” times in their events. Phillip Kinono swam a personal best time of 27.43 seconds in the 50m freestyle event. He won his heat, which was an early preliminary heat. His time placed him number six [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/rmi-athletes-perform-in-paris/">RMI athletes perform in Paris</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/rmi-athletes-perform-in-paris/>
+
+---
+
+## PHOTOS: Kapuna Softball State Tournament held in Kona
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; The Department of Parks and Recreation&#8217;s Elderly Activities Division (EAD) kicked off the 48th Hawai&#8216;i State Senior Softball Tournament on Kona on Tuesday, hosting 62 teams from around the state for the three-day tournament.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/sports/photos-kapuna-softball-state-tournament-held-in-kona/>
+
+---
+
+## Jim Harbaugh sanctioned by NCAA in Michigan recruiting probe
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>ANN ARBOR, Mich. &#8212; Former Michigan football head coach Jim Harbaugh has been punished by the NCAA with a four-year show-cause order and a one-year suspension for violating head-coach responsibility obligations, &#8220;unethical conduct&#8221; and a failure to promote &#8220;an atmosphere of compliance&#8221; for his role in an investigation into impermissible recruiting in 2021 during a COVID-19 dead period.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/sports/jim-harbaugh-sanctioned-by-ncaa-in-michigan-recruiting-probe/>
+
+---
+
+## Team USA routs Nigeria, advances to semifinal vs. Australia
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; With so little time to prepare as a team ahead of the Olympics, U.S. coach Cheryl Reeve had always said she was going to look at each game as an opportunity to learn more about her players, her team and their chemistry.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/sports/team-usa-routs-nigeria-advances-to-semifinal-vs-australia/>
+
+---
+
+## Wet weather a concern at Wyndham Championship
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>GREENSBORO, N.C. &#8212; The Wyndham Championship serves as a final chance to improve positioning for the FedEx Cup playoffs, so the last stop on the PGA Tour&#8217;s regular season has the attention of plenty of golfers. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/sports/wet-weather-a-concern-at-wyndham-championship/>
+
+---
+
+## How US public schools became a new religious battleground
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>It is a foundational democratic tenet taught in every basic U.S. history course: the Constitution bars the government from endorsing an official religion or favoring one over others.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/nation-world-news/how-us-public-schools-became-a-new-religious-battleground/>
+
+---
+
+## Boeing unauthorized 737 work issue should have been caught years earlier, NTSB says
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The head of the National Transportation Safety Board said on Wednesday the Alaska Airlines Boeing 737 MAX 9 mid-air emergency was entirely avoidable because the planemaker should have addressed unauthorized production work long ago. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/nation-world-news/boeing-unauthorized-737-work-issue-should-have-been-caught-years-earlier-ntsb-says/>
+
+---
+
+## Boeing’s Starliner astronauts could return on SpaceX capsule in Feb 2025, NASA says
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; NASA officials said on Wednesday the two astronauts delivered to the International Space Station in June by Boeing&#8217;s Starliner could return on SpaceX&#8217;s Crew Dragon in February 2025 if Starliner is still deemed unsafe to return to Earth. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/nation-world-news/boeings-starliner-astronauts-could-return-on-spacex-capsule-in-feb-2025-nasa-says/>
+
+---
+
+## Anti-racism protests sweep Britain after far-right riots
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; Thousands of police and anti-racism protesters gathered on streets across Britain on Wednesday to challenge expected far-right groups that failed to materialise following more than a week of violent racist attacks targeting Muslims and migrants. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/nation-world-news/anti-racism-protests-sweep-britain-after-far-right-riots/>
+
+---
+
+## US 30-year mortgage rate drops on weak jobs data, Fed rate-cut signals
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>The interest rate for the most popular U.S. home loan plunged last week to its lowest level in 15 months, after the Federal Reserve signaled it could start cutting its policy rate in September and a downshift in the job market bolstered financial market bets the reductions in borrowing costs would be big. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/nation-world-news/us-30-year-mortgage-rate-drops-on-weak-jobs-data-fed-rate-cut-signals/>
+
+---
+
+## Nation and world news in brief for August 8
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p><strong>Delta passengers sue airline for refusing refunds after massive computer outage</strong></p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/nation-world-news/nation-and-world-news-in-brief-for-august-8/>
+
+---
+
+## I was homeless. Gov. Newsom’s order to dismantle encampments is outrageous
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>It&#8217;s outrageous that the Supreme Court is allowing states and cities to criminalize homelessness and that Gov. Gavin Newsom is ordering encampments dismantled.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/opinion/i-was-homeless-gov-newsoms-order-to-dismantle-encampments-is-outrageous/>
+
+---
+
+## Obituaries for August 8
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>Alan Leigh Holokai Brown, 77, of Milolii died March 3. Born in Honolulu, he was a U.S. Army veteran. Paddle-out celebration of life 11 a.m. Monday, Sept. 2,in Milolii. followed by lunch, love and music. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/obituaries/obituaries-for-august-8-9/>
+
+---
+
+## Scientists find arm bone of ancient ‘hobbit’ human
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>A new study describes 700,000-year-old teeth and arm bones from one of our most enigmatic relatives: a toddler-size &#8220;hobbit&#8221; who lived on a small island between the Indian and Pacific Oceans.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/nation-world-news/scientists-find-arm-bone-of-ancient-hobbit-human/>
+
+---
+
+## Walz makes the ticket. Good
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>America&#8217;s heartland is commendably getting the political recognition it&#8217;s due this year, with Republicans and Democrats tapping a pair of Midwesterners to balance out presidential tickets headed by a New Yorker and a San Franciscan.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/opinion/walz-makes-the-ticket-good/>
+
+---
+
+## 5 ways Hawaii is trying to prevent the next deadly fire
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>LAHAINA, Maui &#8212; A year ago, the deadliest American wildfire in more than a century took 102 lives on Maui, leaving the historic town of Lahaina in ashes and spurring a series of investigations into what could have been done to better prepare for such a disaster.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/hawaii-news/5-ways-hawaii-is-trying-to-prevent-the-next-deadly-fire/>
+
+---
+
+## Council votes to override mayor’s veto: Bill on access to transfer stations becomes law
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Council defied Mayor Mitch Roth &#8212; and its own legal advisers &#8212; in overturning a veto on Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/hawaii-news/council-votes-to-override-mayors-veto-bill-on-access-to-transfer-stations-becomes-law/>
+
+---
+
+## Council votes to offer tax relief to those who rent out part of their home for at least six months
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>Homeowners who rent out parts of their home for six months or more would be eligible for a tax break under a bill approved by the Hawaii County Council.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/hawaii-news/council-votes-to-offer-tax-relief-to-those-who-rent-out-part-of-their-home-for-at-least-six-months/>
+
+---
+
+## Retired HPD assistant chief allowed deferred plea
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>A retired Hawaii Police Department assistant chief is serving court-ordered supervision for a domestic-related incident last October in Kailua-Kona.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/hawaii-news/retired-hpd-assistant-chief-allowed-deferred-plea/>
+
+---
+
+## After-school programs launch at two West Hawaii schools
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>After-School All-Stars Hawaii has expanded to two new locations in West Hawaii: Konawaena Middle School and Waikoloa Elementary and Middle School.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/community/after-school-programs-launch-at-two-west-hawaii-schools/>
+
+---
+
+## Police offer child safety seat clinic in Pahala
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Police Department will hold a free child safety seat clinic for families from 9 a.m. to 12 p.m., this Saturday in Pahala at the Robert Herkes Gymnasium and Shelter parking lot, 96-1219 Kamani St.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/community/police-offer-child-safety-seat-clinic-in-pahala/>
+
+---
+
+## Rubber Duckie Race brings in $33K for nonprofit
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>WAIKOLOA BEACH RESORT &#8212; On a fun-filled Fourth of July, Kings&#8217; Shops held its Great Waikoloa Rubber Duckie Race and raised over $33,000 for the United Cerebral Palsy Association of Hawaii, celebrating 65 years.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/community/rubber-duckie-race-brings-in-33k-for-nonprofit/>
+
+---
+
+## Hilo business, nonprofit provide ‘bouldering’ as a way to boost keiki
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>Big Island Climbing and its nonprofit partner, Adventure Centers Hawaii, are working to uplift youth in the community through &#8220;bouldering&#8221; &#8212; a form of free climbing on artificial rock walls.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/hawaii-news/hilo-business-nonprofit-provide-bouldering-as-a-way-to-boost-keiki/>
+
+---
+
+## Model advocate for homeless Twinkle Borge remembered for reshaping attitudes
+
+date: 2024-08-08, from: Hawaii Tribune Harold
+
+
+				<p>Twinkle Borge died Monday at the age of 54 after fiercely fighting for the members of her homeless community at the Waianae Small Boat Harbor and, along the way, helping to change the way that Hawaii thinks about addressing communities of homeless people who are willing to help themselves.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/08/hawaii-news/model-advocate-for-homeless-twinkle-borge-remembered-for-reshaping-attitudes/>
+
+---
+
+## Concon talks at Uliga Church
+
+date: 2024-08-08, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Members of the United Church of Christ engaged in a lively discussion with the Post Constitution Convention Committee last Friday at the UCC headquarters in Uliga. The forum centered on the seven proposed amendments that will be up for vote in the upcoming Constitutional Convention in mid-April next year. Former Parliament Speaker Kenneth [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/concon-talks-at-uliga-church/">Concon talks at Uliga Church</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/concon-talks-at-uliga-church/>
+
+---
+
+## CNMI faces shrinking population amid dwindling economy
+
+date: 2024-08-08, from: Pacific Island Times
+
+As the commonwealth's economy  seesaws between boom and bust, some residents are packing up for greener pastures By Jayvee Vallejera  ... 
+
+<https://www.pacificislandtimes.com/post/cnmi-faces-shrinking-population-amid-dwindling-economy>
+
+---
+
+## Hilda: ‘Enra’ rollout in December
+
+date: 2024-08-08, from: Marshal Islands Journal
+
+<p>HILARY HOSIA The long-awaited “Enra Bwe Jen Lale Rara” universal payment update was shared by President Hilda Heine during the opening of Nitijela Monday. The universal compensation scheme would provide money to Marshallese individuals as announced by President Hilda and her Cabinet early this year. The “Enra” plan, which is know internationally as a universal [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/hilda-enra-rollout-in-december/">Hilda: ‘Enra’ rollout in December</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/hilda-enra-rollout-in-december/>
+
+---
+
+##  The Article V test: Who will reinforce the US for Guam's defense? 
+
+date: 2024-08-08, from: Pacific Island Times
+
+Any attack on Guam or other territories in the Pacific, “even if outside of the geographic scope of Article V, would almost certainly... 
+
+<https://www.pacificislandtimes.com/post/the-article-v-test-who-will-reinforce-the-us-for-guam-s-defense>
+
+---
+
+## Survey shows decline in trochus population in Palau
+
+date: 2024-08-07, from: Pacific Island Times
+
+By Pacific Island Times News Staff The population of trochus, known locally as Semum, in Palau has significantly declined, according to a... 
+
+<https://www.pacificislandtimes.com/post/survey-shows-decline-in-trochus-population-in-palau>
+
+---
+
+## Kauai’s Tatiana Weston-Webb nabs Olympic silver in surfing
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>Kauai&#8217;s Tatiana Weston-Webb settled for a silver medal in women&#8217;s surfing after losing to Caroline Marks of the United States in a dramatic final heat this afternoon in the Paris Olympics at Teahupo&#8217;o, Tahiti.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/sports/kauais-tatiana-weston-webb-nabs-olympic-silver-in-surfing/>
 
 ---
 
@@ -26,6 +380,18 @@ date: 2024-08-07, from: Pacific Island Times
 By Pacific Island Times News Staff Todu Guam Foundation Health and Wellness Center has been approval as a National Health Service Corps... 
 
 <https://www.pacificislandtimes.com/post/todu-guam-health-center-recognized-as-a-national-health-service-corps-site>
+
+---
+
+## Young women death threat
+
+date: 2024-08-07, from: Marshal Islands Journal
+
+<p>HILARY HOSIA A massive campaign to prevent, treat and eliminate cervical cancer is underway by the Ministry of Health and Human Services following a financial boost of $100,000 from the United Nations Population Fund. “No one should die from cervical cancer — zero,” MOHHS Deputy Secretary Mailynn Konelios-Lang said during the handover ceremony for the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/young-women-death-threat/">Young women death threat</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/young-women-death-threat/>
 
 ---
 
@@ -312,6 +678,18 @@ date: 2024-08-07, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/08/07/hawaii-news/police-seek-help-to-find-missing-man-77/>
+
+---
+
+## Maui transitional housing for fire survivors proliferating one year after disaster
+
+date: 2024-08-07, from: Hawaii Tribune Harold
+
+
+				<p>It&#8217;s only a trickle at the moment, but the supply of new homes for transitional use by Maui wildfire survivors is on the cusp of surging one year after the disaster.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/07/hawaii-news/maui-transitional-housing-for-fire-survivors-proliferating-one-year-after-disaster/>
 
 ---
 
@@ -626,6 +1004,16 @@ date: 2024-08-06, updated: 2024-08-07, from: Marianas Variety
 KYOKO Nakayama, a Teikyo University professor and fa’fa’nague or Chamorro dance instructor, is visiting Saipan with her students to help broaden their perspective about Chamorro culture. 
 
 <https://www.mvariety.com/news/local/japan-professor-broadens-students-cultural-horizons-on-saipan/article_a2e64a62-53c6-11ef-b1b9-6ba1f10a7d31.html>
+
+---
+
+## USS Abraham Lincoln's port visit brings about $1 million per day during port call 
+
+date: 2024-08-06, from: Pacific Island Times
+
+By Frank Whitman Five thousand sailors and Marines attached to the aircraft carrier USS Abraham Lincoln arrived in Guam for a port visit... 
+
+<https://www.pacificislandtimes.com/post/uss-abraham-lincoln-brings-5-000-sailors-to-guam-during-port-call>
 
 ---
 

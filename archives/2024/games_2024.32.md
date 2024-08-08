@@ -1,11 +1,91 @@
 ---
 title: games 2024.32
-updated: 2024-08-07 15:20:32
+updated: 2024-08-08 08:29:34
 ---
 
 # games 2024.32
 
-(date: 2024-08-07 15:20:32)
+(date: 2024-08-08 08:29:34)
+
+---
+
+## GTA Online update for the week of August 8
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gta-online-guides/24216057/august-8-weekly-update-events-bounty-bonuses>
+
+---
+
+## Where to buy Pokémon Squishmallows
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop>
+
+---
+
+## Not sure what game to play? Leave a comment, we’ll help
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gaming/2024/8/8/24215422/best-game-games-to-play-august-ps5-pc-switch-xbox>
+
+---
+
+## House of the Dragon’s Ewan Mitchell loves not knowing what Aemond will do next
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24214846/house-dragon-ewan-mitchell-interview-season-2-finale>
+
+---
+
+## A rare A24 doc probes the undeniable power of psychics, even if it’s all BS
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24215969/look-into-my-eyes-trailer-psychic-a24-documentary>
+
+---
+
+## The weirdest video games based on bands
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24214789/video-games-based-on-bands>
+
+---
+
+## Arkane Studios’ legacy lives on in Wolfeye Studios’ upcoming retro sci-fi RPG
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24210477/arkane-studios-successor-new-game-announcement>
+
+---
+
+## When does the live event countdown in Fortnite end?
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/fortnite-guide/2024/8/8/24214849/live-event-countdown-time-when-end-c5s3>
 
 ---
 
