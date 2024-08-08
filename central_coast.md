@@ -1,11 +1,73 @@
 ---
 title: central coast 2024.32
-updated: 2024-08-08 08:29:32
+updated: 2024-08-08 10:46:38
 ---
 
 # central coast 2024.32
 
-(date: 2024-08-08 08:29:32)
+(date: 2024-08-08 10:46:38)
+
+---
+
+## UCSB Men’s Water Polo Releases 2024 Season Schedule
+
+date: 2024-08-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The UC Santa Barbara Men&#8217;s Water Polo team announced its 2024 schedule, which features four regular-season tournaments and matchups with half of last year&#8217;s National Championship field. The Gauchos will [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-mens-water-polo-releases-2024-season-schedule/">UCSB Men&#8217;s Water Polo Releases 2024 Season Schedule</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-mens-water-polo-releases-2024-season-schedule/>
+
+---
+
+## Santa Maria Main Library, Branches Shut Aug. 15 for Staff Training
+
+date: 2024-08-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Main Library and branches (Cuyama, Guadalupe, Los Alamos, Orcutt, and Bookmobile) of the Santa Maria Public Library system will be closed Thursday, Aug. 15 for staff training. Normal hours [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-main-library-and-branches-closed-aug-15-for-staff-training/">Santa Maria Main Library, Branches Shut Aug. 15 for Staff Training</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-maria-main-library-and-branches-closed-aug-15-for-staff-training/>
+
+---
+
+## Nathaniel Jacob Acosta of Santa Barbara, 1972-2024
+
+date: 2024-08-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Nathaniel-1-e1723137112778.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Nathaniel Jacob Acosta" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Nathaniel-1-e1723137112778.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Nathaniel-1-e1723137112778.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Nathaniel-1-e1723137112778.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Nathaniel-1-e1723137112778.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Our beloved Nathaniel Jacob Acosta tragically left our lives at the age of 51, far too early. We lost a son, a brother, a father and a friend. Our lives [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/nathaniel-jacob-acosta-of-santa-barbara-1972-2024/">Nathaniel Jacob Acosta of Santa Barbara, 1972-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/nathaniel-jacob-acosta-of-santa-barbara-1972-2024/>
+
+---
+
+## Marilyn Clemons of Santa Barbara, 1934-2024
+
+date: 2024-08-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/obit-at-mt-scaled.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Marilyn Clemons" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/obit-at-mt-scaled.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/obit-at-mt-scaled.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/obit-at-mt-scaled.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/obit-at-mt-scaled.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/obit-at-mt-scaled.jpg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/obit-at-mt-scaled.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/obit-at-mt-scaled.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/obit-at-mt-scaled.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/obit-at-mt-scaled.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/obit-at-mt-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/obit-at-mt-scaled.jpg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/obit-at-mt-scaled.jpg?resize=1568%2C2091&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/obit-at-mt-scaled.jpg?resize=2000%2C2667&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/obit-at-mt-scaled.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/obit-at-mt-scaled.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/obit-at-mt-scaled.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Marilyn Clemons, our beloved mother and grandmother, passed away July 10, just three months shy of her 90th birthday. She was born Oct. 4, 1934, to Guy and Winnie McKeehan [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/marilyn-clemons-of-santa-barbara-1934-2024/">Marilyn Clemons of Santa Barbara, 1934-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/marilyn-clemons-of-santa-barbara-1934-2024/>
+
+---
+
+## Free Noon Concerts at Trinity Opens With Flute, Harp, Bassoon Music
+
+date: 2024-08-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Noon Concerts at Trinity Santa Barbara opens its Fall 2024 season, 12:15-12:45 p.m., Thursday, Sept. 5, with Music for Flute, Bassoon and Harp at 1500 State St. The concert features [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/free-noon-concerts-at-trinity-opens-with-flute-harp-bassoon-music/">Free Noon Concerts at Trinity Opens With Flute, Harp, Bassoon Music</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/free-noon-concerts-at-trinity-opens-with-flute-harp-bassoon-music/>
 
 ---
 
@@ -13,7 +75,7 @@ updated: 2024-08-08 08:29:32
 
 date: 2024-08-08, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Late afternoon sun on the Missouri River in Great Falls, Montana." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Late afternoon sun on the Missouri River in Great Falls, Montana." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/073124-POD-Lynda-Nahra.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The post <a href="https://www.noozhawk.com/late-afternoon-sun-on-the-missouri-river/">Late Afternoon Sun on the Missouri River</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 

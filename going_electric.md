@@ -1,11 +1,77 @@
 ---
 title: going electric 2024.32
-updated: 2024-08-08 08:29:38
+updated: 2024-08-08 10:46:44
 ---
 
 # going electric 2024.32
 
-(date: 2024-08-08 08:29:38)
+(date: 2024-08-08 10:46:44)
+
+---
+
+## Kia’s affordable EV3 officially spotted in the US ahead of its upcoming debut [Images]
+
+date: 2024-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Kias-EV3-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After opening pre-orders in Korea starting at just $30,700 (KRW 42.08 million), <a href="https://electrek.co/guides/kia-ev3/">Kia’s EV3</a> is already a social media sensation. Will the “game-changing” EV3 have the same effect in the US? Ahead of its official market debut, the EV3 was spotted testing in the US. Here’s when we can expect to see Kia’s new affordable EV in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev3" data-layer-viewtype="unknown" data-post-id="374963" href="https://electrek.co/2024/08/08/kias-affordable-ev3-officially-spotted-us-images/#more-374963" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/08/kias-affordable-ev3-officially-spotted-us-images/>
+
+---
+
+## The Porsche Macan Might Be The Longest-Range Porsche EV Yet
+
+date: 2024-08-08, from: Inside EVs News
+
+It may even beat the new Porsche Taycan. 
+
+<https://insideevs.com/news/729417/porsche-macan-epa-range-estimate/>
+
+---
+
+## Dem VP pick Walz is ‘climate champion,’ unlike Musk-backed GOP EV haters
+
+date: 2024-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/tim-walz-minnesota-governor-office-of-the-governor-public-domain-photo-1-e1723096183368.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Democratic U.S. Presidential candidate Kamala Harris announced her VP pick this week in Minnesota Governor Tim Walz, who has recently passed laws supporting Minnesota’s transition to carbon-free power and lower tailpipe emissions.</p>
+
+
+
+<p>However, the CEO of the nation’s largest EV company, whose personal and corporate mission is supposedly to ensure a transition to sustainable transport, is still backing a ticket that routinely lies about EVs and wants to subsidize polluting gas vehicles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,elon-musk,kamala-harris,politics,tim-walz" data-layer-viewtype="unknown" data-post-id="374889" href="https://electrek.co/2024/08/08/dem-vp-pick-walz-is-a-climate-champion-in-contrast-to-musk-backed-ev-haters/#more-374889" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/08/dem-vp-pick-walz-is-a-climate-champion-in-contrast-to-musk-backed-ev-haters/>
+
+---
+
+## China's MG Motor Is Conquering Europe. Now It Wants To Build A Factory In Mexico
+
+date: 2024-08-08, from: Inside EVs News
+
+MG Motor plans to build a manufacturing base and research and development center in Mexico. 
+
+<https://insideevs.com/news/729524/mg-motor-conquering-europe-mexico-china/>
+
+---
+
+## Jeep puts the all-electric Wagoneer S to the test ahead of deliveries
+
+date: 2024-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Jeep-Wagoneer-S-test-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Jeep will finally launch its first fully electric SUV in the US later this year. Ahead of deliveries, <a href="https://electrek.co/guides/jeep/">Jeep</a> is putting the Wagoneer S to the test in New Zealand’s tundra to ensure the EV meets the rugged SUV brand’s standards.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-jeep,jeep" data-layer-viewtype="unknown" data-post-id="374923" href="https://electrek.co/2024/08/08/jeep-all-electric-wagoneer-s-test-deliveries/#more-374923" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/08/jeep-all-electric-wagoneer-s-test-deliveries/>
 
 ---
 
@@ -485,7 +551,7 @@ Go fast, go far.
 
 date: 2024-08-07, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/rad-power-bikes-e-bike-radkick-battery-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Rad Power Bikes announced its newest model this morning, marking the first belt-driven low-cost electric bike from the Seattle-based e-bike maker. Meet the new <a href="http://bit.ly/Rad-Power_Bikes">Rad Power Bikes RadKick</a>.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/rad-power-bikes-e-bike-radkick-battery-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Rad Power Bikes announced its newest model this morning, marking the first belt-driven low-cost electric bike from the Seattle-based e-bike maker. Meet the new <a href="https://radpowerbikes.pxf.io/LXbVvY">Rad Power Bikes RadKick</a>.</p>
 
 
 

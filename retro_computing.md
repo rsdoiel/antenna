@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.32
-updated: 2024-08-08 08:29:37
+updated: 2024-08-08 10:46:43
 ---
 
 # retro computing 2024.32
 
-(date: 2024-08-08 08:29:37)
+(date: 2024-08-08 10:46:43)
+
+---
+
+## b.log 2024/08/08 - Netum NT-2012 laser barcode reader.
+
+date: 2024-08-08, from: Richard Murray's blog
+
+Netum NT-2012 laser barcode reader. 
+
+<https://heyrick.eu/blog/index.php?diary=20240808>
 
 ---
 

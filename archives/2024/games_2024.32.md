@@ -1,11 +1,111 @@
 ---
 title: games 2024.32
-updated: 2024-08-08 08:29:34
+updated: 2024-08-08 10:46:40
 ---
 
 # games 2024.32
 
-(date: 2024-08-08 08:29:34)
+(date: 2024-08-08 10:46:40)
+
+---
+
+## The first look at Netflix’s YA dystopian series Uglies is a helluva flashback
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24216121/uglies-netflix-first-look-trailer-ya-dystopia>
+
+---
+
+## No Man’s Sky’s new Worlds update shook up all my favorite planets
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24216128/no-mans-sky-worlds-update-planet-changed-exploration>
+
+---
+
+## Bring home a supermassive collection of Starfinder content for just $40
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24216114/starfinder-first-second-edition-paizo-humble-bundle-sale>
+
+---
+
+## Talisman’s 5th edition is just okay, and a handy how-to video helps
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24215628/talisman-5th-edition-review>
+
+---
+
+## Umbrella Academy let Luther play a stripper — and Tom Hooper was more than game
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24211320/umbrella-academy-season-4-luther-stripper>
+
+---
+
+## This goldfish beat the Elden Ring DLC’s final boss on Twitch
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24216010/elden-ring-dlc-beat-by-goldfish>
+
+---
+
+## The best video games of 2024 so far
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/what-to-play/24078256/best-video-games-2024>
+
+---
+
+## A Hollow Knight boss fight found its groove thanks to a 17th-century violinist
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/8/8/24215602/christopher-larkin-hollow-knight-interview>
+
+---
+
+## Pokémon Go Giovanni counters, team line-up in August 2024
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket>
+
+---
+
+## Pokémon Go leader counters for Sierra, Arlo, and Cliff in August 2024
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses>
 
 ---
 

@@ -1,11 +1,31 @@
 ---
 title: motorcycles 2024.32
-updated: 2024-08-08 08:29:37
+updated: 2024-08-08 10:46:42
 ---
 
 # motorcycles 2024.32
 
-(date: 2024-08-08 08:29:37)
+(date: 2024-08-08 10:46:42)
+
+---
+
+## 2024 Yamaha Ténéré 700
+
+date: 2024-08-08, from: Cycle World News
+
+Yamaha’s no-frills Ténéré 700 is designed for the off-road-focused adventure rider who still wants a little on-road comfort. 
+
+<https://www.cycleworld.com/yamaha/tenere-700/>
+
+---
+
+## How Much Power Does the 2024 Yamaha YZF-R7 Make?
+
+date: 2024-08-08, from: Cycle World News
+
+The 2024 Yamaha YZF-R7 gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower. 
+
+<https://www.cycleworld.com/bikes/yamaha-yzf-r7-dyno-test-2024/>
 
 ---
 

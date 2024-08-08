@@ -1,11 +1,111 @@
 ---
 title: pacific 2024.32
-updated: 2024-08-08 08:29:31
+updated: 2024-08-08 10:46:37
 ---
 
 # pacific 2024.32
 
-(date: 2024-08-08 08:29:31)
+(date: 2024-08-08 10:46:37)
+
+---
+
+## Think your backpack is secure? Think again!
+
+date: 2024-08-08, updated: 2024-08-08, from: Marianas Variety
+
+HEY students! It's 2024, and if you're still rocking that old-school backpack, you're making the No. 1 rookie mistake. Marianas Variety has compiled anti-theft backpacks from Amazon’s Choice that'll make you feel like you're carrying a personal Fort Knox on your shoulders. Here are five mind-blowing anti-theft backpacks that'll make you the envy of campus! 
+
+<https://www.mvariety.com/lifestyle/think-your-backpack-is-secure-think-again/article_7e918c10-5409-11ef-b046-f748ba8a0b3d.html>
+
+---
+
+## Palau’s Remengesau files presidential candidacy
+
+date: 2024-08-08, updated: 2024-08-08, from: Marianas Variety
+
+KOROR (Pacnews/Island Times) — Former Palau President Tommy Esang Remengesau Jr. is again running for his island nation’s highest elective office. 
+
+<https://www.mvariety.com/news/regional_world/palau-s-remengesau-files-presidential-candidacy/article_84507386-5590-11ef-86e9-e7e31a085ac4.html>
+
+---
+
+## OIA announces $20M in Compact funding for Palau
+
+date: 2024-08-08, updated: 2024-08-08, from: Marianas Variety
+
+WASHINGTON, D.C. (DOI-OIA) — The Department of the Interior’s Assistant Secretary for Insular and International Affairs Carmen G. Cantor on Wednesday, Aug. 7 announced $20 million in direct economic assistance from the United States government to Palau for health and education sectors in the island nation. These fiscal year 2024 funds represent year one of economic assistance to Palau under the recently negotiated Compact of Free Association Section 432 Review, Public Law 118-42, which was signed between the United States and Palau on May 22, 2023. 
+
+<https://www.mvariety.com/news/regional_world/oia-announces-20m-in-compact-funding-for-palau/article_deb08186-5590-11ef-afa4-634a85bb5509.html>
+
+---
+
+## NMI Republicans file candidacies
+
+date: 2024-08-08, updated: 2024-08-08, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/news/local/nmi-republicans-file-candidacies/article_344274ce-5591-11ef-8483-6b5d99ecfd80.html>
+
+---
+
+## Get you back-to-school shopping done right
+
+date: 2024-08-08, updated: 2024-08-08, from: Marianas Variety
+
+FOR private school students around the island, the school year has already started, while the CNMI Public School System will soon open its doors to students as well. That means hordes of parents needing to stock up on school supplies this time of the year! 
+
+<https://www.mvariety.com/lifestyle/get-you-back-to-school-shopping-done-right/article_887b8380-553e-11ef-8e18-b3f44c247c72.html>
+
+---
+
+## CAMPUS COMEBACK
+
+date: 2024-08-08, updated: 2024-08-08, from: Marianas Variety
+
+STUDENTS at Northern Marianas College are gearing up for another exciting semester of learning and growth, but returning to campus life can just be as daunting as it is thrilling. Fear not, eager scholars! Marianas Variety tapped into the wisdom of some of NMC's finest to bring you the ultimate guide to acing your campus comeback. 
+
+<https://www.mvariety.com/lifestyle/campus-comeback/article_0f25e05c-54c6-11ef-a091-17aec0c4cd51.html>
+
+---
+
+## Senate panel wants to see NMI treasurer’s personal ledger on ARPA funds
+
+date: 2024-08-08, updated: 2024-08-08, from: Marianas Variety
+
+A SENATE special committee wants to see the personal ledger of CNMI Treasurer Asuncion S. Agulto pertaining to American Rescue Plan Act funds. 
+
+<https://www.mvariety.com/news/local/senate-panel-wants-to-see-nmi-treasurer-s-personal-ledger-on-arpa-funds/article_9b73f7c4-5552-11ef-b83e-8bd52192dd5e.html>
+
+---
+
+## Hofschneider says she’s a nonpartisan candidate for US delegate
+
+date: 2024-08-08, updated: 2024-08-08, from: Marianas Variety
+
+LIANA S. Hofschneider considers herself a nonpartisan candidate for the U.S. Congress. 
+
+<https://www.mvariety.com/news/local/hofschneider-says-she-s-a-nonpartisan-candidate-for-us-delegate/article_2be285ae-5577-11ef-8eb3-afe906874ad6.html>
+
+---
+
+## 31 Independents, 8 Republicans, 5 Democrats on Nov. 5 ballot
+
+date: 2024-08-08, updated: 2024-08-08, from: Marianas Variety
+
+SIXTY-ONE individuals officially filed their candidacies for the Nov. 5 midterm election, according to the Commonwealth Election Commission. 
+
+<https://www.mvariety.com/news/local/31-independents-8-republicans-5-democrats-on-nov-5-ballot/article_7d9d5614-5570-11ef-9479-9b2c87456bea.html>
+
+---
+
+## Saipan mayor, Karate dojo begin partnership
+
+date: 2024-08-08, updated: 2024-08-08, from: Marianas Variety
+
+ON Friday, Aug. 2, Saipan Mayor RB Camacho and Sensei Danny Banez of CNMI Martial Arts Academy of Self-Defense-Kyokushinkai Karate Watanabe Dojo announced a working partnership between them. 
+
+<https://www.mvariety.com/news/local/saipan-mayor-karate-dojo-begin-partnership/article_ebaf6748-5550-11ef-b130-83dcc4b1b615.html>
 
 ---
 

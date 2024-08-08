@@ -1,11 +1,31 @@
 ---
 title: socal north 2024.32
-updated: 2024-08-08 08:29:29
+updated: 2024-08-08 10:46:36
 ---
 
 # socal north 2024.32
 
-(date: 2024-08-08 08:29:29)
+(date: 2024-08-08 10:46:36)
+
+---
+
+## Jordan Chiles announces return to UCLA gymnastics
+
+date: 2024-08-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Three days removed from her third Olympic medal, Jordan Chiles announced Wednesday on the “Today” show’s X, formerly Twitter, account that she will return to Westwood for the 2025 season. 
+
+<https://dailybruin.com/2024/08/08/jordan-chiles-announces-return-to-ucla-gymnastics/>
+
+---
+
+## Fraud investigation launched into homeless service provider for LA’s Inside Safe program
+
+date: 2024-08-08, updated: 2024-08-08, from: The LAist
+
+People were served almost exclusively instant noodles, even thought the providers are being paid to serve nutritious foods, according to officials. 
+
+<https://laist.com/news/housing-homelessness/fraud-investigation-homeless-inside-safe-bass>
 
 ---
 
@@ -16,16 +36,6 @@ date: 2024-08-08, updated: 2024-08-08, from: The LAist
 The vote by the city housing committee overrides language drafted by the city attorney’s office, which had stripped the word “right” from the city’s proposal for a “right to counsel.” 
 
 <https://laist.com/news/housing-homelessness/los-angeles-right-to-counsel-housing-committee-city-attorney-lawyer-eviction-court-landlord-tenant-renter-vote>
-
----
-
-## Fraud investigation launched into homeless service provider for LA’s Inside Safe program
-
-date: 2024-08-08, updated: 2024-08-08, from: The LAist
-
-People were served almost exclusively instant noodles, even thought the providers are being paid to serve nutritious foods, according to officials. "This should never happen,” said a spokesperson for Mayor Karen Bass, who created the Inside Safe motel program. 
-
-<https://laist.com/news/housing-homelessness/fraud-investigation-homeless-inside-safe-bass>
 
 ---
 
@@ -83,7 +93,7 @@ date: 2024-08-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-08-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Familiares y amigos están de luto por la pérdida de Oswaldo “Gambino” Balderas, un joven de 20 años de la ciudad de San Fernando. “Es una vergüenza cómo se les [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/08/07/los-residentes-de-la-ciudad-de-san-fernando-lamentan-la-perdida-de-la-victima-del-tiroteo/">Los Residentes de la Ciudad de San Fernando Lamentan la Pérdida de la Víctima del Tiroteo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -108,7 +118,7 @@ date: 2024-08-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-08-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="798" height="446" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?fit=798%2C446&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?w=798&amp;ssl=1 798w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?resize=300%2C168&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?resize=768%2C429&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?resize=400%2C224&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?resize=706%2C395&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?fit=798%2C446&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="798" height="446" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?fit=798%2C446&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?w=798&amp;ssl=1 798w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?resize=300%2C168&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?resize=768%2C429&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?resize=400%2C224&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?resize=706%2C395&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?fit=798%2C446&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Un motel en Panorama City, anteriormente considerado obsoleto, está siendo convertido en vivienda de apoyo permanente por Los Angeles Family Housing (LAFH) para personas sin hogar. El Panorama Motel de [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/08/07/un-motel-en-ruinas-de-panorama-city-se-convertira-en-un-hogar-permanente-para-las-personas-sin-hogar/">Un Motel en Ruinas de Panorama City se Convertirá en un Hogar Permanente para las Personas Sin Hogar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -144,7 +154,7 @@ date: 2024-08-08, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-08-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Cerca de 300 familias sin hogar fueron invitadas a asistir a una feria de regreso a clases en Sylmar para recibir mochilas, útiles escolares, libros, tenis, calcetines y camisetas gratis [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/08/07/el-evento-de-regreso-a-clases-ayuda-a-los-ninos-y-familias-sin-hogar/">El Evento de Regreso a Clases Ayuda a los Niños y Familias Sin Hogar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

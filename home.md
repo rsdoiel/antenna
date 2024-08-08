@@ -1,11 +1,21 @@
 ---
 title: home 2024.32
-updated: 2024-08-08 08:29:35
+updated: 2024-08-08 10:46:41
 ---
 
 # home 2024.32
 
-(date: 2024-08-08 08:29:35)
+(date: 2024-08-08 10:46:41)
+
+---
+
+## National Farmer’s Market Week — Sacramento market voted best in California, third in nation. From KCRA 3 TV
+
+date: 2024-08-08, from: Calfifornia Dept. Aggriculture blog
+
+In recognition of National Farmers Market Week (August 4-10), CDFA congratulates Sacramento&#8217;s Midtown Farmers&#8217; Market for being voted #1 in California and #3 in the US, in voting sponsored by American Farmland Trust and promoted by CDFA. The Midtown market &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28049">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28049>
 
 ---
 

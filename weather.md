@@ -1,11 +1,507 @@
 ---
 title: weather 2024.32
-updated: 2024-08-08 08:29:33
+updated: 2024-08-08 10:46:39
 ---
 
 # weather 2024.32
 
-(date: 2024-08-08 08:29:33)
+(date: 2024-08-08 10:46:39)
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-08-08, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>Issued by the NWS Weather Prediction Center College Park MD<br>200 PM EDT Thu Aug 8 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Tropical <br>Storm Debby, centered inland near the border of North Carolina <br>and South Carolina.<br><br>1. Near the Lesser and Greater Antilles:<br>A tropical wave located over the eastern tropical Atlantic is <br>producing widespread disorganized showers and thunderstorms. Any <br>development of the wave should be slow to occur during the next few <br>days while it moves westward across the central tropical Atlantic. <br>Conditions are expected to become more conducive for development <br>early next week, and a tropical depression could form while it <br>approaches the Lesser Antilles. The system is then forecast to move <br>generally west-northwestward and could approach the Greater Antilles <br>by the middle part of next week.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...medium...40 percent.<br><br />
+<br>Forecaster D. Zelinsky<br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2024-08-08, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ABPZ20 KNHC 081731<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+Issued by the NWS Weather Prediction Center College Park MD<br/>
+1100 AM PDT Thu Aug 8 2024<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on Tropical <br/>
+Storm Emilia, located several hundred miles west of the southern tip <br/>
+of the Baja California peninsula.<br/>
+<br/>
+South of Southern Mexico:<br/>
+A tropical wave located over the far eastern portion of the eastern <br/>
+Pacific is producing limited and disorganized showers and <br/>
+thunderstorms. Gradual development of this system will be possible <br/>
+during the next next several days while it moves west-northwestward <br/>
+at around 15 mph, parallel to the coast of southwestern Mexico. <br/>
+* Formation chance through 48 hours...low...10 percent.<br/>
+* Formation chance through 7 days...low...30 percent.<br/>
+<br/>
+$$<br/>
+Forecaster D. Zelinsky<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## SPC - No MDs are in effect as of Thu Aug  8 17:15:28 UTC 2024
+
+date: 2024-08-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Thu Aug  8 17:15:28 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Aug 8, 2024 1730 UTC Day 2 Convective Outlook
+
+date: 2024-08-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1210 PM CDT Thu Aug 08 2024
+
+Valid 091200Z - 101200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS EASTERN
+PA...NJ...AND THE NORTHERN DELMARVA PENINSULA...
+
+...SUMMARY...
+There may be at least some continuing risk for damaging gusts
+tornadoes in advance of the remnant low of Debby. Greatest severe
+potential is expected from eastern Pennsylvania into New Jersey and
+the northern Delmarva Peninsula.
+
+...Synopsis...
+A mid-latitude cyclone is forecast to begin the period over central
+Ontario before shifting gradually throughout the day. Moderate to
+strong flow is anticipated throughout the base of this cyclone,
+spreading from the Upper Midwest across the Great Lakes and OH
+Valley and into the Northeast as a shortwave trough progresses from
+the Upper Midwest across the Upper Great Lakes into southwest
+Quebec. Overall evolution of this cyclone and associated shortwave
+trough will interact with Tropical Cyclone Debby, which may be in
+its extratropical phase by early Friday morning. This interaction
+will result in an accelerated northeastward progression of Debby,
+taking it from its initial position near the WV/MD/VA border
+vicinity quickly northeastward through the Northeast and into the
+Upper St. Lawrence Valley by early Saturday.
+
+Farther west, dampened upper ridging will persist across the
+Southwest and southern Plains. A convectively generated,
+low-amplitude shortwave trough is forecast to move through the
+northern periphery of this ridging, from eastern CO into the
+Mid-South. Another low-amplitude shortwave trough may follow in the
+wake of the first, reaching the central KS/western OK by early
+Saturday morning. 
+
+...Mid-Atlantic into the Northeast...
+Robust low to mid-level flow is forecast to extend throughout the
+eastern periphery of TC Debby, from eastern NC into southern ME,
+early Friday morning. This strong flow will persist throughout the
+day, gradually shifting northeastward with the parent system. The
+strongest low/mid-level flow (i.e. 50+ kt at 850mb) will remain in
+close proximity to the cyclone, spreading from far northeast
+VA/central MD early Friday into eastern PA/NJ by the afternoon and
+into southern New England by late Friday/early Saturday
+ 
+Widespread cloud cover and limited heating is anticipated across the
+region, but deep convection still appears possible amid the strong
+warm-air advection. Buoyancy will be limited, likely tempering the
+overall updraft strength within this convection. However, ample
+moisture will be in place, which should combine with the strong
+low-level shear to support some organized storm structures. Damaging
+gusts will be the greatest severe threat, but embedded circulations
+could be strong enough to produce brief tornadoes as well. 
+
+Highest severe potential is expected from eastern PA to the I-95
+corridor in NJ, where the timing of the system allows for the best
+overlap between the buoyancy/daytime heating and the low-level
+shear. Strong forcing could still result in some damaging gusts
+farther north into NY and western New England, despite very limited
+buoyancy. Buoyancy will be greater farther south across eastern
+VA/NC, but shear will be weaker, likely keeping the severe threat
+isolated. 
+
+...Northeast NM/Southeast CO into TX Panhandle and Western OK...
+Scattered showers and thunderstorms will likely be ongoing across
+the TX Panhandle vicinity early Friday, with some potential that
+this activity will persist downstream into western OK throughout the
+day. Limited buoyancy and shear should keep the severe threat low. 
+
+Another round of thunderstorms is possible Friday afternoon,
+beginning in the Raton Mesa vicinity and then continuing
+eastward/southeastward through the evening and potentially
+overnight, maintained by a moderate low-level jet across west TX. As
+with the early morning storms, limited buoyancy and shear should
+keep the severe threat low.
+
+..Mosier.. 08/08/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
+
+---
+
+## SPC Tornado Watch 614 Status Reports
+
+date: 2024-08-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0614.html"><img src="https://www.spc.noaa.gov/products/watch/ww0614_radar.gif" border="1" alt="WW 0614 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS FOR WATCH 0614 HAS NOT BEEN ISSUED YET
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0614.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0614.html>
+
+---
+
+## SPC Tornado Watch 614
+
+date: 2024-08-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0614.html"><img src="https://www.spc.noaa.gov/products/watch/ww0614_radar.gif" border="1" alt="WW 0614 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 614
+NWS Storm Prediction Center Norman OK
+1245 PM EDT Thu Aug 8 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  Central and Eastern North Carolina
+  Central and Southeast Virginia
+  Coastal Waters
+
+* Effective this Thursday afternoon and evening from 1245 PM
+  until 800 PM EDT.
+
+* Primary threats include...
+  A couple tornadoes possible
+
+SUMMARY...Thunderstorms embedded within the outer bands of Tropical
+Storm Debby will continue to track northeastward across the watch
+area through the afternoon, posing a risk of a few tornadoes.
+
+The tornado watch area is approximately along and 80 statute miles
+east and west of a line from 50 miles northwest of Richmond VA to 50
+miles southeast of New Bern NC. For a complete depiction of the
+watch see the associated watch outline update (WOUS64 KWNS WOU4).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 613...
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 0.5 inches. Extreme turbulence and surface wind
+gusts to 60 knots. A few cumulonimbi with maximum tops to 500. Mean
+storm motion vector 14030.
+
+...Hart
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0614.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0614.html>
+
+---
+
+## SPC Aug 8, 2024 1630 UTC Day 1 Convective Outlook
+
+date: 2024-08-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1105 AM CDT Thu Aug 08 2024
+
+Valid 081630Z - 091200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON AND
+TONIGHT OVER PORTIONS OF NORTH CAROLINA AND THE MID ATLANTIC
+REGION...
+
+...SUMMARY...
+Isolated tornadoes are possible today and tonight over portions of
+the Mid Atlantic region.  Strong thunderstorm wind gusts may affect
+portions of Utah and Arizona.
+
+...Mid Atlantic...
+The center of circulation of TS Debby will lift northward today and
+tonight across central NC/VA, with the zone of strongest low level
+winds/shear just to the northeast of the low.  A consensus of 12z
+CAM solutions suggest the main threat of semi-discrete convection
+and a few tornadoes this afternoon and evening will be across
+north-central NC and south-central VA.  This threat will build
+northward into parts of northern VA and the Eastern WV Panhandle
+after dark, and eventually into central PA by Friday morning. 
+Please refer to MCD #1866 for further short-term details.
+
+...UT/AZ...
+Pockets of strong heating, ample mid-level moisture, and a remnant
+MCV tracking westward across northern AZ will help to promote
+thunderstorms capable of locally damaging wind gusts this afternoon
+from western UT into northwest AZ.  Morning surface analysis shows a
+very moist boundary-layer in place across central and southeast AZ,
+with dewpoints in the upper 60s and full sunshine expected.  This,
+combined with 12z CAM solutions of active afternoon thunderstorms,
+has prompted an expansion of the MRGL risk into that region.
+
+..Hart/Lyons.. 08/08/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-08-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1107 AM CDT Thu Aug 08 2024
+
+Valid 081700Z - 091200Z
+
+The notable changes on this update are to expand the Isolated Dry
+Thunder area into Nevada and to add an Isolated Dry Thunder area in
+portions of northeast Washington. Both of these changes reflect
+greater confidence in lightning occurrence in an environment with
+dry fuels and precipitable water values between 0.5-0.75 inches.
+Otherwise, see the previous discussion for more details.
+
+..Supinie.. 08/08/2024
+
+.PREV DISCUSSION... /ISSUED 0112 AM CDT Thu Aug 08 2024/
+
+...Synopsis...
+As a trough moving across the northern Rockies into the northern
+Plains suppresses the western US ridge today, flow aloft will
+shift to become more northwesterly with monsoonal moisture shifting
+southward. Isolated dry thunderstorm chances will be possible along
+the fringes of the deeper monsoonal moisture across southern/central
+Utah into western Colorado and western Wyoming. In these regions,
+precipitable water values around 0.50-0.75 inch and mainly mid-level
+moisture will result in high-based convection, with potential for
+new ignitions amid receptive fuels, and little precipitation. Gusty
+and erratic winds will be possible near thunderstorms.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## Advisory #017 Forecast Track [kmz] - Tropical Storm Emilia (EP5/EP052024)
+
+date: 2024-08-08, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 08 Aug 2024 15:57:38 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP052024_017adv_TRACK.kmz>
+
+---
+
+## Preliminary Best Track [shp] - Tropical Storm Emilia (EP5/EP052024)
+
+date: 2024-08-08, from: Eastern Pacific Basin GIS Data
+
+Track, Points, and Wind Swath. Shapefile last updated Thu, 08 Aug 2024 15:57:31 GMT 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep052024_best_track.zip>
+
+---
+
+## Preliminary Best Track Points [kmz] - Tropical Storm Emilia (EP5/EP052024)
+
+date: 2024-08-08, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 08 Aug 2024 15:57:31 GMT 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep052024_best_track.kmz>
+
+---
+
+## Advisory #017 Wind Field [shp] - Tropical Storm Emilia (EP5/EP052024)
+
+date: 2024-08-08, from: Eastern Pacific Basin GIS Data
+
+Initial and Forecast Surface Winds. Shapefile last updated Thu, 08 Aug 2024 15:57:31 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep052024_fcst_017.zip>
+
+---
+
+## Advisory #017 Cone of Uncertainty [kmz] - Tropical Storm Emilia (EP5/EP052024)
+
+date: 2024-08-08, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 08 Aug 2024 15:57:12 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP052024_017adv_CONE.kmz>
+
+---
+
+## Advisory #017 Forecast [shp] - Tropical Storm Emilia (EP5/EP052024)
+
+date: 2024-08-08, from: Eastern Pacific Basin GIS Data
+
+Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Thu, 08 Aug 2024 15:57:05 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep052024_5day_017.zip>
+
+---
+
+## Tropical Storm Emilia Graphics
+
+date: 2024-08-08, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep5+shtml/155656.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP05/EP052024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Emilia 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Thu, 08 Aug 2024 15:56:56 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep5+shtml/155656.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP05/EP052024_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Emilia 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Thu, 08 Aug 2024 15:56:56 GMT
+ 
+
+<https://www.nhc.noaa.gov/refresh/graphics_ep5+shtml/155656.shtml?cone>
+
+---
+
+## Tropical Storm Emilia Forecast Advisory Number 17
+
+date: 2024-08-08, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPZ25 KNHC 081554 CCA
+TCMEP5
+ 
+TROPICAL STORM EMILIA FORECAST/ADVISORY NUMBER  17...CORRECTED
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP052024
+ISSUED BY THE NWS WEATHER PREDICTION CENTER COLLEGE PARK MD
+1500 UTC THU AUG 08 2024
+
+CORRECTED TO INCLUDE 34 KT WIND RADII AT 09/0000Z
+
+TROPICAL STORM CENTER LOCATED NEAR 21.2N 123.3W AT 08/1500Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST-NORTHWEST OR 285 DEGREES AT  16 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1002 MB
+MAX SUSTAINED WINDS  35 KT WITH GUSTS TO  45 KT.
+34 KT.......120NE 120SE   0SW  60NW.
+12 FT SEAS..280NE 180SE 105SW 120NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 21.2N 123.3W AT 08/1500Z
+AT 08/1200Z CENTER WAS LOCATED NEAR 21.1N 122.7W
+ 
+FORECAST VALID 09/0000Z 21.8N 125.1W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT...120NE 120SE   0SW  60NW.
+ 
+FORECAST VALID 09/1200Z 22.7N 127.3W...POST-TROP/REMNT LOW
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 10/0000Z 23.5N 129.3W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 10/1200Z 24.2N 131.3W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 11/0000Z 24.7N 133.2W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 11/1200Z 24.9N 134.8W...POST-TROP/REMNT LOW
+MAX WIND  20 KT...GUSTS  30 KT.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 12/1200Z 24.5N 138.0W...POST-TROP/REMNT LOW
+MAX WIND  20 KT...GUSTS  30 KT.
+ 
+OUTLOOK VALID 13/1200Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 21.2N 123.3W
+ 
+NEXT ADVISORY AT 08/2100Z
+ 
+$$
+FORECASTER REINHART
+ 
+ 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/081554.shtml>
+
+---
+
+## 120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins
+
+date: 2024-08-08, from: Eastern Pacific Basin GIS Data
+
+Shapefile last updated Thu, 08 Aug 2024 15:23:21 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip>
 
 ---
 
@@ -180,66 +676,6 @@ storm motion vector 14035.
 
 ---
 
-## Advisory #017 Forecast Track [kmz] - Tropical Storm Emilia (EP5/EP052024)
-
-date: 2024-08-08, from: Eastern Pacific Basin GIS Data
-
-KMZ last updated Thu, 08 Aug 2024 14:52:15 GMT 
-
-<https://www.nhc.noaa.gov/storm_graphics/api/EP052024_017adv_TRACK.kmz>
-
----
-
-## Preliminary Best Track [shp] - Tropical Storm Emilia (EP5/EP052024)
-
-date: 2024-08-08, from: Eastern Pacific Basin GIS Data
-
-Track, Points, and Wind Swath. Shapefile last updated Thu, 08 Aug 2024 14:52:09 GMT 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep052024_best_track.zip>
-
----
-
-## Preliminary Best Track Points [kmz] - Tropical Storm Emilia (EP5/EP052024)
-
-date: 2024-08-08, from: Eastern Pacific Basin GIS Data
-
-KMZ last updated Thu, 08 Aug 2024 14:52:09 GMT 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep052024_best_track.kmz>
-
----
-
-## Advisory #017 Forecast [shp] - Tropical Storm Emilia (EP5/EP052024)
-
-date: 2024-08-08, from: Eastern Pacific Basin GIS Data
-
-Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Thu, 08 Aug 2024 14:52:08 GMT 
-
-<https://www.nhc.noaa.gov/gis/forecast/archive/ep052024_5day_017.zip>
-
----
-
-## Advisory #017 Wind Field [shp] - Tropical Storm Emilia (EP5/EP052024)
-
-date: 2024-08-08, from: Eastern Pacific Basin GIS Data
-
-Initial and Forecast Surface Winds. Shapefile last updated Thu, 08 Aug 2024 14:52:08 GMT 
-
-<https://www.nhc.noaa.gov/gis/forecast/archive/ep052024_fcst_017.zip>
-
----
-
-## Advisory #017 Cone of Uncertainty [kmz] - Tropical Storm Emilia (EP5/EP052024)
-
-date: 2024-08-08, from: Eastern Pacific Basin GIS Data
-
-KMZ last updated Thu, 08 Aug 2024 14:51:50 GMT 
-
-<https://www.nhc.noaa.gov/storm_graphics/api/EP052024_017adv_CONE.kmz>
-
----
-
 ## Tropical Storm Emilia Graphics
 
 date: 2024-08-08, from: Eastern Pacific Basin Tropical Cyclones
@@ -258,25 +694,6 @@ Wind Speed Probabilities last updated Thu, 08 Aug 2024 14:51:38 GMT
  
 
 <https://www.nhc.noaa.gov/refresh/graphics_ep5+shtml/145138.shtml?cone>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-08-08, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Thu Aug 8 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Tropical <br>Storm Debby, located over South Carolina.<br><br>1. Near the Lesser and Greater Antilles:<br>An area of low pressure could form in the central or western <br>tropical Atlantic Ocean early next week.  Some development of this <br>system is possible while it approaches the Lesser Antilles during <br>the early to middle part of next week and moves generally <br>west-northwestward toward the Greater Antilles thereafter.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...low...30 percent.<br><br />
-<br>Forecaster Hagen/Cangialosi<br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
@@ -409,16 +826,71 @@ FORECASTER REINHART
 
 ---
 
-## Summary - Tropical Storm Emilia (EP5/EP052024)
+## Tropical Storm Emilia Public Advisory Number 17
 
-date: 2024-08-08, from: Eastern Pacific Basin GIS Data
+date: 2024-08-08, from: Eastern Pacific Basin Tropical Cyclones
 
+<pre>
+
+480 
+WTPZ35 KNHC 081440
+TCPEP5
+ 
+BULLETIN
+Tropical Storm Emilia Advisory Number  17
+NWS National Hurricane Center Miami FL       EP052024
+Issued by the NWS Weather Prediction Center College Park MD
+800 AM PDT Thu Aug 08 2024
+ 
 ...EMILIA MOVING QUICKLY WEST-NORTHWESTWARD OVER OPEN WATERS...
- As of 8:00 AM PDT Thu Aug 8
- the center of Emilia was located near 21.2, -123.3
- with movement WNW at 18 mph.
- The minimum central pressure was 1002 mb
- with maximum sustained winds of about 40 mph. 
+ 
+ 
+SUMMARY OF 800 AM PDT...1500 UTC...INFORMATION
+----------------------------------------------
+LOCATION...21.2N 123.3W
+ABOUT 865 MI...1390 KM W OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 18 MPH...30 KM/H
+MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM PDT (1500 UTC), the center of Tropical Storm Emilia was 
+located near latitude 21.2 North, longitude 123.3 West. Emilia is 
+moving toward the west-northwest near 18 mph (30 km/h), and this 
+general motion at a slower forward speed is expected into the 
+weekend.
+ 
+Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
+Gradual weakening is expected over the next few days, and Emilia is
+forecast to become a remnant low on Friday.
+ 
+Tropical-storm-force winds extend outward up to 140 miles (220 km)
+from the center.
+ 
+The estimated minimum central pressure is 1002 mb (29.59 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 200 PM PDT.
+ 
+$$
+Forecaster Reinhart
+ 
+
+</pre> 
 
 <https://www.nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/081440.shtml>
 
@@ -633,53 +1105,6 @@ Forecaster Shigesato<br/>
 
 ---
 
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2024-08-08, from: Eastern Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ABPZ20 KNHC 081138<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 500 AM PDT Thu Aug 8 2024<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Active Systems:<br />
- The National Hurricane Center is issuing advisories on Tropical <br />
- Storm Emilia, located several hundred miles west of the southern tip <br />
- of the Baja California peninsula.<br />
- <br />
- South of Southern Mexico:<br />
- A tropical wave over the far eastern portion of the east Pacific is <br />
- currently producing limited shower and thunderstorm activity. <br />
- Environmental conditions appear generally favorable for gradual <br />
- development of the system while it moves west-northwestward at <br />
- around 15 mph, parallel to the coast of southwestern Mexico. <br />
- * Formation chance through 48 hours...low...10 percent.<br />
- * Formation chance through 7 days...low...30 percent.<br />
- <br />
- $$<br />
- Forecaster Hagen/Cangialosi<br />
-  
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## 120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins
-
-date: 2024-08-08, from: Eastern Pacific Basin GIS Data
-
-Shapefile last updated Thu, 08 Aug 2024 09:23:35 GMT 
-
-<https://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip>
-
----
-
 ## SPC Day 2 Fire Weather Outlook
 
 date: 2024-08-08, from: NOAA Weather Forecasts
@@ -759,16 +1184,6 @@ maintained on D4, and one been introduced on D6 for this area.
  
 
 <https://www.spc.noaa.gov/products/exper/fire_wx/>
-
----
-
-## SPC - No MDs are in effect as of Wed Aug  7 22:05:04 UTC 2024
-
-date: 2024-08-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed Aug  7 22:05:04 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -1737,56 +2152,6 @@ storm motion vector 14030.
  
 
 <https://www.spc.noaa.gov/products/watch/ww0610.html>
-
----
-
-## SPC Aug 7, 2024 1730 UTC Day 2 Convective Outlook
-
-date: 2024-08-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1220 PM CDT Wed Aug 07 2024
-
-Valid 081200Z - 091200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ON THURSDAY ACROSS
-PORTIONS OF CENTRAL AND EASTERN NORTH CAROLINA AND SOUTH-CENTRAL
-VIRGINIA...
-
-...SUMMARY...
-Thunderstorms developing Thursday across the coastal plain of
-eastern North Carolina through southern Virginia may be accompanied
-by potential for a few tornadoes, as Debby moves inland across the
-south Atlantic coast.
-
-...NC/VA...
-Debby will likely remain a Tropical Storm as the system tracks
-northward across the Carolinas on Thursday.  Strong southeasterly
-low-level winds in the eastern semi-circle will result in favorable
-shear profiles for a few tornadoes.  So far with this system, a lack
-of heating in the more strongly sheared areas has limited overall
-tornado potential.  However, 12z CAM solutions suggest the potential
-for more heating across parts of central NC and southern VA
-tomorrow, lending some concern for an uptick in risk.
-
-...Southwest...
-Scattered or greater coverage of thunderstorms is expected on
-Thursday across much of the southern Rockies, southern Great Basin,
-and Four Corners regions.  Pockets of strong daytime heating and
-steep lapse rates will result in the potential for damaging wind
-gusts in some areas, although confidence in the mesoscale details of
-these risk areas is low at this time.  Portions of this region may
-need an upgrade to MRGL risk in subsequent outlook updates.
-
-..Hart.. 08/07/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
 
 ---
 
@@ -6364,140 +6729,6 @@ LAT...LON   46146811 45056885 44496990 43337395 43437523 43887520
  
 
 <https://www.spc.noaa.gov/products/md/md1814.html>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2024-08-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1154 AM CDT Sun Aug 04 2024
-
-Valid 041700Z - 051200Z
-
-...Update...
-Latest observational trends in satellite data, combined with recent
-CAMs and other model output, suggest the most likely area for
-isolated dry thunderstorm coverage will be shifted southeast from
-the previous forecast across portions of central UT, southern WY,
-and western CO, with a small area of additional elevated, dry
-thunderstorms possible near and east/northeast of the Cascades of
-OR. These areas will have relatively lower PWATs and drier boundary
-layer conditions this afternoon. Further north across MT and the
-rest of WY, wetting thunderstorms are anticipated within an area of
-stronger mid-level ascent and deeper moisture. In addition, very few
-thunderstorms are now expected to develop over ID on the backside of
-an exiting vorticity maximum, and as a result, dry Thunderstorms
-have been removed from the forecast there. For additional details
-pertaining to the unchanged Elevated area for windy and dry
-conditions this afternoon across the High Plains of WY, SD, and NE
-please see the previous discussion below.
-
-..Barnes.. 08/04/2024
-
-.PREV DISCUSSION... /ISSUED 0202 AM CDT Sun Aug 04 2024/
-
-...Synopsis...
-...Isolated Dry Thunderstorms...
-A midlevel disturbance moving across the Great Basin into the
-northern Rockies will bring isolated dry thunderstorm chances across
-eastern Oregon into Idaho southward and eastward into Utah and
-Wyoming this afternoon. In these regions, mid-level moisture will
-overlap dry surface conditions with faster storm motions. With
-little to no precipitation expected, dry fuels within these regions
-will support potential for new ignitions. Gusty and erratic outflow
-will also be possible. Better potential for wetting rainfall into
-central/northern Montana precludes the need to include these areas,
-though fuels in these regions are also sufficiently dry.
-
-...Windy/Dry...
-A surface low will deepen across eastern MT/WY this afternoon.
-Surface winds will increase across these regions into western
-Nebraska and southern South Dakota amid relative humidity reductions
-to 15-20 percent. Some portions of the Nebraska Panhandle received
-wetting rainfall in the last 24 hours, though heavier totals were
-more sparse. Given ERCs near the 95th percentile before this light
-to moderate rainfall, fuels may still be receptive to fire spread
-with Elevated fire weather conditions expected.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
-
----
-
-## SPC Aug 4, 2024 1630 UTC Day 1 Convective Outlook
-
-date: 2024-08-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1123 AM CDT Sun Aug 04 2024
-
-Valid 041630Z - 051200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR A FEW
-TORNADOES OVER PARTS OF FLORIDA AND EXTREME SOUTHERN GEORGIA. 
-DAMAGING WINDS MAY ALSO AFFECT PORTIONS OF SOUTHEAST MONTANA THIS
-EVENING....
-
-...SUMMARY...
-Tropical Storm Debby may produce a few tornadoes over parts of
-Florida and extreme southern Georgia through early tomorrow morning
-as it intensifies.  Scattered thunderstorms may produce damaging
-wind gusts across parts of Montana this evening.
-
-...FL/South GA...
-Tropical Storm Debby continues to intensify off the west coast of
-the FL.  Low-level wind fields are enlarging, resulting in
-strengthening shear profiles across much of peninsula.  Dewpoints in
-the mid-upper 70s and pockets of heating, combined with deep
-tropical moisture, will result in scattered to widespread afternoon
-thunderstorms.  Given the favorable wind fields, a few tornadoes are
-possible.
-
-...MT/WY...
-Water vapor loop shows a well-defined mid-level shortwave trough
-moving eastward across ID.  This feature and an associated mid-level
-speed max will cross the northern Rockies and into southern
-MT/northern WY this afternoon/evening.  A consensus of 12z model
-guidance shows clusters of thunderstorms forming in this region,
-tracking eastward across southern MT through the evening.  CAMs have
-a consistent signal for a more organized damaging wind threat, so
-have added a small SLGT to account for this scenario.
-
-...SD/MN/IA...
-A strengthening low-level jet will enhance warm advection and lift
-over eastern SD/western MN this evening/tonight.  Isolated
-thunderstorm development is possible in this regime, perhaps not
-until after midnight.  This region will be beneath the southern
-fringe of stronger west-northwest flow aloft, and in a region of
-relatively steep mid-level lapse rates.  Elevated storms capable of
-hail and perhaps gusty winds are possible.
-
-...Northeast States...
-Scattered thunderstorms are expected today across much of New
-England and eastern NY/PA into NJ.  Surface conditions are
-considerably cooler than recent days, which should weaken low-level
-lapse rates and temper the overall severe threat.  Nevertheless, a
-few strong storms are possible - capable of gusty wind and small
-hail.
-
-..Hart/Jewell.. 08/04/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 

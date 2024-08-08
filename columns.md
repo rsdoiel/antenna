@@ -1,11 +1,67 @@
 ---
 title: columns 2024.32
-updated: 2024-08-08 08:29:33
+updated: 2024-08-08 10:46:38
 ---
 
 # columns 2024.32
 
-(date: 2024-08-08 08:29:33)
+(date: 2024-08-08 10:46:38)
+
+---
+
+## Windows as productivity tech
+
+date: 2024-08-08, from: Tracy Durnell Blog
+
+We&#8217;ve grown to think that technology must involve computers. We think of buildings as boxes that we put technology inside, not as technology themselves. Natural light is powerful for people of all ages, not just students. Being able to bring in fresh air by opening a window made people a little safer during the pandemic. [&#8230;] 
+
+<https://tracydurnell.com/2024/08/08/windows-as-productivity-tech/>
+
+---
+
+##  Tim Walz Fixed Your Bicycle 
+
+date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/tim-walz-fixed-your-bicycle>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-08, from: Dave Winer's Scripting News)
+
+Governor Tim is Mr Rogers for adults. And you know who should play him on SNL? Tom Hanks. 
+
+<http://scripting.com/2024/08/08.html#a164705>
+
+---
+
+##  The Portable Feminist Reader, edited by Roxane Gay. Includes writing by Agrippa,... 
+
+date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045088-the-portable-feminist-rea>
+
+---
+
+## August 7, 2024
+
+date: 2024-08-08, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-7-2024-3a3>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-08, from: Dave Winer's Scripting News)
+
+It's wrong that posts from <a href="https://x.com/TimothyDSnyder/status/1821571215703867727">Timothy Snyder</a>, <a href="https://x.com/JoeTrippi/status/1821357451444093360">Joe Trippi</a> and <a href="https://x.com/DougJBalloon/status/1820848752531272100">NYT Pitchbot</a> are only available on Twitter. I'd like to help their posts reach a wider audience. 
+
+<http://scripting.com/2024/08/08.html#a155601>
 
 ---
 
@@ -59,7 +115,7 @@ date: 2024-08-08, from: Jeff Geerling blog
 
             <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-pico-2.jpeg" alt="Pico 2 Logo"></p>
 
-<p>The <a href="https://www.raspberrypi.com/products/raspberry-pi-pico/">$5 Raspberry Pi Pico 2</a> was announced today, with a new chip, the RP2350. This silicon improves on almost every aspect of the RP2040:</p>
+<p>The <a href="https://www.raspberrypi.com/products/raspberry-pi-pico-2/">$5 Raspberry Pi Pico 2</a> was announced today, with a new chip, the <a href="https://www.raspberrypi.com/products/rp2350/">RP2350</a>. This silicon improves on almost every aspect of the RP2040:</p>
 
 <ul>
 <li>3 PIOs instead of 2</li>

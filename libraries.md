@@ -1,11 +1,21 @@
 ---
 title: libraries 2024.32
-updated: 2024-08-08 08:29:35
+updated: 2024-08-08 10:46:41
 ---
 
 # libraries 2024.32
 
-(date: 2024-08-08 08:29:35)
+(date: 2024-08-08 10:46:41)
+
+---
+
+## The Borough Treasurer, by J. S. Fletcher
+
+date: 2024-08-08, from: Standard Ebooks, new releaases
+
+When a retired detective is found murdered, two business partners in a small Yorkshire town become the prime suspects. 
+
+<https://standardebooks.org/ebooks/j-s-fletcher/the-borough-treasurer>
 
 ---
 
