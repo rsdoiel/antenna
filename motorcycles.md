@@ -1,11 +1,121 @@
 ---
 title: motorcycles 2024.32
-updated: 2024-08-08 10:46:42
+updated: 2024-08-09 07:51:40
 ---
 
 # motorcycles 2024.32
 
-(date: 2024-08-08 10:46:42)
+(date: 2024-08-09 07:51:40)
+
+---
+
+## Suzuki Fan? Now Your GSX-R and Your Bag Can Both Be Made By Your Fave
+
+date: 2024-08-09, from: Ride Apart, Electric Motorcycle News
+
+Old school and new school design and craftsmanship, together in perfect harmony. 
+
+<https://www.rideapart.com/news/729571/suzuki-loom-bag-collection-japan/>
+
+---
+
+## Yamaha’s YZF-R15 Gets a Bunch Of Updates, Still Not Available In the US
+
+date: 2024-08-09, from: Ride Apart, Electric Motorcycle News
+
+It gets styling and tech reminiscent of Yamaha’s flagship YZF-R1 superbike.  
+
+<https://www.rideapart.com/news/729426/2025-yamaha-yzfr15-updates-indonesia/>
+
+---
+
+## Norton Gets New President, Used to Run Manchester United Football Club
+
+date: 2024-08-09, from: Ride Apart, Electric Motorcycle News
+
+I mean, you've got both football and motorcycling hooligans, so... 
+
+<https://www.rideapart.com/news/729546/norton-motorcycles-richard-arnold-manchester-united/>
+
+---
+
+## A Road-Legal Ducati 450 Enduro Is Coming, Supermoto Shenanigans Surely to Follow
+
+date: 2024-08-09, from: Ride Apart, Electric Motorcycle News
+
+Come on Ducati, leave some of the motorcycle industry for other manufacturers—kidding, please don't stop pushing the envelope. 
+
+<https://www.rideapart.com/news/729570/ducati-450-road-legal-enduro/>
+
+---
+
+## Mustang and Bronco Inspired E-Bikes Are Sick, and Half the Price of McLaren’s
+
+date: 2024-08-09, from: Ride Apart, Electric Motorcycle News
+
+I don't generally give e-bikes a second look, but these models hit the right marks. 
+
+<https://www.rideapart.com/news/729541/ford-mustang-bronco-e-bikes/>
+
+---
+
+## This Brazilian Motorcycle Police Chase Is Worthy of Mission Impossible, Last Forever
+
+date: 2024-08-09, from: Ride Apart, Electric Motorcycle News
+
+Strap yourself in for five minutes of action.  
+
+<https://www.rideapart.com/news/729530/brazilian-motorcycle-chase/>
+
+---
+
+## The Chinese Have Made Ultra Fast Charging Batteries, But There’s a Problem
+
+date: 2024-08-09, from: Ride Apart, Electric Motorcycle News
+
+Can they be charged in 10 minutes? Sure. Will you be able to experience it? Maybe not.  
+
+<https://www.rideapart.com/news/729425/chinese-ultra-fast-charging-batteries-problem/>
+
+---
+
+## Harley-Davidson Celebrates 1 Million Riders Trained Milestone
+
+date: 2024-08-08, from: Cycle World News
+
+Harley-Davidson announced today that it has trained one million riders through its Riding Academy program, cementing its status as the largest rider training program in the United States. 
+
+<https://www.cycleworld.com/the-wire/harley-davidson-celebrates-1-million-riders-trained-milestone/>
+
+---
+
+## Ducati Makes Its Motocross World Championship Debut
+
+date: 2024-08-08, from: Cycle World News
+
+Ducati is preparing for a historic debut in the MXGP World Championship with Tony Cairoli. 
+
+<https://www.cycleworld.com/the-wire/ducati-makes-motocross-world-championship-debut/>
+
+---
+
+## 2024 KTM 690 Enduro R
+
+date: 2024-08-08, from: Cycle World News
+
+KTM’s 690 Enduro R is a lot of things: a lightweight adventure bike, a heavyweight dual sport, and something in between. 
+
+<https://www.cycleworld.com/ktm/690-enduro-r/>
+
+---
+
+## 2024 KTM 1290 Super Adventure R
+
+date: 2024-08-08, from: Cycle World News
+
+KTM’s 1290 Super Adventure R is the Austrian company’s most potent open-class adventure machine. 
+
+<https://www.cycleworld.com/ktm/1290-super-adventure-r/>
 
 ---
 
@@ -16,6 +126,26 @@ date: 2024-08-08, from: Cycle World News
 Yamaha’s no-frills Ténéré 700 is designed for the off-road-focused adventure rider who still wants a little on-road comfort. 
 
 <https://www.cycleworld.com/yamaha/tenere-700/>
+
+---
+
+## 2024 KTM 690 SMC R
+
+date: 2024-08-08, from: Cycle World News
+
+KTM’s 690 SMC R is an open-class single-cylinder street-oriented supermoto-style machine based on the 690 Enduro R. 
+
+<https://www.cycleworld.com/ktm/690-smc-r/>
+
+---
+
+## Hydrogen Power for Motorcycles?
+
+date: 2024-08-08, from: Cycle World News
+
+Hydrogen may sound like the perfect fuel for internal combustion engines, but it’s more complicated than it may seem. Kevin Cameron explains. 
+
+<https://www.cycleworld.com/blogs/ask-kevin/hydrogen-power-for-motorcycles-explained/>
 
 ---
 

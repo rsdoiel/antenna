@@ -1,11 +1,336 @@
 ---
 title: columns 2024.32
-updated: 2024-08-08 10:46:38
+updated: 2024-08-09 07:51:36
 ---
 
 # columns 2024.32
 
-(date: 2024-08-08 10:46:38)
+(date: 2024-08-09 07:51:36)
+
+---
+
+## 2024-08-09 NNCP setup automation
+
+date: 2024-08-09, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-09-nncp-setup-automation">2024-08-09 NNCP setup automation</h1>
+
+<p>This is a continuation of <a href="2024-07-16-minimal-nncp-setup">the minimal NNCP setup to get started</a>.
+Once we verified that everything works as expected with manual invocations, the next step is automation. There are two options:</p>
+
+<ul>
+<li>Enable all the services. This makes sense if you expect a lot of traffic.</li>
+<li>Only call the executables every now and then. This makes sense if you expect very little traffic.</li>
+</ul>
+
+<p>If you want to enable all the services, the <code>examples</code> directory has service definitions for you.
+Running <code>nncp-caller</code> only makes sense if there is at least one entry in your <code>/etc/nncp.hjson</code> that has a <code>cron</code> key.</p>
+
+<pre><code>sudo systemctl enable /usr/share/doc/nncp/examples/nncp-daemon.service
+sudo systemctl enable /usr/share/doc/nncp/examples/nncp-caller.service
+sudo systemctl enable /usr/share/doc/nncp/examples/nncp-toss.service
+sudo systemctl start nncp-daemon.service 
+sudo systemctl start nncp-caller.service
+sudo systemctl start nncp-toss.service 
+sudo systemctl status nncp-daemon.service 
+sudo systemctl status nncp-caller.service
+sudo systemctl status nncp-toss.service 
+</code></pre>
+
+<p>I don&rsquo;t expect a lot of NNCP traffic. This is why my setup on the laptop and server uses the alternative.</p>
+
+<p>In order to conserve resources, you could decide not to have these services running all the time.
+I&rsquo;m doing this for two reasons: I don&rsquo;t want to upgrade the virtual machine I&rsquo;m renting. It&rsquo;s a point of pride to do much with very little. From the perspective of impeding collapse, I also think that we should all get on board with <a href="https://wimvanderbauwhede.codeberg.page/articles/frugal-computing-developer/">frugal computing</a> (<a class="account" href="https://scholar.social/@wim_v12e" title="@wim_v12e@scholar.social">@wim_v12e</a>).</p>
+
+<p>Ready for some frugal computing? Here we go.</p>
+
+<p>Run the daemon on the server. That is, if other sites know your internet address and call you, then you need this. My laptop does not but my server does. When somebody calls the server on port 5400, start the <code>nncp-daemon</code> using <code>inetd</code> (from the <code>openbsd-inet</code> or the <code>inetutils-inetd</code> packages on Debian).</p>
+
+<p>In your <code>/etc/inetd.conf</code> file:</p>
+
+<pre><code>5400	stream	tcp	nowait	nncp	/usr/bin/nncp-daemon	nncp-daemon -quiet -ucspi
+</code></pre>
+
+<p>Run <code>nncp-call</code> every hour or every day from cron for the systems you want to call.
+Those systems don&rsquo;t need a <code>cron</code> key in the <code>/etc/nncp.hjson</code> file.</p>
+
+<p>This is my laptop calling my server every hour, via <code>/etc/cron.hourly/nncp</code>:</p>
+
+<pre><code>#!/bin/sh
+if [ -x /usr/bin/nncp-call ]; then
+        su nncp -s /bin/sh -c &quot;/usr/bin/nncp-call sibirocobombus -noprogress&quot;
+fi
+</code></pre>
+
+<p>This is on the laptop, for my neighbours <code>erebor</code> and <code>quux</code> in <code>/etc/cron.daily/nncp</code>:</p>
+
+<pre><code>if [ -x /usr/bin/nncp-call ]; then
+    for neighbour in erebor quux; do
+        su nncp -s /bin/sh -c &quot;/usr/bin/nncp-call erebor -noprogress&quot;
+    done
+fi
+</code></pre>
+
+<p>This is for the server, tossing stuff once per hour, via <code>/etc/cron.hourly/nncp</code>:</p>
+
+<pre><code>#!/bin/sh
+if [ -x /usr/bin/nncp-toss ]; then
+	su nncp -s /bin/sh -c &quot;/usr/bin/nncp-toss&quot;
+fi
+</code></pre>
+
+<p>Adding <code>autotoss: true</code> only helps for the system calling others. On the server, tossing needs to happen on a regular basis.</p>
+
+<p>Finally, you can do some clean-up by copying <code>/usr/share/doc/nncp/examples/cron-daily-nncp</code> to <code>/etc/cron.daily/nncp-cleanup</code>.</p>
+
+<p>I&rsquo;m using the following, both on the laptop and the server:</p>
+
+<pre><code>#!/bin/bash
+
+if [ -x /usr/bin/nncp-rm ]; then
+    for TYPE in part seen hdr area; do
+            su nncp -s /bin/bash -c &quot;nncp-rm -quiet -all -older 7d -$TYPE&quot;
+    done
+    su nncp -s /bin/bash -c &quot;nncp-rm -quiet -tmp -older 7d&quot;
+fi
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23NNCP">#NNCP</a></p> 
+
+<https://alexschroeder.ch/view/2024-08-09-nncp-automation>
+
+---
+
+## People-Search Site Removal Services Largely Ineffective
+
+date: 2024-08-09, updated: 2024-08-09, from: Bruce Schneier blog
+
+<p>Consumer Reports has a <a href="https://innovation.consumerreports.org/wp-content/uploads/2024/08/Data-Defense_-Evaluating-People-Search-Site-Removal-Services-.pdf">new study</a> of people-search site removal services, concluding that they don&#8217;t really work:</p>
+<blockquote><p>As a whole, people-search removal services are largely ineffective. Private information about each participant on the people-search sites decreased after using the people-search removal services. And, not surprisingly, the removal services did save time compared with manually opting out. But, without exception, information about each participant still appeared on some of the 13 people-search sites at the one-week, one-month, and four-month intervals. We initially found 332 instances of information about the 28 participants who would later be signed up for removal services (that does not include the four participants who were opted out manually). Of those 332 instances, only 117, or 35%, were removed within...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/08/people-search-site-removal-services-largely-ineffective.html>
+
+---
+
+## more curl help
+
+date: 2024-08-09, from: Daniel Stenberg Blog
+
+With the ever-growing number of command line options for curl, the problem of how to provide documentation and help users understand how options work and should be used is a challenge that is worth revisiting regularly. To keep iterating on. I personally often use the curl manpage to lookup descriptions for options. Often not only &#8230; <a href="https://daniel.haxx.se/blog/2024/08/09/more-curl-help/" class="more-link">Continue reading <span class="screen-reader-text">more curl help</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/08/09/more-curl-help/>
+
+---
+
+## Bonus Debunking Myth: “Trump supporters are ignorant.” Bunk!
+
+date: 2024-08-09, from: Robert Reich's blog
+
+Many of them are responding angrily to a rigged system. It&#8217;s not enough that we beat Trump on Election Day. To beat Trumpism, we must also unrig the system. 
+
+<https://robertreich.substack.com/p/bonus-debunking-myth-trump-supporters>
+
+---
+
+## 2024-08-08 Man pages
+
+date: 2024-08-09, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-08-man-pages">2024-08-08 Man pages</h1>
+
+<p>Here&rsquo;s a great thing on the command line. You want to use the command <strong>foo</strong> and don&rsquo;t know how, so you run <strong>man foo</strong> and read the manual page. Sometimes there will be more info in different &ldquo;sections&rdquo;. Commands are in section 1, which is why documentation would sometimes refer to the command &ldquo;foo&rdquo; as <strong>foo(1)</strong> because <strong>foo(5)</strong> might document the file format or the config file that goes along with the command.</p>
+
+<p>If that&rsquo;s news to you, run <strong>man man</strong>. And if you find the structure bewildering, read the manual on how to write manual pages: <strong>man man-pages</strong> (section 7).</p>
+
+<p>I&rsquo;ve embraced man pages because when I write Perl code, I can put documentation into the script such that when the script is installed, it automatically works as its own man page – this works for <a href="https://metacpan.org/dist/App-jupiter">jupiter</a>, <a href="https://metacpan.org/dist/App-BookmarkFeed">bookmark-feed</a> – it also works for bigger projects, like <a href="https://metacpan.org/dist/App-Phoebe">phoebe</a> where each extension is also a Perl module and therefore also gets its own man page.</p>
+
+<p>For programming languages where the documentation is more focused on documenting the code, things are different. Of course, there&rsquo;s <code>pydoc</code> for Python code and <code>go doc</code> for Go code, but it&rsquo;s not great. The list of variables and functions are maybe suitable for libraries, but not for applications.</p>
+
+<p>Since I don&rsquo;t enjoy writing man pages directly (<code>man</code> is actually a macro package for the <code>nroff</code> language, see <strong>man nroff</strong>, obviously) I write my documentation in the <a href="https://gitlab.com/ddevault/scdoc">scdoc</a> format. <a class="account" href="https://fosstodon.org/@drewdevault" title="@drewdevault@fosstodon.org">@drewdevault</a> wrote it <a href="https://drewdevault.com/2018/05/13/scdoc.html">in 2018</a>. It looks a bit like Markdown and friends and I like it. I even put a little sequence of <code>sed</code> expressions into a Makefile to turn scdoc into Markdown so that I could publish the man pages on this site, see <a href="oddmu/index">Oddµ man pages</a>.</p>
+
+<p>When documentation for a project is a website, I wonder how they serve people offline or with bad connections. Perhaps they want to write the documentation in texinfo? I haven’t done that in a long time but I really enjoy reading a well-written manual like that. And you can get a PDF for free but I’m not sure anybody really wants that. Even a README is bad because in those rare cases where the program gets added to a distro, how will end-users find the README? Man pages are the answer.</p>
+
+<p>README files and offline copies of the HTML documentation have multiple problems.</p>
+
+<ul>
+<li>Which directory is it, exactly? <code>/usr/doc</code> does not exist on my system. <code>/usr/share</code> lists lots of package names but these are not the docs. <code>/usr/share/doc</code> is the one! But the problems continue. Which is the file that you want to read when you&rsquo;re faced with <code>BUGS  changelog.Debian.gz  changelog.gz  copyright  README  README.Debian  README.frames  RELEASE-NOTES.txt  WhatsNew.gz</code> – it&rsquo;s README, I guess, but I am always confused. Sometimes you&rsquo;re looking at binary and it&rsquo;s also not obvious what the package name would be. <code>find</code> is in <code>/usr/share/doc/findutils</code>, for example.</li>
+</ul>
+
+<p>Compared to this, man pages are so much better.</p>
+
+<p>And some package managers like <code>go</code>, <code>pip</code> (Python), <code>cabal</code> (Haskell) and <code>cargo</code> (Rust) don’t install any of these files, I think.</p>
+
+<p>I suspect that many developers consider using a website like <a href="https://about.readthedocs.com/">Read the Docs</a> to be good enough. Bad luck for people who are offline or who have bad reception, in hotel rooms with bad wifi, in planes? My sister lives in the Rhine valley, on the German side, close to Switzerland, in a tiny village of a bit more than 100 people. They have no glass fibre. They have bad reception, both from Switzerland and from Germany. It&rsquo;s terrible! But even for me: I have wifi in the apartment and glass windows that act that block the signal. I have no reception on the balcony unless I use my phone as a hotspot.</p>
+
+<p>Local documentation that is easy to find is so much better.</p>
+
+<p>And man pages are powerful. <em>All</em> of Perl is documented in many pages. All the modules. All the switches. All the language features. I learned to program in Perl from man pages back when my browser was <a href="https://en.wikipedia.org/wiki/NCSA_Mosaic">NCSA Mosaic</a>. (I am a bit astonished to find that I still knew that acronym! But I didn’t know that it stands for National Center for Supercomputing Applications.) Anyway, what I wanted to say is that man pages can be used to document large and complex things. From the command line, they are readily accessible. With the right man reader, they can act as a hypertext, linking to other pages. They don’t have to be terse and cryptic, either. Man pages can be tutorials, introductions, FAQs, and more. And if you write man pages using a suitable format, you can still generate HTML pages with links.</p>
+
+<p>If you&rsquo;re not writing man pages, if your community doesn&rsquo;t have the habit of writing man pages, start small. Get <code>scdoc</code> and write a little something. Skim <strong>man man-pages</strong> and learn about the conventions, then write some text files. Then use <code>scdoc &lt; text-file &gt; man-page</code> to create the file and install them into <code>~/.local/share/man</code>, following the conventions. A page from section 1 (commands) has the extension &ldquo;.1&rdquo; and goes into <code>~/.local/share/man/man1</code> whereas a page from section 5 (file formats and config files) has the extension &ldquo;.5&rdquo; and goes into <code>~/.local/share/man/man5</code>.</p>
+
+<p><a class="tag" href="/search/?q=%23Programming">#Programming</a> <a class="tag" href="/search/?q=%23Software">#Software</a> <a class="tag" href="/search/?q=%23Documentation">#Documentation</a></p>
+
+<p><strong>2024-08-09</strong>. At one point I was interested in <a href="2018-03-05_Troff">using troff as an alternative to LaTeX</a>, so not to write documentation but to create PDFs, and I kept eyeing the <a href="http://www.schaffter.ca/mom/mom-01.html">mom macros</a>. But before I could give them a try I discovered how to <a href="2020-07-24_Writing_Markdown,_generating_PDF">create PDFs using Markdown to HTML to PDF</a> via weasyprint and that has been my workflow ever since. For a zine I’m contributing to, however, I’m using <a href="https://www.gnu.org/software/groff/">groff</a> and the <a href="https://www.troff.org/using-ms.pdf">ms macros</a> because that’s what’s in the Makefile…</p>
+
+<p>The reason I write this all up is that flexibeast wrote in, saying that man pages can be written using the semantics-oriented <a href="https://man.openbsd.org/mdoc.7">mdoc macros</a> instead of the presentation-oriented <a href="https://man.openbsd.org/man.7">man macros</a> – and they had written an <a href="https://github.com/flexibeast/guides/blob/master/mdoc-quickstart.md">mdoc quickstart guide</a>. Nice!</p>
+
+<p>I really have to take a look at <a href="https://man.openbsd.org/mandoc.1">mandoc</a> as a groff alternative.</p> 
+
+<https://alexschroeder.ch/view/2024-08-08-man-pages>
+
+---
+
+## August 8, 2024
+
+date: 2024-08-09, from: Heather Cox Richardson blog
+
+Fifty years ago, on August 9, 1974, Richard M. 
+
+<https://heathercoxrichardson.substack.com/p/august-8-2024>
+
+---
+
+## Apple Announces New Fee Structure and Updated Guidelines for Apps in the EU That Link Out to the Web for Purchases
+
+date: 2024-08-09, updated: 2024-08-09, from: Daring Fireball
+
+ 
+
+<https://9to5mac.com/2024/08/08/apple-app-store-eu-link-out-changes/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-09, from: Dave Winer's Scripting News)
+
+Someday soon <i>twitter</i> will be on <a href="https://en.wikipedia.org/wiki/List_of_generic_and_genericized_trademarks">this list</a>. 
+
+<http://scripting.com/2024/08/08.html#a002605>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-09, from: Dave Winer's Scripting News)
+
+Another practical use for ChatGPT. A super techy service you use decides to require 2FA but reading their instructions you realize the docs were written by someone who hates people like you. Idea! Ask ChatGPT to translate. Out come nice instructions easy to read for people like me. Turns a dismal exercise in frustration to happiness at finding another huge stress- and time-saving application for ChatGPT. 
+
+<http://scripting.com/2024/08/08.html#a001102>
+
+---
+
+## Why isn’t the media reporting on Trump’s increasing dementia? 
+
+date: 2024-08-08, from: Robert Reich's blog
+
+Today&#8217;s news conference should at least spur a serious inquiry 
+
+<https://robertreich.substack.com/p/why-isnt-the-media-reporting-on-trumps>
+
+---
+
+## Friday 9 August, 2024
+
+date: 2024-08-08, from: John Naughton's online diary
+
+Free spirits Funny how plants refuse to do what you want them to do. This rose bush was supposed to enliven a dull patch in the garden fence, but instead has decided to reach for the sky. Quote of the &#8230; <a href="https://memex.naughtons.org/friday-9-august-2024/39731/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-9-august-2024/39731/>
+
+---
+
+##  The Oldest World Map in the World 
+
+date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/the-oldest-world-map-in-the-world>
+
+---
+
+##  Feist plays a Tiny Desk Concert for NPR.... 
+
+date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045094-feist-plays-a-tiny-desk>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-08, from: Dave Winer's Scripting News)
+
+What's the best piece of <a href="https://mastodon.social/@davew/112928646857395841">advice</a> you ever got? 
+
+<http://scripting.com/2024/08/08.html#a215839>
+
+---
+
+## ‘A Platform That’s Teetering on the Edge of Becoming a User-Experience Joke Akin to Windows Vista’
+
+date: 2024-08-08, updated: 2024-08-08, from: Daring Fireball
+
+ 
+
+<https://sixcolors.com/post/2024/08/apples-permissions-features-are-out-of-balance/>
+
+---
+
+## Find Any File 2.5
+
+date: 2024-08-08, updated: 2024-08-08, from: Daring Fireball
+
+ 
+
+<https://findanyfile.app/>
+
+---
+
+##  Saturday Night 
+
+date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/saturday-night>
+
+---
+
+##  A lovely ode to soil by Ferris Jabr. &#8220;I now see soil... 
+
+date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045093-a-lovely-ode-to-soil>
+
+---
+
+##  Diary Comics, July 6 
+
+date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/diary-comics-july-6>
+
+---
+
+##  Pete Wells&#8217;s last column for the NY Times as restaurant critic: I... 
+
+date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045091-pete-wellss-last-column-f>
+
+---
+
+##  Is this a new streaming device for your TV or the bar... 
+
+date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045090-is-this-a-new-streaming>
 
 ---
 
@@ -31,7 +356,7 @@ date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-08-08, from: Dave Winer's Scripting News)
 
-Governor Tim is Mr Rogers for adults. And you know who should play him on SNL? Tom Hanks. 
+<a href="https://en.wikipedia.org/wiki/Tim_Walz">Tim Walz</a> is <a href="https://en.wikipedia.org/wiki/Fred_Rogers">Mr Rogers</a> for adults. <a href="https://www.google.com/search?q=Tom+Hanks+snl&tbm=vid">Tom Hanks</a> should play <a href="https://www.youtube.com/watch?v=vcwFeyrH2ww">him</a> on SNL. 
 
 <http://scripting.com/2024/08/08.html#a164705>
 
@@ -59,51 +384,9 @@ date: 2024-08-08, from: Heather Cox Richardson blog
 
 **@Dave Winer's Scripting News** (date: 2024-08-08, from: Dave Winer's Scripting News)
 
-It's wrong that posts from <a href="https://x.com/TimothyDSnyder/status/1821571215703867727">Timothy Snyder</a>, <a href="https://x.com/JoeTrippi/status/1821357451444093360">Joe Trippi</a> and <a href="https://x.com/DougJBalloon/status/1820848752531272100">NYT Pitchbot</a> are only available on Twitter. I'd like to help their posts reach a wider audience. 
+It's wrong that posts from <a href="https://x.com/TimothyDSnyder/status/1821571215703867727">Timothy Snyder</a>, <a href="https://x.com/JoeTrippi/status/1821357451444093360">Joe Trippi</a> and <a href="https://x.com/DougJBalloon/status/1820848752531272100">NYT Pitchbot</a> are only available on Twitter. I'd like to help their posts reach a wider audience. I posted a <a href="https://dave.micro.blog/2024/08/08/great-stuff-thats.html">note</a> about this on micro.blog with a <a href="https://micro.blog/dave/43163514">place</a> to comment. 
 
 <http://scripting.com/2024/08/08.html#a155601>
-
----
-
-## 2024-08-08 Man pages
-
-date: 2024-08-08, from: Alex Schroeder's Blog
-
-<h1 id="2024-08-08-man-pages">2024-08-08 Man pages</h1>
-
-<p>Here&rsquo;s a great thing on the command line. You want to use the command <strong>foo</strong> and don&rsquo;t know how, so you run <strong>man foo</strong> and read the manual page. Sometimes there will be more info in different &ldquo;sections&rdquo;. Commands are in section 1, which is why documentation would sometimes refer to the command &ldquo;foo&rdquo; as <strong>foo(1)</strong> because <strong>foo(5)</strong> might document the file format or the config file that goes along with the command.</p>
-
-<p>If that&rsquo;s news to you, run <strong>man man</strong>. And if you find the structure bewildering, read the manual on how to write manual pages: <strong>man man-pages</strong> (section 7).</p>
-
-<p>I&rsquo;ve embraced man pages because when I write Perl code, I can put documentation into the script such that when the script is installed, it automatically works as its own man page – this works for <a href="https://metacpan.org/dist/App-jupiter">jupiter</a>, <a href="https://metacpan.org/dist/App-BookmarkFeed">bookmark-feed</a> – it also works for bigger projects, like <a href="https://metacpan.org/dist/App-Phoebe">phoebe</a> where each extension is also a Perl module and therefore also gets its own man page.</p>
-
-<p>For programming languages where the documentation is more focused on documenting the code, things are different. Of course, there&rsquo;s <code>pydoc</code> for Python code and <code>go doc</code> for Go code, but it&rsquo;s not great. The list of variables and functions are maybe suitable for libraries, but not for applications.</p>
-
-<p>Since I don&rsquo;t enjoy writing man pages directly (<code>man</code> is actually a macro package for the <code>nroff</code> language, see <strong>man nroff</strong>, obviously) I write my documentation in the <a href="https://gitlab.com/ddevault/scdoc">scdoc</a> format. <a class="account" href="https://fosstodon.org/@drewdevault" title="@drewdevault@fosstodon.org">@drewdevault</a> wrote it <a href="https://drewdevault.com/2018/05/13/scdoc.html">in 2018</a>. It looks a bit like Markdown and friends and I like it. I even put a little sequence of <code>sed</code> expressions into a Makefile to turn scdoc into Markdown so that I could publish the man pages on this site, see <a href="oddmu/index">Oddµ man pages</a>.</p>
-
-<p>When documentation for a project is a website, I wonder how they serve people offline or with bad connections. Perhaps they want to write the documentation in texinfo? I haven’t done that in a long time but I really enjoy reading a well-written manual like that. And you can get a PDF for free but I’m not sure anybody really wants that. Even a README is bad because in those rare cases where the program gets added to a distro, how will end-users find the README? Man pages are the answer.</p>
-
-<p>README files and offline copies of the HTML documentation have multiple problems.</p>
-
-<ul>
-<li>Which directory is it, exactly? <code>/usr/doc</code> does not exist on my system. <code>/usr/share</code> lists lots of package names but these are not the docs. <code>/usr/share/doc</code> is the one! But the problems continue. Which is the file that you want to read when you&rsquo;re faced with <code>BUGS  changelog.Debian.gz  changelog.gz  copyright  README  README.Debian  README.frames  RELEASE-NOTES.txt  WhatsNew.gz</code> – it&rsquo;s README, I guess, but I am always confused. Sometimes you&rsquo;re looking at binary and it&rsquo;s also not obvious what the package name would be. <code>find</code> is in <code>/usr/share/doc/findutils</code>, for example.</li>
-</ul>
-
-<p>Compared to this, man pages are so much better.</p>
-
-<p>And some package managers like <code>go</code>, <code>pip</code> (Python), <code>cabal</code> (Haskell) and <code>cargo</code> (Rust) don’t install any of these files, I think.</p>
-
-<p>I suspect that many developers consider using a website like <a href="https://about.readthedocs.com/">Read the Docs</a> to be good enough. Bad luck for people who are offline or who have bad reception, in hotel rooms with bad wife, in planes? My sister lives in the Rhine valley, on the German side, close to Switzerland, in a tiny village of a bit more than 100 people. They have no glass fibre. They have bad reception, both from Switzerland and from Germany. It&rsquo;s terrible! But even for me: I have wifi in the apartment and glass windows that act that block the signal. I have no reception on the balcony unless I use my phone as a hotspot.</p>
-
-<p>Local documentation that is easy to find is so much better.</p>
-
-<p>And man pages are powerful. <em>All</em> of Perl is documented in many pages. All the modules. All the switches. All the language features. I learned to program in Perl from man pages back when my browser was <a href="https://en.wikipedia.org/wiki/NCSA_Mosaic">NCSA Mosaic</a>. (I am a bit astonished to find that I still knew that acronym! But I didn’t know that it stands for National Center for Supercomputing Applications.) Anyway, what I wanted to say is that man pages can be used to document large and complex things. From the command line, they are readily accessible. With the right man reader, they can act as a hypertext, linking to other pages. They don’t have to be terse and cryptic, either. Man pages can be tutorials, introductions, FAQs, and more. And if you write man pages using a suitable format, you can still generate HTML pages with links.</p>
-
-<p>If you&rsquo;re not writing man pages, if your community doesn&rsquo;t have the habit of writing man pages, start small. Get <code>scdoc</code> and write a little something. Skim <strong>man man-pages</strong> and learn about the conventions, then write some text files. Then use <code>scdoc &lt; text-file &gt; man-page</code> to create the file and install them into <code>~/.local/share/man</code>, following the conventions. A page from section 1 (commands) has the extension &ldquo;.1&rdquo; and goes into <code>~/.local/share/man/man1</code> whereas a page from section 5 (file formats and config files) has the extension &ldquo;.5&rdquo; and goes into <code>~/.local/share/man/man5</code>.</p>
-
-<p><a class="tag" href="/search/?q=%23Programming">#Programming</a> <a class="tag" href="/search/?q=%23Software">#Software</a> <a class="tag" href="/search/?q=%23Documentation">#Documentation</a></p> 
-
-<https://alexschroeder.ch/view/2024-08-08-man-pages>
 
 ---
 
@@ -1004,6 +1287,16 @@ date: 2024-08-06, updated: 2024-08-06, from: Bruce Schneier blog
 <p>When an airplane crashes, impartial investigatory bodies leap into action, empowered by law to unearth what happened and why. But there is no such empowered and impartial body to investigate CrowdStrike&#8217;s <a href="https://www.nytimes.com/2024/07/19/business/microsoft-outage-cause-azure-crowdstrike.html">faulty update</a> that recently unfolded, ensnarling banks, airlines, and emergency services to the tune of billions of dollars. We need one. To be sure, there is the White House&#8217;s <a href="https://www.cisa.gov/resources-tools/groups/cyber-safety-review-board-csrb">Cyber Safety Review Board</a>. On March 20, the CSRB <a href="https://www.cisa.gov/sites/default/files/2024-04/CSRB_Review_of_the_Summer_2023_MEO_Intrusion_Final_508c.pdf">released</a> a report into last summer&#8217;s intrusion by a Chinese hacking group into Microsoft&#8217;s cloud environment, where it compromised the U.S. Department of Commerce, State Department, congressional offices, and several associated companies. But the board&#8217;s report&#8212;well-researched and containing some good and actionable recommendations&#8212;shows how it suffers from its lack of subpoena power and its political unwillingness to generalize from specific incidents to the broader industry...</p> 
 
 <https://www.schneier.com/blog/archives/2024/08/a-better-investigatory-board-for-cyber-incidents.html>
+
+---
+
+## Go structs are copied on assignment (and other things about Go I'd missed)
+
+date: 2024-08-06, updated: 2024-08-06, from: Julia Evans blog
+
+ 
+
+<https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/>
 
 ---
 

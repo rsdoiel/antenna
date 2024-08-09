@@ -1,11 +1,53 @@
 ---
 title: home 2024.32
-updated: 2024-08-08 10:46:41
+updated: 2024-08-09 07:51:39
 ---
 
 # home 2024.32
 
-(date: 2024-08-08 10:46:41)
+(date: 2024-08-09 07:51:39)
+
+---
+
+## Friday Links: August 9, 2024
+
+date: 2024-08-09, from: California Native Plants Society
+
+<p>Learn about cemeteries’ ecological value, moon-based genetic preservation, and more intriguing stories from the native plant world and beyond.</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-august-9-2024-39795">Friday Links: August 9, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-august-9-2024-39795>
+
+---
+
+## How to Keep Bees Away From Every Area
+
+date: 2024-08-08, from: Family Handyman Blog
+
+Bees bugging you? Try these pro tips to keep bees away. 
+
+<https://www.familyhandyman.com/list/how-to-keep-bees-away/>
+
+---
+
+## 9 Tips for Buying a Used ATV
+
+date: 2024-08-08, from: Family Handyman Blog
+
+Used ATVs can be a great deal, if you know what to look for. We asked an expert about the steps he takes to find the best used ATV. 
+
+<https://www.familyhandyman.com/list/buying-used-atv-tips/>
+
+---
+
+## 6 Tips for Perfect Trim on Doors, Windows and Base Moldings
+
+date: 2024-08-08, from: Family Handyman Blog
+
+These DIY tips will help you get tight-fitting joints on doors, windows and base moldings, even if your walls are less than perfect. We'll show you how to adjust your cuts so the trim fits together on out-of-square corners and wavy walls. Get out your miter saw and follow these steps, and you'll end up with professional looking trim every time.  
+
+<https://www.familyhandyman.com/list/door-window-base-molding-trim-tips/>
 
 ---
 

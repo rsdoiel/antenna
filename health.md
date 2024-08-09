@@ -1,11 +1,41 @@
 ---
 title: health 2024.32
-updated: 2024-08-08 10:46:43
+updated: 2024-08-09 07:51:41
 ---
 
 # health 2024.32
 
-(date: 2024-08-08 10:46:43)
+(date: 2024-08-09 07:51:41)
+
+---
+
+## Gut microbiome characteristics of women with hypothyroidism during early pregnancy detected by 16S rRNA amplicon sequencing and shotgun metagenomic
+
+date: 2024-08-09, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveThis study aimed to explore the correlation between microbiota dysbiosis and hypothyroidism in early pregnancy by 16S rRNA amplicon sequencing combined with metagenomic sequencing.MethodsSixty pregnant women (30 with hypothyroidism and 30 normal controls) were recruited for 16S rRNA amplicon sequencing, and 6 patients from each group were randomly selected for metagenomic sequencing to assess the gut microbiome profile.ResultsThe 16S rRNA results showed that beta-diversity in the hypothyroidism group was decreased. The relative abundances of the Prevotella and Paraprevotella genera increased in the hypothyroidism group, and Blautia predominated in the controls. The metagenomics results revealed that Prevotella_stercorea_CAG_629, Prevotella_hominis, Prevotella_sp_AM34_19LB, etc. were enriched in the hypothyroidism group at the species level. Functional analysis revealed that the pyridoxal 5’-phosphate synthase pdxT subunit module was decreased, and the short-chain fatty acid (SCFA) transporter and phospholipase/carboxylesterase modules were strongly enriched in the hypothyroidism group. Hypothyroidism patients had increased C-reactive protein (CRP), interleukin-2 (IL-2), IL-4, IL-10, and tumor necrosis factor (TNF)-α levels. The pyridoxal 5’-phosphate synthase pdxT subunit, the SCFA transporter, and the phospholipase/carboxylesterase module were associated with different Prevotella species.ConclusionIn early pregnancy, women with hypothyroidism exhibit microbiota dysbiosis, and Prevotella may affect the metabolism of glutamate, SCFA, and phospholipases, which could be involved in the development of hypothyroidism during pregnancy. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1369192>
+
+---
+
+## Lower respiratory tract microbiome and lung cancer risk prediction in patients with diffuse lung parenchymal lesions
+
+date: 2024-08-09, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveIn clinical practice, imaging manifestations of diffuse lung parenchymal lesions are common and indicative of various diseases, making differential diagnosis difficult. Some of these lesions are eventually diagnosed as lung cancer.MethodsBecause respiratory microorganisms play an important role in lung cancer development, we searched for microbial markers that could predict the risk of lung cancer by retrospectively analyzing the lower respiratory tract (LRT) microbiome of 158 patients who were hospitalized in the First Affiliated Hospital of Guangzhou Medical University (March 2021–March 2023) with diffuse lung parenchymal lesions. The final diagnosis was lung cancer in 21 cases, lung infection in 93 cases, and other conditions (other than malignancy and infections) in 44 cases. The patient’s clinical characteristics and the results of metagenomic next-generation sequencing of bronchoalveolar lavage fluid (BALF) were analyzed.ResultsBody mass index (BMI) and LRT microbial diversity (Shannon, Simpson, species richness, and Choa1 index) were significantly lower (P< 0.001, respectively) and Lactobacillus acidophilus relative abundance in the LRT was significantly higher (P< 0.001) in patients with lung cancer. The relative abundance of L. acidophilus in BALF combined with BMI was a good predictor of lung cancer risk (area under the curve = 0.985, accuracy = 98.46%, sensitivity = 95.24%, and specificity = 100.00%; P< 0.001).ConclusionOur study showed that an imbalance in the component ratio of the microbial community, diminished microbial diversity, and the presence of specific microbial markers in the LRT predicted lung cancer risk in patients with imaging manifestations of diffuse lung parenchymal lesions. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1410681>
+
+---
+
+## Investigation and genetic polymorphism analysis of rodents infected with Echinococcus in Ili Prefecture, Xinjiang Uygur Autonomous Region, China
+
+date: 2024-08-09, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionAlveolar echinococcosis (AE) is a life-threatening disease in humans caused by the larval stage of Echinococcus multilocularis. Domestic animals, dogs, foxes, and small mammals constitute the circular chain of AE. To evaluate the infection, distribution, and genetic polymorphism of AE in the Ili Prefecture (Nilka, Xinyuan and Zhaosu), we conducted this survey.MethodsIn June and July 2018, 267 small mammals were captured using water-infusion and mousetrap methods. Combined pathogenic and molecular biological methods were used to observe the histopathology of Echinococcus carried by rodents, amplify the mitochondrial nad1 gene of the pathogen, and investigate the genotype and haplotype diversity of Echinococcus in rodents in Ili Prefecture.ResultsMorphological identification revealed that these captured small mammals belonged to three species, with Microtus gregalis being the dominant species (183/267). Pathological and molecular biological results confirmed that E. multilocularis was the pathogen of echinococcosis in small mammals, with an infection rate of 15.73% (42/267). Among the three areas sampled, the highest infection rate of rodents was 25.45% (14/55) in Nilka County. However, there was no significant difference in the infection rates between regions (χ2 = 5.119, p > 0.05). Of the three captured rodent species, M. gregalis had the highest infection rate of 17.49% (32/183), but there was no significant difference in infection rates between the rodent species (χ2 = 1.364, p > 0.05). Phylogenetic analyses showed that the nad1 gene sequences obtained in this study clustered in the same clade as isolates from China. These isolates contained 21 haplotypes (Hap_1-21); Hap_2 was the most common haplotype (9/42). Furthermore, haplotype diversity (0.925 ± 0.027) and nucleotide diversity (0.01139 ± 0.00119) were higher in the Ili Prefecture than in other regions, indicating that population differentiation was high. Tajima’s D and Fu’s Fs tests were negative (p > 0.10), indicating that the population had expanded. The low fixation index (Fst) ranged from 0.00000 to 0.16945, indicating that the degree of genetic differentiation was different among different populations.DiscussionIn summary, Ili Prefecture is a high incidence area of AE, and Microtus spp. may play an important role in the transmission of AE in this area. The results of this study provide basic data for further study of the molecular epidemiology, genetic differences, and control of E. multilocularis in the Ili Prefecture, Xinjiang. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1433359>
 
 ---
 

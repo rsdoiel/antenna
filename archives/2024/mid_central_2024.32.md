@@ -1,11 +1,83 @@
 ---
 title: mid central 2024.32
-updated: 2024-08-08 10:46:37
+updated: 2024-08-09 07:51:35
 ---
 
 # mid central 2024.32
 
-(date: 2024-08-08 10:46:37)
+(date: 2024-08-09 07:51:35)
+
+---
+
+## ADAS and autonomous vehicles with distributed aperture radar
+
+date: 2024-08-09, from: EDN Blog
+
+<img width="1104" height="736" src="https://www.edn.com/wp-content/uploads/Hero-image-DAR-NXP.jpg?fit=1104%2C736" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-DAR-NXP.jpg?w=1104 1104w, https://www.edn.com/wp-content/uploads/Hero-image-DAR-NXP.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-DAR-NXP.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-DAR-NXP.jpg?w=1024 1024w" sizes="(max-width: 1104px) 100vw, 1104px" /><p>Distributed aperture radar (DAR), building on traditional radar technology, combines multiple sensors to create a more viable solution.</p>
+<p>The post <a href="https://www.edn.com/adas-and-autonomous-vehicles-with-distributed-aperture-radar/" data-wpel-link="internal">ADAS and autonomous vehicles with distributed aperture radar</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/adas-and-autonomous-vehicles-with-distributed-aperture-radar/>
+
+---
+
+## Client DIMM chipset reaches 7200 MT/s
+
+date: 2024-08-08, from: EDN Blog
+
+<img width="800" height="478" src="https://www.edn.com/wp-content/uploads/Rambus-DDR5-client-CKD_SPD.jpg?fit=800%2C478" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Rambus-DDR5-client-CKD_SPD.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Rambus-DDR5-client-CKD_SPD.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Rambus-DDR5-client-CKD_SPD.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>A memory interface chipset from Rambus enables DDR5 client CSODIMMS and CUDIMMs to operate at data rates of up to 7200 MT/s.</p>
+<p>The post <a href="https://www.edn.com/client-dimm-chipset-reaches-7200-mt-s/" data-wpel-link="internal">Client DIMM chipset reaches 7200 MT/s</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/client-dimm-chipset-reaches-7200-mt-s/>
+
+---
+
+## Reference design trio covers EV chargers
+
+date: 2024-08-08, from: EDN Blog
+
+<img width="800" height="439" src="https://www.edn.com/wp-content/uploads/Microchip-EV-ref-designs.jpg?fit=800%2C439" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Microchip-EV-ref-designs.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Microchip-EV-ref-designs.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Microchip-EV-ref-designs.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Microchip has released three flexible and scalable EV charger reference designs for residential and commercial charging applications.</p>
+<p>The post <a href="https://www.edn.com/reference-design-trio-covers-ev-chargers/" data-wpel-link="internal">Reference design trio covers EV chargers</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/reference-design-trio-covers-ev-chargers/>
+
+---
+
+## Infineon expands GaN transistor portfolio
+
+date: 2024-08-08, from: EDN Blog
+
+<img width="800" height="461" src="https://www.edn.com/wp-content/uploads/Infineon-CoolGaN-Drive.jpg?fit=800%2C461" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Infineon-CoolGaN-Drive.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Infineon-CoolGaN-Drive.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Infineon-CoolGaN-Drive.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Infineon has launched the CoolGaN Drive family, featuring single switches and half-bridges with integrated drivers.</p>
+<p>The post <a href="https://www.edn.com/infineon-expands-gan-transistor-portfolio/" data-wpel-link="internal">Infineon expands GaN transistor portfolio</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/infineon-expands-gan-transistor-portfolio/>
+
+---
+
+## 5G-enabled SBC packs AI accelerator
+
+date: 2024-08-08, from: EDN Blog
+
+<img width="800" height="471" src="https://www.edn.com/wp-content/uploads/Particle-Tachyon.jpg?fit=800%2C471" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Particle-Tachyon.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Particle-Tachyon.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Particle-Tachyon.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Tachyon, a Snapdragon-powered single-board computer (SBC) from Particle, boasts 5G connectivity and an NPU for AI/ML workloads.</p>
+<p>The post <a href="https://www.edn.com/5g-enabled-sbc-packs-ai-accelerator/" data-wpel-link="internal">5G-enabled SBC packs AI accelerator</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/5g-enabled-sbc-packs-ai-accelerator/>
+
+---
+
+## AI tweaks presence sensor accuracy
+
+date: 2024-08-08, from: EDN Blog
+
+<img width="800" height="437" src="https://www.edn.com/wp-content/uploads/Aqara-FP1E.jpg?fit=800%2C437" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Aqara-FP1E.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Aqara-FP1E.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Aqara-FP1E.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Joining Aqara’s smart home sensor lineup is the FP1E, which combines mmWave technology and AI algorithms to enable precise human sensing.</p>
+<p>The post <a href="https://www.edn.com/ai-tweaks-presence-sensor-accuracy/" data-wpel-link="internal">AI tweaks presence sensor accuracy</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/ai-tweaks-presence-sensor-accuracy/>
 
 ---
 
@@ -13,7 +85,7 @@ updated: 2024-08-08 10:46:37
 
 date: 2024-08-08, from: EDN Blog
 
-<img width="498" height="443" src="https://www.edn.com/wp-content/uploads/DpotGains_Figure3.png?fit=498%2C443" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/DpotGains_Figure3.png?w=498 498w, https://www.edn.com/wp-content/uploads/DpotGains_Figure3.png?w=300 300w" sizes="(max-width: 498px) 100vw, 498px" /><p>A solution that uses the MCP4xxx family of Dpots and maintains pseudologarithmic gain control while keeping the full 8-bit resolution.</p>
+<img width="498" height="443" src="https://www.edn.com/wp-content/uploads/DpotGains_Figure3.png?fit=498%2C443" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/DpotGains_Figure3.png?w=498 498w, https://www.edn.com/wp-content/uploads/DpotGains_Figure3.png?w=300 300w" sizes="(max-width: 498px) 100vw, 498px" /><p>A solution that uses the MCP4xxx family of Dpots and maintains pseudologarithmic gain control while keeping the full 8-bit resolution.</p>
 <p>The post <a href="https://www.edn.com/keep-dpot-pseudologarithmic-gain-control-on-a-leash/" data-wpel-link="internal">Keep Dpot pseudologarithmic gain control on a leash</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

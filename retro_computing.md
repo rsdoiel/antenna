@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.32
-updated: 2024-08-08 10:46:43
+updated: 2024-08-09 07:51:41
 ---
 
 # retro computing 2024.32
 
-(date: 2024-08-08 10:46:43)
+(date: 2024-08-09 07:51:41)
+
+---
+
+## Plasma Desktop 6.1.4 Release Includes Improvements and Bug Fixes
+
+date: 2024-08-08, from: Linux Magazine
+
+<p>The latest release from the KDE team improves the KWin window and composite managers and plenty of fixes.</p> 
+
+<http://www.linux-magazine.com/Online/News/Plasma-Desktop-6.1.4-Release-Includes-Improvements-and-Bug-Fixes>
 
 ---
 

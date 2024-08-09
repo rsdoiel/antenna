@@ -1,11 +1,111 @@
 ---
 title: socal north 2024.32
-updated: 2024-08-08 10:46:36
+updated: 2024-08-09 07:51:33
 ---
 
 # socal north 2024.32
 
-(date: 2024-08-08 10:46:36)
+(date: 2024-08-09 07:51:33)
+
+---
+
+## UCLA football evaluates roster depth ahead of conference debut
+
+date: 2024-08-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Change has become familiar for UCLA football.
+Topping off the major shifts of conference realignment and novelty at the helm, the Bruins&#8217; offensive unit will have a different look in 2024. 
+
+<https://dailybruin.com/2024/08/08/ucla-football-evaluates-roster-depth-ahead-of-conference-debut/>
+
+---
+
+## Cinema Under the Stars kicks off summer movie series in Westwood
+
+date: 2024-08-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Westwood village residents can watch their favorite stars under the stars this summer during the city&#8217;s outdoor movie series, Cinema Under the Stars.
+Cinema Under the Stars is a community event held as part of Broxton Nights on Broxton Plaza at Westwood Village. 
+
+<https://dailybruin.com/2024/08/08/cinema-under-the-stars-kicks-off-summer-movie-series-in-westwood/>
+
+---
+
+## Man detained at UCLA Medical Plaza on suspicion of rape, robbery
+
+date: 2024-08-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+A man suspected of sexual assault was taken into custody outside UCLA Medical Plaza on Thursday evening.&#160;
+The suspect, originally from Boston, drove a dark Lincoln SUV through the 405 Freeway and along surface streets in Inglewood. 
+
+<https://dailybruin.com/2024/08/08/man-detained-at-ucla-medical-plaza-on-suspicion-of-rape-robbery/>
+
+---
+
+## Friday Links: August 9, 2024
+
+date: 2024-08-09, from: California Native Plants Society
+
+<p>Learn about cemeteries’ ecological value, moon-based genetic preservation, and more intriguing stories from the native plant world and beyond.</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-august-9-2024-39795">Friday Links: August 9, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-august-9-2024-39795>
+
+---
+
+## UCLA women’s soccer prepares for Big Ten conference debut in season opener
+
+date: 2024-08-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA&#8217;s Big Ten debut is only two days away.
+When UCLA women&#8217;s soccer kicks off its 2024 season with an exhibition game against LMU on Aug. 
+
+<https://dailybruin.com/2024/08/08/ucla-womens-soccer-prepares-for-big-ten-conference-debut-in-season-opener/>
+
+---
+
+## Bruins wrap Olympic run before reaching women’s basketball podium
+
+date: 2024-08-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Only a quarterfinal berth was in the cards for the Bruins.
+Point guard Lina Sontag and forwards Angela Dugali&#263; and Emily Bessoir represented their respective countries, competing in the women&#8217;s basketball knockout stage at the 2024 Paris Olympic Games. 
+
+<https://dailybruin.com/2024/08/08/bruins-wrap-olympic-run-before-reaching-womens-basketball-podium/>
+
+---
+
+## UCPD searches for suspect in on-campus burglary in Olympic Hall
+
+date: 2024-08-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD is searching for an individual suspected of an on-campus hot prowl burglary Tuesday evening.
+According to a crime alert sent Thursday, the victim heard the suspect enter his room at Olympic Hall at around 9:30 p.m., but the suspect left quickly. 
+
+<https://dailybruin.com/2024/08/08/ucpd-searches-for-suspect-in-on-campus-burglary-in-olympic-hall/>
+
+---
+
+## Federal government ends policy that blocked unhoused LA veterans from housing
+
+date: 2024-08-08, updated: 2024-08-08, from: The LAist
+
+The change comes after strict income eligibility rules prevented some disabled veterans experiencing homelessness from obtaining housing. 
+
+<https://laist.com/news/housing-homelessness/los-angeles-veterans-va-west-campus-housing-homeless-hud-vash-vouchers-eligibility-change-disability>
+
+---
+
+## Santa Clarita Public Library Gets You Back-to-School Ready!
+
+date: 2024-08-08, from: City of Santa Clarita
+
+<p>By Mayor Cameron Smyth &#8220;The only thing that you absolutely have to know, is the location of the library.&#8221; – Albert Einstein Going back to school can often be a daunting experience for students and their families, marked by the anticipation of new grades, teachers, classmates and the back-to-school preparations after a relaxing break. However, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/08/08/santa-clarita-public-library-gets-you-back-to-school-ready/">Santa Clarita Public Library Gets You Back-to-School Ready!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/08/08/santa-clarita-public-library-gets-you-back-to-school-ready/>
 
 ---
 
@@ -23,7 +123,7 @@ Three days removed from her third Olympic medal, Jordan Chiles announced Wednesd
 
 date: 2024-08-08, updated: 2024-08-08, from: The LAist
 
-People were served almost exclusively instant noodles, even thought the providers are being paid to serve nutritious foods, according to officials. 
+People were served almost exclusively instant noodles, even though the providers are being paid to serve nutritious foods, according to officials. 
 
 <https://laist.com/news/housing-homelessness/fraud-investigation-homeless-inside-safe-bass>
 

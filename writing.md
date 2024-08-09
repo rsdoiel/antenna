@@ -1,11 +1,48 @@
 ---
 title: writing 2024.32
-updated: 2024-08-08 10:46:40
+updated: 2024-08-09 07:51:38
 ---
 
 # writing 2024.32
 
-(date: 2024-08-08 10:46:40)
+(date: 2024-08-09 07:51:38)
+
+---
+
+## Why Your Screenplay? Why Now? Why You?
+
+date: 2024-08-08, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/why-your-screenplay-why-now-why-you" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Why%20Your%20Screenplay.jpeg" alt="Why Your Screenplay? Why Now? Why You?" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>The more you interact with film industry professionals, the more you’ll notice certain phrases being repeated when they pass on your script or pitch: “It’s too familiar.”; “I like it, but don’t love it.”; “It’s great, but is it a movie?”; and the dual question “Why <em>this</em> story? Why <em>now</em>?”</p> 
+
+<https://blog.finaldraft.com/why-your-screenplay-why-now-why-you>
+
+---
+
+## Alex Brown Reviews The Dragonfly Gambit by A.D. Sui
+
+date: 2024-08-08, from: Locus Magazine
+
+<p><strong>The Dragonfly Gambit</strong>, A.D. Sui (Neon Hemlock 9781952086793, $13.99, 142pp, tp) April 2024.</p>
+<p>For generations, the Rule expanded its empire by colonizing planets and systems, but for the last few decades many of the colonized have been rebelling against their overlords. Nez, Shay, and Kaya, three young adults from the system Oran, were conscripted into the imperial air force only to watch the empire destroy their homeworlds. After a  <a href="https://locusmag.com/2024/08/alex-brown-reviews-the-dragonfly-gambit-by-a-d-sui/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/alex-brown-reviews-the-dragonfly-gambit-by-a-d-sui/>
+
+---
+
+## 3 Things 'Cuckoo' Can Teach You About Writing Great Horror
+
+date: 2024-08-08, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/3-things-cuckoo-can-teach-you-about-writing-great-horror" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/3%20Things%20Cuckoo%20Can%20Teach%20You%20About%20Writing%20Great%20Horror.jpg" alt="3 Things 'Cuckoo' Can Teach You About Writing Great Horror" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Do you love a unique horror film with some wacky European flair? Well, then, you’re probably so excited for Tilman Singer’s sophomore feature that comes out this week, <a href="https://www.imdb.com/title/tt12349832/"><em><span>Cuckoo</span></em></a>.</p> 
+
+<https://blog.finaldraft.com/3-things-cuckoo-can-teach-you-about-writing-great-horror>
 
 ---
 

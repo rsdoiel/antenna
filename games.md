@@ -1,11 +1,111 @@
 ---
 title: games 2024.32
-updated: 2024-08-08 10:46:40
+updated: 2024-08-09 07:51:38
 ---
 
 # games 2024.32
 
-(date: 2024-08-08 10:46:40)
+(date: 2024-08-09 07:51:38)
+
+---
+
+## The 34 best movies on Netflix right now
+
+date: 2024-08-09, updated: 2024-08-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## Discoveries
+
+date: 2024-08-09, updated: 2024-08-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
+
+---
+
+## The Borderlands movie lands on the border between good and bad
+
+date: 2024-08-09, updated: 2024-08-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/review/24216309/borderlands-movie-review-cate-blanchett>
+
+---
+
+## My favorite puzzle game has an unskippable Peter Gabriel interlude
+
+date: 2024-08-09, updated: 2024-08-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24216047/myst-game-peter-gabriel>
+
+---
+
+## Best Sorcerer builds in Diablo 4 season 5
+
+date: 2024-08-09, updated: 2024-08-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/diablo-4-guides/23653283/sorcerer-best-build-skills>
+
+---
+
+## Best Barbarian builds in Diablo 4 season 5
+
+date: 2024-08-09, updated: 2024-08-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/23654868/barbarian-best-build-skills>
+
+---
+
+## Best Rogue builds in Diablo 4 season 5
+
+date: 2024-08-09, updated: 2024-08-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/diablo-4-guides/23650988/rogue-best-build-skills>
+
+---
+
+## Best Necromancer builds in Diablo 4 season 5
+
+date: 2024-08-09, updated: 2024-08-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/diablo-4-guides/23656235/necromancer-best-build-skills>
+
+---
+
+## Best Druid builds in Diablo 4 season 5
+
+date: 2024-08-09, updated: 2024-08-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/diablo-4-guides/23656236/druid-best-build-skills>
+
+---
+
+## GTA 6: Everything we know so far about Rockstar’s next game
+
+date: 2024-08-08, updated: 2024-08-08, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/23952805/gta-6-grand-theft-auto-leaks-release-date-trailer>
 
 ---
 

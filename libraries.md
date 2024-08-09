@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.32
-updated: 2024-08-08 10:46:41
+updated: 2024-08-09 07:51:39
 ---
 
 # libraries 2024.32
 
-(date: 2024-08-08 10:46:41)
+(date: 2024-08-09 07:51:39)
+
+---
+
+## Marketing and the Origins of Food Names
+
+date: 2024-08-09, from: Scholarly Kitchen
+
+<p>Where do common food names come from, and how does changing the name of a food reflect marketing and sales?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/08/09/marketing-and-the-origins-of-food-names/">Marketing and the Origins of Food Names</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/08/09/marketing-and-the-origins-of-food-names/>
 
 ---
 

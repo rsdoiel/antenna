@@ -36,62 +36,190 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="columns-2024.32">columns 2024.32</h1>
-<p>(date: 2024-08-08 10:46:38)</p>
+<p>(date: 2024-08-09 07:51:36)</p>
 <hr />
-<h2 id="windows-as-productivity-tech">Windows as productivity tech</h2>
-<p>date: 2024-08-08, from: Tracy Durnell Blog</p>
-<p>We’ve grown to think that technology must involve computers. We think
-of buildings as boxes that we put technology inside, not as technology
-themselves. Natural light is powerful for people of all ages, not just
-students. Being able to bring in fresh air by opening a window made
-people a little safer during the pandemic. […]</p>
-<p><a
-href="https://tracydurnell.com/2024/08/08/windows-as-productivity-tech/"
-class="uri">https://tracydurnell.com/2024/08/08/windows-as-productivity-tech/</a></p>
-<hr />
-<h2 id="tim-walz-fixed-your-bicycle">Tim Walz Fixed Your Bicycle</h2>
-<p>date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke’s blog</p>
-<p><a href="https://kottke.org/24/08/tim-walz-fixed-your-bicycle"
-class="uri">https://kottke.org/24/08/tim-walz-fixed-your-bicycle</a></p>
-<hr />
-<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
-Scripting News</strong> (date: 2024-08-08, from: Dave Winer’s Scripting
-News)</p>
-<p>Governor Tim is Mr Rogers for adults. And you know who should play
-him on SNL? Tom Hanks.</p>
-<p><a href="http://scripting.com/2024/08/08.html#a164705"
-class="uri">http://scripting.com/2024/08/08.html#a164705</a></p>
+<h2 id="nncp-setup-automation">2024-08-09 NNCP setup automation</h2>
+<p>date: 2024-08-09, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-08-09-nncp-setup-automation">
+2024-08-09 NNCP setup automation
+</h1>
+<p>
+This is a continuation of <a href="2024-07-16-minimal-nncp-setup">the
+minimal NNCP setup to get started</a>. Once we verified that everything
+works as expected with manual invocations, the next step is automation.
+There are two options:
+</p>
+<ul>
+<li>
+Enable all the services. This makes sense if you expect a lot of
+traffic.
+</li>
+<li>
+Only call the executables every now and then. This makes sense if you
+expect very little traffic.
+</li>
+</ul>
+<p>
+If you want to enable all the services, the <code>examples</code>
+directory has service definitions for you. Running
+<code>nncp-caller</code> only makes sense if there is at least one entry
+in your <code>/etc/nncp.hjson</code> that has a <code>cron</code> key.
+</p>
+<pre><code>sudo systemctl enable /usr/share/doc/nncp/examples/nncp-daemon.service
+sudo systemctl enable /usr/share/doc/nncp/examples/nncp-caller.service
+sudo systemctl enable /usr/share/doc/nncp/examples/nncp-toss.service
+sudo systemctl start nncp-daemon.service 
+sudo systemctl start nncp-caller.service
+sudo systemctl start nncp-toss.service 
+sudo systemctl status nncp-daemon.service 
+sudo systemctl status nncp-caller.service
+sudo systemctl status nncp-toss.service 
+</code></pre>
+<p>
+I don’t expect a lot of NNCP traffic. This is why my setup on the laptop
+and server uses the alternative.
+</p>
+<p>
+In order to conserve resources, you could decide not to have these
+services running all the time. I’m doing this for two reasons: I don’t
+want to upgrade the virtual machine I’m renting. It’s a point of pride
+to do much with very little. From the perspective of impeding collapse,
+I also think that we should all get on board with
+<a href="https://wimvanderbauwhede.codeberg.page/articles/frugal-computing-developer/">frugal
+computing</a>
+(<a class="account" href="https://scholar.social/@wim_v12e" title="@wim_v12e@scholar.social"><span
+class="citation" data-cites="wim_v12e">@wim_v12e</span></a>).
+</p>
+<p>
+Ready for some frugal computing? Here we go.
+</p>
+<p>
+Run the daemon on the server. That is, if other sites know your internet
+address and call you, then you need this. My laptop does not but my
+server does. When somebody calls the server on port 5400, start the
+<code>nncp-daemon</code> using <code>inetd</code> (from the
+<code>openbsd-inet</code> or the <code>inetutils-inetd</code> packages
+on Debian).
+</p>
+<p>
+In your <code>/etc/inetd.conf</code> file:
+</p>
+<pre><code>5400 stream  tcp nowait  nncp    /usr/bin/nncp-daemon    nncp-daemon -quiet -ucspi
+</code></pre>
+<p>
+Run <code>nncp-call</code> every hour or every day from cron for the
+systems you want to call. Those systems don’t need a <code>cron</code>
+key in the <code>/etc/nncp.hjson</code> file.
+</p>
+<p>
+This is my laptop calling my server every hour, via
+<code>/etc/cron.hourly/nncp</code>:
+</p>
+<pre><code>#!/bin/sh
+if [ -x /usr/bin/nncp-call ]; then
+        su nncp -s /bin/sh -c &quot;/usr/bin/nncp-call sibirocobombus -noprogress&quot;
+fi
+</code></pre>
+<p>
+This is on the laptop, for my neighbours <code>erebor</code> and
+<code>quux</code> in <code>/etc/cron.daily/nncp</code>:
+</p>
+<pre><code>if [ -x /usr/bin/nncp-call ]; then
+    for neighbour in erebor quux; do
+        su nncp -s /bin/sh -c &quot;/usr/bin/nncp-call erebor -noprogress&quot;
+    done
+fi
+</code></pre>
+<p>
+This is for the server, tossing stuff once per hour, via
+<code>/etc/cron.hourly/nncp</code>:
+</p>
+<pre><code>#!/bin/sh
+if [ -x /usr/bin/nncp-toss ]; then
+    su nncp -s /bin/sh -c &quot;/usr/bin/nncp-toss&quot;
+fi
+</code></pre>
+<p>
+Adding <code>autotoss: true</code> only helps for the system calling
+others. On the server, tossing needs to happen on a regular basis.
+</p>
+<p>
+Finally, you can do some clean-up by copying
+<code>/usr/share/doc/nncp/examples/cron-daily-nncp</code> to
+<code>/etc/cron.daily/nncp-cleanup</code>.
+</p>
+<p>
+I’m using the following, both on the laptop and the server:
+</p>
+<pre><code>#!/bin/bash
+
+if [ -x /usr/bin/nncp-rm ]; then
+    for TYPE in part seen hdr area; do
+            su nncp -s /bin/bash -c &quot;nncp-rm -quiet -all -older 7d -$TYPE&quot;
+    done
+    su nncp -s /bin/bash -c &quot;nncp-rm -quiet -tmp -older 7d&quot;
+fi
+</code></pre>
+<p>
+<a class="tag" href="/search/?q=%23NNCP">#NNCP</a>
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-08-09-nncp-automation"
+class="uri">https://alexschroeder.ch/view/2024-08-09-nncp-automation</a></p>
 <hr />
 <h2
-id="the-portable-feminist-reader-edited-by-roxane-gay.-includes-writing-by-agrippa">The
-Portable Feminist Reader, edited by Roxane Gay. Includes writing by
-Agrippa,…</h2>
-<p>date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke’s blog</p>
-<p><a href="https://kottke.org/24/08/0045088-the-portable-feminist-rea"
-class="uri">https://kottke.org/24/08/0045088-the-portable-feminist-rea</a></p>
-<hr />
-<h2 id="august-7-2024">August 7, 2024</h2>
-<p>date: 2024-08-08, from: Heather Cox Richardson blog</p>
+id="people-search-site-removal-services-largely-ineffective">People-Search
+Site Removal Services Largely Ineffective</h2>
+<p>date: 2024-08-09, updated: 2024-08-09, from: Bruce Schneier blog</p>
+<p>
+Consumer Reports has a
+<a href="https://innovation.consumerreports.org/wp-content/uploads/2024/08/Data-Defense_-Evaluating-People-Search-Site-Removal-Services-.pdf">new
+study</a> of people-search site removal services, concluding that they
+don’t really work:
+</p>
+<blockquote>
+<p>
+As a whole, people-search removal services are largely ineffective.
+Private information about each participant on the people-search sites
+decreased after using the people-search removal services. And, not
+surprisingly, the removal services did save time compared with manually
+opting out. But, without exception, information about each participant
+still appeared on some of the 13 people-search sites at the one-week,
+one-month, and four-month intervals. We initially found 332 instances of
+information about the 28 participants who would later be signed up for
+removal services (that does not include the four participants who were
+opted out manually). Of those 332 instances, only 117, or 35%, were
+removed within…
+</p>
+</blockquote>
 <p><a
-href="https://heathercoxrichardson.substack.com/p/august-7-2024-3a3"
-class="uri">https://heathercoxrichardson.substack.com/p/august-7-2024-3a3</a></p>
+href="https://www.schneier.com/blog/archives/2024/08/people-search-site-removal-services-largely-ineffective.html"
+class="uri">https://www.schneier.com/blog/archives/2024/08/people-search-site-removal-services-largely-ineffective.html</a></p>
 <hr />
-<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
-Scripting News</strong> (date: 2024-08-08, from: Dave Winer’s Scripting
-News)</p>
-<p>It’s wrong that posts from
-<a href="https://x.com/TimothyDSnyder/status/1821571215703867727">Timothy
-Snyder</a>,
-<a href="https://x.com/JoeTrippi/status/1821357451444093360">Joe
-Trippi</a> and
-<a href="https://x.com/DougJBalloon/status/1820848752531272100">NYT
-Pitchbot</a> are only available on Twitter. I’d like to help their posts
-reach a wider audience.</p>
-<p><a href="http://scripting.com/2024/08/08.html#a155601"
-class="uri">http://scripting.com/2024/08/08.html#a155601</a></p>
+<h2 id="more-curl-help">more curl help</h2>
+<p>date: 2024-08-09, from: Daniel Stenberg Blog</p>
+<p>With the ever-growing number of command line options for curl, the
+problem of how to provide documentation and help users understand how
+options work and should be used is a challenge that is worth revisiting
+regularly. To keep iterating on. I personally often use the curl manpage
+to lookup descriptions for options. Often not only …
+<a href="https://daniel.haxx.se/blog/2024/08/09/more-curl-help/" class="more-link">Continue
+reading <span class="screen-reader-text">more curl help</span> <span
+class="meta-nav">→</span></a></p>
+<p><a href="https://daniel.haxx.se/blog/2024/08/09/more-curl-help/"
+class="uri">https://daniel.haxx.se/blog/2024/08/09/more-curl-help/</a></p>
+<hr />
+<h2 id="bonus-debunking-myth-trump-supporters-are-ignorant.-bunk">Bonus
+Debunking Myth: “Trump supporters are ignorant.” Bunk!</h2>
+<p>date: 2024-08-09, from: Robert Reich’s blog</p>
+<p>Many of them are responding angrily to a rigged system. It’s not
+enough that we beat Trump on Election Day. To beat Trumpism, we must
+also unrig the system.</p>
+<p><a
+href="https://robertreich.substack.com/p/bonus-debunking-myth-trump-supporters"
+class="uri">https://robertreich.substack.com/p/bonus-debunking-myth-trump-supporters</a></p>
 <hr />
 <h2 id="man-pages">2024-08-08 Man pages</h2>
-<p>date: 2024-08-08, from: Alex Schroeder’s Blog</p>
+<p>date: 2024-08-09, from: Alex Schroeder’s Blog</p>
 <h1 id="2024-08-08-man-pages">
 2024-08-08 Man pages
 </h1>
@@ -179,7 +307,7 @@ don’t install any of these files, I think.
 I suspect that many developers consider using a website like
 <a href="https://about.readthedocs.com/">Read the Docs</a> to be good
 enough. Bad luck for people who are offline or who have bad reception,
-in hotel rooms with bad wife, in planes? My sister lives in the Rhine
+in hotel rooms with bad wifi, in planes? My sister lives in the Rhine
 valley, on the German side, close to Switzerland, in a tiny village of a
 bit more than 100 people. They have no glass fibre. They have bad
 reception, both from Switzerland and from Germany. It’s terrible! But
@@ -222,8 +350,213 @@ formats and config files) has the extension “.5” and goes into
 <a class="tag" href="/search/?q=%23Software">#Software</a>
 <a class="tag" href="/search/?q=%23Documentation">#Documentation</a>
 </p>
+<p>
+<strong>2024-08-09</strong>. At one point I was interested in
+<a href="2018-03-05_Troff">using troff as an alternative to LaTeX</a>,
+so not to write documentation but to create PDFs, and I kept eyeing the
+<a href="http://www.schaffter.ca/mom/mom-01.html">mom macros</a>. But
+before I could give them a try I discovered how to
+<a href="2020-07-24_Writing_Markdown,_generating_PDF">create PDFs using
+Markdown to HTML to PDF</a> via weasyprint and that has been my workflow
+ever since. For a zine I’m contributing to, however, I’m using
+<a href="https://www.gnu.org/software/groff/">groff</a> and the
+<a href="https://www.troff.org/using-ms.pdf">ms macros</a> because
+that’s what’s in the Makefile…
+</p>
+<p>
+The reason I write this all up is that flexibeast wrote in, saying that
+man pages can be written using the semantics-oriented
+<a href="https://man.openbsd.org/mdoc.7">mdoc macros</a> instead of the
+presentation-oriented <a href="https://man.openbsd.org/man.7">man
+macros</a> – and they had written an
+<a href="https://github.com/flexibeast/guides/blob/master/mdoc-quickstart.md">mdoc
+quickstart guide</a>. Nice!
+</p>
+<p>
+I really have to take a look at
+<a href="https://man.openbsd.org/mandoc.1">mandoc</a> as a groff
+alternative.
+</p>
 <p><a href="https://alexschroeder.ch/view/2024-08-08-man-pages"
 class="uri">https://alexschroeder.ch/view/2024-08-08-man-pages</a></p>
+<hr />
+<h2 id="august-8-2024">August 8, 2024</h2>
+<p>date: 2024-08-09, from: Heather Cox Richardson blog</p>
+<p>Fifty years ago, on August 9, 1974, Richard M.</p>
+<p><a href="https://heathercoxrichardson.substack.com/p/august-8-2024"
+class="uri">https://heathercoxrichardson.substack.com/p/august-8-2024</a></p>
+<hr />
+<h2
+id="apple-announces-new-fee-structure-and-updated-guidelines-for-apps-in-the-eu-that-link-out-to-the-web-for-purchases">Apple
+Announces New Fee Structure and Updated Guidelines for Apps in the EU
+That Link Out to the Web for Purchases</h2>
+<p>date: 2024-08-09, updated: 2024-08-09, from: Daring Fireball</p>
+<p><a
+href="https://9to5mac.com/2024/08/08/apple-app-store-eu-link-out-changes/"
+class="uri">https://9to5mac.com/2024/08/08/apple-app-store-eu-link-out-changes/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-08-09, from: Dave Winer’s Scripting
+News)</p>
+<p>Someday soon <i>twitter</i> will be on
+<a href="https://en.wikipedia.org/wiki/List_of_generic_and_genericized_trademarks">this
+list</a>.</p>
+<p><a href="http://scripting.com/2024/08/08.html#a002605"
+class="uri">http://scripting.com/2024/08/08.html#a002605</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-08-09, from: Dave Winer’s Scripting
+News)</p>
+<p>Another practical use for ChatGPT. A super techy service you use
+decides to require 2FA but reading their instructions you realize the
+docs were written by someone who hates people like you. Idea! Ask
+ChatGPT to translate. Out come nice instructions easy to read for people
+like me. Turns a dismal exercise in frustration to happiness at finding
+another huge stress- and time-saving application for ChatGPT.</p>
+<p><a href="http://scripting.com/2024/08/08.html#a001102"
+class="uri">http://scripting.com/2024/08/08.html#a001102</a></p>
+<hr />
+<h2 id="why-isnt-the-media-reporting-on-trumps-increasing-dementia">Why
+isn’t the media reporting on Trump’s increasing dementia?</h2>
+<p>date: 2024-08-08, from: Robert Reich’s blog</p>
+<p>Today’s news conference should at least spur a serious inquiry</p>
+<p><a
+href="https://robertreich.substack.com/p/why-isnt-the-media-reporting-on-trumps"
+class="uri">https://robertreich.substack.com/p/why-isnt-the-media-reporting-on-trumps</a></p>
+<hr />
+<h2 id="friday-9-august-2024">Friday 9 August, 2024</h2>
+<p>date: 2024-08-08, from: John Naughton’s online diary</p>
+<p>Free spirits Funny how plants refuse to do what you want them to do.
+This rose bush was supposed to enliven a dull patch in the garden fence,
+but instead has decided to reach for the sky. Quote of the …
+<a href="https://memex.naughtons.org/friday-9-august-2024/39731/">Continue
+reading <span class="meta-nav">→</span></a></p>
+<p><a href="https://memex.naughtons.org/friday-9-august-2024/39731/"
+class="uri">https://memex.naughtons.org/friday-9-august-2024/39731/</a></p>
+<hr />
+<h2 id="the-oldest-world-map-in-the-world">The Oldest World Map in the
+World</h2>
+<p>date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/08/the-oldest-world-map-in-the-world"
+class="uri">https://kottke.org/24/08/the-oldest-world-map-in-the-world</a></p>
+<hr />
+<h2 id="feist-plays-a-tiny-desk-concert-for-npr.">Feist plays a Tiny
+Desk Concert for NPR….</h2>
+<p>date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/08/0045094-feist-plays-a-tiny-desk"
+class="uri">https://kottke.org/24/08/0045094-feist-plays-a-tiny-desk</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-08-08, from: Dave Winer’s Scripting
+News)</p>
+<p>What’s the best piece of
+<a href="https://mastodon.social/@davew/112928646857395841">advice</a>
+you ever got?</p>
+<p><a href="http://scripting.com/2024/08/08.html#a215839"
+class="uri">http://scripting.com/2024/08/08.html#a215839</a></p>
+<hr />
+<h2
+id="a-platform-thats-teetering-on-the-edge-of-becoming-a-user-experience-joke-akin-to-windows-vista">‘A
+Platform That’s Teetering on the Edge of Becoming a User-Experience Joke
+Akin to Windows Vista’</h2>
+<p>date: 2024-08-08, updated: 2024-08-08, from: Daring Fireball</p>
+<p><a
+href="https://sixcolors.com/post/2024/08/apples-permissions-features-are-out-of-balance/"
+class="uri">https://sixcolors.com/post/2024/08/apples-permissions-features-are-out-of-balance/</a></p>
+<hr />
+<h2 id="find-any-file-2.5">Find Any File 2.5</h2>
+<p>date: 2024-08-08, updated: 2024-08-08, from: Daring Fireball</p>
+<p><a href="https://findanyfile.app/"
+class="uri">https://findanyfile.app/</a></p>
+<hr />
+<h2 id="saturday-night">Saturday Night</h2>
+<p>date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/08/saturday-night"
+class="uri">https://kottke.org/24/08/saturday-night</a></p>
+<hr />
+<h2 id="a-lovely-ode-to-soil-by-ferris-jabr.-i-now-see-soil">A lovely
+ode to soil by Ferris Jabr. “I now see soil…</h2>
+<p>date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/08/0045093-a-lovely-ode-to-soil"
+class="uri">https://kottke.org/24/08/0045093-a-lovely-ode-to-soil</a></p>
+<hr />
+<h2 id="diary-comics-july-6">Diary Comics, July 6</h2>
+<p>date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/08/diary-comics-july-6"
+class="uri">https://kottke.org/24/08/diary-comics-july-6</a></p>
+<hr />
+<h2
+id="pete-wellss-last-column-for-the-ny-times-as-restaurant-critic-i">Pete
+Wells’s last column for the NY Times as restaurant critic: I…</h2>
+<p>date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/08/0045091-pete-wellss-last-column-f"
+class="uri">https://kottke.org/24/08/0045091-pete-wellss-last-column-f</a></p>
+<hr />
+<h2 id="is-this-a-new-streaming-device-for-your-tv-or-the-bar">Is this a
+new streaming device for your TV or the bar…</h2>
+<p>date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/08/0045090-is-this-a-new-streaming"
+class="uri">https://kottke.org/24/08/0045090-is-this-a-new-streaming</a></p>
+<hr />
+<h2 id="windows-as-productivity-tech">Windows as productivity tech</h2>
+<p>date: 2024-08-08, from: Tracy Durnell Blog</p>
+<p>We’ve grown to think that technology must involve computers. We think
+of buildings as boxes that we put technology inside, not as technology
+themselves. Natural light is powerful for people of all ages, not just
+students. Being able to bring in fresh air by opening a window made
+people a little safer during the pandemic. […]</p>
+<p><a
+href="https://tracydurnell.com/2024/08/08/windows-as-productivity-tech/"
+class="uri">https://tracydurnell.com/2024/08/08/windows-as-productivity-tech/</a></p>
+<hr />
+<h2 id="tim-walz-fixed-your-bicycle">Tim Walz Fixed Your Bicycle</h2>
+<p>date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/08/tim-walz-fixed-your-bicycle"
+class="uri">https://kottke.org/24/08/tim-walz-fixed-your-bicycle</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-08-08, from: Dave Winer’s Scripting
+News)</p>
+<p><a href="https://en.wikipedia.org/wiki/Tim_Walz">Tim Walz</a> is
+<a href="https://en.wikipedia.org/wiki/Fred_Rogers">Mr Rogers</a> for
+adults.
+<a href="https://www.google.com/search?q=Tom+Hanks+snl&tbm=vid">Tom
+Hanks</a> should play
+<a href="https://www.youtube.com/watch?v=vcwFeyrH2ww">him</a> on
+SNL.</p>
+<p><a href="http://scripting.com/2024/08/08.html#a164705"
+class="uri">http://scripting.com/2024/08/08.html#a164705</a></p>
+<hr />
+<h2
+id="the-portable-feminist-reader-edited-by-roxane-gay.-includes-writing-by-agrippa">The
+Portable Feminist Reader, edited by Roxane Gay. Includes writing by
+Agrippa,…</h2>
+<p>date: 2024-08-08, updated: 2024-08-08, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/08/0045088-the-portable-feminist-rea"
+class="uri">https://kottke.org/24/08/0045088-the-portable-feminist-rea</a></p>
+<hr />
+<h2 id="august-7-2024">August 7, 2024</h2>
+<p>date: 2024-08-08, from: Heather Cox Richardson blog</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/august-7-2024-3a3"
+class="uri">https://heathercoxrichardson.substack.com/p/august-7-2024-3a3</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-08-08, from: Dave Winer’s Scripting
+News)</p>
+<p>It’s wrong that posts from
+<a href="https://x.com/TimothyDSnyder/status/1821571215703867727">Timothy
+Snyder</a>,
+<a href="https://x.com/JoeTrippi/status/1821357451444093360">Joe
+Trippi</a> and
+<a href="https://x.com/DougJBalloon/status/1820848752531272100">NYT
+Pitchbot</a> are only available on Twitter. I’d like to help their posts
+reach a wider audience. I posted a
+<a href="https://dave.micro.blog/2024/08/08/great-stuff-thats.html">note</a>
+about this on micro.blog with a
+<a href="https://micro.blog/dave/43163514">place</a> to comment.</p>
+<p><a href="http://scripting.com/2024/08/08.html#a155601"
+class="uri">http://scripting.com/2024/08/08.html#a155601</a></p>
 <hr />
 <h2
 id="raspberry-pi-pico-2---rp2350-adds-more-pio-risc-v-cores">Raspberry
@@ -1555,6 +1888,15 @@ generalize from specific incidents to the broader industry…
 <p><a
 href="https://www.schneier.com/blog/archives/2024/08/a-better-investigatory-board-for-cyber-incidents.html"
 class="uri">https://www.schneier.com/blog/archives/2024/08/a-better-investigatory-board-for-cyber-incidents.html</a></p>
+<hr />
+<h2
+id="go-structs-are-copied-on-assignment-and-other-things-about-go-id-missed">Go
+structs are copied on assignment (and other things about Go I’d
+missed)</h2>
+<p>date: 2024-08-06, updated: 2024-08-06, from: Julia Evans blog</p>
+<p><a
+href="https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/"
+class="uri">https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/</a></p>
 <hr />
 <h2 id="kamalas-surprise-opportunity">Kamala’s surprise opportunity</h2>
 <p>date: 2024-08-06, from: Robert Reich’s blog</p>

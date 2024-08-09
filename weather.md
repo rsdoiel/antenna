@@ -1,17 +1,27 @@
 ---
 title: weather 2024.32
-updated: 2024-08-08 10:46:39
+updated: 2024-08-09 07:51:37
 ---
 
 # weather 2024.32
 
-(date: 2024-08-08 10:46:39)
+(date: 2024-08-09 07:51:37)
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-08-09, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Fri, 09 Aug 2024 14:49:25 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
 
 ---
 
 ## NHC Atlantic Outlook
 
-date: 2024-08-08, from: Graphical Tropical Weather Outlooks
+date: 2024-08-09, from: Graphical Tropical Weather Outlooks
 
 
 <br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
@@ -20,50 +30,330 @@ date: 2024-08-08, from: Graphical Tropical Weather Outlooks
 <img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
 <br /><br />
 <div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>Issued by the NWS Weather Prediction Center College Park MD<br>200 PM EDT Thu Aug 8 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Tropical <br>Storm Debby, centered inland near the border of North Carolina <br>and South Carolina.<br><br>1. Near the Lesser and Greater Antilles:<br>A tropical wave located over the eastern tropical Atlantic is <br>producing widespread disorganized showers and thunderstorms. Any <br>development of the wave should be slow to occur during the next few <br>days while it moves westward across the central tropical Atlantic. <br>Conditions are expected to become more conducive for development <br>early next week, and a tropical depression could form while it <br>approaches the Lesser Antilles. The system is then forecast to move <br>generally west-northwestward and could approach the Greater Antilles <br>by the middle part of next week.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...medium...40 percent.<br><br />
-<br>Forecaster D. Zelinsky<br></div></div><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Fri Aug 9 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The Weather Prediction Center is issuing advisories on Post-Tropical <br>Cyclone Debby, located inland over the Mid-Atlantic region.<br><br>1. Near the Lesser and Greater Antilles:<br>A tropical wave located several hundred miles to the west-southwest <br>of the Cabo Verde Islands is producing a large area of disorganized <br>showers and thunderstorms over the tropical Atlantic. Any <br>development of the wave should be slow to occur during the next <br>couple of days while it moves westward across the central tropical <br>Atlantic. Afterwards, conditions are expected to become more <br>conducive for development while the wave moves west-northwestward, <br>and a tropical depression could form by early next week while the <br>system approaches the Lesser Antilles. The system is then forecast <br>to continue moving generally west-northwestward and could approach <br>the Greater Antilles by the middle part of next week.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...medium...60 percent.<br><br />
+<br>Forecaster Reinhart<br></div></div><br />
  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
-## Eastern North Pacific Tropical Weather Outlook
+## SPC MD 1873
 
-date: 2024-08-08, from: Eastern Pacific Basin Tropical Cyclones
+date: 2024-08-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
+<br /><a href="https://www.spc.noaa.gov/products/md/md1873.html"><img src="https://www.spc.noaa.gov/products/md/mcd1873.png" border="1" alt="MD 1873 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
 
-<br/>
-000<br/>
-ABPZ20 KNHC 081731<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-Issued by the NWS Weather Prediction Center College Park MD<br/>
-1100 AM PDT Thu Aug 8 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Active Systems:<br/>
-The National Hurricane Center is issuing advisories on Tropical <br/>
-Storm Emilia, located several hundred miles west of the southern tip <br/>
-of the Baja California peninsula.<br/>
-<br/>
-South of Southern Mexico:<br/>
-A tropical wave located over the far eastern portion of the eastern <br/>
-Pacific is producing limited and disorganized showers and <br/>
-thunderstorms. Gradual development of this system will be possible <br/>
-during the next next several days while it moves west-northwestward <br/>
-at around 15 mph, parallel to the coast of southwestern Mexico. <br/>
-* Formation chance through 48 hours...low...10 percent.<br/>
-* Formation chance through 7 days...low...30 percent.<br/>
-<br/>
-$$<br/>
-Forecaster D. Zelinsky<br/>
+Mesoscale Discussion 1873
+NWS Storm Prediction Center Norman OK
+0926 AM CDT Fri Aug 09 2024
+
+Areas affected...Parts of MD/DE/NJ...eastern PA...central/eastern NY
+
+Concerning...Tornado Watch 616...
+
+Valid 091426Z - 091600Z
+
+The severe weather threat for Tornado Watch 616 continues.
+
+SUMMARY...Some threat for locally damaging wind and a couple
+tornadoes will continue through the morning. Some expansion of the
+threat to the north is possible with time.
+
+DISCUSSION...Relatively shallow but strongly sheared convection is
+ongoing from parts of the Mid Atlantic into the Northeast, to the
+east of P.T.C. Debby. Area VWPs indicate that the stronger
+low/midlevel wind field is translating northward in association with
+Debby's fast-moving circulation, with weakening flow noted from KAKQ
+and KLWX, but strengthening flow farther to the northeast. 
+
+A warm front extending east/northeast of Debby will translate
+northward through the day, though its progress may be slowed to some
+extent by widespread cloudiness/precipitation. Near and south of the
+warm front, tropical moisture  will support MLCAPE of 500-1000 J/kg,
+with locally greater buoyancy possible where some filtered heating
+is ongoing from eastern PA into NJ and southeast NY. Very weak
+midlevel lapse rates may continue to limit updraft intensity and
+organization to some extent, but strong low/midlevel flow and 0-1 km
+SRH of 200-300 m2/s2 (locally greater near the surface low and warm
+front) will support potential for rotation with the stronger cells
+and line segments. 
+
+A few tornadoes remain possible from late this morning into the
+afternoon, along with some potential for convectively enhanced wind
+damage. Some threat may eventually spread north of WW 616 in
+conjunction with the warm front, and additional watch issuance is
+possible later today.
+
+..Dean/Goss.. 08/09/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...BTV...OKX...ALY...PHI...BGM...AKQ...BUF...CTP...
+LWX...
+
+LAT...LON   39367704 40257779 41387716 42677658 43207590 43397466
+            43367351 43337314 42527342 42087346 41707358 39847439
+            38727497 38227511 38027526 38037577 38357627 39027679
+            39367704 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1873.html">Read more</a>
  
 
+<https://www.spc.noaa.gov/products/md/md1873.html>
+
+---
+
+## SPC Tornado Watch 616
+
+date: 2024-08-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0616.html"><img src="https://www.spc.noaa.gov/products/watch/ww0616_radar.gif" border="1" alt="WW 0616 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 616
+NWS Storm Prediction Center Norman OK
+615 AM EDT Fri Aug 9 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  District Of Columbia
+  Delaware
+  Central and Eastern Maryland
+  Much of New Jersey
+  Southeast New York
+  Central and Eastern Pennsylvania
+  Eastern and Northern Virginia
+  Coastal Waters
+
+* Effective this Friday morning and afternoon from 615 AM until
+  200 PM EDT.
+
+* Primary threats include...
+  A few tornadoes possible
+  Isolated damaging wind gusts to 60 mph possible
+
+SUMMARY...Isolated to widely scattered thunderstorms are forecast to
+develop this morning into the early afternoon as a warm front
+advances northward across the Watch area.  Several supercells will
+likely develop and the stronger storms will potentially yield a risk
+for tornadoes.  Isolated damaging gusts may also accompany the more
+intense storms.
+
+The tornado watch area is approximately along and 75 statute miles
+east and west of a line from 30 miles northwest of Monticello NY to
+50 miles south southwest of Patuxent River MD. For a complete
+depiction of the watch see the associated watch outline update
+(WOUS64 KWNS WOU6).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 615...
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 0 inches. Extreme turbulence and surface wind
+gusts to 50 knots. A few cumulonimbi with maximum tops to 500. Mean
+storm motion vector 18035.
+
+...Smith
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0616.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0616.html>
+
+---
+
+## SPC Tornado Watch 616 Status Reports
+
+date: 2024-08-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0616.html"><img src="https://www.spc.noaa.gov/products/watch/ww0616_radar.gif" border="1" alt="WW 0616 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 616
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 25 NNE ORF
+TO 15 W HGR.
+
+FOR ADDITIONAL INFORMATION SEE MESOSCALE DISCUSSION 1873
+
+..DEAN..08/09/24
+
+ATTN...WFO...LWX...PHI...AKQ...OKX...BGM...CTP...
+
+
+STATUS REPORT FOR WT 616 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+DEC001-003-005-091540-
+
+DE 
+.    DELAWARE COUNTIES INCLUDED ARE
+
+KENT                 NEW CASTLE          SUSSEX              
+
+
+MDC003-005-009-011-013-015-019-025-027-029-035-037-039-041-045-
+047-510-091540-
+
+MD 
+.    MARYLAND COUNTIES INCLUDED ARE
+
+ANNE ARUNDEL         BALTIMORE           CALVERT             
+CAROLINE             CARROLL             CECIL               
+DORCHESTER           HARFORD             HOWARD              
+KENT                 QUEEN ANNE'S        ST. MARYS           
+SOMERSET             TALBOT              WICOMICO            
+WORCESTER            
+
+
+MARYLAND INDEPENDENT CITIES INCLUDED ARE
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0616.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0616.html>
+
+---
+
+## SPC Aug 9, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-08-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0736 AM CDT Fri Aug 09 2024
+
+Valid 091300Z - 101200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM THE
+MID-ATLANTIC STATES INTO EASTERN NEW YORK...
+
+...SUMMARY...
+A tornado threat is expected today from the Mid-Atlantic states
+northward into eastern New York. A few strong wind gusts will also
+be possible across parts of the Northeast, and in parts of the
+southern Plains.
+
+...Mid-Atlantic states into the Northeast...
+The remnants of Debby will continue to move north-northeast and
+accelerate reaching the St. Lawrence Valley late this evening as a
+mid-level speed max over the Midwest quickly moves through the
+southern and Lower Great Lakes regions.  A warm front will advance
+northward into central NY and New England later today as a southerly
+850-mb speed max shifts northward.  South of the boundary, a very
+moisture-rich airmass (mid 70s deg F surface dewpoints) and some
+modest heating will contribute to weak to moderate destabilization. 
+The 12 UTC IAD raob showed 250 J/kg MLCAPE and 36 kt of 0-0.5 km
+shear.  Enlarged hodographs especially in the vicinity of the
+surface frontal zone will aid in storm-scale rotation with any
+robust updraft.  The risk for a few tornadoes will likely focus
+initially over the Mid-Atlantic states and PA this morning before
+shifting northward towards early afternoon.  A wind-damage threat
+may also develop today with the stronger linear structures and
+supercells.  This activity is expected to eventually affect parts of
+western New England by mid to late afternoon and into the early
+evening before diminishing.
+
+...East-central Texas...
+A moist airmass will be in place today across parts of the Texas
+Coastal Plains northward into the Texas Hill Country. As surface
+temperatures warm, moderate instability will develop across parts of
+central and east Texas.  Model forecasts indicate widely scattered
+to scattered storms will favor this region later this afternoon into
+the early evening.  The expected moderate instability combined with
+steep low-level lapse rates could be sufficient for a few marginally
+severe wind gusts.
+
+...Southern High Plains...
+A large area of mid to upper-level high pressure will remain over
+the southern Plains today. At the surface, an axis of maximized
+low-level moisture will be in place across parts of west Texas and
+eastern New Mexico. As surface temperatures warm, moderate
+instability will likely develop along this corridor. Convection that
+initiates in the higher terrain of northern New Mexico is expected
+to move southeastward along the northern edge of this instability
+corridor during the afternoon and evening. The stronger cells within
+this cluster may be associated with marginally severe wind gusts.
+
+..Smith/Jewell.. 08/09/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2024-08-09, from: Eastern Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ABPZ20 KNHC 091144<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 500 AM PDT Fri Aug 9 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ South of Southern Mexico:<br />
+ Disorganized showers and thunderstorms located a couple of hundred <br />
+ miles south of the coast of southern Mexico are associated with a <br />
+ tropical wave.  Gradual development of this system is possible <br />
+ during the next several days while it moves west-northwestward at <br />
+ around 15 mph, parallel to the coast of southern and southwestern <br />
+ Mexico. <br />
+ * Formation chance through 48 hours...low...10 percent.<br />
+ * Formation chance through 7 days...low...30 percent.<br />
+ <br />
+ $$<br />
+ Forecaster Cangialosi<br />
+  
+
 <https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2024-08-09, from: Central Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ACPN50 PHFO 091135<br />
+ TWOCP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS Central Pacific Hurricane Center Honolulu HI<br />
+ 200 AM HST Fri Aug 9 2024<br />
+ <br />
+ For the central North Pacific...between 140W and 180W:<br />
+ <br />
+ No tropical cyclones are expected through the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Shigesato<br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
 
 ---
 
@@ -973,135 +1263,6 @@ FORECASTER REINHART
 </pre> 
 
 <https://www.nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/081439.shtml>
-
----
-
-## SPC Aug 8, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-08-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0742 AM CDT Thu Aug 08 2024
-
-Valid 081300Z - 091200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS IN PARTS OF NORTH
-CAROLINA AND VIRGINIA...
-
-...SUMMARY...
-The main severe-weather threat today is for tornadoes from Tropical
-Storm Debby, in parts of North Carolina and Virginia.
-
-...Synopsis...
-Mid/upper-level ridging has been suppressed considerably over the
-West, as a highly amplified northern-stream pattern takes shape over
-Canada and the northern tier of the CONUS.  A compact but well-
-defined cyclone -- evident in moisture-channel imagery over southern
-MB -- will pivot southeastward then eastward over the MN/ON Boundary
-Waters region, then Lake Superior and adjoining portions of
-northwestern ON.  As that occurs, height falls and strengthening
-cyclonic flow will spread over the Great Lakes, contributing to
-greater poleward advance of the deep-layer low accompanying T.S.
-Debby. 
-
-At the surface, 11Z analysis shows a cold front from northwestern ON
-across western Lake Superior to west-central KS and southeastern CO,
-preceded by a strong outflow boundary across western MO,
-northwestern/central/southwestern OK, the southern TX Panhandle, and
-eastern NM just south of I-40.  While supporting thunderstorm
-formation today, lack of greater shear will preclude enough severe
-potential near the boundary or front for an accompanying,
-unconditional severe risk.
-
-...T.S. Debby: NC/VA...
-The tornado threat from T.S. Debby ramped up again overnight, with
-several strong mesocyclones and a few tornadic-debris signatures
-noted.  Most of this activity has been occurring in response to two
-internal factors that continue:
-1.  Stronger low-level convergence/lift over the northeast quadrant
-of the system, helping to sustain both a persistent spiral band of
-embedded supercells and an occasional discrete/semi-discrete
-supercell outside the band;
-2.  Northwestward shift of favorable boundary-layer
-theta-e/buoyancy, as the inland rain shield and its stabilizing
-effects have shifted likewise, and as the cyclone as a whole has
-made landfall and moved roughly the same way. 
-
-Though the more deeply overland path of Debby will foster gradual
-weakening of the wind fields overall, per NHC wind-radii forecasts,
-sufficiently strong low-level wind shear and enlarged hodographs
-will remain over a favorably moist and unstable sector well
-northeast of center.  In that sector, both band-embedded and
-discrete supercells should continue to form and move northwestward
-as the system (and favorable sector) shift poleward. This will
-spread the tornado threat into more of northeastern NC and into
-southeastern VA with time today, perhaps reaching parts of central
-VA by evening. 
-
-See SPC Tornado Watch 613 and related mesoscale discussions for
-near-term coverage of the tornado threat.  Refer to NHC advisories
-for latest track/intensity forecasts for Debby, as well as tropical
-watches/warnings. 
-
-...Southern Great Basin, southwestern Colorado Plateau...
-Isolated severe gusts are possible this afternoon into early evening
-from thunderstorms over portions of northern AZ and southern UT. 
-
-The northern periphery of a trough in the easterlies (equatorward of
-the remaining ridge) will continue to move slowly westward over
-western AZ and the lower Colorado River Valley today.  This includes
-a well-defined MCV -- produced by yesterday's convection over
-southern AZ -- and now moving west-northwestward roughly over I-10
-in western AZ.  These features are expected to tighten the midlevel
-flow gradient northward toward the ridge just enough to encourage
-slow westward motion of thunderstorms developing this afternoon over
-the Mogollon Rim, North Rim/Kaibab Plateau, and other higher-
-elevation areas, where heating will preferentially remove MLCINH
-soonest.  Activity in the transition zone between richer moisture to
-the south, and deeper mixing/dry-thunder potential to the north,
-will pose a risk of isolated severe gusts from either wet or dry
-downbursts, with small clusters/cold pools possibly forming also. 
-Peak MLCAPE in the 300-800 J/kg range should overlie a very deep
-subcloud mixed layer supporting even larger vales of DCAPE, with
-surface dewpoints commonly remaining in the 40s to low 50s at lower
-elevations.
-
-..Edwards/Dean.. 08/08/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2024-08-08, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-355 <br/>
-ACPN50 PHFO 081142<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-200 AM HST Thu Aug 8 2024<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected through the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Shigesato<br/>
-<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
 
 ---
 

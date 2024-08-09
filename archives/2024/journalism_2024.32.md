@@ -1,11 +1,21 @@
 ---
 title: journalism 2024.32
-updated: 2024-08-08 10:46:40
+updated: 2024-08-09 07:51:38
 ---
 
 # journalism 2024.32
 
-(date: 2024-08-08 10:46:40)
+(date: 2024-08-09 07:51:38)
+
+---
+
+## The 51st aims to replace DCist with something totally new
+
+date: 2024-08-08, from: Nieman Journalism Lab
+
+When DCist was shuttered for a second time earlier this year, several of its laid-off workers gathered for a mourning dinner. But the mood wasn’t completely despondent. Former DCist reporter Colleen Grablick remembers fellow DCist coworker Maddie Poore asking: “Local news co-op, when?” &#8220;It’s something I had been thinking about and wishing existed in D.C.... 
+
+<https://www.niemanlab.org/2024/08/the-51st-aims-to-replace-dcist-with-something-totally-new/>
 
 ---
 

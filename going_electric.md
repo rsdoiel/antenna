@@ -1,11 +1,317 @@
 ---
 title: going electric 2024.32
-updated: 2024-08-08 10:46:44
+updated: 2024-08-09 07:51:42
 ---
 
 # going electric 2024.32
 
-(date: 2024-08-08 10:46:44)
+(date: 2024-08-09 07:51:42)
+
+---
+
+## Tesla launches Cybertruck in Canada, and it’s pricey
+
+date: 2024-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/Toyota-Tesla-Cybertruck.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla has launched the Cybertruck in Canada, and the prices are going to make people think twice about buying the truck they have been waiting for for years.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="375120" href="https://electrek.co/2024/08/09/tesla-launches-cybertruck-canada-price/#more-375120" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/09/tesla-launches-cybertruck-canada-price/>
+
+---
+
+## XPeng kicks off mass production of the MONA M03 ahead of official launch this month
+
+date: 2024-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/MONA-M03-production.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>According to a recent post from <a href="https://electrek.co/guides/xpeng/">XPeng Motors</a> founder, chairman, and CEO He Xiaopeng, the Chinese EV automaker’s new AI-centric model, the MONA M03, has begun mass production overseas. This is another notable milestone, as the MONA M03 is expected to launch later this month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mona,mona-m03,xpeng,xpeng-motors" data-layer-viewtype="unknown" data-post-id="375113" href="https://electrek.co/2024/08/09/xpeng-kicks-off-mass-production-mona-m03-ahead-of-official-launch/#more-375113" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/09/xpeng-kicks-off-mass-production-mona-m03-ahead-of-official-launch/>
+
+---
+
+## Rivian confirms R2 charge port moved to driver’s side for Tesla Supercharger use
+
+date: 2024-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Rivian-R2-pre-orders.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The more affordable <a href="https://electrek.co/guides/rivian-r2/">Rivian R2</a> will be easier to plug into Tesla’s extensive Supercharger network. Rivian confirmed the R2 will have a charge port on the driver’s side, making it compatible with <a href="https://electrek.co/guides/tesla-supercharger/">Tesla’s Supercharger</a> network.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r2,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="375118" href="https://electrek.co/2024/08/09/rivian-confirms-r2-charge-port-moved-tesla-supercharger-use/#more-375118" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/09/rivian-confirms-r2-charge-port-moved-tesla-supercharger-use/>
+
+---
+
+## Suzuki Fan? Now Your GSX-R and Your Bag Can Both Be Made By Your Fave
+
+date: 2024-08-09, from: Ride Apart, Electric Motorcycle News
+
+Old school and new school design and craftsmanship, together in perfect harmony. 
+
+<https://www.rideapart.com/news/729571/suzuki-loom-bag-collection-japan/>
+
+---
+
+## A Classic Jeep EV Conversion Is The Best Father-Son Project. Cheap, Too
+
+date: 2024-08-09, from: Inside EVs News
+
+After sitting for 40 years in a forest, this old Jeep got a new lease of life thanks to a hodge-podge of eBay-sourced EV parts. 
+
+<https://insideevs.com/news/729651/jeep-cj-ev-conversion-video/>
+
+---
+
+## Yamaha’s YZF-R15 Gets a Bunch Of Updates, Still Not Available In the US
+
+date: 2024-08-09, from: Ride Apart, Electric Motorcycle News
+
+It gets styling and tech reminiscent of Yamaha’s flagship YZF-R1 superbike.  
+
+<https://www.rideapart.com/news/729426/2025-yamaha-yzfr15-updates-indonesia/>
+
+---
+
+## Norton Gets New President, Used to Run Manchester United Football Club
+
+date: 2024-08-09, from: Ride Apart, Electric Motorcycle News
+
+I mean, you've got both football and motorcycling hooligans, so... 
+
+<https://www.rideapart.com/news/729546/norton-motorcycles-richard-arnold-manchester-united/>
+
+---
+
+## Check out the electric vehicles you can lease for under $200 a month this August
+
+date: 2024-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/Nissan-Ariya-lease-prices-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With electric vehicle prices down, this summer may be the time to buy. Several brands are slashing lease prices as new EVs hit the market. New EVs like the <a href="https://electrek.co/guides/nissan-ariya/">Nissan Ariya</a> are on a fire sale with lease prices under $200 per month this August. Check out all the EVs available to lease for under $200 below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia-niro-ev,nissan-ariya,nissan-leaf" data-layer-viewtype="unknown" data-post-id="375061" href="https://electrek.co/2024/08/09/evs-lease-under-200-month-august/#more-375061" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/09/evs-lease-under-200-month-august/>
+
+---
+
+## A Road-Legal Ducati 450 Enduro Is Coming, Supermoto Shenanigans Surely to Follow
+
+date: 2024-08-09, from: Ride Apart, Electric Motorcycle News
+
+Come on Ducati, leave some of the motorcycle industry for other manufacturers—kidding, please don't stop pushing the envelope. 
+
+<https://www.rideapart.com/news/729570/ducati-450-road-legal-enduro/>
+
+---
+
+## Mustang and Bronco Inspired E-Bikes Are Sick, and Half the Price of McLaren’s
+
+date: 2024-08-09, from: Ride Apart, Electric Motorcycle News
+
+I don't generally give e-bikes a second look, but these models hit the right marks. 
+
+<https://www.rideapart.com/news/729541/ford-mustang-bronco-e-bikes/>
+
+---
+
+## This Brazilian Motorcycle Police Chase Is Worthy of Mission Impossible, Last Forever
+
+date: 2024-08-09, from: Ride Apart, Electric Motorcycle News
+
+Strap yourself in for five minutes of action.  
+
+<https://www.rideapart.com/news/729530/brazilian-motorcycle-chase/>
+
+---
+
+## The Chinese Have Made Ultra Fast Charging Batteries, But There’s a Problem
+
+date: 2024-08-09, from: Ride Apart, Electric Motorcycle News
+
+Can they be charged in 10 minutes? Sure. Will you be able to experience it? Maybe not.  
+
+<https://www.rideapart.com/news/729425/chinese-ultra-fast-charging-batteries-problem/>
+
+---
+
+## Wheel-E Podcast: New Rad e-bike, Ford tries bikes, more
+
+date: 2024-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time that includes new electric bikes from Rad Power Bikes, Velotric, and Ford (?!), a massive Bosch e-bike, Lime’s new rides, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="375105" href="https://electrek.co/2024/08/09/wheel-e-podcast-new-rad-e-bike-ford-tries-bikes-more/#more-375105" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/09/wheel-e-podcast-new-rad-e-bike-ford-tries-bikes-more/>
+
+---
+
+## Chevy Silverado EV May Finally Start Under $60,000—With A Catch
+
+date: 2024-08-09, from: Inside EVs News
+
+With new pricing, the 2025 Silverado EV gets closer to the more popular Ford F-150 Lightning, but the Lightning might have the upper hand. 
+
+<https://insideevs.com/news/729630/2025-chevrolet-silverado-ev-wt-price/>
+
+---
+
+## Kia EV3: Affordable ‘Game-Changer’ Crossover Spotted In The U.S.
+
+date: 2024-08-09, from: Inside EVs News
+
+Kia has high hopes for the EV3’s success in North America, gearing up its Mexican factory to produce more units than in South Korea. 
+
+<https://insideevs.com/news/729607/kia-ev3-us-spotted-video/>
+
+---
+
+## Cybertruck stalls, Windrose invades, & we talk EV3 with Kia’s James Bell
+
+date: 2024-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/gallery-std-03.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>In today’s truck-heavy episode of <em>Quick Charge</em>, we explore the Cybertruck’s sales slowdown, interview Kia’s James Bell about the future of the Korean brand’s commercial vehicle efforts, and talk about the new Chinese semi brand that’s coming to America.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,quick-charge,tesla,windrose" data-layer-viewtype="unknown" data-post-id="375094" href="https://electrek.co/2024/08/08/cybertruck-stalls-windrose-invades-we-talk-ev3-with-kias-james-bell/#more-375094" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/08/cybertruck-stalls-windrose-invades-we-talk-ev3-with-kias-james-bell/>
+
+---
+
+## Elon Musk continues to siphon Tesla talent to train xAI’s Grok
+
+date: 2024-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Elon-Musk-piegon-CEO.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk’s xAI has now hired over a dozen Tesla employees to its language model, Grok, amid a Tesla shareholders lawsuit over the issue.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="375081" href="https://electrek.co/2024/08/08/elon-musk-continues-to-siphon-tesla-talent-to-train-xais-grok/#more-375081" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/08/elon-musk-continues-to-siphon-tesla-talent-to-train-xais-grok/>
+
+---
+
+## At $219/mo, the VW ID.4 is now one of the best electric SUV lease deals out there
+
+date: 2024-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/VW-electric-SUV-US-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>VW yesterday cut 2024 ID.4 Standard lease prices by $30 per month, making it $219 per month, the lowest ID.4 lease price to date.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-lease,volkswagen,volkswagen-id-4,vw-id-4" data-layer-viewtype="unknown" data-post-id="375065" href="https://electrek.co/2024/08/08/vw-id-4-is-now-one-of-the-best-electric-suv-lease-deals/#more-375065" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/08/vw-id-4-is-now-one-of-the-best-electric-suv-lease-deals/>
+
+---
+
+## EVs and PHEVs outsell gas cars in China for the first time
+
+date: 2024-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/BYD-new-Yuan-Up-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>EVs and PHEVs made up a record half of car sales in China in July, the first time this milestone was achieved in the world’s largest auto market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,china,ev-sales" data-layer-viewtype="unknown" data-post-id="375033" href="https://electrek.co/2024/08/08/evs-and-phevs-outsell-gas-cars-in-china-for-the-first-time/#more-375033" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/08/evs-and-phevs-outsell-gas-cars-in-china-for-the-first-time/>
+
+---
+
+## Archer Aviation announces plans for an eVTOL air mobility network coming to Los Angeles
+
+date: 2024-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/eVTOL-Los-Angeles-Archer-Midnight.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>eVTOL developer <a href="https://electrek.co/guides/archer-aviation/">Archer Aviation</a> has just laid out some plans to help alleviate some of the nasty traffic around Los Angeles. Today, the company outlined an air mobility network it is developing for Southern California that will bring eVTOL air taxi rides to the public within the next two years.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="archer-aviation,evtol,los-angeles" data-layer-viewtype="unknown" data-post-id="374581" href="https://electrek.co/2024/08/08/archer-aviation-plans-evtol-air-mobility-network-coming-to-los-angeles/#more-374581" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/08/archer-aviation-plans-evtol-air-mobility-network-coming-to-los-angeles/>
+
+---
+
+## This Sleek Chinese Wagon Runs The BMW i3 Playbook
+
+date: 2024-08-08, from: Inside EVs News
+
+The Neta S Hunting Edition is a station wagon available in EV or range-extended form. 
+
+<https://insideevs.com/news/729538/neta-china-station-wagon-erev/>
+
+---
+
+## Volvo’s EX90 just got a price hike, but some features may still be missing
+
+date: 2024-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Volvos-EX90-features.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volvo’s flagship electric SUV is now more expensive. The starting price of the <a href="https://electrek.co/guides/volvo-ex90/">Volvo EX90</a> is up by over $3,000, but some key features may still be missing.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo,volvo-ex90" data-layer-viewtype="unknown" data-post-id="375032" href="https://electrek.co/2024/08/08/volvo-ex90-price-hike-features-missing/#more-375032" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/08/volvo-ex90-price-hike-features-missing/>
+
+---
+
+## Teslas Have The Lowest Maintenance Costs, Consumer Reports Finds
+
+date: 2024-08-08, from: Inside EVs News
+
+Tesla owners paid the least out of pocket for total maintenance, not including faults or collision repairs. 
+
+<https://insideevs.com/news/729549/tesla-lowest-maintenance-cost/>
+
+---
+
+## Greenworks 80V CrossoverZ riding mower $1,001 off, New lows in Bluetti power station sale, Worx 20V hedge trimmer discount, more
+
+date: 2024-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Greenworks-80V-42-inch-CrossoverZ-Cordless-Electric-Zero-Turn-Riding-Mower-1.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>We’ve got some big new price drops and some long-awaited old lows in today’s Green Deals, led by a return to the best price in months on <a href="https://9to5toys.com/2024/08/08/greenworks-80v-42-inch-electric-zero-turn-riding-mower-hits-best-price-in-months-at-1001-off/?_thumbnail_id=1057138">Greenworks’ CrossoverZ 80V 42-inch Electric Zero-Turn Riding Mower at $4,999</a>. It is joined by <a href="https://9to5toys.com/2024/08/08/bluettis-ac200l-lifepo4-portable-power-station-hits-new-1139-low-860-off-in-latest-sale-more-from-149/">Bluetti’s latest Summer Holiday sale</a> that has a large selection of power stations and bundles <strong>up to $1,100 off</strong> (with <strong>extra 3% off and 5% off</strong> savings options), like the <a href="https://9to5toys.com/2024/08/08/bluettis-ac200l-lifepo4-portable-power-station-hits-new-1139-low-860-off-in-latest-sale-more-from-149/">AC200L LiFePo4 Portable Power Station</a> that has fallen to a <a href="https://9to5toys.com/2024/08/08/bluettis-ac200l-lifepo4-portable-power-station-hits-new-1139-low-860-off-in-latest-sale-more-from-149/">new $1,139 low</a>. There’s also a one-day sale on the affordably reliable <a href="https://9to5toys.com/2024/08/08/shape-your-hedges-with-worxs-22-inch-powershare-cordless-electric-trimmer-at-80-reg-120-today-only/">Worx 20V 22-inch Power Share Hedge Trimmer at $80</a> – plus, all the other hangover Green Deals that are still alive and well, including <a href="https://9to5toys.com/2024/08/01/cruise-to-school-with-up-to-500-off-rad-power-e-bikes-20-off-accessories-and-more-starting-from-1099/">Rad Power’s Back to School sale</a> that ends tonight!</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="374988" href="https://electrek.co/2024/08/08/greenworks-80v-crossoverz-riding-mower-1001-off-new-lows-in-bluetti-power-station-sale-worx-20v-hedge-trimmer-discount-more/#more-374988" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/08/greenworks-80v-crossoverz-riding-mower-1001-off-new-lows-in-bluetti-power-station-sale-worx-20v-hedge-trimmer-discount-more/>
+
+---
+
+## These customizable campervan conversions for the VW ID. Buzz are everything
+
+date: 2024-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Beach-A-Green-Van-Yellow-Surfboard-High-Res.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>VW campervan repair and restoration company Peace Vans today launched <a href="https://www.peacevans.com/idbuzz" target="_blank" rel="noreferrer noopener">a line of customizable campervan conversions for the VW ID. Buzz</a> in the US. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-campers,volkswagen,volkswagen-id-buzz,vw,vw-id-buzz" data-layer-viewtype="unknown" data-post-id="374960" href="https://electrek.co/2024/08/08/customizable-campervan-conversions-for-the-vw-id-buzz/#more-374960" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/08/customizable-campervan-conversions-for-the-vw-id-buzz/>
 
 ---
 
