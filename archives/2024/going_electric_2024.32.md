@@ -1,11 +1,45 @@
 ---
 title: going electric 2024.32
-updated: 2024-08-09 07:51:42
+updated: 2024-08-09 08:57:08
 ---
 
 # going electric 2024.32
 
-(date: 2024-08-09 07:51:42)
+(date: 2024-08-09 08:57:08)
+
+---
+
+## Tesla launches new bundle with 3 years of FSD, Supercharging, and premium connectivity
+
+date: 2024-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is trying something new. The automaker is offering a bundle of 3 years of subscription to Full Self-Driving (FSD) Supervised, Supercharging, and premium connectivity.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="375135" href="https://electrek.co/2024/08/09/tesla-bundle-3-years-fsd-supercharging-premium-connectivity/#more-375135" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/09/tesla-bundle-3-years-fsd-supercharging-premium-connectivity/>
+
+---
+
+## Affordable EVs May Not Be Profitable: 'Just Not Realistic'
+
+date: 2024-08-09, from: Inside EVs News
+
+Massive volumes are critical to make EVs profitable, but getting there is herculean task. 
+
+<https://insideevs.com/news/729671/affordable-evs-may-not-drive-profits/>
+
+---
+
+## Volvo EX90 Prices Are Already Higher Than Expected
+
+date: 2024-08-09, from: Inside EVs News
+
+The long-awaited Volvo EX90 has become more expensive and might be later to customers than expected, despite already being delayed.  
+
+<https://insideevs.com/news/729567/volvo-ex90-prices-increased-delivery-time/>
 
 ---
 

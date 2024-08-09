@@ -1,11 +1,35 @@
 ---
 title: writing 2024.32
-updated: 2024-08-09 07:51:38
+updated: 2024-08-09 08:57:04
 ---
 
 # writing 2024.32
 
-(date: 2024-08-09 07:51:38)
+(date: 2024-08-09 08:57:04)
+
+---
+
+## Gabino Iglesias Reviews The Malachi Covenant by Dee Kelly, Jr.
+
+date: 2024-08-09, from: Locus Magazine
+
+<p><strong>The Malachi Covenant, </strong>Dee Kelly Jr. (Forefront Books 978-1-63763-255-0, $26.00, 432pp, hc) April 2024. Cover by Mary Susan Oleson.</p>
+<p>The international success of Dan Brown’s <strong>The Da Vinci Code </strong>spurred a slew of novels that wanted to work in that same arena, blending elements of thrillers and historical fiction with ele­ments from various religious faiths. Unfortunately, while some were outstanding, many seemed to lack research and didn’t bring anything new  <a href="https://locusmag.com/2024/08/gabino-iglesias-reviews-the-malachi-covenant-by-dee-kelly-jr/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/gabino-iglesias-reviews-the-malachi-covenant-by-dee-kelly-jr/>
+
+---
+
+## Spotlight on Authors Against Book Bans
+
+date: 2024-08-09, from: Locus Magazine
+
+<p></p>
+<p><strong>What is the mission statement of your orga­nization?</strong></p>
+<p>We are Authors Against Book Bans.</p>
+<p>We stand united against the deeply unconstitutional movement to limit the freedom to read. We unequivocally support the availability of diverse voices on our library shelves, in our schools, and in our culture. We pledge to band together against the oppression of literature, to speak when our voices are silenced, to go where our bodies are  <a href="https://locusmag.com/2024/08/spotlight-on-authors-against-book-bans/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/spotlight-on-authors-against-book-bans/>
 
 ---
 

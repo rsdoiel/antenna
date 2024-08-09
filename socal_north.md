@@ -1,11 +1,11 @@
 ---
 title: socal north 2024.32
-updated: 2024-08-09 07:51:33
+updated: 2024-08-09 08:56:59
 ---
 
 # socal north 2024.32
 
-(date: 2024-08-09 07:51:33)
+(date: 2024-08-09 08:56:59)
 
 ---
 
@@ -54,6 +54,36 @@ date: 2024-08-09, from: California Native Plants Society
 
 ---
 
+## Save Money and Time with These DIY Home Repair Tips
+
+date: 2024-08-09, from: The Sundail (CSUN Student Newspaper)
+
+Photo by Blue Bird  Have you ever faced a home repair and felt your wallet cringe? Or maybe you&#8217;ve spent hours waiting for a professional, only to watch them complete... 
+
+<https://sundial.csun.edu/183568/sundialbrandstudio/sundial-marketplace/save-money-and-time-with-these-diy-home-repair-tips/>
+
+---
+
+## The Growing Need for Therapists: Addressing Mental Health in a Modern World
+
+date: 2024-08-08, from: The Sundail (CSUN Student Newspaper)
+
+In recent years, the demand for mental health services has surged, reflecting a broader societal recognition of the importance of mental well-being. This growing need for therapists is particularly evident... 
+
+<https://sundial.csun.edu/183565/sundialbrandstudio/sundial-marketplace/the-growing-need-for-therapists-addressing-mental-health-in-a-modern-world/>
+
+---
+
+## Navigating Life After College: 4 Crucial Things Schools Might Not Have Taught You
+
+date: 2024-08-08, from: The Sundail (CSUN Student Newspaper)
+
+Photo by Pavel Danilyuk  So you’ve passed your final exam and finally have a degree after years of studying, stress, and sleepless nights. What now? Unfortunately for you, a degree... 
+
+<https://sundial.csun.edu/183561/sundialbrandstudio/sundial-marketplace/navigating-life-after-college-4-crucial-things-schools-might-not-have-taught-you/>
+
+---
+
 ## UCLA women’s soccer prepares for Big Ten conference debut in season opener
 
 date: 2024-08-08, from: The Daily Bruin (UCLA Student Newspaper)
@@ -76,6 +106,16 @@ Point guard Lina Sontag and forwards Angela Dugali&#263; and Emily Bessoir repre
 
 ---
 
+## Zero Tolerance Policies on Campus Have Zero Effect
+
+date: 2024-08-08, from: The Sundail (CSUN Student Newspaper)
+
+Photo by William  Fortunato  While zero tolerance policies on college campuses were intended to create a safer environment for students, it seems to have created just the opposite. Regardless of... 
+
+<https://sundial.csun.edu/183557/sundialbrandstudio/sundial-marketplace/zero-tolerance-policies-on-campus-have-zero-effect/>
+
+---
+
 ## UCPD searches for suspect in on-campus burglary in Olympic Hall
 
 date: 2024-08-08, from: The Daily Bruin (UCLA Student Newspaper)
@@ -84,6 +124,16 @@ UCPD is searching for an individual suspected of an on-campus hot prowl burglary
 According to a crime alert sent Thursday, the victim heard the suspect enter his room at Olympic Hall at around 9:30 p.m., but the suspect left quickly. 
 
 <https://dailybruin.com/2024/08/08/ucpd-searches-for-suspect-in-on-campus-burglary-in-olympic-hall/>
+
+---
+
+## The Impact of Medical Misdiagnosis on Student Health and Safety
+
+date: 2024-08-08, from: The Sundail (CSUN Student Newspaper)
+
+Image by javi_indy on Freepik Medical misdiagnosis occurs when a healthcare professional incorrectly identifies a patient’s condition, leading to improper treatment and potentially serious health risks. For students, who are... 
+
+<https://sundial.csun.edu/183554/sundialbrandstudio/independent-legal-guide/the-impact-of-medical-misdiagnosis-on-student-health-and-safety/>
 
 ---
 

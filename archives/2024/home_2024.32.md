@@ -1,11 +1,41 @@
 ---
 title: home 2024.32
-updated: 2024-08-09 07:51:39
+updated: 2024-08-09 08:57:05
 ---
 
 # home 2024.32
 
-(date: 2024-08-09 07:51:39)
+(date: 2024-08-09 08:57:05)
+
+---
+
+## How To Build DIY Drawer Dividers
+
+date: 2024-08-09, from: Family Handyman Blog
+
+Transform your drawers with custom DIY drawer dividers. Follow our simple steps using PVC trim and a router for professional results. 
+
+<https://www.familyhandyman.com/project/how-to-build-drawer-dividers/>
+
+---
+
+## 4 Genius Ways to Hide Wiring
+
+date: 2024-08-09, from: Family Handyman Blog
+
+Install a home theater and hide the speaker wires with no muss, simple solutions. We'll show you four different ways to take care of it. 
+
+<https://www.familyhandyman.com/list/how-to-hide-wiring/>
+
+---
+
+## 7 Tips To Set and Nail Deck Boards Perfectly
+
+date: 2024-08-09, from: Family Handyman Blog
+
+Tips and tricks for a great-looking deck. 
+
+<https://www.familyhandyman.com/list/set-nail-deck-boards-tips/>
 
 ---
 

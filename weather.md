@@ -1,40 +1,11 @@
 ---
 title: weather 2024.32
-updated: 2024-08-09 07:51:37
+updated: 2024-08-09 08:57:03
 ---
 
 # weather 2024.32
 
-(date: 2024-08-09 07:51:37)
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-08-09, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Fri, 09 Aug 2024 14:49:25 GMT 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-08-09, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Fri Aug 9 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The Weather Prediction Center is issuing advisories on Post-Tropical <br>Cyclone Debby, located inland over the Mid-Atlantic region.<br><br>1. Near the Lesser and Greater Antilles:<br>A tropical wave located several hundred miles to the west-southwest <br>of the Cabo Verde Islands is producing a large area of disorganized <br>showers and thunderstorms over the tropical Atlantic. Any <br>development of the wave should be slow to occur during the next <br>couple of days while it moves westward across the central tropical <br>Atlantic. Afterwards, conditions are expected to become more <br>conducive for development while the wave moves west-northwestward, <br>and a tropical depression could form by early next week while the <br>system approaches the Lesser Antilles. The system is then forecast <br>to continue moving generally west-northwestward and could approach <br>the Greater Antilles by the middle part of next week.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...medium...60 percent.<br><br />
-<br>Forecaster Reinhart<br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+(date: 2024-08-09 08:57:03)
 
 ---
 
@@ -102,6 +73,107 @@ LAT...LON   39367704 40257779 41387716 42677658 43207590 43397466
  
 
 <https://www.spc.noaa.gov/products/md/md1873.html>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-08-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1024 AM CDT Fri Aug 09 2024
+
+Valid 091700Z - 101200Z
+
+The previous forecast remains on track with some expansion of both
+isolated dry-thunderstorm risk areas needed based on recent
+observations and trends in latest guidance. 
+
+...northern Rockies...
+As of 15 UTC, isolated lightning strikes were noted across portions
+of southern ID and northern UT. Negligible MRMS rainfall rate and
+1-hour accumulation estimates associated with this convection
+suggests that little rainfall is reaching the surface. Given the
+very dry sub-cloud layer noted in the 12 UTC BOI sounding and an
+extensive plume of agitated mid-level cumulus, the potential for
+isolated dry thunderstorms appears to be more widespread than
+previously forecast. 
+
+...northern Washington...
+To the northwest across north-central WA, convection along the
+international border appears to be producing areas of wetting
+rainfall based on MRMS rainfall estimates. However, the 12 UTC OTX
+sounding amd GOES PWAT estimates suggest drier conditions exist east
+of the Cascades where a convective signal is noted in 12 UTC CAM
+guidance. 
+
+...northeast Nevada...
+Areas of breezy/dry conditions remain likely this afternoon across
+northeast NV; however, morning guidance continues to suggest that
+elevated fire weather conditions should remain fairly isolated and
+transient given an overall nebulous/weak synoptic regime.
+
+..Moore.. 08/09/2024
+
+.PREV DISCUSSION... /ISSUED 1238 AM CDT Fri Aug 09 2024/
+
+...Synopsis...
+A subdued upper-level ridge will persist within the Great Basin into
+part of the northern Rockies. In the Northwest, a low-amplitude
+upper trough will make gradual progress eastward through the day.
+
+Some isolated thunderstorm activity, some of which may be dry, is
+possible in the northern Cascades as well as central Idaho into
+western Wyoming. Storm motions in Washington will a touch on the
+slow side, make a mix of wet/dry storms probable. Storms have some
+potential to be drier in the northern Rockies given the belt of
+stronger mid-level winds aloft. Fuels within the terrain have
+generally received lower rainfall amounts recently and fuels indices
+suggest some degree of receptiveness.
+
+Marginally dry and breezy conditions are also expected in the lee of
+the northern Sierra into adjacent parts of the northern Great Basin.
+Winds will not be overly strong and any sustained elevated
+conditions are likely to be spatially limited.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-08-09, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Fri, 09 Aug 2024 14:49:25 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-08-09, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Fri Aug 9 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The Weather Prediction Center is issuing advisories on Post-Tropical <br>Cyclone Debby, located inland over the Mid-Atlantic region.<br><br>1. Near the Lesser and Greater Antilles:<br>A tropical wave located several hundred miles to the west-southwest <br>of the Cabo Verde Islands is producing a large area of disorganized <br>showers and thunderstorms over the tropical Atlantic. Any <br>development of the wave should be slow to occur during the next <br>couple of days while it moves westward across the central tropical <br>Atlantic. Afterwards, conditions are expected to become more <br>conducive for development while the wave moves west-northwestward, <br>and a tropical depression could form by early next week while the <br>system approaches the Lesser Antilles. The system is then forecast <br>to continue moving generally west-northwestward and could approach <br>the Greater Antilles by the middle part of next week.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...medium...60 percent.<br><br />
+<br>Forecaster Reinhart<br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
@@ -584,50 +656,6 @@ has prompted an expansion of the MRGL risk into that region.
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2024-08-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1107 AM CDT Thu Aug 08 2024
-
-Valid 081700Z - 091200Z
-
-The notable changes on this update are to expand the Isolated Dry
-Thunder area into Nevada and to add an Isolated Dry Thunder area in
-portions of northeast Washington. Both of these changes reflect
-greater confidence in lightning occurrence in an environment with
-dry fuels and precipitable water values between 0.5-0.75 inches.
-Otherwise, see the previous discussion for more details.
-
-..Supinie.. 08/08/2024
-
-.PREV DISCUSSION... /ISSUED 0112 AM CDT Thu Aug 08 2024/
-
-...Synopsis...
-As a trough moving across the northern Rockies into the northern
-Plains suppresses the western US ridge today, flow aloft will
-shift to become more northwesterly with monsoonal moisture shifting
-southward. Isolated dry thunderstorm chances will be possible along
-the fringes of the deeper monsoonal moisture across southern/central
-Utah into western Colorado and western Wyoming. In these regions,
-precipitable water values around 0.50-0.75 inch and mainly mid-level
-moisture will result in high-based convection, with potential for
-new ignitions amid receptive fuels, and little precipitation. Gusty
-and erratic winds will be possible near thunderstorms.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
 
 ---
 

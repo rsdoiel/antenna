@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.32
-updated: 2024-08-09 07:51:41
+updated: 2024-08-09 08:57:07
 ---
 
 # retro computing 2024.32
 
-(date: 2024-08-09 07:51:41)
+(date: 2024-08-09 08:57:07)
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2024-08-09, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 12: Folly and Cruelty 
+
+<https://www.filfre.net/2024/08/this-week-on-the-analog-antiquarian/>
 
 ---
 

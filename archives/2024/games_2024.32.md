@@ -1,11 +1,51 @@
 ---
 title: games 2024.32
-updated: 2024-08-09 07:51:38
+updated: 2024-08-09 08:57:04
 ---
 
 # games 2024.32
 
-(date: 2024-08-09 07:51:38)
+(date: 2024-08-09 08:57:04)
+
+---
+
+## Balatro dev says ‘I don’t ever want microtransactions or anything like that in the game’
+
+date: 2024-08-09, updated: 2024-08-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24216323/balatro-update-2025-details-new-jokers-iphone-android-version>
+
+---
+
+## I’m going to play Pokémon Mystery Dungeon just for the personality quiz
+
+date: 2024-08-09, updated: 2024-08-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24216710/pokemon-mystery-dungeon-red-rescue-team-nintendo-switch>
+
+---
+
+## The Deadpool & Wolverine jokes Disney blocked are as crucial as the ones it allowed
+
+date: 2024-08-09, updated: 2024-08-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24216243/deadpool-and-wolverine-censored-disney>
+
+---
+
+## Sony’s new Astro Bot controller is a tribute to the de facto mascot
+
+date: 2024-08-09, updated: 2024-08-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24208796/playstation-astro-bot-controller-dualsense-pre-order>
 
 ---
 

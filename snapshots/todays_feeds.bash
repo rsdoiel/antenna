@@ -21,7 +21,7 @@ function make_today() {
 	echo "Harvesting to ${SKIM_FILE/.skim/.txt}"
 	skimmer "${SKIM_FILE/.skim/.txt}"
 	sqlite3 "${SKIM_FILE}" "DELETE FROM items WHERE LOWER(QUOTE(dc_ext)) LIKE '%sponsor%'"
-	sqlite3 "${SKIM_FILE}" "DELETE FROM items WHERE  link LIKE '%signalscv%' AND tags != '' AND (json_extract(tags, '$[0]') LIKE 'Opinion' or json_extract(tags, '$[0]') LIKE 'Letters%')"
+	sqlite3 "${SKIM_FILE}" "DELETE FROM items WHERE  link LIKE '%signalscv%' AND tags != '' AND (json_extract(tags, '$[0]') LIKE 'Opinion' or json_extract(tags, '$[0]') LIKE 'Letters%' OR json_extract(tags, '$[1]') LIKE 'Opinion' OR json_extract(tags, '$[2]') LIKE 'Opinion')"
 	sqlite3 "${SKIM_FILE}" "UPDATE items SET status = 'read'"
 	sqlite3 "${SKIM_FILE}" "UPDATE items SET status = 'saved' WHERE published >= '$START_TODAYS_NEWS' AND published < '$END_TODAYS_NEWS'"
 	skim2md -title "News gathered ${TODAY}" \
