@@ -1,11 +1,59 @@
 ---
 title: central coast 2024.32
-updated: 2024-08-09 08:57:02
+updated: 2024-08-10 09:33:10
 ---
 
 # central coast 2024.32
 
-(date: 2024-08-09 08:57:02)
+(date: 2024-08-10 09:33:10)
+
+---
+
+## Gerald Carpenter: Music Club Offers Music in Honor of Betty Oberacker
+
+date: 2024-08-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>When academic associations conduct a commemorative symposium for a colleague who has recently died, and then have the papers, which were read at the symposium, published in a single volume [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/gerald-carpenter-music-club-offers-music-in-honor-of-betty-oberacker/">Gerald Carpenter: Music Club Offers Music in Honor of Betty Oberacker </a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/gerald-carpenter-music-club-offers-music-in-honor-of-betty-oberacker/>
+
+---
+
+## Cynder Sinclair: Councilmember Mike Jordan Tackles the Tough Issues
+
+date: 2024-08-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Three hot button issues dominate Santa Barbarian conversations these days — housing, homelessness and the evolution of State Street. Everybody has an opinion. Some are adamant theirs is the right [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/cynder-sinclair-councilmember-mike-jordan-tackles-the-tough-issues/">Cynder Sinclair: Councilmember Mike Jordan Tackles the Tough Issues</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/cynder-sinclair-councilmember-mike-jordan-tackles-the-tough-issues/>
+
+---
+
+## Heal the Ocean Hires Earthcomb to Help Remove Fiesta Litter
+
+date: 2024-08-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Each year, Fiesta leaves behind a significant amount of plastic confetti, single-use plastic cups, and other trash that litters the streets and falls into storm drains. To supplement the&#160;city of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/heal-the-ocean-hires-earthcomb-to-help-remove-fiesta-litter/">Heal the Ocean Hires Earthcomb to Help Remove Fiesta Litter</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/heal-the-ocean-hires-earthcomb-to-help-remove-fiesta-litter/>
+
+---
+
+## Goleta Committee Considers Parking Rules During Halloween, Deltopia
+
+date: 2024-08-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>With Halloween approaching, the city of Goleta and Santa Barbara County Sheriff’s Office (SBSO) staff are seeking recommendations from Goleta’s Public Safety &#38; Emergency Preparedness Standing Committee on temporary parking [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-committee-considers-parking-rules-during-halloween-deltopia/">Goleta Committee Considers Parking Rules During Halloween, Deltopia</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-committee-considers-parking-rules-during-halloween-deltopia/>
 
 ---
 

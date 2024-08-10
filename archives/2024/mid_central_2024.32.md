@@ -1,11 +1,31 @@
 ---
 title: mid central 2024.32
-updated: 2024-08-09 08:57:01
+updated: 2024-08-10 09:33:10
 ---
 
 # mid central 2024.32
 
-(date: 2024-08-09 08:57:01)
+(date: 2024-08-10 09:33:10)
+
+---
+
+## New York High School Helps License Amateur Radio Operators
+
+date: 2024-08-09, from: Amateur Radio Relay League News
+
+<p>On August 1, 2024, Steve Goodgame, K5ATA, ARRL Education and Learning Manager, took a train trip to New York City to visit the Staten Island Technical High School. He was there to help administer amateur radio exams to 49 students and all passed their exams. Several upgraded their licenses from General to Extra class and two students went from unlicensed to Extra class in one sitting.</p><p>Their teac...</p> 
+
+<http://www.arrl.org/news/view/new-york-high-school-helps-license-amateur-radio-operators>
+
+---
+
+## David Galletly, KM2O, Named Vice Director of the ARRL Hudson Division
+
+date: 2024-08-09, from: Amateur Radio Relay League News
+
+<p>David Galletly, KM2O, has been appointed Vice Director of the ARRL Hudson Division. ARRL President Rick Roderick, K5UR, appointed Galletly to the remainder of the term ending in December, 2024, following the promotion of former Vice Director Ed Wilson, N2XDD, to Hudson Division Director.</p><p>Galletly has been active in amateur radio since 1998. An ARRL Life Member, he is a member and past President ...</p> 
+
+<http://www.arrl.org/news/view/david-galletly-km2o-named-vice-director-of-the-arrl-hudson-division>
 
 ---
 
@@ -18,6 +38,16 @@ date: 2024-08-09, from: EDN Blog
  
 
 <https://www.edn.com/adas-and-autonomous-vehicles-with-distributed-aperture-radar/>
+
+---
+
+## Hurricane Debby Updates
+
+date: 2024-08-08, from: Amateur Radio Relay League News
+
+<p><strong>Friday, August 8, 2024 Update:</strong></p><p>Remants of Hurricane Debby continue to drench the East Coast. The storm originally made landfall in Florida’s Big Bend coastal area just after 11:00 PM on Sunday, August 4, as a Category 1, near Steinhatchee, Florida, just 9 miles southeast of where Category 3 Idalia made landfall on August 30, 2023.</p><p>The hurricane was downgraded the following day to a tropical storm...</p> 
+
+<http://www.arrl.org/news/view/hurricane-debby-updates>
 
 ---
 
@@ -178,16 +208,6 @@ date: 2024-08-05, from: EDN Blog
  
 
 <https://www.edn.com/custom-measurements-using-waveform-and-parameter-math/>
-
----
-
-## Hurricane Debby Updates
-
-date: 2024-08-05, from: Amateur Radio Relay League News
-
-<p><strong>Monday, August 5, 2024 AM Update:</strong></p><p>Hurricane Debby made landfall in Florida’s Big Bend coastal area just after 11:00 PM on Sunday night as a Category 1 Hurricane, near Steinhatchee, Florida, just 9 miles southeast of where Category 3 Idalia made landfall on August 30, 2023. </p><p>Amateur Radio Emergency Service® (ARES®) nets have been activated and will continue to monitor the situation. The amateur ra...</p> 
-
-<http://www.arrl.org/news/view/hurricane-debby-updates>
 
 ---
 

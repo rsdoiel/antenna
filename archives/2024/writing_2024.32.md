@@ -1,11 +1,95 @@
 ---
 title: writing 2024.32
-updated: 2024-08-09 08:57:04
+updated: 2024-08-10 09:33:12
 ---
 
 # writing 2024.32
 
-(date: 2024-08-09 08:57:04)
+(date: 2024-08-10 09:33:12)
+
+---
+
+## 2024 Mythopoeic Awards Winners
+
+date: 2024-08-09, from: Locus Magazine
+
+<p>The Mythopoeic Society announced the winners of the 2024 Mythopoeic Awards during Mythcon 53, held August 2-5, 2024 in Minneapolis MN.</p>
+<div class="mynomorebulletlist">
+<p><strong>Mythopoeic Fantasy Award for Adult Literature</strong></p>
+<ul>
+<li>WINNER:<strong> </strong><strong>Ink Blood Sister Scribe</strong>, Emma Törzs (Morrow)</li>
+</ul>
+<ul>
+<li><strong>Bookshops &#38; Bonedust</strong>, Travis Baldree (Tor)</li>
+<li>Monk &#38; Robot series, Becky Chambers (Tordotcom)</li>
+<li><strong>Emily Wilde&#8217;s Encyclopaedia of Faeries</strong>, Heather Fawcett (Del Rey)</li>
+<li><strong>A Market of Dreams and Destiny</strong>, Trip Galey (Titan)</li></ul></div> <a href="https://locusmag.com/2024/08/2024-mythopoeic-awards-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/2024-mythopoeic-awards-winners/>
+
+---
+
+## 2024 Alfie Awards
+
+date: 2024-08-09, from: Locus Magazine
+
+<p style="text-align: left;">The Alfie Awards were presented on August 9, 2024 by George R.R. Martin, who dusted off the awards this year once again to honor those who were deleted from the 2023 Hugo Awards ballot. The presentation took place at a private banquet held at the Kimpton Blythswood Square Hotel in Glasgow, to an audience of authors, colleagues, and previous Alfie holders.</p>
+<p>The awards recipients were <strong>Babel</strong> by R.F. Kuang for  <a href="https://locusmag.com/2024/08/2024-alfie-awards/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/2024-alfie-awards/>
+
+---
+
+## 👷 #212 - Don't Quit Your Day Job
+
+date: 2024-08-09, from: Interesting, a blog on writing
+
+What does your character's job say about them? Does it matter? 
+
+<https://inneresting.substack.com/p/212-dont-quit-your-day-job>
+
+---
+
+## First Fandom Awards
+
+date: 2024-08-09, from: Locus Magazine
+
+<p>Several awards for services to fandom were presented by First Fandom during the opening ceremonies of the Worldcon in Glasgow, held August 8, 2024.</p>
+<div class="mynomorebulletlist">
+<p><strong>First Fandom Hall of Fame Award</strong></p>
+<ul>
+<li>Mary &#38; Bill Burnes</li>
+<li>David Langford</li>
+</ul>
+<p><strong>First Fandom Posthumous Hall of Fame Award</strong></p>
+<ul>
+<li>Aldred Bester</li>
+<li>Michael David Glicksohn</li>
+<li>Mike Resnick</li>
+<li>Peter Weston</li>
+</ul>
+<p><strong>Sam Moskowitz Archive Award</strong></p>
+<ul>
+<li>Joe Siclari &#38; Edie Stern</li>
+</ul>
+<p>[Via File 770]</p>
+</div>
+
+<p><strong>While you are here,</strong> please take  <a href="https://locusmag.com/2024/08/first-fandom-awards/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/first-fandom-awards/>
+
+---
+
+## DarkLit Press Troubles
+
+date: 2024-08-09, from: Locus Magazine
+
+<p>Canadian independent horror publisher DarkLit Press appears to be defunct; their website and social media accounts are no longer functional, and messages sent to their emails bounce.</p>
+<p>Some of their authors, including Steve Stred, have reported problems in recent months, including unpaid royalties, a lack of royalty statements, communication difficulties, and other issues.</p>
+<p>DarkLit was founded in 2021 by Andrew Robert, but he left the company earlier this year, with  <a href="https://locusmag.com/2024/08/darklit-press-troubles/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/darklit-press-troubles/>
 
 ---
 

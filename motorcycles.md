@@ -1,11 +1,71 @@
 ---
 title: motorcycles 2024.32
-updated: 2024-08-09 08:57:06
+updated: 2024-08-10 09:33:14
 ---
 
 # motorcycles 2024.32
 
-(date: 2024-08-09 08:57:06)
+(date: 2024-08-10 09:33:14)
+
+---
+
+## 2024 Kawasaki Ninja 1000 SX ABS
+
+date: 2024-08-09, from: Cycle World News
+
+Kawasaki blurs the lines between performance and comfort with the Ninja 1000 SX ABS. 
+
+<https://www.cycleworld.com/kawasaki/ninja-1000sx-abs/>
+
+---
+
+## 2024 KTM 1290 Super Adventure S
+
+date: 2024-08-09, from: Cycle World News
+
+KTM’s 1290 Super Adventure S is a slightly more touring-oriented version of the R. Yet it still offers most of the off-highway capability of its sibling. 
+
+<https://www.cycleworld.com/ktm/1290-super-adventure-s/>
+
+---
+
+## 2024 Kawasaki Ninja 650
+
+date: 2024-08-09, from: Cycle World News
+
+Kawasaki’s Ninja 650 offers a blend of style, performance, and practicality. 
+
+<https://www.cycleworld.com/kawasaki/ninja-650/>
+
+---
+
+## 2023 KTM Super Duke GT
+
+date: 2024-08-09, from: Cycle World News
+
+The 2023 Super Duke GT represents everything we love about KTM. A mega motor, top-notch technology, and a dose of practicality make it the purist’s choice. 
+
+<https://www.cycleworld.com/ktm/super-duke-gt-2023/>
+
+---
+
+## 2024 KTM 1390 Super Duke R Evo
+
+date: 2024-08-09, from: Cycle World News
+
+No one ever accused KTM’s Super Duke of being tame, but for 2024, the ante has been upped with a larger engine, more power, and improved features. 
+
+<https://www.cycleworld.com/ktm/1390-super-duke-r-evo/>
+
+---
+
+## 2023 Yamaha MT-07
+
+date: 2024-08-09, from: Cycle World News
+
+The 2023 Yamaha MT-07 gets a 5-inch TFT dash and smartphone connectivity. Otherwise, it stays the course, offering fun, approachable performance for all. 
+
+<https://www.cycleworld.com/yamaha/mt-07-2023/>
 
 ---
 
@@ -59,7 +119,7 @@ I don't generally give e-bikes a second look, but these models hit the right mar
 
 ---
 
-## This Brazilian Motorcycle Police Chase Is Worthy of Mission Impossible, Last Forever
+## This Brazilian Motorcycle Police Chase Is Nuts, Lasts Forever
 
 date: 2024-08-09, from: Ride Apart, Electric Motorcycle News
 

@@ -1,11 +1,181 @@
 ---
 title: going electric 2024.32
-updated: 2024-08-09 08:57:08
+updated: 2024-08-10 09:33:15
 ---
 
 # going electric 2024.32
 
-(date: 2024-08-09 08:57:08)
+(date: 2024-08-10 09:33:15)
+
+---
+
+## Check out Toyota’s new mid-size and compact all-electric people carriers
+
+date: 2024-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Toyotas-electric-people-movers.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/toyota/">Toyota</a> launched the new, all-electric Proace Verso and smaller Proace City Verso MPVs on Thursday in the UK. Toyota’s new electric people carriers are on sale now with more range, tech, and style than ever.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="375245" href="https://electrek.co/2024/08/09/toyotas-new-all-electric-people-carriers/#more-375245" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/09/toyotas-new-all-electric-people-carriers/>
+
+---
+
+## Donald Trump's Math On EV Chargers Is Way Off
+
+date: 2024-08-09, from: Inside EVs News
+
+Trump says the U.S. spent $9 billion on "eight chargers." He's not even close. A top EV charging official explains why. 
+
+<https://insideevs.com/news/729702/trump-ev-chargers-9-billion/>
+
+---
+
+## Tesla Now Offers A $5,000 Bundle With FSD And Unlimited Supercharging
+
+date: 2024-08-09, from: Inside EVs News
+
+Here's how much you'd have to drive to make it worth the money. 
+
+<https://insideevs.com/news/729693/tesla-fsd-supercharging-bundle/>
+
+---
+
+## Why Are EV Sales 'Lagging'? Here Are Two Reasons.
+
+date: 2024-08-09, from: Inside EVs News
+
+If EV sales are slowing at all—and the data is deeply inconsistent—then two types of cars tell us a lot. 
+
+<https://insideevs.com/news/729698/ev-sales-tesla-chevy-bolt/>
+
+---
+
+## Podcast: Tesla Cybertruck news, Rivian and Lucid earnings, and more
+
+date: 2024-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss a bunch of Tesla Cybertruck news, Rivian and Lucid earnings, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Electrek_8-9-24.mp3"></audio></figure>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="375220" href="https://electrek.co/2024/08/09/podcast-tesla-cybertruck-news-rivian-and-lucid-earnings/#more-375220" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/09/podcast-tesla-cybertruck-news-rivian-and-lucid-earnings/>
+
+---
+
+## Jaguar Is Going Electric. It Won't Sell Any Cars At Home For A Year
+
+date: 2024-08-09, from: Inside EVs News
+
+Jaguar is still committed to going all-electric. But while we wait for its new EVs to launch, there's going to be a weird gap. 
+
+<https://insideevs.com/news/729699/jaguar-ev-sales-2025-plan/>
+
+---
+
+## Oxford scientists are generating solar power without panels
+
+date: 2024-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/sOLAR-EDIT-Oxford-University-physics.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Scientists at Oxford University are coating a new solar power-generating material onto objects such as rucksacks, cars, and mobile phones.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,uk" data-layer-viewtype="unknown" data-post-id="375218" href="https://electrek.co/2024/08/09/oxford-scientists-are-generating-solar-power-without-panels/#more-375218" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/09/oxford-scientists-are-generating-solar-power-without-panels/>
+
+---
+
+## Anker F3800 power station $2,199 off, RadCity 5 Plus e-bike with 100+ mile range $699 off, Juiced 15% off sitewide sale, more
+
+date: 2024-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Anker-SOLIX-f3800-Portable-Power-Station.webp?w=1200" /></div><p>It’s been a busy morning, with tons of great EV and backup power saving solutions dropping down to new lows. Standing at the front of today’s Green Deals is the best price we have seen to date on <a href="https://9to5toys.com/2024/08/08/ankers-solix-f3800-lifepo4-power-station-with-expansion-battery-hits-new-3399-low-reg-5598-best-price-ever/">Anker’s SOLIX F3800 Portable Power Station</a> that is bundled with an expansion battery for a <a href="https://9to5toys.com/2024/08/08/ankers-solix-f3800-lifepo4-power-station-with-expansion-battery-hits-new-3399-low-reg-5598-best-price-ever/">new $3,399 low</a>. It is joined by two e-bike sales – the first from Rad Power Bikes that is seeing its <a href="https://9to5toys.com/2024/08/09/rad-power-gives-radcity-5-plus-e-bike-100-travel-miles-at-1499-699-value-with-20-off-vehicle-racks/">RadCity 5 Plus Commuter e-bike discounted to $1,499</a> and coming with a <strong>free Semi-Integrated Battery</strong> for double the travel distance. The second of these sales is a <strong>15% off sitewide discount</strong> on Juiced’s e-bike lineup, including its <a href="https://9to5toys.com/2024/08/09/this-weekend-get-15-off-all-juiced-e-bikes-with-the-new-jetcurrent-pro-hitting-a-fresh-1954-low-845-off/">JetCurrent Pro that just hit a new $1,954 low</a>. You’ll also find price cuts on some <a href="https://9to5toys.com/2024/08/09/explore-your-city-campus-more-with-vanpowers-city-vanture-urban-e-bike-at-999-reg-1699/">Vanpowers e-bikes</a>, as well as Segway’s <a href="https://9to5toys.com/2024/08/08/segways-back-to-school-sale-drops-ninebot-d28-electric-kickscooter-to-return-300-low-more-from-280/">EVs</a> and <a href="https://9to5toys.com/2024/08/09/segway-takes-up-to-1900-off-its-lifepo4-cube-series-power-stations-plus-bonus-bundle-savings/">Cube power stations</a> too – plus, all the other hangover Green Deals that are still alive and well. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="375173" href="https://electrek.co/2024/08/09/anker-f3800-power-station-radcity-5-plus-e-bike-juiced-sitewide-sale-more/#more-375173" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/09/anker-f3800-power-station-radcity-5-plus-e-bike-juiced-sitewide-sale-more/>
+
+---
+
+## In the US, Ørsted forms its first-ever battery storage partnership
+
+date: 2024-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/ElevenMile-BESS-orsted.jpg?quality=82&#038;strip=all&#038;w=1440" /></div><p>In the US, Ørsted has entered into a joint venture with Mission Clean Energy, in its first-ever standalone battery storage partnership.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="375178" href="https://electrek.co/2024/08/09/in-the-us-orsted-forms-its-first-ever-battery-storage-partnership/#more-375178" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/09/in-the-us-orsted-forms-its-first-ever-battery-storage-partnership/>
+
+---
+
+## BYD targets Porsche, luxury EVs with its new 1,000 hp Denza Z9 GT
+
+date: 2024-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/BYD-new-EVs-4.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s leading EV maker wants a share of the premium market with its new flagship GT. <span style="box-sizing: border-box; margin: 0px; padding: 0px;">T</span>he Denza Z9 GT is set to rival luxury automakers like Porsche and BMW. As <a href="https://electrek.co/guides/byd/">BYD’s</a> EV launch spree continues, it will make its official debut in less than two weeks.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,denza" data-layer-viewtype="unknown" data-post-id="375172" href="https://electrek.co/2024/08/09/byd-porsche-new-flagship-denza-z9-gt/#more-375172" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/09/byd-porsche-new-flagship-denza-z9-gt/>
+
+---
+
+## The Rivian R2's Charging Port Just Got Much, Much Better
+
+date: 2024-08-09, from: Inside EVs News
+
+The location will better accommodate Rivian owners filling up at Tesla Superchargers by placing the port on the "correct" side. 
+
+<https://insideevs.com/news/729686/rivian-r2-charge-port-location/>
+
+---
+
+## Nissan hints at the return of the legendary GT-R as an EV sports car
+
+date: 2024-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Nissan-GT-R-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>An electric <a href="https://electrek.co/guides/nissan/">Nissan</a> GT-R? That looks even more likely now. Nissan’s global product strategy officer, Ivan Espinosa, hinted that the Nissan GT-R would live on in the EV era.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan" data-layer-viewtype="unknown" data-post-id="375137" href="https://electrek.co/2024/08/09/nissan-hints-legendary-gt-r-ev/#more-375137" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/09/nissan-hints-legendary-gt-r-ev/>
+
+---
+
+## Lonking, HEVI JV to bring more electric equipment to US jobsites
+
+date: 2024-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/hevi_equipment.png?w=1400" /></div><p>A new joint venture between Greenland Technologies and Chinese equipment manufacturer Lonking will see new EVs developed for the popular HEVI equipment brand and bring new, battery electric equipment solutions to job sites throughout North America.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,electric-construction-equipment" data-layer-viewtype="unknown" data-post-id="374953" href="https://electrek.co/2024/08/09/lonking-hevi-jv-to-bring-more-electric-equipment-to-us-jobsites/#more-374953" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/09/lonking-hevi-jv-to-bring-more-electric-equipment-to-us-jobsites/>
 
 ---
 
@@ -159,7 +329,7 @@ I don't generally give e-bikes a second look, but these models hit the right mar
 
 ---
 
-## This Brazilian Motorcycle Police Chase Is Worthy of Mission Impossible, Last Forever
+## This Brazilian Motorcycle Police Chase Is Nuts, Lasts Forever
 
 date: 2024-08-09, from: Ride Apart, Electric Motorcycle News
 
@@ -184,6 +354,10 @@ Can they be charged in 10 minutes? Sure. Will you be able to experience it? Mayb
 date: 2024-08-09, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time that includes new electric bikes from Rad Power Bikes, Velotric, and Ford (?!), a massive Bosch e-bike, Lime’s new rides, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Wheel-e_8-9-24.mp3"></audio></figure>
 
 
 

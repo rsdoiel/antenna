@@ -1,11 +1,64 @@
 ---
 title: pacific 2024.32
-updated: 2024-08-09 08:57:00
+updated: 2024-08-10 09:33:09
 ---
 
 # pacific 2024.32
 
-(date: 2024-08-09 08:57:00)
+(date: 2024-08-10 09:33:09)
+
+---
+
+## Atkins Kroll names new executives for Guam, Saipan
+
+date: 2024-08-09, from: Pacific Island Times
+
+By Pacific Island Times News Staff  Atkins Kroll (AK), an Inchcape company, his week announced changes to its most senior leadership... 
+
+<https://www.pacificislandtimes.com/post/atkins-kroll-names-new-executives-for-guam-saipan>
+
+---
+
+## 'The journey continues to teach me much about life, particularly a life prepared for'
+
+date: 2024-08-09, from: Pacific Island Times
+
+It is delightful each time someone stops and asks how Eric is doing. I ran into Christine, who was his buddy at Jose Rios Middle School.... 
+
+<https://www.pacificislandtimes.com/post/the-journey-continues-to-teach-me-much-about-life-particularly-a-life-prepared-for>
+
+---
+
+## Every mile a memory: A trip back to 907 Academy Road
+
+date: 2024-08-09, from: Pacific Island Times
+
+Bridgman, MI—Many of us have a childhood home where we grew up and where fond memories have stayed with us throughout our adult life. I... 
+
+<https://www.pacificislandtimes.com/post/every-mile-a-memory-a-trip-back-to-907-academy-road>
+
+---
+
+## UH Alumni: Valerie Kan, Disney+ digital marketing manager
+
+date: 2024-08-09, from: University of Hawaiʻi News
+
+<p>This Shidler graduate has worked on <em>Shogun</em>, <em>Only Murders in the Building</em> and <em>Welcome to Wrexham</em>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/09/uh-alumni-valerie-kan-disney-digital-marketing-manager/"><abbr>UH</abbr> Alumni: Valerie Kan, Disney+ digital marketing manager</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/09/uh-alumni-valerie-kan-disney-digital-marketing-manager/>
+
+---
+
+## U.S. men’s volleyball suffers heartbreaking loss in Olympics semifinals
+
+date: 2024-08-09, from: Hawaii Tribune Harold
+
+
+				<p>The United States men&#8217;s volleyball team lost a heartbreaker in the semifinal round of the Paris Olympics today when Poland came back to advance to the gold medal match with a 25-23, 25-27, 25-14, 23-25, 15-13 win.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/09/sports/u-s-mens-volleyball-suffers-heartbreaking-loss-in-olympics-semifinals/>
 
 ---
 
@@ -676,6 +729,16 @@ date: 2024-08-08, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/08/08/lahaina-one-year-later-message/">Lahaina one year later: Honoring the lost, healing the living, building the future</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/08/08/lahaina-one-year-later-message/>
+
+---
+
+## How to improve your kids' experiences on social media
+
+date: 2024-08-08, updated: 2024-08-08, from: Marianas Variety
+
+(BPT) - As kids retreat back indoors after a long summer outside, back-to-school season provides a good opportunity for parents to revisit how their children are using social media to stay connected with their friends. 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/how-to-improve-your-kids-experiences-on-social-media/article_3ad8489c-24dd-50ba-832e-9118ad617d84.html>
 
 ---
 

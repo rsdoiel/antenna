@@ -1,103 +1,148 @@
 ---
 title: columns 2024.32
-updated: 2024-08-09 08:57:02
+updated: 2024-08-10 09:33:11
 ---
 
 # columns 2024.32
 
-(date: 2024-08-09 08:57:02)
+(date: 2024-08-10 09:33:11)
 
 ---
 
-## 2024-08-09 NNCP setup automation
+## Friday Squid Blogging: SQUID Is a New Computational Tool for Analyzing Genomic AI
+
+date: 2024-08-09, updated: 2024-08-09, from: Bruce Schneier blog
+
+<p>Yet another <a href="https://www.cshl.edu/squid-pries-open-ai-black-box/">SQUID acronym</a>:</p>
+<blockquote><p>SQUID, short for Surrogate Quantitative Interpretability for Deepnets, is a computational tool created by Cold Spring Harbor Laboratory (CSHL) scientists. It&#8217;s designed to help interpret <a href="https://www.cshl.edu/finding-the-right-ai-for-you/">how AI models analyze the genome</a>. Compared with other analysis tools, SQUID is more consistent, <a href="https://www.cshl.edu/the-digital-dark-matter-clouding-ai/">reduces background noise</a>, and can lead to more accurate predictions about the effects of genetic mutations.</p></blockquote>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/08/friday-squid-blogging-squid-is-a-new-computational-tool-for-analyzing-genomic-ai.html>
+
+---
+
+## Apple Intelligence Foundation Language Models
+
+date: 2024-08-09, updated: 2024-08-09, from: Daring Fireball
+
+ 
+
+<https://arxiv.org/abs/2407.21075#>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-09, from: Dave Winer's Scripting News)
+
+Any news org with cash to invest could do to the NYT what ChatGPT is doing to Google. 
+
+<http://scripting.com/2024/08/09.html#a174039>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-09, from: Dave Winer's Scripting News)
+
+Lawrence is the new Rachel. 
+
+<http://scripting.com/2024/08/09.html#a174025>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-09, from: Dave Winer's Scripting News)
+
+What we call journalism in the US isn’t. 
+
+<http://scripting.com/2024/08/09.html#a174019>
+
+---
+
+## August 8, 2024
+
+date: 2024-08-09, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-8-2024-cc2>
+
+---
+
+## That Time When Twitter CEO Said Smart Things
+
+date: 2024-08-09, from: Om Malik blog
+
+OM:&#160;Do you think that the future of the Internet will involve machines thinking on our behalf Ev:&#160;Yes, they’ll have to. But it’s a combination of machines and the crowd. Data collected from the crowd that is analyzed by machines. For us, at least, that’s the future. Facebook is already like that. YouTube is like that. &#8230; 
+
+<https://om.co/2024/08/09/that-time-when-twitter-ceo-said-smart-things/>
+
+---
+
+## My first ChatGPT app
+
+date: 2024-08-09, from: Dave Winer's Scripting News
+
+<p>4-minute <a href="http://scripting.com/2024/08/09/hallucination.m4a">podcast</a> about my first venture into ChatGPT via its API. </p>
+<p>There's an accompanying <a href="https://github.com/scripting/chatGptHelloWorld/">GitHub repo</a>, with an example app in JavaScript that runs in the browser.</p>
+<p>Includes instructions for setting up and funding a developer account, which was the biggest hurdle. </p>
+<p>Functionality: It tells you <a href="https://www.google.com/search?q=site%3Ascripting.com+%22Bull+Mancuso%22">who</a> Bull Mancuso is. </p>
+<p>Much excitement as I think about integrations I can now do. </p>
+<p>Don't know why I waited so long. <span class="spOldSchoolEmoji">😄</span></p>
+ 
+
+<http://scripting.com/2024/08/09/164417.html?title=myFirstChatgptApp>
+
+---
+
+## Why Fixed Wireless is Stealing the Broadband Show
+
+date: 2024-08-09, from: Om Malik blog
+
+When I visited the Palouse earlier this month, I spent a lot of time driving around the backroads, traveling through many small towns and communities. These towns were no bigger than a few hundred people. I kept coming across signs for “WiFiber.” As an ex-broadband reporter, I looked into the company and found out that &#8230; 
+
+<https://om.co/2024/08/09/why-fixed-wireless-is-stealing-the-broadband-show/>
+
+---
+
+## 2024-08-08 Man pages
 
 date: 2024-08-09, from: Alex Schroeder's Blog
 
-<h1 id="2024-08-09-nncp-setup-automation">2024-08-09 NNCP setup automation</h1>
+<h1 id="2024-08-08-man-pages">2024-08-08 Man pages</h1>
 
-<p>This is a continuation of <a href="2024-07-16-minimal-nncp-setup">the minimal NNCP setup to get started</a>.
-Once we verified that everything works as expected with manual invocations, the next step is automation. There are two options:</p>
+<p>Here&rsquo;s a great thing on the command line. You want to use the command <strong>foo</strong> and don&rsquo;t know how, so you run <strong>man foo</strong> and read the manual page. Sometimes there will be more info in different &ldquo;sections&rdquo;. Commands are in section 1, which is why documentation would sometimes refer to the command &ldquo;foo&rdquo; as <strong>foo(1)</strong> because <strong>foo(5)</strong> might document the file format or the config file that goes along with the command.</p>
 
-<ul>
-<li>Enable all the services. This makes sense if you expect a lot of traffic.</li>
-<li>Only call the executables every now and then. This makes sense if you expect very little traffic.</li>
-</ul>
+<p>If that&rsquo;s news to you, run <strong>man man</strong>. And if you find the structure bewildering, read the manual on how to write manual pages: <strong>man man-pages</strong> (section 7).</p>
 
-<p>If you want to enable all the services, the <code>examples</code> directory has service definitions for you.
-Running <code>nncp-caller</code> only makes sense if there is at least one entry in your <code>/etc/nncp.hjson</code> that has a <code>cron</code> key.</p>
+<p>I&rsquo;ve embraced man pages because when I write Perl code, I can put documentation into the script such that when the script is installed, it automatically works as its own man page – this works for <a href="https://metacpan.org/dist/App-jupiter">jupiter</a>, <a href="https://metacpan.org/dist/App-BookmarkFeed">bookmark-feed</a> – it also works for bigger projects, like <a href="https://metacpan.org/dist/App-Phoebe">phoebe</a> where each extension is also a Perl module and therefore also gets its own man page.</p>
 
-<pre><code>sudo systemctl enable /usr/share/doc/nncp/examples/nncp-daemon.service
-sudo systemctl enable /usr/share/doc/nncp/examples/nncp-caller.service
-sudo systemctl enable /usr/share/doc/nncp/examples/nncp-toss.service
-sudo systemctl start nncp-daemon.service 
-sudo systemctl start nncp-caller.service
-sudo systemctl start nncp-toss.service 
-sudo systemctl status nncp-daemon.service 
-sudo systemctl status nncp-caller.service
-sudo systemctl status nncp-toss.service 
-</code></pre>
+<p>For programming languages where the documentation is more focused on documenting the code, things are different. Of course, there&rsquo;s <code>pydoc</code> for Python code and <code>go doc</code> for Go code, but it&rsquo;s not great. The list of variables and functions are maybe suitable for libraries, but not for applications.</p>
 
-<p>I don&rsquo;t expect a lot of NNCP traffic. This is why my setup on the laptop and server uses the alternative.</p>
+<p>Since I don&rsquo;t enjoy writing man pages directly (<code>man</code> is actually a macro package for the <code>nroff</code> language, see <strong>man nroff</strong>, obviously) I write my documentation in the <a href="https://gitlab.com/ddevault/scdoc">scdoc</a> format. <a class="account" href="https://fosstodon.org/@drewdevault" title="@drewdevault@fosstodon.org">@drewdevault</a> wrote it <a href="https://drewdevault.com/2018/05/13/scdoc.html">in 2018</a>. It looks a bit like Markdown and friends and I like it. I even put a little sequence of <code>sed</code> expressions into a Makefile to turn scdoc into Markdown so that I could publish the man pages on this site, see <a href="oddmu/index">Oddµ man pages</a>.</p>
 
-<p>In order to conserve resources, you could decide not to have these services running all the time.
-I&rsquo;m doing this for two reasons: I don&rsquo;t want to upgrade the virtual machine I&rsquo;m renting. It&rsquo;s a point of pride to do much with very little. From the perspective of impeding collapse, I also think that we should all get on board with <a href="https://wimvanderbauwhede.codeberg.page/articles/frugal-computing-developer/">frugal computing</a> (<a class="account" href="https://scholar.social/@wim_v12e" title="@wim_v12e@scholar.social">@wim_v12e</a>).</p>
+<p>When documentation for a project is a website, I wonder how they serve people offline or with bad connections. Perhaps they want to write the documentation in texinfo? I haven’t done that in a long time but I really enjoy reading a well-written manual like that. And you can get a PDF for free but I’m not sure anybody really wants that. Even a README is bad because in those rare cases where the program gets added to a distro, how will end-users find the README? Man pages are the answer.</p>
 
-<p>Ready for some frugal computing? Here we go.</p>
+<p>README files and offline copies of the HTML documentation have multiple problems: Which directory is it, exactly? <code>/usr/doc</code> does not exist on my system. <code>/usr/share</code> lists lots of package names but these are not the docs. <code>/usr/share/doc</code> is the one! But the problems continue. Which of the directories do you check? Sometimes you&rsquo;re looking at binary and it&rsquo;s also not obvious what the package name would be. <code>find</code> is in <code>/usr/share/doc/findutils</code>, for example. And we&rsquo;re still not done. Which is the file that you want to read when you&rsquo;re faced with <code>BUGS  changelog.Debian.gz  changelog.gz  copyright  README  README.Debian  README.frames  RELEASE-NOTES.txt  WhatsNew.gz</code> – it&rsquo;s README, I guess, but I am always confused. It&rsquo;s all very confusing.</p>
 
-<p>Run the daemon on the server. That is, if other sites know your internet address and call you, then you need this. My laptop does not but my server does. When somebody calls the server on port 5400, start the <code>nncp-daemon</code> using <code>inetd</code> (from the <code>openbsd-inet</code> or the <code>inetutils-inetd</code> packages on Debian).</p>
+<p>Compared to this, man pages are so much better.</p>
 
-<p>In your <code>/etc/inetd.conf</code> file:</p>
+<p>And some package managers like <code>go</code>, <code>pip</code> (Python), <code>cabal</code> (Haskell) and <code>cargo</code> (Rust) don’t install any of these files, I think.</p>
 
-<pre><code>5400	stream	tcp	nowait	nncp	/usr/bin/nncp-daemon	nncp-daemon -quiet -ucspi
-</code></pre>
+<p>I suspect that many developers consider using a website like <a href="https://about.readthedocs.com/">Read the Docs</a> to be good enough. Bad luck for people who are offline or who have bad reception, in hotel rooms with bad wifi, in planes, in trains? My sister lives in the Rhine valley, on the German side, close to Switzerland, in a tiny village of a bit more than 100 people. They have no glass fibre. They have bad reception, both from Switzerland and from Germany. It&rsquo;s terrible! But even for me: I have wifi in the apartment and glass windows that act that block the signal. I have no reception on the balcony unless I use my phone as a hotspot.</p>
 
-<p>Run <code>nncp-call</code> every hour or every day from cron for the systems you want to call.
-Those systems don&rsquo;t need a <code>cron</code> key in the <code>/etc/nncp.hjson</code> file.</p>
+<p>Local documentation that is easy to find is so much better.</p>
 
-<p>This is my laptop calling my server every hour, via <code>/etc/cron.hourly/nncp</code>:</p>
+<p>And man pages are powerful. <em>All</em> of Perl is documented in many pages. All the modules. All the switches. All the language features. I learned to program in Perl from man pages back when my browser was <a href="https://en.wikipedia.org/wiki/NCSA_Mosaic">NCSA Mosaic</a>. (I am a bit astonished to find that I still knew that acronym! But I didn’t know that it stands for National Center for Supercomputing Applications.) Anyway, what I wanted to say is that man pages can be used to document large and complex things. From the command line, they are readily accessible. With the right man reader, they can act as a hypertext, linking to other pages. They don’t have to be terse and cryptic, either. Man pages can be tutorials, introductions, FAQs, and more. And if you write man pages using a suitable format, you can still generate HTML pages with links.</p>
 
-<pre><code>#!/bin/sh
-if [ -x /usr/bin/nncp-call ]; then
-        su nncp -s /bin/sh -c &quot;/usr/bin/nncp-call sibirocobombus -noprogress&quot;
-fi
-</code></pre>
+<p>If you&rsquo;re not writing man pages, if your community doesn&rsquo;t have the habit of writing man pages, start small. Get <code>scdoc</code> and write a little something. Skim <strong>man man-pages</strong> and learn about the conventions, then write some text files. Then use <code>scdoc &lt; text-file &gt; man-page</code> to create the file and install them into <code>~/.local/share/man</code>, following the conventions. A page from section 1 (commands) has the extension &ldquo;.1&rdquo; and goes into <code>~/.local/share/man/man1</code> whereas a page from section 5 (file formats and config files) has the extension &ldquo;.5&rdquo; and goes into <code>~/.local/share/man/man5</code>.</p>
 
-<p>This is on the laptop, for my neighbours <code>erebor</code> and <code>quux</code> in <code>/etc/cron.daily/nncp</code>:</p>
+<p><a class="tag" href="/search/?q=%23Programming">#Programming</a> <a class="tag" href="/search/?q=%23Software">#Software</a> <a class="tag" href="/search/?q=%23Documentation">#Documentation</a></p>
 
-<pre><code>if [ -x /usr/bin/nncp-call ]; then
-    for neighbour in erebor quux; do
-        su nncp -s /bin/sh -c &quot;/usr/bin/nncp-call erebor -noprogress&quot;
-    done
-fi
-</code></pre>
+<p><strong>2024-08-09</strong>. At one point I was interested in <a href="2018-03-05_Troff">using troff as an alternative to LaTeX</a>, so not to write documentation but to create PDFs, and I kept eyeing the <a href="http://www.schaffter.ca/mom/mom-01.html">mom macros</a>. But before I could give them a try I discovered how to <a href="2020-07-24_Writing_Markdown,_generating_PDF">create PDFs using Markdown to HTML to PDF</a> via weasyprint and that has been my workflow ever since. For a zine I’m contributing to, however, I’m using <a href="https://www.gnu.org/software/groff/">groff</a> and the <a href="https://www.troff.org/using-ms.pdf">ms macros</a> because that’s what’s in the Makefile…</p>
 
-<p>This is for the server, tossing stuff once per hour, via <code>/etc/cron.hourly/nncp</code>:</p>
+<p>The reason I write this all up is that flexibeast wrote in, saying that man pages can be written using the semantics-oriented <a href="https://man.openbsd.org/mdoc.7">mdoc macros</a> instead of the presentation-oriented <a href="https://man.openbsd.org/man.7">man macros</a> – and they had written an <a href="https://github.com/flexibeast/guides/blob/master/mdoc-quickstart.md">mdoc quickstart guide</a>. Nice!</p>
 
-<pre><code>#!/bin/sh
-if [ -x /usr/bin/nncp-toss ]; then
-	su nncp -s /bin/sh -c &quot;/usr/bin/nncp-toss&quot;
-fi
-</code></pre>
+<p>I really have to take a look at <a href="https://man.openbsd.org/mandoc.1">mandoc</a> as a groff alternative.</p> 
 
-<p>Adding <code>autotoss: true</code> only helps for the system calling others. On the server, tossing needs to happen on a regular basis.</p>
-
-<p>Finally, you can do some clean-up by copying <code>/usr/share/doc/nncp/examples/cron-daily-nncp</code> to <code>/etc/cron.daily/nncp-cleanup</code>.</p>
-
-<p>I&rsquo;m using the following, both on the laptop and the server:</p>
-
-<pre><code>#!/bin/bash
-
-if [ -x /usr/bin/nncp-rm ]; then
-    for TYPE in part seen hdr area; do
-            su nncp -s /bin/bash -c &quot;nncp-rm -quiet -all -older 7d -$TYPE&quot;
-    done
-    su nncp -s /bin/bash -c &quot;nncp-rm -quiet -tmp -older 7d&quot;
-fi
-</code></pre>
-
-<p><a class="tag" href="/search/?q=%23NNCP">#NNCP</a></p> 
-
-<https://alexschroeder.ch/view/2024-08-09-nncp-automation>
+<https://alexschroeder.ch/view/2024-08-08-man-pages>
 
 ---
 
@@ -129,54 +174,6 @@ date: 2024-08-09, from: Robert Reich's blog
 Many of them are responding angrily to a rigged system. It&#8217;s not enough that we beat Trump on Election Day. To beat Trumpism, we must also unrig the system. 
 
 <https://robertreich.substack.com/p/bonus-debunking-myth-trump-supporters>
-
----
-
-## 2024-08-08 Man pages
-
-date: 2024-08-09, from: Alex Schroeder's Blog
-
-<h1 id="2024-08-08-man-pages">2024-08-08 Man pages</h1>
-
-<p>Here&rsquo;s a great thing on the command line. You want to use the command <strong>foo</strong> and don&rsquo;t know how, so you run <strong>man foo</strong> and read the manual page. Sometimes there will be more info in different &ldquo;sections&rdquo;. Commands are in section 1, which is why documentation would sometimes refer to the command &ldquo;foo&rdquo; as <strong>foo(1)</strong> because <strong>foo(5)</strong> might document the file format or the config file that goes along with the command.</p>
-
-<p>If that&rsquo;s news to you, run <strong>man man</strong>. And if you find the structure bewildering, read the manual on how to write manual pages: <strong>man man-pages</strong> (section 7).</p>
-
-<p>I&rsquo;ve embraced man pages because when I write Perl code, I can put documentation into the script such that when the script is installed, it automatically works as its own man page – this works for <a href="https://metacpan.org/dist/App-jupiter">jupiter</a>, <a href="https://metacpan.org/dist/App-BookmarkFeed">bookmark-feed</a> – it also works for bigger projects, like <a href="https://metacpan.org/dist/App-Phoebe">phoebe</a> where each extension is also a Perl module and therefore also gets its own man page.</p>
-
-<p>For programming languages where the documentation is more focused on documenting the code, things are different. Of course, there&rsquo;s <code>pydoc</code> for Python code and <code>go doc</code> for Go code, but it&rsquo;s not great. The list of variables and functions are maybe suitable for libraries, but not for applications.</p>
-
-<p>Since I don&rsquo;t enjoy writing man pages directly (<code>man</code> is actually a macro package for the <code>nroff</code> language, see <strong>man nroff</strong>, obviously) I write my documentation in the <a href="https://gitlab.com/ddevault/scdoc">scdoc</a> format. <a class="account" href="https://fosstodon.org/@drewdevault" title="@drewdevault@fosstodon.org">@drewdevault</a> wrote it <a href="https://drewdevault.com/2018/05/13/scdoc.html">in 2018</a>. It looks a bit like Markdown and friends and I like it. I even put a little sequence of <code>sed</code> expressions into a Makefile to turn scdoc into Markdown so that I could publish the man pages on this site, see <a href="oddmu/index">Oddµ man pages</a>.</p>
-
-<p>When documentation for a project is a website, I wonder how they serve people offline or with bad connections. Perhaps they want to write the documentation in texinfo? I haven’t done that in a long time but I really enjoy reading a well-written manual like that. And you can get a PDF for free but I’m not sure anybody really wants that. Even a README is bad because in those rare cases where the program gets added to a distro, how will end-users find the README? Man pages are the answer.</p>
-
-<p>README files and offline copies of the HTML documentation have multiple problems.</p>
-
-<ul>
-<li>Which directory is it, exactly? <code>/usr/doc</code> does not exist on my system. <code>/usr/share</code> lists lots of package names but these are not the docs. <code>/usr/share/doc</code> is the one! But the problems continue. Which is the file that you want to read when you&rsquo;re faced with <code>BUGS  changelog.Debian.gz  changelog.gz  copyright  README  README.Debian  README.frames  RELEASE-NOTES.txt  WhatsNew.gz</code> – it&rsquo;s README, I guess, but I am always confused. Sometimes you&rsquo;re looking at binary and it&rsquo;s also not obvious what the package name would be. <code>find</code> is in <code>/usr/share/doc/findutils</code>, for example.</li>
-</ul>
-
-<p>Compared to this, man pages are so much better.</p>
-
-<p>And some package managers like <code>go</code>, <code>pip</code> (Python), <code>cabal</code> (Haskell) and <code>cargo</code> (Rust) don’t install any of these files, I think.</p>
-
-<p>I suspect that many developers consider using a website like <a href="https://about.readthedocs.com/">Read the Docs</a> to be good enough. Bad luck for people who are offline or who have bad reception, in hotel rooms with bad wifi, in planes? My sister lives in the Rhine valley, on the German side, close to Switzerland, in a tiny village of a bit more than 100 people. They have no glass fibre. They have bad reception, both from Switzerland and from Germany. It&rsquo;s terrible! But even for me: I have wifi in the apartment and glass windows that act that block the signal. I have no reception on the balcony unless I use my phone as a hotspot.</p>
-
-<p>Local documentation that is easy to find is so much better.</p>
-
-<p>And man pages are powerful. <em>All</em> of Perl is documented in many pages. All the modules. All the switches. All the language features. I learned to program in Perl from man pages back when my browser was <a href="https://en.wikipedia.org/wiki/NCSA_Mosaic">NCSA Mosaic</a>. (I am a bit astonished to find that I still knew that acronym! But I didn’t know that it stands for National Center for Supercomputing Applications.) Anyway, what I wanted to say is that man pages can be used to document large and complex things. From the command line, they are readily accessible. With the right man reader, they can act as a hypertext, linking to other pages. They don’t have to be terse and cryptic, either. Man pages can be tutorials, introductions, FAQs, and more. And if you write man pages using a suitable format, you can still generate HTML pages with links.</p>
-
-<p>If you&rsquo;re not writing man pages, if your community doesn&rsquo;t have the habit of writing man pages, start small. Get <code>scdoc</code> and write a little something. Skim <strong>man man-pages</strong> and learn about the conventions, then write some text files. Then use <code>scdoc &lt; text-file &gt; man-page</code> to create the file and install them into <code>~/.local/share/man</code>, following the conventions. A page from section 1 (commands) has the extension &ldquo;.1&rdquo; and goes into <code>~/.local/share/man/man1</code> whereas a page from section 5 (file formats and config files) has the extension &ldquo;.5&rdquo; and goes into <code>~/.local/share/man/man5</code>.</p>
-
-<p><a class="tag" href="/search/?q=%23Programming">#Programming</a> <a class="tag" href="/search/?q=%23Software">#Software</a> <a class="tag" href="/search/?q=%23Documentation">#Documentation</a></p>
-
-<p><strong>2024-08-09</strong>. At one point I was interested in <a href="2018-03-05_Troff">using troff as an alternative to LaTeX</a>, so not to write documentation but to create PDFs, and I kept eyeing the <a href="http://www.schaffter.ca/mom/mom-01.html">mom macros</a>. But before I could give them a try I discovered how to <a href="2020-07-24_Writing_Markdown,_generating_PDF">create PDFs using Markdown to HTML to PDF</a> via weasyprint and that has been my workflow ever since. For a zine I’m contributing to, however, I’m using <a href="https://www.gnu.org/software/groff/">groff</a> and the <a href="https://www.troff.org/using-ms.pdf">ms macros</a> because that’s what’s in the Makefile…</p>
-
-<p>The reason I write this all up is that flexibeast wrote in, saying that man pages can be written using the semantics-oriented <a href="https://man.openbsd.org/mdoc.7">mdoc macros</a> instead of the presentation-oriented <a href="https://man.openbsd.org/man.7">man macros</a> – and they had written an <a href="https://github.com/flexibeast/guides/blob/master/mdoc-quickstart.md">mdoc quickstart guide</a>. Nice!</p>
-
-<p>I really have to take a look at <a href="https://man.openbsd.org/mandoc.1">mandoc</a> as a groff alternative.</p> 
-
-<https://alexschroeder.ch/view/2024-08-08-man-pages>
 
 ---
 
@@ -276,7 +273,7 @@ date: 2024-08-08, updated: 2024-08-08, from: Daring Fireball
 
 ## Find Any File 2.5
 
-date: 2024-08-08, updated: 2024-08-08, from: Daring Fireball
+date: 2024-08-08, updated: 2024-08-10, from: Daring Fireball
 
  
 
@@ -731,165 +728,6 @@ date: 2024-08-07, updated: 2024-08-07, from: Jason Kittke's blog
  
 
 <https://kottke.org/24/08/how-technology-is-making-olympics-mountain-bikers-faster>
-
----
-
-## 2024-08-06 Pocket Reform
-
-date: 2024-08-07, from: Alex Schroeder's Blog
-
-<h1 id="2024-08-06-pocket-reform">2024-08-06 Pocket Reform</h1>
-
-<p>I got my <a href="https://www.crowdsupply.com/mnt/pocket-reform">MNT Pocket Reform</a> miniature laptop!
-I&rsquo;m hoping that this will be my new travel laptop as the Purism laptop I got <a href="2017-12-23_New_Laptop">back in 2017</a> has a <a href="2021-08-26_New_laptop%2C_again%E2%80%BD">broken hinge</a>. The two halves are attached to each other using two super strong hinges. The hinges are so strong, in fact, that one of them ripped its screws out of the plastic. So now the screen is held up by just one super strong hinge and don&rsquo;t really want to open or close it all that often for fear of breaking it.</p>
-
-<p>Here are my initial impressions of the new MNT Pocket Reform.</p>
-
-<p>It is small, but chunky. It&rsquo;s definitely not flat. It also isn&rsquo;t heavy, so I&rsquo;m happy.
-The small keyboard and the small trackball work.</p>
-
-<p>I was unable to power it on for the longest time.
-I had two problems.</p>
-
-<p>First, there&rsquo;s a small standby power switch on the left hand side that you need to turn on.
-The manual suggests &ldquo;using a pointed object such as a SIM card ejector.&rdquo;
-Which I managed to find. And then what do you do?
-You use the SIM card ejector like you always do: stab it into the small hole.
-So I did that for a bit, wondering at the empty spaces I was a able to reach.
-What was I supposed to press?
-It was only when I started to really look into the small hole that I realized: there was actually something to be moved left and right within it!</p>
-
-<p>Second, the manual says that to turn it on, &ldquo;hold <em>Hyper</em> + <em>Enter</em> for more than 2 seconds.&rdquo;
-I pressed those two keys and the OLED display lit up. There was the menu! There it said &ldquo;Power On&rdquo;. I picked it.
-Nothing happened. Then the OLED display showed a tiny &ldquo;T&rdquo; in the upper left corner.
-I did this again and again, exploring the small menu.
-The laptop wouldn&rsquo;t power on no matter how often I selected the menu.
-That&rsquo;s because I didn&rsquo;t press <em>Hyper</em> + <em>Enter</em> for <em>more than 2 seconds</em>!
-Press those keys until the keyboard lights up with the pink backlights.</p>
-
-<p>I setup my root passwords, created my user account, ran <code>sudo apt update</code> and <code>sudo apt upgrade</code> and looked around at things.
-After a few minutes I noticed that there is no indication of the batteries charging.
-That made me nervous for a while as I kept seeing that &ldquo;1%&rdquo; charge in the top right corner.
-It&rsquo;s probably charging, I thought.
-Then the laptop turned off. Oh!
-I guess it wasn&rsquo;t charging after all.
-What did I miss?
-Now that it is powered off, I see that the load percentage starts climbing again.</p>
-
-<p>This is what it says right now:</p>
-
-<pre><code>🔋 3.6                8%
-🔋 3.7               Off
-                  -1.07A
-                  7.57V
-</code></pre>
-
-<p>Why is the second battery off?
-The manual doesn&rsquo;t explain what On/Off on the second line means.
-It&rsquo;s an indication of whether the computer is on or off!
-For the longest time I thought that the first battery had some charge and the second battery was &ldquo;off&rdquo;.
-Once I rebooted, it changed to &ldquo;On&rdquo;.</p>
-
-<p>In any case, it seems that my problem is that when the laptop powers on without being connected to a charger, it won&rsquo;t charge if you do connect it.
-Perhaps a new system image would fix it?
-I&rsquo;m not sure. I downloaded an image, unzipped it, wrote it to a microSD card, and maybe booted from it, but nothing seemed to have changed.
-I had to provide a root password and a first username and another password… and that&rsquo;s it.
-Was I supposed to run a command? I don&rsquo;t know.
-Did the <code>apt update &amp;&amp; apt upgrade</code> fix the problem? I don&rsquo;t know.</p>
-
-<p>Anyway, when the laptop suddenly lost power (see above) I waited for it to recharge for a bit and rebooted.
-It looked like this had corrupted the disk, somehow.
-There are plenty of recovery messages and percentages ending with an error because something cannot be written to the read-only file system.</p>
-
-<p>The output ends with the following, in an extremely tiny font:</p>
-
-<pre><code>...
-mount: mounting /dev/mmcblk2p2 on /root failed: Structure needs cleaning
-Failed to mount /dev/mmcblk2p2 as root file system
-</code></pre>
-
-<p>And now I am dropped in the <code>initramfs</code>.
-I try figure what I&rsquo;m supposed to do.
-I search for some keywords online but don&rsquo;t understand what I&rsquo;m seeing.
-Finally, I try to leave with <code>exit</code>, Ctrl+D and whatever else I can think off.
-I reboot. This time there are fewer messages about the filesystem and then I&rsquo;m
-back at the login prompt.
-It fixed itself.</p>
-
-<p>Phew!</p>
-
-<p>I&rsquo;m back.</p>
-
-<p>My take-away is this: usability and user interface issues both large and small remain a challenge in computers.</p>
-
-<p><a class="tag" href="/search/?q=%23Gadgets">#Gadgets</a> <a class="tag" href="/search/?q=%23Laptop">#Laptop</a> <a class="tag" href="/search/?q=%23Reform">#Reform</a></p>
-
-<p><strong>2024-08-07</strong>. Before the login prompt is shown, there is a long and helpful
-introduction that flashes by. At the login prompt, you can specify a different
-command to run instead of starting the window manager. I did that, specifying
-<code>/usr/bin/fish</code> (I have installed <code>fish</code> and prefer it over the default shell,
-<code>bash</code>). This allows you to read the message. I guess it&rsquo;s the
-<code>/etc/reform-help</code> message.</p>
-
-<p>Specifically, I learned about all the commands starting with <code>reform-</code>. Nice!
-In the manual these tools are mentioned on page 50.</p>
-
-<p>When I run <code>sudo reform-check</code>, it tells me that &ldquo;eMMC does not contain the latest
-uboot&rdquo; and that I can run <code>reform-flash-uboot emmc</code> to fix it. Do I dare?
-The following two messages are shown and they are not identical. That&rsquo;s a bit strange.</p>
-
-<pre><code>W: /boot/flash.bin is not the latest uboot
-W: You can update it to the latest version by running as root:
-reform-flash-uboot
-W: eMMC does not contain latest uboot
-W: You can update it to the latest version by running as root:
-reform-flash-uboot emmc
-</code></pre>
-
-<p>I guess I&rsquo;ll run the first command and then <code>reform-check</code> again.</p>
-
-<p>In the meantime I saw that I don&rsquo;t have the <code>pocket-reform-handbook</code> installed
-but that I do have the <code>reform-handbook</code>. Heh. (The MNT Reform is the bigger
-laptop.)</p>
-
-<p>Anyway, when I run <code>reform-flash-uboot</code> without arguments, I get an error.</p>
-
-<pre><code>/usr/sbin/reform-flash-uboot: 59: MMC_BOOT: parameter not set
-</code></pre>
-
-<p>I cannot decide whether this is a typo or not. It looks like one?</p>
-
-<pre><code>alex@subterraneobombus ~&gt; sudo nl /usr/sbin/reform-flash-uboot|grep MMC_BOOT
-    27	if [ &quot;$EMMC_BOOT&quot; = false ]; then
-    49		if [ &quot;$EMMC_BOOT&quot; = true ] &amp;&amp; [ &quot;$SD_BOOT&quot; = true ]; then
-    53		elif [ &quot;$MMC_BOOT&quot; = true ]; then
-    60		if [ &quot;$EMMC_BOOT&quot; = true ] &amp;&amp; [ &quot;$SD_BOOT&quot; = true ]; then
-    71		elif [ &quot;$MMC_BOOT&quot; = true ]; then
-alex@subterraneobombus ~&gt; grep MMC_BOOT &quot;/usr/share/reform-tools/machines/MNT Pocket Reform with
- i.MX8MP Module.conf&quot;
-EMMC_BOOT=true
-</code></pre>
-
-<p>Do I really want to do this? Luckily, I mentioned this issue on IRC, and <a class="account" href="https://floss.social/@josch" title="@josch@floss.social">@josch</a> pointed me to this post by <a class="account" href="https://macaw.social/@andypiper" title="@andypiper@macaw.social">@andypiper</a>: <a href="https://community.mnt.re/t/updating-uboot/2348">Updating uboot?</a>. This is the important bit:</p>
-
-<blockquote>
-<p>Do <em>not</em> flash u-boot to emmc on the pocket reform.
-There is a bug in the u-boot offset which will make your pocket unbootable if you fix the other bug in reform-flash-uboot. – josch on IRC</p>
-</blockquote>
-
-<p>Oof! Disaster narrowly avoided. And now I understand what Andy Piper means when he writes:</p>
-
-<blockquote>
-<p>I also managed to temporarily brick the machine by corrupting the uboot in flash, and needed to rig it up with Dupont wires on headers and access the machine from another via USB to get back to where I wanted to be. – <a href="https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/">MNT Pocket Reform: first impressions</a></p>
-</blockquote>
-
-<p>Andy&rsquo;s post had a screenshot showing the fediverse client <a href="https://tuba.geopjr.dev/">Tuba</a> which is available on Debian testing. Nice! I&rsquo;ll give it a try.</p>
-
-<p>Tuba requires a &ldquo;login&rdquo; keyring so I had to install <code>seahorse</code> also known as &ldquo;Passwords and Keys&rdquo;.</p>
-
-<p>Back to small things to watch out for. When I run <code>apt update</code> it ends with a notice saying: &ldquo;Missing Signed-By in the sources.list(5) entry for <code>https://mnt.re/reform-debian-repo</code>&rdquo;</p> 
-
-<https://alexschroeder.ch/view/2024-08-06-pocket-reform>
 
 ---
 

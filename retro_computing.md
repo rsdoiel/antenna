@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.32
-updated: 2024-08-09 08:57:07
+updated: 2024-08-10 09:33:14
 ---
 
 # retro computing 2024.32
 
-(date: 2024-08-09 08:57:07)
+(date: 2024-08-10 09:33:14)
+
+---
+
+## b.log 2024/08/09 - Rubbish bags gone, A new desk.
+
+date: 2024-08-09, from: Richard Murray's blog
+
+Rubbish bags gone, A new desk. 
+
+<https://heyrick.eu/blog/index.php?diary=20240809>
 
 ---
 
@@ -49,7 +59,7 @@ date: 2024-08-08, from: FreeDOS News
 
 ---
 
-## WROCC August 2024 meeting - Paul Reuvers (XAT) X
+## WROCC August 2024 meeting - Paul Reuvers (XAT)
 
 date: 2024-08-08, from: Icon Bar, RISC OS News
 

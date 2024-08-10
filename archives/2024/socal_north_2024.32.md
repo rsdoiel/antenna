@@ -1,11 +1,73 @@
 ---
 title: socal north 2024.32
-updated: 2024-08-09 08:56:59
+updated: 2024-08-10 09:33:09
 ---
 
 # socal north 2024.32
 
-(date: 2024-08-09 08:56:59)
+(date: 2024-08-10 09:33:09)
+
+---
+
+## Open Wings Theatre to Present “Sagittarius Ponderosa” at The MAIN
+
+date: 2024-08-09, from: City of Santa Clarita
+
+<p>Experience a Bittersweet Production of Family, Identity and Change Experience the poignant and thought-provoking world of &#8220;Sagittarius Ponderosa,&#8221; a play that delves into the complexities of family, identity and transformation. Written by MJ Kaufman and directed by Skylar Reede, “Sagittarius Ponderosa” takes place amidst a family&#8217;s time of transition. Archer, still known to their family [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/08/09/open-wings-theatre-to-present-sagittarius-ponderosa-at-the-main/">Open Wings Theatre to Present &#8220;Sagittarius Ponderosa&#8221; at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/08/09/open-wings-theatre-to-present-sagittarius-ponderosa-at-the-main/>
+
+---
+
+## Rosie Cadman passes away at 99
+
+date: 2024-08-09, from: Catalina Islander
+
+Perhaps the only woman in Avalon with the power to stop pedestrian traffic on Crescent Avenue, Rosie Cadman meandered like royalty through the island streets for most of her life. “Rosie,” to many, “Grandma” to others, Rosie Cadman was a once-in-a-lifetime citizen of Catalina who left an indelible mark on the island’s lore after nearly [&#8230;] 
+
+<https://thecatalinaislander.com/rosie-cadman-passes-away-at-99/>
+
+---
+
+## Eight decades of island love
+
+date: 2024-08-09, from: Catalina Islander
+
+Editor’s note: This article was originally published 2018. It has been updated. If Catalina Island had a queen, there is little doubt who would currently wear the crown. After turning 93, Rosie Cadman has become Catalina royalty, holding court daily on the pier where she fell in love with the island seven decades ago. Her [&#8230;] 
+
+<https://thecatalinaislander.com/eight-decades-of-island-love/>
+
+---
+
+## Possible record-setting Zipliner
+
+date: 2024-08-09, from: Catalina Islander
+
+Former Avalon resident Marlee Fritzsch recently finished a summer back on the island, visiting with friends. While here, she extended an invitation to her 93-year-old grandfather to join her during her stay. When he accepted the invitation, he inquired about the possibility of taking a ride on the Zipline. Marlee had worked at the Zipline [&#8230;] 
+
+<https://thecatalinaislander.com/possible-record-setting-zipliner/>
+
+---
+
+## Council  extends moratorium for short-term rental licenses
+
+date: 2024-08-09, from: Catalina Islander
+
+The City Council on Tuesday, Aug. 6, voted unanimously to extend the current moratorium on issuing short-term rental licenses. The decision required a four-fifths vote to pass, but received yes votes from all five council members. The moratorium is now extended to July 30, 2023. During the council meeting, City Manager David Maistros said going [&#8230;] 
+
+<https://thecatalinaislander.com/council-extends-moratorium-for-short-term-rental-licenses/>
+
+---
+
+## Sheriff’s Log: Aug. 1 to Aug. 7, 2024
+
+date: 2024-08-09, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Aug. 1 to Aug. 7, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<https://thecatalinaislander.com/sheriffs-log-aug-1-to-aug-7-2024/>
 
 ---
 
@@ -243,7 +305,7 @@ date: 2024-08-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-08-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/AutoZone-Memorial_SN_03-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Familiares y amigos están de luto por la pérdida de Oswaldo “Gambino” Balderas, un joven de 20 años de la ciudad de San Fernando. “Es una vergüenza cómo se les [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/08/07/los-residentes-de-la-ciudad-de-san-fernando-lamentan-la-perdida-de-la-victima-del-tiroteo/">Los Residentes de la Ciudad de San Fernando Lamentan la Pérdida de la Víctima del Tiroteo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -268,7 +330,7 @@ date: 2024-08-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-08-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="798" height="446" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?fit=798%2C446&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?w=798&amp;ssl=1 798w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?resize=300%2C168&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?resize=768%2C429&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?resize=400%2C224&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?resize=706%2C395&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?fit=798%2C446&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="798" height="446" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?fit=798%2C446&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?w=798&amp;ssl=1 798w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?resize=300%2C168&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?resize=768%2C429&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?resize=400%2C224&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?resize=706%2C395&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pano-rendering-v1.jpg?fit=798%2C446&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Un motel en Panorama City, anteriormente considerado obsoleto, está siendo convertido en vivienda de apoyo permanente por Los Angeles Family Housing (LAFH) para personas sin hogar. El Panorama Motel de [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/08/07/un-motel-en-ruinas-de-panorama-city-se-convertira-en-un-hogar-permanente-para-las-personas-sin-hogar/">Un Motel en Ruinas de Panorama City se Convertirá en un Hogar Permanente para las Personas Sin Hogar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -304,7 +366,7 @@ date: 2024-08-08, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-08-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/005-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Cerca de 300 familias sin hogar fueron invitadas a asistir a una feria de regreso a clases en Sylmar para recibir mochilas, útiles escolares, libros, tenis, calcetines y camisetas gratis [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/08/07/el-evento-de-regreso-a-clases-ayuda-a-los-ninos-y-familias-sin-hogar/">El Evento de Regreso a Clases Ayuda a los Niños y Familias Sin Hogar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -362,7 +424,7 @@ The Bruins took to the Big Ten Network Studios in Chicago for the 2024 Big Ten V
 
 date: 2024-08-07, from: The Daily Trojan (USC Student Newspaper)
 
-<p>The McClintock Avenue and McCarthy Way entrances will be open 24 hours per day, but all other entrances will be open from 6 a.m. to 8 p.m. on weekdays.</p>
+<p>All pedestrian entrances will be open 24 hours per day. Other vehicle entrances will be open from 6 a.m. to 8 p.m. on weekdays.</p>
 <p>The post <a href="https://dailytrojan.com/2024/08/07/all-campus-gates-to-open-aug-15-id-still-required-to-enter/">All campus gates to open Aug. 15, ID still required to enter</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
