@@ -1,11 +1,11 @@
 ---
 title: pacific 2024.32
-updated: 2024-08-10 09:33:09
+updated: 2024-08-10 17:48:31
 ---
 
 # pacific 2024.32
 
-(date: 2024-08-10 09:33:09)
+(date: 2024-08-10 17:48:31)
 
 ---
 
@@ -50,6 +50,16 @@ The post <a href="https://www.hawaii.edu/news/2024/08/09/uh-alumni-valerie-kan-d
 
 ---
 
+## The Best Deals for This Back-to-School Season
+
+date: 2024-08-09, updated: 2024-08-09, from: Marianas Variety
+
+(BPT) - This time of year isn't just back-to-school time, it's also "back-to-sport" season! As kids head back to the classroom and onto the field, it's time to get them geared up and ready to learn, play and have fun. To help you find great deals for apparel, shoes and gear this fall, Academy Sports + Outdoors is your best destination for budget-friendly and trend-forward back-to-school shopping. 
+
+<https://www.mvariety.com/online_features/family_living/the-best-deals-for-this-back-to-school-season/article_f628609b-6881-59e2-8a30-9d9b3c48eca8.html>
+
+---
+
 ## U.S. men’s volleyball suffers heartbreaking loss in Olympics semifinals
 
 date: 2024-08-09, from: Hawaii Tribune Harold
@@ -59,6 +69,26 @@ date: 2024-08-09, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/08/09/sports/u-s-mens-volleyball-suffers-heartbreaking-loss-in-olympics-semifinals/>
+
+---
+
+## Tips Worthy of Gold: Champions Share Their Secret to Smooth Skin
+
+date: 2024-08-09, updated: 2024-08-10, from: Marianas Variety
+
+(BPT) - If you struggle to maintain smooth skin, free from unwanted hair all summer long, you might wonder how champions from a Team USA athlete to a top dermatologist manage it. 
+
+<https://www.mvariety.com/online_features/health_and_wellness/tips-worthy-of-gold-champions-share-their-secret-to-smooth-skin/article_1e0f4a5a-c38e-5837-9be8-bced8d7336b4.html>
+
+---
+
+## Guam's activist sector breaking apart?
+
+date: 2024-08-09, from: Pacific Island Times
+
+Ritidian families split from Prutehi Litekyan  By Pacific Island Times News Staff Families who own ancestral lands in Ritidian said they... 
+
+<https://www.pacificislandtimes.com/post/guam-s-activist-sector-breaking-apart>
 
 ---
 
@@ -656,6 +686,26 @@ date: 2024-08-09, from: Island Times
 
 ---
 
+## How People with Disabilities Can Find Help in Their Communities
+
+date: 2024-08-09, updated: 2024-08-09, from: Marianas Variety
+
+(NewsUSA) - The Disability Information and Access Line(DIAL) is national call center that helps people with disabilities get connected to information about local community resources that support independent living. DIAL also provides information about essential services such as transportation, housing support, disability rights and more. Additionally, DIAL has information on COVID-19, flu and other adult vaccines and can help you find how to access vaccines in your community. 
+
+<https://www.mvariety.com/online_features/community_cares/how-people-with-disabilities-can-find-help-in-their-communities/article_474dc9fb-bea6-5c6a-8a63-dbe397556bda.html>
+
+---
+
+## Back-to-School Essential: Protection Against Meningitis
+
+date: 2024-08-09, updated: 2024-08-09, from: Marianas Variety
+
+(Amy Pisani) - The summer heat still lingers, but parents and caregivers have embarked on the annual ritual of preparing children for the school year ahead. Store shelves overflow with school supplies, and dorm décor, a clear sign of this busy season. Amidst the hustle, one crucial task often gets overlooked: ensuring children are up to date on their recommended immunizations. This is especially vital for students heading to college or living in group settings, where reminders or school-entry vaccination requirements may be lacking. 
+
+<https://www.mvariety.com/online_features/health_and_wellness/back-to-school-essential-protection-against-meningitis/article_e2944109-861a-5e73-879b-0fd21ea3f205.html>
+
+---
+
 ## ‘It's Not That Serious Par!’ comedy show happening on Aug. 10
 
 date: 2024-08-09, updated: 2024-08-09, from: Marianas Variety
@@ -734,7 +784,7 @@ The post <a href="https://www.hawaii.edu/news/2024/08/08/lahaina-one-year-later-
 
 ## How to improve your kids' experiences on social media
 
-date: 2024-08-08, updated: 2024-08-08, from: Marianas Variety
+date: 2024-08-08, updated: 2024-08-10, from: Marianas Variety
 
 (BPT) - As kids retreat back indoors after a long summer outside, back-to-school season provides a good opportunity for parents to revisit how their children are using social media to stay connected with their friends. 
 
@@ -1311,6 +1361,16 @@ date: 2024-08-07, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/08/07/image-of-the-week-royal-island/">Image of the Week: Royal island</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/08/07/image-of-the-week-royal-island/>
+
+---
+
+## Leo Palace names new general manager
+
+date: 2024-08-07, from: Pacific Island Times
+
+By Pacific Island Times News Staff LeoPalace Resort Guam has named Schack von Rumohr as the new general manager effective July 29. Von... 
+
+<https://www.pacificislandtimes.com/post/leo-palace-names-new-general-manager>
 
 ---
 
