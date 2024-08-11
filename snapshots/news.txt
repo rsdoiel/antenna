@@ -283,7 +283,7 @@ https://www.levernews.com/rss/ "~The Lever News" curl/8.5.0 (rsdoiel@gmail.com, 
 https://www.logicmatters.net/feed/ "~Logic Matters blog"
 https://www.marginalia.nu/log/index.xml "~Marginallia log"
 https://www.marketplace.org/feed/podcast/marketplace-morning-report "~Marketplace Morning Report"
-https://www.mercurynews.com/feed/ "~San Jose Mercury News"
+#https://www.mercurynews.com/feed/ "~San Jose Mercury News"
 https://www.modos.tech/blog/rss.xml "~Modos Blog"
 https://www.nasa.gov/news-release/feed/ "~NASA breaking news"
 https://www.nmke.de/blog/atom.xml "~Nathan's blog"
