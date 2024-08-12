@@ -1,11 +1,43 @@
 ---
 title: pacific 2024.33
-updated: 2024-08-12 09:38:05
+updated: 2024-08-12 16:40:33
 ---
 
 # pacific 2024.33
 
-(date: 2024-08-12 09:38:05)
+(date: 2024-08-12 16:40:33)
+
+---
+
+## †Maria "Nan Kita" Borja Camacho Santos
+
+date: 2024-08-12, updated: 2024-08-12, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/obituaries/maria-nan-kita-borja-camacho-santos/article_14931fa4-58fa-11ef-922d-532b5ff20f26.html>
+
+---
+
+## UH breaks extramural funding record for 3rd consecutive year with $615.7M in FY 2024
+
+date: 2024-08-12, from: University of Hawaiʻi News
+
+<p>Extramural projects support research and innovation that helps to increase the knowledge base and provide solutions that impact the quality of life across <span aria-label="Hawaii">Hawai&#699;i</span> and beyond.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/12/extramural-funding-record-fy-2024/"><abbr>UH</abbr> breaks extramural funding record for 3rd consecutive year with $615.7<abbr>M</abbr> in <abbr>FY</abbr> 2024</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/12/extramural-funding-record-fy-2024/>
+
+---
+
+## Hundreds celebrate UH alumni’s food, drink, new products
+
+date: 2024-08-12, from: University of Hawaiʻi News
+
+<p>The 2024 <abbr>UH</abbr> Alumni Makers’ Market highlighted 41 alumni-owned or operated businesses.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/12/makers-market-2024/">Hundreds celebrate <abbr>UH</abbr> alumni’s food, drink, new products</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/12/makers-market-2024/>
 
 ---
 

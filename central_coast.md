@@ -1,11 +1,100 @@
 ---
 title: central coast 2024.33
-updated: 2024-08-12 09:38:06
+updated: 2024-08-12 16:40:34
 ---
 
 # central coast 2024.33
 
-(date: 2024-08-12 09:38:06)
+(date: 2024-08-12 16:40:34)
+
+---
+
+## CHP Plans Crackdown on Speeders Traveling to Monterey Car Week
+
+date: 2024-08-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Three high-end vehicles were among those stopped in the Santa Ynez Valley on Wednesday due to excessive speed." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Heed the speed laws.&#160; That’s the message from law enforcement officers for exotic car drivers enticed by the Central Coast’s seemingly open roads. The California Highway Patrol’s Coastal Division will [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/chp-plans-crackdown-on-speeders-traveling-to-monterey-car-week/">CHP Plans Crackdown on Speeders Traveling to Monterey Car Week</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/chp-plans-crackdown-on-speeders-traveling-to-monterey-car-week/>
+
+---
+
+## Harold Gillilan of Carpinteria, 1931-2024
+
+date: 2024-08-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="350" height="449" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-HGillilan-350.gif?fit=350%2C449&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Harold Gillilan" decoding="async" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>In his 93 years on this earth, Harold Gillilan was never bored a single day. Before the age of YouTube and the World Wide Web, he taught himself to pick [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/harold-gillilan-of-carpinteria-1931-2024/">Harold Gillilan of Carpinteria, 1931-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/harold-gillilan-of-carpinteria-1931-2024/>
+
+---
+
+## Jury Finds Santa Barbara Woman Guilty of Attempted Murder for 2021 Stabbing
+
+date: 2024-08-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="After four weeks of trial for an attempted murder case, a Superior Court jury is deliberating. Cora Vides, 21, is accused of stabbing a classmate and friend at her home three years ago." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080224-Figueroa-court-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A jury reached a verdict Monday morning and found a Santa Barbara woman guilty of attempted murder for stabbing her former classmate. Cora Vides, 21, was found guilty of premeditation [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/jury-finds-santa-barbara-woman-guilty-of-attempted-murder-for-2021-stabbing/">Jury Finds Santa Barbara Woman Guilty of Attempted Murder for 2021 Stabbing</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/jury-finds-santa-barbara-woman-guilty-of-attempted-murder-for-2021-stabbing/>
+
+---
+
+## Neighbors Help Isla Vista Man Injured in Apartment Fire
+
+date: 2024-08-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>An Isla Vista man was transported to a local hospital after a small fire in his apartment Sunday evening, according to the Santa Barbara County Fire Department. The fire was [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/neighbors-help-isla-vista-man-injured-in-apartment-fire/">Neighbors Help Isla Vista Man Injured in Apartment Fire</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/neighbors-help-isla-vista-man-injured-in-apartment-fire/>
+
+---
+
+## Mary Hunt: 13 Money-Saving Hacks for Back-to-School Shopping on a Budget
+
+date: 2024-08-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Money’s tight, and time’s ticking. So here’s my top-notch advice to keep back-to-school clothes shopping from draining your wallet. First things first, set your budget. Seriously, how much cash (not [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/mary-hunt-13-money-saving-hacks-for-back-to-school-shopping-on-a-budget/">Mary Hunt: 13 Money-Saving Hacks for Back-to-School Shopping on a Budget</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/mary-hunt-13-money-saving-hacks-for-back-to-school-shopping-on-a-budget/>
+
+---
+
+## Experience Growth and Fun With 805 Beach Volleyball for Kids, Teens, and Adults
+
+date: 2024-08-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="749" height="609" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/805-Beach-Photo-Huddled-Up-1.png?fit=749%2C609&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/805-Beach-Photo-Huddled-Up-1.png?w=749&amp;ssl=1 749w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/805-Beach-Photo-Huddled-Up-1.png?resize=300%2C244&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/805-Beach-Photo-Huddled-Up-1.png?resize=400%2C325&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/805-Beach-Photo-Huddled-Up-1.png?resize=706%2C574&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/805-Beach-Photo-Huddled-Up-1.png?fit=749%2C609&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>805 Beach currently offers Fall and Spring after school beach volleyball clinics. They also offer a variety of adult volleyball experiences, including adult leagues, beginner clinics and advanced classes</p>
+<p>The post <a href="https://www.noozhawk.com/experience-growth-and-fun-with-805-beach-volleyball-for-kidsteens-and-adults/">Experience Growth and Fun With 805 Beach Volleyball for Kids, Teens, and Adults</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/experience-growth-and-fun-with-805-beach-volleyball-for-kidsteens-and-adults/>
+
+---
+
+## Frederick Lemere of Carpinteria, 1932-2024
+
+date: 2024-08-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="752" height="1024" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Fred-Lemere-21-scaled-e1723488087437.jpg?fit=752%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Frederick Lemere" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Fred-Lemere-21-scaled-e1723488087437.jpg?w=1642&amp;ssl=1 1642w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Fred-Lemere-21-scaled-e1723488087437.jpg?resize=220%2C300&amp;ssl=1 220w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Fred-Lemere-21-scaled-e1723488087437.jpg?resize=752%2C1024&amp;ssl=1 752w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Fred-Lemere-21-scaled-e1723488087437.jpg?resize=768%2C1045&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Fred-Lemere-21-scaled-e1723488087437.jpg?resize=1128%2C1536&amp;ssl=1 1128w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Fred-Lemere-21-scaled-e1723488087437.jpg?resize=1505%2C2048&amp;ssl=1 1505w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Fred-Lemere-21-scaled-e1723488087437.jpg?resize=1200%2C1633&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Fred-Lemere-21-scaled-e1723488087437.jpg?resize=1568%2C2134&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Fred-Lemere-21-scaled-e1723488087437.jpg?resize=400%2C544&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Fred-Lemere-21-scaled-e1723488087437.jpg?resize=706%2C961&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Fred-Lemere-21-scaled-e1723488087437.jpg?fit=752%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Frederick Lemere passed away peacefully at Sarah House on Aug. 9 at the age of 92. He was born in Los Angeles in 1932 and settled in Carpinteria in 1946. A [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/frederick-lemere-of-carpinteria-1932-2024/">Frederick Lemere of Carpinteria, 1932-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/frederick-lemere-of-carpinteria-1932-2024/>
 
 ---
 

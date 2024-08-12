@@ -1,11 +1,61 @@
 ---
 title: motorcycles 2024.33
-updated: 2024-08-12 09:38:09
+updated: 2024-08-12 16:40:39
 ---
 
 # motorcycles 2024.33
 
-(date: 2024-08-12 09:38:09)
+(date: 2024-08-12 16:40:39)
+
+---
+
+## Triumph Racing and Jalek Swoll Make Historic Trip to AMA Pro Motocross Podium
+
+date: 2024-08-12, from: Cycle World News
+
+Triumph Racing has achieved a historic milestone in the AMA Pro Motocross Championship campaign, with Jalek Swoll finishing third overall at round nine of the series. 
+
+<https://www.cycleworld.com/the-wire/triumph-racing-and-jalek-swoll-make-historic-trip-to-ama-pro-motocross-podium/>
+
+---
+
+## 2024 KTM 990 Duke
+
+date: 2024-08-12, from: Cycle World News
+
+KTM upped the displacement on its LC8c engine and the first bike to use it is the 990 Duke. The updated engine now displaces 947cc and makes a claimed 121 hp. 
+
+<https://www.cycleworld.com/ktm/990-duke/>
+
+---
+
+## 2024 KTM 250 Duke
+
+date: 2024-08-12, from: Cycle World News
+
+You’ve got to start somewhere, and there couldn’t be a more stylish and appropriate bike than KTM 250 Duke. 
+
+<https://www.cycleworld.com/ktm/250-duke/>
+
+---
+
+## ARCA Menards Series West: 2024 Tri-City Race Review
+
+date: 2024-08-12, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires The NAPA Auto Care 150, the eighth race of the 2024 ARCA Menards West Series season, held on Saturday, August 10 for&#8230;  
+
+<https://kickinthetires.net/nascar/arca-menards-west-2024-tri-city-review/>
+
+---
+
+## Bubba Wallace Moves into Playoff Contention with Richmond Top-Five
+
+date: 2024-08-12, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor A combination of tire compound strategy and avoiding a frantic and controversial finish at Richmond Raceway moved Bubba Wallace above the NASCAR Cup Series Playoffs&#8230;  
+
+<https://kickinthetires.net/nascar/wallace-playoff-contention-richmond-top5/>
 
 ---
 

@@ -1,11 +1,143 @@
 ---
 title: columns 2024.33
-updated: 2024-08-12 09:38:06
+updated: 2024-08-12 16:40:35
 ---
 
 # columns 2024.33
 
-(date: 2024-08-12 09:38:06)
+(date: 2024-08-12 16:40:35)
+
+---
+
+## Joyful Warriors
+
+date: 2024-08-12, from: Dan Rather's Steady
+
+Harris and Walz are upending nine years of angry politics 
+
+<https://steady.substack.com/p/joyful-warriors>
+
+---
+
+##  Arsenal manager Mikel Arteta recently hired a team of professional pickpockets to... 
+
+date: 2024-08-12, updated: 2024-08-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045107-arsenal-manager-mikel-art>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-12, from: Dave Winer's Scripting News)
+
+The new rule is getting a great response on <a href="https://www.threads.net/@davew/post/C-k5VrQJNXL">Threads</a>, <a href="https://mastodon.social/@davew/112950301629323804">Mastodon</a>. 
+
+<http://scripting.com/2024/08/12.html#a224354>
+
+---
+
+##  Always. Be. Knolling. 
+
+date: 2024-08-12, updated: 2024-08-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/always-be-knolling-1>
+
+---
+
+##  Republicans Will Refuse to Certify a Harris Win. &#8220;There are more than... 
+
+date: 2024-08-12, updated: 2024-08-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045105-republicans-will-refuse-t>
+
+---
+
+##  Nancy Pelosi&#8217;s Art of Power, a short profile by David Remnick. My... 
+
+date: 2024-08-12, updated: 2024-08-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045104-nancy-pelosis-art-of-powe>
+
+---
+
+## ‘Objects of Our Life’ — Steve Jobs at the 1983 International Design Conference in Aspen
+
+date: 2024-08-12, updated: 2024-08-12, from: Daring Fireball
+
+ 
+
+<https://stevejobsarchive.com/exhibits/objects-of-our-life?_kx=tRSlDBg1VJdPieOs0meJvZOIyzJaEDpuHFxS1pBel1M.VwvJFc>
+
+---
+
+##  Mushroom Color Atlas: A Rainbow of Dye Colors 
+
+date: 2024-08-12, updated: 2024-08-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/mushroom-color-atlas-a-rainbow-of-dye-colors>
+
+---
+
+##  Study: Gen Z Having Less Sex Due To Allure Of Leftovers At... 
+
+date: 2024-08-12, updated: 2024-08-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045102-study-gen-z-having-less>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-12, from: Dave Winer's Scripting News)
+
+When the NYT makes Trump sound like a reasonable candidate that a sane person might vote for, <a href="https://imgs.scripting.com/2024/08/12/trumpIncitesMob.png">remember</a> this day. 
+
+<http://scripting.com/2024/08/12.html#a185536>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-12, from: Dave Winer's Scripting News)
+
+Speaking of which, I must've <a href="http://scripting.com/code/docserver/index.html">converted DocServer</a> some time ago and didn't test it well enough. It didn't even load. Oy. It <a href="http://scripting.com/images/2023/08/21/todaysDocserverScreen.png">works</a> now. 
+
+<http://scripting.com/2024/08/12.html#a184825>
+
+---
+
+## August 11, 2024
+
+date: 2024-08-12, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-11-2024-a08>
+
+---
+
+##  If elected in November, Kamala Harris would be the first US president... 
+
+date: 2024-08-12, updated: 2024-08-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045100-if-elected-in-november-ka>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-12, from: Dave Winer's Scripting News)
+
+I listened to a bunch of podcasts this morning about how <a href="https://newrepublic.com/article/184754/donald-trump-freaked-out-harris-walz-attacks">freaked out Trump</a> is. If a president freaks out over something like this, how would he handle a <a href="https://en.wikipedia.org/wiki/Cuban_Missile_Crisis">Cuban Missile Crisis</a>? Remember the <a href="https://www.youtube.com/watch?v=7yr7odFUARg">phone call</a> at 3AM? We saw what he did with COVID, he <a href="https://www.cnn.com/2020/08/27/politics/kamala-harris-speech/index.html">froze</a>, like he's freezing now. 
+
+<http://scripting.com/2024/08/12.html#a163833>
 
 ---
 
@@ -29,7 +161,7 @@ date: 2024-08-12, updated: 2024-08-12, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-08-12, from: Dave Winer's Scripting News)
 
-When Google tells you it's easy to convert a site to HTTPS they're wrong. It's an insurmountable job for scripting.com. 30 years of writing is on that domain, lots of different runtimes on lots of different domains which would also have to be converted. Images in all the pages. All that breaks when you flip the switch, which would be easy. I can't walk away from a big part of my life's work. Sorry, not for Google. Every time someone assumes I'm to blame for this situation, that's how Google has tricked you. I followed the rules. They broke them. 
+When Google tells you it's easy to convert a site to HTTPS they're wrong. It's an insurmountable job for scripting.com. 30 years of writing is on that domain, lots of different runtimes on lots of different domains which would also have to be converted. Images in all the pages. All that breaks when you flip the switch. I can't walk away from a big part of my life's work. Sorry, not for Google. Every time someone assumes I'm to blame for this situation, that's how Google has tricked you. I followed the rules. They broke them. 
 
 <http://scripting.com/2024/08/12.html#a162013>
 
@@ -330,6 +462,16 @@ Vice President Kamala Harris&#8217;s choice of Minnesota governor Tim Walz to be
 <img src="https://www.jayeless.net/media/2024/08/ireland-baby-onesie.jpeg" alt="A green baby onesie with the word “IRELAND” on it and a cute cartoony illustration of a leprechaun hugging a sheep" class="u-photo"> 
 
 <https://www.jayeless.net/2024/08/ireland-baby-onesie.html>
+
+---
+
+## Reckoning: Part 1 — The Landscape
+
+date: 2024-08-12, updated: 2024-08-12, from: Alex Russel's blog
+
+ 
+
+<https://infrequently.org/2024/08/the-landscape/>
 
 ---
 

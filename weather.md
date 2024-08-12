@@ -1,11 +1,492 @@
 ---
 title: weather 2024.33
-updated: 2024-08-12 09:38:06
+updated: 2024-08-12 16:40:36
 ---
 
 # weather 2024.33
 
-(date: 2024-08-12 09:38:06)
+(date: 2024-08-12 16:40:36)
+
+---
+
+## SPC - No watches are valid as of Mon Aug 12 23:37:02 UTC 2024
+
+date: 2024-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Mon Aug 12 23:37:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC MD 1889
+
+date: 2024-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1889.html"><img src="https://www.spc.noaa.gov/products/md/mcd1889.png" border="1" alt="MD 1889 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1889
+NWS Storm Prediction Center Norman OK
+0634 PM CDT Mon Aug 12 2024
+
+Areas affected...Northeastern Colorado
+
+Concerning...Severe potential...Watch unlikely 
+
+Valid 122334Z - 130100Z
+
+Probability of Watch Issuance...5 percent
+
+SUMMARY...A supercell thunderstorm capable of damaging winds, hail,
+and perhaps a tornado is tracking southward across portions of
+northeast Colorado. Given the isolated nature of this storm, weather
+watch issuance is not likely.
+
+DISCUSSION...The severe weather threat associated with a
+southward-moving supercell in northeast Colorado may persist for the
+next 1-2 hours. The storm has exhibited signs of prolonged low-level
+rotation, has produced 2.00 inch hail, and is moving into an
+environment that will continue to support updraft rotation. Forecast
+proximity hodographs indicate there is sufficient curvature of the
+low-level flow and streamwise vorticity to support continued
+low-level mesocyclone development and cycling. Both the curvature
+and magnitude of the low-level hodograph is expected to increase as
+the nocturnal low-level jet strengthens with the decoupling of the
+boundary-layer. However, recent radar trends suggest the storm is
+struggling to stay ahead of its own outflow, where temperatures are
+15-20 F cooler than unmodified inflow. This supercell will likely
+undergo several phases of organized low-level rotation, followed by
+surging outflow, until the boundary-layer eventually stabilizes this
+evening and convection becomes more elevated in nature.
+
+..Halbert/Wendt/Edwards.. 08/12/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...BOU...
+
+LAT...LON   40790427 40960414 40980387 40870363 40680344 40460333
+            40260326 40120319 39920338 39830370 39860389 40000414
+            40140421 40330425 40510427 40790427 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1889.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/md/md1889.html>
+
+---
+
+## SPC MD 1888
+
+date: 2024-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1888.html"><img src="https://www.spc.noaa.gov/products/md/mcd1888.png" border="1" alt="MD 1888 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1888
+NWS Storm Prediction Center Norman OK
+0513 PM CDT Mon Aug 12 2024
+
+Areas affected...North-central Montana
+
+Concerning...Severe potential...Watch unlikely 
+
+Valid 122213Z - 130015Z
+
+Probability of Watch Issuance...5 percent
+
+SUMMARY...A potential will exist for marginally severe gusts and
+hail early this evening across parts of north-central Montana. No
+watch issuance is anticipated.
+
+DISCUSSION...The latest water-vapor imagery shows a subtle shortwave
+trough over the northern Rockies, embedded in southwest mid-level
+flow. At the surface, a mesolow is analyzed over north-central
+Montana, with upslope east-southeasterly flow located across much of
+northern and eastern Montana. Isolated thunderstorms have developed
+near and to the north of the low along a narrow corridor of
+instability, where the RAP is estimating SBCAPE in the 1000 to 1500
+J/kg range. Short-term forecast soundings in north-central Montana
+early this evening have a relatively dry boundary layer, but show
+steep lapse rates and moderate deep-layer shear. This may be enough
+for a marginal severe threat for a few hours. Strong gusts and hail
+will be possible.
+
+..Broyles/Edwards.. 08/12/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...GGW...TFX...
+
+LAT...LON   47221015 47150938 47340862 47740811 48320827 48880909
+            48961048 48861165 48541205 48011188 47221015 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1888.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/md/md1888.html>
+
+---
+
+## SPC Aug 12, 2024 1930 UTC Day 3 Severe Thunderstorm Outlook
+
+date: 2024-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day3otlk.gif" border="1" alt="Day 3 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0218 PM CDT Mon Aug 12 2024
+
+Valid 141200Z - 151200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS
+OF THE CENTRAL/NORTHERN PLAINS INTO THE MID-MISSOURI VALLEY...
+
+...SUMMARY...
+At least isolated severe thunderstorms may occur Wednesday across
+parts of the northern/central Plains into the mid Missouri Valley.
+
+...Synopsis...
+A band of elevated thunderstorms will likely be ongoing at the
+beginning of the period across a broad region of isentropic ascent
+from southeast South Dakota to southern Missouri. As the low-level
+jet weakens through the morning, expect the intensity of these
+storms to lessen as they move east into a more stable airmass. To
+the west, an unstable airmass is forecast across much of the central
+and northern Plains in the vicinity of a broad surface trough. At
+least weak to moderate instability is forecast with the potential
+for greater instability in eastern NE/KS where higher dewpoints
+(upper 60s to low 70s) are forecast.
+
+The breakdown of the upper-level ridge will lead to height falls
+across much of the central and northern Plains. Given the unstable
+environment across much of the area, this weak upper-level forcing
+combined with the surface trough will likely result in scattered
+thunderstorms across much of the central and northern Plains
+Wednesday afternoon/evening. A more focused threat may exist farther
+south across eastern Kansas in Nebraska. Some enhancement of the
+mid-level flow ahead of the ridge breakdown may lead to a localized
+region of more favorable wind shear, co-located with the forecast
+greater instability. If this occurs, particularly with the
+development of a surface low as forecast by the NAM/ECMWF, a locally
+greater severe weather threat may occur across this region. At this
+time, uncertainty in the mesoscale features which will impact this
+potential are too great to warrant higher severe weather
+probabilities.
+
+..Bentley.. 08/12/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-08-12, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Mon, 12 Aug 2024 23:25:19 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## Central North Pacific Tropical Weather Outlook
+
+date: 2024-08-12, from: Central Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ACPN50 PHFO 122325<br/>
+TWOCP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS Central Pacific Hurricane Center Honolulu HI<br/>
+200 PM HST Mon Aug 12 2024<br/>
+<br/>
+For the central North Pacific...between 140W and 180W:<br/>
+<br/>
+No tropical cyclones are expected through the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster TS<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-08-12, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 PM EDT Mon Aug 12 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems: <br>The National Hurricane Center is issuing advisories on newly formed <br>Tropical Storm Ernesto, located a few hundred miles east of the <br>Leeward Islands.<br><br>Tropical cyclone formation is not expected over the next 7 days. <br><br>$$<br>Forecaster Papin<br>NNNN<br><br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2024-08-12, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ABPZ20 KNHC 122311<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+500 PM PDT Mon Aug 12 2024<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Tropical cyclone formation is not expected over the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Papin<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2024-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0327 PM CDT Mon Aug 12 2024
+
+Valid 141200Z - 201200Z
+
+The potential for widespread critical fire weather conditions
+remains low through the extended period. Long-range ensemble
+guidance continues to suggest mean troughing will become established
+along the West Coast with upper ridging over the southern and
+central CONUS through the work week and into next weekend. This
+synoptic regime will favor widespread rain/thunderstorm chances for
+much of the country with the exception of NV/CA and portions of
+central TX.
+
+...D4/Thursday - Pacific Northwest...
+The evolving synoptic regime will favor multiple weak upper
+disturbances propagating across the northern Great Basin as an upper
+low slowly amplifies off the West Coast through the work week and
+into the upcoming weekend. Multiple runs from the GFS/ECMWF/Canadian
+model families (and associated ensembles) have shown a consistent
+signal for convection across portions of OR on D4/Thursday as one
+such disturbances moves across the region. While the probability for
+convection is somewhat meager (around 40% based on blended ensemble
+guidance), forecast PWAT values and QPF probabilities suggest that
+thunderstorms that do development may be dry and pose a fire weather
+concern given antecedent dry fuels and recent lighting starts across
+this region. Low (10%) risk highlights have been introduced to
+address this concern.
+
+...Great Basin...
+The evolving synoptic regime will favor multiple weak upper
+disturbances propagating across the northern Great Basin as an upper
+low slowly amplifies off the West Coast through the work week and
+into the upcoming weekend. This will support multiple days of breezy
+conditions across the Great Basin - primarily across NV - where
+conditions should remain dry (RH in the low teens to low 20s) within
+a persistent downslope flow regime off the Sierra Nevada. Areas of
+elevated fire weather conditions appear possible each day, but the
+synoptic regime will favor weak low-level mass responses and modest
+surface winds. 
+
+...Texas...
+Ensemble guidance continues to show a strong signal for dry
+conditions and afternoon high temperatures returning into the low
+100s through the upcoming weekend. These hot/dry conditions will
+support drying most fuels, especially grasses across west to
+northwest TX where the hottest conditions are expected. The building
+upper ridge will limit the potential for widespread, strong gradient
+winds, but trends forecast wind speeds and fuels will be monitored.
+
+..Moore.. 08/12/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/exper/fire_wx/>
+
+---
+
+## SPC Aug 12, 2024 2000 UTC Day 1 Convective Outlook
+
+date: 2024-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0300 PM CDT Mon Aug 12 2024
+
+Valid 122000Z - 131200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS THE
+COASTAL CAROLINAS...CENTRAL HIGH PLAINS...EASTERN GREAT BASIN
+NORTHWARD INTO PARTS OF THE NORTH-CENTRAL ROCKIES...AND NORTHERN
+MONTANA...
+
+...SUMMARY...
+Isolated severe thunderstorms are possible today over parts of the
+coastal Carolinas, central High Plains, the eastern Great Basin
+northward into parts of the north-central Rockies, and northern
+Montana.
+
+...20z Update...
+No changes are needed to the Day 1 Outlook.
+
+Marginal risk for strong to severe gusts and large hail will
+continue through the afternoon across the central High
+Plains/Central Plains as well as the Intermountain West into the
+northern High Plains. See MCD#1186 and MCD#1885 for more
+information.
+
+Additional thunderstorm development is expected across a front
+portions of South Carolina this afternoon. Ahead of this boundary,
+the air mass has destabilized, with around 2000 J/kg of MLCAPE and
+20-30 kts of deep layer shear. Thunderstorms will be capable of
+instances of strong to severe wind.
+
+..Thornton/Mosier.. 08/12/2024
+
+.PREV DISCUSSION... /ISSUED 1129 AM CDT Mon Aug 12 2024/
+
+...Central High Plains/Central Plains...
+Upslope flow will persist across the central High Plains, helping to
+maintain moderate low-level moisture across region. Afternoon
+dewpoints are expected to range from the upper 60s in the southeast
+CO/northeast NM/western Panhandles vicinity to the mid to upper 50s
+across eastern WY. This low-level moisture will help support
+moderate buoyancy during the afternoon/evening, although some
+limited capping may linger. Thunderstorms are expected to develop
+across the higher terrain before then progressing eastward into the
+more moist and buoyant airmass downstream. Generally moderate
+deep-layer vertical shear coupled with the potential for some
+remaining convective inhibition suggest the severe potential will
+remain isolated, with damaging gusts and/or large hail as the
+primary severe risks. 
+
+Thunderstorms will likely persist eastward into more of the central
+Plains, supported by moderate buoyancy and shear and the development
+of modest low-level jet. Isolated instances of large hail are
+possible, but the overall storm severity will likely be tempered by
+limited instability. 
+
+...Intermountain West into the Northern High Plains...
+Morning satellite imagery depicts upper ridging centered over TX
+covering much of the southern third of the CONUS and also extending
+northward into MT. Several shortwave troughs are moving through the
+westerlies within the northern periphery of this ridging, including
+a low-amplitude shortwave currently moving into ID and
+northern/central NV and another, more defined shortwave farther west
+off the northern CA coast. Eastward/northeastward progression of
+these waves will bring greater mid-level moisture and increased
+large-scale forcing for ascent, supporting the development of
+scattered to numerous thunderstorms across the region. Mid-level
+flow will remain modest, but a few more organized/persistent
+updrafts are possible. High cloud bases atop steep low-level lapse
+rates could result in a few stronger gusts as these more persistent
+storms form into clusters, particularly from northern/central UT
+into far eastern ID and far western WY and northern MT.
+
+...Coastal Carolinas...
+Far southern periphery of an upper trough currently extending from
+Quebec through the Upper OH Valley will glance this region today as
+it progresses eastward. Modest (i.e. 20-30kt) mid-level flow will
+overspread a moisture-rich airmass (i.e. PWs over 2") in place south
+of a front. Scattered thunderstorms should develop along this
+boundary by early afternoon then propagate toward and off the coast
+by early evening. A few water-loaded downbursts capable of damaging
+gusts could be noted with the strongest storms.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2024-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0228 PM CDT Mon Aug 12 2024
+
+Valid 131200Z - 141200Z
+
+An isolated dry thunderstorm risk area has been introduced to
+portions of eastern OR into ID. Isolated thunderstorms will likely
+be ongoing at the start of the period across far eastern OR, and
+should migrate eastward over the central ID mountains through the
+afternoon with little in the way of wetting rainfall given fast
+storm motions. 
+
+A second round of convection remains possible during the late
+afternoon across southeast OR/southwest ID, and will likely feature
+dry convection given forecast PWAT values at/below 0.6 inch. While
+ensemble guidance has trended towards higher probability for this to
+occur, the overall signal remains fairly weak.
+
+..Moore.. 08/12/2024
+
+.PREV DISCUSSION... /ISSUED 1252 AM CDT Mon Aug 12 2024/
+
+...Synopsis...
+On Tuesday, the upper trough will lift out of the northern Great
+Basin and into the northern High Plains, all while losing amplitude.
+While some increase in mid-level winds may occur over the Great
+Basin, this will not occur until late in the period. At the surface,
+the pressure pattern will be more disorganized than Monday and
+stronger winds will likely be diurnally/terrain-driven.
+
+...Nevada...
+Areas of locally elevated fire weather are possible as RH will still
+fall to 15-20% during the afternoon. Slightly stronger winds appear
+possible in southern Nevada, but fuels are also less receptive than
+farther north. Sustained elevated conditions are not currently
+expected.
+
+...Central Idaho...
+With the mid-level trough moving through early in the period,
+mid/upper-level cloud cover will be possible. This may impact
+destabilization enough to reduce potential storm coverage during the
+afternoon. Should storms occur, some could be dry. Confidence in
+coverage is too low for highlights.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -89,16 +570,6 @@ gusts could be noted with the strongest storms.
 
 ---
 
-## SPC - No watches are valid as of Mon Aug 12 16:34:02 UTC 2024
-
-date: 2024-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Mon Aug 12 16:34:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
 ## SPC - No MDs are in effect as of Mon Aug 12 16:34:02 UTC 2024
 
 date: 2024-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -106,16 +577,6 @@ date: 2024-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale disc
 No Mesoscale Discussions are in effect as of Mon Aug 12 16:34:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/md/>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-08-12, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Mon, 12 Aug 2024 16:16:48 GMT 
-
-<https://www.nhc.noaa.gov/gis/>
 
 ---
 
@@ -191,24 +652,6 @@ present for highlights.
 
 ---
 
-## NHC Atlantic Outlook
-
-date: 2024-08-12, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Mon Aug 12 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems: <br>The National Hurricane Center is issuing advisories on Potential <br>Tropical Cyclone Five, located a few hundred miles east of the <br>Lesser Antilles. <br>* Formation chance through 48 hours...high...90 percent.<br>* Formation chance through 7 days...high...90 percent.<br><br>&&<br>Public Advisories on Potential Tropical Cyclone Five are issued <br>under WMO header WTNT35 KNHC and under AWIPS header MIATCPAT5. <br>Forecast/Advisories on Potential Tropical Cyclone Five are issued <br>under WMO header WTNT25 KNHC and under AWIPS header MIATCMAT5.<br><br>$$<br>Forecaster Hagen/Reinhart<br>NNNN<br><br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
 ## SPC Aug 12, 2024 1300 UTC Day 1 Convective Outlook
 
 date: 2024-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -271,58 +714,6 @@ with the strongest storms.
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2024-08-12, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ACPN50 PHFO 121136<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-200 AM HST Mon Aug 12 2024<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected through the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster JT<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2024-08-12, from: Eastern Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ABPZ20 KNHC 121111<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 AM PDT Mon Aug 12 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Tropical cyclone formation is not expected over the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Hagen/Reinhart<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 

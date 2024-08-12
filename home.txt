@@ -12,7 +12,9 @@ https://ucanr.edu/blogs/UrbanAg/rssmain.xml "~Urban Ag blog"
 https://homesteadandchill.com/feed/ "~Homestead and Chil"
 https://www.familyhandyman.com/feed/ "~Family Handyman Blog"
 http://www.verticalfarm.com/?feed=rss2 "~Virtical Farm Blog"
-
+https://www.gardenista.com/rss/ "~Gardenista Blog"
+https://wildyards.com/feed/ "~Wild Yards blog"
+https://ownyardlife.com/feed/ "~Yard Life blog"
 
 #
 # Inspiration

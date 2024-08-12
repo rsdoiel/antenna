@@ -1,11 +1,125 @@
 ---
 title: writing 2024.33
-updated: 2024-08-12 09:38:07
+updated: 2024-08-12 16:40:36
 ---
 
 # writing 2024.33
 
-(date: 2024-08-12 09:38:07)
+(date: 2024-08-12 16:40:36)
+
+---
+
+## Weekly Bestsellers, 12 August 2024
+
+date: 2024-08-12, from: Locus Magazine
+
+<div style="padding: 14px 0px 0px 0px; text-align: center;">
+<p>Though it slips in rankings, <b>The Book of Elsewhere</b> by Keanu Reeves &#38; China Miéville remains on all four print lists compiled here.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+08.18
+LAT
+08.11
+USAT 
+08.04
+PW 
+08.12
+Amz 
+(08.12)
+UK:
+Amz UK 
+(08.12)
+Canada:
+Amz.ca 
+(08.12)
+
+
+Items on list -x- number of lists surveyed
+
+10&#215;3
+10&#215;2
+150
+15&#215;3
+100
+100
+100
+
+
+Hardcovers
+
+
+Aster, Nightbane
+11.20.23 / 38
+7 -2 <a href="https://locusmag.com/2024/08/weekly-bestsellers-12-august-2024/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/weekly-bestsellers-12-august-2024/>
+
+---
+
+## 2023 Analog AnLab and Asimov’s Readers’ Awards Winners
+
+date: 2024-08-12, from: Locus Magazine
+
+<p>Winners for the 2023 Analog Analytical Laboratory (AnLab) Awards and the 38th Asimov&#8217;s Readers&#8217; Awards, have been announced, with many finalists available to read online.</p>
+<p><strong>Analog Science Fiction and Fact </strong><strong>Analytical Laboratory</strong> <strong>Award Winners</strong></p>
+<p><strong></strong>
+<strong>BEST NOVELLAS</strong></p>
+<ul>
+<li>WINNER: &#8220;Poison&#8220;, Frank Wu &#38; Jay Werkheiser (5-6/23)</li>
+</ul>
+<ul>
+<li>&#8220;To Fight the Colossus&#8220;, Adam-Troy Castro (7-8/23)</li>
+<li>&#8220;The Tinker and the Timestream&#8220;, Carolyn Ives Gilman (3-4/23)</li>
+<li>&#8220;The Elephant-Maker&#8221;, Alec Nevala-Lee (1-2/23)</li>
+<li>&#8220;Flying CARPET&#8220;, Rajnar Vajra (11-12/23)</li></ul> <a href="https://locusmag.com/2024/08/2023-analog-anlab-and-asimovs-readers-awards-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/2023-analog-anlab-and-asimovs-readers-awards-winners/>
+
+---
+
+## Aldiss Awards Launch
+
+date: 2024-08-12, from: Locus Magazine
+
+<p>Tim Aldiss, son of late SFWA Grandmaster Brian Aldiss (1925-2017), has announced the launch of the Aldiss Award, &#8220;which celebrates excellence in world-building across speculative fiction &#38; gaming.&#8221;</p>
+<div>
+<p>The Aldiss Award seeks to carve out a prestigious place within the science fiction, fantasy and gaming communities, celebrating the profound impact of world-building on culture and storytelling. By recognising and supporting those who excel in the art of world-building, the award </p></div> <a href="https://locusmag.com/2024/08/aldiss-awards-launch/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/aldiss-awards-launch/>
+
+---
+
+## 2024 Aurora Awards Winners
+
+date: 2024-08-12, from: Locus Magazine
+
+<p>The 2024 Aurora Awards winners for the best SF and fantasy by Canadians have been announced.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Novel</strong></p>
+<ul>
+<li>WINNER: <strong>The Valkyrie</strong>, Kate Heartfield (HarperVoyager)</li>
+</ul>
+<ul>
+<li><strong>Bad Cree</strong>, Jessica Johns (HarperCollins Canada)</li>
+<li><strong>Silver Nitrate</strong>, Silvia Moreno-Garcia (Del Rey)</li>
+<li><strong>Moon of the Turning Leaves</strong>, Waubgeshig Rice (Random House Canada)</li>
+<li><strong>The Marigold</strong>, Andrew F. Sullivan (ECW)</li>
+</ul>
+<p><strong>Best YA Novel</strong></p>
+<ul>
+<li>WINNER: <strong>Funeral Songs for Dying Girls</strong>, Cherie Dimaline (Tundra)</li></ul></div> <a href="https://locusmag.com/2024/08/2024-aurora-awards-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/2024-aurora-awards-winners/>
 
 ---
 

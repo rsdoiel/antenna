@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.33
-updated: 2024-08-12 09:38:09
+updated: 2024-08-12 16:40:40
 ---
 
 # retro computing 2024.33
 
-(date: 2024-08-12 09:38:09)
+(date: 2024-08-12 16:40:40)
+
+---
+
+## b.log 2024/08/12 - Larder code, Other stuff and spuds, Pre-bed checklist, Last night's conundrum.
+
+date: 2024-08-12, from: Richard Murray's blog
+
+Larder code, Other stuff and spuds, Pre-bed checklist, Last night's conundrum. 
+
+<https://heyrick.eu/blog/index.php?diary=20240812>
+
+---
+
+## Vote for the August 2024 Plus Post Topic
+
+date: 2024-08-12, from: Computer ads from the Past
+
+If you are a paid subscriber, voting is open for one week for this month's topic 
+
+<https://computeradsfromthepast.substack.com/p/vote-for-the-august-2004-plus-post>
 
 ---
 

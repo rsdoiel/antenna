@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.33
-updated: 2024-08-12 09:38:08
+updated: 2024-08-12 16:40:38
 ---
 
 # libraries 2024.33
 
-(date: 2024-08-12 09:38:08)
+(date: 2024-08-12 16:40:38)
 
 ---
 
@@ -26,6 +26,36 @@ date: 2024-08-15, from: ETH Zurich, recently added
 Beltrao, Pedro; Van Den Bossche, Tim; Gabriels, Ralf; Holstein, Tanja; Kockmann, Tobias; Nameni, Alireza; Panse, Christian; Schlapbach, Ralph; Lautenbacher, Ludwig; Mattanovich, Matthias; Nesvizhskii, Alexey; Van Puyvelde, Bart; Scheid, Jonas; Schwämmle, Veit; Strauss, Maximilian; Susmelj, Anna Klimovskaia; The, Matthew; Webel, Henry; Wilhelm, Mathias; Winkelhardt, Dirk; Wolski, Witold E.; Xi, Muyao 
 
 <http://hdl.handle.net/20.500.11850/682080>
+
+---
+
+## Emily of New Moon, by L. M. Montgomery
+
+date: 2024-08-12, from: Standard Ebooks, new releaases
+
+A budding poetess and orphan goes to live with her estranged aunts. 
+
+<https://standardebooks.org/ebooks/l-m-montgomery/emily-of-new-moon>
+
+---
+
+## Washington Square, by Henry James
+
+date: 2024-08-12, from: Standard Ebooks, new releaases
+
+A young woman is courted by a man her father disapproves of. 
+
+<https://standardebooks.org/ebooks/henry-james/washington-square>
+
+---
+
+## Tarzan and the Golden Lion, by Edgar Rice Burroughs
+
+date: 2024-08-12, from: Standard Ebooks, new releaases
+
+Tarzan adopts a lion cub while he battles a team of thieves seeking the treasures of the lost city of Opar. 
+
+<https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-golden-lion>
 
 ---
 

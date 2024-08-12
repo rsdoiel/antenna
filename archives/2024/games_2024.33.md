@@ -1,11 +1,81 @@
 ---
 title: games 2024.33
-updated: 2024-08-12 09:38:07
+updated: 2024-08-12 16:40:37
 ---
 
 # games 2024.33
 
-(date: 2024-08-12 09:38:07)
+(date: 2024-08-12 16:40:37)
+
+---
+
+## All new Helldivers 2 enemies should be revealed in-game
+
+date: 2024-08-12, updated: 2024-08-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24219000/helldivers-2-impaler-new-enemies-surprise>
+
+---
+
+## New video from STALKER 2 studio leans into the authenticity of The Zone
+
+date: 2024-08-12, updated: 2024-08-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24218882/stalker-2-deep-dive-video>
+
+---
+
+## Pick up the definitive Borderlands collection for its lowest price ever on Steam
+
+date: 2024-08-12, updated: 2024-08-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24218856/borderlands-movie-pandoras-box-collection-deal-sale-steam>
+
+---
+
+## Baldur’s Gate 3 just won the biggest award in fantasy and sci-fi
+
+date: 2024-08-12, updated: 2024-08-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24218806/baldurs-gate-3-wins-hugo-award>
+
+---
+
+## Our first look at Netflix’s new One Piece anime shows how hard it is to adapt Oda’s opus
+
+date: 2024-08-12, updated: 2024-08-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/anime/24218850/netflix-one-piece-anime-first-look-behind-scenes>
+
+---
+
+## The best deals from GOG’s massive RPG sale
+
+date: 2024-08-12, updated: 2024-08-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/2024/8/12/24216951/gog-rpg-sale>
+
+---
+
+## Rachael Lillis, the voice of Pokémon’s Misty and Jessie, dies at 46
+
+date: 2024-08-12, updated: 2024-08-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24218705/rachael-lillis-pokemon-voice-actor-death-misty-jesse>
 
 ---
 

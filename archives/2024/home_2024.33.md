@@ -1,11 +1,21 @@
 ---
 title: home 2024.33
-updated: 2024-08-12 09:38:08
+updated: 2024-08-12 16:40:38
 ---
 
 # home 2024.33
 
-(date: 2024-08-12 09:38:08)
+(date: 2024-08-12 16:40:38)
+
+---
+
+## RCA Mini Fridge Review: We Tried It, and Here’s What We Think
+
+date: 2024-08-12, from: Family Handyman Blog
+
+A product tester's in-depth review of the RCA Mini Fridge, and whether he thinks it's the best option for those in dorms, offices and RVs. 
+
+<https://www.familyhandyman.com/article/rca-mini-fridge-review/>
 
 ---
 

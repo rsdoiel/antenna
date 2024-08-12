@@ -1,11 +1,33 @@
 ---
 title: mid central 2024.33
-updated: 2024-08-12 09:38:05
+updated: 2024-08-12 16:40:34
 ---
 
 # mid central 2024.33
 
-(date: 2024-08-12 09:38:05)
+(date: 2024-08-12 16:40:34)
+
+---
+
+## Photo Essay: Pro-Am brings professional talent to Fresno
+
+date: 2024-08-12, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+ 
+
+<https://fscollegian.com/2024/08/photo-essay-pro-am-brings-professional-talent-to-fresno/>
+
+---
+
+## Virtual Becomes Reality as Merced College Launches New Lab, New Year
+
+date: 2024-08-12, from: Blue Devil News (Merced Community College Student Newspaper)
+
+<p>Hundreds of local students will be transported to an immersive alien landscape to aid in learning the basics of biology this year, thanks to the launch of Merced College’s new&#8230;</p>
+<p>The post <a href="https://www.mccd.edu/news/virtual-becomes-reality-as-merced-college-launches-new-lab-new-year/">Virtual Becomes Reality as Merced College Launches New Lab, New Year</a> appeared first on <a href="https://www.mccd.edu">Merced College</a>.</p>
+ 
+
+<https://www.mccd.edu/news/virtual-becomes-reality-as-merced-college-launches-new-lab-new-year/>
 
 ---
 
