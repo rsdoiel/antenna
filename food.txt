@@ -1,0 +1,10 @@
+#
+# Healthy Eating, Good Eating and Recipes
+#
+https://www.hackingsalt.com/feed/ "~Hacking Salt"
+https://www.bonappetit.com/feed/rss "~Bon Appetet"
+https://www.isabeleats.com/feed/ "~Isebel Eats"
+https://www.chilipeppermadness.com/feed/ "~Chili Pepper Madness"
+https://www.spiceography.com/feed/ "~Spiceography"
+https://pepperscale.com/feed/ "~Pepper Scale"
+https://www.fieryflavors.com/feed/ "~Fiery Flavors"
