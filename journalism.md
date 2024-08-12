@@ -1,11 +1,11 @@
 ---
 title: journalism 2024.33
-updated: 2024-08-12 08:20:29
+updated: 2024-08-12 09:38:07
 ---
 
 # journalism 2024.33
 
-(date: 2024-08-12 08:20:29)
+(date: 2024-08-12 09:38:07)
 
 ---
 
@@ -36,4 +36,14 @@ date: 2024-08-12, from: Nieman Journalism Lab
 When is a news alert not a news alert? No, that&#8217;s not a question from a blunted hippie who just read the I Ching and now speaks only in kōans. It&#8217;s a question about TikTok and other social apps that have leaned into sending push notifications that look like news alerts but actually derive from... 
 
 <https://www.niemanlab.org/2024/08/__trashed-55/>
+
+---
+
+## Did Taylor Swift really call Florida “racist”? (No she didn’t, no matter what that TikTok “news alert” says)
+
+date: 2024-08-12, from: Nieman Journalism Lab
+
+When is a news alert not a news alert? No, that&#8217;s not a question from a blunted hippie who just read the I Ching and now speaks only in kōans. It&#8217;s a question about TikTok and other social apps that have leaned into sending push notifications that look like news alerts but actually derive from... 
+
+<https://www.niemanlab.org/2024/08/did-taylor-swift-really-call-florida-racist-no-she-didnt-no-matter-what-that-tiktok-news-alert-says/>
 

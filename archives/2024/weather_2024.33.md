@@ -1,11 +1,111 @@
 ---
 title: weather 2024.33
-updated: 2024-08-12 08:20:27
+updated: 2024-08-12 09:38:06
 ---
 
 # weather 2024.33
 
-(date: 2024-08-12 08:20:27)
+(date: 2024-08-12 09:38:06)
+
+---
+
+## SPC Aug 12, 2024 1630 UTC Day 1 Convective Outlook
+
+date: 2024-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1129 AM CDT Mon Aug 12 2024
+
+Valid 121630Z - 131200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS THE
+COASTAL CAROLINAS...CENTRAL HIGH PLAINS...THE EASTERN GREAT BASIN
+NORTHWARD INTO PARTS OF THE NORTH-CENTRAL ROCKIES...AND NORTHERN
+MONTANA...
+
+...SUMMARY...
+Isolated severe thunderstorms are possible today over parts of the
+coastal Carolinas, central High Plains, the eastern Great Basin
+northward into parts of the north-central Rockies, and northern
+Montana.
+
+...Central High Plains/Central Plains...
+Upslope flow will persist across the central High Plains, helping to
+maintain moderate low-level moisture across region. Afternoon
+dewpoints are expected to range from the upper 60s in the southeast
+CO/northeast NM/western Panhandles vicinity to the mid to upper 50s
+across eastern WY. This low-level moisture will help support
+moderate buoyancy during the afternoon/evening, although some
+limited capping may linger. Thunderstorms are expected to develop
+across the higher terrain before then progressing eastward into the
+more moist and buoyant airmass downstream. Generally moderate
+deep-layer vertical shear coupled with the potential for some
+remaining convective inhibition suggest the severe potential will
+remain isolated, with damaging gusts and/or large hail as the
+primary severe risks. 
+
+Thunderstorms will likely persist eastward into more of the central
+Plains, supported by moderate buoyancy and shear and the development
+of modest low-level jet. Isolated instances of large hail are
+possible, but the overall storm severity will likely be tempered by
+limited instability. 
+
+...Intermountain West into the Northern High Plains...
+Morning satellite imagery depicts upper ridging centered over TX
+covering much of the southern third of the CONUS and also extending
+northward into MT. Several shortwave troughs are moving through the
+westerlies within the northern periphery of this ridging, including
+a low-amplitude shortwave currently moving into ID and
+northern/central NV and another, more defined shortwave farther west
+off the northern CA coast. Eastward/northeastward progression of
+these waves will bring greater mid-level moisture and increased
+large-scale forcing for ascent, supporting the development of
+scattered to numerous thunderstorms across the region. Mid-level
+flow will remain modest, but a few more organized/persistent
+updrafts are possible. High cloud bases atop steep low-level lapse
+rates could result in a few stronger gusts as these more persistent
+storms form into clusters, particularly from northern/central UT
+into far eastern ID and far western WY and northern MT.
+
+...Coastal Carolinas...
+Far southern periphery of an upper trough currently extending from
+Quebec through the Upper OH Valley will glance this region today as
+it progresses eastward. Modest (i.e. 20-30kt) mid-level flow will
+overspread a moisture-rich airmass (i.e. PWs over 2") in place south
+of a front. Scattered thunderstorms should develop along this
+boundary by early afternoon then propagate toward and off the coast
+by early evening. A few water-loaded downbursts capable of damaging
+gusts could be noted with the strongest storms.
+
+..Mosier.. 08/12/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
+
+---
+
+## SPC - No watches are valid as of Mon Aug 12 16:34:02 UTC 2024
+
+date: 2024-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Mon Aug 12 16:34:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Mon Aug 12 16:34:02 UTC 2024
+
+date: 2024-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Mon Aug 12 16:34:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -13,9 +113,81 @@ updated: 2024-08-12 08:20:27
 
 date: 2024-08-12, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Mon, 12 Aug 2024 15:04:59 GMT 
+No tropical cyclones as of Mon, 12 Aug 2024 16:16:48 GMT 
 
 <https://www.nhc.noaa.gov/gis/>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1046 AM CDT Mon Aug 12 2024
+
+Valid 121700Z - 131200Z
+
+...CRITICAL FIRE WEATHER AREA FOR WESTERN NEVADA...
+
+The primary forecast change for this update is an expansion of the
+dry-thunderstorm risk area across portions of the Pacific Northwest
+and northern Rockies. Morning soundings from BOI, OTX, and MFR all
+show cooler mid-level temperatures compared to the previous 24
+hours, which should support thunderstorm chances today through
+tonight as lift associated with an approaching trough overspreads
+the region. GOES imagery also depicts a plume of 0.4 to 0.6 inch
+PWAT values across northern CA into central ID that was well sampled
+by the BOI sounding, and suggests a slightly better probability for
+dry thunderstorms exists through this corridor. A few
+lightning-related fire starts associated with a mix of wet/dry
+thunderstorms have been reported over the past 24 hours across WA
+and ID, and a lack of widespread wetting rainfall has maintained dry
+fuels that will support a continued fire weather concern for today
+and into the early morning hours Tuesday. 
+
+Other minor adjustments include an expansion of the Elevated risk
+area into the Snake River Plain of eastern ID where ensemble
+guidance has shown a consistent signal for a few hours of dry
+conditions with 15-20 mph winds. See the previous discussion for
+additional details.
+
+..Moore.. 08/12/2024
+
+.PREV DISCUSSION... /ISSUED 0124 AM CDT Mon Aug 12 2024/
+
+...Synopsis...
+A shortwave trough within broader cyclonic flow in the Northwest
+will move through central California into western Nevada today. A
+surface trough in the Northwest/northern Rockies will promote dry
+and breezy conditions in parts of the northern Great Basin.
+
+...Great Basin...
+Broadly elevated fire weather conditions are expected over much of
+Nevada into far southern Idaho. Winds of 15-20 mph will be the most
+common along with 10-20% RH during the afternoon. A small region of
+northwest Nevada may experience briefly critical conditions as both
+the terrain and the mid-level jet help to enhance surface winds to
+20-25 mph.
+
+...Northwest...
+Forcing for ascent from the upper trough will promote isolated
+thunderstorms from north-central California into central Idaho. With
+the mid-level jet more focused in northern Nevada, storm motions
+will not be overly fast. A mix of wet and dry thunderstorms are most
+probable. Recent CAM guidance also differs on the exact degree of
+coverage, but enough confidence in at least isolated activity is
+present for highlights.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
 
 ---
 
@@ -34,26 +206,6 @@ ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS N
  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## SPC - No watches are valid as of Mon Aug 12 13:49:02 UTC 2024
-
-date: 2024-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Mon Aug 12 13:49:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Mon Aug 12 13:49:02 UTC 2024
-
-date: 2024-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Mon Aug 12 13:49:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -171,56 +323,6 @@ Forecaster Hagen/Reinhart<br/>
  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2024-08-12, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook CORR 1
-NWS Storm Prediction Center Norman OK
-0124 AM CDT Mon Aug 12 2024
-
-Valid 121200Z - 131200Z
-
-CORRECTED FOR HEADLINE
-
-...CRITICAL FIRE WEATHER AREA FOR PARTS OF NORTHWEST NEVADA...
-
-...Synopsis...
-A shortwave trough within broader cyclonic flow in the Northwest
-will move through central California into western Nevada today. A
-surface trough in the Northwest/northern Rockies will promote dry
-and breezy conditions in parts of the northern Great Basin.
-
-...Great Basin...
-Broadly elevated fire weather conditions are expected over much of
-Nevada into far southern Idaho. Winds of 15-20 mph will be the most
-common along with 10-20% RH during the afternoon. A small region of
-northwest Nevada may experience briefly critical conditions as both
-the terrain and the mid-level jet help to enhance surface winds to
-20-25 mph.
-
-...Northwest...
-Forcing for ascent from the upper trough will promote isolated
-thunderstorms from north-central California into central Idaho. With
-the mid-level jet more focused in northern Nevada, storm motions
-will not be overly fast. A mix of wet and dry thunderstorms are most
-probable. Recent CAM guidance also differs on the exact degree of
-coverage, but enough confidence in at least isolated activity is
-present for highlights.
-
-..Wendt.. 08/12/2024
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
 
 ---
 

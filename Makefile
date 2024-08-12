@@ -20,7 +20,7 @@ endif
 
 PROJECT = Antenna
 
-section_names = national socal_north pacific mid_central central_coast columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric
+section_names = national socal_north pacific mid_central central_coast columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric food
 
 md_files = $(addsuffix .md,$(section_names))
 
@@ -47,6 +47,9 @@ harvest: $(section_names)
 #
 # Helper rules to retrieve and debug specific feed lists
 #
+food: .FORCE
+	-skimmer food.txt
+
 national: .FORCE
 	-skimmer national.txt
 

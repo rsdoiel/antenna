@@ -1,11 +1,37 @@
 ---
 title: columns 2024.33
-updated: 2024-08-12 08:20:27
+updated: 2024-08-12 09:38:06
 ---
 
 # columns 2024.33
 
-(date: 2024-08-12 08:20:27)
+(date: 2024-08-12 09:38:06)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-12, from: Dave Winer's Scripting News)
+
+A new rule for journalists. End the interview on the first egregious lie. Turn the lights out, switch off the recorder, get up and leave. And your report should state clearly that this is why the interview was terminated. It never should have been tolerated in the first place. 
+
+<http://scripting.com/2024/08/12.html#a162319>
+
+---
+
+##  Scott Heiferman sold his dotcom company in 1999 and then went to... 
+
+date: 2024-08-12, updated: 2024-08-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045096-scott-heiferman-sold-his->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-12, from: Dave Winer's Scripting News)
+
+When Google tells you it's easy to convert a site to HTTPS they're wrong. It's an insurmountable job for scripting.com. 30 years of writing is on that domain, lots of different runtimes on lots of different domains which would also have to be converted. Images in all the pages. All that breaks when you flip the switch, which would be easy. I can't walk away from a big part of my life's work. Sorry, not for Google. Every time someone assumes I'm to blame for this situation, that's how Google has tricked you. I followed the rules. They broke them. 
+
+<http://scripting.com/2024/08/12.html#a162013>
 
 ---
 

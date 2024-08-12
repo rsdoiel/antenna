@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.33
-updated: 2024-08-12 08:20:31
+updated: 2024-08-12 09:38:09
 ---
 
 # retro computing 2024.33
 
-(date: 2024-08-12 08:20:31)
+(date: 2024-08-12 09:38:09)
+
+---
+
+## FreeDOS xcopy 1.6
+
+date: 2024-08-12, from: FreeDOS News
+
+<div class="markdown_content"><p>Xcopy is an essential DOS command that copies files and directories. Jeremy has released a new version of Xcopy that fixes several bugs: "fix bug causing timestamps to not always be set correctly - fix bug causing stack corruption on Open Watcom builds - improve free disk space calculation." You can find the new version 1.6 from Jeremy's <a class="" href="https://github.com/FDOS/xcopy/releases/tag/v1.6" rel="nofollow">Xcopy on GitHub</a>. Thanks Jeremy!</p></div> 
+
+<https://sourceforge.net/p/freedos/news/2024/08/freedos-xcopy-16/>
+
+---
+
+## Ubuntu 24.10 will Include the Latest Linux Kernel
+
+date: 2024-08-12, from: Linux Magazine
+
+<p>Ubuntu users have grown accustomed to their favorite distribution shipping with a kernel that's not quite as up-to-date as other distros but that changes with 24.10.</p> 
+
+<http://www.linux-magazine.com/Online/News/Ubuntu-24.10-will-Include-the-Latest-Linux-Kernel>
 
 ---
 

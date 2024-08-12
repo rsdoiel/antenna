@@ -1,11 +1,73 @@
 ---
 title: writing 2024.33
-updated: 2024-08-12 08:20:28
+updated: 2024-08-12 09:38:07
 ---
 
 # writing 2024.33
 
-(date: 2024-08-12 08:20:28)
+(date: 2024-08-12 09:38:07)
+
+---
+
+## 2023 Sidewise Award Winners
+
+date: 2024-08-12, from: Locus Magazine
+
+<p>The winners for the 2023 Sidewise Awards for Alternate History were announced August 12, 2024 at the World Fantasy Convention in Glasgow, Scotland.</p>
+<p></p>
+<div class="mynomorebulletlist">
+<p><strong>Long Form</strong></p>
+<ul>
+<li>WINNER: <strong>Cahokia Jazz,</strong> Francis Spufford (Faber &#38; Faber; Scribner)</li>
+</ul>
+<ul>
+<li><strong>Julia,</strong> Sandra Newman (Mariner)</li>
+<li><strong>Wages of Sin</strong>, Harry Turtledove (CAEZIK SF &#38; Fantasy)</li>
+<li><strong>Sunset Empire</strong>, Josh Weiss (Grand Central)</li>
+</ul>
+<p><strong>Short Form</strong></p>
+<ul>
+<li>WINNER: “Apollo in Retrograde”, Rosemary Claire Smith (Analog 11-12/23)</li>
+</ul>
+<ul>
+<li>“Toe-to-Toe”, Mark Ciccone (</li></ul></div> <a href="https://locusmag.com/2024/08/2023-sidewise-award-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/2023-sidewise-award-winners/>
+
+---
+
+## Worldcon 2026 Site Selection: Los Angeles
+
+date: 2024-08-12, from: Locus Magazine
+
+<p>The LA in 2026 Bid Committee won the right to host the 2026 Worldcon. LAcon V, the 84th World Science Fiction Convention, will be held August 27-31, 2025 in Anaheim CA.</p>
+<p>Guests of Honor announced so far include Barbara Hambly, Ronald D. Moore, Colleen Doran, Anita Sengupta, Tim Kirk, Geri Sullivan, Stan Sakai, and Toastmaster Ursula Vernon.</p>
+<p>Chair Joyce Lloyd said, “Thank you everyone who supported us and voted for  <a href="https://locusmag.com/2024/08/worldcon-2026-site-selection-los-angeles/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/worldcon-2026-site-selection-los-angeles/>
+
+---
+
+## A.C. Wise Reviews Short Fiction: Asimov’s
+
+date: 2024-08-12, from: Locus Magazine
+
+<p>Asimov’s 5-6/24</p>
+<p>The May/June 2024 issue of Asimov’s in­cludes three novellas, making it perfect for readers wanting to sink their teeth into some longer short fiction. The first of the three, opening the issue, is “<strong>Barbarians</strong>” by <strong>Rich Lar­son</strong>. Yanna and his partner Hilly have been hired to take a pair of creepy rich twins on an expedition into a decaying deepswimmer. Hilly is essentially a head  <a href="https://locusmag.com/2024/08/a-c-wise-reviews-short-fiction-asimovs-3/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/a-c-wise-reviews-short-fiction-asimovs-3/>
+
+---
+
+## Sarah Langan: The Ultimate Gaslight
+
+date: 2024-08-12, from: Locus Magazine
+
+<p></p>
+<p><strong>SARAH LANGAN </strong>was born in 1974 and grew up in Long Island NY. She attended Colby College in Waterville ME, earned an MFA from Columbia University in 2000, and an MS Environmental Health Science from NYU in 2012. She lived in Brooklyn NY before relocating to Los Angeles CA, where she resides with her husband J.T. Petty and their children.</p>
+<p>Langan began publishing work of genre interest in 2000, with  <a href="https://locusmag.com/2024/08/sarah-langan-the-ultimate-gaslight/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/sarah-langan-the-ultimate-gaslight/>
 
 ---
 

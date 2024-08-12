@@ -1,11 +1,35 @@
 ---
 title: going electric 2024.33
-updated: 2024-08-12 08:20:32
+updated: 2024-08-12 09:38:10
 ---
 
 # going electric 2024.33
 
-(date: 2024-08-12 08:20:32)
+(date: 2024-08-12 09:38:10)
+
+---
+
+## Lucid Gravity May Feature Both CCS And NACS Charging Ports
+
+date: 2024-08-12, from: Inside EVs News
+
+Can't decide between CCS and a Tesla-style NACS charging port? Lucid may have the solution: Choose both.  
+
+<https://insideevs.com/news/729893/lucid-gravity-two-charger-ports/>
+
+---
+
+## Ford is offering free home EV charging through a new partnership with TXU Energy
+
+date: 2024-08-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Ford-UAW-Discount-2025.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>You read that right. <a href="https://electrek.co/guides/ford/">Ford</a> EV drivers can charge 100% for free at home through its new partnership with TXU Energy. Ford and TXU launched the first-of-its-kind program in Texas, offering free home EV charging during select hours.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="375379" href="https://electrek.co/2024/08/12/ford-free-home-ev-charging-new-partnership/#more-375379" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/12/ford-free-home-ev-charging-new-partnership/>
 
 ---
 
@@ -13,7 +37,7 @@ updated: 2024-08-12 08:20:32
 
 date: 2024-08-12, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/53887649254_6f54bfa1c9_k.jpg?quality=82&#038;strip=all&#038;w=1504" /></div><p><em><strong>Big thanks to this year’s event sponsors:</strong> Velotric, NIU, MathWorks, Generac, IOSi, SunCat Solar, and Tesla</em></p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/53887649254_6f54bfa1c9_k.jpg?quality=82&#038;strip=all&#038;w=1504" /></div><p><em><strong>Big thanks to this year’s event sponsors:</strong> Velotric, NIU, Altair, Bridgestone, MathWorks, Generac, IOSiX, SunCat Solar, Tesla, and Event Partner, the National Park Service</em></p>
 
 
 

@@ -1,11 +1,47 @@
 ---
 title: central coast 2024.33
-updated: 2024-08-12 08:20:26
+updated: 2024-08-12 09:38:06
 ---
 
 # central coast 2024.33
 
-(date: 2024-08-12 08:20:26)
+(date: 2024-08-12 09:38:06)
+
+---
+
+## Art, Design & Architecture Museum Features Works of Keith Puccinelli
+
+date: 2024-08-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Art, Design &#38; Architecture Museum (AD&#38;A) at UC Santa Barbara will present the exhibit POOCH: The Art Full Life of Keith Julius Puccinelli as the headliner of its fall [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/art-design-architecture-museum-features-works-of-keith-puccinelli/">Art, Design &amp; Architecture Museum Features Works of Keith Puccinelli</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/art-design-architecture-museum-features-works-of-keith-puccinelli/>
+
+---
+
+## Big Sharks Have a Big Impact — And a Big Problem
+
+date: 2024-08-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The ocean has hammerheads, sawsharks and even spadenose sharks. It seems there’s a shark for every task. Indeed, these predators each have specific roles to play in their ecosystems. A [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/big-sharks-have-a-big-impact-and-a-big-problem/">Big Sharks Have a Big Impact — And a Big Problem</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/big-sharks-have-a-big-impact-and-a-big-problem/>
+
+---
+
+## Lompoc Valley Medical Center Nurse Honored With DAISY Award
+
+date: 2024-08-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Chris Wagar, a registered nurse at Lompoc Valley Medical Center (LVMC) has received the DAISY Award for Extraordinary Nurses. The international honor is part of The DAISY Foundation’s mission to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lompoc-valley-medical-center-nurse-honored-with-daisy-award/">Lompoc Valley Medical Center Nurse Honored With DAISY Award</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/lompoc-valley-medical-center-nurse-honored-with-daisy-award/>
 
 ---
 
@@ -13,7 +49,7 @@ updated: 2024-08-12 08:20:26
 
 date: 2024-08-12, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sunset at Goleta’s Ellwood Mesa." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?w=1620&amp;ssl=1 1620w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sunset at Goleta’s Ellwood Mesa." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?w=1620&amp;ssl=1 1620w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/121322-POD-Cathy-Macaulay.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The post <a href="https://www.noozhawk.com/sunset-at-ellwood-mesa/">Sunset at Ellwood Mesa</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 
@@ -25,7 +61,7 @@ date: 2024-08-12, from: Newshawk, the freshest news in Santa Barbara County
 
 date: 2024-08-12, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-SpaceX-ASBM1-cont-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Two Space Norway satellites designed to improve military and civilian communications in the Arctic arrived in their unique orbit thanks to a successful Falcon 9 rocket ride Sunday from Vandenberg [&#8230;]</p>
 <p>The post <a href="https://www.noozhawk.com/falcon-rocket-delivers-pair-of-satellites-to-boost-communication-in-arctic/">Falcon Rocket Delivers Pair of Satellites to Boost Communication in Arctic</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
