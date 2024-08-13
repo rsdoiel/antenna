@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.33
-updated: 2024-08-12 16:40:38
+updated: 2024-08-13 08:37:56
 ---
 
 # libraries 2024.33
 
-(date: 2024-08-12 16:40:38)
+(date: 2024-08-13 08:37:56)
 
 ---
 
@@ -26,6 +26,30 @@ date: 2024-08-15, from: ETH Zurich, recently added
 Beltrao, Pedro; Van Den Bossche, Tim; Gabriels, Ralf; Holstein, Tanja; Kockmann, Tobias; Nameni, Alireza; Panse, Christian; Schlapbach, Ralph; Lautenbacher, Ludwig; Mattanovich, Matthias; Nesvizhskii, Alexey; Van Puyvelde, Bart; Scheid, Jonas; Schwämmle, Veit; Strauss, Maximilian; Susmelj, Anna Klimovskaia; The, Matthew; Webel, Henry; Wilhelm, Mathias; Winkelhardt, Dirk; Wolski, Witold E.; Xi, Muyao 
 
 <http://hdl.handle.net/20.500.11850/682080>
+
+---
+
+## Day in Review (August 12–15)
+
+date: 2024-08-13, from: Association of Research Libraries News
+
+<p>Last Updated on August 13, 2024, 8:12 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, August 13 &#124; Wednesday, August 14 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-august-12-15/">Day in Review (August 12–15)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/day-in-review/day-in-review-august-12-15/>
+
+---
+
+## Guest Post — Learning from the Archives to Build the Future at the APS Press
+
+date: 2024-08-13, from: Scholarly Kitchen
+
+<p>Jon Repetti reflects on the lessons being learned from the American Philosophical Society's re-entrance into the fray of the scholarly publishing marketplace.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/08/13/guest-post-learning-from-the-archives-to-build-the-future-at-the-aps-press/">Guest Post &#8212; Learning from the Archives to Build the Future at the APS Press</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/08/13/guest-post-learning-from-the-archives-to-build-the-future-at-the-aps-press/>
 
 ---
 

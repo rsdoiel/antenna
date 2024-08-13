@@ -1,11 +1,333 @@
 ---
 title: columns 2024.33
-updated: 2024-08-12 16:40:35
+updated: 2024-08-13 08:37:54
 ---
 
 # columns 2024.33
 
-(date: 2024-08-12 16:40:35)
+(date: 2024-08-13 08:37:54)
+
+---
+
+##  Race Is a Fiction, Racism Is Real 
+
+date: 2024-08-13, updated: 2024-08-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/race-is-a-fiction-racism-is-real>
+
+---
+
+##  This nasal vaccine that &#8220;prevents COVID from spreading&#8221; sounds promising. I haven&#8217;t... 
+
+date: 2024-08-13, updated: 2024-08-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045109-this-nasal-vaccine-that-p>
+
+---
+
+##  Huge drop in homicides in the first half of 2024 in many... 
+
+date: 2024-08-13, updated: 2024-08-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045108-huge-drop-in-homicides-in>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-13, from: Dave Winer's Scripting News)
+
+The <a href="http://scripting.com/2024/08/12.html#a162319">new rule for journalists</a> is sweeping <a href="https://www.threads.net/@davew/post/C-k5VrQJNXL">Threads</a> and <a href="https://mastodon.social/@davew/112950301629323804">Mastodon</a>. People have power we don’t use but could. We could turn off the interview after the first egregious lie, even if the reporters don't. 
+
+<http://scripting.com/2024/08/13.html#a122158>
+
+---
+
+## On the Voynich Manuscript
+
+date: 2024-08-13, updated: 2024-08-12, from: Bruce Schneier blog
+
+<p>Really interesting <a href="https://www.theatlantic.com/magazine/archive/2024/09/decoding-voynich-manuscript/679157/?gift=YFkW3a8mqv4T0YBMneIYIuIiYZJAqQJorEylZzhFIOw&#038;utm_source=copy-link&#038;utm_medium=social&#038;utm_campaign=share&#038;fbclid=IwY2xjawEhtldleHRuA2FlbQIxMQABHdyEbPaL8wyhs9wMtkGXHfevH3pYDJ2kW9Oax8-NaxAEyKrmldht_ShcSg_aem_gPeUGAVQrTw8m61YZhwgig">article</a> on the ancient-manuscript scholars who are applying their techniques to the Voynich Manuscript.</p>
+<p>No one has been able to understand the writing yet, but there are some new understandings:</p>
+<blockquote><p>Davis presented her findings at the medieval-studies conference and <a href="https://muse.jhu.edu/pub/56/article/754633/pdf">published them in 2020</a> in the journal <i>Manuscript Studies</i>. She had hardly solved the Voynich, but she’d opened it to new kinds of investigation. If five scribes had come together to write it, the manuscript was probably the work of a community, rather than of a single deranged mind or con artist. Why the community used its own language, or code, remains a mystery. Whether it was a cloister of alchemists, or mad monks, or a group like the medieval Béguines&#8212;a secluded order of Christian women&#8212;required more study. But the marks of frequent use signaled that the manuscript served some routine, perhaps daily function...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/08/on-the-voynich-manuscript.html>
+
+---
+
+## Kamalanomics
+
+date: 2024-08-13, from: Robert Reich's blog
+
+What it might look like (fingers crossed) 
+
+<https://robertreich.substack.com/p/kamalaconomics>
+
+---
+
+## 2024-08-11 Serving bare git on the web
+
+date: 2024-08-13, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-11-serving-bare-git-on-the-web">2024-08-11 Serving bare git on the web</h1>
+
+<p>In the old days, I used <code>cgit</code> to render my git repositories on the web.
+It&rsquo;s simple to set up since it&rsquo;s a CGI script.
+This is ideal for URLs that get very few hits.
+When nobody is requesting the URL, the CGI script isn&rsquo;t running and no resources are being used.
+When a URL is requested, however, the CGI script loads, the interpreter loads, the libraries load, the script executes…
+It&rsquo;s an expensive end-point!
+And you know how it is.
+The web is full of leeches and bad bots, crawlers and idiots.
+Having an expensive end-point means it needs protection.</p>
+
+<p>For I while I thought that <code>legit</code> was the answer.
+It was nice and fast and all that.
+But recently, <code>git clone</code> no longer worked.
+It calls <code>git upload-pack</code> as an intermediate workaround for <a href="https://github.com/go-git/go-git/issues/1062">#1062</a>.
+This was failing for some reason, however.
+I tinkered with it for a while but didn&rsquo;t get anywhere.</p>
+
+<p>Then I started thinking about <a class="account" href="https://idiomdrottning.org/users/Sandra" title="@Sandra@idiomdrottning.org">@Sandra</a>&rsquo;s post on <a href="https://idiomdrottning.org/hosting-git-repos">hosting git repos</a>.
+I made some changes to my Apache config and now <code>git clone</code> works again.</p>
+
+<p>The key is that you need a <code>post-update</code> hook that calls <code>git update-server-info</code>.
+Each git repository already comes with a <code>post-update.sample</code> hook containing the necessary code, so I needed to loop over all the bare repositories I had and rename the example hook.</p>
+
+<p>Using the Fish shell:</p>
+
+<pre><code>for d in *.git
+    sudo -u git mv $d/hooks/post-update.sample $d/hooks/post-update
+end
+</code></pre>
+
+<p>Sadly, this is not good enough.</p>
+
+<p>In order to generate an <code>index.html</code> file for every repository, I need a hook that regenerates it.
+If you know how to determine whether regeneration can be skipped, I&rsquo;d love to hear how to that.</p>
+
+<p>This hook also updates or adds the <code>AddDescription</code> lines I need.</p>
+
+<p>I prepared a hook that I wanted to install in every repository and saved it as <code>~/post-update</code>.</p>
+
+<p>This is what it looks like, using the Fish shell:</p>
+
+<pre><code>#!/usr/bin/fish
+
+git update-server-info
+
+# create index.html
+set branch (git branch --show-current)
+set template (cat /home/git/.readme.html | string collect)
+set title (basename (pwd))
+set body (git show $branch:README.md | cmark --to html | string collect)
+printf &quot;$template&quot; &quot;$title&quot; &quot;$body&quot; &quot;$title&quot; &gt; index.html
+
+# update description
+set description (cat description)
+sed --in-place=~ --expression &quot;/ $title/d&quot; /home/git/.htaccess
+printf &quot;AddDescription \&quot;$description\&quot; $title\n&quot; &gt;&gt; /home/git/.htaccess
+</code></pre>
+
+<p>(I need the title twice, once for the title and once for the reminder on how to clone.)</p>
+
+<p>I turn Markdown into HTML using <code>cmark</code>.
+Common Mark is the closest we have to a standard, I guess.</p>
+
+<p>The template <code>/home/git/.readme.html</code> looks like this:</p>
+
+<pre><code>&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;utf-8&quot;&gt;
+    &lt;meta name=&quot;format-detection&quot; content=&quot;telephone=no&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
+    &lt;title&gt;%s&lt;/title&gt;
+    &lt;style&gt;
+html { max-width: 70ch; padding: 1ch; margin: auto; }
+body { hyphens: auto; }
+    &lt;/style&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;nav&gt;
+      &lt;a href=&quot;https://src.alexschroeder.ch/&quot;&gt;Source code repositories&lt;/a&gt;
+    &lt;/nav&gt;
+    &lt;main&gt;
+%s&lt;/main&gt;
+    &lt;footer&gt;
+      &lt;h2&gt;Clone&lt;/h2&gt;
+      &lt;pre&gt;
+&lt;mark&gt;git clone https://src.alexschroeder.ch/%s&lt;/mark&gt;
+      &lt;/pre&gt;
+    &lt;/footer&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+
+<p>So now I needed to distribute the <code>post-update</code> hook to every repository and run it once.
+I wrote yet another Fish script, <code>~/recreate-index</code>:</p>
+
+<pre><code>#!/usr/bin/fish
+for d in /home/git/*.git
+    echo $d
+    cd $d
+    cp ~/post-update hooks/
+    chown git:git hooks/post-update
+    chmod 775 hooks/post-update
+    sudo -u git git hook run post-update
+end
+</code></pre>
+
+<p>I&rsquo;m currently hosting 95 repositories according to <code>ls -d /home/git/*.git | wc -l</code>.
+Some of these don&rsquo;t have a <code>README.md</code> file.
+Should I ever touch them again, I&rsquo;ll have to investigate.</p>
+
+<p>Now, for the Apache web server – I changed my site to the following:</p>
+
+<pre><code>&lt;VirtualHost *:443&gt;
+    ServerAdmin alex@alexschroeder.ch
+    ServerName src.alexschroeder.ch
+    Include conf-enabled/blocklist.conf
+    SSLEngine on
+    DocumentRoot /home/git
+   &lt;Directory /home/git&gt;
+        Options Indexes
+        AllowOverride All
+        Require all granted
+    &lt;/Directory&gt;
+&lt;/VirtualHost&gt;
+</code></pre>
+
+<p>The <code>/home/git</code> directory has an <code>.htaccess</code> file that starts out containing the following:</p>
+
+<pre><code>HeaderName .top.html
+IndexOptions SuppressIcon SuppressSize FancyIndexing HTMLTable IgnoreCase
+IndexOrderDefault Descending Date
+IndexHeadInsert &quot;&lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=1\&quot;&gt;&quot;
+IndexOptions Charset=UTF-8
+</code></pre>
+
+<p>The <code>.top.html</code> file contains a fragment to add to the top of the index:</p>
+
+<pre><code>&lt;style&gt;
+body { max-width: 80ch }
+table { overflow-x: auto }
+td { padding: 0.5ex 1em 0 0; white-space: nowrap }
+td:nth-child(3) { white-space: wrap }
+&lt;/style&gt;
+&lt;h1&gt;Source code repositories&lt;/h1&gt;
+&lt;p&gt;
+  Hello!
+&lt;/p&gt;
+&lt;p&gt;
+  I'm Alex Schroeder.
+  These are my source code repositories. You can find out more about me on
+  &lt;a href=&quot;https://alexschroeder.ch/&quot;&gt;my blog&lt;/a&gt;. There, you'll also find a page
+  listing ways to &lt;a href=&quot;https://alexschroeder.ch/view/Contact&quot;&gt;contact me&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+  As for the git repositories, you should be able to clone them as they are.
+  For example:
+&lt;/p&gt;
+&lt;pre&gt;
+  git clone https://src.alexschroeder.ch/oddmu.git
+&lt;/pre&gt;
+&lt;p&gt;
+  For more about this setup, see
+  &lt;a href=&quot;https://idiomdrottning.org/hosting-git-repos&quot;&gt;How to host git repos&lt;/a&gt;
+  by &lt;a href=&quot;https://idiomdrottning.org/users/Sandra&quot;&gt;@Sandra&lt;/a&gt; and my post,
+  &lt;a href=&quot;https://alexschroeder.ch/edit/2024-08-11-bare-git&quot;&gt;2024-08-11 Serving bare git on the web&lt;/a&gt;.
+&lt;/p&gt;
+</code></pre>
+
+<p><a href="https://src.alexschroeder.ch/">Take a look</a>!</p>
+
+<p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Git">#Git</a> <a class="tag" href="/search/?q=%23Administration">#Administration</a></p>
+
+<p><strong>2024-08-12</strong>. I wondered about links from the README to local files.
+Right now, linking to images and files hosted in the same repository doesn&rsquo;t work since they don&rsquo;t exist in the raw repository.
+The question then becomes, as far as I am concerned, whether this README is supposed to speak to developers or end-users?
+If it is for developers, then pictures, screenshots, PDF files and all of that don&rsquo;t need to be linked from the repository.
+If you are interested in these things, do a <code>git clone --depth 1</code> and investigate locally.</p>
+
+<p>If the repository is for the end users, however, things are harder.
+The <code>post-update</code> hook should extract all the local files linked to from the README.
+Something like the following, perhaps:</p>
+
+<pre><code>for file in (printf &quot;%s\n&quot; $body | /home/oddmu/oddmu links - | egrep -v '^(https?:|mailto:|/)')
+    set dir (dirname $file)
+    if test ! -d $dir
+        mkdir -p $dir
+    end
+    echo $file; sudo -u git git show $branch:$file &gt; $file
+end
+</code></pre>
+
+<p>This uses <a href="oddmu">oddmu</a> to extract the links from a Markdown file, creates the necessary directories and checks out the files.</p>
+
+<p>But if the files are no longer linked from the README, they are not deleted.
+If a directory is linked from the README (I have done this! 🤦), the checkout won&rsquo;t work.</p>
+
+<p>I think the better way forward is to move this information elsewhere.
+The README is not the documentation.</p>
+
+<p>And with that, I think I did it! Serving git repositories from static files. A single directory per project containing the bare git data and a single <code>index.html</code> file. No more gazillion end points for crawlers to lose themselves.</p> 
+
+<https://alexschroeder.ch/view/2024-08-11-bare-git>
+
+---
+
+## August 12, 2024
+
+date: 2024-08-13, from: Heather Cox Richardson blog
+
+The 2024 election is shaping up to be bizarre on the Republican side. 
+
+<https://heathercoxrichardson.substack.com/p/august-12-2024>
+
+---
+
+## Nick Heer on Patreon Creators Paying the Full 30 Percent App Store Rate for New Subscriptions
+
+date: 2024-08-13, updated: 2024-08-13, from: Daring Fireball
+
+ 
+
+<https://pxlnv.com/linklog/patreon-in-app-purchases/>
+
+---
+
+## Patreon Had Spent a Decade in an App Store Gray Zone
+
+date: 2024-08-13, updated: 2024-08-13, from: Daring Fireball
+
+ 
+
+<https://techcrunch.com/2024/08/12/apple-says-patreon-must-switch-to-its-billing-system-or-risk-removal-from-app-store/>
+
+---
+
+## ‘Apple’s Requirements to Hit Creators and Fans on Patreon’
+
+date: 2024-08-13, updated: 2024-08-13, from: Daring Fireball
+
+ 
+
+<https://news.patreon.com/articles/understanding-apple-requirements-for-patreon>
+
+---
+
+## Reckoning: Part 2 — Object Lesson
+
+date: 2024-08-13, updated: 2024-08-13, from: Alex Russel's blog
+
+ 
+
+<https://infrequently.org/2024/08/object-lesson/>
 
 ---
 
@@ -184,214 +506,6 @@ date: 2024-08-12, updated: 2024-08-12, from: Jason Kittke's blog
  
 
 <https://kottke.org/24/08/the-political-center-between-fascism-and-democracy-is-fascism>
-
----
-
-## 2024-08-11 Serving bare git on the web
-
-date: 2024-08-12, from: Alex Schroeder's Blog
-
-<h1 id="2024-08-11-serving-bare-git-on-the-web">2024-08-11 Serving bare git on the web</h1>
-
-<p>In the old days, I used <code>cgit</code> to render my git repositories on the web.
-It&rsquo;s simple to set up since it&rsquo;s a CGI script.
-This is ideal for URLs that get very few hits.
-When nobody is requesting the URL, the CGI script isn&rsquo;t running and no resources are being used.
-When a URL is requested, however, the CGI script loads, the interpreter loads, the libraries load, the script executes…
-It&rsquo;s an expensive end-point!
-And you know how it is.
-The web is full of leeches and bad bots, crawlers and idiots.
-Having an expensive end-point means it needs protection.</p>
-
-<p>For I while I thought that <code>legit</code> was the answer.
-It was nice and fast and all that.
-But recently, <code>git clone</code> no longer worked.
-It calls <code>git upload-pack</code> as an intermediate workaround for <a href="https://github.com/go-git/go-git/issues/1062">#1062</a>.
-This was failing for some reason, however.
-I tinkered with it for a while but didn&rsquo;t get anywhere.</p>
-
-<p>Then I started thinking about <a class="account" href="https://idiomdrottning.org/users/Sandra" title="@Sandra@idiomdrottning.org">@Sandra</a>&rsquo;s post on <a href="https://idiomdrottning.org/hosting-git-repos">hosting git repos</a>.
-I made some changes to my Apache config and now <code>git clone</code> works again.</p>
-
-<p>The key is that you need a <code>post-update</code> hook that calls <code>git update-server-info</code>.
-Each git repository already comes with a <code>post-update.sample</code> hook containing the necessary code, so I needed to loop over all the bare repositories I had and rename the example hook.</p>
-
-<p>Using the Fish shell:</p>
-
-<pre><code>for d in *.git
-    sudo -u git mv $d/hooks/post-update.sample $d/hooks/post-update
-end
-</code></pre>
-
-<p>Sadly, this is not good enough.</p>
-
-<p>In order to generate an <code>index.html</code> file for every repository, I need a hook that regenerates it.
-If you know how to determine whether regeneration can be skipped, I&rsquo;d love to hear how to that.</p>
-
-<p>This hook also updates or adds the <code>AddDescription</code> lines I need.</p>
-
-<p>I prepared a hook that I wanted to install in every repository and saved it as <code>~/post-update</code>.</p>
-
-<p>This is what it looks like, using the Fish shell:</p>
-
-<pre><code>#!/usr/bin/fish
-
-git update-server-info
-
-# create index.html
-set branch (git branch --show-current)
-set template (cat /home/git/.readme.html | string collect)
-set title (basename (pwd))
-set body (git show $branch:README.md | cmark --to html | string collect)
-printf &quot;$template&quot; &quot;$title&quot; &quot;$body&quot; &quot;$title&quot; &gt; index.html
-
-# update description
-set description (cat description)
-sed --in-place=~ --expression &quot;/ $title/d&quot; /home/git/.htaccess
-printf &quot;AddDescription \&quot;$description\&quot; $title\n&quot; &gt;&gt; /home/git/.htaccess
-</code></pre>
-
-<p>(I need the title twice, once for the title and once for the reminder on how to clone.)</p>
-
-<p>I turn Markdown into HTML using <code>cmark</code>.
-Common Mark is the closest we have to a standard, I guess.</p>
-
-<p>The template <code>/home/git/.readme.html</code> looks like this:</p>
-
-<pre><code>&lt;!DOCTYPE html&gt;
-&lt;html lang=&quot;en&quot;&gt;
-  &lt;head&gt;
-    &lt;meta charset=&quot;utf-8&quot;&gt;
-    &lt;meta name=&quot;format-detection&quot; content=&quot;telephone=no&quot;&gt;
-    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
-    &lt;title&gt;%s&lt;/title&gt;
-    &lt;style&gt;
-html { max-width: 70ch; padding: 1ch; margin: auto; }
-body { hyphens: auto; }
-    &lt;/style&gt;
-  &lt;/head&gt;
-  &lt;body&gt;
-    &lt;nav&gt;
-      &lt;a href=&quot;https://src.alexschroeder.ch/&quot;&gt;Source code repositories&lt;/a&gt;
-    &lt;/nav&gt;
-    &lt;main&gt;
-%s&lt;/main&gt;
-    &lt;footer&gt;
-      &lt;h2&gt;Clone&lt;/h2&gt;
-      &lt;pre&gt;
-&lt;mark&gt;git clone https://src.alexschroeder.ch/%s&lt;/mark&gt;
-      &lt;/pre&gt;
-    &lt;/footer&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</code></pre>
-
-<p>So now I needed to distribute the <code>post-update</code> hook to every repository and run it once.
-I wrote yet another Fish script, <code>~/recreate-index</code>:</p>
-
-<pre><code>#!/usr/bin/fish
-for d in /home/git/*.git
-    echo $d
-    cd $d
-    cp ~/post-update hooks/
-    chown git:git hooks/post-update
-    chmod 775 hooks/post-update
-    sudo -u git git hook run post-update
-end
-</code></pre>
-
-<p>I&rsquo;m currently hosting 95 repositories according to <code>ls -d /home/git/*.git | wc -l</code>.
-Some of these don&rsquo;t have a <code>README.md</code> file.
-Should I ever touch them again, I&rsquo;ll have to investigate.</p>
-
-<p>Now, for the Apache web server – I changed my site to the following:</p>
-
-<pre><code>&lt;VirtualHost *:443&gt;
-    ServerAdmin alex@alexschroeder.ch
-    ServerName src.alexschroeder.ch
-    Include conf-enabled/blocklist.conf
-    SSLEngine on
-    DocumentRoot /home/git
-   &lt;Directory /home/git&gt;
-        Options Indexes
-        AllowOverride All
-        Require all granted
-    &lt;/Directory&gt;
-&lt;/VirtualHost&gt;
-</code></pre>
-
-<p>The <code>/home/git</code> directory has an <code>.htaccess</code> file that starts out containing the following:</p>
-
-<pre><code>HeaderName .top.html
-IndexOptions SuppressIcon SuppressSize FancyIndexing HTMLTable
-IndexOrderDefault Descending Date
-</code></pre>
-
-<p>The <code>.top.html</code> file contains a fragment to add to the top of the index:</p>
-
-<pre><code>&lt;style&gt;
-body { max-width: 80ch }
-td { padding: 0.5ex 1em 0 0; white-space: nowrap; overflow-x: auto }
-&lt;/style&gt;
-&lt;h1&gt;Source code repositories&lt;/h1&gt;
-&lt;p&gt;
-  Hello!
-&lt;/p&gt;
-&lt;p&gt;
-  I'm Alex Schroeder.
-  These are my source code repositories. You can find out more about me on
-  &lt;a href=&quot;https://alexschroeder.ch/&quot;&gt;my blog&lt;/a&gt;. There, you'll also find a page
-  listing ways to &lt;a href=&quot;https://alexschroeder.ch/view/Contact&quot;&gt;contact me&lt;/a&gt;.
-&lt;/p&gt;
-&lt;p&gt;
-  As for the git repositories, you should be able to clone them as they are.
-  For example:
-&lt;/p&gt;
-&lt;pre&gt;
-  git clone https://src.alexschroeder.ch/oddmu.git
-&lt;/pre&gt;
-&lt;p&gt;
-  For more about this setup, see
-  &lt;a href=&quot;https://idiomdrottning.org/hosting-git-repos&quot;&gt;How to host git repos&lt;/a&gt;
-  by &lt;a href=&quot;https://idiomdrottning.org/users/Sandra&quot;&gt;@Sandra&lt;/a&gt; and my post,
-  &lt;a href=&quot;https://alexschroeder.ch/edit/2024-08-11-bare-git&quot;&gt;2024-08-11 Serving bare git on the web&lt;/a&gt;.
-&lt;/p&gt;
-</code></pre>
-
-<p><a href="https://src.alexschroeder.ch/">Take a look</a>!</p>
-
-<p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Git">#Git</a> <a class="tag" href="/search/?q=%23Administration">#Administration</a></p>
-
-<p><strong>2024-08-12</strong>. I wondered about links from the README to local files.
-Right now, linking to images and files hosted in the same repository doesn&rsquo;t work since they don&rsquo;t exist in the raw repository.
-The question then becomes, as far as I am concerned, whether this README is supposed to speak to developers or end-users?
-If it is for developers, then pictures, screenshots, PDF files and all of that don&rsquo;t need to be linked from the repository.
-If you are interested in these things, do a <code>git clone --depth 1</code> and investigate locally.</p>
-
-<p>If the repository is for the end users, however, things are harder.
-The <code>post-update</code> hook should extract all the local files linked to from the README.
-Something like the following, perhaps:</p>
-
-<pre><code>for file in (printf &quot;%s\n&quot; $body | /home/oddmu/oddmu links - | egrep -v '^(https?:|mailto:|/)')
-    set dir (dirname $file)
-    if test ! -d $dir
-        mkdir -p $dir
-    end
-    echo $file; sudo -u git git show $branch:$file &gt; $file
-end
-</code></pre>
-
-<p>This uses <a href="oddmu">oddmu</a> to extract the links from a Markdown file, creates the necessary directories and checks out the files.</p>
-
-<p>But if the files are no longer linked from the README, they are not deleted.
-If a directory is linked from the README (I have done this! 🤦), the checkout won&rsquo;t work.</p>
-
-<p>I think the better way forward is to move this information elsewhere.
-The README is not the documentation.</p>
-
-<p>And with that, I think I did it! Serving git repositories from static files. A single directory per project containing the bare git data and a single <code>index.html</code> file. No more gazillion end points for crawlers to lose themselves.</p> 
-
-<https://alexschroeder.ch/view/2024-08-11-bare-git>
 
 ---
 

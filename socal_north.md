@@ -1,11 +1,32 @@
 ---
 title: socal north 2024.33
-updated: 2024-08-12 16:40:32
+updated: 2024-08-13 08:37:51
 ---
 
 # socal north 2024.33
 
-(date: 2024-08-12 16:40:32)
+(date: 2024-08-13 08:37:51)
+
+---
+
+## Concert Review: Foo Fighters unite cathartic classics with newer hits, paid homage with tributes
+
+date: 2024-08-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Once again, Foo Fighters prove they&#8217;ll stick around.
+The &#8220;Everything Or Nothing At All&#8221; tour continued its electrifying run with Foo Fighters&#8217; second show at Los Angeles&#8217; BMO Stadium on Sunday night. 
+
+<https://dailybruin.com/2024/08/12/concert-review-foo-fighters-unite-cathartic-classics-with-newer-hits-paid-homage-with-tributes/>
+
+---
+
+## Editorial: Wooden Center’s renovation raises transparency, accessibility, overcrowding issues
+
+date: 2024-08-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+From the Olympians making their mark in Paris to the intrepid newcomers making their first jaunt up the Death Stairs to the Hill, exercise is a central part of the UCLA experience. 
+
+<https://dailybruin.com/2024/08/12/editorial-wooden-centers-renovation-raises-transparency-accessibility-overcrowding-issues/>
 
 ---
 

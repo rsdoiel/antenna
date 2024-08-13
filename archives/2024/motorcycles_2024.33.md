@@ -1,11 +1,81 @@
 ---
 title: motorcycles 2024.33
-updated: 2024-08-12 16:40:39
+updated: 2024-08-13 08:37:58
 ---
 
 # motorcycles 2024.33
 
-(date: 2024-08-12 16:40:39)
+(date: 2024-08-13 08:37:58)
+
+---
+
+## Would You Ride This Custom Carbon 1984 Ducati 900SS?
+
+date: 2024-08-13, from: Ride Apart, Electric Motorcycle News
+
+It’s purpose-built from the ground up to turn heads.  
+
+<https://www.rideapart.com/news/729772/purpose-built-moto-ducati-900ss-carbon/>
+
+---
+
+## Take a Look at These Sweet New Kawasaki Z900RS and Z650RS Colors
+
+date: 2024-08-13, from: Ride Apart, Electric Motorcycle News
+
+Once again, Team Green gives a master class in how to kick it old school. 
+
+<https://www.rideapart.com/news/729919/kawasaki-z900rs-z650rs-new-colors/>
+
+---
+
+## Oil-Maker Castrol Makes $50M Investment In Moto Battery-Swapping Company
+
+date: 2024-08-13, from: Ride Apart, Electric Motorcycle News
+
+Castrol sees a huge opportunity for diversification with Gogoro.  
+
+<https://www.rideapart.com/news/729793/castrol-50m-usd-investment-gogoro/>
+
+---
+
+## New Battery Recycling Law In Illinois, But What Other States Have One?
+
+date: 2024-08-13, from: Ride Apart, Electric Motorcycle News
+
+Under the new Illinois law, battery sellers and distributors must develop battery recycling programs by 2026. 
+
+<https://www.rideapart.com/news/729904/ebike-battery-recycling-programs-us/>
+
+---
+
+## Tom Cruise Rappelled Into the Olympics, Rode Off on a LiveWire S2 Del Mar
+
+date: 2024-08-13, from: Ride Apart, Electric Motorcycle News
+
+How else would he close the games? 
+
+<https://www.rideapart.com/news/729901/tom-cruise-olympics-livewire-del-mar/>
+
+---
+
+## Polaris Drops 1st Limited Edition Snowmobile, Has Sick 1990s Graphics
+
+date: 2024-08-13, from: Ride Apart, Electric Motorcycle News
+
+Totally rad, dude.  
+
+<https://www.rideapart.com/news/729897/polaris-70th-anniversary-limited-edition-switchback-assault-snowmobile/>
+
+---
+
+## VR46 MotoGP Team Will Receive Ducati Factory Support, Starts Next Year
+
+date: 2024-08-13, from: Ride Apart, Electric Motorcycle News
+
+The Doctor’s very own racing team has gone a long way since it started back in 2014.  
+
+<https://www.rideapart.com/news/729770/vr46-racing-team-receives-ducati-factory-support/>
 
 ---
 

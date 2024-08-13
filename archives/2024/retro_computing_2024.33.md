@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.33
-updated: 2024-08-12 16:40:40
+updated: 2024-08-13 08:37:58
 ---
 
 # retro computing 2024.33
 
-(date: 2024-08-12 16:40:40)
+(date: 2024-08-13 08:37:58)
+
+---
+
+## Drag'n'Drop 13i4 edition reviewed
+
+date: 2024-08-13, from: Icon Bar, RISC OS News
+
+The Summer edition of Drag'n'Drop magazine has now been sent out to subscribers. This edition is 47 pages of news, reviews, tools and lots of code! As a PDF you can read it on just about any system. 
+
+<http://www.iconbar.com/comments/rss/news2093.html>
 
 ---
 

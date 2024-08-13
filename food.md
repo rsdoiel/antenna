@@ -1,11 +1,61 @@
 ---
 title: food 2024.33
-updated: 2024-08-12 16:40:41
+updated: 2024-08-13 08:38:00
 ---
 
 # food 2024.33
 
-(date: 2024-08-12 16:40:41)
+(date: 2024-08-13 08:38:00)
+
+---
+
+## Spiced Pineapple Upside-Down Cake
+
+date: 2024-08-13, from: Pepper Scale
+
+This spiced pineapple upside-down cake recipe adds just a little kick to the popular dessert. There’s cayenne pepper powder in the cake batter, but that’s not all. We add a few candied jalapeños here to add a delicious sweet bite (and lovely color) to the ... <p class="read-more-container"><a title="Spiced Pineapple Upside-Down Cake" class="read-more button" href="https://pepperscale.com/spiced-pineapple-upside-down-cake/#more-79611" aria-label="Read more about Spiced Pineapple Upside-Down Cake">Read more</a></p> 
+
+<https://pepperscale.com/spiced-pineapple-upside-down-cake/>
+
+---
+
+## Cherry Hoisin Sauce
+
+date: 2024-08-13, from: Pepper Scale
+
+Hoisin sauce is already packed full of flavor. Our homemade hoisin recipe shows the sauce in full detail &#8211; from molasses and peanut butter to Sriracha and Chinese five spice powder. It&#8217;s an experience unto itself. But boy do cherries add to the experience. This ... <p class="read-more-container"><a title="Cherry Hoisin Sauce" class="read-more button" href="https://pepperscale.com/cherry-hoisin-sauce/#more-52531" aria-label="Read more about Cherry Hoisin Sauce">Read more</a></p> 
+
+<https://pepperscale.com/cherry-hoisin-sauce/>
+
+---
+
+## Spicy Sausage Casserole
+
+date: 2024-08-13, from: Pepper Scale
+
+This is one of those classic dishes that takes on total new life with the addition of fiery heat. Spicy sausage casserole warms you right up, even on the coldest of nights. It&#8217;s total feel-good food that&#8217;s sure to be a family hit at dinner ... <p class="read-more-container"><a title="Spicy Sausage Casserole" class="read-more button" href="https://pepperscale.com/spicy-sausage-casserole/#more-85749" aria-label="Read more about Spicy Sausage Casserole">Read more</a></p> 
+
+<https://pepperscale.com/spicy-sausage-casserole/>
+
+---
+
+## Spiced Berry And Coconut Popsicles
+
+date: 2024-08-13, from: Pepper Scale
+
+These spiced berry and coconut popsicles are perfect for any hot summer day, providing just a little spiciness with a ton of sweet, fruity flavor. The battle between hot and cold seriously wakens the tastebuds. They are totally refreshing, fun to eat, and totally dairy-free. ... <p class="read-more-container"><a title="Spiced Berry And Coconut Popsicles" class="read-more button" href="https://pepperscale.com/spiced-berry-and-coconut-popsicles/#more-78694" aria-label="Read more about Spiced Berry And Coconut Popsicles">Read more</a></p> 
+
+<https://pepperscale.com/spiced-berry-and-coconut-popsicles/>
+
+---
+
+## Sriracha BBQ Sauce
+
+date: 2024-08-13, from: Pepper Scale
+
+For those that just can&#8217;t get enough spicy Sriracha sauce, incorporating it into something tasty for barbecue opens up a bunch of spicy eating fun. There&#8217;s a little sweet and a touch of&#160;tang in this Sriracha BBQ sauce. Brown sugar and honey pair with ketchup ... <p class="read-more-container"><a title="Sriracha BBQ Sauce" class="read-more button" href="https://pepperscale.com/sriracha-bbq-sauce/#more-17350" aria-label="Read more about Sriracha BBQ Sauce">Read more</a></p> 
+
+<https://pepperscale.com/sriracha-bbq-sauce/>
 
 ---
 

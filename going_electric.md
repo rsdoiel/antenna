@@ -1,11 +1,167 @@
 ---
 title: going electric 2024.33
-updated: 2024-08-12 16:40:41
+updated: 2024-08-13 08:37:59
 ---
 
 # going electric 2024.33
 
-(date: 2024-08-12 16:40:41)
+(date: 2024-08-13 08:37:59)
+
+---
+
+## Volkswagen’s electric Golf may come sooner than expected with help from Rivian
+
+date: 2024-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/VW-electric-Golf-Rivians-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">Thanks to Rivian’s software expertise, the long-awaited electric VW Golf could hit the market sooner than expected. <a href="https://electrek.co/guides/volkswagen/" target="_blank" rel="noopener">Volkswagen</a> is reportedly considering pulling forward the Golf EV launch despite delaying its Tesla-rivaling Trinity EV</span> again.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,volkswagen" data-layer-viewtype="unknown" data-post-id="375568" href="https://electrek.co/2024/08/13/vw-electric-golf-sooner-than-expected-rivians-help/#more-375568" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/13/vw-electric-golf-sooner-than-expected-rivians-help/>
+
+---
+
+## JackRabbit OG2 launch: The internet’s favorite ‘silly little e-bike’ gets big updates
+
+date: 2024-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/jackrabbit-OG2-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The <a href="https://bit.ly/Jackrabbit-bike">JackRabbit OG</a> was the first electric micro-bike to gain a mass following in the US, racking up a community of over 30,000 riders – or “Jackos” as they call themselves. Now the bike is getting a series of upgrades in the launch of its second-generation model: the JackRabbit OG2.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="375558" href="https://electrek.co/2024/08/13/jackrabbit-og2-launch-the-internets-favorite-silly-little-e-bike-gets-big-updates/#more-375558" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/13/jackrabbit-og2-launch-the-internets-favorite-silly-little-e-bike-gets-big-updates/>
+
+---
+
+## Would You Ride This Custom Carbon 1984 Ducati 900SS?
+
+date: 2024-08-13, from: Ride Apart, Electric Motorcycle News
+
+It’s purpose-built from the ground up to turn heads.  
+
+<https://www.rideapart.com/news/729772/purpose-built-moto-ducati-900ss-carbon/>
+
+---
+
+## Take a Look at These Sweet New Kawasaki Z900RS and Z650RS Colors
+
+date: 2024-08-13, from: Ride Apart, Electric Motorcycle News
+
+Once again, Team Green gives a master class in how to kick it old school. 
+
+<https://www.rideapart.com/news/729919/kawasaki-z900rs-z650rs-new-colors/>
+
+---
+
+## ZEEKR announces new LFP batteries that can recharge an EV 10-80% in 10.5 minutes [Video]
+
+date: 2024-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/ZEEKR-new-batteries.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ambitious young EV automaker <a href="https://electrek.co/guides/zeekr/">ZEEKR</a> is claiming a “new charging speed record” using its latest model and new lithium-iron-phosphate (LFP) batteries, unveiled during a Tech Day event in China today. ZEEKR states that its new batteries can recharge its EVs from 10-80% state-of-charge as quickly as 10.5 minutes. Check out a charging demonstration video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-batteries,ev-charging,lfp-batteries,zeekr,zeekr-007" data-layer-viewtype="unknown" data-post-id="375556" href="https://electrek.co/2024/08/13/zeekr-announces-new-lfp-batteries-recharge-ev-10-80-minutes/#more-375556" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/13/zeekr-announces-new-lfp-batteries-recharge-ev-10-80-minutes/>
+
+---
+
+## Oil-Maker Castrol Makes $50M Investment In Moto Battery-Swapping Company
+
+date: 2024-08-13, from: Ride Apart, Electric Motorcycle News
+
+Castrol sees a huge opportunity for diversification with Gogoro.  
+
+<https://www.rideapart.com/news/729793/castrol-50m-usd-investment-gogoro/>
+
+---
+
+## New Battery Recycling Law In Illinois, But What Other States Have One?
+
+date: 2024-08-13, from: Ride Apart, Electric Motorcycle News
+
+Under the new Illinois law, battery sellers and distributors must develop battery recycling programs by 2026. 
+
+<https://www.rideapart.com/news/729904/ebike-battery-recycling-programs-us/>
+
+---
+
+## Elon Musk is wrong about climate change
+
+date: 2024-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Elon-Musk-wrecking-ball.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk seems to have forgotten some of the basics of how climate change works, so we’re going to set the record clear about it now.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="climate-change,elon-musk" data-layer-viewtype="unknown" data-post-id="375533" href="https://electrek.co/2024/08/13/elon-musk-is-wrong-about-climate-change/#more-375533" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/13/elon-musk-is-wrong-about-climate-change/>
+
+---
+
+## Tesla Model 3 150,000-Mile Owner Review: Surprising Range Loss And Battery Degradation
+
+date: 2024-08-13, from: Inside EVs News
+
+After six years on the road, this American-made EV has held up better than expected. 
+
+<https://insideevs.com/news/729994/tesla-model-3-owner-review-150000-miles-range-loss/>
+
+---
+
+## Tom Cruise Rappelled Into the Olympics, Rode Off on a LiveWire S2 Del Mar
+
+date: 2024-08-13, from: Ride Apart, Electric Motorcycle News
+
+How else would he close the games? 
+
+<https://www.rideapart.com/news/729901/tom-cruise-olympics-livewire-del-mar/>
+
+---
+
+## Polaris Drops 1st Limited Edition Snowmobile, Has Sick 1990s Graphics
+
+date: 2024-08-13, from: Ride Apart, Electric Motorcycle News
+
+Totally rad, dude.  
+
+<https://www.rideapart.com/news/729897/polaris-70th-anniversary-limited-edition-switchback-assault-snowmobile/>
+
+---
+
+## VR46 MotoGP Team Will Receive Ducati Factory Support, Starts Next Year
+
+date: 2024-08-13, from: Ride Apart, Electric Motorcycle News
+
+The Doctor’s very own racing team has gone a long way since it started back in 2014.  
+
+<https://www.rideapart.com/news/729770/vr46-racing-team-receives-ducati-factory-support/>
+
+---
+
+## BMW’s Updated App Wants To Convince ICE Vehicle Drivers To Switch To Electric
+
+date: 2024-08-13, from: Inside EVs News
+
+After 200 trips in your gas-powered BMW, you can check out the app and see what EV would suit your needs. 
+
+<https://insideevs.com/news/729963/bmw-app-update-convince-ice-drivers-switch-to-ev/>
+
+---
+
+## Elon Musk: 'We Shouldn’t Vilify The Oil And Gas Industry'
+
+date: 2024-08-13, from: Inside EVs News
+
+“It’s not like the house is on fire immediately,” Tesla’s CEO said during an interview with former President Donald Trump. 
+
+<https://insideevs.com/news/729950/musk-we-should-not-vilify-oil-gas-industry/>
 
 ---
 

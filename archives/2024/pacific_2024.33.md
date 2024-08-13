@@ -1,11 +1,537 @@
 ---
 title: pacific 2024.33
-updated: 2024-08-12 16:40:33
+updated: 2024-08-13 08:37:52
 ---
 
 # pacific 2024.33
 
-(date: 2024-08-12 16:40:33)
+(date: 2024-08-13 08:37:52)
+
+---
+
+## MLB roundup: Braves edge Giants 1-0 in 10
+
+date: 2024-08-13, updated: 2024-08-13, from: Marianas Variety
+
+(Reuters) — Pinch hitter Travis d'Arnaud drove in the game's only run with a 10th-inning sacrifice fly and the Atlanta Braves pulled out a 1-0 road win over the San Francisco Giants on Monday. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-braves-edge-giants-1-0-in-10/article_159d1c9e-5984-11ef-b7b0-2fb22f3561fc.html>
+
+---
+
+## Worried about a convention clash, Democrats woo uncommitted delegates
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>Thousands of demonstrators are expected in the streets and the parks of Chicago for next week&#8217;s Democratic National Convention, most of them to protest the U.S. role in the war in the Gaza Strip. But officials are concerned about the potential for a more embarrassing spectacle: prime-time disruptions inside the arena itself.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/nation-world-news/worried-about-a-convention-clash-democrats-woo-uncommitted-delegates/>
+
+---
+
+## Public feedback sought for solar project
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>A proposed solar development near Waikoloa will be taking public feedback at a virtual meeting this evening.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/hawaii-news/public-feedback-sought-for-solar-project/>
+
+---
+
+## The process of rebuilding in Lahaina begins
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>LAHAINA &#8212; Kari and Rich Alexander have a goal to celebrate this Christmas with their two children in a new home just like the one they lost in the Lahaina wildfire one year and four days ago.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/hawaii-news/the-process-of-rebuilding-in-lahaina-begins/>
+
+---
+
+## State increasing no-passing zones on DKI Highway
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Transportation advises motorists that sections of the Daniel K. Inouye Highway, formerly Saddle Road, will become no-passing zones effective upon installation of signs and pavement markings.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/hawaii-news/state-increasing-no-passing-zones-on-dki-highway/>
+
+---
+
+## ‘I brought it upon myself’: Red Sox suspend Jarren Duran for 2 games after use of homophobic slur
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; &#8220;Before we get started, I just wanted to kind of say that I&#8217;ve had some fans reach out to me and tell me that they&#8217;re disappointed in me, and I just wanted to let them know that I&#8217;m sorry for my actions and that I&#8217;m gonna work on being better for them.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/sports/i-brought-it-upon-myself-red-sox-suspend-jarren-duran-for-2-games-after-use-of-homophobic-slur/>
+
+---
+
+## Paris Games reboot Olympic brand, raising bar for LA
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; Against all odds, the Paris Olympics have delivered.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/sports/paris-games-reboot-olympic-brand-raising-bar-for-la/>
+
+---
+
+## Mookie Betts is back, and more ‘tough decisions’ are coming for the Dodgers
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>MILWAUKEE &#8212; Some things don&#8217;t change, including Mookie Betts&#8217; superstitions. The Los Angeles Dodgers superstar is not a fan of ghosts, which is an issue because the supernatural is rumored to inhabit the historic Pfister Hotel in Milwaukee, where the Dodgers and most visiting clubs stay while in town.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/sports/mookie-betts-is-back-and-more-tough-decisions-are-coming-for-the-dodgers/>
+
+---
+
+## Dearica Hamby files federal lawsuit against WNBA, Aces alleging unlawful workplace discrimination, retaliation
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>Los Angeles Sparks forward Dearica Hamby filed a lawsuit in federal court in Nevada on Monday against the WNBA and the Las Vegas Aces, alleging unlawful workplace discrimination and retaliation.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/sports/dearica-hamby-files-federal-lawsuit-against-wnba-aces-alleging-unlawful-workplace-discrimination-retaliation/>
+
+---
+
+## U.S. officials to visit China for economic talks as trade tensions rise
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A group of senior Biden administration officials is traveling to Shanghai this week for a round of high-level meetings intended to keep the economic relationship between the United States and China on stable footing amid mounting trade tensions between the two countries.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/nation-world-news/u-s-officials-to-visit-china-for-economic-talks-as-trade-tensions-rise/>
+
+---
+
+## High hopes in Israel for ‘super hero’ cocoa that survived frontline conditions
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>ESHKOL COUNCIL, Israel (Reuters) &#8212; Farming can develop in mysterious ways. Israeli researchers learned about that when the war in Gaza seemed to have all but wrecked their work on a more resilient strain of the cocoa plant that could help alleviate a global shortage of the beans. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/nation-world-news/high-hopes-in-israel-for-super-hero-cocoa-that-survived-frontline-conditions/>
+
+---
+
+## Elon Musk interview of Trump hit by technical problems on X
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Republican presidential candidate Donald Trump&#8217;s scheduled interview with Elon Musk on the billionaire entrepreneur&#8217;s social media platform X on Monday evening ran into technical difficulties at the outset, with many users unable to access the live stream and Musk postponing the event.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/nation-world-news/elon-musk-interview-of-trump-hit-by-technical-problems-on-x/>
+
+---
+
+## Heat contributed to 47,000 deaths in Europe last year, but relief programs helped
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>More than 47,000 Europeans died from heat-related causes during 2023, the world&#8217;s hottest year on record, a new report in Nature Medicine has found.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/nation-world-news/heat-contributed-to-47000-deaths-in-europe-last-year-but-relief-programs-helped/>
+
+---
+
+## Older adults do not benefit from moderate drinking, large study finds
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>Even light drinking was associated with an increase in cancer deaths among older adults in Britain, researchers reported on Monday in a large study. But the risk was accentuated primarily in those who had existing health problems or who lived in low-income areas.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/nation-world-news/older-adults-do-not-benefit-from-moderate-drinking-large-study-finds/>
+
+---
+
+## Five world leaders have urged Iran not to attack
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>The Israeli military was at &#8220;peak readiness&#8221; Monday as it girded for an expected retaliatory attack from Iran and its regional proxies; the U.S. military was moving a guided-missile submarine into the region; and a White House spokesperson said U.S. intelligence suggested that it was &#8220;increasingly likely&#8221; that the attack on Israel would come within days.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/nation-world-news/five-world-leaders-have-urged-iran-not-to-attack/>
+
+---
+
+## Global EV sales up 21% in July as China records biggest jump of 2024, Rho Motion says
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>Global sales of fully electric and plug-in hybrid vehicles rose by a yearly 21% in July, thanks to China&#8217;s strongest growth this year and despite dropping demand in Europe, market research firm Rho Motion said Monday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/nation-world-news/global-ev-sales-up-21-in-july-as-china-records-biggest-jump-of-2024-rho-motion-says/>
+
+---
+
+## Seismic data indicates huge underground reservoir of liquid water on Mars
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; An immense reservoir of liquid water may reside deep under the surface of Mars within fractured igneous rocks, holding enough to fill an ocean that would cover the entire surface of Earth&#8217;s planetary neighbor.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/nation-world-news/seismic-data-indicates-huge-underground-reservoir-of-liquid-water-on-mars/>
+
+---
+
+## Universal basic income fails universally
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>Free money makes people less likely to work. If common sense doesn&#8217;t convince you of that, a new study should. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/opinion/universal-basic-income-fails-universally/>
+
+---
+
+## Is Harris or Trump fighting for workers? The union crowd in Detroit says it all
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>Igrew up in a union family in Detroit. Health insurance, food on the table, roof over our heads &#8212; as kids we took these for granted, but history tells us they were not easily earned, and work stoppages are perennial reminders that they are also hard to keep. As children we were unaware of the constant tension between labor and capital. All we knew was sometimes we ate at Red Lobster on Sundays, and sometimes we were lucky if we ate at all.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/opinion/is-harris-or-trump-fighting-for-workers-the-union-crowd-in-detroit-says-it-all/>
+
+---
+
+## Let’s Talk Food: Onions
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>Iprobably cut onions almost daily. It is such an essential ingredient in my cooking! So when I am thinking about what to write for my column, my inspiration is often something that I have in my hand.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/community/lets-talk-food-onions/>
+
+---
+
+## Appellate Court Upholds Constitutionality of Interim Special Prosecutor Position
+
+date: 2024-08-13, from: Island Times
+
+<figure><img width="1005" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/tamara.jpg?fit=1005%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/tamara.jpg?w=1057&amp;ssl=1 1057w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/tamara.jpg?resize=294%2C300&amp;ssl=1 294w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/tamara.jpg?resize=1005%2C1024&amp;ssl=1 1005w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/tamara.jpg?resize=768%2C783&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/tamara.jpg?resize=400%2C408&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/tamara.jpg?resize=706%2C719&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/tamara.jpg?fit=1005%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71837" data-permalink="https://islandtimes.org/appellate-court-upholds-constitutionality-of-interim-special-prosecutor-position/tamara/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/tamara.jpg?fit=1057%2C1077&amp;ssl=1" data-orig-size="1057,1077" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="tamara" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/tamara.jpg?fit=294%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/tamara.jpg?fit=780%2C795&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>An Appellate Court ruling has determined that the position of Interim Special Prosecutor (ISP) is not unconstitutional, confirming that the role does not require presidential appointment or Senate confirmation. &#8220;The ISP is not a national officer under the Appointments Clause. Accordingly, the ISP position does not require appointment by the President with the advice and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/appellate-court-upholds-constitutionality-of-interim-special-prosecutor-position/">Appellate Court Upholds Constitutionality of Interim Special Prosecutor Position</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/appellate-court-upholds-constitutionality-of-interim-special-prosecutor-position/>
+
+---
+
+## U.S. 7th Fleet Flagship USS Blue Ridge makes historic visit to Palau
+
+date: 2024-08-13, from: Island Times
+
+<figure><img width="1024" height="577" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/USS-Blue-Ridge-silhouette-against-fiery-sunset-at-Malakal-Palau-2-scaled.jpg?fit=1024%2C577&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/USS-Blue-Ridge-silhouette-against-fiery-sunset-at-Malakal-Palau-2-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/USS-Blue-Ridge-silhouette-against-fiery-sunset-at-Malakal-Palau-2-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/USS-Blue-Ridge-silhouette-against-fiery-sunset-at-Malakal-Palau-2-scaled.jpg?resize=1024%2C577&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/USS-Blue-Ridge-silhouette-against-fiery-sunset-at-Malakal-Palau-2-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/USS-Blue-Ridge-silhouette-against-fiery-sunset-at-Malakal-Palau-2-scaled.jpg?resize=1536%2C865&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/USS-Blue-Ridge-silhouette-against-fiery-sunset-at-Malakal-Palau-2-scaled.jpg?resize=2048%2C1153&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/USS-Blue-Ridge-silhouette-against-fiery-sunset-at-Malakal-Palau-2-scaled.jpg?resize=1200%2C676&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/USS-Blue-Ridge-silhouette-against-fiery-sunset-at-Malakal-Palau-2-scaled.jpg?resize=1568%2C883&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/USS-Blue-Ridge-silhouette-against-fiery-sunset-at-Malakal-Palau-2-scaled.jpg?resize=2000%2C1126&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/USS-Blue-Ridge-silhouette-against-fiery-sunset-at-Malakal-Palau-2-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/USS-Blue-Ridge-silhouette-against-fiery-sunset-at-Malakal-Palau-2-scaled.jpg?resize=706%2C398&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/USS-Blue-Ridge-silhouette-against-fiery-sunset-at-Malakal-Palau-2-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/USS-Blue-Ridge-silhouette-against-fiery-sunset-at-Malakal-Palau-2-scaled.jpg?fit=1024%2C577&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71833" data-permalink="https://islandtimes.org/u-s-7th-fleet-flagship-uss-blue-ridge-makes-historic-visit-to-palau/uss-blue-ridge-silhouette-against-fiery-sunset-at-malakal-palau-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/USS-Blue-Ridge-silhouette-against-fiery-sunset-at-Malakal-Palau-2-scaled.jpg?fit=2560%2C1442&amp;ssl=1" data-orig-size="2560,1442" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1723486589&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;5.23&quot;,&quot;iso&quot;:&quot;40&quot;,&quot;shutter_speed&quot;:&quot;0.0022321428571429&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="USS Blue Ridge silhouette against fiery sunset at Malakal, Palau (2)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/USS-Blue-Ridge-silhouette-against-fiery-sunset-at-Malakal-Palau-2-scaled.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/USS-Blue-Ridge-silhouette-against-fiery-sunset-at-Malakal-Palau-2-scaled.jpg?fit=780%2C440&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>The US 7th Fleet flagship USS Blue Ridge (LCC 19), made a historic port visit to Palau this week, to promote closer ties and exchanges between the two countries and between the service members and the local community. The ship carries the Commander of the U.S. Seventh Fleet, Vice Admiral Fred W. Kacher. This fleet [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-7th-fleet-flagship-uss-blue-ridge-makes-historic-visit-to-palau/">U.S. 7th Fleet Flagship USS Blue Ridge makes historic visit to Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/u-s-7th-fleet-flagship-uss-blue-ridge-makes-historic-visit-to-palau/>
+
+---
+
+## Court Reverses $7.7 Million Award in Lease Dispute, Orders New Determination
+
+date: 2024-08-13, from: Island Times
+
+<p>Koror, Palau — The Appellate Division of the Supreme Court of Palau has reversed a trial court’s decision in a high-profile lease dispute involving a Palauan landowner and a Chinese tourism development group. The lower court had awarded nearly $7.7 million in damages to the landowner, Francisca Blailes, after ruling that the China Tourism Development [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/court-reverses-7-7-million-award-in-lease-dispute-orders-new-determination/">Court Reverses $7.7 Million Award in Lease Dispute, Orders New Determination</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/court-reverses-7-7-million-award-in-lease-dispute-orders-new-determination/>
+
+---
+
+## Youth Lead the Charge: Engaged Town Hall with Presidential Candidate Remengesau
+
+date: 2024-08-13, from: Island Times
+
+<figure><img width="1024" height="461" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Youth-engages.jpg?fit=1024%2C461&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Youth-engages.jpg?w=1431&amp;ssl=1 1431w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Youth-engages.jpg?resize=300%2C135&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Youth-engages.jpg?resize=1024%2C461&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Youth-engages.jpg?resize=768%2C346&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Youth-engages.jpg?resize=1200%2C540&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Youth-engages.jpg?resize=400%2C180&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Youth-engages.jpg?resize=706%2C318&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Youth-engages.jpg?fit=1024%2C461&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71830" data-permalink="https://islandtimes.org/youth-lead-the-charge-engaged-town-hall-with-presidential-candidate-remengesau/youth-engages/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Youth-engages.jpg?fit=1431%2C644&amp;ssl=1" data-orig-size="1431,644" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Youth engages" data-image-description="" data-image-caption="&lt;p&gt;Candidate Remengesau fields questions at the youth-led townhall with presidential candidate.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Youth-engages.jpg?fit=300%2C135&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Youth-engages.jpg?fit=780%2C351&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Eustoria Marie Borja KOROR, Palau — In a spirited town hall organized by Palau&#8217;s young citizens, presidential candidate Tommy Remengesau Jr. faced a series of probing questions about the nation&#8217;s future. The event, a first of its kind and unaffiliated with any political group, drew a large crowd of young people eager to engage [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/youth-lead-the-charge-engaged-town-hall-with-presidential-candidate-remengesau/">Youth Lead the Charge: Engaged Town Hall with Presidential Candidate Remengesau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/youth-lead-the-charge-engaged-town-hall-with-presidential-candidate-remengesau/>
+
+---
+
+## MOF says it will combat misinformation about Palau stablecoin by promotingtransparency
+
+date: 2024-08-13, from: Island Times
+
+<p>The Ministry of Finance ( MOF) said it is working on teaming up with fact-checking agencies to ensure transparency and to combat misinformationabout Palau’s Stablecoin&#160;&#160;( PSC) program.The Finance Ministry in its Phase 2 report about the PSC program to themembers of the&#160;Congres details the progress it has made on the initiativeincluding how it will fight [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/mof-says-it-will-combat-misinformation-about-palau-stablecoin-by-promotingtransparency/">MOF says it will combat misinformation about Palau stablecoin by promotingtransparency</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/mof-says-it-will-combat-misinformation-about-palau-stablecoin-by-promotingtransparency/>
+
+---
+
+## Discrepancy in Trochus Population Reports RaisesConcerns
+
+date: 2024-08-13, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau – A recent report from the Palau International Coral Reef Center (PICRC)suggests a significant decline in trochus (Semum) populations, leading to the possibility of acontinued ban on their collection. However, a conflicting report from the Bureau of MarineResources (BMR) complicates the situation, leaving the reasons for the discrepancy unclear.According [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/discrepancy-in-trochus-population-reports-raisesconcerns/">Discrepancy in Trochus Population Reports RaisesConcerns</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/discrepancy-in-trochus-population-reports-raisesconcerns/>
+
+---
+
+## OIA Announces $20 Million in Compact ofFree Association Funding for Palau
+
+date: 2024-08-13, from: Island Times
+
+<p>Fiscal year 2024 direct economic assistance to support health and education needs By: Tanya_Joshua@ios.doi.gov WASHINGTON, D.C. &#8211; The Department of the Interior’s Assistant Secretary for Insularand International Affairs Carmen G. Cantor today announced $20 million in directeconomic assistance from the United States Government to Palau for health andeducation sectors in the island nation. These fiscal [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/oia-announces-20-million-in-compact-offree-association-funding-for-palau/">OIA Announces $20 Million in Compact ofFree Association Funding for Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/oia-announces-20-million-in-compact-offree-association-funding-for-palau/>
+
+---
+
+## SHAME
+
+date: 2024-08-13, from: Island Times
+
+<figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71819" data-permalink="https://islandtimes.org/shame/wc1-16/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?fit=524%2C522&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Shame feeds GREED, PRIDE&#160; and ENTITLEMENT Greed, arrogance, and entitlement- cancer of the soul,&#160; called Narcissistic Personality Disorder (NPD). Narcissists are consumed with themselves. Wanting what they feel is best for them. They do not consider what is best for others. They will often get consumed with your money and are greedy when it comes [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/shame/">SHAME</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/shame/>
+
+---
+
+## Unexploded ordnance has become an ocean time bomb
+
+date: 2024-08-13, from: Island Times
+
+<figure><img width="512" height="512" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/7659661.png?fit=512%2C512&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/7659661.png?w=512&amp;ssl=1 512w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/7659661.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/7659661.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/7659661.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/7659661.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/7659661.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/7659661.png?fit=512%2C512&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71817" data-permalink="https://islandtimes.org/unexploded-ordnance-has-become-an-ocean-time-bomb/attachment/7659661/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/7659661.png?fit=512%2C512&amp;ssl=1" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="7659661" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/7659661.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/7659661.png?fit=512%2C512&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Mines and bombs dating back to the second world war are a growing threat to marine lives and coastal communities By David Adam&#160; HONIARA/LONDON &#160;(DIALOGUE EARTH) &#8212; So many second world war ships and planes were sunk around Savo Island in months of conflict between the US and Japan, that this stretch of the Pacific [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/unexploded-ordnance-has-become-an-ocean-time-bomb/">Unexploded ordnance has become an ocean time bomb</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/unexploded-ordnance-has-become-an-ocean-time-bomb/>
+
+---
+
+## NZ gives $6.2m to Marshall Islands to adapt to rising sea levels
+
+date: 2024-08-13, from: Island Times
+
+<p>MAJURO, 12 AUGUST 2024 (TE AO MAORI NEWS) &#8212; The Marshall Islands will receive $6.2 million (US$4 million) from Aotearoa’s foreign minister to adapt to climate change, as rising sea levels and strengthening typhoons put the island nation at greater risk. “New Zealand is committed to addressing the ‘Blue Continent’ challenges, including those in the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/nz-gives-6-2m-to-marshall-islands-to-adapt-to-rising-sea-levels/">NZ gives $6.2m to Marshall Islands to adapt to rising sea levels</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/nz-gives-6-2m-to-marshall-islands-to-adapt-to-rising-sea-levels/>
+
+---
+
+## Guam and American Samoa poised for Forum Associate membership
+
+date: 2024-08-13, from: Island Times
+
+<p>By Pita Ligaiula SUVA, 12 AUGUST 2024 (PACNEWS) &#8212; The Pacific Islands Forum is set to welcome Guam and American Samoa as Associate Members, following a strong recommendation from the Forum Foreign Ministers Meeting Friday. Incumbent Forum Chair and Cook Islands Prime Minister Mark Brown confirmed that the applications, which were submitted by the Lieutenant [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/guam-and-american-samoa-poised-for-forum-associate-membership/">Guam and American Samoa poised for Forum Associate membership</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/guam-and-american-samoa-poised-for-forum-associate-membership/>
+
+---
+
+## 100 million ounces of gold yet to be extracted
+
+date: 2024-08-13, from: Island Times
+
+<p>PORT MORESBY, 12 AUGUST 2024 (POST COURIER) &#8212; Papua New Guinea has 100 million ounces of gold possibly in the country yet to be extracted with a total asset base of US$50 billion (K581 billion). Prime Minister, James Marape made this statement when addressing the closing of the geoscience, exploration and extraction conference in Port [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/100-million-ounces-of-gold-yet-to-be-extracted/">100 million ounces of gold yet to be extracted</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/100-million-ounces-of-gold-yet-to-be-extracted/>
+
+---
+
+## Joe Biden says Democrats thought he would ‘hurt them in the races’, in first interview since dropping out of re-election bid
+
+date: 2024-08-13, from: Island Times
+
+<p>By&#160;Brianna Morris-Grant In short:&#160; (ABC-Australia) US President Joe Biden has given his first interview since dropping out of his bid for re-election, saying he believed his health and age would be a &#8220;big distraction&#8221;.&#160; Mr Biden labelled Donald Trump a &#8220;genuine danger to American security&#8221; and said it was &#8220;the most important thing&#8221; to defeat [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/joe-biden-says-democrats-thought-he-would-hurt-them-in-the-races-in-first-interview-since-dropping-out-of-re-election-bid/">Joe Biden says Democrats thought he would &#8216;hurt them in the races&#8217;, in first interview since dropping out of re-election bid</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/joe-biden-says-democrats-thought-he-would-hurt-them-in-the-races-in-first-interview-since-dropping-out-of-re-election-bid/>
+
+---
+
+## Revamped AUKUS document reveals how US and UK can walk away from nuclear submarine deal
+
+date: 2024-08-13, from: Island Times
+
+<p>By defence correspondent&#160;Andrew Greene In short: (ABC-Australia) A revamped AUKUS agreement has been tabled in federal parliament revealing the submarine project can be cancelled with a year&#8217;s notice. Under the deal, Australia has also agreed to indemnify the US and UK against any loss or injury connected to nuclear waste storage and disposal. What&#8217;s next? [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/revamped-aukus-document-reveals-how-us-and-uk-can-walk-away-from-nuclear-submarine-deal/">Revamped AUKUS document reveals how US and UK can walk away from nuclear submarine deal</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/revamped-aukus-document-reveals-how-us-and-uk-can-walk-away-from-nuclear-submarine-deal/>
+
+---
+
+## US officials launch appeal with fresh video evidence after Jordan Chiles was forced to return Paris Olympics bronze medal
+
+date: 2024-08-13, from: Island Times
+
+<p>(ABC-Australia) US Olympic officials are appealing a court ruling that resulted in American gymnast&#160;Jordan Chiles being asked to return the bronze medal she won&#160;in the Paris Olympics floor exercise. The Court of Arbitration for Sport (CAS) voided an on-floor appeal by Chiles&#8217;s coach that vaulted her to third, saying the appeal came 4 seconds beyond [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/us-officials-launch-appeal-with-fresh-video-evidence-after-jordan-chiles-was-forced-to-return-paris-olympics-bronze-medal/">US officials launch appeal with fresh video evidence after Jordan Chiles was forced to return Paris Olympics bronze medal</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/us-officials-launch-appeal-with-fresh-video-evidence-after-jordan-chiles-was-forced-to-return-paris-olympics-bronze-medal/>
+
+---
+
+## After Paris Olympics shined, Los Angeles in 2028 brings new and returning sports, plus a fresh look
+
+date: 2024-08-13, from: Island Times
+
+<p>PARIS, 12 AUGUST 2024 (AP) — The Olympics will always have Paris. Next up for the Summer Games: Los Angeles 2028. The baton was handed from one third-time Olympic host city to another at the closing ceremony Sunday in Paris, and much will be different in four years’ time. New sports will make their Olympic [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/after-paris-olympics-shined-los-angeles-in-2028-brings-new-and-returning-sports-plus-a-fresh-look/">After Paris Olympics shined, Los Angeles in 2028 brings new and returning sports, plus a fresh look</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/after-paris-olympics-shined-los-angeles-in-2028-brings-new-and-returning-sports-plus-a-fresh-look/>
+
+---
+
+## Rising public risk of infection at Hilo Bay linked to climate change
+
+date: 2024-08-13, from: University of Hawaiʻi News
+
+<p>New research finds that levels of harmful bacteria spiked at beaches with freshwater discharge on <span aria-label="Hawaii">Hawai&#699;i</span> Island.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/12/rising-risk-of-infection-hilo-bay-climate-change/">Rising public risk of infection at Hilo Bay linked to climate change</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/12/rising-risk-of-infection-hilo-bay-climate-change/>
+
+---
+
+## UH alumna on search for life beyond Earth
+
+date: 2024-08-13, from: University of Hawaiʻi News
+
+<p><abbr>IfA</abbr> alumna Megan Ansdell is one of the leading scientists for NASA’s future space telescope geared toward searching for Earth-like planets.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/12/uh-alumna-life-beyond-earth/"><abbr>UH</abbr> alumna on search for life beyond Earth</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/12/uh-alumna-life-beyond-earth/>
+
+---
+
+## From meth addict to substance abuse counselor: UH provides a pathway, support
+
+date: 2024-08-13, from: University of Hawaiʻi News
+
+<p>Edmond Pulu Jr. is getting hands-on experience in substance disorder counseling.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/12/from-meth-addict-to-substance-abuse-counselor/">From meth addict to substance abuse counselor: <abbr>UH</abbr> provides a pathway, support</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/12/from-meth-addict-to-substance-abuse-counselor/>
+
+---
+
+## Kai ‘Ehitu ready to continue historic season at World Sprints
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; It&#8217;s a bustling, overcast, late-summer afternoon on Kailua Pier.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/12/hawaii-news/kai-ehitu-ready-to-continue-historic-season-at-world-sprints/>
+
+---
+
+## Everything you need to know ahead of IVF World Sprints
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; After a two-decade hiatus, the world stage of canoe racing has returned to the Aloha State.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/12/hawaii-news/everything-you-need-to-know-ahead-of-ivf-world-sprints/>
+
+---
+
+## UH professor picked to assist in executive search for national group
+
+date: 2024-08-13, from: University of Hawaiʻi News
+
+<p>Maaka’s affiliation with the association began in 1987.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/12/uh-professor-to-assist-in-executive-search/"><abbr>UH</abbr> professor picked to assist in executive search for national group</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/12/uh-professor-to-assist-in-executive-search/>
+
+---
+
+## Tips for Tonga: Agenda setting for Pacific leaders’ meeting 
+
+date: 2024-08-12, from: Pacific Island Times
+
+New Caledonia, climate finance, U.S. territories and lack of banking services – key issues when leaders meet this month By Tess Newton... 
+
+<https://www.pacificislandtimes.com/post/tips-for-tonga-agenda-setting-for-pacific-leaders-meeting>
+
+---
+
+## What is nutrient recycling?
+
+date: 2024-08-12, from: Island Conservation News
+
+<p>How do nutrients move between ecosystems, and how do connector species help make nitrogen available to plants and animals? Read to find out!</p>
+<p>The post <a href="https://www.islandconservation.org/what-is-nutrient-recycling/">What is nutrient recycling?</a> appeared first on <a href="https://www.islandconservation.org">Island Conservation</a>.</p>
+ 
+
+<https://www.islandconservation.org/what-is-nutrient-recycling/>
 
 ---
 
@@ -53,7 +579,7 @@ On Thursday, 23 public schools will open their doors for in-person instruction w
 
 ## Don’t abandon your pets at SCA, SHS
 
-date: 2024-08-12, updated: 2024-08-12, from: Marianas Variety
+date: 2024-08-12, updated: 2024-08-13, from: Marianas Variety
 
 DUE to limited shelter capacity, Saipan Cares for Animals and the Saipan Humane Society are urging the public not to abandon injured or unwanted dogs and cats at their facilities. 
 
@@ -63,7 +589,7 @@ DUE to limited shelter capacity, Saipan Cares for Animals and the Saipan Humane 
 
 ## Distorted trounces Bang Bros, 11-4
 
-date: 2024-08-12, updated: 2024-08-12, from: Marianas Variety
+date: 2024-08-12, updated: 2024-08-13, from: Marianas Variety
 
 TAMBAYAN Distorted B is now in second place in the Thursday B “Fanihi” division of the 2024 SEDA Bud Light Dart League after dominating Bistro Bang Bros, 11-4, at the Tambayan Restobar on Thursday. 
 
@@ -73,11 +599,61 @@ TAMBAYAN Distorted B is now in second place in the Thursday B “Fanihi” divis
 
 ## NMI’s Robin Sapong serves on World Athletics Jury at Paris Games
 
-date: 2024-08-12, updated: 2024-08-12, from: Marianas Variety
+date: 2024-08-12, updated: 2024-08-13, from: Marianas Variety
 
 NORTHERN Marianas Athletics Secretary General Robin Sapong  made his second appearance in the Olympics as a member of the World Athletics Jury of Appeal in the recently concluded Paris games. 
 
 <https://www.mvariety.com/sports/localsports/nmi-s-robin-sapong-serves-on-world-athletics-jury-at-paris-games/article_474a502c-58b7-11ef-b441-bb6a91ce74a3.html>
+
+---
+
+## New law to ‘strengthen’ CNMI Archives
+
+date: 2024-08-12, updated: 2024-08-13, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios on Friday signed into law a measure that aims to “strengthen” the CNMI Archives at Northern Marianas College. 
+
+<https://www.mvariety.com/news/local/new-law-to-strengthen-cnmi-archives/article_7e6e0a06-588c-11ef-afe5-b3c4ce426567.html>
+
+---
+
+## NMTech, CNMI OSHA to host 2nd Annual Safety Conference
+
+date: 2024-08-12, updated: 2024-08-13, from: Marianas Variety
+
+ON Aug. 19-20, 2024 the 2nd Annual Safety Conference will take place at Pacific Islands Club from 7:30 a.m. to 4:30 p.m. This is a partnership between the Northern Marianas Technical Institute, CNMI OSHA, Guam Contractors Association and the University of California in San Diego. We will offer two days filled with safety information classes. Monday topics will include classes in Fall Protection, Scaffolding, Heat Illness, Focus 4 Hazards and Health Hazards. Tuesday classes will consist of Lock Out Tag Out, Noise Pollution, Focus 4 Hazards and Heat Illness. All classes will receive a certificate from UCSD OSHA. 
+
+<https://www.mvariety.com/news/local/nmtech-cnmi-osha-to-host-2nd-annual-safety-conference/article_ae786a44-58ae-11ef-b9ce-23a473aaddf2.html>
+
+---
+
+## 16 sworn in as new Customs & Biosecurity officers
+
+date: 2024-08-12, updated: 2024-08-13, from: Marianas Variety
+
+THE Division of Customs &amp; Biosecurity held a graduation and swearing-in ceremony for 16 cadets who completed the 10th Cycle Academy at Crowne Plaza Resort on Friday. 
+
+<https://www.mvariety.com/news/local/16-sworn-in-as-new-customs-biosecurity-officers/article_f224802c-58b1-11ef-bcf5-cb51b9d1a730.html>
+
+---
+
+## In fight for the West, Harris campaigns in Arizona, Trump in Montana
+
+date: 2024-08-12, updated: 2024-08-13, from: Marianas Variety
+
+GLENDALE, Arizona (Reuters) — Vice President Kamala Harris campaigned in a packed arena in Arizona on Friday, hoping to put Republican candidate Donald Trump on the back foot in the West, while Trump held his own rally in Montana to support a Republican candidate for Senate. 
+
+<https://www.mvariety.com/news/national/in-fight-for-the-west-harris-campaigns-in-arizona-trump-in-montana/article_aefbbeda-58b3-11ef-9fe4-d3fa50ffe265.html>
+
+---
+
+## Philippines says actions of China air force ‘illegal,’ ‘reckless’
+
+date: 2024-08-12, updated: 2024-08-13, from: Marianas Variety
+
+MANILA (Reuters) — Philippine President Ferdinand Marcos Jr. on Sunday condemned Chinese air force actions in waters of the South China Sea claimed by both countries, calling the actions "unjustified, illegal and reckless." 
+
+<https://www.mvariety.com/news/regional_world/philippines-says-actions-of-china-air-force-illegal-reckless/article_f0a5fb94-58b2-11ef-a850-6b9fe83afec0.html>
 
 ---
 
@@ -88,56 +664,6 @@ date: 2024-08-12, updated: 2024-08-12, from: Marianas Variety
 GOVERNOR Arnold I. Palacios and Lt. Gov. David M. Apatang on Monday joined the Employer Support of the Guard and Reserve Guam-CNMI State Committee in conferring the Patriot Award to four government officials. 
 
 <https://www.mvariety.com/news/local/nmi-officials-receive-patriot-award/article_c73c0b80-588b-11ef-8754-6bfcd81330f9.html>
-
----
-
-## New law to ‘strengthen’ CNMI Archives
-
-date: 2024-08-12, updated: 2024-08-12, from: Marianas Variety
-
-GOVERNOR Arnold I. Palacios on Friday signed into law a measure that aims to “strengthen” the CNMI Archives at Northern Marianas College. 
-
-<https://www.mvariety.com/news/local/new-law-to-strengthen-cnmi-archives/article_7e6e0a06-588c-11ef-afe5-b3c4ce426567.html>
-
----
-
-## NMTech, CNMI OSHA to host 2nd Annual Safety Conference
-
-date: 2024-08-12, updated: 2024-08-12, from: Marianas Variety
-
-ON Aug. 19-20, 2024 the 2nd Annual Safety Conference will take place at Pacific Islands Club from 7:30 a.m. to 4:30 p.m. This is a partnership between the Northern Marianas Technical Institute, CNMI OSHA, Guam Contractors Association and the University of California in San Diego. We will offer two days filled with safety information classes. Monday topics will include classes in Fall Protection, Scaffolding, Heat Illness, Focus 4 Hazards and Health Hazards. Tuesday classes will consist of Lock Out Tag Out, Noise Pollution, Focus 4 Hazards and Heat Illness. All classes will receive a certificate from UCSD OSHA. 
-
-<https://www.mvariety.com/news/local/nmtech-cnmi-osha-to-host-2nd-annual-safety-conference/article_ae786a44-58ae-11ef-b9ce-23a473aaddf2.html>
-
----
-
-## 16 sworn in as new Customs & Biosecurity officers
-
-date: 2024-08-12, updated: 2024-08-12, from: Marianas Variety
-
-THE Division of Customs &amp; Biosecurity held a graduation and swearing-in ceremony for 16 cadets who completed the 10th Cycle Academy at Crowne Plaza Resort on Friday. 
-
-<https://www.mvariety.com/news/local/16-sworn-in-as-new-customs-biosecurity-officers/article_f224802c-58b1-11ef-bcf5-cb51b9d1a730.html>
-
----
-
-## In fight for the West, Harris campaigns in Arizona, Trump in Montana
-
-date: 2024-08-12, updated: 2024-08-12, from: Marianas Variety
-
-GLENDALE, Arizona (Reuters) — Vice President Kamala Harris campaigned in a packed arena in Arizona on Friday, hoping to put Republican candidate Donald Trump on the back foot in the West, while Trump held his own rally in Montana to support a Republican candidate for Senate. 
-
-<https://www.mvariety.com/news/national/in-fight-for-the-west-harris-campaigns-in-arizona-trump-in-montana/article_aefbbeda-58b3-11ef-9fe4-d3fa50ffe265.html>
-
----
-
-## Philippines says actions of China air force ‘illegal,’ ‘reckless’
-
-date: 2024-08-12, updated: 2024-08-12, from: Marianas Variety
-
-MANILA (Reuters) — Philippine President Ferdinand Marcos Jr. on Sunday condemned Chinese air force actions in waters of the South China Sea claimed by both countries, calling the actions "unjustified, illegal and reckless." 
-
-<https://www.mvariety.com/news/regional_world/philippines-says-actions-of-china-air-force-illegal-reckless/article_f0a5fb94-58b2-11ef-a850-6b9fe83afec0.html>
 
 ---
 

@@ -1,11 +1,53 @@
 ---
 title: writing 2024.33
-updated: 2024-08-12 16:40:36
+updated: 2024-08-13 08:37:55
 ---
 
 # writing 2024.33
 
-(date: 2024-08-12 16:40:36)
+(date: 2024-08-13 08:37:55)
+
+---
+
+## 2024 Nommo Awards Winners
+
+date: 2024-08-13, from: Locus Magazine
+
+<p>The African Speculative Fiction Society (ASFS) announced the winners for the 2024 Nommo Awards, given to works &#8220;by Africans as defined by the ASFS and Nommo Awards Guidelines,&#8221; at Glasgow 2024, the 82nd World Science Fiction Convention.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Novel</strong></p>
+<ul>
+<li>WINNER: <strong>Shigidi and the Brass Head of Obalufon</strong>, Wole Talabi (DAW)</li>
+</ul>
+<ul>
+<li><strong>Bones and Runes</strong>, Stephen Embleton (Abibiman Publishing)</li>
+<li><strong>Dazzling</strong>, Chịkọdịlị Emelụmadụ (Wildfire)</li>
+<li><strong>Warrior of the Wind</strong>, Suyi </li></ul></div> <a href="https://locusmag.com/2024/08/2024-nommo-awards-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/2024-nommo-awards-winners/>
+
+---
+
+## Jake Casella Brookins Reviews Weird Black Girls by Elwin Cotman
+
+date: 2024-08-13, from: Locus Magazine
+
+<p><strong>Weird Black Girls, </strong>Elwin Cotman (Scribner 978-1-66801-885-9, 330pp, $17.99, tp) April 2024. Cover by Michael Morris.</p>
+<p>There are plenty of speculative elements in Elwin Cotman’s newest collection, <strong>Weird Black Girls</strong>, but his skill at evoking people and situations makes even the nonfantastic entries utterly spellbinding. In “Owen”, for example, a father attempts to bond with his son through a ritual funeral for wrestler Owen Hart, with a kind of  <a href="https://locusmag.com/2024/08/jake-casella-brookins-reviews-weird-black-girls-by-elwin-cotman/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/jake-casella-brookins-reviews-weird-black-girls-by-elwin-cotman/>
+
+---
+
+## New Books, 13 August 2024
+
+date: 2024-08-13, from: Locus Magazine
+
+<p>Ashby, Madeline: <b>Glass Houses</b>
+(Tor 9780765382924, $27.99, 272pp, formats: hardcover, ebook, 08/13/2024)</p>
+<p>Near-future whodunit mystery novel. A group of employees and their CEO, celebrating the sale of their remarkable emotion-mapping-AI-algorithm, crash onto a not-quite-deserted tropical island. The survivors find a beautiful, fully-stocked private palace, with all the latest technological updates (though one without connection to the outside world). The house, however, has more secrets than anyone might have guessed, and  <a href="https://locusmag.com/2024/08/new-books-13-august-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/new-books-13-august-2024/>
 
 ---
 

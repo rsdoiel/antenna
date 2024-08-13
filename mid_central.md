@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.33
-updated: 2024-08-12 16:40:34
+updated: 2024-08-13 08:37:52
 ---
 
 # mid central 2024.33
 
-(date: 2024-08-12 16:40:34)
+(date: 2024-08-13 08:37:52)
+
+---
+
+## Chiplets diary: Controller IP complies with UCIe 1.1 standard
+
+date: 2024-08-13, from: EDN Blog
+
+<img width="485" height="219" src="https://www.edn.com/wp-content/uploads/Hero-image-UCIe-controller.jpg?fit=485%2C219" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-UCIe-controller.jpg?w=485 485w, https://www.edn.com/wp-content/uploads/Hero-image-UCIe-controller.jpg?w=300 300w" sizes="(max-width: 485px) 100vw, 485px" /><p>The highly configurable UCIe controller IP facilitates die-to-die interconnect and protocol connections.</p>
+<p>The post <a href="https://www.edn.com/chiplets-diary-controller-ip-complies-with-ucie-1-1-standard/" data-wpel-link="internal">Chiplets diary: Controller IP complies with UCIe 1.1 standard</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/chiplets-diary-controller-ip-complies-with-ucie-1-1-standard/>
 
 ---
 
@@ -35,7 +47,7 @@ date: 2024-08-12, from: Blue Devil News (Merced Community College Student Newspa
 
 date: 2024-08-12, from: EDN Blog
 
-<img width="1695" height="1664" src="https://www.edn.com/wp-content/uploads/Fig-3-electrochemical-sensor-demo-apps-onsemi.png?fit=1695%2C1664" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-3-electrochemical-sensor-demo-apps-onsemi.png?w=1695 1695w, https://www.edn.com/wp-content/uploads/Fig-3-electrochemical-sensor-demo-apps-onsemi.png?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-3-electrochemical-sensor-demo-apps-onsemi.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-3-electrochemical-sensor-demo-apps-onsemi.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-3-electrochemical-sensor-demo-apps-onsemi.png?w=1536 1536w" sizes="(max-width: 1695px) 100vw, 1695px" /><p>Smart health monitors and wearable devices are a key application for advancing electrochemical sensor platforms.</p>
+<img width="1695" height="1664" src="https://www.edn.com/wp-content/uploads/Fig-3-electrochemical-sensor-demo-apps-onsemi.png?fit=1695%2C1664" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-3-electrochemical-sensor-demo-apps-onsemi.png?w=1695 1695w, https://www.edn.com/wp-content/uploads/Fig-3-electrochemical-sensor-demo-apps-onsemi.png?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-3-electrochemical-sensor-demo-apps-onsemi.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-3-electrochemical-sensor-demo-apps-onsemi.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-3-electrochemical-sensor-demo-apps-onsemi.png?w=1536 1536w" sizes="(max-width: 1695px) 100vw, 1695px" /><p>Smart health monitors and wearable devices are a key application for advancing electrochemical sensor platforms.</p>
 <p>The post <a href="https://www.edn.com/a-new-era-in-electrochemical-sensing-technology/" data-wpel-link="internal">A new era in electrochemical sensing technology</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

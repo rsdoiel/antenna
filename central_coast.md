@@ -1,11 +1,97 @@
 ---
 title: central coast 2024.33
-updated: 2024-08-12 16:40:34
+updated: 2024-08-13 08:37:53
 ---
 
 # central coast 2024.33
 
-(date: 2024-08-12 16:40:34)
+(date: 2024-08-13 08:37:53)
+
+---
+
+## Objects in Mirror …
+
+date: 2024-08-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Joyce-Dudley.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Maurice, a 2-year-old French bulldog, takes in the scenery near Crested Butte, Colorado." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Joyce-Dudley.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Joyce-Dudley.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Joyce-Dudley.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Joyce-Dudley.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Joyce-Dudley.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Joyce-Dudley.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Joyce-Dudley.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Joyce-Dudley.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Joyce-Dudley.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Joyce-Dudley.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Joyce-Dudley.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Joyce-Dudley.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Joyce-Dudley.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/objects-in-mirror/">Objects in Mirror &#8230;</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/objects-in-mirror/>
+
+---
+
+## Santa Barbara City Council Contests Fueled by Rent Control Debate, Amid Heavily Stacked Nov. 5 Ballot
+
+date: 2024-08-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-City-Council-Infographic-1-JM.png?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-City-Council-Infographic-1-JM.png?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-City-Council-Infographic-1-JM.png?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-City-Council-Infographic-1-JM.png?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-City-Council-Infographic-1-JM.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-City-Council-Infographic-1-JM.png?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-City-Council-Infographic-1-JM.png?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-City-Council-Infographic-1-JM.png?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-City-Council-Infographic-1-JM.png?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-City-Council-Infographic-1-JM.png?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-City-Council-Infographic-1-JM.png?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-City-Council-Infographic-1-JM.png?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-City-Council-Infographic-1-JM.png?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-City-Council-Infographic-1-JM.png?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The November ballot will be loaded with local contests. On the South Coast, City Council races in Santa Barbara, Goleta and Carpinteria lead the ballot, as well as battles for [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-city-council-races-fueled-by-debate-over-rent-control-amid-heavily-stacked-nov-5-ballot/">Santa Barbara City Council Contests Fueled by Rent Control Debate, Amid Heavily Stacked Nov. 5 Ballot</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-city-council-races-fueled-by-debate-over-rent-control-amid-heavily-stacked-nov-5-ballot/>
+
+---
+
+## Injured Survivor of Double-Fatal Crash Files Lawsuit Against Lafond Vineyard
+
+date: 2024-08-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A lawsuit filed in Santa Barbara County Superior Court accused a vineyard owner and at least one other person of negligence due to a double-fatal crash involving a driver under [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/injured-survivor-of-double-fatal-crash-files-lawsuit-against-lafond-vineyard/">Injured Survivor of Double-Fatal Crash Files Lawsuit Against Lafond Vineyard</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/injured-survivor-of-double-fatal-crash-files-lawsuit-against-lafond-vineyard/>
+
+---
+
+## The Importance of Leaving a Legacy for Future Generations, the Community—a Lesson by Dennis Forster
+
+date: 2024-08-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-Forster-hospice-legacy.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-Forster-hospice-legacy.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-Forster-hospice-legacy.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-Forster-hospice-legacy.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-Forster-hospice-legacy.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-Forster-hospice-legacy.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-Forster-hospice-legacy.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-Forster-hospice-legacy.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-Forster-hospice-legacy.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-Forster-hospice-legacy.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-Forster-hospice-legacy.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-Forster-hospice-legacy.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Local Santa Barbaran Dennis Forster, Financial Advisor CFP®, has a unique way of recognizing each one of his six grandchildren’s 11th birthdays—by giving them a birthday packet of information that [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/the-importance-of-leaving-a-legacy-for-future-generations-the-community-a-lesson-by-dennis-forster/">The Importance of Leaving a Legacy for Future Generations, the Community—a Lesson by Dennis Forster</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/the-importance-of-leaving-a-legacy-for-future-generations-the-community-a-lesson-by-dennis-forster/>
+
+---
+
+## Santa Barbara Talks: Alejandra Gutierrez Says ‘Rent Control is Not the Solution’
+
+date: 2024-08-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara City Councilwoman Alejandra Gutierrez says rent control doesn&#8217;t work, and she won&#8217;t support it, in the latest episode of Santa Barbara Talks with Josh Molina. &#8220;I don&#8217;t think [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-talks-alejandra-gutierrez-says-rent-control-is-not-the-solution/">Santa Barbara Talks: Alejandra Gutierrez Says &#8216;Rent Control is Not the Solution&#8217;</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-talks-alejandra-gutierrez-says-rent-control-is-not-the-solution/>
+
+---
+
+## Disaster Relief Fund for Undocumented Community Members Gets $75,000 Grant
+
+date: 2024-08-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>805UndocuFund has been awarded a $75,000 grant from the Communities for a New California Education Fund, as part of a larger grant initiative by the California Governor&#8217;s Office of Emergency [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/disaster-relief-fund-for-undocumented-community-members-gets-75000-grant/">Disaster Relief Fund for Undocumented Community Members Gets $75,000 Grant</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/disaster-relief-fund-for-undocumented-community-members-gets-75000-grant/>
+
+---
+
+## Earl Minnis, Berti Family Each Give $100,000 to Daniel Bryant Centers
+
+date: 2024-08-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Earl Minnis and the Berti Family have each donated $100,000 to Daniel Bryant Youth &#38; Family Treatment Centers. The combined $200,000 contribution will support the Daniel Bryant Youth &#38; Family [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/earl-minnis-berti-family-each-give-100000-to-daniel-bryant-centers/">Earl Minnis, Berti Family Each Give $100,000 to Daniel Bryant Centers</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/earl-minnis-berti-family-each-give-100000-to-daniel-bryant-centers/>
 
 ---
 
@@ -13,7 +99,7 @@ updated: 2024-08-12 16:40:34
 
 date: 2024-08-12, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Three high-end vehicles were among those stopped in the Santa Ynez Valley on Wednesday due to excessive speed." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Three high-end vehicles were among those stopped in the Santa Ynez Valley on Wednesday due to excessive speed." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/08/081623-Speeding-Cars-Buellton-chp-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Heed the speed laws.&#160; That’s the message from law enforcement officers for exotic car drivers enticed by the Central Coast’s seemingly open roads. The California Highway Patrol’s Coastal Division will [&#8230;]</p>
 <p>The post <a href="https://www.noozhawk.com/chp-plans-crackdown-on-speeders-traveling-to-monterey-car-week/">CHP Plans Crackdown on Speeders Traveling to Monterey Car Week</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
@@ -26,7 +112,7 @@ date: 2024-08-12, from: Newshawk, the freshest news in Santa Barbara County
 
 date: 2024-08-12, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="350" height="449" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-HGillilan-350.gif?fit=350%2C449&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Harold Gillilan" decoding="async" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="350" height="449" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-HGillilan-350.gif?fit=350%2C449&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Harold Gillilan" decoding="async" loading="lazy" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>In his 93 years on this earth, Harold Gillilan was never bored a single day. Before the age of YouTube and the World Wide Web, he taught himself to pick [&#8230;]</p>
 <p>The post <a href="https://www.noozhawk.com/harold-gillilan-of-carpinteria-1931-2024/">Harold Gillilan of Carpinteria, 1931-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
