@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.33
-updated: 2024-08-13 08:37:58
+updated: 2024-08-14 08:43:03
 ---
 
 # retro computing 2024.33
 
-(date: 2024-08-13 08:37:58)
+(date: 2024-08-14 08:43:03)
+
+---
+
+## StreetFix Help goes multi-lingual
+
+date: 2024-08-13, from: RiscOS Story
+
+And a language poll for MACadd There are two bits of news from Kevin Wells for some of his applications: There&#8217;s a new StreetFix release, which now stands at version 1.09, and he&#8217;s running a poll in relation to adding new language support to MACadd. Looking at StreetFix first, Kevin upgraded it recently to version 1.08, adding support for multiple languages, and he has now released version 1.09, in which that support extends to the application&#8217;s interactive help (the facility through which RISC OS applications can provide small snippets of&#8230; 
+
+<https://www.riscository.com/2024/streetfix-help-goes-multi-lingual/>
 
 ---
 
@@ -56,6 +66,16 @@ date: 2024-08-12, from: Linux Magazine
 <p>Ubuntu users have grown accustomed to their favorite distribution shipping with a kernel that's not quite as up-to-date as other distros but that changes with 24.10.</p> 
 
 <http://www.linux-magazine.com/Online/News/Ubuntu-24.10-will-Include-the-Latest-Linux-Kernel>
+
+---
+
+## Ubuntu 24.10 Will Include the Latest Linux Kernel
+
+date: 2024-08-12, from: Linux Magazine
+
+<p>Ubuntu users have grown accustomed to their favorite distribution shipping with a kernel that's not quite as up-to-date as other distros but that changes with 24.10.</p> 
+
+<http://www.linux-magazine.com/Online/News/Ubuntu-24.10-Will-Include-the-Latest-Linux-Kernel>
 
 ---
 

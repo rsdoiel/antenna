@@ -1,11 +1,97 @@
 ---
 title: food 2024.33
-updated: 2024-08-13 08:38:00
+updated: 2024-08-14 08:43:04
 ---
 
 # food 2024.33
 
-(date: 2024-08-13 08:38:00)
+(date: 2024-08-14 08:43:04)
+
+---
+
+## The Best Splatter Screens (2024)
+
+date: 2024-08-14, from: Bon Appetet
+
+This tool is the key to mess-free frying. 
+
+<https://www.bonappetit.com/story/best-splatter-screens>
+
+---
+
+## Molletes
+
+date: 2024-08-14, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/molletes/"><img title="molletes-small-24-6" src="https://www.isabeleats.com/wp-content/uploads/2024/08/molletes-small-24-6-400x600.jpg" alt="Traditional Mexican molletes topped with refried beans, cheese, pico de gallo, and avocado." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Molletes are a simple yet flavorful Mexican open-faced sandwich made with toasted bolillo rolls, refried beans, and melted cheese. Perfect for breakfast, lunch, or a quick snack, they’re best enjoyed with fresh salsa or pico de gallo on top. I was first introduced to molletes when my sister made them for our weekly Sunday lunch [&#8230;] 
+
+<https://www.isabeleats.com/molletes/>
+
+---
+
+## White BBQ Sauce Recipe (aka Alabama White Sauce)
+
+date: 2024-08-14, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/white-bbq-sauce/" title="White BBQ Sauce Recipe (aka Alabama White Sauce)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Alabama White Sauce Recipe (White BBQ Sauce)" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Different from any other bbq sauce, this white bbq sauce (aka Alabama white sauce) uses mayo as a base, along with vinegar, sugars and spices. A southern favorite!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/white-bbq-sauce/">White BBQ Sauce Recipe (aka Alabama White Sauce)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<https://www.chilipeppermadness.com/recipes/white-bbq-sauce/>
+
+---
+
+## What Is The Best Soil pH For Peppers?
+
+date: 2024-08-13, from: Pepper Scale
+
+The pH of your soil can have a huge impact on the health and flavor of your peppers. The best soil pH for peppers is 6.0 to 7.0. This range allows the pepper plant to take up nutrients like phosphorus and magnesium — which are ... <p class="read-more-container"><a title="What Is The Best Soil pH For Peppers?" class="read-more button" href="https://pepperscale.com/soil-ph-for-peppers/#more-85584" aria-label="Read more about What Is The Best Soil pH For Peppers?">Read more</a></p> 
+
+<https://pepperscale.com/soil-ph-for-peppers/>
+
+---
+
+## 23 Easy Pie Recipes for No-Fuss Nights
+
+date: 2024-08-13, from: Bon Appetet
+
+Like one-skillet chicken pot pie, no-bake margarita pie, and our best tips for store-bought pastry. 
+
+<https://www.bonappetit.com/gallery/easy-pie-recipes>
+
+---
+
+## During a Tough Divorce, This Salad Helped Me Embrace Singlehood
+
+date: 2024-08-13, from: Bon Appetet
+
+I thought I needed someone to take care of me. What I needed was to care for myself. 
+
+<https://www.bonappetit.com/emily-farris-divorce-salad>
+
+---
+
+## I Made Every Recipe in the Bon Appétit 56
+
+date: 2024-08-13, from: Bon Appetet
+
+Four months, five dinner parties, and a few life lessons along the way. 
+
+<https://www.bonappetit.com/story/i-cooked-bon-appetit-56>
+
+---
+
+## Best Shakshuka, Step-by-Step
+
+date: 2024-08-13, from: Bon Appetet
+
+Turn a few pantry and fridge staples into this good-any-time-of-day meal. 
+
+<https://www.bonappetit.com/recipe/30-minute-shakshuka-with-yogurt>
 
 ---
 
@@ -63,7 +149,7 @@ For those that just can&#8217;t get enough spicy Sriracha sauce, incorporating i
 
 date: 2024-08-12, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/mexican-street-corn-pasta-salad/" title="Mexican Street Corn Pasta Salad" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Mexican-Street-Corn-Pasta-Salad-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mexican Street Corn Pasta Salad in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Mexican-Street-Corn-Pasta-Salad-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Mexican-Street-Corn-Pasta-Salad-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Mexican-Street-Corn-Pasta-Salad-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Mexican-Street-Corn-Pasta-Salad-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Mexican-Street-Corn-Pasta-Salad-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Mexican-Street-Corn-Pasta-Salad-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Mexican-Street-Corn-Pasta-Salad-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Mexican street corn pasta salad is cool, creamy, and flavorful, packed with fresh roasted corn, tangy lime, and a spicy kick, perfect for parties!</p>
+<a href="https://www.chilipeppermadness.com/recipes/mexican-street-corn-pasta-salad/" title="Mexican Street Corn Pasta Salad" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Mexican-Street-Corn-Pasta-Salad-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mexican Street Corn Pasta Salad in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Mexican-Street-Corn-Pasta-Salad-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Mexican-Street-Corn-Pasta-Salad-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Mexican-Street-Corn-Pasta-Salad-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Mexican-Street-Corn-Pasta-Salad-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Mexican-Street-Corn-Pasta-Salad-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Mexican-Street-Corn-Pasta-Salad-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Mexican-Street-Corn-Pasta-Salad-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Mexican street corn pasta salad is cool, creamy, and flavorful, packed with fresh roasted corn, tangy lime, and a spicy kick, perfect for parties!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/mexican-street-corn-pasta-salad/">Mexican Street Corn Pasta Salad</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
@@ -111,6 +197,20 @@ Spiced apple oats are the kind of breakfast dish that will keep you warm all win
 
 ---
 
+## Grinder Salad
+
+date: 2024-08-12, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2024/08/Grinder-Salad-1200-9591.jpg"/></div>
+<p>All of the flavours of a grinder in salad form! A grinder sandwich is a roll filled with Italian style deli meats, provolone, lettuce, tomatoes, pepperoncini, with a simple mayonnaise based dressing and it turns out that all of the ingredients from the sandwich work amazingly well as a salad! This is a super simple...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/grinder-salad/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/grinder-salad/">Grinder Salad</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<https://www.closetcooking.com/grinder-salad/>
+
+---
+
 ## Carne Asada Recipe
 
 date: 2024-08-12, from: Isebel Eats
@@ -122,4 +222,18 @@ date: 2024-08-12, from: Isebel Eats
 	A juicy and tender carne asada made from marinated flank steak or skirt steak and grilled to perfection. A great addition to any Mexican meal, this flavorful recipe is made with orange juice, lime juice, garlic, soy sauce, seasonings, and other easy ingredients. When someone says “carne asada,” I immediately think of my family barbecues [&#8230;] 
 
 <https://www.isabeleats.com/carne-asada-recipe/>
+
+---
+
+## Cauliflower Recipes
+
+date: 2024-08-11, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2017/07/Cauliflower-Recipes.jpg"/></div>
+<p>The best cauliflower recipes! Quick, easy, healthy and most importantly, tasty cauliflower recipes! Cauliflower was a food that I had always thought was pretty bland and boring but recently I have discovered how exciting and versatile it can be; and I have become a little bit obsessed with it. It is a pretty healthy food...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/cauliflower-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/cauliflower-recipes/">Cauliflower Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<https://www.closetcooking.com/cauliflower-recipes/>
 

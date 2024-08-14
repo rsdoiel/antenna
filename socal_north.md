@@ -1,11 +1,62 @@
 ---
 title: socal north 2024.33
-updated: 2024-08-13 08:37:51
+updated: 2024-08-14 08:42:55
 ---
 
 # socal north 2024.33
 
-(date: 2024-08-13 08:37:51)
+(date: 2024-08-14 08:42:55)
+
+---
+
+## Why the Catholic church plans to develop affordable housing in LA, and how they aim to do it
+
+date: 2024-08-14, updated: 2024-08-14, from: The LAist
+
+The Archdiocese of Los Angeles sees a need for affordable homes. They have the land — and now, a new housing nonprofit — to make it happen. 
+
+<https://laist.com/news/housing-homelessness/los-angeles-catholic-church-archdiocese-affordable-housing-development-nonprofit-our-lady-queen-of-angels-alliance>
+
+---
+
+## Why fewer tents in Venice may not mean fewer unhoused people
+
+date: 2024-08-14, updated: 2024-08-14, from: The LAist
+
+A recent RAND study found that after city authorities cleared encampments last year, there was a temporary drop in homelessness in Venice, Skid Row, and Hollywood that lasted two to three months. 
+
+<https://laist.com/news/housing-homelessness/venice-homelessness-survey-encampments>
+
+---
+
+## Californians: Your rent may go up because of rising insurance rates
+
+date: 2024-08-13, updated: 2024-08-13, from: The LAist
+
+As wildfire risk increases in California, insurers are raising their rates. Landlords in turn are passing them along to tenants. 
+
+<https://laist.com/news/californians-rent-insurance-rates>
+
+---
+
+## As football season inches closer, UCLA’s defensive linemen tighten up
+
+date: 2024-08-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Fall football camp is halfway through.
+Over the past two weeks, UCLA football has dedicated the early hours of its mornings at Wasserman Football Center to prepare for the 2024 season &#8211; which will be a landmark one in the program&#8217;s history. 
+
+<https://dailybruin.com/2024/08/13/as-football-season-inches-closer-uclas-defensive-linemen-tighten-up/>
+
+---
+
+## 2024 UCLA football position preview: Special teams
+
+date: 2024-08-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Inching closer to a new era for UCLA football in the Big Ten, Daily Bruin Sports will preview each of the Bruins&#8217; position groups prior to the season&#8217;s official start. 
+
+<https://dailybruin.com/2024/08/13/2024-ucla-football-position-preview-special-teams/>
 
 ---
 
@@ -35,7 +86,7 @@ From the Olympians making their mark in Paris to the intrepid newcomers making t
 date: 2024-08-12, from: The Daily Bruin (UCLA Student Newspaper)
 
 A Bruin-turned-Trojan faced off with a Longhorn-turned-Bruin at the Olympic Games.
-Rai Benjamin &#8211; who spent two seasons with UCLA track and field from 2016 to 2017 &#8211; represented Team USA in his second Olympics, winning two gold medals in the men&#8217;s 400-meter hurdles and 4&#215;400-meter relay at the 2024 Paris Olympics. 
+Rai Benjamin – who spent two seasons with UCLA track and field from 2016 to 2017 – represented Team USA in his second Olympics, winning two gold medals in the men’s 400-meter hurdles and 4&#215;400-meter relay at the 2024 Paris Olympics. 
 
 <https://dailybruin.com/2024/08/12/former-bruins-make-history-at-2024-olympic-games-track-and-field-events/>
 
@@ -46,7 +97,7 @@ Rai Benjamin &#8211; who spent two seasons with UCLA track and field from 2016 t
 date: 2024-08-12, from: The Daily Bruin (UCLA Student Newspaper)
 
 Just as quickly as things can fall together, they can fall apart.
-After wins in the Olympic quarter and semifinals, the United States women&#8217;s volleyball national team was swept 3-0 by Italy in the gold medal match Sunday. 
+After wins in the Olympic quarter and semifinals, the United States women’s volleyball national team was swept 3-0 by Italy in the gold medal match Sunday. 
 
 <https://dailybruin.com/2024/08/12/bruins-accept-olympic-silver-medal-following-womens-volleyball-loss-to-italy/>
 
@@ -69,7 +120,7 @@ A new short-form comedy is leaving little room for “Shenanigans.”
 date: 2024-08-12, from: The Daily Bruin (UCLA Student Newspaper)
 
 One Olympics semifinal match. Five former Bruin athletes.
-All facing off in the Olympic women&#8217;s water polo semifinals &#8211; three playing for the United States and two for Australia. 
+All facing off in the Olympic women&#8217;s water polo semifinals – three playing for the United States and two for Australia. 
 
 <https://dailybruin.com/2024/08/12/former-current-bruins-fall-short-of-gold-in-olympic-womens-water-polo-tournament/>
 
@@ -122,9 +173,9 @@ date: 2024-08-12, from: California Native Plants Society
 
 ---
 
-## Is it your child's first day of school? Here's our parent guide to getting involved
+## Is it your child's first week of school? Here's our parent guide to getting involved
 
-date: 2024-08-12, updated: 2024-08-12, from: The LAist
+date: 2024-08-12, updated: 2024-08-14, from: The LAist
 
 There are all kinds of ways to engage with your child's education, whether you have only a little time or a lot. 
 

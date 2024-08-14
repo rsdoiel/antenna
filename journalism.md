@@ -1,11 +1,31 @@
 ---
 title: journalism 2024.33
-updated: 2024-08-13 08:37:56
+updated: 2024-08-14 08:43:00
 ---
 
 # journalism 2024.33
 
-(date: 2024-08-13 08:37:56)
+(date: 2024-08-14 08:43:00)
+
+---
+
+## Does legacy news help or hurt in the fight against election misinformation?
+
+date: 2024-08-14, from: Nieman Journalism Lab
+
+Evidence of the value of professional journalism — and the complicated role of social media The year 2024 has featured a series of pivotal and hotly contested elections around the world, and the U.S. presidential election — the campaign for which has gone through a whipsaw of a summer, to say the least — is still to... 
+
+<https://www.niemanlab.org/2024/08/does-legacy-news-help-or-hurt-in-the-fight-against-election-misinformation/>
+
+---
+
+## Ear Hustle’s new audio space is just the first step in a bigger plan
+
+date: 2024-08-13, from: Nieman Journalism Lab
+
+When Ear Hustle launched in 2017, it was a bit of a revelation. It was the first podcast to be produced out of a prison — San Quentin State Prison in California, where two of the podcast’s founders, Earlonne Woods and Antwan Williams, were incarcerated, and where cofounder Nigel Poor was a volunteer teacher who... 
+
+<https://www.niemanlab.org/2024/08/ear-hustles-new-audio-space-is-just-the-first-step-in-a-bigger-plan/>
 
 ---
 

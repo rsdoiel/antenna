@@ -1,11 +1,35 @@
 ---
 title: mid central 2024.33
-updated: 2024-08-13 08:37:52
+updated: 2024-08-14 08:42:57
 ---
 
 # mid central 2024.33
 
-(date: 2024-08-13 08:37:52)
+(date: 2024-08-14 08:42:57)
+
+---
+
+## Dpot pseudolog + log lookup table = actual logarithmic gain
+
+date: 2024-08-14, from: EDN Blog
+
+<img width="585" height="487" src="https://www.edn.com/wp-content/uploads/DpotLogGain_Figure1.png?fit=585%2C487" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/DpotLogGain_Figure1.png?w=585 585w, https://www.edn.com/wp-content/uploads/DpotLogGain_Figure1.png?w=300 300w" sizes="(max-width: 585px) 100vw, 585px" /><p>Using a 257-bye lookup table to create the gain range settings to the Dpot codes needed to logarithmically generate those gains.</p>
+<p>The post <a href="https://www.edn.com/dpot-pseudolog-log-lookup-table-actual-logarithmic-gain/" data-wpel-link="internal">Dpot pseudolog + log lookup table = actual logarithmic gain</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/dpot-pseudolog-log-lookup-table-actual-logarithmic-gain/>
+
+---
+
+## How to control your impulses—part 1
+
+date: 2024-08-13, from: EDN Blog
+
+<img width="573" height="477" src="https://www.edn.com/wp-content/uploads/Impulse_part1_fig1_v1.jpg?fit=573%2C477" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Impulse_part1_fig1_v1.jpg?w=573 573w, https://www.edn.com/wp-content/uploads/Impulse_part1_fig1_v1.jpg?w=300 300w" sizes="(max-width: 573px) 100vw, 573px" /><p>Getting raised cosine pulses out of a modified oscillator that are close enough to ideal to be interesting.</p>
+<p>The post <a href="https://www.edn.com/how-to-control-your-impulses-part-1/" data-wpel-link="internal">How to control your impulses—part 1</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/how-to-control-your-impulses-part-1/>
 
 ---
 
@@ -13,7 +37,7 @@ updated: 2024-08-13 08:37:52
 
 date: 2024-08-13, from: EDN Blog
 
-<img width="485" height="219" src="https://www.edn.com/wp-content/uploads/Hero-image-UCIe-controller.jpg?fit=485%2C219" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-UCIe-controller.jpg?w=485 485w, https://www.edn.com/wp-content/uploads/Hero-image-UCIe-controller.jpg?w=300 300w" sizes="(max-width: 485px) 100vw, 485px" /><p>The highly configurable UCIe controller IP facilitates die-to-die interconnect and protocol connections.</p>
+<img width="485" height="219" src="https://www.edn.com/wp-content/uploads/Hero-image-UCIe-controller.jpg?fit=485%2C219" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-UCIe-controller.jpg?w=485 485w, https://www.edn.com/wp-content/uploads/Hero-image-UCIe-controller.jpg?w=300 300w" sizes="(max-width: 485px) 100vw, 485px" /><p>The highly configurable UCIe controller IP facilitates die-to-die interconnect and protocol connections.</p>
 <p>The post <a href="https://www.edn.com/chiplets-diary-controller-ip-complies-with-ucie-1-1-standard/" data-wpel-link="internal">Chiplets diary: Controller IP complies with UCIe 1.1 standard</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

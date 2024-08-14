@@ -1,11 +1,559 @@
 ---
 title: pacific 2024.33
-updated: 2024-08-13 08:37:52
+updated: 2024-08-14 08:42:56
 ---
 
 # pacific 2024.33
 
-(date: 2024-08-13 08:37:52)
+(date: 2024-08-14 08:42:56)
+
+---
+
+## Letters to the editor for August 14
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>Dirty tactics during&#0010;the election season</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/opinion/letters-to-the-editor-for-august-14/>
+
+---
+
+## Support IDD Exhibition Race at World Sprints
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>With World Sprints beginning in Hilo this week, &#8216;Ohana Wa&#8217;a Laulima, in coordination with the International Va&#8217;a Federation (IVF) and the Hawaii Canoe Racing Association (HCRA), are honored to host an exhibition race highlighting international paddlers with intellectual and developmental disabilities. Paddlers who are normally left out of competitive racing have been given the opportunity to race alongside the international elite of the Va&#8217;a community in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/sports/support-idd-exhibition-race-at-world-sprints/>
+
+---
+
+## Another twist in ruling to revoke Chiles’ medal
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>The head of a panel that ruled that American gymnast Jordan Chiles had to give up her Olympic bronze medal in favor of a Romanian athlete has represented Romania for almost a decade in arbitration cases, documents show.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/sports/another-twist-in-ruling-to-revoke-chiles-medal/>
+
+---
+
+## BIIF football: KSH, Kona open seasons with non-conference matchups
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>KEA&#8216;AU &#8212; Football season has officially returned to the Big Island, and the Kamehameha Schools-Hawai&#8216;i community made no secret about its excitement.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/sports/biif-football-ksh-kona-open-seasons-with-non-conference-matchups/>
+
+---
+
+## Drought conditions ‘could be coming’
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>For the second consecutive month, much of the Big Island had abnormally dry weather.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/hawaii-news/drought-conditions-could-be-coming/>
+
+---
+
+## Can dirt clean the climate?
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>FORBES, Australia &#8212; Across 100,000 acres in the vast agricultural heartland of Australia, an unusual approach is taking root to slow down the wrecking ball of climate change. Farmers are trying to tap the superpowers of tiny subterranean tendrils of fungus to pull carbon dioxide out of the air and stash it underground.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/nation-world-news/can-dirt-clean-the-climate/>
+
+---
+
+## UAW accuses Trump, Musk of trying to intimidate workers in labor complaints
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>DETROIT &#8212; The United Auto Workers Union said on Tuesday it has filed complaints with the National Labor Relations Board against Donald Trump and Tesla CEO Elon Musk over attempts to threaten and intimidate workers. It is unclear whether the NLRB would take action against Trump for his comments on Monday during a two-hour conversation with Musk that was broadcast on social media platform X. The UAW seized upon Trump&#8217;s remarks as the union rallies behind Democratic presidential candidate and Vice President Kamala Harris and encourages its nearly 400,000 workers to vote for her over Trump. The issue is especially pertinent in battleground states like Michigan which could determine who wins the White House in November. The UAW endorsed Harris at the end of July. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/nation-world-news/uaw-accuses-trump-musk-of-trying-to-intimidate-workers-in-labor-complaints/>
+
+---
+
+## 18-year-old Kona man charged with possessing child pornography
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>An 18-year-old Kailua-Kona man is in custody and facing 10 charges related to child pornography.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/hawaii-news/18-year-old-kona-man-charged-with-possessing-child-pornography/>
+
+---
+
+## NAS pool set to reopen next month
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>After much-needed renovations, the NAS Swimming Pool in Hilo is finally set to reopen next month.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/hawaii-news/nas-pool-set-to-reopen-next-month/>
+
+---
+
+## Study: Water quality will continue to decline
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>The water quality of Hilo Bay will only get worse as climate change intensifies, according to a new study by University of Hawaii researchers.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/hawaii-news/study-water-quality-will-continue-to-decline/>
+
+---
+
+## George Santos may be gone from Congress, but his trial still looms
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>For months since his expulsion from Congress, George Santos has blithely stoked political intrigue on social media and sold customized videos of himself on Cameo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/nation-world-news/george-santos-may-be-gone-from-congress-but-his-trial-still-looms/>
+
+---
+
+## Paramount lays off 15% of US employees
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>Paramount, the parent company of CBS, Nickelodeon and MTV, told its employees Tuesday it was beginning a series of long-scheduled job cuts that would winnow its staff by about 15% in the United States.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/nation-world-news/paramount-lays-off-15-of-us-employees/>
+
+---
+
+## People leave New Zealand in record numbers as economy bites
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>WELLINGTON &#8212; People are leaving New Zealand in record numbers as unemployment rises, interest rates remain high and economic growth is anaemic, government statistics show. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/nation-world-news/people-leave-new-zealand-in-record-numbers-as-economy-bites/>
+
+---
+
+## Ukraine says it is still advancing in Russia’s Kursk region, hints at ‘next steps’
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>KYIV &#8212; Ukraine said on Tuesday its biggest cross-border assault of the war to date had taken control of 74 settlements in Russia&#8217;s region of Kursk and was still advancing, making gains of one to three km in the last 24 hours. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/nation-world-news/ukraine-says-it-is-still-advancing-in-russias-kursk-region-hints-at-next-steps/>
+
+---
+
+## Harris campaign woos seniors with Jefferson Starship, swing dancing
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; From swing dancing to ice cream socials, Kamala Harris&#8217; campaign will mark the 89th anniversary of Social Security this week with events aimed at older Americans who generally back Republicans. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/nation-world-news/harris-campaign-woos-seniors-with-jefferson-starship-swing-dancing/>
+
+---
+
+## US approves sale to Israel of $20 billion weapons package
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The United States on Tuesday approved the sale of $20 billion in fighter jets and other military equipment to Israel as it prosecutes a 10-month-old war in the Gaza Strip although the Pentagon said deliveries would not begin for years. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/nation-world-news/us-approves-sale-to-israel-of-20-billion-weapons-package/>
+
+---
+
+## Arizona and Missouri greenlight abortion rights amendments
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Voters in at least eight states will vote on ballot measures related to abortion access in November after officials in Arizona and Missouri certified proposed amendments in the states this week. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/nation-world-news/arizona-and-missouri-greenlight-abortion-rights-amendments/>
+
+---
+
+## Nation and world news in brief for August 14
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>Army intelligence analyst pleads guilty to selling military secrets to China</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/nation-world-news/nation-and-world-news-in-brief-for-august-14/>
+
+---
+
+## Martian subsurface harbours oceans of life-giving liquid water
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>SINGAPORE &#8212; A study released Monday using data from NASA&#8217;s Mars InSight lander shows evidence of liquid water far below the surface of the fourth planet, advancing the search for life there and showing what might have happened to Mars&#8217; ancient oceans. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/nation-world-news/martian-subsurface-harbours-oceans-of-life-giving-liquid-water/>
+
+---
+
+## Biden targets tumors with $150 mln funding for ‘Cancer Moonshot’ program
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>NEW ORLEANS &#8212; President Joe Biden announced on Tuesday he is putting $150 million in new federal funding towards developing technology to better help surgeons successfully remove cancerous tumors. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/nation-world-news/biden-targets-tumors-with-150-mln-funding-for-cancer-moonshot-program/>
+
+---
+
+## Gabbard cites ‘political retaliation’ for her addition to TSA watch list
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>State House Republicans defended former colleague, presidential candidate and U.S. Rep. Tulsi Gabbard in a letter sent Sunday to the Transportation Security Administration demanding she be removed from the federal government&#8217;s terrorist watch list.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/hawaii-news/gabbard-cites-political-retaliation-for-her-addition-to-tsa-watch-list/>
+
+---
+
+## Awards to fund University of Hawaii research soar by $100 million
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>The University of Hawaii was incredibly competitive in obtaining research funding this past fiscal year, blowing by its previous record by $100 million.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/hawaii-news/awards-to-fund-university-of-hawaii-research-soar-by-100-million/>
+
+---
+
+## FAA awards $64M for Kona airport runway rehabilitation
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8211; The U.S. Federal Aviation Administration has awarded two grants totaling $64.7 million to the state Department of Transportation to rehabilitate the runway at the Ellison Onizuka Kona International Airport at Keahole.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/hawaii-news/faa-awards-64m-for-kona-airport-runway-rehabilitation/>
+
+---
+
+## Vikings QB J.J. McCarthy to have surgery on torn meniscus: What does this mean for Minnesota?
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>EAGAN, Minn. &#8212; Minnesota Vikings rookie quarterback J.J. McCarthy will have surgery this week on a torn meniscus in his right knee, coach Kevin O&#8217;Connell announced Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/sports/vikings-qb-j-j-mccarthy-to-have-surgery-on-torn-meniscus-what-does-this-mean-for-minnesota/>
+
+---
+
+## A call for rhetorical civility — Both presidential tickets should stay out of the gutter
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>On Thursday, Donald Trump gave a classic Donald Trump press conference &#8212; by which we mean another nasty, self-indulgent, divisive and lie-filled show that was fine as entertainment but a disaster for anyone with aspirations to lead the most powerful nation on earth.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/opinion/a-call-for-rhetorical-civility-both-presidential-tickets-should-stay-out-of-the-gutter/>
+
+---
+
+## Pinballing through the presidency
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>In the gilded, overwhelmingly ornate main room of his Mar-a-Lago resort and estate, former President Donald Trump stood in front of four huge American flags Thursday and pinballed through a press conference unlike anything ever seen in presidential campaigning.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/opinion/pinballing-through-the-presidency/>
+
+---
+
+## Police arrest 16 for DUI
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>During the week of Aug. 5-11, Hawaii Island police arrested 16 motorists for DUI. Seven of the drivers were involved in a traffic accident. Two of the drivers were younger than 21.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/obituaries/police-arrest-16-for-dui-18/>
+
+---
+
+## Ohio police officer faces murder charges for shooting pregnant Black woman
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>A grand jury indicted an Ohio police officer on four counts of murder on Tuesday for his fatal shooting of a 21-year-old pregnant Black woman in a grocery-store parking lot. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/nation-world-news/ohio-police-officer-faces-murder-charges-for-shooting-pregnant-black-woman/>
+
+---
+
+## Ernesto threatens to drench Puerto Rico, Virgin Islands
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>SAN JUAN, Puerto Rico &#8212; Tropical Storm Ernesto on Tuesday threatened to bring heavy rainfall, dangerous storm surges and strong winds to the U.S. and British Virgin Islands and Puerto Rico, leading the U.S. territory to close schools and prepare for power outages. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/nation-world-news/ernesto-threatens-to-drench-puerto-rico-virgin-islands/>
+
+---
+
+## Bustamante selected for prestigious FC Barcelona academy
+
+date: 2024-08-14, from: Guam Daily Post
+
+Giacomo Bustamante, a 15-year-old junior at Harvest Christian Academy, has been invited to the prestigious Barça International Experience, a soccer training program directly affiliated with the Barça Academy in Barcelona this November. Barça Academy is the youth training wing of… 
+
+<https://www.postguam.com/sports/local/bustamante-selected-for-prestigious-fc-barcelona-academy/article_1b0b57ee-56e7-11ef-b01d-0f70e71c8952.html>
+
+---
+
+## Man, 53, accused of molesting girl, 16
+
+date: 2024-08-14, from: Guam Daily Post
+
+A 53-year-old man was accused of molesting a then-16-year-old girl and telling her "he would kill himself if the victim said anything." 
+
+<https://www.postguam.com/news/local/man-53-accused-of-molesting-girl-16/article_0e97a45c-59d7-11ef-be38-e77569cb21c2.html>
+
+---
+
+## Man suspected of stealing car thought it was his 'lucky day'
+
+date: 2024-08-14, from: Guam Daily Post
+
+A man who found a pair of car keys and thought it was his "lucky day" was charged with theft of property as a second-degree felony. 
+
+<https://www.postguam.com/news/local/man-suspected-of-stealing-car-thought-it-was-his-lucky-day/article_ecae7bc0-59e7-11ef-a299-ebad859da39e.html>
+
+---
+
+## Man accused of assault with wood plank, trying to hit victims with car
+
+date: 2024-08-14, from: Guam Daily Post
+
+A man was accused of throwing a wooden plank and attempting to run over another man and his 17-year-old grandson. 
+
+<https://www.postguam.com/news/local/man-accused-of-assault-with-wood-plank-trying-to-hit-victims-with-car/article_0c1d0c80-59dc-11ef-8bbd-a777ad592575.html>
+
+---
+
+## Medical fundraiser launched  for AutoSpot crash victims
+
+date: 2024-08-14, from: Guam Daily Post
+
+Family and friends of a man and woman in the hospital for injuries sustained in a crash at the Guam AutoSpot car dealership over the weekend have started raising funds for medical costs. 
+
+<https://www.postguam.com/news/local/medical-fundraiser-launched-for-autospot-crash-victims/article_e4a6d8bc-59e9-11ef-865c-1be3a52c66da.html>
+
+---
+
+## Election commission changes  primary threshold calculation
+
+date: 2024-08-14, from: Guam Daily Post
+
+ 
+
+<https://www.postguam.com/news/local/election-commission-changes-primary-threshold-calculation/article_a3419f40-59e1-11ef-946a-9bd1fb615b00.html>
+
+---
+
+## 24 public schools to open doors as school year begins for some
+
+date: 2024-08-14, from: Guam Daily Post
+
+Twenty-four schools will open their doors Thursday to more than 14,000 students as the Guam Department of Education welcomes the start of the new school year. More than a dozen schools will remain closed while they are pending sanitary inspections… 
+
+<https://www.postguam.com/news/local/24-public-schools-to-open-doors-as-school-year-begins-for-some/article_a29b134e-5a01-11ef-adbf-a78ed45ee517.html>
+
+---
+
+## Couple indicted in child’s drowning death
+
+date: 2024-08-14, from: Guam Daily Post
+
+A mother and stepfather have been indicted on charges related to the death of a 3-year-old boy in early July. 
+
+<https://www.postguam.com/news/local/couple-indicted-in-child-s-drowning-death/article_26eed510-59d3-11ef-9279-371b838f75e8.html>
+
+---
+
+## Legislature recesses to review  budget bill, to return Thursday
+
+date: 2024-08-14, from: Guam Daily Post
+
+Lawmakers are set to discuss the annual budget bill for the government of Guam this month, and although their initial meeting took place Wednesday, no substantial discussions on the budget happened, as lawmakers recessed until Thursday in the morning to… 
+
+<https://www.postguam.com/news/legislature-recesses-to-review-budget-bill-to-return-thursday/article_08c4f34e-59fb-11ef-ac31-ab15ca7b6ff2.html>
+
+---
+
+## Hawaiian Word of the Week: Kula
+
+date: 2024-08-14, from: University of Hawaiʻi News
+
+<p>Kula&#8212;School, academy; to teach school</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/13/hawaiian-word-of-the-week-kula/">Hawaiian Word of the Week: Kula</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/13/hawaiian-word-of-the-week-kula/>
+
+---
+
+## Starbucks reopens at Campus Center with new features
+
+date: 2024-08-14, from: University of Hawaiʻi News
+
+<p>Starbucks will reopen on Monday, August 19.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/13/starbucks-reopens-campus-center/">Starbucks reopens at Campus Center with new features</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/13/starbucks-reopens-campus-center/>
+
+---
+
+## UH Mānoa marks one-year anniversary of the Maui fires
+
+date: 2024-08-14, from: University of Hawaiʻi News
+
+<p>About 30 people gathered on the lawn of <span aria-label="Hawaii">Hawai&#699;i</span> Hall on the <abbr>UH</abbr> Mānoa campus to mark the one-year anniversary of the deadly Maui wildfires and held a moment of silence.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/13/uh-manoa-marks-wildfire-anniversary/"><abbr>UH</abbr> Mānoa marks one-year anniversary of the Maui fires</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/13/uh-manoa-marks-wildfire-anniversary/>
+
+---
+
+## Mantellato Dias, McKoy named Big West Scholar-Athletes of the Year
+
+date: 2024-08-14, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa women’s water polo player Bia Mantellato Dias and men’s basketball player Justin McKoy were selected as <abbr>UH</abbr>’s Big West Scholar-Athletes of the Year.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/13/mantellato-dias-mckoy-big-west-scholar-athletes/">Mantellato Dias, McKoy named Big West Scholar-Athletes of the Year</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/13/mantellato-dias-mckoy-big-west-scholar-athletes/>
+
+---
+
+## Gilbert named preseason All-Big West
+
+date: 2024-08-14, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa junior forward Amber Gilbert earned preseason All-Big West honors while the Rainbow Wahine were picked to finish seventh as a team in the preseason poll.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/13/gilbert-preseason-all-big-west/">Gilbert named preseason All-Big West</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/13/gilbert-preseason-all-big-west/>
+
+---
+
+## Get your 2024 HI Pride T-shirt!
+
+date: 2024-08-14, from: University of Hawaiʻi News
+
+<p>This year’s HI Pride T-Shirt Design Contest winner is <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> student Jessica Mauricio.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/13/get-your-2024-hi-pride-t-shirt/">Get your 2024 HI Pride T-shirt!</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/13/get-your-2024-hi-pride-t-shirt/>
+
+---
+
+## Free financial aid workshops provided by Hawaiʻi P–20
+
+date: 2024-08-14, from: University of Hawaiʻi News
+
+<p>Online Financial Aid Workshops will begin August 21, and will be held on Wednesdays, 6&#8211;7:30 p.m., through October 2.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/13/online-financial-aid-workshops/">Free financial aid workshops provided by Hawaiʻi P–20</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/13/online-financial-aid-workshops/>
+
+---
+
+## Lahaina Obon Ceremony honors wildfire victims, celebrates resilience
+
+date: 2024-08-14, from: University of Hawaiʻi News
+
+<p>The ceremony, which took place at Lahaina Cannery Mall, featured traditional dancing, food vendors and a sense of community healing.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/13/lahaina-obon-ceremony/">Lahaina Obon Ceremony honors wildfire victims, celebrates resilience</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/13/lahaina-obon-ceremony/>
+
+---
+
+## UH forensic anthropologist invited to examine Pompeii remains
+
+date: 2024-08-14, from: University of Hawaiʻi News
+
+<p>The <abbr>UNESCO</abbr> World Heritage Site was famously preserved under volcanic ash from Mount Vesuvius’s eruption in 79 <abbr>AD</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/13/robert-mann-pompeii-visit/"><abbr>UH</abbr> forensic anthropologist invited to examine Pompeii remains</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/13/robert-mann-pompeii-visit/>
+
+---
+
+## Pacific Indigenous creativity, innovation converge at UH West Oʻahu
+
+date: 2024-08-13, from: University of Hawaiʻi News
+
+<p>Workshop supports Indigenous culture as a key part of the innovation ecosystem.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/13/pacific-indigenous-creativity-uh-west-oahu/">Pacific Indigenous creativity, innovation converge at <abbr>UH</abbr> West Oʻahu</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/13/pacific-indigenous-creativity-uh-west-oahu/>
 
 ---
 
@@ -16,6 +564,26 @@ date: 2024-08-13, updated: 2024-08-13, from: Marianas Variety
 (Reuters) — Pinch hitter Travis d'Arnaud drove in the game's only run with a 10th-inning sacrifice fly and the Atlanta Braves pulled out a 1-0 road win over the San Francisco Giants on Monday. 
 
 <https://www.mvariety.com/sports/nationalsports/mlb-roundup-braves-edge-giants-1-0-in-10/article_159d1c9e-5984-11ef-b7b0-2fb22f3561fc.html>
+
+---
+
+## US destroyer had a brush with Chinese ships near Guam 
+
+date: 2024-08-13, from: Pacific Island Times
+
+By Pacific Island Times News Staff A U.S. Navy destroyer had an encounter with Chinese navy ships near Guam last month, according to... 
+
+<https://www.pacificislandtimes.com/post/us-destroyer-had-a-brush-with-chinese-ships-near-guam>
+
+---
+
+## How well can Guam manage mass casualty events? 
+
+date: 2024-08-13, from: Pacific Island Times
+
+Navy, local responders roll out a joint drill to test emergency response   By Ron Rocky Coloma   Thirty-three people were rushed to Guam... 
+
+<https://www.pacificislandtimes.com/post/how-well-can-guam-manage-mass-casualty-events>
 
 ---
 
@@ -247,6 +815,18 @@ date: 2024-08-13, from: Hawaii Tribune Harold
 
 ---
 
+## Obituaries for August 15
+
+date: 2024-08-13, from: Hawaii Tribune Harold
+
+
+				<p>Aaron John Arrojo Sr., 50, of Keaau died July 19 at Hilo Benioff Medical Center. Born in Hilo, he was East Hawaii district manager for Subway restaurants and avid fisherman and hunter. Visitation 4-6 p.m. Friday, Aug. 23 at Dodo Mortuary Chapel. Funeral service at 6 p.m. Graveside committal service and burial 10 a.m. Saturday, Aug. 24 at Alae Cemetery. Casual attire. Survived by wife, Rachel Arrojo of Keaau; children, Aaron John Arrojo Jr, Raesha Arrojo, Aronica Arrojo and Ridge Arrojo of Keaau; mother, Patricia Arrojo of Papaaloa; brothers, Bradley (Heidi) Arrojo of Papaikou and Jeffrey (Kaylyn) Arrojo of Papaaloa; sister, Tricia (Elmer) Ventura of Keaau; a granddaughter; uncles, aunts, nephews, nieces and cousins. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/13/obituaries/obituaries-for-august-15-9/>
+
+---
+
 ## Appellate Court Upholds Constitutionality of Interim Special Prosecutor Position
 
 date: 2024-08-13, from: Island Times
@@ -348,6 +928,66 @@ date: 2024-08-13, from: Island Times
 
 ---
 
+## Man accused of robbing car at gunpoint
+
+date: 2024-08-13, from: Guam Daily Post
+
+A man was accused of robbing another man at gunpoint and burning the victim on his ankle when the victim didn't comply with the man's demands. 
+
+<https://www.postguam.com/news/local/man-accused-of-robbing-car-at-gunpoint/article_62aaabc8-592a-11ef-9bf1-4ba75afe03d7.html>
+
+---
+
+## Judge schedules Moore drive-by shooting trial to start next month
+
+date: 2024-08-13, from: Guam Daily Post
+
+A judge wants Nicholas Moore to go to trial by early next month to face charges filed in 2021 related to an alleged drive-by shooting. 
+
+<https://www.postguam.com/news/local/judge-schedules-moore-drive-by-shooting-trial-to-start-next-month/article_50c9bfa6-5917-11ef-b90c-bba24407103d.html>
+
+---
+
+## Defendant found guilty of 2023 car theft
+
+date: 2024-08-13, from: Guam Daily Post
+
+A man faces 20 years in prison after being found guilty of burglary and theft of a motor vehicle in a case filed last year. 
+
+<https://www.postguam.com/news/local/defendant-found-guilty-of-2023-car-theft/article_a9304cc8-5912-11ef-8fe0-53e51693aa19.html>
+
+---
+
+## Customs reports 119 suspected fentanyl tablets seized this year
+
+date: 2024-08-13, from: Guam Daily Post
+
+This year, 119 tablets suspected to contain fentanyl have been intercepted by the Guam Customs and Quarantine Agency, the agency announced in a press release. 
+
+<https://www.postguam.com/news/local/customs-reports-119-suspected-fentanyl-tablets-seized-this-year/article_08071344-5909-11ef-8a12-476c5c9e63e1.html>
+
+---
+
+## AG replies to abortion petition opposition
+
+date: 2024-08-13, from: Guam Daily Post
+
+With the governor and the Guam Legislature opposing his petition to have the Supreme Court of the United States review a local decision involving Guam's old abortion ban, Guam's attorney general has now replied that the opposition actually confirms the… 
+
+<https://www.postguam.com/news/local/ag-replies-to-abortion-petition-opposition/article_eb163b92-5878-11ef-aedf-2b206691c9cf.html>
+
+---
+
+## SSHS construction management contract award waiting on funds
+
+date: 2024-08-13, from: Guam Daily Post
+
+Negotiations have been completed with SSFM International Inc., the firm chosen to serve as the construction management services contractor for the Simon Sanchez High School construction project, but the Department of Public Works cannot award the contract because it is… 
+
+<https://www.postguam.com/news/local/sshs-construction-management-contract-award-waiting-on-funds/article_ed926c38-590e-11ef-8140-07394e9f1e7c.html>
+
+---
+
 ## Unexploded ordnance has become an ocean time bomb
 
 date: 2024-08-13, from: Island Times
@@ -409,6 +1049,16 @@ date: 2024-08-13, from: Island Times
 
 ---
 
+## Plan for schools not opening this week to be addressed Wednesday
+
+date: 2024-08-13, from: Guam Daily Post
+
+While some schools will open earlier than others, by Aug. 22, all public school students will be engaged in some form of learning, even if it may not be at their home campuses at first, Guam Education Board Vice Chair… 
+
+<https://www.postguam.com/news/plan-for-schools-not-opening-this-week-to-be-addressed-wednesday/article_1ca83cec-5940-11ef-bbc9-1b41d4cce21b.html>
+
+---
+
 ## Revamped AUKUS document reveals how US and UK can walk away from nuclear submarine deal
 
 date: 2024-08-13, from: Island Times
@@ -445,6 +1095,16 @@ date: 2024-08-13, from: Island Times
 
 ---
 
+## Racing against time, Guam public schools still not ready to open 
+
+date: 2024-08-13, from: Pacific Island Times
+
+By Gina Tabonares Reilly Students of George Washington High School will have an extended vacation. The Mangilao campus remains closed... 
+
+<https://www.pacificislandtimes.com/post/racing-against-time-guam-public-schools-still-not-ready-to-open>
+
+---
+
 ## Rising public risk of infection at Hilo Bay linked to climate change
 
 date: 2024-08-13, from: University of Hawaiʻi News
@@ -453,6 +1113,16 @@ date: 2024-08-13, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/08/12/rising-risk-of-infection-hilo-bay-climate-change/">Rising public risk of infection at Hilo Bay linked to climate change</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/08/12/rising-risk-of-infection-hilo-bay-climate-change/>
+
+---
+
+## Guam heightens vigilance against fentanyl smuggling
+
+date: 2024-08-13, from: Pacific Island Times
+
+By Gina T. Reilly While methamphetamine and marijuana have remained the top illegal substances being smuggled into Guam, authorities... 
+
+<https://www.pacificislandtimes.com/post/guam-heightens-vigilance-against-fentanyl-smuggling>
 
 ---
 
@@ -976,6 +1646,26 @@ date: 2024-08-12, from: Guam Daily Post
 With the Front Street Fights featherweight title on the line Sunday morning in Boise, Idaho, against Andrew “Hurricane” Cruz (9-5-0) Guam’s Trevin “5 Star” Jones (14-12-0) dominated the first round but succumbed to the Idaho native four minutes, 40 seconds… 
 
 <https://www.postguam.com/sports/local/5-star-jones-injures-shoulder-in-title-fight-succumbs-to-hurricane-cruz/article_14c31066-5831-11ef-ac47-63c84c72368e.html>
+
+---
+
+## DPHSS Bureau of Child Care Services recognized federally
+
+date: 2024-08-12, from: Guam Daily Post
+
+Public Health’s Division of Children’s Welfare, Bureau of Child Care Services, is “breaking barriers,” a feat that was recently highlighted by federal officials. 
+
+<https://www.postguam.com/news/local/dphss-bureau-of-child-care-services-recognized-federally/article_371ab9a2-5863-11ef-a6b0-f3f518611a7f.html>
+
+---
+
+## GDOE and Public Health teacher training focused on ‘whole child’
+
+date: 2024-08-12, from: Guam Daily Post
+
+Early childhood teachers with the Guam Department of Education are adapting to the evolving needs of young learners, GDOE said in a press release, as the teachers engaged in training last week focused on the “whole child.” 
+
+<https://www.postguam.com/news/local/gdoe-and-public-health-teacher-training-focused-on-whole-child/article_826d1d8c-5863-11ef-95d2-53681def0e02.html>
 
 ---
 

@@ -1,11 +1,369 @@
 ---
 title: columns 2024.33
-updated: 2024-08-13 08:37:54
+updated: 2024-08-14 08:42:58
 ---
 
 # columns 2024.33
 
-(date: 2024-08-13 08:37:54)
+(date: 2024-08-14 08:42:58)
+
+---
+
+##  &#8220;When Google increased paid maternity leave to 18 from 12 weeks in... 
+
+date: 2024-08-14, updated: 2024-08-14, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045117-when-google-increased-pai>
+
+---
+
+## AT&T Says It Won’t Carry Google’s Pixel 9 Pro Fold
+
+date: 2024-08-14, updated: 2024-08-14, from: Daring Fireball
+
+ 
+
+<https://www.cnet.com/tech/mobile/at-t-says-it-wont-carry-googles-pixel-9-pro-fold/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-14, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/08/14/marlboroLights.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If you don't buy the <a href="https://this.how/newRulesForJournalists/">new rules for journalism</a> because the liars will tell lies about you, the journalist -- well, you get that either way, no matter what you do, so I don't see the problem. And if you want people to trust you, you've got to tell the truth. Your reputation gets destroyed by their lies if you pass them through. Doctors <s>can</s> must tell you to stop smoking to save your life and the tobacco companies will accuse them of lying or whatever and some people (such as myself, earlier in life) will continue to smoke. You still have to do what's right if you want people to trust you.
+ 
+
+<http://scripting.com/2024/08/14.html#a152609>
+
+---
+
+##  The World&#8217;s Fastest Puzzle Solver (It&#8217;s a Robot) 
+
+date: 2024-08-14, updated: 2024-08-14, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/the-worlds-fastest-puzzle-solver-its-a-robot>
+
+---
+
+## August 13, 2024
+
+date: 2024-08-14, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-13-2024-c9d>
+
+---
+
+## Harris makes me proud
+
+date: 2024-08-14, from: Dave Winer's Scripting News
+
+<p>I am so impressed with how well the new Democratic Party is running this campaign. Latest innovation, they're going to do at least one public rally during the convention, so everyone can be part of the celebration, and I plan to watch every minute of it. What I don't want to witness is what the journalists try to provoke. I've been to two DNCs and later heard what they were talking about on CNN, and my god they invented crises that simply didn't exist. Who's going to have time to call them out because no one at the convention is watching TV. </p>
+<p>I heard on a podcast yesterday that it's weird that Harris is polling as well as the <a href="https://www.advisorperspectives.com/commentaries/2021/11/23/the-generic-ballot-what-to-know-why-its-so-important">generic</a> Democrat, which they felt was odd because she's not a white man, which made me think that in 2024, she is the face of the Democratic Party. Obama and Hillary Clinton knocked down those barriers, and now it would feel strange if the candidate at the top of the ticket were not interracial and female.</p>
+<p>I'm proud that my country has nominated such an attractive group of talented people with such fierce competence and humility. For these moments I wish I had a new graphic to put in the margin to symbolize the United States. We're strong, and we win, and when we don't we get back up and fight. Uncle Sam is a great symbol. But we've yet to create the interracial and female version that symbol. </p>
+<p>One more thing, there are a lot of white male voters to be courted and welcomed back into the fold. Trump has had the advantage there, but it doesn't have to be that way. A hand reached out in brotherhood could turn this election into the kind of landslide we need to cleanse our political system its flirtation with fascism. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/08/14/ladyLibertyFullSizeIowa.png"></center>Statue of Liberty in the heartland. </div></p>
+ 
+
+<http://scripting.com/2024/08/14/142432.html?title=harrisMakesMeProud>
+
+---
+
+##  Recent CDC report: &#8220;Among children born during 1994–2023, routine childhood vaccinations will... 
+
+date: 2024-08-14, updated: 2024-08-14, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045122-recent-cdc-report-among-c>
+
+---
+
+## 2024-08-14 Web applications
+
+date: 2024-08-14, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-14-web-applications">2024-08-14 Web applications</h1>
+
+<p>For my own peace of mind, I have resolved to no longer think of websites as &ldquo;websites&rdquo;. Instead, there are <em>web documents</em> and <em>web applications</em>. I find it easier to accept to use a browser like Firefox like a virtual computer for web applications. Many of the websites these days are in fact web applications.</p>
+
+<p>There&rsquo;s no point in railing against web applications. I like to write web applications! And I use many of them myself, too.
+Things like <a href="Face_Generator">Face Generator</a>, <a href="Text_Mapper">Text Mapper</a> or <a href="Hex_Describe">Hex Describe</a> are impossible to do as documents. In an emergency, you could have a form that then generates a PDF to download, maybe? But is that really preferable? I don&rsquo;t think so.</p>
+
+<p>And don&rsquo;t get me started on writing native graphical user-interface applications. It takes so much energy to get it right. It gives me a headache. I tried. Take a look at <a href="https://src.alexschroeder.ch/gridmapper-local.git/">Gridmapper with Common Lisp and SDL2</a>, if you want. Compare it with regular <a href="Gridmapper">Gridmapper</a>. Is that really preferable? I don&rsquo;t think so.</p>
+
+<p>And the reverse is also not cool. I wrote a text user interface tool to generate maps, which can then be downloaded as SVG files. Give <a href="Hex_Populate">Hex Populate</a> a try, it works over SSH. Is that really preferable? I don&rsquo;t think so.</p>
+
+<p>I&rsquo;ve tried Gemtext for a long time. I was very much into <a href="Gemini">Gemini</a>. But these days I no longer think it&rsquo;s the answer. It&rsquo;s like a piece of performance art: the doing of it is a statement. People who step into it are confounded, their beliefs challenged. It&rsquo;s good art! It&rsquo;s interesting technology. But it&rsquo;s not a replacement for <em>web applications</em>. It&rsquo;s not even a good format for <em>web documents</em>! I want inline emphasis – bold, italics, code – and accessible tables with captions and cell navigation, and row-spans, and column-spans. I tried writing code that translated Wikipedia tables into ASCII tables to be used as pre-formatted text in Gemtext. It&rsquo;s hard to do well with the sizing of columns, the line wrapping in cells, the limited space available in a terminal, and when you&rsquo;ve solved all of that, it&rsquo;s still hell for people with bad eye-sight or cognitive problems trying to understand what they&rsquo;re seeing. It&rsquo;s terrible. You could of course do away with all tables. But is that really preferable? I don&rsquo;t think so.</p>
+
+<p>And so… there&rsquo;s that bifurcation in the road. For this site, for most of the pages that I think of as <em>web documents</em>, I write (or generate) HTML that doesn&rsquo;t require fonts or scripts. If one uses browsers such as eww, links2, w3m, lynx or dillo, it should just work. I wasn&rsquo;t going to convert the corporate web, anyway.</p>
+
+<p>I still serve my site as Gemini and Gopher. But I do it as a political statement, as a piece of performance art.</p>
+
+<p>At the same time, I swallow my pride and <a href="2018-11-14_Firefox_Setup">setup Firefox</a>.</p>
+
+<p><a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Gemini">#Gemini</a></p> 
+
+<https://alexschroeder.ch/view/2024-08-14-web-applications>
+
+---
+
+## slow TCP connect on Windows
+
+date: 2024-08-14, from: Daniel Stenberg Blog
+
+I have this tradition of mentioning occasional network related quirks on Windows on my blog so here we go again. This round started with a bug report that said curl is slow to connect to localhost on Windows It is also demonstrably true. The person runs a web service on a local IPv4 port (and &#8230; <a href="https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/" class="more-link">Continue reading <span class="screen-reader-text">slow TCP connect on Windows</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/>
+
+---
+
+## Office Hours: Really now, why isn’t the media reporting on Trump’s apparent mental decline?
+
+date: 2024-08-14, from: Robert Reich's blog
+
+It reported nonstop about Biden&#8217;s apparent mental decline. 
+
+<https://robertreich.substack.com/p/office-hours-why-isnt-the-media-reporting>
+
+---
+
+## August 13, 2024 
+
+date: 2024-08-14, from: Heather Cox Richardson blog
+
+On August 14, 1935, President Franklin Delano Roosevelt signed the Social Security Act into law. 
+
+<https://heathercoxrichardson.substack.com/p/august-13-2024>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-14, from: Dave Winer's Scripting News)
+
+I ordered a <a href="https://blog.google/products/pixel/google-pixel-9-pro-xl/">Pixel Pro 9</a> today for delivery in September. Look forward to seeing what makes it so AI. 
+
+<http://scripting.com/2024/08/13.html#a021749>
+
+---
+
+## New Distraction Control Safari Feature Is Now Available in the iOS 18 and MacOS 15 Betas
+
+date: 2024-08-14, updated: 2024-08-14, from: Daring Fireball
+
+ 
+
+<https://www.macrumors.com/2024/08/05/ios-18-safari-distraction-control/>
+
+---
+
+## Subtle Tweaks to the Harris/Walz Logo
+
+date: 2024-08-14, updated: 2024-08-14, from: Daring Fireball
+
+ 
+
+<https://www.threads.net/@jonathanhoefler/post/C-oBpJeuoA1>
+
+---
+
+## Thinking about how readers use our websites
+
+date: 2024-08-14, from: Tracy Durnell Blog
+
+Things I’m Working On by Anh The idea is that I am a mysterious entity that the reader is trying to piece together by pinning things up on a board and connecting them with string, like a conspiracy. I love this idea for an about page! Very fun. Anh expressed some trepidation over having too [&#8230;] 
+
+<https://tracydurnell.com/2024/08/13/thinking-about-how-readers-use-our-websites/>
+
+---
+
+## Google’s Pixel 9 Launch Event
+
+date: 2024-08-14, updated: 2024-08-14, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/24218825/google-pixel-9-event-announcements-products>
+
+---
+
+## ‘He Sounded Like a Disoriented, Racist Daffy Duck’
+
+date: 2024-08-14, updated: 2024-08-14, from: Daring Fireball
+
+ 
+
+<https://www.usatoday.com/story/opinion/columnist/2024/08/12/trump-musk-interview-x-twitter-spaces-disaster/74774628007/>
+
+---
+
+## Wednesday 14 August, 2024
+
+date: 2024-08-13, from: John Naughton's online diary
+
+Gee-up Striking mural, Brignoles, Provence Quote of the Day ”I am sure that the power of vested interests is vastly exaggerated compared with the gradual encroachment of ideas. Not, indeed, immediately, but after a certain interval; for in the field &#8230; <a href="https://memex.naughtons.org/wednesday-14-august-2024/39745/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-14-august-2024/39745/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-13, from: Dave Winer's Scripting News)
+
+I started a <a href="https://this.how/newRulesForJournalists/">this.how page</a> for the new rules for journalism. Common-sense rules for reporters that they violate regularly, so now it's time to write them down. 
+
+<http://scripting.com/2024/08/13.html#a230405>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-13, from: Dave Winer's Scripting News)
+
+There's a <i>second</i> <a href="https://www.threads.net/@davew/post/C-n_USoPByd">new rule</a>. Journalists do not make demands. 
+
+<http://scripting.com/2024/08/13.html#a224422>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-13, from: Dave Winer's Scripting News)
+
+Just got a <a href="https://imgs.scripting.com/2024/08/13/oldContentDeleted.png">message</a> from Slack that should serve as a warning to people who use other free services, expecting their archive to be maintained over time. It was too good to be true before. Now you need to ask vendors if that's true on their system. 
+
+<http://scripting.com/2024/08/13.html#a224227>
+
+---
+
+##  Fever Feels Horrible, But Is Actually Helpful 
+
+date: 2024-08-13, updated: 2024-08-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/fever-feels-horrible-but-is-actually-helpful>
+
+---
+
+##  Lethonomia &#8220;refers to the inability to recall someone&#8217;s name&#8221;. I can never... 
+
+date: 2024-08-13, updated: 2024-08-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045115-lethonomia-refers-to-the->
+
+---
+
+##  August 1st was Earth Overshoot Day for 2024. &#8220;In the past 7... 
+
+date: 2024-08-13, updated: 2024-08-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045113-august-1st-was-earth-over>
+
+---
+
+## Creator Platforms Should Be a Special Category on the App Store
+
+date: 2024-08-13, updated: 2024-08-13, from: Daring Fireball
+
+ 
+
+<https://on.substack.com/p/apple-patreon-in-app-purchase-system>
+
+---
+
+##  Science and Our Personal Bodily Freedoms 
+
+date: 2024-08-13, updated: 2024-08-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/science-and-our-personal-bodily-freedoms>
+
+---
+
+## August 12, 2024
+
+date: 2024-08-13, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-12-2024-81c>
+
+---
+
+## Google Pixel 9 released: The Best Time to Upgrade to the Pixel 8 (and
+GrapheneOS)
+
+date: 2024-08-13, from: mrusme blog
+
+The Google Pixel 9 has just been released, making this probably the best time
+to snap up its predecessor, the Pixel 8 -- a solid phone with years-long
+software support -- and switch to GrapheneOS along the way! 
+
+<https://xn--gckvb8fzb.com/google-pixel-9-released-the-best-time-to-upgrade-to-the-pixel-8-and-grapheneos/>
+
+---
+
+##  A pilot program in Copenhagen was designed to encourage tourists &#8220;to act... 
+
+date: 2024-08-13, updated: 2024-08-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045112-a-pilot-program-in-copenh>
+
+---
+
+## AI Unicorns Are Running Amok
+
+date: 2024-08-13, from: Om Malik blog
+
+A growing number of skeptics— including many on Wall Street — are getting increasingly nervous about the “AI” bubble. But that hasn’t stopped money from flowing into AI startups, according to a new State of the Markets report by Silicon Valley Bank. The report points out that “More AI companies are becoming unicorns,” and it &#8230; 
+
+<https://om.co/2024/08/13/ai-unicorns-are-running-amok/>
+
+---
+
+##  Researchers have developed a &#8220;smart insulin&#8221; that can adapt to blood sugar... 
+
+date: 2024-08-13, updated: 2024-08-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045110-researchers-have-develope>
+
+---
+
+## The new rule is big
+
+date: 2024-08-13, from: Dave Winer's Scripting News
+
+<p>The new rule for journalists <a href="https://www.threads.net/@davew/post/C-k5VrQJNXL">on Threads</a> is big. </p>
+<p>How big is it? </p>
+<p>So big I got my <a href="https://imgs.scripting.com/2024/08/13/fediverseReplyRule.png">first Fediverse reply</a>, ever. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/08/13/fediverseReplyRule.png"></center>A reply on Threads from the Fediverse. A first! <span class="spOldSchoolEmoji">😄</span></div></p>
+ 
+
+<http://scripting.com/2024/08/13/155131.html?title=theNewRuleIsBig>
+
+---
+
+## Ezra Klein and Nate Silver
+
+date: 2024-08-13, from: Dave Winer's Scripting News
+
+<p>I had another morning of driving around so I listened to a bunch of podcasts about how the campaign is going, all good news for Democrats which of course makes me happy. The last podcast I listened to was <a href="https://www.nytimes.com/2024/08/13/opinion/ezra-klein-podcast-nate-silver.html">Ezra Klein's interview with Nate Silver</a>. I only listened to the first 20 minutes because I ran out of time. I may pick it up later on my afternoon walk (it's a gorgeous day in the mountains). </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/08/13/trafficUptight.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">They talked about their bond as old school bloggers. I didn't know either of them when they were starting out, which is kind of sad -- most of the bloggers I heard from in that period were mad at me the way they are mad at Elon Musk now. Both Silver and Klein campaigned for Biden to step aside, which I felt it was inappropriate -- for Silver who was/is a trusted polling analyst, and Klein who is a columnist for the NYT. I had already listened to Klein's interview with Nancy Pelosi. But I really don't like that both of them crossed a line I felt they had no business crossing, becoming an advocate rather than a journalist. I can't thikn about either of them without thinking about that. But I listened anyway, because I'm interested in both, and esp the combination. </p>
+<p>The discussion was interesting and even agreeable until Klein asked Silver about his relationship with Peter Thiel. I had read that Silver was connected to Thiel in some way. Before they moved on neither commented on <a href="https://en.wikipedia.org/wiki/Gawker#Hulk_Hogan_sex_tape">Thiel's funding</a> of the Hulk Hogan lawsuit that destroyed Gawker. I don't know how they can both, for their careers, which depend on free speech, still have a kind word for Thiel. I never liked Gawker, they made fun of me, and others, in horrific ways, that weren't even based on facts, the kind of bullshit pre-teens make up about people when they can't think of anything else to say. Even though they hurt me, embarrassed me, aroused my hate, even if I had the kind of money Thiel has, I never in a million years would use that money to destroy them. </p>
+<p>Thiel's wealth is a weapon aimed at all our freedom. This is something imho that has to at least be <i>mentioned</i> when a journalist talks about Thiel, and neither of them did. I guess they feel safe from Thiel's attacks, perhaps because they have adjusted their writing so as to never risk offending him, which totally undermines their integrity, if so. A good way to prove that's not true would be to never mention him without saying his behavior the Hulk Hogan vs Gawker was reprehensible. </p>
+<p>I still listened, even though they provoked my ire in a very fundamental way. I'd be interested in hearing from them, as a fellow old school blogger, if they justify Thiel's funding of the Hogan lawsuit and if so, how. But I expect that both of them consider themselves in an elite class and wouldn't deign to explain themselves, or the truth is something they don't want disclosed. Either way, to be blogger-blunt, they both suck. </p>
+<p>Update: I listened to more of the interview. I think these guys need to get out more. The reason Harris is having such a strong response is that we the voters are desperate to not have another term for Trump. We understand the stakes in the election. You always try to reduce it to numbers, when the facts are available at a more human level. The reason we love Kamala is born of desperation. Stop talking to each other, you already know why we care, because underneath it all <i>you</i> care because you're human and you come from America too. And btw about VCs, I know a lot about them, I'm assuming at some point Klein will leave the NYT to make millions with Thiel, and I imagine Silver is already doing that, but you both have the disease. You assume great money makes people interesting. It can make them dangerous. </p>
+ 
+
+<http://scripting.com/2024/08/13/152314.html?title=ezraKleinAndNateSilver>
 
 ---
 

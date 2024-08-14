@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.33
-updated: 2024-08-13 08:37:56
+updated: 2024-08-14 08:43:01
 ---
 
 # libraries 2024.33
 
-(date: 2024-08-13 08:37:56)
+(date: 2024-08-14 08:43:01)
 
 ---
 
@@ -29,12 +29,24 @@ Beltrao, Pedro; Van Den Bossche, Tim; Gabriels, Ralf; Holstein, Tanja; Kockmann,
 
 ---
 
-## Day in Review (August 12–15)
+## Resetting and Recharging Research Communications in the Sun of Los Angeles: A FORCE11 Conference Report
+
+date: 2024-08-14, from: Scholarly Kitchen
+
+<p>The FORCE11 conference at UCLA lays the groundwork to continue its efforts to transform research communications and e-scholarship.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/08/14/resetting-and-recharging-research-communications/">Resetting and Recharging Research Communications in the Sun of Los Angeles: A FORCE11 Conference Report</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/08/14/resetting-and-recharging-research-communications/>
+
+---
+
+## Day in Review (August 12–14)
 
 date: 2024-08-13, from: Association of Research Libraries News
 
-<p>Last Updated on August 13, 2024, 8:12 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, August 13 &#124; Wednesday, August 14 &#124; Thursday,...</p>
-<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-august-12-15/">Day in Review (August 12–15)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+<p>Last Updated on August 13, 2024, 2:05 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, August 13 &#124; Wednesday, August 14 Note: Day...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-august-12-15/">Day in Review (August 12–14)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
 <https://www.arl.org/day-in-review/day-in-review-august-12-15/>

@@ -1,11 +1,403 @@
 ---
 title: going electric 2024.33
-updated: 2024-08-13 08:37:59
+updated: 2024-08-14 08:43:04
 ---
 
 # going electric 2024.33
 
-(date: 2024-08-13 08:37:59)
+(date: 2024-08-14 08:43:04)
+
+---
+
+## XPeng’s MONA M03 launch scheduled for August 27 and will arrive at a starting price of $19K
+
+date: 2024-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/XPeng-MONA-price-M03.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Days after kicking off mass production of its new MONA M03 sedan in China, XPeng Motors has set a date for its official launch and shared its starting price. At around $19,000, the MONA M03 will arrive as <a href="https://electrek.co/guides/xpeng/">XPeng’s</a> most affordable BEV model to date.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mona,mona-m03,xpeng,xpeng-motors" data-layer-viewtype="unknown" data-post-id="375786" href="https://electrek.co/2024/08/14/xpengs-mona-m03-launch-august-27-starting-price-19k/#more-375786" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/14/xpengs-mona-m03-launch-august-27-starting-price-19k/>
+
+---
+
+## DC Fast Charging Is Getting Better, But Level 2 Is Getting Worse: Study
+
+date: 2024-08-14, from: Inside EVs News
+
+A public charging study by JD Power shows consistent improvement in charging experience this year, but the results are more nuanced than they appear. 
+
+<https://insideevs.com/news/730161/jd-power-charging-study-2024/>
+
+---
+
+## Tesla dominates charging experience and it’s not even close, new study says
+
+date: 2024-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/11/TEsla-Supercharger-alaska.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A new study by JD Power shows that Tesla still dominates the electric vehicle charging experience, and it’s not even close.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="375780" href="https://electrek.co/2024/08/14/tesla-dominates-charging-experience-not-close-new-study/#more-375780" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/14/tesla-dominates-charging-experience-not-close-new-study/>
+
+---
+
+## Polestar (PSNY) just made its first electric SUV in the US, is it really the best on the market?
+
+date: 2024-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Polestar-first-electric-SUV-US-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The first <a href="https://electrek.co/guides/polestar-3/">Polestar 3</a> rolled off the production line in South Carolina on Wednesday, a massive milestone as the brand looks to take on the US with American-made EVs. Polestar CEO Thomas Ingenlath “strongly believes” the new electric SUV is the best looking and best driving on the market. But is it really?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="polestar,polestar-3" data-layer-viewtype="unknown" data-post-id="375762" href="https://electrek.co/2024/08/14/polestar-psny-just-made-first-electric-suv-us/#more-375762" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/14/polestar-psny-just-made-first-electric-suv-us/>
+
+---
+
+## Planning To Ride An ATV? Check Out These Free Online Courses First
+
+date: 2024-08-14, from: Ride Apart, Electric Motorcycle News
+
+The ATV Safety Institute makes it easy for anyone to get a hang of the basics.  
+
+<https://www.rideapart.com/news/729926/atv-safety-institute-free-online-courses/>
+
+---
+
+## This 1930s Armored Harley-Davidson Has a Sidecar, and a Machine Gun
+
+date: 2024-08-14, from: Ride Apart, Electric Motorcycle News
+
+Yes, Nazis were involved, too.  
+
+<https://www.rideapart.com/news/730054/harley-davidson-landsverk-210-armored-motorcycle/>
+
+---
+
+## Cash for Clunkers, But For Motorcycles? Singapore Offers Cash To Retire Old Bikes
+
+date: 2024-08-14, from: Ride Apart, Electric Motorcycle News
+
+All bikes registered before July 1, 2003 are eligible for the program.  
+
+<https://www.rideapart.com/news/729927/singapore-encourages-retirement-old-bikes/>
+
+---
+
+## Paris wins gold for transforming  into mobility utopia for Olympics
+
+date: 2024-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Bolt-Lime-ebikes.jpg?quality=82&#038;strip=all&#038;w=1000" /></div><p><strong>Liberté. égalité. fraternité. mobilit</strong><strong>é</strong>?  </p>
+
+
+
+<p>The Paris 2024 Olympics just concluded and whatever you think of actual games (they were great!) the city itself deserves a lot of credit for giving its visitors a first class experience. Here at <em>Electrek</em>, we’ll focus on the transportation aspect…</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="e-bikes,micromobility,paris" data-layer-viewtype="unknown" data-post-id="375538" href="https://electrek.co/2024/08/14/paris-wins-gold-for-transforming-into-mobility-utopia-for-olympics/#more-375538" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/14/paris-wins-gold-for-transforming-into-mobility-utopia-for-olympics/>
+
+---
+
+## Want To Ride Quads and Dirt Bikes on Your Farm? Not So Fast, Says This Guy
+
+date: 2024-08-14, from: Ride Apart, Electric Motorcycle News
+
+NIMBY neighbors are the best, aren't they? 
+
+<https://www.rideapart.com/news/730062/nimby-noise-complaint-farm-quads/>
+
+---
+
+## Ewan McGregor and Charley Boorman Are Back Riding Bikes Around the World, Thankfully
+
+date: 2024-08-14, from: Ride Apart, Electric Motorcycle News
+
+Leave it to Ewan and Charley to plot a 10,000-mile route between Scotland and London. 
+
+<https://www.rideapart.com/news/730064/new-long-way-series/>
+
+---
+
+## Jerk Hits Endangered Horse With UTV, Flees The Scene
+
+date: 2024-08-14, from: Ride Apart, Electric Motorcycle News
+
+The 10-year-old stallion's injuries were so bad, he had to be euthanized after the crash. 
+
+<https://www.rideapart.com/news/730047/endangered-banker-horse-killed-utv/>
+
+---
+
+## You Won't Believe This, But a Single Speed Camera Made More Than $1M in 3 Years
+
+date: 2024-08-14, from: Ride Apart, Electric Motorcycle News
+
+These speed cams just might be out to get you and all your money.  
+
+<https://www.rideapart.com/news/729928/speed-camera-money-making-scheme-italy/>
+
+---
+
+## Burger bots! Serve Robotics and Uber Eats to roll out autonomous robot deliveries for Shake Shack
+
+date: 2024-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Uber-eats-robot-deliveries-Shake-Shack-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Uber Eats customers in Los Angeles may have their next Shake Shack order delivered to them via an autonomous robot. <a href="https://electrek.co/guides/autonomous-deliveries/">Autonomous sidewalk delivery</a> company Serve Robotics has announced a new partnership with the fast-food chain and will deploy the robots around LA to hand off orders for Uber Eats.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous-deliveries,robots,serve-robotics,uber" data-layer-viewtype="unknown" data-post-id="375679" href="https://electrek.co/2024/08/14/serve-robotics-uber-eats-autonomous-robot-deliveries-shake-shack/#more-375679" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/14/serve-robotics-uber-eats-autonomous-robot-deliveries-shake-shack/>
+
+---
+
+## Ducati Won't Make a Small Displacement Motorcycle, That's Stupid
+
+date: 2024-08-14, from: Ride Apart, Electric Motorcycle News
+
+Ducati could pull a Porsche.  
+
+<https://www.rideapart.com/news/730042/ducati-small-displacement-motorcycle/>
+
+---
+
+## Cadillac Recalls Over 20,000 Lyriq EVs Because The Brakes Might Malfunction
+
+date: 2024-08-14, from: Inside EVs News
+
+2023 and 2024 models with all-wheel drive are affected. 
+
+<https://insideevs.com/news/730101/cadillac-lyriq-recall-brake-malfunction/>
+
+---
+
+## New EV Prices Continue To Fall, Despite Teslas Being More Expensive
+
+date: 2024-08-14, from: Inside EVs News
+
+EV incentives were 73% higher than the industry average last month. 
+
+<https://insideevs.com/news/730084/ev-prices-down-tesla-more-expensive/>
+
+---
+
+## A Tesla RV, falling sales in Europe, SWTCH, and big Biden solar news
+
+date: 2024-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/tesla-rv.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>On today’s episode of <em>Quick Charge</em>, we’ve got a medium duty Tesla RV that could help stop sliding sales in Europe, Tom Kasper from SWTCH Energy shows up to talk EV charging in older buildings, and we cover Biden’s big bump to Chinese solar.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,ev-charging,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="375745" href="https://electrek.co/2024/08/13/a-tesla-rv-falling-sales-in-europe-swtch-and-big-biden-solar-news/#more-375745" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/13/a-tesla-rv-falling-sales-in-europe-swtch-and-big-biden-solar-news/>
+
+---
+
+## Rivian Won't Offer CarPlay. Its Alternative Requires A Subscription Plan
+
+date: 2024-08-13, from: Inside EVs News
+
+Rivian's Connect+ adds streaming apps like Audible and Apple Music, but it's an extra $14.99 a month.  
+
+<https://insideevs.com/news/730066/rivian-carplay-connect-dolby-subscription/>
+
+---
+
+## Hyundai wants to conquer the US truck market following a Tesla Cybertruck teardown
+
+date: 2024-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Hyundai-Tesla-Cybertruck.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Is <a href="https://electrek.co/guides/hyundai/">Hyundai</a> already planning to go after Tesla’s new Cybertruck? Following a teardown and analysis of the Tesla Cybertruck, Hyundai wants to make a comeback in the US pickup truck market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="375710" href="https://electrek.co/2024/08/13/hyundai-targets-us-truck-market-tesla-cybertruck-teardown/#more-375710" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/13/hyundai-targets-us-truck-market-tesla-cybertruck-teardown/>
+
+---
+
+## In July, Tesla Model 3’s price was 30% higher than January (but EV prices are still dropping)
+
+date: 2024-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla_Model_3_2024.jpg?quality=82&#038;strip=all&#038;w=1536" /></div><p>EV prices in July were higher month-over-month but lower year-over-year – and the Tesla Model 3 price was up an eyebrow-raising 30% from January, reports <a href="https://www.coxautoinc.com/newsroom/" target="_blank" rel="noreferrer noopener">Kelley Blue Book</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,evs,kelley-blue-book,tesla,tesla-model-3" data-layer-viewtype="unknown" data-post-id="375701" href="https://electrek.co/2024/08/13/july-ev-price-model-3/#more-375701" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/13/july-ev-price-model-3/>
+
+---
+
+## Vintage EV conversion specialist Kindred Motorworks unveils 402 HP electric Bronco in Monterey
+
+date: 2024-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Bronco-EV-conversion-Kindred-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Norcal-based <a href="https://electrek.co/guides/ev-conversion/page/2/">EV conversion</a> specialist Kindred Motorworks has pulled the sheet off its third all-electric model during Monterey Car Week 2024. The company’s EV conversion of the classic Ford Bronco features dual motors and all-wheel drive and delivers up to 402 horsepower – complete with modern-day EV upgrades while maintaining its original aesthetic.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-classic-ford-bronco,ev-conversion,ford-bronco,kindred-motorworks" data-layer-viewtype="unknown" data-post-id="375685" href="https://electrek.co/2024/08/13/vintage-ev-conversion-kindred-motorworks-unveils-402-hp-electric-bronco/#more-375685" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/13/vintage-ev-conversion-kindred-motorworks-unveils-402-hp-electric-bronco/>
+
+---
+
+## Mazda Says Its New EV Is 'Truly Global.' But There's One Problem
+
+date: 2024-08-13, from: Inside EVs News
+
+Mazda finally has a proper electric sedan in the pipeline. It sucks that U.S. launch isn't on the cards. 
+
+<https://insideevs.com/news/730051/new-mazda-ez6-global/>
+
+---
+
+## Tesla should make this electric camper van right now
+
+date: 2024-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Tesla-electric-camper-van-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla should make this electric van, rendered by a visual artist, based on the Tesla Semi right now. In fact, it should have made it four years ago.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-van" data-layer-viewtype="unknown" data-post-id="375671" href="https://electrek.co/2024/08/13/tesla-electric-camper-van-renders/#more-375671" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/13/tesla-electric-camper-van-renders/>
+
+---
+
+## Biden doubles tariff-free solar cell import quota set by Trump
+
+date: 2024-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/desert-solar-BLM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>President Joe Biden has more than doubled the volume of solar cells made overseas that can be imported tariff-free to support US panel manufacturers. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,president-biden,solar-cell,solar-power" data-layer-viewtype="unknown" data-post-id="375643" href="https://electrek.co/2024/08/13/biden-doubles-tariff-free-solar-cell-import-quota-set-by-trump/#more-375643" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/13/biden-doubles-tariff-free-solar-cell-import-quota-set-by-trump/>
+
+---
+
+## Hyundai and Kia launch free EV inspections in Korea after a fire sparks concerns
+
+date: 2024-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Hyundai-Kia-EV-inspections-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>South Korea’s largest automakers, <a href="https://electrek.co/guides/hyundai/">Hyundai</a> and Kia, launched a free EV inspection service after a fire sparked concerns in the region. To ease anxiety, EV drivers can visit a Hyundai or Kia service center to get a free inspection.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,kia" data-layer-viewtype="unknown" data-post-id="375667" href="https://electrek.co/2024/08/13/hyundai-kia-launch-free-ev-inspections-after-fire-korea/#more-375667" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/13/hyundai-kia-launch-free-ev-inspections-after-fire-korea/>
+
+---
+
+## Zeekr Claims New LFP Battery Is The Fastest Charging In The World
+
+date: 2024-08-13, from: Inside EVs News
+
+The brand claims the battery can zip from 10-80% in as little as ten-and-a-half minutes.  
+
+<https://insideevs.com/news/730049/zeekr-fastest-battery-charging-world/>
+
+---
+
+## Lectric XPeak off-road e-bike gets 110-mile range at $1,399, Razor Rambler 20 e-bike at new $750 low, Worx 20V 710 PSI pressure washer, more
+
+date: 2024-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/lectric-xpeak-header-image.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Leading today’s Green Deals is the <a href="https://9to5toys.com/2024/08/13/lectrics-back-to-school-sale-shifts-to-higher-gear-with-up-to-727-off-e-bike-bundles-from-799-plus-40-off-accessories/">Back to School sale from Lectric</a>, but this time kicked into its highest gear, with the company offering <strong>up to $727 off</strong> e-bike bundles and <strong>40% off </strong>accessories – with its <a href="https://9to5toys.com/2024/08/13/lectrics-back-to-school-sale-shifts-to-higher-gear-with-up-to-727-off-e-bike-bundles-from-799-plus-40-off-accessories/">XPeak Off-Road e-bikes starting from $1,399</a> and getting $727 in free gear, including an extra battery for double the travel range. It is joined by <a href="https://9to5toys.com/2024/08/13/razor-rambler-20-e-bike-gets-first-discount-in-months-to-new-750-low-reg-1000/">Razor’s Rambler 20 e-bike</a> dropping down to a <a href="https://9to5toys.com/2024/08/13/razor-rambler-20-e-bike-gets-first-discount-in-months-to-new-750-low-reg-1000/">new $750 low</a>, as well as the <a href="https://9to5toys.com/2024/08/13/worxs-20v-710-psi-portable-pressure-washer-cleans-patios-cars-screens-more-at-new-164-low-reg-210/">Worx 20V Nitro Hydroshot Plus 710 PSI Portable Electric Pressure Washer at a new $164 low</a>. Plus, all the other hangover Green Deals that are still alive and well.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="375642" href="https://electrek.co/2024/08/13/lectric-xpeak-off-road-e-bike-razor-rambler-20-e-bike-worx-pressure-washer-more/#more-375642" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/13/lectric-xpeak-off-road-e-bike-razor-rambler-20-e-bike-worx-pressure-washer-more/>
+
+---
+
+## What do you think of LA’s “no-car Olympics” goal?
+
+date: 2024-08-13, from: Electrek Feed
+
+ 
+
+<https://electrek.co/poll-post/what-do-you-think-of-las-no-car-olympics-goal/>
+
+---
+
+## Genesis preps for first GV90 models, its new larger ultra-luxury electric SUV
+
+date: 2024-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Genesis-first-GV90.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The first <a href="https://electrek.co/guides/genesis/">Genesis</a> GV90 prototype models will be built in October as the luxury brand preps for mass production. The GV90 is Genesis’ new flagship electric SUV set to challenge ultra-luxury automakers like Bentley and Rolls Royce.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis" data-layer-viewtype="unknown" data-post-id="375632" href="https://electrek.co/2024/08/13/genesis-preps-first-gv90-larger-luxury-electric-suv/#more-375632" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/13/genesis-preps-first-gv90-larger-luxury-electric-suv/>
+
+---
+
+## Tesla (TSLA) is doing well in China, but sales are slumping in Europe
+
+date: 2024-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/12/Tesla-all-casrs-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is doing well in China, with a big boost in deliveries last week. However, the automaker has yet to recover from its sales slumping in Europe.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="375571" href="https://electrek.co/2024/08/13/tesla-doing-well-china-but-sales-slumping-europe/#more-375571" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/13/tesla-doing-well-china-but-sales-slumping-europe/>
+
+---
+
+## Volkswagen May Push Back Flagship Next-Gen 'Trinity' EV To Make Room For Golf EV
+
+date: 2024-08-13, from: Inside EVs News
+
+Plus, Tesla sips up subsidies despite CEO's opinions and automakers disclose battery manufacturers following South Korean EV fire. 
+
+<https://insideevs.com/news/729924/vw-trinity-golf-ev-delay/>
+
+---
+
+## Mazda confirms the new EZ-6 is its first global electric sedan: Will it land in the US?
+
+date: 2024-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Mazda-first-EV-sedan.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/mazda/">Mazda</a> confirmed its new EZ-6 launching globally. The Mazda EZ-6 is the brand’s first global electric sedan. After the first model rolled off the assembly line last month, will Mazda’s new EV arrive in the US? Here’s what to expect.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mazda" data-layer-viewtype="unknown" data-post-id="375609" href="https://electrek.co/2024/08/13/mazda-confirms-first-global-ev-sedan-us/#more-375609" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/13/mazda-confirms-first-global-ev-sedan-us/>
 
 ---
 
@@ -95,7 +487,7 @@ Under the new Illinois law, battery sellers and distributors must develop batter
 
 date: 2024-08-13, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Elon-Musk-wrecking-ball.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk seems to have forgotten some of the basics of how climate change works, so we’re going to set the record clear about it now.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Elon-Musk-wrecking-ball.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk seems to have forgotten some of the basics of how climate change works, so we’re going to set the record straight about it now.</p>
 
 
 
@@ -337,11 +729,11 @@ date: 2024-08-12, from: Electrek Feed
 
 ---
 
-## Lucid Gravity May Feature Both CCS And NACS Charging Ports
+## Lucid Gravity May Feature Both CCS And NACS Charging Ports (Updadte: Nope)
 
 date: 2024-08-12, from: Inside EVs News
 
-Can't decide between CCS and a Tesla-style NACS charging port? Lucid may have the solution: Choose both.  
+Lucid's prototype sports both Tesla NACs and CCS charging ports. But the dual ports won't make production. 
 
 <https://insideevs.com/news/729893/lucid-gravity-two-charger-ports/>
 

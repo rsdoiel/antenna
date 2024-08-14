@@ -1,11 +1,131 @@
 ---
 title: writing 2024.33
-updated: 2024-08-13 08:37:55
+updated: 2024-08-14 08:42:59
 ---
 
 # writing 2024.33
 
-(date: 2024-08-13 08:37:55)
+(date: 2024-08-14 08:42:59)
+
+---
+
+## Adrienne Martini Reviews The Knife and the Serpent by Tim Pratt
+
+date: 2024-08-14, from: Locus Magazine
+
+<p><strong>The Knife and the Serpent</strong>, Tim Pratt (Angry Robot 978-1-91520-280-2, $18.99, 400pp, tp) June 2024.</p>
+<p>Tim Pratt’s latest novel, <strong>The Knife and the Serpent</strong>, has all of the hallmarks of a Tim Pratt story: The underlying voice is smart and engaging even when a character (or two) is neither; the plot is brisk but not so brisk that it is rushed; and the stakes are high, but not  <a href="https://locusmag.com/2024/08/adrienne-martini-reviews-the-knife-and-the-serpent-by-tim-pratt/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/adrienne-martini-reviews-the-knife-and-the-serpent-by-tim-pratt/>
+
+---
+
+## Why Are Science-Fiction and Fantasy Novels So Popular?
+
+date: 2024-08-14, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p>Science fiction goes back centuries, but started becoming popular in the 19th century with the rise of technology following the Industrial Revolution. However, the idea&nbsp;of science fiction as a genre began in the pulp era, with Hugo Gernsback&rsquo;s <a href="https://en.wikipedia.org/wiki/Amazing_Stories" target="_blank">Amazing Stories</a>, the first magazine to focus on science fiction. More pulps followed, such as <a href="https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact" target="_blank">Analog Science Fiction and Fact</a> and <a href="https://en.wikipedia.org/wiki/Weird_Tales" target="_blank">Weird Tales</a>, the latter also featuring fantasy and horror. Popular on the radio, with serials such as Buck Rogers and Flash Gordon airing in the 1930s, the crowning moment for science fiction was Orson Welles&rsquo; infamous&nbsp;<em>War of the Worlds</em>, broadcast in 1938.</p>
+
+<p>Fantasy as a genre goes back as far as storytelling, to early mythology. Some key eras of fantasy include the Arthurian legends of the Middle Ages and early 19th-century Gothic novels, with writers such as&nbsp;Edgar Allan Poe producing&nbsp;fiction that highlighted the supernatural later that century. Fantasy grew in popularity in the early 20th century and became a serious genre when J.R.R. Tolkien published <em>The Hobbit</em> (1937) and <em>The Lord of the Rings</em> (1950), which are the templates for heroic fantasy, and which brought fantasy&nbsp;into the mainstream. These works became particularly popular around the world in the 1960s and led to the rise of the sword and sorcery genre of fantastic fiction.</p>
+
+<p>Today, science fiction and fantasy are everywhere. From fiction to film and television, from comics to video games, the fantasy and science fiction genre is one of the staples of modern storytelling. And <a href="https://www.thebookseller.com/features/science-fiction--fantasy-genre-on-course-for-a-record-year" target="_blank">sales are growing regularly</a>. While the two are separate genres, there can be a lot of overlap, and are generally grouped together in publishing.</p>
+
+The escapism of fantasy and science fiction
+
+<p>No genre offers more escapism than fantasy and science fiction. Traveling through strange lands or warping through space to visit new planets; encountering mythical creatures and people with extraordinary magical powers; these are the thrills of fantasy and science fiction novels. While this sort of fiction is influenced by other genres - adventure, mystery, westerns, etc. - the importance of setting is what sets science fiction and fantasy apart. Whether it&rsquo;s the magical realms of <em>Harry Potter</em> or the otherworldly landscapes of <em>Star Wars</em>, these stories take us far beyond the world we know and give our imaginations free rein.</p>
+
+<p>Science fiction and fantasy often examine complex and thought-provoking themes. They can be an engaging way to explore societal issues, philosophical questions, and futuristic possibilities. Kim Stanley Robinson&rsquo;s Mars Trilogy - <em>Red Mars</em>, <em>Green Mars</em>, and <em>Blue Mars</em> - combine hard science with an exploration of how colonists survive and interact in a new form of society. And George Orwell&rsquo;s <em>1984</em> is the classic examination of how a society can control its citizens, and what happens when citizens try to rebel.</p>
+
+Science fiction and fantasy are perfect for film and TV
+
+<p>Science fiction and fantasy have always been popular on film and on TV, and in the past couple of decades, with the improvement of CGI (computer-generated imaging), this sort of story works perfectly on the screen. Whether it be planets with unique biomes, mythical creatures, or advanced technology, these genres are highly visual.</p>
+
+<p>Science fiction and fantasy novels are often written in trilogies, and there are many long series, such as Robert Jordan&rsquo;s 15-volume <em>Wheel of Time</em>, George R.R. Martin&rsquo;s <em>Game of Thrones</em>, the <em>Expanse</em> novels by James S. A. Corey, and classic science fiction series such as Frank Herbert&rsquo;s <em>Dune</em> and Isaac Asimov&rsquo;s <em>Foundation</em>. It&rsquo;s no surprise that all of these have been made into TV series or movies, along with many others.</p>
+
+Fantasy and science fiction have a plethora of sub-genres
+
+<p>Back in the golden age of science fiction, most stories involved space exploration. This expanded as authors discovered how versatile science fiction could be, exploring new or imagined technologies, and adding such sub-genres as post-apocalyptic fiction, military science fiction, and later steampunk and cyberpunk. Science fiction became a broad church, with some speculative fiction, such as that of J.G. Ballard, dealing with the near future instead of the distant future.</p>
+
+<p>The same is true of fantasy. From high fantasy, such as <em>The Lord of the Rings</em>, to sword and sorcery, with authors like Robert E. Howard&rsquo;s <em>Conan</em> series, fantasy branched out into many sub-genres. There is now urban fantasy, dark fantasy, historical fantasy, and even magic realism as a sub-genre of literary fiction: novels such as <em>One Hundred Years of Solitude</em> by Gabriel Garc&iacute;a M&aacute;rquez feature fantastic elements.</p>
+
+<p>These two genres cover such a wide range of sub-genres that readers have an embarrassment of riches when looking for new authors and novels. These are two of the most vibrant genres in popular fiction, and there is a lively cross-pollination between the two.</p>
+
+<p>Literary fiction today sometimes flirts with fantasy and science fiction. Novels like <em>The Buried Giant</em> by Kazuo Ishiguro, <em>The Road</em> by Cormac McCarthy, <em>Station Eleven</em> by Emily St. John Mandel, and <em>Piranesi</em> by Susanna Clarke blend these genres with literary fiction, providing a fertile ground to allow the ideas that make up science fiction and fantasy to infiltrate mainstream fiction.</p>
+
+<p>As vehicles for escapism, allowing readers to explore different worlds and civilizations, science fiction and fantasy have become staples of literature. With their presence in film and TV, these genres expand their readership and offer a combination of literature and audio-visual entertainment that goes beyond the confines of most fiction. The popularity of these genres is increasing as the imagination of authors takes new leaps into the unknown.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+ 
+
+<https://www.literatureandlatte.com/blog/why-are-science-fiction-and-fantasy-novels-are-so-popular>
+
+---
+
+## The French Revolution brings you... The American Revolution!
+
+date: 2024-08-13, from: Margaret Atwoods Substack
+
+Oh, wait a minute: shouldn't that be the other way around? 
+
+<https://margaretatwood.substack.com/p/the-french-revolution-brings-you>
+
+---
+
+## 2024 Indiana Authors Award Shortlist
+
+date: 2024-08-13, from: Locus Magazine
+
+<p><strong></strong>The Indiana Author Awards have announced the 2024 shortlist. The awards &#8220;celebrate the best books by Indiana authors written in eight different categories and published during the previous two years.&#8221; Works of genre interest follow.</p>
+<p><strong>Fiction</strong></p>
+<ul>
+<li><strong>Booth,</strong> Karen Joy Fowler (Putnam)</li>
+<li><strong>The Rabbit Hutch</strong>, Tess Gunty (Knopf)</li>
+</ul>
+<p><strong>Genre</strong></p>
+<ul>
+<li><strong>Sweep of Stars</strong>, Maurice Broaddus (Tor)</li>
+<li><strong>The Plastic Priest</strong>, Nicole Cushing (Cemetery Dance)</li>
+<li><strong>Modus</strong> <strong>Perfectus</strong>, Elisabeth Hegmann (Paper </li></ul> <a href="https://locusmag.com/2024/08/2024-indiana-authors-award-shortlist/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/2024-indiana-authors-award-shortlist/>
+
+---
+
+## Barack Obama’s 2024 Summer Reading List
+
+date: 2024-08-13, from: Locus Magazine
+
+<p>Barack Obama announced his 2024 Summer Reading List, saying, &#8220;I’ve read some great books over the last few months and wanted to share some of my favorites.&#8221; Works and authors of genre interest include <strong>The Ministry of Time</strong> by Kaliane Bradley (Avid Reader), <strong>James</strong> by Percival Everett (Doubleday), <strong>The God of the Woods</strong> by Liz Moore (Riverhead), and <strong>Beautiful Days</strong> by Zach Williams (Doubleday).</p>
+<div class="mynomorebulletlist">
+<p>For the complete list, see his </p></div> <a href="https://locusmag.com/2024/08/barack-obamas-2024-summer-reading-list/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/barack-obamas-2024-summer-reading-list/>
+
+---
+
+## How to Watch Bad Movies
+
+date: 2024-08-13, from: John August blog
+
+John and Craig stand waist-deep in rotten tomatoes and ask, what can we learn from bad movies? Resisting the urge to walk out, they explore ways to evaluate a movie’s problems, interrogate your taste, and turn a real stinker into an opportunity to grow as a writer. We also follow up on Lifetime movies, colored [&#8230;]
+The post <a href="https://johnaugust.com/2024/how-to-watch-bad-movies">How to Watch Bad Movies</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/how-to-watch-bad-movies>
 
 ---
 

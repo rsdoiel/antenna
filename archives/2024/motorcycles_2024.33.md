@@ -1,11 +1,161 @@
 ---
 title: motorcycles 2024.33
-updated: 2024-08-13 08:37:58
+updated: 2024-08-14 08:43:02
 ---
 
 # motorcycles 2024.33
 
-(date: 2024-08-13 08:37:58)
+(date: 2024-08-14 08:43:02)
+
+---
+
+## Planning To Ride An ATV? Check Out These Free Online Courses First
+
+date: 2024-08-14, from: Ride Apart, Electric Motorcycle News
+
+The ATV Safety Institute makes it easy for anyone to get a hang of the basics.  
+
+<https://www.rideapart.com/news/729926/atv-safety-institute-free-online-courses/>
+
+---
+
+## This 1930s Armored Harley-Davidson Has a Sidecar, and a Machine Gun
+
+date: 2024-08-14, from: Ride Apart, Electric Motorcycle News
+
+Yes, Nazis were involved, too.  
+
+<https://www.rideapart.com/news/730054/harley-davidson-landsverk-210-armored-motorcycle/>
+
+---
+
+## Cash for Clunkers, But For Motorcycles? Singapore Offers Cash To Retire Old Bikes
+
+date: 2024-08-14, from: Ride Apart, Electric Motorcycle News
+
+All bikes registered before July 1, 2003 are eligible for the program.  
+
+<https://www.rideapart.com/news/729927/singapore-encourages-retirement-old-bikes/>
+
+---
+
+## Want To Ride Quads and Dirt Bikes on Your Farm? Not So Fast, Says This Guy
+
+date: 2024-08-14, from: Ride Apart, Electric Motorcycle News
+
+NIMBY neighbors are the best, aren't they? 
+
+<https://www.rideapart.com/news/730062/nimby-noise-complaint-farm-quads/>
+
+---
+
+## Ewan McGregor and Charley Boorman Are Back Riding Bikes Around the World, Thankfully
+
+date: 2024-08-14, from: Ride Apart, Electric Motorcycle News
+
+Leave it to Ewan and Charley to plot a 10,000-mile route between Scotland and London. 
+
+<https://www.rideapart.com/news/730064/new-long-way-series/>
+
+---
+
+## Jerk Hits Endangered Horse With UTV, Flees The Scene
+
+date: 2024-08-14, from: Ride Apart, Electric Motorcycle News
+
+The 10-year-old stallion's injuries were so bad, he had to be euthanized after the crash. 
+
+<https://www.rideapart.com/news/730047/endangered-banker-horse-killed-utv/>
+
+---
+
+## You Won't Believe This, But a Single Speed Camera Made More Than $1M in 3 Years
+
+date: 2024-08-14, from: Ride Apart, Electric Motorcycle News
+
+These speed cams just might be out to get you and all your money.  
+
+<https://www.rideapart.com/news/729928/speed-camera-money-making-scheme-italy/>
+
+---
+
+## Ducati Won't Make a Small Displacement Motorcycle, That's Stupid
+
+date: 2024-08-14, from: Ride Apart, Electric Motorcycle News
+
+Ducati could pull a Porsche.  
+
+<https://www.rideapart.com/news/730042/ducati-small-displacement-motorcycle/>
+
+---
+
+## What Is the Wheelie Limit?
+
+date: 2024-08-14, from: Cycle World News
+
+Wheelies are great fun, but they kill acceleration and lap times. How can wheelies be countered? Kevin Cameron explains. 
+
+<https://www.cycleworld.com/blogs/ask-kevin/motorcycle-wheelie-limit-explained/>
+
+---
+
+## The Slow Lane: Ring. Ring. Hello, Pot? Yeah, It’s Pot. Hey, This Is Kettle Calling.
+
+date: 2024-08-14, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor So, just like nearly every other NASCAR fan or media member, I saw what happened Sunday night and after watching the replay, I posted on X&#8230;  
+
+<https://kickinthetires.net/nascar/the-slow-lane-ring-ring-hello-pot-yeah-its-pot-hey-this-is-kettle-calling/>
+
+---
+
+## Triumph Tigers Take 1st and 2nd at the Inaugural AFT AdventureTrackers Race
+
+date: 2024-08-13, from: Cycle World News
+
+The very first Sturgis Rally, known as the Black Hills Classic, was held on August 14, 1938 with a race of 9 participants and a small audience. Fast forward to August 11th, 2024. 
+
+<https://www.cycleworld.com/the-wire/triumph-tigers-take-1st-and-2nd-at-inaugural-aft-adventuretrackers-race/>
+
+---
+
+## Royal Enfield Electric Launching in 2025
+
+date: 2024-08-13, from: Cycle World News
+
+Royal Enfield has been working on multiple EV projects for years, and has now confirmed that at least one of those projects will come to market in 2025. 
+
+<https://www.cycleworld.com/motorcycle-news/royal-enfield-electric-launching-2025/>
+
+---
+
+## How Much Power Does the 2024 Yamaha YZF-R7 Make?
+
+date: 2024-08-13, from: Cycle World News
+
+The 2024 Yamaha YZF-R7 gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower. 
+
+<https://www.cycleworld.com/bikes/yamaha-yzf-r7-dyno-test-2024/>
+
+---
+
+## Keeping Heat Out of the Cylinder Head
+
+date: 2024-08-13, from: Cycle World News
+
+You’d think that the combustion of fuel and air under compression contacting the cylinder heat is the reason for heat in an engine, turns out there’s more to it. 
+
+<https://www.cycleworld.com/blogs/ask-kevin/motorcycle-cylinder-head-heat-explained/>
+
+---
+
+## An Overflow Of Road Racing Talent Is Paving A New Path To NASCAR
+
+date: 2024-08-13, from: Kickin the Tires blog
+
+By Noah Poser, Guest Writer In the past, it wasn’t uncommon for racers to come from other series and try their hand at NASCAR. Whether it was Juan Pablo Montoya,&#8230;  
+
+<https://kickinthetires.net/nascar/an-overflow-of-road-racing-talent-is-paving-a-new-path-to-nascar/>
 
 ---
 

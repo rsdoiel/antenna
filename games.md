@@ -1,11 +1,91 @@
 ---
 title: games 2024.33
-updated: 2024-08-13 08:37:55
+updated: 2024-08-14 08:43:00
 ---
 
 # games 2024.33
 
-(date: 2024-08-13 08:37:55)
+(date: 2024-08-14 08:43:00)
+
+---
+
+## Celebrate Neuromancer’s 40th anniversary with this stunning new collector’s edition
+
+date: 2024-08-14, updated: 2024-08-14, from: Polygon Website
+
+William Gibson’s 1984 novel Neuromancer is a foundational work that has defined the cyberpunk genre and shaped science fiction as we know it. Now, 40 years later, The Folio Society is releasing the ultimate Neuromancer collector’s edition in honor of this ruby anniversary. It is very likely the most prestigious version of the book to [&#8230;] 
+
+<https://www.polygon.com/deals/439776/neuromancer-collectors-edition-40th-anniversary>
+
+---
+
+## Middle-earth goes to war in a new Lord of the Rings: Rings of Power trailer
+
+date: 2024-08-14, updated: 2024-08-14, from: Polygon Website
+
+Amazon’s latest trailer for the second season of The Lord of the Rings: The Rings of Power is all about war: Specifically, big battle scenes and tense conflicts — almost as if the show wants you to know that season 1 was just a preamble. The footage touches on all the key players: the elves of [&#8230;] 
+
+<https://www.polygon.com/lotr-rings-of-power/440087/rings-of-power-season-2-trailer>
+
+---
+
+## This Dead by Daylight spinoff fits the successful Supermassive formula
+
+date: 2024-08-14, updated: 2024-08-14, from: Polygon Website
+
+You may not realize it, thanks to all the crossovers with pop culture icons like Lara Croft, Nicolas Cage, Dracula, Simon Belmont, and even Five Nights at Freddy&#8217;s, but asymmetrical 4v1 horror game Dead by Daylight has a ton of original lore. Developer Behaviour Interactive has taken swings at expanding on these stories, but the [&#8230;] 
+
+<https://www.polygon.com/pc/24218730/dead-by-daylight-supermassive-casting-frank-stone-preview>
+
+---
+
+## Apple to add 30% fee on all Patreon subscriptions made through iOS
+
+date: 2024-08-13, updated: 2024-08-13, from: Polygon Website
+
+Creators on Patreon are alarmed and outraged over a new policy from Apple that would subject all Patreon memberships sold on iOS to Apple’s 30% commission. In a post on Monday, Patreon explained the new policy, which will go into effect on Nov. 4. The blog post says that Patreon must comply with this new [&#8230;] 
+
+<https://www.polygon.com/news/439878/apple-patreon-30-percent-ios-fee-creators>
+
+---
+
+## Elite Dangerous added only its second new starship in five years
+
+date: 2024-08-13, updated: 2024-08-14, from: Polygon Website
+
+Elite Dangerous, the spacefaring game from Frontier Developments, has had quite a few updates this year. The latest adds a new starship called the Lakon Type-8 to the roster, only the second to be added to the game in the last five years. I recently took it for a quick test drive, and I think [&#8230;] 
+
+<https://www.polygon.com/gaming/439987/elite-dangerous-added-only-its-second-new-starship-in-five-years>
+
+---
+
+## Deborah Ann Woll gives the perfect D&#038;D pitch on Jon Bernthal’s podcast
+
+date: 2024-08-13, updated: 2024-08-13, from: Polygon Website
+
+Learning how to play Dungeons &#38; Dragons can be a tough task, even as each edition helps simplify and streamline the rules. Doing it without a friend can be a tough feat, what with all the origins, abilities, and, well, feats to choose from. If only we could all have someone like Deborah Ann Woll [&#8230;] 
+
+<https://www.polygon.com/culture/439961/deborah-ann-woll-dungeons-dragons-jon-bernthal-explainer>
+
+---
+
+## You need just one button in this bullet hell gem
+
+date: 2024-08-13, updated: 2024-08-13, from: Polygon Website
+
+One Btn Bosses is true to its name: You need only one button to take on its chaotic, bullet-hell bosses.&#160; Released Aug. 6 by developer Midnight Munchies, One Btn Bosses looks simple: On a 2D plane that’s mostly shapes and lines, you control a small spaceship (a tiny little dot, essentially, à la Asteroid) that [&#8230;] 
+
+<https://www.polygon.com/review/24218921/one-btn-bosses-review>
+
+---
+
+## Astarion’s Thirst cards revealed for MTG’s 50th Anniversary D&#038;D Secret Lair
+
+date: 2024-08-13, updated: 2024-08-14, from: Polygon Website
+
+Wizards of the Coast has revealed the five cards included in the Astarion’s Thirst Secret Lair, arriving on Aug. 27 alongside four other Dungeons &#38; Dragons-themed Secret Lair drops as part of the 50th anniversary celebration of the legendary TTRPG. The rest of the cards featured in the Secret Lair drops are still unknown, but [&#8230;] 
+
+<https://www.polygon.com/mtg-magic-the-gathering/24218600/dungeons-and-dragons-astarion-secret-lair-where-to-buy>
 
 ---
 
@@ -13,7 +93,7 @@ updated: 2024-08-13 08:37:55
 
 date: 2024-08-13, updated: 2024-08-13, from: Polygon Website
 
-Even as Resident Evil has risen from the dead, Capcom&#8217;s other zombie franchise, Dead Rising, has been in a state of decay since 2016. But a new version of the original Dead Rising promises to breathe new life into the series&#160;&#8212;&#160;and might indicate that Capcom is ready to take its sillier zombie brand seriously again. [&#8230;] 
+Even as Resident Evil has risen from the dead, Capcom’s other zombie franchise, Dead Rising, has been in a state of decay since 2016. But a new version of the original Dead Rising promises to breathe new life into the series&#160;—&#160;and might indicate that Capcom is ready to take its sillier zombie brand seriously again. [&#8230;] 
 
 <https://www.polygon.com/impressions/24218980/dead-rising-deluxe-remaster-preview-impressions>
 

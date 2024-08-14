@@ -1,11 +1,133 @@
 ---
 title: central coast 2024.33
-updated: 2024-08-13 08:37:53
+updated: 2024-08-14 08:42:57
 ---
 
 # central coast 2024.33
 
-(date: 2024-08-13 08:37:53)
+(date: 2024-08-14 08:42:57)
+
+---
+
+## Grouse Mountain Tram
+
+date: 2024-08-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Chris-Cartwright.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Grouse Mountain Tram in Vancouver, British Columbia." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Chris-Cartwright.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Chris-Cartwright.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Chris-Cartwright.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Chris-Cartwright.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Chris-Cartwright.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Chris-Cartwright.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Chris-Cartwright.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Chris-Cartwright.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Chris-Cartwright.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Chris-Cartwright.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Chris-Cartwright.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Chris-Cartwright.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080424-POD-Chris-Cartwright.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/grouse-mountain-tram/">Grouse Mountain Tram</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/grouse-mountain-tram/>
+
+---
+
+## Prep Girls Volleyball Roundup: Bishop Diego, San Marcos Earn Wins in Season Openers
+
+date: 2024-08-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Bishop Diego girls volleyball kicked off their season with a four-set win over Louisville High on the road on Tuesday, 25-18, 23-25, 25-21, 25-20. It was a hard-fought victory for [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-volleyball-roundup-bishop-diego-san-marcos-earn-wins-in-season-openers/">Prep Girls Volleyball Roundup: Bishop Diego, San Marcos Earn Wins in Season Openers</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-volleyball-roundup-bishop-diego-san-marcos-earn-wins-in-season-openers/>
+
+---
+
+## Santa Barbara Pitches Design Standards to Balance State Housing Demands With Community’s Charm
+
+date: 2024-08-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="755" height="502" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-Design-Standards-Downtown-Core-3-JM.jpg?fit=755%2C502&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara is developing Objective Design and Development Standards. This is a rendering of design for the city&#039;s downtown core." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-Design-Standards-Downtown-Core-3-JM.jpg?w=755&amp;ssl=1 755w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-Design-Standards-Downtown-Core-3-JM.jpg?resize=300%2C199&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-Design-Standards-Downtown-Core-3-JM.jpg?resize=400%2C266&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-Design-Standards-Downtown-Core-3-JM.jpg?resize=706%2C469&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-Design-Standards-Downtown-Core-3-JM.jpg?fit=755%2C502&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It&#8217;s a start. The city is developing Objective Design and Development Standards to bring developers more certainty in the process, while also protecting Santa Barbara&#8217;s quality of life and character. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-pitches-design-standards-to-balance-state-housing-demands-with-communitys-charm/">Santa Barbara Pitches Design Standards to Balance State Housing Demands With Community&#8217;s Charm</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-pitches-design-standards-to-balance-state-housing-demands-with-communitys-charm/>
+
+---
+
+## Santa Maria-Bonita Hosts Staff Kickoff Picnic for New School Year
+
+date: 2024-08-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-SM-Bonita-Kickoff2c-js.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Carla Lara from Jimenez Elementary School reacts as she takes her turn at Jenga while fellow fifth-grader teacher, Ahtziri Rosas waches at the Santa Maria Fairpark on Tuesday. A kickoff event for Santa Maria-Bonita School District staff included games, lunch and more." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-SM-Bonita-Kickoff2c-js.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-SM-Bonita-Kickoff2c-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-SM-Bonita-Kickoff2c-js.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-SM-Bonita-Kickoff2c-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-SM-Bonita-Kickoff2c-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-SM-Bonita-Kickoff2c-js.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-SM-Bonita-Kickoff2c-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-SM-Bonita-Kickoff2c-js.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-SM-Bonita-Kickoff2c-js.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-SM-Bonita-Kickoff2c-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-SM-Bonita-Kickoff2c-js.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081324-SM-Bonita-Kickoff2c-js.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Teachers from Jimenez Elementary School played Jenga while staff from Sanchez Elementary posed for a selfie with their superintendent Tuesday in a final bash celebrating the end of&#160;summer and the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-bonita-hosts-staff-kickoff-picnic-for-new-school-year/">Santa Maria-Bonita Hosts Staff Kickoff Picnic for New School Year</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-maria-bonita-hosts-staff-kickoff-picnic-for-new-school-year/>
+
+---
+
+## Annual MTD Bus Service Changes Start Monday, Aug. 19
+
+date: 2024-08-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara MTD makes service changes to local bus service every year in mid-August. This year’s changes will take effect the morning of Monday, Aug. 19. Other changes will phase [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/annual-mtd-bus-service-changes-start-monday-aug-19/">Annual MTD Bus Service Changes Start Monday, Aug. 19</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/annual-mtd-bus-service-changes-start-monday-aug-19/>
+
+---
+
+## Local Author Maressa Voss Discusses Novel ‘When Shadows Grow Tall’
+
+date: 2024-08-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Chaucer&#8217;s Books will host local author Maressa Voss for an in-store book talk and signing of her debut novel “When Shadows Grow Tall,” 6 p.m. Thursday, Aug. 29. “When Shadows [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/local-author-maressa-voss-discusses-novel-when-shadows-grow-tall/">Local Author Maressa Voss Discusses Novel ‘When Shadows Grow Tall’</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/local-author-maressa-voss-discusses-novel-when-shadows-grow-tall/>
+
+---
+
+## A Pediatrician’s Top 13 Tips for Transitioning Kids Back to School
+
+date: 2024-08-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Less attention to schedules, homework and bedtimes can often make summer an enjoyable break from the regular routine. Getting children and teens back into the groove as the school year [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/a-pediatricians-top-13-tips-for-transitioning-kids-back-to-school/">A Pediatrician&#8217;s Top 13 Tips for Transitioning Kids Back to School</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/a-pediatricians-top-13-tips-for-transitioning-kids-back-to-school/>
+
+---
+
+## Share Your Thoughts on Santa Barbara Unified’s Cell Phone Policy for High Schools
+
+date: 2024-08-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Noozhawk is looking to talk to students, parents and teachers about a new cell phone policy at San Marcos High School, Dos Pueblos High School, and Santa Barbara High School. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/share-your-thoughts-on-santa-barbara-unifieds-cell-phone-policy-for-high-schools/">Share Your Thoughts on Santa Barbara Unified&#8217;s Cell Phone Policy for High Schools</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/share-your-thoughts-on-santa-barbara-unifieds-cell-phone-policy-for-high-schools/>
+
+---
+
+## Holly McCord Duncan: Seniors, Are You Ready for College Applications?
+
+date: 2024-08-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Seniors (class of 2025) applying to college should ideally be working on the following: Research and a criteria list Know more about the school than just a name. What is [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/holly-mccord-duncan-seniors-are-you-ready-for-college-applications/">Holly McCord Duncan: Seniors, Are You Ready for College Applications?</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/holly-mccord-duncan-seniors-are-you-ready-for-college-applications/>
+
+---
+
+## Lompoc Library Summer Reading Program Proved to Be a Best Seller
+
+date: 2024-08-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Lompoc Public Library Summer Reading Challenge: Read, Renew, Repeat rocketed past expectations, logging 364,061 total minutes read, the library has announced. Initially, the library set a goal of 100,000 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lompoc-library-summer-reading-program-proved-to-be-a-best-seller/">Lompoc Library Summer Reading Program Proved to Be a Best Seller</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/lompoc-library-summer-reading-program-proved-to-be-a-best-seller/>
 
 ---
 
