@@ -1,11 +1,57 @@
 ---
 title: writing 2024.33
-updated: 2024-08-14 08:42:59
+updated: 2024-08-15 07:50:03
 ---
 
 # writing 2024.33
 
-(date: 2024-08-14 08:42:59)
+(date: 2024-08-15 07:50:03)
+
+---
+
+## 'Lady in the Lake' Show Creator Alma Har’el Goes Deep into Character
+
+date: 2024-08-14, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/lady-in-the-lake-show-creator-alma-harel-goes-deep-into-character" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Lady%20in%20the%20Lake%20Show%20Creator%20Alma%20Har%E2%80%99el%20Goes%20Deep%20into%20Character.jpg" alt="'Lady in the Lake' Show Creator Alma Har’el Goes Deep into Character" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>At the core of <em>Lady in the Lake</em> is a noir mystery about the death of a young black woman in 1960s Baltimore. But the seven-part AppleTV+ show is so much more than a straightforward whodunit. Inspired by the 2019 book of the same name by Laura Lippman, the TV show explores the stories of two seemingly opposite women whose lives (and one’s death) intersect in richly textured ways, first small then large.&nbsp;</p> 
+
+<https://blog.finaldraft.com/lady-in-the-lake-show-creator-alma-harel-goes-deep-into-character>
+
+---
+
+## 🎟️ What job should I beg for?
+
+date: 2024-08-14, from: Interesting, a blog on writing
+
+So you've got a golden ticket. Now what? 
+
+<https://inneresting.substack.com/p/what-job-should-i-beg-for>
+
+---
+
+## M.J. Engh (1933-2024)
+
+date: 2024-08-14, from: Locus Magazine
+
+<p>Author M.J. Engh, 91, died at home July 11, 2024 in Garfield WA.</p>
+<p>Mary Jane Gholson was born January 26, 1933. She attended the University of Chicago, studying history, archaeology, and library science, and worked as an editor in the US and Japan. Upon returning to the US, she worked as a freelance editor and substitute teacher. In 1971 she attended the University of Oklahoma, earning a Master of Library  <a href="https://locusmag.com/2024/08/m-j-engh-1933-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/m-j-engh-1933-2024/>
+
+---
+
+## SLF Receives National Book Foundation Grant
+
+date: 2024-08-14, from: Locus Magazine
+
+<p>The Speculative Literature Foundation (SLF) announced that they have been awarded a $5,000 Capacity-Building Grant from the National Book Foundation.</p>
+<p>The SLF is one of 49 nonprofit literary arts organizations across the United States awarded grants to support projects that build organizational capacity and ensure greater sustainability.</p>
+<p>The Speculative Literature Foundation is a non-profit organization dedicated to promoting literary quality in speculative fiction by encouraging promising new writers, assisting established  <a href="https://locusmag.com/2024/08/slf-receives-national-book-foundation-grant/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/slf-receives-national-book-foundation-grant/>
 
 ---
 

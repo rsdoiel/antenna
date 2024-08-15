@@ -1,15 +1,105 @@
 ---
 title: games 2024.33
-updated: 2024-08-14 08:43:00
+updated: 2024-08-15 07:50:03
 ---
 
 # games 2024.33
 
-(date: 2024-08-14 08:43:00)
+(date: 2024-08-15 07:50:03)
 
 ---
 
-## Celebrate Neuromancer’s 40th anniversary with this stunning new collector’s edition
+## All Along the Watchtower sets a murder mystery in the home of the Justice League
+
+date: 2024-08-15, updated: 2024-08-15, from: Polygon Website
+
+Who do you get to investigate a murder at the most secure superhero stronghold in the world, and when every member of the Justice League is a suspect? The answer is the Question. That is, detective Renee Montoya’s superhero alias, in The Question: All Along the Watchtower #1, a new ongoing series from DC Comics [&#8230;] 
+
+<https://www.polygon.com/comics/439886/justice-league-murder-mystery-comic-all-along-the-watchtower-release>
+
+---
+
+## Elusive Samurai is one of the most jaw-droppingly beautiful anime I&#8217;ve ever seen
+
+date: 2024-08-15, updated: 2024-08-14, from: Polygon Website
+
+Elusive Samurai is a story about a samurai in hiding —&#160;but the series itself is so flashy, I can’t help but marvel at every frame. The new anime from CloverWorks is based on the life of Hōjō Tokiyuki, a real-life historical figure who was heir to Japan’s shogunate in the 1300s. The story follows the [&#8230;] 
+
+<https://www.polygon.com/anime/440403/elusive-samurai-streaming-crunchyroll>
+
+---
+
+## World of Warcraft&#8217;s pre-patch event pits evil knife wife against our wizard dad
+
+date: 2024-08-14, updated: 2024-08-14, from: Polygon Website
+
+World of Warcraft’s next expansion, The War Within, is arriving soon, and Blizzard has been setting the stage for the first act of the three-expansion Worldsoul Saga as the current chapter, Dragonflight, concludes. On Wednesday, Blizzard announced it would be beta testing a new narrative experience on the public test realm, and shared a short [&#8230;] 
+
+<https://www.polygon.com/world-of-warcraft/440455/world-of-warcraft-khadgar-xelatath-dalaran-teaser-animation>
+
+---
+
+## Alien: Romulus is an imperfect organism spliced together from the franchise’s best
+
+date: 2024-08-14, updated: 2024-08-14, from: Polygon Website
+
+Ask five different Alien fans what their favorite movies from the franchise are and why they love them, and you’ll likely get five different answers. Still, it all but goes without saying that every subsequent entry in the series gets measured by its level of similarity to one of two films: Ridley Scott’s 1979 original [&#8230;] 
+
+<https://www.polygon.com/review/440146/alien-romulus-is-an-imperfect-organism-spliced-together-from-the-franchises-best>
+
+---
+
+## Marvel’s Old Wolverine fixation fixed the Hugh Jackman casting complaint
+
+date: 2024-08-14, updated: 2024-08-15, from: Polygon Website
+
+Deadpool &#38; Wolverine co-lead Hugh Jackman is 55 years old, and over the course of his acting career, he’s aged like any normal man who happens to be stunningly handsome and absurdly wealthy. That wouldn’t be a problem if he was playing virtually any other comic book character in existence. But he’s spent nearly 25 [&#8230;] 
+
+<https://www.polygon.com/entertainment/440255/deadpool-wolverine-hugh-jackman-age>
+
+---
+
+## JD Vance’s favorite Magic: The Gathering card was banned for good reason
+
+date: 2024-08-14, updated: 2024-08-14, from: Polygon Website
+
+Last week, Sen. JD Vance (R-OH), who’s currently running for vice president on a ticket with former President Donald J. Trump, confirmed for Semafor that once upon a time ago he played Magic: The Gathering. He also revealed his favorite deck: a fairly powerful construction named “Yawgmoth’s Bargain.” But what Vance didn’t mention — or [&#8230;] 
+
+<https://www.polygon.com/mtg-magic-the-gathering/440149/mtg-jd-vance-yawgmoths-bargain-trump-banned>
+
+---
+
+## In The Crush House, chaos is in the camera
+
+date: 2024-08-14, updated: 2024-08-15, from: Polygon Website
+
+I’m not supposed to speak to the four-person cast of The Crush House, but when they’re asking for favors — late at night, when the cameras are off — it’s hard to say no. One shy cast member of the in-game reality TV show wants to project a persona into the world that’ll surprise people: [&#8230;] 
+
+<https://www.polygon.com/gaming/440045/the-crush-house-review>
+
+---
+
+## The international chess world is having a shocking month
+
+date: 2024-08-14, updated: 2024-08-14, from: Polygon Website
+
+As if 2022’s (totally not true) anal beads cheating scandal wasn’t wild enough, the chess world has now been rocked by several more serious allegations: Two players have been suspended, one for allegedly poisoning her opponent and another for the alleged sexual harassment of female chess players. Russian chess player Amina Abakarova has been temporarily [&#8230;] 
+
+<https://www.polygon.com/gaming/440094/international-chess-scandals-2024>
+
+---
+
+## When does Overwatch 2 season 12 start, and what’s included?
+
+date: 2024-08-14, updated: 2024-08-14, from: Polygon Website
+
+After a comparatively low-key season 11, Overwatch 2’s next season will be a big one. Season 12 will usher in brand-new support hero Juno, two new maps, and the official launch of a new game mode, Clash, to Blizzard’s hero shooter. Overwatch 2 season 12’s overarching theme is inspired by Egyptian gods, with new skins [&#8230;] 
+
+<https://www.polygon.com/overwatch/440047/when-does-overwatch-2-season-12-start-and-whats-included>
+
+---
+
+## Celebrate Neuromancer’s 40th anniversary with this stunning new collector’s edition (update: it’s sold out)
 
 date: 2024-08-14, updated: 2024-08-14, from: Polygon Website
 

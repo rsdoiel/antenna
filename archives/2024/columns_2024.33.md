@@ -1,11 +1,261 @@
 ---
 title: columns 2024.33
-updated: 2024-08-14 08:42:58
+updated: 2024-08-15 07:50:01
 ---
 
 # columns 2024.33
 
-(date: 2024-08-14 08:42:58)
+(date: 2024-08-15 07:50:01)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-15, from: Dave Winer's Scripting News)
+
+Let's stay <a href="https://www.threads.net/@davew/post/C-sVmZCJN63">organized</a> after the election. 
+
+<http://scripting.com/2024/08/15.html#a141834>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-15, from: Dave Winer's Scripting News)
+
+In today's <a href="https://imgs.scripting.com/2024/08/15/atticaKitty.png">installment</a> of the Adventures of Wordle Kitty, the world's cutest and most adorable kitten was sentenced to life at Attica. 
+
+<http://scripting.com/2024/08/15.html#a140432>
+
+---
+
+## 2024-08-14 Web applications
+
+date: 2024-08-15, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-14-web-applications">2024-08-14 Web applications</h1>
+
+<p>For my own peace of mind, I have resolved to no longer think of websites as &ldquo;websites&rdquo;. Instead, there are <em>web documents</em> and <em>web applications</em>. I find it easier to accept to use a browser like Firefox like a virtual computer for web applications. Many of the websites these days are in fact web applications.</p>
+
+<p>There&rsquo;s no point in railing against web applications. I like to write web applications! And I use many of them myself, too.
+Things like <a href="Face_Generator">Face Generator</a>, <a href="Text_Mapper">Text Mapper</a> or <a href="Hex_Describe">Hex Describe</a> are impossible to do as documents. In an emergency, you could have a form that then generates a PDF to download, maybe? But is that really preferable? I don&rsquo;t think so.</p>
+
+<p>And don&rsquo;t get me started on writing native graphical user-interface applications. It takes so much energy to get it right. It gives me a headache. I tried. Take a look at <a href="https://src.alexschroeder.ch/gridmapper-local.git/">Gridmapper with Common Lisp and SDL2</a>, if you want. Compare it with regular <a href="Gridmapper">Gridmapper</a>. Is that really preferable? I don&rsquo;t think so.</p>
+
+<p>And the reverse is also not cool. I wrote a text user interface tool to generate maps, which can then be downloaded as SVG files. Give <a href="Hex_Populate">Hex Populate</a> a try, it works over SSH. Is that really preferable? I don&rsquo;t think so.</p>
+
+<p>I&rsquo;ve tried Gemtext for a long time. I was very much into <a href="Gemini">Gemini</a>. But these days I no longer think it&rsquo;s the answer. It&rsquo;s like a piece of performance art: the doing of it is a statement. People who step into it are confounded, their beliefs challenged. It&rsquo;s good art! It&rsquo;s interesting technology. But it&rsquo;s not a replacement for <em>web applications</em>. It&rsquo;s not even a good format for <em>web documents</em>! I want inline emphasis – bold, italics, code – and accessible tables with captions and cell navigation, and row-spans, and column-spans. I tried writing code that translated Wikipedia tables into ASCII tables to be used as pre-formatted text in Gemtext. It&rsquo;s hard to do well with the sizing of columns, the line wrapping in cells, the limited space available in a terminal, and when you&rsquo;ve solved all of that, it&rsquo;s still hell for people with bad eye-sight or cognitive problems trying to understand what they&rsquo;re seeing. It&rsquo;s terrible. You could of course do away with all tables. But is that really preferable? I don&rsquo;t think so.</p>
+
+<p>And so… there&rsquo;s that bifurcation in the road. For this site, for most of the pages that I think of as <em>web documents</em>, I write (or generate) HTML that doesn&rsquo;t require fonts or scripts. If one uses browsers such as eww, links2, w3m, lynx or dillo, it should just work. I wasn&rsquo;t going to convert the corporate web, anyway.</p>
+
+<p>I still serve my site as Gemini and Gopher. But I do it as a political statement, as a piece of performance art.</p>
+
+<p>At the same time, I swallow my pride and <a href="2018-11-14_Firefox_Setup">setup Firefox</a>.</p>
+
+<div style="text-align: center">⁂</div>
+
+<p>I still wish we would all push for a web that does not require a lot of resources.</p>
+
+<blockquote>
+<p>Nearly all growth in smartphone sales volume since the mid &lsquo;10s occured in the &lsquo;budget&rsquo; and &lsquo;low-end&rsquo; categories. … if portals fail to work well on phones, smartphone-dependent folks are predictably excluded … Framework-based, &ldquo;full-stack&rdquo; development is now the default in Silicon Valley, but should obviously be avoided in universal services. – <a href="https://infrequently.org/2024/08/the-landscape/">Reckoning: Part 1 – The Landscape</a></p>
+</blockquote>
+
+<p><a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Gemini">#Gemini</a></p> 
+
+<https://alexschroeder.ch/view/2024-08-14-web-applications>
+
+---
+
+## Pundits are idiots, part 2,297,748
+
+date: 2024-08-15, from: Dave Winer's Scripting News
+
+<p>The stupidest thing about all the pundits remarking on Kamala's rise in the polls is they are <i>completely missing the story. </i></p>
+<p>Here's the headline.</p>
+<ul>
+<li>"Thank god the Trump nightmare is almost over."</li>
+</ul>
+<p>If you want an illustration, it's the flip side of this New Yorker cover.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/08/15/anythingButThatNewYorkerCover.png"></center>Oh sweet Jesus. Please God, no. Anything but that. Come on.</div></p>
+ 
+
+<http://scripting.com/2024/08/15/132203.html?title=punditsAreIdiotsPart2297748>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-15, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/10/23/judyGarlandAsDorothy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I am addicted to buying domains. Latest <a href="https://kamala.land/">example</a>. Ideally it would be a news site with all the latest videos from the <i>Land of Kamala</i> aka the United States of America. 
+
+<http://scripting.com/2024/08/15.html#a131623>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-15, from: Dave Winer's Scripting News)
+
+So what are we doing <a href="https://www.threads.net/@davew/post/C-sPAfVJ9GD">on Threads</a> and why does Facebook (aka Meta) want to get the best minds of Twitter using their software. I am not a lawyer and I haven't read the user agreement, but that said, I bet it has something to do with building out their AI model so they can compete with OpenAI, Google, Amazon, Apple, etc. 
+
+<http://scripting.com/2024/08/15.html#a125634>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-15, from: Dave Winer's Scripting News)
+
+The best journalism is coming <a href="https://www.threads.net/@kamalahq">from the candidate</a>. I think you could make a pretty good hour-length show on MSNBC with 12 of their posts, five minutes each, one after the other, with a small panel of pundits quickly snarking about what they just saw. Go have a look at <a href="https://www.threads.net/@kamalahq">the feed</a> and see if you agree. The best thing about it is that the writing is totally blogger-style. 
+
+<http://scripting.com/2024/08/15.html#a122518>
+
+---
+
+## How to stop Musk
+
+date: 2024-08-15, from: Robert Reich's blog
+
+Friends, 
+
+<https://robertreich.substack.com/p/time-to-stop-musk>
+
+---
+
+## August 14, 2024
+
+date: 2024-08-15, from: Heather Cox Richardson blog
+
+The July report for consumer prices from the Bureau of Labor Statistics, which came out today, showed that prices rose less than 3% in the previous twelve months. 
+
+<https://heathercoxrichardson.substack.com/p/august-14-2024>
+
+---
+
+## Kamalanomics (2)
+
+date: 2024-08-15, from: Robert Reich's blog
+
+Go Kamala! 
+
+<https://robertreich.substack.com/p/kamalanomics-2>
+
+---
+
+## So the Department of Energy emailed me
+
+date: 2024-08-14, from: Daniel Stenberg Blog
+
+I received an email today. What follows is a slightly edited version (for brevity). From: DOE Attestation &#60;doe.attestation@hq.doe.gov&#62;Subject: [ACTION REQUIRED] U.S. Department of Energy Secure Software Development Attestation Submission RequestOMB Control No. 1670-0052Expires: 03/31/2027Hello Haxx** The following communication contains important DOE Secure Software Development Attestation Submission instructions. Please read this communication in its entirety. **The &#8230; <a href="https://daniel.haxx.se/blog/2024/08/14/so-the-department-of-energy-emailed-me/" class="more-link">Continue reading <span class="screen-reader-text">So the Department of Energy emailed me</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/08/14/so-the-department-of-energy-emailed-me/>
+
+---
+
+##  The Intense Process of Designing Political Campaign Logos 
+
+date: 2024-08-14, updated: 2024-08-14, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/the-intense-process-of-designing-political-campaign-logos>
+
+---
+
+##  Omer Bartov: &#8220;As a former IDF soldier and historian of genocide, I... 
+
+date: 2024-08-14, updated: 2024-08-14, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045123-omer-bartov-as-a-former>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-14, from: Dave Winer's Scripting News)
+
+I asked ChatGPT to put the Statue of Liberty on a $100 bill. 
+
+<http://scripting.com/2024/08/14.html#a203158>
+
+---
+
+##  Time Lapse Drone Video &#8220;Climbing&#8221; to the Top of Mt. Everest 
+
+date: 2024-08-14, updated: 2024-08-14, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/time-lapse-drone-video-climbing-to-the-top-of-mt-everest>
+
+---
+
+##  Is Ben scrolling TikTok right now? &#8220;This site reveals, in real-time, whether... 
+
+date: 2024-08-14, updated: 2024-08-14, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045106-is-ben-scrolling-tiktok-r>
+
+---
+
+## U.S. Considers Breaking Up Google as Antitrust Remedy
+
+date: 2024-08-14, updated: 2024-08-14, from: Daring Fireball
+
+ 
+
+<https://www.nytimes.com/2024/08/13/technology/google-monopoly-antitrust-justice-department.html>
+
+---
+
+## Apple: iOS 18.1 Will Offer API for Third-Party Apps to Offer In-App NFC Transactions Using the Secure Element
+
+date: 2024-08-14, updated: 2024-08-14, from: Daring Fireball
+
+ 
+
+<https://www.apple.com/newsroom/2024/08/developers-can-soon-offer-in-app-nfc-transactions-using-the-secure-element/?1723649422>
+
+---
+
+## Upcoming Speaking Engagements
+
+date: 2024-08-14, updated: 2024-08-15, from: Bruce Schneier blog
+
+<p>This is a current list of where and when I am scheduled to speak:</p>
+<ul>
+<li>I&#8217;m speaking at <a href="https://apwg.org/event/ecrime2024/">eCrime 2024</a> in Boston, Massachusetts, USA. The event runs from September 24 through 26, 2024, and my keynote is on the 24th.</li>
+</ul>
+<p>The list is maintained on <a href="https://www.schneier.com/events/">this page</a>.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/08/upcoming-speaking-engagements-39.html>
+
+---
+
+## Texas Sues GM for Collecting Driving Data without Consent
+
+date: 2024-08-14, updated: 2024-08-14, from: Bruce Schneier blog
+
+<p>Texas is suing General Motors for collecting driver data without consent and then selling it to insurance companies:</p>
+<p>From <a href="https://www.cnn.com/2024/08/13/business/texas-sues-general-motors-driver-data/index.html">CNN</a>:</p>
+<blockquote><p>In car models from 2015 and later, the Detroit-based car manufacturer allegedly used technology to &#8220;collect, record, analyze, and transmit highly detailed driving data about each time a driver used their vehicle,&#8221; according to the AG&#8217;s statement.</p>
+<p>General Motors sold this information to several other companies, including to at least two companies for the purpose of generating &#8220;Driving Scores&#8221; about GM&#8217;s customers, the AG alleged. The suit said those two companies then sold these scores to insurance companies...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/08/texas-sues-gm-for-collecting-driving-data-without-consent.html>
+
+---
+
+##  A number of NYC restaurant wine buyers explain how they price bottles... 
+
+date: 2024-08-14, updated: 2024-08-14, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045116-a-number-of-nyc-restauran>
+
+---
+
+## After Years of Legal Wrangling, Apple Now Allows Spotify to Show EU Users Pricing in App, and Tells Them They Can Sign Up on the Web
+
+date: 2024-08-14, updated: 2024-08-14, from: Daring Fireball
+
+ 
+
+<https://newsroom.spotify.com/2024-03-04/the-european-commission-confirms-apples-anti-competitive-behavior-is-illegal-and-harms-consumers/>
 
 ---
 
@@ -31,8 +281,7 @@ date: 2024-08-14, updated: 2024-08-14, from: Daring Fireball
 
 **@Dave Winer's Scripting News** (date: 2024-08-14, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/08/14/marlboroLights.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If you don't buy the <a href="https://this.how/newRulesForJournalists/">new rules for journalism</a> because the liars will tell lies about you, the journalist -- well, you get that either way, no matter what you do, so I don't see the problem. And if you want people to trust you, you've got to tell the truth. Your reputation gets destroyed by their lies if you pass them through. Doctors <s>can</s> must tell you to stop smoking to save your life and the tobacco companies will accuse them of lying or whatever and some people (such as myself, earlier in life) will continue to smoke. You still have to do what's right if you want people to trust you.
- 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/08/14/marlboroLights.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If you don't buy the <a href="https://this.how/newRulesForJournalists/">new rules for journalism</a> because the liars will tell lies about you, the journalist -- well, you get that either way, no matter what you do, so I don't see the problem. And if you want people to trust you, you've got to tell the truth. Your reputation gets destroyed by their lies if you pass them through. Doctors can tell you to stop smoking to save your life and the tobacco companies will accuse them of lying or whatever and some people (such as myself, earlier in life) will continue to smoke. You still have to do what's right if you want people to trust you. 
 
 <http://scripting.com/2024/08/14.html#a152609>
 
@@ -80,35 +329,6 @@ date: 2024-08-14, updated: 2024-08-14, from: Jason Kittke's blog
  
 
 <https://kottke.org/24/08/0045122-recent-cdc-report-among-c>
-
----
-
-## 2024-08-14 Web applications
-
-date: 2024-08-14, from: Alex Schroeder's Blog
-
-<h1 id="2024-08-14-web-applications">2024-08-14 Web applications</h1>
-
-<p>For my own peace of mind, I have resolved to no longer think of websites as &ldquo;websites&rdquo;. Instead, there are <em>web documents</em> and <em>web applications</em>. I find it easier to accept to use a browser like Firefox like a virtual computer for web applications. Many of the websites these days are in fact web applications.</p>
-
-<p>There&rsquo;s no point in railing against web applications. I like to write web applications! And I use many of them myself, too.
-Things like <a href="Face_Generator">Face Generator</a>, <a href="Text_Mapper">Text Mapper</a> or <a href="Hex_Describe">Hex Describe</a> are impossible to do as documents. In an emergency, you could have a form that then generates a PDF to download, maybe? But is that really preferable? I don&rsquo;t think so.</p>
-
-<p>And don&rsquo;t get me started on writing native graphical user-interface applications. It takes so much energy to get it right. It gives me a headache. I tried. Take a look at <a href="https://src.alexschroeder.ch/gridmapper-local.git/">Gridmapper with Common Lisp and SDL2</a>, if you want. Compare it with regular <a href="Gridmapper">Gridmapper</a>. Is that really preferable? I don&rsquo;t think so.</p>
-
-<p>And the reverse is also not cool. I wrote a text user interface tool to generate maps, which can then be downloaded as SVG files. Give <a href="Hex_Populate">Hex Populate</a> a try, it works over SSH. Is that really preferable? I don&rsquo;t think so.</p>
-
-<p>I&rsquo;ve tried Gemtext for a long time. I was very much into <a href="Gemini">Gemini</a>. But these days I no longer think it&rsquo;s the answer. It&rsquo;s like a piece of performance art: the doing of it is a statement. People who step into it are confounded, their beliefs challenged. It&rsquo;s good art! It&rsquo;s interesting technology. But it&rsquo;s not a replacement for <em>web applications</em>. It&rsquo;s not even a good format for <em>web documents</em>! I want inline emphasis – bold, italics, code – and accessible tables with captions and cell navigation, and row-spans, and column-spans. I tried writing code that translated Wikipedia tables into ASCII tables to be used as pre-formatted text in Gemtext. It&rsquo;s hard to do well with the sizing of columns, the line wrapping in cells, the limited space available in a terminal, and when you&rsquo;ve solved all of that, it&rsquo;s still hell for people with bad eye-sight or cognitive problems trying to understand what they&rsquo;re seeing. It&rsquo;s terrible. You could of course do away with all tables. But is that really preferable? I don&rsquo;t think so.</p>
-
-<p>And so… there&rsquo;s that bifurcation in the road. For this site, for most of the pages that I think of as <em>web documents</em>, I write (or generate) HTML that doesn&rsquo;t require fonts or scripts. If one uses browsers such as eww, links2, w3m, lynx or dillo, it should just work. I wasn&rsquo;t going to convert the corporate web, anyway.</p>
-
-<p>I still serve my site as Gemini and Gopher. But I do it as a political statement, as a piece of performance art.</p>
-
-<p>At the same time, I swallow my pride and <a href="2018-11-14_Firefox_Setup">setup Firefox</a>.</p>
-
-<p><a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Gemini">#Gemini</a></p> 
-
-<https://alexschroeder.ch/view/2024-08-14-web-applications>
 
 ---
 
@@ -197,6 +417,16 @@ date: 2024-08-14, updated: 2024-08-14, from: Daring Fireball
  
 
 <https://www.usatoday.com/story/opinion/columnist/2024/08/12/trump-musk-interview-x-twitter-spaces-disaster/74774628007/>
+
+---
+
+## Reckoning: Part 3 — Caprock
+
+date: 2024-08-14, updated: 2024-08-14, from: Alex Russel's blog
+
+ 
+
+<https://infrequently.org/2024/08/caprock/>
 
 ---
 
@@ -879,9 +1109,9 @@ date: 2024-08-12, updated: 2024-08-12, from: Jason Kittke's blog
 
 ## Taxonomy of Generative AI Misuse
 
-date: 2024-08-12, updated: 2024-08-12, from: Bruce Schneier blog
+date: 2024-08-12, updated: 2024-08-15, from: Bruce Schneier blog
 
-<p>Interesting paper: &#8220;<a href="https://arxiv.org/abs/2406.13843">Generative AI Misuse: A Taxonomy of Tactics and Insights from Real-World Data</a>&#8220;:</p>
+<p>Interesting paper: &#8220;<a href="https://arxiv.org/abs/2406.13843">Generative AI Misuse: A Taxonomy of Tactics and Insights from Real-World Data</a>”:</p>
 <blockquote><p>Generative, multimodal artificial intelligence (GenAI) offers transformative potential across industries, but its misuse poses significant risks. Prior research has shed light on the potential of advanced AI systems to be exploited for malicious purposes. However, we still lack a concrete understanding of how GenAI models are specifically exploited or abused in practice, including the tactics employed to inflict harm. In this paper, we present a taxonomy of GenAI misuse tactics, informed by existing academic literature and a qualitative analysis of approximately 200 observed incidents of misuse reported between January 2023 and March 2024. Through this analysis, we illuminate key and novel patterns in misuse during this time period, including potential motivations, strategies, and how attackers leverage and abuse system capabilities across modalities (e.g. image, text, audio, video) in the wild...</p></blockquote> 
 
 <https://www.schneier.com/blog/archives/2024/08/taxonomy-of-generative-ai-misuse.html>

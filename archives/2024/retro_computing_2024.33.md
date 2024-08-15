@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.33
-updated: 2024-08-14 08:43:03
+updated: 2024-08-15 07:50:06
 ---
 
 # retro computing 2024.33
 
-(date: 2024-08-14 08:43:03)
+(date: 2024-08-15 07:50:06)
+
+---
+
+## Linux Foundation Adopts OMI to Foster Ethical LLMs
+
+date: 2024-08-14, from: Linux Magazine
+
+<p>The Open Model Initiative hopes to create community LLMs that rival proprietary models but avoid restrictive licensing that limits usage.</p> 
+
+<http://www.linux-magazine.com/Online/News/Linux-Foundation-Adopts-OMI-to-Foster-Ethical-LLMs>
+
+---
+
+## b.log 2024/08/14 - The Larder system progresses, Outdoorsy stuff.
+
+date: 2024-08-14, from: Richard Murray's blog
+
+The Larder system progresses, Outdoorsy stuff. 
+
+<https://heyrick.eu/blog/index.php?diary=20240814>
 
 ---
 

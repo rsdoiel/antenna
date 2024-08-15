@@ -1,11 +1,135 @@
 ---
 title: central coast 2024.33
-updated: 2024-08-14 08:42:57
+updated: 2024-08-15 07:50:01
 ---
 
 # central coast 2024.33
 
-(date: 2024-08-14 08:42:57)
+(date: 2024-08-15 07:50:01)
+
+---
+
+## Hearst Castle Pool
+
+date: 2024-08-15, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071424-POD-Michael-Diamant.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The iconic Hearst Castle pool in San Simeon." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071424-POD-Michael-Diamant.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071424-POD-Michael-Diamant.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071424-POD-Michael-Diamant.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071424-POD-Michael-Diamant.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071424-POD-Michael-Diamant.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071424-POD-Michael-Diamant.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071424-POD-Michael-Diamant.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071424-POD-Michael-Diamant.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071424-POD-Michael-Diamant.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071424-POD-Michael-Diamant.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071424-POD-Michael-Diamant.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071424-POD-Michael-Diamant.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071424-POD-Michael-Diamant.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/hearst-castle-pool/">Hearst Castle Pool</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/hearst-castle-pool/>
+
+---
+
+## What Is the New Rent Increase Cap for Santa Barbara?
+
+date: 2024-08-15, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-for-rent-sign-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A &quot;now renting&quot; sign in Santa Barbara." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-for-rent-sign-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-for-rent-sign-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-for-rent-sign-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-for-rent-sign-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-for-rent-sign-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-for-rent-sign-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-for-rent-sign-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-for-rent-sign-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-for-rent-sign-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081224-for-rent-sign-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Earlier this month, Santa Barbara County renters may have received a 30-day notice that the cost of their rent would be increasing. The statewide Tenant Protection Act, which passed in [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/what-is-the-new-rent-increase-cap-for-santa-barbara/">What Is the New Rent Increase Cap for Santa Barbara?</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/what-is-the-new-rent-increase-cap-for-santa-barbara/>
+
+---
+
+## County Planning Commission Sends Back Oil Trucking Plan for More Research
+
+date: 2024-08-15, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara County Planning Commission voted to send back an application that would allow a Lompoc oil field to transfer crude oil by truck, requesting that more research be [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/county-planning-commission-sends-back-oil-trucking-plan-requests-more-research/">County Planning Commission Sends Back Oil Trucking Plan for More Research</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/county-planning-commission-sends-back-oil-trucking-plan-requests-more-research/>
+
+---
+
+## Tee Off for Casa Pacifica at 32nd Annual Care for Kids Golf Classic
+
+date: 2024-08-15, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Golf enthusiasts can take a swing to support youth mental health at the 32nd Annual Care for Kids Golf Classic, benefitting Casa Pacifica. One of Ventura County’s longest running charity [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/tee-off-for-casa-pacifica-at-32nd-annual-care-for-kids-golf-classic/">Tee Off for Casa Pacifica at 32nd Annual Care for Kids Golf Classic</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/tee-off-for-casa-pacifica-at-32nd-annual-care-for-kids-golf-classic/>
+
+---
+
+## Season Preview: Dos Pueblos Football Looks to Take a Leap with Strong Run Game, New League Schedule
+
+date: 2024-08-15, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-football-preview-24.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-football-preview-24.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-football-preview-24.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-football-preview-24.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-football-preview-24.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-football-preview-24.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-football-preview-24.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-football-preview-24.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-football-preview-24.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-football-preview-24.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-football-preview-24.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>This preview is the first in a series of articles highlighting the local 11-man high school football teams ahead of the 2024 season. The season begins with Week Zero on [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/season-preview-dos-pueblos-football-looks-to-take-a-leap-with-strong-rushing-attack-new-league-schedule/">Season Preview: Dos Pueblos Football Looks to Take a Leap with Strong Run Game, New League Schedule</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/season-preview-dos-pueblos-football-looks-to-take-a-leap-with-strong-rushing-attack-new-league-schedule/>
+
+---
+
+## Cottage Health Opens New Site for Cottage Heart & Vascular Center
+
+date: 2024-08-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Cottage Health is opening of a new location for its Cottage Heart &#38; Vascular Center, designed to bring together several of its specialized cardiac practices in one location. The new [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/cottage-health-opens-new-site-for-cottage-heart-vascular-center/">Cottage Health Opens New Site for Cottage Heart &amp; Vascular Center</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/cottage-health-opens-new-site-for-cottage-heart-vascular-center/>
+
+---
+
+## Police: Summer May Fade, But Season for Safety on Road Goes On
+
+date: 2024-08-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>As the end of summer approaches and families prepare for Labor Day celebrations, the Santa Barbara Police Department (SBPD) reminds everyone to prioritize safety on the roads. Drivers are encouraged [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/police-summer-may-fade-but-season-for-safety-on-road-goes-on/">Police: Summer May Fade, But Season for Safety on Road Goes On</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/police-summer-may-fade-but-season-for-safety-on-road-goes-on/>
+
+---
+
+## Buellton Library Closes to Move to New Location
+
+date: 2024-08-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Buellton-library-2-RC.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The library’s new home will be at the historic Willemsen property located at 202 Dairyland Road. Construction is expected to finish in October in time for a opening in November." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Buellton-library-2-RC.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Buellton-library-2-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Buellton-library-2-RC.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Buellton-library-2-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Buellton-library-2-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Buellton-library-2-RC.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Buellton-library-2-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Buellton-library-2-RC.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Buellton-library-2-RC.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Buellton-library-2-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Buellton-library-2-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Buellton-library-2-RC.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Buellton Library at 140 West Highway 246 closed on Wednesday and will soon move to a new location, once construction is complete.&#160; The library’s new home will be at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/buellton-library-closes-to-move-to-new-location/">Buellton Library Closes to Move to New Location</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/buellton-library-closes-to-move-to-new-location/>
+
+---
+
+## Santa Barbara Polo & Racquet Club Announces 2024 NetJets Pacific Coast Open
+
+date: 2024-08-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-polo-club.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-polo-club.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-polo-club.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-polo-club.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-polo-club.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-polo-club.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-polo-club.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-polo-club.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-polo-club.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-polo-club.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-polo-club.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Santa Barbara Polo &#38; Racquet Club, together with the United States Polo Association (USPA), the national governing body for the sport of polo, are pleased to announce the 2024 Netjets Pacific Coast Open, August [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-polo-racquet-club-announces-2024-netjets-pacific-coast-open/">Santa Barbara Polo &amp; Racquet Club Announces 2024 NetJets Pacific Coast Open</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-polo-racquet-club-announces-2024-netjets-pacific-coast-open/>
+
+---
+
+## Dear Annie: Why Has My Childhood Friend Suddenly Gone Silent?
+
+date: 2024-08-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Dear Annie: A lifelong friend of mine moved to Utah a little more than a year ago with a man twice her age. They met in a similar career field [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dear-annie-why-has-my-childhood-friend-suddenly-gone-silent/">Dear Annie: Why Has My Childhood Friend Suddenly Gone Silent?</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dear-annie-why-has-my-childhood-friend-suddenly-gone-silent/>
 
 ---
 

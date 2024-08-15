@@ -1,11 +1,628 @@
 ---
 title: pacific 2024.33
-updated: 2024-08-14 08:42:56
+updated: 2024-08-15 07:49:59
 ---
 
 # pacific 2024.33
 
-(date: 2024-08-14 08:42:56)
+(date: 2024-08-15 07:49:59)
+
+---
+
+## A skill with a huge advantage is becoming taboo for young players
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>CLEVELAND &#8212; Francisco Lindor is a natural right-handed batter who desperately wanted to be a switch-hitter as a child so he could be more like his favorite players. His brother and cousin were switch-hitters, as was his favorite player, Hall of Fame second baseman Roberto Alomar.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/sports/a-skill-with-a-huge-advantage-is-becoming-taboo-for-young-players/>
+
+---
+
+## Kevin Durant’s PSG stake explained: Why has he bought in? Does he have a say?
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>Kevin Durant has become the latest American sports star to invest in European soccer.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/sports/kevin-durants-psg-stake-explained-why-has-he-bought-in-does-he-have-a-say/>
+
+---
+
+## Nation and world news in brief for August 15
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>Cisco to cut 7% &#0010;of jobs globally</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/nation-world-news/nation-and-world-news-in-brief-for-august-15/>
+
+---
+
+## Obituaries for August 15
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>Juan Acoba Acob, 85, of Papaaloa died July 17 at Hilo Benioff Medical Center. Born in Bacarra, Ilocos Norte, Philippines, he was a retired landscaper for the Hilton Waikoloa Village and served as a 2nd lieutenant in the Philippine Air Force. Private service for family, relatives and family friends. Visitation 9-10 a.m. Sunday (Aug. 18) at Honokaa Seventh-day Adventist Vhurch. Service at 10 a.m. Burial to follow in church cemetery. Livestream of funeral service at https://www.youtube.com/@honokaasdachurch6776/featured. Survived by wife, Lilia R. Acob of Papaaloa; children, Ferdinand (Meriko) Acob of Canada, Janet (Rodelio) Cabreros of Hilo, Mildred (Chung) Cho of California, Ligaya (Steve) Acob-Powell of Maui and Luis (Ferlita) Acob of Hilo; sister, Arsenia Acosta of Hilo; five grandchildren. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/obituaries/obituaries-for-august-15-10/>
+
+---
+
+## Hurricane Ernesto leaves half of Puerto Rican customers without power
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>SAN JUAN, Puerto Rico &#8212; About half of all homes and businesses on Puerto Rico were without power on Wednesday as Hurricane Ernesto churned north into the warm waters of the Atlantic after dumping torrential rain on the U.S. territory. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/nation-world-news/hurricane-ernesto-leaves-half-of-puerto-rican-customers-without-power/>
+
+---
+
+## Trump loses third bid for judge to step aside in hush money case
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A New York judge declined for a third time to step aside from the case in which Donald Trump was convicted of charges involving hush money paid to a porn star, dismissing the former U.S. president&#8217;s claim of conflict of interest related to political consultancy work by the judge&#8217;s daughter. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/nation-world-news/trump-loses-third-bid-for-judge-to-step-aside-in-hush-money-case/>
+
+---
+
+## Japan’s Prime Minister Kishida to resign, paving way for new leader
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>TOKYO &#8212; Japan&#8217;s Prime Minister Fumio Kishida said on Wednesday he would step down next month, succumbing to public disaffection over political scandals and rising living costs that marred his three-year term, and setting off a scramble to replace him. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/nation-world-news/japans-prime-minister-kishida-to-resign-paving-way-for-new-leader/>
+
+---
+
+## Vacation rental industry steps up lobbying in the face of stiffer regulation
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The vacation rental industry has stepped up efforts to influence U.S. lawmakers to keep more cities from enacting restrictions on short-term rentals in response to concerns about housing availability and quality of life.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/nation-world-news/vacation-rental-industry-steps-up-lobbying-in-the-face-of-stiffer-regulation/>
+
+---
+
+## Vikings rookie J.J. McCarthy out for season after successful meniscus surgery on right knee
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>Minnesota Vikings rookie quarterback J.J. McCarthy was ruled out for the season after having successful surgery on the meniscus in his right knee, coach Kevin O&#8217;Connell announced Wednesday. McCarthy underwent testing related to knee soreness after he reported the injury Monday afternoon.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/sports/vikings-rookie-j-j-mccarthy-out-for-season-after-successful-meniscus-surgery-on-right-knee/>
+
+---
+
+## Inflation cools to 2.9%, shoring up case for a fed rate cut
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The consumer price index cooled in July compared with a year earlier, providing further evidence that inflation is moderating and leaving the Federal Reserve firmly on track to cut interest rates at its meeting next month. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/nation-world-news/inflation-cools-to-2-9-shoring-up-case-for-a-fed-rate-cut/>
+
+---
+
+## Zoo: Don’t feed the animals
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>The staff at the Hilo zoo is urging visitors to keep their objects and hands away from the animals at all times after a rising number of foreign items have found in some enclosures.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/hawaii-news/zoo-dont-feed-the-animals/>
+
+---
+
+## Public invited to League of Women Voters event
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>The public is invited to attend the next general meeting of the League of Women Voters of Hawaii County, which will be held in-person and via Zoom on Saturday at 10 a.m. (arrive by 9:50), at Unitarian Universalists of Puna in Hawaiian Paradise Park.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/hawaii-news/public-invited-to-league-of-women-voters-event/>
+
+---
+
+## Harris to focus on grocery costs, child tax credit in economic agenda, advisers say
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Democratic presidential candidate Kamala Harris&#8217;s economic agenda will focus on lowering the cost of groceries, housing and healthcare, bolstering the child tax credit and drawing a contrast with Republican Donald Trump on tariffs and taxes, aides and advisers said. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/nation-world-news/harris-to-focus-on-grocery-costs-child-tax-credit-in-economic-agenda-advisers-say/>
+
+---
+
+## In shift, US backs global target to reduce plastic production, source says
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The United States, one of the world&#8217;s biggest plastic makers, will support a global treaty calling for a reduction in how much new plastic is produced each year in a major policy shift, a source close to U.S. negotiators told Reuters on Wednesday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/nation-world-news/in-shift-us-backs-global-target-to-reduce-plastic-production-source-says/>
+
+---
+
+## WHO declares mpox a global public health emergency for second time in two years
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>The World Health Organization on Wednesday declared mpox a global public health emergency for the second time in two years, following an outbreak of the viral infection in Democratic Republic of Congo that has spread to neighboring countries. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/nation-world-news/who-declares-mpox-a-global-public-health-emergency-for-second-time-in-two-years/>
+
+---
+
+## Lyman Museum offers free admission Friday
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>Hilo&#8217;s Lyman Museum will hold a Manuahi Day on Friday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/community/lyman-museum-offers-free-admission-friday/>
+
+---
+
+## Walz faces new scrutiny over 2020 riots: Was he too slow to send troops?
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>MINNEAPOLIS &#8212; The protests had turned into riots. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/nation-world-news/walz-faces-new-scrutiny-over-2020-riots-was-he-too-slow-to-send-troops/>
+
+---
+
+## Makers of Snickers and Pringles to merge in $36 billion food deal
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>Mars, the company behind M&#038;M&#8217;s and Snickers, has agreed to acquire Kellanova, the snack food business spun off by Kellogg&#8217;s last year, in a multibillion-dollar deal that will create a new global food giant. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/nation-world-news/makers-of-snickers-and-pringles-to-merge-in-36-billion-food-deal/>
+
+---
+
+## Harris is leading or tied with Trump in most swing states, new Cook polls find
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>Vice President Kamala Harris and former President Donald Trump are locked into a tight race in key swing states, according to new polling from the Cook Political Report and the bipartisan team of BSG and GS Strategy Group published Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/nation-world-news/harris-is-leading-or-tied-with-trump-in-most-swing-states-new-cook-polls-find/>
+
+---
+
+## Family-friendly event for ALS charity takes place Sunday in Kailua-Kona
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>The ALS Network announces the 2nd annual Big Island Walk &#38;Roll to Cure ALS (formerly the Big Island Walk to Defeat ALS) on Sunday, Aug. 18, at Old Kona Airport in Kailua-Kona.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/community/family-friendly-event-for-als-charity-takes-place-sunday-in-kailua-kona/>
+
+---
+
+## Observatories host block party Saturday: Event includes tours, stargazing, Tanabata Japanese Star Festival
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>The Maunakea Observatories invite the public to a free public block party from 4 p.m. until 9 p.m. Saturday on North A&#8216;ohoku Place in the University of Hawaii&#8217;s Science and Technology Park, above &#8216;Imiloa Astronomy Center.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/community/observatories-host-block-party-saturday-event-includes-tours-stargazing-tanabata-japanese-star-festival/>
+
+---
+
+## Don’t confuse the symptom with the problem
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>It&#8217;s time to talk about how President Joe Biden&#8217;s withdrawal from the presidential campaign is related to our broken political system. This failing system got us to the point where we had the two major party candidates rejected by 70 percent of the electorate, according to most polls.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/opinion/dont-confuse-the-symptom-with-the-problem/>
+
+---
+
+## Power of the carrot — If amnesty gets defeated Venezuelan dictator Nicolás Maduro to step down, so be it
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>Faced with an election loss, an autocrat can generally take one of two paths: moderate his approach and policies in a bid to continue appealing to the electorate, or crack down to show that he won&#8217;t tolerate this dissent.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/opinion/power-of-the-carrot-if-amnesty-gets-defeated-venezuelan-dictator-nicolas-maduro-to-step-down-so-be-it/>
+
+---
+
+## Summer camp for mainland kids shows off the majesty of Hawaii Island
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>More than two dozen middle school students from the Pacific Northwest area of the mainland got to experience Hawaii Island recently during a science-driven summer camp.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/hawaii-news/summer-camp-for-mainland-kids-shows-off-the-majesty-of-hawaii-island/>
+
+---
+
+## Could the Angels lose their Angel Stadium lease? New state audit to probe land deal.
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>ANAHEIM, Calif. &#8212; What if &#8212; and this is a very big if &#8212; the Angels found themselves without a place to play beyond this season?</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/sports/could-the-angels-lose-their-angel-stadium-lease-new-state-audit-to-probe-land-deal/>
+
+---
+
+## Who will win the WNBA championship? Aces? Liberty? Bold predictions from our experts as play resumes
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>A month without basketball is over. Well, WNBA basketball that is.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/sports/who-will-win-the-wnba-championship-aces-liberty-bold-predictions-from-our-experts-as-play-resumes/>
+
+---
+
+## Patriots trade Matthew Judon to Falcons for third-round pick, per sources: What it means for each team
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>FLOWERY BRANCH, Ga. &#8212; The Atlanta Falcons addressed a perennial need Wednesday, sending a third-round draft pick to the New England Patriots in exchange for veteran pass rusher Matthew Judon, according to multiple league sources.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/sports/patriots-trade-matthew-judon-to-falcons-for-third-round-pick-per-sources-what-it-means-for-each-team/>
+
+---
+
+## Laughter, where does it exist in Trump’s world?
+
+date: 2024-08-15, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;Have you ever heard Donald Trump laugh? I don&#8217;t even know if he has any joy in his body.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/15/opinion/laughter-where-does-it-exist-in-trumps-world/>
+
+---
+
+## Prosecutors have 80 witnesses for Tumon tourist shooting trial
+
+date: 2024-08-15, from: Guam Daily Post
+
+The Office of the Attorney General intends to call 80 witnesses in the trial of a man alleged to have been the getaway driver in a robbery and fatal shooting of a tourist early this year. 
+
+<https://www.postguam.com/news/local/prosecutors-have-80-witnesses-for-tumon-tourist-shooting-trial/article_b9894a52-5a98-11ef-a70e-1b2ef18294c3.html>
+
+---
+
+## Man allegedly assaults, threatens woman
+
+date: 2024-08-15, from: Guam Daily Post
+
+A man was arrested on suspicion of assaulting a woman repeatedly after he accused her of cheating on him. 
+
+<https://www.postguam.com/news/local/man-allegedly-assaults-threatens-woman/article_294e81c4-5aa6-11ef-9a4a-aba23655ea74.html>
+
+---
+
+## Public Health warning consumers about tainted imported mahi-mahi
+
+date: 2024-08-15, from: Guam Daily Post
+
+If you’re thinking about eating fish, the Department of Public Health and Social Services says steer clear of mahi-mahi, or dolphinfish, that has been imported from Ecuador and Taiwan after a person was diagnosed with scombroid poisoning after eating the… 
+
+<https://www.postguam.com/news/local/public-health-warning-consumers-about-tainted-imported-mahi-mahi/article_549557aa-5aaf-11ef-86a6-233aa95a6e27.html>
+
+---
+
+## Registration open for softball college recruitment seminar, skills clinic
+
+date: 2024-08-15, from: Guam Daily Post
+
+Guam Softball Academy is offering a free informative athletic seminar aimed at guiding middle and high school student-athletes toward success in college athletics. 
+
+<https://www.postguam.com/sports/local/registration-open-for-softball-college-recruitment-seminar-skills-clinic/article_fc52397c-5a96-11ef-9ea8-3b3a216e4b12.html>
+
+---
+
+## Sidell wins Spartan series, Sardea, Esma make podium
+
+date: 2024-08-15, from: Guam Daily Post
+
+As extreme heat beat down and tried to slow James Sardea, 54, Marites Esma, 47, and Belen Sidell, 42, the three-person Guam contingent competed and excelled in the 2024 Pattaya Spartan last weekend, in Pattaya, Thailand. 
+
+<https://www.postguam.com/sports/local/sidell-wins-spartan-series-sardea-esma-make-podium/article_14468dec-5a8f-11ef-9a01-0fd5f8b46534.html>
+
+---
+
+## Legislature begins budget bill discussions
+
+date: 2024-08-15, from: Guam Daily Post
+
+After recessing for a day to review a substitute version of the annual budget measure, lawmakers returned to the Guam Congress Building on Thursday morning to begin discussions in earnest on the $1.3 billion budget proposal for the government of… 
+
+<https://www.postguam.com/news/local/legislature-begins-budget-bill-discussions/article_3df6b88c-5aa9-11ef-b1ab-9f9097128a91.html>
+
+---
+
+## GEB approves school year calendars, reviews staffing
+
+date: 2024-08-15, from: Guam Daily Post
+
+By Friday, 25 public schools will open their doors for in-person instruction, but because 16 schools will begin next Thursday on a modified learning schedule, the delayed start is reflected in two amended school year calendars. 
+
+<https://www.postguam.com/news/local/geb-approves-school-year-calendars-reviews-staffing/article_3ad30e52-5aaa-11ef-87be-f31c30c7fd70.html>
+
+---
+
+## Juanita Martinez pleads guilty to jury tampering
+
+date: 2024-08-15, from: Guam Daily Post
+
+Juanita Moser Martinez pleaded guilty to her role as a "minimal participant" in a jury tampering scheme during a 2018 drug trial. 
+
+<https://www.postguam.com/news/local/juanita-martinez-pleads-guilty-to-jury-tampering/article_30571a18-5aaa-11ef-b75a-079d6adda99c.html>
+
+---
+
+## Swanson: 1st day of school ‘going smoothly’ as inspections continue
+
+date: 2024-08-15, from: Guam Daily Post
+
+Thursday was a great day for Guam Department of Education Superintendent Kenneth Erik Swanson, who spent the morning of the first day of the delayed school year visiting schools in the south. 
+
+<https://www.postguam.com/news/local/swanson-1st-day-of-school-going-smoothly-as-inspections-continue/article_8b9ac586-5ac4-11ef-b1cc-7feced0bcfc5.html>
+
+---
+
+## Daisy focuses on drugs
+
+date: 2024-08-15, from: Marshal Islands Journal
+
+<p>On Nitijela’s first business session Tuesday August 6, illicit drugs and mental health issues were the subject of debate. Jaluit Nitijela Member Daisy Alik-Momotaro questioned the capability of law enforcement and inquired how hard drugs flow in the country. “Where are these drugs coming from?” Daisy said. The day prior, in her address to the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/daisy-focuses-on-drugs/">Daisy focuses on drugs</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/daisy-focuses-on-drugs/>
+
+---
+
+## STEAM camp for girls
+
+date: 2024-08-15, from: Marshal Islands Journal
+
+<p>WILMER JOEL Thirty-six girls from the two-week Tulam Turi Girl STEAM Camp were called to honor last week with certificates at the College of the Marshall Islands. Master Sergeant John Phillips from the US Embassy told the Journal that the camp was to promote science, technology, engineering, art and math (STEAM) for girls aged six-to-12. [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/steam-camp-for-girls/">STEAM camp for girls</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/steam-camp-for-girls/>
+
+---
+
+## Husband, wife Fulbright programs bridge continents through engineering research
+
+date: 2024-08-15, from: University of Hawaiʻi News
+
+<p>Lubecke's program was in Serbia and Bori&#263;-Lubecke's program was in Spain.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/14/husband-wife-fulbright-programs/">Husband, wife Fulbright programs bridge continents through engineering research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/14/husband-wife-fulbright-programs/>
+
+---
+
+## Peer-to-peer communities bring math grad students together from afar
+
+date: 2024-08-15, from: University of Hawaiʻi News
+
+<p>These communities will engage in semester-long mentored research experiences and follow-up activities, fostering peer-to-peer collaboration.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/14/math-research-communities/">Peer-to-peer communities bring math grad students together from afar</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/14/math-research-communities/>
+
+---
+
+## Local police raid national jail
+
+date: 2024-08-14, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON A drug distribution ring operating from the MIPD main jail in Uliga? Marijuana, crystal meth, thousands of dollars in cash, multiple cell phones in the hands of drug dealing inmates? MIPD officers not checking incoming packages for prisoners serving long sentences for violent crimes? All of the above and more was confirmed two [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/local-police-raid-national-jail/">Local police raid national jail</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/local-police-raid-national-jail/>
+
+---
+
+## Tubeworms coat ships, propellers, facilities, get signals from bacteria
+
+date: 2024-08-14, from: University of Hawaiʻi News
+
+<p>The bacterial communities that coat submerged surfaces create a biofilm and produce chemical signals that are detected by swimming larvae.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/14/tubeworms-coat-ships/">Tubeworms coat ships, propellers, facilities, get signals from bacteria</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/14/tubeworms-coat-ships/>
+
+---
+
+## Rock band Metallica’s foundation supports scholarships at Honolulu CC
+
+date: 2024-08-14, from: University of Hawaiʻi News
+
+<p>Metallica’s foundation gave $75,000 to Honolulu <abbr>CC</abbr> for career and technical education scholarships.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/14/metallica-foundation-supports-honolulu-cc-scholarships/">Rock band Metallica’s foundation supports scholarships at Honolulu <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/14/metallica-foundation-supports-honolulu-cc-scholarships/>
+
+---
+
+## Images of the Week: Amazing alumni
+
+date: 2024-08-14, from: University of Hawaiʻi News
+
+<p>This week's images are from the <abbr>UH</abbr> Alumni Association's Maker's Market.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/14/image-of-the-week-amazing-alumni/">Images of the Week: Amazing alumni</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/14/image-of-the-week-amazing-alumni/>
+
+---
+
+## East Carolina University and Bureau of Ocean Energy Management to conduct cultural research in NMI
+
+date: 2024-08-14, updated: 2024-08-15, from: Marianas Variety
+
+REPRESENTATIVES of East Carolina University and the Bureau of Ocean Energy Management met with some members of the community at the Carolinian Utt on Tuesday to announce that they will conduct cultural research to establish a “best practices guidance” document and an inventory of Marianas’ maritime heritage sites. 
+
+<https://www.mvariety.com/news/local/east-carolina-university-and-bureau-of-ocean-energy-management-to-conduct-cultural-research-in-nmi/article_43a95036-5a05-11ef-b646-33e926b710b6.html>
+
+---
+
+## Bill to allow voting at any polling place on Election Day
+
+date: 2024-08-14, updated: 2024-08-15, from: Marianas Variety
+
+SENATOR Paul A. Manglona is introducing Senate Bill 23-68, which would allow registered voters to cast their ballot at any polling precinct on Election Day. 
+
+<https://www.mvariety.com/news/local/bill-to-allow-voting-at-any-polling-place-on-election-day/article_39248a58-5a06-11ef-8ff8-3bee2c24f01b.html>
+
+---
+
+## US congressional staffers visit Tinian
+
+date: 2024-08-14, updated: 2024-08-15, from: Marianas Variety
+
+A DELEGATION of U.S. congressional staff members is on Tinian today, Thursday, to meet with Mayor Edwin P. Aldan and other island leaders, and to tour the sites of ongoing Department of Defense construction activities. 
+
+<https://www.mvariety.com/news/local/us-congressional-staffers-visit-tinian/article_243751b2-5a1e-11ef-85aa-1bd3a204a446.html>
+
+---
+
+## Governor nominates Donna Flores to NMC board
+
+date: 2024-08-14, updated: 2024-08-15, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios on Monday nominated Donna Flores to the Northern Marianas College Board of Regents. 
+
+<https://www.mvariety.com/news/local/governor-nominates-donna-flores-to-nmc-board/article_3354c620-5a00-11ef-88cf-075c277e61eb.html>
+
+---
+
+## Jacob’s Bakeshop routs Star Water; playoffs begin next week
+
+date: 2024-08-14, updated: 2024-08-15, from: Marianas Variety
+
+JACOB’S Bakeshop is headed to the playoffs of the Destroyers Basketball Club Invitational Basketball League 2024 after a blowout victory against Star Water, 92-57, at the TSL Sports Complex on Sunday. 
+
+<https://www.mvariety.com/sports/localsports/jacob-s-bakeshop-routs-star-water-playoffs-begin-next-week/article_d7984c1c-5a4f-11ef-87da-3bc35b4794d4.html>
+
+---
+
+## Aimeliik Bat Boys rally past Taotaomona, 24-14
+
+date: 2024-08-14, updated: 2024-08-15, from: Marianas Variety
+
+THE Aimeliik Bat Boys notched their second consecutive victory in the 2024 Budweiser Belau Amateur Softball Association Open League by pulling a late-game rally against Taotaomona, 24-14, at the Dandan baseball field on Sunday. 
+
+<https://www.mvariety.com/sports/localsports/aimeliik-bat-boys-rally-past-taotaomona-24-14/article_ab876b20-5a50-11ef-ab35-432e9d320cc2.html>
+
+---
+
+## Aug. 15 Rite of Installation for Archbishop Ryan to be livestreamed
+
+date: 2024-08-14, updated: 2024-08-15, from: Marianas Variety
+
+(Archdiocese of Agaña) — The Solemn Rite of Installation of His Excellency, Most Reverend Ryan Pagente Jimenez, DD as the Archbishop of Agaña will be livestreamed by the Dulce Nombre de Maria Cathedral-Basilica media team. 
+
+<https://www.mvariety.com/news/community_bulletins/aug-15-rite-of-installation-for-archbishop-ryan-to-be-livestreamed/article_10c498da-5a53-11ef-8e0f-931eb59db8a3.html>
+
+---
+
+## US consumer prices rise moderately; annual increase slows to below 3%
+
+date: 2024-08-14, updated: 2024-08-15, from: Marianas Variety
+
+WASHINGTON (Reuters) — U.S. consumer prices rose moderately in July and the annual increase in inflation slowed to below 3% for the first time since early 2021, further strengthening expectations the Federal Reserve will cut interest rates next month. 
+
+<https://www.mvariety.com/business/business_news/us-consumer-prices-rise-moderately-annual-increase-slows-to-below-3/article_d36af232-5a56-11ef-8ba0-af81b837cdcc.html>
+
+---
+
+## ‘Alien: Romulus’ reignites violence in the ‘Alien’ franchise
+
+date: 2024-08-14, updated: 2024-08-15, from: Marianas Variety
+
+SAN DIEGO (Reuters) — “Pacific Rim Uprising” actor Cailee Spaeny had to admit that things became bleak while filming the Disney movie “Alien: Romulus,” the latest installment in the popular “Alien” franchise, because characters were killed off regularly. 
+
+<https://www.mvariety.com/lifestyle/alien-romulus-reignites-violence-in-the-alien-franchise/article_891d24b4-5a53-11ef-a8d3-431f7f286082.html>
+
+---
+
+## Rocked by cancellation of Vienna concerts, Swifties shake it off and flock to London
+
+date: 2024-08-14, updated: 2024-08-15, from: Marianas Variety
+
+LONDON (AP) — For Herve Tram, being a Taylor Swift fan isn’t just about the music. 
+
+<https://www.mvariety.com/lifestyle/rocked-by-cancellation-of-vienna-concerts-swifties-shake-it-off-and-flock-to-london/article_bf900dd4-5a55-11ef-b4ae-578ea11d39fb.html>
 
 ---
 
@@ -357,6 +974,40 @@ date: 2024-08-14, from: Hawaii Tribune Harold
 
 ---
 
+## Alleged Maui bomber faces federal charges
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>A 47-year-old Kahului man made his initial appearance in federal court Tuesday after he was arrested in connection with a series of improvised explosive devices found on Maui, one of which blew up and damaged a sport utility vehicle.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/hawaii-news/alleged-maui-bomber-faces-federal-charges/>
+
+---
+
+## Insurers’ Maui fire settlement objection is nixed
+
+date: 2024-08-14, from: Hawaii Tribune Harold
+
+
+				<p>An effort by insurance companies to upend or alter a tentative $4 billion settlement over the August 2023 Maui wildfire disaster was rejected in state court Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/14/hawaii-news/insurers-maui-fire-settlement-objection-is-nixed/>
+
+---
+
+## Free(r) movement at the Forum
+
+date: 2024-08-14, from: Pacific Island Times
+
+By Sadhana Sen and Stephen Howes The annual Pacific Islands Forum Economic Ministers Meeting, or FEMM, always has a wide-ranging agenda.... 
+
+<https://www.pacificislandtimes.com/post/free-r-movement-at-the-forum>
+
+---
+
 ## Bustamante selected for prestigious FC Barcelona academy
 
 date: 2024-08-14, from: Guam Daily Post
@@ -437,6 +1088,16 @@ A mother and stepfather have been indicted on charges related to the death of a 
 
 ---
 
+## Contaminated mahi-mahi distributed on Guam; food poisoning reported
+
+date: 2024-08-14, from: Pacific Island Times
+
+'  By Pacific Island Times News Staff The Department of Public Health and Social Services today raised the alarm against the contaminated... 
+
+<https://www.pacificislandtimes.com/post/contaminated-mahi-mahi-distributed-on-guam-food-poisoning-reported>
+
+---
+
 ## Legislature recesses to review  budget bill, to return Thursday
 
 date: 2024-08-14, from: Guam Daily Post
@@ -444,6 +1105,38 @@ date: 2024-08-14, from: Guam Daily Post
 Lawmakers are set to discuss the annual budget bill for the government of Guam this month, and although their initial meeting took place Wednesday, no substantial discussions on the budget happened, as lawmakers recessed until Thursday in the morning to… 
 
 <https://www.postguam.com/news/legislature-recesses-to-review-budget-bill-to-return-thursday/article_08c4f34e-59fb-11ef-ac31-ab15ca7b6ff2.html>
+
+---
+
+## Women election candidates seek ‘power to change’ Kiribati's male-dominated politics
+
+date: 2024-08-14, from: Pacific Island Times
+
+By Rimon Rimon, Sue Ahearn and Stefan Armbruster (BenarNews)--  Former journalist Kairao Bauea makes her political debut as a candidate... 
+
+<https://www.pacificislandtimes.com/post/women-election-candidates-seek-power-to-change-kiribati-male-dominated-politics>
+
+---
+
+## The kids are alright: The importance of youth representation in Solomon Islands democracy 
+
+date: 2024-08-14, from: Pacific Island Times
+
+There is a battle of the bulge taking place in the Pacific, and while it may be simmering on the surface, there is a refrain that rings... 
+
+<https://www.pacificislandtimes.com/post/the-kids-are-alright-the-importance-of-youth-representation-in-solomon-islands-democracy>
+
+---
+
+## Kiribati Bilingual Books Launched
+
+date: 2024-08-14, from: University of the South Pacific (Fiji)
+
+<p>A Pacific child is used to hearing stories passed down orally by her elders, a...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/kiribati-bilingual-books-launched/">Kiribati Bilingual Books Launched</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/kiribati-bilingual-books-launched/>
 
 ---
 
@@ -554,6 +1247,18 @@ date: 2024-08-13, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/08/13/pacific-indigenous-creativity-uh-west-oahu/">Pacific Indigenous creativity, innovation converge at <abbr>UH</abbr> West Oʻahu</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/08/13/pacific-indigenous-creativity-uh-west-oahu/>
+
+---
+
+## Pacific Nations Urged to Embrace Responsible AI
+
+date: 2024-08-13, from: University of the South Pacific (Fiji)
+
+<p>Dr Rumman Chowdhury, a leading US science envoy, delivered a seminar on ‘AI Waves in...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/pacific-nations-urged-to-embrace-responsible-ai/">Pacific Nations Urged to Embrace Responsible AI</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/pacific-nations-urged-to-embrace-responsible-ai/>
 
 ---
 

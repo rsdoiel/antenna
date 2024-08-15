@@ -1,11 +1,175 @@
 ---
 title: food 2024.33
-updated: 2024-08-14 08:43:04
+updated: 2024-08-15 07:50:08
 ---
 
 # food 2024.33
 
-(date: 2024-08-14 08:43:04)
+(date: 2024-08-15 07:50:08)
+
+---
+
+## Basic Jalapeño Hot Sauce
+
+date: 2024-08-15, from: Pepper Scale
+
+Here&#8217;s an excellent easy jalapeño hot sauce recipe that is a good beginning sauce for some culinary experimentation. It&#8217;s not overly hot (jalapeños are a milder medium-heat chili), so it&#8217;s a good one to make to spice up a summer family party or a Cinco ... <p class="read-more-container"><a title="Basic Jalapeño Hot Sauce" class="read-more button" href="https://pepperscale.com/basic-jalapeno-hot-sauce/#more-3107" aria-label="Read more about Basic Jalapeño Hot Sauce">Read more</a></p> 
+
+<https://pepperscale.com/basic-jalapeno-hot-sauce/>
+
+---
+
+## Spicy Fried Pickles
+
+date: 2024-08-15, from: Pepper Scale
+
+Whether as an appetizer or side, spicy fried pickles sure hit the Southern-fried&#160;spot. It&#8217;s a mix of tang, crunch, and cayenne that&#8217;ll tickle your taste buds. Pair these pickles with our spicy Sriracha ranch dressing as a dipping sauce, and you&#8217;ve got a perfect party ... <p class="read-more-container"><a title="Spicy Fried Pickles" class="read-more button" href="https://pepperscale.com/spicy-fried-pickles/#more-32666" aria-label="Read more about Spicy Fried Pickles">Read more</a></p> 
+
+<https://pepperscale.com/spicy-fried-pickles/>
+
+---
+
+## Chipotle And Sun-Dried Tomato Bruschetta
+
+date: 2024-08-15, from: Pepper Scale
+
+Here’s a delightful appetizer from the Mediterranean, with a spicy but subtle twist. Chipotle and sun-dried tomato bruschetta packs a bunch of flavor, with a little heat and a touch of smokiness. It&#8217;s perfect served before (or with) steak, pasta dishes, and more. This recipe ... <p class="read-more-container"><a title="Chipotle And Sun-Dried Tomato Bruschetta" class="read-more button" href="https://pepperscale.com/chipotle-and-sundried-tomato-bruschetta/#more-81111" aria-label="Read more about Chipotle And Sun-Dried Tomato Bruschetta">Read more</a></p> 
+
+<https://pepperscale.com/chipotle-and-sundried-tomato-bruschetta/>
+
+---
+
+## Chipotle Sticky Toffee Pudding
+
+date: 2024-08-15, from: Pepper Scale
+
+Chipotle sticky toffee pudding is a delightful classic British dessert with a spicy twist of smoky flavor. But don’t fear — the heat here (from chipotle pepper powder) is not enough to put anyone off. It’s just enough to know it is there and the ... <p class="read-more-container"><a title="Chipotle Sticky Toffee Pudding" class="read-more button" href="https://pepperscale.com/chipotle-sticky-toffee-pudding/#more-81801" aria-label="Read more about Chipotle Sticky Toffee Pudding">Read more</a></p> 
+
+<https://pepperscale.com/chipotle-sticky-toffee-pudding/>
+
+---
+
+## Spicy Italian Tapenade
+
+date: 2024-08-15, from: Pepper Scale
+
+We’re not going to mess with a classic too much. This spicy Italian tapenade is made with the same delicious ingredients you’d find in a traditional recipe — olives, garlic, parsley, sundried tomatoes. But we’ve added a most certain kick of heat to this recipe.&#160;We ... <p class="read-more-container"><a title="Spicy Italian Tapenade" class="read-more button" href="https://pepperscale.com/spicy-italian-tapenade/#more-81864" aria-label="Read more about Spicy Italian Tapenade">Read more</a></p> 
+
+<https://pepperscale.com/spicy-italian-tapenade/>
+
+---
+
+## Zucchini and Corn Green Chicken Chili
+
+date: 2024-08-15, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2024/08/Zucchini-and-Corn-Green-Chicken-Chili-1200-8818.jpg"/></div>
+<p>Chicken green chili with summer zucchini and corn! Summer is the season of zucchini and this zucchini and corn green chicken chili is a great way to enjoy some! This is a pretty basic chicken chili recipe starting with onions, jalapeno, garlic, cumin, oregano, broth, salsa verde, chicken and beans, before adding summer&#8217;s bounty, zucchini...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/zucchini-and-corn-green-chicken-chili/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/zucchini-and-corn-green-chicken-chili/">Zucchini and Corn Green Chicken Chili</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<https://www.closetcooking.com/zucchini-and-corn-green-chicken-chili/>
+
+---
+
+## Mapo Chili Mac
+
+date: 2024-08-15, from: Bon Appetet
+
+Tingly mapo tofu meets cozy Midwestern chili mac in this one-pot dinner. 
+
+<https://www.bonappetit.com/recipe/mapo-chili-mac>
+
+---
+
+## My Husband Begged Me to Create This Recipe for 10 Years
+
+date: 2024-08-15, from: Bon Appetet
+
+Mapo chili mac is just what it sounds like—a marriage of two of the best comfort foods on earth. 
+
+<https://www.bonappetit.com/story/my-husband-loves-mapo-chili-mac>
+
+---
+
+## Can You Freeze Mint?
+
+date: 2024-08-14, from: Spiceography
+
+Fresh mint might not be an option for much of the year if you live in a colder location. If you want access to it during the colder months, you will need to preserve it. Ideally, the method chosen will allow the mint to keep as many of its fresh ... <p class="read-more-container"><a title="Can You Freeze Mint?" class="read-more button" href="https://www.spiceography.com/can-you-freeze-mint/#more-15879" aria-label="Read more about Can You Freeze Mint?">Read more</a></p> 
+
+<https://www.spiceography.com/can-you-freeze-mint/>
+
+---
+
+## Honey Chipotle Wings
+
+date: 2024-08-14, from: Pepper Scale
+
+What&#8217;s not to love about sweet smoky heat? The mix of sweet honey and smoky chipotle peppers makes these chicken wings a real favorite for game day and gatherings of all types. Honey chipotle wings are also very easy to make, so you&#8217;ll find yourself ... <p class="read-more-container"><a title="Honey Chipotle Wings" class="read-more button" href="https://pepperscale.com/honey-chipotle-wings/#more-18196" aria-label="Read more about Honey Chipotle Wings">Read more</a></p> 
+
+<https://pepperscale.com/honey-chipotle-wings/>
+
+---
+
+## Brazilian Coconut Chicken Curry
+
+date: 2024-08-14, from: Pepper Scale
+
+Full of flavor and spice, Brazilian coconut chicken curry is smooth, creamy, and as fiery as you’d like it to be.&#160;Lime, turmeric, fresh ginger, and, of course, coconut share center stage with the chili pepper of your choice. If you are here for the heat ... <p class="read-more-container"><a title="Brazilian Coconut Chicken Curry" class="read-more button" href="https://pepperscale.com/brazilian-coconut-chicken-curry/#more-81830" aria-label="Read more about Brazilian Coconut Chicken Curry">Read more</a></p> 
+
+<https://pepperscale.com/brazilian-coconut-chicken-curry/>
+
+---
+
+## Naga Vindaloo Beef Curry
+
+date: 2024-08-14, from: Pepper Scale
+
+Naga vindaloo beef curry is about as spicy as curries come. After all, naga chilies are the pepper in the paste used here. Chilies like the Dorset naga, naga viper, and naga morich all either nearly or easily top 1,000,000 Scoville heat units, so know ... <p class="read-more-container"><a title="Naga Vindaloo Beef Curry" class="read-more button" href="https://pepperscale.com/naga-vindaloo-beef-curry/#more-85078" aria-label="Read more about Naga Vindaloo Beef Curry">Read more</a></p> 
+
+<https://pepperscale.com/naga-vindaloo-beef-curry/>
+
+---
+
+## Aglio, Olio e Peperoncino: Italy’s Hot, Alpha Pasta
+
+date: 2024-08-14, from: Pepper Scale
+
+Fresh garlic, oil, and chilies — or aglio, olio e peperoncino as they’d say in Italy. Add spaghetti to these simple ingredients, and you’ve got one of the absolutely classic pasta recipes. Naples might claim it as theirs, but folks in Rome have their own ... <p class="read-more-container"><a title="Aglio, Olio e Peperoncino: Italy’s Hot, Alpha Pasta" class="read-more button" href="https://pepperscale.com/aglio-olio-e-peperoncino/#more-85640" aria-label="Read more about Aglio, Olio e Peperoncino: Italy’s Hot, Alpha Pasta">Read more</a></p> 
+
+<https://pepperscale.com/aglio-olio-e-peperoncino/>
+
+---
+
+## Spicy Beef Empanadas
+
+date: 2024-08-14, from: Pepper Scale
+
+These super-savory, mini feasts mix the best of two very different worlds. Honest-to-goodness beef steak, potatoes, and onions are exotically spiced with serrano chili, paprika, cloves, and cinnamon. Spicy beef empanadas are an Anglo-Mexican alliance that produces outstandingly moreish results, both inside and out. The ... <p class="read-more-container"><a title="Spicy Beef Empanadas" class="read-more button" href="https://pepperscale.com/spicy-beef-empanadas/#more-84334" aria-label="Read more about Spicy Beef Empanadas">Read more</a></p> 
+
+<https://pepperscale.com/spicy-beef-empanadas/>
+
+---
+
+## The Best Nonstick Pans (2024) Reviewed by Our Experts
+
+date: 2024-08-14, from: Bon Appetet
+
+Here’s what the pros use at work and at home. 
+
+<https://www.bonappetit.com/story/best-nonstick-pans>
+
+---
+
+## Make-Ahead Breakfast Sandwiches
+
+date: 2024-08-14, from: Bon Appetet
+
+Mornings on the go just got so much better with these Calabrian chile mayo–spiked egg sandwiches. 
+
+<https://www.bonappetit.com/recipe/make-ahead-breakfast-sandwiches>
 
 ---
 

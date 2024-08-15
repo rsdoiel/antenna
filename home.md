@@ -1,11 +1,53 @@
 ---
 title: home 2024.33
-updated: 2024-08-14 08:43:01
+updated: 2024-08-15 07:50:04
 ---
 
 # home 2024.33
 
-(date: 2024-08-14 08:43:01)
+(date: 2024-08-15 07:50:04)
+
+---
+
+## What Is Spalling Brick, and How Do You Deal With It?
+
+date: 2024-08-14, from: Family Handyman Blog
+
+Watch for this moisture-related brick issue and tackle the repair if it happens. 
+
+<https://www.familyhandyman.com/article/spalling-brick/>
+
+---
+
+## Why Does Your Car Heater Only Work on One Speed?
+
+date: 2024-08-14, from: Family Handyman Blog
+
+During my 50-plus year career as a General Motors and ASE Master Technician, vocational educator and vehicle owner, I have repaired or replaced... 
+
+<https://www.familyhandyman.com/article/blower-motor-replacement/>
+
+---
+
+## When and How to Fertilize Jasmine
+
+date: 2024-08-14, from: The Gardener's Path
+
+<p>Jasmine plants are a favorite in the summer garden, climbing freely on trellises for showy, fragrant displays. But if they’re lacking vigor with only a few flowers, you may need to improve your feeding regime. For lush foliage, strong growth, and abundant flowers, learn how and when to fertilize jasmine in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/fertilize-jasmine/">When and How to Fertilize Jasmine</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/flowers/fertilize-jasmine/>
+
+---
+
+## Installing Fiber Cement Siding the Right Way: Everything To Know
+
+date: 2024-08-14, from: Family Handyman Blog
+
+Half the cost of a fiber cement board siding job is labor, so you can save thousands of dollars by installing it yourself. A siding pro shows the tools and tricks needed for a weathertight installation. 
+
+<https://www.familyhandyman.com/article/installing-fiber-cement-siding/>
 
 ---
 

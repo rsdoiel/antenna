@@ -1,11 +1,307 @@
 ---
 title: going electric 2024.33
-updated: 2024-08-14 08:43:04
+updated: 2024-08-15 07:50:07
 ---
 
 # going electric 2024.33
 
-(date: 2024-08-14 08:43:04)
+(date: 2024-08-15 07:50:07)
+
+---
+
+## Young EV conversion specialist Arcade Cars unveils all-electric G-Wagon powered by Everrati
+
+date: 2024-08-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Electric-G-Wagon-conversion-Arcade-Cars-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Britain’s EV conversion newcomer, Arcade Cars, has come out swinging during Monterey Car Week, delivering the global debut of the Sojourn – a fully-restored, all-electric version of the classic “G-Wagon” from Mercedes-Benz. With powertrain tech from fellow <a href="https://electrek.co/guides/ev-conversion">EV conversion</a> specialist Everatti, the Sojourn is available for order now and will see a limited number of examples produced.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="arcade-cars,ev-conversion,everrati,mercedes-electric-g-wagon" data-layer-viewtype="unknown" data-post-id="375955" href="https://electrek.co/2024/08/15/ev-conversion-arcade-cars-unveils-all-electric-g-wagon-everrati/#more-375955" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/15/ev-conversion-arcade-cars-unveils-all-electric-g-wagon-everrati/>
+
+---
+
+## Lucid offers cheaper Air models with demo cars now available starting under $57,000
+
+date: 2024-08-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Lucid-air-demo-cars-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lucid’s electric luxury sedan is more affordable than ever. With <a href="https://electrek.co/guides/lucid-air/">Lucid Air</a> demo cars now available to buy, you can snag one for under $57,000. That’s down over $20,000 from when the Air hit the market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid-air,lucid-motors" data-layer-viewtype="unknown" data-post-id="375947" href="https://electrek.co/2024/08/15/lucid-air-ev-demo-cars-now-available-under-57000/#more-375947" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/15/lucid-air-ev-demo-cars-now-available-under-57000/>
+
+---
+
+## Watch This Supercharged 250 HP Harley-Davidson-Style Jet Bike Shred, Praise Florida
+
+date: 2024-08-15, from: Ride Apart, Electric Motorcycle News
+
+If you don't openly love Florida, then I maintain you secretly love it. 
+
+<https://www.rideapart.com/news/730206/harley-davidson-jet-bike-florida/>
+
+---
+
+## Polaris Recalls 285,000 Snowmobiles Worldwide Due To Potential Fire Risk
+
+date: 2024-08-15, from: Ride Apart, Electric Motorcycle News
+
+Fuel degradation over time + extended snowmobile storage = electrostatic discharge (ESD) in the fuel tank. 
+
+<https://www.rideapart.com/news/730207/polaris-worldwide-snowmobile-recall-fire/>
+
+---
+
+## This New Dirt Bike Is a Grown-up MX Bike for Teens, So Get Shredding
+
+date: 2024-08-15, from: Ride Apart, Electric Motorcycle News
+
+It doesn’t just look like a grown-up MX bike, it’s packing tons of features and adjustability, too.  
+
+<https://www.rideapart.com/news/730083/2025-gasgas-mc-85-launch/>
+
+---
+
+## Automobili Pininfarina to deliver a one-of-one coach-built Battista EV during Monterey Car Week
+
+date: 2024-08-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Pinifarina-Battista-Monterey-front-doors.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Boutique electric hypercar maker <a href="https://electrek.co/guides/automobili-pininfarina/">Automobili Pininfarina</a> is showing off another one-of-a-kind model at Car Week in Monterey this week. In addition to the Batman-themed B95 Gotham on display at <em>The Quail</em>, Automobili Pininfarina is showing off a coach-built variant of its Battista hypercar called the Targamerica, which has been delivered to the US client who commissioned it (for a small price we’re sure).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="automobili-pininfarina,automobili-pininfarina-battista,monterey-car-week" data-layer-viewtype="unknown" data-post-id="375808" href="https://electrek.co/2024/08/15/automobili-pininfarina-one-of-one-coach-built-battista-ev-monterey-car-week/#more-375808" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/15/automobili-pininfarina-one-of-one-coach-built-battista-ev-monterey-car-week/>
+
+---
+
+## Kawasaki's KFX50 Youth ATV Makes It Easy to Learn, and Get Your Kids Smiling
+
+date: 2024-08-15, from: Ride Apart, Electric Motorcycle News
+
+Yes, I know I've doomed myself.  
+
+<https://www.rideapart.com/news/730195/kawasaki-kfx50-youth-atv-review-specs-price-2025/>
+
+---
+
+## Truck Company Owner Pleads Guilty in Infamous New Hampshire Biker Deaths
+
+date: 2024-08-15, from: Ride Apart, Electric Motorcycle News
+
+Weirdly, his brother first tried to plead guilty three years ago, but his plea was rejected. 
+
+<https://www.rideapart.com/news/730185/westfield-transport-trucking-zhukovskyy-jarheads/>
+
+---
+
+## Is Harley-Davidson Screwing Over its Dealers? Dealers Say Yes
+
+date: 2024-08-15, from: Ride Apart, Electric Motorcycle News
+
+Big inventory buys, updated showroom requirements, and more accusations.  
+
+<https://www.rideapart.com/news/730183/harley-davidson-dealers-association-profits-accusation/>
+
+---
+
+## Germany Is Super Strict With Action Cams and Drones, Enthusiasts Beware
+
+date: 2024-08-15, from: Ride Apart, Electric Motorcycle News
+
+But the rules seem very much open to interpretation.  
+
+<https://www.rideapart.com/news/730070/germany-strict-rules-action-cameras-drones/>
+
+---
+
+## Tesla tops charging game, VW and Polestar come correct, and tiny robots
+
+date: 2024-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/winner-tesla.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>On today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily">Quick Charge</a></em>, JD Power crowns Tesla the king of the EV charging experience … but that just means it’s all downhill from here, right? Volkswagen, Polestar, and Kia sure hope so – and they’re bringing some real competition to Elon Musk and his aging product line to market like,  Right. F***ing. Now.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-charging,polestar,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="375934" href="https://electrek.co/2024/08/14/tesla-tops-charging-game-vw-and-polestar-come-correct-and-tiny-robots/#more-375934" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/14/tesla-tops-charging-game-vw-and-polestar-come-correct-and-tiny-robots/>
+
+---
+
+## Self-Driving Waymos Keep Honking At Each Other In The Middle Of The Night
+
+date: 2024-08-14, from: Inside EVs News
+
+Neighbors say the Waymos' midnight honk-fest has been waking them up night after night. 
+
+<https://insideevs.com/news/730212/waymo-cars-honk-at-each-other/>
+
+---
+
+## Subaru’s Solterra EV is the most discounted car (electric or gas) right now
+
+date: 2024-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Subarus-most-discounted-car.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With the deals heating up, many vehicles are selling for thousands under their sticker prices. Subaru’s <a href="https://electrek.co/guides/subaru-solterra/">Solterra EV</a> is the most discounted car in the US right now. And yes, that includes gas-powered and electric vehicles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="subaru,subaru-solterra" data-layer-viewtype="unknown" data-post-id="375908" href="https://electrek.co/2024/08/14/subarus-solterra-ev-most-discounted-car-electric-gas/#more-375908" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/14/subarus-solterra-ev-most-discounted-car-electric-gas/>
+
+---
+
+## This will be the first geothermal energy storage system on the Texas grid
+
+date: 2024-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Sage-geothermal.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p><a href="https://www.sagegeosystems.com/" target="_blank" rel="noreferrer noopener">Sage Geosystems</a> will launch EarthStore this year, which uses geothermal energy storage to produce clean electricity on demand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,geothermal,solar,grid,tesla-gigafactory-texas" data-layer-viewtype="unknown" data-post-id="375906" href="https://electrek.co/2024/08/14/this-will-be-the-first-geothermal-energy-storage-system-on-the-texas-grid/#more-375906" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/14/this-will-be-the-first-geothermal-energy-storage-system-on-the-texas-grid/>
+
+---
+
+## Bricked: This VinFast VF8 Stranded A Reviewer For Days, Then Fixed Itself
+
+date: 2024-08-14, from: Inside EVs News
+
+They were 500 miles from the nearest service center, and VinFast's inability to help is a cautionary tale to out-of-state buyers. 
+
+<https://insideevs.com/news/730200/vinfast-vf8-bricks-itself/>
+
+---
+
+## The world’s largest single-capacity floating wind platform has two turbines
+
+date: 2024-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/mingyang-oceanx-launch.jpg?quality=82&#038;strip=all&#038;w=1591" /></div><p>Mingyang Smart Energy’s huge 16.6 megawatt (MW) OceanX, with its double-turbine, “V”-shaped floating wind platform, is a game-changer.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="375836" href="https://electrek.co/2024/08/14/worlds-largest-single-capacity-floating-wind-platform-two-turbines/#more-375836" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/14/worlds-largest-single-capacity-floating-wind-platform-two-turbines/>
+
+---
+
+## Ford to recall certain Mustang Mach-E, Bronco, and Maverick models over a faulty front wiper
+
+date: 2024-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Ford-Mach-E-recall-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford is recalling certain <a href="https://electrek.co/guides/ford-mach-e/">Mustang Mach-E</a>, Maverick, and Bronco Sport models over a faulty front wiper motor. The recall impacts certain 2023 Ford Mustang Mach-E and Bronco Sport models and 2023-2024 Mavericks.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-mach-e" data-layer-viewtype="unknown" data-post-id="375869" href="https://electrek.co/2024/08/14/ford-issues-mustang-mach-e-recall-faulty-front-wiper/#more-375869" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/14/ford-issues-mustang-mach-e-recall-faulty-front-wiper/>
+
+---
+
+## Last chance to get RadRunner 2 e-bike at $1,199 low, Goal Zero 6,071Wh Yeti power station 50% off, Rachio outdoor smart devices, more
+
+date: 2024-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/RadRunner-2-header.webp?w=1600" /></div><p>We’ve got a bunch of popular returns in today’s Green Deals, with the spotlight featuring <a href="https://9to5toys.com/2024/08/14/rad-powers-radrunner-2-utility-e-bike-does-it-all-back-at-the-1199-low-200-off-for-today-only/">Rad Power’s RadRunner 2 Utility e-bike back at its $1,199 low</a> for one day more as the brand’s <a href="https://9to5toys.com/2024/08/09/rad-power-gives-radcity-5-plus-e-bike-100-travel-miles-at-1499-699-value-with-20-off-vehicle-racks/">August 2 Promo sale</a> ends tonight. It is joined by the return of <a href="https://9to5toys.com/2024/08/14/goal-zeros-6071wh-yeti-6000x-portable-power-station-returns-to-2500-low-50-off-limited-time/">Goal Zero’s Yeti 6000X Portable Power Station</a> that is once again seeing a 50% discount to its <a href="https://9to5toys.com/2024/08/14/goal-zeros-6071wh-yeti-6000x-portable-power-station-returns-to-2500-low-50-off-limited-time/">$2,499 low</a>, as well as <a href="https://9to5toys.com/2024/08/14/let-rachios-smart-hose-timer-keep-an-eye-on-your-water-and-the-weather-for-79-reg-100-more-from-119/">Rachio’s Smart Hose Timer and Wi-Fi hub bundle at $79</a>, with an array of low prices on the smart sprinkler controllers and their bundle packages too. Plus, all the other hangover Green Deals that are still alive and well – like yesterday’s <a href="https://9to5toys.com/2024/08/13/lectrics-back-to-school-sale-shifts-to-higher-gear-with-up-to-727-off-e-bike-bundles-from-799-plus-40-off-accessories/">Lectric sale</a> that is now offering an extra battery with the <a href="https://9to5toys.com/2024/08/13/lectrics-back-to-school-sale-shifts-to-higher-gear-with-up-to-727-off-e-bike-bundles-from-799-plus-40-off-accessories/">XPeak Off-Road e-bike for 110 miles of travel</a> on a single charge. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="375830" href="https://electrek.co/2024/08/14/last-chance-to-get-radrunner-2-e-bike-at-1199-low-goal-zero-6071wh-yeti-power-station-50-off-rachio-outdoor-smart-devices-more/#more-375830" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/14/last-chance-to-get-radrunner-2-e-bike-at-1199-low-goal-zero-6071wh-yeti-power-station-50-off-rachio-outdoor-smart-devices-more/>
+
+---
+
+## Used EV Values Are In Freefall
+
+date: 2024-08-14, from: Inside EVs News
+
+The price war has taken its toll. It's good news if you're a buyer, and brutal news if you're an owner.  
+
+<https://insideevs.com/news/730186/used-ev-prices-q2-2024/>
+
+---
+
+## Electric bikes: The truth about how much it costs to charge an e-bike
+
+date: 2024-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/mod-cargo-review-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>As electric bicycles continue to <a href="https://electrek.co/2024/08/08/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/">grow in popularity</a>, one question often arises among potential buyers and intrigued newcomers: How much does it actually cost to charge an electric bicycle? The idea of an eco-friendly, efficient mode of transportation sounds enticing, but is that going to mean a jump in your electric bill?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,ev-charging" data-layer-viewtype="unknown" data-post-id="367275" href="https://electrek.co/2024/08/14/electric-bikes-the-truth-about-how-much-it-costs-to-charge-an-e-bike/#more-367275" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/14/electric-bikes-the-truth-about-how-much-it-costs-to-charge-an-e-bike/>
+
+---
+
+## Volkswagen’s $27,000 ID.2 officially spotted for the first time
+
+date: 2024-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Volkswagens-ID.2-spotted.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/volkswagen-id-2/">Volkswagen ID.2</a>, the brand’s cheapest electric car, is real. Volkswagen’s ID.2 was officially spotted for the first time out testing. The sub 25,000 euro ($27,500) electric vehicle is affordable, like a Polo, but still spacious like a Golf.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,volkswagen-id-2,vw" data-layer-viewtype="unknown" data-post-id="375826" href="https://electrek.co/2024/08/14/volkswagens-27000-id-2-officially-spotted-first-time/#more-375826" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/14/volkswagens-27000-id-2-officially-spotted-first-time/>
+
+---
+
+## Tesla escapes recall in NHTSA suspension investigation, but is recommended to change a part
+
+date: 2024-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Tesla-Model-S-X-Lunar-Grey.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has escaped a recall in NHTSA’s suspension investigation, which is finally closed after years, but it received a recommendation to change parts in more cars.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="375805" href="https://electrek.co/2024/08/14/tesla-escapes-recall-nhtsa-suspension-investigation-but-recommended-to-change-part/#more-375805" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/14/tesla-escapes-recall-nhtsa-suspension-investigation-but-recommended-to-change-part/>
+
+---
+
+## Watch BYD’s electric supercar race to 233 mph insanely fast [Video]
+
+date: 2024-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/BYDs-electric-supercar-speed.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD’s entry into the luxury EV market is heating up. The new <a href="https://electrek.co/guides/yangwang-u9/">Yangwang U9</a>, BYD’s new electric supercar, hit a top speed of over 375 km/h (233 mph), topping its own performance benchmark. Check out the video of it below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,yangwang-u9" data-layer-viewtype="unknown" data-post-id="375791" href="https://electrek.co/2024/08/14/watch-byds-electric-supercar-race-233-mph-video/#more-375791" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/14/watch-byds-electric-supercar-race-233-mph-video/>
+
+---
+
+## Gas Tax Revenue Is Declining. Lawmakers Want EVs To Foot The Bill
+
+date: 2024-08-14, from: Inside EVs News
+
+Gas taxes are how most states fund road maintenance. As more people go electric, they need a new strategy. 
+
+<https://insideevs.com/news/730176/gas-tax-revenue-decline-evs-should-foot-the-bill/>
 
 ---
 
@@ -23,7 +319,7 @@ date: 2024-08-14, from: Electrek Feed
 
 ---
 
-## DC Fast Charging Is Getting Better, But Level 2 Is Getting Worse: Study
+## DC Fast Charging Is Getting Better. But Level 2 Is Getting Worse
 
 date: 2024-08-14, from: Inside EVs News
 

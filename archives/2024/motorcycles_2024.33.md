@@ -1,11 +1,101 @@
 ---
 title: motorcycles 2024.33
-updated: 2024-08-14 08:43:02
+updated: 2024-08-15 07:50:06
 ---
 
 # motorcycles 2024.33
 
-(date: 2024-08-14 08:43:02)
+(date: 2024-08-15 07:50:06)
+
+---
+
+## Watch This Supercharged 250 HP Harley-Davidson-Style Jet Bike Shred, Praise Florida
+
+date: 2024-08-15, from: Ride Apart, Electric Motorcycle News
+
+If you don't openly love Florida, then I maintain you secretly love it. 
+
+<https://www.rideapart.com/news/730206/harley-davidson-jet-bike-florida/>
+
+---
+
+## Polaris Recalls 285,000 Snowmobiles Worldwide Due To Potential Fire Risk
+
+date: 2024-08-15, from: Ride Apart, Electric Motorcycle News
+
+Fuel degradation over time + extended snowmobile storage = electrostatic discharge (ESD) in the fuel tank. 
+
+<https://www.rideapart.com/news/730207/polaris-worldwide-snowmobile-recall-fire/>
+
+---
+
+## This New Dirt Bike Is a Grown-up MX Bike for Teens, So Get Shredding
+
+date: 2024-08-15, from: Ride Apart, Electric Motorcycle News
+
+It doesn’t just look like a grown-up MX bike, it’s packing tons of features and adjustability, too.  
+
+<https://www.rideapart.com/news/730083/2025-gasgas-mc-85-launch/>
+
+---
+
+## Kawasaki's KFX50 Youth ATV Makes It Easy to Learn, and Get Your Kids Smiling
+
+date: 2024-08-15, from: Ride Apart, Electric Motorcycle News
+
+Yes, I know I've doomed myself.  
+
+<https://www.rideapart.com/news/730195/kawasaki-kfx50-youth-atv-review-specs-price-2025/>
+
+---
+
+## Truck Company Owner Pleads Guilty in Infamous New Hampshire Biker Deaths
+
+date: 2024-08-15, from: Ride Apart, Electric Motorcycle News
+
+Weirdly, his brother first tried to plead guilty three years ago, but his plea was rejected. 
+
+<https://www.rideapart.com/news/730185/westfield-transport-trucking-zhukovskyy-jarheads/>
+
+---
+
+## Is Harley-Davidson Screwing Over its Dealers? Dealers Say Yes
+
+date: 2024-08-15, from: Ride Apart, Electric Motorcycle News
+
+Big inventory buys, updated showroom requirements, and more accusations.  
+
+<https://www.rideapart.com/news/730183/harley-davidson-dealers-association-profits-accusation/>
+
+---
+
+## Germany Is Super Strict With Action Cams and Drones, Enthusiasts Beware
+
+date: 2024-08-15, from: Ride Apart, Electric Motorcycle News
+
+But the rules seem very much open to interpretation.  
+
+<https://www.rideapart.com/news/730070/germany-strict-rules-action-cameras-drones/>
+
+---
+
+## Long shots most likely to play spoiler before NASCAR Cup playoffs
+
+date: 2024-08-15, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer Last Sunday night, it appeared Austin Dillon wrote yet another Cinderella story with a surprise victory at Richmond Raceway just four weeks before the NASCAR&#8230;  
+
+<https://kickinthetires.net/other/longshots-most-likely-to-play-spoiler-before-nascar-cup-playoffs/>
+
+---
+
+## 2025 Kawasaki Versys 1100 S Revealed
+
+date: 2024-08-14, from: Cycle World News
+
+Kawasaki’s crossover gets updates for 2025, but don’t expect big changes. 
+
+<https://www.cycleworld.com/motorcycle-news/kawasaki-versys-1100-s-revealed/>
 
 ---
 

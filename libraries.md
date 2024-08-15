@@ -1,11 +1,34 @@
 ---
 title: libraries 2024.33
-updated: 2024-08-14 08:43:01
+updated: 2024-08-15 07:50:04
 ---
 
 # libraries 2024.33
 
-(date: 2024-08-14 08:43:01)
+(date: 2024-08-15 07:50:04)
+
+---
+
+## An Analysis of the Epistemological Foundations of Machine Learning
+
+date: 2024-08-15, from: SciELO in Perspective
+
+<p>Outlined here is a critical review of the logical-epistemic foundations of machine learning, focusing on the limitation of AI systems' autonomy in generating knowledge. It contrasts this possibility with the theoretical constraints posed by Chaitin's incompleteness theorem, which argues that AI cannot surpass human cognitive capacity. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://humanas.blog.scielo.org/en/2024/08/15/epistemological-foundations-of-machine-learning/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://humanas.blog.scielo.org/en/2024/08/15/epistemological-foundations-of-machine-learning/#new_tab">An Analysis of the Epistemological Foundations of Machine Learning</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://humanas.blog.scielo.org/en/2024/08/15/epistemological-foundations-of-machine-learning/#new_tab>
+
+---
+
+## Variability, Irregular Publisher Metadata, and the Ongoing Evolution of Databases Complicates Reproducibility in Bibliometrics Research
+
+date: 2024-08-15, from: Scholarly Kitchen
+
+<p>Bibliometric databases are essential tools for research and publishing strategy. But the variability in how they parse publisher metadata and their constant evolution makes it difficult, if not impossible, to exactly reproduce any given piece of research.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/08/15/variability-bad-publisher-metadata-and-the-ongoing-evolution-of-databases-makes-bibliometrics-research-reproducibility-difficult/">Variability, Irregular Publisher Metadata, and the Ongoing Evolution of Databases Complicates Reproducibility in Bibliometrics Research</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/08/15/variability-bad-publisher-metadata-and-the-ongoing-evolution-of-databases-makes-bibliometrics-research-reproducibility-difficult/>
 
 ---
 
@@ -45,7 +68,7 @@ date: 2024-08-14, from: Scholarly Kitchen
 
 date: 2024-08-13, from: Association of Research Libraries News
 
-<p>Last Updated on August 13, 2024, 2:05 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, August 13 &#124; Wednesday, August 14 Note: Day...</p>
+<p>Last Updated on August 14, 2024, 1:35 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, August 13 &#124; Wednesday, August 14 Note: Day...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-august-12-15/">Day in Review (August 12–14)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

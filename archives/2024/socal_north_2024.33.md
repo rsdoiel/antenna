@@ -1,11 +1,188 @@
 ---
 title: socal north 2024.33
-updated: 2024-08-14 08:42:55
+updated: 2024-08-15 07:49:58
 ---
 
 # socal north 2024.33
 
-(date: 2024-08-14 08:42:55)
+(date: 2024-08-15 07:49:58)
+
+---
+
+## La Nuevo Directora de la Escuela Vista Middle School en Panorama City da la Bienvenida al Superintendente del LAUSD
+
+date: 2024-08-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Back-to-School_SN_09-scaled-e1723691559822.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Back-to-School_SN_09-scaled-e1723691559822.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Back-to-School_SN_09-scaled-e1723691559822.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Back-to-School_SN_09-scaled-e1723691559822.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Back-to-School_SN_09-scaled-e1723691559822.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>En el primer día de regreso a clases en la Escuela Vista Middle School en Panorama City, el personal, los estudiantes y la nueva directora esperaban ansiosamente a un invitado [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/14/la-nuevo-directora-de-la-escuela-vista-middle-school-en-panorama-city-da-la-bienvenida-al-superintendente-del-lausd/">La Nuevo Directora de la Escuela Vista Middle School en Panorama City da la Bienvenida al Superintendente del LAUSD</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/14/la-nuevo-directora-de-la-escuela-vista-middle-school-en-panorama-city-da-la-bienvenida-al-superintendente-del-lausd/>
+
+---
+
+## Horóscopo
+
+date: 2024-08-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Cultivarás la creatividad conectando con lo que te inspira. Ya sea que lo hagas en una conversación, un [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/14/horoscopo-176/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/14/horoscopo-176/>
+
+---
+
+## EVENTOS Locales – Semana de 15 de agosto, 2024
+
+date: 2024-08-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Agosto 16 Fiesta de Barrio de Verano del Rey de la Vendimia de Los Ángeles Vintage King Los Angeles 2636 N Ontario St. Burbank 5 p.m. – 9 p.m. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/14/eventos-locales-semana-de-15-de-agosto-2024/">EVENTOS Locales &#8211; Semana de 15 de agosto, 2024</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/14/eventos-locales-semana-de-15-de-agosto-2024/>
+
+---
+
+## Nuevas Leyes Que Afectan la Educación Entran en Vigor al Comenzar el Año Escolar
+
+date: 2024-08-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Diana Lambert, Zaidee Stavely, Emma Gallegos, Mallika Seshadri y Amy DipierroEdsource Los estudiantes de California, incluidos los que están en la escuela primaria, tendrán un mejor acceso a la [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/14/nuevas-leyes-que-afectan-la-educacion-entran-en-vigor-al-comenzar-el-ano-escolar/">Nuevas Leyes Que Afectan la Educación Entran en Vigor al Comenzar el Año Escolar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/14/nuevas-leyes-que-afectan-la-educacion-entran-en-vigor-al-comenzar-el-ano-escolar/>
+
+---
+
+## Mantener a los Niños Seguros en la Escuela
+
+date: 2024-08-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Robina Suwol y su hijo Nicholas, de seis años, tenían un ritual cuando lo dejaban en la escuela: él se daba la vuelta y la saludaba con la mano mientras [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/14/mantener-a-los-ninos-seguros-en-la-escuela/">Mantener a los Niños Seguros en la Escuela</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/14/mantener-a-los-ninos-seguros-en-la-escuela/>
+
+---
+
+## ¡De Regreso a Clases! LAUSD Comienza las Clases del Año Escolar 2024-25
+
+date: 2024-08-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ÁNGELES (CNS) &#8211; El segundo distrito escolar más grande del país comenzó el año escolar 2024-25 el lunes 12 de agosto, con más de 400,000 estudiantes que regresaron a [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/14/de-regreso-a-clases-lausd-comienza-las-clases-del-ano-escolar-2024-25/">¡De Regreso a Clases! LAUSD Comienza las Clases del Año Escolar 2024-25</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/14/de-regreso-a-clases-lausd-comienza-las-clases-del-ano-escolar-2024-25/>
+
+---
+
+## Clínicas de Ayuda Financiera para Ayudar a los Futuros Estudiantes Universitarios
+
+date: 2024-08-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Los estudiantes de último año de preparatoria y universitarios recién graduados en el Valle de San Fernando y más allá, que no pudieron presentar su solicitud de ayuda financiera antes [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/14/clinicas-de-ayuda-financiera-para-ayudar-a-los-futuros-estudiantes-universitarios/">Clínicas de Ayuda Financiera para Ayudar a los Futuros Estudiantes Universitarios</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/14/clinicas-de-ayuda-financiera-para-ayudar-a-los-futuros-estudiantes-universitarios/>
+
+---
+
+## Harmony Project Comparte el “Poder de la Música” con Niños de Comunidades de Escasos Recursos
+
+date: 2024-08-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/San-Fernando-Sr-HS-Vocal-Students-Winter-Concert-Performance-scaled-e1723690404311.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/San-Fernando-Sr-HS-Vocal-Students-Winter-Concert-Performance-scaled-e1723690404311.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/San-Fernando-Sr-HS-Vocal-Students-Winter-Concert-Performance-scaled-e1723690404311.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/San-Fernando-Sr-HS-Vocal-Students-Winter-Concert-Performance-scaled-e1723690404311.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/San-Fernando-Sr-HS-Vocal-Students-Winter-Concert-Performance-scaled-e1723690404311.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Cuando los estudiantes son introducidos a la música, ya sea aprendiendo a tocar la flauta, cantando en un coro o uniéndose a una línea de tambores, los beneficios son muchos [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/14/harmony-project-comparte-el-poder-de-la-musica-con-ninos-de-comunidades-de-escasos-recursos/">Harmony Project Comparte el “Poder de la Música” con Niños de Comunidades de Escasos Recursos</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/14/harmony-project-comparte-el-poder-de-la-musica-con-ninos-de-comunidades-de-escasos-recursos/>
+
+---
+
+## Ladrones Atacan Flor de Lima Farms por Tercera Vez
+
+date: 2024-08-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="640" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Screenshot-2024-08-13-at-9.56.26 AM-e1723690183823.png?fit=1024%2C640&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Screenshot-2024-08-13-at-9.56.26 AM-e1723690183823.png?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Screenshot-2024-08-13-at-9.56.26 AM-e1723690183823.png?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Screenshot-2024-08-13-at-9.56.26 AM-e1723690183823.png?fit=1024%2C640&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Screenshot-2024-08-13-at-9.56.26 AM-e1723690183823.png?fit=1024%2C640&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los ladrones atacaron el negocio familiar local Flor De Lima Farms por tercera vez en poco más de una semana. “Nos sentimos devastados y frustrados”, dijo la gerente de Flor [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/14/ladrones-atacan-flor-de-lima-farms-por-tercera-vez/">Ladrones Atacan Flor de Lima Farms por Tercera Vez</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/14/ladrones-atacan-flor-de-lima-farms-por-tercera-vez/>
+
+---
+
+## San Fernando Community Health Center se Energizará con un Nuevo Proyecto de Instalación Solar
+
+date: 2024-08-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/20240425_091049-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/20240425_091049-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/20240425_091049-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/20240425_091049-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/20240425_091049-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/20240425_091049-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/20240425_091049-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/20240425_091049-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/20240425_091049-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/20240425_091049-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/20240425_091049-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/20240425_091049-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/20240425_091049-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/20240425_091049-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/20240425_091049-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/20240425_091049-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/20240425_091049-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El San Fernando Community Health Center (SFCHC, por sus siglas en inglés) recientemente “encendió el interruptor” en su proyecto de instalación solar de $298,000, convirtiéndose en el primer edificio propiedad [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/14/san-fernando-community-health-center-se-energizara-con-un-nuevo-proyecto-de-instalacion-solar/">San Fernando Community Health Center se Energizará con un Nuevo Proyecto de Instalación Solar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/14/san-fernando-community-health-center-se-energizara-con-un-nuevo-proyecto-de-instalacion-solar/>
+
+---
+
+## 2024 UCLA football position preview: Secondary
+
+date: 2024-08-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Inching closer to a new era for UCLA football in the Big Ten, Daily Bruin Sports will preview each of the Bruins&#8217; position groups prior to the season&#8217;s official start. 
+
+<https://dailybruin.com/2024/08/14/2024-ucla-football-position-preview-secondary/>
+
+---
+
+## UCLA women’s soccer prepares for regular season opener against Long Beach
+
+date: 2024-08-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+The countdown for the UCLA women&#8217;s soccer season opener is nearly over.
+Following a 3-0 victory over Loyola Marymount in an exhibition game Saturday, No. 11 UCLA will face Long Beach State in its regular season opener at George Allen Field on Thursday. 
+
+<https://dailybruin.com/2024/08/14/ucla-womens-soccer-prepares-for-regular-season-opener-against-long-beach/>
+
+---
+
+## LA temporarily halts demolition permits of low-income housing in Boyle Heights
+
+date: 2024-08-14, updated: 2024-08-15, from: The LAist
+
+The ordinance is aimed at protecting Boyle Heights residents from displacement and gentrification. 
+
+<https://laist.com/news/housing-homelessness/la-temporarily-halts-demolition-permits-of-low-income-housing-in-boyle-heights>
+
+---
+
+## USAC Recap – Aug. 6
+
+date: 2024-08-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its first meeting of the month on Aug. 6.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<https://dailybruin.com/2024/08/14/usac-recap-aug-6-2/>
+
+---
+
+## Court rules pro-Palestine protests cannot obstruct Jewish students’ accessibility
+
+date: 2024-08-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+A federal district court judge ruled Tuesday that UCLA cannot let pro-Palestine protesters obstruct Jewish students’ access to campus.
+While several universities have faced lawsuits alleging antisemitism in the wake of spring pro-Palestine protests, the preliminary injunction issued against UCLA is the first time a federal court has ruled against a university’s response to protests. 
+
+<https://dailybruin.com/2024/08/14/court-rules-pro-palestine-protests-cannot-obstruct-jewish-students-accessibility/>
 
 ---
 
@@ -173,9 +350,9 @@ date: 2024-08-12, from: California Native Plants Society
 
 ---
 
-## Is it your child's first week of school? Here's our parent guide to getting involved
+## LAUSD is massive. Here's your parent cheat sheet to getting involved and helping your student thrive
 
-date: 2024-08-12, updated: 2024-08-14, from: The LAist
+date: 2024-08-12, updated: 2024-08-15, from: The LAist
 
 There are all kinds of ways to engage with your child's education, whether you have only a little time or a lot. 
 
