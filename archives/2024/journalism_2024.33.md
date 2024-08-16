@@ -1,11 +1,21 @@
 ---
 title: journalism 2024.33
-updated: 2024-08-15 07:50:03
+updated: 2024-08-16 11:34:00
 ---
 
 # journalism 2024.33
 
-(date: 2024-08-15 07:50:03)
+(date: 2024-08-16 11:34:00)
+
+---
+
+## “AI reporters” are covering the events of the day in Northwest Arkansas
+
+date: 2024-08-15, from: Nieman Journalism Lab
+
+AI-generated local news has finally arrived. That is, it has arrived in Northwest Arkansas. OkayNWA, which plays on the acronym for the Ozarks region that includes Bentonville, Fayetteville and Springdale, first launched as an app last year. In recent months, it’s found a new batch of readers through its revamped website and social accounts on... 
+
+<https://www.niemanlab.org/2024/08/ai-reporters-are-covering-events-in-northwest-arkansas-for-okaynwa/>
 
 ---
 

@@ -1,11 +1,134 @@
 ---
 title: central coast 2024.33
-updated: 2024-08-15 07:50:01
+updated: 2024-08-16 11:33:58
 ---
 
 # central coast 2024.33
 
-(date: 2024-08-15 07:50:01)
+(date: 2024-08-16 11:33:58)
+
+---
+
+## Elings Concert Features Doublewide Kings and Other ‘Local Vibes’
+
+date: 2024-08-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara band The Doublewide Kings will headline an outdoor concert, 5 p.m. Friday, Sept. 27 at Elings Park for the second. The band is joined again this year by [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/elings-concert-features-doublewide-kings-and-other-local-groups/">Elings Concert Features Doublewide Kings and Other &#8216;Local Vibes&#8217;</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/elings-concert-features-doublewide-kings-and-other-local-groups/>
+
+---
+
+## Santa Ynez Valley Concert Series Opens 44th Season Sept. 27
+
+date: 2024-08-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Ynez Valley Concert Series has announced the performances for its 44th season to be presented at St. Mark’s in-the-Valley, 2901 Nojoqui Ave., Los Olivos. “Proudly, we present to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-ynez-valley-concert-series-opens-44th-season-sept-27/">Santa Ynez Valley Concert Series Opens 44th Season Sept. 27</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-ynez-valley-concert-series-opens-44th-season-sept-27/>
+
+---
+
+## Quest On to Find Performers for Entertainment on State Street
+
+date: 2024-08-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The fourth annual Masq(p)arade! performance progressive is seeking entries for the entertainment event that will take place at the Pianos on State painted pianos, 5:30-8 p.m. Friday, Oct. 18. Organizers [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/quest-on-to-find-performers-for-entertainment-on-state-street/">Quest On to Find Performers for Entertainment on State Street</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/quest-on-to-find-performers-for-entertainment-on-state-street/>
+
+---
+
+## AIDS Memorial Quilt Panels on Exhibit at Channing Peake Gallery
+
+date: 2024-08-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Quilt Project Gold Coast (QPGC), makers of the AIDS Memorial Quilt of the Gold Coast covering Santa Barbara and Ventura counties, will display 12 panels of local quilts in the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/aids-memorial-quilt-panels-on-exhibit-at-channing-peake-gallery/">AIDS Memorial Quilt Panels on Exhibit at Channing Peake Gallery</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/aids-memorial-quilt-panels-on-exhibit-at-channing-peake-gallery/>
+
+---
+
+## Santa Barbara International Film Festival Starts Filmmaker Fund
+
+date: 2024-08-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara International Film Festival (SBIFF) has announced the inaugural SBIFF Filmmaker Fund. SBIFF&#8217;s Filmmaker Fund is offered in partnership with The Veraison Fund in celebration of SBIFF’s 40th year [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-international-film-festival-starts-filmmaker-fund/">Santa Barbara International Film Festival Starts Filmmaker Fund</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-international-film-festival-starts-filmmaker-fund/>
+
+---
+
+## Bill Macfadyen: Montecito’s Biltmore Resort Adrift after Latest Pool Plans
+
+date: 2024-08-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-080924-Biltmore-2-RC-scaled-1.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Montecito’s Four Seasons Biltmore Resort is as pretty as a postcard these days." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-080924-Biltmore-2-RC-scaled-1.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-080924-Biltmore-2-RC-scaled-1.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-080924-Biltmore-2-RC-scaled-1.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-080924-Biltmore-2-RC-scaled-1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-080924-Biltmore-2-RC-scaled-1.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-080924-Biltmore-2-RC-scaled-1.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-080924-Biltmore-2-RC-scaled-1.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-080924-Biltmore-2-RC-scaled-1.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-080924-Biltmore-2-RC-scaled-1.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-080924-Biltmore-2-RC-scaled-1.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-080924-Biltmore-2-RC-scaled-1.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-080924-Biltmore-2-RC-scaled-1.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-080924-Biltmore-2-RC-scaled-1.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-080924-Biltmore-2-RC-scaled-1.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-080924-Biltmore-2-RC-scaled-1.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/1-080924-Biltmore-2-RC-scaled-1.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>From Olympic medalists to high school hopefuls, Santa Barbara County has a thriving sports scene. And Noozhawk’s dedicated team of sports journalists — sports editor Diego Sandoval, sports columnist Mark [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bill-macfadyen-montecitos-biltmore-resort-adrift-after-latest-pool-plans/">Bill Macfadyen: Montecito’s Biltmore Resort Adrift after Latest Pool Plans</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bill-macfadyen-montecitos-biltmore-resort-adrift-after-latest-pool-plans/>
+
+---
+
+## Marbled Godwit Race
+
+date: 2024-08-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071024-POD-Jean-Harfenist.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Marbled Godwit race on Montecito’s Miramar Beach." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071024-POD-Jean-Harfenist.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071024-POD-Jean-Harfenist.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071024-POD-Jean-Harfenist.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071024-POD-Jean-Harfenist.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071024-POD-Jean-Harfenist.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071024-POD-Jean-Harfenist.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071024-POD-Jean-Harfenist.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071024-POD-Jean-Harfenist.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071024-POD-Jean-Harfenist.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071024-POD-Jean-Harfenist.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071024-POD-Jean-Harfenist.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071024-POD-Jean-Harfenist.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/071024-POD-Jean-Harfenist.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/marbled-godwit-race/">Marbled Godwit Race</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/marbled-godwit-race/>
+
+---
+
+## Urzua Sister Act Returns to Bishop Diego Volleyball as Freshman Karina Joins Senior Standout Eliana on Squad
+
+date: 2024-08-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="736" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-Karina-Urzua.jpg?fit=1024%2C736&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-Karina-Urzua.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-Karina-Urzua.jpg?resize=300%2C216&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-Karina-Urzua.jpg?resize=1024%2C736&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-Karina-Urzua.jpg?resize=768%2C552&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-Karina-Urzua.jpg?resize=1536%2C1104&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-Karina-Urzua.jpg?resize=1200%2C863&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-Karina-Urzua.jpg?resize=1568%2C1127&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-Karina-Urzua.jpg?resize=400%2C288&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-Karina-Urzua.jpg?resize=706%2C508&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-Karina-Urzua.jpg?fit=1024%2C736&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Karina Urzua was in the 6th grade and watching from Bishop Diego bench as older sisters Alina, Siena and Eliana led the Cardinals’ girls volleyball team to a CIF-Southern Section [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/urzua-sister-act-returns-to-bishop-diego-volleyball-as-freshman-karina-joins-senior-standout-eliana-on-squad/">Urzua Sister Act Returns to Bishop Diego Volleyball as Freshman Karina Joins Senior Standout Eliana on Squad</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/urzua-sister-act-returns-to-bishop-diego-volleyball-as-freshman-karina-joins-senior-standout-eliana-on-squad/>
+
+---
+
+## BizHawk: The Cazita Merchant of Santa Barbara Puts Out Welcome Mat at New Showroom
+
+date: 2024-08-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-BizHawk-John-Leenhouwers-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="John Leenhouwers, owner of The Cazita Merchant, sells a variety of handmade houses, offices, bars and backyard retreats." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-BizHawk-John-Leenhouwers-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-BizHawk-John-Leenhouwers-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-BizHawk-John-Leenhouwers-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-BizHawk-John-Leenhouwers-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-BizHawk-John-Leenhouwers-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-BizHawk-John-Leenhouwers-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-BizHawk-John-Leenhouwers-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-BizHawk-John-Leenhouwers-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-BizHawk-John-Leenhouwers-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081524-BizHawk-John-Leenhouwers-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>As a kid, John Leenhouwers loved to build things. Forts. Tents. Little hideaways. &#8220;I always wanted a treehouse,&#8221; he said. &#8220;It just feels cozy to have a little space around [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-cazita-merchant-of-santa-barbara-puts-out-welcome-mat-for-new-showroom/">BizHawk: The Cazita Merchant of Santa Barbara Puts Out Welcome Mat at New Showroom</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bizhawk-cazita-merchant-of-santa-barbara-puts-out-welcome-mat-for-new-showroom/>
+
+---
+
+## Prep Girls Volleyball Roundup: Dos Pueblos Picks Up First Win of Season Over Oak Park
+
+date: 2024-08-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Dos Pueblos girls volleyball earned their first victory of the season in a four-set win over Oak Park on Thursday inside Sovine Gym, 20-25, 25-15, 26-24, 25-15. Jayden Jones was [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-volleyball-roundup-dos-pueblos-picks-up-first-win-of-season-over-oak-park/">Prep Girls Volleyball Roundup: Dos Pueblos Picks Up First Win of Season Over Oak Park</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-volleyball-roundup-dos-pueblos-picks-up-first-win-of-season-over-oak-park/>
 
 ---
 

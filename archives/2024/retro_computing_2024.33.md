@@ -1,11 +1,51 @@
 ---
 title: retro computing 2024.33
-updated: 2024-08-15 07:50:06
+updated: 2024-08-16 11:34:03
 ---
 
 # retro computing 2024.33
 
-(date: 2024-08-15 07:50:06)
+(date: 2024-08-16 11:34:03)
+
+---
+
+## 1997 Ebooks
+
+date: 2024-08-16, from: Digital Antiquarian
+
+Hi, folks&#8230; As I&#8217;ve already warned my patrons, I don&#8217;t have an article for you this week. I do, however, finally have the 1997 ebook for you, with all of my coverage for that year. I hope it will help to soften the blow. You can download it, along with all of the earlier volumes, [&#8230;] 
+
+<https://www.filfre.net/2024/08/1997-ebooks/>
+
+---
+
+## Rougol August 2024 meeting on monday
+
+date: 2024-08-16, from: Icon Bar, RISC OS News
+
+The August 2024 Rougol meeting is on Monday 19th August with Gerph talking 64 bits. 
+
+<http://www.iconbar.com/comments/rss/news2095.html>
+
+---
+
+## b.log 2024/08/15 - The Larder system is now functional, What's inside an XBOX?
+
+date: 2024-08-15, from: Richard Murray's blog
+
+The Larder system is now functional, What's inside an XBOX? 
+
+<https://heyrick.eu/blog/index.php?diary=20240815>
+
+---
+
+## Let’s talk 64-bit with Gerph – ROUGOL, 19th August
+
+date: 2024-08-15, from: RiscOS Story
+
+In the RISC OS world, we (should) all know that RISC OS runs on ARM processors in either 26 or 32-bit mode, depending what hardware (or emulator) you are running it on &#8211; and that we are now at the stage where 64-bit only ARM processors are becoming the norm, and RISC OS is unable to run on them. Right from its outset, the ARM was a 32-bit processor with 32-bit registers, one of which was the &#8216;program counter&#8217;, a special register used to determine the address in memory from&#8230; 
+
+<https://www.riscository.com/2024/lets-talk-64-bit-rougol-19th-august/>
 
 ---
 
@@ -96,6 +136,16 @@ date: 2024-08-12, from: Linux Magazine
 <p>Ubuntu users have grown accustomed to their favorite distribution shipping with a kernel that's not quite as up-to-date as other distros but that changes with 24.10.</p> 
 
 <http://www.linux-magazine.com/Online/News/Ubuntu-24.10-Will-Include-the-Latest-Linux-Kernel>
+
+---
+
+## Ubuntu 24.10 to Include the Latest Linux Kernel
+
+date: 2024-08-12, from: Linux Magazine
+
+<p>Ubuntu users have grown accustomed to their favorite distribution shipping with a kernel that's not quite as up-to-date as other distros but that changes with 24.10.</p> 
+
+<http://www.linux-magazine.com/Online/News/Ubuntu-24.10-to-Include-the-Latest-Linux-Kernel>
 
 ---
 

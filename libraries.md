@@ -1,11 +1,45 @@
 ---
 title: libraries 2024.33
-updated: 2024-08-15 07:50:04
+updated: 2024-08-16 11:34:01
 ---
 
 # libraries 2024.33
 
-(date: 2024-08-15 07:50:04)
+(date: 2024-08-16 11:34:01)
+
+---
+
+## July/August 2024
+
+date: 2024-08-16, from: Association of Research Libraries News
+
+<p>Last Updated on August 16, 2024, 11:00 am ET ARL Public Policy Briefing (July/August 2024) This issue includes: CARL Consultations with Canadian Federal Government Consultation to Develop National Infrastructure to...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/july-august-2024/">July/August 2024</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/july-august-2024/>
+
+---
+
+## Digital Archiving: Andy Warhol’s Lost Amiga Art Found
+
+date: 2024-08-16, from: Scholarly Kitchen
+
+<p>The floppy discs behind a long lost digital piece of art are recovered.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/08/16/digital-archiving-andy-warhols-lost-amiga-art-found/">Digital Archiving: Andy Warhol&#8217;s Lost Amiga Art Found</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/08/16/digital-archiving-andy-warhols-lost-amiga-art-found/>
+
+---
+
+## Commensal E. coli limits Salmonella gut invasion during inflammation by producing toxin-bound siderophores in a tonB-dependent manner
+
+date: 2024-08-16, from: ETH Zurich, recently added
+
+Cherrak, Yassine 
+
+<http://hdl.handle.net/20.500.11850/689222>
 
 ---
 

@@ -1,11 +1,117 @@
 ---
 title: food 2024.33
-updated: 2024-08-15 07:50:08
+updated: 2024-08-16 11:34:04
 ---
 
 # food 2024.33
 
-(date: 2024-08-15 07:50:08)
+(date: 2024-08-16 11:34:04)
+
+---
+
+## Mulligatawny: The King Of Spicy Fusion Food
+
+date: 2024-08-16, from: Pepper Scale
+
+With recipes dating back to the late 1700s, mulligatawny soup is a highly distinctive, spicy, one-pot dish and a grand meld of Indian and British cuisines. Plus, it’s a great way to make the very best of leftovers from a big, outstandingly good roast chicken. ... <p class="read-more-container"><a title="Mulligatawny: The King Of Spicy Fusion Food" class="read-more button" href="https://pepperscale.com/mulligatawny/#more-80499" aria-label="Read more about Mulligatawny: The King Of Spicy Fusion Food">Read more</a></p> 
+
+<https://pepperscale.com/mulligatawny/>
+
+---
+
+## Does Cooking Peppers Make Them Hotter? Fact Or Fiction
+
+date: 2024-08-16, from: Pepper Scale
+
+Hot peppers are, of course, known for their heat, but could cooking peppers make them spicier than you’d expect? Is it cooking fiction or cooking fact that cooking peppers make them hotter? Like many things, it’s a little bit fact and a little bit fiction. ... <p class="read-more-container"><a title="Does Cooking Peppers Make Them Hotter? Fact Or Fiction" class="read-more button" href="https://pepperscale.com/does-cooking-peppers-make-them-hotter/#more-86311" aria-label="Read more about Does Cooking Peppers Make Them Hotter? Fact Or Fiction">Read more</a></p> 
+
+<https://pepperscale.com/does-cooking-peppers-make-them-hotter/>
+
+---
+
+## Are You Overwatering Pepper Plants? Signs and Fixes
+
+date: 2024-08-16, from: Pepper Scale
+
+Pepper plants are fairly easy to grow. For this reason, these plants are often recommended as great starter plants for new gardeners. But even so, pepper plants run this risk of being overwatered if they&#8217;re not handled with appropriate care. It&#8217;s a common pepper problem. ... <p class="read-more-container"><a title="Are You Overwatering Pepper Plants? Signs and Fixes" class="read-more button" href="https://pepperscale.com/overwatering-pepper-plants/#more-86109" aria-label="Read more about Are You Overwatering Pepper Plants? Signs and Fixes">Read more</a></p> 
+
+<https://pepperscale.com/overwatering-pepper-plants/>
+
+---
+
+## Spicy Nacho Cheese
+
+date: 2024-08-16, from: Pepper Scale
+
+Need something quick for game day, summer fun, or a special occasion to spice up that snack plate? You can whip up a spicy nacho cheese sauce in just a few minutes. And it&#8217;s a crowd pleaser &#8211; a ton of creamy flavor and just ... <p class="read-more-container"><a title="Spicy Nacho Cheese" class="read-more button" href="https://pepperscale.com/spicy-nacho-cheese/#more-17903" aria-label="Read more about Spicy Nacho Cheese">Read more</a></p> 
+
+<https://pepperscale.com/spicy-nacho-cheese/>
+
+---
+
+## Chipotle And Roasted Garlic Mashed Potatoes
+
+date: 2024-08-16, from: Pepper Scale
+
+Mashed potatoes is one of our favorite sides to experiment with, particularly with fiery flavors are in play. Here our chipotle and roasted garlic mashed potatoes pair smoky heat, creamy texture, and a pungent bite for such a memorable eating experience. There&#8217;s so much going ... <p class="read-more-container"><a title="Chipotle And Roasted Garlic Mashed Potatoes" class="read-more button" href="https://pepperscale.com/chipotle-and-roasted-garlic-mashed-potatoes/#more-85814" aria-label="Read more about Chipotle And Roasted Garlic Mashed Potatoes">Read more</a></p> 
+
+<https://pepperscale.com/chipotle-and-roasted-garlic-mashed-potatoes/>
+
+---
+
+## Soy-Marinated Grilled Steak and More Recipes We Made This Week
+
+date: 2024-08-16, from: Bon Appetet
+
+Like pasta with no-cook zucchini sauce and green goddess potato salad. 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-august-2024>
+
+---
+
+## Anaheim Peppers
+
+date: 2024-08-16, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/anaheim-pepper/"><img title="Anaheim Pepper" src="https://www.isabeleats.com/wp-content/uploads/2020/02/anaheim-peppers-small-1-400x600.jpg" alt="Anaheim peppers on a table" width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	The Anaheim pepper is a mild chili pepper that gives a boost of flavor to any dish. Learn more about this versatile chile, then use it to give some dimension to dishes that are just a little bland.  What Are Anaheim Peppers? As the name suggests, Anaheim peppers are named after a city in California. [&#8230;] 
+
+<https://www.isabeleats.com/anaheim-pepper/>
+
+---
+
+## Tomato Pie Recipe
+
+date: 2024-08-16, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/tomato-pie/" title="Tomato Pie Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Southern-Tomato-Pie-Recipe-SLICE1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A thick slice of Southern Tomato Pie on a plate" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Southern-Tomato-Pie-Recipe-SLICE1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Southern-Tomato-Pie-Recipe-SLICE1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Southern-Tomato-Pie-Recipe-SLICE1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Southern-Tomato-Pie-Recipe-SLICE1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Southern-Tomato-Pie-Recipe-SLICE1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Southern-Tomato-Pie-Recipe-SLICE1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Southern-Tomato-Pie-Recipe-SLICE1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This southern tomato pie is loaded with garden fresh tomatoes and a mix of melty cheeses, basil, and creamy mayo for big down home flavor you will love.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/tomato-pie/">Tomato Pie Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<https://www.chilipeppermadness.com/recipes/tomato-pie/>
+
+---
+
+## I Need Exciting Lunch Ideas
+
+date: 2024-08-15, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris and Kendra help Kaitlin get out of her work from home lunch rut. 
+
+<https://www.bonappetit.com/story/i-need-exciting-lunch-ideas>
+
+---
+
+## Marley Spoon Review: A Meal Kit for People Who Like to Cook
+
+date: 2024-08-15, from: Bon Appetet
+
+It's our favorite all-around meal kit for a reason. 
+
+<https://www.bonappetit.com/story/marley-spoon-review>
 
 ---
 
@@ -201,7 +307,7 @@ date: 2024-08-14, from: Isebel Eats
 
 date: 2024-08-14, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/white-bbq-sauce/" title="White BBQ Sauce Recipe (aka Alabama White Sauce)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Alabama White Sauce Recipe (White BBQ Sauce)" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Different from any other bbq sauce, this white bbq sauce (aka Alabama white sauce) uses mayo as a base, along with vinegar, sugars and spices. A southern favorite!</p>
+<a href="https://www.chilipeppermadness.com/recipes/white-bbq-sauce/" title="White BBQ Sauce Recipe (aka Alabama White Sauce)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Alabama White Sauce Recipe (White BBQ Sauce)" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Alabama-White-BBQ-Sauce-Recipe1-JAR.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Different from any other bbq sauce, this white bbq sauce (aka Alabama white sauce) uses mayo as a base, along with vinegar, sugars and spices. A southern favorite!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/white-bbq-sauce/">White BBQ Sauce Recipe (aka Alabama White Sauce)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
@@ -229,7 +335,7 @@ Like one-skillet chicken pot pie, no-bake margarita pie, and our best tips for s
 
 ---
 
-## During a Tough Divorce, This Salad Helped Me Embrace Singlehood
+## During a Tough Divorce, This Salad Helped Me Embrace Single Life
 
 date: 2024-08-13, from: Bon Appetet
 

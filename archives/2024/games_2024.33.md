@@ -1,11 +1,111 @@
 ---
 title: games 2024.33
-updated: 2024-08-15 07:50:03
+updated: 2024-08-16 11:34:00
 ---
 
 # games 2024.33
 
-(date: 2024-08-15 07:50:03)
+(date: 2024-08-16 11:34:00)
+
+---
+
+## Hey look, Morrigan’s back in Dragon Age: The Veilguard
+
+date: 2024-08-16, updated: 2024-08-16, from: Polygon Website
+
+Dragon Age: The Veilguard’s new trailer is chock-full of details that my Tumblr mutuals keep screenshotting and dissecting. But those uninitiated with the deeper lore of the franchise might be wondering why everyone is specifically going feral for the woman who shapeshifts from the form of a giant crow. I mean, besides the fact that [&#8230;] 
+
+<https://www.polygon.com/gaming/441234/dragon-age-the-veilguard-morrigan-back-who>
+
+---
+
+## Fortnite Chapter 5 Season 4 medallion guide
+
+date: 2024-08-16, updated: 2024-08-16, from: Polygon Website
+
+Medallions are an item added in Fortnite as of Chapter 5 Season 1, but as seasons have progressed, they’ve been changed. These buffing items are tough to grab and get repeatedly marked on the map, whether it’s through an image of the emblem or a huge golden circle. Below, we detail what medallions do and [&#8230;] 
+
+<https://www.polygon.com/fortnite-guide/23988015/medallion-locations-chapter-5>
+
+---
+
+## Best lighting kits for gaming
+
+date: 2024-08-16, updated: 2024-08-15, from: Polygon Website
+
+Regardless of how you feel about RGB lighting, gaming and outrageously bright LED lights are practically synonymous. Whether you’re looking for a free-standing solution or just need some accent lighting for your next stream, we’ve rounded up some suggestions for lighting kits that’ll help you advertise your gamer credentials to the world. While some peripheral [&#8230;] 
+
+<https://www.polygon.com/what-to-buy/24216170/best-lighting-kits-rgb-gaming>
+
+---
+
+## How to get the Katalina ‘Mobile App Bonus Goals’ skin on Fortnite iOS and Android
+
+date: 2024-08-16, updated: 2024-08-16, from: Polygon Website
+
+The Katalina skin is a reward for those playing Fortnite natively on iOS and Android. Available through the “Mobile App Bonus Goals” series of quests, these are available for the duration of Chapter 5 Season 4 (which features a variety of Marvel-themed map and weapon pool and Battle Pass skins, including Doctor Doom). Though these [&#8230;] 
+
+<https://www.polygon.com/fortnite-guide/441148/mobile-app-bonus-goals-ios-android-katakina>
+
+---
+
+## Wolverine’s live-action mask had to contend with VFX and the fandom
+
+date: 2024-08-16, updated: 2024-08-16, from: Polygon Website
+
+Fans and filmmakers have been feuding over what Wolverine’s costume should look like in live action since the first X-Men movie ditched his bumblebee-colored comics costume in favor of black leather, then lampshaded the change with some only-for-fans character snark. (X-Men ’97 recently referenced that moment and flipped the script.) A deleted scene in 2013’s [&#8230;] 
+
+<https://www.polygon.com/marvel/440409/wolverines-live-action-mask-had-to-contend-with-vfx-and-the-fandom>
+
+---
+
+## What are the new map and weapon loot pool changes in Fortnite Chapter 5 Season 4?
+
+date: 2024-08-16, updated: 2024-08-16, from: Polygon Website
+
+Fortnite’s Chapter 5 Season 4 is called “Absolute Doom,” and as one would expect, there are a lot of Doctor Doom-themed map changes to the island. We’re still seeing some of the Greek mythology points of interest from earlier in the chapter, and the southwest part of the map still has the Mad Max-esque wasteland [&#8230;] 
+
+<https://www.polygon.com/fortnite-guide/441177/chapter-5-season-4-map-weapon-pool-vaulted-changes-c5s4>
+
+---
+
+## The 33 best movies on Netflix right now
+
+date: 2024-08-16, updated: 2024-08-16, from: Polygon Website
+
+What’s the best movie I can watch on Netflix? We’ve all asked ourselves this question, only to spend the next 15 minutes scrolling through the streaming service’s oddly specific genre menus and getting overwhelmed by the constantly shifting trend menus. Netflix’s huge catalog of movies continues to expand day by day, week by week, month [&#8230;] 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## Genshin Impact’s big Natlan update gets a late summer release date
+
+date: 2024-08-16, updated: 2024-08-16, from: Polygon Website
+
+More than four years after its 1.0 version release, developer Hoyoverse continues to expand on the world of Genshin Impact with new characters and sprawling regions. The developer released a trailer on Friday that announced the game’s big 5.0 update will be released on Aug. 28. The version, called &#8220;Flowers Resplendent on the Sun-Scorched Sojourn,” [&#8230;] 
+
+<https://www.polygon.com/genshin-impact/441116/natlan-update-release-date>
+
+---
+
+## When does Doctor Doom release in Fortnite Chapter 5 Season 4?
+
+date: 2024-08-16, updated: 2024-08-16, from: Polygon Website
+
+Doctor Doom, notorious Marvel supervillain and apparent paragon of vanity, is coming to Fortnite as part of the live-service shooter’s Marvel-themed season. Doctor Doom is part of the battle pass skins for Fortnite Chapter 5 Season 4, aptly titled “Absolute Doom.” As with the likes Geralt of Rivia, Solid Snake, and Indiana Jones from seasons [&#8230;] 
+
+<https://www.polygon.com/fortnite-guide/440881/doctor-doom-release-date-skin>
+
+---
+
+## Genshin Impact version 5.0 livestream codes
+
+date: 2024-08-16, updated: 2024-08-16, from: Polygon Website
+
+Hoyoverse just wrapped up the Genshin Impact version 5.0 preview livestream, showing off all sorts of details about the upcoming patch. Most importantly, there were several codes that award Primogems and other rewards shown during the stream. Our Genshin Impact 5.0 livestream code list provides you with the three stream codes for rewards and explains [&#8230;] 
+
+<https://www.polygon.com/genshin-impact-guides/440653/5-0-livestream-version-patch-codes-primogems-redeem>
 
 ---
 

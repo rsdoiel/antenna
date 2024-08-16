@@ -1,11 +1,143 @@
 ---
 title: writing 2024.33
-updated: 2024-08-15 07:50:03
+updated: 2024-08-16 11:34:00
 ---
 
 # writing 2024.33
 
-(date: 2024-08-15 07:50:03)
+(date: 2024-08-16 11:34:00)
+
+---
+
+## Featured Friday: Back to School
+
+date: 2024-08-16, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, it’s back to school! We look at stories that articulate the excitement and ease the pain of starting another academic year. Our collection includes: 10 Things I Hate About You by Karen McCullah Lutz [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-back-to-school">Featured Friday: Back to School</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/featured-friday-back-to-school>
+
+---
+
+## Clarion West 2025
+
+date: 2024-08-16, from: Locus Magazine
+
+<p> The Clarion West Summer Workshop has announced its 2025 instructors: Maurice Broaddus, Malka Older, Diana Pho, and Martha Wells.</p>
+<p>The six-week summer workshop will be held virtually from June 22- August 2, 2025 (they alternate virtual and in-person years). </p>
+<p>The workshop is moving forward &#8220;with a new format designed to give students more time to write, additional lecture time with instructors, and more experimentation with workshopping models.&#8221; Their &#8220;sneak peek&#8221;  <a href="https://locusmag.com/2024/08/clarion-west-2025/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/clarion-west-2025/>
+
+---
+
+## Colleen Mondor Reviews Remedial Magic by Melissa Marr
+
+date: 2024-08-16, from: Locus Magazine
+
+<p><strong>Remedial Magic</strong>, Melissa Marr (Bramble 978-1-250-88413-8, $17.99, tp, 336 pp) February 2024.</p>
+<p>Melissa Marr’s <strong>Remedial Magic</strong>, first in a series, is a romance novel involving multiple characters engaged in tricky relationships. Ellie is a librarian in a small town who lives with her aunt and en­gages in the rather unusual self-described hobby of researching missing persons cases. These are not people who are murdered by spouses or involved  <a href="https://locusmag.com/2024/08/colleen-mondor-reviews-remedial-magic-by/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/colleen-mondor-reviews-remedial-magic-by/>
+
+---
+
+## Mueller Resigns as Interim SFWA President
+
+date: 2024-08-16, from: Locus Magazine
+
+<p>Following the recent resignation of SFWA president Jeffe Kennedy&#8217;s, her vice-president and subsequent interim president Chelsea Mueller has resigned as well. </p>
+<p>It is with a heavy heart that I must resign my role on SFWA’s Board of Directors effective immediately. I love this organization, its mission, and most of all, its volunteers and members. My life has changed dramatically since I ran for the Vice President position earlier this year. <a href="https://locusmag.com/2024/08/mueller-resigns-as-interim-sfwa-president/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/mueller-resigns-as-interim-sfwa-president/>
+
+---
+
+## Photo Story: Sycamore Hill
+
+date: 2024-08-16, from: Locus Magazine
+
+<p>The Sycamore Hill Writers Conference returned to the Wildacres Retreat in North Carolina from June 15-21, 2024.</p>
+
+<p><strong>While you are here,</strong> please take a moment to support Locus with a one-time or recurring donation. We rely on reader donations to keep the magazine and site going, and would like to keep the site paywall free, but <strong>WE NEED YOUR FINANCIAL SUPPORT</strong> to continue quality coverage of the science fiction and  <a href="https://locusmag.com/2024/08/photo-story-sycamore-hill-2/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/photo-story-sycamore-hill-2/>
+
+---
+
+## Write On: 'Fallout' Co-Creator & Showrunner Graham Wagner
+
+date: 2024-08-15, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-fallout-co-createor-showrunner-graham-wagner" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Fallout%20Co-Createor%20%26%20Showrunner%20Graham%20Wagner.png" alt="Write On: 'Fallout' Co-Createor &amp; Showrunner Graham Wagner" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<div>
+  Almost all the characters [in 
+ <span>&nbsp;</span> 
+ <em>Fallout</em>, the TV show] are brand new… We really took the world of Fallout that had been built up and iterated upon by other video game writers over the years and we wanted to do our own version of it rather than retell any version that someone else has already done. Our attitude was like, ‘Okay, let's say this is a new Fallout game. What would it be?’ So, we took the world, the background, the themes of the games and the tone. It's a new story. New people,” says Graham Wagner, co-creator and showrunner of 
+ <span>&nbsp;</span> 
+ <em>Fallout</em> 
+ <span>&nbsp;</span>on Amazon Prime. 
+</div> 
+
+<https://blog.finaldraft.com/write-on-fallout-co-createor-showrunner-graham-wagner>
+
+---
+
+## Clickbait arguments in AI Lawsuits (will number 3 shock you?)
+
+date: 2024-08-15, from: Author's Union blog
+
+The booming AI industry has sparked heated debates over what AI developers are legally allowed to do. So far, we have learned from the US Copyright Office and courts that AI created works are not protectable, unless it is combined with human authorship.  As we monitor two dozen ongoing lawsuits and regulatory efforts that address [&#8230;] 
+
+<https://www.authorsalliance.org/2024/08/15/clickbait-arguments-in-ai-lawsuits-will-number-3-shock-you/>
+
+---
+
+## 2024 British Fantasy Awards Shortlist
+
+date: 2024-08-15, from: Locus Magazine
+
+<p>The British Fantasy Society (BFS) has announced the shortlist for the 2024 British Fantasy Awards:</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Fantasy Novel (the Robert Holdstock Award)</strong></p>
+<ul>
+<li><strong>At Eternity’s Gates</strong>, David Green (Eerie River)</li>
+<li><strong>Beyond Sundered Seas</strong>, David Green (Eerie River)</li>
+<li><strong>A Day of Fallen Night</strong>, Samantha Shannon (Bloomsbury)</li>
+<li><strong>Shigidi and the Brass Head of Obalufon</strong>, Wole Talabi (DAW)</li>
+<li><strong>Talonsister</strong>, Jen Williams (Titan)</li>
+</ul>
+<p><strong>Best Horror Novel (the August Derleth Award)</strong></p></div> <a href="https://locusmag.com/2024/08/2024-british-fantasy-awards-shortlist/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/2024-british-fantasy-awards-shortlist/>
+
+---
+
+## Gabino Iglesias Reviews This Skin Was Once Mine and Other Disturbances by Eric LaRocca
+
+date: 2024-08-15, from: Locus Magazine
+
+<p><strong>This Skin Was Once Mine and Other Distur­bances, </strong>Eric LaRocca (Titan 978-1-80336-664-7, $22.99, 240pp, hc) April 2024.</p>
+<p>Eric LaRocca has quickly established himself as one of strongest and most unique voices in contempo­rary horror fiction. <strong>This Skin Was Once Mine and Other Disturbances </strong>is emotionally charged and full of the kind of strange body horror LaRocca is known for. A collection of four novellas that aren’t afraid to explore humanity,  <a href="https://locusmag.com/2024/08/gabino-iglesias-reviews-this-skin-was-once-mine-and-other-disturbances-by-eric-larocca/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/gabino-iglesias-reviews-this-skin-was-once-mine-and-other-disturbances-by-eric-larocca/>
+
+---
+
+## People & Publishing Roundup, August 2024
+
+date: 2024-08-15, from: Locus Magazine
+
+<div></div>
+<div class="catheader"><strong>AWARDS</strong></div>
+
+<p><strong>JOSEPH COELHO </strong>won the 2024 Yoto Carnegie Medal for Writing for <strong>The Boy Lost in the Maze</strong>, illustrated by <strong>KATE MIL­NER </strong>(Otter-Barry). The award was presented by the Chartered Institute of Library and Informa­tion Professionals.</p>
+<p><strong>CLARE WINGER HARRIS </strong>(1891-1968) is the winner of the 2024 Cordwainer Smith Redis­covery Award, intended to bring attention to lesser-known SF and fantasy authors, announced at Readercon 33, held July 11-14, 2024, in  <a href="https://locusmag.com/2024/08/people-publishing-roundup-august-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/people-publishing-roundup-august-2024/>
 
 ---
 

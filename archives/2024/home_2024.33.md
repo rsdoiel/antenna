@@ -1,11 +1,119 @@
 ---
 title: home 2024.33
-updated: 2024-08-15 07:50:04
+updated: 2024-08-16 11:34:01
 ---
 
 # home 2024.33
 
-(date: 2024-08-15 07:50:04)
+(date: 2024-08-16 11:34:01)
+
+---
+
+## 8 Best Brick Patio Ideas
+
+date: 2024-08-16, from: Family Handyman Blog
+
+Find out how to transform your outdoor space with these brick patio ideas that are both elegant and extremely durable. 
+
+<https://www.familyhandyman.com/list/brick-patio-ideas/>
+
+---
+
+## Pro Secrets for a Durable DIY Asphalt Driveway
+
+date: 2024-08-16, from: Family Handyman Blog
+
+Replacing or adding a driveway? Learn the ingredients and techniques needed to make a high-quality, long-lasting asphalt driveway. 
+
+<https://www.familyhandyman.com/article/durable-asphalt-driveway-tips/>
+
+---
+
+## Friday Links: August 16, 2024
+
+date: 2024-08-16, from: California Native Plants Society
+
+<p>Can native plants make LA ready for the Olympics? Also find out about the soul of soil, giant saguaros, fern nectaries, and more!</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-august-16-2024-39931">Friday Links: August 16, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-august-16-2024-39931>
+
+---
+
+## California Peaches and Nectarines Arrive in Vietnam! New Export Market Opens for California Products
+
+date: 2024-08-16, from: Calfifornia Dept. Aggriculture blog
+
+Last month, the United States Department of Agriculture (USDA) announced that Vietnam had granted market access for California peaches and nectarines as part of ongoing trade negotiations. This week the first shipments from California arrived in Vietnam, along with promotional &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28054">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28054>
+
+---
+
+## When and How to Prune Apple Trees
+
+date: 2024-08-16, from: The Gardener's Path
+
+<p>An important part of growing apples is knowing why, when, and how to prune the trees to encourage healthy growth and the best fruit production. This is a yearly process that you need to take care of to ensure an abundant harvest. Learn all about when and how to prune apple trees in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit-trees/prune-apples/">When and How to Prune Apple Trees</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/fruit-trees/prune-apples/>
+
+---
+
+## How to Freeze Carrots (With or Without Blanching)
+
+date: 2024-08-16, from: Homestead and Chil
+
+<p>Are you looking for an easy way to preserve fresh carrots from the garden? Let me teach you how to freeze carrots - with or without blanching, in any shape you desire! Then they're ready and waiting to toss into future soup, stew, stir fry, baked goods, and more. We'll also cover tips on how to store, defrost and cook frozen carrots too.</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-freeze-carrots-with-or-without-blanching/">How to Freeze Carrots (With or Without Blanching)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<https://homesteadandchill.com/how-to-freeze-carrots-with-or-without-blanching/>
+
+---
+
+## How To Oil an Electric Motor
+
+date: 2024-08-15, from: Family Handyman Blog
+
+From bench grinders to ceiling fans, electric motors are lurking all around your home. Here's how to keep them oiled and running smoothly. 
+
+<https://www.familyhandyman.com/article/oiling-an-electric-motor/>
+
+---
+
+## A Tribute to the California Tomato, a modern miracle from the Sacramento Valley — from the Sacramento Bee
+
+date: 2024-08-15, from: Calfifornia Dept. Aggriculture blog
+
+By Tom Philp The list of California innovations is long and famous. The semiconductor, the internet, Hollywood, aerospace, renewable energy, Disneyland, Apple and, of recent, artificial intelligence. Yet one achievement has been horribly overlooked. Its genius did not come from &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28065">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28065>
+
+---
+
+## 5 Common Building Code Violations
+
+date: 2024-08-15, from: Family Handyman Blog
+
+Prevent accidents and make your home safer by learning about and fixing these code violations. Many are DIY-able. 
+
+<https://www.familyhandyman.com/list/most-common-building-code-violations/>
+
+---
+
+## Can You Grow Garlic From Seed?
+
+date: 2024-08-15, from: The Gardener's Path
+
+<p>Gardeners usually start garlic from cloves or maybe even the tiny little bulbils, but these plants also grow seeds inside the flower head. Can you use these seeds to propagate new plants? Yes and no. Confused? We'll explain how to propagate garlic from seed and why you might want to try in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/garlic-seeds/">Can You Grow Garlic From Seed?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/herbs/garlic-seeds/>
 
 ---
 

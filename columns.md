@@ -1,11 +1,356 @@
 ---
 title: columns 2024.33
-updated: 2024-08-15 07:50:01
+updated: 2024-08-16 11:33:58
 ---
 
 # columns 2024.33
 
-(date: 2024-08-15 07:50:01)
+(date: 2024-08-16 11:33:58)
+
+---
+
+##  Artificial General Intelligence Might Be Humanity&#8217;s Last Invention 
+
+date: 2024-08-16, updated: 2024-08-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/artificial-general-intelligence-might-be-humanitys-last-invention>
+
+---
+
+## 2024-08-16 JSON feed for indexing
+
+date: 2024-08-16, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-16-json-feed-for-indexing">2024-08-16 JSON feed for indexing</h1>
+
+<p>Recently, <a class="account" href="https://toot.cat/@dredmorbius" title="@dredmorbius@toot.cat">@dredmorbius</a> wrote about Google and search and posed the question:</p>
+
+<blockquote>
+<p>What if websites indexed their own content, and published a permuted index in a standard format, in a cache-and-forward model similar to how DNS works?</p>
+</blockquote>
+
+<p>A while ago I wondered about <a href="2023-03-07_A_vision_for_search">self-published indexes</a>. We have software to generate feeds. Why not software to generate indexes? Back then I proposed a JSON format. Today I finally took a look at <a href="https://www.jsonfeed.org/version/1.1/">JSON Feed</a>. I think it has everything we need.</p>
+
+<p>Take a look at the example for this site: <a href="/.well-known/search-feed.json.gz">.well-known/search-feed.json.gz</a>.
+This file has about 251KiB. The source material is 6740 Markdown pages, a total of about 21MiB.</p>
+
+<p>Using the <code>next_url</code> attribute, it would be possible to split this file up into chunks of 100 pages each, or a chunk per year, if the platform promises that older pages never change. This wouldn&rsquo;t work for my wiki, but perhaps it would for certain platforms. Somebody will have write up a best-practice on how to use HTTP headers to avoid downloading the whole file when nothing has changed. Sadly, <a href="https://datatracker.ietf.org/doc/html/rfc2616#section-13">section 13 of RFC 2616</a> is pretty convoluted. Basically something about the use of If-Modified-Since and ETags headers.</p>
+
+<p>I also find <a href="https://datatracker.ietf.org/doc/html/rfc5005">RFC 5005</a> to be very instructive in how to think about feeds for archiving.</p>
+
+<p><a class="account" href="https://neuromatch.social/@jonny" title="@jonny@neuromatch.social">@jonny</a> commented, saying that it was important to think about how search indexes were going to be used:</p>
+
+<blockquote>
+<p>so given that no single machine would or should store a whole index of the internet or even all your local internet, you can go a few ways with that, take the global quorum sensing path and you get a bigass global dht-like thing like ipfs. if instead you think there should be some structure, then you need proximity. is that social proximity where we swap indexes between people we know? or webring like proximity dependent on pages linking to each other and mutually indexing their neighborhood?</p>
+</blockquote>
+
+<p>It&rsquo;s an interesting question but I think I want incremental improvements to the current situation. So if a person has a website right now, on server, what&rsquo;s the simplest thing they can do so that they aren&rsquo;t drowned in crawlers and can still be found via search? That would be publishing an index, analogous to publishing a feed. Having more search engines (even if using legacy centralized architecture) would be better than what we have now. Not depending on crawlers would be better what we have now.</p>
+
+<p>In terms of decentralisation, I think I like community search engines like lieu. The idea is great: a community lists a bunch of sites. Lieu generates a web ring and crawls them to build an index of all the member sites. Instead of crawling, it could fetch the indexes. This would be much better than what it does right now, because right now, lieu uses colly for crawling and colly ignores robots.txt. This means that <a href="2024-06-22-lieu">lieu instantly bans itself when it visits my site</a> because it&rsquo;s not rate limited. It&rsquo;s just an implementation detail, but sadly I am biased. I&rsquo;ve been on a Butlerian Jihad since 2009 when I discover that <a href="2009-10-15_Network_Traffic">over 30% of all requests I serve from my sites are for machines, not humans</a>.</p>
+
+<p>It makes me want to raise my keyboard and scream &ldquo;CO₂ for the CO₂ god!!&rdquo;</p>
+
+<p>Somebody should draw a Hacker Elric doing that, standing on a mountain of electro-trash with the burnt and dead landscape of the post-apocalypse in the background.</p>
+
+<p>But back to the problem of indexing. Right now, search engine operators and their parasites, the search engine optimisation enterprises, crawls every single page including page histories, page diffs, and more, on my wikis. If every wanna-be search engine downloaded my index once a day, I would be saving resources. Whether that&rsquo;s a step in the right direction, I don&rsquo;t know.</p>
+
+<p><a class="account" href="https://neuromatch.social/@jonny" title="@jonny@neuromatch.social">@jonny</a> also said:</p>
+
+<blockquote>
+<p>i just think that the ability to fundamentally depart from the commercial structure of the web and all its brokenness doesn&rsquo;t happen gradually and esp. not with the server/client stack we have now</p>
+</blockquote>
+
+<p>Indeed, there must be another way. I just don&rsquo;t see it, right now. It&rsquo;s always hard to imagine a new world while you&rsquo;re still living in the old one. I&rsquo;m sure the solution will seem obvious to the next generation, looking back.</p>
+
+<p><a class="tag" href="/search/?q=%23Search">#Search</a> <a class="tag" href="/search/?q=%23Feeds">#Feeds</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p> 
+
+<https://alexschroeder.ch/view/2024-08-16-json-feed-for-indexes>
+
+---
+
+##  A website for taking selfies using NYC traffic cameras. &#8220;People can then... 
+
+date: 2024-08-16, updated: 2024-08-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045131-a-website-for-taking-self>
+
+---
+
+##  Jamelle Bouie: &#8220;If Democrats win control of Washington in November, they should... 
+
+date: 2024-08-16, updated: 2024-08-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045130-jamelle-bouie-if-democrat>
+
+---
+
+##  Hopefulness Is the Warrior Emotion 
+
+date: 2024-08-16, updated: 2024-08-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/hopefulness-is-the-warrior-emotion>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-16, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@davew/post/C-u0Ehfp2DJ">Feature requests</a> for Threads. 
+
+<http://scripting.com/2024/08/16.html#a151423>
+
+---
+
+##  Not a joke: The Onion is bringing back its monthly print newspaper.... 
+
+date: 2024-08-16, updated: 2024-08-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045129-not-a-joke-the-onion>
+
+---
+
+## San Sebastián, Spain
+
+date: 2024-08-16, from: mrusme blog
+
+"San Sebastián, officially known by the bilingual name Donostia / San
+Sebastián is a city and municipality located in the Basque Autonomous
+Community, Spain. It lies on the coast of the Bay of Biscay, 20 km (12 miles)
+from the France–Spain border. The capital city of the province of Gipuzkoa,
+the municipality's population is 188,102 as of 2021, with its metropolitan
+area reaching 436,500 in 2010. Locals call themselves donostiarra (singular),
+both in Spanish and Basque. It is also a part of Basque Eurocity Bayonne-San
+Sebastián." 
+
+<https://xn--gckvb8fzb.com/travel/spain/san-sebastian/>
+
+---
+
+##  Time&#8217;s 2024 Kid of the Year 
+
+date: 2024-08-16, updated: 2024-08-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/times-2024-kid-of-the-year>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-16, from: Dave Winer's Scripting News)
+
+One advantage of <a href="https://github.com/scripting/Scripting-News/issues?q=is%3Aissue+">using GitHub</a> for questions tied into a blog is that you get a great archive of all the questions you asked and how people answered or contributed, going back to <a href="https://github.com/scripting/Scripting-News/issues/1">2016</a>. 
+
+<http://scripting.com/2024/08/16.html#a135030>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-16, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/12/23/masto.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">BTW, I've started <a href="https://mastodon.social/@davew/112971977589934892">using Mastodon</a> in place of GitHub for comments on posts like the one <a href="http://scripting.com/2024/08/16.html#a133136">below</a>. GitHub has a better model for text with comments, supports full Markdown the way it was meant to work. I have an instance of Masto that I can use that supports Markdown but they do an <a href="https://imgs.scripting.com/2024/08/16/thisIsNotALegitWayToDisplayALink.png">unacceptable</a> rendering of links. <a href="https://social.masto.land/@dave/112971999302900967">Example post</a>. I want a simple, widely accepted easy place to comment, on the social web, not Discourse or GitHub, that isn't controlled by one vendor (so ActivityPub for now is probably the best approach) and supports plain old Markdown without any weird embellishments. I don't work in the Mastodon world, I'm already committed to the projects I'm doing. But we could really use something nice, designed to plug into blogs. This is a good use-case, and it's pretty close. 
+
+<http://scripting.com/2024/08/16.html#a134005>
+
+---
+
+##  Saw this in the bookstore yesterday: The Missing Thread: A Women&#8217;s History... 
+
+date: 2024-08-16, updated: 2024-08-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045126-saw-this-in-the-bookstore>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-16, from: Dave Winer's Scripting News)
+
+I wrote <a href="https://this.how/standards/">rules for standards-makers</a> and it caught on, and has been used by a few open source projects. I hope that the new <a href="https://this.how/newRulesForJournalists/">rules for journalism</a>, which is just getting started, will be similarly influential. If existing journalism is going to start working again, they're going to have to have some rules. Comments welcome on <a href="https://mastodon.social/@davew/112971977589934892">Mastodon</a>. 
+
+<http://scripting.com/2024/08/16.html#a133136>
+
+---
+
+##  To celebrate the 15th anniversary of Kind of Bloop: An 8-Bit Tribute... 
+
+date: 2024-08-16, updated: 2024-08-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045125-to-celebrate-the-15th-ann>
+
+---
+
+## New Windows IPv6 Zero-Click Vulnerability
+
+date: 2024-08-16, updated: 2024-08-15, from: Bruce Schneier blog
+
+<p>The press is <a href="https://www.bleepingcomputer.com/news/microsoft/zero-click-windows-tcp-ip-rce-impacts-all-systems-with-ipv6-enabled-patch-now/">reporting</a> a critical Windows vulnerability affecting IPv6.</p>
+<blockquote><p>As Microsoft explained in its Tuesday advisory, unauthenticated attackers can exploit the flaw remotely in low-complexity attacks by repeatedly sending IPv6 packets that include specially crafted packets.</p>
+<p>Microsoft also shared its exploitability assessment for this critical vulnerability, tagging it with an &#8220;exploitation more likely&#8221; label, which means that threat actors could create exploit code to &#8220;consistently exploit the flaw in attacks.&#8221;</p></blockquote>
+<p>Details are being withheld at the moment. Microsoft strongly recommends ...</p> 
+
+<https://www.schneier.com/blog/archives/2024/08/new-windows-ipv6-zero-click-vulnerability.html>
+
+---
+
+## The real fix for Social Security
+
+date: 2024-08-16, from: Robert Reich's blog
+
+Trump and his Republicans want Social Security to run out of money. They don&#8217;t want the rich &#8212; their patrons &#8212; to pay their fair share. 
+
+<https://robertreich.substack.com/p/the-real-fix-for-social-security>
+
+---
+
+## August 15, 2024 
+
+date: 2024-08-16, from: Heather Cox Richardson blog
+
+In 2021 a study by the RAND Corporation found that drug prices average 2.56 times higher in the U.S. 
+
+<https://heathercoxrichardson.substack.com/p/august-15-2024>
+
+---
+
+## A Better Way to Do News
+
+date: 2024-08-16, from: Doc Searls (at Harvard), New Old Blog
+
+Twelfth in the News Commons series Last week at DWeb Camp, I gave a talk titled The Future, Present, and Past of News—and Why Archives Anchor It All. Here&#8217;s a frame from a phone video: DWeb Camp is a wonderful gathering, hosted by the Internet Archive at Camp Navarro in Northern California. In this post I&#8217;ll [&#8230;] 
+
+<https://doc.searls.com/2024/08/15/better-way-to-do-news/>
+
+---
+
+## Reckoning: Part 4 — The Way Out
+
+date: 2024-08-16, updated: 2024-08-16, from: Alex Russel's blog
+
+ 
+
+<https://infrequently.org/2024/08/the-way-out/>
+
+---
+
+## ChatGPT app for Mac
+
+date: 2024-08-15, from: Doc Searls (at Harvard), New Old Blog
+
+So I went to the ChatGPT website to ask a question and got hit with a popover promo for the new Mac app version. So I got it. Here is the dialog that followed my first question (which is boring, so we&#8217;ll skip it), copied over from the ChatGPT website, where I went after this [&#8230;] 
+
+<https://doc.searls.com/2024/08/15/chatgpt-app-for-mac/>
+
+---
+
+## Friday 16 August, 2024
+
+date: 2024-08-15, from: John Naughton's online diary
+
+The Amphitheatre next door Arles, 2024 Quote of the Day ”S&#38;P Global is paying Accenture to train all 35k staff in ‘generative AI’. I used to joke that if you say ‘Digital Transformation’ three times, an Accenture partner will appear &#8230; <a href="https://memex.naughtons.org/friday-16-august-2024/39754/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-16-august-2024/39754/>
+
+---
+
+## Don’t Believe Donald Trump
+
+date: 2024-08-15, from: Dan Rather's Steady
+
+New videos show Project 2025 is alive and kicking 
+
+<https://steady.substack.com/p/dont-believe-donald-trump>
+
+---
+
+## Musk is just getting started
+
+date: 2024-08-15, from: Dave Winer's Scripting News
+
+<p>Podcast: <a href="https://s3.amazonaws.com/scripting.com/2024/08/15/elonMuskIsJustGettingStartedWithTwitter.m4a">11 minutes</a>.</p>
+<p>I see happy talk all over the place that Twitter is done, Musk is killing it, blah blah blah. </p>
+<p>It's <a href="http://scripting.com/2024/08/11/bullshit2.m4a">bullshit</a>. In the next few months Twitter is going to morph into the political system that Barack Obama could have and should have built.</p>
+<p>It turns out creating a president of the United States is worth a lot of money. Trump is inept at squeezing the money out of it, he's a loudmouth who proved one thing, Twitter is all you needed in 2016 to get elected president. That's going to change, as competition shows up (Zuckerberg, for example, with Threads). </p>
+<p>They know, even if you don't -- that it can be very profitable to own the presidency. </p>
+<p>If Trump loses, Musk won't get it on this round, but eventually he will own a big piece of the president, and then he will move his deals with SpaceX and Tesla up a notch.</p>
+<p>Listen to the <a href="https://s3.amazonaws.com/scripting.com/2024/08/15/elonMuskIsJustGettingStartedWithTwitter.m4a">podcast</a>, it's only 11 minutes. You probably haven't considered this angle, but I promise you he's moving, and he's mostly unopposed right now. He's not the <a href="https://www.merriam-webster.com/dictionary/nudnik">nudnick</a> so many people seem to think he is. </p>
+ 
+
+<http://scripting.com/2024/08/15/214026.html?title=muskIsJustGettingStarted>
+
+---
+
+## Mass Deportation Now
+
+date: 2024-08-15, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/08/15/massDeportationNow.png"></center>This was <a href="https://slate.com/news-and-politics/2024/07/supreme-court-trump-2025-mass-deportation-plan.html">promised</a> at the Republican convention in July. </div></p>
+ 
+
+<http://scripting.com/2024/08/15/203149.html?title=massDeportationNow>
+
+---
+
+## The Turing Test and Our Shifting Conceptions of Intelligence
+
+date: 2024-08-15, from: Melanie Mitchell, AI Guide for Human Thinking
+
+Has the famous Turing Test been passed? 
+
+<https://aiguide.substack.com/p/the-turing-test-and-our-shifting>
+
+---
+
+## The Trouble With Big Numbers
+
+date: 2024-08-15, updated: 2024-08-16, from: Ron Garret
+
+This is part of my series on the scientific method, but it's a bit of a tangent, an interlude if you will, so I'm not giving it a number.&nbsp; As you will see, that will turn out to be metaphorically significant.&nbsp; I'm writing this because my muse Publius raised the problem of infinity in comments on earlier installments in this series, and so I thought it would be worth discussing why these 
+
+<https://blog.rongarret.info/2024/08/the-trouble-with-big-numbers.html>
+
+---
+
+## August 14, 2024
+
+date: 2024-08-15, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-14-2024-fc3>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-15, from: Dave Winer's Scripting News)
+
+August 15, 2004: My <a href="https://shownotes.scripting.com/podcast0/2024/08/15/augustCoffeeNotes.html">audio blog post</a> from NYC, from my <a href="http://scripting.com/podcast0/rss.xml">Podcast0 feed</a>. Had just listened to an Adam Curry podcast and one from the Gillmor Gang. Played a bit of music, described how a podcatcher would work, pretty close to the way they work today. Shortly after the feature would be in Radio UserLand. It was the only episode I did in August 2004. The next one is on September 1 and there are a total of nine shows in September, including the first <a href="http://secrets.scripting.com/">Trade Secrets</a> which is a podcast Adam and I did together. Here's the <a href="http://scripting.com/2004/08.html">archive</a> for this blog in August 2004. 
+
+<http://scripting.com/2024/08/15.html#a165716>
+
+---
+
+## NIST Releases First Post-Quantum Encryption Algorithms
+
+date: 2024-08-15, updated: 2024-08-15, from: Bruce Schneier blog
+
+<p>From the <a href="https://www.govinfo.gov/content/pkg/FR-2024-08-14/pdf/2024-17956.pdf">Federal Register</a>:</p>
+<blockquote><p>After three rounds of evaluation and analysis, NIST selected four algorithms it will standardize as a result of the PQC Standardization Process. The public-key encapsulation mechanism selected was CRYSTALS-KYBER, along with three digital signature schemes: CRYSTALS-Dilithium, FALCON, and SPHINCS+.</p></blockquote>
+<p>These algorithms are part of three NIST standards that have been finalized:</p>
+<ul>
+<li>FIPS 203: <a href="https://csrc.nist.gov/pubs/fips/203/final">Module-Lattice-Based Key-Encapsulation Mechanism Standard</a></li>
+<li>FIPS 204: <a href="https://csrc.nist.gov/pubs/fips/204/final">Module-Lattice-Based Digital Signature Standard</a></li>
+<li>FIPS 205: <a href="https://csrc.nist.gov/pubs/fips/203/final">Stateless Hash-Based Digital Signature Standard...</a></li></ul> 
+
+<https://www.schneier.com/blog/archives/2024/08/nist-releases-first-post-quantum-encryption-algorithms.html>
 
 ---
 

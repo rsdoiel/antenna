@@ -1,11 +1,83 @@
 ---
 title: health 2024.33
-updated: 2024-08-15 07:50:07
+updated: 2024-08-16 11:34:03
 ---
 
 # health 2024.33
 
-(date: 2024-08-15 07:50:07)
+(date: 2024-08-16 11:34:03)
+
+---
+
+## Can Too Much Protein Cause Kidney Stones?
+
+date: 2024-08-16, from: The Kidney Dietitian
+
+<p>Did your urologist tell you to follow a low protein diet? Or, perhaps you&#8217;ve read that protein is related to kidney stones. This is true! In susceptible people, too much protein can cause kidney stones. Read on to learn how too much protein can cause kidney stones, explore the various types of protein, and find [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/can-too-much-protein-cause-kidney-stones/">Can Too Much Protein Cause Kidney Stones?</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<https://www.thekidneydietitian.org/can-too-much-protein-cause-kidney-stones/>
+
+---
+
+## Analysis of the correlation between cervical HPV infection, cervical lesions and vaginal microecology
+
+date: 2024-08-16, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundVaginal microbiota is involved in human papillomavirus (HPV) infection and cervical cancer (CC) progression, and the specific changes in vaginal microbial composition during this process remains uncertain.ObjectiveThis study aimed to observe the changes in the specific composition of vaginal microorganisms in different cervical lesions and identify biomarkers at different stages of lesions.MethodsIn this study we used the illumina high-throughput gene sequencing technology to determine the V4 region of 16SrRNA and observed the vaginal microbial composition in different cervical lesions.ResultsThe vaginal microbiota of patients with high-risk HPV infection and cervical lesions is significantly different from that of the normal population, but there is no significant difference in the richness of vaginal microbes. The diversity of vaginal species in CC patients is higher than that in high-risk HPV infection or CIN patients. The main manifestation is an increase in the diversity of vaginal microbes, a decrease in the relative abundance of cyanobacteria and Lactobacillus, and an increase in the relative abundance of dialister, peptonephila and other miscellaneous bacteria. There are characteristic vaginal biomarker in normal women, high risk HPV patients and CC patients. In detail, the biomarker in the normal group was varibaculum, the biomarker in the high-risk HPV group was saccharopolyspora, the biomarker of the CC group was the Proteobacteria, Corynebacterium, Coprococcus, Peptococcus and Ruminococcus.ConclusionsThe study indicated that the compositions of vaginal microbes in different cervical lesions is different. The vaginal microbial composition has a certain diagnostic effect on healthy women, patients with high-risk HPV infection and cervical lesions. These microbes may serve as potential biomarkers for CC. It also provided an effective way for the treatment of HPV infections and cervical lesions. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1405789>
+
+---
+
+## Diagnostic and prognostic potential of the intra-tumoral microbiota profile in HPV-independent endocervical adenocarcinoma
+
+date: 2024-08-16, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundMicrobial community dynamics have been involved in numerous diseases, including cancer. The diversity of intertumoral microbiota in human papillomavirus independent endocervical adenocarcinoma (HPVI ECA) is not well-characterized.ObjectiveOur objective is to delineate the intratumoral microbiota profile in HPVI ECA and investigate its potential influence on oncogenesis.MethodsWe analyzed 45 HPVI ECA cases, comprising 36 gastric-type ECA (GEA) and 9 clear cell carcinomas (CCC). We compared the microbial composition within cancerous and adjacent noncancerous tissue samples using 5R-16S ribosomal DNA sequencing. Further, we investigated the correlation between specific microbes and clinical-pathological metrics as well as patient outcomes.ResultsOur findings demonstrate notable differences in the microbial spectra between cancerous and adjacent noncancerous tissues. Amongst HPVI ECA subtypes, GEAs exhibit more microbial variations compared to CCCs. Using the Random Forest algorithm, we identified two distinct microbial signatures that could act as predictive biomarkers for HPVI ECA and differentiate between GEA and CCC. Varied microbial abundances was related to clinical characteristics of HPVI ECA patients. In addition, high levels of Micrococcus and low levels of unknown genus75 from the Comamonadaceae family were associated with poorer outcomes in HPVI ECA patients. Similarly, an abundance of Microbacterium correlated with reduced overall survival (OS), and a high presence of Streptococcaceae family microbes was linked to reduced recurrence-free survival (RFS) in GEA patients. Intriguingly, a high abundance of Micrococcus was also associated with a worse OS in GEA patients.ConclusionThe study reveals distinct microbial signatures in HPVI ECA, which have potential as biomarkers for disease prognosis. The correlation between these tumor-associated microbiota features and clinicopathological characteristics underscores the possibility of microbiome-based interventions. Our research provides a foundation for more in-depth studies into the cervical microbiome’s role in HPVI ECA. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1440017>
+
+---
+
+## Epidemiological characteristics of mycoplasma pneumoniae in hospitalized children before, during, and after COVID-19 pandemic restrictions in Chongqing, China
+
+date: 2024-08-16, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundMycoplasma pneumoniae (MP) is a significant cause of community-acquired pneumonia with high macrolide resistance rates. Various COVID-19 pandemic restrictions have impacted the prevalence of MP.ObjectiveTo assess the changes in the pattern of MP infections among children before, during, and after the COVID-19 pandemic.MethodsA total of 36685 enrolled patients, aged 0-18 years, diagnosed with pneumonia and admitted to Children’s Hospital of Chongqing Medical University from January 2019 to December 2023, were retrospectively reviewed in this study. The epidemiological characteristics of pediatric MP infection were analyzed.ResultsAmong 36685 patients, 7610 (20.74%) tested positive for MP. The highest positive rate was observed among children aged over 6 years (55.06%). There was no gender disparity in MP infection across the three phases of the COVID-19 pandemic. Hospital stays were longest for children during the COVID-19 pandemic (P <0.001). MP infection was most prevalent in the summer (29.64%). The lowest positive rate was observed during the pandemic, with the highest rate found after easing the measures across all age groups (P <0.001). There was a surge in the positive rate of MP in the third year after the COVID-19 pandemic. Regression analyses demonstrated a shift in the age range susceptible to MP infection, with children aged 3.8 to 13.5 years post-pandemic compared to the pre-pandemic range of 5.3 to 15.5 years old. Additionally, the average macrolide resistance rate was 79.84%. We observed a higher resistance rate during the pandemic than in the pre- and post-pandemic phases (P <0.001).ConclusionThe restrictive measures implemented during the COVID-19 pandemic have influenced the spread of MP to some extent and altered demographic and clinical characteristics, such as age, age group, season, length of stay, and macrolide resistance. We recommend continuous surveillance of the evolving epidemiological characteristics of MP infection in the post-pandemic period when restrictions are no longer necessary. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1424554>
+
+---
+
+## Circulation of new lineages of RSV-A and RSV-B in Kuwait shows high diversity in the N- and O-linked glycosylation sites in the G protein between 2020 and 2022
+
+date: 2024-08-16, from: Frontiers in Cellular and Infection Microbiology
+
+The human respiratory syncytial virus (RSV) is a significant health concern, particularly for infants, young children, and the elderly. This virus is known to evolve continuously due to environmental factors and herd immunity. In light of this, our study aimed to analyze the genetic variability of the G protein in RSV-A and RSV-B genotypes in Kuwait from 2020 to 2022. Between January 2020 and September 2022, we collected 490 respiratory samples from hospitalized patients with acute respiratory tract infections. These samples were tested and confirmed positive for RSV using multiplex Real-Time PCR. Subsequently, the samples underwent nucleic acid sequencing using the advanced Nanopore sequencing technology to analyze the full-length G gene. Sequence analysis showed that 64 isolates (76%) were RSV-A, and 20 isolates (24%) were RSV-B. The G genes of RSV-A belonged to genotype GA2.3.5, while all the RSV-B genotypes belonged to GB5.0.5a. New lineages and sub-lineages of RSV-A and RSV-B were detected, indicating the circulation of new strains in Kuwait. Many unique and new amino acid changes, including insertions, were found in the G proteins of Kuwaiti isolates, with the highest variability in the second hypervariable region. An increased number of N and O-linked glycosylation sites were also identified in the G protein, which could speculate to alter the antigenicity of RSV. The identified changes in the G protein of RSV-A and RSV-B genotypes might result from immune pressure and could affect the antigenic characteristics of circulating strains in Kuwait. This could potentially lead to new RSV variants that can evade the immune response. Our in-depth analysis of the G proteins of both RSV-A and RSV-B could aid in the development of more potent treatments and vaccines. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1445115>
+
+---
+
+## The effects of Qingchang Ligan formula on hepatic encephalopathy in mouse model: results from gut microbiome-metabolomics analysis
+
+date: 2024-08-16, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundHepatic encephalopathy (HE) is a neurological disorder resulting from advanced liver injury. HE has a high mortality rate and poor prognosis. The pathogenesis of HE is still unclear, which has led to the lack of a satisfactory specific treatment method. There is increasing evidence that the intestinal flora affects the communication between the gut and the brain in the pathogenesis of HE. Adjusting the intestinal flora has had a beneficial effect on HE in recent studies, and the Qingchang Ligan formula (QCLG) has been shown in previous studies to regulate intestinal flora and metabolites. In this study, we established a thioacetamide-induced HE mouse model to evaluate the protective effect of QCLG on HE and explore its potential mechanism, which also demonstrated that intestinal flora dysbiosis is involved in the pathogenesis of HE.MethodsMice were intraperitoneally injected with thioacetamide (TAA, 150 mg/kg) to induce HE. Additionally, they were orally administered Qingchang Ligan Formula (QCLG) at a dose of 6.725 g/kg·d for seven days, while control mice received an equal volume of saline via gavage. Subsequently, samples were subjected to 16S ribosomal ribonucleic acid (rRNA) gene sequencing, high-performance liquid chromatography-mass spectrometry (LC-MS), and RNA-sequencing (RNA-seq) analysis.ResultQCLG improved weight loss, cognitive impairment, neurological function scores, blood ammonia, and brain gene expression of interleukin-6 (TNF-α), Interleukin-1β (IL-1β), and interleukin-6 (IL-6) induced by HE. Moreover, QCLG increased the levels of liver function indicators, including alanine aminotransferase (ALT), aspartate aminotransferase (AST), and serum TNF-α, IL-1β, and IL-6. 16S RNA sequencing revealed increased Oscillibacter, Colidextribacter, and Helicobacter in TAA-induced mouse fecal samples. Also, the abundance of Bifidobacterium decreases TAA-induced mouse fecal samples. In contrast, QCLG treatment significantly restored the gut microbial community. Metabolomics indicated significant differences in some metabolites among the normal control, treatment, and model groups, including 5-methoxytryptophan, Daidzein, Stercobilin, and Plumieride (PLU).ConclusionQCLG can alleviate neuroinflammation and prevent HE caused by liver injury by regulating intestinal flora in mouse models. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1381209>
+
+---
+
+## Distribution characteristics of human herpes viruses in the lower respiratory tract and their impact on 30-day mortality in community-acquired pneumonia patients
+
+date: 2024-08-16, from: Frontiers in Cellular and Infection Microbiology
+
+Human herpes viruses (HHVs) are commonly detected in community-acquired pneumonia (CAP) patients, particularly those with complex complications, attracting increased attention from clinical practitioners. However, the significance of detecting HHVs in bronchoalveolar lavage fluid (BALF) with CAP patients is still unclear. This study retrospectively analyzed BALF samples from 64 CAP patients at the Kunming Third People’s Hospital between August 2021 and December 2023. Metagenomic next generation sequencing (mNGS) was conducted on BALF samples during CAP onset. Multivariate Cox regression models were used to identify independent risk factors for 30-day all-cause mortality in CAP. HHVs were found in 84.4% of CAP patients, which were the most common pathogens (45.1%), followed by bacteria (30.2%) and fungi (11.5%). Bacterial-viral co-infections were most common, occurring in 39 patients. Notably, there was no significant difference in HHV presence between severe and non-severe CAP patients (EBV: P = 0.431, CMV: P = 0.825), except for HHV-7 (P = 0.025). In addition, there was no significant difference in the 30-day mortality between HHV positive and HHV negative groups (P = 0.470), as well as between the HHV-7 positive and HHV-7 negative groups (P = 0.910). However, neither HHVs nor HHV-7 was independent risk factors for 30-day mortality in CAP patients (HHVs: HR 1.171, P = 0.888; HHV-7: HR 1.947, P = 0.382). In summary, among the prevalent presence of multiple HHVs, EBV and CMV were the most prevalent in CAP patients. Patients with sCAP were more susceptible to HHV-7 than those with non-sCAP. These results provide valuable insights for clinicians in guiding appropriate interventions for CAP treatment. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1436509>
 
 ---
 

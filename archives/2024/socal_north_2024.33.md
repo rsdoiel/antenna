@@ -1,11 +1,117 @@
 ---
 title: socal north 2024.33
-updated: 2024-08-15 07:49:58
+updated: 2024-08-16 11:33:55
 ---
 
 # socal north 2024.33
 
-(date: 2024-08-15 07:49:58)
+(date: 2024-08-16 11:33:55)
+
+---
+
+## Construction to Begin on Vista Canyon Bridge in Canyon Country
+
+date: 2024-08-16, from: City of Santa Clarita
+
+<p>The City of Santa Clarita is announcing the start of construction on the&#160;Vista Canyon Bridge and Road Improvements Project&#160;in Canyon Country. This project is an integral component of the Santa Clarita 2025 Strategic Plan, focused on building and creating community.&#160; The&#160;Vista Canyon Bridge and Road Improvements Project&#160;includes the construction of a two-lane bridge approximately 780 [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/08/16/construction-to-begin-on-vista-canyon-bridge-in-canyon-country/">Construction to Begin on Vista Canyon Bridge in Canyon Country</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/08/16/construction-to-begin-on-vista-canyon-bridge-in-canyon-country/>
+
+---
+
+## Sheriff’s Log: Aug. 8 to Aug. 14, 2024
+
+date: 2024-08-16, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Aug. 8 to Aug. 14, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<https://thecatalinaislander.com/sheriffs-log-aug-8-to-aug-14-2024/>
+
+---
+
+## Margaret G. Hall Scholarship Golf Tournament returns
+
+date: 2024-08-16, from: Catalina Islander
+
+For the past 17 years the Hall family has organized a golf tournament at the Catalina Island Golf Course to raise money for a scholarship given to a senior basketball player who plans on continuing their education in either college or a trade school. Tournament organizers announced that this year’s recipient is Darren Hall. Darren [&#8230;] 
+
+<https://thecatalinaislander.com/margaret-g-hall-scholarship-golf-tournament-returns/>
+
+---
+
+## Friday Links: August 16, 2024
+
+date: 2024-08-16, from: California Native Plants Society
+
+<p>Can native plants make LA ready for the Olympics? Also find out about the soul of soil, giant saguaros, fern nectaries, and more!</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-august-16-2024-39931">Friday Links: August 16, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-august-16-2024-39931>
+
+---
+
+## Summer Hobbies
+
+date: 2024-08-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Summer Hobbies 
+
+<https://dailybruin.com/2024/08/16/summer-hobbies/>
+
+---
+
+## Think the LA Aqueduct was the city’s first water system? Nope, it’s the Zanja Madre
+
+date: 2024-08-16, updated: 2024-08-16, from: The LAist
+
+The zanja system of pipes and trenches was first built in 1781, and remnants can still be seen in the city today. 
+
+<https://laist.com/news/la-history/los-angeles-water-zanja-ditch-trench>
+
+---
+
+## Bond voyage: Supporters yank California’s largest-ever affordable housing measure
+
+date: 2024-08-15, updated: 2024-08-15, from: The LAist
+
+Backers pulled a $20-billion affordable housing bond off Bay Area ballots Thursday amid fears that it wouldn’t pass. 
+
+<https://laist.com/news/housing-homelessness/bond-voyage-supporters-yank-californias-largest-ever-affordable-housing-measure>
+
+---
+
+## Long Beach to use Supreme Court's Grants Pass ruling to clear encampments of unhoused people
+
+date: 2024-08-15, updated: 2024-08-15, from: The LAist
+
+The city is upping enforcement of its anti-camping ordinances and will cite people for setting-up encampments or sleeping in public. 
+
+<https://laist.com/news/housing-homelessness/long-beach-grants-pass-supreme-court-ruling-unhoused-people>
+
+---
+
+## Opinion: UCLA should offer more online summer classes for students away from campus
+
+date: 2024-08-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+It&#8217;s that time of year again &#8211; you&#8217;re finally home. You can spend long nights relaxing with friends who you haven&#8217;t seen the whole year and your dog, Sam, who has been patiently awaiting your arrival for the last six months. 
+
+<https://dailybruin.com/2024/08/15/opinion-ucla-should-offer-more-online-summer-classes-for-students-away-from-campus/>
+
+---
+
+## Over a Decade of SENSES Block Parties: The Big 100
+
+date: 2024-08-15, from: City of Santa Clarita
+
+<p>By Mayor Pro Tem Bill Miranda The number 100 holds impressive significance in society. Just think how amazing it would be to live to 100 years of age, to be able to do 100 pushups or get 100 percent on a test, which is why an incredible celebration is necessary to mark the City of [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/08/15/over-a-decade-of-senses-block-parties-the-big-100/">Over a Decade of SENSES Block Parties: The Big 100</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/08/15/over-a-decade-of-senses-block-parties-the-big-100/>
 
 ---
 
@@ -179,8 +285,8 @@ USAC is the official student government representing the undergraduate student b
 
 date: 2024-08-14, from: The Daily Bruin (UCLA Student Newspaper)
 
-A federal district court judge ruled Tuesday that UCLA cannot let pro-Palestine protesters obstruct Jewish students’ access to campus.
-While several universities have faced lawsuits alleging antisemitism in the wake of spring pro-Palestine protests, the preliminary injunction issued against UCLA is the first time a federal court has ruled against a university’s response to protests. 
+<em>This post was updated Aug. 15 at 12:30 p.m.</em>
+A federal district court judge ruled Tuesday that UCLA cannot let pro-Palestine protesters obstruct Jewish students’ access to campus. 
 
 <https://dailybruin.com/2024/08/14/court-rules-pro-palestine-protests-cannot-obstruct-jewish-students-accessibility/>
 

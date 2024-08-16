@@ -1,11 +1,91 @@
 ---
 title: motorcycles 2024.33
-updated: 2024-08-15 07:50:06
+updated: 2024-08-16 11:34:02
 ---
 
 # motorcycles 2024.33
 
-(date: 2024-08-15 07:50:06)
+(date: 2024-08-16 11:34:02)
+
+---
+
+## This Stealthy Hayabusa Looks Amazing, Hides a Supercharged Secret
+
+date: 2024-08-16, from: Ride Apart, Electric Motorcycle News
+
+Exactly how fast is 'ludicrous speed,' anyway? And more importantly, is this it? 
+
+<https://www.rideapart.com/news/730314/tts-supercharged-400hp-suzuki-hayabusa/>
+
+---
+
+## This Michigan Ducati Dealer Has Been Ripping Off Customers For Over 7 Years
+
+date: 2024-08-16, from: Ride Apart, Electric Motorcycle News
+
+Its business license was suspended for "imminent harm to the public." 
+
+<https://www.rideapart.com/news/730293/ducati-detroit-fraud-forgery-suspension/>
+
+---
+
+## Active Exhausts for Motorcycles? This Indonesian Company Just Built One
+
+date: 2024-08-16, from: Ride Apart, Electric Motorcycle News
+
+It morphs like a Transformer.  
+
+<https://www.rideapart.com/news/730289/3tech-racing-tridente-scorpion-active-motorcycle-exhaust-system/>
+
+---
+
+## KTM’s New 450 SMR Can Shred On One Wheel, Anytime, Anywhere
+
+date: 2024-08-16, from: Ride Apart, Electric Motorcycle News
+
+It’s the sharpest it’s ever been, with refinements to the frame and suspension making it even better.  
+
+<https://www.rideapart.com/news/730225/2025-ktm-450-smr-launch/>
+
+---
+
+## Win a Trip to Next Year's Isle of Man TT, See the Greatest Race on Earth for Free
+
+date: 2024-08-16, from: Ride Apart, Electric Motorcycle News
+
+The wildest race you'll ever see. 
+
+<https://www.rideapart.com/news/730284/iomtt-trip-giveaway-isle-of-man-tt/>
+
+---
+
+## How Much Do You Want This Honda CGX 150 Cafe Racer In Your Market?
+
+date: 2024-08-16, from: Ride Apart, Electric Motorcycle News
+
+The bitty bike is big on style, and is set to roll out in China soon. 
+
+<https://www.rideapart.com/news/730218/honda-cgx-150-cafe-racer/>
+
+---
+
+## No, It’s Not Okay To Use Old Engine Oil
+
+date: 2024-08-16, from: Ride Apart, Electric Motorcycle News
+
+The hands of time don’t take too kindly on even the fanciest motor oil.  
+
+<https://www.rideapart.com/news/730223/dont-use-old-engine-oil-video/>
+
+---
+
+## 2024 ARCA West at Tri-City: Team Reactions, Analysis
+
+date: 2024-08-15, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires. The NAPA Auto Care 150, the eighth race of the 2024 ARCA Menards West Series season, held at Tri-City Raceway in West&#8230;  
+
+<https://kickinthetires.net/nascar/arca-west-tri-city-reactions-analysis/>
 
 ---
 
