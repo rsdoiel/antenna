@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.33
-updated: 2024-08-16 11:34:01
+updated: 2024-08-17 22:51:47
 ---
 
 # libraries 2024.33
 
-(date: 2024-08-16 11:34:01)
+(date: 2024-08-17 22:51:47)
 
 ---
 
@@ -95,6 +95,16 @@ date: 2024-08-14, from: Scholarly Kitchen
  
 
 <https://scholarlykitchen.sspnet.org/2024/08/14/resetting-and-recharging-research-communications/>
+
+---
+
+## KOSMIC: K-band VLBI Observations with Improved Scheduling and Ionospheric Corrections
+
+date: 2024-08-14, from: ETH Zurich, recently added
+
+Soja, Benedikt; de Witt, Aletha; Iten, Marcel; Rüegg, Arno; Schartner, Matthias; Krasna, Hana; Marisa, Nickola 
+
+<http://hdl.handle.net/20.500.11850/689292>
 
 ---
 

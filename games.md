@@ -1,11 +1,51 @@
 ---
 title: games 2024.33
-updated: 2024-08-16 11:34:00
+updated: 2024-08-17 22:51:47
 ---
 
 # games 2024.33
 
-(date: 2024-08-16 11:34:00)
+(date: 2024-08-17 22:51:47)
+
+---
+
+## Twisters, Netflix’s The Union, and every movie new to streaming this week
+
+date: 2024-08-16, updated: 2024-08-16, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Twisters, the standalone sequel to 1996’s Twister starring Daisy Edgar-Jones (Normal People) and Glen Powell (Anyone But You), finally blows its way onto VOD. [&#8230;] 
+
+<https://www.polygon.com/movies/440083/twisters-netflixs-the-union-and-every-movie-new-to-streaming-this-week>
+
+---
+
+## Pokémon Go Twitch drop times for 2024 Pokémon World Championships codes
+
+date: 2024-08-16, updated: 2024-08-16, from: Polygon Website
+
+Pokémon Go Twitch drops are available for those watching this year’s Pokémon World Championships. Alongside the in-game “2024 Pokémon World Championships” event, watching the Pokémon Go side of the competition on Twitch will grant codes rewarding Timed Research with encounters with both meta and event-specific Pokémon, as well as an in-game avatar T-shirt. The snag [&#8230;] 
+
+<https://www.polygon.com/pokemon-go-guide/440559/twitch-drops-codes-times-partner-streams-world-championships>
+
+---
+
+## Where to find Dr. Doom Chests and Avengers Chests in Fortnite
+
+date: 2024-08-16, updated: 2024-08-16, from: Polygon Website
+
+There are now specialized Dr. Doom and Avengers Chests in Fortnite with specific loot in them as part of the Chapter 5 Season 4 “Absolute Doom” season. One of the Kickstart quests incentivizes you to find these in exchange for XP, but they also have some pretty good loot inside. These huge loot chests are [&#8230;] 
+
+<https://www.polygon.com/fortnite-guide/441303/dr-doom-avengers-chests-locations-c5s4>
+
+---
+
+## Madison Beer says Roblox game Dress to Impress healed her — she has a point
+
+date: 2024-08-16, updated: 2024-08-16, from: Polygon Website
+
+Dolled up in full-face makeup, giant hoop earrings, and a slouchy sweatshirt, YouTuber-turned-pop star Madison Beer exudes effortless glam as she chats with viewers of her Twitch stream. “You guys changed my life. You changed my entire world. And… I’m referring to Dress to Impress.” Beer has emerged as a star for a new generation [&#8230;] 
+
+<https://www.polygon.com/culture/440808/madison-beer-dress-to-impress-roblox>
 
 ---
 

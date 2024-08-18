@@ -1,11 +1,21 @@
 ---
 title: food 2024.33
-updated: 2024-08-16 11:34:04
+updated: 2024-08-17 22:51:51
 ---
 
 # food 2024.33
 
-(date: 2024-08-16 11:34:04)
+(date: 2024-08-17 22:51:51)
+
+---
+
+## This 26-Year-Old Pitmaster Is Reshaping Texas Barbecue
+
+date: 2024-08-16, from: Bon Appetet
+
+At Barbs B Q, Chuck Charnichart transforms the flavors of the Rio Grande Valley into bright, creative dishes and paves the way for barbecue's next chapter. 
+
+<https://www.bonappetit.com/story/barbs-b-q-chuck-charnichart>
 
 ---
 

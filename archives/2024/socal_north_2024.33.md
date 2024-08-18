@@ -1,11 +1,77 @@
 ---
 title: socal north 2024.33
-updated: 2024-08-16 11:33:55
+updated: 2024-08-17 22:51:42
 ---
 
 # socal north 2024.33
 
-(date: 2024-08-16 11:33:55)
+(date: 2024-08-17 22:51:42)
+
+---
+
+## Album review: Post Malone’s ‘F-1 Trillion’ boasts elite collaborations yet subpar storytelling
+
+date: 2024-08-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Post Malone has wrangled himself a solid country album but not a great one.
+The 10-time Grammy nominee and genre-blending singer-songwriter released his sixth studio album, the country record &#8220;F-1 Trillion,&#8221; on Friday. 
+
+<https://dailybruin.com/2024/08/16/album-review-post-malones-f-1-trillion-boasts-elite-collaborations-yet-subpar-storytelling/>
+
+---
+
+## Film review: ‘Alien: Romulus’ pays homage to franchise without eclipsing original installment
+
+date: 2024-08-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Warning: spoilers ahead.
+“Alien: Romulus” launches the franchise into orbit for the first time in almost 40 years, despite presenting a familiar experience that is anything but alien. 
+
+<https://dailybruin.com/2024/08/16/movie-review-alien-romulus-pays-homage-to-franchise-without-eclipsing-original-installment/>
+
+---
+
+## Rare Plant of the Month: Tahquitz ivesia
+
+date: 2024-08-16, from: California Native Plants Society
+
+<p>Rare plant of the month, Tahquitz ivesia (<em>Ivesia callida</em>), was once thought extinct but now lives on the steep cliffs of the San Jacinto Mountains.</p>
+<p>The post <a href="https://www.cnps.org/rare-plants/rare-plant-of-the-month-tahquitz-ivesia-ivesia-callida-39948">Rare Plant of the Month: Tahquitz ivesia</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/rare-plants/rare-plant-of-the-month-tahquitz-ivesia-ivesia-callida-39948>
+
+---
+
+## Keck workers begin strike authorization vote
+
+date: 2024-08-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Voting began Thursday morning and ends on Aug. 21.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/16/keck-workers-begin-strike-authorization-vote/">Keck workers begin strike authorization vote</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/16/keck-workers-begin-strike-authorization-vote/>
+
+---
+
+## Catching up with artist Kymberlee Stanley
+
+date: 2024-08-16, from: Catalina Islander
+
+Former Catalina resident and lifelong visitor to the island, Kymberlee Stanley, had one of her paintings chosen by the Catalina Art Festival for this year’s 65th Annual Catalina Island Festival of Art. The event is scheduled for September 20-22 and Stanley and her family recently spent a month or so on the island. Kymberlee was [&#8230;] 
+
+<https://thecatalinaislander.com/catching-up-with-artist-kymberlee-stanley/>
+
+---
+
+## Avalon junior golfers compete at Irvine tournament
+
+date: 2024-08-16, from: Catalina Islander
+
+By Bill Sewell Two of our local junior golfers, Jose Pedroza and Aaron Meza recently competed in a Southern California Section Professional Golfers’ Association of America Junior Tour event at Rancho San Joaquin Golf Course in Irvine. Both boys played well and did a fine job representing Avalon. The tournament staff were pleasantly surprised and [&#8230;] 
+
+<https://thecatalinaislander.com/avalon-junior-golfers-compete-at-irvine-tournament/>
 
 ---
 
@@ -18,6 +84,16 @@ date: 2024-08-16, from: City of Santa Clarita
  
 
 <https://santaclarita.gov/blog/2024/08/16/construction-to-begin-on-vista-canyon-bridge-in-canyon-country/>
+
+---
+
+## Avalon Awards reverse vending machine contract
+
+date: 2024-08-16, from: Catalina Islander
+
+The council last week unanimously awarded a contract to Olyns Inc. to provide the city with a reverse vending machine. The maximum cost: $35,000. Reverse vending machines are “defined as machines that pay customers for beverage containers placed in the machine,” according to CalRecycle.com. Discussion During the council meeting, Assistant City Manager Jocelyn Francis said [&#8230;] 
+
+<https://thecatalinaislander.com/avalon-awards-reverse-vending-machine-contract/>
 
 ---
 
@@ -204,7 +280,7 @@ date: 2024-08-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-08-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/San-Fernando-Sr-HS-Vocal-Students-Winter-Concert-Performance-scaled-e1723690404311.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/San-Fernando-Sr-HS-Vocal-Students-Winter-Concert-Performance-scaled-e1723690404311.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/San-Fernando-Sr-HS-Vocal-Students-Winter-Concert-Performance-scaled-e1723690404311.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/San-Fernando-Sr-HS-Vocal-Students-Winter-Concert-Performance-scaled-e1723690404311.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/San-Fernando-Sr-HS-Vocal-Students-Winter-Concert-Performance-scaled-e1723690404311.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/San-Fernando-Sr-HS-Vocal-Students-Winter-Concert-Performance-scaled-e1723690404311.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/San-Fernando-Sr-HS-Vocal-Students-Winter-Concert-Performance-scaled-e1723690404311.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/San-Fernando-Sr-HS-Vocal-Students-Winter-Concert-Performance-scaled-e1723690404311.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/San-Fernando-Sr-HS-Vocal-Students-Winter-Concert-Performance-scaled-e1723690404311.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/San-Fernando-Sr-HS-Vocal-Students-Winter-Concert-Performance-scaled-e1723690404311.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Cuando los estudiantes son introducidos a la música, ya sea aprendiendo a tocar la flauta, cantando en un coro o uniéndose a una línea de tambores, los beneficios son muchos [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/08/14/harmony-project-comparte-el-poder-de-la-musica-con-ninos-de-comunidades-de-escasos-recursos/">Harmony Project Comparte el “Poder de la Música” con Niños de Comunidades de Escasos Recursos</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -217,7 +293,7 @@ date: 2024-08-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-08-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="640" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Screenshot-2024-08-13-at-9.56.26 AM-e1723690183823.png?fit=1024%2C640&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Screenshot-2024-08-13-at-9.56.26 AM-e1723690183823.png?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Screenshot-2024-08-13-at-9.56.26 AM-e1723690183823.png?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Screenshot-2024-08-13-at-9.56.26 AM-e1723690183823.png?fit=1024%2C640&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Screenshot-2024-08-13-at-9.56.26 AM-e1723690183823.png?fit=1024%2C640&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="640" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Screenshot-2024-08-13-at-9.56.26 AM-e1723690183823.png?fit=1024%2C640&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Screenshot-2024-08-13-at-9.56.26 AM-e1723690183823.png?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Screenshot-2024-08-13-at-9.56.26 AM-e1723690183823.png?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Screenshot-2024-08-13-at-9.56.26 AM-e1723690183823.png?fit=1024%2C640&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Screenshot-2024-08-13-at-9.56.26 AM-e1723690183823.png?fit=1024%2C640&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Los ladrones atacaron el negocio familiar local Flor De Lima Farms por tercera vez en poco más de una semana. “Nos sentimos devastados y frustrados”, dijo la gerente de Flor [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/08/14/ladrones-atacan-flor-de-lima-farms-por-tercera-vez/">Ladrones Atacan Flor de Lima Farms por Tercera Vez</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -243,7 +319,8 @@ date: 2024-08-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-08-15, from: The Daily Bruin (UCLA Student Newspaper)
 
-Inching closer to a new era for UCLA football in the Big Ten, Daily Bruin Sports will preview each of the Bruins&#8217; position groups prior to the season&#8217;s official start. 
+<em>This post was updated Aug. 17 at 9:15 p.m.</em>
+Inching closer to a new era for UCLA football in the Big Ten, Daily Bruin Sports will preview each of the Bruins’ position groups prior to the season’s official start. 
 
 <https://dailybruin.com/2024/08/14/2024-ucla-football-position-preview-secondary/>
 

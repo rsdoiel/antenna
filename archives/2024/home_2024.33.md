@@ -1,11 +1,23 @@
 ---
 title: home 2024.33
-updated: 2024-08-16 11:34:01
+updated: 2024-08-17 22:51:48
 ---
 
 # home 2024.33
 
-(date: 2024-08-16 11:34:01)
+(date: 2024-08-17 22:51:48)
+
+---
+
+## Rare Plant of the Month: Tahquitz ivesia
+
+date: 2024-08-16, from: California Native Plants Society
+
+<p>Rare plant of the month, Tahquitz ivesia (<em>Ivesia callida</em>), was once thought extinct but now lives on the steep cliffs of the San Jacinto Mountains.</p>
+<p>The post <a href="https://www.cnps.org/rare-plants/rare-plant-of-the-month-tahquitz-ivesia-ivesia-callida-39948">Rare Plant of the Month: Tahquitz ivesia</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/rare-plants/rare-plant-of-the-month-tahquitz-ivesia-ivesia-callida-39948>
 
 ---
 

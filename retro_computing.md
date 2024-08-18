@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.33
-updated: 2024-08-16 11:34:03
+updated: 2024-08-17 22:51:50
 ---
 
 # retro computing 2024.33
 
-(date: 2024-08-16 11:34:03)
+(date: 2024-08-17 22:51:50)
+
+---
+
+## b.log 2024/08/16 - Doubletake, The drainage pipe, The Larder system is now properly functional (I hope!).
+
+date: 2024-08-16, from: Richard Murray's blog
+
+Doubletake, The drainage pipe, The Larder system is now properly functional (I hope!). 
+
+<https://heyrick.eu/blog/index.php?diary=20240816>
 
 ---
 

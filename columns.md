@@ -1,11 +1,88 @@
 ---
 title: columns 2024.33
-updated: 2024-08-16 11:33:58
+updated: 2024-08-17 22:51:45
 ---
 
 # columns 2024.33
 
-(date: 2024-08-16 11:33:58)
+(date: 2024-08-17 22:51:45)
+
+---
+
+## August 15, 2024
+
+date: 2024-08-16, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-15-2024-4fb>
+
+---
+
+## Friday Squid Blog: The Market for Squid Oil Is Growing
+
+date: 2024-08-16, updated: 2024-08-12, from: Bruce Schneier blog
+
+<p>How did I not know before now that there was a market for <a href="https://www.einnews.com/pr_news/733947372/squid-oil-global-market-2024-to-reach-6-61-billion-by-2028-at-rate-of-7-5">squid oil</a>?</p>
+<blockquote><p>The <a href="https://www.thebusinessresearchcompany.com/report/squid-oil-global-market-report">squid oil market</a> has experienced robust growth in recent years, expanding from $4.56 billion in 2023 to $4.94 billion in 2024 at a compound annual growth rate (CAGR) of 8.5%. The growth in the historic period can be attributed to global market growth, alternative to fish oil, cosmetics and skincare industry, sustainability practices, regulatory influence.</p></blockquote>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/08/friday-squid-blog-the-market-for-squid-oil-is-growing.html>
+
+---
+
+##  What&#8217;s Everyone Reading These Days? 
+
+date: 2024-08-16, updated: 2024-08-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/whats-everyone-reading-these-days>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-16, from: Dave Winer's Scripting News)
+
+A few minutes later, the feed is <a href="https://imgs.scripting.com/2024/08/16/feedInBlogroll.png">in my blogroll</a>. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/08/16.html#a200756>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-16, from: Dave Winer's Scripting News)
+
+When was the last time the <a href="https://www.nytco.com/person/a-g-sulzberger/">owner</a> of the NYT did a press conference? 
+
+<http://scripting.com/2024/08/16.html#a192502>
+
+---
+
+##  How Are Calories in Food Really Measured? 
+
+date: 2024-08-16, updated: 2024-08-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/how-are-calories-in-food-really-measured>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-16, from: Dave Winer's Scripting News)
+
+<a href="https://mastodon.social/@davew/112973321558212416">I'm looking for</a> an RSS feed for <a href="https://www.threads.net/@kamalahq">Kamalahq</a>. 
+
+<http://scripting.com/2024/08/16.html#a192133>
+
+---
+
+##  Ace drone video by Turkish photographer İbrahim Şimşek. &#8220;The wheat is laid... 
+
+date: 2024-08-16, updated: 2024-08-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045133-ace-drone-video-by-turkis>
 
 ---
 
@@ -16,57 +93,6 @@ date: 2024-08-16, updated: 2024-08-16, from: Jason Kittke's blog
  
 
 <https://kottke.org/24/08/artificial-general-intelligence-might-be-humanitys-last-invention>
-
----
-
-## 2024-08-16 JSON feed for indexing
-
-date: 2024-08-16, from: Alex Schroeder's Blog
-
-<h1 id="2024-08-16-json-feed-for-indexing">2024-08-16 JSON feed for indexing</h1>
-
-<p>Recently, <a class="account" href="https://toot.cat/@dredmorbius" title="@dredmorbius@toot.cat">@dredmorbius</a> wrote about Google and search and posed the question:</p>
-
-<blockquote>
-<p>What if websites indexed their own content, and published a permuted index in a standard format, in a cache-and-forward model similar to how DNS works?</p>
-</blockquote>
-
-<p>A while ago I wondered about <a href="2023-03-07_A_vision_for_search">self-published indexes</a>. We have software to generate feeds. Why not software to generate indexes? Back then I proposed a JSON format. Today I finally took a look at <a href="https://www.jsonfeed.org/version/1.1/">JSON Feed</a>. I think it has everything we need.</p>
-
-<p>Take a look at the example for this site: <a href="/.well-known/search-feed.json.gz">.well-known/search-feed.json.gz</a>.
-This file has about 251KiB. The source material is 6740 Markdown pages, a total of about 21MiB.</p>
-
-<p>Using the <code>next_url</code> attribute, it would be possible to split this file up into chunks of 100 pages each, or a chunk per year, if the platform promises that older pages never change. This wouldn&rsquo;t work for my wiki, but perhaps it would for certain platforms. Somebody will have write up a best-practice on how to use HTTP headers to avoid downloading the whole file when nothing has changed. Sadly, <a href="https://datatracker.ietf.org/doc/html/rfc2616#section-13">section 13 of RFC 2616</a> is pretty convoluted. Basically something about the use of If-Modified-Since and ETags headers.</p>
-
-<p>I also find <a href="https://datatracker.ietf.org/doc/html/rfc5005">RFC 5005</a> to be very instructive in how to think about feeds for archiving.</p>
-
-<p><a class="account" href="https://neuromatch.social/@jonny" title="@jonny@neuromatch.social">@jonny</a> commented, saying that it was important to think about how search indexes were going to be used:</p>
-
-<blockquote>
-<p>so given that no single machine would or should store a whole index of the internet or even all your local internet, you can go a few ways with that, take the global quorum sensing path and you get a bigass global dht-like thing like ipfs. if instead you think there should be some structure, then you need proximity. is that social proximity where we swap indexes between people we know? or webring like proximity dependent on pages linking to each other and mutually indexing their neighborhood?</p>
-</blockquote>
-
-<p>It&rsquo;s an interesting question but I think I want incremental improvements to the current situation. So if a person has a website right now, on server, what&rsquo;s the simplest thing they can do so that they aren&rsquo;t drowned in crawlers and can still be found via search? That would be publishing an index, analogous to publishing a feed. Having more search engines (even if using legacy centralized architecture) would be better than what we have now. Not depending on crawlers would be better what we have now.</p>
-
-<p>In terms of decentralisation, I think I like community search engines like lieu. The idea is great: a community lists a bunch of sites. Lieu generates a web ring and crawls them to build an index of all the member sites. Instead of crawling, it could fetch the indexes. This would be much better than what it does right now, because right now, lieu uses colly for crawling and colly ignores robots.txt. This means that <a href="2024-06-22-lieu">lieu instantly bans itself when it visits my site</a> because it&rsquo;s not rate limited. It&rsquo;s just an implementation detail, but sadly I am biased. I&rsquo;ve been on a Butlerian Jihad since 2009 when I discover that <a href="2009-10-15_Network_Traffic">over 30% of all requests I serve from my sites are for machines, not humans</a>.</p>
-
-<p>It makes me want to raise my keyboard and scream &ldquo;CO₂ for the CO₂ god!!&rdquo;</p>
-
-<p>Somebody should draw a Hacker Elric doing that, standing on a mountain of electro-trash with the burnt and dead landscape of the post-apocalypse in the background.</p>
-
-<p>But back to the problem of indexing. Right now, search engine operators and their parasites, the search engine optimisation enterprises, crawls every single page including page histories, page diffs, and more, on my wikis. If every wanna-be search engine downloaded my index once a day, I would be saving resources. Whether that&rsquo;s a step in the right direction, I don&rsquo;t know.</p>
-
-<p><a class="account" href="https://neuromatch.social/@jonny" title="@jonny@neuromatch.social">@jonny</a> also said:</p>
-
-<blockquote>
-<p>i just think that the ability to fundamentally depart from the commercial structure of the web and all its brokenness doesn&rsquo;t happen gradually and esp. not with the server/client stack we have now</p>
-</blockquote>
-
-<p>Indeed, there must be another way. I just don&rsquo;t see it, right now. It&rsquo;s always hard to imagine a new world while you&rsquo;re still living in the old one. I&rsquo;m sure the solution will seem obvious to the next generation, looking back.</p>
-
-<p><a class="tag" href="/search/?q=%23Search">#Search</a> <a class="tag" href="/search/?q=%23Feeds">#Feeds</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p> 
-
-<https://alexschroeder.ch/view/2024-08-16-json-feed-for-indexes>
 
 ---
 

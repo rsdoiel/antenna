@@ -1,11 +1,31 @@
 ---
 title: mid central 2024.33
-updated: 2024-08-16 11:33:57
+updated: 2024-08-17 22:51:44
 ---
 
 # mid central 2024.33
 
-(date: 2024-08-16 11:33:57)
+(date: 2024-08-17 22:51:44)
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-08-16, from: Amateur Radio Relay League News
+
+<p><span>With sunspot numbers and solar flux at times both above 300, recent daily space weather has been exciting for radio amateurs who watch the sun. We like higher activity because it correlates with a dense ionosphere, bringing with it better conditions on higher frequencies. </span></p><p><span>This extreme activity also comes with greater geomagnetic disturbance, which cause higher absorption of HF signals.<span>  </span></span></p><p><span>For exa...</span></p> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-841>
+
+---
+
+## Hurricane Ernesto Updates
+
+date: 2024-08-16, from: Amateur Radio Relay League News
+
+<p><strong>Saturday, August 17, 2024 Midday Update:</strong></p><p><em>This update is from the Hurricane Watch Net:</em></p><p>The Hurricane Watch Net has secured operations for Hurricane Ernesto. We were in continuous operation for 22 continuous hours.</p><p>From the reports we received, more than 26,000 residents are without power. Many areas are without internet service as well.</p><p>The eyewall is now north of the island and reported wind speeds...</p> 
+
+<http://www.arrl.org/news/view/hurricane-ernesto-updates>
 
 ---
 
@@ -78,16 +98,6 @@ date: 2024-08-16, from: EDN Blog
  
 
 <https://www.edn.com/risc-v-migration-to-mainstream-one-startup-at-a-time/>
-
----
-
-## Hurricane Ernesto Updates
-
-date: 2024-08-15, from: Amateur Radio Relay League News
-
-<p><strong>Thursday, August 15, 2024 Midday Update:</strong></p><p>The National Hurricane Center reports that Tropical Storm Ernesto had become a Category 1 hurricane.</p><p>A hurricane warning has now been issued for Bermuda and dangerous rip currents are likely along U.S. East Coast beaches this weekend, August 17 - 18.</p><p>Bobby Graves, KB5HAV, Hurricane Watch Net Manager, reports the net’s activation plans:</p><p><b>Friday August 16</b> </p><ul><li><b>20 me...</b></li></ul> 
-
-<http://www.arrl.org/news/view/hurricane-ernesto-updates>
 
 ---
 

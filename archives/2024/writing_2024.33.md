@@ -1,11 +1,33 @@
 ---
 title: writing 2024.33
-updated: 2024-08-16 11:34:00
+updated: 2024-08-17 22:51:46
 ---
 
 # writing 2024.33
 
-(date: 2024-08-16 11:34:00)
+(date: 2024-08-17 22:51:46)
+
+---
+
+## 😜 #213 - Resisting Toxic Normalcy
+
+date: 2024-08-16, from: Interesting, a blog on writing
+
+Who gets to decide what normal is? 
+
+<https://inneresting.substack.com/p/213-resisting-toxic-normalcy>
+
+---
+
+## Otherwise Award Updates
+
+date: 2024-08-16, from: Locus Magazine
+
+<p>The organizers of the Otherwise Award (formerly the Tiptree Awards) have announced updates and changes, including a streamlined process, and plans to move forward with the award for work published in 2024, after being &#8220;on pause&#8221; for 2022 and 2023 publications.</p>
+<p>We will continue in the tradition of the award, honoring and promoting recent works that explore and expand our ideas of gender.</p>
+<p>But we’re improving how we do that,  <a href="https://locusmag.com/2024/08/otherwise-award-updates/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/otherwise-award-updates/>
 
 ---
 
@@ -43,7 +65,7 @@ date: 2024-08-16, from: Locus Magazine
 
 ---
 
-## Mueller Resigns as Interim SFWA President
+## More SFWA Resignations
 
 date: 2024-08-16, from: Locus Magazine
 

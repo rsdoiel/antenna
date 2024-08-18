@@ -1,11 +1,11 @@
 ---
 title: pacific 2024.33
-updated: 2024-08-16 11:33:56
+updated: 2024-08-17 22:51:43
 ---
 
 # pacific 2024.33
 
-(date: 2024-08-16 11:33:56)
+(date: 2024-08-17 22:51:43)
 
 ---
 
@@ -333,6 +333,18 @@ date: 2024-08-16, from: Hawaii Tribune Harold
 
 ---
 
+## Battle over evidence in Ireland murder case heads to high court
+
+date: 2024-08-16, from: Hawaii Tribune Harold
+
+
+				<p>Hilo Circuit Judge Peter Kubota on Thursday told the Hawaii Supreme Court his decision to release new information about the Christmas Eve 1991 abduction, rape and murder of Dana Ireland to lawyers representing two men wrongly convicted two decades ago trumps the desire of the Hawaii Police Department to keep the evidence confidential.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/16/hawaii-news/battle-over-evidence-in-ireland-murder-case-heads-to-high-court/>
+
+---
+
 ## New Zealand Deputy Prime Minister marks 30 Years of Diplomatic Ties with Palau
 
 date: 2024-08-16, from: Island Times
@@ -629,6 +641,16 @@ date: 2024-08-15, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/08/15/uh-hilo-journey-to-integrate-indigenous-ike/">Transforming Education: <abbr>UH</abbr> Hilo’s journey to integrate Indigenous ʻike</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/08/15/uh-hilo-journey-to-integrate-indigenous-ike/>
+
+---
+
+## Archdiocese of Agana installs new archbishop 
+
+date: 2024-08-15, from: Pacific Island Times
+
+'We hurt you, we betrayed your trust' By Pacific Island Times News Staff The Archdiocese of Agana on Thursday officially installed Ryan... 
+
+<https://www.pacificislandtimes.com/post/archdiocese-of-agana-installs-new-archbishop>
 
 ---
 
@@ -1136,6 +1158,16 @@ date: 2024-08-15, from: Marshal Islands Journal
  
 
 <https://marshallislandsjournal.com/daisy-focuses-on-drugs/>
+
+---
+
+## What to do with surplus funds 
+
+date: 2024-08-15, from: Pacific Island Times
+
+Guam Chamber of Commerce urges government leaders to exercise fiscal prudence The government of Guam has accumulated surplus funding, and... 
+
+<https://www.pacificislandtimes.com/post/what-to-do-with-surplus-funds>
 
 ---
 

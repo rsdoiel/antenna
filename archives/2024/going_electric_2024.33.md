@@ -1,11 +1,81 @@
 ---
 title: going electric 2024.33
-updated: 2024-08-16 11:34:04
+updated: 2024-08-17 22:51:51
 ---
 
 # going electric 2024.33
 
-(date: 2024-08-16 11:34:04)
+(date: 2024-08-17 22:51:51)
+
+---
+
+## Volkswagen’s first electric ID GTI will be ‘a real go kart’ to drive
+
+date: 2024-08-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Volkswagens-ID-GTI-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/volkswagen/">Volkswagen</a> GTI badge will live on in the electric era. Volkswagen’s first electric ID GTI “will be a real go kart” to drive with elements from the legends.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,vw" data-layer-viewtype="unknown" data-post-id="376268" href="https://electrek.co/2024/08/16/volkswagens-first-electric-id-gti-real-go-kart-drive/#more-376268" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/16/volkswagens-first-electric-id-gti-real-go-kart-drive/>
+
+---
+
+## Tesla Cybertruck Test Comes To A Grinding Halt. Literally
+
+date: 2024-08-16, from: Inside EVs News
+
+Edmunds waited four years to get its own Tesla Cybertruck. Then on the day of testing, it broke down. 
+
+<https://insideevs.com/news/730471/tesla-cybertruck-breaks-down-edmunds-review/>
+
+---
+
+## This startup’s heat pump water heater syncs with your solar
+
+date: 2024-08-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Cala_basement_shot.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Startup <a href="https://www.calasystems.com/" target="_blank" rel="noreferrer noopener">Cala Systems</a>, which makes seriously smart heat pump water heaters, has secured $5.6 million in seed funding and commercially launched its product.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,electric-water,solar,smart-energy-home" data-layer-viewtype="unknown" data-post-id="376242" href="https://electrek.co/2024/08/16/cala-heat-pump-water-heater/#more-376242" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/16/cala-heat-pump-water-heater/>
+
+---
+
+## Podcast: cheaper Tesla Model 3 interior, Paris’ utopian mobility, new VW e-Golf, and more
+
+date: 2024-08-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the cheaper Tesla Model 3 interior, Paris’ utopian mobility, a new VW e-Golf, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Electrek_8-17-24.mp3"></audio></figure>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="376230" href="https://electrek.co/2024/08/16/podcast-cheaper-tesla-model-3-interior-paris-utopian-mobility-new-vw-e-golf/#more-376230" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/16/podcast-cheaper-tesla-model-3-interior-paris-utopian-mobility-new-vw-e-golf/>
+
+---
+
+## Kia EV9 discounts reached over $18,000 on average in June
+
+date: 2024-08-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Kia-EV9-sales-first-year.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The electric vehicle deals are heating up. As new models hit the market, automakers are offering massive incentives. Some are offering discounts in the five-digit range, like the <a href="https://electrek.co/guides/kia-ev9/">Kia EV9</a>, with discounts topping $18,000 in June.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev9" data-layer-viewtype="unknown" data-post-id="376231" href="https://electrek.co/2024/08/16/kia-ev9-discounts-over-18000-average-june/#more-376231" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/16/kia-ev9-discounts-over-18000-average-june/>
 
 ---
 
@@ -165,7 +235,7 @@ Exactly how fast is 'ludicrous speed,' anyway? And more importantly, is this it?
 
 date: 2024-08-16, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/ego-chainsaw-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>My dad has been looking at electric chainsaws for a while but hadn’t pulled the trigger on one, and so being the good son I am (especially since he lets me <a href="https://electrek.co/2023/02/15/i-bought-a-cheap-electric-boat-from-china/">send weird Chinese electric vehicles</a> to his property), I decided to buy one for him. There are a few electric chainsaws out there, but I’ve heard good things about Ego’s tools and so I decided to try one of those. A couple clicks on Amazon and a few days later, a shiny green <a href="https://electrek.co/2023/02/15/i-bought-a-cheap-electric-boat-from-china/">Ego Power+ 18-inch 56 volt electric chainsaw</a> showed up at the door.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/ego-chainsaw-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>My dad has been looking at electric chainsaws for a while but hadn’t pulled the trigger on one, and so being the good son I am (especially since he lets me <a href="https://electrek.co/2023/02/15/i-bought-a-cheap-electric-boat-from-china/">send weird Chinese electric vehicles</a> to his property), I decided to buy one for him. There are a few electric chainsaws out there, but I’ve heard good things about Ego’s tools and so I decided to try one of those. A couple clicks on Amazon and a few days later, a shiny green  showed up at the door.</p>
 
 
 
