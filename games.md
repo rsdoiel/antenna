@@ -1,11 +1,101 @@
 ---
 title: games 2024.34
-updated: 2024-08-19 08:54:39
+updated: 2024-08-19 15:43:39
 ---
 
 # games 2024.34
 
-(date: 2024-08-19 08:54:39)
+(date: 2024-08-19 15:43:39)
+
+---
+
+## Baldur’s Gate 3 developer adds new evil endings one year post-launch
+
+date: 2024-08-19, updated: 2024-08-19, from: Polygon Website
+
+Baldur’s Gate 3 has been out for a year now, and while Larian Studios won’t be releasing any large scale DLC, the developer has continued to tweak the game with new cutscenes and options. A new update is due to release in September that adds new endings tailor-made to the most evil adventurers among us. [&#8230;] 
+
+<https://www.polygon.com/baldurs-gate/441701/baldurs-gate-3-developer-adds-new-evil-endings-one-year-post-launch>
+
+---
+
+## The Animal Crossing Switch Lite is back on sale for its lowest price ever
+
+date: 2024-08-19, updated: 2024-08-19, from: Polygon Website
+
+The Animal Crossing-themed Nintendo Switch Lite is on sale at Walmart for the lowest price we’ve seen anywhere. Right now you can pick up the console for $159 (was $199.99), which includes a downloadable copy of Animal Crossing: New Horizons, the coziest island sim you can imagine. The teal-hued Switch Lite, officially dubbed “Timmy &#38; [&#8230;] 
+
+<https://www.polygon.com/good-deals/441666/nintendo-switch-lite-animal-crossing-sale>
+
+---
+
+## Black Myth: Wukong publisher issues bizarre directive on what streamers can (and can’t) say
+
+date: 2024-08-19, updated: 2024-08-19, from: Polygon Website
+
+Ahead of Black Myth: Wukong’s Aug. 20 release date, publisher Hero Games (acting on behalf of developer Game Science) reportedly sent a strange directive to several video game streamers who received early codes for the game: Don’t talk about anything that “instigates negative discourse.” Several organizations, including gaming content agency GLHF and Forbes, confirmed that [&#8230;] 
+
+<https://www.polygon.com/news/441563/black-myth-wukong-streamer-restrictions-feminist-propaganda>
+
+---
+
+## Exclusive Inside Out 2 clip dives into Bloofy’s origins
+
+date: 2024-08-19, updated: 2024-08-19, from: Polygon Website
+
+One of the best gags in Inside Out 2 comes when Joy and the rest of the emotions get locked in Riley’s vault of secrets. In this secure bank strongroom, they encounter a few of Riley’s embarrassing fictional faves, including brooding pretty boy video game character Lance Slashblade and hyperactive kid’s cartoon dog Bloofy. We’ve [&#8230;] 
+
+<https://www.polygon.com/animation-cartoons/441572/inside-out-2-behind-the-scenes-clip-bloofy>
+
+---
+
+## Grab your friends and tell them about this Adventure Time Bundle
+
+date: 2024-08-19, updated: 2024-08-19, from: Polygon Website
+
+Rejoin Jake the Dog and Finn the Human in their continuing adventures in the Land of Ooo. The complete Adventure Time comic book series is now available as a complete $18 bundle from Humble. While this bundle doesn’t include issues from Adventure Time Comics (a separate 25-issue run), spin-off issues, or shorts, it still includes [&#8230;] 
+
+<https://www.polygon.com/good-deals/441521/adventure-time-comic-humble-bundle-sale>
+
+---
+
+## How to watch Gamescom Opening Night Live and what to expect
+
+date: 2024-08-19, updated: 2024-08-19, from: Polygon Website
+
+Gamescom, the world’s largest video game convention, officially starts on Wednesday in Cologne, Germany. But the show starts virtually on Tuesday, with a streaming presentation called Gamescom Opening Night Live hosted by The Game Awards emcee Geoff Keighley. This year’s ONL stream starts on Tuesday, Aug. 20 at 2 p.m. EDT/11 a.m. PDT and can [&#8230;] 
+
+<https://www.polygon.com/news/441518/how-to-watch-gamescom-opening-night-live-and-what-to-expect>
+
+---
+
+## Dropout’s new cooking show is full of questionable culinary creations
+
+date: 2024-08-19, updated: 2024-08-19, from: Polygon Website
+
+Dropout is boldly going where it has not gone before… with a new cooking competition show! Called Gastronauts, the new show invites actual real-life prestigious chefs (the titular gastronauts, exploring the final frontiers of cuisine) to complete unhinged cooking challenges set by a panel of comedians. The first trailer reveals some of these colorful prompts: [&#8230;] 
+
+<https://www.polygon.com/entertainment/441510/dropout-cooking-show-gastronauts-trailer>
+
+---
+
+## Can Mankey be shiny in Pokémon Go?
+
+date: 2024-08-19, updated: 2024-08-19, from: Polygon Website
+
+Mankey, the pig monkey Pokémon from Kanto, can be found in the wild in Pokémon Go. Yes, Mankey can be shiny in Pokémon Go! Mankey and Primeape can both be shiny. They’re probably worth grabbing with Annihilape potentially on the horizon, since that evolution was introduced in Pokémon Scarlet and Violet. Early Paldean Pokémon have [&#8230;] 
+
+<https://www.polygon.com/pokemon-go-guide/23869026/can-mankey-be-shiny-primeape>
+
+---
+
+## It’s officially Brat Summer in Roblox’s Dress to Impress
+
+date: 2024-08-19, updated: 2024-08-19, from: Polygon Website
+
+Roblox fashion game Dress to Impress has always been brat. But it’s now officially Brat Summer in the game, with the Brat update launching in Dress to Impress on Aug. 17. The update is everything Brat, Charli XCX’s new summer hit album. And it’s a perfect match. Dress to Impress was released on Roblox in [&#8230;] 
+
+<https://www.polygon.com/gaming/441531/roblox-dress-to-impress-charli-xcx-brat-summer-update>
 
 ---
 

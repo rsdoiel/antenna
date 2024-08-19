@@ -1,11 +1,51 @@
 ---
 title: food 2024.34
-updated: 2024-08-19 08:54:43
+updated: 2024-08-19 15:43:43
 ---
 
 # food 2024.34
 
-(date: 2024-08-19 08:54:43)
+(date: 2024-08-19 15:43:43)
+
+---
+
+## Sesame (Til) Ladoo
+
+date: 2024-08-19, from: Bon Appetet
+
+Nutty bites for an afternoon boost or postpartum nourishment. 
+
+<https://www.bonappetit.com/recipe/sesame-til-ladoo>
+
+---
+
+## Postpartum Depression Was Sinking Me. My Family's Food Was My Lifeline
+
+date: 2024-08-19, from: Bon Appetet
+
+On my toughest days, relatives fed me dishes that have nourished South Asian families for generations. 
+
+<https://www.bonappetit.com/story/fourth-trimester-til-ladoo>
+
+---
+
+## The Best Prepared Meal Delivery Service for When You Need Dinner Now
+
+date: 2024-08-19, from: Bon Appetet
+
+We love to cook, but sometimes a prepared meal kit really comes in handy. We’ve tried all of the services available nationwide and find that these four are the best. 
+
+<https://www.bonappetit.com/gallery/the-best-prepared-meal-delivery-services-for-when-you-need-dinner-now>
+
+---
+
+## I Didn't Have a Kitchen for 9 Months; Here's How I Cooked
+
+date: 2024-08-19, from: Bon Appetet
+
+A temporary kitchen can still be a perfectly functional kitchen. 
+
+<https://www.bonappetit.com/story/cooking-without-a-kitchen-noah-kaufman>
 
 ---
 

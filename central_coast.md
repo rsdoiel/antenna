@@ -1,11 +1,132 @@
 ---
 title: central coast 2024.34
-updated: 2024-08-19 08:54:37
+updated: 2024-08-19 15:43:37
 ---
 
 # central coast 2024.34
 
-(date: 2024-08-19 08:54:37)
+(date: 2024-08-19 15:43:37)
+
+---
+
+## Goleta Lemon Festival Offers a Zesty Slice of Life at Girsh Park
+
+date: 2024-08-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara South Coast Chamber of Commerce will host the Goleta Lemon Festival Sept. 28-29 at Girsh Park. The 31st annual Goleta Lemon Festival, presented by Rusty’s Pizza, will be [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-lemon-festival-offers-a-zesty-slice-of-life-sept-28-29-at-girsh-park/">Goleta Lemon Festival Offers a Zesty Slice of Life at Girsh Park</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-lemon-festival-offers-a-zesty-slice-of-life-sept-28-29-at-girsh-park/>
+
+---
+
+## Karen Telleen-Lawton: Animals Out of Control
+
+date: 2024-08-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A few days into the Olympics I was frustrated with the coverage. I wanted a variety of events without consigning myself to a part-time job as a couch-potato. The highlights [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/karen-telleen-lawton-animals-out-of-control/">Karen Telleen-Lawton: Animals Out of Control</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/karen-telleen-lawton-animals-out-of-control/>
+
+---
+
+## Santa Barbara Talks: Women Leaders Talk Kamala Harris, Reproductive Rights, Gender-Affirming Care, Activism
+
+date: 2024-08-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>As Democrats celebrate the formal selection of Kamala Harris as the Democratic presidential nominee in Chicago, three local leaders join Josh Molina to discuss the rise of women in politics [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-talks-women-leaders-talk-kamala-harris-reproductive-rights-gender-affirming-care-activism/">Santa Barbara Talks: Women Leaders Talk Kamala Harris, Reproductive Rights, Gender-Affirming Care, Activism</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-talks-women-leaders-talk-kamala-harris-reproductive-rights-gender-affirming-care-activism/>
+
+---
+
+## Hospice of Santa Barbara to Honor Local Heroes at 50th Anniversary
+
+date: 2024-08-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Hospice of Santa Barbara (HSB) will celebrate 50 years of compassionate care, as well as honoring community heroes, at its 12th Annual Heroes of Hospice (HOH) luncheon, 11 a.m.-1:30 p.m. Sunday, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/hospice-of-santa-barbara-to-honor-local-heroes-at-50th-anniversary/">Hospice of Santa Barbara to Honor Local Heroes at 50th Anniversary</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/hospice-of-santa-barbara-to-honor-local-heroes-at-50th-anniversary/>
+
+---
+
+## Santa Barbara Officials Remind Residents About Tax Credits for Energy-Efficient Home Improvements
+
+date: 2024-08-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-Clean-Energy-home-tour-DG-01.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-Clean-Energy-home-tour-DG-01.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-Clean-Energy-home-tour-DG-01.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-Clean-Energy-home-tour-DG-01.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-Clean-Energy-home-tour-DG-01.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-Clean-Energy-home-tour-DG-01.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-Clean-Energy-home-tour-DG-01.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-Clean-Energy-home-tour-DG-01.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-Clean-Energy-home-tour-DG-01.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-Clean-Energy-home-tour-DG-01.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-Clean-Energy-home-tour-DG-01.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-Clean-Energy-home-tour-DG-01.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-Clean-Energy-home-tour-DG-01.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Over the past few years, Santa Barbara resident Tal Avitzur has been working to modify his home with clean energy appliances, including replacing his HVAC system, his water heater, and [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-officials-remind-residents-about-tax-credits-for-energy-efficient-home-improvements/">Santa Barbara Officials Remind Residents About Tax Credits for Energy-Efficient Home Improvements</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-officials-remind-residents-about-tax-credits-for-energy-efficient-home-improvements/>
+
+---
+
+## Apples to Zucchini Cooking School Returns to Garden Street Kitchen
+
+date: 2024-08-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The nonprofit Apples to Zucchini Cooking School is returning to the teaching kitchen and campus at 2300 Garden St., Santa Barbara. The campus, the former home of St. Anthony&#8217;s Seminiary [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/apples-to-zucchini-cooking-school-returns-to-garden-street-kitchen/">Apples to Zucchini Cooking School Returns to Garden Street Kitchen</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/apples-to-zucchini-cooking-school-returns-to-garden-street-kitchen/>
+
+---
+
+## Celebrate Diversity at Pacific Pride Festival, Aug. 24 at Chase Palm Park
+
+date: 2024-08-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Pacific Pride Foundation (PPF) will host the 2024 Pacific Pride Festival, 11 a.m.-7 p.m. Saturday, Aug. 24 at Chase Palm Park Field in Santa Barbara. The free festival, open to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/celebrate-diversity-at-pacific-pride-festival-aug-24-at-chase-palm-park/">Celebrate Diversity at Pacific Pride Festival, Aug. 24 at Chase Palm Park</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/celebrate-diversity-at-pacific-pride-festival-aug-24-at-chase-palm-park/>
+
+---
+
+## Two Join Casa del Herrero Board
+
+date: 2024-08-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Casa del Herrero has added two members to its Board of Trustees, Monica Safapour and Nathan Vonk. Built in the 1920s in Montecito, Casa del Herrero is a National Historic [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/two-join-casa-del-herrero-board/">Two Join Casa del Herrero Board</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/two-join-casa-del-herrero-board/>
+
+---
+
+## Joan Hunter Mayer: Here’s How to Help a Dog with Separation Anxiety
+
+date: 2024-08-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Dear Inquisitive Canine, Q. My 7-year-old rescue dog, Chestnut, has a tough time being alone. As soon as I leave, she starts howling, pacing, and sometimes has accidents in the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/joan-hunter-mayer-heres-how-to-help-a-dog-with-separation-anxiety/">Joan Hunter Mayer: Here’s How to Help a Dog with Separation Anxiety</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/joan-hunter-mayer-heres-how-to-help-a-dog-with-separation-anxiety/>
+
+---
+
+## Behavioral Wellness Department Offers Two John Kovacs Scholarships
+
+date: 2024-08-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara County Department of Behavioral Wellness has opened the application period for its annual John Kovacs Scholarship award, designed for people who identify as having mental health and/or substance [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/behavioral-wellness-department-offers-two-john-kovacs-scholarships/">Behavioral Wellness Department Offers Two John Kovacs Scholarships</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/behavioral-wellness-department-offers-two-john-kovacs-scholarships/>
 
 ---
 

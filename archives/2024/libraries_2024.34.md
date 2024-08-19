@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.34
-updated: 2024-08-19 08:54:40
+updated: 2024-08-19 15:43:40
 ---
 
 # libraries 2024.34
 
-(date: 2024-08-19 08:54:40)
+(date: 2024-08-19 15:43:40)
+
+---
+
+## ARL Comments on NIH Draft Public Access Policy
+
+date: 2024-08-19, from: Association of Research Libraries News
+
+<p>Last Updated on August 19, 2024, 2:52 pm ET On August 19, 2024, ARL submitted comments on the National Institutes of Health Draft Public Access Policy applauding the elimination of...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/open-science/arl-comments-on-nih-draft-public-access-policy/">ARL Comments on NIH Draft Public Access Policy</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/open-science/arl-comments-on-nih-draft-public-access-policy/>
 
 ---
 

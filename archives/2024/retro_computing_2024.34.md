@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.34
-updated: 2024-08-19 08:54:42
+updated: 2024-08-19 15:43:42
 ---
 
 # retro computing 2024.34
 
-(date: 2024-08-19 08:54:42)
+(date: 2024-08-19 15:43:42)
+
+---
+
+## CachyOS Adds Support for System76's COSMIC Desktop
+
+date: 2024-08-19, from: Linux Magazine
+
+<p>The August 2024 release of CachyOS includes support for the COSMIC desktop as well as some important bits for video.</p> 
+
+<http://www.linux-magazine.com/Online/News/CachyOS-Adds-Support-for-System76-s-COSMIC-Desktop>
+
+---
+
+## b.log 2024/08/19 - Reinvigorating the larder.
+
+date: 2024-08-19, from: Richard Murray's blog
+
+Reinvigorating the larder. 
+
+<https://heyrick.eu/blog/index.php?diary=20240819>
 
 ---
 

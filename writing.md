@@ -1,11 +1,22 @@
 ---
 title: writing 2024.34
-updated: 2024-08-19 08:54:39
+updated: 2024-08-19 15:43:39
 ---
 
 # writing 2024.34
 
-(date: 2024-08-19 08:54:39)
+(date: 2024-08-19 15:43:39)
+
+---
+
+## Weekly Bestsellers, 19 August 2024
+
+date: 2024-08-19, from: Locus Magazine
+
+<div style="padding: 14px 0px 0px 0px; text-align: center;">
+<p>Among several debuts this week, three titles rank prominently. Hannah Nicole Maehrer&#8217;s <b>Apprentice to the Villaen</b> (Entangled: Red Tower) ranks #1 or #2 on three lists. Harper L. Woods&#8217; <b>The Coven</b> (Bramble) ranks #2 or #3 on two lists, and lower on a third. And James S.A. Corey&#8217;s <b>The Mercy of Gods</b> (Orbit), first volume in The Captive&#8217;s War, ranks on four lists, as high as #8 or #9 on </p></div> <a href="https://locusmag.com/2024/08/weekly-bestsellers-19-august-2024/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/weekly-bestsellers-19-august-2024/>
 
 ---
 

@@ -1,11 +1,153 @@
 ---
 title: pacific 2024.34
-updated: 2024-08-19 08:54:36
+updated: 2024-08-19 15:43:36
 ---
 
 # pacific 2024.34
 
-(date: 2024-08-19 08:54:36)
+(date: 2024-08-19 15:43:36)
+
+---
+
+## $3.9M grant to support Native Hawaiian student health, wellbeing, more
+
+date: 2024-08-19, from: University of Hawaiʻi News
+
+<p>This is the second round of funding for the project called I <span aria-label="Paa">Pa&#699;a</span> Ka Huewai Pawehe.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/19/round-two-funding-support-native-hawaiian-students/">$3.9<abbr>M</abbr> grant to support Native Hawaiian student health, wellbeing, more</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/19/round-two-funding-support-native-hawaiian-students/>
+
+---
+
+## UH Mānoa Bookstore announces new NIL store to support its student-athletes
+
+date: 2024-08-19, from: University of Hawaiʻi News
+
+<p>The <abbr>NIL</abbr> store that will feature officially licensed <abbr>UH</abbr> merchandise that is customized for each participating student-athlete.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/19/uh-manoa-bookstore-new-nil-store/"><abbr>UH</abbr> Mānoa Bookstore announces new <abbr>NIL</abbr> store to support its student-athletes</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/19/uh-manoa-bookstore-new-nil-store/>
+
+---
+
+## Communist spies? Guam bill seeks to clamp down on Chinese citizens' back-door entry 
+
+date: 2024-08-19, from: Pacific Island Times
+
+By Gina Tabonares-Reilly and Mar-Vic Cagurangan   Any alien caught entering Guam illegally would face five years in prison plus a fine of... 
+
+<https://www.pacificislandtimes.com/post/communist-spies-guam-bill-seeks-a-clampdown-on-chinese-citizens-back-door-entry>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Bennett says cannabis commission obstructing reform efforts
+
+date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
+
+FORMER educator Ambrose M. Bennett said he can help reform the CNMI’s cannabis industry. 
+
+<https://www.mvariety.com/news/local/bennett-says-cannabis-commission-obstructing-reform-efforts/article_858a7b20-5e00-11ef-bc6d-9f70b1861cc7.html>
+
+---
+
+## Governor nominates Thomas A. Manglona to Casino Commission
+
+date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios on Monday nominated Thomas Atalig Manglona to represent Rota on the Commonwealth Casino Commission. 
+
+<https://www.mvariety.com/news/local/governor-nominates-thomas-a-manglona-to-casino-commission/article_38c3380e-5e05-11ef-8fd2-17952b61c159.html>
+
+---
+
+## Sasamoto, Sablan conduct free college application workshop
+
+date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
+
+YURI Sasamoto and Jesus Sablan, incoming sophomores at Columbia University, an Ivy League institution, hosted a free college application workshop and panel discussion on Saturday, Aug. 17 at the Crowne Plaza Resort. 
+
+<https://www.mvariety.com/news/local/sasamoto-sablan-conduct-free-college-application-workshop/article_2ba81724-5df7-11ef-8d9f-5788ee56e8ef.html>
+
+---
+
+## Senate panel urged to fund CHCC adequately
+
+date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
+
+COMMONWEALTH Healthcare Corp. officials on Thursday asked the Senate Fiscal Affairs Committee to fund the CNMI’s only hospital adequately. 
+
+<https://www.mvariety.com/news/local/senate-panel-urged-to-fund-chcc-adequately/article_93c691fa-5dfc-11ef-8a37-5fc9692cc491.html>
+
+---
+
+## ‘Alien: Romulus’ bites off $41.5 million to top box office charts
+
+date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
+
+(AP) — “Alien: Romulus,” the latest installment in the 45-year-old franchise, opened in first place at the North American box office. The 20th Century Studios release earned an estimated $41.5 million in its first weekend, where it was playing in 3,885 locations in the U.S. and Canada. 
+
+<https://www.mvariety.com/lifestyle/alien-romulus-bites-off-41-5-million-to-top-box-office-charts/article_6ea3e13e-5e42-11ef-98fa-8f52c3e57f91.html>
+
+---
+
+## Mark Wahlberg, Halle Berry lead a middling spy comedy in ‘The Union’
+
+date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
+
+(AP) — “The Union,” an action comedy with Mark Wahlberg and Halle Berry, should have been more fun. Or more exciting. It certainly had a lot working in its favor, including big stars and a budget for globetrotting. 
+
+<https://www.mvariety.com/lifestyle/mark-wahlberg-halle-berry-lead-a-middling-spy-comedy-in-the-union/article_cb661afe-5e42-11ef-b5db-fbe7640f9e0b.html>
+
+---
+
+## Nate Silver makes a compelling case for taking more risks in ‘On the Edge’
+
+date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
+
+(AP) — By the time you finish Nate Silver’s new book, you’ll probably want to do something risky. 
+
+<https://www.mvariety.com/lifestyle/nate-silver-makes-a-compelling-case-for-taking-more-risks-in-on-the-edge/article_2190bf56-5e43-11ef-89df-575899992a8c.html>
+
+---
+
+## MLB roundup: Rays blow 6-0 lead, recover for 12-inning win
+
+date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
+
+(Reuters) — Dylan Carlson's RBI single in the 12th inning helped the Tampa Bay Rays overcome a blown six-run lead and sweep the Arizona Diamondbacks with an 8-7 win Sunday afternoon in St. Petersburg, Fla. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-rays-blow-6-0-lead-recover-for-12-inning-win/article_883c587e-5e3d-11ef-bd5e-034c317e1b97.html>
+
+---
+
+## 2-day soccer coaching seminar set for next week
+
+date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
+
+THE Northern Mariana Islands Football Association and instructor Takahiro Suzuki of Japan will host a two-day coaching seminar next week at the Oleai Sports Complex and the NMI Soccer Training Center in Koblerville. 
+
+<https://www.mvariety.com/sports/localsports/2-day-soccer-coaching-seminar-set-for-next-week/article_1954b760-5e3f-11ef-807b-aba92d236679.html>
+
+---
+
+## Kiribati, Niue and Tuvalu struggle to keep up with high cost of living
+
+date: 2024-08-19, from: Pacific Island Times
+
+By Gina Tabonares-Reilly Purchasing basic commodities, such as food, has been a big challenge for residents of Kiribati, Niue and Tuvalu,... 
+
+<https://www.pacificislandtimes.com/post/kiribati-niue-and-tuvalu-struggle-to-keep-up-with-high-cost-of-living>
 
 ---
 
@@ -16,6 +158,26 @@ date: 2024-08-19, from: Guam Daily Post
 A man was arrested on suspicion of terrorizing for allegedly making death threats to a woman who is employed at Bank Pacific in Hagåtña. 
 
 <https://www.postguam.com/news/gpd-arrests-man-suspected-of-terrorizing-after-extracting-suspect-from-vehicle/article_90e8a8b6-5e0f-11ef-982c-cb1d2da6c942.html>
+
+---
+
+## Fijian coral reveals new 627-year record of Pacific Ocean climate
+
+date: 2024-08-19, from: Pacific Island Times
+
+Canberra - - An international team of climate scientists has used a 627-year coral record from Fiji to reveal unprecedented insights into... 
+
+<https://www.pacificislandtimes.com/post/fijian-coral-reveals-new-627-year-record-of-pacific-ocean-climate>
+
+---
+
+##  F-15 beddown project to add strain on Guam's housing market and vital services 
+
+date: 2024-08-19, from: Pacific Island Times
+
+By Jayvee Vallejera   The U.S. military's plan to build additional infrastructure at Anderson Air Force Base to accommodate 12 fighter... 
+
+<https://www.pacificislandtimes.com/post/f-15-beddown-project-to-add-strain-on-guam-s-housing-market-and-vital-services>
 
 ---
 

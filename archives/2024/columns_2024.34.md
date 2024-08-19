@@ -1,11 +1,164 @@
 ---
 title: columns 2024.34
-updated: 2024-08-19 08:54:37
+updated: 2024-08-19 15:43:37
 ---
 
 # columns 2024.34
 
-(date: 2024-08-19 08:54:37)
+(date: 2024-08-19 15:43:37)
+
+---
+
+## 2024-08-19 Something new: intrigue
+
+date: 2024-08-19, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-19-something-new-intrigue">2024-08-19 Something new: intrigue</h1>
+
+<p>A while ago, <a class="account" href="https://ttrpg-hangout.social/@enfors" title="@enfors@ttrpg-hangout.social">@enfors</a> said he wanted his sandbox generator supplement to have something special.
+I wasn&rsquo;t exactly sure what he was thinking of, but I started thinking about the things that I feel are under-explored.</p>
+
+<p>A while ago, for example, I wondered: What would be the simplest game that emphasises how many friends you make, that rewards the size of the community you build?
+Back in 2016 I wrote a game called <a href="2016-08-19_Romantic_Fantasy">Best Friends</a> that I never used.
+It was <a href="2019-10-10_Non-adventure_games%3F">still an adventure game</a>.
+Basically, replace your &ldquo;level&rdquo; with the number of friends you have.
+Something like that.</p>
+
+<p>But that still doesn&rsquo;t get into really new territory.
+Something I would like to see is a system for how to run an intrigue as a party – including everybody at the table, for all the classes and skill profiles.
+I feel that <em>A Song of Ice and Fire</em> attempted to do this but the result wasn’t great, at least at my table.</p>
+
+<p>Quoting my past self:</p>
+
+<blockquote>
+<p>I’m also not too happy with A Song of Ice and Fire. We’ve only played three times, so I’m willing to give it more time. When I ran one of the sessions I basically split the party to the max since since all characters are so diverse. There is no D&amp;D like party and that also requires me to rethink my adventure design. – <a href="2010-04-08_Spring">2010-04-08 Spring</a></p>
+
+<p>I can always switch into a movie director stance, go around the table, point at players, “now you!” and after a bit when the exchange happened and a die was maybe cast, “as we wait for that, we cut to…” and soon enough “in the mean time…” – and I do this aggressively, in small time slots. This results in a somewhat military style of pointing at people to let them know that now is their turn, while simultaneously waving at others to hold their thoughts, or maybe cutting talkative players off when they’re running too long. It’s weird, but when there’s a lot of players, or when there’s no party play to return to, it works well enough. We’ve made these kinds of mistakes in games where there are characters that are well suited for fighting and others that are not, with their players trying to solve problems by fighting, and players do not. This happened to me when I ran a one-shot of <em>A Song of Ice and Fire</em>. It worked for a session, but it was exhausting and I don’t want to claim that it’s a good solution. It was simply a short term solution that worked, for me. Next time, however, make sure players create characters that will adventure together. – <a href="2021-02-27_Cohesion">2021-02-27 Cohesion</a></p>
+</blockquote>
+
+<p>Perhaps the split into combat and intrigue that the game introduced wasn&rsquo;t good game design because it made sense from the perspective of emulating the books but it didn&rsquo;t make sense from the perspective of some people wanting to play a game together. Or maybe it just didn&rsquo;t fit my expectations of what it means to play together. Or maybe we just missed the implied recommendation to focus on either combat or intrigue and everybody having two characters, one for each domain. Or maybe just run either a combat campaign or an intrigue campaign.</p>
+
+<p>So what I&rsquo;m looking for is for a way to get intrigue results, using procedures like we do for combat or exploration, for dungeons or the wilderness. The goal is to bring about a change in leadership of a town, a gang, a castle, an army unit, or to succeed in an act of sabotage, to incite a rebellion – things that are either hand-waved or the party is hired for the dirty work while the non-player characters are the politicians and rabble-rousers. I know this can work. It&rsquo;s OK for the party to do the dirty work, to assassinate a tyrant and the non-player characters then taking the throne and similar things, but I want to go further. I want to involve all the players at the table. I want the players to think about the logistics of war, the organising and preparations of revolutions, the intricacies of marriage politics.</p>
+
+<p>What if B/X D&amp;D went levels 1–3 is for dungeons, 4–6 is for the wilderness and 7–9 is <em>for politics</em>. Doesn&rsquo;t that sound fantastic? What sort of rules would you find in that third book? You would not get to name level by being a colonizer and clearing the land but by taking over an existing position of power – through intrigue. Oust the abbot, kick out the bishop, marry into the baron&rsquo;s family, take over the guild. With the help of your friends. Without resorting to combat, but with dice rolling.</p>
+
+<p>Not something like Burning Wheel&rsquo;s Duel of Wits but something like social combat for Fate games, like the <a href="social-combat">social combat system in Diaspora</a>, for example.</p>
+
+<p>I still feel this space is not well served.</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p>
+
+<p><strong>2024-08-19</strong>. <a class="account" href="https://dice.camp/@bradjmurray" title="@bradjmurray@dice.camp">@bradjmurray</a>&rsquo;s most recent take on those rules: <a href="https://vscadotblog.wordpress.com/2020/02/20/social-combat-in-diaspora/">social combat in diaspora</a>.</p>
+
+<p><strong>2024-08-20</strong>. I find that urban adventures suffer from the same problem. If it&rsquo;s just two or three buildings and those act like dungeons, my games work. If it&rsquo;s just social encounters that can be resolved with reaction rolls, my games work. But everything else in an urban environment seems to be politics, to me. And I have no good procedures to resolve those. So if anybody reading this is thinking about writing a blog post on the topic, I&rsquo;d love to read it.</p> 
+
+<https://alexschroeder.ch/view/2024-08-19-rpg-intrigue>
+
+---
+
+##  Winners of the 2024 Bulwer-Lytton Fiction Contest 
+
+date: 2024-08-19, updated: 2024-08-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/winners-of-the-2024-bulwer-lytton-fiction-contest>
+
+---
+
+## Elon bought the airport
+
+date: 2024-08-19, from: Dave Winer's Scripting News
+
+<p>Elon Musk bought the biggest airport on the social web. A major world hub like Atlanta, London or Dubai. </p>
+<p>Bluesky is a regional airport in a cool place, maybe Austin. </p>
+<p>Mastodon is a small network of airports, like the ones served by Ryanair in Europe. </p>
+<p>Threads is potentially one of the big airports like the one Musk bought, but it's not as much of a hub yet. Orlando? Frankfurt? </p>
+<p>There are lots of scheduled flights in and out of X because it's where most of the traffic already goes. It's quite possibly not running that smoothly, like perhaps JFK in NYC, always a mess, under construction, huge traffic, broken systems. </p>
+<p>But it does actually work pretty reliably most of the time. </p>
+<p>When I was first getting started in tech, when we got the initial angel funding for <a href="https://en.wikipedia.org/wiki/Living_Videotext">LVT</a>, I asked the lead investor, Bill Jordan, if Apple was going to go out of business. At the time, 1983, a lot of people said it would. He asked what their sales were. $1 billion, I said. He said they're not going away. Companies that large don't disappear. After 40 years of experience in tech since then, Bill was right. Companies that lead markets very rarely disappear. It does happen. But not often. More likely is Musk will right the ship, and it will grow to dominate the market. Threads will possibly be Pepsi. Mastodon will be Home Depot. Bluesky will be Laurel Canyon. Or who knows? </p>
+<p>But there's a high probability that Musk's company will exist in some form, and make us feel sick, every day, about what could have been. 😀</p>
+ 
+
+<http://scripting.com/2024/08/19/200828.html?title=elonBoughtTheAirport>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-19, from: Dave Winer's Scripting News)
+
+The Wikipedia <a href="https://en.wikipedia.org/wiki/Living_Videotext">page</a> for Living Videotext begins with one of our slogans. It was a joke, and meant to keep us humble, so we listen to users. It was one of many such slogans. LVT made some important contributions to the networks we use today. Wikipedia should talk about that first, show some respect, for crying out loud. Otherwise, except for that snipe up front, the account is actually pretty accurate. 
+
+<http://scripting.com/2024/08/19.html#a200025>
+
+---
+
+##  Never not gobsmacked by how the massive waves at Teahupo&#8217;o create an... 
+
+date: 2024-08-19, updated: 2024-08-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045148-never-not-gobsmacked-by-h>
+
+---
+
+##  What Should an Electric Car Sound Like? 
+
+date: 2024-08-19, updated: 2024-08-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/what-should-an-electric-car-sound-like>
+
+---
+
+## August 18, 2024
+
+date: 2024-08-19, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-18-2024-c04>
+
+---
+
+##  Scientists are puzzled by the presence of &#8220;little red dots&#8221; found by... 
+
+date: 2024-08-19, updated: 2024-08-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045140-scientists-are-puzzled-by>
+
+---
+
+##  Procreate will not be building any generative AI features into their fantastic... 
+
+date: 2024-08-19, updated: 2024-08-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045160-procreate-will-not-be-bui>
+
+---
+
+##  The Disciples 
+
+date: 2024-08-19, updated: 2024-08-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/the-disciples>
+
+---
+
+##  Homicide: Life on the Street is now streaming on Peacock. Alan Sepinwall... 
+
+date: 2024-08-19, updated: 2024-08-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045155-homicide-life-on-the-stre>
 
 ---
 
@@ -41,7 +194,7 @@ date: 2024-08-19, updated: 2024-08-19, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-08-19, from: Dave Winer's Scripting News)
 
-BTW, it's nice to see the DNC <a href="https://www.yahoo.com/news/the-democratic-national-convention-is-giving-influencers-media-credentials-for-the-first-time-why-both-campaigns-are-pivoting-to-social-first-strategies-110059052.html">including influencers</a> this year. I hear them say this is the first time, but I beg to disagree. A few dozen bloggers were <a href="http://scripting.com/2004/07/07.html">at the DNC in 2004</a>, and were treated well, in many ways. I think the word influencer and blogger have fairly similar meanings. Blogger is a broader term, because it's possible to have a very small readership for a blog, thus not be influencing very much, but still have a lot of value. And you always can influence your mom and little sister, right? <span class="spOldSchoolEmoji">😄</span> 
+It's nice to see the DNC <a href="https://www.yahoo.com/news/the-democratic-national-convention-is-giving-influencers-media-credentials-for-the-first-time-why-both-campaigns-are-pivoting-to-social-first-strategies-110059052.html">including influencers</a> this year. I hear them say this is the first time, but I beg to disagree. A few dozen bloggers were <a href="http://scripting.com/2004/07/07.html">at the DNC in 2004</a>, and were treated well, in many ways. I think the word influencer and blogger have fairly similar meanings. Blogger is a broader term, because it's possible to have a very small readership for a blog, thus not be influencing very much, but still have a lot of value. And you always can influence your mom and little sister, right? <span class="spOldSchoolEmoji">😄</span> 
 
 <http://scripting.com/2024/08/19.html#a142623>
 
@@ -49,7 +202,7 @@ BTW, it's nice to see the DNC <a href="https://www.yahoo.com/news/the-democratic
 
 **@Dave Winer's Scripting News** (date: 2024-08-19, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/03/shootThisDog.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><b>Respect the reader</b>. This isn't exactly a new <a href="https://this.how/rulesForJournalism/">rule for journalism</a>, but it's worth mentioning anyway. If you wouldn't want to read the piece yourself, don't let them put your name on it. Example. A <a href="https://www.nytimes.com/2024/08/18/us/politics/kamala-harris-2010-debate.html?unlocked_article_code=1.EE4.7g6L.aTYQ0sm2Xwz6&smid=url-share">story</a> promises to tell you about 47 seconds that saved Kamala Harris's career. They do eventually tell you the words, but you have to wade through a lot of pointless bullshit to get to it. If I were writing it, the first words of the piece would have to be the words, and then explain it. You've seen this over and over and it gets worse all the time. I still don't understand why they do it, if I'm reading the piece, I'm a paying subscriber, right? Another example of disrespect, quit trying to upsell paying customers. Once a month maybe, but not every 8th time I visit your site. Most businesses have no regard for their customers' time, but the ones that do, really make an impression. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/03/shootThisDog.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Respect the reader. This isn't exactly a new <a href="https://this.how/rulesForJournalism/">rule for journalism</a>, but it's worth mentioning anyway. If you wouldn't want to read the piece yourself, don't let them put your name on it. Example. A <a href="https://www.nytimes.com/2024/08/18/us/politics/kamala-harris-2010-debate.html?unlocked_article_code=1.EE4.7g6L.aTYQ0sm2Xwz6&smid=url-share">story</a> promises to tell you about 47 seconds that saved Kamala Harris's career. They do eventually tell you the words, but you have to wade through a lot of pointless bullshit to get to it. If I were writing it, the first words of the piece would have to be the words, and then explain it. You've seen this over and over and it gets worse all the time. I still don't understand why they do it, if I'm reading the piece, I'm a paying subscriber, right? Another example of disrespect, quit trying to upsell paying customers. Once a month maybe, but not every 8th time I visit your site. Most businesses have no regard for their customers' time, but the ones that do, really make an impression. 
 
 <http://scripting.com/2024/08/19.html#a140827>
 
@@ -315,6 +468,16 @@ date: 2024-08-19, from: Daniel Stenberg Blog
 This is episode four in my mini-series about shiny new features in the upcoming curl 8.10.0 release. One of the most commonly used curl command line options is the dash capital O (-O) which also is known as dash dash remote-name (--remote-name) in its long form. This option tells curl to create a local file &#8230; <a href="https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/" class="more-link">Continue reading <span class="screen-reader-text">a filename when none exists</span> <span class="meta-nav">&#8594;</span></a> 
 
 <https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/>
+
+---
+
+## Migrating Mess With DNS to use PowerDNS
+
+date: 2024-08-19, updated: 2024-08-19, from: Julia Evans blog
+
+ 
+
+<https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/>
 
 ---
 
