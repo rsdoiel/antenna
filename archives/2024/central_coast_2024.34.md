@@ -1,11 +1,88 @@
 ---
 title: central coast 2024.34
-updated: 2024-08-19 15:43:37
+updated: 2024-08-20 08:14:02
 ---
 
 # central coast 2024.34
 
-(date: 2024-08-19 15:43:37)
+(date: 2024-08-20 08:14:02)
+
+---
+
+## Sandhill Silhouettes
+
+date: 2024-08-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-POD-Ross-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sandhill cranes are silhouetted against the sunset at Crystal Lake in Lake Mary, Florida." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-POD-Ross-Macfadyen.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-POD-Ross-Macfadyen.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-POD-Ross-Macfadyen.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-POD-Ross-Macfadyen.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-POD-Ross-Macfadyen.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-POD-Ross-Macfadyen.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-POD-Ross-Macfadyen.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-POD-Ross-Macfadyen.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-POD-Ross-Macfadyen.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-POD-Ross-Macfadyen.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-POD-Ross-Macfadyen.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-POD-Ross-Macfadyen.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081124-POD-Ross-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/sandhill-silhouettes/">Sandhill Silhouettes</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sandhill-silhouettes/>
+
+---
+
+## New Year Brings Changes as Students in Santa Barbara District Head Back to School
+
+date: 2024-08-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-sbusd-first-day-2-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Jessica Zamora, a first-grade teacher at McKinley Elementary School in Santa Barbara, says having dual immersion allows students to foster their home language and their secondary language." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-sbusd-first-day-2-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-sbusd-first-day-2-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-sbusd-first-day-2-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-sbusd-first-day-2-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-sbusd-first-day-2-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-sbusd-first-day-2-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-sbusd-first-day-2-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-sbusd-first-day-2-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-sbusd-first-day-2-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-sbusd-first-day-2-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>At Santa Barbara High School, students in the Visual Arts &#38; Design Academy started the school year in a brand-new building, a project that’s been seven years in the making.&#160; [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/new-year-brings-changes-as-santa-barbara-students-head-back-to-school/">New Year Brings Changes as Students in Santa Barbara District Head Back to School</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/new-year-brings-changes-as-santa-barbara-students-head-back-to-school/>
+
+---
+
+## Santa Barbara High Schools Crack Down on Phones in Class with ‘Cell Hotels’
+
+date: 2024-08-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-cell-phone-policy-3-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Dos Pueblos High School Principal Bill Woodard holds up one of the “cell hotels” being used campuswide starting this school year. Students will be required to put their phones in their assigned pocket at the beginning of each class." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-cell-phone-policy-3-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-cell-phone-policy-3-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-cell-phone-policy-3-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-cell-phone-policy-3-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-cell-phone-policy-3-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-cell-phone-policy-3-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-cell-phone-policy-3-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-cell-phone-policy-3-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-cell-phone-policy-3-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081624-cell-phone-policy-3-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>While online and digital learning became the norm during the COVID-19 pandemic, the reliance on technology has made students, and perhaps everyone, more attached to their cellphones.&#160; Some teachers have [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-high-schools-cracking-down-on-phones-in-class-with-cell-hotels/">Santa Barbara High Schools Crack Down on Phones in Class with &#8216;Cell Hotels&#8217;</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-high-schools-cracking-down-on-phones-in-class-with-cell-hotels/>
+
+---
+
+## Santa Ynez Valley Man Sentenced for Unlawful Sexual Contact with Boys
+
+date: 2024-08-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Greg-Ray-Sentencing1-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Defendant Gregory Scott Ray, 58, is sentenced Monday in Santa Barbara County Superior Court in Santa Maria after being convicted of multiple felony charges stemming from sexual encounters with underage boys. Ray worked as a yearbook salesman, including at Santa Ynez Valley Union High School, until his arrest." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Greg-Ray-Sentencing1-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Greg-Ray-Sentencing1-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Greg-Ray-Sentencing1-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Greg-Ray-Sentencing1-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Greg-Ray-Sentencing1-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Greg-Ray-Sentencing1-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Greg-Ray-Sentencing1-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Greg-Ray-Sentencing1-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Greg-Ray-Sentencing1-js.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Greg-Ray-Sentencing1-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>John Doe No. 3, now an adult, said that when he was underage he viewed Gregory Scott Ray as a trusted adult in the Santa Ynez Valley, not a sexual [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-ynez-valley-man-sentenced-for-unlawful-sexual-encounters-with-boys/">Santa Ynez Valley Man Sentenced for Unlawful Sexual Contact with Boys</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-ynez-valley-man-sentenced-for-unlawful-sexual-encounters-with-boys/>
+
+---
+
+## Season Preview: Carpinteria High Football Turning Back the Clock for 2024 Season
+
+date: 2024-08-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/carp-preview-story.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/carp-preview-story.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/carp-preview-story.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/carp-preview-story.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/carp-preview-story.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/carp-preview-story.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/carp-preview-story.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/carp-preview-story.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/carp-preview-story.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/carp-preview-story.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/carp-preview-story.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>This preview is the fifth in a series of articles highlighting the local 11-man high school football teams ahead of the 2024 season. The season begins with Week Zero on [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/season-preview-carpinteria-high-football-turning-back-the-clock-for-2024-season/">Season Preview: Carpinteria High Football Turning Back the Clock for 2024 Season</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/season-preview-carpinteria-high-football-turning-back-the-clock-for-2024-season/>
+
+---
+
+## Santa Barbara Commission Concerned About New Design for Iconic Franceschi House
+
+date: 2024-08-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="708" height="432" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-Franceschi-House-1-Courtesy.jpg?fit=708%2C432&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-Franceschi-House-1-Courtesy.jpg?w=708&amp;ssl=1 708w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-Franceschi-House-1-Courtesy.jpg?resize=300%2C183&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-Franceschi-House-1-Courtesy.jpg?resize=400%2C244&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-Franceschi-House-1-Courtesy.jpg?resize=706%2C431&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-Franceschi-House-1-Courtesy.jpg?fit=708%2C432&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It&#8217;s one last cry for Franceschi House. Although the city of Santa Barbara wants to demolish the historic home in the Riviera hills, the alternative to replace it remains unclear. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-historic-landmarks-commission-raises-concerns-about-new-design-for-iconic-franceschi-house/">Santa Barbara Commission Concerned About New Design for Iconic Franceschi House</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-historic-landmarks-commission-raises-concerns-about-new-design-for-iconic-franceschi-house/>
 
 ---
 

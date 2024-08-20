@@ -1,11 +1,101 @@
 ---
 title: games 2024.34
-updated: 2024-08-19 15:43:39
+updated: 2024-08-20 08:14:05
 ---
 
 # games 2024.34
 
-(date: 2024-08-19 15:43:39)
+(date: 2024-08-20 08:14:05)
+
+---
+
+## Shadow the Hedgehog is Venom now
+
+date: 2024-08-20, updated: 2024-08-20, from: Polygon Website
+
+Shadow the Hedgehog will draw upon the powers of black goo in Sonic X Shadow Generations, which includes a new story campaign that will turn the dark hedgehog into, for all intents and purposes, the Venom of the Sonic-verse. Sega’s new trailer for the Shadow side of Sonic X Shadow Generations shows off the gun-toting [&#8230;] 
+
+<https://www.polygon.com/news/441856/sonic-x-shadow-generations-venom>
+
+---
+
+## Black Myth: Wukong makes record-breaking debut on Steam
+
+date: 2024-08-20, updated: 2024-08-20, from: Polygon Website
+
+Just hours after its debut, Black Myth: Wukong is already breaking records on Steam. Black Myth: Wukong is currently the top-played game on Steam with a peak of 2,151,942 concurrent players at the time of writing. That puts developer Game Science’s retelling of Journey to the West in the second slot for the highest concurrent [&#8230;] 
+
+<https://www.polygon.com/news/441851/black-myth-wukong-steam-charts>
+
+---
+
+## Atari announces the 7800 Plus console coming this winter
+
+date: 2024-08-20, updated: 2024-08-20, from: Polygon Website
+
+It’s not often that I get to write about a console that’s as old as I am, but here we are. Atari has just announced a renewed version of its 7800 home console from 1986. Dubbed the 7800 Plus, the new console will launch later this winter but is already available to pre-order from Atari [&#8230;] 
+
+<https://www.polygon.com/pre-order/441690/atari-7800-plus-price-availability-games>
+
+---
+
+## Gamescom 2024
+
+date: 2024-08-20, updated: 2024-08-19, from: Polygon Website
+
+The game industry’s biggest convention is back. This week, Gamescom 2024 kicks off in Germany with an Opening Night Live showcase followed by five days of show-floor demos and events. In 2023, Gamescom announced it had 320,000 visitors, a 21% jump over 2022’s numbers. That’s over four times what E3 got at its peak — [&#8230;] 
+
+<https://www.polygon.com/gamescom/440839/gamescom-2024-everything-announced>
+
+---
+
+## Alien: Romulus is Ready Player One for the Alien universe
+
+date: 2024-08-20, updated: 2024-08-20, from: Polygon Website
+
+Fede Álvarez may have been the perfect director to refresh the Alien film franchise. His movie Alien: Romulus is incredibly well shot, with the camera slinking like a predator down each beautiful hallway in the failing Romulus space station, building tension with each step the characters take. Problem is, he just happened to be the [&#8230;] 
+
+<https://www.polygon.com/entertainment/441159/alien-romulus-ready-player-ash-rain-ian-holm>
+
+---
+
+## All Buddha’s Eyeballs locations in Black Myth: Wukong
+
+date: 2024-08-20, updated: 2024-08-20, from: Polygon Website
+
+There are six Buddha’s Eyeballs scattered throughout the Fright Cliff area in chapter 2 of Black Myth: Wukong. Finding all of these eyeballs and the statue heads that hold them seems to unlock a secret boss in the area, which leads to even more secret items you’ll use later on in the game. In this [&#8230;] 
+
+<https://www.polygon.com/guides/440633/black-myth-wukong-buddha-eyeball-locations-where-to-deliver>
+
+---
+
+## Black Myth: Wukong beginner’s tips before starting
+
+date: 2024-08-20, updated: 2024-08-20, from: Polygon Website
+
+Black Myth: Wukong is, as our review said, both confounding and spectacular. It’s an action RPG soulslike that has a lot of the genre’s usual beats — XP and skill tree, checkpoints that save your progress while also respawning enemies — while also putting its own unique spin on them. Our Black Myth: Wukong beginner’s [&#8230;] 
+
+<https://www.polygon.com/guides/441638/black-myth-wukong-beginners-tips-tricks>
+
+---
+
+## All bell locations in Black Myth: Wukong chapter 1
+
+date: 2024-08-20, updated: 2024-08-19, from: Polygon Website
+
+There are three hidden bells to find in Black Myth: Wukong’s first chapter, the “Black Wind Mountain.” Finding and ringing all three of these bells will whisk you away to the game’s first secret area, the Ancient Guanyin Temple, where you’ll battle a hidden boss and earn your first Vessel: the Fireproof Mantle. In this [&#8230;] 
+
+<https://www.polygon.com/guides/440629/black-myth-wukong-bell-locations-chapter-1-secret-area>
+
+---
+
+## How to help the Yellow-Robed Squire in chapter 2 of Black Myth: Wukong
+
+date: 2024-08-20, updated: 2024-08-19, from: Polygon Website
+
+Part of the way through “Yellow Wind Ridge,” Black Myth: Wukong’s second chapter, you’ll encounter an open area with a drunken warthog sitting on the ground. This is the Yellow-Robed Squire, and he needs a bit of help. Doing so rewards you with the Wind Tamer Vessel. In this Black Myth: Wukong guide, we’ll walk [&#8230;] 
+
+<https://www.polygon.com/guides/440630/black-myth-wukong-yellow-robed-squire-how-to-help-chapter-2-secret-area>
 
 ---
 

@@ -1,11 +1,84 @@
 ---
 title: socal north 2024.34
-updated: 2024-08-19 15:43:34
+updated: 2024-08-20 08:14:00
 ---
 
 # socal north 2024.34
 
-(date: 2024-08-19 15:43:34)
+(date: 2024-08-20 08:14:00)
+
+---
+
+## In Plain Sight: Bruin Bus drivers bring attentiveness, positivity to students
+
+date: 2024-08-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+From passing out kindness bracelets to listening to people share their grief, transporting students to class is only half the job for Bruin Bus drivers.
+Last year, Bruin Bus operators provided 294,339 rides to students, faculty and the general public. 
+
+<https://dailybruin.com/2024/08/19/in-plain-sight-bruin-bus-drivers-bring-attentiveness-positivity-to-students/>
+
+---
+
+## Op-ed: UCLA must adopt institutional neutrality to protect free, diverse speech
+
+date: 2024-08-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor’s note: The following letter was sent to Darnell Hunt, UCLA’s interim chancellor, on Aug. 9 on behalf of Bruin Alumni in Defense of Free Speech. 
+
+<https://dailybruin.com/2024/08/19/op-ed-ucla-must-adopt-institutional-neutrality-to-protect-free-diverse-speech/>
+
+---
+
+## Alumnus Shizu Saldamando recognizes community importance, diversity in artwork
+
+date: 2024-08-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+With every piece, Shizu Saldamando highlights the beauty of human connection.
+With work ranging from sculptures to videos to portraits, Saldamando said her pieces depict the people surrounding her and demonstrate the importance of communities. 
+
+<https://dailybruin.com/2024/08/19/alumnus-shizu-saldamando-recognizes-community-importance-diversity-in-artwork/>
+
+---
+
+## Orange County announces lawsuit against another nonprofit with connections to Supervisor Andrew Do
+
+date: 2024-08-20, updated: 2024-08-20, from: The LAist
+
+Supervisor Katrina Foley announced Monday that the county has filed a lawsuit against Hand to Hand Relief Organization and its CEO to recover millions of taxpayer dollars. 
+
+<https://laist.com/news/politics/orange-county-announces-lawsuit-against-another-nonprofit-with-connections-to-supervisor-andrew-do>
+
+---
+
+## 2024 UCLA football position preview: Offensive line
+
+date: 2024-08-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Inching closer to a new era for UCLA football in the Big Ten, Daily Bruin Sports will preview each of the Bruins&#8217; position groups prior to the season&#8217;s official start. 
+
+<https://dailybruin.com/2024/08/19/2024-ucla-football-position-preview-offensive-line/>
+
+---
+
+## Luskins gift $25M to UCLA Department of History for engagement in major
+
+date: 2024-08-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Department of History has received a gift of $25 million from two alumni.
+The Department of External Affairs announced July 16 that UCLA alumni Meyer and Renee Luskin donated the gift to the history department, with the couple saying their goal is to expand opportunities for students and for them to engage with history and build greater public appreciation for historical understanding. 
+
+<https://dailybruin.com/2024/08/19/luskins-gift-25m-to-ucla-department-of-history-for-engagement-in-major/>
+
+---
+
+## Statewide campaign seeks employment opportunity for undocumented students
+
+date: 2024-08-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Opportunity for All campaign is pushing to secure employment opportunities for undocumented students within the University of California system, challenging the application of federal immigration laws to state-run institutions. 
+
+<https://dailybruin.com/2024/08/19/statewide-campaign-seeks-employment-opportunity-for-undocumented-students/>
 
 ---
 

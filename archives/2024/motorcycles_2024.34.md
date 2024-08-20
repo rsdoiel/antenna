@@ -1,11 +1,61 @@
 ---
 title: motorcycles 2024.34
-updated: 2024-08-19 15:43:42
+updated: 2024-08-20 08:14:07
 ---
 
 # motorcycles 2024.34
 
-(date: 2024-08-19 15:43:42)
+(date: 2024-08-20 08:14:07)
+
+---
+
+## BSA’s New Gold Star is Pretty Slick. Will It Steal Customers From Royal Enfield?
+
+date: 2024-08-20, from: Ride Apart, Electric Motorcycle News
+
+The Gold Star will face stiff competition from Royal Enfield.  
+
+<https://www.rideapart.com/news/730545/bsa-goldstar-650-launched-india/>
+
+---
+
+## Justice at Last? Norton Pensions Scandal Victims Finally Get Paid
+
+date: 2024-08-20, from: Ride Apart, Electric Motorcycle News
+
+It's been over a decade since the whole scam went down. 
+
+<https://www.rideapart.com/news/730659/norton-pensions-scandal-payments-2024/>
+
+---
+
+## I'm Sorry, But What Does Harley's 'We're Not Woke' Statement Even Mean?
+
+date: 2024-08-20, from: Ride Apart, Electric Motorcycle News
+
+If you ever wanted to learn how to talk out both sides of your mouth, read this memo. 
+
+<https://www.rideapart.com/news/730673/harley-woke-controversy-official-response/>
+
+---
+
+## Looks Like Kawasaki is Working On a Bigger, Better Versys
+
+date: 2024-08-20, from: Ride Apart, Electric Motorcycle News
+
+The slightly upsized engine could also pave the way for updates to the rest of Kawasaki’s lineup.  
+
+<https://www.rideapart.com/news/730547/kawasaki-versys-1100-coming-soon/>
+
+---
+
+## One Rider Died, Another Injured, So Harley-Davidson Now Has to Pay $287 Million
+
+date: 2024-08-20, from: Ride Apart, Electric Motorcycle News
+
+Faulty traction control was blamed.  
+
+<https://www.rideapart.com/news/730653/harley-davidson-sued-287-million-dollar-payment/>
 
 ---
 

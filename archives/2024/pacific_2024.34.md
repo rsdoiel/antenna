@@ -1,11 +1,672 @@
 ---
 title: pacific 2024.34
-updated: 2024-08-19 15:43:36
+updated: 2024-08-20 08:14:01
 ---
 
 # pacific 2024.34
 
-(date: 2024-08-19 15:43:36)
+(date: 2024-08-20 08:14:01)
+
+---
+
+## †Theresa Reyes Dela Cruz
+
+date: 2024-08-20, updated: 2024-08-20, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/obituaries/theresa-reyes-dela-cruz/article_0a5bc9f6-5ecb-11ef-a573-fb7a64aae418.html>
+
+---
+
+## Driver pleads guilty in fatal hit-and-run
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>A 71-year-old Hilo man pleaded guilty Monday to second-degree negligent homicide for the Oct. 3, 2023, traffic collision death of a 79-year-old Hilo woman.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/hawaii-news/driver-pleads-guilty-in-fatal-hit-and-run/>
+
+---
+
+## Proposed measure would increase cell tower construction regulations
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>A pair of county bills aim to increase regulations on the construction of cell towers on the island.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/hawaii-news/proposed-measure-would-increase-cell-tower-construction-regulations/>
+
+---
+
+## Emotional Biden touts legacy and Harris at convention’s open
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>President Joe Biden delivered an emotional and bittersweet call for Democrats to rally behind Kamala Harris, as his party used the first night of its national convention in Chicago to celebrate his presidency while simultaneously passing the torch to a new generation.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/nation-world-news/emotional-biden-touts-legacy-and-harris-at-conventions-open/>
+
+---
+
+## Bail maintained for couple charged with numerous offenses
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>A judge maintained bail Monday for a Hilo couple who face numerous offenses following a search warrant served early Sunday morning at their Ponahawai Street residence.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/hawaii-news/bail-maintained-for-couple-charged-with-numerous-offenses/>
+
+---
+
+## Outraged over Gaza, protesters show left-wing divisions as convention opens
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO &#8212; As Democrats gathered in Chicago on Monday, eager to project an image of a liberal movement fully united behind Vice President Kamala Harris, thousands of people marched a few blocks away, presenting a thorny counterpoint.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/nation-world-news/outraged-over-gaza-protesters-show-left-wing-divisions-as-convention-opens/>
+
+---
+
+## County bill would establish permit system for roadside vendors
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>Roadside vendors will need a permit to hawk their wares on county roads under a measure being considered by a Hawaii County Council committee today.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/hawaii-news/county-bill-would-establish-permit-system-for-roadside-vendors/>
+
+---
+
+## Partnered with SpaceX, billionaire set for return spaceflight and historic spacewalk
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>CAPE CANAVERAL, Fla. &#8212; Billionaire Jared Isaacman hasn&#8217;t been to space 1,066 days. He has to wait at least seven more for his return, but this time he hopes to perform the first commercial tethered spacewalk in history.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/nation-world-news/partnered-with-spacex-billionaire-set-for-return-spaceflight-and-historic-spacewalk/>
+
+---
+
+## Blinken says Israel accepts Gaza proposal, urges Hamas to do same
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>TEL AVIV/CAIRO &#8212; U.S. Secretary of State Antony Blinken said on Monday Israeli Prime Minister Benjamin Netanyahu had accepted a &#8220;bridging proposal&#8221; presented by Washington to tackle disagreements blocking a ceasefire deal in Gaza, and urged Hamas to do the same.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/nation-world-news/blinken-says-israel-accepts-gaza-proposal-urges-hamas-to-do-same/>
+
+---
+
+## Prosecutors leave decision on delaying Trump’s sentencing up to judge
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Manhattan prosecutors left the politically fraught decision of when to sentence Donald Trump in his criminal hush-money case to a judge, declining to endorse or oppose the former president&#8217;s request to postpone until after the November election.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/nation-world-news/prosecutors-leave-decision-on-delaying-trumps-sentencing-up-to-judge/>
+
+---
+
+## British entrepreneur Mike Lynch among missing after luxury yacht sinks off Sicily
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>PALERMO, Sicily &#8212; One man died and six people were missing, including British tech entrepreneur Mike Lynch and his daughter, after a luxury yacht was struck by an unexpectedly violent storm and sank off Sicily early on Monday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/nation-world-news/british-entrepreneur-mike-lynch-among-missing-after-luxury-yacht-sinks-off-sicily/>
+
+---
+
+## Phil Donahue, talk host who made audiences part of the show, dies at 88
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>Phil Donahue, who in the 1960s reinvented the television talk show with a democratic flourish, inviting audiences to question his guests on topics as high-minded as human rights and international relations, and as lowbrow as male strippers and safe-sex orgies, died Sunday at his home on the Upper East Side of Manhattan in New York City. He was 88.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/nation-world-news/phil-donahue-talk-host-who-made-audiences-part-of-the-show-dies-at-88/>
+
+---
+
+## Obituaries for August 20
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>Charles &#8220;Charlie&#8221; Andrew England, 56, of Keaau died July 22 at Yukio Okutsu State Veterans Home in Hilo. Born in Honolulu, he was a retired Hawaii Army National Guard sergeant first class and helicopter mechanic and U.S. Army Afghanistan War veteran. Graveside committal service 11:30 a.m. Friday, Aug. 30, at Hawaii Veterans Cemetery No.2 Pavilion. Burial to follow. Survived by nieces, Leanne (Jerron) Roberts and Sara Boyd; nephew, Russell Boyd. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/obituaries/obituaries-for-august-20-10/>
+
+---
+
+## Trump says he may end EV tax credit; is open to naming Elon Musk as an adviser
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>YORK, Penn. &#8212; Republican presidential candidate Donald Trump said on Monday that if elected he would consider ending a $7,500 tax credit for electric-vehicle purchases and that he would be open to naming Tesla CEO Elon Musk to a cabinet or advisory role.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/nation-world-news/trump-says-he-may-end-ev-tax-credit-is-open-to-naming-elon-musk-as-an-adviser/>
+
+---
+
+## George Santos pleads guilty to wire fraud and identity theft
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>CENTRAL ISLIP, N.Y. &#8212; George Santos, the disgraced former Republican member of Congress from New York whose penchant for lying led to one of the oddest sideshows in modern U.S. politics, pleaded guilty on Monday to wire fraud and aggravated identity theft and admitted to an array of other frauds and deceits.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/nation-world-news/george-santos-pleads-guilty-to-wire-fraud-and-identity-theft/>
+
+---
+
+## BIIF volleyball: Kona, Parker sweep season openers
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>KEALAKEKUA &#8212; Konawaena girls volleyball opened its season with a warm welcome from the green-and-white faithful, as hundreds packed into Ellison Onizuka Gymnasium to watch the 2023 Big Island Interscholastic Federation (BIIF) Division II runner-ups take on Kohala.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/sports/biif-volleyball-kona-parker-sweep-season-openers/>
+
+---
+
+## Dolphins’ Tua doesn’t hold back in calling out ex-coach Brian Flores’ demeanor
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>MIAMI GARDENS, Fla. &#8212; Miami Dolphins quarterback Tua Tagovailoa and former coach Brian Flores didn&#8217;t have the most amicable relationship in their two years together.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/sports/dolphins-tua-doesnt-hold-back-in-calling-out-ex-coach-brian-flores-demeanor/>
+
+---
+
+## MLB roundup: Adrian Del Castillo (6 RBIs), D-backs top Marlins
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>Rookie catcher Adrian Del Castillo, a Miami native playing his first pro game in his hometown, slugged a grand slam and drove in six runs, leading the Arizona Diamondbacks to a 9-6 win over the host Marlins on Monday night.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/sports/mlb-roundup-adrian-del-castillo-6-rbis-d-backs-top-marlins/>
+
+---
+
+## Mets’ Francisco Alvarez ends his home run drought in walk-off fashion
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Francisco Alvarez savored the moment.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/sports/mets-francisco-alvarez-ends-his-home-run-drought-in-walk-off-fashion/>
+
+---
+
+## Aryna Sabalenka emotional after Cincinnati title
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; No. 3 seed Aryna Sabalenka of Belarus defeated No. 6 seed Jessica Pegula 6-3, 7-5 in an hour and 15 minutes to win the Cincinnati Open on Monday in Mason, Ohio. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/sports/aryna-sabalenka-emotional-after-cincinnati-title/>
+
+---
+
+## Your Views for August 20
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>Some questions about&#0010;&#8216;Visitor Destinations&#8217;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/opinion/your-views-for-august-20-6/>
+
+---
+
+## Harris needs to fill in the blanks for undecided voters
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>Since President Joe Biden ducked out of the presidential race last month, Vice President Kamala Harris has made steady gains against Donald Trump in most polls.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/opinion/harris-needs-to-fill-in-the-blanks-for-undecided-voters/>
+
+---
+
+## Bizarre raw milk trend is putting kids at risk
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>If there&#8217;s one thing that wasn&#8217;t on my bingo card for 2024, it was this: that amid a national outbreak of bird flu among dairy cows, sales of raw milk would surge.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/opinion/bizarre-raw-milk-trend-is-putting-kids-at-risk/>
+
+---
+
+## Let’s Talk Food: Pasta salads
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>Pasta salads are a great side dish for a picnic or gathering as it tastes best at room temperature. It can be made to fit a theme, whether it is Mediterranean, Greek, Southwestern, Italian or Asian, just by changing the ingredients.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/community/lets-talk-food-pasta-salads/>
+
+---
+
+## County to hold lottery for horse stall rentals
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Department of Parks and Recreation on Wednesday, Sept. 4, will conduct the annual lottery drawing for assignment of horse stalls at the Pana&#8216;ewa Equestrian Center in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/community/county-to-hold-lottery-for-horse-stall-rentals/>
+
+---
+
+## Veterans encourage others to apply to Honor Flight program
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii military veterans can apply for a free tour to Washington, D.C., in recognition of their service.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/community/veterans-encourage-others-to-apply-to-honor-flight-program/>
+
+---
+
+## HPD honors two dispatchers
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Police Department is pleased to announce that Police Communications Officer Nashly Leslie was named Dispatcher of the Quarter for the first quarter of 2024, (January, February, March), and Police Communications Officer Kainapau &#8220;Ka&#8216;ina&#8221; Mossman was named Dispatcher of the Quarter for the second quarter of 2024, (April, May, June).</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/community/hpd-honors-two-dispatchers/>
+
+---
+
+## DLNR launches Explore Outdoor Hawaii
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>A new website launched recently helps Hawaii residents and visitors easily find recreational services available across the state.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/community/dlnr-launches-explore-outdoor-hawaii/>
+
+---
+
+## Trade and Culture to mark 25th year of Palau-Taiwan diplomatic ties
+
+date: 2024-08-20, from: Island Times
+
+<figure><img width="1024" height="577" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/20240819_095303-scaled.jpg?fit=1024%2C577&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/20240819_095303-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/20240819_095303-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/20240819_095303-scaled.jpg?resize=1024%2C577&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/20240819_095303-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/20240819_095303-scaled.jpg?resize=1536%2C865&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/20240819_095303-scaled.jpg?resize=2048%2C1153&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/20240819_095303-scaled.jpg?resize=1200%2C676&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/20240819_095303-scaled.jpg?resize=1568%2C883&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/20240819_095303-scaled.jpg?resize=2000%2C1126&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/20240819_095303-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/20240819_095303-scaled.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/20240819_095303-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/20240819_095303-scaled.jpg?fit=1024%2C577&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72008" data-permalink="https://islandtimes.org/trade-and-culture-to-mark-25th-year-of-palau-taiwan-diplomatic-ties/20240819_095303/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/20240819_095303-scaled.jpg?fit=2560%2C1441&amp;ssl=1" data-orig-size="2560,1441" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1724061183&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;1.74&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20240819_095303" data-image-description="" data-image-caption="&lt;p&gt;Pictures of different products and vendors from Taiwan at the Taiwan/Palau Trade Show at the Amayong Cultural Center.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/20240819_095303-scaled.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/20240819_095303-scaled.jpg?fit=780%2C440&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau – Taiwan embassy organized the first Taiwan-Palau Trade and Cultural Show. While this is the 3rd consecutive year Taiwan embassy has been hosting trade shows, culture and arts were added to the exhibitions this year in celebration of Palau and Taiwan’s 25th year of diplomatic ties. This 3 days [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/trade-and-culture-to-mark-25th-year-of-palau-taiwan-diplomatic-ties/">Trade and Culture to mark 25th year of Palau-Taiwan diplomatic ties</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/trade-and-culture-to-mark-25th-year-of-palau-taiwan-diplomatic-ties/>
+
+---
+
+## Japanese Destroyer JS Ariake Celebrates 30 Years of Diplomatic Ties in Palau
+
+date: 2024-08-20, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72006" data-permalink="https://islandtimes.org/japanese-destroyer-js-ariake-celebrates-30-years-of-diplomatic-ties-in-palau/messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?fit=2048%2C1536&amp;ssl=1" data-orig-size="2048,1536" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958" data-image-description="" data-image-caption="&lt;p&gt;Palau leaders meet with Captain and crew of Japanese Destroyer JS Ariake&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_816c0bf8-9f3b-4e19-aafc-adc786f9b958.jpeg?fit=780%2C585&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau – The Japan Maritime Self-Defense Force destroyer JS Ariake concluded a three-day visit to Palau today, marking a significant occasion as part of its port call mission to strengthen regional ties. The ship&#8217;s visit from August 18-20 was organized in celebration of the 30th anniversary of diplomatic relations between [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japanese-destroyer-js-ariake-celebrates-30-years-of-diplomatic-ties-in-palau/">Japanese Destroyer JS Ariake Celebrates 30 Years of Diplomatic Ties in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/japanese-destroyer-js-ariake-celebrates-30-years-of-diplomatic-ties-in-palau/>
+
+---
+
+## Palauan Soccer Star Picks UCLA
+
+date: 2024-08-20, from: Island Times
+
+<figure><img width="626" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?fit=626%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?w=940&amp;ssl=1 940w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?resize=183%2C300&amp;ssl=1 183w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?resize=626%2C1024&amp;ssl=1 626w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?resize=768%2C1256&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?resize=400%2C654&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?resize=706%2C1154&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?fit=626%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72004" data-permalink="https://islandtimes.org/palauan-soccer-star-picks-ucla/messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?fit=940%2C1537&amp;ssl=1" data-orig-size="940,1537" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0" data-image-description="" data-image-caption="&lt;p&gt;Momo Saruang Ueki, a dual Palauan-Japanese soccer player, plays for  national Japanese soccer team. (Supplied)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?fit=183%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?fit=626%2C1024&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>PALAU – Momo Saruang Ueki, a dual Palauan-Japanese soccer standout, has committed to the University of California, Los Angeles. The 18-year-old striker, who plays for Japan&#8217;s national team, chose UCLA over scholarship offers from Harvard, Nebraska, and other top U.S. schools. Born in Japan to a Palauan father and Japanese mother, Ueki began playing soccer [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauan-soccer-star-picks-ucla/">Palauan Soccer Star Picks UCLA</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palauan-soccer-star-picks-ucla/>
+
+---
+
+## Breaking the Silence: Addressing Cyberbullying in Palau
+
+date: 2024-08-20, from: Island Times
+
+<p>By: Eustoria Marie Borja Koror, Palau &#8211; As digital connectivity expands in Palau, a troubling issue has emerged: cyberbullying. This modern form of harassment has quickly taken root on social media platforms such as TikTok and Facebook, targeting both young people and adults. With no specific legislation in place to address it, the effects of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/breaking-the-silence-addressing-cyberbullying-in-palau/">Breaking the Silence: Addressing Cyberbullying in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/breaking-the-silence-addressing-cyberbullying-in-palau/>
+
+---
+
+## PIPG Issues Ngibtal Declaration, Calls for Pacific Unity
+
+date: 2024-08-20, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau – Following the Pacific Islands Parliament Group (PIPG) conference hosted by Palau last August 14-16, the organization made up of legislative bodies across the Pacific islands concluded with Ngibtal Declaration. The 5 pages’ communique focused on “Human security in the Pacific Islands” outlined 30 actions for the organization to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pipg-issues-ngibtal-declaration-calls-for-pacific-unity/">PIPG Issues Ngibtal Declaration, Calls for Pacific Unity</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/pipg-issues-ngibtal-declaration-calls-for-pacific-unity/>
+
+---
+
+## Chinese worker who used fake Philippine passport told to leave Palau
+
+date: 2024-08-20, from: Island Times
+
+<p>A Chinese worker has been told to leave the country before the end of August after using a fake Philippine passport to obtain an entry permit and a job. “I regret to inform you that Mr. Lim has been found ineligible to remain in the Republic of Palau and such denial is in the best [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/chinese-worker-who-used-fake-philippine-passport-told-to-leave-palau/">Chinese worker who used fake Philippine passport told to leave Palau </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/chinese-worker-who-used-fake-philippine-passport-told-to-leave-palau/>
+
+---
+
+## Cultural Exchange Event Celebrates Palau-Japan Ties
+
+date: 2024-08-20, from: Island Times
+
+<figure><img width="1024" height="461" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?fit=1024%2C461&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?w=1431&amp;ssl=1 1431w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=300%2C135&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=1024%2C461&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=768%2C346&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=1200%2C540&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=400%2C180&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=706%2C318&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?fit=1024%2C461&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71992" data-permalink="https://islandtimes.org/cultural-exchange-event-celebrates-palau-japan-ties/meu-akitaya-kan-umang-anthony-christine-martin-patrick-jr-of-mindzenty-high-school/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?fit=1431%2C644&amp;ssl=1" data-orig-size="1431,644" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Meu Akitaya, Kan Umang, Anthony Christine, Martin Patrick Jr. of Mindzenty High School" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?fit=300%2C135&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?fit=780%2C351&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Eustoria Borja KOROR, Palau (Aug. 19, 2024) — A cultural exchange event held Monday at Maris Stella School Auditorium showcased the rich traditions of both Palau and Japan, bringing together students from Mindszenty High School and the crew of the Japanese destroyer JS Ariake. From 3:30 to 4:30 p.m., students and sailors took the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/cultural-exchange-event-celebrates-palau-japan-ties/">Cultural Exchange Event Celebrates Palau-Japan Ties</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/cultural-exchange-event-celebrates-palau-japan-ties/>
+
+---
+
+## Persons living with schizophrenia in Palau
+
+date: 2024-08-20, from: Island Times
+
+<p>BY: Eustoria Marie Borja Koror, Palau – Schizophrenia, persons experiencing psychosis, disorientation or hallucination, presents a significant and escalating concern in Palau, a Pacific island nation with one of the highest prevalence rates of this condition globally. Despite its critical impact, comprehensive research on schizophrenia in Palau has not advanced since the 2007 report, leaving [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/persons-living-with-schizophrenia-in-palau/">Persons living with schizophrenia in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/persons-living-with-schizophrenia-in-palau/>
+
+---
+
+## PICRC research staff Masasinge Tellei Hideos and McQuinnley Mesengei to pursue higher education
+
+date: 2024-08-20, from: Island Times
+
+<figure><img width="1024" height="798" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?fit=1024%2C798&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=300%2C234&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=1024%2C798&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=768%2C598&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=1200%2C935&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=400%2C312&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=706%2C550&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?fit=1024%2C798&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71989" data-permalink="https://islandtimes.org/picrc-research-staff-masasinge-tellei-hideos-and-mcquinnley-mesengei-to-pursue-higher-education/re2500_dsc_6707/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?fit=1249%2C973&amp;ssl=1" data-orig-size="1249,973" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="re2500_DSC_6707" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?fit=300%2C234&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?fit=780%2C608&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>The Palau International Coral Reef Center (PICRC) is pleased to announce that two of our valued team members, Researcher Masasinge Tellei Hideos, also known as Singe, and Research Assistant McQuinnley Mesengei, are concluding their time with us to further their education. Singe has been part of the PICRC family for the past three years, starting [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-research-staff-masasinge-tellei-hideos-and-mcquinnley-mesengei-to-pursue-higher-education/">PICRC research staff Masasinge Tellei Hideos and McQuinnley Mesengei to pursue higher education</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/picrc-research-staff-masasinge-tellei-hideos-and-mcquinnley-mesengei-to-pursue-higher-education/>
+
+---
+
+## President Whipps Meets with the Japanese Fisheries Survey Team to Discuss the Development of Palau’s Fishing Industry including the Ngatpang Port
+
+date: 2024-08-20, from: Island Times
+
+<figure><img width="1024" height="746" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?fit=1024%2C746&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=300%2C219&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=1024%2C746&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=768%2C560&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=1200%2C874&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=400%2C291&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=706%2C514&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?fit=1024%2C746&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71987" data-permalink="https://islandtimes.org/president-whipps-meets-with-the-japanese-fisheries-survey-team-to-discuss-the-development-of-palaus-fishing-industry-including-the-ngatpang-port/presidents-office-photo/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?fit=1249%2C910&amp;ssl=1" data-orig-size="1249,910" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1723543560&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Presidents Office Photo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?fit=300%2C219&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?fit=780%2C568&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>On August 13, 2024, Ambassador ORIKASA Hiroyuki and the Japanese Fisheries Survey Team met with President Surangel Whipps Jr. The Fisheries Survey team, visiting Palau from August 13 to 20, discussed with President Whipps, the development of Palau’s fisheries industry, including the Ngatpang Port. This visit is a direct follow-up to the discussions held between [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/president-whipps-meets-with-the-japanese-fisheries-survey-team-to-discuss-the-development-of-palaus-fishing-industry-including-the-ngatpang-port/">President Whipps Meets with the Japanese Fisheries Survey Team to Discuss the Development of Palau’s Fishing Industry including the Ngatpang Port</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/president-whipps-meets-with-the-japanese-fisheries-survey-team-to-discuss-the-development-of-palaus-fishing-industry-including-the-ngatpang-port/>
+
+---
+
+## Connecting People of Palau and Taiwan: 2024 International Tour of Taiwan Gourmet Cuisine
+
+date: 2024-08-20, from: Island Times
+
+<p>The long-awaited and highly anticipated 2024 &#8220;Taiwanese Cuisine International Tour&#8221; organized by the Overseas Community Affairs Council of ROC (Taiwan) saw chefs A-Ju and Hsu Chien-Yu arriving on the beautiful Pacific island of Palau, August 17. They were warmly welcomed by Minister Franklin Chen of the Embassy, President Sam Lee of the Taiwan Chamber of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/connecting-people-of-palau-and-taiwan-2024-international-tour-of-taiwan-gourmet-cuisine/">Connecting People of Palau and Taiwan: 2024 International Tour of Taiwan Gourmet Cuisine</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/connecting-people-of-palau-and-taiwan-2024-international-tour-of-taiwan-gourmet-cuisine/>
+
+---
+
+## Loneliness and Cigarettes
+
+date: 2024-08-20, from: Island Times
+
+<figure><img width="400" height="400" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71977" data-permalink="https://islandtimes.org/loneliness-and-cigarettes/lnkcvqv8_400x400-9/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1" data-orig-size="400,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="LNkCVQv8_400x400" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>&#8220;People are not addicted to alcohol or drugs, they are addicted to escaping reality.” -Anonymous. I never knew I was lonely growing up, especially after my father died. In reflection it was a good thing.&#160; If I knew I was lonelyq I would have gone mad looking for something to numb the loneliness.&#160; But I [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/loneliness-and-cigarettes/">Loneliness and Cigarettes</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/loneliness-and-cigarettes/>
+
+---
+
+## The Power of Regionalism: the vital role of the Pacific Islands Parliaments Group
+
+date: 2024-08-20, from: Island Times
+
+<figure><img width="512" height="512" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?fit=512%2C512&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?w=512&amp;ssl=1 512w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?fit=512%2C512&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71975" data-permalink="https://islandtimes.org/the-power-of-regionalism-the-vital-role-of-the-pacific-islands-parliaments-group/1736168-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?fit=512%2C512&amp;ssl=1" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="1736168" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?fit=512%2C512&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By Lord Fakafanua, Speaker of the Parliament of Tonga, Munkhtuya Altangerel, Resident Representative, UNDP Pacific Office in Fiji SUVA/NUKU&#8217;ALOFA (UNDP)&#8212;The vast Pacific Ocean binds our island nations, shaping our identity and sustaining countless communities. But the challenges we face, from climate change to economic disparity, and the continual erosion of faith and trust in our [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-power-of-regionalism-the-vital-role-of-the-pacific-islands-parliaments-group/">The Power of Regionalism: the vital role of the Pacific Islands Parliaments Group</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/the-power-of-regionalism-the-vital-role-of-the-pacific-islands-parliaments-group/>
+
+---
+
+## France has ‘belittled’ PIF: New Caledonia wants Pacific mission ‘deferred’ – Wamytan
+
+date: 2024-08-20, from: Island Times
+
+<p>NOUMEA, 19 AUGUST 2024 (RNZ PACIFIC) &#8212; The much-anticipated high-level Pacific leaders&#8217; mission to New Caledonia has been &#8220;deferred&#8221; by the French territory&#8217;s local government, RNZ Pacific understands. The mission was given the thumbs up by Paris just ten days ago, when France&#8217;s top diplomat in the region hand-delivered a letter on behalf of President [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/france-has-belittled-pif-new-caledonia-wants-pacific-mission-deferred-wamytan/">France has &#8216;belittled&#8217; PIF: New Caledonia wants Pacific mission &#8216;deferred&#8217; &#8211; Wamytan</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/france-has-belittled-pif-new-caledonia-wants-pacific-mission-deferred-wamytan/>
+
+---
+
+## CNMI group raises concern on Guam governor’s nuclear weapons storage stance
+
+date: 2024-08-20, from: Island Times
+
+<p>SAIPAN, 19 AUGUST 2024 (RNZ PACIFIC) &#8212; An indigenous advocacy group in the Northern Marianas is opposing Guam Governor Lou Leon Guerrero&#8217;s stance on the use of nuclear weapons and long-range missiles on Guam. Guerrero said missile testing and housing nuclear weapons on the U.S territory is a way of deterring aggression. She added the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/cnmi-group-raises-concern-on-guam-governors-nuclear-weapons-storage-stance/">CNMI group raises concern on Guam governor&#8217;s nuclear weapons storage stance</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/cnmi-group-raises-concern-on-guam-governors-nuclear-weapons-storage-stance/>
+
+---
+
+## Kiribati election: New candidate tells why voters should back her
+
+date: 2024-08-20, from: Island Times
+
+<p>TARAWA, 19 AUGUST 2024 (PMN) &#8212; Te Mauri, Te Raoi, and Te Tabomoa &#8211; health, peace, and prosperity for i-Kiribati people are the reasons Ruth Cross Kwansing is running for a seat in parliament, the House of Assembly. The 45-year-old Independent candidate is among 18 women contesting the national election out of a field of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/kiribati-election-new-candidate-tells-why-voters-should-back-her/">Kiribati election: New candidate tells why voters should back her</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/kiribati-election-new-candidate-tells-why-voters-should-back-her/>
+
+---
+
+## The 2024 Democratic National Convention takes place in Chicago this week. Here’s what to expect
+
+date: 2024-08-20, from: Island Times
+
+<p>By&#160;Brad Ryan&#160;in Chicago (ABC-Australia) Last month, diehard Republicans from across the United States gathered in Milwaukee to celebrate Donald Trump and his MAGA vision at the party&#8217;s national convention. This week, it&#8217;s the Democrats&#8217; turn to take the spotlight as they hold their convention in Chicago, starting on Monday, local time. Here&#8217;s what to expect [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-2024-democratic-national-convention-takes-place-in-chicago-this-week-heres-what-to-expect/">The 2024 Democratic National Convention takes place in Chicago this week. Here&#8217;s what to expect</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/the-2024-democratic-national-convention-takes-place-in-chicago-this-week-heres-what-to-expect/>
+
+---
+
+## Indonesians turning to rental partner services to cope with loneliness
+
+date: 2024-08-20, from: Island Times
+
+<p>By&#160;Raffa Athallah (ABC-Australia) When 33-year-old Noviandi first came across a TikTok account offering a service to rent a girlfriend or boyfriend, he was sceptical and suspected it might be a scam. The account, which only had a few thousand followers, featured blurred photos of Indonesian women and men, all promising to be &#8220;your dream partner&#8221;. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/indonesians-turning-to-rental-partner-services-to-cope-with-loneliness/">Indonesians turning to rental partner services to cope with loneliness</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/indonesians-turning-to-rental-partner-services-to-cope-with-loneliness/>
+
+---
+
+## Carlos Alcaraz smashes racquet in shock loss to Gaël Monfils at Cincinnati Open
+
+date: 2024-08-20, from: Island Times
+
+<p>In short: (ABC-Australia) Carlos Alcaraz lost in three sets to French veteran Gaël Monfils, 4-6, 7-6 (7/5), 6-4. Alcaraz smashed his racquet on the court during the match in a rare display of frustration. What&#8217;s next?&#160; Alcaraz says he is turning his attention to the US Open, which begins in New York on August 26. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/carlos-alcaraz-smashes-racquet-in-shock-loss-to-gael-monfils-at-cincinnati-open/">Carlos Alcaraz smashes racquet in shock loss to Gaël Monfils at Cincinnati Open</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/carlos-alcaraz-smashes-racquet-in-shock-loss-to-gael-monfils-at-cincinnati-open/>
+
+---
+
+## Hideki Matsuyama wins PGA Tour play-offs’ St Jude Championship
+
+date: 2024-08-20, from: Island Times
+
+<p>In short: (ABC-Australia) Hideki Matsuyama has won the first PGA Tour play-off event, securing the St Jude Championship by two strokes. Matsuyama briefly lost the lead during the back nine, surrendering what was a five-shot lead. What&#8217;s next? The second PGA Tour play-off event will be played next week at Castle Pines Golf Club in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/hideki-matsuyama-wins-pga-tour-play-offs-st-jude-championship/">Hideki Matsuyama wins PGA Tour play-offs&#8217; St Jude Championship</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/hideki-matsuyama-wins-pga-tour-play-offs-st-jude-championship/>
+
+---
+
+## Federal subsidies sought for air travel between Guam and CNMI 
+
+date: 2024-08-20, from: Pacific Island Times
+
+By Pacific Island Times News Staff Guam Del. James Moylan is proposing the inclusion of Guam and the Northern Marianas in the Essential... 
+
+<https://www.pacificislandtimes.com/post/federal-subsidies-sought-for-air-travel-between-guam-and-cnmi>
+
+---
+
+## OG photogs at Windward CC Gallery ʻIolani, Landgraf named new director
+
+date: 2024-08-20, from: University of Hawaiʻi News
+
+<p>Kapulani Landgraf has been named the director of Gallery ʻIolani at Windward <abbr>CC</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/19/photogs-at-windward-gallery-iolani/"><abbr>OG</abbr> photogs at Windward <abbr>CC</abbr> Gallery ʻIolani, Landgraf named new director</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/19/photogs-at-windward-gallery-iolani/>
+
+---
+
+## Community joins UH at Pearl City garden to cultivate cultural, food plants
+
+date: 2024-08-20, from: University of Hawaiʻi News
+
+<p>Pearl City is now home to several new food-growing systems after an annual summer workday series at the Urban Garden Center.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/19/pearl-city-garden/">Community joins <abbr>UH</abbr> at Pearl City garden to cultivate cultural, food plants</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/19/pearl-city-garden/>
+
+---
+
+## UH Hilo researchers track sewage leakage rate into Kahaluʻu Bay
+
+date: 2024-08-20, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo researchers used dye to track sewage leakage from local homes into <span aria-label="Kahaluu">Kahalu&#699;u</span> Bay, revealing flow rates carry wastewater to the shoreline in less than six hours.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/19/tracking-sewage-leakage-rate-kahaluu-bay/"><abbr>UH</abbr> Hilo researchers track sewage leakage rate into Kahaluʻu Bay</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/19/tracking-sewage-leakage-rate-kahaluu-bay/>
+
+---
+
+## Historic Japanese prints donated to UH Mānoa Library
+
+date: 2024-08-20, from: University of Hawaiʻi News
+
+<p>The collection includes more than 200 items from Nanako Yamada.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/19/japanese-prints-library-donation/">Historic Japanese prints donated to <abbr>UH</abbr> Mānoa Library</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/19/japanese-prints-library-donation/>
+
+---
+
+## UH Hilo professor awarded $1.3M grant for flowering plants research in Hawaiʻi
+
+date: 2024-08-20, from: University of Hawaiʻi News
+
+<p>Matthew Knope, lead principal investigator, is working to uncover the genetic changes responsible for rapid evolutionary diversification in <span aria-label="Hawaii">Hawai&#699;i</span> and beyond.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/19/uh-hilo-professor-awarded-1-3m-grant-for-flowering-research/"><abbr>UH</abbr> Hilo professor awarded $1.3M grant for flowering plants research in Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/19/uh-hilo-professor-awarded-1-3m-grant-for-flowering-research/>
+
+---
+
+## National award highlights UH professor’s inclusive education efforts
+
+date: 2024-08-20, from: University of Hawaiʻi News
+
+<p>The award recognizes researchers who have demonstrated excellence in enhancing the educational experience for all learners.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/19/national-award-inclusive-education-efforts/">National award highlights <abbr>UH</abbr> professor’s inclusive education efforts</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/19/national-award-inclusive-education-efforts/>
 
 ---
 
@@ -43,7 +704,7 @@ By Gina Tabonares-Reilly and Mar-Vic Cagurangan   Any alien caught entering Gua
 
 ## Variety editor’s 4th book available at Joeten Susupe
 
-date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
+date: 2024-08-19, updated: 2024-08-20, from: Marianas Variety
 
 MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
 
@@ -51,59 +712,9 @@ MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then
 
 ---
 
-## Bennett says cannabis commission obstructing reform efforts
-
-date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
-
-FORMER educator Ambrose M. Bennett said he can help reform the CNMI’s cannabis industry. 
-
-<https://www.mvariety.com/news/local/bennett-says-cannabis-commission-obstructing-reform-efforts/article_858a7b20-5e00-11ef-bc6d-9f70b1861cc7.html>
-
----
-
-## Governor nominates Thomas A. Manglona to Casino Commission
-
-date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
-
-GOVERNOR Arnold I. Palacios on Monday nominated Thomas Atalig Manglona to represent Rota on the Commonwealth Casino Commission. 
-
-<https://www.mvariety.com/news/local/governor-nominates-thomas-a-manglona-to-casino-commission/article_38c3380e-5e05-11ef-8fd2-17952b61c159.html>
-
----
-
-## Sasamoto, Sablan conduct free college application workshop
-
-date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
-
-YURI Sasamoto and Jesus Sablan, incoming sophomores at Columbia University, an Ivy League institution, hosted a free college application workshop and panel discussion on Saturday, Aug. 17 at the Crowne Plaza Resort. 
-
-<https://www.mvariety.com/news/local/sasamoto-sablan-conduct-free-college-application-workshop/article_2ba81724-5df7-11ef-8d9f-5788ee56e8ef.html>
-
----
-
-## Senate panel urged to fund CHCC adequately
-
-date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
-
-COMMONWEALTH Healthcare Corp. officials on Thursday asked the Senate Fiscal Affairs Committee to fund the CNMI’s only hospital adequately. 
-
-<https://www.mvariety.com/news/local/senate-panel-urged-to-fund-chcc-adequately/article_93c691fa-5dfc-11ef-8a37-5fc9692cc491.html>
-
----
-
-## ‘Alien: Romulus’ bites off $41.5 million to top box office charts
-
-date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
-
-(AP) — “Alien: Romulus,” the latest installment in the 45-year-old franchise, opened in first place at the North American box office. The 20th Century Studios release earned an estimated $41.5 million in its first weekend, where it was playing in 3,885 locations in the U.S. and Canada. 
-
-<https://www.mvariety.com/lifestyle/alien-romulus-bites-off-41-5-million-to-top-box-office-charts/article_6ea3e13e-5e42-11ef-98fa-8f52c3e57f91.html>
-
----
-
 ## Mark Wahlberg, Halle Berry lead a middling spy comedy in ‘The Union’
 
-date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
+date: 2024-08-19, updated: 2024-08-20, from: Marianas Variety
 
 (AP) — “The Union,” an action comedy with Mark Wahlberg and Halle Berry, should have been more fun. Or more exciting. It certainly had a lot working in its favor, including big stars and a budget for globetrotting. 
 
@@ -113,7 +724,7 @@ date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
 
 ## Nate Silver makes a compelling case for taking more risks in ‘On the Edge’
 
-date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
+date: 2024-08-19, updated: 2024-08-20, from: Marianas Variety
 
 (AP) — By the time you finish Nate Silver’s new book, you’ll probably want to do something risky. 
 
@@ -123,11 +734,61 @@ date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
 
 ## MLB roundup: Rays blow 6-0 lead, recover for 12-inning win
 
-date: 2024-08-19, updated: 2024-08-19, from: Marianas Variety
+date: 2024-08-19, updated: 2024-08-20, from: Marianas Variety
 
 (Reuters) — Dylan Carlson's RBI single in the 12th inning helped the Tampa Bay Rays overcome a blown six-run lead and sweep the Arizona Diamondbacks with an 8-7 win Sunday afternoon in St. Petersburg, Fla. 
 
 <https://www.mvariety.com/sports/nationalsports/mlb-roundup-rays-blow-6-0-lead-recover-for-12-inning-win/article_883c587e-5e3d-11ef-bd5e-034c317e1b97.html>
+
+---
+
+## Bennett says cannabis commission obstructing reform efforts
+
+date: 2024-08-19, updated: 2024-08-20, from: Marianas Variety
+
+FORMER educator Ambrose M. Bennett said he can help reform the CNMI’s cannabis industry. 
+
+<https://www.mvariety.com/news/local/bennett-says-cannabis-commission-obstructing-reform-efforts/article_858a7b20-5e00-11ef-bc6d-9f70b1861cc7.html>
+
+---
+
+## Governor nominates Thomas A. Manglona to Casino Commission
+
+date: 2024-08-19, updated: 2024-08-20, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios on Monday nominated Thomas Atalig Manglona to represent Rota on the Commonwealth Casino Commission. 
+
+<https://www.mvariety.com/news/local/governor-nominates-thomas-a-manglona-to-casino-commission/article_38c3380e-5e05-11ef-8fd2-17952b61c159.html>
+
+---
+
+## Sasamoto, Sablan conduct free college application workshop
+
+date: 2024-08-19, updated: 2024-08-20, from: Marianas Variety
+
+YURI Sasamoto and Jesus Sablan, incoming sophomores at Columbia University, an Ivy League institution, hosted a free college application workshop and panel discussion on Saturday, Aug. 17 at the Crowne Plaza Resort. 
+
+<https://www.mvariety.com/news/local/sasamoto-sablan-conduct-free-college-application-workshop/article_2ba81724-5df7-11ef-8d9f-5788ee56e8ef.html>
+
+---
+
+## Senate panel urged to fund CHCC adequately
+
+date: 2024-08-19, updated: 2024-08-20, from: Marianas Variety
+
+COMMONWEALTH Healthcare Corp. officials on Thursday asked the Senate Fiscal Affairs Committee to fund the CNMI’s only hospital adequately. 
+
+<https://www.mvariety.com/news/local/senate-panel-urged-to-fund-chcc-adequately/article_93c691fa-5dfc-11ef-8a37-5fc9692cc491.html>
+
+---
+
+## ‘Alien: Romulus’ bites off $41.5 million to top box office charts
+
+date: 2024-08-19, updated: 2024-08-20, from: Marianas Variety
+
+(AP) — “Alien: Romulus,” the latest installment in the 45-year-old franchise, opened in first place at the North American box office. The 20th Century Studios release earned an estimated $41.5 million in its first weekend, where it was playing in 3,885 locations in the U.S. and Canada. 
+
+<https://www.mvariety.com/lifestyle/alien-romulus-bites-off-41-5-million-to-top-box-office-charts/article_6ea3e13e-5e42-11ef-98fa-8f52c3e57f91.html>
 
 ---
 
@@ -527,12 +1188,12 @@ The American Red Cross is gearing up for their biggest fundraising event of the 
 
 ---
 
-## Pacific Media Leaders Call for Greater Use of Indigenous Languages in The Region
+## Pacific panellists call for use of Indigenous Languages in the Media
 
 date: 2024-08-19, from: University of the South Pacific (Fiji)
 
 <p>A panel of leading Pacific media experts recently highlighted the critical role of indigenous languages...</p>
-<p>The post <a href="https://www.usp.ac.fj/news/pacific-media-leaders-call-for-greater-use-of-indigenous-languages-in-the-region/">Pacific Media Leaders Call for Greater Use of Indigenous Languages in The Region</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+<p>The post <a href="https://www.usp.ac.fj/news/pacific-media-leaders-call-for-greater-use-of-indigenous-languages-in-the-region/">Pacific panellists call for use of Indigenous Languages in the Media</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
  
 
 <https://www.usp.ac.fj/news/pacific-media-leaders-call-for-greater-use-of-indigenous-languages-in-the-region/>

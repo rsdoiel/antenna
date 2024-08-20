@@ -1,11 +1,23 @@
 ---
 title: home 2024.34
-updated: 2024-08-19 15:43:40
+updated: 2024-08-20 08:14:06
 ---
 
 # home 2024.34
 
-(date: 2024-08-19 15:43:40)
+(date: 2024-08-20 08:14:06)
+
+---
+
+## First-Ever National Urban Agriculture Conference Brings Urban Farmers and Their Supporters to Detroit
+
+date: 2024-08-20, from: Urban Ag blog
+
+<a href="http://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=60452&utm_source=RSS&utm_medium=RSS&utm_campaign=RSS%2BFeed"><img src="https://ucanr.edu/blogs/UrbanAg/blogfiles/108353small.jpg" align="left" border="0"></a>Whatupdoe! That was the enthusiastic and distinctly Detroit greeting that welcomed more than 500 attendees to the city often considered the mecca of urban agriculture in the U.S. The first-ever national urban agriculture conference, held in the Motor City from August 4-6, was inspiring and informative.
+
+The three-day event was sponsored by the US Department of Agriculture, which has been stepping up its engagement in urban ag due to provisions in the 2018 Farm Bill.  The cornerstone of the...<br clear="all"> 
+
+<http://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=60452&utm_source=RSS&utm_medium=RSS&utm_campaign=RSS%2BFeed>
 
 ---
 

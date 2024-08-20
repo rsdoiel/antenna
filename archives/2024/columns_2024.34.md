@@ -1,17 +1,253 @@
 ---
 title: columns 2024.34
-updated: 2024-08-19 15:43:37
+updated: 2024-08-20 08:14:03
 ---
 
 # columns 2024.34
 
-(date: 2024-08-19 15:43:37)
+(date: 2024-08-20 08:14:03)
+
+---
+
+## Astroturfing
+
+date: 2024-08-20, from: David Rosenthal's blog
+
+I seem to be stuck on the theme of cryptocurrency gaslighting with two weeks ago <a href="https://blog.dshr.org/2024/08/more-cryptocurrency-gaslighting.html"><i>More Cryptocurrency Gaslighting </i></a> and one week ago <a href="https://blog.dshr.org/2024/08/greenwashing.html"><i>Greenwashing</i></a>. Now I look at cryptocurrency gaslighting in the political arena, where it is termed <a href="https://en.wikipedia.org/wiki/Astroturfing">astroturfing</a>:<br />
+<blockquote>
+it is defined as the process of seeking electoral victory or legislative relief for grievances by helping political actors find and mobilize a sympathetic public, and is designed to create the image of public consensus where there is none. Astroturfing is the use of fake <a href="https://en.wikipedia.org/wiki/Grassroots">grassroots</a> efforts that primarily focus on influencing public opinion and typically are funded by corporations and political entities to form opinions.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIue1ZMRfr9odeWLG7HUbFVuhAS6lHAmAOv4NAnjtRilhsC_fwM964LlqhYuUYUvxd6No4fvn_aNOFTzW9lwVT3k-qUt-iFJYxBQvynJrlDpkrpX4YELq7hLnhP_oOGnu55RwH1PoeQ8AoPwo1y5rlWNZpLiq_JHkD1F5ogSBR95KpZtVhAahHi9P26CPL/s640/trumptweets-546x640.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="640" data-original-width="546" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIue1ZMRfr9odeWLG7HUbFVuhAS6lHAmAOv4NAnjtRilhsC_fwM964LlqhYuUYUvxd6No4fvn_aNOFTzW9lwVT3k-qUt-iFJYxBQvynJrlDpkrpX4YELq7hLnhP_oOGnu55RwH1PoeQ8AoPwo1y5rlWNZpLiq_JHkD1F5ogSBR95KpZtVhAahHi9P26CPL/w171-h200/trumptweets-546x640.png" width="171" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://corpgov.law.harvard.edu/2019/08/06/a-roadmap-for-president-trumps-crypto-crackdown/">Donald Trump, 2019</a><br /></td></tr></tbody></table>
+Currently, the crypto-bros have poured money into primaries and defeated several incumbents deemed to be insufficiently crypto-friendly, and have accumulated an immense war-chest for November's general election. This pot of gold was enough to turn Trump from <a href="https://www.bbc.com/news/business-57392734">crypto-skeptic</a> to <a href="https://finance.yahoo.com/news/trump-proposes-bitcoin-solution-35-061830288.html">telling Maria Bartiromo</a>:<br />
+<blockquote>
+Who knows, maybe we’ll pay off our $35 trillion dollar [national debt], hand them a little crypto check, right? We’ll hand them a little Bitcoin and wipe away our $35 trillion
+</blockquote>
+Below the fold I discuss the gaslighting the cryptosphere is using in their massive attempt to purchase "regulatory clarity", and what the scale of this investment suggests about the profits they expect to garner if it succeeds.<br />
+<span><a name='more'></a></span>
+<br />
+Why does astroturfing exist? Lobbyists going to politicians and saying "I know your constituents don't want you to vote X, but if you do I'll give you a boiat-load of money" make the politicians uncomfortable. The lobbyists need to cover this unpleasant reality with a fig-leaf.  So on 10<sup>th</sup> May <a href="https://theblockchainassociation.org/wp-content/uploads/2024/05/DCG_HarrisPoll-Research-Report.pdf"><i>Crypto Attitudes in Swing States</i></a>, a poll by Harris for the Digital Currency Group appeared. It polled 1201 registered voters in April. Jasper Goodman's <a href="https://www.politico.com/news/2024/05/10/trump-crypto-biden-00157051"><i>Crypto is Trump’s new weapon against Biden</i></a> reported that:<br />
+<blockquote>
+A <a href="https://theblockchainassociation.org/swingstatevoter/">poll released by crypto industry groups</a> this week showed that more than 20 percent of voters in six key swing states identify crypto as a major issue. <a href="https://policy.paradigm.xyz/writing/March-2024-Polling">A separate nationwide survey</a> of registered voters commissioned by the crypto firm Paradigm found that crypto ownership is higher among communities of color and young people — key constituencies that helped boost Biden in 2020 but are now proving to be challenging for him to win over.<br />
+<br />
+Crypto has gained support from politicians on the right who tout it as an alternative to the mainstream financial system. The Paradigm poll found earlier this year that crypto owners favor Trump over Biden, 48 percent to 39 percent, with 13 percent undecided.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdHnRIJ5PUpsk50nzlfAa03eyZCtKXl0K9oLcbnt5ps4cLgmEzy2KljSi2dx5lDNmCdECIjlW7RDuVrMbEYUlZIM6q_PHLRheOojmXj1LRSJfEwY1rvKUs2mVlEPMrUwH__8iS0TTfDIvjD8KJc1dqO7wPw3A33859uSOl58RKq5PvBZZx2wVtR0Q2Dt-o/s1600/HarrisPoll.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="961" data-original-width="1600" height="120" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdHnRIJ5PUpsk50nzlfAa03eyZCtKXl0K9oLcbnt5ps4cLgmEzy2KljSi2dx5lDNmCdECIjlW7RDuVrMbEYUlZIM6q_PHLRheOojmXj1LRSJfEwY1rvKUs2mVlEPMrUwH__8iS0TTfDIvjD8KJc1dqO7wPw3A33859uSOl58RKq5PvBZZx2wVtR0Q2Dt-o/w200-h120/HarrisPoll.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTneK908W4OULYDgYZ4yzIGumvAXbjHQPAzbOUpyHQo-dxw5u717ZSV30MArRlI-QbWEzZucbuRJzMF/pubchart?oid=1919594482&amp;format=interactive">Source</a></td></tr></tbody></table>
+Three weeks later Molly White had had time to analyze the poll and in <a href="https://www.citationneeded.news/2024-cryptocurrency-election-spending/"><i>Cryptocurrency companies have raised over $135 million to influence US elections this cycle, and they’re just getting started</i></a> she wrote:<br />
+<blockquote>
+In reality, their poll of 1,201 American voters in six swing states is a masterclass in spin. 69% of the people surveyed had “very” or “somewhat” negative opinions towards crypto, but DCG is crowing that “Among a sizeable contingent of voters, crypto attracts a level of interest that translates into pro-crypto sentiments across the board” and advising political candidates to adopt pro-crypto stances to attract voters. Many of the questions were framed ambiguously — such as the “Crypto is a major issue I’m considering during the next election” one — which allowed DCG to put “21% agree” in big letters while obfuscating the fact that those who agreed were not necessarily crypto supporters. In fact, if you do the math, more than 100 of the 252 people (~40%) who said they felt crypto was a major issue in upcoming elections do not feel positively towards crypto — in other words, there's a contingent of fellow skeptics among that 21%, who are likely hoping for candidates who might support more aggressive approaches against the industry.<br />
+</blockquote>
+White extracted the agree/disagree data from the Harris poll and generated a useful chart. From it I extracted the questions that two out of three respondents somewhat or strongly disagreed with in this table.<br />
+<table align="center" border="1" cellpadding="3" cellspacing="5" cols="2" rules="groups">
+<thead>
+<tr><th>Disagreement</th><th>Question</th></tr>
+</thead>
+<tbody>
+<tr><td>80%</td><td><small>Crypto is a major issue I'm considering in the next election</small></td></tr>
+<tr><td>74%</td><td><small>Crypto is more equitable than the traditional financial system</small></td></tr>
+<tr><td>73%</td><td><small>Crypto is meant for people like me</small></td></tr>
+<tr><td>73%</td><td><small>I pay attention to political candidates positions on crypto</small></td></tr>
+<tr><td>71%</td><td>I<small>t is easier for people to be financially successful with crypto ...</small></td></tr>
+<tr><td>65%</td><td><small>Crypto is the future of transacting</small></td></tr>
+<tr><td>65%</td><td><small>I'm concerned about legislation that would interfere with crypto</small></td></tr>
+</tbody></table>
+This is not a pro-crypto sample. I have to agree with White that DGC is gaslighting the results. She <a href="https://www.citationneeded.news/2024-cryptocurrency-election-spending/">concluded</a>:<br />
+<blockquote>
+Frankly, it just doesn't seem likely to me that a substantial number of people are single-issue crypto voters and would be swayed to vote for a candidate they might not otherwise support because of it. Many of the people celebrating Trump's recent crypto U-turn were probably already planning to vote for him, and I doubt there were many crypto-skeptical people out there previously who didn't otherwise support Trump, but who intended to vote for him because of his former position on the industry.
+</blockquote>
+The most worrying answer is that 73% of the sample are not paying attention to candidates' positions on cryptocurrencies; this gives the candidates license to ignore their constituents' anti-crypto views.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYFGamMWX7BnSigmAo0qN6P25PQ0XlWXLfWMZ3cju_Z9GsZ2ZEIWYXopXAo6mnkQJu-0VqHvFPY3UAGxHkScdcMaPN77nsgCVWHOQG7VRlJcW4Me6dByDYwi_nqKMYtTBRiTD432251SZp-r-tPGKQroEdNTV46oXxT9xKWHg06veQZiNxaeusTx-CeMK_/s926/FollowTheCrypto.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="300" data-original-width="926" height="65" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYFGamMWX7BnSigmAo0qN6P25PQ0XlWXLfWMZ3cju_Z9GsZ2ZEIWYXopXAo6mnkQJu-0VqHvFPY3UAGxHkScdcMaPN77nsgCVWHOQG7VRlJcW4Me6dByDYwi_nqKMYtTBRiTD432251SZp-r-tPGKQroEdNTV46oXxT9xKWHg06veQZiNxaeusTx-CeMK_/w200-h65/FollowTheCrypto.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.followthecrypto.org/">Source</a></td></tr></tbody></table>
+Covered by this bogus fig-leaf, the tsunami of money started flowing. May 30<sup>th</sup> saw some of the first reports of money with Hannah Miller and Olga Kharif's <a href="https://www.bloomberg.com/news/articles/2024-05-30/andreessen-horowitz-a16z-donates-25-million-to-crypto-pac-fairshake"><i>Andreessen Horowitz Donates $25 Million to Fairshake PAC</i></a> and Molly White's <a href="https://www.citationneeded.news/2024-cryptocurrency-election-spending/"><i>Cryptocurrency companies have raised over $135 million to influence US elections this cycle, and they’re just getting started</i></a>.
+White went on to start <a href="https://www.followthecrypto.org/"><i>Follow the crypto</i></a>, a site devoted to tracking the cryptosphere's political fundraising and donations. Much of this post is based on White's research.<br />
+<br />
+Initially, the crypto-bros had consideable success by pouring money into defeating crypto-skeptics in primaries, as the Emily Wilkins' <a href="https://www.cnbc.com/2024/06/26/crypto-pac-house-senate-elections.html"><i>Crypto industry super PAC is 33-2 in primaries, with $100 million for House, Senate races</i></a> reported on 26<sup>th</sup> June:<br />
+<blockquote>
+A super PAC bankrolled by a small group of crypto companies has backed the winning candidate in 33 of the 35 House and Senate primary races it entered.<br />
+<br />
+Fairshake PAC kicks off the general election season with a strong track record and at least $100 million to spend on crypto-friendly candidates for Congress.
+</blockquote>
+Wilkins made two important <a href="https://www.cnbc.com/2024/06/26/crypto-pac-house-senate-elections.html">observations</a>:<br />
+<blockquote>
+The PAC has spent tens of millions already on ads that rarely mention crypto. Instead, the messages they deliver are about “fairness” and “integrity.”
+</blockquote>
+Note that the crypto-bros aren't fooled by their gaslighting; they know that the vast majority of the voters are anti-crypto.
+Molly White's <a href="https://www.citationneeded.news/issue-64/"><i>Pointing its arsenal at our friends</i></a> makes the point:<br />
+<blockquote>
+I’ve noted before that, despite the industry’s attempts to convince incumbent politicians, candidates, campaign managers, and anyone else who will listen that there is a major bloc of single-issue voters who will vote for people with pro-crypto policy stances, the people in charge of actually running strategy don’t seem to truly believe it. Ads run by the Fairshake PAC and related crypto-focused super PACs make no mention of cryptocurrency, for example, suggesting that those behind them understand that it’s not an issue that’s likely to sway voters.
+</blockquote>
+Wilkins' second <a href="https://www.cnbc.com/2024/06/26/crypto-pac-house-senate-elections.html">observation is</a>:<br />
+<blockquote>
+Of the $160 million in total contributions Fairshake has raised since it was founded, around $155 million — or 94% — can be traced back to just four companies: Ripple, Andreesen Horowitz, Coinbase and Jump Crypto.
+</blockquote>
+And note the classic astroturfing; a PAC funded by a few huge companies claiming to represent the "<a href="https://www.security.org/digital-security/cryptocurrency-annual-consumer-report/">40% of American adults now own crypto</a>". This is more gaslighting. Other crypto-friendly sites claim "<a href="https://coinweb.com/trends/how-many-americans-own-crypto/">14% of US adults own cryptocurrencies</a>".<br />
+<br />
+Grifters like Trump know which side their bread is buttered. Already by 7<sup>th</sup> June Alexandra Ulmer was writing <a href="https://www.reuters.com/world/us/trump-pitches-himself-crypto-president-san-francisco-tech-fundraiser-2024-06-07/"><i>Trump pitches himself as 'crypto president' at San Francisco tech fundraiser</i></a>:<br />
+<blockquote>
+Republican presidential candidate Donald Trump presented himself as a champion for cryptocurrency and slammed Democrats' attempts to regulate the sector during a San Francisco fundraiser on Thursday, three sources present told Reuters.<br />
+<br />
+Trump raised $12 million from the fundraiser hosted by tech venture capitalists David Sacks and Chamath Palihapitiya at Sacks' home in the swanky Pacific Heights neighborhood.
+</blockquote>
+Four days later David Pan reported <a href="https://www.bloomberg.com/news/articles/2024-06-12/trump-meets-bitcoin-btc-miners-in-his-latest-pro-crypto-overture"><i>Trump Meets Bitcoin Miners in His Latest Pro-Crypto Overture</i></a>:<br />
+<blockquote>
+Several Bitcoin miners met with former president Donald Trump at Mar-a-Lago on Tuesday night, according to Matthew Schultz, executive chairman at crypto mining company CleanSpark Inc.<br />
+<br />
+Trump told attendees that he loves and understands cryptocurrency, adding that Bitcoin miners help to stabilize energy supply from the grid, according to Schultz. Trump said he’d be an advocate for miners in the White House, Schultz added.
+</blockquote>
+This culminated on 27<sup>th</sup> July at the recent <a href="https://bitcoin2024.b.tc/">Bitcoin2024</a> gathering of the faithful with a bizarre <a href="https://www.youtube.com/watch?v=EiEIfBatnH8">48-minute rambling monologue</a> that was mostly a rehash of his stump speech.<br />
+<br />
+Six days earlier, Joe Biden had dropped out of the race, disrupting the crypto-bros plans.
+Molly White <a href="https://www.citationneeded.news/issue-64/">observes</a>:<br />
+<blockquote>
+But it does seem that some of the more gullible executives and figureheads within the crypto world have themselves been bamboozled by the <a href="https://www.citationneeded.news/2024-cryptocurrency-election-spending/">questionable numbers and creatively interpreted polls</a>. The feeling among that group is not that they need to pursue a positive relationship with a possible future Harris administration, but rather that this supposed crypto vote will decide the election, and that they are its gatekeepers.
+</blockquote>
+Like me, Cory Doctorow leverages White's research in <a href="https://pluralistic.net/2024/07/31/greater-fools/#coinbased"><i>The largest campaign finance violation in US history</i></a>:<br />
+<blockquote>
+<tt>
+But the real whale that's backstopping the crypto campaign spending is Coinbase, through its Fairshake crypto PAC. Coinbase has donated $45,500,000 to Fairshake, which is a lot:<br />
+<br />
+<a href="https://www.coinbase.com/blog/how-to-get-regulatory-clarity-for-crypto&lt;">https://www.coinbase.com/blog/how-to-get-regulatory-clarity-for-crypto</a><br />
+<br />
+But $45.5m isn't merely a large campaign contribution: it appears that $25m of that is the largest illegal campaign contribution by a federal contractor in history, "by far," a fact that was sleuthed out by Molly White:<br />
+<br />
+<a href="https://www.citationneeded.news/coinbase-campaign-finance-violation/">https://www.citationneeded.news/coinbase-campaign-finance-violation/</a><br />
+<br />
+At issue is the fact that Coinbase is bidding to be a US federal contractor: specifically, they want to manage the crypto wallets that US federal cops keep seizing from crime kingpins. Once Coinbase threw its hat into the federal contracting ring, it disqualified itself from donating to politicians or funding PACs:
+</tt>
+</blockquote>
+How wonderful is it that this great country enjoys the blessings of democracy? Just imagine how much money the companies donating to these PACs stand to make from obtaining "regulatory clarity" if they are "investing" close to $200M in a <i>chance</i> to get it.<br />
+<br /> 
+
+<https://blog.dshr.org/2024/08/astroturfing.html>
+
+---
+
+## The Daily Kitten
+
+date: 2024-08-20, from: Dave Winer's Scripting News
+
+<p>I do a daily episode of the adventures of <a href="https://www.google.com/search?q=site%3Ascripting.com+Wordle+Kitty">Wordle Kitty</a> as art I do with ChatGPT, on <a href="https://www.facebook.com/photo/?fbid=2314356502105075&set=a.113966572144090&notif_id=1724164406352558&notif_t=feedback_reaction_generic&ref=notif">Facebook</a>. There often is a NY Times headline in the image, saying something silly like how prisons are dealing with an influx of convicted house pets (like the kitten). </p>
+<p>In this <a href="https://imgs.scripting.com/2024/08/20/kittyInPrison.png">drawing</a> the NYT is reporting on how the kitten loves lasagna, and of course how cute she is (it's important to emphasize that in the AI prompt because otherwise you get less cute kittens in the drawing). </p>
+<p>This is therapeutic. Finally I can see the NYT doing something useful! Keeping me entertained while we try to get through this election. If I'm forced to accept lies from the NYT, without any voice given to opposition, they might as well be lies that entertain me! <span class="spOldSchoolEmoji">😄</span></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/08/20/kittyInPrison.png"></center>Kitty in prison, via Facebook.</div></p>
+<p>PS: I wonder if the NYT minds that we think of them as no more straight than Fox News. They've fallen really far, and have so far shown they totally don't care if we know.</p>
+ 
+
+<http://scripting.com/2024/08/20/142602.html?title=theDailyKitten>
+
+---
+
+##  Are You a Local? 
+
+date: 2024-08-20, updated: 2024-08-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/are-you-a-local>
+
+---
+
+## Ignore the NY Times
+
+date: 2024-08-20, from: Dave Winer's Scripting News
+
+<p>When President Biden took the stage last night at the DNC, I had a moment of buyer's remorse. He looked so good in his black suit, and the pictures of the new candidates, and their spouses, looked comical in comparison to the <i>president</i> who was about to speak. </p>
+<p>Why did Walz have a permanent frown on his face. I find his presence next to Harris is almost always awkward. He's taller, and moves a lot. I noticed this with Sanders when he was debating Clinton. She stood still and Sanders waved his hands a lot. She spoke quietly, he shouted. </p>
+<p>Biden shouted last night, and he was mostly unplugged. On the team, but you have to wonder, how did the journos get so much power that they could force this change. He gave a fine speech. I'm not sure that pushing him aside, net-net, was a win for us. Maybe Harris will be a sugar high.</p>
+<p>One thing I know for sure, the new Democratic Party must not make the mistake that Biden did, must not subjugate itself to the press. When they go on the attack, you must respond. Break their wall of objectivity, these people are political players, and so far not subject to rebuttal. That must end. If they want to be in the middle, then don't pretend they aren't. </p>
+<p>They will yell about the First Amendment, which also applies to elected leaders and candidates for office, and there is no special right for publications like the NYT, they have no immunity to First Amendment speech about them. </p>
+<p>To the extent we can, it's time to push them aside. </p>
+<p>When someone quotes the NYT in frustration, I have a mantra I repeat over and over, "Ignore the NY Times." I'm going to paste it in 25 times now so you get the idea. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. Ignore the NY Times. </p>
+ 
+
+<http://scripting.com/2024/08/20/135836.html?title=ignoreTheNyTimes>
+
+---
+
+##  The search for Celebrity Number Six. The internet has been unable to... 
+
+date: 2024-08-20, updated: 2024-08-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045171-the-search-for-celebrity->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-20, from: Dave Winer's Scripting News)
+
+Today would have been <a href="https://www.google.com/search?q=site%3Ascripting.com+%22eve+winer%22">my mother's</a> 92nd birthday. She died in 2018, and I still haven't, deep inside, fully gotten the message that she's gone. Probably the most significant person in my life. I find most of my adult relationships can be traced back to my relationship with her. 
+
+<http://scripting.com/2024/08/20.html#a134439>
+
+---
+
+##  Pixar&#8217;s Inside Out movies have changed how therapists talk about feelings with... 
+
+date: 2024-08-20, updated: 2024-08-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045162-pixars-inside-out-movies->
+
+---
+
+## 2024-08-20 An offline Bulletin Board System (BBS) using NNCP
+
+date: 2024-08-20, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-20-an-offline-bulletin-board-system-bbs-using-nncp">2024-08-20 An offline Bulletin Board System (BBS) using NNCP</h1>
+
+<p>OK, plugd has done it! The <a href="gopher://thelambdalab.xyz:70/0/offline.txt">Offline Bulletin Board System</a>
+system works by sending out QWK files and accepting back REP files.</p>
+
+<p>One tool that does this is <a href="https://wmcbrine.com/MultiMail/">MultiMail</a>. And it&rsquo;s in Debian!</p>
+
+<p>Before you can participate, plugd has to know about your node.</p>
+
+<p><img loading="lazy" src="2024-08-20-offline-bbs-1.jpg" alt="An old school text user-interface showing a bulleting board" /></p>
+
+<p><a class="tag" href="/search/?q=%23NNCP">#NNCP</a> <a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p> 
+
+<https://alexschroeder.ch/view/2024-08-20-offline-bbs>
+
+---
+
+## Hacking Wireless Bicycle Shifters
+
+date: 2024-08-20, updated: 2024-08-20, from: Bruce Schneier blog
+
+<p>This is yet another insecure Internet-of-things <a href="https://arstechnica.com/security/2024/08/researchers-hack-electronic-shifters-with-a-few-hundred-dollars-of-hardware/">story</a>, this one about wireless gear shifters for bicycles. These gear shifters are used in big-money professional bicycle races like the Tour de France, which provides an incentive to actually implement this attack.</p>
+<p>Research <a href="https://www.usenix.org/system/files/woot24-motallebighomi.pdf">paper</a>. Another <a href="https://jalopnik.com/hackers-are-targeting-tour-de-france-riders-fancy-elec-1851622950">news story</a>.</p>
+<p>Slashdot <a href="https://it.slashdot.org/story/24/08/15/2019206/researchers-hack-electronic-shifters-with-a-few-hundred-dollars-of-hardware">thread</a>.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/08/hacking-wireless-bicycle-shifters.html>
+
+---
+
+## August 19, 2024 
+
+date: 2024-08-20, from: Heather Cox Richardson blog
+
+The Democratic National Committee today released a platform that lays out the history of the last four years and explains how and why the Biden-Harris administration has oriented the United States government toward ordinary Americans. 
+
+<https://heathercoxrichardson.substack.com/p/august-19-2024>
+
+---
+
+## When I took my son to the Democratic National Convention in Chicago
+
+date: 2024-08-20, from: Robert Reich's blog
+
+Friends, 
+
+<https://robertreich.substack.com/p/when-i-took-adam-to-the-democratic>
 
 ---
 
 ## 2024-08-19 Something new: intrigue
 
-date: 2024-08-19, from: Alex Schroeder's Blog
+date: 2024-08-20, from: Alex Schroeder's Blog
 
 <h1 id="2024-08-19-something-new-intrigue">2024-08-19 Something new: intrigue</h1>
 
@@ -38,21 +274,29 @@ I feel that <em>A Song of Ice and Fire</em> attempted to do this but the result 
 
 <p>Perhaps the split into combat and intrigue that the game introduced wasn&rsquo;t good game design because it made sense from the perspective of emulating the books but it didn&rsquo;t make sense from the perspective of some people wanting to play a game together. Or maybe it just didn&rsquo;t fit my expectations of what it means to play together. Or maybe we just missed the implied recommendation to focus on either combat or intrigue and everybody having two characters, one for each domain. Or maybe just run either a combat campaign or an intrigue campaign.</p>
 
-<p>So what I&rsquo;m looking for is for a way to get intrigue results, using procedures like we do for combat or exploration, for dungeons or the wilderness. The goal is to bring about a change in leadership of a town, a gang, a castle, an army unit, or to succeed in an act of sabotage, to incite a rebellion – things that are either hand-waved or the party is hired for the dirty work while the non-player characters are the politicians and rabble-rousers. I know this can work. It&rsquo;s OK for the party to do the dirty work, to assassinate a tyrant and the non-player characters then taking the throne and similar things, but I want to go further. I want to involve all the players at the table. I want the players to think about the logistics of war, the organising and preparations of revolutions, the intricacies of marriage politics.</p>
+<p>So what I&rsquo;m looking for is a way to get intrigue results, using procedures like we do for combat or exploration, for dungeons or the wilderness. The goal is to bring about a change in leadership of a town, a gang, a castle, an army unit, or to succeed in an act of sabotage, to incite a rebellion – things that are either hand-waved or the party is hired for the dirty work while the non-player characters are the politicians and rabble-rousers. I know this can work. It&rsquo;s OK for the party to do the dirty work, to assassinate a tyrant and the non-player characters then taking the throne and similar things, but I want to go further. I want to involve all the players at the table. I want the players to think about the logistics of war, the organising and preparations of revolutions, the intricacies of marriage politics.</p>
 
 <p>What if B/X D&amp;D went levels 1–3 is for dungeons, 4–6 is for the wilderness and 7–9 is <em>for politics</em>. Doesn&rsquo;t that sound fantastic? What sort of rules would you find in that third book? You would not get to name level by being a colonizer and clearing the land but by taking over an existing position of power – through intrigue. Oust the abbot, kick out the bishop, marry into the baron&rsquo;s family, take over the guild. With the help of your friends. Without resorting to combat, but with dice rolling.</p>
 
-<p>Not something like Burning Wheel&rsquo;s Duel of Wits but something like social combat for Fate games, like the <a href="social-combat">social combat system in Diaspora</a>, for example.</p>
+<p>The dice rolling and the procedures are important to me because otherwise it all goes in a direction I don’t like: <a href="2014-08-21_No_Dice">the referee decides everything and that is exhausting</a>.</p>
 
-<p>I still feel this space is not well served.</p>
+<p>Not something like Burning Wheel&rsquo;s Duel of Wits but something like social combat for Fate games, like the <a href="social-combat">social combat system in Diaspora</a>, for example. Note <a class="account" href="https://dice.camp/@bradjmurray" title="@bradjmurray@dice.camp">@bradjmurray</a>&rsquo;s most recent take on those rules: <a href="https://vscadotblog.wordpress.com/2020/02/20/social-combat-in-diaspora/">social combat in diaspora</a>.</p>
+
+<p>This space deserves more attention.</p>
 
 <p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p>
-
-<p><strong>2024-08-19</strong>. <a class="account" href="https://dice.camp/@bradjmurray" title="@bradjmurray@dice.camp">@bradjmurray</a>&rsquo;s most recent take on those rules: <a href="https://vscadotblog.wordpress.com/2020/02/20/social-combat-in-diaspora/">social combat in diaspora</a>.</p>
 
 <p><strong>2024-08-20</strong>. I find that urban adventures suffer from the same problem. If it&rsquo;s just two or three buildings and those act like dungeons, my games work. If it&rsquo;s just social encounters that can be resolved with reaction rolls, my games work. But everything else in an urban environment seems to be politics, to me. And I have no good procedures to resolve those. So if anybody reading this is thinking about writing a blog post on the topic, I&rsquo;d love to read it.</p> 
 
 <https://alexschroeder.ch/view/2024-08-19-rpg-intrigue>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-20, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@actor_keanureeves_59/post/C-2Xy0mtOk4">Keanu Reeves</a>: "If you see someone falling behind, walk beside them. If you see someone being ignored, find a way to include them. Always remind people of their worth. One small act could mean the world to them." 
+
+<http://scripting.com/2024/08/19.html#a010710>
 
 ---
 
@@ -70,14 +314,14 @@ date: 2024-08-19, updated: 2024-08-19, from: Jason Kittke's blog
 
 date: 2024-08-19, from: Dave Winer's Scripting News
 
-<p>Elon Musk bought the biggest airport on the social web. A major world hub like Atlanta, London or Dubai. </p>
+<p>Elon Musk bought the biggest airport on the social web. A major world hub like Atlanta, <a href="https://www.flightconnections.com/flights-from-london-heathrow-lhr">London</a> or Dubai. </p>
 <p>Bluesky is a regional airport in a cool place, maybe Austin. </p>
-<p>Mastodon is a small network of airports, like the ones served by Ryanair in Europe. </p>
-<p>Threads is potentially one of the big airports like the one Musk bought, but it's not as much of a hub yet. Orlando? Frankfurt? </p>
+<p>Mastodon is a network of airports, like the ones served by <a href="https://www.ryanair.com/us/en/cheap-flight-destinations">Ryanair</a> in Europe. </p>
+<p>Threads is potentially one of the big airports like the one Musk bought, but it's not as much of a hub yet. <a href="https://www.flightconnections.com/flights-from-orlando-mco">Orlando</a>? <a href="https://www.flightconnections.com/flights-from-frankfurt-fra">Frankfurt</a>? </p>
 <p>There are lots of scheduled flights in and out of X because it's where most of the traffic already goes. It's quite possibly not running that smoothly, like perhaps JFK in NYC, always a mess, under construction, huge traffic, broken systems. </p>
 <p>But it does actually work pretty reliably most of the time. </p>
-<p>When I was first getting started in tech, when we got the initial angel funding for <a href="https://en.wikipedia.org/wiki/Living_Videotext">LVT</a>, I asked the lead investor, Bill Jordan, if Apple was going to go out of business. At the time, 1983, a lot of people said it would. He asked what their sales were. $1 billion, I said. He said they're not going away. Companies that large don't disappear. After 40 years of experience in tech since then, Bill was right. Companies that lead markets very rarely disappear. It does happen. But not often. More likely is Musk will right the ship, and it will grow to dominate the market. Threads will possibly be Pepsi. Mastodon will be Home Depot. Bluesky will be Laurel Canyon. Or who knows? </p>
-<p>But there's a high probability that Musk's company will exist in some form, and make us feel sick, every day, about what could have been. 😀</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2019/11/14/weTryHarder.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">When I was first getting started in tech, when we got the initial angel funding for <a href="https://en.wikipedia.org/wiki/Living_Videotext">LVT</a>, I asked the lead investor, Bill Jordan, if Apple was going to go out of business. At the time, 1983, a lot of people said it would. He asked what their sales were. $1 billion, I said. He said they're not going away. Companies that large don't disappear. After 40 years of experience in tech since then, Bill was right. Companies that lead markets very rarely disappear. It <a href="https://en.wikipedia.org/wiki/Osborne_Computer_Corporation">does</a> happen. But not often. More likely is Musk will right the ship, and it will grow to dominate the market. Threads will possibly be Pepsi or Avis. Mastodon will be Home Depot. Bluesky will be <a href="https://en.wikipedia.org/wiki/Laurel_Canyon,_Los_Angeles#Counterculture_of_the_1960s_and_1970s">Laurel Canyon</a>. Or who knows? </p>
+<p>But there's a high probability that Musk's company will be the market leader for the forseeable future. </p>
  
 
 <http://scripting.com/2024/08/19/200828.html?title=elonBoughtTheAirport>

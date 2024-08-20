@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.34
-updated: 2024-08-19 15:43:40
+updated: 2024-08-20 08:14:06
 ---
 
 # libraries 2024.34
 
-(date: 2024-08-19 15:43:40)
+(date: 2024-08-20 08:14:06)
+
+---
+
+## Ensuring the Sustainability of Print
+
+date: 2024-08-20, from: Scholarly Kitchen
+
+<p>Mindful of ecological factors, decision-making regarding print production shifts, balancing innovation with pragmatism.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/08/20/ensuring-the-sustainability-of-print/">Ensuring the Sustainability of Print</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/08/20/ensuring-the-sustainability-of-print/>
 
 ---
 

@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.34
-updated: 2024-08-19 15:43:42
+updated: 2024-08-20 08:14:08
 ---
 
 # retro computing 2024.34
 
-(date: 2024-08-19 15:43:42)
+(date: 2024-08-20 08:14:08)
+
+---
+
+## August Rougol report - Gerph goes 64 bit
+
+date: 2024-08-20, from: Icon Bar, RISC OS News
+
+The July 2024 talk was a hybrid meeting featuring Gerph (who knows a few things about RISC OS) looking at the 64 bit issues which RISC OS faces with the disappearance of 32 bit chips. It was a very well attended talk with 50 people on or offline. 
+
+<http://www.iconbar.com/comments/rss/news2086.html>
 
 ---
 

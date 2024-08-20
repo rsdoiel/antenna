@@ -1,11 +1,119 @@
 ---
 title: going electric 2024.34
-updated: 2024-08-19 15:43:43
+updated: 2024-08-20 08:14:09
 ---
 
 # going electric 2024.34
 
-(date: 2024-08-19 15:43:43)
+(date: 2024-08-20 08:14:09)
+
+---
+
+## Polestar (PSNY) delivers first Polestar 4 models in Europe, North America by end of 2024
+
+date: 2024-08-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Polestar-4-deliveries-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/polestar/">Polestar</a> (PSNY) has officially expanded its EV lineup threefold as its new electric SUV coupe reaches customers in Europe. Polestar 4 deliveries are now underway in Europe, with North America and Australia following by the end of 2024.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="polestar,polestar-4" data-layer-viewtype="unknown" data-post-id="376510" href="https://electrek.co/2024/08/20/polestar-4-deliveries-begin-europe-north-america-end-of-year/#more-376510" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/20/polestar-4-deliveries-begin-europe-north-america-end-of-year/>
+
+---
+
+## Tesla Semi electric truck caught on fire on highway
+
+date: 2024-08-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Tesla-Semi-fire.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A Tesla Semi electric truck has caught on fire on a highway near the California-Nevada border, according to the CAL FIRE Nevada-Yuba-Placer Unit.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-semi" data-layer-viewtype="unknown" data-post-id="376512" href="https://electrek.co/2024/08/20/tesla-semi-electric-truck-caught-on-fire-on-highway/#more-376512" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/20/tesla-semi-electric-truck-caught-on-fire-on-highway/>
+
+---
+
+## BSA’s New Gold Star is Pretty Slick. Will It Steal Customers From Royal Enfield?
+
+date: 2024-08-20, from: Ride Apart, Electric Motorcycle News
+
+The Gold Star will face stiff competition from Royal Enfield.  
+
+<https://www.rideapart.com/news/730545/bsa-goldstar-650-launched-india/>
+
+---
+
+## Justice at Last? Norton Pensions Scandal Victims Finally Get Paid
+
+date: 2024-08-20, from: Ride Apart, Electric Motorcycle News
+
+It's been over a decade since the whole scam went down. 
+
+<https://www.rideapart.com/news/730659/norton-pensions-scandal-payments-2024/>
+
+---
+
+## I'm Sorry, But What Does Harley's 'We're Not Woke' Statement Even Mean?
+
+date: 2024-08-20, from: Ride Apart, Electric Motorcycle News
+
+If you ever wanted to learn how to talk out both sides of your mouth, read this memo. 
+
+<https://www.rideapart.com/news/730673/harley-woke-controversy-official-response/>
+
+---
+
+## Looks Like Kawasaki is Working On a Bigger, Better Versys
+
+date: 2024-08-20, from: Ride Apart, Electric Motorcycle News
+
+The slightly upsized engine could also pave the way for updates to the rest of Kawasaki’s lineup.  
+
+<https://www.rideapart.com/news/730547/kawasaki-versys-1100-coming-soon/>
+
+---
+
+## This Classic Porsche 356A Is Electric–And Has A Manual Gearbox
+
+date: 2024-08-20, from: Inside EVs News
+
+The perfect combo for classic car lovers who want to escape the fumes and reliability concerns of old? 
+
+<https://insideevs.com/news/730756/porsche-356a-ev-conversion-manual-gearbox/>
+
+---
+
+## One Rider Died, Another Injured, So Harley-Davidson Now Has to Pay $287 Million
+
+date: 2024-08-20, from: Ride Apart, Electric Motorcycle News
+
+Faulty traction control was blamed.  
+
+<https://www.rideapart.com/news/730653/harley-davidson-sued-287-million-dollar-payment/>
+
+---
+
+## Waymo’s New Robotaxi Is Designed For Bad Weather
+
+date: 2024-08-20, from: Inside EVs News
+
+The Chinese-built Zeekr driverless minivan has a new, more advanced sensor suite compared to the Jaguar I-Pace robotaxis. 
+
+<https://insideevs.com/news/730740/waymo-6th-gen-robotaxi-sensors/>
+
+---
+
+## Finally, A Tesla Cybertruck For Real Billionaires (Apocalypse Bunker Not Included)
+
+date: 2024-08-20, from: Inside EVs News
+
+It’s armored, it has a generator that runs on jet fuel and its makers claim it can protect occupants from 14.5mm rounds. 
+
+<https://insideevs.com/news/730707/tesla-cybertruck-sting-military-unplugged-performance/>
 
 ---
 
@@ -117,7 +225,7 @@ date: 2024-08-19, from: Electrek Feed
 
 ---
 
-## Tesla Semi Still Burning After 3 A.M. Crash Shuts Down Highway
+## Tesla Semi Fire Shut Down California Highway For Hours (Updated)
 
 date: 2024-08-19, from: Inside EVs News
 

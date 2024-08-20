@@ -1,11 +1,41 @@
 ---
 title: health 2024.34
-updated: 2024-08-19 15:43:43
+updated: 2024-08-20 08:14:08
 ---
 
 # health 2024.34
 
-(date: 2024-08-19 15:43:43)
+(date: 2024-08-20 08:14:08)
+
+---
+
+## Development of a novel sandwich immunoassay based on targeting recombinant Francisella outer membrane protein A for the diagnosis of tularemia
+
+date: 2024-08-20, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionTularemia, caused by the bacterium Francisella tularensis, poses health risks to humans and can spread through a variety of routes. It has also been classified as a Tier 1 Select agent by the CDC, highlighting its potential as a bioterrorism agent. Moreover, it is difficult to diagnose in a timely fashion, owing to the non-specific nature of tularemia infections. Rapid, sensitive, and accurate detection methods are required to reduce mortality rates. We aimed to develop antibodies directed against the outer membrane protein A of F. tularensis (FopA) for rapid and accurate diagnosis of tularemia.MethodsWe used a baculovirus insect cell expression vector system to produce the FopA antigen and generate anti-FopA antibodies through immunization of BALB/c mice. We then employed hybridoma and phage display technologies to screen for antibodies that could recognize unique epitopes on FopA.ResultTwo monoclonal antibodies, 6B12 and 3C1, identified through phage display screening specifically bound to recombinant FopA in a dose-dependent manner. The binding affinity of the anti-FopA 6B12 and 3C1 antibodies was observed to have an equilibrium dissociation constant of 1.76 × 10-10 M and 1.32 × 10-9 M, respectively. These antibodies were used to develop a sandwich ELISA system for the diagnosis of tularemia. This assay was found to be highly specific and sensitive, with detection limits ranging from 0.062 ng/mL in PBS to 0.064 ng/mL in skim milk matrices.DiscussionOur findings demonstrate the feasibility of a novel diagnostic approach for detecting F. tularensis based on targeting FopA, as opposed to existing tests that target the bacterial lipopolysaccharide. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1455259>
+
+---
+
+## Global transcriptomic network analysis of the crosstalk between microbiota and cancer-related cells in the oral-gut-lung axis
+
+date: 2024-08-20, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe diagnosis and treatment of lung, colon, and gastric cancer through the histologic characteristics and genomic biomarkers have not had a strong impact on the mortality rates of the top three global causes of death by cancer.MethodsTwenty-five transcriptomic analyses (10 lung cancer, 10 gastric cancer, and 5 colon cancer datasets) followed our own bioinformatic pipeline based on the utilization of specialized libraries from the R language and DAVID´s gene enrichment analyses to identify a regulatory metafirm network of transcription factors and target genes common in every type of cancer, with experimental evidence that supports its relationship with the unlocking of cell phenotypic plasticity for the acquisition of the hallmarks of cancer during the tumoral process. The network’s regulatory functional and signaling pathways might depend on the constant crosstalk with the microbiome network established in the oral-gut-lung axis.ResultsThe global transcriptomic network analysis highlighted the impact of transcription factors (SOX4, TCF3, TEAD4, ETV4, and FOXM1) that might be related to stem cell programming and cancer progression through the regulation of the expression of genes, such as cancer-cell membrane receptors, that interact with several microorganisms, including human T-cell leukemia virus 1 (HTLV-1), the human papilloma virus (HPV), the Epstein–Barr virus (EBV), and SARS−CoV−2. These interactions can trigger the MAPK, non-canonical WNT, and IFN signaling pathways, which regulate key transcription factor overexpression during the establishment and progression of lung, colon, and gastric cancer, respectively, along with the formation of the microbiome network.ConclusionThe global transcriptomic network analysis highlights the important interaction between key transcription factors in lung, colon, and gastric cancer, which regulates the expression of cancer-cell membrane receptors for the interaction with the microbiome network during the tumorigenic process. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1425388>
+
+---
+
+## COVID-19 epidemic investigation study of a follow-up cohort of patients with diabetic kidney disease
+
+date: 2024-08-20, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThe impact of coronavirus disease 2019 (COVID-19) on diabetic kidney disease (DKD) patients in China is not fully understood. This study aimed to investigate infection status in a DKD cohort post-renal biopsy and analyze vaccination and infection rates, as well as symptom severity, across various renal pathologies in DKD patients.MethodsThis epidemiological survey, centered on COVID-19, employed a Chinese DKD and renal puncture follow-up cohort. A customized questionnaire enabled standardized data gathering. It collected data on clinical characteristics, vaccination and infection statuses, and diverse pathological types. The study analyzed the relationship between vaccination and infection statuses across various pathological types, evaluating characteristics and treatment outcomes in patients with infections.ResultsIn total, 437 patients with DKD from 26 Chinese provinces were followed up for a median of 44.6 ± 20 months. COVID-19 infection, vaccination, and novel coronavirus pneumonia (NCP) rates were 73.68%, 59.3%, and 6.63%, respectively. Ten patients with NCP had severe pneumonia or died of COVID-19. Renal pathology revealed that 167 (38.22%) patients had diabetic nephropathy (DN), 171 (39.13%) had non-diabetic renal disease (NDRD), and 99 had DN and NDRD (22.65%). The DN group had the lowest vaccination (54.5%), highest all-cause mortality (3.6%), and highest endpoint rates (34.10%). Compared to patients who were not vaccinated pre-infection (117 cases), vaccinated patients (198 cases) had reduced NCP (6.6% vs. 13.7%), severity (1.0% vs. 3.4%), and endpoint (9.10% vs. 31.60%) rates.ConclusionVaccination can prevent infection and diminish COVID-19 severity in patients with DKD; therefore, increasing vaccination rates is particularly important.Clinical Trial registrationClinicalTrails.gov, NCT05888909. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1388260>
 
 ---
 
