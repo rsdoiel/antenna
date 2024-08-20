@@ -1,20 +1,51 @@
 ---
 title: socal north 2024.34
-updated: 2024-08-20 08:14:00
+updated: 2024-08-20 14:56:37
 ---
 
 # socal north 2024.34
 
-(date: 2024-08-20 08:14:00)
+(date: 2024-08-20 14:56:37)
 
 ---
 
-## In Plain Sight: Bruin Bus drivers bring attentiveness, positivity to students
+## Improved recruit classes, embrace of NIL signal new direction for UCLA football
 
 date: 2024-08-20, from: The Daily Bruin (UCLA Student Newspaper)
 
-From passing out kindness bracelets to listening to people share their grief, transporting students to class is only half the job for Bruin Bus drivers.
-Last year, Bruin Bus operators provided 294,339 rides to students, faculty and the general public. 
+UCLA football has often lagged behind Westwood&#8217;s sporting giants.
+Women&#8217;s soccer enters its inaugural Big Ten season as favorites  to claim the conference title, and softball is a perennial national contender. 
+
+<https://dailybruin.com/2024/08/20/improved-recruit-classes-embrace-of-nil-signal-new-direction-for-ucla-football/>
+
+---
+
+## Push to build more homes on California coast stifled after lawmakers derail housing bills
+
+date: 2024-08-20, updated: 2024-08-20, from: The LAist
+
+Several efforts to minimize the power and influence of the California Coastal Commission have stalled. 
+
+<https://laist.com/news/politics/push-to-build-more-homes-on-california-coast-stifled-after-lawmakers-derail-housing-bills>
+
+---
+
+## Your SoCal Weather Report For Tuesday August 20: Just a few days of heat before cool down
+
+date: 2024-08-20, updated: 2024-08-20, from: The LAist
+
+Beginning Thursday, the region will see comfy temperatures in the upper 70's. 
+
+<https://laist.com/news/climate-environment/la-weather-report-august-20-waning-heat>
+
+---
+
+## In Plain Sight: BruinBus drivers bring attentiveness, positivity to students
+
+date: 2024-08-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Aug. 20 at 2:44 p.m.</em>
+From passing out kindness bracelets to listening to people share their grief, transporting students to class is only half the job for BruinBus drivers. 
 
 <https://dailybruin.com/2024/08/19/in-plain-sight-bruin-bus-drivers-bring-attentiveness-positivity-to-students/>
 

@@ -1,11 +1,31 @@
 ---
 title: food 2024.34
-updated: 2024-08-20 08:14:09
+updated: 2024-08-20 14:56:46
 ---
 
 # food 2024.34
 
-(date: 2024-08-20 08:14:09)
+(date: 2024-08-20 14:56:46)
+
+---
+
+## Where to Eat at the US Open 2024
+
+date: 2024-08-20, from: Bon Appetet
+
+In between serves and Love 15, here what to eat at NYC's premier tennis tournament 
+
+<https://www.bonappetit.com/story/where-to-eat-us-open-2024>
+
+---
+
+## The Best Carbon-Steel Pan (2024), Reviewed by Our Experts
+
+date: 2024-08-20, from: Bon Appetet
+
+They’re all over professional kitchens for a reason. 
+
+<https://www.bonappetit.com/story/best-carbon-steel-pans>
 
 ---
 

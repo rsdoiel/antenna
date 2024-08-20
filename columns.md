@@ -1,11 +1,149 @@
 ---
 title: columns 2024.34
-updated: 2024-08-20 08:14:03
+updated: 2024-08-20 14:56:40
 ---
 
 # columns 2024.34
 
-(date: 2024-08-20 08:14:03)
+(date: 2024-08-20 14:56:40)
+
+---
+
+##  Good news! The new Covid-19 vacines are scheduled to be approved soon... 
+
+date: 2024-08-20, updated: 2024-08-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045179-good-news-the-new-covid-1>
+
+---
+
+##  The Reason Social Security Currently Has a Funding Shortfall 
+
+date: 2024-08-20, updated: 2024-08-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/the-reason-social-security-currently-has-a-funding-shortfall>
+
+---
+
+## Influencers, Media and Relevance
+
+date: 2024-08-20, from: Om Malik blog
+
+In its story about the Democratic National Convention 2024 (behind a paywall), Wired pointed out that the DNC is all-in on influencers. It has created an influencer paradise at its Chicago convention, with exclusive yacht parties and creators’ lounges, while journalists struggle to find power outlets and CNN anchors wait in security lines. &#8220;Bringing creators &#8230; 
+
+<https://om.co/2024/08/20/influencers-media-and-relevance/>
+
+---
+
+## GM Lays Off More Than 1,000 Salaried Software and Services Employees
+
+date: 2024-08-20, updated: 2024-08-20, from: Daring Fireball
+
+ 
+
+<https://www.cnbc.com/2024/08/19/gm-lays-off-more-than-1000-salaried-software-and-services-employees.html>
+
+---
+
+##  Disney has cancelled The Acolyte after one season. Such a high ratings... 
+
+date: 2024-08-20, updated: 2024-08-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045178-disney-has-cancelled-the->
+
+---
+
+## Building a Steampipe Plugin — and Powerpipe Dashboards — for WordPress
+
+date: 2024-08-20, from: Jonudell blog
+
+&#8220;Users of the WordPress API may enjoy the abstraction — and standardization — that a SQL interface provides. If you need to query multiple WordPress sites, Steampipe’s connection aggregator will be really handy. And if you want to integrate data from WordPress with data from other APIs wrapped by other plugins in the Steampipe hub, &#8230; <a href="https://blog.jonudell.net/2024/08/20/building-a-steampipe-plugin-and-powerpipe-dashboards-for-wordpress/" class="more-link">Continue reading <span class="screen-reader-text">Building a Steampipe Plugin — and Powerpipe Dashboards — for WordPress</span></a> 
+
+<https://blog.jonudell.net/2024/08/20/building-a-steampipe-plugin-and-powerpipe-dashboards-for-wordpress/>
+
+---
+
+##  Cilantro used to be a key ingredient in Italian cooking. &#8220;Roman chefs... 
+
+date: 2024-08-20, updated: 2024-08-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045153-cilantro-used-to-be-a>
+
+---
+
+## August 19, 2024
+
+date: 2024-08-20, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-19-2024-277>
+
+---
+
+##  Vivian Maier: Unseen Work 
+
+date: 2024-08-20, updated: 2024-08-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/vivian-maier-unseen-work>
+
+---
+
+##  The Good Milk List. &#8220;These locations, around the world, are where happy... 
+
+date: 2024-08-20, updated: 2024-08-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045172-the-good-milk-list-these>
+
+---
+
+##  Smart Anand Giridharadas piece about the Democrats&#8217; shift in political style, one... 
+
+date: 2024-08-20, updated: 2024-08-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045174-smart-anand-giridharadas->
+
+---
+
+## Apple Podcasts Now Available on the Web
+
+date: 2024-08-20, updated: 2024-08-20, from: Daring Fireball
+
+ 
+
+<https://www.macrumors.com/2024/08/19/apple-podcasts-now-available-on-the-web/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-20, from: Dave Winer's Scripting News)
+
+My linkblog, which posts to the <a href="http://scripting.com/?tab=links">Links tab</a> on Scripting News, as well as <a href="https://bsky.app/profile/scripting.com/post/3l262hoj67h2c">Bluesky</a>, <a href="https://mastodon.social/@dave@social.masto.land/112995344978083167">Mastodon</a> and <a href="http://data.feedland.org/feeds/davewiner.xml">RSS</a>, now also posts to <a href="https://x.com/davewiner/status/1825917984361120218">Twitter</a> and <a href="https://www.threads.net/@davew/post/C-5hnjltv1P">Threads</a>. 
+
+<http://scripting.com/2024/08/20.html#a152945>
+
+---
+
+##  Ephemeral tic-tac-toe. Each player&#8217;s moves disappear after 4 turns.... 
+
+date: 2024-08-20, updated: 2024-08-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045170-ephemeral-tic-tac-toe-eac>
 
 ---
 
@@ -18,7 +156,7 @@ I seem to be stuck on the theme of cryptocurrency gaslighting with two weeks ago
 it is defined as the process of seeking electoral victory or legislative relief for grievances by helping political actors find and mobilize a sympathetic public, and is designed to create the image of public consensus where there is none. Astroturfing is the use of fake <a href="https://en.wikipedia.org/wiki/Grassroots">grassroots</a> efforts that primarily focus on influencing public opinion and typically are funded by corporations and political entities to form opinions.
 </blockquote>
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIue1ZMRfr9odeWLG7HUbFVuhAS6lHAmAOv4NAnjtRilhsC_fwM964LlqhYuUYUvxd6No4fvn_aNOFTzW9lwVT3k-qUt-iFJYxBQvynJrlDpkrpX4YELq7hLnhP_oOGnu55RwH1PoeQ8AoPwo1y5rlWNZpLiq_JHkD1F5ogSBR95KpZtVhAahHi9P26CPL/s640/trumptweets-546x640.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="640" data-original-width="546" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIue1ZMRfr9odeWLG7HUbFVuhAS6lHAmAOv4NAnjtRilhsC_fwM964LlqhYuUYUvxd6No4fvn_aNOFTzW9lwVT3k-qUt-iFJYxBQvynJrlDpkrpX4YELq7hLnhP_oOGnu55RwH1PoeQ8AoPwo1y5rlWNZpLiq_JHkD1F5ogSBR95KpZtVhAahHi9P26CPL/w171-h200/trumptweets-546x640.png" width="171" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://corpgov.law.harvard.edu/2019/08/06/a-roadmap-for-president-trumps-crypto-crackdown/">Donald Trump, 2019</a><br /></td></tr></tbody></table>
-Currently, the crypto-bros have poured money into primaries and defeated several incumbents deemed to be insufficiently crypto-friendly, and have accumulated an immense war-chest for November's general election. This pot of gold was enough to turn Trump from <a href="https://www.bbc.com/news/business-57392734">crypto-skeptic</a> to <a href="https://finance.yahoo.com/news/trump-proposes-bitcoin-solution-35-061830288.html">telling Maria Bartiromo</a>:<br />
+Currently, the crypto-bros have poured money into primaries, defeated several incumbents deemed to be insufficiently crypto-friendly, and have accumulated an immense war-chest for November's general election. This pot of gold was enough to turn Trump from <a href="https://www.bbc.com/news/business-57392734">crypto-skeptic</a> to <a href="https://finance.yahoo.com/news/trump-proposes-bitcoin-solution-35-061830288.html">telling Maria Bartiromo</a>:<br />
 <blockquote>
 Who knows, maybe we’ll pay off our $35 trillion dollar [national debt], hand them a little crypto check, right? We’ll hand them a little Bitcoin and wipe away our $35 trillion
 </blockquote>
@@ -151,7 +289,7 @@ date: 2024-08-20, updated: 2024-08-20, from: Jason Kittke's blog
 date: 2024-08-20, from: Dave Winer's Scripting News
 
 <p>When President Biden took the stage last night at the DNC, I had a moment of buyer's remorse. He looked so good in his black suit, and the pictures of the new candidates, and their spouses, looked comical in comparison to the <i>president</i> who was about to speak. </p>
-<p>Why did Walz have a permanent frown on his face. I find his presence next to Harris is almost always awkward. He's taller, and moves a lot. I noticed this with Sanders when he was debating Clinton. She stood still and Sanders waved his hands a lot. She spoke quietly, he shouted. </p>
+<p>Why did Walz have a permanent frown on his face. I find his presence next to Harris is almost always awkward. He's taller, and moves a lot. I noticed this with Sanders when he was debating Clinton in 2016. She stood still and Sanders waved his hands a lot. She spoke quietly, he shouted. </p>
 <p>Biden shouted last night, and he was mostly unplugged. On the team, but you have to wonder, how did the journos get so much power that they could force this change. He gave a fine speech. I'm not sure that pushing him aside, net-net, was a win for us. Maybe Harris will be a sugar high.</p>
 <p>One thing I know for sure, the new Democratic Party must not make the mistake that Biden did, must not subjugate itself to the press. When they go on the attack, you must respond. Break their wall of objectivity, these people are political players, and so far not subject to rebuttal. That must end. If they want to be in the middle, then don't pretend they aren't. </p>
 <p>They will yell about the First Amendment, which also applies to elected leaders and candidates for office, and there is no special right for publications like the NYT, they have no immunity to First Amendment speech about them. </p>

@@ -1,11 +1,121 @@
 ---
 title: pacific 2024.34
-updated: 2024-08-20 08:14:01
+updated: 2024-08-20 14:56:38
 ---
 
 # pacific 2024.34
 
-(date: 2024-08-20 08:14:01)
+(date: 2024-08-20 14:56:38)
+
+---
+
+## Immigration simplifies residency rule for spouses, stepchildren of US citizens
+
+date: 2024-08-20, from: Pacific Island Times
+
+By Pacific Island Times News Staff Washington —The Department of Homeland Security this week announced the implementation of Keeping... 
+
+<https://www.pacificislandtimes.com/post/immigration-simplifies-residency-rule-for-spouses-stepchildren-of-us-citizens>
+
+---
+
+## Marianas Milk
+
+date: 2024-08-20, updated: 2024-08-20, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/views/columnists/marianas-milk/article_c7d8eaf4-5f02-11ef-b909-afeecc9b43d1.html>
+
+---
+
+## Baby laundry baskets for CHCC
+
+date: 2024-08-20, updated: 2024-08-20, from: Marianas Variety
+
+The Soroptimist International-Northern Mariana Islands chapter has donated additional baby laundry baskets to the Commonwealth Healthcare Center’s medical social worker department.  Social workers assess the need for families of newborns that may need a bit of additional love and support. “They are gracious enough to act as our partners for the distribution of our club's donation.  This program has been going on since 2023 with nearly 20 baskets having been given thus far.  We are most grateful for the donations received from D &amp;Q International as well as our club's membership,” Soroptimist International-NMI chapter said. Photo above shows, from left, Tania David (SINMI president), Imma Litulumar (CHCC), Maureen Sebangiol (SINMI past president), Nei Satur Camacho (CHCC), Erika Ann Palacios (SINMI secretary) and Tina Snodgrass (CHCC). 
+
+<https://www.mvariety.com/news/community_bulletins/baby-laundry-baskets-for-chcc/article_c9d98410-5f04-11ef-aaff-9b5bfdf3f6a1.html>
+
+---
+
+## Guam to host CHamoru Genealogy Symposium
+
+date: 2024-08-20, updated: 2024-08-20, from: Marianas Variety
+
+HAGÅTÑA —  The Kumision i Fino’ CHamoru yan Fina’nå’guen i Historia yan Lina’la’ i Taotao Tåno’  (Commission  on  CHamoru  Language  and  the  Teaching  of  the  History  &amp;  Culture  of  the Indigenous  People  of Guam) and CHamoru Roots will jointly host the second Fina'che'cho’ yan Finattan i Hinayen CHamoru (CHamoru Genealogy Symposium). The first symposium was held on Nov. 11-12, 2022, which generated excitement and interest in family history and how to research genealogy. 
+
+<https://www.mvariety.com/news/community_bulletins/guam-to-host-chamoru-genealogy-symposium/article_53132114-5f05-11ef-babb-4ffa6dd233f9.html>
+
+---
+
+## Senate confirmation key to resuming IPI license revocation case
+
+date: 2024-08-20, updated: 2024-08-20, from: Marianas Variety
+
+THE Commonwealth Casino Commission may no longer issue a stay on the revocation case against Imperial Pacific International, Commissioner Mario Taitano said on Tuesday. 
+
+<https://www.mvariety.com/news/local/senate-confirmation-key-to-resuming-ipi-license-revocation-case/article_d3bd914c-5ec3-11ef-a8c8-83568aed724a.html>
+
+---
+
+## Savemore, Jacob’s Bakeshop advance to semis
+
+date: 2024-08-20, updated: 2024-08-20, from: Marianas Variety
+
+SAVEMORE and Jacob’s Bakeshop secured their spots in the semifinals of the 2024 Destroyers Basketball Club Invitational Basketball League by eliminating their respective adversaries at the TSL Sports Complex on Sunday. 
+
+<https://www.mvariety.com/sports/localsports/savemore-jacob-s-bakeshop-advance-to-semis/article_409f13b6-5f01-11ef-b3c8-1b987ced2c49.html>
+
+---
+
+## Cardinals eliminate Braves, advance to semis
+
+date: 2024-08-20, updated: 2024-08-20, from: Marianas Variety
+
+THE defending champions, the Cardinals, are one step closer to winning the 2024 Tan Holdings Saipan Baseball League title after eliminating the Braves, 8-3, in the first round of the playoffs at the Francisco “Tan Ko” Palacios Baseball Field on Monday. 
+
+<https://www.mvariety.com/sports/localsports/cardinals-eliminate-braves-advance-to-semis/article_cb8cd4d6-5f01-11ef-93e0-471823c4a271.html>
+
+---
+
+## Mari Bar brings back Mabuhay Street Market
+
+date: 2024-08-20, updated: 2024-08-20, from: Marianas Variety
+
+MARI Bar is back this month with Mabuhay Street Market Part 2! 
+
+<https://www.mvariety.com/news/community_bulletins/mari-bar-brings-back-mabuhay-street-market/article_ff7bdfd8-5f03-11ef-8863-6bd21b88f690.html>
+
+---
+
+## Joeten-Kiyu Public Library empowers with online continuing education
+
+date: 2024-08-20, updated: 2024-08-20, from: Marianas Variety
+
+(JKPL) — Dive deep into a reservoir of knowledge! Joeten-Kiyu Public Library is thrilled to announce its collaboration with the renowned Universal Class Inc., ushering in a new era of online continuing education through UniversalClass for Libraries. 
+
+<https://www.mvariety.com/news/community_bulletins/joeten-kiyu-public-library-empowers-with-online-continuing-education/article_7926cb90-5f04-11ef-b0b3-dfd91c2e686a.html>
+
+---
+
+## Hong Kong silences NMI, 8-0
+
+date: 2024-08-20, updated: 2024-08-20, from: Marianas Variety
+
+HONG Kong dominated  the NMI Women’s U15 National Team, 8-0, in their game in the East Asian Football Confederation U15 Women’s Championship 2024 at the Dalian Football Youth Training Center in China on Tuesday. 
+
+<https://www.mvariety.com/sports/localsports/hong-kong-silences-nmi-8-0/article_53a8e350-5f02-11ef-9b72-5b3fb02267d8.html>
+
+---
+
+## Oil slips for a third day on Middle East tensions, China demand concerns
+
+date: 2024-08-20, updated: 2024-08-20, from: Marianas Variety
+
+(Reuters) — Oil prices dipped on Tuesday, retreating for a third straight day, as Israel accepting a proposal to tackle disagreements blocking a ceasefire deal in Gaza eased supply concerns, while China's economic weakness continued to weigh on demand outlook. 
+
+<https://www.mvariety.com/business/business_news/oil-slips-for-a-third-day-on-middle-east-tensions-china-demand-concerns/article_10201e60-5f06-11ef-9ea4-0f4e7b225f6a.html>
 
 ---
 

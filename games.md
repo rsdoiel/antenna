@@ -1,11 +1,111 @@
 ---
 title: games 2024.34
-updated: 2024-08-20 08:14:05
+updated: 2024-08-20 14:56:41
 ---
 
 # games 2024.34
 
-(date: 2024-08-20 08:14:05)
+(date: 2024-08-20 14:56:41)
+
+---
+
+## 2024’s franchise blockbusters, ranked by their value to the series
+
+date: 2024-08-20, updated: 2024-08-20, from: Polygon Website
+
+In Hollywood, the question “Does this movie franchise need another chapter?” seems to have a pretty easy answer:&#160;“Sure, if we think it’ll still make money!” For fans of a given franchise, though, the calculations are more complicated. Will that new installment in a movie series actually add anything worthwhile to the story, or just undermine [&#8230;] 
+
+<https://www.polygon.com/24171622/2024-movie-sequels-prequels-ranked-least-to-most-essential>
+
+---
+
+## This Pokémon made a historic return at the 2024 World Championships
+
+date: 2024-08-20, updated: 2024-08-20, from: Polygon Website
+
+Pikachu might be the main mascot of Pokémon, but it just got one-upped at the 2024 Pokémon World Championships. And it’s all because a very special Pachirisu captured the hearts of spectators both near and far when it emerged from its Poké Ball. Players and fans alike gathered for the 2024 Pokémon World Championships in [&#8230;] 
+
+<https://www.polygon.com/pokemon/441691/pokemon-worlds-historic-pachirisu>
+
+---
+
+## Indiana Jones and the Great Circle will be released on PS5, too
+
+date: 2024-08-20, updated: 2024-08-20, from: Polygon Website
+
+Indiana Jones and the Great Circle will debut on Xbox, but the adventure game will also make its way to PlayStation 5. Bethesda confirmed at Gamescom 2024 that the game is set to launch on Dec. 9 for Xbox and PC, followed by a PlayStation 5 release in spring. Indiana Jones and the Great Circle [&#8230;] 
+
+<https://www.polygon.com/gamescom/442222/indiana-jones-great-circle-playstation-port-release-date-gamescom-2024>
+
+---
+
+## PUBG dev&#8217;s new life sim looks like The Sims with a dash of GTA
+
+date: 2024-08-20, updated: 2024-08-20, from: Polygon Website
+
+Krafton, the developer and publisher behind PlayerUnknown&#8217;s Battlegrounds, shared a trailer for its upcoming life sim game, Inzoi, as part of Gamescom Opening Night Live on Tuesday. The developers describe Inzoi as a game where players &#8220;have full control&#8221; and the power to change “everything as they wish&#8221; in their virtual lives. The new trailer [&#8230;] 
+
+<https://www.polygon.com/gamescom/441901/pubg-devs-life-sim-gta-inzoi-gamescom-2024>
+
+---
+
+## The Dune MMO sure looks like a worm-eat-worm world
+
+date: 2024-08-20, updated: 2024-08-20, from: Polygon Website
+
+Developer Funcom released an in-depth look at Dune: Awakening game as part of Gamescom Opening Night Live on Tuesday. It’s a survival MMO game set in the desert world of Arrakis and its larger sci-fi universe. So far, it’s looking like a sleek, but gritty take on Dune that’s all about working your way up the [&#8230;] 
+
+<https://www.polygon.com/gamescom/442183/dune-mmo-survival-game-release-date-gamescom-2024>
+
+---
+
+## Masters of Albion’s god hand is the meatiest part of its Gamescom trailer
+
+date: 2024-08-20, updated: 2024-08-20, from: Polygon Website
+
+Watching world reveals and announcement trailers at an event like Gamescom 2024 is always interesting; I enjoy seeing what titles are on the horizon that I might enjoy. One of these trailers, however, is stuck in my mind like a bit of steak might get caught in your teeth. I’m immediately obsessed with Masters of [&#8230;] 
+
+<https://www.polygon.com/gamescom/442161/masters-of-albion-reveal-trailer-molyneaux-gamescom-2024>
+
+---
+
+## Mafia: The Old Country is a return to the series after at least 8 years
+
+date: 2024-08-20, updated: 2024-08-20, from: Polygon Website
+
+Mafia maker Hangar 13 is returning to the iconic franchise with Mafia: The Old Country, the developer announced during Gamescom on Tuesday. The short teaser trailer is just over a minute long, and begins with dramatic, still-life shots of paintings and weapons. That’s before the camera pans over to what’s presumably the Italian countryside. There [&#8230;] 
+
+<https://www.polygon.com/news/442193/mafia-the-old-country-is-a-return-to-the-series-after-at-least-8-years>
+
+---
+
+## Blur Studio’s cinematics-inspired series Secret Level gets a trailer, but co-founder Tim Miller choking up at Gamescom was the real treat
+
+date: 2024-08-20, updated: 2024-08-20, from: Polygon Website
+
+Tim Miller, co-founder of Blur Studio and director of Deadpool (2016), took the stage at Gamescom Opening Night Live to show off the first trailer for Secret Level, a 15-episode anthology of video game adaptations coming to Prime Video on Dec. 10. Miller also managed to bring quite a bit of personality and emotion to [&#8230;] 
+
+<https://www.polygon.com/gamescom/442159/secret-level-tim-miller-blur-studios-announcement-gamescom-2024>
+
+---
+
+## The big games, reveals, and trailers from Gamescom Opening Night Live 2024
+
+date: 2024-08-20, updated: 2024-08-20, from: Polygon Website
+
+Gamescom’s Opening Night Live showcase is once again here to highlight games coming your way in the near future (and beyond). Hosted by Geoff Keighley, the creator of The Game Awards, the stream primarily focused on new or first looks at previously announced games like Call of Duty: Black Ops 6, Sid Meier’s Civilization 7, [&#8230;] 
+
+<https://www.polygon.com/gamescom/442015/gamescom-announcements-trailers-onl-2024>
+
+---
+
+## Buy 2 Nintendo Switch classics, get 1 free from Best Buy
+
+date: 2024-08-20, updated: 2024-08-20, from: Polygon Website
+
+Looking to get the most out of your Nintendo Switch? Got a few selections on the backlog you’ve yet to pick up and play? My Best Buy and Best Buy Total members can use this Best Buy Offer Builder to buy three Nintendo Switch games for the price of two. There are over 40 games [&#8230;] 
+
+<https://www.polygon.com/good-deals/441980/buy-2-nintendo-switch-classics-get-1-free-from-best-buy>
 
 ---
 

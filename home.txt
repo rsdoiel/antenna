@@ -34,3 +34,9 @@ https://www.friendlycontractor.com/feed/ "~PHB blog"
 # Food and Health, what our gardens deliver to us
 #
 #https://www.hackingsalt.com/feed/ "~Hacking Salt"
+
+#
+# Magazines
+#
+https://www.dwell.com/@dwell/rss "~Dwell"
+https://www.sunset.com/feed "~Sunset Magazine - Living in the West"
