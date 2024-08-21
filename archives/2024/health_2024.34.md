@@ -1,11 +1,41 @@
 ---
 title: health 2024.34
-updated: 2024-08-20 14:56:45
+updated: 2024-08-21 08:52:29
 ---
 
 # health 2024.34
 
-(date: 2024-08-20 14:56:45)
+(date: 2024-08-21 08:52:29)
+
+---
+
+## Performance of metagenomic Next-Generation Sequencing and metagenomic Nanopore Sequencing for the diagnosis of tuberculosis in HIV-positive patients
+
+date: 2024-08-21, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundPatients who were infected by the Human Immunodeficiency Virus (HIV) could have weakened immunity that is complicated by opportunistic infections, especially for Mycobacterium tuberculosis (MTB). Notably, the HIV-MTB co-infection will accelerate the course of disease progress and greatly increase the mortality of patients. Since the traditional diagnostic methods are time-consuming and have low sensitivity, we aim to investigate the performance of mNGS (metagenomic Next-Generation Sequencing) and mNPS (metagenomic NanoPore Sequencing) for the rapid diagnosis of tuberculosis in HIV-infected patients.MethodsThe 122 HIV-infected patients were enrolled for the retrospective analysis. All of the patients underwent traditional microbiological tests, mNGS, and (or) mNPS tests. The clinical comprehensive diagnosis was used as the reference standard to compare the diagnostic performance of culture, mNGS, and mNPS on tuberculosis. We also investigate the diagnostic value of mNGS and mNPS on mixed-infection. Furthermore, the treatment adjustment directed by mNGS and mNPS was analyzed.ResultsCompared with the composite reference standard, the culture showed 42.6% clinical sensitivity and 100% specificity, and the OMT(other microbiological testing) had 38.9% sensitivity and 100% specificity. The mNGS had 58.6% clinical sensitivity and 96.8% specificity, and the mNPS had 68.0% clinical sensitivity and 100% specificity. The proportion of mixed-infection cases (88.9%) in the TB group was higher than those in the non-TB group (54.8%) and the mNGS and mNPS are more competitive on mixed-infection diagnosis compared with the traditional methods. Furthermore, there are 63 patients (69.2%) and 36 patients (63.2%) achieved effective treatment after receiving the detection of mNPS and mNGS, respectively.ConclusionOur study indicated that mNPS and mNGS have high sensitivity and specificity for TB diagnosis compared with the traditional methods, and mNPS seems to have better diagnostic performance than mNGS. Moreover, mNGS and mNPS showed apparent advantages in detecting mixed infection. The mNPS and mNGS-directed medication adjustment have effective treatment outcomes for HIV-infected patients who have lower immunity. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1423541>
+
+---
+
+## ERA-CRISPR/Cas12a system: a rapid, highly sensitive and specific assay for Mycobacterium tuberculosis
+
+date: 2024-08-21, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionMycobacterium tuberculosis, the causative agent of human tuberculosis, poses a significant threat to global public health and imposes a considerable burden on the economy. However, existing laboratory diagnostic methods for M. tuberculosis are time-consuming and have limited sensitivity levels.MethodsThe CRISPR/Cas system, commonly known as the “gene scissors”, demonstrates remarkable specificity and efficient signal amplification capabilities. Enzymatic recombinase amplification (ERA) was utilized to rapidly amplify trace DNA fragments at a consistent temperature without relying on thermal cyclers. By integrating of CRISPR/Cas12a with ERA, we successfully developed an ERA-CRISPR/Cas12a detection system that enables rapid identification of M. tuberculosis.ResultsThe sensitivity of the ERA-CRISPR/Cas12a fluorescence and lateral flow systems was 9 copies/μL and 90 copies/μL, respectively. Simultaneously, the detection system exhibited no cross-reactivity with various of respiratory pathogens and non-tuberculosis mycobacteria, demonstrating a specificity of 100%. The positive concordance rate between the ERA-CRISPR/Cas12a fluorescence system and commercial qPCR was 100% in 60 clinical samples. Meanwhile, the lateral flow system showed a positive concordance rate of 93.8% when compared to commercial qPCR. Both methods demonstrated a negative concordance rate of 100%, and the test results can be obtained in 50 min at the earliest.DiscussionThe ERA-CRISPR/Cas12a system offers a rapid, sensitive, and specific method that presents a novel approach to laboratory diagnosis of M. tuberculosis. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1454076>
+
+---
+
+## Melatonin inhibits bovine viral diarrhea virus replication by ER stress-mediated NF-κB signal pathway and autophagy in MDBK cells
+
+date: 2024-08-21, from: Frontiers in Cellular and Infection Microbiology
+
+Bovine viral diarrhea-mucosal disease (BVD-MD) is a contagious disease in cattle, caused by the bovine viral diarrhea virus (BVDV). This virus continues to spread globally, exerting pressure on both public health and the economy. Despite its impact, there are currently no effective drugs for treating BVDV. This study utilized Madin-Darby bovine kidney (MDBK) cells as a model to investigate the antiviral effects of melatonin against Bovine Viral Diarrhea Virus (BVDV) and its connection with endoplasmic reticulum (ER) stress. Our results show that melatonin can suppress BVDV proliferation in MDBK cells by modulating the endoplasmic reticulum (ER) stress-mediated NF-κB pathway and autophagy. Specifically, melatonin alleviated ER stress, inhibited the activation of IκBα and p65, regulated autophagy, and reduced the expression levels of pro-inflammatory cytokines. Further, when we treated BVDV-infected cells with the ER stress inducer thapsigargin, it led to significant activation of the NF-κB pathway and autophagy. Conversely, treating the cells with the ER stress inhibitor 4-phenylbutyric acid reversed these effects. These findings suggest that melatonin exerts its antiviral effects primarily through the PERK-eIF2α-ATF4 of ER stress-mediated NF-κB pathway and autophagy. Overall, our study underscores the potential of melatonin as an effective protective and therapeutic option against BVDV, offering insights into its anti-infective mechanisms. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1431836>
 
 ---
 
@@ -118,4 +148,14 @@ date: 2024-08-19, from: Frontiers in Cellular and Infection Microbiology
 Mycobacterium abscessus (Mab) is an opportunistic nontuberculous mycobacterium responsible of difficult-to-treat pulmonary infections in vulnerable patients, such as those suffering from Cystic Fibrosis (CF), where it represents a major cause of morbidity and mortality. Additionally, due to the intrinsic extensive antimicrobial resistance spectrum displayed by this species and the side effects reported for some available antibiotics, the therapeutic management of such infections remains extremely difficult. In the present study, we show that phosphatidylserine liposomes (PS-L) enhance intracellular mycobacterial killing of Mab infected human macrophages with functional or pharmacologically inhibited cystic fibrosis conductance regulator (CFTR), by a mechanism involving phagosome acidification and reactive oxygen species (ROS) production. Additionally, PS-L significantly reduce proinflammatory response of Mab infected macrophages in terms of NF-kB activation and TNF-α production, irrespective of CFTR inhibition. Altogether, these results represent the proof of concept for a possible future development of PS-L as a therapeutic strategy against difficult-to-treat Mab infection. 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2024.1443719>
+
+---
+
+## Lung microbiota: implications and interactions in chronic pulmonary diseases
+
+date: 2024-08-19, from: Frontiers in Cellular and Infection Microbiology
+
+The lungs, as vital organs in the human body, continuously engage in gas exchange with the external environment. The lung microbiota, a critical component in maintaining internal homeostasis, significantly influences the onset and progression of diseases. Beneficial interactions between the host and its microbial community are essential for preserving the host’s health, whereas disease development is often linked to dysbiosis or alterations in the microbial community. Evidence has demonstrated that changes in lung microbiota contribute to the development of major chronic lung diseases, including chronic obstructive pulmonary disease (COPD), idiopathic pulmonary fibrosis (IPF), asthma, and lung cancer. However, in-depth mechanistic studies are constrained by the small scale of the lung microbiota and its susceptibility to environmental pollutants and other factors, leaving many questions unanswered. This review examines recent research on the lung microbiota and lung diseases, as well as methodological advancements in studying lung microbiota, summarizing the ways in which lung microbiota impacts lung diseases and introducing research methods for investigating lung microbiota. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1401448>
 

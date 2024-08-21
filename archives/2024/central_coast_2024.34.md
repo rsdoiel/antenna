@@ -1,11 +1,137 @@
 ---
 title: central coast 2024.34
-updated: 2024-08-20 14:56:39
+updated: 2024-08-21 08:52:23
 ---
 
 # central coast 2024.34
 
-(date: 2024-08-20 14:56:39)
+(date: 2024-08-21 08:52:23)
+
+---
+
+## Jesse Jimenez of Goleta, 1954-2024
+
+date: 2024-08-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="396" height="264" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2022/11/145-Obituaries_Grid_Pic.jpg?fit=396%2C264&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A red rose atop a headstone" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2022/11/145-Obituaries_Grid_Pic.jpg?w=396&amp;ssl=1 396w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2022/11/145-Obituaries_Grid_Pic.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2022/11/145-Obituaries_Grid_Pic.jpg?fit=396%2C264&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2022/11/145-Obituaries_Grid_Pic.jpg?fit=396%2C264&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It is with great sadness that I share Jesse (Tito) Jimenez, passed away on Saturday, Aug. 17, 2024. Jesse is survived by his wife Bonnie Jimenez; children Danny (Pauline), Britney [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/jesse-jimenez-of-goleta-1954-2024/">Jesse Jimenez of Goleta, 1954-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/jesse-jimenez-of-goleta-1954-2024/>
+
+---
+
+## Hunting at Phelps Pond
+
+date: 2024-08-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080924-POD-Frank-DiMarco.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Hunting at Phelps Pond, Devereux Creek in Goleta." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080924-POD-Frank-DiMarco.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080924-POD-Frank-DiMarco.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080924-POD-Frank-DiMarco.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080924-POD-Frank-DiMarco.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080924-POD-Frank-DiMarco.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080924-POD-Frank-DiMarco.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080924-POD-Frank-DiMarco.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080924-POD-Frank-DiMarco.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080924-POD-Frank-DiMarco.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080924-POD-Frank-DiMarco.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080924-POD-Frank-DiMarco.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080924-POD-Frank-DiMarco.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/080924-POD-Frank-DiMarco.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/hunting-at-phelps-pond/">Hunting at Phelps Pond</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/hunting-at-phelps-pond/>
+
+---
+
+## Prep Girls Volleyball Roundup: San Marcos Falls to Powerhouse Oaks Christian, Dos Pueblos Earns Win
+
+date: 2024-08-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-820.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-820.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-820.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-820.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-820.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-820.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-820.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-820.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-820.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-820.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-820.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>San Marcos girls volleyball suffered a three-set sweep to Oaks Christian on Tuesday inside the Thunderhut, 25-18, 25-20, 25-10. “Oaks Christian is one of the best teams in the state [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-volleyball-roundup-san-marcos-falls-to-powerhouse-oaks-christian-dos-pueblos-earns-win/">Prep Girls Volleyball Roundup: San Marcos Falls to Powerhouse Oaks Christian, Dos Pueblos Earns Win</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-volleyball-roundup-san-marcos-falls-to-powerhouse-oaks-christian-dos-pueblos-earns-win/>
+
+---
+
+## Santa Ynez High Girls Golf Takes Third in Match Against Arroyo Grande, Atascadero
+
+date: 2024-08-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Ynez High girls golf placed third in a three-team match against Arroyo Grande and Atascadero on Tuesday on the par 36 front nine at Cypress Ridge Golf Course. Arroyo [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-ynez-high-girls-golf-takes-third-in-match-against-arroyo-grande-atascadero/">Santa Ynez High Girls Golf Takes Third in Match Against Arroyo Grande, Atascadero</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-ynez-high-girls-golf-takes-third-in-match-against-arroyo-grande-atascadero/>
+
+---
+
+## City of Santa Barbara Pushes for More Affordable Housing in La Cumbre Plaza Development Plan
+
+date: 2024-08-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-La-Cumbre-Plaza-Macys-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The City of Santa Barbara wants to negotiate terms to increase affordable housing as part of a development project at La Cumbre Plaza, which calls for knocking down the Macy’s building." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-La-Cumbre-Plaza-Macys-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-La-Cumbre-Plaza-Macys-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-La-Cumbre-Plaza-Macys-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-La-Cumbre-Plaza-Macys-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-La-Cumbre-Plaza-Macys-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-La-Cumbre-Plaza-Macys-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-La-Cumbre-Plaza-Macys-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-La-Cumbre-Plaza-Macys-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-La-Cumbre-Plaza-Macys-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-La-Cumbre-Plaza-Macys-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Let&#8217;s make a deal. That&#8217;s what the Santa Barbara City Council wants to do with the developers behind the 642-unit housing proposal at La Cumbre Plaza. The City Council voted [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/city-of-santa-barbara-pushes-for-more-affordable-housing-in-la-cumbre-plaza-development-proposal/">City of Santa Barbara Pushes for More Affordable Housing in La Cumbre Plaza Development Plan</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/city-of-santa-barbara-pushes-for-more-affordable-housing-in-la-cumbre-plaza-development-proposal/>
+
+---
+
+## Los Angeles Developer Proposes 255-Unit, Eight-Story Apartment Project Next to Santa Barbara Mission
+
+date: 2024-08-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="735" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-Apartments-Mission-1-JM.jpg?fit=1024%2C735&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A developer from Los Angeles County wants to build 255 apartments on a site near Santa Barbara&#039;s Old Mission." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-Apartments-Mission-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-Apartments-Mission-1-JM.jpg?resize=300%2C215&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-Apartments-Mission-1-JM.jpg?resize=1024%2C735&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-Apartments-Mission-1-JM.jpg?resize=768%2C551&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-Apartments-Mission-1-JM.jpg?resize=1536%2C1103&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-Apartments-Mission-1-JM.jpg?resize=1200%2C862&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-Apartments-Mission-1-JM.jpg?resize=1568%2C1126&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-Apartments-Mission-1-JM.jpg?resize=400%2C287&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-Apartments-Mission-1-JM.jpg?resize=706%2C507&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-Apartments-Mission-1-JM.jpg?fit=1024%2C735&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>This is a big one. A Los Angeles County developer has proposed building 255 apartments in an 8-story building near Santa Barbara&#8217;s Old Mission. The project, slated for 505 E. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/developer-proposes-255-unit-apartment-project-near-santa-barbaras-old-mission/">Los Angeles Developer Proposes 255-Unit, Eight-Story Apartment Project Next to Santa Barbara Mission</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/developer-proposes-255-unit-apartment-project-near-santa-barbaras-old-mission/>
+
+---
+
+## County Supervisors Respond to Grand Jury Report on ‘Hazardous’ Coroner’s Facility
+
+date: 2024-08-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-coroner-facility-3-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The Santa Barbara County Coroner’s Bureau facility is set to be replaced as part of the Calle Real master plan, but probably not for 10 to 15 years." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-coroner-facility-3-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-coroner-facility-3-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-coroner-facility-3-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-coroner-facility-3-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-coroner-facility-3-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-coroner-facility-3-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-coroner-facility-3-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-coroner-facility-3-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-coroner-facility-3-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082024-coroner-facility-3-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A recent grand jury report found the Santa Barbara County Coroner’s Bureau facility and equipment to be hazardous and called for the facility to be demolished and rebuilt.  The Board [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/county-supervisors-respond-to-grand-jury-report-on-hazardous-coroners-facility/">County Supervisors Respond to Grand Jury Report on &#8216;Hazardous&#8217; Coroner&#8217;s Facility</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/county-supervisors-respond-to-grand-jury-report-on-hazardous-coroners-facility/>
+
+---
+
+## Tracy Beckerman: My Toilet Paper Runneth Over
+
+date: 2024-08-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>“Hey honey, why is there a roll of toilet paper in my shoe?” my husband asked. It was a perfectly reasonable question. People don’t normally store rolls of toilet paper [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/tracy-beckerman-my-toilet-paper-runneth-over/">Tracy Beckerman: My Toilet Paper Runneth Over</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/tracy-beckerman-my-toilet-paper-runneth-over/>
+
+---
+
+## Vegetation Fires Char 25 Acres Near Nojoqui Summit; Highway 101 Traffic Affected
+
+date: 2024-08-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Nojoqui-Fire-rc-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Firefighters were battling a series of small fires Tuesday afternoon in the Nojoqui Grade area south of Buellton." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Nojoqui-Fire-rc-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Nojoqui-Fire-rc-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Nojoqui-Fire-rc-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Nojoqui-Fire-rc-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Nojoqui-Fire-rc-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Nojoqui-Fire-rc-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Nojoqui-Fire-rc-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Nojoqui-Fire-rc-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Nojoqui-Fire-rc-2000.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081924-Nojoqui-Fire-rc-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Multiple spot fires were burning near the Nojoqui Grade summit on Tuesday afternoon, affecting Highway 101 traffic in the area.&#160; At approximately 4:30 p.m., personnel from the Santa Barbara County [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/grade-fire-burning-near-nojoqui-summit-highway-101-traffic-affected/">Vegetation Fires Char 25 Acres Near Nojoqui Summit; Highway 101 Traffic Affected</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/grade-fire-burning-near-nojoqui-summit-highway-101-traffic-affected/>
+
+---
+
+## Tech-Savvy Mail Theft Victim Uses AirTag to Track Down 2 Suspects
+
+date: 2024-08-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>&#160;Two mail theft suspects have been arrested after they were tracked using an AirTag locator device, the Santa Barbara County Sheriff’s Office reports. At about 7:15 a.m. Monday, Aug. 19, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/tech-savvy-mail-theft-victim-uses-airtag-to-track-down-2-suspects/">Tech-Savvy Mail Theft Victim Uses AirTag to Track Down 2 Suspects</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/tech-savvy-mail-theft-victim-uses-airtag-to-track-down-2-suspects/>
 
 ---
 

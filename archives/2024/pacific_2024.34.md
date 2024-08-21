@@ -1,11 +1,478 @@
 ---
 title: pacific 2024.34
-updated: 2024-08-20 14:56:38
+updated: 2024-08-21 08:52:22
 ---
 
 # pacific 2024.34
 
-(date: 2024-08-20 14:56:38)
+(date: 2024-08-21 08:52:22)
+
+---
+
+## Police arrest 20 for DUI
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>During the week of Aug. 12-18, Hawaii Island police arrested 20 motorists for DUI. Eight of the drivers were involved in a traffic accident. One was younger than 21.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/hawaii-news/police-arrest-20-for-dui-21/>
+
+---
+
+## Biden approved secret nuclear strategy refocusing on Chinese threat
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>President Joe Biden approved in March a highly classified nuclear strategic plan for the United States that, for the first time, reorients America&#8217;s deterrent strategy to focus on China&#8217;s rapid expansion in its nuclear arsenal.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/nation-world-news/biden-approved-secret-nuclear-strategy-refocusing-on-chinese-threat/>
+
+---
+
+## Strong-arm robbery suspect released by judge
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>A strong-arm robbery suspect was freed on a cashless bail release by a judge Monday over the objection of prosecutors.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/hawaii-news/strong-arm-robbery-suspect-released-by-judge/>
+
+---
+
+## Judge releases habitual DUI suspect from custody
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>A 33-year-old Puna man who was arrested and charged with habitual DUI after a breath sample indicated his blood-alcohol content was almost 3 1/2 times the legal threshold for drunken driving was released from custody by a judge Monday without posting cash bail.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/hawaii-news/judge-releases-habitual-dui-suspect-from-custody/>
+
+---
+
+## Alaska Airlines’ acquisition of Hawaiian clears key antitrust review
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>Alaska Airlines&#8217; acquisition of Hawaiian Airlines cleared a major hurdle Monday, after the airlines said the Justice Department ended a review of the merger without challenging it on antitrust grounds.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/nation-world-news/alaska-airlines-acquisition-of-hawaiian-clears-key-antitrust-review/>
+
+---
+
+## Obama night at the DNC: Barack, Michelle rouse crowd for Harris
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO &#8212; Former U.S. President Barack Obama and his wife Michelle Obama delivered a one-two punch at the Democratic National Convention on Tuesday night, urging Americans to back Kamala Harris in her 11th-hour presidential bid against Republican Donald Trump. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/nation-world-news/obama-night-at-the-dnc-barack-michelle-rouse-crowd-for-harris/>
+
+---
+
+## Volcano novelist Tom Peek honored for ‘Mauna Kea’
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>Volcano author Tom Peek&#8217;s &#8220;Mauna Kea: A Novel of Hawaii&#8221; is garnering recognition on a national level.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/hawaii-news/volcano-novelist-tom-peek-honored-for-mauna-kea/>
+
+---
+
+## Domestic abuse suspect released from custody by judge
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>A 22-year-old Hilo man accused of a series of violent assaults on his 23-year-old girlfriend has been released from custody by a judge without posting cash bail.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/hawaii-news/domestic-abuse-suspect-released-from-custody-by-judge/>
+
+---
+
+## Forecasters eye storms east of Hawaii
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>Forecasters are keeping an eye on a pair of weather disturbances over the western portion of the East Pacific basin, about 1,350 miles east-southeast of Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/hawaii-news/forecasters-eye-storms-east-of-hawaii/>
+
+---
+
+## Blinken wraps up Mideast trip with Gaza deal still elusive
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>DOHA &#8212; U.S. Secretary of State Antony Blinken sought during a whirlwind trip to the Middle East to inject urgency into efforts to broker a Gaza ceasefire deal, but departed the region on Tuesday with an agreement between Israel and Hamas still elusive. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/nation-world-news/blinken-wraps-up-mideast-trip-with-gaza-deal-still-elusive/>
+
+---
+
+## Families are going into debt for Disney vacations
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>Alyssa Leach and her husband have visited Walt Disney World in Orlando, Florida, every year since 2015. To them, the theme park feels like an oasis where they can escape the stress of everyday life.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/nation-world-news/families-are-going-into-debt-for-disney-vacations/>
+
+---
+
+## Nation and world news in brief for August 21
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>George Floyd killer&#0010;Derek Chauvin transferred to &#0010;Texas prison</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/nation-world-news/nation-and-world-news-in-brief-for-august-21/>
+
+---
+
+## Putin inspects troops readying to fight Ukraine in surprise trip to Chechnya
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; Russian President Vladimir Putin and Chechen leader Ramzan Kadyrov on Tuesday inspected Chechen troops and volunteers readying to fight Ukraine, the Kremlin said, in what was Putin&#8217;s first trip in 13 years to the North Caucasus republic. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/nation-world-news/putin-inspects-troops-readying-to-fight-ukraine-in-surprise-trip-to-chechnya/>
+
+---
+
+## Obituaries for August 21
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>Kathe Pasco Anderson, 59, of North Kohala died May 22 at home. Born in California, she was the head custodian at Kohala Middle School. Visitation 8:30-10 a.m. Saturday (Aug. 24) at Sacred Hearts Catholic Church in Hawi. Mass at 10 a.m. Purple aloha attire suggested. No flowers. Survived by husband, Joel Anderson; mother, Lucina Pasco; sisters, Valerie Murai, Carlynn Pasco of Kohala and Geri Kaholoaa of Honokaa; brothers, Gerritt (Colleen) Pasco of Las Vegas, Calvin (Jody) Pasco, Micheal Pasco of Kohala; brother-in-law, Alva (Tiare) Anderson of Kona; sisters-in-law, Elizabeth (Clifford) Serrao, Mabel Anderson, Annie Breithaupt, Phoebe (Dennis) Anderson, Edna Anderson of Hilo, Mary Jane Pedro, Dale Anderson of Ka&#8216;u; uncles, aunts, cousins, nephews and nieces. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/obituaries/obituaries-for-august-21-10/>
+
+---
+
+## As Canada braces for rail stoppage, truckers scramble to meet demand
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>TORONTO &#8212; As Canada braced for a freight rail stoppage that could hit industries ranging from autos to agriculture, the trucking sector said it faced higher demand it could not meet. Unless labor agreements are reached, Canadian National Railway and Canadian Pacific Kansas City &#8212; which hold a duopoly &#8212; plan to indefinitely halt operations on Thursday at the same time, marking a first. Canada relies heavily on railways to transport goods and commodities, but trains are already winding down in anticipation of a strike or lockout. Daman Grewal, a senior operations manager with British Columbia-based Centurion Trucking, would normally expect 20 or 30 online postings from shippers seeking trips east across Canada on an August Monday. On Monday morning, he saw more than 500. &#8220;Last week is when a lot of the panic started to set in,&#8221; said Grewal, noting trips for which he charged C$7,000 ($5,139) a few days ago now cost up to C$9,000. &#8220;Similar to COVID, you see the scarcity in supply chain.&#8221; Grewal said Centurion could increase capacity 10% to 20%, largely by reducing driver downtime. &#8220;We would just have to turn the drivers around a little bit quicker,&#8221; he said. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/nation-world-news/as-canada-braces-for-rail-stoppage-truckers-scramble-to-meet-demand/>
+
+---
+
+## RFK Jr to weigh dropping US presidential bid to join forces with Trump
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; Independent U.S. presidential candidate Robert F. Kennedy Jr. is considering ending his campaign to join forces with Republican rival Donald Trump, Kennedy&#8217;s running mate said in an interview posted online on Tuesday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/nation-world-news/rfk-jr-to-weigh-dropping-us-presidential-bid-to-join-forces-with-trump/>
+
+---
+
+## Tech donor network co-founded by JD Vance seeks to push America to the right
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>Before JD Vance began his rapid rise to vice presidential candidate, he co-founded a Silicon Valley-backed donor organization to finance right-wing news stories, voter turnout operations and election polls with a goal of spreading U.S. President Donald Trump&#8217;s brand of nationalism, according to previously unreported documents on the group. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/nation-world-news/tech-donor-network-co-founded-by-jd-vance-seeks-to-push-america-to-the-right/>
+
+---
+
+## Stephen Tsai: UH will use customized footballs to aid Lahaina
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>The University of Hawaii football team will use customized &#8220;Braddahballs&#8221; this season and Lahaina businesses and residents will have new ulu trees.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/sports/stephen-tsai-uh-will-use-customized-footballs-to-aid-lahaina/>
+
+---
+
+## BIIF volleyball: HPA, Pahoa open season with wins
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>WAIMEA &#8212; The defending Big Island Interscholastic Federation (BIIF) Division II champions started off 2024 on the right foot Monday in Hawaii Prep Academy&#8217;s Castle Gym.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/sports/biif-volleyball-hpa-pahoa-open-season-with-wins/>
+
+---
+
+## PHOTOS: Hilo High unveils new turf field
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>Hilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track. Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017. (Tim Wright/Courtesy Image)</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/sports/photos-hilo-high-unveils-new-turf-field/>
+
+---
+
+## Jannik Sinner cleared of wrongdoing after failed drug tests, ITIA says
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK (Reuters) &#8212; World number one Jannik Sinner failed two drug tests in March but has been cleared of wrongdoing by an independent tribunal, the International Tennis Integrity Agency said on Tuesday days before the Italian is set to play at the U.S. Open.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/sports/jannik-sinner-cleared-of-wrongdoing-after-failed-drug-tests-itia-says/>
+
+---
+
+## Vikings’ Brian Flores stung by criticism from Tua Tagovailoa, says he’s grown as a coach since Dolphins tenure
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>MINNEAPOLIS &#8212; Vikings defensive coordinator Brian Flores acknowledged he was stung by Dolphins quarterback Tua Tagovailoa calling him a &#8220;terrible person&#8221; in comments from an interview that aired Monday, but wished Tagovailoa well and said he used the QB&#8217;s comments as an occasion to reflect on his growth as a coach.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/sports/vikings-brian-flores-stung-by-criticism-from-tua-tagovailoa-says-hes-grown-as-a-coach-since-dolphins-tenure/>
+
+---
+
+## Why the Pirates face an added temptation to shut down Paul Skenes
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>With their odds of making the MLB playoffs below 1%, the Pittsburgh Pirates could easily justify shutting down their electrifying ace, right-hander Paul Skenes.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/sports/why-the-pirates-face-an-added-temptation-to-shut-down-paul-skenes/>
+
+---
+
+## Voters don’t want to hear Trump and Harris fight over crime. They want to hear the best solutions
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>In the weeks since President Joe Biden dropped out of the presidential race, a new narrative about the election has taken shape.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/opinion/voters-dont-want-to-hear-trump-and-harris-fight-over-crime-they-want-to-hear-the-best-solutions/>
+
+---
+
+## Interest rates should be cut: As inflation cools, Fed has to bring down the rates for borrowing
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>Last month, for the first time since March 2021, the consumer price index&#8212; the indicator of inflation &#8212; fell below 3% annual increase, hitting 2.9% for July. Among other things, this makes it likelier that interest rates will be cut when the Federal Reserve&#8217;s governing board meets in September. We hope that the policymakers, in their joint wisdom, take this step to further stimulate the American economy.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/opinion/interest-rates-should-be-cut-as-inflation-cools-fed-has-to-bring-down-the-rates-for-borrowing/>
+
+---
+
+## GDOE announces Grab-N-Go meal pickup locations
+
+date: 2024-08-21, from: Guam Daily Post
+
+The Guam Department of Education has announced where people can go to pick up Grab-N-Go meals for students as certain schools remain closed pending passage of sanitary inspections. Students from those schools are set to begin learning on Thursday, either… 
+
+<https://www.postguam.com/news/gdoe-announces-grab-n-go-meal-pickup-locations/article_126ac292-5f9c-11ef-a134-733a6941b0fc.html>
+
+---
+
+## Marianas Festival planned in the Pacific Northwest this weekend
+
+date: 2024-08-21, from: Guam Daily Post
+
+The Marianas Alliance for Growth of Islanders, or MAGI, announced the inaugural Marianas Festival, the first event of its kind in the Pacific Northwest, set to take place on Friday and Saturday. 
+
+<https://www.postguam.com/news/local/marianas-festival-planned-in-the-pacific-northwest-this-weekend/article_4e05c848-5ea1-11ef-a29e-7392a00c89f7.html>
+
+---
+
+## 2 CHamoru organizations to host a joint symposium in September
+
+date: 2024-08-21, from: Guam Daily Post
+
+ 
+
+<https://www.postguam.com/news/local/2-chamoru-organizations-to-host-a-joint-symposium-in-september/article_16cb4200-5eaa-11ef-902d-77240bd55636.html>
+
+---
+
+## Suspect in Hagåtña Bank Pacific incident is held on $5K cash bail
+
+date: 2024-08-21, from: Guam Daily Post
+
+A man accused of making death threats to a bank employee and asking to be killed by law enforcement has been held in prison on $5,000 cash bail. 
+
+<https://www.postguam.com/news/local/suspect-in-hag-t-a-bank-pacific-incident-is-held-on-5k-cash-bail/article_c82f641e-5f5d-11ef-aa46-13803014a453.html>
+
+---
+
+## Man found guilty of possession  but acquitted of dealing meth
+
+date: 2024-08-21, from: Guam Daily Post
+
+A man was found guilty at trial of possessing methamphetamine, however, was acquitted of an additional charge of intent to deliver. 
+
+<https://www.postguam.com/news/local/man-found-guilty-of-possession-but-acquitted-of-dealing-meth/article_2fec26e4-5f56-11ef-8128-ef7f3d88689f.html>
+
+---
+
+## 6 Chinese nationals face federal charges for illegal arrival by boat
+
+date: 2024-08-21, from: Guam Daily Post
+
+Six Chinese nationals are facing federal charges for allegedly arriving in Guam by boat from Saipan. 
+
+<https://www.postguam.com/news/local/6-chinese-nationals-face-federal-charges-for-illegal-arrival-by-boat/article_72ddfa3e-5f62-11ef-86b3-b309be725673.html>
+
+---
+
+## Attempted theft suspect stopped by telecom provider's employees
+
+date: 2024-08-21, from: Guam Daily Post
+
+A man suspected of trying to steal a truck told officers with the Guam Police Department that wearing his red shoes meant he was going to steal. 
+
+<https://www.postguam.com/news/local/attempted-theft-suspect-stopped-by-telecom-providers-employees/article_68aab36a-5f74-11ef-becc-ab28f506c278.html>
+
+---
+
+## Senators debate OHAPP funding
+
+date: 2024-08-21, from: Guam Daily Post
+
+The deletion of funding specifically appropriated for the Office of Homelessness Assistance and Poverty Prevention drew condemnation from certain lawmakers Wednesday morning, but Speaker Therese Terlaje, who was the one to move for the deletion, said she has now proposed… 
+
+<https://www.postguam.com/news/local/senators-debate-ohapp-funding/article_eda8ffea-5f51-11ef-8ed6-bb1b1ae0f528.html>
+
+---
+
+## Navy raises cost of water, GWA to show rate impact next week
+
+date: 2024-08-21, from: Guam Daily Post
+
+The Guam Waterworks Authority will be returning to the Consolidated Commission on Utilities next week with information on the impact an increase in the cost of purchasing U.S. Navy water would have on the utility's proposed rates for the next… 
+
+<https://www.postguam.com/news/local/navy-raises-cost-of-water-gwa-to-show-rate-impact-next-week/article_4b8c8db2-5ed4-11ef-b545-7b356bef8bb7.html>
+
+---
+
+## Hale Aloha Towers renovation completed
+
+date: 2024-08-21, from: University of Hawaiʻi News
+
+<p>The towers are home to 1,040 freshmen each school year, just under a third of the 3,400 student residents at <abbr>UH</abbr> Mānoa.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/20/hale-aloha-renovation-completed/">Hale Aloha Towers renovation completed</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/20/hale-aloha-renovation-completed/>
+
+---
+
+## Students get an early start with UH Mānoa Move-In
+
+date: 2024-08-21, from: University of Hawaiʻi News
+
+<p>More than 3,500 students moving in during <abbr>UH</abbr> M&#257;noa Move-In Days</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/20/students-early-start-uh-manoa-move-in/">Students get an early start with <abbr>UH</abbr> Mānoa Move-In</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/20/students-early-start-uh-manoa-move-in/>
+
+---
+
+## Kauaʻi CC awarded nearly $1.2M to help develop Native Hawaiian teachers
+
+date: 2024-08-21, from: University of Hawaiʻi News
+
+<p><span aria-label="Kauai">Kaua&#699;i</span> <abbr>CC</abbr> will provide clear, culturally responsive pathways for Native Hawaiians to earn careers as high school teachers without having to leave the island.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/20/kauai-cc-help-develop-native-hawaiian-teachers/">Kauaʻi <abbr>CC</abbr> awarded nearly $1.2M to help develop Native Hawaiian teachers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/20/kauai-cc-help-develop-native-hawaiian-teachers/>
+
+---
+
+## New award honors Pacific historian, recognizes rising scholar
+
+date: 2024-08-21, from: University of Hawaiʻi News
+
+<p>The Professor Brij V. Lal Award honors exceptional articles published in The Contemporary Pacific, a journal by the <abbr>UH</abbr> Mānoa Center for Pacific Islands Studies.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/20/cpis-award-honors-pacific-historian/">New award honors Pacific historian, recognizes rising scholar</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/20/cpis-award-honors-pacific-historian/>
+
+---
+
+## Thompson School dean joins U.S. Census advisory group
+
+date: 2024-08-21, from: University of Hawaiʻi News
+
+<p>The committee is responsible for providing guidance on the design and execution of the bureau’s programs and surveys.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/20/ortega-joins-census-advisory-group/">Thompson School dean joins <abbr>U.S.</abbr> Census advisory group</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/20/ortega-joins-census-advisory-group/>
+
+---
+
+## Nursing faculty member wins first publication award
+
+date: 2024-08-20, from: University of Hawaiʻi News
+
+<p>The study focused on the effects of the COVID-19 pandemic on school nursesʻ resiliency and ability to cope.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/20/nursing-faculty-pub-award/">Nursing faculty member wins first publication award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/20/nursing-faculty-pub-award/>
+
+---
+
+## Clay experts expand horizons at UH-hosted conferences
+
+date: 2024-08-20, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> M&#257;noa hosted the 61st annual meeting of the Clay Minerals Society and 5th Asian Clay Conference in June.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/20/clay-experts-conferences/">Clay experts expand horizons at <abbr>UH</abbr>-hosted conferences</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/20/clay-experts-conferences/>
 
 ---
 
@@ -453,6 +920,30 @@ date: 2024-08-20, from: Hawaii Tribune Harold
 
 ---
 
+## Mokulele gets Lanai subsidies, grounds planes
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>Southern Airways Express LLC, doing business as Mokulele Airlines, began grounding a portion of its fleet to inspect and address findings of a routine maintenance check on Saturday &#8212; a day after the U.S. Department of Transportation awarded it roughly $4 million per year for two years in federal subsidies to provide essential air service to Lanai.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/hawaii-news/mokulele-gets-lanai-subsidies-grounds-planes/>
+
+---
+
+## HPD whistleblower alleges sexual discrimination
+
+date: 2024-08-20, from: Hawaii Tribune Harold
+
+
+				<p>A Honolulu police officer filed a lawsuit against the department Friday alleging whistleblower retaliation after she reported male training academy staff who allegedly discriminated against female recruits and engaged in sexual relations with others.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/20/hawaii-news/hpd-whistleblower-alleges-sexual-discrimination/>
+
+---
+
 ## Trade and Culture to mark 25th year of Palau-Taiwan diplomatic ties
 
 date: 2024-08-20, from: Island Times
@@ -553,6 +1044,86 @@ date: 2024-08-20, from: Island Times
  
 
 <https://islandtimes.org/persons-living-with-schizophrenia-in-palau/>
+
+---
+
+## Couple charged in June burglary, shooting, high-speed police chase are allowed contact
+
+date: 2024-08-20, from: Guam Daily Post
+
+A couple facing charges connected to a high-speed chase and shooting with Guam Police Department officers in June are now allowed to have contact with each other for parenting purposes. 
+
+<https://www.postguam.com/news/local/couple-charged-in-june-burglary-shooting-high-speed-police-chase-are-allowed-contact/article_14e148f6-5e8a-11ef-bc3f-3fbe1485923e.html>
+
+---
+
+## Family of woman found dead seeks help with funeral costs
+
+date: 2024-08-20, from: Guam Daily Post
+
+A fundraiser for funeral costs has been started for a 33-year-old woman who was deemed by the Guam Police Department to be an "expired person" after being found at the home of a man suspected of assaulting and torturing the… 
+
+<https://www.postguam.com/news/local/family-of-woman-found-dead-seeks-help-with-funeral-costs/article_145f2fee-5e92-11ef-ac88-0f3ce1b6af6e.html>
+
+---
+
+## American Red Cross preps for the annual Red Ball fundraiser
+
+date: 2024-08-20, from: Guam Daily Post
+
+The American Red Cross is gearing up for its biggest fundraising event of the year, the annual Red Ball, which will support the nonprofit organization’s mission to come to the community’s aid in times of need. 
+
+<https://www.postguam.com/news/local/american-red-cross-preps-for-the-annual-red-ball-fundraiser/article_c645c4e2-5e3e-11ef-84ff-2bfc429fed2f.html>
+
+---
+
+## Man allegedly made threats to woman, asked GPD to kill him
+
+date: 2024-08-20, from: Guam Daily Post
+
+A man was arrested on suspicion of terrorizing for allegedly making death threats to a woman who is employed at BankPacific in Hagåtña. 
+
+<https://www.postguam.com/news/local/man-allegedly-made-threats-to-woman-asked-gpd-to-kill-him/article_c96e97d4-5e89-11ef-ae30-8be13b3290bd.html>
+
+---
+
+## TakeCare reinstated after $800K payment to GMHA
+
+date: 2024-08-20, from: Guam Daily Post
+
+A payment of more than $800,000 from TakeCare Insurance Company Inc. saw the Guam Memorial Hospital Authority roll back the announcement that it would no longer accept the company's insurance. 
+
+<https://www.postguam.com/news/local/takecare-reinstated-after-800k-payment-to-gmha/article_cd25eaf8-5e8e-11ef-b700-27a4f6b5bc34.html>
+
+---
+
+## More evidence sought by ex-GPD officer before trial in assault case
+
+date: 2024-08-20, from: Guam Daily Post
+
+A former Guam Police Department officer charged with assault is requesting more evidence as trial is scheduled to go forward next week. 
+
+<https://www.postguam.com/news/local/more-evidence-sought-by-ex-gpd-officer-before-trial-in-assault-case/article_ff7baa28-5e94-11ef-9bda-27dff6bbe23e.html>
+
+---
+
+## GDOE: Alternating schedules, online learning start Thursday
+
+date: 2024-08-20, from: Guam Daily Post
+
+Although several Guam Department of Education schools remain closed to students pending sanitary inspection by the Department of Public Health and Social Services, students from these schools will be engaging in some form of learning by Thursday. 
+
+<https://www.postguam.com/news/local/gdoe-alternating-schedules-online-learning-start-thursday/article_b43f4560-5ead-11ef-8c20-9b1a60af413d.html>
+
+---
+
+## Speaker laments funding proposal for GMHA
+
+date: 2024-08-20, from: Guam Daily Post
+
+The significant difference between what the Guam Memorial Hospital Authority had requested for fiscal year 2025 and its proposed appropriation in the budget bill had certain lawmakers expressing concerns late Monday afternoon as the Guam Legislature moved on to discussing… 
+
+<https://www.postguam.com/news/local/speaker-laments-funding-proposal-for-gmha/article_39ec6a16-5e9b-11ef-aafd-eb238bdd6061.html>
 
 ---
 

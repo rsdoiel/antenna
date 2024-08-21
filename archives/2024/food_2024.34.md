@@ -1,11 +1,57 @@
 ---
 title: food 2024.34
-updated: 2024-08-20 14:56:46
+updated: 2024-08-21 08:52:30
 ---
 
 # food 2024.34
 
-(date: 2024-08-20 14:56:46)
+(date: 2024-08-21 08:52:30)
+
+---
+
+## For This Restaurateur Couple, the Most Romantic Dinner Feeds 14
+
+date: 2024-08-21, from: Bon Appetet
+
+The duo behind Neng Jr.'s in Asheville share four recipes to love up on your chosen family. 
+
+<https://www.bonappetit.com/story/silver-cherry-iocovozzi-dinner-party-menu>
+
+---
+
+## Strawberry Horchata
+
+date: 2024-08-21, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/strawberry-horchata/"><img title="strawberry-horchata-small-9" src="https://www.isabeleats.com/wp-content/uploads/2024/08/strawberry-horchata-small-9-400x600.jpg" alt="Strawberry Horchata" width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Try this fresh and fruity twist on a creamy classic! Strawberry Horchata is the perfect refreshing drink featuring sweet strawberries mixed in horchata with classic creamy and cinnamon flavors. It’s like strawberries and cream in a cup, only 10x better! Classic recipes are always delicious, but sometimes it’s fun to get creative and add extra [&#8230;] 
+
+<https://www.isabeleats.com/strawberry-horchata/>
+
+---
+
+## Muhammara Recipe (Roasted Red Pepper & Walnut Dip)
+
+date: 2024-08-21, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/muhammara/" title="Muhammara Recipe (Roasted Red Pepper &amp; Walnut Dip)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Muhammara Dip in a bowl with pita" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Muhammara is a creamy roasted red pepper dip from the Middle East made with toasted walnuts, sweet pomegranate, and warming spices, so savory and delicious. Easy to make and a huge crowd pleaser!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/muhammara/">Muhammara Recipe (Roasted Red Pepper &amp; Walnut Dip)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<https://www.chilipeppermadness.com/recipes/muhammara/>
+
+---
+
+## 29 Fall Salads That Will Nourish You
+
+date: 2024-08-20, from: Bon Appetet
+
+They say chicken soup is good for the soul, but we think hearty greens tossed with roasted root vegetables might be even better. 
+
+<https://www.bonappetit.com/gallery/fall-salads-recipes>
 
 ---
 
@@ -93,7 +139,7 @@ The Purple Tiger pepper is a beautiful and unique pepper with variegated green, 
 
 date: 2024-08-19, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/jalapeno-poppers/" title="Classic Jalapeno Poppers" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Jalapeno-Poppers-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Classic Jalapeno Poppers on a serving platter, ready to eat" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Jalapeno-Poppers-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Jalapeno-Poppers-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Jalapeno-Poppers-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Jalapeno-Poppers-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Jalapeno-Poppers-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Jalapeno-Poppers-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Jalapeno-Poppers-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>These jalapeno poppers are filled with a mix of cheddar and cream cheese, baked until gooey, and topped with crunchy panko breadcrumbs for the perfect bite!</p>
+<a href="https://www.chilipeppermadness.com/recipes/jalapeno-poppers/" title="Classic Jalapeno Poppers" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Jalapeno-Poppers-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Classic Jalapeno Poppers on a serving platter, ready to eat" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Jalapeno-Poppers-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Jalapeno-Poppers-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Jalapeno-Poppers-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Jalapeno-Poppers-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Jalapeno-Poppers-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Jalapeno-Poppers-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Jalapeno-Poppers-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>These jalapeno poppers are filled with a mix of cheddar and cream cheese, baked until gooey, and topped with crunchy panko breadcrumbs for the perfect bite!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/jalapeno-poppers/">Classic Jalapeno Poppers</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

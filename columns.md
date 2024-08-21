@@ -1,11 +1,108 @@
 ---
 title: columns 2024.34
-updated: 2024-08-20 14:56:40
+updated: 2024-08-21 08:52:24
 ---
 
 # columns 2024.34
 
-(date: 2024-08-20 14:56:40)
+(date: 2024-08-21 08:52:24)
+
+---
+
+## ChatGPT slows down my programming, and that's good
+
+date: 2024-08-21, from: Dave Winer's Scripting News
+
+<p>Podcast: <a href="https://s3.amazonaws.com/scripting.com/2024/08/21/iProgramMoreSlowlyNowThanksToChatGPT.m4a">27 minutes</a>.</p>
+<p>Sorry about the recording quality, I was in a large space with bad acoustics. I'll try to remember not to do that in the future. </p>
+<p>I've noticed I spend less time programming, I go more slowly and carefully because now I can know a lot more about each problem I'm solving, and use the packages I build on, jQuery, MySQL, Node, the browser, Bootstrap, Font-awesome, Frontier, to greater advantage. A new kind of programming is possible, and it's better. </p>
+<p>I go into some detail in this podcast about how the process works. </p>
+<p>Interested in hearing similar stories from other developers using ChatGPT or something like it. </p>
+ 
+
+<http://scripting.com/2024/08/21/153912.html?title=chatgptSlowsDownMyProgrammingAndThatsGood>
+
+---
+
+##  A Logo on a Prosthesis Is Like a Tattoo You Didn&#8217;t Ask... 
+
+date: 2024-08-21, updated: 2024-08-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045176-a-logo-on-a-prosthesis>
+
+---
+
+##  Bulgarian beach bar sarcophagus turns out to be genuine Roman artefact. &#8220;Despite... 
+
+date: 2024-08-21, updated: 2024-08-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045169-bulgarian-beach-bar-sarco>
+
+---
+
+## Story of an Undercover CIA Agent who Penetrated Al Qaeda
+
+date: 2024-08-21, updated: 2024-08-21, from: Bruce Schneier blog
+
+<p><i>Rolling Stone</i> has a <a href="https://www.rollingstone.com/politics/politics-features/cia-agent-deep-undercover-spy-islamic-radicals-war-on-terror-1235075156/">long investigative story</a> (non-paywalled version <a href="https://news.yahoo.com/news/cia-sent-him-deep-undercover-134004143.html">here</a>) about a CIA agent who spent years posing as an Islamic radical.</p>
+<p>Unrelated, but also in the &#8220;real life spies&#8221; file: a <a href="https://www.bbc.com/news/stories-43702764">fake Sudanese diving resort</a> run by Mossad.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/08/story-of-an-undercover-cia-agent-who-penetrated-al-qaeda.html>
+
+---
+
+##  Scientists have found liquid water on Mars, located in the planet&#8217;s outer... 
+
+date: 2024-08-21, updated: 2024-08-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045173-scientists-have-found-liq>
+
+---
+
+## August 20, 2024
+
+date: 2024-08-21, from: Heather Cox Richardson blog
+
+At Chicago&#8217;s United Center today, the delegates at the Democratic National Convention reaffirmed last week&#8217;s online nomination of Kamala Harris for president. 
+
+<https://heathercoxrichardson.substack.com/p/august-20-2024>
+
+---
+
+## Office Hours: What should be Kamala’s and the Dems’ core theme?
+
+date: 2024-08-21, from: Robert Reich's blog
+
+With just 75 days to go, focus is critical. But what should the focus be on? 
+
+<https://robertreich.substack.com/p/office-hours-what-should-be-kamalas>
+
+---
+
+## Wednesday 21 August, 2024
+
+date: 2024-08-20, from: John Naughton's online diary
+
+Harvesting then and now This remarkable 1565 painting by Pieter Breugel the Elder stopped me in my tracks the other day. It’s fascinating in its detail (for a much bigger version click on the image here) — right down to &#8230; <a href="https://memex.naughtons.org/wednesday-21-august-2024/39763/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-21-august-2024/39763/>
+
+---
+
+## A Battle Cry to Save the Republic
+
+date: 2024-08-20, from: Dan Rather's Steady
+
+&#8216;When we fight, we win!&#8217; 
+
+<https://steady.substack.com/p/a-battle-cry-to-save-the-republic>
 
 ---
 
@@ -16,6 +113,14 @@ date: 2024-08-20, updated: 2024-08-20, from: Jason Kittke's blog
  
 
 <https://kottke.org/24/08/0045179-good-news-the-new-covid-1>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-20, from: Dave Winer's Scripting News)
+
+What should we expect from the Department of Justice in the Harris Administration? 
+
+<http://scripting.com/2024/08/20.html#a200511>
 
 ---
 
@@ -432,7 +537,7 @@ I feel that <em>A Song of Ice and Fire</em> attempted to do this but the result 
 
 **@Dave Winer's Scripting News** (date: 2024-08-20, from: Dave Winer's Scripting News)
 
-<a href="https://www.threads.net/@actor_keanureeves_59/post/C-2Xy0mtOk4">Keanu Reeves</a>: "If you see someone falling behind, walk beside them. If you see someone being ignored, find a way to include them. Always remind people of their worth. One small act could mean the world to them." 
+Note: I had a quote here that <a href="https://www.threads.net/@actor_keanureeves_59/post/C-2Xy0mtOk4">appeared</a> to be from actor <a href="https://en.wikipedia.org/wiki/Keanu_Reeves">Keanu Reeves</a>. It was a good sentiment, but it apparently was not from Reeves. Thanks to <a href="https://mastodon.social/@andypiper@macaw.social/112995751255063774">Andy Piper</a> for catching this. Here's the quote. "If you see someone falling behind, walk beside them. If you see someone being ignored, find a way to include them. Always remind people of their worth. One small act could mean the world to them." 
 
 <http://scripting.com/2024/08/19.html#a010710>
 

@@ -1,11 +1,81 @@
 ---
 title: games 2024.34
-updated: 2024-08-20 14:56:41
+updated: 2024-08-21 08:52:26
 ---
 
 # games 2024.34
 
-(date: 2024-08-20 14:56:41)
+(date: 2024-08-21 08:52:26)
+
+---
+
+## Honkai: Star Rail codes for August 2024
+
+date: 2024-08-21, updated: 2024-08-21, from: Polygon Website
+
+Honkai: Star Rail is Hoyoverse’s latest title added to their mobile (and PC) game lineup, which means that yes, the game has codes that you can redeem for premium currency. In this case, Honkai: Star Rail codes reward Stellar Jade and the usual other goodies — money, EXP, and the like. Below we list out [&#8230;] 
+
+<https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade>
+
+---
+
+## This might be the most defensive movie trailer of all time
+
+date: 2024-08-21, updated: 2024-08-21, from: Polygon Website
+
+At the ripe old age of 85, Francis Ford Coppola is coming for the haters. The latest trailer for the director’s self-funded science-fiction epic Megalopolis starts with an extraordinary denunciation of the critics who have wronged his movies in the past. As an exercise in hubris and decades-long grudge-holding, it commands respect. “True genius is [&#8230;] 
+
+<https://www.polygon.com/movies/442586/mealgopolis-trailer-critics-are-haters>
+
+---
+
+## Immaculate is a surprisingly perfect double feature with Alien: Romulus
+
+date: 2024-08-21, updated: 2024-08-20, from: Polygon Website
+
+Horror and pregnancy have always been topics that horror filmmakers fit together like a hand in a glove, but 2024 has been an especially active year for the subgenre. Earlier this year, The First Omen provided a shockingly scary refresh to a classic series, but it’s Alien: Romulus and Immaculate, the latter of which is [&#8230;] 
+
+<https://www.polygon.com/entertainment/442059/immaculate-sydney-sweeney-alien-romulus>
+
+---
+
+## All-New Venom kicks off a high-stakes Marvel mystery later this year
+
+date: 2024-08-21, updated: 2024-08-21, from: Polygon Website
+
+Renowned comic writer Al Ewing is just like us. He adores the Knives Out movies. He currently has Chappell Roan on rotation. And he&#8217;s constantly thinking about &#8220;cosmic entities battling in each other&#8217;s mindscapes.&#8221; Relatable. But unlike us mere mortals, Ewing also spins epic comic book yarns with deeply psychological cores, as seen in Immortal [&#8230;] 
+
+<https://www.polygon.com/comics/441953/all-new-venom-marvel-al-ewing-december-2024-reveal>
+
+---
+
+## How Overwatch 2’s new hero Juno went from fighter pilot alien to anxious teen from Mars
+
+date: 2024-08-21, updated: 2024-08-21, from: Polygon Website
+
+Overwatch 2’s newest character, support hero Juno, is finally here. The “Space Ranger” who hails from Mars joined the playable roster on Tuesday with the launch of season 12 of Overwatch 2. Juno is unique in some ways, in that she has a backstory connecting her to existing (and deep lore) characters and that she [&#8230;] 
+
+<https://www.polygon.com/overwatch/442505/overwatch-2-juno-lore-blizzard-interview>
+
+---
+
+## Last chance to hit the (Lego) bricks with this amazing Humble Bundle
+
+date: 2024-08-21, updated: 2024-08-21, from: Polygon Website
+
+Dear brick-building fans: You have until Aug. 21 at 9 p.m. EDT / 6 p.m. PDT to grab a glut of great Lego games as part of the Lego Worlds Collide Humble Bundle, which features a collection of 18 Lego games that you won’t want to miss. At just $15, you can pick up this treasure [&#8230;] 
+
+<https://www.polygon.com/24211219/lego-star-wars-humble-bundle-deal-sale>
+
+---
+
+## The Fade is a magical coming-of-age adventure by Dimension 20’s Aabria Iyengar
+
+date: 2024-08-21, updated: 2024-08-20, from: Polygon Website
+
+Aabria Iyengar, known for her work in the actual play space with Critical Role, Dimension 20, and Worlds Beyond Number, is teaming up with webcomic Mari Costa for a brand new project. The Fade is a magical coming-of-age story centered around a viral challenge to enter a fantastical world.  “The Fade was the brainchild of [&#8230;] 
+
+<https://www.polygon.com/comics/442102/aabria-iyengar-the-fade-comic-preview>
 
 ---
 

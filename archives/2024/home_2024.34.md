@@ -1,11 +1,31 @@
 ---
 title: home 2024.34
-updated: 2024-08-20 14:56:43
+updated: 2024-08-21 08:52:27
 ---
 
 # home 2024.34
 
-(date: 2024-08-20 14:56:43)
+(date: 2024-08-21 08:52:27)
+
+---
+
+## Design Meet Cutes: When Finding Furniture Leads to Love
+
+date: 2024-08-21, from: Dwell
+
+Add "hire an architect" and "scour Facebook Marketplace" to the list of unexpected rom-com tropes. 
+
+<https://www.dwell.com/article/design-meet-cutes-when-finding-furniture-leads-to-love-44debb71>
+
+---
+
+## 5 Smart Ways to Get the Whole Family Organized for Back-to-School Season
+
+date: 2024-08-21, from: Sunset Magazine - Living in the West
+
+It's hard to believe, but back-to-school season is here. A pro organizer shares her tips for getting the whole family ready. 
+
+<https://www.sunset.com/lifestyle/family/back-to-school-organizing-tips>
 
 ---
 
@@ -39,6 +59,16 @@ date: 2024-08-20, from: Family Handyman Blog
 <p>Read on for tips from two experienced pros -- Leah Bolden from See Jane Drill and Lisa Shulka from Hope and Feathers Framing.</p> 
 
 <https://www.familyhandyman.com/project/how-do-you-cut-plexiglass/>
+
+---
+
+## This Stunning Makeover Is Proof That Guest Baths Shouldn’t Be an Afterthought
+
+date: 2024-08-20, from: Sunset Magazine - Living in the West
+
+A guest bathroom in a San Francisco was recently remodeled, but the new owners wanted to give it personality. See how they did it. 
+
+<https://www.sunset.com/home-garden/home-tours/sf-guest-bathroom-before-after>
 
 ---
 
@@ -143,6 +173,16 @@ date: 2024-08-20, from: Urban Ag blog
 The three-day event was sponsored by the US Department of Agriculture, which has been stepping up its engagement in urban ag due to provisions in the 2018 Farm Bill.  The cornerstone of the...<br clear="all"> 
 
 <http://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=60452&utm_source=RSS&utm_medium=RSS&utm_campaign=RSS%2BFeed>
+
+---
+
+## This New High-Tech Surface Is an Inspiring Reminder of What Laminate Can Do
+
+date: 2024-08-19, from: Dwell
+
+The collection offers a stylish, durable alternative for marble countertops, walnut wall paneling, and more. 
+
+<https://www.dwell.com/article/new-in-depth-surfacing-collection-formica-b54b3111>
 
 ---
 

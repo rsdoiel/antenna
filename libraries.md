@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.34
-updated: 2024-08-20 14:56:42
+updated: 2024-08-21 08:52:27
 ---
 
 # libraries 2024.34
 
-(date: 2024-08-20 14:56:42)
+(date: 2024-08-21 08:52:27)
+
+---
+
+## Kitchen Essentials: An Interview with Brian Cody of Scholastica
+
+date: 2024-08-21, from: Scholarly Kitchen
+
+<p>In today's Kitchen Essentials interview, Alice Meadows talks to Brian Cody, CEO of Scholastica, a provider of software solutions for scholarly organizations — of all types — that publish journals. </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/08/21/kitchen-essentials-an-interview-with-brian-cody-of-scholastica/">Kitchen Essentials: An Interview with Brian Cody of Scholastica</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/08/21/kitchen-essentials-an-interview-with-brian-cody-of-scholastica/>
 
 ---
 

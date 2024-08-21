@@ -1,11 +1,61 @@
 ---
 title: motorcycles 2024.34
-updated: 2024-08-20 14:56:44
+updated: 2024-08-21 08:52:28
 ---
 
 # motorcycles 2024.34
 
-(date: 2024-08-20 14:56:44)
+(date: 2024-08-21 08:52:28)
+
+---
+
+## This Guy Solved Solo Motorcycle Hauling, Built His Own Trailer
+
+date: 2024-08-21, from: Ride Apart, Electric Motorcycle News
+
+Loading and unloading a bike by yourself doesn't have to be a nightmare. 
+
+<https://www.rideapart.com/news/730480/motorcycle-trailer-diy-custom-build/>
+
+---
+
+## Suzuki's SV650 is Now 25 Years Old, and I Feel Ancient Now
+
+date: 2024-08-21, from: Ride Apart, Electric Motorcycle News
+
+I have so much gray hair.  
+
+<https://www.rideapart.com/news/730667/suzuki-sv650-25-years-old-anniversary/>
+
+---
+
+## Taking a Monster Chopper to Sturgis? Sure, Why Not
+
+date: 2024-08-21, from: Ride Apart, Electric Motorcycle News
+
+It is street-legal, after all.  
+
+<https://www.rideapart.com/news/730661/grind-hard-plumbing-co-monster-chopper-sturgis-ride/>
+
+---
+
+## Oh Yeah, It's Time to Bring Back the Motorcycle Fanny Pack
+
+date: 2024-08-21, from: Ride Apart, Electric Motorcycle News
+
+Ideal for those who carry around just the essentials.  
+
+<https://www.rideapart.com/news/730548/sw-motech-belt-wp-fanny-pack/>
+
+---
+
+## Off-Road Race Doubles Prize Money for UTVs, Will Pay Out $20,000 For First Place
+
+date: 2024-08-21, from: Ride Apart, Electric Motorcycle News
+
+Helluva pay day. 
+
+<https://www.rideapart.com/news/730479/norra-500-off-road-race-utv-prizes/>
 
 ---
 
