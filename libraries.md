@@ -1,11 +1,33 @@
 ---
 title: libraries 2024.34
-updated: 2024-08-21 08:52:27
+updated: 2024-08-22 07:16:54
 ---
 
 # libraries 2024.34
 
-(date: 2024-08-21 08:52:27)
+(date: 2024-08-22 07:16:54)
+
+---
+
+## Understanding Resilience in Scholarly Publishing
+
+date: 2024-08-22, from: Scholarly Kitchen
+
+<p>In a world full of natural and man-made shocks and stresses, we need to be resilient against those affecting the academic publishing ecosystem.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/08/22/understanding-resilience-in-scholarly-publishing/">Understanding Resilience in Scholarly Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/08/22/understanding-resilience-in-scholarly-publishing/>
+
+---
+
+## A Daughter of Eve, by Honoré de Balzac
+
+date: 2024-08-21, from: Standard Ebooks, new releaases
+
+Two sisters experience very different marriages, and one is saved from a disastrous liaison. 
+
+<https://standardebooks.org/ebooks/honore-de-balzac/a-daughter-of-eve/ellen-marriage>
 
 ---
 

@@ -1,11 +1,488 @@
 ---
 title: pacific 2024.34
-updated: 2024-08-21 08:52:22
+updated: 2024-08-22 07:16:49
 ---
 
 # pacific 2024.34
 
-(date: 2024-08-21 08:52:22)
+(date: 2024-08-22 07:16:49)
+
+---
+
+## Why a Canadian freight rail halt would roil North American supply chains
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>OTTAWA &#8212; Canada&#8217;s two main freight rail companies are set to lock out around 10,000 of their Canadian unionized workers on Thursday at 12:01 a.m. ET (0401 GMT), starting an unprecedented simultaneous work stoppage that would grind almost all railway freight movement in the country to a halt. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/nation-world-news/why-a-canadian-freight-rail-halt-would-roil-north-american-supply-chains/>
+
+---
+
+## Nation and world news in brief for August 22
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>Musk&#8217;s Neuralink says second trial implant went well</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/nation-world-news/nation-and-world-news-in-brief-for-august-22/>
+
+---
+
+## Nations competing in the IVF World Sprints perform during Cultural Night
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>Hilo experienced a first-hand view into the vast cultures of countries visiting for the International Va&#8217;a Federation 2024 World Sprint Championships during Cultural Night.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/hawaii-news/nations-competing-in-the-ivf-world-sprints-perform-during-cultural-night/>
+
+---
+
+## Forecasters: Be ready for wind, rain, surf this weekend
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>Weather watchers continue to keep track of a couple of potential trouble spots for Hawaii &#8212; including one that is now a hurricane.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/hawaii-news/forecasters-be-ready-for-wind-rain-surf-this-weekend/>
+
+---
+
+## Kilauea Visitor Center to close for next 2 years
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>Ongoing renovations at Hawaii Volcanoes National Park will shut down the Kilauea Visitor Center for the next two years.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/hawaii-news/kilauea-visitor-center-to-close-for-next-2-years/>
+
+---
+
+## Harris vice presidential pick Tim Walz rallies Democratic convention
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO &#8212; Vice presidential candidate Tim Walz led fellow Democrats in a political pep rally on Wednesday night, vowing that he and presidential running mate Kamala Harris would triumph over Republican Donald Trump in November&#8217;s U.S. election. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/nation-world-news/harris-vice-presidential-pick-tim-walz-rallies-democratic-convention/>
+
+---
+
+## After so many highs this season, Scottie Scheffler makes altitude adjustment
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>No obstacle seems too large this year for Scottie Scheffler, the World No. 1 with six wins on the PGA Tour including the Masters, plus his gold medal at the Paris Olympics.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/sports/after-so-many-highs-this-season-scottie-scheffler-makes-altitude-adjustment/>
+
+---
+
+## Seedy discovery at US-Mexico border: $5 million worth of meth disguised as watermelons
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Choosing the right watermelon can be tricky. Sometimes they&#8217;re not ripe, or maybe they have too many seeds.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/nation-world-news/seedy-discovery-at-us-mexico-border-5-million-worth-of-meth-disguised-as-watermelons/>
+
+---
+
+## Sweden and Denmark to pressure tech platforms over gang crime ads
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>STOCKHOLM/COPENHAGEN (Reuters) &#8212; Sweden and Denmark will summon tech companies over ads on their platforms that are posted by gangs to recruit young Swedes to commit violent crimes in the Nordics, the justice ministers of the two countries said on Wednesday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/nation-world-news/sweden-and-denmark-to-pressure-tech-platforms-over-gang-crime-ads/>
+
+---
+
+## Consumers are still bargain shopping, Macy’s and Target reports show
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>As U.S. consumers navigate an economy still rocked by high inflation, they are guided by tight wallets and cheaper goods, a trend that&#8217;s hitting department store chains like Macy&#8217;s harder than discount retailers like Target and T.J. Maxx.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/nation-world-news/consumers-are-still-bargain-shopping-macys-and-target-reports-show/>
+
+---
+
+## BIIF volleyball: Cowgirls, Trojans tally victories
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>KEA&#8216;AU &#8212; Ka&#8216;u girls volleyball got back on track with a bounce-back win over Kea&#8216;au on Tuesday night in the Cougars&#8217; home gymnasium.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/sports/biif-volleyball-cowgirls-trojans-tally-victories/>
+
+---
+
+## This flag football quarterback says he’s ‘better than Patrick Mahomes,’ best fit for LA Olympics
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Darrell Doucette didn&#8217;t play NCAA football.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/sports/this-flag-football-quarterback-says-hes-better-than-patrick-mahomes-best-fit-for-la-olympics/>
+
+---
+
+## ‘Worst-case’ disaster for Antarctic ice looks less likely, study finds
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>For almost a decade, climate scientists have been trying to get their heads around a particularly disastrous scenario for how West Antarctica&#8217;s gigantic ice sheet might break apart, bringing catastrophe to the world&#8217;s coasts.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/nation-world-news/worst-case-disaster-for-antarctic-ice-looks-less-likely-study-finds/>
+
+---
+
+## Ukraine attacks Moscow in one of largest ever drone strikes on Russian capital
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>MOSCOW &#8212; Ukraine attacked Moscow on Wednesday with at least 11 drones that were shot down by air defenses in what Russian officials called one of the biggest drone strikes on the capital since the war in Ukraine began in February 2022. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/nation-world-news/ukraine-attacks-moscow-in-one-of-largest-ever-drone-strikes-on-russian-capital/>
+
+---
+
+## MIT’s enrollment of Black, Latino students drops after Supreme Court affirmative action ban
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>The Massachusetts Institute of Technology&#8217;s incoming freshman class this year dropped to just 16% Black, Hispanic, Native American or Pacific Islander students compared to 31% in previous years after the U.S. Supreme Court banned colleges from using race as a factor in admissions in 2023, the elite engineering school said. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/nation-world-news/mits-enrollment-of-black-latino-students-drops-after-supreme-court-affirmative-action-ban/>
+
+---
+
+## US job growth in year through March was far lower than estimated
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; U.S. employers added far fewer jobs than originally reported in the year through March, the Labor Department said on Wednesday, underscoring the growing concerns the Federal Reserve has about the health of the labor market as it gears up to start cutting interest rates in September. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/nation-world-news/us-job-growth-in-year-through-march-was-far-lower-than-estimated/>
+
+---
+
+## Chiefs’ Travis Kelce reportedly in talks to star in movie from ‘John Wick’ director
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>KANSAS CITY, Mo. &#8212; We&#8217;ve seen Chiefs tight end Travis Kelce in multiple television roles, and more are coming this fall.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/sports/chiefs-travis-kelce-reportedly-in-talks-to-star-in-movie-from-john-wick-director/>
+
+---
+
+## Heritage Auctions files lawsuit against Braves in Hank Aaron memorabilia case
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA &#8212; Heritage Auctions filed a lawsuit against the Braves on Wednesday in the case of disputed Hank Aaron memorabilia that was set to go to auction this weekend. The lawsuit was filed in the U.S. District Court in Dallas. A copy of the lawsuit was obtained by The Atlanta Journal-Constitution.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/sports/heritage-auctions-files-lawsuit-against-braves-in-hank-aaron-memorabilia-case/>
+
+---
+
+## ‘We always need more help’: KARES rescues, relocates abused and abandoned stray animals
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>The welfare of Hawaii County&#8217;s animals has become more than a full-time job for Debbie Cravatta as she dedicates her life to saving abandoned and abused dogs and cats around the island.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/hawaii-news/we-always-need-more-help-kares-rescues-relocates-abused-and-abandoned-stray-animals/>
+
+---
+
+## Friends of Drug Court, others dedicate Makaeo Walk Path bench
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>Nestled between lush &#0010;community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/community/friends-of-drug-court-others-dedicate-makaeo-walk-path-bench/>
+
+---
+
+## 2024 Ireito Memorial Service is set for Sunday
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>The Japanese Community Association of Hawaii will be observing its Annual Ireito Memorial Service at &#8216;Alae Cemetery starting at 2 p.m. on Sunday, Aug. 25.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/community/2024-ireito-memorial-service-is-set-for-sunday/>
+
+---
+
+## Competing political conventions show the difference between fake champions and real ones
+
+date: 2024-08-22, from: Hawaii Tribune Harold
+
+
+				<p>There are fake champions and there are real ones.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/22/opinion/competing-political-conventions-show-the-difference-between-fake-champions-and-real-ones/>
+
+---
+
+## Dialysis service to start
+
+date: 2024-08-22, from: Marshal Islands Journal
+
+<p>In what the Ministry of Health and Human Services called a “historic step forward,” it announced the further development of a plan to re-launch dialysis services in Majuro. Health Minister Ota Kisino joined officials with the India-based company Aprameya Medical Ltd. earlier this month to sign two agreements related to dialysis services. The ministry said [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/dialysis-service-to-start/">Dialysis service to start</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/dialysis-service-to-start/>
+
+---
+
+## Sailing toward a bright future
+
+date: 2024-08-22, from: Marshal Islands Journal
+
+<p>KAREN EARNSHAW Twenty-two students in the College of the Marshall Islands Maritime Vocational Training Center last week moved up to the highest level in their three semester course and are now interns on the SV Juren Ae, which arrived in Majuro at the end of July. According to Ben Vroom, training instructor and temporary captain [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/sailing-toward-a-bright-future/">Sailing toward a bright future</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/sailing-toward-a-bright-future/>
+
+---
+
+## National transportation fellowship program picks UH Mānoa student
+
+date: 2024-08-22, from: University of Hawaiʻi News
+
+<p>The program funds students from minority-serving institutions to attend and present their research at the <abbr>TRB</abbr> annual meeting in January 2025.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/21/national-transportation-fellowship-keoni-mabini/">National transportation fellowship program picks UH Mānoa student</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/21/national-transportation-fellowship-keoni-mabini/>
+
+---
+
+## Kaohsiung-Majuro ports tie knot
+
+date: 2024-08-21, from: Marshal Islands Journal
+
+<p>A RMI Ports Authority team, led by board chairman Transportation Minister Hilton Kendall, visited Kaohsiung, the major port city in Taiwan, last week to establish a sister port relationship with Majuro.They were in Taiwan for the Association of Pacific Ports annual conference. The port-to-port relationship is a further business relationship between the two countries on [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/kaohsiung-majuro-ports-tie-knot/">Kaohsiung-Majuro ports tie knot</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/kaohsiung-majuro-ports-tie-knot/>
+
+---
+
+## Former volleyball standout Igiede to compete for U.S. in Pan American Cup
+
+date: 2024-08-21, from: University of Hawaiʻi News
+
+<p>Amber Igiede is one of four middle blockers on the U.S. roster, set to compete August 18&#8211;25 in Mexico.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/21/igiede-to-compete-in-pan-american-cup/">Former volleyball standout Igiede to compete for U.S. in Pan American Cup</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/21/igiede-to-compete-in-pan-american-cup/>
+
+---
+
+## Six football warriors named to Polynesian Player of the Year watch list
+
+date: 2024-08-21, from: University of Hawaiʻi News
+
+<p>Pofele Ashlock, Jonah Panoke, Ezra Evaimalo, Luke Felix-Fualalo, Sergio Muasau and Maurice Taʻala were named to the 2024 Polynesian College Football Player of the Year Award watch list.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/21/football-warriors-polynesian-player-of-the-year-watch-list/">Six football warriors named to Polynesian Player of the Year watch list</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/21/football-warriors-polynesian-player-of-the-year-watch-list/>
+
+---
+
+## Damacion scores Big West honor, game-winning goal in collegiate soccer debut
+
+date: 2024-08-21, from: University of Hawaiʻi News
+
+<p>Nalani Damacion is the first <abbr>UH</abbr> player to earn Big West Freshman of the Week honors since 2022.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/21/damacion-scores-big-west-honor/">Damacion scores Big West honor, game-winning goal in collegiate soccer debut</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/21/damacion-scores-big-west-honor/>
+
+---
+
+## Humpback whales wield tools to ensure their survival
+
+date: 2024-08-21, from: University of Hawaiʻi News
+
+<p>Humpback whales manipulate the bubble-nets they create to maximize their food intake in Alaskan feeding grounds.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/21/humpback-whales-wield-tools/">Humpback whales wield tools to ensure their survival</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/21/humpback-whales-wield-tools/>
+
+---
+
+## $26M grant fuels UH research on climate-friendly cooling
+
+date: 2024-08-21, from: University of Hawaiʻi News
+
+<p>The project aims to create a transformative &#8220;sustainable refrigerant lifecycle&#8221; by lowering <abbr>HFC</abbr> emissions; creating safe, property-balanced replacement refrigerants; and increasing the energy efficiency of <abbr>HVACR</abbr> systems.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/21/26-million-grant-erc-earth/">$26<abbr>M</abbr> grant fuels <abbr>UH</abbr> research on climate-friendly cooling</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/21/26-million-grant-erc-earth/>
+
+---
+
+## Image of the week: Peer leaders
+
+date: 2024-08-21, from: University of Hawaiʻi News
+
+<p>This week's image is the <abbr>UH</abbr> Mānoa New Student Orientation peer leaders.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/21/image-of-the-week-peer-leaders/">Image of the week: Peer leaders</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/21/image-of-the-week-peer-leaders/>
+
+---
+
+## Songsong gets 10 years for possession of child pornography
+
+date: 2024-08-21, updated: 2024-08-22, from: Marianas Variety
+
+VINCENT Masga Songsong will serve 120 months or 10 years in prison for possession of child pornography. 
+
+<https://www.mvariety.com/news/local/songsong-gets-10-years-for-possession-of-child-pornography/article_aae6fbde-5f84-11ef-a9f0-3f70f260f7b7.html>
+
+---
+
+## AB Team edges Red Torch, 10-9
+
+date: 2024-08-21, updated: 2024-08-22, from: Marianas Variety
+
+AB Team finally tasted victory thanks to Ricky Riungel, who connected the game-winning solo homer to beat the Red Torch, 10-9, in the 2024 Budweiser Belau Amateur Softball Association Open League at the Dandan baseball field on Sunday. 
+
+<https://www.mvariety.com/sports/localsports/ab-team-edges-red-torch-10-9/article_fc9d107c-5fd3-11ef-9463-f7acdf3dc021.html>
+
+---
+
+## GMP x Yuman, Islander advance to semis
+
+date: 2024-08-21, updated: 2024-08-22, from: Marianas Variety
+
+GMP x Yuman and Islander Rent-A-Car secured the remaining two spots in the semifinal round of the 2024 Destroyers Basketball Club Invitational Basketball League as they bested their respective opponents at the TSL Sports Complex on Sunday. 
+
+<https://www.mvariety.com/sports/localsports/gmp-x-yuman-islander-advance-to-semis/article_69dee1ce-5fd4-11ef-8793-1b0a173f9960.html>
+
+---
+
+## OPINION ǀ A special response to the article on the cannabis tourism industry — it’s a joke & a DISASTER!
+
+date: 2024-08-21, updated: 2024-08-22, from: Marianas Variety
+
+THE TRUTH of the matter is NEVER underestimate a Teacher, as it has been teachers who touch &amp; shape the future every day. Yet, there are those who still want to apply the old Chamorro strategy of “making your name bad” to try and stop the teacher. The Governor called me and ASKED me to help him fix the Cannabis Tourism Industry and to help get the Hemp Industry started because he knew from when he was the Senate President that if anyone could fix these industries it was Ambrose M. Bennett.  However, with any change being implemented there will always be those who are AGAINST the change and in this case, it was the very Cannabis Commission and a certain Dispensary who have the monopoly of local consumers. But how sad it is the saboteurs were successful in getting the Governor to stop me all because of one article in the newspaper that highlighted my record over the need to fix the industry. They were successful in getting the governor to put a stop to my efforts but that will never erase the problems with the industry and how the People’s money is being USED and even wasted. The CNMI government is NOT turning a profit and I can run circles around the Cannabis Commission, as you will see — just keep reading! 
+
+<https://www.mvariety.com/views/columnists/opinion-a-special-response-to-the-article-on-the-cannabis-tourism-industry-it-s-a/article_ee032c08-5fd4-11ef-abb9-873ea961a572.html>
+
+---
+
+## Marianas Milk
+
+date: 2024-08-21, updated: 2024-08-22, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/views/columnists/marianas-milk/article_37a87318-5fd5-11ef-9a42-bb89ff7a8067.html>
+
+---
+
+## Judiciary opposes subpoena of HR personnel records
+
+date: 2024-08-21, updated: 2024-08-22, from: Marianas Variety
+
+THE CNMI Judiciary, through its general counsel Hyun Jae Lee, has requested the Superior Court to quash the subpoena duces tecum of the prosecution against the Judiciary’s human resources office for the personnel records of William Abraczinskas. 
+
+<https://www.mvariety.com/news/local/judiciary-opposes-subpoena-of-hr-personnel-records/article_816d904c-5f84-11ef-bc6e-b729d2141ad9.html>
+
+---
+
+## CPA seeks ‘reasonable’ terms with Star Marianas
+
+date: 2024-08-21, updated: 2024-08-22, from: Marianas Variety
+
+THE Commonwealth Ports Authority is willing to negotiate with Star Marianas Inc., CPA Executive Director Leo Tudela said. 
+
+<https://www.mvariety.com/news/local/cpa-seeks-reasonable-terms-with-star-marianas/article_51cb0cbe-5f90-11ef-b1db-27220220b175.html>
+
+---
+
+## NMI’s Mariana Castro is an intern and an employee at Intel
+
+date: 2024-08-21, updated: 2024-08-22, from: Marianas Variety
+
+SINCE June, Saipan Southern High School alumna Mariana Castro has been a process and manufacturing engineering intern at Intel’s Gordon Moore Park campus in Hillsboro, Oregon. 
+
+<https://www.mvariety.com/news/community_bulletins/nmi-s-mariana-castro-is-an-intern-and-an-employee-at-intel/article_2b3aaf5c-5f57-11ef-84b8-8b0bdc5cdf3d.html>
+
+---
+
+## Special assistant for military affairs, FHB manager, Corrections chief receive ESGR awards
+
+date: 2024-08-21, updated: 2024-08-22, from: Marianas Variety
+
+SPECIAL Assistant to the Governor for Military Affairs Danny Aquino and First Hawaiian Bank-NMI Vice President and Branch Manager Vickie Izuka received the Seven Seals Award, while Department of Corrections Commissioner Anthony C. Torres received the Patriot Award from the Guam-CNMI Employer Support of the Guard and Reserve State Committee during “Lunch with the Boss” at Crowne Plaza Resort's Hibiscus Hall on Wednesday. 
+
+<https://www.mvariety.com/news/local/special-assistant-for-military-affairs-fhb-manager-corrections-chief-receive-esgr-awards/article_49ef9c14-5f93-11ef-b202-0b3ed32a5375.html>
+
+---
+
+## IPI wants to sell hotel-casino, other assets for $10 million
+
+date: 2024-08-21, updated: 2024-08-22, from: Marianas Variety
+
+IMPERIAL Pacific International has asked the federal bankruptcy court to approve the sale of its hotel casino and other real estate assets to Loi Lam Sit for $10 million. 
+
+<https://www.mvariety.com/news/local/ipi-wants-to-sell-hotel-casino-other-assets-for-10-million/article_160e5e48-5f94-11ef-b728-731cebd9bf78.html>
 
 ---
 
@@ -306,6 +783,30 @@ date: 2024-08-21, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/08/21/opinion/interest-rates-should-be-cut-as-inflation-cools-fed-has-to-bring-down-the-rates-for-borrowing/>
+
+---
+
+## Bill permitting street vendors debated, but unresolved
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>A Hawaii County Council proposal to issue permits to vendors allowing them to sell on county roads generated debate, but wasn&#8217;t resolved on Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/hawaii-news/bill-permitting-street-vendors-debated-but-unresolved/>
+
+---
+
+## Green leads Hawaii delegation in nominating Kamala Harris
+
+date: 2024-08-21, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii delegates to the Democratic National Convention in Chicago donned light-blue, long-sleeved aloha shirts and dresses and wore green &#8220;Hawaii for Harris&#8221; buttons Tuesday as Gov. Josh Green pledged Hawaii&#8217;s support for Vice President Kamala Harris to become the next president of the United States.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/21/hawaii-news/green-leads-hawaii-delegation-in-nominating-kamala-harris/>
 
 ---
 
@@ -976,7 +1477,7 @@ date: 2024-08-20, from: Island Times
 
 date: 2024-08-20, from: Island Times
 
-<figure><img width="626" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?fit=626%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?w=940&amp;ssl=1 940w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?resize=183%2C300&amp;ssl=1 183w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?resize=626%2C1024&amp;ssl=1 626w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?resize=768%2C1256&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?resize=400%2C654&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?resize=706%2C1154&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?fit=626%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72004" data-permalink="https://islandtimes.org/palauan-soccer-star-picks-ucla/messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?fit=940%2C1537&amp;ssl=1" data-orig-size="940,1537" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0" data-image-description="" data-image-caption="&lt;p&gt;Momo Saruang Ueki, a dual Palauan-Japanese soccer player, plays for  national Japanese soccer team. (Supplied)&lt;/p&gt;
+<figure><img width="626" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?fit=626%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?w=940&amp;ssl=1 940w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?resize=183%2C300&amp;ssl=1 183w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?resize=626%2C1024&amp;ssl=1 626w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?resize=768%2C1256&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?resize=400%2C654&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?resize=706%2C1154&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?fit=626%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72004" data-permalink="https://islandtimes.org/palauan-soccer-star-picks-ucla/messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?fit=940%2C1537&amp;ssl=1" data-orig-size="940,1537" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0" data-image-description="" data-image-caption="&lt;p&gt;Momo Saruang Ueki, a dual Palauan-Japanese soccer player, plays for  national Japanese soccer team. (Supplied)&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?fit=183%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Messenger_creation_fce30be5-a240-4b47-aab7-76d334b44b37_0.jpeg?fit=626%2C1024&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>PALAU – Momo Saruang Ueki, a dual Palauan-Japanese soccer standout, has committed to the University of California, Los Angeles. The 18-year-old striker, who plays for Japan&#8217;s national team, chose UCLA over scholarship offers from Harvard, Nebraska, and other top U.S. schools. Born in Japan to a Palauan father and Japanese mother, Ueki began playing soccer [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/palauan-soccer-star-picks-ucla/">Palauan Soccer Star Picks UCLA</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
@@ -1026,7 +1527,7 @@ date: 2024-08-20, from: Island Times
 
 date: 2024-08-20, from: Island Times
 
-<figure><img width="1024" height="461" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?fit=1024%2C461&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?w=1431&amp;ssl=1 1431w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=300%2C135&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=1024%2C461&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=768%2C346&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=1200%2C540&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=400%2C180&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=706%2C318&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?fit=1024%2C461&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71992" data-permalink="https://islandtimes.org/cultural-exchange-event-celebrates-palau-japan-ties/meu-akitaya-kan-umang-anthony-christine-martin-patrick-jr-of-mindzenty-high-school/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?fit=1431%2C644&amp;ssl=1" data-orig-size="1431,644" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Meu Akitaya, Kan Umang, Anthony Christine, Martin Patrick Jr. of Mindzenty High School" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?fit=300%2C135&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?fit=780%2C351&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="1024" height="461" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?fit=1024%2C461&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?w=1431&amp;ssl=1 1431w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=300%2C135&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=1024%2C461&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=768%2C346&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=1200%2C540&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=400%2C180&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?resize=706%2C318&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?fit=1024%2C461&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71992" data-permalink="https://islandtimes.org/cultural-exchange-event-celebrates-palau-japan-ties/meu-akitaya-kan-umang-anthony-christine-martin-patrick-jr-of-mindzenty-high-school/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?fit=1431%2C644&amp;ssl=1" data-orig-size="1431,644" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Meu Akitaya, Kan Umang, Anthony Christine, Martin Patrick Jr. of Mindzenty High School" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?fit=300%2C135&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Meu-Akitaya-Kan-Umang-Anthony-Christine-Martin-Patrick-Jr.-of-Mindzenty-High-School.jpg?fit=780%2C351&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>By: Eustoria Borja KOROR, Palau (Aug. 19, 2024) — A cultural exchange event held Monday at Maris Stella School Auditorium showcased the rich traditions of both Palau and Japan, bringing together students from Mindszenty High School and the crew of the Japanese destroyer JS Ariake. From 3:30 to 4:30 p.m., students and sailors took the [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/cultural-exchange-event-celebrates-palau-japan-ties/">Cultural Exchange Event Celebrates Palau-Japan Ties</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1131,7 +1632,7 @@ The significant difference between what the Guam Memorial Hospital Authority had
 
 date: 2024-08-20, from: Island Times
 
-<figure><img width="1024" height="798" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?fit=1024%2C798&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=300%2C234&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=1024%2C798&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=768%2C598&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=1200%2C935&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=400%2C312&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=706%2C550&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?fit=1024%2C798&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71989" data-permalink="https://islandtimes.org/picrc-research-staff-masasinge-tellei-hideos-and-mcquinnley-mesengei-to-pursue-higher-education/re2500_dsc_6707/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?fit=1249%2C973&amp;ssl=1" data-orig-size="1249,973" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="re2500_DSC_6707" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?fit=300%2C234&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?fit=780%2C608&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="1024" height="798" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?fit=1024%2C798&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=300%2C234&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=1024%2C798&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=768%2C598&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=1200%2C935&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=400%2C312&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?resize=706%2C550&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?fit=1024%2C798&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71989" data-permalink="https://islandtimes.org/picrc-research-staff-masasinge-tellei-hideos-and-mcquinnley-mesengei-to-pursue-higher-education/re2500_dsc_6707/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?fit=1249%2C973&amp;ssl=1" data-orig-size="1249,973" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="re2500_DSC_6707" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?fit=300%2C234&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/re2500_DSC_6707.jpg?fit=780%2C608&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>The Palau International Coral Reef Center (PICRC) is pleased to announce that two of our valued team members, Researcher Masasinge Tellei Hideos, also known as Singe, and Research Assistant McQuinnley Mesengei, are concluding their time with us to further their education. Singe has been part of the PICRC family for the past three years, starting [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/picrc-research-staff-masasinge-tellei-hideos-and-mcquinnley-mesengei-to-pursue-higher-education/">PICRC research staff Masasinge Tellei Hideos and McQuinnley Mesengei to pursue higher education</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1144,7 +1645,7 @@ date: 2024-08-20, from: Island Times
 
 date: 2024-08-20, from: Island Times
 
-<figure><img width="1024" height="746" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?fit=1024%2C746&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=300%2C219&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=1024%2C746&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=768%2C560&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=1200%2C874&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=400%2C291&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=706%2C514&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?fit=1024%2C746&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71987" data-permalink="https://islandtimes.org/president-whipps-meets-with-the-japanese-fisheries-survey-team-to-discuss-the-development-of-palaus-fishing-industry-including-the-ngatpang-port/presidents-office-photo/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?fit=1249%2C910&amp;ssl=1" data-orig-size="1249,910" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1723543560&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Presidents Office Photo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?fit=300%2C219&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?fit=780%2C568&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="1024" height="746" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?fit=1024%2C746&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=300%2C219&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=1024%2C746&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=768%2C560&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=1200%2C874&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=400%2C291&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?resize=706%2C514&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?fit=1024%2C746&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71987" data-permalink="https://islandtimes.org/president-whipps-meets-with-the-japanese-fisheries-survey-team-to-discuss-the-development-of-palaus-fishing-industry-including-the-ngatpang-port/presidents-office-photo/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?fit=1249%2C910&amp;ssl=1" data-orig-size="1249,910" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1723543560&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Presidents Office Photo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?fit=300%2C219&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Presidents-Office-Photo.jpeg?fit=780%2C568&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>On August 13, 2024, Ambassador ORIKASA Hiroyuki and the Japanese Fisheries Survey Team met with President Surangel Whipps Jr. The Fisheries Survey team, visiting Palau from August 13 to 20, discussed with President Whipps, the development of Palau’s fisheries industry, including the Ngatpang Port. This visit is a direct follow-up to the discussions held between [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/president-whipps-meets-with-the-japanese-fisheries-survey-team-to-discuss-the-development-of-palaus-fishing-industry-including-the-ngatpang-port/">President Whipps Meets with the Japanese Fisheries Survey Team to Discuss the Development of Palau’s Fishing Industry including the Ngatpang Port</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1169,7 +1670,7 @@ date: 2024-08-20, from: Island Times
 
 date: 2024-08-20, from: Island Times
 
-<figure><img width="400" height="400" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71977" data-permalink="https://islandtimes.org/loneliness-and-cigarettes/lnkcvqv8_400x400-9/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1" data-orig-size="400,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="LNkCVQv8_400x400" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="400" height="400" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71977" data-permalink="https://islandtimes.org/loneliness-and-cigarettes/lnkcvqv8_400x400-9/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1" data-orig-size="400,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="LNkCVQv8_400x400" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>&#8220;People are not addicted to alcohol or drugs, they are addicted to escaping reality.” -Anonymous. I never knew I was lonely growing up, especially after my father died. In reflection it was a good thing.&#160; If I knew I was lonelyq I would have gone mad looking for something to numb the loneliness.&#160; But I [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/loneliness-and-cigarettes/">Loneliness and Cigarettes</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1182,7 +1683,7 @@ date: 2024-08-20, from: Island Times
 
 date: 2024-08-20, from: Island Times
 
-<figure><img width="512" height="512" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?fit=512%2C512&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?w=512&amp;ssl=1 512w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?fit=512%2C512&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71975" data-permalink="https://islandtimes.org/the-power-of-regionalism-the-vital-role-of-the-pacific-islands-parliaments-group/1736168-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?fit=512%2C512&amp;ssl=1" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="1736168" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?fit=512%2C512&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="512" height="512" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?fit=512%2C512&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?w=512&amp;ssl=1 512w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?fit=512%2C512&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71975" data-permalink="https://islandtimes.org/the-power-of-regionalism-the-vital-role-of-the-pacific-islands-parliaments-group/1736168-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?fit=512%2C512&amp;ssl=1" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="1736168" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/1736168.png?fit=512%2C512&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>By Lord Fakafanua, Speaker of the Parliament of Tonga, Munkhtuya Altangerel, Resident Representative, UNDP Pacific Office in Fiji SUVA/NUKU&#8217;ALOFA (UNDP)&#8212;The vast Pacific Ocean binds our island nations, shaping our identity and sustaining countless communities. But the challenges we face, from climate change to economic disparity, and the continual erosion of faith and trust in our [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/the-power-of-regionalism-the-vital-role-of-the-pacific-islands-parliaments-group/">The Power of Regionalism: the vital role of the Pacific Islands Parliaments Group</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  

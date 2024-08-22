@@ -1,11 +1,133 @@
 ---
 title: home 2024.34
-updated: 2024-08-21 08:52:27
+updated: 2024-08-22 07:16:54
 ---
 
 # home 2024.34
 
-(date: 2024-08-21 08:52:27)
+(date: 2024-08-22 07:16:54)
+
+---
+
+## Are White Fridges Really Coming Back Into Style?
+
+date: 2024-08-22, from: Dwell
+
+Despite the association with crappy rentals and your grandmother's outdated kitchen, we must admit: white goes with everything. 
+
+<https://www.dwell.com/article/are-white-fridges-really-coming-back-into-style-dbe5e077>
+
+---
+
+## These Homemade Pizza Recipes Will Make You Forget About Delivery
+
+date: 2024-08-22, from: Sunset Magazine - Living in the West
+
+Make perfect homemade pizza with recipes ranging from classic Margherita pizza to elote pizza to carbonara pizza and more. 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/easy-homemade-pizza-recipes>
+
+---
+
+## These Are the Best Carts and Totes to Bring to the Farmers Market, According to Sunset Editors
+
+date: 2024-08-21, from: Sunset Magazine - Living in the West
+
+These best shopping carts and totes are perfect for errands, whether you're at the farmers market, beach, or on a camping trip. 
+
+<https://www.sunset.com/lifestyle/shopping/best-shopping-carts>
+
+---
+
+## Hoover Clean Slate Review: We Tried this Carpet Cleaner Machine and Love it For Pet Messes
+
+date: 2024-08-21, from: Family Handyman Blog
+
+We put the Hoover Clean Slate to the test against rugs' and carpets' worst enemy: A messy dog. Find out how well this portable spot cleaner worked. 
+
+<https://www.familyhandyman.com/article/hoover-clean-slate-review/>
+
+---
+
+## Milwaukee Laser Measure Review: We Tried It
+
+date: 2024-08-21, from: Family Handyman Blog
+
+We put the Milwaukee Laser Measure to the test to determine if its price tag is worth the investment for DIYers and pros alike. 
+
+<https://www.familyhandyman.com/article/milwaukee-laser-measure-review/>
+
+---
+
+## Bring the Drama (and the Heat) with Behr’s 2025 Color of the Year, Rumors
+
+date: 2024-08-21, from: Family Handyman Blog
+
+Say goodbye to boring beiges and neutrals– Behr’s 2025 Color of the Year is a ruby red destined to make a statement.  
+
+<https://www.familyhandyman.com/article/behr-2025-color-of-the-year/>
+
+---
+
+## Farm-to-School program boosts school nutrition with fresh, locally sourced foods — approach working well in Tulare County
+
+date: 2024-08-21, from: Calfifornia Dept. Aggriculture blog
+
+Thanks to a grant from CDFA&#8217;s Farm to School Incubator Program, the Porterville Unified School District in Tulare County is bridging the gap between local farms and school cafeterias to bring fresh, sustainable fruits and vegetables to students’ plates. The &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28077">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28077>
+
+---
+
+## How to Buy Tires, a Step-by-Step Buying Guide
+
+date: 2024-08-21, from: Family Handyman Blog
+
+ When buying tires do your homework. Consider your priorities like traction in snow and rain, tread wear rating, noise, handling and other key factors. Then check the tire ratings for each priority. We walk you through the entire tire buying process. 
+
+<https://www.familyhandyman.com/article/buying-tires/>
+
+---
+
+## This Compact Canadian Home Reimagines The Classic Log Cabin
+
+date: 2024-08-21, from: Dwell
+
+Geometric windows, a slatted cedar screen, and split roof offer a contemporary take on traditional A-frames. 
+
+<https://www.dwell.com/article/this-compact-canadian-home-reimagines-the-classic-log-cabin-69bc39f5>
+
+---
+
+## Claire Danes Is Selling Her West Village Townhouse for $9.7M
+
+date: 2024-08-21, from: Dwell
+
+After a tasteful redesign by BKSK, the 1910 Greek revival home offers 11-foot ceilings, a contemporary kitchen, and private garden terraces. 
+
+<https://www.dwell.com/article/claire-danes-west-village-townhouse-manhattan-new-york-city-real-estate-412a31a7>
+
+---
+
+## Budget Breakdown: In the Netherlands, a Historic Thatched Cottage Meets a $97K Prefab
+
+date: 2024-08-21, from: Dwell
+
+Manta North delivers a tiny ADU to the backyard of a traditional home with just a single day of on-site construction. 
+
+<https://www.dwell.com/article/budget-breakdown-manta-north-prefab-adu-backyard-house-oosterbeek-0c4bb5d0>
+
+---
+
+## How to Choose the Right Containers for Orchids
+
+date: 2024-08-21, from: The Gardener's Path
+
+<p>Orchids are unique plants, and many require special pots to help them thrive. The type of container you need depends on whether you have an epiphyte, which grows in trees, or a terrestrial orchid, which grows in the ground. Learn about how to choose the right container for your orchid species in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/orchid-containers/">How to Choose the Right Containers for Orchids</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/flowers/orchid-containers/>
 
 ---
 
@@ -29,6 +151,16 @@ It's hard to believe, but back-to-school season is here. A pro organizer shares 
 
 ---
 
+## Sunset.com Home Page
+
+date: 2024-08-21, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
+
+---
+
 ## Democrats Make Housing Policy Part of Their Campaign-Year Pitch
 
 date: 2024-08-20, from: Dwell
@@ -36,6 +168,16 @@ date: 2024-08-20, from: Dwell
 President Joe Biden and Vice President Kamala Harris want to tackle the housing crisis by making it easier to build new construction. 
 
 <https://www.dwell.com/article/joe-biden-kamala-harris-housing-plans-a7c06134>
+
+---
+
+## How To Paint a Front Door Without Removing It
+
+date: 2024-08-20, from: Family Handyman Blog
+
+<p>Your home deserves a facelift! Discover how to paint a front door without removing it with our simple step-by-step project. /p> 
+
+<https://www.familyhandyman.com/project/how-to-paint-a-front-door-without-removing-it/>
 
 ---
 
@@ -94,6 +236,16 @@ Design references in the mini loft include Super Mario Bros, reality TV villas, 
 
 ---
 
+## There’s a Lot of Y2K Style Packed Into This 600-Square-Foot Paris Apartment
+
+date: 2024-08-20, from: Dwell
+
+Design references in the mini loft include Super Mario Bros, reality TV villas, techno club strobe lights, and Joel Schumacher’s "Batman & Robin." 
+
+<https://www.dwell.com/article/theres-a-lot-of-y2k-style-packed-into-this-600-square-foot-paris-apartment-1e59aa24>
+
+---
+
 ## This $1.6M Pasadena Midcentury Offers a Tasteful Buffet of Wooden Delights
 
 date: 2024-08-20, from: Dwell
@@ -121,16 +273,6 @@ date: 2024-08-20, from: Dwell
 The finishing touch on Tyler Quinn’s Joshua Tree build? A restorative oasis built with sweat equity and determination. 
 
 <https://www.dwell.com/article/how-they-pulled-it-off-a-hot-tub-built-into-a-boulder-2e8bb9a3>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-08-20, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
 
 ---
 

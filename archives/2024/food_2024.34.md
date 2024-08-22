@@ -1,11 +1,109 @@
 ---
 title: food 2024.34
-updated: 2024-08-21 08:52:30
+updated: 2024-08-22 07:16:57
 ---
 
 # food 2024.34
 
-(date: 2024-08-21 08:52:30)
+(date: 2024-08-22 07:16:57)
+
+---
+
+## Fiery Chicken With Knockout Mediterranean Sauce
+
+date: 2024-08-22, from: Pepper Scale
+
+This fiery chicken dish gives crisp-skinned, tender chicken the chili spotlight it deserves. Tanged with olives and capers, its rich and fiery cherry tomato sauce is lightly sweetened by bell peppers. Serve with crunchy potatoes, roasted with garlic, and rosemary. The huge appeal of our ... <p class="read-more-container"><a title="Fiery Chicken With Knockout Mediterranean Sauce" class="read-more button" href="https://pepperscale.com/fiery-chicken-with-knockout-mediterranean-sauce/#more-81509" aria-label="Read more about Fiery Chicken With Knockout Mediterranean Sauce">Read more</a></p> 
+
+<https://pepperscale.com/fiery-chicken-with-knockout-mediterranean-sauce/>
+
+---
+
+## Spiced Beetroot Chocolate Cake
+
+date: 2024-08-22, from: Pepper Scale
+
+Yes, there&#8217;s a touch of something good for you in this delicious dessert. Spiced beetroot chocolate cake pairs the superfood (beets, in all their earthy, bitter glory) with rich and smooth chocolate (both the cake and the icing). It&#8217;s that sweet icing that balances out ... <p class="read-more-container"><a title="Spiced Beetroot Chocolate Cake" class="read-more button" href="https://pepperscale.com/spiced-beetroot-chocolate-cake/#more-87168" aria-label="Read more about Spiced Beetroot Chocolate Cake">Read more</a></p> 
+
+<https://pepperscale.com/spiced-beetroot-chocolate-cake/>
+
+---
+
+## Chili Con Carbonara: A Pasta Triumph
+
+date: 2024-08-22, from: Pepper Scale
+
+If I had to choose a pasta dish above all others, this would be the one. It’s hard to believe that something so simple can taste so amazingly good. And the spiciness from the reds serrano peppers is a perfect foil with the creaminess. Chili ... <p class="read-more-container"><a title="Chili Con Carbonara: A Pasta Triumph" class="read-more button" href="https://pepperscale.com/chili-con-carbonara/#more-82274" aria-label="Read more about Chili Con Carbonara: A Pasta Triumph">Read more</a></p> 
+
+<https://pepperscale.com/chili-con-carbonara/>
+
+---
+
+## Spicy Sriracha Carrot Dip
+
+date: 2024-08-22, from: Pepper Scale
+
+Sriracha and carrots are a surprising super-duo. They both have a sneaky sweetness, one (Sriracha) with a garlicky undertone and the other (carrots) with a garden-fresh earthiness. Together these tastes meld into one delicious dip that’s just perfect for toasted pita, crackers, or sliced vegetables. ... <p class="read-more-container"><a title="Spicy Sriracha Carrot Dip" class="read-more button" href="https://pepperscale.com/spicy-sriracha-carrot-dip/#more-83635" aria-label="Read more about Spicy Sriracha Carrot Dip">Read more</a></p> 
+
+<https://pepperscale.com/spicy-sriracha-carrot-dip/>
+
+---
+
+## Indonesian Braised Beef With Spiced Rice
+
+date: 2024-08-22, from: Pepper Scale
+
+This exotic treasure, Indonesian braised beef (or dendeng sapi manis), stars steak braised in a sweet and sour sauce that’s fired by Thai bird’s eye chilies and spiced with nutmeg, cloves, tamarind, ginger, cumin, and cilantro. Ours pairs perfectly with a rice and corn dish ... <p class="read-more-container"><a title="Indonesian Braised Beef With Spiced Rice" class="read-more button" href="https://pepperscale.com/indonesian-braised-beef-with-spiced-rice-dendeng-sapi-manis/#more-84904" aria-label="Read more about Indonesian Braised Beef With Spiced Rice">Read more</a></p> 
+
+<https://pepperscale.com/indonesian-braised-beef-with-spiced-rice-dendeng-sapi-manis/>
+
+---
+
+## Zucchini and Corn Pesto Orzo
+
+date: 2024-08-22, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2024/08/Zucchini-and-Corn-Pesto-Orzo-1200-8922.jpg"/></div>
+<p>A summery fresh pasta with zucchini, corn and plenty of basil pesto topped with fresh tomatoes and mozzarella! Grocery stores are filled with summer produce and this pasta is a great way to enjoy some zucchini and corn with a tasty homemade basil pesto! This is a super simple one-pan recipe that starts with onions...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/zucchini-and-corn-pesto-orzo/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/zucchini-and-corn-pesto-orzo/">Zucchini and Corn Pesto Orzo</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<https://www.closetcooking.com/zucchini-and-corn-pesto-orzo/>
+
+---
+
+## Mango Salsa
+
+date: 2024-08-22, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/mango-salsa/"><img title="mango-salsa-small-5" src="https://www.isabeleats.com/wp-content/uploads/2024/08/mango-salsa-small-5-400x600.jpg" alt="Mango Salsa" width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Mango salsa is a vibrant and refreshing side or garnish that combines the sweetness of ripe mangoes with tangy lime juice, chopped red onion, cucumber, jalapeño, and cilantro. It’s the perfect combination of sweet and spicy, pairs well with grilled meats, and makes a fantastic dip for tortilla chips. There are plenty of reasons to [&#8230;] 
+
+<https://www.isabeleats.com/mango-salsa/>
+
+---
+
+## The Best Espresso Machines (2024), Reviewed by Our Experts
+
+date: 2024-08-21, from: Bon Appetet
+
+A good espresso machine is an investment. But how much do you spend at the coffee shop every year? 
+
+<https://www.bonappetit.com/story/best-espresso-machines>
+
+---
+
+## The Best Mosquito Repellents (2024)
+
+date: 2024-08-21, from: Bon Appetet
+
+Because nothing ruins an outdoor dinner party faster than a swarm of unwanted guests. 
+
+<https://www.bonappetit.com/story/best-mosquito-repellents>
 
 ---
 

@@ -1,11 +1,283 @@
 ---
 title: going electric 2024.34
-updated: 2024-08-21 08:52:30
+updated: 2024-08-22 07:16:57
 ---
 
 # going electric 2024.34
 
-(date: 2024-08-21 08:52:30)
+(date: 2024-08-22 07:16:57)
+
+---
+
+## BMW Takes Down Tesla: More EVs Sold In Europe
+
+date: 2024-08-22, from: Inside EVs News
+
+Tesla Model Y and Model 3 sales slipped in Europe, allowing BMW to take over the best-selling EV crown. 
+
+<https://insideevs.com/news/731043/bmw-outsells-tesla-evs-europe-july/>
+
+---
+
+## Xiaomi eyes global expansion, including Europe, to become a top five automaker someday
+
+date: 2024-08-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Xiaomi-SU7-Ultra-rear.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/xiaomi/">Xiaomi</a> CEO Lei Jun has recently shared some interesting tidbits with the media, offering a more precise timeline for the tech giant’s automotive arm’s launch of its tri-motor SU7 Ultra. Additionally, the billionaire CEO spoke about Xiaomi Automobile’s willingness to lose money upfront to expand its portfolio to markets in Europe and become a top-five automaker in the world.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="376812" href="https://electrek.co/2024/08/22/xiaomi-eyes-global-expansion-europe-become-top-five-automaker/#more-376812" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/22/xiaomi-eyes-global-expansion-europe-become-top-five-automaker/>
+
+---
+
+## Hyundai's Extended-Range EVs May Include Trucks, Santa Fe, Genesis GV70
+
+date: 2024-08-22, from: Inside EVs News
+
+Hyundai seems to be making a big bet on the future of internal combustion: all range, no anxiety. Is this the start of the EREV era? 
+
+<https://insideevs.com/news/730951/erev-santafe-genesis-gv70-rumor/>
+
+---
+
+## The Tesla Cybertruck Is Reportedly Getting FSD Next Month. We Have Doubts
+
+date: 2024-08-22, from: Inside EVs News
+
+Tesla’s most expensive passenger vehicle has been sold for almost a year without the advanced driver assistance feature enabled. 
+
+<https://insideevs.com/news/731006/tesla-cybertruck-fsd-september-doubts/>
+
+---
+
+## 2024 GMC Sierra EV Deliveries Are Finally Underway
+
+date: 2024-08-22, from: Inside EVs News
+
+Two years after being unveiled, the top-spec GMC Sierra EV Denali Edition 1 is heading to customers across the country. 
+
+<https://insideevs.com/news/730990/2024-gmc-sierra-ev-delivery-start/>
+
+---
+
+## Volkswagen ID. Buzz: 'Solid Family Vehicle' Despite The Price, MKBHD Says
+
+date: 2024-08-22, from: Inside EVs News
+
+With a starting MSRP of just under $60,000, the electric reincarnation of the classic VW bus has a maximum range of 234 miles. 
+
+<https://insideevs.com/news/730968/volkswagen-id-buzz-mkbhd-review/>
+
+---
+
+## Next Ford EV is a small truck, Tesla Semi charger in Utah, and TRC’s Joe Annotti
+
+date: 2024-08-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/TRUCKS.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we’ve got big news from Ford, a Tesla Semi charger in the middle of Utah, and TRC’s Joe Annotti shows up to talk about the role incentives play in fleet electrification.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,ev-incentives,ford" data-layer-viewtype="unknown" data-post-id="376805" href="https://electrek.co/2024/08/21/next-ford-ev-is-a-small-truck-tesla-semi-charger-in-utah-and-trcs-joe-annotti/#more-376805" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/21/next-ford-ev-is-a-small-truck-tesla-semi-charger-in-utah-and-trcs-joe-annotti/>
+
+---
+
+## Ford Won't Have New EVs For Years. That Could Leave It 'Exposed.'
+
+date: 2024-08-21, from: Inside EVs News
+
+Ford is pulling back on some of its EV investments. But one expert wonders how this will actually help Ford's profit problem. 
+
+<https://insideevs.com/news/730948/ford-exposed-analyst-nef-plans/>
+
+---
+
+## Electric vehicles hit major milestone as 18 models join the 5K sales club in Q2
+
+date: 2024-08-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Electric-vehicles-5K.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Despite talk of an EV slowdown, more electric cars are hitting US streets. In the second quarter, 18 models topped 5K in sales, with Tesla, <a href="https://electrek.co/guides/ford/">Ford</a>, and Hyundai leading the way. Meanwhile, newcomers, like Toyota’s bZ4X, Kia’s EV9, and the Chevy Blazer EV, joined the club.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles" data-layer-viewtype="unknown" data-post-id="376790" href="https://electrek.co/2024/08/21/electric-vehicles-hit-milestone-18-models-5k-sales/#more-376790" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/21/electric-vehicles-hit-milestone-18-models-5k-sales/>
+
+---
+
+## Tesla launches FSD v12.5 on HW3 vehicles
+
+date: 2024-08-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has launched a new version of its (supervised) Full Self-Driving FSD v12.5 on vehicles equipped with the older HW3 computer.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="376797" href="https://electrek.co/2024/08/21/tesla-launches-fsd-v12-5-on-hw3-vehicles/#more-376797" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/21/tesla-launches-fsd-v12-5-on-hw3-vehicles/>
+
+---
+
+## Renewables now make up 30% of US power capacity – FERC
+
+date: 2024-08-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3B4MTA0MzE5My1pbWFnZS1rd3Z3Z2U2OC5qcGc.webp?w=1024" /></div><p>Renewables – solar, wind, biomass, geothermal, hydropower – are now 30% of total US electrical generating capacity, according to analysis of FERC’s mid-year data. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="coal,egeb,energy-brief,solar,hydropower,nuclear-plant,oil-and-gas,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="376775" href="https://electrek.co/2024/08/21/renewables-30-percent-us-power-capacity-ferc/#more-376775" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/21/renewables-30-percent-us-power-capacity-ferc/>
+
+---
+
+## Lucid (LCID) will launch three new affordable EVs to challenge Tesla’s Model Y, Model 3
+
+date: 2024-08-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Lucid-Tesla-affordable-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lucid (LCID) will introduce not one but three new affordable EVs as it looks to take on market leaders like Tesla. Although we knew <a href="https://electrek.co/guides/lucid-motors/">Lucid</a> was planning a new mid-size electric SUV to rival Tesla’s best-selling Model Y, two other EVs are scheduled to roll out.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="376762" href="https://electrek.co/2024/08/21/lucid-lcid-challenge-tesla-three-new-affordable-evs/#more-376762" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/21/lucid-lcid-challenge-tesla-three-new-affordable-evs/>
+
+---
+
+## The Volkswagen ID. Buzz Is Here, And Everyone Is Mad
+
+date: 2024-08-21, from: Inside EVs News
+
+VW finally released pricing and range specs for the beloved ID. Buzz, but the internet has turned up its nose. 
+
+<https://insideevs.com/news/730915/vw-id-buzz-pricing-mad/>
+
+---
+
+## Rad Power RadCity 5 Plus e-bike hits new $999 low, Anker’s 299Wh LiFePO4 Powerhouse at $179 low, Worx 3-in-1 tool, more
+
+date: 2024-08-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Rad-Power-RadCity-5-plus-Commuter-e-bike-from-electrek-review.webp?w=1400" /></div><p>Headlining today’s Green Deals is <a href="https://9to5toys.com/2024/08/21/rad-powers-labor-day-sale-drops-radcity-5-plus-commuter-e-bike-to-new-999-low-reg-1699/">Rad Power’s Labor Day Sale</a> that will be running through September 4 and offering up to $700 off e-bikes, with some getting free gear including a new extra battery offer. The biggest deal in the bunch though is the brand’s <a href="https://9to5toys.com/2024/08/21/rad-powers-labor-day-sale-drops-radcity-5-plus-commuter-e-bike-to-new-999-low-reg-1699/">RadCity 5 Plus Commuter e-bike</a> being the second model to drop to a <a href="https://9to5toys.com/2024/08/21/rad-powers-labor-day-sale-drops-radcity-5-plus-commuter-e-bike-to-new-999-low-reg-1699/">new $999 low</a>, alongside the RadRover 6 Plus High-Step. This sale is joined by a one-day discount on <a href="https://9to5toys.com/2024/08/21/ankers-299wh-lifepo4-powerhouse-hits-179-low-for-the-first-time-since-black-friday-reg-269-today-only/">Anker’s SOLIX 522 Powerhouse Portable Power Station</a> that is back at its <a href="https://9to5toys.com/2024/08/21/ankers-299wh-lifepo4-powerhouse-hits-179-low-for-the-first-time-since-black-friday-reg-269-today-only/">$179 low</a> for the first time since Black Friday, as well as a price cut on the handy <a href="https://9to5toys.com/2024/08/20/save-time-with-worxs-convenient-trivac-12a-3-in-1-electric-blower-vacuum-mulcher-at-85/">3-in-1 Worx TRIVAC 12A Electric Blower/Vacuum/Mulcher</a> that is down at <a href="https://9to5toys.com/2024/08/20/save-time-with-worxs-convenient-trivac-12a-3-in-1-electric-blower-vacuum-mulcher-at-85/">$85</a>. Plus, all the other hangover Green Deals that are still alive and well, like yesterday’s $900 off deal on <a href="https://9to5toys.com/2024/08/20/saddle-up-on-velotrics-t1-e-bike-with-extended-100-mile-range-smart-hub-and-gps-tracking-for-1599-save-900/">Velotric’s T1 e-bike with Smart+ Hub and GPS Tracking</a> that has had its travel range extended to 100 miles. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="376754" href="https://electrek.co/2024/08/21/rad-power-radcity-5-plus-e-bike-ankers-299wh-powerhouse-worx-3-in-1-tool-more/#more-376754" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/21/rad-power-radcity-5-plus-e-bike-ankers-299wh-powerhouse-worx-3-in-1-tool-more/>
+
+---
+
+## Zeekr Plans To Add 'Innovative Super Hybrid' Flagship In 2025
+
+date: 2024-08-21, from: Inside EVs News
+
+Zeekr CEO Andy An announced during the brand's Q2 earnings call that the all-electric brand is adding plug-in hybrid power for its flagship SUV.  
+
+<https://insideevs.com/news/730921/zeekr-super-hybrid-geely-2025/>
+
+---
+
+## Tesla (TSLA) secures $5 million EV order from Baltimore City
+
+date: 2024-08-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/01/Tesla-hero-Model-3-Y-S.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has secured an order for electric vehicles from the city of Baltimore worth about $5 million, according to city officials.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="376741" href="https://electrek.co/2024/08/21/tesla-tsla-secures-5-million-ev-order-from-baltimore-city/#more-376741" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/21/tesla-tsla-secures-5-million-ev-order-from-baltimore-city/>
+
+---
+
+## Polestar recruits former Volkswagen Golf, Audi designer to lead luxury EV design
+
+date: 2024-08-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Polestar-first-electric-SUV-US-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Polestar (PSNY) has hired Philip Römers to lead its design team. Before joining <a href="https://electrek.co/guides/polestar/">Polestar</a>, Römers was a lead Volkswagen and Audi designer known for designing the Mk7 VW Golf and Audi e-tron GT.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="polestar" data-layer-viewtype="unknown" data-post-id="376740" href="https://electrek.co/2024/08/21/polestar-recruits-former-vw-golf-audi-designer-lead-ev-design/#more-376740" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/21/polestar-recruits-former-vw-golf-audi-designer-lead-ev-design/>
+
+---
+
+## Ford's 'Skunkworks' EV Truck Will Be Midsize, Not Compact
+
+date: 2024-08-21, from: Inside EVs News
+
+Ford announced lots of EV and hybrid news today. Among them: its secretive California-based truck project may be bigger than expected. 
+
+<https://insideevs.com/news/730922/ford-skunkworks-ev-midsize-compact/>
+
+---
+
+## GMC’s 2024 Sierra EV Denali Edition 1 is finally here – with a 440-mile range
+
+date: 2024-08-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/2024-gmc-sierra-ev-denali-edition-trailer.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Customers can now purchase the powerful, luxurious 2024 GMC Sierra EV Denali Edition 1 from dealers across the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-pickup-trucks,gmc,gmc-electric-sierra-denali,gmc-sierra-ev" data-layer-viewtype="unknown" data-post-id="358953" href="https://electrek.co/2024/08/21/gmc-2024-sierra-ev-denali-edition-1-440-mile-range/#more-358953" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/21/gmc-2024-sierra-ev-denali-edition-1-440-mile-range/>
+
+---
+
+## Off to college? These are the electric scooters to consider bringing with you
+
+date: 2024-08-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/yadea-artist-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>As college students gear up for the new academic year, electric scooters are emerging as a top choice for campus transportation. Here are the best ones I’ve covered and would recommend for students.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-scooter" data-layer-viewtype="unknown" data-post-id="373222" href="https://electrek.co/2024/08/21/off-to-college-these-are-the-electric-scooters-to-consider-bringing-with-you/#more-373222" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/21/off-to-college-these-are-the-electric-scooters-to-consider-bringing-with-you/>
+
+---
+
+## ZEEKR Q2 2024 report: Record deliveries and revenue, Level 3 autonomous driving on the way
+
+date: 2024-08-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/ZEEKR-007-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chinese EV automaker ZEEKR has shared its Q2 2024 financial results, and its numbers are encouraging for a marque that is expanding globally and doing so quickly. In addition to financial numbers, <a href="https://electrek.co/guides/zeekr/">ZEEKR’s</a> CEO shared a few interesting company updates, including a new model and some autonomous driving tech.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous-driving,zeekr" data-layer-viewtype="unknown" data-post-id="376701" href="https://electrek.co/2024/08/21/zeekr-q2-2024-report-record-deliveries-revenue-growth-autonomous-driving/#more-376701" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/21/zeekr-q2-2024-report-record-deliveries-revenue-growth-autonomous-driving/>
+
+---
+
+## Converting This Mercury Comet Wagon To Electric Should Cost Under $4,000
+
+date: 2024-08-21, from: Inside EVs News
+
+The cost includes a Nissan Leaf-compatible EV controller and a crashed donor car and a lot of DIY work. 
+
+<https://insideevs.com/news/730913/mercury-comet-ev-conversion-leaf/>
 
 ---
 
@@ -41,7 +313,7 @@ date: 2024-08-21, from: Electrek Feed
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="282700" href="https://electrek.co/2024/08/21/dc-to-dc-solar-powered-ev-charger/#more-282700" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-chargers,solar,solar-power" data-layer-viewtype="unknown" data-post-id="282700" href="https://electrek.co/2024/08/21/dc-to-dc-solar-powered-ev-charger/#more-282700" class="more-link">more…</a> 
 
 <https://electrek.co/2024/08/21/dc-to-dc-solar-powered-ev-charger/>
 

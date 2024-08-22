@@ -1,11 +1,31 @@
 ---
 title: mid central 2024.34
-updated: 2024-08-21 08:52:23
+updated: 2024-08-22 07:16:50
 ---
 
 # mid central 2024.34
 
-(date: 2024-08-21 08:52:23)
+(date: 2024-08-22 07:16:50)
+
+---
+
+## ‘Welcome Week’ greets new and returning Bulldogs with 11 days of fun and giveaways
+
+date: 2024-08-22, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Welcome Week at Fresno State is well underway! Whether you’re new on campus or coming back for another semester, here are welcome events happening on campus this week from Aug. 21-31. Thursday, Aug. 22: The same welcome stations from the previous day will be open in their respective locations from 7:30-10 a.m. There will also... 
+
+<https://fscollegian.com/2024/08/welcome-week-greets-new-and-returning-bulldogs-with-11-days-of-fun-and-giveaways/>
+
+---
+
+## Welcome back! Collegian staffers offer some tips for new students.
+
+date: 2024-08-21, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Students are headed back to classes for the first day of instruction for the Fall 2024 semester, which means that there are a lot of newcomers on campus. Where your classes are, where the best study spot is and how you can use campus resources are questions we all asked when we were incoming students. ... 
+
+<https://fscollegian.com/2024/08/the-collegians-survival-guide-to-the-new-school-year/>
 
 ---
 

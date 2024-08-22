@@ -1,11 +1,71 @@
 ---
 title: motorcycles 2024.34
-updated: 2024-08-21 08:52:28
+updated: 2024-08-22 07:16:55
 ---
 
 # motorcycles 2024.34
 
-(date: 2024-08-21 08:52:28)
+(date: 2024-08-22 07:16:55)
+
+---
+
+## Can-Am's Maverick R Max Is Here, Time to Go Fast With Your Family
+
+date: 2024-08-22, from: Ride Apart, Electric Motorcycle News
+
+Yes, Can-Am, how much will you give me for my Maverick X3 Max in trade? 
+
+<https://www.rideapart.com/news/730940/2025-can-am-maverick-r-max-four-seater-debut/>
+
+---
+
+## Someone Stuffed a Ducati Panigale Engine Into a Honda Grom, Because Why Not
+
+date: 2024-08-22, from: Ride Apart, Electric Motorcycle News
+
+I can’t believe my eyes.  
+
+<https://www.rideapart.com/news/730684/ducati-panigale-swap-honda-grom/>
+
+---
+
+## I'm Sorry, But Can-Am's New Electric Motorcycle Doesn't Have Enough Range
+
+date: 2024-08-22, from: Ride Apart, Electric Motorcycle News
+
+90 city miles ain't gonna cut it in the dirt. 
+
+<https://www.rideapart.com/news/730930/can-am-origin-pulse-electric-motorcycles-2025/>
+
+---
+
+## Looks Like CFMoto Is Unleashing Its Big ADV, Will Possibly Be a KTM Killer
+
+date: 2024-08-22, from: Ride Apart, Electric Motorcycle News
+
+The 800 MT-X just might be CFMoto’s most performance-oriented adventure bike to date.  
+
+<https://www.rideapart.com/news/730683/official-cfmoto-800-mtx-coming-soon/>
+
+---
+
+## MV Agusta Won't Share Engines With KTM, Says New President
+
+date: 2024-08-22, from: Ride Apart, Electric Motorcycle News
+
+...except maybe in MotoGP? 
+
+<https://www.rideapart.com/news/730675/mv-agusta-plans-pierer-ktm/>
+
+---
+
+## GALLERY: A Look At The NASCAR Action From Michigan International Speedway
+
+date: 2024-08-22, from: Kickin the Tires blog
+
+ 
+
+<https://kickinthetires.net/nascar/gallery-a-look-at-the-nascar-action-from-michigan-international-speedway/>
 
 ---
 

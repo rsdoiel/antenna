@@ -1,11 +1,272 @@
 ---
 title: socal north 2024.34
-updated: 2024-08-21 08:52:21
+updated: 2024-08-22 07:16:48
 ---
 
 # socal north 2024.34
 
-(date: 2024-08-21 08:52:21)
+(date: 2024-08-22 07:16:48)
+
+---
+
+## Your SoCal Weather Report For Thursday, August 22: Cooler weather should last into the weekend
+
+date: 2024-08-22, updated: 2024-08-22, from: The LAist
+
+Cool down begins today and will last into Saturday. 
+
+<https://laist.com/news/climate-environment/la-weather-report-august-22-cool-down-begins-warm-saturday>
+
+---
+
+## L.A. County has spent millions to recruit more court reporters, so why is a shortage dragging on?
+
+date: 2024-08-22, updated: 2024-08-22, from: The LAist
+
+L.A. County courts have 117 court reporter vacancies as of this week, which is about 26% of the total positions. 
+
+<https://laist.com/news/politics/la-county-court-reporters-shortage>
+
+---
+
+## La Escuela Pacoima Middle School Allana el Camino con un Patio Escolar Viviente
+
+date: 2024-08-22, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="543" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pacoima-Middle_SN_03-scaled-e1724304514647.jpeg?fit=1024%2C543&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pacoima-Middle_SN_03-scaled-e1724304514647.jpeg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pacoima-Middle_SN_03-scaled-e1724304514647.jpeg?resize=300%2C159&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pacoima-Middle_SN_03-scaled-e1724304514647.jpeg?resize=1024%2C543&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pacoima-Middle_SN_03-scaled-e1724304514647.jpeg?resize=768%2C407&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pacoima-Middle_SN_03-scaled-e1724304514647.jpeg?resize=1536%2C814&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pacoima-Middle_SN_03-scaled-e1724304514647.jpeg?resize=1200%2C636&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pacoima-Middle_SN_03-scaled-e1724304514647.jpeg?resize=1568%2C831&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pacoima-Middle_SN_03-scaled-e1724304514647.jpeg?resize=400%2C212&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pacoima-Middle_SN_03-scaled-e1724304514647.jpeg?resize=706%2C374&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Pacoima-Middle_SN_03-scaled-e1724304514647.jpeg?fit=1024%2C543&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los estudiantes y profesores siempre están un poco nerviosos y frenéticos al volver a la escuela. En la escuela Pacoima Middile School hay emoción adicional. Entre clase y clase, los [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/21/la-escuela-pacoima-middle-school-allana-el-camino-con-un-patio-escolar-viviente/">La Escuela Pacoima Middle School Allana el Camino con un Patio Escolar Viviente</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/21/la-escuela-pacoima-middle-school-allana-el-camino-con-un-patio-escolar-viviente/>
+
+---
+
+## Las Clínicas de Ayuda Financiera Aún se Ofrecen a los Estudiantes Antes de la Fecha Límite de Septiembre
+
+date: 2024-08-22, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/El_sol3A0185CB.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/El_sol3A0185CB.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/El_sol3A0185CB.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/El_sol3A0185CB.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/El_sol3A0185CB.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/El_sol3A0185CB.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/El_sol3A0185CB.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/El_sol3A0185CB.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/El_sol3A0185CB.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/El_sol3A0185CB.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/El_sol3A0185CB.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/El_sol3A0185CB.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los estudiantes de último año de preparatoria y universitarios que necesitan ayuda para solicitar ayuda financiera aún tienen tiempo para obtener asistencia en las clínicas que se llevan a cabo [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/21/las-clinicas-de-ayuda-financiera-aun-se-ofrecen-a-los-estudiantes-antes-de-la-fecha-limite-de-septiembre/">Las Clínicas de Ayuda Financiera Aún se Ofrecen a los Estudiantes Antes de la Fecha Límite de Septiembre</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/21/las-clinicas-de-ayuda-financiera-aun-se-ofrecen-a-los-estudiantes-antes-de-la-fecha-limite-de-septiembre/>
+
+---
+
+## Las Excursiones de TreePeople se Expanden a Ocho Nuevas Ubicaciones en todo el Sur de California
+
+date: 2024-08-22, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="900" height="450" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/image_processing20240814-9-8ebeg9.jpg?fit=900%2C450&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/image_processing20240814-9-8ebeg9.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/image_processing20240814-9-8ebeg9.jpg?resize=300%2C150&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/image_processing20240814-9-8ebeg9.jpg?resize=768%2C384&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/image_processing20240814-9-8ebeg9.jpg?resize=400%2C200&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/image_processing20240814-9-8ebeg9.jpg?resize=706%2C353&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/image_processing20240814-9-8ebeg9.jpg?fit=900%2C450&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Durante 46 años, TreePeople ha brindado a cientos de miles de niños del área de Los Ángeles la oportunidad de aprender sobre la naturaleza de una manera práctica a través [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/21/las-excursiones-de-treepeople-se-expanden-a-ocho-nuevas-ubicaciones-en-todo-el-sur-de-california/">Las Excursiones de TreePeople se Expanden a Ocho Nuevas Ubicaciones en todo el Sur de California</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/21/las-excursiones-de-treepeople-se-expanden-a-ocho-nuevas-ubicaciones-en-todo-el-sur-de-california/>
+
+---
+
+## Horóscopo
+
+date: 2024-08-22, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Hay un trabajo duro involucrado en su próxima empresa, y no es algo que esté esperando con especial [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/21/horoscopo-177/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/21/horoscopo-177/>
+
+---
+
+## EVENTOS Locales – Semana de 22 de agosto, 2024
+
+date: 2024-08-22, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Sabado, Agosto 24 NoHo Noches de Verano &#8211; Coco (Película al Aire Libre) North Hollywood Recreation Center 11455 Magnolia Blvd. North Hollywood 7:30 p.m. – 9:30 p.m. NoHo Summer Nights [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/21/eventos-locales-semana-de-22-de-agosto-2024/">EVENTOS Locales &#8211; Semana de 22 de agosto, 2024</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/21/eventos-locales-semana-de-22-de-agosto-2024/>
+
+---
+
+## El Programa de Educación para Migrantes Ayuda a los Niños de Familias que Trabajan en la Industria Agrícola
+
+date: 2024-08-22, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="826" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/004-scaled-e1724303596285.jpg?fit=826%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/004-scaled-e1724303596285.jpg?w=1600&amp;ssl=1 1600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/004-scaled-e1724303596285.jpg?resize=242%2C300&amp;ssl=1 242w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/004-scaled-e1724303596285.jpg?resize=826%2C1024&amp;ssl=1 826w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/004-scaled-e1724303596285.jpg?resize=768%2C952&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/004-scaled-e1724303596285.jpg?resize=1239%2C1536&amp;ssl=1 1239w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/004-scaled-e1724303596285.jpg?resize=1200%2C1488&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/004-scaled-e1724303596285.jpg?resize=1568%2C1944&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/004-scaled-e1724303596285.jpg?resize=400%2C496&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/004-scaled-e1724303596285.jpg?resize=706%2C875&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/004-scaled-e1724303596285.jpg?fit=826%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los niños con padres que tienen trabajos agrícolas estacionales a menudo enfrentan interrupciones educativas y otros desafíos durante el año escolar, ya que sus familias van y vienen entre diferentes [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/21/el-programa-de-educacion-para-migrantes-ayuda-a-los-ninos-de-familias-que-trabajan-en-la-industria-agricola/">El Programa de Educación para Migrantes Ayuda a los Niños de Familias que Trabajan en la Industria Agrícola</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/21/el-programa-de-educacion-para-migrantes-ayuda-a-los-ninos-de-familias-que-trabajan-en-la-industria-agricola/>
+
+---
+
+## CASA/LA Emite un Llamado Urgente para Voluntarios Defensores para Jóvenes de Crianza Temporal
+
+date: 2024-08-22, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>La organización sin fines de lucro CASA (Defensores Especiales Designados por la Corte) de Los Ángeles (CASA/LA) está buscando urgentemente voluntarios para trabajar individualmente con niños de crianza temporal en [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/21/casa-la-emite-un-llamado-urgente-para-voluntarios-defensores-para-jovenes-de-crianza-temporal/">CASA/LA Emite un Llamado Urgente para Voluntarios Defensores para Jóvenes de Crianza Temporal</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/21/casa-la-emite-un-llamado-urgente-para-voluntarios-defensores-para-jovenes-de-crianza-temporal/>
+
+---
+
+## El Centro Abre un Centro Comunitario Integral para Servicios Familiares en Panorama City
+
+date: 2024-08-22, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240816_173531637-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240816_173531637-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240816_173531637-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240816_173531637-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240816_173531637-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240816_173531637-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240816_173531637-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240816_173531637-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240816_173531637-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240816_173531637-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240816_173531637-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240816_173531637-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240816_173531637-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240816_173531637-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240816_173531637-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240816_173531637-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240816_173531637-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La organización multilingüe El Centro de Amistad celebró recientemente la gran inauguración de un Centro FamilySource en Panorama City para ser un “lugar único” para servicios educativos, sociales y de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/21/el-centro-abre-un-centro-comunitario-integral-para-servicios-familiares-en-panorama-city/">El Centro Abre un Centro Comunitario Integral para Servicios Familiares en Panorama City</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/21/el-centro-abre-un-centro-comunitario-integral-para-servicios-familiares-en-panorama-city/>
+
+---
+
+## El Comandante Irwin Rosenberg fue Honrado por Décadas de Servicio a la Ciudad de San Fernando
+
+date: 2024-08-22, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/L1620636-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/L1620636-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/L1620636-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/L1620636-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/L1620636-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/L1620636-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/L1620636-scaled.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/L1620636-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/L1620636-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/L1620636-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/L1620636-scaled.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/L1620636-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/L1620636-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/L1620636-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/L1620636-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El Comandante Irwin Rosenberg fue honrado por su servicio al Departamento de Policía de San Fernando (SFPD) y a la Ciudad de San Fernando en la reunión del Concejo Municipal [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/21/el-comandante-irwin-rosenberg-fue-honrado-por-decadas-de-servicio-a-la-ciudad-de-san-fernando/">El Comandante Irwin Rosenberg fue Honrado por Décadas de Servicio a la Ciudad de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/21/el-comandante-irwin-rosenberg-fue-honrado-por-decadas-de-servicio-a-la-ciudad-de-san-fernando/>
+
+---
+
+## Jóvenes de Acogida que Comienzan la Universidad Obtenga lo Básico del Dormitorio Gratis de una Organización Sin Fines de Lucro
+
+date: 2024-08-22, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>A medida que los estudiantes se dirigen a las universidades y colegios, puede ser emocionante y abrumador al mismo tiempo, y los jóvenes en hogares de acogida a menudo necesitan [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/21/jovenes-de-acogida-que-comienzan-la-universidad-obtenga-lo-basico-del-dormitorio-gratis-de-una-organizacion-sin-fines-de-lucro/">Jóvenes de Acogida que Comienzan la Universidad Obtenga lo Básico del Dormitorio Gratis de una Organización Sin Fines de Lucro</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/21/jovenes-de-acogida-que-comienzan-la-universidad-obtenga-lo-basico-del-dormitorio-gratis-de-una-organizacion-sin-fines-de-lucro/>
+
+---
+
+## Here’s the war memorial mixed up in OC fraud allegations
+
+date: 2024-08-22, updated: 2024-08-22, from: The LAist
+
+The county says a Huntington Beach nonprofit that received $1 million in funding for a war memorial failed to finish the taxpayer funded project. Here’s what we found when we went out to the site. 
+
+<https://laist.com/news/politics/oc-fraud-allegations-vietnam-war-memorial>
+
+---
+
+## UCLA men’s soccer faces rematch against Loyola Marymount in season opener
+
+date: 2024-08-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+The opportunity for redemption has risen.
+The Bruins outshot the Lions 24-7 in the second round of the 2023 NCAA tournament. Yet, they were dealt a 1-0 shutout and an exit from the postseason. 
+
+<https://dailybruin.com/2024/08/21/ucla-mens-soccer-faces-rematch-against-loyola-marymount-in-season-opener/>
+
+---
+
+## Exploring Your Career Path: Vocational Training Vs. Traditional Degrees
+
+date: 2024-08-22, from: The Sundail (CSUN Student Newspaper)
+
+Photo by Priscilla Du Preez on Unsplash Choosing a career path may be among the most important decisions you&#8217;ll ever make. Often, it narrows down to two main choices: vocational... 
+
+<https://sundial.csun.edu/183877/sundialbrandstudio/sundial-marketplace/exploring-your-career-path-vocational-training-vs-traditional-degrees/>
+
+---
+
+## UCLA men’s soccer prepares for Big Ten with roster changes, exhibition games
+
+date: 2024-08-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+The reigning Pac-12 champions are back on the pitch preparing for the regular season.
+But this time around the Bruins are in unfamiliar territory &#8211; the Big Ten. 
+
+<https://dailybruin.com/2024/08/21/ucla-mens-soccer-prepares-for-big-ten-with-roster-changes-exhibition-games/>
+
+---
+
+## How Tech Startups Can Boost International Finances?
+
+date: 2024-08-21, from: The Sundail (CSUN Student Newspaper)
+
+Immediate Spike integration can be highly advantageous for tech startups looking to improve their foreign financial strategies. This revolutionary technology provides strong capabilities to enhance trading procedures, control risks, and... 
+
+<https://sundial.csun.edu/183873/sundialbrandstudio/sundial-marketplace/how-tech-startups-can-boost-international-finances/>
+
+---
+
+## 8 Steps for Securing Scholarships and Grants
+
+date: 2024-08-21, from: The Sundail (CSUN Student Newspaper)
+
+Image by wayhomestudio on Freepik Securing scholarships and grants can significantly ease the financial burden of higher education. Although numerous public and private resources are available, many students miss out... 
+
+<https://sundial.csun.edu/183875/sundialbrandstudio/sundial-marketplace/8-steps-for-securing-scholarships-and-grants/>
+
+---
+
+## UCLA women’s soccer seeks to lengthen win streak in Cal Poly away game
+
+date: 2024-08-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+A familiar foe lies between the Bruins and a further-extended win streak.
+UCLA women&#8217;s soccer (2-0) is set to face Cal Poly (0-1-1) in its second away game of the season, with kickoff scheduled for Thursday at 7 p.m. 
+
+<https://dailybruin.com/2024/08/21/ucla-womens-soccer-seeks-to-lengthen-win-streak-in-cal-poly-away-game/>
+
+---
+
+## Santa Clarita Invites Poets to Participate in 2025 Sidewalk Poetry Project
+
+date: 2024-08-21, from: City of Santa Clarita
+
+<p>Join Us in Celebrating the Art of Poetry! The City of Santa Clarita is excited to announce the call for entries for the 2025 Sidewalk Poetry Project. This annual initiative invites residents and individuals with connections to Santa Clarita to contribute their short poems for a chance to be featured on the City’s sidewalks. All [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/08/21/santa-clarita-invites-poets-to-participate-in-2025-sidewalk-poetry-project/">Santa Clarita Invites Poets to Participate in 2025 Sidewalk Poetry Project</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/08/21/santa-clarita-invites-poets-to-participate-in-2025-sidewalk-poetry-project/>
+
+---
+
+## Plan to regulate access to online porn in California dies quietly in Legislature
+
+date: 2024-08-21, updated: 2024-08-21, from: The LAist
+
+California’s Senate killed a bill, similar to laws enacted in conservative states, that would require porn sites to verify visitors are adults. 
+
+<https://laist.com/news/politics/plan-to-regulate-access-to-online-porn-in-california-dies-quietly-in-legislature>
+
+---
+
+## 2024 UCLA football position preview: Running backs
+
+date: 2024-08-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+Inching closer to a new era for UCLA football in the Big Ten, Daily Bruin Sports will preview each of the Bruins&#8217; position groups prior to the season&#8217;s official start. 
+
+<https://dailybruin.com/2024/08/21/2024-ucla-football-position-preview-running-backs/>
+
+---
+
+## Rancho Palos Verdes says it's dealing with a much larger and faster moving landslide
+
+date: 2024-08-21, updated: 2024-08-21, from: The LAist
+
+The city report described the recently discovered movement as “a ‘bowl’ within a bigger ‘bowl.’” 
+
+<https://laist.com/news/climate-environment/rancho-palos-verdes-landslide-the-city-changes-its-strategy-to-slow-it-down>
 
 ---
 

@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.34
-updated: 2024-08-21 08:52:29
+updated: 2024-08-22 07:16:56
 ---
 
 # retro computing 2024.34
 
-(date: 2024-08-21 08:52:29)
+(date: 2024-08-22 07:16:56)
+
+---
+
+## b.log 2024/08/21 - Restocking, Larder v0.05, Celebration, Just add fire, Speaking of lunar madness.
+
+date: 2024-08-21, from: Richard Murray's blog
+
+Restocking, Larder v0.05, Celebration, Just add fire, Speaking of lunar madness. 
+
+<https://heyrick.eu/blog/index.php?diary=20240821>
+
+---
+
+## Deepin 23 Offers Wayland Support and New AI Tool
+
+date: 2024-08-21, from: Linux Magazine
+
+<p>Deepin has been considered one of the most beautiful desktop operating systems for a long time and the arrival of version 23 has bolstered that reputation.</p> 
+
+<http://www.linux-magazine.com/Online/News/Deepin-23-Offers-Wayland-Support-and-New-AI-Tool>
 
 ---
 

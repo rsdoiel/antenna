@@ -1,11 +1,237 @@
 ---
 title: columns 2024.34
-updated: 2024-08-21 08:52:24
+updated: 2024-08-22 07:16:51
 ---
 
 # columns 2024.34
 
-(date: 2024-08-21 08:52:24)
+(date: 2024-08-22 07:16:51)
+
+---
+
+## Why I feel bad about Biden
+
+date: 2024-08-22, from: Dave Winer's Scripting News
+
+<p>Podcast: <a href="https://s3.amazonaws.com/scripting.com/2024/08/22/whyIFeelBadAboutWhatHappenedToPresidentBidenInAPersonalWay.m4a">17 minutes</a>.</p>
+<p>Note: You can skip the first five minutes, it's a long preamble on a different subject. I left it in because it's interesting imho. </p>
+<p>It's possible that what happened to Joe Biden in the debate is like something that happened to me almost ten years ago when I was turning 60. I tell the story in this podcast. It's still possible he was the best choice to go against Trump. We'll know soon enough. But there's something to learn here. No one wants their life to be over. No one wants to be thanked. They want you to let them keep going. The thing is that all through life people say you can't do what you then go on to do. It happens over and over. One day, after a life of accomplishment, you realize everyone refers to you in the past tense, but you're still here, you want to keep doing the stuff you do so well. But they won't let you. That's why I feel bad about what happened with President Biden, because I've had the experience myself. Anyway what's done is done, we all have to get behind soon-to-be President Harris. And stand behind her as she is attacked, and they try to get rid of her. </p>
+<p>Anyway, the substance of this podcast, which I recorded yesterday, doesn't start until 5:25. Up until then it's a rambling story about Fox News and how a little truth slipped out when they covered the assassination attempt on Trump a few weeks ago. You can skip over that part if you don't find it interesting, but I hope you do listen to the part when I had an experience that may have been like Biden's at the debate, and how it was probably just a panic attack -- these things happen -- our candidates are people, and they have bodies that do strange things sometimes. No matter what I feel for Biden and that's the story I wanted to tell here. </p>
+<p>Thanks for listening. <span class="spOldSchoolEmoji">😄</span></p>
+ 
+
+<http://scripting.com/2024/08/22/133614.html?title=whyIFeelBadAboutBiden>
+
+---
+
+## Andorra
+
+date: 2024-08-22, from: mrusme blog
+
+"Andorra, officially the Principality of Andorra, is a sovereign landlocked
+country on the Iberian Peninsula, in the eastern Pyrenees, bordered by France
+to the north and Spain to the south. Believed to have been created by
+Charlemagne, Andorra was ruled by the count of Urgell until 988, when it was
+transferred to the Roman Catholic Diocese of Urgell. The present principality
+was formed by a charter in 1278. It is currently headed by two co-princes: the
+bishop of Urgell in Catalonia, Spain and the president of France. Its capital
+and largest city is Andorra la Vella." 
+
+<https://xn--gckvb8fzb.com/travel/andorra/>
+
+---
+
+## From Commodity to Asset: The Truth Behind  Rising House Prices
+
+date: 2024-08-22, from: Economics from the Top-Down
+
+<p><img width="150" height="150" src="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/08/hpi_cover.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/08/hpi_cover.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/08/hpi_cover.png?resize=450%2C450&amp;ssl=1 450w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/08/hpi_cover.png?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/08/hpi_cover.png?resize=550%2C550&amp;ssl=1 550w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/08/hpi_cover.png?zoom=2&amp;resize=150%2C150&amp;ssl=1 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="9160" data-permalink="https://economicsfromthetopdown.com/2024/08/22/from-commodity-to-asset-the-truth-behind-rising-house-prices/hpi_cover/" data-orig-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/08/hpi_cover.png?fit=3000%2C2400&amp;ssl=1" data-orig-size="3000,2400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="hpi_cover" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/08/hpi_cover.png?fit=300%2C240&amp;ssl=1" data-large-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/08/hpi_cover.png?fit=723%2C578&amp;ssl=1" tabindex="0" role="button" />Houses are getting more expensive. In this post, I look at the reasons why.</p>
+<p>The post <a href="https://economicsfromthetopdown.com/2024/08/22/from-commodity-to-asset-the-truth-behind-rising-house-prices/">From Commodity to Asset: The Truth Behind  Rising House Prices</a> appeared first on <a href="https://economicsfromthetopdown.com">Economics from the Top Down</a>.</p>
+ 
+
+<https://economicsfromthetopdown.com/2024/08/22/from-commodity-to-asset-the-truth-behind-rising-house-prices/>
+
+---
+
+## August 21, 2024 
+
+date: 2024-08-22, from: Heather Cox Richardson blog
+
+In 1974, music writer Jon Landau saw a relatively unknown musician in Cambridge, Massachusetts, and wrote for an alternative paper: "Last Thursday, at the Harvard Square theater, I saw rock'n'roll past flash before my eyes. 
+
+<https://heathercoxrichardson.substack.com/p/august-21-2024>
+
+---
+
+## The president we need
+
+date: 2024-08-22, from: Robert Reich's blog
+
+74 days to make it happen 
+
+<https://robertreich.substack.com/p/the-nomination-of-kamala-harris-for>
+
+---
+
+##  On the genius design of Super Mario Bros&#8217; World 1-1, which teaches... 
+
+date: 2024-08-22, updated: 2024-08-22, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045144-on-the-genius-design-of>
+
+---
+
+##  Sacred Sites. &#8220;From Machu Picchu to the Louvre — the book journeys... 
+
+date: 2024-08-22, updated: 2024-08-22, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045154-sacred-sites-from-machu-p>
+
+---
+
+##  Isometric Drawings of Japanese Bathhouses and Cafes 
+
+date: 2024-08-22, updated: 2024-08-22, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/isometric-drawings-of-japanese-bathhouses-and-cafes>
+
+---
+
+## ‘Monument Valley 3’ Will Be a Netflix Game — Perhaps a Dead Canary in the Apple Arcade Coal Mine
+
+date: 2024-08-21, updated: 2024-08-21, from: Daring Fireball
+
+ 
+
+<https://sixcolors.com/link/2024/08/monument-valley-3-will-be-a-netflix-game/>
+
+---
+
+## Restoring species where they came from
+
+date: 2024-08-21, from: Tracy Durnell Blog
+
+Two cool ecological restoration projects going on in Britain: Wildflower meadow restoration by Chris + Young Storks Begin New Life at Knepp (Knepp Castle Estate) This piece had me pondering the difference between rewilding and decolonizing. My understanding, without looking it up, is that there could be overlap, but rewilding can happen without decolonizing if [&#8230;] 
+
+<https://tracydurnell.com/2024/08/21/restoring-species-where-they-came-from/>
+
+---
+
+## Field Notes, The Exabyte Edition
+
+date: 2024-08-21, from: Om Malik blog
+
+On My Mind Reminder: After decades of predicting and writing about the future, we end up looking either geniuses or idiots. This 1995 Newsweek article brushing off the internet as “useless” shows why it’s better to stay hopeful about the future and what it might bring. There will always be doubters who question what’s possible. &#8230; 
+
+<https://om.co/2024/08/21/field-notes-the-exabyte-edition/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-21, from: Dave Winer's Scripting News)
+
+Speaking of Michelle Obama, she made the <a href="https://www.pbs.org/newshour/politics/watch-whos-going-to-tell-trump-that-hes-campaigning-for-a-black-job-michelle-obama-asks">most powerful political statement</a> I've ever heard. "Who's going to tell Trump the job he's currently seeking might just be one of those black jobs." The way she said it made you think. Here we are, and one way or another, we <i>have</i> changed. America in 2024 is vastly different from the American of 2008. America is moving both toward self-acceptance and away from it at the same time. But here in the half of America my feet are planted in, we realize that there isn't a black America and a white America, there's just one America. We finally have come to accept ourselves as we have been all along. 
+
+<http://scripting.com/2024/08/21.html#a195852>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-21, from: Dave Winer's Scripting News)
+
+Thinking about what <a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3l2alzdfd2w2j">Michelle Obama said</a> last night in her fantastic DNC speech. “We don’t get to change the rules so we always win.” She was talking about Trump, but it also <a href="https://this.how/googleAndHttp/">applies to Google</a>. There should be opportunities for independent developers to create for the web without having big tech companies be our gatekeepers. The web is a public resource. Of course big companies will take whatever isn't nailed down. It's way past time to protect the open web. 
+
+<http://scripting.com/2024/08/21.html#a195206>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-21, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/08/21/pocketCastsLogo.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I use <a href="https://pocketcasts.com/">PocketCasts</a> on my Android phone as my main podcast-listening app. I also have a website, <a href="http://dave.podcatch.com/">dave.podcatch.com</a>, that has the latest episodes from the podcasts I follow. I would love to hook up my <a href="http://scripting.com/publicfolder/feedland/subscriptionLists/dwPocketcastSubscriptions.opml">subscriptions</a> from PocketCasts to dave.podcatch.com, so that I could add to the website from my freaking phone. Make it really easy for me to pitch a great podcast feed to my friends. But I can only export my feeds, I can't create a dynamic link between the two. If I ran a popular podcatch app like Pocketcasts, I would open up my outbound subscription list, and vie to be the default place people come to subscribe to podcasts. If a few of my users were geeks and visionaries, they could start telling other vendors they should hook up to my source lists, so they can use Pocketcasts to subscribe. One place to subscribe is way better than many. If you think things like that can't happen, think again. How did you all come to use <a href="http://opml.org/">OPML</a> for your subscription lists? It's because someone volunteered to go first, and the users of that product demanded that other products support the format. It still amazes me that there's an interchange format there, but we've barely begun to tap into the power there. 
+
+<http://scripting.com/2024/08/21.html#a193738>
+
+---
+
+## How Kamala intends to bring prices down
+
+date: 2024-08-21, from: Robert Reich's blog
+
+Not with price controls but with more competition 
+
+<https://robertreich.substack.com/p/how-kamala-intends-to-bring-prices>
+
+---
+
+##  Danny MacAskill Does a Wheelie 
+
+date: 2024-08-21, updated: 2024-08-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/danny-macaskill-does-a-wheelie>
+
+---
+
+## August 20, 2024
+
+date: 2024-08-21, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-20-2024-b7d>
+
+---
+
+## For photos collages & crops, try Series
+
+date: 2024-08-21, from: Om Malik blog
+
+When I was looking to crop a landscape photo into a panorama, I discovered an app called Series. It’s a collage application that divides images for posting on Threads, Instagram’s microblogging platform. You can also use it to produce photos in sizes suitable for Twitter, Instagram, or other social media sites.  On Threads, users can create a photo carousel. However, when images are precisely divided, users can reconstruct a complete wide-angle view that fills the screen. The panoramic effect becomes apparent as users move through the photos, producing &#8230; 
+
+<https://om.co/2024/08/21/for-photos-collages-crops-try-series/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-21, from: Dave Winer's Scripting News)
+
+My linkblog posts are once again <a href="https://linkblog3.wordpress.com/">flowing to WordPress</a>. I had to generate a special password for this app because of <a href="https://en.wikipedia.org/wiki/Multi-factor_authentication">2FA</a>. 
+
+<http://scripting.com/2024/08/21.html#a175501>
+
+---
+
+##  The life-changing magic of being in the groove. &#8220;Scientists have long known... 
+
+date: 2024-08-21, updated: 2024-08-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045152-the-life-changing-magic-o>
+
+---
+
+## Joe Biden Defines ‘Patriot’
+
+date: 2024-08-21, updated: 2024-08-21, from: Daring Fireball
+
+ 
+
+<https://www.nytimes.com/2024/08/20/us/politics/biden-convention.html>
+
+---
+
+##  &#8220;Third Things&#8221; Can Make Communication Easier 
+
+date: 2024-08-21, updated: 2024-08-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/third-things-can-make-communication-easier>
 
 ---
 
@@ -540,6 +766,16 @@ I feel that <em>A Song of Ice and Fire</em> attempted to do this but the result 
 Note: I had a quote here that <a href="https://www.threads.net/@actor_keanureeves_59/post/C-2Xy0mtOk4">appeared</a> to be from actor <a href="https://en.wikipedia.org/wiki/Keanu_Reeves">Keanu Reeves</a>. It was a good sentiment, but it apparently was not from Reeves. Thanks to <a href="https://mastodon.social/@andypiper@macaw.social/112995751255063774">Andy Piper</a> for catching this. Here's the quote. "If you see someone falling behind, walk beside them. If you see someone being ignored, find a way to include them. Always remind people of their worth. One small act could mean the world to them." 
 
 <http://scripting.com/2024/08/19.html#a010710>
+
+---
+
+## [Sponsor] 1Password: The Infinite Loop of Security
+
+date: 2024-08-19, updated: 2024-08-19, from: Daring Fireball
+
+ 
+
+<https://1password.com/daringfireball>
 
 ---
 

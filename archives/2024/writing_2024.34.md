@@ -1,11 +1,47 @@
 ---
 title: writing 2024.34
-updated: 2024-08-21 08:52:25
+updated: 2024-08-22 07:16:52
 ---
 
 # writing 2024.34
 
-(date: 2024-08-21 08:52:25)
+(date: 2024-08-22 07:16:52)
+
+---
+
+## Science Fiction Exhibit at USC Fisher Museum of Art
+
+date: 2024-08-21, from: Locus Magazine
+
+<p>&#160;</p>
+<p></p>
+<p>Sci-fi, Magick, Queer L.A.: Sexual Science and the Imagi-Nation, a new science fiction exhibit, opens August 22, 2024 at the USC Fisher Museum of Art in Los Angeles, CA.</p>
+<p>The exhibit focuses on:</p>
+<p>&#8230;Los Angeles from the late 1930s through 1960s and looks both forward and backward to follow the lives of writers, publishers, and early sci-fi enthusiasts, including progressive communities such as the LA Science Fantasy Society, the  <a href="https://locusmag.com/2024/08/science-fiction-exhibit-at-usc-fisher-museum-of-art/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/science-fiction-exhibit-at-usc-fisher-museum-of-art/>
+
+---
+
+## 2024 Indiana Authors Award Winners
+
+date: 2024-08-21, from: Locus Magazine
+
+<p><strong></strong></p>
+<p>Tess Gunty&#8217;s <strong>The Rabbit Hutch </strong>(Knopf) has won the Fiction category of the 2024 Indiana Author Awards. <strong>Unfadeable</strong> by Maurice Broaddus (Katherine Tegen) won in the Middle Grade category. The awards &#8220;celebrate the best books by Indiana authors written in eight different categories and published during the previous two years.&#8221;</p>
+<p>Winners are chosen by a panel of judges, including &#8220;former winners, writers, educators, scholars, local bookstore owners and librarians. Each  <a href="https://locusmag.com/2024/08/2024-indiana-authors-award-winners/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/2024-indiana-authors-award-winners/>
+
+---
+
+## 📋 Assistants' Advice to Showrunners
+
+date: 2024-08-21, from: Interesting, a blog on writing
+
+Like Martin Luther's Ninety-Five Theses, but punchier. 
+
+<https://inneresting.substack.com/p/assistants-advice-to-showrunners>
 
 ---
 
