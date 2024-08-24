@@ -1,11 +1,249 @@
 ---
 title: home 2024.34
-updated: 2024-08-22 07:16:54
+updated: 2024-08-24 08:51:05
 ---
 
 # home 2024.34
 
-(date: 2024-08-22 07:16:54)
+(date: 2024-08-24 08:51:05)
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-08-23, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
+
+---
+
+## Friday Links: August 23, 2024
+
+date: 2024-08-23, from: California Native Plants Society
+
+<p>This Friday Links has it all: wildlife crossings, mud, plant-protecting dogs, thirsty bees, a plastic desert tortoise, so check it out!</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-august-23-2024-39970">Friday Links: August 23, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-august-23-2024-39970>
+
+---
+
+## How to Plant and Grow Garlic: The Ultimate Guide
+
+date: 2024-08-23, from: Homestead and Chil
+
+<p>Garlic is fun and easy to grow in any zone! Come learn everything you need to know to grow garlic at home, including when and how to plant garlic cloves, tips for soil prep, containers, mulch, fertilizer and more.</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-grow-garlic/">How to Plant and Grow Garlic: The Ultimate Guide</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<https://homesteadandchill.com/how-to-grow-garlic/>
+
+---
+
+## If Earth Tones Are Your Vibe, This $2.9M Salt Lake City Home Will Rock Your World
+
+date: 2024-08-23, from: Dwell
+
+A minimalist renovation remade the 1970s property with soothing interiors finished in light wood, concrete and stone. 
+
+<https://www.dwell.com/article/hawk-house-minimalist-renovation-salt-lake-city-real-estate-94950352>
+
+---
+
+## Before & After: An Architect Does It All for a 1967 Split-Level in Bozeman
+
+date: 2024-08-23, from: Dwell
+
+Open Studio Collective founder Allison Bryan was both architect and builder on her dream home, infusing the gut job with playful curves, abundant light and textured surfaces. 
+
+<https://www.dwell.com/article/before-and-after-an-architect-does-it-all-for-a-1967-split-level-in-bozeman-9c482cfe>
+
+---
+
+## Leaving a Legacy: An Inside Look at DIY Influencer Kyle Ortiz’s Home
+
+date: 2024-08-23, from: Family Handyman Blog
+
+Ready to be inspired? Family Handyman gets an inside look at how influencer Kyle Ortiz built his dream home one DIY project at a time.  
+
+<https://www.familyhandyman.com/article/diy-influencer-kyle-ortiz-home-tour/>
+
+---
+
+## How to Identify and Manage Common Sunflower Diseases
+
+date: 2024-08-23, from: The Gardener's Path
+
+<p>Bold and beautiful, sunflowers are a vibrant addition to the summer garden. There are a number of pathogens that can damage your plants and cause stunted growth, wilting, discolored foliage, or lack of flowers. Learn about seven common sunflower diseases and how to manage them in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/sunflower-diseases/">How to Identify and Manage Common Sunflower Diseases</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/flowers/sunflower-diseases/>
+
+---
+
+## 46,000 DeWALT Mowers Recalled for Laceration Risk — See If You’re Affected
+
+date: 2024-08-23, from: Family Handyman Blog
+
+Thousands of DeWALT mowers are being recalled because of a safety hazard. Find out if you're impacted here. 
+
+<https://www.familyhandyman.com/article/stanley-black-decker-dewalt-mowers-recall/>
+
+---
+
+## How To Install a Mailbox
+
+date: 2024-08-23, from: Family Handyman Blog
+
+<p>Master mailbox installation! Our step-by-step tutorial teaches you how to install a mailbox correctly, ensuring durability and compliance.</p> 
+
+<https://www.familyhandyman.com/project/how-to-install-a-mailbox/>
+
+---
+
+## How to Build a Privacy Fence
+
+date: 2024-08-23, from: Family Handyman Blog
+
+This article will help you avoid major pitfalls and costly mistakes when you're planning and installing a privacy fence. We'll show you the tricks and techniques that pros use to get a beautiful fence that'll meet your needs and fit your landscape. These ideas will save you a ton of time, headaches and money by ensuring your DIY fence is done right the first time.  
+
+<https://www.familyhandyman.com/list/how-to-build-a-privacy-fence/>
+
+---
+
+## What Is Boucle Furniture? The New Trend, and What It Means for Your Home
+
+date: 2024-08-23, from: Family Handyman Blog
+
+Boucle furniture is cozy, inviting, and might just be the perfect addition to your living space. 
+
+<https://www.familyhandyman.com/article/boucle/>
+
+---
+
+## One Night in a Midcentury Motor Lodge Turned Boutique Beach Hotel in Galveston, Texas
+
+date: 2024-08-23, from: Dwell
+
+Hotel Lucine channels the Instagram-ready, Palms Springs-style look you’d expect from a 1960s motel makeover in the age of Instagram. I went to see how the influencer-ready getaway weighs up IRL. 
+
+<https://www.dwell.com/article/one-night-in-hotel-lucine-a-midcentury-motor-lodge-turned-boutique-beach-hotel-in-galveston-texas-1d8ae1cb>
+
+---
+
+## These Are the Best Carts and Totes to Bring to the Farmers Market, According to Sunset Editors
+
+date: 2024-08-23, from: Sunset Magazine - Living in the West
+
+These best shopping carts and totes are perfect for errands, whether you're at the farmers market, beach, or on a camping trip. 
+
+<https://www.sunset.com/lifestyle/shopping/best-shopping-carts>
+
+---
+
+## This Reimagined Ranch House by Sunset’s Favorite Architect Is Everything We Love About Indoor-Outdoor Living
+
+date: 2024-08-23, from: Sunset Magazine - Living in the West
+
+A historic Cliff May house in Coronado was reimagined for modern-day living for a family of six, with beautiful landscape design. 
+
+<https://www.sunset.com/home-garden/home-tours/orca-cliff-may-coronado-house>
+
+---
+
+## One Night in Faro, a Modernist Haven in Southern Europe
+
+date: 2024-08-22, from: Dwell
+
+For an annual architecture celebration, I explored what some call "the Palm Springs of Portugal" and stayed at a converted hotel originally designed by one of the architects who shaped the city’s look. 
+
+<https://www.dwell.com/article/one-night-in-faro-a-modernist-haven-in-southern-europe-9ca753ac>
+
+---
+
+## How to Fix a Noisy Vent Hood Damper
+
+date: 2024-08-22, from: Family Handyman Blog
+
+If squeaking or clanking is interrupting your cooking, there's probably something awry inside your vent hood. Here's how to troubleshoot and fix it. 
+
+<https://www.familyhandyman.com/article/how-to-fix-a-vent-hood-damper/>
+
+---
+
+## Pairing a Heat Pump with Furnace: What to Know About Dual-Fuel Systems
+
+date: 2024-08-22, from: Family Handyman Blog
+
+This double-duty unit cools and heats your home for less! 
+
+<https://www.familyhandyman.com/article/heat-pump-furnace-dual-fuel-system/>
+
+---
+
+## 8 Tips to Make Concrete Demolition Just a Little Easier
+
+date: 2024-08-22, from: Family Handyman Blog
+
+Save time and energy when breaking up a concrete slab or steps with these helpful tips and advice.  
+
+<https://www.familyhandyman.com/list/concrete-demolition-tips/>
+
+---
+
+## The Newest Trader Joe’s Product Lineup Features the Best Snacks
+
+date: 2024-08-22, from: Sunset Magazine - Living in the West
+
+Trader Joe's new products for August feature plenty of snacks for beach days, picnics, road trips, and more. 
+
+<https://www.sunset.com/food-wine/trader-joes-new-products-august-2024>
+
+---
+
+## Vintage Vibes Are on Full Display in This $714K Midcentury Gem
+
+date: 2024-08-22, from: Dwell
+
+Nestled in Elkins Park, Pennsylvania, the 3,454-square-foot home has glass bricks, colorful bath fixtures, and a bright yellow breakfast banquet. 
+
+<https://www.dwell.com/article/small-house-thalhimer-and-weitz-midcentury-elkins-park-pennsylvania-real-estate-d524e60b>
+
+---
+
+## 21 of the Best Red Succulent Plants
+
+date: 2024-08-22, from: The Gardener's Path
+
+<p>Red succulents come in a variety of hues, from bright crimson to deep burgundy. These plants are a visual treat whether you’re looking for a houseplant for a windowsill, or a drought-tolerant landscaping plant for the yard. Learn about 21 of the most beautiful red succulents in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/best-red-succulents/">21 of the Best Red Succulent Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/succulents/best-red-succulents/>
+
+---
+
+## What To Do When Water Is Coming Out of Your Dishwasher Air Gap
+
+date: 2024-08-22, from: Family Handyman Blog
+
+ A foul smell or dirty water squirting out of the air gap vent holes indicates a clog inside the air gap. The fix is a simple cleaning with household disinfectant. 
+
+<https://www.familyhandyman.com/article/how-to-fix-dishwasher-air-gap/>
+
+---
+
+## How To Avoid Getting Scammed by Contractors After Natural Disasters
+
+date: 2024-08-22, from: Family Handyman Blog
+
+Avoid getting duped out of your hard-earned money by a home repair scam. 
+
+<https://www.familyhandyman.com/article/contractor-scams/>
 
 ---
 
@@ -19,6 +257,16 @@ Despite the association with crappy rentals and your grandmother's outdated kitc
 
 ---
 
+## 5 Smart Ways to Get the Whole Family Organized for Back-to-School Season
+
+date: 2024-08-22, from: Sunset Magazine - Living in the West
+
+It's hard to believe, but back-to-school season is here. A pro organizer shares her tips for getting the whole family ready. 
+
+<https://www.sunset.com/lifestyle/family/back-to-school-organizing-tips>
+
+---
+
 ## These Homemade Pizza Recipes Will Make You Forget About Delivery
 
 date: 2024-08-22, from: Sunset Magazine - Living in the West
@@ -26,16 +274,6 @@ date: 2024-08-22, from: Sunset Magazine - Living in the West
 Make perfect homemade pizza with recipes ranging from classic Margherita pizza to elote pizza to carbonara pizza and more. 
 
 <https://www.sunset.com/food-wine/kitchen-assistant/easy-homemade-pizza-recipes>
-
----
-
-## These Are the Best Carts and Totes to Bring to the Farmers Market, According to Sunset Editors
-
-date: 2024-08-21, from: Sunset Magazine - Living in the West
-
-These best shopping carts and totes are perfect for errands, whether you're at the farmers market, beach, or on a camping trip. 
-
-<https://www.sunset.com/lifestyle/shopping/best-shopping-carts>
 
 ---
 
@@ -59,7 +297,7 @@ We put the Milwaukee Laser Measure to the test to determine if its price tag is 
 
 ---
 
-## Bring the Drama (and the Heat) with Behr’s 2025 Color of the Year, Rumors
+## Nostalgia Gets an Upgrade with Behr’s 2025 Color of the Year, Rumors
 
 date: 2024-08-21, from: Family Handyman Blog
 
@@ -141,26 +379,6 @@ Add "hire an architect" and "scour Facebook Marketplace" to the list of unexpect
 
 ---
 
-## 5 Smart Ways to Get the Whole Family Organized for Back-to-School Season
-
-date: 2024-08-21, from: Sunset Magazine - Living in the West
-
-It's hard to believe, but back-to-school season is here. A pro organizer shares her tips for getting the whole family ready. 
-
-<https://www.sunset.com/lifestyle/family/back-to-school-organizing-tips>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-08-21, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
-
----
-
 ## Democrats Make Housing Policy Part of Their Campaign-Year Pitch
 
 date: 2024-08-20, from: Dwell
@@ -211,6 +429,16 @@ date: 2024-08-20, from: Sunset Magazine - Living in the West
 A guest bathroom in a San Francisco was recently remodeled, but the new owners wanted to give it personality. See how they did it. 
 
 <https://www.sunset.com/home-garden/home-tours/sf-guest-bathroom-before-after>
+
+---
+
+## This Might Be the Most Stylish Way to Hide an Ugly Air Conditioning Unit
+
+date: 2024-08-20, from: Sunset Magazine - Living in the West
+
+Air conditioning is a necessity, but a unit can look unsightly. A designer shares her tips for hiding an AC unit in. astylish way. 
+
+<https://www.sunset.com/home-garden/design/how-to-hide-ac-unit>
 
 ---
 

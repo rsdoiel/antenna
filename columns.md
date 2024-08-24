@@ -1,11 +1,453 @@
 ---
 title: columns 2024.34
-updated: 2024-08-22 07:16:51
+updated: 2024-08-24 08:51:02
 ---
 
 # columns 2024.34
 
-(date: 2024-08-22 07:16:51)
+(date: 2024-08-24 08:51:02)
+
+---
+
+## Election Countdown, 74 Days to Go: Thirteen Ways of Looking at a Convention.
+
+date: 2024-08-23, from: James Fallows, Substack
+
+With Roman numerals thanks to Wallace Stevens, and content via the DNC. 
+
+<https://fallows.substack.com/p/election-countdown-74-days-to-go>
+
+---
+
+## 2024-08-19 Something new: intrigue
+
+date: 2024-08-23, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-19-something-new-intrigue">2024-08-19 Something new: intrigue</h1>
+
+<p>A while ago, <a class="account" href="https://ttrpg-hangout.social/@enfors" title="@enfors@ttrpg-hangout.social">@enfors</a> said he wanted his sandbox generator supplement to have something special.
+I wasn&rsquo;t exactly sure what he was thinking of, but I started thinking about the things that I feel are under-explored.</p>
+
+<p>A while ago, for example, I wondered: What would be the simplest game that emphasises how many friends you make, that rewards the size of the community you build?
+Back in 2016 I wrote a game called <a href="2016-08-19_Romantic_Fantasy">Best Friends</a> that I never used.
+It was <a href="2019-10-10_Non-adventure_games%3F">still an adventure game</a>.
+Basically, replace your &ldquo;level&rdquo; with the number of friends you have.
+Something like that.</p>
+
+<p>But that still doesn&rsquo;t get into really new territory.
+Something I would like to see is a system for how to run an intrigue as a party – including everybody at the table, for all the classes and skill profiles.
+I feel that <em>A Song of Ice and Fire</em> attempted to do this but the result wasn’t great, at least at my table.</p>
+
+<p>Quoting my past self:</p>
+
+<blockquote>
+<p>I’m also not too happy with A Song of Ice and Fire. We’ve only played three times, so I’m willing to give it more time. When I ran one of the sessions I basically split the party to the max since since all characters are so diverse. There is no D&amp;D like party and that also requires me to rethink my adventure design. – <a href="2010-04-08_Spring">2010-04-08 Spring</a></p>
+
+<p>I can always switch into a movie director stance, go around the table, point at players, “now you!” and after a bit when the exchange happened and a die was maybe cast, “as we wait for that, we cut to…” and soon enough “in the mean time…” – and I do this aggressively, in small time slots. This results in a somewhat military style of pointing at people to let them know that now is their turn, while simultaneously waving at others to hold their thoughts, or maybe cutting talkative players off when they’re running too long. It’s weird, but when there’s a lot of players, or when there’s no party play to return to, it works well enough. We’ve made these kinds of mistakes in games where there are characters that are well suited for fighting and others that are not, with their players trying to solve problems by fighting, and players do not. This happened to me when I ran a one-shot of <em>A Song of Ice and Fire</em>. It worked for a session, but it was exhausting and I don’t want to claim that it’s a good solution. It was simply a short term solution that worked, for me. Next time, however, make sure players create characters that will adventure together. – <a href="2021-02-27_Cohesion">2021-02-27 Cohesion</a></p>
+</blockquote>
+
+<p>Perhaps the split into combat and intrigue that the game introduced wasn&rsquo;t good game design because it made sense from the perspective of emulating the books but it didn&rsquo;t make sense from the perspective of some people wanting to play a game together. Or maybe it just didn&rsquo;t fit my expectations of what it means to play together. Or maybe we just missed the implied recommendation to focus on either combat or intrigue and everybody having two characters, one for each domain. Or maybe just run either a combat campaign or an intrigue campaign.</p>
+
+<p>So what I&rsquo;m looking for is a way to get intrigue results, using procedures like we do for combat or exploration, for dungeons or the wilderness. The goal is to bring about a change in leadership of a town, a gang, a castle, an army unit, or to succeed in an act of sabotage, to incite a rebellion – things that are either hand-waved or the party is hired for the dirty work while the non-player characters are the politicians and rabble-rousers. I know this can work. It&rsquo;s OK for the party to do the dirty work, to assassinate a tyrant and the non-player characters then taking the throne and similar things, but I want to go further. I want to involve all the players at the table. I want the players to think about the logistics of war, the organising and preparations of revolutions, the intricacies of marriage politics.</p>
+
+<p>What if B/X D&amp;D went levels 1–3 is for dungeons, 4–6 is for the wilderness and 7–9 is <em>for politics</em>. Doesn&rsquo;t that sound fantastic? What sort of rules would you find in that third book? You would not get to name level by being a colonizer and clearing the land but by taking over an existing position of power – through intrigue. Oust the abbot, kick out the bishop, marry into the baron&rsquo;s family, take over the guild. With the help of your friends. Without resorting to combat, but with dice rolling.</p>
+
+<p>The dice rolling and the procedures are important to me because otherwise it all goes in a direction I don’t like: <a href="2014-08-21_No_Dice">the referee decides everything and that is exhausting</a>.</p>
+
+<p>Not something like Burning Wheel&rsquo;s Duel of Wits but something like social combat for Fate games, like the <a href="social-combat">social combat system in Diaspora</a>, for example. Note <a class="account" href="https://dice.camp/@bradjmurray" title="@bradjmurray@dice.camp">@bradjmurray</a>&rsquo;s most recent take on those rules: <a href="https://vscadotblog.wordpress.com/2020/02/20/social-combat-in-diaspora/">social combat in diaspora</a>.</p>
+
+<p>This space deserves more attention.</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p>
+
+<p><strong>2024-08-20</strong>. I find that urban adventures suffer from the same problem. If it&rsquo;s just two or three buildings and those act like dungeons, my games work. If it&rsquo;s just social encounters that can be resolved with reaction rolls, my games work. But everything else in an urban environment seems to be politics, to me. And I have no good procedures to resolve those. So if anybody reading this is thinking about writing a blog post on the topic, I&rsquo;d love to read it.</p>
+
+<p><strong>2024-08-23</strong>. I had forgotten about <a href="2023-11-19-building-blocks">2023-11-19 Campaign building blocks</a> but I’d love starting with a list like that. Lists of dangers, lists of means, lists of procedures, lists of goals.</p> 
+
+<https://alexschroeder.ch/view/2024-08-19-rpg-intrigue>
+
+---
+
+## Friday Squid Blogging: Self-Healing Materials from Squid Teeth
+
+date: 2024-08-23, updated: 2024-08-23, from: Bruce Schneier blog
+
+<p>Making self-healing materials <a href="https://theconversation.com/squid-have-tiny-teeth-in-their-suckers-scientists-could-use-their-unique-properties-to-make-self-healing-materials-227013">based on</a> the teeth in squid suckers.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/08/friday-squid-blogging-self-healing-materials-from-squid-teeth.html>
+
+---
+
+## August 22, 2024
+
+date: 2024-08-23, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-22-2024-47a>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-23, from: Dave Winer's Scripting News)
+
+This is how I explained what sidebar art is: There's a certain kind of art I need to create with you. I call it "sidebar art" -- they are images between 75 and 135 pixels wide. The content is on a transparent background. They are designed to fit in the right margin of my blog at scripting.com. Please remember this definition, so you can help me create new sidebar art. 
+
+<http://scripting.com/2024/08/23.html#a191147>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-23, from: Dave Winer's Scripting News)
+
+I'm trying to teach ChatGPT how to do sidebar art. So far, it's not a great student. But I have hope. My instructions for the image in the post in the sidebar for the previous post: "e pluribus unum" is the motto of the United States. Out of many one. I would like a simple picture of an eagle with this motto over its head, in the same style it is in on the back of a quarter coin. 
+
+<http://scripting.com/2024/08/23.html#a190941>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-23, from: Dave Winer's Scripting News)
+
+No more shaming people for being who they are. 
+
+<http://scripting.com/2024/08/23.html#a190923>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-23, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/08/23/ePluribusUnum.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I just realized something else -- there isn't a female America and a male America. What made me realize it is how natural the idea of <i>President Kamala</i> feels. Men and women are different, just like blacks and whites are different (it couldn't be otherwise) but we are all Americans, and further, taken together we all <i>are</i> America. All of this sprung from that <a href="https://www.yahoo.com/video/2012-05-24-how-red-and-blue-states-split-on-green-we-spend-differently.html">Obama quote</a> in his 2004 convention speech (which I was lucky to be present for, that was the year they welcomed bloggers). It's the one country that's the Union of all of us and we are United. 
+
+<http://scripting.com/2024/08/23.html#a184047>
+
+---
+
+## Miscellany № 103: calculators!
+
+date: 2024-08-23, from: Shady Characters blog
+
+<p>Having dispatched <a href="https://shadycharacters.co.uk/2024/06/miscellany-101/">punctuation</a> and <a href="https://shadycharacters.co.uk/2024/07/miscellany-102-books/">book news</a>, we’re on to pocket calculators! Incredibly, half a century or more after their appearance, there is <em>still</em> news to be had on the subject.</p>
+<hr>
+<p>In the introduction to <cite>Empire of the Sum</cite>, I mention that like some other animals, ravens and other corvids are known to be able to count. Not only that, but they understand the concept of zero, which is something that humans struggled with for quite some time.<a class="bibcite" id="bibcite_Kirschhock2024" href="#bibshow_Kirschhock2024" title="
+  Kirschhock, Maximilian E., Helen M. Ditz, and Andreas Nieder. “Behavioral and Neuronal Representation of Numerosity Zero in the Crow”. Journal of Neuroscience 41, no. 22 (June 2, 2021): 4889-4896. https://doi.org/10.1523/JNEUROSCI.0090-21.2021.
+" data-version="1">1</a> Now, though, a study in <cite>Science</cite> shows that not only can crows count, they can count <em>out loud</em>. In the words of the paper’s authors,</p><a class="more-link" href="https://shadycharacters.co.uk/2024/08/miscellany-103-calculators/">Read more →</a> 
+
+<https://shadycharacters.co.uk/2024/08/miscellany-103-calculators/>
+
+---
+
+## She is perfect
+
+date: 2024-08-23, from: Dave Winer's Scripting News
+
+<p>VP Harris gave the <a href="https://www.youtube.com/watch?v=dtbUlKy1D7k">best speech</a> I've ever heard. </p>
+<p>There were some great speeches at the DNC. Michelle Obama stood out. Bill Clinton, of course. But it was her show, President Kamala's, and she stole it. </p>
+<p>She's perfect for our time. </p>
+<p>A prosecutor running against a convicted felon.</p>
+<p>A first generation American running against candidate who vilifies immigrants.</p>
+<p>A woman running against a candidate who tried to enslave women. </p>
+<p>A brilliant orator running against an incomprehensible bully.</p>
+<p>Why wasn't she so impressive when she ran in 2019? Near as I can tell it wasn't the right time or circumstances. She needed the focus to be on her. Whatever it was, she is <i>perfect</i> for our time. </p>
+<p>I was blown away by AOC's speech on Monday, and thought she's going to be a great president someday. And then on the last day, here's exactly what I was dreaming of. A grown-up version of AOC. Every bit as inspiring, as wonderful, as perfect. </p>
+<p>She could be a combination of FDR and Lincoln. </p>
+<p>She must be the next president. </p>
+<p>And she's <a href="https://www.berkeleyside.org/2024/08/19/kamala-harris-berkeley-homes">from</a> Berkeley! </p>
+ 
+
+<http://scripting.com/2024/08/23/123805.html?title=sheIsPerfect>
+
+---
+
+## Take a Selfie Using a NY Surveillance Camera
+
+date: 2024-08-23, updated: 2024-08-24, from: Bruce Schneier blog
+
+<p><a href="https://trafficcamphotobooth.com/">This site</a> will let you take a selfie with a New York City traffic surveillance camera.</p>
+<p>EDITED TO ADD: BoingBoing <a href="https://boingboing.net/2024/08/24/take-an-nyc-traffic-cam-selfie.html">post</a>.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/08/take-a-selfie-using-a-ny-surveillance-camera.html>
+
+---
+
+## August 22, 2024
+
+date: 2024-08-23, from: Heather Cox Richardson blog
+
+The streets of Chicago have been bustling with visitors, law enforcement officers, and a few protesters for the Democratic National Convention. 
+
+<https://heathercoxrichardson.substack.com/p/august-22-2024>
+
+---
+
+## The traitorous Trump
+
+date: 2024-08-23, from: Robert Reich's blog
+
+It&#8217;s way beyond &#8220;weird&#8221; 
+
+<https://robertreich.substack.com/p/the-moral-squalor-of-donald-trump>
+
+---
+
+## Surveillance Watch
+
+date: 2024-08-23, updated: 2024-08-23, from: Bruce Schneier blog
+
+<p>This is a <a href="https://www.surveillancewatch.io/">fantastic project</a> mapping the global surveillance industry.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/08/surveillance-watch.html>
+
+---
+
+## Friday 23 August, 2024
+
+date: 2024-08-22, from: John Naughton's online diary
+
+I Love Nice Actually, I don’t. Taken at 11pm outside the bus station in Nice during an interminable wait for my grandson to arrive from Florence. Quote of the Day “Whom the gods wish to destroy, they first call promising. &#8230; <a href="https://memex.naughtons.org/friday-23-august-2024/39779/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-23-august-2024/39779/>
+
+---
+
+## 2024-08-20 An offline Bulletin Board System (BBS) using NNCP
+
+date: 2024-08-22, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-20-an-offline-bulletin-board-system-bbs-using-nncp">2024-08-20 An offline Bulletin Board System (BBS) using NNCP</h1>
+
+<p>OK, plugd has done it! The <a href="gopher://thelambdalab.xyz:70/0/offline.txt">Offline Bulletin Board System</a>
+system works by sending out QWK files and accepting back REP files.</p>
+
+<p>One tool that does this is <a href="https://wmcbrine.com/MultiMail/">MultiMail</a>. And it&rsquo;s in Debian!</p>
+
+<p>Before you can participate, plugd has to know about your node.</p>
+
+<p><img loading="lazy" src="2024-08-20-offline-bbs-1.jpg" alt="An old school text user-interface showing a bulleting board" /></p>
+
+<p><a class="tag" href="/search/?q=%23NNCP">#NNCP</a> <a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p>
+
+<p><strong>2024-08-23</strong>. See <a href="2024-08-22-life-offline">2024-08-22 Life offline</a>.</p> 
+
+<https://alexschroeder.ch/view/2024-08-20-offline-bbs>
+
+---
+
+## 2024-08-22 One Page Dungeon Reviews
+
+date: 2024-08-22, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-22-one-page-dungeon-reviews">2024-08-22 One Page Dungeon Reviews</h1>
+
+<p>People are linking their <a href="https://www.dungeoncontest.com/">One Page Dungeon Contest</a> submissions in the Spiele Knights Discord.
+For the moment, if somebody does that and explicitly asks for feedback or a review, I&rsquo;m happy to write a few words. I expect to be adding to this page over time.</p>
+
+<p><a href="https://malachijs.itch.io/sundial-siphon">Sundial Siphon</a>: I love the myconid picture and map; I had to read the part about the rotating map multiple times and I&rsquo;m still not sure it really contributes to the game. Sometimes doors cannot be opened, sometimes some rooms cannot be reached, but I&rsquo;d have to see it at the table. I liked the colour coding of monsters and connections. It says twice &ldquo;Takes some time to clear&rdquo; but it&rsquo;s unclear what the drawback is since there are no random encounters? Is it a quarter rotation? Reading the Siphon makes me think that after 4 phases all player characters are trapped in constructs? That seems rather harsh. The dungeon says that that players are racing against the clock but I think players wouldn&rsquo;t know that, so some sort of warning might be apt? There&rsquo;s a warning in room 4 but I feel a better warning is required, or the siphon should only affect room 5? In any case, the dungeon seems promising! 😄</p>
+
+<p><a href="https://peninsulancestral.itch.io/epona-temple">Epona&rsquo;s Temple</a>: I love the idea of achieving a permanent blessing of Epona. The map is beautiful. I feel that the map doesn&rsquo;t make clear which of the obstacles are easy to sidestep. Can people go from 3 to 5 without crossing 4 or 8? In 4 there&rsquo;s a presence of insects but it wasn&rsquo;t clear to mean what that entails since there are no insect stats. From a logic perspective the abandoned camp is puzzling. In any case, the rewards at the end are my favourite thing. They match the premise at the entrance and the theme of the temple itself. Love that. <em>E gostei muito de ver um versão que não seja Inglesa. Muito bem feito!</em> 😄</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%231PDC">#1PDC</a></p> 
+
+<https://alexschroeder.ch/view/2024-08-22-one-page-dungeons>
+
+---
+
+##  Love these visualizations of the current top 10 men&#8217;s and women&#8217;s chess... 
+
+date: 2024-08-22, updated: 2024-08-22, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045146-love-these-visualizations>
+
+---
+
+##  &#8220;Can You Save One Species by Annoying Another?&#8221; 
+
+date: 2024-08-22, updated: 2024-08-22, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/can-you-save-one-species-by-annoying-another>
+
+---
+
+##  In 1974, Saturday Review asked some of the world&#8217;s leading thinkers (Isaac... 
+
+date: 2024-08-22, updated: 2024-08-22, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045147-in-1974-saturday-review-a>
+
+---
+
+##  Adam Hale makes these fantastic brain-busting time- & perspective-slicing animations.... 
+
+date: 2024-08-22, updated: 2024-08-22, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045145-adam-hale-makes-these-fan>
+
+---
+
+## AI and Data Centers: What Do the Numbers Say?
+
+date: 2024-08-22, from: Om Malik blog
+
+In the early days of Google, it became evident that it was essentially a networking company with search as its main application. That has been its real advantage and edge over others. Microsoft, too, got the religion, albeit a little late. Whether it’s Amazon, Google or Microsoft, data centers and network infrastructure have always been &#8230; 
+
+<https://om.co/2024/08/22/ai-and-data-centers-what-do-the-numbers-say/>
+
+---
+
+##  Mapping Cinematic Paths 
+
+date: 2024-08-22, updated: 2024-08-22, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/mapping-cinematic-paths>
+
+---
+
+## What’s Really Going On in Machine Learning? Some Minimal Models
+
+date: 2024-08-22, from: Stephen Wolfram blog
+
+<span class="thumbnail"><img width="128" height="108" src="https://content.wolfram.com/sites/43/2024/08/swblog-ml-icon-v2.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></span>The Mystery of Machine Learning It’s surprising how little is known about the foundations of machine learning. Yes, from an engineering point of view, an immense amount has been figured out about how to build neural nets that do all kinds of impressive and sometimes almost magical things. But at a fundamental level we still [&#8230;] 
+
+<https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/>
+
+---
+
+##  Not sure why I didn&#8217;t know that Chris Ware has released two... 
+
+date: 2024-08-22, updated: 2024-08-22, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045142-not-sure-why-i-didnt>
+
+---
+
+## Ignore the NYT, part 2
+
+date: 2024-08-22, from: Dave Winer's Scripting News
+
+<p>I have a feeling this thread is going to go a long way, maybe all the way. Maybe the last Ignore the NYT note will be "The NYT has been put out of its misery" in which case "Ignore the NYT" will be what everyone does, 7 days a week, 24 hours a day. Or maybe the last one will be when the owners of the NYT remember that the function of news is to simply report on what happened, and stop trying to control events. </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/11/nakedJenToday.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Anyway -- today's ITNYT story goes like this. </p>
+<p>I'm pretty sure Trump has a negative net worth. That's what the trial in NY was about, the one which he was convicted on 34 counts of fraud which included lying to creditors about the value of collateral for loans.</p>
+<p>Trump borrows money to pay off creditors he borrowed money from to pay off other creditors. This has been going on for many years. It's probably why he's such close friends with Putin (or wishes he was) because a daddy like Putin can play the role of Trump's actual daddy used to play, ie bailing him out from his <a href="https://en.wikipedia.org/wiki/Trump:_The_Art_of_the_Deal">bullshit deals</a>. </p>
+<p>It's a Ponzi type pyramid. He's probably been filing fraudulent statements about the value of various real estate he owns for a lot longer than we know. But he got caught and now hopefully he will go to jail for what he's been doing because it's quite illegal. </p>
+<p>The NYT in <a href="https://www.nytimes.com/live/2024/08/20/us/dnc-fact-check/take-it-from-an-actual-billionaire-trump-is-rich-in-only-one-thing-stupidity?smid=url-share">this fact-check</a>, relies on Forbes' opinion of Trump's net worth -- which is based on the value of his Truth Social stock (good for them for not falling for the same bullshit the banks did). But that's a pretty weak foundation, too, btw -- given that Trump probably couldn't squeeze a billion dollars out of that stock without crashing the value of the stock, in other words, come on -- that's <a href="http://scripting.com/2024/08/11/bullshit2.m4a">bullshit</a>. </p>
+<p>In any case, there's a good argument to be made that Trump's negative net worth in everything but Truth Social stock on a balance sheet would negate even the full value of his stock. </p>
+ 
+
+<http://scripting.com/2024/08/22/170029.html?title=ignoreTheNytPart2>
+
+---
+
+##  A travel reporter tests AI travel services with a trip to Norway.... 
+
+date: 2024-08-22, updated: 2024-08-22, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045139-a-travel-reporter-tests-a>
+
+---
+
+##  Hand Drawn: Children&#8217;s Shoes, Given Away 
+
+date: 2024-08-22, updated: 2024-08-22, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/hand-drawn-childrens-shoes-given-away>
+
+---
+
+## 2024-08-22 Life offline
+
+date: 2024-08-22, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-22-life-offline">2024-08-22 Life offline</h1>
+
+<p>We&rsquo;ve been having a conversation about life offline on the <a href="2024-08-20-offline-bbs">offline bulleting board system</a>.</p>
+
+<p>I wonder: what do we do, offline?</p>
+
+<p>I&rsquo;m trying to get into the flow of writing blog posts offline, but I
+don&rsquo;t think it&rsquo;s working.</p>
+
+<p>I think what I&rsquo;d like to be doing more of (what tense does one use
+when you think you should be wanting to do a thing but looking back
+over the years it turns out you never do them): making music.</p>
+
+<p>I&rsquo;m but a dabbler. I try to practice the alto recorder every now and
+then, and I have a handful of electronic instruments that I used to
+make super-short <a href="https://alexschroeder.ch/podcast/jingles/">jingles for my podcast</a>.
+The goal was to never use a
+jingle twice. As you can see, the fragments got more interesting over
+the years, but I also stopped making new podcast episodes. Too bad!</p>
+
+<p>What I actually managed to do more of: running. I recently managed to
+run 22km. Yay me! It wasn&rsquo;t a race. I don&rsquo;t like racing and competitions. My wife
+loves the associated rituals, the people, the masses, the
+anticipation, but I like it best when I just lose myself in thoughts,
+low on oxygen, step step step step step and on and on.</p>
+
+<p>I think I was most influenced by the book &ldquo;Born to Run&rdquo;.</p>
+
+<p>If you&rsquo;re new to jogging, I think there are a few principles that help:</p>
+
+<ol>
+<li>better to go often for short runs than to go rarely for long runs</li>
+<li>better to go so slow so that you can talk to the person jogging next to you</li>
+<li>get used to run in every weather except thunderstorms and the like</li>
+</ol>
+
+<p>Make sure to smile while you&rsquo;re jogging!</p>
+
+<p>After a while, the benefits of running assert themselves. When I&rsquo;m
+troubled, I wish I could go for a run. I look forward to putting on my
+running sandals and just go go go and lose myself.</p>
+
+<p>What I&rsquo;m trying to do less of: endlessly refreshing my fediverse
+feeds. I have three accounts, one using a self-hosted GoToSocial
+instance, one for English role-playing games on a Mastodon instance,
+and one for German role-playing games on a different Mastodon
+instance. There&rsquo;s something about social media and talking to people
+that fascinates my monkey brain.</p>
+
+<p>I have a <a href="2024-08-06-pocket-reform">new laptop</a> that I felt was going to be my &ldquo;offline&rdquo; laptop
+but it&rsquo;s not working out that way, sadly. In terms of getting ideas, the
+fediverse is still the medium where I get into conversations with
+people and that then has me writing longer blog posts. I don&rsquo;t mind
+this so much. <a href="2021-09-17_Writing_to_learn">Writing is learning</a>, I guess. But it means I can&rsquo;t just
+write without some conversation preceding it.</p>
+
+<p>Perhaps there are some solitary big thoughts thinkers out there. Or
+perhaps I&rsquo;ve been raised in the expectation that only solitary
+thinkers have big thoughts. I find myself flourishing in the dialogue,
+in the back and forth.</p>
+
+<p><a class="tag" href="/search/?q=%23Life">#Life</a> <a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p> 
+
+<https://alexschroeder.ch/view/2024-08-22-life-offline>
+
+---
+
+## August 21, 2024
+
+date: 2024-08-22, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-21-2024-6cf>
 
 ---
 
@@ -73,6 +515,16 @@ date: 2024-08-22, from: Robert Reich's blog
 
 ---
 
+## Windows Recall Feature for Copilot+ PCs Will Return, in Beta, in October
+
+date: 2024-08-22, updated: 2024-08-23, from: Daring Fireball
+
+ 
+
+<https://blogs.windows.com/windowsexperience/2024/06/07/update-on-the-recall-preview-feature-for-copilot-pcs/>
+
+---
+
 ##  On the genius design of Super Mario Bros&#8217; World 1-1, which teaches... 
 
 date: 2024-08-22, updated: 2024-08-22, from: Jason Kittke's blog
@@ -105,7 +557,7 @@ date: 2024-08-22, updated: 2024-08-22, from: Jason Kittke's blog
 
 ## ‘Monument Valley 3’ Will Be a Netflix Game — Perhaps a Dead Canary in the Apple Arcade Coal Mine
 
-date: 2024-08-21, updated: 2024-08-21, from: Daring Fireball
+date: 2024-08-21, updated: 2024-08-23, from: Daring Fireball
 
  
 
@@ -584,7 +1036,54 @@ At issue is the fact that Coinbase is bidding to be a US federal contractor: spe
 </tt>
 </blockquote>
 How wonderful is it that this great country enjoys the blessings of democracy? Just imagine how much money the companies donating to these PACs stand to make from obtaining "regulatory clarity" if they are "investing" close to $200M in a <i>chance</i> to get it.<br />
-<br /> 
+<br />
+<b>Update 23<sup>rd</sup> August</b><br />
+<br />
+I posted this too soon. Enough has happened in the last few days to justify an update:<br />
+<ul>
+<li>Will a Harris administration provide "regulatory clarity"? I commented on
+Hadriana Lowenkron's <a href="https://www.bloomberg.com/news/articles/2024-08-21/harris-supports-policies-to-expand-crypto-industry-aide-says"><i>Harris Supports Policies to Expand Crypto Industry, Aide Says</i></a>:<br />
+<blockquote>
+"Vice President Kamala Harris will back measures to help grow digital assets, a policy adviser to her campaign said, highlighting efforts to court an emerging cryptocurrency industry expanding its political influence.
+</blockquote>
+But Protos had a skeptical take in <a href="ttps://protos.com/kamala-harris-pro-crypto-policy-is-yet-more-fake-news/"><i>Kamala Harris ‘pro-crypto policy’ is yet more fake news</i></a>:<br />
+<blockquote>
+Another day, another fake Kamala Harris headline. Already <a href="https://x.com/i/trending/1826630020162273675">this week</a>, we’ve heard all about her <a href="https://protos.com/crypto-runs-with-fake-kamala-harris-gary-gensler-news/">non-appointment of Gary Gensler</a> and her non-existent <a href="https://protos.com/fake-news-again-this-time-its-kamala-harris-and-unrealized-crypto-gains/">unrealized crypto gains tax</a>, and today we have to point out that the 2024 White House hopeful hasn’t adopted a ‘pro-crypto policy.’<br />
+...<br />
+Well, rather than Harris suddenly adopting a pro-crypto platform to boost her presidential campaign, Bloomberg published an <a href="https://www.bloomberg.com/news/articles/2024-08-21/harris-supports-policies-to-expand-crypto-industry-aide-says">article</a>.<br />
+<br />
+Specifically, behind its paywall, it ran the quote, “She’s going to support policies that ensure that emerging technologies and that sort of industry can continue to grow.”<br />
+<br />
+That quote related only broadly to the ‘crypto community’ and didn’t come from Harris or her spokesperson. It was actually said by Brian Nelson, <b>a mere campaign advisor</b>.
+</blockquote>
+</li>
+<li>
+Exercising traditional bothsiderism, Bloomberg's Editorial Board weighed in with <a href="https://www.bloomberg.com/opinion/articles/2024-08-23/kamala-harris-and-donald-trump-shouldn-t-pander-to-crypto-people"><i>Harris and Trump Shouldn't Pander to the Crypto Crowd</i></a>:<br />
+<blockquote>
+Just <a href="https://www.federalreserve.gov/publications/files/2023-supplement-economic-well-being-us-households-202405.pdf">1% of Americans</a> say they used them for a payment or money transfer last year. More often crypto is used to move money outside of government oversight. That’s helpful for criminals, terrorists and anyone under sanctions. But these are hardly the constituencies that a presidential candidate should be soliciting. Nor should policymakers be encouraging people to park their savings in digital wallets instead of stocks, bonds and other assets that support the real economy.<br />
+<br />
+Instead, candidates should promise to work with Congress and regulators to ensure that the rules applied to cryptocurrencies are consistent with existing laws on fraud, money laundering and sanctions enforcement.
+</blockquote>
+What is the chance that this would happen in a Trump administration?</li>
+<li>
+The answer had come the day before the Editorial Board's vain hand-waving.
+MacKenzie Sigalos' <a href="https://www.cnbc.com/2024/08/22/trump-crypto-defi-protocol-launch.html"><i>Trump promotes family’s new crypto platform, ‘The Defiant Ones’</i></a> made it crystal clear:<br />
+<blockquote>
+Former President Donald Trump on Thursday promoted a soon-to-launch, Trump Organization crypto platform, “The DeFiant Ones” to his 7.5 million followers on Truth Social<br />
+...<br />
+“For too long, the average American has been squeezed by the big banks and financial elites,” Trump wrote. “It’s time we take a stand — together.”<br />
+<br />
+The post marks the first time the Republican nominee for president has used his personal platform to promote the as yet unactivated digital bank. Within minutes, his son Donald Trump Jr., shared the post with his 12 million X followers.
+</blockquote>
+Trump's floundering Truth Social posted a <a href="https://apnews.com/article/trump-media-earnings-results-revenue-4f6701cbebcbc5c9ed5079ab096cb346">$16.4M loss</a> on revenue of $837K (down 30% year-on-year). The stock is currently down 75% from the peak and Trump is widely expected to pull the rug out from holders by dumping his stock in the next few weeks. Thus he needs to find a new grift to replace DJT, and this is clearly it.  The probability that "The Defiant Ones" will be rug-pulled is close to 100%.
+</li>
+</ul>
+I should expand on the last point in the original post. Corporations making large political contributions are making a similar calculation to VCs investing in startups. The return on investment each time is likely to be negative, but the return on the occasional winner is enough to wipe out the losses and leave a healthy profit. This leaves two questions that are rarely asked:<br />
+<ul>
+<li>How much profit will the contributors garner if their wishes are granted?</li>
+<li>Where will this profit come from? In other words, if the contributors are the winners, who are the losers?</li>
+</ul>
+The history of cryptocurrencies suggests that the profit will be large and the losers will be the retail "investors".<br /> 
 
 <https://blog.dshr.org/2024/08/astroturfing.html>
 
@@ -660,27 +1159,6 @@ date: 2024-08-20, updated: 2024-08-20, from: Jason Kittke's blog
 
 ---
 
-## 2024-08-20 An offline Bulletin Board System (BBS) using NNCP
-
-date: 2024-08-20, from: Alex Schroeder's Blog
-
-<h1 id="2024-08-20-an-offline-bulletin-board-system-bbs-using-nncp">2024-08-20 An offline Bulletin Board System (BBS) using NNCP</h1>
-
-<p>OK, plugd has done it! The <a href="gopher://thelambdalab.xyz:70/0/offline.txt">Offline Bulletin Board System</a>
-system works by sending out QWK files and accepting back REP files.</p>
-
-<p>One tool that does this is <a href="https://wmcbrine.com/MultiMail/">MultiMail</a>. And it&rsquo;s in Debian!</p>
-
-<p>Before you can participate, plugd has to know about your node.</p>
-
-<p><img loading="lazy" src="2024-08-20-offline-bbs-1.jpg" alt="An old school text user-interface showing a bulleting board" /></p>
-
-<p><a class="tag" href="/search/?q=%23NNCP">#NNCP</a> <a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p> 
-
-<https://alexschroeder.ch/view/2024-08-20-offline-bbs>
-
----
-
 ## Hacking Wireless Bicycle Shifters
 
 date: 2024-08-20, updated: 2024-08-20, from: Bruce Schneier blog
@@ -711,53 +1189,6 @@ date: 2024-08-20, from: Robert Reich's blog
 Friends, 
 
 <https://robertreich.substack.com/p/when-i-took-adam-to-the-democratic>
-
----
-
-## 2024-08-19 Something new: intrigue
-
-date: 2024-08-20, from: Alex Schroeder's Blog
-
-<h1 id="2024-08-19-something-new-intrigue">2024-08-19 Something new: intrigue</h1>
-
-<p>A while ago, <a class="account" href="https://ttrpg-hangout.social/@enfors" title="@enfors@ttrpg-hangout.social">@enfors</a> said he wanted his sandbox generator supplement to have something special.
-I wasn&rsquo;t exactly sure what he was thinking of, but I started thinking about the things that I feel are under-explored.</p>
-
-<p>A while ago, for example, I wondered: What would be the simplest game that emphasises how many friends you make, that rewards the size of the community you build?
-Back in 2016 I wrote a game called <a href="2016-08-19_Romantic_Fantasy">Best Friends</a> that I never used.
-It was <a href="2019-10-10_Non-adventure_games%3F">still an adventure game</a>.
-Basically, replace your &ldquo;level&rdquo; with the number of friends you have.
-Something like that.</p>
-
-<p>But that still doesn&rsquo;t get into really new territory.
-Something I would like to see is a system for how to run an intrigue as a party – including everybody at the table, for all the classes and skill profiles.
-I feel that <em>A Song of Ice and Fire</em> attempted to do this but the result wasn’t great, at least at my table.</p>
-
-<p>Quoting my past self:</p>
-
-<blockquote>
-<p>I’m also not too happy with A Song of Ice and Fire. We’ve only played three times, so I’m willing to give it more time. When I ran one of the sessions I basically split the party to the max since since all characters are so diverse. There is no D&amp;D like party and that also requires me to rethink my adventure design. – <a href="2010-04-08_Spring">2010-04-08 Spring</a></p>
-
-<p>I can always switch into a movie director stance, go around the table, point at players, “now you!” and after a bit when the exchange happened and a die was maybe cast, “as we wait for that, we cut to…” and soon enough “in the mean time…” – and I do this aggressively, in small time slots. This results in a somewhat military style of pointing at people to let them know that now is their turn, while simultaneously waving at others to hold their thoughts, or maybe cutting talkative players off when they’re running too long. It’s weird, but when there’s a lot of players, or when there’s no party play to return to, it works well enough. We’ve made these kinds of mistakes in games where there are characters that are well suited for fighting and others that are not, with their players trying to solve problems by fighting, and players do not. This happened to me when I ran a one-shot of <em>A Song of Ice and Fire</em>. It worked for a session, but it was exhausting and I don’t want to claim that it’s a good solution. It was simply a short term solution that worked, for me. Next time, however, make sure players create characters that will adventure together. – <a href="2021-02-27_Cohesion">2021-02-27 Cohesion</a></p>
-</blockquote>
-
-<p>Perhaps the split into combat and intrigue that the game introduced wasn&rsquo;t good game design because it made sense from the perspective of emulating the books but it didn&rsquo;t make sense from the perspective of some people wanting to play a game together. Or maybe it just didn&rsquo;t fit my expectations of what it means to play together. Or maybe we just missed the implied recommendation to focus on either combat or intrigue and everybody having two characters, one for each domain. Or maybe just run either a combat campaign or an intrigue campaign.</p>
-
-<p>So what I&rsquo;m looking for is a way to get intrigue results, using procedures like we do for combat or exploration, for dungeons or the wilderness. The goal is to bring about a change in leadership of a town, a gang, a castle, an army unit, or to succeed in an act of sabotage, to incite a rebellion – things that are either hand-waved or the party is hired for the dirty work while the non-player characters are the politicians and rabble-rousers. I know this can work. It&rsquo;s OK for the party to do the dirty work, to assassinate a tyrant and the non-player characters then taking the throne and similar things, but I want to go further. I want to involve all the players at the table. I want the players to think about the logistics of war, the organising and preparations of revolutions, the intricacies of marriage politics.</p>
-
-<p>What if B/X D&amp;D went levels 1–3 is for dungeons, 4–6 is for the wilderness and 7–9 is <em>for politics</em>. Doesn&rsquo;t that sound fantastic? What sort of rules would you find in that third book? You would not get to name level by being a colonizer and clearing the land but by taking over an existing position of power – through intrigue. Oust the abbot, kick out the bishop, marry into the baron&rsquo;s family, take over the guild. With the help of your friends. Without resorting to combat, but with dice rolling.</p>
-
-<p>The dice rolling and the procedures are important to me because otherwise it all goes in a direction I don’t like: <a href="2014-08-21_No_Dice">the referee decides everything and that is exhausting</a>.</p>
-
-<p>Not something like Burning Wheel&rsquo;s Duel of Wits but something like social combat for Fate games, like the <a href="social-combat">social combat system in Diaspora</a>, for example. Note <a class="account" href="https://dice.camp/@bradjmurray" title="@bradjmurray@dice.camp">@bradjmurray</a>&rsquo;s most recent take on those rules: <a href="https://vscadotblog.wordpress.com/2020/02/20/social-combat-in-diaspora/">social combat in diaspora</a>.</p>
-
-<p>This space deserves more attention.</p>
-
-<p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p>
-
-<p><strong>2024-08-20</strong>. I find that urban adventures suffer from the same problem. If it&rsquo;s just two or three buildings and those act like dungeons, my games work. If it&rsquo;s just social encounters that can be resolved with reaction rolls, my games work. But everything else in an urban environment seems to be politics, to me. And I have no good procedures to resolve those. So if anybody reading this is thinking about writing a blog post on the topic, I&rsquo;d love to read it.</p> 
-
-<https://alexschroeder.ch/view/2024-08-19-rpg-intrigue>
 
 ---
 

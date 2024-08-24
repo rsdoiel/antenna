@@ -1,11 +1,43 @@
 ---
 title: libraries 2024.34
-updated: 2024-08-22 07:16:54
+updated: 2024-08-24 08:51:05
 ---
 
 # libraries 2024.34
 
-(date: 2024-08-22 07:16:54)
+(date: 2024-08-24 08:51:05)
+
+---
+
+## Edward II, by Christopher Marlowe
+
+date: 2024-08-23, from: Standard Ebooks, new releaases
+
+Outraged by the favoritism shown by King Edward II to a close confidant, his court plots against him. 
+
+<https://standardebooks.org/ebooks/christopher-marlowe/edward-ii>
+
+---
+
+## Fit in research data management – workshop series in Autumn Semester 2024
+
+date: 2024-08-23, from: ETH Zurich Research Archives
+
+Get yourself and your research project in shape with our research data management workshop programme. You can now register for the Autumn Semester 2024 workshops. Read more<img src="https://analytics.library.ethz.ch/piwik.php?idsite=1&amp;rec=1&amp;url=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Ffit-in-research-data-management-workshop-series-in-autumn-semester-2024%2F&amp;action_name=Fit+in+research+data+management+%E2%80%93+workshop+series+in+Autumn+Semester+2024&amp;urlref=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" /> 
+
+<https://rc-blog.ethz.ch/en/fit-in-research-data-management-workshop-series-in-autumn-semester-2024/>
+
+---
+
+## The Most Complicated Word in the English Language
+
+date: 2024-08-23, from: Scholarly Kitchen
+
+<p>WIth only three letters, "run" has over 645 different meanings.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/08/23/the-most-complicated-word-in-the-english-language/">The Most Complicated Word in the English Language</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/08/23/the-most-complicated-word-in-the-english-language/>
 
 ---
 

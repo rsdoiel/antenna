@@ -1,11 +1,801 @@
 ---
 title: pacific 2024.34
-updated: 2024-08-22 07:16:49
+updated: 2024-08-24 08:51:00
 ---
 
 # pacific 2024.34
 
-(date: 2024-08-22 07:16:49)
+(date: 2024-08-24 08:51:00)
+
+---
+
+## Campell to lead US delegation to Forum meeting in Tonga
+
+date: 2024-08-23, from: Pacific Island Times
+
+By Pacific Island Times News Staff Deputy Secretary of State Kurt Campbell will begin his trip to Nuku‘alofa, Tonga on Aug. 28 to lead... 
+
+<https://www.pacificislandtimes.com/post/campell-to-lead-us-delegation-to-forum-meeting-in-tonga>
+
+---
+
+## Guam's BEAD proposals approved 
+
+date: 2024-08-23, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Department of Commerce’s National Telecommunications and Information Administration has approved... 
+
+<https://www.pacificislandtimes.com/post/guam-s-bead-proposals-approved>
+
+---
+
+## QB Schager lands sixth preseason watch list
+
+date: 2024-08-23, from: University of Hawaiʻi News
+
+<p>Brayden Schager recognized on the Earl Campbell Tyler Rose Award watch list.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/23/qb-schager-lands-6th-preseason-watch-list/"><abbr>QB</abbr> Schager lands sixth preseason watch list</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/23/qb-schager-lands-6th-preseason-watch-list/>
+
+---
+
+## UH Hilo Athletics achieves record GPA, 60 student-athletes earn awards
+
+date: 2024-08-23, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo Athletics posted its highest academic-year <abbr>GPA</abbr> with a combined mark of 3.28.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/23/uh-hilo-athletics-achieves-record-gpa/"><abbr>UH</abbr> Hilo Athletics achieves record <abbr>GPA</abbr>, 60 student-athletes earn awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/23/uh-hilo-athletics-achieves-record-gpa/>
+
+---
+
+## Small-town scholar begins new journey at UH Mānoa
+
+date: 2024-08-23, from: University of Hawaiʻi News
+
+<p>Gates Scholar Jaelynn Farias is excited to begin her academic journey at <abbr>UH</abbr> Mānoa.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/23/gates-scholar-jaelynn-farias/">Small-town scholar begins new journey at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/23/gates-scholar-jaelynn-farias/>
+
+---
+
+## AI to tackle healthcare efficiency focus of HS summer program
+
+date: 2024-08-23, from: University of Hawaiʻi News
+
+<p>This internship was part of Project Hōkūlani, housed in <abbr>UH</abbr> Mānoa’s Center on Disability Studies, College of Education.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/23/ai-healthcare-efficiency/"><abbr>AI</abbr> to tackle healthcare efficiency focus of <abbr>HS</abbr> summer program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/23/ai-healthcare-efficiency/>
+
+---
+
+## Tropical storm warning, red flag alert posted as Hone approaches Big Island
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>Forecasters are predicting Tropical Storm Hone will bring a deluge to East Hawaii this weekend.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/hawaii-news/tropical-storm-warning-red-flag-alert-posted-as-hone-approaches-big-island/>
+
+---
+
+## Hone getting stronger, Gilma weakening
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>Tropical Storm Hone continues to intensify as it continues to approach Hawaii.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/hawaii-news/hone-getting-stronger-gilma-weakening/>
+
+---
+
+## Auto club gears up for Labor Day Drags
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>Big Island Auto Club hopes to expand its reach to more people as the group prepares to celebrate the 50th annual Labor Day Drags at the Hilo Drag Strip next weekend.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/hawaii-news/auto-club-gears-up-for-labor-day-drags/>
+
+---
+
+## Democrats at summit embrace unions
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>Organized labor continues to play an outsize role at this week&#8217;s Democratic National Convention with larger implications for the presidential election, Hawaii and the rest of the country to rebuild the middle class.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/hawaii-news/democrats-at-summit-embrace-unions/>
+
+---
+
+## UHH women’s cross country gears up with four newcomers
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; Four newcomers and two returnees makeup the UH-Hilo Women&#8217;s Cross Country roster entering the upcoming fall season under second-year head coach Alan Ryan.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/sports/uhh-womens-cross-country-gears-up-with-four-newcomers/>
+
+---
+
+## Central Pacific has first named storm of year, Hone heading toward Hawaii
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>The Central Pacific basin has its first named storm of the 2024 hurricane season.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/hawaii-news/east-pacific-has-first-named-storm-of-year-hone-heading-toward-hawaii/>
+
+---
+
+## Kamala Harris caps convention with call to end Gaza war, fight tyranny
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO	&#8212; Vice President Kamala Harris formally accepted the Democratic nomination for president on Thursday with a rousing call to end the war in Gaza and to fight tyranny around the world, drawing a sharp contrast with Republican Donald Trump. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/nation-world-news/kamala-harris-caps-convention-with-call-to-end-gaza-war-fight-tyranny/>
+
+---
+
+## Gus Walz went viral for cheering for his dad at the DNC. Here’s what to know about him
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>Minnesota Gov. Tim Walz formally accepted the Democratic nomination for vice president Wednesday night in Chicago. And as he did, the former congressman and teacher gave a nod to his wife Gwen, daughter Hope and son Gus.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/nation-world-news/gus-walz-went-viral-for-cheering-for-his-dad-at-the-dnc-heres-what-to-know-about-him/>
+
+---
+
+## At the border, Trump goes after Harris on immigration but continues personal insults
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>Former President Donald Trump called for the death penalty to punish sex traffickers during a campaign event Thursday at the southern border, where he said Vice President Kamala Harris and her fellow Democrats had &#8220;unleashed a deadly plague of migrant crime on our country by not doing their jobs.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/nation-world-news/at-the-border-trump-goes-after-harris-on-immigration-but-continues-personal-insults/>
+
+---
+
+## BIIF volleyball: Kona wins at home; All-BIIF boys teams released
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>KEALAKEKUA &#8212; Konawaena girls volleyball picked up right where it left off in its second game of the season on Wednesday night in Ellison Onizuka Gymnasium.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/sports/biif-volleyball-kona-wins-at-home-all-biif-boys-teams-released/>
+
+---
+
+## Second-largest diamond ever found is discovered in Botswana
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>The diamond was so large that it obscured the face of Botswana&#8217;s president as he held it up for closer inspection Thursday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/nation-world-news/second-largest-diamond-ever-found-is-discovered-in-botswana/>
+
+---
+
+## US envoy tells UN: Gaza ceasefire deal ‘now is in sight’
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>UNITED NATIONS &#8212; A Gaza ceasefire and hostage release deal &#8220;now is in sight,&#8221; the U.S. envoy to the United Nations told the Security Council on Thursday, urging members to press Palestinian militant group Hamas to accept a bridging proposal agreed to by Israel. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/nation-world-news/us-envoy-tells-un-gaza-ceasefire-deal-now-is-in-sight/>
+
+---
+
+## Russian attitudes about Putin might be shifting
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Negative feelings about Russian President Vladimir Putin have appeared to increase across Russia since Ukrainian troops pushed into Russian territory two weeks ago, according to a firm that tracks attitudes in the country by analyzing social media and other internet postings.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/nation-world-news/russian-attitudes-about-putin-might-be-shifting/>
+
+---
+
+## Second Memphis officer to change plea in death ofTyre Nichols
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>NASHVILLE, Tenn. &#8212; A second former Memphis police officer is set to change his not-guilty plea to federal charges connected to the beating and death of Tyre Nichols last year, according to court documents filed Thursday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/nation-world-news/second-memphis-officer-to-change-plea-in-death-oftyre-nichols/>
+
+---
+
+## An ex-boyfriend, a bad boss, an operatic tenor. Trump analogies fly at the DNC
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>So what is former President Donald Trump &#8220;like&#8221;? Speakers at the Democratic National Convention have some ideas, and this week they&#8217;ve offered up plenty of comparisons &#8212; and punchlines.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/nation-world-news/an-ex-boyfriend-a-bad-boss-an-operatic-tenor-trump-analogies-fly-at-the-dnc/>
+
+---
+
+## Nation and world news in brief for August 23
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>US Postal Service seeks to save $30 billion over 10 years with delivery, other changes</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/nation-world-news/nation-and-world-news-in-brief-for-august-23/>
+
+---
+
+## Stocks decline and dollar rebounds as Fed readies rate cuts
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>Stocks fell and the dollar gained on Thursday as traders digested fresh economic data and awaited confirmation from the U.S. Federal Reserve on Friday that it will soon start to cut interest rates. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/business/stocks-decline-and-dollar-rebounds-as-fed-readies-rate-cuts/>
+
+---
+
+## FDA approves updated COVID shots ahead of fall and winter
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Food and Drug Administration on Thursday approved updated COVID-19 vaccines made by Pfizer and Moderna targeting a recent variant of the disease, in time for a fall vaccination campaign. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/nation-world-news/fda-approves-updated-covid-shots-ahead-of-fall-and-winter/>
+
+---
+
+## Barack and Michelle Obama are done turning the other cheek — and Democrats couldn’t be happier
+
+date: 2024-08-23, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO &#8212; Barack and Michelle Obama resurfaced, with a vengeance.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/23/opinion/barack-and-michelle-obama-are-done-turning-the-other-cheek-and-democrats-couldnt-be-happier/>
+
+---
+
+## Constitutional dispute May affect election outcomes
+
+date: 2024-08-23, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau — A court may have to decide whether presidential candidate Tommy Remengesau Jr.&#8217;s name will appear on the ballot in the upcoming general election set for November 12, 2024. The crux of the matter lies in the interpretation of the Palau Constitution, specifically Article VIII, Section 5, which states, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/constitutional-dispute-may-affect-election-outcomes/">Constitutional dispute May affect election outcomes</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/constitutional-dispute-may-affect-election-outcomes/>
+
+---
+
+## 2024 Palau Fellowship Internship Program wraps up with 29 student participants
+
+date: 2024-08-23, from: Island Times
+
+<figure><img width="1024" height="339" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/second.jpg?fit=1024%2C339&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/second.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/second.jpg?resize=300%2C99&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/second.jpg?resize=1024%2C339&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/second.jpg?resize=768%2C255&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/second.jpg?resize=1200%2C398&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/second.jpg?resize=400%2C133&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/second.jpg?resize=706%2C234&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/second.jpg?fit=1024%2C339&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72101" data-permalink="https://islandtimes.org/2024-palau-fellowship-internship-program-wraps-up-with-29-student-participants/second/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/second.jpg?fit=1249%2C414&amp;ssl=1" data-orig-size="1249,414" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="second" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/second.jpg?fit=300%2C99&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/second.jpg?fit=780%2C258&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau – The 2024 Palau Fellowship Award internship program saw 29 students accepted this summer, with 22 of them successfully completing their internships. Most of these students wrapped up their work by the end of last week. The remaining seven students are still in the process of completing their required [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/2024-palau-fellowship-internship-program-wraps-up-with-29-student-participants/">2024 Palau Fellowship Internship Program wraps up with 29 student participants</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/2024-palau-fellowship-internship-program-wraps-up-with-29-student-participants/>
+
+---
+
+## China denies weaponizing tourism against Palau over Taiwan relations
+
+date: 2024-08-23, from: Island Times
+
+<figure><img width="1024" height="534" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/palau.jpg?fit=1024%2C534&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/palau.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/palau.jpg?resize=300%2C156&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/palau.jpg?resize=1024%2C534&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/palau.jpg?resize=768%2C400&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/palau.jpg?resize=1200%2C625&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/palau.jpg?resize=400%2C208&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/palau.jpg?resize=706%2C368&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/palau.jpg?fit=1024%2C534&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72097" data-permalink="https://islandtimes.org/china-denies-weaponizing-tourism-against-palau-over-taiwan-relations/palau-19/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/palau.jpg?fit=1249%2C651&amp;ssl=1" data-orig-size="1249,651" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1724061038&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;40&quot;,&quot;shutter_speed&quot;:&quot;0.00095057034220532&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="palau" data-image-description="" data-image-caption="&lt;p&gt;Taiwan/Palau 25th Anniversary Trade Show &#8211; flags of two countries flying at Amayong Cultural Center.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/palau.jpg?fit=300%2C156&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/palau.jpg?fit=780%2C407&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>China has accused Palau’s President Surangel Whipps Jr. of deliberately misrepresenting its recent travel advisory as an attempt to weaponize tourism in retaliation for Palau’s diplomatic ties with Taiwan. The accusation was reported by China’s People Daily Online, which stated that the advisory was issued in response to “security-related” incidents involving Chinese nationals in Palau [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/china-denies-weaponizing-tourism-against-palau-over-taiwan-relations/">China denies weaponizing tourism against Palau over Taiwan relations</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/china-denies-weaponizing-tourism-against-palau-over-taiwan-relations/>
+
+---
+
+## Palau’s K-9 Program still in Crisis:
+
+date: 2024-08-23, from: Island Times
+
+<figure><img width="1024" height="832" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/06/FB_IMG_1685990966258.jpg?fit=1024%2C832&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/06/FB_IMG_1685990966258.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/06/FB_IMG_1685990966258.jpg?resize=300%2C244&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/06/FB_IMG_1685990966258.jpg?resize=1024%2C832&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/06/FB_IMG_1685990966258.jpg?resize=768%2C624&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/06/FB_IMG_1685990966258.jpg?resize=400%2C325&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/06/FB_IMG_1685990966258.jpg?fit=1024%2C832&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="64253" data-permalink="https://islandtimes.org/dogs-suffer-consequences-of-failed-palau-k9-program/fb_img_1685990966258/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/06/FB_IMG_1685990966258.jpg?fit=1080%2C878&amp;ssl=1" data-orig-size="1080,878" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="FB_IMG_1685990966258" data-image-description="" data-image-caption="&lt;p&gt;Two of the 8 drug detection dogs of the K9 program&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/06/FB_IMG_1685990966258.jpg?fit=300%2C244&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/06/FB_IMG_1685990966258.jpg?fit=780%2C634&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Mismanagement and lack of funding threaten Key Security Initiative By: Eustoria Marie Borja KOROR, Palau — Palau’s K-9 program, crucial for enhancing border security and combating drug trafficking, is once again facing significant challenges due to persistent management issues. Despite improvements in 2023, the program remains in a precarious state, with concerns about the long-term [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-k-9-program-still-in-crisis/">Palau’s K-9 Program still in Crisis:</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palaus-k-9-program-still-in-crisis/>
+
+---
+
+## Palau Gears Up for Independence Day with series of Celebratory events
+
+date: 2024-08-23, from: Island Times
+
+<p>KOROR, Palau – Preparations are underway for Palau&#8217;s upcoming Independence Day celebration, with a range of events scheduled in the weeks leading up to the holiday. On September 29, the festivities will begin early with a cycling race, followed by a day market and a sailboat show in the morning under the Japan-Palau Friendship Bridge. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-gears-up-for-independence-day-with-series-of-celebratory-events/">Palau Gears Up for Independence Day with series of Celebratory events</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-gears-up-for-independence-day-with-series-of-celebratory-events/>
+
+---
+
+## Koror jail renovation ribbon-cutting ceremony
+
+date: 2024-08-23, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/GROUP-PHOTO-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/GROUP-PHOTO-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/GROUP-PHOTO-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/GROUP-PHOTO-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/GROUP-PHOTO-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/GROUP-PHOTO-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/GROUP-PHOTO-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/GROUP-PHOTO-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/GROUP-PHOTO-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/GROUP-PHOTO-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/GROUP-PHOTO-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/GROUP-PHOTO-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/GROUP-PHOTO-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/GROUP-PHOTO-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72076" data-permalink="https://islandtimes.org/koror-jail-renovation-ribbon-cutting-ceremony/group-photo-7/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/GROUP-PHOTO-scaled.jpg?fit=2560%2C1707&amp;ssl=1" data-orig-size="2560,1707" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D3500&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1723816856&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="GROUP PHOTO" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/GROUP-PHOTO-scaled.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/GROUP-PHOTO-scaled.jpg?fit=780%2C520&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Koror, Palau&#8212; On Friday August 16, 2024, a significant milestone in improving inmate welfare at the Koror Jail was marked by a ribbon-cutting ceremony celebrating the completion of a key facility improvement project. This project was made possible through COVID-funding received by the Ministry of Health and Human Services through the US CDC’s Epidemiology and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/koror-jail-renovation-ribbon-cutting-ceremony/">Koror jail renovation ribbon-cutting ceremony</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/koror-jail-renovation-ribbon-cutting-ceremony/>
+
+---
+
+## Ngardmau State Legislature officially names roads
+
+date: 2024-08-23, from: Island Times
+
+<figure><img width="791" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OfficialStreetMapNGARDMAU.jpg?fit=791%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OfficialStreetMapNGARDMAU.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OfficialStreetMapNGARDMAU.jpg?resize=232%2C300&amp;ssl=1 232w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OfficialStreetMapNGARDMAU.jpg?resize=791%2C1024&amp;ssl=1 791w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OfficialStreetMapNGARDMAU.jpg?resize=768%2C994&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OfficialStreetMapNGARDMAU.jpg?resize=400%2C518&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OfficialStreetMapNGARDMAU.jpg?resize=706%2C914&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OfficialStreetMapNGARDMAU.jpg?fit=791%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72073" data-permalink="https://islandtimes.org/ngardmau-state-legislature-officially-names-roads/officialstreetmapngardmau/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OfficialStreetMapNGARDMAU.jpg?fit=900%2C1165&amp;ssl=1" data-orig-size="900,1165" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="OfficialStreetMap(NGARDMAU)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OfficialStreetMapNGARDMAU.jpg?fit=232%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/OfficialStreetMapNGARDMAU.jpg?fit=780%2C1010&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>On August 5, 2024, the 10th Kelululu Ngardmau (Ngardmau State Legislature), during its 3rd regular session, officially named the streets within Ngardmau State, following extensive community consultations and collaboration efforts. In line with Public Law RPPL 10-50, which mandates the development of a uniform national street and home address system, the Ngardmau State government established [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngardmau-state-legislature-officially-names-roads/">Ngardmau State Legislature officially names roads</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ngardmau-state-legislature-officially-names-roads/>
+
+---
+
+## IP&E donates to PCS
+
+date: 2024-08-23, from: Island Times
+
+<p>IP&#38;E Palau, Inc., formerly known as Shell Palau, donated $3,000 to the Palau Conservation Society (PCS) as part of the company&#8217;s commitment to promoting sustainable development and responsible environmental stewardship. This generous donation coincides with PCS’s 30th anniversary of preserving Palau’s unique natural heritage and strengthening environmental stewardship. For two of these decades, IP&#38;E Palau [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ipe-donates-to-pcs/">IP&#038;E donates to PCS</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ipe-donates-to-pcs/>
+
+---
+
+## JS Ariake conducts Goodwill exercise with PSS KEDAM to enhance Maritime Security
+
+date: 2024-08-23, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/JS-Ariake-.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/JS-Ariake-.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/JS-Ariake-.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/JS-Ariake-.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/JS-Ariake-.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/JS-Ariake-.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/JS-Ariake-.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/JS-Ariake-.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/JS-Ariake-.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/JS-Ariake-.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/JS-Ariake-.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/JS-Ariake-.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72083" data-permalink="https://islandtimes.org/js-ariake-conducts-goodwill-exercise-with-pss-kedam-to-enhance-maritime-security/js-ariake/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/JS-Ariake-.jpg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="JS Ariake" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/JS-Ariake-.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/JS-Ariake-.jpg?fit=780%2C585&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>On August 20, the Japan Maritime Self-Defense Force (JMSDF) ship JS Ariake carried out a significant goodwill exercise with the PSS KEDAM, offshore. The primary objective of this exercise was to bolster boarding inspection capabilities and strengthen cooperation between JMSDF and Palau Marine Law enforcement. This collaborative effort comes at a crucial time as the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/js-ariake-conducts-goodwill-exercise-with-pss-kedam-to-enhance-maritime-security/">JS Ariake conducts Goodwill exercise with PSS KEDAM to enhance Maritime Security</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/js-ariake-conducts-goodwill-exercise-with-pss-kedam-to-enhance-maritime-security/>
+
+---
+
+## Japan Maritime self-defense force engages in cultural exchange with Palauan students
+
+date: 2024-08-23, from: Island Times
+
+<figure><img width="900" height="518" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan-1.jpg?fit=900%2C518&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan-1.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan-1.jpg?resize=300%2C173&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan-1.jpg?resize=768%2C442&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan-1.jpg?resize=400%2C230&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan-1.jpg?resize=706%2C406&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan-1.jpg?fit=900%2C518&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72079" data-permalink="https://islandtimes.org/japan-maritime-self-defense-force-engages-in-cultural-exchange-with-palauan-students/japan-42/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan-1.jpg?fit=900%2C518&amp;ssl=1" data-orig-size="900,518" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="japan" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan-1.jpg?fit=300%2C173&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan-1.jpg?fit=780%2C449&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>On August 19, students from Mindszenty High School and Emmaus Bethania High School came together with Ariake crews for an hour-long celebration of music, tradition, and friendship. The event, which drew around 100 participants, kicked off with a traditional touch. The ceremonial blowing of a conch shell, known as &#8220;debusech,&#8221; and two heartfelt Palauan chants, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japan-maritime-self-defense-force-engages-in-cultural-exchange-with-palauan-students/"> Japan Maritime self-defense force engages in cultural exchange with Palauan students</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/japan-maritime-self-defense-force-engages-in-cultural-exchange-with-palauan-students/>
+
+---
+
+## Labor Compliance Office and BCBP launch Inspection and Compliance Checks
+
+date: 2024-08-23, from: Island Times
+
+<figure><img width="600" height="309" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/2.jpg?fit=600%2C309&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/2.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/2.jpg?resize=300%2C155&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/2.jpg?resize=400%2C206&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/2.jpg?fit=600%2C309&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72068" data-permalink="https://islandtimes.org/labor-compliance-office-and-bcbp-launch-inspection-and-compliance-checks/2-54/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/2.jpg?fit=600%2C309&amp;ssl=1" data-orig-size="600,309" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/2.jpg?fit=300%2C155&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/2.jpg?fit=600%2C309&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>A joint operation in Angaur was conducted on August 15, 2024 involving Officers from the Labor Compliance Office taking the lead in this operation with the ongoing support from the Bureau of Customs and Border Protection (BCBP) which resulted in five (5) persons being detained. The purpose of such visit involved the inspection and compliance [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/labor-compliance-office-and-bcbp-launch-inspection-and-compliance-checks/">Labor Compliance Office and BCBP launch Inspection and Compliance Checks</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/labor-compliance-office-and-bcbp-launch-inspection-and-compliance-checks/>
+
+---
+
+## Japan and Palau Sign a US$20M reconstruction Project of Minatobasi
+
+date: 2024-08-23, from: Island Times
+
+<figure><img width="900" height="596" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan.jpg?fit=900%2C596&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan.jpg?resize=300%2C199&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan.jpg?resize=768%2C509&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan.jpg?resize=400%2C265&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan.jpg?resize=706%2C468&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan.jpg?fit=900%2C596&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72064" data-permalink="https://islandtimes.org/japan-and-palau-sign-a-us20m-reconstruction-project-of-minatobasi/japan-41/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan.jpg?fit=900%2C596&amp;ssl=1" data-orig-size="900,596" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="japan" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan.jpg?fit=300%2C199&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/japan.jpg?fit=780%2C517&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>On August 19, 2024, Ambassador Orikasa Hiroyuki, and Honorable Gustav Aitaro, Minister of State signed and exchanged notes concerning a grant project of up to JPY 2,793,000,000 (approximately USD 20 Million) for the Reconstruction of Minato Bridge, which connects Malakal Island and Koror Island. “Sustainable infrastructure supports the entire nation of a country. When properly [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japan-and-palau-sign-a-us20m-reconstruction-project-of-minatobasi/">Japan and Palau Sign a US$20M reconstruction Project of Minatobasi</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/japan-and-palau-sign-a-us20m-reconstruction-project-of-minatobasi/>
+
+---
+
+## Inner Strength
+
+date: 2024-08-23, from: Island Times
+
+<figure><img width="400" height="400" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71977" data-permalink="https://islandtimes.org/loneliness-and-cigarettes/lnkcvqv8_400x400-9/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1" data-orig-size="400,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="LNkCVQv8_400x400" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>&#8220;Whether you love or hate me, it will not affect me. Have you ever encountered people who appear to have an inexplicable aversion to you? If someone dislikes you, remember that it&#8217;s not personal. Your presence or the energy you exude might trigger their inner struggles. However, it&#8217;s important to remind yourself that your value [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/inner-strength/">Inner Strength</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/inner-strength/>
+
+---
+
+## Preserving Tradition in a Democratic World
+
+date: 2024-08-23, from: Island Times
+
+<p>The Story of the Mechesil Belau   Aquila Van Keuk Programme Analyst (JPO) United Nations Development Programme Pacific Office in the Federated States of Micronesia It’s 10:30am on 9 July as my colleague and I pull into the carpark of the Ngarachamayong Cultural Center, a proud-standing building situated in the heart of Koror, Palau. As [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/preserving-tradition-in-a-democratic-world/">Preserving Tradition in a Democratic World</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/preserving-tradition-in-a-democratic-world/>
+
+---
+
+## Polycrisis in the Pacific
+
+date: 2024-08-23, from: Island Times
+
+<p>How leaders will respond at the PIF Summit in Tonga A tiny capital will be host to a huge regional agenda. By Mihai Sora SYDNEY/NUKU’ALOFA, (DEVPOLICY.ORG) &#8212; The Pacific region is facing a “polycrisis”, said Fiji Prime Minister Sitiveni Rabuka at a Pacific security conference in Suva in June. The mounting threats of climate change, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/polycrisis-in-the-pacific/">Polycrisis in the Pacific</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/polycrisis-in-the-pacific/>
+
+---
+
+## World powers’ strategic rivalry threatens to overwhelm Pacific Islands, think tank warns
+
+date: 2024-08-23, from: Island Times
+
+<p>SYDNEY (STRAIT TIMES) &#8212; Geopolitical shocks could disrupt the political and security landscape and strain unity in the Pacific Islands region amid strategic rivalry between China and U.S allies, a think-tank report warned ahead of an annual Pacific Islands leaders summit. Pacific Islands nations are valued in the defence plans of major world powers because [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/world-powers-strategic-rivalry-threatens-to-overwhelm-pacific-islands-think-tank-warns/">World powers&#8217; strategic rivalry threatens to overwhelm Pacific Islands, think tank warns</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/world-powers-strategic-rivalry-threatens-to-overwhelm-pacific-islands-think-tank-warns/>
+
+---
+
+## Depletion of Bikini Atoll funds sparks lawsuit against trust manager
+
+date: 2024-08-23, from: Island Times
+
+<p>DELAWARE (PACIFIC ISLAND TIMES) &#8212; From US$60 million to just US$89,000 in five years, and from US$59.1 million to just $28.7 million in six years. That rapid depletion of funds that were supposed to be held in trust for Pacific islanders displaced by early nuclear testing on Bikini Atoll is now at the centre of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/depletion-of-bikini-atoll-funds-sparks-lawsuit-against-trust-manager/">Depletion of Bikini Atoll funds sparks lawsuit against trust manager</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/depletion-of-bikini-atoll-funds-sparks-lawsuit-against-trust-manager/>
+
+---
+
+## Michelle and Barack Obama go after Trump and delegates dance:
+
+date: 2024-08-23, from: Island Times
+
+<p>Big moments from day two of the Democratic convention By Brad Ryan in Chicago and Rebecca Armitage (ABC-Australia) The second day of the Democratic National Convention featured loving endorsements of Kamala Harris, pointed attacks on Donald Trump, and a rollicking dance party. Just weeks&#160;after switching candidates to run against Trump&#160;on election day in November, Democrats wanted to paint [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/michelle-and-barack-obama-go-after-trump-and-delegates-dance/">Michelle and Barack Obama go after Trump and delegates dance:</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/michelle-and-barack-obama-go-after-trump-and-delegates-dance/>
+
+---
+
+## Hagåtña restoration office has outlived its mandate
+
+date: 2024-08-23, from: Pacific Island Times
+
+Sen. Parkinson: Why are the taxpayers still funding an agency that no longer has a purpose?  By Pacific Island Times News Staff   The... 
+
+<https://www.pacificislandtimes.com/post/hag%C3%A5t%C3%B1a-restoration-redevelopment-authority-has-outlived-its-mandate>
+
+---
+
+## JS Ariake crew engages with Palau’s Young Judokas
+
+date: 2024-08-23, from: Island Times
+
+<figure><img width="1024" height="750" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/judo.jpg?fit=1024%2C750&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/judo.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/judo.jpg?resize=300%2C220&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/judo.jpg?resize=1024%2C750&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/judo.jpg?resize=768%2C563&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/judo.jpg?resize=1200%2C879&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/judo.jpg?resize=400%2C293&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/judo.jpg?resize=706%2C517&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/judo.jpg?fit=1024%2C750&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72042" data-permalink="https://islandtimes.org/volleyball-goodwill-games-foster-friendship-and-camaraderie/judo-7/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/judo.jpg?fit=1249%2C915&amp;ssl=1" data-orig-size="1249,915" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="judo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/judo.jpg?fit=300%2C220&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/judo.jpg?fit=780%2C571&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>On August 19, the black belt holders from JS Ariake took part in a special training session with the Palau Judo Federation. The crews, who were visiting Palau, joined local judo students for an hour-long practice session that featured drills, techniques, and sparring. The session was more than just an exchange of skills; it was [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/js-ariake-crew-engages-with-palaus-young-judokas/">JS Ariake crew engages with Palau&#8217;s Young Judokas</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/js-ariake-crew-engages-with-palaus-young-judokas/>
+
+---
+
+## Volleyball Goodwill Games Foster Friendship and Camaraderie
+
+date: 2024-08-23, from: Island Times
+
+<figure><img width="1024" height="496" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Volleyball-Goodwill-Games-Foster-Friendship-and-Camaraderie.jpg?fit=1024%2C496&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Volleyball-Goodwill-Games-Foster-Friendship-and-Camaraderie.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Volleyball-Goodwill-Games-Foster-Friendship-and-Camaraderie.jpg?resize=300%2C145&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Volleyball-Goodwill-Games-Foster-Friendship-and-Camaraderie.jpg?resize=1024%2C496&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Volleyball-Goodwill-Games-Foster-Friendship-and-Camaraderie.jpg?resize=768%2C372&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Volleyball-Goodwill-Games-Foster-Friendship-and-Camaraderie.jpg?resize=1200%2C581&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Volleyball-Goodwill-Games-Foster-Friendship-and-Camaraderie.jpg?resize=400%2C194&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Volleyball-Goodwill-Games-Foster-Friendship-and-Camaraderie.jpg?resize=706%2C342&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Volleyball-Goodwill-Games-Foster-Friendship-and-Camaraderie.jpg?fit=1024%2C496&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72043" data-permalink="https://islandtimes.org/volleyball-goodwill-games-foster-friendship-and-camaraderie/volleyball-goodwill-games-foster-friendship-and-camaraderie/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Volleyball-Goodwill-Games-Foster-Friendship-and-Camaraderie.jpg?fit=1249%2C605&amp;ssl=1" data-orig-size="1249,605" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Volleyball Goodwill Games Foster Friendship and Camaraderie" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Volleyball-Goodwill-Games-Foster-Friendship-and-Camaraderie.jpg?fit=300%2C145&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Volleyball-Goodwill-Games-Foster-Friendship-and-Camaraderie.jpg?fit=780%2C378&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>In a spirited display of sportsmanship, the Japan Maritime Self-Defense Force&#8217;s JS Ariake crews competed against Palau&#8217;s Ministry of Education and Judiciary volleyball teams in a lively series of goodwill games. The event, held on August 18th, brought together participants from JS Ariake and Palau government employees in a fun-filled afternoon of friendly competition. The [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/volleyball-goodwill-games-foster-friendship-and-camaraderie/">Volleyball Goodwill Games Foster Friendship and Camaraderie</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/volleyball-goodwill-games-foster-friendship-and-camaraderie/>
+
+---
+
+## Build a better Guam: Spend our surplus wisely
+
+date: 2024-08-23, from: Pacific Island Times
+
+Today, the Guam Legislature is working on the government of Guam's FY2024 Budget. Guam is at a pivotal moment, with an anticipated... 
+
+<https://www.pacificislandtimes.com/post/build-a-better-guam-spend-our-surplus-wisely>
+
+---
+
+## Public input sought on environmental assessment for Guam National Wildlife 
+
+date: 2024-08-23, from: Pacific Island Times
+
+By Pacific Island Times News Staff The U.S. Marine Corps, with the U.S. Fish and Wildlife Service as a cooperating agency, today launched... 
+
+<https://www.pacificislandtimes.com/post/public-input-sought-on-environmental-assessment-for-guam-national-wildlife>
+
+---
+
+## UH professor appointed to Honolulu climate change commission
+
+date: 2024-08-23, from: University of Hawaiʻi News
+
+<p><abbr>CTAHR</abbr> professor Kirsten Oleson was appointed to the City and County of Honolulu’s Climate Change Commission.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/22/kirsten-oleson-climate-change-commission/"><abbr>UH</abbr> professor appointed to Honolulu climate change commission</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/22/kirsten-oleson-climate-change-commission/>
+
+---
+
+## Which college majors pay the most in Hawaiʻi and the U.S.?
+
+date: 2024-08-23, from: University of Hawaiʻi News
+
+<p>Report authors utilized data from the American Community Survey in their analysis.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/22/college-majors-earnings/">Which college majors pay the most in Hawaiʻi and the U.S.?</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/22/college-majors-earnings/>
+
+---
+
+## Speakers call for fair coverage of female participation in politics
+
+date: 2024-08-23, from: University of the South Pacific (Fiji)
+
+<p>Image: Dialogue Fiji Panellists at a recent discussion on “Breaking Barriers: Increasing Female Participation in...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/speakers-call-for-fair-coverage-of-female-participation-in-politics/">Speakers call for fair coverage of female participation in politics</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/speakers-call-for-fair-coverage-of-female-participation-in-politics/>
+
+---
+
+## 2024–25 UH Mānoa women’s and men’s basketball Big West schedule released
+
+date: 2024-08-23, from: University of Hawaiʻi News
+
+<p>Both teams open the conference season on December 7 versus Long Beach State.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/22/2024-25-uh-manoa-basketball-big-west-schedules-released/">2024–25 <abbr>UH</abbr> Mānoa women’s and men’s basketball Big West schedule released</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/22/2024-25-uh-manoa-basketball-big-west-schedules-released/>
+
+---
+
+## †Imelda Valiente
+
+date: 2024-08-23, updated: 2024-08-23, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/obituaries/imelda-valiente/article_00693f2e-60f5-11ef-a1bc-6f55924cae8f.html>
+
+---
+
+## Alumni UH men’s volleyball stars build excitement, look ahead
+
+date: 2024-08-23, from: University of Hawaiʻi News
+
+<p>Volleyball alumni Costas Theocharidis and Kupono Fey shared their perspectives.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/22/alumni-volleyball-stars-build-excitement/">Alumni <abbr>UH</abbr> men’s volleyball stars build excitement, look ahead</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/22/alumni-volleyball-stars-build-excitement/>
+
+---
+
+## USP Emalus Campus Open Day: Nurturing Future Leaders Through Engaging Debate
+
+date: 2024-08-22, from: University of the South Pacific (Fiji)
+
+<p>Encouraging students to engage with critical topics relevant to national development is essential for fostering...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-emalus-campus-open-day-nurturing-future-leaders-through-engaging-debate/">USP Emalus Campus Open Day: Nurturing Future Leaders Through Engaging Debate</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-emalus-campus-open-day-nurturing-future-leaders-through-engaging-debate/>
+
+---
+
+## Marshallese sue Hawaii
+
+date: 2024-08-22, from: Marshal Islands Journal
+
+<p>Journal 8/21/1987 P1 RepMar angling for lucrative ship registryA bill to establish the first foreign ship registry in Micronesia moved toward approval in the Nitijela this week, following Cabinet endorsement and a public hearing Friday. The possibility of this venture producing millions of dollars in revenue for the Marshall Islands was explained by businessman Howard [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/marshallese-sue-hawaii/">Marshallese sue Hawaii</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/marshallese-sue-hawaii/>
+
+---
+
+## Island Conservation on the Radio: Cameron Diver talks Nature-Based Solutions
+
+date: 2024-08-22, from: Island Conservation News
+
+<p>Island Conservation's new Vice President was interviewed on ABC. Listen now to hear about amazing recovery on islands around the world!</p>
+<p>The post <a href="https://www.islandconservation.org/cameron-diver-abc/">Island Conservation on the Radio: Cameron Diver talks Nature-Based Solutions</a> appeared first on <a href="https://www.islandconservation.org">Island Conservation</a>.</p>
+ 
+
+<https://www.islandconservation.org/cameron-diver-abc/>
+
+---
+
+## 6 back-to-school style trends Gen Z will love
+
+date: 2024-08-22, updated: 2024-08-22, from: Marianas Variety
+
+(BPT) - As the school bells ring in a new year, Gen Z — who now make up nearly 70 million of the U.S. population — are ready to showcase their unique style. Here's a look at what students born between 1997 and 2012 will be wearing to set the stage for a stylish school year. 
+
+<https://www.mvariety.com/online_features/money_and_finance/6-back-to-school-style-trends-gen-z-will-love/article_cd3a8188-28a5-5b6f-82a2-c11ae062a262.html>
+
+---
+
+## Ambrose’s Story —  Stop the Slander!
+
+date: 2024-08-22, updated: 2024-08-22, from: Marianas Variety
+
+THE TRUTH of the matter is I must set the record straight so my daughters can hold their heads up high and hopefully to put an end to this newspaper talking about my record. My wife and I are tired of having to call our children to say they (the newspaper) are talking about my record AGAIN! Just to set the record straight, as there is NO shame in my game, as I’m better for it.  I first got in trouble because three of my “so-call friends” asked me to take them to get some weed but while I waited in the car they went in and robbed a guy. He called the police and said he had been robbed and identified them and they went to jail. But they waited 18 months and cooked up a lie that I had engineered the robbery so they could get out. When the police called me I went in and told them the truth — that I didn’t know anything about a robbery.  Well, the racist Judicial System in Memphis prosecuted me and Mr. Adams who was robbed even testified on MY behalf, as I had explained my situation to him and he knew I wasn’t part of the robbery. But I will never forget, Judge Beasly saying “just because you are a college graduate and a respected leader in the community, I’m going to make an example of you” totally ignoring Mr. Adams plea for me to be set free because I wasn’t involved in the robbery. However, Tennessee has a law that allows the “State to Prosecute” even if the victim doesn’t want — bigotry method to prosecute Black on Black crime. They also used my case to make new “entrapment law” as the drugs were shipped to the Narcotics Division not me! I just wish had been financially able to appeal it to a higher court.  But had I been white I wouldn’t have even been prosecuted in Memphis but it’s no secret about the biased Judicial System in America, especially in the South where it’s WORSE!!! 
+
+<https://www.mvariety.com/views/letters_to_editor/ambrose-s-story-stop-the-slander/article_0ad954f0-6044-11ef-b978-e709e25c110c.html>
+
+---
+
+## FEATURE ǀ Investment promotion + E2 visa is a powerful tool for the CNMI to expand its international tourism market
+
+date: 2024-08-22, updated: 2024-08-22, from: Marianas Variety
+
+THE CNMI’s overseas efforts to expand its tourism business include participating in local travel exhibitions, hosting informational sessions, establishing relationships with local travel agencies, and advertising to build brand awareness. However, these methods have not yielded the expected results for two main reasons: 
+
+<https://www.mvariety.com/views/columnists/feature-investment-promotion-e2-visa-is-a-powerful-tool-for-the-cnmi-to-expand-its/article_7d24ffe2-6048-11ef-aa1e-8bb6317678f0.html>
+
+---
+
+## Japanese team looks into Palau’s fishing industry
+
+date: 2024-08-22, updated: 2024-08-22, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) — Japan’s Ambassador to Palau Orikasa Hiroyuki and the Japanese Fisheries Survey Team met with Palau President Surangel Whipps Jr. last week. 
+
+<https://www.mvariety.com/news/regional_world/japanese-team-looks-into-palau-s-fishing-industry/article_d19f5ffa-6056-11ef-b983-9fd9912ca447.html>
+
+---
+
+## MLB roundup: Cards’ slam in 10th stuns Brewers
+
+date: 2024-08-22, updated: 2024-08-22, from: Marianas Variety
+
+(Reuters) — Nolan Arenado hit a walk-off grand slam in the 10th inning to lift the St. Louis Cardinals past the visiting Milwaukee Brewers 10-6 on Wednesday. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-cards-slam-in-10th-stuns-brewers/article_819220a0-608e-11ef-8ed0-e7581e036c9a.html>
+
+---
+
+## Raiders fend off Crooked Arrow, 8-5
+
+date: 2024-08-22, updated: 2024-08-22, from: Marianas Variety
+
+THE Last Shot Raiders remain in overall second place in the Tuesday division of the SBA Budweiser Open 8-Ball League 2024 after taking down Black 8 Crooked Arrow, 8-5, at the Last Shot Bar on Tuesday. 
+
+<https://www.mvariety.com/sports/localsports/raiders-fend-off-crooked-arrow-8-5/article_0ceacbf2-608f-11ef-ab6c-7bcbcd249c95.html>
+
+---
+
+## Tarkong, Ball represent NMI in va’a world sprint championship
+
+date: 2024-08-22, updated: 2024-08-22, from: Marianas Variety
+
+JASON Tarkong and Pipit Ball had the privilege to compete alongside the best paddlers in the world at the IVF Va'a World Elite and Club Sprint Championship 2024 in Hilo, Hawaii. Although they did not advance past the first round, they were honored to represent the NMI in one of the most prestigious events in the sport of va’a. 
+
+<https://www.mvariety.com/sports/localsports/tarkong-ball-represent-nmi-in-va-a-world-sprint-championship/article_3d7e4d92-6090-11ef-b97d-7306d5712888.html>
+
+---
+
+## Cross-agency collaboration in CNMI takes center stage at national data workshop
+
+date: 2024-08-22, updated: 2024-08-22, from: Marianas Variety
+
+(PSS) — Through its recent participation in the 2024 Statewide Longitudinal Data System Policies and Process workshop organized by the SLDS State Support Team, the CNMI SLDS Program demonstrated a strong commitment to effective data governance. 
+
+<https://www.mvariety.com/news/community_bulletins/cross-agency-collaboration-in-cnmi-takes-center-stage-at-national-data-workshop/article_df5ab2b2-6055-11ef-ad2a-871da7f81a59.html>
+
+---
+
+## ‘News Zero’ in Majuro libraries
+
+date: 2024-08-22, from: Marshal Islands Journal
+
+<p>The writer and retired journalism professor Beverly Ann Deepe Keever donated some of her books, “News Zero: The New York Times and The Bomb,” for use by interested people in Majuro. On behalf of the author, Journal Editor Giff Johnson delivered donations of 20 books to the College of the Marshall Islands library for use [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/news-zero-in-majuro-libraries/">‘News Zero’ in Majuro libraries</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/news-zero-in-majuro-libraries/>
+
+---
+
+## Polycrisis in the Pacific: How leaders will respond at the PIF summit in Tonga
+
+date: 2024-08-22, from: Pacific Island Times
+
+A tiny capital will be host to a huge regional agenda By Mihai Sora The Pacific region is facing a “polycrisis," said Fiji Prime Minister... 
+
+<https://www.pacificislandtimes.com/post/polycrisis-in-the-pacific-how-leaders-will-respond-at-the-pif-summit-in-tonga>
+
+---
+
+## Guam's congressional candidates trade barbs over Navy's water rate hike 
+
+date: 2024-08-22, from: Pacific Island Times
+
+By Pacific Island Times News Staff   The political temperature rose this week when the Democratic and Republican candidates for Guam... 
+
+<https://www.pacificislandtimes.com/post/guam-s-congressional-candidates-trade-barbs-over-navy-s-water-rate-hike>
 
 ---
 
@@ -285,6 +1075,16 @@ date: 2024-08-22, from: Marshal Islands Journal
 
 ---
 
+## DNC's platform takes note of Guam’s strategic role 
+
+date: 2024-08-22, from: Pacific Island Times
+
+By Democratic Party of Guam Chicago, Illinois  — The Democratic National Committee adopted its 2024 platform, underscoring the strategic... 
+
+<https://www.pacificislandtimes.com/post/guam-s-strategic-role-recognized-in-the-democratic-national-committee-s-platform>
+
+---
+
 ## Sailing toward a bright future
 
 date: 2024-08-22, from: Marshal Islands Journal
@@ -483,6 +1283,26 @@ date: 2024-08-21, updated: 2024-08-22, from: Marianas Variety
 IMPERIAL Pacific International has asked the federal bankruptcy court to approve the sale of its hotel casino and other real estate assets to Loi Lam Sit for $10 million. 
 
 <https://www.mvariety.com/news/local/ipi-wants-to-sell-hotel-casino-other-assets-for-10-million/article_160e5e48-5f94-11ef-b728-731cebd9bf78.html>
+
+---
+
+## Depletion of Bikini Atoll funds sparks lawsuit against trust manager
+
+date: 2024-08-21, from: Pacific Island Times
+
+By Jayvee Vallejera   From $60 million to just $89,000 in five years, and from $59.1 million to just $28.7 million in six years. That... 
+
+<https://www.pacificislandtimes.com/post/depletion-of-bikini-atoll-funds-sparks-lawsuit-against-trust-manager>
+
+---
+
+## Environment regulators deny Andersen Air Force Base's renewal of permit for open detonation facility 
+
+date: 2024-08-21, from: Pacific Island Times
+
+By Mar-Vic Cagurangan Andersen Air Force Base has failed to identify adequate measures to protect the ocean and Guam's water source from... 
+
+<https://www.pacificislandtimes.com/post/environment-regulators-deny-andersen-air-force-base-s-renewal-of-permit-for-open-detonation-facility>
 
 ---
 
@@ -908,6 +1728,16 @@ date: 2024-08-21, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/08/20/hale-aloha-renovation-completed/">Hale Aloha Towers renovation completed</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/08/20/hale-aloha-renovation-completed/>
+
+---
+
+## Preserving tradition in a democratic world: The story of the Mechesil Belau  
+
+date: 2024-08-21, from: Pacific Island Times
+
+Koror -- It’s 10:30 a.m. on July 9 as my colleague and I pull into the car park of the Ngarachamayong Cultural Center, a proud-standing... 
+
+<https://www.pacificislandtimes.com/post/preserving-tradition-in-a-democratic-world-the-story-of-the-mechesil-belau>
 
 ---
 

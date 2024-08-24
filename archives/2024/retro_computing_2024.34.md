@@ -1,11 +1,41 @@
 ---
 title: retro computing 2024.34
-updated: 2024-08-22 07:16:56
+updated: 2024-08-24 08:51:07
 ---
 
 # retro computing 2024.34
 
-(date: 2024-08-22 07:16:56)
+(date: 2024-08-24 08:51:07)
+
+---
+
+## b.log 2024/08/23 - The end is nigh, My larder system finally in place, No more St. Mamet, Hello Roche Fontaine?, Paper Trail.
+
+date: 2024-08-23, from: Richard Murray's blog
+
+The end is nigh, My larder system finally in place, No more St. Mamet, Hello Roche Fontaine?, Paper Trail. 
+
+<https://heyrick.eu/blog/index.php?diary=20240823>
+
+---
+
+## Sanitarium
+
+date: 2024-08-23, from: Digital Antiquarian
+
+If someone were to ask you at the beginning of 1998 which studio was most likely to release a little-sung adventure game that year that would go on to become a well-loved cult classic, you probably wouldn&#8217;t think of the little Pennsylvania outfit known as DreamForge Intertainment. For DreamForge&#8217;s track record with the adventure genre [&#8230;] 
+
+<https://www.filfre.net/2024/08/sanitarium/>
+
+---
+
+## Mark Williams' C Programming System
+
+date: 2024-08-22, from: Computer ads from the Past
+
+What C did for Programming Mark Williams has done for C Programming 
+
+<https://computeradsfromthepast.substack.com/p/mark-williams-c-programming-system>
 
 ---
 

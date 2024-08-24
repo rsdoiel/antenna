@@ -1,11 +1,127 @@
 ---
 title: food 2024.34
-updated: 2024-08-22 07:16:57
+updated: 2024-08-24 08:51:08
 ---
 
 # food 2024.34
 
-(date: 2024-08-22 07:16:57)
+(date: 2024-08-24 08:51:08)
+
+---
+
+## Spiced Pancakes With Berries
+
+date: 2024-08-23, from: Pepper Scale
+
+A twist on the traditional, our spiced pancakes with berries recipe is sure to be a hit with the whole family.&#160;There’s just enough “spicy” here for adults to love, yet not so much that will turn off the kids. And the sweet berries and a ... <p class="read-more-container"><a title="Spiced Pancakes With Berries" class="read-more button" href="https://pepperscale.com/spiced-pancakes-with-berries/#more-77577" aria-label="Read more about Spiced Pancakes With Berries">Read more</a></p> 
+
+<https://pepperscale.com/spiced-pancakes-with-berries/>
+
+---
+
+## What’s A Good Gochujang Substitute?
+
+date: 2024-08-23, from: Pepper Scale
+
+More and more recipes call for gochujang, the popular Korean chili paste with the spicy and bold miso-like flavor. But as popular as it has become, it can still be tough to track down. Sure, you can pick up a few containers from the store to ... <p class="read-more-container"><a title="What&#8217;s A Good Gochujang Substitute?" class="read-more button" href="https://pepperscale.com/gochujang-substitute/#more-6871" aria-label="Read more about What&#8217;s A Good Gochujang Substitute?">Read more</a></p> 
+
+<https://pepperscale.com/gochujang-substitute/>
+
+---
+
+## Kraken Scorpion Pepper Guide: Heat, Flavor, And Pairings
+
+date: 2024-08-23, from: Pepper Scale
+
+The Kraken Scorpion pepper is a large, brown, super-hot variety that was created by Mike Hess of Peoria, Illinois in 2013. It is a cross between the Bhut Jolokia India Carbon and the Trinidad Scorpion Chocolate. It’s an extremely hot pepper, with a Scoville Heat ... <p class="read-more-container"><a title="Kraken Scorpion Pepper Guide: Heat, Flavor, And Pairings" class="read-more button" href="https://pepperscale.com/kraken-scorpion-pepper/#more-100226" aria-label="Read more about Kraken Scorpion Pepper Guide: Heat, Flavor, And Pairings">Read more</a></p> 
+
+<https://pepperscale.com/kraken-scorpion-pepper/>
+
+---
+
+## Homemade Salsa Recipe
+
+date: 2024-08-23, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/homemade-salsa/" title="Homemade Salsa Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Homemade-Salsa-Recipe1b-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Homemade Salsa in a serving bowl with tortilla chips" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Homemade-Salsa-Recipe1b-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Homemade-Salsa-Recipe1b-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Homemade-Salsa-Recipe1b-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Homemade-Salsa-Recipe1b-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Homemade-Salsa-Recipe1b-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Homemade-Salsa-Recipe1b-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Homemade-Salsa-Recipe1b.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This classic salsa is made restaurant style with juicy tomatoes, jalapeno, onion, lime and a special ingredient that makes it extra awesome, easy to make!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/homemade-salsa/">Homemade Salsa Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<https://www.chilipeppermadness.com/recipes/homemade-salsa/>
+
+---
+
+## Sour Frozen Grapes and More Recipes We Made This Week
+
+date: 2024-08-23, from: Bon Appetet
+
+Like silken tofu stew and grilled fish. 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-august-2024>
+
+---
+
+## The Scoville Scale – A Guide to Hot Peppers
+
+date: 2024-08-23, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/scoville-scale/"><img title="the-scoville-scale-a-guide-to-hot-peppers" src="https://www.isabeleats.com/wp-content/uploads/2019/08/the-scoville-scale-a-guide-to-hot-peppers-400x600.jpg" alt="The Scoville Scale - A Guide to Hot Peppers" width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	The Scoville scale is a spicy food lover’s guide to hot peppers. Learn what Scoville units are, how the hottest peppers in the world measure up, and where and how to use the Scoville scale in Mexican cooking. What Is the Scoville Scale? The Scoville Scale and its form of measurement, Scoville Heat Units (SHU), [&#8230;] 
+
+<https://www.isabeleats.com/scoville-scale/>
+
+---
+
+## Pasta all'Amatriciana
+
+date: 2024-08-22, from: Bon Appetet
+
+With vibrant spice, this classic Italian tomato sauce gets richness from cured pork and Pecorino. 
+
+<https://www.bonappetit.com/recipe/bucatini-all-amatriciana-2>
+
+---
+
+## These Chefs Are Championing Heirloom Corn in Minnesota
+
+date: 2024-08-22, from: Bon Appetet
+
+At their Minneapolis restaurant Oro by Nixta, Kate and Gustavo Romero spotlight diverse corn varieties through vibrant Mexican dishes. 
+
+<https://www.bonappetit.com/story/oro-by-nixta-kate-gustavo-romero>
+
+---
+
+## The Best Summer Reads for Food-Loving Bookworms
+
+date: 2024-08-22, from: Bon Appetet
+
+The best books for food lovers to read this summer: Bad Witches by Heather Akumiah, Maame by Jessica George, The Pairing by Casey McQuiston, and more. 
+
+<https://www.bonappetit.com/story/summer-reads-for-food-lovers>
+
+---
+
+## I Need Kid-Friendly Breakfast Ideas
+
+date: 2024-08-22, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris and Ali Slagle share easy breakfast recipes perfect for back-to-school season. 
+
+<https://www.bonappetit.com/story/dinner-sos-kid-friendly-breakfasts>
+
+---
+
+## Seeking The Best NYC Date Night Ideas? It's Just a Cocktail and an Ice Cream Cone
+
+date: 2024-08-22, from: Bon Appetet
+
+Skip dinner—a cocktail and a scoop is a low-key combination with high-key returns. 
+
+<https://www.bonappetit.com/story/the-best-summer-date-in-nyc-cocktail-and-ice-cream>
 
 ---
 
@@ -135,7 +251,7 @@ date: 2024-08-21, from: Isebel Eats
 
 date: 2024-08-21, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/muhammara/" title="Muhammara Recipe (Roasted Red Pepper &amp; Walnut Dip)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Muhammara Dip in a bowl with pita" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Muhammara is a creamy roasted red pepper dip from the Middle East made with toasted walnuts, sweet pomegranate, and warming spices, so savory and delicious. Easy to make and a huge crowd pleaser!</p>
+<a href="https://www.chilipeppermadness.com/recipes/muhammara/" title="Muhammara Recipe (Roasted Red Pepper &amp; Walnut Dip)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Muhammara Dip in a bowl with pita" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Muhammara-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Muhammara is a creamy roasted red pepper dip from the Middle East made with toasted walnuts, sweet pomegranate, and warming spices, so savory and delicious. Easy to make and a huge crowd pleaser!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/muhammara/">Muhammara Recipe (Roasted Red Pepper &amp; Walnut Dip)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

@@ -1,11 +1,44 @@
 ---
 title: writing 2024.34
-updated: 2024-08-22 07:16:52
+updated: 2024-08-24 08:51:03
 ---
 
 # writing 2024.34
 
-(date: 2024-08-22 07:16:52)
+(date: 2024-08-24 08:51:03)
+
+---
+
+## Featured Friday: First Features
+
+date: 2024-08-23, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at those first screenplays that broke through, got made, and launched some of our favorite writers’ careers. Our collection includes: 28 Days Later by Alex Garland A Few Good Men by Aaron [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-first-features">Featured Friday: First Features</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/featured-friday-first-features>
+
+---
+
+## Ian Mond Reviews The Universe Delivers The Enemy You Need by Adam Marek
+
+date: 2024-08-23, from: Locus Magazine
+
+<p><strong>The Universe Delivers the Enemy You Need</strong>, Adam Marek (Comma Press 978-1-91269-775-5, £9.99, 244pp, tp) March 2024.</p>
+<p>A large chunk of the 21 stories in Adam Marek’s new collection, <strong>The Universe Delivers the En­emy You Need – </strong>a magnificent title that’s sadly not shared by a single piece in the book – plays on similar concerns raised by Joel Dane in <strong>The Ragpicker</strong>: that technology is putting a  <a href="https://locusmag.com/2024/08/ian-mond-reviews-the-universe-delivers-the-enemy-you-need-by-adam-marek/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/ian-mond-reviews-the-universe-delivers-the-enemy-you-need-by-adam-marek/>
+
+---
+
+## Adrienne Martini Reviews The Daughters’ War by Christopher Buehlman
+
+date: 2024-08-22, from: Locus Magazine
+
+<p><strong>The Daughters’ War</strong>, Christopher Buehlman (Tor 978-1-25088-767-2, $28.99, 416pp, hc) June 2024.</p>
+<p>Christopher Buehlman’s <strong>The Daughters’ War </strong>is the rare prequel that makes you want to pick up the first book – <strong>The Blacktongue Thief</strong>, in this case – again so that you can read it with all that you now know about this world and one of its characters. It helps, too, that both books are damn  <a href="https://locusmag.com/2024/08/adrienne-martini-reviews-the-daughters-war-by-christopher-buehlman/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/adrienne-martini-reviews-the-daughters-war-by-christopher-buehlman/>
 
 ---
 
@@ -56,7 +89,7 @@ date: 2024-08-21, from: Locus Magazine
 
 ---
 
-## Planning and Pantsing with Scrivener
+## Planning and Pantsing Your Novel with Scrivener
 
 date: 2024-08-21, from: Literature & a Latte blog
 

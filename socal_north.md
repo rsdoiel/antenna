@@ -1,11 +1,232 @@
 ---
 title: socal north 2024.34
-updated: 2024-08-22 07:16:48
+updated: 2024-08-24 08:50:59
 ---
 
 # socal north 2024.34
 
-(date: 2024-08-22 07:16:48)
+(date: 2024-08-24 08:50:59)
+
+---
+
+## LA City Council: Who's running in the Nov. 5 general election and why it matters
+
+date: 2024-08-23, updated: 2024-08-24, from: The LAist
+
+Your overview to the L.A. City Council races and issues in the Nov. 5 general election. On the ballot: Districts 2, 10 and 14. 
+
+<https://laist.com/news/politics/2024-general-california-elections-los-angeles-city-council>
+
+---
+
+## Friday Links: August 23, 2024
+
+date: 2024-08-23, from: California Native Plants Society
+
+<p>This Friday Links has it all: wildlife crossings, mud, plant-protecting dogs, thirsty bees, a plastic desert tortoise, so check it out!</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-august-23-2024-39970">Friday Links: August 23, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-august-23-2024-39970>
+
+---
+
+## Cook’s Corner marks one year since mass shooting
+
+date: 2024-08-23, updated: 2024-08-23, from: The LAist
+
+The popular Orange County bar will host a candlelight vigil tonight. 
+
+<https://laist.com/news/cooks-corner-marks-one-year-since-mass-shooting>
+
+---
+
+## The World's Largest Bishop Pine Forest Is in Point Reyes
+
+date: 2024-08-23, updated: 2024-08-23, from: The LAist
+
+While it’s not a household name, the drought-tolerant, rocky, soil-loving plant has fashioned its own way of surviving the ages. 
+
+<https://laist.com/news/climate-environment/the-worlds-largest-bishop-pine-forest-is-in-point-reyes>
+
+---
+
+## Canby assumes command of USS Ft. Worth
+
+date: 2024-08-23, from: Catalina Islander
+
+Dana Canby graduated from Avalon School in 2002 For the Islander Cmdr. Alfonza White was relieved by Cmdr. Dana Canby as commanding officer of the Freedom-variant littoral combat ship USS Fort Worth (LCS 3) during a change of command ceremony held at Naval Base San Diego, June 28. Capt. Douglas Meagher, commodore, Littoral Combat Ship [&#8230;] 
+
+<https://thecatalinaislander.com/canby-assumes-command-of-uss-ft-worth/>
+
+---
+
+## Catalinaville event raises over $700,000 for hospital
+
+date: 2024-08-23, from: Catalina Islander
+
+Courtesy of Catalina Island Health Foundation Catalina Island Health Foundation recently held its annual Catalinaville event which raises funds to build a new hospital. This Margaritaville-inspired event puts the “fun” in fundraiser in a beautiful island setting complete with an end of the night dance party on the beach! Catalinaville welcomed 225 colorfully dressed guests [&#8230;] 
+
+<https://thecatalinaislander.com/catalinaville-event-raises-over-700000-for-hospital/>
+
+---
+
+## Avalon to update city wireless rules
+
+date: 2024-08-23, from: Catalina Islander
+
+The City Council unanimously introduced an ordinance that updates the city code covering wireless facilities. The proposed ordinance will return to the council for adoption at a future date. Background Avalon hasn’t updated its regulations for antennas and wireless facilities since 1997, according to Bennett Givens, an associate with Best Best &#38; Krieger. BB&#38;K is [&#8230;] 
+
+<https://thecatalinaislander.com/avalon-to-update-city-wireless-rules/>
+
+---
+
+## Sheriff’s Log: Aug. 8 to Aug. 14, 2024
+
+date: 2024-08-23, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Aug. 8 to Aug. 14, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<https://thecatalinaislander.com/sheriffs-log-aug-8-to-aug-14-2024-2/>
+
+---
+
+## An Angel In Our Life: A poem for Rosie Cadman
+
+date: 2024-08-23, from: Catalina Islander
+
+Rosie, Rosie If it’s ok with you, I’d like to get a little bit cozy And let you know how much we all love you and that you have been an angel in our life And we hope and pray that from Heaven you can help us all get through our future strife You were [&#8230;] 
+
+<https://thecatalinaislander.com/an-angel-in-our-life-a-poem-for-rosie-cadman/>
+
+---
+
+## Kamala Harris vows to unite America, as California Democrats look to flip the House
+
+date: 2024-08-23, updated: 2024-08-23, from: The LAist
+
+Party leaders at the Democratic convention in Chicago send a clear message to California delegates: She needs a Democratic Congress to succeed if she’s elected president. 
+
+<https://laist.com/news/politics/kamala-harris-vows-to-unite-america-as-california-democrats-look-to-flip-the-house>
+
+---
+
+## Thank you for supporting Ben’s Golf Tournament
+
+date: 2024-08-23, from: Catalina Islander
+
+Dear Family and Friends, On behalf of our entire family, we extend our heartfelt gratitude to everyone who participated in and supported Ben’s Golf Tournament. The turnout was incredible, and the community’s support was truly overwhelming. We would like to express our special thanks to the following individuals and organizations whose contributions made this event [&#8230;] 
+
+<https://thecatalinaislander.com/thank-you-for-supporting-bens-golf-tournament/>
+
+---
+
+## Your SoCal Weather Report For Friday, August 23: Cool down brings pleasant weekend weather
+
+date: 2024-08-23, updated: 2024-08-23, from: The LAist
+
+Cool down continues, but its still pleasantly warm out. 
+
+<https://laist.com/news/climate-environment/la-weather-report-august-23-cool-down-continues-into-saturday>
+
+---
+
+## ‘This is our Super Bowl’: Football locks in placements ahead of season opener
+
+date: 2024-08-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+DeShaun Foster&#8217;s first training camp has drawn to a close.
+Reflecting on the journey, the first-year head coach said he had a goal for his players: Command from within. 
+
+<https://dailybruin.com/2024/08/22/this-is-our-super-bowl-football-locks-in-placements-ahead-of-season-opener/>
+
+---
+
+## 2024 UCLA football position preview: Quarterbacks
+
+date: 2024-08-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+Inching closer to a new era for UCLA football in the Big Ten, Daily Bruin Sports will preview each of the Bruins&#8217; position groups prior to the season&#8217;s official start. 
+
+<https://dailybruin.com/2024/08/22/2024-ucla-football-position-preview-quarterbacks/>
+
+---
+
+## 2024 UCLA football position preview: Wide receivers, tight ends
+
+date: 2024-08-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+Inching closer to a new era for UCLA football in the Big Ten, Daily Bruin Sports will preview each of the Bruins&#8217; position groups prior to the season&#8217;s official start. 
+
+<https://dailybruin.com/2024/08/22/2024-ucla-football-position-preview-wide-receivers-tight-ends/>
+
+---
+
+## Healthcare workers authorize potential strike
+
+date: 2024-08-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The National Union of Healthcare Workers has been in negotiations for a new contract with USC for almost seven months.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/22/healthcare-workers-authorize-potential-strike/">Healthcare workers authorize potential strike</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/22/healthcare-workers-authorize-potential-strike/>
+
+---
+
+## Thirsty bees shut down part of Joshua Tree National Park
+
+date: 2024-08-22, updated: 2024-08-22, from: The LAist
+
+The Cottonwood area has been temporarily closed for visitor’s safety. 
+
+<https://laist.com/news/climate-environment/thirsty-bees-shut-down-part-of-joshua-tree-national-park>
+
+---
+
+## Get Active and Reconnect with Nature
+
+date: 2024-08-22, from: City of Santa Clarita
+
+<p>By Councilwoman Marsha McLean One of my favorite parts about living in Santa Clarita is the abundance of recreational opportunities available for residents of all ages. From pickleball and hiking, to biking and disc golf, there are opportunities for everyone to stay active and healthy. As a mom who raised three children here in Santa [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/08/22/get-active-and-reconnect-with-nature/">Get Active and Reconnect with Nature</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/08/22/get-active-and-reconnect-with-nature/>
+
+---
+
+## Community members protest outside Coliseum during convocation
+
+date: 2024-08-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Roughly 17 pro-Palestinian protesters chanted, passed out flyers and held signs that read “USC FUNDS GENOCIDE” as students filed in for convocation Thursday morning.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/22/community-members-protest-during-convocation/">Community members protest outside Coliseum during convocation</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/22/community-members-protest-during-convocation/>
+
+---
+
+## West Nile virus found in second Orange County city
+
+date: 2024-08-22, updated: 2024-08-22, from: The LAist
+
+The virus was detected in Santa Ana in an area bordering Garden Grove Boulevard. 
+
+<https://laist.com/news/second-instance-of-west-nile-virus-in-orange-county>
+
+---
+
+## Construction to Begin in The Cube Parking Lot
+
+date: 2024-08-22, from: City of Santa Clarita
+
+<p>Starting Tuesday, September 3, parking at The Cube – Ice and Entertainment Center, Powered by FivePoint, will be reduced for solar panel installation. The project will take approximately six weeks to complete. Part of the City’s Energy Infrastructure Modernization Project, this upcoming closure will help generate electricity at The Cube.&#160;The panels will also provide shaded [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/08/22/construction-to-begin-in-the-cube-parking-lot/">Construction to Begin in The Cube Parking Lot</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/08/22/construction-to-begin-in-the-cube-parking-lot/>
 
 ---
 
@@ -282,7 +503,7 @@ Slightly warm today, but another cooling trend begins tomorrow.
 
 ## Why LAUSD is betting school wellness centers can keep students healthy — and in the classroom
 
-date: 2024-08-21, updated: 2024-08-21, from: The LAist
+date: 2024-08-21, updated: 2024-08-23, from: The LAist
 
 When health researchers looked at the outcomes of students after they visited L.A. school health clinics, they found attendance stabilized or improved — particularly for students who sought mental health treatment. 
 
@@ -568,7 +789,7 @@ date: 2024-08-21, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-08-21, from: The Daily Bruin (UCLA Student Newspaper)
 
-&#160;On August 11, the Foo Fighters played their second night at the BMO Stadium on their “Everything or Nothing at All Tour” (CQ11 ok), with opening acts the Pretenders and Alex G. 
+&#160;On August 11, the Foo Fighters played their second night at the BMO Stadium on their “Everything or Nothing at All Tour”, with opening acts the Pretenders and Alex G. 
 
 <https://dailybruin.com/2024/08/20/gallery-foo-fighters-rock-bmo-stadium-stage/>
 

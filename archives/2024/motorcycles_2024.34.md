@@ -1,11 +1,51 @@
 ---
 title: motorcycles 2024.34
-updated: 2024-08-22 07:16:55
+updated: 2024-08-24 08:51:07
 ---
 
 # motorcycles 2024.34
 
-(date: 2024-08-22 07:16:55)
+(date: 2024-08-24 08:51:07)
+
+---
+
+## After Selling It Off, Legendary Painter Troy Lee Buys Back His Namesake Company
+
+date: 2024-08-23, from: Ride Apart, Electric Motorcycle News
+
+The brand has a bunch of new gear and technical apparel in the pipeline.  
+
+<https://www.rideapart.com/news/730815/troy-lee-buys-back-tld-company/>
+
+---
+
+## Ola Electric Drops Roadster EV Motorcycle, The Price Is Extremely Affordable
+
+date: 2024-08-23, from: Ride Apart, Electric Motorcycle News
+
+The Roadster is offered in three variants, and is Ola’s most performance-oriented model to date.  
+
+<https://www.rideapart.com/news/730816/ola-electric-roadster-launched-india/>
+
+---
+
+## These Students Built an Electric Superbike, Watch It Rip Up a Race Track
+
+date: 2024-08-23, from: Ride Apart, Electric Motorcycle News
+
+This is cooler than all of our classes were.  
+
+<https://www.rideapart.com/news/730814/electric-superbike-twente-vector-st-testing/>
+
+---
+
+## Can-Am's Canyon Three-Wheeler is Billed as an Off-Roader. But Can It Do It All?
+
+date: 2024-08-23, from: Ride Apart, Electric Motorcycle News
+
+It’s Can-Am’s most adventurous three-wheeler to date.  
+
+<https://www.rideapart.com/news/730954/2025-can-am-canyon-first-look/>
 
 ---
 
