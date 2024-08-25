@@ -1,11 +1,21 @@
 ---
 title: motorcycles 2024.34
-updated: 2024-08-25 09:46:05
+updated: 2024-08-25 12:09:53
 ---
 
 # motorcycles 2024.34
 
-(date: 2024-08-25 09:46:05)
+(date: 2024-08-25 12:09:53)
+
+---
+
+## NASCAR West Series: Tribute to Ron Gautsche
+
+date: 2024-08-25, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires It is with immense sadness that we learned of the death of Rolland Gene “Ron” Gautsche, a former driver, owner and crew&#8230;  
+
+<https://kickinthetires.net/nascar/nascar-west-series-tribute-to-ron-gautsche/>
 
 ---
 

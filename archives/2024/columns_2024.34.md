@@ -1,11 +1,48 @@
 ---
 title: columns 2024.34
-updated: 2024-08-25 09:46:00
+updated: 2024-08-25 12:09:50
 ---
 
 # columns 2024.34
 
-(date: 2024-08-25 09:46:00)
+(date: 2024-08-25 12:09:50)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-25, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@davew/post/C_GmCiXJVBa">My response</a>: "We have no visibility into the inner workings of the NYT. We can't vote them out of office. We can't even rebut them. They rarely carry opposing opinions."
+ 
+
+<http://scripting.com/2024/08/25.html#a183349>
+
+---
+
+## August 24, 2024
+
+date: 2024-08-25, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-24-2024-131>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-25, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@davew/post/C_GcSKWJ1bc">Walt Mossberg</a>: "Journalists have one core job: to tell the truth, especially when it’s clear. The staff of the NY Times has done it in the past, even at great risk. Why don’t they do it now?" 
+
+<http://scripting.com/2024/08/25.html#a174735>
+
+---
+
+## The Organ Builder
+
+date: 2024-08-25, from: Doc Searls (at Harvard), New Old Blog
+
+In The Soul&#8217;s Code, James Hillman says each of us is born with as much of a destiny, calling, mission, or fate, as an acorn has within it an oak tree. He also says &#8220;Reading life backward enables you to see how early obsessions are the sketchy preformation of behaviors now&#8230; Reading backward means that [&#8230;] 
+
+<https://doc.searls.com/2024/08/25/the-organ-builder/>
 
 ---
 

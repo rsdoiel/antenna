@@ -1,11 +1,45 @@
 ---
 title: pacific 2024.34
-updated: 2024-08-25 09:45:58
+updated: 2024-08-25 12:09:49
 ---
 
 # pacific 2024.34
 
-(date: 2024-08-25 09:45:58)
+(date: 2024-08-25 12:09:49)
+
+---
+
+## Rural Hawaiʻi faces major health challenges, UH report finds
+
+date: 2024-08-25, from: University of Hawaiʻi News
+
+<p>This is the first rural health report targeted specifically for <span aria-label="Hawaii">Hawai&#699;i</span> that measures data at the individual level.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/25/rural-hawaii-faces-major-health-challenges/">Rural Hawaiʻi faces major health challenges, <abbr>UH</abbr> report finds</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/25/rural-hawaii-faces-major-health-challenges/>
+
+---
+
+## Hone 7 a.m. update: Hone strengthens into hurricane; flash flood warning issued
+
+date: 2024-08-25, from: Hawaii Tribune Harold
+
+
+				<p>Hone strengthened into a hurricane late Saturday night with maximum sustained winds of at least 85 mph as of 5 a.m. today.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/25/hawaii-news/hone-7-a-m-update-hone-strengthens-into-hurricane-overnight-flash-flood-warning-issued/>
+
+---
+
+## UH football wins 2024 opener over Delaware State, 35-14
+
+date: 2024-08-25, from: University of Hawaiʻi News
+
+<p>Brayden Schager kicked off his senior campaign with two passing touchdowns and two rushing touchdowns to lead the Rainbow Warriors.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/25/football-defeats-delaware-state/"><abbr>UH</abbr> football wins 2024 opener over Delaware State, 35-14</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/25/football-defeats-delaware-state/>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: central coast 2024.34
-updated: 2024-08-25 09:46:00
+updated: 2024-08-25 12:09:50
 ---
 
 # central coast 2024.34
 
-(date: 2024-08-25 09:46:00)
+(date: 2024-08-25 12:09:50)
 
 ---
 
@@ -56,6 +56,42 @@ date: 2024-08-25, from: Newshawk, the freshest news in Santa Barbara County
  
 
 <https://www.noozhawk.com/santa-barbara-county-farms-welcome-guests-during-farm-day/>
+
+---
+
+## Bishop Diego Girls Volleyball Takes Second at 4th Annual Cardinal Classic
+
+date: 2024-08-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Several local girls volleyball teams shined at the fourth annual Cardinal Classic in the Thunderdome on Saturday. The 29-team tournament came to an end when Aliso Niguel defeated Bishop Diego [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bishop-diego-girls-volleyball-takes-second-at-4th-annual-cardinal-classic/">Bishop Diego Girls Volleyball Takes Second at 4th Annual Cardinal Classic</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bishop-diego-girls-volleyball-takes-second-at-4th-annual-cardinal-classic/>
+
+---
+
+## Santa Barbara High Girls Water Polo Goes Undefeated at Arroyo Grande Fall Classic
+
+date: 2024-08-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara High girls water polo went undefeated at the Arroyo Grande Fall Classic this weekend, defeating all four of their opponents across Friday and Saturday. To open the weekend, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-high-girls-water-polo-goes-undefeated-at-arroyo-grande-fall-classic/">Santa Barbara High Girls Water Polo Goes Undefeated at Arroyo Grande Fall Classic</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-high-girls-water-polo-goes-undefeated-at-arroyo-grande-fall-classic/>
+
+---
+
+## Dos Pueblos, San Marcos Flag Football Sweep Tournament Doubleheaders
+
+date: 2024-08-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Dos Pueblos girls flag football picked up a pair of victories at the 16-team Ventura County Kickoff Tournament on Saturday, taking down Agoura and Ventura. In the opening game, the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dos-pueblos-san-marcos-flag-football-sweep-tournament-doubleheaders/">Dos Pueblos, San Marcos Flag Football Sweep Tournament Doubleheaders</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dos-pueblos-san-marcos-flag-football-sweep-tournament-doubleheaders/>
 
 ---
 
