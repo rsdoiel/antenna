@@ -1,11 +1,21 @@
 ---
 title: food 2024.35
-updated: 2024-08-26 09:13:51
+updated: 2024-08-26 11:47:05
 ---
 
 # food 2024.35
 
-(date: 2024-08-26 09:13:51)
+(date: 2024-08-26 11:47:05)
+
+---
+
+## Who Will Be the Next White House Executive Chef?
+
+date: 2024-08-26, from: Bon Appetet
+
+Pundits are tracking the latest polls for the presidential election, but there’s another White House pick we're watching. 
+
+<https://www.bonappetit.com/story/cristeta-comerford-retirement-white-house-executive-chef>
 
 ---
 
@@ -95,6 +105,18 @@ Cayenne pepper is one of the most popular chili peppers in the world. In dried f
 
 ---
 
+## RTIC vs. YETI: Which Outdoor Goods Brand Is Better?
+
+date: 2024-08-25, from: Taste of Home
+
+<p>Looking for a cooler or coffee tumbler that gets the job done? We compared two of the most popular outdoor brands in our RTIC vs. YETI review.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/rtic-vs-yeti/">RTIC vs. YETI: Which Outdoor Goods Brand Is Better?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/rtic-vs-yeti/>
+
+---
+
 ## Yellow Peppers Guide: Brighten Up Your Garden And Plate
 
 date: 2024-08-25, from: Pepper Scale
@@ -146,4 +168,16 @@ date: 2024-08-25, from: Pepper Scale
 Chili peppers are known for their bright and bold colors — from shades of green and red to bold purple, sunny orange, and subtle cream. But few may be as dramatic as black peppers. They may not be as prevalent as the colorful chilies you’ll ... <p class="read-more-container"><a title="Black Peppers Guide: Dramatic Looks For Kitchen And Garden" class="read-more button" href="https://pepperscale.com/black-peppers/#more-17857" aria-label="Read more about Black Peppers Guide: Dramatic Looks For Kitchen And Garden">Read more</a></p> 
 
 <https://pepperscale.com/black-peppers/>
+
+---
+
+## Hydro Flask vs. Stanley: Which Coffee Tumbler Brand Is Better?
+
+date: 2024-08-25, from: Taste of Home
+
+<p>There are many factors worth considering in the Hydro Flask vs. Stanley debate. Our Testing Team tried both brands, and one came out on top. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/hydro-flask-vs-stanley/">Hydro Flask vs. Stanley: Which Coffee Tumbler Brand Is Better?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/hydro-flask-vs-stanley/>
 

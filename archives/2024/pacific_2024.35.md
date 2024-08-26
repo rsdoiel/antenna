@@ -1,11 +1,33 @@
 ---
 title: pacific 2024.35
-updated: 2024-08-26 09:13:44
+updated: 2024-08-26 11:46:56
 ---
 
 # pacific 2024.35
 
-(date: 2024-08-26 09:13:44)
+(date: 2024-08-26 11:46:56)
+
+---
+
+## UH Mānoa Provost: Aloha and welcome UH Mānoa ʻohana
+
+date: 2024-08-26, from: University of Hawaiʻi News
+
+<p>&#8220;As we gather on our beautiful campus, I’m filled with excitement for the journey that lies ahead of us.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/26/uh-manoa-provost-aloha-welcome-uh-manoa-ohana/"><abbr>UH</abbr> Mānoa Provost: Aloha and welcome <abbr>UH</abbr> Mānoa ʻohana</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/26/uh-manoa-provost-aloha-welcome-uh-manoa-ohana/>
+
+---
+
+## UH President: Welcome to the new school year!
+
+date: 2024-08-26, from: University of Hawaiʻi News
+
+<p>&#8220;A <abbr>UH</abbr> campus is the perfect place to expand your horizons, make new friends and step out of your comfort zone.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/26/uh-president-welcome-to-the-new-school-year/"><abbr>UH</abbr> President: Welcome to the new school year!</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/26/uh-president-welcome-to-the-new-school-year/>
 
 ---
 
@@ -289,6 +311,106 @@ date: 2024-08-26, from: Hawaii Tribune Harold
 
 ---
 
+## Social work board: Anonymous  complaints can't be investigated
+
+date: 2024-08-26, from: Guam Daily Post
+
+A complaint that the Guam Board of Social Work received from an anonymous person can’t be investigated, according to board Chair Angelina Lape who addressed the complaint Monday. 
+
+<https://www.postguam.com/news/local/social-work-board-anonymous-complaints-cant-be-investigated/article_848d3714-634e-11ef-818d-e76e340f5425.html>
+
+---
+
+## Suspect in 2022 slaying is set to plead guilty to manslaughter
+
+date: 2024-08-26, from: Guam Daily Post
+
+A man accused of shooting and dismembering another man is expected to plead guilty to manslaughter. 
+
+<https://www.postguam.com/news/local/suspect-in-2022-slaying-is-set-to-plead-guilty-to-manslaughter/article_15b09bb2-6338-11ef-9ef3-e338a391ba6e.html>
+
+---
+
+## Man serving 25 years for manslaughter  asking the court for sentence reduction
+
+date: 2024-08-26, from: Guam Daily Post
+
+A man serving a 25-year sentence for manslaughter is requesting a lower sentence. 
+
+<https://www.postguam.com/news/local/man-serving-25-years-for-manslaughter-asking-the-court-for-sentence-reduction/article_43c32d2e-633f-11ef-a3b5-9fb8afbf74f8.html>
+
+---
+
+## Man facing felony charges accused of assault
+
+date: 2024-08-26, from: Guam Daily Post
+
+A man faces charges for allegedly possessing a makeshift shank in prison in May and assaulting another man over the weekend. 
+
+<https://www.postguam.com/news/local/man-facing-felony-charges-accused-of-assault/article_e70c95d4-6352-11ef-8be8-870f0eb47331.html>
+
+---
+
+## Practice practicing: Responsible  gun ownership at Talo'fo'fo' range
+
+date: 2024-08-26, from: Guam Daily Post
+
+The Talo'fo'fo' Outdoor Shooting Gallery has reopened after being closed for over two years. About a year since the Sportsland Shooting Range in Dededo was closed, civilians once again have an outdoor shooting range to practice their Second Amendment right. 
+
+<https://www.postguam.com/news/local/practice-practicing-responsible-gun-ownership-at-talofofo-range/article_8561bd06-62ed-11ef-920a-6b378fdd8259.html>
+
+---
+
+## Amigos beat Cardinals II in Liberation Village Baseball Tournament
+
+date: 2024-08-26, from: Guam Daily Post
+
+After weeks of wet weather, postponements and cancellations, the Liberation Village Baseball Tournament wrapped up Sunday afternoon at Paseo Baseball Stadium in Hagåtña. 
+
+<https://www.postguam.com/sports/local/amigos-beat-cardinals-ii-in-liberation-village-baseball-tournament/article_7ee3f55e-6331-11ef-8f9c-c70f713c651d.html>
+
+---
+
+## GDOE maintenance funding, others to be addressed in supplemental bill
+
+date: 2024-08-26, from: Guam Daily Post
+
+Lawmakers moved on to discussing the miscellaneous appropriations chapter of the fiscal year 2025 budget bill Monday morning, where they began by preventing themselves from entertaining any amendments that deal with funding not within the bill's adopted revenues, which included… 
+
+<https://www.postguam.com/news/local/gdoe-maintenance-funding-others-to-be-addressed-in-supplemental-bill/article_69e1e614-6351-11ef-a49b-232d2fc4f254.html>
+
+---
+
+## Moylan seeks Guam-CNMI EAS inclusion, Cruz says it’s 'marketing over substance'
+
+date: 2024-08-26, from: Guam Daily Post
+
+Guam Del. James Moylan has introduced federal legislation to add the route between Guam and the Commonwealth of the Northern Mariana Islands as part of the Essential Air Services program, or EAS, a measure that the congressman says would reduce… 
+
+<https://www.postguam.com/news/local/moylan-seeks-guam-cnmi-eas-inclusion-cruz-says-it-s-marketing-over-substance/article_7f80a066-6345-11ef-b703-53ebe541996f.html>
+
+---
+
+## Lee, Baker claim first King and Prince titles
+
+date: 2024-08-26, from: Guam Daily Post
+
+The August edition of the Budweiser King and Prince of the Lanes at Central Lanes Bowling Center on Sunday saw a high-scoring competition. 
+
+<https://www.postguam.com/sports/local/lee-baker-claim-first-king-and-prince-titles/article_1846931c-632f-11ef-9830-b3a4a06dc284.html>
+
+---
+
+## Man gets 10 years for attack on elderly father
+
+date: 2024-08-26, from: Guam Daily Post
+
+A man was sentenced to 10 years for a brutal attack on his elderly father. 
+
+<https://www.postguam.com/news/local/man-gets-10-years-for-attack-on-elderly-father/article_7db5e738-6344-11ef-b8e2-b358e7c5be45.html>
+
+---
+
 ## Hone 1 p.m. update: Tropical storm warning remains in effect; 14,000 without power
 
 date: 2024-08-25, from: Hawaii Tribune Harold
@@ -452,6 +574,16 @@ date: 2024-08-25, from: Guam Daily Post
 The Judicial Council will be hosting the 2024 Biennial Pacific Judicial Council Conference on Tuesday, focusing on “pivotal topics” at the forefront of legal technology and the legal system, the council announced in a press release. 
 
 <https://www.postguam.com/news/local/judicial-council-conference-set-for-tuesday/article_e5037b28-6289-11ef-8e97-4bcb5387e31a.html>
+
+---
+
+## Pacific Judicial Council conference set for Tuesday
+
+date: 2024-08-25, from: Guam Daily Post
+
+The Pacific Judicial Council will be hosting the 2024 Biennial Pacific Judicial Council Conference on Tuesday, focusing on “pivotal topics” at the forefront of legal technology and the legal system, the council announced in a press release. 
+
+<https://www.postguam.com/news/local/pacific-judicial-council-conference-set-for-tuesday/article_e5037b28-6289-11ef-8e97-4bcb5387e31a.html>
 
 ---
 

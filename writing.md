@@ -1,11 +1,39 @@
 ---
 title: writing 2024.35
-updated: 2024-08-26 09:13:47
+updated: 2024-08-26 11:47:00
 ---
 
 # writing 2024.35
 
-(date: 2024-08-26 09:13:47)
+(date: 2024-08-26 11:47:00)
+
+---
+
+## Weekly Bestsellers, 26 August 2024
+
+date: 2024-08-26, from: Locus Magazine
+
+<div style="padding: 14px 0px 0px 0px; text-align: center;">
+<p>Two debuts this week. Jennifer L. Armentrout&#8217;s <b>Born of Blood and Ash</b> (Blue Box Press), fourth in her Flesh and Fire series, debuts in the top five on three lists. And Ava Reid&#8217;s <b>Lady Macbeth</b> (Del Rey), a retelling of Shakespeare with occult elements, debuts on all four print lists compiled here, ranking from #7 to #30.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+09.01
+LAT
+08.25
+USAT 
+08.18 <a href="https://locusmag.com/2024/08/weekly-bestsellers-26-august-2024/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/weekly-bestsellers-26-august-2024/>
 
 ---
 

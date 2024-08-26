@@ -1,11 +1,61 @@
 ---
 title: home 2024.35
-updated: 2024-08-26 09:13:48
+updated: 2024-08-26 11:47:01
 ---
 
 # home 2024.35
 
-(date: 2024-08-26 09:13:48)
+(date: 2024-08-26 11:47:01)
+
+---
+
+## They Gave Their Little Minneapolis Cottage a Radiant Extension for $200K
+
+date: 2024-08-26, from: Dwell
+
+Keep founders Austin and Kotono Watanabe revive a compact dwelling with a dazzling kitchen, an all-electric upgrade, and a clerestory "scoop." 
+
+<https://www.dwell.com/article/seward-scoop-home-addition-keep-minneapolis-minnesota-906b84d1>
+
+---
+
+## We Tried the White Duck Canvas Tent, and It’s the Perfect Summer Workshop
+
+date: 2024-08-26, from: Family Handyman Blog
+
+Through downpours, heat and gale-force winds, we kept our summer building tasks on track inside our White Duck canvas tent workshop. 
+
+<https://www.familyhandyman.com/article/white-duck-canvas-tent-review/>
+
+---
+
+## Pops of Pistachio and Ruby Red Energize This 635-Square-Foot Renovation in Warsaw
+
+date: 2024-08-26, from: Dwell
+
+For an upholsterer and her daughter, Schudy Studio sourced a range of high-end fabrics to create custom chairs, cushions, and blinds. 
+
+<https://www.dwell.com/article/pops-of-pistachio-and-ruby-red-energize-this-635-square-foot-renovation-in-warsaw-70265c64>
+
+---
+
+## Hayward Pool Cleaner Review: We Tested it for Months, and Here’s How it Went
+
+date: 2024-08-26, from: Family Handyman Blog
+
+We tested the Hayward two-Wheel Poolvergnuegen Suction Pool Cleaner for months, so you can know how it truly performs before you buy. 
+
+<https://www.familyhandyman.com/article/hayward-pool-cleaner-review/>
+
+---
+
+## In France, a Groovy ’70s Home by André Roux Hits the Market for €580K
+
+date: 2024-08-26, from: Dwell
+
+The countryside time capsule comes with exposed beams, built-in furniture, and a bathroom completely covered in green tile. 
+
+<https://www.dwell.com/article/maison-moderniste-andre-roux-auriac-sur-vendinelle-france-real-estate-142a0df4>
 
 ---
 

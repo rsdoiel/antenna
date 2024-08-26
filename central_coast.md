@@ -1,11 +1,23 @@
 ---
 title: central coast 2024.35
-updated: 2024-08-26 09:13:45
+updated: 2024-08-26 11:46:57
 ---
 
 # central coast 2024.35
 
-(date: 2024-08-26 09:13:45)
+(date: 2024-08-26 11:46:57)
+
+---
+
+## San Marcos Announces Matt Jordan as Head Boys Basketball Coach
+
+date: 2024-08-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>San Marcos High announced Matt Jordan as the school’s new head boys basketball coach on Monday. “The opportunity to lead such a storied program is both humbling and motivating,” Jordan [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/san-marcos-announces-matt-jordan-as-head-boys-basketball-coach/">San Marcos Announces Matt Jordan as Head Boys Basketball Coach</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/san-marcos-announces-matt-jordan-as-head-boys-basketball-coach/>
 
 ---
 
@@ -44,6 +56,19 @@ date: 2024-08-26, from: Newshawk, the freshest news in Santa Barbara County
  
 
 <https://www.noozhawk.com/mark-patton-goletas-matt-houston-completes-an-olympian-task/>
+
+---
+
+## UCSB Women’s Soccer Battles to 0-0 Draw with Fresno State
+
+date: 2024-08-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/ucsb-wsoc-825.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/ucsb-wsoc-825.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/ucsb-wsoc-825.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/ucsb-wsoc-825.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/ucsb-wsoc-825.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/ucsb-wsoc-825.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/ucsb-wsoc-825.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/ucsb-wsoc-825.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/ucsb-wsoc-825.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/ucsb-wsoc-825.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/ucsb-wsoc-825.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>For the second consecutive year, the UC Santa Barbara Women&#8217;s Soccer team played Fresno State to a 0-0 draw. A could of could looks by the Gauchos were squandered as [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-womens-soccer-battles-to-0-0-draw-with-fresno-state/">UCSB Women&#8217;s Soccer Battles to 0-0 Draw with Fresno State</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-womens-soccer-battles-to-0-0-draw-with-fresno-state/>
 
 ---
 

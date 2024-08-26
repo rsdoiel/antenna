@@ -1,11 +1,41 @@
 ---
 title: games 2024.35
-updated: 2024-08-26 09:13:47
+updated: 2024-08-26 11:47:00
 ---
 
 # games 2024.35
 
-(date: 2024-08-26 09:13:47)
+(date: 2024-08-26 11:47:00)
+
+---
+
+## What time does Genshin Impact 5.0 release?
+
+date: 2024-08-26, updated: 2024-08-26, from: Polygon Website
+
+Genshin Impact’s 5.0 patch is coming soon, adding the new region of Natlan, more story quests to complete, and new characters to collect. Below, we explain when Genshin Impact maintenance starts and ends, alongside the release time of version 5.0. We’ve also added some details about what to expect from Genshin Impact patch 5.0. What [&#8230;] 
+
+<https://www.polygon.com/genshin-impact-guides/444012/version-5-0-release-times-maintenance-end>
+
+---
+
+## Grab the entire Kazuma Kiryu Yakuza saga for 70% off
+
+date: 2024-08-26, updated: 2024-08-26, from: Polygon Website
+
+There is no franchise quite like Yakuza. It’s an epic story about the criminal underworld centered around the stoic and virtuous Kazuma Kiryu, a.k.a. the Dragon of Dojima, that has a strong dash of surreal and comical substories. Right now, GOG is offering a massive discount on the mainline Yakuza series on PC. Through Sept. [&#8230;] 
+
+<https://www.polygon.com/good-deals/443977/yakuza-complete-series-sale-kiyru-0-kiwami-gog>
+
+---
+
+## D&#038;D team backtracks over proposed digital-tool changes after fan outcry
+
+date: 2024-08-26, updated: 2024-08-26, from: Polygon Website
+
+Last week Dungeons &#38; Dragons publisher Wizards of the Coast rolled out a controversial changelog for the iconic tabletop role-playing game’s digital toolset. In it, the Hasbro-owned company stated that the launch of its revised 5th edition ruleset would require byzantine workarounds to keep legacy content functioning properly inside the app. Then, late Sunday night, [&#8230;] 
+
+<https://www.polygon.com/dnd-dungeons-dragons/444017/dnd-beyond-homebrew-changes-canceled-fan-outcry>
 
 ---
 

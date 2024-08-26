@@ -1,11 +1,130 @@
 ---
 title: columns 2024.35
-updated: 2024-08-26 09:13:46
+updated: 2024-08-26 11:46:58
 ---
 
 # columns 2024.35
 
-(date: 2024-08-26 09:13:46)
+(date: 2024-08-26 11:46:58)
+
+---
+
+## The ‘Reimagine’ Feature on Google’s New Pixel 9 Phones Makes It Trivial to Create Deepfakes
+
+date: 2024-08-26, updated: 2024-08-26, from: Daring Fireball
+
+ 
+
+<https://www.threads.net/@chriswelch/post/C-8LF4BOSAP/>
+
+---
+
+## Sonos CEO Says Their Old App Can’t Be Rereleased
+
+date: 2024-08-26, updated: 2024-08-26, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/2024/8/20/24224754/sonos-ceo-old-s2-app-re-release-cant-be>
+
+---
+
+## Short Film by iPhonedo, Shot Entirely With an iPhone 15 Pro Max
+
+date: 2024-08-26, updated: 2024-08-26, from: Daring Fireball
+
+ 
+
+<https://www.youtube.com/watch?v=wuGba6Cw4lY>
+
+---
+
+## ‘An Experiment in Lust, Regret, and Kissing’
+
+date: 2024-08-26, updated: 2024-08-26, from: Daring Fireball
+
+ 
+
+<https://www.nytimes.com/2024/08/20/opinion/beach-read-ai.html>
+
+---
+
+## How will team Trump tell him he should be muted during his debate with Harris?
+
+date: 2024-08-26, from: Robert Reich's blog
+
+It will be awkward. Here's an example. 
+
+<https://robertreich.substack.com/p/how-will-team-trump-tell-him-he-should>
+
+---
+
+##  The limited edition 2024 XOXO Field Notes are available to the public... 
+
+date: 2024-08-26, updated: 2024-08-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045181-the-limited-edition-2024->
+
+---
+
+##  🚨 New Every Frame a Painting!! 🚨 
+
+date: 2024-08-26, updated: 2024-08-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/-new-every-frame-a-painting>
+
+---
+
+## Positron - an upside-down and portable 3D printer
+
+date: 2024-08-26, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Positron - an upside-down and portable 3D printer</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>I've been getting into 3D printing lately. I have an older Ender 3 V2 at home I bought during COVID. And in the past year I've acquired an Ender 3 S1, Bambu Labs P1S, and Prusa MK4.</p>
+
+<p>I also <a href="https://www.jeffgeerling.com/blog/2024/giving-away-480-raspberry-pis-was-harder-i-expected">dove head-first into 3D CAD</a>, and designed a number of small SBC cases or parts to help with things around the house.</p>
+
+<p>But I'd never built my own 3D printer from a kit—all the printers I've had were pre-built and at most, required assembling the prebuilt gantry or toolhead. That finally changed with the Positron V3.2:</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-08-26T11:44:51-05:00" title="Monday, August 26, 2024 - 11:44" class="datetime">August 26, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/positron-upside-down-and-portable-3d-printer>
+
+---
+
+## Apple Event on Monday 9 September: ‘It’s Glowtime’
+
+date: 2024-08-26, updated: 2024-08-26, from: Daring Fireball
+
+ 
+
+<https://www.macrumors.com/2024/08/26/apple-september-9-iphone-event/>
+
+---
+
+## Big Tech’s LLM Bets is Trillion-Dollar Poker
+
+date: 2024-08-26, from: Om Malik blog
+
+Link: The Big Stack Game of LLM Poker / Sarah Tavel TLDR: The AI race is a high-stakes poker game where tech giants are all in. With more than $600 billion invested and trillions at stake, it&#8217;s a battle of deep pockets and nerves. The winner takes all, but the real jackpot? Unprecedented innovation will &#8230; 
+
+<https://om.co/2024/08/26/big-techs-llm-bets-is-trillion-dollar-poker/>
+
+---
+
+## August 25, 2024
+
+date: 2024-08-26, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-25-2024-605>
 
 ---
 
@@ -19,7 +138,7 @@ I don't want to give Trump any ideas, but he's complaining that Harris is forcin
 
 **@Dave Winer's Scripting News** (date: 2024-08-26, from: Dave Winer's Scripting News)
 
-I know it doesn't matter why the NYT are so fucked up about covering the election, but I can't stop thinking about it anyway. Then, <a href="https://newrepublic.com/article/185200/kamala-wins-inside-clever-strategy-causing-trump-unravel">Greg Sargent's podcast</a> gave me an idea. The oppressor in a fascist state doesn't need you to love them, so long as you don't love anyone else. The NYT isn't trying to make us love Trump, that's impossible. But they are trying to make us not fall in love with Harris. I doubt they foresaw that possibility. But our feelings about Harris are very much love. The NYT is our only master, they must think. There's no room for us to love someone else, because we might listen to them. In a sense they respond like a first born child on the arrival of their little sister or brother. I don't know. As I said it doesn't matter why. That's their problem. Our problem is to get them out of the way. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/02/13/bozoApproved.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I know it doesn't matter why the NYT are so fucked up about covering the election, but I can't stop thinking about it anyway. Then, <a href="https://newrepublic.com/article/185200/kamala-wins-inside-clever-strategy-causing-trump-unravel">Greg Sargent's podcast</a> gave me an idea. The oppressor in a fascist state doesn't need you to love them, so long as you don't love anyone else. The NYT isn't trying to make us love Trump, that's impossible. But they are trying to make us not fall in love with Harris. I doubt they foresaw that possibility. But our feelings about Harris are very much love. The NYT is our only master, they must think. There's no room for us to love someone else, because we might listen to them. In a sense they respond like a first born child on the arrival of their little sister or brother. I don't know. As I said it doesn't matter why. That's their problem. Our problem is to get them out of the way. 
 
 <http://scripting.com/2024/08/26.html#a150923>
 

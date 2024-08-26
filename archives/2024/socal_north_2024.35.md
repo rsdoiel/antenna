@@ -1,11 +1,137 @@
 ---
 title: socal north 2024.35
-updated: 2024-08-26 09:13:44
+updated: 2024-08-26 11:46:55
 ---
 
 # socal north 2024.35
 
-(date: 2024-08-26 09:13:44)
+(date: 2024-08-26 11:46:55)
+
+---
+
+## The Westwood Enabler creates comedic concoction of current events, satire
+
+date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Beneath the veneer of academia, UCLA harbors a den of satirical wit known as the Westwood Enabler.
+Established in 2014, the independently managed and student-led media outlet has specialized in shaping sardonic content. 
+
+<https://dailybruin.com/2024/08/26/the-westwood-enabler-creates-comedic-concoction-of-current-events-satire/>
+
+---
+
+## Battle of the Editors: Which UCLA sports will charge ahead and which will falter as Bruins join Big Ten?
+
+date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA is officially a member of the Big Ten. With the football season opener drawing near and many fall sports soon to begin, Daily Bruin Sports editors debate which UCLA team will make strides or face setbacks in its inaugural Big Ten season. 
+
+<https://dailybruin.com/2024/08/26/battle-of-the-editors-which-ucla-sports-will-charge-ahead-and-which-will-falter-as-bruins-join-big-ten/>
+
+---
+
+## UCLA men’s soccer’s Owen Schwartz reflects on transformative journey to Westwood
+
+date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+When the opportunity arose for Owen Schwartz to join the Bruins as a graduate student, he took the chance to follow in his parents&#8217; footsteps.
+“It’s been a dream come true,” Schwartz said. 
+
+<https://dailybruin.com/2024/08/26/ucla-mens-soccers-owen-schwartz-reflects-on-transformative-journey-to-westwood/>
+
+---
+
+## 2024-2025 UCLA sports season previews
+
+date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+A new era for UCLA Athletics is here. After 96 years in the &#8220;Conference of Champions,&#8221; UCLA is now a member of the Big Ten. Before the inaugural year, Daily Bruin Sports staff break down the best- and worst-case scenarios for each team, as well as a key storyline to follow throughout each season. 
+
+<https://dailybruin.com/2024/08/26/2024-2025-ucla-sports-season-previews/>
+
+---
+
+## A Difference of Opinion Editors: Tried and true advice for maximizing UCLA’s 1st-year experience
+
+date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Orientation is a time of transformation and self-discovery for many new students ahead of the start of their time on campus. As the next generation of Bruins prepares to take the stage, the Opinion editors, looking back on their own first years at UCLA, give their advice in the latest edition of “A Difference of Opinion Editors.”
+Before You Begin as a Bruin: Find Your De-stressors
+Russell Ahmed, assistant Opinion editor
+Life at UCLA, for all of the right reasons, could not be more dissimilar to the reality of my central Ohio roots. 
+
+<https://dailybruin.com/2024/08/26/a-difference-of-opinion-editors-tried-and-true-advice-for-maximizing-uclas-1st-year-experience/>
+
+---
+
+## Opinion: Living in the present, practicing gratitude allowed me to truly be happy
+
+date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+I finished my freshman year before realizing that my younger brother was my ultimate idol. 
+My brother is the happiest person I know, and the running joke in our family is that it&#8217;s because he succumbs easily to quick dopamine boosts through instant gratification. 
+
+<https://dailybruin.com/2024/08/26/opinion-living-in-the-present-practicing-gratitude-allowed-me-to-truly-be-happy/>
+
+---
+
+## Opinion: Advice from a transfer student who felt more like a freshman
+
+date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+This fall quarter, I will be a fourth-year. Yet oddly, I would classify this past school year as my freshman experience &#8211; an experience unique to transfer students. 
+
+<https://dailybruin.com/2024/08/26/opinion-advice-from-a-transfer-student-who-felt-more-like-a-freshman/>
+
+---
+
+## How to Enhance Your University Club’s Branding
+
+date: 2024-08-26, from: The Sundail (CSUN Student Newspaper)
+
+Source:Flickr Strong branding helps attract new members, build credibility, and create a lasting impression within the university community. Yet, many clubs underestimate the power of effective branding or aren’t sure... 
+
+<https://sundial.csun.edu/183947/sundialbrandstudio/sundial-marketplace/how-to-enhance-your-university-clubs-branding/>
+
+---
+
+## Bruin to Bruin: Austin Nasso
+
+date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA alumnus Austin Nasso sits down with Podcasts contributor Aashay Ghiya to discuss the co-founding of Shenanigans Comedy Club at UCLA, transitioning from tech to full-time comedy and offering advice on pursuing creative passions while balancing practical concerns. 
+
+<https://dailybruin.com/2024/08/26/bruin-to-bruin-austin-nasso/>
+
+---
+
+## Innovative Ways Students Can Stay Informed About Consumer Laws
+
+date: 2024-08-26, from: The Sundail (CSUN Student Newspaper)
+
+(Image created by Copilot) You&#8217;ve bought your first car, only to find out it&#8217;s a lemon. You feel swindled, right? Knowledge is power. Staying informed about consumer laws can save... 
+
+<https://sundial.csun.edu/183941/sundialbrandstudio/independent-legal-guide/innovative-ways-students-can-stay-informed-about-consumer-laws/>
+
+---
+
+## Topic: 3 Innovative Career Paths Blockchain and NFTs Might Revolutionize by 2025
+
+date: 2024-08-26, from: The Sundail (CSUN Student Newspaper)
+
+(Image created by Copilot) The career landscape is shifting faster than a crypto bull run, and blockchain and NFTs are the catalysts. In 2025, these technologies could flip traditional roles... 
+
+<https://sundial.csun.edu/183936/sundialbrandstudio/sundial-marketplace/topic-3-innovative-career-paths-blockchain-and-nfts-might-revolutionize-by-2025/>
+
+---
+
+## California could soon have an official state slug and crab
+
+date: 2024-08-26, updated: 2024-08-26, from: The LAist
+
+The Dungeness crab and banana slug are poised to become California's latest animal ambassadors. 
+
+<https://laist.com/news/climate-environment/california-could-soon-have-an-official-state-slug-crab>
 
 ---
 
@@ -29,6 +155,16 @@ Forecasters say the weekend warming trend continues through Tuesday, followed by
 
 ---
 
+## Best things to do this week in Los Angeles and Southern California: August 26 - 29
+
+date: 2024-08-26, updated: 2024-08-26, from: The LAist
+
+Free comedy night at NeueHouse, Alison Saar at the Getty, Bayou jams in San Juan Capistrano, and more. 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-this-week-los-angeles-southern-california-august-26-29>
+
+---
+
 ## How to follow the money in local races this election season
 
 date: 2024-08-26, updated: 2024-08-26, from: The LAist
@@ -46,16 +182,6 @@ date: 2024-08-26, updated: 2024-08-26, from: The LAist
 Officials say a state funding deficit will affect class offerings and student support. 
 
 <https://laist.com/news/education/california-state-university-students-begins-year-with-budget-cuts>
-
----
-
-## Best things to do this week in Los Angeles and Southern California: August 26 - 29
-
-date: 2024-08-26, updated: 2024-08-26, from: The LAist
-
-Free comedy night at NeueHouse, Alison Saar at the Getty, Bayou jams in San Juan Capistrano, and more. 
-
-<https://laist.com/news/arts-and-entertainment/best-things-to-do-this-week-los-angeles-southern-california-august-26-29>
 
 ---
 
@@ -148,7 +274,7 @@ In this episode of &#8220;Religion on Campus,&#8221; contributor Lauren Miller a
 
 date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Aug. 25 at 9:04 p.m.</em>
+<em>This post was updated Aug. 26 at 9:38 p.m.</em>
 UCLA football is kicking off a landmark season Saturday. The Daily Bruin collected questions from Bruin fans about the upcoming season. 
 
 <https://dailybruin.com/2024/08/25/between-two-bruins-daily-bruin-sports-answers-your-questions-about-the-2024-season/>
