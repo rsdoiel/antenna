@@ -1,0 +1,441 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8" >
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" >
+  <title>columns 2024.35</title>
+<!--  <link rel="stylesheet" type="text/css"  href="../webfonts/fonts.css" media="screen" > -->
+  <link rel="stylesheet" type="text/css"  href="../css/site.css" media="screen" >
+</head>
+<body>
+<header>
+	<img class="logo" 
+	src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Antenna_1_-_The_Noun_Project.svg"
+	alt="line art showing an antenna"
+	height="80" width="60" >
+	<h1>The Antenna</h1> 
+	<h2>finding signal in the noise</h2>
+</header>
+<nav>
+<ul>
+	<li><a href="../../">The Antenna</a></li>
+	<li><a href="../../../socal_north.html" title="news from the Northern side of Southern California" >SoCal North!</a></li>
+	<li><a href="../../../pacific.html" title="News from Micronesia and Pacific">Pacific</a></li>
+	<li><a href="../../../mid_central.html" title="news from Mid Central California">Mid Central</a></li>
+	<li><a href="../../columns.html" title="blogs I read like columnists">Columns</a></li>
+	<li><a href="../../weather.html" title="U.S. National Weather">Weather</a></li>
+	<li><a href="../../snapshots/" title="Somedays daily">Snapshots</a></li>
+	<li><a href="../">Archives</a></li>
+	<li><a href="../../search.html">Search</a></li>
+	<li><a href="../../about.html">About</a></li>
+</ul>
+</nav>
+<section>
+<div class="description-for-items">
+<h2>columns 2024.35</h2>
+An experiment in personal news aggregation.
+</div>
+<h1 id="columns-2024.35">columns 2024.35</h1>
+<p>(date: 2024-08-26 07:42:02)</p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-08-26, from: Dave Winer’s Scripting
+News)</p>
+<p>The NYT et al aren’t even doing a fair job of covering the election
+as a horserace, because they’re making sure it’s a virtual tie, so even
+if our team has overwhelming power, speed and depth, and gets on base in
+every at bat and plays by the rules, our odds are no better than the
+other team.</p>
+<p><a href="http://scripting.com/2024/08/26.html#a135108"
+class="uri">http://scripting.com/2024/08/26.html#a135108</a></p>
+<hr />
+<h2 id="the-status-of-twitters-api">The status of Twitter’s API</h2>
+<p>date: 2024-08-26, from: Dave Winer’s Scripting News</p>
+<p>
+The Twitter API still works, with some serious limits. Not easily
+incorporated into products, but useful for individuals with developer
+accounts. Not an insurmountable hurdle, it seems, though I was a
+developer from before. A few bullet points.
+</p>
+<ul>
+<li>
+My linkblog now reliably works on
+<a href="https://x.com/davewiner">Twitter</a> and
+<a href="https://www.threads.net/@davew">Threads</a>, in addition to
+<a href="https://social.masto.land/@dave">Mastodon</a>,
+<a href="https://bsky.app/">Bluesky</a>,
+<a href="http://data.feedland.org/feeds/davewiner.xml">RSS</a> and
+<a href="https://linkblog3.wordpress.com/">WordPress</a>.
+</li>
+<li>
+I was confused about the status of the Twitter API, but it turns out
+it’s still there, and there is a
+<a href="https://www.npmjs.com/package/twitter-api-v2">package</a> that
+connects to it for Node apps.
+</li>
+<li>
+It took me a few hours to add
+<a href="https://github.com/scripting/textcasting/blob/main/textcasting.js#L543">support
+for Twitter</a> in my
+<a href="https://github.com/scripting/textcasting/tree/main">textcasting</a>
+server app which is how my software connects to all the various
+services.
+</li>
+<li>
+I should probably add a plugin abilitiy for textcasting so that other
+services could easily be added, without modifying the core app. Totally
+doable. It’s already factored that way internally.
+</li>
+<li>
+I should probably write
+<a href="https://github.com/scripting/textcasting/blob/main/README.md">some
+docs</a> for it too. <span class="spOldSchoolEmoji">😄</span>
+</li>
+<li>
+Anyway, the
+<a href="https://developer.x.com/en/docs/x-api/getting-started/about-x-api">deal
+with Twitter</a> is that it’s free for up to 1500 posts per month, as I
+read it, which seems manageable for one person (me), but no way is it
+enough for a community of users.
+</li>
+<li>
+Why connect to Twitter? People are there. Until they aren’t we’re going
+to need a way to push stuff to Twitter.
+</li>
+</ul>
+<p><a
+href="http://scripting.com/2024/08/26/133249.html?title=theStatusOfTwittersApi"
+class="uri">http://scripting.com/2024/08/26/133249.html?title=theStatusOfTwittersApi</a></p>
+<hr />
+<h2 id="a-tunnel-in-time">A tunnel in time</h2>
+<p>date: 2024-08-26, from: Dave Winer’s Scripting News</p>
+<p>
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/02/28/presidentCarter.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Doing
+the investigation into
+<a href="https://github.com/scripting/Scripting-News/issues/310">getting
+UserTalk running</a> in 2024 has been a trip. The last time I did any
+work on this code, or even in this area of computer science, was approx
+1990. It comes right back, like riding a bike. I saw a tremendous amount
+of potential fun here, but I had to move on to runtime, object database,
+verbs, user interface – for Frontier. In the 34 years between then and
+now – a lot of software has been written, and I’m only looking at a
+fraction of it, limited to stuff that runs in Node, the browser and
+Electron. And I have to say I’m totally enjoying reading about what
+they’ve done. I’m learning about evolution of technology, a facet of
+development I am extremely drawn to, in a whole new way, as if viewed
+through a tunnel in time.
+</p>
+<p><a
+href="http://scripting.com/2024/08/26/131440.html?title=aTunnelInTime"
+class="uri">http://scripting.com/2024/08/26/131440.html?title=aTunnelInTime</a></p>
+<hr />
+<h2 id="us-federal-court-rules-against-geofence-warrants">US Federal
+Court Rules Against Geofence Warrants</h2>
+<p>date: 2024-08-26, updated: 2024-08-26, from: Bruce Schneier blog</p>
+<p>
+This is a big deal. A US Appeals Court
+<a href="https://techcrunch.com/2024/08/13/us-appeals-court-rules-geofence-warrants-are-unconstitutional/">ruled</a>
+that geofence warrants—these are general warrants demanding information
+about all people within a geographical boundary—are unconstitutional.
+</p>
+<p>
+The decision seems obvious to me, but you can’t take anything for
+granted.
+</p>
+<p><a
+href="https://www.schneier.com/blog/archives/2024/08/us-federal-court-rules-against-geofence-warrants.html"
+class="uri">https://www.schneier.com/blog/archives/2024/08/us-federal-court-rules-against-geofence-warrants.html</a></p>
+<hr />
+<h2 id="gotosocial-problems">2024-08-25 GoToSocial problems</h2>
+<p>date: 2024-08-26, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-08-25-gotosocial-problems">
+2024-08-25 GoToSocial problems
+</h1>
+<p>
+So you’re considering self-hosting? You heard good things about
+<a href="https://github.com/superseriousbusiness/gotosocial">GoToSocial</a>?
+I like it. I use it. This post is about the problems you should be
+expecting at the moment.
+</p>
+<p>
+It’s not surprising, after all. This is a very prominent sentence in
+their README:
+</p>
+<blockquote>
+<p>
+GoToSocial is still ALPHA SOFTWARE.
+</p>
+</blockquote>
+<p>
+But what are the exact problems? Sometimes alpha software is good
+enough, right?
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Social_Media">#Social Media</a>
+<a class="tag" href="/search/?q=%23GoToSocial">#GoToSocial</a>
+</p>
+<h2 id="major-annoyances">
+Major annoyances
+</h2>
+<p>
+<strong>No post editing</strong>. I hope you can handle your own typos.
+All you have is “Delete and Redraft”. But that orphans all replies,
+undoes all boosts, forgets all likes and removes posts from bookmarks.
+“Delete and Redraft” is a sledge hammer. “Edit post” is a delicate
+quill. And you don’t get to have it. YOLO! (You only live once.)
+</p>
+<p>
+<strong>No filtering</strong>. You can mute and block and all that, but
+when everybody is posting about Monsterdon, the European Song Contest,
+the US elections, Caturday or Wordle, you can’t filter those hashtags.
+You must endure the enthusiasm of the people you are following. (I think
+the developers are implementing things, but it does not seem to have an
+effect in the front-ends I use, so who knows.)
+</p>
+<p>
+<strong>Limited federation</strong>. This one is hard to spot. You want
+to follow this account and that account and it all seems to work until
+you go back and find that for one account, your follow request seems to
+hang in limbo, waiting. You cancel, and follow again. It seems to work.
+Come back later, back in limbo again, waiting. If you check the log,
+you’ll find errors about signatures failing and what not. I have no
+idea. There are currently
+<a href="https://github.com/superseriousbusiness/gotosocial/issues?q=is%3Aissue+is%3Aopen+signature">8
+open issues containing the word ‘signature’</a>. Something is not
+working and you’ll have to have an alt (a separate account) on a
+different server that doesn’t have this issue. That makes me sad. 😥
+</p>
+<h2 id="minor-annoyances">
+Minor annoyances
+</h2>
+<p>
+<strong>No automatic post expiry</strong>. You’ll have to use something
+like
+<a href="https://src.alexschroeder.ch/mastodon-archive.git/">Mastodon
+Archive</a>.
+</p>
+<h2 id="no-problem">
+No problem
+</h2>
+<p>
+<strong>No front-end</strong>. There is no front-end. I use apps like
+<a href="https://mastodon.social/@tootapp">Toot!</a> on my phone and
+<a href="https://semaphore.social/">Semaphore</a> on the web. I don’t
+need anything fancy. And for the non-fancy options, I have
+<a href="https://codeberg.org/martianh/mastodon.el">mastodon.el</a> for
+Emacs, <a href="https://github.com/ihabunek/toot">toot</a> for the
+command-line, <a href="https://tuba.geopjr.dev/">tuba</a> for Gnome,
+<a href="https://src.alexschroeder.ch/bitlbee-mastodon.git/">bitlbee-mastodon</a>
+for IRC, and so on. There are plenty of options.
+</p>
+<h2 id="the-good-stuff">
+The good stuff
+</h2>
+<p>
+<strong>Markdown</strong> in your posts. I like my code blocks.
+</p>
+<p>
+<strong>SQLite</strong> on the server. It’s currently 8.4G. The media
+stuff is 11G.
+</p>
+<p>
+<strong>Memory footprint</strong>. I use Monit to monitor processes and
+this process uses 185.6 MB.
+</p>
+<p>
+<strong>No admin</strong>. I haven’t had to run any administration task.
+Not once. ❤️
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-08-25-gotosocial"
+class="uri">https://alexschroeder.ch/view/2024-08-25-gotosocial</a></p>
+<hr />
+<h2 id="the-real-fight-now">The real fight, now</h2>
+<p>date: 2024-08-26, from: Robert Reich’s blog</p>
+<p>What I did at the bus stop when I was 10 years old</p>
+<p><a href="https://robertreich.substack.com/p/the-real-fight-now"
+class="uri">https://robertreich.substack.com/p/the-real-fight-now</a></p>
+<hr />
+<h2 id="mo-money-day">Mo’ Money Day</h2>
+<p>date: 2024-08-26, from: Tracy Durnell Blog</p>
+<p>Make it an event! I have fun with the spreadsheet part of money
+tracking but the more involved money tasks, especially that involve
+calling a financial company, can get bumped way down my list. So,
+designating a day to deal with it is a good idea. A couple years ago,
+when I had to manually […]</p>
+<p><a href="https://tracydurnell.com/2024/08/25/mo-money-day/"
+class="uri">https://tracydurnell.com/2024/08/25/mo-money-day/</a></p>
+<hr />
+<h2 id="august-25-2024">August 25, 2024</h2>
+<p>date: 2024-08-26, from: Heather Cox Richardson blog</p>
+<p>The Democratic National Convention buoyed the Democrats.</p>
+<p><a href="https://heathercoxrichardson.substack.com/p/august-25-2024"
+class="uri">https://heathercoxrichardson.substack.com/p/august-25-2024</a></p>
+<hr />
+<h2 id="pavel-durov-ceo-of-telegram-arrested-in-france">Pavel Durov, CEO
+of Telegram, Arrested in France</h2>
+<p>date: 2024-08-26, updated: 2024-08-26, from: Daring Fireball</p>
+<p><a
+href="https://www.reuters.com/world/europe/telegram-messaging-app-ceo-pavel-durov-arrested-france-tf1-tv-says-2024-08-24/"
+class="uri">https://www.reuters.com/world/europe/telegram-messaging-app-ceo-pavel-durov-arrested-france-tf1-tv-says-2024-08-24/</a></p>
+<hr />
+<h2 id="roundup-why-we-dont-have-enough-housing">Roundup: why we don’t
+have enough housing</h2>
+<p>date: 2024-08-25, from: Tracy Durnell Blog</p>
+<p>U.S. Accuses Software Maker RealPage of Enabling Collusion on Rents
+by Danielle Kaye, Lauren Hirsch and David McCabe (NYTimes) + It’s the
+Land, Stupid: How the Homebuilder Cartel Drives High Housing Prices by
+Matt Stoller Consolidation –&gt; developers outsource the building and
+become more of a financing and land speculation business, and smaller
+projects become […]</p>
+<p><a
+href="https://tracydurnell.com/2024/08/25/roundup-why-we-dont-have-enough-housing/"
+class="uri">https://tracydurnell.com/2024/08/25/roundup-why-we-dont-have-enough-housing/</a></p>
+<hr />
+<h2 id="the-not-doing-list">The Not Doing List</h2>
+<p>date: 2024-08-25, from: Tracy Durnell Blog</p>
+<p><a href="https://tracydurnell.com/2024/08/25/the-not-doing-list/"
+class="uri">https://tracydurnell.com/2024/08/25/the-not-doing-list/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-08-25, from: Dave Winer’s Scripting
+News)</p>
+<p>The problem with the state-by-state abortion laws that
+<a href="https://www.cnn.com/2024/04/08/politics/donald-trump-abortion-2024/index.html">Trump
+says</a> he favors: 1. The women in states that ban abortion who will
+die as a result of the bans, and many more who will be severely injured,
+and all will have their freedoms severely restricted. 2. He’s lying.
+When Congress passes a national abortion ban he’ll sign it and boast
+about it,
+<a href="https://www.brainyquote.com/quotes/maya_angelou_383371">of
+course</a>.</p>
+<p><a href="http://scripting.com/2024/08/25.html#a230732"
+class="uri">http://scripting.com/2024/08/25.html#a230732</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-08-25, from: Dave Winer’s Scripting
+News)</p>
+<p>If you’re interested in languages and compiler compilers and how to
+bootstrap a scripting environment, then you’ll
+<a href="https://github.com/scripting/Scripting-News/issues/310#issuecomment-2309019704">enjoy
+the progress</a> I’ve made in the
+<a href="https://github.com/scripting/Scripting-News/issues/310">project</a>
+to get
+<a href="http://scripting.com/frontier/manual/chapter04.html">UserTalk</a>
+running in today’s environments. I welcome comments from experienced or
+curious language devs.</p>
+<p><a href="http://scripting.com/2024/08/25.html#a223121"
+class="uri">http://scripting.com/2024/08/25.html#a223121</a></p>
+<hr />
+<h2 id="vances-trumped-up-economics">Vance’s Trumped-Up Economics</h2>
+<p>date: 2024-08-25, from: Robert Reich’s blog</p>
+<p>Friends,</p>
+<p><a
+href="https://robertreich.substack.com/p/vances-trumped-up-economics"
+class="uri">https://robertreich.substack.com/p/vances-trumped-up-economics</a></p>
+<hr />
+<h2 id="climate-roundup-august-2024">Climate roundup: August 2024</h2>
+<p>date: 2024-08-25, from: Tracy Durnell Blog</p>
+<p>So many people have worked on curbing climate change. What have we
+got to show for it? For starters: The projected warning has decreased by
+0.9C. That’s considering only actually implemented policies. Pledged
+emissions cuts go even deeper. Is it enough? No. But we’ve gone from
+“It’s all going to hell” to “We made good […]</p>
+<p><a
+href="https://tracydurnell.com/2024/08/25/climate-roundup-august-2024/"
+class="uri">https://tracydurnell.com/2024/08/25/climate-roundup-august-2024/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-08-25, from: Dave Winer’s Scripting
+News)</p>
+<p><a href="https://www.threads.net/@davew/post/C_GmCiXJVBa">My
+response</a>: “We have no visibility into the inner workings of the NYT.
+We can’t vote them out of office. We can’t even rebut them. They rarely
+carry opposing opinions.”</p>
+<p><a href="http://scripting.com/2024/08/25.html#a183349"
+class="uri">http://scripting.com/2024/08/25.html#a183349</a></p>
+<hr />
+<h2 id="august-24-2024">August 24, 2024</h2>
+<p>date: 2024-08-25, from: Heather Cox Richardson blog</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/august-24-2024-131"
+class="uri">https://heathercoxrichardson.substack.com/p/august-24-2024-131</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-08-25, from: Dave Winer’s Scripting
+News)</p>
+<p><a href="https://www.threads.net/@davew/post/C_GcSKWJ1bc">Walt
+Mossberg</a>: “Journalists have one core job: to tell the truth,
+especially when it’s clear. The staff of the NY Times has done it in the
+past, even at great risk. Why don’t they do it now?”</p>
+<p><a href="http://scripting.com/2024/08/25.html#a174735"
+class="uri">http://scripting.com/2024/08/25.html#a174735</a></p>
+<hr />
+<h2 id="the-organ-builder">The Organ Builder</h2>
+<p>date: 2024-08-25, from: Doc Searls (at Harvard), New Old Blog</p>
+<p>On the right is the high school yearbook picture of Allan John Ontko,
+one of my best friends during the three years we were classmates at what
+I half-jokingly call a Lutheran academic correctional institution.
+Because that’s what it was for me. For most of the boys there, however,
+it was a seminary. Allan, then […]</p>
+<p><a href="https://doc.searls.com/2024/08/25/the-organ-builder/"
+class="uri">https://doc.searls.com/2024/08/25/the-organ-builder/</a></p>
+<hr />
+<h2 id="peace-love-and-music">Peace, Love, and Music</h2>
+<p>date: 2024-08-25, from: Dan Rather’s Steady</p>
+<p>A Reason To Smile</p>
+<p><a href="https://steady.substack.com/p/peace-love-and-music"
+class="uri">https://steady.substack.com/p/peace-love-and-music</a></p>
+<hr />
+<h2 id="caption-contest-next">Caption contest: Next!</h2>
+<p>date: 2024-08-25, from: Robert Reich’s blog</p>
+<p>And last week’s winner</p>
+<p><a
+href="https://robertreich.substack.com/p/caption-contest-next-attraction"
+class="uri">https://robertreich.substack.com/p/caption-contest-next-attraction</a></p>
+<hr />
+<h2 id="august-24-2024-1">August 24, 2024</h2>
+<p>date: 2024-08-25, from: Heather Cox Richardson blog</p>
+<p>The raucous roll call of states at the 2024 Democratic National
+Convention on Tuesday, as everybody danced to DJ Cassidy’s state-themed
+music, Lil Jon strode down the aisle to cheers for Georgia, and
+different delegations boasted about their states and good-naturedly
+teased other delegations, brought home the real-life meaning of E
+Pluribus Unum, “out of many, one.” From then until Thursday, as a sea of
+American flags waved and attendees joyfully chanted “USA, USA, USA,” the
+convention welcomed a new vision for the Democratic Party, deeply rooted
+in the best of traditional America.</p>
+<p><a href="https://heathercoxrichardson.substack.com/p/august-24-2024"
+class="uri">https://heathercoxrichardson.substack.com/p/august-24-2024</a></p>
+<hr />
+<h2 id="kamalas-acceptance-speech">Kamala’s acceptance speech</h2>
+<p>date: 2024-08-25, from: Dave Winer’s Scripting News</p>
+<p>
+Full audio for Kamala Harris’s acceptance speech at the DNC.
+</p>
+<p>
+Thanks to <a href="https://www.threads.net/@ianlandsman">Ian
+Landsman</a> for converting the video to MP3.
+</p>
+<p>
+My <a href="http://scripting.com/2024/08/23/123805.html">blog post</a>
+about the speech.
+</p>
+<p>
+Podcast:
+<a href="https://s3.amazonaws.com/scripting.com/2024/08/24/kamalaHarrisAcceptanceSpeech2024.m4a">37
+minutes</a>.
+</p>
+<p><a
+href="http://scripting.com/2024/08/24/014006.html?title=kamalasAcceptanceSpeech"
+class="uri">http://scripting.com/2024/08/24/014006.html?title=kamalasAcceptanceSpeech</a></p>
+</section>
+<footer>
+Antenna is a personal aggregation of items found around the web.
+Curated with <a href="https://rsdoiel.github.io/skimmer">skimmer</a> and <a href="https://sqlite.org">sqlite</a> then rendered with <a href="https://pandoc.org">Pandoc</a> with search provided by <a href="https://pagefind.app">PageFind</a>.
+</footer>
+<script type="module">
+    await import('/pagefind/pagefind-highlight.js');
+    new PagefindHighlight({ highlightParam: "highlight" });
+</script>
+</body>
+</html>
