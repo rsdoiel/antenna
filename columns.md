@@ -1,11 +1,27 @@
 ---
 title: columns 2024.35
-updated: 2024-08-26 07:42:02
+updated: 2024-08-26 09:13:46
 ---
 
 # columns 2024.35
 
-(date: 2024-08-26 07:42:02)
+(date: 2024-08-26 09:13:46)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-26, from: Dave Winer's Scripting News)
+
+I don't want to give Trump any ideas, but he's complaining that Harris is forcing him to run as an incumbent, so he might as well take credit for all the things Biden did. 
+
+<http://scripting.com/2024/08/26.html#a160738>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-26, from: Dave Winer's Scripting News)
+
+I know it doesn't matter why the NYT are so fucked up about covering the election, but I can't stop thinking about it anyway. Then, <a href="https://newrepublic.com/article/185200/kamala-wins-inside-clever-strategy-causing-trump-unravel">Greg Sargent's podcast</a> gave me an idea. The oppressor in a fascist state doesn't need you to love them, so long as you don't love anyone else. The NYT isn't trying to make us love Trump, that's impossible. But they are trying to make us not fall in love with Harris. I doubt they foresaw that possibility. But our feelings about Harris are very much love. The NYT is our only master, they must think. There's no room for us to love someone else, because we might listen to them. In a sense they respond like a first born child on the arrival of their little sister or brother. I don't know. As I said it doesn't matter why. That's their problem. Our problem is to get them out of the way. 
+
+<http://scripting.com/2024/08/26.html#a150923>
 
 ---
 

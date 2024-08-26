@@ -1,11 +1,21 @@
 ---
 title: games 2024.35
-updated: 2024-08-26 07:42:03
+updated: 2024-08-26 09:13:47
 ---
 
 # games 2024.35
 
-(date: 2024-08-26 07:42:03)
+(date: 2024-08-26 09:13:47)
+
+---
+
+## A new Nintendo Direct is coming on Aug. 27
+
+date: 2024-08-26, updated: 2024-08-26, from: Polygon Website
+
+Nintendo will broadcast a new Nintendo Direct presentation on Tuesday, Aug. 27, a two-part stream that’s one half Partner Showcase, one half Indie World. That means you can expect the new Nintendo Direct’s focus to be on games from major third-party publishers and games from smaller, independent developers. Tuesday’s Nintendo Direct/Indie World stream will run [&#8230;] 
+
+<https://www.polygon.com/gaming/443998/nintendo-direct-august-2024-time-date>
 
 ---
 
@@ -51,7 +61,7 @@ In summer, movie-studio thinking aims toward big-screen spectacles and as many e
 
 ## Strange Darling’s creators want you to disagree about what happens in the movie
 
-date: 2024-08-26, updated: 2024-08-23, from: Polygon Website
+date: 2024-08-26, updated: 2024-08-26, from: Polygon Website
 
 [Ed. note: &#160;This post contains spoilers for Strange Darling and discusses the movie’s later twists and events in detail. Read on only if you’ve already seen it, or if you showed up here to be spoiled.] We hear a man — “The Demon” — being asked whether he’s a serial killer. We see him seemingly [&#8230;] 
 

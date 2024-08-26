@@ -1,11 +1,33 @@
 ---
 title: home 2024.35
-updated: 2024-08-26 07:42:05
+updated: 2024-08-26 09:13:48
 ---
 
 # home 2024.35
 
-(date: 2024-08-26 07:42:05)
+(date: 2024-08-26 09:13:48)
+
+---
+
+## When and How to Thin Apples (And Why You Should)
+
+date: 2024-08-26, from: The Gardener's Path
+
+<p>We all know pruning is good for apple trees but to promote the best harvest ever, you should also be thinning your apples. Thinning is the process of removing some of the small, developing fruits so the tree can put its energy into the remaining pommes. Learn when and how to thin apples in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit-trees/thinning-apples/">When and How to Thin Apples (And Why You Should)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/fruit-trees/thinning-apples/>
+
+---
+
+## Celebrating California Farmworker Day – August 26: Honoring the Work of the California Farmworker Foundation
+
+date: 2024-08-26, from: Calfifornia Dept. Aggriculture blog
+
+August 26 is a day of reflection in California as we celebrate California Farmworker Day. This day is dedicated to highlighting, remembering, and appreciating the work that farmworkers contribute daily in California to provide the food that nourishes families and &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28082">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28082>
 
 ---
 
@@ -16,6 +38,16 @@ date: 2024-08-26, from: Family Handyman Blog
 There was a clear winner in our search for the best water heater brand. See which one was picked by five of our seven expert plumbers and HVAC technicians. 
 
 <https://www.familyhandyman.com/list/best-water-heater-brands/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-08-26, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
 
 ---
 

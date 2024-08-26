@@ -14,7 +14,7 @@ build: $(HTML_PAGES)
 		   --lua-filter=../links-to-html.lua \
 		   --metadata title="Antenna archives" \
 		   --metadata feed_name="$(basename $<).txt"\
-		   --metadata mid_central_page="../mid_central.html" \
+		   --metadata ham_radio_page="../ham_radio.html" \
 		   --metadata pacific_page="../pacific.html" \
 		   --metadata socal_north_page="../socal_north.html" \
 		   --metadata tech_likely_page="../tech_likely.html" \

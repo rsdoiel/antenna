@@ -1,11 +1,39 @@
 ---
 title: going electric 2024.35
-updated: 2024-08-26 07:42:08
+updated: 2024-08-26 09:13:50
 ---
 
 # going electric 2024.35
 
-(date: 2024-08-26 07:42:08)
+(date: 2024-08-26 09:13:50)
+
+---
+
+## Tesla's 'Cortex' Supercomputer Is What Its Robotaxi Hopes Ride On
+
+date: 2024-08-26, from: Inside EVs News
+
+Tesla claims it is building "the world's most powerful AI-training cluster." But it, and Full Self-Driving, are far from proven. 
+
+<https://insideevs.com/news/731363/tesla-cortex-supercomputer-giga-texas/>
+
+---
+
+## I run my electric tractor completely off-grid. Here’s my secret
+
+date: 2024-08-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/charging-container-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In what continues to feel like the ultimate tool hack, I’ve been running my electric tractor completely off-grid. I haven’t paid to charge it in months and it feels like I’m somehow cheating, always having the power of heavy machinery at my fingertips with absolutely zero fuel cost.</p>
+
+
+
+<p>Here’s how I wake up to a full “tank” every day, for free.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-tractor,off-grid-electric,solar-power" data-layer-viewtype="unknown" data-post-id="377140" href="https://electrek.co/2024/08/26/i-run-my-electric-tractor-completely-off-grid-heres-my-secret/#more-377140" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/26/i-run-my-electric-tractor-completely-off-grid-heres-my-secret/>
 
 ---
 
@@ -77,7 +105,7 @@ All Optiq EVs come with all-wheel drive and a GM-estimated range of 300 miles.
 
 ---
 
-## Over 50 Rivian EVs Damaged In Factory Parking Lot Fire. Here’s What Happened
+## Over 50 Rivian EVs Damaged In Factory Parking Lot Fire. Here’s What Happened (Updated)
 
 date: 2024-08-26, from: Inside EVs News
 

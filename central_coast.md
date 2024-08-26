@@ -1,11 +1,24 @@
 ---
 title: central coast 2024.35
-updated: 2024-08-26 07:42:01
+updated: 2024-08-26 09:13:45
 ---
 
 # central coast 2024.35
 
-(date: 2024-08-26 07:42:01)
+(date: 2024-08-26 09:13:45)
+
+---
+
+## Heriberto Razo Rodriguez of Santa Barbara 1977-2024
+
+date: 2024-08-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="640" height="582" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/unnamed.jpg?fit=640%2C582&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Heriberto Razo Rodriguez" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/unnamed.jpg?w=640&amp;ssl=1 640w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/unnamed.jpg?resize=300%2C273&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/unnamed.jpg?resize=400%2C364&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/unnamed.jpg?fit=640%2C582&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It is with heavy hearts, we share the news of the sudden passing of Heriberto “Beto” Razo Rodriguez on Aug. 17, 2024, in Santa Barbara. He was born on Jan. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/heriberto-razo-rodriguez-of-santa-barbara-1977-2024/">Heriberto Razo Rodriguez of Santa Barbara 1977-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/heriberto-razo-rodriguez-of-santa-barbara-1977-2024/>
 
 ---
 
@@ -13,7 +26,7 @@ updated: 2024-08-26 07:42:01
 
 date: 2024-08-26, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="943" height="629" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/120722-POD-John-Tilford.jpg?fit=943%2C629&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The Santa Barbara Mission, the Queen of the California Missions." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/120722-POD-John-Tilford.jpg?w=943&amp;ssl=1 943w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/120722-POD-John-Tilford.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/120722-POD-John-Tilford.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/120722-POD-John-Tilford.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/120722-POD-John-Tilford.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/120722-POD-John-Tilford.jpg?fit=943%2C629&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="943" height="629" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/120722-POD-John-Tilford.jpg?fit=943%2C629&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The Santa Barbara Mission, the Queen of the California Missions." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/120722-POD-John-Tilford.jpg?w=943&amp;ssl=1 943w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/120722-POD-John-Tilford.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/120722-POD-John-Tilford.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/120722-POD-John-Tilford.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/120722-POD-John-Tilford.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/120722-POD-John-Tilford.jpg?fit=943%2C629&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The post <a href="https://www.noozhawk.com/santa-barbara-mission-3/">Santa Barbara Mission</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 

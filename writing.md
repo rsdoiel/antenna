@@ -1,11 +1,47 @@
 ---
 title: writing 2024.35
-updated: 2024-08-26 07:42:03
+updated: 2024-08-26 09:13:47
 ---
 
 # writing 2024.35
 
-(date: 2024-08-26 07:42:03)
+(date: 2024-08-26 09:13:47)
+
+---
+
+## Sengkang Sci-Fi Quarterly Launch
+
+date: 2024-08-26, from: Locus Magazine
+
+<p>A new online SF journal, The Sengkang Sci-Fi Quarterly, launched in August. Editor-in-chief Zubin Jain tells us,</p>
+
+<div>We are a digital-only science fiction magazine based in Singapore, and focused on promoting speculative fiction from south-east asia. Our magazine also publishes non-fiction reviews of science fiction from south-east asia as well as profiles of regional authors. All story contributors are paid.</div>
+<div></div>
+<div>We&#8217;ve just launched our inaugural issue that features a mix </div> <a href="https://locusmag.com/2024/08/sengkang-sci-fi-quarterly-launch/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/sengkang-sci-fi-quarterly-launch/>
+
+---
+
+## Gary K. Wolfe Reviews The Melancholy of Untold History by Minsoo Kang
+
+date: 2024-08-26, from: Locus Magazine
+
+<p><strong>The Melancholy of Untold History, </strong>Minsoo Kang (William Morrow 978-0-06333-750-3, $28.00, 240pp, hc) July 2024.</p>
+<p>Early in Minsoo Kang’s remarkable first novel <strong>The Melancholy of Untold History</strong>, a character known only as the historian makes an interest­ing observation about how civilizations tell their own stories. First, he says, come ‘‘tales of gods, monsters, and heroes,’’ followed by historical narratives of ‘‘important personages of the past who achieved great things  <a href="https://locusmag.com/2024/08/gary-k-wolfe-reviews-the-melancholy-of-untold-history-by-minsoo-kang/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/gary-k-wolfe-reviews-the-melancholy-of-untold-history-by-minsoo-kang/>
+
+---
+
+## Spotlight on Chris McGrath
+
+date: 2024-08-26, from: Locus Magazine
+
+<p></p>
+<p><strong>CHRIS MCGRATH </strong>was born in the Bronx and has lived in and around NYC his whole life. At an early age he became interested in art, especially science fiction and fantasy. After graduating from The School of Visual Arts in NYC, Chris gave guitar lessons for several years before beginning his career in 2001. Since then he has done covers for #1 New York Times best selling authors such as:  <a href="https://locusmag.com/2024/08/spotlight-on-chris-mcgrath/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/spotlight-on-chris-mcgrath/>
 
 ---
 

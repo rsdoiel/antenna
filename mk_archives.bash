@@ -36,7 +36,7 @@ TXT
 mk_archive_for_feed "SoCal North" "socal_north"
 mk_archive_for_feed "Weather" "weather"
 mk_archive_for_feed "Pacific" "pacific"
-mk_archive_for_feed "Mid Central" "mid_central"
+mk_archive_for_feed "Ham Radio" "ham_radio"
 mk_archive_for_feed "Tech Likely" "tech_likely"
 mk_archive_for_feed "Writing" "writing"
 mk_archive_for_feed "Parks" "parks"

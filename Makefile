@@ -2,8 +2,15 @@
 # A rethink on my site build makefile
 #
 
+TODAY = $(shell reldate +0 day)
 SUNDAY = $(shell reldate sunday)
+ifeq ($(TODAY),$(SUNDAY))
+	SUNDAY = $(shell reldate --from $(TODAY) -- -7 day)
+endif
 SATURDAY = $(shell reldate saturday)
+ifeq ($(TODAY),$(SATURDAY))
+	SUNDAY = $(shell reldate --from $(TODAY) -- -7 day)
+endif
 VOL_NO = $(shell date +%Y.%W)
 
 YEAR = 2024
@@ -20,7 +27,7 @@ endif
 
 PROJECT = Antenna
 
-section_names = national socal_north pacific mid_central central_coast columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric food
+section_names = national socal_north pacific ham_radio central_coast columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric food
 
 md_files = $(addsuffix .md,$(section_names))
 
@@ -59,8 +66,8 @@ socal_north: .FORCE
 pacific: .FORCE
 	-skimmer pacific.txt
 
-mid_central: .FORCE
-	-skimmer mid_central.txt
+ham_radio: .FORCE
+	-skimmer ham_radio.txt
 
 central_coast: .FORCE
 	-skimmer central_coast.txt
@@ -148,8 +155,8 @@ pagefind: .FORCE
 clean: .FORCE
 	-rm national.md 2>/dev/null
 	-rm national.html 2>/dev/null
-	-rm mid_central.md 2>/dev/null
-	-rm mid_central.html 2>/dev/null
+	-rm ham_radio.md 2>/dev/null
+	-rm ham_radio.html 2>/dev/null
 	-rm tech_likely.md 2>/dev/null
 	-rm tech_likely.html 2>/dev/null
 	-rm socal_north.md 2>/dev/null

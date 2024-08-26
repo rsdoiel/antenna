@@ -1,11 +1,111 @@
 ---
 title: pacific 2024.35
-updated: 2024-08-26 07:42:00
+updated: 2024-08-26 09:13:44
 ---
 
 # pacific 2024.35
 
-(date: 2024-08-26 07:42:00)
+(date: 2024-08-26 09:13:44)
+
+---
+
+## The independent Republican: A stance on freedom, liberty, and party principles
+
+date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
+
+IN the complex landscape of American politics, the lines between political affiliations can often blur. One such nuanced position is that of the "independent Republican," a stance that merits closer examination. 
+
+<https://www.mvariety.com/views/letters_to_editor/the-independent-republican-a-stance-on-freedom-liberty-and-party-principles/article_a993a20c-6365-11ef-b94f-e754ae388ea8.html>
+
+---
+
+## CEDA executive director and Covenant negotiator Manuel A. Sablan passes away
+
+date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
+
+MANUEL A. Sablan, one of the NMI’s Covenant negotiators, passed away Monday morning. He was 79. 
+
+<https://www.mvariety.com/news/local/ceda-executive-director-and-covenant-negotiator-manuel-a-sablan-passes-away/article_f5ce8e9a-6386-11ef-a708-737c15014e05.html>
+
+---
+
+## OPINION ǀ Why aren't business leaders promoting CNMI's visa-free access?
+
+date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
+
+IN my previous opinion pieces, I have pointed out that the current CNMI administration hasn’t made any changes to prevent the legal entry of tourists from China. This really got me questioning why the narrative by business groups and certain individuals has been to incorrectly blame the administration for the lack of tourists from China. It has not made much sense to me. I arrived at the conclusion that they were not truly after tourists from China as much as they were after pro-PRC messaging from the administration. I still believe that is the case. It did however get me to wondering why the numbers are down. 
+
+<https://www.mvariety.com/views/columnists/opinion-why-arent-business-leaders-promoting-cnmis-visa-free-access/article_11b1221a-63a2-11ef-ba04-9f406b05b4ca.html>
+
+---
+
+## DPS: Don’t shelter truant minor
+
+date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
+
+THE Department of Public Safety is warning individuals sheltering a minor in a truancy case that they may be charged with a criminal offense. 
+
+<https://www.mvariety.com/news/local/dps-don-t-shelter-truant-minor/article_b9cb5eae-6369-11ef-ac65-3347facc5d2b.html>
+
+---
+
+## Philippines says two new mpox cases are milder variant
+
+date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
+
+MANILA (Reuters) — The Philippines has confirmed two more mpox virus infections of the milder clade 2 variety, its health department said Monday, bringing the number of active cases to three. 
+
+<https://www.mvariety.com/news/regional_world/philippines-says-two-new-mpox-cases-are-milder-variant/article_24bc042a-63ab-11ef-b761-9b87743ffedb.html>
+
+---
+
+## Marianas Agupa and Rota Chamber of Commerce to host senatorial forum
+
+date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
+
+MARIANAS Agupa radio talk show is pleased to announce that there will be a forum between incumbent Rota Sen. Paul A. Manglona and challenger Ronnie M. Calvo on Saturday, Aug. 31, 2024 from 10 a.m. to 11a.m. 
+
+<https://www.mvariety.com/news/local/marianas-agupa-and-rota-chamber-of-commerce-to-host-senatorial-forum/article_80cc4aae-63ab-11ef-b271-a3b55ac5e471.html>
+
+---
+
+## Leon Guerrero doesn’t support presence of nuclear weapons in Guam or Pacific
+
+date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
+
+“CLARIFYING” her comments in a recent interview with Radio New Zealand, Guam Gov. Lou A. Leon Guerrero on Monday said she does not support the presence of nuclear weapons in Guam or the Pacific. 
+
+<https://www.mvariety.com/news/local/leon-guerrero-doesn-t-support-presence-of-nuclear-weapons-in-guam-or-pacific/article_e992d8d2-636f-11ef-8a2e-4720c7d5a322.html>
+
+---
+
+## Disciplinary hearing for suspended attorney set for Oct. 11
+
+date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
+
+SUPERIOR Court Associate Judge Joseph N. Camacho has scheduled a disciplinary hearing for suspended attorney Robert H. Myers Jr. for Oct. 11, 2024, at 10 a.m. 
+
+<https://www.mvariety.com/news/local/disciplinary-hearing-for-suspended-attorney-set-for-oct-11/article_a2c3d7e8-6361-11ef-a9a9-2ba7632636ae.html>
+
+---
+
+## 2 lawmakers raise concern about Hyatt lease
+
+date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
+
+REPRESENTATIVES Angelo A. Camacho and Julie Marie A. Ogo are seeking clarification from the Department of Public Lands regarding the status of the 40-year land lease contract that Hyatt Regency Saipan signed with the CNMI government nearly three years ago, before it shut down on June 30, 2024. 
+
+<https://www.mvariety.com/news/local/2-lawmakers-raise-concern-about-hyatt-lease/article_982df4d0-6384-11ef-9803-7be2c568b920.html>
+
+---
+
+## Public Defender’s Office seeks background information on witnesses in rape case
+
+date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
+
+THE Public Defender’s Office, which is representing William Abraczinskas, has requested the Office of the Attorney General to produce background information on witnesses that it intends to call at the defendant’s jury trial. 
+
+<https://www.mvariety.com/news/local/public-defender-s-office-seeks-background-information-on-witnesses-in-rape-case/article_1a3db562-635f-11ef-b5ca-8b7f75688643.html>
 
 ---
 
