@@ -1,11 +1,23 @@
 ---
 title: ham radio 2024.35
-updated: 2024-08-26 11:46:57
+updated: 2024-08-27 07:48:49
 ---
 
 # ham radio 2024.35
 
-(date: 2024-08-26 11:46:57)
+(date: 2024-08-27 07:48:49)
+
+---
+
+## Digital pot can control gain over a 90 dB span like an electromechanical
+
+date: 2024-08-27, from: EDN Blog
+
+<img width="656" height="491" src="https://www.edn.com/wp-content/uploads/3060dBDpot_Figure3.png?fit=656%2C491" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/3060dBDpot_Figure3.png?w=656 656w, https://www.edn.com/wp-content/uploads/3060dBDpot_Figure3.png?w=300 300w" sizes="(max-width: 656px) 100vw, 656px" /><p>Digital pot design with an active negative resistance effect can control gain from -30 dB to 60 dB like an electromechanical pot.</p>
+<p>The post <a href="https://www.edn.com/digital-pot-can-control-gain-over-a-90-db-span-like-an-electromechanical/" data-wpel-link="internal">Digital pot can control gain over a 90 dB span like an electromechanical</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/digital-pot-can-control-gain-over-a-90-db-span-like-an-electromechanical/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2024-08-26 11:46:57
 
 date: 2024-08-26, from: EDN Blog
 
-<img width="907" height="557" src="https://www.edn.com/wp-content/uploads/figure3-9.png?fit=907%2C557" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/figure3-9.png?w=907 907w, https://www.edn.com/wp-content/uploads/figure3-9.png?w=300 300w, https://www.edn.com/wp-content/uploads/figure3-9.png?w=768 768w" sizes="(max-width: 907px) 100vw, 907px" /><p>This power tip discusses a low-cost, highly accurate e-meter that uses a single current sensor for e-metering and PFC current-loop control.</p>
+<img width="907" height="557" src="https://www.edn.com/wp-content/uploads/figure3-9.png?fit=907%2C557" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/figure3-9.png?w=907 907w, https://www.edn.com/wp-content/uploads/figure3-9.png?w=300 300w, https://www.edn.com/wp-content/uploads/figure3-9.png?w=768 768w" sizes="(max-width: 907px) 100vw, 907px" /><p>This power tip discusses a low-cost, highly accurate e-meter that uses a single current sensor for e-metering and PFC current-loop control.</p>
 <p>The post <a href="https://www.edn.com/power-tips-132-a-low-cost-and-high-accuracy-e-meter-solution/" data-wpel-link="internal">Power Tips #132: A low-cost and high-accuracy e-meter solution</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.35
-updated: 2024-08-26 11:47:03
+updated: 2024-08-27 07:48:56
 ---
 
 # retro computing 2024.35
 
-(date: 2024-08-26 11:47:03)
+(date: 2024-08-27 07:48:56)
+
+---
+
+## CloudFS re-evaluated with new 0.35 release
+
+date: 2024-08-27, from: Icon Bar, RISC OS News
+
+The latest release of CloudFS (0.35) seems like an excellent reason to revisit this really useful RISC OS application.... 
+
+<http://www.iconbar.com/comments/rss/news2099.html>
 
 ---
 

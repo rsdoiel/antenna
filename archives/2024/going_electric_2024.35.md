@@ -1,11 +1,187 @@
 ---
 title: going electric 2024.35
-updated: 2024-08-26 11:47:04
+updated: 2024-08-27 07:48:57
 ---
 
 # going electric 2024.35
 
-(date: 2024-08-26 11:47:04)
+(date: 2024-08-27 07:48:57)
+
+---
+
+## BYD will use Huawei’s ADAS tech to power up ‘hard-core’ EVs, keep pace with Tesla
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/BYD-Huaweis.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s leading EV maker, <a href="https://electrek.co/guides/byd/">BYD</a>, will use Huawei’s advanced driver-assist tech for its new “hard-core” electric SUV brand. The new partnership comes as BYD looks to close the tech gap with Tesla and other upcoming Chinese rivals.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,huawei" data-layer-viewtype="unknown" data-post-id="377337" href="https://electrek.co/2024/08/27/byd-will-use-huaweis-adas-hard-core-evs-tesla/#more-377337" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/byd-will-use-huaweis-adas-hard-core-evs-tesla/>
+
+---
+
+## XPeng is scouting production sites in Europe to circumvent imposed tariffs on Chinese EVs
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/XPeng-production-Europe.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>XPeng Motors appears to be the latest Chinese automaker looking to bring localized EV production to Europe. During a recent interview, <a href="https://electrek.co/guides/xpeng/">XPeng’s</a> founder, chairman, and CEO, He Xiaopeng, shared that the company is exploring potential sites in the EU to set up local BEV production.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="europe,tariffs,xpeng,xpeng-motors" data-layer-viewtype="unknown" data-post-id="377335" href="https://electrek.co/2024/08/27/xpeng-scouting-production-sites-europe-circumvent-imposed-tariffs-chinese-evs/#more-377335" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/xpeng-scouting-production-sites-europe-circumvent-imposed-tariffs-chinese-evs/>
+
+---
+
+## Gogoro reveals details for its next big battery-swapping e-scooter expansion
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/gogoro-crossover-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>After announcing plans for expanding into the Nepalese market <a href="https://electrek.co/2024/04/26/gogoro-battery-swapping-electric-scooters-continue-international-expansion">earlier this year</a>, Gogoro is back with updated details for the October launch of commercial operations.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="gogoro" data-layer-viewtype="unknown" data-post-id="377328" href="https://electrek.co/2024/08/27/gogoro-reveals-details-for-its-next-big-battery-swapping-e-scooter-expansion/#more-377328" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/gogoro-reveals-details-for-its-next-big-battery-swapping-e-scooter-expansion/>
+
+---
+
+## EV charger network doubles under Biden-Harris, $521M in new grants fuel expansion
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/TESLA_Supercharger.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Biden-Harris administration announced today that the number of publicly available EV chargers has doubled since Biden took office. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,dc-fast-charging,ev-chargers,georgia,president-biden" data-layer-viewtype="unknown" data-post-id="377296" href="https://electrek.co/2024/08/27/ev-charger-network-doubles-under-biden-harris-521m-in-new-grants-fuel-expansion/#more-377296" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/ev-charger-network-doubles-under-biden-harris-521m-in-new-grants-fuel-expansion/>
+
+---
+
+## This Solar DC-To-DC EV Charger Promises To Cut Energy Losses By Up To 20%
+
+date: 2024-08-27, from: Inside EVs News
+
+Enteligent’s TLCEV T1 solar EV charger is up for pre-order. 
+
+<https://insideevs.com/news/731455/solar-dc-to-dc-ev-charger-enteligent-pre-order/>
+
+---
+
+## Kia EV9 Battery Pack Teardown: ’A Wonderful Design’
+
+date: 2024-08-27, from: Inside EVs News
+
+A top-notch battery pack that’s easy to repair in case something goes wrong. 
+
+<https://insideevs.com/news/731429/kia-ev9-100-kwh-battery-teardown/>
+
+---
+
+## Mullen scores a solid, 3,000 unit electric truck order from Volt Mobility
+
+date: 2024-08-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/image_720.png?w=1400" /></div><p>Commercial leasing company Volt Mobility boasts clients that include UPS, DHL, and FedEx. And now, they’ll be able to boast about having one of the largest electric vehicle fleets in the world – because they just ordered 3,000 electric trucks from Mullen.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-van,mullen" data-layer-viewtype="unknown" data-post-id="377309" href="https://electrek.co/2024/08/26/mullen-scores-a-solid-3000-unit-truck-order-from-volt-mobility/#more-377309" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/26/mullen-scores-a-solid-3000-unit-truck-order-from-volt-mobility/>
+
+---
+
+## Rivian on fire, Tesla adapters, Isuzu gets real, and a new Acura EV for $319
+
+date: 2024-08-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/rivian-fire.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, Michelle Lewis sets the record straight on the fire at the Normal, Illinois Rivian factory, Tesla is churning out adapters, and you can score a sweet deal on a new Acura ZDX electric crossover.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="acura,quick-charge,rivian" data-layer-viewtype="unknown" data-post-id="377297" href="https://electrek.co/2024/08/26/rivian-on-fire-tesla-adapters-isuzu-gets-real-and-a-new-acura-ev-for-319/#more-377297" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/26/rivian-on-fire-tesla-adapters-isuzu-gets-real-and-a-new-acura-ev-for-319/>
+
+---
+
+## Discovery set for brand revamp ahead of first EV to stand apart from Defender, Range Rover
+
+date: 2024-08-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Discovery-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Jaguar Land Rover’s Discovery brand is getting a new look as it prepares to launch its first all-electric vehicle. The Discovery EV will be unique as it looks to differentiate from Defender and <a href="https://electrek.co/guides/range-rover/">Range Rover</a> models. It may even include a Volkswagen ID.Buzz-like design.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="jaguar-land-rover" data-layer-viewtype="unknown" data-post-id="377289" href="https://electrek.co/2024/08/26/discovery-brand-revamp-ahead-first-ev/#more-377289" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/26/discovery-brand-revamp-ahead-first-ev/>
+
+---
+
+## Porsche Hates Fake Shifting On EVs: 'Why Make Something Worse?'
+
+date: 2024-08-26, from: Inside EVs News
+
+Porsche said that it looked at adding simulated shifting (like the Hyundai Ioniq 5 N) to its EVs but felt that it made the car "worse." 
+
+<https://insideevs.com/news/731383/porsche-simulated-shifting-porsche-worse/>
+
+---
+
+## Is EV Manufacturing Bad For The Environment?
+
+date: 2024-08-26, from: Inside EVs News
+
+Buckle up: This one won't be so pretty. But there are reasons the future can be better than the misery fossil fuels bring too. 
+
+<https://insideevs.com/news/731391/ev-myths-environment-mining-cobalt/>
+
+---
+
+## Hyundai IONIQ 6 facelift spotted for the first time with N branding
+
+date: 2024-08-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Hyundai-IONIQ-6-refresh-4.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s electric fastback is getting a refresh. The new <a href="https://electrek.co/guides/hyundai-ioniq-6/">Hyundai IONIQ 6</a> facelift was spotted with N branding for the first time ahead of its official debut. Check out the new image below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-6" data-layer-viewtype="unknown" data-post-id="377261" href="https://electrek.co/2024/08/26/hyundai-ioniq-6-facelift-spotted-first-time-n-branding/#more-377261" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/26/hyundai-ioniq-6-facelift-spotted-first-time-n-branding/>
+
+---
+
+## Honda U.S. Execs Say They Can't 'Force' People Into EVs
+
+date: 2024-08-26, from: Inside EVs News
+
+“You can’t force the customer to change their mind,” said Honda’s U.S. CEO on the sidelines of the Monterey Car Week. 
+
+<https://insideevs.com/news/731379/honda-ceo-ev-buyers/>
+
+---
+
+## Avangrid completes installation of its first solar farm in Texas
+
+date: 2024-08-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Avangrid-Texas-solar.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.iberdrola.com/about-us/our-activity/-solar-photovoltaic-energy/true-north-photovoltaic-plant" target="_blank" rel="noreferrer noopener">True North</a> is Avangrid’s (NYSE: AGR) first solar farm in Texas – and it will be the largest solar project in the company’s portfolio.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,texas" data-layer-viewtype="unknown" data-post-id="377262" href="https://electrek.co/2024/08/26/avangrid-completes-installation-of-its-first-solar-farm-in-texas/#more-377262" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/26/avangrid-completes-installation-of-its-first-solar-farm-in-texas/>
 
 ---
 
@@ -90,6 +266,20 @@ date: 2024-08-26, from: Electrek Feed
  <a data-layer-pagetype="post" data-layer-postcategory="honda" data-layer-viewtype="unknown" data-post-id="377207" href="https://electrek.co/2024/08/26/honda-bets-cr-v-civic-but-will-they-earn-ev-successors/#more-377207" class="more-link">more…</a> 
 
 <https://electrek.co/2024/08/26/honda-bets-cr-v-civic-but-will-they-earn-ev-successors/>
+
+---
+
+## Honda CR-V and Civic are top-sellers, but will they go electric?
+
+date: 2024-08-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Honda-CR-V-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Will Honda’s best-selling nameplates go electric? Honda buyers are “confident” in models like the CR-V and Civic, but will they earn EV replacements? Here’s why <a href="https://electrek.co/guides/honda/">Honda </a>is watching rival brands like Volkswagen to learn how to name electric models.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda" data-layer-viewtype="unknown" data-post-id="377207" href="https://electrek.co/2024/08/26/honda-bets-cr-v-civic-but-ev/#more-377207" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/26/honda-bets-cr-v-civic-but-ev/>
 
 ---
 

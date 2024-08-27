@@ -1,11 +1,91 @@
 ---
 title: motorcycles 2024.35
-updated: 2024-08-26 11:47:03
+updated: 2024-08-27 07:48:56
 ---
 
 # motorcycles 2024.35
 
-(date: 2024-08-26 11:47:03)
+(date: 2024-08-27 07:48:56)
+
+---
+
+## KTM Drops Anniversary Magazine, I Can’t Wait To Grab a Copy
+
+date: 2024-08-27, from: Ride Apart, Electric Motorcycle News
+
+The special publication goes deep into KTM’s seven-decade history.  
+
+<https://www.rideapart.com/news/731288/ktm-limitless-magazine-70th-anniversary/>
+
+---
+
+## Did This Harley-Swapped Mini Truck Make It To Sturgis? You'll Want to Hear It
+
+date: 2024-08-27, from: Ride Apart, Electric Motorcycle News
+
+It's one of a handful of memorable Cboystv vehicles the crew brought this year. 
+
+<https://www.rideapart.com/news/731400/harley-davidson-swapped-daihatsu-hijet-sturgis/>
+
+---
+
+## LaCrosse's Ursa ES GTX Boots Are Great for ATV Hunting, I Wish They Were Repairable
+
+date: 2024-08-27, from: Ride Apart, Electric Motorcycle News
+
+Come on, LaCrosse, offer repairs.  
+
+<https://www.rideapart.com/news/730323/lacrosse-ursa-es-gtx-hunting-boots-atv-expert-review/>
+
+---
+
+## This Honda Monkey Comes With a Matching Helmet, You Must See It
+
+date: 2024-08-27, from: Ride Apart, Electric Motorcycle News
+
+Just give Cub House Honda all my money now, seriously. 
+
+<https://www.rideapart.com/news/731397/honda-monkey-legacy-edition-z125r/>
+
+---
+
+## The Hells Angels are Banned in the Netherlands, No Really
+
+date: 2024-08-27, from: Ride Apart, Electric Motorcycle News
+
+The Dutch ain't part of the club.  
+
+<https://www.rideapart.com/news/731388/hells-angels-banned-netherlands-outlaw-motorcycle-club/>
+
+---
+
+## Motorcyclist Doesn't Move Over Fast Enough, Cop Says He'll 'Run Them Over'
+
+date: 2024-08-27, from: Ride Apart, Electric Motorcycle News
+
+That might be a little aggressive.  
+
+<https://www.rideapart.com/news/731376/motorcyclist-police-hov-lane-california/>
+
+---
+
+## Will This Chinese-Built Adventure Bike Shake Up The Segment? Maybe
+
+date: 2024-08-27, from: Ride Apart, Electric Motorcycle News
+
+The Brixton Storr 500 looks just about ready to hit the global market.  
+
+<https://www.rideapart.com/news/731291/brixton-storr-chinese-adventure-entering-production/>
+
+---
+
+## GALLERY: A Look At The Coke Zero Sugar 400 NASCAR Weekend At Daytona
+
+date: 2024-08-27, from: Kickin the Tires blog
+
+Photos by Blake Ulino/Kickin&#8217; the Tires 
+
+<https://kickinthetires.net/nascar/gallery-a-look-at-the-coke-zero-sugar-400-nascar-weekend-at-daytona/>
 
 ---
 

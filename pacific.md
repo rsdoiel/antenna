@@ -1,11 +1,629 @@
 ---
 title: pacific 2024.35
-updated: 2024-08-26 11:46:56
+updated: 2024-08-27 07:48:48
 ---
 
 # pacific 2024.35
 
-(date: 2024-08-26 11:46:56)
+(date: 2024-08-27 07:48:48)
+
+---
+
+## Hone: Heavy rains, strong winds, but more hassle than harm
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>Tropical Storm Hone didn&#8217;t hit Hawaii Island directly, but did leave its calling card over the weekend in the form of heavy rainfall and gusty winds.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/hawaii-news/hone-heavy-rains-strong-winds-but-more-hassle-than-harm/>
+
+---
+
+## UH-Hilo PAC ready for new season
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>A variety of live performances featuring talented artists from Hawaii and around the world will take the stage at the University of Hawaii at Hilo Performing Arts Center this season.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/hawaii-news/uh-hilo-pac-ready-for-new-season/>
+
+---
+
+## 1 tourist dead and 1 injured after ice canyon collapses in Iceland
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>Rescuers in Iceland on Monday called off the search of a deadly ice canyon collapse after they determined that, contrary to initial reports, there were no other tourists trapped beneath the debris, police said.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/nation-world-news/1-tourist-dead-and-1-injured-after-ice-canyon-collapses-in-iceland/>
+
+---
+
+## Democrats sue Georgia election board, warning of ‘chaos’
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>Democrats sued the Georgia State Election Board on Monday, arguing that measures approved by the board this month seeking to alter the election certification process in the state were illegal and could create chaos on Election Day.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/nation-world-news/democrats-sue-georgia-election-board-warning-of-chaos/>
+
+---
+
+## Ocean View man accused of fatally kicking and stabbing his dog
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>A 64-year-old Ocean View man accused of killing one of his dogs has been freed from custody on supervised release, a form of cashless bail.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/hawaii-news/ocean-view-man-accused-of-fatally-kicking-and-stabbing-his-dog/>
+
+---
+
+## $10.5 million available for homeless programs
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>More than $10 million in grant funding is up for grabs for potential programs to alleviate homelessness on the Big Island.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/hawaii-news/10-5-million-available-for-homeless-programs/>
+
+---
+
+## Assassination task force visits Butler as right wing promises a ‘parallel’ inquiry
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>BUTLER, Pa. &#8212; Members of the newly formed House task force on the attempted assassination of former President Donald Trump took one of their first investigative steps Monday, traveling to the site of the shooting in Butler, Pennsylvania, to scrutinize the scene.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/nation-world-news/assassination-task-force-visits-butler-as-right-wing-promises-a-parallel-inquiry/>
+
+---
+
+## Harris and Trump squabble over debate rules as ABC matchup looms
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>At the weigh-in before a big bout, prizefighters often taunt their opponents in an effort to try to psych them out.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/nation-world-news/harris-and-trump-squabble-over-debate-rules-as-abc-matchup-looms/>
+
+---
+
+## Obituaries for August 27
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>Robert Jule Dehmer, 94, of Captain Cook died May 18 at Nakamaru Hale in Holualoa. Born in Newark, N.J., he was a mechanic for Royal Hawaiian Air Service and member of Screen Actors Guild. Inurnment 11:30 a.m. Sunday, Sept. 25, at West Hawaii Veterans Cemetery. Survived by sons, Walter &#8220;Kimo&#8221; (Debrah) Dehmer of Honaunau, Lynn (Sunny) Dehmer of Kukuihaele, Robert Dehmer of Ka&#8216;u and Ricky Dehmer of Hilo; daughter. Gail Dehmer of Mountain View; 14 grandchildren; great-grandchildren, nieces, nephews and cousins. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/obituaries/obituaries-for-august-27-8/>
+
+---
+
+## Trump hits Harris over ‘humiliation’ in military’s Afghan exit
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>DETROIT &#8212; Former President Donald Trump wrapped himself in military imagery on Monday, attacking the Biden administration over its withdrawal from Afghanistan. Observing the third anniversary of a deadly suicide bombing in Kabul, the Afghan capital, he visited Arlington National Cemetery, then later spoke in Detroit to a gathering of National Guard members.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/nation-world-news/trump-hits-harris-over-humiliation-in-militarys-afghan-exit/>
+
+---
+
+## Russia pounds Ukraine with ‘one of the largest strikes’ of the war
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Moscow launched more than 200 missiles and drones across a wide swath of Ukraine on Monday, damaging energy facilities and sending residents of Kyiv into basements and subways to seek shelter. President Volodymyr Zelenskyy condemned the assault as &#8220;one of the largest strikes&#8221; of the 30-month-old war.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/nation-world-news/russia-pounds-ukraine-with-one-of-the-largest-strikes-of-the-war/>
+
+---
+
+## Israel’s conflicts with Hamas and Hezbollah show no sign of easing
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; After weeks of foreboding, an all-out war between Israel and Hezbollah has been averted, at least for now, as both sides returned Monday to more contained confrontations along the Israel-Lebanon border.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/nation-world-news/israels-conflicts-with-hamas-and-hezbollah-show-no-sign-of-easing/>
+
+---
+
+## BIIF volleyball: Ka Makani dominates in road victory; KSH wins season opener
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; With several Big Island Interscholastic Federation (BIIF) fall sports events postponed or cancelled over the weekend due to the tropical storms, Hawai&#8216;i Preparatory Academy and Kealakehe girls volleyball&#8217;s matchup was one of the few that stayed on schedule.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/sports/biif-volleyball-ka-makani-dominates-in-road-victory-ksh-wins-season-opener/>
+
+---
+
+## Disabled troops used to have to leave the military. Now some compete for gold.
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>ORLANDO, Fla. &#8212; Master Sgt. Ivan Morera isn&#8217;t used to being in last place. He&#8217;s a Green Beret. A relentless competitor. But at the 2024 Warrior Games, with his prosthetic hand hooked into a rowing machine, he was trailing the pack.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/sports/disabled-troops-used-to-have-to-leave-the-military-now-some-compete-for-gold/>
+
+---
+
+## ‘We’re all relieved’ CeeDee Lamb’s new contract is done, says Mike McCarthy
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>Mike McCarthy was at The Star on Monday when he received the news that star wide receiver CeeDee Lamb and the Dallas Cowboys reached an agreement on a new contract.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/sports/were-all-relieved-ceedee-lambs-new-contract-is-done-says-mike-mccarthy/>
+
+---
+
+## Rusty Djokovic kicks off Grand Slam record bid with Albot thrashing
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK (Reuters) &#8212; Novak Djokovic&#8217;s bid for a record 25th Grand Slam title kicked off on Monday with a rusty 6-2 6-2 6-4 win over qualifier Radu Albot in the U.S. Open first round as the defending champion returned to the court after his Olympic triumph.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/sports/rusty-djokovic-kicks-off-grand-slam-record-bid-with-albot-thrashing/>
+
+---
+
+## UN chief issues ‘SOS’ for Pacific Islands worst hit by warming ocean
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; United Nations Secretary-General Antonio Guterres said on Tuesday ocean temperatures are rising in the Pacific Islands at three times the rate worldwide, and its population was &#8220;uniquely exposed&#8221; to the impact of rising sea levels. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/nation-world-news/un-chief-issues-sos-for-pacific-islands-worst-hit-by-warming-ocean/>
+
+---
+
+## Casual extremism and how language in the middle enables the extremes
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>When I was a white supremacist who had infiltrated the Canadian military reserves, an officer who had spent two tours of Northern Ireland embedded in a British unit told me that the Irish Republican Army had only 75 active personnel who pulled triggers and planted bombs. Behind those combatants were 3,500 people who offered them safe houses and storage for their ammunition. Bolstering them was a much broader community of people who endorsed their efforts.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/opinion/casual-extremism-and-how-language-in-the-middle-enables-the-extremes/>
+
+---
+
+## Let’s Talk Food: Did you know?
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>Did you know that avocado trees need moderate to high amounts of water to thrive? A 10-foot tree needs about 10.3 gallons a day. Planting them on this island where we have an abundance of water seems to be a great agricultural crop.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/features/lets-talk-food-did-you-know-2/>
+
+---
+
+## Harris and Trump shouldn’t pander to the crypto crowd
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>The good news is that business interests are getting support during an election year. The bad news is that the business is crypto. Less than two years after the industry&#8217;s highest-profile political donor was exposed as a criminal, the lure of campaign donations from the digital-money crowd is once again proving irresistible.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/opinion/harris-and-trump-shouldnt-pander-to-the-crypto-crowd/>
+
+---
+
+## Palau Hosts Regional Public Auditors at APIPA Conference Amid Push for Transparency
+
+date: 2024-08-27, from: Island Times
+
+<figure><img width="1024" height="469" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?fit=1024%2C469&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=300%2C137&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=1024%2C469&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=768%2C352&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=1536%2C704&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=1200%2C550&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=1568%2C718&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=2000%2C916&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=400%2C183&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=706%2C323&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?fit=1024%2C469&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72176" data-permalink="https://islandtimes.org/palau-hosts-regional-public-auditors-at-apipa-conference-amid-push-for-transparency/apipa-conference-bring-auditors-from-the-pacific-together-at-palau-national-gymnasium/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?fit=2048%2C938&amp;ssl=1" data-orig-size="2048,938" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="APIPA Conference bring auditors from the Pacific together at Palau National Gymnasium" data-image-description="" data-image-caption="&lt;p&gt;Palau Hosts Regional Public Auditors at APIPA Conference Amid Push for Transparency&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?fit=300%2C137&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?fit=780%2C357&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau – More than 500 participants gathered in Palau for the 35th annual conference of the Association of Pacific Islands Public Auditors (APIPA), held from August 26 to 30. The attendees, hailing from various Pacific regions including Palau, the Marshall Islands, Pohnpei, Chuuk, Kosrae, Yap, the Northern Mariana Islands, Guam, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-hosts-regional-public-auditors-at-apipa-conference-amid-push-for-transparency/">Palau Hosts Regional Public Auditors at APIPA Conference Amid Push for Transparency</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-hosts-regional-public-auditors-at-apipa-conference-amid-push-for-transparency/>
+
+---
+
+## Whipps Highlights Parallels Between Palau and New Caledonia in Push for Self-Determination
+
+date: 2024-08-27, from: Island Times
+
+<p>President Surangel Whipps Jr. of Palau expressed empathy for the people of New Caledonia, drawing parallels between Palau&#8217;s history of colonization and New Caledonia&#8217;s current struggles for self-determination. &#8220;We want to see them have peace, to live in peace. We empathize with the people of New Caledonia,&#8221; Whipps said, recalling how Spain, Germany, Japan, and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-highlights-parallels-between-palau-and-new-caledonia-in-push-for-self-determination/">Whipps Highlights Parallels Between Palau and New Caledonia in Push for Self-Determination</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/whipps-highlights-parallels-between-palau-and-new-caledonia-in-push-for-self-determination/>
+
+---
+
+## Ngatpang Delegate Race Narrows as Governor Iyar Considers Withdrawal
+
+date: 2024-08-27, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau — Jersey Iyar, the current governor of Ngatpang, is expected to withdraw from the race for Ngatpang state delegate in the upcoming general election scheduled for November 12, according to reliable sources. Iyar filed his petition to run for the House of Delegates along with two other candidates, Ngatpang [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngatpang-delegate-race-narrows-as-governor-iyar-considers-withdrawal/">Ngatpang Delegate Race Narrows as Governor Iyar Considers Withdrawal</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ngatpang-delegate-race-narrows-as-governor-iyar-considers-withdrawal/>
+
+---
+
+## Palauan Youth Gather for Empowerment Workshop on Climate and Culture
+
+date: 2024-08-27, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Reng-Collaborative-Youth-Empowerment.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Reng-Collaborative-Youth-Empowerment.jpeg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Reng-Collaborative-Youth-Empowerment.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Reng-Collaborative-Youth-Empowerment.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Reng-Collaborative-Youth-Empowerment.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Reng-Collaborative-Youth-Empowerment.jpeg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Reng-Collaborative-Youth-Empowerment.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Reng-Collaborative-Youth-Empowerment.jpeg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Reng-Collaborative-Youth-Empowerment.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Reng-Collaborative-Youth-Empowerment.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Reng-Collaborative-Youth-Empowerment.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Reng-Collaborative-Youth-Empowerment.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72170" data-permalink="https://islandtimes.org/palauan-youth-gather-for-empowerment-workshop-on-climate-and-culture/reng-collaborative-youth-empowerment/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Reng-Collaborative-Youth-Empowerment.jpeg?fit=2048%2C1366&amp;ssl=1" data-orig-size="2048,1366" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Reng Collaborative &#8211; Youth Empowerment" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Reng-Collaborative-Youth-Empowerment.jpeg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Reng-Collaborative-Youth-Empowerment.jpeg?fit=780%2C520&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Koror, Palau – On August 23, the Reng Collective officially launched a youth empowerment workshop, attracting over 50 young participants from Palau, aged 18 to 30. Under the theme &#8220;Rising Tides and Rising Voices,&#8221; the workshop featured presentations from national leaders and experts in areas such as climate conservation, culture, and community development. Notable attendees [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauan-youth-gather-for-empowerment-workshop-on-climate-and-culture/">Palauan Youth Gather for Empowerment Workshop on Climate and Culture</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palauan-youth-gather-for-empowerment-workshop-on-climate-and-culture/>
+
+---
+
+## PICRC researchers deploy sensors to monitor conditions leading to a coral bleaching event
+
+date: 2024-08-27, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72161" data-permalink="https://islandtimes.org/picrc-researchers-deploy-sensors-to-monitor-conditions-leading-to-a-coral-bleaching-event/pr_sensorngaraard/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?fit=2560%2C1920&amp;ssl=1" data-orig-size="2560,1920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon PowerShot G7 X Mark II&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;315533174&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;8.8&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.008&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PR_SensorNgaraard" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_SensorNgaraard-scaled.jpg?fit=780%2C585&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Coral reefs are vital to marine ecosystems, providing habitat, food, and protection for countless species. Unfortunately, these underwater environments are increasingly threatened. One of these threats is coral bleaching, which is triggered by rising sea temperatures. Coral bleaching occurs when the microalgae that live inside coral tissues, which give corals their color and energy, are [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-researchers-deploy-sensors-to-monitor-conditions-leading-to-a-coral-bleaching-event/">PICRC researchers deploy sensors to monitor conditions leading to a coral bleaching event</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/picrc-researchers-deploy-sensors-to-monitor-conditions-leading-to-a-coral-bleaching-event/>
+
+---
+
+## Palau Faces Workforce Crisis as Job Vacancies Soar Amid Rising Outmigration and Inflation
+
+date: 2024-08-27, from: Island Times
+
+<p>By:&#160; Eustoria Marie Borja (Koror, Palau) — Palau has 90 job openings across various sectors. The government sector leads with 60 vacancies, while the private sector has 12 openings, and the semi-private and government sectors account for 18. This shortage of workers comes at a time when work is plentiful, but the labor force has [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-faces-workforce-crisis-as-job-vacancies-soar-amid-rising-outmigration-and-inflation/">Palau Faces Workforce Crisis as Job Vacancies Soar Amid Rising Outmigration and Inflation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-faces-workforce-crisis-as-job-vacancies-soar-amid-rising-outmigration-and-inflation/>
+
+---
+
+## Veterinarian Raises Alarm Over Neglect in Palau’s K-9 Program
+
+date: 2024-08-27, from: Island Times
+
+<p>By: Eustoria Maria Borja Dr. Kristen Decina Singeo, a licensed veterinarian who played a key role in the program&#8217;s inception, has been a strong advocate for the proper care of the dogs. Although she was contracted for one year and three months out of the four years since the dogs arrived in Palau, her services [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/veterinarian-raises-alarm-over-neglect-in-palaus-k-9-program/">Veterinarian Raises Alarm Over Neglect in Palau’s K-9 Program</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/veterinarian-raises-alarm-over-neglect-in-palaus-k-9-program/>
+
+---
+
+## UN Sec-Gen praises Pacific for leadership in climate change fight
+
+date: 2024-08-27, from: Island Times
+
+<p>United Nations Secretary-General Antonio Guterres said at&#160;&#160;the opening of the Pacific Islands Forum in Tonga,&#160;&#160;that world leaders can save the world from climate change crisis if it saves the Pacific, a region he described as a&#160;&#160;beacon of solidarity and strength, environmental stewardship, and peace.” &#160;“The decisions world leaders take in the coming years will determine [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/un-sec-gen-praises-pacific-for-leadership-in-climate-change-fight/">UN Sec-Gen praises Pacific for leadership in climate change fight </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/un-sec-gen-praises-pacific-for-leadership-in-climate-change-fight/>
+
+---
+
+## Taiwan delivers Climate Change and Disaster Risk Reduction Grant and Stimulus Grant
+
+date: 2024-08-27, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Check-handover.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Check-handover.jpeg?w=1600&amp;ssl=1 1600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Check-handover.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Check-handover.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Check-handover.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Check-handover.jpeg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Check-handover.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Check-handover.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Check-handover.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Check-handover.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Check-handover.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Check-handover.jpeg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Check-handover.jpeg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Check-handover.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72157" data-permalink="https://islandtimes.org/taiwan-delivers-climate-change-and-disaster-risk-reduction-grant-and-stimulus-grant/check-handover/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Check-handover.jpeg?fit=1600%2C1200&amp;ssl=1" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Check handover" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Check-handover.jpeg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Check-handover.jpeg?fit=780%2C585&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Ambassador Jessica Lee of the Republic of China (Taiwan) presented the checks of 2024 Climate Change and Disaster Risk Reduction Grant and the final tranche of 2020 annual Stimulus Grant of one million and 460 thousand US dollars respectively to the President Surangel S. Whipps, Jr. and Minister of Finance Kaleb Udui, Jr. &#160;&#160;&#160;&#160; The [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwan-delivers-climate-change-and-disaster-risk-reduction-grant-and-stimulus-grant/">Taiwan delivers Climate Change and Disaster Risk Reduction Grant and Stimulus Grant</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/taiwan-delivers-climate-change-and-disaster-risk-reduction-grant-and-stimulus-grant/>
+
+---
+
+## Japan and Palau strengthen ties during onboard ceremony on JS Ariake
+
+date: 2024-08-27, from: Island Times
+
+<figure><img width="1024" height="947" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Japan-and-Palau-strengthen-ties-during-onboard-ceremony-on-JS-Ariake.jpg?fit=1024%2C947&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Japan-and-Palau-strengthen-ties-during-onboard-ceremony-on-JS-Ariake.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Japan-and-Palau-strengthen-ties-during-onboard-ceremony-on-JS-Ariake.jpg?resize=300%2C277&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Japan-and-Palau-strengthen-ties-during-onboard-ceremony-on-JS-Ariake.jpg?resize=1024%2C947&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Japan-and-Palau-strengthen-ties-during-onboard-ceremony-on-JS-Ariake.jpg?resize=768%2C710&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Japan-and-Palau-strengthen-ties-during-onboard-ceremony-on-JS-Ariake.jpg?resize=1200%2C1110&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Japan-and-Palau-strengthen-ties-during-onboard-ceremony-on-JS-Ariake.jpg?resize=400%2C370&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Japan-and-Palau-strengthen-ties-during-onboard-ceremony-on-JS-Ariake.jpg?resize=706%2C653&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Japan-and-Palau-strengthen-ties-during-onboard-ceremony-on-JS-Ariake.jpg?fit=1024%2C947&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72149" data-permalink="https://islandtimes.org/japan-and-palau-strengthen-ties-during-onboard-ceremony-on-js-ariake/japan-and-palau-strengthen-ties-during-onboard-ceremony-on-js-ariake/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Japan-and-Palau-strengthen-ties-during-onboard-ceremony-on-JS-Ariake.jpg?fit=1249%2C1155&amp;ssl=1" data-orig-size="1249,1155" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Japan and Palau strengthen ties during onboard ceremony on JS Ariake" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Japan-and-Palau-strengthen-ties-during-onboard-ceremony-on-JS-Ariake.jpg?fit=300%2C277&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Japan-and-Palau-strengthen-ties-during-onboard-ceremony-on-JS-Ariake.jpg?fit=780%2C721&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>On August 19, the Japan Maritime Self-Defense Force destroyer JS Ariake held an onboard ceremony to celebrate the 30th anniversary of diplomatic ties between Japan and Palau, bringing together key officials from Palau and representatives of Japan to reinforce the longstanding friendship and collaborative efforts. The event served not only as a symbol of goodwill [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japan-and-palau-strengthen-ties-during-onboard-ceremony-on-js-ariake/">Japan and Palau strengthen ties during onboard ceremony on JS Ariake</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/japan-and-palau-strengthen-ties-during-onboard-ceremony-on-js-ariake/>
+
+---
+
+## PICRC Administration Director and Interim CEO attends Fund Accounting Training Workshop in Guam
+
+date: 2024-08-27, from: Island Times
+
+<figure><img width="1024" height="752" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Photo_PICRC-Administration-Director-and-Interim-CEO-attends-Fund-Accounting-Training-Workshops-in-Guam.jpg?fit=1024%2C752&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Photo_PICRC-Administration-Director-and-Interim-CEO-attends-Fund-Accounting-Training-Workshops-in-Guam.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Photo_PICRC-Administration-Director-and-Interim-CEO-attends-Fund-Accounting-Training-Workshops-in-Guam.jpg?resize=300%2C220&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Photo_PICRC-Administration-Director-and-Interim-CEO-attends-Fund-Accounting-Training-Workshops-in-Guam.jpg?resize=1024%2C752&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Photo_PICRC-Administration-Director-and-Interim-CEO-attends-Fund-Accounting-Training-Workshops-in-Guam.jpg?resize=768%2C564&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Photo_PICRC-Administration-Director-and-Interim-CEO-attends-Fund-Accounting-Training-Workshops-in-Guam.jpg?resize=1200%2C881&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Photo_PICRC-Administration-Director-and-Interim-CEO-attends-Fund-Accounting-Training-Workshops-in-Guam.jpg?resize=400%2C294&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Photo_PICRC-Administration-Director-and-Interim-CEO-attends-Fund-Accounting-Training-Workshops-in-Guam.jpg?resize=706%2C518&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Photo_PICRC-Administration-Director-and-Interim-CEO-attends-Fund-Accounting-Training-Workshops-in-Guam.jpg?fit=1024%2C752&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72146" data-permalink="https://islandtimes.org/picrc-administration-director-and-interim-ceo-attends-fund-accounting-training-workshop-in-guam/photo_picrc-administration-director-and-interim-ceo-attends-fund-accounting-training-workshops-in-guam/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Photo_PICRC-Administration-Director-and-Interim-CEO-attends-Fund-Accounting-Training-Workshops-in-Guam.jpg?fit=1249%2C917&amp;ssl=1" data-orig-size="1249,917" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Photo_PICRC Administration Director and Interim CEO attends Fund Accounting Training Workshops in Guam" data-image-description="" data-image-caption="&lt;p&gt;PICRC Administration Director and Interim CEO attends Fund Accounting Training Workshops in Guam.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Photo_PICRC-Administration-Director-and-Interim-CEO-attends-Fund-Accounting-Training-Workshops-in-Guam.jpg?fit=300%2C220&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/Photo_PICRC-Administration-Director-and-Interim-CEO-attends-Fund-Accounting-Training-Workshops-in-Guam.jpg?fit=780%2C573&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Palau International Coral Reef Center’s (PICRC) Administration Director and Interim CEO, Caryn Lkong Koshiba, recently returned from a Fund Accounting Training Workshop in Guam, which was hosted by Holland Consulting. The three-day course, titled MIP Essentials &#38; Update Workshop, focused on primary financial activities and provided a good overview for new MIP users and cross-training [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-administration-director-and-interim-ceo-attends-fund-accounting-training-workshop-in-guam/">PICRC Administration Director and Interim CEO attends Fund Accounting Training Workshop in Guam</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/picrc-administration-director-and-interim-ceo-attends-fund-accounting-training-workshop-in-guam/>
+
+---
+
+## Helping Your Teen Develop Emotional Maturity
+
+date: 2024-08-27, from: Island Times
+
+<figure><img width="400" height="400" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?fit=400%2C400&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?fit=400%2C400&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72144" data-permalink="https://islandtimes.org/helping-your-teen-develop-emotional-maturity/lnkcvqv8_400x400-10/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?fit=400%2C400&amp;ssl=1" data-orig-size="400,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="LNkCVQv8_400x400" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?fit=400%2C400&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Guiding a teen or young adult toward emotional maturity is an essential aspect of parenting that requires a thoughtful and supportive approach. One of the most effective ways to foster this growth is by modeling emotional regulation yourself. Teens learn a great deal by observing how their parents manage stress, disappointment, or anger. By handling [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/helping-your-teen-develop-emotional-maturity/">Helping Your Teen Develop Emotional Maturity</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/helping-your-teen-develop-emotional-maturity/>
+
+---
+
+## “We can only achieve our biggest goals by working together” – Australia’s Foreign Minister Penny Wong on why the Pacific Islands Forum is more important now, than ever before
+
+date: 2024-08-27, from: Island Times
+
+<p>By Penny Wong, Australian Foreign Minister Across the Pacific, there are many goals we share: creating more good jobs, better health services and schools, building safe communities – and we all want to fight climate change. We can only achieve our biggest goals by working together. And when the countries of the Pacific are united, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/we-can-only-achieve-our-biggest-goals-by-working-together-australias-foreign-minister-penny-wong-on-why-the-pacific-islands-forum-is-more-important-now-than-ever-before/">“We can only achieve our biggest goals by working together” &#8211; Australia’s Foreign Minister Penny Wong on why the Pacific Islands Forum is more important now, than ever before</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/we-can-only-achieve-our-biggest-goals-by-working-together-australias-foreign-minister-penny-wong-on-why-the-pacific-islands-forum-is-more-important-now-than-ever-before/>
+
+---
+
+## Pacific leaders meet for ‘pivotal’ climate change, decolonisation and security talks
+
+date: 2024-08-27, from: Island Times
+
+<p>NUKU&#8217;ALOFA, 26 AUGUST 2024 (BENAR NEWS/AFP) &#8212; Pacific island leaders and top diplomats from key partners including China and the United States have gathered in Tonga for a week of talks on decolonisation of New Caledonia, climate change and regional security and cohesion.&#160; The Forum Leaders Meeting for Pacific island nations opened Monday in the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-leaders-meet-for-pivotal-climate-change-decolonisation-and-security-talks/">Pacific leaders meet for ‘pivotal’ climate change, decolonisation and security talks</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/pacific-leaders-meet-for-pivotal-climate-change-decolonisation-and-security-talks/>
+
+---
+
+## Arkansas lawmakers approve emergency rule to grant SNAP benefits to Marshallese migrants
+
+date: 2024-08-27, from: Island Times
+
+<p>AKANSAS, 23 AUGUST 2024 (ARKANSAS ADVOCATE) &#8212; A legislative subcommittee on Thursday approved an emergency rule to comply with a new U.S federal law that extends certain public assistance programme benefits to migrants from the Marshall Islands. Arkansas is home to the largest Marshallese community in the country, according to U.S Census Bureau estimates.&#160; The [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/arkansas-lawmakers-approve-emergency-rule-to-grant-snap-benefits-to-marshallese-migrants/">Arkansas lawmakers approve emergency rule to grant SNAP benefits to Marshallese migrants</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/arkansas-lawmakers-approve-emergency-rule-to-grant-snap-benefits-to-marshallese-migrants/>
+
+---
+
+## To Lam’s rise to the top in Vietnam has been ‘spectacular’. Are we witnessing the emergence of a new strongman leader?
+
+date: 2024-08-27, from: Island Times
+
+<p>By&#160;Will Jackson (ABC-Australia) A new leader has rapidly ascended to power in Vietnam and some are already comparing him to Xi Jinping.&#160; Former minister for public security To Lam, 67, has taken on two of the four roles considered the &#8220;pillars&#8221; of the communist country&#8217;s political system following a period of dramatic upheaval in the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/to-lams-rise-to-the-top-in-vietnam-has-been-spectacular-are-we-witnessing-the-emergence-of-a-new-strongman-leader/">To Lam&#8217;s rise to the top in Vietnam has been &#8216;spectacular&#8217;. Are we witnessing the emergence of a new strongman leader?</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/to-lams-rise-to-the-top-in-vietnam-has-been-spectacular-are-we-witnessing-the-emergence-of-a-new-strongman-leader/>
+
+---
+
+## Regional unity the goal at Pacific Islands Forum
+
+date: 2024-08-27, from: Island Times
+
+<p>NUKU&#8217;ALOFA, 26 AUGUST 2024 (AAP) &#8212; The push for regional unity could be tested as early as the opening day of the Pacific Islands Forum Leaders Meeting in Nuku&#8217;alofa. On Monday, Pacific leaders will begin their five-day summit in Tonga, which promises to be the biggest regional gathering yet. More than 1400 delegates have registered, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/regional-unity-the-goal-at-pacific-islands-forum/">Regional unity the goal at Pacific Islands Forum</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/regional-unity-the-goal-at-pacific-islands-forum/>
+
+---
+
+## 𝗧𝗲𝗮𝗺 𝗣𝗮𝗹𝗮𝘂 𝟮𝟬𝟮𝟰 𝗢𝗹𝘆𝗺𝗽𝗶𝗮𝗻𝘀 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗖𝗲𝗿𝗲𝗺𝗼𝗻𝘆
+
+date: 2024-08-27, from: Island Times
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/FB_IMG_1724662471574.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/FB_IMG_1724662471574.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/FB_IMG_1724662471574.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/FB_IMG_1724662471574.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/FB_IMG_1724662471574.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/FB_IMG_1724662471574.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/FB_IMG_1724662471574.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/FB_IMG_1724662471574.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/FB_IMG_1724662471574.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/FB_IMG_1724662471574.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/FB_IMG_1724662471574.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/FB_IMG_1724662471574.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72131" data-permalink="https://islandtimes.org/%f0%9d%97%a7%f0%9d%97%b2%f0%9d%97%ae%f0%9d%97%ba-%f0%9d%97%a3%f0%9d%97%ae%f0%9d%97%b9%f0%9d%97%ae%f0%9d%98%82-%f0%9d%9f%ae%f0%9d%9f%ac%f0%9d%9f%ae%f0%9d%9f%b0-%f0%9d%97%a2%f0%9d%97%b9%f0%9d%98%86/fb_img_1724662471574/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/FB_IMG_1724662471574.jpg?fit=1080%2C1440&amp;ssl=1" data-orig-size="1080,1440" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="FB_IMG_1724662471574" data-image-description="" data-image-caption="&lt;p&gt;Photo credit: PALAU NOC&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/FB_IMG_1724662471574.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/FB_IMG_1724662471574.jpg?fit=768%2C1024&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Today marks a significant milestone for the sports community of Palau as three athletes: 𝑌𝑢𝑟𝑖 𝐻𝑜𝑠𝑒𝑖, 𝑂𝐿𝑌 𝐽𝑖𝑜𝑛 𝐻𝑜𝑠𝑒𝑖, 𝑂𝐿𝑌 𝑆𝑦𝑑𝑛𝑒𝑦 𝐹𝑟𝑎𝑛𝑐𝑖𝑠𝑐𝑜, 𝑂𝐿𝑌&#160; The athletes were formally certified and pinned by Joël Bouzou, OLY, President of the Athletes Commission at the Olympic House. This historic event serves to confirm and celebrate their integral role in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/%f0%9d%97%a7%f0%9d%97%b2%f0%9d%97%ae%f0%9d%97%ba-%f0%9d%97%a3%f0%9d%97%ae%f0%9d%97%b9%f0%9d%97%ae%f0%9d%98%82-%f0%9d%9f%ae%f0%9d%9f%ac%f0%9d%9f%ae%f0%9d%9f%b0-%f0%9d%97%a2%f0%9d%97%b9%f0%9d%98%86/">𝗧𝗲𝗮𝗺 𝗣𝗮𝗹𝗮𝘂 𝟮𝟬𝟮𝟰 𝗢𝗹𝘆𝗺𝗽𝗶𝗮𝗻𝘀 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗖𝗲𝗿𝗲𝗺𝗼𝗻𝘆</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/%f0%9d%97%a7%f0%9d%97%b2%f0%9d%97%ae%f0%9d%97%ba-%f0%9d%97%a3%f0%9d%97%ae%f0%9d%97%b9%f0%9d%97%ae%f0%9d%98%82-%f0%9d%9f%ae%f0%9d%9f%ac%f0%9d%9f%ae%f0%9d%9f%b0-%f0%9d%97%a2%f0%9d%97%b9%f0%9d%98%86/>
+
+---
+
+## Tennis champion Malcolm Andersongifts US Open trophy to tiny ruralTheodore Tennis Club
+
+date: 2024-08-27, from: Island Times
+
+<p>By Amy Sheehan and Freya Jetson (ABC-Australia) In a second-hand antique cabinet tucked away in a corner of theTheodore Tennis Clubhouse, a large silver trophy sits proudly on the top shelf.Treasurer Kim Olsson is happy to show off the prized possession inside themodest rural clubhouse in the central Queensland town, population 451, about200 kilometres south of Rockhampton.She puts [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tennis-champion-malcolm-andersongifts-us-open-trophy-to-tiny-ruraltheodore-tennis-club/">Tennis champion Malcolm Andersongifts US Open trophy to tiny ruralTheodore Tennis Club</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/tennis-champion-malcolm-andersongifts-us-open-trophy-to-tiny-ruraltheodore-tennis-club/>
+
+---
+
+## New investor eyes Hyatt Saipan property 
+
+date: 2024-08-27, from: Pacific Island Times
+
+By Pacific Island Times News Staff Saipan Portopia, the former operator of the now-closed Hyatt Regency Saipan, has begun negotiating... 
+
+<https://www.pacificislandtimes.com/post/new-investor-eyes-hyatt-saipan-property>
+
+---
+
+## Climate advocates set high expectations at Pacific Islands Forum's Tonga meeting
+
+date: 2024-08-27, from: Pacific Island Times
+
+By Jayvee Vallejera   Climate advocates set strong expectations at the start of the 53rd Pacific Islands Forum Leaders Meeting in... 
+
+<https://www.pacificislandtimes.com/post/climate-advocates-set-high-expectations-at-start-of-pacific-islands-forum-meeting>
+
+---
+
+##  ‘We are a force to be reckoned with’
+
+date: 2024-08-27, from: Pacific Island Times
+
+Pacific Islands Forum leader urges island leaders to remain vigilant amid threats of regional instability By Pacific Island Times News... 
+
+<https://www.pacificislandtimes.com/post/we-are-a-force-to-be-reckoned-with>
+
+---
+
+## Star Marianas Air rescinds notice to discontinue scheduled service
+
+date: 2024-08-27, updated: 2024-08-27, from: Marianas Variety
+
+STAR Marianas Air Inc. announced Tuesday that it has rescinded its  previous notice to discontinue scheduled air service, which was set to take effect on Oct. 15, 2024. “This decision comes after a constructive meeting held on August 26, 2024, with the Honorable Governor Arnold I. Palacios, Lieutenant Governor David M. Apatang and their legal counsel.” 
+
+<https://www.mvariety.com/news/local/star-marianas-air-rescinds-notice-to-discontinue-scheduled-service/article_8dc6d2f6-6437-11ef-8c50-c728879ee908.html>
+
+---
+
+## USPSA hosts Talanoa Session in Suva on Open Data Access
+
+date: 2024-08-27, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific Students Association (USPSA) hosted a Talanoa session on Understanding...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/uspsa-hosts-talanoa-session-in-suva-on-open-data-access/">USPSA hosts Talanoa Session in Suva on Open Data Access</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/uspsa-hosts-talanoa-session-in-suva-on-open-data-access/>
+
+---
+
+## New Micro-Qualifications in Pacific Fisheries and Agriculture Accredited
+
+date: 2024-08-27, from: University of the South Pacific (Fiji)
+
+<p>Micro-qualifications are key to bridging skills gap in the workforce. Following a rigorous development, vetting...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/new-micro-qualifications-in-pacific-fisheries-and-agriculture-accredited/">New Micro-Qualifications in Pacific Fisheries and Agriculture Accredited</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/new-micro-qualifications-in-pacific-fisheries-and-agriculture-accredited/>
+
+---
+
+## Column: A Path for those with a passion to teach
+
+date: 2024-08-27, from: University of Hawaiʻi News
+
+<p>This column by University of <span aria-label="Hawaii">Hawai&#699;i</span> Maui College Chancellor Lui Hokoana was published by The Maui News on August 22, 2024.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/26/path-for-those-with-a-passion-to-teach/">Column: A Path for those with a passion to teach</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/26/path-for-those-with-a-passion-to-teach/>
+
+---
+
+## Maunakea: Road closed after Hone causes erosion, landslides
+
+date: 2024-08-27, from: University of Hawaiʻi News
+
+<p>Winds reached nearly 100 mph on the summit and heavy rain opened up several large cracks on Maunakea Access Road.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/26/maunakea-road-closed-after-hone-causes-erosion-landslides/">Maunakea: Road closed after Hone causes erosion, landslides</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/26/maunakea-road-closed-after-hone-causes-erosion-landslides/>
+
+---
+
+## Over 70% of schools on Savai’i Island joined the USP Open Day
+
+date: 2024-08-26, from: University of the South Pacific (Fiji)
+
+<p>Hundreds of excited students visited The University of the South Pacific (USP) Savai’i Centre in...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/over-70-of-schools-on-savaii-island-joined-the-usp-open-day/">Over 70% of schools on Savai’i Island joined the USP Open Day</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/over-70-of-schools-on-savaii-island-joined-the-usp-open-day/>
+
+---
+
+## Why aren't business leaders promoting CNMI's visa-free access?
+
+date: 2024-08-26, from: Pacific Island Times
+
+In my previous opinion pieces, I have pointed out that the current CNMI administration hasn’t made any changes to prevent the legal entry... 
+
+<https://www.pacificislandtimes.com/post/why-aren-t-business-leaders-promoting-cnmi-s-visa-free-access>
+
+---
+
+## Legacy of capitulation
+
+date: 2024-08-26, from: Pacific Island Times
+
+In 1973, during the waning days of the Vietnam War, the archbishop of Guam stood nervously as an envoy of dark military vehicles... 
+
+<https://www.pacificislandtimes.com/post/legacy-of-capitulation>
+
+---
+
+## UH astronomers give high school teachers hands-on training
+
+date: 2024-08-26, from: University of Hawaiʻi News
+
+<p>Teachers dove into hands-on research projects, attended science talks and participated in curriculum development sessions.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/26/ifa-hs-teachers-hands-on-training/"><abbr>UH</abbr> astronomers give high school teachers hands-on training</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/26/ifa-hs-teachers-hands-on-training/>
+
+---
+
+## Ivy
+
+date: 2024-08-26, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+&#160; by Marcyn Campbell-Ogbunezu Growing over my dilapidated ruin, once there was only disrepair as far as the eye could see A lost cause, doors that wouldn’t open, windows that wouldn’t shut  I was a house that was a ghost &#8230; <a href="https://hawaiipacificreview.org/2024/08/26/ivy/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/08/26/ivy/>
 
 ---
 
@@ -31,13 +649,93 @@ The post <a href="https://www.hawaii.edu/news/2024/08/26/uh-president-welcome-to
 
 ---
 
+## Deleon Guerrero questions timing of tax hike proposals amid economic struggles
+
+date: 2024-08-26, updated: 2024-08-27, from: Marianas Variety
+
+SENATE President Edith Deleon Guerrero on Monday said the Senate leadership is carefully looking into tax hike proposals of the administration and the House of Representatives. 
+
+<https://www.mvariety.com/news/local/deleon-guerrero-questions-timing-of-tax-hike-proposals-amid-economic-struggles/article_5cff1a04-6390-11ef-837d-9bfd22e327e7.html>
+
+---
+
+## Two arrested, two injured in riot at Garapan bar
+
+date: 2024-08-26, updated: 2024-08-27, from: Marianas Variety
+
+THE Department of Public Safety on Sunday responded to a riot at Flamingo Tavern in Garapan, resulting in the arrest of two individuals. Two other individuals sustained injuries, DPS said. 
+
+<https://www.mvariety.com/news/local/two-arrested-two-injured-in-riot-at-garapan-bar/article_cdabb25e-636c-11ef-aa9f-27be3d8ba7fe.html>
+
+---
+
 ## The independent Republican: A stance on freedom, liberty, and party principles
 
-date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
+date: 2024-08-26, updated: 2024-08-27, from: Marianas Variety
 
 IN the complex landscape of American politics, the lines between political affiliations can often blur. One such nuanced position is that of the "independent Republican," a stance that merits closer examination. 
 
 <https://www.mvariety.com/views/letters_to_editor/the-independent-republican-a-stance-on-freedom-liberty-and-party-principles/article_a993a20c-6365-11ef-b94f-e754ae388ea8.html>
+
+---
+
+## Philippines says two new mpox cases are milder variant
+
+date: 2024-08-26, updated: 2024-08-27, from: Marianas Variety
+
+MANILA (Reuters) — The Philippines has confirmed two more mpox virus infections of the milder clade 2 variety, its health department said Monday, bringing the number of active cases to three. 
+
+<https://www.mvariety.com/news/regional_world/philippines-says-two-new-mpox-cases-are-milder-variant/article_24bc042a-63ab-11ef-b761-9b87743ffedb.html>
+
+---
+
+## Marianas Agupa and Rota Chamber of Commerce to host senatorial forum
+
+date: 2024-08-26, updated: 2024-08-27, from: Marianas Variety
+
+MARIANAS Agupa radio talk show is pleased to announce that there will be a forum between incumbent Rota Sen. Paul A. Manglona and challenger Ronnie M. Calvo on Saturday, Aug. 31, 2024 from 10 a.m. to 11a.m. 
+
+<https://www.mvariety.com/news/local/marianas-agupa-and-rota-chamber-of-commerce-to-host-senatorial-forum/article_80cc4aae-63ab-11ef-b271-a3b55ac5e471.html>
+
+---
+
+## Leon Guerrero doesn’t support presence of nuclear weapons in Guam or Pacific
+
+date: 2024-08-26, updated: 2024-08-27, from: Marianas Variety
+
+“CLARIFYING” her comments in a recent interview with Radio New Zealand, Guam Gov. Lou A. Leon Guerrero on Monday said she does not support the presence of nuclear weapons in Guam or the Pacific. 
+
+<https://www.mvariety.com/news/local/leon-guerrero-doesn-t-support-presence-of-nuclear-weapons-in-guam-or-pacific/article_e992d8d2-636f-11ef-8a2e-4720c7d5a322.html>
+
+---
+
+## Disciplinary hearing for suspended attorney set for Oct. 11
+
+date: 2024-08-26, updated: 2024-08-27, from: Marianas Variety
+
+SUPERIOR Court Associate Judge Joseph N. Camacho has scheduled a disciplinary hearing for suspended attorney Robert H. Myers Jr. for Oct. 11, 2024, at 10 a.m. 
+
+<https://www.mvariety.com/news/local/disciplinary-hearing-for-suspended-attorney-set-for-oct-11/article_a2c3d7e8-6361-11ef-a9a9-2ba7632636ae.html>
+
+---
+
+## 2 lawmakers raise concern about Hyatt lease
+
+date: 2024-08-26, updated: 2024-08-27, from: Marianas Variety
+
+REPRESENTATIVES Angelo A. Camacho and Julie Marie A. Ogo are seeking clarification from the Department of Public Lands regarding the status of the 40-year land lease contract that Hyatt Regency Saipan signed with the CNMI government nearly three years ago, before it shut down on June 30, 2024. 
+
+<https://www.mvariety.com/news/local/2-lawmakers-raise-concern-about-hyatt-lease/article_982df4d0-6384-11ef-9803-7be2c568b920.html>
+
+---
+
+## Public Defender’s Office seeks background information on witnesses in rape case
+
+date: 2024-08-26, updated: 2024-08-27, from: Marianas Variety
+
+THE Public Defender’s Office, which is representing William Abraczinskas, has requested the Office of the Attorney General to produce background information on witnesses that it intends to call at the defendant’s jury trial. 
+
+<https://www.mvariety.com/news/local/public-defender-s-office-seeks-background-information-on-witnesses-in-rape-case/article_1a3db562-635f-11ef-b5ca-8b7f75688643.html>
 
 ---
 
@@ -68,66 +766,6 @@ date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
 THE Department of Public Safety is warning individuals sheltering a minor in a truancy case that they may be charged with a criminal offense. 
 
 <https://www.mvariety.com/news/local/dps-don-t-shelter-truant-minor/article_b9cb5eae-6369-11ef-ac65-3347facc5d2b.html>
-
----
-
-## Philippines says two new mpox cases are milder variant
-
-date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
-
-MANILA (Reuters) — The Philippines has confirmed two more mpox virus infections of the milder clade 2 variety, its health department said Monday, bringing the number of active cases to three. 
-
-<https://www.mvariety.com/news/regional_world/philippines-says-two-new-mpox-cases-are-milder-variant/article_24bc042a-63ab-11ef-b761-9b87743ffedb.html>
-
----
-
-## Marianas Agupa and Rota Chamber of Commerce to host senatorial forum
-
-date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
-
-MARIANAS Agupa radio talk show is pleased to announce that there will be a forum between incumbent Rota Sen. Paul A. Manglona and challenger Ronnie M. Calvo on Saturday, Aug. 31, 2024 from 10 a.m. to 11a.m. 
-
-<https://www.mvariety.com/news/local/marianas-agupa-and-rota-chamber-of-commerce-to-host-senatorial-forum/article_80cc4aae-63ab-11ef-b271-a3b55ac5e471.html>
-
----
-
-## Leon Guerrero doesn’t support presence of nuclear weapons in Guam or Pacific
-
-date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
-
-“CLARIFYING” her comments in a recent interview with Radio New Zealand, Guam Gov. Lou A. Leon Guerrero on Monday said she does not support the presence of nuclear weapons in Guam or the Pacific. 
-
-<https://www.mvariety.com/news/local/leon-guerrero-doesn-t-support-presence-of-nuclear-weapons-in-guam-or-pacific/article_e992d8d2-636f-11ef-8a2e-4720c7d5a322.html>
-
----
-
-## Disciplinary hearing for suspended attorney set for Oct. 11
-
-date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
-
-SUPERIOR Court Associate Judge Joseph N. Camacho has scheduled a disciplinary hearing for suspended attorney Robert H. Myers Jr. for Oct. 11, 2024, at 10 a.m. 
-
-<https://www.mvariety.com/news/local/disciplinary-hearing-for-suspended-attorney-set-for-oct-11/article_a2c3d7e8-6361-11ef-a9a9-2ba7632636ae.html>
-
----
-
-## 2 lawmakers raise concern about Hyatt lease
-
-date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
-
-REPRESENTATIVES Angelo A. Camacho and Julie Marie A. Ogo are seeking clarification from the Department of Public Lands regarding the status of the 40-year land lease contract that Hyatt Regency Saipan signed with the CNMI government nearly three years ago, before it shut down on June 30, 2024. 
-
-<https://www.mvariety.com/news/local/2-lawmakers-raise-concern-about-hyatt-lease/article_982df4d0-6384-11ef-9803-7be2c568b920.html>
-
----
-
-## Public Defender’s Office seeks background information on witnesses in rape case
-
-date: 2024-08-26, updated: 2024-08-26, from: Marianas Variety
-
-THE Public Defender’s Office, which is representing William Abraczinskas, has requested the Office of the Attorney General to produce background information on witnesses that it intends to call at the defendant’s jury trial. 
-
-<https://www.mvariety.com/news/local/public-defender-s-office-seeks-background-information-on-witnesses-in-rape-case/article_1a3db562-635f-11ef-b5ca-8b7f75688643.html>
 
 ---
 
@@ -411,6 +1049,16 @@ A man was sentenced to 10 years for a brutal attack on his elderly father.
 
 ---
 
+## French Polynesia warns France to ‘change direction’ on Pacific decolonization
+
+date: 2024-08-26, from: Pacific Island Times
+
+Pacific leaders have expressed mounting frustration over how Paris has handled turmoil in New Caledonia By Harry Pearl and Stefan... 
+
+<https://www.pacificislandtimes.com/post/french-polynesia-warns-france-to-change-direction-on-pacific-decolonization>
+
+---
+
 ## Hone 1 p.m. update: Tropical storm warning remains in effect; 14,000 without power
 
 date: 2024-08-25, from: Hawaii Tribune Harold
@@ -584,6 +1232,16 @@ date: 2024-08-25, from: Guam Daily Post
 The Pacific Judicial Council will be hosting the 2024 Biennial Pacific Judicial Council Conference on Tuesday, focusing on “pivotal topics” at the forefront of legal technology and the legal system, the council announced in a press release. 
 
 <https://www.postguam.com/news/local/pacific-judicial-council-conference-set-for-tuesday/article_e5037b28-6289-11ef-8e97-4bcb5387e31a.html>
+
+---
+
+## Guam ‘cautiously optimistic’ about Forum’s approval of membership bid 
+
+date: 2024-08-25, from: Pacific Island Times
+
+CNMI's application still pending review    By Pacific Island Times News Staff Guam is seeking to strengthen its bond with neighboring... 
+
+<https://www.pacificislandtimes.com/post/guam-cautiously-optimistic-about-forum-s-approval-of-membership-bid>
 
 ---
 
@@ -880,4 +1538,34 @@ date: 2024-08-25, from: Guam Daily Post
 With nearly flawless pass protection, blocking that opened huge holes for running backs, and a top-notch passing game, the Fåha Outlaws defeated the Windward Memorial Hal’s Angels 22-6 in the Triple J Ford Guam National Youth Football Federation Matua Division… 
 
 <https://www.postguam.com/sports/local/southside-outlaws-hoist-the-hardware/article_092f1d12-6272-11ef-81bd-9fa4dd38352b.html>
+
+---
+
+## Some Guam schools likely to go online
+
+date: 2024-08-25, from: Pacific Island Times
+
+By Naina Rao As of last week, more than 25 of Guam’s 41 public schools have reopened after passing safety inspections or successfully... 
+
+<https://www.pacificislandtimes.com/post/some-guam-schools-likely-to-go-online>
+
+---
+
+## Pristine Seas’ mission to safeguard Papua New Guinea’s marine treasures
+
+date: 2024-08-25, from: Pacific Island Times
+
+By Ron Rocky Coloma At the core of the Coral Triangle, Papua New Guinea emerges as a stronghold of marine biodiversity. The country’s... 
+
+<https://www.pacificislandtimes.com/post/pristine-seas-mission-to-safeguard-papua-new-guinea-s-marine-treasures>
+
+---
+
+## Veterans Affairs asked to open a regional office on Guam to serve veterans in US territories and FAS
+
+date: 2024-08-25, from: Pacific Island Times
+
+By Pacific Island Times News Staff Guam senators led by Sen. Telo Taitague have introduced a resolution requesting the U.S. Department of... 
+
+<https://www.pacificislandtimes.com/post/veterans-affairs-asked-to-open-a-regional-office-on-guam-to-serve-veterans-in-us-territories-and-fas>
 

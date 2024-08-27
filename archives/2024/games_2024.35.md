@@ -1,11 +1,111 @@
 ---
 title: games 2024.35
-updated: 2024-08-26 11:47:00
+updated: 2024-08-27 07:48:53
 ---
 
 # games 2024.35
 
-(date: 2024-08-26 11:47:00)
+(date: 2024-08-27 07:48:53)
+
+---
+
+## The 25 best PlayStation 5 games
+
+date: 2024-08-27, updated: 2024-08-27, from: Polygon Website
+
+What are the best games on PlayStation 5? Now that supply issues are over, Sony’s latest console is flying off shelves, while its library of games rapidly fills up. New and old PS5 owners will be wondering what to play, so here’s our living list of the best video games available on the platform, to [&#8230;] 
+
+<https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5>
+
+---
+
+## The most anticipated TV shows of fall 2024
+
+date: 2024-08-27, updated: 2024-08-27, from: Polygon Website
+
+There was a time when TV was just as much a part of the autumn changeover as pumpkin spice, crunchy leaves, and back-to-school sales. Now, like seasonal weather, the TV schedule is a bit more amorphous and odd. The good news is, that means we’ve got new fall TV coming all season long —&#160;and it’s [&#8230;] 
+
+<https://www.polygon.com/tv/439924/best-new-tv-fall-2024-release-calendar-schedule-shows-series>
+
+---
+
+## Where to watch Tuesday’s D&#038;D Direct presentation
+
+date: 2024-08-27, updated: 2024-08-27, from: Polygon Website
+
+Hasbro’s Wizards of the Coast imprint is hosting an important livestream today for fans of Dungeons &#38; Dragons. Called D&#38;D Direct 2024, it kicks off at 9 a.m. PDT (noon EDT) on YouTube and is expected to promote the upcoming launch of the revised 5th edition ruleset. In a post on the D&#38;D Beyond website, [&#8230;] 
+
+<https://www.polygon.com/dnd-dungeons-dragons/444183/dnd-direct-livestream-where-to-watch>
+
+---
+
+## Go Battle League ‘Max Out’ rewards and schedule in Pokémon Go
+
+date: 2024-08-27, updated: 2024-08-27, from: Polygon Website
+
+Go Battle League has a packed schedule as part of the “Max Out” season (also known as Season 20) in Pokémon Go. Running Sept. 3 to Dec. 3, expect a variety of Galar-region cups to celebrate the arrival of a new generation of Pokémon, and the return of the Halloween and Retro Cups. Rewards, meanwhile, [&#8230;] 
+
+<https://www.polygon.com/pokemon-go-guide/444432/go-battle-league-max-out-season-20-rewards-schedule>
+
+---
+
+## The 7 best books to get during Barnes &#038; Noble’s massive 50% off sale
+
+date: 2024-08-27, updated: 2024-08-27, from: Polygon Website
+
+Barnes &#38; Noble’s Book Haul sale is back, bringing with it huge discounts on hundreds of books. Running through Sept. 2, the sale features 50% off tons of titles, including some of our favorite sci-fi and fantasy books of the past few years. So if your TBR list is already long, it’s about to become [&#8230;] 
+
+<https://www.polygon.com/sales-guide/444107/best-books-barnes-noble-book-haul-sale>
+
+---
+
+## Shadow enters the race in Sonic the Hedgehog 3 trailer
+
+date: 2024-08-27, updated: 2024-08-27, from: Polygon Website
+
+We finally get to see Shadow the Hedgehog, as voiced by Keanu Reeves, in all his theatrical glory. The new trailer for the upcoming Sonic the Hedgehog 3 brings the dark and edgy hedgehog to the movie franchise. Sonic, Tails, and Knuckles must face off against Shadow. And because he’s just so powerful and cool, [&#8230;] 
+
+<https://www.polygon.com/movies/444243/sonic-the-hedgehog-3-trailer>
+
+---
+
+## Fields of Mistria is pure magic
+
+date: 2024-08-27, updated: 2024-08-27, from: Polygon Website
+
+Bridges collapsed, buildings crumbled — the sleepy town of Mistria must rebuild. You can see the earthquake’s devastation in Mistria’s sidewalks and buildings too worn to enter. But you can also see its beauty — something that’s evident not only in its lush spring flowers and berry-laden bushes, but in its people, too. Around the [&#8230;] 
+
+<https://www.polygon.com/review/444036/fields-of-mistria-review-pc-early-access>
+
+---
+
+## 13 beginner’s tips before starting Star Wars Outlaws
+
+date: 2024-08-27, updated: 2024-08-27, from: Polygon Website
+
+A long time ago, gamers in a galaxy pretty nearby dreamed of an open-world Star Wars game. But Star Wars Outlaws isn’t just an open-world Star Wars game — it’s open-worlds. Yes, Star Wars Outlaws spans five whole planets. And since it’s a Ubisoft game — with all the icons on all the sprawling maps [&#8230;] 
+
+<https://www.polygon.com/star-wars-outlaws-guides/444006/beginners-tips-tricks>
+
+---
+
+## How to get into Gorak’s suite in Star Wars Outlaws
+
+date: 2024-08-27, updated: 2024-08-26, from: Polygon Website
+
+Gorak’s suite is an early location in Star Wars Outlaws. You’ll need to access it during the “Crashed” story mission in Mirogana on Toshara. Gorak is a key member of the Pyke Syndicate who you need to speak to for story reasons, but when you try to enter his personal room in Makal’s Gambling Den, [&#8230;] 
+
+<https://www.polygon.com/star-wars-outlaws-guides/442950/gorak-suite-how-to-enter>
+
+---
+
+## Can Magnemite be shiny in Pokémon Go?
+
+date: 2024-08-27, updated: 2024-08-26, from: Polygon Website
+
+Magnemite, the magnet Pokémon from Kanto, can be found in the wild in Pokémon Go. Yes, Magnemite can be shiny in Pokémon Go! Magnezone is a pretty decent electric-type attacker, if set up with Spark and Wild Charge. It does more damage as a Shadow Pokémon (which you can probably already expect). It still falls [&#8230;] 
+
+<https://www.polygon.com/pokemon-go-guide/444073/can-magnemite-be-shiny-magneton-magnezone>
 
 ---
 

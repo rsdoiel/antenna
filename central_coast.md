@@ -1,11 +1,135 @@
 ---
 title: central coast 2024.35
-updated: 2024-08-26 11:46:57
+updated: 2024-08-27 07:48:50
 ---
 
 # central coast 2024.35
 
-(date: 2024-08-26 11:46:57)
+(date: 2024-08-27 07:48:50)
+
+---
+
+## Surfers at Sunset
+
+date: 2024-08-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/102722-POD-Harfenist.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Surfers at sunset at Hammonds Beach in Montecito" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/102722-POD-Harfenist.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/102722-POD-Harfenist.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/102722-POD-Harfenist.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/102722-POD-Harfenist.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/102722-POD-Harfenist.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/102722-POD-Harfenist.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/102722-POD-Harfenist.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/102722-POD-Harfenist.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/102722-POD-Harfenist.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/102722-POD-Harfenist.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/102722-POD-Harfenist.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/102722-POD-Harfenist.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/102722-POD-Harfenist.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/surfers-at-sunset/">Surfers at Sunset</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/surfers-at-sunset/>
+
+---
+
+## Local Prep Girls Golfers Compete in 25th Annual Pirate Invitational
+
+date: 2024-08-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Several local girls golfers competed in the 25th Annual Pirate Invitational hosted by Santa Ynez High at the Alisal River Course on Monday. There were 68 total participants representing 17 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/local-prep-girls-golfers-compete-in-25th-annual-pirate-invitational/">Local Prep Girls Golfers Compete in 25th Annual Pirate Invitational</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/local-prep-girls-golfers-compete-in-25th-annual-pirate-invitational/>
+
+---
+
+## Goleta Library Receives $4.2 Million Grant for Building Upgrades
+
+date: 2024-08-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-Goleta-Library-DG-01.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Elizabeth Saucedo, left, serves as the city librarian and Kaeley Christensen as the children’s librarian for the Goleta Valley Library." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-Goleta-Library-DG-01.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-Goleta-Library-DG-01.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-Goleta-Library-DG-01.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-Goleta-Library-DG-01.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-Goleta-Library-DG-01.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-Goleta-Library-DG-01.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-Goleta-Library-DG-01.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-Goleta-Library-DG-01.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-Goleta-Library-DG-01.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-Goleta-Library-DG-01.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Changes are coming to the Goleta Valley Library as it looks to renovate its building and update the services it provides. The City of Goleta was awarded $4.2 million by [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-library-receives-4-2-million-grant-for-building-upgrades/">Goleta Library Receives $4.2 Million Grant for Building Upgrades</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-library-receives-4-2-million-grant-for-building-upgrades/>
+
+---
+
+## SBART Luncheon: Local Fall Prep Sports Are Back in Action
+
+date: 2024-08-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sbart-luncheon-826.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sbart-luncheon-826.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sbart-luncheon-826.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sbart-luncheon-826.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sbart-luncheon-826.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sbart-luncheon-826.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sbart-luncheon-826.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sbart-luncheon-826.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sbart-luncheon-826.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sbart-luncheon-826.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sbart-luncheon-826.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Local fall coaches and players made their return to Harry’s Plaza Cafe for the first Santa Barbara Athletic Round Table Press Luncheon of the school year on Monday. With at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/sbart-luncheon-local-fall-prep-sports-are-back-in-action/">SBART Luncheon: Local Fall Prep Sports Are Back in Action</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sbart-luncheon-local-fall-prep-sports-are-back-in-action/>
+
+---
+
+## Santa Barbara Talks Podcast: Goleta Council Candidate Woodill Wants to Upset the Establishment
+
+date: 2024-08-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Goleta-born Ethan Woodill has a dream. Can a local kid from the Goodland win a seat on the Goleta City Council? He believes it can happen. Woodill, a Dos Pueblos [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-talks-podcast-goleta-city-council-candidate-ethan-woodill-wants-to-upset-the-establishment-in-district-3/">Santa Barbara Talks Podcast: Goleta Council Candidate Woodill Wants to Upset the Establishment</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-talks-podcast-goleta-city-council-candidate-ethan-woodill-wants-to-upset-the-establishment-in-district-3/>
+
+---
+
+## Dan McCaslin: An Ode to the Loathsome Turkey Vulture
+
+date: 2024-08-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Vulture-flying-and-three-on-the-hillside-dm-.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A vulture soars overhead as three others are perched on the hillside at Cambria&#039;s Fiscalini Ranch Preserve." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Vulture-flying-and-three-on-the-hillside-dm-.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Vulture-flying-and-three-on-the-hillside-dm-.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Vulture-flying-and-three-on-the-hillside-dm-.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Vulture-flying-and-three-on-the-hillside-dm-.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Vulture-flying-and-three-on-the-hillside-dm-.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Vulture-flying-and-three-on-the-hillside-dm-.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Vulture-flying-and-three-on-the-hillside-dm-.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Vulture-flying-and-three-on-the-hillside-dm-.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Vulture-flying-and-three-on-the-hillside-dm-.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081424-Vulture-flying-and-three-on-the-hillside-dm-.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>While backpacking decades ago in our Santa Barbara backcountry, I suddenly beheld four of the then-nearly-extinct California condors soaring right above — the silvery undersides of their enormous wings quite [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dan-mccaslin-an-ode-to-the-loathsome-turkey-vulture/">Dan McCaslin: An Ode to the Loathsome Turkey Vulture</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dan-mccaslin-an-ode-to-the-loathsome-turkey-vulture/>
+
+---
+
+## New Website to Shake Out News on Centennial of 1925 Earthquake
+
+date: 2024-08-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The EQ25 Alliance, a volunteer organization created to commemorate events and activities of the 100th anniversary of the Santa Barbara earthquake, has launched a website EQ25.org. EQ25.org will offer resources, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/eq25-website-helps-mark-santa-barbara-earthquake-centennial/">New Website to Shake Out News on Centennial of 1925 Earthquake</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/eq25-website-helps-mark-santa-barbara-earthquake-centennial/>
+
+---
+
+## Athletes of the Week 8/26/24
+
+date: 2024-08-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="640" height="636" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Screenshot-2024-08-26-at-2.10.10-PM.png?fit=640%2C636&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Screenshot-2024-08-26-at-2.10.10-PM.png?w=640&amp;ssl=1 640w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Screenshot-2024-08-26-at-2.10.10-PM.png?resize=300%2C298&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Screenshot-2024-08-26-at-2.10.10-PM.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Screenshot-2024-08-26-at-2.10.10-PM.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Screenshot-2024-08-26-at-2.10.10-PM.png?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Screenshot-2024-08-26-at-2.10.10-PM.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/Screenshot-2024-08-26-at-2.10.10-PM.png?fit=640%2C636&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Click here for the full story on this week&#8217;s Athletes of the Week.</p>
+<p>The post <a href="https://www.noozhawk.com/athletes-of-the-week-8-26-24/">Athletes of the Week 8/26/24</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/athletes-of-the-week-8-26-24/>
+
+---
+
+## Bishop Diego’s Eliana Urzua, Tua Rojas Named Athletes of the Week
+
+date: 2024-08-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A pair of Bishop Diego Cardinals earned the first round of Athlete of the Week honors for the 2024-25 school year last week. Eliana Urzua of Bishop girls volleyball and [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bishop-diegos-eliana-urzua-tua-rojas-named-athletes-of-the-week/">Bishop Diego&#8217;s Eliana Urzua, Tua Rojas Named Athletes of the Week</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bishop-diegos-eliana-urzua-tua-rojas-named-athletes-of-the-week/>
+
+---
+
+## Santa Barbara Issues Sales Tax Reports for Fiscal Fourth Quarter
+
+date: 2024-08-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The city of Santa Barbara received $7.8 million in sales tax revenue during the quarter ended June 30, 2024, the final quarter of the city’s fiscal year, resulting in total [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-issues-sales-tax-reports-for-fiscal-fourth-quarter/">Santa Barbara Issues Sales Tax Reports for Fiscal Fourth Quarter</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-issues-sales-tax-reports-for-fiscal-fourth-quarter/>
 
 ---
 

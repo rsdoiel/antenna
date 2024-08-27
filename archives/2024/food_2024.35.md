@@ -1,11 +1,61 @@
 ---
 title: food 2024.35
-updated: 2024-08-26 11:47:05
+updated: 2024-08-27 07:48:58
 ---
 
 # food 2024.35
 
-(date: 2024-08-26 11:47:05)
+(date: 2024-08-27 07:48:58)
+
+---
+
+## Cometeer Is the Secret to the Easiest Frozen Espresso Martinis
+
+date: 2024-08-27, from: Bon Appetet
+
+Cometeer's frozen coffee is the perfect shortcut to this of-the-moment drink. 
+
+<https://www.bonappetit.com/story/cometeer-frozen-espresso-martini>
+
+---
+
+## 5 Best Plant-of-the-Month Clubs for Budding Plant Parents (And Pros)
+
+date: 2024-08-27, from: Taste of Home
+
+Whether you're a budding plant parent or a pro gardener, these plant-of-the-month club picks make for a fun monthly surprise 
+
+<https://www.tasteofhome.com/collection/best-plant-of-the-month-clubs/>
+
+---
+
+## We Tested More Than 20 Coffee Tumblers—These Are the 8 Best Options for Hot and Iced Drinks
+
+date: 2024-08-27, from: Taste of Home
+
+The best coffee tumbler retains heat for hours and sits comfortably in hand. We tested 21 travel tumblers to find the best for every use.  
+
+<https://www.tasteofhome.com/collection/best-coffee-tumblers/>
+
+---
+
+## Satan’s Blood Hot Sauce Review
+
+date: 2024-08-26, from: Pepper Scale
+
+Satan’s Blood Hot Sauce is the most dangerously hot hot sauce I have ever had! HOLY H. E. DOUBLE HOCKEY STICKS! You better keep 911 on speed dial in case you forget to wash your hands after eating this because once it makes contact with ... <p class="read-more-container"><a title="Satan’s Blood Hot Sauce Review" class="read-more button" href="https://pepperscale.com/satans-blood-hot-sauce/#more-76551" aria-label="Read more about Satan’s Blood Hot Sauce Review">Read more</a></p> 
+
+<https://pepperscale.com/satans-blood-hot-sauce/>
+
+---
+
+## How A Fish-Sauce Spiked Cocktail Conveys Cambodian Spirit
+
+date: 2024-08-26, from: Bon Appetet
+
+At Sophon in Seattle, cocktails pull inspiration from Khmer identity and the Pacific Northwest. Here's what goes into one savory, tropical drink. 
+
+<https://www.bonappetit.com/story/sophon-restaurant-seattle-cocktails>
 
 ---
 
@@ -19,6 +69,28 @@ Pundits are tracking the latest polls for the presidential election, but there�
 
 ---
 
+## Here’s Why You’ll Never See Gum at Disney Parks
+
+date: 2024-08-26, from: Taste of Home
+
+It's true—there's no gum at The House of Mouse. Here's the explanation our research uncovered. 
+
+<https://www.tasteofhome.com/article/no-gum-at-disney-parks/>
+
+---
+
+## Chili Mac Recipe
+
+date: 2024-08-26, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/chili-mac/" title="Chili Mac Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="One pot Chili Mac and cheese, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Chili mac is hearty and delicious, a comforting mix of meaty homemade chili and cheesy macaroni for a perfect weeknight dinner that's easy to make.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/chili-mac/">Chili Mac Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<https://www.chilipeppermadness.com/recipes/chili-mac/>
+
+---
+
 ## Jimmy Nardello Pepper Guide: Heat, Flavor, and Pairings
 
 date: 2024-08-26, from: Pepper Scale
@@ -29,11 +101,21 @@ The Jimmy Nardello pepper is a sweet, fruity, thin-skinned, horn-shaped pepper t
 
 ---
 
+## Potato Soup
+
+date: 2024-08-26, from: Taste of Home
+
+This easy homemade potato soup recipe is a staple side for steak dinners at home or an amazing comfort meal on a chilly day. 
+
+<https://www.tasteofhome.com/recipes/best-ever-potato-soup/>
+
+---
+
 ## Gochujang Pasta Recipe
 
 date: 2024-08-26, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/gochujang-pasta/" title="Gochujang Pasta Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Creamy Gochujang Pasta ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Spicy, creamy gochujang pasta blends Korean chili paste with parmesan cheese and more for pasta with a Korean twist, easy to make and ready in minutes!</p>
+<a href="https://www.chilipeppermadness.com/recipes/gochujang-pasta/" title="Gochujang Pasta Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Creamy Gochujang Pasta ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Spicy, creamy gochujang pasta blends Korean chili paste with parmesan cheese and more for pasta with a Korean twist, easy to make and ready in minutes!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/gochujang-pasta/">Gochujang Pasta Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
@@ -52,6 +134,16 @@ date: 2024-08-26, from: Isebel Eats
 	Tacos Gobernador, or Governor’s tacos, are a unique and delicious Mexican dish featuring succulent shrimp sauteed in poblanos, onion, and adobo sauce and folded between a crisp corn tortilla and gooey melted Mexican cheese. It’s a cross between a taco and a quesadilla that you’ll definitely want to try!&#160; My husband has tasted almost every [&#8230;] 
 
 <https://www.isabeleats.com/tacos-gobernador/>
+
+---
+
+## Braised Pork Loin Chops
+
+date: 2024-08-26, from: Taste of Home
+
+Chop, chop, chop! This braised pork loin chops recipe is a breeze to make and everyone loves them. 
+
+<https://www.tasteofhome.com/recipes/braised-pork-loin-chops/>
 
 ---
 
@@ -95,6 +187,26 @@ Huichol Hot Sauce is a classic red hot sauce, similar to Cholula. This is a well
 
 ---
 
+## Banana Pudding Cookies
+
+date: 2024-08-25, from: Taste of Home
+
+These banana pudding cookies capture the rich flavor of bananas, whipped topping and Nilla Wafers in a soft, chewy cookie. If you love a spoonful of the timeless banana pudding dessert, you'll go bananas for these cookies. 
+
+<https://www.tasteofhome.com/recipes/banana-pudding-cookies/>
+
+---
+
+## Boeuf Bourguignon
+
+date: 2024-08-25, from: Taste of Home
+
+Don't be intimidated by beef bourguignon—it's just a farmhouse stew with an accent. This recipe simplifies the process by streamlining a few steps, making it an elevated option for those comfort-food days. 
+
+<https://www.tasteofhome.com/recipes/slow-simmered-burgundy-beef-stew/>
+
+---
+
 ## What’s A Good Cayenne Pepper Substitute?
 
 date: 2024-08-25, from: Pepper Scale
@@ -109,9 +221,7 @@ Cayenne pepper is one of the most popular chili peppers in the world. In dried f
 
 date: 2024-08-25, from: Taste of Home
 
-<p>Looking for a cooler or coffee tumbler that gets the job done? We compared two of the most popular outdoor brands in our RTIC vs. YETI review.</p>
-<p>The post <a href="https://www.tasteofhome.com/article/rtic-vs-yeti/">RTIC vs. YETI: Which Outdoor Goods Brand Is Better?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
- 
+Looking for a cooler or coffee tumbler that gets the job done? We compared two of the most popular outdoor brands in our RTIC vs. YETI review. 
 
 <https://www.tasteofhome.com/article/rtic-vs-yeti/>
 
@@ -175,9 +285,7 @@ Chili peppers are known for their bright and bold colors — from shades of gree
 
 date: 2024-08-25, from: Taste of Home
 
-<p>There are many factors worth considering in the Hydro Flask vs. Stanley debate. Our Testing Team tried both brands, and one came out on top. </p>
-<p>The post <a href="https://www.tasteofhome.com/article/hydro-flask-vs-stanley/">Hydro Flask vs. Stanley: Which Coffee Tumbler Brand Is Better?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
- 
+There are many factors worth considering in the Hydro Flask vs. Stanley debate. Our Testing Team tried both brands, and one came out on top.  
 
 <https://www.tasteofhome.com/article/hydro-flask-vs-stanley/>
 

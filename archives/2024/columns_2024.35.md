@@ -1,11 +1,116 @@
 ---
 title: columns 2024.35
-updated: 2024-08-26 11:46:58
+updated: 2024-08-27 07:48:51
 ---
 
 # columns 2024.35
 
-(date: 2024-08-26 11:46:58)
+(date: 2024-08-27 07:48:51)
+
+---
+
+## Now for Something Different: Promising Developments from Across the Country.
+
+date: 2024-08-27, from: James Fallows, Substack
+
+From libraries to factories to college rankings, some things are moving in the right direction. Let's pause to notice a few of them. 
+
+<https://fallows.substack.com/p/now-for-something-different-promising>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-27, from: Dave Winer's Scripting News)
+
+The reason I <a href="https://www.threads.net/@davew/post/C_JDUmLpQ06">asked</a> <a href="http://scripting.com/2024/08/26.html#a012926">yesterday</a> if NYT reporters sign NDAs (with the NYT, not sources), then when a reporter leaves the NYT they can write a book about WTF happened at the NYT, and it would be an instant best seller imho. 
+
+<http://scripting.com/2024/08/27.html#a123005>
+
+---
+
+## The Present and Future of TV Surveillance
+
+date: 2024-08-27, updated: 2024-08-26, from: Bruce Schneier blog
+
+<p>Ars Technica has a <a href="https://arstechnica.com/gadgets/2024/08/tv-industrys-ads-tracking-obsession-is-turning-your-living-room-into-a-store/">good article</a> on what&#8217;s happening in the world of television surveillance. More than even I realized.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/08/the-present-and-future-of-tv-surveillance.html>
+
+---
+
+## Why is Trump claiming a coup?
+
+date: 2024-08-27, from: Robert Reich's blog
+
+His mind cannot conceive of anything else 
+
+<https://robertreich.substack.com/p/trumps-claim-of-a-coup>
+
+---
+
+## August 26, 2024 
+
+date: 2024-08-27, from: Heather Cox Richardson blog
+
+The point that is currently holding up plans for ABC&#8217;s September 10 presidential debate is whether the candidates&#8217; microphones will be muted when it is the other&#8217;s turn to speak. 
+
+<https://heathercoxrichardson.substack.com/p/august-26-2024>
+
+---
+
+## Can Crypto, China cause Dollardrums?
+
+date: 2024-08-27, from: Om Malik blog
+
+Link:&#160;The Changing Role of the&#160;U.S.&#160;Dollar / Brookings&#160; TLDR: Whether&#160;it’s&#160;sanctions overuse,&#160;U.S.&#160;political&#160;dysfunction or&#160;crypto-led fintech innovations,&#160;the&#160;dollar can’t take its preeminence for granted anymore. Key Points: My Thoughts: More than military dominance, the&#160;U.S.&#160;dollar&#160;has been&#160;the key instrument for America’s global dominance.&#160;It remains so,&#160;but it&#160;will&#160;increasingly come under pressure due to digitization and disaggregation of money.&#160;This&#160;is very much&#160;a&#160;continuation of the “routing around &#8230; 
+
+<https://om.co/2024/08/26/dollardrums/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-27, from: Dave Winer's Scripting News)
+
+I know a <a href="http://scripting.com/2024/07/08/231350.html">kitten</a> who'd like to be <a href="https://en.wikipedia.org/wiki/Editor-in-chief">EIC</a> of the NYT. 
+
+<http://scripting.com/2024/08/26.html#a013046>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-27, from: Dave Winer's Scripting News)
+
+Do NYT reporters <a href="https://www.threads.net/@davew/post/C_JDUmLpQ06">sign NDAs</a> with their employer, the NYT? 
+
+<http://scripting.com/2024/08/26.html#a012926>
+
+---
+
+## MAGA’s Plan to Suppress the Vote
+
+date: 2024-08-26, from: Dan Rather's Steady
+
+Dems amass team of legal eagles to fight 
+
+<https://steady.substack.com/p/magas-plan-to-suppress-the-vote>
+
+---
+
+## History Extra for August 25, 2024
+
+date: 2024-08-26, from: Heather Cox Richardson blog
+
+I miss writing history, and have started to play with fun little historical reflections that jump off from the regular letters, usually with an on-this-day-in-the-past orientation. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-august-25-2024>
+
+---
+
+##  Thanks, XOXO 
+
+date: 2024-08-26, updated: 2024-08-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/thanks-xoxo>
 
 ---
 
@@ -53,7 +158,7 @@ date: 2024-08-26, updated: 2024-08-26, from: Daring Fireball
 
 date: 2024-08-26, from: Robert Reich's blog
 
-It will be awkward. Here's an example. 
+It will be awkward. Here&#8217;s an example. 
 
 <https://robertreich.substack.com/p/how-will-team-trump-tell-him-he-should>
 
@@ -319,7 +424,7 @@ If you're interested in languages and compiler compilers and how to bootstrap a 
 
 ---
 
-## Vance's Trumped-Up Economics
+## Vance’s Trumped-Up Economics
 
 date: 2024-08-25, from: Robert Reich's blog
 

@@ -1,11 +1,74 @@
 ---
 title: home 2024.35
-updated: 2024-08-26 11:47:01
+updated: 2024-08-27 07:48:54
 ---
 
 # home 2024.35
 
-(date: 2024-08-26 11:47:01)
+(date: 2024-08-27 07:48:54)
+
+---
+
+## How They Pulled It Off: Floor-to-Ceiling Modular Shelving in a New Studio Extension
+
+date: 2024-08-27, from: Dwell
+
+An architect makes her workspace "an extended outdoor room," complete with a wall of customizable plywood shelves that integrate a desk 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-floor-to-ceiling-modular-shelving-in-a-new-studio-extension-f3ed4ee2>
+
+---
+
+## Mandy Moore Is Selling Her Revamped Pasadena Midcentury for $6M
+
+date: 2024-08-27, from: Dwell
+
+The 3,551-square-foot hilltop home is wrapped with floor-to-ceiling glass, and features a statement copper fireplace and lush landscaping by Terremoto. 
+
+<https://www.dwell.com/article/mandy-moore-midcentury-home-renovation-pasadena-los-angeles-real-estate-b7869847>
+
+---
+
+## This Design Trend Is Replacing the Bar Cart
+
+date: 2024-08-27, from: Sunset Magazine - Living in the West
+
+Say goodbye to bar carts. Beverage centers are in and replacing them as home bars, whether as nooks or built-ins. 
+
+<https://www.sunset.com/home-garden/design/beverage-centers-design-trend>
+
+---
+
+## 53 California Snakes (Snakes in California with Pictures)
+
+date: 2024-08-27, from: Yard Life blog
+
+<p>California Snakes are diverse and unique, with many species found across various habitats in the state. Snakes in California range ... </p>
+<p class="read-more-container"><a title="53 California Snakes (Snakes in California with Pictures)" class="read-more button" href="https://ownyardlife.com/53-california-snakes-snakes-in-california-with-pictures/#more-18750" aria-label="Read more about 53 California Snakes (Snakes in California with Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/53-california-snakes-snakes-in-california-with-pictures/">53 California Snakes (Snakes in California with Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/53-california-snakes-snakes-in-california-with-pictures/>
+
+---
+
+## This Michelin-Star Chef Is Bringing Fine Dining to Your Next In-Flight Experience
+
+date: 2024-08-26, from: Sunset Magazine - Living in the West
+
+Brandon Jew of Mister Jiu's has partnered with Alaska Airlines to create a new in-flight menu for first-class passengers. 
+
+<https://www.sunset.com/travel/alaska-airlines-brandon-jew-first-class-menu>
+
+---
+
+## Iconic Havasupai Falls Have Been Closed Indefinitely Due to Flooding
+
+date: 2024-08-26, from: Sunset Magazine - Living in the West
+
+The highly coveted, reservations-only site at Havasupai Falls in Arizona has been shuttered indefinitely by the local tribe who operates it. 
+
+<https://www.sunset.com/travel/outdoor-adventure/havasupai-falls-closed-flooding>
 
 ---
 

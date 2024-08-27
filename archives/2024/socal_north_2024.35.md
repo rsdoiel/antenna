@@ -1,11 +1,382 @@
 ---
 title: socal north 2024.35
-updated: 2024-08-26 11:46:55
+updated: 2024-08-27 07:48:47
 ---
 
 # socal north 2024.35
 
-(date: 2024-08-26 11:46:55)
+(date: 2024-08-27 07:48:47)
+
+---
+
+## Lawmakers say Newsom staff ‘inflated’ cost of failed health care bills
+
+date: 2024-08-27, updated: 2024-08-27, from: The LAist
+
+A trio of California Democratic lawmakers say they’re frustrated by high cost estimates that helped kill their health care legislation. 
+
+<https://laist.com/news/politics/lawmakers-say-newsom-staff-inflated-cost-of-failed-health-care-bills>
+
+---
+
+## Your SoCal weather report for Tuesday, Aug. 27: Slightly cooler on the coasts, warmer for deserts
+
+date: 2024-08-27, updated: 2024-08-27, from: The LAist
+
+Forecasters say the weekend warming trend will continue through Tuesday, followed by a normal weather pattern. 
+
+<https://laist.com/news/climate-environment/la-weather-report-august-27-am-slightly-cooler-warm-deserts>
+
+---
+
+## California Proposition 33: Letting California cities pass stronger rent controls
+
+date: 2024-08-27, updated: 2024-08-27, from: The LAist
+
+Will the third time be the charm for efforts to repeal a state law restricting local forms of rent control? 
+
+<https://laist.com/news/politics/2024-election-california-general-proposition-33-rent-control>
+
+---
+
+## From wearing your PJs to hiding friends in the trunk, we remember the magic of SoCal drive-in theaters
+
+date: 2024-08-27, updated: 2024-08-27, from: The LAist
+
+There are only a few traditional drive-ins left in the region. At one point, there were around 70 between L.A. and Orange Counties alone. What happened? And why is the drive-in movie experience so vividly memorable for people in SoCal? 
+
+<https://laist.com/news/la-history/drive-in-movie-theaters-los-angeles-southern-california-history>
+
+---
+
+## California Proposition 5: Making it easier to pass housing, infrastructure bonds
+
+date: 2024-08-27, updated: 2024-08-27, from: The LAist
+
+Should California let new housing and road bonds pass with 55% voter support, rather than today’s threshold of two-thirds? 
+
+<https://laist.com/news/politics/2024-election-california-general-proposition-5-affordable-housing-construction>
+
+---
+
+## Classifieds – August 27, 2024
+
+date: 2024-08-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/27/classifieds-august-27-2024/">Classifieds &#8211; August 27, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/27/classifieds-august-27-2024/>
+
+---
+
+## Freshman Phenoms: Football’s promising add-ons
+
+date: 2024-08-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The No. 18 recruiting class in the country is poised to make an immediate impact.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/27/freshman-phenoms-footballs-promising-add-ons/">Freshman Phenoms: Football’s promising add-ons</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/27/freshman-phenoms-footballs-promising-add-ons/>
+
+---
+
+## Welcome Back makes students ‘Feel the Feels’
+
+date: 2024-08-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>This year’s Welcome Back Concert was headlined by L.A. artist Duckwrth.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/27/welcome-back-makes-students-feel-the-feels/">Welcome Back makes students ‘Feel the Feels’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/27/welcome-back-makes-students-feel-the-feels/>
+
+---
+
+## We should stay away from politician stan culture
+
+date: 2024-08-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Harris-Walz campaign memes are meaningless without policy changes.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/27/lets-stay-away-from-politician-stan-culture/">We should stay away from politician stan culture</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/27/lets-stay-away-from-politician-stan-culture/>
+
+---
+
+## Six Trojans receive Fulbright awards
+
+date: 2024-08-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Awardees will teach and conduct research in topics from biology to literature.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/27/six-trojans-receive-fulbright-awards/">Six Trojans receive Fulbright awards</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/27/six-trojans-receive-fulbright-awards/>
+
+---
+
+## USC’s slow negotiations may impact your education
+
+date: 2024-08-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>SCA adjunct faculty wages are the lowest among the country’s top 10 film schools.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/27/uscs-slow-negotiations-may-impact-your-education/">USC’s slow negotiations may impact your education</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/27/uscs-slow-negotiations-may-impact-your-education/>
+
+---
+
+## Soccer remains undefeated in unabated comeback over the Waves
+
+date: 2024-08-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>At Pepperdine, the Trojans acquired three second half scores for their second win.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/27/soccer-remains-undefeated-in-unabated-comeback-over-the-waves/">Soccer remains undefeated in unabated comeback over the Waves</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/27/soccer-remains-undefeated-in-unabated-comeback-over-the-waves/>
+
+---
+
+## University revises, reassigns safety module
+
+date: 2024-08-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The updated training includes sections on civil discourse and online safety.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/27/university-revises-reassigns-safety-module/">University revises, reassigns safety module</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/27/university-revises-reassigns-safety-module/>
+
+---
+
+## The comedy world is (Matt) Rife with problems
+
+date: 2024-08-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Women comedy fans are often treated as less important — that needs to change. </p>
+<p>The post <a href="https://dailytrojan.com/2024/08/27/the-comedy-world-is-matt-rife-with-problems/">The comedy world is (Matt) Rife with problems</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/27/the-comedy-world-is-matt-rife-with-problems/>
+
+---
+
+## UCLA California admission statistics
+
+date: 2024-08-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+Key Takeaways
+
+Los Angeles County contributes about 25% of all first-year enrollees and 46% of all transfer enrollees.
+Applicants from private high schools had a slightly higher admission rate of 11.58% compared to 9.50% for public high school students. 
+
+<https://dailybruin.com/2024/08/26/ucla-california-admission-statistics/>
+
+---
+
+## LMU says it will continue not practicing legacy admission as California proposes bill banning it
+
+date: 2024-08-27, from: Laloyolan (LMU Student Newspaper)
+
+With five days left for Gov. Gavin Newsom to sign a bill that would ban legacy admissions across all colleges and universities in California, dozens of universities wait in anticipation as the application process for public and private universities in… 
+
+<https://www.laloyolan.com/news/lmu-says-it-will-continue-not-practicing-legacy-admission-as-california-proposes-bill-banning-it/article_8c944313-6c30-55c8-a2a1-c126858dd7a5.html>
+
+---
+
+## LMU marketing professor awarded 2025 US Fulbright Scholar Award
+
+date: 2024-08-27, from: Laloyolan (LMU Student Newspaper)
+
+\Aidin Namin, Ph.D, associate professor of marketing analytics, will travel to Brazil over summer 2025 to further his research on health care disparities throughout the country. 
+
+<https://www.laloyolan.com/news/lmu-marketing-professor-awarded-2025-us-fulbright-scholar-award/article_5f0260df-f997-5aad-8eec-4dff3ec0e83a.html>
+
+---
+
+## Westchester faces potential loss of ‘beloved little Vons’
+
+date: 2024-08-27, from: Laloyolan (LMU Student Newspaper)
+
+A beloved neighborhood staple in Westchester — "little Vons" — will face closure if a merger between Albertsons and Kroger is successful. 
+
+<https://www.laloyolan.com/news/westchester-faces-potential-loss-of-beloved-little-vons/article_0b949efd-2f5c-5d1e-889f-106079e8cf76.html>
+
+---
+
+## The "All-American" Guy: Remembering Billy Bean ('86)
+
+date: 2024-08-27, from: Laloyolan (LMU Student Newspaper)
+
+William "Billy" Bean ('86) passed away on Aug. 6 following his battle with acute myeloid leukemia, an aggressive blood cancer. Bean was a standout on the field as the "driving force" behind LMU baseball's 1986 College World Series team and… 
+
+<https://www.laloyolan.com/news/the-all-american-guy-remembering-billy-bean-86/article_454886c4-6c7e-533e-a8d0-129696416853.html>
+
+---
+
+## Westchester residents remain wary of safety in neighborhoods after arrests in Loyola Boulevard car vandalisms
+
+date: 2024-08-27, from: Laloyolan (LMU Student Newspaper)
+
+After a series of car vandalisms earlier this year left residents in Westchester neighborhoods vulnerable, the Los Angeles Police Department (LAPD) put out a press release stating that two juveniles were arrested in connection to the break-ins this April. While… 
+
+<https://www.laloyolan.com/news/westchester-residents-remain-wary-of-safety-in-neighborhoods-after-arrests-in-loyola-boulevard-car-vandalisms/article_ab6453fe-e788-5cdd-901d-e1a1a61e5d97.html>
+
+---
+
+## Opinion: In a nuclear world, we must criticize the present, recognize the past
+
+date: 2024-08-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the early morning of Saturday, Jan. 13, 2018, an emergency alert was sent to phones across the Hawaiian Islands.
+The message read: “BALLISTIC MISSILE THREAT INBOUND TO HAWAII. 
+
+<https://dailybruin.com/2024/08/26/opinion-in-a-nuclear-world-we-must-criticize-the-present-recognize-the-past/>
+
+---
+
+## Mirrorball Productions provides creative, inclusive space for UCLA creators
+
+date: 2024-08-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+Reflecting a kaleidoscope of identities, Mirrorball Productions is shining its light on campus&#8217; underrepresented artists.
+Stepping into its first full year as a campus organization, the film production company is embracing inclusivity and exploration, president of Mirrorball Productions Javeon Shannon  said, honoring its founding mission to nurture a space for artists of all backgrounds to share their stories. 
+
+<https://dailybruin.com/2024/08/26/mirrorball-productions-provides-creative-inclusive-space-for-ucla-creators/>
+
+---
+
+## Dear UCLA | Orientation Issue 2024
+
+date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dear incoming Bruins, welcome to the Daily Bruin’s 2024 Orientation Issue. As the student newspaper on the UCLA campus, The Bruin is thrilled to give new students a look into the vibrant UCLA community. 
+
+<https://dailybruin.com/tag/orientation-issue-2024>
+
+---
+
+## Two fellow OC supervisors call for Andrew Do to be forced out of power and resign immediately
+
+date: 2024-08-26, updated: 2024-08-27, from: The LAist
+
+Also on Monday, Don Wagner, who chairs the board, said he was scheduling a vote to remove Do from his committee assignments. 
+
+<https://laist.com/news/politics/two-fellow-oc-supervisors-call-for-andrew-dos-removal-from-power>
+
+---
+
+## Student Stroke Team offers assistance in early stroke detection, patient care
+
+date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the relentless rhythm of the Ronald Reagan Medical Center, Fiona Harley found herself paged four times in a single day to serve as the &#8220;eyes and ears&#8221; on a stroke case. 
+
+<https://dailybruin.com/2024/08/26/student-stroke-team-offers-assistance-in-early-stroke-detection-patient-care/>
+
+---
+
+## Life science winners of Dean’s Prize discuss their research work, journeys
+
+date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+At the 2024 UCLA Undergraduate Research Week, life science students were given the Dean’s Prize for Excellence in Research and Creative Inquiry, an award recognizing students who presented excellent faculty-mentored research and dedication. 
+
+<https://dailybruin.com/2024/08/26/life-science-winners-of-deans-prize-discuss-their-research-work-journeys/>
+
+---
+
+## USC appoints new interim vice president for culture, ethics and compliance
+
+date: 2024-08-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Mike Blanton will also continue his role as vice president of professionalism and ethics.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/26/usc-appoints-new-interim-vice-president-for-culture-ethics-and-compliance/">USC appoints new interim vice president for culture, ethics and compliance</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/26/usc-appoints-new-interim-vice-president-for-culture-ethics-and-compliance/>
+
+---
+
+## Theater review: ‘The Brothers Size’ redefines brotherhood, remains relevant, transformative
+
+date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Warning: spoilers ahead.
+Blurring the boundaries of family and traditional storytelling, &#8220;The Brothers Size&#8221; serves as a raw exploration of love and loyalty.
+Currently showing at the Geffen Playhouse&#8217;s Audrey Skirball Kenis Theater until Sep. 
+
+<https://dailybruin.com/2024/08/26/theater-review-the-brothers-size-redefines-brotherhood-remains-relevant-transformative/>
+
+---
+
+## UCLA women’s soccer overcomes Santa Clara defense, continues win streak
+
+date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Santa Clara&#8217;s defense was like a brick wall &#8211; keeping the Bruins off the scoreboard for nearly the entire first half.
+But junior midfielder Sofia Cook breached the Broncos&#8217; defense to score the game-winning goal in the 42nd minute. 
+
+<https://dailybruin.com/2024/08/26/ucla-womens-soccer-overcomes-santa-clara-defense-continues-win-streak/>
+
+---
+
+## OC’s new wildlife preserve secures more funding
+
+date: 2024-08-26, updated: 2024-08-26, from: The LAist
+
+The 387 acre property near Newport Beach is home to more than 18 sensitive, threatened, or endangered species. 
+
+<https://laist.com/news/climate-environment/ocs-new-wildlife-preserve-secures-more-funding>
+
+---
+
+## Minimum wage-raising Proposition 32 to be voted on in general election
+
+date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Californians will vote on whether or not to raise the state minimum wage through a 2024 general election initiative. 
+If passed, Proposition 32 would raise the minimum wage in California from $16 to $18 an hour. 
+
+<https://dailybruin.com/2024/08/26/minimum-wage-raising-proposition-32-to-be-voted-on-in-general-election/>
+
+---
+
+## Students explore new food connections after differences with UCLA cultural cuisine
+
+date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Many Bruins moving to Los Angeles from a different city, state or country may find changes to a vital part of their everyday lives: food.
+While food at UCLA is ranked first in the nation, some Bruins can find difficulties adapting to it, given the differences in cultural cuisine. 
+
+<https://dailybruin.com/2024/08/26/students-explore-new-food-connections-after-differences-with-ucla-cultural-cuisine/>
+
+---
+
+## Benefits, drawbacks to know for students planning to open their own credit card
+
+date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+As the new academic year nears, Bruins may be exploring financial independence for the first time, from learning how to manage a budget to building credit. 
+
+<https://dailybruin.com/2024/08/26/benefits-drawbacks-to-know-for-students-planning-to-open-their-own-credit-card/>
+
+---
+
+## Bruins behind the stages network through Music Industry Students Association
+
+date: 2024-08-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA is becoming the music industry&#8217;s new home, thanks to a new student organization.
+The Music Industry Students Association is dedicated to helping students navigate the broad scope of the music industry, said lead director Trinity Drummond, a rising fourth-year music history and industry student. 
+
+<https://dailybruin.com/2024/08/26/bruins-behind-the-stages-network-through-music-industry-students-association/>
 
 ---
 
