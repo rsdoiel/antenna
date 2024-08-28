@@ -1,21 +1,11 @@
 ---
 title: libraries 2024.35
-updated: 2024-08-28 07:15:01
+updated: 2024-08-28 08:29:09
 ---
 
 # libraries 2024.35
 
-(date: 2024-08-28 07:15:01)
-
----
-
-## Dekolonialisierung der Sammlungen und Archive der ETH Zürich – ein Leitfaden aus der Praxis
-
-date: 2024-08-29, from: ETH Zurich, recently added
-
-Spano, Roberta; Willi, Stephanie; Galli, Andrea; Hintermüller, Julia; Pfyffer, Gaby; Schädler, Linda; Schönbächler, Martina; Sträuli, Sabine; Walt, Roman 
-
-<http://hdl.handle.net/20.500.11850/691291>
+(date: 2024-08-28 08:29:09)
 
 ---
 

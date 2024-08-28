@@ -1,11 +1,31 @@
 ---
 title: going electric 2024.35
-updated: 2024-08-28 07:15:04
+updated: 2024-08-28 08:29:12
 ---
 
 # going electric 2024.35
 
-(date: 2024-08-28 07:15:04)
+(date: 2024-08-28 08:29:12)
+
+---
+
+## Hyundai N Vision 74: Radical Hydrogen 'Rolling Lab' Confirmed For Production
+
+date: 2024-08-28, from: Inside EVs News
+
+The Hyundai N Vision 74 isn't science fiction. The brand is preparing to turn it into a production model.  
+
+<https://insideevs.com/news/731625/hyundai-n-vision-74-hydrogen-hybrid-sports-car/>
+
+---
+
+## Polestar Gets A New CEO. Can He Turn Things Around?
+
+date: 2024-08-28, from: Inside EVs News
+
+Volvo's troubled electric "spinoff" gets a new boss. Plus: Volkswagen gets tighter with China's Xpeng and BYD keeps the profits coming. 
+
+<https://insideevs.com/news/731640/polestar-ceo-xpeng-vw-cm/>
 
 ---
 

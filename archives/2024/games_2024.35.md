@@ -1,11 +1,21 @@
 ---
 title: games 2024.35
-updated: 2024-08-28 07:15:00
+updated: 2024-08-28 08:29:08
 ---
 
 # games 2024.35
 
-(date: 2024-08-28 07:15:00)
+(date: 2024-08-28 08:29:08)
+
+---
+
+## Vox Machina goes to hell and back in new trailer
+
+date: 2024-08-28, updated: 2024-08-28, from: Polygon Website
+
+When The Legend of Vox Machina returns in October, the crew of adventurers is going to be facing their greatest threat yet: a group of bloodthirsty dragons bent on wreaking destruction throughout the world.&#160; The new trailer really ramps up the stakes, and reveals that Vox Machina is going to have to trek to hell [&#8230;] 
+
+<https://www.polygon.com/animation-cartoons/445090/the-legend-of-vox-machina-season-3-trailer>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: home 2024.35
-updated: 2024-08-28 07:15:01
+updated: 2024-08-28 08:29:10
 ---
 
 # home 2024.35
 
-(date: 2024-08-28 07:15:01)
+(date: 2024-08-28 08:29:10)
 
 ---
 
@@ -16,6 +16,16 @@ date: 2024-08-28, from: Dwell
 Designed by Stuart Howard, the ’70s dwelling channels the spirit of the legendary coastal community. 
 
 <https://www.dwell.com/article/sea-ranch-style-house-stuart-howard-vancouver-british-columbia-real-estate-d78c8fc4>
+
+---
+
+## Iconic Havasupai Falls Has Been Closed Indefinitely Due to Flooding
+
+date: 2024-08-28, from: Sunset Magazine - Living in the West
+
+The highly coveted, reservations-only site at Havasupai Falls in Arizona has been shuttered indefinitely by the local tribe who operates it. 
+
+<https://www.sunset.com/travel/outdoor-adventure/havasupai-falls-closed-flooding>
 
 ---
 
@@ -191,16 +201,6 @@ date: 2024-08-27, from: Yard Life blog
  
 
 <https://ownyardlife.com/53-california-snakes-snakes-in-california-with-pictures/>
-
----
-
-## Iconic Havasupai Falls Have Been Closed Indefinitely Due to Flooding
-
-date: 2024-08-26, from: Sunset Magazine - Living in the West
-
-The highly coveted, reservations-only site at Havasupai Falls in Arizona has been shuttered indefinitely by the local tribe who operates it. 
-
-<https://www.sunset.com/travel/outdoor-adventure/havasupai-falls-closed-flooding>
 
 ---
 
