@@ -1,11 +1,575 @@
 ---
 title: pacific 2024.35
-updated: 2024-08-27 07:48:48
+updated: 2024-08-28 07:14:56
 ---
 
 # pacific 2024.35
 
-(date: 2024-08-27 07:48:48)
+(date: 2024-08-28 07:14:56)
+
+---
+
+## SHS has goodies for those who help ‘clear the shelter’
+
+date: 2024-08-28, updated: 2024-08-28, from: Marianas Variety
+
+THE Saipan Humane Society will guarantee a spay or neuter appointment for animals adopted from now until Sept. 10 as part of National Clear the Shelter Month, SHS founder Lauren Cabrera said. 
+
+<https://www.mvariety.com/news/local/shs-has-goodies-for-those-who-help-clear-the-shelter/article_d7dfac82-6545-11ef-9687-9f6abd46cf05.html>
+
+---
+
+## Local sports briefs: Kai ‘Ehitu dominates World Sprints; Ehunui gets first win
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>Kai &#8216;Ehitu dominates World Sprints</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/sports/local-sports-briefs-kai-ehitu-dominates-world-sprints-ehunui-gets-first-win/>
+
+---
+
+## 51st Queen Lili‘uokalani Canoe Races begin this week
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; The Queen Lili&#8216;uokalani Canoe Races welcomes 2,500 paddlers to the world&#8217;s largest outrigger canoe long distance race. Race participants and their &#8216;ohana enjoy five days of racing and events in Kona beginning Thursday and lasting through Monday. The race is named in honor of Hawai&#8217;i&#8217;s last reigning monarch, Queen Lil&#8216;iuokalani. The first race fell on the Queen&#8217;s birthday, September 2 in 1971.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/sports/51st-queen-liliuokalani-canoe-races-begin-this-week/>
+
+---
+
+## NFL cuts: Patriots waive QB Bailey Zappe; Chiefs cut WR Kadarius Toney
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>The New England Patriots waived quarterback Bailey Zappe on Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/sports/nfl-cuts-patriots-waive-qb-bailey-zappe-chiefs-cut-wr-kadarius-toney/>
+
+---
+
+## What are the most expensive game-worn jerseys by sport? Could any break Babe Ruth’s record?
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>Babe Ruth&#8217;s &#8220;called shot&#8221; jersey from the 1932 World Series sold for $24.12 million over the weekend, becoming the most expensive piece of sports memorabilia ever. But what are currently the most expensive game-worn jerseys in other sports, what could be the item to break the new record, and what could be the first women&#8217;s sports jersey to break the $1-million mark? We asked the experts.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/sports/what-are-the-most-expensive-game-worn-jerseys-by-sport-could-any-break-babe-ruths-record/>
+
+---
+
+## Keauhou Canoe Club awards scholarships
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>KEAUHOU-KONA &#8212; Kelson Omori of Captain Cook and Brendon-Lee Cordero of Kealakekua are recipients of 2024 scholarships from Keauhou Canoe Club (KCC). The graduating seniors recently received their $2,000 scholarships at a presentation during a KCC board of directors meeting.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/sports/keauhou-canoe-club-awards-scholarships/>
+
+---
+
+## UH-H athletics: Men’s soccer voted third in preseason coaches poll
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>The top three teams in the final 2023 Pacific West Conference men&#8217;s soccer standings were only separated by 1.5 games, and if you believe the league&#8217;s coaches, 2024 could be very much the same.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/sports/uh-h-athletics-mens-soccer-voted-third-in-preseason-coaches-poll/>
+
+---
+
+## News in brief for August 28
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>Kamala Harris, Tim Walz agree to first joint interview on Thursday</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/nation-world-news/news-in-brief-for-august-28/>
+
+---
+
+## On the COVID ‘off-ramp’: No tests, isolation or masks
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>Jason Moyer was days away from a family road trip to visit his parents when his 10-year-old son woke up with a fever and cough.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/nation-world-news/on-the-covid-off-ramp-no-tests-isolation-or-masks/>
+
+---
+
+## Donald Trump faces revised US indictment in election subversion case
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Donald Trump faced a revised federal indictment on Tuesday accusing him of illegally trying to overturn his 2020 election loss, with prosecutors narrowing their approach after a U.S. Supreme Court ruling that former presidents have broad immunity from criminal prosecution. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/nation-world-news/donald-trump-faces-revised-us-indictment-in-election-subversion-case/>
+
+---
+
+## How Democrats view Kennedy and Trump: ‘A weirdo campaign just got weirder’
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Democrats say they have a simple plan for discrediting Robert F. Kennedy Jr. now that he has dropped out of the race and endorsed former President Donald Trump: calling him &#8220;weird.&#8221; </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/nation-world-news/how-democrats-view-kennedy-and-trump-a-weirdo-campaign-just-got-weirder/>
+
+---
+
+## Safe Space, mobile kitchen to be unveiled Friday at Salvation Army
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>A long-awaited homeless shelter will open at the Hilo Salvation Army Friday alongside a mobile kitchen facility.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/hawaii-news/safe-space-mobile-kitchen-to-be-unveiled-friday-at-salvation-army/>
+
+---
+
+## Man sentenced 10 years in domestic assault case
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>A 45-year-old Hilo man was sentenced Aug. 22 to 10 years for a domestic assault last Christmas Eve on his estranged girlfriend.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/hawaii-news/man-sentenced-10-years-in-domestic-assault-case/>
+
+---
+
+## Tropical Storms Gilma, Hector weakening
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>Forecasters say Tropical Storm Gilma is rapidly weakening.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/hawaii-news/tropical-storms-gilma-hector-weakening-2/>
+
+---
+
+## Police: Foiled burglary leads to low-speed pursuit
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>A judge maintained bail Monday for a 33-year-old Hilo man accused of ramming a taxpayer-subsided police vehicle with a pickup truck during the commission of an active burglary in Puna.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/hawaii-news/police-foiled-burglary-leads-to-low-speed-pursuit/>
+
+---
+
+## Traffic stop leads to slew of charges
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>A 62-year-old Hilo man faces numerous felony charges after a traffic stop on the morning of Aug. 21 on Waiakea Peninsula led to a search of the vehicle the man was driving.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/hawaii-news/traffic-stop-leads-to-slew-of-charges/>
+
+---
+
+## ‘Portable benefits’ for gig workers deserve study and support
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>Millions of American workers are surviving, or supplementing their income, in the gig economy. But this means forgoing the benefits attached to full-time employment.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/opinion/portable-benefits-for-gig-workers-deserve-study-and-support/>
+
+---
+
+## With dams removed, salmon will have the run of a western river
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>YREKA, Calif. &#8212; The Klamath River was once so flush with fish that local tribes ate salmon at every meal: flame-roasted filets on redwood skewers, stews flavored with fish tails, strips of smoky, dried salmon. In the language of the Yurok, who live on the river among California&#8217;s towering redwoods, the word for &#8220;salmon&#8221; translates to &#8220;that which we eat.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/nation-world-news/with-dams-removed-salmon-will-have-the-run-of-a-western-river/>
+
+---
+
+## Zuckerberg says Biden admin pressured Meta to ‘censor’ COVID-19 content
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>Meta Platforms CEO Mark Zuckerberg said the Biden administration had pressured the company to &#8220;censor&#8221; COVID-19 content during the pandemic, apparently referring to White House requests to take down misinformation about the coronavirus and vaccines. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/nation-world-news/zuckerberg-says-biden-admin-pressured-meta-to-censor-covid-19-content/>
+
+---
+
+## Israeli military says hostage rescued from Gaza tunnel in ‘complex operation’
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Israeli special forces have recovered an Israeli hostage from a tunnel in southern Gaza in &#8220;a complex rescue operation&#8221;, the military said on Tuesday, more than 10 months after he was abducted by Hamas-led gunmen. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/nation-world-news/israeli-military-says-hostage-rescued-from-gaza-tunnel-in-complex-operation/>
+
+---
+
+## Build for America — The whole country needs more housing
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>The United States of America needs more housing &#8212; lots of it. The lack of supply in cities and suburbs in particular is the main force driving up the cost of living for millions, and keeping young people on the outside looking in, their faces pressed against the double-pane glass.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/opinion/build-for-america-the-whole-country-needs-more-housing/>
+
+---
+
+## The problem with self-checkout at the grocery store — and a way to fix it
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>Something incredible happened four years ago. People suddenly realized that my grocery store co-workers and I are essential. It had a lasting effect on me, but some people clearly need a reminder &#8212; especially the leaders of the conglomerates that dominate the industry. These bosses have rewarded our essential frontline service during the pandemic by trying to replace us with machines.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/opinion/the-problem-with-self-checkout-at-the-grocery-store-and-a-way-to-fix-it/>
+
+---
+
+## Ukraine’s Zelenskyy to present plan to Biden to end war with Russia
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>Ukraine&#8217;s Volodymyr Zelenskyy said on Tuesday that the war with Russia would eventually end in dialogue, but that Kyiv had to be in a strong position and that he would present a plan to U.S. President Joe Biden and his two potential successors. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/nation-world-news/ukraines-zelenskyy-to-present-plan-to-biden-to-end-war-with-russia/>
+
+---
+
+## Mexico freezes relations with US, Canadian embassies which criticized judicial reform
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>MEXICO CITY &#8212; The Mexican government has paused its relationship with the U.S. and Canadian embassies in the country, President Andres Manuel Lopez Obrador said on Tuesday, after their ambassadors criticized a proposed judicial reform that he backs. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/nation-world-news/mexico-freezes-relations-with-us-canadian-embassies-which-criticized-judicial-reform/>
+
+---
+
+## Robert F. Kennedy Jr. sawed the head off a whale and drove it home, daughter says
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>It is a violation of long-standing federal law to collect parts from the carcass of a protected marine animal if there are still &#8220;soft tissues&#8221; attached.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/nation-world-news/robert-f-kennedy-jr-sawed-the-head-off-a-whale-and-drove-it-home-daughter-says/>
+
+---
+
+## Trump’s edge over Harris on economy, crime slips, Reuters/Ipsos poll finds
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) &#8212; Donald Trump&#8217;s advantage over Kamala Harris on the economy and crime is eroding among U.S. voters, a sign the Democratic vice president&#8217;s campaign is gathering momentum ahead of the Nov. 5 presidential election, according to a new Reuters/Ipsos poll. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/nation-world-news/trumps-edge-over-harris-on-economy-crime-slips-reuters-ipsos-poll-finds/>
+
+---
+
+## Celebrating, supporting student parents at UH Mānoa
+
+date: 2024-08-28, from: University of Hawaiʻi News
+
+<p>Student Parents at Mānoa (SPAM) program celebrates with activities and events to honor and support our pregnant and parenting students, while raising campus awareness of their unique experiences and contributions.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/27/celebrating-supporting-student-parents/">Celebrating, supporting student parents at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/27/celebrating-supporting-student-parents/>
+
+---
+
+## Pacific population is generally growing, but some islands have the world’s biggest declines
+
+date: 2024-08-28, from: Pacific Island Times
+
+By James Pearce The Cook Islands and American Samoa have the world’s fastest two declining populations, according to the most recent... 
+
+<https://www.pacificislandtimes.com/post/pacific-population-is-generally-growing-but-some-islands-have-the-world-s-biggest-declines>
+
+---
+
+## UHPA, collaborators give 5,000 new books to Maui keiki
+
+date: 2024-08-28, from: University of Hawaiʻi News
+
+<p>A story of compassion and aloha inspired by the Maui wildfires was among the books donated.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/27/uhpa-give-books-to-maui-keiki/"><abbr>UHPA</abbr>, collaborators give 5,000 new books to Maui keiki</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/27/uhpa-give-books-to-maui-keiki/>
+
+---
+
+## USCGC Frederick Hatch wraps up a patrol in the Blue Pacific
+
+date: 2024-08-28, from: Pacific Island Times
+
+By Chief Warrant Officer Sara Muir                      ( U.S. Coast Guard Forces Micronesia/Sector Guam )--  The crew of the USCGC... 
+
+<https://www.pacificislandtimes.com/post/uscgc-frederick-hatch-wraps-up-a-patrol-in-the-blue-pacific>
+
+---
+
+## STATE SENATE 22 AND STATE HOUSE 45
+
+date: 2024-08-28, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Two seats on the General Election ballot for the Maui County Council are featured on Insights on PBS Hawaiʻi...</p>
+<p>The post <a href="https://www.pbshawaii.org/state-senate-22-and-state-house-45/">STATE SENATE 22 AND STATE HOUSE 45</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/state-senate-22-and-state-house-45/>
+
+---
+
+## Hawaiian History Month: UH honors Queen Liliʻuokalani, heritage
+
+date: 2024-08-28, from: University of Hawaiʻi News
+
+<p>The month-long celebration honors the legacy of <span aria-label="Hawaii’s">Hawai&#699;i’s</span> last reigning monarch and the cultural heritage of the Hawaiian people.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/27/hawaiian-history-month-2024/">Hawaiian History Month: <abbr>UH</abbr> honors Queen Liliʻuokalani, heritage</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/27/hawaiian-history-month-2024/>
+
+---
+
+## UN chief sends an SOS to the world; Pacific islands facing 'triple whammy' of climate-induced dangers
+
+date: 2024-08-28, from: Pacific Island Times
+
+By Mar-Vic Cagurangan The Pacific islands are facing a triple whammy of accelerating sea level rise, ocean warming and acidification,... 
+
+<https://www.pacificislandtimes.com/post/un-chief-sends-an-sos-to-the-world-pacific-islands-facing-triple-whammy-of-climate-induced-danger>
+
+---
+
+## UH Mānoa chatbot improves, expands to better support undergrads
+
+date: 2024-08-28, from: University of Hawaiʻi News
+
+<p>&#8216;Bow, the artificial intelligence Rainbow Warrior chatbot buddy, has received a few upgrades to reach out to students, from a new number to text prompts to better assist them.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/27/bow-rainbow-warrior-chatbot-expands/"><abbr>UH</abbr> Mānoa chatbot improves, expands to better support undergrads</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/27/bow-rainbow-warrior-chatbot-expands/>
+
+---
+
+## Hawaiian Word of the Week: ʻOlina
+
+date: 2024-08-28, from: University of Hawaiʻi News
+
+<p>&#699;Olina&#8212;To make merry; joyous, rejoicing, merrymaking.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/27/hawaiian-word-of-the-week-olina/">Hawaiian Word of the Week: ʻOlina</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/27/hawaiian-word-of-the-week-olina/>
+
+---
+
+## Protecting Oʻahu’s precious water, Koʻolau partnership marks 25 years
+
+date: 2024-08-28, from: University of Hawaiʻi News
+
+<p>Its efforts focus on protecting native forests, which are crucial for soil retention, water absorption and aquifer recharge.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/27/kmwp-25th-anniversary/">Protecting Oʻahu’s precious water, Koʻolau partnership marks 25 years</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/27/kmwp-25th-anniversary/>
+
+---
+
+## UH West Oʻahu plans to use creative media to teach STEM
+
+date: 2024-08-28, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> West Oʻahu plans to use creative media to teach <abbr>STEM</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/27/uhwo-to-use-creative-media-to-teach-stem/"><abbr>UH</abbr> West Oʻahu plans to use creative media to teach <abbr>STEM</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/27/uhwo-to-use-creative-media-to-teach-stem/>
+
+---
+
+## Trio of Warriors earn Mountain West honors following season-opening win
+
+date: 2024-08-28, from: University of Hawaiʻi News
+
+<p>Brayden Schager, Jamih Otis and Tylan Hines shone in the 35-14 season-opening victory.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/27/trio-of-warriors-earn-mountain-west-honors/">Trio of Warriors earn Mountain West honors following season-opening win</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/27/trio-of-warriors-earn-mountain-west-honors/>
+
+---
+
+## UH Hilo men’s soccer voted 3rd in preseason coaches’ poll
+
+date: 2024-08-28, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo will return with 18 players, seven of those with starting experience.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/27/hilo-mens-soccer-3rd-in-preseason-poll/"><abbr>UH</abbr> Hilo men’s soccer voted 3rd in preseason coaches’ poll</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/27/hilo-mens-soccer-3rd-in-preseason-poll/>
+
+---
+
+## VB Vulcans voted 6th in PacWest preseason poll
+
+date: 2024-08-28, from: University of Hawaiʻi News
+
+<p>The Vulcans are set to return eight players from the 2023 season.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/27/vb-vulcans-voted-6th-pw-preseason/"><abbr>VB</abbr> Vulcans voted 6th in PacWest preseason poll</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/27/vb-vulcans-voted-6th-pw-preseason/>
+
+---
+
+## Restoring the Marshall Islands: Three Essential Projects
+
+date: 2024-08-27, from: Island Conservation News
+
+<p>Three Island-Ocean Connection Challenge projects in the Republic of the Marshall Islands bring hope for low-lying coral atolls!</p>
+<p>The post <a href="https://www.islandconservation.org/restoring-the-marshall-islands-three-essential-projects/">Restoring the Marshall Islands: Three Essential Projects</a> appeared first on <a href="https://www.islandconservation.org">Island Conservation</a>.</p>
+ 
+
+<https://www.islandconservation.org/restoring-the-marshall-islands-three-essential-projects/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2024-08-27, updated: 2024-08-28, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## In ‘The Slow Road North,’ a New York writer finds solace in a Northern Irish town
+
+date: 2024-08-27, updated: 2024-08-28, from: Marianas Variety
+
+(AP) — Can what looks like running away from grief and sadness actually be a way to heal? 
+
+<https://www.mvariety.com/lifestyle/in-the-slow-road-north-a-new-york-writer-finds-solace-in-a-northern-irish/article_68748426-648c-11ef-ad55-f7370327ec45.html>
+
+---
+
+## Sabrina Carpenter’s ‘Short n’ Sweet’ is flirty, fun and wholly unserious
+
+date: 2024-08-27, updated: 2024-08-28, from: Marianas Variety
+
+(AP) — Say you can’t sleep? Sabrina Carpenter knows. That’s that her espresso. 
+
+<https://www.mvariety.com/lifestyle/sabrina-carpenter-s-short-n-sweet-is-flirty-fun-and-wholly-unserious/article_b71e35b4-648b-11ef-a768-abd52a7f326d.html>
+
+---
+
+## Zuckerberg says Biden admin pressured Meta to ‘censor’ Covid-19 content
+
+date: 2024-08-27, updated: 2024-08-28, from: Marianas Variety
+
+(Reuters) — Meta Platforms CEO Mark Zuckerberg said the Biden administration had pressured the company to "censor" Covid-19 content during the pandemic, apparently referring to White House requests to take down misinformation about the coronavirus and vaccines. 
+
+<https://www.mvariety.com/business/business_news/zuckerberg-says-biden-admin-pressured-meta-to-censor-covid-19-content/article_497de156-648d-11ef-b508-5fc858d5ee24.html>
+
+---
+
+## Coleman talks about regenerative farming at Rotary meeting
+
+date: 2024-08-27, updated: 2024-08-28, from: Marianas Variety
+
+DURING the weekly meeting of the Rotary Club of Saipan at Crowne Plaza Resort on Tuesday, Patty Coleman, interim dean of the NMC-Cooperative Research Education and Extension Services, talked about her office’s efforts to promote regenerative farming in the CNMI. 
+
+<https://www.mvariety.com/news/local/coleman-talks-about-regenerative-farming-at-rotary-meeting/article_fe818d36-643e-11ef-b1a9-4b117050b611.html>
+
+---
+
+## DPS: Beware of gasoline thieves
+
+date: 2024-08-27, updated: 2024-08-28, from: Marianas Variety
+
+THE Department of Public Safety is investigating multiple cases of vehicle damage and gasoline theft. 
+
+<https://www.mvariety.com/news/local/dps-beware-of-gasoline-thieves/article_19aba958-6448-11ef-9d26-23f84ea0a07d.html>
+
+---
+
+## Columbia sophomores offer college application tips
+
+date: 2024-08-27, updated: 2024-08-28, from: Marianas Variety
+
+YURI Sasamoto and Jesse Sablan, two incoming sophomores at Columbia University in New York, recently sat down with Variety to offer general advice to CNMI high school students interested in attending college in the states. 
+
+<https://www.mvariety.com/news/local/columbia-sophomores-offer-college-application-tips/article_5860fb94-643e-11ef-9a1e-03de8b14d556.html>
+
+---
+
+## DPL: Saipan Portopia finds new investor for Hyatt
+
+date: 2024-08-27, updated: 2024-08-28, from: Marianas Variety
+
+SAIPAN Portopia Hotel Corp., the Japanese company that operated Hyatt Regency Saipan for over 30 years before it shut down on June 30, 2024, has asked the Department of Public Lands to approve the assignment of the land lease contract to Coldwell Solar owner David Hood and MB Capital LLC. 
+
+<https://www.mvariety.com/news/local/dpl-saipan-portopia-finds-new-investor-for-hyatt/article_ef2084e2-642e-11ef-9240-43615a3cc42c.html>
+
+---
+
+## Star Marianas air services to Tinian, Rota will continue
+
+date: 2024-08-27, updated: 2024-08-28, from: Marianas Variety
+
+STAR Marianas Air Inc. announced Tuesday that it was rescinding its notice of intent to terminate air services to Tinian and Rota. 
+
+<https://www.mvariety.com/news/local/star-marianas-air-services-to-tinian-rota-will-continue/article_48503fce-6440-11ef-aee1-9b26a48a5647.html>
 
 ---
 
@@ -246,6 +810,30 @@ date: 2024-08-27, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/08/27/opinion/harris-and-trump-shouldnt-pander-to-the-crypto-crowd/>
+
+---
+
+## Hawaii’s visitor industry faces threat of hotel, airline strikes
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>Rocky Higgins, who has worked as a bartender at the Princess Kaiulani Hotel for 30 years, signed a strike benefit card and made picket signs Monday in preparation for what could be Unite Here Local 5&#8217;s largest hotel strike in decades.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/hawaii-news/hawaiis-visitor-industry-faces-threat-of-hotel-airline-strikes/>
+
+---
+
+## Tropical Storms Gilma, Hector weakening
+
+date: 2024-08-27, from: Hawaii Tribune Harold
+
+
+				<p>Forecasters say Tropical Storm Gilma is rapidly weakening.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/27/hawaii-news/tropical-storms-gilma-hector-weakening/>
 
 ---
 
@@ -512,7 +1100,7 @@ By Jayvee Vallejera   Climate advocates set strong expectations at the start of
 
 date: 2024-08-27, from: Pacific Island Times
 
-Pacific Islands Forum leader urges island leaders to remain vigilant amid threats of regional instability By Pacific Island Times News... 
+Pacific Islands Forum leader urges island leaders to remain vigilant amid climate and regional security threats By Mar-Vic Cagurangan  ... 
 
 <https://www.pacificislandtimes.com/post/we-are-a-force-to-be-reckoned-with>
 
@@ -1068,6 +1656,16 @@ date: 2024-08-25, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/08/25/hawaii-news/hone-1-p-m-update-tropical-storm-warning-remains-in-effect-14000-without-power/>
+
+---
+
+## ‘Bows Swarm the Hornets in season opener, 35-14
+
+date: 2024-08-25, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+ 
+
+<https://www.manoanow.org/kaleo/bows-swarm-the-hornets-in-season-opener-35-14/article_dc42dce4-632f-11ef-8b24-e38cdd2ada0c.html>
 
 ---
 

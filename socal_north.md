@@ -1,11 +1,292 @@
 ---
 title: socal north 2024.35
-updated: 2024-08-27 07:48:47
+updated: 2024-08-28 07:14:54
 ---
 
 # socal north 2024.35
 
-(date: 2024-08-27 07:48:47)
+(date: 2024-08-28 07:14:54)
+
+---
+
+## Your SoCal weather report for Wednesday, Aug. 28: Cooler day on tap for the Southland
+
+date: 2024-08-28, updated: 2024-08-28, from: The LAist
+
+Cooler weather for the week has arrived. 
+
+<https://laist.com/news/climate-environment/la-weather-report-august-28-am-slightly-cooler-weather>
+
+---
+
+## Charter Amendment LL: LAUSD Redistricting
+
+date: 2024-08-28, updated: 2024-08-28, from: The LAist
+
+Currently, the body in charge of redrawing district boundaries is made up of political appointments. This proposal would change that. 
+
+<https://laist.com/news/politics/2024-election-california-general-los-angeles-county-lausd-redistricting>
+
+---
+
+## California Proposition 6: Prohibit forced labor
+
+date: 2024-08-28, updated: 2024-08-28, from: The LAist
+
+The measure would amend the state constitution to prohibit any form of forced labor or servitude, which is currently allowed as punishment for a crime. 
+
+<https://laist.com/news/politics/2024-election-california-general-proposition-6-prohibit-forced-labor>
+
+---
+
+## Share those strawberries! Invasive fruit fly species eradicated across California
+
+date: 2024-08-28, updated: 2024-08-28, from: The LAist
+
+The quarantines for five separate species, including two that have never been detected in this part of the world before, have been lifted. 
+
+<https://laist.com/news/climate-environment/share-those-strawberries-invasive-fruit-fly-species-eradicated-across-california>
+
+---
+
+## How you can advocate for better laws to help your children
+
+date: 2024-08-28, updated: 2024-08-28, from: The LAist
+
+It’s a hard world out there to raise kids. Trying to get the care and support you need can feel complicated or just plain unfair. Here’s what you can do as a parent to make things better. 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/parent-advocacy-early-childhood-california-legislation-policy>
+
+---
+
+## Looking for nonpartisan fiscal analysis of LA County ballot measures? This is the first election you’ll find them
+
+date: 2024-08-28, updated: 2024-08-28, from: The LAist
+
+Here are the impartial fiscal breakdowns of L.A. Countywide ballot measures up for a vote this November. 
+
+<https://laist.com/news/politics/los-angeles-county-election-november-2024-voter-impartial-non-partisan-analysis-measure-a-g>
+
+---
+
+## Classifieds – August 28, 2024
+
+date: 2024-08-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/28/classifieds-august-28-2024/">Classifieds &#8211; August 28, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/28/classifieds-august-28-2024/>
+
+---
+
+## Summer is over, awards season is here
+
+date: 2024-08-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>These are the films that have a chance at collecting a nomination for the Oscars.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/28/summer-is-over-awards-season-is-here/">Summer is over, awards season is here</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/28/summer-is-over-awards-season-is-here/>
+
+---
+
+## It’s a bird! It’s a plane! It’s a flying taxi!
+
+date: 2024-08-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Archer Aviation hashes out details to construct vertiports at University.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/28/its-a-bird-its-a-plane-its-a-flying-taxi/">It&#8217;s a bird! It&#8217;s a plane! It&#8217;s a flying taxi!</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/28/its-a-bird-its-a-plane-its-a-flying-taxi/>
+
+---
+
+## Senator, programming assembly relationship comes to a head
+
+date: 2024-08-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Undergraduate Student Government senate voted in favor of senate bill 144-04.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/28/senator-assembly-relationship/">Senator, programming assembly relationship comes to a head</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/28/senator-assembly-relationship/>
+
+---
+
+## Overcoming loss is a painful journey for the student
+
+date: 2024-08-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/08/28/overcoming-loss-is-a-painful-journey-for-the-student/">Overcoming loss is a painful journey for the student</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/28/overcoming-loss-is-a-painful-journey-for-the-student/>
+
+---
+
+## Tennis and pickleball courts closed permanently
+
+date: 2024-08-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The area will be used to start development on new USC Athletics facilities.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/28/tennis-and-pickleball-courts-closed-permanently/">Tennis and pickleball courts closed permanently</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/28/tennis-and-pickleball-courts-closed-permanently/>
+
+---
+
+## USC football faces tough first test
+
+date: 2024-08-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The No. 13 LSU Tigers come into this season after a 2024 ReliaQuest Bowl win.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/28/usc-football-faces-tough-first-test/">USC football faces tough first test</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/28/usc-football-faces-tough-first-test/>
+
+---
+
+## Why I’m voting ‘yes’ on Proposition 2
+
+date: 2024-08-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/08/28/why-im-voting-yes-on-proposition-2/">Why I&#8217;m voting &#8216;yes&#8217; on Proposition 2</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/28/why-im-voting-yes-on-proposition-2/>
+
+---
+
+## Taking a calculated risk
+
+date: 2024-08-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Do our clothing choices inform our habits, or do our habits inform our choices?</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/28/taking-a-calculated-risk/">Taking a calculated risk</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/28/taking-a-calculated-risk/>
+
+---
+
+## 2024 UCLA Football Season Preview
+
+date: 2024-08-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/tag/football-preview-2024>
+
+---
+
+## UCLA men’s soccer ties ranked opponent in second game of season
+
+date: 2024-08-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+In only their second game of the season, the Bruins met their second ranked opponent.
+But unlike the team&#8217;s first matchup against No. 11 Loyola Marymount, No. 
+
+<https://dailybruin.com/2024/08/27/ucla-mens-soccer-ties-ranked-opponent-in-second-game-of-season/>
+
+---
+
+## USAC recap – Aug. 20
+
+date: 2024-08-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its second meeting of the month Aug. 20.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<https://dailybruin.com/2024/08/27/usac-recap-aug-20-3/>
+
+---
+
+## Latino Data Hub Action Lab empowers community leaders to create data-driven change
+
+date: 2024-08-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Latino Policy and Politics Institute and Arizona State University Center for Latina/os and American Politics Research announced the launch of the joint Latino Data Hub Action Lab, welcoming a cohort of fellows who will use the database toward projects to support the Latino community. 
+
+<https://dailybruin.com/2024/08/27/latino-data-hub-action-lab-empowers-community-leaders-to-create-data-driven-change/>
+
+---
+
+## Welcome Week kicks off the year
+
+date: 2024-08-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/08/27/welcome-week-kicks-off-the-year/">Welcome Week kicks off the year</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/27/welcome-week-kicks-off-the-year/>
+
+---
+
+## Andrew Do is a no-show at OC board meeting as calls intensify for him to resign
+
+date: 2024-08-27, updated: 2024-08-28, from: The LAist
+
+Board members were informed that Do “will likely miss a number of meetings in the future." 
+
+<https://laist.com/news/politics/andrew-do-rhiannon-do-board-meeting-supervisors-viet-america-society>
+
+---
+
+## Editorial Cartoon: “Summer Tan”
+
+date: 2024-08-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<https://dailybruin.com/2024/08/27/editorial-cartoon-summer-tan/>
+
+---
+
+## Editorial Cartoon: “LA Olympic Games”
+
+date: 2024-08-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<https://dailybruin.com/2024/08/27/editorial-cartoon-la-olympic-games/>
+
+---
+
+## Introducing DISRUPT: Advocating for Inclusion and Social Justice at CSUN
+
+date: 2024-08-27, from: The Sundail (CSUN Student Newspaper)
+
+While brainstorming ways to complete community service hours, DISRUPT founder and CSUN alumna Alyssa Avila learned that disability advocacy clubs were being formed on other college campuses, and decided that... 
+
+<https://sundial.csun.edu/183958/news/introducing-disrupt-advocating-for-inclusion-and-social-justice-at-csun/>
+
+---
+
+## Letter From The Editor
+
+date: 2024-08-27, from: The Sundail (CSUN Student Newspaper)
+
+Dear CSUN readers, Welcome to the Fall 2024 semester! As the summer comes to a close and a new year is in full swing, there is a world of new... 
+
+<https://sundial.csun.edu/183950/print-editions/letter-from-the-editor-7/>
+
+---
+
+## The 29th Annual River Rally Cleanup and Environmental Expo is Fast-Approaching – Register Now!
+
+date: 2024-08-27, from: City of Santa Clarita
+
+<p>All Volunteers Must Pre-Register by Friday, September 20 Volunteer registration is now open for the 29th Annual River Rally Cleanup and Environmental Expo scheduled for Saturday, September 21, from 8:00 to 11:00 a.m. This year’s River Rally will be held at the William S. Hart Pony Baseball and Softball Complex (23780 Auto Center Drive, Santa [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/08/27/the-29th-annual-river-rally-cleanup-and-environmental-expo-is-fast-approaching-register-now/">The 29th Annual River Rally Cleanup and Environmental Expo is Fast-Approaching &#8211; Register Now!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/08/27/the-29th-annual-river-rally-cleanup-and-environmental-expo-is-fast-approaching-register-now/>
 
 ---
 

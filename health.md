@@ -1,11 +1,43 @@
 ---
 title: health 2024.35
-updated: 2024-08-27 07:48:57
+updated: 2024-08-28 07:15:04
 ---
 
 # health 2024.35
 
-(date: 2024-08-27 07:48:57)
+(date: 2024-08-28 07:15:04)
+
+---
+
+## Editorial: Role of microbes in ocular surface health and diseases
+
+date: 2024-08-28, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1462752>
+
+---
+
+## Editorial: Designing metal-complexes (metallo-drugs) against infectious diseases and understanding their metal toxicity
+
+date: 2024-08-28, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1463451>
+
+---
+
+## Is Orange Juice Good For Kidney Stones?
+
+date: 2024-08-27, from: The Kidney Dietitian
+
+<p>Is orange juice actually good for kidney stones? Or, is this an old wives tale? Orange juice can impact our health in more ways than one, especially if we have kidney stones.&#160; In this blog post, we’ll explore the nutritional profile of orange juice, discuss the benefits and potential concerns related to kidney stones, investigate [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/is-orange-juice-good-for-kidney-stones/">Is Orange Juice Good For Kidney Stones?</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<https://www.thekidneydietitian.org/is-orange-juice-good-for-kidney-stones/>
 
 ---
 

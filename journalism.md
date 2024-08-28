@@ -1,11 +1,21 @@
 ---
 title: journalism 2024.35
-updated: 2024-08-27 07:48:53
+updated: 2024-08-28 07:15:00
 ---
 
 # journalism 2024.35
 
-(date: 2024-08-27 07:48:53)
+(date: 2024-08-28 07:15:00)
+
+---
+
+## Are people more likely to accurately evaluate misinformation when the political stakes are high? Haha, no
+
+date: 2024-08-27, from: Nieman Journalism Lab
+
+Imagine you&#8217;re walking down the street and a random guy asks you to solve a math problem. A complicated one, but one you know how to solve — it&#8217;d just take several minutes of some fairly serious thinking on your part. Would you do it? Maybe you love math and want nothing more than random... 
+
+<https://www.niemanlab.org/2024/08/are-people-more-likely-to-accurately-evaluate-misinformation-when-the-political-stakes-are-high-haha-no/>
 
 ---
 

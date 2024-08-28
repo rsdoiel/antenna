@@ -1,11 +1,111 @@
 ---
 title: games 2024.35
-updated: 2024-08-27 07:48:53
+updated: 2024-08-28 07:15:00
 ---
 
 # games 2024.35
 
-(date: 2024-08-27 07:48:53)
+(date: 2024-08-28 07:15:00)
+
+---
+
+## The 26 must-read books of fall 2024
+
+date: 2024-08-28, updated: 2024-08-27, from: Polygon Website
+
+Summer is finally coming to an end. There’s a slight chill in the air, back to school shopping is in full swing, and the days are slowly but surely growing shorter. While some of us will mourn the loss of cookouts, beach trips, and stone fruit season until next year (I’ll miss you, fresh peaches [&#8230;] 
+
+<https://www.polygon.com/books/444069/book-preview-fall-2024>
+
+---
+
+## Metaphor: ReFantazio shares DNA with Persona, but is its own fascinating beast
+
+date: 2024-08-28, updated: 2024-08-27, from: Polygon Website
+
+Atlus’ new role-playing game, Metaphor: ReFantazio, strikes an impressive balance for a project of its ambition: It’s both squarely aimed at longtime fans of the Persona and Shin Megami Tensei series, but detached from the legacy of those games, making it extremely welcoming to new players. In other words, if you’ve ever been wary about [&#8230;] 
+
+<https://www.polygon.com/impressions/444848/metaphor-refantazio-preview-pc-ps5-xbox>
+
+---
+
+## Emio – The Smiling Man is a captivating murder mystery with a middling end
+
+date: 2024-08-28, updated: 2024-08-28, from: Polygon Website
+
+There is a degree to which every detective story hinges on its ending. Emio – The Smiling Man: Famicon Detective Club has me wrestling with just how important that degree is.&#160; The first eight or so hours of the Nintendo Switch game pass by at a clip. Taking on the role of a private investigator, [&#8230;] 
+
+<https://www.polygon.com/review/444764/emio-the-smiling-man-review-nintendo-switch>
+
+---
+
+## Complete fish list in Fields of Mistria
+
+date: 2024-08-27, updated: 2024-08-27, from: Polygon Website
+
+Fishing is a big part of Fields of Mistria, whether you’re just trying to fulfill some townie’s request or if you’re trying to complete the museum. Finding the fish you need can be frustrating, so we’ve compiled everything you need to know about fishing successfully in one guide for you. Below, we detail how to [&#8230;] 
+
+<https://www.polygon.com/fields-of-mistria-guides/444802/complete-fish-list-in-fields-of-mistria>
+
+---
+
+## Ryan Reynolds’ deleted Deadpool &#038; Wolverine clip suggests a future for its biggest cameo
+
+date: 2024-08-27, updated: 2024-08-27, from: Polygon Website
+
+Deadpool &#38; Wolverine star Ryan Reynolds has been sharing plenty of clips of the movie on social media since its release, but none have felt as pointed as today’s 20-second deleted scene. A decade ago, leaked test footage of Deadpool’s effects reel garnered such fan excitement that 20th Century Fox decided to reverse course and [&#8230;] 
+
+<https://www.polygon.com/movies/444921/deadpool-wolverine-deleted-gambit-scene>
+
+---
+
+## Get the Scott Pilgrim box sets for their lowest price ever
+
+date: 2024-08-27, updated: 2024-08-27, from: Polygon Website
+
+It&#8217;s been 20 years since Scott Pilgrim wielded the power of self-respect against the League of Evil Exes. In honor of this momentous occasion, the entire Scott Pilgrim Series by Bryan Lee O’Malley recently received a hardcover re-release. Now, the $249.99 collector’s box sets are available to purchase from Amazon for their lowest price ever. [&#8230;] 
+
+<https://www.polygon.com/comics/444756/get-the-scott-pilgrim-box-sets-for-their-lowest-price-ever>
+
+---
+
+## Sabaa Tahir returns to the Ember universe in Heir — read the first chapter
+
+date: 2024-08-27, updated: 2024-08-27, from: Polygon Website
+
+When Sabaa Tahir’s Ember in the Ashes quartet ended in 2020, we never thought we’d get the chance to return to the Empire. With the journeys of Laia, Elias, and Helene wrapped up so wonderfully, what other stories could there be to tell — and could they ever live up to the expectations the Ember [&#8230;] 
+
+<https://www.polygon.com/excerpt/441578/sabaa-tahir-heir-first-chapter>
+
+---
+
+## D&#038;D will split a new Forgotten Realms release across two books
+
+date: 2024-08-27, updated: 2024-08-27, from: Polygon Website
+
+Dungeons &#38; Dragons publisher Wizards of the Coast has finally detailed its 2025 release calendar for the iconic tabletop role-playing game. During the D&#38;D Direct streaming presentation on Tuesday, Hasbro’s leading role-playing game studio teased a handful of new releases designed to inspire creativity in its community. Pre-baked narrative campaigns are out, it would seem, [&#8230;] 
+
+<https://www.polygon.com/dnd-dungeons-dragons/444702/dd-will-split-a-new-forgotten-realms-release-across-two-books>
+
+---
+
+## Avowed feels like a fun fantasy spinoff for fans of The Outer Worlds
+
+date: 2024-08-27, updated: 2024-08-27, from: Polygon Website
+
+Would you give a dying virgin a healing potion? This was the first moral quandary presented during my hands-on time with Avowed, Obsidian&#8217;s upcoming first-person RPG set in the Pillars of Eternity universe. Caedmon — a member of the missing Aedyran Expedition Team I was tracking — was complaining about the inhumanity of his approaching [&#8230;] 
+
+<https://www.polygon.com/gamescom/444408/avowed-hands-on-preview>
+
+---
+
+## Fields of Mistria devs tease romance with its datable dragon
+
+date: 2024-08-27, updated: 2024-08-27, from: Polygon Website
+
+Fields of Mistria, a new farming sim and RPG inspired by the Harvest Moon series and Stardew Valley, contains its fair share of charms. Its world has blossoming pink and purple flowers, a witchy bathhouse decorated with crystals, and a lively cast of characters ready to take you in and help your character get settled. [&#8230;] 
+
+<https://www.polygon.com/culture/443385/fields-of-mistria-caldarus-fuck-dragon>
 
 ---
 
@@ -236,16 +336,6 @@ date: 2024-08-25, updated: 2024-08-23, from: Polygon Website
 Few stories in the history of the world are as famous or have been told as many times as the tale of Sun Wukong. In fact, a new adaptation of the story, Black Myth: Wukong, is currently taking the world by storm, racking up record-breaking numbers on Steam. The game is a gorgeous retelling of [&#8230;] 
 
 <https://www.polygon.com/what-to-watch/442857/black-myth-wukong-movies-journey-west>
-
----
-
-## Fields of Mistria players want to ‘fuck the dragon’
-
-date: 2024-08-25, updated: 2024-08-23, from: Polygon Website
-
-Fields of Mistria, a new farming sim and RPG inspired by the Harvest Moon series and Stardew Valley, contains its fair share of charms. Its world has blossoming pink and purple flowers, a witchy bathhouse decorated with crystals, and a lively cast of characters ready to take you in and help your character get settled. [&#8230;] 
-
-<https://www.polygon.com/culture/443385/fields-of-mistria-caldarus-fuck-dragon>
 
 ---
 

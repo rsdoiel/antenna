@@ -1,11 +1,171 @@
 ---
 title: food 2024.35
-updated: 2024-08-27 07:48:58
+updated: 2024-08-28 07:15:05
 ---
 
 # food 2024.35
 
-(date: 2024-08-27 07:48:58)
+(date: 2024-08-28 07:15:05)
+
+---
+
+## Too Much Crushed Red Pepper? Let’s Fix Your Dish﻿
+
+date: 2024-08-28, from: Pepper Scale
+
+Crushed red pepper (a.k.a. red pepper flakes) is a convenient way to add spiciness to various dishes since it is easy to measure out. The heat is usually moderate but quickly becomes overwhelming if you go overboard. You can use the tips below to rescue ... <p class="read-more-container"><a title="Too Much Crushed Red Pepper? Let&#8217;s Fix Your Dish﻿" class="read-more button" href="https://pepperscale.com/too-much-crushed-red-pepper/#more-51805" aria-label="Read more about Too Much Crushed Red Pepper? Let&#8217;s Fix Your Dish﻿">Read more</a></p> 
+
+<https://pepperscale.com/too-much-crushed-red-pepper/>
+
+---
+
+## Are Bell Peppers Spicy, Ever?
+
+date: 2024-08-28, from: Pepper Scale
+
+It may come as a surprise (to some) that bell peppers are technically chili peppers. What isn’t a surprise (to most) is bell peppers have no heat. But is that always true? Are bell peppers spicy, ever? Or is it always that zero placeholder on ... <p class="read-more-container"><a title="Are Bell Peppers Spicy, Ever?" class="read-more button" href="https://pepperscale.com/are-bell-peppers-spicy/#more-52321" aria-label="Read more about Are Bell Peppers Spicy, Ever?">Read more</a></p> 
+
+<https://pepperscale.com/are-bell-peppers-spicy/>
+
+---
+
+## Slightly Spiced Lemon Curd
+
+date: 2024-08-28, from: Pepper Scale
+
+Our slightly spiced lemon curd recipe is pretty traditional, with just a gentle hint of spice.&#160;You can use this tart and creamy concoction to liven up toasted bread, make a delightful cake filling, or even use as a cocktail base. The heat comes from cayenne ... <p class="read-more-container"><a title="Slightly Spiced Lemon Curd" class="read-more button" href="https://pepperscale.com/slightly-spiced-lemon-curd/#more-78571" aria-label="Read more about Slightly Spiced Lemon Curd">Read more</a></p> 
+
+<https://pepperscale.com/slightly-spiced-lemon-curd/>
+
+---
+
+## Chicken Parmesan Burgers
+
+date: 2024-08-28, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2024/08/Chicken-Parmesan-Burgers-1200-7884.jpg"/></div>
+<p>Chicken burger patties topped with melted cheese in garlic bread buns along with marinara sauce! In the summer I always enjoy a tasty burger and these chicken parmesan inspired burgers have been on my menu a lot lately. The basic idea here is chicken patties topped with melted cheese in buns with marinara sauce. The...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/chicken-parmesan-burgers/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/chicken-parmesan-burgers/">Chicken Parmesan Burgers</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<https://www.closetcooking.com/chicken-parmesan-burgers/>
+
+---
+
+## Grilled Shrimp Skewers
+
+date: 2024-08-28, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/grilled-garlic-herb-shrimp-skewers/"><img title="grilled-shrimp-skewers-small-6" src="https://www.isabeleats.com/wp-content/uploads/2024/08/grilled-shrimp-skewers-small-6-400x600.jpg" alt="Grilled Shrimp Skewers" width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	These grilled shrimp skewers scream summer! Made with a margarita-inspired marinade of tequila, agave, jalapeño, soy sauce, and garlic, these juicy and flavorful shrimp are perfect for grilling. Topped with plenty of lime juice, this Mexican take on grilled shrimp skewers is fresh and flavorful. When warmer weather comes along, I find myself wanting to [&#8230;] 
+
+<https://www.isabeleats.com/grilled-garlic-herb-shrimp-skewers/>
+
+---
+
+## Grilled Chicken Wings with Alabama White Sauce
+
+date: 2024-08-28, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/chicken-wings-white-bbq-sauce/" title="Grilled Chicken Wings with Alabama White Sauce" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mike dipping a juicy chicken wing into a bowl of Alabama white bbq sauce" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>These crispy chicken wings are brined for flavor and juiciness, dry rubbed, fire grilled, then drenched in homemade Alabama white BBQ sauce, so good! Get the recipe and get grilling!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/chicken-wings-white-bbq-sauce/">Grilled Chicken Wings with Alabama White Sauce</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<https://www.chilipeppermadness.com/recipes/chicken-wings-white-bbq-sauce/>
+
+---
+
+## Mushrooms With Chipotle Peppers
+
+date: 2024-08-28, from: Pepper Scale
+
+Mushrooms with chipotle peppers are a perfect &#8220;meaty&#8221; vegetarian side, but they can also be a light meal all on their own. It&#8217;s a perfect topping for thick toasted bread smothered with butter. Or, for something more decadent (and beefier), try these tasty mushrooms on ... <p class="read-more-container"><a title="Mushrooms With Chipotle Peppers" class="read-more button" href="https://pepperscale.com/mushrooms-with-chipotle-peppers/#more-58832" aria-label="Read more about Mushrooms With Chipotle Peppers">Read more</a></p> 
+
+<https://pepperscale.com/mushrooms-with-chipotle-peppers/>
+
+---
+
+## What’s A Good Serrano Pepper Substitute?
+
+date: 2024-08-27, from: Pepper Scale
+
+Serrano peppers are among the most popular chilies, but they can still be surprisingly hard to track down. So what’s a smart serrano pepper substitute that’ll still work with most recipes in case your local grocer doesn&#8217;t carry this chili? Let&#8217;s break down your three best ... <p class="read-more-container"><a title="What’s A Good Serrano Pepper Substitute?" class="read-more button" href="https://pepperscale.com/serrano-pepper-substitute/#more-5385" aria-label="Read more about What’s A Good Serrano Pepper Substitute?">Read more</a></p> 
+
+<https://pepperscale.com/serrano-pepper-substitute/>
+
+---
+
+## Watermelon Ice Cream
+
+date: 2024-08-27, from: Taste of Home
+
+This easy summer dessert, made with watermelon and sweetened condensed milk, is creamy and thick but scoops like a dream. Use your ripest watermelon to get the best flavor. 
+
+<https://www.tasteofhome.com/recipes/watermelon-ice-cream/>
+
+---
+
+## Banana Popsicles
+
+date: 2024-08-27, from: Taste of Home
+
+Banana bread is always a good choice, but you can also use those ripe bananas to make these rich, tangy popsicles. They're cool and creamy, of course, but they're not overly sweet. 
+
+<https://www.tasteofhome.com/recipes/banana-popsicles/>
+
+---
+
+## Messy Mexican Burger
+
+date: 2024-08-27, from: Pepper Scale
+
+If you like Mexican spice and don’t mind getting a little messy when you eat, then boy do we have a burger recipe for you. The messy Mexican burger packs a perfect amount of spice from pickled jalapeños and chili pepper (of your choice) in ... <p class="read-more-container"><a title="Messy Mexican Burger" class="read-more button" href="https://pepperscale.com/messy-mexican-burger/#more-82611" aria-label="Read more about Messy Mexican Burger">Read more</a></p> 
+
+<https://pepperscale.com/messy-mexican-burger/>
+
+---
+
+## Sambal Salamat
+
+date: 2024-08-27, from: Pepper Scale
+
+Sambal salamat is a salsa-style condiment that is very common in Indonesia.&#160;It may be added to anything from rice and noodles to eggs, meat, or soups. Often used to add some extra spice to a dish, you should use it sparingly (unless you love the ... <p class="read-more-container"><a title="Sambal Salamat" class="read-more button" href="https://pepperscale.com/sambal-salamat/#more-58661" aria-label="Read more about Sambal Salamat">Read more</a></p> 
+
+<https://pepperscale.com/sambal-salamat/>
+
+---
+
+## Mexican Burger
+
+date: 2024-08-27, from: Taste of Home
+
+Spice up burger night with these Mexican burgers, flavorful south-of-the-border-inspired beef patties topped with a creamy avocado spread. 
+
+<https://www.tasteofhome.com/recipes/mexican-burger/>
+
+---
+
+## Tojiro Knife Set Review: Sharp, Affordable, Extremely Well-Made
+
+date: 2024-08-27, from: Bon Appetet
+
+These knives are sharp, affordable, and extremely well-made. 
+
+<https://www.bonappetit.com/story/tojiro-dp-knife-set-review>
+
+---
+
+## Is Spicy A Flavor? Fact Or Fiction
+
+date: 2024-08-27, from: Pepper Scale
+
+What we call taste is a collection of different senses that includes smell, mouthfeel, and temperature. There are five basic tastes; everything we perceive as flavor combines those tastes. We detect tastes via papillae on the tongue, which are equipped with taste buds. So, fact ... <p class="read-more-container"><a title="Is Spicy A Flavor? Fact Or Fiction" class="read-more button" href="https://pepperscale.com/is-spicy-a-flavor/#more-80490" aria-label="Read more about Is Spicy A Flavor? Fact Or Fiction">Read more</a></p> 
+
+<https://pepperscale.com/is-spicy-a-flavor/>
 
 ---
 
@@ -13,9 +173,19 @@ updated: 2024-08-27 07:48:58
 
 date: 2024-08-27, from: Bon Appetet
 
-Cometeer's frozen coffee is the perfect shortcut to this of-the-moment drink. 
+Cometeer’s frozen coffee is the perfect shortcut to this of-the-moment drink. 
 
 <https://www.bonappetit.com/story/cometeer-frozen-espresso-martini>
+
+---
+
+## How One Man Has Dedicated Himself to the Art of Apple Trolling
+
+date: 2024-08-27, from: Bon Appetet
+
+This comedian created an apple ranking system so no one ever has to "eat a trash apple ever again." 
+
+<https://www.bonappetit.com/story/best-apple-rankings>
 
 ---
 
@@ -49,11 +219,11 @@ Satan’s Blood Hot Sauce is the most dangerously hot hot sauce I have ever had!
 
 ---
 
-## How A Fish-Sauce Spiked Cocktail Conveys Cambodian Spirit
+## How a Fish-Sauce-Spiked Cocktail Conveys Cambodian Spirit
 
 date: 2024-08-26, from: Bon Appetet
 
-At Sophon in Seattle, cocktails pull inspiration from Khmer identity and the Pacific Northwest. Here's what goes into one savory, tropical drink. 
+At Sophon in Seattle, cocktails pull inspiration from Khmer identity and the Pacific Northwest. Here’s what goes into one savory, tropical drink. 
 
 <https://www.bonappetit.com/story/sophon-restaurant-seattle-cocktails>
 
@@ -83,7 +253,7 @@ It's true—there's no gum at The House of Mouse. Here's the explanation our res
 
 date: 2024-08-26, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/chili-mac/" title="Chili Mac Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="One pot Chili Mac and cheese, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Chili mac is hearty and delicious, a comforting mix of meaty homemade chili and cheesy macaroni for a perfect weeknight dinner that's easy to make.</p>
+<a href="https://www.chilipeppermadness.com/recipes/chili-mac/" title="Chili Mac Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="One pot Chili Mac and cheese, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chili-Mac-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Chili mac is hearty and delicious, a comforting mix of meaty homemade chili and cheesy macaroni for a perfect weeknight dinner that's easy to make.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/chili-mac/">Chili Mac Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

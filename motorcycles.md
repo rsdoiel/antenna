@@ -1,11 +1,91 @@
 ---
 title: motorcycles 2024.35
-updated: 2024-08-27 07:48:56
+updated: 2024-08-28 07:15:02
 ---
 
 # motorcycles 2024.35
 
-(date: 2024-08-27 07:48:56)
+(date: 2024-08-28 07:15:02)
+
+---
+
+## Good Luck Finding a Race Weekend Like MotoAmerica, Nothing Beats It
+
+date: 2024-08-28, from: Ride Apart, Electric Motorcycle News
+
+And the whole thing costs less than $100. 
+
+<https://www.rideapart.com/news/731534/motoamerica-race-weekend-review/>
+
+---
+
+## This 'Spitfire' Custom Motorcycle Literally Spits Flames, Seriously
+
+date: 2024-08-28, from: Ride Apart, Electric Motorcycle News
+
+Because why not?  
+
+<https://www.rideapart.com/news/731404/sptifire-custom-bmw-r1200r-vtr-customs/>
+
+---
+
+## Honda CT125 Gets Stealthy New Colors, Get Ready to Adventure in Secret
+
+date: 2024-08-28, from: Ride Apart, Electric Motorcycle News
+
+If bright Honda red is attracting too much attention, one of these new hues is sure to capture your stealthy vibe. 
+
+<https://www.rideapart.com/news/731538/honda-ct125-new-colors-2024/>
+
+---
+
+## Cardo Partners With Insta360, Makes Action Sports Audio Easier
+
+date: 2024-08-28, from: Ride Apart, Electric Motorcycle News
+
+Go big, go loud.  
+
+<https://www.rideapart.com/news/731528/cardo-comms-insta360-video-partnership/>
+
+---
+
+## Almost Every LiveWire S2 Has Been Recalled, Could Suddenly Stop Moving
+
+date: 2024-08-28, from: Ride Apart, Electric Motorcycle News
+
+Other electrical functions will continue working, but affected bikes could suddenly lose power with no warning to riders. 
+
+<https://www.rideapart.com/news/731522/livewire-delmar-mulholland-fuse-recall/>
+
+---
+
+## Good News, More ATV and UTV Trails Are Coming Soon
+
+date: 2024-08-28, from: Ride Apart, Electric Motorcycle News
+
+More people enjoying off-roading is always a good thing.  
+
+<https://www.rideapart.com/news/731403/atv-utv-trails-expansion-kentucky-pennsylvania/>
+
+---
+
+## Stop Hating, Honda's E-Clutch Is Actually Great
+
+date: 2024-08-28, from: Ride Apart, Electric Motorcycle News
+
+There's a lot of misinformation surrounding this system. Let's set the record straight. 
+
+<https://www.rideapart.com/news/731511/honda-e-clutch-review/>
+
+---
+
+## Get Your Passports Ready, NASCAR Cup Series Heading To Mexico City In 2025
+
+date: 2024-08-27, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor NASCAR just topped its recent big news of going to Bowman Gray Stadium for the 2025 Clash by announcing on Tuesday it’s taking the NASCAR Cup&#8230;  
+
+<https://kickinthetires.net/nascar/get-your-passports-ready-nascar-cup-series-heading-to-mexico-city-in-2025/>
 
 ---
 
@@ -59,7 +139,7 @@ The Dutch ain't part of the club.
 
 ---
 
-## Motorcyclist Doesn't Move Over Fast Enough, Cop Says He'll 'Run Them Over'
+## Cop Threatens to Kill Motorcyclist, Screams 'I'll Run You Over'
 
 date: 2024-08-27, from: Ride Apart, Electric Motorcycle News
 

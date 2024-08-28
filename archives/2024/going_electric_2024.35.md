@@ -1,11 +1,347 @@
 ---
 title: going electric 2024.35
-updated: 2024-08-27 07:48:57
+updated: 2024-08-28 07:15:04
 ---
 
 # going electric 2024.35
 
-(date: 2024-08-27 07:48:57)
+(date: 2024-08-28 07:15:04)
+
+---
+
+## Hyundai confirms three-row IONIQ 9 SUV, EREVs with +550-mi range are coming to the US
+
+date: 2024-08-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Hyundais-larger-IONIQ-9.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After unveiling its new “Hyundai Way” strategy on Wednesday, <a href="https://electrek.co/guides/hyundai/">Hyundai</a> confirmed its highly anticipated three-row electric SUV, the IONIQ 9, will be built in the US. Hyundai also revealed plans to launch EREVs with over 550 miles (900 km) range. Here’s what else you can expect from Hyundai over the next few years. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="377520" href="https://electrek.co/2024/08/28/hyundai-confirms-3-row-ioniq-9-erevs-550-mi-range-us/#more-377520" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/28/hyundai-confirms-3-row-ioniq-9-erevs-550-mi-range-us/>
+
+---
+
+## Hyundai Is Making Hybrids That Can Power Your Appliances
+
+date: 2024-08-28, from: Inside EVs News
+
+Hyundai's next-gen hybrid powertrain will go into production early next year with smart regenerative braking and V2L baked in. 
+
+<https://insideevs.com/news/731619/hyundai-hybrid-v2l/>
+
+---
+
+## Hyundai Ioniq 9 Three-Row SUV To Be Built In America; 560-Mile 'EREV' In 2026
+
+date: 2024-08-28, from: Inside EVs News
+
+At Hyundai's CEO Investor Day event, big plans to speed up on EVs—and a "bridge" vehicle that drives like an EV but packs a gas engine too. 
+
+<https://insideevs.com/news/731616/hyundai-investor-day-ioniq-9/>
+
+---
+
+## Polestar’s CEO Is Out
+
+date: 2024-08-28, from: Inside EVs News
+
+Thomas Ingenlath, the automaker’s head honcho from its inception, has resigned. 
+
+<https://insideevs.com/news/731572/polestar-new-ceo/>
+
+---
+
+## Tesla Is One Of The Least Reliable Used Car Brands: Consumer Reports
+
+date: 2024-08-28, from: Inside EVs News
+
+Several owners of older Model S EVs reported battery and drive unit replacements. Meanwhile, Lexus and Toyota are at the top. 
+
+<https://insideevs.com/news/731559/tesla-least-reliable-used-car-brands/>
+
+---
+
+## The wild electric vehicles Australia is now using to deliver mail
+
+date: 2024-08-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/australia-post-ubco-bike-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I don’t claim to know much about Australia, and the little I do may or may not come from <em>Crocodile Dundee</em>. But I do know EVs, and it looks like the hundreds of rugged <a href="http://ubco.com">UBCOs</a> that are set to become mail-delivery vehicles down under are uniquely appropriate for the diverse conditions facing the country’s mail-delivery network.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,electric-motorcycle" data-layer-viewtype="unknown" data-post-id="377514" href="https://electrek.co/2024/08/27/the-wild-electric-vehicles-australia-is-now-using-to-deliver-mail/#more-377514" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/the-wild-electric-vehicles-australia-is-now-using-to-deliver-mail/>
+
+---
+
+## Solar power at US schools surges, growing fourfold over the last decade
+
+date: 2024-08-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Sacramento-County-USD-SEIA-school-solar.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Since 2014, solar capacity at K-12 schools has more than quadrupled across the US, according to a new report from clean energy nonprofit <a href="https://generation180.org/" target="_blank" rel="noreferrer noopener">Generation180</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="377479" href="https://electrek.co/2024/08/27/solar-power-us-schools-surges-growing-fourfold-over-the-last-decade/#more-377479" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/solar-power-us-schools-surges-growing-fourfold-over-the-last-decade/>
+
+---
+
+## Nissan GT-R goes electric, Tesla goes to court, and Mullen goes mainstream
+
+date: 2024-08-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/gtr-electric.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we ponder the future of Nissan’s all-wheel drive hypercar, Tesla argues against Louisiana’s car dealers, and perpetual EV startup Mullen gets an order big enough to put it on the map for real.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyperloop,nissan,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="377506" href="https://electrek.co/2024/08/27/nissan-gt-r-goes-electric-tesla-goes-to-court-and-mullen-goes-mainstream/#more-377506" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/nissan-gt-r-goes-electric-tesla-goes-to-court-and-mullen-goes-mainstream/>
+
+---
+
+## Porsche is offering a $22,500 discount off 2024 Taycan leases
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Porsche_Taycan_2024.jpg?quality=82&#038;strip=all&#038;w=1440" /></div><p>Porsche is offering up to a $22,500 discount off the MSRP on <a href="https://www.carsdirect.com/buildyourcar/style?make=porsche&amp;model=taycan&amp;src=1001054&amp;lnk=subIDMichelle" target="_blank" rel="noreferrer noopener">2024 Taycan EV</a> leases, but before you get too excited, let’s check the fine print.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-lease,porsche,porsche-taycan" data-layer-viewtype="unknown" data-post-id="377499" href="https://electrek.co/2024/08/27/porsche-is-offering-a-22500-discount-off-2024-taycan-leases/#more-377499" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/porsche-is-offering-a-22500-discount-off-2024-taycan-leases/>
+
+---
+
+## $18 Million Tesla Supercharger Station Is Coming To New York City
+
+date: 2024-08-27, from: Inside EVs News
+
+NYC's Queens borough will get a huge Supercharger station after Tesla paid $18 million to the plot owner. 
+
+<https://insideevs.com/news/731527/tesla-supercharger-station-nyc-queens-18-million/>
+
+---
+
+## Nissan’s Electric GT-R will be its first with solid-state batteries for over 1,000 kW of power
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Nissan-GT-R-solid-state-batteries.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The legendary GT-R is going electric and will likely be Nissan’s first to use solid-state batteries. As the new tech develops, <a href="https://electrek.co/guides/nissan/">Nissan</a> hinted that solid-state batteries could give the electric GT-R even more power.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan" data-layer-viewtype="unknown" data-post-id="377466" href="https://electrek.co/2024/08/27/nissans-electric-gt-r-solid-state-batteries-1-mw-power/#more-377466" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/nissans-electric-gt-r-solid-state-batteries-1-mw-power/>
+
+---
+
+## ENVGO launches flagship NV1 electric hydrofoiling boat with 80 miles of range and DC charging
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/electric-hydrofoiling-boat-ENVGO.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new company called ENVGO is putting its unique spin on the maritime industry, beginning with a new <a href="https://electrek.co/guides/electric-boats/">all-electric</a> hydrofoiling boat called the NV1. The vessel features a massive battery pack with DC charging capabilities, and its hydrofoil design enables impressive range on the water. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-boat,electric-boats,envgo" data-layer-viewtype="unknown" data-post-id="377431" href="https://electrek.co/2024/08/27/envgo-launches-flagship-nv1-electric-hydrofoiling-boat-with-80-miles-of-range-and-dc-charging/#more-377431" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/envgo-launches-flagship-nv1-electric-hydrofoiling-boat-with-80-miles-of-range-and-dc-charging/>
+
+---
+
+## 8.5M square feet of US self-storage rooftops are getting solar
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/NSA_self-storage-solar-landscape.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>National Storage Affiliates Trust (NSA), a major player in the self-storage industry, has partnered with community solar developer Solar Landscape to roll out 100 megawatts (MW) of solar capacity across 8.5 million square feet of NSA’s rooftop space. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="377465" href="https://electrek.co/2024/08/27/8-5m-square-feet-of-us-self-storage-rooftops-are-getting-solar/#more-377465" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/8-5m-square-feet-of-us-self-storage-rooftops-are-getting-solar/>
+
+---
+
+## Tesla’s self-driving is still not working in Boring Company’s one-way tunnels
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/04/Boring-Company-las-vegas-loop.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s self-driving system is still not working in The Boring Company’s one-way tunnels under Las Vegas despite reportedly working on it for years.</p>
+
+
+
+<p>But self-driving in Tesla vehicles on public roads is around the corner?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="377423" href="https://electrek.co/2024/08/27/tesla-self-driving-still-not-working-boring-company-one-way-tunnels/#more-377423" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/tesla-self-driving-still-not-working-boring-company-one-way-tunnels/>
+
+---
+
+## The BYD Seal 06 GT Is A Chinese Electric Hot Hatch Coming To Europe
+
+date: 2024-08-27, from: Inside EVs News
+
+It’s bigger than a Volkswagen ID.3, but it’s also a bit fancier and more powerful. 
+
+<https://insideevs.com/news/731495/byd-seal-06-gt-revealed/>
+
+---
+
+## NIO is opening 100 Onvo stores next week to sell its new $30K Tesla Model Y challenger
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/NIOs-Model-Y-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>NIO is expanding into Tesla’s territory with its new mass-market <a href="https://electrek.co/guides/nio-onvo/">Onvo</a> brand. The brand’s first model, the Onvo L60, will take on Tesla’s best-selling Model Y. Starting at around $30,000 (219,900 yuan), NIO’s new electric SUV undercuts the Model Y by about $4,000 (30,000 yuan) in China. With the first batch of stores opening next week, NIO looks to get new Onvo models out quickly.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nio,nio-onvo" data-layer-viewtype="unknown" data-post-id="377443" href="https://electrek.co/2024/08/27/nio-open-100-onvo-stores-sell-new-30k-tesla-challenger/#more-377443" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/nio-open-100-onvo-stores-sell-new-30k-tesla-challenger/>
+
+---
+
+## NIU BQi-C3 Pro travels 90 miles at $1,299 low, Segway Cube 2000 power station $500 off, 1-day Jackery power station sale, more
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/NIU-BQi-C3-Pro-e-bike-grey.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Headlining today’s Green Deals is the return of <a href="https://9to5toys.com/2024/08/27/nius-class-3-bqi-c3-pro-e-bike-makes-commuting-easy-with-a-90-mile-range-at-1299-low-reg-2200/">NIU’s BQi-C3 Pro e-bike</a> that has cruised back down to its <a href="https://9to5toys.com/2024/08/27/nius-class-3-bqi-c3-pro-e-bike-makes-commuting-easy-with-a-90-mile-range-at-1299-low-reg-2200/">$1,299 all-time low</a>. It is joined by <a href="https://9to5toys.com/2024/08/27/save-500-on-segways-lifepo4-cube-2000-expandable-portable-power-station-at-1200/">Segway’s expandable Cube 2000 Portable Power Station</a> that is now $500 off at <a href="https://9to5toys.com/2024/08/27/save-500-on-segways-lifepo4-cube-2000-expandable-portable-power-station-at-1200/">$1,200</a>, as well as a one-day discount on <a href="https://9to5toys.com/2024/08/27/slip-jackerys-290wh-explorer-power-station-into-your-travel-bag-at-return-180-low-reg-250-today-only/">Jackery’s totable Explorer 290 Portable Power Station</a> that has fallen back to its <a href="https://9to5toys.com/2024/08/27/slip-jackerys-290wh-explorer-power-station-into-your-travel-bag-at-return-180-low-reg-250-today-only/">$180 low</a> for the rest of the day. There’s also tons down in our links to check out, with another one-day low on <a href="https://9to5toys.com/2024/08/27/make-quick-work-of-wood-with-greenworks-80v-18-inch-cordless-electric-chainsaw-at-300-save-100-today-only/">Greenworks’ powerful 80V 18-inch cordless electric chainsaw</a>, as well as discounts on some <a href="https://9to5toys.com/2024/08/27/toss-out-the-messy-soil-for-aerogardens-harvest-indoor-hydroponic-garden-down-at-85-more-from-53/">AeroGarden indoor hydroponic systems</a>, a versatile <a href="https://9to5toys.com/2024/08/26/versatility-meets-reliability-in-the-ego-power-56v-power-head-down-at-119-reg-150-more-from-169/">EGO Power+ tool system</a>, and more – plus, all the other hangover Green Deals that are still alive and well, like yesterday’s <a href="https://9to5toys.com/2024/08/26/save-up-to-1800-during-juiceds-latest-sitewide-e-bike-sale-starting-from-1274/">Juiced Bikes 15% off sitewide sale</a> that dropped the RipCurrent S e-bike to the lowest price we’ve seen in 2024. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="377412" href="https://electrek.co/2024/08/27/niu-bqi-c3-pro-travels-90-miles-at-1299-low-segway-cube-2000-power-station-500-off-1-day-jackery-power-station-sale-more/#more-377412" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/niu-bqi-c3-pro-travels-90-miles-at-1299-low-segway-cube-2000-power-station-500-off-1-day-jackery-power-station-sale-more/>
+
+---
+
+## Electric Range Rover Promises Supreme Luxury And Off-Road Might
+
+date: 2024-08-27, from: Inside EVs News
+
+The Range Rover EV is expected to arrive in 2025 based on a modified version of the existing MLA platform. 
+
+<https://insideevs.com/news/731466/range-rover-electric-details/>
+
+---
+
+## Hyundai says new Casper EV can now be leased for less than $8/day in Korea
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Hyundais-Casper-EV-lease.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s new low-cost Casper EV can now be leased for less than $8 a day. Through its new “Battery Care Lease” plan, <a href="https://electrek.co/guides/hyundai/">Hyundai’s</a> new electric SUV is even cheaper to drive than the gas-powered model.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="377399" href="https://electrek.co/2024/08/27/hyundai-casper-ev-leased-under-8-day/#more-377399" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/hyundai-casper-ev-leased-under-8-day/>
+
+---
+
+## XPeng launches the MONA M03 in China at over half the price of a Tesla Model 3 ($16,815)
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/MONA-M03-price-movie.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>When <a href="https://electrek.co/guides/xpeng/">XPeng Motors</a> announced its new MONA line of AI-centric BEVs, it said it was gunning for the Tesla in China. After officially launching its first MONA model, the M03, in China today, XPeng is coming out with guns blazin’, announcing a starting price of  RMB 119,800 ($16,815). That’s over half the price of a Tesla Model 3. As a result, the M03 has garnered huge orders out of the gate.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mona,mona-m03,tesla-model-3,xpeng,xpeng-motors" data-layer-viewtype="unknown" data-post-id="377387" href="https://electrek.co/2024/08/27/xpeng-launches-mona-m03-china-over-half-the-price-tesla-model-3/#more-377387" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/xpeng-launches-mona-m03-china-over-half-the-price-tesla-model-3/>
+
+---
+
+## Tesla is now capable of producing 700,000 Powerwalls per year
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Tesla-Powerwall-3-Cybertruck.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is now capable of producing 700,000 Powerwalls or 10 GWh worth per year, according to a new video.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="377398" href="https://electrek.co/2024/08/27/tesla-producing-700000-powerwalls-per-year/#more-377398" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/tesla-producing-700000-powerwalls-per-year/>
+
+---
+
+## Tesla Is Erasing Its Own History
+
+date: 2024-08-27, from: Inside EVs News
+
+CEO Elon Musk’s original Tesla Motors Master Plan no longer exists on Tesla’s website. 
+
+<https://insideevs.com/news/731502/tesla-is-erasing-its-own-history/>
+
+---
+
+## The new 95th Anniversary Edition Bowlus electric RV will upgrade your next EV getaway
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Bowlus-95th-edition-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The iconic <a href="https://electrek.co/guides/electric-rv/">electric RV</a> maker launched its newest model on Tuesday to celebrate its 95th Anniversary. The Endless Highways 95th Anniversary Edition Bowlus RV is designed to take your next EV getaway to the next level with unrivaled luxury and features.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-rv" data-layer-viewtype="unknown" data-post-id="377367" href="https://electrek.co/2024/08/27/new-95th-edition-bowlus-rv-upgrade-your-ev-getaway/#more-377367" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/new-95th-edition-bowlus-rv-upgrade-your-ev-getaway/>
+
+---
+
+## US Armor Group unveils armored Lucid Air Sapphire with pepper spray and electric-shock door handles
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Armored-lucid-air-front.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>If you thought <a href="https://electrek.co/guides/lucid-motors/">Lucid Motors’</a> 1,234 tri-motor Air Sapphire was elite, threat mitigation specialist US Armor Group has taken the luxury sedan to an entirely new echelon. Today, the company unveiled an armored version of the Lucid Air Sapphire, described as being indestructible. Designed for heads of state and high-ranking executives, it can be equipped with features like bulletproof glass, poison gas protection. Wait until you see the price tag.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid-air-sapphire,lucid-motors,us-armor-group" data-layer-viewtype="unknown" data-post-id="377357" href="https://electrek.co/2024/08/27/us-armor-group-unveils-armored-lucid-air-sapphire-with-pepper-spray-and-electric-shock-door-handles/#more-377357" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/us-armor-group-unveils-armored-lucid-air-sapphire-with-pepper-spray-and-electric-shock-door-handles/>
+
+---
+
+## The U.S. Is Now Adding 1,000 New EV Chargers Every Week
+
+date: 2024-08-27, from: Inside EVs News
+
+Plus, Canada adds a new 100% tariff on Chinese EVs and Canoo moves to Texas. 
+
+<https://insideevs.com/news/731390/critical-materials-20240827/>
+
+---
+
+## Tesla squeezes victory in court, exposes collusion to keep direct sales out of Louisiana
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/04/Used-EV-sales-Q1-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla has managed to win in US appeal court against the Louisiana Motor Vehicle Commission, which is preventing Tesla’s direct sale model in the state.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="377355" href="https://electrek.co/2024/08/27/tesla-squeezes-victory-in-court-exposes-collusion-to-keep-direct-sales-out-of-louisiana/#more-377355" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/tesla-squeezes-victory-in-court-exposes-collusion-to-keep-direct-sales-out-of-louisiana/>
 
 ---
 
@@ -20,6 +356,20 @@ date: 2024-08-27, from: Electrek Feed
  <a data-layer-pagetype="post" data-layer-postcategory="byd,huawei" data-layer-viewtype="unknown" data-post-id="377337" href="https://electrek.co/2024/08/27/byd-will-use-huaweis-adas-hard-core-evs-tesla/#more-377337" class="more-link">more…</a> 
 
 <https://electrek.co/2024/08/27/byd-will-use-huaweis-adas-hard-core-evs-tesla/>
+
+---
+
+## BYD will use Huawei’s tech to power up ‘hard-core’ EVs and keep pace with Tesla
+
+date: 2024-08-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/BYD-Huaweis-4.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s leading EV maker, <a href="https://electrek.co/guides/byd/">BYD</a>, will use Huawei’s advanced driver-assist tech for its new “hard-core” electric SUV brand. The new partnership comes as BYD looks to close the tech gap with Tesla and other upcoming Chinese rivals.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,huawei" data-layer-viewtype="unknown" data-post-id="377337" href="https://electrek.co/2024/08/27/byd-huaweis-tech-hard-core-evs-tesla/#more-377337" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/27/byd-huaweis-tech-hard-core-evs-tesla/>
 
 ---
 

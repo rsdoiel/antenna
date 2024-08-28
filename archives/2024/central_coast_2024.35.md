@@ -1,11 +1,138 @@
 ---
 title: central coast 2024.35
-updated: 2024-08-27 07:48:50
+updated: 2024-08-28 07:14:57
 ---
 
 # central coast 2024.35
 
-(date: 2024-08-27 07:48:50)
+(date: 2024-08-28 07:14:57)
+
+---
+
+## Carpinteria Salt Marsh Sunset
+
+date: 2024-08-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/032822-POD-Lisa-Patsch.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sunset over the Carpinteria Salt Marsh." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/032822-POD-Lisa-Patsch.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/032822-POD-Lisa-Patsch.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/032822-POD-Lisa-Patsch.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/032822-POD-Lisa-Patsch.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/032822-POD-Lisa-Patsch.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/032822-POD-Lisa-Patsch.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/032822-POD-Lisa-Patsch.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/032822-POD-Lisa-Patsch.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/032822-POD-Lisa-Patsch.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/032822-POD-Lisa-Patsch.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/032822-POD-Lisa-Patsch.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/032822-POD-Lisa-Patsch.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/032822-POD-Lisa-Patsch.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/carpinteria-salt-marsh-sunset/">Carpinteria Salt Marsh Sunset</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/carpinteria-salt-marsh-sunset/>
+
+---
+
+## Santa Barbara Talks Priorities If Voters OK Half-Cent Sales Tax Hike
+
+date: 2024-08-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Sales-Tax-Infographic-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara sales tax infographic." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Sales-Tax-Infographic-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Sales-Tax-Infographic-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Sales-Tax-Infographic-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Sales-Tax-Infographic-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Sales-Tax-Infographic-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Sales-Tax-Infographic-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Sales-Tax-Infographic-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Sales-Tax-Infographic-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Sales-Tax-Infographic-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Sales-Tax-Infographic-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The City of Santa Barbara hopes a proposed half-cent sales tax increase will rake in $15.6 million annually. The measure is on the Nov. 5 ballot. The City Council met [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-lists-priorities-if-voters-ok-half-cent-sales-tax-increase/">Santa Barbara Talks Priorities If Voters OK Half-Cent Sales Tax Hike</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-lists-priorities-if-voters-ok-half-cent-sales-tax-increase/>
+
+---
+
+## Prep Girls Volleyball Roundup: Dos Pueblos, Bishop Diego Pick Up Non-League Wins
+
+date: 2024-08-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-827.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-827.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-827.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-827.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-827.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-827.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-827.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-827.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-827.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-827.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/volleyball-roundup-827.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Halle Rillie’s stellar performance from the setter position vaulted Dos Pueblos girls volleyball to a four-set road win over Royal on Tuesday, 25-23, 25-23, 16-25, 25-22. While also facilitating the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-volleyball-roundup-dos-pueblos-bishop-diego-pick-up-non-league-wins/">Prep Girls Volleyball Roundup: Dos Pueblos, Bishop Diego Pick Up Non-League Wins</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-volleyball-roundup-dos-pueblos-bishop-diego-pick-up-non-league-wins/>
+
+---
+
+## DUI Crash Victim’s Family Speaks About Loss That ‘Crushed All Our Hearts’
+
+date: 2024-08-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="720" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?fit=1024%2C720&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Gregorio &quot;Greg&quot; Dominguez, 65, died on Christmas Day when a drunken driver veered into the path of his vehicle. Dominguez is pictured with his sisters, Barbara Dominguez and Diana Gonzalez." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=300%2C211&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=1024%2C720&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=768%2C540&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=1536%2C1080&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=1200%2C844&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=1568%2C1102&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=400%2C281&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=706%2C496&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?fit=1024%2C720&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A man who drove while drunk and caused a fatal crash early Christmas morning heard from the heartbroken family of Gregorio “Greg” Dominguez, a father, grandfather, brother, coworker, friend and [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dui-crash-victims-family-speaks-about-loss-that-crushed-all-our-hearts/">DUI Crash Victim&#8217;s Family Speaks About Loss That &#8216;Crushed All Our Hearts&#8217;</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dui-crash-victims-family-speaks-about-loss-that-crushed-all-our-hearts/>
+
+---
+
+## Santa Barbara High Girls Volleyball Suffers Hard-Fought Sweep to Santa Ynez
+
+date: 2024-08-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-sy-volley-827.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-sy-volley-827.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-sy-volley-827.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-sy-volley-827.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-sy-volley-827.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-sy-volley-827.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-sy-volley-827.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-sy-volley-827.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-sy-volley-827.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-sy-volley-827.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sb-sy-volley-827.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara High girls volleyball suffered a tight sweep to Santa Ynez High in Tuesday’s non-league matchup at JR Richards Gym, 25-23, 25-18, 26-24. The loss wrapped up non-league action [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-high-girls-volleyball-suffers-hard-fought-sweep-to-santa-ynez/">Santa Barbara High Girls Volleyball Suffers Hard-Fought Sweep to Santa Ynez</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-high-girls-volleyball-suffers-hard-fought-sweep-to-santa-ynez/>
+
+---
+
+## Wellpath Reports Improvements in Inmate Care at County Jail
+
+date: 2024-08-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-county-jail-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara County Jail." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-county-jail-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-county-jail-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-county-jail-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-county-jail-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-county-jail-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-county-jail-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-county-jail-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-county-jail-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-county-jail-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082724-county-jail-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara County’s jail health care provider has come under fire several times, leading the county to seek a new provider, but Wellpath is now reporting that increased staffing has [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/provider-wellpath-reports-improvements-in-inmate-care-at-county-jail/">Wellpath Reports Improvements in Inmate Care at County Jail</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/provider-wellpath-reports-improvements-in-inmate-care-at-county-jail/>
+
+---
+
+## Fast Start Powers Dos Pueblos Boys Water Polo to 13-10 Win Over Carpinteria
+
+date: 2024-08-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/water-polo-827.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/water-polo-827.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/water-polo-827.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/water-polo-827.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/water-polo-827.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/water-polo-827.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/water-polo-827.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/water-polo-827.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/water-polo-827.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/water-polo-827.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/water-polo-827.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Dos Pueblos boys water polo pulled out a 13-10 victory over Carpinteria High on Tuesday at the Carpinteria Community Pool. The Chargers got out to a flaming start, pouring on [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/fast-start-powers-dos-pueblos-boys-water-polo-to-13-10-win-over-carpinteria/">Fast Start Powers Dos Pueblos Boys Water Polo to 13-10 Win Over Carpinteria</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/fast-start-powers-dos-pueblos-boys-water-polo-to-13-10-win-over-carpinteria/>
+
+---
+
+## Prep Girls Golf Roundup: Channel League Squads Begin Seasons with Wins
+
+date: 2024-08-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-girls-golf-827.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-girls-golf-827.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-girls-golf-827.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-girls-golf-827.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-girls-golf-827.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-girls-golf-827.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-girls-golf-827.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-girls-golf-827.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-girls-golf-827.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-girls-golf-827.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/dp-girls-golf-827.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Dos Pueblos girls golf began their season with a victory in a three-team matchup against Oxnard and Channel Islands on the road on Tuesday. The Chargers shot 224 as a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-golf-roundup-dos-pueblo-santa-barbara-high-begin-seasons-with-wins/">Prep Girls Golf Roundup: Channel League Squads Begin Seasons with Wins</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-golf-roundup-dos-pueblo-santa-barbara-high-begin-seasons-with-wins/>
+
+---
+
+## New Album Pays Tribute to Nostalgic Sounds of Sterling Sloan
+
+date: 2024-08-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Composer and songwriter Sterling &#8220;Bud&#8221; Sloan is being honored through a new compilation album, &#8220;1950&#8217;s Music Gems &#8211; Best of Bud Sloan.&#8221; &#8220;Sloan, a pivotal force in the music industry [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/new-album-pays-tribute-to-nostalgic-sounds-of-sterling-sloan/">New Album Pays Tribute to Nostalgic Sounds of Sterling Sloan</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/new-album-pays-tribute-to-nostalgic-sounds-of-sterling-sloan/>
+
+---
+
+## Carpinteria High Girls Tennis Earns Lopsided Win Over Villanova, 15-3
+
+date: 2024-08-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Carpinteria High girls tennis took down Villanova by a score of 15-3 in a non-league matchup on Tuesday. “I saw a lot of improvement from our previous match and the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/carpinteria-high-girls-tennis-earns-lopsided-win-over-villanova-15-3/">Carpinteria High Girls Tennis Earns Lopsided Win Over Villanova, 15-3</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/carpinteria-high-girls-tennis-earns-lopsided-win-over-villanova-15-3/>
 
 ---
 

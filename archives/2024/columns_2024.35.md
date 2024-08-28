@@ -1,11 +1,280 @@
 ---
 title: columns 2024.35
-updated: 2024-08-27 07:48:51
+updated: 2024-08-28 07:14:58
 ---
 
 # columns 2024.35
 
-(date: 2024-08-27 07:48:51)
+(date: 2024-08-28 07:14:58)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-28, from: Dave Winer's Scripting News)
+
+Note to the Harris campaign: This <a href="https://www.google.com/search?q=site:youtube.com+harris+ads&tbm=nws">Google search</a> should return a complete list of your ads. Or a pointer to a site with a complete list of your ads. I want to make sure everyone who follows me sees every one of them! Let us help you help us. 
+
+<http://scripting.com/2024/08/28.html#a135724>
+
+---
+
+## Matthew Green on Telegram’s Encryption
+
+date: 2024-08-28, updated: 2024-08-27, from: Bruce Schneier blog
+
+<p>Matthew Green wrote a <a href="https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/">really good blog post</a> on what Telegram&#8217;s encryption is and is not.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/08/matthew-green-on-telegrams-encryption.html>
+
+---
+
+## Office Hours: Should Harris give more details about what she'll do as President? 
+
+date: 2024-08-28, from: Robert Reich's blog
+
+She&#8217;s being criticized for lack of specifics. Is it time for her to put more beef on the bare bones? 
+
+<https://robertreich.substack.com/p/office-hours-should-kamala-spell>
+
+---
+
+## August 27, 2024 
+
+date: 2024-08-28, from: Heather Cox Richardson blog
+
+Sam Stein of The Bulwark reported yesterday that the Trump campaign is about to start running ads in the area around Mar-a-Lago. 
+
+<https://heathercoxrichardson.substack.com/p/august-27-2024>
+
+---
+
+##  Taking Some Time 
+
+date: 2024-08-27, updated: 2024-08-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/taking-some-time>
+
+---
+
+## The globalization of attention
+
+date: 2024-08-27, from: Tracy Durnell Blog
+
+I like this framing &#8212; that attention has been globalized. What he&#8217;s really getting at is the harm of demanding that everything scale. The corporate imperative to scale has infiltrated our understanding of success, till we cannot imagine success without scale. &#160; Related (emphasis mine): I do think the art industry needs to be a [&#8230;] 
+
+<https://tracydurnell.com/2024/08/27/the-globalization-of-attention/>
+
+---
+
+## Monday 26 August, 2024
+
+date: 2024-08-27, from: John Naughton's online diary
+
+Before the Fall Seen on a woodland walk yesterday. Quote of the Day ”Music itself is going to become like running water or electricity. So it&#8217;s like, just take advantage of these last few years because none of this is &#8230; <a href="https://memex.naughtons.org/monday-26-august-2024/39785/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/monday-26-august-2024/39785/>
+
+---
+
+##  Things Become Other Things: A Walking Memoir 
+
+date: 2024-08-27, updated: 2024-08-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/things-become-other-things-a-walking-memoir>
+
+---
+
+##  Edith Zimmerman: &#8220;My main thing is trying to figure out who I... 
+
+date: 2024-08-27, updated: 2024-08-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045189-edith-zimmerman-my-main-t>
+
+---
+
+##  What We Learned In Our First Year of 404 Media. &#8220;We are... 
+
+date: 2024-08-27, updated: 2024-08-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045188-what-we-learned-in-our>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-27, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/09/20/bounce.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Very insightful Greg Sargent <a href="https://newrepublic.com/article/185316/james-carville-trump-deep-troubleand-knows">interview</a> with James Carville. Two take-aways for Democrats. 1. Avoid NPR politics. 2. Appeal to college-educated white men. Most of them vote Republican, but with Walz on the ticket, they have a special ambassador, he represents that straight-talking country folk are part of the Democratic coalition. It's still true that white voters are the majority. Get a small number to vote Democratic could be enough to win the election. It never is about policy. It's about whether you are like them. That's what it means to avoid NPR politics. And btw, imho -- getting the press to like you might not be good. I wonder if the Dems would ever have the courage to sever itself from the journos. Imagine Harris saying "If the press says we're bad you know that means we're good." She could say that in her big interview. 😀 
+
+<http://scripting.com/2024/08/27.html#a175917>
+
+---
+
+##  The TinyAwards have announced the winners of the 2024 competition: One Minute... 
+
+date: 2024-08-27, updated: 2024-08-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045186-the-tinyawards-have-annou>
+
+---
+
+## ‘How Telegram Played Itself’
+
+date: 2024-08-27, updated: 2024-08-27, from: Daring Fireball
+
+ 
+
+<https://www.platformer.news/telegram-durov-arrest-france-explainer/>
+
+---
+
+## Apple Announces Chief Financial Officer Transition
+
+date: 2024-08-27, updated: 2024-08-27, from: Daring Fireball
+
+ 
+
+<https://www.apple.com/newsroom/2024/08/apple-announces-chief-financial-officer-transition/>
+
+---
+
+## Roblox: Hugely Popular, Yet Unprofitable
+
+date: 2024-08-27, updated: 2024-08-27, from: Daring Fireball
+
+ 
+
+<https://www.matthewball.co/all/roblox2024>
+
+---
+
+##  From the School of Public Health at Johns Hopkins, What to Know... 
+
+date: 2024-08-27, updated: 2024-08-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045185-from-the-school-of-public>
+
+---
+
+## Barcelona, Spain
+
+date: 2024-08-27, from: mrusme blog
+
+"Barcelona is a city on the northeastern coast of Spain. It is the capital and
+largest city of the autonomous community of Catalonia, as well as the
+second-most populous municipality of Spain." 
+
+<https://xn--gckvb8fzb.com/travel/spain/barcelona/>
+
+---
+
+##  An extensive report by Erin Kissane and Darius Kazemi on how governance,... 
+
+date: 2024-08-27, updated: 2024-08-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045184-an-extensive-report-by-er>
+
+---
+
+## August 26, 2024
+
+date: 2024-08-27, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-26-2024-72c>
+
+---
+
+##  Oasis is reuniting after 16 years with a 14-stop tour of the... 
+
+date: 2024-08-27, updated: 2024-08-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045183-oasis-is-reuniting-after->
+
+---
+
+## History Extra for August 26, 2024
+
+date: 2024-08-27, from: Heather Cox Richardson blog
+
+After the Fifteenth Amendment recognized in 1870 that keeping Black men from the polls on the grounds of race was unconstitutional, white southern Democrats switched their opposition to Black voting from race to class. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-august-26-2024>
+
+---
+
+## 2024 Optical Media Durability Update
+
+date: 2024-08-27, from: David Rosenthal's blog
+
+Six years ago I posted <a href="https://blog.dshr.org/2018/08/optical-media-durability.html"><i>Optical Media Durability</i></a> and discovered:<br />
+<blockquote class="tr_bq">
+Surprisingly, I'm getting good data from CD-Rs more than 14 years old, and from DVD-Rs nearly 12 years old. Your mileage may vary.</blockquote>
+Here are the subsequent annual updates:<br />
+<ul>
+  <li><a href="https://blog.dshr.org/2019/08/optical-media-durability-update.html">2019</a></li>
+  <li><a href="https://blog.dshr.org/2020/08/optical-media-durability-update.html">2020</a></li>
+  <li><a href="https://blog.dshr.org/2021/08/optical-media-durability-update.html">2021</a></li>
+  <li><a href="https://blog.dshr.org/2022/08/optical-media-durability-update.html">2022</a></li>
+  <li><a href="https://blog.dshr.org/2023/08/optical-media-durability-update.html">2023</a></li>
+</ul>
+It is time once again for the mind-numbing process of feeding 45 disks through the readers to verify their checksums, and yet again this year every single MD5 was successfully verified. Below the fold, the details.<br />
+<a name='more'></a><br />
+<br />
+<table align="right" border="3" cols="5">
+<thead>
+<tr><td>Month</td><td>Media</td><td>Good</td><td>Bad</td><td>Vendor</td>
+</tr>
+</thead>
+<tbody>
+<tr><td>01/04</td><td>CD-R</td><td align="right">5x</td><td align="right">0</td><td>GQ</td></tr>
+<tr><td>05/04</td><td>CD-R</td><td align="right">5x</td><td align="right">0</td><td>Memorex</td></tr>
+<tr><td>02/06</td><td>CD-R</td><td align="right">5x</td><td align="right">0</td><td>GQ</td></tr>
+<tr><td>11/06</td><td>DVD-R</td><td align="right">5x</td><td align="right">0</td><td>GQ</td></tr>
+<tr><td>12/06</td><td>DVD-R</td><td align="right">1x</td><td align="right">0</td><td>GQ</td></tr>
+<tr><td>01/07</td><td>DVD-R</td><td align="right">4x</td><td align="right">0</td><td>GQ</td></tr>
+<tr><td>04/07</td><td>DVD-R</td><td align="right">3x</td><td align="right">0</td><td>GQ</td></tr>
+<tr><td>05/07</td><td>DVD-R</td><td align="right">2x</td><td align="right">0</td><td>GQ</td></tr>
+<tr><td>07/11</td><td>DVD-R</td><td align="right">4x</td><td align="right">0</td><td>Verbatim</td></tr>
+<tr><td>08/11</td><td>DVD-R</td><td align="right">1x</td><td align="right">0</td><td>Verbatim</td></tr>
+<tr><td>05/12</td><td>DVD+R</td><td align="right">2x</td><td align="right">0</td><td>Verbatim</td></tr>
+<tr><td>06/12</td><td>DVD+R</td><td align="right">3x</td><td align="right">0</td><td>Verbatim</td></tr>
+<tr><td>04/13</td><td>DVD+R</td><td align="right">2x</td><td align="right">0</td><td>Optimum</td></tr>
+<tr><td>05/13</td><td>DVD+R</td><td align="right">3x</td><td align="right">0</td><td>Optimum</td></tr>
+</tbody>
+</table>
+The fields in the table are as follows:<br />
+<ul>
+<li><i>Month</i>: The date marked on the media in Sharpie, and verified via the on-disk metadata.</li>
+<li><i>Media</i>: The type of media.</li>
+<li><i>Good</i>: The number of media with this type and date for which all MD5 checksums were correctly verified.</li>
+<li><i>Bad</i>: The number of media with this type and date for which any file failed MD5 verification.</li>
+<li><i>Vendor</i>: the vendor name on the media</li>
+</ul>
+The drives I use from ASUS and LG report significant numbers of read errors from the CDs but verify the MD5s correctly. I didn't notice them reporting any read errors from the DVDs. An off-brand drive fails to read the CDs, but read one of the older DVDs with no read errors.<br />
+<br />
+Surprisingly, with no special storage precautions, generic low-cost media, and consumer drives, I'm getting good data from CD-Rs more than 20 years old, and from DVD-Rs nearly 18 years old. Your mileage may 
+vary. Tune in again next year for another episode.<br />
+<br />
+I also checked my Memorex <a href="https://blog.dshr.org/2021/08/optical-media-durability-update.html?showComment=1632161672704#c889599305877938325">NetBSD1.2 CD</a> written in October 1996. It has checksums generated by <tt>cksum(1)</tt>, all of which verified correctly despite a number of read errors. So that CD-R is delivering good data after nearly 28 years.<br />
+<br /> 
+
+<https://blog.dshr.org/2024/08/2024-optical-media-durability-update.html>
 
 ---
 
@@ -24,6 +293,18 @@ From libraries to factories to college rankings, some things are moving in the r
 The reason I <a href="https://www.threads.net/@davew/post/C_JDUmLpQ06">asked</a> <a href="http://scripting.com/2024/08/26.html#a012926">yesterday</a> if NYT reporters sign NDAs (with the NYT, not sources), then when a reporter leaves the NYT they can write a book about WTF happened at the NYT, and it would be an instant best seller imho. 
 
 <http://scripting.com/2024/08/27.html#a123005>
+
+---
+
+## 
+                Reading the icons of “Quickstart”
+            
+
+date: 2024-08-27, updated: 2024-08-27, from: Uninformative blog
+
+ 
+
+<https://www.uninformativ.de/blog/postings/2024-08-27/0/POSTING-en.html>
 
 ---
 
@@ -475,7 +756,7 @@ date: 2024-08-25, from: Heather Cox Richardson blog
 
 date: 2024-08-25, from: Doc Searls (at Harvard), New Old Blog
 
-On the right is the high school yearbook picture of Allan John Ontko, one of my best friends during the three years we were classmates at what I half-jokingly call a Lutheran academic correctional institution. Because that&#8217;s what it was for me. For most of the boys there, however, it was a seminary. Allan, then [&#8230;] 
+On the right is the high school yearbook picture of Allan John Ontko, one of my best friends during the three years we were classmates at what I half-jokingly call a Lutheran academic correctional institution—because that&#8217;s what it was for me. For most of the boys there, however, it was a seminary. Allan, then known [&#8230;] 
 
 <https://doc.searls.com/2024/08/25/the-organ-builder/>
 
