@@ -1,11 +1,232 @@
 ---
 title: columns 2024.35
-updated: 2024-08-28 08:29:06
+updated: 2024-08-29 07:12:00
 ---
 
 # columns 2024.35
 
-(date: 2024-08-28 08:29:06)
+(date: 2024-08-29 07:12:00)
+
+---
+
+## Standards
+
+date: 2024-08-29, from: Enlightenment Economics blog
+
+Colleen Dunlavy&#8217;s Small, Medium, Large is an interesting and thought provoking read &#8211; and relevant to today&#8217;s debate on industrial policy. It&#8217;s a relatively short book, a history of the emergence of standards in US goods in the 1910s and &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/08/standards/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2024/08/standards/>
+
+---
+
+## To a tiling WM user, apparently other GUIs are like wearing handcuffs
+
+date: 2024-08-29, from: Liam on Linux
+
+&nbsp;This is interesting to me. I am on the other side, and ISTM that the tiling WM folks are the camp you describe.<p>Windows  (2.01) was the 3rd GUI I learned. First was classic MacOS (System 6 and  early System 7.0), then Acorn RISC OS on my own home computer, then  Windows.</p><p>Both MacOS and RISC OS have beautiful, very mouse-centric GUIs where you <i>must</i>  use the mouse for most things. Windows was fascinating because it has  rich, well-thought-out, rational and consistent keyboard controls, and  they work everywhere. In all graphical apps, in the window manager  itself, <i>and on the command line</i>.</p><p>-- Ctrl + a letter is a discrete action: <i>do this thing now</i>.</p><p>-- Alt + a letter opens a menu</p><p>--  Shift moves selects in a continuous range: shift+cursors selects text  or files in a file manager. Shift+mouse selects multiple icons in a  block in a file manager.</p><p>-- Ctrl + mouse selects discontinuously: pick disconnected icons.</p><p>-- These can be combined: shift-select a block, then press ctrl <i>as well</i>  to add some discontinuous entries.</p><p>-- Ctrl + cursor keys moves a word at a time (discontinuous cursor movement).</p><p>-- Shift + ctrl selects a word at a time.</p><p>In the mid-'90s Linux made Unix affordable and I got to know it, and I switched to it early '00s.</p><p>But  it lacks that overall cohesive keyboard UI. Some desktops implement  most of Windows' keyboard UI (Xfce, LXDE, GNOME 2.x), some invent their  own (KDE), many don't have one.</p><p>The shell and editors don't have  any consistency. Each editor has its own set of keyboard controls, and  some environments honour some of them -- but not many because the  keyboard controls for an editor make little sense in a window manager.  What does &quot;insert mode&quot; mean in a file manager?</p><p>They are  keyboard-driven windowing environments built by people who live in  terminals and only know the extremely limited keyboard controls of the  most primitive extant shell environment, one that doesn't honour GUI  keyboard UI because it predates it and so in which every app invents its  own.</p><p>Whereas Windows co-evolved with IBM CUA and deeply embeds it.</p><p>The  result is that all the Linux tiling WMs I've tried annoy me, because  they don't respect the existing Windows-based keystrokes for  manipulating windows. GNOME &gt;=3 mostly doesn't either: keystrokes for  menu manipulation make little sense when you've tried to eliminate  menus from your UI.</p><p>Even the growing-in-trendiness MiracleWM  because the developer doesn't use plain Ubuntu, he uses Kubuntu, and  Kubuntu doesn't respect basic Ubuntu keystrokes like Ctrl+Alt+T for a  terminal, so neither does MiracleWM.</p><p>They are multiple  non-overlapping, non-cohesive, non-uniform keyboard UIs designed by and  for people who never knew how to use a keyboard-driven whole-OS UI  because they didn't know there was one. So they all built their own ones  without knowing that there's 30+ years of prior art for this.</p><p>All these little half-thought-out attempts to build something <i>that already existed</i> but its creators didn't know about it.</p><p>To extend the prisoners-escaping-jail theme:</p><p>Each  only extends the one prisoner cell that inmate knew before they got  out, where the prison cell is an app -- often a text editor but  sometimes it's one game.</p><p>One environment lets you navigate by only going left or straight. To go right, turn left three times! Simple!</p><p>One only lets you navigate in spirals, but you can adjust the size, and toggle clockwise or anticlockwise.</p><p>One is like Asteroids: you pivot your cursor and apply thrust.</p><p>One uses Doom/Quake-style WASD + mouse, because everyone knows that, right? It's the standard!</p><p>One expects you to plug in a joypad controller and use that.</p><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=91647" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<https://liam-on-linux.dreamwidth.org/91647.html>
+
+---
+
+## Georgia on my mind
+
+date: 2024-08-29, from: Robert Reich's blog
+
+Both good news and worrying news 
+
+<https://robertreich.substack.com/p/georgia-on-my-mind>
+
+---
+
+## August 28, 2024 
+
+date: 2024-08-29, from: Heather Cox Richardson blog
+
+Former president Trump appears to have slid further since last night&#8217;s news about a new grand jury&#8217;s superseding indictment of him on charges of trying to overthrow the 2020 presidential election. 
+
+<https://heathercoxrichardson.substack.com/p/august-28-2024>
+
+---
+
+## The Talk Show: ‘Pinkie Swear’
+
+date: 2024-08-29, updated: 2024-08-29, from: Daring Fireball
+
+ 
+
+<https://daringfireball.net/thetalkshow/2024/08/28/ep-407>
+
+---
+
+## The mindset of un-curating
+
+date: 2024-08-29, from: Tracy Durnell Blog
+
+See also: The Homogeneity of Millenial Design Taste Read A Bunch of Pretty Things I Did Not Buy Steered towards wanting The overwhelming loudness of performance Coziness comes from life Series: connecting the indie web Next up: The globalization of attention 
+
+<https://tracydurnell.com/2024/08/28/the-mindset-of-un-curating/>
+
+---
+
+## A New Low
+
+date: 2024-08-28, from: Dan Rather's Steady
+
+Trump disrespects a shrine to American heroes 
+
+<https://steady.substack.com/p/a-new-low>
+
+---
+
+## What to Do With Unwanted Political Spam Texts
+
+date: 2024-08-28, updated: 2024-08-29, from: Daring Fireball
+
+ 
+
+<https://support.apple.com/en-hk/guide/iphone/iph203ab0be4/ios>
+
+---
+
+## Wordle Kitty is colluding
+
+date: 2024-08-28, from: Dave Winer's Scripting News
+
+<p>In the next scene, Wordle Kitty, lithe and slender, and fiercely cute, is doing an AMA on Reddit. </p>
+<p>One of the questions asks if Wordle Kitty knows anyone in the US Government. </p>
+<p>"I don't know anyone in the US Government," she said, "but I do know their kittens!" she concluded. </p>
+<p>This scene is shown on the front page of the NY Times along with the headline "Wordle Kitty is leading an insurrection in DC, other kittens are colluding!"</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/08/28/kittyIsColluding.png"></center>Wordle Kitty is colluding with the Kittens of DC.</div></p>
+ 
+
+<http://scripting.com/2024/08/28/190028.html?title=wordleKittyIsColluding>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-28, from: Dave Winer's Scripting News)
+
+An idea for the Harris campaign. Let me buy some <a href="https://store.kamalaharris.com/">swag</a> and have it sent to 10 of my best friends, esp ones who live in swing states. Plus you get the names and contact info for people at least one of your supporters thought would be a potential Harris voter. I'd send something less presumptuous like <i>When We Fight We Win</i> stickers. Another related idea, let me buy a whole set of promotional materials, kind of like the gift baskets they sell at <a href="https://www.zabars.com/zabars-babka-and-rugelach-crate/C110038.html">Zabar's</a>. 
+
+<http://scripting.com/2024/08/28.html#a183721>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-28, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/11/14/weTryHarder.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Today <a href="https://automattic.com/2024/08/27/shipping-tumblr-and-wordpress/">Automattic announced</a> that they're converting <a href="https://www.google.com/search?q=site%3Ascripting.com+%22tumblr%22">Tumblr</a>, which they <a href="https://techcrunch.com/2019/08/12/verizon-is-selling-tumblr-to-wordpress-parent-automattic/">acquired in 2019</a>, to run on WordPress as its foundation. This could get a simple colorful user-friendly interface for WordPress, something it's needed for a long time. WordPress does everything in its UI, Tumblr has its UI better organized for writers and more casual users. If they can move in this direction, it seems that WordPress could be large part of the emerging <a href="http://scripting.com/2024/08/19/200828.html">social web</a>. 
+
+<http://scripting.com/2024/08/28.html#a182023>
+
+---
+
+## Retcon 1.0
+
+date: 2024-08-28, updated: 2024-08-28, from: Daring Fireball
+
+ 
+
+<https://retcon.app/>
+
+---
+
+## 2024-08-28 Traveller and Mongoose
+
+date: 2024-08-28, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-28-traveller-and-mongoose">2024-08-28 Traveller and Mongoose</h1>
+
+<p>Marc Miller&rsquo;s email was reposted in a few places, like Usenet (oh yes,
+<a href="https://campaignwiki.org/news/article/rec.games.frp.misc/290">it was posted on rec.games.frp.misc</a>!),
+<a href="https://batintheattic.blogspot.com/2024/08/concerning-future-of-traveller.html">Rob Conley&rsquo;s blog</a>,
+and elsewhere. What are your thoughts on it?</p>
+
+<p>I am of two minds. Mongoose has been
+good for Traveller, I think. I liked Mongoose Traveller 1st ed., which
+I ran for a bit, and I have no reason to doubt that the current Mongoose
+Traveller 2nd ed. is as good a system the many other Traveller editions
+out there.</p>
+
+<p>I also have my doubts regarding Mongoose&rsquo;s quality in terms of editing
+– but who am I kidding, these days people are cutting corners all over
+the place and sometimes they&rsquo;re cutting corners in editing. It happens.
+It&rsquo;s the Zeitgeist. I guess in the world of quality assurance Mongoose
+wouldn&rsquo;t actually be all that bad because I&rsquo;m assuming they fix all the
+typos in later printings. 😏</p>
+
+<p>Also they based a lot of follow-up products on the Traveller system and
+what&rsquo;s not to like about more 2d6 systems! 😸</p>
+
+<p>This at least ensures that they remain committed to the basic idea.
+And maybe that means that the PDFs will remain around for much longer.
+That&rsquo;s certainly better than ending up being managed by kids or being
+sold off to the highest bidder after Miller&rsquo;s passing. It&rsquo;s not the
+greatest plan but it&rsquo;s a plan. Wouldn&rsquo;t a real TAS be great? An
+association that had a board elected by its members, the community?
+An association based on Swiss law, like FIFA or the ICRC?
+Anyway, that&rsquo;s a dream and it wouldn&rsquo;t be clear whether
+it would work in the long run so perhaps passing it on to Mongoose
+was the best idea after all.</p>
+
+<p>I wonder if Mongoose has a better succession plan, though. Looking at
+<a href="https://forum.mongoosepublishing.com/threads/state-of-the-mongoose-2023.124344/">State of Mongoose 2023</a>,
+it seems that the whole company is owned by Matthew Sprange.
+Is he so much younger than Marc Miller? What&rsquo;s the
+long term plan, here?</p>
+
+<p>Anyway. Thinking about what happens to our games when we die is a
+good idea.</p>
+
+<p>Perhaps Miller should have slapped a CC-BY-SA 4.0 or a CC0 onto the
+products he owns and said: &ldquo;On the day I die, these licenses go
+into effect immediately.&rdquo;</p>
+
+<p>But that&rsquo;s not how these things go. I suspect some money changed
+hands and that&rsquo;s probably for Miller&rsquo;s best.</p>
+
+<p><a class="tag" href="/search/?q=%23Traveller">#Traveller</a> <a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
+
+<https://alexschroeder.ch/view/2024-08-28-traveller>
+
+---
+
+## August 27, 2024
+
+date: 2024-08-28, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-27-2024-1ce>
+
+---
+
+## Dan Moren on Apple Books
+
+date: 2024-08-28, updated: 2024-08-28, from: Daring Fireball
+
+ 
+
+<https://sixcolors.com/post/2024/08/apple-job-cuts-in-books-are-turning-the-page-in-the-wrong-direction/>
+
+---
+
+## History Extra for August 27, 2024
+
+date: 2024-08-28, from: Heather Cox Richardson blog
+
+Between October 1787 and May 1788, Alexander Hamilton, John Jay, and James Madison anonymously published the Federalist Papers, a series of 85 letters to persuade New Yorkers to ratify the proposed U.S. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-august-27-2024>
+
+---
+
+## Wednesday 28 August, 2024
+
+date: 2024-08-28, from: John Naughton's online diary
+
+The millennial spire A church that is over 900 years old, framed by autumnal leaves. Quote of the Day ”When confronted with magical thinking by dictators, historians feel out of place, like a bridge player invited to judge prestidigitation, say, &#8230; <a href="https://memex.naughtons.org/wednesday-28-august-2024/39795/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-28-august-2024/39795/>
 
 ---
 
@@ -727,8 +948,7 @@ So many people have worked on curbing climate change. What have we got to show f
 
 **@Dave Winer's Scripting News** (date: 2024-08-25, from: Dave Winer's Scripting News)
 
-<a href="https://www.threads.net/@davew/post/C_GmCiXJVBa">My response</a>: "We have no visibility into the inner workings of the NYT. We can't vote them out of office. We can't even rebut them. They rarely carry opposing opinions."
- 
+<a href="https://www.threads.net/@davew/post/C_GmCiXJVBa">My response</a>: "We have no visibility into the inner workings of the NYT. We can't vote them out of office. We can't even rebut them. They rarely carry opposing opinions." 
 
 <http://scripting.com/2024/08/25.html#a183349>
 

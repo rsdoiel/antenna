@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.35
-updated: 2024-08-28 08:29:11
+updated: 2024-08-29 07:12:05
 ---
 
 # retro computing 2024.35
 
-(date: 2024-08-28 08:29:11)
+(date: 2024-08-29 07:12:05)
+
+---
+
+## b.log 2024/08/28 - Green traffic lights aren't green, Oh... My..., Oasis reunion, Doddery old gits in the checkout line.
+
+date: 2024-08-28, from: Richard Murray's blog
+
+Green traffic lights aren't green, Oh... My..., Oasis reunion, Doddery old gits in the checkout line. 
+
+<https://heyrick.eu/blog/index.php?diary=20240828>
+
+---
+
+## Linux Market Share Hits New High
+
+date: 2024-08-28, from: Linux Magazine
+
+<p>For the first time, the Linux market share has reached a new high for desktops, and the trend looks like it will continue.</p> 
+
+<http://www.linux-magazine.com/Online/News/Linux-Market-Share-Hits-New-High>
 
 ---
 

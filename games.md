@@ -1,11 +1,111 @@
 ---
 title: games 2024.35
-updated: 2024-08-28 08:29:08
+updated: 2024-08-29 07:12:02
 ---
 
 # games 2024.35
 
-(date: 2024-08-28 08:29:08)
+(date: 2024-08-29 07:12:02)
+
+---
+
+## How Hollowbody’s developer draws on Silent Hill’s legacy to craft a new generation of horrors
+
+date: 2024-08-29, updated: 2024-08-29, from: Polygon Website
+
+There’s a lot of exciting games slated to be released this fall, including the upcoming current-gen remasters and remakes of survival horror favorites Dead Rising and Silent Hill 2. For my money, though, I’m less excited for the standard AAA tentpole releases and more intrigued by the comparatively smaller, but no less ambitious, indie passion [&#8230;] 
+
+<https://www.polygon.com/gaming/445539/how-hollowbodys-developer-draws-on-silent-hills-legacy-to-craft-a-new-generation-of-horrors>
+
+---
+
+## This Lord of the Rings Middle-earth map will help you navigate The Rings of Power
+
+date: 2024-08-29, updated: 2024-08-29, from: Polygon Website
+
+The Lord of the Rings: The Rings of Power is officially back for season 2… and bringing the Middle-earth map energy. With cartography baked right into the filmmaking, the Amazon series is true mapcore, the plot jumping back and forth between everywhere from the elven realm of Lindon to the newly formed Mordor. As it [&#8230;] 
+
+<https://www.polygon.com/23331136/lord-of-the-rings-middle-earth-map-rings-of-power>
+
+---
+
+## The 25 best games on Game Pass
+
+date: 2024-08-29, updated: 2024-08-29, from: Polygon Website
+
+Microsoft’s Game Pass subscription service is set for another great year in 2024, with over 450 games now available for console players and over 400 for PC players. The service has recently been bolstered with the addition of two huge Xbox Game Studios exclusives, Starfield and Forza Motorsport. Blockbuster titles are well represented with the [&#8230;] 
+
+<https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox>
+
+---
+
+## The Shadow Strays trailer heralds the return of action savant Timo Tjahjanto
+
+date: 2024-08-29, updated: 2024-08-29, from: Polygon Website
+
+Timo Tjahjanto is a gift. The Indonesian director has carved out a career minting propulsive, relentless action at every filmmaking price point. 2018&#8217;s The Night Comes for Us was a major breakthrough on Netflix, kicking off a deal that has made him a low-key star on the platform — and his next thriller is headed [&#8230;] 
+
+<https://www.polygon.com/action/445650/shadow-strays-trailer-netflix-timo-tjahjanto>
+
+---
+
+## World of Warcraft might finally have nailed solo dungeons with Delves
+
+date: 2024-08-29, updated: 2024-08-28, from: Polygon Website
+
+A tension inherent in massively multiplayer role-playing games like World of Warcraft is that a lot of the biggest narrative moments, the coolest scenarios, and the most refined design — not to mention the best loot — goes into content that isn’t so easy for all players to enjoy. Multiplayer dungeons and raids are nearly [&#8230;] 
+
+<https://www.polygon.com/world-of-warcraft/445135/wow-war-within-delves>
+
+---
+
+## Rings of Power&#8217;s the Stranger actor digs into his own mystery and the Tom Bombadil of it all
+
+date: 2024-08-29, updated: 2024-08-29, from: Polygon Website
+
+Who is the Stranger? The Lord of the Rings: The Rings of Power creators J.D. Payne and Patrick McKay laid the groundwork for an overarching mystery in season 1 and don&#8217;t seem keen to reveal anything too early in season 2. But actor Daniel Weyman tells Polygon an encounter later in this season may not [&#8230;] 
+
+<https://www.polygon.com/lotr-rings-of-power/445177/lord-rings-powers-who-stranger-season-2-tom-bombadil-interview>
+
+---
+
+## Garth Nix’s Dungeons &#038; Dragons fandom is all over his upcoming alien-invasion book
+
+date: 2024-08-28, updated: 2024-08-28, from: Polygon Website
+
+Fantasy author Garth Nix isn’t primarily known for his connection to Dungeons &#38; Dragons, but it’s something geeky journalists can’t stop asking him about. Best known as the author of the Old Kingdom YA novels&#160; (Sabriel, Lirael, Abhorsen, and more), Nix has also written everything from children’s picture books to adult short fiction —&#160;and articles [&#8230;] 
+
+<https://www.polygon.com/dnd-dungeons-dragons/444967/garth-nix-interview-excerpt-10-year-old-overlord>
+
+---
+
+## How to unlock the Choir of One Exotic Catalysts in Destiny 2
+
+date: 2024-08-28, updated: 2024-08-28, from: Polygon Website
+
+The Choir of One Exotic Catalysts are locked behind a quest chain in Destiny 2 called “//Choir: Eternal.” You’ll need to complete the “Encore” Exotic mission once to access it and then find an array of secret chests to complete it. In this Destiny 2 guide, we’ll teach you how to unlock the Subsistence Catalyst [&#8230;] 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/445174/catalyst-quest-choir-of-one-encore-secret-chests>
+
+---
+
+## How to complete the ‘Encore’ Exotic mission and earn Choir of One in Destiny 2
+
+date: 2024-08-28, updated: 2024-08-28, from: Polygon Website
+
+The “Encore” Exotic mission is the big finale of Destiny 2’s first episode, “Echoes.” In it, you’ll dive into a Vex-infested jungle to take on The Conductor and earn yourself the first special weapon auto rifle in the Destiny franchise, Choir of One. In this Destiny 2 guide, we’ll walk you through how to complete [&#8230;] 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/444098/choir-of-one-exotic-encore-mission-walkthrough>
+
+---
+
+## My favorite mic is on sale for its lowest price ever
+
+date: 2024-08-28, updated: 2024-08-28, from: Polygon Website
+
+I tend to rotate through the peripherals that occupy the drawers and closets of my home office pretty frequently, so something has to be pretty special to get a permanent place on my desk. One item in particular, the Logitech G Yeti GX microphone, has definitely earned it. This capsule-shaped condenser mic is usually priced [&#8230;] 
+
+<https://www.polygon.com/good-deals/445484/logitech-yeti-gx-microphone-streaming-amazon-deal-sale>
 
 ---
 

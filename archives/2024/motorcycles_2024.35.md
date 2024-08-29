@@ -1,15 +1,95 @@
 ---
 title: motorcycles 2024.35
-updated: 2024-08-28 08:29:11
+updated: 2024-08-29 07:12:04
 ---
 
 # motorcycles 2024.35
 
-(date: 2024-08-28 08:29:11)
+(date: 2024-08-29 07:12:04)
 
 ---
 
-## Good Luck Finding a Race Weekend Like MotoAmerica, Nothing Beats It
+## Motorcyclist Tries to Out-Run Police Helicopter, Ends Exactly How You'd Think
+
+date: 2024-08-29, from: Ride Apart, Electric Motorcycle News
+
+Don't do the crime if you don't have the skills. That's the saying, right? 
+
+<https://www.rideapart.com/news/731688/motorcycle-police-helicopter-chase-video/>
+
+---
+
+## CFMoto's New Go-Fast UTVs Look Solid, May Give Polaris and Can-Am a Headache
+
+date: 2024-08-29, from: Ride Apart, Electric Motorcycle News
+
+I wish to know more. 
+
+<https://www.rideapart.com/news/731674/cfmoto-zforce-z10-utv-side-by-side-debut/>
+
+---
+
+## Quit Teasing Everyone, Honda Needs to Launch The GB350C Outside Japan
+
+date: 2024-08-29, from: Ride Apart, Electric Motorcycle News
+
+An awful lot of enthusiasts in Europe and elsewhere would love to see this thing in their home markets. 
+
+<https://www.rideapart.com/news/731681/honda-gb350c-japan-coming-soon/>
+
+---
+
+## No, We Don’t Need Self-Adjusting Pedals On Our Bicycles or Motorcycles
+
+date: 2024-08-29, from: Ride Apart, Electric Motorcycle News
+
+But could this tech potentially be useful on motorcycles and other powersports vehicles, too?  
+
+<https://www.rideapart.com/news/731544/shimano-patent-self-adjusting-bike-pedals/>
+
+---
+
+## Will Aprilia Make More Small Displacement Bikes? The RS 457 Points the Way
+
+date: 2024-08-29, from: Ride Apart, Electric Motorcycle News
+
+I’d love to see a Dorsoduro 457, or maybe even a Shiver 457.  
+
+<https://www.rideapart.com/news/731549/aprilia-rs457-new-entry-level-platform/>
+
+---
+
+## This EV Quad Is Cheaper Than a Honda Navi, But Is It Any Good?
+
+date: 2024-08-29, from: Ride Apart, Electric Motorcycle News
+
+Less cash spent on your ride = more bank for sweet upgrades, right? 
+
+<https://www.rideapart.com/news/731672/ev-quad-kayo-ea110-atv/>
+
+---
+
+## Yamaha's MT-09 SP Is The Ultimate One-Bike Garage
+
+date: 2024-08-29, from: Ride Apart, Electric Motorcycle News
+
+There might be a better one-bike garage solution, but not for $12,299. 
+
+<https://www.rideapart.com/news/731658/2024-yamaha-mt-09-sp-review/>
+
+---
+
+## ARCA Menards West Series: Takuma Koga Making History
+
+date: 2024-08-28, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires Japanese driver Takuma Koga has been a regular in the NASCAR West Series (now the ARCA Menards West Series) since his debut&#8230;  
+
+<https://kickinthetires.net/nascar/arca-menards-west-series-takuma-koga-making-history/>
+
+---
+
+## Good Luck Finding a Race Weekend Like MotoAmerica
 
 date: 2024-08-28, from: Ride Apart, Electric Motorcycle News
 
@@ -49,7 +129,7 @@ Go big, go loud.
 
 ---
 
-## Almost Every LiveWire S2 Has Been Recalled, Could Suddenly Stop Moving
+## Almost Every LiveWire S2 Motorcycle Has Been Recalled
 
 date: 2024-08-28, from: Ride Apart, Electric Motorcycle News
 
@@ -69,7 +149,7 @@ More people enjoying off-roading is always a good thing.
 
 ---
 
-## Stop Hating, Honda's E-Clutch Is Actually Great
+## Honda's E-Clutch Motorcycle Is Actually Great
 
 date: 2024-08-28, from: Ride Apart, Electric Motorcycle News
 

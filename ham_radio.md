@@ -1,11 +1,23 @@
 ---
 title: ham radio 2024.35
-updated: 2024-08-28 08:29:05
+updated: 2024-08-29 07:11:58
 ---
 
 # ham radio 2024.35
 
-(date: 2024-08-28 08:29:05)
+(date: 2024-08-29 07:11:58)
+
+---
+
+## Beaming solar power to Earth: feasible or fantasy?
+
+date: 2024-08-29, from: EDN Blog
+
+<img width="500" height="332" src="https://www.edn.com/wp-content/uploads/Power-Points-Blog162_beamed-solar-power_Fig2.png?fit=500%2C332" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Power-Points-Blog162_beamed-solar-power_Fig2.png?w=500 500w, https://www.edn.com/wp-content/uploads/Power-Points-Blog162_beamed-solar-power_Fig2.png?w=300 300w" sizes="(max-width: 500px) 100vw, 500px" /><p>Harvesting solar power via orbiting satellites which beam it down seems like a great idea, until you dive into the details.</p>
+<p>The post <a href="https://www.edn.com/beaming-solar-power-to-earth-feasible-or-fantasy/" data-wpel-link="internal">Beaming solar power to Earth: feasible or fantasy?</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/beaming-solar-power-to-earth-feasible-or-fantasy/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2024-08-28 08:29:05
 
 date: 2024-08-28, from: EDN Blog
 
-<img width="4080" height="3072" src="https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?fit=4080%2C3072" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?w=4080 4080w, https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?w=2850 2850w" sizes="(max-width: 4080px) 100vw, 4080px" /><p>Creeping developer elegance, coupled with implementer verbiage inconsistency and vagueness, leads to consumer chaos.</p>
+<img width="4080" height="3072" src="https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?fit=4080%2C3072" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?w=4080 4080w, https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Makerfire_USB-tester.jpg?w=2850 2850w" sizes="(max-width: 4080px) 100vw, 4080px" /><p>Creeping developer elegance, coupled with implementer verbiage inconsistency and vagueness, leads to consumer chaos.</p>
 <p>The post <a href="https://www.edn.com/usb-3-how-did-it-end-up-being-so-messy/" data-wpel-link="internal">USB 3: How did it end up being so messy?</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

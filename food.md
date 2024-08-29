@@ -1,11 +1,155 @@
 ---
 title: food 2024.35
-updated: 2024-08-28 08:29:13
+updated: 2024-08-29 07:12:07
 ---
 
 # food 2024.35
 
-(date: 2024-08-28 08:29:13)
+(date: 2024-08-29 07:12:07)
+
+---
+
+## Spicy Pulled Pork Tacos With Sweet Salsa
+
+date: 2024-08-29, from: Pepper Scale
+
+Mixing spicy and sweet is always a favorite combo of ours. Take these slow cooker pulled pork tacos. The pork gets some serious smoky heat through a healthy portion of chipotle peppers with adobo sauce. And the salsa&#160;made with cherries and peaches just complements it ... <p class="read-more-container"><a title="Spicy Pulled Pork Tacos With Sweet Salsa" class="read-more button" href="https://pepperscale.com/pulled-pork-tacos/#more-4204" aria-label="Read more about Spicy Pulled Pork Tacos With Sweet Salsa">Read more</a></p> 
+
+<https://pepperscale.com/pulled-pork-tacos/>
+
+---
+
+## What’s A Good Calabrian Pepper Substitute?
+
+date: 2024-08-29, from: Pepper Scale
+
+Calabrian peppers are packed with flavor — smoky, fruity, and even a touch salty. Its depth is part of its culinary charm. So, where do you turn when you need a Calabrian pepper substitute? Which chilies match well in terms of flavor? Which are your ... <p class="read-more-container"><a title="What&#8217;s A Good Calabrian Pepper Substitute?" class="read-more button" href="https://pepperscale.com/calabrian-pepper-substitute/#more-91476" aria-label="Read more about What&#8217;s A Good Calabrian Pepper Substitute?">Read more</a></p> 
+
+<https://pepperscale.com/calabrian-pepper-substitute/>
+
+---
+
+## Spicy Korean Meatballs
+
+date: 2024-08-29, from: Pepper Scale
+
+Korean meatballs are full of exotic flavors &#8211; ginger and sesame oil provide a delicious Asian flair. But the true star of these meatballs is gochujang. This miso-based Korean chili paste provides both an earthy and pungent fire to the flavor. They are hot, but ... <p class="read-more-container"><a title="Spicy Korean Meatballs" class="read-more button" href="https://pepperscale.com/korean-meatballs/#more-32586" aria-label="Read more about Spicy Korean Meatballs">Read more</a></p> 
+
+<https://pepperscale.com/korean-meatballs/>
+
+---
+
+## Spicy Blueberry Salsa
+
+date: 2024-08-29, from: Pepper Scale
+
+Blueberries and jalapeño peppers — a surprising pair that&#8217;ll definitely bring a smile to your face! When you pair the crisp berry taste with that bright medium heat of jalapeño, you&#8217;ve got a very special salsa for sultry summer months. Spicy blueberry salsa is a ... <p class="read-more-container"><a title="Spicy Blueberry Salsa" class="read-more button" href="https://pepperscale.com/blueberry-salsa/#more-3007" aria-label="Read more about Spicy Blueberry Salsa">Read more</a></p> 
+
+<https://pepperscale.com/blueberry-salsa/>
+
+---
+
+## Old Bay Hot Sauce Review
+
+date: 2024-08-29, from: Pepper Scale
+
+If you’re an Old Bay addict, here’s a hot sauce you’ll want to know. McCormick announced in February 2020 that they would be releasing a limited edition Old Bay Hot Sauce, and it sold out quickly. And it appears to be here to stay. So, ... <p class="read-more-container"><a title="Old Bay Hot Sauce Review" class="read-more button" href="https://pepperscale.com/old-bay-hot-sauce/#more-84072" aria-label="Read more about Old Bay Hot Sauce Review">Read more</a></p> 
+
+<https://pepperscale.com/old-bay-hot-sauce/>
+
+---
+
+## The 10 Most Popular Recipes of August 2024
+
+date: 2024-08-29, from: Bon Appetet
+
+Including crispy corn fritters, grilled arayes, and basil fried rice. 
+
+<https://www.bonappetit.com/gallery/most-popular-recipes-august-2024>
+
+---
+
+## The Indonesian Restaurant Where Dessert Comes First
+
+date: 2024-08-29, from: Bon Appetet
+
+At Pasar in Portland, Oregon, an array of bright and subtly sweet kue are intended to be eaten throughout a savory feast. 
+
+<https://www.bonappetit.com/story/pasar-restaurant-desserts-portland-oregon>
+
+---
+
+## Caldo de Camaron
+
+date: 2024-08-29, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/caldo-de-camaron/"><img title="caldo-de-camaron-small-7" src="https://www.isabeleats.com/wp-content/uploads/2024/08/caldo-de-camaron-small-7-400x600.jpg" alt="Caldo de Camron" width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	This Caldo de Camaron, or Mexican shrimp soup, is filled with layers of flavor made from a homemade shrimp broth, toasted chile sauce, juicy fresh shrimp, and vegetables like carrots and potatoes. Pair it with homemade corn tortillas for a warm and satisfying Mexican meal.&#160; I didn’t grow up eating a lot of seafood since [&#8230;] 
+
+<https://www.isabeleats.com/caldo-de-camaron/>
+
+---
+
+## Marie Sharp’s Habanero Pepper Sauce Review
+
+date: 2024-08-29, from: Pepper Scale
+
+Carrots and habaneros are always a surprisingly tasty pairing: earthy-sweet and fiery. And that’s what’s behind Marie Sharp’s Habanero Pepper Sauce. It’s chock full of flavor, but how well is its heat balanced? And are carrot-based hot sauces like this as usable as other more ... <p class="read-more-container"><a title="Marie Sharp’s Habanero Pepper Sauce Review" class="read-more button" href="https://pepperscale.com/marie-sharps-habanero-pepper-sauce/#more-90870" aria-label="Read more about Marie Sharp’s Habanero Pepper Sauce Review">Read more</a></p> 
+
+<https://pepperscale.com/marie-sharps-habanero-pepper-sauce/>
+
+---
+
+## Strawberry Popsicles
+
+date: 2024-08-28, from: Taste of Home
+
+Quick and easy homemade strawberry popsicles are the best way to beat summer heat. A splash of lemon juice helps to balance the sweetness in these bright red treats. 
+
+<https://www.tasteofhome.com/recipes/strawberry-popsicles/>
+
+---
+
+## Soy-Marinated Eggs
+
+date: 2024-08-28, from: Bon Appetet
+
+What’s better than a jammy egg? One that’s been sitting in a tangy-salty marinade. 
+
+<https://www.bonappetit.com/recipe/soy-marinated-eggs>
+
+---
+
+## 64 Labor Day Sales 2024 for Your Kitchen, Backyard, and Beyond
+
+date: 2024-08-28, from: Bon Appetet
+
+Le Creuset Dutch ovens, air fryers, and Weber grills—all on sale. 
+
+<https://www.bonappetit.com/story/labor-day-sales-2024>
+
+---
+
+## Rhubarb Dump Cake
+
+date: 2024-08-28, from: Taste of Home
+
+This rhubarb dump cake couldn't be easier to make, but the result will be a dessert with a complex and truly unique flavor profile, at once tart, sweet and rich. 
+
+<https://www.tasteofhome.com/recipes/rhubarb-dump-cake/>
+
+---
+
+## Cookie Dough Ice Cream
+
+date: 2024-08-28, from: Taste of Home
+
+In our opinion, the best cookie dough ice cream has cookie dough pieces in every bite, with a scattering of mini chocolate chips for extra goodness. Of course, we made sure that our own recipe lives up to those standards. 
+
+<https://www.tasteofhome.com/recipes/cookie-dough-ice-cream-2/>
 
 ---
 
@@ -159,6 +303,16 @@ These knives are sharp, affordable, and extremely well-made.
 
 ---
 
+## Copycat Starbucks Pumpkin Spice Frappuccino
+
+date: 2024-08-27, from: Taste of Home
+
+Whip up this copycat Starbucks pumpkin spice Frappuccino when you don't want to wait in line but the urge for a pumpkin spice latte is strong. 
+
+<https://www.tasteofhome.com/recipes/copycat-starbucks-pumpkin-spice-frappuccino/>
+
+---
+
 ## Is Spicy A Flavor? Fact Or Fiction
 
 date: 2024-08-27, from: Pepper Scale
@@ -189,7 +343,7 @@ This comedian created an apple ranking system so no one ever has to "eat a trash
 
 ---
 
-## 5 Best Plant-of-the-Month Clubs for Budding Plant Parents (And Pros)
+## 5 Best Plant of the Month Clubs for Budding Plant Parents (And Pros)
 
 date: 2024-08-27, from: Taste of Home
 

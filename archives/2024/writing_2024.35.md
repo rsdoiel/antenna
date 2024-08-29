@@ -1,11 +1,68 @@
 ---
 title: writing 2024.35
-updated: 2024-08-28 08:29:08
+updated: 2024-08-29 07:12:01
 ---
 
 # writing 2024.35
 
-(date: 2024-08-28 08:29:08)
+(date: 2024-08-29 07:12:01)
+
+---
+
+## Forthcoming Books Through June 2025
+
+date: 2024-08-28, from: Locus Magazine
+
+<p>The Locus Selected Books by Author list has been updated on our <strong>Forthcoming Books</strong> page, with information from the September 2024 issue covering upcoming titles from genre houses slated through June 2025. Find out about your favorite authors&#8217; upcoming books!</p>
+<p>For the complete list of books by publisher, subscribe to our print magazine or purchase the September issue in print or digital editions, available September 1, 2024.</p>
+
+<p><strong>While you are </strong> <a href="https://locusmag.com/2024/08/forthcoming-books-through-june-2025/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/forthcoming-books-through-june-2025/>
+
+---
+
+## Making Christian movies
+
+date: 2024-08-28, from: Interesting, a blog on writing
+
+Or any films for a focused specialty audience. 
+
+<https://inneresting.substack.com/p/making-christian-movies>
+
+---
+
+## 2024 Kirkus Prize Finalists
+
+date: 2024-08-28, from: Locus Magazine
+
+<p>Kirkus has announced finalists for their 2024 prizes. Authors and titles of genre interest follow.</p>
+<div class="mynomorebulletlist">
+<p><strong>Fiction</strong></p>
+<ul>
+<li><strong>The Mighty Red</strong>, Louise Erdrich (Harper)</li>
+<li><strong>James</strong>, Percival Everett (Doubleday)</li>
+<li><strong>Prophet Song</strong>, Paul Lynch (Atlantic)</li>
+<li><strong>Playground</strong>, Richard Powers (Norton)</li>
+</ul>
+<p><strong>Young Adult</strong></p>
+<ul>
+<li><strong>Bright Red Fruit</strong>, Safia Elhillo (Make Me A World)</li>
+</ul>
+<p>Other categories include Nonfiction, Picture Book, and Middle-Grade. &#8220;Each award comes with a $50,000 cash prize. Books become eligible </p></div> <a href="https://locusmag.com/2024/08/2024-kirkus-prize-finalists/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/2024-kirkus-prize-finalists/>
+
+---
+
+## Jake Casella Brookins Reviews Toward Eternity by Anton Hur
+
+date: 2024-08-28, from: Locus Magazine
+
+<p><strong>Toward Eternity, </strong>Anton Hur (HarperVia 978-0-06334-448-8, 256pp, $26.99, hc) July 2024. Cover by Stephen Brayda.</p>
+<p>Initially set in a near-future Cape Town, South Africa, and eventually taking us to ever more distant times and locales, Anton Hur’s debut novel <strong>Toward Eternity </strong>begins with scientist Mali Beeko confronting the mysterious disappearance and reapparance of “Patient One.” Mali specializes in a nanotechnology treatment that cures cancer by replacing the host’s cells with  <a href="https://locusmag.com/2024/08/jake-casella-brookins-reviews-toward-eternity-by-anton-hur/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/jake-casella-brookins-reviews-toward-eternity-by-anton-hur/>
 
 ---
 

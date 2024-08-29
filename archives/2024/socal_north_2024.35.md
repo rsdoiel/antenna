@@ -1,11 +1,373 @@
 ---
 title: socal north 2024.35
-updated: 2024-08-28 08:29:03
+updated: 2024-08-29 07:11:56
 ---
 
 # socal north 2024.35
 
-(date: 2024-08-28 08:29:03)
+(date: 2024-08-29 07:11:56)
+
+---
+
+## Your SoCal weather report for Thursday, Aug. 29: Below normal temps bring another cool day to the Southland
+
+date: 2024-08-29, updated: 2024-08-29, from: The LAist
+
+Enjoy the cooler weather before a weekend warm up. 
+
+<https://laist.com/news/climate-environment/la-weather-report-august-29-below-normal-weather-cool-down>
+
+---
+
+## LA Superior Court Judges: Tips for choosing a judge in the Nov. 5 election
+
+date: 2024-08-29, updated: 2024-08-29, from: The LAist
+
+Evaluating judicial candidates is notoriously hard, but there are a few pieces of information you can look at to help with your decision. 
+
+<https://laist.com/news/politics/2024-election-california-general-los-angeles-county-superior-court-judge>
+
+---
+
+## LA needs more wildlife crossings. Will private donors help pay for it?
+
+date: 2024-08-29, updated: 2024-08-29, from: The LAist
+
+A new effort to create more wildlife crossings in LA and throughout the state seeks to raise hundreds of millions in private funding. 
+
+<https://laist.com/news/climate-environment/wildlife-crossings-california-public-private-partnership>
+
+---
+
+## Decision approaches for legacy admissions bill
+
+date: 2024-08-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC no longer inquires about a student’s legacy status in the CommonApp.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/29/decision-approaches-for-legacy-admissions-bill/">Decision approaches for legacy admissions bill</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/29/decision-approaches-for-legacy-admissions-bill/>
+
+---
+
+## Classifieds – August 29, 2024
+
+date: 2024-08-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/29/classifieds-august-29-2024/">Classifieds &#8211; August 29, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/29/classifieds-august-29-2024/>
+
+---
+
+## USC switches over to Handshake
+
+date: 2024-08-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University plans to use Handshake to track the top employers of Trojans.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/29/213205/">USC switches over to Handshake</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/29/213205/>
+
+---
+
+## Legacy sequels will stay unpredictable forever
+
+date: 2024-08-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>With the release of “Beetlejuice Beetlejuice” fast approaching, let’s examine how Hollywood’s other follow-ups have performed this year.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/29/legacy-sequels-will-stay-unpredictable-forever/">Legacy sequels will stay unpredictable forever</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/29/legacy-sequels-will-stay-unpredictable-forever/>
+
+---
+
+## ‘Alien: Romulus’ creators speak on tradition, history
+
+date: 2024-08-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Federico Álvarez and Rodo Sayagues discussed the film at Norris Cinema Theater.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/29/alien-romulus-creators-speak-on-tradition-history/">‘Alien: Romulus’ creators speak on tradition, history</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/29/alien-romulus-creators-speak-on-tradition-history/>
+
+---
+
+## Taper your expectations for USC football
+
+date: 2024-08-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans aren’t ready for the CFP, but that doesn’t mean they’ll be in the depths of the Big Ten.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/29/taper-your-expectations-for-usc-football/">Taper your expectations for USC football</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/29/taper-your-expectations-for-usc-football/>
+
+---
+
+## USC isn’t giving you the education you’re paying for
+
+date: 2024-08-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>SCA adjunct faculty lost income and insurance — and it’s driving them away.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/29/is-usc-giving-you-the-education-youre-paying-for/">USC isn&#8217;t giving you the education you’re paying for</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/29/is-usc-giving-you-the-education-youre-paying-for/>
+
+---
+
+## How LA sustains mass incarceration
+
+date: 2024-08-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Despite a progressive image, the county dehumanizes people in prisons and jails.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/29/how-la-sustains-mass-incarceration/">How LA sustains mass incarceration</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/29/how-la-sustains-mass-incarceration/>
+
+---
+
+## Women’s volleyball ready to start fresh in the Big Ten
+
+date: 2024-08-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans will begin their 2024 campaign Aug. 30 on the road at Pepperdine.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/29/womens-volleyball-ready-to-start-fresh-in-the-big-ten/">Women’s volleyball ready to start fresh in the Big Ten</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/29/womens-volleyball-ready-to-start-fresh-in-the-big-ten/>
+
+---
+
+## Kitchen To Go Entrega Comidas Recién Preparadasa los Necesitados
+
+date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Kitchen-To-Go_SN_07-scaled-e1724908777592.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Kitchen-To-Go_SN_07-scaled-e1724908777592.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Kitchen-To-Go_SN_07-scaled-e1724908777592.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Kitchen-To-Go_SN_07-scaled-e1724908777592.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Kitchen-To-Go_SN_07-scaled-e1724908777592.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Kitchen To Go (KTG) no es cualquier servicio de comida: todos los días preparan casi 2,000 comidas frescas para personas sin hogar, ancianos y estudiantes de bajos ingresos en las [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/28/kitchen-to-go-entrega-comidas-recien-preparadasa-los-necesitados/">Kitchen To Go Entrega Comidas Recién Preparadasa los Necesitados</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/28/kitchen-to-go-entrega-comidas-recien-preparadasa-los-necesitados/>
+
+---
+
+## La Cocina de Hope the Mission Ofrece Comidas Frescas y Segundas Oportunidades
+
+date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Cuando Raymond Mendoza crecía en el condado de San Luis Obispo, a lo largo de la costa central de California, tuvo una buena educación. Pero una serie de malas decisiones [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/28/la-cocina-de-hope-the-mission-ofrece-comidas-frescas-y-segundas-oportunidades/">La Cocina de Hope the Mission Ofrece Comidas Frescas y Segundas Oportunidades</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/28/la-cocina-de-hope-the-mission-ofrece-comidas-frescas-y-segundas-oportunidades/>
+
+---
+
+## Horóscopo
+
+date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Si bien la capacidad de ver las cosas desde varias perspectivas es la esencia del pensamiento crítico, la [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/28/horoscopo-178/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/28/horoscopo-178/>
+
+---
+
+## EVENTOS Locales – Semana de 29 de agosto, 2024
+
+date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Agosto 30 Concierto de Verano en West Lakeside Street Park West Lakeside Street Park 15625 Bledsoe St. Sylmar 5 p.m. – 9 p.m. Únase a nosotros para un concierto [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/28/eventos-locales-semana-de-29-de-agosto-2024/">EVENTOS Locales &#8211; Semana de 29 de agosto, 2024</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/28/eventos-locales-semana-de-29-de-agosto-2024/>
+
+---
+
+## Docuserie – The Chicano Squad se Estrena en A&E el 2 de Septiembre
+
+date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="900" height="506" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?fit=900%2C506&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?fit=900%2C506&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Para el abogado de entretenimiento Sergio Selvera, su padre José es un verdadero héroe. Selvera padre fue miembro fundador de la primera unidad de homicidios totalmente latina en Houston, que [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/28/docuserie-the-chicano-squad-se-estrena-en-ae-el-2-de-septiembre/">Docuserie &#8211; The Chicano Squad se Estrena en A&amp;E el 2 de Septiembre</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/28/docuserie-the-chicano-squad-se-estrena-en-ae-el-2-de-septiembre/>
+
+---
+
+## El Jefe del SFPD Hace Reuniones de Vigilancia Comunitaria Después de la Reciente Ola de Crímenes
+
+date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="625" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?fit=1024%2C625&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=300%2C183&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=1024%2C625&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=768%2C468&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=1536%2C937&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=1200%2C732&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=1568%2C956&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=400%2C244&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=706%2C431&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?fit=1024%2C625&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>En respuesta a una serie de robos, un homicidio en la tienda Autozone el 1 de agosto y el arresto local de un sospechoso de asesinato de alto perfil en [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/28/el-jefe-del-sfpd-hace-reuniones-de-vigilancia-comunitaria-despues-de-la-reciente-ola-de-crimenes/">El Jefe del SFPD Hace Reuniones de Vigilancia Comunitaria Después de la Reciente Ola de Crímenes</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/28/el-jefe-del-sfpd-hace-reuniones-de-vigilancia-comunitaria-despues-de-la-reciente-ola-de-crimenes/>
+
+---
+
+## La Feria Comunitaria de Arleta Hace Que los Recursos de Atención Médica Sean Más Accesibles Para los Residentes Locales
+
+date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Más de 20 compañías de atención médica y organizaciones comunitarias instalaron puestos en un estacionamiento de Walgreens en Arleta para una feria de salud inaugural para proporcionar un acceso más [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/28/la-feria-comunitaria-de-arleta-hace-que-los-recursos-de-atencion-medica-sean-mas-accesibles-para-los-residentes-locales/">La Feria Comunitaria de Arleta Hace Que los Recursos de Atención Médica Sean Más Accesibles Para los Residentes Locales</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/28/la-feria-comunitaria-de-arleta-hace-que-los-recursos-de-atencion-medica-sean-mas-accesibles-para-los-residentes-locales/>
+
+---
+
+## La Segunda Cumbre Anual Sobre Opioides Fomenta la Colaboración en la Lucha Contra la Epidemia Mortal
+
+date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?w=1675&amp;ssl=1 1675w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Un día después del Día Nacional de Prevención y Concientización sobre el Fentanilo, el 22 de agosto, la Coalición contra las Pandillas del Valle de San Fernando (SFVCOG, por sus [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/28/la-segunda-cumbre-anual-sobre-opioides-fomenta-la-colaboracion-en-la-lucha-contra-la-epidemia-mortal/">La Segunda Cumbre Anual Sobre Opioides Fomenta la Colaboración en la Lucha Contra la Epidemia Mortal</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/28/la-segunda-cumbre-anual-sobre-opioides-fomenta-la-colaboracion-en-la-lucha-contra-la-epidemia-mortal/>
+
+---
+
+## Se Entregaron Aires Acondicionados Gratuitos en el Centro de Adultos Mayores de Pacoima
+
+date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="857" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?fit=857%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=251%2C300&amp;ssl=1 251w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=857%2C1024&amp;ssl=1 857w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=768%2C918&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=1285%2C1536&amp;ssl=1 1285w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=1713%2C2048&amp;ssl=1 1713w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=1200%2C1434&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=1568%2C1874&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=400%2C478&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=706%2C844&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?fit=857%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Para ayudar a las personas mayores del Valle de San Fernando a mantenerse frescas en sus hogares, el Departamento de Agua y Energía de Los Ángeles (LADWP, por sus siglas [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/28/se-entregaron-aires-acondicionados-gratuitos-en-el-centro-de-adultos-mayores-de-pacoima/">Se Entregaron Aires Acondicionados Gratuitos en el Centro de Adultos Mayores de Pacoima</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/28/se-entregaron-aires-acondicionados-gratuitos-en-el-centro-de-adultos-mayores-de-pacoima/>
+
+---
+
+## La Segunda Víctima Muere Semanas Después de un “Devastador” Accidente Automovilístico el Mes Pasado
+
+date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="480" height="360" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?fit=480%2C360&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?w=480&amp;ssl=1 480w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?fit=480%2C360&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Casi cuatro semanas después de la fatal colisión de dos autos que mató a Yadira Caamal, de 45 años, residente de San Fernando, el mes pasado, se acaba de confirmar [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/08/28/la-segunda-victima-muere-semanas-despues-de-un-devastador-accidente-automovilistico-el-mes-pasado/">La Segunda Víctima Muere Semanas Después de un “Devastador” Accidente Automovilístico el Mes Pasado</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/08/28/la-segunda-victima-muere-semanas-despues-de-un-devastador-accidente-automovilistico-el-mes-pasado/>
+
+---
+
+## United Auto Workers Local 4811 files bargain request over new protest guidelines
+
+date: 2024-08-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+United Auto Workers Local 4811 filed a Demand to Bargain request over UC President Michael Drake’s recently-announced protest guidelines.
+The guidelines – set forth in an Aug. 
+
+<https://dailybruin.com/2024/08/28/united-auto-workers-local-4811-files-bargain-request-over-new-protest-guidelines/>
+
+---
+
+## Federal agencies suspend bank accounts for VAS, Perfume River and Peter Pham
+
+date: 2024-08-28, updated: 2024-08-29, from: The LAist
+
+Federal authorities have frozen the bank accounts for Viet America Society, the nonprofit at the center of a high-profile controversy over what happened to millions of taxpayer dollars, according to reporting from the Orange County Register. 
+
+<https://laist.com/news/politics/bank-accounts-vas-perfume-river-andrew-do-viet-america-society>
+
+---
+
+## Gallery: Ice Spice Brings ”Y2K!” to the Hollywood Palladium
+
+date: 2024-08-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+On Aug. 19, New York rapper Ice Spice performed at the Hollywood Palladium as a part of her “Y2K! WORLD TOUR.” With dates across North America, Europe and other locations, the four-time Grammy Nominated rapper took the stage to deliver performances of songs, including some off of her debut album, “Y2K!.” 
+
+<https://dailybruin.com/2024/08/28/gallery-ice-spice-brings-y2k-to-the-hollywood-palladium/>
+
+---
+
+## LA releases sneak peek of reparations report
+
+date: 2024-08-28, updated: 2024-08-28, from: The LAist
+
+The long-awaited report studies and documents the experience of Black people in the city. 
+
+<https://laist.com/news/politics/la-releases-sneak-peek-of-reparations-report>
+
+---
+
+## Amelie McGrath entrances listeners with vulnerable, relatable lyrics
+
+date: 2024-08-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+amelie kalia is not merely a good kid – she’s something more.
+Amelie McGrath – who performs as amelie kalia – released her first single June 28. 
+
+<https://dailybruin.com/2024/08/28/amelie-mcgrath-entrances-listeners-with-vulnerable-relatable-lyrics/>
+
+---
+
+## Chiquita Canyon Landfill gets over 20,000 odor complaints — and new orders to fix them
+
+date: 2024-08-28, updated: 2024-08-28, from: The LAist
+
+The move adds more than two dozen conditions aimed at curbing the bad smells affecting the surrounding community. 
+
+<https://laist.com/news/climate-environment/la-castaic-chiquita-canyon-landfill-aqmd-odor-complaint>
+
+---
+
+## Kick Off Labor Day at The Cube!
+
+date: 2024-08-28, from: City of Santa Clarita
+
+<p>Join Us for the Annual Labor Day Hockey Tournament! The Labor Day Tournament is making its grand return to The Cube – Ice and Entertainment Center, Powered by Fivepoint Valencia! Kicking off on Friday, August 30, this four-day event will feature 65 games, with 31 teams battling for their division trophies. The competition spans across [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/08/28/kick-off-labor-day-at-the-cube/">Kick Off Labor Day at The Cube!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/08/28/kick-off-labor-day-at-the-cube/>
+
+---
+
+## 1,000 Books Before Kindergarten
+
+date: 2024-08-28, from: City of Santa Clarita
+
+<p>Join the Santa Clarita Public Library in Promoting Early Literacy With This New Challenge! Reach 1,000 Books Before Kindergarten with the Santa Clarita Public Library’s resources and tools! This year-round initiative supports our youngest residents by empowering parents, caregivers and teachers to foster early literacy by encouraging children from birth to kindergarten to read 1,000 [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/08/28/1000-books-before-kindergarten/">1,000 Books Before Kindergarten</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/08/28/1000-books-before-kindergarten/>
+
+---
+
+## Finding Your Village: A CSUN Resource Guide for Parent Scholars
+
+date: 2024-08-28, from: The Sundail (CSUN Student Newspaper)
+
+When I found out I was pregnant at 19-years-old with my son August-Blue, my life completely shifted. I was in my third semester of community college and did not know... 
+
+<https://sundial.csun.edu/183978/print-editions/finding-your-village-a-csun-resource-guide-for-parent-scholars/>
 
 ---
 
@@ -39,6 +401,16 @@ The measure would amend the state constitution to prohibit any form of forced la
 
 ---
 
+## How you can advocate for better laws to help your children
+
+date: 2024-08-28, updated: 2024-08-29, from: The LAist
+
+It’s a hard world out there to raise kids. Trying to get the care and support you need can feel complicated or just plain unfair. Here’s what you can do as a parent to make things better. 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/parent-advocacy-early-childhood-california-legislation-policy>
+
+---
+
 ## Share those strawberries! Invasive fruit fly species eradicated across California
 
 date: 2024-08-28, updated: 2024-08-28, from: The LAist
@@ -46,16 +418,6 @@ date: 2024-08-28, updated: 2024-08-28, from: The LAist
 The quarantines for five separate species, including two that have never been detected in this part of the world before, have been lifted. 
 
 <https://laist.com/news/climate-environment/share-those-strawberries-invasive-fruit-fly-species-eradicated-across-california>
-
----
-
-## How you can advocate for better laws to help your children
-
-date: 2024-08-28, updated: 2024-08-28, from: The LAist
-
-It’s a hard world out there to raise kids. Trying to get the care and support you need can feel complicated or just plain unfair. Here’s what you can do as a parent to make things better. 
-
-<https://laist.com/news/education/early-childhood-education-pre-k/parent-advocacy-early-childhood-california-legislation-policy>
 
 ---
 
@@ -121,6 +483,7 @@ date: 2024-08-28, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-08-28, from: The Daily Trojan (USC Student Newspaper)
 
+<p>Entering the new school year with a heavy heart is not easy, but it is doable.</p>
 <p>The post <a href="https://dailytrojan.com/2024/08/28/overcoming-loss-is-a-painful-journey-for-the-student/">Overcoming loss is a painful journey for the student</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
@@ -156,6 +519,7 @@ date: 2024-08-28, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-08-28, from: The Daily Trojan (USC Student Newspaper)
 
+<p>Prop 2 gives CA public schools and community colleges key funding boosts.</p>
 <p>The post <a href="https://dailytrojan.com/2024/08/28/why-im-voting-yes-on-proposition-2/">Why I&#8217;m voting &#8216;yes&#8217; on Proposition 2</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 

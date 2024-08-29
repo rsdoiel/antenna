@@ -1,11 +1,1212 @@
 ---
 title: weather 2024.35
-updated: 2024-08-28 08:29:07
+updated: 2024-08-29 07:12:01
 ---
 
 # weather 2024.35
 
-(date: 2024-08-28 08:29:07)
+(date: 2024-08-29 07:12:01)
+
+---
+
+## SPC - No watches are valid as of Thu Aug 29 14:04:01 UTC 2024
+
+date: 2024-08-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Thu Aug 29 14:04:01 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Thu Aug 29 14:04:01 UTC 2024
+
+date: 2024-08-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Thu Aug 29 14:04:01 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Aug 29, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-08-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0749 AM CDT Thu Aug 29 2024
+
+Valid 291300Z - 301200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS OVER PORTIONS OF
+THE UPPER MISSISSIPPI VALLEY REGION...
+
+...SUMMARY...
+Severe thunderstorms are most probable this afternoon and evening
+over portions of the upper Mississippi Valley region, with a threat
+for tornadoes, damaging to severe gusts, and sporadic large hail.
+
+...Synopsis...
+The mid/upper-level pattern will be characterized by a progressive
+belt of westerlies across the northern tier of states, and messy
+area of ridging across the south-central/southeastern CONUS,
+suffused with numerous small vorticity maxima and a few slow-moving
+MCVs.  In that northern stream, a strong shortwave trough -- with
+embedded closed cyclone now located over extreme southern SK -- will
+move eastward to southern MB and the Dakotas by 00Z.  The trough
+should deamplify overnight and eject northeastward to
+northwesternmost ON by 12Z, while a positively tilted trailing
+portion of the trough lingers across parts of WI/IA/NE/KS.  Farther
+east, a weak perturbation -- evident in moisture-channel imagery
+from just north of Lake Huron in ON to astern Lake Superior -- will
+weaken gradually and move southeastward across the remainder of ON
+to NY and New England by the end of the period.  An even weaker
+shortwave trough -- initially extending from central OH across
+southern IN -- should move slowly southeastward into the central
+Appalachians. 
+
+At the surface, 11Z analysis showed a triple-point low over
+northeastern SD, with a warm front southeastward over southwestern
+MN and northern IA, becoming quasistationary to a weak cold front
+over central IL, southern IN, central OH, central PA , and NJ.  The
+eastern part of the front should drift southward over the Mid-
+Atlantic through the period, while the western part proceeds
+northeastward across MN/WI as a warm front.  A cold front was drawn
+from the low southwestward over west-central NE and east-central CO.
+By 00Z, the cold front should reach northern/central MN,
+northwestern IA, eastern NE, north-central/southwestern KS, and
+parts of southeastern CO/northeastern NM.  By 12Z, the front should
+extend across parts of Lake Superior, WI, northern/western MO,
+southeastern KS, northern/western OK, northwest TX, and southeastern
+NM. 
+
+...Upper Mississippi Valley to central Plains...
+Scattered thunderstorms should develop along/ahead of the surface
+cold front -- earliest (around midday) where deep-layer lift is
+strongest over northern/central MN, then later where stronger
+capping, weaker upper support, but stronger heating will be present
+from around the Missouri Valley southwestward.  All severe hazards
+will be possible with greatest vertical shear supporting a threat of
+supercells in MN and perhaps northern IA for the first few hours of
+the convective cycle.  If supercells can remain discrete/mature long
+enough before the quasi-linear evolution occurs, tornado potential
+could be relatively maximized over central MN where the overlap of
+large buoyancy, low LCL and greatest SRH is forecast.  Activity
+overall should evolve into a line of numerous thunderstorms by late
+afternoon and evening, with severe gusts and marginal hail becoming
+the dominant concerns.  Convection should weaken over eastern and
+southern parts of the "marginal area tonight, while moving into a
+less-unstable, larger-CINH airmass from WI to southern KS. 
+
+Although the main mid/upper cyclone/trough will be pivoting
+northeastward over Canada, the southeastern rim of associated height
+falls and mass response will pass across the "slight risk" outlook
+area.  This should back the near-surface flow ahead of the front
+enough to enlarge low-level hodographs and shear vectors, and to
+strengthen effective-shear magnitudes into the 30-40-kt range
+(decreasing southward over IA).  A deep troposphere, rich boundary-
+layer moisture with dewpoints commonly in the upper 60s to low 70s
+F,  and steep low-level lapse rates, should support MLCAPE commonly
+in the 2500-3500 J/kg range, and locally nearing 5000 J/kg, within
+the northward-narrowing warm sector, over IA/MN part of the outlook.
+ Farther southwest, buoyancy will weaken due to somewhat less
+moisture content and greater boundary-layer mixing.
+
+...VA/NC to southern PA...
+Scattered multicell thunderstorms are expected to form this
+afternoon along and south of the front over the outlook area,
+offering isolated gusts near severe limits and marginally severe
+hail.  This activity will develop in a plume of rich low-level
+moisture, with lower-elevation surface dewpoints in the upper 60s to
+low 70s F.  That, along with diurnal heating offsetting modest
+midlevel lapse rates, should support MLCAPE in the 2000-3000 J/kg
+range.  Weak deep-layer flow/shear should keep activity relatively
+disorganized, with pulse severe possible.
+
+..Edwards/Bentley.. 08/29/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## CPHC Central North Pacific Outlook
+
+date: 2024-08-29, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC HFOTWOCP ALL<br />
+TTAA00 PHFO DDHHMM<br />
+<br />
+Tropical Weather Outlook...CORRECTED<br />
+NWS Central Pacific Hurricane Center Honolulu HI<br />
+200 AM HST Thu Aug 29 2024<br />
+<br />
+For the central North Pacific...between 140W and 180W:<br />
+<br />
+Active Systems:<br />
+The Central Pacific Hurricane Center in Honolulu, Hawaii is issuing <br />
+advisories on Tropical Storm Hone. This system is located about <br />
+765 miles west of Lihue, Hawaii, moving west at 9 mph.<br />
+<br />
+The Central Pacific Hurricane Center in Honolulu, Hawaii is issuing <br />
+advisories on Tropical Storm Gilma. This system is located about <br />
+360 miles east of Hilo, Hawaii, moving west at 14 mph.<br />
+<br />
+The National Hurricane Center has issued the last advisory on the <br />
+remnants of Hector, located over the western portion of the East <br />
+Pacific basin.<br />
+<br />
+Elsewhere, no tropical cyclones are expected during the next 7 days.<br />
+<br />
+&& <br />
+<br />
+Public advisories on Tropical Storm Hone are issued under WMO <br />
+header WTPA31 PHFO and under AWIPS header HFOTCPCP1. Forecast <br />
+advisories on Tropical Storm Hone are issued under WMO header <br />
+WTPA11 PHFO and under AWIPS header HFOTCMCP1.<br />
+<br />
+Public advisories on Tropical Storm Gilma are issued under WMO <br />
+header WTPA32 PHFO and under AWIPS header HFOTCPCP2. Forecast <br />
+advisories on Tropical Storm Gilma are issued under WMO header  <br />
+WTPA22 PHFO and under AWIPS header HFOTCMCP2.<br />
+<br />
+$$<br />
+Forecaster Shigesato<br />
+NNNN<br />
+<br />
+</div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2024-08-29, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ABPZ20 KNHC 291136<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+500 AM PDT Thu Aug 29 2024<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center has issued the last advisory on the <br/>
+remnants of Hector, located over the western portion of the East <br/>
+Pacific basin.<br/>
+<br/>
+Tropical cyclone formation is not expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Reinhart<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-08-29, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Thu Aug 29 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Central Tropical Atlantic:<br>A tropical wave over the central Tropical Atlantic Ocean is <br>producing some disorganized showers and thunderstorms. Environmental <br>conditions appear conducive for gradual development of this system, <br>and a tropical depression could form by early next week while it <br>moves westward at 10 to 15 mph and approaches the Lesser Antilles. <br>The system is then forecast to move westward to west-northwestward <br>across portions of the eastern Caribbean Sea during the middle part <br>of next week.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...medium...40 percent.<br><br />
+<br>Forecaster Reinhart<br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Tropical Storm Hone Graphics
+
+date: 2024-08-29, from: Central Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_cp1+shtml/093141.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/CP01/CP012024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Hone 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Thu, 29 Aug 2024 09:31:41 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_cp1+shtml/093141.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/CP01/CP012024_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Hone 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Thu, 29 Aug 2024 09:32:39 GMT
+ 
+
+<https://www.nhc.noaa.gov/refresh/graphics_cp1+shtml/093141.shtml?cone>
+
+---
+
+## 120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins
+
+date: 2024-08-29, from: Eastern Pacific Basin GIS Data
+
+Shapefile last updated Thu, 29 Aug 2024 09:23:22 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip>
+
+---
+
+## Tropical Storm Hone Forecast Discussion Number 28
+
+date: 2024-08-29, from: Central Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPA41 PHFO 290859
+TCDCP1
+ 
+Tropical Storm Hone Discussion Number  28
+NWS Central Pacific Hurricane Center Honolulu HI   CP012024
+1100 PM HST Wed Aug 28 2024
+ 
+Deep convection continues to develop to the north and northeast of 
+low-level circulation center of Hone this evening. The center had 
+been fully exposed for most of the afternoon and early evening 
+hours as the cyclone continues to get hammered by 40 to 45 kt 
+of westerly vertical wind shear. The subjective Dvorak current 
+intensity estimates from PHFO, JTWC, and SAB ranged from 2.0 (35 kt) 
+to 3.0 (45 kt), while a 06z SATCON estimate from UW-CIMSS was 40 
+kt. These estimates in combination with the ragged appearance of 
+Hone support lowering the initial intensity to 40 kt for this 
+advisory.
+
+Hone continues to move west to west-northwest or 280/8 kt. This 
+motion is expected to continue during the next 36 hours as the 
+cyclone is steered by a low to mid-level ridge to the north. After 
+36 hours, the cyclone will begin interacting with a developing mid- 
+level low near the International Dateline. A turn toward the 
+northwest with a decrease in forward speed is expected Friday and 
+Friday night, followed by a more northerly motion and an increase in 
+speed on Saturday. The cyclone is then expected to shift westerly 
+Sunday through early next week as a mid-level ridge builds to the 
+north of the system. The track forecast closely follows a blend of 
+the multi-model consensus aids and is very close to the previous 
+track forecast. This track takes Hone toward the northwest Hawaiian 
+Islands over the weekend, where there is some potential for impacts 
+to Kure, Midway, and Pearl and Hermes Atolls.
+
+Hone will remain under the influence of strong westerly vertical 
+wind shear of 35 to 45 knots and dry mid-level air during the next 
+36 hours. This should lead to slight weakening of the cyclone with 
+convection continuing to flare to the north and northeast of the 
+low level center. Beyond 36 hours, vertical wind shear will 
+gradually trend lower while mid-level moisture increases. This in 
+combination with warm sea surface temperatures of 28 to 29 C and 
+high ocean heat content should allow for some strengthening of the 
+cyclone if it manages to survive the hostile environment it will be 
+in through early Friday. The intensity forecast calls for little 
+change in strength during the next 48 hours, followed by gradual 
+strengthening through the end of the forecast period. This 
+generally follows the intensity consensus guidance through the 
+forecast period. Only minor adjustments were made to the previous 
+intensity forecast through 48 hours, with a slight upward adjustment 
+beyond due to the increasingly favorable environment expected 
+around Hone.
+
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  29/0900Z 20.8N 171.2W   40 KT  45 MPH
+ 12H  29/1800Z 21.0N 172.3W   40 KT  45 MPH
+ 24H  30/0600Z 21.4N 173.8W   35 KT  40 MPH
+ 36H  30/1800Z 21.8N 175.1W   35 KT  40 MPH
+ 48H  31/0600Z 22.4N 175.9W   40 KT  45 MPH
+ 60H  31/1800Z 23.4N 176.5W   45 KT  50 MPH
+ 72H  01/0600Z 24.9N 177.2W   45 KT  50 MPH
+ 96H  02/0600Z 27.0N 179.6E   50 KT  60 MPH
+120H  03/0600Z 27.5N 176.5E   55 KT  65 MPH
+ 
+$$
+Forecaster Jelsema
+ 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/HFOTCDCP1+shtml/290859.shtml>
+
+---
+
+## Tropical Storm Hone Wind Speed Probabilities Number 28
+
+date: 2024-08-29, from: Central Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+FOPA11 PHFO 290858
+PWSCP1
+                                                                    
+TROPICAL STORM HONE WIND SPEED PROBABILITIES NUMBER  28             
+NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI   CP012024         
+0900 UTC THU AUG 29 2024                                            
+                                                                    
+AT 0900Z THE CENTER OF TROPICAL STORM HONE WAS LOCATED NEAR LATITUDE
+20.8 NORTH...LONGITUDE 171.2 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 
+40 KTS...45 MPH...75 KM/H.                                          
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z THU 18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON 06Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+20N 175W       34  1   1( 2)   2( 4)   1( 5)   2( 7)   X( 7)   X( 7)
+ 
+25N 175W       34  X   1( 1)   X( 1)   4( 5)  12(17)   1(18)   1(19)
+ 
+LAYSAN         34  X   1( 1)   X( 1)   X( 1)   2( 3)   X( 3)   X( 3)
+ 
+LISIANSKI      34  X   X( X)   1( 1)   1( 2)   4( 6)   1( 7)   X( 7)
+ 
+PEARL/HERMES   34  X   X( X)   X( X)   X( X)   5( 5)   5(10)   1(11)
+ 
+MIDWAY         34  X   X( X)   X( X)   X( X)   4( 4)  12(16)   1(17)
+MIDWAY         50  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+KURE           34  X   X( X)   X( X)   X( X)   3( 3)  16(19)   1(20)
+KURE           50  X   X( X)   X( X)   X( X)   X( X)   3( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER JELSEMA                                                  
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/HFOPWSCP1+shtml/290858.shtml>
+
+---
+
+## Tropical Storm Hone Public Advisory Number 28
+
+date: 2024-08-29, from: Central Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPA31 PHFO 290858
+TCPCP1
+ 
+BULLETIN
+Tropical Storm Hone Advisory Number  28
+NWS Central Pacific Hurricane Center Honolulu HI   CP012024
+1100 PM HST Wed Aug 28 2024
+ 
+...HONE WEAKENS SLIGHTLY HEADING TOWARD THE DATE LINE...
+ 
+ 
+SUMMARY OF 1100 PM HST...0900 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...20.8N 171.2W
+ABOUT 855 MI...1380 KM W OF HONOLULU HAWAII
+ABOUT 640 MI...1035 KM SE OF MIDWAY ISLAND
+MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+Interests on Midway, Kure, and Pearl and Hermes Atolls should
+monitor the progress of Hone.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM HST (0900 UTC), the center of Tropical Storm Hone was
+located near latitude 20.8 North, longitude 171.2 West. Hone is
+moving toward the west near 9 mph (15 km/h). A westward or
+west-northwestward motion is expected to continue through Thursday 
+night. A turn toward the northwest is expected Friday through the 
+weekend.
+ 
+Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
+Little change in strength is forecast during the next couple of
+days.
+ 
+Tropical-storm-force winds extend outward up to 75 miles (120 km)
+from the center.
+ 
+The estimated minimum central pressure is 1004 mb (29.65 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM HST.
+ 
+$$
+Forecaster Jelsema
+ 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/HFOTCPCP1+shtml/290858.shtml>
+
+---
+
+## Tropical Storm Hone Forecast Advisory Number 28
+
+date: 2024-08-29, from: Central Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPA21 PHFO 290856
+TCMCP1
+ 
+TROPICAL STORM HONE FORECAST/ADVISORY NUMBER  28
+NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI   CP012024
+0900 UTC THU AUG 29 2024
+ 
+NOTICE... LAND-BASED TROPICAL CYCLONE WATCHES AND WARNINGS ARE NO
+LONGER INCLUDED IN THE TROPICAL CYCLONE FORECAST/ADVISORY...(TCM).
+CURRENT LAND-BASED COASTAL WATCHES AND WARNINGS CAN BE FOUND IN THE
+MOST RECENTLY ISSUED TROPICAL CYCLONE PUBLIC ADVISORY...(TCP).
+ 
+TROPICAL STORM CENTER LOCATED NEAR 20.8N 171.2W AT 29/0900Z
+POSITION ACCURATE WITHIN  15 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 280 DEGREES AT   8 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1004 MB
+MAX SUSTAINED WINDS  40 KT WITH GUSTS TO  50 KT.
+34 KT....... 65NE   0SE   0SW  45NW.
+12 FT SEAS.. 80NE   0SE   0SW  80NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 20.8N 171.2W AT 29/0900Z
+AT 29/0600Z CENTER WAS LOCATED NEAR 20.7N 170.7W
+ 
+FORECAST VALID 29/1800Z 21.0N 172.3W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 65NE   0SE   0SW  45NW.
+ 
+FORECAST VALID 30/0600Z 21.4N 173.8W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 50NE   0SE   0SW  40NW.
+ 
+FORECAST VALID 30/1800Z 21.8N 175.1W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 40NE   0SE   0SW  30NW.
+ 
+FORECAST VALID 31/0600Z 22.4N 175.9W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 50NE   0SE   0SW  30NW.
+ 
+FORECAST VALID 31/1800Z 23.4N 176.5W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 60NE  35SE  10SW  30NW.
+ 
+FORECAST VALID 01/0600Z 24.9N 177.2W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 70NE  50SE  15SW  40NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 150 NM
+ON DAY 4 AND 200 NM ON DAY 5...AND FOR INTENSITY NEAR 20 KT EACH DAY
+ 
+OUTLOOK VALID 02/0600Z 27.0N 179.6E
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 15NE  15SE   0SW  15NW.
+34 KT... 80NE  50SE  30SW  80NW.
+ 
+OUTLOOK VALID 03/0600Z 27.5N 176.5E
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 25NE  15SE  10SW  25NW.
+34 KT... 80NE  50SE  40SW  80NW.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 20.8N 171.2W
+ 
+NEXT ADVISORY AT 29/1500Z
+ 
+$$
+FORECASTER JELSEMA
+ 
+ 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/HFOTCMCP1+shtml/290856.shtml>
+
+---
+
+## Tropical Storm Gilma Forecast Discussion Number 45
+
+date: 2024-08-29, from: Central Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPA42 PHFO 290849
+TCDCP2
+ 
+Tropical Storm Gilma Discussion Number  45
+NWS Central Pacific Hurricane Center Honolulu HI   EP072024
+1100 PM HST Wed Aug 28 2024
+ 
+A few thunderstorms have been able to develop in association with 
+Gilma's circulation this evening, but they have been unable to 
+either wrap around, or move over, the center. This pulsing 
+disorganized convection is doing little to sustain Gilma as a 
+tropical cyclone, while also leading to lowering subjective and 
+objective Dvorak intensity estimates that range from 1.5/25 kt to 
+2.5/35 kt. The initial intensity estimate for this advisory is 
+maintained at 35 kt, primarily based on a 0643Z ASCAT pass that 
+showed maximum winds of 32 kt. 
+
+Gilma's forward motion remains a steady 280/12 kt. A low-level 
+ridge north of the cyclone will continue to steer it just north of 
+due west over the next day or so, with a turn toward the 
+west-northwest expected Friday as the ridge weakens. Little change 
+to the previous forecast track was made, as consensus track guidance 
+remains well clustered. 
+
+Water vapor imagery and shear analyses indicate that Gilma is 
+moving into an area of increasing westerly vertical wind shear on 
+the order of 20-30 kt, associated with a trough aloft approaching 
+from the west. GFS and ECMWF simulated satellite imagery indicate 
+that Gilma will only produce brief periods of deep convection over 
+the next day or two, with Gilma gradually spinning down from its 
+peak that occurred just a few days ago. Gilma will likely become a 
+post-tropical remnant low on Thursday, continue gradually weakening 
+as it moves close to Hawaii on Friday, then dissipate in the 
+vicinity of Kauai early Saturday.   
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  29/0900Z 19.5N 149.5W   35 KT  40 MPH
+ 12H  29/1800Z 19.8N 151.3W   30 KT  35 MPH
+ 24H  30/0600Z 20.4N 153.6W   30 KT  35 MPH...POST-TROP/REMNT LOW
+ 36H  30/1800Z 21.2N 156.0W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 48H  31/0600Z 22.2N 158.3W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 60H  31/1800Z...DISSIPATED
+ 
+$$
+Forecaster Birchard
+ 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/HFOTCDCP2+shtml/290849.shtml>
+
+---
+
+## Tropical Storm Gilma Graphics
+
+date: 2024-08-29, from: Central Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_cp2+shtml/084343.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP07/EP072024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Gilma 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Thu, 29 Aug 2024 08:43:43 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_cp2+shtml/084343.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP07/EP072024_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Gilma 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated 0
+ 
+
+<https://www.nhc.noaa.gov/refresh/graphics_cp2+shtml/084343.shtml?cone>
+
+---
+
+## Tropical Storm Gilma Public Advisory Number 45
+
+date: 2024-08-29, from: Central Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPA32 PHFO 290840
+TCPCP2
+ 
+BULLETIN
+Tropical Storm Gilma Advisory Number  45
+NWS Central Pacific Hurricane Center Honolulu HI   EP072024
+1100 PM HST Wed Aug 28 2024
+ 
+...GILMA BARELY A TROPICAL STORM ...
+...EXPECTED TO DISSIPATE NEAR KAUAI OVER THE WEEKEND...
+ 
+ 
+SUMMARY OF 1100 PM HST...0900 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...19.5N 149.5W
+ABOUT 365 MI...585 KM E OF HILO HAWAII
+ABOUT 560 MI...895 KM E OF HONOLULU HAWAII
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM HST (0900 UTC), the center of Tropical Storm Gilma was
+located near latitude 19.5 North, longitude 149.5 West. Gilma is
+moving toward the west near 14 mph (22 km/h).  A continued motion
+toward slightly north of due west will continue into Thursday,
+followed by a turn toward the west-northwest on Friday as the
+remnant low of Gilma passes near the Hawaiian Islands. Gilma is
+expected to dissipate near Kauai on Saturday.
+ 
+Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
+Continued weakening is expected, and Gilma is expected to weaken to
+a remnant low late Thursday or Friday.
+ 
+Tropical-storm-force winds extend outward up to 70 miles (110 km)
+from the center, mainly to the north of the center.
+ 
+The estimated minimum central pressure is 1007 mb (29.74 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM HST.
+ 
+$$
+Forecaster Birchard
+ 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/HFOTCPCP2+shtml/290840.shtml>
+
+---
+
+## Preliminary Best Track [shp] - Remnants of Hector (EP3/EP082024)
+
+date: 2024-08-29, from: Eastern Pacific Basin GIS Data
+
+Track, Points, and Wind Swath. Shapefile last updated Thu, 29 Aug 2024 08:39:01 GMT 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep082024_best_track.zip>
+
+---
+
+## Preliminary Best Track Points [kmz] - Remnants of Hector (EP3/EP082024)
+
+date: 2024-08-29, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 29 Aug 2024 08:39:01 GMT 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep082024_best_track.kmz>
+
+---
+
+## Advisory #015 Wind Field [shp] - Remnants of Hector (EP3/EP082024)
+
+date: 2024-08-29, from: Eastern Pacific Basin GIS Data
+
+Initial and Forecast Surface Winds. Shapefile last updated Thu, 29 Aug 2024 08:39:01 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep082024_fcst_015.zip>
+
+---
+
+## Tropical Storm Gilma Wind Speed Probabilities Number 45
+
+date: 2024-08-29, from: Central Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+FOPA12 PHFO 290838
+PWSCP2
+                                                                    
+TROPICAL STORM GILMA WIND SPEED PROBABILITIES NUMBER  45            
+NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI   EP072024         
+0900 UTC THU AUG 29 2024                                            
+                                                                    
+AT 0900Z THE CENTER OF TROPICAL STORM GILMA WAS LOCATED NEAR        
+LATITUDE 19.5 NORTH...LONGITUDE 149.5 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 35 KTS...40 MPH...65 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z THU 18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON 06Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+20N 150W       34 32   X(32)   X(32)   X(32)   X(32)   X(32)   X(32)
+ 
+20N 151W       34 26   1(27)   X(27)   X(27)   X(27)   X(27)   X(27)
+ 
+20N 154W       34  X   8( 8)   X( 8)   X( 8)   X( 8)   X( 8)   X( 8)
+ 
+HILO           34  X   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+21N 156W       34  X   1( 1)   6( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+KAHULUI        34  X   X( X)   4( 4)   1( 5)   X( 5)   X( 5)   X( 5)
+ 
+HANA           34  X   1( 1)   5( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+LANAI CITY     34  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+KAUNAKAKAI     34  X   X( X)   2( 2)   3( 5)   X( 5)   X( 5)   X( 5)
+ 
+HONOLULU       34  X   X( X)   1( 1)   3( 4)   X( 4)   X( 4)   X( 4)
+ 
+JOINT BASE PHH 34  X   X( X)   1( 1)   3( 4)   X( 4)   X( 4)   X( 4)
+ 
+$$                                                                  
+FORECASTER BIRCHARD                                                 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/HFOPWSCP2+shtml/290838.shtml>
+
+---
+
+## Advisory #015 Forecast Track [kmz] - Remnants of Hector (EP3/EP082024)
+
+date: 2024-08-29, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 29 Aug 2024 08:38:43 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP082024_015adv_TRACK.kmz>
+
+---
+
+## Advisory #015 Cone of Uncertainty [kmz] - Remnants of Hector (EP3/EP082024)
+
+date: 2024-08-29, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 29 Aug 2024 08:38:39 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP082024_015adv_CONE.kmz>
+
+---
+
+## Tropical Storm Gilma Forecast Advisory Number 45
+
+date: 2024-08-29, from: Central Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPA22 PHFO 290837
+TCMCP2
+ 
+TROPICAL STORM GILMA FORECAST/ADVISORY NUMBER  45
+NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI   EP072024
+0900 UTC THU AUG 29 2024
+ 
+NOTICE... LAND-BASED TROPICAL CYCLONE WATCHES AND WARNINGS ARE NO
+LONGER INCLUDED IN THE TROPICAL CYCLONE FORECAST/ADVISORY...(TCM).
+CURRENT LAND-BASED COASTAL WATCHES AND WARNINGS CAN BE FOUND IN THE
+MOST RECENTLY ISSUED TROPICAL CYCLONE PUBLIC ADVISORY...(TCP).
+ 
+TROPICAL STORM CENTER LOCATED NEAR 19.5N 149.5W AT 29/0900Z
+POSITION ACCURATE WITHIN  20 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 280 DEGREES AT  12 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1007 MB
+MAX SUSTAINED WINDS  35 KT WITH GUSTS TO  45 KT.
+34 KT....... 60NE  20SE   0SW  50NW.
+12 FT SEAS.. 70NE  20SE  30SW  70NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 19.5N 149.5W AT 29/0900Z
+AT 29/0600Z CENTER WAS LOCATED NEAR 19.4N 148.9W
+ 
+FORECAST VALID 29/1800Z 19.8N 151.3W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 30/0600Z 20.4N 153.6W...POST-TROP/REMNT LOW
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 30/1800Z 21.2N 156.0W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 31/0600Z 22.2N 158.3W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 31/1800Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 19.5N 149.5W
+ 
+NEXT ADVISORY AT 29/1500Z
+ 
+$$
+FORECASTER BIRCHARD
+ 
+ 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/HFOTCMCP2+shtml/290837.shtml>
+
+---
+
+## Advisory #015 Forecast [shp] - Remnants of Hector (EP3/EP082024)
+
+date: 2024-08-29, from: Eastern Pacific Basin GIS Data
+
+Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Thu, 29 Aug 2024 08:37:30 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep082024_5day_015.zip>
+
+---
+
+## Remnants of Hector Graphics
+
+date: 2024-08-29, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep3+shtml/083700.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP08/EP082024_5day_cone_with_line_and_wind_sm2.png"
+alt="Remnants of Hector 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Thu, 29 Aug 2024 08:37:00 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep3+shtml/083700.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP08/EP082024_wind_probs_34_F120_sm2.png"
+alt="Remnants of Hector 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Thu, 29 Aug 2024 09:34:28 GMT
+ 
+
+<https://www.nhc.noaa.gov/refresh/graphics_ep3+shtml/083700.shtml?cone>
+
+---
+
+## Remnants of Hector Forecast Discussion Number 15
+
+date: 2024-08-29, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+687 
+WTPZ43 KNHC 290835
+TCDEP3
+ 
+Remnants Of Hector Discussion Number  15
+NWS National Hurricane Center Miami FL       EP082024
+200 AM PDT Thu Aug 29 2024
+ 
+An overnight scatterometer pass showed that the low-level center of 
+Hector has opened up into a trough.  There remains a limited area 
+of shallow convection displaced over 250 n mi from the remnants of 
+the center.  The initial intensity has been reduced to 30 kt based 
+on the ASCAT data.  The remnants of Hector should continue to move 
+generally westward for the next couple of days.
+
+This is the final NHC advisory for Hector.  For additional 
+information on this system, please see High Seas Forecasts issued by 
+the National Weather Service, under AWIPS header NFDHSFEPI, WMO 
+header FZPN02 KWBC, and on the web at 
+ocean.weather.gov/shtml/NFDHSFEPI.php.
+
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  29/0900Z 16.9N 135.4W   30 KT  35 MPH
+ 12H  29/1800Z...DISSIPATED
+ 
+$$
+Forecaster Bucci
+ 
+
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/290835.shtml>
+
+---
+
+## Remnants of Hector Wind Speed Probabilities Number 15
+
+date: 2024-08-29, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+FOPZ13 KNHC 290835
+PWSEP3
+                                                                    
+REMNANTS OF HECTOR WIND SPEED PROBABILITIES NUMBER  15              
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP082024               
+0900 UTC THU AUG 29 2024                                            
+                                                                    
+AT 0900Z THE REMNANTS OF HECTOR WERE LOCATED NEAR LATITUDE 16.9     
+NORTH...LONGITUDE 135.4 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 30   
+KTS...35 MPH...55 KM/H.                                             
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z THU 18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON 06Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+ 
+ 
+...THERE IS NO OFFICIAL FORECAST FOR THIS DATE/TIME...
+AND THEREFORE NO WIND SPEED PROBABILITIES CAN BE CALCULATED...
+ 
+ 
+$$                                                                  
+FORECASTER BUCCI                                                    
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIAPWSEP3+shtml/290835.shtml>
+
+---
+
+## Remnants of Hector Public Advisory Number 15
+
+date: 2024-08-29, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPZ33 KNHC 290834
+TCPEP3
+ 
+BULLETIN
+Remnants Of Hector Advisory Number  15
+NWS National Hurricane Center Miami FL       EP082024
+200 AM PDT Thu Aug 29 2024
+ 
+...HECTOR DISSIPATES...
+...THIS IS THE LAST NHC ADVISORY...
+ 
+ 
+SUMMARY OF 200 AM PDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...16.9N 135.4W
+ABOUT 1305 MI...2100 KM E OF HILO HAWAII
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...W OR 270 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...1008 MB...29.77 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 200 AM PDT (0900 UTC), the remnants of Hector were located near
+latitude 16.9 North, longitude 135.4 West. The remnants are moving
+toward the west near 13 mph (20 km/h), and this motion is
+expected to continue for the next couple of days.
+ 
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+ 
+The estimated minimum central pressure is 1008 mb (29.77 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+This is the last public advisory issued by the National Hurricane 
+Center on this system.  For additional information on the system 
+please see High Seas Forecasts issued by the National Weather 
+Service, under AWIPS header NFDHSFEPI, WMO header FZPN02 KWBC, and 
+on the web at ocean.weather.gov/shtml/NFDHSFEPI.php
+
+ 
+$$
+Forecaster Bucci
+ 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/290834.shtml>
+
+---
+
+## ATCF XML Prototype [xml] - Remnants of Hector (EP3/EP082024)
+
+date: 2024-08-29, from: Eastern Pacific Basin GIS Data
+
+Issued at  Thu, 29 Aug 2024 08:34:42 GMT. This is only a prototype and the file format may change without notice. 
+
+<https://www.nhc.noaa.gov/storm_graphics/EP08/atcf-ep082024.xml>
+
+---
+
+## Remnants of Hector Forecast Advisory Number 15
+
+date: 2024-08-29, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPZ23 KNHC 290834
+TCMEP3
+ 
+REMNANTS OF HECTOR FORECAST/ADVISORY NUMBER  15
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP082024
+0900 UTC THU AUG 29 2024
+ 
+REMNANTS OF CENTER LOCATED NEAR 16.9N 135.4W AT 29/0900Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 270 DEGREES AT  11 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1008 MB
+MAX SUSTAINED WINDS  30 KT WITH GUSTS TO  40 KT.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 16.9N 135.4W AT 29/0900Z
+AT 29/0600Z CENTER WAS LOCATED NEAR 16.9N 134.8W
+ 
+FORECAST VALID 29/1800Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 16.9N 135.4W
+ 
+THIS IS THE LAST FORECAST/ADVISORY ISSUED BY THE NATIONAL HURRICANE 
+CENTER ON THIS SYSTEM. FOR ADDITIONAL INFORMATION ON THE SYSTEM 
+PLEASE SEE HIGH SEAS FORECASTS ISSUED BY THE NATIONAL WEATHER 
+SERVICE...UNDER AWIPS HEADER NFDHSFEPI AND WMO HEADER FZPN02 KWBC.
+
+ 
+$$
+FORECASTER BUCCI
+ 
+ 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCMEP3+shtml/290834.shtml>
 
 ---
 
@@ -526,26 +1727,6 @@ KMZ last updated Wed, 28 Aug 2024 14:35:13 GMT
 
 ---
 
-## Preliminary Best Track [shp] - Tropical Storm Hector (EP3/EP082024)
-
-date: 2024-08-28, from: Eastern Pacific Basin GIS Data
-
-Track, Points, and Wind Swath. Shapefile last updated Wed, 28 Aug 2024 14:35:06 GMT 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep082024_best_track.zip>
-
----
-
-## Preliminary Best Track Points [kmz] - Tropical Storm Hector (EP3/EP082024)
-
-date: 2024-08-28, from: Eastern Pacific Basin GIS Data
-
-KMZ last updated Wed, 28 Aug 2024 14:35:06 GMT 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep082024_best_track.kmz>
-
----
-
 ## Advisory #012 Forecast [shp] - Tropical Storm Hector (EP3/EP082024)
 
 date: 2024-08-28, from: Eastern Pacific Basin GIS Data
@@ -918,16 +2099,6 @@ FORECASTER HAGEN/REINHART/KONARIK
 
 ---
 
-## ATCF XML Prototype [xml] - Tropical Storm Hector (EP3/EP082024)
-
-date: 2024-08-28, from: Eastern Pacific Basin GIS Data
-
-Issued at  Wed, 28 Aug 2024 14:32:32 GMT. This is only a prototype and the file format may change without notice. 
-
-<https://www.nhc.noaa.gov/storm_graphics/EP08/atcf-ep082024.xml>
-
----
-
 ## Tropical Storm Hone Forecast Advisory Number 25
 
 date: 2024-08-28, from: Central Pacific Basin Tropical Cyclones
@@ -1006,267 +2177,6 @@ FORECASTER JELSEMA
 </pre> 
 
 <https://www.nhc.noaa.gov/text/refresh/HFOTCMCP1+shtml/281431.shtml>
-
----
-
-## SPC - No watches are valid as of Wed Aug 28 13:59:02 UTC 2024
-
-date: 2024-08-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Wed Aug 28 13:59:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Wed Aug 28 13:59:02 UTC 2024
-
-date: 2024-08-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed Aug 28 13:59:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Aug 28, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-08-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0752 AM CDT Wed Aug 28 2024
-
-Valid 281300Z - 291200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM THE OHIO
-VALLEY TO THE NORTHERN MID-ATLANTIC COAST...AND ACROSS PARTS OF
-NORTH AND SOUTH DAKOTA...
-
-...SUMMARY...
-Severe thunderstorms are expected from the Ohio Valley to the
-northern Mid-Atlantic Coast, and across parts of North and South
-Dakota.
-
-...Synopsis...
-In mid/upper levels, a progressive northern-stream pattern will
-prevail through the period, with the main feature being a cyclone
-now apparent in moisture-channel imagery near the southeastern
-corner of BC.  The associated 500-mb low should move eastward
-roughly along, or just north of, the international border through
-the period, with the accompanying trough extending south-
-southwestward.  By 00Z, the low should be near the southwestern
-corner of SK, with trough to northern UT.  By 12Z, the low should
-reach extreme south-central SK, with trough across central MT to
-southwestern WY.
-
-Downstream, a complex but much lower-amplitude shortwave trough was
-evident over Lake Superior and adjoining portions of ON and western
-U.P. of MI.  One part of this perturbation should break eastward to
-the St. Lawrence Valley by the end of the period, while the trailing
-part drifts eastward over Lake Superior and the U.P.  Of perhaps
-greater direct influence on convective potential, an MCV was
-apparent in composited radar imagery over southeastern IA.  The
-associated perturbation should move across much of central IL today,
-reaching western OH by 12Z tomorrow.
-
-The 11Z surface analysis showed a cold front from northern ME west-
-southwestward across Lake Ontario and southern Lower MI, becoming
-quasistationary for the time being across southern parts of Lake
-Michigan and WI, to northeastern NE, then a warm front over
-southwestern SD, to a low over southeastern MT.  This front is
-expected to move southeastward by 00Z to coastal NS, Cape Cod, Long
-Island, northern parts of MD/WV, and southern parts of OH/IN/IL,
-becoming a diffuse warm front northwestward over central IA,
-southwestern MN and central ND.  There it will be overtaken by
-another cold front -- initially analyzed through the low over
-eastern MT and across northwestern WY.  By 00Z, this second,
-stronger cold front should extend from central ND across central/
-southwestern SD to east-central WY.  By 12Z, the western cold front
-should extend from a low over southeastern ND or northeastern SD
-across south-central SD, western NE and northeastern CO.
-
-...Ohio Valley to Mid-Atlantic...
-Widely scattered to scattered thunderstorms are expected along and
-south of the front today from IN to the Mid-Atlantic Coast, and
-perhaps the southern New England Coast/Long Island vicinity. 
-Damaging gusts and isolated large hail will be possible.
-
-Coverage of convection is uncertain, but relative concentrations may
-develop downshear from what is now disorganized/nonsevere convection
-over OH (in the same UVV field), and ahead of the MCV over parts of
-IL/IN, becoming organized across parts of IN/OH. Diurnal heating of
-a favorably moist airmass is expected to weaken already modest
-ambient MLCINH along the outlook corridor by late morning.  With
-lift along the front and prefrontal outflow/differential-heating
-boundaries,  growth of morning to early afternoon development into
-one or more complexes appears to be a plausible scenario, rendering
-a greater wind than hail threat.  Surface dewpoints commonly in the
-mid 60s to low 70s F will offset modest mid/upper-level lapse rates
-enough to contribute to peak/preconvective MLCAPE in the 800-1500
-J/kg range from OH eastward, and 1000-2000 J/kg back into portions
-of IN.  Weak, generally veered low/middle-level flow will limit
-vertical shear.  Still, nearly unidirectional westerly flow through
-a deep layer will foster movement of convection parallel to the
-low-level moisture-instability axis.
-
-...Dakotas...
-A line or arc of scattered thunderstorms should develop along/near
-the cold front during late afternoon into evening, perhaps initially
-over ND where deep-layer forcing will be stronger, then southward
-into greater capping in SD, as the front impinges on greater
-moisture and lingering boundary-layer instability.  
-
-Ahead of the cold front, enough easterly component to near-surface
-flow will develop to support moist advection into the convective
-genesis zone, with surface dewpoints into the 60s F becoming common.
-Capping at the base of a modest EML will suppress development for
-much of the afternoon, especially over SD, but once frontal lift
-overcomes it, a corridor of 2000-3000 J/kg MLCAPE should be
-available southwest of (and parallel to) the warm front.  Though the
-strongest flow aloft and large-scale ascent will remain behind the
-cold front, the eastern rim of stronger height falls will spread
-over the frontal zone, with enough mass response to both foster
-favorable vertical shear for supercells and enhanced storm-relative
-flow in low levels.  Effective-shear magnitudes of 30-40 kt (locally
-higher) and broad low-level hodographs along and south of the warm
-front should foster supercell development, until mergers and upscale
-growth occur.  Large to very large hail and severe gusts will be the
-main concerns, though a tornado is possible.  However, relatively
-weak midlevel flow may encourage a transition to messier, quasi-
-linear mode with embedded LEWP/bow formations for a few hours.
-Activity should weaken overnight as it moves into stabilizing
-boundary-layer air, though a 45-55-kt LLJ may encourage persistence
-of a cluster or two tonight into the eastern Dakotas.
-
-..Edwards/Bentley.. 08/28/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2024-08-28, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ACPN50 PHFO 281132<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-200 AM HST Wed Aug 28 2024<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-Active Systems:<br/>
-The Central Pacific Hurricane Center in Honolulu, Hawaii is issuing <br/>
-advisories on Tropical Storm Hone. This system is located about 560 <br/>
-miles southwest of Lihue, Hawaii, moving west-northwest at 10 mph.<br/>
-<br/>
-The Central Pacific Hurricane Center in Honolulu, Hawaii is issuing <br/>
-advisories on Tropical Storm Gilma. This system is located about <br/>
-650 miles east of Hilo, Hawaii, moving west at 13 mph.<br/>
-<br/>
-The National Hurricane Center in Miami, Florida is issuing <br/>
-advisories on Tropical Storm Hector, located about 1580 miles east <br/>
-of Hilo, Hawaii. Hector is expected to weaken as a <br/>
-post-tropical/remnant low before moving into the Central <br/>
-Pacific Hurricane Center's area of responsibility Thursday night <br/>
-and dissipating Friday. <br/>
-<br/>
-Elsewhere, no tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-&& <br/>
-<br/>
-Public advisories on Tropical Storm Hone are issued under WMO <br/>
-header WTPA31 PHFO and under AWIPS header HFOTCPCP1. Forecast <br/>
-advisories on Tropical Storm Hone are issued under WMO header <br/>
-WTPA11 PHFO and under AWIPS header HFOTCMCP1.<br/>
-<br/>
-Public advisories on Tropical Storm Gilma are issued under WMO <br/>
-header WTPA32 PHFO and under AWIPS header HFOTCPCP2. Forecast <br/>
-advisories on Tropical Storm Gilma are issued under WMO header  <br/>
-WTPA22 PHFO and under AWIPS header HFOTCMCP2.<br/>
-<br/>
-Public advisories on Tropical Storm Hector are issued under WMO <br/>
-header WTPZ33 KNHC and under AWIPS header MIATCPEP3. Forecast <br/>
-advisories on Tropical Storm Hector are issued under WMO header <br/>
-WTPZ23 KNHC and under AWIPS header MIATCMEP3.<br/>
-<br/>
-$$<br/>
-Forecaster Almanza<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-08-28, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Wed Aug 28 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Western Atlantic:<br>An area of low pressure located a few hundred miles southeast of <br>Bermuda is producing a small area of disorganized shower and <br>thunderstorm activity. Dry air and strong upper-level winds are <br>expected to limit additional development of this system during the <br>next day or so while the low moves northward to north-northeastward <br>at around 10 mph.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...10 percent.<br><br />
-2. Central Tropical Atlantic:<br>An area of low pressure could form in the central portion of the <br>Tropical Atlantic in a few days. Thereafter, environmental <br>conditions appear generally favorable for some slow development of <br>the system this weekend into early next week while it moves westward <br>to west-northwestward at 10 to 15 mph.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...low...20 percent.<br><br />
-<br>Forecaster Reinhart<br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2024-08-28, from: Eastern Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ABPZ20 KNHC 281114<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 AM PDT Wed Aug 28 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Active Systems:<br/>
-The National Hurricane Center is issuing advisories on Tropical <br/>
-Storm Hector, located about midway between the southern tip of the <br/>
-Baja California peninsula and the Hawaiian Islands.<br/>
-<br/>
-Tropical cyclone formation is not expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Hagen/Reinhart<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## 120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins
-
-date: 2024-08-28, from: Eastern Pacific Basin GIS Data
-
-Shapefile last updated Wed, 28 Aug 2024 09:24:00 GMT 
-
-<https://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip>
 
 ---
 

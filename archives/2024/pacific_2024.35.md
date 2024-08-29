@@ -1,11 +1,423 @@
 ---
 title: pacific 2024.35
-updated: 2024-08-28 08:29:04
+updated: 2024-08-29 07:11:57
 ---
 
 # pacific 2024.35
 
-(date: 2024-08-28 08:29:04)
+(date: 2024-08-29 07:11:57)
+
+---
+
+## Nation and world news in brief for August 29
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>Warren Buffett&#8217;s Berkshire Hathaway closes above $1 trillion market value</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/nation-world-news/nation-and-world-news-in-brief-for-august-29/>
+
+---
+
+## Your Views for August 29
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>Mahalo for quick&#0010;response by HECO</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/opinion/your-views-for-august-29-8/>
+
+---
+
+## Tipping culture is out of control. Trump and Harris would make it worse
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>If you left the U.S. for a summer vacation, you may have encountered a strange and refreshing custom: not tipping. Or at least not tipping everyone in sight.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/opinion/tipping-culture-is-out-of-control-trump-and-harris-would-make-it-worse/>
+
+---
+
+## Don’t call the Telegram CEO’s arrest a free speech infringement — yet
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>The detention in France of Pavel Durov, founder and CEO of the messaging app Telegram, has sparked a loud outcry about free speech. Elon Musk has portrayed the arrest on his X account as an ominous threat to free speech, and Robert F. Kennedy Jr. referred to the app as an &#8220;encrypted, uncensored&#8221; platform and said &#8220;the need to protect free speech has never been more urgent.&#8221; </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/opinion/dont-call-the-telegram-ceos-arrest-a-free-speech-infringement-yet/>
+
+---
+
+## A setback for aquarium fishing foes: State high court rules against them
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Supreme Court on Wednesday ruled against a group of Big Island residents challenging the state&#8217;s authority to permit aquarium fishing in West Hawaii.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/hawaii-news/a-setback-for-aquarium-fishing-foes-state-high-court-rules-against-them/>
+
+---
+
+## Trump videos at Arlington stir more fallout after grave site visit
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>The family of a Green Beret who died by suicide after serving eight combat tours and is buried at Arlington National Cemetery expressed concern Wednesday that Donald Trump&#8217;s campaign had filmed his grave site without permission as Trump stood in an area where campaign photography isn&#8217;t allowed. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/nation-world-news/trump-videos-at-arlington-stir-more-fallout-after-grave-site-visit/>
+
+---
+
+## BIIF volleyball: Parker remains unbeaten; KSH tournament begins today
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>KEALAKEKUA &#8212; Parker School girls volleyball&#8217;s undefeated start to the season remained intact during Tuesday&#8217;s outing at Konawaena High School.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/sports/biif-volleyball-parker-remains-unbeaten-ksh-tournament-begins-today/>
+
+---
+
+## UCLA coordinator Malloe reaches new heights climbing the ladder
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>Growing up as a college football fan in Waimanalo, Ikaika Malloe looked forward to the first day of a new year.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/sports/ucla-coordinator-malloe-reaches-new-heights-climbing-the-ladder/>
+
+---
+
+## Serena Williams reflects on her life and legacy in a new docuseries
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>In March 2001, Serena Williams, then just 19, was booed mercilessly by the crowd during the tournament final of the Indian Wells Open in California. The jeering included racist slurs, and it was arguably the most terrifying and scarring thing to happen to Williams during her spectacular career.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/sports/serena-williams-reflects-on-her-life-and-legacy-in-a-new-docuseries/>
+
+---
+
+## ‘Hobbit House’ hit hard by Hone
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>A well-known house in Ka&#8216;u that was once a bed-and-breakfast sustained major flood damage as Tropical Storm Hone passed to the south of the Big Island over the weekend.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/hawaii-news/hobbit-house-hit-hard-by-hone/>
+
+---
+
+## House GOP releases Jan. 6 videos of Pelosi, seeking to shift blame from Trump
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; House Republicans on Wednesday made their latest attempt to rewrite the history of the Jan. 6, 2021, attack on the Capitol, releasing a video compilation that sought to shift blame away from former President Donald Trump and onto former Speaker Nancy Pelosi, who was pursued that day by a violent mob of Trump supporters.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/nation-world-news/house-gop-releases-jan-6-videos-of-pelosi-seeking-to-shift-blame-from-trump/>
+
+---
+
+## Russia faces “difficult fight” to retake Ukraine-held area, says top US spy
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>BETHESDA, Maryland &#8212; Russian President Vladimir Putin will mount a counteroffensive to try to retake territory in the Kursk region captured by Ukrainian troops, but Russian forces will encounter &#8220;a difficult fight,&#8221; Deputy CIA Director David Cohen said on Wednesday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/nation-world-news/russia-faces-difficult-fight-to-retake-ukraine-held-area-says-top-us-spy/>
+
+---
+
+## Obituaries for August 29
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>Michael &#8220;Mike&#8221; Preston Everett, 85, of Mountain View died July 22 at Yukio Okutsu State Veterans Home in Hilo. Born in Mooney Creek, Kan., he was a U.S. Navy retiree and Vietnam War veteran, employee of the former Burns International Security and Molokai General Hospital and member of Veterans of Foreign Wars Post 3830 and Big Island Coin Club. Visitation 9-10:30 a.m. Saturday, Sept. 14, at Dodo Mortuary Chapel. Memorial service at 10:30 a.m. Casual attire. Survived by wife, Ivonne Tengan Everett of Mountain View; sons, Paul (Raimee) Everett of Mountain View, Kimo Everett of Indianola, Iowa, and Keith Everett of Mountain View; daughter, Trudi (Kyle Toma) Everett of Hilo; sister, Candace &#8220;Candy&#8221; (Donald) Winterscheidt of Aurora, Colo.; brothers, Patrick (Helen) Everett Sr. of Centennial, Colo., Gary (Marilyn Michales) Everett of Naples, Fla., and Jack &#8220;Butch&#8221; Everett of Sugar Lake, Mo.; six grandchildren; nieces and nephews. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/obituaries/obituaries-for-august-29-6/>
+
+---
+
+## Sarah Palin is granted new libel trial against The New York Times
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>A federal appeals court Wednesday ordered a new trial in a closely watched libel lawsuit that Sarah Palin, former governor of Alaska and Republican vice presidential nominee, brought against The New York Times. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/nation-world-news/sarah-palin-is-granted-new-libel-trial-against-the-new-york-times/>
+
+---
+
+## Harris and Walz start Georgia bus tour as Democrats’ hopes rise
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>HINESVILLE, Georgia &#8212; Democratic presidential candidate Kamala Harris and her running mate Tim Walz campaigned together on Wednesday in Georgia, a state that Democrats narrowly won in 2020 and could play a decisive role in this year&#8217;s election, with an appeal to young voters. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/nation-world-news/harris-and-walz-start-georgia-bus-tour-as-democrats-hopes-rise/>
+
+---
+
+## Can tech executives be held responsible for what happens on their platforms?
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; This month, the social platform X closed its Brazil operations after one of its executives was threatened with arrest for not taking down certain content. Last year, Changpeng Zhao, the founder of Binance, pleaded guilty to federal money-laundering violations that took place on his cryptocurrency platform. In 2021, Twitter executives in India faced arrest over posts that the government wanted removed from the site.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/nation-world-news/can-tech-executives-be-held-responsible-for-what-happens-on-their-platforms/>
+
+---
+
+## Japan issues emergency warning as powerful Typhoon Shanshan nears
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>TOKYO &#8212; Southwestern Japan braced on Wednesday for what officials say could be one of the strongest storms to ever hit the region, as some residents in the path of Typhoon Shanshan were ordered to evacuate and major firms like Toyota closed factories. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/nation-world-news/japan-issues-emergency-warning-as-powerful-typhoon-shanshan-nears/>
+
+---
+
+## FBI says gunman spent months seeking a target, then settled on Trump
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The gunman who tried to kill Donald Trump mounted a &#8220;sustained, detailed effort&#8221; to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/nation-world-news/fbi-says-gunman-spent-months-seeking-a-target-then-settled-on-trump/>
+
+---
+
+## Marijuana user cannot be banned from gun ownership, US court rules
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>A U.S. appeals court on Wednesday ruled that a pot-smoking gun owner in Texas cannot be prosecuted for violating a federal ban on users of illegal drugs owning firearms, saying it is unconstitutional to disarm her based on her past drug habits. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/nation-world-news/marijuana-user-cannot-be-banned-from-gun-ownership-us-court-rules/>
+
+---
+
+## A 4-year-old boy breaks a 3,500-year-old jar at an Israeli museum
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>A jar used for oil and wine during the Middle Bronze Age in the ancient Canaan region prevailed for thousands of years before it was put on display at the Hecht Museum in Israel.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/nation-world-news/a-4-year-old-boy-breaks-a-3500-year-old-jar-at-an-israeli-museum/>
+
+---
+
+## GFA awards student-athletes $16K in scholarship funds from donors
+
+date: 2024-08-29, from: Guam Daily Post
+
+In a presentation ceremony held Wednesday at the Guam Football Association National Training Center Lecture Hall, 16 applicants were awarded with a total of $16,000 from the association’s scholarship program. 
+
+<https://www.postguam.com/sports/local/gfa-awards-student-athletes-16k-in-scholarship-funds-from-donors/article_09f8ed4e-658e-11ef-b305-b73c61998ba5.html>
+
+---
+
+## Joseph 'Seay' Camacho puts Mitobe to sleep
+
+date: 2024-08-29, from: Guam Daily Post
+
+Last Sunday, while competing in the Pancrase Blood 4 co-main event flyweight division mixed martial arts bout, Guam’s Joseph “Seay” Camacho (7-3-0) defeated Sodai Mitobe (3-1-0) via submission in Shinagawa Intercity Hall in Shinagawa, Japan. 
+
+<https://www.postguam.com/sports/local/joseph-seay-camacho-puts-mitobe-to-sleep/article_77cc289c-6591-11ef-b01c-eb409d2f886f.html>
+
+---
+
+## United Airlines flight attendants authorize strike
+
+date: 2024-08-29, from: Guam Daily Post
+
+"What do you want?" a man shouted. 
+
+<https://www.postguam.com/news/local/united-airlines-flight-attendants-authorize-strike/article_c7dd94ca-65b8-11ef-a658-37bf31c64359.html>
+
+---
+
+## Education board hears problems with fielding public school sports
+
+date: 2024-08-29, from: Guam Daily Post
+
+There are two issues that arose during the first quarter for public school sports, the first deals with procurement of officials and the second, a lack of adequate facilities to practice and compete, according to a public school sports coordinator. 
+
+<https://www.postguam.com/news/local/education-board-hears-problems-with-fielding-public-school-sports/article_16f7103e-65b6-11ef-b598-8f1f686a469d.html>
+
+---
+
+## GWHS students return to campus
+
+date: 2024-08-29, from: Guam Daily Post
+
+George Washington High School students are back on campus on Friday, and it may not be much longer for all 24,000 students to return to in-person learning as Guam Department of Education Superintendent Kenneth Erik Swanson anticipates the number of… 
+
+<https://www.postguam.com/news/local/gwhs-students-return-to-campus/article_0d9f350c-65ca-11ef-aea5-2771b9780ca7.html>
+
+---
+
+## Free slinging, traditional healing workshop Saturday at museum
+
+date: 2024-08-29, from: Guam Daily Post
+
+Those wanting to learn about the traditional CHamoru art of using slingstones or traditional healing can visit the Guam Museum from 3 to 5 p.m. Saturday for the "Slinging Seeds for Change" workshop, a part of the ongoing art exhibit… 
+
+<https://www.postguam.com/news/local/free-slinging-traditional-healing-workshop-saturday-at-museum/article_4b8547dc-65a5-11ef-9e03-139be4c3b8d0.html>
+
+---
+
+## Man allegedly threatened to kill 2 people with gun in May
+
+date: 2024-08-29, from: Guam Daily Post
+
+A man stopped for driving a car with no license plates faces charges related to a terrorizing incident in May. 
+
+<https://www.postguam.com/news/local/man-allegedly-threatened-to-kill-2-people-with-gun-in-may/article_2cb24384-65cb-11ef-9e58-8bae50a1575c.html>
+
+---
+
+## GRTA corruption case dismissed
+
+date: 2024-08-29, from: Guam Daily Post
+
+Corruption charges filed against five Guam Regional Transit Authority officials have been dismissed in the Superior Court of Guam. 
+
+<https://www.postguam.com/news/local/grta-corruption-case-dismissed/article_6254c2d0-65aa-11ef-9fc6-23b72cfe0113.html>
+
+---
+
+## DEA leads Majuro training
+
+date: 2024-08-29, from: Marshal Islands Journal
+
+<p>Law enforcement agencies in the Marshall Islands participated in a Narcotics Investigation Course from August 12-16. The course was designed to equip officers with the knowledge and skills to combat drug trafficking and keep our communities safe. It was led by experts from the US Drug Enforcement Administration (DEA) and the US Postal Inspection Service [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/dea-leads-majuro-training/">DEA leads Majuro training</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/dea-leads-majuro-training/>
+
+---
+
+## Majuro’s AKIA soon to change
+
+date: 2024-08-29, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON While all the airports in the United States-affiliated islands of the north Pacific have had new terminals built or major improvements to existing ones made in recent times, Majuro’s Amata Kabua International Airport (AKIA) remains a vestige of the past, still using a now-dilapidated terminal first opened over 50 years ago. The good [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/majuros-akia-soon-to-change/">Majuro&#8217;s AKIA soon to change</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/majuros-akia-soon-to-change/>
+
+---
+
+## USP reaffirms key role during 53rd Forum Leaders meeting
+
+date: 2024-08-29, from: University of the South Pacific (Fiji)
+
+<p>Leaders at the 53rd Pacific Islands Forum (PIF) meeting in Tonga were assured of The...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-reaffirms-key-role-during-53rd-forum-leaders-meeting/">USP reaffirms key role during 53rd Forum Leaders meeting</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-reaffirms-key-role-during-53rd-forum-leaders-meeting/>
+
+---
+
+## MALGov’s drug haul
+
+date: 2024-08-28, from: Marshal Islands Journal
+
+<p>An Uliga man has been charged with four counts of drug possession and distribution following a sting operation and search of his home. Elai Aiseia, 40, was charged with unlawful possession of prohibited drugs, unlawful use of prohibited drugs, unlawful selling of prohibited drugs, and unlawful possession of marijuana. Assistant Attorney General Cherlina Loeak filed [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/malgovs-drug-haul/">MALGov’s drug haul</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/malgovs-drug-haul/>
+
+---
+
+## UH faculty present Hawaiian collaboration methods at national conference
+
+date: 2024-08-28, from: University of Hawaiʻi News
+
+<p>Faculty shared <abbr>UH</abbr>’s role in fostering interdisciplinary collaboration and advancing archival practices, grounded in Indigenous knowledge.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/28/uh-faculty-present-at-saa/"><abbr>UH</abbr> faculty present Hawaiian collaboration methods at national conference</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/28/uh-faculty-present-at-saa/>
+
+---
+
+## Keeping up with the dolphins: drones give snapshot of pod health
+
+date: 2024-08-28, from: University of Hawaiʻi News
+
+<p>Using drones to successfully assess the age of critically endangered, free-ranging dolphins in Greece is the focus of new research.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/28/dolphin-drone-snapshot/">Keeping up with the dolphins: drones give snapshot of pod health</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/28/dolphin-drone-snapshot/>
+
+---
+
+## UH health students gain research experience outside Hawaiʻi
+
+date: 2024-08-28, from: University of Hawaiʻi News
+
+<p>The program has seen increased student interest since global travel restrictions were lifted.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/28/jabsom-mhrt-program-2024-cohort/"><abbr>UH</abbr> health students gain research experience outside Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/28/jabsom-mhrt-program-2024-cohort/>
+
+---
+
+## Image of the Week: Jump!
+
+date: 2024-08-28, from: University of Hawaiʻi News
+
+<p>This week’s <em><abbr>UH</abbr> News</em> Image of the Week is from Amy Hubbard.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/28/image-of-the-week-jump/">Image of the Week: Jump!</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/28/image-of-the-week-jump/>
 
 ---
 
@@ -316,6 +728,108 @@ date: 2024-08-28, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/08/28/nation-world-news/trumps-edge-over-harris-on-economy-crime-slips-reuters-ipsos-poll-finds/>
+
+---
+
+## Small plane makes emergency landing in North Kohala
+
+date: 2024-08-28, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Police Department said that shortly before 11 a.m. today, North Kohala patrol officers responded to a report that a small Cessna airplane made an emergency hard landing in pasture land south of Upolu Airport in Hawi.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/28/hawaii-news/small-plane-makes-emergency-landing-in-north-kohala/>
+
+---
+
+## JR De Guzman show Saturday
+
+date: 2024-08-28, from: Guam Daily Post
+
+After a record-breaking 2023 with sold-out events featuring Jo Koy, Rob Schneider and Tumua, Guam Comedy announced its first show of 2024 featuring up-and-coming Filipino American comedian JR De Guzman, according to a press release from Guam Comedy. 
+
+<https://www.postguam.com/news/local/jr-de-guzman-show-saturday/article_15e392ac-6436-11ef-9184-2bab0aa31250.html>
+
+---
+
+## Department of Agriculture set to host annual Kids Fishing Derby
+
+date: 2024-08-28, from: Guam Daily Post
+
+The Department of Agriculture's Division of Aquatic and Wildlife Resources will host its annual Kids Fishing Derby on Sept. 7 behind the Hågat mayor’s office, according to a press release from the agency. 
+
+<https://www.postguam.com/news/local/department-of-agriculture-set-to-host-annual-kids-fishing-derby/article_0fb5f64a-643b-11ef-9f3f-b3c013501d42.html>
+
+---
+
+## GPD 'still actively searching' for  2 Dededo kidnapping suspects
+
+date: 2024-08-28, from: Guam Daily Post
+
+The Guam Police Department continues to search for individuals suspected in a Dededo kidnapping last week. 
+
+<https://www.postguam.com/news/local/gpd-still-actively-searching-for-2-dededo-kidnapping-suspects/article_96badbae-64ce-11ef-a3cd-07ceaca2b330.html>
+
+---
+
+## October trial for man accused of torture, assault of woman who was found dead
+
+date: 2024-08-28, from: Guam Daily Post
+
+A man suspected of torturing and sexually assaulting a now-deceased woman is scheduled to go to trial in October. 
+
+<https://www.postguam.com/news/local/october-trial-for-man-accused-of-torture-assault-of-woman-who-was-found-dead/article_f770b2f4-64db-11ef-9952-1b81cb1700ee.html>
+
+---
+
+## DOC detainees cut hole in dome tent, climbed 2 fences in escape
+
+date: 2024-08-28, from: Guam Daily Post
+
+Two detainees allegedly used a disposable razor and a blanket to escape from the Department of Corrections Adult Correctional Facility in Mangilao on Tuesday morning. 
+
+<https://www.postguam.com/news/local/doc-detainees-cut-hole-in-dome-tent-climbed-2-fences-in-escape/article_60d4cd18-64e9-11ef-85ac-0b8ef476effa.html>
+
+---
+
+## Budget bill amendment requires  negotiation, leasing for raceway
+
+date: 2024-08-28, from: Guam Daily Post
+
+An amendment to the fiscal year 2025 budget bill will require the Chamorro Land Trust Commission to negotiate with the Guam Motorsports Association on the terms of a noncommercial lease for the property housing the Guam International Raceway, Lot 7161-R1… 
+
+<https://www.postguam.com/news/local/budget-bill-amendment-requires-negotiation-leasing-for-raceway/article_a0b5629c-64f5-11ef-9d33-cf533556b35f.html>
+
+---
+
+## Generation challenges caused Tuesday outages
+
+date: 2024-08-28, from: Guam Daily Post
+
+Guam Power Authority customers experienced power outages Tuesday between 6:56 p.m. and 9:12 p.m. due to "compounded challenges with power generation," according to a press release from the utility. 
+
+<https://www.postguam.com/news/local/generation-challenges-caused-tuesday-outages/article_92f9b268-64fd-11ef-8df6-6f06ea06bfc0.html>
+
+---
+
+## Man, allegedly drunk, accused of trying to fight 2 GPD officers
+
+date: 2024-08-28, from: Guam Daily Post
+
+A man was accused of assaulting a Guam Police Department officer who responded to a disturbance at a local beach. 
+
+<https://www.postguam.com/news/local/man-allegedly-drunk-accused-of-trying-to-fight-2-gpd-officers/article_0237931e-64f6-11ef-a4af-7f6124edd297.html>
+
+---
+
+## CCU authorizes GPA to petition  new renewable energy projects
+
+date: 2024-08-28, from: Guam Daily Post
+
+The Consolidated Commission on Utilities, the governing board behind the Guam Power Authority and Guam Waterworks Authority, signed off on various matters for the utilities on Tuesday, including initial awards for a new round of utility scale renewable energy projects. 
+
+<https://www.postguam.com/news/local/ccu-authorizes-gpa-to-petition-new-renewable-energy-projects/article_b55cccba-6448-11ef-a2b9-6307695ee31c.html>
 
 ---
 
@@ -925,6 +1439,86 @@ date: 2024-08-27, from: Island Times
 
 ---
 
+## UOG announces research funding
+
+date: 2024-08-27, from: Guam Daily Post
+
+The University of Guam Center for Island Sustainability and Sea Grant announced this month the recipients of the 2024-2026 UOG Sea Grant Competitive Research Funding. The grants support research projects addressing critical challenges facing Micronesia's coastal ecosystems, communities and economies,… 
+
+<https://www.postguam.com/news/local/uog-announces-research-funding/article_bb833d92-63b5-11ef-a2b8-bb83e32f8eb5.html>
+
+---
+
+## GDOE leader discusses security challenges, proposes funding school resource officers
+
+date: 2024-08-27, from: Guam Daily Post
+
+When it comes to securing the island’s 41 public schools, the Guam Department of Education superintendent candidly said a majority do not meet the security standards required in modern school architecture. 
+
+<https://www.postguam.com/news/local/gdoe-leader-discusses-security-challenges-proposes-funding-school-resource-officers/article_ce27e300-6368-11ef-8c6a-ebb4edcb1a61.html>
+
+---
+
+## AG seeks recusal of judge in all criminal cases, while defense alleges delay tactics
+
+date: 2024-08-27, from: Guam Daily Post
+
+The Office of the Attorney General is seeking to disqualify Judge Alberto Tolentino on all criminal cases because of his “familial relationship” with Attorney General Douglas Moylan. 
+
+<https://www.postguam.com/news/local/ag-seeks-recusal-of-judge-in-all-criminal-cases-while-defense-alleges-delay-tactics/article_7e916150-6425-11ef-9285-d3bc462cdcd5.html>
+
+---
+
+## OHAPP funds reallocated elsewhere
+
+date: 2024-08-27, from: Guam Daily Post
+
+After removing appropriations specifically meant for the Office of Homelessness Assistance and Poverty Prevention last week, lawmakers proceeded with reallocating that funding to other areas on Monday. 
+
+<https://www.postguam.com/news/local/ohapp-funds-reallocated-elsewhere/article_fd069ad4-636a-11ef-a8ee-2b7001187acf.html>
+
+---
+
+## Democrats back Republican senator
+
+date: 2024-08-27, from: Guam Daily Post
+
+A Republican senator seeking reelection has received support from Democrats on social media. 
+
+<https://www.postguam.com/news/local/democrats-back-republican-senator/article_73669d02-641d-11ef-bc60-639ebc40f100.html>
+
+---
+
+## 2 escaped DOC detainees found at Mangilao apartments 5 hours later
+
+date: 2024-08-27, from: Guam Daily Post
+
+Two local detainees who were reported to have escaped from the Department of Corrections Adult Correctional Facility in Mangilao were located about 2-1/2 miles away from the prison. 
+
+<https://www.postguam.com/news/local/2-escaped-doc-detainees-found-at-mangilao-apartments-5-hours-later/article_619c7704-6418-11ef-87f7-ff4f9d854a0b.html>
+
+---
+
+## Man found guilty of raping, molesting minors
+
+date: 2024-08-27, from: Guam Daily Post
+
+A jury found a man guilty of all charges stemming from allegations of criminal sexual conduct except one. 
+
+<https://www.postguam.com/news/local/man-found-guilty-of-raping-molesting-minors/article_1231b206-6404-11ef-bcee-4f6f9f2857f4.html>
+
+---
+
+## Director nominee questioned on abandoned DPHSS headquarters
+
+date: 2024-08-27, from: Guam Daily Post
+
+Theresa Arriola fielded questions from lawmakers Monday night as she underwent a confirmation hearing for her nomination to serve as the director of the Department of Public Health and Social Services. 
+
+<https://www.postguam.com/news/local/director-nominee-questioned-on-abandoned-dphss-headquarters/article_4e19bbde-638b-11ef-be7a-bb7192cf16dd.html>
+
+---
+
 ## UN Sec-Gen praises Pacific for leadership in climate change fight
 
 date: 2024-08-27, from: Island Times
@@ -1140,6 +1734,16 @@ date: 2024-08-27, from: University of the South Pacific (Fiji)
 
 ---
 
+## Escaped detainees found at Mangilao apartments
+
+date: 2024-08-27, from: Guam Daily Post
+
+Two local detainees who were reported to have escaped from the Adult Correctional Facility in Mangilao were located about two-and-a-half miles away from the prison. 
+
+<https://www.postguam.com/news/escaped-detainees-found-at-mangilao-apartments/article_184fbe46-6411-11ef-9c25-b718663e151d.html>
+
+---
+
 ## Column: A Path for those with a passion to teach
 
 date: 2024-08-27, from: University of Hawaiʻi News
@@ -1159,6 +1763,16 @@ date: 2024-08-27, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/08/26/maunakea-road-closed-after-hone-causes-erosion-landslides/">Maunakea: Road closed after Hone causes erosion, landslides</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/08/26/maunakea-road-closed-after-hone-causes-erosion-landslides/>
+
+---
+
+## DOC: Two local detainees escape, search ongoing
+
+date: 2024-08-26, from: Guam Daily Post
+
+Two detainees at the Adult Correctional Facility in Mangilao were unaccounted for early Tuesday morning. 
+
+<https://www.postguam.com/news/doc-two-local-detainees-escape-search-ongoing/article_2c9f9f54-63ff-11ef-8c2a-bbbbfd2584b9.html>
 
 ---
 
@@ -1634,6 +2248,16 @@ date: 2024-08-26, from: Guam Daily Post
 A man was sentenced to 10 years for a brutal attack on his elderly father. 
 
 <https://www.postguam.com/news/local/man-gets-10-years-for-attack-on-elderly-father/article_7db5e738-6344-11ef-b8e2-b358e7c5be45.html>
+
+---
+
+## DPHSS extends P-EBT distribution, more summer benefits are coming
+
+date: 2024-08-26, from: Guam Daily Post
+
+The Department of Public Health and Social Services has extended card distribution dates for the Pandemic Electronic Benefit Transfer for a second time, but there has been a location change, the department announced in a press release. 
+
+<https://www.postguam.com/news/local/dphss-extends-p-ebt-distribution-more-summer-benefits-are-coming/article_ad8f7cd0-6344-11ef-a685-2f21cc673598.html>
 
 ---
 

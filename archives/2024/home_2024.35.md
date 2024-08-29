@@ -1,11 +1,156 @@
 ---
 title: home 2024.35
-updated: 2024-08-28 08:29:10
+updated: 2024-08-29 07:12:03
 ---
 
 # home 2024.35
 
-(date: 2024-08-28 08:29:10)
+(date: 2024-08-29 07:12:03)
+
+---
+
+## 35 Types of Salamanders in Florida (Pictures and Identification)
+
+date: 2024-08-29, from: Yard Life blog
+
+<p>Florida is home to a diverse array of salamanders, each adapted to the unique environments found across the state. From ... </p>
+<p class="read-more-container"><a title="35 Types of Salamanders in Florida (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/35-types-of-salamanders-in-florida-pictures-and-identification/#more-18840" aria-label="Read more about 35 Types of Salamanders in Florida (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/35-types-of-salamanders-in-florida-pictures-and-identification/">35 Types of Salamanders in Florida (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/35-types-of-salamanders-in-florida-pictures-and-identification/>
+
+---
+
+## Beverley Thorne’s Music House Just Listed to the Tune of $1.6M
+
+date: 2024-08-29, from: Dwell
+
+The triangular Bay Area home is perched above a ravine with a flowing waterfall and topped with a massive skylight. 
+
+<https://www.dwell.com/article/beverley-thorne-music-house-kensington-bay-area-california-real-estate-40ef4a70>
+
+---
+
+## 40 Crowd-Pleasing Labor Day Recipes
+
+date: 2024-08-29, from: Sunset Magazine - Living in the West
+
+Summer party season may be dwindling, but these dishes featuring the best of late-season produce will make it the best Labor Day weekend BBQ. 
+
+<https://www.sunset.com/food-wine/holidays-occasions/labor-day-recipes>
+
+---
+
+## Would the Tesla Cybertruck Actually Make a Good Work Truck?
+
+date: 2024-08-28, from: Family Handyman Blog
+
+From the early pioneer's horse-drawn stagecoaches to today's decked-out pickups, which may never carry anything more than passengers or groceries from... 
+
+<https://www.familyhandyman.com/article/is-tesla-cybertruck-good-work-truck/>
+
+---
+
+## Can You Install Metal Roofing Over Shingles?
+
+date: 2024-08-28, from: Family Handyman Blog
+
+Need a new roof? Covering your existing asphalt shingles with metal roofing might be worth the expense. Here are some pros and cons. 
+
+<https://www.familyhandyman.com/article/can-you-install-metal-roofing-over-shingles/>
+
+---
+
+## Investors Are Buying a Higher Percentage of Homes, According to Redfin Report
+
+date: 2024-08-28, from: Dwell
+
+Some say more businesses and institutions acquiring residences have contributed to the housing crisis, while others see the pattern as a symptom of larger issues. 
+
+<https://www.dwell.com/article/investors-are-buying-a-higher-percentage-of-homes-according-to-redfin-report-e5a68403>
+
+---
+
+## Bosch Laser Measure Review: We Tried Two Models, and Here’s How it Went
+
+date: 2024-08-28, from: Family Handyman Blog
+
+What's a Bosch laser tape measure? We tested two to see how they perform and stack up against other laser tape measures. 
+
+<https://www.familyhandyman.com/article/bosch-laser-measure-review/>
+
+---
+
+## The Silk & Snow Mattress Solved My Chronic Neck and Shoulder Pain in One Month
+
+date: 2024-08-28, from: Family Handyman Blog
+
+We tested the Silk and Snow organic mattress to see if its multi-coil support helped ease neck and shoulder pain. The results were stunning. 
+
+<https://www.familyhandyman.com/article/silk-and-snow-mattress-review/>
+
+---
+
+## Your Garden’s Design Can Impact Your Wellness. Here’s How to Optimize Your Yard for Healing.
+
+date: 2024-08-28, from: Sunset Magazine - Living in the West
+
+You garden can impact your wellness. Garden and landscape designers share tips on how to design your garden for wellness. 
+
+<https://www.sunset.com/home-garden/landscaping/wellness-garden-design>
+
+---
+
+## A Seaside Home in Pacific Grove Cleverly Takes Advantage of Ocean Views
+
+date: 2024-08-28, from: Sunset Magazine - Living in the West
+
+The owners of this home in Pacific Grove wanted to maximize the stunning ocean views. It was renovated with skylights and glassed-in porch. 
+
+<https://www.sunset.com/home-garden/home-tours/pacific-grove-house-renovation>
+
+---
+
+## How to Identify and Treat Sunburn on Orchids
+
+date: 2024-08-28, from: The Gardener's Path
+
+<p>Most orchids we grow at home are shade lovers and don't appreciate too much sun. Overexposure can cause sun scorch, which results in yellowing leaves, brown spots on roots, stems, and foliage, or even plant death. Learn how to identify sunburn in orchids and what to do about it in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/sunburn-orchids/">How to Identify and Treat Sunburn on Orchids</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/flowers/sunburn-orchids/>
+
+---
+
+## This Prefab Cabin Is Light on the Land and Heavy on the Views
+
+date: 2024-08-28, from: Dwell
+
+Local firm Saxon Hall Architecture designs a modular, off-grid communal building for a coastal campsite in Tasmania. 
+
+<https://www.dwell.com/article/this-prefab-cabin-is-light-on-the-land-and-heavy-on-the-views-fabc65da>
+
+---
+
+## Before & After: This 1881 Schoolhouse Conversion Is a Master Class in Adaptive Reuse
+
+date: 2024-08-28, from: Dwell
+
+Bowerbird Architects preserved the building’s windows, wainscot, and chalk rail while converting it into a three-bedroom getaway in upstate New York. 
+
+<https://www.dwell.com/article/before-and-after-1881-schoolhouse-renovation-bowerbird-architects-upstate-new-york-57c50513>
+
+---
+
+## These Are the Best Carts and Totes to Bring to the Farmers Market, According to Sunset Editors
+
+date: 2024-08-28, from: Sunset Magazine - Living in the West
+
+These best shopping carts and totes are perfect for errands, whether you're at the farmers market, beach, or on a camping trip. 
+
+<https://www.sunset.com/lifestyle/shopping/best-shopping-carts>
 
 ---
 
@@ -16,6 +161,46 @@ date: 2024-08-28, from: Dwell
 Designed by Stuart Howard, the ’70s dwelling channels the spirit of the legendary coastal community. 
 
 <https://www.dwell.com/article/sea-ranch-style-house-stuart-howard-vancouver-british-columbia-real-estate-d78c8fc4>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-08-28, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
+
+---
+
+## 5 Smart Ways to Get the Whole Family Organized for Back-to-School Season
+
+date: 2024-08-28, from: Sunset Magazine - Living in the West
+
+It's hard to believe, but back-to-school season is here. A pro organizer shares her tips for getting the whole family ready. 
+
+<https://www.sunset.com/lifestyle/family/back-to-school-organizing-tips>
+
+---
+
+## The Dorm Decor and Furniture to Stock up on Before Move-in Day
+
+date: 2024-08-28, from: Sunset Magazine - Living in the West
+
+Heading to college this fall? You'll need the right dorm gear. These are our favorite dorm furniture and decor picks. 
+
+<https://www.sunset.com/home-garden/design/best-dorm-furniture-and-decor>
+
+---
+
+## These Least Visited, Under-the-Radar National Parks Deserve a Spot on Your Bucket List
+
+date: 2024-08-28, from: Sunset Magazine - Living in the West
+
+If you want a non-touristy experience, these are the least crowded and under-visted National Parks according to Google Maps. 
+
+<https://www.sunset.com/travel/national-parks/least-crowded-national-parks-in-the-us>
 
 ---
 
@@ -36,6 +221,26 @@ date: 2024-08-28, from: Sunset Magazine - Living in the West
 With a portfolio of high-profile, slightly wild, forward-thinking gardens, Terremoto is the landscape design firm we need more than ever. 
 
 <https://www.sunset.com/home-garden/landscaping/terremoto-landscape-architecture-design-firm>
+
+---
+
+## This Is How a Professional Stylist Packs for a Wedding Weekend (and Yes, It All Fits in a Carry-on)
+
+date: 2024-08-27, from: Sunset Magazine - Living in the West
+
+You don't need to bring your whole closet to a wedding weekend. A professional stylist shares her efficient wedding packing tips. 
+
+<https://www.sunset.com/travel/wedding-packing-tips>
+
+---
+
+## 7 Things You Can Actually Cut Corners on During a Home Renovation, According to Experts
+
+date: 2024-08-27, from: Sunset Magazine - Living in the West
+
+A home remodeling project can cost a lot of money. Experts share where it's okay to cut corners on a home renovation to save money. 
+
+<https://www.sunset.com/home-garden/idea-houses/where-to-save-money-on-home-renovation>
 
 ---
 
@@ -79,7 +284,7 @@ I tested the Sun Home Saunas Luminar two-person, full-spectrum infrared sauna. H
 
 ---
 
-## Keen’s New Work Boot is the Perfect Boot for Almost Everything
+## Keen Utility’s New Work Boot is the Perfect Boot for Almost Everything
 
 date: 2024-08-27, from: Family Handyman Blog
 
@@ -171,16 +376,6 @@ Air conditioning is a necessity, but a unit can look unsightly. A designer share
 
 ---
 
-## Sunset.com Home Page
-
-date: 2024-08-27, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
-
----
-
 ## This Design Trend Is Replacing the Bar Cart
 
 date: 2024-08-27, from: Sunset Magazine - Living in the West
@@ -211,16 +406,6 @@ date: 2024-08-26, from: Dwell
 Keep founders Austin and Kotono Watanabe revive a compact dwelling with a dazzling kitchen, an all-electric upgrade, and a clerestory "scoop." 
 
 <https://www.dwell.com/article/seward-scoop-home-addition-keep-minneapolis-minnesota-906b84d1>
-
----
-
-## A Seaside Home in Pacific Grove Cleverly Takes Advantage of Ocean Views
-
-date: 2024-08-26, from: Sunset Magazine - Living in the West
-
-The owners of this home in Pacific Grove wanted to maximize the stunning ocean views. It was renovated with skylights and glassed-in porch. 
-
-<https://www.sunset.com/home-garden/home-tours/pacific-grove-house-renovation>
 
 ---
 
