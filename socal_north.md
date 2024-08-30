@@ -1,21 +1,190 @@
 ---
 title: socal north 2024.35
-updated: 2024-08-29 07:11:56
+updated: 2024-08-30 09:38:07
 ---
 
 # socal north 2024.35
 
-(date: 2024-08-29 07:11:56)
+(date: 2024-08-30 09:38:07)
 
 ---
 
-## Your SoCal weather report for Thursday, Aug. 29: Below normal temps bring another cool day to the Southland
+## A stunt or first step? Inside California’s last-minute effort to cut electric bills and streamline clean energy
 
-date: 2024-08-29, updated: 2024-08-29, from: The LAist
+date: 2024-08-30, updated: 2024-08-30, from: The LAist
 
-Enjoy the cooler weather before a weekend warm up. 
+Consumers would get a small credit on electric bills if the legislation passes. Solar companies say the energy measures might not be effective in streamlining projects. 
 
-<https://laist.com/news/climate-environment/la-weather-report-august-29-below-normal-weather-cool-down>
+<https://laist.com/news/politics/california-last-minute-effort-to-cut-electric-bills-streamline-clean-energy>
+
+---
+
+## Your SoCal weather report for Friday, Aug. 30: Slow warm up for Labor Day weekend
+
+date: 2024-08-30, updated: 2024-08-30, from: The LAist
+
+We're in for a slow but steady warm up for Labor Day weekend. 
+
+<https://laist.com/news/climate-environment/la-weather-report-august-30-slow-warm-up-triple-digits>
+
+---
+
+## California Proposition 4: Funding climate action
+
+date: 2024-08-30, updated: 2024-08-30, from: The LAist
+
+Proposition 4 is a $10 billion bond to pay for climate and environmental projects. 
+
+<https://laist.com/news/politics/2024-election-california-general-proposition-4-climate-action-bond>
+
+---
+
+## Classifieds – August 30, 2024
+
+date: 2024-08-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/30/classifieds-august-30-2024/">Classifieds &#8211; August 30, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/30/classifieds-august-30-2024/>
+
+---
+
+## ‘Sci-fi, Magick, Queer LA’ mixes LGBTQIA+ history, art, spirituality
+
+date: 2024-08-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The exhibit, organized by ONE Archives, is showing at the Fisher Museum of Art.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/30/sci-fi-magick-queer-la-mixes-lgbtqia-history-art-spirituality/">‘Sci-fi, Magick, Queer LA’ mixes LGBTQIA+ history, art, spirituality</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/30/sci-fi-magick-queer-la-mixes-lgbtqia-history-art-spirituality/>
+
+---
+
+## Fall into school with September streaming
+
+date: 2024-08-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Gear up for cozy season and the new school year with these exciting shows.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/30/fall-into-school-with-september-streaming/">Fall into school with September streaming</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/30/fall-into-school-with-september-streaming/>
+
+---
+
+## Football faces No. 13 LSU in Sin City showdown
+
+date: 2024-08-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Now as part of the Big Ten, USC hopes to prove itself against the SEC’s Tigers.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/30/football-faces-no-13-lsu-in-sin-city-showdown/">Football faces No. 13 LSU in Sin City showdown</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/30/football-faces-no-13-lsu-in-sin-city-showdown/>
+
+---
+
+## SCA adjuncts hold rally amid contract negotiations
+
+date: 2024-08-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Adjuncts’ union alleges the University is stalling on many important proposals.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/30/sca-adjuncts-hold-rally-amid-contract-negotiations/">SCA adjuncts hold rally amid contract negotiations</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/30/sca-adjuncts-hold-rally-amid-contract-negotiations/>
+
+---
+
+## USC must protect all undocumented Trojans
+
+date: 2024-08-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/08/30/usc-must-protect-all-undocumented-trojans/">USC must protect all undocumented Trojans</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/30/usc-must-protect-all-undocumented-trojans/>
+
+---
+
+## Soccer prepares for test, travels to Portland
+
+date: 2024-08-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC looks to maintain its momentum after defeating Pepperdine last weekend.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/30/soccer-prepares-for-test-travels-to-portland/">Soccer prepares for test, travels to Portland</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/30/soccer-prepares-for-test-travels-to-portland/>
+
+---
+
+## College students are making South Central unlivable
+
+date: 2024-08-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/08/30/college-students-are-making-south-central-unlivable/">College students are making South Central unlivable</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/30/college-students-are-making-south-central-unlivable/>
+
+---
+
+## Led by Ethan Garbers, veteran talent forms core of UCLA football’s offensive corps
+
+date: 2024-08-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Experience and veteran leadership will steer the Bruins through a season of new beginnings.
+Redshirt senior Ethan Garbers&#8217; role as UCLA football&#8217;s first-string quarterback has provided UCLA football and coach DeShaun Foster with both stability and familiarity under center. 
+
+<https://dailybruin.com/2024/08/29/led-by-ethan-garbers-veteran-talent-forms-core-of-ucla-footballs-offensive-corps/>
+
+---
+
+## Second Take: AI-generated art introduces harmful, unethical narratives to political campaigns
+
+date: 2024-08-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+If the American electorate is not careful, a new form of political art may trump election integrity and workers&#8217; rights
+On August 18, an image of Taylor Swift in an Uncle Sam costume endorsing Donald Trump materialized on Trump&#8217;s Truth Social account. 
+
+<https://dailybruin.com/2024/08/29/second-take-ai-generated-art-introduces-harmful-unethical-narratives-to-political-campaigns/>
+
+---
+
+## New pedestrian-only Broxton Plaza aims to revitalize Westwood
+
+date: 2024-08-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Broxton Avenue will close to vehicle traffic starting in September to make way for the Broxton Plaza, a pedestrian-only area with programming, lawn games, outdoor seating and free Wi-Fi. 
+
+<https://dailybruin.com/2024/08/29/new-pedestrian-only-broxton-plaza-aims-to-revitalize-westwood/>
+
+---
+
+## Register Now for the 29th Annual River Rally!
+
+date: 2024-08-29, from: City of Santa Clarita
+
+<p>By Councilmember Jason Gibbs &#160;“A river is more than an amenity; it is a treasure.”&#160;– Oliver Wendell Holmes As fall is approaching, the City of Santa Clarita prepares for one of its popular annual events, the River Rally and Environmental Expo! Over a thousand Santa Clarita residents come together to help keep our City clean [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/08/29/register-now-for-the-29th-annual-river-rally/">Register Now for the 29th Annual River Rally!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/08/29/register-now-for-the-29th-annual-river-rally/>
+
+---
+
+## UCLA women’s soccer scores 5th consecutive shutout with victory over BYU
+
+date: 2024-08-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Senior defender Lily Reale blasted a corner kick to the back of the box in the fifth minute of the game.
+The Big Ten Defensive Player of the Week hit her target – senior defender Jayden Perry – but Perry&#8217;s attempt to head the ball into the goal fell just short. 
+
+<https://dailybruin.com/2024/08/29/ucla-womens-soccer-scores-5th-consecutive-shutout-with-victory-over-byu/>
 
 ---
 
@@ -29,11 +198,176 @@ Evaluating judicial candidates is notoriously hard, but there are a few pieces o
 
 ---
 
-## LA needs more wildlife crossings. Will private donors help pay for it?
+## Column: Head coach Gina Brewer leads women’s soccer on the right track
+
+date: 2024-08-29, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN women’s soccer program hit rock bottom in 2023 after finishing with a 1-13-5 record. Coming into the 2024 season, the program has only had seven wins since 2019.... 
+
+<https://sundial.csun.edu/184112/sports/column-head-coach-gina-brewer-leads-womens-soccer-on-the-right-track/>
+
+---
+
+## UCLA cross country prepares for season opener featuring new conference, new coach
+
+date: 2024-08-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+A new era is on the horizon for the Bruins.
+UCLA cross country will compete in its season opener in a tri-meet against UC Riverside and UC Santa Barbara in Big Bear Lake, California, on Friday. 
+
+<https://dailybruin.com/2024/08/29/ucla-cross-country-prepares-for-season-opener-featuring-new-conference-new-coach/>
+
+---
+
+## Brahmas are back for new school year
+
+date: 2024-08-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>As the 2024-25 school year kicked off on Aug. 26, the Pierce College campus bustled with new and returning students, staff and faculty.  The first</p>
+<p>The post <a href="https://theroundupnews.com/2024/08/29/brahmas-are-back-for-new-school-year/">Brahmas are back for new school year</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/08/29/brahmas-are-back-for-new-school-year/?utm_source=rss&utm_medium=rss&utm_campaign=brahmas-are-back-for-new-school-year>
+
+---
+
+## Embrace the Eternal Allure of Sicily: Discover the Wonders from Cozy Villas
+
+date: 2024-08-29, from: The Sundail (CSUN Student Newspaper)
+
+Sicily is the biggest island in the Mediterranean and a cultural, historical, and scenic treasure trove. What better than Sicily villas for rent if you&#8217;re looking for a place to... 
+
+<https://sundial.csun.edu/184092/sundialbrandstudio/sundial-marketplace/embrace-the-eternal-allure-of-sicily-discover-the-wonders-from-cozy-villas/>
+
+---
+
+## Classifieds – August 29, 2024
+
+date: 2024-08-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/29/classifieds-august-29-2024/">Classifieds &#8211; August 29, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/29/classifieds-august-29-2024/>
+
+---
+
+## How Should Tech Companies Strategize Finances?
+
+date: 2024-08-29, from: The Sundail (CSUN Student Newspaper)
+
+Quantum artificial intelligence (AI) has surfaced as a potent instrument in the financial technology sector, with the potential to completely transform the way tech businesses manage their cash flow. Businesses... 
+
+<https://sundial.csun.edu/184089/sundialbrandstudio/sundial-marketplace/how-should-tech-companies-strategize-finances/>
+
+---
+
+## The Benefits of Digital Trading: Why Every Tech Startup Must Embrace Neo Profit
+
+date: 2024-08-29, from: The Sundail (CSUN Student Newspaper)
+
+Tech firms need to keep ahead of the curve in the fast-paced world of finance and technology. The incorporation of digital trading technologies, including Neo Profit has disruptive benefits that... 
+
+<https://sundial.csun.edu/184086/sundialbrandstudio/sundial-marketplace/the-benefits-of-digital-trading-why-every-tech-startup-must-embrace-neo-profit/>
+
+---
+
+## Why Are Tech Startups Moving Towards Digital Finances?
+
+date: 2024-08-29, from: The Sundail (CSUN Student Newspaper)
+
+Tech firms have been drawn more and more to digital finance in recent years due to the demand for more effective, data-driven solutions for managing and optimizing investments. One of... 
+
+<https://sundial.csun.edu/184082/sundialbrandstudio/sundial-marketplace/why-are-tech-startups-moving-towards-digital-finances/>
+
+---
+
+## Rancho Palos Verdes land movement leads to 10,000-gallon sewage spill
 
 date: 2024-08-29, updated: 2024-08-29, from: The LAist
 
-A new effort to create more wildlife crossings in LA and throughout the state seeks to raise hundreds of millions in private funding. 
+The incident was considered the city’s first significant break connected to the movement, but it’s not possible to know if it will be the last. 
+
+<https://laist.com/news/climate-environment/la-rancho-palos-verdes-land-movement-sewage-spill>
+
+---
+
+## (Opinion) Finding Community In A Post-Lockdown College Life
+
+date: 2024-08-29, from: The Sundail (CSUN Student Newspaper)
+
+When the Coronavirus pandemic began spreading across the world in early 2020, there was no way for anyone to know what the future may hold, and uncertainty was ubiquitous. When... 
+
+<https://sundial.csun.edu/183956/opinions/print-roberts-opinion-finding-community/>
+
+---
+
+## UCLA women’s volleyball to open 2024 season on the road against nonconference foes
+
+date: 2024-08-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Associate head coach Amir Lugo-Rodriguez opened the Bruins&#8217; presser at the Big Ten Volleyball Media Days by calling the Big Ten the best conference in the country. 
+
+<https://dailybruin.com/2024/08/29/ucla-womens-volleyball-to-open-2024-season-on-the-road-against-nonconference-foes/>
+
+---
+
+## Fighting invasive ants on Santa Cruz Island
+
+date: 2024-08-29, updated: 2024-08-29, from: The LAist
+
+An infusion of federal money could help lead to the eradication of the ants which have been there for six decades. 
+
+<https://laist.com/news/climate-environment/fighting-invasive-ants-santa-cruz-island>
+
+---
+
+## Religion on Campus: Chabad House at UCLA
+
+date: 2024-08-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+On this episode of Religion on Campus, Podcasts editor Olivia Miller and contributor Lauren Miller interview Rabbi Dovid Gurevich, the Chabad Rabbi at UCLA since 2006. 
+
+<https://dailybruin.com/2024/08/29/religion-on-campus-chabad-house-at-ucla/>
+
+---
+
+## Matador Marquee
+
+date: 2024-08-29, from: The Sundail (CSUN Student Newspaper)
+
+As the Fall semester is slowly starting up, both new and returning students at CSUN may be interested in searching for some movies to watch to get back into the... 
+
+<https://sundial.csun.edu/184001/arts-entertainment/matador-marquee/>
+
+---
+
+## New high school sports rules mandate more breaks, water, cancellations in heat
+
+date: 2024-08-29, updated: 2024-08-29, from: The LAist
+
+California schools must monitor temperature and adjust practices and games accordingly to keep student athletes safe. 
+
+<https://laist.com/news/education/california-high-school-sports-heat-rules-cif-2024>
+
+---
+
+## Your SoCal weather report for Thursday, Aug. 29: Below normal temps bring another cool day to the Southland
+
+date: 2024-08-29, updated: 2024-08-29, from: The LAist
+
+Enjoy the cooler weather before a weekend warm up. 
+
+<https://laist.com/news/climate-environment/la-weather-report-august-29-below-normal-weather-cool-down>
+
+---
+
+## Will private donors help California pay for new wildlife crossings?
+
+date: 2024-08-29, updated: 2024-08-29, from: The LAist
+
+A new effort to create more wildlife crossings in Los Angeles and throughout the state seeks to raise hundreds of millions in private funding. 
 
 <https://laist.com/news/climate-environment/wildlife-crossings-california-public-private-partnership>
 
@@ -48,18 +382,6 @@ date: 2024-08-29, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/08/29/decision-approaches-for-legacy-admissions-bill/>
-
----
-
-## Classifieds – August 29, 2024
-
-date: 2024-08-29, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
-<p>The post <a href="https://dailytrojan.com/2024/08/29/classifieds-august-29-2024/">Classifieds &#8211; August 29, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2024/08/29/classifieds-august-29-2024/>
 
 ---
 
@@ -147,6 +469,18 @@ date: 2024-08-29, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
+## Legacy sequels will stay unpredictable forever
+
+date: 2024-08-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>With the release of “Beetlejuice Beetlejuice” fast approaching, let’s examine how Hollywood’s other follow-ups have performed this year.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/28/legacy-sequels-will-stay-unpredictable-forever/">Legacy sequels will stay unpredictable forever</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/28/legacy-sequels-will-stay-unpredictable-forever/>
+
+---
+
 ## Kitchen To Go Entrega Comidas Recién Preparadasa los Necesitados
 
 date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
@@ -164,7 +498,7 @@ date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Hope-Kitchen-01.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Cuando Raymond Mendoza crecía en el condado de San Luis Obispo, a lo largo de la costa central de California, tuvo una buena educación. Pero una serie de malas decisiones [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/08/28/la-cocina-de-hope-the-mission-ofrece-comidas-frescas-y-segundas-oportunidades/">La Cocina de Hope the Mission Ofrece Comidas Frescas y Segundas Oportunidades</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -201,7 +535,7 @@ date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="900" height="506" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?fit=900%2C506&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?fit=900%2C506&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="900" height="506" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?fit=900%2C506&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/CHICANO-SQUAD-1-PHOTO-BY-AE_elsol.jpg?fit=900%2C506&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Para el abogado de entretenimiento Sergio Selvera, su padre José es un verdadero héroe. Selvera padre fue miembro fundador de la primera unidad de homicidios totalmente latina en Houston, que [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/08/28/docuserie-the-chicano-squad-se-estrena-en-ae-el-2-de-septiembre/">Docuserie &#8211; The Chicano Squad se Estrena en A&amp;E el 2 de Septiembre</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -214,7 +548,7 @@ date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="625" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?fit=1024%2C625&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=300%2C183&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=1024%2C625&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=768%2C468&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=1536%2C937&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=1200%2C732&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=1568%2C956&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=400%2C244&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=706%2C431&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?fit=1024%2C625&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="625" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?fit=1024%2C625&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=300%2C183&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=1024%2C625&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=768%2C468&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=1536%2C937&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=1200%2C732&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=1568%2C956&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=400%2C244&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?resize=706%2C431&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_9135-scaled-e1724907835339.jpeg?fit=1024%2C625&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>En respuesta a una serie de robos, un homicidio en la tienda Autozone el 1 de agosto y el arresto local de un sospechoso de asesinato de alto perfil en [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/08/28/el-jefe-del-sfpd-hace-reuniones-de-vigilancia-comunitaria-despues-de-la-reciente-ola-de-crimenes/">El Jefe del SFPD Hace Reuniones de Vigilancia Comunitaria Después de la Reciente Ola de Crímenes</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -227,7 +561,7 @@ date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240824_173311919.MP_-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Más de 20 compañías de atención médica y organizaciones comunitarias instalaron puestos en un estacionamiento de Walgreens en Arleta para una feria de salud inaugural para proporcionar un acceso más [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/08/28/la-feria-comunitaria-de-arleta-hace-que-los-recursos-de-atencion-medica-sean-mas-accesibles-para-los-residentes-locales/">La Feria Comunitaria de Arleta Hace Que los Recursos de Atención Médica Sean Más Accesibles Para los Residentes Locales</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -240,7 +574,7 @@ date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?w=1675&amp;ssl=1 1675w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?w=1675&amp;ssl=1 1675w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/Opioid-Summit_SN_05.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Un día después del Día Nacional de Prevención y Concientización sobre el Fentanilo, el 22 de agosto, la Coalición contra las Pandillas del Valle de San Fernando (SFVCOG, por sus [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/08/28/la-segunda-cumbre-anual-sobre-opioides-fomenta-la-colaboracion-en-la-lucha-contra-la-epidemia-mortal/">La Segunda Cumbre Anual Sobre Opioides Fomenta la Colaboración en la Lucha Contra la Epidemia Mortal</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -253,7 +587,7 @@ date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="857" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?fit=857%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=251%2C300&amp;ssl=1 251w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=857%2C1024&amp;ssl=1 857w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=768%2C918&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=1285%2C1536&amp;ssl=1 1285w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=1713%2C2048&amp;ssl=1 1713w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=1200%2C1434&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=1568%2C1874&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=400%2C478&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=706%2C844&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?fit=857%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="857" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?fit=857%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=251%2C300&amp;ssl=1 251w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=857%2C1024&amp;ssl=1 857w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=768%2C918&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=1285%2C1536&amp;ssl=1 1285w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=1713%2C2048&amp;ssl=1 1713w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=1200%2C1434&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=1568%2C1874&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=400%2C478&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?resize=706%2C844&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/PXL_20240826_175859436-scaled-e1724907477620.jpg?fit=857%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Para ayudar a las personas mayores del Valle de San Fernando a mantenerse frescas en sus hogares, el Departamento de Agua y Energía de Los Ángeles (LADWP, por sus siglas [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/08/28/se-entregaron-aires-acondicionados-gratuitos-en-el-centro-de-adultos-mayores-de-pacoima/">Se Entregaron Aires Acondicionados Gratuitos en el Centro de Adultos Mayores de Pacoima</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -266,7 +600,7 @@ date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-08-29, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="480" height="360" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?fit=480%2C360&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?w=480&amp;ssl=1 480w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?fit=480%2C360&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="480" height="360" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?fit=480%2C360&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?w=480&amp;ssl=1 480w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/08/IMG_20240717_120815.jpg?fit=480%2C360&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Casi cuatro semanas después de la fatal colisión de dos autos que mató a Yadira Caamal, de 45 años, residente de San Fernando, el mes pasado, se acaba de confirmar [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/08/28/la-segunda-victima-muere-semanas-despues-de-un-devastador-accidente-automovilistico-el-mes-pasado/">La Segunda Víctima Muere Semanas Después de un “Devastador” Accidente Automovilístico el Mes Pasado</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

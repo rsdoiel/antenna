@@ -1,11 +1,31 @@
 ---
 title: health 2024.35
-updated: 2024-08-29 07:12:05
+updated: 2024-08-30 09:38:17
 ---
 
 # health 2024.35
 
-(date: 2024-08-29 07:12:05)
+(date: 2024-08-30 09:38:17)
+
+---
+
+## The ISVsa3-ORF2-abh-tet(X4) circular intermediate-mediated transmission of tigecycline resistance in Escherichia coli isolates from duck farms
+
+date: 2024-08-30, from: Frontiers in Cellular and Infection Microbiology
+
+Tigecycline is a last-resort drug used to treat serious infections caused by multidrug-resistant bacteria. tet(X4) is a recently discovered plasmid-mediated tigecycline resistance gene that confers high-level resistance to tigecycline and other tetracyclines. Since the first discovery of tet(X4) in 2019, it has spread rapidly worldwide, and as a consequence, tigecycline has become increasingly ineffective in the clinical treatment of multidrug-resistant infections. In this study, we identified and analyzed tet(X4)-positive Escherichia coli isolates from duck farms in Hunan Province, China. In total, 976 samples were collected from nine duck farms. Antimicrobial susceptibility testing and whole-genome sequencing (WGS) were performed to establish the phenotypes and genotypes of tet(X4)-positive isolates. In addition, the genomic characteristics and transferability of tet(X4) were determined based on bioinformatics analysis and conjugation. We accordingly detected an E. coli strain harboring tet(X4) and seven other resistance genes in duck feces. Multi-locus sequence typing analysis revealed that this isolate belonged to a new clone, and subsequent genetic analysis indicated that tet(X4) was carried in a 4608-bp circular intermediate, flanked by ISVsa3-ORF2-abh elements. Moreover, it exhibited transferability to E. coli C600 with a frequency of 10-5. The detection of tet(X4)-harboring E, coli strains on duck farms enhances our understanding of tigecycline resistance dynamics. The transferable nature of the circular intermediate of tet(X4) contributing to the spread of tigecycline resistance genes poses a substantial threat to healthcare. Consequently, vigilant monitoring and proactive measures are necessary to prevent their spread. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1444031>
+
+---
+
+## Small molecule inhibitors of fungal Δ(9) fatty acid desaturase as antifungal agents against Candida auris
+
+date: 2024-08-30, from: Frontiers in Cellular and Infection Microbiology
+
+Candida auris has emerged as a significant healthcare-associated pathogen due to its multidrug-resistant nature. Ongoing constraints in the discovery and provision of new antifungals create an urgent imperative to design effective remedies to this pressing global blight. Herein, we screened a chemical library and identified aryl-carbohydrazide analogs with potent activity against both C. auris and the most prevalent human fungal pathogen, C. albicans. SPB00525 [N’-(2,6-dichlorophenyl)-5-nitro-furan-2-carbohydrazide] exhibited potent activity against different strains that were resistant to standard antifungals. Using drug-induced haploinsufficient profiling, transcriptomics and metabolomic analysis, we uncovered that Ole1, a Δ(9) fatty acid desaturase, is the likely target of SPB00525. An analog of the latter, HTS06170 [N’-(2,6-dichlorophenyl)-4-methyl-1,2,3-thiadiazole-5-carbohydrazide], had a superior antifungal activity against both C. auris and C. albicans. Both SPB00525 and HTS06170 act as antivirulence agents and inhibited the invasive hyphal growth and biofilm formation of C. albicans. SPB00525 and HTS06170 attenuated fungal damage to human enterocytes and ameliorate the survival of Galleria mellonella larvae used as systemic candidiasis model. These data suggest that inhibiting fungal Δ(9) fatty acid desaturase activity represents a potential therapeutic approach for treating fungal infection caused by the superbug C. auris and the most prevalent human fungal pathogen, C. albicans. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1434939>
 
 ---
 

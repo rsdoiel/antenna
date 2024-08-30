@@ -1,11 +1,51 @@
 ---
 title: libraries 2024.35
-updated: 2024-08-29 07:12:03
+updated: 2024-08-30 09:38:14
 ---
 
 # libraries 2024.35
 
-(date: 2024-08-29 07:12:03)
+(date: 2024-08-30 09:38:14)
+
+---
+
+## Nicholas Nickleby, by Charles Dickens
+
+date: 2024-08-29, from: Standard Ebooks, new releaases
+
+A brother and sister, made destitute by the death of their father, struggle to succeed despite the callous indifference of their corrupt uncle. 
+
+<https://standardebooks.org/ebooks/charles-dickens/nicholas-nickleby>
+
+---
+
+## Under Western Eyes, by Joseph Conrad
+
+date: 2024-08-29, from: Standard Ebooks, new releaases
+
+A university student in St. Petersburg is drawn into the activities of a revolutionary group against his will. 
+
+<https://standardebooks.org/ebooks/joseph-conrad/under-western-eyes>
+
+---
+
+## Poetry, by W. B. Yeats
+
+date: 2024-08-29, from: Standard Ebooks, new releaases
+
+A collection of poems by W. B. Yeats. 
+
+<https://standardebooks.org/ebooks/w-b-yeats/poetry>
+
+---
+
+## Poetry, by Frances Ellen Watkins Harper
+
+date: 2024-08-29, from: Standard Ebooks, new releaases
+
+A collection of poems by Frances Ellen Watkins Harper. 
+
+<https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry>
 
 ---
 

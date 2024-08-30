@@ -1,11 +1,137 @@
 ---
 title: food 2024.35
-updated: 2024-08-29 07:12:07
+updated: 2024-08-30 09:38:18
 ---
 
 # food 2024.35
 
-(date: 2024-08-29 07:12:07)
+(date: 2024-08-30 09:38:18)
+
+---
+
+## I Need Fun Salad Recipes
+
+date: 2024-08-30, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris and Jess Damuck explore ways to make fresh, delicious salads all week long. 
+
+<https://www.bonappetit.com/story/i-need-fun-salad-recipes>
+
+---
+
+## Best Air Fryers (2024), Reviewed By Our Experts
+
+date: 2024-08-30, from: Bon Appetet
+
+Here’s what our editors recommend for crunchy fries, crispy chicken skin, blistered veggies, and more. 
+
+<https://www.bonappetit.com/gallery/best-air-fryers>
+
+---
+
+## Curried Carrot Soup
+
+date: 2024-08-30, from: Pepper Scale
+
+Carrot soup is always a go-to when you need a little comfort food goodness. Sweet and earthy, it&#8217;s a soup that delivers on the most meh days. But how about amping that comfort up a notch? How about some comfort food with something to say? ... <p class="read-more-container"><a title="Curried Carrot Soup" class="read-more button" href="https://pepperscale.com/curried-carrot-soup/#more-18132" aria-label="Read more about Curried Carrot Soup">Read more</a></p> 
+
+<https://pepperscale.com/curried-carrot-soup/>
+
+---
+
+## When Do Peppers Change Color?
+
+date: 2024-08-30, from: Pepper Scale
+
+Peppers are a beautiful fruit in that they come in a variety of colors. Peppers change color as they ripen, but how long does it take? Do all peppers change color similarly? And do they need to stay on the vine to change color, or ... <p class="read-more-container"><a title="When Do Peppers Change Color?" class="read-more button" href="https://pepperscale.com/when-do-peppers-change-color/#more-91726" aria-label="Read more about When Do Peppers Change Color?">Read more</a></p> 
+
+<https://pepperscale.com/when-do-peppers-change-color/>
+
+---
+
+## Strawberry Jalapeño Jam
+
+date: 2024-08-30, from: Pepper Scale
+
+Strawberry jalapeño jam is such a perfect mix of fruity, spicy, and sweet. It&#8217;s great as a holiday jam to keep that party on its toes. Try it mixed with cream cheese for a delicious spread. Don&#8217;t be afraid, too, to make this a daily ... <p class="read-more-container"><a title="Strawberry Jalapeño Jam" class="read-more button" href="https://pepperscale.com/strawberry-jalapeno-jam/#more-8583" aria-label="Read more about Strawberry Jalapeño Jam">Read more</a></p> 
+
+<https://pepperscale.com/strawberry-jalapeno-jam/>
+
+---
+
+## Bacon, Egg, And Cheese Quiche With Serrano Peppers
+
+date: 2024-08-30, from: Pepper Scale
+
+For magnificently rich flavors and super-chic simplicity, unleash this spicy bacon, egg, and cheese quiche. It has a wonderful and rather unusual pastry crust that partners perfectly with the filling of smoked bacon, strong cheddar, serrano peppers, eggs, and heavy cream. Our version of this ... <p class="read-more-container"><a title="Bacon, Egg, And Cheese Quiche With Serrano Peppers" class="read-more button" href="https://pepperscale.com/bacon-egg-and-cheese-quiche-with-serrano-peppers/#more-89745" aria-label="Read more about Bacon, Egg, And Cheese Quiche With Serrano Peppers">Read more</a></p> 
+
+<https://pepperscale.com/bacon-egg-and-cheese-quiche-with-serrano-peppers/>
+
+---
+
+## Marinated Bean Salad and More Recipes We Made This Week
+
+date: 2024-08-30, from: Bon Appetet
+
+Like Hainanese chicken and vanilla berry pudding. 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-august-2024>
+
+---
+
+## What are Tomatillos?
+
+date: 2024-08-30, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/what-are-tomatillos/"><img title="Tomatillos are very popular in Mexican cuisine, but what is a tomatillo and how do you use it? Read on for the answers and for some delicious recipes!" src="https://www.isabeleats.com/wp-content/uploads/2019/07/tomatillos-small-1-400x600.jpg" alt="Tomatillos on a white table." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Tomatillos are a popular Mexican vegetable used in salsas, sauces, and soups. They&#8217;re tangy and slightly citrusy, perfect for adding a pop of freshness to your dishes! What Are Tomatillos? Tomatillos are a small round fruit with a green color and a papery husk. They’re native to Mexico and are commonly used in Mexican cuisine [&#8230;] 
+
+<https://www.isabeleats.com/what-are-tomatillos/>
+
+---
+
+## Esquites Recipe (Mexican Street Corn Salad)
+
+date: 2024-08-30, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/esquites/" title="Esquites Recipe (Mexican Street Corn Salad)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Esquites-Recipe1-Mexican-Corn-Salad-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Esquites (Mexican Street Corn Salad) in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Esquites-Recipe1-Mexican-Corn-Salad-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Esquites-Recipe1-Mexican-Corn-Salad-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Esquites-Recipe1-Mexican-Corn-Salad-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Esquites-Recipe1-Mexican-Corn-Salad-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Esquites-Recipe1-Mexican-Corn-Salad-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Esquites-Recipe1-Mexican-Corn-Salad-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Esquites-Recipe1-Mexican-Corn-Salad.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Esquites is a delicious Mexican street corn salad with lots of roasted corn, jalapeno, and herbs in a tangy, creamy dressing, like elote in salad form.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/esquites/">Esquites Recipe (Mexican Street Corn Salad)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<https://www.chilipeppermadness.com/recipes/esquites/>
+
+---
+
+## 41 Fall Desserts Full of Sugar, Spice, and Everything Nice
+
+date: 2024-08-29, from: Bon Appetet
+
+When the leaves start to fall, make caramel apple cookies, sweet potato layer cake, and extra-fluffy cinnamon rolls. 
+
+<https://www.bonappetit.com/gallery/best-fall-desserts>
+
+---
+
+## What a 28-Year-Old Trail Worker Eats on $36K in Jackson, Wyoming
+
+date: 2024-08-29, from: Bon Appetet
+
+Part of a backcountry wilderness crew, she preps and packs camping-friendly meals for six days at a time: coffee, salami and cucumber sandwiches, and a “backpacking salad niçoise.” 
+
+<https://www.bonappetit.com/story/food-diary-trail-worker-36k-year-jackson-wyoming>
+
+---
+
+## Zucchini Meatballs
+
+date: 2024-08-29, from: Taste of Home
+
+Vegetarian zucchini meatballs will be a welcome addition to spaghetti night, or serve them as an appetizer with marinara sauce. Made with Panko bread crumbs, Parmesan cheese, onion, basil and garlic, these tiny bites are full of flavor. 
+
+<https://www.tasteofhome.com/recipes/zucchini-meatballs/>
 
 ---
 
@@ -100,6 +226,16 @@ date: 2024-08-29, from: Pepper Scale
 Carrots and habaneros are always a surprisingly tasty pairing: earthy-sweet and fiery. And that’s what’s behind Marie Sharp’s Habanero Pepper Sauce. It’s chock full of flavor, but how well is its heat balanced? And are carrot-based hot sauces like this as usable as other more ... <p class="read-more-container"><a title="Marie Sharp’s Habanero Pepper Sauce Review" class="read-more button" href="https://pepperscale.com/marie-sharps-habanero-pepper-sauce/#more-90870" aria-label="Read more about Marie Sharp’s Habanero Pepper Sauce Review">Read more</a></p> 
 
 <https://pepperscale.com/marie-sharps-habanero-pepper-sauce/>
+
+---
+
+## HexClad Reviews: 5 Items That Are Worth the Hype [Tested]
+
+date: 2024-08-29, from: Taste of Home
+
+Eyeing HexClad reviews to see if the trendy cookware brand is worth the splurge? We tested cookware, knives and accessories for over a year to see what's worth buying—and what you can skip.  
+
+<https://www.tasteofhome.com/collection/hexclad-reviews/>
 
 ---
 
@@ -215,7 +351,7 @@ date: 2024-08-28, from: Isebel Eats
 
 date: 2024-08-28, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/chicken-wings-white-bbq-sauce/" title="Grilled Chicken Wings with Alabama White Sauce" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mike dipping a juicy chicken wing into a bowl of Alabama white bbq sauce" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>These crispy chicken wings are brined for flavor and juiciness, dry rubbed, fire grilled, then drenched in homemade Alabama white BBQ sauce, so good! Get the recipe and get grilling!</p>
+<a href="https://www.chilipeppermadness.com/recipes/chicken-wings-white-bbq-sauce/" title="Grilled Chicken Wings with Alabama White Sauce" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mike dipping a juicy chicken wing into a bowl of Alabama white bbq sauce" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Chicken-Wings-Recipe-Alabama-White-Sauce1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>These crispy chicken wings are brined for flavor and juiciness, dry rubbed, fire grilled, then drenched in homemade Alabama white BBQ sauce, so good! Get the recipe and get grilling!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/chicken-wings-white-bbq-sauce/">Grilled Chicken Wings with Alabama White Sauce</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

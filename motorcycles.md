@@ -1,11 +1,71 @@
 ---
 title: motorcycles 2024.35
-updated: 2024-08-29 07:12:04
+updated: 2024-08-30 09:38:16
 ---
 
 # motorcycles 2024.35
 
-(date: 2024-08-29 07:12:04)
+(date: 2024-08-30 09:38:16)
+
+---
+
+## My Alpinestars Supertech R10 Helmet Saved My Life, And Now I'm Sad
+
+date: 2024-08-30, from: Ride Apart, Electric Motorcycle News
+
+"You can replace a helmet, but you can't replace your head". Whoever said that hadn't seen my Supertech R10. 
+
+<https://www.rideapart.com/news/731698/alpinestars-supertech-r10-crash/>
+
+---
+
+## Could Yamaha’s Sleek And Sporty X-Force Scooter Sell In The US?
+
+date: 2024-08-30, from: Ride Apart, Electric Motorcycle News
+
+It’s a very popular commuter model in Japan.  
+
+<https://www.rideapart.com/news/731729/2025-yamaha-xforce-launch-japan/>
+
+---
+
+## Bikes And Beards Just Got Called Out By Paul Senior, For Some Reason
+
+date: 2024-08-30, from: Ride Apart, Electric Motorcycle News
+
+The OG drama queen, calling someone else a drama queen for clicks! Welcome to the Internet. 
+
+<https://www.rideapart.com/news/731847/bikes-and-beards-paul-senior/>
+
+---
+
+## Hell Yeah, Friends Of Laguna Seca Have Taken Over The Iconic Raceway
+
+date: 2024-08-30, from: Ride Apart, Electric Motorcycle News
+
+The organization has laid out a massive 55-year operational plan for the Laguna Seca raceway.  
+
+<https://www.rideapart.com/news/731725/friends-of-laguna-seca-take-over-raceway/>
+
+---
+
+## The Changjiang Siberian Express 750 Isn't A Threat, It's An Upgrade
+
+date: 2024-08-30, from: Ride Apart, Electric Motorcycle News
+
+Plusher suspension and heated grips as standard? Say no more. 
+
+<https://www.rideapart.com/news/731829/changjiang-siberian-express-750-sidecar/>
+
+---
+
+## Yamaha Drops 2025 JetBlaster , Also Updates Its WaveRunner Lineup
+
+date: 2024-08-30, from: Ride Apart, Electric Motorcycle News
+
+Team Blue’s got something for both beginners and seasoned PWC enthusiasts alike.  
+
+<https://www.rideapart.com/news/731722/2025-yamaha-waverunner-jetblaster-launch/>
 
 ---
 

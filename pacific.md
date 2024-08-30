@@ -1,11 +1,722 @@
 ---
 title: pacific 2024.35
-updated: 2024-08-29 07:11:57
+updated: 2024-08-30 09:38:09
 ---
 
 # pacific 2024.35
 
-(date: 2024-08-29 07:11:57)
+(date: 2024-08-30 09:38:09)
+
+---
+
+## USDOL: Guam company violated labor laws while under federal contract
+
+date: 2024-08-30, from: Pacific Island Times
+
+By Pacific Island Times News Staff A Guam company subcontracted by the U.S. Army Corps of Engineers for post-Mawar debris removal has... 
+
+<https://www.pacificislandtimes.com/post/usdol-guam-company-violated-labor-laws-while-under-federal-contract>
+
+---
+
+## Postal Service overhaul runs into challenges
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; More than three years ago, the U.S. Postal Service unveiled a sweeping 10-year plan meant to steer the organization out of a financial crisis. The plan, which included consolidating locations, raising prices and lengthening promised delivery times, was meant to stabilize an agency that had lost $87 billion over the past 14 years. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/nation-world-news/postal-service-overhaul-runs-into-challenges/>
+
+---
+
+## Nation and world news in brief for August 30
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>Federal government restarts parole &#0010;program for Cuba, &#0010;Haiti, Venezuela and Nicaragua</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/nation-world-news/nation-and-world-news-in-brief-for-august-30/>
+
+---
+
+## Harris vows tougher approach on migration, supports weapons for Israel
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>SAVANNAH, Georgia/WASHINGTON&#8212; Kamala Harris vowed a tougher approach to migration along the U.S. southern border and said she would not withhold weapons to Israel, in her first interview with a major news organization since becoming the Democratic nominee for president.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/nation-world-news/harris-vows-tougher-approach-on-migration-supports-weapons-for-israel/>
+
+---
+
+## Tim Walz is happy to help, content to be ignored
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>In their joint television interview Thursday night, Vice President Kamala Harris and Gov. Tim Walz of Minnesota were seated in a way that made him appear twice her height. But Walz understood his main assignment: Don&#8217;t overshadow your running mate.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/nation-world-news/tim-walz-is-happy-to-help-content-to-be-ignored/>
+
+---
+
+## What would it take for a reliever to win the Cy Young award today? Can it be done?
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>In 2016, from the start of May until late August, a span of 43 outings, Baltimore Orioles closer Zack Britton held the opposition without an earned run, eventually finishing the season with a 0.54 earned run average and an MLB-leading 47 saves in 47 chances.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/sports/what-would-it-take-for-a-reliever-to-win-the-cy-young-award-today-can-it-be-done/>
+
+---
+
+## Iga Swiatek, Jessica Pegula roll into third round of U.S. Open
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>World No. 1 Iga Swiatek of Poland nearly delivered her second-round opponent a double bagel, instead settling for a 6-0, 6-1 triumph over Japanese qualifier Ena Shibahara at the U.S. Open on Thursday in New York.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/sports/iga-swiatek-jessica-pegula-roll-into-third-round-of-u-s-open/>
+
+---
+
+## More than 300 turn out for county-hosted Bon Dance
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>Hundreds of Hawaii Island kupuna celebrated Obon on Thursday during the 5th annual Elderly Recreation Services Bon Dance in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/hawaii-news/more-than-300-turn-out-for-county-hosted-bon-dance/>
+
+---
+
+## Israel says it killed Islamic Jihad commander in gunbattle at West Bank mosque
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM/JENIN, West Bank &#8212; Israeli troops killed a local commander of the Iranian-backed Islamic Jihad movement in the West Bank and four other militants on Thursday in a gunbattle during one of the largest assaults in the Israeli-occupied territory for months. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/nation-world-news/israel-says-it-killed-islamic-jihad-commander-in-gunbattle-at-west-bank-mosque/>
+
+---
+
+## Typhoon Shanshan pounds Japan with torrential rains, severe wind
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>FUKUOKA, Japan &#8212; Typhoon Shanshan brought torrential rain across large parts of Japan on Friday, with warnings for flooding and landslides hundreds of miles from the storm&#8217;s centre, as many transport services ground to a halt and factories closed. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/nation-world-news/typhoon-shanshan-pounds-japan-with-torrential-rains-severe-wind/>
+
+---
+
+## Scholarship recipients announced
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Island Portuguese Chamber of Commerce Scholarship Fund has announced the recipients of the organization&#8217;s 2024 scholarships.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/community/scholarship-recipients-announced/>
+
+---
+
+## The Arc of Hilo receives $5K donation
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>The Arc of Hilo was the most recent beneficiary of the Ohana Fuels &#8220;Fuel Up. Do Good.&#8221; Community Giving Program.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/community/the-arc-of-hilo-receives-5k-donation/>
+
+---
+
+## Big Island Press Club hosting mayoral candidate forum
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>The Big Island Press Club is hosting a forum with Hawaii County mayoral candidates Mitch Roth and Kimo Alameda.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/community/big-island-press-club-hosting-mayoral-candidate-forum/>
+
+---
+
+## Hong Kong convicts editors over articles on democracy activists
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>A Hong Kong court found two former editors guilty for publishing articles about pro-democracy activists that were deemed seditious, convicting journalists of sedition charges for the first time in decades and deepening press freedom concerns. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/nation-world-news/hong-kong-convicts-editors-over-articles-on-democracy-activists/>
+
+---
+
+## Saddle up! Labor Day weekend rodeo returns to Waimea
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>The Parker Ranch Round Up Club is hosting the 48th annual Labor Day Scholarship Rodeo on Saturday and Sunday in Waimea to raise money for Parker Ranch children and their education.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/hawaii-news/saddle-up-labor-day-weekend-rodeo-returns-to-waimea/>
+
+---
+
+## Trump says IVF costs would be covered if he is elected
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Republican presidential candidate Donald Trump said on Thursday he will require the government or insurance companies to pay for IVF fertility treatments if he is elected in November, a move likely aimed at appealing to women and suburban voters. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/nation-world-news/trump-says-ivf-costs-would-be-covered-if-he-is-elected/>
+
+---
+
+## Runnin’ with Rani: Another year, another triumph on Kaloko Drive
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; Under beautiful sunny skies, cyclists gathered at the bottom of Kaloko Drive on August 18 for the annual Pedal Til Ya Puke 6.5-Mile Hill Climb, an event that has become synonymous with grit, endurance and sheer determination.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/sports/runnin-with-rani-another-year-another-triumph-on-kaloko-drive/>
+
+---
+
+## UH defensive end Wynden Ho‘ohuli carries on family tradition
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>In the early 2000s, University of Hawai&#8216;i linebacker Wynden Ho&#8216;ohuli brought his infant son Wynden to his football games.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/sports/uh-defensive-end-wynden-hoohuli-carries-on-family-tradition/>
+
+---
+
+## Federal Court to Biden on the student loan bailout: It’s (still) illegal
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>When the Eighth Circuit Court of Appeals blocked the Biden-Harris administration&#8217;s latest student loan bailout scheme, it potentially saved American taxpayers nearly half a trillion dollars.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/opinion/federal-court-to-biden-on-the-student-loan-bailout-its-still-illegal/>
+
+---
+
+## Whale beheading, bear carcass dumping and Trump boosting, oh my!
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>Our presidential folklore is awash with animal stories. Remember Franklin Roosevelt&#8217;s dog Fala? No? Well, it was a while ago. President Joe Biden is a big dog lover, but his pets were exiled to Delaware after multiple biting episodes. Jill Biden brought in a cat to fill the void. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/opinion/whale-beheading-bear-carcass-dumping-and-trump-boosting-oh-my/>
+
+---
+
+## Obituaries for August 30
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>Yoko Watanabe Durham, 86, of Hilo died July 22 at Hilo Benioff Medical Center. Born in Fukuoka, Japan, she was a homemaker, member of Urasenke Hilo Association and Ikenobo Ikebana Association. Visitation 9:30-10:30 a.m. Friday, Sept. 6, at Dodo Mortuary Chapel. Celebration of life at 10:30 a.m.. Casual attire. No flowers or koden (monetary gifts). Survived by daughter, Joan Durham of Lake Tahoe, Calif.; brother, Reizaburo Watanabe of Japan; a grandson. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/hawaii-news/obituaries-for-august-30-10/>
+
+---
+
+## Watchdog finds FBI fell short on child sexual abuse allegations
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A watchdog report released Thursday found the FBI fell short in responding to tips of hands-on sex offenses against kids, even though the bureau took corrective measures following the Larry Nassar scandal.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/nation-world-news/watchdog-finds-fbi-fell-short-on-child-sexual-abuse-allegations/>
+
+---
+
+## The Trump/RFK Jr. alliance is weird, but here’s how it might work
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>In an election cycle that can only be described as stranger than fiction, things have just gotten impossibly weirder.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/opinion/the-trump-rfk-jr-alliance-is-weird-but-heres-how-it-might-work/>
+
+---
+
+## Tamara Hutzler tapped for Five-Year term as Special Prosecutor in Palau
+
+date: 2024-08-30, from: Island Times
+
+<p>By: L.N. Reklai Koror, Palau — President Surangel S. Whipps Jr. has nominated Tamara Hutzler for appointment as Special Prosecutor of Palau, subject to Senate confirmation, under 2 PNC § 502. If confirmed, Hutzler will serve a five-year term as a special prosecutor, no longer serving the temporary position of interim special prosecutor. Hutzler, a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tamara-hutzler-tapped-for-five-year-term-as-special-prosecutor-in-palau/">Tamara Hutzler tapped for Five-Year term as Special Prosecutor in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/tamara-hutzler-tapped-for-five-year-term-as-special-prosecutor-in-palau/>
+
+---
+
+## Whipps backs regional policing plan, says it will help curb security issues
+
+date: 2024-08-30, from: Island Times
+
+<figure><img width="1024" height="694" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/President-Whipps-and-Prime-Minister-Fiame-Naomi-Mataafa.jpeg?fit=1024%2C694&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/President-Whipps-and-Prime-Minister-Fiame-Naomi-Mataafa.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/President-Whipps-and-Prime-Minister-Fiame-Naomi-Mataafa.jpeg?resize=300%2C203&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/President-Whipps-and-Prime-Minister-Fiame-Naomi-Mataafa.jpeg?resize=1024%2C694&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/President-Whipps-and-Prime-Minister-Fiame-Naomi-Mataafa.jpeg?resize=768%2C520&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/President-Whipps-and-Prime-Minister-Fiame-Naomi-Mataafa.jpeg?resize=1200%2C813&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/President-Whipps-and-Prime-Minister-Fiame-Naomi-Mataafa.jpeg?resize=400%2C271&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/President-Whipps-and-Prime-Minister-Fiame-Naomi-Mataafa.jpeg?resize=706%2C478&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/President-Whipps-and-Prime-Minister-Fiame-Naomi-Mataafa.jpeg?fit=1024%2C694&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72221" data-permalink="https://islandtimes.org/whipps-backs-regional-policing-plan-says-it-will-help-curb-security-issues/president-whipps-and-prime-minister-fiame-naomi-mataafa/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/President-Whipps-and-Prime-Minister-Fiame-Naomi-Mataafa.jpeg?fit=1249%2C846&amp;ssl=1" data-orig-size="1249,846" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="President Whipps and Prime Minister Fiame Naomi Mata&#8217;afa" data-image-description="" data-image-caption="&lt;p&gt;President Whipps with Prime Minister Fiame Naomi Mata’afa of Samoa at the 53rd Pacific Island Forum meeting in Tonga. (Photo credit: RNZ Pacific)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/President-Whipps-and-Prime-Minister-Fiame-Naomi-Mataafa.jpeg?fit=300%2C203&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/President-Whipps-and-Prime-Minister-Fiame-Naomi-Mataafa.jpeg?fit=780%2C529&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>President Surangel Whipps&#160; Jr. is backing the Australian-funded policing plan, which he said will help curb several security issues that are now plaguing Palau including drugs, human trafficking, and Illegal, Underreported, and Unregulated ( IUU) fishing. Whipps in Tonga for the annual Pacific Islands Forum ( PIF) summit endorsed the landmark regional policing plan. The [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-backs-regional-policing-plan-says-it-will-help-curb-security-issues/">Whipps backs regional policing plan, says it will help curb security issues</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/whipps-backs-regional-policing-plan-says-it-will-help-curb-security-issues/>
+
+---
+
+## Palauan vying to represent Philippines for Miss Universe
+
+date: 2024-08-30, from: Island Times
+
+<figure><img width="600" height="750" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PALAUAN.jpeg?fit=600%2C750&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PALAUAN.jpeg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PALAUAN.jpeg?resize=240%2C300&amp;ssl=1 240w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PALAUAN.jpeg?resize=400%2C500&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PALAUAN.jpeg?fit=600%2C750&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72217" data-permalink="https://islandtimes.org/palauan-vying-to-represent-philippines-for-miss-universe/palauan-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PALAUAN.jpeg?fit=600%2C750&amp;ssl=1" data-orig-size="600,750" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PALAUAN" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PALAUAN.jpeg?fit=240%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PALAUAN.jpeg?fit=600%2C750&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Koror, Palau – A Palauan-Filipina by the name of Eliane Gayle Ngirmeriil is running to represent Zamboanga city to the Miss Universe Philippines pageant in 2025. Zamboanga city is the 3rd largest city by land area and is the 2nd most populous city in Mindanao, Philippines after Davao. Ngirmeriil is one of the 21 contestants [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauan-vying-to-represent-philippines-for-miss-universe/">Palauan vying to represent Philippines for Miss Universe</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palauan-vying-to-represent-philippines-for-miss-universe/>
+
+---
+
+## Ongidobel reinstated as Committee Chair with 74 days left in term
+
+date: 2024-08-30, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau – House of Delegates Speaker Sabino Anastacio has reinstated Delegate Swenny Ongidobel of Ngeremlengui as chair of the House Committee on Commerce and Trade, just 74 days before the end of this OEK’s term. Ongidobel was removed from the position on February 27, 2023, under House Resolution 11-12-10S, which [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ongidobel-reinstated-as-committee-chair-with-74-days-left-in-term/">Ongidobel reinstated as Committee Chair with 74 days left in term</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ongidobel-reinstated-as-committee-chair-with-74-days-left-in-term/>
+
+---
+
+## Are Palau’s K-9 Units being effectively deployed in Drug Enforcement?
+
+date: 2024-08-30, from: Island Times
+
+<p>&#160; By Eustoria Marie Borja Koror, Palau — Concerns are rising about the effectiveness of Palau’s K-9 units in tackling illegal drug trafficking. Although these units were acquired to help combat drug trafficking, their involvement in recent drug enforcement operations has been limited. K-9 Units and Their Roles The Division of Transnational Crime oversees seven [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/are-palaus-k-9-units-being-effectively-deployed-in-drug-enforcement/">Are Palau’s K-9 Units being effectively deployed in Drug Enforcement?</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/are-palaus-k-9-units-being-effectively-deployed-in-drug-enforcement/>
+
+---
+
+## Palau declares September as National Emergency Preparedness Month
+
+date: 2024-08-30, from: Island Times
+
+<p>Koror, Palau — President Surangel S. Whipps, Jr., has officially declared September 2024 as National Emergency Preparedness Month in Palau, emphasizing the urgent need for the nation to be ready for natural and man-made disasters. The proclamation, Presidential Proclamation No. 24-374, was signed in August 2024 at the Office of the President&#8217;s Satellite Office in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-declares-september-as-national-emergency-preparedness-month/">Palau declares September as National Emergency Preparedness Month</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-declares-september-as-national-emergency-preparedness-month/>
+
+---
+
+## Palau House renews push for tilapia farming
+
+date: 2024-08-30, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau — The House of Delegates has passed a bill on its first reading to authorize the Bureau of Fisheries to distribute tilapia seedlings to Palauan citizens and promote the establishment of tilapia farming in the country. The bill argues that Palau has overreacted to tilapia being labeled an invasive [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-house-renews-push-for-tilapia-farming/">Palau House renews push for tilapia farming</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-house-renews-push-for-tilapia-farming/>
+
+---
+
+## New Program and steady enrollment mark 2024-2025 School Year at PCC
+
+date: 2024-08-30, from: Island Times
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/p4.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/p4.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/p4.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/p4.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/p4.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/p4.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/p4.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/p4.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/p4.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/p4.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/p4.jpg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/p4.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/p4.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/p4.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72204" data-permalink="https://islandtimes.org/new-program-and-steady-enrollment-mark-2024-2025-school-year-at-pcc/p4-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/p4.jpg?fit=1249%2C1665&amp;ssl=1" data-orig-size="1249,1665" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="p4" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/p4.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/p4.jpg?fit=768%2C1024&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Summer Kennard KOROR, Palau – Palau Community College (PCC) began its new academic year on August 19, 2024, with an increase in enrollment. A total of 394 students registered for the fall semester, a slight increase from 387 students in fall 2023, reflecting a 0.7% rise. Liberal Arts remains the most popular field of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/new-program-and-steady-enrollment-mark-2024-2025-school-year-at-pcc/">New Program and steady enrollment mark 2024-2025 School Year at PCC</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/new-program-and-steady-enrollment-mark-2024-2025-school-year-at-pcc/>
+
+---
+
+## PICRC Research Assistant attends training cCourse on Small-Scale Longline Tuna Fisheries in Okinawa
+
+date: 2024-08-30, from: Island Times
+
+<figure><img width="900" height="839" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_Geory-Mereb-medallion-and-Certificate.jpg?fit=900%2C839&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_Geory-Mereb-medallion-and-Certificate.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_Geory-Mereb-medallion-and-Certificate.jpg?resize=300%2C280&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_Geory-Mereb-medallion-and-Certificate.jpg?resize=768%2C716&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_Geory-Mereb-medallion-and-Certificate.jpg?resize=400%2C373&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_Geory-Mereb-medallion-and-Certificate.jpg?resize=706%2C658&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_Geory-Mereb-medallion-and-Certificate.jpg?fit=900%2C839&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72201" data-permalink="https://islandtimes.org/picrc-research-assistant-attends-training-ccourse-on-small-scale-longline-tuna-fisheries-in-okinawa/pr_geory-mereb-medallion-and-certificate/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_Geory-Mereb-medallion-and-Certificate.jpg?fit=900%2C839&amp;ssl=1" data-orig-size="900,839" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PR_Geory Mereb medallion and Certificate" data-image-description="" data-image-caption="&lt;p&gt; Geory Mereb medallion and Certificate&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_Geory-Mereb-medallion-and-Certificate.jpg?fit=300%2C280&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/PR_Geory-Mereb-medallion-and-Certificate.jpg?fit=780%2C727&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>From July 28 to August 5, PICRC Research Assistant, Geory Mereb attended a training in Okinawa on small-scale longline tuna fisheries. Through the course he gained insight into the tuna industry and grading system, its importance as a commercial industry, and its future outlook. The stocks of four tuna species in the Western and Central [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-research-assistant-attends-training-ccourse-on-small-scale-longline-tuna-fisheries-in-okinawa/">PICRC Research Assistant attends training cCourse on Small-Scale Longline Tuna Fisheries in Okinawa</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/picrc-research-assistant-attends-training-ccourse-on-small-scale-longline-tuna-fisheries-in-okinawa/>
+
+---
+
+## Iyechad awarded the Ngeremlengui State Scholarship for SY 2024-2025
+
+date: 2024-08-30, from: Island Times
+
+<figure><img width="1024" height="779" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/pnsb.jpg?fit=1024%2C779&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/pnsb.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/pnsb.jpg?resize=300%2C228&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/pnsb.jpg?resize=1024%2C779&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/pnsb.jpg?resize=768%2C584&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/pnsb.jpg?resize=1200%2C913&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/pnsb.jpg?resize=400%2C304&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/pnsb.jpg?resize=706%2C537&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/pnsb.jpg?fit=1024%2C779&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72198" data-permalink="https://islandtimes.org/iyechad-awarded-the-ngeremlengui-state-scholarship-for-sy-2024-2025/pnsb-13/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/pnsb.jpg?fit=1249%2C950&amp;ssl=1" data-orig-size="1249,950" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="pnsb" data-image-description="" data-image-caption="&lt;p&gt;Left to right: PNSB Vice-Chairperson Joseph Anastacio, NSS Recipient Mayse K. Iyechad, and Vice -Speaker Elvira Franz&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/pnsb.jpg?fit=300%2C228&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/pnsb.jpg?fit=780%2C593&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>The Government of Ngeremlengui State created Ngeremlengui State Scholarship (NSS) to support its young people in reaching their educational goals. This is the 8th year that the Palau National Scholarship Board has helped in administering the scholarship program following established qualifying criteria. The eligibility criteria require the recipient to be a recent high school senior/graduate [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/iyechad-awarded-the-ngeremlengui-state-scholarship-for-sy-2024-2025/">Iyechad awarded the Ngeremlengui State Scholarship for SY 2024-2025</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/iyechad-awarded-the-ngeremlengui-state-scholarship-for-sy-2024-2025/>
+
+---
+
+## To secure peace in the Indo-Pacific, include Taiwan in the UN system
+
+date: 2024-08-30, from: Island Times
+
+<figure><img width="600" height="675" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/taiwan-ambassador.jpg?fit=600%2C675&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/taiwan-ambassador.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/taiwan-ambassador.jpg?resize=267%2C300&amp;ssl=1 267w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/taiwan-ambassador.jpg?resize=400%2C450&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/taiwan-ambassador.jpg?fit=600%2C675&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72195" data-permalink="https://islandtimes.org/to-secure-peace-in-the-indo-pacific-include-taiwan-in-the-un-system/taiwan-ambassador-3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/taiwan-ambassador.jpg?fit=600%2C675&amp;ssl=1" data-orig-size="600,675" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="taiwan ambassador" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/taiwan-ambassador.jpg?fit=267%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/taiwan-ambassador.jpg?fit=600%2C675&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Lin Chia-lung Minister of Foreign Affairs ROC (Taiwan) Taiwan is an indispensable partner in global supply chains, producing more than 90 percent of the world’s high-end semiconductors and a significant portion of the advanced chips that are driving the AI revolution. Moreover, half of the world’s seaborne trade passes through the Taiwan Strait, making it [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/to-secure-peace-in-the-indo-pacific-include-taiwan-in-the-un-system/">To secure peace in the Indo-Pacific, include Taiwan in the UN system</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/to-secure-peace-in-the-indo-pacific-include-taiwan-in-the-un-system/>
+
+---
+
+## RELEASE THE CONSTRAINTS
+
+date: 2024-08-30, from: Island Times
+
+<figure><img width="301" height="284" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?w=301&amp;ssl=1 301w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="60533" data-permalink="https://islandtimes.org/risk-of-growing-up/womens-corner-1-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" data-orig-size="301,284" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Embrace the power to break free from the constraints that hold you back. Have the courage to disrupt the routines in your life that no longer serve you. We often find ourselves trapped in patterns, behaviors, mindsets, or attitudes. Self-reflection is not just critical; it&#8217;s a vital tool for self-awareness. It&#8217;s about understanding why we [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/release-the-constraints/">RELEASE THE CONSTRAINTS</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/release-the-constraints/>
+
+---
+
+## ‘We are a force to be reckoned with’
+
+date: 2024-08-30, from: Island Times
+
+<p>By Mar-Vic Cagurangan NUKU&#8217;ALOFA (PACIFIC ISLAND TIMES) &#8212; While advising Pacific leaders to remain vigilant in the face of growing geopolitical tensions, Baron Waqa called on island nations and territories to leverage the region’s collective strength to achieve its goals and meet its needs. “We may be small island countries, but as the Blue Pacific [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/we-are-a-force-to-be-reckoned-with/">‘We are a force to be reckoned with’</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/we-are-a-force-to-be-reckoned-with/>
+
+---
+
+## First-ever Pacific Ocean Alliance event held in Tonga
+
+date: 2024-08-30, from: Island Times
+
+<p>NUKU&#8217;ALOFA (OPOC/PACNEWS) &#8212; As leaders and ocean champions converged in Tonga for the Pacific Islands Forum (PIF) Leaders Meeting, the spotlight was firmly placed on the Pacific Ocean. On 24 August, the Pacific Ocean Alliance (POA) held its inaugural Alliance event, organised by the Office of the Pacific Ocean Commissioner (OPOC) on the sidelines of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/first-ever-pacific-ocean-alliance-event-held-in-tonga/">First-ever Pacific Ocean Alliance event held in Tonga</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/first-ever-pacific-ocean-alliance-event-held-in-tonga/>
+
+---
+
+## No time to waste, says Forum SG Waqa as Pacific Leaders set stage for critical retreat
+
+date: 2024-08-30, from: Island Times
+
+<p>By Pita Ligaiula in Nuku&#8217;alofa NUKUALOFA (PACNEWS) &#8212; As the Pacific Islands Forum Leaders Meeting crossed the halfway mark, Forum Secretary-General Baron Waqa delivered a call to action, urging Leaders to stay focused and united in tackling the region&#8217;s most pressing challenges. “I congratulate you all for the important progress we are making, setting a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/no-time-to-waste-says-forum-sg-waqa-as-pacific-leaders-set-stage-for-critical-retreat/">No time to waste, says Forum SG Waqa as Pacific Leaders set stage for critical retreat</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/no-time-to-waste-says-forum-sg-waqa-as-pacific-leaders-set-stage-for-critical-retreat/>
+
+---
+
+## Donald Trump faces revised US indictment in 2020 election subversion case
+
+date: 2024-08-30, from: Island Times
+
+<p>In short: (ABC-Australia) Allegations in the criminal case against Donald Trump over his attempt to overturn his 2020 election loss have been narrowed. An indictment filed in the federal court this week removed allegations that Trump sought to involve the US Justice Department in the election subversion conspiracy. What&#8217;s next? The updated indictment represents the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/donald-trump-faces-revised-us-indictment-in-2020-election-subversion-case/">Donald Trump faces revised US indictment in 2020 election subversion case</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/donald-trump-faces-revised-us-indictment-in-2020-election-subversion-case/>
+
+---
+
+## Tens of thousands told to evacuate as Typhoon Shanshan makes landfall in Japan
+
+date: 2024-08-30, from: Island Times
+
+<p>In short: (ABC-Australia) Japan&#8217;s strongest typhoon of the year slammed into the country&#8217;s southern island, with authorities advising tens of thousands of people to evacuate. Officials issued the highest warning level for wind and storm surges on the main southern island of Kyushu. What&#8217;s next? Public services and businesses are suspended in Kyushu as more [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tens-of-thousands-told-to-evacuate-as-typhoon-shanshan-makes-landfall-in-japan/">Tens of thousands told to evacuate as Typhoon Shanshan makes landfall in Japan</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/tens-of-thousands-told-to-evacuate-as-typhoon-shanshan-makes-landfall-in-japan/>
+
+---
+
+## Breakthrough Aussie tennis star Maya Joint faces US Open prize money dilemma after declaring for college
+
+date: 2024-08-30, from: Island Times
+
+<p>In short: (ABC-Australia) Australian player Maya Joint is set to earn her biggest career payday of just over $200,000 after winning her maiden grand slam singles match. Joint is set to complete a psychology degree at the University of Texas which means she falls under NCAA rules which limit the amount of prize money a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/breakthrough-aussie-tennis-star-maya-joint-faces-us-open-prize-money-dilemma-after-declaring-for-college/">Breakthrough Aussie tennis star Maya Joint faces US Open prize money dilemma after declaring for college</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/breakthrough-aussie-tennis-star-maya-joint-faces-us-open-prize-money-dilemma-after-declaring-for-college/>
+
+---
+
+## Brief Chat with Melissa Savares: On preparation and fatalism
+
+date: 2024-08-30, from: Pacific Island Times
+
+By Mar-Vic Cagurangan     “How safe are we on Guam? That’s the question that keeps coming up, right?” said Melissa Savares, mayor of... 
+
+<https://www.pacificislandtimes.com/post/brief-chat-with-melissa-savares-on-preparation-and-fatalism>
+
+---
+
+## Electricity pricing change for large Hawaiʻi businesses proposed
+
+date: 2024-08-30, from: University of Hawaiʻi News
+
+<p>This approach would charge customers based on the hourly marginal cost of electricity production, a model known as locational marginal pricing.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/29/electricity-pricing-change-proposed/">Electricity pricing change for large Hawaiʻi businesses proposed</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/29/electricity-pricing-change-proposed/>
+
+---
+
+## VIDEO: NASA balloon launches with Maui HS students’ climate experiment
+
+date: 2024-08-29, from: University of Hawaiʻi News
+
+<p>This study, using a stratospheric balloon at 120,000 feet, measures emissions from short-term sunlight exposure, unlike previous long-term studies.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/29/nasa-balloon-launch-climate-experiment/">VIDEO: <abbr>NASA</abbr> balloon launches with Maui <abbr>HS</abbr> students’ climate experiment</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/29/nasa-balloon-launch-climate-experiment/>
+
+---
+
+## UH alumni: Kelly Valdez, Four Seasons Seattle director of food and beverage
+
+date: 2024-08-29, from: University of Hawaiʻi News
+
+<p>The <abbr>TIM</abbr> School graduate encourages students to connect with mentors at <abbr>UH</abbr> Mānoa.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/29/uh-alumni-kelly-valdez/"><abbr>UH</abbr> alumni: Kelly Valdez, Four Seasons Seattle director of food and beverage</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/29/uh-alumni-kelly-valdez/>
+
+---
+
+## Allan Alo Arts Festival 2024 celebrates Pacific Cultural Heritage
+
+date: 2024-08-29, from: University of the South Pacific (Fiji)
+
+<p>The third Allan Alo Arts Festival to be hosted at The University of the South...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/allan-alo-arts-festival-2024-celebrates-pacific-cultural-heritage/">Allan Alo Arts Festival 2024 celebrates Pacific Cultural Heritage</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/allan-alo-arts-festival-2024-celebrates-pacific-cultural-heritage/>
+
+---
+
+## UH gene editing technique offers safer, efficient disease treatment
+
+date: 2024-08-29, from: University of Hawaiʻi News
+
+<p>The technique offers hope for more effective and affordable treatments for various genetic disorders.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/29/uh-gene-editing-breakthrough/"><abbr>UH</abbr> gene editing technique offers safer, efficient disease treatment</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/29/uh-gene-editing-breakthrough/>
+
+---
+
+## Family honors late prof. with $50K to support UH’s Shidler Asian field study program
+
+date: 2024-08-29, from: University of Hawaiʻi News
+
+<p>Emeritus Professor K.K. Seo, a beloved and distinguished academic, and dedicated and esteemed professor died recently.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/29/family-honors-late-prof-asian-field-study-program/">Family honors late prof. with $50K to support <abbr>UH</abbr>’s Shidler Asian field study program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/29/family-honors-late-prof-asian-field-study-program/>
+
+---
+
+## Alele stores TT papers?
+
+date: 2024-08-29, from: Marshal Islands Journal
+
+<p>P10 Alele wants to preserve TT documentsThe Alele Museum in combination with the public library is preparing phase one of a plan to develop a permanent national archives based in Majuro. Trust Territory HQ in Saipan, in order to preserve the records that were kept during the 40-year period of the TT, has made available [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/alele-stores-tt-papers/">Alele stores TT papers?</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/alele-stores-tt-papers/>
+
+---
+
+## Liver Window
+
+date: 2024-08-29, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Haley King The mirror reflects your gray eyes and freckled bridge. I can smell the beer on your breath from your last drink. The one that went to your organs and they were supposed to heal themselves as you &#8230; <a href="https://hawaiipacificreview.org/2024/08/29/liver-window/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/08/29/liver-window/>
+
+---
+
+## Tsingtao JTM, HBR earn debut wins in masters basketball
+
+date: 2024-08-29, updated: 2024-08-29, from: Marianas Variety
+
+TSINGTAO JTM and HBR are off to a strong start in the Win Pacific Corporation Invitational Basketball League 2024 as they bagged separate victories against their respective opponents on Tuesday at the Gualo Rai basketball court. 
+
+<https://www.mvariety.com/sports/localsports/tsingtao-jtm-hbr-earn-debut-wins-in-masters-basketball/article_b426391c-661e-11ef-8cfc-9f9a5516921f.html>
+
+---
+
+## Making tourism our business: Reviving our Garapan tourist district
+
+date: 2024-08-29, updated: 2024-08-29, from: Marianas Variety
+
+WE couldn’t be more pleased about the decision of the Commonwealth Council for Arts &amp; Culture to bring back the biggest weekly nighttime attraction in our destination, the Garapan Street Market. 
+
+<https://www.mvariety.com/views/columnists/making-tourism-our-business-reviving-our-garapan-tourist-district/article_0c40e0c8-65c2-11ef-b1a5-8f459feb1b6d.html>
+
+---
+
+## IT&E unveils refreshed brand and new tagline
+
+date: 2024-08-29, updated: 2024-08-29, from: Marianas Variety
+
+(Special Advertising Feature) — IT&amp;E, a leading telecommunications provider in the Marianas and Guam, is excited to announce the launch of its refreshed brand identity to reemphasize company’s commitment to fostering meaningful relationships and enhancing the experiences of its customers and partners. 
+
+<https://www.mvariety.com/business/business_news/it-e-unveils-refreshed-brand-and-new-tagline/article_1590c8ca-65c5-11ef-9df6-f7d71852f80c.html>
+
+---
+
+## Konfitma 2024: Lockdown drills and crisis scenarios
+
+date: 2024-08-29, updated: 2024-08-29, from: Marianas Variety
+
+THE Konfitma 2024 full-scale exercise schedule for Sept. 3 and 4 was announced Thursday by Bernard Villagomez, public information officer of CNMI Homeland Security and Emergency Management, and Yvonne Pangelinan, senior director for student support services of the Public School System. 
+
+<https://www.mvariety.com/news/local/konfitma-2024-lockdown-drills-and-crisis-scenarios/article_1e2f53fe-65eb-11ef-b14e-07c9c4388430.html>
+
+---
+
+## COTA to launch transportation project on Rota, Tinian
+
+date: 2024-08-29, updated: 2024-08-29, from: Marianas Variety
+
+THE Commonwealth Office of Transit Authority on Thursday announced that it will launch a pilot public transportation project on Rota and Tinian. 
+
+<https://www.mvariety.com/news/local/cota-to-launch-transportation-project-on-rota-tinian/article_0bab5e0a-65e4-11ef-b2a4-07c7d9cc9a13.html>
+
+---
+
+## Court denies motion to dismiss Villanueva contempt case
+
+date: 2024-08-29, updated: 2024-08-29, from: Marianas Variety
+
+SUPERIOR Court Presiding Judge Roberto C. Naraja has denied the motion to dismiss the contempt case against Shayne Villanueva. 
+
+<https://www.mvariety.com/news/local/court-denies-motion-to-dismiss-villanueva-contempt-case/article_a4e20332-65dd-11ef-8d08-871a596111d1.html>
+
+---
+
+## Do you know this person?
+
+date: 2024-08-29, updated: 2024-08-29, from: Marianas Variety
+
+THE Department of Public Safety is seeking the community’s help in identifying one of the suspects in a theft of gasoline incident at Payless/Truckload Store in Chalan Kanoa on Aug. 23. 
+
+<https://www.mvariety.com/news/local/do-you-know-this-person/article_d3facd8e-65e7-11ef-928c-23d04041d99f.html>
+
+---
+
+## Senate panel ‘cautiously’ assessing 2 tax hike bills
+
+date: 2024-08-29, updated: 2024-08-29, from: Marianas Variety
+
+THE Senate Fiscal Affairs Committee is “cautiously” assessing the impact of two tax hike bills on the general public, Senate Vice President Donald Manglona said. 
+
+<https://www.mvariety.com/news/local/senate-panel-cautiously-assessing-2-tax-hike-bills/article_66d7c022-65e2-11ef-a794-b7fc61478827.html>
+
+---
+
+## 4 public schools to conduct active shooter lockdown drill on Sept. 3
+
+date: 2024-08-29, updated: 2024-08-29, from: Marianas Variety
+
+(PSS) — The Public School System is advising the general public that four schools will conduct active shooter lockdown drill on Tuesday, Sept. 3 at 9:30 a.m. 
+
+<https://www.mvariety.com/news/local/4-public-schools-to-conduct-active-shooter-lockdown-drill-on-sept-3/article_ad64794e-6615-11ef-aba5-4bcb7d2ccd9c.html>
+
+---
+
+## 2 NMC School of Business students gain valuable perspectives at international workshops
+
+date: 2024-08-29, updated: 2024-08-29, from: Marianas Variety
+
+(NMC) — Two students from the Northern Marianas College School of Business recently had the opportunity to participate in the International Agriculture and Health Innovation workshops hosted by the University of Guam’s College of Natural and Applied Science. 
+
+<https://www.mvariety.com/news/community_bulletins/2-nmc-school-of-business-students-gain-valuable-perspectives-at-international-workshops/article_8319ca10-6618-11ef-aa94-c37082151e47.html>
+
+---
+
+## Taiwan helps climate, UN bid
+
+date: 2024-08-29, from: Marshal Islands Journal
+
+<p>Taiwan Ambassador Steve C.C. Hsia donated $200,000 from the “Taiwan-RMI Adaptation and Contingency Fund for Climate Change” to the Marshall Islands government. The donation was formally received by Minister-in-Assistance to the President and Environment Bremity Lakjohn and Minister of Foreign Affairs and Trade Kalani Kaneko, both of whom expressed appreciation for Taiwan’s continued support in [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/taiwan-helps-climate-un-bid/">Taiwan helps climate, UN bid</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/taiwan-helps-climate-un-bid/>
 
 ---
 
@@ -249,6 +960,42 @@ date: 2024-08-29, from: Hawaii Tribune Harold
 
 ---
 
+## Green blasts State Farm for refusing to settle Maui claims
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>In addition to addressing sea-level rise and climate change, Gov. Josh Green now wants income from a proposed visitor impact fee to help the state provide its own insurance to victims of future disasters following the Aug. 8, 2023, Maui wildfires.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/hawaii-news/green-blasts-state-farm-for-refusing-to-settle-maui-claims/>
+
+---
+
+## Coast Guard, Navy rescue woman, child, pets from sailboat east of Hilo
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8211; The Coast Guard and Navy earlier this week rescued a distressed woman, child and their pets from a sailboat beset by weather east of Hawaii Island.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/hawaii-news/coast-guard-navy-rescue-woman-child-pets-from-sailboat-east-of-hilo/>
+
+---
+
+## Gilma forecast to drop rain on Hamakua Coast tonight
+
+date: 2024-08-29, from: Hawaii Tribune Harold
+
+
+				<p>Gilma, now a tropical depression, is expected to bring rain to the northern areas of the windward Big Island starting tonight.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/29/hawaii-news/gilma-forecast-to-drop-rain-on-hamakua-coast-tonight/>
+
+---
+
 ## GFA awards student-athletes $16K in scholarship funds from donors
 
 date: 2024-08-29, from: Guam Daily Post
@@ -365,6 +1112,16 @@ date: 2024-08-29, from: University of the South Pacific (Fiji)
 
 ---
 
+## US, Fiji sign open skies agreement
+
+date: 2024-08-28, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Department of State today announced the signing of an open skies air transportation agreement... 
+
+<https://www.pacificislandtimes.com/post/us-fiji-sign-open-skies-agreement>
+
+---
+
 ## MALGov’s drug haul
 
 date: 2024-08-28, from: Marshal Islands Journal
@@ -374,6 +1131,16 @@ date: 2024-08-28, from: Marshal Islands Journal
  
 
 <https://marshallislandsjournal.com/malgovs-drug-haul/>
+
+---
+
+## COP29: Amplifying the voices of the island states
+
+date: 2024-08-28, from: Pacific Island Times
+
+As I stood before the leaders of the Pacific Islands at the 53rd Pacific Islands Forum, I was acutely aware of the significance of this... 
+
+<https://www.pacificislandtimes.com/post/cop29-amplifying-the-voices-of-the-island-states>
 
 ---
 
@@ -418,6 +1185,16 @@ date: 2024-08-28, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/08/28/image-of-the-week-jump/">Image of the Week: Jump!</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/08/28/image-of-the-week-jump/>
+
+---
+
+## US, Australia, NZ pledge seed funding to Pacific islands for expanded food security initiative 
+
+date: 2024-08-28, from: Pacific Island Times
+
+By Pacific Island Times News Staff The United States, Australia, New Zealand and the Pacific Community on Wednesday announced the... 
+
+<https://www.pacificislandtimes.com/post/us-australia-nz-pledge-seed-funding-to-pacific-islands-for-expanded-food-security-initiative>
 
 ---
 
@@ -1355,7 +2132,7 @@ date: 2024-08-27, from: Hawaii Tribune Harold
 
 date: 2024-08-27, from: Island Times
 
-<figure><img width="1024" height="469" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?fit=1024%2C469&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=300%2C137&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=1024%2C469&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=768%2C352&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=1536%2C704&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=1200%2C550&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=1568%2C718&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=2000%2C916&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=400%2C183&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=706%2C323&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?fit=1024%2C469&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72176" data-permalink="https://islandtimes.org/palau-hosts-regional-public-auditors-at-apipa-conference-amid-push-for-transparency/apipa-conference-bring-auditors-from-the-pacific-together-at-palau-national-gymnasium/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?fit=2048%2C938&amp;ssl=1" data-orig-size="2048,938" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="APIPA Conference bring auditors from the Pacific together at Palau National Gymnasium" data-image-description="" data-image-caption="&lt;p&gt;Palau Hosts Regional Public Auditors at APIPA Conference Amid Push for Transparency&lt;/p&gt;
+<figure><img width="1024" height="469" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?fit=1024%2C469&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=300%2C137&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=1024%2C469&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=768%2C352&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=1536%2C704&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=1200%2C550&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=1568%2C718&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=2000%2C916&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=400%2C183&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?resize=706%2C323&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?fit=1024%2C469&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72176" data-permalink="https://islandtimes.org/palau-hosts-regional-public-auditors-at-apipa-conference-amid-push-for-transparency/apipa-conference-bring-auditors-from-the-pacific-together-at-palau-national-gymnasium/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?fit=2048%2C938&amp;ssl=1" data-orig-size="2048,938" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="APIPA Conference bring auditors from the Pacific together at Palau National Gymnasium" data-image-description="" data-image-caption="&lt;p&gt;Palau Hosts Regional Public Auditors at APIPA Conference Amid Push for Transparency&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?fit=300%2C137&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/APIPA-Conference-bring-auditors-from-the-Pacific-together-at-Palau-National-Gymnasium.jpeg?fit=780%2C357&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau – More than 500 participants gathered in Palau for the 35th annual conference of the Association of Pacific Islands Public Auditors (APIPA), held from August 26 to 30. The attendees, hailing from various Pacific regions including Palau, the Marshall Islands, Pohnpei, Chuuk, Kosrae, Yap, the Northern Mariana Islands, Guam, [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/palau-hosts-regional-public-auditors-at-apipa-conference-amid-push-for-transparency/">Palau Hosts Regional Public Auditors at APIPA Conference Amid Push for Transparency</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>

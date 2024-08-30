@@ -1,11 +1,41 @@
 ---
 title: retro computing 2024.35
-updated: 2024-08-29 07:12:05
+updated: 2024-08-30 09:38:16
 ---
 
 # retro computing 2024.35
 
-(date: 2024-08-29 07:12:05)
+(date: 2024-08-30 09:38:16)
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2024-08-30, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 13: The Strait 
+
+<https://www.filfre.net/2024/08/this-week-on-the-analog-antiquarian/>
+
+---
+
+## August 2024 News Summary
+
+date: 2024-08-30, from: Icon Bar, RISC OS News
+
+Some things we noticed this month. What did you see? 
+
+<http://www.iconbar.com/comments/rss/news2089.html>
+
+---
+
+## OS-9 Bonus Content
+
+date: 2024-08-29, from: Computer ads from the Past
+
+A detailed look at OS-9 for Tandy Color Computers 
+
+<https://computeradsfromthepast.substack.com/p/os-9-bonus-content>
 
 ---
 

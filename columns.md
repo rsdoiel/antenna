@@ -1,11 +1,504 @@
 ---
 title: columns 2024.35
-updated: 2024-08-29 07:12:00
+updated: 2024-08-30 09:38:11
 ---
 
 # columns 2024.35
 
-(date: 2024-08-29 07:12:00)
+(date: 2024-08-30 09:38:11)
+
+---
+
+## AnandTech Is Closing Down
+
+date: 2024-08-30, updated: 2024-08-30, from: Daring Fireball
+
+ 
+
+<https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-30, from: Dave Winer's Scripting News)
+
+It has come to my attention that "It's even worse than it appears" might not be the right overlay for Kamala Harris, whose <a href="http://scripting.com/images/2024/08/23/presidentKamala.png">picture</a> is the current <a href="https://imgs.scripting.com/2024/08/30/scriptingNewsBanner.png">banner art</a> for <a href="http://scripting.com/">Scripting News</a>. Of course she's still even better than she appears. I really mean that, and if you read this blog regularly you know. But what would a random person think? Hmm. Maybe that it's strange, this is a picture of the would-be president, and it's a good one. I wonder if there are many levels of irony going on at this moment, the visitor might think. No matter how much I love the Democratic team this year, this is not a campaign site. I don't take ads. This is just a blog. You might have to peer below the surface to figure out what's going on. Even the guy who writes this freaking thing can't see all the angles. For now neither the image or motto are changing. There hasn't always been a motto there you know. 
+
+<http://scripting.com/2024/08/30.html#a144724>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-30, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/04/17/asGoodAsItGets.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Humor and putdowns in politics are great if you know how to do it and if the time is right. Trump was the only comedian on stage at the debates. And his act was fresh. The people who loved him loved that the other people hated him. It really was simple. Like a sports team or a favorite comic. Anyway, the Harris folk are <i>good</i> at putdowns and comedy, and the time is right. Trump's act is done, people are tired of the same old bullshit (which is exactly what Kamala said last night in the big interview). That's the cushion they're floating on. If they had called Trump weird in 2016 it wouldn't have worked, and probably not in 2020 for different reasons (he wasn't a joke at that moment, a huge number of Americans were sick and dying, and the economy was in ruin and there was no end in sight, not a good time to be joking around). But now Trump <i>is</i> a joke. So it feels right. Another perspective you should get James Carville, who was on the <a href="https://podcasts.apple.com/us/podcast/james-carville-trump-is-in-deep-trouble-and-he-knows-it/id1728152109?i=1000666762884">Daily Blast podcast</a> on Tuesday. Real eye-openers re how campaigns really work and why it's working for Team Harris now. And btw, why she's doing great now and not so good in 2019, two things. 1. Obviously she's grown. The last four years she's been VP of the United States. That's got to be some kind of education for someone as brilliant as she is. 2. In 2019 she was on stage with 20 other people, and only got tiny slivers of time. Look at what you find appealing about her now (assuming you do). It's the pauses and looks as much as anything, the facial expression. Anyway, she's really good at what she's doing now, at all levels, and Donald Trump is washed up. That's why it still feels good because of course he still could win. 
+
+<http://scripting.com/2024/08/30.html#a143623>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-30, from: Dave Winer's Scripting News)
+
+I use my blog in the earliest part of the day to warm up and procrastinate. 
+
+<http://scripting.com/2024/08/30.html#a143601>
+
+---
+
+##  The Secret Message Contained in One Million Checkboxes 
+
+date: 2024-08-30, updated: 2024-08-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/secret-message-in-one-million-checkboxes>
+
+---
+
+## 2024-08-30 Karoshi and taxes
+
+date: 2024-08-30, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-30-karoshi-and-taxes">2024-08-30 Karoshi and taxes</h1>
+
+<p><a href="https://en.wikipedia.org/wiki/Karoshi">Karoshi</a> is when you are being worked to death without the use of prison guards. Survive the intense pressure of the workplace, of course! But then speak up about it. Name the organizations that are part of this scheme to squeeze us for all the hours we help them make a profit, name the techniques they use, start resisting in big and small ways, help each other to resist. 99% of us are in this, together.</p>
+
+<p>I&rsquo;m watching family members working long hours for the Swiss federal government, and on the weekend, too, and I don&rsquo;t like it. I don&rsquo;t like it one bit.</p>
+
+<p>This is what happens when people want a balanced budget and tax cuts for the rich: there&rsquo;s not enough money to go around, the work still needs to get done, and so those who want to do a good job get to bear the burden. The good start leaving. The experienced start leaving. The longer this continues, the work is done by fewer people, desperate people, inexperienced people, until it all fails, all at the same time.</p>
+
+<p>We need to vote for people and parties that want to increase the tax burden for the rich, that want to solve the problems of tax evasion and of capital flight. We need that money and the rich don&rsquo;t.</p>
+
+<p><a class="tag" href="/search/?q=%23Politics">#Politics</a></p> 
+
+<https://alexschroeder.ch/view/2024-08-30-taxes>
+
+---
+
+## Trump’s Cemeterygate
+
+date: 2024-08-30, from: Robert Reich's blog
+
+It was Trump on full display 
+
+<https://robertreich.substack.com/p/trumps-cemetery-gate>
+
+---
+
+## August 29, 2024 
+
+date: 2024-08-30, from: Heather Cox Richardson blog
+
+And now the U.S. 
+
+<https://heathercoxrichardson.substack.com/p/august-29-2024>
+
+---
+
+##  RIP to journalist, author, and huge Deadhead Steve Silberman. His wish when... 
+
+date: 2024-08-30, updated: 2024-08-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/08/0045192-rip-to-journalist-author->
+
+---
+
+## Friday 30 August, 2024
+
+date: 2024-08-29, from: John Naughton's online diary
+
+Petrolhead nostalgia As long-suffering readers of this blog know, I am a recovering petrolhead &#8212; and the only member of my extended family who can recognise vintage cars at sight. I spotted this beautifully-preserved 1960s Alvis TD21 in a car &#8230; <a href="https://memex.naughtons.org/friday-30-august-2024/39802/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-30-august-2024/39802/>
+
+---
+
+## Richard Haughey (1944-2024)
+
+date: 2024-08-29, from: Matt Haughey blog
+
+<p>My father passed away today. </p><p>It was a shock to get the call that he was rushed to an ER from his nursing home and the news that quickly followed was a surprise. But it was also something that hopefully gave him some relief after struggling with a long recovery</p> 
+
+<https://a.wholelottanothing.org/richard-haughey-1944-2024/>
+
+---
+
+## Escaping corporate mindsets on the indie web
+
+date: 2024-08-29, from: Tracy Durnell Blog
+
+I also notice people don&#8217;t swear much on their blogs. I have cut back on cussing in my writing myself, more from fear of sounding strident than causing offense &#8212; as a woman in patriarchal society, expressing strong emotion can undercut my argument &#8212; but I do believe in the power of a perfectly placed [&#8230;] 
+
+<https://tracydurnell.com/2024/08/29/escaping-corporate-mindsets-on-the-indie-web/>
+
+---
+
+## August 28, 2024
+
+date: 2024-08-29, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-28-2024-63d>
+
+---
+
+## 2024-08-29 msmtp and app armor
+
+date: 2024-08-29, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-29-msmtp-and-app-armor">2024-08-29 msmtp and app armor</h1>
+
+<p>I tried to send an email from Emacs and it didn&rsquo;t work. The error was:</p>
+
+<pre><code>msmtp: account default not found: no configuration file available
+</code></pre>
+
+<p>I was able to reproduce the problem with the following <code>hello.txt</code> file:</p>
+
+<pre><code>From: Alex &lt;alex@alexschroeder.ch&gt;
+To: Alex &lt;alex@alexschroeder.ch&gt;
+Subject: Test
+
+This is the test.
+</code></pre>
+
+<p>And then feeding that to <code>msmtp</code> with debugging enabled (<code>-d</code>) and reading recipients from the mail (<code>-t</code>):</p>
+
+<pre><code>msmtp -d -t &lt; hello.smtp
+</code></pre>
+
+<p>Now I had more info, however:</p>
+
+<pre><code>ignoring system configuration file /etc/msmtprc: No such file or directory
+ignoring user configuration file /home/alex/.config/msmtp/config: Permission denied
+falling back to default account
+msmtp: account default not found: no configuration file available
+</code></pre>
+
+<p>I checked permissions, and it was 0600 for the config file.
+Online, I found a reference to AppArmor.
+Taking a peek at <code>/etc/apparmor.d/usr.bin.msmtp</code> I didn&rsquo;t see anything surprising.
+But then I grew suspicious… I had in fact moved <code>~/.config/msmtp</code> to <code>~/src/home/.config/msmtp</code> (which is a Git repository) and replaced that with a symbolic link. AppArmor didn&rsquo;t like this and decided that <code>msmtp</code> was not allowed to read that other file.
+Moving the directory back solved this problem.</p>
+
+<p>I guess I&rsquo;ll be making occasional copies of this file into the Git repository. 😒</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23AppArmor">#AppArmor</a></p> 
+
+<https://alexschroeder.ch/view/2024-08-29-msmtp-app-armor>
+
+---
+
+## Five Most Productive Years: What Happened and What’s Next
+
+date: 2024-08-29, from: Stephen Wolfram blog
+
+<span class="thumbnail"><img width="128" height="108" src="https://content.wolfram.com/sites/43/2024/08/swblog-5years-icon.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></span>So&#8230; What Happened? Today is my birthday—for the 65th time. Five years ago, on my 60th birthday, I did a livestream where I talked about some of my plans. So&#8230; what happened? Well, what happened was great. And in fact I’ve just had the most productive five years of my life. Nine books. 3939 pages [&#8230;] 
+
+<https://writings.stephenwolfram.com/2024/08/five-most-productive-years-what-happened-and-whats-next/>
+
+---
+
+## 2024-08-18 Indie search for Oddmu
+
+date: 2024-08-29, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-18-indie-search-for-oddmu">2024-08-18 Indie search for Oddmu</h1>
+
+<p>This is a follow-up for <a href="2024-08-16-json-feed-for-indexes">2024-08-16 JSON feed for indexing</a> where I linked to <a href="https://www.byjp.me/posts/indiesearch/">IndieSearch, byJP</a>. I want to see what&rsquo;s required for this to work.</p>
+
+<p>First, I need to install Pagefind. Lucky me, I already have a Rust build environment installed.</p>
+
+<pre><code>cargo install pagefind
+</code></pre>
+
+<p>Next, I need a static HTML copy of my site:</p>
+
+<pre><code>env ODDMU_LANGUAGES=de,en  oddmu static -jobs 3 /tmp/alex
+</code></pre>
+
+<p>Create the index:</p>
+
+<pre><code>pagefind --site /tmp/alex
+</code></pre>
+
+<p>Upload:</p>
+
+<pre><code>mv /tmp/alex/pagefind .
+make upload
+</code></pre>
+
+<p>It&rsquo;s now available at <code>https://alexschroeder.ch/wiki/pagefind</code>.</p>
+
+<p>Adding the info to the page header:</p>
+
+<pre><code>&lt;link rel=&quot;search&quot; type=&quot;application/pagefind&quot; href=&quot;/wiki/pagefind&quot; title=&quot;Alex Schroeder’s Diary&quot;&gt;
+&lt;link href=&quot;/wiki/pagefind/pagefind-ui.css&quot; rel=&quot;stylesheet&quot;&gt;
+&lt;script src=&quot;/wiki/pagefind/pagefind-ui.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+window.addEventListener('DOMContentLoaded', (event) =&gt; {
+  new PagefindUI({ element: &quot;#pagefind&quot;, showSubResults: true });
+});
+&lt;/script&gt;
+</code></pre>
+
+<p>And a div to the page body:</p>
+
+<pre><code>&lt;div id=&quot;pagefind&quot;&gt;&lt;/div&gt;
+</code></pre>
+
+<p>And I had to add <code>'unsafe-eval'</code> to the <code>script-src</code> Content-Security-Policy header.</p>
+
+<p>Too bad the search result links all end in <code>.html</code> … that requires an extra rewrite rule, to get rid of. On the other hand, it also allowed me to get rid of <code>baseUrl: &quot;/view/&quot;</code>.</p>
+
+<p>Since there are still rough edges, this search is only available via <a href="pagefind.html">Pagefind</a>. I&rsquo;m also not promising any updates to the index.</p>
+
+<p><a class="tag" href="/search/?q=%23Search">#Search</a> <a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a></p>
+
+<p><strong>2024-08-19</strong>. While I was experimenting with this all, I asked <a class="account" href="https://hachyderm.io/@byjp" title="@byjp@hachyderm.io">@byjp</a> some questions.</p>
+
+<p><em>Sites provide local indexes in the Pagefind format, as a static file?</em></p>
+
+<p>Correct — except it’s many files, organised so as to allow minimal transfer for a single search query — but all can be retrieved to have a full local index</p>
+
+<p><em>Clients register one or more of these files and allow searching them?</em></p>
+
+<p>Correct — they can be retrieved/cached to query locally, or queried efficiently remotely.</p>
+
+<p><em>Users can install a large number of them, locally? Like I have 23 local dictionaries installed for my dictd and I can query them, locally.</em></p>
+
+<p>Yes. Many can be kept locally or remotely. The sites you “register”/add become your search index.</p>
+
+<p><em>Is it possible for a website to offer just a Pagefind installation with a number of URLs to Pagefind indexes without hosting pages and indexes? Clients visiting this Pagefind installation would download all the indexes pointed to in the list and search them locally?</em></p>
+
+<p>Yes (with minor hackery). Each Pagefind instance <em>is</em> the index, a small bootstrapping JS/WASM blob, and ~5 lines of init JS. Those 5 lines can include locations of multiple indexes for the (exclusively client-side) JS to query when searching; by default the only one configured is the “local” index that created with the Pagefind JS/WASM blob, but you could strip away an empty index and have what you describe — in fact, that’s what my <a href="https://www.byjp.me/posts/indiesearch/">IndieSearch</a> demo does!</p>
+
+<p><em>If instead of visiting a site with a Pagefind installation one installs a Pagefind browser extensions, is it possible to point it to a URL that hosts a list of indexes?</em></p>
+
+<p>I haven’t built that (yet), but yeah — I’d want to build an mf2/IndieWeb compatible “new user experience” that’d guide folks to finding a good-for-them set of defaults. My demo automatically (provisionally) adds any site you visit that supports IndieSearch, so you’d get better coverage fast. I’d also consider default-importing from blogrolls and the like. (Management &amp; performance gets tricky with 1000s of indexes. Probs an “if we get there” problem. 😅)</p>
+
+<p><em>Is it possible to &ldquo;merge&rdquo; Pagefind indexes and pass those aggregates on? I&rsquo;m afraid that having local copies of the indexes means that clients will have to at least query thousands of sites for updates to their page indexes.</em></p>
+
+<p>Not yet, but I asked exactly this question of the Pagefind devs and they offered that it’s currently too hard, but that there is a potential route they&rsquo;d consider, see <a href="https://github.com/CloudCannon/pagefind/discussions/564#discussioncomment-8702059">#564</a>.</p>
+
+<p><em>Thank you so much for answering the questions!</em></p>
+
+<p>I&rsquo;m still thinking about the situation where I&rsquo;m part of a community and we want to all share search, like using <a href="https://lieu.cblgh.org/">Lieu</a> for a webring – except I&rsquo;d like a solution where I don&rsquo;t have to do the crawling.</p>
+
+<p>Sadly, the communities I&rsquo;m part of are planets such as <a href="https://campaignwiki.org/rpg/">RPG Planet</a> or <a href="https://planet.emacslife.com/">Planet Emacslife</a>, each with hundreds of blogs. I suppose most of them don&rsquo;t offer a Pagefind index, being hosted on Blogspot and Wordpress, but what I&rsquo;m considering is ingesting their feed and indexing it. This could be a service I could perform for people. Luckily, it&rsquo;s often possible to get all the blog pages via the feed. This is how I&rsquo;ve made <a href="2010-05-31_Blognapping">local backups of other people&rsquo;s blogs</a>. I guess that each site would be a separate index, however?</p>
+
+<p>I&rsquo;d like to find a way that doesn&rsquo;t require me to always download all the pages. I&rsquo;d like to find a way to update the index as it&rsquo;s being used.</p>
+
+<p>I&rsquo;d need a way to figure out how to configure it such that the results link back to the original pages, of course.</p>
+
+<p>Another thing I&rsquo;m considering is that my own site is rendered live, from Markdown files… it&rsquo;s not a static site. So ideally I&rsquo;d be able to ingest Markdown files directly. Or I can go the route of exporting it all into a big feed and ingesting that, once I&rsquo;ve solved the problem above, I guess. But the problem above might also be easier to solve by extracting HTML pages from the feed. It&rsquo;s what I&rsquo;ve done in the past. Create something that works, first, then improve it later?</p>
+
+<p>Anyway, ideas are swirling around.</p>
+
+<p><strong>2024-08-19</strong>. I notice more things that aren&rsquo;t quite working the way I like them to work.</p>
+
+<p>The sort order of the results is less than ideal, for example. I like to emphasize more recent blog posts.
+Pagefind, however, returns them in some sort of scoring order so that I&rsquo;ve seen quite a few results with pages around 20 years old.</p>
+
+<p>Image previews seem to rarely work. I suspect the problem is pages in subfolders linking to images in that same subfolder. Such relative links don&rsquo;t need a path – but they do if Pagefind is not in the same directory.</p>
+
+<p>Here&rsquo;s another thing to consider: The index takes up more space than the full HTML of the entire site, compressed!</p>
+
+<pre><code>alex@sibirocobombus ~&gt; du -sh alexschroeder.ch/wiki/pagefind alexschroeder.ch/wiki/feed.json.gz 
+ 43M	alexschroeder.ch/wiki/pagefind
+9.7M	alexschroeder.ch/wiki/feed.json.gz
+</code></pre>
+
+<p>So the Pagefind index takes about 4× more space than the full HTML, for this site. This matches my experience with better indexing for my own site where I experimented with full text indexes and trigram indexes. Back then:</p>
+
+<blockquote>
+<p>the 15 MiB of markdown files seem to have generated an index of 70 MiB – <a href="2023-09-11-oddmu">2023-09-11 Oddµ memory consumption</a></p>
+</blockquote>
+
+<p>Of course, in terms of copyright incentives, handing off the entire site like that is tricky. Doing it with a feed feels OK. Doing it for a search engine seems like handing the keys to Google. This provides an incentive to use a pre-computed index.</p>
+
+<p>It also reminds me that the idea I had of building a search engine out of feed slurping without consent is probably a bad idea – like all ideas based on non-consensual acts.</p>
+
+<p>Whether self-indexing is a good thing in terms of avoiding an English-first focus I don&rsquo;t know. I suspect that most people will be using free software and therefore there&rsquo;s no reason to suspect that a search engine doesn&rsquo;t have the means to process the languages. Then again, that&rsquo;s a lock-in where in order to support a new language, you have to support the software your favourite search-engine supports. So people indexing our own pages might have long term benefits.</p>
+
+<p>I&rsquo;m still wondering about the comparison of Pagefind and Lunr, to be honest. How many such static search solutions are there? Is there a benefit of one implementation over another?</p>
+
+<p>I guess now I should look into Pagefind some more? Indexing non-HTML pages, handling image previews for pages not in the root directory and relative image source URLs, the sort order of results, the use of the .html extension in results… there are still rough edges as far as I am concerned – and per discussion above the onus is on me to fix my indexing. 😭</p>
+
+<p><strong>2024-08-29</strong>. Would caching help? I don&rsquo;t think so.
+Let&rsquo;s check!</p>
+
+<p>First, a script to find an IP number that is doing many requests:
+<a href="/admin/leech-detector">leech-detector</a>.</p>
+
+<pre><code>root@sibirocobombus ~# tail -n 10000 /var/log/apache2/access.log \
+  | bin/admin/leech-detector \
+  | head
+Total hits: 10000
+IP                             |       Hits | Bandw. | Rel. | Interv. | Status
+------------------------------:|-----------:|-------:|-----:|--------:|-------
+                185.103.225.81 |       1057 |     0K |  10% |    1.7s | 302 (50%), 401 (49%), 200 (0%)
+…
+
+root@sibirocobombus ~# whois 185.103.225.81
+…
+org-name:       Muth Citynetz Halle GmbH
+…
+</code></pre>
+
+<p>I have never heard of them. Sounds like a small hosting company,
+responsible for 10% of all hits on my server, right now.
+Let&rsquo;s print the status code they received from my web server and the path they requested.</p>
+
+<pre><code>root@sibirocobombus ~# grep 185.103.225.81 /var/log/apache2/access.log \
+  | awk -e '{print $10, $8}' \
+  | sort \
+  | uniq -c
+    524 /edit/logo.jpg
+    529 /view/logo.jpg
+      2 /view/RPG.rss
+      2 /wiki/feed/full/RPG
+</code></pre>
+
+<p>This is simply broken shit that cannot be fixed by caching.</p>
+
+<p>OK, let’s pick another IP number. Let’s look for an IP number that is
+getting a lot of 200 results but isn’t accessing my fedi instance:</p>
+
+<pre><code>root@sibirocobombus ~# grep -v '^social' /var/log/apache2/access.log \
+  | grep ' 200 ' \
+  | bin/admin/leech-detector \
+  | head
+…
+                51.210.214.160 |        411 |     4K |   0% |  155.8s | 200 (100%)
+…
+
+root@sibirocobombus ~# whois 51.210.214.160
+…
+org-name:       OVH SAS
+…
+</code></pre>
+
+<p>This is totally a hosting provider. What are they hosting?</p>
+
+<pre><code>root@sibirocobombus ~# grep 51.210.214.160 /var/log/apache2/access.log \
+  | awk -e '{print $10, $8}' \
+  | sort \
+  | uniq -c
+…
+      1 200 /wiki?action=rss;rcidonly=InterWiki
+      1 200 /wiki?action=rss;rcidonly=InvestmentWebOfTrust
+      1 200 /wiki?action=rss;rcidonly=IrcTranscription
+      1 200 /wiki?action=rss;rcidonly=JohnCappiello
+      1 200 /wiki?action=rss;rcidonly=JulianKrause
+      1 200 /wiki?action=rss;rcidonly=JustinKao
+      1 200 /wiki?action=rss;rcidonly=KarlDubost
+      1 200 /wiki?action=rss;rcidonly=KarlTree
+      1 200 /wiki?action=rss;rcidonly=KurzAnleitung
+      1 200 /wiki?action=rss;rcidonly=LangageClair
+…
+</code></pre>
+
+<p>For every single wiki page it learnt about its feed from meta data
+and it indexing that. I don’t know what to do. Producing these feeds is
+expensive. It can be a interesting service for humans that want to
+monitor a page or two. It’s a waste of CO₂ for machines that want to
+pre-emptively ingest these pages. And since there are thousands of these
+pages, every search bot ends up storing all the URLs, calling the wiki
+engine every time to ask for the latest change, making it load the page
+and check the metadata and send the reply, and TLS handshakes and
+cryptography on top of all that. It hurts my heart to think of all this
+waste. I think this is terrible design that cannot be fixed by adding
+caching. My wiki does client side caching (pages are said to remain
+fresh for 10s); http caching (with ETag header); html caching
+(attempting to reduce the time spent parsing the wiki sources and
+generating the html). In a way, these bots are forcing me to abandon
+dynamically generated content on the open net – or to waste more time
+and energy for squid cashes or varnish, more RAM, more resources, more
+of my time. And that’s what making me so angry. Dynamically generated
+HTML is excellent for low traffic sites. These days, there seems to be
+no more low traffic because robot traffic is so high. They keep the
+caches warm, all the time, on a global scale.</p>
+
+<p>I remain unhappy.</p> 
+
+<https://alexschroeder.ch/view/2024-08-18-indie-search>
+
+---
+
+## Adm. Grace Hopper’s 1982 NSA Lecture Has Been Published
+
+date: 2024-08-29, updated: 2024-08-29, from: Bruce Schneier blog
+
+<p>The &#8220;<a href="https://www.schneier.com/blog/archives/2024/07/the-nsa-has-a-long-lost-lecture-by-adm-grace-hopper.html">long lost lecture</a>&#8221; by Adm. Grace Hopper <a href="https://www.youtube.com/watch?v=si9iqF5uTFk">has</a> <a href="https://www.youtube.com/watch?v=AW7ZHpKuqZg">been</a> published by the NSA. (Note that there are two parts.)</p>
+<p>It&#8217;s a wonderful talk: funny, engaging, wise, prescient. Remember that talk was given in 1982, less than a year before the ARPANET switched to TCP/IP and the internet went operational. She was a remarkable person.</p>
+<p>Listening to it, and thinking about the audience of NSA engineers, I wonder how much of what she&#8217;s talking about as the future of computing&#8212;miniaturization, parallelization&#8212;was being done in the present and in secret.</p>
+... 
+
+<https://www.schneier.com/blog/archives/2024/08/adm-grace-hoppers-1982-nsa-lecture-has-been-published.html>
+
+---
+
+## News on the web still sucks
+
+date: 2024-08-29, from: Dave Winer's Scripting News
+
+<p>I can't read most of the stories I want to read. I have the money and am willing to spend it. But there is no system that allows me to pay. </p>
+<p>On the other hand the distribution of video entertainment is somewhat functional, I spend an ungodly amount of mostly wasted money to get access to that. </p>
+<p>I am not cheap. The news system realllly doesn't work. It could be fixed, but for the usual problem -- they would have to work with each other. </p>
+<p>If you think the NYT is a huge success, compare its size to the size of Microsoft, Netflix, Amazon or Apple, all of whom have made great businesses out of distributing other people's products. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/08/29/marketcaps.png"></center>Market caps for Amazon, Apple, Microsoft, Netflix and NYT.</div></p>
+<p>We were getting somewhere with <a href="http://scripting.com/2019/09/03/132640.html?title=nytAndRss">RSS</a>, btw -- but the journalism industry lost its minds over Twitter, and let the tech industry own the distribution system, and now it's a total mess, a good time for a re-think, I think. </p>
+<p>I generated graph in <a href="https://chatgpt.com/share/8bbe7d22-89d4-4fc3-b3c3-d56993da3e00">ChatGPT</a> by just asking for it. It has great chart software built-in. Quietly they are rearranging all the pieces of software we use. They will end up owning everything, and meanwhile people are asking if this is a bubble. Not really. More like an invasion. </p>
+ 
+
+<http://scripting.com/2024/08/29/153350.html?title=newsOnTheWebStillSucks>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-29, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/25/oldbutton.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">In elections we get to say who we are, ie who comes closest to who we are. It's all made of imagery. Bernie Sanders is someone you either love or don't. He reminds me of people in my own family, who I would <i>never</i> want to be president of anything. But <a href="https://www.youtube.com/watch?v=2nwRiuh1Cug">this ad</a>, the best ever imho, says wait a minute, please reconsider. A campaign is a series of messages from candidate to electorate: "Is this who we are?" The great ads tap our optimism, imho. The Sanders <a href="https://www.youtube.com/watch?v=2nwRiuh1Cug">ad</a> says we're nice happy people who have jobs and help each other. 
+
+<http://scripting.com/2024/08/29.html#a151645>
+
+---
+
+## History Extra for August 28, 2024
+
+date: 2024-08-29, from: Heather Cox Richardson blog
+
+The March on Washington for Jobs and Freedom took place on August 28, 1963 in Washington, D.C.. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-august-28-2024>
+
+---
+
+## New 2GB Pi 5 has 33% smaller die, 30% idle power savings
+
+date: 2024-08-29, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">New 2GB Pi 5 has 33% smaller die, 30% idle power savings</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Raspberry Pi <a href="https://www.raspberrypi.com/news/2gb-raspberry-pi-5-on-sale-now-at-50/">launched the 2 gig Pi 5 for $50</a>, and besides half the RAM and a lower price, it has a new stepping of the main BCM2712 chip.</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/pi-5-C1-vs-D0-Stepping.jpg" alt="BCM2712 C1 vs D0 Stepping chips"></p>
+
+<p>This is the BCM2712 <em>D0</em> stepping. Older Pi 5's shipped with a <em>C1</em>. In <a href="https://www.raspberrypi.com/news/2gb-raspberry-pi-5-on-sale-now-at-50/">their blog post</a>, they said:</p>
+
+<blockquote>
+  <p>The new D0 stepping strips away all that unneeded functionality, leaving only the bits we need.</p>
+</blockquote>
+
+<p>Steppings are basically chip revisions where they don't change functionality, and usually just fix bugs, or tweak the layout. But even tiny design changes could have unintended consequences. I wanted to see exactly what happens when I push one of these new chips to the limits.</p>
+
+<p>First, I wanted a performance baseline, so I ran Geekbench with the latest Pi OS and all the defaults.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-08-29T09:17:34-05:00" title="Thursday, August 29, 2024 - 09:17" class="datetime">August 29, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/new-2gb-pi-5-has-33-smaller-die-30-idle-power-savings>
 
 ---
 
@@ -51,7 +544,7 @@ Former president Trump appears to have slid further since last night&#8217;s new
 
 ## The Talk Show: ‘Pinkie Swear’
 
-date: 2024-08-29, updated: 2024-08-29, from: Daring Fireball
+date: 2024-08-29, updated: 2024-08-30, from: Daring Fireball
 
  
 
@@ -63,7 +556,7 @@ date: 2024-08-29, updated: 2024-08-29, from: Daring Fireball
 
 date: 2024-08-29, from: Tracy Durnell Blog
 
-See also: The Homogeneity of Millenial Design Taste Read A Bunch of Pretty Things I Did Not Buy Steered towards wanting The overwhelming loudness of performance Coziness comes from life Series: connecting the indie web Next up: The globalization of attention 
+See also: The Homogeneity of Millenial Design Taste Read A Bunch of Pretty Things I Did Not Buy Steered towards wanting The overwhelming loudness of performance Coziness comes from life 
 
 <https://tracydurnell.com/2024/08/28/the-mindset-of-un-curating/>
 
@@ -240,9 +733,10 @@ Note to the Harris campaign: This <a href="https://www.google.com/search?q=site:
 
 ## Matthew Green on Telegram’s Encryption
 
-date: 2024-08-28, updated: 2024-08-27, from: Bruce Schneier blog
+date: 2024-08-28, updated: 2024-08-29, from: Bruce Schneier blog
 
 <p>Matthew Green wrote a <a href="https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/">really good blog post</a> on what Telegram&#8217;s encryption is and is not.</p>
+<p>EDITED TO ADD (8/28): Another <a href="https://usa.kaspersky.com/blog/telegram-why-nobody-uses-secret-chats/27662/">good explainer</a> from Kaspersky.</p>
  
 
 <https://www.schneier.com/blog/archives/2024/08/matthew-green-on-telegrams-encryption.html>

@@ -1,11 +1,111 @@
 ---
 title: games 2024.35
-updated: 2024-08-29 07:12:02
+updated: 2024-08-30 09:38:13
 ---
 
 # games 2024.35
 
-(date: 2024-08-29 07:12:02)
+(date: 2024-08-30 09:38:13)
+
+---
+
+## In Beyond the Throne, Game of Thrones’ Hodor gets raw and personal
+
+date: 2024-08-30, updated: 2024-08-30, from: Polygon Website
+
+Kristian Nairn’s upcoming memoir Beyond the Throne: Epic Journeys, Enduring Friendships, and Surprising Tales is full of engaging production anecdotes about his work as Game of Thrones’ Hodor, the hulking, loyal servant who can’t say anything but his own name. But one of the most dryly hilarious stories happened away from the set, when he [&#8230;] 
+
+<https://www.polygon.com/game-of-thrones/446245/in-beyond-the-throne-game-of-thrones-hodor-gets-raw-and-personal>
+
+---
+
+## Brennan Lee Mulligan talks the ‘freedom and joy’ of Never Stop Blowing Up
+
+date: 2024-08-30, updated: 2024-08-30, from: Polygon Website
+
+Never Stop Blowing Up was always going to be one of Dimension 20’s most outrageous series. The homebrew game designed for the occasion combined Kids on Bikes with a simple yet compelling dice game. It was a starting place that guaranteed hijinks — the system encourages players to go for ridiculous checks, on the chance [&#8230;] 
+
+<https://www.polygon.com/actual-play/445791/never-stop-blowing-up-dimension-20-brennan-lee-mulligan-interview>
+
+---
+
+## The must-watch anime to look out for in fall 2024
+
+date: 2024-08-30, updated: 2024-08-30, from: Polygon Website
+
+We’re finally here: the final quarter of 2024, with a set of exciting new series set to cap off an already stunning year for anime releases. With the fall anime season (which runs from October through December) coming fast, there’s tons of highly anticipated anime premieres to look forward to, so let’s take a peek [&#8230;] 
+
+<https://www.polygon.com/23960593/new-anime-2024-release-calendar-schedule-watch-streaming>
+
+---
+
+## Where Star Wars Outlaws fits into the larger Star Wars universe
+
+date: 2024-08-30, updated: 2024-08-30, from: Polygon Website
+
+Star Wars Outlaws sends players on a planet-hopping adventure as Kay Vess, an up-and-coming scoundrel type who mingles with the galaxy’s underworld as she pursues a new life. Unlike a lot of other recent Star Wars content, you don’t need to know too much about the franchise’s expanded universe to understand the events of Outlaws. [&#8230;] 
+
+<https://www.polygon.com/gaming/446047/star-wars-outlaws-timeline-syndicates-explainer>
+
+---
+
+## How to find experts and unlock abilities in Star Wars Outlaws
+
+date: 2024-08-30, updated: 2024-08-30, from: Polygon Website
+
+Experts are your ticket to a smoother ride through Star Wars Outlaws. Experts teach you abilities, allowing you to learn everything from blaster and health upgrades to perks for Nix, the best Star Wars creature this side of Naboo. Each expert can teach you up to six abilities, but finding them is an involved process. [&#8230;] 
+
+<https://www.polygon.com/star-wars-outlaws-guides/445441/all-abilities-experts-locations-where-to-find>
+
+---
+
+## Rings of Power’s masked riders are playing with a messy Tolkien legacy
+
+date: 2024-08-30, updated: 2024-08-29, from: Polygon Website
+
+In its second season, The Lord of the Rings: The Rings of Power is moving to locations and time periods that J.R.R. Tolkien illustrated so sparingly that the show is essentially free to invent whatever it wants.&#160; Which is to say, Rings of Power is going to Rhûn, the catch-all place name for all land [&#8230;] 
+
+<https://www.polygon.com/lotr-rings-of-power/445809/trop-rhun-dark-wizard-tolkien-ciaran-hinds>
+
+---
+
+## New Zelda: Echoes of Wisdom trailer reveals Zelda’s surprise swordfighter skills
+
+date: 2024-08-30, updated: 2024-08-30, from: Polygon Website
+
+Well, well, well. Looks like Zelda will fight with a sword after all in her upcoming game, The Legend of Zelda: Echoes of Wisdom. But like all things Nintendo does, Zelda’s use of sword and shield in Echoes of Wisdom comes with a twist. A new trailer for Echoes of Wisdom released Friday reveals that, [&#8230;] 
+
+<https://www.polygon.com/gaming/445104/zelda-echoes-of-wisdom-trailer-swordfighter-link>
+
+---
+
+## Dead Rising Deluxe Remaster is making changes; the developers explain why
+
+date: 2024-08-30, updated: 2024-08-29, from: Polygon Website
+
+Frank West’s shopping mall-set, zombie-slaying adventure, 2006’s Dead Rising, is being revived for the modern day, with a remaster — not a full-on remake —&#160;this September. Dead Rising Deluxe Remaster will give the original Xbox 360 game a very handsome makeover, but the new version is more than just a graphical upgrade. The development teams [&#8230;] 
+
+<https://www.polygon.com/gaming/445587/dead-rising-deluxe-remaster-changes-interview>
+
+---
+
+## Alan Wake, Control TV and movie projects in the works from Annapurna
+
+date: 2024-08-30, updated: 2024-08-30, from: Polygon Website
+
+Remedy Entertainment has announced that it’s partnering with Annapurna to develop movie and TV adaptations of its much-loved supernatural game series, Alan Wake and Control. There’s no more detail on the projects than that — just the suggestion that the two companies are looking to turn Alan Wake and Control into multimedia franchises across “film, [&#8230;] 
+
+<https://www.polygon.com/gaming/446186/alan-wake-control-movie-tv-annapurna-remedy>
+
+---
+
+## Call of Duty: Black Ops 6 pre-order guide
+
+date: 2024-08-30, updated: 2024-08-29, from: Polygon Website
+
+Call of Duty returns to the conspiracy-laden Black Ops franchise with Black Ops 6. While the latest Call of Duty title doesn’t launch until Oct. 25, pre-orders are already available. Black Ops 6 will launch with a total of 16 new multiplayer maps and also marks the return of a cooperative, round-based zombies mode. This [&#8230;] 
+
+<https://www.polygon.com/pre-order/445874/call-of-duty-black-ops-6-vault-edition-where-to-buy>
 
 ---
 

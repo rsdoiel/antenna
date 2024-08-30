@@ -1,11 +1,134 @@
 ---
 title: central coast 2024.35
-updated: 2024-08-29 07:11:59
+updated: 2024-08-30 09:38:10
 ---
 
 # central coast 2024.35
 
-(date: 2024-08-29 07:11:59)
+(date: 2024-08-30 09:38:10)
+
+---
+
+## Youth Making Change Offers $30,000 in Grants for Youth-Led Projects
+
+date: 2024-08-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Fund for Santa Barbara’s Youth Making Change (YMC) program has announced the 2024-25 Grant Cycle with $30,000 available for youth-led projects. YMC is a year-long, youth-led grant-making program that [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/youth-making-change-offer-30000-in-grants-for-youth-led-projects/">Youth Making Change Offers $30,000 in Grants for Youth-Led Projects</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/youth-making-change-offer-30000-in-grants-for-youth-led-projects/>
+
+---
+
+## Drain Project to Cause Delays on Stowell Road and Miller Street
+
+date: 2024-08-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Drivers are advised that temporary delays and reduction in vehicular lanes will occur for the next two months on Stowell Road and Miller Street for a storm drain installation project [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/drain-project-to-cause-delays-on-stowell-road-miller-street-in-santa-maria/">Drain Project to Cause Delays on Stowell Road and Miller Street</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/drain-project-to-cause-delays-on-stowell-road-miller-street-in-santa-maria/>
+
+---
+
+## One805Live! Posts Online Auction to Support County First Responders
+
+date: 2024-08-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>As part of its One805Live! Fall Concert on Sept. 20, One805 has opened an online auction, offering everything from a Ferrari to a Safari. Bids and donations will benefit Santa [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/one805live-posts-online-auction-to-support-county-first-responders/">One805Live! Posts Online Auction to Support County First Responders</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/one805live-posts-online-auction-to-support-county-first-responders/>
+
+---
+
+## Santa Barbara Police to Conduct DUI Checkpoint on Night of Aug. 31
+
+date: 2024-08-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara Police Department will conduct a driving under the influence (DUI) checkpoint, 5 p.m.-1 a.m. Saturday, Aug. 31 at an undisclosed location. Additionally, officers will be on patrol [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-police-to-conduct-dui-checkpoint-on-night-of-aug-31/">Santa Barbara Police to Conduct DUI Checkpoint on Night of Aug. 31</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-police-to-conduct-dui-checkpoint-on-night-of-aug-31/>
+
+---
+
+## Storm Damage Repair Project Will Affect Travelers on State Route 192
+
+date: 2024-08-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>One-way reversing traffic control on a section of State Route 192 near Parma Park will begin Tuesday, Sept. 3 and run through Friday, Sept. 13 for storm damage repair work, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/storm-damage-repair-project-will-affect-travelers-on-state-route-192/">Storm Damage Repair Project Will Affect Travelers on State Route 192</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/storm-damage-repair-project-will-affect-travelers-on-state-route-192/>
+
+---
+
+## Lompoc Invites Public Comments on Community Block Grant Funds
+
+date: 2024-08-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The city of Lompoc has prepared a draft copy of the 2023-24 Consolidated Annual Performance and Evaluation Report (CAPER) on activities funded with federal Community Development Block Grant (CDBG) funds [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lompoc-invites-public-comments-on-community-block-grant-funds/">Lompoc Invites Public Comments on Community Block Grant Funds</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/lompoc-invites-public-comments-on-community-block-grant-funds/>
+
+---
+
+## Bill Macfadyen: Light Sentence Adds to Heavy Burden of Grief for DUI Crash Victim’s Family
+
+date: 2024-08-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/2-082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Greg Dominguez of Guadalupe — here with two of his sisters, Barbara Dominguez and Diana Gonzalez — was killed on Christmas Day by a drunken driver who slammed into his car on West Main Street/Highway 166 between Santa Maria and Guadalupe." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/2-082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/2-082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/2-082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/2-082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/2-082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/2-082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/2-082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/2-082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/2-082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/2-082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/2-082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/2-082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/2-082724-Chavez-Crash-Dominguez-Death4b-cont.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>I’ve been writing these Best of Bill columns every Friday since very soon after Noozhawk was hatched on Oct. 16, 2007. The concept is simple: I take the Top 5 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bill-macfadyen-light-sentence-adds-to-heavy-burden-of-grief-for-dui-crash-victims-family/">Bill Macfadyen: Light Sentence Adds to Heavy Burden of Grief for DUI Crash Victim’s Family</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bill-macfadyen-light-sentence-adds-to-heavy-burden-of-grief-for-dui-crash-victims-family/>
+
+---
+
+## Moody Beach, Maine
+
+date: 2024-08-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Kelly-Knight.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Moody Beach, Maine." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Kelly-Knight.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Kelly-Knight.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Kelly-Knight.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Kelly-Knight.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Kelly-Knight.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Kelly-Knight.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Kelly-Knight.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Kelly-Knight.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Kelly-Knight.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Kelly-Knight.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Kelly-Knight.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Kelly-Knight.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Kelly-Knight.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/moody-beach-maine/">Moody Beach, Maine</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/moody-beach-maine/>
+
+---
+
+## BizHawk: Arnoldi’s Cafe Reopens Under New Ownership, But It’s Still in the Family
+
+date: 2024-08-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-BizHawk-Sara-Skrinski-Bryan-Skrinski-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sara Skrinski, with husband Bryan, has reopened the iconic Arnoldi&#039;s Cafe in Santa Barbara. She is the daughter of David Peri, who owned the restaurant until he died earlier this year." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-BizHawk-Sara-Skrinski-Bryan-Skrinski-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-BizHawk-Sara-Skrinski-Bryan-Skrinski-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-BizHawk-Sara-Skrinski-Bryan-Skrinski-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-BizHawk-Sara-Skrinski-Bryan-Skrinski-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-BizHawk-Sara-Skrinski-Bryan-Skrinski-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-BizHawk-Sara-Skrinski-Bryan-Skrinski-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-BizHawk-Sara-Skrinski-Bryan-Skrinski-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-BizHawk-Sara-Skrinski-Bryan-Skrinski-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-BizHawk-Sara-Skrinski-Bryan-Skrinski-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-BizHawk-Sara-Skrinski-Bryan-Skrinski-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>From busser to owner. That&#8217;s Sara Skrinski&#8217;s journey. Arnoldi&#8217;s Cafe, an iconic Santa Barbara Italian restaurant, reopened this week under Skrinski&#8217;s ownership. She is the daughter of David Peri, who [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-arnoldis-cafe-reopens-with-new-owners-but-its-still-in-the-family/">BizHawk: Arnoldi&#8217;s Cafe Reopens Under New Ownership, But It&#8217;s Still in the Family</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bizhawk-arnoldis-cafe-reopens-with-new-owners-but-its-still-in-the-family/>
+
+---
+
+## San Marcos Girls Volleyball Opens League Play with Sweep of Buena
+
+date: 2024-08-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-g-vball-cover-829.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-g-vball-cover-829.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-g-vball-cover-829.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-g-vball-cover-829.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-g-vball-cover-829.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-g-vball-cover-829.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-g-vball-cover-829.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-g-vball-cover-829.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-g-vball-cover-829.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-g-vball-cover-829.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-g-vball-cover-829.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>San Marcos girls volleyball cruised to a three-set sweep of Buena in the Channel League opener on Thursday inside the Thunderhut. The Royals dominated from start to finish, holding the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/san-marcos-girls-volleyball-opens-league-play-with-sweep-of-buena/">San Marcos Girls Volleyball Opens League Play with Sweep of Buena</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/san-marcos-girls-volleyball-opens-league-play-with-sweep-of-buena/>
 
 ---
 

@@ -1,11 +1,391 @@
 ---
 title: going electric 2024.35
-updated: 2024-08-29 07:12:06
+updated: 2024-08-30 09:38:17
 ---
 
 # going electric 2024.35
 
-(date: 2024-08-29 07:12:06)
+(date: 2024-08-30 09:38:17)
+
+---
+
+## BYD unveils new Seal 06GT electric hot hatch for just over $21,000
+
+date: 2024-08-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/BYD-Seal-06GT-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD unveiled its sporty new electric hot hatch on Thursday at the Chengdu Auto Show. The new <a href="https://electrek.co/guides/byd/">BYD</a> Seal 06GT starts at just $21,150 (150,000 yuan), deeming it the industry’s first RWD electric performance hatchback.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="377870" href="https://electrek.co/2024/08/30/byd-unveils-new-seal-06gt-electric-hot-hatch-for-21000/#more-377870" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/30/byd-unveils-new-seal-06gt-electric-hot-hatch-for-21000/>
+
+---
+
+## Yadea Elite Prime review: The full-suspension e-scooter you’d never guess is so powerful
+
+date: 2024-08-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/yadea-elite-prime-scooter-1.jpg?quality=82&#038;strip=all&#038;w=1350" /></div><p>All of Yadea’s <a href="https://electrek.co/2024/04/15/yadea-artist-launched-as-impressive-499-full-suspension-electric-scooter/">latest full-suspension electric scooters</a> are slick-looking machines. Nicely contoured cast frames, dual swingarms for the complete suspension package, and single-side supported wheels make the scooters look like they’re floating at just the right angle. But it’s the most powerful model of the bunch that packs the biggest surprise. Behind the cute exterior of the Yadea Elite Prime is a veritable wolf in sheep’s clothing, offering up to 1,500W of power in a scooter that looks like it belongs behind a leggy model in a Paris fashion shoot.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-scooter,review" data-layer-viewtype="unknown" data-post-id="375327" href="https://electrek.co/2024/08/30/yadea-elite-prime-review-the-full-suspension-e-scooter-youd-never-guess-is-so-powerful/#more-375327" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/30/yadea-elite-prime-review-the-full-suspension-e-scooter-youd-never-guess-is-so-powerful/>
+
+---
+
+## XPeng’s new MONA M03 EV nabs 30,000 orders in first 48 hours as deliveries commence
+
+date: 2024-08-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/MONA-M03-orders.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Just days after officially launching orders of its new MONA M03 EV in China, <a href="https://electrek.co/guides/xpeng/">XPeng Motors</a> is seeing huge customer interest as deliveries begin. The Chinese automaker reported the M03 garnered over 30,000 orders in its first 48 hours on sale. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mona,mona-m03,xpeng,xpeng-motors" data-layer-viewtype="unknown" data-post-id="377854" href="https://electrek.co/2024/08/30/xpeng-mona-m03-ev-nabs-30000-orders-first-48-hours-deliveries-commence/#more-377854" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/30/xpeng-mona-m03-ev-nabs-30000-orders-first-48-hours-deliveries-commence/>
+
+---
+
+## Tesla Cybertruck gets turned into Halo Warthog with working machine gun
+
+date: 2024-08-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Tesla-Cybertruck-Halo-warthog-machine-gun.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A Youtuber has turned a Tesla Cybertruck into a Warthog, famous from the video game Halo, with a working machine gun on top.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="377866" href="https://electrek.co/2024/08/30/tesla-cybertruck-gets-turned-into-halo-warthog-with-working-machine-gun/#more-377866" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/30/tesla-cybertruck-gets-turned-into-halo-warthog-with-working-machine-gun/>
+
+---
+
+## BMW Ranks Third For Global Plug-In Car Sales So Far In 2024
+
+date: 2024-08-30, from: Inside EVs News
+
+It is behind BYD and Tesla but ahead of Hyundai and Kia combined. 
+
+<https://insideevs.com/news/731925/bmw-plug-in-sales-2024/>
+
+---
+
+## BYD’s bold move in Germany could spell big trouble for Volkswagen
+
+date: 2024-08-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/BYD-November-sales.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s leading EV maker, <a href="https://electrek.co/guides/byd/">BYD</a>, is making big moves to gain a foothold in Europe. BYD’s latest deal could spell big trouble for Volkswagen in Germany.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,volkswagen" data-layer-viewtype="unknown" data-post-id="377849" href="https://electrek.co/2024/08/30/byds-bold-move-germany-could-spell-big-trouble-volkswagen/#more-377849" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/30/byds-bold-move-germany-could-spell-big-trouble-volkswagen/>
+
+---
+
+## Zeekr Increasingly Feels Like A Polestar Do-Over
+
+date: 2024-08-30, from: Inside EVs News
+
+As Polestar falters, this Geely-backed EV company is one to watch. Plus: Hyundai's Genesis needs hybrids to grow.  
+
+<https://insideevs.com/news/731929/zeekr-polestar-geely-cm/>
+
+---
+
+## 2025 Mini Countryman SE ALL4 EPA Range Rating: Up To 212 Miles
+
+date: 2024-08-30, from: Inside EVs News
+
+Mini’s first all-electric crossover will hit U.S. dealers in September. Here’s how it compares to one of its main rivals. 
+
+<https://insideevs.com/news/731893/2025-mini-countryman-se-all4-epa-range/>
+
+---
+
+## This Tesla Model 3 Driver Display Is A Simple And Cheap DIY Project
+
+date: 2024-08-30, from: Inside EVs News
+
+Tinkerers doing Tesla’s work. 
+
+<https://insideevs.com/news/731880/tesla-model-3-driver-display-diy/>
+
+---
+
+## ZEEKR 7X debuts in China ahead of deliveries next month before hitting global EV markets [Video]
+
+date: 2024-08-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/ZEEKR-7X-EV-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chinese EV automaker <a href="https://electrek.co/guides/zeekr/">ZEEKR</a> is inching closer to the first deliveries of its new 7X EV. The classically styled five-seat SUV is peppered without advanced technology inside and out and will hit “global markets” as a new EV model that brings the luxury of premium models to consumers at an affordable price… we’re just not sure what that price is yet. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="zeekr,zeekr-7x" data-layer-viewtype="unknown" data-post-id="377700" href="https://electrek.co/2024/08/29/zeekr-7x-debuts-china-deliveries-next-month-hitting-global-ev-markets-video/#more-377700" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/29/zeekr-7x-debuts-china-deliveries-next-month-hitting-global-ev-markets-video/>
+
+---
+
+## The US government opens up more federal lands for solar – to 31 million acres
+
+date: 2024-08-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/desert-solar-BLM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Biden administration has finalized a plan to expand solar on 31 million acres of federal lands in 11 western states. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,president-biden,solar-power" data-layer-viewtype="unknown" data-post-id="377807" href="https://electrek.co/2024/08/29/the-us-government-opens-up-more-federal-lands-for-solar-to-31-million-acres/#more-377807" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/29/the-us-government-opens-up-more-federal-lands-for-solar-to-31-million-acres/>
+
+---
+
+## All-electric Seagliders are about to take flight in the US
+
+date: 2024-08-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/All-electric-Seagliders-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>REGENT received approval from the US Coast Guard to begin testing its all-electric Seaglider. The <a href="https://electrek.co/guides/seaglider/">Seaglider</a> combines the speed of an aircraft with the convenience of a boat for faster, more affordable travel. Testing will begin later this year, with the first planned flights in early 2025.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-planes,seaglider" data-layer-viewtype="unknown" data-post-id="377797" href="https://electrek.co/2024/08/29/all-electric-seagliders-about-to-take-flight-us/#more-377797" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/29/all-electric-seagliders-about-to-take-flight-us/>
+
+---
+
+## How Rivian's New Rewards Program Can Get You A Free Rivian
+
+date: 2024-08-29, from: Inside EVs News
+
+Rivian Rewards earns buyers and referrers free charging and points they can put toward various Rivian products. 
+
+<https://insideevs.com/news/731820/rivian-rewards-program-referral-points/>
+
+---
+
+## Chevy gains a new EV commercial van: GM’s BrightDrop
+
+date: 2024-08-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Chevy-EV-van.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/chevrolet/">Chevy</a> is expanding its EV portfolio with electric commercial vans. GM announced it’s moving BrightDrop under the Chevrolet brand. The move comes after rival Ford revealed plans for a new “digitally advanced” commercial EV van as part of its shifting electrified strategy.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="brightdrop,chevrolet,general-motors,gm" data-layer-viewtype="unknown" data-post-id="377778" href="https://electrek.co/2024/08/29/chevy-gains-new-ev-commercial-van/#more-377778" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/29/chevy-gains-new-ev-commercial-van/>
+
+---
+
+## Driivz expands in the US EV charging market with a new HQ
+
+date: 2024-08-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/driivz.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Global EV charging software maker Driivz has officially opened its US headquarters in Raleigh, North Carolina. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,ev-chargers,ev-charging,north-carolina" data-layer-viewtype="unknown" data-post-id="377777" href="https://electrek.co/2024/08/29/driivz-expands-in-the-us-ev-charging-market-with-a-new-hq/#more-377777" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/29/driivz-expands-in-the-us-ev-charging-market-with-a-new-hq/>
+
+---
+
+## Rivian announces “Rivian Rewards,” a referral program for Rivian owners
+
+date: 2024-08-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Rivian-next-gen-R1-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Rivian has launched a referral program, allowing owners and purchasers to gain discounted gear or free charging through use of their <a href="http://rivian.com/configurations/list?reprCode=SETH1891167">Rivian referral code</a> – or, with enough referrals, even an “almost”-free Rivian vehicle.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="referral-program,rivian" data-layer-viewtype="unknown" data-post-id="377775" href="https://electrek.co/2024/08/29/rivian-announces-rivian-rewards-a-referral-program-for-rivian-owners/#more-377775" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/29/rivian-announces-rivian-rewards-a-referral-program-for-rivian-owners/>
+
+---
+
+## Tesla Model Y refresh planned for Q1 2025, supply chain report claims
+
+date: 2024-08-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Tesla-Model-Y-refresh-render.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A new report from the Tesla supply chain in China claims that the Tesla Model Y refresh is planned for Q1 2025.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="377743" href="https://electrek.co/2024/08/29/tesla-model-y-refresh-planned-q1-2025-supply-chain-report-claims/#more-377743" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/29/tesla-model-y-refresh-planned-q1-2025-supply-chain-report-claims/>
+
+---
+
+## Interest in EVs just hit a record in the US with big discounts, more affordable options
+
+date: 2024-08-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Electric-vehicles-5K-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Massive discounts and new lower-priced models are making <a href="https://electrek.co/guides/electric-vehicles/">electric vehicles</a> more affordable, helping draw in buyers. According to the latest <em>JD Power EV Index</em> data, interest in EVs hit a new yearly high in July, with over a quarter of shoppers “very likely” to go electric for their next vehicle.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles" data-layer-viewtype="unknown" data-post-id="377756" href="https://electrek.co/2024/08/29/interest-evs-record-us-prices-drop/#more-377756" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/29/interest-evs-record-us-prices-drop/>
+
+---
+
+## Save $405 on Lectric e-bike bundles from $799, Rexing EV charger adapters 25% off, 1-day Anker EverFrost 50 sale, more
+
+date: 2024-08-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Lectric-XPedition-Cargo-e-bike-newest-pic.webp?w=1200" /></div><p>Today’s Green Deals are focusing on what you’re hauling – whether that is packages, people, or proteins/produce/etc. Leading the group is another shift in Lectric’s Labor Day sales, with the brand’s <a href="https://9to5toys.com/2024/08/29/haul-your-precious-cargo-on-lectrics-xpedition-e-bike-with-405-in-free-gear-at-1475-more-from-799/">Xpedition Cargo e-bike at $1,475</a> and coming with $405 in free gear that will give you everything you need to transport a variety of cargo up to 75+ miles per ride. The sale is joined by a collection of <a href="https://9to5toys.com/2024/08/28/these-three-popular-tesla-and-j1772-ev-adapters-from-rexing-are-up-to-25-off-today-from-50/">Rexing’s popular Tesla and J1772 EV charger adapters</a> that are seeing up to 25% discounts and starting <a href="https://9to5toys.com/2024/08/28/these-three-popular-tesla-and-j1772-ev-adapters-from-rexing-are-up-to-25-off-today-from-50/">from $50</a>, as well as a one-day sale on <a href="https://9to5toys.com/2024/08/29/save-250-on-ankers-everfrost-53l-dual-zone-portable-electric-cooler-at-699-for-today-only/">Anker’s comprehensive EverFrost Dual-Zone Portable Electric Cooler 50</a> that is down at <a href="https://9to5toys.com/2024/08/29/save-250-on-ankers-everfrost-53l-dual-zone-portable-electric-cooler-at-699-for-today-only/">$699</a> for the rest of the day. There’s also <a href="https://9to5toys.com/2024/08/29/add-220w-of-solar-input-to-your-ecoflow-setup-at-319-low-during-24-hour-flash-sale-save-479/">EcoFlow’s 24-hour flash sale</a> that ends tonight – plus, all the other hangover Green Deals that are still alive and well, like yesterday’s early-bird discounts on <a href="https://9to5toys.com/2024/08/28/first-chance-to-save-on-ankers-new-solix-c300-90000mah-dc-and-ac-power-stations-from-150-reg-200/">Anker’s new SOLIX C300 90,000mAh power stations</a> or the <a href="https://9to5toys.com/2024/08/29/power-everything-anywhere-anker-offers-a-massive-2228-in-savings-on-solix-f3800-power-station-backup-bundles/">SOLIX F3800 bundles</a> that have dropped another $300 in price!</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="377761" href="https://electrek.co/2024/08/29/lectric-e-bike-bundles-from-799-rexing-ev-charger-adapters-anker-everfrost-more/#more-377761" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/29/lectric-e-bike-bundles-from-799-rexing-ev-charger-adapters-anker-everfrost-more/>
+
+---
+
+## Self-Driving Cars Aren’t Making Roads Safer. But These Systems Are
+
+date: 2024-08-29, from: Inside EVs News
+
+Experts argue that automation isn’t making our roads any safer. But crash avoidance features really are. 
+
+<https://insideevs.com/news/731700/crash-avoidance-systems-make-roads-safer/>
+
+---
+
+## GM Folds BrightDrop Electric Van Brand Into Chevy. It's A Good Move
+
+date: 2024-08-29, from: Inside EVs News
+
+GM hopes to sell more of its electric vans by folding BrightDrop in to the Chevy brand.  
+
+<https://insideevs.com/news/731803/brightdrop-chevy-ev-van-gm/>
+
+---
+
+## Polestar (PSNY) reports weaker Q2 deliveries following CEO’s sudden departure
+
+date: 2024-08-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Polestar-Q2-deliveries-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/polestar/">Polestar</a> (PSNY) stock is up over 15% on Thursday despite reporting fewer Q2 deliveries than last year. With a new CEO taking over and two new electric SUVs hitting the market, the Swedish EV brand expects things around. Quickly.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="polestar" data-layer-viewtype="unknown" data-post-id="377738" href="https://electrek.co/2024/08/29/polestar-psny-q2-deliveries-slip-ceo-suddenly-departs/#more-377738" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/29/polestar-psny-q2-deliveries-slip-ceo-suddenly-departs/>
+
+---
+
+## Why are Sur Ron-style electric motorbikes so dang popular with teens today?
+
+date: 2024-08-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/07/sur-ron-header-police.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In recent years, Sur Ron-style electric trail bikes have surged in popularity among young riders across the US. These lightweight, nimble, and powerful machines are quickly becoming the go-to choice for adrenaline-seeking youth, and there are several reasons behind this trend.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,electric-motorcycle,sur-ron,talaria" data-layer-viewtype="unknown" data-post-id="377676" href="https://electrek.co/2024/08/29/why-are-sur-ron-style-electric-motorbikes-so-dang-popular-with-teens-today/#more-377676" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/29/why-are-sur-ron-style-electric-motorbikes-so-dang-popular-with-teens-today/>
+
+---
+
+## What Polestar And Volvo Got Wrong
+
+date: 2024-08-29, from: Inside EVs News
+
+Volvo is still behind the EV curve nearly eight years after it split with Polestar. Now the EV spin-off is in trouble on its own. 
+
+<https://insideevs.com/news/731643/geely-volvo-polestar-disadvantage-brand/>
+
+---
+
+## Pebble cuts ribbon on new HQ and production facility where it will build its Flow electric RV
+
+date: 2024-08-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Pebble-production-new-HQ.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Less than a year after unveiling its innovative electric RV called the Flow, <a href="https://electrek.co/guides/pebble/">Pebble</a> has announced a new company milestone for its business and production going forward. The company has officially opened a new headquarters and production facility in California as it looks to finally bring the Flow to market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-rv,pebble,pebble-flow" data-layer-viewtype="unknown" data-post-id="376965" href="https://electrek.co/2024/08/29/pebble-new-hq-production-facility-flow-electric-rv/#more-376965" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/29/pebble-new-hq-production-facility-flow-electric-rv/>
+
+---
+
+## 2024 Toyota bZ4x Labor Day Lease Deals Are Hot
+
+date: 2024-08-29, from: Inside EVs News
+
+The 2024 Toyota bZ4x gets some software updates and can be a decent option for someone looking for a cheap EV bargain. 
+
+<https://insideevs.com/news/731793/2024-toyota-bz4x-labor-day-lease-deals/>
+
+---
+
+## China's Electric Car Companies Are Still Not Invincible
+
+date: 2024-08-29, from: Inside EVs News
+
+Plus, calls for Software-Defined Vehicle standards, and Tesla asks Canada for a tariff break on its Chinese-built EVs. 
+
+<https://insideevs.com/news/731702/china-electric-car-companies-cm/>
+
+---
+
+## Volvo’s cheapest EV is taking Europe by storm: Will it do the same in the US?
+
+date: 2024-08-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Volvos-cheapest-EV-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volvo’s smallest and cheapest EV, <a href="https://electrek.co/guides/volvo-ex30/">the EX30</a>, is already changing the game in Europe. Will it have the same impact in the US?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo,volvo-ex30" data-layer-viewtype="unknown" data-post-id="377716" href="https://electrek.co/2024/08/29/volvos-cheapest-ev-takes-europe-by-storm-ahead-us-launch/#more-377716" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/29/volvos-cheapest-ev-takes-europe-by-storm-ahead-us-launch/>
+
+---
+
+## Tesla asks Canada for lower tariffs on its China-made electric cars
+
+date: 2024-08-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Screenshot-2024-07-30-at-10.31.50 AM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is asking for some relief from Canada’s newly announced tariffs on electric vehicles made in China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="377625" href="https://electrek.co/2024/08/29/tesla-asks-canada-lower-tariffs-its-china-made-electric-cars/#more-377625" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/29/tesla-asks-canada-lower-tariffs-its-china-made-electric-cars/>
+
+---
+
+## This Stripped-Out BMW i4 M50 Cuts Weight To Go On The Attack
+
+date: 2024-08-29, from: Inside EVs News
+
+With most of its interior and all sound deadening gone, this i4 is considerably lighter than stock and much faster around a corner. 
+
+<https://insideevs.com/news/731772/bmw-i4-hillclimb-stripped/>
 
 ---
 

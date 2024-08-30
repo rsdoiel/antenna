@@ -1,11 +1,83 @@
 ---
 title: ham radio 2024.35
-updated: 2024-08-29 07:11:58
+updated: 2024-08-30 09:38:10
 ---
 
 # ham radio 2024.35
 
-(date: 2024-08-29 07:11:58)
+(date: 2024-08-30 09:38:10)
+
+---
+
+## Antenna subsystem employs beamforming IC
+
+date: 2024-08-30, from: EDN Blog
+
+<img width="800" height="469" src="https://www.edn.com/wp-content/uploads/Taoglas-KHA16.24C.jpg?fit=800%2C469" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Taoglas-KHA16.24C.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Taoglas-KHA16.24C.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Taoglas-KHA16.24C.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Taoglas and MixComm are co-developing a 5G NR mmWave antenna subsystem that covers a frequency band of 26.5 GHz to 29.5 GHz. </p>
+<p>The post <a href="https://www.edn.com/antenna-subsystem-employs-beamforming-ic/" data-wpel-link="internal">Antenna subsystem employs beamforming IC</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/antenna-subsystem-employs-beamforming-ic/>
+
+---
+
+## Hybrid module boosts solar power
+
+date: 2024-08-30, from: EDN Blog
+
+<img width="800" height="425" src="https://www.edn.com/wp-content/uploads/onsemi-F5BP-PIM.jpg?fit=800%2C425" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/onsemi-F5BP-PIM.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/onsemi-F5BP-PIM.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/onsemi-F5BP-PIM.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>onsemi's Si/SiC hybrid power integrated module increases the power output of utility-scale solar string inverters and energy storage systems.</p>
+<p>The post <a href="https://www.edn.com/hybrid-module-boosts-solar-power/" data-wpel-link="internal">Hybrid module boosts solar power</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/hybrid-module-boosts-solar-power/>
+
+---
+
+## Ideal diodes reduce power loss
+
+date: 2024-08-30, from: EDN Blog
+
+<img width="700" height="460" src="https://www.edn.com/wp-content/uploads/Nexperia-NID5100.jpg?fit=700%2C460" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Nexperia-NID5100.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Nexperia-NID5100.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Nexperia’s NID5100 and NID5100-Q100 ideal diodes provide a lower forward voltage drop than conventional diodes in power OR-ing applications.</p>
+<p>The post <a href="https://www.edn.com/ideal-diodes-reduce-power-loss/" data-wpel-link="internal">Ideal diodes reduce power loss</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/ideal-diodes-reduce-power-loss/>
+
+---
+
+## Miniature MLCCs maintain high stability
+
+date: 2024-08-30, from: EDN Blog
+
+<img width="800" height="427" src="https://www.edn.com/wp-content/uploads/Kyocera-KGU-series.jpg?fit=800%2C427" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Kyocera-KGU-series.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Kyocera-KGU-series.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Kyocera-KGU-series.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>MLCCs in Kyocera AVX's KGU series use a Class 1 C0G (NP0) ceramic dielectric, ensuring stable operation across a wide temperature range.</p>
+<p>The post <a href="https://www.edn.com/miniature-mlccs-maintain-high-stability/" data-wpel-link="internal">Miniature MLCCs maintain high stability</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/miniature-mlccs-maintain-high-stability/>
+
+---
+
+## Automotive LDO packs watchdog timer
+
+date: 2024-08-30, from: EDN Blog
+
+<img width="700" height="461" src="https://www.edn.com/wp-content/uploads/Nisshinbo-NP4271.jpg?fit=700%2C461" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Nisshinbo-NP4271.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Nisshinbo-NP4271.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>The NP4271 LDO regulator from Nisshinbo features a watchdog timer and reset functions through window-type output voltage monitoring.</p>
+<p>The post <a href="https://www.edn.com/automotive-ldo-packs-watchdog-timer/" data-wpel-link="internal">Automotive LDO packs watchdog timer</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/automotive-ldo-packs-watchdog-timer/>
+
+---
+
+## PQC algorithms: Security of the future is ready for the present
+
+date: 2024-08-30, from: EDN Blog
+
+<img width="960" height="540" src="https://www.edn.com/wp-content/uploads/Hero-image-PQC-NIST.jpg?fit=960%2C540" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-PQC-NIST.jpg?w=960 960w, https://www.edn.com/wp-content/uploads/Hero-image-PQC-NIST.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-PQC-NIST.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-PQC-NIST.jpg?w=800 800w" sizes="(max-width: 960px) 100vw, 960px" /><p>NIST publishes three standards for post-quantum cryptography (PQC) serving general encryption and digital signatures.</p>
+<p>The post <a href="https://www.edn.com/pqc-algorithms-security-of-the-future-is-ready-for-the-present/" data-wpel-link="internal">PQC algorithms: Security of the future is ready for the present</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/pqc-algorithms-security-of-the-future-is-ready-for-the-present/>
 
 ---
 
@@ -13,7 +85,7 @@ updated: 2024-08-29 07:11:58
 
 date: 2024-08-29, from: EDN Blog
 
-<img width="500" height="332" src="https://www.edn.com/wp-content/uploads/Power-Points-Blog162_beamed-solar-power_Fig2.png?fit=500%2C332" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Power-Points-Blog162_beamed-solar-power_Fig2.png?w=500 500w, https://www.edn.com/wp-content/uploads/Power-Points-Blog162_beamed-solar-power_Fig2.png?w=300 300w" sizes="(max-width: 500px) 100vw, 500px" /><p>Harvesting solar power via orbiting satellites which beam it down seems like a great idea, until you dive into the details.</p>
+<img width="500" height="332" src="https://www.edn.com/wp-content/uploads/Power-Points-Blog162_beamed-solar-power_Fig2.png?fit=500%2C332" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Power-Points-Blog162_beamed-solar-power_Fig2.png?w=500 500w, https://www.edn.com/wp-content/uploads/Power-Points-Blog162_beamed-solar-power_Fig2.png?w=300 300w" sizes="(max-width: 500px) 100vw, 500px" /><p>Harvesting solar power via orbiting satellites which beam it down seems like a great idea, until you dive into the details.</p>
 <p>The post <a href="https://www.edn.com/beaming-solar-power-to-earth-feasible-or-fantasy/" data-wpel-link="internal">Beaming solar power to Earth: feasible or fantasy?</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

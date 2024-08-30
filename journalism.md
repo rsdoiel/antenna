@@ -1,11 +1,41 @@
 ---
 title: journalism 2024.35
-updated: 2024-08-29 07:12:02
+updated: 2024-08-30 09:38:13
 ---
 
 # journalism 2024.35
 
-(date: 2024-08-29 07:12:02)
+(date: 2024-08-30 09:38:13)
+
+---
+
+## Newsonomics: California’s local news agreement with Google is a win
+
+date: 2024-08-30, from: Nieman Journalism Lab
+
+If you’ve been following the great debate over how the state of California should step in to aid its dwindling local news force — down 68% since 2005 — you’ve heard many voices. The debate, which began in early 2023, now seems settled — by an actual legislation-avoiding settlement agreed to by Google and Governor Gavin Newsom... 
+
+<https://www.niemanlab.org/2024/08/newsonomics-californias-local-news-agreement-with-google-is-a-win/>
+
+---
+
+## Here’s how 7 news audience directors are thinking about Google’s AI Overviews
+
+date: 2024-08-29, from: Nieman Journalism Lab
+
+Earlier this summer, AI Overviews made headlines across the U.S. — mostly for the wrong reasons. The new Google search feature offers up AI-generated answers to queries, synthesizing sources on the web and filtering them through Google’s own large language model, Gemini. In the days after its U.S. roll out, journalists quickly took to social... 
+
+<https://www.niemanlab.org/2024/08/how-7-news-audience-directors-are-thinking-about-responding-to-googles-ai-overviews/>
+
+---
+
+## This news aggregator–slash–dating app helps news nerds meet
+
+date: 2024-08-29, from: Nieman Journalism Lab
+
+Is news literacy hot? Washington, D.C. residents are about to find out. Part news aggregator, part dating app, InPress is launching for Washington, D.C. residents Thursday. It aims to help people find and build connections (both romantic and friendly) through journalism, co-founder and CEO Adam Harder told me. As with most dating apps, users start... 
+
+<https://www.niemanlab.org/2024/08/this-news-aggregator-slash-dating-app-helps-news-nerds-meet/>
 
 ---
 

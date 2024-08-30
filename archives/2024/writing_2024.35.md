@@ -1,11 +1,70 @@
 ---
 title: writing 2024.35
-updated: 2024-08-29 07:12:01
+updated: 2024-08-30 09:38:12
 ---
 
 # writing 2024.35
 
-(date: 2024-08-29 07:12:01)
+(date: 2024-08-30 09:38:12)
+
+---
+
+## Featured Friday: 24 Hours or Less
+
+date: 2024-08-30, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at movies that use the confines of a single day to their advantage, keeping characters constantly pushing against time and towards their goals. Our collection includes: All is Lost by J.C. Chandor [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-24-hours-or-less">Featured Friday: 24 Hours or Less</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/featured-friday-24-hours-or-less>
+
+---
+
+## Creating a Colorful and Exciting Pitch Deck
+
+date: 2024-08-30, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/creating-a-colorful-and-exciting-pitch-deck" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Create%20Pitch%20Deck.jpg" alt="Creating a Colorful and Exciting Pitch Deck" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span style="font-family: Georgia, Palatino, Times, 'Times New Roman', serif;">In recent years the <a href="https://blog.finaldraft.com/the-screenwriters-toolbox-part-iv-pitch-decks">pitch deck</a> has become a frequently used sales tool within the film and television industry. A pitch deck is similar to a PowerPoint presentation: combining both text and visual elements to market a screenplay, a proposed film or television series, or even your approach to a possible writing or directing job.</span></p> 
+
+<https://blog.finaldraft.com/creating-a-colorful-and-exciting-pitch-deck>
+
+---
+
+## Gary K. Wolfe Reviews Blackheart Man by Nalo Hopkinson
+
+date: 2024-08-30, from: Locus Magazine
+
+<p><strong>Blackheart Man</strong>, Nalo Hopkinson (Saga 978-1-6680-0510-1, $28.99, 384pp, hc) August 2024.</p>
+<p>Those who have been following Nalo Hop­kinson’s fascinating (and Grand Master-winning) career have long been aware that a major novel titled <strong>Blackheart Man </strong>has been in the works for some time. In a Locus interview a couple of months ago, Hopkinson said she’d been working on it for more than fifteen years, and she even mentioned the book  <a href="https://locusmag.com/2024/08/gary-k-wolfe-reviews-blackheart-man-by-nalo-hopkinson/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/gary-k-wolfe-reviews-blackheart-man-by-nalo-hopkinson/>
+
+---
+
+## Chernin Brothers Unveil New R-Rated Comedy and Lessons Learned from 'It's Always Sunny'
+
+date: 2024-08-29, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/chernin-brothers-unveil-new-r-rated-comedy-and-lessons-learned-from-its-always-sunny" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Chernin%20Brothers%20Unveil%20New%20R-Rated%20Comedy%20and%20Lessons%20Learned%20from%20Its%20Always%20Sunny_1.jpg" alt="Chernin Brothers Unveil New R-Rated Comedy and Lessons Learned from 'It's Always Sunny'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Dave and John Chernin are a writer-director team best known for creating the show <em>The Mick</em> starring Kaitlin Olson which ran for two seasons. The duo cut their comedy teeth while writing for the show <em>It’s Always Sunny in Philadelphia </em>that's going into its 17th season. Now, the Chernin brothers have a boundary-pushing R-rated high school comedy film called<em> Incoming</em> that’s set to <a href="https://www.netflix.com/title/81715819">stream on Netflix </a>on August 23. I chatted with the siblings to get their take on the state of the once hugely popular R-rated comedies and what they learned while working on <em>It’s Always Sunny</em>. Their takeaways may surprise you.&nbsp;</p> 
+
+<https://blog.finaldraft.com/chernin-brothers-unveil-new-r-rated-comedy-and-lessons-learned-from-its-always-sunny>
+
+---
+
+## Liz Bourke Reviews The Last Hour Between Worlds by Melissa Caruso
+
+date: 2024-08-29, from: Locus Magazine
+
+<p><strong>The Last Hour Between Worlds</strong>, Melissa Caruso (Orbit 978-0-31630-347-7, $19.99, 432pp, tp) November 2024.</p>
+<p>If I tell you that I love <strong>The Last Hour Between Worlds </strong>to pieces, that I read it when I was miserably sick and it took me entirely out of myself from the first page to the last, that’s probably not quite enough information to constitute a proper review. Melissa Caruso’s latest novel, her first  <a href="https://locusmag.com/2024/08/liz-bourke-reviews-the-last-hour-between-worlds-by-melissa-caruso/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/liz-bourke-reviews-the-last-hour-between-worlds-by-melissa-caruso/>
 
 ---
 
