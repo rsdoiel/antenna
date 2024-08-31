@@ -1,11 +1,61 @@
 ---
 title: ham radio 2024.35
-updated: 2024-08-30 09:38:10
+updated: 2024-08-31 12:22:48
 ---
 
 # ham radio 2024.35
 
-(date: 2024-08-30 09:38:10)
+(date: 2024-08-31 12:22:48)
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-08-30, from: Amateur Radio Relay League News
+
+<p><span>"ASWFC GEOMAGNETIC DISTURBANCE WARNING ISSUED AT 0200 UTC/29 AUGUST 2024 BY THE AUSTRALIAN SPACE WEATHER FORECASTING CENTRE. </span></p><p><span>The solar wind environment remains elevated due to ongoing CME effects.<span>  </span>G0-G1 geomagnetic conditions are expected on 29-Aug. </span></p><p><span>INCREASED GEOMAGNETIC ACTIVITY EXPECTED DUE TO CORONAL MASS EJECTION FOR 29 AUGUST 2024 GEOMAGNETIC ACTIVITY FORECAST 29 Aug: G0-G1." </span></p><p><span>This week se...</span></p> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-843>
+
+---
+
+## ARRL Closed Monday, September 2, for Labor Day
+
+date: 2024-08-30, from: Amateur Radio Relay League News
+
+<p>ARRL  The National Association for Amateur Radio® will be closed on Monday, September 2, 2024, in observance of the Labor Day federal holiday. There will be no W1AW bulletin or code practice transmissions. ARRL Headquarters will reopen on Tuesday, September 3, at 8 AM EDT (1200 UTC).<br /><br />Visit the ARRL Special Events Stations database to find on-the-air events and commemorations this weekend.<br /><br />ARRL wi...</p> 
+
+<http://www.arrl.org/news/view/arrl-closed-monday-september-2-for-labor-day>
+
+---
+
+## ARRL Club Grants Will Be Awarded in November
+
+date: 2024-08-30, from: Amateur Radio Relay League News
+
+<p>Applications for the 2024 ARRL Club Grants program are now being reviewed (the application period closed July 26, 2024).</p><p>ARRL Field Services Manager Mike Walters, W8ZY, said 110 grant applications have been received and the awards will be announced in late November. “Grants are available up to $25,000 and emphasis is given to projects that are transformative in nature,” said Walters.</p><p>Examples of ...</p> 
+
+<http://www.arrl.org/news/view/arrl-club-grants-will-be-awarded-in-november>
+
+---
+
+## Estate Planning for Hams (What happens to all your stuff?)
+
+date: 2024-08-30, from: Amateur Radio Relay League News
+
+<p>August is National Make-a-Will month. Some estimates show that nearly two-thirds of Americans don't have a plan. For some, it's procrastination. Others don't know where to start. “So many times we hear from the family of a Silent Key who are overwhelmed with what to do with a lifetime worth of amateur radio gear,” said ARRL Director of Development Kevin Beal, K8EAL. “Simply thinking through wha...</p> 
+
+<http://www.arrl.org/news/view/estate-planning-for-hams-what-happens-to-all-your-stuff>
+
+---
+
+## Resilience Through Amateur Radio for National Preparedness Month
+
+date: 2024-08-30, from: Amateur Radio Relay League News
+
+<p>Amateur radio is an excellent tool for community resilience in times of crisis. The utility value of the critical communications it provides is enhanced by having well trained local Amateur Radio Emergency Service® (ARES®) groups and other teams. However, to maximize the value to yourself, your family, and your community; an operator must be prepared. September is National Preparedness Month. A...</p> 
+
+<http://www.arrl.org/news/view/resilience-through-amateur-radio-for-national-preparedness-month>
 
 ---
 
@@ -160,4 +210,14 @@ date: 2024-08-25, from: The Collegian (Cal State Fresno's Student Newspaper)
 The new academic year for Fresno State is here, and along with it, new parking complications. Effective Aug. 1, P27 is exclusive to student housing residents while Fresno State is in the process of transitioning into a virtual parking permit system. The university is enforcing this new restriction on P27 in order to make room... 
 
 <https://fscollegian.com/2024/08/new-student-housing-building-construction-causes-p27-to-be-for-on-campus-residents-only/>
+
+---
+
+## Can Marvel still deliver?
+
+date: 2024-08-24, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+After a few disappointing years in the Marvel Cinematic Universe (MCU), Marvel is rejuvenating the hype with recent projects. This is giving fans a new wave of excitement that hasn&#8217;t been there since “Spiderman: No Way Home” and “Avengers: Endgame.” Since Phase Three, which was comprised of films from 2016&#8217;s &#8220;Captain America: Civil War&#8221; to... 
+
+<https://fscollegian.com/2024/08/the-fate-of-the-mcu/>
 

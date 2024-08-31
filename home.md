@@ -1,11 +1,105 @@
 ---
 title: home 2024.35
-updated: 2024-08-30 09:38:14
+updated: 2024-08-31 12:22:53
 ---
 
 # home 2024.35
 
-(date: 2024-08-30 09:38:14)
+(date: 2024-08-31 12:22:53)
+
+---
+
+## These Are the Labor Day Sales You Don’t Want to Miss
+
+date: 2024-08-30, from: Sunset Magazine - Living in the West
+
+Labor Day weekend is the perfect time to take advantage of deals. We're sharing the best deals and discounts to shop right now. 
+
+<https://www.sunset.com/lifestyle/shopping/labor-day-sales-2024>
+
+---
+
+## Friday Links: August 30, 2024
+
+date: 2024-08-30, from: California Native Plants Society
+
+<p>Is there a coast redwood grove in SoCal? Are seeds really time travelers? Who is the Plant Messiah? Get these answers and more!</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-august-30-2024-40015">Friday Links: August 30, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-august-30-2024-40015>
+
+---
+
+## The 6 Best Outdoor Gazebos, Tested by Our Experts
+
+date: 2024-08-30, from: Family Handyman Blog
+
+We tested and reviewed the best gazebos to complete your dream backyard setup. 
+
+<https://www.familyhandyman.com/list/best-gazebos/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-08-30, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
+
+---
+
+## Insider Guides: Places We Love
+
+date: 2024-08-30, from: Sunset Magazine - Living in the West
+
+Use our Insider Guides to browse the hidden gems we love, as featured in Sunset magazine, plus exclusive recommendations from our editors. 
+
+<https://www.sunset.com/travel/insider-guides>
+
+---
+
+## Beautyrest Black Mattress Review: My Only Complaint Is That I Didn’t Get It Sooner
+
+date: 2024-08-30, from: Family Handyman Blog
+
+If you're looking for a new mattress look no further. We tested the Beautyrest Black Mattress and have never slept better. 
+
+<https://www.familyhandyman.com/article/beautyrest-black-mattress-review/>
+
+---
+
+## These Are the 5 Best Mini Split Brands, According to HVAC Experts
+
+date: 2024-08-30, from: Family Handyman Blog
+
+The best mini split brands offer high energy efficiency, value for the money and added comfort features. Discover the best brands with the best products. 
+
+<https://www.familyhandyman.com/list/best-mini-split-brands/>
+
+---
+
+## CNPS Applauds Congressional Leaders’ Call to Designate Sáttítla National Monument
+
+date: 2024-08-30, from: California Native Plants Society
+
+<p>Senators Alex Padilla, Laphonza Butler, and Representative Adam Schiff urged President Biden to designate Sáttítla National Monument, showcasing California’s support for Tribally-led conservation of sacred lands and biodiversity.</p>
+<p>The post <a href="https://www.cnps.org/news-releases/cnps-applauds-congressional-leaders-call-to-designate-sattitla-national-monument-40017">CNPS Applauds Congressional Leaders’ Call to Designate Sáttítla National Monument</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/news-releases/cnps-applauds-congressional-leaders-call-to-designate-sattitla-national-monument-40017>
+
+---
+
+## How To Replace a Mailbox Post
+
+date: 2024-08-30, from: Family Handyman Blog
+
+<p>Learn how to replace a mailbox post with this simple step-by-step project. Perfect for DIY enthusiasts looking to upgrade their curb appeal.</p> 
+
+<https://www.familyhandyman.com/project/how-to-replace-a-mailbox-post/>
 
 ---
 
@@ -71,16 +165,6 @@ While living in a yurt on their rental property's backyard, Margaret Tucker and 
 
 ---
 
-## Sunset.com Home Page
-
-date: 2024-08-30, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
-
----
-
 ## In Austin, a Brand New "Japandi" Home Hits the Market for $799K
 
 date: 2024-08-30, from: Dwell
@@ -108,16 +192,6 @@ date: 2024-08-29, from: Sunset Magazine - Living in the West
 Listing photos are everything when you're selling you're house. A real estate agent shares how to take photos for your real estate listing. 
 
 <https://www.sunset.com/home-garden/how-to-take-photos-for-real-estate-listing>
-
----
-
-## These Are the Labor Day Sales You Don’t Want to Miss
-
-date: 2024-08-29, from: Sunset Magazine - Living in the West
-
-Labor Day weekend is the perfect time to take advantage of deals. We're sharing the best deals and discounts to shop right now. 
-
-<https://www.sunset.com/lifestyle/shopping/labor-day-sales-2024>
 
 ---
 
@@ -743,4 +817,70 @@ date: 2024-08-25, from: Yard Life blog
  
 
 <https://ownyardlife.com/monstera-adansonii-care-and-growing-guide-most-detailed/>
+
+---
+
+## 40 Companion Plants for Tomatoes List (With Pictures)
+
+date: 2024-08-24, from: Yard Life blog
+
+<p>When planning a successful tomato garden, selecting the right companion plants can make all the difference. Companion plants for tomatoes ... </p>
+<p class="read-more-container"><a title="40 Companion Plants for Tomatoes List (With Pictures)" class="read-more button" href="https://ownyardlife.com/40-companion-plants-for-tomatoes-list-with-pictures/#more-18598" aria-label="Read more about 40 Companion Plants for Tomatoes List (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/40-companion-plants-for-tomatoes-list-with-pictures/">40 Companion Plants for Tomatoes List (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/40-companion-plants-for-tomatoes-list-with-pictures/>
+
+---
+
+## This ‘Inn-Fluencer’ Visits Hotels for a Living. Here’s Her Latest Obsession.
+
+date: 2024-08-24, from: Sunset Magazine - Living in the West
+
+Kelsey Bumsted has visited hundreds of properties. Here, she shares her favorite things to do, eat, drink, and see in Tokeland, Washington. 
+
+<https://www.sunset.com/travel/insider-guides/tokeland-washington-things-to-do>
+
+---
+
+## Surfing for “Something Positive:” Black Girls Surf and the Rising Tide of Equal Representation
+
+date: 2024-08-24, from: Sunset Magazine - Living in the West
+
+Surfing for 'Something Positive': Black Girls Surf is an organization determined to ride a new wave toward equal treatment. 
+
+<https://www.sunset.com/travel/wild-lands/black-girls-surf-rides-wave-equal-treatment>
+
+---
+
+## Meet the Badass Women Who Are the True Face of Surfing in the West
+
+date: 2024-08-24, from: Sunset Magazine - Living in the West
+
+With 'Women Making Waves,' Lara Einzig has produced a beautiful survey of female surf culture. 
+
+<https://www.sunset.com/travel/outdoor-adventure/women-making-waves-female-surfers>
+
+---
+
+## 5 Pro Tips to Know Before You Visit a National Park
+
+date: 2024-08-24, from: Sunset Magazine - Living in the West
+
+While national parks have a lot to offer, navigating the crowds and trails can be tricky. Experts share tips for visiting national parks. 
+
+<https://www.sunset.com/travel/national-parks/tips-for-visiting-national-parks>
+
+---
+
+## 15 Florida Centipede Species (Pictures and Identification)
+
+date: 2024-08-24, from: Yard Life blog
+
+<p>There is an amazing diversity of types of centipedes that can be found in the state of Florida. From the ... </p>
+<p class="read-more-container"><a title="15 Florida Centipede Species (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/15-florida-centipede-species-pictures-and-identification/#more-18567" aria-label="Read more about 15 Florida Centipede Species (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/15-florida-centipede-species-pictures-and-identification/">15 Florida Centipede Species (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/15-florida-centipede-species-pictures-and-identification/>
 

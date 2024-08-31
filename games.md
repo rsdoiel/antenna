@@ -1,11 +1,51 @@
 ---
 title: games 2024.35
-updated: 2024-08-30 09:38:13
+updated: 2024-08-31 12:22:51
 ---
 
 # games 2024.35
 
-(date: 2024-08-30 09:38:13)
+(date: 2024-08-31 12:22:51)
+
+---
+
+## Marvel Rivals has won the popular vote, but can it stick the landing?
+
+date: 2024-08-30, updated: 2024-08-30, from: Polygon Website
+
+Dread it or run from it, but hero shooters arrive all the same. The framework popularized by Team Fortress 2 has come to dominate competitive multiplayer over the past decade, from Siege to Apex Legends, Valorant, Overwatch, and, most recently, Valve&#8217;s experimental MOBA shooter Deadlock, which has already cleared 100,000 concurrent players in closed beta. [&#8230;] 
+
+<https://www.polygon.com/gamescom/446805/marvel-rivals-has-won-the-popular-vote-but-can-it-stick-the-landing>
+
+---
+
+## Trap, A Quiet Place: Day One, Netflix’s The Deliverance, and every movie new to streaming this week
+
+date: 2024-08-30, updated: 2024-08-31, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, the Shyamalan family dominates the list with not one, but two new movies on streaming and VOD! Trap, the latest horror thriller from M. [&#8230;] 
+
+<https://www.polygon.com/entertainment/443904/new-movies-watch-trap-a-quiet-place-day-one-netflix>
+
+---
+
+## The 8 best games from Nintendo’s blockbuster Switch sale
+
+date: 2024-08-30, updated: 2024-08-30, from: Polygon Website
+
+Just in time for Labor Day, Nintendo has unveiled a massive sale on Switch titles. Through Sept. 9, save up to 75% on select third-party games through the online store. There are several dozen discounted titles to chose and are perfect for both epic singleplayer adventures like Red Dead Redmption for $34.99 (was $49.99) and [&#8230;] 
+
+<https://www.polygon.com/sales-guide/445917/nintendo-switch-blockbuster-sale-labor-day>
+
+---
+
+## Is this the most relatable image in gaming history?
+
+date: 2024-08-30, updated: 2024-08-31, from: Polygon Website
+
+Zelda is an inspiration to us all in Echoes of Wisdom. Have a great weekend, you earned it. 
+
+<https://www.polygon.com/opinion/446708/zelda-echoes-of-wisdom-sleep-in-bed-boss-fight>
 
 ---
 
@@ -566,4 +606,34 @@ date: 2024-08-25, updated: 2024-08-23, from: Polygon Website
 The galaxy may be far, far away, but Star Wars Outlaws is not. Outlaws, the latest open-world game from Ubisoft, rolls out across a staggered schedule this week: an early access release date followed by a regular release date. Also it comes out on different times for different platforms. Dank farrik! To play Star Wars [&#8230;] 
 
 <https://www.polygon.com/star-wars-outlaws-guides/442754/release-times-early-access-date-schedule-access>
+
+---
+
+## Crimson Desert’s wild combat left me skeptical at Gamescom
+
+date: 2024-08-24, updated: 2024-08-24, from: Polygon Website
+
+With one of the game industry’s most popular MMOs, Black Desert Online, under its belt, developer Pearl Abyss is shifting to a single-player open-world action game with Crimson Desert. As someone who dabbled with Black Desert but lacked the dedication to stick with it, I’ve been looking forward to Crimson Desert’s solo-minded approach and I [&#8230;] 
+
+<https://www.polygon.com/gamescom/443884/crimson-desert-hands-on-gamescom>
+
+---
+
+## Star Wars Outlaws might fulfill the promise of multiple Star Wars failures
+
+date: 2024-08-24, updated: 2024-08-23, from: Polygon Website
+
+Star Wars Outlaws feels like the payoff to more than a decade’s worth of promises for Star Wars video games: the opportunity to rub elbows with scum and villainy, to flex your scoundrel side, and to live as part of the galaxy’s underworld. Many Star Wars games cast players as the clear heroes of George [&#8230;] 
+
+<https://www.polygon.com/star-wars/443422/star-wars-outlaws-underworld-video-games>
+
+---
+
+## The best movies leaving Netflix, Max, and Prime at the end of August 2024
+
+date: 2024-08-24, updated: 2024-08-23, from: Polygon Website
+
+We’re almost to the end of the month, and that means a lot of coming and going on every major streaming platform. And while plenty of exciting movies are on the way in September, we’re here to make sure you don’t miss the gems leaving at the end of August.&#160; To help you close out [&#8230;] 
+
+<https://www.polygon.com/recommendations/443730/best-movies-netflix-amazon-hulu-leaving-august-2024>
 

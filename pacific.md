@@ -1,11 +1,67 @@
 ---
 title: pacific 2024.35
-updated: 2024-08-30 09:38:09
+updated: 2024-08-31 12:22:47
 ---
 
 # pacific 2024.35
 
-(date: 2024-08-30 09:38:09)
+(date: 2024-08-31 12:22:47)
+
+---
+
+## STATE HOUSE 42 AND HAWAIʻI COUNTY MAYOR
+
+date: 2024-08-30, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Insights on PBS Hawaiʻi features election contests from two islands...</p>
+<p>The post <a href="https://www.pbshawaii.org/state-house-42-and-hawai%ca%bbi-county-mayor/">STATE HOUSE 42 AND HAWAIʻI COUNTY MAYOR</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/state-house-42-and-hawai%ca%bbi-county-mayor/>
+
+---
+
+## Hawaiian theatre returns: Premiere of Puana explores music, ancestral ties
+
+date: 2024-08-30, from: University of Hawaiʻi News
+
+<p><em>Puana</em> tells the story of contemporary musicians who uncover their genealogical connections through <span aria-label="mookuauhau">mo&#699;ok&#363;&#699;auhau</span> and poetic compositions.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/30/hawaiian-theatre-premiere-of-puana/">Hawaiian theatre returns: Premiere of Puana explores music, ancestral ties</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/30/hawaiian-theatre-premiere-of-puana/>
+
+---
+
+## Google offers UH students path to tech careers
+
+date: 2024-08-30, from: University of Hawaiʻi News
+
+<p>These efforts include on-campus information sessions, r&#233;sum&#233;-writing workshops and networking events designed to showcase Google’s company culture and job prospects.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/30/google-path-tech-careers/">Google offers <abbr>UH</abbr> students path to tech careers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/30/google-path-tech-careers/>
+
+---
+
+## UH’s Symphony Orchestra director named to Pacific Business News’ 40 under 40
+
+date: 2024-08-30, from: University of Hawaiʻi News
+
+<p>The annual award recognizes emerging leaders from throughout the state for achievements in their careers and contributions to the community.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/30/stepec-pbn-40-under-40/"><abbr>UH</abbr>’s Symphony Orchestra director named to <em>Pacific Business News’</em> 40 under 40</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/30/stepec-pbn-40-under-40/>
+
+---
+
+## Free mental health services available for UH Mānoa students
+
+date: 2024-08-30, from: University of Hawaiʻi News
+
+<p>The Counseling and Student Development Center offers an array of programs dedicated to serving <abbr>UH</abbr> Mānoa students.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/30/uh-manoa-students-free-mental-health-services/">Free mental health services available for <abbr>UH</abbr> Mānoa students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/30/uh-manoa-students-free-mental-health-services/>
 
 ---
 
@@ -280,6 +336,54 @@ date: 2024-08-30, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/08/30/opinion/the-trump-rfk-jr-alliance-is-weird-but-heres-how-it-might-work/>
+
+---
+
+## Bank robbery suspect charged
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>A 44-year old Kailua-Kona man has been charged for a Thursday afternoon bank robbery in Kailua-Kona.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/hawaii-news/police-nab-bank-robbery-suspect/>
+
+---
+
+## Motorcyclist critically injured in Pahoa crash
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating a two-vehicle traffic collision Thursday afternoon in Pahoa that sent a motorcyclist to the hospital with critical injuries.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/hawaii-news/motorcyclist-critically-injured-in-pahoa-crash/>
+
+---
+
+## Ex-Waiakea High hoops coach charged with theft
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>A former Waiakea High School basketball coach and onetime University of Hawaii at Manoa hoops standout is facing two criminal charges for allegedly pocketing funds intended to finance hotel arrangements for a basketball team trip.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/hawaii-news/ex-waiakea-high-hoops-coach-charged-with-theft/>
+
+---
+
+## Kusch chosen to succeed Rep. Nakashima
+
+date: 2024-08-30, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8212; Gov. Josh Green today announced the appointment of Matthias Kusch to fill the House District seat left vacant by the death of Rep. Mark Nakashima, who was unopposed in the recent primary election.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/30/hawaii-news/kusch-chosen-to-succeed-rep-nakashima/>
 
 ---
 
@@ -3567,4 +3671,430 @@ date: 2024-08-25, from: Pacific Island Times
 By Pacific Island Times News Staff Guam senators led by Sen. Telo Taitague have introduced a resolution requesting the U.S. Department of... 
 
 <https://www.pacificislandtimes.com/post/veterans-affairs-asked-to-open-a-regional-office-on-guam-to-serve-veterans-in-us-territories-and-fas>
+
+---
+
+## 7 p.m. update: High winds, flooding rains being reported
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p><strong>7 p.m. update:</strong> The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph. Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricane intensity Sunday into Monday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/hawaii-news/tropical-storm-warning-remains-in-effect-some-hele-on-bus-routes-canceled/>
+
+---
+
+## In Arizona, Trump and Kennedy signal new alliance
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>GLENDALE, Ariz. &#8212; One of the most attention-grabbing days of Robert F. Kennedy Jr.&#8217;s independent presidential bid was also its last.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/nation-world-news/in-arizona-trump-and-kennedy-signal-new-alliance/>
+
+---
+
+## She survived the Maui wildfires. She couldn’t survive the year after
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>LAHAINA, Maui &#8212; As a whirlwind of flames nearly encircled the Lahaina Gateway shopping center on Aug. 8, 2023, Edralina Diezon hid in a storage room, surrounded by mops, buckets and brooms. Terrified, Diezon, who worked 80 hours a week as a janitor, did not leave for two days and two nights. When she finally emerged, starving and disoriented, the neighborhood where she lived was gone. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/hawaii-news/she-survived-the-maui-wildfires-she-couldnt-survive-the-year-after/>
+
+---
+
+## Veterans say attacks on candidates’ service records are a turnoff
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>Republicans backing the Trump campaign have kept up their attacks on the military career of Gov. Tim Walz of Minnesota during the Democratic convention, accusing him, among other things, of having abandoned his fellow soldiers by retiring from the National Guard to run for Congress in 2006, months before his unit deployed to Iraq.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/nation-world-news/veterans-say-attacks-on-candidates-service-records-are-a-turnoff/>
+
+---
+
+## Free booze, a lake cruise and selfies galore: How Democrats courted influencers at theDNC
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO &#8212; Last month, Kristin Brey, a podcaster, radio host and newspaper columnist, attended the Republican National Convention in Milwaukee as a credentialed journalist. She set up shop in a dank hockey arena, jostled in scrums with reporters for interviews and often could not get access to the floor of the convention hall because there was not enough space.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/nation-world-news/free-booze-a-lake-cruise-and-selfies-galore-how-democrats-courted-influencers-at-thednc/>
+
+---
+
+## Tropical Gardening: Manures and other nutrient sources to enrich our young volcanic soils
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>Our young volcanic soils are often in need of organic matter and nutrients. Where animal manures are available they are probably the best source of fertilizer. Compost and mulch can also help to add and hold nutrients.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/community/tropical-gardening-manures-and-other-nutrient-sources-to-enrich-our-young-volcanic-soils/>
+
+---
+
+## The war in Gaza is making thousands of orphans
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>KHAN YOUNIS, Gaza Strip &#8212; The boys are aching to see their parents again. They are convinced it will happen as soon as they can go back to Gaza City, where they were growing up before the war bulldozed that life.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/nation-world-news/the-war-in-gaza-is-making-thousands-of-orphans/>
+
+---
+
+## 5 Secret Service agents involved in Trump rally are reassigned
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Secret Service has assigned five agents to administrative duties as a result of its investigation into the failures that led to the assassination attempt on former President Donald Trump on July 13, according to two people familiar with the situation.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/nation-world-news/5-secret-service-agents-involved-in-trump-rally-are-reassigned/>
+
+---
+
+## 3 killed, 5 injured in attack at Solingen festival celebrations in Germany
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>DUSSELDORF, Germany (dpa) &#8212; Three people have been killed and at least five seriously injured in a knife attack at the 650th anniversary celebrations of the city of Solingen in western Germany, according to the police.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/nation-world-news/3-killed-5-injured-in-attack-at-solingen-festival-celebrations-in-germany/>
+
+---
+
+## 16 Republican-led states challenge program to aid spouses in the US illegally
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>Texas and 15 other Republican-led states sued the Biden administration Friday seeking to halt a new program that could give legal status to hundreds of thousands of immigrants who are married to U.S. citizens but who also are in the country illegally.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/nation-world-news/16-republican-led-states-challenge-program-to-aid-spouses-in-the-us-illegally/>
+
+---
+
+## Fed Chair Powell signals ‘time has come’ for September rate cut
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>JACKSON, Wyo. &#8212; Speaking in his most closely watched speech of the year, Jerome Powell, the chair of the Federal Reserve, clearly signaled Friday that the central bank was poised to cut interest rates in September.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/nation-world-news/fed-chair-powell-signals-time-has-come-for-september-rate-cut/>
+
+---
+
+## Harris faces challenge of translating convention joy to fall momentum
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO &#8212; Joy cometh in the morning, but so do hangovers. The party in Chicago is done, the confetti has been swept up, the pictures have been posted to social media. But the real question as exuberant Democrats woke up Friday was whether they could channel the sheer intoxication of the United Center into a sustained, 74-day sprint to Election Day.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/nation-world-news/harris-faces-challenge-of-translating-convention-joy-to-fall-momentum/>
+
+---
+
+## Israel presses for Gaza border presence as part of cease-fire deal
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Mediators plan to move ahead with a summit next week pursuing a cease-fire agreement in the Gaza Strip, Israeli officials said Friday, after Israeli security chiefs sought to obtain Egyptian consent for a postwar Israeli presence along Gaza&#8217;s border with Egypt.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/nation-world-news/israel-presses-for-gaza-border-presence-as-part-of-cease-fire-deal/>
+
+---
+
+## At the ballpark, a reporter roots for Lahaina
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>Recently, my colleagues and I at The New York Times were finishing up a package of articles tied to the anniversary of the devastating wildfire that wiped away the Hawaiian town of Lahaina, on Maui. We had pieces on how the town&#8217;s rich history was shaping discussions about rebuilding; the thousands of people who have left the island, forming a vast diaspora of Lahaina refugees; and the lessons learned by authorities as they tried to prevent another deadly fire.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/sports/at-the-ballpark-a-reporter-roots-for-lahaina/>
+
+---
+
+## Deion Sanders will no longer answer Denver Post columnist’s questions, Colorado says, citing ‘sustained, personal attacks’
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>DENVER &#8212; The Colorado athletics department informed The Denver Post that head coach Deion Sanders and anyone else within the Buffs football program will no longer take questions from columnist Sean Keeler.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/sports/deion-sanders-will-no-longer-answer-denver-post-columnists-questions-colorado-says-citing-sustained-personal-attacks/>
+
+---
+
+## UConn-to-Big 12 rumor mill reignited with men’s basketball seen as the jewel
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>HARTFORD, Conn. &#8212; Brett Yormark, the Big 12 commissioner, is fond of saying &#8220;we&#8217;re open for business.&#8221; That was his slogan in 2023 when he ushered four teams into the conference, pulling the Jenga blocks that suddenly toppled the Pac 12.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/sports/uconn-to-big-12-rumor-mill-reignited-with-mens-basketball-seen-as-the-jewel/>
+
+---
+
+## UHH athletics: Vulcans voted sixth in PacWest Volleyball Preseason Poll
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>Point Loma won its first-ever Pacific West Conference Volleyball Championship in 2023, and Chaminade was the conference title winner in 2021 and 2022.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/sports/uhh-athletics-vulcans-voted-sixth-in-pacwest-volleyball-preseason-poll/>
+
+---
+
+## Denny Hamlin, rivals react to heavy NASCAR engine penalty
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>DAYTONA BEACH, Fla. &#8212; Denny Hamlin knew it wasn&#8217;t good when he walked into a conference room and saw only his crew chief, Chris Gabehart; team owner Joe Gibbs; and top executives from Toyota Racing Development.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/sports/denny-hamlin-rivals-react-to-heavy-nascar-engine-penalty/>
+
+---
+
+## Paralympics will drop ban on Olympic rings tattoos
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>For years, Paralympians with tattoos of the Olympic rings were playing a dangerous game: They had to cover the tattoos completely in competition, or face penalties from the International Paralympic Committee, which included disqualification.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/sports/paralympics-will-drop-ban-on-olympic-rings-tattoos/>
+
+---
+
+## Local sports briefs for August 24
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>Free community event at Kahalu&#8216;u Beach today</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/sports/local-sports-briefs-for-august-24/>
+
+---
+
+## Coach Walz showed why he’s Harris’ VP — and Josh Shapiro isn’t
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>Minnesota Governor Tim Walz introduced himself to Americans on Wednesday night as a regular guy who knows their pain and frustration because he&#8217;s lived it. A former high school teacher and football coach, he knows what it&#8217;s like to raise a family on a tight budget.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/opinion/coach-walz-showed-why-hes-harris-vp-and-josh-shapiro-isnt/>
+
+---
+
+## Harris should fight Trump with a better Bidenomics
+
+date: 2024-08-24, from: Hawaii Tribune Harold
+
+
+				<p>Vice President Kamala Harris began to set out her economic agenda last week and will doubtless say more about it when she speaks at the Democratic National Convention on Thursday. Unsurprisingly, her program is shaping up to be Bidenomics 2.0 &#8212; which is mostly a good thing. An emphasis on the energy transition and wider economic opportunity is quite right. The question is whether her administration will aim to strengthen the first version or double down on its weaknesses. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/24/opinion/harris-should-fight-trump-with-a-better-bidenomics/>
+
+---
+
+## Guam paddlers bring håfa adai spirit to Hilo
+
+date: 2024-08-24, from: Guam Daily Post
+
+In a reported first for Guam, a team of junior paddlers from Puti’on Tasi Paddling Club made waves on the international stage. This group of young athletes, driven by passion and the spirit of their island heritage, were the first… 
+
+<https://www.postguam.com/sports/local/guam-paddlers-bring-h-fa-adai-spirit-to-hilo/article_5f348580-6196-11ef-a547-23c7ca6595d7.html>
+
+---
+
+## UOG nursing student awarded Johnson & Johnson scholarship
+
+date: 2024-08-24, from: Guam Daily Post
+
+A University of Guam nursing student has received the financial support needed to complete her degree, taking home the honor of being selected as an awardee of the Johnson & Johnson Our Race to Health Equity Diversity Nursing Scholarship. 
+
+<https://www.postguam.com/news/local/uog-nursing-student-awarded-johnson-johnson-scholarship/article_196ff574-61b0-11ef-9e9f-03780ddbda4a.html>
+
+---
+
+## Guam Taekwondo Center brings 22 years of excellence to the Micronesia Mall
+
+date: 2024-08-24, from: Guam Daily Post
+
+Alyxa Oftana dazzled martial arts fans as she brought home double gold in both senior divisions in the 2024 Master Noly’s 12th Taekwondo Poomsae and 8th Martial Arts Weapons tournaments Aug. 18 at the Micronesia Mall. 
+
+<https://www.postguam.com/sports/local/guam-taekwondo-center-brings-22-years-of-excellence-to-the-micronesia-mall/article_8b9241a8-61a0-11ef-baf1-ab75a50a10a1.html>
+
+---
+
+## Atos Jiu-Jitsu Guam to send athletes to IBJJF World Master Jiu-Jitsu Championships
+
+date: 2024-08-24, from: Guam Daily Post
+
+Atos Jiu-Jitsu Guam announced that their team, led by Mike Carbullido, will compete in the International Brazilian Jiu-Jitsu Federation World Master Jiu-Jitsu Championships and Jiu-Jitsu Con, Aug. 29-31, in Las Vegas, Nevada. 
+
+<https://www.postguam.com/sports/local/atos-jiu-jitsu-guam-to-send-athletes-to-ibjjf-world-master-jiu-jitsu-championships/article_e91fb0e6-6199-11ef-b8c2-3ff1cc70f7fa.html>
+
+---
+
+## GovGuam self-insurance coverage continues into FY2025
+
+date: 2024-08-24, from: Guam Daily Post
+
+Government of Guam employees under the self-insured health insurance plan will continue to be covered through the third-party administrators for medical and dental services in fiscal year 2025. 
+
+<https://www.postguam.com/news/local/govguam-self-insurance-coverage-continues-into-fy2025/article_6168e3ae-6101-11ef-96c7-97f2960ae5ed.html>
+
+---
+
+## Limo offered $200K to settle CSC case
+
+date: 2024-08-24, from: Guam Daily Post
+
+The Department of Corrections has offered to settle the Civil Service Commission case against their former head of Internal Affairs who pleaded guilty to official misconduct, which stemmed from his involvement in a drug ring that smuggled illegal contraband into… 
+
+<https://www.postguam.com/news/local/limo-offered-200k-to-settle-csc-case/article_f8a99b30-61ad-11ef-8ac2-4fc9862577c9.html>
+
+---
+
+## GBB claim for excess leachate rises to $4.4 million
+
+date: 2024-08-24, from: Guam Daily Post
+
+Federal receiver Gershman, Brickner & Bratton Inc. has raised its claim against the Guam Waterworks Authority, from $2.6 million last year to now $4.4 million, for alleged impacts that water leaks have had on leachate volumes at the former Ordot… 
+
+<https://www.postguam.com/news/local/gbb-claim-for-excess-leachate-rises-to-4-4-million/article_490ba312-6103-11ef-b39e-c365caf99ec2.html>
+
+---
+
+## Retirement gathering for career statistician
+
+date: 2024-08-24, from: Guam Daily Post
+
+ 
+
+<https://www.postguam.com/news/local/retirement-gathering-for-career-statistician/article_57d1a646-61ce-11ef-a832-2717b235e2e8.html>
+
+---
+
+## Duenas pounces on Ponce to take bowling title
+
+date: 2024-08-24, from: Guam Daily Post
+
+Sixteenth seed Mike Duenas took full advantage of the lane condition and proper ball choice to battle his way from being the last qualifier to upsetting Zaldy Ponce for the August Pinpoint Senior Monthly Challenge Tournament. Currently, having won two… 
+
+<https://www.postguam.com/sports/local/duenas-pounces-on-ponce-to-take-bowling-title/article_09a07834-619d-11ef-8a7d-5bc2616edfe3.html>
+
+---
+
+## As schools scramble to pass sanitary inspections, first-quarter sports delayed
+
+date: 2024-08-24, from: Guam Daily Post
+
+With several of the island’s public schools awaiting sanitary permits, the Guam Department of Education Interscholastic Sports Association was forced to delay the start of first-quarter sports. 
+
+<https://www.postguam.com/sports/local/as-schools-scramble-to-pass-sanitary-inspections-first-quarter-sports-delayed/article_3ba219ce-61a6-11ef-823c-739f3e33e8c7.html>
+
+---
+
+## Doctors of the grill pass on their skills at UOG BBQ Bootcamp
+
+date: 2024-08-24, from: Guam Daily Post
+
+Fire up the grill and get your smokers on! 
+
+<https://www.postguam.com/entertainment/lifestyle/doctors-of-the-grill-pass-on-their-skills-at-uog-bbq-bootcamp/article_5f60837a-61ae-11ef-b801-5ba1abc4e71a.html>
+
+---
+
+## 2 more schools pass inspection, GDOE updates grab-and-go sites
+
+date: 2024-08-24, from: Guam Daily Post
+
+Before wrapping up last school week, two Guam Department of Education schools received passing marks on their Public Health inspections and will open for in-person instruction on Monday. 
+
+<https://www.postguam.com/news/local/2-more-schools-pass-inspection-gdoe-updates-grab-and-go-sites/article_c1734550-61ce-11ef-a6c6-abbe4d149242.html>
+
+---
+
+## GDOE plans to begin refurbishment, rightsizing schools
+
+date: 2024-08-24, from: Guam Daily Post
+
+The Department of Public Health and Social Services is three weeks ahead of schedule in conducting sanitary inspections at Guam Department of Education schools, which are trying to keep the pace as they simultaneously plan to refurbish eight schools and… 
+
+<https://www.postguam.com/news/local/gdoe-plans-to-begin-refurbishment-rightsizing-schools/article_574eb4aa-610d-11ef-a83c-d7b4bc9e91a4.html>
+
+---
+
+## RFK Jr. ends presidential campaign, endorses Trump
+
+date: 2024-08-24, updated: 2024-08-24, from: Marianas Variety
+
+(Reuters) — Independent presidential candidate Robert F. Kennedy Jr. abandoned his campaign on Friday and endorsed Republican Donald Trump, ending a run that he began as a Democrat trading on one of the most famous names in American politics. 
+
+<https://www.mvariety.com/news/national/rfk-jr-ends-presidential-campaign-endorses-trump/article_1620d8b2-61f5-11ef-ae9b-174b6c45026b.html>
+
+---
+
+## Wahine VB Lang, Alexander earn preseason honors, team 2nd in coaches’ poll
+
+date: 2024-08-24, from: University of Hawaiʻi News
+
+<p>Kate Lang and Caylen Alexander drew preseason recognitions for the second straight season.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/23/wahine-vb-preseason-honors/">Wahine <abbr>VB</abbr> Lang, Alexander earn preseason honors, team 2nd in coaches’ poll</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/23/wahine-vb-preseason-honors/>
+
+---
+
+## Preserving Kalaupapa with the help of Windward CC arborists
+
+date: 2024-08-24, from: University of Hawaiʻi News
+
+<p>Windward <abbr>CC</abbr> arborists teach landscaping and plant care to Kalaupapa workers.</p>
+The post <a href="https://www.hawaii.edu/news/2024/08/23/preserving-kalaupapa-windward-cc-arborists/">Preserving Kalaupapa with the help of Windward <abbr>CC</abbr> arborists</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/08/23/preserving-kalaupapa-windward-cc-arborists/>
 

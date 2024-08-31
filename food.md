@@ -1,11 +1,71 @@
 ---
 title: food 2024.35
-updated: 2024-08-30 09:38:18
+updated: 2024-08-31 12:22:56
 ---
 
 # food 2024.35
 
-(date: 2024-08-30 09:38:18)
+(date: 2024-08-31 12:22:56)
+
+---
+
+## Funfetti Just Dropped Brand-New Elf on the Shelf Baking Mixes and Frosting
+
+date: 2024-08-30, from: Taste of Home
+
+Your Scout Elf is about to take over the kitchen! 
+
+<https://www.tasteofhome.com/article/funfetti-elf-on-the-shelf-cake-mix/>
+
+---
+
+## Copycat Chipotle Pico de Gallo
+
+date: 2024-08-30, from: Taste of Home
+
+Made with juicy Roma tomatoes, jalapeno, fresh cilantro and lime, this copycat Chipotle pico de gallo tastes just like the restaurant version. 
+
+<https://www.tasteofhome.com/recipes/copycat-chipotle-pico-de-gallo/>
+
+---
+
+## Strawberry Crumble
+
+date: 2024-08-30, from: Taste of Home
+
+This strawberry crumble recipe combines fresh strawberries with a crunchy, buttery topping. It's an easy and delicious way to enjoy seasonal fruit. 
+
+<https://www.tasteofhome.com/recipes/strawberry-crumble/>
+
+---
+
+## Giada and José Andrés Get Political While Cooking for Kamala
+
+date: 2024-08-30, from: Bon Appetet
+
+A number of celebrity chefs turned out to raise money and tout the vice president’s culinary skills and policies—and debate whether bacon is a spice. 
+
+<https://www.bonappetit.com/story/cooking-for-kamala-event-giada-jose-andres>
+
+---
+
+## Traeger vs. Recteq: Who Makes the Better Pellet Grill?
+
+date: 2024-08-30, from: Taste of Home
+
+Curious about the differences between Traeger vs Recteq? We put the pellet grill brands to the test to find out. 
+
+<https://www.tasteofhome.com/article/traeger-vs-recteq/>
+
+---
+
+## Chickpea Tuna Salad
+
+date: 2024-08-30, from: Taste of Home
+
+Although this chickpea tuna salad is entirely vegan, it tastes just like the real deal, thanks to a dairy-free mayo-mustard dressing studded with pickle relish and fresh herbs. 
+
+<https://www.tasteofhome.com/recipes/chickpea-tuna-salad/>
 
 ---
 
@@ -16,6 +76,66 @@ date: 2024-08-30, from: Bon Appetet
 On this episode of Dinner SOS, Chris and Jess Damuck explore ways to make fresh, delicious salads all week long. 
 
 <https://www.bonappetit.com/story/i-need-fun-salad-recipes>
+
+---
+
+## Stracciatella Gelato
+
+date: 2024-08-30, from: Taste of Home
+
+Cool down the Italian way with stracciatella gelato! The classic Italian gelato flavor features delicate chocolate ribbons in a smooth, creamy base. It's a delicate twist on chocolate chip. 
+
+<https://www.tasteofhome.com/recipes/stracciatella-gelato/>
+
+---
+
+## Slow-Cooker Cubed Steak
+
+date: 2024-08-30, from: Taste of Home
+
+This slow-cooker cubed steak recipe requires scarcely 10 minutes of hands-on work and yields tasty, tender meat every time. 
+
+<https://www.tasteofhome.com/recipes/slow-cooker-cubed-steak/>
+
+---
+
+## Gluten-Free Pasta Salad
+
+date: 2024-08-30, from: Taste of Home
+
+How do you make a gluten-free pasta salad that doesn't go tough and crumbly the next day? By following our Caprese-inspired gluten-free pasta salad recipe. This one includes olives and asparagus in addition to the classic tomato, basil and fresh mozzarella, but you can customize it with anything else you like. 
+
+<https://www.tasteofhome.com/recipes/gluten-free-pasta-salad-recipe/>
+
+---
+
+## Strawberry Rhubarb Crumble
+
+date: 2024-08-30, from: Taste of Home
+
+Sweet, tart and easy, this strawberry rhubarb crumble recipe captures the essence of springtime in a dessert you can have in the oven in only 15 minutes. 
+
+<https://www.tasteofhome.com/recipes/strawberry-rhubarb-crumble/>
+
+---
+
+## Dr Pepper Ribs
+
+date: 2024-08-30, from: Taste of Home
+
+These beautifully sweet and saucy ribs are marinated in Dr Pepper overnight, tenderizing the pork and adding a subtle soda flavor that pairs well with the spices in the homemade rub. They're baked low and slow, then finished with a Dr Pepper and barbecue sauce glaze. 
+
+<https://www.tasteofhome.com/recipes/dr-pepper-ribs/>
+
+---
+
+## Taste of Home Video Library
+
+date: 2024-08-30, from: Taste of Home
+
+A home for all of our Taste of Home video content, from cooking techniques to recipe videos all led by our team of culinary experts and editors. 
+
+<https://www.tasteofhome.com/article/taste-of-home-video-library/>
 
 ---
 
@@ -748,4 +868,84 @@ date: 2024-08-25, from: Taste of Home
 There are many factors worth considering in the Hydro Flask vs. Stanley debate. Our Testing Team tried both brands, and one came out on top.  
 
 <https://www.tasteofhome.com/article/hydro-flask-vs-stanley/>
+
+---
+
+## We Tried the Underrated Stanley Aerolight Coffee Tumbler—And It’s Our New Favorite Stanley Cup
+
+date: 2024-08-24, from: Taste of Home
+
+The Stanley Aerolight is insulated, leakproof and slim enough to pack in a bag. Read about why it's our Testing Team's top pick for travel. 
+
+<https://www.tasteofhome.com/article/stanley-aerolight-coffee-tumbler-review/>
+
+---
+
+## Chipotle Maple Syrup
+
+date: 2024-08-24, from: Pepper Scale
+
+While our other spicy maple syrup recipe (see it here) focuses on pure heat with the neutral-tasting cayenne pepper, this one is about adding something more&#160;to the sweetness. Here it&#8217;s all about the smokiness behind chipotle peppers. That earthy smoky undertone pairs so perfectly with ... <p class="read-more-container"><a title="Chipotle Maple Syrup" class="read-more button" href="https://pepperscale.com/chipotle-maple-syrup/#more-17971" aria-label="Read more about Chipotle Maple Syrup">Read more</a></p> 
+
+<https://pepperscale.com/chipotle-maple-syrup/>
+
+---
+
+## Chili Chickpea Cabbage Soup
+
+date: 2024-08-24, from: Pepper Scale
+
+Chili chickpea cabbage soup is very healthy and extremely simple. It’s the kind of meal that’ll warm you right up from head to toe.&#160;This soup is often eaten in Mediterranean countries as a way to use up any extra garden vegetables, but of course we ... <p class="read-more-container"><a title="Chili Chickpea Cabbage Soup" class="read-more button" href="https://pepperscale.com/chili-chickpea-cabbage-soup/#more-77608" aria-label="Read more about Chili Chickpea Cabbage Soup">Read more</a></p> 
+
+<https://pepperscale.com/chili-chickpea-cabbage-soup/>
+
+---
+
+## Fiery Fra Diavolo Sauce
+
+date: 2024-08-24, from: Pepper Scale
+
+Fra diavolo sauce, with its tomato tang, spicy bite, and fresh basil twist is killer with pasta. It&#8217;s a perfect base for many popular fra diavolo pasta meals (like chicken, seafood, or shrimp fra diavolo). But don&#8217;t pigeonhole this spicy sauce to only pasta. It&#8217;s ... <p class="read-more-container"><a title="Fiery Fra Diavolo Sauce" class="read-more button" href="https://pepperscale.com/fiery-fra-diavolo-sauce/#more-17719" aria-label="Read more about Fiery Fra Diavolo Sauce">Read more</a></p> 
+
+<https://pepperscale.com/fiery-fra-diavolo-sauce/>
+
+---
+
+## How Much Space Do Pepper Plants Need?
+
+date: 2024-08-24, from: Pepper Scale
+
+Peppers are one of the best vegetables you can grow yourself — they are relatively easy to grow, full of nutrition, and versatile in dishes. Still, there is plenty to understand about getting the best harvest possible. One of the critical factors for growing peppers ... <p class="read-more-container"><a title="How Much Space Do Pepper Plants Need?" class="read-more button" href="https://pepperscale.com/how-much-space-do-pepper-plants-need/#more-85800" aria-label="Read more about How Much Space Do Pepper Plants Need?">Read more</a></p> 
+
+<https://pepperscale.com/how-much-space-do-pepper-plants-need/>
+
+---
+
+## Habanero Lemonade
+
+date: 2024-08-24, from: Pepper Scale
+
+Habanero lemonade plays with fire in all the right ways. This is one seriously bold drink that&#8217;s full of contrasts: tangy and sweet, fiery and thirst quenching. And (for the adults over 21 in the room), it&#8217;s a delicious pairing with vodka or bourbon for ... <p class="read-more-container"><a title="Habanero Lemonade" class="read-more button" href="https://pepperscale.com/habanero-lemonade/#more-32987" aria-label="Read more about Habanero Lemonade">Read more</a></p> 
+
+<https://pepperscale.com/habanero-lemonade/>
+
+---
+
+## What’s The Best Fresno Pepper Substitute?
+
+date: 2024-08-24, from: Pepper Scale
+
+The Fresno pepper is a darling chili among foodies for its very eatable medium heat and, when red, subtle smokiness. More recipes than ever are calling for this chili. But say your local store doesn&#8217;t carry them fresh. What options do you have? What&#8217;s the ... <p class="read-more-container"><a title="What&#8217;s The Best Fresno Pepper Substitute?" class="read-more button" href="https://pepperscale.com/fresno-pepper-substitute/#more-5939" aria-label="Read more about What&#8217;s The Best Fresno Pepper Substitute?">Read more</a></p> 
+
+<https://pepperscale.com/fresno-pepper-substitute/>
+
+---
+
+## Mango With Chili Powder
+
+date: 2024-08-24, from: Pepper Scale
+
+Healthy and delicious! Tropical fruits and chili peppers are a perfect natural pairing. For instance, mango and chili powder makes a super-tasty (and super-healthy) snack or dessert. Best of all, the mango is one of the more versatile fruits in terms of edibility throughout their ripening ... <p class="read-more-container"><a title="Mango With Chili Powder" class="read-more button" href="https://pepperscale.com/mango-with-chili-powder/#more-6892" aria-label="Read more about Mango With Chili Powder">Read more</a></p> 
+
+<https://pepperscale.com/mango-with-chili-powder/>
 

@@ -1,11 +1,151 @@
 ---
 title: going electric 2024.35
-updated: 2024-08-30 09:38:17
+updated: 2024-08-31 12:22:56
 ---
 
 # going electric 2024.35
 
-(date: 2024-08-30 09:38:17)
+(date: 2024-08-31 12:22:56)
+
+---
+
+## HazMat1: Cambridge becomes first NE FD to put electric fire truck into service
+
+date: 2024-08-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/navistar_eMV_MAIN.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Built by noted upfitters Rosenbauer on an all-electric International eMV medium-duty chassis, HazMat1 incorporates a mobile command post with an onboard electronic research library that’s fully equipped to support the Cambridge Fire Hazardous Materials Task Force at hazardous materials incidents throughout the region. It’s the first such vehicle in service in New England.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-fire-truck,electric-trucks,navistar" data-layer-viewtype="unknown" data-post-id="378005" href="https://electrek.co/2024/08/30/hazmat1-cambridge-becomes-first-ne-fd-to-put-electric-fire-truck-into-service/#more-378005" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/30/hazmat1-cambridge-becomes-first-ne-fd-to-put-electric-fire-truck-into-service/>
+
+---
+
+## Munich is getting 14 of these 352-ton electric aircraft tractors from Goldhofer
+
+date: 2024-08-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/phoenix_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Frequent visitors to Germany’s Munich Airport will be able to breathe a little bit easier soon, thanks to a new deal with the ground support experts at Goldhofer for 14 of its all-electric, 352 ton-rated PHOENIX E aircraft tractors.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aviation,heavy-equipment" data-layer-viewtype="unknown" data-post-id="377983" href="https://electrek.co/2024/08/30/munich-is-getting-14-of-these-352-ton-electric-aircraft-tractors-from-goldhofer/#more-377983" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/30/munich-is-getting-14-of-these-352-ton-electric-aircraft-tractors-from-goldhofer/>
+
+---
+
+## SunPower files for Chapter 11 bankruptcy [update]
+
+date: 2024-08-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/12/SunPower-rooftop-solar.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Solar developer SunPower <a href="https://dm.epiq11.com/case/sunpower/info" target="_blank" rel="noreferrer noopener">filed for Chapter 11 bankruptcy</a> protection in the US, but here’s some good news for its customers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,sunpower" data-layer-viewtype="unknown" data-post-id="374540" href="https://electrek.co/2024/08/30/sunpower-files-for-chapter-11-bankruptcy/#more-374540" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/30/sunpower-files-for-chapter-11-bankruptcy/>
+
+---
+
+## Podcast: Tesla and Rivian launch referral programs, EREVs a thing?, cheap Chinese EVs, more
+
+date: 2024-08-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla and Rivian launching new referral programs, should EREVs be a thing?, cheap Chinese EVs coming, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Electrek_8-30-24.mp3"></audio></figure>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="377949" href="https://electrek.co/2024/08/30/podcast-tesla-and-rivian-launch-referral-programs-erevs-a-thing-cheap-chinese-evs-more/#more-377949" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/30/podcast-tesla-and-rivian-launch-referral-programs-erevs-a-thing-cheap-chinese-evs-more/>
+
+---
+
+## Spoiler Alert: Hyundai IONIQ 6 N caught with a massive rear wing [Images]
+
+date: 2024-08-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/11/Hyundai-IONIQ-6-N.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s sporty electric N car is almost here. The Hyundai <a href="https://electrek.co/guides/hyundai-ioniq-6/">IONIQ 6</a> N was recently spotted rocking a massive wing on the rear. Check out the new images below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-6" data-layer-viewtype="unknown" data-post-id="377957" href="https://electrek.co/2024/08/30/hyundai-ioniq-6-n-caught-with-massive-rear-wing-images/#more-377957" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/30/hyundai-ioniq-6-n-caught-with-massive-rear-wing-images/>
+
+---
+
+## Blix e-bikes up to $687 off in savings + new Vika X model down at $1,699, Velotric e-bikes up to $1,100 off, more
+
+date: 2024-08-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Blix-Vika-X-Folding-e-bike-FI-2.jpg?quality=82&#038;strip=all&#038;w=1205" /></div><p>We’ve got another day of e-bike deals for you to close out this week’s Green Deals, with the headliner being the <a href="https://9to5toys.com/2024/08/30/new-blix-auto-shifting-vika-x-folding-e-bike-debuts-with-1699-launch-deal-and-bonus-add-ons-1898-value/?_thumbnail_id=1075258">launch deal on the new Blix Vika X Folding e-bike at $1,699</a> that also includes a free carrying bag that fits nicely onto the e-bike for transport. Right on its heels is the <a href="https://9to5toys.com/2024/08/30/blix-labor-day-sale-takes-500-off-e-bikes-with-up-to-187-in-free-add-on-gear-from-1399/">Labor Day sale on three of Blix’s popular e-bike models</a> seeing up to $687 in combined savings, as well as three extra savings opportunities being added to <a href="https://9to5toys.com/2024/08/30/save-up-to-1100-on-three-velotric-e-bikes-in-the-closing-days-of-summer-sale-starting-from-1249/">Velotric’s Summer Sale</a> that is taking up to an additional $200 off three e-bike models – totaling <a href="https://9to5toys.com/2024/08/30/save-up-to-1100-on-three-velotric-e-bikes-in-the-closing-days-of-summer-sale-starting-from-1249/">up to $1,100 in savings</a>! There’s also some amazing Labor Day deals to check out on <a href="https://9to5toys.com/2024/08/30/save-thousands-on-samsungs-bespoke-all-in-one-electric-washer-ventless-dryer-from-1800-reg-up-to-3339/">Samsung’s Bespoke A.I. All-in-One Electric Washer &amp; Ventless Dryer</a> with plenty of bonus savings opportunities – plus, all the other hangover Green Deals that are still alive and well, like yesterday’s <a href="https://9to5toys.com/2024/08/29/haul-your-precious-cargo-on-lectrics-xpedition-e-bike-with-405-in-free-gear-at-1475-more-from-799/">Lectric e-bike bundle discounts</a> or the collection of <a href="https://9to5toys.com/2024/08/28/these-three-popular-tesla-and-j1772-ev-adapters-from-rexing-are-up-to-25-off-today-from-50/">Rexing EV charger adapters</a> that are currently seeing up to 25% off markdowns.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="377931" href="https://electrek.co/2024/08/30/blix-e-bikes-up-to-687-off-new-vika-x-model-velotric-e-bikes-more/#more-377931" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/30/blix-e-bikes-up-to-687-off-new-vika-x-model-velotric-e-bikes-more/>
+
+---
+
+## Mercedes EQS Replacement Will Be A True Electric S-Class
+
+date: 2024-08-30, from: Inside EVs News
+
+The EQS sedan won’t receive a direct replacement but an electric version of the next S-Class instead. 
+
+<https://insideevs.com/news/731944/mercedes-eqs-update-2025/>
+
+---
+
+## Range Rover’s smaller electric SUV spotted for the first time [Video]
+
+date: 2024-08-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Range-Rover-Sport-Electric.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Range Rover will launch its first EV later this year. Ahead of its official debut, <a href="https://electrek.co/guides/range-rover/">Range Rover’s</a> smaller electric SUV, possibly the Velar or Sport, has been spotted for the first time on video. Check out the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="range-rover,range-rover-electric" data-layer-viewtype="unknown" data-post-id="377924" href="https://electrek.co/2024/08/30/range-rovers-smaller-electric-suv-spotted-first-time-video/#more-377924" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/30/range-rovers-smaller-electric-suv-spotted-first-time-video/>
+
+---
+
+## Blue Bird just delivered its 2,000th electric school bus
+
+date: 2024-08-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Clark-County-EV-Blue-Bird_full_scaled.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In a major milestone, Blue Bird (Nasdaq: BLBD) has delivered its 2,000th electric school bus to Clark County School District (CCSD) in Nevada. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="blue-bird,electric-school-buses,nevada" data-layer-viewtype="unknown" data-post-id="377903" href="https://electrek.co/2024/08/30/blue-bird-just-delivered-its-2000th-electric-school-bus/#more-377903" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/30/blue-bird-just-delivered-its-2000th-electric-school-bus/>
+
+---
+
+## EV Adoption Is Up. It's Just Moving Slower Than Expected
+
+date: 2024-08-30, from: Inside EVs News
+
+Automakers are betting big on plug-in hybrids, but those may end a passing fad compared to the long-term all-electric goal. 
+
+<https://insideevs.com/news/731951/jd-power-slower-adoption-2024/>
 
 ---
 
@@ -1498,4 +1638,114 @@ date: 2024-08-25, from: Inside EVs News
 For $75,000 you get vinyl seat covers, black plastic everywhere you look inside and no advanced driver aids. 
 
 <https://insideevs.com/news/731162/chevrolet-silverado-ev-wt-doug-demuro-review-overpriced/>
+
+---
+
+## EPCA plans to convert 50-70 mining trucks to electric power annually
+
+date: 2024-08-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/epca_mining-truck.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Located in Perth, Western Australia, EPCA became famous for its “Green Machine,” a CAT 777 100-ton haul truck it converted to electric power. Now, the company says it has plans to produce 50-70 more of the battery electric mining trucks … each year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,heavy-equipment,mining" data-layer-viewtype="unknown" data-post-id="377121" href="https://electrek.co/2024/08/24/epca-plans-to-convert-50-70-mining-trucks-to-electric-power-annually/#more-377121" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/24/epca-plans-to-convert-50-70-mining-trucks-to-electric-power-annually/>
+
+---
+
+## E-quipment highlight: John Deere 744 and 824 X-Tier hybrid wheel loaders
+
+date: 2024-08-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/deere-electric-drive.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Think of John Deere’s new E-Drive 744 and 824 X-Tier hybrid wheel loaders as the range-extended EVs or <a href="https://electrek.co/2023/11/07/ram-copies-toyotas-bs-with-ridiculous-pr-campaign-for-new-ramcharger-1500/">PHEV</a>s of the heavy equipment world, offering onboard diesel power generation and fully electric drive.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,electric-heavy-machinery,john-deere" data-layer-viewtype="unknown" data-post-id="377093" href="https://electrek.co/2024/08/24/e-quipment-highlight-john-deere-744-and-824-x-tier-hybrid-wheel-loaders/#more-377093" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/24/e-quipment-highlight-john-deere-744-and-824-x-tier-hybrid-wheel-loaders/>
+
+---
+
+## Tesla brings back referral program and $1,000 off its electric cars
+
+date: 2024-08-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Screenshot-2024-04-19-at-9.27.07PM-tesla-referral.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is bringing back its owner referral program and returning to the bigger reward of $1,000 off its electric cars.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="377100" href="https://electrek.co/2024/08/24/tesla-brings-back-referral-program-off-electric-cars/#more-377100" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/24/tesla-brings-back-referral-program-off-electric-cars/>
+
+---
+
+## DSV orders 300 electric semi trucks from Volvo, plans to buy 2,000 more
+
+date: 2024-08-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/dsv_volvo-trucks.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Global logistics firm DSV placed an order for 300 fully electric semi trucks from Volvo Trucks. The deal is one of the largest such orders placed so far, <a href="https://electrek.co/2024/08/23/a-tesla-semi-is-spotted-in-europe-but-why/">and gives DSV one of the largest electric trucking fleets in Europe</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,volvo-trucks" data-layer-viewtype="unknown" data-post-id="377079" href="https://electrek.co/2024/08/24/dsv-orders-300-electric-semi-trucks-from-volvo-plans-to-buy-2000-more/#more-377079" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/24/dsv-orders-300-electric-semi-trucks-from-volvo-plans-to-buy-2000-more/>
+
+---
+
+## Infinite Range Solar EV? This YouTuber Built One, With An Asterisk
+
+date: 2024-08-24, from: Inside EVs News
+
+Can we build solar-powered EVs that don't need to be recharged? Technically yes. Here's why that's impractical. 
+
+<https://insideevs.com/news/731199/infinte-range-solar-ev-home-build/>
+
+---
+
+## Kia EV3 Video Review: An Affordable EV 'Ahead Of Tesla'
+
+date: 2024-08-24, from: Inside EVs News
+
+Another video review on the new $35,000 Kia EV3's home turf sings the praises of an EV that's both high-tech and affordable.  
+
+<https://insideevs.com/news/731231/kia-ev3-tesla-korea/>
+
+---
+
+## 2025 Mercedes GLC PHEV Has 54 Miles Of Electric Range, DC Fast Charging
+
+date: 2024-08-24, from: Inside EVs News
+
+Mercedes is keen to point out that its range and charging numbers put it at the top of its class. 
+
+<https://insideevs.com/news/731221/mercedes-glc350e-phev-pricing-us/>
+
+---
+
+## Buying A Used Tesla Model 3 Performance For Under $25,000: It’s Complicated
+
+date: 2024-08-24, from: Inside EVs News
+
+Navigating sketchy dealers who want to cash the used EV tax credit for themselves and discovering coolant leaks. It’s all there. 
+
+<https://insideevs.com/news/730880/used-tesla-model-3-performance-25000-usd-experience/>
+
+---
+
+## Tesla deletes its blog post stating all cars have self-driving hardware
+
+date: 2024-08-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-FSD-1500.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Tesla has cleaned up its website’s <a href="https://www.tesla.com/blog#list_id=tcl-list-1&amp;page=3">blog</a> section, deleting all posts prior to 2019. This includes the post titled “All Tesla Cars Being Produced Now Have Full Self-Driving Hardware,” which was originally published October 19, 2016.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="full-self-driving-fsd,tesla" data-layer-viewtype="unknown" data-post-id="377074" href="https://electrek.co/2024/08/24/tesla-deletes-its-blog-post-stating-all-cars-have-self-driving-hardware/#more-377074" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/24/tesla-deletes-its-blog-post-stating-all-cars-have-self-driving-hardware/>
 

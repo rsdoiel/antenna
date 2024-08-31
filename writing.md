@@ -1,11 +1,64 @@
 ---
 title: writing 2024.35
-updated: 2024-08-30 09:38:12
+updated: 2024-08-31 12:22:51
 ---
 
 # writing 2024.35
 
-(date: 2024-08-30 09:38:12)
+(date: 2024-08-31 12:22:51)
+
+---
+
+## #215 - Not Connecting
+
+date: 2024-08-30, from: Interesting, a blog on writing
+
+What they see may not be what you intended. 
+
+<https://inneresting.substack.com/p/215-not-connecting>
+
+---
+
+## Magazines Received – August
+
+date: 2024-08-30, from: Locus Magazine
+
+<div class="blockquote">This list covers new SF/F/H print, online, and electronic periodicals (including regularly updated websites) seen by Locus magazine, focusing on those that publish fiction or reviews and criticism. To submit titles for listing on these pages, please send to Locus Publications, 655 13th St. #100, Oakland CA 94612 or email locus@locusmag.com.</div>
+<div>
+<div class="mynomorebulletlist">
+
+<p>Bourbon Penn</p>
+<ul>
+<li>Erik Secker, ed.</li>
+<li>Issue No. 33, August 2024, $14.95 print/$2.99 digital/free online, three times a year, 162pp, </li></ul></div></div> <a href="https://locusmag.com/2024/08/magazines-received-august-3/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/08/magazines-received-august-3/>
+
+---
+
+## Write On: 'Sunny' Co-Creator & Showrunner Katie Robbins
+
+date: 2024-08-30, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-creator-showrunner-katie-robbins-sunny" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Sunny%20Showrunner%20Katie%20Robbins.jpg" alt="Write On: 'Sunny' Co-Creator &amp; Showrunner Katie Robbins" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<div> 
+ <p>“I think that Sunny [the robot], as a character, is kind of emblematic of this conundrum we have with A.I. In one scene she is cute and warm and is serving Suzie's [Rashida Jones] emotional needs and is brimming with potential. And that's really enticing. And then in the next scene, she is diabolical, and is going to like, cut a bitch! That is A.I. There are so many great things it can do, and there's so many terrible scary things that it can do. At the end of the day, it's up to us as society to figure out how we're going to use it,” says Katie Robbins, showrunner and creator of the AppleTV+ show<span>&nbsp;</span><em>Sunny</em>.</p> 
+ <p>In this episode of the Final Draft’s Write On Podcast, we talk with Katie Robbins about delving into artificial intelligence, Japanese culture and making a robot appealing (and frightening) to audiences in her show<span>&nbsp;</span><em>Sunny</em>. Based on the book,<span>&nbsp;</span><em>The Dark Manual,</em><span>&nbsp;</span>by Irish writer Colin O’Sullivan, Robbins says she made changes to the story to allow for exploring isolation and the importance of female friendships.</p> 
+ <p>&nbsp;“I was excited about the idea of giving [Suzie] a couple of female friends. So one is in the body of a robot and then the other is this aspiring mixologist who she meets in the pilot, Mixxy [Annie the Clumsy]… and telling the story of a friendship like love triangle. Mixxy is a little jealous of Sunny's relationship with Suzie and Sunny is really jealous of Mixxy's relationship with Suzie. The film<span>&nbsp;</span><em>The Favourite</em><span>&nbsp;</span>was a big influence for a lot of their relationship dynamics. And it was really fun exploring what that is if one of the friends is an A.I.” she says.</p> 
+ <p>To hear more about the show<span>&nbsp;</span><em>Sunny</em><span>&nbsp;</span>that’s currently streaming on AppleTV+, and hear Robbins’s advice on writing TV pilots, listen to the podcast.</p> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<https://blog.finaldraft.com/write-on-creator-showrunner-katie-robbins-sunny>
 
 ---
 
@@ -459,4 +512,25 @@ date: 2024-08-25, from: Locus Magazine
 <p>Tobias S. Buckell &#38; Dave Klecha,  <a href="https://locusmag.com/2024/08/new-notable/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/08/new-notable/>
+
+---
+
+## Liz Bourke Reviews Long Live Evil by Sarah Rees Brennan
+
+date: 2024-08-24, from: Locus Magazine
+
+<p><strong>Long Live Evil</strong>, Sarah Rees Brennan (Orbit 978-0-35652-249-4, £20.00, 440pp, hc) August 2024. Cover by Syd Mills.</p>
+<p>Sarah Rees Brennan has had a varied and interesting career to date writing YA novels, including tie-ins for <strong>The Chilling Adventures of Sabrina </strong>and <strong>Fate: the Winx Saga </strong>in addition to her original work. <strong>Long Live Evil </strong>is her first novel aimed primarily at an adult audience. It is simultaneously a wholehearted  <a href="https://locusmag.com/2024/08/liz-bourke-reviews-long-live-evil-by-sarah-rees-brennan/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/liz-bourke-reviews-long-live-evil-by-sarah-rees-brennan/>
+
+---
+
+## 🥸 #214 - Who do they think they are?
+
+date: 2024-08-24, from: Interesting, a blog on writing
+
+It's different once you get to know them. 
+
+<https://inneresting.substack.com/p/214-who-do-they-think-they-are>
 

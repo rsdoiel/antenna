@@ -1,11 +1,11 @@
 ---
 title: retro computing 2024.35
-updated: 2024-08-30 09:38:16
+updated: 2024-08-31 12:22:55
 ---
 
 # retro computing 2024.35
 
-(date: 2024-08-30 09:38:16)
+(date: 2024-08-31 12:22:55)
 
 ---
 
@@ -86,4 +86,24 @@ date: 2024-08-26, from: Linux Magazine
 <p>LibreOffice is often considered the de facto standard office suite for the Linux operating system.</p> 
 
 <http://www.linux-magazine.com/Online/News/LibreOffice-24.8-Delivers-New-Features>
+
+---
+
+## b.log 2024/08/24 - Larder restocking protocol, Kitty photo, Let there be cake.
+
+date: 2024-08-24, from: Richard Murray's blog
+
+Larder restocking protocol, Kitty photo, Let there be cake. 
+
+<https://heyrick.eu/blog/index.php?diary=20240824>
+
+---
+
+## Two Interviews with Ken Kaplan, One of the Creators of OS-9
+
+date: 2024-08-24, from: Computer ads from the Past
+
+Two interview from two different time periods 
+
+<https://computeradsfromthepast.substack.com/p/two-interviews-with-ken-kaplan-one>
 

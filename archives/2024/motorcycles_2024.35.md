@@ -1,11 +1,11 @@
 ---
 title: motorcycles 2024.35
-updated: 2024-08-30 09:38:16
+updated: 2024-08-31 12:22:54
 ---
 
 # motorcycles 2024.35
 
-(date: 2024-08-30 09:38:16)
+(date: 2024-08-31 12:22:54)
 
 ---
 
@@ -59,7 +59,7 @@ Plusher suspension and heated grips as standard? Say no more.
 
 ---
 
-## Yamaha Drops 2025 JetBlaster , Also Updates Its WaveRunner Lineup
+## Yamaha Drops 2025 JetBlaster, Also Updates Its WaveRunner Lineup
 
 date: 2024-08-30, from: Ride Apart, Electric Motorcycle News
 
@@ -376,4 +376,34 @@ date: 2024-08-25, from: Ride Apart, Electric Motorcycle News
 Not just any Hayabusa, but Matt Spears' mad hillclimb Busa beast is sending it today. 
 
 <https://www.rideapart.com/news/731197/busa-vs-stark-varg-hillclimb/>
+
+---
+
+## Riley Herbst By-Passes Pit Road Contact for Daytona Top-Five
+
+date: 2024-08-24, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor Avoiding significant contact is paramount when racing on the high banks of Daytona Int’l Speedway, however Riley Herbst overcame an incident on pit road to&#8230;  
+
+<https://kickinthetires.net/nascar/herbst-pit-road-contact-daytona-top-5/>
+
+---
+
+## NASCAR Driver Michael McDowell Rips Top Daytona Starting Spot From The Grasp Of Teammate Todd Gilliand
+
+date: 2024-08-24, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor DAYTONA BEACH, Fla. – Michael McDowell knows how important it is in a NASCAR driver’s career to get the pole position, especially at Daytona International Speedway,&#8230;  
+
+<https://kickinthetires.net/nascar/35073/>
+
+---
+
+## Someone Stuck A Yamaha R6 Into The Back Of A BMW Isetta And Called It A Day
+
+date: 2024-08-24, from: Ride Apart, Electric Motorcycle News
+
+This thing definitely turned heads at Sturgis.  
+
+<https://www.rideapart.com/news/731112/bmw-isetta-yamaha-r6-swap-crazy-video/>
 
