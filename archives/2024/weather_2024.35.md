@@ -1,11 +1,11 @@
 ---
 title: weather 2024.35
-updated: 2024-09-01 10:54:18
+updated: 2024-09-01 11:20:25
 ---
 
 # weather 2024.35
 
-(date: 2024-09-01 10:54:18)
+(date: 2024-09-01 11:20:25)
 
 ---
 
@@ -13,45 +13,201 @@ updated: 2024-09-01 10:54:18
 
 date: 2024-09-01, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Sun, 01 Sep 2024 17:34:03 GMT 
+No tropical cyclones as of Sun, 01 Sep 2024 18:02:55 GMT 
 
 <https://www.nhc.noaa.gov/gis/>
 
 ---
 
-## Central Pacific Tropical Weather Outlook
+## Tropical Storm Hone Graphics
 
-date: 2024-09-01, from: Central Pacific Tropical Weather Outlook
+date: 2024-09-01, from: Central Pacific Basin Tropical Cyclones
 
- <br />
- 210 <br />
- ACPN50 PHFO 011733<br />
- TWOCP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS Central Pacific Hurricane Center Honolulu HI<br />
- 800 AM HST Sun Sep 1 2024<br />
- <br />
- For the central North Pacific...between 140W and 180W:<br />
- <br />
- Active Systems:<br />
- The Central Pacific Hurricane Center in Honolulu, Hawaii is issuing <br />
- advisories on Tropical Storm Hone. This system is located about 1100 <br />
- miles west of Lihue, Hawaii, moving west-northwest at 13 mph.<br />
- <br />
- Elsewhere, no tropical cyclones are expected during the next 7 days.<br />
- <br />
- && <br />
- <br />
- Public advisories on Tropical Storm Hone are issued under WMO <br />
- header WTPA31 PHFO and under AWIPS header HFOTCPCP1. Forecast <br />
- advisories on Tropical Storm Hone are issued under WMO header <br />
- WTPA11 PHFO and under AWIPS header HFOTCMCP1.<br />
- <br />
- $$<br />
- Forecaster TS<br />
- <br />
-  
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_cp1+shtml/180136.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/CP01/CP012024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Hone 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Sun, 01 Sep 2024 18:01:36 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_cp1+shtml/180136.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/CP01/CP012024_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Hone 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Sun, 01 Sep 2024 15:50:55 GMT
+ 
+
+<https://www.nhc.noaa.gov/refresh/graphics_cp1+shtml/180136.shtml?cone>
+
+---
+
+## Tropical Storm Hone Public Advisory Number 41A
+
+date: 2024-09-01, from: Central Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPA31 PHFO 011758
+TCPCP1
+ 
+BULLETIN
+Tropical Storm Hone Intermediate Advisory Number 41A
+NWS Central Pacific Hurricane Center Honolulu HI   CP012024
+800 AM HST Sun Sep 01 2024
+ 
+...HONE TURNS WEST-NORTHWESTWARD TOWARD THE INTERNATIONAL DATE
+LINE...
+ 
+ 
+SUMMARY OF 800 AM HST...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...25.3N 178.3W
+ABOUT 210 MI...340 KM SSW OF MIDWAY ISLAND
+ABOUT 1320 MI...2125 KM WNW OF HONOLULU HAWAII
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...WNW OR 300 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Watch is in effect for...
+ 
+* Kure Atoll
+* Midway Atoll
+ 
+A Tropical Storm Watch means tropical storm conditions are possible
+in the watch area within 48 hours.
+ 
+For storm information specific to your area, please monitor
+products issued by the National Weather Service office in
+Honolulu Hawaii.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM HST (1800 UTC), the broad mean center of elongating 
+Tropical Storm Hone and an extratropical low was located near 
+latitude 25.3 North, longitude 178.3 West. Hone is moving toward 
+the west-northwest near 14 mph (22 km/h). This general motion with 
+a decrease in forward speed is expected today as Hone merges with 
+the extratropical low. A turn toward the north and an increase in 
+forward speed is expected to resume on Monday. On the forecast 
+track, Hone, or the extratropical low associated with Hone, will be 
+passing near or just west of Kure Atoll near the International Date 
+Line late Monday or Monday night.
+ 
+Maximum sustained winds are near 40 mph (65 km/h) with higher
+gusts. Little change in strength is forecast during the next 48
+hours.
+ 
+Tropical-storm-force winds extend outward up to 60 miles (95 km)
+from the center.
+ 
+The estimated minimum central pressure is 1007 mb (29.74 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+WIND: Tropical storm conditions are possible within the watch area
+Monday and Monday night.
+ 
+RAINFALL: Storm total rainfall of 2 to 4 inches is possible over
+Midway and Kure Atolls.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM HST.
+ 
+$$
+Forecaster Wroe
+ 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/HFOTCPCP1+shtml/011758.shtml>
+
+---
+
+## SPC - No watches are valid as of Sun Sep  1 17:57:01 UTC 2024
+
+date: 2024-09-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Sun Sep  1 17:57:01 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC MD 2041
+
+date: 2024-09-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md2041.html"><img src="https://www.spc.noaa.gov/products/md/mcd2041.png" border="1" alt="MD 2041 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 2041
+NWS Storm Prediction Center Norman OK
+1254 PM CDT Sun Sep 01 2024
+
+Areas affected...parts of western and northern New York
+
+Concerning...Severe potential...Watch unlikely 
+
+Valid 011754Z - 011930Z
+
+Probability of Watch Issuance...5 percent
+
+SUMMARY...A broken line of storms may produce occasional gusty wind
+this afternoon.
+
+DISCUSSION...Inhibition has been mostly eroded across western and
+northern New York as temperatures have warmed to the upper 70s to
+low 80s with mid 60s dewpoints. Expect scattered thunderstorms to
+develop along a cold front once it moves east of Lake Erie and Lake
+Ontario. Storms may be not be that deep given the relatively shallow
+thermodynamic profile shown by the RAP forecast soundings. However,
+relatively strong flow through the column and a well-mixed boundary
+layer may support efficient transport of gusty winds to the surface
+within these storms. Isolated damaging wind gusts are possible
+through the afternoon with this threat waning near sunset.
+
+..Bentley/Bunting.. 09/01/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...BTV...ALY...BGM...BUF...
+
+LAT...LON   43357915 43497832 43517714 43907704 44207653 44667583
+            45167503 45587378 45557370 45137334 44107369 42977513
+            42497697 42337806 42427885 42657931 43357915 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md2041.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/md/md2041.html>
+
+---
+
+## CPHC Central North Pacific Outlook
+
+date: 2024-09-01, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>800 AM HST Sun Sep 1 2024<br><br>For the central North Pacific...between 140W and 180W:<br><br>Active Systems:<br>The Central Pacific Hurricane Center in Honolulu, Hawaii is issuing <br>advisories on Tropical Storm Hone. This system is located about 1100 <br>miles west of Lihue, Hawaii, moving west-northwest at 13 mph.<br><br>Elsewhere, no tropical cyclones are expected during the next 7 days.<br><br>&& <br><br>Public advisories on Tropical Storm Hone are issued under WMO <br>header WTPA31 PHFO and under AWIPS header HFOTCPCP1. Forecast <br>advisories on Tropical Storm Hone are issued under WMO header <br>WTPA11 PHFO and under AWIPS header HFOTCMCP1.<br><br>$$<br>Forecaster TS<br>NNNN<br><br></div></div><br />
+ 
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
 
@@ -75,16 +231,6 @@ ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS N
  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## SPC - No watches are valid as of Sun Sep  1 17:16:02 UTC 2024
-
-date: 2024-09-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Sun Sep  1 17:16:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/watch/>
 
 ---
 
@@ -156,26 +302,19 @@ No Mesoscale Discussions are in effect as of Sun Sep  1 17:16:02 UTC 2024.
 
 ---
 
-## Eastern Pacific Tropical Weather Outlook
+## NHC Eastern North Pacific Outlook
 
-date: 2024-09-01, from: Eastern Pacific Tropical Weather Outlook
+date: 2024-09-01, from: Graphical Tropical Weather Outlooks
 
- <br />
- 000<br />
- ABPZ20 KNHC 011708<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 1100 AM PDT Sun Sep 1 2024<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Tropical cyclone formation is not expected during the next 7 days.<br />
- <br />
- $$<br />
- Forecaster Cangialosi<br />
-  
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_2d0_resize.gif" alt="Eastern North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_7d0_resize.gif" alt="Eastern North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOEP ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>1100 AM PDT Sun Sep 1 2024<br><br>For the eastern North Pacific...east of 140 degrees west longitude:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Cangialosi<br>NNNN<br><br></div></div><br />
+ 
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
@@ -185,7 +324,7 @@ date: 2024-09-01, from: Eastern Pacific Tropical Weather Outlook
 
 date: 2024-09-01, from: Eastern Pacific Basin Tropical Cyclones
 
-No tropical cyclones as of Sun, 01 Sep 2024 17:34:03 GMT 
+No tropical cyclones as of Sun, 01 Sep 2024 18:02:55 GMT 
 
 <https://www.nhc.noaa.gov/>
 

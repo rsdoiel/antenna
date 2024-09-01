@@ -1,11 +1,21 @@
 ---
 title: going electric 2024.35
-updated: 2024-09-01 10:54:23
+updated: 2024-09-01 11:20:30
 ---
 
 # going electric 2024.35
 
-(date: 2024-09-01 10:54:23)
+(date: 2024-09-01 11:20:30)
+
+---
+
+## Tesla Model Y Juniper May Debut In Q1 2025 With 7 Seats In China, Europe
+
+date: 2024-09-01, from: Inside EVs News
+
+Elon Musk said Tesla had no plans to reveal the updated Model Y this year, so the time frame fits. 
+
+<https://insideevs.com/news/732048/tesla-model-y-juniper-rumor/>
 
 ---
 

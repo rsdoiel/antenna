@@ -1,11 +1,22 @@
 ---
 title: pacific 2024.35
-updated: 2024-09-01 10:54:15
+updated: 2024-09-01 11:20:23
 ---
 
 # pacific 2024.35
 
-(date: 2024-09-01 10:54:15)
+(date: 2024-09-01 11:20:23)
+
+---
+
+## Historic gift creates first endowed chair in labor law at UH law school
+
+date: 2024-09-01, from: University of Hawaiʻi News
+
+<p>A gift from the Leonard Hoshijo Memorial Foundation will create the first endowed chair in labor law.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/01/endowed-chair-labor-law/">Historic gift creates first endowed chair in labor law at <abbr>UH</abbr> law school</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/01/endowed-chair-labor-law/>
 
 ---
 

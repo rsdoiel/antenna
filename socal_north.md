@@ -1,11 +1,22 @@
 ---
 title: socal north 2024.35
-updated: 2024-09-01 10:54:13
+updated: 2024-09-01 11:20:22
 ---
 
 # socal north 2024.35
 
-(date: 2024-09-01 10:54:13)
+(date: 2024-09-01 11:20:22)
+
+---
+
+## UCLA women’s soccer begins series of away games with matchup against Pepperdine
+
+date: 2024-09-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins will wrap up the summer by hauling their soccer bags en route to a monthlong journey around the country.
+No. 3 UCLA women&#8217;s soccer (5-0) will embark on a six-game roadtrip starting Sept. 
+
+<https://dailybruin.com/2024/09/01/ucla-womens-soccer-begins-series-of-away-games-with-matchup-against-pepperdine/>
 
 ---
 
