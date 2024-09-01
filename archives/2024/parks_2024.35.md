@@ -1,11 +1,21 @@
 ---
 title: parks 2024.35
-updated: 2024-08-31 12:22:54
+updated: 2024-09-01 10:54:21
 ---
 
 # parks 2024.35
 
-(date: 2024-08-31 12:22:54)
+(date: 2024-09-01 10:54:21)
+
+---
+
+## Grand Canyon National Park to Temporarily Close Overnight Hotel Accommodations Beginning August 29
+
+date: 2024-08-31, from: Press Releases
+
+Grand Canyon National Park will implement Stage 4 water restrictions on the South Rim starting the afternoon of Thursday, August 29, due to a series of four significant breaks in the 12½ mile-long Transcanyon Waterline that supplies water from the canyon for use in the park. Since July 8, the park has faced challenges with water supply, and currently, no water is being pumped to either the South or North Rim. https://www.nps.gov/grca/learn/news/temporary-closure-of-hotel-accomodations.htm 
+
+<https://www.nps.gov/grca/learn/news/temporary-closure-of-hotel-accomodations.htm>
 
 ---
 
@@ -90,16 +100,6 @@ date: 2024-08-28, from: Bureau of Land Management, California
 </div> 
 
 <https://www.blm.gov/press-release/bureau-land-management-releases-proposed-western-solar-plan>
-
----
-
-## Grand Canyon National Park to Temporarily Close Overnight Hotel Accommodations Beginning August 29
-
-date: 2024-08-28, from: Press Releases
-
-Grand Canyon National Park will implement Stage 4 water restrictions on the South Rim starting the afternoon of Thursday, August 29, due to a series of four significant breaks in the 12½ mile-long Transcanyon Waterline that supplies water from the canyon for use in the park. Since July 8, the park has faced challenges with water supply, and currently, no water is being pumped to either the South or North Rim. https://www.nps.gov/grca/learn/news/temporary-closure-of-hotel-accomodations.htm 
-
-<https://www.nps.gov/grca/learn/news/temporary-closure-of-hotel-accomodations.htm>
 
 ---
 

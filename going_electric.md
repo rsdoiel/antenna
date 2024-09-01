@@ -1,11 +1,89 @@
 ---
 title: going electric 2024.35
-updated: 2024-08-31 12:22:56
+updated: 2024-09-01 10:54:23
 ---
 
 # going electric 2024.35
 
-(date: 2024-08-31 12:22:56)
+(date: 2024-09-01 10:54:23)
+
+---
+
+## Family Shares 3 Years of Electric Vehicle Insights for Newcomers
+
+date: 2024-09-01, from: Inside EVs News
+
+Thinking about taking your family electric? Listen to this dad weigh the pros and cons—but mostly the pros. 
+
+<https://insideevs.com/news/732047/ev-family-volkswagen-id4-owners/>
+
+---
+
+## To Boost EV Battery Health, This Unexpected Step May Be Groundbreaking
+
+date: 2024-09-01, from: Inside EVs News
+
+A Toyota-funded research project found a charging practice that extends battery lifespan by up to 70%. 
+
+<https://insideevs.com/news/732026/lithium-battery-health-toyota-study/>
+
+---
+
+## Tesla’s Oct 10 Robotaxi event will be at Warner Bros studio in LA
+
+date: 2024-09-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-robotaxi.webp?w=1500" /></div><p>Tesla will unveil its Robotaxi product at Warner Bros. studio in Burbank, CA, on October 10th, according to a <a href="https://www.bloomberg.com/news/articles/2024-08-30/tesla-plans-robotaxi-reveal-at-california-warner-bros-studio">report by Bloomberg</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-robotaxi" data-layer-viewtype="unknown" data-post-id="378040" href="https://electrek.co/2024/08/31/teslas-oct-10-robotaxi-event-will-be-at-warner-bros-studio-in-la/#more-378040" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/31/teslas-oct-10-robotaxi-event-will-be-at-warner-bros-studio-in-la/>
+
+---
+
+## We Spotted A Cadillac Escalade IQ In Public
+
+date: 2024-08-31, from: Inside EVs News
+
+Cadillac's upcoming $130,000 electric Escalade coincidentally was charging at the same time we were in suburban Central Ohio.  
+
+<https://insideevs.com/news/731991/escalade-iq-in-public-ohio-rivian/>
+
+---
+
+## Old Vs. New Tesla Model 3 Performance Drag Race: ‘A Bit Disappointing’
+
+date: 2024-08-31, from: Inside EVs News
+
+The 2019 Model 3 has Performance motors and battery but looks like a regular Long Range model. 
+
+<https://insideevs.com/news/731903/old-vs-new-tesla-model-3-performance-drag-race-video/>
+
+---
+
+## Talaria Sting MX5 launched as low-cost, high-speed electric dirt bike
+
+date: 2024-08-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/talara-mx5-sting-pro-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Just announced this morning by <a href="https://lunacycle.com/">Luna Cycle</a> in the US, the Talaria MX5 Sting Pro is the highest-performance electric trail bike yet to still offer an affordable entry price tag for enthusiasts. If you thought those <em>youths</em> <a href="https://electrek.co/2024/08/29/why-are-sur-ron-style-electric-motorbikes-so-dang-popular-with-teens-today/">cruising your neighborhood</a> on their Sur Rons were rough enough, wait until they get their mitts on the new Talaria MX5. It’s the latest in the quickly growing market of easily obtainable off-road electric motorbikes, and this time the specs are finally pushing their way into true dirt bike territory.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,electric-motorcycle,sur-ron,talaria" data-layer-viewtype="unknown" data-post-id="377675" href="https://electrek.co/2024/08/31/talaria-sting-mx5-launched-as-low-cost-high-speed-electric-dirt-bike/#more-377675" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/31/talaria-sting-mx5-launched-as-low-cost-high-speed-electric-dirt-bike/>
+
+---
+
+## Chevrolet Equinox EV: Why We Put One In Our Garage
+
+date: 2024-08-31, from: Inside EVs News
+
+Contributing Editor and State of Charge host Tom Moloughney just leased a 2024 Chevrolet Equinox EV 2RS. Here's what he thinks so far. 
+
+<https://insideevs.com/news/732021/chevy-equinox-owner-review-moloughney/>
 
 ---
 
@@ -1638,114 +1716,4 @@ date: 2024-08-25, from: Inside EVs News
 For $75,000 you get vinyl seat covers, black plastic everywhere you look inside and no advanced driver aids. 
 
 <https://insideevs.com/news/731162/chevrolet-silverado-ev-wt-doug-demuro-review-overpriced/>
-
----
-
-## EPCA plans to convert 50-70 mining trucks to electric power annually
-
-date: 2024-08-24, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/epca_mining-truck.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Located in Perth, Western Australia, EPCA became famous for its “Green Machine,” a CAT 777 100-ton haul truck it converted to electric power. Now, the company says it has plans to produce 50-70 more of the battery electric mining trucks … each year.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,heavy-equipment,mining" data-layer-viewtype="unknown" data-post-id="377121" href="https://electrek.co/2024/08/24/epca-plans-to-convert-50-70-mining-trucks-to-electric-power-annually/#more-377121" class="more-link">more…</a> 
-
-<https://electrek.co/2024/08/24/epca-plans-to-convert-50-70-mining-trucks-to-electric-power-annually/>
-
----
-
-## E-quipment highlight: John Deere 744 and 824 X-Tier hybrid wheel loaders
-
-date: 2024-08-24, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/deere-electric-drive.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Think of John Deere’s new E-Drive 744 and 824 X-Tier hybrid wheel loaders as the range-extended EVs or <a href="https://electrek.co/2023/11/07/ram-copies-toyotas-bs-with-ridiculous-pr-campaign-for-new-ramcharger-1500/">PHEV</a>s of the heavy equipment world, offering onboard diesel power generation and fully electric drive.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,electric-heavy-machinery,john-deere" data-layer-viewtype="unknown" data-post-id="377093" href="https://electrek.co/2024/08/24/e-quipment-highlight-john-deere-744-and-824-x-tier-hybrid-wheel-loaders/#more-377093" class="more-link">more…</a> 
-
-<https://electrek.co/2024/08/24/e-quipment-highlight-john-deere-744-and-824-x-tier-hybrid-wheel-loaders/>
-
----
-
-## Tesla brings back referral program and $1,000 off its electric cars
-
-date: 2024-08-24, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Screenshot-2024-04-19-at-9.27.07PM-tesla-referral.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is bringing back its owner referral program and returning to the bigger reward of $1,000 off its electric cars.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="377100" href="https://electrek.co/2024/08/24/tesla-brings-back-referral-program-off-electric-cars/#more-377100" class="more-link">more…</a> 
-
-<https://electrek.co/2024/08/24/tesla-brings-back-referral-program-off-electric-cars/>
-
----
-
-## DSV orders 300 electric semi trucks from Volvo, plans to buy 2,000 more
-
-date: 2024-08-24, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/dsv_volvo-trucks.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Global logistics firm DSV placed an order for 300 fully electric semi trucks from Volvo Trucks. The deal is one of the largest such orders placed so far, <a href="https://electrek.co/2024/08/23/a-tesla-semi-is-spotted-in-europe-but-why/">and gives DSV one of the largest electric trucking fleets in Europe</a>.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,volvo-trucks" data-layer-viewtype="unknown" data-post-id="377079" href="https://electrek.co/2024/08/24/dsv-orders-300-electric-semi-trucks-from-volvo-plans-to-buy-2000-more/#more-377079" class="more-link">more…</a> 
-
-<https://electrek.co/2024/08/24/dsv-orders-300-electric-semi-trucks-from-volvo-plans-to-buy-2000-more/>
-
----
-
-## Infinite Range Solar EV? This YouTuber Built One, With An Asterisk
-
-date: 2024-08-24, from: Inside EVs News
-
-Can we build solar-powered EVs that don't need to be recharged? Technically yes. Here's why that's impractical. 
-
-<https://insideevs.com/news/731199/infinte-range-solar-ev-home-build/>
-
----
-
-## Kia EV3 Video Review: An Affordable EV 'Ahead Of Tesla'
-
-date: 2024-08-24, from: Inside EVs News
-
-Another video review on the new $35,000 Kia EV3's home turf sings the praises of an EV that's both high-tech and affordable.  
-
-<https://insideevs.com/news/731231/kia-ev3-tesla-korea/>
-
----
-
-## 2025 Mercedes GLC PHEV Has 54 Miles Of Electric Range, DC Fast Charging
-
-date: 2024-08-24, from: Inside EVs News
-
-Mercedes is keen to point out that its range and charging numbers put it at the top of its class. 
-
-<https://insideevs.com/news/731221/mercedes-glc350e-phev-pricing-us/>
-
----
-
-## Buying A Used Tesla Model 3 Performance For Under $25,000: It’s Complicated
-
-date: 2024-08-24, from: Inside EVs News
-
-Navigating sketchy dealers who want to cash the used EV tax credit for themselves and discovering coolant leaks. It’s all there. 
-
-<https://insideevs.com/news/730880/used-tesla-model-3-performance-25000-usd-experience/>
-
----
-
-## Tesla deletes its blog post stating all cars have self-driving hardware
-
-date: 2024-08-24, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-FSD-1500.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Tesla has cleaned up its website’s <a href="https://www.tesla.com/blog#list_id=tcl-list-1&amp;page=3">blog</a> section, deleting all posts prior to 2019. This includes the post titled “All Tesla Cars Being Produced Now Have Full Self-Driving Hardware,” which was originally published October 19, 2016.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="full-self-driving-fsd,tesla" data-layer-viewtype="unknown" data-post-id="377074" href="https://electrek.co/2024/08/24/tesla-deletes-its-blog-post-stating-all-cars-have-self-driving-hardware/#more-377074" class="more-link">more…</a> 
-
-<https://electrek.co/2024/08/24/tesla-deletes-its-blog-post-stating-all-cars-have-self-driving-hardware/>
 

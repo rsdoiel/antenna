@@ -1,11 +1,164 @@
 ---
 title: socal north 2024.35
-updated: 2024-08-31 12:22:46
+updated: 2024-09-01 10:54:13
 ---
 
 # socal north 2024.35
 
-(date: 2024-08-31 12:22:46)
+(date: 2024-09-01 10:54:13)
+
+---
+
+## Shock in Rancho Palos Verdes as power is shut off and evacuation warnings issued
+
+date: 2024-09-01, updated: 2024-09-01, from: The LAist
+
+A sharply worsening landslide affects 140 homes. The accelerating crisis has city officials and Portuguese Bend residents criticizing a lack of preparation and worrying about the difficulty of evacuating the neighborhood's elderly residents. 
+
+<https://laist.com/news/climate-environment/sec-power-shutoff-rpv-sun-day2>
+
+---
+
+## Why Tree of Heaven strikes terror in the hearts of LA gardeners
+
+date: 2024-09-01, updated: 2024-09-01, from: The LAist
+
+The tree can grow up to 90 feet, and it is pretty much public enemy #1 to arborists and botanists. 
+
+<https://laist.com/news/climate-environment/why-tree-of-heaven-strikes-terror-in-the-hearts-of-la-gardeners>
+
+---
+
+## USC vs. LSU — live updates
+
+date: 2024-09-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Henry Mode reports live from Allegiant Stadium.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/01/usc-lsu-live-updates/">USC vs. LSU — live updates</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/01/usc-lsu-live-updates/>
+
+---
+
+## Daniel Atkinson, long time UCLA professor and influential biochemist, dies at 102
+
+date: 2024-09-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Daniel Atkinson, a professor of chemistry and biochemistry, died Feb. 2. He was 102 years old. 
+Atkinson, one of the namesakes of the UCLA Daniel E. 
+
+<https://dailybruin.com/2024/08/31/daniel-atkinson-long-time-ucla-professor-and-influential-biochemist-dies-at-102/>
+
+---
+
+## Opinion: Artificial intelligence can hurt more than help spiritual connections
+
+date: 2024-09-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Glued to VR goggles and the sofa, video game-obsessed children are not the only target market for artificial intelligence technology &#8211; now their grandparents are as well. 
+
+<https://dailybruin.com/2024/08/31/opinion-artificial-intelligence-can-hurt-more-than-help-spiritual-connections/>
+
+---
+
+## UCLA defeats Hawai’i with second half charge in first look at Foster’s system
+
+date: 2024-09-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+HONOLULU – There were debuts galore Saturday afternoon in Honolulu.
+And they ran the gamut –&#160;the Bruins in the Big Ten, coach DeShaun Foster at the team’s helm, redshirt senior Ethan Garbers at starting quarterback and associate head coach and offensive coordinator Eric Bieniemy’s NFL-style offense.&#160;
+Halfway through the duel, though, lackluster was the fitting term for each new look. 
+
+<https://dailybruin.com/2024/08/31/ucla-defeats-hawaii-with-second-half-charge-in-first-look-at-fosters-system/>
+
+---
+
+## Alfee Reft, Big Ten, Olympic veteran brings recruiting power to women’s volleyball
+
+date: 2024-08-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+From Paris to Pauley Pavilion, Alfee Reft&#8217;s impact on the Bruins transcends the court.
+Serving as a seasonal assistant coach for Team USA, Reft, the UCLA women&#8217;s volleyball head coach, worked alongside UCLA Hall of Famers Karch Kiraly &#8211; the national team&#8217;s head coach and UCLA men&#8217;s volleyball alumni &#8211; and Sue Enquist, the team&#8217;s culture consultant and a 10-time NCAA national champion with UCLA softball. 
+
+<https://dailybruin.com/2024/08/31/alfee-reft-big-ten-olympic-veteran-brings-recruiting-power-to-womens-volleyball/>
+
+---
+
+## Are You Prepared for an Emergency?
+
+date: 2024-08-31, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin “There’s no harm in hoping for the best as long as you’re prepared for the worst.” – Stephen King According to the Federal Emergency Management Agency’s (FEMA) 2023 National Household Survey on Disaster Preparedness, the most common action Americans took to prepare for a disaster were assembling or updating their [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/08/31/are-you-prepared-for-an-emergency/">Are You Prepared for an Emergency?</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/08/31/are-you-prepared-for-an-emergency/>
+
+---
+
+## SCE to turn off power to 140 homes in Rancho Palos Verdes on Sunday, triggering evacuation warning
+
+date: 2024-08-31, updated: 2024-09-01, from: The LAist
+
+SCE told LAist that homeowners living in the area affected by continual land movements are being notified that the electricity turnoff is scheduled for Sunday. 
+
+<https://laist.com/news/climate-environment/sec-power-shutoff-rpv>
+
+---
+
+## Bright flashes of future as men’s soccer defeats Portland with 2 freshmen goals
+
+date: 2024-08-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+It had been four years since two UCLA freshmen scored in the same game. 
+That changed Friday night.
+The goals were courtesy of former LAFC Academy teammates midfielder Tamir Ratoviz and defender Shakir Nixon &#8211; who not only each netted their first collegiate goals, but also set one another up for their breakthrough scores. 
+
+<https://dailybruin.com/2024/08/31/bright-flashes-of-future-as-mens-soccer-defeats-portland-with-2-freshmen-goals/>
+
+---
+
+## The Weekly Frame II: New Perspectives
+
+date: 2024-08-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>As “The Weekly Frame” starts up and classes are back in session it is a new opportunity to see campus through a different lens.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/31/the-weekly-frame-ii-new-perspectives/">The Weekly Frame II: New Perspectives</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/31/the-weekly-frame-ii-new-perspectives/>
+
+---
+
+## Women take team second, men show fresh faces in cross country opener at elevation
+
+date: 2024-08-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+An unexpected fourth competitor appeared at the Bruins&#8217; season-opener &#8211;  elevation.
+UCLA cross country kicked off its season with a tri-meet against UC Riverside and UC Santa Barbara in Big Bear Lake, California, on Friday. 
+
+<https://dailybruin.com/2024/08/31/women-take-team-second-men-show-fresh-faces-in-cross-country-opener-at-elevation/>
+
+---
+
+## Huntington Beach says it will fight bill that prohibits public libraries from banning books
+
+date: 2024-08-31, updated: 2024-08-31, from: The LAist
+
+AB 1825 is awaiting Gov. Gavin Newsom's signature. 
+
+<https://laist.com/news/politics/huntington-beach-opposes-bill-prohibiting-library-book-bans>
+
+---
+
+## Move in Checklist
+
+date: 2024-08-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/08/31/move-in-checklist/>
 
 ---
 
@@ -332,6 +485,26 @@ date: 2024-08-30, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/08/30/college-students-are-making-south-central-unlivable/>
+
+---
+
+## LMU releases new ‘social action’ policy prohibiting camping and blocking paths
+
+date: 2024-08-30, from: Laloyolan (LMU Student Newspaper)
+
+The University announced a new “time, place, manner for social action” policy in an email to students on Monday. The policy prohibits the interference of “free flow pedestrian or vehicular traffic” and the construction of “any temporary structure for any… 
+
+<https://www.laloyolan.com/news/lmu-releases-new-social-action-policy-prohibiting-camping-and-blocking-paths/article_faacb54b-6312-56a0-93a3-f80233cea9d6.html>
+
+---
+
+## Kwyn Townsend Riley looks forward as new Office of Black Student Services director
+
+date: 2024-08-30, from: Laloyolan (LMU Student Newspaper)
+
+The Office of Black Student Services named poet and activist Kwyn Townsend Riley, previously at James Madison University, as their newest director. 
+
+<https://www.laloyolan.com/news/kwyn-townsend-riley-looks-forward-as-new-office-of-black-student-services-director/article_c7b111be-1e6a-5f5f-958e-4b5ba1c5883a.html>
 
 ---
 
@@ -1121,6 +1294,7 @@ The UCLA Latino Policy and Politics Institute and Arizona State University Cente
 
 date: 2024-08-28, from: The Daily Trojan (USC Student Newspaper)
 
+<p>﻿﻿</p>
 <p>The post <a href="https://dailytrojan.com/2024/08/27/welcome-week-kicks-off-the-year/">Welcome Week kicks off the year</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
@@ -1375,7 +1549,7 @@ With five days left for Gov. Gavin Newsom to sign a bill that would ban legacy a
 
 date: 2024-08-27, from: Laloyolan (LMU Student Newspaper)
 
-\Aidin Namin, Ph.D, associate professor of marketing analytics, will travel to Brazil over summer 2025 to further his research on health care disparities throughout the country. 
+Aidin Namin, Ph.D, associate professor of marketing analytics, will travel to Brazil over summer 2025 to further his research on health care disparities throughout the country. 
 
 <https://www.laloyolan.com/news/lmu-marketing-professor-awarded-2025-us-fulbright-scholar-award/article_5f0260df-f997-5aad-8eec-4dff3ec0e83a.html>
 
@@ -1905,125 +2079,4 @@ This post was updated Aug. 26 at 12:47 a.m.
 UCLA football is getting a face-lift in 2024. The program is on the cusp of a season of sweeping changes and radical makeover. 
 
 <https://dailybruin.com/2024/08/24/ucla-football-rides-westwoods-new-wave-into-sea-of-fresh-players-and-personnel/>
-
----
-
-## Men’s soccer to vie for revenge against JMU in repeat of last season’s matchup
-
-date: 2024-08-24, from: The Daily Bruin (UCLA Student Newspaper)
-
-The Bruins will close out their opening weekend with a repeat of last year’s – this time in Westwood.
-No. 21 UCLA men’s soccer (1-0) will face No. 
-
-<https://dailybruin.com/2024/08/24/mens-soccer-to-vie-for-revenge-against-jmu-in-repeat-of-last-seasons-matchup/>
-
----
-
-## Remembering Young Lives Lost at the Evening of Remembrance
-
-date: 2024-08-24, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin The Youth Grove is a solemn place within Central Park (27150 Bouquet Canyon Road) where pillars shaped like tree stumps circle around a center monument. Each pillar represents one of 119 young lives lost in traffic-related incidents and symbolize a life cut short. The central monument urges the community to [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2024/08/24/remembering-young-lives-lost-at-the-evening-of-remembrance/">Remembering Young Lives Lost at the Evening of Remembrance</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<https://santaclarita.gov/blog/2024/08/24/remembering-young-lives-lost-at-the-evening-of-remembrance/>
-
----
-
-## Ranked opponents and familiar faces to challenge women’s soccer’s win streak
-
-date: 2024-08-24, from: The Daily Bruin (UCLA Student Newspaper)
-
-As UCLA looks to continue its winning streak, new challenges approach.
-No. 6 UCLA women’s soccer will face its first ranked opponents of the year, taking on No. 
-
-<https://dailybruin.com/2024/08/24/ranked-opponents-and-familiar-faces-to-challenge-womens-soccers-win-streak/>
-
----
-
-## Resignation calls grow against OC Supervisor Andrew Do after FBI raids
-
-date: 2024-08-24, updated: 2024-08-25, from: The LAist
-
-Calls for the Supervisor Do's resignation echo across Orange County's political sphere. 
-
-<https://laist.com/news/politics/resignation-calls-grow-against-oc-supervisor-andrew-do-after-fbi-raids>
-
----
-
-## Scouting Report: UCLA football vs. Hawai’i
-
-date: 2024-08-24, from: The Daily Bruin (UCLA Student Newspaper)
-
-This post was updated Aug. 25 at 9:09 p.m.
-UCLA football will open its season against Hawai&#8217;i in Honolulu Aug. 31. The Bruins and Rainbow Warriors finished last season on opposite streaks, as the former came up short in three of their last five games while the latter cruised through their final matchups. 
-
-<https://dailybruin.com/2024/08/24/scouting-report-ucla-football-vs-hawaii/>
-
----
-
-## Gameday predictions: UCLA vs. Hawai’i
-
-date: 2024-08-24, from: The Daily Bruin (UCLA Student Newspaper)
-
-This post was updated Aug. 25 at 9:21 p.m.
-Buzz around UCLA football is arguably at an all-time high. Following an overhaul in almost all departments, the squad is gearing up for its first game as a Big Ten member against Hawai’i on Aug. 
-
-<https://dailybruin.com/2024/08/24/gameday-predictions-ucla-vs-hawaii-3/>
-
----
-
-## UCLA football 2024 season preview
-
-date: 2024-08-24, from: The Daily Bruin (UCLA Student Newspaper)
-
- 
-
-<https://dailybruin.com/2024/08/23/ucla-football-2024-season-preview/>
-
----
-
-## UCLA alumnus Danish Renzu uplifts Kashmiri narratives through record label
-
-date: 2024-08-24, from: The Daily Bruin (UCLA Student Newspaper)
-
-For Danish Renzu, music is about changing the narrative surrounding his home.
-The South Asian region of Kashmir has been embroiled in territorial disputes between India and Pakistan for nearly 80 years. 
-
-<https://dailybruin.com/2024/08/23/ucla-alumnus-danish-renzu-uplifts-kashmiri-narratives-through-record-label/>
-
----
-
-## Album review: Sabrina Carpenter’s album lives up to name with ‘Short n’ Sweet’ track list
-
-date: 2024-08-24, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Aug. 25 at 5:00 p.m.</em>
-With fun lyrics and flowy instrumentals, Sabrina Carpenter’s “Short n’ Sweet” surpasses its shortcomings.
-The American singer and actress released her sixth studio album, “Short n’ Sweet,” Friday, following her two hit singles “Espresso” and “Please Please Please.” The 12-track album stays true to its name, lasting only 36 minutes, but with its punchy lyrics and new country-tinged sound, the album was created to be remembered. 
-
-<https://dailybruin.com/2024/08/23/sabrina-carpenters-album-lives-up-to-name-with-short-n-sweet-track-list/>
-
----
-
-## UCLA women’s soccer adds to early winning streak in 1-goal Cal Poly defeat
-
-date: 2024-08-24, from: The Daily Bruin (UCLA Student Newspaper)
-
-The Bruins have kicked off their season with a three-game winning streak.
-In its second away game of the season, UCLA women&#8217;s soccer (3-0) defeated Cal Poly (0-2-1) with a second-half goal to clinch a 1-0 victory Thursday night at Spanos Stadium&#8217;s Mustang Memorial Field. 
-
-<https://dailybruin.com/2024/08/23/ucla-womens-soccer-adds-to-early-winning-streak-in-1-goal-cal-poly-defeat/>
-
----
-
-## Edrey Caceres makes Bruin debut with 2 goals in win against LMU men’s soccer
-
-date: 2024-08-24, from: The Daily Bruin (UCLA Student Newspaper)
-
-A new era has arrived.
-No. 21 UCLA men&#8217;s soccer (1-0) defeated No. 11 LMU (0-1) 2-0 in its season opener at Wallis Annenberg Stadium on Thursday night. 
-
-<https://dailybruin.com/2024/08/23/edrey-caceres-makes-bruin-debut-with-2-goals-in-win-against-lmu-mens-soccer/>
 

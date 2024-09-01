@@ -1,11 +1,111 @@
 ---
 title: libraries 2024.35
-updated: 2024-08-31 12:22:52
+updated: 2024-09-01 10:54:20
 ---
 
 # libraries 2024.35
 
-(date: 2024-08-31 12:22:52)
+(date: 2024-09-01 10:54:20)
+
+---
+
+## Design and Implementation of an extensible Orbit Determination and Propagation Pipeline for the ARIS SAGE CubeSat
+
+date: 2024-09-02, from: ETH Zurich, recently added
+
+Wicki, Juliette 
+
+<http://hdl.handle.net/20.500.11850/691714>
+
+---
+
+## Unravelling CH<inf>4</inf> and N<inf>2</inf>O dynamics in tidal wetlands using natural abundance isotopes and functional genes
+
+date: 2024-09-01, from: ETH Zurich, recently added
+
+Ho L.; Pham K.; Barthel M.; Harris S.; Bodé S.; De Vrieze J.; Vermeir P.; Six J.; Boeckx P.; Goethals P. 
+
+<http://hdl.handle.net/20.500.11850/678459>
+
+---
+
+## A state-of-the-art analysis of virtual reality applications in construction health and safety
+
+date: 2024-09-01, from: ETH Zurich, recently added
+
+Akindele N.; Taiwo R.; Sarvari H.; Oluleye B.I.; Awodele I.A.; Olaniran T.O. 
+
+<http://hdl.handle.net/20.500.11850/678468>
+
+---
+
+## Neurofeedback-enabled beta power control with a fully implanted DBS system in patients with Parkinson's disease
+
+date: 2024-09-01, from: ETH Zurich, recently added
+
+Rohr-Fukuma M.; Stieglitz L.H.; Bujan B.; Jedrysiak P.; Oertel M.F.; Salzmann L.; Baumann C.R.; Imbach L.L.; Gassert R.; Bichsel O. 
+
+<http://hdl.handle.net/20.500.11850/680808>
+
+---
+
+## Tuning and testing an Online Feedback Optimization controller to provide curative distribution grid flexibility
+
+date: 2024-09-01, from: ETH Zurich, recently added
+
+Ortmann L.; Böhm F.; Klein-Helmkamp F.; Ulbig A.; Bolognani S.; Dörfler F. 
+
+<http://hdl.handle.net/20.500.11850/680806>
+
+---
+
+## Integrated optimization of train timetabling and rolling stock circulation problem with flexible short-turning and energy-saving strategies
+
+date: 2024-09-01, from: ETH Zurich, recently added
+
+Gong, Congcong; Luan, Xiaojie; Yang, Lixing; Qi, Jianguo; Corman, Francesco 
+
+<http://hdl.handle.net/20.500.11850/685514>
+
+---
+
+## Point2Building: Reconstructing buildings from airborne LiDAR point clouds
+
+date: 2024-09-01, from: ETH Zurich, recently added
+
+Liu, Yujia; Obukhov, Anton; Wegner, Jan Dirk; Schindler, Konrad 
+
+<http://hdl.handle.net/20.500.11850/686642>
+
+---
+
+## A participatory multi-criteria decision analysis framework reveals transition potential towards non-grid wastewater management
+
+date: 2024-09-01, from: ETH Zurich, recently added
+
+Beutler, Philipp; Larsen, Tove A.; Maurer, Max; Staufer, Philipp; Lienert, Judit 
+
+<http://hdl.handle.net/20.500.11850/687981>
+
+---
+
+## Deactivation of LVAD support for myocardial recovery—surgical perspectives
+
+date: 2024-09-01, from: ETH Zurich, recently added
+
+Nickel I.; Potapov E.; Sun B.; Zimpfer D.; Koliopoulou A.; Adachi I.; Anyanwu A.; Falk V.; Atluri P.; Faerber G.; Goldstein D.; Yarboro L.; Slaughter M.S.; Milano C.; Tsukashita M.; D'Alessandro D.; Silvestry S.; Kirov H.; Bommareddi S.; Lanmüller P. 
+
+<http://hdl.handle.net/20.500.11850/688257>
+
+---
+
+## You Know What? - Evaluation of a Personalised Phishing Training Based on Users' Phishing Knowledge and Detection Skills
+
+date: 2024-09-01, from: ETH Zurich, recently added
+
+Schöni, Lorin; Carles, Victor; Strohmeier, Martin; Mayer, Peter; Zimmermann, Verena 
+
+<http://hdl.handle.net/20.500.11850/689291>
 
 ---
 

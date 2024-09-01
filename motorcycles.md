@@ -1,11 +1,51 @@
 ---
 title: motorcycles 2024.35
-updated: 2024-08-31 12:22:54
+updated: 2024-09-01 10:54:22
 ---
 
 # motorcycles 2024.35
 
-(date: 2024-08-31 12:22:54)
+(date: 2024-09-01 10:54:22)
+
+---
+
+## Watch This Insane 250cc Top Speed Bike Scream All The Way To 18,000 RPM
+
+date: 2024-09-01, from: Ride Apart, Electric Motorcycle News
+
+It’s powered by a turbocharged Honda 250cc engine.  
+
+<https://www.rideapart.com/news/731727/250cc-speed-bike-dyno-18k-rpm/>
+
+---
+
+## Shane van Gisbergen: ‘Experience Keeps Growing’ After Darlington Top-10
+
+date: 2024-09-01, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor DARLINGTON, S.C. – With just under a full season under this belt, Shane van Gisbergen is now utilizing previous track experience as he returns to&#8230;  
+
+<https://kickinthetires.net/nascar/xfinity/van-gisbergen-darlington-top-10/>
+
+---
+
+## Sheldon Creed: ‘I Put in One of My Best Performances’ at Darlington
+
+date: 2024-08-31, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor DARLINGTON, S.C. – Although a late-race caution at Darlington Raceway ended Sheldon Creed’s chance at finally scoring his first NASCAR Xfinity Series victory, the Joe&#8230;  
+
+<https://kickinthetires.net/nascar/creed-best-performancest-darlington/>
+
+---
+
+## A Turbo Royal Enfield Interceptor 650 Is Wild, And Also Completely Necessary
+
+date: 2024-08-31, from: Ride Apart, Electric Motorcycle News
+
+H2 who? Time for Royal Enfield to bring a turbo-production bike into existence. 
+
+<https://www.rideapart.com/news/731828/royal-enfield-int650-turbo-video/>
 
 ---
 
@@ -376,34 +416,4 @@ date: 2024-08-25, from: Ride Apart, Electric Motorcycle News
 Not just any Hayabusa, but Matt Spears' mad hillclimb Busa beast is sending it today. 
 
 <https://www.rideapart.com/news/731197/busa-vs-stark-varg-hillclimb/>
-
----
-
-## Riley Herbst By-Passes Pit Road Contact for Daytona Top-Five
-
-date: 2024-08-24, from: Kickin the Tires blog
-
-By Seth Eggert, Associate Editor Avoiding significant contact is paramount when racing on the high banks of Daytona Int’l Speedway, however Riley Herbst overcame an incident on pit road to&#8230;  
-
-<https://kickinthetires.net/nascar/herbst-pit-road-contact-daytona-top-5/>
-
----
-
-## NASCAR Driver Michael McDowell Rips Top Daytona Starting Spot From The Grasp Of Teammate Todd Gilliand
-
-date: 2024-08-24, from: Kickin the Tires blog
-
-By Jerry Jordan, Editor DAYTONA BEACH, Fla. – Michael McDowell knows how important it is in a NASCAR driver’s career to get the pole position, especially at Daytona International Speedway,&#8230;  
-
-<https://kickinthetires.net/nascar/35073/>
-
----
-
-## Someone Stuck A Yamaha R6 Into The Back Of A BMW Isetta And Called It A Day
-
-date: 2024-08-24, from: Ride Apart, Electric Motorcycle News
-
-This thing definitely turned heads at Sturgis.  
-
-<https://www.rideapart.com/news/731112/bmw-isetta-yamaha-r6-swap-crazy-video/>
 

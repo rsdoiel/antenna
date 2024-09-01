@@ -1,11 +1,228 @@
 ---
 title: columns 2024.35
-updated: 2024-08-31 12:22:49
+updated: 2024-09-01 10:54:17
 ---
 
 # columns 2024.35
 
-(date: 2024-08-31 12:22:49)
+(date: 2024-09-01 10:54:17)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-01, from: Dave Winer's Scripting News)
+
+And for some companies, the founder of a company they acquire might make the best CEO when the founder of the original company isn't available. Again Apple is a great example. Steve Jobs ultimately replaced Gil Amelio, after Apple bought NeXT. 
+
+<http://scripting.com/2024/09/01.html#a165719>
+
+---
+
+## Cushy Kitty
+
+date: 2024-09-01, from: Dave Winer's Scripting News
+
+<p>Wordle Kitty is watching TV along with 80 other convicted house pets serving life sentences at Attica high security prison. They’re watching a mushy political psycho drama starring Wordle Kitty herself, the cutest most adorable kitten known to mankind. The NYT headline reads “Cushy kitty crushes mushy melodrama in prison laugh riot.”</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/09/01/kittyCrushes.png"></center>Cushy kitty crushes mushy melodrama in prison laugh riot.</div></p>
+ 
+
+<http://scripting.com/2024/09/01/165153.html?title=cushyKitty>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-01, from: Dave Winer's Scripting News)
+
+Graham uses Steve Jobs as an example. He knew what was and wasn't an Apple product. A hired CEO would have to have that explained to him. Sculley, who Graham cites, is a perfectly nice person in my experience, had no idea how to deal with Windows. Very different from a consumer product like fizzy water. Who but Steve Jobs would have thought that an iPod was a proper product for a company that made PCs. I think he himself wanted it, and that's what made something an Apple product. It's probably why post-Jobs Apple is pretty much stuck selling only the products Jobs created for them. He told <a href="https://en.wikipedia.org/wiki/Tim_Cook">Cook</a> to innovate on his own vision and timetable, probably knowing full-well that nobody would be able to do it. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/09/01.html#a164543>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-01, from: Dave Winer's Scripting News)
+
+Another rule for whoever runs a tech company, they must themselves be a fanatical user of the company's product. They must love it the way a founder loves it. They must think the users are the smartest people in the world because they love the best product in the world. As a founder, I could not visualize the day I left the company for the last time. In hindsight I felt that was the one factor most responsible for the success of the company. 
+
+<http://scripting.com/2024/09/01.html#a164402>
+
+---
+
+## The Talk Show: ‘Good Enough to Be Pesky’
+
+date: 2024-09-01, updated: 2024-09-01, from: Daring Fireball
+
+ 
+
+<https://daringfireball.net/thetalkshow/2024/08/31/ep-408>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-01, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/09/01/paulMcCartney.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Paul Graham wrote a very <a href="https://www.paulgraham.com/foundermode.html">useful piece</a> about "Founder Mode." As a founder myself, I think I can tell you why founders have a central role to play as the company grows. They're the only ones who know how the company was built, and what works and what doesn't and how to keep it consistent for customers and partners, and the founder, if the company grew, is tuned into to what makes the company work, and will see opportunities that even well-intentioned managers miss. I remember when a company I was a developer for, early in my career, switched out the founder and replaced him with a professional CEO. The founder had problems managing, and could have used help imho, but -- the founder understood what the company was about, and the professional claimed to be a "market of one" and therefore didn't have an opinion about what products the company should make. That would be delegated to people he hired. Almost as if the people running a company were just modules and servers, and if you needed to grow you just bought new modules. In this case. I can write this because I don't have to get approval from anyone else. I'm sure in a company of today someone would take offense at something I wrote here. That my friends is another reason why companies have a hard time scaling. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/09/01.html#a155212>
+
+---
+
+## Where did summer go?
+
+date: 2024-09-01, from: Enlightenment Economics blog
+
+Already September 1st, and a tang of autumn in the morning air. I had a two-week holiday with no laptop or emails, and lots of reading. Then a two-week scramble to catch up with the accumulated email and work. So &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/09/where-did-summer-go/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2024/09/where-did-summer-go/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-01, from: Dave Winer's Scripting News)
+
+August is <a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2024/08.opml">archived</a>. Let's start September. 
+
+<http://scripting.com/2024/09/01.html#a124605>
+
+---
+
+## The Chicks
+
+date: 2024-09-01, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<https://steady.substack.com/p/the-chicks>
+
+---
+
+## Caption contest: The view 
+
+date: 2024-09-01, from: Robert Reich's blog
+
+And last week&#8217;s winner 
+
+<https://robertreich.substack.com/p/caption-contest-the-view>
+
+---
+
+## August 31, 2024
+
+date: 2024-09-01, from: Heather Cox Richardson blog
+
+Buddy took this picture on his way to work one morning while I was in Chicago at the Democratic National Convention. 
+
+<https://heathercoxrichardson.substack.com/p/august-31-2024>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-31, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@davew/post/C_V8Va8pt4Z">Why does JD Vance</a> have so many opinions about women?
+ 
+
+<http://scripting.com/2024/08/31.html#a173455>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-31, from: Dave Winer's Scripting News)
+
+It's worth <a href="https://www.threads.net/@davew/post/C_VzCo_JSN5">reflecting</a> that the press took its best shot at Kamala Harris, and it was a big puff of smoke, she just cruised right through it. 
+
+<http://scripting.com/2024/08/31.html#a171542>
+
+---
+
+## August 30, 2024
+
+date: 2024-08-31, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-30-2024-140>
+
+---
+
+## History Extra for August 30, 2024
+
+date: 2024-08-31, from: Heather Cox Richardson blog
+
+An investigation by the Committee on Government Operations&#8217; Permanent Subcommittee on Investigations doesn&#8217;t sound like something that would change history, but in 1954, it did. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-august-30-2024>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-31, from: Dave Winer's Scripting News)
+
+Thread: <a href="https://mastodon.social/@davew/113056965813280335">Blogs and the social web will merge</a>.
+ 
+
+<http://scripting.com/2024/08/31.html#a143408>
+
+---
+
+## Platform drivers for textcasting
+
+date: 2024-08-31, from: Dave Winer's Scripting News
+
+<p>A feature I've wanted to add to the <a href="https://github.com/scripting/textcasting/tree/main">textcasting server app</a> is a plug-in architecture so you can add a new <a href="https://github.com/scripting/textcasting/blob/main/README.md#platform-drivers">platform driver</a> without having to reconfigure or even reboot the server. </p>
+<p>There's a new folder at <a href="https://github.com/scripting/textcasting/tree/main/plugins/platforms">plugins/platforms</a>. Each subfolder contains a driver for one platform. Initially there are four folder:  bluesky, mastodon, twitter and wordpress. Each driver is a Node module that exports a single function that posts an item to the platform. </p>
+<p>As an example here's the <a href="https://github.com/scripting/textcasting/blob/main/plugins/platforms/wordpress/code.js">driver</a> for WordPress. </p>
+<p>The drivers are invoked through an HTTP POST call, where the body contains the parameters to the driver. The parameters for each driver are different, because their APIs are different. To add support for a new platform, you just write a new driver. </p>
+<p>I also have a client app that does linkblogging through this server, that's why my linkblogging these days is so relatively effortless. </p>
+<p>Even though the current situation is done without standards, I think not only will that change over time, but this is a good thing. What used to be a corporate silo owned by Twitter, Inc is now a competitive market with lots of players. That's what we wanted back in 2006 when Twitter started, and now we have it. </p>
+<p>This isn't the last step or the first step toward getting them all to coalesce, but it is progress. </p>
+<p>If you're a developer have a look. And if you're a user, know that we're on the road to make cross-site posting a reality. It works for super-geeks like myself now, but eventually it'll work for poets too.</p>
+<p>PS: There's also an <a href="http://data.feedland.org/feeds/davewiner.xml">RSS feed</a> emanating from my textcasting system, that, in conjunction with the masterful Manton Reece at <a href="https://micro.blog/">micro.blog</a>, is how I do my cross-posting to Threads. Eventually I expect there will be a platform driver for Threads too, but for now -- this is how it works. Thanks Manton! It's great to work with you on this stuff. <span class="spOldSchoolEmoji">😄</span></p>
+ 
+
+<http://scripting.com/2024/08/31/141919.html?title=platformDriversForTextcasting>
+
+---
+
+## The Incredible Shrinking Trump: The Coffee Klatch | August 31, 2024
+
+date: 2024-08-31, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly 
+
+<https://robertreich.substack.com/p/the-incredibly-shrinking-trump-the>
+
+---
+
+## Weeknotes: August 24-30, 2024
+
+date: 2024-08-31, from: Tracy Durnell Blog
+
+Highlight of the week: picnic dinner and a sunset walk at the Bellevue Botanical Garden Looking forward to: I&#8217;m planning another writing push this weekend 🤞🤞🤞 Stuff I did: 2 hours consulting 6 hours writing &#8212; I casually mentioned a plot issue to a friend and realized a character was an unnecessary holdover from the [&#8230;] 
+
+<https://tracydurnell.com/2024/08/30/weeknotes-august-24-30-2024/>
+
+---
+
+## A sunset stroll at Bellevue Botanical
+
+date: 2024-08-31, from: Tracy Durnell Blog
+
+Somehow, despite living twenty minutes away for a decade, I&#8217;ve never brought my husband to Bellevue Botanical Garden before! No, I&#8217;ve dragged him down to Federal Way and out to Bainbridge Island, but the free, close garden got overlooked. (I&#8217;ve been on my own, with friends, with family, and even for work, so I didn&#8217;t [&#8230;] 
+
+<https://tracydurnell.com/2024/08/30/a-sunset-stroll-at-bellevue-botanical/>
+
+---
+
+## August 30, 2024 
+
+date: 2024-08-31, from: Heather Cox Richardson blog
+
+Trump and the MAGA movement garnered power through performances that projected dominance and cowed media and opponents into silence. 
+
+<https://heathercoxrichardson.substack.com/p/august-30-2024>
+
+---
+
+## How Oprah will screw up the AI story
+
+date: 2024-08-31, updated: 2024-08-31, from: Anil Dash blog
+
+ 
+
+<https://anildash.com/2024/08/31/oprah-wrong-ai/>
 
 ---
 
@@ -1583,176 +1800,4 @@ date: 2024-08-25, from: Dave Winer's Scripting News
  
 
 <http://scripting.com/2024/08/24/014006.html?title=kamalasAcceptanceSpeech>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-08-24, from: Dave Winer's Scripting News)
-
-<a href="https://github.com/scripting/Scripting-News/issues/310">Braintrust</a>: I want to get a <a href="http://scripting.com/frontier/manual/chapter04.html">UserTalk</a> parser running in <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a>. 
-
-<http://scripting.com/2024/08/24.html#a165718>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-08-24, from: Dave Winer's Scripting News)
-
-My linkblog now reliably works on <a href="https://x.com/davewiner">Twitter</a> and <a href="https://www.threads.net/@davew">Threads</a>, in addition to <a href="https://social.masto.land/@dave">Mastodon</a>, <a href="https://bsky.app/">Bluesky</a>, <a href="http://data.feedland.org/feeds/davewiner.xml">RSS</a> and <a href="https://linkblog3.wordpress.com/">WordPress</a>. I find it really empowering to be able to publish to all those places at once. 
-
-<http://scripting.com/2024/08/24.html#a151321>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-08-24, from: Dave Winer's Scripting News)
-
-Trump is not the incumbent, but it <a href="https://www.thebulwark.com/p/kamala-jitsu-democratic-convention-harris-walz-final-night">might feel that way</a> because the coup that started on Jan 6 is ongoing. It won't be over until there is a peaceful transfer of power from Biden to Harris and Trump is out of the picture. 
-
-<http://scripting.com/2024/08/24.html#a145549>
-
----
-
-## The Dems’ Next Move? The Coffee Klatch | August 24, 2024
-
-date: 2024-08-24, from: Robert Reich's blog
-
-With Heather Lofthouse and Yours Truly 
-
-<https://robertreich.substack.com/p/the-dems-next-move-the-coffee-klatch>
-
----
-
-## Weeknotes: August 17-23, 2024
-
-date: 2024-08-24, from: Tracy Durnell Blog
-
-Win of the week: taking time in the morning twice this week to cook lunch &#8212; stole some writing time but it was worth it to not be stressed over what we were eating Looking forward to: baking something with blueberries this weekend Stuff I did: 2.75 hours consulting 9.5 hours business development &#8212; finished my updated [&#8230;] 
-
-<https://tracydurnell.com/2024/08/24/weeknotes-august-17-23-2024/>
-
----
-
-## Vibe Check №34
-
-date: 2024-08-24, from: Dave Rupert blog
-
-<p>The temperatures soared over 100ºF and the yard is dead and everything smells roasted. But the ten day forecast shows a ten degree dip and that is cause for celebration. Another school year has started. My son has started middle school and my daughter is now in third grade. It’s shocking how fast life goes. And on the workfront, the pace is picking up now that everyone has come back from summer vacation.</p>
-<p>A lot has transpired since the previous vibe check (vacations, new pets, rock shows). To start it off, my family escaped the heat and went to San Diego (as is the custom) for one good week and one awful week…</p>
-<h2>San Diego: The First Good Week</h2>
-<p><img src="https://cdn.daverupert.com/posts/2024/sandiego.jpg" alt="Left: a pink beach drink. Right a dark sunset over Mission Bay San Diego" /></p>
-<p>We flew out to Phoenix to join up with my wife’s family and caravan out to San Diego. We had a family dinner the night before and got to see my one year old grandnephew for the first time in a long while. He’s a sweet kid but does not want his Granduncle Dave holding him yet.</p>
-<p>The next day we loaded up the beach gear and drove to a resort in Mission Beach in San Diego for a four day stay. We had a great time with my wife’s family letting the cousins run loose while grown-ups played tennis, pickleball, and I played my annual round of golf with my male in-laws. After four days of big family time we scooted up to Encinitas to stay for two nights with our Austin friends whose summer rental had a guest house.</p>
-<p>Encinitas was super charming. We stayed near <a href="https://www.tripadvisor.com/Attraction_Review-g32355-d12186525-Reviews-Beacon_s_Beach-Encinitas_California.html">Beacons Beach</a> which is one of those cool beaches at the bottom of a cliffside. We beached pretty hard. My daughter and her oldest bestie pranced up and down the shoreline for hours and she even learned to surf. The contrast between Mission and Encinitas couldn’t be more stark. The trip could have ended there and would have been one of the best vacations in the books. But we weren’t done! We planned to extend the trip with a one-week rental in Mission Bay.</p>
-<h2>San Diego: The Second Awful Week</h2>
-<p>The minute we checked into our beachside rental the whole vibe shifted. From tranquil Encinitas to getting blasted with the sounds (and smells) of Mission Beach. Honking, motorcycles, bottles clanking, fighting, garbage trucks, neighbors blasting bad music, and smells drifting up from the alleyway. It felt like going from a yoga retreat to a frat house. Then it got worse. That night our daughter said she didn’t feel well and the next day my wife started going downhill.</p>
-<p>A week of beach fun turned into spending thousands of dollars to be sick inside a beach-adjacent summer rental watching SpongeBob Squarepants on repeat. After three urgent care visits over two days the sick members of our party had the required antibiotics to start feeling better. The next day, we went home.</p>
-<p>And –as if it couldn’t get any better– I got COVID on the plane ride back. Ughck.</p>
-<h2>We adopted two new pups</h2>
-<p><img src="https://cdn.daverupert.com/posts/2024/dogs.jpg" alt="One black dog with one brown eye and one blue eye and a black and white dog with pointy ears and two blue eyes, both staring at the camera" /></p>
-<ul>
-<li>Laneige (aka “Laney”) - A black lab mix with one brown eye and one blue eye. She’s an attention thief who is not shy about demanding pets.</li>
-<li>Rosebud - A lab mix with expressive pointy ears and two blue eyes (some heeler in there?). She’s the more anxious of the two, but once befriended will roll over for belly rubs.</li>
-</ul>
-<p>Our kids have been asking for a new dog for over a year. Every day this summer I’d step into the house and my daughter would spin a laptop around to show me the new dogs she found on <a href="https://www.austinpetsalive.org/">the Austin Pets Alive! website</a>. She even wrote a song to try to convince me to get a dog. 🥺 They were dead set on a pup named “Laneige” (named by the shelter after a Korean lip balm).</p>
-<p>After dropping the kids off at grandma’s house for a long weekend, we set our plan into action: adopt a dog and surprise the kids. But our plans changed when the shelter brought out Laneige’s sister Rosebud (also named after a lip balm) to our meet and greet. Her pointy ears and blue eyes were too cute. We tend to play it more conservative when it comes to big life choices but we decided to go full stupid for once and surprise the kids with not one dog, but two dogs!</p>
-<p>Names may change and we daily ask ourselves “Did we overdo it?” but generally we’re happy with the new additions.</p>
-<h2>Frostapalooza</h2>
-<figure>
-<p><img src="https://cdn.daverupert.com/posts/2024/frostapalooza.jpg" alt="Me playing bass guitar drowned in moody green and purple rock show lighting" /></p>
-<figcaption>
-<p>Photo by <a href="https://wbrowar.com/">Will Brower</a></p>
-</figcaption>
-</figure>
-<p>A year ago Brad Frost called my wife and I to share a wild idea for his 40th birthday party: get all his musician friends from all over the world together on one stage for one night of rocking out. Over the course of the next year we picked songs, learned parts, recorded tracks, hoping –but never knowing– how it would all turn out when we assembled in Pittsburgh for one night of rock.</p>
-<p>It. Was. Phenomenal.</p>
-<p>Nothing could have prepared me for the blast from the five piece horn section. It sounded perfect. It felt big. Dozens of people on stage playing together for the first time, but you wouldn’t know it. Music –good music– filling the halls of an old church. I’m a foot away from a bass guitar amp but I can’t hear the bass because there’s so much music happening. In the crowd I see people listening to my wife sing –they’re singing along– and it takes me back to when I first heard her sing at a karaoke bar in Los Angeles when I fell in love with her.</p>
-<figure>
-<p><img src="https://cdn.daverupert.com/posts/2024/webnerds.jpg" alt="Twenty or so web luminaries (most named below)" /></p>
-<figcaption>
-<p>Photo from Brad Frost</p>
-</figcaption>
-</figure>
-<p>Outside the main event, it felt good to put kindling on some friendships. I got to see <a href="https://chriscoyier.net/">Chris</a>, which is always pleasant to see the one person I’m guaranteed to have an hour long conversation every week. <a href="https://www.zachmeyer.com/">Zach</a> &amp; Danh (my co-hosts from <a href="https://asidequest.simplecast.com/">Aside Quest</a>) flew up on the same flight. But I got to see and chat with new and old friends as well; <a href="https://ianfrostweather.com/">Ian</a>, <a href="https://www.dandenney.com/">Dan</a>, <a href="https://bencallahan.com/">Ben</a>, <a href="https://www.hawksworx.com/about">Phil</a>, <a href="https://www.mikeaparicio.com/">Mike</a>, <a href="https://www.jina.me/">Jina</a>, <a href="https://github.com/break-stuff">Burton</a>, <a href="https://www.adekunleoduye.com/">Adekunle</a>, <a href="https://kevincoyle.co.uk/">Kevin</a>, <a href="https://bkardell.com/">Brian</a>, <a href="https://jenson.org/">Scott</a>, <a href="https://bigmedium.com/">Josh</a>, Veronika, <a href="https://ryantrimble.com/">Ryan</a>, <a href="https://joshuasager.com/">Joshua</a>, <a href="https://www.jjeff.com/">Jeff</a> &amp; <a href="http://www.littlechair.com/">Jenn</a> &amp; <a href="https://arlorobbins.com/">Arlo</a>, <a href="https://adactio.com/">Jeremy</a> &amp; Jessica, <a href="https://bethan.bandcamp.com/">Daniel &amp; Jessi</a>, <a href="https://www.lovejerks.com/">Rebecca &amp; Ryan</a>, and countless more folks. Since the US web development conference scene has more or less imploded since the pandemic, this felt a bit like a family reunion with some of my favorite people from around the world.</p>
-<p>In the end, <a href="https://frostapalooza.bradfrost.com/">Frostapalooza</a> was a magical night celebrating the power of music and friendship. It feels a bit like a dream now and when I explain it to people my words fall short. An ephemeral joyous moment and I have no idea if I’ll do anything like that in my life again. That’s special. The biggest thanks to Brad, Melissa, and Ella who sacrificed a lot of time, money, and life-force to pull it off.</p>
-<h2>The stats, o the stats.</h2>
-<p>Okay, quantifiers. Calm down. Here’s your beefsteak of itemized inputs and outputs.</p>
-<h3>🧠 Learning</h3>
-<ul>
-<li>When I got sick I did a deep dive in playing with <a href="https://obsidian.md/">Obsidian</a> and building a vault. I’m still on Notion (for now) but the jump is less intimidating. I like the indie/privacy angle of Obsidian a lot but from a UX perspective it feels “finicky” when mousing over content in a way that Notion doesn’t. The level of customization is also nicer in Obsidian, but also a potential endless rabbit hole for my distracted brain. Moving my “second brain” is not a task I want to take lightly.</li>
-<li>Watching countless Obsidian videos exposed me to a new organization system: <a href="https://www.youtube.com/watch?v=d93SGaf82OM">August Bradley’s “Pillars, Pipelines, and Vaults” (PPV) system</a>. I’m not ready to ditch <a href="https://daverupert.com/2022/04/productivity-sniped-by-para/">my Notion PARA setup</a>, but the idea PPV introduces that I’m gravitating towards is that my brain is a system of “Inputs” (links, books, and notes vaults) and “Outputs” (blog posts, side projects, and task pipelines) and those exist across “Areas” (pillars) in my life. Inputs need organization (e.g. folders and/or tags) and outputs need a process (e.g. <a href="https://daverupert.com/2021/09/my-notion-blogging-kanban/">a kanban</a>). I think Obsidian fits this paradigm better than Notion.</li>
-</ul>
-<h3>📖 <strong>Reading</strong></h3>
-<p>Not my best summer of reading but I’m enjoying the slower pace.</p>
-<p><strong>Finished</strong></p>
-<ul>
-<li><a href="https://amzn.to/4ckSatD">Like, Comment, Subscribe</a> by Mark Bergen - The history of YouTube. A great look into how this product which changed the world evolved (and also failed to evolve).</li>
-<li><a href="https://amzn.to/4foUaD6">Read Write Own</a> by Chris Dixon - On a recommendation I read a book about crypto. Shockingly, I didn’t disagree with much here… except that crypto is the solution to the problems outlined in the book. He spent chapters pitching ideas that crypto could solve (decentralized social networks, carrying over video game assets, etc) and those have since been debunked. There’s <em>still</em> no job that crypto does better than a database. Ultimately I think it’s a question of “Who benefits?” when it comes to this technology and I think the answer is: the people who already own a lot of it.</li>
-<li>Humankind by Rutger Bregman - I’ve read this book before but it’s a pleasant little dose of positivity. Are we humans that trample each other while leaving a burning plane? Or are we humans that help each other get off the plane? The answer might surprise you.</li>
-<li>Slow Productivity by Cal Newport - I liked this book better than the last but I think it suffers from the same problems all his books do… he’s shielded by academia and not that busy of a person. I laughed out loud when he used Jane Austen as an example of Slow Productivity (paraphrasing) “After her father sold the farm and the school and they moved to a beach town, she was able to slow down.” Like, yeah dude, I could slow down too if my dad retired and sold the literal farm.</li>
-</ul>
-<p><strong>In Progress</strong></p>
-<ul>
-<li><a href="https://amzn.to/3XHSrT7">A Wizard of Earthsea</a> by Ursula K. Le Guin</li>
-<li>The Adventure Zone Vol. 6 by McElroy, Pietsch, McElroy</li>
-<li>Awe by Dacher Keltner</li>
-</ul>
-<h3>📝 <strong>Blogging</strong></h3>
-<p>Not my best summer of blogging. But the drafts folder is going wild. Trust me. Lol.</p>
-<ul>
-<li><a href="https://daverupert.com/2024/06/mini-4wd/">Mini 4WD</a> - a new hobby</li>
-<li><a href="https://daverupert.com/2024/07/summer-rental/">Summer rental</a> - a post about vacation</li>
-<li><a href="https://daverupert.com/2024/08/fueling-my-body/">The cost of fueling my body</a> - a quantification of self</li>
-</ul>
-<h3>📺 Media</h3>
-<p>Not my best summer of media consumption. But I’m back on Dropout which is nice.</p>
-<p><strong>TV</strong></p>
-<ul>
-<li>Wimbledon 2024 - Watched a lot of the Wimbledon finals with my wife.</li>
-</ul>
-<p><strong>Streaming</strong></p>
-<ul>
-<li><a href="https://www.dropout.tv/make-some-noise/season:3">Make Some Noise S3</a> (Dropout) w- My favorite improv show. It’s punchier this season.</li>
-<li><a href="https://www.dropout.tv/thousandaires">Thousandaires</a> (Dropout) - What would you do with $1,000!?</li>
-<li><a href="https://www.dropout.tv/dimension-20-never-stop-blowing-up">Dimension 20: Never Stop Blowing Up</a> (Dropout) - A VHS action movie fever dream but with dice.</li>
-</ul>
-<p><strong>Anime</strong></p>
-<ul>
-<li>Goldenboy (1995) - Full of fan service but has a main character that flips the genre on its head a bit.</li>
-<li>Mob Psycho 100 S2 (2019) - Mob is at it again. Such a weird, fun series.</li>
-<li>Gundam Breaker Battlogue (2021) - A short web series to promote a new line of Gundam models. Not my favorite “Builder” series nor is it my favorite line of Gundam models. Battlogue on all fronts feels rushed and cheap.</li>
-</ul>
-<h3>🧶 <strong>Crafts</strong></h3>
-<ul>
-<li><a href="https://daverupert.com/2024/06/mini-4wd/">Tamiya Mini 4WD Blast Arrow Starter Pack</a> - I got into watching min-cars race around a track. I bought one for me and one for my son. I finished mine. My son didn’t finish his. But we don’t have a track to race on… so I either need to pony up cash or figure out another way to race.</li>
-</ul>
-<h3>🤖 Gunpla</h3>
-<p><img src="https://cdn.daverupert.com/posts/2024/pgu-rx-78-2.jpg" alt="Left: the black inner frame of the 12 inch tall perfect grade gundam model. Right: the completed gundam model classic red white and blue armor applied. Smaller model of same mech included for scale in both photos." /></p>
-<p>I built the <a href="https://www.youtube.com/watch?v=xfmD1yYqP6k">Perfect Grade Unleashed RX-78-2 Gundam</a> - The granddaddy of all granddaddies. This was an incredible build start to finish. I stalled out for two weeks over adhering some metal etching parts but I tried out different glues and cements and ended up using a <a href="https://www.scotchbrand.com/3M/en_US/p/d/cbgnhw011037/">Scotch Restickable Glue Stick</a> (the same glue for Post-it Notes) and it worked great.</p>
-<p>From the inner frame to the outer shell of the body armor, this model is jaw dropping. It has heft, but not too heavy. It poses but feels sturdy. Bandai nestled in gimmicks everywhere but also so subtle you’d never know they were there from a distance. I need to finish putting on all the stickers, but it’s already so incredible to look at that I fear over-decorating.</p>
-<h3>⌨️ <strong>Open source</strong></h3>
-<p>Nothing official. Except for my job I guess which is technically open source.</p>
-<h3>👾 <strong>Video games</strong></h3>
-<ul>
-<li><a href="https://thankgoodness.game/">Thank Goodness You’re Here</a> (Switch) - A hilarious little slapformer (not for kids)</li>
-</ul> 
-
-<https://daverupert.com/2024/08/vibe-check-34/>
-
----
-
-## August 23, 2024
-
-date: 2024-08-24, from: Heather Cox Richardson blog
-
-Just home from the Democratic National Convention in Chicago, and between the convention&#8217;s events and writing every night until the sun came up, I am tired to the marrow of my bones. 
-
-<https://heathercoxrichardson.substack.com/p/august-23-2024>
-
----
-
-## Now THAT was a Convention
-
-date: 2024-08-24, from: Dan Rather's Steady
-
-Dems have new life after Kamala Harris stuck the landing 
-
-<https://steady.substack.com/p/now-that-was-a-convention>
 

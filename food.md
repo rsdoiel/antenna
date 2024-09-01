@@ -1,11 +1,61 @@
 ---
 title: food 2024.35
-updated: 2024-08-31 12:22:56
+updated: 2024-09-01 10:54:24
 ---
 
 # food 2024.35
 
-(date: 2024-08-31 12:22:56)
+(date: 2024-09-01 10:54:24)
+
+---
+
+## Black Vinegar Chicken With Radishes
+
+date: 2024-09-01, from: Bon Appetet
+
+This gingery stir-fry comes together in under 30 minutes. 
+
+<https://www.bonappetit.com/recipe/black-vinegar-chicken-radishes>
+
+---
+
+## A Chicken Stir-Fry for People With Sensitive Stomachs
+
+date: 2024-09-01, from: Bon Appetet
+
+September’s Feel-Good Food Plan is inspired by having IBS, not in spite of it. 
+
+<https://www.bonappetit.com/story/feel-good-food-plan-september-2024>
+
+---
+
+## Halloween Recipe Contest Announcement
+
+date: 2024-09-01, from: Taste of Home
+
+Enter our Halloween contest by October 31, 2024. 
+
+<https://www.tasteofhome.com/article/halloween-recipe-contest/>
+
+---
+
+## Zucchini Taco Boats
+
+date: 2024-09-01, from: Taste of Home
+
+Who needs tortillas when you can have zucchini taco boats? Cheesy taco meat stuffed in zucchini is an easy Taco Tuesday (or any day) dish that will be a hit with kids and adults alike.<!-- notionvc: b6493b17-178b-4873-8113-8e56c28b07ff --> 
+
+<https://www.tasteofhome.com/recipes/zucchini-taco-boats/>
+
+---
+
+## Coca-Cola Chicken
+
+date: 2024-08-31, from: Taste of Home
+
+A can of Coke adds a secret something to the sweet and tangy barbecue-style sauce for these Coca-Cola chicken breasts. 
+
+<https://www.tasteofhome.com/recipes/cola-chicken/>
 
 ---
 
@@ -695,7 +745,7 @@ This easy homemade potato soup recipe is a staple side for steak dinners at home
 
 date: 2024-08-26, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/gochujang-pasta/" title="Gochujang Pasta Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Creamy Gochujang Pasta ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Spicy, creamy gochujang pasta blends Korean chili paste with parmesan cheese and more for pasta with a Korean twist, easy to make and ready in minutes!</p>
+<a href="https://www.chilipeppermadness.com/recipes/gochujang-pasta/" title="Gochujang Pasta Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Creamy Gochujang Pasta ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" loading="lazy" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Gochujang-Pasta-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Spicy, creamy gochujang pasta blends Korean chili paste with parmesan cheese and more for pasta with a Korean twist, easy to make and ready in minutes!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/gochujang-pasta/">Gochujang Pasta Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
@@ -868,84 +918,4 @@ date: 2024-08-25, from: Taste of Home
 There are many factors worth considering in the Hydro Flask vs. Stanley debate. Our Testing Team tried both brands, and one came out on top.  
 
 <https://www.tasteofhome.com/article/hydro-flask-vs-stanley/>
-
----
-
-## We Tried the Underrated Stanley Aerolight Coffee Tumbler—And It’s Our New Favorite Stanley Cup
-
-date: 2024-08-24, from: Taste of Home
-
-The Stanley Aerolight is insulated, leakproof and slim enough to pack in a bag. Read about why it's our Testing Team's top pick for travel. 
-
-<https://www.tasteofhome.com/article/stanley-aerolight-coffee-tumbler-review/>
-
----
-
-## Chipotle Maple Syrup
-
-date: 2024-08-24, from: Pepper Scale
-
-While our other spicy maple syrup recipe (see it here) focuses on pure heat with the neutral-tasting cayenne pepper, this one is about adding something more&#160;to the sweetness. Here it&#8217;s all about the smokiness behind chipotle peppers. That earthy smoky undertone pairs so perfectly with ... <p class="read-more-container"><a title="Chipotle Maple Syrup" class="read-more button" href="https://pepperscale.com/chipotle-maple-syrup/#more-17971" aria-label="Read more about Chipotle Maple Syrup">Read more</a></p> 
-
-<https://pepperscale.com/chipotle-maple-syrup/>
-
----
-
-## Chili Chickpea Cabbage Soup
-
-date: 2024-08-24, from: Pepper Scale
-
-Chili chickpea cabbage soup is very healthy and extremely simple. It’s the kind of meal that’ll warm you right up from head to toe.&#160;This soup is often eaten in Mediterranean countries as a way to use up any extra garden vegetables, but of course we ... <p class="read-more-container"><a title="Chili Chickpea Cabbage Soup" class="read-more button" href="https://pepperscale.com/chili-chickpea-cabbage-soup/#more-77608" aria-label="Read more about Chili Chickpea Cabbage Soup">Read more</a></p> 
-
-<https://pepperscale.com/chili-chickpea-cabbage-soup/>
-
----
-
-## Fiery Fra Diavolo Sauce
-
-date: 2024-08-24, from: Pepper Scale
-
-Fra diavolo sauce, with its tomato tang, spicy bite, and fresh basil twist is killer with pasta. It&#8217;s a perfect base for many popular fra diavolo pasta meals (like chicken, seafood, or shrimp fra diavolo). But don&#8217;t pigeonhole this spicy sauce to only pasta. It&#8217;s ... <p class="read-more-container"><a title="Fiery Fra Diavolo Sauce" class="read-more button" href="https://pepperscale.com/fiery-fra-diavolo-sauce/#more-17719" aria-label="Read more about Fiery Fra Diavolo Sauce">Read more</a></p> 
-
-<https://pepperscale.com/fiery-fra-diavolo-sauce/>
-
----
-
-## How Much Space Do Pepper Plants Need?
-
-date: 2024-08-24, from: Pepper Scale
-
-Peppers are one of the best vegetables you can grow yourself — they are relatively easy to grow, full of nutrition, and versatile in dishes. Still, there is plenty to understand about getting the best harvest possible. One of the critical factors for growing peppers ... <p class="read-more-container"><a title="How Much Space Do Pepper Plants Need?" class="read-more button" href="https://pepperscale.com/how-much-space-do-pepper-plants-need/#more-85800" aria-label="Read more about How Much Space Do Pepper Plants Need?">Read more</a></p> 
-
-<https://pepperscale.com/how-much-space-do-pepper-plants-need/>
-
----
-
-## Habanero Lemonade
-
-date: 2024-08-24, from: Pepper Scale
-
-Habanero lemonade plays with fire in all the right ways. This is one seriously bold drink that&#8217;s full of contrasts: tangy and sweet, fiery and thirst quenching. And (for the adults over 21 in the room), it&#8217;s a delicious pairing with vodka or bourbon for ... <p class="read-more-container"><a title="Habanero Lemonade" class="read-more button" href="https://pepperscale.com/habanero-lemonade/#more-32987" aria-label="Read more about Habanero Lemonade">Read more</a></p> 
-
-<https://pepperscale.com/habanero-lemonade/>
-
----
-
-## What’s The Best Fresno Pepper Substitute?
-
-date: 2024-08-24, from: Pepper Scale
-
-The Fresno pepper is a darling chili among foodies for its very eatable medium heat and, when red, subtle smokiness. More recipes than ever are calling for this chili. But say your local store doesn&#8217;t carry them fresh. What options do you have? What&#8217;s the ... <p class="read-more-container"><a title="What&#8217;s The Best Fresno Pepper Substitute?" class="read-more button" href="https://pepperscale.com/fresno-pepper-substitute/#more-5939" aria-label="Read more about What&#8217;s The Best Fresno Pepper Substitute?">Read more</a></p> 
-
-<https://pepperscale.com/fresno-pepper-substitute/>
-
----
-
-## Mango With Chili Powder
-
-date: 2024-08-24, from: Pepper Scale
-
-Healthy and delicious! Tropical fruits and chili peppers are a perfect natural pairing. For instance, mango and chili powder makes a super-tasty (and super-healthy) snack or dessert. Best of all, the mango is one of the more versatile fruits in terms of edibility throughout their ripening ... <p class="read-more-container"><a title="Mango With Chili Powder" class="read-more button" href="https://pepperscale.com/mango-with-chili-powder/#more-6892" aria-label="Read more about Mango With Chili Powder">Read more</a></p> 
-
-<https://pepperscale.com/mango-with-chili-powder/>
 

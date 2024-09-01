@@ -1,11 +1,121 @@
 ---
 title: games 2024.35
-updated: 2024-08-31 12:22:51
+updated: 2024-09-01 10:54:19
 ---
 
 # games 2024.35
 
-(date: 2024-08-31 12:22:51)
+(date: 2024-09-01 10:54:19)
+
+---
+
+## Rings of Power is introducing moral grayness to a series that doesn’t need it
+
+date: 2024-09-01, updated: 2024-09-01, from: Polygon Website
+
+The universe of The Lord of the Rings is extremely complicated. There are Valar and Maiar, magic trees everywhere, ambiguously powerful rings, and at least two Dark Lords who want to throw the world into chaos. One thing that J.R.R. Tolkien always made plain in his universe, however, is the difference between the right side [&#8230;] 
+
+<https://www.polygon.com/lotr-rings-of-power/446640/rings-power-trop-morality-lord-rings>
+
+---
+
+## How Netflix’s Rebel Ridge navigated America’s two biggest taboos
+
+date: 2024-09-01, updated: 2024-09-01, from: Polygon Website
+
+Thriller fans know by now to keep an eye out for new Jeremy Saulnier movies. From his over-the-top horror debut Murder Party to the deceptively low-key one-two punch confrontation dramas of Blue Ruin and Green Room to the viciously chilly William Giraldi adaptation Hold the Dark, Saulnier specializes in moody films punctuated by shockingly graphic [&#8230;] 
+
+<https://www.polygon.com/movies/446789/netflix-rebel-ridge-preview-jeremy-saulnier-interview-aaron-pierre>
+
+---
+
+## Ok, but why do certain languages spoken with American intonations sound exactly like Simlish?
+
+date: 2024-09-01, updated: 2024-08-30, from: Polygon Website
+
+In the early hours of the morning, a TikTok video titled “Does Japanese with a California valley girl accent = Simlish?” popped up on my For You page. The algorithm knows me too well. In the video, creator oyasumisushi tests the hypothesis by quickly studying up on the California valley girl accent (think Cher in [&#8230;] 
+
+<https://www.polygon.com/the-sims/446366/simlish-japanese-french-valley-girl-frat-bro-accent>
+
+---
+
+## Every movie and show coming to Netflix in September
+
+date: 2024-09-01, updated: 2024-08-30, from: Polygon Website
+
+Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s coming difficult to parse. This month brings the movie adaptation of 2005 YA dystopian novel Uglies. Better late than never! There’s also new seasons of Emily [&#8230;] 
+
+<https://www.polygon.com/entertainment/445323/new-netflix-september-2024-movies-tv-to-watch>
+
+---
+
+## With The Wild Robot, Chris Sanders finally set computer animation free
+
+date: 2024-08-31, updated: 2024-08-31, from: Polygon Website
+
+When Lilo &#38; Stitch and How to Train Your Dragon co-director Chris Sanders dropped into DreamWorks to see what movies they had on their development roster, he fell in love with The Wild Robot. Originally a series of middle-grade books by writer and illustrator Peter Brown, the story follows a robot named Roz who ends [&#8230;] 
+
+<https://www.polygon.com/animation-cartoons/446701/the-wild-robot-chris-sanders-interview-animation>
+
+---
+
+## With The Wild Robot, Chris Sanders finally set computer animation free
+
+date: 2024-08-31, updated: 2024-08-30, from: Polygon Website
+
+When Lilo &#38; Stitch and How to Train Your Dragon co-director Chris Sanders dropped into DreamWorks to see what movies they had on their development roster, he fell in love with The Wild Robot. Originally a series of middle-grade books by writer and illustrator Peter Brown, the story follows a robot named Roz who ends [&#8230;] 
+
+<https://www.polygon.com/animation-cartoons/446701/with-the-wild-robot-chris-sanders-finally-set-computer-animation-free>
+
+---
+
+## Genshin Impact players are mad the devs improved the game
+
+date: 2024-08-31, updated: 2024-08-30, from: Polygon Website
+
+Hoyoverse released its 5.0 version update of Genshin Impact on Wednesday. While players tend to be excited for flashy additions to the game, such as new characters and regions to explore, this big update also contains more quality-of-life features. The developers have reduced the requirements for people to play late-game content and added a gadget [&#8230;] 
+
+<https://www.polygon.com/genshin-impact/446223/genshin-5-update-fan-reactions>
+
+---
+
+## The Never Stop Blowing Up cast breaks open their time in the Dimension 20 dome
+
+date: 2024-08-31, updated: 2024-08-31, from: Polygon Website
+
+Many elements must converge just right to make an actual play season special: The game system, the setting, the presentation, the game master. But there’s perhaps nothing more important than a good cast, and Dimension 20’s Never Stop Blowing Up delivered a group for the ages. Six of the funniest members of Dropout’s deep roster [&#8230;] 
+
+<https://www.polygon.com/actual-play/446227/never-stop-blowing-up-dimension-20-cast-interview>
+
+---
+
+## With a fresh reinterpretation of The Killer, John Woo mints another action star
+
+date: 2024-08-31, updated: 2024-08-30, from: Polygon Website
+
+It’s not unheard of for a director to remake one of their most significant works. But it’s rare for it to work out as well as John Woo’s remake of his classic hitman action movie The Killer. Michael Haneke famously gave it a go with his shot-for-shot English-language remake of his disturbing 1997 meta slasher [&#8230;] 
+
+<https://www.polygon.com/action/446226/the-killer-remake-john-woo-peacock-review>
+
+---
+
+## How do you revive a game like Yars’ Revenge? Do something unexpected
+
+date: 2024-08-31, updated: 2024-08-31, from: Polygon Website
+
+For more than 40 years, Atari 2600 game Yars’ Revenge has endured. Atari has rereleased the 1982 action game multiple times, both in cartridge form and built into retro consoles. Multiple developers have attempted to remake it, reimagine it, or create an official sequel to the simplistic shooter. In September, developer WayForward Technologies will take [&#8230;] 
+
+<https://www.polygon.com/gaming/446103/yars-revenge-rising-atari-wayforward-preview>
+
+---
+
+## Pokémon Go Popplio Community Day guide
+
+date: 2024-08-31, updated: 2024-08-30, from: Polygon Website
+
+Pokémon Go is having a Popplio Community Day event on Saturday, Aug. 31, from 2-5 p.m. in your local time. As expected with a Community Day event, Popplio will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve list out below. [&#8230;] 
+
+<https://www.polygon.com/pokemon-go-guide/445907/popplio-community-day-event-shiny-brionne-primarina>
 
 ---
 
@@ -606,34 +716,4 @@ date: 2024-08-25, updated: 2024-08-23, from: Polygon Website
 The galaxy may be far, far away, but Star Wars Outlaws is not. Outlaws, the latest open-world game from Ubisoft, rolls out across a staggered schedule this week: an early access release date followed by a regular release date. Also it comes out on different times for different platforms. Dank farrik! To play Star Wars [&#8230;] 
 
 <https://www.polygon.com/star-wars-outlaws-guides/442754/release-times-early-access-date-schedule-access>
-
----
-
-## Crimson Desert’s wild combat left me skeptical at Gamescom
-
-date: 2024-08-24, updated: 2024-08-24, from: Polygon Website
-
-With one of the game industry’s most popular MMOs, Black Desert Online, under its belt, developer Pearl Abyss is shifting to a single-player open-world action game with Crimson Desert. As someone who dabbled with Black Desert but lacked the dedication to stick with it, I’ve been looking forward to Crimson Desert’s solo-minded approach and I [&#8230;] 
-
-<https://www.polygon.com/gamescom/443884/crimson-desert-hands-on-gamescom>
-
----
-
-## Star Wars Outlaws might fulfill the promise of multiple Star Wars failures
-
-date: 2024-08-24, updated: 2024-08-23, from: Polygon Website
-
-Star Wars Outlaws feels like the payoff to more than a decade’s worth of promises for Star Wars video games: the opportunity to rub elbows with scum and villainy, to flex your scoundrel side, and to live as part of the galaxy’s underworld. Many Star Wars games cast players as the clear heroes of George [&#8230;] 
-
-<https://www.polygon.com/star-wars/443422/star-wars-outlaws-underworld-video-games>
-
----
-
-## The best movies leaving Netflix, Max, and Prime at the end of August 2024
-
-date: 2024-08-24, updated: 2024-08-23, from: Polygon Website
-
-We’re almost to the end of the month, and that means a lot of coming and going on every major streaming platform. And while plenty of exciting movies are on the way in September, we’re here to make sure you don’t miss the gems leaving at the end of August.&#160; To help you close out [&#8230;] 
-
-<https://www.polygon.com/recommendations/443730/best-movies-netflix-amazon-hulu-leaving-august-2024>
 

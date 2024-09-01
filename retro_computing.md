@@ -1,11 +1,51 @@
 ---
 title: retro computing 2024.35
-updated: 2024-08-31 12:22:55
+updated: 2024-09-01 10:54:22
 ---
 
 # retro computing 2024.35
 
-(date: 2024-08-31 12:22:55)
+(date: 2024-09-01 10:54:22)
+
+---
+
+## b.log 2024/09/01 - Some old satellite kit.
+
+date: 2024-09-01, from: Richard Murray's blog
+
+Some old satellite kit. 
+
+<https://heyrick.eu/blog/index.php?diary=20240901>
+
+---
+
+## b.log 2024/08/31 - A new soldering iron - Parkside PLSD 48 B2, A new wardrobe, Chronopost again, Lucy's repairs, Power lines.
+
+date: 2024-08-31, from: Richard Murray's blog
+
+A new soldering iron - Parkside PLSD 48 B2, A new wardrobe, Chronopost again, Lucy's repairs, Power lines. 
+
+<https://heyrick.eu/blog/index.php?diary=20240831>
+
+---
+
+## Plus Post: SoftLogic Solutions' Software Carousel
+
+date: 2024-08-31, from: Computer ads from the Past
+
+Get the best of Windows and OS/2 without learning all this. 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-softlogic-solutions-software>
+
+---
+
+## AMCOG’s Tony Bartram talks to WROCC – 4th September
+
+date: 2024-08-31, from: RiscOS Story
+
+Tony Bartram has around twenty titles in his AMCOG Games back catalogue, and is currently working on two more titles, both of which feature something new or novel for our platform, and he will be talking at the next Wakefield RISC OS Computer Club (WROCC) meeting, this coming Wednesday. The first of these is a 3D space game, which will be coming at you at the RISC OS London Show later this year &#8211; and when I say &#8216;coming at you&#8217; I mean that in a slightly more literal way&#8230; 
+
+<https://www.riscository.com/2024/amcog-wrocc-4th-september/>
 
 ---
 
@@ -86,24 +126,4 @@ date: 2024-08-26, from: Linux Magazine
 <p>LibreOffice is often considered the de facto standard office suite for the Linux operating system.</p> 
 
 <http://www.linux-magazine.com/Online/News/LibreOffice-24.8-Delivers-New-Features>
-
----
-
-## b.log 2024/08/24 - Larder restocking protocol, Kitty photo, Let there be cake.
-
-date: 2024-08-24, from: Richard Murray's blog
-
-Larder restocking protocol, Kitty photo, Let there be cake. 
-
-<https://heyrick.eu/blog/index.php?diary=20240824>
-
----
-
-## Two Interviews with Ken Kaplan, One of the Creators of OS-9
-
-date: 2024-08-24, from: Computer ads from the Past
-
-Two interview from two different time periods 
-
-<https://computeradsfromthepast.substack.com/p/two-interviews-with-ken-kaplan-one>
 

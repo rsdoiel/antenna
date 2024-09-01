@@ -1,11 +1,11 @@
 ---
 title: ham radio 2024.35
-updated: 2024-08-31 12:22:48
+updated: 2024-09-01 10:54:15
 ---
 
 # ham radio 2024.35
 
-(date: 2024-08-31 12:22:48)
+(date: 2024-09-01 10:54:15)
 
 ---
 
@@ -210,14 +210,4 @@ date: 2024-08-25, from: The Collegian (Cal State Fresno's Student Newspaper)
 The new academic year for Fresno State is here, and along with it, new parking complications. Effective Aug. 1, P27 is exclusive to student housing residents while Fresno State is in the process of transitioning into a virtual parking permit system. The university is enforcing this new restriction on P27 in order to make room... 
 
 <https://fscollegian.com/2024/08/new-student-housing-building-construction-causes-p27-to-be-for-on-campus-residents-only/>
-
----
-
-## Can Marvel still deliver?
-
-date: 2024-08-24, from: The Collegian (Cal State Fresno's Student Newspaper)
-
-After a few disappointing years in the Marvel Cinematic Universe (MCU), Marvel is rejuvenating the hype with recent projects. This is giving fans a new wave of excitement that hasn&#8217;t been there since “Spiderman: No Way Home” and “Avengers: Endgame.” Since Phase Three, which was comprised of films from 2016&#8217;s &#8220;Captain America: Civil War&#8221; to... 
-
-<https://fscollegian.com/2024/08/the-fate-of-the-mcu/>
 

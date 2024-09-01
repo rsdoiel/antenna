@@ -1,11 +1,35 @@
 ---
 title: home 2024.35
-updated: 2024-08-31 12:22:53
+updated: 2024-09-01 10:54:20
 ---
 
 # home 2024.35
 
-(date: 2024-08-31 12:22:53)
+(date: 2024-09-01 10:54:20)
+
+---
+
+## 11 Tips for Gardening with a Hoop House
+
+date: 2024-09-01, from: The Gardener's Path
+
+<p>A hoop house or polytunnel is a structure tall enough to stand up in. It traps heat to keep plants warm during off-season months when outdoor cultivation isn’t possible. Read on to find 11 tips for installing and using a hoop house and enjoy tending and harvesting flowers, fruits, herbs, and vegetables all winter long.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/greenhouses-and-coldframes/hoop-house-tips/">11 Tips for Gardening with a Hoop House</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/how-to/greenhouses-and-coldframes/hoop-house-tips/>
+
+---
+
+## How to Dry Apricots Two Ways (Food Dehydrator or Oven)
+
+date: 2024-08-31, from: Homestead and Chil
+
+<p>Have an abundance of fresh apricots on your hands? Come learn how to dry apricots in a food dehydrator or in the oven, plus storage tips. This is one of my favorite quick and easy ways to preserve apricots from the garden!</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-dry-apricots-dehydrator-oven/">How to Dry Apricots Two Ways (Food Dehydrator or Oven)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<https://homesteadandchill.com/how-to-dry-apricots-dehydrator-oven/>
 
 ---
 
@@ -817,70 +841,4 @@ date: 2024-08-25, from: Yard Life blog
  
 
 <https://ownyardlife.com/monstera-adansonii-care-and-growing-guide-most-detailed/>
-
----
-
-## 40 Companion Plants for Tomatoes List (With Pictures)
-
-date: 2024-08-24, from: Yard Life blog
-
-<p>When planning a successful tomato garden, selecting the right companion plants can make all the difference. Companion plants for tomatoes ... </p>
-<p class="read-more-container"><a title="40 Companion Plants for Tomatoes List (With Pictures)" class="read-more button" href="https://ownyardlife.com/40-companion-plants-for-tomatoes-list-with-pictures/#more-18598" aria-label="Read more about 40 Companion Plants for Tomatoes List (With Pictures)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/40-companion-plants-for-tomatoes-list-with-pictures/">40 Companion Plants for Tomatoes List (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<https://ownyardlife.com/40-companion-plants-for-tomatoes-list-with-pictures/>
-
----
-
-## This ‘Inn-Fluencer’ Visits Hotels for a Living. Here’s Her Latest Obsession.
-
-date: 2024-08-24, from: Sunset Magazine - Living in the West
-
-Kelsey Bumsted has visited hundreds of properties. Here, she shares her favorite things to do, eat, drink, and see in Tokeland, Washington. 
-
-<https://www.sunset.com/travel/insider-guides/tokeland-washington-things-to-do>
-
----
-
-## Surfing for “Something Positive:” Black Girls Surf and the Rising Tide of Equal Representation
-
-date: 2024-08-24, from: Sunset Magazine - Living in the West
-
-Surfing for 'Something Positive': Black Girls Surf is an organization determined to ride a new wave toward equal treatment. 
-
-<https://www.sunset.com/travel/wild-lands/black-girls-surf-rides-wave-equal-treatment>
-
----
-
-## Meet the Badass Women Who Are the True Face of Surfing in the West
-
-date: 2024-08-24, from: Sunset Magazine - Living in the West
-
-With 'Women Making Waves,' Lara Einzig has produced a beautiful survey of female surf culture. 
-
-<https://www.sunset.com/travel/outdoor-adventure/women-making-waves-female-surfers>
-
----
-
-## 5 Pro Tips to Know Before You Visit a National Park
-
-date: 2024-08-24, from: Sunset Magazine - Living in the West
-
-While national parks have a lot to offer, navigating the crowds and trails can be tricky. Experts share tips for visiting national parks. 
-
-<https://www.sunset.com/travel/national-parks/tips-for-visiting-national-parks>
-
----
-
-## 15 Florida Centipede Species (Pictures and Identification)
-
-date: 2024-08-24, from: Yard Life blog
-
-<p>There is an amazing diversity of types of centipedes that can be found in the state of Florida. From the ... </p>
-<p class="read-more-container"><a title="15 Florida Centipede Species (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/15-florida-centipede-species-pictures-and-identification/#more-18567" aria-label="Read more about 15 Florida Centipede Species (Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/15-florida-centipede-species-pictures-and-identification/">15 Florida Centipede Species (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<https://ownyardlife.com/15-florida-centipede-species-pictures-and-identification/>
 
