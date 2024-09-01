@@ -1,11 +1,11 @@
 ---
 title: home 2024.35
-updated: 2024-09-01 11:20:27
+updated: 2024-09-01 14:24:15
 ---
 
 # home 2024.35
 
-(date: 2024-09-01 11:20:27)
+(date: 2024-09-01 14:24:15)
 
 ---
 
@@ -629,6 +629,18 @@ A roundtable discussion with young farmers was hosted this week by the Center fo
 
 ---
 
+## Bantam vs Regular Chicken: What’s the Difference?
+
+date: 2024-08-27, from: The Tiny Life blog
+
+<p>It’s smart to consider raising bantam vs. regular chickens for many reasons, especially if you’re a homesteader with limited yard space, where size really matters.</p>
+<p>The post <a href="https://thetinylife.com/bantam-vs-regular-chicken/">Bantam vs Regular Chicken: What’s the Difference?</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<https://thetinylife.com/bantam-vs-regular-chicken/>
+
+---
+
 ## A Multi-Generational Family Home Keeps Sustainability Front of Mind
 
 date: 2024-08-27, from: Dwell
@@ -651,6 +663,18 @@ date: 2024-08-27, from: The Gardener's Path
 
 ---
 
+## Urban Homesteading Guide For Thriving In The City
+
+date: 2024-08-27, from: The Tiny Life blog
+
+<p>I got tired of planning to homestead “someday” while I was living in the city, so I came up with creative ways to use my small spaces, ways I’m now turning into an urban homesteading guide for other city dwellers.</p>
+<p>The post <a href="https://thetinylife.com/urban-homesteading/">Urban Homesteading Guide For Thriving In The City</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<https://thetinylife.com/urban-homesteading/>
+
+---
+
 ## How They Pulled It Off: Floor-to-Ceiling Modular Shelving in a New Studio Extension
 
 date: 2024-08-27, from: Dwell
@@ -668,6 +692,18 @@ date: 2024-08-27, from: Dwell
 The 3,551-square-foot hilltop home is wrapped with floor-to-ceiling glass, and features a statement copper fireplace and lush landscaping by Terremoto. 
 
 <https://www.dwell.com/article/mandy-moore-midcentury-home-renovation-pasadena-los-angeles-real-estate-b7869847>
+
+---
+
+## Cluck-Worthy Delights: Chicken Treats Your Flock Will Love
+
+date: 2024-08-27, from: The Tiny Life blog
+
+<p>On my homestead, I find it highly entertaining to watch my chickens run over as fast as they can to get their chicken treats. I think we all look forward to it, and intentionally providing the best treats for my chickens that can improve their health, longevity, and happiness is one of those things that makes it worthwhile to go the extra mile.</p>
+<p>The post <a href="https://thetinylife.com/treats-for-chickens/">Cluck-Worthy Delights: Chicken Treats Your Flock Will Love</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<https://thetinylife.com/treats-for-chickens/>
 
 ---
 
