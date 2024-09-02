@@ -1,6 +1,7 @@
 
+# Anteena
 
-Antenna demonstrates aggregating of news content via web feeds for personal use. It demonstrates that aggregating news can be done by an individual with a little effort and a few tools. We don't need to rely on large corporations to be informed or to keep up to date.
+Antenna demonstrates aggregating of news content via web feeds for personal use.  In effect a [LinkBlog](https://en.wikipedia.org/wiki/Linklog). It is where I read the web content I follow. Antenna demonstrates that aggregating news can be done by an individual with a little effort and a few tools. We don't need to rely on large corporations to be informed or to keep up to date.
 
 ## Tools to build this aggregation
 
