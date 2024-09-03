@@ -1,11 +1,31 @@
 ---
 title: games
-updated: 2024-09-03 08:33:17
+updated: 2024-09-03 10:31:59
 ---
 
 # games
 
-(date: 2024-09-03 08:33:17)
+(date: 2024-09-03 10:31:59)
+
+---
+
+## Watching video games can be just as fun as playing them
+
+date: 2024-09-03, updated: 2024-09-03, from: Polygon Website
+
+What do you call a person who likes video games but doesn’t play video games? It might seem silly, but let’s talk. In sports, it’s normal to like a thing without doing a thing. Take basketball. We’ve got: So it follows that with video games, there are: Except that last one sounds off. I’ve never [&#8230;] 
+
+<https://www.polygon.com/gaming/445473/spectating-video-games-fun-video>
+
+---
+
+## Sony pulls Concord from sale, will refund customers
+
+date: 2024-09-03, updated: 2024-09-03, from: Polygon Website
+
+Firewalk Studios’ hero shooter Concord, which launched on PlayStation 5 and Windows PC on Aug. 23, will be pulled from sale on Tuesday and taken offline later this week in the wake of its disastrous launch, Sony announced on its PlayStation blog. Players who purchased Concord will be refunded, the studio said, as it “explore[s] [&#8230;] 
+
+<https://www.polygon.com/gaming/447033/concord-ps5-pc-pulled-refunds-sony-firewalk>
 
 ---
 

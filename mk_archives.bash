@@ -4,7 +4,7 @@
 function mk_archive_for_feed() {
 	FEED_NAME="$1"
 	FEED_PREFIX="$2"
-	# Find all our socal_north markdown files to archive.
+	# Find all our markdown files to archive.
 	printf '\n## %s\n\n' "${FEED_NAME}" >>"archives/${YEAR}/index.md"
 	CMD="ls -1 archives/${YEAR}/${FEED_PREFIX}_*.md"
 	$CMD | sort -r |\
@@ -36,15 +36,19 @@ TXT
 mk_archive_for_feed "SoCal North" "socal_north"
 mk_archive_for_feed "Weather" "weather"
 mk_archive_for_feed "Pacific" "pacific"
-mk_archive_for_feed "Ham Radio" "ham_radio"
-mk_archive_for_feed "Tech Likely" "tech_likely"
-mk_archive_for_feed "Writing" "writing"
-mk_archive_for_feed "Parks" "parks"
-mk_archive_for_feed "Libaries, Archives and Museums" "libraries"
+mk_archive_for_feed "Central Cost" "centeral_cost"
+mk_archive_for_feed "Home, Garden & Urban Farm" "home"
+mk_archive_for_feed "Good Eats, Healthy Eats" "food"
 mk_archive_for_feed "Columns" "columns"
 mk_archive_for_feed "Retro Computing" "retro_computing"
+mk_archive_for_feed "Games" "games"
+mk_archive_for_feed "Libaries, Archives and Museums" "libraries"
 mk_archive_for_feed "Journalism" "journalism"
-mk_archive_for_feed "Eletrict Motocycles" "motorcycles"
+mk_archive_for_feed "Motocycles" "motorcycles"
+mk_archive_for_feed "Ham Radio" "ham_radio"
+mk_archive_for_feed "Writing" "writing"
+mk_archive_for_feed "Parks" "parks"
+mk_archive_for_feed "Weather" "weather"
 
 echo >>"archives/$YEAR/index.md"
 git add "archives/$YEAR/"

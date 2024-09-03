@@ -1,11 +1,34 @@
 ---
 title: socal north
-updated: 2024-09-03 08:33:11
+updated: 2024-09-03 10:31:55
 ---
 
 # socal north
 
-(date: 2024-09-03 08:33:11)
+(date: 2024-09-03 10:31:55)
+
+---
+
+## Tickets on Sale Now for the 2024 State of the City
+
+date: 2024-09-03, from: City of Santa Clarita
+
+<p>Celebrating Our Gold Medal City This year’s State of the City event will be held on Thursday, October 17, 2024, at 3:00 p.m. at the Canyon Country Community Center. This year’s theme is Gold Medal City. Join the Santa Clarita City Council as they highlight all the podium-topping progress our City has made over the [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/03/tickets-on-sale-now-for-the-2024-state-of-the-city/">Tickets on Sale Now for the 2024 State of the City</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/03/tickets-on-sale-now-for-the-2024-state-of-the-city/>
+
+---
+
+## UCLA women’s soccer snaps win streak in first season loss against Pepperdine
+
+date: 2024-09-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+After five consecutive clean-sheet victories, the streak is finally over.
+No. 3 UCLA women&#8217;s soccer (5-1) lost 1-0 to Pepperdine (3-2-1) on Sunday in Malibu, California. 
+
+<https://dailybruin.com/2024/09/03/ucla-womens-soccer-snaps-win-streak-in-first-season-loss-against-pepperdine/>
 
 ---
 
@@ -237,6 +260,18 @@ date: 2024-09-01, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/09/01/usc-lsu-live-updates/>
+
+---
+
+## USC vs. LSU — as it happened
+
+date: 2024-09-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Henry Mode reports live from Allegiant Stadium.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/01/usc-lsu-as-it-happened/">USC vs. LSU — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/01/usc-lsu-as-it-happened/>
 
 ---
 

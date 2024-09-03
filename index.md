@@ -3,8 +3,8 @@
 
 > An experiment in personal news aggregation
 
-The Antenna is organized around lists of RSS, Atom and JSONfeeds that websites publish
-to promote their content. Right now Antenna is build the following lists
+The Antenna is organized around lists of RSS, Atom and JSONfeeds that websites publish to promote their content. In effect it is a [LinkBlog](https://en.wikipedia.org/wiki/Linklog) except the items are curated by sources
+note by post. Right now Antenna is build the following lists
 
 Collection                                Description of Posts                                               list
 ---------------------------------         --------------------------------------------------------------     --------------------------------

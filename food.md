@@ -1,11 +1,21 @@
 ---
 title: food
-updated: 2024-09-03 08:33:22
+updated: 2024-09-03 10:32:03
 ---
 
 # food
 
-(date: 2024-09-03 08:33:22)
+(date: 2024-09-03 10:32:03)
+
+---
+
+## The Buzziest Food Gifts of 2024
+
+date: 2024-09-03, from: Bon Appetet
+
+Give the gift of that thing you've seen everywhere and secretly want to buy for yourself. 
+
+<https://www.bonappetit.com/story/the-buzziest-food-gifts-of-2024>
 
 ---
 

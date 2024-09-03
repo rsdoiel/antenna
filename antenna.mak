@@ -20,7 +20,7 @@ endif
 
 PROJECT = Antenna
 
-section_names = socal_north pacific mid_central tech_likely columns weather writing games
+section_names = socal_north pacific ham_radio tech_likely columns weather writing games
 
 md_files = $(addsuffix .md,$(section_names))
 
@@ -44,8 +44,8 @@ socal_north: .FORCE
 pacific: .FORCE
 	skimmer pacific.txt
 
-mid_central: .FORCE
-	skimmer mid_central.txt
+ham_radio: .FORCE
+	skimmer ham_radio.txt
 
 tech_likely: .FORCE
 	skimmer tech_likely.txt
@@ -79,7 +79,7 @@ html: front_page.tmpl $(html_files)
 	pandoc -f markdown -t html5 \
            --lua-filter=links-to-html.lua \
 	       --metadata urls_file="$(basename $@).txt" \
-           --metadata mid_central_page="mid_central.html" \
+           --metadata ram_radio_page="ham_radio.html" \
            --metadata pacific_page="pacific.html" \
            --metadata socal_north_page="socal_north.html" \
            --metadata tech_likely_page="tech_likely.html" \
@@ -102,8 +102,8 @@ pagefind: .FORCE
 	git add pagefind
 
 clean: .FORCE
-	-rm mid_central.md 2>/dev/null
-	-rm mid_central.html 2>/dev/null
+	-rm ham_radio.md 2>/dev/null
+	-rm ham_radio.html 2>/dev/null
 	-rm tech_likely.md 2>/dev/null
 	-rm tech_likely.html 2>/dev/null
 	-rm socal_north.md 2>/dev/null
@@ -121,7 +121,7 @@ CITATION.cff: .FORCE
 about.html: about.md
 	pandoc --metadata title="About $(PROJECT)" \
 		--lua-filter=links-to-html.lua \
-		--metadata mid_central_page="mid_central.html" \
+		--metadata ham_radio_page="ham_radio.html" \
 		--metadata pacific_page="pacific.html" \
 		--metadata socal_north_page="socal_north.html" \
 		--metadata tech_likely_page="tech_likely.html" \
@@ -140,7 +140,7 @@ about.md: .FORCE
 index.html: .FORCE
 	@echo '' | pandoc --metadata title="The $(PROJECT)" \
 		--lua-filter=links-to-html.lua \
-		--metadata mid_central_page="mid_central.html" \
+		--metadata ham_radio_page="ham_radio.html" \
 		--metadata pacific_page="pacific.html" \
 		--metadata socal_north_page="socal_north.html" \
 		--metadata tech_likely_page="tech_likely.html" \
@@ -152,7 +152,7 @@ index.html: .FORCE
 search.html: .FORCE
 	@echo '' | pandoc --metadata title="$(PROJECT) Search" \
 		--lua-filter=links-to-html.lua \
-		--metadata mid_central_page="mid_central.html" \
+		--metadata ham_radio_page="ham_radio.html" \
 		--metadata pacific_page="pacific.html" \
 		--metadata socal_north_page="socal_north.html" \
 		--metadata tech_likely_page="tech_likely.html" \
@@ -164,7 +164,7 @@ search.html: .FORCE
 README.html: .FORCE
 	@echo '' | pandoc --metadata title="Read about $(PROJECT)" \
 		--lua-filter=links-to-html.lua \
-		--metadata mid_central_page="mid_central.html" \
+		--metadata ham_radio_page="ham_radio.html" \
 		--metadata pacific_page="pacific.html" \
 		--metadata socal_north_page="socal_north.html" \
 		--metadata tech_likely_page="tech_likely.html" \

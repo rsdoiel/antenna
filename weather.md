@@ -1,11 +1,103 @@
 ---
 title: weather
-updated: 2024-09-03 08:33:16
+updated: 2024-09-03 10:31:58
 ---
 
 # weather
 
-(date: 2024-09-03 08:33:16)
+(date: 2024-09-03 10:31:58)
+
+---
+
+## SPC Sep 3, 2024 1730 UTC Day 2 Convective Outlook
+
+date: 2024-09-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1219 PM CDT Tue Sep 03 2024
+
+Valid 041200Z - 051200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS
+OF THE CENTRAL ROCKIES...CENTRAL HIGH PLAINS...NORTHERN PLAINS...AND
+THE MIDWEST....
+
+...SUMMARY...
+Isolated strong to severe storms are possible on Wednesday across
+parts of the central and northern Rockies and Plains into parts of
+Minnesota.
+
+...Synopsis...
+A broad, positively tilted trough with several embedded shortwave
+troughs will become more consolidated and start to amplify across
+the northern Plains on Wednesday and Wednesday night. At the
+surface, a cold front will move southeast across the northern Plains
+with scattered thunderstorms possible. The greater thunderstorm
+coverage is expected during the afternoon/evening across the central
+Rockies, beneath the coldest air aloft, and across northwest
+Wisconsin/eastern Minnesota early Thursday morning as the low-level
+jet intensifies along the frontal zone. 
+
+...Central Rockies into the central High Plains...
+Scattered to widespread thunderstorms are expected across the
+central Rockies on Wednesday afternoon as cold air aloft (-12C at
+500mb) combines with significant heating over the higher terrain.
+The greatest instability will be near the center of the vorticity
+maximum/cold air pocket where wind shear will be quite weak. Some
+wind gusts or isolated large hail will be possible, but a more
+organized threat seems unlikely. A more favorable wind profile will
+exist along the southern periphery of this trough from eastern Utah
+to southern Wyoming and northern Colorado. However, the warmer
+temperatures aloft within this corridor may limit storm
+coverage/intensity somewhat. Therefore, a few strong to locally
+severe storms are possible from southern Montana to northern
+Colorado, western Nebraska, and southwest South Dakota, however, a
+displacement between the best instability and wind shear should keep
+the threat somewhat limited.  
+
+...Upper Midwest...
+A mid-level shortwave trough will eject across the Dakotas, in the
+vicinity of the cold front, during the day Wednesday. Therefore, a
+few thunderstorms are possible along the cold front, but a lack of
+better moisture should mostly limit the daytime thunderstorm threat.
+However, as the low-level jet strengthens overnight, it will result
+in some moistening between 850mb and 700mb which will likely result
+in more widespread thunderstorm development after 06Z. During this
+period, mid-level flow will also strengthen from around 25 knots to
+near 35 knots by 12Z. This will improve the shear across the region
+and therefore, result in some threat for large hail and damaging
+wind gusts near sunrise as storms develop within a region of
+moderate instability and 30 to 35 knots of shear.
+
+..Bentley.. 09/03/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
+
+---
+
+## SPC - No watches are valid as of Tue Sep  3 17:23:01 UTC 2024
+
+date: 2024-09-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Tue Sep  3 17:23:01 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Tue Sep  3 17:23:01 UTC 2024
+
+date: 2024-09-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Tue Sep  3 17:23:01 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -13,29 +105,162 @@ updated: 2024-09-03 08:33:16
 
 date: 2024-09-03, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Tue, 03 Sep 2024 14:31:27 GMT 
+No tropical cyclones as of Tue, 03 Sep 2024 16:56:57 GMT 
 
 <https://www.nhc.noaa.gov/gis/>
 
 ---
 
-## SPC - No watches are valid as of Tue Sep  3 13:27:02 UTC 2024
+## SPC Day 1 Fire Weather Outlook
 
 date: 2024-09-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Sep  3 13:27:02 UTC 2024. 
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1143 AM CDT Tue Sep 03 2024
 
-<https://www.spc.noaa.gov/products/watch/>
+Valid 031700Z - 041200Z
+
+No changes are needed to the current D1 Fire Weather outlook. See
+previous discussion below for more information.
+
+..Thornton.. 09/03/2024
+
+.PREV DISCUSSION... /ISSUED 0102 AM CDT Tue Sep 03 2024/
+
+...Synopsis...
+Fire weather concerns will continue into today across parts of the
+northern Great Basin/northern Rockies as well as the Plains. The
+upper trough currently over OR is forecast to slowly shift east over
+the next 24 hours, reaching the northern Rockies by early Wednesday.
+As this occurs, breezy surface winds within the dry slot of the
+maturing low will support dry/windy conditions across parts of NV
+and ID. Over the Plains, a tightening surface pressure gradient will
+maintain windy conditions through the afternoon, resulting in areas
+of elevated to critical fire weather conditions. 
+
+...Nevada into Idaho...
+A pronounced dry slot is developing in low-level water-vapor imagery
+across the northwestern Great Basin/southern OR as the upper low
+continues to mature. This dry slot is forecast to spread east
+through this afternoon, which will limit cloud and precipitation
+chances for northern NV and central to eastern ID and help support
+RH reductions into the teens. Numerous lightning strikes have been
+observed over the past 24 hours across this region with GOES IR
+imagery showing active large fires as of 05 UTC. This fire activity
+demonstrates the very receptive nature of the current fuel landscape
+(with the exception of the few locations that received wetting
+rainfall), and any holdover fires that resulted from the recent
+lightning activity may become more active today as west/southwest
+winds increase by late afternoon. Latest deterministic and ensemble
+solutions continue to suggest 15-20 mph winds will be common,
+especially through the Snake River Plain of southern/eastern ID and
+in the lee of the Independence and Ruby Mountains in northeast NV. A
+few locations may see periods of critical wind/RH conditions, but
+recent guidance suggests elevated conditions are more likely.
+
+Away from the dry slot, isolated to scattered thunderstorms are
+expected again today across the broader central/northern Rockies
+region. Forecast storm motions near 30 knots and PWAT values between
+0.6 to 0.8 inches suggest dry lightning strikes are possible.
+However, higher MLCAPE values and lower LCL heights compared to
+yesterday (Monday) are mitigating factors for predominantly dry
+thunderstorms. Additionally, latest guidance shows a better QPF
+signal compared to previous days, which further limits confidence in
+the dry lightning threat. While this concern precludes risk
+highlights, any lightning strike may support fire starts given the
+very dry fuel conditions (ERCs above the 90th percentile).
+
+...Wyoming into Nebraska and South Dakota...
+Surface pressure has been steadily falling across western NE/SD over
+the past 12-24 hours, and is expected to fall further through the
+afternoon as a lee trough continues to deepen. This will maintain
+breezy southerly winds across the central Plains as well as
+strengthen westerly downslope flow across eastern WY this afternoon.
+Downslope warming/drying will result in another day of 15-20% RH
+minimums across eastern WY and far western NE/SD. Elevated fire
+weather conditions appear likely within the downslope regime prior
+to the arrival of clouds (and potentially showers/thunderstorms)
+around early evening.
+
+To the east, modest moisture return into the Plains is ongoing,
+which will result in a zonal moisture gradient across the Plains by
+mid afternoon. Recent solutions suggest that the strongest winds may
+lie within this moisture gradient, resulting in a somewhat confined
+corridor of elevated fire weather conditions where 15-25 mph winds
+(gusting to 30-35 mph at times) will overlap with 15-25% RH values.
+Although guidance occasionally struggles to accurately capture the
+degree of boundary-layer mixing within these return flow regimes,
+latest deterministic solutions appear to be capturing moisture
+trends well and don't show substantial signs of a moist bias. This
+lends confidence to the ongoing forecast of predominantly elevated
+fire weather conditions across the region (although some locations
+may see periods of critical conditions).
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
 
 ---
 
-## SPC - No MDs are in effect as of Tue Sep  3 13:27:02 UTC 2024
+## SPC Sep 3, 2024 1630 UTC Day 1 Convective Outlook
 
 date: 2024-09-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Tue Sep  3 13:27:02 UTC 2024. 
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1130 AM CDT Tue Sep 03 2024
 
-<https://www.spc.noaa.gov/products/md/>
+Valid 031630Z - 041200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+THE NORTHERN ROCKIES/GREAT BASIN AND ADJACENT HIGH PLAINS...
+
+...SUMMARY...
+Scattered thunderstorms developing across the northern Rockies and
+adjacent portions of the Great Basin this afternoon may yield an
+isolated severe risk, before spreading eastward toward the northern
+High Plains this evening.
+
+...Northern Great Basin/Rockies into the Adjacent High Plains...
+Visible-satellite imagery this morning shows a smoke-encased mid to
+upper-level low/vorticity maximum over central ID.  This upper
+feature will move to near southwest MT/eastern ID late tonight.  The
+satellite data late this morning shows agitated cumulus developing
+immediately ahead of the vorticity max near the ID/MT border, and as
+large-scale ascent spreads east, additional thunderstorms (widely
+scattered to scattered coverage) should develop over the higher
+terrain through early afternoon in tandem with daytime heating.
+
+Forecast soundings across southwest MT into northwest WY show
+500-1000 J/kg MLCAPE with some elongation of the hodograph.  A few
+of the stronger storms will probably acquire transient supercell
+characteristics and have an associated hail/wind threat.  Some
+clustering may eventually evolve by early evening as storms move
+into south-central MT and adjacent parts of northern WY.  
+
+Somewhat more limited low-level moisture should be present this
+afternoon farther south into WY and northern UT. Even so, diurnal
+heating will aid in a deeply mixed boundary layer by this afternoon,
+and steep mid-level lapse rates are also expected to remain over
+this region. The net result will be high-based thunderstorms capable
+of producing isolated severe gusts initially developing across
+northern UT into far eastern ID, and subsequently moving
+east-northeastward over WY through the evening.
+
+..Smith/Flournoy/Squitieri.. 09/03/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 
@@ -136,33 +361,34 @@ Forecaster Shigesato<br/>
 
 date: 2024-09-03, from: Central Pacific Basin Tropical Cyclones
 
-No tropical cyclones as of Tue, 03 Sep 2024 14:31:27 GMT 
+No tropical cyclones as of Tue, 03 Sep 2024 16:56:57 GMT 
 
 <https://www.nhc.noaa.gov/>
 
 ---
 
-## Eastern Pacific Tropical Weather Outlook
+## Eastern North Pacific Tropical Weather Outlook
 
-date: 2024-09-03, from: Eastern Pacific Tropical Weather Outlook
+date: 2024-09-03, from: Eastern Pacific Basin Tropical Cyclones
 
- <br />
- 115 <br />
- ABPZ20 KNHC 031146<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 500 AM PDT Tue Sep 3 2024<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Tropical cyclone formation is not expected during the next 7 days.<br />
- <br />
- $$<br />
- Forecaster Bucci<br />
- <br />
-  
+
+<br/>
+115 <br/>
+ABPZ20 KNHC 031146<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+500 AM PDT Tue Sep 3 2024<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Tropical cyclone formation is not expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Bucci<br/>
+<br/>
+ 
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
@@ -226,217 +452,6 @@ appears limited with no highlights required.
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## SPC Sep 2, 2024 1730 UTC Day 2 Convective Outlook
-
-date: 2024-09-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1227 PM CDT Mon Sep 02 2024
-
-Valid 031200Z - 041200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS OVER MUCH OF THE
-NORTHERN ROCKIES AND INTO THE EASTERN GREAT BASIN...
-
-...SUMMARY...
-Scattered strong storms with isolated severe may produce damaging
-wind gusts and marginal hail from the northern Intermountain region
-eastward into the northern High Plains, and southward into Utah.
-
-...Synopsis...
-On Tuesday, an upper trough will weaken as it moves from the
-Northwest into the northern Rockies, providing cooling aloft and
-increased mid and high level flow. To the east, a large upper trough
-will exit the northeastern states, with height rises over the
-north-central CONUS.
-
-At the surface, a weak cold front will move across the eastern Great
-Basin, ID, western WY and southwest MT by early afternoon,
-increasing lift/convergence. 
-
-Elsewhere, a moist air mass will remain from TX eastward across the
-Gulf Coast, with scattered non-severe storms likely.
-
-...Eastern Great Basin into the Northern Rockies...
-As heating accelerates and cooler temperatures overspread the
-region, steep lapse rates will yield a large area of thunderstorms,
-developing relatively early in the afternoon, from much of UT into
-southwest MT. The strongest instability with 500 to 1000 J/kg MUCAPE
-will be roughly from far northern UT into MT, where temperatures
-aloft will be coolest. Deep-layer effective shear will increase to
-around 40 kt, especially across ID, MT, and northwest WY, which will
-aid cellular storm mode and hail potential to around 1.00" in
-diameter. Otherwise, scattered storms across the entire area will
-produce outflows, with progressive clusters of storms producing
-strong to locally severe gusts. A few storms may make it as far east
-as western SD by late evening, with generally decreasing intensity
-after sunset.
-
-..Jewell.. 09/02/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2024-09-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1201 PM CDT Mon Sep 02 2024
-
-Valid 021700Z - 031200Z
-
-...CRITICAL FIRE WEATHER AREA FOR SOUTHERN OREGON INTO FAR NORTHEAST
-CALIFORNIA AND FAR NORTHWEST NEVADA...
-...CRITICAL FIRE WEATHER AREA FOR SOUTHEAST OREGON AND SOUTHWEST
-IDAHO...NORTHEAST NEVADA...AND FAR NORTHWEST UTAH...
-...CRITICAL FIRE WEATHER AREA FOR NORTHWEST NEBRASKA INTO WESTERN
-SOUTH DAKOTA...
-
-An active day of fire weather is anticipated across the Pacific
-Northwest, Great Basin, and portions of the High Plains. Morning 12z
-observed soundings from SLC (Salt Lake City, UT) and LKN (Elko, NV)
-indicate precipitable water values around 0.60". Midlevel moisture
-should increase through the day ahead of forcing for ascent with a
-midlevel wave currently just offshore in the Pacific Northwest. A
-mix of isolated to scattered wet/dry thunderstorms is expected by
-the afternoon with potential for new ignitions from lightning. In
-addition, Critical conditions are likely in the lee of the Sierra
-across Nevada and in the High Plains. No changes have been made to
-this forecast. See previous discussion for more information below.
-
-..Thornton.. 09/02/2024
-
-.PREV DISCUSSION... /ISSUED 0150 AM CDT Mon Sep 02 2024/
-
-...Synopsis...
-An active fire weather day is anticipated across the High Plains and
-Pacific Northwest/northern Great Basin. Fire weather concerns across
-the West will be associated with a progressive upper wave currently
-moving onshore along the northern CA coast, which is forecast to
-migrate into the interior Pacific Northwest over the next 24 hours.
-As this occurs, strengthening low-level winds will support dry/windy
-conditions, and lift ahead of the wave will promote isolated to
-scattered thunderstorms. To the east, flow across the northern to
-central Rockies is forecast to strengthen slightly within the apex
-of an upper ridge. This will result in modest surface pressure falls
-along the High Plains, which when juxtaposed with a building surface
-high over the Midwest will yield strong southerly winds and dry
-conditions. Fuels across both regions remain very dry (ERCs at or
-above the 90th percentile) after multiple days of dry conditions,
-which will support the fire weather concerns.
-
-...Pacific Northwest/Great Basin...
-Regional VWPs along the West Coast are beginning to observe the
-influence of the approaching wave with winds in the lowest few
-kilometers slowly strengthening since 00 UTC. Further
-intensification of the low-level wind field is anticipated, which
-will strengthen downslope flow off the central to northern Sierra
-Nevada. Dry conditions are already in place and will be maintained
-within the augmented downslope regime. Latest ensemble guidance
-continues to show a strong signal for afternoon RH values to fall
-into the teens with 15-25 mph winds. The strongest winds (and
-highest probability for sustained critical conditions) are expected
-from northeast CA into southern OR and far northwest NV as the
-mid-level jet max passes overhead around peak heating. 
-
-Over the past several days, a plume of monsoonal moisture has been
-tracked from southern AZ into northern NV and central to eastern OR.
-The 00 UTC MFR sounding sampled this air mass well, which is
-characterized by sufficient mid-level moisture to support weak
-convection, but a very dry boundary layer favorable for dry
-thunderstorms. Over the past two days, thunderstorms within this air
-mass across the Great Basin have been predominantly dry, and are
-expected to mainly be dry once again today for much of the region
-(one exception is from the Blue Mountains in northeast OR to the
-Salmon River Mountains in central ID where orographic ascent should
-support more prolonged convection with a higher probability for
-wetting rainfall). Stronger synoptic-scale forcing for ascent should
-result in greater thunderstorm coverage compared to previous days,
-warranting a scattered dry thunderstorm risk area from eastern OR
-into ID, northeast NV, and far northwest UT where latest CAM
-guidance shows the best convective signal.
-
-...High Plains...
-A recent frontal intrusion into the Plains/Midwest has shunted
-seasonally rich moisture southward into the southern Plains. A
-strong surface high in the wake of the front will shift east through
-the day concurrent with the deepening of a weak lee trough. A dry
-return flow regime will become established through the day as winds
-become more southerly. Latest deterministic and ensemble solutions
-show a fairly strong signal for 20-25 mph winds (gusting to 35 mph)
-across western NE into western SD with RH values falling into the
-low 20s to teens. Consequently, confidence in sustained critical
-conditions over an appreciable area has increased enough to warrant
-introducing a Critical risk area.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
-
----
-
-## SPC Sep 2, 2024 1630 UTC Day 1 Convective Outlook
-
-date: 2024-09-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1118 AM CDT Mon Sep 02 2024
-
-Valid 021630Z - 031200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-THE INTERIOR PACIFIC NORTHWEST INTO THE NORTHERN GREAT
-BASIN/ROCKIES...
-
-...SUMMARY...
-Isolated to scattered thunderstorms across the northern Great Basin
-and parts of the interior Pacific Northwest may be capable of
-occasional strong to severe wind gusts this afternoon and evening.
-
-...Interior Pacific Northwest into the Northern Great
-Basin/Rockies...
-Water-vapor imagery this morning shows a closed low near the
-northern CA/southern OR coast.  This upper feature will move east
-through OR and be situated along the OR/ID border by daybreak
-Tuesday.  A belt of stronger flow (30-50 kt 500-mb winds) will move
-through the base of the larger-scale mid-level trough and overspread
-northern NV into southwestern ID and eastern OR this afternoon into
-the early evening.  Large-scale ascent associated with the upper
-disturbance and the development of weak buoyancy (mainly via
-heating), will facilitate the development of isolated to scattered
-high-based thunderstorms beginning later this afternoon and
-persisting into the evening.  Forecast soundings show large surface
-temperature-dewpoint spreads (50 degrees F) with 9+ degrees C lapse
-rates into the mid levels and a dry sub-cloud layer.  Evaporative
-cooling of the more intense downdrafts will probably yield a risk
-for isolated 60-70 mph gusts before weakening later this evening.
-
-..Smith/Squitieri.. 09/02/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 

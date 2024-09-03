@@ -1,11 +1,84 @@
 ---
 title: central coast
-updated: 2024-09-03 08:33:14
+updated: 2024-09-03 10:31:57
 ---
 
 # central coast
 
-(date: 2024-09-03 08:33:14)
+(date: 2024-09-03 10:31:57)
+
+---
+
+## Santa Barbara Ice Hawks 18U Hockey Team Wins Labor Day Tournament
+
+date: 2024-09-03, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-ice-hawks.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-ice-hawks.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-ice-hawks.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-ice-hawks.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-ice-hawks.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-ice-hawks.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-ice-hawks.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-ice-hawks.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-ice-hawks.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-ice-hawks.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-ice-hawks.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Santa Barbara Ice Hawks 18U hockey squad earned a championship victory at the Vegas Junior Golden Knights Labor Day Tournament over the weekend. The Ice Hawks took on teams [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-ice-hawks-18u-hockey-team-wins-labor-day-tournament/">Santa Barbara Ice Hawks 18U Hockey Team Wins Labor Day Tournament</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-ice-hawks-18u-hockey-team-wins-labor-day-tournament/>
+
+---
+
+## Candlelight Vigil Will Pay Tribute to Israeli Hostages
+
+date: 2024-09-03, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A Candlelight Vigil to honor&#160;Israeli hostages will be held at 7 p.m. Tuesday, Sept. 3 at the Jewish Federation of Greater Santa Barbara, 524 Chapala St. “We are devastated at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/candlelight-vigil-will-pay-tribute-to-israeli-hostages/">Candlelight Vigil Will Pay Tribute to Israeli Hostages</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/candlelight-vigil-will-pay-tribute-to-israeli-hostages/>
+
+---
+
+## Brynn Albanese Named Santa Maria Philharmonic Concertmaster
+
+date: 2024-09-03, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Maria Philharmonic Society has introduced Brynn Albanese as concertmaster ahead of its upcoming concert season. Albanese&#8217;s career spans nearly four decades across multiple continents. After graduating from the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/brynn-albanese-named-santa-maria-philharmonic-concertmaster/">Brynn Albanese Named Santa Maria Philharmonic Concertmaster</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/brynn-albanese-named-santa-maria-philharmonic-concertmaster/>
+
+---
+
+## Music Academy of the West Posts 2024-25 Mariposa Concert Series
+
+date: 2024-09-03, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Music Academy of the West has announced its 2024-25 Mariposa Concert Series, a collection of concerts and experiences held in Hahn Hall, on the Music Academy’s Miraflores campus. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/music-academy-of-the-west-posts-2024-25-mariposa-concert-series/">Music Academy of the West Posts 2024-25 Mariposa Concert Series</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/music-academy-of-the-west-posts-2024-25-mariposa-concert-series/>
+
+---
+
+## Josephine Manriquez Villegas of Carpinteria, 1920-2024
+
+date: 2024-09-03, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Josephine Manriquez Villegas was born on March 25, 1920 in Carpinteria. She entered eternal rest on Aug. 30, 2024 at her residence, surrounded by her loving family. Her parents were [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/josephine-manriquez-villegas-of-carpinteria-1920-2024/">Josephine Manriquez Villegas of Carpinteria, 1920-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/josephine-manriquez-villegas-of-carpinteria-1920-2024/>
+
+---
+
+## Marjorie Luke Theatre to Screen ‘The Doctrine of Recovery’
+
+date: 2024-09-03, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>As part of its 20th anniversary celebration, the Marjorie Luke Theatre will present the Santa Barbara premiere of &#8220;The Doctrine of Recovery,” 4 p.m. Sunday, Sept. 15. The screening is [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/marjorie-luke-theatre-to-screen-the-doctrine-of-recovery/">Marjorie Luke Theatre to Screen &#8216;The Doctrine of Recovery&#8217;</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/marjorie-luke-theatre-to-screen-the-doctrine-of-recovery/>
 
 ---
 
@@ -13,7 +86,7 @@ updated: 2024-09-03 08:33:14
 
 date: 2024-09-03, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Daisy and Boots supervise vineyard work at Big Pond Ranch in Santa Ynez." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Daisy and Boots supervise vineyard work at Big Pond Ranch in Santa Ynez." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081024-POD-Doreen-Eyman.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The post <a href="https://www.noozhawk.com/vineyard-supervisors/">Vineyard Supervisors</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 

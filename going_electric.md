@@ -1,19 +1,91 @@
 ---
 title: going electric
-updated: 2024-09-03 08:33:21
+updated: 2024-09-03 10:32:02
 ---
 
 # going electric
 
-(date: 2024-09-03 08:33:21)
+(date: 2024-09-03 10:32:02)
 
 ---
 
-## 2025 Hyundai Ioniq 5 Gets 'Off-Road' XRT Trim, Native NACS
+## Tesla's New 'Actual Smart Summon' Can Come To You, But Can't Park Itself
 
 date: 2024-09-03, from: Inside EVs News
 
-The new XRT model gives you more capability off-road, and native Supercharger access gives you better endurance on-road.  
+Tesla's first attempt at launching "Smart Summon" was a disaster. After years of delays, it's finally back. 
+
+<https://insideevs.com/news/732381/tesla-actual-smart-summon-returns/>
+
+---
+
+## BYD is waiting for the US election to announce its new North American EV plant
+
+date: 2024-09-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/BYD-cheapest-electric-car.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/byd/">BYD</a> is waiting to see if former President Donald Trump or Vice President Kamala Harris wins the US election before it reveals plans for a new plant in Mexico. According to a new report, BYD is delaying the major announcement as it awaits the outcome.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="378243" href="https://electrek.co/2024/09/03/byd-us-election-new-north-american-ev-plant/#more-378243" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/03/byd-us-election-new-north-american-ev-plant/>
+
+---
+
+## Volvo just launched an electric semi truck with 600 km range
+
+date: 2024-09-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/volvo-fh-electric-on-country-road.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Volvo just launched a new long-range version of its FH Electric semi truck, with up to 600 km (373 miles) of range on a single charge.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,volvo-trucks" data-layer-viewtype="unknown" data-post-id="378223" href="https://electrek.co/2024/09/03/volvo-just-launched-an-electric-semi-truck-with-600-km-range/#more-378223" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/03/volvo-just-launched-an-electric-semi-truck-with-600-km-range/>
+
+---
+
+## Volkswagen May Close Factories In Europe: ‘It’s A Catastrophe’
+
+date: 2024-09-03, from: Inside EVs News
+
+Volkswagen responded to the Dieselgate scandal with an aggressive EV push. But that’s not going well and now it’s considering plant closures. 
+
+<https://insideevs.com/news/732369/vw-historic-factory-closures-in-germany-ev-sales/>
+
+---
+
+## Kia EV6 Facelift Debuts In The U.K. With More Range, Quicker Charging
+
+date: 2024-09-03, from: Inside EVs News
+
+Say what you will about the new headlight design, the revised EV6 is still better than before with more range and quicker charging. 
+
+<https://insideevs.com/news/732341/kia-ev6-uk-facelift-detailed/>
+
+---
+
+## Meet the new 2025 Hyundai IONIQ 5: Built in the US with more range and new XRT trim
+
+date: 2024-09-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Hyundai-US-made-IONIQ-5.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The moment we’ve been waiting for is finally here. Hyundai’s best-selling electric SUV now has even more range and features. Hyundai unveiled the US-made 2025 <a href="https://electrek.co/guides/hyundai-ioniq-5/">IONIQ 5</a> on Tuesday, including a rugged new XRT model. Perhaps even more important, it’s Hyundai’s first EV with a Tesla NACS port.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="378210" href="https://electrek.co/2024/09/03/hyundai-unveils-us-made-ioniq-5-more-range-bold-xrt-trim/#more-378210" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/03/hyundai-unveils-us-made-ioniq-5-more-range-bold-xrt-trim/>
+
+---
+
+## 2025 Hyundai Ioniq 5 Gets 'Off-Road' XRT Trim, Native Tesla NACS
+
+date: 2024-09-03, from: Inside EVs News
+
+The new XRT model gives you more capability off-road, and native Tesla Supercharger access gives you better endurance on-road.  
 
 <https://insideevs.com/news/732351/2025-ioniq-5-xrt/>
 

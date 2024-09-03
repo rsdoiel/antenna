@@ -1,11 +1,85 @@
 ---
 title: writing
-updated: 2024-09-03 08:33:17
+updated: 2024-09-03 10:31:58
 ---
 
 # writing
 
-(date: 2024-09-03 08:33:17)
+(date: 2024-09-03 10:31:58)
+
+---
+
+## Scriptnotes, Episode 648: Farewell Scenes, Transcript
+
+date: 2024-09-03, from: John August blog
+
+The original post for this episode can be found here. John August: Hey, this is John. Heads up that today’s episode has just a little bit of swearing in it. Hello and welcome. My name is John August, and you’re listening to Episode 648 of Scriptnotes. It’s a podcast about screenwriting and things that are [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-648-farewell-scenes-transcript">Scriptnotes, Episode 648: Farewell Scenes, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-648-farewell-scenes-transcript>
+
+---
+
+## Scriptnotes, Episode 647: Crafting Your Ending, Transcript
+
+date: 2024-09-03, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August and you’re listening to Episode 647 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today I am so lucky to have two Scriptnotes producers in the studio with me. Megana [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-647-crafting-your-ending-transcript">Scriptnotes, Episode 647: Crafting Your Ending, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-647-crafting-your-ending-transcript>
+
+---
+
+## New Books, 3 September 2024
+
+date: 2024-09-03, from: Locus Magazine
+
+<p>Aiello, K.J.: <b>The Monster and the Mirror: Mental Illness, Magic, and the Stories We Tell</b>
+(ECW Press 9781770417083, $18.95, 272pp, formats: trade paperback, ebook, 09/03/2024)</p>
+<p>Non-fiction, a memoir mixed with research and cultural criticism showing ways popular fantasy can serve as a framework for understanding mental illness and notions of what is good or evil, sane or mad.</p>
+<p>&#160;</p>
+<p>Buffini, Moira: <b>Songlight</b>
+(HarperCollins 9780063358218, $19.99, 384pp, formats: hardcover, ebook, audio,  <a href="https://locusmag.com/2024/09/new-books-3-september-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/new-books-3-september-2024/>
+
+---
+
+## Weekly Bestsellers, 2 September 2024
+
+date: 2024-09-03, from: Locus Magazine
+
+<div style="padding: 14px 0px 0px 0px; text-align: center;">
+<p>Two debuts this week. Frances White&#8217;s <b>Voyage of the Damned</b> (Mira) is #22 on Publishers Weekly&#8216;s fiction hardcover list. And Brandon Sanderson&#8217;s <b>Wind and Truth</b> (Tor), fifth book in his Stormlight Archive series, appears on two Amazon lists with pre-publication orders; the book is due December 6th.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+09.08
+LAT
+09.01
+USAT 
+08.25
+PW 
+09.02
+Amz 
+(09.02)
+UK:
+Amz UK 
+(09.02)
+Canada:
+Amz.ca <a href="https://locusmag.com/2024/09/weekly-bestsellers-2-september-2024/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/09/weekly-bestsellers-2-september-2024/>
 
 ---
 

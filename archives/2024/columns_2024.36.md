@@ -1,11 +1,70 @@
 ---
 title: columns
-updated: 2024-09-03 08:33:15
+updated: 2024-09-03 10:31:57
 ---
 
 # columns
 
-(date: 2024-09-03 08:33:15)
+(date: 2024-09-03 10:31:57)
+
+---
+
+##  Even if autonomous vehicles work perfectly, they will likely not decrease emissions... 
+
+date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045212-even-if-autonomous-vehicl>
+
+---
+
+## More on the Clooney-Pitt Movie ‘Wolfs’
+
+date: 2024-09-03, updated: 2024-09-03, from: Daring Fireball
+
+ 
+
+<https://www.vanityfair.com/hollywood/story/wolfs-jon-watts-interview-streaming-release-exclusive>
+
+---
+
+## RF safety experiments - Meat & Pickles demonstrate foldback
+
+date: 2024-09-03, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">RF safety experiments - Meat &amp; Pickles demonstrate foldback</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>A few months ago, our <a href="https://www.instagram.com/insights/media/3333127873529510767/">AM radio hot dog experiment</a> went mildly viral. That was a result of me asking my Dad 'what would happen if you ground a hot dog to one of your AM radio towers?' He didn't know, so one night on the way to my son's volleyball practice, we tested it. And it was <em>awesome</em>.</p>
+
+<p>There's a video and some pictures in my <a href="https://www.jeffgeerling.com/blog/2024/talking-hot-dog-gives-new-meaning-ham-radio">hot dog radio blog post</a> from back in March.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-09-03T11:25:33-05:00" title="Tuesday, September 3, 2024 - 11:25" class="datetime">September 3, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/rf-safety-experiments-meat-pickles-demonstrate-foldback>
+
+---
+
+##  Why TV Is Wrong for Tolkien 
+
+date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/why-tv-is-wrong-for-tolkien>
+
+---
+
+## List of Old NSA Training Videos
+
+date: 2024-09-03, updated: 2024-09-03, from: Bruce Schneier blog
+
+<p>The NSA&#8217;s &#8220;<a href="https://www.governmentattic.org/28docs/NatnlCryptoSchoolTVctrCat_1991.pdf">National Cryptographic School Television Catalogue</a>&#8221; from 1991 lists about 600 COMSEC and SIGINT training videos.</p>
+<p>There are a bunch explaining the operations of various cryptographic equipment, and a few code words I have never heard of before.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/09/list-of-old-nsa-training-videos.html>
 
 ---
 

@@ -1,11 +1,63 @@
 ---
 title: home
-updated: 2024-09-03 08:33:18
+updated: 2024-09-03 10:32:00
 ---
 
 # home
 
-(date: 2024-09-03 08:33:18)
+(date: 2024-09-03 10:32:00)
+
+---
+
+## How They Pulled It Off: Custom Millwork Transforms an Office Into a Guest Room
+
+date: 2024-09-03, from: Dwell
+
+A family in San Francisco makes clever use of minimal space with hidden storage in almost every room. 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-custom-millwork-transforms-an-office-into-a-guest-room-900280cb>
+
+---
+
+## A Renovation Expands an Existing Pergola For a Productive Green Facade
+
+date: 2024-09-03, from: Dwell
+
+The eco-friendly feature merges old and new—and hosts a sprouting garden complete with passion fruit, kiwi, and grape vines. 
+
+<https://www.dwell.com/article/a-renovation-expands-an-existing-pergola-for-a-productive-green-facade-251c25a8>
+
+---
+
+## A $2.2M L.A. Midcentury Hits the Market for the First Time
+
+date: 2024-09-03, from: Dwell
+
+Built in 1960, the Michell Residence has walls of stone and a dramatic floating fireplace that’s sure to start conversations. 
+
+<https://www.dwell.com/article/joseph-o-michell-residence-midcentury-los-angeles-real-estate-d739f486>
+
+---
+
+## When and How to Fertilize Palms
+
+date: 2024-09-03, from: The Gardener's Path
+
+<p>Whether potted indoors or grown in the landscape, palms create a tropical ambiance wherever they grow. Unfortunately, these plants may suffer from nutrient deficiencies depending on the soil. Learn more about the symptoms of nutrient deficiency and how to fertilize palms for optimal health in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/fertilize-palms/">When and How to Fertilize Palms</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/landscape-trees/fertilize-palms/>
+
+---
+
+## Secretary Ross joins state colleagues to champion workforce development as an economic driver
+
+date: 2024-09-03, from: Calfifornia Dept. Aggriculture blog
+
+CDFA Secretary Karen Ross, along with the California Jobs First Council, recently toured the Livermore headquarters of GILLIG, the leading heavy-duty transit bus manufacturer in the United States. GILLIG&#8217;s commitment to investing in its workforce and pioneering clean, zero-emission buses &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28113">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28113>
 
 ---
 
@@ -16,6 +68,16 @@ date: 2024-09-03, from: Family Handyman Blog
 Popular French luggage brand Delsey Paris collaborated with Jeep to create luggage and travel bags made for the outdoors. 
 
 <https://www.familyhandyman.com/article/delsey-paris-jeep-luggage/>
+
+---
+
+## 6 Ways to Embrace Fall in Your Home Right Now
+
+date: 2024-09-03, from: Sunset Magazine - Living in the West
+
+Autumn never looked so good. Here's how to embrace fall in your home decor right now. 
+
+<https://www.sunset.com/home-garden/design/6-ways-to-embrace-fall-in-your-home-right-now>
 
 ---
 
