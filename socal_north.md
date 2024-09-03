@@ -1,15 +1,99 @@
 ---
 title: socal north 2024.36
-updated: 2024-09-02 10:39:27
+updated: 2024-09-03 07:33:06
 ---
 
 # socal north 2024.36
 
-(date: 2024-09-02 10:39:27)
+(date: 2024-09-03 07:33:06)
 
 ---
 
-## Your SoCal weather report for Labor Day, Sept. 2:  Another heatwave expected to scorch SoCal
+## Another heatwave expected to scorch SoCal. We have tips on staying cool
+
+date: 2024-09-03, updated: 2024-09-03, from: The LAist
+
+Heatwave officially kicks off for the Southland. 
+
+<https://laist.com/news/climate-environment/la-weather-report-sept-3-heat-wave-excessive-heat-watch>
+
+---
+
+## Can a dorm shared between colleges be the solution to California's student housing needs?
+
+date: 2024-09-03, updated: 2024-09-03, from: The LAist
+
+Housing going up at UC Riverside will create much-needed space for university students — and also for hundreds of community college students who are encouraged to transfer. 
+
+<https://laist.com/news/education/uc-riverside-community-college-district-new-dorm>
+
+---
+
+## LGBTI protections expand as public acceptance grows, Williams Institute finds
+
+date: 2024-09-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Social acceptance correlates strongly with legal protections for LGBTI individuals, according to a new report from the Williams Institute at the UCLA School of Law.
+Researchers analyzed a variety of factors to categorize countries by their stages of LGBTI  protection, a process detailed in the report. 
+
+<https://dailybruin.com/2024/09/02/lgbti-protections-expand-as-public-acceptance-grows-williams-institute-finds/>
+
+---
+
+## Market review: 626 Night Market brings remarkable vivacity amid pricey, crowded climate
+
+date: 2024-09-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+The 626 Night Market serves up plenty of flavor, but not without a side of frustration.
+The famed marketplace made its highly anticipated return to Arcadia’s Santa Anita Park this weekend, kicking off on Friday and wrapping up Sunday. 
+
+<https://dailybruin.com/2024/09/02/market-review-626-night-market-brings-remarkable-vivacity-amid-pricey-crowded-climate/>
+
+---
+
+## Five Things: UCLA vs. Hawaiʻi
+
+date: 2024-09-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Sept 2. at 11:13 p.m.</em>
+UCLA football (1-0) managed a narrow 16-13 victory over Hawaiʻi (1-1) in its season opener Saturday evening in Honolulu. 
+
+<https://dailybruin.com/2024/09/02/five-things-ucla-vs-hawaii-2/>
+
+---
+
+## UCLA women’s volleyball claim victories in season openers at GT Invitational
+
+date: 2024-09-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Bruins close to home shone the brightest in Atlanta.
+At the GT Invitational, a pair of American Southeast locals led the way to UCLA women’s volleyball’s (2-0) five-set comeback victory over No. 
+
+<https://dailybruin.com/2024/09/02/ucla-womens-volleyball-claim-victories-in-season-openers-at-gt-invitational/>
+
+---
+
+## The Bruin U-Pass
+
+date: 2024-09-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+One item that is essential for incoming students to be aware of is the Bruin U-Pass. It grants all UCLA undergrads fare-free rides on several public transportation systems, enabling travel around Los Angeles. 
+
+<https://dailybruin.com/2024/09/02/the-bruin-u-pass-2/>
+
+---
+
+## As landslide worsens, power shutoffs expand for Rancho Palos Verdes residents
+
+date: 2024-09-02, updated: 2024-09-02, from: The LAist
+
+About 100 additional homes, located in the Seaview area, will have their power shut off Monday evening. 
+
+<https://laist.com/news/climate-environment/power-outage-rancho-palos-verdes-residents>
+
+---
+
+## Another heatwave expected to scorch SoCal. We have tips on staying cool
 
 date: 2024-09-02, updated: 2024-09-02, from: The LAist
 
@@ -160,7 +244,8 @@ date: 2024-09-01, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-09-01, from: The Daily Bruin (UCLA Student Newspaper)
 
-Daniel Atkinson, a professor of chemistry and biochemistry, died Feb. 2. He was 102 years old. 
+<em>This post was updated Sept. 2 at 10:20 p.m.</em>
+Daniel Atkinson, a professor of chemistry and biochemistry, died Feb. 2. He was 102 years old.
 Atkinson, one of the namesakes of the UCLA Daniel E. 
 
 <https://dailybruin.com/2024/08/31/daniel-atkinson-long-time-ucla-professor-and-influential-biochemist-dies-at-102/>
@@ -177,10 +262,11 @@ Glued to VR goggles and the sofa, video game-obsessed children are not the only 
 
 ---
 
-## UCLA defeats Hawai’i with second half charge in first look at Foster’s system
+## UCLA defeats Hawaiʻi with second half charge in first look at Foster’s system
 
 date: 2024-09-01, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Sept. 2 at 11:24 p.m.</em>
 HONOLULU – There were debuts galore Saturday afternoon in Honolulu.
 And they ran the gamut –&#160;the Bruins in the Big Ten, coach DeShaun Foster at the team’s helm, redshirt senior Ethan Garbers at starting quarterback and associate head coach and offensive coordinator Eric Bieniemy’s NFL-style offense.&#160;
 Halfway through the duel, though, lackluster was the fitting term for each new look. 

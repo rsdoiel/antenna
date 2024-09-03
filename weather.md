@@ -1,11 +1,214 @@
 ---
 title: weather 2024.36
-updated: 2024-09-02 10:39:31
+updated: 2024-09-03 07:33:10
 ---
 
 # weather 2024.36
 
-(date: 2024-09-02 10:39:31)
+(date: 2024-09-03 07:33:10)
+
+---
+
+## SPC - No watches are valid as of Tue Sep  3 13:27:02 UTC 2024
+
+date: 2024-09-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Tue Sep  3 13:27:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Tue Sep  3 13:27:02 UTC 2024
+
+date: 2024-09-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Tue Sep  3 13:27:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Sep 3, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-09-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0734 AM CDT Tue Sep 03 2024
+
+Valid 031300Z - 041200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+THE NORTHERN ROCKIES/GREAT BASIN AND ADJACENT HIGH PLAINS...
+
+...SUMMARY...
+Thunderstorms developing across the northern Rockies and adjacent
+portions of the Great Basin this afternoon may produce occasional
+strong to severe wind gusts, before spreading eastward toward the
+northern High Plains this evening.
+
+...Northern Great Basin/Rockies into the Adjacent High Plains...
+An upper trough/low over the Pacific Northwest this morning will
+continue moving eastward today across the northern Rockies. This
+feature is forecast to gradually weaken through the period, but
+enhanced mid-level west-southwesterly flow will persist across parts
+of the northern Great Basin into the northern Rockies and adjacent
+High Plains. As large-scale ascent associated with the upper trough
+overspreads the northern Rockies, thunderstorms should develop over
+the higher terrain through early afternoon in tandem with daytime
+heating.
+
+Latest surface observations show somewhat greater low-level moisture
+across this region, with surface dewpoints generally in the mid 40s
+to low 50s across central ID into southwest MT. Although instability
+is forecast to remain fairly modest this afternoon, deep-layer shear
+around 25-35 kt should be sufficient to support organized
+convection, including the potential for a couple of marginal
+supercells initially with associated hail/wind threat. With
+steepened low/mid-level lapse rates present, this activity should
+continue to pose some threat for isolated strong to severe wind
+gusts as it congeals and spreads east-northeastward across parts of
+the northern High Plains through this evening.
+
+Somewhat more limited low-level moisture should be present this
+afternoon farther south into WY and northern UT. Even so, diurnal
+heating will aid in a deeply mixed boundary layer by this afternoon,
+and steep mid-level lapse rates are also expected to remain over
+this region. The net result will be high-based thunderstorms capable
+of producing isolated strong to severe winds initially developing
+across northern UT into far eastern ID, and subsequently moving
+east-northeastward over WY through the evening. Confidence in a more
+concentrated corridor of severe winds remains generally low at this
+time given the weak instability and modest deep-layer shear
+forecast, especially with southward extent into the northern Great
+Basin and WY.
+
+..Gleason/Leitman.. 09/03/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-09-03, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Tue, 03 Sep 2024 12:17:09 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-09-03, from: Central Pacific Basin Tropical Cyclones
+
+No tropical cyclones as of Tue, 03 Sep 2024 12:17:09 GMT 
+
+<https://www.nhc.noaa.gov/>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-09-03, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Tue Sep 3 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Caribbean Sea: <br>A tropical wave is producing disorganized showers and thunderstorms <br>over Hispaniola and portions of the central Caribbean Sea.  <br>This system is expected to move westward, and a tropical depression <br>could form when it reaches the western Caribbean Sea and the<br>southwestern Gulf of Mexico late this week or over the weekend.<br>* Formation chance through 48 hours...low...near 0 percent. <br>* Formation chance through 7 days...medium...40 percent.<br><br />
+2. Eastern Tropical Atlantic Ocean:<br>A tropical wave over the far eastern Atlantic is producing <br>disorganized showers and thunderstorms.  Environmental conditions <br>are forecast to become a little more conducive for development, and <br>a tropical depression could form later this week while the <br>disturbance moves slowly west-northwestward or northwestward over <br>the eastern tropical Atlantic Ocean.  This system could produce <br>locally heavy rains and gusty winds across portions of the Cabo <br>Verde Islands in a day or two.<br>* Formation chance through 48 hours...low...10 percent. <br>* Formation chance through 7 days...medium...40 percent.<br><br />
+3. Central Tropical Atlantic Ocean:<br>Another tropical wave located about midway between the west coast <br>of Africa and the Lesser Antilles is producing disorganized showers <br>and thunderstorms.  Some slow development is possible during the <br>next couple of days while the system moves west-northwestward.  By <br>the end of the week, however, environmental conditions are expected <br>to become unfavorable for additional development.<br>* Formation chance through 48 hours...low...10 percent. <br>* Formation chance through 7 days...low...10 percent.<br><br />
+<br>Forecaster Cangialosi/R. Zelinsky<br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## CPHC Central North Pacific Outlook
+
+date: 2024-09-03, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>200 AM HST Tue Sep 3 2024<br><br>For the central North Pacific...between 140W and 180W:<br><br>No tropical cyclones are expected during the next 7 days.<br><br>$$<br>Forecaster Shigesato<br>NNNN<br><br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## NHC Eastern North Pacific Outlook
+
+date: 2024-09-03, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_2d0_resize.gif" alt="Eastern North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_7d0_resize.gif" alt="Eastern North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOEP ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>500 AM PDT Tue Sep 3 2024<br><br>For the eastern North Pacific...east of 140 degrees west longitude:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Bucci<br>NNNN<br><br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2024-09-03, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0127 AM CDT Tue Sep 03 2024
+
+Valid 041200Z - 051200Z
+
+...NO CRITICAL AREAS...
+
+...Synopsis...
+Fire weather concerns are expected to be limited for Wednesday
+across the country. The upper-level low currently over parts of the
+Pacific Northwest is forecast to de-amplify and drift east into the
+Plains. As this occurs, weak ascent will support widespread cloud
+cover as well as isolated to scattered showers and thunderstorms
+across the central Rockies to central Plains. The surface pressure
+trough currently in place along the High Plains will shift
+east/southeast through the day, and while breezy conditions are
+likely just ahead of the boundary, increasing moisture return into
+the Plains will modulate diurnal RH reductions. Across the West,
+building surface high pressure should limit wind speeds.
+Consequently, the potential for elevated fire weather concerns
+appears limited with no highlights required.
+
+..Moore.. 09/03/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -64,118 +267,6 @@ after sunset.
  
 
 <https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## SPC - No watches are valid as of Mon Sep  2 17:32:01 UTC 2024
-
-date: 2024-09-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Mon Sep  2 17:32:01 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Mon Sep  2 17:32:01 UTC 2024
-
-date: 2024-09-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Mon Sep  2 17:32:01 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-09-02, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Mon, 02 Sep 2024 17:28:35 GMT 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2024-09-02, from: Central Pacific Tropical Weather Outlook
-
- <br />
- 874 <br />
- ACPN50 PHFO 021728<br />
- TWOCP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS Central Pacific Hurricane Center Honolulu HI<br />
- 800 AM HST Mon Sep 2 2024<br />
- <br />
- For the central North Pacific...between 140W and 180W:<br />
- <br />
- No tropical cyclones are expected through the next 7 days.<br />
- <br />
- $$<br />
- Forecaster TS<br />
- <br />
-  
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-09-02, from: Central Pacific Basin Tropical Cyclones
-
-No tropical cyclones as of Mon, 02 Sep 2024 17:28:35 GMT 
-
-<https://www.nhc.noaa.gov/>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2024-09-02, from: Eastern Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ABPZ20 KNHC 021726<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 1100 AM PDT Mon Sep 2 2024<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Tropical cyclone formation is not expected during the next 7 days.<br />
- <br />
- $$<br />
- Forecaster D. Zelinsky<br />
-  
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-09-02, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Mon Sep 2 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Northwestern Gulf of Mexico:<br>A broad and weak area of low pressure just offshore of the middle <br>Texas coast continues to produce some disorganized shower activity <br>along portions of the coast of Texas and over the adjacent waters of <br>the northwestern Gulf of Mexico.  This system is expected to move <br>inland early Tuesday, and development is not expected.  Regardless, <br>heavy rains could cause some flash flooding across portions of the <br>Texas coast during the next day or two.<br>* Formation chance through 48 hours...low...near 0 percent. <br>* Formation chance through 7 days...low...near 0 percent.<br><br />
-2. Near the Lesser Antilles and Caribbean Sea:<br>A tropical wave is producing disorganized thunderstorms and gusty <br>winds across portions of the Lesser Antilles, Puerto Rico, <br>Hispaniola and over the adjacent waters.  Environmental conditions <br>are forecast to become more conducive for development when the <br>system reaches the western Caribbean Sea and southwestern Gulf of <br>Mexico late this week and over the weekend, and a tropical <br>depression could form during that time.  <br>* Formation chance through 48 hours...low...near 0 percent. <br>* Formation chance through 7 days...medium...40 percent.<br><br />
-3. Eastern Tropical Atlantic Ocean:<br>A tropical wave over the far eastern Atlantic is producing <br>disorganized showers and thunderstorms.  Environmental conditions <br>are forecast to become a little more conducive for development, and <br>a tropical depression could form in a few days while the disturbance <br>moves slowly west-northwestward or northwestward over the eastern <br>tropical Atlantic Ocean.  This system could produce areas of heavy <br>rain and gusty winds across portions of the Cabo Verde Islands in a <br>day or two.<br>* Formation chance through 48 hours...low...10 percent. <br>* Formation chance through 7 days...medium...40 percent.<br><br />
-<br>Forecaster Cangialosi<br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
@@ -329,58 +420,6 @@ for isolated 60-70 mph gusts before weakening later this evening.
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
-
----
-
-## SPC Sep 2, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-09-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0738 AM CDT Mon Sep 02 2024
-
-Valid 021300Z - 031200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-THE INTERIOR PACIFIC NORTHWEST INTO THE NORTHERN GREAT
-BASIN/ROCKIES...
-
-...SUMMARY...
-Isolated to scattered thunderstorms across the northern Great Basin
-and parts of the interior Pacific Northwest may be capable of
-occasional strong to severe wind gusts this afternoon and evening.
-
-...Interior Pacific Northwest into the Northern Great
-Basin/Rockies...
-A closed upper low approaching the northern CA and OR Coast will
-continue eastward today across the Pacific Northwest and northern
-Great Basin. Associated 35-50 kt mid-level south-southwesterlies
-will overspread these regions through the afternoon and evening.
-Large-scale ascent attendant to the upper low has already encouraged
-weak, elevated convection this morning across pats of eastern OR and
-vicinity. Current expectations are for additional showers and
-thunderstorms to develop later this afternoon as daytime heating
-occurs, mainly across parts of central/eastern OR into ID and
-northern NV/northwest UT. This convection will likely be rather
-high-based (LCLs around 3-4 km AGL), as latest surface observations
-and area 12Z soundings show very limited low-level moisture, and
-total PWAT values generally 0.5-0.7 inches. Even with rather weak
-buoyancy forecast across much of this area, a deeply mixed boundary
-layer should encourage efficient evaporative cooling of convective
-downdrafts. An isolated risk for strong/gusty winds approaching and
-occasionally exceeding severe levels remains apparent with this
-high-based convection as it spreads generally north-northeastward
-through the afternoon/evening before eventually weakening.
-
-..Gleason/Leitman.. 09/02/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 

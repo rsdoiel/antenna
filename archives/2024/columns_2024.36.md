@@ -1,11 +1,95 @@
 ---
 title: columns 2024.36
-updated: 2024-09-02 10:39:31
+updated: 2024-09-03 07:33:09
 ---
 
 # columns 2024.36
 
-(date: 2024-09-02 10:39:31)
+(date: 2024-09-03 07:33:09)
+
+---
+
+##  Colossal, one of my all-time favorite sites on these here interwebs, has... 
+
+date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045203-colossal-one-of-my-all-ti>
+
+---
+
+##  Can AI Make Art? 
+
+date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/can-ai-make-art>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-03, from: Dave Winer's Scripting News)
+
+At the beginning of the Trade Secrets <a href="https://web.archive.org/web/20040923224915/http://secrets.scripting.com/2004/09/22#a26">podcast</a> on Sept 22, 2004, is when I would say it got its name. Adam and I were the leaders of the community. It had been discussed briefly on the mail list. We all recognized that what we were doing needed a name. There was a consensus, it was a small community by then, very collegial. Dave Slusher had already used the term in his podcast (according to <a href="https://podnews.net/article/history-of-word-podcast">James Cridland</a>), so I said in the Trade Secrets show, let's just go ahead and use it. I did mention Ben Hammersley. So he's not out of the story, but he's not the person who gave podcasting its name. September 2004 was the moment when podcasting became something. It's rare in things like this that you can point to a moment, but we can <a href="https://trends.google.com/trends/explore?date=all&q=podcast">here</a>, and the record should make that very clear. You could say Hammersley was the first to publish the term in a piece he wrote, but he played no role in the bootstrap, as far as I know. I'd say that by the end of 2004 it was on its way, I basically stepped back and enjoyed the medium along with everyone else. Adam started a company. I would have liked to have started a company then, but it wasn't meant to be. That all happened 20 years ago. 
+
+<http://scripting.com/2024/09/03.html#a132058>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-03, from: Dave Winer's Scripting News)
+
+I started a new <a href="https://this.how/podcasting/howPodcastingGotItsName.opml">this.how doc</a> on how podcasting got its name, so I could include new information. It links back to the piece I wrote in 2014. I have done this before, when a blog post I wrote became something I wanted to add to over time. Two examples -- <a href="https://this.how/standards/">Rules for standards-makers</a> and <a href="https://this.how/trolls/">Trolls</a>. 
+
+<http://scripting.com/2024/09/03.html#a131258>
+
+---
+
+##  What are we going to do with abundant, free, renewable energy? &#8220;[By... 
+
+date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045201-what-are-we-going-to>
+
+---
+
+## Six ways to rein in Musk
+
+date: 2024-09-03, from: Robert Reich's blog
+
+(And Musk&#8217;s infantile response to my criticisms) 
+
+<https://robertreich.substack.com/p/how-to-put-musk-out-of-business>
+
+---
+
+## Childfree cat lady 👋
+
+date: 2024-09-03, from: Tracy Durnell Blog
+
+So&#8230; is it political to mention that I happily have cats and not children? It shouldn&#8217;t be, but it&#8217;s been made into a political statement in this election. That becomes a way to silence women when political content on social platforms is policed. &#160; See also: Cultural coercion and the question of choice Who decides [&#8230;] 
+
+<https://tracydurnell.com/2024/09/02/childfree-cat-lady-%f0%9f%91%8b/>
+
+---
+
+## September 2, 2024
+
+date: 2024-09-03, from: Heather Cox Richardson blog
+
+In an interview with right-wing host Mark Levin on the Fox News Channel last night, Trump complained about the new grand jury indictment of him for trying to steal the 2020 presidential election. 
+
+<https://heathercoxrichardson.substack.com/p/september-2-2024>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-02, from: Dave Winer's Scripting News)
+
+And the <a href="https://shownotes.scripting.com/podcast0/2024/09/02/aDriveThroughSaskatchewanOnTheTranscanadaHighway.html">show notes</a> for the podcast from <a href="http://scripting.com/2004/09/02.html">Sept 2, 2004</a>. Fans of Adam Curry's podcasting will like this one. It's about this time that the collaboration starts becoming a community. Next episode is on Sept 5. 
+
+<http://scripting.com/2024/09/02.html#a212559>
 
 ---
 
@@ -74,7 +158,7 @@ date: 2024-09-02, from: Dave Winer's Scripting News
 
 **@Dave Winer's Scripting News** (date: 2024-09-02, from: Dave Winer's Scripting News)
 
-Here's the <a href="https://shownotes.scripting.com/podcast0/2024/09/02/firstInthecarPodcast.html">show notes page</a> for the podcast from Sept 1, 2004. 
+Here's the <a href="https://shownotes.scripting.com/podcast0/2024/09/02/firstInthecarPodcast.html">show notes page</a> for the podcast from <a href="http://scripting.com/2004/09/01.html">Sept 1, 2004</a>. 
 
 <http://scripting.com/2024/09/02.html#a124550>
 

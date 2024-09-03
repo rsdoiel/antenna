@@ -1,11 +1,485 @@
 ---
 title: pacific 2024.36
-updated: 2024-09-02 10:39:28
+updated: 2024-09-03 07:33:07
 ---
 
 # pacific 2024.36
 
-(date: 2024-09-02 10:39:28)
+(date: 2024-09-03 07:33:07)
+
+---
+
+## Haley’s voters size up a scrambled presidential race
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>LANSDALE, Pa. &#8212; Nikki Haley had been out of the Republicans&#8217; presidential race for more than a month when Linda Kapralick and Cathleen Barone cast their ballots for her in Pennsylvania&#8217;s primary, so eager were they for an alternative to former President Donald Trump.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/nation-world-news/haleys-voters-size-up-a-scrambled-presidential-race/>
+
+---
+
+## Pawehi Ho‘ike: ‘A very authentic experience’
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>Hilo is the hula capital of Hawaii, therefore the world &#8212; but outside of Merrie Monarch Festival week, hula that appeals to locals as well as visitors is seldom a part of Hilo&#8217;s entertainment scene.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/hawaii-news/pawehi-hoike-a-very-authentic-experience/>
+
+---
+
+## Harris and Walz, in crucial ‘blue wall’ states, rally for union support
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>DETROIT &#8212; Vice President Kamala Harris, seeking to press her advantage with union voters, stormed into Detroit for a Labor Day union rally Monday, telling organized-labor supporters that the country celebrates unions &#8220;because unions helped build America.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/nation-world-news/harris-and-walz-in-crucial-blue-wall-states-rally-for-union-support/>
+
+---
+
+## U.S. Transportation Department holds fate of Alaska-Hawaiian merger
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>Two weeks have passed since the proposed $1.9 billion merger between competitors Alaska Airlines and Hawaiian Airlines cleared what is traditionally considered its most significant regulatory hurdle. Now what?</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/hawaii-news/u-s-transportation-department-holds-fate-of-alaska-hawaiian-merger/>
+
+---
+
+## BIIF football: Wildcats wash Waveriders in crosstown matchup, HPA routs in opener
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; Konawaena football displayed brillancy on both ends of the field in its 56-0 rout of Kealakehe on Friday night at Waverider Stadium.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/sports/biif-football-wildcats-wash-waveriders-in-crosstown-matchup-hpa-routs-in-opener/>
+
+---
+
+## A maestro lets his muse conduct in a creative partnership like no other
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>In the days before his first Super Bowl, Patrick Mahomes was on a practice field with a small group of offensive players and coaches while the rest of the team worked on special teams.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/sports/a-maestro-lets-his-muse-conduct-in-a-creative-partnership-like-no-other/>
+
+---
+
+## No alarm for Swiatek, Medvedev as former champions cruise into quarter-finals
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Iga Swiatek and Daniil Medvedev, the last two former champions left in the U.S. Open singles draws after a series of upsets, swept into the quarter-finals at Flushing Meadows with a minimum of fuss on Monday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/sports/no-alarm-for-swiatek-medvedev-as-former-champions-cruise-into-quarter-finals/>
+
+---
+
+## 49ers WR Ricky Pearsall out at least 4 games after being shot
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>San Francisco 49ers wide receiver Ricky Pearsall went on the reserve/non-football injury list on Monday after he was shot in the chest during a robbery attempt over the weekend.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/sports/49ers-wr-ricky-pearsall-out-at-least-4-games-after-being-shot/>
+
+---
+
+## MLB roundup: Willy Adames ties franchise HR record in Brewers’ win
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>Willy Adames homered for the fifth straight game to tie a Milwaukee record as the Brewers beat the visiting St. Louis Cardinals 9-3 on Monday afternoon in the opener of a three-game series.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/sports/mlb-roundup-willy-adames-ties-franchise-hr-record-in-brewers-win/>
+
+---
+
+## Rory McIlroy aims to cut as many as 9 events in 2025
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>Rory McIlroy admitted that a busy schedule had him crawling to the finish line in 2024 and said he might reduce his commitments in 2025 by as many as nine tournaments.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/sports/rory-mcilroy-aims-to-cut-as-many-as-9-events-in-2025/>
+
+---
+
+## Biden says Netanyahu not doing enough to secure hostage deal
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden said on Monday that Israeli Prime Minister Benjamin Netanyahu was not doing enough to secure a deal for the release of hostages held in Gaza by Hamas and the U.S. was close to presenting a final proposal to negotiators working on a hostage and ceasefire agreement.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/nation-world-news/biden-says-netanyahu-not-doing-enough-to-secure-hostage-deal/>
+
+---
+
+## Netanyahu stands firm on cease-fire terms amid growing outrage in Israel
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Brushing aside pleas from allies and the demands of Israeli protesters for an immediate cease-fire in the Gaza Strip in exchange for the release of hostages, Israeli Prime Minister Benjamin Netanyahu on Monday vowed to maintain Israeli control along the border between Egypt and Gaza, a contentious plan that appeared to dim, if not dash, prospects for a truce.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/nation-world-news/netanyahu-stands-firm-on-cease-fire-terms-amid-growing-outrage-in-israel/>
+
+---
+
+## Shooting mars festivities at West Indian American Day Parade in Brooklyn
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; At least five people were shot and wounded along the route of the annual West Indian American Day Parade in Brooklyn on Monday, briefly disrupting &#8212; but not derailing &#8212; a crowded and colorful celebration of New York City&#8217;s Caribbean community.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/nation-world-news/shooting-mars-festivities-at-west-indian-american-day-parade-in-brooklyn/>
+
+---
+
+## Venezuela issues arrest warrant for opposition leader Gonzalez, AG says
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>CARACAS &#8212; Venezuela&#8217;s attorney general&#8217;s office said on Monday a court has issued an arrest warrant for opposition leader Edmundo Gonzalez, accusing him of conspiracy and other crimes amid a dispute over whether he or President Nicolas Maduro won a July election.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/nation-world-news/venezuela-issues-arrest-warrant-for-opposition-leader-gonzalez-ag-says/>
+
+---
+
+## After water quality improves, scientists find sea turtles in Brazil get healthier
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>RIO DE JANEIRO &#8212; Sea turtles in the Guanabara Bay of Rio de Janeiro are getting healthier after struggling for years with a tumor disease that hampers their movement, sight and feeding, and ultimately leads to their death.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/nation-world-news/after-water-quality-improves-scientists-find-sea-turtles-in-brazil-get-healthier/>
+
+---
+
+## Why thousands of hotel workers are on strike
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>Few industries were disrupted as drastically by the COVID-19 pandemic as the hospitality sector. Now, as travel has bounced back to prepandemic highs and COVID precautions have fallen by the wayside, thousands of hotel workers say they are still suffering from the lower wages and higher workloads that the pandemic period ushered in.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/nation-world-news/why-thousands-of-hotel-workers-are-on-strike/>
+
+---
+
+## Details are not required in elections
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>There&#8217;s plenty of things to criticize Vice President Kamala Harris for, and she may not win the presidential election, but shaming her to release detailed policy proposals or suggesting that she might lose without them is silly.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/opinion/details-are-not-required-in-elections/>
+
+---
+
+## Jury delivers justice for Jeff and journalists
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>The final chapter of Jeff German&#8217;s storied journalism career has reached its somber, yet necessary conclusion.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/opinion/jury-delivers-justice-for-jeff-and-journalists/>
+
+---
+
+## Let’s Talk Food: Japanese Curry revisited
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>Ihave written about Japanese curry before and had a recipe for homemade curry sauce in a past column. Cook&#8217;s Illustrated created a blend of spices with miso as an ingredient in their curry bricks. Miso adds the umami flavor the the curry brick. These refrigerated bricks can be frozen for up to three months.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/community/lets-talk-food-japanese-curry-revisited/>
+
+---
+
+## Palau Court Dismisses Ngiraingas Lawsuit Against Reapportionment Commission
+
+date: 2024-09-03, from: Island Times
+
+<p>The Palau Trial Court has dismissed a lawsuit filed by Jackson Ngiraingas against the Palau Reapportionment Commission, which challenged the commission’s decision to maintain a single senatorial district. The court ruled that the English and Palauan versions of Article IX, Section 4(a) of the Palau Constitution can be read together. The Palauan version uses the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-court-dismisses-ngiraingas-lawsuit-against-reapportionment-commission/">Palau Court Dismisses Ngiraingas Lawsuit Against Reapportionment Commission</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-court-dismisses-ngiraingas-lawsuit-against-reapportionment-commission/>
+
+---
+
+## Over 250 Palau Utility Workers Seek Legislative Changes for Better Benefits, Job Security
+
+date: 2024-09-03, from: Island Times
+
+<p>KOROR, Palau (Aug. 29, 2024) —Over 250 employees of the Palau Public Utilities Corporation (PPUC) have submitted a petition to Senate President Hokkons Baules and House Speaker Sabino Anastacio, calling for legislative changes to improve their benefits and job security. The petition comes as PPUC nears the 12th anniversary of the enactment of RPPL No. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/over-250-palau-utility-workers-seek-legislative-changes-for-better-benefits-job-security/">Over 250 Palau Utility Workers Seek Legislative Changes for Better Benefits, Job Security</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/over-250-palau-utility-workers-seek-legislative-changes-for-better-benefits-job-security/>
+
+---
+
+## Palau Customs Expands Outreach and Maintains Border Security Amid Changes in K-9 Program
+
+date: 2024-09-03, from: Island Times
+
+<figure><img width="1024" height="461" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Bureau-of-Customs-K-9-Program.jpg?fit=1024%2C461&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Bureau-of-Customs-K-9-Program.jpg?w=1431&amp;ssl=1 1431w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Bureau-of-Customs-K-9-Program.jpg?resize=300%2C135&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Bureau-of-Customs-K-9-Program.jpg?resize=1024%2C461&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Bureau-of-Customs-K-9-Program.jpg?resize=768%2C346&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Bureau-of-Customs-K-9-Program.jpg?resize=1200%2C540&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Bureau-of-Customs-K-9-Program.jpg?resize=400%2C180&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Bureau-of-Customs-K-9-Program.jpg?resize=706%2C318&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Bureau-of-Customs-K-9-Program.jpg?fit=1024%2C461&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72271" data-permalink="https://islandtimes.org/palau-customs-expands-outreach-and-maintains-border-security-amid-changes-in-k-9-program/bureau-of-customs-k-9-program/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Bureau-of-Customs-K-9-Program.jpg?fit=1431%2C644&amp;ssl=1" data-orig-size="1431,644" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Bureau of Customs K-9 Program" data-image-description="" data-image-caption="&lt;p&gt;Officers from Palau&#8217;s Bureau of Customs and Border Protection pose with Joker, one of the specialized K-9s from BPS Division of Transnational Crime Unit, during a community outreach event aimed at educating students on the vital role of K-9 units in drug detection.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Bureau-of-Customs-K-9-Program.jpg?fit=300%2C135&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Bureau-of-Customs-K-9-Program.jpg?fit=780%2C351&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Eustoria Marie Borja Palau&#8217;s Bureau of Customs and Border Protection (BCBP) has long relied on its K-9 unit, established in 2002, to play a pivotal role in drug detection at the nation&#8217;s key entry points. On August 30, 2024, the Customs Drug Detector Dog Unit, led by Officer-in-Charge Mayer Julius, conducted a demonstration for [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-customs-expands-outreach-and-maintains-border-security-amid-changes-in-k-9-program/">Palau Customs Expands Outreach and Maintains Border Security Amid Changes in K-9 Program</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-customs-expands-outreach-and-maintains-border-security-amid-changes-in-k-9-program/>
+
+---
+
+## Students Lead the Charge Against Human Trafficking at Palau Awareness Event
+
+date: 2024-09-03, from: Island Times
+
+<figure><img width="1024" height="461" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Anti-trafficking-in-persons-awareness-program.jpg?fit=1024%2C461&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Anti-trafficking-in-persons-awareness-program.jpg?w=1431&amp;ssl=1 1431w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Anti-trafficking-in-persons-awareness-program.jpg?resize=300%2C135&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Anti-trafficking-in-persons-awareness-program.jpg?resize=1024%2C461&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Anti-trafficking-in-persons-awareness-program.jpg?resize=768%2C346&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Anti-trafficking-in-persons-awareness-program.jpg?resize=1200%2C540&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Anti-trafficking-in-persons-awareness-program.jpg?resize=400%2C180&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Anti-trafficking-in-persons-awareness-program.jpg?resize=706%2C318&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Anti-trafficking-in-persons-awareness-program.jpg?fit=1024%2C461&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72265" data-permalink="https://islandtimes.org/students-lead-the-charge-against-human-trafficking-at-palau-awareness-event/anti-trafficking-in-persons-awareness-program/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Anti-trafficking-in-persons-awareness-program.jpg?fit=1431%2C644&amp;ssl=1" data-orig-size="1431,644" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Anti-trafficking in persons awareness program" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Anti-trafficking-in-persons-awareness-program.jpg?fit=300%2C135&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Anti-trafficking-in-persons-awareness-program.jpg?fit=780%2C351&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Eustoria Maria Borja KOROR, Palau — The Asia Foundation, in partnership with USAID’s Pacific RISE-CTIP initiative, held a Counter Trafficking in Persons (CTIP) Fair on Friday, August 30, at Ernguul Park to raise awareness and educate youth about human trafficking. Students from five local schools played a key role in the event, presenting their [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/students-lead-the-charge-against-human-trafficking-at-palau-awareness-event/">Students Lead the Charge Against Human Trafficking at Palau Awareness Event</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/students-lead-the-charge-against-human-trafficking-at-palau-awareness-event/>
+
+---
+
+## Kenyan Runners Dominate at Omal Marathon in Palau
+
+date: 2024-09-03, from: Island Times
+
+<figure><img width="605" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-3.jpg?fit=605%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-3.jpg?w=1125&amp;ssl=1 1125w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-3.jpg?resize=177%2C300&amp;ssl=1 177w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-3.jpg?resize=605%2C1024&amp;ssl=1 605w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-3.jpg?resize=768%2C1300&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-3.jpg?resize=908%2C1536&amp;ssl=1 908w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-3.jpg?resize=400%2C677&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-3.jpg?resize=706%2C1195&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-3.jpg?fit=605%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72263" data-permalink="https://islandtimes.org/kenyan-runners-dominate-at-omal-marathon-in-palau/untitled-3-20/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-3.jpg?fit=1125%2C1904&amp;ssl=1" data-orig-size="1125,1904" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Untitled-3" data-image-description="" data-image-caption="&lt;p&gt;Winners of the 2nd Omal Marathon&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-3.jpg?fit=177%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-3.jpg?fit=605%2C1024&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Over 300 Runners Compete in Palau’s 2nd Omal Marathon By: Eoghan Olkeriil Ngirudelsang KOROR, Palau – Japhet Rono and Jane Wanjiru Muriuki, both won full marathon, are from Kenya and traveled to Palau to compete in the 2nd Omal Marathon. More than 330 people, including international marathoners, elementary school students, and members of the public, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/kenyan-runners-dominate-at-omal-marathon-in-palau/">Kenyan Runners Dominate at Omal Marathon in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/kenyan-runners-dominate-at-omal-marathon-in-palau/>
+
+---
+
+## Angaur Candidates Address Constituents Ahead of Election
+
+date: 2024-09-03, from: Island Times
+
+<figure><img width="1024" height="570" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Screenshot_20240829_233204_Facebook.jpg?fit=1024%2C570&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Screenshot_20240829_233204_Facebook.jpg?w=1941&amp;ssl=1 1941w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Screenshot_20240829_233204_Facebook.jpg?resize=300%2C167&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Screenshot_20240829_233204_Facebook.jpg?resize=1024%2C570&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Screenshot_20240829_233204_Facebook.jpg?resize=768%2C427&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Screenshot_20240829_233204_Facebook.jpg?resize=1536%2C855&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Screenshot_20240829_233204_Facebook.jpg?resize=1200%2C668&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Screenshot_20240829_233204_Facebook.jpg?resize=1568%2C872&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Screenshot_20240829_233204_Facebook.jpg?resize=400%2C223&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Screenshot_20240829_233204_Facebook.jpg?resize=706%2C393&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Screenshot_20240829_233204_Facebook.jpg?fit=1024%2C570&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72260" data-permalink="https://islandtimes.org/angaur-candidates-address-constituents-ahead-of-election/screenshot_20240829_233204_facebook/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Screenshot_20240829_233204_Facebook.jpg?fit=1941%2C1080&amp;ssl=1" data-orig-size="1941,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Screenshot_20240829_233204_Facebook" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Screenshot_20240829_233204_Facebook.jpg?fit=300%2C167&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Screenshot_20240829_233204_Facebook.jpg?fit=780%2C434&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Koror, Palau – Candidates for Governor, Legislature, and Delegate of Angaur State gathered at the Palau Community College Assembly Hall last night to address their constituents. Organized by Angaur’s chiefs, the event aimed to provide a platform for residents to hear the candidates’ plans for the state and ask questions about state government issues. This [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/angaur-candidates-address-constituents-ahead-of-election/">Angaur Candidates Address Constituents Ahead of Election</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/angaur-candidates-address-constituents-ahead-of-election/>
+
+---
+
+## Palau Ends 10-Cent Fuel Subsidy for Residential Customers
+
+date: 2024-09-03, from: Island Times
+
+<p>The Palau Public Utilities Corporation (PPUC) has announced the end of the 10-cent fuel cost subsidy, effective September 1, 2024, due to the exhaustion of funds appropriated by the government for fiscal year 2024. The subsidy, which was applied as replacement credits to residential customers&#8217; monthly bills, will no longer be available. The government had [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-ends-10-cent-fuel-subsidy-for-residential-customers/">Palau Ends 10-Cent Fuel Subsidy for Residential Customers</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-ends-10-cent-fuel-subsidy-for-residential-customers/>
+
+---
+
+## Palau Senate Budget Addresses Polling Place Clarifications for 2024 Election
+
+date: 2024-09-03, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau – The Palau Senate passed the proposed national budget for fiscal year 2025 on its second reading last Wednesday, including a clarification on polling locations for the upcoming general election. According to the Senate&#8217;s standing committee report on Senate Bill No. 11-111, the committee proposed adding language to clarify [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-senate-budget-addresses-polling-place-clarifications-for-2024-election/">Palau Senate Budget Addresses Polling Place Clarifications for 2024 Election</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-senate-budget-addresses-polling-place-clarifications-for-2024-election/>
+
+---
+
+## Japanese Community Collect Trash Every Weekend
+
+date: 2024-09-03, from: Island Times
+
+<figure><img width="1024" height="771" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Japanese-in-Palau-held-clean-up-environment-by-collecting-trash.jpeg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Japanese-in-Palau-held-clean-up-environment-by-collecting-trash.jpeg?w=1125&amp;ssl=1 1125w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Japanese-in-Palau-held-clean-up-environment-by-collecting-trash.jpeg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Japanese-in-Palau-held-clean-up-environment-by-collecting-trash.jpeg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Japanese-in-Palau-held-clean-up-environment-by-collecting-trash.jpeg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Japanese-in-Palau-held-clean-up-environment-by-collecting-trash.jpeg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Japanese-in-Palau-held-clean-up-environment-by-collecting-trash.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Japanese-in-Palau-held-clean-up-environment-by-collecting-trash.jpeg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Japanese-in-Palau-held-clean-up-environment-by-collecting-trash.jpeg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72251" data-permalink="https://islandtimes.org/japanese-community-collect-trash-every-weekend/japanese-in-palau-held-clean-up-environment-by-collecting-trash/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Japanese-in-Palau-held-clean-up-environment-by-collecting-trash.jpeg?fit=1125%2C847&amp;ssl=1" data-orig-size="1125,847" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Japanese in Palau held clean up environment by collecting trash" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Japanese-in-Palau-held-clean-up-environment-by-collecting-trash.jpeg?fit=300%2C226&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Japanese-in-Palau-held-clean-up-environment-by-collecting-trash.jpeg?fit=780%2C587&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Koror, Palau – The Japanese community in Palau has been collecting trash throughout Koror every weekend since 2021. This week, the group was highlighted in many social media platforms and their effort appreciated and shared on social media by many Palauans. The organization called “Gomizu” has been collecting trash voluntarily around Koror every Saturday morning. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japanese-community-collect-trash-every-weekend/">Japanese Community Collect Trash Every Weekend</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/japanese-community-collect-trash-every-weekend/>
+
+---
+
+## Taiwan Vows Continued Participation in Pacific Islands Forum, Warns of Beijing’s Influence
+
+date: 2024-09-03, from: Island Times
+
+<p>Taiwan&#8217;s Ministry of Foreign Affairs (MOFA) announced it will remain involved in the Pacific Islands Forum (PIF) despite the removal of language supporting Taiwan from the forum&#8217;s recent communiqué. In a statement on Friday, MOFA urged &#8220;like-minded countries to monitor Beijing&#8217;s actions closely and protect the harmonious and stable development of Pacific island nations.&#8221; The [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwan-vows-continued-participation-in-pacific-islands-forum-warns-of-beijings-influence/">Taiwan Vows Continued Participation in Pacific Islands Forum, Warns of Beijing&#8217;s Influence</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/taiwan-vows-continued-participation-in-pacific-islands-forum-warns-of-beijings-influence/>
+
+---
+
+## PPUC to Reduce Power Rates with New Distributed Energy Rate System
+
+date: 2024-09-03, from: Island Times
+
+<p>Starting Oct. 1, 2024, the Palau Public Utilities Corporation (PPUC) will reduce power rates by $0.012 per kilowatt-hour (kWh) under a new billing system that incorporates a Distributed Energy Rate (DER). The DER will replace the Automatic Fuel Price Adjustment Clause (AFPAC). According to PPUC, the DER will be based on actual supplier invoices, fuel [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ppuc-to-reduce-power-rates-with-new-distributed-energy-rate-system/">PPUC to Reduce Power Rates with New Distributed Energy Rate System</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ppuc-to-reduce-power-rates-with-new-distributed-energy-rate-system/>
+
+---
+
+## Let Them
+
+date: 2024-09-03, from: Island Times
+
+<p>We often find ourselves caught up in trying to control others, investing time and energy into analyzing their behaviors, and wrestling with the emotional toll that comes with it. But the truth is, we have no control over anyone but ourselves. Scripture reminds us, “For I know the plans I have for you,” declares the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/let-them/">Let Them</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/let-them/>
+
+---
+
+## Shadows of U.S-China contest over Pacific Islands Forum
+
+date: 2024-09-03, from: Island Times
+
+<p>NUKU&#8217;ALOFA, 30 AUGUST 2024 (AAP)&#8212;The Taiwan-aligned Pacific nation of Palau has bit back at nations acting as “fronts” for China, arguing moves to sideline Taiwan disrespect the Pacific Islands Forum. The 18 member nations are gathering in Tonga this week for the Pacific Islands Forum (PIF) Leaders Meeting, the region&#8217;s pre-eminent political summit. In the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/shadows-of-u-s-china-contest-over-pacific-islands-forum/">Shadows of U.S-China contest over Pacific Islands Forum</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/shadows-of-u-s-china-contest-over-pacific-islands-forum/>
+
+---
+
+## China, Philippines trade blame in latest South China Sea clash
+
+date: 2024-09-03, from: Island Times
+
+<p>In short:&#160; (ABC-Australia) China and the Philippines accused each other of deliberately ramming their coast guard ships near a flashpoint shoal in the South China Sea.&#160; A Philippines spokesperson said the collision damaged the Philippines coast guard ship, but no crew members were injured. What&#8217;s next?&#160; China called on the Philippines to withdraw from the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/china-philippines-trade-blame-in-latest-south-china-sea-clash/">China, Philippines trade blame in latest South China Sea clash</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/china-philippines-trade-blame-in-latest-south-china-sea-clash/>
+
+---
+
+## Kamala Harris says Donald Trump ‘disrespected sacred ground’ at Arlington National Cemetery
+
+date: 2024-09-03, from: Island Times
+
+<p>In short: (ABC-Australia) Vice-President Kamala Harris has shared a statement on X, saying former president Donald Trump has &#8220;disrespected sacred ground&#8221; by taking photos at Arlington National Cemetery. Ms Harris cited reports that Mr Trump&#8217;s campaign aides created an altercation with a cemetery staffer and then took photos of the graves of war veterans. She [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/kamala-harris-says-donald-trump-disrespected-sacred-ground-at-arlington-national-cemetery/">Kamala Harris says Donald Trump &#8216;disrespected sacred ground&#8217; at Arlington National Cemetery</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/kamala-harris-says-donald-trump-disrespected-sacred-ground-at-arlington-national-cemetery/>
+
+---
+
+## Reinstatement of Fukushima expert panel to be discussed next year, Forum Leaders push U.S on nuclear testing and focus on regional peace
+
+date: 2024-09-03, from: Island Times
+
+<p>By Pita Ligaiula SUVA/NUKU’ALOFA, 02 SEPTEMBER 2024 (PACNEWS) &#8212; Pacific Islands Forum Leaders will decide at the next Forum Leaders Meeting in Solomon Islands whether to reinstate the Forum Expert Panel on Fukushima, as concerns persist over Japan’s discharge of treated nuclear wastewater into the Pacific Ocean. Forum Chair and Tongan Prime Minister, Hu’akavemeiliku Siaosi [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/reinstatement-of-fukushima-expert-panel-to-be-discussed-next-year-forum-leaders-push-u-s-on-nuclear-testing-and-focus-on-regional-peace/">Reinstatement of Fukushima expert panel to be discussed next year, Forum Leaders push U.S on nuclear testing and focus on regional peace</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/reinstatement-of-fukushima-expert-panel-to-be-discussed-next-year-forum-leaders-push-u-s-on-nuclear-testing-and-focus-on-regional-peace/>
+
+---
+
+## Taiwan signs pact with Pacific Islands Forum to extend support to 2027
+
+date: 2024-09-03, from: Island Times
+
+<p>NUKU&#8217;ALOFA, 02 SEPTEMBER 2024 (CNA) &#8212; Taiwan has signed a cooperation agreement with the Pacific Islands Forum (PIF) Secretariat to continue its ongoing support of the organisation from 2025 to 2027, the Ministry of Foreign Affairs (MOFA) announced on Sunday. The pact was signed by Deputy Foreign Minister Tien Chung-kwang and a representative from the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwan-signs-pact-with-pacific-islands-forum-to-extend-support-to-2027/">Taiwan signs pact with Pacific Islands Forum to extend support to 2027</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/taiwan-signs-pact-with-pacific-islands-forum-to-extend-support-to-2027/>
+
+---
+
+## Pacific Islands Forum tweaks communique after China outburst
+
+date: 2024-09-03, from: Island Times
+
+<p>NUKU&#8217;ALOFA, 02 SEPTEMBER 2024 (AAP) &#8212; The Pacific Islands Forum secretariat has altered the communique from last week&#8217;s summit in Tonga to remove an affirming reference to Taiwan, after an outburst from China. In a tumultuous ending to the otherwise largely-harmonious regional gathering in Tonga last week, a clause endorsing Taiwan&#8217;s status as a &#8220;development [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-islands-forum-tweaks-communique-after-china-outburst/">Pacific Islands Forum tweaks communique after China outburst</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/pacific-islands-forum-tweaks-communique-after-china-outburst/>
+
+---
+
+## Aesthetes Gather to Mark AAAF 2024 Launch
+
+date: 2024-09-03, from: University of the South Pacific (Fiji)
+
+<p>The celebration of Pacific arts and culture resonated throughout the launch of the Allan Alo...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/aesthetes-gather-to-mark-aaaf-2024-launch/">Aesthetes Gather to Mark AAAF 2024 Launch</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/aesthetes-gather-to-mark-aaaf-2024-launch/>
+
+---
+
+## UH developed, living coastal-protection system prepares for deployment
+
+date: 2024-09-02, from: University of Hawaiʻi News
+
+<p>The project has completed the first concrete reef structure, and full production is now underway for 60 units.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/02/r3d-deployment/"><abbr>UH</abbr> developed, living coastal-protection system prepares for deployment</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/02/r3d-deployment/>
 
 ---
 

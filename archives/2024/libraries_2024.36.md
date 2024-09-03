@@ -1,11 +1,34 @@
 ---
 title: libraries 2024.36
-updated: 2024-09-02 10:39:33
+updated: 2024-09-03 07:33:12
 ---
 
 # libraries 2024.36
 
-(date: 2024-09-02 10:39:33)
+(date: 2024-09-03 07:33:12)
+
+---
+
+## Presence as a field of research in the performing arts
+
+date: 2024-09-03, from: SciELO in Perspective
+
+<p>Throughout its work, the <em>Revista Brasileira de Estudos da Presença</em> has given visibility to various themes in the performing arts, focusing on the concept of presence. We present articles that discuss this subject in dialogue with philosophy and media arts, going beyond the <em>hic et nunc</em> of the stage event. Available in Portuguese only. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://humanas.blog.scielo.org/blog/2024/09/03/a-presenca-como-campo-de-pesquisa-nas-artes-cenicas/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://humanas.blog.scielo.org/blog/2024/09/03/a-presenca-como-campo-de-pesquisa-nas-artes-cenicas/#new_tab">Presence as a field of research in the performing arts</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://humanas.blog.scielo.org/blog/2024/09/03/a-presenca-como-campo-de-pesquisa-nas-artes-cenicas/#new_tab>
+
+---
+
+## Revisiting: Libraries and the Contested Terrain of “Neutrality”
+
+date: 2024-09-03, from: Scholarly Kitchen
+
+<p>Revisiting Rick Anderson's 2022 post which asks, are libraries "neutral"? That question is way too simplistic to serve as anything other than a political football.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/09/03/revisiting-libraries-and-the-contested-terrain-of-neutrality/">Revisiting: Libraries and the Contested Terrain of &#8220;Neutrality&#8221;</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/09/03/revisiting-libraries-and-the-contested-terrain-of-neutrality/>
 
 ---
 

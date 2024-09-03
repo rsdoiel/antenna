@@ -1,11 +1,51 @@
 ---
 title: motorcycles 2024.36
-updated: 2024-09-02 10:39:35
+updated: 2024-09-03 07:33:14
 ---
 
 # motorcycles 2024.36
 
-(date: 2024-09-02 10:39:35)
+(date: 2024-09-03 07:33:14)
+
+---
+
+## Iconic Brno Raceway To Return To MotoGP From 2025
+
+date: 2024-09-03, from: Ride Apart, Electric Motorcycle News
+
+The famed Brno circuit has been a mainstay in the GP calendar since 1965.  
+
+<https://www.rideapart.com/news/731884/motogp-returns-brno-czech-republic-2025/>
+
+---
+
+## Drag Race: Hayabusa Dirt Bike vs Stark Varg vs Built KTM 450 On Sand
+
+date: 2024-09-03, from: Ride Apart, Electric Motorcycle News
+
+Any guesses who wins? 
+
+<https://www.rideapart.com/news/731988/hayabusa-stark-varg-ktm450-dragrace/>
+
+---
+
+## Chris Buescher: ‘I Felt Like We Did What We Needed To’
+
+date: 2024-09-02, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor DARLINGTON, S.C. – Despite doing everything he needed to do to stay above the NASCAR Cup Series Playoffs cutline, Chris Buescher still missed stock car&#8230;  
+
+<https://kickinthetires.net/nascar/buescher-i-did-what-we-needed-to/>
+
+---
+
+## Bubba Wallace: Missing Playoffs ‘Wasn’t for a Lack of Effort’
+
+date: 2024-09-02, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor DARLINGTON, S.C. – The finale race of the 2024 regular season in the NASCAR Cup Series left Bubba Wallace out of the playoffs after a&#8230;  
+
+<https://kickinthetires.net/nascar/wallace-miss-playoffs-wasnt-lack-effort/>
 
 ---
 

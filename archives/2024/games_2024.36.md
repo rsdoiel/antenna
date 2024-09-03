@@ -1,11 +1,41 @@
 ---
 title: games 2024.36
-updated: 2024-09-02 10:39:32
+updated: 2024-09-03 07:33:11
 ---
 
 # games 2024.36
 
-(date: 2024-09-02 10:39:32)
+(date: 2024-09-03 07:33:11)
+
+---
+
+## Can Wooloo be shiny in Pokémon Go?
+
+date: 2024-09-03, updated: 2024-08-30, from: Polygon Website
+
+Wooloo, the sheep Pokémon from Galar, can be found in the wild in Pokémon Go. Yes, Wooloo can be shiny in Pokémon Go! The adorable sheep orb, Wooloo, is a great shiny with its color scheme inverting. Unfortunately, neither of these Pokémon see much use in PvP or PvE, but they do look very good. [&#8230;] 
+
+<https://www.polygon.com/pokemon-go-guide/446326/can-wooloo-be-shiny-dubwool>
+
+---
+
+## Rethinking Lara Croft was a ‘unique pressure,’ says Tomb Raider showrunner
+
+date: 2024-09-03, updated: 2024-08-31, from: Polygon Website
+
+Lara Croft is “adventurous.” She “hits hard.” She&#8217;s “slick,” “sleek,” “sexy,” and “proficient in dual-wielding pistols.” And the definition of all those qualities is something different to every player that has stepped into her boots over the last 30 years. So what does Lara Croft need to be to be Lara Croft?&#160; It’s a question [&#8230;] 
+
+<https://www.polygon.com/tv/446607/tomb-raider-legend-lara-croft-netflix-show-design-interview>
+
+---
+
+## Pokémon Go ‘Galar Calling’ choose a path quest steps: Grookey, Scorbunny, or Sobble?
+
+date: 2024-09-03, updated: 2024-09-03, from: Polygon Website
+
+“Galar Calling” is the season-long Special Research for the “Max Out” season in Pokémon Go. Focusing on Galar starters Grookey, Scorbunny, and Scobble, it opens with a ‘choose a path’ choice between the three Pokémon. The “Galar Calling” Special Research will be available until the end of the season, meaning you have until Dec. 3 [&#8230;] 
+
+<https://www.polygon.com/pokemon-go-guide/446920/galar-calling-choose-a-path-grookey-scorbunny-sobble-adventure>
 
 ---
 

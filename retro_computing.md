@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.36
-updated: 2024-09-02 10:39:36
+updated: 2024-09-03 07:33:15
 ---
 
 # retro computing 2024.36
 
-(date: 2024-09-02 10:39:36)
+(date: 2024-09-03 07:33:15)
+
+---
+
+## b.log 2024/09/02 - Chronopost, the saga continues...
+
+date: 2024-09-02, from: Richard Murray's blog
+
+Chronopost, the saga continues... 
+
+<https://heyrick.eu/blog/index.php?diary=20240902>
 
 ---
 

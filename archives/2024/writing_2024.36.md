@@ -1,11 +1,21 @@
 ---
 title: writing 2024.36
-updated: 2024-09-02 10:39:32
+updated: 2024-09-03 07:33:11
 ---
 
 # writing 2024.36
 
-(date: 2024-09-02 10:39:32)
+(date: 2024-09-03 07:33:11)
+
+---
+
+## The AI Copyright Hype: Legal Claims That Didn’t Hold Up
+
+date: 2024-09-03, from: Author's Union blog
+
+Over the past year, two dozen AI-related lawsuits and their myriad infringement claims have been winding their way through the court system. None have yet reached a jury trial. While we all anxiously await court rulings that can inform our future interaction with generative AI models, in the past few weeks, we are suddenly flooded [&#8230;] 
+
+<https://www.authorsalliance.org/2024/09/03/the-ai-copyright-hype-legal-claims-that-didnt-hold-up/>
 
 ---
 
