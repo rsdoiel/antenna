@@ -1,11 +1,21 @@
 ---
-title: weather 2024.36
-updated: 2024-09-03 07:33:10
+title: weather
+updated: 2024-09-03 08:33:16
 ---
 
-# weather 2024.36
+# weather
 
-(date: 2024-09-03 07:33:10)
+(date: 2024-09-03 08:33:16)
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-09-03, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Tue, 03 Sep 2024 14:31:27 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
 
 ---
 
@@ -95,13 +105,30 @@ Basin and WY.
 
 ---
 
-## There are no tropical cyclones at this time.
+## Central North Pacific Tropical Weather Outlook
 
-date: 2024-09-03, from: Eastern Pacific Basin GIS Data
+date: 2024-09-03, from: Central Pacific Basin Tropical Cyclones
 
-No tropical cyclones as of Tue, 03 Sep 2024 12:17:09 GMT 
 
-<https://www.nhc.noaa.gov/gis/>
+<br/>
+128 <br/>
+ACPN50 PHFO 031147<br/>
+TWOCP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS Central Pacific Hurricane Center Honolulu HI<br/>
+200 AM HST Tue Sep 3 2024<br/>
+<br/>
+For the central North Pacific...between 140W and 180W:<br/>
+<br/>
+No tropical cyclones are expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Shigesato<br/>
+<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
 
 ---
 
@@ -109,9 +136,35 @@ No tropical cyclones as of Tue, 03 Sep 2024 12:17:09 GMT
 
 date: 2024-09-03, from: Central Pacific Basin Tropical Cyclones
 
-No tropical cyclones as of Tue, 03 Sep 2024 12:17:09 GMT 
+No tropical cyclones as of Tue, 03 Sep 2024 14:31:27 GMT 
 
 <https://www.nhc.noaa.gov/>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2024-09-03, from: Eastern Pacific Tropical Weather Outlook
+
+ <br />
+ 115 <br />
+ ABPZ20 KNHC 031146<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 500 AM PDT Tue Sep 3 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ Tropical cyclone formation is not expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Bucci<br />
+ <br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 
@@ -133,42 +186,6 @@ ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS N
  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## CPHC Central North Pacific Outlook
-
-date: 2024-09-03, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>200 AM HST Tue Sep 3 2024<br><br>For the central North Pacific...between 140W and 180W:<br><br>No tropical cyclones are expected during the next 7 days.<br><br>$$<br>Forecaster Shigesato<br>NNNN<br><br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## NHC Eastern North Pacific Outlook
-
-date: 2024-09-03, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_2d0_resize.gif" alt="Eastern North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_7d0_resize.gif" alt="Eastern North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOEP ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>500 AM PDT Tue Sep 3 2024<br><br>For the eastern North Pacific...east of 140 degrees west longitude:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Bucci<br>NNNN<br><br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 

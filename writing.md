@@ -1,11 +1,34 @@
 ---
-title: writing 2024.36
-updated: 2024-09-03 07:33:11
+title: writing
+updated: 2024-09-03 08:33:17
 ---
 
-# writing 2024.36
+# writing
 
-(date: 2024-09-03 07:33:11)
+(date: 2024-09-03 08:33:17)
+
+---
+
+## A.C. Wise Reviews Short Fiction: khōréō
+
+date: 2024-09-03, from: Locus Magazine
+
+<p>khōréō 3.4</p>
+<p>Due to an error in my logging stories for review, I acciden­tally left three stories out of my initial review of khōréō 3.4. The stories are reviewed here with apologies to the authors, editors, and publisher of the magazine.</p>
+<p><strong>“The Maiden Voyage of the Piranha Belle” </strong>by <strong>L.M. Guay </strong>is a diamond of a story, with beautiful glittering surfaces and a sharp, cutting point. The Piranha Belle of  <a href="https://locusmag.com/2024/09/a-c-wise-reviews-short-fiction-khoreo-2/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/a-c-wise-reviews-short-fiction-khoreo-2/>
+
+---
+
+## Deadpool with Ryan Reynolds
+
+date: 2024-09-03, from: John August blog
+
+John and Craig welcome back Ryan Reynolds for an in-depth look at his creative process bringing the character of Deadpool to the screen. As co-writer, producer and star of the Deadpool franchise, Ryan leads us through his first introduction to the character, the rough journey getting to greenlight, and the challenges presented by an often-faceless [&#8230;]
+The post <a href="https://johnaugust.com/2024/deadpool-with-ryan-reynolds">Deadpool with Ryan Reynolds</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/deadpool-with-ryan-reynolds>
 
 ---
 

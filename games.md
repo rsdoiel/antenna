@@ -1,11 +1,51 @@
 ---
-title: games 2024.36
-updated: 2024-09-03 07:33:11
+title: games
+updated: 2024-09-03 08:33:17
 ---
 
-# games 2024.36
+# games
 
-(date: 2024-09-03 07:33:11)
+(date: 2024-09-03 08:33:17)
+
+---
+
+## Xbox Game Pass is getting a whole bunch of games about transit in September
+
+date: 2024-09-03, updated: 2024-09-03, from: Polygon Website
+
+Another summer has come and gone and while that can be a bummer, Xbox Game Pass subscribers can at least distract themselves from the end of vacation season with some new video games. Microsoft has announced all the new games coming to Xbox Games Pass in the first half of September. The list includes a [&#8230;] 
+
+<https://www.polygon.com/news/446946/xbox-game-pass-september-games-new>
+
+---
+
+## Best C9 loadout, class build in the Black Ops 6 beta
+
+date: 2024-09-03, updated: 2024-09-03, from: Polygon Website
+
+The best C9 loadout in the Black Ops 6 beta is one of two SMGs you can get your hands on, and while it may not impress immediately out of the gate, as soon as it’s leveled up and given some solid attachments, it becomes a force to be reckoned with. It fires slower than [&#8230;] 
+
+<https://www.polygon.com/black-ops-6-guides/446968/best-c9-loadout-class-build-unlock>
+
+---
+
+## Prosecutor’s Gambit is the best Ace Attorney story since the original trilogy
+
+date: 2024-09-03, updated: 2024-09-03, from: Polygon Website
+
+The Ace Attorney Investigations Collection is closing a loop that’s been open a long time. The first Investigations game, a spinoff of the popular lawyer-based, detective-adjacent adventure games starring Phoenix Wright, was released in 2009 (or 2010 in English). Despite following fan-favorite prosecutorial rival Miles Edgeworth, it didn’t sell well, particularly in the West. And [&#8230;] 
+
+<https://www.polygon.com/review/446255/ace-attorney-investigations-collection-review-nintendo-switch>
+
+---
+
+## FFXIV housing lottery schedule for September 2024
+
+date: 2024-09-03, updated: 2024-09-03, from: Polygon Website
+
+If you’re trying to get a house in Final Fantasy 14, you’ll need to play the lottery system. The FFXIV lottery system consists of five “entry period” days, followed by four “results period” days. You’ll need to place your bid during the entry period days and if you win, finalize your purchase during the results [&#8230;] 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period>
 
 ---
 
@@ -33,7 +73,7 @@ Lara Croft is “adventurous.” She “hits hard.” She&#8217;s “slick,” �
 
 date: 2024-09-03, updated: 2024-09-03, from: Polygon Website
 
-“Galar Calling” is the season-long Special Research for the “Max Out” season in Pokémon Go. Focusing on Galar starters Grookey, Scorbunny, and Scobble, it opens with a ‘choose a path’ choice between the three Pokémon. The “Galar Calling” Special Research will be available until the end of the season, meaning you have until Dec. 3 [&#8230;] 
+“Galar Calling” is the season-long Special Research for the “Max Out” season in Pokémon Go. Focusing on Galar starters Grookey, Scorbunny, and Scobble, it opens with a “choose a path” choice between the three Pokémon. The “Galar Calling” Special Research will be available until the end of the season, meaning you have until Dec. 3 [&#8230;] 
 
 <https://www.polygon.com/pokemon-go-guide/446920/galar-calling-choose-a-path-grookey-scorbunny-sobble-adventure>
 

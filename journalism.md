@@ -1,11 +1,11 @@
 ---
-title: journalism 2024.36
-updated: 2024-09-03 07:33:12
+title: journalism
+updated: 2024-09-03 08:33:17
 ---
 
-# journalism 2024.36
+# journalism
 
-(date: 2024-09-03 07:33:12)
+(date: 2024-09-03 08:33:17)
 
 ---
 

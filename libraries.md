@@ -1,11 +1,11 @@
 ---
-title: libraries 2024.36
-updated: 2024-09-03 07:33:12
+title: libraries
+updated: 2024-09-03 08:33:18
 ---
 
-# libraries 2024.36
+# libraries
 
-(date: 2024-09-03 07:33:12)
+(date: 2024-09-03 08:33:18)
 
 ---
 
@@ -29,6 +29,26 @@ date: 2024-09-03, from: Scholarly Kitchen
  
 
 <https://scholarlykitchen.sspnet.org/2024/09/03/revisiting-libraries-and-the-contested-terrain-of-neutrality/>
+
+---
+
+## Single-cell landscape of innate and acquired drug resistance in acute myeloid leukemia.
+
+date: 2024-09-03, from: ETH Zurich, recently added
+
+Snijder, Berend; Wegmann, Rebekka 
+
+<http://hdl.handle.net/20.500.11850/692053>
+
+---
+
+## Printing homes: Unit cost estimation for additive manufacturing in construction
+
+date: 2024-09-03, from: ETH Zurich, recently added
+
+Walzer, Alexander N.; Mariia Kozlova; Julian Scott Yeomans 
+
+<http://hdl.handle.net/20.500.11850/692075>
 
 ---
 

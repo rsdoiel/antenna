@@ -1,11 +1,11 @@
 ---
-title: ham radio 2024.36
-updated: 2024-09-03 07:33:08
+title: ham radio
+updated: 2024-09-03 08:33:13
 ---
 
-# ham radio 2024.36
+# ham radio
 
-(date: 2024-09-03 07:33:08)
+(date: 2024-09-03 08:33:13)
 
 ---
 

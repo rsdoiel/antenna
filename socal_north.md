@@ -1,11 +1,11 @@
 ---
-title: socal north 2024.36
-updated: 2024-09-03 07:33:06
+title: socal north
+updated: 2024-09-03 08:33:11
 ---
 
-# socal north 2024.36
+# socal north
 
-(date: 2024-09-03 07:33:06)
+(date: 2024-09-03 08:33:11)
 
 ---
 

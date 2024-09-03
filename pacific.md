@@ -1,11 +1,11 @@
 ---
-title: pacific 2024.36
-updated: 2024-09-03 07:33:07
+title: pacific
+updated: 2024-09-03 08:33:13
 ---
 
-# pacific 2024.36
+# pacific
 
-(date: 2024-09-03 07:33:07)
+(date: 2024-09-03 08:33:13)
 
 ---
 
@@ -352,6 +352,76 @@ date: 2024-09-03, from: Island Times
 
 ---
 
+## Gil Shinohara 'served our island and our people more than anyone I know'
+
+date: 2024-09-03, from: Guam Daily Post
+
+Family members and former Gov. Carl Gutierrez remember Gil Shinohara for his hard work, generosity and dedication to the island. 
+
+<https://www.postguam.com/news/local/gil-shinohara-served-our-island-and-our-people-more-than-anyone-i-know/article_0bd8ff1a-6984-11ef-9646-27d77d406c01.html>
+
+---
+
+## Lantern floating ceremony Sept. 28
+
+date: 2024-09-03, from: Guam Daily Post
+
+The Guam Nikkei Association announced recently in a press release that the 10th Annual Guam Nikkei Association lantern floating ceremony will be held at 5 p.m. Saturday, Sept. 28, at Gov. Joseph Flores Memorial Park at Ypao Beach. 
+
+<https://www.postguam.com/news/local/lantern-floating-ceremony-sept-28/article_819e82ec-698e-11ef-9ec1-8f625a336217.html>
+
+---
+
+## Trio on pretrial release charged with holding 23 grams of meth
+
+date: 2024-09-03, from: Guam Daily Post
+
+Two men and a woman, all on pretrial release, were charged with drug possession with intent to distribute after a traffic stop. 
+
+<https://www.postguam.com/news/local/trio-on-pretrial-release-charged-with-holding-23-grams-of-meth/article_1cb19356-6993-11ef-89ce-43cae1809172.html>
+
+---
+
+## Man who pleaded guilty to 2022 sexual assault faces life in prison
+
+date: 2024-09-03, from: Guam Daily Post
+
+A 20-year-old man faces life in prison after pleading guilty to breaking into a home and sexually assaulting a 13-year-old girl in 2022. 
+
+<https://www.postguam.com/news/local/man-who-pleaded-guilty-to-2022-sexual-assault-faces-life-in-prison/article_28cfce8a-699f-11ef-953e-23228f57c5dc.html>
+
+---
+
+## Hospital anticipates losing its only pathologist early next year
+
+date: 2024-09-03, from: Guam Daily Post
+
+The Guam Memorial Hospital Authority's sole pathologist, Dr. Mohamed Alsabban, is anticipated to leave the island's only public hospital early next year, but will continue providing services until that time, according to GMHA public information officer Cindy Hanson. 
+
+<https://www.postguam.com/news/local/hospital-anticipates-losing-its-only-pathologist-early-next-year/article_bb7f146a-6987-11ef-90b1-c34aebb625d3.html>
+
+---
+
+## Efforts to return cultural artifacts to Guam
+
+date: 2024-09-03, from: Guam Daily Post
+
+Lt. Gov. Josh Tenorio has initiated efforts to establish a long-term cooperative partnership between the government of Guam and the Bishop Museum in Hawaii that will address the return of latte stones and the status of thousands of CHamoru artifacts… 
+
+<https://www.postguam.com/news/local/efforts-to-return-cultural-artifacts-to-guam/article_4523fa0c-6995-11ef-aaf4-67a7be16ba44.html>
+
+---
+
+## Arriola confirmed as DPHSS head
+
+date: 2024-09-03, from: Guam Daily Post
+
+Lawmakers returned to the session hall at the Guam Congress Building on Tuesday to address a number of the governor's nominees for board members and agency heads, including Theresa Arriola, who was tapped to lead the Department of Public Health… 
+
+<https://www.postguam.com/news/local/arriola-confirmed-as-dphss-head/article_d65d6906-6984-11ef-a389-97ed8ecda5f6.html>
+
+---
+
 ## Taiwan Vows Continued Participation in Pacific Islands Forum, Warns of Beijing’s Influence
 
 date: 2024-09-03, from: Island Times
@@ -493,6 +563,106 @@ by Mikayla Maeshiro Aches linger in my always-not-young-not-old Body as time tic
 
 ---
 
+## NMC recognizes outstanding employees
+
+date: 2024-09-02, updated: 2024-09-03, from: Marianas Variety
+
+(NMC) — Northern Marianas College has announced the recipients of its 2024 Annual PROA Employee Awards, which honor employees for their outstanding performance, contributions to NMC, and commitment to student learning. 
+
+<https://www.mvariety.com/news/community_bulletins/nmc-recognizes-outstanding-employees/article_a9048032-6931-11ef-a428-8b18a39d140e.html>
+
+---
+
+## ‘Truman Show’ director Peter Weir wins Venice award, tells film-makers to unplug
+
+date: 2024-09-02, updated: 2024-09-03, from: Marianas Variety
+
+VENICE (Reuters) — Peter Weir, the Australian director of "The Truman Show," "Gallipoli" and "Dead Poets Society," was handed a Lifetime Achievement Award at the Venice Film Festival on Monday, and advised young film-makers to unplug to get ahead. 
+
+<https://www.mvariety.com/lifestyle/truman-show-director-peter-weir-wins-venice-award-tells-film-makers-to-unplug/article_8ee4f97c-6934-11ef-92ff-1be95890d67b.html>
+
+---
+
+## George Clooney, Brad Pitt disappointed their new film skips cinemas
+
+date: 2024-09-02, updated: 2024-09-03, from: Marianas Variety
+
+VENICE (Reuters) — Hollywood heavyweights George Clooney and Brad Pitt admit they are disappointed their latest comedy "Wolfs" is not getting a broad cinema release and instead heading almost straight onto Apple TV. 
+
+<https://www.mvariety.com/lifestyle/george-clooney-brad-pitt-disappointed-their-new-film-skips-cinemas/article_dd4b9382-6934-11ef-ae94-ff2f1dc0141e.html>
+
+---
+
+## Spanish town gets soaked in red during tomato-lobbing Tomatina festival
+
+date: 2024-09-02, updated: 2024-09-03, from: Marianas Variety
+
+BUNOL, Spain (Reuters) — The streets of a town in eastern Spain were awash in red on Wednesday as revelers flung overripe tomatoes at each other in a high-spirited battle royale during the traditional Tomatina festival. 
+
+<https://www.mvariety.com/lifestyle/spanish-town-gets-soaked-in-red-during-tomato-lobbing-tomatina-festival/article_26c4a2b0-6935-11ef-9f25-83a1fbf32cdc.html>
+
+---
+
+## Kiss My Ace wins women’s volleyball title
+
+date: 2024-09-02, updated: 2024-09-03, from: Marianas Variety
+
+KISS My Ace defeated Lady Starz, 25-13, 25-20, to clinch the women’s division championship of Fall Fest Volleyball Tournament 2024 at the Agape Gymnasium on Saturday. 
+
+<https://www.mvariety.com/sports/localsports/kiss-my-ace-wins-women-s-volleyball-title/article_359cbcf2-6906-11ef-9a9b-bbcf6660051a.html>
+
+---
+
+## WAO, CWA, lawmakers celebrate partnership
+
+date: 2024-09-02, updated: 2024-09-03, from: Marianas Variety
+
+THE CNMI Women’s Association and the Women’s Affairs Office are grateful for the Legislature’s support of the 10th Annual CNMI Women’s Summit, CNMI Women’s Association board president Dorsha Moreno said on Friday, Aug. 30. 
+
+<https://www.mvariety.com/news/local/wao-cwa-lawmakers-celebrate-partnership/article_b48dc914-68d6-11ef-b7e2-cf9cee85e9e0.html>
+
+---
+
+## Israelis strike and protest to demand Gaza hostage deal
+
+date: 2024-09-02, updated: 2024-09-03, from: Marianas Variety
+
+JERUSALEM (Reuters) — Israeli protesters took to the streets for a second day on Monday and the largest trade union launched a general strike to press the government to reach a deal to return hostages still held by Hamas, after six more captives were found dead in Gaza. 
+
+<https://www.mvariety.com/news/regional_world/israelis-strike-and-protest-to-demand-gaza-hostage-deal/article_3843c804-6930-11ef-be4d-c7704b9d791f.html>
+
+---
+
+## MLB roundup: Mets send White Sox to historic low
+
+date: 2024-09-02, updated: 2024-09-03, from: Marianas Variety
+
+(Reuters) — Sean Manaea threw seven scoreless innings in his latest strong start and Francisco Lindor homered leading off the fourth inning Sunday afternoon for the visiting New York Mets, who completed a sweep of the reeling Chicago White Sox with a 2-0 win. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-mets-send-white-sox-to-historic-low/article_969f9e6e-6930-11ef-b9d2-8bf6fd9f54d1.html>
+
+---
+
+## Munnis, Mailed tops Run Saipan Labor Day Half Marathon 2024
+
+date: 2024-09-02, updated: 2024-09-03, from: Marianas Variety
+
+JAMES Munnis and Moira Mailed finished first in their respective divisions of the Run Saipan Labor Day Half Marathon 2024 at American Memorial Park on Saturday morning. 
+
+<https://www.mvariety.com/sports/localsports/munnis-mailed-tops-run-saipan-labor-day-half-marathon-2024/article_7623d99a-6906-11ef-a70c-273efc506d99.html>
+
+---
+
+## Dear Edward M. Calvo Cancer Foundation
+
+date: 2024-09-02, updated: 2024-09-03, from: Marianas Variety
+
+I AM writing to express my deepest gratitude for the incredible support and assistance that your foundation provided to my late father Jose H. Borja during his battle with cancer. Words cannot fully capture the immense appreciation my family and I feel for the compassion and care that you extended to him during such a difficult time in our lives. When my father was diagnosed with cancer, our world was turned upside down. The journey ahead was filled with uncertainty, fear, and countless challenges. Yet, amid the chaos and heartache, your foundation was a beacon of hope and comfort to our family. 
+
+<https://www.mvariety.com/views/letters_to_editor/dear-edward-m-calvo-cancer-foundation/article_61173b02-6931-11ef-add2-cbc64355dc79.html>
+
+---
+
 ## Variety editor’s 4th book available at Joeten Susupe
 
 date: 2024-09-02, updated: 2024-09-02, from: Marianas Variety
@@ -513,56 +683,6 @@ THE House of Representatives on Friday unanimously passed House Bill 23-103, whi
 
 ---
 
-## NMC recognizes outstanding employees
-
-date: 2024-09-02, updated: 2024-09-02, from: Marianas Variety
-
-(NMC) — Northern Marianas College has announced the recipients of its 2024 Annual PROA Employee Awards, which honor employees for their outstanding performance, contributions to NMC, and commitment to student learning. 
-
-<https://www.mvariety.com/news/community_bulletins/nmc-recognizes-outstanding-employees/article_a9048032-6931-11ef-a428-8b18a39d140e.html>
-
----
-
-## ‘Truman Show’ director Peter Weir wins Venice award, tells film-makers to unplug
-
-date: 2024-09-02, updated: 2024-09-02, from: Marianas Variety
-
-VENICE (Reuters) — Peter Weir, the Australian director of "The Truman Show," "Gallipoli" and "Dead Poets Society," was handed a Lifetime Achievement Award at the Venice Film Festival on Monday, and advised young film-makers to unplug to get ahead. 
-
-<https://www.mvariety.com/lifestyle/truman-show-director-peter-weir-wins-venice-award-tells-film-makers-to-unplug/article_8ee4f97c-6934-11ef-92ff-1be95890d67b.html>
-
----
-
-## George Clooney, Brad Pitt disappointed their new film skips cinemas
-
-date: 2024-09-02, updated: 2024-09-02, from: Marianas Variety
-
-VENICE (Reuters) — Hollywood heavyweights George Clooney and Brad Pitt admit they are disappointed their latest comedy "Wolfs" is not getting a broad cinema release and instead heading almost straight onto Apple TV. 
-
-<https://www.mvariety.com/lifestyle/george-clooney-brad-pitt-disappointed-their-new-film-skips-cinemas/article_dd4b9382-6934-11ef-ae94-ff2f1dc0141e.html>
-
----
-
-## Spanish town gets soaked in red during tomato-lobbing Tomatina festival
-
-date: 2024-09-02, updated: 2024-09-02, from: Marianas Variety
-
-BUNOL, Spain (Reuters) — The streets of a town in eastern Spain were awash in red on Wednesday as revelers flung overripe tomatoes at each other in a high-spirited battle royale during the traditional Tomatina festival. 
-
-<https://www.mvariety.com/lifestyle/spanish-town-gets-soaked-in-red-during-tomato-lobbing-tomatina-festival/article_26c4a2b0-6935-11ef-9f25-83a1fbf32cdc.html>
-
----
-
-## Kiss My Ace wins women’s volleyball title
-
-date: 2024-09-02, updated: 2024-09-02, from: Marianas Variety
-
-KISS My Ace defeated Lady Starz, 25-13, 25-20, to clinch the women’s division championship of Fall Fest Volleyball Tournament 2024 at the Agape Gymnasium on Saturday. 
-
-<https://www.mvariety.com/sports/localsports/kiss-my-ace-wins-women-s-volleyball-title/article_359cbcf2-6906-11ef-9a9b-bbcf6660051a.html>
-
----
-
 ## Inaka reels in biggest catch in ISLA 6th Annual Mafuti Derby
 
 date: 2024-09-02, updated: 2024-09-02, from: Marianas Variety
@@ -570,16 +690,6 @@ date: 2024-09-02, updated: 2024-09-02, from: Marianas Variety
 CAPTAIN Edward C. Sablan and the crew of Inaka stole the spotlight in the I Sanhalom Laguna Anglers Association’s 6th Annual Mafuti Derby with one of the biggest recorded catches, weighing 8.25 pounds, to win first place in the biggest catch category on Saturday. 
 
 <https://www.mvariety.com/sports/localsports/inaka-reels-in-biggest-catch-in-isla-6th-annual-mafuti-derby/article_81280b78-6905-11ef-b8fc-dba97a7eff3e.html>
-
----
-
-## WAO, CWA, lawmakers celebrate partnership
-
-date: 2024-09-02, updated: 2024-09-02, from: Marianas Variety
-
-THE CNMI Women’s Association and the Women’s Affairs Office are grateful for the Legislature’s support of the 10th Annual CNMI Women’s Summit, CNMI Women’s Association board president Dorsha Moreno said on Friday, Aug. 30. 
-
-<https://www.mvariety.com/news/local/wao-cwa-lawmakers-celebrate-partnership/article_b48dc914-68d6-11ef-b7e2-cf9cee85e9e0.html>
 
 ---
 
@@ -794,6 +904,76 @@ date: 2024-09-02, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/09/02/opinion/why-the-fed-shouldnt-stop-worrying-about-inflation/>
+
+---
+
+## GDOE has 49 teacher vacancies
+
+date: 2024-09-02, from: Guam Daily Post
+
+There are 1,835 teacher-related positions spread out in the Guam Department of Education, a bulk of them filled, some by tapping into the pool of retired teachers, but there remain several vacancies that the department is currently trying to fill… 
+
+<https://www.postguam.com/news/local/gdoe-has-49-teacher-vacancies/article_7b1dbaa8-6689-11ef-85c2-6bc98e8cae76.html>
+
+---
+
+## Guam soccer excelled in China
+
+date: 2024-09-02, from: Guam Daily Post
+
+Guam’s U15 women’s national team returned home last week after its notable run in the East Asian Football Federation U15 Women’s Championship 2024 in Dalian, China, finishing second place in Group B with a 3-1 record. 
+
+<https://www.postguam.com/sports/local/guam-soccer-excelled-in-china/article_c48c0a22-67ed-11ef-b2b7-9fc27fe13333.html>
+
+---
+
+## Procurement issues delay drug detector dogs
+
+date: 2024-09-02, from: Guam Daily Post
+
+In the war on drugs, 18 drug detection dogs would be a big help to various agencies on the front lines, but as the Opioid Recovery Advisory Council noted on Thursday, there are issues with procurement that have delayed bringing… 
+
+<https://www.postguam.com/news/local/procurement-issues-delay-drug-detector-dogs/article_cfd3e78c-65d7-11ef-8617-1f8a908bef85.html>
+
+---
+
+## Guam EPA: No nitrogen-reducing  systems, industry should catch up
+
+date: 2024-09-02, from: Guam Daily Post
+
+While the Guam Environmental Protection Agency develops rules and regulations for newly authorized nitrogen-reducing systems, the local industry needs to "catch up," as no one on Guam is currently offering or has a supply of such systems, acting Guam EPA… 
+
+<https://www.postguam.com/news/local/guam-epa-no-nitrogen-reducing-systems-industry-should-catch-up/article_f1b63e46-666c-11ef-8046-cfec6efa6093.html>
+
+---
+
+## Unsealed: Couple guilty of SNAP fraud,  trafficking, illegal possession of firearms
+
+date: 2024-09-02, from: Guam Daily Post
+
+A case unsealed in federal court showed a couple defrauded the Supplemental Nutrition Assistance Program for five years and were illegally in possession of firearms. 
+
+<https://www.postguam.com/news/local/unsealed-couple-guilty-of-snap-fraud-trafficking-illegal-possession-of-firearms/article_4f9c6e78-668a-11ef-a200-4fde88b8429b.html>
+
+---
+
+## GMHA reducing reliance on travel  nurses, recruitment gains traction
+
+date: 2024-09-02, from: Guam Daily Post
+
+The Guam Memorial Hospital Authority is reducing its reliance on travel nurses as staffing solutions, which include the recent increase in pay for nurses, are “working” to improve recruitment and retention. 
+
+<https://www.postguam.com/news/local/gmha-reducing-reliance-on-travel-nurses-recruitment-gains-traction/article_04b63d86-6792-11ef-9593-03a4d7329a89.html>
+
+---
+
+## PUC: $3.5M for Piti 7 overhaul
+
+date: 2024-09-02, from: Guam Daily Post
+
+The Public Utilities Commission has greenlit a contract between the Guam Power Authority and Taiwan Electrical and Mechanical Engineering Services (TEMES) Inc. for the overhaul of the Piti 7 combustion turbine unit, authorizing the utility to expend up to $3.5… 
+
+<https://www.postguam.com/news/local/puc-3-5m-for-piti-7-overhaul/article_24b16b74-66a2-11ef-a343-170369ad6f35.html>
 
 ---
 
@@ -1169,4 +1349,64 @@ date: 2024-09-01, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/09/01/sports/sun-rout-mystics-as-dewanna-bonner-becomes-wnbas-no-4-all-time-scorer/>
+
+---
+
+## Labor Day Picnic draws thousands, builds camaraderie
+
+date: 2024-09-01, from: Guam Daily Post
+
+Thousands gathered at the Gov. Joseph Flores Memorial Park, or Ypao Beach, in Tumon on Sunday to celebrate the hardworking people of the Government of Guam at the annual Labor Day Picnic. 
+
+<https://www.postguam.com/news/local/labor-day-picnic-draws-thousands-builds-camaraderie/article_e9ce8610-680c-11ef-b098-6b8e2737ec18.html>
+
+---
+
+## Guam gets go-ahead on $155M for broadband equity
+
+date: 2024-09-01, from: Guam Daily Post
+
+The National Telecommunications and Information Administration, or NTIA, has approved Guam's initial proposal funding request for using grant moneys under the Broadband Equity, Access and Deployment, or BEAD, program, according to press releases from the offices of Gov. Lou Leon… 
+
+<https://www.postguam.com/news/local/guam-gets-go-ahead-on-155m-for-broadband-equity/article_20363ec2-6683-11ef-bdf9-3bcf45d0b44e.html>
+
+---
+
+## BeHeartfelt needs teams for Can-struction event to feed hungry youth
+
+date: 2024-09-01, from: Guam Daily Post
+
+BeHeartfelt, a nonprofit organization dedicated to helping homeless children and other island youth is back at it trying to secure donations to feed children on weekends and put a good pair of shoes on their feet for school. 
+
+<https://www.postguam.com/news/local/beheartfelt-needs-teams-for-can-struction-event-to-feed-hungry-youth/article_ca29cec8-673f-11ef-a274-87e41aca62ad.html>
+
+---
+
+## Woman accused of assaulting Airport Police officer
+
+date: 2024-09-01, from: Guam Daily Post
+
+A woman was accused of assaulting a Guam Airport Police officer responding to reports of the woman walking in the middle of the road. 
+
+<https://www.postguam.com/news/local/woman-accused-of-assaulting-airport-police-officer/article_6f376286-6691-11ef-8cd1-fb65b4f28380.html>
+
+---
+
+## GMH fiscal 2025 budget shortfall could impact services
+
+date: 2024-09-01, from: Guam Daily Post
+
+The Guam Memorial Hospital Authority will be funded at half of its requested budget for fiscal year 2025 and, unless the hospital receives more in a supplemental budget, hospital services could be affected severely. 
+
+<https://www.postguam.com/news/local/gmh-fiscal-2025-budget-shortfall-could-impact-services/article_a09d9b24-674a-11ef-a179-d37f2d528a22.html>
+
+---
+
+## 4 schools pass sanitary inspection, officials talk budget needs
+
+date: 2024-09-01, from: Guam Daily Post
+
+On Tuesday, three Guam Department of Education school populations will return to their home campuses following an announcement on Friday that four schools passed sanitary inspection. 
+
+<https://www.postguam.com/news/local/4-schools-pass-sanitary-inspection-officials-talk-budget-needs/article_131f92a6-6746-11ef-90e5-a3747382d15d.html>
 
