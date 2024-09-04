@@ -1,11 +1,154 @@
 ---
 title: home
-updated: 2024-09-04 07:45:04
+updated: 2024-09-04 13:41:24
 ---
 
 # home
 
-(date: 2024-09-04 07:45:04)
+(date: 2024-09-04 13:41:24)
+
+---
+
+## Why Choose a Walkable Community?
+
+date: 2024-09-04, from: Elemental Green blog
+
+<p>Lifting up public health and safety, while fostering community, make walkable neighborhoods desirable places to live, work, and play. Find yours today!</p>
+<p>The post <a href="https://elemental.green/why-choose-a-walkable-community/">Why Choose a Walkable Community?</a> first appeared on <a href="https://elemental.green">Elemental Green</a>.</p> 
+
+<https://elemental.green/why-choose-a-walkable-community/>
+
+---
+
+## Sunjoy Gazebo Review: I Tried a 15-Foot Octagon Gazebo in My Backyard; Here’s How It Went
+
+date: 2024-09-04, from: Family Handyman Blog
+
+Thinking about buying a gazebo? Check out our review of this Sunjoy Gazebo, which I had installed in my own backyard. 
+
+<https://www.familyhandyman.com/article/sunjoy-gazebo-review/>
+
+---
+
+## Before & After: They Gave Their Portland Ranch House a "Midsommar Modern" Revamp
+
+date: 2024-09-04, from: Dwell
+
+Moody florals meet custom millwork and gleaming brass in this Pacific Northwest midcentury reno by Bright Designlab. 
+
+<https://www.dwell.com/article/before-and-after-wilcox-estate-midcentury-home-renovation-bright-designlab-portland-oregon-40af756d>
+
+---
+
+## Detector Dogs — CDFA joins county Ag Commissioners, USDA, and congressional staff members for parcel facility tour to see dogs in action
+
+date: 2024-09-04, from: Calfifornia Dept. Aggriculture blog
+
+CDFA joined USDA officials and congressional staff members last week to watch a detector dog in action at a FedEx facility in Orange County, on a tour organized by the California Agriculture Commissioners and Sealers Association (CACASA). “California operates an &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28123">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28123>
+
+---
+
+## No Small Plans: 10 Floor Plans That Transform Garages into Livable Spaces
+
+date: 2024-09-04, from: Dwell
+
+These conversions show how an unused garage can add some extra square footage to your home—or be converted into an entirely new one. 
+
+<https://www.dwell.com/article/no-small-plans-10-floor-plans-that-transform-garages-into-livable-spaces-b75955aa>
+
+---
+
+## For $1.5M, Scoop Up a Historic Seaside Villa in Portugal
+
+date: 2024-09-04, from: Dwell
+
+The renovated home is filled with wide archways, handcrafted built-in furniture, sea views, and soothing tones. 
+
+<https://www.dwell.com/article/chalet-guilhermina-renovation-studio-astolfi-vanessa-ruivo-estoril-portugal-real-estate-8f7c470e>
+
+---
+
+## How to Propagate Succulents from Offsets
+
+date: 2024-09-04, from: The Gardener's Path
+
+<p>One of the fun aspects of growing succulents is how easily they reproduce, and growing new plants from offsets or pups may be the easiest propagation technique of all. However, there are a few important steps you need to follow to ensure you are successful. Learn to propagate succulents from offsets in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/propagate-offsets/">How to Propagate Succulents from Offsets</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/succulents/propagate-offsets/>
+
+---
+
+## If You’re Checking a Bag, You’re Traveling Wrong—Here’s the Right Way to Pack a Carry-on Bag
+
+date: 2024-09-04, from: Sunset Magazine - Living in the West
+
+There are countless reasons you should be traveling with a carry-on: no lost luggage and no waits are two. Here's how to pack a carry-on bag for any trip. 
+
+<https://www.sunset.com/travel/how-to-pack-carry-on>
+
+---
+
+## Absolutely Everything You Need to Know About Maximizing Your Airport Lounge Time
+
+date: 2024-09-04, from: Sunset Magazine - Living in the West
+
+Here's how to optimize your travel experience with airport lounges, according to an expert. Live in luxury away from chaotic airport crowds. 
+
+<https://www.sunset.com/travel/travel-tips/airport-lounge-tips>
+
+---
+
+## These Are the Destinations Everyone Will Be Traveling to This Fall
+
+date: 2024-09-04, from: Sunset Magazine - Living in the West
+
+With autumn adventures on the horizon, these are the spots that are going to be the most booked according to Airbnb. 
+
+<https://www.sunset.com/travel/top-travel-destinations-fall-2024>
+
+---
+
+## This Is How a Professional Stylist Packs for a Wedding Weekend (and Yes, It All Fits in a Carry-On)
+
+date: 2024-09-04, from: Sunset Magazine - Living in the West
+
+You don't need to bring your whole closet to a wedding weekend. A professional stylist shares her efficient wedding packing tips. 
+
+<https://www.sunset.com/travel/wedding-packing-tips>
+
+---
+
+## 7 Backyards That Prove You Don’t Need a Pool to Have Fun in the Sun
+
+date: 2024-09-04, from: Sunset Magazine - Living in the West
+
+You don't have to have a backyard with a pool to have fun this summer. Designers share backyard design tips that don't require a pool. 
+
+<https://www.sunset.com/home-garden/outdoor-living/no-pool-backyard-ideas>
+
+---
+
+## 12 ‘Brat Summer’-Inspired Ideas from Interior Design Experts
+
+date: 2024-09-04, from: Sunset Magazine - Living in the West
+
+You can bring the Brat Summer trend home, too. Interior designers shared their favorite ways to incorporate the lime green trend. 
+
+<https://www.sunset.com/home-garden/design/brat-summer-home-decor>
+
+---
+
+## How to Set Up Your Dorm Room So It Stays Organized for the Whole School Year
+
+date: 2024-09-04, from: Sunset Magazine - Living in the West
+
+Set yourself up for success this school year by organizing your dorm room with the right furniture, decor, and storage. 
+
+<https://www.sunset.com/home-garden/design/how-to-organize-dorm-room>
 
 ---
 
@@ -27,16 +170,6 @@ date: 2024-09-04, from: Elemental Green blog
 <p>The post <a href="https://elemental.green/enercept-customized-sips-the-easiest-way-to-build-green/">Enercept Customized SIPs: The Easiest Way to Build Green</a> first appeared on <a href="https://elemental.green">Elemental Green</a>.</p> 
 
 <https://elemental.green/enercept-customized-sips-the-easiest-way-to-build-green/>
-
----
-
-## These Are the Destinations Everyone Will Be Traveling to This Fall
-
-date: 2024-09-04, from: Sunset Magazine - Living in the West
-
-With autumn adventures on the horizon, these are the spots that are going to be the most booked according to Airbnb. 
-
-<https://www.sunset.com/travel/top-travel-destinations-fall-2024>
 
 ---
 
@@ -67,6 +200,16 @@ date: 2024-09-03, from: Dwell
 Preserved historical details, like an old bell tower, meet contemporary updates, like an illuminated catwalk, in this Toronto townhome. 
 
 <https://www.dwell.com/article/sothebys-international-neogothic-church-ontario-estate-c3232293>
+
+---
+
+## For $3.2M, You Can Live in an Olson Kundig Apartment in Pike Place Market
+
+date: 2024-09-03, from: Dwell
+
+This Seattle home is as stunning as the sights it surrounds. 
+
+<https://www.dwell.com/article/sothebys-international-olson-kundig-seattle-real-estate-cd333039>
 
 ---
 

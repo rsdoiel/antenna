@@ -1,11 +1,95 @@
 ---
 title: socal north
-updated: 2024-09-04 07:44:57
+updated: 2024-09-04 13:41:17
 ---
 
 # socal north
 
-(date: 2024-09-04 07:44:57)
+(date: 2024-09-04 13:41:17)
+
+---
+
+## UCLA women’s soccer to face Tennessee, Kentucky in series of cross-country games
+
+date: 2024-09-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins say goodbye to the West Coast as they embark on their cross-country trip.
+No. 9 UCLA women&#8217;s soccer (5-1) will be competing in a series of cross-country matches against Tennessee (3-1) and Kentucky (5-0)  on Thursday and Sunday, respectively, marking the second and third of six away matches in a row. 
+
+<https://dailybruin.com/2024/09/04/ucla-womens-soccer-to-face-tennessee-kentucky-in-series-of-cross-country-games/>
+
+---
+
+## Winner Takes All: Dissecting Beyoncé’s discography to determine her greatest album
+
+date: 2024-09-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+This week marks one year since Beyoncé’s record-breaking “RENAISSANCE WORLD TOUR” visited Inglewood’s SoFi Stadium, and today the 32-time Grammy Award winner celebrates her 43rd birthday. 
+
+<https://dailybruin.com/2024/09/04/winner-takes-all-dissecting-beyoncs-discography-to-determine-her-greatest-album/>
+
+---
+
+## Tennis and pickleball courts to be closed permanently
+
+date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The area will be used to start development on new USC Athletics facilities.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/04/tennis-and-pickleball-courts-closed-permanently/">Tennis and pickleball courts to be closed permanently</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/04/tennis-and-pickleball-courts-closed-permanently/>
+
+---
+
+## Looking to beat the heat? Avoid these LA County beaches
+
+date: 2024-09-04, updated: 2024-09-04, from: The LAist
+
+The bacteria levels in the water once again exceed state health standards for beaches across San Pedro, Santa Monica and Malibu. 
+
+<https://laist.com/news/climate-environment/looking-to-beat-the-heat-avoid-these-la-county-beaches>
+
+---
+
+## California companies wrote their own gig worker law. Now no one is enforcing it
+
+date: 2024-09-04, updated: 2024-09-04, from: The LAist
+
+Prop. 22 promised improved pay and benefits for California gig workers. But when companies fail to deliver, the state isn’t doing much to help push back. 
+
+<https://laist.com/news/politics/california-companies-wrote-their-own-gig-worker-law-now-no-one-is-enforcing-it>
+
+---
+
+## UCLA announces new Time, Place and Manner policies, limits public expression areas
+
+date: 2024-09-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA announced new regulations governing campus protests Wednesday.
+Administrative Vice Chancellor Michael Beck and Vice Chancellor for Student Affairs Monroe Gorden Jr. announced new Time, Place and Manner regulations in a BruinPost announcement. 
+
+<https://dailybruin.com/2024/09/04/ucla-announces-new-time-place-and-manner-policies-limits-public-expression-areas/>
+
+---
+
+## Another heatwave expected to scorch SoCal. We have tips on staying cool
+
+date: 2024-09-04, updated: 2024-09-04, from: The LAist
+
+Do you know to how to tell the difference between heat stroke and heat exhaustion? We got you covered. 
+
+<https://laist.com/news/climate-environment/la-weather-report-sept-4-heat-wave-excessive-heat-watch-ozone-alert>
+
+---
+
+## LAUSD School Board District 5
+
+date: 2024-09-04, updated: 2024-09-04, from: The LAist
+
+Grace Ortiz and Karla Griego are vying to replace retiring LAUSD Board president Jackie Goldberg. The winner will represent a curiously shaped district that spans from Southeast to Northeast L.A. 
+
+<https://laist.com/news/politics/2024-election-california-general-los-angeles-county-lausd-school-board-district-5>
 
 ---
 
@@ -26,16 +110,6 @@ date: 2024-09-04, updated: 2024-09-04, from: The LAist
 Three seats are up for grabs on the powerful board that oversees the nation’s second-largest school district. LAUSD faces enormous challenges, including funding shortfalls, chronic absenteeism, and safety concerns. 
 
 <https://laist.com/news/politics/2024-general-election-california-los-angeles-county-lausd-school-board>
-
----
-
-## LAUSD School Board District 5
-
-date: 2024-09-04, updated: 2024-09-04, from: The LAist
-
-Grace Ortiz and Karla Griego are vying to replace retiring LAUSD Board president Jackie Goldberg. The winner will represent a curiously shaped district that spans from Southeast to Northeast L.A. 
-
-<https://laist.com/news/politics/2024-election-california-general-los-angeles-county-lausd-school-board-district-5>
 
 ---
 
@@ -103,6 +177,7 @@ date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
 
+<p>Los Angeles needs lasting public transportation solutions for 2028.</p>
 <p>The post <a href="https://dailytrojan.com/2024/09/04/olympics-require-changes-to-la-transit-infrastructure/">Olympics require changes to LA transit infrastructure</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
@@ -150,6 +225,7 @@ date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
 
+<p>As a natural talker, I end up revealing secrets to strangers, putting myself in a vulnerable position.</p>
 <p>The post <a href="https://dailytrojan.com/2024/09/04/the-perils-of-being-a-yapper/">The perils of being a yapper</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
@@ -189,11 +265,11 @@ date: 2024-09-03, from: City of Santa Clarita
 
 ---
 
-## Huntington Beach may be first city to call for OC Supervisor Andrew Do's resignation
+## Huntington Beach calls for OC Supervisor Andrew Do's resignation
 
-date: 2024-09-03, updated: 2024-09-03, from: The LAist
+date: 2024-09-03, updated: 2024-09-04, from: The LAist
 
-The Huntington Beach City Council is poised to become the first city to weigh in on Orange County Supervisor Andrew Do, who has faced increasing calls to step down amid an unfolding scandal involving fraud allegations. 
+Do has faced increasing calls to step down amid an unfolding scandal involving fraud allegations. 
 
 <https://laist.com/news/politics/huntington-beach-andrew-do-city-council-vote>
 

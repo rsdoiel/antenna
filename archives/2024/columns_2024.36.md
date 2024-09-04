@@ -1,11 +1,198 @@
 ---
 title: columns
-updated: 2024-09-04 07:45:00
+updated: 2024-09-04 13:41:20
 ---
 
 # columns
 
-(date: 2024-09-04 07:45:00)
+(date: 2024-09-04 13:41:20)
+
+---
+
+##  The Banned Somersault Long Jump 
+
+date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/the-banned-somersault-long-jump>
+
+---
+
+## September 3, 2024
+
+date: 2024-09-04, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-3-2024-83b>
+
+---
+
+##  Useful Time Travel Is Impossible. But Fun to Think About. 
+
+date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/useful-time-travel-is-impossible-but-fun-to-think-about>
+
+---
+
+##  Realized I often use &#8220;Forgetful Jones&#8221; when describing my tendency to forget... 
+
+date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045226-realized-i-often-use-forg>
+
+---
+
+##  A new scientific analysis suggests that the Altar Stone at Stonehenge (weighing... 
+
+date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045210-a-new-scientific-analysis>
+
+---
+
+##  If you (or someone you know) has hiked the Appalachian Trail since... 
+
+date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045225-if-you-or-someone-you>
+
+---
+
+## 2024-08-25 GoToSocial problems
+
+date: 2024-09-04, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-25-gotosocial-problems">2024-08-25 GoToSocial problems</h1>
+
+<p>So you&rsquo;re considering self-hosting? You heard good things about <a href="https://github.com/superseriousbusiness/gotosocial">GoToSocial</a>? I like it. I use it. This post is about the problems you should be expecting at the moment.</p>
+
+<p>It&rsquo;s not surprising, after all. This is a very prominent sentence in their README:</p>
+
+<blockquote>
+<p>GoToSocial is still ALPHA SOFTWARE.</p>
+</blockquote>
+
+<p>But what are the exact problems? Sometimes alpha software is good enough, right?</p>
+
+<p><a class="tag" href="/search/?q=%23Social_Media">#Social Media</a> <a class="tag" href="/search/?q=%23GoToSocial">#GoToSocial</a></p>
+
+<h2 id="major-annoyances">Major annoyances</h2>
+
+<p><strong>No post editing</strong>. I hope you can handle your own typos. All you have is &ldquo;Delete and Redraft&rdquo;. But that orphans all replies, undoes all boosts, forgets all likes and removes posts from bookmarks. &ldquo;Delete and Redraft&rdquo; is a sledge hammer. &ldquo;Edit post&rdquo; is a delicate quill. And you don&rsquo;t get to have it. YOLO! (You only live once.)</p>
+
+<p><strong>No filtering</strong>. You can mute and block and all that, but when everybody is posting about Monsterdon, the European Song Contest, the US elections, Caturday or Wordle, you can&rsquo;t filter those hashtags. You must endure the enthusiasm of the people you are following. (I think the developers are implementing things, but it does not seem to have an effect in the front-ends I use, so who knows.)</p>
+
+<p><strong>Limited federation</strong>. This one is hard to spot. You want to follow this account and that account and it all seems to work until you go back and find that for one account, your follow request seems to hang in limbo, waiting. You cancel, and follow again. It seems to work. Come back later, back in limbo again, waiting. If you check the log, you&rsquo;ll find errors about signatures failing and what not. I have no idea. There are currently <a href="https://github.com/superseriousbusiness/gotosocial/issues?q=is%3Aissue+is%3Aopen+signature">8 open issues containing the word &lsquo;signature&rsquo;</a>. Something is not working and you&rsquo;ll have to have an alt (a separate account) on a different server that doesn&rsquo;t have this issue. That makes me sad. 😥</p>
+
+<h2 id="minor-annoyances">Minor annoyances</h2>
+
+<p><strong>No automatic post expiry</strong>. And you cannot use <a href="https://src.alexschroeder.ch/mastodon-archive.git/">Mastodon Archive</a> because of some version number check the Python Mastodon library refuses to work.</p>
+
+<h2 id="no-problem">No problem</h2>
+
+<p><strong>No front-end</strong>. There is no front-end. I use apps like <a href="https://mastodon.social/@tootapp">Toot!</a> on my phone and <a href="https://semaphore.social/">Semaphore</a> on the web. I don&rsquo;t need anything fancy. And for the non-fancy options, I have <a href="https://codeberg.org/martianh/mastodon.el">mastodon.el</a> for Emacs, <a href="https://github.com/ihabunek/toot">toot</a> for the command-line, <a href="https://tuba.geopjr.dev/">tuba</a> for Gnome, <a href="https://src.alexschroeder.ch/bitlbee-mastodon.git/">bitlbee-mastodon</a> for IRC, and so on. There are plenty of options.</p>
+
+<h2 id="the-good-stuff">The good stuff</h2>
+
+<p><strong>Markdown</strong> in your posts. I like my code blocks.</p>
+
+<p><strong>SQLite</strong> on the server. It&rsquo;s currently 8.4G. The media stuff is 11G.</p>
+
+<p><strong>Memory footprint</strong>. I use Monit to monitor processes and this process uses 185.6 MB.</p>
+
+<p><strong>No admin</strong>. I haven&rsquo;t had to run any administration task. Not once. ❤️</p> 
+
+<https://alexschroeder.ch/view/2024-08-25-gotosocial>
+
+---
+
+## Listened to WordPress in Education
+
+date: 2024-09-04, from: John's World Wide Wall Display
+
+Listened to Episode 85: WordPress in Education – WordPress News on the WordPress Briefing. This episode covers some suggested uses of WordPress in Education. I was please to hear it was not concentrating on tertiary education. The host Josepha Haden Chomphosy (Executive Director of the WordPress project!) gave some good reasons for using WordPress in [&#8230;] 
+
+<https://johnjohnston.info/blog/listened-to-wordpress-in-education/>
+
+---
+
+##  Different Kinds of Human Operating Systems 
+
+date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/different-kinds-of-human-operating-systems>
+
+---
+
+##  &#8220;Tim Walz has tonic masculinity. Confident. Decent. The kind of man who&#8230;would... 
+
+date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045214-tim-walz-has-tonic-mascul>
+
+---
+
+## Funny story
+
+date: 2024-09-04, from: Dave Winer's Scripting News
+
+<p>I asked ChatGPT to "colorize" the first picture. The second picture is what it produced. Note I didn't say "editorialize." I don't know what you think but I think it's art! (I'm serious, I'll write more about that. I love that it's making us define art.)</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/09/04/blackAndWhite.png"></center>The first picture.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/09/04/colorized.png"></center>The second picture.</div></p>
+ 
+
+<http://scripting.com/2024/09/04/155355.html?title=funnyStory>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-04, from: Dave Winer's Scripting News)
+
+Aaron Sorkin is like <a href="http://scripting.com/stories/2011/01/01/theWorldIsSocialist.html">Ayn Rand</a>. Reviewing his stories after you've grown up makes you wonder why you liked it in the first place. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/09/04.html#a153756>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-04, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/09/04/theNewsroomViaChatGPT.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm watching the HBO series <a href="https://en.wikipedia.org/wiki/The_Newsroom_(American_TV_series)">The Newsroom</a> from 2012, it's an <a href="https://en.wikipedia.org/wiki/Aaron_Sorkin">Aaron Sorkin</a> show. It's fairly insipid, but for some reason I keep watching. They have a multi-episode <a href="https://en.wikipedia.org/wiki/List_of_The_Newsroom_episodes#Season_2_(2013)">controversy</a> as they go crazy trying to source a rumor they've heard that the US bombed a town in the Middle East with sarin gas, and killed a lot of people. In other words they committed a war crime. Turns out they were set up by multiple people, and they went through all kinds of angst over who should resign and who should be fired, and how they would ever regain the trust of the viewers. It is a Sorkin thing so it is by definition overdone, but in the context of today's NYT and CNN and all the other schlock "news" that reports Trump's ever-more-egrious lies not only without fact checking, but knowing for sure the lies are coming. That this has happened to American "journalism" is worse than a war crime. It's what everyone told us is an essential part of an authoritarian state, we expect everything in the news to be lies. We have now gotten there. It's good to acknowledge that, imho and stop asking why it is, rather think about <i>what you can do</i> about it. 
+
+<http://scripting.com/2024/09/04.html#a153237>
+
+---
+
+##  The last coal-fired power station in the UK will close down on... 
+
+date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045222-the-last-coal-fired-power>
+
+---
+
+## Trump Threatens Zuckerberg With ‘Life in Prison’ in New Book
+
+date: 2024-09-04, updated: 2024-09-04, from: Daring Fireball
+
+ 
+
+<https://www.politico.com/news/2024/08/28/trump-zuckerberg-election-book-00176639>
 
 ---
 
@@ -153,7 +340,7 @@ date: 2024-09-03, updated: 2024-09-04, from: Daring Fireball
 
 ## Departure Mono
 
-date: 2024-09-03, updated: 2024-09-03, from: Daring Fireball
+date: 2024-09-03, updated: 2024-09-04, from: Daring Fireball
 
  
 
@@ -183,7 +370,7 @@ date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke's blog
 
 ## Brazil’s X Ban Is Sending Lots of People to Bluesky
 
-date: 2024-09-03, updated: 2024-09-03, from: Daring Fireball
+date: 2024-09-03, updated: 2024-09-04, from: Daring Fireball
 
  
 

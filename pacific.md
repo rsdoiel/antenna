@@ -1,11 +1,45 @@
 ---
 title: pacific
-updated: 2024-09-04 07:44:58
+updated: 2024-09-04 13:41:18
 ---
 
 # pacific
 
-(date: 2024-09-04 07:44:58)
+(date: 2024-09-04 13:41:18)
+
+---
+
+## Hawaii men’s basketball complete schedule released
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>A home game against North Carolina, a road one against Grand Canyon, and the Diamond Head Classic are among the highlights of the University of Hawaii&#8217;s 2024-25 men&#8217;s basketball schedule.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/sports/hawaii-mens-basketball-complete-schedule-released/>
+
+---
+
+## Discovering yeast in Hawaiʻi could answer larger questions
+
+date: 2024-09-04, from: University of Hawaiʻi News
+
+<p>Anthony Amend anticipates identifying potentially hundreds of novel yeast species.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/04/discovering-yeast-in-hawaii/">Discovering yeast in Hawaiʻi could answer larger questions</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/04/discovering-yeast-in-hawaii/>
+
+---
+
+## Image of the Week: Bat flower
+
+date: 2024-09-04, from: University of Hawaiʻi News
+
+<p>This week's image is from Lyon Arboretum's Luana Low.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/04/image-of-the-week-bat-flower/">Image of the Week: Bat flower</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/04/image-of-the-week-bat-flower/>
 
 ---
 
@@ -331,7 +365,7 @@ The post <a href="https://www.hawaii.edu/news/2024/09/03/hawaiian-word-of-the-we
 date: 2024-09-04, from: University of Hawaiʻi News
 
 <p>The celebration included activities that honored Native Hawaiian culture and brought the Queen’s historical stories to life.</p>
-The post <a href="https://www.hawaii.edu/news/2024/09/03/e-liliu-e-tribute-to-queens-legacy/">E Liliʻu Ē: UH Mānoa tribute to Queen’s legacy</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2024/09/03/e-liliu-e-tribute-to-queens-legacy/">E Liliʻu Ē: <abbr>UH</abbr> Mānoa tribute to Queen’s legacy</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/09/03/e-liliu-e-tribute-to-queens-legacy/>
 

@@ -1,11 +1,31 @@
 ---
 title: libraries
-updated: 2024-09-04 07:45:03
+updated: 2024-09-04 13:41:23
 ---
 
 # libraries
 
-(date: 2024-09-04 07:45:03)
+(date: 2024-09-04 13:41:23)
+
+---
+
+## A Strange Disappearance, by Anna Katharine Green
+
+date: 2024-09-04, from: Standard Ebooks, new releaases
+
+A young detective is challenged to find a missing woman in New York City. 
+
+<https://standardebooks.org/ebooks/anna-katharine-green/a-strange-disappearance>
+
+---
+
+## The Doctor’s Dilemma, by George Bernard Shaw
+
+date: 2024-09-04, from: Standard Ebooks, new releaases
+
+A doctor must decide which patient is worthy of his newly discovered cure: a talented but amoral artist, or a good-hearted but undistinguished public servant. 
+
+<https://standardebooks.org/ebooks/george-bernard-shaw/the-doctors-dilemma>
 
 ---
 
@@ -25,7 +45,7 @@ date: 2024-09-04, from: Scholarly Kitchen
 
 date: 2024-09-03, from: Association of Research Libraries News
 
-<p>Last Updated on September 3, 2024, 4:03 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, September 4 &#124; Thursday, September 5 Tuesday, September...</p>
+<p>Last Updated on September 4, 2024, 3:58 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, September 4 &#124; Thursday, September 5 Tuesday, September...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-3-5/">Day in Review (September 3–5)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -73,6 +93,16 @@ date: 2024-09-03, from: ETH Zurich, recently added
 Walzer, Alexander N.; Mariia Kozlova; Julian Scott Yeomans 
 
 <http://hdl.handle.net/20.500.11850/692075>
+
+---
+
+## Scale-Bridging Mechanics Transfer Enables Ultrabright Mechanoluminescent Fiber Electronics
+
+date: 2024-09-03, from: ETH Zurich, recently added
+
+Yang, Weifeng; Gong, Wei; Chang, Boya; Wang, Yue; Li, Kerui; Li, Yaogang; Zhang, Qinghong; Hou, Chengyi; Wang, Hongzhi 
+
+<http://hdl.handle.net/20.500.11850/691133>
 
 ---
 

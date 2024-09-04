@@ -1,11 +1,44 @@
 ---
 title: writing
-updated: 2024-09-04 07:45:02
+updated: 2024-09-04 13:41:22
 ---
 
 # writing
 
-(date: 2024-09-04 07:45:02)
+(date: 2024-09-04 13:41:22)
+
+---
+
+## 📺 TV in movies
+
+date: 2024-09-04, from: Interesting, a blog on writing
+
+"In news you can use tonight, some exposition for our theatrical audience." 
+
+<https://inneresting.substack.com/p/tv-in-movies>
+
+---
+
+## Changes At Gamut
+
+date: 2024-09-04, from: Locus Magazine
+
+<div style="text-align: left;">House of Gamut has rebranded and relaunched Gamut Publishing as Ruadán Books, including &#8220;All anthologies and novel contracts&#8221; previously signed with Gamut. Scheduled titles include anthology <strong>120 Murders </strong>edited by Nick Mamatas. Ruadán is open to submissions of short stories, novellas, and novels, as well as non-fiction for their column &#8220;From the Writers Desk&#8221;.</div>
+<div></div>
+<div>Gamut also announced the closure of Gamut Academy and Gamut Magazine, with their final scheduled issue </div> <a href="https://locusmag.com/2024/09/changes-at-gamut/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/09/changes-at-gamut/>
+
+---
+
+## SHORT TAKES: Gary K. Wolfe Reviews Tomorrowing by Terry Bisson and The Book Blinders by John Clute
+
+date: 2024-09-04, from: Locus Magazine
+
+<p><strong>Tomorrowing</strong>, Terry Bisson (Duke University Press 978-1-4780-3068-3, $15.95, 168pp, tp) May 2024.</p>
+<p>Terry Bisson, who died in January, began writing his ‘‘This Month in History’’ column of hilarious microfictions for Locus on April Fool’s Day 2004, and for the next two decades it became as much a fixture of this magazine as The New Yorker’s car­toons or Alfred Hitchcock’s cameos. (He’d actually begun a similar series for Eileen Gunn’s  <a href="https://locusmag.com/2024/09/short-takes-gary-k-wolfe-reviews-tomorrowing-by-terry-bisson-and-the-book-blinders-by-john-clute/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/short-takes-gary-k-wolfe-reviews-tomorrowing-by-terry-bisson-and-the-book-blinders-by-john-clute/>
 
 ---
 

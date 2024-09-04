@@ -1,11 +1,31 @@
 ---
 title: journalism
-updated: 2024-09-04 07:45:03
+updated: 2024-09-04 13:41:23
 ---
 
 # journalism
 
-(date: 2024-09-04 07:45:03)
+(date: 2024-09-04 13:41:23)
+
+---
+
+## The Salt Lake Tribune, profitable and growing, seeks to rid itself of that “necessary evil” — the paywall
+
+date: 2024-09-04, from: Nieman Journalism Lab
+
+It started when Andy Larsen, sports reporter and data columnist for The Salt Lake Tribune, got annoyed with an &#8220;obnoxious&#8221; ad on the Tribune&#8217;s own site. He brought his frustration about the digital clutter to someone else who happened to be working late in the newsroom — chief development officer Ciel Hunter. &#8220;I asked her:... 
+
+<https://www.niemanlab.org/2024/09/the-salt-lake-tribune-profitable-and-growing-seeks-to-rid-itself-of-that-necessary-evil-the-paywall/>
+
+---
+
+## Want to fight misinformation? Teach people how algorithms work
+
+date: 2024-09-04, from: Nieman Journalism Lab
+
+In an era dominated by social media, misinformation has become an all too familiar foe, infiltrating our feeds and sowing seeds of doubt and confusion. With more than half of social media users across 40 countries encountering false or misleading information weekly, it&#8217;s clear that we&#8217;re facing a crisis of misinformation on a global scale.... 
+
+<https://www.niemanlab.org/2024/09/want-to-fight-misinformation-teach-people-how-algorithms-work/>
 
 ---
 

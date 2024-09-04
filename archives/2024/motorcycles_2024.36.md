@@ -1,15 +1,15 @@
 ---
 title: motorcycles
-updated: 2024-09-04 07:45:05
+updated: 2024-09-04 13:41:25
 ---
 
 # motorcycles
 
-(date: 2024-09-04 07:45:05)
+(date: 2024-09-04 13:41:25)
 
 ---
 
-## Here’s How I’d Make Yamaha’s MT-09 SP Into the Ultimate One-Motorcycle Garage
+## The Yamaha MT-09 SP Is Pretty Good, Here's How To Make It Perfect
 
 date: 2024-09-04, from: Ride Apart, Electric Motorcycle News
 
