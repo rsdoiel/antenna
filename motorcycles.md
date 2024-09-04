@@ -1,11 +1,101 @@
 ---
 title: motorcycles
-updated: 2024-09-03 10:32:01
+updated: 2024-09-04 07:45:05
 ---
 
 # motorcycles
 
-(date: 2024-09-03 10:32:01)
+(date: 2024-09-04 07:45:05)
+
+---
+
+## Here’s How I’d Make Yamaha’s MT-09 SP Into the Ultimate One-Motorcycle Garage
+
+date: 2024-09-04, from: Ride Apart, Electric Motorcycle News
+
+It doesn't need a lot. 
+
+<https://www.rideapart.com/news/732413/mt-09-sp-best-upgrades-ultimate-commuter/>
+
+---
+
+## Mechanic Crashes Customer's Polaris RZR UTV, Dealership Refuses to Pay for It
+
+date: 2024-09-04, from: Ride Apart, Electric Motorcycle News
+
+Dealerships being dealerships.  
+
+<https://www.rideapart.com/news/732409/mechanic-crashes-polaris-rzr-utv-dealership-refuses-to-pay/>
+
+---
+
+## Massachusetts Is Revoking Truck, Bus Driver Licenses Because Of Horrifying Accident
+
+date: 2024-09-04, from: Ride Apart, Electric Motorcycle News
+
+It's all fallout from the big mess surrounding that truck driver who was acquitted of killing 7 motorcyclists in New Hampshire. 
+
+<https://www.rideapart.com/news/732403/massachusetts-revokes-cdl-2024-bus-driver/>
+
+---
+
+## Remember When Honda Was Too Chicken to Sell Its Coolest Motorcycle to Us?
+
+date: 2024-09-04, from: Ride Apart, Electric Motorcycle News
+
+WTH, Honda? 
+
+<https://www.rideapart.com/news/731691/honda-hawk-11-opinion-japan-us-sales/>
+
+---
+
+## Could the Super Cruiser Be Buell’s Ticket Back From the Dead?
+
+date: 2024-09-04, from: Ride Apart, Electric Motorcycle News
+
+Pre-orders for the high-performance cruiser are opening soon.  
+
+<https://www.rideapart.com/news/732072/buell-super-cruiser-pre-orders-open/>
+
+---
+
+## Would You Buy This Extremely Cheap Carbon Fiber Motorcycle Helmet?
+
+date: 2024-09-04, from: Ride Apart, Electric Motorcycle News
+
+Sold only in Europe, the MTR S-15 Carbon retails just north of a nice meal.  
+
+<https://www.rideapart.com/news/732077/mtr-s15-carbon-cheap-helmet/>
+
+---
+
+## Motorcycle Manufacturer KTM Cuts More Employees, Almost As Much as MV Agusta Added
+
+date: 2024-09-04, from: Ride Apart, Electric Motorcycle News
+
+The economic outlook for Pierer Mobility continues to look stormy. 
+
+<https://www.rideapart.com/news/732397/ktm-pierer-mv-agusta-layoffs/>
+
+---
+
+## Someone Stuffed a Stark Varg Electric Motor Into A Go Kart, Does Wheelies
+
+date: 2024-09-04, from: Ride Apart, Electric Motorcycle News
+
+It can also go 80 miles per hour.  
+
+<https://www.rideapart.com/news/732247/custom-stark-varg-go-kart-insane/>
+
+---
+
+## Back-to-back runner-up finishes not enough for Busch’s postseason push
+
+date: 2024-09-03, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer For only the fourth time in Kyle Busch’s illustrious career, the two-time NASCAR Cup Series Champion won’t be racing for another title. In what’s been&#8230;  
+
+<https://kickinthetires.net/nascar/back-to-back-runner-up-finishes-not-enough-for-buschs-postseason-push/>
 
 ---
 

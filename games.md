@@ -1,11 +1,111 @@
 ---
 title: games
-updated: 2024-09-03 10:31:59
+updated: 2024-09-04 07:45:02
 ---
 
 # games
 
-(date: 2024-09-03 10:31:59)
+(date: 2024-09-04 07:45:02)
+
+---
+
+## The best sci-fi movies you can watch at home
+
+date: 2024-09-04, updated: 2024-09-04, from: Polygon Website
+
+Science fiction, to echo Ursula K. Le Guin, is not predictive, but descriptive. While most science fiction films attempt (and fail) to extrapolate the ideas and concerns of their respective present to predict what the world may look like in the not-so-distant future, these extrapolations ultimately amount to stories that exist in conversation with the [&#8230;] 
+
+<https://www.polygon.com/what-to-watch/23051923/best-sci-fi-movies-netflix-hulu-max-free>
+
+---
+
+## The newest update to No Man&#8217;s Sky finally adds a fishing minigame
+
+date: 2024-09-04, updated: 2024-09-04, from: Polygon Website
+
+Hello Games have been tirelessly updating No Man’s Sky over the years, adding all sorts of odds and ends to the space exploration game: expeditions, sandworms, thunderstorms, piracy, and more. But there’s still one thing sorely lacking in No Man’s Sky, and it’s the humble fishing minigame. Luckily, on Wednesday, Hello Games announced a new [&#8230;] 
+
+<https://www.polygon.com/news/447270/no-mans-sky-aquarius-update-fishing>
+
+---
+
+## Here’s our first look at the Minecraft movie and Jack Black as Steve
+
+date: 2024-09-04, updated: 2024-09-04, from: Polygon Website
+
+One of the best-selling games of all time, Minecraft, is finally getting its inevitable live-action movie adaptation. On Wednesday, Warner Bros. Pictures gave us our first look at A Minecraft Movie, a film that will send four misfits to the cubic, creative world of Minecraft on an adventure to find their way home. The adventurers [&#8230;] 
+
+<https://www.polygon.com/trailer/447498/heres-our-first-look-at-the-minecraft-movie-and-jack-black-as-steve>
+
+---
+
+## The Adventure Zone’s new season mixes dice with Saturday morning cartoons
+
+date: 2024-09-04, updated: 2024-09-04, from: Polygon Website
+
+Ten years ago this month, when The Adventure Zone started as a one-off actual play experiment on the My Brother, My Brother and Me podcast, two of its four hosts worked here, at Polygon. In fact, Justin and Griffin McElroy helped co-found this place, after we worked together at another video game website (RIP Joystiq) [&#8230;] 
+
+<https://www.polygon.com/comedy/445805/adventure-zone-new-season-abnimals-premiere-interview>
+
+---
+
+## The Legend of Zelda: Echoes of Wisdom is a delightful combination of new and old
+
+date: 2024-09-04, updated: 2024-09-04, from: Polygon Website
+
+An hour in, The Legend of Zelda: Echoes of Wisdom seems to offer everything that made the last two Zelda games great, reimagining decades of tried and true game mechanics through a new lens. It takes the player creativity of Breath of the Wild and Tears of the Kingdom and tucks it into a classic, [&#8230;] 
+
+<https://www.polygon.com/zelda/447358/echoes-of-wisdom-preview-nintendo-switch>
+
+---
+
+## Two ways to save a video game industry on fire
+
+date: 2024-09-03, updated: 2024-09-04, from: Polygon Website
+
+Polygon’s Editor’s Letter is a column from Editor-in-Chief Chris Plante that reflects on the video game and entertainment industries, their communities, and Polygon itself. New editions appear in the first week of each month. Let’s start with a spoonful of sugar: Making a video game is faster, cheaper, and easier today than it has been [&#8230;] 
+
+<https://www.polygon.com/opinion/446844/two-ways-to-save-a-video-game-industry-on-fire>
+
+---
+
+## Get 20% off this Trigun Deluxe reprint before it launches next week
+
+date: 2024-09-03, updated: 2024-09-03, from: Polygon Website
+
+Originally announced in May 2023 to capitalize on Trigun Stampede’s popularity (and the unexpected cultural phenomenon that was Bigolas Dickolas), the Trigun Deluxe hardcover collection of manga — reprinted for the first time in over a decade — is finally coming out on Tuesday, Sept 10. The faux leather-bound book contains nearly 700 pages, covering [&#8230;] 
+
+<https://www.polygon.com/good-deals/447276/trigun-deluxe-manga-where-to-buy>
+
+---
+
+## Connections’ new feature means you can one-up your friends even harder
+
+date: 2024-09-03, updated: 2024-09-03, from: Polygon Website
+
+The New York Times has just made it a bit easier for players to flex their word game skills. Connections, the popular word association game from The New York Times, is getting a new feature that allows players to share their in-game stats with friends. Starting Tuesday, players can look up their information and share [&#8230;] 
+
+<https://www.polygon.com/news/447179/nytimes-connections-share-stats-win-rate>
+
+---
+
+## Magic’s Duskmourn channels ’80s horror, adds new room cards
+
+date: 2024-09-03, updated: 2024-09-04, from: Polygon Website
+
+Over the holiday weekend at PAX West, the team from Wizards of the Coast formally unveiled Duskmourn, the next set of cards for Magic: The Gathering. Inspired by 1980s slasher movies and classic horror tropes, the action takes place in an entirely new setting — a vast and mysterious haunted house. To sell the idea [&#8230;] 
+
+<https://www.polygon.com/mtg-magic-the-gathering/447308/duskmourn-room-cards-explained>
+
+---
+
+## How to unlock the Choir of One Exotic Catalysts in Destiny 2
+
+date: 2024-09-03, updated: 2024-09-03, from: Polygon Website
+
+The Choir of One Exotic Catalysts are locked behind a quest chain in Destiny 2 , including “//Choir: Eternal” and “//Choir: Upheaval.” You’ll need to complete the “Encore” Exotic mission once to access these quests and then find an array of secret chests to complete them. In this Destiny 2 guide, we’ll teach you how [&#8230;] 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/445174/catalyst-quest-choir-of-one-encore-secret-chests>
 
 ---
 

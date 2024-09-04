@@ -1,11 +1,35 @@
 ---
 title: libraries
-updated: 2024-09-03 10:32:00
+updated: 2024-09-04 07:45:03
 ---
 
 # libraries
 
-(date: 2024-09-03 10:32:00)
+(date: 2024-09-04 07:45:03)
+
+---
+
+## Ensuring attribution is critical when licensing content to AI developers
+
+date: 2024-09-04, from: Scholarly Kitchen
+
+<p>Publishers should support scholarly authors by requiring license deals with AI developers include attribution in their outputs.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/09/04/make-attribution-mandatory-in-ai-licensing/">Ensuring attribution is critical when licensing content to AI developers</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/09/04/make-attribution-mandatory-in-ai-licensing/>
+
+---
+
+## Day in Review (September 3–5)
+
+date: 2024-09-03, from: Association of Research Libraries News
+
+<p>Last Updated on September 3, 2024, 4:03 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, September 4 &#124; Thursday, September 5 Tuesday, September...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-3-5/">Day in Review (September 3–5)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/day-in-review/day-in-review-september-3-5/>
 
 ---
 

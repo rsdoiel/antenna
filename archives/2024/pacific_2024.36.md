@@ -1,17 +1,443 @@
 ---
 title: pacific
-updated: 2024-09-03 10:31:56
+updated: 2024-09-04 07:44:58
 ---
 
 # pacific
 
-(date: 2024-09-03 10:31:56)
+(date: 2024-09-04 07:44:58)
+
+---
+
+## Chicago Hope: GM Ryan Poles, QB Caleb Williams determined to make Bears winners
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO &#8212; In the NFL, nobody wins without a game-changing quarterback. The Chicago Bears understand the nuance of that statement impossibly well.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/sports/chicago-hope-gm-ryan-poles-qb-caleb-williams-determined-to-make-bears-winners/>
+
+---
+
+## Fritz rises to the occasion to oust Zverev and reach first U.S. Open semi-final
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; American Taylor Fritz prevailed 7-6(2) 3-6 6-4 7-6(3) in a gripping slugfest against fourth seed Alexander Zverev at Arthur Ashe Stadium on Tuesday to move into the U.S. Open semi-finals for the first time.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/sports/fritz-rises-to-the-occasion-to-oust-zverev-and-reach-first-u-s-open-semi-final/>
+
+---
+
+## Obituaries for September 4
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>William Franklin (Bill) Eger, 89, of Hilo died Aug. 16 at Life Care Center of Hilo. Born in Fort Worth, Texas, he was a journalist for the former Atlanta Journal, the former New York Herald Tribune, United Press International and Texas radio, a speechwriter for California Democrats, with wife, K.T. Cannon-Eger, operated the former Cannon and Eger Public Relations, helped form the Maui and Hawaii Island Economic Development Boards and Friends of Lili&#8216;uokalani Gardens, was educated at Texas Tech and the University of Chicago and was a member of Puna Hongwanji Mission, the Maui and Big Island Press Clubs, the Rotary in Maui and Hilo and was president of the Navy League in Hilo. His hobbies included golf, gardening and building ship models. Visitation 10-10:30 a.m. Friday, Sept. 13, at Puna Hongwanji Mission in Keaau. Memorial service at 10:30 a.m. Memorial donations may be made to Puna Hongwanji Mission, Hawaii Care Choices or Friends of Lili&#8216;uokalani Gardens. Survived by wife, K.T. Cannon-Eger; daughter Denise (Beck) Borges of Austin, Texas; son, retired Army Lt. Col. William Burl (Anita Ho) Eger of Portland, Ore., three granddaughters; cousins, nephews and nieces, grandnephews and grandnieces. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/obituaries/obituaries-for-september-4-10/>
+
+---
+
+## US will still pay at least twice as much after negotiating drug prices
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. government&#8217;s first-ever negotiated prices for prescription drugs are still on average more than double, and in some cases five times, what drugmakers have agreed to in four other high-income countries, a Reuters review has found.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/nation-world-news/us-will-still-pay-at-least-twice-as-much-after-negotiating-drug-prices/>
+
+---
+
+## Kamala Harris to propose up to $50,000 tax deduction for new small businesses
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Vice President Kamala Harris will propose a tax deduction of up to $50,000 for new small businesses on Wednesday, a tenfold increase over existing relief and her latest economic policy aimed at winning over middle-class Americans after jumping into the presidential race over a month ago. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/nation-world-news/kamala-harris-to-propose-up-to-50000-tax-deduction-for-new-small-businesses/>
+
+---
+
+## New Zealand nearly triples levy on international tourists
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>WELLINGTON (Reuters) &#8212; New Zealand will nearly triple entry fees for tourists, the government said on Tuesday, spurring criticism from the key tourism sector the higher levy will deter visitors. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/nation-world-news/new-zealand-nearly-triples-levy-on-international-tourists/>
+
+---
+
+## US small business surges, sentiment improves, Treasury report says
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. small business startup applications are surging this year with sentiment improving in the sector after a rocky post-pandemic period as inflation eases, a U.S. Treasury report showed on Tuesday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/nation-world-news/us-small-business-surges-sentiment-improves-treasury-report-says/>
+
+---
+
+## Nation and world news in brief for September 4
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p><strong>US charges Hamas leaders over Oct. 7 attack on Israel</strong></p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/nation-world-news/nation-and-world-news-in-brief-for-september-4/>
+
+---
+
+## Council bill could ease housing shortage
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Council is on the cusp of advancing a bill that would let everyday folks play a major role in reducing the island&#8217;s housing shortage.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/opinion/council-bill-could-ease-housing-shortage/>
+
+---
+
+## Your Views for September 4
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>Trump and the&#0010;right-wing media</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/opinion/your-views-for-september-4-6/>
+
+---
+
+## Canada turning away more foreigners, approving fewer visas in border crackdown
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>TORONTO (Reuters) &#8212; Canada is closing its doors to more visitors and temporary residents by approving fewer visas and turning away more people who reach its borders with official documents, according to government data obtained by Reuters. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/nation-world-news/canada-turning-away-more-foreigners-approving-fewer-visas-in-border-crackdown/>
+
+---
+
+## Athlete’s corner: Tolleson makes Big Island history
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>It all started for Taiana Tolleson as a 6 year old.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/sports/athletes-corner-tolleson-makes-big-island-history/>
+
+---
+
+## US voters targeted by Chinese influence online, researchers say
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>A Chinese social media influence operation is impersonating U.S. voters, denigrating U.S. politicians and pushing divisive messages ahead of the Nov. 5 presidential election in the United States, new research by intelligence company Graphika showed. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/nation-world-news/us-voters-targeted-by-chinese-influence-online-researchers-say/>
+
+---
+
+## New NAS Swimming Pool facility opens to the public
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>After a horn blew as their signal, students from Ke Ana La&#8216;ahana Public Charter School excitedly jumped into the water together Tuesday as the first swimmers to enter the newly rebuilt NAS Swimming Pool.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/hawaii-news/new-nas-swimming-pool-facility-opens-to-the-public/>
+
+---
+
+## New call center fails inspection
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>The long-delayed opening of the Hawaii County Emergency Call Center has been pushed back once again because the facility on July 29 failed a building inspection.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/hawaii-news/new-call-center-fails-inspection/>
+
+---
+
+## Papaikou man accused of sexually assaulting minor
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>A 38-year-old Papaikou man is facing numerous charges for the alleged sexual assault of a minor girl that began more than a decade ago.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/hawaii-news/papaikou-man-accused-of-sexually-assaulting-minor-2/>
+
+---
+
+## Hawaii scientist seeks to learn how world’s oldest humpback has survived
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>A humpback whale&#8217;s tail is as unique as a fingerprint. The lobes, or flukes, at the end of the tail have scalloped edges that vary from whale to whale; the undersides feature distinct black-and-white patterns that mark a whale for life.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/hawaii-news/hawaii-scientist-seeks-to-learn-how-worlds-oldest-humpback-has-survived/>
+
+---
+
+## Roadside vendors bill stalls
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>A proposal to legitimize roadside merchants on Hawaii County roads still needs to cook for a little longer.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/hawaii-news/roadside-vendors-bill-stalls/>
+
+---
+
+## GEC: Elections administration classes available, tuition-free
+
+date: 2024-09-04, from: Guam Daily Post
+
+Students wanting to learn about and gain real-world experience on how elections are conducted on Guam can sign up for university classes to be taught by Guam Election Commission Executive Director Maria Pangelinan. Students will have an opportunity to assist… 
+
+<https://www.postguam.com/news/local/gec-elections-administration-classes-available-tuition-free/article_3cd659b8-6a75-11ef-83b4-1bc98eb9b011.html>
+
+---
+
+## 'I always wanted to be a judge'
+
+date: 2024-09-04, from: Guam Daily Post
+
+Sean Brown received strong support to be the next magistrate judge of the Superior Court of Guam. 
+
+<https://www.postguam.com/news/local/i-always-wanted-to-be-a-judge/article_32b58c00-6a58-11ef-8767-6f26acddd9ac.html>
+
+---
+
+## Warrant issued for suspect in DYA rape
+
+date: 2024-09-04, from: Guam Daily Post
+
+A warrant of arrest was issued in the Superior Court of Guam for a man suspected of sexually assaulting a 14-year-old boy at the Department of Youth Affairs. 
+
+<https://www.postguam.com/news/local/warrant-issued-for-suspect-in-dya-rape/article_b59810f0-6a5f-11ef-bbfc-7b191daf5b2d.html>
+
+---
+
+## CLTC employee on bill: Exclude rule breakers with connections
+
+date: 2024-09-04, from: Guam Daily Post
+
+The public had the opportunity to testify on a bill seeking to clear "legal clouds" surrounding Chamorro Land Trust Commission leases during a public hearing Tuesday, where certain concerns were raised, including from a CLTC employee who said the mechanism… 
+
+<https://www.postguam.com/news/local/cltc-employee-on-bill-exclude-rule-breakers-with-connections/article_f1ddb22e-69f4-11ef-b606-ffd5556f7dc7.html>
+
+---
+
+## Flu season starting on Guam
+
+date: 2024-09-04, from: Guam Daily Post
+
+The Department of Public Health and Social Services is informing the community that Guam is entering flu season. 
+
+<https://www.postguam.com/news/local/flu-season-starting-on-guam/article_95cad522-6a60-11ef-814a-6f552d7181e4.html>
+
+---
+
+## 9-year-old girl allegedly ‘touched inappropriately’ by suspect, 57
+
+date: 2024-09-04, from: Guam Daily Post
+
+A 57-year-old man was accused of inappropriately touching a 9-year-old girl known to him after the girl agreed to massage the defendant. 
+
+<https://www.postguam.com/news/local/9-year-old-girl-allegedly-touched-inappropriately-by-suspect-57/article_d42b33b8-6a72-11ef-aab5-d38652979c82.html>
+
+---
+
+## Man facing charges stemming from son's death seeking trial
+
+date: 2024-09-04, from: Guam Daily Post
+
+A father facing charges related to the death of his 1-year-old son wants to go to trial. 
+
+<https://www.postguam.com/news/local/man-facing-charges-stemming-from-sons-death-seeking-trial/article_db57ebf8-6a69-11ef-ba4c-ef20965e2483.html>
+
+---
+
+## Perez, GMHA reach settlement,  termination appeal dismissed
+
+date: 2024-09-04, from: Guam Daily Post
+
+The Civil Service Commission has dismissed the adverse action appeal filed by former Guam Memorial Hospital Authority program coordinator June Perez now that the parties have reached a settlement in the case. 
+
+<https://www.postguam.com/news/local/perez-gmha-reach-settlement-termination-appeal-dismissed/article_34d3b304-69b3-11ef-8f5d-e33355bfd099.html>
+
+---
+
+## Ex-officer's assault case 'resolved'
+
+date: 2024-09-04, from: Guam Daily Post
+
+A former Guam Police Department officer's criminal case stemming from an altercation last year has been resolved, according to his attorney. 
+
+<https://www.postguam.com/news/local/ex-officers-assault-case-resolved/article_84266cd0-6a6c-11ef-8904-4b0f8b5da58c.html>
+
+---
+
+## Hawaiian Word of the Week: Kepakemapa
+
+date: 2024-09-04, from: University of Hawaiʻi News
+
+<p>Kepakemapa&#8212;September.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/03/hawaiian-word-of-the-week-kepakemapa/">Hawaiian Word of the Week: Kepakemapa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/03/hawaiian-word-of-the-week-kepakemapa/>
+
+---
+
+## E Liliʻu Ē: UH Mānoa tribute to Queen’s legacy
+
+date: 2024-09-04, from: University of Hawaiʻi News
+
+<p>The celebration included activities that honored Native Hawaiian culture and brought the Queen’s historical stories to life.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/03/e-liliu-e-tribute-to-queens-legacy/">E Liliʻu Ē: UH Mānoa tribute to Queen’s legacy</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/03/e-liliu-e-tribute-to-queens-legacy/>
+
+---
+
+## UH Mānoa among top 25 for graphic design
+
+date: 2024-09-04, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa stood out among more than 50 higher education institutions.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/03/uh-manoa-top-25-for-graphic-design/"><abbr>UH</abbr> Mānoa among top 25 for graphic design</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/03/uh-manoa-top-25-for-graphic-design/>
+
+---
+
+## UH leads UCLA for most of nationally televised game
+
+date: 2024-09-04, from: University of Hawaiʻi News
+
+<p>The <abbr>UH</abbr> football team ended just short of upsetting <abbr>UCLA</abbr> falling 16-13.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/03/uh-ucla-nationally-televised-game/"><abbr>UH</abbr> leads <abbr>UCLA</abbr> for most of nationally televised game</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/03/uh-ucla-nationally-televised-game/>
+
+---
+
+## Former Rainbow Warrior named head coach of swim and dive
+
+date: 2024-09-04, from: University of Hawaiʻi News
+
+<p>Steve Allnutt, a former <abbr>UH</abbr> swimmer arrives with a decade of coaching experience.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/03/allnutt-named-swim-dive-head-coach/">Former Rainbow Warrior named head coach of swim and dive</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/03/allnutt-named-swim-dive-head-coach/>
+
+---
+
+## Spanish film expert named UH Mānoa Fulbright Scholar in Residence
+
+date: 2024-09-04, from: University of Hawaiʻi News
+
+<p>Ruth Gutiérrez Delgado will offer classes on film, culture and literature in the Department of Languages and Literatures of Europe and the Americas.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/03/spanish-film-expert-fulbright-scholar/">Spanish film expert named <abbr>UH</abbr> Mānoa Fulbright Scholar in Residence</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/03/spanish-film-expert-fulbright-scholar/>
+
+---
+
+## UH team to peer into Mars history with rover expedition
+
+date: 2024-09-04, from: University of Hawaiʻi News
+
+<p>Scientists will be looking for rocks on Mars’ crater rim that might provide detailed insights into the earliest period of the planet’s history.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/03/mars-rover-expedition/"><abbr>UH</abbr> team to peer into Mars history with rover expedition</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/03/mars-rover-expedition/>
+
+---
+
+## Filipino cultural values drive resilience, empowerment during COVID-19
+
+date: 2024-09-03, from: University of Hawaiʻi News
+
+<p>The study focused on the Filipino population in <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/03/filipino-cultural-values-covid/">Filipino cultural values drive resilience, empowerment during COVID-19</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/03/filipino-cultural-values-covid/>
+
+---
+
+## †Manuel Atalig Sablan
+
+date: 2024-09-03, updated: 2024-09-03, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/obituaries/manuel-atalig-sablan/article_059c7c70-6a43-11ef-b9e4-8f3afb9f082e.html>
+
+---
+
+## Students, faculty travel to Indonesia as part of UH-supported learning
+
+date: 2024-09-03, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa faculty and students participate in a summer course focused on urbanization, climate change and resilience challenges.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/03/indonesia-uh-supported-learning/">Students, faculty travel to Indonesia as part of <abbr>UH</abbr>-supported learning</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/03/indonesia-uh-supported-learning/>
+
+---
+
+## September 2024 anniversaries
+
+date: 2024-09-03, from: University of Hawaiʻi News
+
+<p>The University of <span aria-label="Hawaii">Hawai&#699;i</span> celebrates September 2024 faculty and staff anniversaries.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/03/september-2024-anniversaries/">September 2024 anniversaries</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/03/september-2024-anniversaries/>
 
 ---
 
 ## CHCC gets $80K for HNP, will receive $300K in poker fees
 
-date: 2024-09-03, updated: 2024-09-03, from: Marianas Variety
+date: 2024-09-03, updated: 2024-09-04, from: Marianas Variety
 
 GOVERNOR Arnold I. Palacios confirmed the transfer of $80,000 to the Health Network Program, Commonwealth Healthcare Corp. Chief Executive Officer Esther L. Muna said on Tuesday. 
 
@@ -21,7 +447,7 @@ GOVERNOR Arnold I. Palacios confirmed the transfer of $80,000 to the Health Netw
 
 ## Marianas Milk
 
-date: 2024-09-03, updated: 2024-09-03, from: Marianas Variety
+date: 2024-09-03, updated: 2024-09-04, from: Marianas Variety
 
  
 
@@ -31,7 +457,7 @@ date: 2024-09-03, updated: 2024-09-03, from: Marianas Variety
 
 ## Zenie Mafnas is NMHC’s new corporate director
 
-date: 2024-09-03, updated: 2024-09-03, from: Marianas Variety
+date: 2024-09-03, updated: 2024-09-04, from: Marianas Variety
 
 THE Northern Marianas Housing Corporation’s board of directors on Tuesday announced the appointment of Zenie P. Mafnas as NMHC’s corporate director. 
 
@@ -41,7 +467,7 @@ THE Northern Marianas Housing Corporation’s board of directors on Tuesday anno
 
 ## DPS supports bill to release liability upon transfer of vehicle ownership
 
-date: 2024-09-03, updated: 2024-09-03, from: Marianas Variety
+date: 2024-09-03, updated: 2024-09-04, from: Marianas Variety
 
 THE Department of Public Safety supports Senate Bill 23-31, which proposes to release civil or criminal liability upon transfer of vehicle ownership. 
 
@@ -51,7 +477,7 @@ THE Department of Public Safety supports Senate Bill 23-31, which proposes to re
 
 ## DPS chief sued for ban on gun silencers
 
-date: 2024-09-03, updated: 2024-09-03, from: Marianas Variety
+date: 2024-09-03, updated: 2024-09-04, from: Marianas Variety
 
 SAYING that the ban on silencers, sound suppressors, or sound moderators are unconstitutional, U.S. Army veteran Paul Murphy sued Department of Public Safety Commissioner Anthony Iglecias Macaranas, in his official capacity, in federal court for violations of the 2nd and 14th Amendments of the U.S. Constitution. 
 
@@ -61,7 +487,7 @@ SAYING that the ban on silencers, sound suppressors, or sound moderators are unc
 
 ## Cop charged with firearm storage violation
 
-date: 2024-09-03, updated: 2024-09-03, from: Marianas Variety
+date: 2024-09-03, updated: 2024-09-04, from: Marianas Variety
 
 POLICE Officer Zsazsa Manahane has been charged with one count of storage of firearm violation. 
 
@@ -71,7 +497,7 @@ POLICE Officer Zsazsa Manahane has been charged with one count of storage of fir
 
 ## CNMI, Japanese dancers forge bonds at Nippon Domannaka Festival
 
-date: 2024-09-03, updated: 2024-09-03, from: Marianas Variety
+date: 2024-09-03, updated: 2024-09-04, from: Marianas Variety
 
 JAPANESE dancers from Guma Famagu’on Tano’ Yan I Tasi spoke positively about their experience in collaborating with the Chamolinian Cultural Village’s CNMI Domatsuri team at the 26th Annual Nippon Domannaka Festival in Nagoya, Japan. 
 
@@ -81,11 +507,21 @@ JAPANESE dancers from Guma Famagu’on Tano’ Yan I Tasi spoke positively about
 
 ## Harris courts union vote with Biden at her side
 
-date: 2024-09-03, updated: 2024-09-03, from: Marianas Variety
+date: 2024-09-03, updated: 2024-09-04, from: Marianas Variety
 
 PITTSBURGH (Reuters) — Democratic presidential candidate Kamala Harris said on Monday that U.S. Steel should remain in domestic hands, making a pitch alongside President Joe Biden to working-class voters in Pennsylvania who are also being courted by her rival. 
 
 <https://www.mvariety.com/news/national/harris-courts-union-vote-with-biden-at-her-side/article_bfaa9508-69f2-11ef-ab67-5b1abd07dcb7.html>
+
+---
+
+## Runners shine in age group categories
+
+date: 2024-09-03, updated: 2024-09-04, from: Marianas Variety
+
+ASIDE from the top three finishes, several individuals also shared the spotlight as age group category winners of the Run Saipan Labor Day Half Marathon and 5K Fun Run 2024 at American Memorial Park on Saturday morning. 
+
+<https://www.mvariety.com/sports/localsports/runners-shine-in-age-group-categories/article_bb88eb08-69d6-11ef-a7e3-9b5b9c8eb0a2.html>
 
 ---
 
@@ -334,6 +770,42 @@ date: 2024-09-03, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/09/03/community/lets-talk-food-japanese-curry-revisited/>
+
+---
+
+## Neighbors’ complaint about speeding cars set off Waianae man’s deadly rampage
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>The Waianae Valley &#8220;neighbor-on-&#0173;neighbor dispute&#8221; that ended with four people dead Saturday night started with complaints about cars speeding to and from a nearby commercial party site owned by a 58-year-old man who responded with a violent rampage, according to a representative of the targeted family.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/hawaii-news/neighbors-complaint-about-speeding-cars-set-off-waianae-mans-deadly-rampage/>
+
+---
+
+## Police seek leads on wanted man
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>Police are seeking the public&#8217;s assistance in locating a 31-year-old Papaikou man they say should be considered armed and dangerous.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/hawaii-news/police-seek-leads-on-wanted-man-5/>
+
+---
+
+## Pedestrian killed in June crash identified
+
+date: 2024-09-03, from: Hawaii Tribune Harold
+
+
+				<p>A female pedestrian who died after being hit by a car in Keaau in June has been identified as 20-year-old Densiann Denno of Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/03/hawaii-news/pedestrian-killed-in-june-crash-identified/>
 
 ---
 

@@ -1,11 +1,82 @@
 ---
 title: home
-updated: 2024-09-03 10:32:00
+updated: 2024-09-04 07:45:04
 ---
 
 # home
 
-(date: 2024-09-03 10:32:00)
+(date: 2024-09-04 07:45:04)
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-09-04, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
+
+---
+
+## Enercept Customized SIPs: The Easiest Way to Build Green
+
+date: 2024-09-04, from: Elemental Green blog
+
+<p>Enercept has been building homes with customizable SIP construction longer than almost anyone else. They embrace creative, sustainable design.</p>
+<p>The post <a href="https://elemental.green/enercept-customized-sips-the-easiest-way-to-build-green/">Enercept Customized SIPs: The Easiest Way to Build Green</a> first appeared on <a href="https://elemental.green">Elemental Green</a>.</p> 
+
+<https://elemental.green/enercept-customized-sips-the-easiest-way-to-build-green/>
+
+---
+
+## These Are the Destinations Everyone Will Be Traveling to This Fall
+
+date: 2024-09-04, from: Sunset Magazine - Living in the West
+
+With autumn adventures on the horizon, these are the spots that are going to be the most booked according to Airbnb. 
+
+<https://www.sunset.com/travel/top-travel-destinations-fall-2024>
+
+---
+
+## Why Every DIYer Needs a Track Saw
+
+date: 2024-09-03, from: Family Handyman Blog
+
+ Track saws make long, precise cuts faster and better than table saws and circular saws. They are light and portable, don't need clamps and set up quickly and accurately.  
+
+<https://www.familyhandyman.com/article/track-saw-benefits/>
+
+---
+
+## A Sun-Drenched,  Scandi-Inspired  Compound in Venice Seeks $4.6M
+
+date: 2024-09-03, from: Dwell
+
+And it’s just a few moments away from Abbot Kinney and the beach. 
+
+<https://www.dwell.com/article/sothebys-international-scandi-modern-venice-real-estate-a542aa68>
+
+---
+
+## If You’ve Ever Dreamed of Living in a Converted Church, Now’s Your Chance
+
+date: 2024-09-03, from: Dwell
+
+Preserved historical details, like an old bell tower, meet contemporary updates, like an illuminated catwalk, in this Toronto townhome. 
+
+<https://www.dwell.com/article/sothebys-international-neogothic-church-ontario-estate-c3232293>
+
+---
+
+## A Guide to Building a Patio with Ceramic Tile
+
+date: 2024-09-03, from: Family Handyman Blog
+
+Thanks to modern materials, tile is now a durable and long-lasting option for exterior concrete patios–even in cold climates. Here's what you need to know. 
+
+<https://www.familyhandyman.com/article/a-guide-to-building-a-patio-with-ceramic-tile/>
 
 ---
 
@@ -71,6 +142,36 @@ Popular French luggage brand Delsey Paris collaborated with Jeep to create lugga
 
 ---
 
+## These Are the Fall Travel Trends Everyone’s Talking About Right Now
+
+date: 2024-09-03, from: Sunset Magazine - Living in the West
+
+From leaf peeping to gigcations, these are the most popular fall travel trends to watch for in the autumn season of 2024. 
+
+<https://www.sunset.com/travel/fall-travel-trends-2024>
+
+---
+
+## This Delicious Probiotic Drink Only Takes 3 Ingredients to DIY
+
+date: 2024-09-03, from: Sunset Magazine - Living in the West
+
+Tepache is a healthy fermented drink that originated in Mexico. It's made from pineapple skins and is easy to make with this recipe. 
+
+<https://www.sunset.com/food-wine/how-to-make-tepache-health-drink>
+
+---
+
+## 7 Clever Ways to Make a White Bathroom Feel Actually Exciting
+
+date: 2024-09-03, from: Sunset Magazine - Living in the West
+
+Plain and white don't necessarily go together. Here's how to jazz up a white bathroom. 
+
+<https://www.sunset.com/home-garden/design/white-bathroom-decorating-ideas>
+
+---
+
 ## 6 Ways to Embrace Fall in Your Home Right Now
 
 date: 2024-09-03, from: Sunset Magazine - Living in the West
@@ -111,16 +212,6 @@ date: 2024-09-02, from: Dwell
 Designed by John Howe, the 7,000-square-foot New Canaan residence comes with custom built-ins and stained glass skylights. 
 
 <https://www.dwell.com/article/john-howe-home-frank-lloyd-wright-apprentice-new-canaan-connecticut-real-estate-4e87bff8>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-09-02, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
 
 ---
 

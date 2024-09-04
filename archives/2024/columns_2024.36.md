@@ -1,11 +1,253 @@
 ---
 title: columns
-updated: 2024-09-03 10:31:57
+updated: 2024-09-04 07:45:00
 ---
 
 # columns
 
-(date: 2024-09-03 10:31:57)
+(date: 2024-09-04 07:45:00)
+
+---
+
+## The Secret Inside One Million Checkboxes
+
+date: 2024-09-04, updated: 2024-09-04, from: Daring Fireball
+
+ 
+
+<https://eieio.games/essays/the-secret-in-one-million-checkboxes/>
+
+---
+
+##  David Attenborough on Cybertruck behavior. &#8220;Here we see the Cybertruck has formed... 
+
+date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045223-david-attenborough-on-cyb>
+
+---
+
+## History Extra for September 3, 2024
+
+date: 2024-09-04, from: Heather Cox Richardson blog
+
+On September 3, 1783, negotiators signed the Treaty of Paris officially ending the Revolutionary War between Great Britain and the United States. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-september-3-2024>
+
+---
+
+## Oprah Winfrey Is Hosting a Prime-Time TV Special on AI
+
+date: 2024-09-04, updated: 2024-09-04, from: Daring Fireball
+
+ 
+
+<https://arstechnica.com/information-technology/2024/09/oprahs-upcoming-ai-television-special-sparks-outrage-among-tech-critics/>
+
+---
+
+##  The 100 Best TV Episodes of All Time 
+
+date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/the-100-best-tv-episodes-of-all-time>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-04, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/02/13/bozoApproved.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I don't understand using an email to send a code to verify the email address, that you then have to enter into a dialog. Why not just send a URL that the user can click on? What's the design rationale for making the user do the extra steps in remembering the number, switching back to your app, and entering the number by hand, when it could all be done with a single click? 
+
+<http://scripting.com/2024/09/04.html#a132038>
+
+---
+
+## Security Researcher Sued for Disproving Government Statements
+
+date: 2024-09-04, updated: 2024-09-03, from: Bruce Schneier blog
+
+<p><a href="https://www.bleepingcomputer.com/news/security/researcher-sued-for-sharing-data-stolen-by-ransomware-with-media/">This story</a> seems straightforward. A city is the victim of a ransomware attack. They repeatedly lie to the media about the severity of the breach. A security researcher repeatedly proves their statements to be lies. The city gets mad and sues the researcher.</p>
+<p>Let&#8217;s hope the judge throws the case out, but&#8212;still&#8212;it will serve as a warning to others.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/09/security-researcher-sued-for-disproving-government-statements.html>
+
+---
+
+## Office Hours: The most important thing Harris should do in next Tuesday’s debate with Trump
+
+date: 2024-09-04, from: Robert Reich's blog
+
+Friends, 
+
+<https://robertreich.substack.com/p/office-hours-the-most-important-thing>
+
+---
+
+## September 3, 2024 
+
+date: 2024-09-04, from: Heather Cox Richardson blog
+
+Last night the Boston Globe published a leaked email from a top volunteer with the Trump campaign, former Massachusetts Republican Party vice chair Tom Mountain, telling volunteers that the Trump campaign &#8220;no longer thinks New Hampshire is winnable&#8221; and is &#8220;pulling back&#8221; from that important swing state. 
+
+<https://heathercoxrichardson.substack.com/p/september-3-2024>
+
+---
+
+## August 2024 in photos
+
+date: 2024-09-04, from: Matt Haughey blog
+
+<p>Here are some highlights from the month of August: </p><p>We went to Disneyland as a one-last-trip-before-college thing as a family, then we saw Sir Mix a Lot and Smashmouth play our county fair. I did some wheeling and then the Portland Bridge Pedal where they close half the freeways to</p> 
+
+<https://a.wholelottanothing.org/august-2024-in-photos/>
+
+---
+
+## Just passing the time
+
+date: 2024-09-04, from: Dave Winer's Scripting News
+
+<p>I tuned into MSNBC this evening as one of their anchors was about to interview a CNN anchor who just wrote a book about an election in the 1800s.</p>
+<p>And that my friends is what passes for news these days. Just passing the time waiting to see if there's anything left of journalism after the election. </p>
+<p>Lalala.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/09/03/barberswait.png"></center>In Boston a barber awaits the outcome of the election. </div></p>
+ 
+
+<http://scripting.com/2024/09/03/024553.html?title=justPassingTheTime>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-04, from: Dave Winer's Scripting News)
+
+Today, in 2024, AI cannot <a href="https://kottke.org/24/09/can-ai-make-art">create art</a>. But a human being <a href="http://scripting.com/2024/08/28/190028.html">can</a> <a href="http://scripting.com/2024/09/01/165153.html">use</a> AI <a href="http://scripting.com/2024/08/28/190028.html">to</a> <a href="http://scripting.com/2024/08/20/142602.html">create</a> art. It's a medium, like paint and canvas except it's not static. It gets new skills all the time. It gives me the ability to create in a way I've never been able to before. I can't wait to see what it can do in a few months or years. 
+
+<http://scripting.com/2024/09/03.html#a022537>
+
+---
+
+## Wednesday 4 September, 2024
+
+date: 2024-09-03, from: John Naughton's online diary
+
+The wisdom of dogs This is one of my favourite photographs. It was taken in Antibes in August 2010. We were driving along the beachfront on a blisteringly hot Sunday afternoon when I suddenly saw this scene. The owners of &#8230; <a href="https://memex.naughtons.org/wednesday-4-september-2024/39821/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-4-september-2024/39821/>
+
+---
+
+## Apple Sports, Updated for Football Season, Will Soon Support Live Activities
+
+date: 2024-09-03, updated: 2024-09-04, from: Daring Fireball
+
+ 
+
+<https://www.apple.com/newsroom/2024/08/apple-sports-is-ready-for-football-season/>
+
+---
+
+## Departure Mono
+
+date: 2024-09-03, updated: 2024-09-03, from: Daring Fireball
+
+ 
+
+<https://departuremono.com/>
+
+---
+
+## How To Take Down Trump
+
+date: 2024-09-03, from: Dan Rather's Steady
+
+Debate strategies for Harris 
+
+<https://steady.substack.com/p/how-to-take-down-trump>
+
+---
+
+##  A Navajo Weaving of an Intel Pentium Processor 
+
+date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/a-navajo-weaving-of-an-intel-pentium-processor>
+
+---
+
+## Brazil’s X Ban Is Sending Lots of People to Bluesky
+
+date: 2024-09-03, updated: 2024-09-03, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky>
+
+---
+
+##  Atul Gawande: Tuberculosis is still the world&#8217;s #1 infectious disease killer (1+... 
+
+date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045211-atul-gawande-tuberculosis>
+
+---
+
+##  New School Year Drop-Off and Pick-Up Rules. &#8220;Approach the White Zone at... 
+
+date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045219-new-school-year-drop-off->
+
+---
+
+##  America Must Free Itself from the Tyranny of the Penny. &#8220;Few things... 
+
+date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045217-america-must-free-itself->
+
+---
+
+## ‘Founder Mode’
+
+date: 2024-09-03, updated: 2024-09-03, from: Daring Fireball
+
+ 
+
+<https://paulgraham.com/foundermode.html>
+
+---
+
+## September 2, 2024
+
+date: 2024-09-03, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-2-2024-72b>
+
+---
+
+##  The District Sleeps Alone Tonight (Sylvan Esso Remix) 
+
+date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/the-district-sleeps-alone-tonight-sylvan-esso-remix>
 
 ---
 
@@ -80,7 +322,7 @@ date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-09-03, from: Dave Winer's Scripting News)
 
-The blogroll on <a href="http://scripting.com/">scripting.com</a> is a real breakthrough. It's actually a feed reader, but don't tell anyone. Actually go ahead and tell them. <span class="spOldSchoolEmoji">😄</span> 
+The <a href="https://blogroll.social/">blogroll</a> on <a href="http://scripting.com/">scripting.com</a> is a real breakthrough. It's actually a <a href="http://scripting.com/2024/03/13/010313.html">feed reader</a>, but don't tell anyone. Actually go ahead and tell them. <span class="spOldSchoolEmoji">😄</span> 
 
 <http://scripting.com/2024/09/03.html#a151117>
 
@@ -231,7 +473,7 @@ date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-09-03, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/30/goodhumortruck.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">At the beginning of the Trade Secrets <a href="https://web.archive.org/web/20040923224915/http://secrets.scripting.com/2004/09/22#a26">podcast</a> on Sept 22, 2004, is when I would say podcasting got its name. Adam and I were the leaders of the community. It had been discussed briefly on the mail list. We all recognized that what we were doing needed a name. There was a consensus, it was a small community by then, very collegial. Dave Slusher had already used the term in his podcast (according to <a href="https://podnews.net/article/history-of-word-podcast">James Cridland</a>), so I said in the Trade Secrets show, let's just go ahead and use it. I did mention Ben Hammersley. So he's not out of the story, but he's not the person who gave podcasting its name. September 2004 was the moment when podcasting became something. It's rare in things like this that you can point to a moment, but we can <a href="https://trends.google.com/trends/explore?date=all&q=podcast">here</a>, and the record should make that very clear. You could say Hammersley was the first to publish the term in a piece he wrote, but he played no role in the bootstrap. I'd say that by the end of 2004 it was on its way, I basically stepped back and enjoyed the medium along with everyone else. Adam started a company. I would have liked to have started a company then, but it wasn't meant to be. That all happened 20 years ago. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/30/goodhumortruck.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">At the beginning of the Trade Secrets <a href="https://web.archive.org/web/20040923224915/http://secrets.scripting.com/2004/09/22#a26">podcast</a> on Sept 22, 2004, is when I would say podcasting got its name. Adam and I were the leaders of the community. It had been discussed briefly on the mail list. We all recognized that what we were doing needed a name. There was a consensus, it was a small community by then, very collegial. Dave Slusher had already used the term in his podcast (according to <a href="https://podnews.net/article/history-of-word-podcast">James Cridland</a>), so I said in the Trade Secrets <a href="https://web.archive.org/web/20040923224915/http://secrets.scripting.com/2004/09/22#a26">show</a>, let's just go ahead and use it. I did mention Ben Hammersley. So he's not out of the story, but he's not the person who gave podcasting its name. September 2004 was the moment when podcasting became something. It's rare in things like this that you can point to a moment, but we can <a href="https://trends.google.com/trends/explore?date=all&q=podcast">here</a>, and the record should make that very clear. You could say Hammersley was the first to publish the term in a piece he wrote, but he played no role in the bootstrap. I'd say that by the end of 2004 it was on its way, I basically stepped back and enjoyed the medium along with everyone else. Adam started a company. I would have liked to have started a company then, but it wasn't meant to be. That all happened 20 years ago. 
 
 <http://scripting.com/2024/09/03.html#a132058>
 

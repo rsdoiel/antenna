@@ -1,11 +1,244 @@
 ---
 title: socal north
-updated: 2024-09-03 10:31:55
+updated: 2024-09-04 07:44:57
 ---
 
 # socal north
 
-(date: 2024-09-03 10:31:55)
+(date: 2024-09-04 07:44:57)
+
+---
+
+## LAUSD School Board District 1
+
+date: 2024-09-04, updated: 2024-09-04, from: The LAist
+
+Kahllid Al-Alim and Shirley Hendy Newbill are vying to replace George McKenna to represent L.A.’s Mid-City, Crenshaw, Arlington Heights, and Westmont neighborhoods in the L.A. Unified board. 
+
+<https://laist.com/news/politics/2024-election-california-general-los-angeles-county-lausd-school-board-district-1>
+
+---
+
+## LAUSD School Board: Who's running on Nov. 5 and why it matters
+
+date: 2024-09-04, updated: 2024-09-04, from: The LAist
+
+Three seats are up for grabs on the powerful board that oversees the nation’s second-largest school district. LAUSD faces enormous challenges, including funding shortfalls, chronic absenteeism, and safety concerns. 
+
+<https://laist.com/news/politics/2024-general-election-california-los-angeles-county-lausd-school-board>
+
+---
+
+## LAUSD School Board District 5
+
+date: 2024-09-04, updated: 2024-09-04, from: The LAist
+
+Grace Ortiz and Karla Griego are vying to replace retiring LAUSD Board president Jackie Goldberg. The winner will represent a curiously shaped district that spans from Southeast to Northeast L.A. 
+
+<https://laist.com/news/politics/2024-election-california-general-los-angeles-county-lausd-school-board-district-5>
+
+---
+
+## Classifieds – September 4, 2024
+
+date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/04/classifieds-september-4-2024/">Classifieds &#8211; September 4, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/04/classifieds-september-4-2024/>
+
+---
+
+## Losing my designer V-card
+
+date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>I recently bought my first designer bag, and here is everything I did — and considered — in the process.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/04/losing-my-designer-v-card/">Losing my designer V-card</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/04/losing-my-designer-v-card/>
+
+---
+
+## Soccer pilots towards another victory away from home
+
+date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans beat Portland 2-1, clinching their third road win in a row.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/04/soccer-pilots-towards-another-victory-away-from-home/">Soccer pilots towards another victory away from home</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/04/soccer-pilots-towards-another-victory-away-from-home/>
+
+---
+
+## Mickalene Thomas’ passion shines in her work
+
+date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>‘Mickalene Thomas: All About Love’ embraces the femininity of Black women.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/04/mickalene-thomas-passion-shines-in-her-work/">Mickalene Thomas’ passion shines in her work</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/04/mickalene-thomas-passion-shines-in-her-work/>
+
+---
+
+## Women’s volleyball reigns victorious in season opener
+
+date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans start the season 2-0 after beating Pepperdine twice on the road.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/04/womens-volleyball-reigns-victorious-in-season-opener/">Women’s volleyball reigns victorious in season opener</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/04/womens-volleyball-reigns-victorious-in-season-opener/>
+
+---
+
+## Olympics require changes to LA transit infrastructure
+
+date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/09/04/olympics-require-changes-to-la-transit-infrastructure/">Olympics require changes to LA transit infrastructure</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/04/olympics-require-changes-to-la-transit-infrastructure/>
+
+---
+
+## USG senate gears up for 2024-25 school year
+
+date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Senate special elections will be held from Sept. 18-19.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/04/usg-senate-gears-up-for-2024-25-school-year/">USG senate gears up for 2024-25 school year</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/04/usg-senate-gears-up-for-2024-25-school-year/>
+
+---
+
+## USC fights off Tigers, leaves Vegas up big
+
+date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Miller Moss and the Trojans opened their season with a bang, beating No. 18 LSU 27-20.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/04/usc-fights-off-tigers-leaves-vegas-up-big/">USC fights off Tigers, leaves Vegas up big</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/04/usc-fights-off-tigers-leaves-vegas-up-big/>
+
+---
+
+## USC Facilities implements revamped waste bins
+
+date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Planning and Management team allocated more space to disposing of compost. </p>
+<p>The post <a href="https://dailytrojan.com/2024/09/04/usc-facilities-implements-revamped-waste-bins/">USC Facilities implements revamped waste bins</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/04/usc-facilities-implements-revamped-waste-bins/>
+
+---
+
+## The perils of being a yapper
+
+date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/09/04/the-perils-of-being-a-yapper/">The perils of being a yapper</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/04/the-perils-of-being-a-yapper/>
+
+---
+
+## After audit raises dozens of concerns, OC cuts short a key mental health services contract
+
+date: 2024-09-04, updated: 2024-09-04, from: The LAist
+
+The audit, obtained by LAist through a public records request, looked at the county's Be Well campus in the city of Orange. The director of the O.C.’s Health Care Agency tells LAist the county will terminate the contract. 
+
+<https://laist.com/news/health/orange-county-mind-oc-be-well-health-care-audit-contract>
+
+---
+
+## Column: Men’s soccer off to a hot start
+
+date: 2024-09-03, from: The Sundail (CSUN Student Newspaper)
+
+With CSUN barely missing the postseason last year, the team was eager to get this season off to a good start against two ranked opponents: No. 18 James Madison University... 
+
+<https://sundial.csun.edu/184301/sports/column-mens-soccer-off-to-a-hot-start/>
+
+---
+
+## City Officially Breaks Ground on the Future Rink Sports Pavilion
+
+date: 2024-09-03, from: City of Santa Clarita
+
+<p>Dirt has been ceremonially thrown, and construction on The Rink Sports Pavilion has commenced. Last week, the Santa Clarita City Council was joined by Congressman Mike Garcia, representatives from other elected offices, community members and the Skating Mama’s of SCV, for the groundbreaking ceremony. Located at the Santa Clarita Sports Complex (20870 Centre Pointe Parkway), [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/03/city-officially-breaks-ground-on-the-future-rink-sports-pavilion/">City Officially Breaks Ground on the Future Rink Sports Pavilion</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/03/city-officially-breaks-ground-on-the-future-rink-sports-pavilion/>
+
+---
+
+## Huntington Beach may be first city to call for OC Supervisor Andrew Do's resignation
+
+date: 2024-09-03, updated: 2024-09-03, from: The LAist
+
+The Huntington Beach City Council is poised to become the first city to weigh in on Orange County Supervisor Andrew Do, who has faced increasing calls to step down amid an unfolding scandal involving fraud allegations. 
+
+<https://laist.com/news/politics/huntington-beach-andrew-do-city-council-vote>
+
+---
+
+## Young boy recovering from rare mountain lion attack
+
+date: 2024-09-03, updated: 2024-09-03, from: The LAist
+
+The 50-pound cat attacked as the boy's family was having a picnic in Malibu Creek State Park. 
+
+<https://laist.com/news/climate-environment/young-boy-recovering-from-rare-mountain-lion-attack>
+
+---
+
+## Speed over safety: Duffl racers allege its policies lead to reckless riding, scooter-related accidents
+
+date: 2024-09-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+As she darted out of the Ralphs parking lot, with an order for a vape in hand, Duffl racer Lucy McHenry experienced what all scooter-riding students in Westwood dread – she was hit by a car. 
+
+<https://dailybruin.com/2024/09/03/speed-over-safety-duffl-racers-allege-its-policies-lead-to-reckless-riding-scooter-related-accidents/>
+
+---
+
+## UCLA alumnus Madison Shamoun employs TFT training for role in ‘The Z-Suite’
+
+date: 2024-09-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Madison Shamoun is preparing for her silver screen renaissance.
+The UCLA School of Theater, Film and Television alumnus was recently cast alongside Lauren Graham in the upcoming television series &#8220;The Z-Suite.&#8221; Tubi&#8217;s upcoming workplace comedy follows the unraveling of a New York advertising agency and intergenerational clashes between Gen Z and established C-suite employees. 
+
+<https://dailybruin.com/2024/09/03/ucla-alumnus-madison-shamoun-employs-tft-training-for-role-in-the-z-suite/>
+
+---
+
+## Santa Clarita Students Win Local and International Awards
+
+date: 2024-09-03, from: City of Santa Clarita
+
+<p>Sister Cities’ 2024 Young Artists and Authors Showcase Winners Announced Santa Clarita Sister Cities, in partnership with the City of Santa Clarita, is proudto announce the winners of the 2024 Young Artists and Authors Showcase (YAAS). The local winners include: These students’ literary and art submissions, along with those of the finalists from Santa Clarita, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/03/santa-clarita-students-win-local-and-international-awards/">Santa Clarita Students Win Local and International Awards</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/03/santa-clarita-students-win-local-and-international-awards/>
 
 ---
 
@@ -42,9 +275,9 @@ Heatwave officially kicks off for the Southland.
 
 ---
 
-## Can a dorm shared between colleges be the solution to California's student housing needs?
+## This new dorm will house both UC and community college students. Is it the way forward?
 
-date: 2024-09-03, updated: 2024-09-03, from: The LAist
+date: 2024-09-03, updated: 2024-09-04, from: The LAist
 
 Housing going up at UC Riverside will create much-needed space for university students — and also for hundreds of community college students who are encouraged to transfer. 
 
@@ -106,11 +339,11 @@ One item that is essential for incoming students to be aware of is the Bruin U-P
 
 ---
 
-## As landslide worsens, power shutoffs expand for Rancho Palos Verdes residents
+## Newsom declares state of emergency for Rancho Palos Verdes as landslide worsens
 
-date: 2024-09-02, updated: 2024-09-02, from: The LAist
+date: 2024-09-02, updated: 2024-09-03, from: The LAist
 
-About 100 additional homes, located in the Seaview area, will have their power shut off Monday evening. 
+The move Tuesday came as some 250 homes are now without power due to safety concerns. 
 
 <https://laist.com/news/climate-environment/power-outage-rancho-palos-verdes-residents>
 

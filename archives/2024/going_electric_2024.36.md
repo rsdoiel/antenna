@@ -1,11 +1,263 @@
 ---
 title: going electric
-updated: 2024-09-03 10:32:02
+updated: 2024-09-04 07:45:07
 ---
 
 # going electric
 
-(date: 2024-09-03 10:32:02)
+(date: 2024-09-04 07:45:07)
+
+---
+
+## Volvo backtracks on its 100% EV pledge: Here’s what the new plan looks like
+
+date: 2024-09-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/07/Volvo-EV-margins-Q2-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Another automaker is adjusting its near-term electric vehicle target. <a href="https://electrek.co/guides/volvo/">Volvo</a> is scaling back on its 100% EV pledge by 2030. The company said stronger government support is needed to advance the transition.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo" data-layer-viewtype="unknown" data-post-id="378370" href="https://electrek.co/2024/09/04/volvo-backtracks-100-ev-pledge/#more-378370" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/04/volvo-backtracks-100-ev-pledge/>
+
+---
+
+## 2025 Volvo XC90 PHEV Has Sharper Looks, New Tech
+
+date: 2024-09-04, from: Inside EVs News
+
+Despite having a range of new models in the pipeline, Volvo still relies heavily on the XC90 to drive sales. 
+
+<https://insideevs.com/news/732476/2025-volvo-xc90-phev-looks-sharper-new-tech/>
+
+---
+
+## First look at ‘substantially updated’ 2025 Volvo XC90 plug-in hybrid
+
+date: 2024-09-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Screenshot-by-Dropbox-Capture.png?w=770" /></div><p>At what Volvo is calling 90/90 Day, the Swedish car brand will show off its latest version of the flagship XC90 SUV alongside the long-awaited arrival of the <a href="https://electrek.co/2024/08/08/volvo-ex90-price-hike-features-missing/">all-electric EX90</a>. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="378053" href="https://electrek.co/2024/09/04/first-look-at-substantially-updated-2025-volvo-xc90-plug-in-hybrid/#more-378053" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/04/first-look-at-substantially-updated-2025-volvo-xc90-plug-in-hybrid/>
+
+---
+
+## Ford’s updated E-Transit, America’s best-selling electric van, is en route to customers
+
+date: 2024-09-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Ford-shipping-new-E-Transit.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>America’s best-selling electric van now has even more range and faster charging. <a href="https://electrek.co/guides/ford/">Ford</a> announced on Wednesday that it began shipping the new 2024 E-Transit with enhanced range to customers across North America.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-e-transit" data-layer-viewtype="unknown" data-post-id="378308" href="https://electrek.co/2024/09/04/ford-begins-shipping-new-e-transit-americas-best-selling-ev-van/#more-378308" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/04/ford-begins-shipping-new-e-transit-americas-best-selling-ev-van/>
+
+---
+
+## Next-Gen Volvo Electric Semi Truck To Deliver Up To 373 Miles Of Range
+
+date: 2024-09-04, from: Inside EVs News
+
+That’s double the current model’s rating. 
+
+<https://insideevs.com/news/732474/new-volvo-fh-electric-long-range/>
+
+---
+
+## Ford Patents A Way To Bring Ads Inside Your Car
+
+date: 2024-09-04, from: Inside EVs News
+
+The system can listen to conversations and play ads when there’s a moment of silence. Or play a video when you’re close to the shops. 
+
+<https://insideevs.com/news/732452/ford-patent-in-car-ads/>
+
+---
+
+## Rivian is rolling out a software update to R1 owners new and old, including a new ‘Launch Mode’
+
+date: 2024-09-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Rivian-software-update-Sept-2024.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rivian has just started rolling out a robust software update that improves several features in both generations of its flagship R1S and R1T BEVs. Updates vary by model, but there are some pretty extensive improvements to the <a href="https://electrek.co/guides/rivian/">Rivian</a> ownership experience, including the opportunity to show off that tri-motor acceleration with a new “Launch Mode” feature.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r1s,rivian-r1t" data-layer-viewtype="unknown" data-post-id="378319" href="https://electrek.co/2024/09/03/rivian-rolling-out-software-update-r1-owners-including-new-launch-mode/#more-378319" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/03/rivian-rolling-out-software-update-r1-owners-including-new-launch-mode/>
+
+---
+
+## BMW Recalls 12,535 Mini Cooper SEs Over Fire Risk
+
+date: 2024-09-03, from: Inside EVs News
+
+Mini learned of a customer's "thermal event" and issued the recall. The fix is a dealer-installed software update.  
+
+<https://insideevs.com/news/732406/mini-cooper-se-battery-recall/>
+
+---
+
+## Rally-ready Hyundai IONIQ 5, Tesla “ASS” and a long-range Volvo electric semi
+
+date: 2024-09-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/iconiq-5.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s thrilling episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, the Hyundai IONIQ 5 gets a rally-ready update plus a native NACS connector, Tesla’s smart summon arrives just two years late, and Volvo’s latest “breakthrough” electric semi truck goes more than 600 km between charges.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai-ioniq-5,quick-charge,tesla,volvo-trucks" data-layer-viewtype="unknown" data-post-id="378333" href="https://electrek.co/2024/09/03/rally-ready-hyundai-ioniq-5-tesla-ass-and-a-long-range-volvo-electric-semi/#more-378333" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/03/rally-ready-hyundai-ioniq-5-tesla-ass-and-a-long-range-volvo-electric-semi/>
+
+---
+
+## More Efficient EVs Would Be Cheaper, Less Stressful On Power Grid
+
+date: 2024-09-03, from: Inside EVs News
+
+A new white paper by the ACEEE insists that more efficient EVs with smaller batteries would be cheaper and better for the power grid.  
+
+<https://insideevs.com/news/732408/aceee-study-white-paper-cheaper-grid/>
+
+---
+
+## Q3 2024 update: How many US EV charging ports there are now
+
+date: 2024-09-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/nevi-groundbreaking-ohio.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The <a href="https://driveelectric.gov/">US Joint Office of Energy and Transportation</a>’s Q3 2024 update reveals an increase of around 9,000 EV charging ports in the last three months – here’s the lowdown.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,egeb,energy-brief,ev-chargers,ev-charging-stations,solar,president-biden" data-layer-viewtype="unknown" data-post-id="378300" href="https://electrek.co/2024/09/03/q3-2024-ev-charging-ports/#more-378300" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/03/q3-2024-ev-charging-ports/>
+
+---
+
+## Tesla hints at seats that rotate facing backward in self-driving vehicle
+
+date: 2024-09-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Autonomous-rotating-car-seats.jpg?quality=82&#038;strip=all&#038;w=1437" /></div><p>According to communications sent to regulators, Tesla is hinting at making its self-driving vehicles with seats that can rotate to face backward.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="378303" href="https://electrek.co/2024/09/03/tesla-hints-at-seats-that-rotate-facing-backward-in-self-driving-vehicle/#more-378303" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/03/tesla-hints-at-seats-that-rotate-facing-backward-in-self-driving-vehicle/>
+
+---
+
+## Scout Motors Will Reveal Its SUV And Truck On October 24
+
+date: 2024-09-03, from: Inside EVs News
+
+Volkswagen is reviving the iconic Scout brand to make a line of rugged EVs. The reveal event is just around the corner. 
+
+<https://insideevs.com/news/732398/scout-reveal-date-suv-truck/>
+
+---
+
+## Navalt is bringing sustainability to the waters of India with solar electric boats that go over 200 km
+
+date: 2024-09-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Solar-Electric-Boats-India-Navalt.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A <a href="https://electrek.co/guides/solar-electric-boats/">sustainable marine mobility</a> developer called Navalt is making a quick impact on a huge part of Asia. It is rolling out some of India’s largest and most efficient solar electric boats on the water. From ferries to water taxis and even yachts, Navalt is doing a little bit of everything. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-boats,india,navalt,solar-electric-boats" data-layer-viewtype="unknown" data-post-id="378220" href="https://electrek.co/2024/09/03/navalt-bringing-sustainability-to-india-solar-electric-boats-go-over-200-km/#more-378220" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/03/navalt-bringing-sustainability-to-india-solar-electric-boats-go-over-200-km/>
+
+---
+
+## Geely introduces new low-cost Xingyuan EV to challenge BYD, offers ice cream for test drives
+
+date: 2024-09-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Geely-low-cost-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volvo and Polestar owner <a href="https://electrek.co/guides/geely/">Geely Auto</a> unveiled the new Geome Xingyuan EV on Tuesday. With starting prices expected to be around $11,200 (80,000 yuan), the new Geely model will rival low-cost EVs like the BYD Dolphin. As part of a partnership with Haagen-Dazs, Geely looks to lure buyers by offering ice cream for test drives.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="geely" data-layer-viewtype="unknown" data-post-id="378271" href="https://electrek.co/2024/09/03/geely-offers-free-ice-cream-test-drive-new-low-cost-ev/#more-378271" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/03/geely-offers-free-ice-cream-test-drive-new-low-cost-ev/>
+
+---
+
+## Tesla cars are now used like CCTV cameras by Oakland police
+
+date: 2024-09-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/01/Tesla-Sentry-Mode-USB-Drive.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s Sentry Mode features that record what is happening around the electric cars have often been used to help solve crimes, but Oakland Police is going a step further.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="378256" href="https://electrek.co/2024/09/03/tesla-cars-are-now-used-like-cctv-cameras-by-oakland-police/#more-378256" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/03/tesla-cars-are-now-used-like-cctv-cameras-by-oakland-police/>
+
+---
+
+## The Volvo EX90 Will Beep At You For Looking At The Road Too Much
+
+date: 2024-09-03, from: Inside EVs News
+
+Everyone knows that looking away from the road can be dangerous. Here's why Volvo thinks looking at it too much is a problem, too. 
+
+<https://insideevs.com/news/732383/volvo-ex90-attention-monitor/>
+
+---
+
+## The Vast Majority Of Tesla Owners Buy Another One
+
+date: 2024-09-03, from: Inside EVs News
+
+Despite concerns that CEO Elon Musk's behavior could damage the brand's image, two out of three Tesla buyers bought another. 
+
+<https://insideevs.com/news/732362/tesla-brand-loyalty-damage-study/>
+
+---
+
+## MOD Black 3 mountain e-bike $500 off + FREE $599 SUP, Anker power stations $200 off, fall-ready yard tools, more
+
+date: 2024-09-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/MOD-Black-3-mountain-ebike.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Today’s Green Deals feature a number of hangover Labor Day offers on e-bikes from Lectric and more, but we also have a fresh batch of discounts to get you cruising, keep your outdoor space tidy, and ensure you never run out of power. First up, we have spotted a notable bundle on what is, at least for me, one of the nicest-looking mountain e-bikes on the market – the <a href="https://9to5toys.com/2024/09/03/mod-black-3-baddest-mountain-e-bike/">MOD Black 3 at up to <strong>$500 off</strong></a> the going rate with a <a href="https://9to5toys.com/2024/09/03/mod-black-3-baddest-mountain-e-bike/"><strong>FREE $599 </strong>MOD Board Inflatable SUP</a> bundled in. Next, it’s on to a 2024 mid-range Anker 10-port portable power station with the <a href="https://9to5toys.com/2024/09/03/ankers-2024-port-portable-power-station-deal/">SOLIX C800 now at <strong>$200 off</strong></a> joined by a new Amazon all-time low on this <a href="https://9to5toys.com/2024/09/03/greenworks-1800-psi-1-1-gpm-electric-pressure-washer/">Greenworks 1,800 PSI Electric Pressure Washer at <strong>$90</strong></a>. All of that and more wait down below in today’s Green Deals. </p>
+
+
+
+<p>Head below for more and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="378246" href="https://electrek.co/2024/09/03/mod-black-3-mountain-e-bike-deal/#more-378246" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/03/mod-black-3-mountain-e-bike-deal/>
+
+---
+
+## VW’s Scout brand reveal set for October 24
+
+date: 2024-09-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/vwscoutrevealoctober24-e1725384892701.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>VW’s electric adventure truck spinoff, Scout Motors, will reveal its first vehicle on October 24.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="scout-motors,vw" data-layer-viewtype="unknown" data-post-id="378252" href="https://electrek.co/2024/09/03/vws-scout-brand-reveal-set-for-october-24/#more-378252" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/03/vws-scout-brand-reveal-set-for-october-24/>
 
 ---
 

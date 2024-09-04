@@ -1,11 +1,105 @@
 ---
 title: writing
-updated: 2024-09-03 10:31:58
+updated: 2024-09-04 07:45:02
 ---
 
 # writing
 
-(date: 2024-09-03 10:31:58)
+(date: 2024-09-04 07:45:02)
+
+---
+
+## The Bricks of Breaking In: Jamarcus Turner On Breaking In From Outside Los Angeles
+
+date: 2024-09-03, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/the-bricks-of-breaking-in-jamarcus-turner-on-breaking-in-from-outside-los-angeles" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Jamarcus_Taylor.jpg" alt="Jamarcus Taylor" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>It's a question so many have. Can I break into film and TV while living outside Los Angeles? The truth is yes, as there are so many different paths writers can take to break in. Although getting your start from across the country can raise extra challenges, Jamarcus Turner (<em>Bob Hearts Abishola</em>) found a way to make inroads in the industry while still a factory worker in Indiana.&nbsp;</p> 
+
+<https://blog.finaldraft.com/the-bricks-of-breaking-in-jamarcus-turner-on-breaking-in-from-outside-los-angeles>
+
+---
+
+## Brown Wins Resnick Award
+
+date: 2024-09-03, from: Locus Magazine
+
+<div class="mynomorebulletlist">
+<p>&#8220;When I was Your Age&#8221; by Sam Brown is the winner of the Mike Resnick Memorial Award, presented at Dragon Con, held August 29 &#8211; September 2, 2024 in Atlanta GA. &#8220;What the Cat Dragged In&#8221; by Bailey Maybray was first runner-up.</p>
+<p>Other finalists were:</p>
+<ul>
+<li class="font_8 wixui-rich-text__text">&#8220;The Year of Pepsi Nova&#8221;, Pete Lead </li>
+<li class="font_8 wixui-rich-text__text">&#8220;Life in the Old Bones&#8221;, Scott M. Sands </li>
+<li class="font_8 wixui-rich-text__text">&#8220;The Green Ones&#8221;, Magda Smith </li>
+</ul>
+<p>The annual award is sponsored </p></div> <a href="https://locusmag.com/2024/09/brown-wins-resnick-award/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/09/brown-wins-resnick-award/>
+
+---
+
+## Jones Wins Eugie Award
+
+date: 2024-09-03, from: Locus Magazine
+
+<p>“The Sound of Children Screaming” by Rachael K. Jones (Nightmare 10/23) is the winner of the 2024 Eugie Foster Memorial Award for Short Fiction for &#8220;stories that are irreplaceable, that inspire, enlighten, and entertain.&#8221;</p>
+<p>Other finalists were:</p>
+<div class="nobullets">
+<ul>
+<li>“Tantie Merle and the Farmhand 4200”, R.S.A. Garcia (Uncanny 7/23)</li>
+<li>“The Year Without Sunshine”, Naomi Kritzer (Uncanny 10/23)</li>
+<li>“Even if Such Ways Are Bad&#8220;, Rich Larson (Reactor 2/8/23)</li>
+<li><strong>Falling Bodies</strong>, Rebecca Roanhorse </li></ul></div> <a href="https://locusmag.com/2024/09/jones-wins-eugie-award/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/09/jones-wins-eugie-award/>
+
+---
+
+## 2023 Dragon Awards Winners
+
+date: 2024-09-03, from: Locus Magazine
+
+<p></p>
+<p>&#160;</p>
+<p>The winners of the 2024 Dragon Awards were presented at Dragon Con, held August 29 &#8211; September 2, 2024 in Atlanta GA.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Science Fiction Novel</strong></p>
+<ul>
+<li>WINNER: <strong>Starter Villain</strong>, John Scalzi (Tor; Tor UK)</li>
+</ul>
+<ul>
+<li><strong>The Jinn-Bot of Shantiport</strong>, Samit Basu (Tordotcom)</li>
+<li><strong>The Saint of Bright Doors</strong>, Vajra Chandrasekera (Tordotcom)</li>
+<li><strong>Theft of Fire</strong>, Devon Eriksen (self-published)</li>
+<li><strong>These Burning Stars</strong>, Bethany Jacobs (Orbit US; Orbit UK)</li></ul></div> <a href="https://locusmag.com/2024/09/2023-dragon-awards-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/09/2023-dragon-awards-winners/>
+
+---
+
+## Screenwriting Contests as a Networking Tool
+
+date: 2024-09-03, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/screenwriting-contests-as-a-networking-tool" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/pexels-fauxels-3184465.jpg" alt="Screenwriting Contests as a Networking Tool" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Every year aspiring screenwriters from around the world enter screenwriting contests like <a href="https://www.finaldraft.com/big-break-screenwriting-contest/">Final Draft's Big Break</a>. Arguably the most sought-after prize is meetings with top management companies and these meetings have resulted in various <a href="https://blog.finaldraft.com/how-big-break-and-final-are-different-from-other-screenwriting-contests">screenwriter success stories.</a></p> 
+
+<https://blog.finaldraft.com/screenwriting-contests-as-a-networking-tool>
+
+---
+
+## Scriptnotes, Episode 649: The Comedic Premise with Simon Rich, Transcript
+
+date: 2024-09-03, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August, and you are listening to Episode 649 of Scriptnotes. It’s a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, which ideas are inherently funny? We’ll discuss what makes a [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-649-the-comedic-premise-with-simon-rich-transcript">Scriptnotes, Episode 649: The Comedic Premise with Simon Rich, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-649-the-comedic-premise-with-simon-rich-transcript>
 
 ---
 

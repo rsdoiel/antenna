@@ -1,11 +1,23 @@
 ---
 title: parks
-updated: 2024-09-03 10:32:00
+updated: 2024-09-04 07:45:05
 ---
 
 # parks
 
-(date: 2024-09-03 10:32:00)
+(date: 2024-09-04 07:45:05)
+
+---
+
+## Grand Canyon National Park to Reopen South Rim Hotels September 5
+
+date: 2024-09-03, from: Press Releases
+
+Grand Canyon National Park will reopen hotels on the park’s South Rim beginning Thursday, September 5 and transition down to Stage 3 water restrictions.  
+
+Park water utility crews successfully completed complex repairs to the Transcanyon Waterline late last week and resumed pumping water without identifying any new breaks. The park will operate under Stage 3 water restrictions until the water storage tanks have adequate capacity to return to routine water conservation practices. https://www.nps.gov/grca/learn/news/transition-to-stage-3-september-5.htm 
+
+<https://www.nps.gov/grca/learn/news/transition-to-stage-3-september-5.htm>
 
 ---
 
