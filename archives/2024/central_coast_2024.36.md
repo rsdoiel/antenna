@@ -1,11 +1,135 @@
 ---
 title: central coast
-updated: 2024-09-04 13:41:19
+updated: 2024-09-05 09:37:25
 ---
 
 # central coast
 
-(date: 2024-09-04 13:41:19)
+(date: 2024-09-05 09:37:25)
+
+---
+
+## Frog Watch
+
+date: 2024-09-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/070122-POD-John-Tilford.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Keeping an eye out from the Frog Shrine on the Santa Barbara Riviera." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/070122-POD-John-Tilford.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/070122-POD-John-Tilford.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/070122-POD-John-Tilford.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/070122-POD-John-Tilford.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/070122-POD-John-Tilford.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/070122-POD-John-Tilford.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/070122-POD-John-Tilford.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/070122-POD-John-Tilford.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/070122-POD-John-Tilford.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/070122-POD-John-Tilford.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/070122-POD-John-Tilford.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/070122-POD-John-Tilford.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/070122-POD-John-Tilford.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/frog-watch/">Frog Watch</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/frog-watch/>
+
+---
+
+## Santa Barbara High Flag Football Pulls Away for 31-14 Win Over Pacifica
+
+date: 2024-09-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-cover-94.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-cover-94.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-cover-94.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-cover-94.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-cover-94.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-cover-94.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-cover-94.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-cover-94.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-cover-94.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-cover-94.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-cover-94.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara High girls flag football got out to a fast start and pulled away in the second half en route to a 31-14 win over Pacifica on Wednesday at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-high-flag-football-pulls-away-for-31-14-win-over-pacifica/">Santa Barbara High Flag Football Pulls Away for 31-14 Win Over Pacifica</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-high-flag-football-pulls-away-for-31-14-win-over-pacifica/>
+
+---
+
+## Prep Girls Golf Roundup: Sadi Adams Leads San Marcos to Win Over Santa Ynez
+
+date: 2024-09-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>San Marcos girls golf took down Santa Ynez High in a nine-hole match at Alisal River Course on Wednesday. The Royals ended the day with a team score of 242 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-golf-roundup-sadi-adams-leads-san-marcos-to-win-over-santa-ynez/">Prep Girls Golf Roundup: Sadi Adams Leads San Marcos to Win Over Santa Ynez</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-golf-roundup-sadi-adams-leads-san-marcos-to-win-over-santa-ynez/>
+
+---
+
+## Carpinteria High Girls Tennis Suffers 11-7 Defeat Against Simi Valley
+
+date: 2024-09-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Carpinteria High girls tennis fell to Simi Valley by a score of 11-7 at home on Wednesday. “I thought we competed very well today and stayed in the match the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/carpinteria-high-girls-tennis-suffers-11-7-defeat-against-simi-valley/">Carpinteria High Girls Tennis Suffers 11-7 Defeat Against Simi Valley</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/carpinteria-high-girls-tennis-suffers-11-7-defeat-against-simi-valley/>
+
+---
+
+## Woman Dies After Reportedly Jumping Off Stearns Wharf in Santa Barbara
+
+date: 2024-09-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A woman died in Santa Barbara on Tuesday afternoon after jumping off Stearns Wharf into the ocean, according to police. City Fire and Harbor Patrol personnel responded to a reported [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/woman-dies-after-reportedly-jumping-off-stearns-wharf-in-santa-barbara/">Woman Dies After Reportedly Jumping Off Stearns Wharf in Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/woman-dies-after-reportedly-jumping-off-stearns-wharf-in-santa-barbara/>
+
+---
+
+## Strong Towns SB Makes Case to Permanently Close State Street to Cars
+
+date: 2024-09-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-StrongTownsSB-Sullivan-Israel-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sullivan Israel of Strong Towns Santa Barbara explains during Tuesday night&#039;s event that Santa Barbara should close downtown State Street to vehicles permanently." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-StrongTownsSB-Sullivan-Israel-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-StrongTownsSB-Sullivan-Israel-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-StrongTownsSB-Sullivan-Israel-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-StrongTownsSB-Sullivan-Israel-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-StrongTownsSB-Sullivan-Israel-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-StrongTownsSB-Sullivan-Israel-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-StrongTownsSB-Sullivan-Israel-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-StrongTownsSB-Sullivan-Israel-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-StrongTownsSB-Sullivan-Israel-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-StrongTownsSB-Sullivan-Israel-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Closing Santa Barbara&#8217;s State Street to vehicles can boost the economy, make the community safer and attract housing development, according to members of the Strong Towns Santa Barbara community organization. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/strong-towns-sb-makes-a-case-to-permanently-close-state-street-to-vehicles/">Strong Towns SB Makes Case to Permanently Close State Street to Cars</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/strong-towns-sb-makes-a-case-to-permanently-close-state-street-to-vehicles/>
+
+---
+
+## Wildfire Near Carrizo Plain in SLO County Grows to 1,200 Acres
+
+date: 2024-09-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A vegetation fire that sparked Wednesday morning burned 1,200 acres in the rural eastern area of San Luis Obispo County. At around 9:20 a.m., the Chimineas Fire ignited off Chimineas [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/wildfire-near-carrizo-plain-in-slo-county-grows-to-1200-acres/">Wildfire Near Carrizo Plain in SLO County Grows to 1,200 Acres</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/wildfire-near-carrizo-plain-in-slo-county-grows-to-1200-acres/>
+
+---
+
+## SpaceX to Deliver Set of Spy Satellites with Vandenberg SFB Launch Thursday
+
+date: 2024-09-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Another collection of next-generation spy satellites get a ride into orbit aboard a Falcon 9 rocket set to liftoff from Vandenberg Space Force Base on Thursday, marking the third similar [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/spacex-to-deliver-set-of-spy-satellites-with-vandenberg-sfb-launch-thursday/">SpaceX to Deliver Set of Spy Satellites with Vandenberg SFB Launch Thursday</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/spacex-to-deliver-set-of-spy-satellites-with-vandenberg-sfb-launch-thursday/>
+
+---
+
+## NWS Issues Excessive Heat Warning For Santa Barbara County
+
+date: 2024-09-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="618" height="448" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-nws-heat-warning-map-crop.jpg?fit=618%2C448&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The National Weather Service issued an excessive heat warning and heat advisory for Santa Barbara County this week." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-nws-heat-warning-map-crop.jpg?w=618&amp;ssl=1 618w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-nws-heat-warning-map-crop.jpg?resize=300%2C217&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-nws-heat-warning-map-crop.jpg?resize=400%2C290&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-nws-heat-warning-map-crop.jpg?fit=618%2C448&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Even though Labor Day has passed us by, the biggest heat wave of the summer is upon us.&#160; The National Weather Service issued an excessive heat warning for Santa Ynez [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/nws-issues-excessive-heat-warning-for-santa-barbara-county-090424/">NWS Issues Excessive Heat Warning For Santa Barbara County</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/nws-issues-excessive-heat-warning-for-santa-barbara-county-090424/>
+
+---
+
+## Sable to Install Pipeline Safety Valves, Pursue Restart After Santa Barbara County Settlement
+
+date: 2024-09-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="592" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-sable-santa-ynez-unit-asset-map.jpg?fit=1024%2C592&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A map of Santa Ynez Unit assets from Sable Offshore Corp.&#039;s May investor presentation. It includes offshore platforms, Las Flores processing facility on the Gaviota Coast, and an oil transportation pipeline to out-of-area refineries." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-sable-santa-ynez-unit-asset-map.jpg?w=2184&amp;ssl=1 2184w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-sable-santa-ynez-unit-asset-map.jpg?resize=300%2C173&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-sable-santa-ynez-unit-asset-map.jpg?resize=1024%2C592&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-sable-santa-ynez-unit-asset-map.jpg?resize=768%2C444&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-sable-santa-ynez-unit-asset-map.jpg?resize=1536%2C888&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-sable-santa-ynez-unit-asset-map.jpg?resize=2048%2C1183&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-sable-santa-ynez-unit-asset-map.jpg?resize=1200%2C693&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-sable-santa-ynez-unit-asset-map.jpg?resize=1568%2C906&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-sable-santa-ynez-unit-asset-map.jpg?resize=2000%2C1156&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-sable-santa-ynez-unit-asset-map.jpg?resize=400%2C231&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-sable-santa-ynez-unit-asset-map.jpg?resize=706%2C408&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090424-sable-santa-ynez-unit-asset-map.jpg?fit=1024%2C592&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara County and Sable Offshore Corp. reached a settlement agreement last week that will allow the company to install safety valves along its oil pipeline. &#160; The pipeline and [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/sable-to-install-pipeline-safety-valves-pursue-restart-after-santa-barbara-county-settlement/">Sable to Install Pipeline Safety Valves, Pursue Restart After Santa Barbara County Settlement</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sable-to-install-pipeline-safety-valves-pursue-restart-after-santa-barbara-county-settlement/>
 
 ---
 

@@ -1,11 +1,443 @@
 ---
 title: pacific
-updated: 2024-09-04 13:41:18
+updated: 2024-09-05 09:37:23
 ---
 
 # pacific
 
-(date: 2024-09-04 13:41:18)
+(date: 2024-09-05 09:37:23)
+
+---
+
+## Docomo Pacific strengthens commitment to CNMI with new Saipan call center
+
+date: 2024-09-05, updated: 2024-09-05, from: Marianas Variety
+
+(Special Advertising Feature) — Docomo Pacific, the regional leader in innovation, telecommunications, and entertainment, is proud to announce the establishment of its new call center in Saipan, a significant expansion of its operations in the CNMI. 
+
+<https://www.mvariety.com/business/business_news/docomo-pacific-strengthens-commitment-to-cnmi-with-new-saipan-call-center/article_7f1fcb42-6b33-11ef-a2fc-93f819a27d59.html>
+
+---
+
+## Marianas Milk
+
+date: 2024-09-05, updated: 2024-09-05, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/views/columnists/marianas-milk/article_8b72818a-6b35-11ef-b10c-4f31b52cbcf9.html>
+
+---
+
+## September prep for NaNoWriMo
+
+date: 2024-09-05, updated: 2024-09-05, from: Marianas Variety
+
+NATIONAL Novel Writing Month is November. It’s not too late or too early to start thinking about the book you want to write. September is a perfect month to ease into writing mode. The best way to do that is to read. As best-selling author Stephen King said, “If you want to be a writer you must do two things above all others: read a lot and write a lot.” We’ll write a lot in November, but now is the time to read a lot. 
+
+<https://www.mvariety.com/lifestyle/september-prep-for-nanowrimo/article_e70bddd2-6b37-11ef-bf7d-b3b67eb57490.html>
+
+---
+
+## Sliding Dirty beats Lady Sufa to claim Labor Day women’s softball title
+
+date: 2024-09-05, updated: 2024-09-05, from: Marianas Variety
+
+“IT isn’t over till it’s over” is a saying that was proven true by the underdogs, Sliding Dirty, as they battled Lady Sufa twice to win the women’s division championship of the 1st CNMI Labor Day Tournament, which concluded Sunday at the Francisco “Tan Ko” Palacios Baseball Field. 
+
+<https://www.mvariety.com/sports/localsports/sliding-dirty-beats-lady-sufa-to-claim-labor-day-women-s-softball-title/article_563fbd82-6b78-11ef-b3cd-aba6c9590981.html>
+
+---
+
+## MLB roundup: Cubs combine to no-hit Pirates
+
+date: 2024-09-05, updated: 2024-09-05, from: Marianas Variety
+
+(Reuters) — Shota Imanaga threw the first seven innings of a combined no-hitter as the host Chicago Cubs recorded a 12-0 victory over the Pittsburgh Pirates on Wednesday. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-cubs-combine-to-no-hit-pirates/article_d38bbab4-6b84-11ef-993b-27e19d29f452.html>
+
+---
+
+## Harris’ debate plan: Goad Trump, call out lies, create social media moments
+
+date: 2024-09-05, updated: 2024-09-05, from: Marianas Variety
+
+WASHINGTON (Reuters) — Vice President Kamala Harris is preparing for her highly anticipated Sept. 10 debate with Donald Trump by focusing on ways to unnerve the Republican candidate and draw attention to his frequent falsehoods on policies and recent history, all with an eye toward social media, aides and advisers say. 
+
+<https://www.mvariety.com/news/national/harris-debate-plan-goad-trump-call-out-lies-create-social-media-moments/article_52e0dcc0-6b87-11ef-ac0b-17aeedfd664e.html>
+
+---
+
+## Swishas rally past Unity Trade, 93-74
+
+date: 2024-09-05, updated: 2024-09-05, from: Marianas Variety
+
+SWISHAS are off to a strong start in the Win Pacific Corporation Invitational Basketball League 2024 after stunning Unity Trade, 93-74, at the Gualo Rai basketball court on Tuesday. 
+
+<https://www.mvariety.com/sports/localsports/swishas-rally-past-unity-trade-93-74/article_f6b2c918-6b77-11ef-a4b0-572ed7670bc5.html>
+
+---
+
+## Free Zoom webinar: Reflecting on eight years of Arbitral Tribunal award and future of South China Sea
+
+date: 2024-09-05, updated: 2024-09-05, from: Marianas Variety
+
+(NYMWPS) — In celebration of the eighth anniversary of the Philippine victory in the Arbitral Tribunal and the ninth founding anniversary of the National Youth Movement for the West Philippine Sea, a peaceful and transglobal organization that has been advocating for the Philippine sovereignty and territorial integrity since 2015, the public is cordially invited to attend a free Zoom webinar. 
+
+<https://www.mvariety.com/news/regional_world/free-zoom-webinar-reflecting-on-eight-years-of-arbitral-tribunal-award-and-future-of-south/article_536aaaa6-6b8a-11ef-a85a-db91b4f083ed.html>
+
+---
+
+## Green flag on Managaha, red flag at 1 Tinian site
+
+date: 2024-09-05, updated: 2024-09-05, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Managaha’s recreational beaches and dock as part of the regularly scheduled sampling.  None of the samples collected this week contained excessive concentrations of fecal indicator bacteria nor did they exceed CNMI marine water quality standards. Therefore, BECQ assigns all of the sampled beach sites a green flag. 
+
+<https://www.mvariety.com/news/local/green-flag-on-managaha-red-flag-at-1-tinian-site/article_6a24c85c-6b8b-11ef-b610-4f4a087a8a12.html>
+
+---
+
+## CUC public notice
+
+date: 2024-09-05, updated: 2024-09-05, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/news/local/cuc-public-notice/article_4985e3e8-6b7b-11ef-b8b4-ff43376ffb4c.html>
+
+---
+
+## oil in water
+
+date: 2024-09-05, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Keira Deer his hands shake as he shows me his photographs. oil in water, he says. ______several quarts per day. micro-volleys, climbing from underwater fuel tanks, and laying like dancing ribbon, like ghosts arriving to their new lives. ______secrets &#8230; <a href="https://hawaiipacificreview.org/2024/09/05/oil-in-water/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/09/05/oil-in-water/>
+
+---
+
+## DOH: Get immunized against COVID, RSV
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health recommends the recently updated 2024-2025 flu and COVID-19 vaccines for all people 6 months of age and older, as well as the respiratory syncytial virus (RSV) immunization for newborns and infants, pregnant women, adults over 75, and those 60-74 with certain chronic medical conditions.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/hawaii-news/doh-get-immunized-against-covid-rsv/>
+
+---
+
+## Russia imprisons top physicists, evenas Putin touts their technology
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>BERLIN &#8212; Russian scientists helped make their country a leader in developing cutting-edge missiles that fly at least five times as fast as the speed of sound. Then Russia started calling them traitors. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/nation-world-news/russia-imprisons-top-physicists-evenas-putin-touts-their-technology/>
+
+---
+
+## 4 Big Island men charged with illegally taking lobsters
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>Department of Land and Natural Resources enforcement officers cited four Big Island men Sunday for illegally taking lobsters on the opening day of lobster fishing season.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/hawaii-news/4-big-island-men-charged-with-illegally-taking-lobsters/>
+
+---
+
+## Harris tells the business community: I’m friendlier than Biden
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>NORTH HAMPTON, N.H. &#8212; Vice President Kamala Harris on Wednesday sought to put daylight between herself and President Joe Biden on tax policy, making it the first issue on which she is trying to stand apart from an administration in which she holds a key role.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/nation-world-news/harris-tells-the-business-community-im-friendlier-than-biden/>
+
+---
+
+## Trump questions fairness of next week’s debate at a town hall
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>HARRISBURG, Pa. &#8212; Hours after the Trump and Harris campaigns agreed to rules for their first presidential debate, former President Donald Trump sought to instill doubt that the debate would be fair, downplayed his need to prepare and suggested he was more worried about the network hosting the debate than his opponent. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/nation-world-news/trump-questions-fairness-of-next-weeks-debate-at-a-town-hall/>
+
+---
+
+## In deciding when to sentence Trump, judge faces ‘impossible’ task
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; As Donald Trump&#8217;s criminal trial wrapped up in May, one of his lawyers wanted to give the jury unusual instructions that would have made it harder to convict him. A special case warranted special rules, the lawyer argued, and the first prosecution of a former U.S. president was &#8220;obviously an extraordinarily important case.&#8221; </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/nation-world-news/in-deciding-when-to-sentence-trump-judge-faces-impossible-task/>
+
+---
+
+## Caitlin Clark gets 2nd career triple-double as Fever top Sparks
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>Rookie Caitlin Clark collected 24 points, 10 rebounds and 10 assists for her second career triple-double, lifting the Indiana Fever to a 93-86 victory over the Los Angeles Sparks on Wednesday in Indianapolis.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/sports/caitlin-clark-gets-2nd-career-triple-double-as-fever-top-sparks/>
+
+---
+
+## BIIF volleyball: Warriors win doubleheader; HPA vs. Kanu to play tonight
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>Kamehameha Schools-Hawai&#8216;i girls volleyball made quick work of its doubleheader Tuesday night at home in Kea&#8216;au. The Warriors made up for their postponed match from the island&#8217;s tropical storms from two weekends ago.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/sports/biif-volleyball-warriors-win-doubleheader-hpa-vs-kanu-to-play-tonight/>
+
+---
+
+## Chiefs eye Super Bowl three-peat, Jets’ Rodgers set for takeoff
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>The NFL season kicks off this week with the Kansas City Chiefs eyeing an unprecedented run of dominance, San Francisco 49ers still stinging from their Super Bowl loss and Aaron Rodgers hoping to showcase his pre-injury form with the New York Jets.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/sports/chiefs-eye-super-bowl-three-peat-jets-rodgers-set-for-takeoff/>
+
+---
+
+## Jessica Pegula knocks out top-ranked Iga Swiatek to earn spot in US Open semifinal
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; World No. 1 Iga Swiatek crashed out of the US Open as American Jessica Pegula finally ended her Grand Slam quarterfinal hoodoo on her seventh attempt.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/sports/jessica-pegula-knocks-out-top-ranked-iga-swiatek-to-earn-spot-in-us-open-semifinal/>
+
+---
+
+## North Carolina the big name on the UH basketball schedule
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>After their NCAA basketball teams played each other in 2016, coaches Roy Williams of North Carolina and Eran Ganot of Hawaii agreed to a rematch in 2020.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/sports/north-carolina-the-big-name-on-the-uh-basketball-schedule/>
+
+---
+
+## Ohana housing bill advances: Council bill would create more options for ‘accessory dwelling units’
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>Changes to Hawaii County ohana housing regulations are on the verge of passage after Wednesday&#8217;s County Council meeting.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/hawaii-news/ohana-housing-bill-advances-council-bill-would-create-more-options-for-accessory-dwelling-units/>
+
+---
+
+## Massachusetts welfare dollars spent in Hawaii, Virgin Islands, Alaska: ‘What the hell is someone doing in Hawaii?’
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; Welfare recipients can&#8217;t use ATMs in casinos and pot shops, but that didn&#8217;t stop them from firing up EBT cards in Hawaii, the Virgin Islands, California, Florida, and Alaska.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/nation-world-news/massachusetts-welfare-dollars-spent-in-hawaii-virgin-islands-alaska-what-the-hell-is-someone-doing-in-hawaii/>
+
+---
+
+## Nation and world news in brief for September 5
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>Report: Hunger in US continued multi-year rise in 2023</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/nation-world-news/nation-and-world-news-in-brief-for-september-5/>
+
+---
+
+## Obituaries for September 5
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>Tevita Puloka Haunga, 75, of Laupahoehoe died Aug. 3 in Salt Lake City. Born in Tonga, he was a retired general contractor and member of The Church of Jesus Christ of Latter-day Saints. Visitation 9-10:45 a.m. Saturday, Sept. 14, at The Church of Jesus Christ of Latter-day Saints, Honomu Ward. Casual attire. Funeral service 11 a.m.- noon. Private burial to follow. Survived by wife, Sharman of Laupahoehoe, HI, sons, Keala (Heather) Haunga of Lehi, Utah, Bronson (Nalani) Haunga of Hamakua, Viliam (Natalie) Haunga of Kaumana and Tylan (Hau) Haunga of Hilo; daughter, Tevai (Sione) Hausia of Hayward, Calif.; 24 grandchildren and a great-grandchild. Arrangements by Ballard Family Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/obituaries/obituaries-for-september-5-6/>
+
+---
+
+## Judge to weigh future of Trump prosecution over 2020 election
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A federal judge is set to weigh Thursday whether former President Donald Trump, in the critical weeks leading up to the November election, will face court fights over the Washington-based criminal case about his efforts to overturn his 2020 election loss.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/nation-world-news/judge-to-weigh-future-of-trump-prosecution-over-2020-election/>
+
+---
+
+## 4 dead in Georgia high school shooting, officials say
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA &#8212; Four people were shot dead at a high school northeast of Atlanta on Wednesday, Georgia law enforcement officials said, the deadliest school shooting in the United States this year and a wrenching start to the new school year.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/nation-world-news/4-dead-in-georgia-high-school-shooting-officials-say/>
+
+---
+
+## US job openings hit 3-1/2-year low as labor market eases
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. job openings dropped to a 3-1/2-year low in July, suggesting the labor market was losing steam, but the reduction on its own is probably not enough to warrant a half-percentage-point interest rate cut by the Federal Reserve this month. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/nation-world-news/us-job-openings-hit-3-1-2-year-low-as-labor-market-eases/>
+
+---
+
+## Biden administration acts against Russia-tied influence efforts
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Justice Department announced Wednesday an indictment against two Russian nationals and a move to seize 32 internet domains in a push to combat what authorities described as covert foreign influence operations targeted at the American public.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/nation-world-news/biden-administration-acts-against-russia-tied-influence-efforts/>
+
+---
+
+## Harris’ debate plan: Goad Trump, call out lies, create social media moments
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Vice President Kamala Harris is preparing for her highly anticipated Sept. 10 debate with Donald Trump by focusing on ways to unnerve the Republican candidate and draw attention to his frequent falsehoods on policies and recent history, all with an eye toward social media, aides and advisers say. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/nation-world-news/harris-debate-plan-goad-trump-call-out-lies-create-social-media-moments/>
+
+---
+
+## BLS data slipups are becoming a pattern
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>This can&#8217;t keep happening. With trust in government already ebbing, there&#8217;s yet one more reason to question the integrity of the office that distributes key data about jobs and prices. The problems at the Bureau of Labor Statistics need to be addressed quickly for the good of financial markets, the economy and public confidence in the state.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/opinion/bls-data-slipups-are-becoming-a-pattern/>
+
+---
+
+## How was the chicken prepared?
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>How was the chicken prepared? That&#8217;s the punchline to a joke that occurred to me when an avid Trump-supporting MAGA friend sent me an article calling into question some aspects of vice presidential candidate Tim Walz&#8217;s military service record.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/opinion/how-was-the-chicken-prepared/>
+
+---
+
+## Mexico’s lower house passes general text of judicial reform
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>Mexico&#8217;s lower house approved the general text of President Andres Manuel Lopez Obrador&#8217;s proposal to overhaul the country&#8217;s judicial system, which seeks to elect all federal judges by popular vote, something that opponents say will put democracy at risk. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/nation-world-news/mexicos-lower-house-passes-general-text-of-judicial-reform/>
+
+---
+
+## Disney, DirecTV battle to reshape TV bundling
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>What began as routine haggling over the rates satellite TV provider DirecTV would pay to distribute Walt Disney&#8217;s television networks is turning into a referendum on the future of bundled programming, executives and experts said. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/nation-world-news/disney-directv-battle-to-reshape-tv-bundling/>
+
+---
+
+## Feet to the fire: Debate will force Trump and Harris to answer
+
+date: 2024-09-05, from: Hawaii Tribune Harold
+
+
+				<p>For a week now, Donald Trump has been facing heat over his appearance at Arlington National Cemetery&#8212; the final resting place of hundreds of thousands of service members, including from recent conflicts &#8212; during a wreath-laying for troops killed in an attack during the botched Afghanistan withdrawal three years ago, a low point of the Biden administration.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/05/opinion/feet-to-the-fire-debate-will-force-trump-and-harris-to-answer/>
+
+---
+
+## Honolulu CC grad wins top student architecture design awards
+
+date: 2024-09-05, from: University of Hawaiʻi News
+
+<p>Michael Griffin is the recipient of the Award of Excellence and The People's Choice Award for his Mauna Kea Residence.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/04/honolulu-cc-grad-top-student-architecture-design/">Honolulu <abbr>CC</abbr> grad wins top student architecture design awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/04/honolulu-cc-grad-top-student-architecture-design/>
+
+---
+
+## Taiko classes with Kenny Endo at Kapiʻolani CC
+
+date: 2024-09-05, from: University of Hawaiʻi News
+
+<p>Taiko classes at <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> are for various ages and skill levels.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/04/taiko-classes-kenny-endo-kapiolani-cc/">Taiko classes with Kenny Endo at Kapiʻolani <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/04/taiko-classes-kenny-endo-kapiolani-cc/>
 
 ---
 
@@ -256,6 +688,18 @@ date: 2024-09-04, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/09/04/hawaii-news/roadside-vendors-bill-stalls/>
+
+---
+
+## Night re-striping work on Highway 130 at Shower Drive
+
+date: 2024-09-04, from: Hawaii Tribune Harold
+
+
+				<p>Night re-striping work is being done on Highway 130, Keaau-Pahoa Road at the intersection of Shower Drive in Puna, weeknights, 7 p.m. to 5 a.m., weather permitting.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/04/hawaii-news/night-re-striping-work-on-highway-130-at-shower-drive/>
 
 ---
 

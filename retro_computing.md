@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2024-09-04 13:41:26
+updated: 2024-09-05 09:37:31
 ---
 
 # retro computing
 
-(date: 2024-09-04 13:41:26)
+(date: 2024-09-05 09:37:31)
 
 ---
 
@@ -516,7 +516,7 @@ Nothing prevents you from entering bogus values or playing in the wrong column o
 <p>
 Here's a video. The WSSC source is <a href="https://github.com/classilla/workslate/tree/main/rps/rps.w">in Github</a>, with <a href="https://github.com/classilla/workslate/tree/main/rps/rps.ws">a ready-to-upload sheet</a>. We demonstrate a full game from start to finish, ending in clearing column A as a player would. Notice the recalculation progress indicator in the status row when we enter our moves, showing the number of cells yet to be evaluated counting down as computations complete.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzMiuzFnKjF483J27ruTQlThYvBgUSXyJ6XZhA-oORDIURUjYX64bMy4p87XGx7Mnn_2en_60NqUvrm1eLPdg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyUWN7B7OzwfmkDXp59CicrZOWjUdrWxYothq1o2Qv1jBm4H2doarRxdbxBGRfyXtPKBnzkIf0PK8mLgWZvcw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 <h3>Hack No. 2: Pie Charts on the WorkSlate</h3>
 <p>
@@ -590,7 +590,7 @@ I thought about graphing 51% to make the point, but eh, here's a quarter.
 <p>
 And here's a video. The Perl generator is <a href="https://github.com/classilla/workslate/tree/main/pie/piegen.pl">in Github</a>, with <a href="https://github.com/classilla/workslate/tree/main/pie/pie6.w">ready-to-assemble WSSC source</a> and <a href="https://github.com/classilla/workslate/tree/main/pie/pie6.ws">a ready-to-upload sheet</a> for radius "six" as displayed. We test 1%, 2%, 10%, 47%, 82%, 100%, 9999999999% and -3%.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwEcEcEkqRKXIxXcFi6q-36s6-v83cFMzBUaDBiO6-vW6XSHVNsLhVVn3d1_RCH8tgDv2-elchYVg6zFGiQTg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz9GQdvsw0LNnMdoe8JH48n-oeYSTMdkqse8_RcKBlyMRRnP9OX36OTZy1YIZjmlXya2DUHCVi7MPyr9AVwZg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 Every time the pie is recalculated, you'll notice that the progress indicator always starts at 138. That's because there are exactly 138 cells in the circle, which is its precise on-screen area after rounding:
 <p>
@@ -671,7 +671,7 @@ which will both compute out to the same dimensions and same memory usage. We're 
 <p>
 Now we press Do It again in the Terminal to signal the test program to send the second version, again after a delay, and press Special-Do It in A1 to receive it with <tt>SheetIn()</tt> this time. The receive completes successfully, A2 changes to the new string &mdash; <em>and the machine crashes.</em> In fact, it crashes so hard that <em>all data is lost!</em> This is such an explosive bug I just have to show you a video of it:
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxUHjPwYHEH9XMUCG15fPaN11sXh2Q7tlbuEMKCIho3WIaUpIWdEzYPoB3VnVzBQyVkf1TVWb-iBd_v4tNOxg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxBhZOjr1viQnmpsWzD6Iy9STMmnpZa8s4XfRxG41Q4K8sETOQR0IMy06DF819r9Ez4Vo32-dD-Lxtsj8xpig' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 To make sure this wasn't a hardware failure, I tried it on both my units, and they both crash in the same way.
 <p>

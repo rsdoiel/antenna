@@ -1,11 +1,361 @@
 ---
 title: socal north
-updated: 2024-09-04 13:41:17
+updated: 2024-09-05 09:37:22
 ---
 
 # socal north
 
-(date: 2024-09-04 13:41:17)
+(date: 2024-09-05 09:37:22)
+
+---
+
+## Non-Profits Invited to Take Part in Informational Meeting for Community Services and Arts Grant
+
+date: 2024-09-05, from: City of Santa Clarita
+
+<p>The City of Santa Clarita invites non-profit organizations interested in learning more about the 2025 grant cycle of the Community Services and Arts Grants Program to attend a webinar via Zoom on Thursday, September 19, 2024, at 10:00 a.m. The Community Services and Arts Grants Program will once again make funds available to non-profit organizations [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/05/non-profits-invited-to-take-part-in-informational-meeting-for-community-services-and-arts-grant-2/">Non-Profits Invited to Take Part in Informational Meeting for Community Services and Arts Grant</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/05/non-profits-invited-to-take-part-in-informational-meeting-for-community-services-and-arts-grant-2/>
+
+---
+
+## Late Goal Sinks CSUN in 1-0 Loss to UC Berkeley
+
+date: 2024-09-05, from: The Sundail (CSUN Student Newspaper)
+
+CSUN Men’s Soccer faced a tough challenge on Sunday night, falling 1-0 to the California Golden Bears despite dominating much of the game on offense. The Matadors, who led in... 
+
+<https://sundial.csun.edu/184317/sports/late-goal-sinks-csun-in-1-0-loss-to-uc-berkeley/>
+
+---
+
+## Another heatwave expected to scorch SoCal. We have tips on staying cool
+
+date: 2024-09-05, updated: 2024-09-05, from: The LAist
+
+Yesterday was hot. Today and tomorrow will be scorching. 
+
+<https://laist.com/news/climate-environment/la-weather-report-sept-5-excessive-heat-fire-weather-watch>
+
+---
+
+## Charter Amendment: LA City Ethics Commission reforms
+
+date: 2024-09-05, updated: 2024-09-05, from: The LAist
+
+Voters are being asked to consider a package of ethics reforms designed to fight corruption at City Hall. 
+
+<https://laist.com/news/politics/2024-election-california-general-ethics-commission-reforms>
+
+---
+
+## California Proposition 3: Protecting gay marriage
+
+date: 2024-09-05, updated: 2024-09-05, from: The LAist
+
+This proposition would remove stray language in the state constitution that defines marriage as being between a man and a woman. While that language is not legally enforceable anymore, removing it is seen as a proactive measure to make sure it cannot can’t spring back into effect. 
+
+<https://laist.com/news/politics/2024-election-california-general-proposition-3-marriage-fundamental-right>
+
+---
+
+## Charter Amendment DD: Create an Independent Redistricting Commission for the City of LA
+
+date: 2024-09-05, updated: 2024-09-05, from: The LAist
+
+If approved, Los Angeles residents would be responsible for determining council district boundaries. That task has been controlled by the council itself, so councilmembers drew their own districts — usually to keep themselves in power. 
+
+<https://laist.com/news/politics/2024-election-california-general-independent-redistricting-commission-la>
+
+---
+
+## Classifieds – September 5, 2024
+
+date: 2024-09-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/05/classifieds-september-5-2024/">Classifieds &#8211; September 5, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/05/classifieds-september-5-2024/>
+
+---
+
+## Olive Garden spirals me into a state of nostalgia
+
+date: 2024-09-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Never-Ending pasta bowls are back with a bang but not for long. </p>
+<p>The post <a href="https://dailytrojan.com/2024/09/05/olive-garden-spirals-me-into-a-state-of-nostalgia/">Olive Garden spirals me into a state of nostalgia</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/05/olive-garden-spirals-me-into-a-state-of-nostalgia/>
+
+---
+
+## USC Emergency Medicine Club event offers Narcan training, information on alcohol poisoning treatments
+
+date: 2024-09-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The event aimed to teach students how to respond to emergency situations at parties and featured free Narcan and an ambulance tour.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/05/usc-emergency-medicine-club-event-offers-narcan-training-information-on-alcohol-poisoning-treatments/">USC Emergency Medicine Club event offers Narcan training, information on alcohol poisoning treatments</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/05/usc-emergency-medicine-club-event-offers-narcan-training-information-on-alcohol-poisoning-treatments/>
+
+---
+
+## A sitdown with soccer Head Coach Jane Alukonis
+
+date: 2024-09-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Alukonis discussed USC’s upcoming season in a recent talk with the Daily Trojan.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/05/a-sitdown-with-soccer-head-coach-jane-alukonis/">A sitdown with soccer Head Coach Jane Alukonis</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/05/a-sitdown-with-soccer-head-coach-jane-alukonis/>
+
+---
+
+## Sea air in her lungs, ice in her veins
+
+date: 2024-09-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Dominique Petrie carved out an unlikely hockey destiny with a spirit of fearlessness.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/05/sea-air-in-her-lungs-ice-in-her-veins/">Sea air in her lungs, ice in her veins</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/05/sea-air-in-her-lungs-ice-in-her-veins/>
+
+---
+
+## Harris’ campaign needs to appeal to young men
+
+date: 2024-09-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Barstool conservatism’s rise has created a crucial divide in the upcoming election.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/05/harris-campaign-needs-to-appeal-to-young-men/">Harris’ campaign needs to appeal to young men</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/05/harris-campaign-needs-to-appeal-to-young-men/>
+
+---
+
+## Trojan Knights plan for Conquest Week amid camping rules
+
+date: 2024-09-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Members spoke on conflict and hopes for traditional campout.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/05/trojan-knights-plan-for-conquest-week-amid-camping-rules/">Trojan Knights plan for Conquest Week amid camping rules</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/05/trojan-knights-plan-for-conquest-week-amid-camping-rules/>
+
+---
+
+## Women’s volleyball looks to build on momentum
+
+date: 2024-09-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans are energized after two recent wins on the road against Pepperdine.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/05/womens-volleyball-looks-to-build-on-momentum/">Women’s volleyball looks to build on momentum</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/05/womens-volleyball-looks-to-build-on-momentum/>
+
+---
+
+## Work-study is an overlooked resource to find community
+
+date: 2024-09-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Many first-generation and low-income students can forge bonds at work-study.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/05/work-study-is-an-overlooked-resource-to-find-community/">Work-study is an overlooked resource to find community</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/05/work-study-is-an-overlooked-resource-to-find-community/>
+
+---
+
+## The biggest concerts to check out this fall
+
+date: 2024-09-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>From festivals to residencies, all can jam out across Los Angeles’ venues this season.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/05/the-biggest-concerts-to-check-out-this-fall/">The biggest concerts to check out this fall</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/05/the-biggest-concerts-to-check-out-this-fall/>
+
+---
+
+## Familiares de Pareja Que Murieron por Presunto Conductor Adolescente Imprudente Sin Licencia Lanzan Petición en Línea
+
+date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="802" height="433" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Screenshot-2024-09-04-at-10.06.00-PM.png?fit=802%2C433&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Screenshot-2024-09-04-at-10.06.00-PM.png?w=802&amp;ssl=1 802w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Screenshot-2024-09-04-at-10.06.00-PM.png?resize=300%2C162&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Screenshot-2024-09-04-at-10.06.00-PM.png?resize=768%2C415&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Screenshot-2024-09-04-at-10.06.00-PM.png?resize=800%2C433&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Screenshot-2024-09-04-at-10.06.00-PM.png?resize=400%2C216&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Screenshot-2024-09-04-at-10.06.00-PM.png?resize=706%2C381&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Screenshot-2024-09-04-at-10.06.00-PM.png?fit=802%2C433&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Casi 1,000 dolientes desbordaron las bancas de la Iglesia Cristiana Universitaria en Los Ángeles para un servicio conmemorativo el 17 de agosto para celebrar las vidas de Yadira y Marcos [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/04/familiares-de-pareja-que-murieron-por-presunto-conductor-adolescente-imprudente-sin-licencia-lanzan-peticion-en-linea/">Familiares de Pareja Que Murieron por Presunto Conductor Adolescente Imprudente Sin Licencia Lanzan Petición en Línea</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/04/familiares-de-pareja-que-murieron-por-presunto-conductor-adolescente-imprudente-sin-licencia-lanzan-peticion-en-linea/>
+
+---
+
+## Recientes Tiroteos Relacionados con Pandillas Causan Preocupación en la Ciudad de San Fernando
+
+date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los tiroteos relacionados con pandillas en la ciudad de San Fernando han sacudido la sensación de seguridad de los residentes. Mientras los dueños de negocios en el histórico centro comercial [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/04/recientes-tiroteos-relacionados-con-pandillas-causan-preocupacion-en-la-ciudad-de-san-fernando/">Recientes Tiroteos Relacionados con Pandillas Causan Preocupación en la Ciudad de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/04/recientes-tiroteos-relacionados-con-pandillas-causan-preocupacion-en-la-ciudad-de-san-fernando/>
+
+---
+
+## Horóscopo
+
+date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr)&#160; Esta semana, de alguna manera eres capaz de capturar la esencia del conflicto con el civismo. Esto da [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/04/horoscopo-179/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/04/horoscopo-179/>
+
+---
+
+## EVENTOS Locales – Semana de 5 de septiembre, 2024
+
+date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Sabado, Septiembre 7 Festival de Otoño &#8211; Una Noche en el Parque Johnny Carson Park 400 Bob Hope Dr. Burbank 4 p.m. – 8:30 p.m. ¡Únase a nosotros para la [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/04/eventos-locales-semana-de-5-de-septiembre-2024/">EVENTOS Locales &#8211; Semana de 5 de septiembre, 2024</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/04/eventos-locales-semana-de-5-de-septiembre-2024/>
+
+---
+
+## Vacunas COVID Actualizadas Disponibles a Medida que Aumentan las Infecciones en el Aumento del Verano
+
+date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=1568%2C2091&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Las infecciones por COVID-19 están aumentando en todo el país, y aunque hemos vuelto a nuestras rutinas, incluida la asistencia a grandes eventos, se recomienda tomar precauciones. Una defensa principal [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/04/vacunas-covid-actualizadas-disponibles-a-medida-que-aumentan-las-infecciones-en-el-aumento-del-verano/">Vacunas COVID Actualizadas Disponibles a Medida que Aumentan las Infecciones en el Aumento del Verano</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/04/vacunas-covid-actualizadas-disponibles-a-medida-que-aumentan-las-infecciones-en-el-aumento-del-verano/>
+
+---
+
+## El Senado de California Aprueba por Unanimidad una Histórica Ley Bipartidista para Eliminar las Sustancias Químicas Nocivas de las Bolsas y Tubos Intravenosos
+
+date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>&#160;Información facilitada por:&#160; Shayna Samuels&#160; Socios para la prevención del cáncer de mama Estableciendo por primera vez un estándar muy alto para la seguridad del paciente, el Senado de California [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/04/el-senado-de-california-aprueba-por-unanimidad-una-historica-ley-bipartidista-para-eliminar-las-sustancias-quimicas-nocivas-de-las-bolsas-y-tubos-intravenosos/">El Senado de California Aprueba por Unanimidad una Histórica Ley Bipartidista para Eliminar las Sustancias Químicas Nocivas de las Bolsas y Tubos Intravenosos </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/04/el-senado-de-california-aprueba-por-unanimidad-una-historica-ley-bipartidista-para-eliminar-las-sustancias-quimicas-nocivas-de-las-bolsas-y-tubos-intravenosos/>
+
+---
+
+## Cárdenas Asegura $850,000 para el Mid Valley YMCA en Van Nuys
+
+date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El Congresista Tony Cárdenas ha asegurado $850,000 en Fondos para Proyectos Comunitarios para el Mid Valley YMCA en Van Nuys para la renovación de sus instalaciones, incluyendo el Centro de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/04/cardenas-asegura-850000-para-el-mid-valley-ymca-en-van-nuys/">Cárdenas Asegura $850,000 para el Mid Valley YMCA en Van Nuys</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/04/cardenas-asegura-850000-para-el-mid-valley-ymca-en-van-nuys/>
+
+---
+
+## La Ciudad de Los Ángeles Obtiene 21.8 Millones de Dólares para Ayudar a las Familias Inmigrantes Recién Llegadas
+
+date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ÁNGELES (CNS) &#8211; El Departamento de Seguridad Nacional de los Estados Unidos proporcionará a Los Ángeles 21.8 millones de dólares para financiar servicios de apoyo, vivienda y otros recursos [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/04/la-ciudad-de-los-angeles-obtiene-21-8-millones-de-dolares-para-ayudar-a-las-familias-inmigrantes-recien-llegadas/">La Ciudad de Los Ángeles Obtiene 21.8 Millones de Dólares para Ayudar a las Familias Inmigrantes Recién Llegadas</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/04/la-ciudad-de-los-angeles-obtiene-21-8-millones-de-dolares-para-ayudar-a-las-familias-inmigrantes-recien-llegadas/>
+
+---
+
+## Se Abrirán Centros de Enfriamiento en Todo el Valle de San Fernando
+
+date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="600" height="500" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Cooling-Center_elsol.jpg?fit=600%2C500&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Cooling-Center_elsol.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Cooling-Center_elsol.jpg?resize=300%2C250&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Cooling-Center_elsol.jpg?resize=400%2C333&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Cooling-Center_elsol.jpg?fit=600%2C500&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A medida que las temperaturas abrasadoras continúan aumentando, habrá centros de enfriamiento disponibles en la ciudad de San Fernando para los residentes locales que necesiten una forma de combatir el [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/04/se-abriran-centros-de-enfriamiento-en-todo-el-valle-de-san-fernando/">Se Abrirán Centros de Enfriamiento en Todo el Valle de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/04/se-abriran-centros-de-enfriamiento-en-todo-el-valle-de-san-fernando/>
+
+---
+
+## La “Reina de la ketamina” de North Hollywood es Una de Las Acusadas por la Muerte de Mathew Perry
+
+date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Fred ShusterCity News Serice LOS ÁNGELES (CNS) &#8211; Mark Chávez, uno de los dos médicos acusados en relación con la muerte del actor de &#8220;Friends&#8221; Matthew Perry, acordó declararse [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/04/la-reina-de-la-ketamina-de-north-hollywood-es-una-de-las-acusadas-por-la-muerte-de-mathew-perry/">La &#8220;Reina de la ketamina&#8221; de North Hollywood es Una de Las Acusadas por la Muerte de Mathew Perry</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/04/la-reina-de-la-ketamina-de-north-hollywood-es-una-de-las-acusadas-por-la-muerte-de-mathew-perry/>
+
+---
+
+## Cartoon of the Month: September
+
+date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/09/04/cartoon-of-the-month-september/">Cartoon of the Month: September</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/04/cartoon-of-the-month-september/>
+
+---
+
+## Crimewatch: August 2024
+
+date: 2024-09-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sources: UCPD. Graphic reporting by Gabrielle Gillette, Assistant News Editor. Interactive by Liam McGlynn, Data Editor.
+UCPD recorded 596 unique entries in its August daily crime log. 
+
+<https://dailybruin.com/2024/09/04/crimewatch-august-2024/>
+
+---
+
+## UCLA men’s soccer looks to continue shutout streak in next home game
+
+date: 2024-09-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins have a chance to secure a fourth consecutive shutout Thursday.
+No. 6 UCLA men’s Soccer (2-0-1) will face Cal State Fullerton (1-3-0) in its fourth consecutive home game at Wallis Annenberg Stadium. 
+
+<https://dailybruin.com/2024/09/04/ucla-mens-soccer-looks-to-continue-shutout-streak-in-next-home-game/>
+
+---
+
+## Job killer or neighborhood protector? Proposed warehouse rules divide Inland Empire
+
+date: 2024-09-04, updated: 2024-09-05, from: The LAist
+
+Supporters say a bill would shield neighborhoods from traffic and deliver cleaner air. But business groups warn it could threaten jobs in a booming industry. 
+
+<https://laist.com/news/climate-environment/job-killer-or-neighborhood-protector-proposed-warehouse-rules-divide-inland-empire>
 
 ---
 
@@ -44,7 +394,7 @@ date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
 
 ## Looking to beat the heat? Avoid these LA County beaches
 
-date: 2024-09-04, updated: 2024-09-04, from: The LAist
+date: 2024-09-04, updated: 2024-09-05, from: The LAist
 
 The bacteria levels in the water once again exceed state health standards for beaches across San Pedro, Santa Monica and Malibu. 
 

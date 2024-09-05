@@ -1,11 +1,111 @@
 ---
 title: games
-updated: 2024-09-04 13:41:22
+updated: 2024-09-05 09:37:28
 ---
 
 # games
 
-(date: 2024-09-04 13:41:22)
+(date: 2024-09-05 09:37:28)
+
+---
+
+## When is the Black Ops 6 open beta start time?
+
+date: 2024-09-05, updated: 2024-09-05, from: Polygon Website
+
+The Black Ops 6 beta runs over two weekends in August and Sept., including an open beta for all players. Unlike previous Call of Duty games, the early access beta period is available to all platforms, and not just PlayStation owners. Then, for those without a beta code, the second weekend will see access fully [&#8230;] 
+
+<https://www.polygon.com/black-ops-6-guides/445111/beta-times-dates-code-early-access>
+
+---
+
+## The Rings of Power episode 4 finds some footing amid its trust issues
+
+date: 2024-09-05, updated: 2024-09-04, from: Polygon Website
+
+Trust is a big deal, especially in Middle-earth. That’s the key takeaway directors Louise Hooper and Sanaa Hamri and writer Glenise Mullins are keen to impart with The Lord of the Rings: The Rings of Power’s latest episode. It’s a simple yet effective throughline that yields the second season’s most focused (and satisfying) entry yet. [&#8230;] 
+
+<https://www.polygon.com/lotr-rings-of-power/447801/trop-episode-4-review-bombadil-tolkien-lore>
+
+---
+
+## Daggerheart, a new Critical Role game, feels more complicated than D&#038;D in a good way
+
+date: 2024-09-05, updated: 2024-09-05, from: Polygon Website
+
+Daggerheart, the new tabletop role-playing game from Critical Role’s Darrington Press imprint, entered open beta earlier this year with a bountiful playtest packet that’s free for anyone to download and play at home. While early reports were mixed, I’m pleased to say that I was delighted by my recent experience with the game — but [&#8230;] 
+
+<https://www.polygon.com/preview/447660/daggerheart-critical-role-gameplay-vs-dnd>
+
+---
+
+## Balatro is coming to mobile in September
+
+date: 2024-09-05, updated: 2024-09-05, from: Polygon Website
+
+Weird poker-meets-roguelite game Balatro is finally coming to mobile, developer LocalThunk announced Thursday. Balatro was released on Feb. 20 on Microsoft Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X — but it’s always felt like the perfect game to play on your phone. You’ll be able to play Balatro if [&#8230;] 
+
+<https://www.polygon.com/news/448334/balatro-mobile-release-date-apple-arcade>
+
+---
+
+## Not sure what movie to watch? Leave a comment, we’ll help
+
+date: 2024-09-05, updated: 2024-09-04, from: Polygon Website
+
+We love movie recommendations here at Polygon. Whether it’s horror, sci-fi, action, comedy, thrillers, or just the best of the year, we’re always trying to introduce readers to new and exciting movies they’ll love. But now we want to find the perfect movie for you. (That’s you.) That’s why we have this regular open thread [&#8230;] 
+
+<https://www.polygon.com/movies/447539/best-movies-watch-tonight-best-recommendations-streaming>
+
+---
+
+## Beloved board game Catan is getting a novel&#8230; well, another novel
+
+date: 2024-09-05, updated: 2024-09-05, from: Polygon Website
+
+Catan, the iconic European-style board game that helped jumpstart a Renaissance in tabletop game design, is getting a novelization. Well… another novelization. The first one, published circa 2005, hasn’t aged particularly well, for reasons that we’ll discuss below. But the best part of this new effort isn’t that the last one might soon get memory-holed. [&#8230;] 
+
+<https://www.polygon.com/tabletop-games/448103/catan-board-game-novel>
+
+---
+
+## The Twenty-Sided Tavern invites special guests to join the party
+
+date: 2024-09-05, updated: 2024-09-04, from: Polygon Website
+
+Three special guest players are gearing up to join The Twenty-Sided Tavern over the next few months.&#160; From Sept. 19 to 24, The Guild and Dr. Horrible’s Sing-Along Blog’s Felicia Day will be a guest player. Dimension 20 and Critical Role’s Aabria Iyengar joins from Sept. 26 to Oct. 7, and Erika Ishii (Dropout TV [&#8230;] 
+
+<https://www.polygon.com/dnd-dungeons-dragons/447973/twenty-sided-tavern-special-guests>
+
+---
+
+## The new season of Arcane looks like it’s gonna break my heart
+
+date: 2024-09-05, updated: 2024-09-05, from: Polygon Website
+
+Arcane season 2 has a new trailer out and, well, it looks like things in Piltover and Zaun are only getting worse and turning into an all-out war.  Now, I know that Jinx and Vi are basically doomed by the narrative to never reconcile — and to always be at each other’s throats — but [&#8230;] 
+
+<https://www.polygon.com/animation-cartoons/448293/arcane-season-2-trailer-netflix-release-date>
+
+---
+
+## How to get the Doom skin in Fortnite Chapter 5 Season 4
+
+date: 2024-09-05, updated: 2024-09-05, from: Polygon Website
+
+Doom, notorious Marvel supervillain and apparent paragon of vanity, is a special skin in Fortnite’s Marvel-themed Chapter 5 Season 4. Though technically one of the season’s battle pass skins, as with the likes Geralt of Rivia, Solid Snake, and Indiana Jones from seasons past, the Doctor Doom skin is not unlocked through standard progression, and [&#8230;] 
+
+<https://www.polygon.com/fortnite-guide/440881/doctor-doom-release-date-skin>
+
+---
+
+## Rings of Power episode 4 shows that however nerdy you think J.R.R. Tolkien was, he was nerdier
+
+date: 2024-09-05, updated: 2024-09-05, from: Polygon Website
+
+This week, The Lord of the Rings: The Rings of Power expanded significantly on its depiction of ancient halflings, and in doing so gave me a great gift.&#160; By introducing the concept of Sûza-t, The Rings of Power let me look my co-workers straight in the (video call) eyes and explain that the heroes of [&#8230;] 
+
+<https://www.polygon.com/lotr-rings-of-power/447883/trop-suza-t-tolkien-lotr-stoor-what-is>
 
 ---
 

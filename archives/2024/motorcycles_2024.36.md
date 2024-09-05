@@ -1,11 +1,81 @@
 ---
 title: motorcycles
-updated: 2024-09-04 13:41:25
+updated: 2024-09-05 09:37:31
 ---
 
 # motorcycles
 
-(date: 2024-09-04 13:41:25)
+(date: 2024-09-05 09:37:31)
+
+---
+
+## Kawasaki Patented a Truck-Launched UAV, What's It Planning?
+
+date: 2024-09-05, from: Ride Apart, Electric Motorcycle News
+
+Seems like a Skynet type of thing, Kawasaki... 
+
+<https://www.rideapart.com/news/732581/kawasaki-unmanned-truck-launched-uav/>
+
+---
+
+## What's a Ducati Superbike-Swapped Honda Grom Like To Ride, Anyway?
+
+date: 2024-09-05, from: Ride Apart, Electric Motorcycle News
+
+You're going to need a bigger pocket to fit this 1199cc minimaximoto. 
+
+<https://www.rideapart.com/news/732590/ducati-panigale-grom-first-ride/>
+
+---
+
+## Bajaj Is Working On Even More CNG-Powered Motorcycles, Aims to Disrupt EVs
+
+date: 2024-09-05, from: Ride Apart, Electric Motorcycle News
+
+Bajaj hopes to sell more than 40,000 CNG bikes per month before the end of the year.  
+
+<https://www.rideapart.com/news/732248/bajaj-more-cng-bikes-coming-soon/>
+
+---
+
+## Cops Pull Over Rider In Michigan, Then Find Gun and a Tiny Dog
+
+date: 2024-09-05, from: Ride Apart, Electric Motorcycle News
+
+The dog, a chihuahua, was reportedly tucked inside the guy's jacket. 
+
+<https://www.rideapart.com/news/732583/dog-gun-rider-michigan-policestop/>
+
+---
+
+## The Macbor Montana XR5 Is an Entry-Level Adventurer, But It Has An Identity Crisis
+
+date: 2024-09-05, from: Ride Apart, Electric Motorcycle News
+
+It’s the brand’s take on a capable entry-level adventure bike.  
+
+<https://www.rideapart.com/news/732423/macbor-montana-xr5-adventure-bike/>
+
+---
+
+## This Town Wants to Ban Motorcycle Rides With Your Friends, Unless You Get a Permit
+
+date: 2024-09-05, from: Ride Apart, Electric Motorcycle News
+
+Go alone or get fined.  
+
+<https://www.rideapart.com/news/732571/uk-town-bans-motorcycle-rides-two-or-more-riders/>
+
+---
+
+## Kawasaki’s 2025 Brute Force 450 Is Here, Muscle Your Way Through The Trails
+
+date: 2024-09-05, from: Ride Apart, Electric Motorcycle News
+
+It’s designed for maximum versatility for both work and play.  
+
+<https://www.rideapart.com/news/732436/new-kawasaki-brute-force-450-2025/>
 
 ---
 

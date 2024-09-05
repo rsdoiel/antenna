@@ -1,11 +1,241 @@
 ---
 title: going electric
-updated: 2024-09-04 13:41:27
+updated: 2024-09-05 09:37:33
 ---
 
 # going electric
 
-(date: 2024-09-04 13:41:27)
+(date: 2024-09-05 09:37:33)
+
+---
+
+## I sold all my Tesla shares (TSLA), here’s why
+
+date: 2024-09-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/03/img_1665-e1457955946161.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I fully divested from Tesla (TSLA), selling all my shares. I’m going to try to explain why. At Electrek, we like to be clear about our biases rather than claim we have none.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="378409" href="https://electrek.co/2024/09/05/i-sold-all-my-tesla-shares-tsla-why/#more-378409" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/05/i-sold-all-my-tesla-shares-tsla-why/>
+
+---
+
+## Ford F-150 Lightning sales surged 160% in August, but gas cars still dominate the total
+
+date: 2024-09-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/lease-Ford-Lightning-Maverick-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford announced Thursday that <a href="https://electrek.co/guides/ford-f-150-lightning/">F-150 Lightning</a> sales climbed 160% in August. Despite the surge, Ford’s gas-powered cars and trucks still accounted for 86% of sales last month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-f-150-lightning" data-layer-viewtype="unknown" data-post-id="378596" href="https://electrek.co/2024/09/05/ford-lightning-sales-surged-160-august-but-gas-cars-dominate/#more-378596" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/05/ford-lightning-sales-surged-160-august-but-gas-cars-dominate/>
+
+---
+
+## Honda Is Crushing It Right Now
+
+date: 2024-09-05, from: Inside EVs News
+
+Strong sales of hybrids, the all-electric Prologue and its SUV lineup led Honda to record sales in August. 
+
+<https://insideevs.com/news/732686/honda-august-sales-2024/>
+
+---
+
+## Volvo EX30 Made In Belgium May Still Be Affordable. Here’s Why
+
+date: 2024-09-05, from: Inside EVs News
+
+Despite moving some production away from China, affordability is still in sight for the EX30, CEO Jim Rowan indicated. 
+
+<https://insideevs.com/news/732595/volvo-ex30-made-in-belgium-may-still-be-affordable/>
+
+---
+
+## Volvo confirms new EX60 mid-size electric SUV will spearhead its next-gen EV tech strategy
+
+date: 2024-09-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Volvo-EX60-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new electric <a href="https://electrek.co/guides/volvo/">Volvo</a> mid-size SUV is slated to arrive in 2026. Volvo confirmed the new EX60 SUV would be one of five new EVs joining the Swedish brand’s lineup. It will be the first EV built on its new tech-based platform, called SPA3.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo" data-layer-viewtype="unknown" data-post-id="378559" href="https://electrek.co/2024/09/05/volvo-confirms-new-ex60-mid-size-electric-suv-launch-date/#more-378559" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/05/volvo-confirms-new-ex60-mid-size-electric-suv-launch-date/>
+
+---
+
+## Volkswagen Chief Warns Brand Has "One, Maybe Two" Years To Get It Together
+
+date: 2024-09-05, from: Inside EVs News
+
+Plus, BYD pushes pause on Mexico and more Ultium workers join the UAW. 
+
+<https://insideevs.com/news/732528/vw-warns-get-it-together/>
+
+---
+
+## NIO beats Wall Street’s expectations in Q2 earnings and reports record-high EV deliveries
+
+date: 2024-09-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/NIO-Q2-2024.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>NIO has shared its unaudited Q2 financial results for 2024, which detailed record-high EV deliveries that helped the automaker snag an even larger portion of the overall market in China. <a href="https://electrek.co/guides/nio/">NIO</a> also surpassed the expectations of financial gurus on Wall Street with its quarterly earnings.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nio" data-layer-viewtype="unknown" data-post-id="378546" href="https://electrek.co/2024/09/05/nio-beats-expectations-q2-earnings-reports-record-high-ev-deliveries/#more-378546" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/05/nio-beats-expectations-q2-earnings-reports-record-high-ev-deliveries/>
+
+---
+
+## Tesla reveals AI product/self-driving roadmap, and it raises questions
+
+date: 2024-09-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has revealed its AI product/self-driving roadmap for the next few months, but it raises more questions than it answers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="378545" href="https://electrek.co/2024/09/05/tesla-reveals-ai-product-self-driving-roadmap/#more-378545" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/05/tesla-reveals-ai-product-self-driving-roadmap/>
+
+---
+
+## Wheel-E Podcast: New e-bike from Radio Flyers, Talaria MX5 Sting Pro, more
+
+date: 2024-09-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time that includes new e-bike launches from Radio Flyer and Fucare, Denver’s popular e-bike subsidies, Australia Post using new electric motorbikes for mail delivery, Talaria Sting Pro MX5 launch, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="378534" href="https://electrek.co/2024/09/05/wheel-e-podcast-new-e-bike-from-radio-flyers-talaria-mx5-sting-pro-more/#more-378534" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/05/wheel-e-podcast-new-e-bike-from-radio-flyers-talaria-mx5-sting-pro-more/>
+
+---
+
+## Here's What Mazda's New EV Will Be Called
+
+date: 2024-09-05, from: Inside EVs News
+
+A new trademark filing, along with some previous hints from a Mazda executive, may have revealed what its next EV will be called. 
+
+<https://insideevs.com/news/732538/mazda-cx-6e-trademark-filing/>
+
+---
+
+## Volvo EX60, ES90 Will Be Among Five New EVs Built On Next-Gen Platforms
+
+date: 2024-09-05, from: Inside EVs News
+
+Volvo claims its the only European car company to have successfully harnessed “core compute” technology. 
+
+<https://insideevs.com/news/732660/volvo-ex60-es90-among-five-volvo-evs/>
+
+---
+
+## 2019 Jaguar I-Pace Recalled For The Fifth Time Over Battery Fire Risk
+
+date: 2024-09-05, from: Inside EVs News
+
+This time, a new software update will limit the state of charge to 80%. A permanent fix still hasn’t been found, though. 
+
+<https://insideevs.com/news/732648/2019-jaguar-i-pace-battery-fire-recall-state-of-charge-limit/>
+
+---
+
+## The Renault R17 Electric Restomod Is A Gorgeous Reinterpretation Of A 1970s Classic
+
+date: 2024-09-05, from: Inside EVs News
+
+It’s wider, more powerful and has a tastefully recreated digital dash. Oh, and it’s also electric. 
+
+<https://insideevs.com/news/732636/renault-r17-electric-restomod/>
+
+---
+
+## The Affordable Kia EV3 Is Already Selling Well
+
+date: 2024-09-05, from: Inside EVs News
+
+In the first full month of sales in its home country, the EV3 was close to its more popular gas-powered siblings. 
+
+<https://insideevs.com/news/732615/kia-ev3-sales-first-month-korea/>
+
+---
+
+## EVs Have The Lowest Fuel And Maintenance Costs, But Depreciation Sucks: AAA
+
+date: 2024-09-05, from: Inside EVs News
+
+Add full-coverage insurance for a year and you’re looking at similar costs as hybrids or even gas cars. But there’s a twist. 
+
+<https://insideevs.com/news/732505/ev-ownership-costs-aaa-study/>
+
+---
+
+## Record-setting EV sales, new 2025 Volvo XC90, and that Tesla may send you to jail
+
+date: 2024-09-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/record-sales.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.youtube.com/@ElectrekDaily"></a></p>
+
+
+
+<p>On today’s thrilling episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, Kia posts an all-time sales record driven by EVs, we find you some great, 0% financing deals, there’s a brand-new Volvo XC90 for 2025, and we explain why the Oakland police might be towing your Tesla.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford-e-transit,quick-charge,tesla,volvo-cars" data-layer-viewtype="unknown" data-post-id="378523" href="https://electrek.co/2024/09/04/record-setting-ev-sales-new-2025-volvo-xc90-and-that-tesla-may-send-you-to-jail/#more-378523" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/04/record-setting-ev-sales-new-2025-volvo-xc90-and-that-tesla-may-send-you-to-jail/>
+
+---
+
+## Honda’s Prologue EV just had its best US sales month ever as nationwide rollout heats up
+
+date: 2024-09-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Honda-Prologue-record-sales-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Honda’s first electric SUV in the US had its best sales month ever in August. The <a href="https://electrek.co/guides/honda-prologue/">Honda Prologue EV</a> set a new US sales record as it rolls out to dealers nationwide.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda,honda-prologue" data-layer-viewtype="unknown" data-post-id="378487" href="https://electrek.co/2024/09/04/honda-prologue-ev-record-sales-us-rollout-heats-up/#more-378487" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/04/honda-prologue-ev-record-sales-us-rollout-heats-up/>
+
+---
+
+## China's BYD Was The Third-Best-Selling Brand In The World This July
+
+date: 2024-09-04, from: Inside EVs News
+
+BYD outsold everyone except Volkswagen and Toyota in July. 
+
+<https://insideevs.com/news/732578/byd-sales-july-2024-third-place/>
+
+---
+
+## US solar and wind growth defies expectations – a decade in numbers
+
+date: 2024-09-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Gemini-solar-battery-storage.webp?w=1600" /></div><p>The latest US EIA and FERC data reflect a decade of explosive solar and wind growth – here’s how it breaks down.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="378479" href="https://electrek.co/2024/09/04/us-solar-wind-growth-decade-in-numbers/#more-378479" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/04/us-solar-wind-growth-decade-in-numbers/>
 
 ---
 
@@ -47,7 +277,7 @@ date: 2024-09-04, from: Electrek Feed
 
 ---
 
-## A Chinese EV Was Driven Until It Died. The Results Are Impressive
+## Chinese EV With 'Semi-Solid-State' Battery Goes 554 Miles In Range Test
 
 date: 2024-09-04, from: Inside EVs News
 

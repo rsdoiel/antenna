@@ -1,11 +1,54 @@
 ---
 title: libraries
-updated: 2024-09-04 13:41:23
+updated: 2024-09-05 09:37:29
 ---
 
 # libraries
 
-(date: 2024-09-04 13:41:23)
+(date: 2024-09-05 09:37:29)
+
+---
+
+## Art as a Vehicle and Jerzy Grotowski’s Investigations Beyond the 20th Century
+
+date: 2024-09-05, from: SciELO in Perspective
+
+<p>Dossier on director Jerzy Grotowski highlights the relevance of his theatrical practices and cross-cultural approaches, featuring articles that revisit his legacy to propose new perspectives for contemporary theatrical art. Available in Portuguese only. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://humanas.blog.scielo.org/blog/2024/09/05/arte-como-veiculo-e-as-investigacoes-de-jerzy-grotowski-para-alem-do-seculo-xx/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://humanas.blog.scielo.org/blog/2024/09/05/arte-como-veiculo-e-as-investigacoes-de-jerzy-grotowski-para-alem-do-seculo-xx/#new_tab">Art as a Vehicle and Jerzy Grotowski’s Investigations Beyond the 20th Century</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://humanas.blog.scielo.org/blog/2024/09/05/arte-como-veiculo-e-as-investigacoes-de-jerzy-grotowski-para-alem-do-seculo-xx/#new_tab>
+
+---
+
+## Guest Post: College Closures and the Implications for Libraries and Vendors
+
+date: 2024-09-05, from: Scholarly Kitchen
+
+<p>College closures are increasing across the U.S, and the impacts on libraries, publishers, vendors, and library consortia are intensifying.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/09/05/college-closures/">Guest Post: College Closures and the Implications for Libraries and Vendors</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/09/05/college-closures/>
+
+---
+
+## Warum Biodiversität wichtig ist und welche Rolle sie bei der Klimaregulierung spielt
+
+date: 2024-09-05, from: ETH Zurich, recently added
+
+Cadelli, Elisa; Brun, Philipp; Castro Izaguirre, Nadia Cristina; Dugan, Sibel; Karger, Dirk Nikolaus; Zimmermann, Niklaus E. 
+
+<http://hdl.handle.net/20.500.11850/692462>
+
+---
+
+## The Getting of Wisdom, by Henry Handel Richardson
+
+date: 2024-09-04, from: Standard Ebooks, new releaases
+
+A girl from rural Victoria is sent to a prestigious boarding school in Melbourne, where she grows in prejudice and deceitfulness. 
+
+<https://standardebooks.org/ebooks/henry-handel-richardson/the-getting-of-wisdom>
 
 ---
 
@@ -214,4 +257,14 @@ date: 2024-09-01, from: ETH Zurich, recently added
 Schöni, Lorin; Carles, Victor; Strohmeier, Martin; Mayer, Peter; Zimmermann, Verena 
 
 <http://hdl.handle.net/20.500.11850/689291>
+
+---
+
+## Structural Testing Campaign for a 30 m Tall 3D Printed Concrete Tower
+
+date: 2024-09-01, from: ETH Zurich, recently added
+
+Soto, Alejandro Giraldo; Gebhard, Lukas; Anton, Ana; Dillenburger, Benjamin; Kaufmann, Walter 
+
+<http://hdl.handle.net/20.500.11850/692532>
 

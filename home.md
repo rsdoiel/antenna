@@ -1,11 +1,116 @@
 ---
 title: home
-updated: 2024-09-04 13:41:24
+updated: 2024-09-05 09:37:29
 ---
 
 # home
 
-(date: 2024-09-04 13:41:24)
+(date: 2024-09-05 09:37:29)
+
+---
+
+## A Yellow Floor-to-Ceiling Library Wall Brightens Up This SoHo Loft
+
+date: 2024-09-05, from: Dwell
+
+Beyond providing storage for the 850-square-foot apartment, the cheery feature conceals the entrance hall, bathroom, bedroom and sleeping mezzanine. 
+
+<https://www.dwell.com/article/a-yellow-floor-to-ceiling-library-wall-brightens-up-this-soho-loft-161c1470>
+
+---
+
+## Here’s Why Your Storm Door Closer Has Two Screw Holes
+
+date: 2024-09-05, from: Family Handyman Blog
+
+Make a simple adjustment when you lower the glass panel for the winter or raise it for summer. Adjust your screen door closer.  
+
+<https://www.familyhandyman.com/article/storm-door-closer-screw-holes/>
+
+---
+
+## How to Grow ‘Polish Red’ Garlic
+
+date: 2024-09-05, from: The Gardener's Path
+
+<p>‘Polish Red’ has all the wonderful flavor we love about garlic without the sulfurous bite. The large cloves of this softneck artichoke type are full of garlic goodness, but they won't burn your sinuses when you take a bite. Interested in growing your own? Learn how to plant and grow ‘Polish Red’ garlic in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/grow-polish-red-garlic/">How to Grow ‘Polish Red’ Garlic</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/herbs/grow-polish-red-garlic/>
+
+---
+
+## How To Handle Efflorescence on Brick Chimneys
+
+date: 2024-09-05, from: Family Handyman Blog
+
+Efflorescence, a powdery white substance on bricks, can indicate a serious problem with chimneys. This article covers the possible causes of the problem and the steps you need to take to fix it. If you have this problem, don't let it go or it could lead to brick and mortar deterioration.  
+
+<https://www.familyhandyman.com/article/efflorescence-on-brick-chimneys/>
+
+---
+
+## Who Built It Better? Find Out on At Home with Family Handyman
+
+date: 2024-09-05, from: Family Handyman Blog
+
+In this DIY competition series, home projects go head-to-head to settle once and for all, “Who Built It Better?” 
+
+<https://www.familyhandyman.com/article/who-built-it-better-streaming-at-home-with-family-handyman/>
+
+---
+
+## 10 Tips for Framing a Garage
+
+date: 2024-09-05, from: Family Handyman Blog
+
+If you're planning to build a garage, it's essential that you get the framing done right. Here are a few tips that will help. 
+
+<https://www.familyhandyman.com/list/tips-for-framing-a-garage/>
+
+---
+
+## Why Is Car Insurance So High Now?
+
+date: 2024-09-05, from: Family Handyman Blog
+
+We're all paying more for car insurance these days. Here's why, plus how to try to get those rates down. 
+
+<https://www.familyhandyman.com/article/why-is-car-insurance-so-high/>
+
+---
+
+## 35 Types of Marigolds (Marigold Varieties with Pictures)
+
+date: 2024-09-05, from: Yard Life blog
+
+<p>When exploring the diverse world of garden flowers, types of marigolds stand out for their vibrant colors and versatile forms. ... </p>
+<p class="read-more-container"><a title="35 Types of Marigolds (Marigold Varieties with Pictures)" class="read-more button" href="https://ownyardlife.com/35-types-of-marigolds-marigold-varieties-with-pictures/#more-18931" aria-label="Read more about 35 Types of Marigolds (Marigold Varieties with Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/35-types-of-marigolds-marigold-varieties-with-pictures/">35 Types of Marigolds (Marigold Varieties with Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/35-types-of-marigolds-marigold-varieties-with-pictures/>
+
+---
+
+## How To Build Bar Shelves
+
+date: 2024-09-04, from: Family Handyman Blog
+
+<p>Looking to add storage and style to your home bar? This project on building wood bar shelves with a tipping rail has you covered.</p> 
+
+<https://www.familyhandyman.com/project/bar-shelves/>
+
+---
+
+## Governor Newsom adapts state’s drought response to changing conditions, continues action to support recovery and build resilience
+
+date: 2024-09-04, from: Calfifornia Dept. Aggriculture blog
+
+News Release from Governor Newsom&#8217;s Office What you need to know:&#160;The Governor today ended the drought state of emergency in 19 counties where conditions have improved significantly, maintaining it in the remaining 39 counties to address continued impacts to local &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28140">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28140>
 
 ---
 
@@ -40,6 +145,16 @@ Moody florals meet custom millwork and gleaming brass in this Pacific Northwest 
 
 ---
 
+## The Real Reason Hotels Are Ditching Travel-Sized Toiletries
+
+date: 2024-09-04, from: Sunset Magazine - Living in the West
+
+Have you noticed your hotel amenities don't come in travel sizes anymore? There's a reason for that that will change your guest experience. 
+
+<https://www.sunset.com/travel/hotels/hotel-rooms-sustainable-toiletries>
+
+---
+
 ## Detector Dogs — CDFA joins county Ag Commissioners, USDA, and congressional staff members for parcel facility tour to see dogs in action
 
 date: 2024-09-04, from: Calfifornia Dept. Aggriculture blog
@@ -47,6 +162,16 @@ date: 2024-09-04, from: Calfifornia Dept. Aggriculture blog
 CDFA joined USDA officials and congressional staff members last week to watch a detector dog in action at a FedEx facility in Orange County, on a tour organized by the California Agriculture Commissioners and Sealers Association (CACASA). “California operates an &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28123">Continue reading <span class="meta-nav">&#8594;</span></a> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28123>
+
+---
+
+## 10 Things to Do in Your Garden Before You Put Your House on the Market
+
+date: 2024-09-04, from: Sunset Magazine - Living in the West
+
+Prepping to sell your house means fixing up the inside and outside. Don't forget these garden tasks before you put your house on the market. 
+
+<https://www.sunset.com/home-garden/landscaping/landscape-garden-tasks-before-selling-house>
 
 ---
 
@@ -203,6 +328,16 @@ Preserved historical details, like an old bell tower, meet contemporary updates,
 
 ---
 
+## In the Suburbs of Montreal, a Waterfront Home Hits the Market for $4M
+
+date: 2024-09-03, from: Dwell
+
+Bright, airy rooms open out to stunning water views in this Beaconsfield residence. 
+
+<https://www.dwell.com/article/sothebys-international-water-views-quebec-real-estate-abe3146a>
+
+---
+
 ## For $3.2M, You Can Live in an Olson Kundig Apartment in Pike Place Market
 
 date: 2024-09-03, from: Dwell
@@ -210,6 +345,16 @@ date: 2024-09-03, from: Dwell
 This Seattle home is as stunning as the sights it surrounds. 
 
 <https://www.dwell.com/article/sothebys-international-olson-kundig-seattle-real-estate-cd333039>
+
+---
+
+## Outdoor Enthusiasts Will Love This $6.9M Big Sky Residence
+
+date: 2024-09-03, from: Dwell
+
+The scenic home is built for entertaining and lounging alike with a wraparound deck with grill and fireplace. 
+
+<https://www.dwell.com/article/sothebys-international-spanish-peaks-mountain-club-big-sky-real-estate-d297b44c>
 
 ---
 

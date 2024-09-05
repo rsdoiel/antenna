@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2024-09-04 13:41:19
+updated: 2024-09-05 09:37:24
 ---
 
 # ham radio
 
-(date: 2024-09-04 13:41:19)
+(date: 2024-09-05 09:37:24)
+
+---
+
+## Fuse failures
+
+date: 2024-09-05, from: EDN Blog
+
+<img width="408" height="601" src="https://www.edn.com/wp-content/uploads/Fuse-Failure-1.png?fit=408%2C601" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fuse-Failure-1.png?w=408 408w, https://www.edn.com/wp-content/uploads/Fuse-Failure-1.png?w=204 204w" sizes="(max-width: 408px) 100vw, 408px" /><p>A look at moderate to massive fuse failures, where massive failures reveal issues with the system's design.   </p>
+<p>The post <a href="https://www.edn.com/fuse-failures/" data-wpel-link="internal">Fuse failures</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/fuse-failures/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2024-09-04 13:41:19
 
 date: 2024-09-04, from: EDN Blog
 
-<img width="669" height="404" src="https://www.edn.com/wp-content/uploads/PWMSatErr_Figure1.png?fit=669%2C404" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PWMSatErr_Figure1.png?w=669 669w, https://www.edn.com/wp-content/uploads/PWMSatErr_Figure1.png?w=300 300w" sizes="(max-width: 669px) 100vw, 669px" /><p>A design idea that uses  brute force to mitigate of PWM Vdd and ground voltage deviations to improve PWM performance.</p>
+<img width="669" height="404" src="https://www.edn.com/wp-content/uploads/PWMSatErr_Figure1.png?fit=669%2C404" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/PWMSatErr_Figure1.png?w=669 669w, https://www.edn.com/wp-content/uploads/PWMSatErr_Figure1.png?w=300 300w" sizes="(max-width: 669px) 100vw, 669px" /><p>A design idea that uses  brute force to mitigate of PWM Vdd and ground voltage deviations to improve PWM performance.</p>
 <p>The post <a href="https://www.edn.com/brute-force-mitigation-of-pwm-vdd-and-ground-saturation-errors/" data-wpel-link="internal">Brute force mitigation of PWM Vdd and ground “saturation” errors</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

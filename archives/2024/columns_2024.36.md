@@ -1,11 +1,173 @@
 ---
 title: columns
-updated: 2024-09-04 13:41:20
+updated: 2024-09-05 09:37:26
 ---
 
 # columns
 
-(date: 2024-09-04 13:41:20)
+(date: 2024-09-05 09:37:26)
+
+---
+
+##  I Never Expected To Run For Office — Here&#8217;s What I Learned.... 
+
+date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045229-i-never-expected-to-run>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-05, from: Dave Winer's Scripting News)
+
+I've never written a review on Amazon even though I shop there regularly. I was about to write a negative review for a product they can't seem to support, that I depend on, but got <a href="https://imgs.scripting.com/2024/09/05/amazonReviewPage.png">this message</a>. Weird. I bought the product from the page I wanted to review it on. How else would they determine if I actually purchased the product? They don't say. They do offer to tell me a joke if I rate products I've bought. I've heard the company isn't doing that well now that Bezos has stepped aside. Hopefully this is just a bad set of coincidences. 
+
+<http://scripting.com/2024/09/05.html#a162459>
+
+---
+
+##  Lane 8 Season Mixtapes 
+
+date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/lane-8-season-mixtapes>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-05, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/12/01/santa.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I got a bit of pushback on what I wrote about The Newsroom <a href="http://scripting.com/2024/09/04.html#a153237">yesterday</a>. If you think it was great, you should watch it again. They got everything wrong, imho -- and the storytelling is as simple as <a href="http://scripting.com/stories/2011/01/01/theWorldIsSocialist.html">Atlas Shrugged</a>. If you loved it in 2012, okay -- but we've all been through hell since then. And we know how the news orgs The Newsroom was trying to model dealt with the challenge. They folded. They gave up. It's all bullshit. It's like watching the story of a great war, that we lost. I don't mean bloggers, I mean all of it. If democracy depends on journalism, then it's gone. It can't come back from what they're doing now. Think of the hair-splitting they did in The Newsroom, even the slightest appearance of impropriety. Now they invite politicians on when they know they're going to tell hugely damaging lies about very important things. They're doing the opposite of what journalism is supposed to do. They sure as hell don't care what we think of them. Go watch it again. It's a time capsule that will show you how much you've learned since those horribly naive days. Maybe I'll write more about this tomorrow. 
+
+<http://scripting.com/2024/09/05.html#a154056>
+
+---
+
+##  100 tiny tricks for sorting out your life. I did this one... 
+
+date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045221-100-tiny-tricks-for-sorti>
+
+---
+
+## September 4, 2024
+
+date: 2024-09-05, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-4-2024-390>
+
+---
+
+## Revisiting the Elm City project
+
+date: 2024-09-05, from: Jonudell blog
+
+&#8220;Communities that want to build comprehensive public calendars will be able to do so using a hybrid approach that blends existing iCalendar feeds with feeds synthesized from web calendars. It’s not a perfect solution, but with LLM assistance it’s a workable one. And who knows, maybe if people see what’s possible when information silos converge, &#8230; <a href="https://blog.jonudell.net/2024/09/05/revisiting-the-elm-city-project/" class="more-link">Continue reading <span class="screen-reader-text">Revisiting the Elm City project</span></a> 
+
+<https://blog.jonudell.net/2024/09/05/revisiting-the-elm-city-project/>
+
+---
+
+## Long Analysis of the M-209
+
+date: 2024-09-05, updated: 2024-09-04, from: Bruce Schneier blog
+
+<p>Really interesting <a href="https://chris-intel-corner.blogspot.com/2024/07/the-american-m-209-cipher-machine.html">analysis</a> of the American M-209 encryption device and its security.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/09/long-analysis-of-the-m-209.html>
+
+---
+
+## 2024-09-05 Player-organized expeditions into Arden Vul
+
+date: 2024-09-05, from: Alex Schroeder's Blog
+
+<h1 id="2024-09-05-player-organized-expeditions-into-arden-vul">2024-09-05 Player-organized expeditions into Arden Vul</h1>
+
+<p>Back when I read about the <a href="https://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/">West Marches</a> there was one thing I didn&rsquo;t understand: &ldquo;There was no regular time: every session was scheduled by the players on the fly.&rdquo;</p>
+
+<p>How on earth was this supposed to work? In my world, the <a href="2016-07-07_Being_a_RPG_Referee">referee</a> was key. I&rsquo;d run a game every Monday, or every second Sunday, or what have you. It was a hallmark of how I saw myself. Back in 2011 I said: &ldquo;I&rsquo;m a good host.&rdquo; <a href="2011-08-20_Building_a_Better_GM">Building a Better GM</a> has a much longer discussion of this. The key part about this, however, was that I set the dates.</p>
+
+<p>When I started running an open table on Discord, things started to change. I was participating in <a href="2023-03-24_Multi-referee_campaigns">multi-referee campaigns</a>. At first, I was on a Discord server and ran a game on Mondays. Then <a class="account" href="https://tabletop.social/@phf" title="@phf@tabletop.social">@phf</a> would run game on Mondays, too. We&rsquo;d take turns. Then we got more players and we started picking other weekdays because some people couldn&rsquo;t play on Mondays. When I joined a second Discord server, for a second multi-referee campaign with <a class="account" href="https://rollenspiel.social/@settembrini" title="@settembrini@rollenspiel.social">@settembrini</a> and others, scheduling got even more flexible. I was running or playing two or three evenings per week, sometimes four.</p>
+
+<p>One of the players was <a class="account" href="https://dice.camp/@madmoses" title="@MadMoses@dice.camp">@MadMoses</a>. He is involved in other activities and often had scheduling conflicts. He started asking me about my gaming intentions: In two weeks time, would I be more likely to run a game on Monday or Wednesday? I wasn&rsquo;t planning ahead and said that I&rsquo;d run on whichever date worked best for him. After a while, I realized that his inquiries ensured that he could always make it to the game. Almost every session, there was Cédric the illusionist.</p>
+
+<p>At the same time, some players weren&rsquo;t as online as others and I&rsquo;ve had a few situations where somebody said: &ldquo;I&rsquo;m offline for like ten minutes and by the time I&rsquo;m back, a game date has been both announced and all the available seats have been filled!&rdquo; It was true. Something needed to change.</p>
+
+<p>I posted a message saying that Cédric was making it to all the games because his player had been organizing game sessions via direct messages. If other players wanted to do the same, I said, feel free to contact me. And slowly at first but more regularly now, players have been contacting me. The players of Ahriman the necromancer and Boris of the mountain have asked for dates limited to high-level characters so that they could explore the deeper levels of Arden Vul. And now the player of Porphyrios and Serapion contacted me, asking for a date where one of his characters and Aldon the elf might lead an excavation attempt in the ruined city of Arden Vul, since none of the other players seemed to be all that interested.</p>
+
+<p>And just like that, player-organized expeditions have become a reality, in my campaign. We&rsquo;re 45 sessions into Arden Vul.</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
+
+<https://alexschroeder.ch/view/2024-09-05-player-organized>
+
+---
+
+## 2024-09-05 A new episode for Internet Office Hours
+
+date: 2024-09-05, from: Alex Schroeder's Blog
+
+<h1 id="2024-09-05-a-new-episode-for-internet-office-hours">2024-09-05 A new episode for Internet Office Hours</h1>
+
+<p>It&rsquo;s been quiet as far as podcasting is concerned, but a few days ago we recorded another episode of the <a href="https://campaignwiki.org/wiki/MontagInZ%C3%BCrich/Internet_Office_Hours">Internet Office Hours</a> podcast. We talked about <a href="https://campaignwiki.org/wiki/MontagInZ%c3%bcrich/2024-09-01_Maps_and_Mapping">Maps and Mapping</a>. This is our 16th regular episode.</p>
+
+<p>The podcast is an &ldquo;open space&rdquo;. Much like an open table in gaming an open space in podcasting means that the cast of speakers changes from episode to episode. We all play and run and possibly even write role-playing games. At the beginning of the show, everybody present proposes a topic in two or three sentences, we pick one of the topics and then we talk about it for about an hour.</p>
+
+<p>If you&rsquo;d like to be on this podcast, let us know.
+We record Sundays, 20:15 Central European (Summer) Time.</p>
+
+<p><a class="tag" href="/search/?q=%23Internet_Office_Hours">#Internet Office Hours</a> <a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%23Podcast">#Podcast</a></p> 
+
+<https://alexschroeder.ch/view/2024-09-05-ioh>
+
+---
+
+## The Fate of the SS United States, Bill Clinton, and Me
+
+date: 2024-09-05, from: Robert Reich's blog
+
+We were 22 when we sailed across the Atlantic. Now we&#8217;re 78, and the SS United States is being evicted from its pier and sunk off the coast of Florida. 
+
+<https://robertreich.substack.com/p/the-ss-united-states-bill-clinton>
+
+---
+
+## September 4, 2024
+
+date: 2024-09-05, from: Heather Cox Richardson blog
+
+Long tonight, folks, but it&#8217;s been quite a day. 
+
+<https://heathercoxrichardson.substack.com/p/september-4-2024>
+
+---
+
+## Liz Cheney: ‘Not Only Am I Not Voting for Donald Trump, but I Will Be Voting for Kamala Harris’
+
+date: 2024-09-05, updated: 2024-09-05, from: Daring Fireball
+
+ 
+
+<https://www.nytimes.com/2024/09/04/us/politics/liz-cheney-kamala-harris-vote.html>
+
+---
+
+## What will Kamala Harris do about America’s soaring inequality and shameful tax system?
+
+date: 2024-09-05, from: Robert Reich's blog
+
+Her announcement today about capital gains and small businesses 
+
+<https://robertreich.substack.com/p/what-will-kamala-harris-do-about>
 
 ---
 
@@ -170,7 +332,7 @@ Aaron Sorkin is like <a href="http://scripting.com/stories/2011/01/01/theWorldIs
 
 **@Dave Winer's Scripting News** (date: 2024-09-04, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/09/04/theNewsroomViaChatGPT.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm watching the HBO series <a href="https://en.wikipedia.org/wiki/The_Newsroom_(American_TV_series)">The Newsroom</a> from 2012, it's an <a href="https://en.wikipedia.org/wiki/Aaron_Sorkin">Aaron Sorkin</a> show. It's fairly insipid, but for some reason I keep watching. They have a multi-episode <a href="https://en.wikipedia.org/wiki/List_of_The_Newsroom_episodes#Season_2_(2013)">controversy</a> as they go crazy trying to source a rumor they've heard that the US bombed a town in the Middle East with sarin gas, and killed a lot of people. In other words they committed a war crime. Turns out they were set up by multiple people, and they went through all kinds of angst over who should resign and who should be fired, and how they would ever regain the trust of the viewers. It is a Sorkin thing so it is by definition overdone, but in the context of today's NYT and CNN and all the other schlock "news" that reports Trump's ever-more-egrious lies not only without fact checking, but knowing for sure the lies are coming. That this has happened to American "journalism" is worse than a war crime. It's what everyone told us is an essential part of an authoritarian state, we expect everything in the news to be lies. We have now gotten there. It's good to acknowledge that, imho and stop asking why it is, rather think about <i>what you can do</i> about it. 
+I'm watching the HBO series <a href="https://en.wikipedia.org/wiki/The_Newsroom_(American_TV_series)">The Newsroom</a> from 2012, it's an <a href="https://en.wikipedia.org/wiki/Aaron_Sorkin">Aaron Sorkin</a> show. It's fairly insipid, but for some reason I keep watching. They have a multi-episode <a href="https://en.wikipedia.org/wiki/List_of_The_Newsroom_episodes#Season_2_(2013)">controversy</a> as they go crazy trying to source a rumor they've heard that the US bombed a town in the Middle East with sarin gas, and killed a lot of people. In other words they committed a war crime. Turns out they were set up by multiple people, and they went through all kinds of angst over who should resign and who should be fired, and how they would ever regain the trust of the viewers. It is a Sorkin thing so it is by definition overdone, but in the context of today's NYT and CNN and all the other schlock "news" that reports Trump's ever-more-egrious lies not only without fact checking, but knowing for sure the lies are coming. That this has happened to American "journalism" is worse than a war crime. It's what everyone told us is an essential part of an authoritarian state, we expect everything in the news to be lies. We have now gotten there. It's good to acknowledge that, imho and stop asking why it is, rather think about <i>what you can do</i> about it. 
 
 <http://scripting.com/2024/09/04.html#a153237>
 
@@ -1023,6 +1185,16 @@ Already September 1st, and a tang of autumn in the morning air. I had a two-week
 August is <a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2024/08.opml">archived</a>. Let's start September. 
 
 <http://scripting.com/2024/09/01.html#a124605>
+
+---
+
+## Can you judge the tech bros by their bookshelves?
+
+date: 2024-09-01, from: John Naughton's online diary
+
+Yesterday&#8217;s Observer column: In August, a thoughtful blogger, Tanner Greer, posed an interesting question to the Silicon Valley crowd: “What are the contents of the ‘vague tech canon’? If we say it is 40 books, what are they?” He was &#8230; <a href="https://memex.naughtons.org/can-you-judge-the-tech-bros-by-their-bookshelves/39827/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/can-you-judge-the-tech-bros-by-their-bookshelves/39827/>
 
 ---
 

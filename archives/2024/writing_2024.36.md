@@ -1,11 +1,45 @@
 ---
 title: writing
-updated: 2024-09-04 13:41:22
+updated: 2024-09-05 09:37:27
 ---
 
 # writing
 
-(date: 2024-09-04 13:41:22)
+(date: 2024-09-05 09:37:27)
+
+---
+
+## Alex Brown Reviews The Black Girl Survives in This One edited by Desiree S. Evans & Saraciea J. Fennell
+
+date: 2024-09-05, from: Locus Magazine
+
+<p><strong>The Black Girl Survives in This One</strong>, Desiree S. Evans &#38; Saraciea J. Fennell, eds. (Flatiron 978-1-25032-199-2, $19.99, 368pp, hc) April 2024.</p>
+<p>Horror is in a golden age in young adult fiction. Just a few years ago, you could count the number of YA horror novels released each year on one hand. Last year I tracked more than 30 YA books marketed as horror. This year just in January  <a href="https://locusmag.com/2024/09/alex-brown-reviews-the-black-girl-survives-in-this-one-edited-by-desiree-s-evans-saraciea-j-fennell/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/alex-brown-reviews-the-black-girl-survives-in-this-one-edited-by-desiree-s-evans-saraciea-j-fennell/>
+
+---
+
+## 2024 SLF Working Class Writers Grant Applications Open
+
+date: 2024-09-04, from: Locus Magazine
+
+<p>The Speculative Literature Foundation (SLF) is accepting applications for its $1,000 Working Class Writers Grant, &#8220;awarded annually to speculative fiction writers who are working class, blue-collar, financially disadvantaged, or homeless, who have been historically underrepresented in speculative fiction due to financial barriers which make it hard to access the writing world.&#8221;</p>
+<p>Applications are open until September 30, 2024. The winner will be announced November 15, 2024.</p>
+<p>For more information, see  <a href="https://locusmag.com/2024/09/2024-slf-working-class-writers-grant-applications-open/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/2024-slf-working-class-writers-grant-applications-open/>
+
+---
+
+## 2024 Washington State Book Award Finalists
+
+date: 2024-09-04, from: Locus Magazine
+
+<p>Finalists fpr the 2024 Washington State Book Awards, presented by the Washington Center for the Book, have been announced, including titles and authors of genre interest.</p>
+<p><strong>Bookshops &#38; Bonedust</strong> by Travis Baldree (Tor) and <strong>Jewel Box: Stories</strong> by E. Lily Yu (Erewhon) are among the six titles shortlisted in the Fiction category. <strong>The Golden Needle</strong> by T.J. Carroll (Cumberstone) and <strong>Painted Devils</strong> by Margaret Owen (Henry Holt) are among three  <a href="https://locusmag.com/2024/09/2024-washington-state-book-award-finalists/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/2024-washington-state-book-award-finalists/>
 
 ---
 
