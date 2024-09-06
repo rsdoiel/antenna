@@ -1,11 +1,34 @@
 ---
 title: libraries
-updated: 2024-09-05 09:37:29
+updated: 2024-09-06 08:44:48
 ---
 
 # libraries
 
-(date: 2024-09-05 09:37:29)
+(date: 2024-09-06 08:44:48)
+
+---
+
+## Inclusion and diversity editorial policies at Revista Brasileira de Estudos da Presença
+
+date: 2024-09-06, from: SciELO in Perspective
+
+<p>The <em>Revista Brasileira de Estudos da Presença</em> has implemented important changes by adopting Open Science practices with a focus on IDEIA principles, being a pioneer in the area of Performing Arts in Brazil. Prior to this, the journal already followed similar principles, as evidenced by the thematic section “Performance and Ethnic-Racial Relations”, published in 2017. Available in Portuguese only. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://humanas.blog.scielo.org/blog/2024/09/06/politicas-editoriais-de-inclusao-e-diversidade-na-rbep/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://humanas.blog.scielo.org/blog/2024/09/06/politicas-editoriais-de-inclusao-e-diversidade-na-rbep/#new_tab">Inclusion and diversity editorial policies at <em>Revista Brasileira de Estudos da Presença</em></a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://humanas.blog.scielo.org/blog/2024/09/06/politicas-editoriais-de-inclusao-e-diversidade-na-rbep/#new_tab>
+
+---
+
+## The Chemistry of American Cheese
+
+date: 2024-09-06, from: Scholarly Kitchen
+
+<p>What exactly is American Cheese, and what can chemistry tells us about why it melts so much better than other types of cheeses?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/09/06/the-chemistry-of-american-cheese/">The Chemistry of American Cheese</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/09/06/the-chemistry-of-american-cheese/>
 
 ---
 
@@ -88,7 +111,7 @@ date: 2024-09-04, from: Scholarly Kitchen
 
 date: 2024-09-03, from: Association of Research Libraries News
 
-<p>Last Updated on September 4, 2024, 3:58 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, September 4 &#124; Thursday, September 5 Tuesday, September...</p>
+<p>Last Updated on September 5, 2024, 11:31 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, September 4 &#124; Thursday, September 5 Tuesday, September...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-3-5/">Day in Review (September 3–5)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

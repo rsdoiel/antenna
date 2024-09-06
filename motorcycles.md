@@ -1,11 +1,71 @@
 ---
 title: motorcycles
-updated: 2024-09-05 09:37:31
+updated: 2024-09-06 08:44:50
 ---
 
 # motorcycles
 
-(date: 2024-09-05 09:37:31)
+(date: 2024-09-06 08:44:50)
+
+---
+
+## Watch This BMW Sportbike Undergo a Wild, and Gorgeous, Transformation
+
+date: 2024-09-06, from: Ride Apart, Electric Motorcycle News
+
+It’s got all the fancy parts you could ever dream of.  
+
+<https://www.rideapart.com/news/732246/modified-bmw-m-1000-r-gp-products/>
+
+---
+
+## Why Is This Supposedly Defunct Electric Motorcycle Maker Still Posting Online?
+
+date: 2024-09-06, from: Ride Apart, Electric Motorcycle News
+
+Didn't they go out of business a few months ago? 
+
+<https://www.rideapart.com/news/732733/arc-vector-electric-motorcycle-social-media/>
+
+---
+
+## Polaris’ New Patent Has Hydraulic Adjustable Suspension, Adds Further Utility
+
+date: 2024-09-06, from: Ride Apart, Electric Motorcycle News
+
+Front and rear suspension height can be adjusted independently with the push of a button.  
+
+<https://www.rideapart.com/news/732613/polaris-utv-adjustable-ride-height-patent/>
+
+---
+
+## I Put Apple CarPlay On My Vintage '80s Honda Motorcycle, and Here's How I Did It
+
+date: 2024-09-06, from: Ride Apart, Electric Motorcycle News
+
+No precious vintage Honda V4s were harmed in the installation process. 
+
+<https://www.rideapart.com/news/732719/chigee-aio5lite-apple-carplay-installation-honda-interceptor/>
+
+---
+
+## Honda May Be Cooking Up A Four-Cylinder CBR400R, So Fingers Crossed
+
+date: 2024-09-06, from: Ride Apart, Electric Motorcycle News
+
+A prospective Honda CBR400R Four could be a game changer.  
+
+<https://www.rideapart.com/news/732614/honda-cbr400r-four-trademarked-japan/>
+
+---
+
+## Harrison Burton: Playoffs ‘A Whole New Season for Us’
+
+date: 2024-09-05, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor CHARLOTTE, N.C. – As the NASCAR Cup Series Playoffs begin, for drivers like Harrison Burton, it presents a new opportunity for ‘a new season’ with&#8230;  
+
+<https://kickinthetires.net/nascar/harrison-burton-playoffs-whole-new-season/>
 
 ---
 

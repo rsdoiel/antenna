@@ -3,7 +3,7 @@
 
 > An experiment in personal news aggregation
 
-The Antenna is organized around lists of RSS, Atom and JSONfeeds that websites publish to promote their content. In effect it is a [Linklog](https://en.wikipedia.org/wiki/Linklog) driven by the curated list of source feeds.  Right now Antenna is build the following lists
+The Antenna is a cross between a [Linklog](https://en.wikipedia.org/wiki/Linklog) and a list oriented news reader. It is updated via a static site generator. It is driven by the curated list of source feeds. The RSS feeds provide a link and abstract of the source content so I can quickly scan the new content and decide what I might want to read next. Right now Antenna is built using the following lists.
 
 Collection                                Description of Posts                                               list
 ---------------------------------         --------------------------------------------------------------     --------------------------------
@@ -15,11 +15,9 @@ Collection                                Description of Posts                  
 [Going Electric](going_electric.html)     Going Electric                                                     [going_electric.txt](going_electric.txt)
 [Columns](columns.html)                   Frequent Pocket additions                                          [columns.txt](columns.txt)
 [Retro Computing](retro_computing.html)   Computer history and systems                                       [retro_computing.txt](retro_computing.txt)
-[Games](games.html)                       Interactive games                                                  [games.txt](games.txt)
 [Libraries](libraries.html)               Libraries, Archives and Museums                                    [libraries.txt](libraries.txt)
 [Journalism](journalism.html)             Journalism and the 4th estate                                      [journalism.txt](journalism.txt)
 [Motorcycles](motorcycles.html)           Electric motorcycle and related                                    [motorcycles.txt](motorcycles.txt)
-[Ham Radio](ham_radio.html)               Ham Radio                                                          [ham_radio.txt](ham_radio.txt)
 [Writing](writing.html)                   Writing and Writing Tools                                          [writing.txt](writing.txt)
 [Weather](weather.html)                   [NOAA's](https://noaa.gov) and [weather.gov](https://weather.gov)  [weather.txt](weather.txt)
 [Snapshots](snapshots/)                   A Sometimes daily aggregation                                      [snapshots/news.txt](snapshots/news.txt)

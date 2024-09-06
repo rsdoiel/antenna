@@ -1,11 +1,21 @@
 ---
 title: parks
-updated: 2024-09-05 09:37:30
+updated: 2024-09-06 08:44:50
 ---
 
 # parks
 
-(date: 2024-09-05 09:37:30)
+(date: 2024-09-06 08:44:50)
+
+---
+
+## What If … State Parks Were Pro Football Teams?
+
+date: 2024-09-05, from: California State Parks blog
+
+Well, Labor Day has come and gone, marking the unofficial end of summer. As the beach towels and sunscreen get put away and the kids head back to school, it’s time to turn our attention to the wonders fall: cooler days, autumn leaves, long hikes and … football! With a new season about to kick [&#8230;] 
+
+<https://castateparks.wordpress.com/2024/09/05/what-if-state-parks-were-pro-football-teams/>
 
 ---
 

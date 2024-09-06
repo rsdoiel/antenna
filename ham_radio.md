@@ -1,11 +1,93 @@
 ---
 title: ham radio
-updated: 2024-09-05 09:37:24
+updated: 2024-09-06 08:44:44
 ---
 
 # ham radio
 
-(date: 2024-09-05 09:37:24)
+(date: 2024-09-06 08:44:44)
+
+---
+
+## SiC MOSFETs drive automotive architectures
+
+date: 2024-09-06, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Navitas-Gen-3-Fast.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Navitas-Gen-3-Fast.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Navitas-Gen-3-Fast.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Navitas-Gen-3-Fast.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Navitas has released a portfolio of third-generation automotive-qualified SiC MOSFETs in D2PAL-7L and TOLL surface-mount packages.</p>
+<p>The post <a href="https://www.edn.com/sic-mosfets-drive-automotive-architectures/" data-wpel-link="internal">SiC MOSFETs drive automotive architectures</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/sic-mosfets-drive-automotive-architectures/>
+
+---
+
+## Wideband amplifier meets sub-6 GHz requirements
+
+date: 2024-09-06, from: EDN Blog
+
+<img width="800" height="445" src="https://www.edn.com/wp-content/uploads/Elite-RF-amp.jpg?fit=800%2C445" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Elite-RF-amp.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Elite-RF-amp.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Elite-RF-amp.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>A wideband RF power amplifier module from Elite RF covers signals from 20 MHz to 6 GHz, delivering a maximum output power of 20 W. </p>
+<p>The post <a href="https://www.edn.com/wideband-amplifier-meets-sub-6-ghz-requirements/" data-wpel-link="internal">Wideband amplifier meets sub-6 GHz requirements</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/wideband-amplifier-meets-sub-6-ghz-requirements/>
+
+---
+
+## Wireless combo module targets embedded devices
+
+date: 2024-09-06, from: EDN Blog
+
+<img width="700" height="465" src="https://www.edn.com/wp-content/uploads/Kaga-Fei-WKI611.jpg?fit=700%2C465" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Kaga-Fei-WKI611.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Kaga-Fei-WKI611.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>KAGA FEI’s WKI611AA1 Wi-Fi 6 and Bluetooth 5.4 combo module simplifies the development of low-power embedded devices.</p>
+<p>The post <a href="https://www.edn.com/wireless-combo-module-targets-embedded-devices/" data-wpel-link="internal">Wireless combo module targets embedded devices</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/wireless-combo-module-targets-embedded-devices/>
+
+---
+
+## PCIe 4.0 SSD optimizes system performance
+
+date: 2024-09-06, from: EDN Blog
+
+<img width="800" height="439" src="https://www.edn.com/wp-content/uploads/Kingston-NV3.jpg?fit=800%2C439" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Kingston-NV3.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Kingston-NV3.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Kingston-NV3.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Powered by a Gen 4x4 NVMe controller, the NV3 PCIe 4.0 SSD from Kingston Digital delivers sequential read speeds of up to 6000 MB/s.</p>
+<p>The post <a href="https://www.edn.com/pcie-4-0-ssd-optimizes-system-performance/" data-wpel-link="internal">PCIe 4.0 SSD optimizes system performance</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/pcie-4-0-ssd-optimizes-system-performance/>
+
+---
+
+## 14-bit scopes boost resolution for general use
+
+date: 2024-09-06, from: EDN Blog
+
+<img width="700" height="474" src="https://www.edn.com/wp-content/uploads/Keysight-Infinii-HD3.jpg?fit=700%2C474" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Keysight-Infinii-HD3.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Keysight-Infinii-HD3.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>The InfiniiVision HD series oscilloscopes from Keysight employ a 14-bit ADC, offering four times the vertical resolution of 12-bit scopes.</p>
+<p>The post <a href="https://www.edn.com/14-bit-scopes-boost-resolution-for-general-use/" data-wpel-link="internal">14-bit scopes boost resolution for general use</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/14-bit-scopes-boost-resolution-for-general-use/>
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-09-06, from: Amateur Radio Relay League News
+
+<p>Eight new sunspot groups emerged over the past week.<br /><br />Two appeared on August 30, three more on August 31, another two on<br />September 2 and one more on September 4.<br /><br />Average daily sunspot number declined from 177.1 to 155.3, while<br />average daily solar flux barely changed from 229 to 230.3.<br /><br />Spaceweather.com reported the average daily sunspot number for<br />August was 200, the highest monthly average in the past...</p> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-844>
+
+---
+
+## Interconnect underdogs steering chiplet design bandwagon
+
+date: 2024-09-06, from: EDN Blog
+
+<img width="1152" height="1152" src="https://www.edn.com/wp-content/uploads/Fig-1-chiplet-Alphawave-semi.jpg?fit=1152%2C1152" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-1-chiplet-Alphawave-semi.jpg?w=1152 1152w, https://www.edn.com/wp-content/uploads/Fig-1-chiplet-Alphawave-semi.jpg?w=150 150w, https://www.edn.com/wp-content/uploads/Fig-1-chiplet-Alphawave-semi.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-chiplet-Alphawave-semi.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-chiplet-Alphawave-semi.jpg?w=1024 1024w" sizes="(max-width: 1152px) 100vw, 1152px" /><p>Chiplet designs demand versatile interconnect solutions that minimize die-to-die latency and support a variety of packaging requirements.</p>
+<p>The post <a href="https://www.edn.com/interconnect-underdogs-steering-chiplet-design-bandwagon/" data-wpel-link="internal">Interconnect underdogs steering chiplet design bandwagon</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/interconnect-underdogs-steering-chiplet-design-bandwagon/>
 
 ---
 
@@ -13,7 +95,7 @@ updated: 2024-09-05 09:37:24
 
 date: 2024-09-05, from: EDN Blog
 
-<img width="408" height="601" src="https://www.edn.com/wp-content/uploads/Fuse-Failure-1.png?fit=408%2C601" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fuse-Failure-1.png?w=408 408w, https://www.edn.com/wp-content/uploads/Fuse-Failure-1.png?w=204 204w" sizes="(max-width: 408px) 100vw, 408px" /><p>A look at moderate to massive fuse failures, where massive failures reveal issues with the system's design.   </p>
+<img width="408" height="601" src="https://www.edn.com/wp-content/uploads/Fuse-Failure-1.png?fit=408%2C601" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fuse-Failure-1.png?w=408 408w, https://www.edn.com/wp-content/uploads/Fuse-Failure-1.png?w=204 204w" sizes="(max-width: 408px) 100vw, 408px" /><p>A look at moderate to massive fuse failures, where massive failures reveal issues with the system's design.   </p>
 <p>The post <a href="https://www.edn.com/fuse-failures/" data-wpel-link="internal">Fuse failures</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

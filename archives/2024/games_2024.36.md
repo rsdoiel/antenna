@@ -1,11 +1,111 @@
 ---
 title: games
-updated: 2024-09-05 09:37:28
+updated: 2024-09-06 08:44:47
 ---
 
 # games
 
-(date: 2024-09-05 09:37:28)
+(date: 2024-09-06 08:44:47)
+
+---
+
+## Where can I find that adorable Astro Bot controller?
+
+date: 2024-09-06, updated: 2024-09-06, from: Polygon Website
+
+Astro Bot, the second full-fledged title featuring the de facto PlayStation mascot and a very good Nintendo-tier platformer, has arrived. To commemorate the occasion, PlayStation has launched a limited edition DualSense controller fashioned after the blue-eyed bot. The $79.99 controller is technically available now, but you might have a difficult time finding one. Links are [&#8230;] 
+
+<https://www.polygon.com/24208796/playstation-astro-bot-controller-dualsense-where-to-buy>
+
+---
+
+## Anker&#8217;s two-headed USB-C cable is a $22 blessing
+
+date: 2024-09-06, updated: 2024-09-06, from: Polygon Website
+
+The only thing better than a durable, braided USB-C cable is one that can charge two gadgets at the same time. That’s exactly what Anker’s 2-in-1 USB-C cable does, and it’s $4 off its normal $25.99 price if you’re an Amazon Prime member. With it, you can charge a duo of gadgets ranging in power [&#8230;] 
+
+<https://www.polygon.com/good-deals/448388/usbc-cable-two-in-one-charging-anker-amazon-deal>
+
+---
+
+## What’s this? What’s this?! The Lego Nightmare Before Christmas set is now available
+
+date: 2024-09-06, updated: 2024-09-06, from: Polygon Website
+
+Lego fans of every age, wouldn&#8217;t you like to see something strange? It’s not-quite-but-almost-soon-to-be Halloween, which is the start of a marathon of holidays that The Nightmare Before Christmas can claim under its purview. Tim Burton and Henry Selick’s stop-motion animated musical is a spoopy classic that you can now cherish and honor as a [&#8230;] 
+
+<https://www.polygon.com/deals/440535/nightmare-before-christmas-lego-release-date-price>
+
+---
+
+## At least Concord will still arrive to TV this fall
+
+date: 2024-09-06, updated: 2024-09-06, from: Polygon Website
+
+Concord, Sony’s new hero shooter, may be DOA, but its spirit will survive. Launched on PlayStation 5 and Windows PC on Aug. 23 only to be removed from storefronts on Sept. 3, with servers set to be fully shut down on Sept. 6, Concord will have one last splash in mainstream culture when its characters [&#8230;] 
+
+<https://www.polygon.com/tv/448693/concord-episode-amazon-prime-video-secret-level>
+
+---
+
+## Galadriel’s kickass orc-fighting has unexpected weight, considering the orc babies at home
+
+date: 2024-09-06, updated: 2024-09-05, from: Polygon Website
+
+[Ed. note: This post contains spoilers for the very end of The Rings of Power season 2 episode 4.] Galadriel (Morfydd Clark) can kick ass, when she wants to. Take The Rings of Power’s climactic closing fight in episode 4, where she takes on a couple dozen orcs all by herself. You might ask yourself: [&#8230;] 
+
+<https://www.polygon.com/lotr-rings-of-power/448524/trop-orc-adar-galadriel-orc-fight-how>
+
+---
+
+## All secret exits in Astro Bot and how to unlock them
+
+date: 2024-09-06, updated: 2024-09-05, from: Polygon Website
+
+There are secret exits in several Astro Bot levels, all of which will unlock a new stage in the mysterious Lost Galaxy nebula. To unlock them all, you’ll need to scour certain levels and even solve some mini puzzles. In this Astro Bot guide, we’ll walk you through how to find all secret exits and [&#8230;] 
+
+<https://www.polygon.com/astro-bot-guides/447099/secret-exits-levels-locations-how-to-unlock>
+
+---
+
+## All hidden levels in Astro Bot and how to unlock them
+
+date: 2024-09-06, updated: 2024-09-05, from: Polygon Website
+
+There are multiple hidden levels in Astro Bot, which primarily take the form as hidden planets in each nebula. You’ll need to unveil them if you want to complete every level and rescue every bot. The trick is, you might not even know you’re missing a planet until you complete the nebula and see you’ve [&#8230;] 
+
+<https://www.polygon.com/astro-bot-guides/447107/hidden-levels-planets-all-locations-how-to-unlock>
+
+---
+
+## The worst Castlevania game just got a lot better
+
+date: 2024-09-05, updated: 2024-09-05, from: Polygon Website
+
+The appeal of Konami’s recently released Castlevania collection is, in theory, that it’s a new way to play three meaty Castlevania adventures from the Nintendo DS era (Castlevania: Dawn of Sorrow, Portrait of Ruin, and Order of Ecclesia). But the highlight for me, an avowed and longtime hater of the 1987 game Haunted Castle, is [&#8230;] 
+
+<https://www.polygon.com/gaming/448559/castlevania-dominus-collection-impressions>
+
+---
+
+## Enlighten your TV setup with Govee’s backlight kit, now 36% off
+
+date: 2024-09-05, updated: 2024-09-05, from: Polygon Website
+
+A few months back, I was looking for a way to update my living room without replacing my TV entirely — something I’m hoping to do probably around Black Friday / Cyber Monday. What I found instead was Govee’s TV backlight set, which uses a small, mountable camera to read the colors on your TV and [&#8230;] 
+
+<https://www.polygon.com/good-deals/448449/enlighten-your-tv-setup-with-govees-backlight-kit-now-36-off>
+
+---
+
+## Did Beetlejuice 2’s writers abandon ship halfway through?
+
+date: 2024-09-05, updated: 2024-09-06, from: Polygon Website
+
+“I swear, the afterlife is so random,” Jenna Ortega’s angsty teen character Astrid Deetz grouses, deep into the action of Tim Burton’s Beetlejuice Beetlejuice. It’s meant as a tossed-off line, one of those “Well, that happened!” / “Ooh, that’s gotta hurt!” straight-to-the-audience statements that stand in for actual jokes. Instead, it lands like she’s saying [&#8230;] 
+
+<https://www.polygon.com/review/448506/beetlejuice-beetlejuice-tim-burton-sequel>
 
 ---
 

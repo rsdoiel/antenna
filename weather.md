@@ -1,11 +1,220 @@
 ---
 title: weather
-updated: 2024-09-05 09:37:27
+updated: 2024-09-06 08:44:46
 ---
 
 # weather
 
-(date: 2024-09-05 09:37:27)
+(date: 2024-09-06 08:44:46)
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-09-06, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Fri, 06 Sep 2024 14:51:20 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## SPC - No watches are valid as of Fri Sep  6 13:56:01 UTC 2024
+
+date: 2024-09-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri Sep  6 13:56:01 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Fri Sep  6 13:56:01 UTC 2024
+
+date: 2024-09-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri Sep  6 13:56:01 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Sep 6, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-09-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0746 AM CDT Fri Sep 06 2024
+
+Valid 061300Z - 071200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS MUCH OF
+OHIO TO THE OHIO VALLEY...
+
+...SUMMARY...
+Strong to locally severe storms are possible this afternoon from
+Lake Erie across much of Ohio to the Ohio Valley.
+
+...Synopsis...
+A highly amplified mid/upper-level pattern will persist across the
+CONUS, but with some weakening of the western mean ridge and
+intensification of troughing over the Great Lakes/Ohio Valley
+regions.  The latter will occur in relation to a synoptic-scale
+trough with several accompanying vorticity maxima and broad cyclonic
+flow -- apparent in moisture-channel imagery over much of northern
+ON and the Lake Superior vicinity.  Phasing of accompanying
+shortwaves/ vorticity lobes will contribute to both amplification
+and wavelength shortening through the period.  A closed 500-mb low
+should develop around 00Z near the eastern end of Upper MI, with
+trough near an MKG-ORD-MVN line.  By 12Z, a fully developed cyclone
+should cover much of ON from the southern end of James Bay to Lake
+Erie, with 500-mb trough extending southwestward near a CVG-BNA
+line.  Associated cyclonic flow at that time will cover most of the
+CONUS over and east of the mid/upper Mississippi Valley.
+
+At the surface, a cold front related to the ON trough was drawn at
+11Z near a DTW-FDY-IND-ICT line.  This front should proceed
+eastward/southeastward across the Ohio Valley, Lower Great Lakes and
+into the central/northern Appalachians through the period, ahead of
+the mid/upper trough.  By 00Z, the front should extend from Lake
+Ontario across western parts of NY/PA to southeastern OH, northern
+middle to western TN, and AR, becoming diffuse amidst northeast flow
+on both sides over OK.  Northeasterlies over the southern Plains
+south of the cold front will be largely in isallobaric response to a
+deepening surface frontal-wave low over the northwestern Gulf,
+initially drawn about 100 nm south of GLS, and forecast to drift
+erratically eastward through tonight.  Strong/organized convection
+related to the Gulf cyclone is expected to remain over water through
+the period.
+
+...OH, Ohio Valley...
+Damaging to isolated, marginally severe gusts, as well as marginal
+hail, will be possible with thunderstorms moving eastward across the
+outlook area today.
+
+A broken line of convection -- including widely scattered non-severe
+thunderstorms -- is apparent this morning from northwestern OH to
+western MO approximately along the low-level cold front.  This
+activity, or succeeding/newer development after a short time gap
+later this morning -- should become better organized between Lake
+Erie and the Ohio Valley around midday as the foregoing boundary
+layer (and prospective inflow) destabilizes.  This will occur in
+response to a combination of warm advection and diurnal heating/
+mixing, whose mixing-related moisture-reduction effects will be
+counterbalanced to some extent by moist advection.  Activity should
+move into a narrow corridor of 50s to mid 60s F surface dewpoints,
+combining with diurnal heating to support patchy, highly variable
+MLCAPE in the 500-1500 J/kg range.  
+
+Substantial westerly component to prefrontal near-surface flow will
+limit both convergence and vertical shear, though weak MLCINH will
+permit frontal development/maintenance of thunderstorms, regardless.
+Around 30-35 kt effective-shear magnitudes will support mainly
+multicells, though some intermittent/transient supercell character
+will be possible for longer-lived, discrete cells.  Activity should
+weaken this evening as it moves eastward out of the most favorable
+moisture, and into a nocturnally cooling/stabilizing boundary layer.
+
+..Edwards/Kerr.. 09/06/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2024-09-06, from: Eastern Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ABPZ20 KNHC 061153<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 500 AM PDT Fri Sep 6 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ Offshore of Southwestern Mexico:<br />
+ An area of low pressure is forecast to form in the early to middle <br />
+ parts of next week off the coast of southern or southwestern Mexico. <br />
+ Environmental conditions could support gradual development of this <br />
+ system thereafter while it moves generally west-northwestward, <br />
+ roughly parallel to the coast of southwestern Mexico.<br />
+ * Formation chance through 48 hours...low...near 0 percent.<br />
+ * Formation chance through 7 days...low...30 percent.<br />
+ <br />
+ $$<br />
+ Forecaster Bucci<br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-09-06, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Fri Sep 6 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Northwestern Gulf of Mexico (AL90):<br>Showers and thunderstorms associated with a low pressure system and <br>weak frontal boundary over the northwestern Gulf of Mexico remain <br>disorganized.  Upper-level winds are expected to remain unfavorable <br>for significant development of this system while it meanders over <br>the northwestern Gulf and eventually merges with another approaching <br>frontal system later today or on Saturday.  Although tropical <br>cyclone development is unlikely, heavy rainfall is expected to <br>continue across portions of the northern Gulf Coast during the next <br>day or so.  Additional information on this system can be found in <br>products issued by your local National Weather Service Forecast <br>Office and High Seas Forecasts issued by the National Weather <br>Service.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...10 percent.<br><br />
+2. Northwestern Atlantic (AL99):<br>Satellite images indicate that a gale-force low pressure system <br>located several hundred miles east of the U.S. Mid-Atlantic coast <br>is producing a large area of showers and thunderstorms that are <br>increasingly taking on a non-tropical structure.  The low is <br>forecast to move north-northeastward at 15 to 20 mph offshore the <br>northeastern United States, reaching colder waters by this evening <br>and overnight, and its opportunity to acquire subtropical <br>characteristics appears to be decreasing.  Additional information <br>on this system, including gale warnings, can be found in High Seas <br>Forecasts issued by the National Weather Service.<br>* Formation chance through 48 hours...low...20 percent.<br>* Formation chance through 7 days...low...20 percent.<br><br />
+3. Northwestern Caribbean Sea and Southwestern Gulf of Mexico:<br>A tropical wave located near the coast of Belize and the Yucatan <br>Peninsula of Mexico continues to produce disorganized showers and <br>thunderstorms.  The wave is forecast to move across Central <br>America and southeastern Mexico today and tonight, and some slow <br>development is possible over the weekend after the system emerges <br>over the southwestern Gulf of Mexico.<br>* Formation chance through 48 hours...low...near 0 percent. <br>* Formation chance through 7 days...low...20 percent.<br><br />
+4. Eastern and Central Tropical Atlantic:<br>An elongated trough of low pressure over the eastern tropical <br>Atlantic is producing minimal shower and thunderstorm activity. <br>Development, if any, should be slow to occur while the disturbance <br>meanders through the early part of next week and then begins to <br>move west-northwestward across the central tropical Atlantic during <br>the middle to latter part of next week.<br>* Formation chance through 48 hours...low...near 0 percent. <br>* Formation chance through 7 days...low...10 percent.<br><br />
+<br>High Seas Forecasts are issued by the National Weather Service <br>under AWIPS header NFDHSFAT1 and WMO header FZNT01 KWBC, and online <br>at ocean.weather.gov/shtml/NFDHSFAT1.php<br><br>Forecaster Berg<br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Central North Pacific Tropical Weather Outlook
+
+date: 2024-09-06, from: Central Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ACPN50 PHFO 061120<br/>
+TWOCP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS Central Pacific Hurricane Center Honolulu HI<br/>
+200 AM HST Fri Sep 6 2024<br/>
+<br/>
+For the central North Pacific...between 140W and 180W:<br/>
+<br/>
+No tropical cyclones are expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+<br/>
+Forecaster Gibbs<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-09-06, from: Central Pacific Basin Tropical Cyclones
+
+No tropical cyclones as of Fri, 06 Sep 2024 14:51:20 GMT 
+
+<https://www.nhc.noaa.gov/>
 
 ---
 
@@ -83,194 +292,6 @@ eastward into the more mixed southern High Plains.
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
-
----
-
-## SPC - No watches are valid as of Thu Sep  5 16:29:01 UTC 2024
-
-date: 2024-09-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Thu Sep  5 16:29:01 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Thu Sep  5 16:29:01 UTC 2024
-
-date: 2024-09-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Thu Sep  5 16:29:01 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-09-05, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Thu, 05 Sep 2024 15:38:51 GMT 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
-## SPC Sep 5, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-09-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0742 AM CDT Thu Sep 05 2024
-
-Valid 051300Z - 061200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-FAR SOUTH-CENTRAL COLORADO INTO NORTHERN/CENTRAL NEW MEXICO...
-
-...SUMMARY...
-Thunderstorms capable of producing isolated severe wind gusts and
-hail will be possible today across parts of far south-central
-Colorado into northern/central New Mexico.
-
-...Central/Southern Rockies into the Southern High Plains...
-On the southwest fringe of large-scale upper troughing over Canada
-and the northern Plains/Upper Midwest, a mid-level shortwave trough
-over the central Rockies this morning will move generally southward
-across NM and vicinity through the day. Even though low-level
-moisture remains fairly modest across the southern Rockies and
-adjacent High Plains along/near of a cold front, cool mid-level
-temperatures and somewhat steepened lapse rates aloft will likely
-contribute to the development of around 500-750 J/kg of MLCAPE by
-early afternoon as daytime heating occurs. Initial development of
-robust convection by around 18-19Z will likely be tied to the higher
-terrain as weak large-scale ascent associated with the shortwave
-trough overspreads the south-central Rockies in a low-level
-post-frontal regime. This activity should then spread generally
-south-southeastward across parts of northern/central NM through the
-late afternoon and into the evening. While low-level easterly flow
-ahead of the front is forecast to remain weak, veering winds with
-height through mid/upper levels should still support around 25-35 kt
-of effective bulk shear and some updraft organization. The strongest
-cores that can develop may be capable of producing severe hail.
-Otherwise, the threat for isolated strong to severe wind gusts
-should spread southward in tandem with any small clusters that can
-form.
-
-...Great Lakes/Midwest to the Central Plains...
-Generally elevated convection is ongoing this morning across parts
-of the Upper Midwest along and near a surface cold front, and ahead
-of a large-scale upper trough moving generally southeastward.
-Instability across this region is expected to remain weak (MUCAPE
-500 J/kg or less), which should tend to limit the overall severe
-threat. Still, some of the stronger cores could produce small hail
-or gusty winds in the short term. Other thunderstorms may eventually
-develop this afternoon along/near the front across parts of the
-Midwest and/or central Plains. Regardless, the overall severe threat
-across these regions currently appears too limited to introduce low
-severe probabilities.
-
-..Gleason/Leitman.. 09/05/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-09-05, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Thu Sep 5 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Northwest Gulf of Mexico:<br>A trough of low pressure is producing widespread disorganized <br>showers and thunderstorms across the northwestern Gulf of Mexico, <br>including near the coasts of Louisiana and Texas.  Upper-level <br>winds are expected to become less conducive for development by <br>Friday and Saturday as a frontal boundary approaches the system.  <br>Although development is unlikely, heavy rainfall is expected <br>across portions of the northern Gulf Coast during the next day or <br>so.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...10 percent.<br><br />
-2. Northwestern Atlantic:<br>A non-tropical area of low pressure located a few hundred miles east <br>of North Carolina is producing disorganized showers and <br>thunderstorms to the northeast and east of its center.  This system <br>could acquire some subtropical characteristics over the next couple <br>of days while it moves generally north-northeastward, remaining <br>offshore of the northeastern United States.  Once the low moves <br>over cooler waters by late Saturday, further subtropical development <br>is not expected.  Additional information on this system, including <br>gale warnings, can be found in High Seas Forecasts issued by the <br>National Weather Service.<br>* Formation chance through 48 hours...low...20 percent.<br>* Formation chance through 7 days...low...20 percent.<br><br />
-3. Eastern Tropical Atlantic:<br>A broad area of low pressure over the eastern tropical Atlantic is <br>producing disorganized showers and thunderstorms. Some slow <br>development of this system is possible during the next several days <br>while it drifts northwestward or northward.<br>* Formation chance through 48 hours...low...10 percent. <br>* Formation chance through 7 days...low...20 percent.<br><br />
-4. Northwestern Caribbean Sea and Southwestern Gulf of Mexico:<br>Shower and thunderstorm activity has increased slightly in <br>association with a westward-moving tropical wave located over the <br>western Caribbean Sea.  Significant development appears unlikely <br>before the system reaches Belize and the Yucatan Peninsula by early <br>Friday.  Some development is possible late in the weekend into early <br>next week after the system emerges over the southwestern Gulf of <br>Mexico.<br>* Formation chance through 48 hours...low...near 0 percent. <br>* Formation chance through 7 days...low...30 percent.<br><br />
-5. Central Tropical Atlantic:<br>Another tropical wave located a few hundred miles east of the <br>Leeward Islands is producing limited shower and thunderstorm <br>activity. Strong upper-level winds are expected to limit development <br>of this system during the next few days while it moves <br>west-northwestward at 10 to 15 mph. By early next week, <br>environmental conditions could become more conducive for some slow <br>development while the system moves west-northwestward over the <br>southwestern Atlantic Ocean.<br>* Formation chance through 48 hours...low...near 0 percent. <br>* Formation chance through 7 days...low...10 percent.<br><br />
-<br>High Seas Forecasts are issued by the National Weather Service <br>under AWIPS header NFDHSFAT1 and WMO header FZNT01 KWBC, and online <br>at ocean.weather.gov/shtml/NFDHSFAT1.php<br><br>Forecaster Hagen<br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2024-09-05, from: Eastern Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ABPZ20 KNHC 051146<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 500 AM PDT Thu Sep 5 2024<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Offshore of Southwestern Mexico:<br />
- A broad area of low pressure is forecast to form early next week off <br />
- the coast of southern Mexico. Environmental conditions could support <br />
- gradual development of this system thereafter while it moves <br />
- generally west-northwestward, roughly parallel to the coast of <br />
- southwestern Mexico.<br />
- * Formation chance through 48 hours...low...near 0 percent.<br />
- * Formation chance through 7 days...low...30 percent.<br />
- <br />
- $$<br />
- Forecaster Cangialosi<br />
-  
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2024-09-05, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ACPN50 PHFO 051131<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-200 AM HST Thu Sep 5 2024<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-<br/>
-Forecaster Gibbs<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-09-05, from: Central Pacific Basin Tropical Cyclones
-
-No tropical cyclones as of Thu, 05 Sep 2024 15:38:51 GMT 
-
-<https://www.nhc.noaa.gov/>
 
 ---
 

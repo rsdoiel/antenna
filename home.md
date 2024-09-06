@@ -1,11 +1,84 @@
 ---
 title: home
-updated: 2024-09-05 09:37:29
+updated: 2024-09-06 08:44:49
 ---
 
 # home
 
-(date: 2024-09-05 09:37:29)
+(date: 2024-09-06 08:44:49)
+
+---
+
+## How to Make Elderberry Syrup with Fresh or Dried Berries
+
+date: 2024-09-06, from: Homestead and Chil
+
+<p>Looking for some natural immune system support? Come learn how to make delicious homemade elderberry syrup with this easy step-by-step recipe - using dried, frozen or fresh berries. It can prevent colds and flus, ease allergy symptoms, and help you feel better faster!  </p>
+<p>The post <a href="https://homesteadandchill.com/homemade-elderberry-syrup-recipe/">How to Make Elderberry Syrup with Fresh or Dried Berries</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<https://homesteadandchill.com/homemade-elderberry-syrup-recipe/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
+
+---
+
+## These Are the Best and Worst Cities to Retire in the U.S.
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Where you live when you retire can make a big difference on your fixed income. Wallethub looked at the best and worst cities for retirement. 
+
+<https://www.sunset.com/lifestyle/these-are-the-best-and-worst-cities-to-retire-in-the-u-s>
+
+---
+
+## A Disneyland Attraction Is Closing After 12 Years
+
+date: 2024-09-05, from: Sunset Magazine - Living in the West
+
+Disneyland is closing one of its attractions after 12 years, Red Car Trolley. It's being removed to make way for the Avengers Campus expansion 
+
+<https://www.sunset.com/travel/red-car-trolley-disneyland-closing>
+
+---
+
+## How I Built a Custom Drop Zone Entryway Organizer
+
+date: 2024-09-05, from: Family Handyman Blog
+
+DIYer Kyle Ortiz turned a cluttered closet into a drop zone organizer for his family.  
+
+<https://www.familyhandyman.com/article/build-this-diy-influencers-custom-drop-zone-entryway-organizer/>
+
+---
+
+## 18 Inexpensive Sustainable Homes Almost Anyone Can Afford
+
+date: 2024-09-05, from: Elemental Green blog
+
+<p>According to HomeAdvisor, the typical new home built in the United States in 2023 was $121,099 to $502,765. And because buyers continue to outnumber sellers, that figure is rising. For buyers seeking a more affordable and sustainable new home, check out these alternatives.</p>
+<p>The post <a href="https://elemental.green/18-inexpensive-sustainable-homes-almost-anyone-can-afford/">18 Inexpensive Sustainable Homes Almost Anyone Can Afford</a> first appeared on <a href="https://elemental.green">Elemental Green</a>.</p> 
+
+<https://elemental.green/18-inexpensive-sustainable-homes-almost-anyone-can-afford/>
+
+---
+
+## A Rare William F. Cody Midcentury Just Listed in Palm Springs for $12.9M
+
+date: 2024-09-05, from: Dwell
+
+The 1961 Aberenathy Residence has a pinwheel-shaped plan and has been featured in ads for Disney, Herman Miller, and Louis Vuitton. 
+
+<https://www.dwell.com/article/aberenathy-residence-william-f-cody-midcentury-palm-springs-real-estate-a9818098>
 
 ---
 
@@ -16,6 +89,16 @@ date: 2024-09-05, from: Dwell
 Beyond providing storage for the 850-square-foot apartment, the cheery feature conceals the entrance hall, bathroom, bedroom and sleeping mezzanine. 
 
 <https://www.dwell.com/article/a-yellow-floor-to-ceiling-library-wall-brightens-up-this-soho-loft-161c1470>
+
+---
+
+## The 21 Recipes You Should Be Cooking in September
+
+date: 2024-09-05, from: Sunset Magazine - Living in the West
+
+September is ideal because we can enjoy the last of summer produce and the beginning of fall produce. Here's what to make this month. 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/september-recipes-2024>
 
 ---
 
@@ -33,7 +116,7 @@ Make a simple adjustment when you lower the glass panel for the winter or raise 
 
 date: 2024-09-05, from: The Gardener's Path
 
-<p>‘Polish Red’ has all the wonderful flavor we love about garlic without the sulfurous bite. The large cloves of this softneck artichoke type are full of garlic goodness, but they won't burn your sinuses when you take a bite. Interested in growing your own? Learn how to plant and grow ‘Polish Red’ garlic in this guide.</p>
+<p>‘Polish Red’ has all the wonderful garlicky flavor we love but without the sulfurous bite. The large cloves of this softneck artichoke type are full of garlic goodness, but they won't burn your sinuses when you take a bite. Interested in growing your own? Learn how to plant and grow ‘Polish Red’ garlic in this guide.</p>
 <p>The post <a href="https://gardenerspath.com/plants/herbs/grow-polish-red-garlic/">How to Grow ‘Polish Red’ Garlic</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
  
 
@@ -78,6 +161,36 @@ date: 2024-09-05, from: Family Handyman Blog
 We're all paying more for car insurance these days. Here's why, plus how to try to get those rates down. 
 
 <https://www.familyhandyman.com/article/why-is-car-insurance-so-high/>
+
+---
+
+## This Washington Craftsman Was Big on Charm, But Tight on Space—See How It Was Renovated
+
+date: 2024-09-05, from: Sunset Magazine - Living in the West
+
+A Bay View, Washington Craftsman had charm and original details, but was cramped. One designer took it down to the studs and expanded it. 
+
+<https://www.sunset.com/home-garden/home-tours/bay-view-washington-craftsman>
+
+---
+
+## 10 Things to Do in Your Garden Before You Put Your House on the Market
+
+date: 2024-09-05, from: Sunset Magazine - Living in the West
+
+Prepping to sell your house means fixing up the inside and outside. Don't forget these garden tasks before you put your house on the market. 
+
+<https://www.sunset.com/home-garden/landscaping/landscape-garden-tasks-before-selling-house>
+
+---
+
+## The Ultimate Guide to Growing Tomatoes
+
+date: 2024-09-05, from: Sunset Magazine - Living in the West
+
+Our garden editor shares the best tips for how to grow tomatoes, from seed starting to homemade trellising, so your garden can thrive. 
+
+<https://www.sunset.com/home-garden/edible-gardening/how-to-grow-tomatoes>
 
 ---
 
@@ -162,16 +275,6 @@ date: 2024-09-04, from: Calfifornia Dept. Aggriculture blog
 CDFA joined USDA officials and congressional staff members last week to watch a detector dog in action at a FedEx facility in Orange County, on a tour organized by the California Agriculture Commissioners and Sealers Association (CACASA). “California operates an &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28123">Continue reading <span class="meta-nav">&#8594;</span></a> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28123>
-
----
-
-## 10 Things to Do in Your Garden Before You Put Your House on the Market
-
-date: 2024-09-04, from: Sunset Magazine - Living in the West
-
-Prepping to sell your house means fixing up the inside and outside. Don't forget these garden tasks before you put your house on the market. 
-
-<https://www.sunset.com/home-garden/landscaping/landscape-garden-tasks-before-selling-house>
 
 ---
 
@@ -274,16 +377,6 @@ date: 2024-09-04, from: Sunset Magazine - Living in the West
 Set yourself up for success this school year by organizing your dorm room with the right furniture, decor, and storage. 
 
 <https://www.sunset.com/home-garden/design/how-to-organize-dorm-room>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-09-04, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
 
 ---
 

@@ -1,11 +1,78 @@
 ---
 title: writing
-updated: 2024-09-05 09:37:27
+updated: 2024-09-06 08:44:47
 ---
 
 # writing
 
-(date: 2024-09-05 09:37:27)
+(date: 2024-09-06 08:44:47)
+
+---
+
+## Charles Payseur Reviews Short Fiction: Small Wonders, Flash Fiction Online, and Cast of Wonders
+
+date: 2024-09-06, from: Locus Magazine
+
+<p>Small Wonders 5/24
+Flash Fiction Online 5/24
+Cast of Wonders 5/29/24</p>
+<p>I’ll start off with May’s Small Wonders, a pub­lication dedicated to flash fiction and poetry, which includes <strong>Angel Leal</strong>’s powerful poem ‘‘<strong>Music of the Seraphim</strong>’’. A child meets an angel and is filled with a desire for something new – new experiences, a new body, a new place to be – and find their prayers and  <a href="https://locusmag.com/2024/09/charles-payseur-reviews-short-fiction-small-wonders-flash-fiction-online-and-cast-of-wonders/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/charles-payseur-reviews-short-fiction-small-wonders-flash-fiction-online-and-cast-of-wonders/>
+
+---
+
+## Fantasy, Science Fiction, and Horror in Spain
+
+date: 2024-09-06, from: Locus Magazine
+
+<p></p>
+<p>The genre is experiencing a blooming pe­riod. Big names like George R.R. Martin, Patrick Rothfuss, Brandon Sanderson, Andrzej Sapkowski, J.R.R. Tolkien, and Rob­ert Jordan sell hundreds of copies every week, thanks to television adaptations, but also, in recent years, fantastic fiction has been gaining ground over the other genres and is becoming, little by little, the main trend. For example, the most recent worldwide publishing phenomenon – although in Spain  <a href="https://locusmag.com/2024/09/fantasy-science-fiction-and-horror-in-spain/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/fantasy-science-fiction-and-horror-in-spain/>
+
+---
+
+## What to Expect When You’re Expecting a Chestburster: Arley Sorg and Josh Pearce Discuss Alien: Romulus
+
+date: 2024-09-06, from: Locus Magazine
+
+<p>As <strong>Alien: Romulus</strong> opens on a stunning starscape and clever title sequence, the Weyland-Yutani corporation is up to its usual tricks, recovering something foreboding from deep space and whisking it away for further study/experimentation.</p>
+<p>Sometime later, a mix of six friends and family conspire to escape the dismal conditions of a company-controlled mining colony. Unable to break their employment contracts with Weyland-Yutani, and facing deadly work environments, they hatch a  <a href="https://locusmag.com/2024/09/what-to-expect-when-youre-expecting-a-chestburster-arley-sorg-and-josh-pearce-discuss-alien-romulus/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/what-to-expect-when-youre-expecting-a-chestburster-arley-sorg-and-josh-pearce-discuss-alien-romulus/>
+
+---
+
+## 2024 NESFA Short Story Contest
+
+date: 2024-09-05, from: Locus Magazine
+
+<p>The New England Science Fiction Association (NESFA) SF/F short story contest is now open to entries.</p>
+<p>&#8220;The purpose of this contest is to encourage amateur and semi-professional writers to reach the next level of proficiency&#8230;. If you have received more than $1000 for your fiction writing from any source on the date you submit your story and/or have published, in any paying publication, a novel or multiple shorter works adding  <a href="https://locusmag.com/2024/09/2024-nesfa-short-story-contest/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/2024-nesfa-short-story-contest/>
+
+---
+
+## Garcia Wins 2024 Sturgeon Award
+
+date: 2024-09-05, from: Locus Magazine
+
+<p>&#8220;Tantie Merle and the Farmhand 4200&#8221; by R.S.A. Garcia (Uncanny, 7/23) is the winner of the 2024 Theodore Sturgeon Memorial Award for the best short science fiction story, presented by the J. Wayne and Elsie M. Gunn Center for the Study of Science Fiction.</p>
+<p>The second-place runner up was “Patsy Cline Sings Sweet Dreams to the Universe&#8221; by Beston Barnett (Strange Horizons 11/20/23). The third-place runner up was “The Year  <a href="https://locusmag.com/2024/09/garcia-wins-2024-sturgeon-award/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/garcia-wins-2024-sturgeon-award/>
+
+---
+
+## Hachette v. Internet Archive Update: Second Circuit Court of Appeals Rules Against Internet Archive
+
+date: 2024-09-05, from: Author's Union blog
+
+We got a disappointing decision yesterday from the Second Circuit Court of Appeals in the long-running Hachette v. Internet Archive (IA) copyright lawsuit about IA’s digitization and lending of books. The Court affirmed the district court’s decision that IA cannot circulate digital copies of books they have legitimately acquired in physical copies, even when only [&#8230;] 
+
+<https://www.authorsalliance.org/2024/09/05/hachette-v-internet-archive-update-second-circuit-court-of-appeals-rules-against-internet-archive/>
 
 ---
 

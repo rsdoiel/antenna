@@ -1,11 +1,137 @@
 ---
 title: central coast
-updated: 2024-09-05 09:37:25
+updated: 2024-09-06 08:44:45
 ---
 
 # central coast
 
-(date: 2024-09-05 09:37:25)
+(date: 2024-09-06 08:44:45)
+
+---
+
+## Bill Macfadyen: September Turns Up the Heat on Santa Barbara County
+
+date: 2024-09-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-090424-nws-heat-warning-map.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Seeing red." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-090424-nws-heat-warning-map.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-090424-nws-heat-warning-map.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-090424-nws-heat-warning-map.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-090424-nws-heat-warning-map.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-090424-nws-heat-warning-map.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-090424-nws-heat-warning-map.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-090424-nws-heat-warning-map.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-090424-nws-heat-warning-map.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-090424-nws-heat-warning-map.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-090424-nws-heat-warning-map.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-090424-nws-heat-warning-map.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-090424-nws-heat-warning-map.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-090424-nws-heat-warning-map.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>I’ll probably jinx them but it’s quite amazing how good the Los Angeles Dodgers are when their position players are all healthy at once. Of course, they’re still one of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bill-macfadyen-september-turns-up-the-heat-on-santa-barbara-county/">Bill Macfadyen: September Turns Up the Heat on Santa Barbara County</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bill-macfadyen-september-turns-up-the-heat-on-santa-barbara-county/>
+
+---
+
+## Moon Phasing
+
+date: 2024-09-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Matt-Udkow.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Moon phasing over Solvang." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Matt-Udkow.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Matt-Udkow.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Matt-Udkow.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Matt-Udkow.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Matt-Udkow.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Matt-Udkow.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Matt-Udkow.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Matt-Udkow.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Matt-Udkow.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Matt-Udkow.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Matt-Udkow.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Matt-Udkow.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Matt-Udkow.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/moon-phasing/">Moon Phasing</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/moon-phasing/>
+
+---
+
+## BizHawk: In a ‘Triumph of Patience,’ Alma Fonda Fina Opens in Montecito
+
+date: 2024-09-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-BizHawk-Ramon-Velasquez-Alan-Alba-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Ramon Velasquez, left, and Alan Alba recently opened Alma Fonda Fina in the Montecito Country Mart." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-BizHawk-Ramon-Velasquez-Alan-Alba-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-BizHawk-Ramon-Velasquez-Alan-Alba-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-BizHawk-Ramon-Velasquez-Alan-Alba-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-BizHawk-Ramon-Velasquez-Alan-Alba-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-BizHawk-Ramon-Velasquez-Alan-Alba-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-BizHawk-Ramon-Velasquez-Alan-Alba-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-BizHawk-Ramon-Velasquez-Alan-Alba-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-BizHawk-Ramon-Velasquez-Alan-Alba-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-BizHawk-Ramon-Velasquez-Alan-Alba-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-BizHawk-Ramon-Velasquez-Alan-Alba-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>He did it again. Ramon Velasquez worked his restaurant magic another time, this time on Coast Village Road in the Montecito Country Mart. Alma Fonda Fina, after nearly 10 years [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-in-a-triumph-of-patience-alma-fonda-fina-in-montecito-country-mart/">BizHawk: In a &#8216;Triumph of Patience,&#8217; Alma Fonda Fina Opens in Montecito</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bizhawk-in-a-triumph-of-patience-alma-fonda-fina-in-montecito-country-mart/>
+
+---
+
+## SpaceX Launches Another NRO Satellite Mission From Vandenberg SFB
+
+date: 2024-09-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-SpaceX-NRO-Launch-cont.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A Falcon 9 rocket carrying a payload for the National Reconnaissance Office lifts off from Vandenberg Space Force Base on Thursday night." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-SpaceX-NRO-Launch-cont.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-SpaceX-NRO-Launch-cont.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-SpaceX-NRO-Launch-cont.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-SpaceX-NRO-Launch-cont.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-SpaceX-NRO-Launch-cont.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-SpaceX-NRO-Launch-cont.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-SpaceX-NRO-Launch-cont.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-SpaceX-NRO-Launch-cont.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-SpaceX-NRO-Launch-cont.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-SpaceX-NRO-Launch-cont.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Carrying clandestine cargo, a Falcon 9 rocket lifted off into clear skies Thursday night at Vandenberg Space Force Base. The two-stage rocket built by SpaceX blasted off at 8:20 p.m. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/spacex-launches-another-nro-mission-from-vandenberg-sfb/">SpaceX Launches Another NRO Satellite Mission From Vandenberg SFB</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/spacex-launches-another-nro-mission-from-vandenberg-sfb/>
+
+---
+
+## Naloxone Training in Santa Barbara Puts Focus on Countering Opioid Overdoses
+
+date: 2024-09-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/90424-Naloxone-Training-DG-01.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Scott Burns of the Rotary Action Group for Addiction Prevention explains how to administer Naloxone through the nose using a practice device. Attendees were taught how to recognize an overdose and were given free doses of Naloxone." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/90424-Naloxone-Training-DG-01.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/90424-Naloxone-Training-DG-01.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/90424-Naloxone-Training-DG-01.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/90424-Naloxone-Training-DG-01.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/90424-Naloxone-Training-DG-01.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/90424-Naloxone-Training-DG-01.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/90424-Naloxone-Training-DG-01.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/90424-Naloxone-Training-DG-01.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/90424-Naloxone-Training-DG-01.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/90424-Naloxone-Training-DG-01.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>As opioid deaths continue across Santa Barbara County, community groups have started hosting trainings for administering naloxone, a medicine that rapidly reverses an opioid overdose. At a Tuesday night workshop [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/rotary-hosts-naloxone-training-to-help-combat-opioid-overdoses/">Naloxone Training in Santa Barbara Puts Focus on Countering Opioid Overdoses</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/rotary-hosts-naloxone-training-to-help-combat-opioid-overdoses/>
+
+---
+
+## SB Boys Water Polo Invitational Day 1: San Marcos Cruises to 15-5 Win Over Redlands
+
+date: 2024-09-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-water-polo-95.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-water-polo-95.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-water-polo-95.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-water-polo-95.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-water-polo-95.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-water-polo-95.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-water-polo-95.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-water-polo-95.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-water-polo-95.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-water-polo-95.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-water-polo-95.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>San Marcos opened up the Santa Barbara Boys Water Polo Invitational with a commanding 15-5 victory over Redlands East Valley on a sweltering Thursday afternoon at Elings Aquatic Center. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/sb-boys-water-polo-invitational-day-1-san-marcos-cruises-to-15-5-win-over-redlands/">SB Boys Water Polo Invitational Day 1: San Marcos Cruises to 15-5 Win Over Redlands</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sb-boys-water-polo-invitational-day-1-san-marcos-cruises-to-15-5-win-over-redlands/>
+
+---
+
+## Prep Girls Volleyball Roundup: Dos Pueblos Pulls Off Reverse Sweep of Ventura
+
+date: 2024-09-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Addie Low’s monster 26-kill performance vaulted Dos Pueblos girls volleyball to a five-set reverse sweep over the Ventura Cougars at Sovine Gym on Thursday, 22-25, 20-25, 25-22, 27-25, 16-14. “Addie [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-volleyball-roundup-san-marcos-remains-undefeated-in-league-play/">Prep Girls Volleyball Roundup: Dos Pueblos Pulls Off Reverse Sweep of Ventura</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-volleyball-roundup-san-marcos-remains-undefeated-in-league-play/>
+
+---
+
+## DA’s Office Review Finds Deadly Lompoc Police Shooting Was Justified
+
+date: 2024-09-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Lompoc-OIS-Amador1-cont.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Security footage shows Connor Jeffrey Amador, 21, at a convenience store in Lompoc before his confrontation with Lompoc police." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Lompoc-OIS-Amador1-cont.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Lompoc-OIS-Amador1-cont.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Lompoc-OIS-Amador1-cont.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Lompoc-OIS-Amador1-cont.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Lompoc-OIS-Amador1-cont.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Lompoc-OIS-Amador1-cont.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Lompoc-OIS-Amador1-cont.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Lompoc-OIS-Amador1-cont.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Lompoc-OIS-Amador1-cont.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Lompoc-OIS-Amador1-cont.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A Lompoc police officer was justified when he fatally shot a 21-year-old suicidal man armed with a machete and what appeared to be a gun last year as the incident [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/das-office-review-deadly-lompoc-police-shooting-justified/">DA&#8217;s Office Review Finds Deadly Lompoc Police Shooting Was Justified</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/das-office-review-deadly-lompoc-police-shooting-justified/>
+
+---
+
+## Dos Pueblos Girls Tennis Takes Down Rival San Marcos, 14-4
+
+date: 2024-09-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Dos Pueblos girls tennis bested San Marcos, 14-4, in a scorching crosstown rivalry matchup on Thursday at San Marcos’ campus. “A match that was almost postponed because of the heat [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dos-pueblos-girls-tennis-takes-down-rival-san-marcos-14-4/">Dos Pueblos Girls Tennis Takes Down Rival San Marcos, 14-4</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dos-pueblos-girls-tennis-takes-down-rival-san-marcos-14-4/>
+
+---
+
+## UCSB Women’s Soccer Battles to 0-0 Draw with New Mexico
+
+date: 2024-09-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The UC Santa Barbara Women&#8217;s Soccer team earned yet another shutout as they held the New Mexico Lobos off the scoreboard and secured a 0-0 draw in match one of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-womens-soccer-battles-to-0-0-draw-with-new-mexico/">UCSB Women&#8217;s Soccer Battles to 0-0 Draw with New Mexico</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-womens-soccer-battles-to-0-0-draw-with-new-mexico/>
 
 ---
 

@@ -1,11 +1,31 @@
 ---
 title: retro computing
-updated: 2024-09-05 09:37:31
+updated: 2024-09-06 08:44:51
 ---
 
 # retro computing
 
-(date: 2024-09-05 09:37:31)
+(date: 2024-09-06 08:44:51)
+
+---
+
+## b.log 2024/09/05 - The other parcel, Ghislaine de Feligonde, Blocked pipes, A new security camera, Running my battery low, Work woes.
+
+date: 2024-09-05, from: Richard Murray's blog
+
+The other parcel, Ghislaine de Feligonde, Blocked pipes, A new security camera, Running my battery low, Work woes. 
+
+<https://heyrick.eu/blog/index.php?diary=20240905>
+
+---
+
+## Developers’ fireside chat – 7th September
+
+date: 2024-09-05, from: RiscOS Story
+
+People interested in developing on or for RISC OS will have their next opportunity for a friendly, informal (virtual) get together on Saturday, 7th September, at the next friendly fireside chat. Whether you are fully conversant with the inner workings of the WIMP or are trying to work out what the programmers reference manual is saying on a certain page, or whether you are an advanced C programmer or someone whose BASIC is, well, basic, these meetings are for you. They provide a means for beginners and inexperienced programmers to&#8230; 
+
+<https://www.riscository.com/2024/developers-fireside-chat-7th-september/>
 
 ---
 
@@ -516,7 +536,7 @@ Nothing prevents you from entering bogus values or playing in the wrong column o
 <p>
 Here's a video. The WSSC source is <a href="https://github.com/classilla/workslate/tree/main/rps/rps.w">in Github</a>, with <a href="https://github.com/classilla/workslate/tree/main/rps/rps.ws">a ready-to-upload sheet</a>. We demonstrate a full game from start to finish, ending in clearing column A as a player would. Notice the recalculation progress indicator in the status row when we enter our moves, showing the number of cells yet to be evaluated counting down as computations complete.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyUWN7B7OzwfmkDXp59CicrZOWjUdrWxYothq1o2Qv1jBm4H2doarRxdbxBGRfyXtPKBnzkIf0PK8mLgWZvcw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyq4hhQNpad12NIeLyVdm4ADKoYfkjxC0PmdP4s5F_P_DU0bDnmupR8nVlz6UcCbW-gwTbj2tgYlz4gfaYg2A' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 <h3>Hack No. 2: Pie Charts on the WorkSlate</h3>
 <p>
@@ -590,7 +610,7 @@ I thought about graphing 51% to make the point, but eh, here's a quarter.
 <p>
 And here's a video. The Perl generator is <a href="https://github.com/classilla/workslate/tree/main/pie/piegen.pl">in Github</a>, with <a href="https://github.com/classilla/workslate/tree/main/pie/pie6.w">ready-to-assemble WSSC source</a> and <a href="https://github.com/classilla/workslate/tree/main/pie/pie6.ws">a ready-to-upload sheet</a> for radius "six" as displayed. We test 1%, 2%, 10%, 47%, 82%, 100%, 9999999999% and -3%.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz9GQdvsw0LNnMdoe8JH48n-oeYSTMdkqse8_RcKBlyMRRnP9OX36OTZy1YIZjmlXya2DUHCVi7MPyr9AVwZg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxgDJJK5Ruwr-5QicI7dP1a7Z0ZA8u_7T5g-qF040hCe9lAzABlEkaB4MklFxWGhgfdiDs2xs0hj2QpjfXArA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 Every time the pie is recalculated, you'll notice that the progress indicator always starts at 138. That's because there are exactly 138 cells in the circle, which is its precise on-screen area after rounding:
 <p>
@@ -671,7 +691,7 @@ which will both compute out to the same dimensions and same memory usage. We're 
 <p>
 Now we press Do It again in the Terminal to signal the test program to send the second version, again after a delay, and press Special-Do It in A1 to receive it with <tt>SheetIn()</tt> this time. The receive completes successfully, A2 changes to the new string &mdash; <em>and the machine crashes.</em> In fact, it crashes so hard that <em>all data is lost!</em> This is such an explosive bug I just have to show you a video of it:
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxBhZOjr1viQnmpsWzD6Iy9STMmnpZa8s4XfRxG41Q4K8sETOQR0IMy06DF819r9Ez4Vo32-dD-Lxtsj8xpig' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxOah8x86DR4PvKOrC4mSBKawJbsW01-1-Gyic-HE2kbBvmH2X7IZ9WSbCDOLuznEDLMF1KgCFgbkEUVKdZNw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 To make sure this wasn't a hardware failure, I tried it on both my units, and they both crash in the same way.
 <p>

@@ -1,11 +1,275 @@
 ---
 title: socal north
-updated: 2024-09-05 09:37:22
+updated: 2024-09-06 08:44:42
 ---
 
 # socal north
 
-(date: 2024-09-05 09:37:22)
+(date: 2024-09-06 08:44:42)
+
+---
+
+## Another heatwave expected to scorch SoCal. We have tips on staying cool
+
+date: 2024-09-06, updated: 2024-09-06, from: The LAist
+
+For those planning to go outside, don't. L.A. County could set an all-time record high. 
+
+<https://laist.com/news/climate-environment/la-weather-report-sept-6-excessive-heat-fire-weather-watch>
+
+---
+
+## The city of LA is giving out free AC units. Here’s how to get one
+
+date: 2024-09-06, updated: 2024-09-06, from: The LAist
+
+The event is for Angelenos aged 60 and older. 
+
+<https://laist.com/news/climate-environment/la-giving-out-free-ac-units-how-to-get-one>
+
+---
+
+## LA City Charter Amendment HH: City governance, appointments, and elections
+
+date: 2024-09-06, updated: 2024-09-06, from: The LAist
+
+Should the City Controller be able to audit contractors? Should harbor commissioners be from specific neighborhoods? This hodgepodge of charter amendments is meant to clarify rules that have caused confusion or to set new rules to address problems. 
+
+<https://laist.com/news/politics/2024-election-california-general-la-city-measure-hh-city-governance-appointments-elections>
+
+---
+
+## LA City Charter Amendment II: City administration and operations
+
+date: 2024-09-06, updated: 2024-09-06, from: The LAist
+
+Should city departments be allowed to sell food? Should the airport commission be allowed to set fees for ground transportation at LAX? This group of charter amendments is meant to clarify and update rules on city operations. 
+
+<https://laist.com/news/politics/2024-election-california-general-la-city-measure-ii-city-administration-and-operations>
+
+---
+
+## California Proposition 34: Controls spending of certain prescription drug revenues
+
+date: 2024-09-06, updated: 2024-09-06, from: The LAist
+
+This has been dubbed by opponents as a "revenge initiative." So far, it appears to target only one entity — the L.A.-based AIDS Healthcare Foundation. Why? Observers says it's really all about rent control. 
+
+<https://laist.com/news/politics/2024-election-california-general-proposition-34-prescription-drug-spending>
+
+---
+
+## Hope-O-Meter reveals promising outlook
+
+date: 2024-09-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan’s inaugural Hope-O-Meter survey shows forty participant’s beliefs.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/06/hope-o-meter-reveals-promising-outlook/">Hope-O-Meter reveals promising outlook</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/06/hope-o-meter-reveals-promising-outlook/>
+
+---
+
+## Men’s water polo splashes into fresh season
+
+date: 2024-09-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC will head to San Diego to open its 2024 campaign against two ranked teams.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/06/mens-water-polo-splashes-into-fresh-season/">Men’s water polo splashes into fresh season</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/06/mens-water-polo-splashes-into-fresh-season/>
+
+---
+
+## Soccer looks to cut down the Trees on the road
+
+date: 2024-09-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC’s first match with its rival Stanford since they both departed the Pac-12.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/06/soccer-looks-to-cut-down-the-trees-on-the-road/">Soccer looks to cut down the Trees on the road</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/06/soccer-looks-to-cut-down-the-trees-on-the-road/>
+
+---
+
+## In my goldfish era
+
+date: 2024-09-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The catch behind an athlete’s mental pillar.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/06/in-my-goldfish-era/">In my goldfish era</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/06/in-my-goldfish-era/>
+
+---
+
+## No. 13 USC heads home, faces Utah State
+
+date: 2024-09-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Following a big win in Las Vegas, the Trojans face a team they’ve never lost to.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/06/no-13-usc-heads-home-faces-utah-state/">No. 13 USC heads home, faces Utah State</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/06/no-13-usc-heads-home-faces-utah-state/>
+
+---
+
+## Classifieds – September 6, 2024
+
+date: 2024-09-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/06/classifieds-september-6-2024/">Classifieds &#8211; September 6, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/06/classifieds-september-6-2024/>
+
+---
+
+## EEO-TIX, OPE release inaugural report
+
+date: 2024-09-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Analysis shows high levels of reports of misconduct among other universities.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/06/eeo-tix-ope-release-inaugural-report/">EEO-TIX, OPE release inaugural report</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/06/eeo-tix-ope-release-inaugural-report/>
+
+---
+
+## New boba cafe embraces the classics but not much else
+
+date: 2024-09-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Yoboseyo Superette doesn’t offer much to students who don’t enjoy mediocre drinks.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/06/new-boba-cafe-embraces-the-classics-but-not-much-else/">New boba cafe embraces the classics but not much else</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/06/new-boba-cafe-embraces-the-classics-but-not-much-else/>
+
+---
+
+## Cozy book releases to curl up with this fall
+
+date: 2024-09-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Welcome in the autumn season with these highly anticipated literary releases.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/06/cozy-book-releases-to-curl-up-with-this-fall/">Cozy book releases to curl up with this fall</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/06/cozy-book-releases-to-curl-up-with-this-fall/>
+
+---
+
+## Letter to the Editor- Please stop asking questions
+
+date: 2024-09-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/09/06/letter-to-the-editor-please-stop-asking-questions/">Letter to the Editor- Please stop asking questions</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/06/letter-to-the-editor-please-stop-asking-questions/>
+
+---
+
+## You won’t find your soulmate at EVK – or will you?
+
+date: 2024-09-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/09/06/you-wont-find-your-soulmate-at-evk-or-will-you/">You won&#8217;t find your soulmate at EVK &#8211; or will you?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/06/you-wont-find-your-soulmate-at-evk-or-will-you/>
+
+---
+
+## SoCal is baking. Here's how to know the (crucial) difference between heat exhaustion and heat stroke
+
+date: 2024-09-05, updated: 2024-09-05, from: The LAist
+
+Both are unpleasant, but one can be fatal. We break it down. 
+
+<https://laist.com/news/health/la-excessive-heat-illness-stroke-exhaustion>
+
+---
+
+## ASUCLA Board of Directors recap – Aug. 30
+
+date: 2024-09-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+The ASUCLA Board of Directors held its second meeting of the 2024-2025 term Aug. 30.
+The board, which is composed of a student majority, has financial oversight over ASUCLA entities, including the Undergraduate Students Association Council, the Graduate Student Association and the ASUCLA Communications Board &#8211; which oversees UCLA Student Media. 
+
+<https://dailybruin.com/2024/09/05/asucla-board-of-directors-recap-aug-30/>
+
+---
+
+## Current, former UCLA beach volleyball athletes compete in AVP summer tournaments
+
+date: 2024-09-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+As the summer AVP Heritage Series and Contender Events wrap up, former and current Bruins showcased their talents on the sand. The series is sponsored by the AVP – the premier professional beach volleyball league in the United States – featuring top athletes from around the country while offering crucial ranking points for the AVP league. 
+
+<https://dailybruin.com/2024/09/05/current-former-ucla-beach-volleyball-athletes-compete-in-avp-summer-tournaments/>
+
+---
+
+## Innovative Ways Students Can Stay Informed About Consumer Laws
+
+date: 2024-09-05, from: The Sundail (CSUN Student Newspaper)
+
+(Image created by Copilot) You&#8217;ve bought your first car, only to find out it&#8217;s a lemon. You feel swindled, right? Knowledge is power. Staying informed about consumer laws can save... 
+
+<https://sundial.csun.edu/184345/sundialbrandstudio/independent-legal-guide/innovative-ways-students-can-stay-informed-about-consumer-laws-2/>
+
+---
+
+## How Pet Companions Boost Student Success
+
+date: 2024-09-05, from: The Sundail (CSUN Student Newspaper)
+
+Source: Flickr Because it requires us to juggle classes, assignments, and social commitments, college life can be an overwhelming experience that leaves students feeling overwhelmed and stressed. But what if... 
+
+<https://sundial.csun.edu/184342/sundialbrandstudio/sundial-marketplace/how-pet-companions-boost-student-success/>
+
+---
+
+## Creating Community at The Roller Rink
+
+date: 2024-09-05, from: City of Santa Clarita
+
+<p>By Councilmember Laurene Weste After being part of the Parks and Recreation Commission in the early 90s and spending nearly 30 years on the City Council, my life has been dedicated to creating a community where residents and businesses feel welcomed and safe here in Santa Clarita. From our award-winning facilities, 38 parks, miles of [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/05/creating-community-at-the-roller-rink/">Creating Community at The Roller Rink</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/05/creating-community-at-the-roller-rink/>
+
+---
+
+## How to Enhance Your University Club’s Branding
+
+date: 2024-09-05, from: The Sundail (CSUN Student Newspaper)
+
+Source:Flickr Strong branding helps attract new members, build credibility, and create a lasting impression within the university community. Yet, many clubs underestimate the power of effective branding or aren’t sure... 
+
+<https://sundial.csun.edu/184329/sundialbrandstudio/sundial-marketplace/how-to-enhance-your-university-clubs-branding-2/>
+
+---
+
+## UCLA women’s volleyball aims to lengthen win streak after season opening triumphs
+
+date: 2024-09-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+The AVCA has the Bruins cracking into the top 25 for the first time in exactly two years. 
+Less than a week after playing in Atlanta, the Bruins are heading back to the American Southeast &#8211; this time, to Knoxville, Tennessee. 
+
+<https://dailybruin.com/2024/09/05/ucla-womens-volleyball-aims-to-lengthen-win-streak-after-season-opening-triumphs/>
 
 ---
 

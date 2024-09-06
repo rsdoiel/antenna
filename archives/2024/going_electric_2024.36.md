@@ -1,11 +1,205 @@
 ---
 title: going electric
-updated: 2024-09-05 09:37:33
+updated: 2024-09-06 08:44:52
 ---
 
 # going electric
 
-(date: 2024-09-05 09:37:33)
+(date: 2024-09-06 08:44:52)
+
+---
+
+## Tesla Semi trucks were spotted in numbers coming out of the factory
+
+date: 2024-09-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Tesla-Semi-fleet-factory.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla Semi electric trucks were spotted in numbers coming out of its pilot factory for the first time. What’s happening?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-semi" data-layer-viewtype="unknown" data-post-id="378686" href="https://electrek.co/2024/09/06/tesla-semi-trucks-were-spotted-in-numbers-coming-out-of-the-factory/#more-378686" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/06/tesla-semi-trucks-were-spotted-in-numbers-coming-out-of-the-factory/>
+
+---
+
+## Toyota slashes EV production plans by 30% as supplier brace for impact
+
+date: 2024-09-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Toyota-sales-BYDs-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/toyota/">Toyota</a> revealed plans to cut EV production by a third to its suppliers. The new plans include building roughly 500,000 fewer electric cars by 2026 than initially planned.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="378688" href="https://electrek.co/2024/09/06/toyota-slashes-ev-production-plans-30-notifying-suppliers/#more-378688" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/06/toyota-slashes-ev-production-plans-30-notifying-suppliers/>
+
+---
+
+## UK Dealers Are 'Rationing' Gas Cars And Pushing EVs To Meet Government Quota
+
+date: 2024-09-06, from: Inside EVs News
+
+At least 22% of new cars sold in the U.K. in 2024 were supposed to be electric, but the target isn’t being met. 
+
+<https://insideevs.com/news/732826/uk-dealers-rationing-combustion-cars/>
+
+---
+
+## Toyota Cuts EV Goals, Also Gets Billions In Battery Subsidies From Japan
+
+date: 2024-09-06, from: Inside EVs News
+
+Also on Critical Materials: More on the German auto industry's "multiple challenges," and South Korea forces EV makers to name names. 
+
+<https://insideevs.com/news/732762/toyota-battery-cuts-cm-sept/>
+
+---
+
+## This Unassuming Bus Is An EREV That Runs On Ethanol–The World’s First
+
+date: 2024-09-06, from: Inside EVs News
+
+It has a tiny combustion engine, a generator and an LFP battery pack. 
+
+<https://insideevs.com/news/732813/volare-attack-9-erev-ethanol-bus/>
+
+---
+
+## 2025 Hyundai Ioniq 5 N Owners Can Get A Free Home EV Charger
+
+date: 2024-09-06, from: Inside EVs News
+
+Alternatively, they can choose credits that can be used to top-up the performance EV at ChargePoint stalls across the U.S. 
+
+<https://insideevs.com/news/732778/2025-hyundai-5-n-free-home-charger/>
+
+---
+
+## Upcoming Electric Cars Dominate Google Search. Here Are The Most Popular Cars
+
+date: 2024-09-06, from: Inside EVs News
+
+The majority of Google searches for upcoming cars are for EVs, including one that will never see the light of day. 
+
+<https://insideevs.com/news/732758/upcoming-popular-evs-google-search/>
+
+---
+
+## Fred sells his Tesla shares, Seth drives an EX90, and Ford Pro’s Mark Poll stops by
+
+date: 2024-09-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/fred_tsla.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s thrilling episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we have a heartfelt message from one of the OG Tesla fans, our fearless leader test drives the all-new Volvo EX90 in California, and I talk through the Ford Pro fleet management solution with its Sr. Product Manager, Mark Poll.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-pro-charging,quick-charge,tsla" data-layer-viewtype="unknown" data-post-id="378678" href="https://electrek.co/2024/09/05/fred-sells-his-tesla-shares-seth-drives-an-ex90-and-ford-pros-mark-poll-stops-by/#more-378678" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/05/fred-sells-his-tesla-shares-seth-drives-an-ex90-and-ford-pros-mark-poll-stops-by/>
+
+---
+
+## Genesis Electrified G80 update launches with more range, a roomier interior, and new style
+
+date: 2024-09-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Genesis-Electrified-G80-update-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/genesis-electrified-g80/">Genesis Electrified G80</a> has been upgraded to the flagship level in its latest reboot. Genesis launched the Electrified G80 update in Korea with a roomier interior, more range and features, and a sleek new style.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis,genesis-electrified-g80" data-layer-viewtype="unknown" data-post-id="378666" href="https://electrek.co/2024/09/05/genesis-electrified-g80-update-more-range-luxury-style/#more-378666" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/05/genesis-electrified-g80-update-more-range-luxury-style/>
+
+---
+
+## 'Full Self-Driving' Teslas Still Can't Reverse. That May Change Soon
+
+date: 2024-09-05, from: Inside EVs News
+
+Tesla has hyped up FSD as the future of driving for years. Soon, Tesla says it'll finally be able to drive in reverse.  
+
+<https://insideevs.com/news/732705/tesla-full-self-driving-reverse/>
+
+---
+
+## Toyota and Nissan want to challenge China’s EV battery reign
+
+date: 2024-09-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Toyota-Land-Cruiser-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/toyota/">Toyota</a> and Nissan are among several Japanese companies that will invest $7 billion (1 trillion yen) to boost the nation’s EV battery output. The Japanese government will help as it aims to establish a domestic supply chain while moving away from China and South Korea, which currently dominate the market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,toyota" data-layer-viewtype="unknown" data-post-id="378653" href="https://electrek.co/2024/09/05/toyota-nissan-challenge-chinas-ev-battery-reign/#more-378653" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/05/toyota-nissan-challenge-chinas-ev-battery-reign/>
+
+---
+
+## Review: Volvo EX90 is a smooth AWD 7-seat luxury kid-hauler
+
+date: 2024-09-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/image_1bb20b.png?w=1244" /></div><p>Volvo flew us to Newport Beach, California, to test its new EX90 7-seat AWD SUV. For many people, including my family, this is the holy grail of EVs. It is part electric luxury sports sedan, part four-wheel-drive off-roader and trailer hauler, and most importantly, part minivan. </p>
+
+
+
+<p>How well do these come together? Let’s see…</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo,volvo-ex90" data-layer-viewtype="unknown" data-post-id="378389" href="https://electrek.co/2024/09/05/review-volvo-ex90-is-a-smooth-awd-7-seat-luxury-kid-hauler/#more-378389" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/05/review-volvo-ex90-is-a-smooth-awd-7-seat-luxury-kid-hauler/>
+
+---
+
+## Hyundai launches lower-priced IONIQ 5, IONIQ 6, and Kona Electric in Korea
+
+date: 2024-09-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Hyundai-IONIQ-5-tax-credit.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s electric vehicles are becoming more affordable in Korea. <span style="box-sizing: border-box; margin: 0px; padding: 0px;">Hyundai unveiled new E-Value + trims for the IONIQ 5, IO</span>NIQ 6, and Kona EVs in its home market. The cheaper <a href="https://electrek.co/guides/hyundai/">Hyundai</a> EVs use the same battery as the standard models and start at around $22,500 with incentives. Will the new models make their way to the US?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="378619" href="https://electrek.co/2024/09/05/hyundai-launches-cheaper-ioniq-5-6-kona-evs-korea/#more-378619" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/05/hyundai-launches-cheaper-ioniq-5-6-kona-evs-korea/>
+
+---
+
+## RadRover 6 Plus e-bike $200 off + FREE $499 battery, Segway e-scooter $425 low, Jackery  power station $270 off, more
+
+date: 2024-09-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/radrover-6-plus-header.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s time for another edition of our daily Green Deals roundup, but don’t spend too much time reading this if you’re looking to score today’s offer on the <a href="https://9to5toys.com/2024/09/05/radrover-6-plus-fat-tire-e-bike-deal/">RadRover 6 Plus Electric Fat Tire Bike</a>. It’s now <a href="https://9to5toys.com/2024/09/05/radrover-6-plus-fat-tire-e-bike-deal/"><strong>$200 off</strong></a> with <a href="https://9to5toys.com/2024/09/05/radrover-6-plus-fat-tire-e-bike-deal/">a <strong>FREE</strong> $499 extra battery</a> thrown-in for today only, and it’s already starting to sell out. We also spotted the best price of the year on <a href="https://9to5toys.com/2024/09/05/segway-ninebot-f35-electric-scooter-sale/">Segway Ninebot F35 Electric Scooter </a>joined by some solid price drops on <a href="https://9to5toys.com/2024/09/05/jackery-explorer-1000-v2-portable-power-station/">Jackery Explorer 1000 v2 Portable Power Station</a> and this <a href="https://9to5toys.com/2024/09/05/greenworks-140-mph-48v-brushless-leaf-blower-kit/">Greenworks 48V Brushless Leaf Blower Kit </a>to make sure you’re fall ready at a discount, and gas-free. </p>
+
+
+
+<p>Head below for more and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="378629" href="https://electrek.co/2024/09/05/radrover-6-plus-e-bike-free-battery-deal/#more-378629" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/05/radrover-6-plus-e-bike-free-battery-deal/>
+
+---
+
+## Oxford commercializes its 20% more powerful solar panels in the US
+
+date: 2024-09-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Oxford-PV-integrated-production-line-in-Brandenburg-Photo-by-Oxford-PV-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>University of Oxford spin-off <a href="https://www.oxfordpv.com/">Oxford PV</a> has revealed a “world-first” commercial sale of its tandem solar panels that produce 20% more energy than standard silicon panels.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="378621" href="https://electrek.co/2024/09/05/oxford-commercializes-its-20-more-powerful-solar-panels-in-the-us/#more-378621" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/05/oxford-commercializes-its-20-more-powerful-solar-panels-in-the-us/>
 
 ---
 
@@ -71,7 +265,7 @@ date: 2024-09-05, from: Electrek Feed
 
 ---
 
-## Volkswagen Chief Warns Brand Has "One, Maybe Two" Years To Get It Together
+## Volkswagen Chief Warns Brand Has 'One, Maybe Two' Years To Get It Together
 
 date: 2024-09-05, from: Inside EVs News
 
@@ -114,6 +308,10 @@ date: 2024-09-05, from: Electrek Feed
 date: 2024-09-05, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time that includes new e-bike launches from Radio Flyer and Fucare, Denver’s popular e-bike subsidies, Australia Post using new electric motorbikes for mail delivery, Talaria Sting Pro MX5 launch, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Wheel-E_9-5-24.mp3"></audio></figure>
 
 
 

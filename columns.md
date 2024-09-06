@@ -1,11 +1,360 @@
 ---
 title: columns
-updated: 2024-09-05 09:37:26
+updated: 2024-09-06 08:44:45
 ---
 
 # columns
 
-(date: 2024-09-05 09:37:26)
+(date: 2024-09-06 08:44:45)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-06, from: Dave Winer's Scripting News)
+
+Journalism doesn't come back from the election of 2024, any more than the Republican Party does. 
+
+<http://scripting.com/2024/09/06.html#a154037>
+
+---
+
+##  Elite athletes are using a new baking soda formulation to boost athletic... 
+
+date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045209-elite-athletes-are-using->
+
+---
+
+## YubiKey Side-Channel Attack
+
+date: 2024-09-06, updated: 2024-09-06, from: Bruce Schneier blog
+
+<p>There is a side-channel attack against YubiKey access tokens that allows someone to clone a device. It&#8217;s a <a href="https://ninjalab.io/wp-content/uploads/2024/09/20240903_eucleak.pdf">complicated attack</a>, requiring the victim&#8217;s username and password, and physical access to their YubiKey&#8212;as well as some technical expertise and equipment.</p>
+<p>Still, nice piece of security analysis.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/09/yubikey-side-channel-attack.html>
+
+---
+
+## History Extra for September 5, 2024
+
+date: 2024-09-06, from: Heather Cox Richardson blog
+
+On September 6, 1901, former steel worker Leon Czolgosz shot President William McKinley at the Pan-American Exposition, a World&#8217;s Fair in Buffalo, New York. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-september-5-2024>
+
+---
+
+##  The Harris campaign posted a TikTok of Donald Trump talking about his... 
+
+date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045236-the-harris-campaign-poste>
+
+---
+
+##  Detailed Miniature &#8220;Sculptures of Urban Decay&#8221; 
+
+date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/detailed-miniature-sculptures-of-urban-decay>
+
+---
+
+## 2024-09-06 Reactions
+
+date: 2024-09-06, from: Alex Schroeder's Blog
+
+<h1 id="2024-09-06-reactions">2024-09-06 Reactions</h1>
+
+<p>Reactions are an interesting thing.
+Even simple ❤️ or ⭐ reactions have an effect on how we communicate.
+Do we feel appreciated? Heard?
+Is this the end of the conversation?
+The replies get shorter, it&rsquo;s time to say good-bye, the last message gets a &ldquo;like&rdquo; and we&rsquo;re done.</p>
+
+<p>My first contact with reactions was Twitter and Facebook, I think.
+Both accounts have been deleted.</p>
+
+<p>On <a href="https://signal.org/">Signal</a> and <a href="https://discord.com/">Discord</a>, I noticed people using reactions in my gaming groups. There is no notification for these reactions.</p>
+
+<div class="chat">
+<style>
+.chat {
+    padding: 20px; }
+.chat p {
+    color: #000;
+    padding: 3px 1ch;
+    max-width: 50ch;
+    width: max-content;
+    border-radius: 6px; border: 1px outset #eee; }
+.chat span {
+    display: inline-block;
+    background-color: #eee;
+    padding: 2px 3px;
+    margin: 2px;
+    border-radius: 6px; border: 1px outset #eee; }
+}
+</style>
+<p>Alex 🌈 🦄 🧞 Sound engineer be engineering the sound!<br>
+   <span>🎵 1</span> <span>🛠️ 2</span> <span>👍 1</span>
+</div>
+
+<p>On <a href="https://threema.ch/">Threema</a>, on the other hand, where most of my friends and family are, there&rsquo;s just 👍 and 👎 and practically nobody uses it.
+People just reply with emojis instead of reacting with emojis.
+These being ordinary messages ensure that I get notified.</p>
+
+<div class="chat">
+<style>
+.chat .me {
+    background: #ddd;
+    margin: 1pt 5ch 1pt 0; }
+.chat .you {
+    background: #8fd;
+    margin: 1pt auto 1pt 5ch; }
+</style>
+<p class="me">Look at this, it says "bananen" but for a moment I thought it said "banomen".
+<p class="you">🤔
+<p class="me">Like "baverben". 😂
+<p class="you">🤨
+</div>
+
+<p>The user interface issue for reactions is tricky in chat, because reactions are associated with the message and don&rsquo;t trigger their own notification.
+I think this is fine but the result is that only immediate reactions are useful.
+If somebody goes through older messages of mine to react to them, I won&rsquo;t see them.
+They&rsquo;ve scrolled of my screen.</p>
+
+<p>Reactions in <a href="https://en.wikipedia.org/wiki/Fediverse">fedi</a> clients where they repeat the message being reacted to and they are aggregated and grouped per day (like in <a href="https://apps.apple.com/us/app/toot-for-mastodon/id1229021451">Toot!</a>), they work surprisingly well.</p>
+
+<p>In a corporate context, for email, as implemented by Microsoft in Outlook, for example, I feel that reactions are not cool.
+At work, people started reacting with 👍 instead of writing back &ldquo;I agree&rdquo; and now I can&rsquo;t just look at my inbox, I get a new notification sidebar with notifications to watch, and since there&rsquo;s not enough context to the reaction in the sidebar, I have to click through and look at the old email again. This is wasting my time using a bad user interface and it feels disrespectful because it brings reactions from a friends and family context (where I appreciate them) into my work context (where I do not).</p>
+
+<p><a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p>
+
+<p><strong>2024-09-06</strong>. <a href="https://idiomdrottning.org/likes-and-reactions">Likes and Reactions</a> by <a class="account" href="https://idiomdrottning.org/users/Sandra" title="@Sandra@idiomdrottning.org">@Sandra</a>.</p> 
+
+<https://alexschroeder.ch/view/2024-09-06-reactions>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-06, from: Dave Winer's Scripting News)
+
+I got a beautiful new <a href="https://store.google.com/us/product/pixel_9_pro">Pixel 9 Pro</a> yesterday. It was amazingly easy to move the data from the old phone to the new one. Just turn both on near each other, and click a couple of dialogs. Haven't used it for anything yet. Will report. 
+
+<http://scripting.com/2024/09/06.html#a131022>
+
+---
+
+## Quick tip: using flatMap() to extract data from a huge set without any loop
+
+date: 2024-09-06, from: Chris Heilmann's blog
+
+I just created a massive dataset of all the AI generated metadata of the videos of the WeAreDeveloper World Congress and I wanted to extract only the tags. The dataset is a huge array with each item containing a description, generated title, an array of tags, the original and their title, like this: { &#8220;description&#8221;: [&#8230;] 
+
+<https://christianheilmann.com/2024/09/06/quick-tip-using-flatmap-to-extract-data-from-a-huge-set-without-any-loop/>
+
+---
+
+## Spreading the Truth about the 2024 election (Video #1: Trump’s Project 2025) 
+
+date: 2024-09-06, from: Robert Reich's blog
+
+Please share! 
+
+<https://robertreich.substack.com/p/spreading-the-truth-about-the-2024>
+
+---
+
+## No more “Expert, Intermediate, Beginner”: Classifying talks in Call for Papers/Conference agendas
+
+date: 2024-09-06, from: Chris Heilmann's blog
+
+I am currently working on creating the new Call for Papers for the next WeAreDevelopers World Congress and one of the feedback items we got was that levels like &#8220;Expert, Intermediate and Beginner&#8221; don&#8217;t make much sense. First of all, speakers do not choose the right level as they are worried that a beginner or [&#8230;] 
+
+<https://christianheilmann.com/2024/09/06/no-more-expert-intermediate-beginner-classifying-talks-in-call-for-papers-conference-agendas/>
+
+---
+
+## September 5, 2024
+
+date: 2024-09-06, from: Heather Cox Richardson blog
+
+The U.S. 
+
+<https://heathercoxrichardson.substack.com/p/september-5-2024>
+
+---
+
+## Friday 6 September, 2024
+
+date: 2024-09-05, from: John Naughton's online diary
+
+The Bridge Crossing the Severn last Sunday. Quote of the Day I stand against confiscatory taxes, totalitarian collectives and the ideology of the inevitability of the death of every individual. I no longer believe that freedom and democracy are compatible.” &#8230; <a href="https://memex.naughtons.org/friday-6-september-2024/39837/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-6-september-2024/39837/>
+
+---
+
+## Feds Say Russia is Meddling Again
+
+date: 2024-09-05, from: Dan Rather's Steady
+
+Who exactly is on the ballot &#8212; Trump or Putin? 
+
+<https://steady.substack.com/p/feds-say-russia-is-meddling-again>
+
+---
+
+##  An introduction to the latest iteration of Dynamicland&#8217;s Realtalk, a prototype of... 
+
+date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045234-an-introduction-to-the-la>
+
+---
+
+## Out of Time
+
+date: 2024-09-05, from: Om Malik blog
+
+We&#160;are&#160;now living&#160;in a time&#160;of&#160;half-truths&#160;and&#160;a looming&#160;information&#160;crisis. The main strength of old&#160;media companies is their&#160;name&#160;and&#160;role&#160;as&#160;arbiters&#160;of truth and&#160;facts. This means they must avoid acts&#160;that&#160;harm&#160;their&#160;name&#160;and trust. Sadly, fewer and fewer media&#160;firms grasp this idea.&#160; The New York Times risks alienating its core “blue state” audience by publishing provocative headlines aimed at generating traffic, potentially jeopardizing long-term loyalty. This approach may cheapen the newspaper’s brand. A recent example of a &#8230; 
+
+<https://om.co/2024/09/05/out-of-time/>
+
+---
+
+##  Cars Have Fucked Up This Country Bad. &#8220;On average, America is an... 
+
+date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045233-cars-have-fucked-up-this>
+
+---
+
+##  A working thumper from Dune built out of Lego. (Working as in... 
+
+date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045228-a-working-thumper-from-du>
+
+---
+
+## Reminder: Tomorrow starts our video series “Spreading the Truth About the 2024 Election,” for you to share!
+
+date: 2024-09-05, from: Robert Reich's blog
+
+Video #1 will be posted tomorrow morning, right here. 
+
+<https://robertreich.substack.com/p/reminder-tomorrow-starts-our-video>
+
+---
+
+## History Extra for September 4, 2024
+
+date: 2024-09-05, from: Heather Cox Richardson blog
+
+In his Farewell Address, the nation&#8217;s first president, George Washington warned of the dangers of foreign entanglements. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-september-4-2024>
+
+---
+
+##  Einstein&#8217;s Nuclear Warning Letter to FDR Up For Auction 
+
+date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/einsteins-nuclear-warning-letter-to-fdr-up-for-auction>
+
+---
+
+## Spotify Wants to Use iPhone Volume Buttons to Control Connected Devices, But Refuses to Support AirPlay, Which Would Solve the Problem
+
+date: 2024-09-05, updated: 2024-09-05, from: Daring Fireball
+
+ 
+
+<https://techcrunch.com/2024/08/29/spotify-points-finger-at-apple-over-an-unwelcome-change-to-volume-control-technology/>
+
+---
+
+##  This is a website you can only visit once. (I mean, technically... 
+
+date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045213-this-is-a-website-you>
+
+---
+
+## Adaptations
+
+date: 2024-09-05, from: Dave Winer's Scripting News
+
+<p>I asked ChatGPT to adapt two images.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/09/05/grandpaAndTedCruz.png"></center>Grandpa from The Munsters and Ted Cruz, US senator from Texas. </div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/09/05/adaptationOfTedCruzAndGrandpa.png"></center>The adaptation is pretty nice. </div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/09/05/losPollosHermanos.png"></center>Another pair, the logo of Los Pollos Hermanos from Breaking Bad. </div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/09/05/losPollosAdaptation.png"></center>The adaptation is thoughtful.</div></p>
+ 
+
+<http://scripting.com/2024/09/05/191114.html?title=adaptations>
+
+---
+
+##  Crash Course Art History, a playlist of 22 episodes with topics like... 
+
+date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045143-crash-course-art-history->
+
+---
+
+##  Goodbye for Now! And a Diary Comic 
+
+date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/goodbye-for-now-also-diary-comics>
+
+---
+
+##  &#8216;No Way To Prevent This,&#8217; Says Only Nation Where This Regularly Happens.... 
+
+date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045230-no-way-to-prevent-this-1>
+
+---
+
+##  Lies by scientists can kill people — falsified research on beta blockers... 
+
+date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045215-lies-by-scientists-can-ki>
 
 ---
 
@@ -634,6 +983,23 @@ date: 2024-09-03, from: Jeff Geerling blog
 </span> 
 
 <https://www.jeffgeerling.com/blog/2024/rf-safety-experiments-meat-pickles-demonstrate-foldback>
+
+---
+
+## What happens when you touch a Pickle to an AM radio tower?
+
+date: 2024-09-03, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">What happens when you touch a Pickle to an AM radio tower?</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>A few months ago, our <a href="https://www.instagram.com/insights/media/3333127873529510767/">AM radio hot dog experiment</a> went mildly viral. That was a result of me asking my Dad 'what would happen if you ground a hot dog to one of your AM radio towers?' He didn't know, so one night on the way to my son's volleyball practice, we tested it. And it was <em>awesome</em>.</p>
+
+<p>There's a video and some pictures in my <a href="https://www.jeffgeerling.com/blog/2024/talking-hot-dog-gives-new-meaning-ham-radio">hot dog radio blog post</a> from back in March.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-09-03T11:25:33-05:00" title="Tuesday, September 3, 2024 - 11:25" class="datetime">September 3, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower>
 
 ---
 
