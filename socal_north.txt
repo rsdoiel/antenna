@@ -46,8 +46,6 @@ http://civiewnews.com/feed/ "~CI View (CSCI Student Newspaper)"
 # Gabrielino Tribe feeds and be returning forbidden for a couple weeks, 2023-10-30 RSD
 #https://gabrielinotribe.org/tribal-news/feed/ "~Tongva Tribal News"
 https://laconservancy.tumblr.com/rss "~L.A. Conservancy Blog"
-https://theodorepayne.org/feed/ "~Theodore Paine Foundation"
-https://www.cnps.org/feed "~California Native Plants Society"
 
 #
 # Research Libraries and organizations
