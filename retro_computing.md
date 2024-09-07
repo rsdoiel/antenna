@@ -1,11 +1,31 @@
 ---
 title: retro computing
-updated: 2024-09-06 08:44:51
+updated: 2024-09-07 07:27:18
 ---
 
 # retro computing
 
-(date: 2024-09-06 08:44:51)
+(date: 2024-09-07 07:27:18)
+
+---
+
+## Rhino Linux Announces Latest "Quick Update"
+
+date: 2024-09-06, from: Linux Magazine
+
+<p>If you prefer your Linux distribution to be of the rolling type, Rhino Linux delivers a beautiful and reliable experience.</p> 
+
+<http://www.linux-magazine.com/Online/News/Rhino-Linux-Announces-Latest-Quick-Update>
+
+---
+
+## The Truth Is Out There, Part 1: The Will to Believe
+
+date: 2024-09-06, from: Digital Antiquarian
+
+The idea that there are visitors to the planet, that they are not only visiting now but have been visiting since prehistory, and how it affects us is a very interesting idea. I suppose, just looking up into the night sky at all those millions of stars up there, you wonder if it&#8217;s possible. I [&#8230;] 
+
+<https://www.filfre.net/2024/09/the-truth-is-out-there-part-1-the-will-to-believe/>
 
 ---
 
@@ -536,7 +556,7 @@ Nothing prevents you from entering bogus values or playing in the wrong column o
 <p>
 Here's a video. The WSSC source is <a href="https://github.com/classilla/workslate/tree/main/rps/rps.w">in Github</a>, with <a href="https://github.com/classilla/workslate/tree/main/rps/rps.ws">a ready-to-upload sheet</a>. We demonstrate a full game from start to finish, ending in clearing column A as a player would. Notice the recalculation progress indicator in the status row when we enter our moves, showing the number of cells yet to be evaluated counting down as computations complete.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyq4hhQNpad12NIeLyVdm4ADKoYfkjxC0PmdP4s5F_P_DU0bDnmupR8nVlz6UcCbW-gwTbj2tgYlz4gfaYg2A' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzBNVgndApH0ADukm8B3ZpOY4CuLXe2PicqZkYjE9JZlsC-zwF6AN2yvnJd88m7baBaDI_pb4IOte4w1bzB2w' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 <h3>Hack No. 2: Pie Charts on the WorkSlate</h3>
 <p>
@@ -610,7 +630,7 @@ I thought about graphing 51% to make the point, but eh, here's a quarter.
 <p>
 And here's a video. The Perl generator is <a href="https://github.com/classilla/workslate/tree/main/pie/piegen.pl">in Github</a>, with <a href="https://github.com/classilla/workslate/tree/main/pie/pie6.w">ready-to-assemble WSSC source</a> and <a href="https://github.com/classilla/workslate/tree/main/pie/pie6.ws">a ready-to-upload sheet</a> for radius "six" as displayed. We test 1%, 2%, 10%, 47%, 82%, 100%, 9999999999% and -3%.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxgDJJK5Ruwr-5QicI7dP1a7Z0ZA8u_7T5g-qF040hCe9lAzABlEkaB4MklFxWGhgfdiDs2xs0hj2QpjfXArA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dy_bB4Ue8CN-W0EMnKVC-mFPtuwC14MvlDl2NXO7O60l_FDj7-GD3uMtg6y5cRFe2Y2cRbMVKNUbaE1G4eJhQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 Every time the pie is recalculated, you'll notice that the progress indicator always starts at 138. That's because there are exactly 138 cells in the circle, which is its precise on-screen area after rounding:
 <p>
@@ -691,7 +711,7 @@ which will both compute out to the same dimensions and same memory usage. We're 
 <p>
 Now we press Do It again in the Terminal to signal the test program to send the second version, again after a delay, and press Special-Do It in A1 to receive it with <tt>SheetIn()</tt> this time. The receive completes successfully, A2 changes to the new string &mdash; <em>and the machine crashes.</em> In fact, it crashes so hard that <em>all data is lost!</em> This is such an explosive bug I just have to show you a video of it:
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxOah8x86DR4PvKOrC4mSBKawJbsW01-1-Gyic-HE2kbBvmH2X7IZ9WSbCDOLuznEDLMF1KgCFgbkEUVKdZNw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzFNaHo4a548Gs51D49TvilolmZQXLmPqx_M34pRPJakGEpaZx3z9QdKiab5u8HM9YS3FuW-tAwSxXF8YAiJw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 To make sure this wasn't a hardware failure, I tried it on both my units, and they both crash in the same way.
 <p>
@@ -826,4 +846,34 @@ date: 2024-09-01, from: Richard Murray's blog
 Some old satellite kit. 
 
 <https://heyrick.eu/blog/index.php?diary=20240901>
+
+---
+
+## b.log 2024/08/31 - A new soldering iron - Parkside PLSD 48 B2, A new wardrobe, Chronopost again, Lucy's repairs, Power lines.
+
+date: 2024-08-31, from: Richard Murray's blog
+
+A new soldering iron - Parkside PLSD 48 B2, A new wardrobe, Chronopost again, Lucy's repairs, Power lines. 
+
+<https://heyrick.eu/blog/index.php?diary=20240831>
+
+---
+
+## Plus Post: SoftLogic Solutions' Software Carousel
+
+date: 2024-08-31, from: Computer ads from the Past
+
+Get the best of Windows and OS/2 without learning all this. 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-softlogic-solutions-software>
+
+---
+
+## AMCOG’s Tony Bartram talks to WROCC – 4th September
+
+date: 2024-08-31, from: RiscOS Story
+
+Tony Bartram has around twenty titles in his AMCOG Games back catalogue, and is currently working on two more titles, both of which feature something new or novel for our platform, and he will be talking at the next Wakefield RISC OS Computer Club (WROCC) meeting, this coming Wednesday. The first of these is a 3D space game, which will be coming at you at the RISC OS London Show later this year &#8211; and when I say &#8216;coming at you&#8217; I mean that in a slightly more literal way&#8230; 
+
+<https://www.riscository.com/2024/amcog-wrocc-4th-september/>
 

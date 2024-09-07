@@ -1,11 +1,33 @@
 ---
 title: libraries
-updated: 2024-09-06 08:44:48
+updated: 2024-09-07 07:27:16
 ---
 
 # libraries
 
-(date: 2024-09-06 08:44:48)
+(date: 2024-09-07 07:27:16)
+
+---
+
+## The Theory of Moral Sentiments, by Adam Smith
+
+date: 2024-09-06, from: Standard Ebooks, new releaases
+
+Adam Smith assesses the sources of human morality and the role of human sympathies in judging the propriety of our actions and behaviors. 
+
+<https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments>
+
+---
+
+## ARL’s 2024 Labor/Labour Day Roundup
+
+date: 2024-09-06, from: Association of Research Libraries News
+
+<p>Last Updated on September 6, 2024, 5:14 pm ET The first Monday in September is commonly celebrated as Labor/Labour Day. The fight to improve conditions at the worksite didn’t happen...</p>
+<p>The post <a href="https://www.arl.org/blog/arls-2024-labor-labour-day-round-up/">ARL&#8217;s 2024 Labor/Labour Day Roundup</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/blog/arls-2024-labor-labour-day-round-up/>
 
 ---
 
@@ -104,6 +126,26 @@ date: 2024-09-04, from: Scholarly Kitchen
  
 
 <https://scholarlykitchen.sspnet.org/2024/09/04/make-attribution-mandatory-in-ai-licensing/>
+
+---
+
+## A Stochastic Decision-Support Framework for Exploring Strategic Pathways in 3D Concrete Printing
+
+date: 2024-09-04, from: ETH Zurich, recently added
+
+Walzer, Alexander N.; Kozlova, Mariia; Mohite, Ashish; Yeomans, Julian Scott; Hall, Daniel 
+
+<http://hdl.handle.net/20.500.11850/692648>
+
+---
+
+## Improving a 3D Concrete Printing Factory Using Stochastic Modelling for Decision-Support
+
+date: 2024-09-04, from: ETH Zurich, recently added
+
+Walzer, Alexander N.; Kozlova, Mariia; Mohite, Ashish; Yeomans, Julian Scott 
+
+<http://hdl.handle.net/20.500.11850/692647>
 
 ---
 

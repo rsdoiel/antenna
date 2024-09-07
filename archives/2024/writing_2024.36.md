@@ -1,11 +1,57 @@
 ---
 title: writing
-updated: 2024-09-06 08:44:47
+updated: 2024-09-07 07:27:14
 ---
 
 # writing
 
-(date: 2024-09-06 08:44:47)
+(date: 2024-09-07 07:27:14)
+
+---
+
+## 📰 #216 - As you already know...
+
+date: 2024-09-06, from: Interesting, a blog on writing
+
+Explaining exposition. 
+
+<https://inneresting.substack.com/p/216-as-you-already-know>
+
+---
+
+## Internet Archive Loses Appeal
+
+date: 2024-09-06, from: Locus Magazine
+
+<p>The Second Circuit Court of Appeals upheld the lower-court ruling against the Internet Archive (IA).</p>
+<p>The suit was first brought in 2020 by HarperCollins, Penguin Random House, Hachette Book Group, and Wiley, alleging “willful mass copyright infringement” by IA’s “National Emergency Library,” which offered unlimited borrows of over a million ebooks. Judge John Koeltl of New York Federal Court issued a summary judgment against IA on March 24, 2023.</p>
+<p>&#160; <a href="https://locusmag.com/2024/09/internet-archive-loses-appeal/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/internet-archive-loses-appeal/>
+
+---
+
+## WSFS Issues Apology
+
+date: 2024-09-06, from: Locus Magazine
+
+<p></p>
+<p>The following resolution passed at the 2024 Business Meeting of the World Science Fiction Society (WSFS), held during Glasgow 2024: A Worldcon for Our Futures, in Glasgow, Scotland, August 8-12, 2024:</p>
+<p>BE IT RESOLVED, that the World Science Fiction Society apologizes unreservedly to the nominators and voters of the 2023 Hugo Awards for any failures in the administration of the 2023 Hugo Awards; and</p>
+<p>The World Science Fiction Society apologizes  <a href="https://locusmag.com/2024/09/wsfs-issues-apology/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/wsfs-issues-apology/>
+
+---
+
+## Featured Friday: Curses
+
+date: 2024-09-06, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at how curses can be used as supernatural retribution, force characters to confront the worst parts of themselves, and how breaking them can drive the cursed to grow and change. Our collection [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-curses">Featured Friday: Curses</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/featured-friday-curses>
 
 ---
 
@@ -103,7 +149,7 @@ date: 2024-09-04, from: Locus Magazine
 
 date: 2024-09-04, from: Locus Magazine
 
-<p>Finalists fpr the 2024 Washington State Book Awards, presented by the Washington Center for the Book, have been announced, including titles and authors of genre interest.</p>
+<p>Finalists for the 2024 Washington State Book Awards, presented by the Washington Center for the Book, have been announced, including titles and authors of genre interest.</p>
 <p><strong>Bookshops &#38; Bonedust</strong> by Travis Baldree (Tor) and <strong>Jewel Box: Stories</strong> by E. Lily Yu (Erewhon) are among the six titles shortlisted in the Fiction category. <strong>The Golden Needle</strong> by T.J. Carroll (Cumberstone) and <strong>Painted Devils</strong> by Margaret Owen (Henry Holt) are among three  <a href="https://locusmag.com/2024/09/2024-washington-state-book-award-finalists/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/09/2024-washington-state-book-award-finalists/>
@@ -393,4 +439,26 @@ date: 2024-09-01, from: Locus Magazine
 <p>The September 2024 issue of Locus magazine has interviews with Catherynne M. Valente and Justin C. Key and a spotlight on artist Micaela Alcaino. The issue lists US and UK forthcoming books through June 2025. News covers 2024 Hugo Awards winners, the World Fantasy Awards ballot, Dragon Awards finalists, SFWA resignations, SF&#38;F Hall of Fame inductees Okorafor and Griffith, MacInnes&#8217;s Clarke win, additional Gaiman allegations, the Galaxy magazine revival, and  <a href="https://locusmag.com/2024/09/issue-764-table-of-contents-september-2024/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/09/issue-764-table-of-contents-september-2024/>
+
+---
+
+## Paul Di Filippo Reviews To Turn the Tide by S. M. Stirling
+
+date: 2024-08-31, from: Locus Magazine
+
+<p><strong>To Turn the Tide</strong>, S. M. Stirling (Baen 978-1982193539, hardcover, 464pp, $28.00) August 2024</p>
+<p>Time travel novels—recently, a trendy favorite of non-genre slipstream authors—have reached a state of incredible complexity. Multiverses, paradoxes, change wars, closed loops, and doppelgangers proliferate. This is all very entertaining, but sometimes it’s nice to read a simple, straightforward “person visits past, gets stuck, makes do” kind of book. A chrono-Robinsonade. That’s exactly what S.  <a href="https://locusmag.com/2024/08/paul-di-filippo-reviews-to-turn-the-tide-by-s-m-stirling/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/paul-di-filippo-reviews-to-turn-the-tide-by-s-m-stirling/>
+
+---
+
+## Jake Casella Brookins Reviews The Jaguar Mask by Michael J. DeLuca
+
+date: 2024-08-31, from: Locus Magazine
+
+<p><strong>The Jaguar Mask, </strong>Michael J. DeLuca (Stelliform 978-1-77809-260-2, 348pp, $19.00, tp) August 2024. Cover by Julia Louise Pereira.</p>
+<p>I was quite charmed by Michael J. DeLuca’s no­vella <strong>Night Roll</strong>, a solarpunk-adjacent fantasy set in Detroit. In his debut novel, <strong>The Jaguar Mask</strong>, DeLuca takes up a different kind of magic, but a similar kind of realism: a story of individuals and communities resisting oppression, on wounded but still  <a href="https://locusmag.com/2024/08/jake-casella-brookins-reviews-the-jaguar-mask-by-michael-j-deluca/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/08/jake-casella-brookins-reviews-the-jaguar-mask-by-michael-j-deluca/>
 

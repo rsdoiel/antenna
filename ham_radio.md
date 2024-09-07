@@ -1,11 +1,31 @@
 ---
 title: ham radio
-updated: 2024-09-06 08:44:44
+updated: 2024-09-07 07:27:11
 ---
 
 # ham radio
 
-(date: 2024-09-06 08:44:44)
+(date: 2024-09-07 07:27:11)
+
+---
+
+## National Preparedness Month: Have a Go Kit
+
+date: 2024-09-06, from: Amateur Radio Relay League News
+
+<p>September is National Preparedness Month, and ARRL is working to help radio amateurs have a plan for family resilience. Many hams enjoy public service as part of their operating. Being ready to activate for a served agency through the ARRL Amateur Radio Emergency Service® (ARES®) involves not only being licensed and trained, but also prepared and equipped.</p><p>ARRL Director of Emergency Management J...</p> 
+
+<http://www.arrl.org/news/view/national-preparedness-month-have-a-go-kit>
+
+---
+
+## Hams Respond as Hawaii Threatened by Three Major Storms
+
+date: 2024-09-06, from: Amateur Radio Relay League News
+
+<p>In late August, Hawaii’s big island was threatened by three major tropical storms and amateur radio operators were prepared to assist as the threat grew more intense. Russell Roberts, KH6JRM, Public Information Officer, Hawaii County, ARRL Pacific Section, said that beginning August 23, storm watches and warnings were being issued for tropical storms Hone, Gilma, and Hector, all churning off th...</p> 
+
+<http://www.arrl.org/news/view/hams-respond-as-hawaii-threatened-by-three-major-storms>
 
 ---
 

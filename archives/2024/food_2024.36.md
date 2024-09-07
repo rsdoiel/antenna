@@ -1,11 +1,81 @@
 ---
 title: food
-updated: 2024-09-06 08:44:53
+updated: 2024-09-07 07:27:20
 ---
 
 # food
 
-(date: 2024-09-06 08:44:53)
+(date: 2024-09-07 07:27:20)
+
+---
+
+## Milo’s Poultry Farms Just Recalled All of Its Eggs Due to a Major Salmonella Outbreak
+
+date: 2024-09-06, from: Taste of Home
+
+The FDA has launched an investigation of salmonella infections linked to eggs from Milo's Poultry Farms. 
+
+<https://www.tasteofhome.com/article/egg-recall-september-2024/>
+
+---
+
+## Cholula Original Hot Sauce Review
+
+date: 2024-09-06, from: Pepper Scale
+
+Cholula Original Hot Sauce is a tried-and-true generational Mexican hot sauce that’s sold around the world. It’s not too spicy with plenty of vinegar zing — a combo that’s meant to appeal to the masses. But how well is that heat and vinegar combo balanced? ... <p class="read-more-container"><a title="Cholula Original Hot Sauce Review" class="read-more button" href="https://pepperscale.com/cholula-original-hot-sauce/#more-84521" aria-label="Read more about Cholula Original Hot Sauce Review">Read more</a></p> 
+
+<https://pepperscale.com/cholula-original-hot-sauce/>
+
+---
+
+## Señor Lechuga Hot Sauce Review (.002)
+
+date: 2024-09-06, from: Pepper Scale
+
+You simply don&#8217;t know what to think when you see that label on a bottle of Señor Lechuga Hot Sauce (.002). So simple &#8211; to the point &#8211; listing a handful of primary ingredients, including chipotle peppers and Carolina Reapers, and seemingly random numbers. And ... <p class="read-more-container"><a title="Señor Lechuga Hot Sauce Review (.002)" class="read-more button" href="https://pepperscale.com/senor-lechuga-hot-sauce-002/#more-95333" aria-label="Read more about Señor Lechuga Hot Sauce Review (.002)">Read more</a></p> 
+
+<https://pepperscale.com/senor-lechuga-hot-sauce-002/>
+
+---
+
+## How to Tell If a Lime Is Ripe
+
+date: 2024-09-06, from: Taste of Home
+
+Never bring home a hard, dry lime again! Here's how to tell if a lime is ripe and ready to squeeze. 
+
+<https://www.tasteofhome.com/article/how-to-tell-if-a-lime-is-ripe/>
+
+---
+
+## 37 Anchovy, Sardine, and More Tiny Fish Recipes
+
+date: 2024-09-06, from: Bon Appetet
+
+Anchovy butter spaghetti, sardines on toast, and a proudly lazy Caesar. 
+
+<https://www.bonappetit.com/gallery/anchovy-sardine-tiny-fish-recipes>
+
+---
+
+## Chocolate Crepes
+
+date: 2024-09-06, from: Taste of Home
+
+If you think crepes are merely breakfast fare, our home economists insist you try these cream-filled chocolate crepes for dessert! —Taste of Home Test Kitchen 
+
+<https://www.tasteofhome.com/recipes/chocolate-crepes/>
+
+---
+
+## The Best Matcha Powder, According to Daily Matcha Drinkers
+
+date: 2024-09-06, from: Bon Appetet
+
+We tried a dozen matcha powders to find the very best one. 
+
+<https://www.bonappetit.com/story/best-matcha-powder>
 
 ---
 
@@ -636,4 +706,24 @@ date: 2024-09-01, from: Taste of Home
 Who needs tortillas when you can have zucchini taco boats? Cheesy taco meat stuffed in zucchini is an easy Taco Tuesday (or any day) dish that will be a hit with kids and adults alike.<!-- notionvc: b6493b17-178b-4873-8113-8e56c28b07ff --> 
 
 <https://www.tasteofhome.com/recipes/zucchini-taco-boats/>
+
+---
+
+## Cinnamon Roll Peach Cobbler
+
+date: 2024-08-31, from: Taste of Home
+
+Cinnamon roll peach cobbler combines a package of cinnamon rolls with your favorite summery dessert in the sweetest breakfast (or dessert) mashup. 
+
+<https://www.tasteofhome.com/recipes/cinnamon-roll-peach-cobbler/>
+
+---
+
+## Coca-Cola Chicken
+
+date: 2024-08-31, from: Taste of Home
+
+A can of Coke adds a secret something to the sweet and tangy barbecue-style sauce for these Coca-Cola chicken breasts. 
+
+<https://www.tasteofhome.com/recipes/cola-chicken/>
 

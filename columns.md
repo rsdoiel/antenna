@@ -1,11 +1,149 @@
 ---
 title: columns
-updated: 2024-09-06 08:44:45
+updated: 2024-09-07 07:27:13
 ---
 
 # columns
 
-(date: 2024-09-06 08:44:45)
+(date: 2024-09-07 07:27:13)
+
+---
+
+## More on Spotify Connect and iPhone Volume Buttons
+
+date: 2024-09-06, updated: 2024-09-06, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/2024/8/29/24231516/spotify-apple-physical-iphone-volume-controls>
+
+---
+
+##  Tom Gauld (and Richard Scarry) on cars of the future.... 
+
+date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045239-tom-gauld-and-richard-sca>
+
+---
+
+## Live Video of Promachoteuthis Squid
+
+date: 2024-09-06, updated: 2024-09-04, from: Bruce Schneier blog
+
+<p>The first <a href="https://schmidtocean.org/new-seamount-and-previously-unknown-species-discovered-in-high-priority-area-for-international-marine-protection/">live video</a> of the Promachoteuthis squid, filmed at a newly discovered seamount off the coast of Chile.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/09/live-video-of-promachoteuthis-squid.html>
+
+---
+
+##  Hokusai&#8217;s The Great Wave Now on Display at the Art Institute of Chicago 
+
+date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/hokusais-the-great-wave-now-on-display-at-the-art-institute-of-chicago>
+
+---
+
+##  The Open Book in Wigtown, Scotland is a rental place (available on... 
+
+date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045232-the-open-book-in-wigtown>
+
+---
+
+##  &#8220;Harris and Walz, intentionally or not, are projecting something different: a sitcom... 
+
+date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045235-harris-and-walz-intention>
+
+---
+
+##  I know some of you are K-12 educators — the excellent The... 
+
+date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045238-i-know-some-of-you>
+
+---
+
+## September 5, 2024
+
+date: 2024-09-06, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-5-2024-5f5>
+
+---
+
+## Why journalism doesn't come back
+
+date: 2024-09-06, from: Dave Winer's Scripting News
+
+<p>There's a difference betw journalism in 2023 and 2024, it really is changing that quickly. They are a mechanism for delivering some really tragic lies now, without correction, and a lot of people will believe them. Esp the two Trump is pushing now about <a href="https://www.poynter.org/fact-checking/2024/trump-abortion-roe-wade-overturned/">Roe v Wade</a> and <a href="https://www.yahoo.com/news/trump-keeps-saying-some-states-allow-the-execution-of-babies-after-birth-they-dont-heres-how-that-falsehood-got-started-201129756.html">Democratic states killing live babies</a>. This isn't a fumbling Trump, the words were written for him, he's rehearsed them, they're powerful lies, and journalism is carrying it. When they comment, it's far away from the lie. They'll let him on again and again to lie. </p>
+<p>The first time they carried his lies we could excuse it, but not the 50th. They invited him to speak on their air to transmit lies. Transmitting lies is the <i>opposite</i> of what news does. </p>
+<p>That means all the idealism we see in <a href="http://scripting.com/2024/09/04.html#a153237">The Newsroom</a> was for nothing, we now know how it ended. I don't think this has caught up with most people yet, and it's not something the journalists are going to report on, so realization may come slowly -- but it happened nonetheless. </p>
+<p>We'd be fools if we believe anything that comes from channels that broadcast lies. </p>
+<p>That's what's so sad about The Newsroom. Their thesis was that an always-striving-to-be-true journalism that goes to jail to protect sources, the Woodward Bernstein, Edward R Murrow, amazing American news, what we were told we grew up with, probably wasn't even remotely true in 2011 when it was broadcast, and any pretense of it covering the truth in 2024, is gone. </p>
+<p>A program like The Newsroom has a new context, it's no longer a light feel-good comedy, today it's a tragedy. </p>
+ 
+
+<http://scripting.com/2024/09/06/165018.html?title=whyJournalismDoesntComeBack>
+
+---
+
+##  Big Hockey Players, Itty-Bitty Rink 
+
+date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/big-hockey-players-itty-bitty-rink>
+
+---
+
+##  &#8220;Dark energy, which most physicists have long held to be unchanging, may... 
+
+date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045206-dark-energy-which-most-ph>
+
+---
+
+## ★ The iOS Continental Drift Widens
+
+date: 2024-09-06, updated: 2024-09-07, from: Daring Fireball
+
+What’s happening with Apple Intelligence and iPhone Screen Sharing this year is what I expect to happen with every new product or service Apple creates that integrates with iOS: they will come late, or never, to the EU. 
+
+<https://daringfireball.net/2024/09/the_ios_continental_drift_widens>
+
+---
+
+## Today’s jobs report: What it means for the Fed and politics
+
+date: 2024-09-06, from: Robert Reich's blog
+
+Friends, 
+
+<https://robertreich.substack.com/p/todays-jobs-report-what-it-means>
 
 ---
 
@@ -1591,4 +1729,119 @@ date: 2024-09-01, from: Heather Cox Richardson blog
 Buddy took this picture on his way to work one morning while I was in Chicago at the Democratic National Convention. 
 
 <https://heathercoxrichardson.substack.com/p/august-31-2024>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-31, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@davew/post/C_V8Va8pt4Z">Why does JD Vance</a> have so many opinions about women?
+ 
+
+<http://scripting.com/2024/08/31.html#a173455>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-31, from: Dave Winer's Scripting News)
+
+It's worth <a href="https://www.threads.net/@davew/post/C_VzCo_JSN5">reflecting</a> that the press took its best shot at Kamala Harris, and it was a big puff of smoke, she just cruised right through it. 
+
+<http://scripting.com/2024/08/31.html#a171542>
+
+---
+
+## August 30, 2024
+
+date: 2024-08-31, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/august-30-2024-140>
+
+---
+
+## History Extra for August 30, 2024
+
+date: 2024-08-31, from: Heather Cox Richardson blog
+
+An investigation by the Committee on Government Operations&#8217; Permanent Subcommittee on Investigations doesn&#8217;t sound like something that would change history, but in 1954, it did. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-august-30-2024>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-08-31, from: Dave Winer's Scripting News)
+
+Thread: <a href="https://mastodon.social/@davew/113056965813280335">Blogs and the social web will merge</a>.
+ 
+
+<http://scripting.com/2024/08/31.html#a143408>
+
+---
+
+## Platform drivers for textcasting
+
+date: 2024-08-31, from: Dave Winer's Scripting News
+
+<p>A feature I've wanted to add to the <a href="https://github.com/scripting/textcasting/tree/main">textcasting server app</a> is a plug-in architecture so you can add a new <a href="https://github.com/scripting/textcasting/blob/main/README.md#platform-drivers">platform driver</a> without having to reconfigure or even reboot the server. </p>
+<p>There's a new folder at <a href="https://github.com/scripting/textcasting/tree/main/plugins/platforms">plugins/platforms</a>. Each subfolder contains a driver for one platform. Initially there are four folder:  bluesky, mastodon, twitter and wordpress. Each driver is a Node module that exports a single function that posts an item to the platform. </p>
+<p>As an example here's the <a href="https://github.com/scripting/textcasting/blob/main/plugins/platforms/wordpress/code.js">driver</a> for WordPress. </p>
+<p>The drivers are invoked through an HTTP POST call, where the body contains the parameters to the driver. The parameters for each driver are different, because their APIs are different. To add support for a new platform, you just write a new driver. </p>
+<p>I also have a client app that does linkblogging through this server, that's why my linkblogging these days is so relatively effortless. </p>
+<p>Even though the current situation is done without standards, I think not only will that change over time, but this is a good thing. What used to be a corporate silo owned by Twitter, Inc is now a competitive market with lots of players. That's what we wanted back in 2006 when Twitter started, and now we have it. </p>
+<p>This isn't the last step or the first step toward getting them all to coalesce, but it is progress. </p>
+<p>If you're a developer have a look. And if you're a user, know that we're on the road to make cross-site posting a reality. It works for super-geeks like myself now, but eventually it'll work for poets too.</p>
+<p>PS: There's also an <a href="http://data.feedland.org/feeds/davewiner.xml">RSS feed</a> emanating from my textcasting system, that, in conjunction with the masterful Manton Reece at <a href="https://micro.blog/">micro.blog</a>, is how I do my cross-posting to Threads. Eventually I expect there will be a platform driver for Threads too, but for now -- this is how it works. Thanks Manton! It's great to work with you on this stuff. <span class="spOldSchoolEmoji">😄</span></p>
+ 
+
+<http://scripting.com/2024/08/31/141919.html?title=platformDriversForTextcasting>
+
+---
+
+## The Incredible Shrinking Trump: The Coffee Klatch | August 31, 2024
+
+date: 2024-08-31, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly 
+
+<https://robertreich.substack.com/p/the-incredibly-shrinking-trump-the>
+
+---
+
+## Weeknotes: August 24-30, 2024
+
+date: 2024-08-31, from: Tracy Durnell Blog
+
+Highlight of the week: picnic dinner and a sunset walk at the Bellevue Botanical Garden Looking forward to: I&#8217;m planning another writing push this weekend 🤞🤞🤞 Stuff I did: 2 hours consulting 6 hours writing &#8212; I casually mentioned a plot issue to a friend and realized a character was an unnecessary holdover from the [&#8230;] 
+
+<https://tracydurnell.com/2024/08/30/weeknotes-august-24-30-2024/>
+
+---
+
+## A sunset stroll at Bellevue Botanical
+
+date: 2024-08-31, from: Tracy Durnell Blog
+
+Somehow, despite living twenty minutes away for a decade, I&#8217;ve never brought my husband to Bellevue Botanical Garden before! No, I&#8217;ve dragged him down to Federal Way and out to Bainbridge Island, but the free, close garden got overlooked. (I&#8217;ve been on my own, with friends, with family, and even for work, so I didn&#8217;t [&#8230;] 
+
+<https://tracydurnell.com/2024/08/30/a-sunset-stroll-at-bellevue-botanical/>
+
+---
+
+## August 30, 2024 
+
+date: 2024-08-31, from: Heather Cox Richardson blog
+
+Trump and the MAGA movement garnered power through performances that projected dominance and cowed media and opponents into silence. 
+
+<https://heathercoxrichardson.substack.com/p/august-30-2024>
+
+---
+
+## How Oprah will screw up the AI story
+
+date: 2024-08-31, updated: 2024-08-31, from: Anil Dash blog
+
+ 
+
+<https://anildash.com/2024/08/31/oprah-wrong-ai/>
 

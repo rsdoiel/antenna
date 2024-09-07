@@ -1,11 +1,191 @@
 ---
 title: going electric
-updated: 2024-09-06 08:44:52
+updated: 2024-09-07 07:27:20
 ---
 
 # going electric
 
-(date: 2024-09-06 08:44:52)
+(date: 2024-09-07 07:27:20)
+
+---
+
+## Massachusetts & Rhode Island make history with largest offshore wind projects yet
+
+date: 2024-09-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/vineyard-wind-1.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Massachusetts and Rhode Island have selected 2,878 megawatts (MW) of offshore wind power in the region’s first-ever coordinated procurement. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,new-england,offshore-wind-power" data-layer-viewtype="unknown" data-post-id="378803" href="https://electrek.co/2024/09/06/massachusetts-rhode-island-offshore-wind/#more-378803" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/06/massachusetts-rhode-island-offshore-wind/>
+
+---
+
+## Volkswagen’s new ID.3 GTX FIRE+ICE reimagines an exclusive legend
+
+date: 2024-09-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Volkswagens-ID.3-GTX-FIREICE.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The legendary <a href="https://electrek.co/guides/volkswagen/">Volkswagen</a> FIRE+ICE brand has entered the electric era. Volkswagen’s new ID.3 GTX FIRE+ICE is a tribute to the exclusive Golf Fire and ICE with a reinterpretation of the iconic 90s design.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,vw,vw-id-3" data-layer-viewtype="unknown" data-post-id="378778" href="https://electrek.co/2024/09/06/volkswagens-new-id-3-gtx-fireice-reimagines-legend/#more-378778" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/06/volkswagens-new-id-3-gtx-fireice-reimagines-legend/>
+
+---
+
+## The greatest barrier to EV adoption? Lack of familiarity
+
+date: 2024-09-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/tesla-model-3.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Once drivers get behind the wheel of an EV, worries about range anxiety, costs, and charging notably drop, a new Plug In America study finds.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,evs,plug-in-america,range-anxiety" data-layer-viewtype="unknown" data-post-id="378774" href="https://electrek.co/2024/09/06/the-greatest-barrier-to-ev-adoption-lack-of-familiarity/#more-378774" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/06/the-greatest-barrier-to-ev-adoption-lack-of-familiarity/>
+
+---
+
+## The EV Slowdown Will Last Another 12-18 Months, Analysts Say
+
+date: 2024-09-06, from: Inside EVs News
+
+After that, plan for a "resurgence"—especially if traditional automakers ink deals with EV startups and Chinese firms.  
+
+<https://insideevs.com/news/732873/ev-sales-slowdown-morgan-stanley/>
+
+---
+
+## Tesla loses another director, who built software for Tesla Energy
+
+date: 2024-09-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla-Megapack-project-Arizona.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Another Tesla director is leaving the company, amid an exodus of top talent over the last few months.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-energy" data-layer-viewtype="unknown" data-post-id="378754" href="https://electrek.co/2024/09/06/tesla-loses-another-director-rohan-ma-energy-autobidder-lead/#more-378754" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/06/tesla-loses-another-director-rohan-ma-energy-autobidder-lead/>
+
+---
+
+## Increased Plug-In Hybrid Demand Drives Prices Sky-High
+
+date: 2024-09-06, from: Inside EVs News
+
+As the demand for pure electric vehicles seems to be cooling, plug-in hybrids are shooting up in popularity and price. 
+
+<https://insideevs.com/news/732874/phev-demand-increases-car-prices/>
+
+---
+
+## Podcast: I sold all my TSLA shares, Tesla AI roadmap, Volvo EX90 first drive, and more
+
+date: 2024-09-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss why I sold all my TSLA shares, Tesla AI roadmap, Volvo EX90 first drive, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="378736" href="https://electrek.co/2024/09/06/podcast-sold-all-my-tsla-shares-tesla-ai-roadmap-volvo-ex90-first-drive/#more-378736" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/06/podcast-sold-all-my-tsla-shares-tesla-ai-roadmap-volvo-ex90-first-drive/>
+
+---
+
+## Kia is waiting to ramp up EV9 production in the US despite a hot sales start: Here’s why
+
+date: 2024-09-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Kia-EV9-sales-first-year.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Although its first three-row electric SUV has been a hit in the US so far, Kia will wait until next year to scale up production. Kia is easing <a href="https://electrek.co/guides/kia-ev9/">the EV9</a> into production at its West Point, Georgia, plant as it waits for it to qualify for the $7,500 federal EV tax credit.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev9" data-layer-viewtype="unknown" data-post-id="378750" href="https://electrek.co/2024/09/06/kia-waiting-scale-us-ev9-production-despite-hot-sales-start/#more-378750" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/06/kia-waiting-scale-us-ev9-production-despite-hot-sales-start/>
+
+---
+
+## Watch The Lucid Gravity Get Durability Tested
+
+date: 2024-09-06, from: Inside EVs News
+
+How do you simulate 10 years of driving in a couple months? Watch to find out. 
+
+<https://insideevs.com/news/732868/lucid-gravity-durability-testing/>
+
+---
+
+## Tesla Cybertruck Ownership Experience: Biggest Complaints After 8,000 Miles
+
+date: 2024-09-06, from: Inside EVs News
+
+The Cybertruck is far from perfect. Here are some issues this owner has. 
+
+<https://insideevs.com/news/731786/tesla-cybertruck-owner-complaints/>
+
+---
+
+## Blix Sol Eclipse Cruiser e-bike $400 off + $118 free add-ons, Segway Ninebot S2 Amazon low, and more
+
+date: 2024-09-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Blix-Sol-Eclipse-Cruiser-e-bike.webp?w=1200" /></div><p>Your Friday edition of the best Green Deals is now at the ready to take you into the weekend with hundreds in savings on casual cruiser e-bikes, the Ninebot S2, and some off-grid power. First we have a straight up <a href="https://9to5toys.com/2024/09/06/blix-classic-beach-cruiser-sol-e-bike-sale/"><strong>$400</strong> price drop</a> on the <a href="https://9to5toys.com/2024/09/06/blix-classic-beach-cruiser-sol-e-bike-sale/">Blix Sol Eclipse Cruiser e-bike</a> with $518 in total savings by way of some free add-ons – you can also save an additional $200 off when buying any 2 bikes. Next is a new Amazon all-time low on the <a href="https://9to5toys.com/2024/09/06/segway-ninebot-s2-self-balancing-electric-scooter-deal/">Segway Ninebot S2 Smart Self-Balancing Electric Scooter</a> and a solid price drop on the <a href="https://9to5toys.com/2024/09/06/jackery-explorer-240-v2-with-40w-mini-solar-panel/">Jackery Explorer 240 v2 Power Station</a> with 40W Mini Solar Panel <a href="https://9to5toys.com/2024/09/06/jackery-explorer-240-v2-with-40w-mini-solar-panel/">for <strong>$249</strong></a>. But that’s just for starters, everything else is waiting below. </p>
+
+
+
+<p>Head below for more and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="378728" href="https://electrek.co/2024/09/06/blix-sol-eclipse-cruiser-e-bike-deal/#more-378728" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/06/blix-sol-eclipse-cruiser-e-bike-deal/>
+
+---
+
+## Hyundai will give you a free N-themed ChargePoint EV charger if you buy the new IONIQ 5 N
+
+date: 2024-09-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Hyundai-EVs-US-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Buy (or lease) Hyundai’s new sporty electric SUV and get a free N-themed charger. Hyundai is offering a free ChargePoint Home Flex L2 home charger if you buy or lease the new 2025 <a href="https://electrek.co/guides/hyundai-ioniq-5-n/">Hyundai IONIQ 5 N</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5-n" data-layer-viewtype="unknown" data-post-id="378726" href="https://electrek.co/2024/09/06/hyundai-free-n-themed-chargepoint-ev-charger-buy-new-ioniq-5-n/#more-378726" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/06/hyundai-free-n-themed-chargepoint-ev-charger-buy-new-ioniq-5-n/>
+
+---
+
+## Volvo Sales Are Down, But Hybrids And EVs Are Up
+
+date: 2024-09-06, from: Inside EVs News
+
+It's Volvo's internal-combustion cars that are dragging down the numbers. 
+
+<https://insideevs.com/news/732845/volvo-sales-august-2024/>
+
+---
+
+## Here are the EVs for lease under $300 a month this September
+
+date: 2024-09-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Hyundai-sweet-spot-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With more options than ever, driving an <a href="https://electrek.co/guides/electric-cars/">electric vehicle</a> has never been more affordable. As new electric models hit the market, the lease deals are heating up. Here are all the EVs you can lease for under $300 a month this September.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles" data-layer-viewtype="unknown" data-post-id="378689" href="https://electrek.co/2024/09/06/evs-for-lease-under-300-month-september/#more-378689" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/06/evs-for-lease-under-300-month-september/>
 
 ---
 
@@ -23,7 +203,7 @@ date: 2024-09-06, from: Electrek Feed
 
 ---
 
-## Toyota slashes EV production plans by 30% as supplier brace for impact
+## Toyota slashes EV production plans by 30% as suppliers brace for impact
 
 date: 2024-09-06, from: Electrek Feed
 
@@ -1270,4 +1450,48 @@ date: 2024-09-01, from: Electrek Feed
  <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-robotaxi" data-layer-viewtype="unknown" data-post-id="378040" href="https://electrek.co/2024/08/31/teslas-oct-10-robotaxi-event-will-be-at-warner-bros-studio-in-la/#more-378040" class="more-link">more…</a> 
 
 <https://electrek.co/2024/08/31/teslas-oct-10-robotaxi-event-will-be-at-warner-bros-studio-in-la/>
+
+---
+
+## We Spotted A Cadillac Escalade IQ In Public
+
+date: 2024-08-31, from: Inside EVs News
+
+Cadillac's upcoming $130,000 electric Escalade coincidentally was charging at the same time we were in suburban Central Ohio.  
+
+<https://insideevs.com/news/731991/escalade-iq-in-public-ohio-rivian/>
+
+---
+
+## Old Vs. New Tesla Model 3 Performance Drag Race: ‘A Bit Disappointing’
+
+date: 2024-08-31, from: Inside EVs News
+
+The 2019 Model 3 has Performance motors and battery but looks like a regular Long Range model. 
+
+<https://insideevs.com/news/731903/old-vs-new-tesla-model-3-performance-drag-race-video/>
+
+---
+
+## Talaria Sting Pro MX5 launched as low-cost, high-speed electric dirt bike
+
+date: 2024-08-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/talara-mx5-sting-pro-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Just announced this morning by <a href="https://lunacycle.com/">Luna Cycle</a> in the US, the Talaria MX5 Sting Pro is the highest-performance electric trail bike yet to still offer an affordable entry price tag for enthusiasts. If you thought those <em>youths</em> <a href="https://electrek.co/2024/08/29/why-are-sur-ron-style-electric-motorbikes-so-dang-popular-with-teens-today/">cruising your neighborhood</a> on their Sur Rons were rough enough, wait until they get their mitts on the new Talaria MX5. It’s the latest in the quickly growing market of easily obtainable off-road electric motorbikes, and this time the specs are finally pushing their way into true dirt bike territory.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,electric-motorcycle,sur-ron,talaria" data-layer-viewtype="unknown" data-post-id="377675" href="https://electrek.co/2024/08/31/talaria-sting-mx5-launched-as-low-cost-high-speed-electric-dirt-bike/#more-377675" class="more-link">more…</a> 
+
+<https://electrek.co/2024/08/31/talaria-sting-mx5-launched-as-low-cost-high-speed-electric-dirt-bike/>
+
+---
+
+## Chevrolet Equinox EV: Why We Put One In Our Garage
+
+date: 2024-08-31, from: Inside EVs News
+
+Contributing Editor and State of Charge host Tom Moloughney just leased a 2024 Chevrolet Equinox EV 2RS. Here's what he thinks so far. 
+
+<https://insideevs.com/news/732021/chevy-equinox-owner-review-moloughney/>
 

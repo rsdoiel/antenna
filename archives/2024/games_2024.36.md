@@ -1,11 +1,91 @@
 ---
 title: games
-updated: 2024-09-06 08:44:47
+updated: 2024-09-07 07:27:15
 ---
 
 # games
 
-(date: 2024-09-06 08:44:47)
+(date: 2024-09-07 07:27:15)
+
+---
+
+## The Boy and the Heron, Twilight of the Warriors, Netflix’s Rebel Ridge, and every movie new to streaming this week
+
+date: 2024-09-06, updated: 2024-09-06, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, The Boy and the Heron, the latest animated fantasy from acclaimed anime auteur Hayao Miyazaki, finally comes to streaming on Max. That’s not all, [&#8230;] 
+
+<https://www.polygon.com/entertainment/445767/new-movies-boy-and-the-heron-netflix-rebel-ridge-twilight-of-the-warriors-watch-streaming>
+
+---
+
+## Zenless Zone Zero’s Jane Doe might be the horniest Hoyoverse work yet
+
+date: 2024-09-06, updated: 2024-09-06, from: Polygon Website
+
+Hoyoverse, the absolutely massive game development studio and publisher behind global hits like Genshin Impact and Honkai: Star Rail, knows how to turn up the horny dial. Whether it was the absurd boob jiggle physics when Genshin launched, or the heart throbs of Tears of Themis, Hoyoverse has never shied away from making lustful characters. [&#8230;] 
+
+<https://www.polygon.com/culture/449128/zenless-zone-zero-jane-doe-horny-zzz>
+
+---
+
+## The 15 deepest cuts in Astro Bot, and where they came from
+
+date: 2024-09-06, updated: 2024-09-06, from: Polygon Website
+
+Astro Bot, released on PlayStation 5 on Sept. 6, is a wonderful platform game. It also serves as the kickoff for Sony’s celebration of 30 years of PlayStation (the original console debuted in Japan in December 1994). The game is saturated with PlayStation Easter eggs and fan service. In particular, of the 300 collectible bots [&#8230;] 
+
+<https://www.polygon.com/playstation/448757/astro-bot-characters-deep-cuts>
+
+---
+
+## The Baldur&#8217;s Gate 3 team isn&#8217;t finished with the game yet
+
+date: 2024-09-06, updated: 2024-09-07, from: Polygon Website
+
+Fans still sinking their teeth into the vast Dungeons and Dragons-inspired world of Baldur’s Gate 3 can expect even more updates in the future. Michael Douse, publishing director at Larian Studios, said that the big Patch 7, which added official support for mods and new evil endings, was not “the final update,” and that the [&#8230;] 
+
+<https://www.polygon.com/news/448917/baldurs-gate-3-final-update-bg3>
+
+---
+
+## Do TV shows and movies lose rights to songs like video games do?
+
+date: 2024-09-06, updated: 2024-09-06, from: Polygon Website
+
+On Thursday, Remedy Entertainment announced it would soon patch Alan Wake to cut David Bowie’s “Space Oddity” from the game’s credits due to licensing issues. Music has been a problem for Alan Wake before: Remedy had to pull the entire game off Steam, Xbox Games Store, and other platforms from May 2017 to October 2018 [&#8230;] 
+
+<https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems>
+
+---
+
+## A good game like Concord just isn’t good enough anymore
+
+date: 2024-09-06, updated: 2024-09-06, from: Polygon Website
+
+Concord is a competent, well-made game. Or rather it was. I’m going to struggle with tense when it comes to writing about Concord, because, as of Sept. 6, the game has been shut down indefinitely, just two weeks into its existence. Will it ever come back? Firewalk Studios, which developed the game for Sony, says [&#8230;] 
+
+<https://www.polygon.com/gaming/448883/a-good-game-like-concord-just-isnt-good-enough-anymore>
+
+---
+
+## SteelSeries’ cozy, multi-platform wireless headset is 27% off
+
+date: 2024-09-06, updated: 2024-09-06, from: Polygon Website
+
+SteelSeries makes a lot of gaming headsets, and I’d never wish it upon you to have to know the differences between them. Leave that to us. We’ve scooped up a deal on the company’s mid-range wireless gaming headset, called the Arctis Nova 5, and it’s $94.99 at Amazon (was $129.99). It’s a pretty solid value [&#8230;] 
+
+<https://www.polygon.com/good-deals/448779/steelseries-arctic-nova-5-wireless-gaming-headset-pc-ps5>
+
+---
+
+## The Fall Guy, now on Peacock, enters its ‘perfect couch movie’ era
+
+date: 2024-09-06, updated: 2024-09-06, from: Polygon Website
+
+The Fall Guy hit theaters at the front end of the summer 2024 movie season and was met with a resounding thud. The opening week box office numbers were lower than expected. The second week numbers dipped even further as it was overtaken by another entry in the Planet of the Apes extended universe. A [&#8230;] 
+
+<https://www.polygon.com/action/448320/the-fall-guy-ryan-gosling-emily-blunt-movie-watch-streaming>
 
 ---
 
@@ -626,4 +706,74 @@ date: 2024-09-01, updated: 2024-08-30, from: Polygon Website
 Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s coming difficult to parse. This month brings the movie adaptation of 2005 YA dystopian novel Uglies. Better late than never! There’s also new seasons of Emily [&#8230;] 
 
 <https://www.polygon.com/entertainment/445323/new-netflix-september-2024-movies-tv-to-watch>
+
+---
+
+## With The Wild Robot, Chris Sanders finally set computer animation free
+
+date: 2024-08-31, updated: 2024-08-31, from: Polygon Website
+
+When Lilo &#38; Stitch and How to Train Your Dragon co-director Chris Sanders dropped into DreamWorks to see what movies they had on their development roster, he fell in love with The Wild Robot. Originally a series of middle-grade books by writer and illustrator Peter Brown, the story follows a robot named Roz who ends [&#8230;] 
+
+<https://www.polygon.com/animation-cartoons/446701/the-wild-robot-chris-sanders-interview-animation>
+
+---
+
+## With The Wild Robot, Chris Sanders finally set computer animation free
+
+date: 2024-08-31, updated: 2024-08-30, from: Polygon Website
+
+When Lilo &#38; Stitch and How to Train Your Dragon co-director Chris Sanders dropped into DreamWorks to see what movies they had on their development roster, he fell in love with The Wild Robot. Originally a series of middle-grade books by writer and illustrator Peter Brown, the story follows a robot named Roz who ends [&#8230;] 
+
+<https://www.polygon.com/animation-cartoons/446701/with-the-wild-robot-chris-sanders-finally-set-computer-animation-free>
+
+---
+
+## Genshin Impact players are mad the devs improved the game
+
+date: 2024-08-31, updated: 2024-08-30, from: Polygon Website
+
+Hoyoverse released its 5.0 version update of Genshin Impact on Wednesday. While players tend to be excited for flashy additions to the game, such as new characters and regions to explore, this big update also contains more quality-of-life features. The developers have reduced the requirements for people to play late-game content and added a gadget [&#8230;] 
+
+<https://www.polygon.com/genshin-impact/446223/genshin-5-update-fan-reactions>
+
+---
+
+## The Never Stop Blowing Up cast breaks open their time in the Dimension 20 dome
+
+date: 2024-08-31, updated: 2024-08-31, from: Polygon Website
+
+Many elements must converge just right to make an actual play season special: The game system, the setting, the presentation, the game master. But there’s perhaps nothing more important than a good cast, and Dimension 20’s Never Stop Blowing Up delivered a group for the ages. Six of the funniest members of Dropout’s deep roster [&#8230;] 
+
+<https://www.polygon.com/actual-play/446227/never-stop-blowing-up-dimension-20-cast-interview>
+
+---
+
+## With a fresh reinterpretation of The Killer, John Woo mints another action star
+
+date: 2024-08-31, updated: 2024-08-30, from: Polygon Website
+
+It’s not unheard of for a director to remake one of their most significant works. But it’s rare for it to work out as well as John Woo’s remake of his classic hitman action movie The Killer. Michael Haneke famously gave it a go with his shot-for-shot English-language remake of his disturbing 1997 meta slasher [&#8230;] 
+
+<https://www.polygon.com/action/446226/the-killer-remake-john-woo-peacock-review>
+
+---
+
+## How do you revive a game like Yars’ Revenge? Do something unexpected
+
+date: 2024-08-31, updated: 2024-08-31, from: Polygon Website
+
+For more than 40 years, Atari 2600 game Yars’ Revenge has endured. Atari has rereleased the 1982 action game multiple times, both in cartridge form and built into retro consoles. Multiple developers have attempted to remake it, reimagine it, or create an official sequel to the simplistic shooter. In September, developer WayForward Technologies will take [&#8230;] 
+
+<https://www.polygon.com/gaming/446103/yars-revenge-rising-atari-wayforward-preview>
+
+---
+
+## Pokémon Go Popplio Community Day guide
+
+date: 2024-08-31, updated: 2024-08-30, from: Polygon Website
+
+Pokémon Go is having a Popplio Community Day event on Saturday, Aug. 31, from 2-5 p.m. in your local time. As expected with a Community Day event, Popplio will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve list out below. [&#8230;] 
+
+<https://www.polygon.com/pokemon-go-guide/445907/popplio-community-day-event-shiny-brionne-primarina>
 

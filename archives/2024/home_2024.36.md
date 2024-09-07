@@ -1,11 +1,329 @@
 ---
 title: home
-updated: 2024-09-06 08:44:49
+updated: 2024-09-07 07:27:16
 ---
 
 # home
 
-(date: 2024-09-06 08:44:49)
+(date: 2024-09-07 07:27:16)
+
+---
+
+## 7 Ways to Bring Biodiversity to Your Garden
+
+date: 2024-09-06, from: California Native Plants Society
+
+<p>Gardening with native plants brings biodiversity to your garden. But there is even more you can do—follow these 7 steps to make your garden a biodiversity powerhouse!</p>
+<p>The post <a href="https://www.cnps.org/gardening/7-ways-to-bring-biodiversity-to-your-garden-40139">7 Ways to Bring Biodiversity to Your Garden</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/gardening/7-ways-to-bring-biodiversity-to-your-garden-40139>
+
+---
+
+## 50 Years Protecting Rare Plants: Reflections on the RPI with Julie Kierstead and Heath Bartosh
+
+date: 2024-09-06, from: California Native Plants Society
+
+<p>For 50 years, the California Rare Plant Inventory has served as the essential resource for understanding and protecting rare plant species in the state.</p>
+<p>The post <a href="https://www.cnps.org/rare-plants/50-years-protecting-rare-plants-40155">50 Years Protecting Rare Plants: Reflections on the RPI with Julie Kierstead and Heath Bartosh</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/rare-plants/50-years-protecting-rare-plants-40155>
+
+---
+
+## Culinary Travel
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Amazing restaurants and more culinary travel experiences in the West. 
+
+<https://www.sunset.com/travel/culinary-travel>
+
+---
+
+## Hotels, Inns, and More
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Staying in the right hotels can make or break a vacation. Get our recommendations for great bargains, most unique sleeps, coastal stays, and more Western accommodations. 
+
+<https://www.sunset.com/travel/hotels>
+
+---
+
+## National Parks
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Whether you're a first-time visitor or a national parks veteran, you'll find everything you need here to plan the perfect adventure. 
+
+<https://www.sunset.com/travel/national-parks>
+
+---
+
+## Road Trips
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Satisfy your wanderlust with a Western classic??a great road trip. Get ideas for the best routes and where to eat along the way. 
+
+<https://www.sunset.com/travel/road-trips>
+
+---
+
+## Outdoor Adventure
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Plan an outdoor adventure in the West with our insider tips on national parks, the best campgrounds, amazing hikes, and bike trips. 
+
+<https://www.sunset.com/travel/outdoor-adventure>
+
+---
+
+## WildLands
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+The adventures and reporting of J.D. Simkins as he roams the remaining "wild lands" of the West. 
+
+<https://www.sunset.com/travel/wildlands>
+
+---
+
+## Travel the West
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Wellness
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Everyday inspiration for balanced, healthy living. 
+
+<https://www.sunset.com/lifestyle/wellness>
+
+---
+
+## Gifts & Shopping
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+One-of-a-kind gifts to spread holiday cheer, including picks for everyone on your list, from gardeners and travelers to parents and pets. 
+
+<https://www.sunset.com/lifestyle/shopping>
+
+---
+
+## Lifestyle
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Lifestyle ideas and inspiration for every life stage, from gift guides and gear recommendations to wedding planning, living with kids and pets, and saving for home remodels. 
+
+<https://www.sunset.com/lifestyle>
+
+---
+
+## The Idea Hub
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Innovative design and genius decorating ideas are around every corner in our Idea Hub showcase homes. 
+
+<https://www.sunset.com/home-garden/idea-houses>
+
+---
+
+## Flowers & Plants
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+The very best flowers and plants for your garden's climate zone. 
+
+<https://www.sunset.com/home-garden/plants>
+
+---
+
+## Landscaping
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Get landscaping ideas and inspiration from our gardening experts to design your own backyard or garden oasis. 
+
+<https://www.sunset.com/home-garden/landscaping>
+
+---
+
+## DIY Projects
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Transform your home with quick and easy DIY projects, crafts, and decorating ideas for around the house. 
+
+<https://www.sunset.com/home-garden/diy-projects>
+
+---
+
+## Garden Basics
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Learn how to start your own home garden with our gardening experts&apos; tips and tutorials 
+
+<https://www.sunset.com/home-garden/garden-basics>
+
+---
+
+## Decorating & Design
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Transform your home with our decorating tips, including ideas for small spaces, DIY projects, home design, and more. 
+
+<https://www.sunset.com/home-garden/design>
+
+---
+
+## Home Tours
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses 
+
+<https://www.sunset.com/home-garden/home-tours>
+
+---
+
+## Home & Garden
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine. 
+
+<https://www.sunset.com/home-garden>
+
+---
+
+## Recipes
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Search Sunset's collection of great recipes for every occasion. From quick weekday meals to indulgent holiday menus, we share the best in Western cooking. 
+
+<https://www.sunset.com/food-wine/kitchen-assistant>
+
+---
+
+## How To Build a Bar
+
+date: 2024-09-06, from: Family Handyman Blog
+
+<p>Upgrade your entertaining game with this step-by-step project on how to build a bar complete with a beautiful live edge top.</p> 
+
+<https://www.familyhandyman.com/project/how-to-build-a-bar-for-your-home/>
+
+---
+
+## This $4M Hamptons House Was Once a Potato Barn
+
+date: 2024-09-06, from: Dwell
+
+Award-winning artists Karl Mann and Hector Leonardi turned the property into their home and twin studios, complete with an 18th-century spiral staircase from Paris. 
+
+<https://www.dwell.com/article/renovated-potato-barn-home-artists-karl-mann-hector-leonardi-hamptons-new-york-hamptons-real-estate-a0dbc1a4>
+
+---
+
+## Food and Drink
+
+date: 2024-09-06, from: Sunset Magazine - Living in the West
+
+Delicious recipes, food and wine pairings, and more ways to savor the West. 
+
+<https://www.sunset.com/food-wine>
+
+---
+
+## Friday Links: September 6, 2024
+
+date: 2024-09-06, from: California Native Plants Society
+
+<p>Celebrate California Biodiversity Day and week with stories about protecting, understanding, and enjoying biodiversity!</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-september-6-2024-40118">Friday Links: September 6, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-september-6-2024-40118>
+
+---
+
+## Don’t Even Think of Laying Carpet in Your Basement Before You Do This
+
+date: 2024-09-06, from: Family Handyman Blog
+
+Prevent damp basement floors from ruining carpet and other finished flooring by using a vapor barrier.  
+
+<https://www.familyhandyman.com/article/basement-carpet-vapor-barrier/>
+
+---
+
+## For $299K, a Santa Monica ADU Is a Refugee's Chance to Start Again
+
+date: 2024-09-06, from: Dwell
+
+What started as a couple's WFH space evolved into a new home for 18-year-old Alex Bogancha after he fled the war in Ukraine. 
+
+<https://www.dwell.com/article/for-dollar299k-a-santa-monica-adu-is-a-refugees-chance-to-start-again-e0b7d694>
+
+---
+
+## Can You Install a Wood Floor Over Concrete?
+
+date: 2024-09-06, from: Family Handyman Blog
+
+Yes, you can cheer up that room by installing a wood floor over concrete, but it's vital to follow these steps to prevent mold and other damage. 
+
+<https://www.familyhandyman.com/article/wood-floor-over-concrete-installation/>
+
+---
+
+## 15 Electrical Mistakes Homeowners Make
+
+date: 2024-09-06, from: Family Handyman Blog
+
+Here's what to look for, and how to fix what you find. 
+
+<https://www.familyhandyman.com/list/top-electrical-mistakes/>
+
+---
+
+## The Most Undervalued Housing Markets in the U.S. in 2024
+
+date: 2024-09-06, from: Family Handyman Blog
+
+These affordable housing markets offer great opportunities for buyers seeking budget-friendly homeownership. 
+
+<https://www.familyhandyman.com/list/affordable-places-to-buy-house/>
+
+---
+
+## When and How to Prune Jasmine
+
+date: 2024-09-06, from: The Gardener's Path
+
+<p>Jasmine varieties are easy-care plants appreciated in the garden for their sweetly scented flowers. And to keep them looking their best and covered in blooms from top to bottom, regular maintenance is needed. A light spring cleanup helps to tidy stray vines, but for lush, showy plants, learn how and when to prune jasmine.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/prune-jasmine/">When and How to Prune Jasmine</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/flowers/prune-jasmine/>
 
 ---
 
@@ -441,6 +759,16 @@ This Seattle home is as stunning as the sights it surrounds.
 
 ---
 
+## This Charming Chicago Home Comes Complete with a Snowmelt System for $3.8M
+
+date: 2024-09-03, from: Dwell
+
+Experience quaint living just three miles northwest of Chicago’s famous Loop. 
+
+<https://www.dwell.com/article/sothebys-international-southport-corridor-chicago-real-estate-0015988c>
+
+---
+
 ## Outdoor Enthusiasts Will Love This $6.9M Big Sky Residence
 
 date: 2024-09-03, from: Dwell
@@ -627,4 +955,16 @@ date: 2024-09-01, from: The Gardener's Path
  
 
 <https://gardenerspath.com/how-to/greenhouses-and-coldframes/hoop-house-tips/>
+
+---
+
+## How to Dry Apricots Two Ways (Food Dehydrator or Oven)
+
+date: 2024-08-31, from: Homestead and Chil
+
+<p>Have an abundance of fresh apricots on your hands? Come learn how to dry apricots in a food dehydrator or in the oven, plus storage tips. This is one of my favorite quick and easy ways to preserve apricots from the garden!</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-dry-apricots-dehydrator-oven/">How to Dry Apricots Two Ways (Food Dehydrator or Oven)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<https://homesteadandchill.com/how-to-dry-apricots-dehydrator-oven/>
 

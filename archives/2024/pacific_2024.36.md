@@ -1,11 +1,44 @@
 ---
 title: pacific
-updated: 2024-09-06 08:44:43
+updated: 2024-09-07 07:27:10
 ---
 
 # pacific
 
-(date: 2024-09-06 08:44:43)
+(date: 2024-09-07 07:27:10)
+
+---
+
+## UH Maui College’s Donaghy releases book on Hawaiian musical activism
+
+date: 2024-09-06, from: University of Hawaiʻi News
+
+<p>Mele on the Mauna is <abbr>UH</abbr> Maui College Associate Professor Keola Donaghy’s first book.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/06/hawaiian-musical-activism-book/"><abbr>UH</abbr> Maui College’s Donaghy releases book on Hawaiian musical activism</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/06/hawaiian-musical-activism-book/>
+
+---
+
+## Celebrating the ʻalalā in art and words at Windward CC
+
+date: 2024-09-06, from: University of Hawaiʻi News
+
+<p><span aria-label="Hawaii">Hawai&#699;i</span>’s native crow is the focus of works by a Windward <abbr>CC</abbr> administrator.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/06/celebrating-the-alala-art-words/">Celebrating the ʻalalā in art and words at Windward <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/06/celebrating-the-alala-art-words/>
+
+---
+
+## UH Alumni: Daniel Sugai, dermatologist, social media star
+
+date: 2024-09-06, from: University of Hawaiʻi News
+
+<p>&#8220;Dr. Pimple Popper&#8221; has nothing on <abbr>JABSOM</abbr> alumnus Daniel Sugai.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/06/uh-alumni-daniel-sugai/"><abbr>UH</abbr> Alumni: Daniel Sugai, dermatologist, social media star</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/06/uh-alumni-daniel-sugai/>
 
 ---
 
@@ -258,6 +291,18 @@ date: 2024-09-06, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/09/06/hawaii-news/25th-lili%ca%bbuokalani-festival-is-saturday/>
+
+---
+
+## Boy injured when man drives car into Hilo home
+
+date: 2024-09-06, from: Hawaii Tribune Harold
+
+
+				<p>Police say a 7-year-old boy was injured and a 71-year-old man was arrested on suspicion of negligent injury early Thursday evening after the man crashed his car into the living room of a Hilo home.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/06/hawaii-news/boy-injured-when-man-drives-car-into-hilo-home/>
 
 ---
 
@@ -682,6 +727,16 @@ date: 2024-09-05, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/09/05/inaugural-cip-cia-collab/">Inaugural <abbr>CIP/CIA</abbr> collab includes <abbr>UH</abbr>, culinary professionals</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/09/05/inaugural-cip-cia-collab/>
+
+---
+
+## Tips Worthy of Gold: Champions Share Their Secret to Smooth Skin
+
+date: 2024-09-05, updated: 2024-09-06, from: Marianas Variety
+
+(BPT) - If you struggle to maintain smooth skin, free from unwanted hair all summer long, you might wonder how champions from a Team USA athlete to a top dermatologist manage it. 
+
+<https://www.mvariety.com/online_features/health_and_wellness/tips-worthy-of-gold-champions-share-their-secret-to-smooth-skin/article_1e0f4a5a-c38e-5837-9be8-bced8d7336b4.html>
 
 ---
 
@@ -3315,4 +3370,336 @@ date: 2024-09-01, from: Guam Daily Post
 On Tuesday, three Guam Department of Education school populations will return to their home campuses following an announcement on Friday that four schools passed sanitary inspection. 
 
 <https://www.postguam.com/news/local/4-schools-pass-sanitary-inspection-officials-talk-budget-needs/article_131f92a6-6746-11ef-90e5-a3747382d15d.html>
+
+---
+
+## Beep beep beep! Here comes the fast driver
+
+date: 2024-08-31, from: Pacific Island Times
+
+Bridgman, MI -- Growing up in Michigan during the heyday of the American auto industry was exhilarating. As a kid, automobiles were No. 1... 
+
+<https://www.pacificislandtimes.com/post/beep-beep-beep-here-comes-the-fast-driver>
+
+---
+
+## 'Bows Stampede the Mustangs; 3-2
+
+date: 2024-08-31, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+ 
+
+<https://www.manoanow.org/kaleo/bows-stampede-the-mustangs-3-2/article_9f3620cc-6a23-11ef-83e1-4753e3971139.html>
+
+---
+
+## An obesity drug prevents COVID deaths, study suggests
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>Wegovy, the popular obesity drug, may have yet another surprising benefit. In a large clinical trial, people taking the drug during the pandemic were less likely to die of COVID-19, researchers reported Friday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/nation-world-news/an-obesity-drug-prevents-covid-deaths-study-suggests/>
+
+---
+
+## Will Walz’s rural upbringing lure small-town swing voters?
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>WINNEBAGO COUNTY, Wis. &#8212; The walls of the Fish Tales bait shop near the banks of Lake Winnebago in Wisconsin are lined with brightly colored bobs and lures. Big coolers hold leeches, butter worms and cans of Red Bull. On a recent morning, two fussy Dobermans were whining to be let out of a back room.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/nation-world-news/will-walzs-rural-upbringing-lure-small-town-swing-voters/>
+
+---
+
+## ‘A wave that’s on the decline?’ Trump totalk to parents leading the culture wars.
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>Former President Donald Trump is set to speak Friday evening to a gathering of Moms for Liberty, a conservative activist group whose priorities mirror much of his own education platform.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/nation-world-news/a-wave-thats-on-the-decline-trump-totalk-to-parents-leading-the-culture-wars/>
+
+---
+
+## Summer tourism bump going flat as fall nears
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>Visitors to Hawaii continued to decline in July, although the downturn was offset by strengthening in arrivals from Hawaii&#8217;s core U.S. West market and from Japan, Hawaii&#8217;s top international market.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/hawaii-news/summer-tourism-bump-going-flat-as-fall-nears/>
+
+---
+
+## Did Deion’s Colorado show progress in opening win? Shedeur Sanders, Travis Hunter deliver
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>BOULDER, Colo. &#8212; Minutes earlier, Deion Sanders&#8217; Colorado team had survived a frantic final drive from a proud North Dakota State team. The Buffaloes snapped a six-game losing streak and avoided a disastrous opener with the 31-26 win Thursday night.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/sports/did-deions-colorado-show-progress-in-opening-win-shedeur-sanders-travis-hunter-deliver/>
+
+---
+
+## Dolphins sign coach Mike McDaniel to multi-year contract extension
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>The Miami Dolphins have stamped their approval of coach Mike McDaniel for the long haul.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/sports/dolphins-sign-coach-mike-mcdaniel-to-multi-year-contract-extension/>
+
+---
+
+## Paris is Utopia for paralympians until they leave the athletes’ village
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; To many of the athletes arriving at the 2024 Paralympic Games in Paris, the part of the city designed specifically for them amounted to something of a utopia.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/sports/paris-is-utopia-for-paralympians-until-they-leave-the-athletes-village/>
+
+---
+
+## Gauff solves Svitolina test to reach U.S. Open fourth round
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK (Reuters) &#8212; Defending champion Coco Gauff was tested early but righted the ship in time to secure a spot in the last 16 at the U.S. Open with a confidence-boosting 3-6 6-3 6-3 victory over plucky Ukrainian Elina Svitolina on Friday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/sports/gauff-solves-svitolina-test-to-reach-u-s-open-fourth-round/>
+
+---
+
+## MLB roundup: Shohei Ohtani (HR, SB) helps Dodgers edge D-backs
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>Will Smith hit a three-run homer, Freddie Freeman belted a two-run shot and Shohei Ohtani hit a solo blast to help the Los Angeles Dodgers record a wild 10-9 victory over the Arizona Diamondbacks on Friday night in Phoenix.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/sports/mlb-roundup-shohei-ohtani-hr-sb-helps-dodgers-edge-d-backs/>
+
+---
+
+## Harris grapples with how to use Biden on campaign trail
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; As she abruptly went from No. 2 on the Democratic ticket to No. 1, Vice President Kamala Harris had a decision to make: How should she deploy President Joe Biden on the campaign trail?</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/nation-world-news/harris-grapples-with-how-to-use-biden-on-campaign-trail/>
+
+---
+
+## Israeli strike on Gaza aid convoy kills four Palestinians, US group says
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; An Israeli air strike on an aid convoy carrying food and fuel to a Gaza hospital killed four Palestinians on Thursday, U.S.-based aid group Anera said as Israel claimed they were &#8220;armed assailants,&#8221; which the group denied.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/nation-world-news/israeli-strike-on-gaza-aid-convoy-kills-four-palestinians-us-group-says/>
+
+---
+
+## Namibia, facing drought, plans to kill elephants for meat
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>The southern African nation of Namibia is planning to butcher hundreds of its most majestic animals to feed some of the 1.4 million people &#8212; nearly half the country &#8212; who are in a hunger crisis amid the worst drought in a century.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/nation-world-news/namibia-facing-drought-plans-to-kill-elephants-for-meat/>
+
+---
+
+## Kiingi Tuheitia, king of the Maori in New Zealand, dies at 69
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>Kiingi Tuheitia, the Maori king who called for unity among New Zealand&#8217;s Indigenous tribes during his 18 years in his ceremonial but influential role, died Friday. He was 69.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/nation-world-news/kiingi-tuheitia-king-of-the-maori-in-new-zealand-dies-at-69/>
+
+---
+
+## A defensive Trump tries to limit the fallout of the Arlington clash
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>JOHNSTOWN, Pa. &#8212; Former President Donald Trump grappled Friday with the lingering fallout from his visit to Arlington National Cemetery this week, offering an extended defense of his campaign&#8217;s actions leading up to an altercation between a Trump 2024 staff member and a cemetery official.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/nation-world-news/a-defensive-trump-tries-to-limit-the-fallout-of-the-arlington-clash/>
+
+---
+
+## Brazil blocks X after Musk ignores court orders
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>RIO DE JANEIRO &#8212; Brazil blocked the social network X on Friday after its owner, Elon Musk, refused to comply with a Brazilian judge&#8217;s orders to suspend certain accounts, the biggest test yet of the billionaire&#8217;s efforts to transform the site into a digital town square where just about anything goes.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/nation-world-news/brazil-blocks-x-after-musk-ignores-court-orders/>
+
+---
+
+## The Fed’s preferred inflation gauge stays cool, keeping a rate cut imminent
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>Inflation held steady in July on a yearly basis and consumer spending was robust, fresh data released Friday showed, the latest sign that progress toward cooler price increases remains firmly intact even as the economy holds up.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/nation-world-news/the-feds-preferred-inflation-gauge-stays-cool-keeping-a-rate-cut-imminent/>
+
+---
+
+## For generations of Alaskans, a livelihood is under threat
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>Petersburg, Alaska, is as pretty a seaside town as any you&#8217;ll find across the filigree of fjords and foggy islands that make up the state&#8217;s maritime coast. Statuary and floral designs evidence its proud Scandinavian heritage, and bald eagles soar across the narrow strait that separates it from a national forest. It doesn&#8217;t have room for the giant cruise ships that disgorge thousands of passengers into Ketchikan and Juneau, but it is perfectly situated for its sustaining industry: fishing.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/nation-world-news/for-generations-of-alaskans-a-livelihood-is-under-threat/>
+
+---
+
+## With a conference on the pandemic, Stanford gives purveyors of misinformation and disinformation a platform
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>We&#8217;re living in an upside-down world, aren&#8217;t we?</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/opinion/with-a-conference-on-the-pandemic-stanford-gives-purveyors-of-misinformation-and-disinformation-a-platform/>
+
+---
+
+## Tropical Gardening: Palms grace Italy and even Switzerland
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>Today&#8217;s column comes to you as we head for Italy. We are already missing the tropical ambiance of Hawaii Island and won&#8217;t be back until two days before the Nov. 5 election. We especially want to be home for that event.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/community/tropical-gardening-palms-grace-italy-and-even-switzerland/>
+
+---
+
+## Fight against families: States get federal judge to endanger mixed-status couples
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>Texas Federal Judge J. Campbell Barker, appointed by Donald Trump in 2019, has frozen a Biden administration policy that could have helped some half-million undocumented spouses of U.S. citizens get legal status. Hopefully, Barker&#8217;s stay will not be staying. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/opinion/fight-against-families-states-get-federal-judge-to-endanger-mixed-status-couples/>
+
+---
+
+## Obituaries for September 1
+
+date: 2024-08-31, from: Hawaii Tribune Harold
+
+
+				<p>Fumie Christine Cabral, 96, of Hilo died Aug. 26 at a private care home in Hilo. Born in Hilo, she was retired. Visitation 9-11 a.m. Tuesday, Sept. 10, at Dodo Mortuary Chapel. Funeral service at 11 a.m. Burial to follow at Homelani Memorial Park, Section 4. Casual attire. Survived by daughters, Yvonne (Rodney) Oshiro of Hilo and Annette (Milton) Terazono of Kona; son, Randy (Susan) Cabral of Volcano; 10 grandchildren, 15 great-grandchildren and two great-great-grandchildren; nieces and nephews. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/08/31/obituaries/obituaries-for-september-1-12/>
+
+---
+
+## Warriors win first game of the season
+
+date: 2024-08-31, from: Guam Daily Post
+
+With Hope Kanemoto in their lineup, recently acquired from the Simon Sanchez High School Sharks, and Ryanna Ngirchomlei, Darien Godoy and Haylee Acda providing offensive power and defensive stops, the St. Paul Christian School Warriors, in a high school girls… 
+
+<https://www.postguam.com/sports/local/warriors-win-first-game-of-the-season/article_ddafeea4-6727-11ef-8af0-f77e7130b037.html>
+
+---
+
+## US Naval Hospital command suite renamed in honor of 'Doc'
+
+date: 2024-08-31, from: Guam Daily Post
+
+U.S. Naval Hospital Guam renamed a suite in the facility after a local hero who not only served the nation during the Vietnam War but also dedicated his life to healing and compassion. 
+
+<https://www.postguam.com/news/local/us-naval-hospital-command-suite-renamed-in-honor-of-doc/article_44a40b04-667e-11ef-85e2-db5c615a966d.html>
+
+---
+
+## Drug case defendant acquitted by judge at trial
+
+date: 2024-08-31, from: Guam Daily Post
+
+A man was acquitted of drug possession charges after all the evidence was presented at his trial. 
+
+<https://www.postguam.com/news/local/drug-case-defendant-acquitted-by-judge-at-trial/article_11150814-666b-11ef-be99-43484a099153.html>
+
+---
+
+## 7 years for man accused in string of game room robberies
+
+date: 2024-08-31, from: Guam Daily Post
+
+A man was sentenced to seven years in prison for robbing several game rooms in late 2022. 
+
+<https://www.postguam.com/news/local/7-years-for-man-accused-in-string-of-game-room-robberies/article_81507306-6685-11ef-902f-2bf765b9ea83.html>
+
+---
+
+## Elevate-HER pitch competition gives entrepreneur women a chance to win $5K
+
+date: 2024-08-31, from: Guam Daily Post
+
+If you’re a woman with a business idea, you could pitch your way into some seed money to pursue your dreams through the Elevate-HER pitch competition, a new program aimed at “empowering women entrepreneurs.” 
+
+<https://www.postguam.com/news/local/elevate-her-pitch-competition-gives-entrepreneur-women-a-chance-to-win-5k/article_879f585a-6679-11ef-a2d0-9ba29aca3746.html>
+
+---
+
+## Budget bill passes, draws criticism
+
+date: 2024-08-31, from: Guam Daily Post
+
+After spending the last half of the month debating and discussing government finances and how much funding should go where, lawmakers managed enough votes to pass the fiscal year 2025 budget bill for the government of Guam Friday afternoon. 
+
+<https://www.postguam.com/news/local/budget-bill-passes-draws-criticism/article_2f881bec-6689-11ef-bdbe-5fc8e84769b7.html>
 

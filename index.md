@@ -3,7 +3,7 @@
 
 > An experiment in personal news aggregation
 
-The Antenna is a cross between a [Linklog](https://en.wikipedia.org/wiki/Linklog) and a list oriented news reader. It is updated via a static site generator. It is driven by the curated list of source feeds. The RSS feeds provide a link and abstract of the source content so I can quickly scan the new content and decide what I might want to read next. Right now Antenna is built using the following lists.
+The goal of the Antenna is to provide a means I can quickly scan new content on the web I might be interested in reading. In essence Antenna is a [Linklog](https://en.wikipedia.org/wiki/Linklog). A list of feeds is aggregated into a collection of items and presented in descending date order. Most lists aggregate by the week since I don't always have time to read. The [Snapshots](snapshots/) list is aggregated by the day. The following lists are available. All items link back to their origin sites for actual reading.
 
 Collection                                Description of Posts                                               list
 ---------------------------------         --------------------------------------------------------------     --------------------------------
@@ -22,8 +22,6 @@ Collection                                Description of Posts                  
 [Weather](weather.html)                   [NOAA's](https://noaa.gov) and [weather.gov](https://weather.gov)  [weather.txt](weather.txt)
 [Snapshots](snapshots/)                   A Sometimes daily aggregation                                      [snapshots/news.txt](snapshots/news.txt)
 
-
-All the feed items are responsibility of the organizations that publish the feed. My choice is the specific feeds I select for my aggregations.
 
 To read more about this experiment in the [README](README.md) file.
 

@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2024-09-06 08:44:50
+updated: 2024-09-07 07:27:18
 ---
 
 # motorcycles
 
-(date: 2024-09-06 08:44:50)
+(date: 2024-09-07 07:27:18)
 
 ---
 
@@ -306,4 +306,24 @@ date: 2024-09-01, from: Kickin the Tires blog
 By Seth Eggert, Associate Editor DARLINGTON, S.C. – With just under a full season under this belt, Shane van Gisbergen is now utilizing previous track experience as he returns to&#8230;  
 
 <https://kickinthetires.net/nascar/xfinity/van-gisbergen-darlington-top-10/>
+
+---
+
+## Sheldon Creed: ‘I Put in One of My Best Performances’ at Darlington
+
+date: 2024-08-31, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor DARLINGTON, S.C. – Although a late-race caution at Darlington Raceway ended Sheldon Creed’s chance at finally scoring his first NASCAR Xfinity Series victory, the Joe&#8230;  
+
+<https://kickinthetires.net/nascar/creed-best-performancest-darlington/>
+
+---
+
+## A Turbo Royal Enfield Interceptor 650 Is Wild, And Also Completely Necessary
+
+date: 2024-08-31, from: Ride Apart, Electric Motorcycle News
+
+H2 who? Time for Royal Enfield to bring a turbo-production bike into existence. 
+
+<https://www.rideapart.com/news/731828/royal-enfield-int650-turbo-video/>
 

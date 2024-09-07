@@ -1,31 +1,209 @@
 ---
 title: socal north
-updated: 2024-09-06 08:44:42
+updated: 2024-09-07 07:27:09
 ---
 
 # socal north
 
-(date: 2024-09-06 08:44:42)
+(date: 2024-09-07 07:27:09)
 
 ---
 
-## Another heatwave expected to scorch SoCal. We have tips on staying cool
+## 7 Ways to Bring Biodiversity to Your Garden
+
+date: 2024-09-06, from: California Native Plants Society
+
+<p>Gardening with native plants brings biodiversity to your garden. But there is even more you can do—follow these 7 steps to make your garden a biodiversity powerhouse!</p>
+<p>The post <a href="https://www.cnps.org/gardening/7-ways-to-bring-biodiversity-to-your-garden-40139">7 Ways to Bring Biodiversity to Your Garden</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/gardening/7-ways-to-bring-biodiversity-to-your-garden-40139>
+
+---
+
+## 50 Years Protecting Rare Plants: Reflections on the RPI with Julie Kierstead and Heath Bartosh
+
+date: 2024-09-06, from: California Native Plants Society
+
+<p>For 50 years, the California Rare Plant Inventory has served as the essential resource for understanding and protecting rare plant species in the state.</p>
+<p>The post <a href="https://www.cnps.org/rare-plants/50-years-protecting-rare-plants-40155">50 Years Protecting Rare Plants: Reflections on the RPI with Julie Kierstead and Heath Bartosh</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/rare-plants/50-years-protecting-rare-plants-40155>
+
+---
+
+## Women’s soccer ends game in a scoreless tie against Tennessee
+
+date: 2024-09-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ryan Campbell had a flashback Thursday night &#8211; the 2023 NCAA title loss.
+But the graduate student goalkeeper, and Stanford transfer, was not about to let that happen again. 
+
+<https://dailybruin.com/2024/09/06/womens-soccer-ends-game-in-a-scoreless-tie-against-tennessee/>
+
+---
+
+## Men’s water polo opens regular season in Triton Invitational ranked No. 1
+
+date: 2024-09-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+As the 2024  season commences, the Bruins will kick off as the nation&#8217;s top placeholders.
+No. 1 UCLA men&#8217;s water polo returns to competitive waters for the 2024 season with a match against No. 
+
+<https://dailybruin.com/2024/09/06/mens-water-polo-opens-regular-season-in-triton-invitational-ranked-no-1/>
+
+---
+
+## LA County’s courts expand electronic recording in response to court reporter shortage
 
 date: 2024-09-06, updated: 2024-09-06, from: The LAist
 
-For those planning to go outside, don't. L.A. County could set an all-time record high. 
+Court leadership described it as a constitutional safety net, but some court reporters aren’t so sure. 
+
+<https://laist.com/news/politics/la-countys-courts-expand-electronic-recording>
+
+---
+
+## Here's how SoCal train operators are responding the extreme heat
+
+date: 2024-09-06, updated: 2024-09-06, from: The LAist
+
+Train track inspectors on the lookout for what are known as "sun kinks." 
+
+<https://laist.com/news/climate-environment/extreme-heat-challenge-buses-and-trains>
+
+---
+
+## Buying Vape Cartridges in Bulk: 7 Things to Know for 2024
+
+date: 2024-09-06, from: The Sundail (CSUN Student Newspaper)
+
+As the demand for THC cartridges continues to rise, buying in bulk at wholesale prices offers a cost-effective way to stock up on these popular products. However, navigating the wholesale... 
+
+<https://sundial.csun.edu/184463/sundialbrandstudio/sundial-marketplace/buying-vape-cartridges-in-bulk-7-things-to-know-for-2024/>
+
+---
+
+## What California lawmakers did to regulate artificial intelligence
+
+date: 2024-09-06, updated: 2024-09-06, from: The LAist
+
+The California Legislature passed more than a dozen bills to regulate artificial intelligence in recent days, though some ambitions fell short. 
+
+<https://laist.com/news/politics/what-california-lawmakers-did-to-regulate-artificial-intelligence>
+
+---
+
+## PanCan Swim set for Sept. 21
+
+date: 2024-09-06, from: Catalina Islander
+
+On Saturday, Sept. 21 , the Catalina Island Swim Club will host its annual fundraising swim for PANCAM.org, pancreatic cancer. Swimmers will meet at Casino Point at 6:45 a.m. and the swim will start at 7:15 a.m. The swim will be 2.2 miles, total, swimming to Frog Rock and back to Casino point. Any distance [&#8230;] 
+
+<https://thecatalinaislander.com/pancan-swim-set-for-sept-21/>
+
+---
+
+## Catalina Island to hosts More Than Pink events
+
+date: 2024-09-06, from: Catalina Islander
+
+In partnership with the Susan G Komen Foundation, Catalina residents and visitors are invited to join in raising awareness and funds for Cancer Cures, by joining in the More Than Pink Walk, Paddle and Mammogram events. On Saturday September 14, starting at noon, Simultaneous Walk and Paddle Board events will initiate. Walkers will convene just [&#8230;] 
+
+<https://thecatalinaislander.com/catalina-island-to-hosts-more-than-pink-events/>
+
+---
+
+## City Council receives annual cruise ship report
+
+date: 2024-09-06, from: Catalina Islander
+
+The City Council this week voted 3-1 to receive and file the annual cruise ship report. Councilmember Mary Schickling cast the dissenting vote. Councilmember Lisa Lavelle recused herself from the meeting. The discussion of the quality of life versus revenue issue took up the bulk of the nearly five-hour council meeting Tuesday, Sept. 3. There [&#8230;] 
+
+<https://thecatalinaislander.com/city-council-receives-annual-cruise-ship-report/>
+
+---
+
+## City council increases cruise ship wharfage
+
+date: 2024-09-06, from: Catalina Islander
+
+The Avalon City Council voted unanimously on Tuesday, Sept. 3, to increase cruise ship wharfage fees by $2.50 per passenger. That will bring the rate up to $7.50 per passenger. The previous rate was $5. “City Staff proposes implementing the wharfage increase effective January 1, 2026 to provide operators with adequate notice in consideration for [&#8230;] 
+
+<https://thecatalinaislander.com/city-council-increases-cruise-ship-wharfage/>
+
+---
+
+## Sheriff’s Log: Aug. 29 to Sept. 4, 2024
+
+date: 2024-09-06, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Aug. 29 to Sept. 4, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<https://thecatalinaislander.com/sheriffs-log-aug-29-to-sept-4-2024/>
+
+---
+
+## Avalon football opens season with solid victory
+
+date: 2024-09-06, from: Catalina Islander
+
+The Avalon High football team started their season off with a win, as the Lancers battled through heat and cramps to defeat Animo Robinson of Los Angeles, 36-26, on Saturday on the road. It was a good-sized hurdle for a young team as the Lancers had never beaten Animo. Avalon graduated much of its starting [&#8230;] 
+
+<https://thecatalinaislander.com/avalon-football-opens-season-with-solid-victory/>
+
+---
+
+## A Guide for Fantasy Football Draft Day
+
+date: 2024-09-06, from: The Sundail (CSUN Student Newspaper)
+
+It&#8217;s that time of year where we consider ourselves fantasy football managers. Nothing else really matters but the win for your team. Every week, we turn to our phones, iPads,... 
+
+<https://sundial.csun.edu/184459/sports/a-guide-for-fantasy-football-draft-day/>
+
+---
+
+## Friday Links: September 6, 2024
+
+date: 2024-09-06, from: California Native Plants Society
+
+<p>Celebrate California Biodiversity Day and week with stories about protecting, understanding, and enjoying biodiversity!</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-september-6-2024-40118">Friday Links: September 6, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-september-6-2024-40118>
+
+---
+
+## Line Fire in San Bernardino County prompts evacuation warning
+
+date: 2024-09-06, updated: 2024-09-06, from: The LAist
+
+Crews are working to put out a 1,180-acre fire in Highland. 
+
+<https://laist.com/news/climate-environment/line-fire-in-san-bernardino-county-prompts-evacuation-warning>
+
+---
+
+## What's behind (or underneath) the landslides in Rancho Palos Verdes? We asked a geologist
+
+date: 2024-09-06, updated: 2024-09-06, from: The LAist
+
+We explain the geology behind the mile-long and mile-wide landslide complex uprooting homes and families in Rancho Palos Verdes. 
+
+<https://laist.com/news/climate-environment/rancho-palos-verdes-landslide-geology>
+
+---
+
+## Little relief in sight as SoCal braves hottest day of the heatwave. How to stay safe and what to expect
+
+date: 2024-09-06, updated: 2024-09-06, from: The LAist
+
+The heat will stick around through next week, with Saturday expected to be about 5 degrees cooler. 
 
 <https://laist.com/news/climate-environment/la-weather-report-sept-6-excessive-heat-fire-weather-watch>
-
----
-
-## The city of LA is giving out free AC units. Here’s how to get one
-
-date: 2024-09-06, updated: 2024-09-06, from: The LAist
-
-The event is for Angelenos aged 60 and older. 
-
-<https://laist.com/news/climate-environment/la-giving-out-free-ac-units-how-to-get-one>
 
 ---
 
@@ -36,6 +214,16 @@ date: 2024-09-06, updated: 2024-09-06, from: The LAist
 Should the City Controller be able to audit contractors? Should harbor commissioners be from specific neighborhoods? This hodgepodge of charter amendments is meant to clarify rules that have caused confusion or to set new rules to address problems. 
 
 <https://laist.com/news/politics/2024-election-california-general-la-city-measure-hh-city-governance-appointments-elections>
+
+---
+
+## The city of LA is giving out free AC units. Here’s how to get one
+
+date: 2024-09-06, updated: 2024-09-06, from: The LAist
+
+The event is for Angelenos aged 60 and older. 
+
+<https://laist.com/news/climate-environment/la-giving-out-free-ac-units-how-to-get-one>
 
 ---
 
@@ -472,7 +660,7 @@ date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/shooting-el-sol.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Los tiroteos relacionados con pandillas en la ciudad de San Fernando han sacudido la sensación de seguridad de los residentes. Mientras los dueños de negocios en el histórico centro comercial [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/04/recientes-tiroteos-relacionados-con-pandillas-causan-preocupacion-en-la-ciudad-de-san-fernando/">Recientes Tiroteos Relacionados con Pandillas Causan Preocupación en la Ciudad de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -509,7 +697,7 @@ date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="768" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=1568%2C2091&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="768" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=1568%2C2091&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240904_184729870_elsol.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Las infecciones por COVID-19 están aumentando en todo el país, y aunque hemos vuelto a nuestras rutinas, incluida la asistencia a grandes eventos, se recomienda tomar precauciones. Una defensa principal [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/04/vacunas-covid-actualizadas-disponibles-a-medida-que-aumentan-las-infecciones-en-el-aumento-del-verano/">Vacunas COVID Actualizadas Disponibles a Medida que Aumentan las Infecciones en el Aumento del Verano</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -534,7 +722,7 @@ date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_5355.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>El Congresista Tony Cárdenas ha asegurado $850,000 en Fondos para Proyectos Comunitarios para el Mid Valley YMCA en Van Nuys para la renovación de sus instalaciones, incluyendo el Centro de [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/04/cardenas-asegura-850000-para-el-mid-valley-ymca-en-van-nuys/">Cárdenas Asegura $850,000 para el Mid Valley YMCA en Van Nuys</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -559,7 +747,7 @@ date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="600" height="500" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Cooling-Center_elsol.jpg?fit=600%2C500&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Cooling-Center_elsol.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Cooling-Center_elsol.jpg?resize=300%2C250&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Cooling-Center_elsol.jpg?resize=400%2C333&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Cooling-Center_elsol.jpg?fit=600%2C500&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="600" height="500" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Cooling-Center_elsol.jpg?fit=600%2C500&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Cooling-Center_elsol.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Cooling-Center_elsol.jpg?resize=300%2C250&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Cooling-Center_elsol.jpg?resize=400%2C333&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Cooling-Center_elsol.jpg?fit=600%2C500&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A medida que las temperaturas abrasadoras continúan aumentando, habrá centros de enfriamiento disponibles en la ciudad de San Fernando para los residentes locales que necesiten una forma de combatir el [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/04/se-abriran-centros-de-enfriamiento-en-todo-el-valle-de-san-fernando/">Se Abrirán Centros de Enfriamiento en Todo el Valle de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -849,7 +1037,7 @@ date: 2024-09-04, from: The Daily Trojan (USC Student Newspaper)
 
 ## After audit raises dozens of concerns, OC cuts short a key mental health services contract
 
-date: 2024-09-04, updated: 2024-09-04, from: The LAist
+date: 2024-09-04, updated: 2024-09-07, from: The LAist
 
 The audit, obtained by LAist through a public records request, looked at the county's Be Well campus in the city of Orange. The director of the O.C.’s Health Care Agency tells LAist the county will terminate the contract. 
 
@@ -972,6 +1160,16 @@ date: 2024-09-03, updated: 2024-09-04, from: The LAist
 Housing going up at UC Riverside will create much-needed space for university students — and also for hundreds of community college students who are encouraged to transfer. 
 
 <https://laist.com/news/education/uc-riverside-community-college-district-new-dorm>
+
+---
+
+## Return to the Bluff: The reality of renting in Westchester in 2024
+
+date: 2024-09-03, from: Laloyolan (LMU Student Newspaper)
+
+With rent prices remaining high following the height of COVID-19, many students continue to navigate these changes as they move off-campus for the first time in the 2024-2025 academic year. 
+
+<https://www.laloyolan.com/news/return-to-the-bluff-the-reality-of-renting-in-westchester-in-2024/article_d8008080-d9c6-501a-99bd-b36e9f6e1063.html>
 
 ---
 
@@ -1230,4 +1428,92 @@ And they ran the gamut –&#160;the Bruins in the Big Ten, coach DeShaun Foster 
 Halfway through the duel, though, lackluster was the fitting term for each new look. 
 
 <https://dailybruin.com/2024/08/31/ucla-defeats-hawaii-with-second-half-charge-in-first-look-at-fosters-system/>
+
+---
+
+## Alfee Reft, Big Ten, Olympic veteran brings recruiting power to women’s volleyball
+
+date: 2024-08-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+From Paris to Pauley Pavilion, Alfee Reft&#8217;s impact on the Bruins transcends the court.
+Serving as a seasonal assistant coach for Team USA, Reft, the UCLA women&#8217;s volleyball head coach, worked alongside UCLA Hall of Famers Karch Kiraly &#8211; the national team&#8217;s head coach and UCLA men&#8217;s volleyball alumni &#8211; and Sue Enquist, the team&#8217;s culture consultant and a 10-time NCAA national champion with UCLA softball. 
+
+<https://dailybruin.com/2024/08/31/alfee-reft-big-ten-olympic-veteran-brings-recruiting-power-to-womens-volleyball/>
+
+---
+
+## Are You Prepared for an Emergency?
+
+date: 2024-08-31, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin “There’s no harm in hoping for the best as long as you’re prepared for the worst.” – Stephen King According to the Federal Emergency Management Agency’s (FEMA) 2023 National Household Survey on Disaster Preparedness, the most common action Americans took to prepare for a disaster were assembling or updating their [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/08/31/are-you-prepared-for-an-emergency/">Are You Prepared for an Emergency?</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/08/31/are-you-prepared-for-an-emergency/>
+
+---
+
+## SCE to turn off power to 140 homes in Rancho Palos Verdes on Sunday, triggering evacuation warning
+
+date: 2024-08-31, updated: 2024-09-01, from: The LAist
+
+SCE told LAist that homeowners living in the area affected by continual land movements are being notified that the electricity turnoff is scheduled for Sunday. 
+
+<https://laist.com/news/climate-environment/sec-power-shutoff-rpv>
+
+---
+
+## Bright flashes of future as men’s soccer defeats Portland with 2 freshmen goals
+
+date: 2024-08-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+It had been four years since two UCLA freshmen scored in the same game. 
+That changed Friday night.
+The goals were courtesy of former LAFC Academy teammates midfielder Tamir Ratoviz and defender Shakir Nixon &#8211; who not only each netted their first collegiate goals, but also set one another up for their breakthrough scores. 
+
+<https://dailybruin.com/2024/08/31/bright-flashes-of-future-as-mens-soccer-defeats-portland-with-2-freshmen-goals/>
+
+---
+
+## The Weekly Frame II: New Perspectives
+
+date: 2024-08-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>As “The Weekly Frame” starts up and classes are back in session it is a new opportunity to see campus through a different lens.</p>
+<p>The post <a href="https://dailytrojan.com/2024/08/31/the-weekly-frame-ii-new-perspectives/">The Weekly Frame II: New Perspectives</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/08/31/the-weekly-frame-ii-new-perspectives/>
+
+---
+
+## Women take team second, men show fresh faces in cross country opener at elevation
+
+date: 2024-08-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+An unexpected fourth competitor appeared at the Bruins’ season-opener – elevation.
+UCLA cross country kicked off its season with a tri-meet against UC Riverside and UC Santa Barbara at Big Bear Lake, California, on Friday. 
+
+<https://dailybruin.com/2024/08/31/women-take-team-second-men-show-fresh-faces-in-cross-country-opener-at-elevation/>
+
+---
+
+## Huntington Beach says it will fight bill that prohibits public libraries from banning books
+
+date: 2024-08-31, updated: 2024-08-31, from: The LAist
+
+AB 1825 is awaiting Gov. Gavin Newsom's signature. 
+
+<https://laist.com/news/politics/huntington-beach-opposes-bill-prohibiting-library-book-bans>
+
+---
+
+## Move in Checklist
+
+date: 2024-08-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/08/31/move-in-checklist/>
 
