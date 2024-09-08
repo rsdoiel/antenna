@@ -1,11 +1,245 @@
 ---
 title: central coast
-updated: 2024-09-07 07:27:12
+updated: 2024-09-08 07:41:22
 ---
 
 # central coast
 
-(date: 2024-09-07 07:27:12)
+(date: 2024-09-08 07:41:22)
+
+---
+
+## Hammond’s Point Sunset
+
+date: 2024-09-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Jean-Harfenist.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sunset with friends at Hammond’s Point in Montecito." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Jean-Harfenist.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Jean-Harfenist.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Jean-Harfenist.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Jean-Harfenist.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Jean-Harfenist.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Jean-Harfenist.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Jean-Harfenist.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Jean-Harfenist.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Jean-Harfenist.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Jean-Harfenist.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Jean-Harfenist.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Jean-Harfenist.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082124-POD-Jean-Harfenist.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/hammonds-point-sunset/">Hammond’s Point Sunset</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/hammonds-point-sunset/>
+
+---
+
+## SBCC Football Struggles to Keep Up With Fullerton College in Season-Opening Loss, 38-0
+
+date: 2024-09-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbcc-football-97-cover.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbcc-football-97-cover.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbcc-football-97-cover.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbcc-football-97-cover.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbcc-football-97-cover.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbcc-football-97-cover.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbcc-football-97-cover.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbcc-football-97-cover.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbcc-football-97-cover.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbcc-football-97-cover.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbcc-football-97-cover.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A depleted Santa Barbara City College football team dropped its season opener to powerhouse Fullerton College by a score of 38-0 on Saturday at La Playa Stadium. The Vaqueros were [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/sbcc-football-struggles-to-keep-up-with-fullerton-college-in-season-opening-loss-38-0/">SBCC Football Struggles to Keep Up With Fullerton College in Season-Opening Loss, 38-0</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sbcc-football-struggles-to-keep-up-with-fullerton-college-in-season-opening-loss-38-0/>
+
+---
+
+## Local Teams Wrap Up Action at Santa Barbara Boys Water Polo Invitational
+
+date: 2024-09-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara Boys Water Polo Invitational came to a close on Saturday, with Corona Del Mar outlasting Mater Dei, 9-7, for the championship. As for the local teams, San [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/local-teams-wrap-up-action-at-santa-barbara-boys-water-polo-invitational/">Local Teams Wrap Up Action at Santa Barbara Boys Water Polo Invitational</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/local-teams-wrap-up-action-at-santa-barbara-boys-water-polo-invitational/>
+
+---
+
+## Report: More Affordable Housing, Services Needed for Goleta’s Homeless
+
+date: 2024-09-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Goleta-homeless-report-2-RC-scaled.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Goleta-homeless-report-2-RC-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Goleta-homeless-report-2-RC-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Goleta-homeless-report-2-RC-scaled.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Goleta-homeless-report-2-RC-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Goleta-homeless-report-2-RC-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Goleta-homeless-report-2-RC-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Goleta-homeless-report-2-RC-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Goleta-homeless-report-2-RC-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Goleta-homeless-report-2-RC-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Goleta-homeless-report-2-RC-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Goleta-homeless-report-2-RC-scaled.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Goleta-homeless-report-2-RC-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-Goleta-homeless-report-2-RC-scaled.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>In the third year of Goleta’s Homelessness Strategic Plan, the city is reporting more people going into housing, fewer encampments, but more need for services and affordable housing.  On Tuesday [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/report-more-affordable-housing-services-needed-for-goletas-homeless/">Report: More Affordable Housing, Services Needed for Goleta&#8217;s Homeless</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/report-more-affordable-housing-services-needed-for-goletas-homeless/>
+
+---
+
+## Motorcyclist Dies After Falling 100 Feet Over Cliff Near Highway 1 at Jalama Road
+
+date: 2024-09-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A motorcyclist died Saturday after driving off a cliff on Jalama Road, according to the Santa Barbara County Fire Department. The motorcycle rider fell about 100 feet off the side [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/motorcyclist-dies-after-falling-100-feet-over-cliff-near-highway-1-at-jalama-road/">Motorcyclist Dies After Falling 100 Feet Over Cliff Near Highway 1 at Jalama Road</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/motorcyclist-dies-after-falling-100-feet-over-cliff-near-highway-1-at-jalama-road/>
+
+---
+
+## No. 11 UCSB Men’s Water Polo Splits Doubleheader at Triton Invitational
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The No. 11 UC Santa Barbara Men&#8217;s Water Polo went 1-1 across their first two matches of the season at the Triton Invitational on Saturday, dropping a match against No. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/no-11-ucsb-mens-water-polo-splits-doubleheader-at-triton-invitational/">No. 11 UCSB Men&#8217;s Water Polo Splits Doubleheader at Triton Invitational</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/no-11-ucsb-mens-water-polo-splits-doubleheader-at-triton-invitational/>
+
+---
+
+## Robert Sulnick: Without Ending Oil Production, Santa Barbara Climate Plan Falls Short
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>As of August, 19 U.S. climate disasters have cost more than $1 billion each. These events killed 149 people. It’s become painfully obvious since the world is not going to restrict [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/robert-sulnick-without-ending-oil-production-santa-barbara-climate-plan-falls-short/">Robert Sulnick: Without Ending Oil Production, Santa Barbara Climate Plan Falls Short</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/robert-sulnick-without-ending-oil-production-santa-barbara-climate-plan-falls-short/>
+
+---
+
+## James Dulley: Here’s How to Build a New Fence for Privacy
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="654" height="1024" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?fit=654%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Privacy fence" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?w=1149&amp;ssl=1 1149w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?resize=192%2C300&amp;ssl=1 192w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?resize=654%2C1024&amp;ssl=1 654w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?resize=768%2C1203&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?resize=980%2C1536&amp;ssl=1 980w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?resize=400%2C627&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?resize=706%2C1106&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?fit=654%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Dear James: I live in a house on a sloping lot and want to add a privacy fence around the backyard. How should I construct it so it looks good [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/james-dulley-heres-how-to-build-a-new-fence-for-privacy/">James Dulley: Here’s How to Build a New Fence for Privacy</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/james-dulley-heres-how-to-build-a-new-fence-for-privacy/>
+
+---
+
+## Jim Langley: Seeking Substance Over Style
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>As we prepare to participate in perhaps the most bizarre presidential election in the nearly 250-year history of this great nation’s existence, I can’t resist sharing my thoughts on all [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/jim-langley-seeking-substance-over-style/">Jim Langley: Seeking Substance Over Style</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/jim-langley-seeking-substance-over-style/>
+
+---
+
+## Sierra Buttes Trail
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Tamarack Lakes off the Sierra Buttes Trail north of Sierra City." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/sierra-buttes-trail/">Sierra Buttes Trail</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sierra-buttes-trail/>
+
+---
+
+## Laird Finkel, Dons Have Their Way in 49-0 Rout of Dos Pueblos
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="799" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?fit=1024%2C799&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?w=1744&amp;ssl=1 1744w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?resize=300%2C234&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?resize=1024%2C799&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?resize=768%2C599&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?resize=1536%2C1198&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?resize=1200%2C936&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?resize=1568%2C1223&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?resize=400%2C312&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?resize=706%2C551&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?fit=1024%2C799&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Friday night’s Dos Pueblos-Santa Barbara High football game was a perfect example of why school and athletic administrators in the Northern Area of the CIF-Southern Division decided to reshuffle teams [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/laird-finkel-dons-have-their-way-in-49-0-rout-of-dos-pueblos/">Laird Finkel, Dons Have Their Way in 49-0 Rout of Dos Pueblos</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/laird-finkel-dons-have-their-way-in-49-0-rout-of-dos-pueblos/>
+
+---
+
+## San Marcos Football Shuts Down Santa Ynez in Second Half, Earns 23-13 Victory
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>After trailing by three points at halftime, San Marcos football took control of the game in the second half and pulled out a 23-13 win over Santa Ynez on Friday [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/san-marcos-football-shuts-down-santa-ynez-in-second-half-earns-23-13-victory/">San Marcos Football Shuts Down Santa Ynez in Second Half, Earns 23-13 Victory</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/san-marcos-football-shuts-down-santa-ynez-in-second-half-earns-23-13-victory/>
+
+---
+
+## Local Prep Football Scores from Week 2
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara County Santa Barbara High 49, Dos Pueblos 0 San Marcos 23, Santa Ynez 13 Bishop Diego 31, Westlake 28 Righetti 41, Lompoc 7 Ventura County Rio Mesa 33, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/local-prep-football-scores-from-week-2/">Local Prep Football Scores from Week 2</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/local-prep-football-scores-from-week-2/>
+
+---
+
+## Bishop Diego Football Comes Away with 31-28 Road Win Over Westlake
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Bishop Diego football earned a hard-fought 31-28 road victory over Westlake on Friday. With the win, the Cardinals are now 2-1 heading into a home game against Northgate next week. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bishop-diego-football-comes-away-with-31-28-road-win-over-westlake/">Bishop Diego Football Comes Away with 31-28 Road Win Over Westlake</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bishop-diego-football-comes-away-with-31-28-road-win-over-westlake/>
+
+---
+
+## Local Channel League Boys Water Polo Teams Compete in Day 2 of Santa Barbara Invitational
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>San Marcos, Dos Pueblos and Santa Barbara High boys water polo all competed in the Santa Barbara Invitational on Friday across the three local campuses. San Marcos The Royals split [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/local-channel-league-boys-water-polo-teams-compete-in-day-2-of-santa-barbara-invitational/">Local Channel League Boys Water Polo Teams Compete in Day 2 of Santa Barbara Invitational</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/local-channel-league-boys-water-polo-teams-compete-in-day-2-of-santa-barbara-invitational/>
+
+---
+
+## SBCC Symposium Dives Into ‘Blue Economy’ and Ocean-Related Jobs
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Tricia Ramos, the dean of academic affairs for Santa Monica College, explains how she and her team developed a program that helped train students and prepare them for jobs in the blue economy." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Visitors from land and sea gathered at Santa Barbara City College this week to learn how to guide students to ocean-based jobs and help shape the city’s “blue economy.” The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/sbcc-symposium-dives-into-blue-economy-and-ocean-related-jobs/">SBCC Symposium Dives Into &#8216;Blue Economy&#8217; and Ocean-Related Jobs</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sbcc-symposium-dives-into-blue-economy-and-ocean-related-jobs/>
+
+---
+
+## Santa Barbara High Cross Country Takes on Jaguar Invitational
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara High cross country competed in the inaugural Jaguar Invitational at Del Sol High School on Friday, with the girls team placing fourth of eight teams while the boys [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-high-cross-country-takes-on-jaguar-invitational/">Santa Barbara High Cross Country Takes on Jaguar Invitational</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-high-cross-country-takes-on-jaguar-invitational/>
+
+---
+
+## From Our Inbox: Letters to the Editor for the Week Ending Sept. 6, 2024
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Regarding the Sept. 4 article, “Strong Towns SB Makes Case to Permanently Close State Street to Cars,” where will shoppers see the store names? How will they know what block [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/from-our-inbox-letters-to-the-editor-for-the-week-ending-sept-6-2024/">From Our Inbox: Letters to the Editor for the Week Ending Sept. 6, 2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/from-our-inbox-letters-to-the-editor-for-the-week-ending-sept-6-2024/>
+
+---
+
+## Santa Barbara Teacher Accused of Recording Minors Arrested in Child Molestation Case
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A 54-year-old Santa Barbara teacher was arrested Friday on suspicion of child molestation after a previous arrest in July for secretly recording minors at the school where he worked.   [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-teacher-accused-of-recording-minors-arrested-in-child-molestation-case/">Santa Barbara Teacher Accused of Recording Minors Arrested in Child Molestation Case</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-teacher-accused-of-recording-minors-arrested-in-child-molestation-case/>
 
 ---
 
@@ -938,165 +1172,4 @@ date: 2024-09-01, from: Newshawk, the freshest news in Santa Barbara County
  
 
 <https://www.noozhawk.com/crews-nearly-finished-sealing-platform-holly-oil-wells/>
-
----
-
-## UCSB Women’s Volleyball Falls to No. 20 Florida State in Straight Sets
-
-date: 2024-08-31, from: Newshawk, the freshest news in Santa Barbara County
-
-<p>The UC Santa Barbara Women&#8217;s Volleyball team (0-2) was back in action today as they faced their second nationally-ranked opponent in as many matches, taking on the No. 20 Florida [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/ucsb-womens-volleyball-falls-to-no-20-florida-state-in-straight-sets/">UCSB Women&#8217;s Volleyball Falls to No. 20 Florida State in Straight Sets</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<https://www.noozhawk.com/ucsb-womens-volleyball-falls-to-no-20-florida-state-in-straight-sets/>
-
----
-
-## Dos Pueblos, Santa Barbara Cross Country Begin Season at Gaucho Invitational
-
-date: 2024-08-31, from: Newshawk, the freshest news in Santa Barbara County
-
-<p>Dos Pueblos cross country put together a strong showing at the Gaucho Invitational on Saturday morning at UCSB, with the boys&#8217; team taking second place of 11 teams while the [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/santa-barbara-high-cross-country-begins-season-at-gaucho-invitational/">Dos Pueblos, Santa Barbara Cross Country Begin Season at Gaucho Invitational</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<https://www.noozhawk.com/santa-barbara-high-cross-country-begins-season-at-gaucho-invitational/>
-
----
-
-## Virtual Meet the Doctor Examines Causes, Treatments of Epilepsy
-
-date: 2024-08-31, from: Newshawk, the freshest news in Santa Barbara County
-
-<p>The Cottage Santa Barbara Neuroscience Institute will presents a free Virtual Meet the Doctor event, 4-5 p.m. Tuesday, Sept. 24, with Dr. Michael Gibbs, an epileptologist and the medical director [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/virtual-meet-the-doctor-examines-causes-treatments-of-epilepsy/">Virtual Meet the Doctor Examines Causes, Treatments of Epilepsy</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<https://www.noozhawk.com/virtual-meet-the-doctor-examines-causes-treatments-of-epilepsy/>
-
----
-
-## James Dulley: Expert Tips to Install a New Garbage Disposal Yourself
-
-date: 2024-08-31, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="767" height="1024" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082224adAP.jpg?fit=767%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Garbage disposal" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082224adAP.jpg?w=1144&amp;ssl=1 1144w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082224adAP.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082224adAP.jpg?resize=767%2C1024&amp;ssl=1 767w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082224adAP.jpg?resize=768%2C1025&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082224adAP.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082224adAP.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082224adAP.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082224adAP.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082224adAP.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082224adAP.jpg?resize=400%2C534&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082224adAP.jpg?resize=706%2C942&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082224adAP.jpg?fit=767%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Dear James: Our old garbage disposal is noisy after years of our kids dropping forks in it. If I buy one at a home center store, should I attempt to [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/james-dulley-expert-tips-to-install-a-new-garbage-disposal-yourself/">James Dulley: Expert Tips to Install a New Garbage Disposal Yourself</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<https://www.noozhawk.com/james-dulley-expert-tips-to-install-a-new-garbage-disposal-yourself/>
-
----
-
-## Suspect Seized After Lengthy Standoff at Old Town Goleta Apartments
-
-date: 2024-08-31, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-sheriff-standoff-goleta-2-jm.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sheriff&#039;s deputies and Special Enforcement Team members respond to a barricaded man in Goleta Saturday morning." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-sheriff-standoff-goleta-2-jm.jpg?w=1374&amp;ssl=1 1374w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-sheriff-standoff-goleta-2-jm.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-sheriff-standoff-goleta-2-jm.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-sheriff-standoff-goleta-2-jm.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-sheriff-standoff-goleta-2-jm.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-sheriff-standoff-goleta-2-jm.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-sheriff-standoff-goleta-2-jm.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-sheriff-standoff-goleta-2-jm.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>A band of law enforcement officers surrounded an Old Town Goleta apartment building Saturday morning in response to a reported fight among residents. A man suspected of battery barricaded himself [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/old-town-goleta-housing-sheriff-standoff/">Suspect Seized After Lengthy Standoff at Old Town Goleta Apartments</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<https://www.noozhawk.com/old-town-goleta-housing-sheriff-standoff/>
-
----
-
-## Jim Langley: Seeking a Simpler Life
-
-date: 2024-08-31, from: Newshawk, the freshest news in Santa Barbara County
-
-<p>Life can be quite complex these days and we need to take at least some of the blame for our present predicament. Through it all, what has not changed over [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/jim-langley-seeking-a-simpler-life/">Jim Langley: Seeking a Simpler Life</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<https://www.noozhawk.com/jim-langley-seeking-a-simpler-life/>
-
----
-
-## SpaceX Launches Back-to-Back Starlink Missions from California, Florida
-
-date: 2024-08-31, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-SpaceX-Starlink-1-cont-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A SpaceX rocket climbs away from Vandenberg Space Force Base early Saturday to deliver Starlink satellites into orbit." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-SpaceX-Starlink-1-cont-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-SpaceX-Starlink-1-cont-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-SpaceX-Starlink-1-cont-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-SpaceX-Starlink-1-cont-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-SpaceX-Starlink-1-cont-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-SpaceX-Starlink-1-cont-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-SpaceX-Starlink-1-cont-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-SpaceX-Starlink-1-cont-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-SpaceX-Starlink-1-cont-2000.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/083124-SpaceX-Starlink-1-cont-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Two Falcon 9 rockets — one in California and one in Florida — launched and landed successfully early Saturday morning, hours after SpaceX received permission to return to flight days following [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/spacex-launches-back-to-back-starlink-missions-from-california-florida/">SpaceX Launches Back-to-Back Starlink Missions from California, Florida</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<https://www.noozhawk.com/spacex-launches-back-to-back-starlink-missions-from-california-florida/>
-
----
-
-## Spot of Color
-
-date: 2024-08-31, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/042721-POD-Williams.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A random Gerbera daisy provides a vivid spot of color at Summerland Beach." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/042721-POD-Williams.jpg?w=2448&amp;ssl=1 2448w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/042721-POD-Williams.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/042721-POD-Williams.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/042721-POD-Williams.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/042721-POD-Williams.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/042721-POD-Williams.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/042721-POD-Williams.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/042721-POD-Williams.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/042721-POD-Williams.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/042721-POD-Williams.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/042721-POD-Williams.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/042721-POD-Williams.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/042721-POD-Williams.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The post <a href="https://www.noozhawk.com/spot-of-color/">Spot of Color</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<https://www.noozhawk.com/spot-of-color/>
-
----
-
-## San Marcos Football Falls to Beckman in Heartbreaking Fashion, 10-7
-
-date: 2024-08-31, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-football-830.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-football-830.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-football-830.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-football-830.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-football-830.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-football-830.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-football-830.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-football-830.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-football-830.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-football-830.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/sm-football-830.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>San Marcos football dropped a nailbiter to Beckman in the final minute of their home opener, 10-7, on Friday in Warkentin Stadium. The Royals claimed their first lead of the [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/san-marcos-football-comes-up-short-in-heartbreaking-fashion-to-beckman-10-7/">San Marcos Football Falls to Beckman in Heartbreaking Fashion, 10-7</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<https://www.noozhawk.com/san-marcos-football-comes-up-short-in-heartbreaking-fashion-to-beckman-10-7/>
-
----
-
-## Prep Football Roundup: Big Second Half Powers Santa Barbara to 47-23 Win Over Valencia
-
-date: 2024-08-31, from: Newshawk, the freshest news in Santa Barbara County
-
-<p>Santa Barbara High football made a statement with a 47-23 road win over Valencia on Friday. The Dons lost to the Vikings for one of their three losses last season, [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/prep-football-roundup-big-second-half-powers-santa-barbara-to-47-23-win-over-valencia/">Prep Football Roundup: Big Second Half Powers Santa Barbara to 47-23 Win Over Valencia</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<https://www.noozhawk.com/prep-football-roundup-big-second-half-powers-santa-barbara-to-47-23-win-over-valencia/>
-
----
-
-## Laguna Blanca Football Erupts in Second Half for Comeback Win in Season Opener
-
-date: 2024-08-31, from: Newshawk, the freshest news in Santa Barbara County
-
-<p>Laguna Blanca football opened its season with a 36-24 comeback victory over United Christian Academy on the road on Friday. The Owls, an 8-man squad, trailed 24-6 at halftime but [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/laguna-blanca-football-erupts-in-second-half-for-comeback-win-in-season-opener/">Laguna Blanca Football Erupts in Second Half for Comeback Win in Season Opener</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<https://www.noozhawk.com/laguna-blanca-football-erupts-in-second-half-for-comeback-win-in-season-opener/>
-
----
-
-## TechTopia Shows Off Innovation and Research of Industry, UCSB Labs
-
-date: 2024-08-31, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-TechTopia-UCSB-tour-nanofab-facility-1-gm.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Demis John, process scientist manager of the Nanofabrication Facility, talks about important research conducted at the university facility." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-TechTopia-UCSB-tour-nanofab-facility-1-gm.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-TechTopia-UCSB-tour-nanofab-facility-1-gm.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-TechTopia-UCSB-tour-nanofab-facility-1-gm.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-TechTopia-UCSB-tour-nanofab-facility-1-gm.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-TechTopia-UCSB-tour-nanofab-facility-1-gm.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-TechTopia-UCSB-tour-nanofab-facility-1-gm.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-TechTopia-UCSB-tour-nanofab-facility-1-gm.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-TechTopia-UCSB-tour-nanofab-facility-1-gm.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-TechTopia-UCSB-tour-nanofab-facility-1-gm.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-TechTopia-UCSB-tour-nanofab-facility-1-gm.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-TechTopia-UCSB-tour-nanofab-facility-1-gm.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082924-TechTopia-UCSB-tour-nanofab-facility-1-gm.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Walking through UC Santa Barbara’s campus, one wouldn’t realize that inside the very buildings they pass by, students and entrepreneurs are inside labs making diamonds and microchips and analyzing data [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/techtopia-shows-off-innovation-and-research-of-ucsb-labs-local-industry/">TechTopia Shows Off Innovation and Research of Industry, UCSB Labs</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<https://www.noozhawk.com/techtopia-shows-off-innovation-and-research-of-ucsb-labs-local-industry/>
-
----
-
-## Local Prep Football Scores from Week One
-
-date: 2024-08-31, from: Newshawk, the freshest news in Santa Barbara County
-
-<p>Santa Barbara County Santa Barbara High 47, Valencia 23 Notre Dame (Sherman Oaks) 35, Bishop Diego 34 Beckman 10, San Marcos 7 Roya 20, Dos Pueblos 13 Carpinteria 28, Hollywood [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/local-prep-football-scores-from-week-one/">Local Prep Football Scores from Week One</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<https://www.noozhawk.com/local-prep-football-scores-from-week-one/>
 

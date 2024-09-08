@@ -1,11 +1,81 @@
 ---
 title: games
-updated: 2024-09-07 07:27:15
+updated: 2024-09-08 07:41:25
 ---
 
 # games
 
-(date: 2024-09-07 07:27:15)
+(date: 2024-09-08 07:41:25)
+
+---
+
+## Poor Lydia Deetz gets the rawest deal in Beetlejuice 2
+
+date: 2024-09-08, updated: 2024-09-07, from: Polygon Website
+
+There’s a whole lot going on in Tim Burton’s sequel to his 1988 hit Beetlejuice. Burton and his writers bring back some of the original characters for Beetlejuice Beetlejuice, and introduce a lot of new ones, then cram them all together in half a dozen distracted, incomplete plot lines. None of the characters, new or [&#8230;] 
+
+<https://www.polygon.com/opinion/449228/beetlejuice-2-lydia-deetz-problem-winona-ryder>
+
+---
+
+## What does the future of Vtubing look like? Cover’s Yagoo has the answer
+
+date: 2024-09-08, updated: 2024-09-08, from: Polygon Website
+
+Inside the cavernous Kings Theatre in Brooklyn, New York, the crowd started shouting in anticipation of the concert that was set to begin, but one lone voice cut through the roar: “Yaaaaaagoooooooooo!”&#160; The event was Hololive’s Breaking Dimensions concert on Aug. 24, a show where digital performers known as Vtubers sing and dance live onstage [&#8230;] 
+
+<https://www.polygon.com/q-and-a/448035/vtubers-cover-yagoo-interview>
+
+---
+
+## Rebel Ridge needed ‘sloppy, awkward’ action, says director Jeremy Saulnier
+
+date: 2024-09-07, updated: 2024-09-06, from: Polygon Website
+
+Jeremy Saulnier’s supremely tense new Netflix movie Rebel Ridge sits firmly in the action category. But where stylized hit actioners like the John Wick series or the HiGH&#38;LOW movies get their mileage from over-the-top action stunts, the throwdowns in Rebel Ridge are simple and streamlined enough to feel entirely believable. Previous standout Saulnier movies like [&#8230;] 
+
+<https://www.polygon.com/movies/449003/rebel-ridge-behind-the-scenes-sloppy-action>
+
+---
+
+## Grid&#8217;s tastefully destroyed Game Boys make for great art, and they&#8217;re 40% off now
+
+date: 2024-09-07, updated: 2024-09-06, from: Polygon Website
+
+Grid, the makers of awesome, shadowbox-style pieces made from bygone gadgets and gaming accessories, is currently celebrating its fourth anniversary. To mark the occasion, Grid is offering its framed Classic Game Boy for its lowest price ever. Typically, this masterpiece costs $299, but you can currently hang one on your wall for just $179 while [&#8230;] 
+
+<https://www.polygon.com/good-deals/449005/grid-gameboy-anniversary-gaming-deal-sale>
+
+---
+
+## Closer the Distance replicates grief so well that I couldn’t finish playing it
+
+date: 2024-09-07, updated: 2024-09-06, from: Polygon Website
+
+In Closer the Distance, my first inclination is to console Conny. She just lost her sister, Angie, to a tragic accident — a few hours after a nasty fight with her mother, Pia. At the same time that Pia was decrying her daughter’s terrible life decisions, Angie was taking her last breaths. All I can [&#8230;] 
+
+<https://www.polygon.com/review/449133/closer-distance-grief-life-sim>
+
+---
+
+## The best movies new to streaming this September
+
+date: 2024-09-07, updated: 2024-09-06, from: Polygon Website
+
+August is finally over, and you know what that means: Summer is almost over! Before we can start putting away our swimsuits and busting out our finest fall-themed sweaters, however, we’ll have to make it through September first. There’s a ton of exciting new releases coming to theaters this month, including Beetlejuice Beetlejuice and Megalopolis, [&#8230;] 
+
+<https://www.polygon.com/what-to-watch/447029/best-new-movies-netflix-amazon-prime-max-hulu-september-2024>
+
+---
+
+## Monster Hunter Wilds made me a believer in its ecosystem
+
+date: 2024-09-07, updated: 2024-09-07, from: Polygon Website
+
+As Capcom’s Monster Hunter series has grown in scope and popularity over the past 20 years, so too have the game’s worlds. They’ve gone from discrete zones to massive open-world environments populated with smarter, more believable creatures. Monster Hunter Wilds continues that evolution, with an emphasis on its ecosystem, an ever-changing climate, and wildlife that [&#8230;] 
+
+<https://www.polygon.com/preview/449206/monster-hunter-wilds-ecosystem-preview>
 
 ---
 
@@ -706,74 +776,4 @@ date: 2024-09-01, updated: 2024-08-30, from: Polygon Website
 Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s coming difficult to parse. This month brings the movie adaptation of 2005 YA dystopian novel Uglies. Better late than never! There’s also new seasons of Emily [&#8230;] 
 
 <https://www.polygon.com/entertainment/445323/new-netflix-september-2024-movies-tv-to-watch>
-
----
-
-## With The Wild Robot, Chris Sanders finally set computer animation free
-
-date: 2024-08-31, updated: 2024-08-31, from: Polygon Website
-
-When Lilo &#38; Stitch and How to Train Your Dragon co-director Chris Sanders dropped into DreamWorks to see what movies they had on their development roster, he fell in love with The Wild Robot. Originally a series of middle-grade books by writer and illustrator Peter Brown, the story follows a robot named Roz who ends [&#8230;] 
-
-<https://www.polygon.com/animation-cartoons/446701/the-wild-robot-chris-sanders-interview-animation>
-
----
-
-## With The Wild Robot, Chris Sanders finally set computer animation free
-
-date: 2024-08-31, updated: 2024-08-30, from: Polygon Website
-
-When Lilo &#38; Stitch and How to Train Your Dragon co-director Chris Sanders dropped into DreamWorks to see what movies they had on their development roster, he fell in love with The Wild Robot. Originally a series of middle-grade books by writer and illustrator Peter Brown, the story follows a robot named Roz who ends [&#8230;] 
-
-<https://www.polygon.com/animation-cartoons/446701/with-the-wild-robot-chris-sanders-finally-set-computer-animation-free>
-
----
-
-## Genshin Impact players are mad the devs improved the game
-
-date: 2024-08-31, updated: 2024-08-30, from: Polygon Website
-
-Hoyoverse released its 5.0 version update of Genshin Impact on Wednesday. While players tend to be excited for flashy additions to the game, such as new characters and regions to explore, this big update also contains more quality-of-life features. The developers have reduced the requirements for people to play late-game content and added a gadget [&#8230;] 
-
-<https://www.polygon.com/genshin-impact/446223/genshin-5-update-fan-reactions>
-
----
-
-## The Never Stop Blowing Up cast breaks open their time in the Dimension 20 dome
-
-date: 2024-08-31, updated: 2024-08-31, from: Polygon Website
-
-Many elements must converge just right to make an actual play season special: The game system, the setting, the presentation, the game master. But there’s perhaps nothing more important than a good cast, and Dimension 20’s Never Stop Blowing Up delivered a group for the ages. Six of the funniest members of Dropout’s deep roster [&#8230;] 
-
-<https://www.polygon.com/actual-play/446227/never-stop-blowing-up-dimension-20-cast-interview>
-
----
-
-## With a fresh reinterpretation of The Killer, John Woo mints another action star
-
-date: 2024-08-31, updated: 2024-08-30, from: Polygon Website
-
-It’s not unheard of for a director to remake one of their most significant works. But it’s rare for it to work out as well as John Woo’s remake of his classic hitman action movie The Killer. Michael Haneke famously gave it a go with his shot-for-shot English-language remake of his disturbing 1997 meta slasher [&#8230;] 
-
-<https://www.polygon.com/action/446226/the-killer-remake-john-woo-peacock-review>
-
----
-
-## How do you revive a game like Yars’ Revenge? Do something unexpected
-
-date: 2024-08-31, updated: 2024-08-31, from: Polygon Website
-
-For more than 40 years, Atari 2600 game Yars’ Revenge has endured. Atari has rereleased the 1982 action game multiple times, both in cartridge form and built into retro consoles. Multiple developers have attempted to remake it, reimagine it, or create an official sequel to the simplistic shooter. In September, developer WayForward Technologies will take [&#8230;] 
-
-<https://www.polygon.com/gaming/446103/yars-revenge-rising-atari-wayforward-preview>
-
----
-
-## Pokémon Go Popplio Community Day guide
-
-date: 2024-08-31, updated: 2024-08-30, from: Polygon Website
-
-Pokémon Go is having a Popplio Community Day event on Saturday, Aug. 31, from 2-5 p.m. in your local time. As expected with a Community Day event, Popplio will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve list out below. [&#8230;] 
-
-<https://www.polygon.com/pokemon-go-guide/445907/popplio-community-day-event-shiny-brionne-primarina>
 

@@ -1,17 +1,210 @@
 ---
 title: columns
-updated: 2024-09-07 07:27:13
+updated: 2024-09-08 07:41:23
 ---
 
 # columns
 
-(date: 2024-09-07 07:27:13)
+(date: 2024-09-08 07:41:23)
+
+---
+
+## Shania Twain
+
+date: 2024-09-08, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<https://steady.substack.com/p/shania-twain>
+
+---
+
+## 2024-09-08 WebDAV no more
+
+date: 2024-09-08, from: Alex Schroeder's Blog
+
+<h1 id="2024-09-08-webdav-no-more">2024-09-08 WebDAV no more</h1>
+
+<p>I must have implemented <a href="http://www.webdav.org/">WebDAV</a> two or three times in the last decade or two. Just now I used <a href="https://httpd.apache.org/docs/current/mod/mod_dav.html">mod_dav for Apache</a> to enable WebDAV for some directories.</p>
+
+<p>In theory, it&rsquo;s great. You can treat the web server as a file server, connecting to it and using your regular file manager and text editor, using your favourite shell to do things. And if your website already uses permissions to restrict access to some locations, you can use the same config files to handle the making of changes.</p>
+
+<p>In practice, however, the operating systems all have such brittle implementations that none of the solutions I had in production ever worked well. It doesn&rsquo;t matter whether it&rsquo;s Windows&rsquo; File Explorer, macOS&rsquo; Finder, the Gnome virtual file system via Nautilus or something else. The only thing that works is the command-line client <a href="https://notroj.github.io/cadaver/">cadaver</a>. It&rsquo;s the best. It works. Sooner or later, however, I realize that cadaver is probably not the tool I can expect non-technical people to use. It has the same user-interface as the old ftp command-line client.</p>
+
+<p>I wonder what the issue is. WebDAV is 25 years old. It seems to me that something about the process or the spec must have set it up for failure. Perhaps it was a complex protocol? <a href="https://datatracker.ietf.org/doc/html/rfc2518">RFC 2518</a> for WebDAV is from February 1999, <a href="https://datatracker.ietf.org/doc/html/rfc2616">RFC 2616</a> for HTTP/1.1 is from June 1999. Perhaps the move from HTTP/1.0 to HTTP/1.1 too away all the thunder. There was the DotCom craze and Web 2.0 and what not. Nobody had time for WebDAV? Nobody had a business model for WebDAV? People used FTP and SSH and all that for remote file access, there was no point doing it using web technology? Or perhaps there wasn&rsquo;t just one library to rule them all and in the darkness bind them?</p>
+
+<p>In any case, I think I need to write this down so I don&rsquo;t fall for it again in two years. I&rsquo;ve been falling for it since 2005. Every wiki of mine gets WebDAV support … Looking at my blog it seems that <a href="2021-10-18_WebDAV_is_tricky">the last time</a> I spent five days to get this right. This time around I&rsquo;m just tired.</p>
+
+<p>Time to disable <code>mod_dav</code> again.</p>
+
+<p><a class="tag" href="/search/?q=%23WebDAV">#WebDAV</a></p> 
+
+<https://alexschroeder.ch/view/2024-09-08-webdav>
+
+---
+
+## Caption contest: Bugged
+
+date: 2024-09-08, from: Robert Reich's blog
+
+And last week&#8217;s winner 
+
+<https://robertreich.substack.com/p/caption-contest-hair>
+
+---
+
+## September 7, 2024
+
+date: 2024-09-08, from: Heather Cox Richardson blog
+
+By rights, tonight&#8217;s post should be a picture, but Trump&#8217;s behavior today merits a marker because it feels like a dramatic escalation of the themes we&#8217;ve seen for years. 
+
+<https://heathercoxrichardson.substack.com/p/september-7-2024>
+
+---
+
+## The invisible toll of pollution
+
+date: 2024-09-08, from: Tracy Durnell Blog
+
+IVF success drops nearly 40% with air pollution exposure: study by Katie Dangerfield (Global News) See also: Moving towards climate accountability + It’s ‘almost impossible’ to eliminate toxic PFAS from your diet. Here’s what you can do by Tom Perkins (The Guardian) Microplastics are infiltrating brain tissue, studies show: ‘There’s nowhere left untouched’ by Douglas Main [&#8230;] 
+
+<https://tracydurnell.com/2024/09/07/the-invisible-toll-of-pollution/>
+
+---
+
+## What’s in your pills?
+
+date: 2024-09-08, from: Tracy Durnell Blog
+
+Supplements are a Rising Cause of Liver Failure by Dr. Jen Gunther &#8230;the risk of supplement-related liver injury and liver injury severe enough that liver transplantation is needed has increased dramatically over the past 20 years. Some estimates suggest supplements may cause up to 43% of drug-induced liver injury in the United States and 19% [&#8230;] 
+
+<https://tracydurnell.com/2024/09/07/whats-in-your-pills/>
+
+---
+
+## September 6, 2024
+
+date: 2024-09-07, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-6-2024-9fc>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-07, from: Dave Winer's Scripting News)
+
+Do you think you've ever had an online chat with an AI impersonating a human without you knowing? Have you had such an experience with someone you know? If no, when do you think you will have such a conversation? Would you mind if a friend used an AI to front for them, so they could do other things while they were "chatting" with you? Would you be liable for anything your avatar did or said? 
+
+<http://scripting.com/2024/09/07.html#a152059>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-07, from: Dave Winer's Scripting News)
+
+Also, <a href="https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall">when the Berlin Wall came down</a> there were no blogs or podcasts. We got what we were given by the news networks and NYT and WSJ. 
+
+<http://scripting.com/2024/09/07.html#a144247>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-07, from: Dave Winer's Scripting News)
+
+It's a fascinating moment, somewhat like when the Berlin Wall came down. When it happened, we were all in kind of a daze. That wall had been there my entire life. No one knew, for many years, what its disappearance would mean. Same with the wall betw the Democratic and Republican parties. It was still the same US when one or the other was in power, there were constants that didn't change. There was an agreement that politics ends at the border. But now, are there two parties? What became of the one we call Republican? 
+
+<http://scripting.com/2024/09/07.html#a144133>
+
+---
+
+## Jony Made a Button
+
+date: 2024-09-07, from: Om Malik blog
+
+TLDR: Jony Ive&#8217;s design agency LoveFrom has reimagined the humble button for Moncler, once again proving that for Sir Jony, everything is up for reinterpretation. It&#8217;s a reminder that innovation often lies in refining the familiar, not just inventing the new. Source: Jony Ive’s LoveFrom Reinvents a Button With Moncler Key Points: Moncler is a &#8230; 
+
+<https://om.co/2024/09/07/jony-made-a-button/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/09/07/ipod.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The next in the series of <a href="https://shownotes.scripting.com/podcast0/2024/09/07/furtherDrivingInCanadaHeadingWest.html">podcasts from 2004</a>. This one was done driving from Banff to Kelowna, on the way to Seattle. 
+
+<http://scripting.com/2024/09/07.html#a141701>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-07, from: Dave Winer's Scripting News)
+
+I found a bug in <a href="https://github.com/scripting/opmlPackage/blob/main/worknotes.md#9724-95957-am-by-dw">opml.visitAll</a> in the OPML package I use in various software including Drummer and FeedLand. Had to fix it, even though there's a slight chance of breakage. 
+
+<http://scripting.com/2024/09/07.html#a140727>
+
+---
+
+## Kunai Corne V3
+
+date: 2024-09-07, from: mrusme blog
+
+This is a follow-up build log on the [Corne V3](/corne-v3/) post, in which I
+finalize the Kunai case. 
+
+<https://xn--gckvb8fzb.com/kunai-corne-v3/>
+
+---
+
+**@John's World Wide Wall Display** (date: 2024-09-07, from: John's World Wide Wall Display)
+
+things to consider 
+
+<https://johnjohnston.info/blog/bookmark-how-can-i-help-autistic-pupils-develop-more-independence-in-learning-tasks/>
+
+---
+
+## The Upcoming Great Debate: The Coffee Klatch | September 7, 2024
+
+date: 2024-09-07, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly 
+
+<https://robertreich.substack.com/p/the-upcoming-great-debate-the-coffee>
+
+---
+
+## Weeknotes: Aug. 31-Sept. 6, 2024
+
+date: 2024-09-07, from: Tracy Durnell Blog
+
+Win of the week: just waiting on the DocuSign for a new project! Going to be helping a city communicate new construction &#38; demolition waste reporting requirements to developers  Looking forward to: fall food! (I made oatmeal this morning even though it got up to 88F 😄) Stuff I did: 5.75 hours writing &#8212; alas, I [&#8230;] 
+
+<https://tracydurnell.com/2024/09/06/weeknotes-aug-31-sept-6-2024/>
+
+---
+
+## September 6, 2024 
+
+date: 2024-09-07, from: Heather Cox Richardson blog
+
+One of the things that came to light on Wednesday, in the paperwork the Justice Department unveiled to explain its seizure of 32 internet domains being used by Russian agents in foreign malign influence campaigns, was that the six right-wing U.S. 
+
+<https://heathercoxrichardson.substack.com/p/september-6-2024>
+
+---
+
+## Election Countdown, 59 Days to Go: Nippon Steel vs. the Electoral College.
+
+date: 2024-09-07, from: James Fallows, Substack
+
+Why is Joe Biden preparing to block the sale of US Steel? For 19 reasons: Pennsylvania's 19 electoral votes. That logic may be irrefutable in an election year. But it has real costs. 
+
+<https://fallows.substack.com/p/election-countdown-59-days-to-go>
 
 ---
 
 ## More on Spotify Connect and iPhone Volume Buttons
 
-date: 2024-09-06, updated: 2024-09-06, from: Daring Fireball
+date: 2024-09-06, updated: 2024-09-08, from: Daring Fireball
 
  
 
@@ -1729,119 +1922,4 @@ date: 2024-09-01, from: Heather Cox Richardson blog
 Buddy took this picture on his way to work one morning while I was in Chicago at the Democratic National Convention. 
 
 <https://heathercoxrichardson.substack.com/p/august-31-2024>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-08-31, from: Dave Winer's Scripting News)
-
-<a href="https://www.threads.net/@davew/post/C_V8Va8pt4Z">Why does JD Vance</a> have so many opinions about women?
- 
-
-<http://scripting.com/2024/08/31.html#a173455>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-08-31, from: Dave Winer's Scripting News)
-
-It's worth <a href="https://www.threads.net/@davew/post/C_VzCo_JSN5">reflecting</a> that the press took its best shot at Kamala Harris, and it was a big puff of smoke, she just cruised right through it. 
-
-<http://scripting.com/2024/08/31.html#a171542>
-
----
-
-## August 30, 2024
-
-date: 2024-08-31, from: Heather Cox Richardson blog
-
- 
-
-<https://heathercoxrichardson.substack.com/p/august-30-2024-140>
-
----
-
-## History Extra for August 30, 2024
-
-date: 2024-08-31, from: Heather Cox Richardson blog
-
-An investigation by the Committee on Government Operations&#8217; Permanent Subcommittee on Investigations doesn&#8217;t sound like something that would change history, but in 1954, it did. 
-
-<https://heathercoxrichardson.substack.com/p/history-extra-for-august-30-2024>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-08-31, from: Dave Winer's Scripting News)
-
-Thread: <a href="https://mastodon.social/@davew/113056965813280335">Blogs and the social web will merge</a>.
- 
-
-<http://scripting.com/2024/08/31.html#a143408>
-
----
-
-## Platform drivers for textcasting
-
-date: 2024-08-31, from: Dave Winer's Scripting News
-
-<p>A feature I've wanted to add to the <a href="https://github.com/scripting/textcasting/tree/main">textcasting server app</a> is a plug-in architecture so you can add a new <a href="https://github.com/scripting/textcasting/blob/main/README.md#platform-drivers">platform driver</a> without having to reconfigure or even reboot the server. </p>
-<p>There's a new folder at <a href="https://github.com/scripting/textcasting/tree/main/plugins/platforms">plugins/platforms</a>. Each subfolder contains a driver for one platform. Initially there are four folder:  bluesky, mastodon, twitter and wordpress. Each driver is a Node module that exports a single function that posts an item to the platform. </p>
-<p>As an example here's the <a href="https://github.com/scripting/textcasting/blob/main/plugins/platforms/wordpress/code.js">driver</a> for WordPress. </p>
-<p>The drivers are invoked through an HTTP POST call, where the body contains the parameters to the driver. The parameters for each driver are different, because their APIs are different. To add support for a new platform, you just write a new driver. </p>
-<p>I also have a client app that does linkblogging through this server, that's why my linkblogging these days is so relatively effortless. </p>
-<p>Even though the current situation is done without standards, I think not only will that change over time, but this is a good thing. What used to be a corporate silo owned by Twitter, Inc is now a competitive market with lots of players. That's what we wanted back in 2006 when Twitter started, and now we have it. </p>
-<p>This isn't the last step or the first step toward getting them all to coalesce, but it is progress. </p>
-<p>If you're a developer have a look. And if you're a user, know that we're on the road to make cross-site posting a reality. It works for super-geeks like myself now, but eventually it'll work for poets too.</p>
-<p>PS: There's also an <a href="http://data.feedland.org/feeds/davewiner.xml">RSS feed</a> emanating from my textcasting system, that, in conjunction with the masterful Manton Reece at <a href="https://micro.blog/">micro.blog</a>, is how I do my cross-posting to Threads. Eventually I expect there will be a platform driver for Threads too, but for now -- this is how it works. Thanks Manton! It's great to work with you on this stuff. <span class="spOldSchoolEmoji">😄</span></p>
- 
-
-<http://scripting.com/2024/08/31/141919.html?title=platformDriversForTextcasting>
-
----
-
-## The Incredible Shrinking Trump: The Coffee Klatch | August 31, 2024
-
-date: 2024-08-31, from: Robert Reich's blog
-
-With Heather Lofthouse and Yours Truly 
-
-<https://robertreich.substack.com/p/the-incredibly-shrinking-trump-the>
-
----
-
-## Weeknotes: August 24-30, 2024
-
-date: 2024-08-31, from: Tracy Durnell Blog
-
-Highlight of the week: picnic dinner and a sunset walk at the Bellevue Botanical Garden Looking forward to: I&#8217;m planning another writing push this weekend 🤞🤞🤞 Stuff I did: 2 hours consulting 6 hours writing &#8212; I casually mentioned a plot issue to a friend and realized a character was an unnecessary holdover from the [&#8230;] 
-
-<https://tracydurnell.com/2024/08/30/weeknotes-august-24-30-2024/>
-
----
-
-## A sunset stroll at Bellevue Botanical
-
-date: 2024-08-31, from: Tracy Durnell Blog
-
-Somehow, despite living twenty minutes away for a decade, I&#8217;ve never brought my husband to Bellevue Botanical Garden before! No, I&#8217;ve dragged him down to Federal Way and out to Bainbridge Island, but the free, close garden got overlooked. (I&#8217;ve been on my own, with friends, with family, and even for work, so I didn&#8217;t [&#8230;] 
-
-<https://tracydurnell.com/2024/08/30/a-sunset-stroll-at-bellevue-botanical/>
-
----
-
-## August 30, 2024 
-
-date: 2024-08-31, from: Heather Cox Richardson blog
-
-Trump and the MAGA movement garnered power through performances that projected dominance and cowed media and opponents into silence. 
-
-<https://heathercoxrichardson.substack.com/p/august-30-2024>
-
----
-
-## How Oprah will screw up the AI story
-
-date: 2024-08-31, updated: 2024-08-31, from: Anil Dash blog
-
- 
-
-<https://anildash.com/2024/08/31/oprah-wrong-ai/>
 

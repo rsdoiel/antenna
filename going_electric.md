@@ -1,11 +1,153 @@
 ---
 title: going electric
-updated: 2024-09-07 07:27:20
+updated: 2024-09-08 07:41:30
 ---
 
 # going electric
 
-(date: 2024-09-07 07:27:20)
+(date: 2024-09-08 07:41:30)
+
+---
+
+## Lunatic hero builds electric kart with nearly 700 lb-ft of mind-bending TQ [video]
+
+date: 2024-09-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/kart-madness.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The mad scientists over at <em>Critical</em> have taken a high-torque electric motor from an obscure motorcycle brand, stuffed it into a go-kart chassis, and created a life-altering wheelie machine that is truly and completely bonkers. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-kart,motorsports" data-layer-viewtype="unknown" data-post-id="378914" href="https://electrek.co/2024/09/08/lunatic-hero-builds-electric-kart-with-nearly-700-lb-ft-of-mind-bending-tq-video/#more-378914" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/08/lunatic-hero-builds-electric-kart-with-nearly-700-lb-ft-of-mind-bending-tq-video/>
+
+---
+
+## Volvo CE opens new facility to support production of electric wheel loaders
+
+date: 2024-09-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/volvo-wheel-loader.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The construction industry’s shift takes another step forward as Volvo CE inaugurates a new, state-of-the-art manufacturing facility to support the production of electric wheel loaders at its plant in Arvika, Sweden.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,volvo-ce" data-layer-viewtype="unknown" data-post-id="378897" href="https://electrek.co/2024/09/08/volvo-ce-opens-new-facility-to-support-production-of-electric-wheel-loaders/#more-378897" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/08/volvo-ce-opens-new-facility-to-support-production-of-electric-wheel-loaders/>
+
+---
+
+## In first ever documented case, Talaria electric dirt bike goes up in flames in US
+
+date: 2024-09-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/talara-mx5-sting-pro-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The new Talaria MX5 Sting Pro electric dirt bike may have just celebrated the one-week anniversary <a href="https://electrek.co/2024/08/31/talaria-sting-mx5-launched-as-low-cost-high-speed-electric-dirt-bike/">of its launch in the US</a>, but it’s already marking another less-joyous occasion: the first documented major battery fire in a Talaria.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,fire,talaria" data-layer-viewtype="unknown" data-post-id="378880" href="https://electrek.co/2024/09/07/in-first-ever-documented-case-talaria-electric-dirt-bike-goes-up-in-flames-in-us/#more-378880" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/07/in-first-ever-documented-case-talaria-electric-dirt-bike-goes-up-in-flames-in-us/>
+
+---
+
+## Automakers whine about €15B fine they knew they’d risk for pushing gas cars
+
+date: 2024-09-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/349255589_01bef0cea5_k-e1725742439218.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Renault CEO Luca de Meo said today that automakers collectively may need to pay ~€15B in fines if they miss 2025 emissions targets, as they’ve failed to ramp up efficient vehicle production in line with EU guidance – even as consumer EV demand continues to rise in Europe.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="co2-emissions,europe" data-layer-viewtype="unknown" data-post-id="378878" href="https://electrek.co/2024/09/07/automakers-whine-about-e15b-fine-they-knew-theyd-risk-for-pushing-gas-cars/#more-378878" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/07/automakers-whine-about-e15b-fine-they-knew-theyd-risk-for-pushing-gas-cars/>
+
+---
+
+## Maserati GranTurismo EV Review: Great To Drive, With Lousy Software
+
+date: 2024-09-07, from: Inside EVs News
+
+Out of Spec drives the $200,000 electric Maserati convertible.  
+
+<https://insideevs.com/news/732722/maserati-granturismo-ev/>
+
+---
+
+## Tesla reveals its wireless home EV charging station in patent filings
+
+date: 2024-09-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/06/Tesla-Wireless-charger-hero.jpg?quality=82&#038;strip=all&#038;w=1047" /></div><p>Several new patent applications have revealed Tesla’s upcoming wireless home EV charging station.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="378871" href="https://electrek.co/2024/09/07/tesla-reveals-wireless-home-ev-charging-station-patent-filings/#more-378871" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/07/tesla-reveals-wireless-home-ev-charging-station-patent-filings/>
+
+---
+
+## Mercedes Isn't Retreating From China. Its Doubling Down
+
+date: 2024-09-07, from: Inside EVs News
+
+The brand is investing $2 Billion into cars that are meant to take on China's homegrown EV startups.  
+
+<https://insideevs.com/news/732707/mercedes-benz-china-investment-2025/>
+
+---
+
+## Two Ford F-150 Lightning Owners Review Their Trucks: ‘Zero Issues In Two Years’
+
+date: 2024-09-07, from: Inside EVs News
+
+Two nearly identical 2022 F-150 Lightning EVs were driven for two years by two very different people. No maintenance was needed. 
+
+<https://insideevs.com/news/732681/ford-f150-lightning-two-owners-review-zero-issues/>
+
+---
+
+## Bollinger adds 20 West Coast dealers, TCD to its commercial EV sales network
+
+date: 2024-09-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/bollinger-b4-start-production.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s been a big week for Bollinger and its Class 4 commercial EVs as the upstart electric box truck brand picked up twenty new TEC dealers and scored a strategic solution partnership with Texas consulting firm, TCD.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bollinger-motors,commercial-evs,electric-trucks" data-layer-viewtype="unknown" data-post-id="378849" href="https://electrek.co/2024/09/07/bollinger-adds-20-west-coast-dealers-tcd-to-its-commercial-ev-sales-network/#more-378849" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/07/bollinger-adds-20-west-coast-dealers-tcd-to-its-commercial-ev-sales-network/>
+
+---
+
+## E-quipment highlight: Komatsu autonomous, electric, amphibious dozer
+
+date: 2024-09-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/amphibious_komatsu-2.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Co-developed by Japanese construction giant Komatsu and the Asunaro Aoki Construction Co., this autonomous electric dozer is built with the underwater construction jobs of the future in mind.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,electric-heavy-machinery,komatsu" data-layer-viewtype="unknown" data-post-id="378834" href="https://electrek.co/2024/09/07/e-quipment-highlight-komatsu-autonomous-electric-amphibious-dozer/#more-378834" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/07/e-quipment-highlight-komatsu-autonomous-electric-amphibious-dozer/>
+
+---
+
+## 1,070 hp, AWD electric Dodge Hornet R/T goes from 0-60 in 1.4 sec. (!)
+
+date: 2024-09-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/DodgeEntersNitrocross_Feature.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Packing four electric motors pushing more than 1,000 hp through all four of its Yokohama Advan racing tires, the new Dodge Hornet R/T FC1-X can blast from 0-60 in just 1.4 seconds!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dodge,motorsports" data-layer-viewtype="unknown" data-post-id="378813" href="https://electrek.co/2024/09/07/1070-hp-awd-electric-dodge-hornet-r-t-goes-from-0-60-in-1-4-sec/#more-378813" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/07/1070-hp-awd-electric-dodge-hornet-r-t-goes-from-0-60-in-1-4-sec/>
 
 ---
 
@@ -90,6 +232,10 @@ As the demand for pure electric vehicles seems to be cooling, plug-in hybrids ar
 date: 2024-09-06, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss why I sold all my TSLA shares, Tesla AI roadmap, Volvo EX90 first drive, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Electrek_9-6-24.mp3"></audio></figure>
 
 
 
@@ -1450,48 +1596,4 @@ date: 2024-09-01, from: Electrek Feed
  <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-robotaxi" data-layer-viewtype="unknown" data-post-id="378040" href="https://electrek.co/2024/08/31/teslas-oct-10-robotaxi-event-will-be-at-warner-bros-studio-in-la/#more-378040" class="more-link">more…</a> 
 
 <https://electrek.co/2024/08/31/teslas-oct-10-robotaxi-event-will-be-at-warner-bros-studio-in-la/>
-
----
-
-## We Spotted A Cadillac Escalade IQ In Public
-
-date: 2024-08-31, from: Inside EVs News
-
-Cadillac's upcoming $130,000 electric Escalade coincidentally was charging at the same time we were in suburban Central Ohio.  
-
-<https://insideevs.com/news/731991/escalade-iq-in-public-ohio-rivian/>
-
----
-
-## Old Vs. New Tesla Model 3 Performance Drag Race: ‘A Bit Disappointing’
-
-date: 2024-08-31, from: Inside EVs News
-
-The 2019 Model 3 has Performance motors and battery but looks like a regular Long Range model. 
-
-<https://insideevs.com/news/731903/old-vs-new-tesla-model-3-performance-drag-race-video/>
-
----
-
-## Talaria Sting Pro MX5 launched as low-cost, high-speed electric dirt bike
-
-date: 2024-08-31, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/talara-mx5-sting-pro-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Just announced this morning by <a href="https://lunacycle.com/">Luna Cycle</a> in the US, the Talaria MX5 Sting Pro is the highest-performance electric trail bike yet to still offer an affordable entry price tag for enthusiasts. If you thought those <em>youths</em> <a href="https://electrek.co/2024/08/29/why-are-sur-ron-style-electric-motorbikes-so-dang-popular-with-teens-today/">cruising your neighborhood</a> on their Sur Rons were rough enough, wait until they get their mitts on the new Talaria MX5. It’s the latest in the quickly growing market of easily obtainable off-road electric motorbikes, and this time the specs are finally pushing their way into true dirt bike territory.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="ebikes,electric-motorcycle,sur-ron,talaria" data-layer-viewtype="unknown" data-post-id="377675" href="https://electrek.co/2024/08/31/talaria-sting-mx5-launched-as-low-cost-high-speed-electric-dirt-bike/#more-377675" class="more-link">more…</a> 
-
-<https://electrek.co/2024/08/31/talaria-sting-mx5-launched-as-low-cost-high-speed-electric-dirt-bike/>
-
----
-
-## Chevrolet Equinox EV: Why We Put One In Our Garage
-
-date: 2024-08-31, from: Inside EVs News
-
-Contributing Editor and State of Charge host Tom Moloughney just leased a 2024 Chevrolet Equinox EV 2RS. Here's what he thinks so far. 
-
-<https://insideevs.com/news/732021/chevy-equinox-owner-review-moloughney/>
 

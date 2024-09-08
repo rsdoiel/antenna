@@ -1,11 +1,165 @@
 ---
 title: socal north
-updated: 2024-09-07 07:27:09
+updated: 2024-09-08 07:41:19
 ---
 
 # socal north
 
-(date: 2024-09-07 07:27:09)
+(date: 2024-09-08 07:41:19)
+
+---
+
+## USC football uses ground game, stifling defense to dismantle Utah State
+
+date: 2024-09-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans put up their most rushing yards in six years en route to the shutout victory.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/08/usc-football-uses-ground-game-stifling-defense-to-dismantle-utah-state/">USC football uses ground game, stifling defense to dismantle Utah State</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/08/usc-football-uses-ground-game-stifling-defense-to-dismantle-utah-state/>
+
+---
+
+## Football uses bye week to prepare for Indiana, look back on Hawaii
+
+date: 2024-09-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Coach DeShaun Foster said the Bruins weren&#8217;t playing like themselves at halftime.
+&#8220;This is not us. Let&#8217;s get back to what we&#8217;ve been doing in practice and what we&#8217;ve been doing in fall camp,&#8221; said redshirt senior quarterback Ethan Garbers, reciting Foster&#8217;s halftime speech. 
+
+<https://dailybruin.com/2024/09/07/football-uses-bye-week-to-prepare-for-indiana-look-back-on-hawaii/>
+
+---
+
+## USC vs. Utah State — as it happened
+
+date: 2024-09-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Stefano Fendrich and Henry Mode report live from the L.A Coliseum.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/07/usc-vs-utah-state-as-it-happened/">USC vs. Utah State — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/07/usc-vs-utah-state-as-it-happened/>
+
+---
+
+## Federal court ruled UCLA’s lease of baseball stadium on VA property illegal
+
+date: 2024-09-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+A federal court ruled Friday that several private interest leases on United States Department of Veterans Affairs property &#8211; including on UCLA&#8217;s Jackie Robinson baseball stadium &#8211; are illegal. 
+
+<https://dailybruin.com/2024/09/07/federal-court-ruled-uclas-lease-of-baseball-stadium-on-va-property-illegal/>
+
+---
+
+## Suryansu Guha acknowledges the overlooked workers in the film industry
+
+date: 2024-09-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Through his work, Suryansu Guha uplifts overlooked creativity in the film industry.
+On July 31, the Film, Television and Digital Media PhD student was named the second-place winner of the Student Writing Award from The Society for Cinema Media Studies. 
+
+<https://dailybruin.com/2024/09/07/suryansu-guha-acknowledges-the-overlooked-workers-in-the-film-industry/>
+
+---
+
+## The Weekly Frame II: Symmetry
+
+date: 2024-09-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/09/07/the-weekly-frame-ii-symmetry/">The Weekly Frame II: Symmetry</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/07/the-weekly-frame-ii-symmetry/>
+
+---
+
+## EPA proposes Superfund designation of former Exide facility. How you can weigh in
+
+date: 2024-09-07, updated: 2024-09-08, from: The LAist
+
+A 60-day public comment period on the proposal is now open through Nov. 4 
+
+<https://laist.com/news/climate-environment/epa-proposes-superfund-designation-of-former-exide-facility-how-you-can-weigh-in>
+
+---
+
+## 3.5 and 3.9 magnitude quakes strike near Ontario, small aftershocks continue
+
+date: 2024-09-07, updated: 2024-09-07, from: The LAist
+
+The quakes hit about 30 minutes apart with the stronger one coming second. 
+
+<https://laist.com/news/climate-environment/ontario-earthquakes>
+
+---
+
+## The Green Revolution in Santa Clarita’s Energy Practices
+
+date: 2024-09-07, from: City of Santa Clarita
+
+<p>“Every time we use energy efficiently, we create a ripple effect that benefits the entire world.” — Peter Yewell You may have noticed that things look a little different around our City. Maybe you noticed the motion sensor lights at our parks, or the solar panels being installed in City parking lots. As a forward-thinking [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/07/the-green-revolution-in-santa-claritas-energy-practices/">The Green Revolution in Santa Clarita’s Energy Practices</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/07/the-green-revolution-in-santa-claritas-energy-practices/>
+
+---
+
+## It's 100 degrees this weekend. When will our misery end?
+
+date: 2024-09-07, updated: 2024-09-08, from: The LAist
+
+It's been so hot for so long, we've lost track of how many days of 100 degrees the region has endured — and the end won't come this weekend. 
+
+<https://laist.com/news/climate-environment/its-a-100-degrees-and-some-this-weekend-so-when-will-it-all-end>
+
+---
+
+## Men’s soccer falls to Cal State Fullerton in first loss of the season
+
+date: 2024-09-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Shades of 2023.
+After losing 4-1 last season, No. 6 UCLA men&#8217;s soccer (2-1-1) was defeated 3-1 by Cal State Fullerton (2-3) again Thursday night at Wallis Annenberg Stadium. 
+
+<https://dailybruin.com/2024/09/06/mens-soccer-falls-to-cal-state-fullerton-in-first-loss-of-the-season/>
+
+---
+
+## LAPD arrests suspect with gun, lifts perimeter on Orchard and Ellendale
+
+date: 2024-09-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Los Angeles Police Department arrested a suspect with a gun, an LAPD officer on the scene confirmed to the Daily Trojan.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/06/lapd-arrests-suspect-with-gun-lifts-perimeter-on-orchard-and-ellendale/">LAPD arrests suspect with gun, lifts perimeter on Orchard and Ellendale</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/06/lapd-arrests-suspect-with-gun-lifts-perimeter-on-orchard-and-ellendale/>
+
+---
+
+## Film Review: ‘Beetlejuice Beetlejuice’ follows the original with comedy and thrill
+
+date: 2024-09-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Much like the original, &#8220;Beetlejuice,&#8221; &#8220;Beetlejuice Beetlejuice&#8221; has got the juice.
+Director Tim Burton&#8217;s &#8220;Beetlejuice Beetlejuice&#8221; appeared in theaters Friday, resurrecting his ghoulish 1988 comedy classic &#8220;Beetlejuice&#8221; from its presumed death after 36 years. 
+
+<https://dailybruin.com/2024/09/06/film-review-beetlejuice-beetlejuice-follows-the-original-with-comedy-and-thrill/>
+
+---
+
+## North Trousdale entrance temporarily closed
+
+date: 2024-09-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/09/06/north-trousdale-entrance-temporarily-closed/">North Trousdale entrance temporarily closed</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/06/north-trousdale-entrance-temporarily-closed/>
 
 ---
 
@@ -207,6 +361,16 @@ The heat will stick around through next week, with Saturday expected to be about
 
 ---
 
+## LA City Charter Amendment II: City administration and operations
+
+date: 2024-09-06, updated: 2024-09-06, from: The LAist
+
+Should city departments be allowed to sell food? Should the airport commission be allowed to set fees for ground transportation at LAX? This group of charter amendments is meant to clarify and update rules on city operations. 
+
+<https://laist.com/news/politics/2024-election-california-general-la-city-measure-ii-city-administration-and-operations>
+
+---
+
 ## LA City Charter Amendment HH: City governance, appointments, and elections
 
 date: 2024-09-06, updated: 2024-09-06, from: The LAist
@@ -224,16 +388,6 @@ date: 2024-09-06, updated: 2024-09-06, from: The LAist
 The event is for Angelenos aged 60 and older. 
 
 <https://laist.com/news/climate-environment/la-giving-out-free-ac-units-how-to-get-one>
-
----
-
-## LA City Charter Amendment II: City administration and operations
-
-date: 2024-09-06, updated: 2024-09-06, from: The LAist
-
-Should city departments be allowed to sell food? Should the airport commission be allowed to set fees for ground transportation at LAX? This group of charter amendments is meant to clarify and update rules on city operations. 
-
-<https://laist.com/news/politics/2024-election-california-general-la-city-measure-ii-city-administration-and-operations>
 
 ---
 
@@ -1428,92 +1582,4 @@ And they ran the gamut –&#160;the Bruins in the Big Ten, coach DeShaun Foster 
 Halfway through the duel, though, lackluster was the fitting term for each new look. 
 
 <https://dailybruin.com/2024/08/31/ucla-defeats-hawaii-with-second-half-charge-in-first-look-at-fosters-system/>
-
----
-
-## Alfee Reft, Big Ten, Olympic veteran brings recruiting power to women’s volleyball
-
-date: 2024-08-31, from: The Daily Bruin (UCLA Student Newspaper)
-
-From Paris to Pauley Pavilion, Alfee Reft&#8217;s impact on the Bruins transcends the court.
-Serving as a seasonal assistant coach for Team USA, Reft, the UCLA women&#8217;s volleyball head coach, worked alongside UCLA Hall of Famers Karch Kiraly &#8211; the national team&#8217;s head coach and UCLA men&#8217;s volleyball alumni &#8211; and Sue Enquist, the team&#8217;s culture consultant and a 10-time NCAA national champion with UCLA softball. 
-
-<https://dailybruin.com/2024/08/31/alfee-reft-big-ten-olympic-veteran-brings-recruiting-power-to-womens-volleyball/>
-
----
-
-## Are You Prepared for an Emergency?
-
-date: 2024-08-31, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin “There’s no harm in hoping for the best as long as you’re prepared for the worst.” – Stephen King According to the Federal Emergency Management Agency’s (FEMA) 2023 National Household Survey on Disaster Preparedness, the most common action Americans took to prepare for a disaster were assembling or updating their [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2024/08/31/are-you-prepared-for-an-emergency/">Are You Prepared for an Emergency?</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<https://santaclarita.gov/blog/2024/08/31/are-you-prepared-for-an-emergency/>
-
----
-
-## SCE to turn off power to 140 homes in Rancho Palos Verdes on Sunday, triggering evacuation warning
-
-date: 2024-08-31, updated: 2024-09-01, from: The LAist
-
-SCE told LAist that homeowners living in the area affected by continual land movements are being notified that the electricity turnoff is scheduled for Sunday. 
-
-<https://laist.com/news/climate-environment/sec-power-shutoff-rpv>
-
----
-
-## Bright flashes of future as men’s soccer defeats Portland with 2 freshmen goals
-
-date: 2024-08-31, from: The Daily Bruin (UCLA Student Newspaper)
-
-It had been four years since two UCLA freshmen scored in the same game. 
-That changed Friday night.
-The goals were courtesy of former LAFC Academy teammates midfielder Tamir Ratoviz and defender Shakir Nixon &#8211; who not only each netted their first collegiate goals, but also set one another up for their breakthrough scores. 
-
-<https://dailybruin.com/2024/08/31/bright-flashes-of-future-as-mens-soccer-defeats-portland-with-2-freshmen-goals/>
-
----
-
-## The Weekly Frame II: New Perspectives
-
-date: 2024-08-31, from: The Daily Trojan (USC Student Newspaper)
-
-<p>As “The Weekly Frame” starts up and classes are back in session it is a new opportunity to see campus through a different lens.</p>
-<p>The post <a href="https://dailytrojan.com/2024/08/31/the-weekly-frame-ii-new-perspectives/">The Weekly Frame II: New Perspectives</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2024/08/31/the-weekly-frame-ii-new-perspectives/>
-
----
-
-## Women take team second, men show fresh faces in cross country opener at elevation
-
-date: 2024-08-31, from: The Daily Bruin (UCLA Student Newspaper)
-
-An unexpected fourth competitor appeared at the Bruins’ season-opener – elevation.
-UCLA cross country kicked off its season with a tri-meet against UC Riverside and UC Santa Barbara at Big Bear Lake, California, on Friday. 
-
-<https://dailybruin.com/2024/08/31/women-take-team-second-men-show-fresh-faces-in-cross-country-opener-at-elevation/>
-
----
-
-## Huntington Beach says it will fight bill that prohibits public libraries from banning books
-
-date: 2024-08-31, updated: 2024-08-31, from: The LAist
-
-AB 1825 is awaiting Gov. Gavin Newsom's signature. 
-
-<https://laist.com/news/politics/huntington-beach-opposes-bill-prohibiting-library-book-bans>
-
----
-
-## Move in Checklist
-
-date: 2024-08-31, from: The Daily Bruin (UCLA Student Newspaper)
-
- 
-
-<https://dailybruin.com/2024/08/31/move-in-checklist/>
 

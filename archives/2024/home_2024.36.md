@@ -1,11 +1,34 @@
 ---
 title: home
-updated: 2024-09-07 07:27:16
+updated: 2024-09-08 07:41:26
 ---
 
 # home
 
-(date: 2024-09-07 07:27:16)
+(date: 2024-09-08 07:41:26)
+
+---
+
+## Boise Is Big. Here’s Where to Eat, Drink, and Stay According to a Local Brewer.
+
+date: 2024-09-07, from: Sunset Magazine - Living in the West
+
+A local brewer shares the high-low hits that the charming, rapidly growing city of Boise has to offer. Save this for your next trip. 
+
+<https://www.sunset.com/travel/insider-guides/boise-things-to-do>
+
+---
+
+## 23 Types of Herons (Pictures and Identification)
+
+date: 2024-09-07, from: Yard Life blog
+
+<p>Herons are a diverse group of wading birds known for their distinctive long legs and necks, making them prominent figures ... </p>
+<p class="read-more-container"><a title="23 Types of Herons (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/23-types-of-herons-pictures-and-identification/#more-18994" aria-label="Read more about 23 Types of Herons (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/23-types-of-herons-pictures-and-identification/">23 Types of Herons (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/23-types-of-herons-pictures-and-identification/>
 
 ---
 
@@ -955,16 +978,4 @@ date: 2024-09-01, from: The Gardener's Path
  
 
 <https://gardenerspath.com/how-to/greenhouses-and-coldframes/hoop-house-tips/>
-
----
-
-## How to Dry Apricots Two Ways (Food Dehydrator or Oven)
-
-date: 2024-08-31, from: Homestead and Chil
-
-<p>Have an abundance of fresh apricots on your hands? Come learn how to dry apricots in a food dehydrator or in the oven, plus storage tips. This is one of my favorite quick and easy ways to preserve apricots from the garden!</p>
-<p>The post <a href="https://homesteadandchill.com/how-to-dry-apricots-dehydrator-oven/">How to Dry Apricots Two Ways (Food Dehydrator or Oven)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
- 
-
-<https://homesteadandchill.com/how-to-dry-apricots-dehydrator-oven/>
 

@@ -1,11 +1,11 @@
 ---
 title: health
-updated: 2024-09-07 07:27:19
+updated: 2024-09-08 07:41:29
 ---
 
 # health
 
-(date: 2024-09-07 07:27:19)
+(date: 2024-09-08 07:41:29)
 
 ---
 
@@ -208,14 +208,4 @@ date: 2024-09-02, from: Frontiers in Cellular and Infection Microbiology
 Short-chain fatty acids (SCFAs), a subset of organic fatty acids with carbon chains ranging from one to six atoms in length, encompass acetate, propionate, and butyrate. These compounds are the endproducts of dietary fiber fermentation, primarily catalyzed by the glycolysis and pentose phosphate pathways within the gut microbiota. SCFAs act as pivotal energy substrates and signaling molecules in the realm of animal nutrition, exerting a profound influence on the intestinal, immune system, and intestinal barrier functions. Specifically, they contibute to 60-70% of the total energy requirements in ruminants and 10-25% in monogastric animals. SCFAs have demonstrated the capability to effectively modulate intestinal pH, optimize the absorption of mineral elements, and impede pathogen invasion. Moreover, they enhance the expression of proteins associated with intestinal tight junctions and stimulate mucus production, thereby refining intestinal tissue morphology and preserving the integrity of the intestinal structure. Notably, SCFAs also exert anti-inflammatory properties, mitigating inflammation within the intestinal epithelium and strengthening the intestinal barrier’s defensive capabilities. The present review endeavors to synthesize recent findings regarding the role of SCFAs as crucial signaling intermediaries between the metabolic activities of gut microbiota and the status of porcine cells. It also provides a comprehensive overview of the current literature on SCFAs’ impact on immune responses within the porcine intestinal mucosa. 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2024.1449030>
-
----
-
-## People’s CDC COVID-19 Weather Report
-
-date: 2024-08-31, from: People's CDC
-
-This is the @PeoplesCDC bi-weekly update for August 31, 2024! This Weather Report from the People’s CDC sheds light on the ongoing COVID situation in the US. 
-
-<https://peoplescdc.org/2024/08/31/peoples-cdc-covid-19-weather-report-81/>
 

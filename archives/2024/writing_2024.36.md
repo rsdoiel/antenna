@@ -1,11 +1,33 @@
 ---
 title: writing
-updated: 2024-09-07 07:27:14
+updated: 2024-09-08 07:41:24
 ---
 
 # writing
 
-(date: 2024-09-07 07:27:14)
+(date: 2024-09-08 07:41:24)
+
+---
+
+## Liz Bourke Reviews The Price of Redemption by Shawn Carpenter
+
+date: 2024-09-07, from: Locus Magazine
+
+<p><strong>The Price of Redemption</strong>, Shawn Carpenter (Saga 978-1-6680-3373-9, $18.99, 358pp, tp) July 2024.</p>
+<p><strong>The Price of Redemption </strong>is Shawn Carpen­ter’s debut novel. Inspired by the exploits of the British Royal Navy during during the French revolutionary wars, it sets its story in a different world to ours and adds magic to the mixture. As a fan of both fantasy and of the naval adventure story (though frequently through gritted  <a href="https://locusmag.com/2024/09/liz-bourke-reviews-the-price-of-redemption-by-shawn-carpenter/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/liz-bourke-reviews-the-price-of-redemption-by-shawn-carpenter/>
+
+---
+
+## Paul Di Filippo Reviews Key Lime Sky by Al Hess
+
+date: 2024-09-07, from: Locus Magazine
+
+<p><strong>Key Lime Sky</strong>, Al Hess (Angry Robot 978-1915998125, trade paperback, 304pp, $18.99) August 2024</p>
+<p>It has been said that Irish fantasist Flann O’Brien had a penchant for involving the humble bicycle in his surreal fiction, until the vehicle became a kind of numinous totem or idiosyncratic symbol. A few other writers of fantasy have deployed such a technique—recurring enigmatic touchstone with multiple meanings—and now Al Hess joins their ranks,  <a href="https://locusmag.com/2024/09/paul-di-filippo-reviews-key-lime-sky-by-al-hess/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/paul-di-filippo-reviews-key-lime-sky-by-al-hess/>
 
 ---
 
@@ -426,7 +448,7 @@ date: 2024-09-01, from: Locus Magazine
 
 date: 2024-09-01, from: IF Competition Blog
 
-<div class="npf_row"><figure class="tmblr-full" data-orig-height="3600" data-orig-width="3600"><img src="https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s640x960/189e2dc492967c36950a65be1e9a6a2dde41eab8.png" data-orig-height="3600" data-orig-width="3600" srcset="https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s75x75_c1/43eb31025c41ddb509a4b6519fe1c4fe293ba439.png 75w, https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s100x200/f66646c3427b6f1e9da4ce1c5b24ba9bc8a6274f.png 100w, https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s250x400/99ba003a9e1646892e79d94dda18380adf5d8897.png 250w, https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s400x600/1f660f1428460f9554c455fbad2b2591d6a2e2f7.png 400w, https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s500x750/c8aaf04d73aa069e1e2d92fa26253f39075c4832.png 500w, https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s540x810/92991896f69da56a4bcee673767fc7f7c1173101.png 540w, https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s640x960/189e2dc492967c36950a65be1e9a6a2dde41eab8.png 640w, https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s1280x1920/8aac77d21159c39c387181b9b877d8c07e7bd15c.png 1280w, https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s2048x3072/40bbc5555b6079180bc3abd75283db33c1d28713.png 2048w" sizes="(max-width: 1280px) 100vw, 1280px"/></figure></div><p>2024 IFComp Logo, by <a href="https://www.laurennovember.com/">Lauren Davies</a></p><p>We’re glad you’re here. If this is your first time joining us, welcome! If you’re already familiar with us, welcome back! Either way, we hope you have a great time and enjoy exploring some of the over seventy new games we have for you this year.</p><p><b>What&rsquo;s next? </b></p><ul><li>Check out the games, now live at <a href="https://href.li/?http://ifcomp.org">ifcomp.org</a> </li><li>You have until October 15, 2023 at 11:59pm Eastern to vote. </li><li><b>You only have to play &amp; rate</b> <b>5 games</b> <b>to be a judge! </b>(Yep, just five!)</li></ul><p><b>We would love to expand the number of judges! You can help!</b> </p><p>Talk about the competition on social media, and encourage others to check out all these new games. Consider playing with a friend or family member who is new to interactive fiction, talk about the games together, and encourage them to vote as well. Thanks! </p><p>We will do a post-competition survey to capture your ideas for improving the competition in the future, so if you have thoughts about improvements, please watch for the survey in October. </p><p>Email us at <a href="https://href.li/?http://ifcomp.org">ifcomp@ifcomp.org</a> if you have any questions.</p><p>Thank you in advance for judging! </p><p>—Jacqueline Ashwell, September 2024</p> 
+<div class="npf_row"><figure class="tmblr-full" data-orig-height="3600" data-orig-width="3600"><img src="https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s640x960/189e2dc492967c36950a65be1e9a6a2dde41eab8.png" data-orig-height="3600" data-orig-width="3600" srcset="https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s75x75_c1/43eb31025c41ddb509a4b6519fe1c4fe293ba439.png 75w, https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s100x200/f66646c3427b6f1e9da4ce1c5b24ba9bc8a6274f.png 100w, https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s250x400/99ba003a9e1646892e79d94dda18380adf5d8897.png 250w, https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s400x600/1f660f1428460f9554c455fbad2b2591d6a2e2f7.png 400w, https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s500x750/c8aaf04d73aa069e1e2d92fa26253f39075c4832.png 500w, https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s540x810/92991896f69da56a4bcee673767fc7f7c1173101.png 540w, https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s640x960/189e2dc492967c36950a65be1e9a6a2dde41eab8.png 640w, https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s1280x1920/8aac77d21159c39c387181b9b877d8c07e7bd15c.png 1280w, https://64.media.tumblr.com/32374060edc72c0452bff66d16052884/bf5d50e971b0ffa6-43/s2048x3072/40bbc5555b6079180bc3abd75283db33c1d28713.png 2048w" sizes="(max-width: 1280px) 100vw, 1280px"/></figure></div><p>2024 IFComp Logo, by <a href="https://www.laurennovember.com/">Lauren Davies</a></p><p>We’re glad you’re here. If this is your first time joining us, welcome! If you’re already familiar with us, welcome back! Either way, we hope you have a great time and enjoy exploring some of the over sixty new games we have for you this year.</p><p><b>What&rsquo;s next? </b></p><ul><li>Check out the games, now live at <a href="https://href.li/?http://ifcomp.org">ifcomp.org</a> </li><li>You have until October 15, 2023 at 11:59pm Eastern to vote. </li><li><b>You only have to play &amp; rate</b> <b>5 games</b> <b>to be a judge! </b>(Yep, just five!)</li></ul><p><b>We would love to expand the number of judges! You can help!</b> </p><p>Talk about the competition on social media, and encourage others to check out all these new games. Consider playing with a friend or family member who is new to interactive fiction, talk about the games together, and encourage them to vote as well. Thanks! </p><p>We will do a post-competition survey to capture your ideas for improving the competition in the future, so if you have thoughts about improvements, please watch for the survey in October. </p><p>Email us at <a href="https://href.li/?http://ifcomp.org">ifcomp@ifcomp.org</a> if you have any questions.</p><p>Thank you in advance for judging! </p><p>—Jacqueline Ashwell, September 2024</p> 
 
 <https://blog.ifcomp.org/post/760428725197242368>
 
@@ -439,26 +461,4 @@ date: 2024-09-01, from: Locus Magazine
 <p>The September 2024 issue of Locus magazine has interviews with Catherynne M. Valente and Justin C. Key and a spotlight on artist Micaela Alcaino. The issue lists US and UK forthcoming books through June 2025. News covers 2024 Hugo Awards winners, the World Fantasy Awards ballot, Dragon Awards finalists, SFWA resignations, SF&#38;F Hall of Fame inductees Okorafor and Griffith, MacInnes&#8217;s Clarke win, additional Gaiman allegations, the Galaxy magazine revival, and  <a href="https://locusmag.com/2024/09/issue-764-table-of-contents-september-2024/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/09/issue-764-table-of-contents-september-2024/>
-
----
-
-## Paul Di Filippo Reviews To Turn the Tide by S. M. Stirling
-
-date: 2024-08-31, from: Locus Magazine
-
-<p><strong>To Turn the Tide</strong>, S. M. Stirling (Baen 978-1982193539, hardcover, 464pp, $28.00) August 2024</p>
-<p>Time travel novels—recently, a trendy favorite of non-genre slipstream authors—have reached a state of incredible complexity. Multiverses, paradoxes, change wars, closed loops, and doppelgangers proliferate. This is all very entertaining, but sometimes it’s nice to read a simple, straightforward “person visits past, gets stuck, makes do” kind of book. A chrono-Robinsonade. That’s exactly what S.  <a href="https://locusmag.com/2024/08/paul-di-filippo-reviews-to-turn-the-tide-by-s-m-stirling/" class="read-more">...Read More </a></p> 
-
-<https://locusmag.com/2024/08/paul-di-filippo-reviews-to-turn-the-tide-by-s-m-stirling/>
-
----
-
-## Jake Casella Brookins Reviews The Jaguar Mask by Michael J. DeLuca
-
-date: 2024-08-31, from: Locus Magazine
-
-<p><strong>The Jaguar Mask, </strong>Michael J. DeLuca (Stelliform 978-1-77809-260-2, 348pp, $19.00, tp) August 2024. Cover by Julia Louise Pereira.</p>
-<p>I was quite charmed by Michael J. DeLuca’s no­vella <strong>Night Roll</strong>, a solarpunk-adjacent fantasy set in Detroit. In his debut novel, <strong>The Jaguar Mask</strong>, DeLuca takes up a different kind of magic, but a similar kind of realism: a story of individuals and communities resisting oppression, on wounded but still  <a href="https://locusmag.com/2024/08/jake-casella-brookins-reviews-the-jaguar-mask-by-michael-j-deluca/" class="read-more">...Read More </a></p> 
-
-<https://locusmag.com/2024/08/jake-casella-brookins-reviews-the-jaguar-mask-by-michael-j-deluca/>
 

@@ -1,11 +1,71 @@
 ---
 title: motorcycles
-updated: 2024-09-07 07:27:18
+updated: 2024-09-08 07:41:28
 ---
 
 # motorcycles
 
-(date: 2024-09-07 07:27:18)
+(date: 2024-09-08 07:41:28)
+
+---
+
+## Mansory’s “Monaco Edition” Vespa Is Extravagant Excess, Just In a Small Package
+
+date: 2024-09-08, from: Ride Apart, Electric Motorcycle News
+
+It’s draped in carbon fiber and hand-crafted accessories.  
+
+<https://www.rideapart.com/news/732743/mansory-vespa-elettrica-monaco-edition/>
+
+---
+
+## GALLERY: 2024 SuperMotocross World Championship, Round 1: Charlotte
+
+date: 2024-09-08, from: Kickin the Tires blog
+
+Photos by Lexi Lovelace / Kickin&#8217; the Tires 
+
+<https://kickinthetires.net/photo-gallery/gallery-2024-supermotocross-world-championship-round-1-charlotte/>
+
+---
+
+## Haiden Deegan Opens 2024 SMX 250 Playoffs with 1-1 Sweep
+
+date: 2024-09-08, from: Kickin the Tires blog
+
+Defending 250 SuperMotocross World Champion Haiden Deegan opens the Playoffs with a 1-1 moto finish in Charlotte. And Deegan still has his learning cap tight on his head. “(Those) were&#8230;  
+
+<https://kickinthetires.net/ama/supermotocross/haiden-deegan-opens-2024-smx-250-playoffs-with-1-1-sweep/>
+
+---
+
+## Unchartered Territory: 23XI Racing And Front Row Motorsports Decline To Sign NASCAR Charter Deal
+
+date: 2024-09-07, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor HAMPTON, Ga. – 23XI Racing made its opposition to NASCAR’s latest charter agreement offer very public – posting on social media that it “decided not to&#8230;  
+
+<https://kickinthetires.net/nascar/unchartered-territory-23xi-racing-and-front-row-motorsports-decline-to-sign-nascar-charter-deal/>
+
+---
+
+## McDowell Claims Atlanta Pole
+
+date: 2024-09-07, from: Kickin the Tires blog
+
+By Matt Courson, Staff Writer HAMPTON, Ga. — Michael McDowell claimed his fifth Busch Light Pole Award of the 2024 season Saturday at Atlanta Motor Speedway. &#8220;It&#8217;s a sign of&#8230;  
+
+<https://kickinthetires.net/nascar/cup/mcdowell-claims-atlanta-pole/>
+
+---
+
+## Drool Over This Ducati Watch, Just Don't Ask About the Price
+
+date: 2024-09-07, from: Ride Apart, Electric Motorcycle News
+
+It’s more expensive than a Panigale V4, and only 250 will ever be made.  
+
+<https://www.rideapart.com/news/732742/ducati-916-30th-anniversary-gerald-charles-watch/>
 
 ---
 
@@ -306,24 +366,4 @@ date: 2024-09-01, from: Kickin the Tires blog
 By Seth Eggert, Associate Editor DARLINGTON, S.C. – With just under a full season under this belt, Shane van Gisbergen is now utilizing previous track experience as he returns to&#8230;  
 
 <https://kickinthetires.net/nascar/xfinity/van-gisbergen-darlington-top-10/>
-
----
-
-## Sheldon Creed: ‘I Put in One of My Best Performances’ at Darlington
-
-date: 2024-08-31, from: Kickin the Tires blog
-
-By Seth Eggert, Associate Editor DARLINGTON, S.C. – Although a late-race caution at Darlington Raceway ended Sheldon Creed’s chance at finally scoring his first NASCAR Xfinity Series victory, the Joe&#8230;  
-
-<https://kickinthetires.net/nascar/creed-best-performancest-darlington/>
-
----
-
-## A Turbo Royal Enfield Interceptor 650 Is Wild, And Also Completely Necessary
-
-date: 2024-08-31, from: Ride Apart, Electric Motorcycle News
-
-H2 who? Time for Royal Enfield to bring a turbo-production bike into existence. 
-
-<https://www.rideapart.com/news/731828/royal-enfield-int650-turbo-video/>
 

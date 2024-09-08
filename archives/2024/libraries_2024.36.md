@@ -1,11 +1,22 @@
 ---
 title: libraries
-updated: 2024-09-07 07:27:16
+updated: 2024-09-08 07:41:26
 ---
 
 # libraries
 
-(date: 2024-09-07 07:27:16)
+(date: 2024-09-08 07:41:26)
+
+---
+
+## Russian Opposition in Exile, Part 1: Internal Heterogeneity
+
+date: 2024-09-10, from: ETH Zurich, recently added
+
+Turchenko, Mikhail; Zavadskaya, Margarita; Makarychev, Andrey; Kronov, Pavel; Nugumanova, Karolina; Golova, Tatiana
+Burkhardt, Fabian; Orttung, Robert; Perović, Jeronim; Pleines, Heiko; Schröder, Hans-Henning; Vorobeva, Ekaterina 
+
+<http://hdl.handle.net/20.500.11850/692533>
 
 ---
 

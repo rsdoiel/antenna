@@ -1,11 +1,121 @@
 ---
 title: food
-updated: 2024-09-07 07:27:20
+updated: 2024-09-08 07:41:30
 ---
 
 # food
 
-(date: 2024-09-07 07:27:20)
+(date: 2024-09-08 07:41:30)
+
+---
+
+## Spicy Sweet And Sour Sauce
+
+date: 2024-09-08, from: Pepper Scale
+
+Talk about a sauce that hits all of your taste buds. Spicy sweet and sour sauce packs in&#160;so much flavor in such little space. It&#8217;s a perfect dipping sauce for egg rolls or for use as a topper for sweet and sour chicken. Cayenne pepper ... <p class="read-more-container"><a title="Spicy Sweet And Sour Sauce" class="read-more button" href="https://pepperscale.com/spicy-sweet-and-sour-sauce/#more-16547" aria-label="Read more about Spicy Sweet And Sour Sauce">Read more</a></p> 
+
+<https://pepperscale.com/spicy-sweet-and-sour-sauce/>
+
+---
+
+## Chicken Satay With Peanut Sauce And Spicy Cucumber Relish
+
+date: 2024-09-08, from: Pepper Scale
+
+Our out-of-this-world chicken satay with peanut sauce may well be the happiest surprise of your summer. To create one of the supreme main course pleasures of Southeast Asian cuisine, be sure to include the delicious sweet, sour, and hot cucumber relish (thanks to Thai bird’s ... <p class="read-more-container"><a title="Chicken Satay With Peanut Sauce And Spicy Cucumber Relish" class="read-more button" href="https://pepperscale.com/chicken-satay-with-peanut-sauce/#more-84160" aria-label="Read more about Chicken Satay With Peanut Sauce And Spicy Cucumber Relish">Read more</a></p> 
+
+<https://pepperscale.com/chicken-satay-with-peanut-sauce/>
+
+---
+
+## Seven Layer Taco Dip
+
+date: 2024-09-08, from: Pepper Scale
+
+A spicy seven layer taco dip takes only minutes to make, but it&#8217;ll keep you and your guests&#160;munching for hours. It&#8217;s the perfect quick dip that tastes like you&#8217;ve put a whole lot more time into it.&#160; If fresh jalapeños are too spicy, opt for ... <p class="read-more-container"><a title="Seven Layer Taco Dip" class="read-more button" href="https://pepperscale.com/seven-layer-taco-dip/#more-6190" aria-label="Read more about Seven Layer Taco Dip">Read more</a></p> 
+
+<https://pepperscale.com/seven-layer-taco-dip/>
+
+---
+
+## Jalapeños Not Spicy? Here May Be Why
+
+date: 2024-09-08, from: Pepper Scale
+
+Have you experienced a jalapeño with a surprising lack of a kick? If your jalapeños are not as spicy as expected, there are many reasons why it may be the case. Let’s break down what may be happening with your bunch. There’s a natural heat ... <p class="read-more-container"><a title="Jalapeños Not Spicy? Here May Be Why" class="read-more button" href="https://pepperscale.com/jalapenos-not-spicy/#more-59285" aria-label="Read more about Jalapeños Not Spicy? Here May Be Why">Read more</a></p> 
+
+<https://pepperscale.com/jalapenos-not-spicy/>
+
+---
+
+## One-Pan Salmon With Burst Tomatoes
+
+date: 2024-09-08, from: Bon Appetet
+
+Throw everything in the skillet, bring it to a simmer, and dinner is done. 
+
+<https://www.bonappetit.com/recipe/one-pan-salmon-burst-tomatoes>
+
+---
+
+## Traeger Timberline Review: Packed With Special Features and Worth the Splurge
+
+date: 2024-09-08, from: Taste of Home
+
+If you're looking for a pellet grill with plenty of special features, the Traeger Timberline is it. Read why we found it to be worth the splurge in our tests. 
+
+<https://www.tasteofhome.com/article/traeger-timberline-review/>
+
+---
+
+## Spicy Mixed Nuts: A Cocktail-Hour Treat
+
+date: 2024-09-07, from: Pepper Scale
+
+Once you start, it’s hard to stop. To say spicy mixed nuts done just the right way are moreish doesn’t do them justice. Addictive is a better moniker. Serve them as an appetizer with drinks, then lock them away. And hide the key. They’re that ... <p class="read-more-container"><a title="Spicy Mixed Nuts: A Cocktail-Hour Treat" class="read-more button" href="https://pepperscale.com/spicy-mixed-nuts/#more-80549" aria-label="Read more about Spicy Mixed Nuts: A Cocktail-Hour Treat">Read more</a></p> 
+
+<https://pepperscale.com/spicy-mixed-nuts/>
+
+---
+
+## Sriracha Fried Rice
+
+date: 2024-09-07, from: Pepper Scale
+
+Sure, fried rice is already a&#160;dish often full of strong flavors, but who denies the Sriracha gods when the perfect use comes around? Sriracha&#8217;s delicious heat, and&#160;lack of vinegary aftertaste, make it a perfect addition to&#160;this dish to deliver some extra oomph. The touch of ... <p class="read-more-container"><a title="Sriracha Fried Rice" class="read-more button" href="https://pepperscale.com/sriracha-fried-rice/#more-6697" aria-label="Read more about Sriracha Fried Rice">Read more</a></p> 
+
+<https://pepperscale.com/sriracha-fried-rice/>
+
+---
+
+## Hearty Tom Yum Soup
+
+date: 2024-09-07, from: Pepper Scale
+
+This hearty take on tom yum soup may be one of the best soups you’ll ever make. It might not be ‘authentically’ like a serving in Thailand, its home country. But finish a big bowl and don’t be surprised if you’re desperately hoping for another ... <p class="read-more-container"><a title="Hearty Tom Yum Soup" class="read-more button" href="https://pepperscale.com/tom-yum-soup/#more-79880" aria-label="Read more about Hearty Tom Yum Soup">Read more</a></p> 
+
+<https://pepperscale.com/tom-yum-soup/>
+
+---
+
+## Turkey and Stuffing Meatballs
+
+date: 2024-09-07, from: Bon Appetet
+
+A holiday on a sheet pan—with green beans, potatoes, and cranberry sauce. 
+
+<https://www.bonappetit.com/recipe/turkey-stuffing-meatballs>
+
+---
+
+## The Secret to Great Turkey Meatballs? Stuffing Mix
+
+date: 2024-09-07, from: Bon Appetet
+
+Once you try this brilliant breadcrumb swap, you’ll never go back. 
+
+<https://www.bonappetit.com/story/meatball-breadcrumb-swap-stuffing-mix>
 
 ---
 
@@ -706,24 +816,4 @@ date: 2024-09-01, from: Taste of Home
 Who needs tortillas when you can have zucchini taco boats? Cheesy taco meat stuffed in zucchini is an easy Taco Tuesday (or any day) dish that will be a hit with kids and adults alike.<!-- notionvc: b6493b17-178b-4873-8113-8e56c28b07ff --> 
 
 <https://www.tasteofhome.com/recipes/zucchini-taco-boats/>
-
----
-
-## Cinnamon Roll Peach Cobbler
-
-date: 2024-08-31, from: Taste of Home
-
-Cinnamon roll peach cobbler combines a package of cinnamon rolls with your favorite summery dessert in the sweetest breakfast (or dessert) mashup. 
-
-<https://www.tasteofhome.com/recipes/cinnamon-roll-peach-cobbler/>
-
----
-
-## Coca-Cola Chicken
-
-date: 2024-08-31, from: Taste of Home
-
-A can of Coke adds a secret something to the sweet and tangy barbecue-style sauce for these Coca-Cola chicken breasts. 
-
-<https://www.tasteofhome.com/recipes/cola-chicken/>
 
