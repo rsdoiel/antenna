@@ -1,11 +1,11 @@
 ---
 title: central coast
-updated: 2024-09-09 08:36:25
+updated: 2024-09-09 11:05:40
 ---
 
 # central coast
 
-(date: 2024-09-09 08:36:25)
+(date: 2024-09-09 11:05:40)
 
 ---
 
@@ -38,12 +38,48 @@ date: 2024-09-09, from: Newshawk, the freshest news in Santa Barbara County
 
 date: 2024-09-09, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="955" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?fit=1024%2C955&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Cancer survivor Cole Racich, a star youth water polo player, was the designated honoree for last month’s Keiki Paddle." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=300%2C280&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=1024%2C955&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=768%2C716&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=1536%2C1433&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=2048%2C1910&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=1200%2C1119&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=1568%2C1463&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=2000%2C1865&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=400%2C373&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=706%2C659&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?fit=1024%2C955&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="955" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?fit=1024%2C955&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Cancer survivor Cole Racich, a star youth water polo player, was the designated honoree for last month’s Keiki Paddle." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=300%2C280&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=1024%2C955&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=768%2C716&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=1536%2C1433&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=2048%2C1910&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=1200%2C1119&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=1568%2C1463&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=2000%2C1865&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=400%2C373&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?resize=706%2C659&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-Cole-Racich.jpg?fit=1024%2C955&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Cole Racich felt the calming warmth of a safe harbor when he returned to Dos Pueblos High School’s Elings Aquatics Center on Thursday. He was back on the pool deck [&#8230;]</p>
 <p>The post <a href="https://www.noozhawk.com/mark-patton-aquatics-community-helps-dos-pueblos-highs-cole-racich-get-back-to-my-life/">Mark Patton: Aquatics Community Helps Dos Pueblos High’s Cole Racich Get ‘Back To My Life’</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 
 <https://www.noozhawk.com/mark-patton-aquatics-community-helps-dos-pueblos-highs-cole-racich-get-back-to-my-life/>
+
+---
+
+## UCSB Women’s Soccer Battles to 3-2 Loss to Colorado College
+
+date: 2024-09-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Gauchos battled Sunday afternoon with two goals by Emma Corcoran and Devin Greer but couldn&#8217;t manage to shut down Colorado College&#8217;s shots from outside the box, falling 3-2. &#8220;That one is tough to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-womens-soccer-battles-to-3-2-loss-to-colorado-college/">UCSB Women&#8217;s Soccer Battles to 3-2 Loss to Colorado College</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-womens-soccer-battles-to-3-2-loss-to-colorado-college/>
+
+---
+
+## No. 11 UCSB Men’s Water Polo Sweeps Doubleheader at Triton Invitational
+
+date: 2024-09-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The No. 11 UC Santa Barbara Men&#8217;s Water Polo team finished 2024&#8217;s opening weekend with a pair of wins at UC San Diego&#8217;s Triton Invitational on Sunday. The Gauchos handled [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/no-11-ucsb-mens-water-polo-sweeps-doubleheader-at-triton-invitational/">No. 11 UCSB Men&#8217;s Water Polo Sweeps Doubleheader at Triton Invitational</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/no-11-ucsb-mens-water-polo-sweeps-doubleheader-at-triton-invitational/>
+
+---
+
+## UCSB Women’s Volleyball Falls in Five Sets to University of San Diego
+
+date: 2024-09-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The UC Santa Barbara Women&#8217;s Volleyball team (2-3) played in their final match of the Jack Talmadge Classic at the Jenny Craig Pavilion against the University of San Diego. This [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-womens-volleyball-falls-in-five-sets-to-university-of-san-diego/">UCSB Women&#8217;s Volleyball Falls in Five Sets to University of San Diego</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-womens-volleyball-falls-in-five-sets-to-university-of-san-diego/>
 
 ---
 
@@ -59,11 +95,23 @@ date: 2024-09-08, from: Newshawk, the freshest news in Santa Barbara County
 
 ---
 
+## Carpinteria High Boys Water Polo Earns Three Wins at Malibu Tournament
+
+date: 2024-09-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A 27-goal effort from Jake Ehlers across four games propelled Carpinteria High boys water polo to a 3-1 record at the Malibu Tournament this weekend. “We had another great weekend [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/carpinteria-high-boys-water-polo-earns-three-wins-at-malibu-tournament/">Carpinteria High Boys Water Polo Earns Three Wins at Malibu Tournament</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/carpinteria-high-boys-water-polo-earns-three-wins-at-malibu-tournament/>
+
+---
+
 ## Dennis Mammana: Saturn’s Rings Dazzle in Summer Night Sky
 
 date: 2024-09-08, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="679" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?fit=1024%2C679&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="This week is a perfect time to view the ringed planet Saturn." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?resize=300%2C199&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?resize=1024%2C679&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?resize=768%2C509&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?resize=1536%2C1019&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?resize=1200%2C796&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?resize=1568%2C1040&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?resize=400%2C265&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?resize=706%2C468&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?fit=1024%2C679&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="679" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?fit=1024%2C679&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="This week is a perfect time to view the ringed planet Saturn." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?resize=300%2C199&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?resize=1024%2C679&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?resize=768%2C509&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?resize=1536%2C1019&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?resize=1200%2C796&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?resize=1568%2C1040&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?resize=400%2C265&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?resize=706%2C468&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dem090324adAP.jpg?fit=1024%2C679&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The planet Saturn returns to our evening sky this week, and I think anyone who has ever seen it through a telescope would argue that it is their favorite of [&#8230;]</p>
 <p>The post <a href="https://www.noozhawk.com/dennis-mammana-saturns-rings-dazzle-in-summer-night-sky/">Dennis Mammana: Saturn’s Rings Dazzle in Summer Night Sky</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
@@ -76,7 +124,7 @@ date: 2024-09-08, from: Newshawk, the freshest news in Santa Barbara County
 
 date: 2024-09-08, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dave-loveton-sbart-cover.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Loyal, dedicated, passionate, conscientious, hard-working, diligent, compassionate and detailed. Dave Loveton covered all the bases in his professional life as a long-time sports writer in Santa Barbara and as the [&#8230;]</p>
 <p>The post <a href="https://www.noozhawk.com/sbart-hall-of-fame-dave-loveton-covered-all-the-bases-as-local-sports-writer/">SBART Hall of Fame: Dave Loveton Covered All the Bases as Local Sports Writer</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  

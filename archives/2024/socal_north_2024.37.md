@@ -1,11 +1,61 @@
 ---
 title: socal north
-updated: 2024-09-09 08:36:20
+updated: 2024-09-09 11:05:38
 ---
 
 # socal north
 
-(date: 2024-09-09 08:36:20)
+(date: 2024-09-09 11:05:38)
+
+---
+
+## Top Reasons to Hunt for Deals and Discounts When Buying Full-Spectrum Online
+
+date: 2024-09-09, from: The Sundail (CSUN Student Newspaper)
+
+Buying Full Spectrum CBD online can be daunting since there are so many options available. However, the process is quite cheap and gratifying when some deals and discounts come your... 
+
+<https://sundial.csun.edu/184500/sundialbrandstudio/sundial-marketplace/top-reasons-to-hunt-for-deals-and-discounts-when-buying-full-spectrum-online/>
+
+---
+
+## How Schools are Using Air Quality Monitoring to Improve Student Behavior and Attendance
+
+date: 2024-09-09, from: The Sundail (CSUN Student Newspaper)
+
+In today&#8217;s rapidly evolving educational landscape, schools are increasingly looking beyond traditional methods to enhance student well-being and academic performance. One innovative approach gaining momentum is the use of air... 
+
+<https://sundial.csun.edu/184495/sundialbrandstudio/sundial-marketplace/how-schools-are-using-air-quality-monitoring-to-improve-student-behavior-and-attendance/>
+
+---
+
+## How to Build Your Reputation While Still in College
+
+date: 2024-09-09, from: The Sundail (CSUN Student Newspaper)
+
+When you start building your career, you&#8217;ll need to focus on developing your professional reputation. Your reputation is something that will build and accumulate naturally over time as you make... 
+
+<https://sundial.csun.edu/184492/uncategorized/how-to-build-your-reputation-while-still-in-college-2/>
+
+---
+
+## How to Utilize Legal Funding Options While Waiting for a Personal Injury Settlement In New Jersey
+
+date: 2024-09-09, from: The Sundail (CSUN Student Newspaper)
+
+Managing the consequences of a personal injury may be very difficult, particularly if you are waiting for a payout and facing increasing financial pressure. Legal assistance provides the necessary financial... 
+
+<https://sundial.csun.edu/184487/sundialbrandstudio/independent-legal-guide/how-to-utilize-legal-funding-options-while-waiting-for-a-personal-injury-settlement-in-new-jersey/>
+
+---
+
+## How Can Medical Records Impact the Compensation You Receive for a Car Accident?
+
+date: 2024-09-09, from: The Sundail (CSUN Student Newspaper)
+
+Your medical records mostly determine the compensation you get after a car accident. Your physical and emotional well-being is commonly the primary concern when involved in such an unexpected event.... 
+
+<https://sundial.csun.edu/184478/sundialbrandstudio/independent-legal-guide/how-can-medical-records-impact-the-compensation-you-receive-for-a-car-accident/>
 
 ---
 

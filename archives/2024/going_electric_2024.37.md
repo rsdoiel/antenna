@@ -1,11 +1,95 @@
 ---
 title: going electric
-updated: 2024-09-09 08:36:41
+updated: 2024-09-09 11:05:48
 ---
 
 # going electric
 
-(date: 2024-09-09 08:36:41)
+(date: 2024-09-09 11:05:48)
+
+---
+
+## Yamaha YDX-MORO e-bike $2,880 off, BLUETTI 204Wh power station $149, Anker EverFrost cooler, more
+
+date: 2024-09-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/YDX-MORO-e-Bike-Yamaha.webp?w=1575" /></div><p>Monday is here, and with it comes the latest roundup of the best Green Deals. Headliners include a couple of markdowns and bonuses on Yamaha and Lectric e-bikes, in addition to a compact power station, and a powered cooler from Anker that doubles as a portable USB-C charger. First and foremost, let’s give some attention to a wild <a href="https://9to5toys.com/2024/09/09/price-drop-knocks-yamaha-ydx-moro-e-bike/">$2,880 price drop on Yamaha’s YDX-MORO e-bike</a> that is now available <a href="https://9to5toys.com/2024/09/09/price-drop-knocks-yamaha-ydx-moro-e-bike/">for $1,919</a>. You’ll also find that <a href="https://9to5toys.com/2024/09/09/lectric-xpress-750-high-step-step-thru-e-bike/">$306 in FREE gear</a> comes along for the ride when you purchase <a href="https://9to5toys.com/2024/09/09/lectric-xpress-750-high-step-step-thru-e-bike/">Lectric’s XPress 750 e-bike</a>. Next up, we’ve spotted the second-best price on <a href="https://9to5toys.com/2024/09/09/bluetti-ac2a-300w-204wh-portable-power-station/">BLUETTI’s 204Wh portable power station down at $149</a> in addition to <a href="https://9to5toys.com/2024/09/09/anker-everfrost-30-powered-cooler/">Anker’s powered EverFrost cooler</a> with an integrated 299Wh battery and USB-C charging <a href="https://9to5toys.com/2024/09/09/anker-everfrost-30-powered-cooler/">at $300 off</a>. We’ll also be calling out a bunch of deals you may have missed over the weekend, so there’s plenty to catch up on down below.</p>
+
+
+
+<p>Head below for more and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="379001" href="https://electrek.co/2024/09/09/yamaha-ydx-moro-e-bike-2880-off-bluetti-204wh-power-station-149-anker-everfrost-cooler-more/#more-379001" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/09/yamaha-ydx-moro-e-bike-2880-off-bluetti-204wh-power-station-149-anker-everfrost-cooler-more/>
+
+---
+
+## The Hyundai Inster Shows Tesla What A $25,000 EV Should Be Like
+
+date: 2024-09-09, from: Inside EVs News
+
+Korean car reviewers have a lot of good things to say about Hyundai's new affordable EV. 
+
+<https://insideevs.com/news/733079/hyundai-inster-korea-reviews/>
+
+---
+
+## Tesla (TSLA) gains on good numbers coming from China, but is it enough to compensate?
+
+date: 2024-09-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/05/Tesla-Model-Y-Hero-2023.jpg?quality=82&#038;strip=all&#038;w=929" /></div><p>Tesla’s stock (TSLA) has gained back some after slipping last Friday seemingly on good sales numbers coming from China.</p>
+
+
+
+<p>But is it enough to compensate for the rest of the world?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="379039" href="https://electrek.co/2024/09/09/tesla-tsla-gains-on-good-numbers-coming-from-china-but-is-it-enough-to-compensate/#more-379039" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/09/tesla-tsla-gains-on-good-numbers-coming-from-china-but-is-it-enough-to-compensate/>
+
+---
+
+## These solar + wind + storage EV chargers replace streetlights
+
+date: 2024-09-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Beam-Global-BeamSpot-Image-Downtown-01.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>San Diego-based <a href="https://beamforall.com/" target="_blank" rel="noreferrer noopener">Beam Global</a> (Nasdaq: BEEM) has launched EV chargers powered by solar, wind, and battery storage that replace streetlights.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,energy-brief,ev-chargers,solar,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="378990" href="https://electrek.co/2024/09/09/these-solar-wind-storage-ev-chargers-replace-streetlights/#more-378990" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/09/these-solar-wind-storage-ev-chargers-replace-streetlights/>
+
+---
+
+## BYD launches the new Han EV powered by its latest tech, starting at just $25,000
+
+date: 2024-09-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/BYD-2025-Han-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The new <a href="https://electrek.co/guides/byd/">BYD</a> Han flagship sedan has arrived. BYD launched the “Evolved” 2025 Han EV featuring its latest tech and a low starting price of just $25,300 (179,800 yuan).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,byd-han" data-layer-viewtype="unknown" data-post-id="378983" href="https://electrek.co/2024/09/09/byd-unveils-2025-han-ev-latest-tech-starts-25000/#more-378983" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/09/byd-unveils-2025-han-ev-latest-tech-starts-25000/>
+
+---
+
+## E.U.'s Gas Car Ban: Italy Warns Of Industry 'Collapse'
+
+date: 2024-09-09, from: Inside EVs News
+
+The European Union is set to ban internal-combustion cars in 2035. Italy thinks doing so will cause an industry "collapse." 
+
+<https://insideevs.com/news/733077/italy-asks-eu-to-drop-ice-ban/>
 
 ---
 

@@ -1,11 +1,31 @@
 ---
 title: games
-updated: 2024-09-09 08:36:33
+updated: 2024-09-09 11:05:43
 ---
 
 # games
 
-(date: 2024-09-09 08:36:33)
+(date: 2024-09-09 11:05:43)
+
+---
+
+## Last chance to grab this seven-game Yakuza bundle for 70% off
+
+date: 2024-09-09, updated: 2024-09-09, from: Polygon Website
+
+There’s still time to immerse yourself into the wild and whimsical world of Sega’s Yakuza at a steep discount. GOG is offering a massive deal on the mainline Yakuza series on PC, where you can pick up a seven-game collection that includes the best versions of Yakuza 0 through Yakuza 6: The Song Life for [&#8230;] 
+
+<https://www.polygon.com/good-deals/443977/yakuza-complete-series-sale-kiyru-0-kiwami-gog>
+
+---
+
+## Sony announces ‘technical presentation’ that sounds like a PS5 Pro reveal
+
+date: 2024-09-09, updated: 2024-09-09, from: Polygon Website
+
+Sony Interactive Entertainment will livestream a “technical presentation” on Tuesday, featuring PlayStation 5 lead architect Mark Cerny, that will focus on the “PS5 and innovations in gaming technology.” The presentation is likely where Sony will officially reveal the PlayStation 5 Pro, the long-rumored upgraded version the current PS5 expected to launch later this year. Tuesday’s [&#8230;] 
+
+<https://www.polygon.com/news/449338/sony-ps5-pro-reveal-announcement-livestream>
 
 ---
 

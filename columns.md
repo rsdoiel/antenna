@@ -1,11 +1,59 @@
 ---
 title: columns
-updated: 2024-09-09 08:36:28
+updated: 2024-09-09 11:05:41
 ---
 
 # columns
 
-(date: 2024-09-09 08:36:28)
+(date: 2024-09-09 11:05:41)
+
+---
+
+##  Playground by Richard Powers 
+
+date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/playground-by-richard-powers>
+
+---
+
+## 30th anniversary in a month
+
+date: 2024-09-09, from: Dave Winer's Scripting News
+
+<p>Are the Apple announcements like great reunions for people who have been going to these things regularly for 20+ years? If so, I can see the value in it. </p>
+<p>I went to a reunion at Berkman, after 20 years, and it was great, made me wonder why we didn't do it every year for the last 20. When you get a group of people together who do great things in a special moment, you should see them from time to time. </p>
+<p>But I have a feeling there's a lot of turnover at the Apple events. In any case, I stopped going to them somewhere in the mid-90s, or more accurately they stopped inviting me. Yeah I was disruptive, but only in comparison to how well-behaved the other journos were (at that time I was writing for Wired). </p>
+<p>The press was in awe of Apple and other Valley companies. I enjoyed that for a very brief period when my company went public after I had a hit Mac product. Then I became something of a pariah, because I <a href="http://scripting.com/davenet/">started blogging</a> and believe me the icons of the Valley for the most part <i>did not like it.</i> They were accustomed to fawning attention and rewritten press releases. But because I was an insider, I had an idea where the bodies might be buried, and I wrote about it. <a href="https://en.wikipedia.org/wiki/Steve_Wozniak">Woz</a> liked it. I was popular at the parties, I guess. </p>
+<p>BTW, <a href="https://en.wikipedia.org/wiki/Heidi_Roizen">Heidi Roizen</a> once observed that I took a date to an Apple announcement (the one where Steve came back). There weren't many people there, maybe 20 or 25. </p>
+<p>Jeff Jarvis wrote in the foreword to his <a href="https://www.amazon.com/Web-We-Weave-Internet-Misanthropes/dp/1541604121">upcoming book</a> that I'm like the <a href="https://en.wikipedia.org/wiki/Zelig">Zelig</a> of tech. This is what he meant, imho. <span class="spOldSchoolEmoji">😄</span></p>
+<p>We're coming up on the 30th anniversary of my blog, one month from tomorrow. You won't hear anyone from tech applauding, and you probably won't hear anything from the old bloggers. But I have something special in mind myself. Hopefully it'll come together in the next month, or sooner. :-)</p>
+<p>Let's go back to 1994, by looking to the future. You won't need an invite, btw. It'll open to everyone.</p>
+ 
+
+<http://scripting.com/2024/09/09/164454.html?title=30thAnniversaryInAMonth>
+
+---
+
+##  This extensive list of pangrams (e.g. &#8220;the quick brown fox&#8230;&#8221;) also contains... 
+
+date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045177-this-extensive-list-of-pa>
+
+---
+
+##  TIL that bananas emit antimatter (because they are slightly radioactive).... 
+
+date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045187-til-that-bananas-emit-ant>
 
 ---
 
@@ -31,7 +79,7 @@ date: 2024-09-09, updated: 2024-09-09, from: Daring Fireball
 
 **@Dave Winer's Scripting News** (date: 2024-09-09, from: Dave Winer's Scripting News)
 
-Could Kamala Harris look into the camera tomorrow night and say "To Fox News viewers, they've been feeding you a load crap. Just thought you should know that. And I wouldn't trust what the others are saying either." 
+Could Kamala Harris look into the camera tomorrow night and say "To Fox News viewers, they've been feeding you a load crap. Just thought you should know. And I wouldn't trust the others so much either." 
 
 <http://scripting.com/2024/09/09.html#a151044>
 
@@ -44,6 +92,17 @@ date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke's blog
  
 
 <https://kottke.org/24/09/0045208-john-mcfall-is-the-first>
+
+---
+
+## Ubuntu Noble updates on hold while 20th anniversary teaser bears retro-styled gifts
+
+date: 2024-09-09, updated: 2024-09-09, from: Liam Proven's articles at the Register
+
+<h4>22.04 to 24.04 upgrade temporarily withdrawn, but will be back</h4>
+      <p>Ubuntu 24.04.1 is still available, but for now you can't update to it from Jammy Jellyfish until a bug is sorted. To compensate, there are some fun goodies coming in 24.10.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/09/09/ubuntu_noble_updates_on_hold/>
 
 ---
 

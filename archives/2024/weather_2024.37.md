@@ -1,21 +1,11 @@
 ---
 title: weather
-updated: 2024-09-09 08:36:30
+updated: 2024-09-09 11:05:42
 ---
 
 # weather
 
-(date: 2024-09-09 08:36:30)
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-09-09, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Mon, 09 Sep 2024 15:33:02 GMT 
-
-<https://www.nhc.noaa.gov/gis/>
+(date: 2024-09-09 11:05:42)
 
 ---
 
@@ -30,32 +20,273 @@ date: 2024-09-09, from: Graphical Tropical Weather Outlooks
 <img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
 <br /><br />
 <div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Mon Sep 9 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Potential <br>Tropical Cyclone Six, located over the southwestern Gulf of Mexico.<br>* Formation chance through 48 hours...high...90 percent. <br>* Formation chance through 7 days...high...90 percent.<br><br>1. Central Tropical Atlantic (AL92): <br>An area of low pressure is producing disorganized showers and <br>thunderstorms over the central tropical Atlantic.  Environmental <br>conditions are marginally conducive for development during the next <br>few days, and a tropical depression could form while the system <br>meanders over the central tropical Atlantic.  By the middle part of <br>the week, the system is forecast to move westward-northwestward at <br>around 10 mph.<br>* Formation chance through 48 hours...medium...60 percent. <br>* Formation chance through 7 days...medium...60 percent.<br><br />
-2. Eastern and Central Tropical Atlantic:<br>A trough of low pressure located several hundred miles <br>west-southwest of the Cabo Verde Islands is producing a broad area <br>of disorganized showers and thunderstorms.  In a couple of days, <br>this trough is expected to interact with an approaching tropical <br>wave.  Afterward, Environmental conditions appear favorable for <br>gradual development of this system, and a tropical depression could <br>form during the middle to latter part of this week while the system <br>moves west-northwestward at 10 to 15 mph. <br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...medium...60 percent.<br><br />
-<br>Public Advisories on Potential Tropical Cyclone Six are issued <br>under WMO header WTNT31 KNHC and under AWIPS header MIATCPAT1. <br>Forecast/Advisories on Potential Tropical Cyclone Six are issued <br>under WMO header WTNT21 KNHC and under AWIPS header MIATCMAT1.<br><br>Forecaster Roberts<br></div></div><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>Issued by the NWS Weather Prediction Center College Park MD<br>200 PM EDT Mon Sep 9 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Tropical <br>Storm Francine, located over the southwestern Gulf of Mexico.<br><br>1. Central Tropical Atlantic (AL92): <br>An elongated area of low pressure over the central tropical <br>Atlantic continues to produce disorganized showers and <br>thunderstorms.  Environmental conditions are marginally conducive <br>for development during the next few days, and a tropical depression <br>could form while the system meanders over the central tropical <br>Atlantic.  By the middle part of the week, the system is forecast <br>to move west-northwestward at around 10 mph.<br>* Formation chance through 48 hours...medium...60 percent. <br>* Formation chance through 7 days...medium...60 percent.<br><br />
+2. Eastern and Central Tropical Atlantic:<br>A trough of low pressure located several hundred miles southwest of <br>the Cabo Verde Islands is expected to merge in a couple of days <br>with a strong tropical wave currently near the coast of western <br>Africa.  Environmental conditions appear favorable for gradual <br>development of this system, and a tropical depression will likely <br>form during the middle to latter part of this week while the system <br>moves west-northwestward at 10 to 15 mph. <br>* Formation chance through 48 hours...low...30 percent.<br>* Formation chance through 7 days...high...70 percent.<br><br />
+<br>Public Advisories on Tropical Storm Francine are issued <br>under WMO header WTNT31 KNHC and under AWIPS header MIATCPAT1. <br>Forecast/Advisories on Tropical Storm Francine are issued <br>under WMO header WTNT21 KNHC and under AWIPS header MIATCMAT1.<br><br>Forecaster Chenard/Blake<br></div></div><br />
  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
-## SPC - No watches are valid as of Mon Sep  9 13:55:02 UTC 2024
+## There are no tropical cyclones at this time.
+
+date: 2024-09-09, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Mon, 09 Sep 2024 17:52:40 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## CPHC Central North Pacific Outlook
+
+date: 2024-09-09, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>800 AM HST Mon Sep 9 2024<br><br>For the central North Pacific...between 140W and 180W:<br><br>No tropical cyclones are expected through the next 7 days.<br><br>$$<br>Forecaster Powell<br>NNNN<br><br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## SPC - No watches are valid as of Mon Sep  9 17:44:01 UTC 2024
 
 date: 2024-09-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Mon Sep  9 13:55:02 UTC 2024. 
+No watches are valid as of Mon Sep  9 17:44:01 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Mon Sep  9 13:55:02 UTC 2024
+## SPC - No MDs are in effect as of Mon Sep  9 17:44:01 UTC 2024
 
 date: 2024-09-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Mon Sep  9 13:55:02 UTC 2024. 
+No Mesoscale Discussions are in effect as of Mon Sep  9 17:44:01 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Sep 9, 2024 1730 UTC Day 2 Convective Outlook
+
+date: 2024-09-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1229 PM CDT Mon Sep 09 2024
+
+Valid 101200Z - 111200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR PARTS OF THE
+LA GULF COAST...
+
+...SUMMARY...
+Some tornado threat associated with Tropical Cyclone Francine may
+approach the Louisiana Gulf Coast by early Wednesday morning.
+
+...Synopsis...
+Tropical Storm Francine will potentially intensify into a hurricane
+as it moves north-northeastward across the western Gulf of Mexico.
+Meanwhile, a strong mid/upper-level shortwave trough is forecast to
+dig southeastward into the Pacific Northwest and northern CA.
+Diurnal thunderstorms capable of locally gusty winds will be
+possible from the eastern Great Basin into parts of the Rockies, and
+also across the FL Peninsula. More isolated storms will also be
+possible from the central Plains into the parts of the upper
+Midwest, which may also be capable of locally gusty winds. Organized
+severe-thunderstorm potential is expected to remain low, with the
+possible exception of the LA Gulf Coast region late in the period in
+association with Francine. 
+
+...LA Gulf Coast vicinity...
+Refer to NHC forecasts and advisories for more information regarding
+Tropical Storm Francine. Based on the current forecast track, the
+most favorable environment for low-topped supercells associated with
+Francine should remain offshore for most of the forecast period.
+However, some outer bands may begin to approach the LA Gulf Coast
+prior to 12Z Wednesday morning, accompanied by an increase in
+low-level shear/SRH. A small Marginal Risk has been included near
+the immediate LA Gulf Coast for the potential of an increasing
+tornado threat prior to the end of the forecast period.
+
+..Dean.. 09/09/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
+
+---
+
+## NHC Eastern North Pacific Outlook
+
+date: 2024-09-09, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_2d0_resize.gif" alt="Eastern North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_7d0_resize.gif" alt="Eastern North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOEP ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>1100 AM PDT Mon Sep 9 2024<br><br>For the eastern North Pacific...east of 140 degrees west longitude:<br><br>1. Offshore of Southwestern Mexico:<br>An area of low pressure is forecast to form during the middle part <br>of the week, near or just to the south of the coast of southwestern <br>Mexico.  Environmental conditions are forecast to be conducive for <br>some gradual development of this system, and a tropical depression <br>could form during the latter part of the week while it moves <br>generally north-northwestward, near the coast of southwestern <br>Mexico.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...medium...60 percent.<br><br />
+<br>Forecaster Roberts<br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-09-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1133 AM CDT Mon Sep 09 2024
+
+Valid 091700Z - 101200Z
+
+Minor modifications have been made to the ongoing forecast based on
+recent observations and model guidance. See the previous discussion
+for greater details.
+
+..Wendt.. 09/09/2024
+
+.PREV DISCUSSION... /ISSUED 0150 AM CDT Mon Sep 09 2024/
+
+...Synopsis...
+Broad trouhging over the Northwest should continue today as an
+embedded perturbation moves eastward over the northern Rockies.
+Southwesterly flow aloft is forecast to increase over much of the
+West as the broad trough slowly shifts east. At the surface, a cold
+front will move into the Rockies, bringing a cooler air mass to
+parts of the Northwest, but gusty winds to parts of the Cascades. A
+lee trough developing east of the Rockies will help support isolated
+dry thunderstorms over parts of WY and MT. Periods of stronger
+surface winds and low RH will support elevated to near-critical
+fire-weather conditions.
+ 
+...Northwest and Great Basin....
+Stronger flow aloft is expected to persist today over much of the
+Northwest and northern Great Basin. Surface winds should increase to
+15-25 mph as momentum from aloft mixes down. Downsloping and
+mid-level drying should keep the air mass quite dry with diurnal RH
+minimums below 15% likely. Several hours of widespread elevated to
+near-critical fire-weather conditions are likely across the northern
+Sierra and Great Basin.
+
+Farther north, more moderate RH of 25-30% is expected beneath the
+upper trough and behind the cold front. Despite the arrival of a
+cooler Pacific air mass, downslope winds of 15-25 mph should overlap
+with dry fuels and pockets of lower RH during the day. Overlapping
+with recent lightning and fire activity, a few hours of elevated to
+near-critical conditions are possible in the lee of the Cascades as
+winds increase.
+
+...Northern Rockies...
+Stronger westerly flow head of the embedded shortwave will aid in
+deepening a lee trough east of the Rockies. Westerly surface winds
+should strengthen in turn, supporting pockets of downslope winds of
+15-25 mph across parts of MT and WY. With hot temperatures and
+little recent rainfall, afternoon RH values should remain quite low,
+generally below 20%. Increasing winds, receptive fuels, and
+persistent dry conditions should support several hours of elevated
+to near critical fire-weather conditions over parts of the northern
+Rockies.
+
+...Dry Thunder...
+Isolated, high-based thunderstorms appear likely over parts of the
+Rockies (mainly WY and MT) today ahead of the shortwave trough. Weak
+buoyancy, and PWATs of 0.5 to 0.7 inches, atop dry and well-mixed
+low levels will support poor precipitation efficiency and the
+potential for strong outflow winds. At least isolated storms are
+expected over areas of receptive fuels. Thus, dry lightning
+ignitions are possible, especially across parts of north-central WY,
+where storm coverage appears greatest.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## SPC Sep 9, 2024 1630 UTC Day 1 Convective Outlook
+
+date: 2024-09-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1126 AM CDT Mon Sep 09 2024
+
+Valid 091630Z - 101200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+NEW YORK...
+
+...SUMMARY...
+Isolated damaging winds may occur this afternoon across parts of New
+York.
+
+...New York...
+Within large-scale upper troughing over the Northeast and eastern
+Canada, an embedded shortwave trough over southern Ontario and the
+upper Great Lakes will continue to move across the Northeast this
+afternoon and evening. Ascent associated with this shortwave trough
+and related mid-level jet is supporting isolated thunderstorms
+across southern Ontario and vicinity. This activity will spread
+east-southeastward this afternoon across parts of NY. The airmass
+over this region should become only weakly unstable as filtered
+daytime heating occurs, with poor mid-level lapse rates, persistent
+cloud cover, and modest low-level moisture limiting destabilization.
+Still, gradually increasing west-northwesterly winds at low/mid
+levels will foster around 25-35 kt of deep-layer shear. This should
+support modest thunderstorm organization, with multicells/small
+clusters potentially evolving along and downstream of Lake Ontario.
+Isolated strong to damaging winds should be the main threat with
+this convection as it moves across much of NY this afternoon and
+early evening, before eventually weakening with eastward extent with
+the loss of daytime heating.
+
+...Northern/Central Rockies and High Plains...
+Isolated to widely scattered thunderstorms should develop this
+afternoon over portions of the northern/central Rockies as a weak
+shortwave trough continues eastward. Low-level moisture and related
+instability are both expected to remain rather meager into the High
+Plains, which should limit updraft intensities. Still, isolated
+strong/gusty winds may occur with this high-based activity across
+parts of MT/WY where low-level lapse rates can become steepened.
+Greater low-level moisture is present farther east into the Dakotas,
+along/east of a weak surface low/trough. But, increasing
+low/mid-level temperatures and a strong cap should generally inhibit
+thunderstorm development through much of the day with eastward
+extent across the northern/central Plains.
+
+..Gleason/Halbert.. 09/09/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 
@@ -143,77 +374,6 @@ downdraft accelerations in some of the cores.
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2024-09-09, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ACPN50 PHFO 091123<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-200 AM HST Mon Sep 9 2024<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-Approximately 1000 miles southeast of Hilo, Hawaii:<br/>
-A trough of low pressure located around 1000 miles southeast of <br/>
-Hilo, Hawaii is producing disorganized showers and thunderstorms. <br/>
-Environmental conditions will remain unfavorable for development of <br/>
-this system as it moves slowly northwestward during the next <br/>
-couple days, and Tropical cyclone formation is no longer expected.<br/>
-* Formation chance through 48 hours...low...near 0 percent.<br/>
-* Formation chance through 7 days...low...near 0 percent.<br/>
-<br/>
-Elsewhere, no tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Jelsema<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2024-09-09, from: Eastern Pacific Basin Tropical Cyclones
-
-
-<br/>
-467 <br/>
-ABPZ20 KNHC 091113<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 AM PDT Mon Sep 9 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Offshore of Southwestern Mexico:<br/>
-An area of low pressure is forecast to form during the middle part <br/>
-of the week, near or just to the south of the coast of southwestern <br/>
-Mexico.  Environmental conditions are forecast to be conducive for <br/>
-some gradual development of this system, and a tropical depression <br/>
-could form during the middle to latter part of this week while it <br/>
-moves generally north-northwestward, near the coast of southwestern <br/>
-Mexico.<br/>
-* Formation chance through 48 hours...low...near 0 percent.<br/>
-* Formation chance through 7 days...medium...60 percent.<br/>
-<br/>
-$$<br/>
-Forecaster Roberts<br/>
-<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 

@@ -1,11 +1,21 @@
 ---
 title: pacific
-updated: 2024-09-09 08:36:22
+updated: 2024-09-09 11:05:39
 ---
 
 # pacific
 
-(date: 2024-09-09 08:36:22)
+(date: 2024-09-09 11:05:39)
+
+---
+
+## All In Good Fun
+
+date: 2024-09-09, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Bastet Zyla Dinah’s mother had only passed but two days ago, and here she was going through her attic all alone, to decide how to best proceed with a livelihood left behind. Dinah’s younger brother had been gone since &#8230; <a href="https://hawaiipacificreview.org/2024/09/09/all-in-good-fun/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/09/09/all-in-good-fun/>
 
 ---
 
