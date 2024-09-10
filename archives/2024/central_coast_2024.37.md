@@ -1,11 +1,137 @@
 ---
 title: central coast
-updated: 2024-09-09 11:05:40
+updated: 2024-09-10 08:28:25
 ---
 
 # central coast
 
-(date: 2024-09-09 11:05:40)
+(date: 2024-09-10 08:28:25)
+
+---
+
+## Carpinteria Sunset
+
+date: 2024-09-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Marguerite-Williams.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sunset at Carpinteria State Beach." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Marguerite-Williams.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Marguerite-Williams.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Marguerite-Williams.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Marguerite-Williams.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Marguerite-Williams.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Marguerite-Williams.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Marguerite-Williams.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Marguerite-Williams.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Marguerite-Williams.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Marguerite-Williams.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Marguerite-Williams.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Marguerite-Williams.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Marguerite-Williams.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/carpinteria-sunset-2/">Carpinteria Sunset</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/carpinteria-sunset-2/>
+
+---
+
+## UCSB Women’s Volleyball Opens Home Slate Against No. 2 Stanford
+
+date: 2024-09-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="599" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/09/100123UCSB-VB-celebrate.jpeg?fit=1024%2C599&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/09/100123UCSB-VB-celebrate.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/09/100123UCSB-VB-celebrate.jpeg?resize=300%2C176&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/09/100123UCSB-VB-celebrate.jpeg?resize=1024%2C599&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/09/100123UCSB-VB-celebrate.jpeg?resize=768%2C449&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/09/100123UCSB-VB-celebrate.jpeg?resize=1536%2C899&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/09/100123UCSB-VB-celebrate.jpeg?resize=1200%2C702&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/09/100123UCSB-VB-celebrate.jpeg?resize=1568%2C917&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/09/100123UCSB-VB-celebrate.jpeg?resize=400%2C234&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2023/09/100123UCSB-VB-celebrate.jpeg?fit=1024%2C599&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Matt Jones is making sure his new group of UC Santa Barbara volleyball players will be battle tested before they enter Big West play later this month. The second-year women’s [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-womens-volleyball-opens-home-slate-against-no-2-stanford/">UCSB Women&#8217;s Volleyball Opens Home Slate Against No. 2 Stanford</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-womens-volleyball-opens-home-slate-against-no-2-stanford/>
+
+---
+
+## Charges Filed Against Former Santa Barbara Teacher Accused of Crimes Involving Minors
+
+date: 2024-09-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/080523-SB-Charter-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Steven Schapansky, 54, of Goleta and a former teacher at Santa Barbara Charter School is accused of secretly recording minors at various locations, including the charter school. He also has been identified as a suspect in a child molestation case." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/080523-SB-Charter-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/080523-SB-Charter-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/080523-SB-Charter-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/080523-SB-Charter-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/080523-SB-Charter-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/080523-SB-Charter-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/080523-SB-Charter-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/080523-SB-Charter-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/080523-SB-Charter-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/080523-SB-Charter-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A 54-year-old former teacher from Goleta has been charged with felony counts of lewd or lascivious acts against two minors and 70 misdemeanor counts of unlawful electronic peeping of 44 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/charges-filed-against-former-santa-barbara-teacher-accused-of-crimes-against-minors/">Charges Filed Against Former Santa Barbara Teacher Accused of Crimes Involving Minors</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/charges-filed-against-former-santa-barbara-teacher-accused-of-crimes-against-minors/>
+
+---
+
+## Carpinteria Man Gets Prison for Receiving Child Porn Soon After Being Paroled
+
+date: 2024-09-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A Carpinteria man was sentenced to more than 11 years in federal prison Monday for receiving child pornography weeks after serving a term in state prison for child sexual exploitation [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/carpinteria-man-sentenced-to-prison-for-receiving-child-porn-soon-after-being-parole/">Carpinteria Man Gets Prison for Receiving Child Porn Soon After Being Paroled</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/carpinteria-man-sentenced-to-prison-for-receiving-child-porn-soon-after-being-parole/>
+
+---
+
+## $750,000 Federal Grant Awarded to California Missions Foundation for Preservation Work at Casa Del Herrero
+
+date: 2024-09-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-casa-del-herrero-1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="From left: Rosie Rafferty, Casa del Herrero Executive Director; David Bolton, California Missions Foundation Executive Director; Heather Biles, Casa Board of Trustees President; Dori Belmonte, CMF Director of Administration; and Elizabeth McGovern, Board Trustee." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-casa-del-herrero-1.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-casa-del-herrero-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-casa-del-herrero-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-casa-del-herrero-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-casa-del-herrero-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-casa-del-herrero-1.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-casa-del-herrero-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-casa-del-herrero-1.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-casa-del-herrero-1.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-casa-del-herrero-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-casa-del-herrero-1.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-casa-del-herrero-1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A major federal matching grant – one of the largest local preservation grants of its kind &#8211;will soon be making a big difference at Montecito’s historic Casa del Herrero. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/750000-federal-grant-awarded-to-california-missions-foundation-for-preservation-work-at-casa-del-herrero/">$750,000 Federal Grant Awarded to California Missions Foundation for Preservation Work at Casa Del Herrero</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/750000-federal-grant-awarded-to-california-missions-foundation-for-preservation-work-at-casa-del-herrero/>
+
+---
+
+## Santa Barbara Talks: Can Democrat David Silva Become Buellton’s Next Mayor?
+
+date: 2024-09-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Northern Santa Barbara County has a reputation for being conservative in its policies and political leadership. But now meet David Silva. The vice-mayor of Buellton, Silva is looking to unseat [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-talks-mayoral-candidate-david-silva-wants-to-invite-everyone-to-buellton/">Santa Barbara Talks: Can Democrat David Silva Become Buellton&#8217;s Next Mayor?</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-talks-mayoral-candidate-david-silva-wants-to-invite-everyone-to-buellton/>
+
+---
+
+## Round Table Luncheon: San Marcos, Santa Barbara to Square Off in Two Rivalry Matchups
+
+date: 2024-09-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/luncheon-99.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/luncheon-99.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/luncheon-99.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/luncheon-99.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/luncheon-99.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/luncheon-99.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/luncheon-99.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/luncheon-99.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/luncheon-99.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/luncheon-99.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/luncheon-99.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>After a short one-week break due to Labor Day, local fall sports teams returned to the Santa Barbara Athletic Round Table Press Luncheon at Harry’s Plaza Cafe on Monday. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/round-table-luncheon-san-marcos-santa-barbara-to-square-off-in-two-rivalry-matchups/">Round Table Luncheon: San Marcos, Santa Barbara to Square Off in Two Rivalry Matchups</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/round-table-luncheon-san-marcos-santa-barbara-to-square-off-in-two-rivalry-matchups/>
+
+---
+
+## Athletes of the Week 9/9
+
+date: 2024-09-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="732" height="610" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-5.00.43-PM.png?fit=732%2C610&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-5.00.43-PM.png?w=732&amp;ssl=1 732w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-5.00.43-PM.png?resize=300%2C250&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-5.00.43-PM.png?resize=400%2C333&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-5.00.43-PM.png?resize=706%2C588&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-5.00.43-PM.png?fit=732%2C610&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Click here for full story on this week&#8217;s Athletes of the Week.</p>
+<p>The post <a href="https://www.noozhawk.com/athletes-of-the-week-9-9/">Athletes of the Week 9/9</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/athletes-of-the-week-9-9/>
+
+---
+
+## San Marcos’ Remi Boykin, Alina Stapf Named Athletes of the Week
+
+date: 2024-09-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A pair of San Marcos Royals took home this week’s Athlete of the Week after big performances in impressive victories. San Marcos football’s Remi Boykin and San Marcos volleyball’s Alina [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/san-marcos-remi-boykin-alina-stapf-named-athletes-of-the-week/">San Marcos&#8217; Remi Boykin, Alina Stapf Named Athletes of the Week</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/san-marcos-remi-boykin-alina-stapf-named-athletes-of-the-week/>
+
+---
+
+## Authorities Name Santa Maria Woman Killed in Highway 101 DUI Crash
+
+date: 2024-09-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="855" height="570" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-SM-Wrong-Way-Fatal-Crash3-cont.jpg?fit=855%2C570&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-SM-Wrong-Way-Fatal-Crash3-cont.jpg?w=855&amp;ssl=1 855w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-SM-Wrong-Way-Fatal-Crash3-cont.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-SM-Wrong-Way-Fatal-Crash3-cont.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-SM-Wrong-Way-Fatal-Crash3-cont.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-SM-Wrong-Way-Fatal-Crash3-cont.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090824-SM-Wrong-Way-Fatal-Crash3-cont.jpg?fit=855%2C570&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The name of the woman killed by an alleged drunken driver going the wrong way on southbound Highway 101 early Sunday morning in Santa Maria has been released. Alma Teresa [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/authorities-name-santa-maria-woman-killed-in-highway-101-dui-crash/">Authorities Name Santa Maria Woman Killed in Highway 101 DUI Crash</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/authorities-name-santa-maria-woman-killed-in-highway-101-dui-crash/>
 
 ---
 

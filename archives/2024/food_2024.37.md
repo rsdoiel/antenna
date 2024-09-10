@@ -1,11 +1,155 @@
 ---
 title: food
-updated: 2024-09-09 11:05:49
+updated: 2024-09-10 08:28:33
 ---
 
 # food
 
-(date: 2024-09-09 11:05:49)
+(date: 2024-09-10 08:28:33)
+
+---
+
+## The September Cook With Bon Appétit Box Makes Fall Meal Planning Easy
+
+date: 2024-09-10, from: Bon Appetet
+
+Recipes created by Bon Appétit editors, exclusive content, and specialty ingredients, all delivered straight to your kitchen. 
+
+<https://www.bonappetit.com/story/bon-appetit-box-2>
+
+---
+
+## Jalapeño Cheese Steak
+
+date: 2024-09-10, from: Pepper Scale
+
+No, this recipe isn&#8217;t exactly great for your waistline, but what could be better than steak, jalapeños, and cheese? Copious amounts of cheese. Your tastebuds will certainly be pleased with jalapeño cheese steak. Any cut of beef will do, so while fresh steak is, of ... <p class="read-more-container"><a title="Jalapeño Cheese Steak" class="read-more button" href="https://pepperscale.com/jalapeno-cheese-steak/#more-92034" aria-label="Read more about Jalapeño Cheese Steak">Read more</a></p> 
+
+<https://pepperscale.com/jalapeno-cheese-steak/>
+
+---
+
+## Spicy Romesco Sauce
+
+date: 2024-09-10, from: Pepper Scale
+
+Roasted red bell peppers and almonds are the base of this spicy romesco sauce. This delicious Catalonian recipe is smooth, nutty, and earthy with a slightly smoky spiciness. Cayenne pepper and smoked paprika bring the spiciness (and smokiness) here. Altogether, it turns meals into something ... <p class="read-more-container"><a title="Spicy Romesco Sauce" class="read-more button" href="https://pepperscale.com/spicy-romesco-sauce/#more-32676" aria-label="Read more about Spicy Romesco Sauce">Read more</a></p> 
+
+<https://pepperscale.com/spicy-romesco-sauce/>
+
+---
+
+## Mexican Tomato Soup
+
+date: 2024-09-10, from: Pepper Scale
+
+Lime juice is the surprise star of this spicy Mexican tomato soup. It provides a citrusy undertone that works well with the spiciness of&#160;red jalapeño pepper and earthy tang of the tomatoes. This is a real tomato &#8220;feel-good&#8221; soup experience with a twist. Want more ... <p class="read-more-container"><a title="Mexican Tomato Soup" class="read-more button" href="https://pepperscale.com/mexican-tomato-soup/#more-7023" aria-label="Read more about Mexican Tomato Soup">Read more</a></p> 
+
+<https://pepperscale.com/mexican-tomato-soup/>
+
+---
+
+## What’s A Good Tabasco Substitute?
+
+date: 2024-09-10, from: Pepper Scale
+
+While Tabasco hot sauce is a supermarket staple, there are times when you need an alternative. What other hot sauces can you use that have a similar vinegary tang? What’s a good Tabasco substitute in a pinch for cooking if you don’t have a bottle ... <p class="read-more-container"><a title="What&#8217;s A Good Tabasco Substitute?" class="read-more button" href="https://pepperscale.com/tabasco-substitute/#more-9861" aria-label="Read more about What&#8217;s A Good Tabasco Substitute?">Read more</a></p> 
+
+<https://pepperscale.com/tabasco-substitute/>
+
+---
+
+## Spicy Alfredo Sauce
+
+date: 2024-09-10, from: Pepper Scale
+
+Ready to spice your typical Alfredo sauce up a notch? Adding in a little cayenne pepper powder is an excellent way to start, whether it&#8217;s Fettuccine Alfredo, chicken, or another concoction. Spicy Alfredo sauce can be that simple to make. But you don&#8217;t need to ... <p class="read-more-container"><a title="Spicy Alfredo Sauce" class="read-more button" href="https://pepperscale.com/spicy-alfredo-sauce/#more-6863" aria-label="Read more about Spicy Alfredo Sauce">Read more</a></p> 
+
+<https://pepperscale.com/spicy-alfredo-sauce/>
+
+---
+
+## Pastrami Salmon With Fennel Slaw
+
+date: 2024-09-10, from: Bon Appetet
+
+Salmon is given the weeknight-friendly pastrami treatment with a sugar-and-spice blend that creates a smoky crust reminiscent of the cured meat. 
+
+<https://www.bonappetit.com/recipe/pastrami-salmon-with-fennel-slaw>
+
+---
+
+## Kung Pao Tempeh
+
+date: 2024-09-10, from: Bon Appetet
+
+This plant-based twist on the classic Chinese chicken dish swaps in crisped crumbled tempeh and fresh fresno chiles. 
+
+<https://www.bonappetit.com/recipe/kung-pao-tempeh>
+
+---
+
+## Charred Cabbage With Sausages and Apples
+
+date: 2024-09-10, from: Bon Appetet
+
+Roasted alongside sausages until tender and blistered, cabbage is the star of this sheet pan dinner that’s offset with horseradish cream and crunchy apples. 
+
+<https://www.bonappetit.com/recipe/charred-cabbage-with-sausages-and-apples>
+
+---
+
+## Mushroom and Shallot Salisbury Steak
+
+date: 2024-09-10, from: Bon Appetet
+
+Our best Salisbury steak recipe takes the nostalgic dish up a notch thanks to caramelized shallots, mushroom gravy, zippy mustard powder, and lots of parsley. 
+
+<https://www.bonappetit.com/recipe/mushroom-and-shallot-salisbury-steak>
+
+---
+
+## Yuzu Chicken Piccata
+
+date: 2024-09-10, from: Bon Appetet
+
+Yuzu juice is a heavy-hitting pantry ingredient, imbuing even the simplest chicken cutlet dishes with intense fragrant-sour citrus character. 
+
+<https://www.bonappetit.com/recipe/yuzu-chicken-piccata>
+
+---
+
+## Baja Fish Tacos
+
+date: 2024-09-10, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/baja-fish-tacos/"><img title="baja-fish-tacos-small-24-8" src="https://www.isabeleats.com/wp-content/uploads/2024/09/baja-fish-tacos-small-24-8-400x600.jpg" alt="Baja fish tacos served with chipotle lime crema and topped with a creamy cabbage slaw on a plate" width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	These Baja fish tacos are some of the best tacos ever! They’re filled with tender and crispy beer-battered fish in warm and soft tortillas and are topped with chipotle mayonnaise and creamy cabbage slaw. I’m not exaggerating when I say that these Baja fish tacos are in my personal top 5 recipes that I’ve ever [&#8230;] 
+
+<https://www.isabeleats.com/baja-fish-tacos/>
+
+---
+
+## The Best Bread Knife (2024) to Cut Your Homemade Sourdough, Sandwiches, and Juicy Tomatoes
+
+date: 2024-09-09, from: Bon Appetet
+
+Bring on the crust. 
+
+<https://www.bonappetit.com/story/bread-knife-just-buy-it>
+
+---
+
+## Stephen Colbert's New Cookbook Doubles as a Masterclass in Couples Therapy
+
+date: 2024-09-09, from: Bon Appetet
+
+In an interview with Bon Appétit, the Colberts talk about the importance of having fun while cooking, Stephen's dream to have the Pope on for a cooking segment and a kitchen fiasco they have dubbed the “spoon story.” 
+
+<https://www.bonappetit.com/story/stephen-colbert-evie-colbert-new-cookbook>
 
 ---
 
@@ -164,6 +308,16 @@ date: 2024-09-09, from: Closet Cooking
  
 
 <https://www.closetcooking.com/grilled-caesar-chicken/>
+
+---
+
+## Instant Pot Mac and Cheese
+
+date: 2024-09-09, from: Taste of Home
+
+An Instant Pot mac and cheese recipe is one of the fastest ways to get comfort food on the table. It calls for just six ingredients and comes together in under 30 minutes. 
+
+<https://www.tasteofhome.com/recipes/instant-pot-mac-and-cheese/>
 
 ---
 

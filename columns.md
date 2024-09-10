@@ -1,11 +1,223 @@
 ---
 title: columns
-updated: 2024-09-09 11:05:41
+updated: 2024-09-10 08:28:25
 ---
 
 # columns
 
-(date: 2024-09-09 11:05:41)
+(date: 2024-09-10 08:28:25)
+
+---
+
+##  A hand-drawn map by Vladimir Nabokov of the travels of Leopold Bloom... 
+
+date: 2024-09-10, updated: 2024-09-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045248-a-hand-drawn-map-by-vladi>
+
+---
+
+##  Colonial Williamsburg, a Safe Space for Learning History 
+
+date: 2024-09-10, updated: 2024-09-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/colonial-williamsburg-a-safe-space-for-learning-history>
+
+---
+
+## 2024-09-08 WebDAV no more
+
+date: 2024-09-10, from: Alex Schroeder's Blog
+
+<h1 id="2024-09-08-webdav-no-more">2024-09-08 WebDAV no more</h1>
+
+<p>I must have implemented <a href="http://www.webdav.org/">WebDAV</a> two or three times in the last decade or two. Just now I used <a href="https://httpd.apache.org/docs/current/mod/mod_dav.html">mod_dav for Apache</a> to enable WebDAV for some directories.</p>
+
+<p>In theory, it&rsquo;s great. You can treat the web server as a file server, connecting to it and using your regular file manager and text editor, using your favourite shell to do things. And if your website already uses permissions to restrict access to some locations, you can use the same config files to handle the making of changes.</p>
+
+<p>In practice, however, the operating systems all have such brittle implementations that none of the solutions I had in production ever worked well. It doesn&rsquo;t matter whether it&rsquo;s Windows&rsquo; File Explorer, macOS&rsquo; Finder, the Gnome virtual file system via Nautilus or something else. The only thing that works is the command-line client <a href="https://notroj.github.io/cadaver/">cadaver</a>. It&rsquo;s the best. It works. Sooner or later, however, I realize that cadaver is probably not the tool I can expect non-technical people to use. It has the same user-interface as the old ftp command-line client.</p>
+
+<p>I wonder what the issue is. WebDAV is 25 years old. It seems to me that something about the process or the spec must have set it up for failure. Perhaps it was a complex protocol? <a href="https://datatracker.ietf.org/doc/html/rfc2518">RFC 2518</a> for WebDAV is from February 1999, <a href="https://datatracker.ietf.org/doc/html/rfc2616">RFC 2616</a> for HTTP/1.1 is from June 1999. Perhaps the move from HTTP/1.0 to HTTP/1.1 too away all the thunder. There was the DotCom craze and Web 2.0 and what not. Nobody had time for WebDAV? Nobody had a business model for WebDAV? People used FTP and SSH and all that for remote file access, there was no point doing it using web technology? Or perhaps there wasn&rsquo;t just one library to rule them all and in the darkness bind them?</p>
+
+<p>In any case, I think I need to write this down so I don&rsquo;t fall for it again in two years. I&rsquo;ve been falling for it since 2005. Every wiki of mine gets WebDAV support … Looking at my blog it seems that <a href="2021-10-18_WebDAV_is_tricky">the last time</a> I spent five days to get this right. This time around I&rsquo;m just tired.</p>
+
+<p>Time to disable <code>mod_dav</code> again.</p>
+
+<p><a class="tag" href="/search/?q=%23WebDAV">#WebDAV</a></p>
+
+<p><strong>2024-09-10</strong>. Another option would be an explicit list of endorsed clients like <a href="https://notroj.github.io/cadaver/">cadaver</a>, <a href="http://rei.to/carotdav_en.html">CarotDAV</a>, <a href="https://cyberduck.io/">Cyberduck</a>, <a href="https://hackage.haskell.org/package/DAV">hDAV</a>, <a href="https://winscp.net/">WinSCP</a>, … But I have only used <code>cadaver</code> myself.</p> 
+
+<https://alexschroeder.ch/view/2024-09-08-webdav>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-10, from: Dave Winer's Scripting News)
+
+<a href="https://www.youtube.com/watch?v=hnze3oquDpI&t=2498s">James Earl Jones</a>: "I don't know if we ever learn from history." 
+
+<http://scripting.com/2024/09/10.html#a115132>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-10, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/09/10/kranepool.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://en.wikipedia.org/wiki/Ed_Kranepool">Ed Kranepool</a> was a Met when that really <a href="http://scripting.com/davenet/1995/04/24/thebaseballgod.html">meant something</a>. He started on the Mets in their inaugural year, 1962. They went from the worst team ever to World Champions in record time. They became the heroes of NYC in 1969. I was riding the <a href="https://www.google.com/maps/dir/29-31+170th+St,+Flushing,+NY+11358/The+Bronx+High+School+of+Science,+West+205th+Street,+The+Bronx,+NY/@40.8244197,-73.952697,12z/data=!4m15!4m14!1m5!1m1!1s0x89c28a8078136589:0xcdf1c8651455269a!2m2!1d-73.7948958!2d40.7696471!1m5!1m1!1s0x89c2f39fba19f047:0x456fa7ab9f9bae18!2m2!1d-73.8913029!2d40.8779204!3e3!5i4?entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D">subway</a> back then to get from Flushing to the Bronx to go to school, and in the Bronx, when the Mets won, everyone was smiling. If you've ever been to NYC you know how unusual that is. And in the Bronx, which is of course where the always-hated Yankees were HQ'd. Ed Kranepool <a href="https://nypost.com/2024/09/09/sports/no-one-a-met-more-through-and-through-than-ed-kranepool/">died</a> Sunday. He was watching a Mets game when he had a heart attack. 
+
+<http://scripting.com/2024/09/10.html#a113403>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-10, from: Dave Winer's Scripting News)
+
+Famous heroic kitten <a href="https://imgs.scripting.com/2024/09/10/famousKittenBreaksOutOfPrison.png">breaks out of prison</a> to rescue house pets in Ohio from being eaten by JD Vance. 
+
+<http://scripting.com/2024/09/10.html#a112516>
+
+---
+
+## New Chrome Zero-Day
+
+date: 2024-09-10, updated: 2024-09-09, from: Bruce Schneier blog
+
+<p>According to Microsoft researchers, North Korean hackers have been <a href="https://www.microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/">using</a> a Chrome <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-7971">zero-day exploit</a> to steal cryptocurrency.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/09/new-chrome-zero-day.html>
+
+---
+
+## The future of Trump if he loses the election 
+
+date: 2024-09-10, from: Robert Reich's blog
+
+And the future of Trumpism 
+
+<https://robertreich.substack.com/p/the-future-of-trumpism-if-he-loses>
+
+---
+
+## September 9, 2024 
+
+date: 2024-09-10, from: Heather Cox Richardson blog
+
+Last night, Vice President Kamala Harris&#8217;s presidential campaign launched a new section of its website detailing her policy positions. 
+
+<https://heathercoxrichardson.substack.com/p/september-9-2024>
+
+---
+
+## Don’t Panic
+
+date: 2024-09-09, from: Dan Rather's Steady
+
+We all have to understand the assignment 
+
+<https://steady.substack.com/p/dont-panic>
+
+---
+
+##  On the Regular 
+
+date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/on-the-regular-1>
+
+---
+
+## The Trump-Vance Plane Goes Into Prohibited Airspace. 
+
+date: 2024-09-09, from: James Fallows, Substack
+
+Examining another entry in the annals of the weird. 
+
+<https://fallows.substack.com/p/the-trump-vance-plane-goes-into-prohibited>
+
+---
+
+##  James Earl Jones has died at the age of 93. I loved... 
+
+date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045253-james-earl-jones-has-died>
+
+---
+
+##  A Math Exam, but Obviously Some Stuff Has Happened over the Summer... 
+
+date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045252-a-math-exam-but-obviously>
+
+---
+
+## OneFileLinux: A tiny recovery distro that fits snugly in your EFI system partition
+
+date: 2024-09-09, updated: 2024-09-09, from: Liam Proven's articles at the Register
+
+<h4>The kind of thing the big names should be doing instead of working with proprietary vendors</h4>
+      <p>OneFileLinux is a very different sort of distro that runs entirely from your UEFI system partition, without a bootable USB key or any other partitions on the disk.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/09/09/onefilelinux_esp_distro/>
+
+---
+
+##  Satisfactory Processing Machine 
+
+date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/satisfactory-processing-machine>
+
+---
+
+##  Apple just announced a number of hearing health features for AirPods Pro... 
+
+date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045250-apple-just-announced-a-nu>
+
+---
+
+##  The neolithic dad guide to what time to leave for the airport.... 
+
+date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045244-the-neolithic-dad-guide-t>
+
+---
+
+##  Is my date&#8217;s flat-earth beliefs a dealbreaker? &#8220;Our beliefs aren&#8217;t just a... 
+
+date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045245-is-dating-a-flat-earther->
+
+---
+
+##  404 Media on The Rise of DIY, Pirated Medicine (to get around... 
+
+date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045246-404-media-on-the-rise>
 
 ---
 
@@ -24,8 +236,8 @@ date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke's blog
 date: 2024-09-09, from: Dave Winer's Scripting News
 
 <p>Are the Apple announcements like great reunions for people who have been going to these things regularly for 20+ years? If so, I can see the value in it. </p>
-<p>I went to a reunion at Berkman, after 20 years, and it was great, made me wonder why we didn't do it every year for the last 20. When you get a group of people together who do great things in a special moment, you should see them from time to time. </p>
-<p>But I have a feeling there's a lot of turnover at the Apple events. In any case, I stopped going to them somewhere in the mid-90s, or more accurately they stopped inviting me. Yeah I was disruptive, but only in comparison to how well-behaved the other journos were (at that time I was writing for Wired). </p>
+<p>I went to a reunion at Berkman, <a href="http://scripting.com/2023/09/08/222335.html">after 20 years</a>, and it was great, made me wonder why we didn't do it every year for the last 20. When you get a group of people together who do great things in a special moment, you should see them from time to time. </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2020/03/22/accordionPlayer.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">But I have a feeling there's a lot of turnover at the Apple events. In any case, I stopped going to them somewhere in the mid-90s, or more accurately they stopped inviting me. Yeah I was disruptive, but only in comparison to how well-behaved the other journos were (at that time I was writing for Wired). </p>
 <p>The press was in awe of Apple and other Valley companies. I enjoyed that for a very brief period when my company went public after I had a hit Mac product. Then I became something of a pariah, because I <a href="http://scripting.com/davenet/">started blogging</a> and believe me the icons of the Valley for the most part <i>did not like it.</i> They were accustomed to fawning attention and rewritten press releases. But because I was an insider, I had an idea where the bodies might be buried, and I wrote about it. <a href="https://en.wikipedia.org/wiki/Steve_Wozniak">Woz</a> liked it. I was popular at the parties, I guess. </p>
 <p>BTW, <a href="https://en.wikipedia.org/wiki/Heidi_Roizen">Heidi Roizen</a> once observed that I took a date to an Apple announcement (the one where Steve came back). There weren't many people there, maybe 20 or 25. </p>
 <p>Jeff Jarvis wrote in the foreword to his <a href="https://www.amazon.com/Web-We-Weave-Internet-Misanthropes/dp/1541604121">upcoming book</a> that I'm like the <a href="https://en.wikipedia.org/wiki/Zelig">Zelig</a> of tech. This is what he meant, imho. <span class="spOldSchoolEmoji">😄</span></p>
@@ -211,30 +423,6 @@ date: 2024-09-08, from: Dan Rather's Steady
 A Reason To Smile 
 
 <https://steady.substack.com/p/shania-twain>
-
----
-
-## 2024-09-08 WebDAV no more
-
-date: 2024-09-08, from: Alex Schroeder's Blog
-
-<h1 id="2024-09-08-webdav-no-more">2024-09-08 WebDAV no more</h1>
-
-<p>I must have implemented <a href="http://www.webdav.org/">WebDAV</a> two or three times in the last decade or two. Just now I used <a href="https://httpd.apache.org/docs/current/mod/mod_dav.html">mod_dav for Apache</a> to enable WebDAV for some directories.</p>
-
-<p>In theory, it&rsquo;s great. You can treat the web server as a file server, connecting to it and using your regular file manager and text editor, using your favourite shell to do things. And if your website already uses permissions to restrict access to some locations, you can use the same config files to handle the making of changes.</p>
-
-<p>In practice, however, the operating systems all have such brittle implementations that none of the solutions I had in production ever worked well. It doesn&rsquo;t matter whether it&rsquo;s Windows&rsquo; File Explorer, macOS&rsquo; Finder, the Gnome virtual file system via Nautilus or something else. The only thing that works is the command-line client <a href="https://notroj.github.io/cadaver/">cadaver</a>. It&rsquo;s the best. It works. Sooner or later, however, I realize that cadaver is probably not the tool I can expect non-technical people to use. It has the same user-interface as the old ftp command-line client.</p>
-
-<p>I wonder what the issue is. WebDAV is 25 years old. It seems to me that something about the process or the spec must have set it up for failure. Perhaps it was a complex protocol? <a href="https://datatracker.ietf.org/doc/html/rfc2518">RFC 2518</a> for WebDAV is from February 1999, <a href="https://datatracker.ietf.org/doc/html/rfc2616">RFC 2616</a> for HTTP/1.1 is from June 1999. Perhaps the move from HTTP/1.0 to HTTP/1.1 too away all the thunder. There was the DotCom craze and Web 2.0 and what not. Nobody had time for WebDAV? Nobody had a business model for WebDAV? People used FTP and SSH and all that for remote file access, there was no point doing it using web technology? Or perhaps there wasn&rsquo;t just one library to rule them all and in the darkness bind them?</p>
-
-<p>In any case, I think I need to write this down so I don&rsquo;t fall for it again in two years. I&rsquo;ve been falling for it since 2005. Every wiki of mine gets WebDAV support … Looking at my blog it seems that <a href="2021-10-18_WebDAV_is_tricky">the last time</a> I spent five days to get this right. This time around I&rsquo;m just tired.</p>
-
-<p>Time to disable <code>mod_dav</code> again.</p>
-
-<p><a class="tag" href="/search/?q=%23WebDAV">#WebDAV</a></p> 
-
-<https://alexschroeder.ch/view/2024-09-08-webdav>
 
 ---
 

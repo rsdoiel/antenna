@@ -1,11 +1,315 @@
 ---
 title: going electric
-updated: 2024-09-09 11:05:48
+updated: 2024-09-10 08:28:32
 ---
 
 # going electric
 
-(date: 2024-09-09 11:05:48)
+(date: 2024-09-10 08:28:32)
+
+---
+
+## Cheaper Cars, Referral Programs: EV Makers Are Moving Down Market
+
+date: 2024-09-10, from: Inside EVs News
+
+Plus, the vast majority of U.S. states aren't hitting charger-to-EV targets. 
+
+<https://insideevs.com/news/733119/china-tariffs-tesla-critical-materials/>
+
+---
+
+## Mercedes, Factorial unveil new all-solid-state battery that can extend EV range by up to 80%
+
+date: 2024-09-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Mercedes-Tesla-Model-Y-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/mercedes-benz/">Mercedes</a> is getting new all-solid-state EV batteries for its next-gen models. Developed with Factorial, its new all-solid-state battery “breakthrough” can extend EV range by up to 80%.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="factorial-energy,mercedes-benz" data-layer-viewtype="unknown" data-post-id="379194" href="https://electrek.co/2024/09/10/mercedes-getting-new-ultra-efficient-all-solid-state-ev-batteries/#more-379194" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/10/mercedes-getting-new-ultra-efficient-all-solid-state-ev-batteries/>
+
+---
+
+## Tesla self-driving promises are getting weaker on new cars
+
+date: 2024-09-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has weakened its real unsupervised self-driving promises on new cars in the online configurator.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="379193" href="https://electrek.co/2024/09/10/tesla-self-driving-promises-are-getting-weaker-on-new-cars/#more-379193" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/10/tesla-self-driving-promises-are-getting-weaker-on-new-cars/>
+
+---
+
+## XPeng asks its suppliers to keep up as its MONA M03 EV averages over 2,000 new orders a day
+
+date: 2024-09-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/MONA-orders-M03-XPeng.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/xpeng-motors/">XPeng Motors</a> is off to a hot start with the first BEV in its new AI-centric MONA line. After garnering tens of thousands of MONA M03 orders in its first couple of days, XPeng is now asking its component suppliers to bolster their capacity so the Chinese automaker can try and keep up with demand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mona,mona-m03,xpeng,xpeng-motors" data-layer-viewtype="unknown" data-post-id="379183" href="https://electrek.co/2024/09/10/xpeng-asks-suppliers-keep-up-mona-m03-ev-averages-over-2k-new-orders-day/#more-379183" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/10/xpeng-asks-suppliers-keep-up-mona-m03-ev-averages-over-2k-new-orders-day/>
+
+---
+
+## China's BYD Shark Vs. Tesla Cybertruck, Rivian R1S: ‘Exceptional Build Quality’
+
+date: 2024-09-10, from: Inside EVs News
+
+The Shark is less than half the price of an all-wheel drive Cybertruck, but it also has a much smaller battery. 
+
+<https://insideevs.com/news/733212/byd-shark-vs-tesla-cybertruck-rivian-r1s-video/>
+
+---
+
+## Honda's Ohio EV Hub Will Be A Leader For The Whole World
+
+date: 2024-09-10, from: Inside EVs News
+
+Honda's new approach to EV manufacturing is meant to keep the brand agile, meeting demand with the right products. And it's a global template. 
+
+<https://insideevs.com/news/733118/honda-ev-hub-progress-2025/>
+
+---
+
+## It turns out cyclists actually should roll through stop signs. Here’s why
+
+date: 2024-09-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/stop-sign-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>When it comes to greening up our transportation systems and reducing the massive carbon footprint left by our daily commutes, there’s a much better solution than trying to get everyone into an electric car. Encouraging increased cycling, whether on electric bikes or good old-fashioned acoustic bikes, has the <a href="https://electrek.co/2023/05/30/its-national-e-bike-day-heres-how-an-electric-bike-can-benefit-you/">biggest impact on reduced emissions</a> and the health and well-being of our society. But with safety at the top of the list of concerns for those switching to a two-wheeled commute, more studies are showing that the best way to protect cyclists at the most dangerous point on their rides is to simply let them blow through stop signs in what is commonly known as an “Idaho stop”.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,safety" data-layer-viewtype="unknown" data-post-id="379160" href="https://electrek.co/2024/09/10/it-turns-out-cyclists-actually-should-roll-through-stop-signs-heres-why/#more-379160" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/10/it-turns-out-cyclists-actually-should-roll-through-stop-signs-heres-why/>
+
+---
+
+## EV sales have not fallen, cooled, slowed or slumped. Stop lying in headlines.
+
+date: 2024-09-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/BYD-first-cargo-ship-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>EV sales continue to rise, but the last year of headlines falsely stating otherwise would leave you thinking they haven’t. After about full year of these lies, it would be nice for journalists to stop pushing this false narrative that they could find the truth behind by simply looking up a single number for once.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-sales" data-layer-viewtype="unknown" data-post-id="379141" href="https://electrek.co/2024/09/10/ev-sales-have-not-fallen-cooled-slowed-or-slumped-stop-lying-in-headlines/#more-379141" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/10/ev-sales-have-not-fallen-cooled-slowed-or-slumped-stop-lying-in-headlines/>
+
+---
+
+## Kia Will Slash The Price Of A New EV6 Or EV9 If You Drive A Tesla
+
+date: 2024-09-10, from: Inside EVs News
+
+Add up the incentives and you could get up to $9,000 off if you already own or lease a Tesla. 
+
+<https://insideevs.com/news/733183/kia-ev6-ev9-price-cut-from-tesla/>
+
+---
+
+## Lucid Air Gets 3D Lane Visualization, Ditches Amazon Alexa
+
+date: 2024-09-10, from: Inside EVs News
+
+The latest software version adds a bunch of new features, including a proprietary voice assistant that can turn on the heated seats. 
+
+<https://insideevs.com/news/733144/lucid-ux-24-lane-visualization-alexa/>
+
+---
+
+## Wireless Tesla, BYD and Lucid step up, and a wicked-fast Dodge EV
+
+date: 2024-09-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/dodge-ev.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s spectacular episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, the Tesla brain drain continues as another key executive departs the company, rivals BYD and Lucid step up their self-driving games, and Dodge reveals an AWD electric Hornet with 1,070 hp that does 0-60 in 1.4 seconds!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,lucid-motors,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="379144" href="https://electrek.co/2024/09/09/wireless-tesla-byd-and-lucid-step-up-and-a-wicked-fast-dodge-ev/#more-379144" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/09/wireless-tesla-byd-and-lucid-step-up-and-a-wicked-fast-dodge-ev/>
+
+---
+
+## Kia wants a bigger slice of the US EV market with new discounts to win over rivals
+
+date: 2024-09-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/Kia-EV9-price.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Are you seeing more <a href="https://electrek.co/guides/kia/">Kia</a> electric cars on the road? It’s not just you. Kia’s EVs, including the EV6 and new EV9, have helped push the brand to two consecutive record-breaking sales months in the US. With its new conquest cash incentive, Kia is now taking aim at Tesla drivers as it looks to win over owners.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia" data-layer-viewtype="unknown" data-post-id="379118" href="https://electrek.co/2024/09/09/kia-wants-bigger-slice-us-ev-market-new-discounts/#more-379118" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/09/kia-wants-bigger-slice-us-ev-market-new-discounts/>
+
+---
+
+## These Solar-Powered Streetlights Could Solve Urban EV Charging
+
+date: 2024-09-09, from: Inside EVs News
+
+Beam Global launched a curbside EV charger with solar panels, a wind turbine and integrated energy storage. 
+
+<https://insideevs.com/news/733092/ev-charger-streetlight-beam-global/>
+
+---
+
+## Tesla partners directly with smart breaker manufactuers to improve Powerwall integration
+
+date: 2024-09-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Tesla-Powerwall-and-Eaton-smart-breaker.jpg?quality=82&#038;strip=all&#038;w=1164" /></div><p>Tesla and Eaton, a giant multinational manufacturer focused on intelligent power management, are partnering to improve Powerwall integration with the latter’s smart breakers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="379101" href="https://electrek.co/2024/09/09/tesla-partners-directly-smart-breaker-manufactuers-to-improve-powerwall-integration/#more-379101" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/09/tesla-partners-directly-smart-breaker-manufactuers-to-improve-powerwall-integration/>
+
+---
+
+## Texas just became No 1 in the US for most utility-scale solar
+
+date: 2024-09-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/Ash-Creek-Solar-Texas.png?w=1200" /></div><p>For the first time, Texas has bumped California out of the No 1 spot for the most utility-scale solar capacity. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,inflation-reduction-act,president-biden,solar-power,texas" data-layer-viewtype="unknown" data-post-id="379096" href="https://electrek.co/2024/09/09/texas-no-1-us-utility-scale-solar/#more-379096" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/09/texas-no-1-us-utility-scale-solar/>
+
+---
+
+## L.A. To NYC In An EV? This Proves It’s Easier Than You Think
+
+date: 2024-09-09, from: Inside EVs News
+
+A Lucid Air Grand Touring made the trek, setting a record for the fewest charging stops in a cross-country trip. 
+
+<https://insideevs.com/news/733089/lucid-air-grand-touring-la-to-nyc/>
+
+---
+
+## Toyota’s all-solid-state EV battery plans get the green light in Japan
+
+date: 2024-09-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Toyotas-EV-battery-plans-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota’s all-solid-state EV battery plans officially gained approval from Japan’s Ministry of Trade and Industry (METI). The certification gives <a href="https://electrek.co/guides/toyota/">Toyota</a> the green light to develop and build next-gen EV batteries as part of Japan’s plans to boost domestic supply.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="solid-state-batteries,toyota" data-layer-viewtype="unknown" data-post-id="379092" href="https://electrek.co/2024/09/09/toyotas-all-solid-state-ev-battery-plans-get-green-light-japan/#more-379092" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/09/toyotas-all-solid-state-ev-battery-plans-get-green-light-japan/>
+
+---
+
+## Jaguar Boss Says Move To EVs Has Been 'Hugely Frustrating'
+
+date: 2024-09-09, from: Inside EVs News
+
+Jaguar's move to a fully-electrified brand hasn't been easy—now we know why. 
+
+<https://insideevs.com/news/733068/jaguar-ev-move-hugely-frustrating/>
+
+---
+
+## Musk denies report of new ethics conflict in Tesla/xAI FSD revenue-share scheme
+
+date: 2024-09-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Untitled-design-e1717510636344.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has considered an arrangement that would license AI models from CEO Elon Musk’s AI startup, xAI, <a href="https://www.wsj.com/tech/tesla-xai-partnership-elon-musk-30e22313">according to WSJ</a>.</p>
+
+
+
+<p>It would be the latest in a number of conflicts of interest that have cropped up related to Musk’s channeling of resources from Tesla, a public company, to xAI, his own privately-held company, though Musk denied the report without reading it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="elon-musk,full-self-driving-fsd,tesla,xai" data-layer-viewtype="unknown" data-post-id="378939" href="https://electrek.co/2024/09/09/musk-denies-report-of-new-ethics-conflict-in-tesla-xai-fsd-revenue-share-scheme/#more-378939" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/09/musk-denies-report-of-new-ethics-conflict-in-tesla-xai-fsd-revenue-share-scheme/>
+
+---
+
+## Volvo Knows That Consumers Hate Subscription Features
+
+date: 2024-09-09, from: Inside EVs News
+
+“I would have a hard time paying to unlock hardware that I know is in the car,” its CTO said during a roundtable.  
+
+<https://insideevs.com/news/733093/volvo-subscription-features/>
+
+---
+
+## Mercedes-AMG’s upcoming CLA EV coupe spotted racing around the Nurburgring [Video]
+
+date: 2024-09-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/Mercedes-AMG-electric-supercar-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/mercedes-benz/">Mercedes-AMG</a> is preparing to launch an EV sports car based on the upcoming electric CLA. Ahead of its official debut, the AMG-tuned EV was spotted ripping around the Nurburgring during testing. Check out the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz" data-layer-viewtype="unknown" data-post-id="379043" href="https://electrek.co/2024/09/09/mercedes-amgs-upcoming-cla-ev-coupe-spotted-testing-video/#more-379043" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/09/mercedes-amgs-upcoming-cla-ev-coupe-spotted-testing-video/>
+
+---
+
+## Polydrops introduces electric travel trailer with solar panels from Aptera, priced under $40K
+
+date: 2024-09-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/solar-electric-trailer-polydrops-tesla-side.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new<a href="https://electrek.co/guides/electric-rv/"> recreational mobility </a>startup, Polydrops, has recently unveiled its latest model—a solar-electric travel trailer called the P21. This sustainable second home on wheels was designed with comfort and efficiency in mind and features solar technology from Aptera as well as a bunch of other cool features—all for a starting price below $40,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aptera,electric-rv,polydrops,solar-electric-trailer" data-layer-viewtype="unknown" data-post-id="378972" href="https://electrek.co/2024/09/09/polydrops-electric-travel-trailer-solar-panels-aptera-priced-under-40k/#more-378972" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/09/polydrops-electric-travel-trailer-solar-panels-aptera-priced-under-40k/>
+
+---
+
+## Tesla expands into the Philippines, starts hiring
+
+date: 2024-09-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-06-at-3.07.51-PM.jpg?quality=82&#038;strip=all&#038;w=1275" /></div><p>Tesla is starting to hire in the Philippines – hinting at an imminent launch the Southeast Asian market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="379057" href="https://electrek.co/2024/09/09/tesla-expands-into-the-philippines-starts-hiring/#more-379057" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/09/tesla-expands-into-the-philippines-starts-hiring/>
+
+---
+
+## Xtracycle Hopper launched as brand’s most affordable premium cargo e-bike yet
+
+date: 2024-09-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/xtracycle-hopper-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Xtracycle’s reputation precedes it in the bicycling industry, with over two decades of building cargo bikes that ride and feel more like a traditional bicycle. Long known for premium builds, the brand’s line of cargo electric bikes has also carried premium prices. At least until the launch of the new <a href="https://xtracycle.com/products/hopper-compact-cargo?variant=47648147865896">Xtracycle Hopper </a>today, which ushers in not only a new compact format but also a much more attractive price.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="379056" href="https://electrek.co/2024/09/09/xtracycle-hopper-launched-as-brands-most-affordable-premium-cargo-e-bike-yet/#more-379056" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/09/xtracycle-hopper-launched-as-brands-most-affordable-premium-cargo-e-bike-yet/>
 
 ---
 
@@ -129,7 +433,7 @@ date: 2024-09-09, from: Electrek Feed
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="arkhaus,e-lixr,electric-boat,electric-boats,electric-water-taxi" data-layer-viewtype="unknown" data-post-id="378742" href="https://electrek.co/2024/09/09/arkhaus-founders-electric-water-taxis-new-miami-based-service-e-lixr/#more-378742" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="378742" href="https://electrek.co/2024/09/09/arkhaus-founders-electric-water-taxis-new-miami-based-service-e-lixr/#more-378742" class="more-link">more…</a> 
 
 <https://electrek.co/2024/09/09/arkhaus-founders-electric-water-taxis-new-miami-based-service-e-lixr/>
 
@@ -155,7 +459,7 @@ The feature that can bring your car to you without anyone behind the steering wh
 
 ---
 
-## Americans Review The BYD Shark Range Extender Pickup And Love It
+## Americans Review The BYD Shark Plug-In Hybrid Pickup And Love It
 
 date: 2024-09-09, from: Inside EVs News
 

@@ -1,11 +1,85 @@
 ---
 title: writing
-updated: 2024-09-09 11:05:43
+updated: 2024-09-10 08:28:27
 ---
 
 # writing
 
-(date: 2024-09-09 11:05:43)
+(date: 2024-09-10 08:28:27)
+
+---
+
+## Advice Show
+
+date: 2024-09-10, from: John August blog
+
+John and Craig open the mailbag to answer a swath of listener questions that make Craig’s blood boil. They offer insights and umbrage on when you can turn down projects early in your career, picking the right day job, maintaining visibility when you’re taken off a project, the next steps after a successful short, when [&#8230;]
+The post <a href="https://johnaugust.com/2024/advice-show">Advice Show</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/advice-show>
+
+---
+
+## 2024 Ditmar Awards Preliminary Ballot
+
+date: 2024-09-09, from: Locus Magazine
+
+<p>The preliminary ballot for the 2024 Ditmar Awards for Australian SF has been announced.</p>
+<p><strong>Best Novel</strong></p>
+<ul>
+<li><strong>Polyphemus</strong>, Zachary Ashford (DarkLit)</li>
+<li><strong>The Tangled Lands</strong>, Glenda Larke (Wizard&#8217;s Tower)</li>
+<li><strong>The Sinister Booksellers of Bath</strong>, Garth Nix (Allen &#38; Unwin)</li>
+<li><strong>Dream Weaver</strong>, Steven Paulsen (IFWG)</li>
+<li><strong>When Dark Roots Hunt</strong>, Zena Shapter (MidnightSun)</li>
+<li><strong>Traitor&#8217;s Run</strong>, Keith Stevenson (coeur de lion)</li>
+</ul>
+<p><strong>Best Novella or Novelette</strong></p>
+<ul>
+<li>&#8220;The Measure of Sorrow&#8221;, </li></ul> <a href="https://locusmag.com/2024/09/2024-ditmar-awards-preliminary-ballot/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/09/2024-ditmar-awards-preliminary-ballot/>
+
+---
+
+## Weekly Bestsellers, 9 September 2024
+
+date: 2024-09-09, from: Locus Magazine
+
+<div style="padding: 14px 0px 0px 0px; text-align: center;">
+<p>Sarah Rees Brennan&#8217;s <b>Long Live Evil</b> (Orbit), first in the Time of Iron series, debuts at #15 on the USA Today list in its US trade paperback edition. The Orbit UK edition, in hardcover, was published earlier in August.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+09.15
+LAT
+09.08
+USAT 
+09.04
+PW 
+09.09
+Amz 
+(09.09)
+UK:
+Amz UK 
+(09.09)
+Canada:
+Amz.ca 
+(09.09)
+
+
+Items on list -x- number of lists <a href="https://locusmag.com/2024/09/weekly-bestsellers-9-september-2024/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/09/weekly-bestsellers-9-september-2024/>
 
 ---
 

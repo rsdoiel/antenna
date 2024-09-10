@@ -1,11 +1,81 @@
 ---
 title: motorcycles
-updated: 2024-09-09 11:05:46
+updated: 2024-09-10 08:28:31
 ---
 
 # motorcycles
 
-(date: 2024-09-09 11:05:46)
+(date: 2024-09-10 08:28:31)
+
+---
+
+## Royal Enfield Will Now Let You Customize Your Bike Straight Off The Showroom Floor
+
+date: 2024-09-10, from: Ride Apart, Electric Motorcycle News
+
+For now, the program is offered only in India, and covers just the Royal Enfield Classic 350.  
+
+<https://www.rideapart.com/news/732962/royal-enfield-factory-custom-program-india/>
+
+---
+
+## Racer Ryota Haga, Son Of Noriyuki Haga, Dies In Racing Accident
+
+date: 2024-09-10, from: Ride Apart, Electric Motorcycle News
+
+The up-and-coming young racer was competing in the All-Japan Roadrace Championship's ST600 class. 
+
+<https://www.rideapart.com/news/733117/ryota-haga-obituary-japan-roadracing/>
+
+---
+
+## You Have To See This Insane Tractor Motorcycle, Watch and Hear It Fire Up
+
+date: 2024-09-10, from: Ride Apart, Electric Motorcycle News
+
+It’s sketchy in so many ways—I love it.  
+
+<https://www.rideapart.com/news/732961/insane-custom-tractor-motorcycle/>
+
+---
+
+## Adjusting You Can-Am UTV's Ride Height Is Simple, Even I Could Do It
+
+date: 2024-09-10, from: Ride Apart, Electric Motorcycle News
+
+Do you have a hammer? 
+
+<https://www.rideapart.com/news/733094/can-am-maverick-x3-utv-ride-height-adjustment/>
+
+---
+
+## 26 People Have Died In Off-Road Crashes In Wisconsin, This Has To Stop
+
+date: 2024-09-10, from: Ride Apart, Electric Motorcycle News
+
+A good number of the fatalities were not wearing helmets and were under the influence of alcohol.  
+
+<https://www.rideapart.com/news/732963/wisconsin-atv-utv-fatalities-2024/>
+
+---
+
+## Driver Plows Into Motorcyclist, Tries To Flee With Bike Wedged Under Car
+
+date: 2024-09-10, from: Ride Apart, Electric Motorcycle News
+
+The rider survived and is currently in the hospital. 
+
+<https://www.rideapart.com/news/733085/crash-bike-wedged-under-car/>
+
+---
+
+## Hoonigan Announces It's Bankrupt, Private Equity Destroys Another Brand
+
+date: 2024-09-10, from: Ride Apart, Electric Motorcycle News
+
+Who could've seen this coming? 
+
+<https://www.rideapart.com/news/733090/hooligan-clear-lake-capital-wheel-pros-bankruptcy/>
 
 ---
 

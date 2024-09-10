@@ -30,7 +30,239 @@
 Items collected from feeds in <a href="columns.txt">columns.txt</a>
 </div>
 <h1 id="columns">columns</h1>
-<p>(date: 2024-09-09 11:05:41)</p>
+<p>(date: 2024-09-10 08:28:25)</p>
+<hr />
+<h2
+id="a-hand-drawn-map-by-vladimir-nabokov-of-the-travels-of-leopold-bloom">A
+hand-drawn map by Vladimir Nabokov of the travels of Leopold Bloom…</h2>
+<p>date: 2024-09-10, updated: 2024-09-10, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045248-a-hand-drawn-map-by-vladi"
+class="uri">https://kottke.org/24/09/0045248-a-hand-drawn-map-by-vladi</a></p>
+<hr />
+<h2
+id="colonial-williamsburg-a-safe-space-for-learning-history">Colonial
+Williamsburg, a Safe Space for Learning History</h2>
+<p>date: 2024-09-10, updated: 2024-09-10, from: Jason Kittke’s blog</p>
+<p><a
+href="https://kottke.org/24/09/colonial-williamsburg-a-safe-space-for-learning-history"
+class="uri">https://kottke.org/24/09/colonial-williamsburg-a-safe-space-for-learning-history</a></p>
+<hr />
+<h2 id="webdav-no-more">2024-09-08 WebDAV no more</h2>
+<p>date: 2024-09-10, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-09-08-webdav-no-more">
+2024-09-08 WebDAV no more
+</h1>
+<p>
+I must have implemented <a href="http://www.webdav.org/">WebDAV</a> two
+or three times in the last decade or two. Just now I used
+<a href="https://httpd.apache.org/docs/current/mod/mod_dav.html">mod_dav
+for Apache</a> to enable WebDAV for some directories.
+</p>
+<p>
+In theory, it’s great. You can treat the web server as a file server,
+connecting to it and using your regular file manager and text editor,
+using your favourite shell to do things. And if your website already
+uses permissions to restrict access to some locations, you can use the
+same config files to handle the making of changes.
+</p>
+<p>
+In practice, however, the operating systems all have such brittle
+implementations that none of the solutions I had in production ever
+worked well. It doesn’t matter whether it’s Windows’ File Explorer,
+macOS’ Finder, the Gnome virtual file system via Nautilus or something
+else. The only thing that works is the command-line client
+<a href="https://notroj.github.io/cadaver/">cadaver</a>. It’s the best.
+It works. Sooner or later, however, I realize that cadaver is probably
+not the tool I can expect non-technical people to use. It has the same
+user-interface as the old ftp command-line client.
+</p>
+<p>
+I wonder what the issue is. WebDAV is 25 years old. It seems to me that
+something about the process or the spec must have set it up for failure.
+Perhaps it was a complex protocol?
+<a href="https://datatracker.ietf.org/doc/html/rfc2518">RFC 2518</a> for
+WebDAV is from February 1999,
+<a href="https://datatracker.ietf.org/doc/html/rfc2616">RFC 2616</a> for
+HTTP/1.1 is from June 1999. Perhaps the move from HTTP/1.0 to HTTP/1.1
+too away all the thunder. There was the DotCom craze and Web 2.0 and
+what not. Nobody had time for WebDAV? Nobody had a business model for
+WebDAV? People used FTP and SSH and all that for remote file access,
+there was no point doing it using web technology? Or perhaps there
+wasn’t just one library to rule them all and in the darkness bind them?
+</p>
+<p>
+In any case, I think I need to write this down so I don’t fall for it
+again in two years. I’ve been falling for it since 2005. Every wiki of
+mine gets WebDAV support … Looking at my blog it seems that
+<a href="2021-10-18_WebDAV_is_tricky">the last time</a> I spent five
+days to get this right. This time around I’m just tired.
+</p>
+<p>
+Time to disable <code>mod_dav</code> again.
+</p>
+<p>
+<a class="tag" href="/search/?q=%23WebDAV">#WebDAV</a>
+</p>
+<p>
+<strong>2024-09-10</strong>. Another option would be an explicit list of
+endorsed clients like
+<a href="https://notroj.github.io/cadaver/">cadaver</a>,
+<a href="http://rei.to/carotdav_en.html">CarotDAV</a>,
+<a href="https://cyberduck.io/">Cyberduck</a>,
+<a href="https://hackage.haskell.org/package/DAV">hDAV</a>,
+<a href="https://winscp.net/">WinSCP</a>, … But I have only used
+<code>cadaver</code> myself.
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-09-08-webdav"
+class="uri">https://alexschroeder.ch/view/2024-09-08-webdav</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-09-10, from: Dave Winer’s Scripting
+News)</p>
+<p><a href="https://www.youtube.com/watch?v=hnze3oquDpI&t=2498s">James
+Earl Jones</a>: “I don’t know if we ever learn from history.”</p>
+<p><a href="http://scripting.com/2024/09/10.html#a115132"
+class="uri">http://scripting.com/2024/09/10.html#a115132</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-09-10, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/09/10/kranepool.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://en.wikipedia.org/wiki/Ed_Kranepool">Ed
+Kranepool</a> was a Met when that really
+<a href="http://scripting.com/davenet/1995/04/24/thebaseballgod.html">meant
+something</a>. He started on the Mets in their inaugural year, 1962.
+They went from the worst team ever to World Champions in record time.
+They became the heroes of NYC in 1969. I was riding the
+<a href="https://www.google.com/maps/dir/29-31+170th+St,+Flushing,+NY+11358/The+Bronx+High+School+of+Science,+West+205th+Street,+The+Bronx,+NY/@40.8244197,-73.952697,12z/data=!4m15!4m14!1m5!1m1!1s0x89c28a8078136589:0xcdf1c8651455269a!2m2!1d-73.7948958!2d40.7696471!1m5!1m1!1s0x89c2f39fba19f047:0x456fa7ab9f9bae18!2m2!1d-73.8913029!2d40.8779204!3e3!5i4?entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D">subway</a>
+back then to get from Flushing to the Bronx to go to school, and in the
+Bronx, when the Mets won, everyone was smiling. If you’ve ever been to
+NYC you know how unusual that is. And in the Bronx, which is of course
+where the always-hated Yankees were HQ’d. Ed Kranepool
+<a href="https://nypost.com/2024/09/09/sports/no-one-a-met-more-through-and-through-than-ed-kranepool/">died</a>
+Sunday. He was watching a Mets game when he had a heart attack.</p>
+<p><a href="http://scripting.com/2024/09/10.html#a113403"
+class="uri">http://scripting.com/2024/09/10.html#a113403</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-09-10, from: Dave Winer’s Scripting
+News)</p>
+<p>Famous heroic kitten
+<a href="https://imgs.scripting.com/2024/09/10/famousKittenBreaksOutOfPrison.png">breaks
+out of prison</a> to rescue house pets in Ohio from being eaten by JD
+Vance.</p>
+<p><a href="http://scripting.com/2024/09/10.html#a112516"
+class="uri">http://scripting.com/2024/09/10.html#a112516</a></p>
+<hr />
+<h2 id="new-chrome-zero-day">New Chrome Zero-Day</h2>
+<p>date: 2024-09-10, updated: 2024-09-09, from: Bruce Schneier blog</p>
+<p>
+According to Microsoft researchers, North Korean hackers have been
+<a href="https://www.microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/">using</a>
+a Chrome
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2024-7971">zero-day
+exploit</a> to steal cryptocurrency.
+</p>
+<p><a
+href="https://www.schneier.com/blog/archives/2024/09/new-chrome-zero-day.html"
+class="uri">https://www.schneier.com/blog/archives/2024/09/new-chrome-zero-day.html</a></p>
+<hr />
+<h2 id="the-future-of-trump-if-he-loses-the-election">The future of
+Trump if he loses the election</h2>
+<p>date: 2024-09-10, from: Robert Reich’s blog</p>
+<p>And the future of Trumpism</p>
+<p><a
+href="https://robertreich.substack.com/p/the-future-of-trumpism-if-he-loses"
+class="uri">https://robertreich.substack.com/p/the-future-of-trumpism-if-he-loses</a></p>
+<hr />
+<h2 id="september-9-2024">September 9, 2024</h2>
+<p>date: 2024-09-10, from: Heather Cox Richardson blog</p>
+<p>Last night, Vice President Kamala Harris’s presidential campaign
+launched a new section of its website detailing her policy
+positions.</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/september-9-2024"
+class="uri">https://heathercoxrichardson.substack.com/p/september-9-2024</a></p>
+<hr />
+<h2 id="dont-panic">Don’t Panic</h2>
+<p>date: 2024-09-09, from: Dan Rather’s Steady</p>
+<p>We all have to understand the assignment</p>
+<p><a href="https://steady.substack.com/p/dont-panic"
+class="uri">https://steady.substack.com/p/dont-panic</a></p>
+<hr />
+<h2 id="on-the-regular">On the Regular</h2>
+<p>date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/on-the-regular-1"
+class="uri">https://kottke.org/24/09/on-the-regular-1</a></p>
+<hr />
+<h2 id="the-trump-vance-plane-goes-into-prohibited-airspace.">The
+Trump-Vance Plane Goes Into Prohibited Airspace.</h2>
+<p>date: 2024-09-09, from: James Fallows, Substack</p>
+<p>Examining another entry in the annals of the weird.</p>
+<p><a
+href="https://fallows.substack.com/p/the-trump-vance-plane-goes-into-prohibited"
+class="uri">https://fallows.substack.com/p/the-trump-vance-plane-goes-into-prohibited</a></p>
+<hr />
+<h2 id="james-earl-jones-has-died-at-the-age-of-93.-i-loved">James Earl
+Jones has died at the age of 93. I loved…</h2>
+<p>date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045253-james-earl-jones-has-died"
+class="uri">https://kottke.org/24/09/0045253-james-earl-jones-has-died</a></p>
+<hr />
+<h2
+id="a-math-exam-but-obviously-some-stuff-has-happened-over-the-summer">A
+Math Exam, but Obviously Some Stuff Has Happened over the Summer…</h2>
+<p>date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045252-a-math-exam-but-obviously"
+class="uri">https://kottke.org/24/09/0045252-a-math-exam-but-obviously</a></p>
+<hr />
+<h2
+id="onefilelinux-a-tiny-recovery-distro-that-fits-snugly-in-your-efi-system-partition">OneFileLinux:
+A tiny recovery distro that fits snugly in your EFI system
+partition</h2>
+<p>date: 2024-09-09, updated: 2024-09-09, from: Liam Proven’s articles
+at the Register</p>
+<h4>
+The kind of thing the big names should be doing instead of working with
+proprietary vendors
+</h4>
+<pre><code>  &lt;p&gt;OneFileLinux is a very different sort of distro that runs entirely from your UEFI system partition, without a bootable USB key or any other partitions on the disk.&lt;/p&gt; </code></pre>
+<p><a
+href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/09/09/onefilelinux_esp_distro/"
+class="uri">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/09/09/onefilelinux_esp_distro/</a></p>
+<hr />
+<h2 id="satisfactory-processing-machine">Satisfactory Processing
+Machine</h2>
+<p>date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/satisfactory-processing-machine"
+class="uri">https://kottke.org/24/09/satisfactory-processing-machine</a></p>
+<hr />
+<h2
+id="apple-just-announced-a-number-of-hearing-health-features-for-airpods-pro">Apple
+just announced a number of hearing health features for AirPods Pro…</h2>
+<p>date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045250-apple-just-announced-a-nu"
+class="uri">https://kottke.org/24/09/0045250-apple-just-announced-a-nu</a></p>
+<hr />
+<h2
+id="the-neolithic-dad-guide-to-what-time-to-leave-for-the-airport.">The
+neolithic dad guide to what time to leave for the airport….</h2>
+<p>date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045244-the-neolithic-dad-guide-t"
+class="uri">https://kottke.org/24/09/0045244-the-neolithic-dad-guide-t</a></p>
+<hr />
+<h2
+id="is-my-dates-flat-earth-beliefs-a-dealbreaker-our-beliefs-arent-just-a">Is
+my date’s flat-earth beliefs a dealbreaker? “Our beliefs aren’t just
+a…</h2>
+<p>date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045245-is-dating-a-flat-earther-"
+class="uri">https://kottke.org/24/09/0045245-is-dating-a-flat-earther-</a></p>
+<hr />
+<h2 id="media-on-the-rise-of-diy-pirated-medicine-to-get-around">404
+Media on The Rise of DIY, Pirated Medicine (to get around…</h2>
+<p>date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045246-404-media-on-the-rise"
+class="uri">https://kottke.org/24/09/0045246-404-media-on-the-rise</a></p>
 <hr />
 <h2 id="playground-by-richard-powers">Playground by Richard Powers</h2>
 <p>date: 2024-09-09, updated: 2024-09-09, from: Jason Kittke’s blog</p>
@@ -45,14 +277,16 @@ going to these things regularly for 20+ years? If so, I can see the
 value in it.
 </p>
 <p>
-I went to a reunion at Berkman, after 20 years, and it was great, made
-me wonder why we didn’t do it every year for the last 20. When you get a
-group of people together who do great things in a special moment, you
-should see them from time to time.
+I went to a reunion at Berkman,
+<a href="http://scripting.com/2023/09/08/222335.html">after 20
+years</a>, and it was great, made me wonder why we didn’t do it every
+year for the last 20. When you get a group of people together who do
+great things in a special moment, you should see them from time to time.
 </p>
 <p>
-But I have a feeling there’s a lot of turnover at the Apple events. In
-any case, I stopped going to them somewhere in the mid-90s, or more
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/03/22/accordionPlayer.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">But
+I have a feeling there’s a lot of turnover at the Apple events. In any
+case, I stopped going to them somewhere in the mid-90s, or more
 accurately they stopped inviting me. Yeah I was disruptive, but only in
 comparison to how well-behaved the other journos were (at that time I
 was writing for Wired).
@@ -294,65 +528,6 @@ class="uri">https://heathercoxrichardson.substack.com/p/september-7-2024-107</a>
 <p>A Reason To Smile</p>
 <p><a href="https://steady.substack.com/p/shania-twain"
 class="uri">https://steady.substack.com/p/shania-twain</a></p>
-<hr />
-<h2 id="webdav-no-more">2024-09-08 WebDAV no more</h2>
-<p>date: 2024-09-08, from: Alex Schroeder’s Blog</p>
-<h1 id="2024-09-08-webdav-no-more">
-2024-09-08 WebDAV no more
-</h1>
-<p>
-I must have implemented <a href="http://www.webdav.org/">WebDAV</a> two
-or three times in the last decade or two. Just now I used
-<a href="https://httpd.apache.org/docs/current/mod/mod_dav.html">mod_dav
-for Apache</a> to enable WebDAV for some directories.
-</p>
-<p>
-In theory, it’s great. You can treat the web server as a file server,
-connecting to it and using your regular file manager and text editor,
-using your favourite shell to do things. And if your website already
-uses permissions to restrict access to some locations, you can use the
-same config files to handle the making of changes.
-</p>
-<p>
-In practice, however, the operating systems all have such brittle
-implementations that none of the solutions I had in production ever
-worked well. It doesn’t matter whether it’s Windows’ File Explorer,
-macOS’ Finder, the Gnome virtual file system via Nautilus or something
-else. The only thing that works is the command-line client
-<a href="https://notroj.github.io/cadaver/">cadaver</a>. It’s the best.
-It works. Sooner or later, however, I realize that cadaver is probably
-not the tool I can expect non-technical people to use. It has the same
-user-interface as the old ftp command-line client.
-</p>
-<p>
-I wonder what the issue is. WebDAV is 25 years old. It seems to me that
-something about the process or the spec must have set it up for failure.
-Perhaps it was a complex protocol?
-<a href="https://datatracker.ietf.org/doc/html/rfc2518">RFC 2518</a> for
-WebDAV is from February 1999,
-<a href="https://datatracker.ietf.org/doc/html/rfc2616">RFC 2616</a> for
-HTTP/1.1 is from June 1999. Perhaps the move from HTTP/1.0 to HTTP/1.1
-too away all the thunder. There was the DotCom craze and Web 2.0 and
-what not. Nobody had time for WebDAV? Nobody had a business model for
-WebDAV? People used FTP and SSH and all that for remote file access,
-there was no point doing it using web technology? Or perhaps there
-wasn’t just one library to rule them all and in the darkness bind them?
-</p>
-<p>
-In any case, I think I need to write this down so I don’t fall for it
-again in two years. I’ve been falling for it since 2005. Every wiki of
-mine gets WebDAV support … Looking at my blog it seems that
-<a href="2021-10-18_WebDAV_is_tricky">the last time</a> I spent five
-days to get this right. This time around I’m just tired.
-</p>
-<p>
-Time to disable <code>mod_dav</code> again.
-</p>
-<p>
-<a class="tag" href="/search/?q=%23WebDAV">#WebDAV</a>
-</p>
-<p><a href="https://alexschroeder.ch/view/2024-09-08-webdav"
-class="uri">https://alexschroeder.ch/view/2024-09-08-webdav</a></p>
 <hr />
 <h2 id="caption-contest-bugged">Caption contest: Bugged</h2>
 <p>date: 2024-09-08, from: Robert Reich’s blog</p>

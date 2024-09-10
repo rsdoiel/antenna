@@ -1,11 +1,31 @@
 ---
 title: retro computing
-updated: 2024-09-09 11:05:47
+updated: 2024-09-10 08:28:31
 ---
 
 # retro computing
 
-(date: 2024-09-09 11:05:47)
+(date: 2024-09-10 08:28:31)
+
+---
+
+## Bristol RISC OS Users meeting – 12th September
+
+date: 2024-09-09, from: RiscOS Story
+
+The next meeting of Bristol RISC OS Users (BRU) will take place on Thursday, 12th September. The group meets on an informal basis for a chat over a meal, a drink and bite to eat, so there is usually no set topic or formal speaker; it&#8217;s usually a case of discussing the latest RISC OS news and developments, and often beyond into the wider world. However, sometimes members might bring along their own latest projects &#8211; or problems &#8211; for the group to look at, and this month Chris Hall&#8230; 
+
+<https://www.riscository.com/2024/bristol-meeting-12th-september-2/>
+
+---
+
+## VATGST pops up to version 1.03
+
+date: 2024-09-09, from: RiscOS Story
+
+If you use VATGST from Kevin Wells, there is a new version for you to download. Version 1.03 of the software is only a small update, adding recognition of and response to the F3 key to pop up a Save dialogue box if there is anything to be saved. The application offers a handy way to check if an entity that is charging either Value Added Tax (VAT) or Goods and Services Tax (GST) in those countries is legitimately registered. If they are, they should provide a registration number, and&#8230; 
+
+<https://www.riscository.com/2024/vatgst-version-1-03/>
 
 ---
 

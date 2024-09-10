@@ -1,11 +1,536 @@
 ---
 title: pacific
-updated: 2024-09-09 11:05:39
+updated: 2024-09-10 08:28:23
 ---
 
 # pacific
 
-(date: 2024-09-09 11:05:39)
+(date: 2024-09-10 08:28:23)
+
+---
+
+## Whips and Remengesau Face Off in Palau’s 2024 Presidential Debate
+
+date: 2024-09-10, from: Island Times
+
+<figure><img width="1024" height="562" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitle-2.jpg?fit=1024%2C562&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitle-2.jpg?w=1972&amp;ssl=1 1972w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitle-2.jpg?resize=300%2C165&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitle-2.jpg?resize=1024%2C562&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitle-2.jpg?resize=768%2C422&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitle-2.jpg?resize=1536%2C844&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitle-2.jpg?resize=1200%2C659&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitle-2.jpg?resize=1568%2C861&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitle-2.jpg?resize=400%2C220&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitle-2.jpg?resize=706%2C388&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitle-2.jpg?fit=1024%2C562&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72434" data-permalink="https://islandtimes.org/whips-and-remengesau-face-off-in-palaus-2024-presidential-debate/untitle-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitle-2.jpg?fit=1972%2C1083&amp;ssl=1" data-orig-size="1972,1083" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Untitle-2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitle-2.jpg?fit=300%2C165&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitle-2.jpg?fit=780%2C428&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>The first face-to-face debate between the two presidential candidates for Palau&#8217;s 2024 general election — incumbent President Surangel Whipps Jr. and former President Tommy E. Remengesau Jr. — will take place on Thursday, September 12, 2024. The debate is scheduled from 6 p.m. to 9 p.m. at the Palau Community College Assembly Hall. Hosted by [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whips-and-remengesau-face-off-in-palaus-2024-presidential-debate/">Whips and Remengesau Face Off in Palau&#8217;s 2024 Presidential Debate</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/whips-and-remengesau-face-off-in-palaus-2024-presidential-debate/>
+
+---
+
+## Palau Police Arrest Two in Major Methamphetamine Bust, Bribery Allegations
+
+date: 2024-09-10, from: Island Times
+
+<p>Reports of increased drug activity in Palau were confirmed last week with the filing of three separate drug bust cases, involving large sums of cash, alleged bribery attempts of law enforcement, and the smuggling of drugs by a police officer. In case No. 24-049, 279 grams of methamphetamine, commonly known as “meth” or “ice,” were [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-police-arrest-two-in-major-methamphetamine-bust-bribery-allegations/">Palau Police Arrest Two in Major Methamphetamine Bust, Bribery Allegations</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-police-arrest-two-in-major-methamphetamine-bust-bribery-allegations/>
+
+---
+
+## Monsoon Trough and Westerly Winds Set to Bring Heavy Rainfall and Strong Winds to Palau
+
+date: 2024-09-10, from: Island Times
+
+<figure><img width="1024" height="525" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Capture.png?fit=1024%2C525&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Capture.png?w=1323&amp;ssl=1 1323w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Capture.png?resize=300%2C154&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Capture.png?resize=1024%2C525&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Capture.png?resize=768%2C394&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Capture.png?resize=1200%2C615&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Capture.png?resize=400%2C205&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Capture.png?resize=706%2C362&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Capture.png?fit=1024%2C525&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72431" data-permalink="https://islandtimes.org/monsoon-trough-and-westerly-winds-set-to-bring-heavy-rainfall-and-strong-winds-to-palau/capture-15/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Capture.png?fit=1323%2C678&amp;ssl=1" data-orig-size="1323,678" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Capture" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Capture.png?fit=300%2C154&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Capture.png?fit=780%2C400&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By:&#160; Eustoria Maria Borja Koror, Palau – Westerly winds and a developing monsoon trough are expected to bring heavy rainfall, strong winds, and increased seas to Palau later this week. According to the National Weather Service in Guam, westerly winds are already increasing across the region, leading to patchy, scattered showers today. Increasing showers forming [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/monsoon-trough-and-westerly-winds-set-to-bring-heavy-rainfall-and-strong-winds-to-palau/">Monsoon Trough and Westerly Winds Set to Bring Heavy Rainfall and Strong Winds to Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/monsoon-trough-and-westerly-winds-set-to-bring-heavy-rainfall-and-strong-winds-to-palau/>
+
+---
+
+## What to watch for at the Harris-Trump presidential debate
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Democrat Kamala Harris and Republican Donald Trump will battle each other on Tuesday in their first televised debate, a high-stakes clash that could give the winner an advantage in the final sprint to Election Day.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/nation-world-news/what-to-watch-for-at-the-harris-trump-presidential-debate/>
+
+---
+
+## Draft EA addresses wastewater treatment project for Naalehu
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>A long-awaited, federally mandated wastewater treatment plant with sewer collection for Naalehu took a step forward with the publication Sunday of a draft environmental assessment.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/hawaii-news/draft-ea-addresses-wastewater-treatment-project-for-naalehu/>
+
+---
+
+## NOAA ship ‘has a special mission’: Reporters get closer look at Okeanos Explorer
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>A vessel dedicated to exploring the unknown parts of the ocean is docked this week at the Port of Hilo for the first time as the crew and scientists prepare for the next part of their expedition.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/hawaii-news/noaa-ship-has-a-special-mission-reporters-get-closer-look-at-okeanos-explorer/>
+
+---
+
+## Former Hawaii Island man sentenced in cyberstalking case
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8212; A former Big Island man was sentenced Monday to 97 months in prison followed by three years of supervised release for cyberstalking and obstruction of justice offenses committed in Hawaii County.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/hawaii-news/former-hawaii-island-man-sentenced-in-cyberstalking-case-2/>
+
+---
+
+## BIIF football: Kona, KSH and Kea‘au remain unbeaten in conference
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; No. 12 Konawaena football remained undefeated in Big Island Interscholastic Federation (BIIF) play after Saturday night&#8217;s 35-0 shutout win over Hilo at Wong Stadium.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/sports/biif-football-kona-ksh-and-keaau-remain-unbeaten-in-conference/>
+
+---
+
+## Backup RB, 49ers dump Jets, ruin Aaron Rodgers’ return
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>Jordan Mason rushed for a career-best 147 yards and scored a touchdown to help the San Francisco 49ers beat the New York Jets 32-19 and spoil Aaron Rodgers&#8217; return on Monday night at Santa Clara, Calif.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/sports/backup-rb-49ers-dump-jets-ruin-aaron-rodgers-return/>
+
+---
+
+## MLB roundup: Red Sox go back-to-back twice
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>Rob Refsnyder and Tyler O&#8217;Neill hit back-to-back home runs in the third inning and did the same in the eighth inning to help the Boston Red Sox defeat the visiting Baltimore Orioles 12-3 on Monday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/sports/mlb-roundup-red-sox-go-back-to-back-twice/>
+
+---
+
+## Video shows police confrontation with Tyreek Hill escalating quickly
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>MIAMI &#8212; A traffic stop that led to Tyreek Hill, a wide receiver for the Miami Dolphins, being handcuffed outside the team&#8217;s stadium on Sunday escalated quickly after a police officer knocked on the player&#8217;s car window and he objected, body camera footage of the incident shows.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/sports/video-shows-police-confrontation-with-tyreek-hill-escalating-quickly/>
+
+---
+
+## Wildfire erupts in Orange County, forcing evacuations
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>A brush fire that erupted Monday afternoon in the hills of Orange County in Southern California exploded to nearly 2,000 acres within a few hours, prompting evacuation orders for nearby communities as the blaze burned uncontrolled.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/nation-world-news/wildfire-erupts-in-orange-county-forcing-evacuations/>
+
+---
+
+## Venezuela’s presidential contender flees, and hopes for democracy dim
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>BOGOTA, Colombia &#8212; The news that Edmundo Gonz&#225;lez, Venezuela&#8217;s opposition candidate, had fled the country on a Spanish air force plane this weekend took the country, and the world, by surprise.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/nation-world-news/venezuelas-presidential-contender-flees-and-hopes-for-democracy-dim/>
+
+---
+
+## Trojan condoms contain ‘forever chemicals,’ lawsuit claims
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK (Reuters) &#8212; A new lawsuit on Monday claims that Trojan condoms are not safe because they contain toxic &#8220;forever chemicals,&#8221; which have been linked to cancer.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/nation-world-news/trojan-condoms-contain-forever-chemicals-lawsuit-claims/>
+
+---
+
+## James Earl Jones, renowned actor and voice of Darth Vader, dies at 93
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; American actor James Earl Jones, an imposing stage and screen presence who overcame a childhood stutter to develop a stentorian voice recognized the world over as intergalactic villain Darth Vader, died on Monday at the age of 93.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/nation-world-news/james-earl-jones-renowned-actor-and-voice-of-darth-vader-dies-at-93/>
+
+---
+
+## Apple debuts iPhone 16 with test AI software rolling out this year and next
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>CUPERTINO, Calif. &#8212; Apple on Monday unveiled its long-awaited, artificial intelligence-boosted iPhone 16 and promised improvements in its Siri personal assistant as it rolled out new software, beginning in test mode next month.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/nation-world-news/apple-debuts-iphone-16-with-test-ai-software-rolling-out-this-year-and-next/>
+
+---
+
+## Obituaries for September 10
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>Julio &#8220;Johnny&#8221; Lucas Carlos, 95, of Pahoa died Aug. 5 at home. Born in Laoag City, Ilocos Norte, Philippines, he was a retired farmer for Puna Flowers &#38;Foliage, laborer for the former Puna Sugar Co., landscaper and maintenance worker. Visitation 9-10 a.m. Friday (Sept. 20) at Dodo Mortuary Chapel. Funeral service at 10 a.m. Burial to follow at Homelani Memorial Park, Lehua Section. Casual attire. Survived by children, Robert (Agnes) Carlos of Waimea, Mila Becker of Virginia, Rose (Alan) Takahata of Nevada, Remey (Charles) De Leon of California, Ronella (Gregory) Bidad of Pahoa and Rebecca (Gilbert) Javier of Nevada; daughter-in-law, Zenaida Carlos of Waikoloa; brother, Melecio Carlos, Sr. of Kailua-Kona; 13 grandchildren. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/obituaries/obituaries-for-september-10-9/>
+
+---
+
+## Russia focusing on American social media stars to covertly influence voters
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>Russia is increasingly turning to American social media stars to covertly influence voters ahead of the 2024 presidential election, according to U.S. officials and recently unveiled criminal charges.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/nation-world-news/russia-focusing-on-american-social-media-stars-to-covertly-influence-voters/>
+
+---
+
+## Your Views for September 10
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>Vote for &#0010;democracy, not &#8216;lies and lunacy&#8217;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/opinion/your-views-for-september-10-7/>
+
+---
+
+## Mass shootings are a result of the GOP’s moral collapse
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>In theory, school shootings are tragic.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/opinion/mass-shootings-are-a-result-of-the-gops-moral-collapse/>
+
+---
+
+## Kamala Harris momentum slows as economy, immigration drag her down
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>Kamala Harris&#8217; post-convention momentum appears to have died as new polls show a tight race in key battleground states, with Harris&#8217; weakness on the economy and immigration dragging her down.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/opinion/kamala-harris-momentum-slows-as-economy-immigration-drag-her-down/>
+
+---
+
+## Hostile meddling: Russia and Iran want a vote in our election
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>Foreign governments trying to tip the scales of American elections is nothing new, but the brazenness with which Russia and Iran are meddling in the 2024 presidential election is notable.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/opinion/hostile-meddling-russia-and-iran-want-a-vote-in-our-election/>
+
+---
+
+## The sudden death of the Gaudreau brothers
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>On the narrow shoulder of County Route 551, a two-lane road in the heart of rural Salem County, New Jersey, a memorial appears suddenly among the fields of corn and soybeans. Bunched together are bouquets of flowers, miniature flags and dozens of hockey sticks: an incongruous signpost to a tragedy that shattered two extended families and left a community bereft.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/sports/the-sudden-death-of-the-gaudreau-brothers/>
+
+---
+
+## Carlos Correa ‘very encouraged’ by recent progress, hints return to field could come soon
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>MINNEAPOLIS &#8212; Carlos Correa nearly jumped out of his shoes Monday afternoon to provide the most positive update he&#8217;s offered about his plantar fasciitis in two months.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/sports/carlos-correa-very-encouraged-by-recent-progress-hints-return-to-field-could-come-soon/>
+
+---
+
+## Let’s Talk Food: Popping corn
+
+date: 2024-09-10, from: Hawaii Tribune Harold
+
+
+				<p>It is believed the first use of wild and early cultivated corn was used for popping.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/10/features/lets-talk-food-popping-corn/>
+
+---
+
+## Two Women Law Enforcement Officers Charged with Drug Trafficking
+
+date: 2024-09-10, from: Island Times
+
+<figure><img width="1024" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?fit=1024%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?resize=1536%2C1536&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?resize=2048%2C2048&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?resize=1200%2C1200&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?resize=1568%2C1568&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?resize=2000%2C2000&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?fit=1024%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72429" data-permalink="https://islandtimes.org/two-women-law-enforcement-officers-charged-with-drug-trafficking/20240910_014042/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?fit=2560%2C2560&amp;ssl=1" data-orig-size="2560,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20240910_014042" data-image-description="" data-image-caption="&lt;p&gt;Dearlyn Rebluud and Loretta Dilbodel Leeroy. &lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/20240910_014042-scaled.jpg?fit=780%2C780&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Two women in law enforcement have been charged with conspiracy to import methamphetamine into Palau, according to court records. Loretta Dilbodel Leeroy, a police officer with the Division of Patrol at the Bureau of Public Safety, was allegedly caught with 88 grams of methamphetamine inside her body upon arriving from Guam on Sept. 2, 2024, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/two-women-law-enforcement-officers-charged-with-drug-trafficking/">Two Women Law Enforcement Officers Charged with Drug Trafficking</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/two-women-law-enforcement-officers-charged-with-drug-trafficking/>
+
+---
+
+## Angaur State Holds Primary Election Amid Concerns Over Voter Turnout and Environmental Controversies
+
+date: 2024-09-10, from: Island Times
+
+<p>By: Eustoria Marie Borja Republic of Palau — Angaur State is holding its primary election for governor today September 10, 2024, with three candidates—Natus Misech, Steven Salii, and Warren Fukuichi—competing for the top position. This primary will determine which candidates advance to the 22nd General Election on November 5, 2024. The election is taking place [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/angaur-state-holds-primary-election-amid-concerns-over-voter-turnout-and-environmental-controversies/">Angaur State Holds Primary Election Amid Concerns Over Voter Turnout and Environmental Controversies</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/angaur-state-holds-primary-election-amid-concerns-over-voter-turnout-and-environmental-controversies/>
+
+---
+
+## U.S. Marines and Sailors Commemorate 80th Anniversary of Battle of Peleliu in Koa Moana 2024
+
+date: 2024-09-10, from: Island Times
+
+<figure><img width="1000" height="667" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-1.jpg?fit=1000%2C667&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-1.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-1.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-1.jpg?fit=1000%2C667&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72426" data-permalink="https://islandtimes.org/u-s-marines-and-sailors-commemorate-80th-anniversary-of-battle-of-peleliu-in-koa-moana-2024/untitled-1-96/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-1.jpg?fit=1000%2C667&amp;ssl=1" data-orig-size="1000,667" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Untitled-1" data-image-description="" data-image-caption="&lt;p&gt;PELELIU, PALAU &#8211; 06.30.2024&lt;br /&gt;
+Photo by Cpl. Brandon Marrero (1st Marine Logistics Group)&lt;br /&gt;
+U.S. Marines with Combat Logistics Battalion 13, Combat Logistics Regiment 17, 1st Marine Logistics Group, execute the deconstruction phase of the Peleliu Civic Center restoration project on Peleliu, Republic of Palau, July 1, 2024, an effort c to commemorate the 80th anniversary of the Battle of Peleliu. Koa Moana’s deployment throughout the Indo-Pacific region, U.S. Marines and Sailors from I Marine Expeditionary Force, work to strengthen alliances and partnerships with development of interoperable capabilities, combined operations, theater security cooperation, and capacity-building efforts. Exercises like Koa Moana administer 1st MLG to tackle complex challenges by fostering collaboration among bold thinkers and employing creative methods to optimize prepositioning, enhance sustainment and distribution networks, and bolster readiness in distributed environments such as Palau, the Federated States of Micronesia, and Papua New Guinea. (U.S. Marine Corps photo by Cpl. Brandon Marrero)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-1.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Untitled-1.jpg?fit=780%2C520&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Koror, Palau — Koa Moana 2024, a military exercise involving 150 to 160 U.S. Marines and sailors, aimed at strengthening ties with Pacific Island nations, covered more than 1,700 miles across Palau, the Federated States of Micronesia, and Papua New Guinea. The exercise focused on community relations, civic engagement, and minor construction projects. One of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-marines-and-sailors-commemorate-80th-anniversary-of-battle-of-peleliu-in-koa-moana-2024/">U.S. Marines and Sailors Commemorate 80th Anniversary of Battle of Peleliu in Koa Moana 2024</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/u-s-marines-and-sailors-commemorate-80th-anniversary-of-battle-of-peleliu-in-koa-moana-2024/>
+
+---
+
+## Japanese Professors Conduct Science Shows in Palauan Schools
+
+date: 2024-09-10, from: Island Times
+
+<p>By: Eustoria Maria Borja In celebration of 30 years of diplomatic relations between Japan and Palau, Japanese professors visited local schools to inspire students with interactive science demonstrations. On September 4 and 5, 2024, Associate Professor Ryoji Fukuoka from Osaka Seikei University and Associate Professor Masayo Akazawa from Bukkyo University led the presentations at Belau [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japanese-professors-conduct-science-shows-in-palauan-schools/">Japanese Professors Conduct Science Shows in Palauan Schools</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/japanese-professors-conduct-science-shows-in-palauan-schools/>
+
+---
+
+## A Significant Step of Taiwan “Allies Prosperity” Project Investment Strength and Action: The First Visit of the Asian Taiwanese Chamber of Commerce to Palau
+
+date: 2024-09-10, from: Island Times
+
+<figure><img width="1024" height="605" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/asian-commerce.jpg?fit=1024%2C605&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/asian-commerce.jpg?w=1526&amp;ssl=1 1526w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/asian-commerce.jpg?resize=300%2C177&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/asian-commerce.jpg?resize=1024%2C605&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/asian-commerce.jpg?resize=768%2C453&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/asian-commerce.jpg?resize=1200%2C709&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/asian-commerce.jpg?resize=400%2C236&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/asian-commerce.jpg?resize=706%2C417&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/asian-commerce.jpg?fit=1024%2C605&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72416" data-permalink="https://islandtimes.org/a-significant-step-of-taiwan-allies-prosperity-project-investment-strength-and-action-the-first-visit-of-the-asian-taiwanese-chamber-of-commerce-to-palau/asian-commerce/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/asian-commerce.jpg?fit=1526%2C901&amp;ssl=1" data-orig-size="1526,901" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="asian commerce" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/asian-commerce.jpg?fit=300%2C177&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/asian-commerce.jpg?fit=780%2C461&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>In response to the “Diplomatic Allies Prosperity” project and the concept of “Comprehensive Diplomatic Strategy “proposed by ROC (Taiwan) Foreign Minister Lin Chia-lung, an investment delegation from the Asian Chamber of Commerce, led by the President of the World Taiwanese Chambers of Commerce, Lee Tian-chi, and the President of the Asian Chamber of Commerce, Lin [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/a-significant-step-of-taiwan-allies-prosperity-project-investment-strength-and-action-the-first-visit-of-the-asian-taiwanese-chamber-of-commerce-to-palau/">A Significant Step of Taiwan “Allies Prosperity” Project Investment Strength and Action: The First Visit of the Asian Taiwanese Chamber of Commerce to Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/a-significant-step-of-taiwan-allies-prosperity-project-investment-strength-and-action-the-first-visit-of-the-asian-taiwanese-chamber-of-commerce-to-palau/>
+
+---
+
+## Fostering Blue Prosperity Through Educational Exchange: Strengthening Japan-Palau Ties
+
+date: 2024-09-10, from: Island Times
+
+<p>On September 3, 24 students and 3 faculty members from Kagoshima University arrived in Koror, Palau, aboard the university’s training vessel Kagoshima Maru. The following day, they visited key marine facilities, starting with the Palau Marine Aquaculture Demonstration Center (PMDC), where they learned about the cultivation of giant clams. At Belau Offshore Fishers Inc. (BOFI), [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/fostering-blue-prosperity-through-educational-exchange-strengthening-japan-palau-ties/">Fostering Blue Prosperity Through Educational Exchange: Strengthening Japan-Palau Ties</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/fostering-blue-prosperity-through-educational-exchange-strengthening-japan-palau-ties/>
+
+---
+
+## Coral Biologist, Cinzia Alessi joins PICRC as Aquarium Researcher
+
+date: 2024-09-10, from: Island Times
+
+<figure><img width="600" height="824" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR_Photo-1-1.jpg?fit=600%2C824&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR_Photo-1-1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR_Photo-1-1.jpg?resize=218%2C300&amp;ssl=1 218w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR_Photo-1-1.jpg?resize=400%2C549&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR_Photo-1-1.jpg?fit=600%2C824&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72412" data-permalink="https://islandtimes.org/coral-biologist-cinzia-alessi-joins-picrc-as-aquarium-researcher/pr_photo-1-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR_Photo-1-1.jpg?fit=600%2C824&amp;ssl=1" data-orig-size="600,824" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PR_Photo 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR_Photo-1-1.jpg?fit=218%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR_Photo-1-1.jpg?fit=600%2C824&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>The Palau International Coral Reef Center (PICRC) is pleased&#160;to welcome Cinzia Alessi as an Aquarium Researcher, under the supervision of Aquarium Supervisor, Asap Bukurrou. &#160; After finishing her undergraduate degree in marine biology and master’s in marine ecology at the University of Palermo, Cinzia&#160;obtained&#160;her&#160;PhD in population biology and ecology at the Pacific Doctoral School, University [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/coral-biologist-cinzia-alessi-joins-picrc-as-aquarium-researcher/">Coral Biologist, Cinzia Alessi joins PICRC as Aquarium Researcher</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/coral-biologist-cinzia-alessi-joins-picrc-as-aquarium-researcher/>
+
+---
+
+## Slowly goes the Forum leaders’ agenda
+
+date: 2024-09-10, from: Island Times
+
+<figure><img width="400" height="403" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/review-icon-png-23.png?fit=400%2C403&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/review-icon-png-23.png?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/review-icon-png-23.png?resize=298%2C300&amp;ssl=1 298w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/review-icon-png-23.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/review-icon-png-23.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/review-icon-png-23.png?fit=400%2C403&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72410" data-permalink="https://islandtimes.org/slowly-goes-the-forum-leaders-agenda/review-icon-png-23-10/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/review-icon-png-23.png?fit=400%2C403&amp;ssl=1" data-orig-size="400,403" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="review-icon-png-23" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/review-icon-png-23.png?fit=298%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/review-icon-png-23.png?fit=400%2C403&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By Tess Newton Cain NUKU’ALOFA/BRISBANE, 09 SEPTEMBER 2024 (DEVPOLICY.ORG) &#8212;Between the earthquake at the beginning and the communiqué kerfuffle at the end, the 53rd Pacific Islands Forum Leaders Meeting (PIFLM) ran smoothly enough and presented as a largely harmonious affair. It was one of the biggest, with over 1,000 delegates, activists, observers, and journalists travelling [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/slowly-goes-the-forum-leaders-agenda/">Slowly goes the Forum leaders’ agenda</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/slowly-goes-the-forum-leaders-agenda/>
+
+---
+
+## CLEANING HOUSE
+
+date: 2024-09-10, from: Island Times
+
+<figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72408" data-permalink="https://islandtimes.org/cleaning-house/wc1-17/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?fit=524%2C522&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>An old friend said to me, &#8220;Jesus is the answer.&#8221; I replied, &#8220;What is the question?&#8221; No response. I decided to find the question. The way to begin to get free of this debris, to remove these limits you’ve unknowingly placed on Jesus, is first to name what the problem is. Where are you having [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/cleaning-house/">CLEANING HOUSE</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/cleaning-house/>
+
+---
+
+## Kamala Harris could win the popular vote by millions — but still be caught short in the states that count
+
+date: 2024-09-10, from: Island Times
+
+<p>By&#160;Michael Rowland (ABC-Australia) It has been a dream start to Kamala Harris&#8217;s bid for the White House. The party&#8217;s convention was a raging success, crowds are packing into her campaign rallies and the Democratic presidential nominee is now pulling ahead of Donald Trump in several national opinion polls. With two months until the election, her [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/kamala-harris-could-win-the-popular-vote-by-millions-but-still-be-caught-short-in-the-states-that-count/">Kamala Harris could win the popular vote by millions — but still be caught short in the states that count</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/kamala-harris-could-win-the-popular-vote-by-millions-but-still-be-caught-short-in-the-states-that-count/>
+
+---
+
+## Super Typhoon Yagi kills at least 21 people in Vietnam as officials warn of ongoing flooding risk
+
+date: 2024-09-10, from: Island Times
+
+<p>In short: (ABC-Australia) At least 21 people have been killed and 229 others injured after Typhoon Yagi hit Vietnam. The typhoon caused significant damage to homes, property and some agricultural land. What&#8217;s next? Clean-up efforts are ongoing, with officials warning of significant rainfall. At least 21 people have died and 229 others injured in Vietnam [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/super-typhoon-yagi-kills-at-least-21-people-in-vietnam-as-officials-warn-of-ongoing-flooding-risk/">Super Typhoon Yagi kills at least 21 people in Vietnam as officials warn of ongoing flooding risk</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/super-typhoon-yagi-kills-at-least-21-people-in-vietnam-as-officials-warn-of-ongoing-flooding-risk/>
+
+---
+
+## Pacific Island nations hope to lure China’s tourists with a promise of ‘purity’ as travellers return to the skies
+
+date: 2024-09-10, from: Island Times
+
+<p>KOROR, 09 SEPTEMBER 2024 (ABC PACIFIC) &#8212; At his hotel in Palau, Pai Lee has long hosted tourists on their way to the country&#8217;s jellyfish lake and white sand beaches. But fewer are visiting from Asia, including China — an unwelcome trend as the Palau Hotel faces higher costs after the pandemic. “It&#8217;s hard for [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-island-nations-hope-to-lure-chinas-tourists-with-a-promise-of-purity-as-travellers-return-to-the-skies/">Pacific Island nations hope to lure China&#8217;s tourists with a promise of &#8216;purity&#8217; as travellers return to the skies</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/pacific-island-nations-hope-to-lure-chinas-tourists-with-a-promise-of-purity-as-travellers-return-to-the-skies/>
+
+---
+
+## GEF approves first funding related to BBNJ Agreement
+
+date: 2024-09-10, from: Island Times
+
+<p>WASHINGTON, 09 SEPTEMBER 2024 (GEF)&#8212;The Global Environment Facility (GEF) has approved the first funding related to the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement, an important milestone for ensuring the health and resilience of more than two-thirds of the world’s ocean ecosystems.&#160; The US$700,000 approved by GEF CEO Carlos Manuel Rodríguez will support efforts in the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/gef-approves-first-funding-related-to-bbnj-agreement/">GEF approves first funding related to BBNJ Agreement</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/gef-approves-first-funding-related-to-bbnj-agreement/>
+
+---
+
+## ICJ to start hearing submissions on climate case before Christmas
+
+date: 2024-09-10, from: Island Times
+
+<p>PORT VILA, 06 SEPTEMBER 2024 (RNZ PACIFIC) &#8212; The International Court of Justice (ICJ) will start hearing submissions in a case brought by Vanuatu on the responsibility of States on climate change in December. On 29 March 2023, the UN General Assembly adopted a resolution to ask the ICJ to issue an advisory opinion on [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/icj-to-start-hearing-submissions-on-climate-case-before-christmas/">ICJ to start hearing submissions on climate case before Christmas</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/icj-to-start-hearing-submissions-on-climate-case-before-christmas/>
+
+---
+
+## UH scientists hunt for antimatter in space
+
+date: 2024-09-10, from: University of Hawaiʻi News
+
+<p>This research aims to solve this cosmic riddle and potentially reshape our understanding of the universe’s fundamental makeup.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/09/scientists-hunt-antimatter-in-space/"><abbr>UH</abbr> scientists hunt for antimatter in space</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/09/scientists-hunt-antimatter-in-space/>
+
+---
+
+## Hamilton Library introduces digital badge to boost research, citation skills
+
+date: 2024-09-10, from: University of Hawaiʻi News
+
+<p>The badge will help students and faculty enhance their research and citation management skills.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/09/hamilton-zotero-basics-badge/">Hamilton Library introduces digital badge to boost research, citation skills</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/09/hamilton-zotero-basics-badge/>
+
+---
+
+## STATE HOUSE DISTRICT 20 AND STATE HOUSE DISTRICT 29
+
+date: 2024-09-10, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Opposing candidates for two separate seats with no incumbent in the State House of Representatives will face off in live forums...</p>
+<p>The post <a href="https://www.pbshawaii.org/state-house-district-20-and-state-house-district-29/">STATE HOUSE DISTRICT 20 AND STATE HOUSE DISTRICT 29</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/state-house-district-20-and-state-house-district-29/>
+
+---
+
+## Grant renewal aims to boost Hawaiʻi heart research
+
+date: 2024-09-09, from: University of Hawaiʻi News
+
+<p>The grant supports postdoctoral researchers and graduate students in the Center for Cardiovascular Research.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/09/grant-renewal-for-health-health/">Grant renewal aims to boost Hawaiʻi heart research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/09/grant-renewal-for-health-health/>
 
 ---
 
@@ -208,6 +733,18 @@ date: 2024-09-09, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/09/09/nation-world-news/russia-takes-ukrainian-town-in-advance-on-pokrovsk/>
+
+---
+
+## Former Hawaii Island man sentenced in cyberstalking case
+
+date: 2024-09-09, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8211; A former Big Island man was sentenced Monday to 97 months in prison followed by three years of supervised release for cyberstalking and obstruction of justice offenses committed in Hawaii County.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/09/hawaii-news/former-hawaii-island-man-sentenced-in-cyberstalking-case/>
 
 ---
 
