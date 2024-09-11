@@ -1,11 +1,31 @@
 ---
 title: retro computing
-updated: 2024-09-10 08:28:31
+updated: 2024-09-11 08:17:22
 ---
 
 # retro computing
 
-(date: 2024-09-10 08:28:31)
+(date: 2024-09-11 08:17:22)
+
+---
+
+## New KDE Slimbook Plasma Available for Preorder
+
+date: 2024-09-10, from: Linux Magazine
+
+<p>Powered by an AMD Ryzen CPU, the latest KDE Slimbook laptop is powerful enough for local AI tasks.</p> 
+
+<http://www.linux-magazine.com/Online/News/New-KDE-Slimbook-Plasma-Available-for-Preorder>
+
+---
+
+## UNIX Review Magazine Interviews Larry Tesler
+
+date: 2024-09-10, from: Computer ads from the Past
+
+They discuss Tesler's involvement with Xerox, Apple and office automation with Unix. 
+
+<https://computeradsfromthepast.substack.com/p/unix-review-magazine-interviews-larry>
 
 ---
 

@@ -1,11 +1,258 @@
 ---
 title: socal north
-updated: 2024-09-10 08:28:22
+updated: 2024-09-11 08:17:13
 ---
 
 # socal north
 
-(date: 2024-09-10 08:28:22)
+(date: 2024-09-11 08:17:13)
+
+---
+
+## Pierce College Council talks enrollment, safety
+
+date: 2024-09-11, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Although student enrollment numbers have not rebounded to pre-pandemic levels, the Pierce College Council revealed increased Summer and Fall 2024 enrollment data at an Aug.</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/11/pierce-college-council-talks-enrollment-safety/">Pierce College Council talks enrollment, safety</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/11/pierce-college-council-talks-enrollment-safety/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-college-council-talks-enrollment-safety>
+
+---
+
+## How George Gascón went from cop to one of the most progressive DAs in the country
+
+date: 2024-09-11, updated: 2024-09-11, from: The LAist
+
+In episode two of Imperfect Paradise: District Attorney Gascón we hear from the D.A. about his transformation to progressive prosecutor and from one of his frontline lawyers about their concerns. 
+
+<https://laist.com/news/shows/imperfectparadise/how-george-gascon-went-from-cop-to-one-of-the-most-progressive-das-in-the-country>
+
+---
+
+## Pro: More Friday classes would give students room to breathe
+
+date: 2024-09-11, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Including more class availability at Pierce College on Fridays would not only offer students more flexibility within their hectic schedules, but an extra day of</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/11/pro-more-friday-classes-would-give-students-room-to-breathe/">Pro: More Friday classes would give students room to breathe</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/11/pro-more-friday-classes-would-give-students-room-to-breathe/?utm_source=rss&utm_medium=rss&utm_campaign=pro-more-friday-classes-would-give-students-room-to-breathe>
+
+---
+
+## Analysis: The debate between Harris and Trump wasn’t close — and 4 other takeaways
+
+date: 2024-09-11, updated: 2024-09-11, from: The LAist
+
+Tuesday’s debate between the current vice president and former president was a clear contrast from the June debate that forced President Biden from the race. 
+
+<https://laist.com/news/politics/analysis-the-debate-between-harris-and-trump-wasnt-close-and-4-other-takeaways>
+
+---
+
+## Con: Longer weekends, not Friday classes, would improve students’ health
+
+date: 2024-09-11, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Proposals to extend the weekend to include Friday offer significant benefits, especially in terms of mental health and productivity. Pierce College should change scheduling to</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/11/con-longer-weekends-not-friday-classes-would-improve-students-health/">Con: Longer weekends, not Friday classes, would improve students’ health</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/11/con-longer-weekends-not-friday-classes-would-improve-students-health/?utm_source=rss&utm_medium=rss&utm_campaign=con-longer-weekends-not-friday-classes-would-improve-students-health>
+
+---
+
+## Reform bills inspired by LAist investigation are before Newsom for final approval
+
+date: 2024-09-11, updated: 2024-09-11, from: The LAist
+
+The proposed ethics and transparency reforms are in response to LAist’s investigation of millions of unaccounted for tax dollars directed by O.C. Supervisor Andrew Do to a group his daughter was helping lead. 
+
+<https://laist.com/news/politics/reform-bills-laist-investigation-andrew-do-viet-america-society>
+
+---
+
+## I went gleaning for fruit to try and reduce my carbon footprint. Was it enough?
+
+date: 2024-09-11, updated: 2024-09-11, from: The LAist
+
+Grocery stores are filled with foods that are produced in ways that contribute to global heating, but you could get off that cycle with the free fruit trees across Southern California. 
+
+<https://laist.com/news/climate-environment/la-foraging-gleaning-carbon-footprint-emissions-falling-fruit>
+
+---
+
+## Classifieds – September 11, 2024
+
+date: 2024-09-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/11/classifieds-september-11-2024/">Classifieds &#8211; September 11, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/11/classifieds-september-11-2024/>
+
+---
+
+## My (pre-recorded) celebrity crush
+
+date: 2024-09-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Prada’s new artificial intelligence-driven campaign questions the role of preprogrammed interactions in fashion and in everyday life.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/11/my-pre-recorded-celebrity-crush/">My (pre-recorded) celebrity crush</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/11/my-pre-recorded-celebrity-crush/>
+
+---
+
+## Soccer gets set to make Big Ten debut
+
+date: 2024-09-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans will head up the coast to Washington to face a familiar foe in the Huskies.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/11/soccer-gets-set-to-make-big-ten-debut/">Soccer gets set to make Big Ten debut</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/11/soccer-gets-set-to-make-big-ten-debut/>
+
+---
+
+## Calling Latines the ‘Hispanic vote’ takes away diversity
+
+date: 2024-09-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Labeling the entire Latine community in politics loses meaning without clarity.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/11/calling-latines-the-hispanic-vote-takes-away-diversity/">Calling Latines the ‘Hispanic vote’ takes away diversity</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/11/calling-latines-the-hispanic-vote-takes-away-diversity/>
+
+---
+
+## USG approves mural display at Cafe Dulce
+
+date: 2024-09-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Senate bill 144-05 will fund creation of a South Central Los Angeles inspired mural. </p>
+<p>The post <a href="https://dailytrojan.com/2024/09/11/usg-approves-mural-display-at-cafe-dulce/">USG approves mural display at Cafe Dulce </a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/11/usg-approves-mural-display-at-cafe-dulce/>
+
+---
+
+## USC football’s schedule got a whole lot easier
+
+date: 2024-09-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Three future Trojan opponents put out poor showings this past weekend.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/11/usc-footballs-schedule-got-a-whole-lot-easier/">USC football’s schedule got a whole lot easier</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/11/usc-footballs-schedule-got-a-whole-lot-easier/>
+
+---
+
+## Los Angeles is continuing a legacy of criminalization
+
+date: 2024-09-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Despite the amount of new reforms, L.A. dehumanizes its unhoused communities.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/11/los-angeles-is-continuing-a-legacy-of-criminalization/">Los Angeles is continuing a legacy of criminalization</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/11/los-angeles-is-continuing-a-legacy-of-criminalization/>
+
+---
+
+## Imaging tool improves bacteria detection
+
+date: 2024-09-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Autofluorescence imaging can lead bacteria in wounds to glow visible red or cyan.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/11/imaging-tool-improves-bacteria-detection/">Imaging tool improves bacteria detection </a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/11/imaging-tool-improves-bacteria-detection/>
+
+---
+
+## Open Alpha levels up student game development
+
+date: 2024-09-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The creative campus club unites people to create a new game each semester.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/11/open-alpha-levels-up-student-game-development/">Open Alpha levels up student game development</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/11/open-alpha-levels-up-student-game-development/>
+
+---
+
+## Cheer on the UCLA Bruins at The Cube!
+
+date: 2024-09-10, from: City of Santa Clarita
+
+<p>U-C-L-A—fight, fight, fight! For the fourth year in a row, the UCLA Men’s Hockey Team returns to The Cube – Ice and Entertainment Center &#124; Powered by FivePoint Valencia! Bringing the Bruin spirit back to the ice, the City of Santa Clarita is proud that UCLA will call The Cube their home ice this year.&#160; [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/10/cheer-on-the-ucla-bruins-at-the-cube-2/">Cheer on the UCLA Bruins at The Cube!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/10/cheer-on-the-ucla-bruins-at-the-cube-2/>
+
+---
+
+## Q&A: BabyJake discusses influences behind album ‘Beautiful Blue Collar Boy’
+
+date: 2024-09-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+BabyJake is reconnecting with his roots to push his music forward.
+Perhaps best known for his viral 2019 single &#8220;Cigarettes On Patios,&#8221; the 27-year-old singer-songwriter spent this summer on tour with Hobo Johnson and will embark on his own tour beginning Oct. 
+
+<https://dailybruin.com/2024/09/10/qa-babyjake-discusses-influences-behind-album-beautiful-blue-collar-boy/>
+
+---
+
+## OC Supervisors remove Andrew Do from his board committee assignments
+
+date: 2024-09-10, updated: 2024-09-10, from: The LAist
+
+The move comes more than nine months after LAist first started reporting on issues with public funding he directed to a nonprofit where his daughter served in leadership roles. 
+
+<https://laist.com/news/politics/oc-supervisor-andrew-do-removed-from-his-committee-assignments>
+
+---
+
+## How schools keep kids cool as hot weather broils Southern California, and why they have class at all
+
+date: 2024-09-10, updated: 2024-09-11, from: The LAist
+
+Some districts reduce their hours as temperatures stay over 100 degrees. 
+
+<https://laist.com/news/education/record-heat-los-angeles-unified-minimum-days>
+
+---
+
+## California farmers turn to agave amid drought conditions and climate change
+
+date: 2024-09-10, updated: 2024-09-10, from: The LAist
+
+Farmers in California are trying to plant crops that don't require a lot of water. Some are turning to growing agave as a response to a warming state. 
+
+<https://laist.com/news/climate-environment/california-farmers-turn-to-agave-amid-drought-conditions-and-climate-change>
+
+---
+
+## This heatwave is drawing to an end as weather takes a turn for the better
+
+date: 2024-09-10, updated: 2024-09-10, from: The LAist
+
+We're looking at 10 degrees cooler across the Southland. 
+
+<https://laist.com/news/climate-environment/last-day-record-breaking-heatwave-warnings-come-to-an-end>
 
 ---
 
@@ -39,9 +286,19 @@ The ABC News presidential debate will be the first time Vice President Harris an
 
 ---
 
+## OC supervisors to vote on whether to remove Andrew Do from his committees
+
+date: 2024-09-10, updated: 2024-09-11, from: The LAist
+
+Board Chair Don Wagner moved for the vote as Supervisor Andrew Do faces escalating calls to resign in the wake of an FBI search and long-running LAist investigation. 
+
+<https://laist.com/news/politics/oc-supervisors-andrew-do-vote>
+
+---
+
 ## Much of the Colorado River’s water goes to feed cows. How changing your diet could help
 
-date: 2024-09-10, updated: 2024-09-10, from: The LAist
+date: 2024-09-10, updated: 2024-09-11, from: The LAist
 
 Nearly half the water drawn from the Colorado River goes to grow feed for beef and dairy cows. Researchers say modest changes in American diets could help the river — and the climate. 
 
@@ -56,16 +313,6 @@ date: 2024-09-10, updated: 2024-09-10, from: The LAist
 Bold cabernet sauvignon wines made Napa Valley famous. Now, hotter temperatures are starting to damage the grapes, so some wineries are starting to experiment. 
 
 <https://laist.com/news/climate-environment/can-the-most-popular-red-wine-in-the-us-endure-climate-change-in-napa-valley>
-
----
-
-## OC supervisors to vote on whether to remove Andrew Do from his committees
-
-date: 2024-09-10, updated: 2024-09-10, from: The LAist
-
-Board Chair Don Wagner moved for the vote as Supervisor Andrew Do faces escalating calls to resign in the wake of an FBI search and long-running LAist investigation. 
-
-<https://laist.com/news/politics/oc-supervisors-andrew-do-vote>
 
 ---
 
@@ -162,6 +409,16 @@ date: 2024-09-10, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/09/10/every-word-spoken-is-a-bullet-fired-for-freedom/>
+
+---
+
+## Treasure trove of marine fossils found under San Pedro high school
+
+date: 2024-09-09, updated: 2024-09-10, from: The LAist
+
+Teeth from the largest sharks to ever live, a sabertooth salmon, and nearly 9 million-year-old fish bones are among several tons of fossils excavated during recent construction at San Pedro High School. 
+
+<https://laist.com/news/education/san-pedro-high-school-fossils-discovered-los-angeles-unified-lausd>
 
 ---
 

@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2024-09-10 08:28:26
+updated: 2024-09-11 08:17:18
 ---
 
 # weather
 
-(date: 2024-09-10 08:28:26)
+(date: 2024-09-11 08:17:18)
 
 ---
 
 ## There are no tropical cyclones at this time.
 
-date: 2024-09-10, from: Eastern Pacific Basin GIS Data
+date: 2024-09-11, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Tue, 10 Sep 2024 15:21:41 GMT 
+No tropical cyclones as of Wed, 11 Sep 2024 15:04:20 GMT 
 
 <https://www.nhc.noaa.gov/gis/>
 
@@ -21,7 +21,7 @@ No tropical cyclones as of Tue, 10 Sep 2024 15:21:41 GMT
 
 ## NHC Atlantic Outlook
 
-date: 2024-09-10, from: Graphical Tropical Weather Outlooks
+date: 2024-09-11, from: Graphical Tropical Weather Outlooks
 
 
 <br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
@@ -30,102 +30,203 @@ date: 2024-09-10, from: Graphical Tropical Weather Outlooks
 <img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
 <br /><br />
 <div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Tue Sep 10 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Tropical <br>Storm Francine, located in the Gulf of Mexico about 100 miles <br>offshore of northeastern Mexico.<br><br>1. Central Tropical Atlantic (AL92): <br>An elongated area of low pressure located over the central tropical <br>Atlantic continues to produce some disorganized shower and <br>thunderstorm activity. Environmental conditions appear only <br>marginally conducive for some slight development during the next <br>couple of days, but a tropical depression could still form during <br>that time while the system moves westward at 5 to 10 mph over the <br>central tropical Atlantic.<br>* Formation chance through 48 hours...medium...40 percent. <br>* Formation chance through 7 days...medium...40 percent.<br><br />
-2. Eastern and Central Tropical Atlantic:<br>A trough of low pressure located several hundred miles southwest of <br>the Cabo Verde Islands is expected to interact and merge with a <br>strong tropical wave located between the west coast of Africa and <br>the Cabo Verde Islands over the next couple of days. Thereafter, <br>Environmental conditions appear favorable for gradual development of <br>this combined system, and a tropical depression will likely form <br>during the latter part of this week while the system moves <br>west-northwestward at 10 to 15 mph. <br>* Formation chance through 48 hours...low...30 percent.<br>* Formation chance through 7 days...high...70 percent.<br><br />
-<br>Forecaster Papin<br></div></div><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Special Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>945 AM EDT Wed Sep 11 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Special Outlook issued to update the system in the eastern Tropical <br>Atlantic west-southwest of the Cabo Verde Islands (AL93).<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Hurricane <br>Francine, located over the western Gulf of Mexico a couple hundred <br>miles off the coast of Louisiana. <br><br>1. Eastern and Central Tropical Atlantic (AL93):<br>Updated: Recent satellite-wind data indicates that the system <br>located a few hundred miles to the west-southwest of the Cabo Verde <br>Islands has developed a well-defined circulation. In addition, <br>showers and thunderstorms continue to show signs of organization, <br>and if these trends continue, advisories will be issued on a <br>tropical depression later this morning. The system is moving to the <br>west-northwest at 10 to 15 mph and will be moving into the central <br>Tropical Atlantic by the end of the week.<br>* Formation chance through 48 hours...high...90 percent.<br>* Formation chance through 7 days...high...90 percent.<br><br />
+2. Central Tropical Atlantic (AL92): <br>An elongated area of low pressure located over the central tropical <br>Atlantic continues to produce some disorganized shower and <br>thunderstorm activity.  Environmental conditions appear marginally <br>conducive for some slight development during the next day or two <br>while the system moves westward at 5 to 10 mph over the central <br>tropical Atlantic.  The disturbance is expected to reach an area of <br>stronger upper-level winds on Thursday, likely ending its chances <br>for development.<br>* Formation chance through 48 hours...low...30 percent. <br>* Formation chance through 7 days...low...30 percent.<br><br />
+3. East of the Leeward Islands (AL94):<br>A small but well-defined area of low pressure located several <br>hundred miles to the east of the Leeward Islands is producing an <br>area of disorganized showers and thunderstorms. The proximity of dry <br>air near the system is expected to limit additional development over <br>the next couple of days before environmental conditions become even <br>less conducive by this weekend as it moves slowly <br>west-northwestward. <br>* Formation chance through 48 hours...low...10 percent. <br>* Formation chance through 7 days...low...10 percent.<br><br />
+4. Offshore the Southeastern U.S. over the Western Atlantic:<br>In a few days, a non-tropical area of low pressure could form along <br>a residual frontal boundary a few hundred miles off the southeastern <br>U.S. coastline. Thereafter, some subtropical or tropical development <br>is possible during the early part of next week as the system <br>meanders over the Gulf Stream or drifts slowly northward.<br>* Formation chance through 48 hours...low...near 0 percent. <br>* Formation chance through 7 days...low...20 percent.<br><br />
+<br>Forecaster Papin/Blake<br></div></div><br />
  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
-## SPC - No watches are valid as of Tue Sep 10 13:38:02 UTC 2024
+## SPC - No watches are valid as of Wed Sep 11 13:48:01 UTC 2024
 
-date: 2024-09-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-09-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Sep 10 13:38:02 UTC 2024. 
+No watches are valid as of Wed Sep 11 13:48:01 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Tue Sep 10 13:38:02 UTC 2024
+## SPC MD 2051
 
-date: 2024-09-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-09-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Tue Sep 10 13:38:02 UTC 2024. 
+<br /><a href="https://www.spc.noaa.gov/products/md/md2051.html"><img src="https://www.spc.noaa.gov/products/md/mcd2051.png" border="1" alt="MD 2051 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
 
-<https://www.spc.noaa.gov/products/md/>
+Mesoscale Discussion 2051
+NWS Storm Prediction Center Norman OK
+0750 AM CDT Wed Sep 11 2024
+
+Areas affected...southeastern Louisiana coastal areas
+
+Concerning...Severe potential...Watch possible 
+
+Valid 111250Z - 111615Z
+
+Probability of Watch Issuance...60 percent
+
+SUMMARY...The risk for occasional tornadoes may begin to increase
+near southeastern Louisiana coastal areas by late morning (10
+AM-Noon).  Trends are being monitored for the possibility of a
+tornado watch.
+
+DISCUSSION...The center of Francine has been migrating across and
+northeast of the Gunnison Oil Platform vicinity of the northwestern
+Gulf of Mexico during the past hour or so, and is still roughly 170
+miles from its forecast south central Louisiana coastal landfall
+later today.  However, the leading edge of a broader convective
+precipitation shield preceding Francine is beginning to overspread
+coastal areas, accompanied by saturating thermodynamic profiles with
+lapse rates trending moist adiabatic in mid-levels.
+
+In the wake of this regime, and with the continued approach of
+Francine, model forecast soundings suggest that a subtle increase in
+boundary-layer temperatures and dew points may contribute to modest
+destabilization by midday along coastal areas from west of
+Boothville into the Vermilion Bay vicinity.  It appears that this
+will coincide with more notable strengthening of low-level wind
+fields, which are forecast to contribute to enlarging low-level
+hodographs increasingly supportive of convection with embedded
+low-level mesocyclones potentially capable of producing tornadoes.
+
+..Kerr/Edwards.. 09/11/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...LIX...LCH...
+
+LAT...LON   29459176 29519097 29258988 28839012 28759117 29189143
+            29459176 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md2051.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/md/md2051.html>
 
 ---
 
-## SPC Sep 10, 2024 1300 UTC Day 1 Convective Outlook
+## SPC Sep 11, 2024 1300 UTC Day 1 Convective Outlook
 
-date: 2024-09-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-09-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0743 AM CDT Tue Sep 10 2024
+0742 AM CDT Wed Sep 11 2024
 
-Valid 101300Z - 111200Z
+Valid 111300Z - 121200Z
 
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS OVER COASTAL
-AREAS OF LOUISIANA...
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS IN THE CENTRAL
+GULF COAST VICINITY...
 
 ...SUMMARY...
-Marginal tornado potential may reach coastal areas of Louisiana
-during the late overnight/early morning hours.
+Hurricane Francine poses a tornado threat today and tonight in the
+central Gulf Coast vicinity.
 
 ...Synopsis...
-In mid/upper levels, a strong shortwave trough now over the eastern
-Gulf of Alaska is forecast to dig southeastward and develop a closed
-500-mb cyclone tonight, with the low about 150 nm west of AST by 12Z
-tomorrow.  Ahead of this progressive and intensifying perturbation, 
-height falls and strengthening cyclonic flow will spread across the
-northwestern CONUS throughout the period, combining with modest low/
-middle-level moisture to support thunderstorm potential in parts of
-the Northwest, in addition to the diurnal-cycle convection across
-the Four Corners region, central/northern Rockies and parts of MT.
+The midlatitude westerly belt will amplify somewhat in mid/upper
+levels, related somewhat to general height rises over the mid/upper
+Mississippi Valley, Great Lakes and Northeast.  However, the main
+influence will be troughing related to a cyclone now closing off,
+just offshore from the Pacific Northwest Coast.  The trough will
+move inland today and cross the interior Northwest, reaching an axis
+from southern BC across eastern parts of WA/OR to the Sierra south
+of RNO by 00Z.  By 12Z, the trough should extend from the
+southernmost Canadian Rockies, across westernmost MT, through a
+500-mb low over eastern ID, to near LAS, with associated cyclonic
+flow covering most of the CONUS west of 100W and north of 35N.
 
-Downstream, mid/upper flow should be nearly zonal from the Rockies
-across the Great Lakes.  An embedded shortwave trough was evident in
-moisture-channel imagery over the Dakotas.  This feature is forecast
-to move eastward to MN by 00Z, then across the Upper Great Lakes to
-Lake Huron and adjoining parts of ON by 12Z.  Farther south, a weak,
-cut-off, mid/upper-level low over north-central TX should drift
-erratically near its present location, while increasingly
-influencing the path of Tropical Storm Francine. 
+Farther southeast, moisture-channel imagery indicates that a weak,
+cut-off, 500-mb low analyzed last night at 00Z over north-central TX
+has moved little since.  However, the low is expected to drift/
+redevelop northeastward through the period, reaching southeastern OK
+by 12Z tomorrow.  In response, and as forecast by NHC, Hurricane
+Francine should move inland tonight across southeastern LA, and into
+southwestern MS before daybreak tomorrow.
 
-The 11Z surface analysis showed a wavy, quasistationary frontal zone
-fro Atlantic waters offshore SC, across northern FL to near the
-Mississippi River mouth, then a warm front arching across Gulf
-waters just south of the LA and TX Coasts, and into western parts of
-the Francine circulation.  This boundary should move little from
-about 90W eastward, but remain a warm front over the upper TX and LA
-coastal waters, diffusely shifting inland over southern LA through
-the period. 
+At the surface, 11Z analysis showed a quasistationary front from
+northern FL across the shelf waters of the FL Panhandle/AL/MS,
+becoming a diffuse warm front over the Mississippi River mouth and
+southern Terrebonne Parish, then just offshore again around the
+northern/northwestern rim of Francine's circulation.  This boundary
+should move slowly northward/inland over the north-central Gulf
+Coast through the period, with the decaying center of Francine
+likely catching the front inland tonight.  Elsewhere, a lee trough,
+with several weak lows attached, was drawn over eastern portions of
+MT/WY/CO, and should strengthen today amidst peripheral mass
+response to the major mid/upper trough moving into the northwestern
+CONUS.
 
-...LA Coast...
-T.S. Francine -- initially centered southeast of BRO -- is forecast
-by NHC to turn northeastward across the northwestern Gulf today and
-become a hurricane, then move ashore in Louisiana on day 2. 
-Suitably rich low-level moisture already is in place over coastal
-LA, and scattered to numerous showers and thunderstorms should cover
-the outlook area throughout much of the period, even well northeast
-of Francine's center.  However, supercell potential will await
-sufficiently strong wind fields reaching the coastline ahead of the
-cyclone to enlarge hodographs favorably -- likely during the last
-few hours of the period.  Then, tornado potential will be a matter
-of having relatively distinct/discrete, outer-band convection that
-can survive long enough to mature into supercells before weakening
-again in more-stable inflow air -- either inland or in broader
-precip areas.  Unconditional probabilities are kept at marginal
-levels for now, given the late timing of the favorable kinematic
-fields, the nocturnal min in overland instability, and convective/
-structural uncertainties with Francine.
+...Gulf Coast:  Hurricane Francine...
+Increasing southwesterly deep shear on the cyclone as a whole is
+expected, contributing to greater asymmetry in the overall precip/
+convective pattern, with increasing supercell/tornado potential
+today northeast through east of center.  The threat is expected to
+ramp up through the remainder of the morning, from south to north
+and west to east along the coast, with the greatest potential still
+appearing to be this afternoon into early evening, near and south of
+the I-10/I-12 corridor from southeastern LA eastward toward MOB,
+then overnight, spreading eastward into some of the western FL
+Panhandle.
 
-..Edwards/Kerr.. 09/10/2024
+This should occur as:
+1.  Destabilization spreads somewhat inland -- both from theta-e
+advection along and south of the warm front, and weak diurnal
+heating;
+2.  Relatively large low-level hodographs spread over the region
+along and south of the warm front -- in the outer parts of the
+closed TC circulation; and
+3.  Both the greater instability and shear spread into a regime of
+developing, discrete to semi-discrete convection in bands that can
+organize to supercells.
+Overland penetration of the most favorable parameter space will
+occur overnight, but should be restricted in extent and magnitude by
+abundant inland precip and associated stability, as well as
+nocturnal/diabatically driven stability inland.
+
+See SPC Mesoscale Discussion 2051 for near-term assessments.  Refer
+to NHC advisories for forecast track, intensity and tropical watch/
+warning information on Francine.
+
+...Northern Rockies to northern High Plains...
+Two main regimes are expected to contribute to high-based
+thunderstorms, atop well-mixed subcloud layers, with marginal
+hail/wind potential (western lobe) and mainly strong/isolated severe
+gusts (eastern lobe) in the outlook area, with a relative minimum
+but non-zero potential for a severe gust in between.
+
+In the western lobe, scattered afternoon thunderstorms in bands and
+clusters should develop as low/middle-level destabilization,
+combined with modest but adequate moisture, weakens MLCINH and
+strengthens buoyancy.  Cooling aloft related to increasing large-
+scale lift from DCVA, and in the left-exit region of cyclonically
+curved upper-jet segment, will overlie surface heating to steepen
+tropospheric lapse rates, with pockets of 250-750 J/kg peak/
+preconvective MLCAPE expected to develop.  Though north of the
+strongest deep shear, the area still will lie under strong difluence
+aloft, and 25-35-kt effective-shear magnitudes contributing to some
+organization.
+
+Farther east over the northern High Plains, marginal low-level
+moisture, recycled from the last continental/polar air intrusion,
+will keep moisture weak (with post-mixing surface dewpoints in the
+40s to low 50s F), yet still just enough to support isolated to
+widely scattered thunderstorms this afternoon into early evening. 
+Activity may be relatively maximized near the intensifying lee
+trough, where low-level mass convergence and strong diurnal heating
+will combine to eradicate CINH.  Deep subcloud layers with steep
+lapse rates will support downdraft accelerations, even with modest
+updraft buoyancy (MLCAPE generally 500-1000 J/kg).  A moist axis
+near and parallel to the front will yield higher CAPE, but in a more
+strongly capped air mass where initiation and maintenance of
+surface-based convection is less certain.
+
+..Edwards/Kerr.. 09/11/2024
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
@@ -137,32 +238,36 @@ structural uncertainties with Francine.
 
 ## Eastern Pacific Tropical Weather Outlook
 
-date: 2024-09-10, from: Eastern Pacific Tropical Weather Outlook
+date: 2024-09-11, from: Eastern Pacific Tropical Weather Outlook
 
  <br />
- 000<br />
- ABPZ20 KNHC 101112<br />
+ 761 <br />
+ ABPZ20 KNHC 111144<br />
  TWOEP <br />
  <br />
  Tropical Weather Outlook<br />
  NWS National Hurricane Center Miami FL<br />
- 500 AM PDT Tue Sep 10 2024<br />
+ 500 AM PDT Wed Sep 11 2024<br />
  <br />
  For the eastern North Pacific...east of 140 degrees west longitude:<br />
  <br />
  Offshore of Southwestern Mexico:<br />
- An area of low pressure is forecast to form during the next day or <br />
- two, just to the south of the coast of southwestern Mexico. <br />
- Environmental conditions are forecast to be conducive for some <br />
- gradual development of this system, and a tropical depression <br />
- could form during the latter part of the week while it moves <br />
- generally north-northwestward, near the coast of southwestern <br />
- Mexico.<br />
- * Formation chance through 48 hours...low...10 percent.<br />
+ A broad low pressure system continues to produce a large area of <br />
+ disorganized showers and thunderstorms near the coast of <br />
+ southwestern Mexico extending offshore for several hundred miles. <br />
+ Environmental conditions appear conducive for some gradual <br />
+ development of this system, and a tropical depression could form <br />
+ during the latter part of the week while it moves generally <br />
+ north-northwestward, near the coast of southwestern Mexico and <br />
+ towards the Baja California Peninsula.  Regardless of development, <br />
+ heavy rainfall is likely across coastal portions of southwestern and <br />
+ west-central Mexico during the next couple of days.<br />
+ * Formation chance through 48 hours...medium...50 percent.<br />
  * Formation chance through 7 days...medium...60 percent.<br />
  <br />
  $$<br />
- Forecaster Beven<br />
+ Forecaster Papin<br />
+ <br />
   
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=epac>
@@ -171,27 +276,36 @@ date: 2024-09-10, from: Eastern Pacific Tropical Weather Outlook
 
 ## Central Pacific Tropical Weather Outlook
 
-date: 2024-09-10, from: Central Pacific Tropical Weather Outlook
+date: 2024-09-11, from: Central Pacific Tropical Weather Outlook
 
  <br />
- 144 <br />
- ACPN50 PHFO 101103<br />
+ 000<br />
+ ACPN50 PHFO 111130<br />
  TWOCP <br />
  <br />
  Tropical Weather Outlook<br />
  NWS Central Pacific Hurricane Center Honolulu HI<br />
- 200 AM HST Tue Sep 10 2024<br />
+ 200 AM HST Wed Sep 11 2024<br />
  <br />
  For the central North Pacific...between 140W and 180W:<br />
  <br />
  No tropical cyclones are expected during the next 7 days.<br />
  <br />
  $$<br />
- Forecaster Jelsema<br />
- <br />
+ Forecaster Powell/Walsh<br />
   
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## SPC - No MDs are in effect as of Tue Sep 10 13:38:02 UTC 2024
+
+date: 2024-09-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Tue Sep 10 13:38:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
 
 ---
 

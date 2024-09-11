@@ -1,11 +1,61 @@
 ---
 title: health
-updated: 2024-09-10 08:28:32
+updated: 2024-09-11 08:17:23
 ---
 
 # health
 
-(date: 2024-09-10 08:28:32)
+(date: 2024-09-11 08:17:23)
+
+---
+
+## Genetic landscape of ESBL producing international clone ST410 of Escherichia coli from pediatric infections in Shenzhen, China
+
+date: 2024-09-11, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe emergence of ESBLs producing cephalosporin-resistant Escherichia coli isolates poses a threat to public health. This study aims to decipher the genetic landscape and gain insights into ESBL-producing E. coli strains belonging to the high-risk clone ST410 from pediatric patients.Methods29 E. coli ST410 isolates were collected from young children and subjected to antimicrobial susceptibility testing, Whole-genome sequencing (WGS), serotype analysis, MLST, ESBL genes, virulence genes, and plasmid profiling.ResultsAntimicrobial susceptibility testing demonstrated a high level of resistance to cephalosporins followed by aminoglycoside, sulfonamide, carbapenem and penicillin group of antibiotics. However, n=20/29 shows MDR phenotype. Phylogenetic group B2 (n=15) dominated, followed by group D (n=7), group A (n=4), and group B1 (n=3). Serotyping analysis identified O1:H7 (n=8), O2:H1 (n=6), O8:H4 (n=5), O16:H5 (n=4), and O25:H4 (n=3). Other serotypes identified included O6:H1, O15:H5, and O18:H7 (n=1 each). The most commonly detected ESBL genes were blaCTX-M, (n=26), followed by blaTEM (n=23), and blaSHV (n=18). Additionally, blaOXA-1 (n=10), blaOXA-48 (n=5), blaKPC-2 (n=3), blaKPC-3 (n=2), blaNDM-1 (n=4), blaNDM-5 (n=1), blaGES-1 (n=2), blaGES-5 (n=1), and blaCYM-1 (n=3). Notable virulence genes identified within the ST410 isolates included fimH (n=29), papC (n=24), hlyA (n=22), and cnf1 (n=18), among others. Diverse plasmids were observed including IncFIS, IncX4, IncFIA, IncCol, IncI2 and IncFIC with transmission frequency ranges from 1.3X10-2 to 2.7X10-3.ConclusionThe ST410 clone exhibited a complex resistance profile, diverse serotypes, the presence of specific resistance genes (ESBL genes), virulence gene repertoire, and diverse plasmids. The blaCTX-M was the most prevalent ESBL gene detected. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1403234>
+
+---
+
+## Editorial: Global excellence in fungal pathogenesis: Central and South America
+
+date: 2024-09-11, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1481806>
+
+---
+
+## Insights into the role of legionella effectors on host metabolic perturbations
+
+date: 2024-09-11, from: Frontiers in Cellular and Infection Microbiology
+
+Legionella infection, the causative agent of Legionnaires’ disease, represents a significant threat to human health. The pathogenesis of this infection is intricately linked to the complex interactions between the bacterium and its host, resulting in profound metabolic perturbations. Central to these metabolic shifts is the bacterium’s modulation of lipid metabolism, with changes in lipid synthesis and breakdown modifying membrane composition and function. These alterations can influence cellular signaling and immune responses, further contributing to disease progression. It also disrupts glucose utilization and lipid metabolism, altering cellular energy production and immune responses. Additionally, Legionella infection perturbs amino acid and protein metabolism, affecting protein synthesis and degradation, leading to changes in cellular functions and immune responses. This mini-review underscores the complexity of metabolic perturbations in Legionella infection and their significance in host-pathogen interactions. Understanding these metabolic shifts provides valuable insights into the pathogenesis of Legionnaires’ disease and could lead to the development of novel therapeutic strategies. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1458276>
+
+---
+
+## Effects of probiotic treatment on patients and animals with chronic obstructive pulmonary disease: a systematic review and meta-analysis of randomized control trials
+
+date: 2024-09-11, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveIn recent years, the lung-gut axis has received increasing attention. The oxidative stress and systemic hypoxia occurring in chronic obstructive pulmonary disease (COPD) are related to gut dysfunction. That suggests probiotics have a potential therapeutic role in COPD. In this study, we therefore evaluated the ameliorative effects of probiotics on COPD.MethodsSearches were conducted in four electronic databases, including PubMed, Cochrane Library, the NIH clinical registry Clinical Trials. Gov and EMBASE. The data extracted was analyzed statistically in this study using StataMP17 software, with mean difference (MD) chosen as the effect size for continuous variables, and the results expressed as effect sizes and their 95% confidence intervals (CIs). Standardized Mean Difference (SMD) was used if the data units were different.ResultsWe included three randomized, controlled, double-blind clinical trials and five randomized controlled animal studies. The results show that for lung function, probiotics improved %FEV1 in COPD patients (MD = 3.02, 95%CI: 1.10, 4.93). Additionally, in inflammation, probiotics increased IL-10 (SMD = 1.99, 95%CI: 1.02, 2.96) and decreased inflammatory markers such as TNF-α (SMD= -2.64, 95%Cl: -3.38, -1.90), IL-1β (SMD= -3.49, 95%Cl: -4.58, -2.40), and IL-6 (SMD= -6.54, 95%Cl: -8.36, -4.73) in COPD animals, while having no significant effect on C-reactive protein (MD = 0.30, 95%CI: -0.71, 1.32) in COPD patients. For lung structure, probiotics significantly reduced the degree of pulmonary collagen fibers deposition in COPD animals (SMD = -2.25, 95%CI: -3.08, -1.41).ConclusionOverall, probiotics may be an additional approach that can improve COPD. Further clinical trials are needed to evaluate the efficacy, safety, and impact factors of probiotics for COPD.Systematic Review Registrationhttps://inplasy.com/inplasy-2023-4-0023/, identifier INPLASY202340023. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1411222>
+
+---
+
+## First report of a blaNDM-producing extensively drug resistant Klebsiella pneumoniae ST437 in Italy
+
+date: 2024-09-11, from: Frontiers in Cellular and Infection Microbiology
+
+Carbapenemase-producing Klebsiella pneumoniae strains (CP-Kps) have recently been observed to spread rapidly worldwide. New Delhi metallo-β-lactamase (NDM) producing clones of Klebsiella pneumoniae (K. pneumoniae) cause a significant healthcare burden, particularly in Indian sub-continent, where this clone is circulating widely. However, in Italy, data on the incidence of these new clones is limited, and an ST437 NDM-producing K. pneumoniae strain has not been reported to date. A sacral ulcer infection caused by a K. pneumoniae strain was identified in an 85-year-old Italian male patient with several comorbidities. Antimicrobial susceptibility testing revealed an extensive resistance to a wide range of antimicrobials, including novel agents such as cefiderocol and ceftazidime/avibactam. Genomic analysis identified the pathogen as an ST437 K. pneumoniae strain harboring blaNDM-5, blaOXA-232 and blaCTX-M-15 genes. Following the identification of this first case, several infection control measures were implemented in healthcare settings, including direct precautions and reinforcement of standard cross-transmission control measures. The emergence of pathogenic microbial clones carrying new genetic determinants, particularly in a little city, requires prompt diagnosis and therapeutic protocols. An effective infection control system for the early detection and/or control of the transmission of NDM-producing Enterobacteriaceae is also needed. Further investigations are required to better understand the potential transmission routes and evolution of these clones. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1426817>
 
 ---
 

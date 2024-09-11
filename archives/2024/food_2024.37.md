@@ -1,11 +1,87 @@
 ---
 title: food
-updated: 2024-09-10 08:28:33
+updated: 2024-09-11 08:17:24
 ---
 
 # food
 
-(date: 2024-09-10 08:28:33)
+(date: 2024-09-11 08:17:24)
+
+---
+
+## 19 Instant Pot Recipes for Weeknights and Entertaining
+
+date: 2024-09-11, from: Bon Appetet
+
+Release the pressure of answering “What’s for dinner?” with these recipes for Instant Pot polenta, paprikash, pho, and more. 
+
+<https://www.bonappetit.com/gallery/best-instant-pot-recipes-ideas>
+
+---
+
+## Vegetarian Frito Pie
+
+date: 2024-09-11, from: Bon Appetet
+
+This bean and mushroom chili would be great on its own. It’s even better with corn chips and cheese. 
+
+<https://www.bonappetit.com/recipe/vegetarian-frito-pie>
+
+---
+
+## Pollo Asado
+
+date: 2024-09-11, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/pollo-asado/"><img title="pollo-asado-small-24-5" src="https://www.isabeleats.com/wp-content/uploads/2024/09/pollo-asado-small-24-5-400x600.jpg" alt="Pollo asado with grill marks on a plate and garnished with cilantro." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	This authentic Pollo Asado is an easy and flavorful recipe featuring juicy grilled chicken marinated in citrus juices, Mexican herbs and spices, and achiote paste. Includes grilling, baking, and stovetop cooking instructions for an easy and delicious weeknight Mexican dinner. When I first tried Pollo Asado from the carnicería (Mexican meat market) at my local [&#8230;] 
+
+<https://www.isabeleats.com/pollo-asado/>
+
+---
+
+## Beef Bulgogi Recipe (Homemade Korean BBQ Beef)
+
+date: 2024-09-11, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/beef-bulgogi-recipe/" title="Beef Bulgogi Recipe (Homemade Korean BBQ Beef)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Hot Korean Beef Bulgogi served in a pan with rice on the side" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Bulgogi is the ultimate Korean bbq beef recipe with thinly sliced beef marinated in a flavorful sauce then grilled or stir fried, so easy to make!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/beef-bulgogi-recipe/">Beef Bulgogi Recipe (Homemade Korean BBQ Beef)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<https://www.chilipeppermadness.com/recipes/beef-bulgogi-recipe/>
+
+---
+
+## The Best Chef's Knife (2024), Reviewed by Our Experts
+
+date: 2024-09-11, from: Bon Appetet
+
+There’s no one perfect knife—but we’ll help you find the best one for you. 
+
+<https://www.bonappetit.com/story/how-to-find-the-best-chefs-knife-for-you>
+
+---
+
+## Roasted Eggplant With Sausage and Ricotta
+
+date: 2024-09-10, from: Bon Appetet
+
+Split open like a baked potato, eggplant becomes a custardy vessel for dinner. 
+
+<https://www.bonappetit.com/recipe/roasted-eggplant-sausage-ricotta>
+
+---
+
+## Inside Bon Appétit's Celebration of the Best New Restaurants of 2024
+
+date: 2024-09-10, from: Bon Appetet
+
+Chefs, politicians, and culinary icons celebrated emerging industry stars at an event in Portland, Oregon. 
+
+<https://www.bonappetit.com/gallery/best-new-restaurants-event-2024>
 
 ---
 
@@ -143,11 +219,11 @@ Bring on the crust.
 
 ---
 
-## Stephen Colbert's New Cookbook Doubles as a Masterclass in Couples Therapy
+## Stephen Colbert's New Cookbook Doubles as a Master Class in Couples Therapy
 
 date: 2024-09-09, from: Bon Appetet
 
-In an interview with Bon Appétit, the Colberts talk about the importance of having fun while cooking, Stephen's dream to have the Pope on for a cooking segment and a kitchen fiasco they have dubbed the “spoon story.” 
+In an interview with Bon Appétit, the Colberts talk about the importance of having fun while cooking, Stephen’s dream to have the Pope on for a cooking segment, and a kitchen fiasco they have dubbed the “spoon story.” 
 
 <https://www.bonappetit.com/story/stephen-colbert-evie-colbert-new-cookbook>
 

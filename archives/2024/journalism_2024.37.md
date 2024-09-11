@@ -1,9 +1,9 @@
 ---
 title: journalism
-updated: 2024-09-10 08:28:28
+updated: 2024-09-11 08:17:19
 ---
 
 # journalism
 
-(date: 2024-09-10 08:28:28)
+(date: 2024-09-11 08:17:19)
 

@@ -1,11 +1,71 @@
 ---
 title: motorcycles
-updated: 2024-09-10 08:28:31
+updated: 2024-09-11 08:17:22
 ---
 
 # motorcycles
 
-(date: 2024-09-10 08:28:31)
+(date: 2024-09-11 08:17:22)
+
+---
+
+## Sick, These Custom Painted Triumphs Celebrate Evel Knievel’s Rocket Jump
+
+date: 2024-09-11, from: Ride Apart, Electric Motorcycle News
+
+Who wouldn’t love to see these as special-edition releases?  
+
+<https://www.rideapart.com/news/733124/triumph-celebrates-50th-anniversary-evel-knievel-rocket-jump/>
+
+---
+
+## Yamaha’s Got New E-Bikes, Look Like Tons Of Fun Around Town
+
+date: 2024-09-11, from: Ride Apart, Electric Motorcycle News
+
+Yamaha keeps things simple with its range of urban e-bikes.  
+
+<https://www.rideapart.com/news/733122/yamaha-ebikes-wabash-rt-crosscore-2024/>
+
+---
+
+## Which New Triumph Is Coming Next, The Speed Twin 1200 RS Or a New 400?
+
+date: 2024-09-11, from: Ride Apart, Electric Motorcycle News
+
+Your opinion and speculation probably depend on what you're looking forward to most. 
+
+<https://www.rideapart.com/news/733272/triumph-rs-teaser-speed-twin/>
+
+---
+
+## Wyoming Moves Closer to OK-ing Wolf-Whacking, But Only If You Immediately Kill It
+
+date: 2024-09-11, from: Ride Apart, Electric Motorcycle News
+
+This isn't hunting.  
+
+<https://www.rideapart.com/news/732712/new-law-update-wyoming-wolf-whacking-hunting/>
+
+---
+
+## KTM's 300 XC-W Factory Edition Is The True Meaning Of “Ready To Race”
+
+date: 2024-09-11, from: Ride Apart, Electric Motorcycle News
+
+It’s the closest thing to a pro-level enduro bike you can snap up off the showroom floor.  
+
+<https://www.rideapart.com/news/733123/2025-ktm-300-xcw-factory-edition/>
+
+---
+
+## It's Finally Happening, MotoGP Racers To Start Using Radio Comms
+
+date: 2024-09-11, from: Ride Apart, Electric Motorcycle News
+
+What took them so long to catch up to every other racing series, anyway? 
+
+<https://www.rideapart.com/news/733276/motogp-radio-communications-coming-2025/>
 
 ---
 

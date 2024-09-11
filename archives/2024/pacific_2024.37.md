@@ -1,11 +1,568 @@
 ---
 title: pacific
-updated: 2024-09-10 08:28:23
+updated: 2024-09-11 08:17:15
 ---
 
 # pacific
 
-(date: 2024-09-10 08:28:23)
+(date: 2024-09-11 08:17:15)
+
+---
+
+## Almost 50 million Americans have had an Obamacare plan since 2014
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Nearly 50 million Americans have been covered by health insurance plans through the Affordable Care Act&#8217;s marketplaces since they opened a decade ago, according to tax data analyzed by the Treasury Department and published Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/nation-world-news/almost-50-million-americans-have-had-an-obamacare-plan-since-2014/>
+
+---
+
+## GOP leaders to roll the dice on doomed stopgap funds bill
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>The House on Tuesday voted to take up a partisan six-month stopgap spending bill featuring controversial voting restriction legislation as soon as Wednesday, adopting the rule for floor debate on the continuing resolution and several unrelated bills on a narrow party-line vote.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/nation-world-news/gop-leaders-to-roll-the-dice-on-doomed-stopgap-funds-bill/>
+
+---
+
+## Coast Guard, partner agencies to conduct search and rescue exercise off Kawaihae
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8212; The Coast Guard, Hawaii Fire Department, Hawaii Ocean Safety and the Hawaii Department of Land and Natural Resources are scheduled to conduct a search and rescue exercise Thursday off Kawaihae.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/hawaii-news/coast-guard-partner-agencies-to-conduct-search-and-rescue-exercise-off-kawaihae/>
+
+---
+
+## Work to reconstruct section of Highway 137 in lower Puna will begin later this month
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County announced Tuesday it&#8217;s ready to reconstruct a 3.64-mile section of Highway 137 in lower Puna, between the makai end of Pohoiki Road and the intersection of Highway 132 &#8212; also known as &#8220;Four Corners.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/hawaii-news/work-to-reconstruct-section-of-highway-137-in-lower-puna-will-begin-later-this-month/>
+
+---
+
+## Israel strikes tent camp in Gaza safe zone, dozens reported killed or injured
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>AL-MAWASI, Gaza Strip/CAIRO &#8212; Israeli strikes blasted a huge crater in a designated safe zone in southern Gaza before dawn on Tuesday, setting tents ablaze and burying Palestinian families under sand.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/nation-world-news/israel-strikes-tent-camp-in-gaza-safe-zone-dozens-reported-killed-or-injured/>
+
+---
+
+## Harris put Trump on defensive, and kept him there
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>Vice President Kamala Harris took the debate stage Tuesday night, shook the hand of former President Donald Trump and then spent the next 90 minutes making every effort to burrow under his skin, hammering him over his criminal convictions, his handling of the COVID-19 pandemic, the size of his rally crowds and the foreign and military leaders who she said have called him a &#8220;disgrace.&#8221; </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/nation-world-news/harris-put-trump-on-defensive-and-kept-him-there/>
+
+---
+
+## Key quotes from the Harris-Trump debate
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; U.S. Vice President Kamala Harris and former President Donald Trump took the stage on Tuesday night for their first and only scheduled presidential debate before the Nov. 5 election. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/nation-world-news/key-quotes-from-the-harris-trump-debate/>
+
+---
+
+## Tone and body language at the Harris-Trump debate speak as loudly as words
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>As their high-stakes debate in Philadelphia commenced on Tuesday night, Vice President Kamala Harris walked across the stage, maneuvered around a lectern and stuck out her hand in greeting. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/nation-world-news/tone-and-body-language-at-the-harris-trump-debate-speak-as-loudly-as-words/>
+
+---
+
+## Tropical Storm Francine forecast to grow into hurricane as it turns toward northern Gulf Coast
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>ORLANDO, Fla. &#8212; Tropical Storm Francine is forecast to grow into a hurricane Tuesday and shift toward a landfall on the north Gulf Coast in Louisiana, according to the National Hurricane Center.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/nation-world-news/tropical-storm-francine-forecast-to-grow-into-hurricane-as-it-turns-toward-northern-gulf-coast/>
+
+---
+
+## Your Views for September 11
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>Trump is &#8216;cleanest&#8217;&#0010;person in DC</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/opinion/your-views-for-september-11-7/>
+
+---
+
+## The teen arrested in Georgia school shooting is not an adult, and shouldn’t be treated like one
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>Our society has utterly failed to come to grips with mass shootings, a fact brought home by the angry, panicked justice system response to Wednesday&#8217;s deadly attack at Apalachee High School in Winder, Georgia, outside Atlanta.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/opinion/the-teen-arrested-in-georgia-school-shooting-is-not-an-adult-and-shouldnt-be-treated-like-one/>
+
+---
+
+## My brother’s grave is not a campaign trail
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>I don&#8217;t care if you are an Independent, Republican or Democratic candidate &#8212; my brother&#8217;s grave is not your campaign trail.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/opinion/my-brothers-grave-is-not-a-campaign-trail/>
+
+---
+
+## McCaffrey ‘day to day’ with calf/Achilles injury
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>Christian McCaffrey&#8217;s status will continue to be judged on the fly, his availability to be determined by how he&#8217;s feeling with an eye toward the long haul rather than a specific gameday, 49ers coach Kyle Shanahan said Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/sports/mccaffrey-day-to-day-with-calf-achilles-injury/>
+
+---
+
+## Poverty increased in 2023 as prices rose and pandemic aid programs expired
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>The nation&#8217;s poverty rate rose last year even as incomes improved, the government reported on Tuesday, reflecting higher prices and the expiration of the last pandemic relief programs.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/nation-world-news/poverty-increased-in-2023-as-prices-rose-and-pandemic-aid-programs-expired/>
+
+---
+
+## UHH soccer: Vulcans shoot scoreless stalemate; Souza named Defender of Week
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>COSTA MESA, Calif. &#8212; It was another clean sheet for Phoebe Barnes and the Hawai&#8217;i Hilo women&#8217;s soccer team, however, it was also an empty net resulting in a consecutive scoreless draw to Cal State San Bernardino Monday afternoon at Vanguard University.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/sports/uhh-soccer-vulcans-shoot-scoreless-stalemate-souza-named-defender-of-week/>
+
+---
+
+## Ukraine targets Moscow in biggest drone attack yet
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>MOSCOW (Reuters) &#8212; Ukraine targeted the Russian capital on Tuesday in its biggest drone attack so far, killing at least one and wrecking dozens of homes in the Moscow region and forcing around 50 flights to be diverted from airports around Moscow. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/nation-world-news/ukraine-targets-moscow-in-biggest-drone-attack-yet/>
+
+---
+
+## In booth, Brady has much to learn but much promise to build on
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>It is sort of endearing that the man whom many consider to be the greatest NFL player ever and who has a 10-year, $375 million contract to talk about football games came across as nervous to open his Fox broadcasting career.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/sports/in-booth-brady-has-much-to-learn-but-much-promise-to-build-on/>
+
+---
+
+## US government demands overhaul of Israeli conduct in West Bank after killing of US citizen
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>LONDON/JERUSALEM &#8212; U.S. Secretary of State Antony Blinken and Defense Secretary Lloyd Austin on Tuesday demanded an overhaul of Israeli military conduct in the occupied West Bank as they decried the fatal shooting of an American protester against settlement expansion, which Israel said was accidental. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/nation-world-news/us-government-demands-overhaul-of-israeli-conduct-in-west-bank-after-killing-of-us-citizen/>
+
+---
+
+## PGA tour meets with Saudi fund in hopes of getting closer to deal
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>More than a year after the PGA Tour announced plans to combine forces with the Saudi Arabian sovereign wealth fund&#8217;s upstart LIV Golf league, the two sides met in New York on Tuesday in hopes of &#8212; <em>finally</em> &#8212; making headway on getting to a deal.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/sports/pga-tour-meets-with-saudi-fund-in-hopes-of-getting-closer-to-deal/>
+
+---
+
+## Adrian Peterson ordered to turn over assets to pay debt; PR firm points to advisor
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; Former NFL running back Adrian Peterson has been ordered by a Houston judge to turn over numerous assets as a means toward paying a debt that is estimated at more than $12 million.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/sports/adrian-peterson-ordered-to-turn-over-assets-to-pay-debt-pr-firm-points-to-advisor/>
+
+---
+
+## Obituaries for September 11
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>Dolores &#8220;Dee&#8221; Susan Arurang, 73, of Hilo died Sept. 7 at Life Care Center of Hilo. Born in Hilo, she was a cook for K&#8217;s Drive-In and the former Dick&#8217;s Coffee House. No services. Survived by, son, Pelly Arurang Jr. of Hilo; daughters, Dorothy (Branon Perreira) Arurang-Perreira of Hilo and Regina Arurang of Washington; brother, Clifford (Elizabeth) Serrao of Panaewa; six grandchildren. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/obituaries/obituaries-for-september-11-7/>
+
+---
+
+## Sean ‘Diddy’ Combs hit with $100 million default judgment in sex assault lawsuit
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Music mogul Sean &#8220;Diddy&#8221; Combs was slapped with a $100 million default judgment after he failed to respond to a sexual assault lawsuit brought against him by Michigan inmate Derrick Lee Cardello-Smith.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/nation-world-news/sean-diddy-combs-hit-with-100-million-default-judgment-in-sex-assault-lawsuit/>
+
+---
+
+## New mammogram rule gives women more details to guard against breast cancer
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA &#8211; A new federal rule takes effect Tuesday that could potentially help more women spot breast cancer earlier. The FDA will require mammogram providers across the country to notify women if they have dense breast tissue, and recommend they consult with their doctor about whether they need additional screening.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/nation-world-news/new-mammogram-rule-gives-women-more-details-to-guard-against-breast-cancer/>
+
+---
+
+## How false claims about dead cats became Trump campaign fodder
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>A falsehood that migrants have killed wild animals and household pets for food ricocheted around the internet this week, vaulting from fringe social media posts to a Trump campaign talking point in a matter of days.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/nation-world-news/how-false-claims-about-dead-cats-became-trump-campaign-fodder/>
+
+---
+
+## US says Russia received missiles from Iran, piles on sanctions
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>LONDON/WASHINGTON &#8212; Russia has received ballistic missiles from Iran for its war in Ukraine, the United States said on Tuesday as it imposed fresh sanctions on ships and companies it said were involved in supplying Moscow with Iranian weapons. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/nation-world-news/us-says-russia-received-missiles-from-iran-piles-on-sanctions/>
+
+---
+
+## Nation and world news in brief for September 11
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>Tech firm executives to testify before US Senate about &#0010;election threats</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/nation-world-news/nation-and-world-news-in-brief-for-september-11/>
+
+---
+
+## Hawaiian Word of the Week: Kanilehua
+
+date: 2024-09-11, from: University of Hawaiʻi News
+
+<p>Kanilehua&#8212;Name of a mist-like rain famous in Hilo. Literally, [rain that] lehua flowers drink.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/10/hawaiian-word-of-the-week-kanilehua/">Hawaiian Word of the Week: Kanilehua</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/10/hawaiian-word-of-the-week-kanilehua/>
+
+---
+
+## UH adds micro-credential opportunities to bolster workforce development
+
+date: 2024-09-11, from: University of Hawaiʻi News
+
+<p>Micro-credentials are designed to be shorter in duration, digitally badged, and to focus on specific skill sets relevant to a rapidly changing job market.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/10/micro-credential-opportunities/"><abbr>UH</abbr> adds micro-credential opportunities to bolster workforce development</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/10/micro-credential-opportunities/>
+
+---
+
+## Schools Closed Due to Monsoon Surge
+
+date: 2024-09-11, from: Island Times
+
+<p>By: L.N. Reklai Palau&#8217;s National Emergency Management Office (NEMO) announced Wednesday that all schools would be closed on Thursday, September 12, due to a monsoon surge bringing heavy rain and strong winds. NEMO, a government agency responsible for emergency response, made the decision following a meeting of its representatives. In addition to school closures, NEMO [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/schools-closed-due-to-monsoon-surge/">Schools Closed Due to Monsoon Surge</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/schools-closed-due-to-monsoon-surge/>
+
+---
+
+## PSS classes resume Thursday
+
+date: 2024-09-11, updated: 2024-09-11, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/news/local/pss-classes-resume-thursday/article_054a31ac-6ffe-11ef-95a6-a350b53af9ae.html>
+
+---
+
+## Acting governor cancels tropical storm conditions
+
+date: 2024-09-11, updated: 2024-09-11, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/news/local/acting-governor-cancels-tropical-storm-conditions/article_cb098d98-6ff9-11ef-9745-ab2e80f7ffb4.html>
+
+---
+
+## Home is Here Ann Yoshida & UH Hilo Beekeeping Certificate
+
+date: 2024-09-11, from: Home is Here
+
+<p>The post <a href="https://www.pbshawaii.org/home-is-here-ann-yoshida-uh-hilo-beekeeping-certificate/">Home is Here &lt;br/&gt;Ann Yoshida &#038; UH Hilo Beekeeping Certificate</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/home-is-here-ann-yoshida-uh-hilo-beekeeping-certificate/>
+
+---
+
+## UH Hilo hosts kuleana, talk story series
+
+date: 2024-09-11, from: University of Hawaiʻi News
+
+<p>The Kuleana and Community Talk Story series is designed to foster meaningful connections between students, faculty, staff, and the community.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/10/uh-hilo-kuleana-talk-story-series/"><abbr>UH</abbr> Hilo hosts kuleana, talk story series</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/10/uh-hilo-kuleana-talk-story-series/>
+
+---
+
+## UH Hilo goalkeeper earns 1st PacWest Defender of the Week of the season
+
+date: 2024-09-11, from: University of Hawaiʻi News
+
+<p>Christian Souza now has seven career shutouts, <abbr title="number">No.</abbr> 2 all-time in program history.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/10/souza-pacwest-defender-of-the-week/"><abbr>UH</abbr> Hilo goalkeeper earns 1st PacWest Defender of the Week of the season</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/10/souza-pacwest-defender-of-the-week/>
+
+---
+
+## Students around Hawaiʻi attend 4-H culinary camp
+
+date: 2024-09-11, from: University of Hawaiʻi News
+
+<p>The camp engaged 47 middle-school students on <span aria-label="Oahu,">O&#699;ahu,</span> Maui, <span aria-label="Lanai,">L&#257;na&#699;i,</span> <span aria-label="Hawaii">Hawai&#699;i</span> Island and <span aria-label="Kauai.">Kaua&#699;i.</span></p>
+The post <a href="https://www.hawaii.edu/news/2024/09/10/4-h-culinary-camp/">Students around Hawaiʻi attend 4-H culinary camp</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/10/4-h-culinary-camp/>
+
+---
+
+## Kirk Langschwager lands Big West Female Athlete of the Week honors
+
+date: 2024-09-11, from: University of Hawaiʻi News
+
+<p>Emilie Kirk Langschwager led <abbr>UH</abbr> with 18:09.9, securing the top five spots in the season-opening race.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/10/kirk-langschwager-big-west-female-of-the-week/">Kirk Langschwager lands Big West Female Athlete of the Week honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/10/kirk-langschwager-big-west-female-of-the-week/>
+
+---
+
+## Ikenaga earns 1st Big West Defensive Player of the week
+
+date: 2024-09-11, from: University of Hawaiʻi News
+
+<p>Tayli Ikenaga set career highs in back-to-back matches and posted 60 digs in a two-match series.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/10/ikenaga-big-west-defensive-player-week/">Ikenaga earns 1st Big West Defensive Player of the week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/10/ikenaga-big-west-defensive-player-week/>
+
+---
+
+## Bebinca upgraded to tropical storm
+
+date: 2024-09-11, updated: 2024-09-11, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/news/local/bebinca-upgraded-to-tropical-storm/article_a3b8e466-6fd4-11ef-9797-bf2622451092.html>
+
+---
+
+## PSS cancels classes
+
+date: 2024-09-11, updated: 2024-09-11, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/news/local/pss-cancels-classes/article_ecb15956-6fd3-11ef-94b8-b78d4713ea40.html>
+
+---
+
+## UH unites stakeholders to strengthen public health workforce
+
+date: 2024-09-10, from: University of Hawaiʻi News
+
+<p>Stakeholders proposed strategies to recruit new employees, retain young professionals, and provide more support for current workers in public health.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/10/uh-unites-public-health-workforce/"><abbr>UH</abbr> unites stakeholders to strengthen public health workforce</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/10/uh-unites-public-health-workforce/>
+
+---
+
+## UH Cancer Center’s ‘Quest for a Cure’ focuses on liver cancer
+
+date: 2024-09-10, from: University of Hawaiʻi News
+
+<p>The final event of the Quest for a Cure 2004 symposium series will be held September 18.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/10/quest-for-a-cure-liver-cancer/"><abbr>UH</abbr> Cancer Center’s ‘Quest for a Cure’ focuses on liver cancer</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/10/quest-for-a-cure-liver-cancer/>
+
+---
+
+## Oceans absorb 6% more carbon thanks to rain
+
+date: 2024-09-10, from: University of Hawaiʻi News
+
+<p>A study revealed about 6&#37; of the total uptake of carbon dioxide by the ocean is due to rainfall.  </p>
+The post <a href="https://www.hawaii.edu/news/2024/09/10/ocean-absorbing-carbon/">Oceans absorb 6% more carbon thanks to rain</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/10/ocean-absorbing-carbon/>
+
+---
+
+## What is Climate Week?
+
+date: 2024-09-10, from: Island Conservation News
+
+<p>Climate Week NYC: what is it and why is it important? Read on to find out why Island Conservation is attending this amazing event!</p>
+<p>The post <a href="https://www.islandconservation.org/what-is-climate-week/">What is Climate Week?</a> appeared first on <a href="https://www.islandconservation.org">Island Conservation</a>.</p>
+ 
+
+<https://www.islandconservation.org/what-is-climate-week/>
+
+---
+
+## Wall Street worries Harris tax plan would hurt US corporate profits
+
+date: 2024-09-10, updated: 2024-09-11, from: Marianas Variety
+
+NEW YORK (Reuters) — Wall Street is anticipating a hit to corporate earnings and the stock market if Democratic presidential candidate Kamala Harris wins in November and enacts promised tax increases. 
+
+<https://www.mvariety.com/business/business_news/wall-street-worries-harris-tax-plan-would-hurt-us-corporate-profits/article_30d6ac60-6f77-11ef-bfe6-875a3e87f531.html>
+
+---
+
+## Trump Media shares rebound after poll shows tight race for White House
+
+date: 2024-09-10, updated: 2024-09-11, from: Marianas Variety
+
+(Reuters) — Shares of Trump Media &amp; Technology Group, majority-owned by former President Donald Trump, jumped nearly 5% on Monday after a poll showed the Republican candidate is in a tight race against Vice President Kamala Harris for the White House. 
+
+<https://www.mvariety.com/news/national/trump-media-shares-rebound-after-poll-shows-tight-race-for-white-house/article_55c3450c-6f76-11ef-8a82-9bf01fafb19c.html>
+
+---
+
+## MLB roundup: Red Sox go back-to-back twice
+
+date: 2024-09-10, updated: 2024-09-11, from: Marianas Variety
+
+(Reuters) — Rob Refsnyder and Tyler O'Neill hit back-to-back home runs in the third inning and did the same in the eighth inning to help the Boston Red Sox defeat the visiting Baltimore Orioles 12-3 on Monday. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-red-sox-go-back-to-back-twice/article_267dee44-6f73-11ef-8d07-575dd4f4e1c2.html>
+
+---
+
+## Police footage shows officers forcing Dolphins’ Hill to ground during traffic stop
+
+date: 2024-09-10, updated: 2024-09-11, from: Marianas Variety
+
+(Reuters) — New video surfaced on Monday showing police officers forcefully removing Miami Dolphins receiver Tyreek Hill from his car and throwing him to the ground during a heated traffic stop ahead of his team's home opener on Sunday. 
+
+<https://www.mvariety.com/sports/nationalsports/police-footage-shows-officers-forcing-dolphins-hill-to-ground-during-traffic-stop/article_b38ead8c-6f73-11ef-8b52-c7182ca5e3d7.html>
+
+---
+
+## No special treatment for celebrity pastor Apollo Quiboloy, says Philippine president
+
+date: 2024-09-10, updated: 2024-09-11, from: Marianas Variety
+
+MANILA (Reuters) — Philippine President Ferdinand Marcos Jr. said on Monday that evangelist preacher Apollo Quiboloy will not be given special treatment following his arrest on Sunday, after a weeks-long police search for the celebrity pastor. 
+
+<https://www.mvariety.com/news/regional_world/no-special-treatment-for-celebrity-pastor-apollo-quiboloy-says-philippine-president/article_cc8b0e0a-6f75-11ef-9f1c-bbb356c9411f.html>
+
+---
+
+## Dolphins rally to beat Ayuyus for 2nd straight win in boys fastpitch softball
+
+date: 2024-09-10, updated: 2024-09-11, from: Marianas Variety
+
+THE Marianas High School Dolphins rallied in the fifth inning to beat the Kagman High School Ayuyus and bag their second straight victory in the Public School System Boys Fastpitch Softball Tournament at the Dandan Middle School ballfield on Monday. 
+
+<https://www.mvariety.com/sports/localsports/dolphins-rally-to-beat-ayuyus-for-2nd-straight-win-in-boys-fastpitch-softball/article_b4e92146-6f30-11ef-a93d-bbef0b60bf7b.html>
 
 ---
 

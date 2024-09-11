@@ -1,11 +1,83 @@
 ---
 title: writing
-updated: 2024-09-10 08:28:27
+updated: 2024-09-11 08:17:19
 ---
 
 # writing
 
-(date: 2024-09-10 08:28:27)
+(date: 2024-09-11 08:17:19)
+
+---
+
+## Scriptnotes, Episode 651: The Live Edit, Transcript
+
+date: 2024-09-10, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: My name is Craig Mazin. John: This is Episode 651 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, we’ll do a live edit of [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-651-the-live-edit-transcript">Scriptnotes, Episode 651: The Live Edit, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-651-the-live-edit-transcript>
+
+---
+
+## Scriptnotes, Episode 650: Overwritten, Transcript
+
+date: 2024-09-10, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August, and you’re listening to Episode 650 – wow – of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, how do you rewrite without overwriting. We’ll discuss tips [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-650-overwritten-transcript">Scriptnotes, Episode 650: Overwritten, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-650-overwritten-transcript>
+
+---
+
+## Changes at Saga
+
+date: 2024-09-10, from: Locus Magazine
+
+<p>Saga Press, the SF/F imprint of Simon &#38; Schuster (S&#38;S), has announced several promotions and other changes.</p>
+<p>Tim O&#8217;Connell has become vice president and publisher of Saga, moving from his role as vice president and editorial director of fiction at S&#38;S, though he will continue to acquire for the latter. He will report to S&#38;S VP and publisher Sean Manning.</p>
+<p>Joe Monti has been promoted to vice president, associate publisher,  <a href="https://locusmag.com/2024/09/changes-at-saga/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/changes-at-saga/>
+
+---
+
+## The Bricks of Breaking In: Lucifer Showrunner Joe Henderson on the Power of Notes
+
+date: 2024-09-10, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/the-bricks-of-breaking-in-lucifer-showrunner-joe-henderson-on-the-power-of-notes" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Lucifer-2.png" alt="Still from the TV Series 'Lucifer'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>There’s a common piece of advice for writers, and that’s to always be writing. Showrunner Joe Henderson (<em>Lucifer</em>) got a jump start on those words of wisdom as he was already writing stories in second grade, never knowing where those stories, and that creativity, would take him. Henderson recalls:<br><br><em>“I was reading Dungeons and Dragons books and would write stories that either took place in that world or extended it out. I moved on to Star Wars novels and would write my versions of that. I was just always writing.”</em></p> 
+
+<https://blog.finaldraft.com/the-bricks-of-breaking-in-lucifer-showrunner-joe-henderson-on-the-power-of-notes>
+
+---
+
+## New Books, 10 September 2024
+
+date: 2024-09-10, from: Locus Magazine
+
+<p>Allen, Samantha: <b>Roland Rogers Isn&#8217;t Dead Yet</b>
+(Zando 9781638931539, $18, 288pp, formats: trade paperback, ebook, audio, 09/10/2024)</p>
+<p>Ghost romance novel. An actor&#8217;s ghost with just enough energy to communicate via kitchen speaker wants Adam Gallagher to help write his autobiography before his body is found crushed by an avalanche. They have to get it done within one month, and ghost and ghostwriter don&#8217;t entirely agree on their visions for the  <a href="https://locusmag.com/2024/09/new-books-10-september-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/new-books-10-september-2024/>
+
+---
+
+## Charles Payseur Reviews Short Fiction: Escape Pod, Strange Horizons, and Beneath Ceaseless Skies
+
+date: 2024-09-10, from: Locus Magazine
+
+<p>Escape Pod 5/16/24
+Strange Horizons 5/20/24, 5/27/24, 6/10/24, 6/17/24
+Beneath Ceaseless Skies 5/30/24, 6/13/24</p>
+<p>Rocky Cornelius returns to Escape Pod with <strong>An­drew Dana Hudson</strong>’s May story, “<strong>The Concept Shoppe: A Rocky Cornelius Consultancy</strong>”. Having left uncool hunting behind her, Rocky is a creative consultant for Primal, a new store that’s selling the postapocalypse experience in a future that feels in many ways postapocalyptic, right down to the  <a href="https://locusmag.com/2024/09/charles-payseur-reviews-short-fiction-3/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/charles-payseur-reviews-short-fiction-3/>
 
 ---
 
@@ -118,7 +190,7 @@ date: 2024-09-09, from: Final Draft blog
 
 ---
 
-## Sean Dowie Reviews Archangels of Funk by Andrea Hairston
+## Archangels of Funk by Andrea Hairston: Review by Sean Dowie
 
 date: 2024-09-08, from: Locus Magazine
 

@@ -1,11 +1,111 @@
 ---
 title: games
-updated: 2024-09-10 08:28:28
+updated: 2024-09-11 08:17:19
 ---
 
 # games
 
-(date: 2024-09-10 08:28:28)
+(date: 2024-09-11 08:17:19)
+
+---
+
+## Inside Tim Burton’s life-affirming neurodivergent wonderland
+
+date: 2024-09-11, updated: 2024-09-11, from: Polygon Website
+
+The legacy sequel Beetlejuice Beetlejuice doesn’t just herald the return of Michael Keaton as the titular ghoul. It also sees writer-director Tim Burton returning to his roots, with surrealist fantasy that fuses childlike wonder, twisted humor, and gothic visuals. Burton’s ill-fated 2001 Planet of the Apes remake took him down a path of seemingly endless [&#8230;] 
+
+<https://www.polygon.com/opinion/450444/tim-burton-autistic-neurodivergent-representation-beetlejuice>
+
+---
+
+## The best horror movies of the year so far, ranked by scariness
+
+date: 2024-09-11, updated: 2024-09-11, from: Polygon Website
+
+The year got off to a rather slow start when it comes to horror movies, but now that the release calendar has ramped up, there are quite a few new horror movies worth watching. While we’re still only a little more than halfway through 2024, it’s hard not to feel like this year’s horror theme [&#8230;] 
+
+<https://www.polygon.com/24090384/best-horror-movies-2024-how-scary>
+
+---
+
+## The best video games of 2024 so far
+
+date: 2024-09-11, updated: 2024-09-11, from: Polygon Website
+
+Games are weird again! Don’t get us wrong, 2023 was an all-timer. We got new Zelda and Mario. Armored Core and Baldur’s Gate woke up from cryogenic sleep. Alan Wake rose from its plot in the Video Game IP Cemetery, while Street Fighter 6 acted like Street Fighter 5 had never happened. But while 2023 [&#8230;] 
+
+<https://www.polygon.com/what-to-play/24078256/best-video-games-2024>
+
+---
+
+## Elden Ring: Shadow of the Erdtree’s hated final boss gets nerfed at last
+
+date: 2024-09-11, updated: 2024-09-11, from: Polygon Website
+
+FromSoftware rolled out a new update for Elden Ring: Shadow of the Erdtree on Wednesday, and the biggest target is the game’s final boss, who has been hit with a significant nerf. That change will likely come as great relief to Elden Ring fans who struggled with Promised Consort Radahn/Radahn, Consort of Miquella, one of [&#8230;] 
+
+<https://www.polygon.com/gaming/450363/elden-ring-shadow-of-the-erdtree-patch-radahn-nerf>
+
+---
+
+## March of the Ants board game brings brisk 4X action to your backyard
+
+date: 2024-09-11, updated: 2024-09-11, from: Polygon Website
+
+March of the Ants, an early success story of the modern board gaming renaissance, is a high-concept strategy game brought to life through crowdfunding in 2014. The scrappy team leveraged its modest success to found a new publishing company, Portland-based Weird City Games, which now offers a full catalog of tabletop games. Now the company [&#8230;] 
+
+<https://www.polygon.com/tabletop-games/450160/march-of-the-ants-evolved-edition-kickstarter-preview-interview>
+
+---
+
+## Get a year of Paramount Plus for half price
+
+date: 2024-09-11, updated: 2024-09-10, from: Polygon Website
+
+New and returning members to Paramount Plus, the official home to all the Mission Impossible movies, can get a fabulous deal on a year’s worth of the subscription service. Through Sept. 23, both the ad-free (or mostly ad-free, as Paramount says they are present for some live TV programming and shows) and ad-supported annual plans [&#8230;] 
+
+<https://www.polygon.com/good-deals/450027/paramount-plus-year-annual-subscription-ad-free-deal>
+
+---
+
+## World of Warcraft launches the first season for The War Within
+
+date: 2024-09-10, updated: 2024-09-10, from: Polygon Website
+
+World of Warcraft’s new expansion, The War Within, has introduced a new, underground expanse to Azeroth. Players have met the Earthen on the Isle of Dorn, entered the Ringing Depths, discovered the Arathi Empire remnants in Hallowfell, and began our siege on the Nerubian forces working with the evil Void entity Xal’atath. On Tuesday, Blizzard [&#8230;] 
+
+<https://www.polygon.com/gaming/450151/world-warcraft-war-within-season-1-launch-nerubar-palace>
+
+---
+
+## Honkai: Star Rail codes for September 2024
+
+date: 2024-09-10, updated: 2024-09-10, from: Polygon Website
+
+Honkai: Star Rail is Hoyoverse’s latest title added to their mobile (and PC) game lineup, which means that yes, the game has codes that you can redeem for premium currency. In this case, Honkai: Star Rail codes reward Stellar Jade and the usual other goodies — money, EXP, and the like. Below we list out [&#8230;] 
+
+<https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade>
+
+---
+
+## How to unlock all Choir of One Exotic Catalysts in Destiny 2
+
+date: 2024-09-10, updated: 2024-09-10, from: Polygon Website
+
+The Choir of One Exotic Catalysts are locked behind a quest chain in Destiny 2 , including “//Choir: Eternal,” “//Choir: Upheaval,” and “//Choir: Escalate.” You’ll need to complete the “Encore” Exotic mission once to access these quests and then find an array of secret chests to complete them. In this Destiny 2 guide, we’ll teach [&#8230;] 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/445174/catalyst-quest-choir-of-one-encore-secret-chests>
+
+---
+
+## Minecraft is retiring the yearly (and much-maligned) mob vote
+
+date: 2024-09-10, updated: 2024-09-10, from: Polygon Website
+
+Mojang Studios is taking away one opportunity for players to pick the kind of content they see in future Minecraft updates, and that could actually be a great thing. The Minecraft developer announced that it is retiring its divisive mob vote via a blog post on Monday. Started in 2017, the mob vote was a [&#8230;] 
+
+<https://www.polygon.com/news/449905/minecraft-retire-mob-vote>
 
 ---
 

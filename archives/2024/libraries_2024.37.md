@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2024-09-10 08:28:29
+updated: 2024-09-11 08:17:20
 ---
 
 # libraries
 
-(date: 2024-09-10 08:28:29)
+(date: 2024-09-11 08:17:20)
+
+---
+
+## Inclusive R&D: Can it Become the Rule, Not an Exception?
+
+date: 2024-09-11, from: Scholarly Kitchen
+
+<p>Inclusive publishing and design practices should be the status quo and not an afterthought.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/09/11/inclusive-rd-can-it-become-the-rule-not-an-exception/">Inclusive R&amp;D: Can it Become the Rule, Not an Exception?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/09/11/inclusive-rd-can-it-become-the-rule-not-an-exception/>
 
 ---
 
@@ -46,7 +58,7 @@ Hume examines the fundamental nature of knowledge, reality and human understandi
 
 date: 2024-09-09, from: Association of Research Libraries News
 
-<p>Last Updated on September 9, 2024, 3:14 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 10 &#124; Wednesday, September 11 &#124; Thursday,...</p>
+<p>Last Updated on September 10, 2024, 4:05 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 10 &#124; Wednesday, September 11 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-9-12/">Day in Review (September 9–12)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

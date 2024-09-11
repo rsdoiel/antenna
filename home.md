@@ -1,11 +1,318 @@
 ---
 title: home
-updated: 2024-09-10 08:28:29
+updated: 2024-09-11 08:17:21
 ---
 
 # home
 
-(date: 2024-09-10 08:28:29)
+(date: 2024-09-11 08:17:21)
+
+---
+
+## Secretary Ross joins USDA Agribusiness Trade Mission to Vietnam
+
+date: 2024-09-11, from: Calfifornia Dept. Aggriculture blog
+
+CDFA Secretary Karen Ross is in Vietnam this week as part of a USDA trade mission offering opportunities for U.S. companies to engage face-to-face with Vietnamese buyers to build new trade linkages, strengthen existing partnerships, observe U.S. products in the &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28161">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28161>
+
+---
+
+## Light Up Your Life With a Cordless Lamp for Every Mood
+
+date: 2024-09-11, from: Dwell
+
+Those messy wires are harshing your home's mellow. Welcome the freedom of being able to light your home how you want it, when you want it. 
+
+<https://www.dwell.com/article/light-up-your-life-with-a-cordless-lamp-for-every-mood-bd30093e>
+
+---
+
+## 46 Arizona Spiders (Spiders in Arizona with Pictures, Identification)
+
+date: 2024-09-11, from: Yard Life blog
+
+<p>Arizona is home to a diverse range of spiders, with various species adapting to the state&#8217;s unique environments. From the ... </p>
+<p class="read-more-container"><a title="46 Arizona Spiders (Spiders in Arizona with Pictures, Identification)" class="read-more button" href="https://ownyardlife.com/46-arizona-spiders-spiders-in-arizona-with-pictures-identification/#more-19081" aria-label="Read more about 46 Arizona Spiders (Spiders in Arizona with Pictures, Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/46-arizona-spiders-spiders-in-arizona-with-pictures-identification/">46 Arizona Spiders (Spiders in Arizona with Pictures, Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/46-arizona-spiders-spiders-in-arizona-with-pictures-identification/>
+
+---
+
+## Hisense Dehumidifier Review: A Budget-Friendly Option to Keep Humidity at Bay
+
+date: 2024-09-11, from: Family Handyman Blog
+
+I tested the Hisense 50-Pint 2-Speed Dehumidifier and found it to be one of the quietest of the options I tried, as well as being cost-effective. 
+
+<https://www.familyhandyman.com/article/hisense-dehumidifier-review/>
+
+---
+
+## Dwell Open House: Los Angeles
+
+date: 2024-09-11, from: Dwell
+
+Your chance to tour homes featured by Dwell and experience remarkable architecture in person. 
+
+<https://www.dwell.com/article/dwell-open-house-los-angeles-home-tours-b0765923>
+
+---
+
+## AI Interior Design Apps That Actually Work
+
+date: 2024-09-10, from: Family Handyman Blog
+
+If you are adding a new chair to a room or planning an entire room redo, an interior design app can help visualize selections before you buy it. 
+
+<https://www.familyhandyman.com/article/ai-interior-design/>
+
+---
+
+## Pro Tips For Selecting the Best Outdoor Paint or Stain
+
+date: 2024-09-10, from: Family Handyman Blog
+
+Pick the right paint or stain for your project with these tips from a professional painter. 
+
+<https://www.familyhandyman.com/article/outdoor-paint-for-wood/>
+
+---
+
+## 5 Wine Growing Regions Every Oenophile Should Visit
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+The places to steal away to for prime wine tasting: These are the winners of the Sunset Travel Awards 2024 Wine Country Escapes category. 
+
+<https://www.sunset.com/travel/best-places-for-wine-tasting-2024>
+
+---
+
+## These Are the Top Wine Country Hotels
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+From inns to ranches, these are the best wine country hotels and properties from Mexico to Northern California. 
+
+<https://www.sunset.com/travel/best-wine-country-hotels-2024>
+
+---
+
+## These 6 Wellness Resorts Are the Ultimate Way to Reset
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+Need to unwind and get away? These spas and wellness resorts are the perfect spots for rest and relaxation. 
+
+<https://www.sunset.com/travel/best-spa-wellness-resorts-2024>
+
+---
+
+## These Transportation Services Will Make Your Next Trip Easier
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+From jets to shuttles to high-end tours, these are the best transportation services in the West for your next trip. 
+
+<https://www.sunset.com/travel/best-transportation-services-in-west-2024>
+
+---
+
+## From a Natural Wine Bar to a Historic Saloon, Here’s Where to Drink in the West Right Now
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+From the oldest bar in Nevada to a natural wine bar, these are the best places to enjoy a drink in the West. 
+
+<https://www.sunset.com/travel/best-bars-in-west-2024>
+
+---
+
+## Here’s Where to Eat in the West Right Now
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+On your next trip, book a table at these restaurants in destinations from Alaska to Baja. These are the winners of the Sunset Travel Awards. 
+
+<https://www.sunset.com/travel/best-restaurants-in-west-2024>
+
+---
+
+## Book a Treatment at These Ultra Relaxing Spas
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+Looking for a place to get away to rest and rejuvenate? Book a treatment at these relaxing wellness spas and centers in the West. 
+
+<https://www.sunset.com/travel/best-wellness-retreats-2024>
+
+---
+
+## Live Out Your Western Fantasies at These Rad Ranches
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+If you're obsessed with the Old West, you'll need to book a visit to these ranches that offer the true Western experience with luxury. 
+
+<https://www.sunset.com/travel/best-luxury-ranches-2024>
+
+---
+
+## Immerse Yourself in Nature at These Camps, Lodges, and Hotels
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+Fans of the outdoors and even those who aren't will appreciate a stay at these amazing nature resorts and hotels in the West. 
+
+<https://www.sunset.com/travel/best-nature-resorts-hotels-2024>
+
+---
+
+## 5 Outdoorsy Adventures to Book This Fall
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+Outdoor lovers, we found your next getaway. These best nature experiences will get you out there enjoying Mother Nature. 
+
+<https://www.sunset.com/travel/best-nature-experiences-in-west-2024>
+
+---
+
+## 5 Must-Visit Markets and Bakeries in the West
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+These are the best bakeries and markets for picking up a snack or an edible souvenir in the West. Shop there on your next trip. 
+
+<https://www.sunset.com/travel/best-markets-and-bakeries-in-west-2024>
+
+---
+
+## Treat Yourself to a Luxurious Stay at These High-End Hotels
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+Looking to splurge on your next trip? These luxury hotels and resorts in the West are worth it for incredible experiences. 
+
+<https://www.sunset.com/travel/best-luxury-hotels-2024>
+
+---
+
+## Book These Historic Hotels to Experience Next-Level Nostalgia
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+For your next getaway, book a stay at a hotel with lots of history and culture. These are the best historic hotels in the West. 
+
+<https://www.sunset.com/travel/best-historic-hotels-in-the-west-2024>
+
+---
+
+## These City Hotels Are the Epitome of Cool
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+When you want to stay right in the heart of the urban action, choose one of these winning downtown hotels. 
+
+<https://www.sunset.com/travel/best-city-hotels-2024>
+
+---
+
+## From Baja to Hawaii, These Are Our Favorite Coastal Retreats
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+From a Baja resort to an Oregon lodge, these are the Coastal Gems winners of The 2024 Sunset Travel Awards. 
+
+<https://www.sunset.com/travel/best-beach-resorts-2024>
+
+---
+
+## These Attractions Will Ensure Your Next Trip Will Be Far from Boring
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+In the West there are plenty of things to do and explore. From aquariums to national parks to botanic gardens, here's where to visit. 
+
+<https://www.sunset.com/travel/best-adventure-trips-in-west-2024>
+
+---
+
+## From an Iconic Beach Town to a Lakeside Getaway, These Destinations Will Appeal to Every Traveler
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+Need inspiration on where to go next? From an iconic beach town to a lakeside getaway, these spots should be on your list. 
+
+<https://www.sunset.com/travel/best-destinations-in-us-west-2024>
+
+---
+
+## 4 Stylish Ways to Earthquake-Proof Your Home’s Design
+
+date: 2024-09-10, from: Sunset Magazine - Living in the West
+
+You can't prevent earthquakes, but you can head off any damage. An interior designer shares her earthquake-proof decorating tips. 
+
+<https://www.sunset.com/home-garden/design/earthquake-proof-design-decor>
+
+---
+
+## I Tried the All-New Lovesac PillowSac Accent Chair, and Here’s My Honest Review
+
+date: 2024-09-10, from: Family Handyman Blog
+
+We tried the all-new LoveSac PillowSac Accent Chair to see what it’s actually like—here’s our unfiltered review. 
+
+<https://www.familyhandyman.com/article/lovesac-pillowsac-accent-chair-review/>
+
+---
+
+## Video — a peach of an orchard in the Northern California foothills
+
+date: 2024-09-10, from: Calfifornia Dept. Aggriculture blog
+
+As peach season continues in California, come with us to Placerville to visit Beals&#8217; Orchards to learn about peaches and other produce heading for Certified Farmers&#8217; Market as well as progressive water use to maintain a sustainable operation. 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28151>
+
+---
+
+## This $3M Los Angeles Midcentury Has Only Had One Owner
+
+date: 2024-09-10, from: Dwell
+
+Listed for the first time, the 1960 home comes with original stone walls, globe lights, and huge windows that frame its wooded surroundings. 
+
+<https://www.dwell.com/article/midcentury-home-la-canada-flintridge-los-angeles-real-estate-1157a474>
+
+---
+
+## How to Grow and Care for New Jersey Tea
+
+date: 2024-09-10, from: The Gardener's Path
+
+<p>Covered in fragrant flowers in spring to early summer, New Jersey tea is a low-maintenance shrub that thrives in dry, rocky locations where many species struggle. This North American native is a pollinator favorite, attracting bees, beetles, and butterflies to the garden. Learn how to grow New Jersey tea in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/grow-new-jersey-tea/">How to Grow and Care for New Jersey Tea</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/ornamentals/grow-new-jersey-tea/>
+
+---
+
+## Can Your Chicken Coop Thrive Without a Rooster?
+
+date: 2024-09-10, from: The Tiny Life blog
+
+<p>Do you need a rooster to have chickens? I’ll answer that question and discuss the pros and cons of keeping roosters in a coop with your hens.</p>
+<p>The post <a href="https://thetinylife.com/do-you-need-a-rooster-to-have-chickens/">Can Your Chicken Coop Thrive Without a Rooster?</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<https://thetinylife.com/do-you-need-a-rooster-to-have-chickens/>
 
 ---
 
@@ -299,6 +606,18 @@ The Denver designer creates pieces that capture a moment and act like "the cool 
 
 ---
 
+## City Chickens: The Ins And Outs Of Raising Urban Chickens
+
+date: 2024-09-10, from: The Tiny Life blog
+
+<p>Raising urban chickens is popular with urban homesteaders because it allows you to collect your own eggs, and it’s a great way to bring some rural charm to the big city. Contrary to what some believe, you don’t need acres of land and can enjoy the benefits of raising chickens in the city with a relatively small amount of space.</p>
+<p>The post <a href="https://thetinylife.com/raising-urban-chickens/">City Chickens: The Ins And Outs Of Raising Urban Chickens</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<https://thetinylife.com/raising-urban-chickens/>
+
+---
+
 ## Sunset.com Home Page
 
 date: 2024-09-10, from: Sunset Magazine - Living in the West
@@ -329,176 +648,6 @@ date: 2024-09-10, from: Yard Life blog
  
 
 <https://ownyardlife.com/54-types-of-birds-in-georgia-pictures-and-identification/>
-
----
-
-## Live Out Your Western Fantasies at These Rad Ranches
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-If you're obsessed with the Old West, you'll need to book a visit to these ranches that offer the true Western experience with luxury. 
-
-<https://www.sunset.com/travel/best-luxury-ranches-2024>
-
----
-
-## These Transportation Services Will Make Your Next Trip Easier
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-From jets to shuttles to high-end tours, these are the best transportation services in the West for your next trip. 
-
-<https://www.sunset.com/travel/best-transportation-services-in-west-2024>
-
----
-
-## These Attractions Will Ensure Your Next Trip Will Be Far from Boring
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-In the West there are plenty of things to do and explore. From aquariums to national parks to botanic gardens, here's where to visit. 
-
-<https://www.sunset.com/travel/best-adventure-trips-in-west-2024>
-
----
-
-## Book a Treatment at These Ultra Relaxing Spas
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-Looking for a place to get away to rest and rejuvenate? Book a treatment at these relaxing wellness spas and centers in the West. 
-
-<https://www.sunset.com/travel/best-wellness-retreats-2024>
-
----
-
-## From an Iconic Beach Town to a Lakeside Getaway, These Destinations Will Appeal to Every Traveler
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-Need inspiration on where to go next? From an iconic beach town to a lakeside getaway, these spots should be on your list. 
-
-<https://www.sunset.com/travel/best-destinations-in-us-west-2024>
-
----
-
-## 5 Wine Growing Regions Every Oenophile Should Visit
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-The places to steal away to for prime wine tasting: These are the winners of the Sunset Travel Awards 2024 Wine Country Escapes category. 
-
-<https://www.sunset.com/travel/best-places-for-wine-tasting-2024>
-
----
-
-## 5 Outdoorsy Adventures to Book This Fall
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-Outdoor lovers, we found your next getaway. These best nature experiences will get you out there enjoying Mother Nature. 
-
-<https://www.sunset.com/travel/best-nature-experiences-in-west-2024>
-
----
-
-## Treat Yourself to a Luxurious Stay at These High-End Hotels
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-Looking to splurge on your next trip? These luxury hotels and resorts in the West are worth it for incredible experiences. 
-
-<https://www.sunset.com/travel/best-luxury-hotels-2024>
-
----
-
-## Book These Historic Hotels to Experience Next-Level Nostalgia
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-For your next getaway, book a stay at a hotel with lots of history and culture. These are the best historic hotels in the West. 
-
-<https://www.sunset.com/travel/best-historic-hotels-in-the-west-2024>
-
----
-
-## These Are the Top Wine Country Hotels
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-From inns to ranches, these are the best wine country hotels and properties from Mexico to Northern California. 
-
-<https://www.sunset.com/travel/best-wine-country-hotels-2024>
-
----
-
-## 5 Must-Visit Markets and Bakeries in the West
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-These are the best bakeries and markets for picking up a snack or an edible souvenir in the West. Shop there on your next trip. 
-
-<https://www.sunset.com/travel/best-markets-and-bakeries-in-west-2024>
-
----
-
-## From a Natural Wine Bar to a Historic Saloon, Here’s Where to Drink in the West Right Now
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-From the oldest bar in Nevada to a natural wine bar, these are the best places to enjoy a drink in the West. 
-
-<https://www.sunset.com/travel/best-bars-in-west-2024>
-
----
-
-## Here’s Where to Eat in the West Right Now
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-On your next trip, book a table at these restaurants in destinations from Alaska to Baja. These are the winners of the Sunset Travel Awards. 
-
-<https://www.sunset.com/travel/best-restaurants-in-west-2024>
-
----
-
-## Immerse Yourself in Nature at These Camps, Lodges, and Hotels
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-Fans of the outdoors and even those who aren't will appreciate a stay at these amazing nature resorts and hotels in the West. 
-
-<https://www.sunset.com/travel/best-nature-resorts-hotels-2024>
-
----
-
-## These City Hotels Are the Epitome of Cool
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-When you want to stay right in the heart of the urban action, choose one of these winning downtown hotels. 
-
-<https://www.sunset.com/travel/best-city-hotels-2024>
-
----
-
-## These 6 Wellness Resorts Are the Ultimate Way to Reset
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-Need to unwind and get away? These spas and wellness resorts are the perfect spots for rest and relaxation. 
-
-<https://www.sunset.com/travel/best-spa-wellness-resorts-2024>
-
----
-
-## From Baja to Hawaii, These Are Our Favorite Coastal Retreats
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-From a Baja resort to an Oregon lodge, these are the Coastal Gems winners of The 2024 Sunset Travel Awards. 
-
-<https://www.sunset.com/travel/best-beach-resorts-2024>
 
 ---
 
