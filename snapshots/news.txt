@@ -191,8 +191,6 @@ https://tech.caltech.edu/index.xml "~The California Tech (Caltech student paper)
 https://text-message.blogs.archives.gov/feed/ "~National Archives, Text Message blog"
 https://thecatalinaislander.com/feed/ "~Catalina Islander"
 https://themarkup.org/feeds/rss.xml "~The Markup blog"
-https://theoccidentalnews.com/feed "~The Occidental News (Occidental College Student Newspaper)"
-https://theodorepayne.org/feed/ "~Theodore Paine Foundation"
 https://thesephist.com/index.xml "~The Sephist blog"
 https://thisisthesqueeze.substack.com/feed "~The Squeeze"
 https://thorstenball.com/atom.xml "~Thurston Ball blog"
