@@ -1,11 +1,540 @@
 ---
 title: socal north
-updated: 2024-09-11 08:17:13
+updated: 2024-09-12 06:44:30
 ---
 
 # socal north
 
-(date: 2024-09-11 08:17:13)
+(date: 2024-09-12 06:44:30)
+
+---
+
+## Santa Ana Measure DD: Allowing noncitizens to vote in local Santa Ana elections
+
+date: 2024-09-12, updated: 2024-09-12, from: The LAist
+
+The measure would amend Santa Ana's city charter to allow noncitizen residents to vote in municipal elections. 
+
+<https://laist.com/news/politics/2024-election-california-general-santa-ana-measure-dd-noncitizen-voting>
+
+---
+
+## Is the future of farming inside? We visit Compton’s indoor farm to find out
+
+date: 2024-09-12, updated: 2024-09-12, from: The LAist
+
+One of the world’s most high-tech indoor vertical farms is growing leafy greens in Compton. 
+
+<https://laist.com/news/climate-environment/compton-indoor-farm-plenty-vertical-tech>
+
+---
+
+## SoCal wildfires are blanketing the region in smoke and ash. Is it time to mask up?
+
+date: 2024-09-12, updated: 2024-09-12, from: The LAist
+
+Parts of the Southland are experiencing poor air quality because of raging wildfires. Long-term exposure could negatively affect your health. 
+
+<https://laist.com/news/health/california-wildfire-smoke-ash-mask-guide-n95-respirator>
+
+---
+
+## Santa Ana Mayor
+
+date: 2024-09-12, updated: 2024-09-12, from: The LAist
+
+Incumbent Mayor Valerie Amezcua is running for reelection. She is being challenged by councilmember Benjamin Vazquez. 
+
+<https://laist.com/news/politics/2024-election-california-general-santa-ana-mayor>
+
+---
+
+## Classifieds – September 12, 2024
+
+date: 2024-09-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/12/classifieds-september-12-024/">Classifieds &#8211; September 12, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/12/classifieds-september-12-024/>
+
+---
+
+## Stan culture must be critically examined
+
+date: 2024-09-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Holding your most favorite artists accountable does not make you a fake fan.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/12/stan-culture-must-be-critically-examined/">Stan culture must be critically examined</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/12/stan-culture-must-be-critically-examined/>
+
+---
+
+## Student Health discusses overdose prevention, education
+
+date: 2024-09-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Campus programs promote prevention and intervention education in overdose emergencies.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/12/student-health-discusses-overdose-prevention-education/">Student Health discusses overdose prevention, education</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/12/student-health-discusses-overdose-prevention-education/>
+
+---
+
+## The gradual ‘illumination’ of DreamWorks
+
+date: 2024-09-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>“The Wild Robot” is coming in just two weeks, and it subverts a troubling trend for the stalwart animation studio.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/12/the-gradual-illumination-of-dreamworks/">The gradual ‘illumination’ of DreamWorks</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/12/the-gradual-illumination-of-dreamworks/>
+
+---
+
+## Moreton Fig reopens and rebrands as a cafe
+
+date: 2024-09-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Moreton Fig partnered with Equator to bring students coffee in brand new cafe.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/12/214839/">Moreton Fig reopens and rebrands as a cafe</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/12/214839/>
+
+---
+
+## My dark horses for each NFL award
+
+date: 2024-09-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Here are the unlikely players I believe have an outside chance at bringing home some hardware.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/12/my-dark-horses-for-each-nfl-award/">My dark horses for each NFL award</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/12/my-dark-horses-for-each-nfl-award/>
+
+---
+
+## Weekend viewing guide: Bye to USC football
+
+date: 2024-09-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>With Miller Moss and the Trojans on a bye week, you can still get your sports fill.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/12/weekend-viewing-guide-bye-to-usc-football/">Weekend viewing guide: Bye to USC football</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/12/weekend-viewing-guide-bye-to-usc-football/>
+
+---
+
+## September’s must-see events and exhibits
+
+date: 2024-09-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Check out these upcoming celebrations of the arts and entertainment on campus.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/12/septembers-must-see-events-and-exhibits/">September’s must-see events and exhibits</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/12/septembers-must-see-events-and-exhibits/>
+
+---
+
+## Bruxie finds a roost in USC Village
+
+date: 2024-09-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p> Chicken and waffles will greet students' taste buds in USC Village later in the fall.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/12/bruxie-finds-a-roost-in-usc-village/">Bruxie finds a roost in USC Village</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/12/bruxie-finds-a-roost-in-usc-village/>
+
+---
+
+## ‘Third places’ should be for all residents
+
+date: 2024-09-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC and Los Angeles need to reframe their ideas of city planning and community.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/12/third-places-should-be-for-all-residents/">‘Third places’ should be for all residents</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/12/third-places-should-be-for-all-residents/>
+
+---
+
+## Here are the 3 big Southern California fires we're watching closely
+
+date: 2024-09-12, updated: 2024-09-12, from: The LAist
+
+Gov. Gavin Newsom has declared states of emergency for areas under siege from the Bridge, Airport and Line fires. All together, they've burned more than 100,000 acres. 
+
+<https://laist.com/news/climate-environment/wildfires-southern-california-bridge-fire-airport-fire-line-fire-los-angeles-orange-county>
+
+---
+
+## UCLA football records lackluster run game against Hawaiʻi, hopes to bounce back
+
+date: 2024-09-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+What was once a reliable source of yards and clock control has proved a yawning pitfall for the Bruins.
+In UCLA football&#8217;s season opener against Hawai&#699;i on Aug. 
+
+<https://dailybruin.com/2024/09/11/ucla-football-records-lackluster-run-game-against-hawaii-hopes-to-bounce-back/>
+
+---
+
+## Ciudad de San Fernando ‘Cierra la Válvula’ y Vuelve a la Independencia Hídrica
+
+date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>En la mañana de uno de los días más calurosos del año, la ciudad de San Fernando celebró el regreso a sus pozos de agua después de dos años de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/11/ciudad-de-san-fernando-cierra-la-valvula-y-vuelve-a-la-independencia-hidrica/">Ciudad de San Fernando ‘Cierra la Válvula’ y Vuelve a la Independencia Hídrica</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/11/ciudad-de-san-fernando-cierra-la-valvula-y-vuelve-a-la-independencia-hidrica/>
+
+---
+
+## Metro Celebra Subvención de Casi $900 Millones para Proyecto de Tren Ligero del Este SFV
+
+date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="657" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240906_163254378-scaled-e1726110619738.jpg?fit=1024%2C657&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240906_163254378-scaled-e1726110619738.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240906_163254378-scaled-e1726110619738.jpg?resize=300%2C192&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240906_163254378-scaled-e1726110619738.jpg?resize=1024%2C657&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240906_163254378-scaled-e1726110619738.jpg?resize=768%2C493&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240906_163254378-scaled-e1726110619738.jpg?resize=1536%2C985&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240906_163254378-scaled-e1726110619738.jpg?resize=1200%2C770&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240906_163254378-scaled-e1726110619738.jpg?resize=1568%2C1006&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240906_163254378-scaled-e1726110619738.jpg?resize=400%2C257&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240906_163254378-scaled-e1726110619738.jpg?resize=706%2C453&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240906_163254378-scaled-e1726110619738.jpg?fit=1024%2C657&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La Autoridad de Transporte Metropolitano de Los Ángeles (Metro, por sus siglas en inglés) recibió un importante impulso en fondos federales por una suma de $893 millones para la finalización [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/11/metro-celebra-subvencion-de-casi-900-millones-para-proyecto-de-tren-ligero-del-este-sfv/">Metro Celebra Subvención de Casi $900 Millones para Proyecto de Tren Ligero del Este SFV</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/11/metro-celebra-subvencion-de-casi-900-millones-para-proyecto-de-tren-ligero-del-este-sfv/>
+
+---
+
+## Horóscopo
+
+date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Hay un misterio por resolver esta semana. Te lleva a través de una variedad de estados de ánimo [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/11/horoscopo-180/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/11/horoscopo-180/>
+
+---
+
+## EVENTOS Locales – Semana de 12 de septiembre, 2024
+
+date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Septiembre 13 LA VACAcicleta Septiembre Proyección de Cine Plaza Del Valle 8610 Van Nuys Blvd. Panorama City 7:30 p.m. – 9 p.m. Únase a nosotros en la próxima proyección [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/11/eventos-locales-semana-de-12-de-septiembre-2024/">EVENTOS Locales &#8211; Semana de 12 de septiembre, 2024</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/11/eventos-locales-semana-de-12-de-septiembre-2024/>
+
+---
+
+## Los Residentes de Sylmar Presentan una Demanda Contra el Vertedero de Sunshine Canyon Debido a Los Gases Tóxicos
+
+date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="597" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?fit=1024%2C597&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=300%2C175&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=1024%2C597&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=768%2C448&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=1536%2C895&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=1200%2C700&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=1568%2C914&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=400%2C233&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=706%2C412&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?fit=1024%2C597&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Esta semana, se presentó una demanda contra el operador del vertedero de Sunshine Canyon en Sylmar en nombre de los residentes que afirman estar sujetos a los gases tóxicos de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/11/los-residentes-de-sylmar-presentan-una-demanda-contra-el-vertedero-de-sunshine-canyon-debido-a-los-gases-toxicos/">Los Residentes de Sylmar Presentan una Demanda Contra el Vertedero de Sunshine Canyon Debido a Los Gases Tóxicos</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/11/los-residentes-de-sylmar-presentan-una-demanda-contra-el-vertedero-de-sunshine-canyon-debido-a-los-gases-toxicos/>
+
+---
+
+## Organizaciones de LACo Lanzan Campaña por una Medida Electoral para Recaudar Fondos para Servicios Para Personas Sin Hogar
+
+date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="839" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?fit=839%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=246%2C300&amp;ssl=1 246w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=839%2C1024&amp;ssl=1 839w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=768%2C937&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=1258%2C1536&amp;ssl=1 1258w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=1200%2C1465&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=400%2C488&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=706%2C862&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?fit=839%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Para obtener apoyo para una medida electoral que financiaría viviendas asequibles y la prevención de la falta de vivienda en el condado de Los Ángeles, líderes comunitarios y proveedores de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/11/organizaciones-de-laco-lanzan-campana-por-una-medida-electoral-para-recaudar-fondos-para-servicios-para-personas-sin-hogar/">Organizaciones de LACo Lanzan Campaña por una Medida Electoral para Recaudar Fondos para Servicios Para Personas Sin Hogar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/11/organizaciones-de-laco-lanzan-campana-por-una-medida-electoral-para-recaudar-fondos-para-servicios-para-personas-sin-hogar/>
+
+---
+
+## La Contaminación por el Potente Gas Metano se Dispara y la Culpa la Tiene el Ser Humano
+
+date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Seth Borenstein Associated Press La cantidad y la proporción de metano —un potente gas que atrapa el calor y que los seres humanos arrojan a la atmósfera— está en aumento, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/11/la-contaminacion-por-el-potente-gas-metano-se-dispara-y-la-culpa-la-tiene-el-ser-humano/">La Contaminación por el Potente Gas Metano se Dispara y la Culpa la Tiene el Ser Humano</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/11/la-contaminacion-por-el-potente-gas-metano-se-dispara-y-la-culpa-la-tiene-el-ser-humano/>
+
+---
+
+## Cárdenas Entrega $2.75 Millones a Pacoima Beautiful para Adquirir y Hacer Crecer Casa Esperanza
+
+date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=1200%2C903&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=706%2C531&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El congresista Tony Cárdenas ha asegurado $2.75 millones en fondos para proyectos comunitarios de Pacoima Beautiful para la compra, renovación y expansión de Casa Esperanza, un centro comunitario sin fines [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/11/cardenas-entrega-2-75-millones-a-pacoima-beautiful-para-adquirir-y-hacer-crecer-casa-esperanza/">Cárdenas Entrega $2.75 Millones a Pacoima Beautiful para Adquirir y Hacer Crecer Casa Esperanza</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/11/cardenas-entrega-2-75-millones-a-pacoima-beautiful-para-adquirir-y-hacer-crecer-casa-esperanza/>
+
+---
+
+## La Ópera de Los Ángeles Llegará al Parque El Cariso en Sylmar el 21 de Septiembre
+
+date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/LAOpera_OffGrand2018_148-scaled-e1726109586496.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/LAOpera_OffGrand2018_148-scaled-e1726109586496.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/LAOpera_OffGrand2018_148-scaled-e1726109586496.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/LAOpera_OffGrand2018_148-scaled-e1726109586496.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/LAOpera_OffGrand2018_148-scaled-e1726109586496.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Se invita a los miembros de la comunidad de todas las edades a traer sillas de jardín y canastas de picnic al Parque El Cariso el 21 de septiembre para [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/11/la-opera-de-los-angeles-llegara-al-parque-el-cariso-en-sylmar-el-21-de-septiembre/">La Ópera de Los Ángeles Llegará al Parque El Cariso en Sylmar el 21 de Septiembre</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/11/la-opera-de-los-angeles-llegara-al-parque-el-cariso-en-sylmar-el-21-de-septiembre/>
+
+---
+
+## Discovery Cube Celebra la Neurodiversidad con Mañanas Sensorialmente Amigables
+
+date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DC-Sensory.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DC-Sensory.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DC-Sensory.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DC-Sensory.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DC-Sensory.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DC-Sensory.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DC-Sensory.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DC-Sensory.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DC-Sensory.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DC-Sensory.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DC-Sensory.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DC-Sensory.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DC-Sensory.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Todos los días, las familias de Los Ángeles y el condado de Orange llevan a sus hijos a Discovery Cube para aprender más sobre ciencia, tecnología y el mundo que [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/11/discovery-cube-celebra-la-neurodiversidad-con-mananas-sensorialmente-amigables/">Discovery Cube Celebra la Neurodiversidad con Mañanas Sensorialmente Amigables</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/11/discovery-cube-celebra-la-neurodiversidad-con-mananas-sensorialmente-amigables/>
+
+---
+
+## UCLA students share mixed reactions, thoughts about 2024 presidential debate
+
+date: 2024-09-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA students shared mixed reactions to Tuesday&#8217;s presidential debate.
+Vice President Kamala Harris and former President Donald Trump met for their first and potentially only presidential debate Tuesday night, nearly two months since President Joe Biden&#8217;s exit from the race. 
+
+<https://dailybruin.com/2024/09/11/ucla-students-share-mixed-reactions-thoughts-about-2024-presidential-debate/>
+
+---
+
+## UCLA, Duke study finds detailed journalism affects local infrastructure spending
+
+date: 2024-09-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+A UCLA and Duke University study found that reading high-information local journalism is correlated with support for funding local infrastructure.
+The study, conducted by Megan Mullin – a professor of public policy at UCLA – and Andrew Trexler – a doctoral candidate at Duke University – illustrates how local news can contribute positively to the health of infrastructure, said Trexler. 
+
+<https://dailybruin.com/2024/09/11/ucla-duke-study-finds-detailed-journalism-affects-local-infrastructure-spending/>
+
+---
+
+## USU to host Matador Nights
+
+date: 2024-09-11, from: The Sundail (CSUN Student Newspaper)
+
+The University Student Union will host their annual Matador Nights event on Friday, Sept. 13 with an ‘80s theme. The event is free for all students to attend. Students can... 
+
+<https://sundial.csun.edu/184655/news/usu-to-host-matador-nights/>
+
+---
+
+## UCLA women’s volleyball prepares for Fight in the Fort matchups, No. 25 TCU
+
+date: 2024-09-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins&#8217; most recent road trip landed the team its first loss of the season and knocked them from the top 25. 
+Now, they&#8217;re back on the prowl. 
+
+<https://dailybruin.com/2024/09/11/ucla-womens-volleyball-prepares-for-fight-in-the-fort-matchups-no-25-tcu/>
+
+---
+
+## Concert review: Clairo charms audiences with intimate ambience, hits across her career
+
+date: 2024-09-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+Clairo charmed Los Angeles like it was “Second Nature&#8221; last night.
+On Tuesday, the bedroom pop artist greeted an exuberant crowd for the fourth of her five shows at The Fonda Theatre in Hollywood. 
+
+<https://dailybruin.com/2024/09/11/concert-review-clairo-charms-audiences-with-intimate-ambience-hits-across-her-career/>
+
+---
+
+## Boba, fridges and ice cream: the Tiger Cooler gets a makeover
+
+date: 2024-09-11, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>This fall, Occidental’s Tiger Cooler, one of the campus’s two dining facilities, underwent changes in their food and beverage options, as well as hours of operation. According to Monica Jones, the Food Services Manager of the Cooler, one of the many changes was the removal of the cafe’s espresso machine. Jones said that the campus&#8217; [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/09/11/boba-fridges-and-ice-cream-the-tiger-cooler-gets-a-makeover-2/2912584">Boba, fridges and ice cream: the Tiger Cooler gets a makeover</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/09/11/boba-fridges-and-ice-cream-the-tiger-cooler-gets-a-makeover-2/2912584>
+
+---
+
+## Opinion: WEIRD is a weird term
+
+date: 2024-09-11, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>WEIRD is an acronym that stands for a specific demographic that is Western, Educated, Industrialized, Rich and Democratic. Everywhere, and especially in academia, the term is a buzzword that critiques the overwhelming scholarly focus on said demographic. Originally introduced in 2010 by Joseph Henrich, the current Ruth Moore Professor of Human Evolutionary Biology at Harvard [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/opinions/2024/09/11/opinion-weird-is-a-weird-term/2912568">Opinion: WEIRD is a weird term</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/opinions/2024/09/11/opinion-weird-is-a-weird-term/2912568>
+
+---
+
+## Opinion: Why the United States must not treat Israel differently
+
+date: 2024-09-11, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>During the &#8220;The United States-Israeli Security Alliance: A Conversation with an Internal Critic&#8221; event held Sept. 3, former Director of Bureau on Political Military Affairs at the U.S. State Department Josh Paul highlighted that while Israel’s relationship with the U.S. is described as “ironclad,” Taiwan is considered merely “rock-solid.” The difference speaks volumes about how [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/opinions/2024/09/11/opinion-why-the-united-states-must-not-treat-israel-differently/2912577">Opinion: Why the United States must not treat Israel differently</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/opinions/2024/09/11/opinion-why-the-united-states-must-not-treat-israel-differently/2912577>
+
+---
+
+## Athletes of the Week: Andrew Notter and Jenna LeNay continue their winning streak
+
+date: 2024-09-11, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Andrew Notter Occidental men&#8217;s soccer played against Willamette resulting in a 4-1 victory Sept. 1. Andrew Notter (senior) scored two goals contributing to Occidental’s success. Notter said his passion for soccer comes from his father, who grew up playing the sport. “I guess I just wanted to follow in his footsteps a little bit. It [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/09/11/athletes-of-the-week-andrew-notter-and-jenna-lenay-continue-their-winning-streak/2912578">Athletes of the Week: Andrew Notter and Jenna LeNay continue their winning streak</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/sports/2024/09/11/athletes-of-the-week-andrew-notter-and-jenna-lenay-continue-their-winning-streak/2912578>
+
+---
+
+## Students get Narcan in welcome bags, new policy from college to reduce harm
+
+date: 2024-09-11, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>At the beginning of the school year, Occidental students returning to their dorms on campus were greeted by a tote bag containing various supplies, such as fentanyl test strips and naloxone nasal spray (sold under the brand name Narcan). According to an email sent to the student body Aug. 20, these bags are part of a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/09/11/students-get-narcan-in-welcome-bags-new-policy-from-college-to-reduce-harm-2/2912601">Students get Narcan in welcome bags, new policy from college to reduce harm</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/09/11/students-get-narcan-in-welcome-bags-new-policy-from-college-to-reduce-harm-2/2912601>
+
+---
+
+## Two-time Academy Award winner and lifelong activist Jane Fonda and radio journalist Greg Dalton ’86 hold climate conversation at Occidental
+
+date: 2024-09-11, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Jane Fonda, two-time Academy Award-winning actress and life-long activist, and Greg Dalton &#8217;86, founder of the radio program Climate One, will be in conversation at Thorne Hall Oct. 1 to discuss Fonda’s life-long commitment to activism and her recent strides in advocating for environmental justice. Their conversation will be facilitated by Occidental student Emma Galbraith [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/09/11/two-time-academy-award-winner-and-lifelong-activist-jane-fonda-and-radio-journalist-greg-dalton-86-hold-climate-conversation-at-occidental/2912612">Two-time Academy Award winner and lifelong activist Jane Fonda and radio journalist Greg Dalton &#8217;86 hold climate conversation at Occidental</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/09/11/two-time-academy-award-winner-and-lifelong-activist-jane-fonda-and-radio-journalist-greg-dalton-86-hold-climate-conversation-at-occidental/2912612>
+
+---
+
+## Campus copes with heatwave; newly installed AC systems provide relief
+
+date: 2024-09-11, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Friday Sept. 6, Eddie Dong (senior) laid down with a book at the Del Mendel Aquatics Center, seeking respite from the unrelenting heat wave that had struck Los Angeles. “We’re having four straight days of triple-digit temperatures,” Dong said. “I’m at the pool to cool off.” Both Occidental College and Los Angeles County announced an [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/features/2024/09/11/campus-copes-with-heatwave-newly-installed-ac-systems-provide-relief/2912560">Campus copes with heatwave; newly installed AC systems provide relief</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/features/2024/09/11/campus-copes-with-heatwave-newly-installed-ac-systems-provide-relief/2912560>
+
+---
+
+## Eagle Rock’s Corrigan takes on Olympics
+
+date: 2024-09-11, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Eagle Rock native James Corrigan recently participated in the 3000 meter steeplechase at the 2024 Paris Olympics. Corrigan placed third at the US Olympic Trials, and achieved a personal record (PR) of nearly 8 seconds to qualify for the games. The steeplechase is a 7.5 lap race with four barriers and one water jump per [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/09/11/eagle-rocks-corrigan-takes-on-olympics/2912619">Eagle Rock&#8217;s Corrigan takes on Olympics</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/community/2024/09/11/eagle-rocks-corrigan-takes-on-olympics/2912619>
+
+---
+
+## Students get Narcan in welcome bags, new policy from college to reduce harm
+
+date: 2024-09-11, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>At the beginning of the school year, Occidental students returning to their dorms on campus were greeted by a tote bag containing various supplies, such as fentanyl test strips and naloxone nasal spray (sold under the brand name Narcan). According to an email sent to the student body Aug. 20, these bags are part of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/09/11/students-get-narcan-in-welcome-bags-new-policy-from-college-to-reduce-harm/2912622">Students get Narcan in welcome bags, new policy from college to reduce harm</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/09/11/students-get-narcan-in-welcome-bags-new-policy-from-college-to-reduce-harm/2912622>
+
+---
+
+## Margaret Cho and Melissa Villaseñor host a night of comedy at Occidental
+
+date: 2024-09-11, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>A line of people poured out of Thorne Hall as students, faculty and staff awaited “Laugh Your Class Off,” a night of stand-up comedy at Occidental Sept. 7. The show hosted comedians Margaret Cho and Melissa Villaseñor, as well as three Occidental alumni — David Murphy &#8217;02, Paul “PK” Kim &#8217;98 and Eddie Gorton &#8217;01 — as openers. Cho, who has been a pillar in [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/09/11/margaret-cho-and-melissa-villasenor-host-a-night-of-comedy-at-occidental/2912564">Margaret Cho and Melissa Villaseñor host a night of comedy at Occidental</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/culture/2024/09/11/margaret-cho-and-melissa-villasenor-host-a-night-of-comedy-at-occidental/2912564>
+
+---
+
+## A global lesson through drum beats
+
+date: 2024-09-11, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce College’s music department had its first Associated Student Organization (ASO) concert of the new school year on Sept. 2 in the Performing Arts Building,</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/11/a-global-lesson-through-drum-beats/">A global lesson through drum beats</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/11/a-global-lesson-through-drum-beats/?utm_source=rss&utm_medium=rss&utm_campaign=a-global-lesson-through-drum-beats>
+
+---
+
+## From blueprint to finishing touches
+
+date: 2024-09-11, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce College is transforming a 20-year dream into reality by constructing a new cutting-edge building for the math, psychology and computer science departments, setting the</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/11/from-blueprint-to-finishing-touches/">From blueprint to finishing touches</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/11/from-blueprint-to-finishing-touches/?utm_source=rss&utm_medium=rss&utm_campaign=from-blueprint-to-finishing-touches>
+
+---
+
+## UCLA men’s soccer ties with Denver in scoreless matchup
+
+date: 2024-09-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sometimes two teams can&#8217;t be more evenly matched.
+No. 6 UCLA men&#8217;s soccer (2-1-2) tied No. 3 Denver (3-0-3) in a scoreless draw Monday night at Wallis Annenberg Stadium. 
+
+<https://dailybruin.com/2024/09/11/ucla-mens-soccer-ties-with-denver-in-scoreless-matchup/>
+
+---
+
+## Music department secures equipment upgrade
+
+date: 2024-09-11, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The San Fernando Valley has another Steinway school, thanks to a partnership between Pierce College and the musical instrument company. By becoming a Steinway school,</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/11/music-department-secures-equipment-upgrade/">Music department secures equipment upgrade</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/11/music-department-secures-equipment-upgrade/?utm_source=rss&utm_medium=rss&utm_campaign=music-department-secures-equipment-upgrade>
 
 ---
 

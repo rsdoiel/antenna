@@ -1,11 +1,137 @@
 ---
 title: central coast
-updated: 2024-09-11 08:17:16
+updated: 2024-09-12 06:44:33
 ---
 
 # central coast
 
-(date: 2024-09-11 08:17:16)
+(date: 2024-09-12 06:44:33)
+
+---
+
+## Wall Flowers
+
+date: 2024-09-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082424-POD-Claudia-Lash.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Wall flowers." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082424-POD-Claudia-Lash.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082424-POD-Claudia-Lash.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082424-POD-Claudia-Lash.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082424-POD-Claudia-Lash.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082424-POD-Claudia-Lash.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082424-POD-Claudia-Lash.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082424-POD-Claudia-Lash.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082424-POD-Claudia-Lash.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082424-POD-Claudia-Lash.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082424-POD-Claudia-Lash.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082424-POD-Claudia-Lash.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082424-POD-Claudia-Lash.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082424-POD-Claudia-Lash.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/wall-flowers/">Wall Flowers</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/wall-flowers/>
+
+---
+
+## Alice JoeAnn Branquinho of Nipomo, 1943-2024
+
+date: 2024-09-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="400" height="400" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/400-JoeAnn-Branquinho.jpg?fit=400%2C400&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="JoeAnn Branquinho was a cattlewoman, a cowgirl and competitive team roper who loved hunting, the outdoors and cooking." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/400-JoeAnn-Branquinho.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/400-JoeAnn-Branquinho.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/400-JoeAnn-Branquinho.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/400-JoeAnn-Branquinho.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/400-JoeAnn-Branquinho.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/400-JoeAnn-Branquinho.jpg?fit=400%2C400&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Alice JoeAnn Branquinho, 81, passed away peacefully September 7, 2024, with her family by her side. She was born to Grace Ellinor and John A. Branquinho on June 20, 1943, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/alice-joeann-branquinho-of-nipomo-1943-2024/">Alice JoeAnn Branquinho of Nipomo, 1943-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/alice-joeann-branquinho-of-nipomo-1943-2024/>
+
+---
+
+## Barbara Mae Urbanske of Santa Maria, 1932-2024
+
+date: 2024-09-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="500" height="500" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/500-Barbara-Urbanske-Barbara-1920w.webp?fit=500%2C500&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Barbara Urbanske, a longtime Santa Maria resident and community volunteer, was fond of taking her grandchildren out for ice cream and getting her hair done on Fridays." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/500-Barbara-Urbanske-Barbara-1920w.webp?w=500&amp;ssl=1 500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/500-Barbara-Urbanske-Barbara-1920w.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/500-Barbara-Urbanske-Barbara-1920w.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/500-Barbara-Urbanske-Barbara-1920w.webp?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/500-Barbara-Urbanske-Barbara-1920w.webp?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/500-Barbara-Urbanske-Barbara-1920w.webp?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/500-Barbara-Urbanske-Barbara-1920w.webp?fit=500%2C500&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Barbara Mae Urbanske, 92, of Santa Maria, California, passed away on August 19, 2024. She was born on July 23, 1932, in Trenton, New Jersey. She moved to Arlington, Virginia, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/barbara-mae-urbanske-of-santa-maria-1932-2024/">Barbara Mae Urbanske of Santa Maria, 1932-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/barbara-mae-urbanske-of-santa-maria-1932-2024/>
+
+---
+
+## District Elections for Santa Barbara Council Give a Voice to Diverse Field of Candidates
+
+date: 2024-09-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-District-Elections-Graphic-Revised-New-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-District-Elections-Graphic-Revised-New-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-District-Elections-Graphic-Revised-New-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-District-Elections-Graphic-Revised-New-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-District-Elections-Graphic-Revised-New-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-District-Elections-Graphic-Revised-New-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-District-Elections-Graphic-Revised-New-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-District-Elections-Graphic-Revised-New-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-District-Elections-Graphic-Revised-New-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-District-Elections-Graphic-Revised-New-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-District-Elections-Graphic-Revised-New-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>District elections have arrived. The Nov. 5 election features two high-stakes, competitive contests in Districts 1 and 3 for the Santa Barbara City Council. Five Mexican-American candidates are vying for [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/district-elections-for-santa-barbara-council-give-a-voice-to-diverse-field-of-candidates/">District Elections for Santa Barbara Council Give a Voice to Diverse Field of Candidates</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/district-elections-for-santa-barbara-council-give-a-voice-to-diverse-field-of-candidates/>
+
+---
+
+## San Marcos Girls Flag Football Defeats Santa Barbara High in Big Game Rivalry, 24-8
+
+date: 2024-09-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sb-g-flag.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sb-g-flag.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sb-g-flag.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sb-g-flag.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sb-g-flag.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sb-g-flag.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sb-g-flag.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sb-g-flag.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sb-g-flag.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sb-g-flag.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sb-g-flag.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A dominant first-half performance powered San Marcos to a 24-8 victory over Santa Barbara High in the girls flag football edition of this year’s Big Game Rivalry on Wednesday at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/san-marcos-girls-flag-football-defeats-santa-barbara-high-in-big-game-rivalry-24-8/">San Marcos Girls Flag Football Defeats Santa Barbara High in Big Game Rivalry, 24-8</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/san-marcos-girls-flag-football-defeats-santa-barbara-high-in-big-game-rivalry-24-8/>
+
+---
+
+## County Supervisors Create Committee to Focus on Farmworker Wages, Conditions
+
+date: 2024-09-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/9112024-Farmworkers-Wage-DG-02.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Daniel Segura, a community organizer for the Central Coast Alliance United for a Sustainable Economy, or CAUSE, asks the Santa Barbara County Board of Supervisors on Tuesday to consider the proposed committee for farm wages." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/9112024-Farmworkers-Wage-DG-02.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/9112024-Farmworkers-Wage-DG-02.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/9112024-Farmworkers-Wage-DG-02.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/9112024-Farmworkers-Wage-DG-02.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/9112024-Farmworkers-Wage-DG-02.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/9112024-Farmworkers-Wage-DG-02.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/9112024-Farmworkers-Wage-DG-02.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/9112024-Farmworkers-Wage-DG-02.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/9112024-Farmworkers-Wage-DG-02.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/9112024-Farmworkers-Wage-DG-02.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Residents from across Santa Barbara County gathered to express frustration and support for a committee that would explore establishing a higher minimum wage for farmworkers. The item was proposed by [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/county-supervisors-create-committee-to-focus-on-farmworker-wages-conditions/">County Supervisors Create Committee to Focus on Farmworker Wages, Conditions</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/county-supervisors-create-committee-to-focus-on-farmworker-wages-conditions/>
+
+---
+
+## Santa Barbara County Remembers 9/11 on 23rd Anniversary
+
+date: 2024-09-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-9-11-memorial-notre-dame-flags-rc.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Students, staff and parents placed about 3,000 flags around the outside of Notre Dame School to recognize the lives lost on Sept. 11, 2001." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-9-11-memorial-notre-dame-flags-rc.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-9-11-memorial-notre-dame-flags-rc.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-9-11-memorial-notre-dame-flags-rc.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-9-11-memorial-notre-dame-flags-rc.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-9-11-memorial-notre-dame-flags-rc.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-9-11-memorial-notre-dame-flags-rc.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-9-11-memorial-notre-dame-flags-rc.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-9-11-memorial-notre-dame-flags-rc.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-9-11-memorial-notre-dame-flags-rc.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-9-11-memorial-notre-dame-flags-rc.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-9-11-memorial-notre-dame-flags-rc.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-9-11-memorial-notre-dame-flags-rc.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-9-11-memorial-notre-dame-flags-rc.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-9-11-memorial-notre-dame-flags-rc.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091124-9-11-memorial-notre-dame-flags-rc.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>On the 23rd anniversary of the Sept. 11 terrorist attacks, Santa Barbara residents and first responders took time to remember people who were killed in the 2001 attacks and sacrificed [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-county-remembers-9-11-on-23rd-anniversary/">Santa Barbara County Remembers 9/11 on 23rd Anniversary</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-county-remembers-9-11-on-23rd-anniversary/>
+
+---
+
+## Coroner IDs Woman Who Died in Jump From Stearns Wharf
+
+date: 2024-09-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara County Coroner’s Bureau has identified the woman who died after reportedly jumping off Stearns Wharf on Sept. 3.   Raquel Zick of the Sheriff&#8217;s Office said the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/coroner-names-woman-who-died-in-jump-from-stearns-wharf-in-santa-barbara/">Coroner IDs Woman Who Died in Jump From Stearns Wharf</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/coroner-names-woman-who-died-in-jump-from-stearns-wharf-in-santa-barbara/>
+
+---
+
+## Santa Barbara Man Pleads Not Guilty in Fatal Hit-and-Run
+
+date: 2024-09-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara County District Attorney’s Office has filed charges against a 56-year-old Santa Barbara resident accused of killing a pedestrian in a hit-and-run collision in June. Brock Alexander Hoffman [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-man-pleads-not-guilty-in-fatal-hit-and-run/">Santa Barbara Man Pleads Not Guilty in Fatal Hit-and-Run</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-man-pleads-not-guilty-in-fatal-hit-and-run/>
+
+---
+
+## Vista Del Mar Union School District Board to Appoint New Trustee
+
+date: 2024-09-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Vista Del Mar Union School District has announced it will change the way it will fill a board vacancy. The district will accept applications from trustee candidates instead of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/vista-del-mar-union-school-district-board-to-appoint-new-trustee/">Vista Del Mar Union School District Board to Appoint New Trustee</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/vista-del-mar-union-school-district-board-to-appoint-new-trustee/>
 
 ---
 

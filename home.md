@@ -1,11 +1,153 @@
 ---
 title: home
-updated: 2024-09-11 08:17:21
+updated: 2024-09-12 06:44:37
 ---
 
 # home
 
-(date: 2024-09-11 08:17:21)
+(date: 2024-09-12 06:44:37)
+
+---
+
+## How They Pulled It Off: Moving a 1970s Craftsman To a New Location
+
+date: 2024-09-12, from: Dwell
+
+Instead of tearing down the beautiful home on the lot where they wanted to build, a couple in Whistler hauled it to another piece of land. 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-moving-a-1970s-craftsman-to-a-new-location-5def78e9>
+
+---
+
+## How to Grow and Care for Pittosporum
+
+date: 2024-09-11, from: The Gardener's Path
+
+<p>Pittosporum species are flowering evergreen shrubs or small trees for USDA Hardiness Zones 8 to 11, requiring full sun to partial shade and average, well-draining soil. Select from dwarf or full-size shrubs with green or variegated foliage. Learn how to grow and care for Pittosporum species in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/grow-pittosporum/">How to Grow and Care for Pittosporum</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/ornamentals/grow-pittosporum/>
+
+---
+
+## This Might Be the Most Stylish Way to Hide an Ugly Air Conditioning Unit
+
+date: 2024-09-11, from: Sunset Magazine - Living in the West
+
+Air conditioning is a necessity, but a unit can look unsightly. A designer shares her tips for hiding an AC unit in. astylish way. 
+
+<https://www.sunset.com/home-garden/design/how-to-hide-ac-unit>
+
+---
+
+## These Are the Top Wine Country Hotels
+
+date: 2024-09-11, from: Sunset Magazine - Living in the West
+
+From inns to ranches, these are the best wine country hotels and properties from Mexico to Northern California. 
+
+<https://www.sunset.com/travel/best-wine-country-hotels-2024>
+
+---
+
+## Wildfires Blaze in Southern California, Threatening Popular Tourist Areas
+
+date: 2024-09-11, from: Sunset Magazine - Living in the West
+
+Southern California's wildfire season is off to a blazing start in popular tourist destinations, threatening lives and homes of locals. 
+
+<https://www.sunset.com/travel/southern-california-wildfires-tourist-areas-2024>
+
+---
+
+## The Best Wines to Pair with Fall Dishes, from Autumn Salads to Hearty Soups
+
+date: 2024-09-11, from: Sunset Magazine - Living in the West
+
+The Sunset Wine Club perfectly pairs standout wines with recipes from the magazine. See our favorite wine pairings here. 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/wine-club-pairings-travel-issue-2024>
+
+---
+
+## How To Paint a Mailbox
+
+date: 2024-09-11, from: Family Handyman Blog
+
+Learn how to paint a mailbox like a pro. This project ensures a durable, attractive finish that instantly boosts your home's curb appeal. 
+
+<https://www.familyhandyman.com/project/paint-a-mailbox/>
+
+---
+
+## Your End of Summer Garden Bootcamp: 7 Things to Do Right Now
+
+date: 2024-09-11, from: Sunset Magazine - Living in the West
+
+ 
+
+<https://www.sunset.com/home-garden/garden-basics/your-end-of-summer-garden-bootcamp-7-things-to-do-right-now>
+
+---
+
+## Private Nooks Unfold at Every Turn in This Origami-Inspired Japanese Home
+
+date: 2024-09-11, from: Dwell
+
+The naturally ventilated Kumagaya House has a central breezeway, soaring volumes, and secluded spaces that give its occupants room to breathe. 
+
+<https://www.dwell.com/article/kumagaya-house-chop-archi-origami-inspired-home-japan-d7195b2d>
+
+---
+
+## The 6 Must-Haves for a More Organized Laundry Room, According to an Expert
+
+date: 2024-09-11, from: Sunset Magazine - Living in the West
+
+The laundry room can be a dumping zone. A professional organizer shares the must-haves to keep the space decluttered and streamlined. 
+
+<https://www.sunset.com/home-garden/design/laundry-room-organizing-tips>
+
+---
+
+## This Dramatic Home Makeover Is Proof You Don’t Need to Do a Full Demo
+
+date: 2024-09-11, from: Sunset Magazine - Living in the West
+
+Sometimes you don’t need to a full-blown, down-to-the-studs renovation. This Berkeley Hills house was updated with smart design choices. 
+
+<https://www.sunset.com/home-garden/home-tours/berkeley-hills-no-demo-makeover>
+
+---
+
+## The Home That Kick-Started Frank Lloyd Wright’s Solo Career Lists for $2M
+
+date: 2024-09-11, from: Dwell
+
+Located just outside Chicago, the 1894 Winslow House offers 5,000 square feet packed with well-preserved built-ins and decorative glasswork. 
+
+<https://www.dwell.com/article/frank-lloyd-wright-winslow-house-river-forest-illinois-real-estate-de4d447c>
+
+---
+
+## Why Twitter’s Favorite Menswear Guy Can’t Stop Talking About Affordable Housing
+
+date: 2024-09-11, from: Dwell
+
+Streetwear takes on a new meaning when @dieworkwear, the internet’s most stylish troll, demands walkable cities. 
+
+<https://www.dwell.com/article/why-twitters-favorite-menswear-guy-cant-stop-talking-about-affordable-housing-dieworkwear-d3a51d2e-ab4b5388>
+
+---
+
+## 5 Wine Growing Regions Every Oenophile Should Visit
+
+date: 2024-09-11, from: Sunset Magazine - Living in the West
+
+The places to steal away to for prime wine tasting: These are the winners of the Sunset Travel Awards 2024 Wine Country Escapes category. 
+
+<https://www.sunset.com/travel/best-places-for-wine-tasting-2024>
 
 ---
 
@@ -26,6 +168,46 @@ date: 2024-09-11, from: Dwell
 Those messy wires are harshing your home's mellow. Welcome the freedom of being able to light your home how you want it, when you want it. 
 
 <https://www.dwell.com/article/light-up-your-life-with-a-cordless-lamp-for-every-mood-bd30093e>
+
+---
+
+## These Are the Best and Worst Cities to Retire in the U.S.
+
+date: 2024-09-11, from: Sunset Magazine - Living in the West
+
+Where you live when you retire can make a big difference on your fixed income. Wallethub looked at the best and worst cities for retirement. 
+
+<https://www.sunset.com/lifestyle/these-are-the-best-and-worst-cities-to-retire-in-the-u-s>
+
+---
+
+## These Transportation Services Will Make Your Next Trip Easier
+
+date: 2024-09-11, from: Sunset Magazine - Living in the West
+
+From jets to shuttles to high-end tours, these are the best transportation services in the West for your next trip. 
+
+<https://www.sunset.com/travel/best-transportation-services-in-west-2024>
+
+---
+
+## Immerse Yourself in Nature at These Camps, Lodges, and Hotels
+
+date: 2024-09-11, from: Sunset Magazine - Living in the West
+
+Fans of the outdoors and even those who aren't will appreciate a stay at these amazing nature resorts and hotels in the West. 
+
+<https://www.sunset.com/travel/best-nature-resorts-hotels-2024>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-09-11, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -82,26 +264,6 @@ Pick the right paint or stain for your project with these tips from a profession
 
 ---
 
-## 5 Wine Growing Regions Every Oenophile Should Visit
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-The places to steal away to for prime wine tasting: These are the winners of the Sunset Travel Awards 2024 Wine Country Escapes category. 
-
-<https://www.sunset.com/travel/best-places-for-wine-tasting-2024>
-
----
-
-## These Are the Top Wine Country Hotels
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-From inns to ranches, these are the best wine country hotels and properties from Mexico to Northern California. 
-
-<https://www.sunset.com/travel/best-wine-country-hotels-2024>
-
----
-
 ## These 6 Wellness Resorts Are the Ultimate Way to Reset
 
 date: 2024-09-10, from: Sunset Magazine - Living in the West
@@ -109,16 +271,6 @@ date: 2024-09-10, from: Sunset Magazine - Living in the West
 Need to unwind and get away? These spas and wellness resorts are the perfect spots for rest and relaxation. 
 
 <https://www.sunset.com/travel/best-spa-wellness-resorts-2024>
-
----
-
-## These Transportation Services Will Make Your Next Trip Easier
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-From jets to shuttles to high-end tours, these are the best transportation services in the West for your next trip. 
-
-<https://www.sunset.com/travel/best-transportation-services-in-west-2024>
 
 ---
 
@@ -159,16 +311,6 @@ date: 2024-09-10, from: Sunset Magazine - Living in the West
 If you're obsessed with the Old West, you'll need to book a visit to these ranches that offer the true Western experience with luxury. 
 
 <https://www.sunset.com/travel/best-luxury-ranches-2024>
-
----
-
-## Immerse Yourself in Nature at These Camps, Lodges, and Hotels
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-Fans of the outdoors and even those who aren't will appreciate a stay at these amazing nature resorts and hotels in the West. 
-
-<https://www.sunset.com/travel/best-nature-resorts-hotels-2024>
 
 ---
 
@@ -615,16 +757,6 @@ date: 2024-09-10, from: The Tiny Life blog
  
 
 <https://thetinylife.com/raising-urban-chickens/>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
 
 ---
 

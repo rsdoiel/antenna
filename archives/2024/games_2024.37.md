@@ -1,11 +1,111 @@
 ---
 title: games
-updated: 2024-09-11 08:17:19
+updated: 2024-09-12 06:44:36
 ---
 
 # games
 
-(date: 2024-09-11 08:17:19)
+(date: 2024-09-12 06:44:36)
+
+---
+
+## Monster Hunter Now weapon list and how to unlock new weapon types
+
+date: 2024-09-12, updated: 2024-09-12, from: Polygon Website
+
+Weapons are the most important tools in your Monster Hunter Now arsenal. This mobile version of the series stripped back the usual roster of weapons down to six choices at launch, locking them behind story quest progression or Hunter Rank progress, with more being introduced with seasonal updates over time. Despite smaller number of weapons [&#8230;] 
+
+<https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock>
+
+---
+
+## Monster Hunter Now monster list
+
+date: 2024-09-12, updated: 2024-09-12, from: Polygon Website
+
+Monsters in Monster Hunter Now are, as with every entry in the series, the main focus of the game, giving you new challenges to face and weapon and armor types to craft. Starting with just a handful of large monsters to begin with, the further you progress through the main story quest, the more species [&#8230;] 
+
+<https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all>
+
+---
+
+## Summer movies, ranked by Hideo Kojima’s vibe-based tweet reactions
+
+date: 2024-09-12, updated: 2024-09-11, from: Polygon Website
+
+One of the remaining good things on the dying social media platform X (formerly Twitter) is Hideo Kojima’s movie updates. The Metal Gear and Death Stranding creator is an avid film buff, a passion he has injected into his highly cinematic, cut-scene-filled games, but one that still manifests as Dude Who Buys Tons of 4K [&#8230;] 
+
+<https://www.polygon.com/lists/450454/summer-movies-2024-ranked-by-hideo-kojima-tweets>
+
+---
+
+## Xbox lays off 650 more people, Spencer says no games canceled
+
+date: 2024-09-12, updated: 2024-09-12, from: Polygon Website
+
+Microsoft is laying off a further 650 people from its gaming division, months after it laid off 1,900 Activision Blizzard and Xbox employees and shuttered several game studios, including Arkane Austin and Tango Gameworks. Microsoft’s gaming head Phil Spencer said no games were being canceled and no studios would be closed as a result of [&#8230;] 
+
+<https://www.polygon.com/news/450717/microsoft-xbox-layoffs-september-2024>
+
+---
+
+## What makes a Game of the Year?
+
+date: 2024-09-12, updated: 2024-09-12, from: Polygon Website
+
+In the 10 years it’s been running, Geoff Keighley’s The Game Awards has fairly convincingly established itself as the premier awards show for gaming; it is as close as you can get to a video game Oscars, which was seemingly Keighley’s intention all along. While the event is still primarily known for wall-to-wall trailers and [&#8230;] 
+
+<https://www.polygon.com/awards/450688/what-makes-game-of-the-year-tgas>
+
+---
+
+## Game of the Year: The frontrunners, dark horses, and challengers to come
+
+date: 2024-09-12, updated: 2024-09-12, from: Polygon Website
+
+This year marks the 10th anniversary of The Game Awards, and in that time Geoff Keighley’s annual event has established itself quite firmly as the leading awards ceremony for the game industry — the Oscars of gaming. It remains promotionally overstuffed to the point that it’s still arguably better known for trailers than awards, but [&#8230;] 
+
+<https://www.polygon.com/awards/450195/game-of-the-year-game-awards-frontrunners>
+
+---
+
+## If Space Marine 2 gets you curious about Warhammer 40K lore, give Darktide a spin
+
+date: 2024-09-11, updated: 2024-09-11, from: Polygon Website
+
+Warhammer 40,000: Space Marine 2 is a hit, and it’s no surprise that players are having fun playing as one of the Emperor’s Angels, stomping and shooting through a fray of hungry Tyranids. One thing I didn’t expect was getting to see the setting of Warhammer 40K through the eyes of people unfamiliar with the [&#8230;] 
+
+<https://www.polygon.com/warhammer-40k/450651/warhammer-40k-space-marine-2-lore-darktide-imperium>
+
+---
+
+## Sea of Thieves developer acknowledges harassment surge, promises fixes
+
+date: 2024-09-11, updated: 2024-09-11, from: Polygon Website
+
+While Sea of Thieves is a goofy, lighthearted game on the surface, players have been reporting a recent surge in troubling incidents from the pirate sandbox. Some have been assailed with insults, threats, and harassment, while others have been kicked from the game with fraudulent temporary bans. On Wednesday, game developer Rare acknowledged the issue [&#8230;] 
+
+<https://www.polygon.com/gaming/450632/sea-of-thieves-security-harassment-hacking-rare-response>
+
+---
+
+## Where to pre-order Disney Lorcana: Azurite Sea
+
+date: 2024-09-11, updated: 2024-09-11, from: Polygon Website
+
+Launching Nov. 25, Azurite Sea is the next expansion for Disney Lorcana and is currently available to pre-order exclusively through Best Buy. The seaborne set introduces new characters from the cast of Big Hero Six and Chip &#38; Dale’s Rescue Rangers but also brings new versions of existing cards, like personal favorite, Jim Hawkins. Below, [&#8230;] 
+
+<https://www.polygon.com/disney-lorcana/450584/azurite-sea-where-to-buy-pre-order>
+
+---
+
+## Glorious heralds its return with the launch of the GMMK 3 Hall Effect keyboard
+
+date: 2024-09-11, updated: 2024-09-11, from: Polygon Website
+
+Glorious, the PC peripheral manufacturer responsible for the incredibly popular GMMK Pro keyboard series, has returned with an exciting new addition to their lineup of premium keyboards, the GMMK 3. While Glorious has previously offered its keyboards like the GMMK 2 and GMMK Pro with a handful of off-the-shelf options, the GMMK 3 has launched [&#8230;] 
+
+<https://www.polygon.com/deals/450038/glorious-gmmk-3-hall-effect-gaming-keyboard>
 
 ---
 

@@ -1,11 +1,479 @@
 ---
 title: pacific
-updated: 2024-09-11 08:17:15
+updated: 2024-09-12 06:44:31
 ---
 
 # pacific
 
-(date: 2024-09-11 08:17:15)
+(date: 2024-09-12 06:44:31)
+
+---
+
+## Two finalists named for UH president
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>The University of Hawaii Board of Regents has named two finalists for the next president of the state&#8217;s 10-campus public higher education system.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/hawaii-news/two-finalists-named-for-uh-president/>
+
+---
+
+## Harris outwitted Trump, but will that sway undecided voters?
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>Being drunk on hubris and narcissism is the surest way to lose a confrontation to a clever, clearheaded opponent. It&#8217;s a story that&#8217;s been repeated throughout history. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/nation-world-news/harris-outwitted-trump-but-will-that-sway-undecided-voters/>
+
+---
+
+## Harris and Trump bet on their own sharply contrasting views of America
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Donald Trump&#8217;s America is a grim place, a nation awash in marauding immigrants stealing American jobs and eating American cats and dogs, a country devastated economically, humiliated internationally and perched on the cliff&#8217;s edge of an apocalyptic World War III. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/nation-world-news/harris-and-trump-bet-on-their-own-sharply-contrasting-views-of-america/>
+
+---
+
+## A temporary truce in the political wars as Harris, Trump and Biden mark 9/11
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Barely 10 hours earlier, they had been at each other&#8217;s throats, calling one another a &#8220;disgrace,&#8221; &#8220;horrible&#8221; and &#8220;grossly incompetent.&#8221; Then they put down their political swords on Wednesday morning and stood just a few feet apart to mark one of the most solemn moments on the modern American calendar. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/nation-world-news/a-temporary-truce-in-the-political-wars-as-harris-trump-and-biden-mark-9-11/>
+
+---
+
+## Obituaries for September 12
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>Katherine &#8220;Kathy&#8221; Souza Hirayama, 89, of Hilo died Sept. 9 at Hilo Benioff Medical Center. Born in Olaa, she was co-owner of Hirayama Brothers Electric, a member of CU Hawaii Federal Credit Union Board of Directors, International Longshore and Warehouse Union chairperson, Mauna Loa Macadamia Nut Co. floor supervisor, Kanoelehua Industrial Area Association president and board member, Hilo Medical Center board member and member of Kiwanis Hilo, Red Hat Society, Hawaii Paroling Authority, and involved in Hawaii politics at all levels. Visitation 2:30-4 p.m. Friday, Sept. 20, at Dodo Mortuary Chapel. Memorial service at 4 p.m. Casual attire; no koden (monetary gifts). Survived by husband, Melva S. Hirayama of Hilo; children, Eugene Knaga Jr. of Florida, Cheryl Knaga of Georgia, Karlene (Rich) Hirayama-Kelsch of Colorado, Kelly Hirayama-Watkins of New York, James (Emily) Hirayama, Mel Brian (Sharla &#8220;Pua&#8221;) Hirayama and Blue Tammy (Jeremiah &#8220;Kekoa&#8221;) Hirayama-Augustine of Hilo; siblings, Eleanor Eggleston of Virginia and Shirley Acol of Keaau; 11 grandchildren, 11 great-grandchildren and a great-great-grandchild; nephews, nieces and cousins. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/obituaries/obituaries-for-september-12-8/>
+
+---
+
+## Ex-Waiakea High hoops coach pleads not guilty
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii basketball figure Alika Smith pleaded not guilty Wednesday to charges of second-degree theft and negotiating a worthless instrument.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/hawaii-news/ex-waiakea-high-hoops-coach-pleads-not-guilty/>
+
+---
+
+## Hilo boy injured when car crashed into home in stable condition
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>A 7-year-old Hilo boy injured a week ago when a car driven by a family acquaintance crashed into the living room of the family&#8217;s home remained hospitalized in stable condition as of Monday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/hawaii-news/hilo-boy-injured-when-car-crashed-into-home-in-stable-condition/>
+
+---
+
+## ABC’s matter-of-fact moderators built factual guardrails around Trump
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>PHILADELPHIA &#8212; Fifteen minutes into Tuesday&#8217;s debate, former President Donald Trump was delivering a circuitous answer about his stance on abortion rights when he made a statement with no basis in reality: that a governor had condoned executing babies after birth.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/nation-world-news/abcs-matter-of-fact-moderators-built-factual-guardrails-around-trump/>
+
+---
+
+## Hanoi flooded by swollen river as Typhoon Yagi leaves 179 dead
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>HANOI &#8212; Vietnam&#8217;s capital of Hanoi evacuated thousands of people living near the swollen Red River as its waters rose to a 20-year high, flooding streets days after Typhoon Yagi battered the country&#8217;s north, killing at least 179 people.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/nation-world-news/hanoi-flooded-by-swollen-river-as-typhoon-yagi-leaves-179-dead/>
+
+---
+
+## Rainbow Wahine volleyball team beats Texas State in four sets
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>After playing six hours of volleyball over two nights this past weekend, the quick turnaround wasn&#8217;t a problem for the Hawaii women&#8217;s volleyball team.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/sports/rainbow-wahine-volleyball-team-beats-texas-state-in-four-sets/>
+
+---
+
+## Aces’ Aja Wilson breaks single-season scoring mark in win over Fever
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>A&#8217;ja Wilson broke the WNBA single-season scoring record to add a milestone to an MVP season and her double-double led four players in double figures as the visiting Las Vegas Aces stopped the host Indiana Fever 86-75 on Wednesday night in Indianapolis.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/sports/aces-aja-wilson-breaks-single-season-scoring-mark-in-win-over-fever/>
+
+---
+
+## Browns QB Deshaun Watson ‘strongly denies’ latest accusation
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>Deshaun Watson &#8220;strongly denies&#8221; allegations that he sexually assaulted a woman in the Houston area nearly four years ago, his attorney said Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/sports/browns-qb-deshaun-watson-strongly-denies-latest-accusation/>
+
+---
+
+## Rams place Puka Nacua, two offensive linemen on injured list and sign help
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; It&#8217;s only one game, but the rash of injuries suffered by Rams players in their season-opening loss at Detroit harks back to 2022, when the defending Super Bowl-champion Rams were ravaged by injuries that contributed to the worst Super Bowl hangover in NFL history.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/sports/rams-place-puka-nacua-two-offensive-linemen-on-injured-list-and-sign-help/>
+
+---
+
+## Indigenous group takes fight against Rio Tinto Arizona copper mine to US Supreme Court
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>A Native American group on Wednesday asked the U.S. Supreme Court to block Rio Tinto and BHP from gaining access to Arizona land needed to build one of the world&#8217;s largest copper mines, a last-ditch legal move in a long-running case pitting religious rights against the energy transition. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/nation-world-news/indigenous-group-takes-fight-against-rio-tinto-arizona-copper-mine-to-us-supreme-court/>
+
+---
+
+## Indiana judge refuses to broaden medical exception to abortion ban
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>An Indiana judge on Wednesday refused to broaden the medical exception to the state&#8217;s near-total abortion ban, ruling against a lawsuit brought by Planned Parenthood and other abortion providers. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/nation-world-news/indiana-judge-refuses-to-broaden-medical-exception-to-abortion-ban/>
+
+---
+
+## Gala to benefit Portuguese center
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>Once again, the trade winds of Hilo town will fill the air with the sounds of Dexter Veriato and his guitar at the Fairway Grill on Saturday, Sept. 28, for the 2024 Hawaii Island Portuguese Chamber of Commerce Cultural and Educational Center Founders Gala.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/community/gala-to-benefit-portuguese-center/>
+
+---
+
+## What to know about the major wildfires burning in the West
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>Fueled by warm weather and gusty winds, more than 70 large fires were blazing across the United States on Wednesday. Most of them are in the West, where tens of thousands have been forced to evacuate their homes to escape encroaching flames. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/nation-world-news/what-to-know-about-the-major-wildfires-burning-in-the-west/>
+
+---
+
+## BIIF volleyball: Warriors wash Seasiders; Cowgirls complete comeback
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; Waiakea girls volleyball maintained its undefeated start with a straight-sets win over Laupahoehoe on Tuesday night in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/sports/biif-volleyball-warriors-wash-seasiders-cowgirls-complete-comeback/>
+
+---
+
+## Help battle Alzheimer’s at Hilo charity walk: Annual fundraising event is Sept. 21
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>As Alzheimer&#8217;s disease grows as a public health crisis in Hawaii and around the world, doctors, scientists and researchers continue the search for a cause and cure.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/hawaii-news/help-battle-alzheimers-at-hilo-charity-walk-annual-fundraising-event-is-sept-21/>
+
+---
+
+## UH-Hilo launches talk story series
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>The University of Hawaii at Hilo invites the public to its 2024 Kuleana and Community Talk Story series, a weekly gathering aimed at bringing together students, faculty, staff and community members for meaningful conversations in a safe and welcoming environment.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/community/uh-hilo-launches-talk-story-series/>
+
+---
+
+## Nation and world news in brief for September 12
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>Johnson scraps vote on spending plan</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/nation-world-news/nation-and-world-news-in-brief-for-september-12/>
+
+---
+
+## Trump was Trump in his debate with Kamala Harris — which is why he came across so poorly
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>It was ugly. It was inane. It was tone-deaf and uncouth.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/opinion/trump-was-trump-in-his-debate-with-kamala-harris-which-is-why-he-came-across-so-poorly/>
+
+---
+
+## From ‘fridgescaping’ to egg parties, we’ve become social-media-driven parodies of ourselves
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>Does it sometimes seem as if social media has turned American popular culture into a perfectionist parody of itself?</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/opinion/from-fridgescaping-to-egg-parties-weve-become-social-media-driven-parodies-of-ourselves/>
+
+---
+
+## Students, youth urged to manage stress
+
+date: 2024-09-12, from: Marshal Islands Journal
+
+<p>WILMER JOEL The University of the South Pacific Student Association hosted a discussion on mental health last week Friday with panelists focusing on a range of issues affecting local residents.The panel included Dr. Holden Nena from the Ministry of Health and Human Services, Pastor Lobaj Kaminaga, Director of CMI Counseling Oyinade Ogunmokun, and USP student [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/students-youth-urged-to-manage-stress/">Students, youth urged to manage stress</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/students-youth-urged-to-manage-stress/>
+
+---
+
+## Nimo saves the day
+
+date: 2024-09-12, from: Marshal Islands Journal
+
+<p>HILARY HOSIA A civilian was recognized in Parliament this week for his voluntary actions that helped put out a fire in Uliga this past Sunday. Minister of Natural Resources and Commerce Tony Muller, who happens to live next door to the building that was on fire and was a firsthand witness to the ordeal, praised [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/nimo-saves-the-day/">Nimo saves the day</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/nimo-saves-the-day/>
+
+---
+
+## Grad student shares volcanic hazard research with students, community
+
+date: 2024-09-12, from: University of Hawaiʻi News
+
+<p>Natalia Gauer Pasqualon shared her passion for volcanoes and Hawaiian geology with hundreds of students and community members.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/11/student-volcanic-hazard-research/">Grad student shares volcanic hazard research with students, community</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/11/student-volcanic-hazard-research/>
+
+---
+
+## Labour Mobility: Financial benefits raise issues of child rights
+
+date: 2024-09-12, from: University of the South Pacific (Fiji)
+
+<p>Suva, Fiji, 11 September 2024 – Labour mobility schemes have attracted many Pacific workers overseas...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/labour-mobility-financial-benefits-raise-issues-of-child-rights/">Labour Mobility: Financial benefits raise issues of child rights</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/labour-mobility-financial-benefits-raise-issues-of-child-rights/>
+
+---
+
+## Precautionary boil water notice
+
+date: 2024-09-12, updated: 2024-09-12, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/news/local/precautionary-boil-water-notice/article_f1999b82-709a-11ef-9c9a-9793472a065f.html>
+
+---
+
+## All clear
+
+date: 2024-09-11, updated: 2024-09-12, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/news/local/all-clear/article_ea977974-7097-11ef-be9f-634f834d538a.html>
+
+---
+
+## OPINION ǀ To secure peace in the Indo-Pacific, include Taiwan in the UN system
+
+date: 2024-09-11, updated: 2024-09-12, from: Marianas Variety
+
+TAIWAN is an indispensable partner in global supply chains, producing more than 90 % of the world’s high-end semiconductors and a significant portion of the advanced chips that are driving the AI revolution. Moreover, half of the world’s seaborne trade passes through the Taiwan Strait, making it a key international waterway. Yet even though large parts of the world — and billions of people — have enjoyed great prosperity thanks to the peace and stability that prevails across the strait, the People’s Republic of China continues to intensify its aggressive actions against Taiwan. Beijing’s attempts to change the status quo across the Taiwan Strait and expand authoritarianism throughout the Indo-Pacific region are a profound threat to peace and security all around the world. 
+
+<https://www.mvariety.com/views/columnists/opinion-to-secure-peace-in-the-indo-pacific-include-taiwan-in-the-un-system/article_107b314a-7097-11ef-bba7-23392c916de8.html>
+
+---
+
+## Asia-Pacific career initiative grows at UH Mānoa
+
+date: 2024-09-11, from: University of Hawaiʻi News
+
+<p>The <abbr>CAPA</abbr> initiative aims to bolster career readiness and professional development opportunities for students.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/11/asia-pacific-career-initiative-grows/">Asia-Pacific career initiative grows at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/11/asia-pacific-career-initiative-grows/>
+
+---
+
+## EPA passes US lab audit
+
+date: 2024-09-11, from: Marshal Islands Journal
+
+<p>“Three great wins for the Marshall Islands,” is how RMI EPA General Manager Moriana Phillip described the recertification of a team of water quality laboratory staff. She listed the developments in the past few days: The annual Water Quality Audit conducted by US-based Nimbus Environmental Services representative Edna Buchan resulted in the EPA laboratory and [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/epa-passes-us-lab-audit/">EPA passes US lab audit</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/epa-passes-us-lab-audit/>
+
+---
+
+## Image of the Week: Lunch date
+
+date: 2024-09-11, from: University of Hawaiʻi News
+
+<p>This week’s image is from Honolulu Community College's Shannon Fritz.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/11/image-of-the-week-lunch-date/">Image of the Week: Lunch date</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/11/image-of-the-week-lunch-date/>
+
+---
+
+## Finalists for UH President named, public forums scheduled
+
+date: 2024-09-11, from: University of Hawaiʻi News
+
+<p>The finalists will be introduced through open houses and public forums during the weeks of September 23 and September 30 in Maui, <span aria-label="Kauai">Kaua&#699;i</span>, <span aria-label="Hawaii">Hawai&#699;i</span> and Honolulu counties.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/11/uh-president-finalists-public-forums/">Finalists for <abbr>UH</abbr> President named, public forums scheduled</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/11/uh-president-finalists-public-forums/>
+
+---
+
+## Beef Quality Assurance training conducted on Tinian
+
+date: 2024-09-11, updated: 2024-09-12, from: Marianas Variety
+
+TINIAN  — The Tinian Cattlemen's Association is partnering with the University of Hawaii to offer a two-day Beef Quality Assurance or BCA certification training aimed at enhancing the productivity and sustainability of the island’s cattle industry. This workshop, conducted by experts from the University of Hawaii, focuses on improving herd health and cattle productivity through advanced management of soil and pastures, record-keeping, illness prevention, and proper nutrition. 
+
+<https://www.mvariety.com/business/business_news/beef-quality-assurance-training-conducted-on-tinian/article_348018b4-7009-11ef-89c6-676a352707c4.html>
+
+---
+
+## US Pacific Partnership Act clears House
+
+date: 2024-09-11, updated: 2024-09-12, from: Marianas Variety
+
+WASHINGTON (Spectrum News/Pacnews) — The U.S House of Representatives on Monday passed a measure aimed at increasing U.S engagement with Pacific partners. 
+
+<https://www.mvariety.com/news/regional_world/us-pacific-partnership-act-clears-house/article_804cd2c6-700b-11ef-8637-977855f475d4.html>
+
+---
+
+## James Earl Jones, renowned actor and voice of Darth Vader, dies at 93
+
+date: 2024-09-11, updated: 2024-09-12, from: Marianas Variety
+
+LOS ANGELES (Reuters) —  American actor James Earl Jones, an imposing stage and screen presence who overcame a childhood stutter to develop a stentorian voice recognized the world over as intergalactic villain Darth Vader, died on Monday at the age of 93. 
+
+<https://www.mvariety.com/lifestyle/james-earl-jones-renowned-actor-and-voice-of-darth-vader-dies-at-93/article_cf1335ea-700f-11ef-8fed-ab9972434679.html>
+
+---
+
+## Some undecided voters not convinced by Harris after debate with Trump
+
+date: 2024-09-11, updated: 2024-09-12, from: Marianas Variety
+
+(Reuters) — Kamala Harris was widely seen as dominating Tuesday's presidential debate against Republican former president Donald Trump, but a group of undecided voters remained unconvinced that the Democratic vice president was the better candidate. 
+
+<https://www.mvariety.com/news/national/some-undecided-voters-not-convinced-by-harris-after-debate-with-trump/article_bd3321d8-700e-11ef-a802-3f2132f9a200.html>
+
+---
+
+## Taylor Swift says she will vote for Kamala Harris
+
+date: 2024-09-11, updated: 2024-09-12, from: Marianas Variety
+
+WASHINGTON (Reuters) — Pop megastar Taylor Swift endorsed Kamala Harris on Tuesday after her debate against Republican rival Donald Trump, calling the Democratic nominee a "steady-handed, gifted leader" who could lead the country with calm rather than chaos. 
+
+<https://www.mvariety.com/lifestyle/taylor-swift-says-she-will-vote-for-kamala-harris/article_787d7aba-700f-11ef-9c0a-ebdbd39f0e32.html>
+
+---
+
+## 10 Years of empowering CNMI youth: 4-H Camp Maga’lahi counselors
+
+date: 2024-09-11, updated: 2024-09-12, from: Marianas Variety
+
+(NMC) — This year marked 10 years of 4-H Camp Maga’lahi, an outdoor summer camp that empowers CNMI youth with skills and memories that will last a lifetime. Across Saipan, Tinian, and Rota, this year’s Camp Maga’lahi trained and engaged 109 youth counselors ages 13 to 19. These skilled counselors successfully engaged over 300 campers, ages 5 to 12, by facilitating experiential learning activities and collaborating with partnering organizations. They created a fun-filled and secure environment that fostered a strong sense of belonging and inclusivity for all participants. 
+
+<https://www.mvariety.com/news/community_bulletins/10-years-of-empowering-cnmi-youth-4-h-camp-maga-lahi-counselors/article_e240169a-7007-11ef-bbe4-173fb10b47be.html>
+
+---
+
+## JKPL provides online continuing education through Universal Class
+
+date: 2024-09-11, updated: 2024-09-12, from: Marianas Variety
+
+(JKPL) — Universal Class is available! Did you know that with your Joeten-Kiyu Public Library card, you have access to more than 600 free lifelong learning courses in over 30 subject areas, many of which offer continuing education units? 
+
+<https://www.mvariety.com/news/community_bulletins/jkpl-provides-online-continuing-education-through-universal-class/article_81741b9e-7035-11ef-8a07-f3866fa8bdea.html>
 
 ---
 
@@ -321,6 +789,18 @@ date: 2024-09-11, from: Hawaii Tribune Harold
 
 ---
 
+## BIIF volleyball:   Warriors, ‘Io and Ka Makani cruise to victories
+
+date: 2024-09-11, from: Hawaii Tribune Harold
+
+
+				<p>The Big Island Interscholastic Federation (BIIF) girls volleyball season continued Monday all across the isle.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/11/sports/biif-volleyball-warriors-io-and-ka-makani-cruise-to-victories/>
+
+---
+
 ## Hawaiian Word of the Week: Kanilehua
 
 date: 2024-09-11, from: University of Hawaiʻi News
@@ -347,7 +827,7 @@ The post <a href="https://www.hawaii.edu/news/2024/09/10/micro-credential-opport
 
 date: 2024-09-11, from: Island Times
 
-<p>By: L.N. Reklai Palau&#8217;s National Emergency Management Office (NEMO) announced Wednesday that all schools would be closed on Thursday, September 12, due to a monsoon surge bringing heavy rain and strong winds. NEMO, a government agency responsible for emergency response, made the decision following a meeting of its representatives. In addition to school closures, NEMO [&#8230;]</p>
+<p>Palau&#8217;s National Emergency Management Office (NEMO) announced Wednesday that all schools would be closed on Thursday, September 12, due to a monsoon surge bringing heavy rain and strong winds. NEMO, a government agency responsible for emergency response, made the decision following a meeting of its representatives. In addition to school closures, NEMO issued a Small [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/schools-closed-due-to-monsoon-surge/">Schools Closed Due to Monsoon Surge</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
 

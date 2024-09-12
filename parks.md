@@ -1,11 +1,406 @@
 ---
 title: parks
-updated: 2024-09-11 08:17:21
+updated: 2024-09-12 06:44:38
 ---
 
 # parks
 
-(date: 2024-09-11 08:17:21)
+(date: 2024-09-12 06:44:38)
+
+---
+
+## November 23 - Monumental Clean-up at the Santa Rosa and San Jacinto Mtns National Monument Visitor Center
+
+date: 2024-09-11, from: Bureau of Land Management, California
+
+<div class="layout layout--onecol">
+        <div class="layout__region layout__region--content">
+      
+
+  
+<div class="breadcrumb-max-width block">
+  
+    
+        <nav role="navigation" aria-labelledby="system-breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/">Home</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/media">Info</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/press-release">Press Releases</a></li>
+          <li class="breadcrumb-item">Press Releases</li>
+        </ol>
+  </nav>
+
+  </div>
+
+    </div>
+  </div>
+  <div class="layout layout--twocol-section layout--twocol-section--67-33 section-one-full-width wide-content d-flex flex-lg-nowrap">
+                  <div class="layout__region layout__region--first mb-4 mb-lg-0">
+          
+
+  
+<div class="block">
+  
+    
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p><a class="cta-button" href="https://www.blm.gov/announcement" style="
+    display: inline-block;
+    background: 0 0;
+    color: #007fad;
+    margin-bottom: 0;
+    font-weight: 500;
+    padding: 0;">&lt; All Announcements</a></p>
+</div>
+      
+  </div>
+
+
+  
+<div class="block">
+  
+    
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><hr>
+<p><em>The BLM manages more than 245 million acres of public land located primarily in 12 western states, including Alaska, on behalf of the American people. The BLM also administers 700 million acres of sub-surface mineral estate throughout the nation. Our mission is to sustain the health, diversity, and productivity of America’s public lands for the use and enjoyment of present and future generations.</em></p>
+</div>
+      
+  </div>
+
+        </div>
+                    <div class="layout__region layout__region--second">
+          
+        </div>
+            </div> 
+
+<https://www.blm.gov/announcement/november-23-monumental-clean-santa-rosa-and-san-jacinto-mtns-national-monument-visitor>
+
+---
+
+## September 21 - Lark Canyon Day Use Area Clean Up
+
+date: 2024-09-11, from: Bureau of Land Management, California
+
+<div class="layout layout--onecol">
+        <div class="layout__region layout__region--content">
+      
+
+  
+<div class="breadcrumb-max-width block">
+  
+    
+        <nav role="navigation" aria-labelledby="system-breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/">Home</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/media">Info</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/press-release">Press Releases</a></li>
+          <li class="breadcrumb-item">Press Releases</li>
+        </ol>
+  </nav>
+
+  </div>
+
+    </div>
+  </div>
+  <div class="layout layout--twocol-section layout--twocol-section--67-33 section-one-full-width wide-content d-flex flex-lg-nowrap">
+                  <div class="layout__region layout__region--first mb-4 mb-lg-0">
+          
+
+  
+<div class="block">
+  
+    
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p><a class="cta-button" href="https://www.blm.gov/announcement" style="
+    display: inline-block;
+    background: 0 0;
+    color: #007fad;
+    margin-bottom: 0;
+    font-weight: 500;
+    padding: 0;">&lt; All Announcements</a></p>
+</div>
+      
+  </div>
+
+
+  
+<div class="block">
+  
+    
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><hr>
+<p><em>The BLM manages more than 245 million acres of public land located primarily in 12 western states, including Alaska, on behalf of the American people. The BLM also administers 700 million acres of sub-surface mineral estate throughout the nation. Our mission is to sustain the health, diversity, and productivity of America’s public lands for the use and enjoyment of present and future generations.</em></p>
+</div>
+      
+  </div>
+
+        </div>
+                    <div class="layout__region layout__region--second">
+          
+        </div>
+            </div> 
+
+<https://www.blm.gov/announcement/september-21-lark-canyon-day-use-area-clean>
+
+---
+
+## September 14 - Trinidad, English Ivy Removal
+
+date: 2024-09-11, from: Bureau of Land Management, California
+
+<div class="layout layout--onecol">
+        <div class="layout__region layout__region--content">
+      
+
+  
+<div class="breadcrumb-max-width block">
+  
+    
+        <nav role="navigation" aria-labelledby="system-breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/">Home</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/media">Info</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/press-release">Press Releases</a></li>
+          <li class="breadcrumb-item">Press Releases</li>
+        </ol>
+  </nav>
+
+  </div>
+
+    </div>
+  </div>
+  <div class="layout layout--twocol-section layout--twocol-section--67-33 section-one-full-width wide-content d-flex flex-lg-nowrap">
+                  <div class="layout__region layout__region--first mb-4 mb-lg-0">
+          
+
+  
+<div class="block">
+  
+    
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p><a class="cta-button" href="https://www.blm.gov/announcement" style="
+    display: inline-block;
+    background: 0 0;
+    color: #007fad;
+    margin-bottom: 0;
+    font-weight: 500;
+    padding: 0;">&lt; All Announcements</a></p>
+</div>
+      
+  </div>
+
+
+  
+<div class="block">
+  
+    
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><hr>
+<p><em>The BLM manages more than 245 million acres of public land located primarily in 12 western states, including Alaska, on behalf of the American people. The BLM also administers 700 million acres of sub-surface mineral estate throughout the nation. Our mission is to sustain the health, diversity, and productivity of America’s public lands for the use and enjoyment of present and future generations.</em></p>
+</div>
+      
+  </div>
+
+        </div>
+                    <div class="layout__region layout__region--second">
+          
+        </div>
+            </div> 
+
+<https://www.blm.gov/announcement/september-14-trinidad-english-ivy-removal>
+
+---
+
+## September 28 - Bizz Johnson & Lassen County Hometown Pride Beautification
+
+date: 2024-09-11, from: Bureau of Land Management, California
+
+<div class="layout layout--onecol">
+        <div class="layout__region layout__region--content">
+      
+
+  
+<div class="breadcrumb-max-width block">
+  
+    
+        <nav role="navigation" aria-labelledby="system-breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/">Home</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/media">Info</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/press-release">Press Releases</a></li>
+          <li class="breadcrumb-item">Press Releases</li>
+        </ol>
+  </nav>
+
+  </div>
+
+    </div>
+  </div>
+  <div class="layout layout--twocol-section layout--twocol-section--67-33 section-one-full-width wide-content d-flex flex-lg-nowrap">
+                  <div class="layout__region layout__region--first mb-4 mb-lg-0">
+          
+
+  
+<div class="block">
+  
+    
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p><a class="cta-button" href="https://www.blm.gov/announcement" style="
+    display: inline-block;
+    background: 0 0;
+    color: #007fad;
+    margin-bottom: 0;
+    font-weight: 500;
+    padding: 0;">&lt; All Announcements</a></p>
+</div>
+      
+  </div>
+
+
+  
+<div class="block">
+  
+    
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><hr>
+<p><em>The BLM manages more than 245 million acres of public land located primarily in 12 western states, including Alaska, on behalf of the American people. The BLM also administers 700 million acres of sub-surface mineral estate throughout the nation. Our mission is to sustain the health, diversity, and productivity of America’s public lands for the use and enjoyment of present and future generations.</em></p>
+</div>
+      
+  </div>
+
+        </div>
+                    <div class="layout__region layout__region--second">
+          
+        </div>
+            </div> 
+
+<https://www.blm.gov/announcement/september-28-bizz-johnson-lassen-county-hometown-pride-beautification>
+
+---
+
+## Bizz Johnson & Lassen County Hometown Pride Beautification
+
+date: 2024-09-11, from: Bureau of Land Management, California
+
+<div class="layout layout--onecol">
+        <div class="layout__region layout__region--content">
+      
+
+  
+<div class="breadcrumb-max-width block">
+  
+    
+        <nav role="navigation" aria-labelledby="system-breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/">Home</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/media">Info</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/press-release">Press Releases</a></li>
+          <li class="breadcrumb-item">Press Releases</li>
+        </ol>
+  </nav>
+
+  </div>
+
+    </div>
+  </div>
+  <div class="layout layout--twocol-section layout--twocol-section--67-33 section-one-full-width wide-content d-flex flex-lg-nowrap">
+                  <div class="layout__region layout__region--first mb-4 mb-lg-0">
+          
+
+  
+<div class="block">
+  
+    
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p><a class="cta-button" href="https://www.blm.gov/announcement" style="
+    display: inline-block;
+    background: 0 0;
+    color: #007fad;
+    margin-bottom: 0;
+    font-weight: 500;
+    padding: 0;">&lt; All Announcements</a></p>
+</div>
+      
+  </div>
+
+
+  
+<div class="block">
+  
+    
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><hr>
+<p><em>The BLM manages more than 245 million acres of public land located primarily in 12 western states, including Alaska, on behalf of the American people. The BLM also administers 700 million acres of sub-surface mineral estate throughout the nation. Our mission is to sustain the health, diversity, and productivity of America’s public lands for the use and enjoyment of present and future generations.</em></p>
+</div>
+      
+  </div>
+
+        </div>
+                    <div class="layout__region layout__region--second">
+          
+        </div>
+            </div> 
+
+<https://www.blm.gov/announcement/bizz-johnson-lassen-county-hometown-pride-beautification>
 
 ---
 

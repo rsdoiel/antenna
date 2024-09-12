@@ -1,11 +1,21 @@
 ---
 title: retro computing
-updated: 2024-09-11 08:17:22
+updated: 2024-09-12 06:44:39
 ---
 
 # retro computing
 
-(date: 2024-09-11 08:17:22)
+(date: 2024-09-12 06:44:39)
+
+---
+
+## Juno Tab 3 Launches with Ubuntu 24.04
+
+date: 2024-09-11, from: Linux Magazine
+
+<p>Anyone looking for a full-blown Linux tablet need look no further. Juno has released the Tab 3.</p> 
+
+<http://www.linux-magazine.com/Online/News/Juno-Tab-3-Launches-with-Ubuntu-24.04>
 
 ---
 

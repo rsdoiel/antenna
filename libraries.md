@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2024-09-11 08:17:20
+updated: 2024-09-12 06:44:37
 ---
 
 # libraries
 
-(date: 2024-09-11 08:17:20)
+(date: 2024-09-12 06:44:37)
+
+---
+
+## Strengths, Weaknesses, Opportunities, and Threats: A Comprehensive SWOT Analysis of AI and Human Expertise in Peer Review
+
+date: 2024-09-12, from: Scholarly Kitchen
+
+<p>AI-generated content has been discovered in prominent journals. Should peer reviewers be expected to find AI text in manuscripts? Where in the publication workflow should these checks be done?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/09/12/strengths-weaknesses-opportunities-and-threats-a-comprehensive-swot-analysis-of-ai-and-human-expertise-in-peer-review/">Strengths, Weaknesses, Opportunities, and Threats: A Comprehensive SWOT Analysis of AI and Human Expertise in Peer Review</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/09/12/strengths-weaknesses-opportunities-and-threats-a-comprehensive-swot-analysis-of-ai-and-human-expertise-in-peer-review/>
 
 ---
 
@@ -58,7 +70,7 @@ Hume examines the fundamental nature of knowledge, reality and human understandi
 
 date: 2024-09-09, from: Association of Research Libraries News
 
-<p>Last Updated on September 10, 2024, 4:05 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 10 &#124; Wednesday, September 11 &#124; Thursday,...</p>
+<p>Last Updated on September 11, 2024, 4:45 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 10 &#124; Wednesday, September 11 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-9-12/">Day in Review (September 9–12)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

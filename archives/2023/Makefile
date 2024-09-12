@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #
-# Build the Antenna Archives Pages
+# Build the Antenna Archives Pages 2023
 #
 
 
@@ -12,7 +12,7 @@ build: $(HTML_PAGES)
 %.html: %.md
 	pandoc -f markdown -t html5 \
            --lua-filter=../../links-to-html.lua \
-	       --metadata feed_name="$(basename $<).txt"\
+           --metadata feed_name="$(basename $<).txt"\
            --metadata mid_central_page="../mid_central.html" \
            --metadata pacific_page="../pacific.html" \
            --metadata socal_north_page="../socal_north.html" \

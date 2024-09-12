@@ -179,7 +179,6 @@ clean: .FORCE
 	-rm writing.html 2>/dev/null
 	-rm health.md 2>/dev/null
 	-rm health.html 2>/dev/null
-	cd archives/$(YEAR) && make clean
 	cd archives && make clean
 
 CITATION.cff: .FORCE

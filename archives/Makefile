@@ -29,5 +29,7 @@ build: $(HTML_PAGES)
 
 clean:
 	rm *.html 2>/dev/null
+	cd 2024 && make clean
+	cd 2023 && make clean
 
 .FORCE:

@@ -1,11 +1,61 @@
 ---
 title: motorcycles
-updated: 2024-09-11 08:17:22
+updated: 2024-09-12 06:44:39
 ---
 
 # motorcycles
 
-(date: 2024-09-11 08:17:22)
+(date: 2024-09-12 06:44:39)
+
+---
+
+## Someone Stole This All-Original Honda CBX, At Least They Got a Helluva Great Price
+
+date: 2024-09-12, from: Ride Apart, Electric Motorcycle News
+
+It sat untouched for the better part of 35 years.  
+
+<https://www.rideapart.com/news/733300/1979-all-original-honda-cbx-auction-australia/>
+
+---
+
+## Formula 1's Boss Confirms Lewis Hamilton Wants a MotoGP Team, Fingers Crossed
+
+date: 2024-09-12, from: Ride Apart, Electric Motorcycle News
+
+Do it, Lewis.  
+
+<https://www.rideapart.com/news/733405/lewis-hamilton-liberty-media-motogp-team-buy/>
+
+---
+
+## Twin Motorcycle-Engine Mini or Ferrari 458, Who'll Win This Drag Race?
+
+date: 2024-09-12, from: Ride Apart, Electric Motorcycle News
+
+The results are not all that surprising.  
+
+<https://www.rideapart.com/news/733298/hayabusa-powered-autograss-mini-ferrar-458-drag-race/>
+
+---
+
+## Ola Electric Had An Angry Customer Set a Store on Fire, Is Getting Burned on Social
+
+date: 2024-09-12, from: Ride Apart, Electric Motorcycle News
+
+The two-wheeled EV company took to social media, but the comments are anything but sympathetic. 
+
+<https://www.rideapart.com/news/733403/ola-electric-karnataka-fire-customers/>
+
+---
+
+## Ryan Vargas Brings Home Another Partner in EuroNASCAR Campaign
+
+date: 2024-09-11, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor As the NASCAR Whelen Euro Series season nears its’ finale, Ryan Vargas has partnered with anyone.com for the remaining races in Belgium and Germany. The&#8230;  
+
+<https://kickinthetires.net/nascar/vargas-brings-home-partner-in-euronascar/>
 
 ---
 

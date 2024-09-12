@@ -1,11 +1,76 @@
 ---
 title: writing
-updated: 2024-09-11 08:17:19
+updated: 2024-09-12 06:44:35
 ---
 
 # writing
 
-(date: 2024-09-11 08:17:19)
+(date: 2024-09-12 06:44:35)
+
+---
+
+## 2024 Mo Siewcharran Prize Shortlist
+
+date: 2024-09-11, from: Locus Magazine
+
+<p>The six-title shortlist for this year&#8217;s Mo Siewcharran Prize has been announced. The award &#8220;aims to nurture talent from under-represented backgrounds writing in English.&#8221;</p>
+<p>This year&#8217;s submission call was for YA and adult fantasy novels. Shortlisted entries include:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>The Devotee</strong>, H.D. Ahmed</li>
+<li><strong>Sandstorm</strong>, Aliyah Goga</li>
+<li><strong>The Master of the Valley</strong>, Cassie Leung</li>
+<li><strong>The Treaties We Break</strong>, Tina Shah</li>
+<li><strong>Modern Day Dragons</strong>, Ana Sun</li>
+<li><strong>Deity of </strong></li></ul></div> <a href="https://locusmag.com/2024/09/2024-mo-siewcharran-prize-shortlist/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/09/2024-mo-siewcharran-prize-shortlist/>
+
+---
+
+## Hardwick Named New Baen Contest Director
+
+date: 2024-09-11, from: Locus Magazine
+
+<p>C Stuart Hardwick is taking over as contest director for the Jim Baen Memorial Short Story Award. Hardwick replaces William Ledbetter, who served as director for the past 18 years.</p>
+<p>Hardwick said, &#8220;In this competition, Bill [Ledbetter] and Toni Weisskopf have created something of real and lasting value to the industry, and I&#8217;m honored and excited to have a part in carrying on its legacy.&#8221;</p>
+<p>The contest will open for  <a href="https://locusmag.com/2024/09/hardwick-named-new-baen-contest-director/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/hardwick-named-new-baen-contest-director/>
+
+---
+
+## Writer/Director Disagreements
+
+date: 2024-09-11, from: Interesting, a blog on writing
+
+Clashes, feuds, and constructive criticism. 
+
+<https://inneresting.substack.com/p/writerdirector-disagreements>
+
+---
+
+## Write On: 'Beetlejuice Beetlejuice' Writers Al Gough and Miles Millar
+
+date: 2024-09-11, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-beetlejuice-beetlejuice-writers-al-gough-and-miles-millar" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Beetlejuice%20Beetlejuice%20Writers%20Al%20Gough%20%26%20Miles%20Millar.jpg" alt="Write On Podcast: 'Beetlejuice Beetlejuice'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“I think what Tim [Burton] does is he’s always trying to simplify. That’s the essence of a classic filmmaker. People think he’s wild and crazy and does all these things. His movies are brilliantly composed frames and he’s always looking for simplicity. All of his big movies, they’re really family dramas dressed up in whatever genre he’s in. That’s really what they are. And I think people think he’s always strange and weird and likes dark things, but no! It’s a classic story with good drama. And then he brings his sensibility to it,” says about the biggest lesson Al Gough has learned working with director Tim Burton on both the TV show <em>Wednesday</em> and the new film <em>Beetlejuice Beetlejuice</em>.</p> 
+
+<https://blog.finaldraft.com/write-on-beetlejuice-beetlejuice-writers-al-gough-and-miles-millar>
+
+---
+
+## Colleen Mondor Reviews Something Kindred by Ciera Burch
+
+date: 2024-09-11, from: Locus Magazine
+
+<p><strong>Something Kindred</strong>, Ciera Burch (Farrar Straus Giroux 978-0-374-38913-0, $19.99, hc, 284pp) March 2024.</p>
+<p>Seventeen-year-old Jericka is 100% not having, at all, the summer she was promised. Stuck in her mother’s hometown of Coldwater, Maryland, Jericka is supposed to be visiting all the beaches in New Jersey with her best friend, figuring out if she and her boyfriend are really as serious as they seem to be and taking pictures  <a href="https://locusmag.com/2024/09/colleen-mondor-reviews-something-kindred-by-ciera-burch/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/colleen-mondor-reviews-something-kindred-by-ciera-burch/>
 
 ---
 

@@ -1,11 +1,303 @@
 ---
 title: columns
-updated: 2024-09-11 08:17:17
+updated: 2024-09-12 06:44:33
 ---
 
 # columns
 
-(date: 2024-09-11 08:17:17)
+(date: 2024-09-12 06:44:33)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-12, from: Dave Winer's Scripting News)
+
+And btw I also am wasting my ideas, one in a hundred has any influence, and even then it's minscule, the ideas drift away unimplemented. I keep writing, hoping I see a way to get into the global conversation, again. I remember what it's like. But I'm not done. We still have a big problem to solve in our political and communication system. Online software is where it's at. 
+
+<http://scripting.com/2024/09/12.html#a130253>
+
+---
+
+## trurl 0.15.1
+
+date: 2024-09-12, from: Daniel Stenberg Blog
+
+trurl is slowing growing up and maturing. This is a minor patch release following up the previous one done just a few weeks ago, fixing a few annoying bugs only. Download it from curl.se/trurl Fixes in 0.15.1 Future I have this feeling that we still have use cases and combinations that we don&#8217;t have tested &#8230; <a href="https://daniel.haxx.se/blog/2024/09/12/trurl-0-15-1/" class="more-link">Continue reading <span class="screen-reader-text">trurl 0.15.1</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/09/12/trurl-0-15-1/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-12, from: Dave Winer's Scripting News)
+
+Another fantastic thinker and writer who is mostly scattering his ideas into the wind -- <a href="https://www.google.com/search?q=%22dan+conover%22">Dan Conover</a>, who when he comes out with a piece, I stop everything and sit down and carefully read it and savor it, because not only is there sure to be new info and new ideas, but the writing is sooo good. He's a former local reporter in South Carolina. I met him on a road tour I did a bunch of years ago. Where does he post this stuff? Facebook. I want it to be part of the concentrated web writers union. Maybe think of it as my karass, my version of The Atlantic, perhaps. Or my version of the op-ed page of the NY Times. I think there is definitely enough good stuff out there, unorganized, to easily rival them for originality, depth of thought, experience and great writing. Dan is on my list of such superheroes. 
+
+<http://scripting.com/2024/09/12.html#a125813>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-12, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/08/08/bootstrappingByEngelbart.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've been enjoying the recent <a href="https://buzzmachine.com/2024/09/11/whats-become-of-the-times-co/">blog</a> <a href="https://buzzmachine.com/2024/09/06/the-unprecedented-grand-coalition/">posts</a> by my longtime friend <a href="https://en.wikipedia.org/wiki/Jeff_Jarvis">Jeff Jarvis</a>. A couple of months ago, I was practically begging him to do this. He was pouring so much unfocused energy into making journalism play an appropriate role in our democracy. When Jeff started posting to his blog, it gave his friends something to point to, and we did. This writing had much more impact than a random tweet. Journalism crossed a line they should not have crossed. Now we fully expect them to try to do it again. We have to find a way for our ideas not to be scattered in the wind, so thorougly ignorable. And in doing so, I'm convinced we'd find a better way to organize the electorate online so it's more immune from unwise and unfair manipulation from the journalists. I also noted that <a href="https://en.wikipedia.org/wiki/Dan_Gillmor">Dan Gillmor</a>, who was also scattering his ideas in the wind, has started a <a href="https://cornerstone.ghost.io/">newsletter</a>. Dan was a real blogging <a href="https://www.google.com/search?q=site%3Ascripting.com+%22dan+gillmor%22">pioneer</a> as was Jeff. We remember how this kind of thing boots up. We can set up any kind of distribution system we need. 
+
+<http://scripting.com/2024/09/12.html#a123813>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-12, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/16/succession.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Someday an election will be like Game of Thrones or Succession. A campaign would be a season. There would be character development, arcs, twists, revelations, unforseen events. Near the end of the season you have the election, with the following episodes the plotting, intrigue, and undermining of democracy, and at the end of the season the inauguration of a new president. Each year you have more of this, until four years later you go through the election all over again. People would really study the candidates, and would have reasons they like one character over another. And maybe the patriarch doesn't die, and decides to run again. This is where we're heading, we might already be there. 
+
+<http://scripting.com/2024/09/12.html#a123319>
+
+---
+
+## Pop!_OS 24.04 and new COSMIC desktop reach alpha
+
+date: 2024-09-12, updated: 2024-09-12, from: Liam Proven's articles at the Register
+
+<h4>It's quite a long way from ready – but it's clearly visible in the distance</h4>
+      <p>The latest version of System76's Ubuntu remix is available, but it's not finished by any means. The new Rust-based desktop is somewhat usable, though.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/09/12/pop_os_2404_cosmic_desktop/>
+
+---
+
+## The horrendous truth about Trumponomics
+
+date: 2024-09-12, from: Robert Reich's blog
+
+Friends, 
+
+<https://robertreich.substack.com/p/the-frightening-truth-about-trumps>
+
+---
+
+## September 11, 2024 
+
+date: 2024-09-12, from: Heather Cox Richardson blog
+
+Today&#8217;s fallout from last night&#8217;s presidential debate between Democratic nominee Vice President Kamala Harris and Republican nominee former president Donald Trump has shown Harris solidifying her dominant position. 
+
+<https://heathercoxrichardson.substack.com/p/september-11-2024>
+
+---
+
+## Article pairing: missing information
+
+date: 2024-09-12, from: Tracy Durnell Blog
+
+Doing Your Own Research? What You Need to Know About Data Voids by Dr. Jen Gunter Sending people out to do “their own research” just doesn’t work because the Internet is filled with good information right alongside misinformation, and unfortunately, distinguishing between the two can be challenging, even for an expert&#8230; Without that expertise, it’s [&#8230;] 
+
+<https://tracydurnell.com/2024/09/11/article-pairing-missing-information/>
+
+---
+
+## Information, Data, and Knowledge
+
+date: 2024-09-12, updated: 2024-09-12, from: Ron Garret
+
+(This is part 10 in a series on the scientific method.)In 1966, well within living memory as I write this in 2024, Digital Equipment Corporation released the PDP-10, later rebranded as the DECsystem-10 or, more colloquially, the DEC-10.&nbsp; The base model cost over $100,000 in 1966 dollars, well over a million dollars today.&nbsp; For that price you got 8,192 words of memory, each being 36 bits 
+
+<https://blog.rongarret.info/2024/09/information-data-and-knowledge.html>
+
+---
+
+## A slip of the tongue?
+
+date: 2024-09-12, from: Dave Winer's Scripting News
+
+<p>It would have been cool if Harris had said "He's going to have you for dinner" instead of "He's going to eat you for lunch," which is what she said Putin would do to Trump. </p>
+<p>Makes you wonder if that was a slip of the tongue or if it was a little Easter Egg she dropped for our later amusement. </p>
+ 
+
+<http://scripting.com/2024/09/11/015941.html?title=aSlipOfTheTongue>
+
+---
+
+## It's marketing dummy
+
+date: 2024-09-12, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2019/12/24/drummer.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">What Harris is doing is marketing. It takes a lot of impressions to get people to believe she can be president. If she wants to win, she has to do a lot of interviews and rallies and say quotable things, and be tweeting all the time, not just in the campaign snark accounts (which are great) but also seriously in her own name. </p>
+<p>People aren't going to care about the policies though they will say that's what they want more of. What they want to feel is that she is present. Biden was invisible that's why they didn't like or trust him, even though he is a good president. Trump is very present, and they like that, trust that, but most of them also know he's a creep. She just has to keep beating the drum. </p>
+<p>And the secret is to keep beating the drum, constantly, after she wins. Don't disappear like Obama did. She must not only be president of the United States, but she has to be <a href="https://shownotes.scripting.com/scripting/2024/09/10/twitterPresidentKamala.html">president of Twitter</a> too (and by Twitter I mean all the twitter-like systems). </p>
+<p>So don't expect undecided voters to all convert to Harris in one event. But they will if she stays in the news, even dominates the news (please) and help them see Trump as a thing of the past. </p>
+<p>That's the way to win, and to win in governing too. </p>
+ 
+
+<http://scripting.com/2024/09/11/012827.html?title=itsMarketingDummy>
+
+---
+
+## Pine niwaki pruning inspiration and notes
+
+date: 2024-09-12, from: Tracy Durnell Blog
+
+Ninomaru Garden &#8211; Japanese Garden (via) Takamatsu trees by David Kawabata The Art of Japanese Style Aesthetic Pruning Called “Sukashi” and “Niwaki” Kyokukanshitate style tree (&#8220;visit&#8221; link to the original is spam) photo by Wander in Japan Kenrokuen garden by Leo Hourvitz pine at beach photo by Henri Bonell small tree in garden Thunderhead Japanese [&#8230;] 
+
+<https://tracydurnell.com/2024/09/11/pine-niwaki-pruning-inspiration-and-notes/>
+
+---
+
+## Election Countdown, 55 Days to Go: The Debate.
+
+date: 2024-09-11, from: James Fallows, Substack
+
+Last night I saw the best presidential-debate performance in my memory. And the worst. Conveniently, I could watch them both at the same time. 
+
+<https://fallows.substack.com/p/election-countdown-55-days-to-go>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-11, from: Dave Winer's Scripting News)
+
+Idea for TV series. Law and Order style crime drama where all the crimes are against humanity. 
+
+<http://scripting.com/2024/09/11.html#a212600>
+
+---
+
+##  Irving Penn: Small Trades 
+
+date: 2024-09-11, updated: 2024-09-11, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/irving-penn-small-trades>
+
+---
+
+## The Camera Is In Control
+
+date: 2024-09-11, from: Om Malik blog
+
+If you’re a longtime mobile phone enthusiast like I am, you’ve already seen a dedicated camera control button on phones well before Apple entered the smartphone market. The Nokia N95 is a notable example that comes to mind. Of course, there was Sony Ericsson with its own models. And let’s not forget — though many &#8230; 
+
+<https://om.co/2024/09/11/the-camera-is-in-control/>
+
+---
+
+## Taylor Swift Endorses Kamala Harris, Encourages Followers to Register to Vote
+
+date: 2024-09-11, updated: 2024-09-11, from: Daring Fireball
+
+ 
+
+<https://www.instagram.com/p/C_wtAOKOW1z/>
+
+---
+
+##  Tuneshine is a &#8220;lo-fi digital album art display for streaming services&#8221;. You... 
+
+date: 2024-09-11, updated: 2024-09-11, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045167-tuneshine-is-a-lo-fi-digi>
+
+---
+
+##  The isolating life of a pro tennis player who is not elite.... 
+
+date: 2024-09-11, updated: 2024-09-11, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045141-the-isolating-life-of-a>
+
+---
+
+## On Journalism and Principles
+
+date: 2024-09-11, from: Doc Searls (at Harvard), New Old Blog
+
+Thirteenth in the News Commons series. I grabbed the spottedhawk.org domain after hearing Garrison Keilor read this passage from Walt Whitman&#8217;s Song of Myself over Leo Kottke improvising on guitar: The spotted hawk swoops by and accuses me. He complains of my gab and my loitering. I too am not a bit tamed. I too [&#8230;] 
+
+<https://doc.searls.com/2024/09/11/on-journalism-and-principles/>
+
+---
+
+##  The Lego Great Ball Contraption 
+
+date: 2024-09-11, updated: 2024-09-11, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/the-lego-great-ball-contraption>
+
+---
+
+##  Gooey-Prickles or Prickly-Goo. &#8220;Prickly people are precise, rigorous, logical — they like... 
+
+date: 2024-09-11, updated: 2024-09-11, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045265-gooey-prickles-or-prickly>
+
+---
+
+## September 10, 2024
+
+date: 2024-09-11, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-10-2024-fbb>
+
+---
+
+##  Looks like Francis Ford Coppola finally got US distribution for his self-financed... 
+
+date: 2024-09-11, updated: 2024-09-11, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045264-looks-like-francis-ford-c>
+
+---
+
+##  Penny Farthing Bike Race (1928) 
+
+date: 2024-09-11, updated: 2024-09-11, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/penny-farthing-bike-race-1928>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-11, from: Dave Winer's Scripting News)
+
+Even if his supporters don't see it, Trump is a pathetic broken has-been. When he's gone we'll dance in good riddance. 
+
+<http://scripting.com/2024/09/11.html#a160520>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-11, from: Dave Winer's Scripting News)
+
+I wouldn't have traded places with Harris for anything in the world, she did fantastic. The pressure on her was enormous. I don't think Trump said one thing that was true. And Harris made the point that the division is coming from that guy over there, and if we don't want it all we have to do is turn the freaking page. For once the power is with the people. The Repubs in the Senate wouldn't vote to convict, the Supreme Court just gave him immunity, but the American people, in a few weeks, can tell them all to fuck off. 
+
+<http://scripting.com/2024/09/11.html#a155518>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-11, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/07/16/parrot.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The most encouraging thing about last night's debate was that the moderators were journalists. When Trump repeated his most egregious lie about murdering babies being legal in certain states, moderator Muir confidently, almost derisively, said that there is no such thing. And when Trump said he didn't admit he lost the election, and then when challenged said in a snotty way he was being sarcastic, Muir plainly that wasn't true either. It was like the Monty Python <a href="https://www.youtube.com/watch?v=4vuW6tQ0218">dead parrot</a> <a href="https://en.wikipedia.org/wiki/Dead_Parrot_sketch">sketch</a>. ABC News was the last place you'd expect real journalism to surface, maybe the NYT et al will follow their lead. 
+
+<http://scripting.com/2024/09/11.html#a155202>
+
+---
+
+##  There&#8217;s a store in Tokyo called Guruguru Shakashaka that has 600 different... 
+
+date: 2024-09-11, updated: 2024-09-11, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045268-theres-a-store-in-tokyo>
 
 ---
 
@@ -202,7 +494,7 @@ date: 2024-09-10, updated: 2024-09-10, from: Daring Fireball
 
 ## Good Riddance to Apple’s FineWoven Cases
 
-date: 2024-09-10, updated: 2024-09-10, from: Daring Fireball
+date: 2024-09-10, updated: 2024-09-11, from: Daring Fireball
 
  
 
@@ -220,7 +512,7 @@ date: 2024-09-10, updated: 2024-09-10, from: Daring Fireball
 
 ---
 
-## Tall energy and tonight's debate
+## Tall energy and tonight’s debate
 
 date: 2024-09-10, from: Robert Reich's blog
 

@@ -1,11 +1,129 @@
 ---
 title: food
-updated: 2024-09-11 08:17:24
+updated: 2024-09-12 06:44:41
 ---
 
 # food
 
-(date: 2024-09-11 08:17:24)
+(date: 2024-09-12 06:44:41)
+
+---
+
+## Pit Boss vs. Traeger: Who Makes the Better Pellet Grill?
+
+date: 2024-09-12, from: Taste of Home
+
+Who makes the best pellet grill between Pit Boss vs. Traeger? We put them to the test to find out. 
+
+<https://www.tasteofhome.com/article/pit-boss-vs-traeger/>
+
+---
+
+## Korean Potato Salad
+
+date: 2024-09-12, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2024/09/Korean-Potato-Salad-1200-7775.jpg"/></div>
+<p>A Korean style potato salad! I am a fan of potato salads and this Korean style potato salad is a good one! The main difference of this potato salad is that the potatoes are mashed instead of leaving them as solid cubes of potatoes. After the potatoes are cooked and mashed, a simple creamy mayonnaise...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/korean-potato-salad/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/korean-potato-salad/">Korean Potato Salad</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<https://www.closetcooking.com/korean-potato-salad/>
+
+---
+
+## Mexican Crema
+
+date: 2024-09-12, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/mexican-crema/"><img title="mexican-crema-small-24-4" src="https://www.isabeleats.com/wp-content/uploads/2020/01/mexican-crema-small-24-4-400x600.jpg" alt="Mexican crema in a bowl with a spoon." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	This thin and slightly tangy Mexican crema adds the perfect touch of creamy richness to any Mexican dish. Drizzle it on tacos, tostadas, enchiladas, and anything spicy to tone down the heat! I didn&#8217;t realize how easy it was to make homemade Mexican crema until I tried it, now it’s always stocked in my fridge! [&#8230;] 
+
+<https://www.isabeleats.com/mexican-crema/>
+
+---
+
+## Fried Jalapeño Slices
+
+date: 2024-09-11, from: Pepper Scale
+
+Fried jalapeño slices are one of those appetizers that spicy food lovers drool over. You have that decadent fried crunch mixed with the&#160;hot pepper heat. Try a little ranch dressing dip on the side to add a little creamy tang to the plate, too. It&#8217;s ... <p class="read-more-container"><a title="Fried Jalapeño Slices" class="read-more button" href="https://pepperscale.com/fried-jalapeno-slices/#more-4459" aria-label="Read more about Fried Jalapeño Slices">Read more</a></p> 
+
+<https://pepperscale.com/fried-jalapeno-slices/>
+
+---
+
+## Bacony Jalapeño Popper Dip
+
+date: 2024-09-11, from: Pepper Scale
+
+Any time you mix savory bacon with jalapeño peppers and lots of cheese&#8230;well that&#8217;s a pure win in our book. Our bacony jalapeño popper dip has all the flavors you love in spreadable form. And it&#8217;s without the fuss of having to stuff those jalapeños ... <p class="read-more-container"><a title="Bacony Jalapeño Popper Dip" class="read-more button" href="https://pepperscale.com/jalapeno-popper-dip/#more-6237" aria-label="Read more about Bacony Jalapeño Popper Dip">Read more</a></p> 
+
+<https://pepperscale.com/jalapeno-popper-dip/>
+
+---
+
+## Spicy Banana Bread
+
+date: 2024-09-11, from: Pepper Scale
+
+When you think banana bread, you likely think of bananas (of course), cinnamon, vanilla, and the like. Hot peppers probably don&#8217;t cross your mind. But this spicy banana bread recipe is strong proof that they should. This is a breakfast treat (or tasty dessert) that ... <p class="read-more-container"><a title="Spicy Banana Bread" class="read-more button" href="https://pepperscale.com/spicy-banana-bread/#more-6405" aria-label="Read more about Spicy Banana Bread">Read more</a></p> 
+
+<https://pepperscale.com/spicy-banana-bread/>
+
+---
+
+## Hoisin Peanut Sauce
+
+date: 2024-09-11, from: Pepper Scale
+
+There are many ways to spice up peanut sauce, though a hoisin peanut sauce may be one of the most flavorful. This mix of traditional peanut sauce and hoisin sauce delivers a rich sweet earthiness. It&#8217;s a big enough flavor to work with both chicken ... <p class="read-more-container"><a title="Hoisin Peanut Sauce" class="read-more button" href="https://pepperscale.com/hoisin-peanut-sauce/#more-51871" aria-label="Read more about Hoisin Peanut Sauce">Read more</a></p> 
+
+<https://pepperscale.com/hoisin-peanut-sauce/>
+
+---
+
+## Apricot Chicken
+
+date: 2024-09-11, from: Taste of Home
+
+This saucy, Chinese-inspired apricot chicken recipe tastes just like your favorite takeout order but comes together entirely in the microwave. 
+
+<https://www.tasteofhome.com/recipes/quick-apricot-chicken/>
+
+---
+
+## What’s A Good Harissa Substitute?
+
+date: 2024-09-11, from: Pepper Scale
+
+The delicious Tunisian chili paste harissa has become a go-to for spicy recipes, but it&#8217;s not always something many have in their pantries or even their local stores. So what do you do when your recipe calls for harissa and you have none to work ... <p class="read-more-container"><a title="What&#8217;s A Good Harissa Substitute?" class="read-more button" href="https://pepperscale.com/harissa-substitute/#more-6966" aria-label="Read more about What&#8217;s A Good Harissa Substitute?">Read more</a></p> 
+
+<https://pepperscale.com/harissa-substitute/>
+
+---
+
+## 133,500 Cases of Apple Juice Recalled Due to Potentially High Levels of Arsenic
+
+date: 2024-09-11, from: Taste of Home
+
+This apple juice recall affects apple juice sold nationwide at stores like Aldi, Dollar General, Walmart and more. Here's what we know.  
+
+<https://www.tasteofhome.com/article/apple-juice-recall-september-2024/>
+
+---
+
+## Dinner SOS: The Best New Restaurants Edition
+
+date: 2024-09-11, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris and Shilpa chat with the chef-owners of one of Bon Appétit’s Best New Restaurants of 2024. 
+
+<https://www.bonappetit.com/story/dinner-sos-the-best-new-restaurants-edition>
 
 ---
 
@@ -62,6 +180,16 @@ date: 2024-09-11, from: Bon Appetet
 There’s no one perfect knife—but we’ll help you find the best one for you. 
 
 <https://www.bonappetit.com/story/how-to-find-the-best-chefs-knife-for-you>
+
+---
+
+## Taste of Home Halloween Contest (#317) Official Rules
+
+date: 2024-09-10, from: Taste of Home
+
+1. Eligibility: This Contest is open to legal U.S. residents residing in one of the 50 United States or District 
+
+<https://www.tasteofhome.com/taste-of-home-halloween-contest-317-official-rules/>
 
 ---
 
