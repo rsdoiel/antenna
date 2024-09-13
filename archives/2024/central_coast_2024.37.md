@@ -1,11 +1,136 @@
 ---
 title: central coast
-updated: 2024-09-12 06:44:33
+updated: 2024-09-13 07:50:30
 ---
 
 # central coast
 
-(date: 2024-09-12 06:44:33)
+(date: 2024-09-13 07:50:30)
+
+---
+
+## Valerie Mary Dean (Oxton), Formerly of Santa Barbara, 1954-2024
+
+date: 2024-09-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="559" height="833" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Valerie-Oxton-Dean-Happiness.jpg?fit=559%2C833&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Valerie-Oxton-Dean-Happiness.jpg?w=559&amp;ssl=1 559w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Valerie-Oxton-Dean-Happiness.jpg?resize=201%2C300&amp;ssl=1 201w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Valerie-Oxton-Dean-Happiness.jpg?resize=400%2C596&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Valerie-Oxton-Dean-Happiness.jpg?fit=559%2C833&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>With profound sadness we announce the sudden passing of Valerie Mary Dean (Oxton), loving and devoted wife, mother, sister, aunt, grandmother, cousin and friend to all whose lives she touched, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/valerie-mary-dean-oxton-formerly-of-santa-barbara-1954-2024/">Valerie Mary Dean (Oxton), Formerly of Santa Barbara, 1954-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/valerie-mary-dean-oxton-formerly-of-santa-barbara-1954-2024/>
+
+---
+
+## Portland Head Light
+
+date: 2024-09-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082524-POD-Ross-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Portland Head Light near Cape Cottage, Maine." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082524-POD-Ross-Macfadyen.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082524-POD-Ross-Macfadyen.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082524-POD-Ross-Macfadyen.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082524-POD-Ross-Macfadyen.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082524-POD-Ross-Macfadyen.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082524-POD-Ross-Macfadyen.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082524-POD-Ross-Macfadyen.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082524-POD-Ross-Macfadyen.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082524-POD-Ross-Macfadyen.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082524-POD-Ross-Macfadyen.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082524-POD-Ross-Macfadyen.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082524-POD-Ross-Macfadyen.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082524-POD-Ross-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/portland-head-light/">Portland Head Light</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/portland-head-light/>
+
+---
+
+## BizHawk: Fuel Depot Opens, Offering Lower-Priced Gas in Goleta
+
+date: 2024-09-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-BizHawk-Fuel-Depot-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Fuel Depot has opened at 370 Storke Road in Goleta." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-BizHawk-Fuel-Depot-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-BizHawk-Fuel-Depot-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-BizHawk-Fuel-Depot-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-BizHawk-Fuel-Depot-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-BizHawk-Fuel-Depot-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-BizHawk-Fuel-Depot-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-BizHawk-Fuel-Depot-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-BizHawk-Fuel-Depot-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-BizHawk-Fuel-Depot-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-BizHawk-Fuel-Depot-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>For western Goleta residents, it&#8217;s an oasis in the desert. Fuel Depot has finally opened at 370 Storke Road. John Price, the guru behind Fuel Depot and Point Markets across [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-fuel-depot-opens-offering-lower-priced-gas-in-goleta/">BizHawk: Fuel Depot Opens, Offering Lower-Priced Gas in Goleta</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bizhawk-fuel-depot-opens-offering-lower-priced-gas-in-goleta/>
+
+---
+
+## Friday Night Lights Week 3: Santa Barbara Hosts Moorpark, Dos Pueblos Opens Home Schedule
+
+date: 2024-09-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/fnl-week-3-912.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/fnl-week-3-912.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/fnl-week-3-912.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/fnl-week-3-912.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/fnl-week-3-912.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/fnl-week-3-912.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/fnl-week-3-912.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/fnl-week-3-912.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/fnl-week-3-912.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/fnl-week-3-912.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/fnl-week-3-912.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Week three of the local high school football season features a full slate of games all weekend, with three teams playing on Friday and a pair of squads suiting up [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/friday-night-lights-week-3-santa-barbara-hosts-moorpark-dos-pueblos-opens-home-schedule/">Friday Night Lights Week 3: Santa Barbara Hosts Moorpark, Dos Pueblos Opens Home Schedule</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/friday-night-lights-week-3-santa-barbara-hosts-moorpark-dos-pueblos-opens-home-schedule/>
+
+---
+
+## SpaceX Falcon Rocket with 21 Starlink Satellites Blasts Off From Vandenberg
+
+date: 2024-09-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-SpaceX-Starlink-too-cont.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="With clouds hovering around the Lompoc Valley, a Falcon 9 rocket lifts off with 21 Starlink satellites on board Thursday at Vandenberg Space Force Base." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-SpaceX-Starlink-too-cont.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-SpaceX-Starlink-too-cont.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-SpaceX-Starlink-too-cont.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-SpaceX-Starlink-too-cont.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-SpaceX-Starlink-too-cont.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-SpaceX-Starlink-too-cont.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-SpaceX-Starlink-too-cont.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-SpaceX-Starlink-too-cont.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-SpaceX-Starlink-too-cont.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-SpaceX-Starlink-too-cont.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A Falcon 9 rocket carrying 21 Starlink satellites blasted off Thursday evening from Vandenberg Space Force Base, becoming the 30th of the year from the West Coast. Liftoff of the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/spacex-falcon-rocket-with-21-starlink-satellites-blasts-off-from-vandenberg/">SpaceX Falcon Rocket with 21 Starlink Satellites Blasts Off From Vandenberg</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/spacex-falcon-rocket-with-21-starlink-satellites-blasts-off-from-vandenberg/>
+
+---
+
+## Prep Girls Volleyball Roundup: Local Channel League Teams Earn Wins
+
+date: 2024-09-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara High girls volleyball dominated their way to a three-set sweep of Pacifica on Thursday inside JR Richards Gym, 25-11, 25-8, 25-12. “Every single player on our roster got [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-volleyball-roundup-santa-barbara-dos-pueblos-earn-channel-league-wins/">Prep Girls Volleyball Roundup: Local Channel League Teams Earn Wins</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-volleyball-roundup-santa-barbara-dos-pueblos-earn-channel-league-wins/>
+
+---
+
+## Carpinteria High Cross Country Opens League Season with First CCL Cluster Meet
+
+date: 2024-09-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Carpinteria High cross country competed in the first Citrus Coast League cluster meet of the season at Arroyo Verde Park in Ventura on Thursday. Hueneme’s J.R. Lesher won the boys [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/carpinteria-high-cross-country-opens-league-season-with-first-ccl-cluster-meet/">Carpinteria High Cross Country Opens League Season with First CCL Cluster Meet</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/carpinteria-high-cross-country-opens-league-season-with-first-ccl-cluster-meet/>
+
+---
+
+## Goleta Celebrates as Train Depot Project Gets Rolling
+
+date: 2024-09-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Goleta-train-station-4-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Michael Bennett, a former Goleta City Council member, helped introduce the idea to improve the Goleta train station." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Goleta-train-station-4-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Goleta-train-station-4-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Goleta-train-station-4-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Goleta-train-station-4-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Goleta-train-station-4-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Goleta-train-station-4-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Goleta-train-station-4-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Goleta-train-station-4-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Goleta-train-station-4-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Goleta-train-station-4-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Goleta train depot project is chugging along as the city celebrated the start of construction Thursday morning.&#160; The multimodal train station at 27 S. La Patera Lane will include [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-celebrates-as-train-depot-project-gets-rolling/">Goleta Celebrates as Train Depot Project Gets Rolling</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-celebrates-as-train-depot-project-gets-rolling/>
+
+---
+
+## Prep Girls Tennis Roundup: Santa Barbara High Battles to 10-8 Win Over Rival San Marcos
+
+date: 2024-09-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara High girls tennis pulled out a 10-8 victory over crosstown rival San Marcos on Thursday. Nicole Buist led the charge in singles play for the Dons, going 3-0 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-tennis-roundup-santa-barbara-high-battles-to-10-8-win-over-rival-san-marcos/">Prep Girls Tennis Roundup: Santa Barbara High Battles to 10-8 Win Over Rival San Marcos</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-tennis-roundup-santa-barbara-high-battles-to-10-8-win-over-rival-san-marcos/>
+
+---
+
+## Prep Girls Golf Roundup: Carpinteria Takes Down Hueneme, San Marcos Defeats Nordhoff
+
+date: 2024-09-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Carpinteria High girls golf came away with a close win over Hueneme at the Seabee Golf Course on Thursday. The Warriors combined for a team score of 303 with Hueneme [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-golf-roundup-carpinteria-takes-down-hueneme/">Prep Girls Golf Roundup: Carpinteria Takes Down Hueneme, San Marcos Defeats Nordhoff</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-golf-roundup-carpinteria-takes-down-hueneme/>
 
 ---
 

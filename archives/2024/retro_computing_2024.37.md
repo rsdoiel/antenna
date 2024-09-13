@@ -1,11 +1,21 @@
 ---
 title: retro computing
-updated: 2024-09-12 06:44:39
+updated: 2024-09-13 07:50:37
 ---
 
 # retro computing
 
-(date: 2024-09-12 06:44:39)
+(date: 2024-09-13 07:50:37)
+
+---
+
+## Rougol September 2024 meeting on monday
+
+date: 2024-09-13, from: Icon Bar, RISC OS News
+
+The September 2024 Rougol meeting is on Monday 16th September 
+
+<http://www.iconbar.com/comments/rss/news2100.html>
 
 ---
 

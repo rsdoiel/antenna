@@ -1,11 +1,381 @@
 ---
 title: socal north
-updated: 2024-09-12 06:44:30
+updated: 2024-09-13 07:50:27
 ---
 
 # socal north
 
-(date: 2024-09-12 06:44:30)
+(date: 2024-09-13 07:50:27)
+
+---
+
+## The Grand Canyon is experiencing one of its deadliest stretches in years
+
+date: 2024-09-13, updated: 2024-09-13, from: The LAist
+
+At least 16 people have died at the park this year, including five fatalities in August alone. No single factor is to blame, but several deaths have followed stretches of extreme weather. 
+
+<https://laist.com/news/climate-environment/the-grand-canyon-is-experiencing-one-of-its-deadliest-stretches-in-years>
+
+---
+
+## Taylor Swift's endorsement of Kamala Harris drives voters to visit Vote.gov
+
+date: 2024-09-13, updated: 2024-09-13, from: The LAist
+
+After Taylor Swift posted on Instagram after the presidential debate, saying she was voting for Kamala Harris, her link to Vote.gov garnered 13 times as much engagement as the site typically sees. 
+
+<https://laist.com/news/politics/taylor-swifts-endorsement-of-kamala-harris-drives-voters-to-visit-vote-gov>
+
+---
+
+## Who sent that political mailer? Here's our guide on following the money
+
+date: 2024-09-13, updated: 2024-09-13, from: The LAist
+
+We set out to track the money behind opposition mailers for Proposition 33 that landed in our mailbox. Here's what we found. 
+
+<https://laist.com/news/politics/political-mailers-campaign-spending>
+
+---
+
+## Gas stoves may soon come with a tobacco-style health warning label in California
+
+date: 2024-09-13, updated: 2024-09-13, from: The LAist
+
+In California, gas stoves may come with a health warning label. 
+
+<https://laist.com/news/climate-environment/gas-stoves-may-soon-come-with-a-tobacco-style-health-warning-label-in-california>
+
+---
+
+## Mountain High ski resort narrowly escapes Bridge Fire in its 100th year of business
+
+date: 2024-09-13, updated: 2024-09-13, from: The LAist
+
+Video captured flames engulfing trees and infrastructure, but it escaped major damage. 
+
+<https://laist.com/news/climate-environment/after-the-bridge-fire-roared-through-the-resort-mountain-high-still-plans-to-open-for-ski-season>
+
+---
+
+## Santa Ana Measure CC: Rent control and 'just cause' eviction
+
+date: 2024-09-13, updated: 2024-09-13, from: The LAist
+
+Measure CC would enshrine in Santa Ana’s charter the rent stabilization and 'just cause' eviction ordinance that's already in place. 
+
+<https://laist.com/news/politics/2024-election-california-general-measure-cc-santa-ana-rent-control>
+
+---
+
+## Classifieds – September 13, 2024
+
+date: 2024-09-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/13/classifieds-september-13-2024/">Classifieds &#8211; September 13, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/13/classifieds-september-13-2024/>
+
+---
+
+## ‘My Old Ass’ fails its coming-of-age genre
+
+date: 2024-09-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Starring Maisy Stella and Aubrey Plaza, “My Old Ass” suffers from stilted storytelling.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/13/my-old-ass-fails-its-coming-of-age-genre/">&#8216;My Old Ass&#8217; fails its coming-of-age genre</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/13/my-old-ass-fails-its-coming-of-age-genre/>
+
+---
+
+## No. 3 Men’s water polo poised for home openers
+
+date: 2024-09-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans will play three games at home, including two duels with top 10-ranked opponents.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/13/no-3-mens-water-polo-poised-for-home-openers/">No. 3 Men&#8217;s water polo poised for home openers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/13/no-3-mens-water-polo-poised-for-home-openers/>
+
+---
+
+## The undocumented experience at USC is often overlooked
+
+date: 2024-09-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>he lack of expertise by the University fails to meet its inclusivity statements.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/13/the-undocumented-experience-at-usc-is-often-overlooked/">The undocumented experience at USC is often overlooked</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/13/the-undocumented-experience-at-usc-is-often-overlooked/>
+
+---
+
+## Thank you, Kim Clijsters
+
+date: 2024-09-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Why can’t I forget about a tennis match from 15 years ago?</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/13/thank-you-kim-clijsters/">Thank you, Kim Clijsters</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/13/thank-you-kim-clijsters/>
+
+---
+
+## Community reacts to new campus access restrictions
+
+date: 2024-09-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>More than 22,000 students and guest came to campus for USC’s first home game.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/13/community-reacts-to-new-campus-access-restrictions/">Community reacts to new campus access restrictions</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/13/community-reacts-to-new-campus-access-restrictions/>
+
+---
+
+## Protesters organize ‘Walkout for Palestine’
+
+date: 2024-09-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Demonstrators opposed army, CIA and weapons makers at the career fair.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/13/protesters-organize-walkout-for-palestine/">Protesters organize &#8216;Walkout for Palestine&#8217;</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/13/protesters-organize-walkout-for-palestine/>
+
+---
+
+## What films to watch this Friday the 13th
+
+date: 2024-09-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>These seven spooky movie recommendations will suit any fall night you're having.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/13/what-films-to-watch-this-friday-the-13th/">What films to watch this Friday the 13th</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/13/what-films-to-watch-this-friday-the-13th/>
+
+---
+
+## Weekly Frame II: Noir
+
+date: 2024-09-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/09/13/weekly-frame-ii-noir/">Weekly Frame II: Noir</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/13/weekly-frame-ii-noir/>
+
+---
+
+## It’s time to diversify your bookshelf
+
+date: 2024-09-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The publishing industry has never been representative, and it’s time for a change.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/13/its-time-to-diversify-your-bookshelf/">It’s time to diversify your bookshelf</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/13/its-time-to-diversify-your-bookshelf/>
+
+---
+
+## UCLA men’s soccer looks ahead to Big Ten debut against Northwestern
+
+date: 2024-09-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Uncharted territory lies ahead for the first time in program history.
+UCLA men&#8217;s soccer (2-1-2) will take on No. 14 Northwestern (5-1) on Friday night at Lanny and Sharon Martin Stadium. 
+
+<https://dailybruin.com/2024/09/12/ucla-mens-soccer-looks-ahead-to-big-ten-debut-against-northwestern/>
+
+---
+
+## UCLA football sharpens units ahead of first home, Big Ten clash against Indiana
+
+date: 2024-09-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Everything was familiar in the Pac-12.
+Whether it was a rival coach, players or a playbook, each conference matchup carried a rich, entrenched history.
+In its first Big Ten contest, UCLA football (1-0) will take on Indiana (2-0) on Saturday afternoon at the Rose Bowl, the first matchup against the Hoosiers in the Bruins&#8217; 105-year history. 
+
+<https://dailybruin.com/2024/09/12/ucla-football-sharpens-units-ahead-of-first-home-big-ten-clash-against-indiana/>
+
+---
+
+## Yoga practices can help students manage stress and enhance well-being
+
+date: 2024-09-13, from: The Sundail (CSUN Student Newspaper)
+
+College life is often depicted as a time of exhilarating independence and growth, but it also brings significant stress and anxiety for many students. The transition to college can be... 
+
+<https://sundial.csun.edu/184669/news/campus-news/yoga-practices-can-help-students-manage-stress-and-enhance-well-being/>
+
+---
+
+## How Duolingo’s unhinged marketing strategy nurtures its success
+
+date: 2024-09-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+On April 1, Duolingo posted a video on TikTok where their mascot performed a musical number in Spanish while ice skating to advertise a &#8220;Duolingo on Ice&#8221; musical. 
+
+<https://dailybruin.com/2024/09/12/how-duolingos-unhinged-marketing-strategy-nurtures-its-success/>
+
+---
+
+## Second Take: Putting artists in “industry plant” category deprives value of accomplished music
+
+date: 2024-09-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Now more than ever, the hollow label of &#8220;industry plant&#8221; holds little meaning without assessing the roots of an artist beneath the surface.
+Every year, a fresh handful of artists tend to break through into the mainstream with catchy singles or replay-worthy albums that propel their work from unknown to ubiquitous &#8211; practically overnight. 
+
+<https://dailybruin.com/2024/09/12/second-take-putting-artists-in-industry-plant-category-deprives-value-of-accomplished-music/>
+
+---
+
+## Hike a Marathon During This Year’s Challenge
+
+date: 2024-09-12, from: City of Santa Clarita
+
+<p>Hike 26.2 Miles During the Next Four Months!  The City of Santa Clarita is excited to announce the third annual fall Hiking Challenge—with a twist! This year, participants are challenged to complete a marathon, 26.2 miles, worth of trails in the Newhall Pass Open Space and surrounding trails. To kick off the challenge, residents are [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/12/hike-a-marathon-during-this-years-challenge/">Hike a Marathon During This Year&#8217;s Challenge</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/12/hike-a-marathon-during-this-years-challenge/>
+
+---
+
+## Three Exciting Terrarium-Based Biology Projects to Spark Student Curiosity
+
+date: 2024-09-12, from: The Sundail (CSUN Student Newspaper)
+
+Image source: https://unsplash.com/photos/a-small-lizard-sitting-on-top-of-a-window-sill-W74c3uwFepg  &#160; Terrariums are like tiny glass gardens, offering a window into the fascinating world of ecosystems. These enclosed environments let you observe plant and animal life while... 
+
+<https://sundial.csun.edu/184746/sundialbrandstudio/sundial-marketplace/three-exciting-terrarium-based-biology-projects-to-spark-student-curiosity/>
+
+---
+
+## Best Technology For Customer Acquisition And Retention In Trading
+
+date: 2024-09-12, from: The Sundail (CSUN Student Newspaper)
+
+Trading involves buying and selling commodities, but it also involves grabbing the attention of customers and retaining them for longer relationships. Every trade you carry out should be focused on... 
+
+<https://sundial.csun.edu/184743/sundialbrandstudio/sundial-marketplace/best-technology-for-customer-acquisition-and-retention-in-trading/>
+
+---
+
+## Elevating Guest Experiences: Svet Pargov’s Key to Customer Satisfaction
+
+date: 2024-09-12, from: The Sundail (CSUN Student Newspaper)
+
+In the fiercely competitive vacation rental industry, Svet Pargov, CEO and co-founder of S&#38;T Properties, has distinguished himself by prioritizing guest satisfaction through exceptional service, meticulous attention to detail, and... 
+
+<https://sundial.csun.edu/184740/sundialbrandstudio/sundial-marketplace/elevating-guest-experiences-svet-pargovs-key-to-customer-satisfaction/>
+
+---
+
+## Understanding Career Opportunities in Healthcare Support Roles
+
+date: 2024-09-12, from: The Sundail (CSUN Student Newspaper)
+
+Image Source: Unsplash Exploring a career in healthcare support can be incredibly rewarding and offer diverse opportunities to make a meaningful impact. Whether you&#8217;re looking for patient interaction, behind-the-scenes work,... 
+
+<https://sundial.csun.edu/184737/sundialbrandstudio/sundial-marketplace/understanding-career-opportunities-in-healthcare-support-roles/>
+
+---
+
+## Emerging Trends in Healthcare Education for 2024
+
+date: 2024-09-12, from: The Sundail (CSUN Student Newspaper)
+
+https://pixabay.com/photos/kindle-ereader-tablet-e-reader-1867751/  &#160; Due to the involvement of advanced technologies like artificial intelligence (AI), virtual reality (VR), and others, healthcare education is evolving in remarkable ways.  For instance, VR allows students... 
+
+<https://sundial.csun.edu/184734/sundialbrandstudio/sundial-marketplace/emerging-trends-in-healthcare-education-for-2024/>
+
+---
+
+## How Corporate Gifts Foster Inclusivity and Diversity
+
+date: 2024-09-12, from: The Sundail (CSUN Student Newspaper)
+
+Image: Freepik Corporate gifts can be a powerful tool to recognize and appreciate employees&#8217; hard work, while also enhancing workplace culture. Plus, they can be used to embody and communicate... 
+
+<https://sundial.csun.edu/184730/sundialbrandstudio/sundial-marketplace/how-corporate-gifts-foster-inclusivity-and-diversity/>
+
+---
+
+## Veterans Resource Center Remembers 9/11
+
+date: 2024-09-12, from: The Sundail (CSUN Student Newspaper)
+
+The Veterans Resource Center held a 9/11 memorial on the Library Lawn from 12 p.m. to 3 p.m., remembering the lives lost during the terror attacks and honoring first responders... 
+
+<https://sundial.csun.edu/184704/news/veterans-resource-center-remembers-9-11/>
+
+---
+
+## Parenting for Prevention – Building a Drug-Free Future
+
+date: 2024-09-12, from: City of Santa Clarita
+
+<p>By Mayor Cameron Smyth &#8220;An ounce of prevention is worth a pound of cure.&#8221; – Benjamin Franklin As a father of three, I understand firsthand the importance of guiding our children through open communication and keeping them engaged in extracurricular activities and sports to foster their growth. Like many of you, I am eager to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/12/parenting-for-prevention-building-a-drug-free-future/">Parenting for Prevention &#8211; Building a Drug-Free Future</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/12/parenting-for-prevention-building-a-drug-free-future/>
+
+---
+
+## LAUSD, Trio of Alleged Sex Assault Victims Who Attended Langdon Elementary Reach $24 Million Settlement
+
+date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01.jpeg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01.jpeg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; A $24 million settlement has been reached on behalf of three women who alleged they were sexually abused by their elementary school teacher in 2006 and [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/12/lausd-trio-of-alleged-sex-assault-victims-who-attended-langdon-elementary-reach-24-million-settlement/">LAUSD, Trio of Alleged Sex Assault Victims Who Attended Langdon Elementary Reach $24 Million Settlement</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/12/lausd-trio-of-alleged-sex-assault-victims-who-attended-langdon-elementary-reach-24-million-settlement/>
+
+---
+
+## President’s Picnic
+
+date: 2024-09-12, from: The Sundail (CSUN Student Newspaper)
+
+CSUN’s Office of the President greeted students with the annual President’s Picnic following President Erika D. Beck’s welcome address. Each fall, faculty and staff volunteer to serve as hosts to... 
+
+<https://sundial.csun.edu/184672/news/campus-news/presidents-picnic/>
+
+---
+
+## Transitional kindergarten: What can a parent expect when it comes to schools helping their non-potty-trained kid?
+
+date: 2024-09-12, updated: 2024-09-12, from: The LAist
+
+As California expands transitional kindergarten to all 4-year-olds, children are starting public school at a younger age. But districts have varying policies on how to help kids who are not yet potty-trained. 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/transitional-kindergarten-parent-expectations-schools-potty-training>
+
+---
+
+## Is the future of farming inside? We visit Compton’s indoor farm to find out
+
+date: 2024-09-12, updated: 2024-09-13, from: The LAist
+
+One of the world’s most high-tech indoor vertical farms is growing leafy greens in Compton. 
+
+<https://laist.com/news/climate-environment/compton-indoor-farm-plenty-vertical-tech>
 
 ---
 
@@ -16,16 +386,6 @@ date: 2024-09-12, updated: 2024-09-12, from: The LAist
 The measure would amend Santa Ana's city charter to allow noncitizen residents to vote in municipal elections. 
 
 <https://laist.com/news/politics/2024-election-california-general-santa-ana-measure-dd-noncitizen-voting>
-
----
-
-## Is the future of farming inside? We visit Compton’s indoor farm to find out
-
-date: 2024-09-12, updated: 2024-09-12, from: The LAist
-
-One of the world’s most high-tech indoor vertical farms is growing leafy greens in Compton. 
-
-<https://laist.com/news/climate-environment/compton-indoor-farm-plenty-vertical-tech>
 
 ---
 
@@ -194,7 +554,7 @@ In UCLA football&#8217;s season opener against Hawai&#699;i on Aug.
 
 date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Turn-Off-the-Valve_SN_13-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>En la mañana de uno de los días más calurosos del año, la ciudad de San Fernando celebró el regreso a sus pozos de agua después de dos años de [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/11/ciudad-de-san-fernando-cierra-la-valvula-y-vuelve-a-la-independencia-hidrica/">Ciudad de San Fernando ‘Cierra la Válvula’ y Vuelve a la Independencia Hídrica</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -244,7 +604,7 @@ date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="597" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?fit=1024%2C597&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=300%2C175&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=1024%2C597&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=768%2C448&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=1536%2C895&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=1200%2C700&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=1568%2C914&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=400%2C233&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=706%2C412&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?fit=1024%2C597&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="597" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?fit=1024%2C597&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=300%2C175&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=1024%2C597&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=768%2C448&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=1536%2C895&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=1200%2C700&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=1568%2C914&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=400%2C233&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?resize=706%2C412&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Sunshine-Canyon-Landfill_SN_02-scaled-e1726110258746.jpeg?fit=1024%2C597&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Esta semana, se presentó una demanda contra el operador del vertedero de Sunshine Canyon en Sylmar en nombre de los residentes que afirman estar sujetos a los gases tóxicos de [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/11/los-residentes-de-sylmar-presentan-una-demanda-contra-el-vertedero-de-sunshine-canyon-debido-a-los-gases-toxicos/">Los Residentes de Sylmar Presentan una Demanda Contra el Vertedero de Sunshine Canyon Debido a Los Gases Tóxicos</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -257,7 +617,7 @@ date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="839" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?fit=839%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=246%2C300&amp;ssl=1 246w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=839%2C1024&amp;ssl=1 839w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=768%2C937&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=1258%2C1536&amp;ssl=1 1258w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=1200%2C1465&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=400%2C488&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=706%2C862&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?fit=839%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="839" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?fit=839%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=246%2C300&amp;ssl=1 246w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=839%2C1024&amp;ssl=1 839w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=768%2C937&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=1258%2C1536&amp;ssl=1 1258w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=1200%2C1465&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=400%2C488&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?resize=706%2C862&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DSC09062.jpg?fit=839%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Para obtener apoyo para una medida electoral que financiaría viviendas asequibles y la prevención de la falta de vivienda en el condado de Los Ángeles, líderes comunitarios y proveedores de [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/11/organizaciones-de-laco-lanzan-campana-por-una-medida-electoral-para-recaudar-fondos-para-servicios-para-personas-sin-hogar/">Organizaciones de LACo Lanzan Campaña por una Medida Electoral para Recaudar Fondos para Servicios Para Personas Sin Hogar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -282,7 +642,7 @@ date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=1200%2C903&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=706%2C531&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=1200%2C903&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?resize=706%2C531&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/001.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>El congresista Tony Cárdenas ha asegurado $2.75 millones en fondos para proyectos comunitarios de Pacoima Beautiful para la compra, renovación y expansión de Casa Esperanza, un centro comunitario sin fines [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/11/cardenas-entrega-2-75-millones-a-pacoima-beautiful-para-adquirir-y-hacer-crecer-casa-esperanza/">Cárdenas Entrega $2.75 Millones a Pacoima Beautiful para Adquirir y Hacer Crecer Casa Esperanza</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -295,7 +655,7 @@ date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/LAOpera_OffGrand2018_148-scaled-e1726109586496.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/LAOpera_OffGrand2018_148-scaled-e1726109586496.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/LAOpera_OffGrand2018_148-scaled-e1726109586496.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/LAOpera_OffGrand2018_148-scaled-e1726109586496.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/LAOpera_OffGrand2018_148-scaled-e1726109586496.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/LAOpera_OffGrand2018_148-scaled-e1726109586496.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/LAOpera_OffGrand2018_148-scaled-e1726109586496.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/LAOpera_OffGrand2018_148-scaled-e1726109586496.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/LAOpera_OffGrand2018_148-scaled-e1726109586496.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/LAOpera_OffGrand2018_148-scaled-e1726109586496.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Se invita a los miembros de la comunidad de todas las edades a traer sillas de jardín y canastas de picnic al Parque El Cariso el 21 de septiembre para [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/11/la-opera-de-los-angeles-llegara-al-parque-el-cariso-en-sylmar-el-21-de-septiembre/">La Ópera de Los Ángeles Llegará al Parque El Cariso en Sylmar el 21 de Septiembre</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

@@ -1,11 +1,102 @@
 ---
 title: parks
-updated: 2024-09-12 06:44:38
+updated: 2024-09-13 07:50:35
 ---
 
 # parks
 
-(date: 2024-09-12 06:44:38)
+(date: 2024-09-13 07:50:35)
+
+---
+
+## BLM welcomes Philip DeSenze as Ridgecrest field manager
+
+date: 2024-09-12, from: Bureau of Land Management, California
+
+<div class="layout layout--onecol">
+        <div class="layout__region layout__region--content">
+      
+
+  
+<div class="breadcrumb-max-width block">
+  
+    
+        <nav role="navigation" aria-labelledby="system-breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/">Home</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/media">Info</a></li>
+          <li class="breadcrumb-item"><a href="https://www.blm.gov/press-release">Press Releases</a></li>
+          <li class="breadcrumb-item">Press Releases</li>
+        </ol>
+  </nav>
+
+  </div>
+
+    </div>
+  </div>
+  <div class="layout layout--twocol-section layout--twocol-section--67-33 section-one-full-width wide-content d-flex flex-lg-nowrap">
+                  <div class="layout__region layout__region--first mb-4 mb-lg-0">
+          
+
+  
+<div class="block">
+  
+    
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p><a class="cta-button" href="https://www.blm.gov/announcement" style="
+    display: inline-block;
+    background: 0 0;
+    color: #007fad;
+    margin-bottom: 0;
+    font-weight: 500;
+    padding: 0;">&lt; All Announcements</a></p>
+</div>
+      
+  </div>
+
+
+  
+<div class="block">
+  
+    
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><hr>
+<p><em>The BLM manages more than 245 million acres of public land located primarily in 12 western states, including Alaska, on behalf of the American people. The BLM also administers 700 million acres of sub-surface mineral estate throughout the nation. Our mission is to sustain the health, diversity, and productivity of America’s public lands for the use and enjoyment of present and future generations.</em></p>
+</div>
+      
+  </div>
+
+        </div>
+                    <div class="layout__region layout__region--second">
+          
+        </div>
+            </div> 
+
+<https://www.blm.gov/announcement/blm-welcomes-philip-desenze-ridgecrest-field-manager>
+
+---
+
+## ﻿  Grand Canyon National Park Eases Water Restrictions
+
+date: 2024-09-12, from: Press Releases
+
+Effective immediately, Grand Canyon National Park's South Rim will transition to Stage 2 water restrictions due to rising water levels in reservoir tanks.
+
+Camper Services, operated by Delaware North, will reopen to the public. Water spigots in Mather Campground and Desert View Campground will be turned on. Fire restrictions throughout the South Rim will be lifted. However, the park will remain under Stage 1 fire restrictions, which require campfires to be contained within designated fire rings in maintained campgrounds. https://www.nps.gov/grca/learn/news/transition-to-stage-2-water-restrictions.htm 
+
+<https://www.nps.gov/grca/learn/news/transition-to-stage-2-water-restrictions.htm>
 
 ---
 

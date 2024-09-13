@@ -1,11 +1,22 @@
 ---
 title: writing
-updated: 2024-09-12 06:44:35
+updated: 2024-09-13 07:50:32
 ---
 
 # writing
 
-(date: 2024-09-12 06:44:35)
+(date: 2024-09-13 07:50:32)
+
+---
+
+## Gabino Iglesias Reviews How to Make a Horror Movie and Survive by Craig DiLouie
+
+date: 2024-09-12, from: Locus Magazine
+
+<p><strong>How to Make a Horror Movie and Survive</strong>, Craig DiLouie (Redhook 978-0-31656-931-6, $19.99, 400pp, ppb) June 2024.</p>
+<p>Funny horror is hard to do right, but Craig DiLouie delivers plenty of it in <strong>How to Make a Horror Movie and Survive</strong>. At once a send up of the movie industry, a brutal horror novel where a lot of people die in horrible ways, and an exploration of art and  <a href="https://locusmag.com/2024/09/gabino-iglesias-reviews-how-to-make-a-horror-movie-and-survive-by-craig-dilouie/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/gabino-iglesias-reviews-how-to-make-a-horror-movie-and-survive-by-craig-dilouie/>
 
 ---
 

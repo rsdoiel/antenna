@@ -1,11 +1,511 @@
 ---
 title: going electric
-updated: 2024-09-12 06:44:41
+updated: 2024-09-13 07:50:38
 ---
 
 # going electric
 
-(date: 2024-09-12 06:44:41)
+(date: 2024-09-13 07:50:38)
+
+---
+
+## This Tesla Model Y Clone From Nio Might Be Even Better
+
+date: 2024-09-13, from: Inside EVs News
+
+The Onvo L60 has a 900-volt platform, better efficiency and it’s more affordable than Tesla’s Model Y. 
+
+<https://insideevs.com/news/733690/onvo-l60-tesla-model-y/>
+
+---
+
+## Toyota chairman set to visit Hyundai in Korea: Is another EV partnership coming?
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Hyundai-US-made-IONIQ-5-XRT-side.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota’s former CEO and current chairman, Akio Toyoda, is heading to South Korea next month for a strategic meeting with Hyundai. With a private meeting scheduled between company chairpersons, is a new <a href="https://electrek.co/guides/toyota/">Toyota</a> and Hyundai EV collaboration coming?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,toyota" data-layer-viewtype="unknown" data-post-id="379776" href="https://electrek.co/2024/09/13/toyota-chairman-visit-hyundai-new-ev-partnership-coming/#more-379776" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/toyota-chairman-visit-hyundai-new-ev-partnership-coming/>
+
+---
+
+## US sticks to its guns on ‘tough, targeted’ 100% tariffs on Chinese EVs that will begin this month
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/10/US-EV-battery-Biden.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Four months after the Biden Administration announced plans for the Office of the United States Trade Representative to quadruple tariffs on certain Chinese imports, including EVs, to 100%, the White House has confirmed the action, which will go into effect in two weeks. China has threatened retaliation as the <a href="https://electrek.co/guides/tariffs/">trade war</a> continues to intensify.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,tariffs,united-states" data-layer-viewtype="unknown" data-post-id="379778" href="https://electrek.co/2024/09/13/us-100-tariffs-on-chinese-evs-will-begin-this-month/#more-379778" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/us-100-tariffs-on-chinese-evs-will-begin-this-month/>
+
+---
+
+## Tesla Cybercab Robotaxi: Is This It?
+
+date: 2024-09-13, from: Inside EVs News
+
+The bright yellow two-door allegedly has a Cybertruck-like rear light strip. 
+
+<https://insideevs.com/news/733673/tesla-robotaxi-cybercab-spy-shot/>
+
+---
+
+## Velotric Fold 1 review: A 28 MPH folding e-bike that looks good and rides better!
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/velotric-fold-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Velotric continues to impress me with each new launch, and the <a href="http://velotricebike.pxf.io/jro0yP">Velotric Fold 1</a> has no plans to ruin that streak. Having spent some solid saddle time with the bike now, I can tell you that this is one of the best electric folders out there right now for e-bike shoppers on a budget.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,review" data-layer-viewtype="unknown" data-post-id="377846" href="https://electrek.co/2024/09/13/velotric-fold-1-review-a-28-mph-folding-e-bike-that-looks-good-and-rides-better/#more-377846" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/velotric-fold-1-review-a-28-mph-folding-e-bike-that-looks-good-and-rides-better/>
+
+---
+
+## The US gov’t is finally doing something about giant pedestrian-killing SUVs
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/Car_Crash_7-1-18_2245_42450608354-e1679016460487.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>After a decade and a half rise in pedestrian deaths, the US government is finally starting to take some action to stop huge pedestrian-killing SUVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="epa,nhtsa,pedestrian,suvs" data-layer-viewtype="unknown" data-post-id="379708" href="https://electrek.co/2024/09/13/the-us-govt-is-finally-doing-something-about-giant-pedestrian-killing-suvs/#more-379708" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/the-us-govt-is-finally-doing-something-about-giant-pedestrian-killing-suvs/>
+
+---
+
+## All the EVs (and one PHEV) you can buy with 0% financing this September [update]
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/zero-interest.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Lease deals get all the hype, but some people still want to own the car they’ve made all those payments on. If that’s you, and you’ve been waiting for interest rates to drop, you’re in luck: there’s a bunch of great EVs you can buy with 0% financing this month!</p>
+
+
+
+<p><strong>Update</strong> <strong>12SEP</strong>: two <em>hot</em> new EVs make the list!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,financing" data-layer-viewtype="unknown" data-post-id="378149" href="https://electrek.co/2024/09/13/all-the-evs-and-one-phev-you-can-buy-with-0-financing-this-september/#more-378149" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/all-the-evs-and-one-phev-you-can-buy-with-0-financing-this-september/>
+
+---
+
+## Tesla is testing a goofy camouflaged Robotaxi prototype ahead of reveal
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-robotaxi.webp?w=1500" /></div><p>Tesla is gearing up for its October 10 Robotaxi unveiling, which will <a href="https://electrek.co/2024/08/31/teslas-oct-10-robotaxi-event-will-be-at-warner-bros-studio-in-la/">take place at Warner Bros. Studio</a>, and it’s currently <a href="https://www.reddit.com/r/teslamotors/comments/1ffgw08/teslas_currently_being_used_to_practice_fsd_on/">running a fleet of (normal) cars</a> around the lot to map the area.</p>
+
+
+
+<p>But one of the cars, photographed late yesterday by a lot employee, stands out – and it stands out because it seems to be a heavily-camouflaged version of the heretofore-not-seen Robotaxi.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="robotaxi,tesla" data-layer-viewtype="unknown" data-post-id="379760" href="https://electrek.co/2024/09/13/tesla-is-testing-a-goofy-camouflaged-robotaxi-prototype-ahead-of-reveal/#more-379760" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/tesla-is-testing-a-goofy-camouflaged-robotaxi-prototype-ahead-of-reveal/>
+
+---
+
+## Tesla Autopilot Trainers Were Told To Ignore ‘No Turn On Red’ Signs: Report
+
+date: 2024-09-13, from: Inside EVs News
+
+The automaker reportedly wanted its driver assistance system to “drive like a human, not a robot that’s just following the rules.” 
+
+<https://insideevs.com/news/733613/tesla-autopilot-ignore-no-turn-red-u-turn/>
+
+---
+
+## Volvo’s Car Subscription Program Is Dead
+
+date: 2024-09-13, from: Inside EVs News
+
+Care by Volvo brought in new customers for the automaker, but now it’s all about “operational efficiencies.” 
+
+<https://insideevs.com/news/733597/volvo-car-subscription-over/>
+
+---
+
+## Massive, 400 tonne electric cranes arrive at the Port of San Diego
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Port-of-San-Diego-Electric-Cranes-copy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://electrek.co/2024/03/06/port-of-san-diego-electric-forklift/">The Port of San Diego</a> has received a pair of 400 tonne (440 ton) electric Konecranes. The port now boasts the highest lifting capacity of any crane system on the West Coast with a dramatic upgrade from the 100 tonne lifting capacity of the diesel cranes they replace!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="crane,electric-heavy-machinery" data-layer-viewtype="unknown" data-post-id="379738" href="https://electrek.co/2024/09/12/massive-400-tonne-electric-cranes-arrive-at-the-port-of-san-diego/#more-379738" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/massive-400-tonne-electric-cranes-arrive-at-the-port-of-san-diego/>
+
+---
+
+## US Postal Service electric trucks are finally here and drivers love them
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/09/Oshkosh-USPS.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>USPS is finally rolling out its much-anticipated Next Generation Delivery Vehicles (NGDVs), and the first fleet of them to go into service in Atlanta, Georgia is earning rave reviews from delivery drivers <a href="https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9">according to an AP report</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="usps" data-layer-viewtype="unknown" data-post-id="379711" href="https://electrek.co/2024/09/12/us-postal-service-electric-trucks-are-finally-here-and-drivers-love-them/#more-379711" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/us-postal-service-electric-trucks-are-finally-here-and-drivers-love-them/>
+
+---
+
+## Why Rivian Bought China's 'Apple Car'
+
+date: 2024-09-12, from: Inside EVs News
+
+The Xiaomi SU7, sometimes called China's "Apple Car," is making waves. And now it's a benchmark vehicle for Rivian. 
+
+<https://insideevs.com/news/733582/rivian-xiaomi-su7-rj-scaringe/>
+
+---
+
+## No wraps for Cybertruck, Chevy EV deals, and recycled solar takes off
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/no-wrap-for-you.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s electrifying episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we talk about Tesla full self driving and why it hasn’t made its way to HW3 vehicles, Cybertruck wraps are going away, and why it might be a great month to buy a new Chevy EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="quick-charge,tesla,tesla-cybertruck,tesla-full-self-driving" data-layer-viewtype="unknown" data-post-id="379714" href="https://electrek.co/2024/09/12/no-wraps-for-cybertruck-chevy-ev-deals-and-recycled-solar-takes-off/#more-379714" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/no-wraps-for-cybertruck-chevy-ev-deals-and-recycled-solar-takes-off/>
+
+---
+
+## Biden-Harris EPA rules save $253B/yr, 202k lives; Project 2025 seeks rollback
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/04/Closeup_of_EPA_Bldg._Washington_D.C._IMG_4757-e1681285512781.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Biden-Harris EPA’s new air quality rules introduced from 2021-2024 will save Americans $253 billion annually, and save 202k lives and avoid 107 million asthma attacks by 2050, according to a new analysis by the Environmental Protection Network (EPN).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="epa,kamala-harris,president-biden" data-layer-viewtype="unknown" data-post-id="379648" href="https://electrek.co/2024/09/12/biden-harris-epa-rules-save-253b-yr-202k-lives-project-2025-seeks-rollback/#more-379648" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/biden-harris-epa-rules-save-253b-yr-202k-lives-project-2025-seeks-rollback/>
+
+---
+
+## Kia EV6 is now cheaper to lease than a Soul with over $17,000 in discounts
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Kia-EV6-discounts.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With over $17,000 in savings, you can now lease <a href="https://electrek.co/guides/kia-ev6/">Kia’s EV6</a> for less than a Soul. Kia introduced new EV incentives, making the 2024 EV6 cheaper to lease than a 2024 Kia Soul despite costing more than double.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev6" data-layer-viewtype="unknown" data-post-id="379658" href="https://electrek.co/2024/09/12/kia-ev6-discounts-top-17000-cheaper-lease-soul/#more-379658" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/kia-ev6-discounts-top-17000-cheaper-lease-soul/>
+
+---
+
+## Fiat Shutting Down 500e Plant For Four Weeks Due To Low Demand
+
+date: 2024-09-12, from: Inside EVs News
+
+The brand also says it will upgrade the factory to produce a hybrid 500 starting in 2025 or 2026. 
+
+<https://insideevs.com/news/733570/fiat-factory-shutdown-four-weeks/>
+
+---
+
+## US electricity demand is about to surge – here’s what needs to happen
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/08/Electric-vehicles-recession-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After decades of stable electricity demand in the US, a new report from ICF (Nasdaq: ICFI) predicts a significant surge starting this decade.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,electrical-grid,solar,green-mountain-power,solar-power,tesla-powerwall,wind-power" data-layer-viewtype="unknown" data-post-id="379657" href="https://electrek.co/2024/09/12/us-electricity-demand-is-about-to-surge-heres-what-needs-to-happen/#more-379657" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/us-electricity-demand-is-about-to-surge-heres-what-needs-to-happen/>
+
+---
+
+## Fewer Americans Want EVs, But Not For The Reasons You Think
+
+date: 2024-09-12, from: Inside EVs News
+
+It's the economy, stupid. That and some other things.  
+
+<https://insideevs.com/news/733426/ev-demand-down-study-ey/>
+
+---
+
+## The Rivian R1T Is Safest Truck The IIHS Has Ever Tested
+
+date: 2024-09-12, from: Inside EVs News
+
+But it's also the first electric truck to receive an IIHS rating, so we'll see if can hold onto its title. 
+
+<https://insideevs.com/news/733566/rivian-r1t-iihs-safety-pick/>
+
+---
+
+## Check out Jeep’s Wagoneer S EV driving undisguised on US streets [Video]
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Jeeps-electric-Wagoneer-driving.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The first electric <a href="https://electrek.co/guides/jeep/">Jeep</a> is about to hit US dealerships. Ahead of deliveries, Jeep’s electric Wagoneer S was caught driving undisguised on US streets, giving us a closer look at what to expect. Check out the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-jeep,jeep" data-layer-viewtype="unknown" data-post-id="379633" href="https://electrek.co/2024/09/12/jeeps-electric-wagoneer-s-caught-driving-undisguised-video/#more-379633" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/jeeps-electric-wagoneer-s-caught-driving-undisguised-video/>
+
+---
+
+## Yamaha CrossCore RC e-bike $1,800 off, GE 2-in-1 electric washer/ventless dryer, post-launch SOLIX C300 discounts, more
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Yamaha-CrossCore-RC-e-bike.webp?w=1200" /></div><p>Today’s Green Deals feature plenty of amazing low prices, starting with the crazy $1,800 off deal we spotted on <a href="https://9to5toys.com/2024/09/11/score-1800-off-yamahas-crosscore-rc-e-bike-down-at-1199-with-free-1400-extra-battery/">Yamaha’s CrossCore RC e-bike</a> that comes with a free extra battery for <a href="https://9to5toys.com/2024/09/11/score-1800-off-yamahas-crosscore-rc-e-bike-down-at-1199-with-free-1400-extra-battery/">$1,199</a>. Next, we have the <a href="https://9to5toys.com/2024/09/11/save-1150-when-upgrading-to-ges-2-in-1-electric-washer-dryer-with-ventless-heat-pump-at-1750/">GE Electric 2-in-1 Washer and Dryer with Ventless Heat Pump</a> that is down at <a href="https://9to5toys.com/2024/09/11/save-1150-when-upgrading-to-ges-2-in-1-electric-washer-dryer-with-ventless-heat-pump-at-1750/">$1,750</a>. Anker’s new <a href="https://9to5toys.com/2024/09/11/ankers-new-solix-c300-90000mah-dc-ac-power-bank-stations-get-first-post-launch-discounts-from-170/">SOLIX C300 90,000mAh DC/AC power stations</a> are getting their first post-launch discounts starting from <a href="https://9to5toys.com/2024/09/11/ankers-new-solix-c300-90000mah-dc-ac-power-bank-stations-get-first-post-launch-discounts-from-170/">$170</a>, while Jackery’s latest <a href="https://9to5toys.com/2024/09/12/add-jackerys-explorer-600-plus-lifepo4-power-station-to-your-travel-bag-at-return-399-low-100-off/">Explorer 600 Plus Portable Power Station</a> has returned to its <a href="https://9to5toys.com/2024/09/12/add-jackerys-explorer-600-plus-lifepo4-power-station-to-your-travel-bag-at-return-399-low-100-off/">$399 low</a>. Bringing up the rear we have a one-day deal on the popular and powerful <a href="https://9to5toys.com/2024/09/12/greenworks-pro-tier-3000-psi-electric-pressure-washer-combo-kit-is-back-to-349-for-today-only-save-330/">Greenworks 3,000 PSI Electric Pressure Washer Combo Kit</a> that will be down at <a href="https://9to5toys.com/2024/09/12/greenworks-pro-tier-3000-psi-electric-pressure-washer-combo-kit-is-back-to-349-for-today-only-save-330/">$349</a> for the rest of the day. Plus, all the other hangover Green Deals that are still alive and well, like yesterday’s rare price cut on <a href="https://9to5toys.com/2024/09/11/upgrade-to-a-universally-compatible-tesla-level-2-ev-charger-with-rare-discount-to-new-575-low/">Tesla’s Universal Wall Connector EV charging station</a>, <a href="https://9to5toys.com/2024/09/10/urban-commuting-is-no-problem-for-aventons-lightweight-soltera-2-e-bike-with-46-mile-range-at-999/">Aventon’s Soltera.2 Commuter e-bike hitting $999</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="379631" href="https://electrek.co/2024/09/12/yamaha-crosscore-rc-e-bike-1800-off-ge-2-in-1-electric-washer-ventless-dryer-post-launch-solix-c300-discounts-more/#more-379631" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/yamaha-crosscore-rc-e-bike-1800-off-ge-2-in-1-electric-washer-ventless-dryer-post-launch-solix-c300-discounts-more/>
+
+---
+
+## Porsche Macan EV hits US dealers Sep 30; EPA range just certified at 308mi
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Porsche-Macan-EV-US-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Porsche’s long-awaited Macan EV will finally hit US dealers on September 30th, and we’ve also just learned that it will have an EPA-certified range of 308 miles, or 288 for the “Turbo” version.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="porsche,porsche-macan" data-layer-viewtype="unknown" data-post-id="379474" href="https://electrek.co/2024/09/12/porsche-macan-ev-hits-us-dealers-sep-30-epa-range-just-certified-at-308mi/#more-379474" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/porsche-macan-ev-hits-us-dealers-sep-30-epa-range-just-certified-at-308mi/>
+
+---
+
+## Porsche Macan Electric Gets Over 300 Miles Of EPA Range
+
+date: 2024-09-12, from: Inside EVs News
+
+Even the Macan Turbo is a range monster for the performance you get. And a longer-range base model is on the way. 
+
+<https://insideevs.com/news/733558/porsche-macan-electric-epa-range/>
+
+---
+
+## ZeroAvia completes $150M Series C financing, including investments from Airbus and AA
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/ZeroAvia-plane.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hydrogen-electric plane developer ZeroAvia has completed another successful financing round, led by some of its previous investors and some new ones. The sustainable aviation specialist plans to use the fresh funds to expedite the certification of its first powertrain and support selling its in-house components to other <a href="https://electrek.co/guides/electric-planes/">electrified aviation OEMs</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-plane,electric-planes,zeroavia" data-layer-viewtype="unknown" data-post-id="379605" href="https://electrek.co/2024/09/12/zeroavia-completes-150m-series-c-financing-investments-airbus-aa/#more-379605" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/zeroavia-completes-150m-series-c-financing-investments-airbus-aa/>
+
+---
+
+## Tesla’s Full Self-Driving v12.5 rollout on HW3 failed, what happens next?
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s rollout of Full Self-Driving v12.5 has failed so far, and owners want to know what happens next?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="379602" href="https://electrek.co/2024/09/12/teslas-full-self-driving-v12-5-rollout-on-hw3-failed-what-happens-next/#more-379602" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/teslas-full-self-driving-v12-5-rollout-on-hw3-failed-what-happens-next/>
+
+---
+
+## GM may buy Chinese EV batteries, but they will be made in the US
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/Chevy-Blazer-EV-sales.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A <a href="https://electrek.co/guides/gm/">GM</a> electric car with Chinese EV batteries on US streets? That could soon be a possibility. GM is in talks to buy batteries from China’s <a href="https://electrek.co/guides/catl/">CATL</a> to be assembled at a new US plant.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="catl,general-motors,gm" data-layer-viewtype="unknown" data-post-id="379606" href="https://electrek.co/2024/09/12/gm-buy-chinese-ev-batteries-made-in-us/#more-379606" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/gm-buy-chinese-ev-batteries-made-in-us/>
+
+---
+
+## Hozon Auto’s EV brand Neta signs multiple partnerships in Mexico ahead of market entry in Q4
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Neta-EV-Mexico.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Neta – the EV brand of <a href="https://electrek.co/guides/china/">China’s</a> Hozon Auto, is making strides to begin selling its vehicles in Mexico this year. The automaker recently signed multiple partnerships with dealers and financial institutions in the country to enter the local market to the South as early as Q4 2024.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,hozon-auto,mexico,neta" data-layer-viewtype="unknown" data-post-id="379575" href="https://electrek.co/2024/09/12/hozon-auto-ev-neta-signs-partnerships-mexico-market-entry-q4/#more-379575" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/hozon-auto-ev-neta-signs-partnerships-mexico-market-entry-q4/>
+
+---
+
+## BYD gets the green light for EV plant in Turkey despite ‘risks’ overseas
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/BYD-record-Q2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s largest EV maker, <a href="https://electrek.co/guides/byd/">BYD</a>, is charging ahead with its plans to open a new plant in Turkey. BYD’s EV plant in Turkey will continue despite China’s recent warning of the risks of investing overseas.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="379576" href="https://electrek.co/2024/09/12/byd-green-light-turkey-ev-plant-despite-risks-overseas/#more-379576" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/byd-green-light-turkey-ev-plant-despite-risks-overseas/>
+
+---
+
+## Heliene will make solar panels using SOLARCYCLE’s recycled glass and it’s a big deal
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/SOLARCYCLE-06.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In a major breakthrough for the solar industry, Heliene will make solar panels using <a href="https://electrek.co/2024/07/26/this-texas-solar-panel-recycling-plant-is-powered-by-secondhand-panels/" target="_blank" rel="noreferrer noopener">SOLARCYCLE</a>‘s ultra-low carbon solar glass made of recycled solar panel materials.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="379476" href="https://electrek.co/2024/09/12/heliene-will-make-solar-panels-with-solarcycle-recycled-glass/#more-379476" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/heliene-will-make-solar-panels-with-solarcycle-recycled-glass/>
+
+---
+
+## Thinking of buying a Chevy EV? September could be your month
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/GM-EV-Q2-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/chevrolet/" target="_blank" rel="noreferrer noopener">Chevy</a> is paying dealers to sell as many EVs as possible in September, so this could be the month to buy one.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet,chevy-blazer-ev,chevy-equinox-ev,chevy-silverado-ev,egeb,energy-brief,solar" data-layer-viewtype="unknown" data-post-id="379577" href="https://electrek.co/2024/09/12/chevy-ev-september/#more-379577" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/chevy-ev-september/>
+
+---
+
+## China Tells Automakers: Keep The Best EV Tech At Home
+
+date: 2024-09-12, from: Inside EVs News
+
+Plus, China's V2G pilot program to balance the electrical grid and dealership service is unprepared for revenue shifts with EVs. 
+
+<https://insideevs.com/news/733432/china-ev-tech-at-home/>
+
+---
+
+## Tesla appears to be winding down its Cybertruck wrapping business
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Tesla-Cybertruck-Sain-gold-wrap.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla appears to be winding down its Cybertruck wrapping business with fewer options and availability.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="379560" href="https://electrek.co/2024/09/12/tesla-winding-down-cybertruck-wrapping-business/#more-379560" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/tesla-winding-down-cybertruck-wrapping-business/>
+
+---
+
+## Adventure boat company Axopar selects Evoy to power its new all-electric boat brand AX/E
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Axopar-electric-boat-Evoy-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Finnish boat company Axopar has just launched a new all-electric sub-brand called AX/E and has enlisted performance inboard and outboard electric motor specialist <a href="https://electrek.co/guides/evoy/">Evoy</a> to power them. AX/E has debuted two series production boat models that will feature advanced electric motor systems from Evoy.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ax-e,axopar,electric-boat,electric-boats,evoy" data-layer-viewtype="unknown" data-post-id="379547" href="https://electrek.co/2024/09/12/axopar-selects-evoy-to-power-new-all-electric-boat-brand-ax-e/#more-379547" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/axopar-selects-evoy-to-power-new-all-electric-boat-brand-ax-e/>
+
+---
+
+## Ride1Up Roadster V3 launched as new low-cost belt drive e-bike with torque sensor
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/ride1up-roadster-V3-header-e-bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Ride1Up Roadster has long been a masterclass in lightweight, efficient e-bike design, offering extremely high bang for your buck in the minimalist electric bike space. Now the company has returned with the latest edition of the popular e-bike, launching the Ride1Up Roadster V3 for <a href="https://go.ride1up.com/SH9s">an impressive US $1,295.</a></p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="374101" href="https://electrek.co/2024/09/12/ride1up-roadster-v3-launched-as-new-low-cost-belt-drive-e-bike-with-torque-sensor/#more-374101" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/ride1up-roadster-v3-launched-as-new-low-cost-belt-drive-e-bike-with-torque-sensor/>
+
+---
+
+## Toyota Prius Goes Coast-To-Coast: Sets Fuel Efficiency Record
+
+date: 2024-09-12, from: Inside EVs News
+
+The Prius never had a drinking problem. Now it got close to 100 mpg to set a world record. 
+
+<https://insideevs.com/news/733520/toyota-prius-lowest-consumption-guinness-world-record/>
+
+---
+
+## Mercedes will start testing EVs with solid-state batteries on the road ‘in a few months’
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Mercedes-EVs-solid-state-batteries.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/mercedes-benz/">Mercedes-Benz</a> is doubling down on solid-state EV batteries with ultra-long range and fast charging capabilities for its next-gen vehicles. With two partners accelerating development, Mercedes is on track to begin testing EVs with solid-state batteries in just a few months.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz,solid-state-batteries" data-layer-viewtype="unknown" data-post-id="379532" href="https://electrek.co/2024/09/12/mercedes-test-evs-solid-state-batteries-few-months/#more-379532" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/mercedes-test-evs-solid-state-batteries-few-months/>
+
+---
+
+## GM and Hyundai to ‘immediately’ explore partnerships in EV development and supply chains
+
+date: 2024-09-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/GM-Hyundai-alliance.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/gm/">General Motors</a> (GM) and Hyundai Motor Group announced the signing of a Memorandum of Understanding to explore potential partnerships across a myriad of automotive tech segments, including joint EV and powertrain development, manufacturing, and supply chain sourcing.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="gm,hyundai,hyundai-motor-group" data-layer-viewtype="unknown" data-post-id="379531" href="https://electrek.co/2024/09/12/gm-hyundai-to-explore-partnerships-ev-development-supply-chains/#more-379531" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/12/gm-hyundai-to-explore-partnerships-ev-development-supply-chains/>
 
 ---
 

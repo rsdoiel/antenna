@@ -1,21 +1,218 @@
 ---
 title: home
-updated: 2024-09-12 06:44:37
+updated: 2024-09-13 07:50:35
 ---
 
 # home
 
-(date: 2024-09-12 06:44:37)
+(date: 2024-09-13 07:50:35)
 
 ---
 
-## How They Pulled It Off: Moving a 1970s Craftsman To a New Location
+## 5 Easy Ways to Preserve Garlic: Freeze, Dry, Pickle & More
+
+date: 2024-09-13, from: Homestead and Chil
+
+<p>Don't let your garlic go to waste! Come learn five easy ways to preserve garlic: how to dry garlic into powder, freeze it, pickle it, make fermented honey garlic, and more. Also learn the best way to store garlic to make it last.</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-preserve-garlic-freeze-dry-pickle-ferment/">5 Easy Ways to Preserve Garlic: Freeze, Dry, Pickle &amp; More</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<https://homesteadandchill.com/how-to-preserve-garlic-freeze-dry-pickle-ferment/>
+
+---
+
+## 10 Types of Orioles with Pictures and Identification
+
+date: 2024-09-13, from: Yard Life blog
+
+<p>There are many types of Orioles in North America, each with its own unique colors and characteristics. From the vibrant ... </p>
+<p class="read-more-container"><a title="10 Types of Orioles with Pictures and Identification" class="read-more button" href="https://ownyardlife.com/10-types-of-orioles-with-pictures-and-identification/#more-19125" aria-label="Read more about 10 Types of Orioles with Pictures and Identification">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/10-types-of-orioles-with-pictures-and-identification/">10 Types of Orioles with Pictures and Identification</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/10-types-of-orioles-with-pictures-and-identification/>
+
+---
+
+## Why Are Homeowners Insurance Rates So High?
+
+date: 2024-09-12, from: Family Handyman Blog
+
+A straightforward break-down of rising homeowners insurance costs and strategies to lower your bill. 
+
+<https://www.familyhandyman.com/article/why-is-homeowners-insurance-so-high/>
+
+---
+
+## Which Zip Codes Had the Hottest Housing Markets in 2024?
+
+date: 2024-09-12, from: Family Handyman Blog
+
+Read on to see if your zip code is among the country's housing hotspots. 
+
+<https://www.familyhandyman.com/list/hottest-housing-markets-2024/>
+
+---
+
+## A Playful Kitchen Reno Takes Inspiration From a Pair of Earrings
+
+date: 2024-09-12, from: Dwell
+
+Patterned tiles by Concrete Collaborative define this bold kitchen revamp for a creative couple in Knoxville. 
+
+<https://www.dwell.com/article/playful-kitchen-reno-knoxville-concrete-collaborative-b55c224b>
+
+---
+
+## The 5 Best Soft Coolers, According to Our Editor After Months of Testing
+
+date: 2024-09-12, from: Family Handyman Blog
+
+I've tested dozens of coolers—here are my top five soft coolers to date. 
+
+<https://www.familyhandyman.com/list/best-soft-coolers/>
+
+---
+
+## Thank a bee! September is National Honey Month
+
+date: 2024-09-12, from: Calfifornia Dept. Aggriculture blog
+
+Welcome to National Honey Month! Celebrated each September, this is a month to focus more clearly on US beekeeping, the beekeeping industry, and the use of honey as a natural and beneficial sweetener. California ranks third in the country in &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28168">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28168>
+
+---
+
+## How To Install a Porch Light Fixture
+
+date: 2024-09-12, from: Family Handyman Blog
+
+<p>Enhance your entryway with this project on installing a porch light fixture. Brighten your outdoor space and enhance curb appeal in no time.</p> 
+
+<https://www.familyhandyman.com/project/porch-light-fixture/>
+
+---
+
+## The Best Thing You Could Do for Your Health Is Quit the Gym—Here’s What to Do Instead
+
+date: 2024-09-12, from: Sunset Magazine - Living in the West
+
+Replacing the gym with intuitive movement can provide for a more sustainable fitness routine that's actually better for your health. 
+
+<https://www.sunset.com/lifestyle/why-you-should-quit-the-gym>
+
+---
+
+## Honestly, Fall Decor Has Never Looked Better
+
+date: 2024-09-12, from: Sunset Magazine - Living in the West
+
+A new season means it might be time to update your space. It's the perfect time to browse since many stores have launched their fall home decor collections. 
+
+<https://www.sunset.com/home-garden/design/fall-home-decor>
+
+---
+
+## In Paris, a Cozy Duplex in a Revamped 19th-Century Washhouse Seeks $1.1M
+
+date: 2024-09-12, from: Dwell
+
+Designed by architect Bernard Kohn in 1983, the two-level flat in the heart of the city has historic bones and a sun-kissed library. 
+
+<https://www.dwell.com/article/bernard-kohn-renovated-washhouse-duplex-paris-real-estate-6954e82d>
+
+---
+
+## No Small Plans: 10 Townhome Floor Plans Outfitted for the 21st Century
+
+date: 2024-09-12, from: Dwell
+
+From gut renovations to interior overhauls, these projects illustrate the scope and difficulty of updating a Brooklyn dwelling with historic charm. 
+
+<https://www.dwell.com/article/no-small-plans-10-townhome-floor-plans-outfitted-for-the-21st-century-824eae02>
+
+---
+
+## How to Acclimate Plants for Winter Indoors
+
+date: 2024-09-12, from: The Gardener's Path
+
+<p>If you take some of your houseplants outside to spend the summer months on the patio or in the garden, you'll need to plan ahead before you bring them back indoors. As the temperatures drop, follow these top tips for acclimating your plants to the indoor environment to ensure a smooth transition. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/acclimate-plants-indoors/">How to Acclimate Plants for Winter Indoors</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/houseplants/acclimate-plants-indoors/>
+
+---
+
+## A Creative Couple Give a Los Angeles Midcentury a Backyard Recording Studio
+
+date: 2024-09-12, from: Dwell
+
+The soundproofed garden shed and a bright home office give the musician and lighting designer space to WFH without stepping on each other’s toes. 
+
+<https://www.dwell.com/article/a-creative-couple-give-a-los-angeles-midcentury-a-backyard-recording-studio-4ba56bda>
+
+---
+
+## Your End of Summer Garden Bootcamp: 7 Things to Do Right Now
+
+date: 2024-09-12, from: Sunset Magazine - Living in the West
+
+The end of summer means it's time to clean up the garden and get it into working shape. Here's what to do to prepare it for seasons ahead. 
+
+<https://www.sunset.com/home-garden/garden-basics/end-of-summer-garden-tasks>
+
+---
+
+## From Baja to Hawaii, These Are Our Favorite Coastal Retreats
+
+date: 2024-09-12, from: Sunset Magazine - Living in the West
+
+From a Baja resort to an Oregon lodge, these are the Coastal Gems winners of The 2024 Sunset Travel Awards. 
+
+<https://www.sunset.com/travel/best-beach-resorts-2024>
+
+---
+
+## How They Pulled It Off: Moving a 1970s Craftsman to a New Location
 
 date: 2024-09-12, from: Dwell
 
 Instead of tearing down the beautiful home on the lot where they wanted to build, a couple in Whistler hauled it to another piece of land. 
 
 <https://www.dwell.com/article/how-they-pulled-it-off-moving-a-1970s-craftsman-to-a-new-location-5def78e9>
+
+---
+
+## 4 Stylish Ways to Earthquake-Proof Your Home’s Design
+
+date: 2024-09-12, from: Sunset Magazine - Living in the West
+
+You can't prevent earthquakes, but you can head off any damage. An interior designer shares her earthquake-proof decorating tips. 
+
+<https://www.sunset.com/home-garden/design/earthquake-proof-design-decor>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-09-12, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
+
+---
+
+## You Know You Want a Tiny Pizza Oven. We’ve Picked the Best Ones.
+
+date: 2024-09-12, from: Sunset Magazine - Living in the West
+
+Summer is outdoor pizza party season. But you're going to need the right oven. We've chosen the best pizza ovens. 
+
+<https://www.sunset.com/food-wine/best-pizza-ovens>
 
 ---
 
@@ -131,6 +328,16 @@ Located just outside Chicago, the 1894 Winslow House offers 5,000 square feet pa
 
 ---
 
+## 5 Wine Hacks Pros Have Been Keeping a Secret Until Now
+
+date: 2024-09-11, from: Sunset Magazine - Living in the West
+
+We asked the wine industry’s finest talent to share their secret wine hacks and tips so you can fully enjoy that bottle of wine. 
+
+<https://www.sunset.com/food-wine/wine-pairings/wine-hacks-tips>
+
+---
+
 ## Why Twitter’s Favorite Menswear Guy Can’t Stop Talking About Affordable Housing
 
 date: 2024-09-11, from: Dwell
@@ -198,16 +405,6 @@ date: 2024-09-11, from: Sunset Magazine - Living in the West
 Fans of the outdoors and even those who aren't will appreciate a stay at these amazing nature resorts and hotels in the West. 
 
 <https://www.sunset.com/travel/best-nature-resorts-hotels-2024>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-09-11, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -364,16 +561,6 @@ When you want to stay right in the heart of the urban action, choose one of thes
 
 ---
 
-## From Baja to Hawaii, These Are Our Favorite Coastal Retreats
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-From a Baja resort to an Oregon lodge, these are the Coastal Gems winners of The 2024 Sunset Travel Awards. 
-
-<https://www.sunset.com/travel/best-beach-resorts-2024>
-
----
-
 ## These Attractions Will Ensure Your Next Trip Will Be Far from Boring
 
 date: 2024-09-10, from: Sunset Magazine - Living in the West
@@ -391,16 +578,6 @@ date: 2024-09-10, from: Sunset Magazine - Living in the West
 Need inspiration on where to go next? From an iconic beach town to a lakeside getaway, these spots should be on your list. 
 
 <https://www.sunset.com/travel/best-destinations-in-us-west-2024>
-
----
-
-## 4 Stylish Ways to Earthquake-Proof Your Home’s Design
-
-date: 2024-09-10, from: Sunset Magazine - Living in the West
-
-You can't prevent earthquakes, but you can head off any damage. An interior designer shares her earthquake-proof decorating tips. 
-
-<https://www.sunset.com/home-garden/design/earthquake-proof-design-decor>
 
 ---
 

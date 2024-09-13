@@ -1,17 +1,393 @@
 ---
 title: columns
-updated: 2024-09-12 06:44:33
+updated: 2024-09-13 07:50:31
 ---
 
 # columns
 
-(date: 2024-09-12 06:44:33)
+(date: 2024-09-13 07:50:31)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-13, from: Dave Winer's Scripting News)
+
+I keep seeing mention of "Podcast 2.0" in various places. That is unusually greedy, even for the tech industry. What next? Deprecating the way podcasting has worked for the last 20 years? How do we know the people doing this aren't shilling for Spotify, Google or Amazon? Please don't mess with something that works as well as podcasting. You want to do something better, great -- make your own name and get people to respect it. Stealing respect from podcasting tells me you have no honor or self-respect, and it should say the same to everyone else. Something else that tells you it's bad, they never bothered to send me an email. Welcome to the tech industry. 
+
+<http://scripting.com/2024/09/13.html#a143240>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-13, from: Dave Winer's Scripting News)
+
+I also added a link to the RSS feed in each shownotes page. In the HTML at the bottom, as a white on orange icon and in the <a href="view-source:https://shownotes.scripting.com/podcast0/2024/07/27/interviewWithDonMeansOfMeetup.html">page source</a> as a &lt;link> element. 
+
+<http://scripting.com/2024/09/13.html#a142904>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-13, from: Dave Winer's Scripting News)
+
+<a href="https://shownotes.scripting.com/podcast0/2024/09/13/shortPodcastInResponseToAdamCurrysPodcast.html">Show notes</a> for a short podcast I recorded on this day in 2004, a response to Adam's podcast which I had just listened to. These were the good days, a new medium in its early stages of booting up, after years of trying to get it to go. In the next few weeks, it'll really start going. You can subscribe to the <a href="http://scripting.com/podcast0/rss.xml">podcast feed</a> here. 
+
+<http://scripting.com/2024/09/13.html#a133743>
+
+---
+
+## Good forms
+
+date: 2024-09-13, from: Dave Rupert blog
+
+<p><a href="https://brian.io/">Brian LeRoux</a> posted <a href="https://indieweb.social/@brianleroux/112932335725534529">a few thoughts about forms</a> and the idea of a “<a href="https://daverupert.com/2024/04/thoughts-on-cosmotechnics/">good form</a>” resonated with me so I dogpiled some of my own thoughts and experiences on it. Here’s a compilation of those ideas. I’m sure this is incomplete and would love to see your list.</p>
+<ul>
+<li>Good forms work without client JavaScript (Brian LeRoux)</li>
+<li>Good forms always submit (Brian LeRoux)</li>
+<li>Good forms remember values and display problems inline (Brian LeRoux)</li>
+<li>Good login forms work with password managers (<a href="https://elk.zone/oldbytes.space/@mingo/112932355524060403">Mingo Hogan</a>)</li>
+<li>Good forms use a <code>&lt;form&gt;</code> tag</li>
+<li>Good forms use appropriate input types</li>
+<li>Good forms have clear labelled inputs and buttons</li>
+<li>Good forms have focus states</li>
+<li>Good forms have logical tab order</li>
+<li>Good forms allow paste</li>
+<li>Good form elements leverage the <code>inputmode</code> attribute</li>
+<li>Good form elements leverage the <code>autocomplete</code> attribute</li>
+<li>Good search forms wrap the <code>&lt;form&gt;</code> tag in a <code>&lt;search&gt;</code> element</li>
+<li>Good forms can be reset with a <code>&lt;button type=reset&gt;</code></li>
+<li>Good forms participate in <code>formData</code></li>
+<li>Good forms don’t use placeholder as a label</li>
+<li>Good forms work on phones</li>
+<li>Good forms don’t popup and ask for personal information</li>
+<li>Good forms only ask for what is necessary and aren’t too long</li>
+<li>Good forms use HTTPS</li>
+<li>Good forms use the proper HTTP verbs</li>
+<li>Good forms validate on the client AND on the server</li>
+<li>Good forms have been driven with a screen reader <em>before</em> going to production</li>
+<li>Good forms clearly denote required attributes</li>
+<li>Good forms warn about costly or destructive actions</li>
+<li>Good forms make the baby Jesus smile</li>
+<li>Good authenticated forms should have a server-generated nonce value</li>
+<li>Good forms should do a pre-flight check for <code>navigator.onLine</code> before attempting a submit</li>
+<li>Good forms start with <code>accent-color</code> for styling and only get more complex if necessary</li>
+<li>Good forms see custom controls as a radioactive asset that must be removed at the earliest opportunity</li>
+</ul>
+<p>Anyways. People should talk about forms more. Here’s some more resources on good form design.</p>
+<ul>
+<li><a href="https://www.smashingmagazine.com/printed-books/form-design-patterns/">Form Design Patterns</a> by Adam Silver</li>
+<li><a href="https://www.lukew.com/resources/web_form_design.asp">Web Form Design</a> by Luke Wroblewski</li>
+<li><a href="https://formdesignmastery.com/">Form Design Mastery</a> by Adam Silver</li>
+<li><a href="https://abookapart.com/products/better-onboarding">Better Onboarding</a> by Krystal Higgins</li>
+</ul> 
+
+<https://daverupert.com/2024/09/good-forms/>
+
+---
+
+##  At long last, Robert Caro&#8217;s The Power Broker is available as a... 
+
+date: 2024-09-13, updated: 2024-09-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045276-at-long-last-robert-caros>
+
+---
+
+## September 12, 2024 
+
+date: 2024-09-13, from: Heather Cox Richardson blog
+
+Today, Trump backed out of another debate with Vice President Kamala Harris. 
+
+<https://heathercoxrichardson.substack.com/p/september-12-2024>
+
+---
+
+## Election 2024: Video of the Week (videos #2 and #2.5)
+
+date: 2024-09-13, from: Robert Reich's blog
+
+Please share 
+
+<https://robertreich.substack.com/p/election-2024-video-of-the-week-videos>
+
+---
+
+## History Extra for September 11, 2024
+
+date: 2024-09-13, from: Heather Cox Richardson blog
+
+On the twentieth anniversary of the day terrorists from the al-Qaeda network used four civilian airplanes as weapons against the United States, the weather was eerily similar to the bright, clear blue sky of what has come to be known as 9/11. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-september-11-2024>
+
+---
+
+## History Extra for September 10, 2024
+
+date: 2024-09-13, from: Heather Cox Richardson blog
+
+Republican politician Richard Nixon so thoroughly distrusted television after his own disastrous debate with Democratic nominee John F. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-september-10-2024>
+
+---
+
+## OpenAI Releases New o1 Reasoning Model
+
+date: 2024-09-13, updated: 2024-09-13, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/2024/9/12/24242439/openai-o1-model-reasoning-strawberry-chatgpt>
+
+---
+
+## Karl Rove’s take on Tuesday’s debate
+
+date: 2024-09-13, from: Robert Reich's blog
+
+Friends, 
+
+<https://robertreich.substack.com/p/karl-roves-take-on-tuesdays-debate>
+
+---
+
+## FDA Grants Approval to AirPods Pro 2 for Use as Hearing Aids
+
+date: 2024-09-12, updated: 2024-09-13, from: Daring Fireball
+
+ 
+
+<https://techcrunch.com/2024/09/12/apple-airpods-pro-granted-fda-approval-to-serve-as-hearing-aids/?guccounter=1>
+
+---
+
+## Friday 13 September, 2024
+
+date: 2024-09-12, from: John Naughton's online diary
+
+Vanishing point In Donegal, after the rain. Quote of the Day ”Before you react, think. Before you spend, earn. Before you criticize, wait. Before you quit, try.” Ernest Hemingway Musical alternative to the morning’s radio news J.S. Bach &#124; Weichet &#8230; <a href="https://memex.naughtons.org/friday-13-september-2024/39857/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-13-september-2024/39857/>
+
+---
+
+##  The 365 Most Famous Quotes of All Time. &#8220;A study of humanity’s... 
+
+date: 2024-09-12, updated: 2024-09-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045237-the-365-most-famous-quote>
+
+---
+
+## Dropbox almost reinvented the web
+
+date: 2024-09-12, from: Dave Winer's Scripting News
+
+<p><i>I was trying to <a href="https://mastodon.social/@davew/113125134990424609">explain</a> to Miguel de Icaza, a longtime developer friend, how Dropbox was within inches of making the web a million times more useful, ten years ago, and then backed away from it. I don't think I've ever told the story here on my blog, so here goes. </i></p>
+<p>In 2013, Dropbox had a developer program, you could write an app, and register it with them, and then the user could run your app from a website, and log on to Dropbox in the app, and they would have access to files in a directory in the user's Dropbox hierarchy in the app, as if it were accessing it from the local file system, which in a way they were.</p>
+<p>I made an <a href="http://fargo.io/docs/whatIsFargo.html">outliner</a> for that system, and loved it -- it was great, I didn't have to get into the business of reselling storage, or user identity. And for the users, it "just worked" as they say, because they were already using Dropbox, and now it could be used for something completely new and incredibly useful, and it didn't require huge venture capital to get it going, so it would enable very small niche products to find a market. It was brilliant and visionary, and I was very open about my feelings on my blog. </p>
+<p>They also had a Public Folder, where any user files could be accessed over the web. </p>
+<p>They were within an inch of the perfect system. The problem was my app couldn't access user files in any other directory. So it didn't allow for specialization in products, every editor had to do everything. </p>
+<p>They had an option where you could give an app access to <i>everything</i> but that was ridiculous, I couldn't recommend users do that. Users store all kinds of private data on Dropbox.</p>
+<p>Here's the <a href="http://fargo.io/docs/fargo/dropbox.html">howto</a> for the product and how it connects to Dropbox.</p>
+<p>They lost interest in this, btw -- and when they broke the API, I took that opportunity to shut down the product. </p>
+<p>I wish they had gone in that direction, or someone would go in that direction. </p>
+ 
+
+<http://scripting.com/2024/09/12/213354.html?title=dropboxAlmostReinventedTheWeb>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2024-09-12, from: Dave Winer's Scripting News)
 
-And btw I also am wasting my ideas, one in a hundred has any influence, and even then it's minscule, the ideas drift away unimplemented. I keep writing, hoping I see a way to get into the global conversation, again. I remember what it's like. But I'm not done. We still have a big problem to solve in our political and communication system. Online software is where it's at. 
+Just watched a Harris rally in Charlotte NC. She's using what Trump said in the debate in her new campaign speech. Brilliant. Getting him on the record in that context is a gift. 60 million viewers. Up till then he only took interviews where he could bully his way past the interviewer. 
+
+<http://scripting.com/2024/09/12.html#a213129>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-12, from: Dave Winer's Scripting News)
+
+<a href="https://mastodon.social/@davew/113126706254724625">Braintrust query</a>: I got an email from OpenAI saying I could access the new models, but I don't see the new models in the popup menu. 
+
+<http://scripting.com/2024/09/12.html#a212916>
+
+---
+
+##  Apollo 13: Survival 
+
+date: 2024-09-12, updated: 2024-09-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/apollo-13-survival>
+
+---
+
+##  Quick summaries of the decades from the 1880s to the 2020s. &#8220;1990s... 
+
+date: 2024-09-12, updated: 2024-09-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045266-quick-summaries-of-the-de>
+
+---
+
+## A billion new developers thanks to AI?
+
+date: 2024-09-12, from: Chris Heilmann's blog
+
+This is a translation of my German article for the AI mag. At the WeAreDeveloper World Congress in Berlin in July, GitHub announced that the company will use artificial intelligence and assistants to turn a billion people into developers in a very short time. Amazon&#8217;s Cloud CEO, on the other hand, explained in an internal [&#8230;] 
+
+<https://christianheilmann.com/2024/09/12/a-billion-new-developers-thanks-to-ai/>
+
+---
+
+##  Mountain Bike Flips on a Moving Train 
+
+date: 2024-09-12, updated: 2024-09-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/mountain-bike-flips-on-a-moving-train>
+
+---
+
+##  Yesterday I posted on Threads asking for advice about what to look... 
+
+date: 2024-09-12, updated: 2024-09-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045271-yesterday-i-posted-on-thr>
+
+---
+
+##  The latest issue of McSweeney&#8217;s Quarterly is a tin lunchbox that comes... 
+
+date: 2024-09-12, updated: 2024-09-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045269-the-latest-issue-of-mcswe>
+
+---
+
+## Article pairing: reclaiming productivity
+
+date: 2024-09-12, from: Tracy Durnell Blog
+
+Meredith’s Slow Productivity (not to be mistaken for Cal Newport’s Faux Slow Productivity) by Meredith Farkas The very idea that some activities are productive presupposes that others are not, but I struggle with the idea that we can really categorize things as “productive” and “unproductive.” Do we decide that the only things that are productive [&#8230;] 
+
+<https://tracydurnell.com/2024/09/12/article-pairing-reclaiming-productivity/>
+
+---
+
+## September 11, 2024
+
+date: 2024-09-12, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-11-2024-8a9>
+
+---
+
+##  A recent scientific (DNA) study about Rapa Nui (Easter Island) finds no... 
+
+date: 2024-09-12, updated: 2024-09-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045270-a-recent-scientific-dna-s>
+
+---
+
+## Microsoft Is Adding New Cryptography Algorithms
+
+date: 2024-09-12, updated: 2024-09-12, from: Bruce Schneier blog
+
+<p>Microsoft is updating <a href="https://github.com/microsoft/SymCrypt">SymCrypt</a>, its core cryptographic library, with new quantum-secure algorithms. Microsoft&#8217;s details are <a href="https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-s-quantum-resistant-cryptography-is-here/ba-p/4238780">here</a>. From a <a href="https://arstechnica.com/security/2024/09/microsoft-adds-quantum-resistant-algorithms-to-its-core-crypto-library/">news article</a>:</p>
+<blockquote><p>The first new algorithm Microsoft added to SymCrypt is called ML-KEM. Previously known as CRYSTALS-Kyber, ML-KEM is one of three post-quantum standards <a href="https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards">formalized last month</a> by the National Institute of Standards and Technology (NIST). The KEM in the new name is short for key encapsulation. KEMs can be used by two parties to negotiate a shared secret over a public channel. Shared secrets generated by a KEM can then be used with symmetric-key cryptographic operations, which aren&#8217;t vulnerable to Shor&#8217;s algorithm when the keys are of a sufficient size...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/09/microsoft-is-adding-new-cryptography-algorithms.html>
+
+---
+
+##  Layered People 
+
+date: 2024-09-12, updated: 2024-09-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/layered-people>
+
+---
+
+## Reasons I still love the fish shell
+
+date: 2024-09-12, updated: 2024-09-12, from: Julia Evans blog
+
+ 
+
+<https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/>
+
+---
+
+## Finding questions and answers about why I like books
+
+date: 2024-09-12, from: Dave Rupert blog
+
+<p>I saw <a href="https://twitter.com/AlexHormozi/status/1543229182796132352">a tweet</a> awhile back that sent my brain to a far off galaxy…</p>
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+	  Most people are proud of their reading habit.
+	  <br>
+	  <br>
+	  But for many, it’s just an act of productive procrastination.
+	  <br>
+	  <br>
+	  I’m looking at you “I read a book a week” club
+	  <br>
+	  <br>
+	  Here’s how you know:
+	  <br>
+	  <br>
+	  Are you reading to find answers to questions?…or are you reading to find questions to answer?
+  </p>
+  &mdash; Alex Hormozi (@AlexHormozi) <a href="https://twitter.com/AlexHormozi/status/1543229182796132352?ref_src=twsrc%5Etfw">July 2, 2022</a>
+</blockquote>
+<p>Of all the injustices happening in the world… you know who needs to be taken down a peg? The Book-a-Week People. Fuck those guys. With their books in their Zoom backgrounds. That bothers me. Fuck them.</p>
+<p>I know the original post is part of some weird hustle culture subgenre, but it’s probably no surprise to folks who reading that I like books and fit this targeted demographic. After pondering whether I’m “finding answers to questions or questions to answer” my answer is a resounding, “…I guess?”</p>
+<p>A lot of why I read is about juxtaposition. I read business books to juxtapose my experience against the Platonic ideal of “good business”. I read about social justice to juxtapose my lived experience against others lived experience. I read science fiction to juxtapose the present against futures I haven’t imagined. I read non-fiction airport books because I like facts and social science garbage. I read books on topics I’m already an expert in to see if there’s information that further informs my perspective. I read to <a href="https://daverupert.com/2018/06/telepresence/">teleport</a> to different places, minds, times, and rooms where it happened.</p>
+<p>I read to escape. I read to find myself. I read because I like facts. I read because I like fiction. I read for entertainment. I read to fall asleep. I listen to books to help me finish mundane tasks like doing the dishes every night. And I listen to books because there’s a slight communistic thrill of getting them from the library.</p>
+<p>There’s a widely accepted idea out there that “the best way to become a better writer is to become a better reader.” I think Stephen King said it, but I can’t find the quote. Either way, I want to become a better writer. Whether fact or fiction, I want the ability to not struggle when putting thoughts on the page. Oh to partake in this magical osmosis! The transitive impartation of skills! Let me flex the language encoding and decoding synapses in my 40-watt brain.</p>
+<p>And sometimes reading is out of due diligence. Like… if you’re going to start a job as a manager… read a book on management? Or ten? You’re dealing with people’s lives and careers, seems like the least you could do. If you’re going to talk or blog on a topic and there’s a relevant book… read that before <a href="https://www.quora.com/What-does-the-southern-phrase-showing-your-ass-mean">showing your ass</a>? A thought backed by some literature seems better than regurgitating TikToks.</p>
+<p>Books are strange objects. Chapters and chapters of coherent research and lived experiences assembled by people who wanted to put it all down in one place. Edited by actual editors who like editing. Designed— down to the weight of the paper, the typography, and the illustration on the cover— to make the experience of reading it enjoyable. Books are uncanny and impractical objects. A terribly inefficient way to encode information from one brain to another, but an excellent way to tell a story.</p>
+<p>You can also just like books for no reason.</p>
+<p>Anyways, books. Check ‘em out.</p> 
+
+<https://daverupert.com/2024/09/fuck-the-book-a-week-club/>
+
+---
+
+##  Here&#8217;s what happens to your skin & immune system when you get... 
+
+date: 2024-09-12, updated: 2024-09-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045267-heres-what-happens-to-you>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-12, from: Dave Winer's Scripting News)
+
+And btw I also am wasting my ideas too, one in a hundred has any influence, and even then it's minscule, the ideas drift away unimplemented or unused. I keep writing, hoping I see a way to get into the global conversation, again. I remember what it's like. But I'm not done. We still have a big problem to solve in our political and communication system. Online software is where it's at. 
 
 <http://scripting.com/2024/09/12.html#a130253>
 
@@ -29,7 +405,7 @@ trurl is slowing growing up and maturing. This is a minor patch release followin
 
 **@Dave Winer's Scripting News** (date: 2024-09-12, from: Dave Winer's Scripting News)
 
-Another fantastic thinker and writer who is mostly scattering his ideas into the wind -- <a href="https://www.google.com/search?q=%22dan+conover%22">Dan Conover</a>, who when he comes out with a piece, I stop everything and sit down and carefully read it and savor it, because not only is there sure to be new info and new ideas, but the writing is sooo good. He's a former local reporter in South Carolina. I met him on a road tour I did a bunch of years ago. Where does he post this stuff? Facebook. I want it to be part of the concentrated web writers union. Maybe think of it as my karass, my version of The Atlantic, perhaps. Or my version of the op-ed page of the NY Times. I think there is definitely enough good stuff out there, unorganized, to easily rival them for originality, depth of thought, experience and great writing. Dan is on my list of such superheroes. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/09/12/hippieHarrisSign.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Another fantastic thinker and writer who is mostly scattering his ideas -- <a href="https://www.google.com/search?q=%22dan+conover%22">Dan Conover</a>, who when he comes out with a piece, I stop everything and sit down and carefully read it and savor it, because not only is there sure to be new info and new ideas, the writing is sooo good. He's a former local reporter in South Carolina. I met him on a road tour I did a bunch of years ago. Where does he post this stuff? Facebook. I want it to be part of the concentrated web writers union. Maybe think of it as my <a href="http://scripting.com/2022/05/01/143422.html?title=iWantMyKarass">karass</a>, my version of The Atlantic, perhaps. Or my version of the op-ed page of the NY Times. I think there is definitely enough good stuff out there, unorganized, to easily rival them for originality, depth of thought, experience and great writing. Dan is on my list of such superheroes. 
 
 <http://scripting.com/2024/09/12.html#a125813>
 
@@ -37,7 +413,7 @@ Another fantastic thinker and writer who is mostly scattering his ideas into the
 
 **@Dave Winer's Scripting News** (date: 2024-09-12, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2022/08/08/bootstrappingByEngelbart.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've been enjoying the recent <a href="https://buzzmachine.com/2024/09/11/whats-become-of-the-times-co/">blog</a> <a href="https://buzzmachine.com/2024/09/06/the-unprecedented-grand-coalition/">posts</a> by my longtime friend <a href="https://en.wikipedia.org/wiki/Jeff_Jarvis">Jeff Jarvis</a>. A couple of months ago, I was practically begging him to do this. He was pouring so much unfocused energy into making journalism play an appropriate role in our democracy. When Jeff started posting to his blog, it gave his friends something to point to, and we did. This writing had much more impact than a random tweet. Journalism crossed a line they should not have crossed. Now we fully expect them to try to do it again. We have to find a way for our ideas not to be scattered in the wind, so thorougly ignorable. And in doing so, I'm convinced we'd find a better way to organize the electorate online so it's more immune from unwise and unfair manipulation from the journalists. I also noted that <a href="https://en.wikipedia.org/wiki/Dan_Gillmor">Dan Gillmor</a>, who was also scattering his ideas in the wind, has started a <a href="https://cornerstone.ghost.io/">newsletter</a>. Dan was a real blogging <a href="https://www.google.com/search?q=site%3Ascripting.com+%22dan+gillmor%22">pioneer</a> as was Jeff. We remember how this kind of thing boots up. We can set up any kind of distribution system we need. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/08/08/bootstrappingByEngelbart.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've been enjoying the recent <a href="https://buzzmachine.com/2024/09/11/whats-become-of-the-times-co/">blog</a> <a href="https://buzzmachine.com/2024/09/06/the-unprecedented-grand-coalition/">posts</a> by my longtime friend <a href="https://en.wikipedia.org/wiki/Jeff_Jarvis">Jeff Jarvis</a>. A couple of months ago, I was practically begging him to do this. He was pouring so much unfocused energy into making journalism play an appropriate role in our democracy. When Jeff started posting to his blog, it gave his friends something to point to. This writing had much more impact than a random tweet. Journalism crossed a line they should not have crossed. Now we fully expect them to try to do it again. We have to find a way for our ideas not to be scattered in the wind, so thorougly ignorable. And in doing so, I'm convinced we'd find a better way to organize the electorate online so it's more immune from unwise and unfair manipulation from the journalists. At the same time <a href="https://en.wikipedia.org/wiki/Dan_Gillmor">Dan Gillmor</a>, who was also scattering his ideas about, has started a <a href="https://cornerstone.ghost.io/">newsletter</a>. Dan was a real blogging <a href="https://www.google.com/search?q=site%3Ascripting.com+%22dan+gillmor%22">pioneer</a> as was Jeff. We remember how this kind of thing boots up. We can set up any kind of distribution system we need. What matters is the collection of brilliance. Individuals are not so powerful unless they come from one of these. 
 
 <http://scripting.com/2024/09/12.html#a123813>
 
@@ -45,7 +421,7 @@ Another fantastic thinker and writer who is mostly scattering his ideas into the
 
 **@Dave Winer's Scripting News** (date: 2024-09-12, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/16/succession.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Someday an election will be like Game of Thrones or Succession. A campaign would be a season. There would be character development, arcs, twists, revelations, unforseen events. Near the end of the season you have the election, with the following episodes the plotting, intrigue, and undermining of democracy, and at the end of the season the inauguration of a new president. Each year you have more of this, until four years later you go through the election all over again. People would really study the candidates, and would have reasons they like one character over another. And maybe the patriarch doesn't die, and decides to run again. This is where we're heading, we might already be there. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/16/succession.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Someday an election will be like Game of Thrones or Succession. A campaign would be a season. There would be character development, arcs, twists, revelations, unforseen events, <a href="https://www.cnn.com/2024/09/11/politics/taylor-swift-kamala-harris-endorsement/index.html">cameos</a>, acts of god. Near the end of the season you have the election, with the following episodes the plotting, intrigue, and undermining of democracy, and at the end of the season the inauguration of a new president. Each year you have more michegas, until four years later you go through the election all over again. People would really study the candidates, and would have reasons they like one character over another. And maybe the <a href="https://www.youtube.com/watch?v=dYqqW3c2mBU">patriarch</a> doesn't die, and decides to run again. This is where we're heading, we might already be there. 
 
 <http://scripting.com/2024/09/12.html#a123319>
 
@@ -179,7 +555,7 @@ If you’re a longtime mobile phone enthusiast like I am, you’ve already seen 
 
 ## Taylor Swift Endorses Kamala Harris, Encourages Followers to Register to Vote
 
-date: 2024-09-11, updated: 2024-09-11, from: Daring Fireball
+date: 2024-09-11, updated: 2024-09-12, from: Daring Fireball
 
  
 
@@ -379,6 +755,16 @@ date: 2024-09-11, from: Robert Reich's blog
 Friends, 
 
 <https://robertreich.substack.com/p/tonights-debate>
+
+---
+
+## 23: What was 9/11?
+
+date: 2024-09-11, updated: 2024-09-11, from: Anil Dash blog
+
+ 
+
+<https://anildash.com/2024/09/11/23-what-was-911/>
 
 ---
 

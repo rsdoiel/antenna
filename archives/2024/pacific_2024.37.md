@@ -1,11 +1,677 @@
 ---
 title: pacific
-updated: 2024-09-12 06:44:31
+updated: 2024-09-13 07:50:28
 ---
 
 # pacific
 
-(date: 2024-09-12 06:44:31)
+(date: 2024-09-13 07:50:28)
+
+---
+
+## First private spacewalk in SpaceX capsule achieves new milestone
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>Two private astronauts moved outside their spacecraft early Thursday morning, conducting the first-ever commercial spacewalk.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/nation-world-news/first-private-spacewalk-in-spacex-capsule-achieves-new-milestone/>
+
+---
+
+## Hilo-based stuntman launches unique program for local talent
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>A local stuntman and actor is bringing his experience in television and movies back to Hawaii as he mentors students interested in the world of entertainment.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/hawaii-news/hilo-based-stuntman-launches-unique-program-for-local-talent/>
+
+---
+
+## Harris, after a debate success, confronts a battleground ‘game of inches’
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>PHILADELPHIA &#8212; Vice President Kamala Harris&#8217; strong debate performance has sent her campaign surging into the final weeks of the race with newfound confidence, sharper ideas about how to convince the country that former President Donald Trump is unfit for office, and a host of questions about what comes next.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/nation-world-news/harris-after-a-debate-success-confronts-a-battleground-game-of-inches/>
+
+---
+
+## HPD wants state’s high court to block order by Hilo judge in Ireland case
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>The associate director of the Hawaii Innocence Project told the state Supreme Court on Thursday that prosecutors &#8212; who provided information that helped overturn the convictions of Albert &#8220;Ian&#8221; and Shawn Schweitzer in the Christmas Eve 1991 abduction, rape and murder of Dana Ireland in Puna &#8212; now appear to be impeding the brothers&#8217; quest to be compensated for being wrongly imprisoned.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/hawaii-news/hpd-wants-states-high-court-to-block-order-by-hilo-judge-in-ireland-case/>
+
+---
+
+## Kusch sworn in as House District 1 representative
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>Matthias Kusch officially began his duties Thursday as the state representative for House District 1, which encompasses Hamakua, a portion of Hilo and Kaumana.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/hawaii-news/kusch-sworn-in-as-house-district-1-representative/>
+
+---
+
+## Hilo boy charged after social media posts prompt concerns
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>Police have arrested a 15-year-old male student from Hilo in connection with social media posts regarding a Hilo school.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/hawaii-news/hilo-boy-charged-after-social-media-posts-prompt-concerns/>
+
+---
+
+## Nation and world news in brief for September 13
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>Francine knocks out power to over 250,000 Louisiana customers</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/nation-world-news/nation-and-world-news-in-brief-for-september-13/>
+
+---
+
+## Bomb threat in city at heart of Trump immigrant rumors sparks evacuation
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>SPRINGFIELD, Ohio &#8212; The government of Springfield, Ohio, evacuated its city hall on Thursday due to a bomb threat, two days after Donald Trump repeated a false claim that put the city at the center of a national debate over immigration. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/nation-world-news/bomb-threat-in-city-at-heart-of-trump-immigrant-rumors-sparks-evacuation/>
+
+---
+
+## ‘Rid-A-Fridge’ and get $100: Recycling event in Keaau rescheduled, expanded
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Energy, the state&#8217;s energy conservation program, in partnership with the Hawaii County Department of Environmental Management, has announced a new date for the &#8220;Rid-A-Fridge&#8221; recycling drive, now rescheduled for Saturday, Sept. 28.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/community/rid-a-fridge-and-get-100-recycling-event-in-keaau-rescheduled-expanded/>
+
+---
+
+## Boise State, three others joining Pac-12 for 2026-27
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>Boise State, three others joining Pac-12 for 2026-2Mountain West representatives Boise State, Colorado State, Fresno State and San Diego State will join the Pac-12 in the 2026-27 academic year, the latter conference announced Thursday morning.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/sports/boise-state-three-others-joining-pac-12-for-2026-27/>
+
+---
+
+## Runnin’ with Rani: 26th annual Run for Hope at Four Seasons Hualalai
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>KAUPULEHU &#8212; The Four Seasons Resort Hualalai once again proved to be the ideal venue to bring the community together for the 26th anniversary Run for Hope, with all proceeds going to cancer research.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/sports/runnin-with-rani-26th-annual-run-for-hope-at-four-seasons-hualalai/>
+
+---
+
+## Hawaii’s Texans excited to return to football’s hotbed
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>Birds gotta fly. A Leahey gotta announce. Texans gotta &#8230; love football?</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/sports/hawaiis-texans-excited-to-return-to-footballs-hotbed/>
+
+---
+
+## BIIF volleyball: Wildcats hand Ka Makani first loss; Vikings sweep Canefire
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>KAMUELA &#8212; Konawaena girls volleyball got the best of Hawaii Prep Academy in a 3-1 road match victory on Wednesday in Ka Makani&#8217;s Castle Gym.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/sports/biif-volleyball-wildcats-hand-ka-makani-first-loss-vikings-sweep-canefire/>
+
+---
+
+## POINT: Walz wants policies to empower rural Americans
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>After rural voters turned out big for Donald Trump, a narrative emerged that rural America was made up of majority White communities who used to vote reliably Democratic but had shifted right. The emergence of Tim Walz and JD Vance in this election cycle offers a chance for a deeper understanding of rural America, the Americans who live there &#8212; and what each candidate&#8217;s policies would do for these communities.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/opinion/point-walz-wants-policies-to-empower-rural-americans/>
+
+---
+
+## Debate absence highlights Biden’s diminished capabilities
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>Joe Biden is still president, but it&#8217;s unclear if he&#8217;s still running the country.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/opinion/debate-absence-highlights-bidens-diminished-capabilities/>
+
+---
+
+## COUNTERPOINT: JD Vance speaks for rural America
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>Far too often, rural Americans feel ignored by presidential campaigns. While elites in Washington, New York and Los Angeles generate the headlines, focusing primarily on the two coasts, Americans outside major cities continue to fly under the radar.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/opinion/counterpoint-jd-vance-speaks-for-rural-america/>
+
+---
+
+## Obituaries for September 13
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>Ann Miyoko Honda, 85, of Honokaa died July 13 at a private care home. Born in Tokyo, she was a homemaker and member of the Urasenke Hawaii Hilo Chapter. Private services; no koden (monetary gifts). Survived by sons, Orrin (Kelli) Honda of Honokaa and Ronald Honda of Kaimuki, Oahu; daughters, Hilda (Sam) Bannister and Marie (Michael Abran) Honda of Waimea; sisters, Sadako Tsuchihashi, Kimiyo Monjiyama, Hideko Hattori and Masayo Take of Tokyo; sisters-in-law, Hisae Watanabe of Hilo and Shigeko Mukai of Pearl City, Oahu; eight grandchildren and two great-grandchildren; nieces, and nephews. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/hawaii-news/obituaries-for-september-13-10/>
+
+---
+
+## HCFCU welcomes Okabe as newest board member
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Community Federal Credit Union has announced the appointment of Wilfred &#8220;Wil&#8221; Okabe to its Board of Directors.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/community/hcfcu-welcomes-okabe-as-newest-board-member/>
+
+---
+
+## Trump bid to move hush money criminal case to federal court stalls
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A U.S. appeals court on Thursday declined to interfere with a lower court decision to keep Donald Trump&#8217;s already-decided criminal case over hush money paid to a porn star in state court, dealing another blow to the former U.S. president&#8217;s bid to move the case to federal court.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/nation-world-news/trump-bid-to-move-hush-money-criminal-case-to-federal-court-stalls/>
+
+---
+
+## Harris builds lead over Trump; voters see her as debate winner, Reuters/Ipsos poll
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Democratic U.S. Vice President Kamala Harris leads Republican Donald Trump 47% to 42% in the race to win the Nov. 5 presidential election, increasing her advantage after a debate against the former president that voters largely think she won, according to a Reuters/Ipsos poll that closed on Thursday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/nation-world-news/harris-builds-lead-over-trump-voters-see-her-as-debate-winner-reuters-ipsos-poll/>
+
+---
+
+## Whipps and Remengesau clash over policy approaches in 2024 Debate
+
+date: 2024-09-13, from: Island Times
+
+<figure><img width="600" height="667" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/rem-sur.jpg?fit=600%2C667&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="2024 Presidential Debate watched by Palauans both at home and abroad, revealed candidates positions on number of important issues for Palau" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/rem-sur.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/rem-sur.jpg?resize=270%2C300&amp;ssl=1 270w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/rem-sur.jpg?resize=400%2C445&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/rem-sur.jpg?fit=600%2C667&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72526" data-permalink="https://islandtimes.org/whipps-and-remengesau-clash-over-policy-approaches-in-2024-debate/rem-sur/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/rem-sur.jpg?fit=600%2C667&amp;ssl=1" data-orig-size="600,667" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1726173591&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;2.2&quot;,&quot;iso&quot;:&quot;50&quot;,&quot;shutter_speed&quot;:&quot;0.0166&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="rem &#038; sur" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/rem-sur.jpg?fit=270%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/rem-sur.jpg?fit=600%2C667&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>The 2024 presidential debate at Palau Community College last night showcased significant differences in policy positions between the two candidates, Surangel Whipps Jr. and Tommy E. Remengesau Jr., on issues such as the economy, foreign relations, governance, and cultural policies. On economic policy, the Palau Goods and Services Tax (PGST) became a major point of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-and-remengesau-clash-over-policy-approaches-in-2024-debate/">Whipps and Remengesau clash over policy approaches in 2024 Debate</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/whipps-and-remengesau-clash-over-policy-approaches-in-2024-debate/>
+
+---
+
+## New Bureau of Public Safety Director sworn in amid challenges
+
+date: 2024-09-13, from: Island Times
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Elobt-Signng-the-Oath.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Elobt-Signng-the-Oath.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Elobt-Signng-the-Oath.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Elobt-Signng-the-Oath.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Elobt-Signng-the-Oath.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Elobt-Signng-the-Oath.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Elobt-Signng-the-Oath.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Elobt-Signng-the-Oath.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Elobt-Signng-the-Oath.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72517" data-permalink="https://islandtimes.org/new-bureau-of-public-safety-director-sworn-in-amid-challenges/elobt-signng-the-oath/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Elobt-Signng-the-Oath.jpg?fit=1249%2C703&amp;ssl=1" data-orig-size="1249,703" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D3500&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1726041592&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Elobt Signng the Oath" data-image-description="" data-image-caption="&lt;p&gt;New Director of Public Safety Curtis Elobt signing Oath of Offi ce&lt;br /&gt;
+(supplied)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Elobt-Signng-the-Oath.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Elobt-Signng-the-Oath.jpg?fit=780%2C439&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Curtis Elobt has been appointed as the new Director of the Bureau of Public Safety, replacing Cary Levitre, who served much of his term outside Palau. Elobt took the oath of office on Sept. 11, 2024, at the Belau National Gymnasium, with President Surangel Whipps Jr., Vice President Uduch Sengebau-Senior, police officers, and administrative staff [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/new-bureau-of-public-safety-director-sworn-in-amid-challenges/">New Bureau of Public Safety Director sworn in amid challenges</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/new-bureau-of-public-safety-director-sworn-in-amid-challenges/>
+
+---
+
+## Tourism vs locals
+
+date: 2024-09-13, from: Island Times
+
+<figure><img width="1024" height="716" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Palau-media-workshop-session-9-10-24-gj-IMG_9610.jpeg?fit=1024%2C716&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Palau-media-workshop-session-9-10-24-gj-IMG_9610.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Palau-media-workshop-session-9-10-24-gj-IMG_9610.jpeg?resize=300%2C210&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Palau-media-workshop-session-9-10-24-gj-IMG_9610.jpeg?resize=1024%2C716&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Palau-media-workshop-session-9-10-24-gj-IMG_9610.jpeg?resize=768%2C537&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Palau-media-workshop-session-9-10-24-gj-IMG_9610.jpeg?resize=1200%2C839&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Palau-media-workshop-session-9-10-24-gj-IMG_9610.jpeg?resize=400%2C280&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Palau-media-workshop-session-9-10-24-gj-IMG_9610.jpeg?resize=706%2C493&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Palau-media-workshop-session-9-10-24-gj-IMG_9610.jpeg?fit=1024%2C716&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72508" data-permalink="https://islandtimes.org/tourism-vs-locals/palau-media-workshop-session-9-10-24-gj-img_9610/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Palau-media-workshop-session-9-10-24-gj-IMG_9610.jpeg?fit=1249%2C873&amp;ssl=1" data-orig-size="1249,873" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Palau media workshop session 9-10-24 gj IMG_9610" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Palau-media-workshop-session-9-10-24-gj-IMG_9610.jpeg?fit=300%2C210&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Palau-media-workshop-session-9-10-24-gj-IMG_9610.jpeg?fit=780%2C545&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Does tourism benefit Palauans? By Jaston-Kyle Jamore The ongoing expansion of Palau’s tourism industry has highlighted a conflict between economic growth and local participation, as underscored by recent discussions among government and Chamber of Commerce representatives, and Palau Community College students. Melson Miko, Director of the Palau Bureau of Tourism, emphasized the industry&#8217;s central role [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tourism-vs-locals/">Tourism vs locals</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/tourism-vs-locals/>
+
+---
+
+## Seeing tourism through Palauan eyes
+
+date: 2024-09-13, from: Island Times
+
+<p>By Samantha Iyar The future of tourism in Palau was featured in a lively discussion during a media workshop in Koror this week at Palau Community College.&#160; Palau tourism and Chamber of Commerce officials emphasized the many job opportunities in tourism. But they also highlighted the need to find a way to encourage Palauans to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/seeing-tourism-through-palauan-eyes/">Seeing tourism through Palauan eyes</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/seeing-tourism-through-palauan-eyes/>
+
+---
+
+## Law Enforcement calls for Tougher Drug policies for officers
+
+date: 2024-09-13, from: Island Times
+
+<p>Law enforcement officials are urging lawmakers to strengthen laws against police officers who test positive for illegal drugs, calling for higher standards and immediate termination of those involved. Attorney General Ernestine Rengiil, Vice President and Minister of Justice Uduch Sengebau-Senior, and other police officers appealed to Senators during an oversight hearing on Wednesday to amend [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/law-enforcement-calls-for-tougher-drug-policies-for-officers/">Law Enforcement calls for Tougher Drug policies for officers</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/law-enforcement-calls-for-tougher-drug-policies-for-officers/>
+
+---
+
+## Ngchesar State commemorates its 42nd Constitution Day
+
+date: 2024-09-13, from: Island Times
+
+<figure><img width="1024" height="641" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/01/1200px-Flag_of_Ngchesar_State.png?fit=1024%2C641&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/01/1200px-Flag_of_Ngchesar_State.png?w=1200&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/01/1200px-Flag_of_Ngchesar_State.png?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/01/1200px-Flag_of_Ngchesar_State.png?resize=1024%2C641&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/01/1200px-Flag_of_Ngchesar_State.png?resize=768%2C481&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/01/1200px-Flag_of_Ngchesar_State.png?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/01/1200px-Flag_of_Ngchesar_State.png?fit=1024%2C641&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="50000" data-permalink="https://islandtimes.org/ngchesar-state-council-to-elect-governor-today/1200px-flag_of_ngchesar_state/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/01/1200px-Flag_of_Ngchesar_State.png?fit=1200%2C751&amp;ssl=1" data-orig-size="1200,751" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="1200px-Flag_of_Ngchesar_State" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/01/1200px-Flag_of_Ngchesar_State.png?fit=300%2C188&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/01/1200px-Flag_of_Ngchesar_State.png?fit=780%2C488&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Eustoria Marie Borja Republic of Palau – Ngchesar State commemorates its 42nd. Constitution Day today, Friday, September 13, 2024. The state, which operates under the Constitution of the Republic of Palau and its own state constitution, is marking more than four decades of organized governance since ratifying its constitution on January 12, 1982 Under [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngchesar-state-commemorates-its-42nd-constitution-day/">Ngchesar State commemorates its 42nd Constitution Day</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ngchesar-state-commemorates-its-42nd-constitution-day/>
+
+---
+
+## Misech and Salii lead in Anguar’s Gubernatorial Primary Election
+
+date: 2024-09-13, from: Island Times
+
+<p>TACMOR controversy and Low Voter Turnout Loom By: Eustoria Marie Borja Republic of Palau – Unofficial results from Angaur State’s 3rd. Gubernatorial Primary Election show Natus Misech and Steven R. Salii leading. Misech secured 47 votes, followed closely by Salii with 44 votes. Warren Fukuichi, the third candidate, garnered 37 votes. &#160;Despite Angaur having 455 [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/misech-and-salii-lead-in-anguars-gubernatorial-primary-election/">Misech and Salii lead in Anguar’s Gubernatorial Primary Election</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/misech-and-salii-lead-in-anguars-gubernatorial-primary-election/>
+
+---
+
+## Palau’s tourism is growing towards sustainability and local benefit
+
+date: 2024-09-13, from: Island Times
+
+<p>By Kederang Ueda The Republic of Palau’s tourism authorities are expanding legislation to protect historic sites and natural environments through outreach with Palau’s local communities to improve tourism policy in the rebounding industry. Tourism makes up 40 percent of Palau’s economy and accounts for 25 percent of the workforce, according to a 2023 economic report [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-tourism-is-growing-towards-sustainability-and-local-benefit/">Palau’s tourism is growing towards sustainability and local benefit</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palaus-tourism-is-growing-towards-sustainability-and-local-benefit/>
+
+---
+
+## Science Show Delights Palauan Students
+
+date: 2024-09-13, from: Island Times
+
+<figure><img width="1024" height="712" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Science-Show-Delights-Palauan-Students.jpg?fit=1024%2C712&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Science-Show-Delights-Palauan-Students.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Science-Show-Delights-Palauan-Students.jpg?resize=300%2C209&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Science-Show-Delights-Palauan-Students.jpg?resize=1024%2C712&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Science-Show-Delights-Palauan-Students.jpg?resize=768%2C534&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Science-Show-Delights-Palauan-Students.jpg?resize=1200%2C835&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Science-Show-Delights-Palauan-Students.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Science-Show-Delights-Palauan-Students.jpg?resize=706%2C491&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Science-Show-Delights-Palauan-Students.jpg?fit=1024%2C712&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72491" data-permalink="https://islandtimes.org/science-show-delights-palauan-students/science-show-delights-palauan-students/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Science-Show-Delights-Palauan-Students.jpg?fit=1249%2C869&amp;ssl=1" data-orig-size="1249,869" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Science Show Delights Palauan Students" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Science-Show-Delights-Palauan-Students.jpg?fit=300%2C209&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Science-Show-Delights-Palauan-Students.jpg?fit=780%2C542&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>On September 4th and 5th, 2024, in effort to celebrate the 30th Anniversary of the establishment of diplomatic relations between Japan and Palau, two Japanese Professors conducted science shows for students in Palau. Japanese Associate Professors, Mr. Fukuoka Ryoji from Osakai Seikei University and Ms. Akazawa Masayo from Bukkyo University came to Palau to conduct [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/science-show-delights-palauan-students/">Science Show Delights Palauan Students</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/science-show-delights-palauan-students/>
+
+---
+
+## Jurors find rape defendant William Abraczinskas guilty on all counts
+
+date: 2024-09-13, updated: 2024-09-13, from: Marianas Variety
+
+The defendant was ordered to surrender at 9 a.m. Saturday. 
+
+<https://www.mvariety.com/news/local/jurors-find-rape-defendant-william-abraczinskas-guilty-on-all-counts/article_b665aae2-7199-11ef-9e79-6b4b027d968c.html>
+
+---
+
+## Opening ceremony for Solar Photovoltaic System at the Palau National Aquaculture Center in Koror
+
+date: 2024-09-13, from: Island Times
+
+<p>On the morning of September 10, 2024, the opening ceremony for the solar photovoltaic system was held at the Palau National Aquaculture Center in Koror. The event was attended by the Ambassador of the Republic of China (Taiwan) to the Republic of Palau, H.E. Jessica Lee, Minister of Agriculture, Fisheries and Environment, Hon. Steven Victor, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/opening-ceremony-for-solar-photovoltaic-system-at-the-palau-national-aquaculture-center-in-koror/">Opening ceremony for Solar Photovoltaic System at the Palau National Aquaculture Center in Koror</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/opening-ceremony-for-solar-photovoltaic-system-at-the-palau-national-aquaculture-center-in-koror/>
+
+---
+
+## PICRC’s communications and outreach officer builds connections across the Pacific
+
+date: 2024-09-13, from: Island Times
+
+<p>Palau International Coral Reef Center’s (PICRC)&#160;Communications and Outreach Officer, Lucy Dickie, recently returned from her journey aboard Exploration Vessel (E/V) Nautilus and to American Samoa. Lucy’s trip began with E/V Nautilus Expedition NA163, set to explore underwater territories from Hawai’i to American Samoa. Although the expedition faced a 10-day delay, it was highly productive. As [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrcs-communications-and-outreach-officer-builds-connections-across-the-pacific/">PICRC’s communications and outreach officer builds connections across the Pacific</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/picrcs-communications-and-outreach-officer-builds-connections-across-the-pacific/>
+
+---
+
+## U.S maintains military grip over ‘sovereign’ Pacific island states
+
+date: 2024-09-13, from: Island Times
+
+<p>In exchange for grants, these states give Washington veto power over defense pacts and diplomatic relations with other countries By Edward Hunt WASHINGTON (RESPONSIBLE STATECRAFT) &#8212; The United States has solidified the permanence of its military controls over three central Pacific island states and their vast maritime areas. Years-long negotiations over the compacts of free [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-maintains-military-grip-over-sovereign-pacific-island-states/">U.S maintains military grip over ‘sovereign’ Pacific island states</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/u-s-maintains-military-grip-over-sovereign-pacific-island-states/>
+
+---
+
+## Celebrate the Distinct Melody That Is You
+
+date: 2024-09-13, from: Island Times
+
+<figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71819" data-permalink="https://islandtimes.org/shame/wc1-16/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/WC1.jpg?fit=524%2C522&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>It&#8217;s a joyous journey to recognize and embrace the beautiful and unique melody within each of us. We should always strive to remain authentic and genuine, not allowing the opinions of others to stifle our inner song. Embracing our distinct melody and, most importantly, accepting it as a part of who we are will enable [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/celebrate-the-distinct-melody-that-is-you/">Celebrate the Distinct Melody That Is You</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/celebrate-the-distinct-melody-that-is-you/>
+
+---
+
+## PNG PM Marape survives Vote of No confidence motion
+
+date: 2024-09-13, from: Island Times
+
+<p>PORT MORESBY (POST COURIER) &#8212;-Papua New Guinea Prime Minister James Marape has survived the Vote of No confidence against his leadership 75 to 32. Government numbers supported maintaining PM Marape with the Opposition unable to gain favour to have its Alternate PM Rainbo Paita lead. The speaker of Parliament Job Pomat allowed the motion of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/png-pm-marape-survives-vote-of-no-confidence-motion/">PNG PM Marape survives Vote of No confidence motion</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/png-pm-marape-survives-vote-of-no-confidence-motion/>
+
+---
+
+## Landmark settlements for children detained in Nauru
+
+date: 2024-09-13, from: Island Times
+
+<p>CANBERRA (AAP) &#8212; Two children who were detained offshore in Nauru have won federal court settlements from the Australian government for medical negligence and abdicating its duty of care. The judgments for the two cases, identified as FBV18 and AYX18, came within days of each other at the end of August. The confidential settlements, which [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/landmark-settlements-for-children-detained-in-nauru/">Landmark settlements for children detained in Nauru</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/landmark-settlements-for-children-detained-in-nauru/>
+
+---
+
+## Australia sends expert teams to Fiji as Chinese state-backed hackers attack Pacific Islands Forum
+
+date: 2024-09-13, from: Island Times
+
+<p>Exclusive by foreign affairs reporter Stephen Dziedzic In short:(ABC-Australia) The ABC learns that the Australian government sent cyber specialists to Fiji this year after the Pacific Island Forum Secretariat&#8217;s networks were infiltrated by Chinese state backed hackers.The cyber attack was &#8220;extensive&#8221; and the hackers intended to gather information about the operations of the Secretariat, according [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australia-sends-expert-teams-to-fiji-as-chinese-state-backed-hackers-attack-pacific-islands-forum/">Australia sends expert teams to Fiji as Chinese state-backed hackers attack Pacific Islands Forum</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/australia-sends-expert-teams-to-fiji-as-chinese-state-backed-hackers-attack-pacific-islands-forum/>
+
+---
+
+## Taylor Swift endorses Kamala Harris following first presidential debate with Donald Trump
+
+date: 2024-09-13, from: Island Times
+
+<p>By: Georgie Hewson, Grace McKinnon, Nellie Saarinen (ABC-Australia) Taylor Swift has announced she will be voting for Kamala Harris in the upcoming US presidential election. Posting to Instagram shortly after the presidential debate, Swift called vice-president and democratic nominee Harris a &#8220;steady-handed gifted leader&#8221;. &#8220;I will be casting my vote for Kamala Harris and Tim [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taylor-swift-endorses-kamala-harris-following-first-presidential-debate-with-donald-trump/">Taylor Swift endorses Kamala Harris following first presidential debate with Donald Trump</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/taylor-swift-endorses-kamala-harris-following-first-presidential-debate-with-donald-trump/>
+
+---
+
+## Marianas Open International championships
+
+date: 2024-09-13, from: Island Times
+
+<figure><img width="600" height="461" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Copa-1.jpg?fit=600%2C461&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Copa-1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Copa-1.jpg?resize=300%2C231&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Copa-1.jpg?resize=400%2C307&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Copa-1.jpg?fit=600%2C461&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72463" data-permalink="https://islandtimes.org/marianas-open-international-championships/copa-1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Copa-1.jpg?fit=600%2C461&amp;ssl=1" data-orig-size="600,461" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Copa-1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Copa-1.jpg?fit=300%2C231&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Copa-1.jpg?fit=600%2C461&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>The World’s Elite Jiu-Jitsu Athletes Set to Compete on Guam – $50,000 Prize Pool Hågatña, Guam – September 8, 2024 &#8211; The jiu-jitsu community is gearing up for the most anticipated event of the year as the Marianas Open International Championships returns to Guam on Saturday, October 12, 2024. Hosted at the University of Guam [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/marianas-open-international-championships/">Marianas Open International championships</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/marianas-open-international-championships/>
+
+---
+
+## Local concerns on Palauan “fronts” in the tourism sector continue despite official assurances
+
+date: 2024-09-13, from: Island Times
+
+<p>By Elilai Rengiil Public criticism of foreigners using Palauans as “fronts” for tourism-related businesses persist despite statements from Bureau of Tourism Director Melson Miko that Palau law reserves tourism operations to Palauans only. Key issues related to tourism were highlighted in a press conference organized for the “Telling Your Pacific Story” Media Workshop held at [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/local-concerns-on-palauan-fronts-in-the-tourism-sector-continue-despite-official-assurances/">Local concerns on Palauan “fronts” in the tourism sector continue despite official assurances</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/local-concerns-on-palauan-fronts-in-the-tourism-sector-continue-despite-official-assurances/>
+
+---
+
+## Sip and shop at Goodies
+
+date: 2024-09-13, updated: 2024-09-13, from: Marianas Variety
+
+GOODIES, the newest coffee shop on Beach Road, lives up to its name by offering special gifts and other novelty items while serving freshly brewed coffee, other mood-enhancing drinks and cookies. 
+
+<https://www.mvariety.com/business/business_news/sip-and-shop-at-goodies/article_f44611d2-70d4-11ef-8fd0-93b2aa7ca2d1.html>
+
+---
+
+## Medical school welcomes new chief of staff
+
+date: 2024-09-13, from: University of Hawaiʻi News
+
+<p>Karen Chavis has been hired as chief of staff to Dean Sam Shomaker.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/12/jabsom-welcomes-chief-of-staff/">Medical school welcomes new chief of staff</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/12/jabsom-welcomes-chief-of-staff/>
+
+---
+
+## iPads, computer labs, financial literacy, more at the UH Community Colleges
+
+date: 2024-09-13, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Community Colleges receive technology grants from the Pacific Center for Advanced Technology Training.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/12/pcatt-awarded-technology-grants/">iPads, computer labs, financial literacy, more at the <abbr>UH</abbr> Community Colleges</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/12/pcatt-awarded-technology-grants/>
+
+---
+
+## TT going, going, gone!
+
+date: 2024-09-12, from: Marshal Islands Journal
+
+<p>Journal 9/11/1987 P1 Patrol boat arrives on MajuroThe Marshalls has a new patrol boat that was christened September 4. President Amata Kabua gave a speech welcoming the boat. The ceremony included a christening of the Ionmeto, song and dance and refreshment for all who attended. P7 TT going, going, gone!Two-letter abbreviations assigned to the Pacific [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/tt-going-going-gone/">TT going, going, gone!</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/tt-going-going-gone/>
+
+---
+
+## UH engineering professor honored for impact on students’ education, careers
+
+date: 2024-09-12, from: University of Hawaiʻi News
+
+<p>Murmann has guided more than 50 <abbr>PhD</abbr> students through the often-difficult path to graduation, with many going on to distinguished careers.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/12/professor-murmann-aristotle-award/"><abbr>UH</abbr> engineering professor honored for impact on students’ education, careers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/12/professor-murmann-aristotle-award/>
+
+---
+
+## Microfossils reveal abrupt global warming of the past
+
+date: 2024-09-12, from: University of Hawaiʻi News
+
+<p>Between 59 million to 51 million years ago, Earth experienced dramatic warming.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/12/microfossils-abrupt-warming/">Microfossils reveal abrupt global warming of the past</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/12/microfossils-abrupt-warming/>
+
+---
+
+## Center honoring late archeologist William Kikuchi opens at Kauaʻi CC
+
+date: 2024-09-12, from: University of Hawaiʻi News
+
+<p>The Kikuchi Center, which honors the late archaeologist and Emeritus Professor William &#8220;Pila&#8221; Kikuchi, is inviting the public to the center’s first artist showcase.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/12/kikuchi-center-opens-at-kauai-cc/">Center honoring late archeologist William Kikuchi opens at Kauaʻi <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/12/kikuchi-center-opens-at-kauai-cc/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2024-09-12, updated: 2024-09-12, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Amata manages House floor during passage of her bills
+
+date: 2024-09-12, updated: 2024-09-12, from: Marianas Variety
+
+WASHINGTON, D.C. (Office of the American Samoa Congressional Delegate) — U.S. Congresswoman Uifa’atali Amata on Monday served as floor manager during consideration of a slate of bipartisan legislation, including bills she sponsored and cosponsored. 
+
+<https://www.mvariety.com/news/regional_world/amata-manages-house-floor-during-passage-of-her-bills/article_e1e424c8-70c7-11ef-9eaf-df0edf88eac4.html>
+
+---
+
+## Rota Spirits 19 coming to a store near you
+
+date: 2024-09-12, updated: 2024-09-12, from: Marianas Variety
+
+ROTA Spirits 19, a premium distilled Korean liquor, will be available at several retail stores on island by November of this year, said Yong Chul Jang, CEO of M&amp;E Enterprises Inc., its distributor. 
+
+<https://www.mvariety.com/lifestyle/rota-spirits-19-coming-to-a-store-near-you/article_8fd7b45c-70d0-11ef-b0c3-a7945bf5039d.html>
+
+---
+
+## Variations ǀ If I were a CNMI legislative candidate
+
+date: 2024-09-12, updated: 2024-09-12, from: Marianas Variety
+
+If you go into politics, you are more likely to wind up a villain than a hero. 
+
+<https://www.mvariety.com/views/columnists/variations-if-i-were-a-cnmi-legislative-candidate/article_333dede0-7109-11ef-8d5b-3f2521ac30f4.html>
+
+---
+
+## Priorities!
+
+date: 2024-09-12, updated: 2024-09-12, from: Marianas Variety
+
+What’s the rush? 
+
+<https://www.mvariety.com/views/editorials/priorities/article_963d3ea6-7108-11ef-9de9-c7a2307dca3a.html>
+
+---
+
+## Jurors deliberate in rape trial
+
+date: 2024-09-12, updated: 2024-09-12, from: Marianas Variety
+
+THE jurors had not reached a verdict in the jury trial of William Abraczinskas and will continue their deliberation today, Friday, Variety learned. 
+
+<https://www.mvariety.com/news/local/jurors-deliberate-in-rape-trial/article_7ea90cea-70e8-11ef-a683-6ff8c70d4a79.html>
+
+---
+
+## 3 lbs. of meth worth $281K seized
+
+date: 2024-09-12, updated: 2024-09-12, from: Marianas Variety
+
+THE CNMI Drug Enforcement Task Force conducted an operation that led to the arrest of a woman who was carrying 1.03 pounds of methamphetamine in her handbag upon her arrival from Guam at the Francisco C. Ada/Saipan International Airport on Aug. 30, 2024. 
+
+<https://www.mvariety.com/news/local/3-lbs-of-meth-worth-281k-seized/article_946de616-70d6-11ef-9315-e712232d9597.html>
+
+---
+
+## Fuel price rollback on Tinian, Rota
+
+date: 2024-09-12, updated: 2024-09-12, from: Marianas Variety
+
+THE fuel prices on Tinian and Rota went down Thursday and Friday, respectively, following Tuesday’s price rollback on Saipan. 
+
+<https://www.mvariety.com/news/local/fuel-price-rollback-on-tinian-rota/article_b7f12204-70d8-11ef-9a85-2b489e37b1bd.html>
+
+---
+
+## Born of Both
+
+date: 2024-09-12, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Keira Deer I do not confide in my father and mother. They would not understand. How could they? He is English, she is Chinese. I am different to both of them– a stranger, tho their own child. “What are &#8230; <a href="https://hawaiipacificreview.org/2024/09/12/born-of-both/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/09/12/born-of-both/>
+
+---
+
+## Next chapter for Dr. Jean
+
+date: 2024-09-12, from: Marshal Islands Journal
+
+<p>Dr. Jean Phillip launched the next phase of her medical profession at the end of August with the start of her four-year residency training program at Shuang Ho Hospital in Taipei. A special ceremony was held at Shuang Ho Hospital to mark the occasion. Marshall Islands Ambassador Anjanette Kattil joined the event and congratulated Dr. [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/next-chapter-for-dr-jean/">Next chapter for Dr. Jean</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/next-chapter-for-dr-jean/>
 
 ---
 
@@ -285,6 +951,18 @@ date: 2024-09-12, from: Hawaii Tribune Harold
 
 ---
 
+## Hilo boy, 15, arrested after social media posts prompt concerns
+
+date: 2024-09-12, from: Hawaii Tribune Harold
+
+
+				<p>Police have arrested a 15-year-old male student from Hilo in connection with social media posts regarding a Hilo school.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/12/hawaii-news/hilo-boy-15-arrested-after-social-media-posts-prompt-concerns/>
+
+---
+
 ## Students, youth urged to manage stress
 
 date: 2024-09-12, from: Marshal Islands Journal
@@ -294,6 +972,26 @@ date: 2024-09-12, from: Marshal Islands Journal
  
 
 <https://marshallislandsjournal.com/students-youth-urged-to-manage-stress/>
+
+---
+
+## House panel examines delays in full implementation of COFA agreements
+
+date: 2024-09-12, from: Pacific Island Times
+
+By Jayvee Vallejera   The successful amendments to the Compacts of Free Association between the United States and the freely associated... 
+
+<https://www.pacificislandtimes.com/post/house-panel-examines-delays-in-implementing-parts-of-cofa>
+
+---
+
+## The complacency of stagnant water
+
+date: 2024-09-12, from: Pacific Island Times
+
+Since the end of World War II, economic development has been one of the primary flags planted in the middle of conference tables in the... 
+
+<https://www.pacificislandtimes.com/post/the-complacency-of-stagnant-water>
 
 ---
 
@@ -382,6 +1080,16 @@ date: 2024-09-11, from: Marshal Islands Journal
  
 
 <https://marshallislandsjournal.com/epa-passes-us-lab-audit/>
+
+---
+
+## Finalists named for next UH President
+
+date: 2024-09-11, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+The University of Hawaiʻi Board of Regents (BOR) named two finalists for the next president of the state’s ten-campus system: Wendy F. Hensel and Dr. Julian Vasquez Heilig. 
+
+<https://www.manoanow.org/kaleo/finalists-named-for-next-uh-president/article_9d73eee6-7071-11ef-8357-fb46a46b1e1e.html>
 
 ---
 
@@ -852,6 +1560,26 @@ date: 2024-09-11, updated: 2024-09-11, from: Marianas Variety
  
 
 <https://www.mvariety.com/news/local/acting-governor-cancels-tropical-storm-conditions/article_cb098d98-6ff9-11ef-9745-ab2e80f7ffb4.html>
+
+---
+
+## Tropical Storm Bebinca (14W) moves further from Guam 
+
+date: 2024-09-11, from: Pacific Island Times
+
+(Office of Homeland Security and Civil Defense)  -- Tropical Depression Bebinca (14W) has been upgraded to a Tropical Storm and is 110... 
+
+<https://www.pacificislandtimes.com/post/tropical-storm-bebinca-14w-moves-further-from-guam>
+
+---
+
+## House passes bill to seal Washington's diplomatic ties with Pacific island states
+
+date: 2024-09-11, from: Pacific Island Times
+
+By Pacific Island Times News Staff   The U.S. House of Representatives this week passed a bill requiring the State Department to update... 
+
+<https://www.pacificislandtimes.com/post/house-passes-bill-to-seal-washington-s-diplomatic-ties-with-pacific-island-states>
 
 ---
 
@@ -1571,6 +2299,16 @@ The post <a href="https://www.hawaii.edu/news/2024/09/09/grant-renewal-for-healt
 
 ---
 
+## CNMI governor seeks to turn to the military for economic recovery
+
+date: 2024-09-09, from: Pacific Island Times
+
+By Mar-Vic Cagurangan   The Northern Mariana Islands is looking to capitalize on its strategic role in the U.S. military’s Indo-Pacific... 
+
+<https://www.pacificislandtimes.com/post/cnmi-governor-seeks-to-turn-to-the-military-for-economic-recovery>
+
+---
+
 ## All In Good Fun
 
 date: 2024-09-09, from: Hawai'i Pacific Review (HPU Literary Magazine)
@@ -1865,6 +2603,16 @@ Two senators have introduced a bill that, if passed, would possibly allow adults
 
 ---
 
+## Guam business leader warns '25 budget bill constitutes crisis waiting to happen 
+
+date: 2024-09-09, from: Pacific Island Times
+
+By Pacific Island Times News Staff   The Guam Chamber of Commerce was taken aback by the $1.3 billion spending measure narrowly passed by... 
+
+<https://www.pacificislandtimes.com/post/guam-chamber-warns-2025-budget-bill-constitutes-crisis-waiting-to-happen>
+
+---
+
 ## Iakwe eok Aloha Airlines
 
 date: 2024-09-09, from: Marshal Islands Journal
@@ -1934,6 +2682,36 @@ date: 2024-09-08, from: Marshal Islands Journal
  
 
 <https://marshallislandsjournal.com/schools-roll-with-bumpy-start/>
+
+---
+
+##  Why I treat elections like the Olympics
+
+date: 2024-09-08, from: Pacific Island Times
+
+Tug-of-war is not an Olympic sport, but it should be.    Let me explain. In the latest challenge to Western influence in the Pacific, an... 
+
+<https://www.pacificislandtimes.com/post/why-i-treat-elections-like-the-olympics>
+
+---
+
+## The price of admission
+
+date: 2024-09-08, from: Pacific Island Times
+
+Saipan -- The residents of Guam and the Northern Mariana Islands are — and should be — concerned about the possibility of war involving... 
+
+<https://www.pacificislandtimes.com/post/the-price-of-admission>
+
+---
+
+## The silent killer: Fentanyl deaths raise alarm on Guam  
+
+date: 2024-09-08, from: Pacific Island Times
+
+By Jayvee Vallejera   A description of how a fentanyl overdose kills is quite clinical. A quick Google search reveals some of the... 
+
+<https://www.pacificislandtimes.com/post/the-silent-killer-fentanyl-deaths-raise-alarm-on-guam>
 
 ---
 

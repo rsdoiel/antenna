@@ -1,11 +1,75 @@
 ---
 title: libraries
-updated: 2024-09-12 06:44:37
+updated: 2024-09-13 07:50:34
 ---
 
 # libraries
 
-(date: 2024-09-12 06:44:37)
+(date: 2024-09-13 07:50:34)
+
+---
+
+## ARL Celebrates Hispanic Heritage Month 2024
+
+date: 2024-09-13, from: Association of Research Libraries News
+
+<p>Last Updated on September 13, 2024, 9:41 am ET The Association of Research Libraries is excited to celebrate Hispanic Heritage Month (September 15 – October 15). Below, is a round-up...</p>
+<p>The post <a href="https://www.arl.org/blog/celebrating-hispanic-heritage-month-2024/">ARL Celebrates Hispanic Heritage Month 2024</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/blog/celebrating-hispanic-heritage-month-2024/>
+
+---
+
+## A Musical Tour of the History of Scholarly Communications
+
+date: 2024-09-13, from: Scholarly Kitchen
+
+<p>Congratulations to Heather Staines and her cast for converting ALPSP delegates to the grand tradition of the conference skit.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/09/13/a-musical-tour-of-the-history-of-scholarly-communications/">A Musical Tour of the History of Scholarly Communications</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/09/13/a-musical-tour-of-the-history-of-scholarly-communications/>
+
+---
+
+## Women in Love, by D. H. Lawrence
+
+date: 2024-09-13, from: Standard Ebooks, new releaases
+
+Two women engage in romantic relationships with two men against the backdrop of early 20th Century England. 
+
+<https://standardebooks.org/ebooks/d-h-lawrence/women-in-love>
+
+---
+
+## Polynesian Mythology, by George Grey
+
+date: 2024-09-12, from: Standard Ebooks, new releaases
+
+A collection of Māori mythology covering the start of the universe through to the spread of Māori tribes through New Zealand’s North Island. 
+
+<https://standardebooks.org/ebooks/george-grey/polynesian-mythology>
+
+---
+
+## Short Fiction, by F. Scott Fitzgerald
+
+date: 2024-09-12, from: Standard Ebooks, new releaases
+
+A collection of short fiction by F. Scott Fitzgerald, ordered by date of publication. 
+
+<https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction>
+
+---
+
+## The Adventures of Captain Hatteras, by Jules Verne
+
+date: 2024-09-12, from: Standard Ebooks, new releaases
+
+A mysterious captain assembles a ship and crew for a secret and dangerous voyage. 
+
+<https://standardebooks.org/ebooks/jules-verne/the-adventures-of-captain-hatteras/james-r-osgood-and-company>
 
 ---
 
@@ -70,7 +134,7 @@ Hume examines the fundamental nature of knowledge, reality and human understandi
 
 date: 2024-09-09, from: Association of Research Libraries News
 
-<p>Last Updated on September 11, 2024, 4:45 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 10 &#124; Wednesday, September 11 &#124; Thursday,...</p>
+<p>Last Updated on September 13, 2024, 9:12 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 10 &#124; Wednesday, September 11 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-9-12/">Day in Review (September 9–12)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

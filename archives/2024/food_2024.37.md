@@ -1,11 +1,147 @@
 ---
 title: food
-updated: 2024-09-12 06:44:41
+updated: 2024-09-13 07:50:38
 ---
 
 # food
 
-(date: 2024-09-12 06:44:41)
+(date: 2024-09-13 07:50:38)
+
+---
+
+## Pineapple Habanero Salsa
+
+date: 2024-09-13, from: Pepper Scale
+
+If there&#8217;s one thing that works perfectly with hot peppers, it&#8217;s tropical fruit. Well, if you ask us, lots of things go well with hot peppers, but tropical fruit is one of those no brainer mixes. Pineapple habanero salsa is one of these perfect matches — ... <p class="read-more-container"><a title="Pineapple Habanero Salsa" class="read-more button" href="https://pepperscale.com/pineapple-habanero-salsa/#more-4191" aria-label="Read more about Pineapple Habanero Salsa">Read more</a></p> 
+
+<https://pepperscale.com/pineapple-habanero-salsa/>
+
+---
+
+## Too Much Chili Powder? Here’s What To Do
+
+date: 2024-09-13, from: Pepper Scale
+
+We all have a heavy hand from time to time. But being heavy-handed with chili powder can quickly turn a dish from delicious to a devilish disaster. So if you’ve used too much chili powder, what can you do to save that meal from the ... <p class="read-more-container"><a title="Too Much Chili Powder? Here’s What To Do" class="read-more button" href="https://pepperscale.com/too-much-chili-powder/#more-5423" aria-label="Read more about Too Much Chili Powder? Here’s What To Do">Read more</a></p> 
+
+<https://pepperscale.com/too-much-chili-powder/>
+
+---
+
+## Peppercorn Sauce Recipe
+
+date: 2024-09-13, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/peppercorn-sauce/" title="Peppercorn Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Peppercorn-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mike drizzling Peppercorn Sauce onto a perfectly seared steak" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Peppercorn-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Peppercorn-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Peppercorn-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Peppercorn-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Peppercorn-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Peppercorn-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Peppercorn-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Peppercorn sauce is a rich and creamy sauce made with a base of heavy cream and spicy whole peppercorns, perfect over seared meats, especially steaks.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/peppercorn-sauce/">Peppercorn Sauce Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<https://www.chilipeppermadness.com/recipes/peppercorn-sauce/>
+
+---
+
+## Black Bean Mole Soup
+
+date: 2024-09-13, from: Pepper Scale
+
+If you&#8217;re a fan of Mexican mole&#160;and its sweet earthiness, then you&#8217;re going to love the combo of mole and black beans. Black bean mole soup is bold &#8211; not, particularly, in heat, but certainly in spices. With its hint of chocolate, nutty undertone, and ... <p class="read-more-container"><a title="Black Bean Mole Soup" class="read-more button" href="https://pepperscale.com/black-bean-mole-soup/#more-34083" aria-label="Read more about Black Bean Mole Soup">Read more</a></p> 
+
+<https://pepperscale.com/black-bean-mole-soup/>
+
+---
+
+## What’s A Good Sweet Chili Sauce Substitute?
+
+date: 2024-09-13, from: Pepper Scale
+
+From sweetening fiery Asian cuisine to firing up delicious desserts, sweet chili sauce has found growing use in the kithen. It’s typically easy to find at your local grocer (look in the international section), but if you need a quick substitute, you do have some ... <p class="read-more-container"><a title="What’s A Good Sweet Chili Sauce Substitute?" class="read-more button" href="https://pepperscale.com/sweet-chili-sauce-substitute/#more-9834" aria-label="Read more about What’s A Good Sweet Chili Sauce Substitute?">Read more</a></p> 
+
+<https://pepperscale.com/sweet-chili-sauce-substitute/>
+
+---
+
+## Beef Madras Curry: The King Of Anglo-Indian Curries
+
+date: 2024-09-13, from: Pepper Scale
+
+Showcasing the flavors of southern India, Beef Madras curry has a long-standing reputation for being the benchmark against which other curries are measured. It’s a perfect balancing act that features everything a glorious curry should be – rich, fiery, sweet, spicy, and sour. If anything ... <p class="read-more-container"><a title="Beef Madras Curry: The King Of Anglo-Indian Curries" class="read-more button" href="https://pepperscale.com/beef-madras-curry/#more-91342" aria-label="Read more about Beef Madras Curry: The King Of Anglo-Indian Curries">Read more</a></p> 
+
+<https://pepperscale.com/beef-madras-curry/>
+
+---
+
+## Basil Fried Rice and More Recipes We Made This Week
+
+date: 2024-09-13, from: Bon Appetet
+
+Like one-pot spaghetti and stone-fruit caramel. 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-september-2024>
+
+---
+
+## Oaxaca Cheese
+
+date: 2024-09-13, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/oaxaca-cheese/"><img title="Oaxaca cheese" src="https://www.isabeleats.com/wp-content/uploads/2020/07/oaxaca-cheese-small-2-400x600.jpg" alt="Oaxaca cheese on plate." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Oaxaca cheese is the best creamy, stretchy, and meltable Mexican cheese ever! It&#8217;s similar to mozzarella, and great in enchiladas, chile rellenos, nachos, and quesadillas! Top this luscious Mexican cheese on all your favorite recipes.&#160; You&#8217;ve probably heard of cotija cheese and queso fresco, but you must try Oaxacan cheese! What Is Oaxaca Cheese? Oaxaca [&#8230;] 
+
+<https://www.isabeleats.com/oaxaca-cheese/>
+
+---
+
+## Spicy Mexican Hot Chocolate Cookies
+
+date: 2024-09-12, from: Pepper Scale
+
+You can&#8217;t go wrong with rich chocolaty cookies with a hint of smoky spiciness. That&#8217;s the premise behind these spicy Mexican hot chocolate cookies. Cocoa powder and chocolate chips provide a sweet foil to smoky chipotle powder and fiery cayenne pepper. It&#8217;s a mouth explosion of ... <p class="read-more-container"><a title="Spicy Mexican Hot Chocolate Cookies" class="read-more button" href="https://pepperscale.com/spicy-mexican-hot-chocolate-cookies/#more-18122" aria-label="Read more about Spicy Mexican Hot Chocolate Cookies">Read more</a></p> 
+
+<https://pepperscale.com/spicy-mexican-hot-chocolate-cookies/>
+
+---
+
+## Too Much Cayenne Pepper? How To Fix Your Dish
+
+date: 2024-09-12, from: Pepper Scale
+
+Cayenne pepper typically rates between 30,000 and 50,000 Scoville heat units&#160;(and sometimes hotter). To put that into perspective, jalapeño peppers range from&#160;2,500 and 8,000 SHU. In short, a little cayenne pepper can go a long way. It also means that it is easy to use ... <p class="read-more-container"><a title="Too Much Cayenne Pepper? How To Fix Your Dish" class="read-more button" href="https://pepperscale.com/too-much-cayenne-pepper/#more-8618" aria-label="Read more about Too Much Cayenne Pepper? How To Fix Your Dish">Read more</a></p> 
+
+<https://pepperscale.com/too-much-cayenne-pepper/>
+
+---
+
+## Turkish Roasted Chicken With Acili Ezme And Spiced Potatoes
+
+date: 2024-09-12, from: Pepper Scale
+
+With the spicy richness of cumin and cinnamon, along with the bright tang of lemon, this crisply golden, full-flavored Turkish roasted chicken is fall-off-the-bone tender. There’s a spark of serrano pepper in the chicken’s marinade, but the fire burns brighter in an absolute classic of ... <p class="read-more-container"><a title="Turkish Roasted Chicken With Acili Ezme And Spiced Potatoes" class="read-more button" href="https://pepperscale.com/turkish-roasted-chicken-with-acili-ezme-and-spiced-potatoes/#more-92105" aria-label="Read more about Turkish Roasted Chicken With Acili Ezme And Spiced Potatoes">Read more</a></p> 
+
+<https://pepperscale.com/turkish-roasted-chicken-with-acili-ezme-and-spiced-potatoes/>
+
+---
+
+## Sriracha Spaghetti Sauce
+
+date: 2024-09-12, from: Pepper Scale
+
+Here&#8217;s a simple way to bring your pasta to a real spicy boil. Sriracha spaghetti sauce (a.k.a. Sriracha marinara) is a simple pasta sauce to make, but the flavor impact is plentiful. There&#8217;s that tomato tang, a garlicky undertone, and a very eatable level of ... <p class="read-more-container"><a title="Sriracha Spaghetti Sauce" class="read-more button" href="https://pepperscale.com/sriracha-spaghetti-sauce/#more-18108" aria-label="Read more about Sriracha Spaghetti Sauce">Read more</a></p> 
+
+<https://pepperscale.com/sriracha-spaghetti-sauce/>
+
+---
+
+## Chipotle Mashed Sweet Potatoes
+
+date: 2024-09-12, from: Pepper Scale
+
+We like to think of these chipotle mashed sweet potatoes as a &#8220;shock and awe&#8221; side for a memorable meal. They are very unassuming — looking like your typical sweet potato mash. But underneath is a smoky heat that only chipotle pepper in adobo sauce ... <p class="read-more-container"><a title="Chipotle Mashed Sweet Potatoes" class="read-more button" href="https://pepperscale.com/chipotle-mashed-sweet-potatoes/#more-9100" aria-label="Read more about Chipotle Mashed Sweet Potatoes">Read more</a></p> 
+
+<https://pepperscale.com/chipotle-mashed-sweet-potatoes/>
 
 ---
 
@@ -165,7 +301,7 @@ date: 2024-09-11, from: Isebel Eats
 
 date: 2024-09-11, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/beef-bulgogi-recipe/" title="Beef Bulgogi Recipe (Homemade Korean BBQ Beef)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Hot Korean Beef Bulgogi served in a pan with rice on the side" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Bulgogi is the ultimate Korean bbq beef recipe with thinly sliced beef marinated in a flavorful sauce then grilled or stir fried, so easy to make!</p>
+<a href="https://www.chilipeppermadness.com/recipes/beef-bulgogi-recipe/" title="Beef Bulgogi Recipe (Homemade Korean BBQ Beef)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Hot Korean Beef Bulgogi served in a pan with rice on the side" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Beef-Bulgogi-Recipe-PAN1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Bulgogi is the ultimate Korean bbq beef recipe with thinly sliced beef marinated in a flavorful sauce then grilled or stir fried, so easy to make!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/beef-bulgogi-recipe/">Beef Bulgogi Recipe (Homemade Korean BBQ Beef)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

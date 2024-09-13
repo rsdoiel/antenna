@@ -1,11 +1,71 @@
 ---
 title: motorcycles
-updated: 2024-09-12 06:44:39
+updated: 2024-09-13 07:50:36
 ---
 
 # motorcycles
 
-(date: 2024-09-12 06:44:39)
+(date: 2024-09-13 07:50:36)
+
+---
+
+## Man Tries to Drive a UTV Backward Up a Rock Wall, Immediately Rolls It
+
+date: 2024-09-13, from: Ride Apart, Electric Motorcycle News
+
+I'm no genius, but what was the plan here? 
+
+<https://www.rideapart.com/news/733559/utv-backwards-rock-wall-roll-over/>
+
+---
+
+## Suzuki Katana Gets Bold New Colors, Little Else
+
+date: 2024-09-13, from: Ride Apart, Electric Motorcycle News
+
+If you like your rides blue or silver, then this one’s for you.  
+
+<https://www.rideapart.com/news/733435/2025-suzuki-katana-new-colors/>
+
+---
+
+## The Honda GB350C Finally Gets A Release Date, As Well as Pricing
+
+date: 2024-09-13, from: Ride Apart, Electric Motorcycle News
+
+Team Red's latest addition to the GB350 line will come in two ultra-classic colorways. 
+
+<https://www.rideapart.com/news/733568/honda-gb350c-release-date-details/>
+
+---
+
+## My Can-Am Helped Me Find Hunting Success, But It Almost Went Wrong
+
+date: 2024-09-13, from: Ride Apart, Electric Motorcycle News
+
+Find a far-off valley. Hunt there.  
+
+<https://www.rideapart.com/news/733419/can-am-maverick-x3-first-hunt-success/>
+
+---
+
+## This All-Electric Drift Quad Is Insane, Used to Be Turbocharged
+
+date: 2024-09-13, from: Ride Apart, Electric Motorcycle News
+
+It’s ready to cause chaos no matter where it goes.  
+
+<https://www.rideapart.com/news/733434/electric-drift-quad-grind-hard-plumbing-co/>
+
+---
+
+## We Could Have Safer E-Bike Battery Standards, But Ted Cruz Says No
+
+date: 2024-09-13, from: Ride Apart, Electric Motorcycle News
+
+Apparently, his problem with the bipartisan legislation relates to gas stoves, somehow? 
+
+<https://www.rideapart.com/news/733562/ebike-battery-safety-legislation-ted-cruz/>
 
 ---
 

@@ -1,11 +1,111 @@
 ---
 title: games
-updated: 2024-09-12 06:44:36
+updated: 2024-09-13 07:50:33
 ---
 
 # games
 
-(date: 2024-09-12 06:44:36)
+(date: 2024-09-13 07:50:33)
+
+---
+
+## Transformers One tells a ‘biblical’ Optimus Prime story that only animation can pull off
+
+date: 2024-09-13, updated: 2024-09-13, from: Polygon Website
+
+While the box-office haul of 2023’s Transformers: Rise of the Beasts doesn’t compare to the highest highs of the Michael Bay era, it was still a big enough hit that fans of the robots in disguise can expect another sequel in the future (and one with a toy line crossover twist). But before Transformers 8, [&#8230;] 
+
+<https://www.polygon.com/23802110/transformers-one-2024-story-optimus-prime-chris-hemsworth>
+
+---
+
+## The 37 best movies on Netflix right now
+
+date: 2024-09-13, updated: 2024-09-13, from: Polygon Website
+
+What’s the best movie I can watch on Netflix? We’ve all asked ourselves this question, only to spend the next 15 minutes scrolling through the streaming service’s oddly specific genre menus and getting overwhelmed by the constantly shifting trend menus. Netflix’s huge catalog of movies continues to expand day by day, week by week, month [&#8230;] 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## Mark Hamill and other Star Wars vets were thrilled to try new roles for a Lego special
+
+date: 2024-09-13, updated: 2024-09-13, from: Polygon Website
+
+Disney Plus’ Lego Star Wars special, Rebuild the Galaxy, puts a new spin on the galaxy far, far away. The basic gist of these four half-hour episodes is that one Force-sensitive boy accidentally rewires reality, swapping all the characters’ roles. This means, among other funky shifts, Luke Skywalker is now a beach bum, Jar Jar [&#8230;] 
+
+<https://www.polygon.com/star-wars/450973/lego-star-wars-rebuild-the-galaxy-mark-hamill-ahmed-best>
+
+---
+
+## Annapurna Interactive&#8217;s mass resignation won&#8217;t affect Control 2 or Remedy adaptations
+
+date: 2024-09-13, updated: 2024-09-13, from: Polygon Website
+
+Twenty-five Annapurna Interactive employees resigned from the company in September following a dispute with Annapurna Pictures founder Megan Ellison, according to a report from Bloomberg. Annapurna Interactive is the video game publishing arm of Annapurna Pictures; now former Annapurna Interactive president Nathan Gary was reportedly negotiating with Ellison to go independent with the game publishing [&#8230;] 
+
+<https://www.polygon.com/gaming/451240/control-2-remedy-annapurna-interactive-resignations>
+
+---
+
+## Rings of Power is speedrunning its most tragic plotline
+
+date: 2024-09-13, updated: 2024-09-12, from: Polygon Website
+
+Of the changes The Lord of the Rings: The Rings of Power has made from its source material, there’s none more sweeping than the scrunching of the story’s timeline. Rather than take place over three-plus millennia, Rings of Power showrunners J.D. Payne and Patrick McKay opted to condense the events of Middle-earth’s Second Age to [&#8230;] 
+
+<https://www.polygon.com/lotr-rings-of-power/450415/numenor-tolkien-history-plot-why>
+
+---
+
+## Zenless Zone Zero 1.2 livestream codes
+
+date: 2024-09-13, updated: 2024-09-13, from: Polygon Website
+
+Zenless Zone Zero just closed out its version 1.2 livestream, teasing what’s to come in the next update, which launches in the evening EDT of Tuesday, Sept. 24. Alongside new characters and events, Hoyoverse used the stream to distribute codes that reward free Polychrome and other upgrade materials. The stream showed off the upcoming characters, [&#8230;] 
+
+<https://www.polygon.com/zenless-zone-zero-guides/2024/8/3/450852/zzz-1-2-codes-redeem-livestream>
+
+---
+
+## Where to buy Pokémon Scarlet &#038; Violet Stellar Crown
+
+date: 2024-09-13, updated: 2024-09-12, from: Polygon Website
+
+The latest expansion for Pokémon TCG Scarlet &#38; Violet, called Stellar Crown, has just launched, and it’s currently available from a variety of online retailers, in addition to your local games store. Based on the Indigo Disk DLC for Pokémon Scarlet &#38; Violet, this new set shakes up the existing Pokémon TCG library with Stellar [&#8230;] 
+
+<https://www.polygon.com/pre-order/450633/pokemon-scarlet-violet-stellar-crown-where-to-buy>
+
+---
+
+## Altered TCG rivals Magic, Lorcana, and Star Wars: Unlimited with colorful combatants and a brilliant app 
+
+date: 2024-09-13, updated: 2024-09-13, from: Polygon Website
+
+Altered is a new trading card game so jam-packed with interesting innovations that it could lead to the beginning of a new era for trading card games. Or it could bomb spectacularly. At its core, Altered — which hit Kickstarter in February with a record-shattering $6.7 million campaign — arrives at retail here in the [&#8230;] 
+
+<https://www.polygon.com/review/450660/altered-tcg-review>
+
+---
+
+## God of War Ragnarök is coming to PC on Sept. 19, and you can already get $10 off
+
+date: 2024-09-12, updated: 2024-09-12, from: Polygon Website
+
+God of War Ragnarök, the latest of Sony’s exclusive PlayStation games to migrate to PC storefronts, launches Sept. 19. If you didn’t play this title when it came to PlayStation consoles, and want to see what happens next in the rebooted series, you can currently save 17% on the standard and deluxe versions of the [&#8230;] 
+
+<https://www.polygon.com/good-deals/450854/god-of-war-gow-ragnarok-pre-order-steam-pc-deal>
+
+---
+
+## Tony Hawk teases something ‘insanely exciting’ for Pro Skater’s 25th anniversary
+
+date: 2024-09-12, updated: 2024-09-12, from: Polygon Website
+
+Is Tony Hawk’s Pro Skater coming back… again? Tony Hawk won’t explicitly say, but it certainly sounds like something’s happening around the franchise’s 25th anniversary, according to recent comments from the pro skater himself. Hawk himself calls those developments “insanely exciting.” In a new episode of YouTube channel Mythical Kitchen’s Last Meal series, host Josh [&#8230;] 
+
+<https://www.polygon.com/gaming/451091/tony-hawk-pro-skater-25th-anniversary-thps-3-4>
 
 ---
 
@@ -366,16 +466,6 @@ date: 2024-09-09, updated: 2024-09-09, from: Polygon Website
 Deadpool &#38; Wolverine serves as the official, final nail in the coffin of 20th Century Fox’s Marvel movies, and the welcome party that brings Deadpool and the X-Men into the Marvel Cinematic Universe. But there&#8217;s more to the movie than Deadpool mocking the MCU and calling himself “Marvel Jesus,” come to save the Avengers. And [&#8230;] 
 
 <https://www.polygon.com/analysis/449126/deadpool-wolverine-future-of-mcu-dcu-superhero-movies>
-
----
-
-## The 36 best movies on Netflix right now
-
-date: 2024-09-09, updated: 2024-09-09, from: Polygon Website
-
-What’s the best movie I can watch on Netflix? We’ve all asked ourselves this question, only to spend the next 15 minutes scrolling through the streaming service’s oddly specific genre menus and getting overwhelmed by the constantly shifting trend menus. Netflix’s huge catalog of movies continues to expand day by day, week by week, month [&#8230;] 
-
-<https://www.polygon.com/21266801/best-movies-on-netflix>
 
 ---
 

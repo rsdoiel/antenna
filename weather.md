@@ -1,21 +1,548 @@
 ---
 title: weather
-updated: 2024-09-12 06:44:34
+updated: 2024-09-13 07:50:32
 ---
 
 # weather
 
-(date: 2024-09-12 06:44:34)
+(date: 2024-09-13 07:50:32)
 
 ---
 
-## SPC - No MDs are in effect as of Thu Sep 12 13:38:10 UTC 2024
+## Advisory #005 Watches/Warnings [kmz] - Tropical Storm Ileana (EP4/EP092024)
 
-date: 2024-09-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-09-13, from: Eastern Pacific Basin GIS Data
 
-No Mesoscale Discussions are in effect as of Thu Sep 12 13:38:10 UTC 2024. 
+KMZ last updated Fri, 13 Sep 2024 14:39:17 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP092024_005adv_WW.kmz>
+
+---
+
+## Advisory #005 Forecast Track [kmz] - Tropical Storm Ileana (EP4/EP092024)
+
+date: 2024-09-13, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Fri, 13 Sep 2024 14:39:04 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP092024_005adv_TRACK.kmz>
+
+---
+
+## Advisory #005 Wind Field [shp] - Tropical Storm Ileana (EP4/EP092024)
+
+date: 2024-09-13, from: Eastern Pacific Basin GIS Data
+
+Initial and Forecast Surface Winds. Shapefile last updated Fri, 13 Sep 2024 14:38:44 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep092024_fcst_005.zip>
+
+---
+
+## Preliminary Best Track Points [kmz] - Tropical Storm Ileana (EP4/EP092024)
+
+date: 2024-09-13, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Fri, 13 Sep 2024 14:38:37 GMT 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep092024_best_track.kmz>
+
+---
+
+## Preliminary Best Track [shp] - Tropical Storm Ileana (EP4/EP092024)
+
+date: 2024-09-13, from: Eastern Pacific Basin GIS Data
+
+Track, Points, and Wind Swath. Shapefile last updated Fri, 13 Sep 2024 14:38:36 GMT 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep092024_best_track.zip>
+
+---
+
+## Advisory #005 Cone of Uncertainty [kmz] - Tropical Storm Ileana (EP4/EP092024)
+
+date: 2024-09-13, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Fri, 13 Sep 2024 14:38:33 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP092024_005adv_CONE.kmz>
+
+---
+
+## Advisory #005 Forecast [shp] - Tropical Storm Ileana (EP4/EP092024)
+
+date: 2024-09-13, from: Eastern Pacific Basin GIS Data
+
+Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Fri, 13 Sep 2024 14:38:25 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep092024_5day_005.zip>
+
+---
+
+## Tropical Storm Ileana Graphics
+
+date: 2024-09-13, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/143754.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP09/EP092024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Ileana 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Fri, 13 Sep 2024 14:37:54 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/143754.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP09/EP092024_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Ileana 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Fri, 13 Sep 2024 14:37:54 GMT
+ 
+
+<https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/143754.shtml?cone>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-09-13, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Fri Sep 13 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Tropical <br>Depression Seven, located over the central tropical Atlantic Ocean. <br>The Weather Prediction Center is issuing advisories on Post-Tropical <br>Cyclone Francine, located inland over northeastern Arkansas.<br><br>1. Northern Leeward Islands (AL94):<br>Surface observations indicate a small area of low pressure is <br>located over the northern Leeward Islands. The system continues to <br>produce showers and thunderstorms this morning, but they have not <br>become any better organized. Environmental conditions, including the <br>proximity of dry air, do not favor development of this system while <br>it moves west-northwestward at about 15 mph. Regardless of <br>development, locally heavy rainfall and gusty winds are possible <br>across the northern Leeward Islands today.<br>* Formation chance through 48 hours...low...20 percent. <br>* Formation chance through 7 days...low...20 percent.<br><br />
+2. Offshore the Southeastern U.S.:<br>A non-tropical area of low pressure could form along a frontal <br>boundary a few hundred miles off the southeastern U.S. coastline <br>this weekend. Thereafter, some subtropical or tropical development <br>is possible during the early part of next week while the system <br>moves generally northwestward toward the coast.<br>* Formation chance through 48 hours...low...near 0 percent. <br>* Formation chance through 7 days...low...30 percent.<br><br />
+<br>Forecaster Kelly<br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Tropical Storm Ileana Forecast Discussion Number 5
+
+date: 2024-09-13, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+960 
+WTPZ44 KNHC 131435
+TCDEP4
+ 
+Tropical Storm Ileana Discussion Number   5
+NWS National Hurricane Center Miami FL       EP092024
+800 AM MST Fri Sep 13 2024
+ 
+Recent satellite imagery shows that Ileana is producing a large
+convective canopy with clouds top temperatures as cold as -80C.
+However, data from the Mexican radar at Cabo San Lucas shows that
+the convective banding under the canopy is poorly organized and
+suggests that the circulation center is still broad and elongated.
+The various satellite intensity estimates are little changed since
+the previous advisory, so the initial intensity remains 40 kt.
+ 
+The initial motion is 335/8 kt. This general motion should continue 
+for the next 12 h or so, bringing the center across the southern 
+portion of the Baja California peninsula later today and into the 
+southern Gulf of California by early Saturday.  After that, a slower 
+northward to north-northwestward motion is forecast until the 
+cyclone dissipates over the weekend.  There are no significant 
+changes to either the track forecast guidance and the forecast 
+track.
+
+Ileana currently appears too disorganized to take advantage of the 
+current environment of light to moderate shear, good moisture, and 
+warm water. Thus, little change in strength is expected before 
+landfall in Baja California Sur.  When the cyclone reaches the Gulf 
+of California, it is forecast to move into increasing westerly shear 
+and a drier airmass, which should cause weakening despite the very 
+warm sea surface temperatures.  Based on this scenario and the 
+intensity guidance, the intensity forecast continues to show 
+weakening, with the cyclone forecast to become a remnant low by 48 h 
+and dissipate by 72 hr.
+
+
+Key Messages:
+ 
+1. Tropical Storm Ileana will bring heavy rainfall to portions of 
+western Mexico and southern Baja California through this weekend. 
+This heavy rainfall will bring a risk of flash flooding and 
+mudslides to portions of the area.
+ 
+2. Tropical storm conditions are expected to begin in portions of
+Baja California Sur during the next several hours where Tropical 
+Storm Warnings are in effect.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  13/1500Z 22.3N 109.3W   40 KT  45 MPH
+ 12H  14/0000Z 23.5N 109.7W   40 KT  45 MPH...INLAND
+ 24H  14/1200Z 24.8N 109.9W   35 KT  40 MPH...OVER WATER
+ 36H  15/0000Z 25.8N 110.2W   35 KT  40 MPH
+ 48H  15/1200Z 26.7N 110.7W   30 KT  35 MPH...POST-TROP/REMNT LOW
+ 60H  16/0000Z 27.6N 111.1W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 72H  16/1200Z...DISSIPATED
+ 
+$$
+Forecaster Beven
+ 
+
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCDEP4+shtml/131435.shtml>
+
+---
+
+## Tropical Storm Ileana Wind Speed Probabilities Number 5
+
+date: 2024-09-13, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+FOPZ14 KNHC 131435
+PWSEP4
+                                                                    
+TROPICAL STORM ILEANA WIND SPEED PROBABILITIES NUMBER   5           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP092024               
+1500 UTC FRI SEP 13 2024                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL STORM ILEANA WAS LOCATED NEAR       
+LATITUDE 22.3 NORTH...LONGITUDE 109.3 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 40 KTS...45 MPH...75 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z FRI AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z FRI 00Z SAT 12Z SAT 00Z SUN 12Z SUN 12Z MON 12Z TUE
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z SAT 12Z SAT 00Z SUN 12Z SUN 12Z MON 12Z TUE 12Z WED
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+CABO SAN LUCAS 34 14   1(15)   X(15)   X(15)   X(15)   X(15)   X(15)
+ 
+SAN JOSE CABO  34 23   3(26)   X(26)   1(27)   X(27)   X(27)   X(27)
+ 
+LA PAZ         34  4   6(10)   1(11)   X(11)   X(11)   X(11)   X(11)
+ 
+LORETO         34  X   1( 1)   2( 3)   1( 4)   X( 4)   X( 4)   X( 4)
+ 
+GUAYMAS        34  X   X( X)   1( 1)   2( 3)   1( 4)   X( 4)   X( 4)
+ 
+HUATABAMPO     34  X   X( X)   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)
+ 
+LOS MOCHIS     34  X   2( 2)   3( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+$$                                                                  
+FORECASTER BEVEN                                                    
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIAPWSEP4+shtml/131435.shtml>
+
+---
+
+## Summary - Tropical Storm Ileana (EP4/EP092024)
+
+date: 2024-09-13, from: Eastern Pacific Basin GIS Data
+
+...CENTER OF ILEANA APPROACHING BAJA CALIFORNIA SUR... ...TROPICAL STORM CONDITIONS EXPECTED TO REACH THE COAST DURING THE NEXT SEVERAL HOURS...
+ As of 8:00 AM MST Fri Sep 13
+ the center of Ileana was located near 22.3, -109.3
+ with movement NNW at 9 mph.
+ The minimum central pressure was 999 mb
+ with maximum sustained winds of about 45 mph. 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCPEP4+shtml/131434.shtml>
+
+---
+
+## Tropical Storm Ileana Forecast Advisory Number 5
+
+date: 2024-09-13, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+674 
+WTPZ24 KNHC 131434
+TCMEP4
+ 
+TROPICAL STORM ILEANA FORECAST/ADVISORY NUMBER   5
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP092024
+1500 UTC FRI SEP 13 2024
+ 
+TROPICAL STORM CENTER LOCATED NEAR 22.3N 109.3W AT 13/1500Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTH-NORTHWEST OR 335 DEGREES AT   8 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  999 MB
+MAX SUSTAINED WINDS  40 KT WITH GUSTS TO  50 KT.
+34 KT....... 50NE  50SE   0SW   0NW.
+12 FT SEAS.. 75NE  60SE   0SW   0NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 22.3N 109.3W AT 13/1500Z
+AT 13/1200Z CENTER WAS LOCATED NEAR 21.9N 109.1W
+ 
+FORECAST VALID 14/0000Z 23.5N 109.7W...INLAND
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 50NE  50SE   0SW  20NW.
+ 
+FORECAST VALID 14/1200Z 24.8N 109.9W...OVER WATER
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 40NE  40SE   0SW   0NW.
+ 
+FORECAST VALID 15/0000Z 25.8N 110.2W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 30NE  30SE   0SW   0NW.
+ 
+FORECAST VALID 15/1200Z 26.7N 110.7W...POST-TROP/REMNT LOW
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 16/0000Z 27.6N 111.1W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 16/1200Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 22.3N 109.3W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT34 KNHC/MIATCPEP4...AT 13/1800Z
+ 
+NEXT ADVISORY AT 13/2100Z
+ 
+$$
+FORECASTER BEVEN
+ 
+ 
+
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCMEP4+shtml/131434.shtml>
+
+---
+
+## ATCF XML Prototype [xml] - Tropical Storm Ileana (EP4/EP092024)
+
+date: 2024-09-13, from: Eastern Pacific Basin GIS Data
+
+Issued at  Fri, 13 Sep 2024 14:34:54 GMT. This is only a prototype and the file format may change without notice. 
+
+<https://www.nhc.noaa.gov/storm_graphics/EP09/atcf-ep092024.xml>
+
+---
+
+## SPC - No watches are valid as of Fri Sep 13 13:45:02 UTC 2024
+
+date: 2024-09-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri Sep 13 13:45:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Fri Sep 13 13:45:02 UTC 2024
+
+date: 2024-09-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri Sep 13 13:45:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Sep 13, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-09-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0743 AM CDT Fri Sep 13 2024
+
+Valid 131300Z - 141200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM MIDDLE
+TENNESSEE TO THE FLORIDA PANHANDLE...
+
+...SUMMARY...
+A marginal tornado threat is expected to develop this morning and
+afternoon across parts of Alabama, western Georgia and middle
+Tennessee.  Isolated damaging to severe gusts will be possible in
+parts of Alabama, southwest Georgia and the Florida Panhandle.
+
+...Synopsis...
+In mid/upper levels, the CONUS portion of the large-scale pattern
+this period will be characterized by a "dirty" Rex block in the
+East, and troughing in the West.  The block will be composed of an
+anticyclone drifting eastward over the Upper Great Lakes, and a
+small, deep-layer cyclone -- resulting from the merger of a weak,
+midlatitude, mid/upper-tropospheric low with the low/middle-level
+remnants of post-tropical cyclone Francine -- centered currently
+near BVX.  This low should weaken gradually and meander slowly over
+the Mid-South, possibly drifting east-southeastward back across the
+MEM area through the period, but with negligible movement on the
+synoptic scale.
+
+In the northern stream, a mid/upper-level cyclone -- evident in
+moisture-channel imagery over southern SK -- will eject
+northeastward to northern MB and devolve to an open-wave trough by
+12Z tomorrow.  In its wake, broadly cyclonic flow aloft, with mostly
+minor embedded shortwaves/vorticity maxima -- will cover the
+northwestern 1/4 of the CONUS.  To its east, midlevel DCVA/ascent
+from a weak trough trailing the cyclone, combined with low-level
+warm advection and gradual moistening, will support general thunder
+potential over portions of the northern Plains to upper Mississippi
+Valley.
+
+At the surface, 11Z analysis showed a wavy, quasistationary to warm
+front extending from off the SC Coast across southern GA and 
+eastern/northern AL, intersecting a weak cold front there, then as
+an occluded front into the low over AR.  This boundary should drift
+diffusely northward through the period, while weakening.  A
+stationary to slow cold front was drawn from southern MB across
+central ND and western SD, and should drift eastward over the
+central Dakotas today through tonight.
+
+...Southeast...
+Isolated, mostly short-lived supercells will be possible today,
+mainly in a belt of low-level convergence from parts of central/
+eastern AL and western GA into the Tennessee Valley, with a marginal
+tornado threat.  Farther south, in weaker shear (but greater
+instability), a few of the stronger cells or small clusters may
+produce damaging gusts.
+
+A corridor of relatively maximized low-level shear/SRH remains near
+the old, diffuse warm-frontal zone well southeast of the center of
+Francine's remnants.  Both that and a moisture/buoyancy axis to its
+west (centered roughly over the axis of the outlooked corridor)
+should move little today, given the slow filling and lack of motion
+of the related deep-layer cyclone over the Mid-South.  Rich low-
+level moisture will persist in this corridor, with surface dewpoints
+commonly in the 70s F, and low LCLs.  Weaknesses of both surface
+winds and midlevel flow will sandwich a 35-40-kt east-southeasterly
+to southeasterly LLJ that keeps hodographs somewhat enlarged and
+effective SRH in the 150-300 J/kg range over eastern/northern AL
+into southern mid TN.  With some localized help from boundaries
+(outflow or differential-heating), a brief tornado is possible.  A
+few of the most vigorous, water-loaded downdrafts will be capable of
+localized strong to marginally severe gusts, especially over
+southern areas where peak MLCAPE may reach about 2000 J/kg. 
+Activity generally should weaken this evening and overnight as the
+airmass stabilizes and the remnants of Francine continue to decay.
+
+..Edwards/Mosier.. 09/13/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2024-09-13, from: Central Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ACPN50 PHFO 131139<br />
+ TWOCP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS Central Pacific Hurricane Center Honolulu HI<br />
+ 200 AM HST Fri Sep 13 2024<br />
+ <br />
+ For the central North Pacific...between 140W and 180W:<br />
+ <br />
+ No tropical cyclones are expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Almanza<br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2024-09-13, from: Eastern Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ABPZ20 KNHC 131112<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 500 AM PDT Fri Sep 13 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ Active Systems:<br />
+ The National Hurricane Center is issuing advisories on Tropical <br />
+ Storm Ileana, located southeast of the southern tip of the Baja <br />
+ California Peninsula.<br />
+ <br />
+ Tropical cyclone formation is not expected during the next 7 days.<br />
+ <br />
+ &&<br />
+ <br />
+ Public Advisories on Tropical Storm Ileana are issued under <br />
+ WMO header WTPZ34 KNHC and under AWIPS header MIATCPEP4.<br />
+ Forecast/Advisories on Tropical Storm Ileana are issued under <br />
+ WMO header WTPZ24 KNHC and under AWIPS header MIATCMEP4.<br />
+ <br />
+ $$<br />
+ Forecaster Beven<br />
+ <br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## 120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins
+
+date: 2024-09-13, from: Eastern Pacific Basin GIS Data
+
+Shapefile last updated Fri, 13 Sep 2024 09:23:23 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip>
 
 ---
 
@@ -146,210 +673,6 @@ No tropical cyclones as of Thu, 12 Sep 2024 13:03:07 GMT
 
 ---
 
-## SPC Sep 12, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-09-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0748 AM CDT Thu Sep 12 2024
-
-Valid 121300Z - 131200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS OVER PORTIONS OF
-THE NORTHERN GREAT PLAINS...AND FROM THE FLORIDA PANHANDLE TO
-NORTH-CENTRAL ALABAMA...
-
-...SUMMARY...
-A few tornadoes are possible today, mainly in the morning and
-afternoon from the Florida Panhandle to north-central Alabama.
-Scattered large hail and severe gusts (some significant) are
-expected across the eastern Montana vicinity during the afternoon to
-early evening.
-
-...Synopsis...
-Over the CONUS, in mid/upper levels, a highly amplified initial
-pattern will become more blocky through the period.  A strong
-northern-stream trough with an intermittently closed cyclone is
-apparent in moisture-channel imagery from the Canadian Rockies
-southward over ID to the central Great Basin.  The 500-mb low is
-forecast to move northeastward across western and northern MT to
-near the southwestern corner of SK by the end of the period.  By
-then, the attached trough will deamplify slightly and become more
-positively tilted, extending from the low to central UT.  A
-baroclinic leaf with strongly difluent flow aloft precedes the
-trough in satellite imagery over southeastern ID, western WY and
-central MT, with an eastward shift and some reinforcement expected
-today as small vorticity maxima pivot northeastward out of the
-trough.
-
-Meanwhile, an initially separate, weak 500-mb low now over the Red
-River near PRX, and the remnants of Tropical Storm Francine aloft,
-are progged to merge over the upper Delta/Mid-South region today
-into tonight.  The result after 06Z should be a slow-moving
-mid/upper-level low over AR, nearly stacked above the weakening
-low-level vortex just to the east around MEM.  [See NHC advisories
-for latest forecast track/intensity guidance on Francine.]  An
-anticyclone aloft should form later today and expand tonight
-northeast of that low, over the Upper Great Lakes region. 
-
-At the surface, 11Z analysis showed a warm front across northernmost
-FL to the coastal FL Panhandle, then slightly inland over the
-western Panhandle, southwestern AL and southeastern MS.  This
-boundary will move slowly northward/inland today, demarcating the
-north rim of mid-70s F surface dewpoints.  Meanwhile, a surface low
-was drawn over eastern MT west of GDV, with slow-moving cold front
-south-southwestward across northeastern/central WY.  The low and
-front will continue slow/intermittent eastward progress today, then
-move into the western Dakotas around 22-00Z, then eastward to the
-central Dakotas late overnight. 
-
-...Northern Great Plains...
-Strong-severe thunderstorms are possible this afternoon into
-evening, along and behind the front, with the most probable severe
-potential arising from activity moving north-northeastward from
-northern WY.  High-based supercells and multicells are possible,
-offering large hail and severe gusts.  Some of the activity may
-aggregate upscale into one or two bowing clusters, racing northward
-accompanied by a swath of better-organized, potentially significant
-(65+ kt) gust potential.  
-
-Thunderstorms may develop along the front in early-mid afternoon, as
-well as in and near the Bighorns, where diurnal heating of elevated
-terrain preferentially removes MLCINH earliest.  A corridor of
-favorable surface moisture will remain near and behind the front and
-ahead of this convection.  Meanwhile, midlevel temperatures will
-cool and steepen low/middle-level lapse rates, as large-scale ascent
-spreads over the area, both ahead of the ejecting mid/upper trough
-and in the left-exit region of a cyclonically curved 300-mb jet
-segment.  This will occur atop a deep and well-mixed boundary layer
-containing nearly dry-adiabatic lapse rates.  A northerly flow
-component west of the front will enhance storm-relative winds in the
-inflow layer, as well as low-level and deep-layer shear,
-strengthening lift and helping to maintain and further organize the
-convection.  MLCAPE of 500-1200 J/kg and 45-55 kt effective-shear
-magnitudes will support the severe potential.
-
-Convection forming later and farther east near the front over the
-western Dakotas, from late afternoon into evening, also may pose a
-strong to locally severe gust threat for a few hours, and the
-marginal outlook area has been expanded eastward somewhat to give
-more room for that process.  Flow aloft will bear a substantial
-component parallel to the convective axis, indicating a largely
-training or linear configuration is possible, along the western rim
-of a 50-60-kt LLJ fostering warm advection and moisture transport
-above the surface.  However, the near-surface airmass over the
-central Dakotas should stabilize with time and eastward extent
-tonight, limiting duration and eastward shift of the threat. 
-
-...Southeastern CONUS...
-Tropical Storm Francine is forecast to continue moving northward
-over MS, and to lose definition as it interacts more closely with
-the mid/upper-level low.  Accordingly, associated deep-layer winds
-will continue to weaken, but low-level shear will remain favorable 
-through most of the day well east-southeast to southeast of center. 
-A destabilizing airmass along and south of the warm/marine front
-will support a continued, slow inland shift of supercell potential
-amid enlarged hodographs.  The favorable environment will be bounded
-on the west by a dry slot and veering low-level flow, on the
-northeast by unsuitably stable air in heavy precip and north of the
-front, and on the south by a gradual weakening of low-level winds
-and shear as the cyclone center pulls away and fills.  In the
-favorable corridor, where inflow parcels are surface-based, expect
-effective SRH in the 200-500 J/kg range, very rich moisture, low
-LCL, and weak MLCINH.  The threat should diminish overnight as the
-airmass slowly stabilizes inland, and the system continues to weaken
-overall.
-
-..Edwards/Kerr.. 09/12/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-09-12, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Thu Sep 12 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Tropical <br>Depression Francine, located inland over south-central Mississippi, <br>and on Tropical Depression Seven, located over the eastern Atlantic <br>Ocean.<br><br>1. Central Tropical Atlantic (AL92): <br>A weak area of low pressure located several hundred miles east of <br>the Leeward Islands is producing limited shower and thunderstorm <br>activity. Development of this system is not expected while it moves <br>westward at around 10 mph over the central tropical Atlantic.<br>* Formation chance through 48 hours...low...near 0 percent. <br>* Formation chance through 7 days...low...near 0 percent.<br><br />
-2. East of the Leeward Islands (AL94):<br>Showers and thunderstorms have become a bit more concentrated in <br>association with a small area of low pressure located a few hundred <br>miles east of the Leeward Islands. However, the proximity of dry <br>air near the system is expected to limit additional development <br>over the next couple of days. Environmental conditions are expected <br>to become even less conducive over the weekend while the system <br>moves slowly west-northwestward.<br>* Formation chance through 48 hours...low...20 percent. <br>* Formation chance through 7 days...low...20 percent.<br><br />
-3. Offshore the Southeastern U.S.:<br>In a few days, a non-tropical area of low pressure could form along <br>a residual frontal boundary a few hundred miles off the southeastern <br>U.S. coastline. Thereafter, some subtropical or tropical development <br>is possible during the early part of next week while the system <br>drifts to the north or northwest.<br>* Formation chance through 48 hours...low...near 0 percent. <br>* Formation chance through 7 days...low...30 percent.<br><br />
-<br>Forecaster Hagen<br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## CPHC Central North Pacific Outlook
-
-date: 2024-09-12, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>200 AM HST Thu Sep 12 2024<br><br>For the central North Pacific...between 140W and 180W:<br><br>No tropical cyclones are expected during the next 7 days.<br><br>$$<br>Forecaster Powell<br>NNNN<br><br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2024-09-12, from: Eastern Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ABPZ20 KNHC 121120<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 AM PDT Thu Sep 12 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Offshore of Southwestern Mexico (EP93):<br/>
-Showers and thunderstorms associated with an area of low pressure <br/>
-located less than 200 miles southwest of Puerto Vallarta, Mexico <br/>
-continue to become better organized.  Environmental conditions <br/>
-appear conducive for additional development, and a tropical <br/>
-depression or tropical storm is expected to form later today or <br/>
-tonight.  Interests in the Mexican states of Baja California Sur, <br/>
-Sinaloa, and Sonora should closely monitor the progress of this <br/>
-system.  Tropical Storm Warnings and Watches will likely be required <br/>
-for some of those locations later this morning. Regardless of <br/>
-development heavy rainfall is likely across portions of those <br/>
-locations.<br/>
-* Formation chance through 48 hours...high...90 percent.<br/>
-* Formation chance through 7 days...high...90 percent.<br/>
-<br/>
-$$<br/>
-Forecaster Hagen<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
 ## SPC Tornado Watch 668 Status Reports
 
 date: 2024-09-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -400,16 +723,6 @@ CW
  
 
 <https://www.spc.noaa.gov/products/watch/ws0668.html>
-
----
-
-## SPC - No watches are valid as of Wed Sep 11 13:48:01 UTC 2024
-
-date: 2024-09-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Wed Sep 11 13:48:01 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/watch/>
 
 ---
 
