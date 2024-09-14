@@ -1,11 +1,104 @@
 ---
 title: columns
-updated: 2024-09-13 07:50:31
+updated: 2024-09-14 10:49:08
 ---
 
 # columns
 
-(date: 2024-09-13 07:50:31)
+(date: 2024-09-14 10:49:08)
+
+---
+
+## (Un)Truth or Consequences
+
+date: 2024-09-13, from: Dan Rather's Steady
+
+Dems reaping rewards of Trump&#8217;s performance 
+
+<https://steady.substack.com/p/untruth-or-consequences>
+
+---
+
+## Friday Squid Blogging: Squid as a Legislative Negotiating Tactic
+
+date: 2024-09-13, updated: 2024-09-13, from: Bruce Schneier blog
+
+<p>This is an <a href="https://www.rappler.com/newsbreak/inside-track/house-representatives-staff-serve-squid-budget-deliberations-sara-duterte-office-vice-president/">odd story</a> of serving squid during legislative negotiations in the Philippines.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/09/friday-squid-blogging-squid-as-a-legislative-negotiating-tactic.html>
+
+---
+
+##  Disco in the 80s but everyone is Lionel Messi. (This is incredible.)... 
+
+date: 2024-09-13, updated: 2024-09-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045277-disco-in-the-80s-but>
+
+---
+
+## The Violence Against Women Act, and the powerful men who violate women 
+
+date: 2024-09-13, from: Robert Reich's blog
+
+Some personal recollections 
+
+<https://robertreich.substack.com/p/the-violence-against-women-act-and>
+
+---
+
+##  The World&#8217;s Loudest Sound 
+
+date: 2024-09-13, updated: 2024-09-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/the-worlds-loudest-sound-1>
+
+---
+
+## My TedXBillings Talk
+
+date: 2024-09-13, updated: 2024-09-14, from: Bruce Schneier blog
+
+<p>Over the summer, I gave a talk about AI and democracy at TedXBillings. The recording is <a href="https://www.youtube.com/watch?v=uqC4nb7fLpY">live</a>.</p>
+<p>Please share. I&#8217;m hoping for more than 200 views&#8230;.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/09/my-tedxbillings-talk.html>
+
+---
+
+##  How to Monetize a Blog. I am taking very careful notes, so... 
+
+date: 2024-09-13, updated: 2024-09-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045274-how-to-monetize-a-blog>
+
+---
+
+## September 12, 2024
+
+date: 2024-09-13, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-12-2024-937>
+
+---
+
+##  Man Replies &#8216;STOP&#8217; To Political Fundraiser Text Like Powerful Wizard Casting Spell... 
+
+date: 2024-09-13, updated: 2024-09-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045275-man-replies-stop-to-polit>
 
 ---
 
@@ -362,7 +455,7 @@ date: 2024-09-12, from: Dave Rupert blog
   &mdash; Alex Hormozi (@AlexHormozi) <a href="https://twitter.com/AlexHormozi/status/1543229182796132352?ref_src=twsrc%5Etfw">July 2, 2022</a>
 </blockquote>
 <p>Of all the injustices happening in the world… you know who needs to be taken down a peg? The Book-a-Week People. Fuck those guys. With their books in their Zoom backgrounds. That bothers me. Fuck them.</p>
-<p>I know the original post is part of some weird hustle culture subgenre, but it’s probably no surprise to folks who reading that I like books and fit this targeted demographic. After pondering whether I’m “finding answers to questions or questions to answer” my answer is a resounding, “…I guess?”</p>
+<p>I know the original post is part of some weird hustle culture subgenre, but it’s probably no surprise to folks reading that <a href="https://daverupert.com/bookshelf/">I like books</a> and fit this targeted demographic. After pondering whether I’m “finding answers to questions or questions to answer” my answer is a resounding, “…I guess?”</p>
 <p>A lot of why I read is about juxtaposition. I read business books to juxtapose my experience against the Platonic ideal of “good business”. I read about social justice to juxtapose my lived experience against others lived experience. I read science fiction to juxtapose the present against futures I haven’t imagined. I read non-fiction airport books because I like facts and social science garbage. I read books on topics I’m already an expert in to see if there’s information that further informs my perspective. I read to <a href="https://daverupert.com/2018/06/telepresence/">teleport</a> to different places, minds, times, and rooms where it happened.</p>
 <p>I read to escape. I read to find myself. I read because I like facts. I read because I like fiction. I read for entertainment. I read to fall asleep. I listen to books to help me finish mundane tasks like doing the dishes every night. And I listen to books because there’s a slight communistic thrill of getting them from the library.</p>
 <p>There’s a widely accepted idea out there that “the best way to become a better writer is to become a better reader.” I think Stephen King said it, but I can’t find the quote. Either way, I want to become a better writer. Whether fact or fiction, I want the ability to not struggle when putting thoughts on the page. Oh to partake in this magical osmosis! The transitive impartation of skills! Let me flex the language encoding and decoding synapses in my 40-watt brain.</p>
@@ -1424,4 +1517,123 @@ date: 2024-09-08, from: Tracy Durnell Blog
 Supplements are a Rising Cause of Liver Failure by Dr. Jen Gunther &#8230;the risk of supplement-related liver injury and liver injury severe enough that liver transplantation is needed has increased dramatically over the past 20 years. Some estimates suggest supplements may cause up to 43% of drug-induced liver injury in the United States and 19% [&#8230;] 
 
 <https://tracydurnell.com/2024/09/07/whats-in-your-pills/>
+
+---
+
+## September 6, 2024
+
+date: 2024-09-07, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-6-2024-9fc>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-07, from: Dave Winer's Scripting News)
+
+Do you think you've ever had an online chat with an AI impersonating a human without you knowing? Have you had such an experience with someone you know? If no, when do you think you will have such a conversation? Would you mind if a friend used an AI to front for them, so they could do other things while they were "chatting" with you? Would you be liable for anything your avatar did or said? 
+
+<http://scripting.com/2024/09/07.html#a152059>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-07, from: Dave Winer's Scripting News)
+
+Also, <a href="https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall">when the Berlin Wall came down</a> there were no blogs or podcasts. We got what we were given by the news networks and NYT and WSJ. 
+
+<http://scripting.com/2024/09/07.html#a144247>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-07, from: Dave Winer's Scripting News)
+
+It's a fascinating moment, somewhat like when the Berlin Wall came down. When it happened, we were all in kind of a daze. That wall had been there my entire life. No one knew, for many years, what its disappearance would mean. Same with the wall betw the Democratic and Republican parties. It was still the same US when one or the other was in power, there were constants that didn't change. There was an agreement that politics ends at the border. But now, are there two parties? What became of the one we call Republican? 
+
+<http://scripting.com/2024/09/07.html#a144133>
+
+---
+
+## Jony Made a Button
+
+date: 2024-09-07, from: Om Malik blog
+
+TLDR: Jony Ive&#8217;s design agency LoveFrom has reimagined the humble button for Moncler, once again proving that for Sir Jony, everything is up for reinterpretation. It&#8217;s a reminder that innovation often lies in refining the familiar, not just inventing the new. Source: Jony Ive’s LoveFrom Reinvents a Button With Moncler Key Points: Moncler is a &#8230; 
+
+<https://om.co/2024/09/07/jony-made-a-button/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/09/07/ipod.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The next in the series of <a href="https://shownotes.scripting.com/podcast0/2024/09/07/furtherDrivingInCanadaHeadingWest.html">podcasts from 2004</a>. This one was done driving from Banff to Kelowna, on the way to Seattle. 
+
+<http://scripting.com/2024/09/07.html#a141701>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-07, from: Dave Winer's Scripting News)
+
+I found a bug in <a href="https://github.com/scripting/opmlPackage/blob/main/worknotes.md#9724-95957-am-by-dw">opml.visitAll</a> in the OPML package I use in various software including Drummer and FeedLand. Had to fix it, even though there's a slight chance of breakage. 
+
+<http://scripting.com/2024/09/07.html#a140727>
+
+---
+
+## Kunai Corne V3
+
+date: 2024-09-07, from: mrusme blog
+
+This is a follow-up build log on the [Corne V3](/corne-v3/) post, in which I
+finalize the Kunai case. 
+
+<https://xn--gckvb8fzb.com/kunai-corne-v3/>
+
+---
+
+**@John's World Wide Wall Display** (date: 2024-09-07, from: John's World Wide Wall Display)
+
+things to consider 
+
+<https://johnjohnston.info/blog/bookmark-how-can-i-help-autistic-pupils-develop-more-independence-in-learning-tasks/>
+
+---
+
+## The Upcoming Great Debate: The Coffee Klatch | September 7, 2024
+
+date: 2024-09-07, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly 
+
+<https://robertreich.substack.com/p/the-upcoming-great-debate-the-coffee>
+
+---
+
+## Weeknotes: Aug. 31-Sept. 6, 2024
+
+date: 2024-09-07, from: Tracy Durnell Blog
+
+Win of the week: just waiting on the DocuSign for a new project! Going to be helping a city communicate new construction &#38; demolition waste reporting requirements to developers  Looking forward to: fall food! (I made oatmeal this morning even though it got up to 88F 😄) Stuff I did: 5.75 hours writing &#8212; alas, I [&#8230;] 
+
+<https://tracydurnell.com/2024/09/06/weeknotes-aug-31-sept-6-2024/>
+
+---
+
+## September 6, 2024 
+
+date: 2024-09-07, from: Heather Cox Richardson blog
+
+One of the things that came to light on Wednesday, in the paperwork the Justice Department unveiled to explain its seizure of 32 internet domains being used by Russian agents in foreign malign influence campaigns, was that the six right-wing U.S. 
+
+<https://heathercoxrichardson.substack.com/p/september-6-2024>
+
+---
+
+## Election Countdown, 59 Days to Go: Nippon Steel vs. the Electoral College.
+
+date: 2024-09-07, from: James Fallows, Substack
+
+Why is Joe Biden preparing to block the sale of US Steel? For 19 reasons: Pennsylvania's 19 electoral votes. That logic may be irrefutable in an election year. But it has real costs. 
+
+<https://fallows.substack.com/p/election-countdown-59-days-to-go>
 

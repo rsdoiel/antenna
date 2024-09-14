@@ -1,20 +1,20 @@
 ---
 title: libraries
-updated: 2024-09-13 07:50:34
+updated: 2024-09-14 10:49:12
 ---
 
 # libraries
 
-(date: 2024-09-13 07:50:34)
+(date: 2024-09-14 10:49:12)
 
 ---
 
-## ARL Celebrates Hispanic Heritage Month 2024
+## Celebrating Hispanic Heritage Month 2024
 
 date: 2024-09-13, from: Association of Research Libraries News
 
-<p>Last Updated on September 13, 2024, 9:41 am ET The Association of Research Libraries is excited to celebrate Hispanic Heritage Month (September 15 – October 15). Below, is a round-up...</p>
-<p>The post <a href="https://www.arl.org/blog/celebrating-hispanic-heritage-month-2024/">ARL Celebrates Hispanic Heritage Month 2024</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+<p>Last Updated on September 13, 2024, 3:04 pm ET The Association of Research Libraries is excited to celebrate Hispanic Heritage Month (September 15–October 15). Below is a roundup of the...</p>
+<p>The post <a href="https://www.arl.org/blog/celebrating-hispanic-heritage-month-2024/">Celebrating Hispanic Heritage Month 2024</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
 <https://www.arl.org/blog/celebrating-hispanic-heritage-month-2024/>

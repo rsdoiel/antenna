@@ -1,11 +1,53 @@
 ---
 title: ham radio
-updated: 2024-09-13 07:50:29
+updated: 2024-09-14 10:49:07
 ---
 
 # ham radio
 
-(date: 2024-09-13 07:50:29)
+(date: 2024-09-14 10:49:07)
+
+---
+
+## National Preparedness Month: Ensuring Family Safety
+
+date: 2024-09-13, from: Amateur Radio Relay League News
+
+<p>September is National Preparedness Month. In coordination with our partners at the Federal Emergency Management Agency (FEMA), the ARRL Amateur Radio Emergency Service® (ARES®) is producing a series of weekly articles to help radio amateurs and their families stay safe.</p><p>See previous stories:</p><p>https://www.arrl.org/news/resilience-through-amateur-radio-for-national-preparedness-month </p><p>https://www.arr...</p> 
+
+<http://www.arrl.org/news/view/national-preparedness-month-ensuring-family-safety>
+
+---
+
+## Ham Radio Volunteers Serve During Hurricane Francine
+
+date: 2024-09-13, from: Amateur Radio Relay League News
+
+<p>Ham radio operators volunteering with the ARRL® Amateur Radio Emergency Service® (ARES®) have successfully completed operations for Hurricane Francine, now a tropical storm. “We had a huge positive showing of ARES team members checking in and doing the ‘thing.’ I sincerely appreciate everyone leaning into this activation,” said Robert Hayes, KC5IMN, Section Emergency Coordinator of the ARRL Mis...</p> 
+
+<http://www.arrl.org/news/view/ham-radio-volunteers-serve-during-hurricane-francine>
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-09-13, from: Amateur Radio Relay League News
+
+<p>With sunspot numbers up and solar flux decreasing, we saw ten new<br />sunspot groups this week; two on September 6, three on September 7,<br />two on September 8, one on September 9, and two on September 11.<br /><br />Average daily sunspot numbers increased from 155.3 to 178.4, while<br />average daily solar flux declined from 230.3 to 223.7.<br /><br />Geomagnetic indicators were quiet, with average daily planetary A<br />index dropping f...</p> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-845>
+
+---
+
+## AI algorithms on MCU demo progress in automated driving
+
+date: 2024-09-13, from: EDN Blog
+
+<img width="2126" height="1429" src="https://www.edn.com/wp-content/uploads/Hero-image-EEMotion.jpg?fit=2126%2C1429" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-EEMotion.jpg?w=2126 2126w, https://www.edn.com/wp-content/uploads/Hero-image-EEMotion.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-EEMotion.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-EEMotion.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-EEMotion.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-EEMotion.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Hero-image-EEMotion.jpg?w=1900 1900w" sizes="(max-width: 2126px) 100vw, 2126px" /><p>AI algorithm-based control system for automated driving facilitates more precise trajectory control in various driving situations.</p>
+<p>The post <a href="https://www.edn.com/ai-algorithms-on-mcu-demo-progress-in-automated-driving/" data-wpel-link="internal">AI algorithms on MCU demo progress in automated driving</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/ai-algorithms-on-mcu-demo-progress-in-automated-driving/>
 
 ---
 
@@ -13,7 +55,7 @@ updated: 2024-09-13 07:50:29
 
 date: 2024-09-12, from: EDN Blog
 
-<img width="700" height="473" src="https://www.edn.com/wp-content/uploads/Faraday-packaging.jpg?fit=700%2C473" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Faraday-packaging.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Faraday-packaging.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Faraday has unveiled an advanced packaging service that simplifies chiplet integration by coordinating various vendors and chiplet sources.</p>
+<img width="700" height="473" src="https://www.edn.com/wp-content/uploads/Faraday-packaging.jpg?fit=700%2C473" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Faraday-packaging.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Faraday-packaging.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Faraday has unveiled an advanced packaging service that simplifies chiplet integration by coordinating various vendors and chiplet sources.</p>
 <p>The post <a href="https://www.edn.com/faraday-streamlines-chiplet-integration/" data-wpel-link="internal">Faraday streamlines chiplet integration</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

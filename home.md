@@ -1,11 +1,125 @@
 ---
 title: home
-updated: 2024-09-13 07:50:35
+updated: 2024-09-14 10:49:12
 ---
 
 # home
 
-(date: 2024-09-13 07:50:35)
+(date: 2024-09-14 10:49:12)
+
+---
+
+## Friday Links: September 13, 2024
+
+date: 2024-09-13, from: California Native Plants Society
+
+<p>Stories about how we care for endangered species and precious resources, the always cute banana slug, and the soothing tale of an ancient coast live oak.</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-september-13-2024-40282">Friday Links: September 13, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-september-13-2024-40282>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-09-13, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
+
+---
+
+## This $3.5M Pasadena Midcentury Is Ripe for a Revamp
+
+date: 2024-09-13, from: Dwell
+
+Designed by Henry Eggers, the 1969 time capsule offers over 5,500 square feet of living space flush with original finishes—and a wraparound deck with epic views. 
+
+<https://www.dwell.com/article/midcentury-chandler-residence-henry-eggers-pasadena-los-angeles-real-estate-6ed30d4a>
+
+---
+
+## Want a Water-Wise Home? How One San Francisco Family Made a Lasting Change
+
+date: 2024-09-13, from: Sunset Magazine - Living in the West
+
+Inspired by conscientious homeowners and innovative design ideas, find out some solutions for smarter, more sustainable water use. 
+
+<https://www.sunset.com/home-garden/home-tours/eco-home-water-wise>
+
+---
+
+## Learn to Love Your Laundry Room with These 5 Easy Upgrades
+
+date: 2024-09-13, from: Sunset Magazine - Living in the West
+
+Take the drudgery out of laundry day with tips from a design and organization duo, sisters Lauren Kellim and Erin Conklin. 
+
+<https://www.sunset.com/home-garden/learn-to-love-your-laundry-room-with-5-easy-upgrades>
+
+---
+
+## One Night in a Natural Cave Hotel in the Ancient Sassi of Matera, Italy
+
+date: 2024-09-13, from: Dwell
+
+Once known for their squalid living conditions, the prehistoric limestone warrens have been repurposed as lodgings, bars, and artist workshops. Would staying there feel extraordinary or tasteless? 
+
+<https://www.dwell.com/article/one-night-in-cave-hotel-sassi-matera-italy-cfc30e3a>
+
+---
+
+## 9 Kitchen Countertop Décor Ideas: How to Decorate a Countertop
+
+date: 2024-09-13, from: Family Handyman Blog
+
+Find out how to make your kitchen look welcoming, but never cluttered, with these functional countertop decor ideas. 
+
+<https://www.familyhandyman.com/list/kitchen-countertop-decor/>
+
+---
+
+## This Laundry Room Design Trick Will Make Washing Your Clothes a Whole Lot Easier
+
+date: 2024-09-13, from: Sunset Magazine - Living in the West
+
+The laundry room was cramped and had a bad layout, so a designer added more space and changed its floor plan to make it more functional. 
+
+<https://www.sunset.com/home-garden/home-tours/functional-laundry-room-makeover>
+
+---
+
+## Construction Diary: In Los Angeles, a Couple Create a Multigenerational Haven
+
+date: 2024-09-13, from: Dwell
+
+Working with design studio Loaf, the owners of this Silver Lake midcentury embark on a sensitive renovation that honors history. 
+
+<https://www.dwell.com/article/construction-diary-in-los-angeles-a-couple-create-a-multigenerational-haven-3ee81ba1>
+
+---
+
+## USDA Trade Mission to Vietnam concludes with visit to Hanoi
+
+date: 2024-09-13, from: Calfifornia Dept. Aggriculture blog
+
+CDFA Secretary Karen Ross has concluded a trip to Vietnam along with USDA Under Secretary Alexis Taylor and a business delegation. The group had a series of visits and meetings with government officials and importers of U.S. agricultural products. A &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28189">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28189>
+
+---
+
+## How to Winterize Bay Laurel
+
+date: 2024-09-13, from: The Gardener's Path
+
+<p>In the right location, bay laurel trees have moderate cold hardiness and can survive a hard frost. You can improve their cold resistance by some preparations in fall. Adding a thick mulch, frost blankets, and by moving containers into a sheltered spot can ensure your bay trees survive the winter. Learn more in this guide. </p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/winterize-bay-laurel/">How to Winterize Bay Laurel</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/herbs/winterize-bay-laurel/>
 
 ---
 
@@ -18,6 +132,46 @@ date: 2024-09-13, from: Homestead and Chil
  
 
 <https://homesteadandchill.com/how-to-preserve-garlic-freeze-dry-pickle-ferment/>
+
+---
+
+## The Best Thing You Could Do for Your Health Is Quit the Gym—Here’s What to Do Instead
+
+date: 2024-09-13, from: Sunset Magazine - Living in the West
+
+Replacing the gym with intuitive movement can provide for a more sustainable fitness routine that's actually better for your health. 
+
+<https://www.sunset.com/lifestyle/why-you-should-quit-the-gym>
+
+---
+
+## The 6 Must-Haves for a More Organized Laundry Room, According to an Expert
+
+date: 2024-09-13, from: Sunset Magazine - Living in the West
+
+The laundry room can be a dumping zone. A professional organizer shares the must-haves to keep the space decluttered and streamlined. 
+
+<https://www.sunset.com/home-garden/design/laundry-room-organizing-tips>
+
+---
+
+## 5 Wine Hacks Pros Have Been Keeping a Secret Until Now
+
+date: 2024-09-13, from: Sunset Magazine - Living in the West
+
+We asked the wine industry’s finest talent to share their secret wine hacks and tips so you can fully enjoy that bottle of wine. 
+
+<https://www.sunset.com/food-wine/wine-pairings/wine-hacks-tips>
+
+---
+
+## Your End of Summer Garden Bootcamp: 7 Things to Do Right Now
+
+date: 2024-09-13, from: Sunset Magazine - Living in the West
+
+The end of summer means it's time to clean up the garden and get it into working shape. Here's what to do to prepare it for seasons ahead. 
+
+<https://www.sunset.com/home-garden/garden-basics/end-of-summer-garden-tasks>
 
 ---
 
@@ -94,16 +248,6 @@ date: 2024-09-12, from: Family Handyman Blog
 
 ---
 
-## The Best Thing You Could Do for Your Health Is Quit the Gym—Here’s What to Do Instead
-
-date: 2024-09-12, from: Sunset Magazine - Living in the West
-
-Replacing the gym with intuitive movement can provide for a more sustainable fitness routine that's actually better for your health. 
-
-<https://www.sunset.com/lifestyle/why-you-should-quit-the-gym>
-
----
-
 ## Honestly, Fall Decor Has Never Looked Better
 
 date: 2024-09-12, from: Sunset Magazine - Living in the West
@@ -156,16 +300,6 @@ The soundproofed garden shed and a bright home office give the musician and ligh
 
 ---
 
-## Your End of Summer Garden Bootcamp: 7 Things to Do Right Now
-
-date: 2024-09-12, from: Sunset Magazine - Living in the West
-
-The end of summer means it's time to clean up the garden and get it into working shape. Here's what to do to prepare it for seasons ahead. 
-
-<https://www.sunset.com/home-garden/garden-basics/end-of-summer-garden-tasks>
-
----
-
 ## From Baja to Hawaii, These Are Our Favorite Coastal Retreats
 
 date: 2024-09-12, from: Sunset Magazine - Living in the West
@@ -193,16 +327,6 @@ date: 2024-09-12, from: Sunset Magazine - Living in the West
 You can't prevent earthquakes, but you can head off any damage. An interior designer shares her earthquake-proof decorating tips. 
 
 <https://www.sunset.com/home-garden/design/earthquake-proof-design-decor>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-09-12, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -298,16 +422,6 @@ The naturally ventilated Kumagaya House has a central breezeway, soaring volumes
 
 ---
 
-## The 6 Must-Haves for a More Organized Laundry Room, According to an Expert
-
-date: 2024-09-11, from: Sunset Magazine - Living in the West
-
-The laundry room can be a dumping zone. A professional organizer shares the must-haves to keep the space decluttered and streamlined. 
-
-<https://www.sunset.com/home-garden/design/laundry-room-organizing-tips>
-
----
-
 ## This Dramatic Home Makeover Is Proof You Don’t Need to Do a Full Demo
 
 date: 2024-09-11, from: Sunset Magazine - Living in the West
@@ -325,16 +439,6 @@ date: 2024-09-11, from: Dwell
 Located just outside Chicago, the 1894 Winslow House offers 5,000 square feet packed with well-preserved built-ins and decorative glasswork. 
 
 <https://www.dwell.com/article/frank-lloyd-wright-winslow-house-river-forest-illinois-real-estate-de4d447c>
-
----
-
-## 5 Wine Hacks Pros Have Been Keeping a Secret Until Now
-
-date: 2024-09-11, from: Sunset Magazine - Living in the West
-
-We asked the wine industry’s finest talent to share their secret wine hacks and tips so you can fully enjoy that bottle of wine. 
-
-<https://www.sunset.com/food-wine/wine-pairings/wine-hacks-tips>
 
 ---
 
@@ -1081,4 +1185,27 @@ date: 2024-09-08, from: The Gardener's Path
  
 
 <https://gardenerspath.com/plants/flowers/chrysanthemums-indoors/>
+
+---
+
+## Boise Is Big. Here’s Where to Eat, Drink, and Stay According to a Local Brewer.
+
+date: 2024-09-07, from: Sunset Magazine - Living in the West
+
+A local brewer shares the high-low hits that the charming, rapidly growing city of Boise has to offer. Save this for your next trip. 
+
+<https://www.sunset.com/travel/insider-guides/boise-things-to-do>
+
+---
+
+## 23 Types of Herons (Pictures and Identification)
+
+date: 2024-09-07, from: Yard Life blog
+
+<p>Herons are a diverse group of wading birds known for their distinctive long legs and necks, making them prominent figures ... </p>
+<p class="read-more-container"><a title="23 Types of Herons (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/23-types-of-herons-pictures-and-identification/#more-18994" aria-label="Read more about 23 Types of Herons (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/23-types-of-herons-pictures-and-identification/">23 Types of Herons (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/23-types-of-herons-pictures-and-identification/>
 

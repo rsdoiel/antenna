@@ -1,11 +1,61 @@
 ---
 title: games
-updated: 2024-09-13 07:50:33
+updated: 2024-09-14 10:49:11
 ---
 
 # games
 
-(date: 2024-09-13 07:50:33)
+(date: 2024-09-14 10:49:11)
+
+---
+
+## Civil War, The Crow, Netflix’s Uglies, and every movie new to streaming this week
+
+date: 2024-09-13, updated: 2024-09-13, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Civil War, the new dystopian thriller from Ex Machina director Alex Garland and starring Kirsten Dunst and Cailee Spaeny (Priscilla, Alien: Romulus), is finally [&#8230;] 
+
+<https://www.polygon.com/entertainment/449256/new-movies-civil-war-the-crow-uglies-netflix-watch-streaming>
+
+---
+
+## Rings of Power is changing palantír powers for no good reason
+
+date: 2024-09-13, updated: 2024-09-12, from: Polygon Website
+
+Lore changes to Tolkien’s world are nothing new for The Lord of the Rings: The Rings of Power. But its changes to the palantíri, the spherical seeing devices that have appeared most notably in Númenor so far in the show, are starting to get a little confusing.  While fans of the Peter Jackson movies will [&#8230;] 
+
+<https://www.polygon.com/lotr-rings-of-power/450958/trop-palantir-powers-how-work>
+
+---
+
+## Here’s where to pre-order Metaphor: ReFantazio, and what comes with it
+
+date: 2024-09-13, updated: 2024-09-13, from: Polygon Website
+
+Metaphor: ReFantazio, the next RPG from the creators of Persona 3, 4, and 5, is coming out Oct. 11 on PC, Xbox, and PlayStation platforms. Building off the success of the Persona titles — each full of moody tunes, min-maxing relationships for personal gain, and a turn-based system erupting with visual pizzazz — a team [&#8230;] 
+
+<https://www.polygon.com/pre-order/451386/metaphor-refantazio-buy-standard-digital-deluxe-collectors-edition>
+
+---
+
+## Frostpunk 2’s co-director on curbing players’ power fantasy ‘while still not making them hate it’
+
+date: 2024-09-13, updated: 2024-09-13, from: Polygon Website
+
+It’s been 30 years since the apocalyptic Great Storm hit, and while humanity isn’t necessarily thriving, it is, at least, surviving. That’s the setting for Frostpunk 2, one of the most anticipated games of the year — and it will be released in a week. The 2018 city-builder survival game Frostpunk tasked players with leading [&#8230;] 
+
+<https://www.polygon.com/gaming/451037/frostpunk-2-interview-jakub-stokalski-11-bit-games>
+
+---
+
+## Where to buy the Altered Starter Decks and Boosters
+
+date: 2024-09-13, updated: 2024-09-13, from: Polygon Website
+
+Altered, the new trading card game initially funded through an uncharacteristically successful Kickstarter campaign, is now available to the general public. Altered is introducing some fairly radical ideas into the TCG space with its truly one-of-a-kind cards and a print-on-demand system that works in tandem with its free app. However, its rapid-fire gameplay will feel [&#8230;] 
+
+<https://www.polygon.com/pre-order/451166/altered-tcg-where-to-buy>
 
 ---
 
@@ -536,4 +586,54 @@ date: 2024-09-08, updated: 2024-09-08, from: Polygon Website
 Inside the cavernous Kings Theatre in Brooklyn, New York, the crowd started shouting in anticipation of the concert that was set to begin, but one lone voice cut through the roar: “Yaaaaaagoooooooooo!”&#160; The event was Hololive’s Breaking Dimensions concert on Aug. 24, a show where digital performers known as Vtubers sing and dance live onstage [&#8230;] 
 
 <https://www.polygon.com/q-and-a/448035/vtubers-cover-yagoo-interview>
+
+---
+
+## Rebel Ridge needed ‘sloppy, awkward’ action, says director Jeremy Saulnier
+
+date: 2024-09-07, updated: 2024-09-06, from: Polygon Website
+
+Jeremy Saulnier’s supremely tense new Netflix movie Rebel Ridge sits firmly in the action category. But where stylized hit actioners like the John Wick series or the HiGH&#38;LOW movies get their mileage from over-the-top action stunts, the throwdowns in Rebel Ridge are simple and streamlined enough to feel entirely believable. Previous standout Saulnier movies like [&#8230;] 
+
+<https://www.polygon.com/movies/449003/rebel-ridge-behind-the-scenes-sloppy-action>
+
+---
+
+## Grid&#8217;s tastefully destroyed Game Boys make for great art, and they&#8217;re 40% off now
+
+date: 2024-09-07, updated: 2024-09-06, from: Polygon Website
+
+Grid, the makers of awesome, shadowbox-style pieces made from bygone gadgets and gaming accessories, is currently celebrating its fourth anniversary. To mark the occasion, Grid is offering its framed Classic Game Boy for its lowest price ever. Typically, this masterpiece costs $299, but you can currently hang one on your wall for just $179 while [&#8230;] 
+
+<https://www.polygon.com/good-deals/449005/grid-gameboy-anniversary-gaming-deal-sale>
+
+---
+
+## Closer the Distance replicates grief so well that I couldn’t finish playing it
+
+date: 2024-09-07, updated: 2024-09-06, from: Polygon Website
+
+In Closer the Distance, my first inclination is to console Conny. She just lost her sister, Angie, to a tragic accident — a few hours after a nasty fight with her mother, Pia. At the same time that Pia was decrying her daughter’s terrible life decisions, Angie was taking her last breaths. All I can [&#8230;] 
+
+<https://www.polygon.com/review/449133/closer-distance-grief-life-sim>
+
+---
+
+## The best movies new to streaming this September
+
+date: 2024-09-07, updated: 2024-09-06, from: Polygon Website
+
+August is finally over, and you know what that means: Summer is almost over! Before we can start putting away our swimsuits and busting out our finest fall-themed sweaters, however, we’ll have to make it through September first. There’s a ton of exciting new releases coming to theaters this month, including Beetlejuice Beetlejuice and Megalopolis, [&#8230;] 
+
+<https://www.polygon.com/what-to-watch/447029/best-new-movies-netflix-amazon-prime-max-hulu-september-2024>
+
+---
+
+## Monster Hunter Wilds made me a believer in its ecosystem
+
+date: 2024-09-07, updated: 2024-09-07, from: Polygon Website
+
+As Capcom’s Monster Hunter series has grown in scope and popularity over the past 20 years, so too have the game’s worlds. They’ve gone from discrete zones to massive open-world environments populated with smarter, more believable creatures. Monster Hunter Wilds continues that evolution, with an emphasis on its ecosystem, an ever-changing climate, and wildlife that [&#8230;] 
+
+<https://www.polygon.com/preview/449206/monster-hunter-wilds-ecosystem-preview>
 

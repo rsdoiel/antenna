@@ -1,11 +1,11 @@
 ---
 title: central coast
-updated: 2024-09-13 07:50:30
+updated: 2024-09-14 10:49:07
 ---
 
 # central coast
 
-(date: 2024-09-13 07:50:30)
+(date: 2024-09-14 10:49:07)
 
 ---
 
@@ -733,4 +733,176 @@ date: 2024-09-08, from: Newshawk, the freshest news in Santa Barbara County
  
 
 <https://www.noozhawk.com/motorcyclist-dies-after-falling-100-feet-over-cliff-near-highway-1-at-jalama-road/>
+
+---
+
+## No. 11 UCSB Men’s Water Polo Splits Doubleheader at Triton Invitational
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The No. 11 UC Santa Barbara Men&#8217;s Water Polo went 1-1 across their first two matches of the season at the Triton Invitational on Saturday, dropping a match against No. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/no-11-ucsb-mens-water-polo-splits-doubleheader-at-triton-invitational/">No. 11 UCSB Men&#8217;s Water Polo Splits Doubleheader at Triton Invitational</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/no-11-ucsb-mens-water-polo-splits-doubleheader-at-triton-invitational/>
+
+---
+
+## Robert Sulnick: Without Ending Oil Production, Santa Barbara Climate Plan Falls Short
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>As of August, 19 U.S. climate disasters have cost more than $1 billion each. These events killed 149 people. It’s become painfully obvious since the world is not going to restrict [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/robert-sulnick-without-ending-oil-production-santa-barbara-climate-plan-falls-short/">Robert Sulnick: Without Ending Oil Production, Santa Barbara Climate Plan Falls Short</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/robert-sulnick-without-ending-oil-production-santa-barbara-climate-plan-falls-short/>
+
+---
+
+## James Dulley: Here’s How to Build a New Fence for Privacy
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="654" height="1024" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?fit=654%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Privacy fence" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?w=1149&amp;ssl=1 1149w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?resize=192%2C300&amp;ssl=1 192w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?resize=654%2C1024&amp;ssl=1 654w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?resize=768%2C1203&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?resize=980%2C1536&amp;ssl=1 980w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?resize=400%2C627&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?resize=706%2C1106&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/plo082924adAP.jpg?fit=654%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Dear James: I live in a house on a sloping lot and want to add a privacy fence around the backyard. How should I construct it so it looks good [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/james-dulley-heres-how-to-build-a-new-fence-for-privacy/">James Dulley: Here’s How to Build a New Fence for Privacy</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/james-dulley-heres-how-to-build-a-new-fence-for-privacy/>
+
+---
+
+## Jim Langley: Seeking Substance Over Style
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>As we prepare to participate in perhaps the most bizarre presidential election in the nearly 250-year history of this great nation’s existence, I can’t resist sharing my thoughts on all [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/jim-langley-seeking-substance-over-style/">Jim Langley: Seeking Substance Over Style</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/jim-langley-seeking-substance-over-style/>
+
+---
+
+## Sierra Buttes Trail
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Tamarack Lakes off the Sierra Buttes Trail north of Sierra City." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/081824-POD-Kirsten-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/sierra-buttes-trail/">Sierra Buttes Trail</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sierra-buttes-trail/>
+
+---
+
+## Laird Finkel, Dons Have Their Way in 49-0 Rout of Dos Pueblos
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="799" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?fit=1024%2C799&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?w=1744&amp;ssl=1 1744w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?resize=300%2C234&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?resize=1024%2C799&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?resize=768%2C599&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?resize=1536%2C1198&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?resize=1200%2C936&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?resize=1568%2C1223&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?resize=400%2C312&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?resize=706%2C551&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090724-Tomas-Gil.jpeg?fit=1024%2C799&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Friday night’s Dos Pueblos-Santa Barbara High football game was a perfect example of why school and athletic administrators in the Northern Area of the CIF-Southern Division decided to reshuffle teams [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/laird-finkel-dons-have-their-way-in-49-0-rout-of-dos-pueblos/">Laird Finkel, Dons Have Their Way in 49-0 Rout of Dos Pueblos</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/laird-finkel-dons-have-their-way-in-49-0-rout-of-dos-pueblos/>
+
+---
+
+## San Marcos Football Shuts Down Santa Ynez in Second Half, Earns 23-13 Victory
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-sy-football-cover.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>After trailing by three points at halftime, San Marcos football took control of the game in the second half and pulled out a 23-13 win over Santa Ynez on Friday [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/san-marcos-football-shuts-down-santa-ynez-in-second-half-earns-23-13-victory/">San Marcos Football Shuts Down Santa Ynez in Second Half, Earns 23-13 Victory</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/san-marcos-football-shuts-down-santa-ynez-in-second-half-earns-23-13-victory/>
+
+---
+
+## Local Prep Football Scores from Week 2
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara County Santa Barbara High 49, Dos Pueblos 0 San Marcos 23, Santa Ynez 13 Bishop Diego 31, Westlake 28 Righetti 41, Lompoc 7 Ventura County Rio Mesa 33, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/local-prep-football-scores-from-week-2/">Local Prep Football Scores from Week 2</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/local-prep-football-scores-from-week-2/>
+
+---
+
+## Bishop Diego Football Comes Away with 31-28 Road Win Over Westlake
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Bishop Diego football earned a hard-fought 31-28 road victory over Westlake on Friday. With the win, the Cardinals are now 2-1 heading into a home game against Northgate next week. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bishop-diego-football-comes-away-with-31-28-road-win-over-westlake/">Bishop Diego Football Comes Away with 31-28 Road Win Over Westlake</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bishop-diego-football-comes-away-with-31-28-road-win-over-westlake/>
+
+---
+
+## Local Channel League Boys Water Polo Teams Compete in Day 2 of Santa Barbara Invitational
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>San Marcos, Dos Pueblos and Santa Barbara High boys water polo all competed in the Santa Barbara Invitational on Friday across the three local campuses. San Marcos The Royals split [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/local-channel-league-boys-water-polo-teams-compete-in-day-2-of-santa-barbara-invitational/">Local Channel League Boys Water Polo Teams Compete in Day 2 of Santa Barbara Invitational</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/local-channel-league-boys-water-polo-teams-compete-in-day-2-of-santa-barbara-invitational/>
+
+---
+
+## SBCC Symposium Dives Into ‘Blue Economy’ and Ocean-Related Jobs
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Tricia Ramos, the dean of academic affairs for Santa Monica College, explains how she and her team developed a program that helped train students and prepare them for jobs in the blue economy." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Blue-Economy-DG-01.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Visitors from land and sea gathered at Santa Barbara City College this week to learn how to guide students to ocean-based jobs and help shape the city’s “blue economy.” The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/sbcc-symposium-dives-into-blue-economy-and-ocean-related-jobs/">SBCC Symposium Dives Into &#8216;Blue Economy&#8217; and Ocean-Related Jobs</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sbcc-symposium-dives-into-blue-economy-and-ocean-related-jobs/>
+
+---
+
+## Santa Barbara High Cross Country Takes on Jaguar Invitational
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara High cross country competed in the inaugural Jaguar Invitational at Del Sol High School on Friday, with the girls team placing fourth of eight teams while the boys [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-high-cross-country-takes-on-jaguar-invitational/">Santa Barbara High Cross Country Takes on Jaguar Invitational</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-high-cross-country-takes-on-jaguar-invitational/>
+
+---
+
+## From Our Inbox: Letters to the Editor for the Week Ending Sept. 6, 2024
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Regarding the Sept. 4 article, “Strong Towns SB Makes Case to Permanently Close State Street to Cars,” where will shoppers see the store names? How will they know what block [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/from-our-inbox-letters-to-the-editor-for-the-week-ending-sept-6-2024/">From Our Inbox: Letters to the Editor for the Week Ending Sept. 6, 2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/from-our-inbox-letters-to-the-editor-for-the-week-ending-sept-6-2024/>
+
+---
+
+## Santa Barbara Teacher Accused of Recording Minors Arrested in Child Molestation Case
+
+date: 2024-09-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A 54-year-old Santa Barbara teacher was arrested Friday on suspicion of child molestation after a previous arrest in July for secretly recording minors at the school where he worked.   [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-teacher-accused-of-recording-minors-arrested-in-child-molestation-case/">Santa Barbara Teacher Accused of Recording Minors Arrested in Child Molestation Case</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-teacher-accused-of-recording-minors-arrested-in-child-molestation-case/>
 

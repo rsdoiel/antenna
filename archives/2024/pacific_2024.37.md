@@ -1,11 +1,33 @@
 ---
 title: pacific
-updated: 2024-09-13 07:50:28
+updated: 2024-09-14 10:49:06
 ---
 
 # pacific
 
-(date: 2024-09-13 07:50:28)
+(date: 2024-09-14 10:49:06)
+
+---
+
+## Leeward CC Theatre celebrates 50th anniversary with free event
+
+date: 2024-09-13, from: University of Hawaiʻi News
+
+<p>Leeward Theatre’s golden anniversary celebration will feature alumni talent, current students and more.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/13/leeward-cc-theatre-celebrates-50th-anniversary/">Leeward <abbr>CC</abbr> Theatre celebrates 50th anniversary with free event</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/13/leeward-cc-theatre-celebrates-50th-anniversary/>
+
+---
+
+## Student designed cookie tin supports UH West Oʻahu creative media
+
+date: 2024-09-13, from: University of Hawaiʻi News
+
+<p>Cookie tin sales support <abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span>’s creative media program and the Moore Aloha Foundation.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/13/student-designed-cookie-tin/">Student designed cookie tin supports <abbr>UH</abbr> West Oʻahu creative media</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/13/student-designed-cookie-tin/>
 
 ---
 
@@ -246,6 +268,102 @@ date: 2024-09-13, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/09/13/nation-world-news/harris-builds-lead-over-trump-voters-see-her-as-debate-winner-reuters-ipsos-poll/>
+
+---
+
+## DOE to restore six more East Hawaii school bus routes on Monday
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Education announced today that six previously suspended school bus routes in East Hawaii will be reinstated starting Monday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/hawaii-news/doe-to-restore-six-more-east-hawaii-school-bus-routes-on-monday/>
+
+---
+
+## Elarionoff named Officer of the Year
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii State Law Enforcement Officials Association recently honored Acting Lt. Grad Elarionoff of the Hawaii Police Department as Officer of the Year during their 68th annual conference on Kauai.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/community/elarionoff-named-officer-of-the-year/>
+
+---
+
+## Kona Orchid Society to host show, sale
+
+date: 2024-09-13, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; Celebrate the arrival of fall with the Kona Orchid Society&#8217;s Orchid Show &#038; Sale from 9 a.m. to 2 p.m. Saturday, Sept. 21, inside and out at the Makaeo County Pavilion at the Old Kona Airport State Recreation Area.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/13/community/kona-orchid-society-to-host-show-sale/>
+
+---
+
+## Settlement reached in 2018 Japanese cruise liner crash
+
+date: 2024-09-13, from: Guam Daily Post
+
+A settlement has been reached in a lawsuit seeking $8 million in compensation from a Japanese cruise ship that collided with an Apra Harbor pier in 2018. 
+
+<https://www.postguam.com/news/local/settlement-reached-in-2018-japanese-cruise-liner-crash/article_9aa6ab8e-716d-11ef-b97e-6bdc4c3b79b4.html>
+
+---
+
+## Public Health encourages vaccination following confirmed case of whooping cough
+
+date: 2024-09-13, from: Guam Daily Post
+
+Health officials have confirmed one case of pertussis in Guam and stressed the importance of vaccination to protect against the disease. 
+
+<https://www.postguam.com/news/local/public-health-encourages-vaccination-following-confirmed-case-of-whooping-cough/article_9e9c6d46-716d-11ef-be73-63308de04ef3.html>
+
+---
+
+## Judge calls jury service an 'awesome responsibility'
+
+date: 2024-09-13, from: Guam Daily Post
+
+The Judiciary of Guam will sign a resolution next week to celebrate the U.S. Constitution, which gives citizens certain rights, such as participating in the criminal justice system by sitting on a jury. 
+
+<https://www.postguam.com/news/local/judge-calls-jury-service-an-awesome-responsibility/article_ee2badb2-715f-11ef-a32f-9b303f453fde.html>
+
+---
+
+## Public Health: A more consumer- and client-oriented future ahead
+
+date: 2024-09-13, from: Guam Daily Post
+
+The future of public assistance could bring services into mayors’ offices across the island, according to the Department of Public Health and Social Services, which said it wants to make programs more accessible to Guam residents. 
+
+<https://www.postguam.com/news/local/public-health-a-more-consumer--and-client-oriented-future-ahead/article_38f87102-70cc-11ef-8144-e36d6bfd387d.html>
+
+---
+
+## Monsoon brings more showers, wind and thunderstorms
+
+date: 2024-09-13, from: Guam Daily Post
+
+Tropical Storm Bebinca has moved well away from Guam and the region, but, according to the National Weather Service, more rainy days could be ahead. 
+
+<https://www.postguam.com/news/local/monsoon-brings-more-showers-wind-and-thunderstorms/article_59a993f6-7174-11ef-b392-e325dcdff8b4.html>
+
+---
+
+## Ceremony held for GPD officer promotions
+
+date: 2024-09-13, from: Guam Daily Post
+
+ 
+
+<https://www.postguam.com/news/local/ceremony-held-for-gpd-officer-promotions/article_edb55f80-7183-11ef-87e9-67bf80bfe79e.html>
 
 ---
 
@@ -963,6 +1081,116 @@ date: 2024-09-12, from: Hawaii Tribune Harold
 
 ---
 
+## 9/11 remembered despite Bebinca
+
+date: 2024-09-12, from: Guam Daily Post
+
+While the island was focused on Tropical Storm Bebinca, which passed the Marianas as a tropical depression on Wednesday, those who died in the terrorist attacks on the World Trade Center and the Pentagon 23 years ago were remembered and… 
+
+<https://www.postguam.com/news/local/9-11-remembered-despite-bebinca/article_da1a017c-70ae-11ef-b722-031fff7b168d.html>
+
+---
+
+## Sanchez funding, CLTC bill and others on agenda next session
+
+date: 2024-09-12, from: Guam Daily Post
+
+The Committee on Rules at the Guam Legislature adopted a number of bills, nominations and resolutions into the agenda for the next legislative session, including a funding measure for the construction of a new Simon Sanchez High School. 
+
+<https://www.postguam.com/news/local/sanchez-funding-cltc-bill-and-others-on-agenda-next-session/article_ca774e1c-70a6-11ef-afb5-5f718eeb16a7.html>
+
+---
+
+## Governor signs budget bill into law
+
+date: 2024-09-12, from: Guam Daily Post
+
+Gov. Lou Leon Guerrero signed the fiscal year 2025 budget act into law Wednesday afternoon, despite her concerns with the bill. The $1.3 billion budget measure for the government of Guam passed the Guam Legislature late last month, earning praise… 
+
+<https://www.postguam.com/news/local/governor-signs-budget-bill-into-law/article_e2db53c6-70ac-11ef-85be-4f5ac6c579af.html>
+
+---
+
+## Suspect accused of stealing $11K worth of items from hotel guest
+
+date: 2024-09-12, from: Guam Daily Post
+
+A man was accused of stealing a hotel guest's bag that had about $11,000 worth of items inside. 
+
+<https://www.postguam.com/news/local/suspect-accused-of-stealing-11k-worth-of-items-from-hotel-guest/article_0839ad06-70b8-11ef-9565-e3f5014fbd29.html>
+
+---
+
+## Man allegedly cut woman's lip with machete
+
+date: 2024-09-12, from: Guam Daily Post
+
+A man faces charges of aggravated assault and family violence after he allegedly cut a woman's lip with a machete. 
+
+<https://www.postguam.com/news/local/man-allegedly-cut-womans-lip-with-machete/article_82f074b0-70a6-11ef-872b-9b10e44daa33.html>
+
+---
+
+## AG to honor good Samaritan
+
+date: 2024-09-12, from: Guam Daily Post
+
+The Office of the Attorney General is honoring a woman for assisting a man injured in a traffic collision. 
+
+<https://www.postguam.com/news/local/ag-to-honor-good-samaritan/article_3b7be25a-709b-11ef-8a1d-33994ba56131.html>
+
+---
+
+## Tosiuo going to trial on charges stemming from June traffic crash
+
+date: 2024-09-12, from: Guam Daily Post
+
+Some of the charges filed against DJ Tosiuo have been dismissed in the Superior Court of Guam. 
+
+<https://www.postguam.com/news/local/tosiuo-going-to-trial-on-charges-stemming-from-june-traffic-crash/article_b0b6c0dc-70a8-11ef-8643-a7ca0df3a7a8.html>
+
+---
+
+## Judge considering releasing man accused of raping teens
+
+date: 2024-09-12, from: Guam Daily Post
+
+A judge is considering releasing a man who is one of several defendants who are accused of raping two teenage girls. 
+
+<https://www.postguam.com/news/local/judge-considering-releasing-man-accused-of-raping-teens/article_b8aca242-70ae-11ef-b14f-bfdd8f7dbd52.html>
+
+---
+
+## GDOE: FY 2025 budget 'not sufficient'
+
+date: 2024-09-12, from: Guam Daily Post
+
+The Guam Department of Education will need to go back to the drawing board to figure out how to live within its means in the budget set for fiscal year 2025 in Public Law 37-125. 
+
+<https://www.postguam.com/news/local/gdoe-fy-2025-budget-not-sufficient/article_b4748002-70c0-11ef-8a6c-1faa201245f8.html>
+
+---
+
+## Credit card fees  for payments to GovGuam return
+
+date: 2024-09-12, from: Guam Daily Post
+
+Without an appropriation to cover people's credit card fees for government transactions, effective Oct. 1, all payments made by credit card to the government of Guam will incur a fee charged to the payor, the Department of Administration announced Thursday… 
+
+<https://www.postguam.com/news/local/credit-card-fees-for-payments-to-govguam-return/article_ed306978-70a8-11ef-acd4-cf0d85a91224.html>
+
+---
+
+## Man allegedly bit, choked woman in car
+
+date: 2024-09-12, from: Guam Daily Post
+
+A man was accused of preventing a woman from leaving his car by biting her twice and choking her. 
+
+<https://www.postguam.com/news/local/man-allegedly-bit-choked-woman-in-car/article_92a4d14a-6ffb-11ef-aec2-43e43327fd9f.html>
+
+---
+
 ## Students, youth urged to manage stress
 
 date: 2024-09-12, from: Marshal Islands Journal
@@ -1182,6 +1410,16 @@ date: 2024-09-11, updated: 2024-09-12, from: Marianas Variety
 (JKPL) — Universal Class is available! Did you know that with your Joeten-Kiyu Public Library card, you have access to more than 600 free lifelong learning courses in over 30 subject areas, many of which offer continuing education units? 
 
 <https://www.mvariety.com/news/community_bulletins/jkpl-provides-online-continuing-education-through-universal-class/article_81741b9e-7035-11ef-8a07-f3866fa8bdea.html>
+
+---
+
+## Governor signs budget bill into law
+
+date: 2024-09-11, from: Guam Daily Post
+
+Gov. Lou Leon Guerrero signed the fiscal year 2025 budget act into law Wednesday afternoon, despite her concerns with the bill. The $1.3 billion budget measure for the government of Guam passed the Guam Legislature late last month, earning praise… 
+
+<https://www.postguam.com/news/governor-signs-budget-bill-into-law/article_5d06f5e6-7022-11ef-afcf-c7a3a995d65f.html>
 
 ---
 
@@ -1509,6 +1747,66 @@ date: 2024-09-11, from: Hawaii Tribune Harold
 
 ---
 
+## 4 Guam Customs officers graduate  as new drug detector dog handlers
+
+date: 2024-09-11, from: Guam Daily Post
+
+The Guam Customs and Quarantine Agency’s Drug Detector Dog Unit officially gained four new drug detector dog handlers Tuesday following their graduation ceremony at the Antonio B. Won Pat International Airport, the agency announced. 
+
+<https://www.postguam.com/news/local/4-guam-customs-officers-graduate-as-new-drug-detector-dog-handlers/article_8bfee908-6ff0-11ef-bc68-2383ddbdaf05.html>
+
+---
+
+## Cougars defeat Royals in IIAAG girls volleyball
+
+date: 2024-09-11, from: Guam Daily Post
+
+ 
+
+<https://www.postguam.com/sports/local/cougars-defeat-royals-in-iiaag-girls-volleyball/article_eb50f17c-6f81-11ef-a4fc-578a727e10b1.html>
+
+---
+
+## AG moves to dismiss charges for suspect caught by a good Samaritan in June crash
+
+date: 2024-09-11, from: Guam Daily Post
+
+Charges filed against a man sought by the Guam Police Department in June and apprehended by a good Samaritan are set to be dismissed by the Office of the Attorney General, with the intent of "charging (with) other defendants for… 
+
+<https://www.postguam.com/news/local/ag-moves-to-dismiss-charges-for-suspect-caught-by-a-good-samaritan-in-june-crash/article_56828ff6-6fef-11ef-bd2c-ab175068a2d9.html>
+
+---
+
+## Suspect allegedly hit  victim with machete
+
+date: 2024-09-11, from: Guam Daily Post
+
+A man who appeared to be drunk on the beach allegedly struck another man on the forehead with a machete. 
+
+<https://www.postguam.com/news/local/suspect-allegedly-hit-victim-with-machete/article_2bb5d8a2-6fed-11ef-a043-5f54cc1af690.html>
+
+---
+
+## District Court: Parties argue lawsuit  issue, update judge on receivership
+
+date: 2024-09-11, from: Guam Daily Post
+
+Joyce Tang, attorney for federal receiver Gershman, Brickner & Bratton Inc., accused the government of Guam of judge shopping as she argued Wednesday in the District Court of Guam in favor of a motion to prohibit GovGuam from suing the… 
+
+<https://www.postguam.com/news/local/district-court-parties-argue-lawsuit-issue-update-judge-on-receivership/article_bac6c23a-6fe9-11ef-befe-2b1b5022937d.html>
+
+---
+
+## Claims tossed for 8 students in GDOE lawsuit
+
+date: 2024-09-11, from: Guam Daily Post
+
+Superior Court of Guam Judge Elyze Iriarte has dismissed claims filed by certain students with disabilities regarding the education department's failure to meet adequate education mandates because those students did not first seek administrative review of their claims as required… 
+
+<https://www.postguam.com/news/local/claims-tossed-for-8-students-in-gdoe-lawsuit/article_1db9c2f0-7005-11ef-81ae-037978ad65d6.html>
+
+---
+
 ## Hawaiian Word of the Week: Kanilehua
 
 date: 2024-09-11, from: University of Hawaiʻi News
@@ -1543,6 +1841,16 @@ date: 2024-09-11, from: Island Times
 
 ---
 
+## COR 4 declared; Bebinca downgraded to tropical depression
+
+date: 2024-09-11, from: Guam Daily Post
+
+The island was placed under Condition of Readiness 4 on Wednesday afternoon following Tropical Storm Bebinca being downgraded to a tropical depression. 
+
+<https://www.postguam.com/news/cor-4-declared-bebinca-downgraded-to-tropical-depression/article_002b468a-6ff3-11ef-9973-e34035ba85c7.html>
+
+---
+
 ## PSS classes resume Thursday
 
 date: 2024-09-11, updated: 2024-09-11, from: Marianas Variety
@@ -1560,6 +1868,16 @@ date: 2024-09-11, updated: 2024-09-11, from: Marianas Variety
  
 
 <https://www.mvariety.com/news/local/acting-governor-cancels-tropical-storm-conditions/article_cb098d98-6ff9-11ef-9745-ab2e80f7ffb4.html>
+
+---
+
+## Tropical Storm Bebinca pulling away from Guam
+
+date: 2024-09-11, from: Guam Daily Post
+
+Peak weather conditions have been reached as Tropical Storm Bebinca is now pulling away from Guam on Wednesday morning. 
+
+<https://www.postguam.com/news/tropical-storm-bebinca-pulling-away-from-guam/article_cbb5b6ee-6fc8-11ef-9b1f-632ffd37dc05.html>
 
 ---
 
@@ -2181,6 +2499,76 @@ date: 2024-09-10, from: Island Times
 
 ---
 
+## COR 3 declared as tropical storm expected to pass Tuesday night
+
+date: 2024-09-10, from: Guam Daily Post
+
+Gov. Lou Leon Guerrero has placed Guam under Condition of Readiness 3 "out of an abundance of caution" as a tropical storm is expected to pass by Tuesday evening. 
+
+<https://www.postguam.com/news/local/cor-3-declared-as-tropical-storm-expected-to-pass-tuesday-night/article_2b4dc206-6f3b-11ef-a2df-17a1e0e19a2c.html>
+
+---
+
+## Human remains found in Yigo fire prompt GPD investigation
+
+date: 2024-09-10, from: Guam Daily Post
+
+A death investigation has been launched in connection to human remains found inside a burning structure in Yigo. 
+
+<https://www.postguam.com/news/local/human-remains-found-in-yigo-fire-prompt-gpd-investigation/article_31300186-6f20-11ef-98ac-d31d51057f4f.html>
+
+---
+
+## Guam Transit officials seek to have charges in corruption case dismissed with prejudice
+
+date: 2024-09-10, from: Guam Daily Post
+
+Guam Regional Transit Authority officials are seeking to have charges in their corruption case dismissed with prejudice. 
+
+<https://www.postguam.com/news/local/guam-transit-officials-seek-to-have-charges-in-corruption-case-dismissed-with-prejudice/article_45304ae2-6f0c-11ef-945a-43bc6f0473c1.html>
+
+---
+
+## Officials working on receivership transition plan, District Court to weigh lawsuit issue
+
+date: 2024-09-10, from: Guam Daily Post
+
+The work to take local solid waste operations completely out of federal receivership remains ongoing, with federal receiver Gershman, Brickner & Bratton Inc. believing that a transition plan drafted by the Guam Solid Waste Authority requires substantial changes, and that… 
+
+<https://www.postguam.com/news/local/officials-working-on-receivership-transition-plan-district-court-to-weigh-lawsuit-issue/article_7ed1cbec-6f19-11ef-8a39-9fa83532a645.html>
+
+---
+
+## Driver in fatal 2023 Yigo crash might face additional charges
+
+date: 2024-09-10, from: Guam Daily Post
+
+A man charged with vehicular homicide after a fatal collision in Yigo late last year may face more charges related to three other victims injured in the crash. 
+
+<https://www.postguam.com/news/local/driver-in-fatal-2023-yigo-crash-might-face-additional-charges/article_05feff2c-6f1a-11ef-963e-57aeb9b46106.html>
+
+---
+
+## Civil Service Commission: Limo termination appeal is dismissed with $200K settlement
+
+date: 2024-09-10, from: Guam Daily Post
+
+The Civil Service Commission has signed off on dismissing the adverse action appeal filed by former Department of Corrections Lt. Jeffrey Limo, bringing the yearslong case to a close. The commissioners dismissed the case with prejudice Tuesday morning. 
+
+<https://www.postguam.com/news/local/civil-service-commission-limo-termination-appeal-is-dismissed-with-200k-settlement/article_7a724022-6e9c-11ef-838c-c34286235de7.html>
+
+---
+
+## Legislature, governor join Judiciary in celebrating Juror Appreciation Week
+
+date: 2024-09-10, from: Guam Daily Post
+
+Recognizing the invaluable contributions of jurors to the island justice system, lawmakers, the governor and the lieutenant governor joined the Judiciary of Guam in declaring Juror Appreciation Week from Sept. 9 to Sept. 13, the Judiciary announced in a press… 
+
+<https://www.postguam.com/news/local/legislature-governor-join-judiciary-in-celebrating-juror-appreciation-week/article_fc497a8c-6f25-11ef-a3b0-af891d7f973c.html>
+
+---
+
 ## CLEANING HOUSE
 
 date: 2024-09-10, from: Island Times
@@ -2251,6 +2639,26 @@ date: 2024-09-10, from: Island Times
  
 
 <https://islandtimes.org/icj-to-start-hearing-submissions-on-climate-case-before-christmas/>
+
+---
+
+## Public, Catholic school classes cancelled Wednesday
+
+date: 2024-09-10, from: Guam Daily Post
+
+Wednesday classes for public and Catholic schools have been cancelled ahead of tropical storm conditions expected to arrive on island Tuesday night, and with Gov. Lou Leon Guerrero placing Guam under Condition of Readiness 3 as of 3 p.m. Tuesday… 
+
+<https://www.postguam.com/news/public-catholic-school-classes-cancelled-wednesday/article_9e793336-6f46-11ef-a7a7-830200afc16d.html>
+
+---
+
+## COR 3 declared as tropical storm to pass Tuesday evening
+
+date: 2024-09-10, from: Guam Daily Post
+
+Gov. Lou Leon Guerrero has placed Guam under Condition of Readiness 3 "out of an abundance of caution" as a tropical storm is expected to pass by Tuesday evening. 
+
+<https://www.postguam.com/news/cor-3-declared-as-tropical-storm-to-pass-tuesday-evening/article_cd0ffbdc-6f2b-11ef-96b6-c33eeaf6e3fb.html>
 
 ---
 
@@ -3177,4 +3585,466 @@ date: 2024-09-08, from: Guam Daily Post
 Two Guam Police Department detectives and a member of the Guam Army National Guard Counter Drug Task Force sat in an unmarked car outside a Dededo residence on Thursday and witnessed what they believed was a “drug transaction.” 
 
 <https://www.postguam.com/news/local/complaint-gpd-officers-in-unmarked-car-witnessed-alleged-drug-transaction/article_0b9cde04-6d80-11ef-b134-ef0c9b40943f.html>
+
+---
+
+## Brief chat with Guam Archbishop Ryan Jimenez: Mending a fractured church 
+
+date: 2024-09-07, from: Pacific Island Times
+
+By Mar-Vic Cagurangan   His inaugural homily during his installation as the fourth archbishop of the Archdiocese of Agana was tinged with... 
+
+<https://www.pacificislandtimes.com/post/brief-chat-with-guam-archbishop-ryan-jimenez-mending-a-fractured-church>
+
+---
+
+## Musings in Munich
+
+date: 2024-09-07, from: Pacific Island Times
+
+Munich  – My first view of Munich was the sight of the dark orange sun setting outside my airplane window. The plane was touching down at... 
+
+<https://www.pacificislandtimes.com/post/musings-in-munich>
+
+---
+
+## Rainbow Wāhine five-set drop thriller to Pepperdine
+
+date: 2024-09-07, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+ 
+
+<https://www.manoanow.org/kaleo/rainbow-w-hine-five-set-drop-thriller-to-pepperdine/article_387970f4-6ec0-11ef-bf01-1fe91de6ec05.html>
+
+---
+
+## California, Hawaii can ban guns in bars and parks, appeals court rules
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>California and Hawaii can enforce bans on carrying guns in some public locations including bars and parks, a federal appeals court ruled on Friday, partly reversing lower court orders blocking the bans.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/nation-world-news/california-hawaii-can-ban-guns-in-bars-and-parks-appeals-court-rules/>
+
+---
+
+## How the fight to define Kamala Harris will shape next week’s debate
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>For eight years, Donald Trump has singularly dominated the American political landscape. But as he prepares to debate Vice President Kamala Harris for the first time next week, the former president is facing a rare moment when the spotlight will be far more on his opponent than on him.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/nation-world-news/how-the-fight-to-define-kamala-harris-will-shape-next-weeks-debate/>
+
+---
+
+## Judge delays Trump’s sentencing until after Election Day
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The judge overseeing Donald Trump&#8217;s criminal case in Manhattan postponed his sentencing until after Election Day, a significant victory for the former president as he seeks to overturn his conviction and win back the White House.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/nation-world-news/judge-delays-trumps-sentencing-until-after-election-day/>
+
+---
+
+## ‘Booming’ construction helps buoy Hawaii’s economy as tourism lags
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>A booming local construction industry is expected to help Hawaii&#8217;s economy maintain about average growth this year, according to a new state forecast.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/hawaii-news/booming-construction-helps-buoy-hawaiis-economy-as-tourism-lags/>
+
+---
+
+## U.S. jobs report shows hiring has shifted into lower gear
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>The labor market appears to be treading water, with employers&#8217; desire to hire staying just ahead of the supply of workers looking for jobs.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/nation-world-news/u-s-jobs-report-shows-hiring-has-shifted-into-lower-gear/>
+
+---
+
+## Federal probationer faces drug, gun charges
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>Police have arrested and charged a 48-year-old Hilo man on federal probation with numerous drug and firearm offenses.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/hawaii-news/federal-probationer-faces-drug-gun-charges/>
+
+---
+
+## Mukashi Mukashi Market returns this weekend
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Japanese Center is hosting its annual Mukashi Mukashi Market in Hilo this weekend.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/hawaii-news/mukashi-mukashi-market-returns-this-weekend/>
+
+---
+
+## Israeli troops shoot Turkish-American woman dead at West Bank protest, officials say
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>RAMALLAH, West Bank &#8212; Israeli troops shot and killed a Turkish-American woman who had been taking part in a protest against settlement expansion in the Israeli-occupied West Bank on Friday, Palestinian and Turkish officials said.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/nation-world-news/israeli-troops-shoot-turkish-american-woman-dead-at-west-bank-protest-officials-say/>
+
+---
+
+## Tropical Gardening: Fences are used for many purposes
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>This will be my last column until sometime in November. We will be traveling in Europe and maybe North Africa for a change of scenery and to see how folks are getting along there. Meanwhile, let&#8217;s take a moment to reflect on how we are getting along here.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/community/tropical-gardening-fences-are-used-for-many-purposes/>
+
+---
+
+## Dick Cheney says he will vote for Kamala Harris
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Former Vice President Dick Cheney, one of the most influential and hawkish conservatives in the modern Republican Party and a figure reviled by the left, said Friday he would be voting for Vice President Kamala Harris because he regards former President Donald Trump as a grave danger to the country.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/nation-world-news/dick-cheney-says-he-will-vote-for-kamala-harris/>
+
+---
+
+## Teen and father charged in Georgia school shooting appear in court
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>WINDER, Ga. &#8212; A father and son arrested after Georgia&#8217;s deadliest school shooting made their first court appearances half an hour apart Friday morning, sitting at the same defense table in the same courtroom as a list of grim charges against them were read.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/nation-world-news/teen-and-father-charged-in-georgia-school-shooting-appear-in-court/>
+
+---
+
+## Meeting with allies, Zelenskyy presses for more weapons
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; President Volodymyr Zelenskyy of Ukraine appealed directly Friday to Western military leaders for faster weapons deliveries on the heels of a flurry of major Russian missile strikes.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/nation-world-news/meeting-with-allies-zelenskyy-presses-for-more-weapons/>
+
+---
+
+## Fire at school dormitory in Kenya kills at least 18 children
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>At least 18 children died when a fire ripped through the dormitory of their boarding school north of the Kenyan capital of Nairobi, police said Friday, and there were concerns that the death toll could rise.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/nation-world-news/fire-at-school-dormitory-in-kenya-kills-at-least-18-children/>
+
+---
+
+## Vance declines to denounce Carlson after interview with Holocaust revisionist
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>Sen. JD Vance, the running mate of former President Donald Trump, has declined to denounce right-wing talk-show host Tucker Carlson for praising and airing the views of a Holocaust revisionist who falsely claimed that the Nazis&#8217; destruction of European Jewry was not an intentional act of premeditated genocide.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/nation-world-news/vance-declines-to-denounce-carlson-after-interview-with-holocaust-revisionist/>
+
+---
+
+## China stops foreign adoptions, ending a complicated chapter
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>HONG KONG &#8212; For three decades, China sent tens of thousands of young children overseas for adoption as it enforced a strict one-child policy that forced many families to abandon their babies. Now the government will no longer allow most foreign adoptions, a move that it said was in line with global trends.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/nation-world-news/china-stops-foreign-adoptions-ending-a-complicated-chapter/>
+
+---
+
+## Eagles emerge with win over Packers in wild Brazil opener
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>Saquon Barkley scored three touchdowns in his Philadelphia debut and the Eagles opened the season with a back-and-forth 34-29 victory over the Green Bay Packers on Friday night in Sao Paulo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/sports/eagles-emerge-with-win-over-packers-in-wild-brazil-opener/>
+
+---
+
+## We know more about quarterbacks’ arms than ever. Can NFL teams take advantage?
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>When Buffalo Bills quarterback Josh Allen comes across video of himself throwing passes for the University of Wyoming, he swears he does not recognize that guy.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/sports/we-know-more-about-quarterbacks-arms-than-ever-can-nfl-teams-take-advantage/>
+
+---
+
+## Alex Morgan reminisces before final game: ‘I hope my legacy is that I pushed the game forward’
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>After 13 years of professional soccer, soon-to-be-retired San Diego Wave forward Alex Morgan said she hopes young players watching her will benefit from the work she and her teammates have done in the sport. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/sports/alex-morgan-reminisces-before-final-game-i-hope-my-legacy-is-that-i-pushed-the-game-forward/>
+
+---
+
+## BIIF volleyball: Wildcats, Warriors and Ka Makani sweep
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>KEALAKEKUA &#8212; Konawaena girls volleyball hosted Makua Lani in a crosstown matchup Thursday night in Ellison Onizuka Gymnasium, and the Wildcats handled business quickly.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/sports/biif-volleyball-wildcats-warriors-and-ka-makani-sweep/>
+
+---
+
+## Vulcans burst through for 2-0 season-opening victory
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; After a scoreless first half, the Hawai&#8217;i Hilo men&#8217;s soccer team burst through for a pair of goals to down Cal State Dominguez Hills, 2-0, Thursday afternoon in a non-conference season opener at the Vulcan Soccer Field.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/sports/vulcans-burst-through-for-2-0-season-opening-victory/>
+
+---
+
+## Fritz, Sinner battle through to US Open final
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Taylor Fritz held on to beat Frances Tiafoe 4-6 7-5 4-6 6-4 6-1 in a blockbuster all-American semi-final at the U.S. Open on Friday and will take on the role of the underdog when he meets Italian top seed Jannik Sinner in the finale. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/sports/fritz-sinner-battle-through-to-us-open-final/>
+
+---
+
+## In the paralympic workshop, plenty of fractures but no broken bones
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; Spend some time watching the Paralympics and it will soon become obvious from seeing wheelchair athletes bash into each other while playing rugby and basketball that their flattened tires and dented frames might need multiple repairs over their tournaments. But at the Games&#8217; fix-it shop in the Paralympic Village, repair requests can and do come from every sport.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/sports/in-the-paralympic-workshop-plenty-of-fractures-but-no-broken-bones/>
+
+---
+
+## A victory comes at last for the world’s worst soccer team
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>Take a look at the men&#8217;s world soccer rankings. At the top, you will find the giants of the sport, Argentina, France and Spain.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/sports/a-victory-comes-at-last-for-the-worlds-worst-soccer-team/>
+
+---
+
+## We’re living under a flawed Constitution. Let’s start fresh and rewrite it
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>No matter the outcome of the November elections, it is urgent that there be a widespread recognition that American democracy is in danger and that reforms are essential. No form of government lasts forever, and it would be foolhardy to believe that the United States cannot fall prey to the forces that have ended democracies in many other countries.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/opinion/were-living-under-a-flawed-constitution-lets-start-fresh-and-rewrite-it/>
+
+---
+
+## How a corporate tax hike would hurt the middle class
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>Even presidential candidates aren&#8217;t powerful enough to stop unintended consequences.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/opinion/how-a-corporate-tax-hike-would-hurt-the-middle-class/>
+
+---
+
+## What does a couple do when one partner is deported?
+
+date: 2024-09-07, from: Hawaii Tribune Harold
+
+
+				<p>Hector Reyes parked his truck in the Mexican border town of Ciudad Ju&#0225;rez, his phone lighting up with photos and videos of his son, Daniel, receiving his high school diploma.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/07/nation-world-news/what-does-a-couple-do-when-one-partner-is-deported/>
+
+---
+
+## Espiritu, Stewart earn Guam's first FIFA World Cup appointments
+
+date: 2024-09-07, from: Guam Daily Post
+
+Guam will feature for the first time at the FIFA World Cup with the appointments of Jill Espiritu and Cheri Stewart as match officials in the FIFA U20 Women’s World Cup Colombia 2024 and FIFA U17 Women’s World Cup Dominican… 
+
+<https://www.postguam.com/sports/local/espiritu-stewart-earn-guams-first-fifa-world-cup-appointments/article_fdf18992-6b51-11ef-9f60-9ffe0a103615.html>
+
+---
+
+## Book competition inspires reading in students
+
+date: 2024-09-07, from: Guam Daily Post
+
+Students at the Mount Carmel Academy Charter School spent their Friday afternoon sharing their book projects and, for those The Guam Daily Post spoke with, the experience was beneficial to their overall growth. 
+
+<https://www.postguam.com/news/local/book-competition-inspires-reading-in-students/article_a66777a0-6c0e-11ef-bffa-db9209cc112a.html>
+
+---
+
+## Camacho wins at Hong Kong bowling tournament
+
+date: 2024-09-07, from: Guam Daily Post
+
+Jeremiah Camacho won his second international youth bowling title, winning the 2024 Hong Kong U22 Storm Championships on Sept. 1, the Guam Bowling Congress announced in a press release. 
+
+<https://www.postguam.com/sports/local/camacho-wins-at-hong-kong-bowling-tournament/article_d1bb8bbe-6b53-11ef-a912-af449e629599.html>
+
+---
+
+## Guam pride on display at international jiujitsu event
+
+date: 2024-09-07, from: Guam Daily Post
+
+Among the 200 Brazilian jiujitsu athletes who descended upon Las Vegas for this year’s World Master International Brazilian Jiu-Jitsu Federation (IBJJF) Championship and Jiu-Jitsu Con, were dozens of athletes from Guam. The World Master IBJJF Championship and Jiu-Jitsu Con are… 
+
+<https://www.postguam.com/news/local/guam-pride-on-display-at-international-jiujitsu-event/article_9c7e8e24-6b49-11ef-80b1-07d1662011ae.html>
+
+---
+
+## Upi and Benavente get ‘C’ grades, ready to open
+
+date: 2024-09-07, from: Guam Daily Post
+
+Two northern schools have passed sanitary inspections with “C” grades. As a result, students from these schools will be welcomed back to campus this week. 
+
+<https://www.postguam.com/news/local/upi-and-benavente-get-c-grades-ready-to-open/article_07307ff4-6cbf-11ef-a186-635a9c998bd4.html>
+
+---
+
+## Bill clarifying procedure for appeal of OPA decisions gets support
+
+date: 2024-09-07, from: Guam Daily Post
+
+The Office of Public Accountability is seeking to change how appeals of its decisions are handled at the courts in light of the current impact to its resources, with officials testifying in support of a measure looking to do just… 
+
+<https://www.postguam.com/news/local/bill-clarifying-procedure-for-appeal-of-opa-decisions-gets-support/article_51f681d6-6c07-11ef-929d-ab60256e653f.html>
+
+---
+
+## UOG’s Michelle Santos appointed to accreditation commission
+
+date: 2024-09-07, from: Guam Daily Post
+
+Michelle Santos, an associate professor of education at the University of Guam’s School of Education, was recently named to serve on the Association for Advancing Quality in Educator Preparation (AAQEP) Accreditation Commission, according to a press release from UOG. 
+
+<https://www.postguam.com/news/local/uog-s-michelle-santos-appointed-to-accreditation-commission/article_8ec960ec-6996-11ef-8ca7-7b1d6dd0a4e8.html>
+
+---
+
+## Man accused of stealing fuel from 30 cars placed on house arrest
+
+date: 2024-09-07, from: Guam Daily Post
+
+A man accused of stealing fuel from 30 cars was released on house arrest. 
+
+<https://www.postguam.com/news/local/man-accused-of-stealing-fuel-from-30-cars-placed-on-house-arrest/article_12b87154-6bf9-11ef-97e8-5778991f0813.html>
+
+---
+
+## Man charged with home invasion violated court order
+
+date: 2024-09-07, from: Guam Daily Post
+
+A man, ordered by a judge to not contact a woman, was accused of breaking the window of the woman's home, assaulting her and preventing her from calling authorities. 
+
+<https://www.postguam.com/news/local/man-charged-with-home-invasion-violated-court-order/article_969b4486-6bfb-11ef-a933-23a5d470d861.html>
+
+---
+
+## Health insurance carriers question new fees proposed by GMH
+
+date: 2024-09-07, from: Guam Daily Post
+
+On Tuesday, the Guam Memorial Hospital held a public hearing on fee increases the hospital said it needs to cover costs, which have risen significantly in the last three years, but the increases raised questions among health insurance representatives who… 
+
+<https://www.postguam.com/news/local/health-insurance-carriers-question-new-fees-proposed-by-gmh/article_7f7a1cec-6cc7-11ef-bdc6-470b4fbb227f.html>
+
+---
+
+## Bill seeks to close a loophole in Guam's law on juvenile sex crimes 
+
+date: 2024-09-07, from: Pacific Island Times
+
+By Ron Rocky Coloma   Sen. Frank Blas Jr. has introduced a bill that would address a significant legal gap in Guam’s criminal justice... 
+
+<https://www.pacificislandtimes.com/post/bill-seeks-to-close-a-loophole-in-guam-s-law-on-juvenile-sex-crimes>
+
+---
+
+##  'Absolutely not the end of the line'
+
+date: 2024-09-07, from: Pacific Island Times
+
+Lawyer to seek review of Ninth Circuit court's ruling on cockfighting ban in the CNMI and other US territories By Jayvee Vallejera   The... 
+
+<https://www.pacificislandtimes.com/post/absolutely-not-the-end-of-the-line>
 

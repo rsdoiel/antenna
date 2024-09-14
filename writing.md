@@ -1,15 +1,50 @@
 ---
 title: writing
-updated: 2024-09-13 07:50:32
+updated: 2024-09-14 10:49:10
 ---
 
 # writing
 
-(date: 2024-09-13 07:50:32)
+(date: 2024-09-14 10:49:10)
 
 ---
 
-## Gabino Iglesias Reviews How to Make a Horror Movie and Survive by Craig DiLouie
+## Featured Friday: Period Television
+
+date: 2024-09-13, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at TV series set long ago and the many ways writers can use period settings to elevate their storytelling. Our collection includes: Bridgerton &#8211; “Diamond of the First Water” Chernobyl &#8211; “1:23:45” [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-period-television">Featured Friday: Period Television</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/featured-friday-period-television>
+
+---
+
+## How To Write a Business-Centered Drama Like ‘Industry’
+
+date: 2024-09-13, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-write-a-business-centered-drama-like-industry" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Industry-1.png" alt="Harry Lawtey as Robert Spearing in 'Industry'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>HBO’s <em>Industry</em> has quickly become one of the best streaming shows, filling the void left behind by <em>Succession</em>. Now in its third season, the series continues to evolve from Season 2, with characters talking more business and making morally questionable decisions that create palpable drama, hooking the audience.</p> 
+
+<https://blog.finaldraft.com/how-to-write-a-business-centered-drama-like-industry>
+
+---
+
+## We Mostly Come Out at Night edited by Rob Costello: Review by Alex Brown
+
+date: 2024-09-13, from: Locus Magazine
+
+<p><strong>We Mostly Come Out at Night</strong>, Rob Costello, ed. (Running Press 978-0-76248-319-8, $18.99, 384pp, hc) May 2024.</p>
+<p><strong>We Mostly Come Out at Night</strong>, a new dark fantasy YA anthology, looks at the scarier side of queerness. The anthol­ogy opens with editor Rob Costello’s powerful introductory essay about queerness and its rela­tionship to monstrousness, how we as a society and as individuals create monsters to reflect our fears and  <a href="https://locusmag.com/2024/09/alex-brown-reviews-we-mostly-come-out-at-night-edited-by-rob-costello/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/alex-brown-reviews-we-mostly-come-out-at-night-edited-by-rob-costello/>
+
+---
+
+## How to Make a Horror Movie and Survive by Craig DiLouie: Review by Gabino Iglesias
 
 date: 2024-09-12, from: Locus Magazine
 
@@ -74,7 +109,7 @@ date: 2024-09-11, from: Final Draft blog
 
 ---
 
-## Colleen Mondor Reviews Something Kindred by Ciera Burch
+## Something Kindred by Ciera Burch: Review by Colleen Mondor
 
 date: 2024-09-11, from: Locus Magazine
 
@@ -284,4 +319,26 @@ date: 2024-09-08, from: Locus Magazine
 <p>Choice of Games published Benjamin Rosenbaum’s The Ghost and the Golem, a &#8220;450,000-word Jewish histori­cal fantasy interactive fiction,&#8221; in August 2024. Rosenbaum calls it &#8220;kind of a magnum opus,&#8221; and explains, &#8220;Unlike a game which is graphics and fight mechanics with some story crammed in here and there, these games are purely a bunch of fictional narrative words: you do make choices, but the output, after having made those choices,  <a href="https://locusmag.com/2024/09/rosenbaums-game/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/09/rosenbaums-game/>
+
+---
+
+## Liz Bourke Reviews The Price of Redemption by Shawn Carpenter
+
+date: 2024-09-07, from: Locus Magazine
+
+<p><strong>The Price of Redemption</strong>, Shawn Carpenter (Saga 978-1-6680-3373-9, $18.99, 358pp, tp) July 2024.</p>
+<p><strong>The Price of Redemption </strong>is Shawn Carpen­ter’s debut novel. Inspired by the exploits of the British Royal Navy during during the French revolutionary wars, it sets its story in a different world to ours and adds magic to the mixture. As a fan of both fantasy and of the naval adventure story (though frequently through gritted  <a href="https://locusmag.com/2024/09/liz-bourke-reviews-the-price-of-redemption-by-shawn-carpenter/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/liz-bourke-reviews-the-price-of-redemption-by-shawn-carpenter/>
+
+---
+
+## Paul Di Filippo Reviews Key Lime Sky by Al Hess
+
+date: 2024-09-07, from: Locus Magazine
+
+<p><strong>Key Lime Sky</strong>, Al Hess (Angry Robot 978-1915998125, trade paperback, 304pp, $18.99) August 2024</p>
+<p>It has been said that Irish fantasist Flann O’Brien had a penchant for involving the humble bicycle in his surreal fiction, until the vehicle became a kind of numinous totem or idiosyncratic symbol. A few other writers of fantasy have deployed such a technique—recurring enigmatic touchstone with multiple meanings—and now Al Hess joins their ranks,  <a href="https://locusmag.com/2024/09/paul-di-filippo-reviews-key-lime-sky-by-al-hess/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/paul-di-filippo-reviews-key-lime-sky-by-al-hess/>
 

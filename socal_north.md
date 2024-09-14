@@ -1,11 +1,198 @@
 ---
 title: socal north
-updated: 2024-09-13 07:50:27
+updated: 2024-09-14 10:49:04
 ---
 
 # socal north
 
-(date: 2024-09-13 07:50:27)
+(date: 2024-09-14 10:49:04)
+
+---
+
+## Second take: Halloween amusement parks fall short of a thrilling experience
+
+date: 2024-09-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Though Halloween amusement parks promise a thrilling yet fearful escape, they often fall short, offering uninspired experiences that fail to satisfy the adrenaline cravings of horror enthusiasts. 
+
+<https://dailybruin.com/2024/09/13/second-take-halloween-amusement-parks-fall-short-of-a-thrilling-experience/>
+
+---
+
+## All Aboard: Port of Hueneme’s Security Training ‘Sets Sail’ for Safety
+
+date: 2024-09-13, from: Port Hueneme
+
+<p>The Port of Hueneme operations team hosts a training exercise with 37 attendees from multiple agencies as part of an effort to enhance Port security operations &#160; Download Press Release&#8230;</p>
+<p>The post <a href="https://www.portofhueneme.org/port-of-hueneme-partners-with-stax-engineering-breaking-waves-with-emissions-capture-and-control-project-2/">All Aboard: Port of Hueneme’s Security Training ‘Sets Sail’ for Safety</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
+ 
+
+<https://www.portofhueneme.org/port-of-hueneme-partners-with-stax-engineering-breaking-waves-with-emissions-capture-and-control-project-2/>
+
+---
+
+## California Proposition 2: Funding school facilities
+
+date: 2024-09-13, updated: 2024-09-13, from: The LAist
+
+Some California schools are falling apart. Voters will decide whether to fund renovations, repairs, and new construction. 
+
+<https://laist.com/news/politics/2024-election-california-general-proposition-2-bond-for-public-school-community-college-facilities>
+
+---
+
+## Album review: Miranda Lambert’s ‘Postcards From Texas’ blurs together in underwhelming result
+
+date: 2024-09-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Miranda Lambert tried to return to her Texas roots in her latest album and regrettably wandered down the wrong path.
+The country singer-songwriter and three-time Grammy winner released her 10th studio album &#8220;Postcards From Texas&#8221; on Friday. 
+
+<https://dailybruin.com/2024/09/13/album-review-miranda-lamberts-postcards-from-texas-blurs-together-in-underwhelming-result/>
+
+---
+
+## CSU Chancellor’s Office directive sparks concern about student and faculty freedoms
+
+date: 2024-09-13, from: The Sundail (CSUN Student Newspaper)
+
+At the end of last month, the California State University Chancellor’s Office implemented a Systemwide Time, Place and Manner Interim Policy that outlines prohibited activities on CSU campuses. This directive... 
+
+<https://sundial.csun.edu/184835/news/campus-news/csu-chancellors-office-directive-sparks-concern-about-student-and-faculty-freedoms/>
+
+---
+
+## Unearth Your Creativity: Imaginary Fossils Workshop at the 3rd Annual Business for Artists Conference
+
+date: 2024-09-13, from: City of Santa Clarita
+
+<p>Delve into Prehistoric Life in a Unique, Hands-On Experience! As part of the 3rd Annual Business for Artists Conference on Saturday, October 19, Judith Modrak will lead the Imaginary Fossils Sculpture Making Workshop. This dynamic session invites participants to journey back in time, drawing inspiration from ancient marine life such as trilobites, ammonites and brachiopods [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/13/unearth-your-creativity-imaginary-fossils-workshop-at-the-3rd-annual-business-for-artists-conference/">Unearth Your Creativity: Imaginary Fossils Workshop at the 3rd Annual Business for Artists Conference</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/13/unearth-your-creativity-imaginary-fossils-workshop-at-the-3rd-annual-business-for-artists-conference/>
+
+---
+
+## The Professors Who Live in Dorms
+
+date: 2024-09-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://prime.dailybruin.com/primefacultyinresidence>
+
+---
+
+## If it's mid-September, it must be Norm Day at LAUSD
+
+date: 2024-09-13, updated: 2024-09-13, from: The LAist
+
+Today was LAUSD’s long-observed, long-reviled tradition, “Norm Day.” And it might have consequences for your child’s classroom as teachers get moved around. 
+
+<https://laist.com/news/education/norm-day-lausd-2024-teachers-staff-shuffle>
+
+---
+
+## Hermanas Unidas Elevates Latinas
+
+date: 2024-09-13, from: The Sundail (CSUN Student Newspaper)
+
+Hermanas Unidas de CSUN is a nonprofit organization on campus that is dedicated to helping Latina students and providing a space for academics, networking, and community service. This is one... 
+
+<https://sundial.csun.edu/184824/arts-entertainment/hermanas-unidas-elevates-latinas/>
+
+---
+
+## CI Yacht Club Gala raises over $92K for Avalon
+
+date: 2024-09-13, from: Catalina Islander
+
+Yacht Club event held on 100th anniversary of club’s first dance For the Islander The Avalon Casino ballroom was transformed into a 1924 style dinner dance party in honor of the Catalina Island Yacht Club’s 100th anniversary. The Club’s original opening dinner dance was held on the fourth Saturday of August in1924 at the St. [&#8230;] 
+
+<https://thecatalinaislander.com/ci-yacht-club-gala-raises-over-92k-for-avalon/>
+
+---
+
+## Local stories at Museum in September
+
+date: 2024-09-13, from: Catalina Islander
+
+During the month of September, the Catalina Island Museum for Art and History is bringing back some annual events, as well as some local history. The Summer Documentary Series returns with the film about local residents Jani Eisenhunt and Jay Guion. The film tells the story of them and their families, along with their rich [&#8230;] 
+
+<https://thecatalinaislander.com/local-stories-at-museum-in-september/>
+
+---
+
+## “Nature’s Palette” in the First Floor Gallery at City Hall
+
+date: 2024-09-13, from: City of Santa Clarita
+
+<p>Delve into the Beauty, Intricacy and Profound Impact of Nature The City of Santa Clarita is excited to announce the opening of its latest art exhibition, &#8220;Nature&#8217;s Palette,&#8221; in the First Floor Gallery within Santa Clarita’s City Hall (23920 Valencia Boulevard). This showcase will run from Thursday, September 19, 2024, through Wednesday, January 8, 2025, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/13/natures-palette-in-the-first-floor-gallery-at-city-hall/">“Nature&#8217;s Palette&#8221; in the First Floor Gallery at City Hall</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/13/natures-palette-in-the-first-floor-gallery-at-city-hall/>
+
+---
+
+## A big catch on a Sea-Doo
+
+date: 2024-09-13, from: Catalina Islander
+
+Brett Esformes recently caught a 164-pound Marlin off the shore of Catalina, while fishing from a Sea-Doo personal watercraft. He took video of the event and has posted much of it on YouTube (Youtube@DiveBarMDR), documenting the challenge of hooking and hauling in the large fish (note: some adult language heard on the video). Not only [&#8230;] 
+
+<https://thecatalinaislander.com/a-big-catch-on-a-sea-doo/>
+
+---
+
+## Sheriff’s Log: Sept. 5 to Sept. 11, 2024
+
+date: 2024-09-13, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Sept. 5 to Sept. 11, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<https://thecatalinaislander.com/sheriffs-log-sept-5-to-sept-11-2024/>
+
+---
+
+## Avalon discusses street vendors
+
+date: 2024-09-13, from: Catalina Islander
+
+By Charles M. Kelly The council spent about two hours discussing whether to change Avalon’s sidewalk vendor ordinance. The council took no action. The issue will come back at a future date for further discussion. First, the background, then the discussion. Background “In 2019, over a series of 7 regular meetings of the City Council, [&#8230;] 
+
+<https://thecatalinaislander.com/avalon-discusses-street-vendors/>
+
+---
+
+## Beetlejuice Beetlejuice Review
+
+date: 2024-09-13, from: The Sundail (CSUN Student Newspaper)
+
+Tim Burton resurrects the bizarre world of “Beetlejuice” in his new sequel. The iconic original film has cultivated a deep fandom that continues to flourish, even after 36 years. Since... 
+
+<https://sundial.csun.edu/184813/arts-entertainment/entertainment/beetlejuice-beetlejuice-review/>
+
+---
+
+## OC’s $1 million Vietnam War memorial is unfinished — and embroiled in a fraud lawsuit
+
+date: 2024-09-13, updated: 2024-09-13, from: The LAist
+
+The nonprofit awarded the $1 million contract by Supervisor Andrew Do has already returned $150,000 to the county. We got documents, and asked builders and architects what they thought of the project mixed up in fraud allegations. 
+
+<https://laist.com/news/politics/orange-county-vietnam-war-memorial-andrew-do-viet-america-society>
+
+---
+
+## Weather continues to cool down for the weekend
+
+date: 2024-09-13, updated: 2024-09-13, from: The LAist
+
+It's starting to feel like fall! 
+
+<https://laist.com/news/climate-environment/air-quality-cool-weather-weekend>
 
 ---
 
@@ -43,7 +230,7 @@ We set out to track the money behind opposition mailers for Proposition 33 that 
 
 date: 2024-09-13, updated: 2024-09-13, from: The LAist
 
-In California, gas stoves may come with a health warning label. 
+The next time you shop for a cooking stove, the gas versions might show a health warning label similar to those on tobacco products. 
 
 <https://laist.com/news/climate-environment/gas-stoves-may-soon-come-with-a-tobacco-style-health-warning-label-in-california>
 
@@ -706,6 +893,18 @@ date: 2024-09-11, from: The Sundail (CSUN Student Newspaper)
 The University Student Union will host their annual Matador Nights event on Friday, Sept. 13 with an ‘80s theme. The event is free for all students to attend. Students can... 
 
 <https://sundial.csun.edu/184655/news/usu-to-host-matador-nights/>
+
+---
+
+## SR-14 Scoping Meeting Postponed Last Minute
+
+date: 2024-09-11, from: City of Santa Clarita
+
+<p>CalTrans Postpones State Route 14 Scoping Meetings, Further Delaying Improvements CalTrans, in partnership with the Los Angeles County Metropolitan Transportation Authority (Metro), planned on holding two scoping meetings to receive public input on enhancing the safety of State Route 14 (SR-14). However, less than a week before the first scoping meeting was to be held, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/11/sr-14-scoping-meeting-postponed-last-minute/">SR-14 Scoping Meeting Postponed Last Minute</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/11/sr-14-scoping-meeting-postponed-last-minute/>
 
 ---
 
@@ -1618,4 +1817,102 @@ Through his work, Suryansu Guha uplifts overlooked creativity in the film indust
 On July 31, the Film, Television and Digital Media PhD student was named the second-place winner of the Student Writing Award from The Society for Cinema Media Studies. 
 
 <https://dailybruin.com/2024/09/07/suryansu-guha-acknowledges-the-overlooked-workers-in-the-film-industry/>
+
+---
+
+## The Weekly Frame II: Symmetry
+
+date: 2024-09-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/09/07/the-weekly-frame-ii-symmetry/">The Weekly Frame II: Symmetry</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/07/the-weekly-frame-ii-symmetry/>
+
+---
+
+## EPA proposes Superfund designation of former Exide facility. How you can weigh in
+
+date: 2024-09-07, updated: 2024-09-08, from: The LAist
+
+A 60-day public comment period on the proposal is now open through Nov. 4 
+
+<https://laist.com/news/climate-environment/epa-proposes-superfund-designation-of-former-exide-facility-how-you-can-weigh-in>
+
+---
+
+## 3.5 and 3.9 magnitude quakes strike near Ontario, small aftershocks continue
+
+date: 2024-09-07, updated: 2024-09-07, from: The LAist
+
+The quakes hit about 30 minutes apart with the stronger one coming second. 
+
+<https://laist.com/news/climate-environment/ontario-earthquakes>
+
+---
+
+## The Green Revolution in Santa Clarita’s Energy Practices
+
+date: 2024-09-07, from: City of Santa Clarita
+
+<p>“Every time we use energy efficiently, we create a ripple effect that benefits the entire world.” — Peter Yewell You may have noticed that things look a little different around our City. Maybe you noticed the motion sensor lights at our parks, or the solar panels being installed in City parking lots. As a forward-thinking [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/07/the-green-revolution-in-santa-claritas-energy-practices/">The Green Revolution in Santa Clarita’s Energy Practices</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/07/the-green-revolution-in-santa-claritas-energy-practices/>
+
+---
+
+## It's 100 degrees this weekend. When will our misery end?
+
+date: 2024-09-07, updated: 2024-09-08, from: The LAist
+
+It's been so hot for so long, we've lost track of how many days of 100 degrees the region has endured — and the end won't come this weekend. 
+
+<https://laist.com/news/climate-environment/its-a-100-degrees-and-some-this-weekend-so-when-will-it-all-end>
+
+---
+
+## Men’s soccer falls to Cal State Fullerton in first loss of the season
+
+date: 2024-09-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Shades of 2023.
+After losing 4-1 last season, No. 6 UCLA men&#8217;s soccer (2-1-1) was defeated 3-1 by Cal State Fullerton (2-3) again Thursday night at Wallis Annenberg Stadium. 
+
+<https://dailybruin.com/2024/09/06/mens-soccer-falls-to-cal-state-fullerton-in-first-loss-of-the-season/>
+
+---
+
+## LAPD arrests suspect with gun, lifts perimeter on Orchard and Ellendale
+
+date: 2024-09-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Los Angeles Police Department arrested a suspect with a gun, an LAPD officer on the scene confirmed to the Daily Trojan.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/06/lapd-arrests-suspect-with-gun-lifts-perimeter-on-orchard-and-ellendale/">LAPD arrests suspect with gun, lifts perimeter on Orchard and Ellendale</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/06/lapd-arrests-suspect-with-gun-lifts-perimeter-on-orchard-and-ellendale/>
+
+---
+
+## Film Review: ‘Beetlejuice Beetlejuice’ follows the original with comedy and thrill
+
+date: 2024-09-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Much like the original, &#8220;Beetlejuice,&#8221; &#8220;Beetlejuice Beetlejuice&#8221; has got the juice.
+Director Tim Burton&#8217;s &#8220;Beetlejuice Beetlejuice&#8221; appeared in theaters Friday, resurrecting his ghoulish 1988 comedy classic &#8220;Beetlejuice&#8221; from its presumed death after 36 years. 
+
+<https://dailybruin.com/2024/09/06/film-review-beetlejuice-beetlejuice-follows-the-original-with-comedy-and-thrill/>
+
+---
+
+## North Trousdale entrance temporarily closed
+
+date: 2024-09-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/09/06/north-trousdale-entrance-temporarily-closed/">North Trousdale entrance temporarily closed</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/06/north-trousdale-entrance-temporarily-closed/>
 

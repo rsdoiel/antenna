@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2024-09-13 07:50:36
+updated: 2024-09-14 10:49:14
 ---
 
 # motorcycles
 
-(date: 2024-09-13 07:50:36)
+(date: 2024-09-14 10:49:14)
 
 ---
 
@@ -59,7 +59,7 @@ It’s ready to cause chaos no matter where it goes.
 
 ---
 
-## We Could Have Safer E-Bike Battery Standards, But Ted Cruz Says No
+## Ted Cruz Hates Safe E-Bikes, Is Clearly Paid by Big Fire
 
 date: 2024-09-13, from: Ride Apart, Electric Motorcycle News
 
@@ -386,4 +386,34 @@ date: 2024-09-08, from: Kickin the Tires blog
 Defending 250 SuperMotocross World Champion Haiden Deegan opens the Playoffs with a 1-1 moto finish in Charlotte. And Deegan still has his learning cap tight on his head. “(Those) were&#8230;  
 
 <https://kickinthetires.net/ama/supermotocross/haiden-deegan-opens-2024-smx-250-playoffs-with-1-1-sweep/>
+
+---
+
+## Unchartered Territory: 23XI Racing And Front Row Motorsports Decline To Sign NASCAR Charter Deal
+
+date: 2024-09-07, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor HAMPTON, Ga. – 23XI Racing made its opposition to NASCAR’s latest charter agreement offer very public – posting on social media that it “decided not to&#8230;  
+
+<https://kickinthetires.net/nascar/unchartered-territory-23xi-racing-and-front-row-motorsports-decline-to-sign-nascar-charter-deal/>
+
+---
+
+## McDowell Claims Atlanta Pole
+
+date: 2024-09-07, from: Kickin the Tires blog
+
+By Matt Courson, Staff Writer HAMPTON, Ga. — Michael McDowell claimed his fifth Busch Light Pole Award of the 2024 season Saturday at Atlanta Motor Speedway. &#8220;It&#8217;s a sign of&#8230;  
+
+<https://kickinthetires.net/nascar/cup/mcdowell-claims-atlanta-pole/>
+
+---
+
+## Drool Over This Ducati Watch, Just Don't Ask About the Price
+
+date: 2024-09-07, from: Ride Apart, Electric Motorcycle News
+
+It’s more expensive than a Panigale V4, and only 250 will ever be made.  
+
+<https://www.rideapart.com/news/732742/ducati-916-30th-anniversary-gerald-charles-watch/>
 

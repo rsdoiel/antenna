@@ -1,11 +1,227 @@
 ---
 title: going electric
-updated: 2024-09-13 07:50:38
+updated: 2024-09-14 10:49:15
 ---
 
 # going electric
 
-(date: 2024-09-13 07:50:38)
+(date: 2024-09-14 10:49:15)
+
+---
+
+## A 350-mile electricity transmission line in Nevada is now approved
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL2ZsNzE1MzA0NzY5NS1pbWFnZS5qcGc.webp?w=1024" /></div><p>The massive Greenlink West Transmission Project in Nevada got the final green light this week by the US Department of the Interior.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,electrical-grid,solar,grid,nevada,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="379872" href="https://electrek.co/2024/09/13/350-mile-electricity-transmission-line-nevada/#more-379872" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/350-mile-electricity-transmission-line-nevada/>
+
+---
+
+## Here are the EVs you can lease for under $300 a month this September [Updated]
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Honda-Prologue-lease-Civic.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With more options than ever, driving an <a href="https://electrek.co/guides/electric-cars/">electric vehicle</a> has never been more affordable. As new EVs hit the market, the lease deals are heating up. Here are all the EVs you can lease for under $300 a month this September.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles" data-layer-viewtype="unknown" data-post-id="378689" href="https://electrek.co/2024/09/13/evs-lease-under-300-month-september-updated/#more-378689" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/evs-lease-under-300-month-september-updated/>
+
+---
+
+## Toyota bZ3C leaked as new Prius-lookalike electric SUV in China
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Toyota-bZ3C-leaked.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new <a href="https://electrek.co/guides/toyota/">Toyota</a> electric crossover SUV is about to hit the world’s largest EV market. The Toyota bZ3C leaked in China on Friday, showing a familiar look. The new electric crossover SUV was developed with China’s leading EV maker, BYD.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="379870" href="https://electrek.co/2024/09/13/toyota-bz3c-leaked-new-prius-lookalike-electric-suv-china/#more-379870" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/toyota-bz3c-leaked-new-prius-lookalike-electric-suv-china/>
+
+---
+
+## Podcast: Tesla Robotaxi prototype spotted, Porsche Macan range, Lucid teases next-gen, and more
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss a Tesla Robotaxi prototype being spotted, the Porsche Macan range, Lucid teasing its next-gen, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Electrek_9-13-24.mp3"></audio></figure>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="379860" href="https://electrek.co/2024/09/13/podcast-tesla-robotaxi-prototype-spotted-porsche-macan-range-lucid-teases-next-gen-and-more/#more-379860" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/podcast-tesla-robotaxi-prototype-spotted-porsche-macan-range-lucid-teases-next-gen-and-more/>
+
+---
+
+## New Tesla Model 3 Blows Past EPA Estimate In Range Test
+
+date: 2024-09-13, from: Inside EVs News
+
+It also goes way, way further than the previous-generation Model 3. 
+
+<https://insideevs.com/news/733732/2024-tesla-model-3-awd-range-test/>
+
+---
+
+## The Hague is the first world city to ban fossil fuel ads by law
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/2015_0422_Plein_The_Hague-e1726254657942.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Hague, Netherlands’ third-largest city, has passed a local ordinance banning fossil fuel advertisements and ads for other highly-polluting services in the city, becoming the first city in the world to do so.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="fossil-fuels,netherlands" data-layer-viewtype="unknown" data-post-id="379869" href="https://electrek.co/2024/09/13/the-hague-is-the-first-world-city-to-ban-fossil-fuel-ads/#more-379869" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/the-hague-is-the-first-world-city-to-ban-fossil-fuel-ads/>
+
+---
+
+## RadExpand 5 e-bike $1,299, Greenworks CrossoverZ mower $4,500, Anker SOLIX bundles $2,500 off with free gift, more
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/rad-power-RadExpand-5-Folding-e-bike-new-FI-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Closing out this week’s Green Deals, we have new fall savings offers from Rad Power that has dropped the <a href="https://9to5toys.com/2024/09/13/add-utility-to-fall-commutes-with-rad-powers-radexpand-5-folding-e-bike-at-1299-save-300-more-from-499/">RadExpand 5 Folding e-bike to $1,299</a>, along with additional e-bike and battery discounts, as well as an accessory promotion on one of its newest micromobility models. We spotted the best deal yet of 2024 on <a href="https://9to5toys.com/2024/09/13/huge-deal-knocks-1000-off-greenworks-2-acre-80v-42-inch-electric-zero-turn-riding-mower-at-4500/">Greenworks’ CrossoverZ 80V Electric Riding Mower</a> that is down at <a href="https://9to5toys.com/2024/09/13/huge-deal-knocks-1000-off-greenworks-2-acre-80v-42-inch-electric-zero-turn-riding-mower-at-4500/">$4,500</a>. There’s also Anker’s latest sale that has two shorter-term bundle deals on the brand’s <a href="https://9to5toys.com/2024/09/13/anker-offers-nearly-2500-off-solix-solar-generator-bundles-with-free-everfrost-cooler-from-2699/">SOLIX F2000 and F3800 Power Stations</a> that also get a free EverFrost Cooler 40 included, as well as <a href="https://9to5toys.com/2024/09/12/travel-40-miles-on-hiboys-s2-max-electric-scooter-with-app-controlled-security-at-500-save-200-2024-low/">Hiboy’s 40-mile running S2 MAX Electric Scooter</a> that has returned to its <a href="https://9to5toys.com/2024/09/12/travel-40-miles-on-hiboys-s2-max-electric-scooter-with-app-controlled-security-at-500-save-200-2024-low/">2024 $500 low</a>. Plus, all the other hangover Green Deals that are still alive and well, like the $1,800 off deal on <a href="https://9to5toys.com/2024/09/11/score-1800-off-yamahas-crosscore-rc-e-bike-down-at-1199-with-free-1400-extra-battery/">Yamaha’s CrossCore RC e-bike</a> with a free extra battery, the first post-launch savings on <a href="https://9to5toys.com/2024/09/11/ankers-new-solix-c300-90000mah-dc-ac-power-bank-stations-get-first-post-launch-discounts-from-170/">Anker’s new SOLIX C300 90,000mAh power stations</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="379845" href="https://electrek.co/2024/09/13/radexpand-5-e-bike-greenworks-crossoverz-anker-solix-bundles-more/#more-379845" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/radexpand-5-e-bike-greenworks-crossoverz-anker-solix-bundles-more/>
+
+---
+
+## BYD is now the world’s largest automaker by R&D workforce after major hiring spree
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/BYD-largest-automaker-RD-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s <a href="https://electrek.co/guides/byd/">BYD</a> now has the world’s largest R&amp;D workforce of any automaker after its latest hiring spree. With over 900,000 employees, BYD aims to continue climbing the global sales charts as it advances new tech to promote longer-range, more affordable EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="379844" href="https://electrek.co/2024/09/13/byd-worlds-largest-automaker-rd-workforce/#more-379844" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/byd-worlds-largest-automaker-rd-workforce/>
+
+---
+
+## Tesla Model Y Prices Have 'Largest Year-Over-Year Drop'
+
+date: 2024-09-13, from: Inside EVs News
+
+Yet it's still a strong seller and has a ton of appeal, "even as used EVs are losing value and selling slower," one expert said. 
+
+<https://insideevs.com/news/733707/tesla-model-y-used-prices-dropping/>
+
+---
+
+## Virginia’s largest solar array on a school rooftop just came online
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Madison_Energy_Infrastructure_North_Stafford_High_School.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A 1.8-megawatt (MW) school rooftop solar array, the largest in Virginia, is now online – and the US needs to do a whole lot more of this.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="379834" href="https://electrek.co/2024/09/13/virginias-largest-solar-array-on-a-school-rooftop-just-came-online/#more-379834" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/virginias-largest-solar-array-on-a-school-rooftop-just-came-online/>
+
+---
+
+## Rivian's Decision Not To Copy Tesla's Homework Was 'Very Intentional'
+
+date: 2024-09-13, from: Inside EVs News
+
+CEO RJ Scaringe said that the automaker purposefully avoided copying Tesla's successful strategy to launch a mass-market EV. 
+
+<https://insideevs.com/news/733433/rj-scaringe-tesla-rivian-intentional/>
+
+---
+
+## This retro-futuristic Renault R17 EV restomod needs to go into production immediately [Video]
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Renault-EV-R17-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>French automaker <a href="https://electrek.co/?ep_filter_ninetofive_guides=renault&amp;s=renault">Renault </a>recently unveiled an all-electric restomod of its classic R17 model launched in 1971. Imagined through a collaboration with French designer Ora Ïto, this unique Renault EV is a home run blending of a classic past with the technology of the future, and it needs to go into production.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-conversion,renault,renault-r17" data-layer-viewtype="unknown" data-post-id="379807" href="https://electrek.co/2024/09/13/retro-futuristic-renault-r17-ev-restomod-needs-to-go-intro-production-immediately/#more-379807" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/retro-futuristic-renault-r17-ev-restomod-needs-to-go-intro-production-immediately/>
+
+---
+
+## Kia and Honda’s massive incentives spark a surge in EV registrations in July
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/EV-registrations-July-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Several EV models sold with over $10,000 in incentives in July, driving registrations up 18% from last year in the US. Kia’s <a href="https://electrek.co/guides/kia-ev9/">new EV9</a> was among the most heavily discounted, selling with over $19,700 in incentives. Other models, like the Honda Prologue and Volkswagen ID.4, were also heavily discounted, which helped spark growth.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda,honda-prologue,kia,kia-ev9" data-layer-viewtype="unknown" data-post-id="379801" href="https://electrek.co/2024/09/13/kia-hondas-huge-incentives-spark-surge-ev-registrations-july/#more-379801" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/kia-hondas-huge-incentives-spark-surge-ev-registrations-july/>
+
+---
+
+## Chinese electric car giant BYD’s electric scooter patents might mean cheaper e-motorbikes
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/bydhead.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>BYD is no stranger to seated electric scooters, having already joined a partnership leveraging its batteries for Singapore-based Scorpio’s high-performance electric scooters. But the carmaker might be interested in producing its own electric motorbikes in house, as revealed by new patent drawings.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="379586" href="https://electrek.co/2024/09/13/chinese-electric-car-giant-byds-electric-scooter-patents-might-mean-cheaper-e-motorbikes/#more-379586" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/chinese-electric-car-giant-byds-electric-scooter-patents-might-mean-cheaper-e-motorbikes/>
+
+---
+
+## Tesla is looking to sell its first virtual power plant
+
+date: 2024-09-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/09/Tesla-Virtual-power-plant-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In a surprising move, Tesla announced that it is looking to sell its very first virtual power plant, which is operating in South Australia.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="379805" href="https://electrek.co/2024/09/13/tesla-is-looking-to-sell-its-first-virtual-power-plant/#more-379805" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/13/tesla-is-looking-to-sell-its-first-virtual-power-plant/>
+
+---
+
+## Jeep Is Desperate For A Turnaround
+
+date: 2024-09-13, from: Inside EVs News
+
+Stellantis dealers are pissed about the automaker's failure to keep pace with the industry. Jeep's CEO has a plan to tackle that. 
+
+<https://insideevs.com/news/733693/jeep-is-desperate-for-a-turnaround/>
 
 ---
 
@@ -1638,4 +1854,104 @@ date: 2024-09-08, from: Electrek Feed
  <a data-layer-pagetype="post" data-layer-postcategory="ebikes,fire,talaria" data-layer-viewtype="unknown" data-post-id="378880" href="https://electrek.co/2024/09/07/in-first-ever-documented-case-talaria-electric-dirt-bike-goes-up-in-flames-in-us/#more-378880" class="more-link">more…</a> 
 
 <https://electrek.co/2024/09/07/in-first-ever-documented-case-talaria-electric-dirt-bike-goes-up-in-flames-in-us/>
+
+---
+
+## Automakers whine about €15B fine they knew they’d risk for pushing gas cars
+
+date: 2024-09-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/349255589_01bef0cea5_k-e1725742439218.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Renault CEO Luca de Meo said today that automakers collectively may need to pay ~€15B in fines if they miss 2025 emissions targets, as they’ve failed to ramp up efficient vehicle production in line with EU guidance – even as consumer EV demand continues to rise in Europe.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="co2-emissions,europe" data-layer-viewtype="unknown" data-post-id="378878" href="https://electrek.co/2024/09/07/automakers-whine-about-e15b-fine-they-knew-theyd-risk-for-pushing-gas-cars/#more-378878" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/07/automakers-whine-about-e15b-fine-they-knew-theyd-risk-for-pushing-gas-cars/>
+
+---
+
+## Maserati GranTurismo EV Review: Great To Drive, With Lousy Software
+
+date: 2024-09-07, from: Inside EVs News
+
+Out of Spec drives the $200,000 electric Maserati convertible.  
+
+<https://insideevs.com/news/732722/maserati-granturismo-ev/>
+
+---
+
+## Tesla reveals its wireless home EV charging station in patent filings
+
+date: 2024-09-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/06/Tesla-Wireless-charger-hero.jpg?quality=82&#038;strip=all&#038;w=1047" /></div><p>Several new patent applications have revealed Tesla’s upcoming wireless home EV charging station.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="378871" href="https://electrek.co/2024/09/07/tesla-reveals-wireless-home-ev-charging-station-patent-filings/#more-378871" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/07/tesla-reveals-wireless-home-ev-charging-station-patent-filings/>
+
+---
+
+## Mercedes Isn't Retreating From China. Its Doubling Down
+
+date: 2024-09-07, from: Inside EVs News
+
+The brand is investing $2 Billion into cars that are meant to take on China's homegrown EV startups.  
+
+<https://insideevs.com/news/732707/mercedes-benz-china-investment-2025/>
+
+---
+
+## Two Ford F-150 Lightning Owners Review Their Trucks: ‘Zero Issues In Two Years’
+
+date: 2024-09-07, from: Inside EVs News
+
+Two nearly identical 2022 F-150 Lightning EVs were driven for two years by two very different people. No maintenance was needed. 
+
+<https://insideevs.com/news/732681/ford-f150-lightning-two-owners-review-zero-issues/>
+
+---
+
+## Bollinger adds 20 West Coast dealers, TCD to its commercial EV sales network
+
+date: 2024-09-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/bollinger-b4-start-production.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s been a big week for Bollinger and its Class 4 commercial EVs as the upstart electric box truck brand picked up twenty new TEC dealers and scored a strategic solution partnership with Texas consulting firm, TCD.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bollinger-motors,commercial-evs,electric-trucks" data-layer-viewtype="unknown" data-post-id="378849" href="https://electrek.co/2024/09/07/bollinger-adds-20-west-coast-dealers-tcd-to-its-commercial-ev-sales-network/#more-378849" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/07/bollinger-adds-20-west-coast-dealers-tcd-to-its-commercial-ev-sales-network/>
+
+---
+
+## E-quipment highlight: Komatsu autonomous, electric, amphibious dozer
+
+date: 2024-09-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/amphibious_komatsu-2.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Co-developed by Japanese construction giant Komatsu and the Asunaro Aoki Construction Co., this autonomous electric dozer is built with the underwater construction jobs of the future in mind.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,electric-heavy-machinery,komatsu" data-layer-viewtype="unknown" data-post-id="378834" href="https://electrek.co/2024/09/07/e-quipment-highlight-komatsu-autonomous-electric-amphibious-dozer/#more-378834" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/07/e-quipment-highlight-komatsu-autonomous-electric-amphibious-dozer/>
+
+---
+
+## 1,070 hp, AWD electric Dodge Hornet R/T goes from 0-60 in 1.4 sec. (!)
+
+date: 2024-09-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/DodgeEntersNitrocross_Feature.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Packing four electric motors pushing more than 1,000 hp through all four of its Yokohama Advan racing tires, the new Dodge Hornet R/T FC1-X can blast from 0-60 in just 1.4 seconds!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dodge,motorsports" data-layer-viewtype="unknown" data-post-id="378813" href="https://electrek.co/2024/09/07/1070-hp-awd-electric-dodge-hornet-r-t-goes-from-0-60-in-1-4-sec/#more-378813" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/07/1070-hp-awd-electric-dodge-hornet-r-t-goes-from-0-60-in-1-4-sec/>
 

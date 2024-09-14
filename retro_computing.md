@@ -1,11 +1,21 @@
 ---
 title: retro computing
-updated: 2024-09-13 07:50:37
+updated: 2024-09-14 10:49:14
 ---
 
 # retro computing
 
-(date: 2024-09-13 07:50:37)
+(date: 2024-09-14 10:49:14)
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2024-09-13, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 14: The November Mutiny 
+
+<https://www.filfre.net/2024/09/this-week-on-the-analog-antiquarian/>
 
 ---
 
@@ -77,4 +87,14 @@ date: 2024-09-09, from: FreeDOS News
 <p><em>This is a test release based on the new Format 0.92. From the August 8 announcement:</em> Jeremy has published a new version of FreeDOS Format to fix several reported bugs, and merged a pull request adding 128KB cluster support. You can download the new version from <a class="" href="https://github.com/FDOS/format" rel="nofollow">FreeDOS Format</a> at GitHub.</p></div> 
 
 <https://sourceforge.net/p/freedos/news/2024/09/freedos-format-092a/>
+
+---
+
+## b.log 2024/09/07 - When tastes can be difficult, The new drain, Health and Safety GONE MAD!, What goes on in my head.
+
+date: 2024-09-07, from: Richard Murray's blog
+
+When tastes can be difficult, The new drain, Health and Safety GONE MAD!, What goes on in my head. 
+
+<https://heyrick.eu/blog/index.php?diary=20240907>
 
