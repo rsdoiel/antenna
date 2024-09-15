@@ -1,11 +1,111 @@
 ---
 title: pacific
-updated: 2024-09-15 09:27:58
+updated: 2024-09-15 10:48:48
 ---
 
 # pacific
 
-(date: 2024-09-15 09:27:58)
+(date: 2024-09-15 10:48:48)
+
+---
+
+## Amata chairs subcommittee oversight hearing examining COFA implementation
+
+date: 2024-09-15, updated: 2024-09-15, from: Marianas Variety
+
+WASHINGTON, D.C. (Office of the American Samoa Congressional Delegate) — U.S. Congresswoman Uifa’atali Amata on Tuesday led the Natural Resources Committee’s Subcommittee on Indian and Insular Affairs’ oversight hearing on the implementation of the Compacts of Free Association or COFA Amendments Act of 2024. (Video of the hearing is available at https://www.youtube.com/watch?v=Xh54aIvUQZw&amp;t=10s/) 
+
+<https://www.mvariety.com/news/regional_world/amata-chairs-subcommittee-oversight-hearing-examining-cofa-implementation/article_03433270-7326-11ef-aa42-d33140271c0d.html>
+
+---
+
+## BC’s Tales of the Pacific ǀ A good book about a hero and madman
+
+date: 2024-09-15, updated: 2024-09-15, from: Marianas Variety
+
+OCEAN rafting was popular during two eras of human history: in ancient times before man learned how to build ships and again in the 1950s when various scientists, anthropologists, heroes and crackpots felt they had something to prove. 
+
+<https://www.mvariety.com/views/columnists/bc-s-tales-of-the-pacific-a-good-book-about-a-hero-and-madman/article_819fedfc-7317-11ef-96db-7f4d7dc94e95.html>
+
+---
+
+## MLB roundup: White Sox end record home skid on walk-off HR
+
+date: 2024-09-15, updated: 2024-09-15, from: Marianas Variety
+
+(Reuters) —  Andrew Benintendi hit a walk-off homer as the Chicago White Sox halted their franchise-record home losing streak at 16 games with a 7-6 victory over the Oakland Athletics on Saturday. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-white-sox-end-record-home-skid-on-walk-off-hr/article_0feb75c6-7355-11ef-bd32-830b4f74bef6.html>
+
+---
+
+## Top 25 roundup: No. 1 Georgia avoids upset, nips Kentucky 13-12
+
+date: 2024-09-15, updated: 2024-09-15, from: Marianas Variety
+
+(Reuters) — Trevor Etienne ran for a team-high 79 yards on 19 carries, helping No. 1 Georgia eke out a 13-12 win over Kentucky on Saturday in Lexington, Ky. 
+
+<https://www.mvariety.com/sports/nationalsports/top-25-roundup-no-1-georgia-avoids-upset-nips-kentucky-13-12/article_6db8a28c-7355-11ef-ab5f-b7c85e313682.html>
+
+---
+
+## United States, Spain seal spots in Davis Cup Final 8
+
+date: 2024-09-15, updated: 2024-09-15, from: Marianas Variety
+
+(Reuters) — The United States made a return to the Davis Cup Final 8 after beating Slovakia 3-0 in Group C in Zuhai on Friday, while Spain also sealed their spot in the knockout stage. 
+
+<https://www.mvariety.com/sports/nationalsports/united-states-spain-seal-spots-in-davis-cup-final-8/article_e6279336-7355-11ef-bc49-3ff522ed0f05.html>
+
+---
+
+## PSS Cross Country draws over 450 students
+
+date: 2024-09-15, updated: 2024-09-15, from: Marianas Variety
+
+THE second qualifying run of the Public School System's Cross Country event drew over 450 students from elementary, middle and high schools in the CNMI. 
+
+<https://www.mvariety.com/sports/localsports/pss-cross-country-draws-over-450-students/article_4fb91a8c-733c-11ef-a49d-830bcce2599f.html>
+
+---
+
+## US surges to huge 6-2 lead over Europe at Solheim Cup
+
+date: 2024-09-15, updated: 2024-09-15, from: Marianas Variety
+
+(Reuters) — A U.S. team eager to end a seven-year Solheim Cup title drought enjoyed a dream start on the opening day on Friday in Virginia, taking a 6-2 lead over Europe behind the sensational play of Nelly Korda, Megan Khang, Rose Zhang and others. 
+
+<https://www.mvariety.com/sports/nationalsports/us-surges-to-huge-6-2-lead-over-europe-at-solheim-cup/article_588c669a-7356-11ef-a967-77f671bc31c9.html>
+
+---
+
+## Trump pledges to deport Haitians in Ohio city if elected
+
+date: 2024-09-15, updated: 2024-09-15, from: Marianas Variety
+
+RANCHO PALOS VERDES, California (Reuters) — Republican presidential candidate Donald Trump pledged on Friday to conduct mass deportations of Haitian immigrants from the Ohio city of Springfield, even though the majority of them are in the United States legally. 
+
+<https://www.mvariety.com/news/national/trump-pledges-to-deport-haitians-in-ohio-city-if-elected/article_9016ee7c-7357-11ef-8e04-4b55d9b9502e.html>
+
+---
+
+## US consumer sentiment climbs to four-month high; import prices drop
+
+date: 2024-09-15, updated: 2024-09-15, from: Marianas Variety
+
+WASHINGTON (Reuters) — U.S. consumer sentiment rose to a four-month high in September amid expectations that inflation will continue moderating over the next year and household incomes improve, but views on the labor market weakened against the backdrop of slower job gains. 
+
+<https://www.mvariety.com/business/business_news/us-consumer-sentiment-climbs-to-four-month-high-import-prices-drop/article_88eb0932-735a-11ef-b344-cb8cf0507d32.html>
+
+---
+
+## RB asks community to work together, remain vigilant
+
+date: 2024-09-15, updated: 2024-09-15, from: Marianas Variety
+
+SAIPAN Mayor RB Camacho calls upon community members to work together and be vigilant in light of recent criminal activities. 
+
+<https://www.mvariety.com/news/local/rb-asks-community-to-work-together-remain-vigilant/article_5968ad98-7343-11ef-b276-f320fd5a101e.html>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: food
-updated: 2024-09-15 09:28:08
+updated: 2024-09-15 10:48:58
 ---
 
 # food
 
-(date: 2024-09-15 09:28:08)
+(date: 2024-09-15 10:48:58)
 
 ---
 
@@ -59,6 +59,16 @@ Aji panca is a favorite for Peruvian cuisine, and with its berry-like smoky flav
 
 ---
 
+## Coffee Buying Recommendations From The Experts At Sprudge
+
+date: 2024-09-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. We get asked by friends and family where to buy coffee a lot. It&#8217;s a tough question! It&#8217;s easy to lose track of just how many incredible, fresh, vibrant coffees [&#8230;] 
+
+<https://sprudge.com/coffee-buying-recommendations-from-the-experts-at-sprudge-254948.html>
+
+---
+
 ## 50+ Late Summer Recipes
 
 date: 2024-09-15, from: Closet Cooking
@@ -103,6 +113,36 @@ According to a former barista, the best coffee grinder for espresso offers a nic
 
 ---
 
+## Chapman University Hosting Coffee and Milk RTD Workshop
+
+date: 2024-09-13, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/unmarked-can-620x414.jpg" class="attachment-large size-large wp-post-image" alt="unmarked can" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/unmarked-can-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/unmarked-can-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/unmarked-can-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/unmarked-can-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/unmarked-can.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Chapman University is hosting a two-day workshop this coming January at its Orange County, California, campus on &#8220;the science of RTD coffee with milk.&#8221; In collaboration with the California Dairy... 
+
+<https://dailycoffeenews.com/2024/09/13/chapman-university-hosting-coffee-and-milk-rtd-workshop/>
+
+---
+
+## We’re Looking For The Most Beautiful Home Coffee Bar In The World
+
+date: 2024-09-13, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Submissions are now open for the Best Home Coffee Design Of The Year category for the 2024 Sprudge Design Awards. 
+
+<https://sprudge.com/were-looking-for-the-most-beautiful-home-coffee-bar-in-the-world-254670.html>
+
+---
+
+## Weekly Coffee News: Approaching Development Stage + Juan Valdéz at Wrigley
+
+date: 2024-09-13, from: Daily Coffee News
+
+<div><img width="620" height="396" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Development-Stage-620x396.jpg" class="attachment-large size-large wp-post-image" alt="Screenshot" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Development-Stage-620x396.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Development-Stage-300x192.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Development-Stage-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Development-Stage-768x491.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Development-Stage.jpg 1104w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Single-Day Tickets Now Available for the Inaugural Development Stage... 
+
+<https://dailycoffeenews.com/2024/09/13/weekly-coffee-news-approaching-development-stage-juan-valdez-at-wrigley/>
+
+---
+
 ## Pineapple Habanero Salsa
 
 date: 2024-09-13, from: Pepper Scale
@@ -120,6 +160,16 @@ date: 2024-09-13, from: Pepper Scale
 We all have a heavy hand from time to time. But being heavy-handed with chili powder can quickly turn a dish from delicious to a devilish disaster. So if you’ve used too much chili powder, what can you do to save that meal from the ... <p class="read-more-container"><a title="Too Much Chili Powder? Here’s What To Do" class="read-more button" href="https://pepperscale.com/too-much-chili-powder/#more-5423" aria-label="Read more about Too Much Chili Powder? Here’s What To Do">Read more</a></p> 
 
 <https://pepperscale.com/too-much-chili-powder/>
+
+---
+
+## Keurig Fined $1.5 Million Over Questionable Claims About Recyclability
+
+date: 2024-09-13, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Two of the largest recycling companies in America “expressed significant concern” about K-Cups. 
+
+<https://sprudge.com/keurig-fined-1-5-million-over-questionable-claims-about-recyclability-254880.html>
 
 ---
 
@@ -299,6 +349,16 @@ Infused with richly flavored browned butter, these chocolate chip cookies are ch
 
 ---
 
+## LA Roaster Angelino’s Coffee is Buying the World’s Most Prized Coffees at All Costs
+
+date: 2024-09-12, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/NewFacility_QA-Lab-620x414.jpeg" class="attachment-large size-large wp-post-image" alt="NewFacility_QA Lab" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/NewFacility_QA-Lab-620x414.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/NewFacility_QA-Lab-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/NewFacility_QA-Lab-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/NewFacility_QA-Lab-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/NewFacility_QA-Lab.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In an unprecedented high-end buying spree, California roasting company Angelino&#8217;s Coffee has purchased all 11 top-scoring coffees from the 2024 Cup of Excellence (CoE) program. In the process, the 22-year-old... 
+
+<https://dailycoffeenews.com/2024/09/12/la-roaster-angelinos-coffee-is-buying-the-worlds-most-prized-coffees-at-all-costs/>
+
+---
+
 ## Blue Cheese Chicken Stuffed Mushrooms
 
 date: 2024-09-12, from: Taste of Home
@@ -336,6 +396,48 @@ date: 2024-09-12, from: Taste of Home
 Although they're a welcome sight on a garden leaf, you don't want a yellow ladybug (or several) getting into your house. 
 
 <https://www.tasteofhome.com/article/yellow-ladybug/>
+
+---
+
+## Build-Outs Of Coffee: Prevail Coffee In Atlanta, GA
+
+date: 2024-09-12, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Prevail Coffee in Atlanta, Georgia. 
+
+<https://sprudge.com/build-outs-of-coffee-prevail-coffee-in-atlanta-ga-254265.html>
+
+---
+
+## Design Details: The Croissant Curves of French Kitsch III in Thailand
+
+date: 2024-09-12, from: Daily Coffee News
+
+<div><img width="620" height="437" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/French-Kitsch-III-Thailand-9-620x437.jpg" class="attachment-large size-large wp-post-image" alt="French Kitsch III Thailand 9" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/French-Kitsch-III-Thailand-9-620x437.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/French-Kitsch-III-Thailand-9-300x211.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/French-Kitsch-III-Thailand-9-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/French-Kitsch-III-Thailand-9-768x541.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/French-Kitsch-III-Thailand-9.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+
+<https://dailycoffeenews.com/2024/09/12/design-details-the-croissant-curves-of-french-kitsch-iii-in-thailand/>
+
+---
+
+## Kevin O’Leary Has Truly Stupid Coffee Opinions
+
+date: 2024-09-12, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Kevin O'Leary is the worst. 
+
+<https://sprudge.com/kevin-oleary-has-truly-stupid-coffee-opinions-254673.html>
+
+---
+
+## A Peek Inside The Roasting Room From Buunni Coffee
+
+date: 2024-09-12, from: The Fresh Cup
+
+<p>Bunnii Coffee, which specializes in Ethiopian coffee beans and culture, announced the opening of The Roasting Room, a multi-purpose coffee space in the Bronx.</p>
+<p>The post <a href="https://freshcup.com/a-peek-inside-the-roasting-room-from-buunni-coffee/">A Peek Inside The Roasting Room From Buunni Coffee</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<https://freshcup.com/a-peek-inside-the-roasting-room-from-buunni-coffee/>
 
 ---
 
@@ -457,6 +559,16 @@ This apple juice recall affects apple juice sold nationwide at stores like Aldi,
 
 ---
 
+## Iconic Oregon Coffee Shop Chain Seeks $250K to Stay Afloat
+
+date: 2024-09-11, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Jim-and-Pattys-coffee-people-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Jim and Pattys coffee people" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Jim-and-Pattys-coffee-people-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Jim-and-Pattys-coffee-people-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Jim-and-Pattys-coffee-people-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Jim-and-Pattys-coffee-people-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Jim-and-Pattys-coffee-people.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The family behind two locations of the Portland, Oregon-area coffee shop chain Jim &#38; Patty&#8217;s Coffee People launched a $250,000 Gofundme campaign to save the business as it faces mounting... 
+
+<https://dailycoffeenews.com/2024/09/11/iconic-oregon-coffee-shop-chain-seeks-250k-to-stay-afloat/>
+
+---
+
 ## Dinner SOS: The Best New Restaurants Edition
 
 date: 2024-09-11, from: Bon Appetet
@@ -474,6 +586,28 @@ date: 2024-09-11, from: Bon Appetet
 Release the pressure of answering “What’s for dinner?” with these recipes for Instant Pot polenta, paprikash, pho, and more. 
 
 <https://www.bonappetit.com/gallery/best-instant-pot-recipes-ideas>
+
+---
+
+## The Boredom Set Excites Pittsburgh With Two Bars and a Roastery
+
+date: 2024-09-11, from: Daily Coffee News
+
+<div><img width="620" height="477" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/The-Boredom-Set-Heat-Check-1-620x477.jpg" class="attachment-large size-large wp-post-image" alt="The Boredom Set Heat Check" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/The-Boredom-Set-Heat-Check-1-620x477.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/The-Boredom-Set-Heat-Check-1-300x231.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/The-Boredom-Set-Heat-Check-1-150x115.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/The-Boredom-Set-Heat-Check-1-768x590.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/The-Boredom-Set-Heat-Check-1.jpg 1180w" sizes="(max-width: 620px) 100vw, 620px" /></div>An upstart roasting company called The Boredom Set is enthusiastically piquing the neurons of coffee drinkers in Pittsburgh, opening two coffee bars within the past month.&#160; In the quaint, mostly... 
+
+<https://dailycoffeenews.com/2024/09/11/the-boredom-set-excites-pittsburgh-with-two-bars-and-a-roastery/>
+
+---
+
+## New Workshop From The Coffee MBA To Provide Essential Coffee Business Insights
+
+date: 2024-09-11, from: The Fresh Cup
+
+<p>“Connect the Dots” will cover what leaders need to know to run coffee businesses, from marketing to finance and everything in between.</p>
+<p>The post <a href="https://freshcup.com/new-workshop-from-the-coffee-mba-to-provide-essential-coffee-business-insights/">New Workshop From The Coffee MBA To Provide Essential Coffee Business Insights</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<https://freshcup.com/new-workshop-from-the-coffee-mba-to-provide-essential-coffee-business-insights/>
 
 ---
 
@@ -523,6 +657,26 @@ There’s no one perfect knife—but we’ll help you find the best one for you.
 
 ---
 
+## Red Bay Coffee Files for Chapter 11 Bankruptcy in Oakland
+
+date: 2024-09-10, from: Daily Coffee News
+
+<div><img width="620" height="439" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Red-Bay-Coffee-headquarters-620x439.jpg" class="attachment-large size-large wp-post-image" alt="Red Bay Coffee headquarters" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Red-Bay-Coffee-headquarters-620x439.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Red-Bay-Coffee-headquarters-300x212.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Red-Bay-Coffee-headquarters-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Red-Bay-Coffee-headquarters-768x543.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Red-Bay-Coffee-headquarters.jpg 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>Oakland, California-based specialty coffee roaster and retailer Red Bay Coffee filed for Chapter 11 bankruptcy protection late last month, citing financial losses in the first half of 2024. The coffee... 
+
+<https://dailycoffeenews.com/2024/09/10/red-bay-coffee-files-for-chapter-11-bankruptcy-in-oakland/>
+
+---
+
+## The 2025 US Coffee Championships Regional Host Cities Have Been Announced
+
+date: 2024-09-10, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Seven cities will host at least one event during the 2025 season. 
+
+<https://sprudge.com/the-2025-us-coffee-championships-regional-host-cities-have-been-announced-254688.html>
+
+---
+
 ## Taste of Home Halloween Contest (#317) Official Rules
 
 date: 2024-09-10, from: Taste of Home
@@ -553,6 +707,36 @@ Chefs, politicians, and culinary icons celebrated emerging industry stars at an 
 
 ---
 
+## Keurig Charged with Deceptive Recyclability Claims, Pays $1.5 Million
+
+date: 2024-09-10, from: Daily Coffee News
+
+<div><img width="620" height="423" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/K-Cups-620x423.jpg" class="attachment-large size-large wp-post-image" alt="K-Cups" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/K-Cups-620x423.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/K-Cups-300x205.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/K-Cups-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/K-Cups-768x524.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/K-Cups.jpg 1367w" sizes="(max-width: 620px) 100vw, 620px" /></div>The United States Securities and Exchange Commission (SEC) today charged Keurig Dr. Pepper with making inaccurate statements regarding the recyclability of its single-use plastic K-Cups. To settle the charges, the... 
+
+<https://dailycoffeenews.com/2024/09/10/keurig-charged-with-deceptive-recyclability-claims-pays-1-5-million/>
+
+---
+
+## The Greatest Coffee Podcast Ever? From Terrazo To Terracotta On The Latest Coffee Sprudgecast
+
+date: 2024-09-10, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The fourth and final Coffee Buildcast of 2024. 
+
+<https://sprudge.com/the-greatest-coffee-podcast-ever-from-terrazo-to-terracotta-on-the-latest-coffee-sprudgecast-254477.html>
+
+---
+
+## Second International Coffee Convention Happening in Germany
+
+date: 2024-09-10, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/ICC-2023-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="ICC 2023 2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/ICC-2023-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/ICC-2023-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/ICC-2023-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/ICC-2023-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/ICC-2023-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The second International Coffee Convention (ICC) is coming to Mannheim, Germany, this October, with a wide-ranging program that includes experimental tastings, new research discoveries and multiple tracks for actors throughout... 
+
+<https://dailycoffeenews.com/2024/09/10/second-international-coffee-convention-happening-in-germany/>
+
+---
+
 ## The September Cook With Bon Appétit Box Makes Fall Meal Planning Easy
 
 date: 2024-09-10, from: Bon Appetet
@@ -560,6 +744,16 @@ date: 2024-09-10, from: Bon Appetet
 Recipes created by Bon Appétit editors, exclusive content, and specialty ingredients, all delivered straight to your kitchen. 
 
 <https://www.bonappetit.com/story/bon-appetit-box-2>
+
+---
+
+## Color Field Coffee Offers Fine Roasts and Broad Strokes in Maine
+
+date: 2024-09-10, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Color-Field-Coffee-Maine-3-620x414.jpeg" class="attachment-large size-large wp-post-image" alt="Color Field Coffee Maine 3" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Color-Field-Coffee-Maine-3-620x414.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Color-Field-Coffee-Maine-3-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Color-Field-Coffee-Maine-3-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Color-Field-Coffee-Maine-3-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Color-Field-Coffee-Maine-3.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A father-son pair of professional abstract painters in coastal Maine recently launched a roasting operation and attached coffee bar called Color Field Coffee. Located on family-owned land on the lush... 
+
+<https://dailycoffeenews.com/2024/09/10/color-field-coffee-offers-fine-roasts-and-broad-strokes-in-maine/>
 
 ---
 
@@ -610,6 +804,16 @@ date: 2024-09-10, from: Pepper Scale
 Ready to spice your typical Alfredo sauce up a notch? Adding in a little cayenne pepper powder is an excellent way to start, whether it&#8217;s Fettuccine Alfredo, chicken, or another concoction. Spicy Alfredo sauce can be that simple to make. But you don&#8217;t need to ... <p class="read-more-container"><a title="Spicy Alfredo Sauce" class="read-more button" href="https://pepperscale.com/spicy-alfredo-sauce/#more-6863" aria-label="Read more about Spicy Alfredo Sauce">Read more</a></p> 
 
 <https://pepperscale.com/spicy-alfredo-sauce/>
+
+---
+
+## Futurama Offers An Alternative History Of Coffee
+
+date: 2024-09-10, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The latest episode, titled “Planet Espresso,” was written by Bob Odenkirk. 
+
+<https://sprudge.com/futurama-offers-an-alternative-history-of-coffee-254514.html>
 
 ---
 
@@ -697,6 +901,16 @@ In an interview with Bon Appétit, the Colberts talk about the importance of hav
 
 ---
 
+## Inside The New UC Davis Coffee Center
+
+date: 2024-09-09, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Coffee Center at the University of California, Davis. 
+
+<https://sprudge.com/inside-the-new-uc-davis-coffee-center-248746.html>
+
+---
+
 ## Spicy Mango Chutney
 
 date: 2024-09-09, from: Pepper Scale
@@ -724,6 +938,16 @@ date: 2024-09-09, from: Bon Appetet
 From breakout barbecue in Lockhart, Texas, to Vietnamese drinking food with a Miami spin, these are the best new restaurants in the US. 
 
 <https://www.bonappetit.com/story/best-new-restaurants-2024>
+
+---
+
+## An Iced Tea With Espresso Sounds Delicious Actually
+
+date: 2024-09-09, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Ashotchu is the drink of the summer, even if it's about to be fall. 
+
+<https://sprudge.com/an-iced-tea-with-espresso-sounds-delicious-actually-254358.html>
 
 ---
 
@@ -824,6 +1048,18 @@ date: 2024-09-09, from: Bon Appetet
 Deeply savory with a slight sweetness from coconut water, this dish of seared salmon fillets in caramel sauce is weeknight-fancy cooking at its best. 
 
 <https://www.bonappetit.com/recipe/ca-kho-fish-with-coconut-caramel>
+
+---
+
+## Coffee News Club: Week of September 9th
+
+date: 2024-09-09, from: The Fresh Cup
+
+<p>Millennials are spending HOW MUCH on coffee? Scroll to find out. This and more: here's the news for the week of September 9. </p>
+<p>The post <a href="https://freshcup.com/coffee-news-club-week-of-september-9th/">Coffee News Club: Week of September 9th</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<https://freshcup.com/coffee-news-club-week-of-september-9th/>
 
 ---
 

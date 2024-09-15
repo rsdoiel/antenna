@@ -1,15 +1,15 @@
 ---
 title: socal north
-updated: 2024-09-15 09:27:56
+updated: 2024-09-15 10:48:46
 ---
 
 # socal north
 
-(date: 2024-09-15 09:27:56)
+(date: 2024-09-15 10:48:46)
 
 ---
 
-## This endangered kangaroo rat needs floods to survive. A new agreement aims to restore its SoCal habitat
+## This endangered kangaroo rat needs floods to survive. A new agreement may save it
 
 date: 2024-09-15, updated: 2024-09-15, from: The LAist
 

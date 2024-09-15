@@ -16,7 +16,7 @@ Collection                                Description of Posts                  
 [Columns](columns.html)                   Frequent Pocket additions                                          [columns.txt](columns.txt)
 [Retro Computing](retro_computing.html)   Computer history and systems                                       [retro_computing.txt](retro_computing.txt)
 [Libraries](libraries.html)               Libraries, Archives and Museums                                    [libraries.txt](libraries.txt)
-[Journalism](journalism.html)             Journalism and the 4th estate                                      [journalism.txt](journalism.txt)
+[Student Journalism](journalism.html)     Student Journalism and the 4th estate                              [journalism.txt](journalism.txt)
 [Motorcycles](motorcycles.html)           Electric motorcycle and related                                    [motorcycles.txt](motorcycles.txt)
 [Writing](writing.html)                   Writing and Writing Tools                                          [writing.txt](writing.txt)
 [Weather](weather.html)                   [NOAA's](https://noaa.gov) and [weather.gov](https://weather.gov)  [weather.txt](weather.txt)
