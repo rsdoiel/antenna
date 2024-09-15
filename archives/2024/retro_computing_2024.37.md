@@ -1,11 +1,61 @@
 ---
 title: retro computing
-updated: 2024-09-14 10:49:14
+updated: 2024-09-15 09:28:06
 ---
 
 # retro computing
 
-(date: 2024-09-14 10:49:14)
+(date: 2024-09-15 09:28:06)
+
+---
+
+## b.log 2024/09/14 - AI will be harmful, Mowing.
+
+date: 2024-09-14, from: Richard Murray's blog
+
+AI will be harmful, Mowing. 
+
+<https://heyrick.eu/blog/index.php?diary=20240914>
+
+---
+
+## Upgrading PowerMac G5 with 2 TB HDD
+
+date: 2024-09-14, from: Happy Macs site
+
+I recently pgraded my PowerMac G5 DP 2.3 GHz with a WD Blue 2 TB HDD (spinner, not SSD). I had not planned to post about it, but the results were impressive enough that I thought I should pass them on. Upgrading an HDD is a fairly low impact way to achieve significant performance improvements. [&#8230;] 
+
+<https://happymacs.wordpress.com/2024/09/14/upgrading-powermac-g5-with-2-tb-hdd/>
+
+---
+
+## G5, Sorbet Leopard and AquaFox – A Winning Combination
+
+date: 2024-09-14, from: Happy Macs site
+
+Post Body: In a recent post, I introduced AquaFox, a revived TenFourFox-based PPC web browser. In my initial testing of it, AquaFox looked very promising indeed and so I decided to put it to the ultimate test – accessing a banking web site. This may sound like a very ordinary task, but banking web sites [&#8230;] 
+
+<https://happymacs.wordpress.com/2024/09/14/g5-sorbet-leopard-and-aquafox-a-winning-combination/>
+
+---
+
+## Apps To Deploy on Sorbet Leopard
+
+date: 2024-09-14, from: Happy Macs site
+
+Previous posts have detailed how to install Sorbet Leopard and explained why it is superior to the base Leopard release itself. So, with Sorbet Leopard now installed and operational, what can you DO with it? Well, it turns out that you can do a LOT! The lineup of applications deployed on a machine reveals much [&#8230;] 
+
+<https://happymacs.wordpress.com/2024/09/14/apps-to-deploy-on-sorbet-leopard/>
+
+---
+
+## AquaFox, A Great New G3, G4, G5 Browser
+
+date: 2024-09-14, from: Happy Macs site
+
+In the 17 years since Apple stopped sales of the last PowerPC Macintoshes in favor of Intel equivalents, PowerMac enthusiasts have kept the platform alive with regular software updates, new apps and more. A classic example of this was TenFourFox, a G4/G5-targeted version of Mozilla Firefox. Cameron Kaiser kept TenFourFox current for a great many [&#8230;] 
+
+<https://happymacs.wordpress.com/2024/09/14/aquafox-a-new-g4-g5-browser/>
 
 ---
 
@@ -87,14 +137,4 @@ date: 2024-09-09, from: FreeDOS News
 <p><em>This is a test release based on the new Format 0.92. From the August 8 announcement:</em> Jeremy has published a new version of FreeDOS Format to fix several reported bugs, and merged a pull request adding 128KB cluster support. You can download the new version from <a class="" href="https://github.com/FDOS/format" rel="nofollow">FreeDOS Format</a> at GitHub.</p></div> 
 
 <https://sourceforge.net/p/freedos/news/2024/09/freedos-format-092a/>
-
----
-
-## b.log 2024/09/07 - When tastes can be difficult, The new drain, Health and Safety GONE MAD!, What goes on in my head.
-
-date: 2024-09-07, from: Richard Murray's blog
-
-When tastes can be difficult, The new drain, Health and Safety GONE MAD!, What goes on in my head. 
-
-<https://heyrick.eu/blog/index.php?diary=20240907>
 

@@ -1,11 +1,85 @@
 ---
 title: home
-updated: 2024-09-14 10:49:12
+updated: 2024-09-15 09:28:04
 ---
 
 # home
 
-(date: 2024-09-14 10:49:12)
+(date: 2024-09-15 09:28:04)
+
+---
+
+## When and How to Fertilize Succulents
+
+date: 2024-09-15, from: The Gardener's Path
+
+<p>Succulents are an outstanding choice for water-wise gardens. These tough, versatile plants typically thrive in arid conditions and lean soils, and require little care or attention from the gardener. But they’ll do even better with some careful feeding. Learn about how and when to fertilize succulents in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/fertilize-succulents/">When and How to Fertilize Succulents</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/succulents/fertilize-succulents/>
+
+---
+
+## 70 Types of Wildflowers with Pictures and Identification
+
+date: 2024-09-15, from: Yard Life blog
+
+<p>When exploring the vibrant landscapes of North America, you&#8217;ll encounter a fascinating array of wildflowers. The diverse types of wildflowers ... </p>
+<p class="read-more-container"><a title="70 Types of Wildflowers with Pictures and Identification" class="read-more button" href="https://ownyardlife.com/70-types-of-wildflowers-with-pictures-and-identification/#more-19261" aria-label="Read more about 70 Types of Wildflowers with Pictures and Identification">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/70-types-of-wildflowers-with-pictures-and-identification/">70 Types of Wildflowers with Pictures and Identification</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/70-types-of-wildflowers-with-pictures-and-identification/>
+
+---
+
+## 50 Snakes in Arkansas (Arkansas Snakes, Pictures, Identification)
+
+date: 2024-09-15, from: Yard Life blog
+
+<p>Snakes in Arkansas are a diverse and fascinating group of reptiles, reflecting the state&#8217;s varied habitats and climates. From the ... </p>
+<p class="read-more-container"><a title="50 Snakes in Arkansas (Arkansas Snakes, Pictures, Identification)" class="read-more button" href="https://ownyardlife.com/50-snakes-in-arkansas-arkansas-snakes-pictures-identification/#more-19223" aria-label="Read more about 50 Snakes in Arkansas (Arkansas Snakes, Pictures, Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/50-snakes-in-arkansas-arkansas-snakes-pictures-identification/">50 Snakes in Arkansas (Arkansas Snakes, Pictures, Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/50-snakes-in-arkansas-arkansas-snakes-pictures-identification/>
+
+---
+
+## In Honor of National Hispanic Heritage Month, Add These Books to Your ‘To Be Read’ Shelves
+
+date: 2024-09-15, from: Sunset Magazine - Living in the West
+
+Celebrate National Hispanic Heritage month by reading some books by Latinx authors. From fiction to an anthology, take a look at these recs. 
+
+<https://www.sunset.com/lifestyle/culture/new-books-by-latinx-authors>
+
+---
+
+## 72 California Spiders (Spiders in California, Pictures, Identification)
+
+date: 2024-09-14, from: Yard Life blog
+
+<p>California is home to a diverse array of spiders, with the state&#8217;s varied ecosystems providing ideal habitats for numerous species. ... </p>
+<p class="read-more-container"><a title="72 California Spiders (Spiders in California, Pictures, Identification)" class="read-more button" href="https://ownyardlife.com/72-california-spiders-spiders-in-california-pictures-identification/#more-19172" aria-label="Read more about 72 California Spiders (Spiders in California, Pictures, Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/72-california-spiders-spiders-in-california-pictures-identification/">72 California Spiders (Spiders in California, Pictures, Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/72-california-spiders-spiders-in-california-pictures-identification/>
+
+---
+
+## 12 Woodpeckers in Florida (Pictures and Identification)
+
+date: 2024-09-14, from: Yard Life blog
+
+<p>Woodpeckers in Florida are a remarkable feature of the state&#8217;s natural landscape, offering both beauty and ecological benefits. The array ... </p>
+<p class="read-more-container"><a title="12 Woodpeckers in Florida (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/12-woodpeckers-in-florida-pictures-and-identification/#more-19152" aria-label="Read more about 12 Woodpeckers in Florida (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/12-woodpeckers-in-florida-pictures-and-identification/">12 Woodpeckers in Florida (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/12-woodpeckers-in-florida-pictures-and-identification/>
 
 ---
 
@@ -1185,27 +1259,4 @@ date: 2024-09-08, from: The Gardener's Path
  
 
 <https://gardenerspath.com/plants/flowers/chrysanthemums-indoors/>
-
----
-
-## Boise Is Big. Here’s Where to Eat, Drink, and Stay According to a Local Brewer.
-
-date: 2024-09-07, from: Sunset Magazine - Living in the West
-
-A local brewer shares the high-low hits that the charming, rapidly growing city of Boise has to offer. Save this for your next trip. 
-
-<https://www.sunset.com/travel/insider-guides/boise-things-to-do>
-
----
-
-## 23 Types of Herons (Pictures and Identification)
-
-date: 2024-09-07, from: Yard Life blog
-
-<p>Herons are a diverse group of wading birds known for their distinctive long legs and necks, making them prominent figures ... </p>
-<p class="read-more-container"><a title="23 Types of Herons (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/23-types-of-herons-pictures-and-identification/#more-18994" aria-label="Read more about 23 Types of Herons (Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/23-types-of-herons-pictures-and-identification/">23 Types of Herons (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<https://ownyardlife.com/23-types-of-herons-pictures-and-identification/>
 

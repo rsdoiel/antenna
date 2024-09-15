@@ -1,11 +1,61 @@
 ---
 title: motorcycles
-updated: 2024-09-14 10:49:14
+updated: 2024-09-15 09:28:05
 ---
 
 # motorcycles
 
-(date: 2024-09-14 10:49:14)
+(date: 2024-09-15 09:28:05)
+
+---
+
+## Alpinestars’ Redefines Fast Fashion, but for the Better
+
+date: 2024-09-15, from: Ride Apart, Electric Motorcycle News
+
+I mean, come on, sneakers made exclusively from old MotoGP leathers. Who else is doing stuff like this? 
+
+<https://www.rideapart.com/news/733581/alpinestars-momentum-collection-fashion/>
+
+---
+
+## Two Mistakes Cost Jett Lawrence Championship Lead Heading Into Final Race
+
+date: 2024-09-15, from: Kickin the Tires blog
+
+FORT WORTH, Texas – A mistake in Moto 1 and a poorly timed start in Moto 2 kept Jett Lawrence from defending his win last weekend in Concord, N.C. Now,&#8230;  
+
+<https://kickinthetires.net/ama/supermotocross/two-mistakes-cost-jett-lawrence-championship-lead-heading-into-final-race/>
+
+---
+
+## Hunter Lawrence Wins Fort Worth, Holds SMX Championship Lead by One Point
+
+date: 2024-09-15, from: Kickin the Tires blog
+
+FORT WORTH, Texas – What happens in Vegas will cash out a $1 million check. In a record-setting $10 million purse for the 2024 SuperMotocross World Championship Finals Fueled by&#8230;  
+
+<https://kickinthetires.net/ama/supermotocross/hunter-lawrence-wins-fort-worth-holds-smx-championship-lead-by-one-point/>
+
+---
+
+## Phoenix Raceway hosts Blaney, NASCAR Championship Ignition Luncheon for new cause
+
+date: 2024-09-15, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer AVONDALE, Ariz. – The NASCAR Championship Ignition Luncheon made its annual return to Arizona, where Phoenix Raceway’s track president Latasha Causey chose to change up&#8230;  
+
+<https://kickinthetires.net/nascar/phoenix-raceway-hosts-blaney-nascar-championship-ignition-luncheon-for-new-cause/>
+
+---
+
+## Yamaha Might Be Killing Its MotoGP Engine, Will The R1's Engine Be Next
+
+date: 2024-09-14, from: Ride Apart, Electric Motorcycle News
+
+Is the street crossplane next? 
+
+<https://www.rideapart.com/news/733708/yamaha-crossplane-engine-motogp-death/>
 
 ---
 
@@ -386,34 +436,4 @@ date: 2024-09-08, from: Kickin the Tires blog
 Defending 250 SuperMotocross World Champion Haiden Deegan opens the Playoffs with a 1-1 moto finish in Charlotte. And Deegan still has his learning cap tight on his head. “(Those) were&#8230;  
 
 <https://kickinthetires.net/ama/supermotocross/haiden-deegan-opens-2024-smx-250-playoffs-with-1-1-sweep/>
-
----
-
-## Unchartered Territory: 23XI Racing And Front Row Motorsports Decline To Sign NASCAR Charter Deal
-
-date: 2024-09-07, from: Kickin the Tires blog
-
-By Jerry Jordan, Editor HAMPTON, Ga. – 23XI Racing made its opposition to NASCAR’s latest charter agreement offer very public – posting on social media that it “decided not to&#8230;  
-
-<https://kickinthetires.net/nascar/unchartered-territory-23xi-racing-and-front-row-motorsports-decline-to-sign-nascar-charter-deal/>
-
----
-
-## McDowell Claims Atlanta Pole
-
-date: 2024-09-07, from: Kickin the Tires blog
-
-By Matt Courson, Staff Writer HAMPTON, Ga. — Michael McDowell claimed his fifth Busch Light Pole Award of the 2024 season Saturday at Atlanta Motor Speedway. &#8220;It&#8217;s a sign of&#8230;  
-
-<https://kickinthetires.net/nascar/cup/mcdowell-claims-atlanta-pole/>
-
----
-
-## Drool Over This Ducati Watch, Just Don't Ask About the Price
-
-date: 2024-09-07, from: Ride Apart, Electric Motorcycle News
-
-It’s more expensive than a Panigale V4, and only 250 will ever be made.  
-
-<https://www.rideapart.com/news/732742/ducati-916-30th-anniversary-gerald-charles-watch/>
 

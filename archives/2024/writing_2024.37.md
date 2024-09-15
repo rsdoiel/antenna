@@ -1,11 +1,83 @@
 ---
 title: writing
-updated: 2024-09-14 10:49:10
+updated: 2024-09-15 09:28:02
 ---
 
 # writing
 
-(date: 2024-09-14 10:49:10)
+(date: 2024-09-15 09:28:02)
+
+---
+
+## Fusion Fragment, Diabolical Plots, and GigaNotoSaurus: Short Fiction Reviews by Charles Payseur
+
+date: 2024-09-15, from: Locus Magazine
+
+<p>Hexagon 6/24
+Fusion Fragment 6/24
+Diabolical Plots 6/24
+GigaNotoSaurus 6/24</p>
+<p>The latest issue of Hexagon is devoted to stories focused on climate change and climate resil­ience – people coming together to push back against the forces that have led to ecological and societal disaster and trying to walk humanity back from the brink of ruin. As in <strong>Madi Haab</strong>’s “<strong>Heat Devils</strong>”, which features brisk action as two  <a href="https://locusmag.com/2024/09/charles-payseur-reviews-short-fiction-fusion-fragment-diabolical-plots-and-giganotosaurus/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/charles-payseur-reviews-short-fiction-fusion-fragment-diabolical-plots-and-giganotosaurus/>
+
+---
+
+## People & Publishing Roundup, September 2024
+
+date: 2024-09-15, from: Locus Magazine
+
+<div></div>
+<div class="catheader"><strong>AWARDS</strong></div>
+
+<p><strong>REBECCA YARROS</strong>’s <strong>Fourth Wing </strong>(Red Tower) won in the International Book of the Year category at the TikTok Book Awards, held July 25, 2024 in London. Winners were voted on by the #BookTok community.</p>
+<p><strong>’PEMI AGUDA</strong>’s “Breastmilk” (One Story 5/27/21) is a finalist for the £10,000 Caine Prize for African Writing. The winner will be selected by a panel of judges and announced September 17, 2024.</p>
+<p><strong>KATHRYN </strong> <a href="https://locusmag.com/2024/09/people-publishing-roundup-september-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/people-publishing-roundup-september-2024/>
+
+---
+
+## 🧟 #217 - We're not using the "Z" word.
+
+date: 2024-09-14, from: Interesting, a blog on writing
+
+Do we know what kind of story we're in, and will it matter? 
+
+<https://inneresting.substack.com/p/217-were-not-using-the-z-word>
+
+---
+
+## Mouth by Puloma Ghosh: Review by Ian Mond
+
+date: 2024-09-14, from: Locus Magazine
+
+<p><strong>Mouth</strong>, Puloma Ghosh (Astra House 978-1-66260-247-4, $26.00, 224pp, hc) June 2024.</p>
+<p>Reading Puloma Ghosh’s debut collection, <strong>Mouth</strong>, brought me back to the pandemic and the months spent in lockdown. To be clear, not one of the eleven stories in the book takes place during or refers to COVID, but isolation and loneliness are so central to Ghosh’s work, her protagonist’s aching for intimacy, that my thoughts were cast  <a href="https://locusmag.com/2024/09/ian-mond-reviews-mouth-by-puloma-ghosh/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/ian-mond-reviews-mouth-by-puloma-ghosh/>
+
+---
+
+## The Top New SFF Books for the Week of 9/10/24
+
+date: 2024-09-14, from: Locus Magazine
+
+<p>You love to know what books are coming out right now? We&#8217;ve got you!</p>
+<p>Check out our weekly update for SF, fantasy, and horror books with Amelia over at our YouTube channel. Don&#8217;t forget to hit the thumb&#8217;s up and subscribe so you know when a new video goes up!</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2024/09/the-top-new-sff-books-for-the-week-of-9-10-24/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/09/the-top-new-sff-books-for-the-week-of-9-10-24/>
+
+---
+
+## Beetlejuice Beetlejuice: Sequel Magic or Missed Opportunity? A Movie Review by Erin Underwood
+
+date: 2024-09-14, from: Locus Magazine
+
+<p>Tim Burton returns to direct <strong>Beetlejuice 2</strong> (2024), also known as <strong>Beetlejuice Beetlejuice</strong>, in this wickedly wild sequel that takes on the 1988 classic, starring Michael Keaton, Winona Ryder, and Jenna Ortega. Since so many remakes and sequels this year have fallen flat, despite media buzz and excitement, it was easy to be skeptical about this film. Could it live up to the original? With Tim Burton, most of  <a href="https://locusmag.com/2024/09/beetlejuice-beetlejuice-sequel-magic-or-missed-opportunity-a-movie-review-by-erin-underwood/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/beetlejuice-beetlejuice-sequel-magic-or-missed-opportunity-a-movie-review-by-erin-underwood/>
 
 ---
 
@@ -319,26 +391,4 @@ date: 2024-09-08, from: Locus Magazine
 <p>Choice of Games published Benjamin Rosenbaum’s The Ghost and the Golem, a &#8220;450,000-word Jewish histori­cal fantasy interactive fiction,&#8221; in August 2024. Rosenbaum calls it &#8220;kind of a magnum opus,&#8221; and explains, &#8220;Unlike a game which is graphics and fight mechanics with some story crammed in here and there, these games are purely a bunch of fictional narrative words: you do make choices, but the output, after having made those choices,  <a href="https://locusmag.com/2024/09/rosenbaums-game/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/09/rosenbaums-game/>
-
----
-
-## Liz Bourke Reviews The Price of Redemption by Shawn Carpenter
-
-date: 2024-09-07, from: Locus Magazine
-
-<p><strong>The Price of Redemption</strong>, Shawn Carpenter (Saga 978-1-6680-3373-9, $18.99, 358pp, tp) July 2024.</p>
-<p><strong>The Price of Redemption </strong>is Shawn Carpen­ter’s debut novel. Inspired by the exploits of the British Royal Navy during during the French revolutionary wars, it sets its story in a different world to ours and adds magic to the mixture. As a fan of both fantasy and of the naval adventure story (though frequently through gritted  <a href="https://locusmag.com/2024/09/liz-bourke-reviews-the-price-of-redemption-by-shawn-carpenter/" class="read-more">...Read More </a></p> 
-
-<https://locusmag.com/2024/09/liz-bourke-reviews-the-price-of-redemption-by-shawn-carpenter/>
-
----
-
-## Paul Di Filippo Reviews Key Lime Sky by Al Hess
-
-date: 2024-09-07, from: Locus Magazine
-
-<p><strong>Key Lime Sky</strong>, Al Hess (Angry Robot 978-1915998125, trade paperback, 304pp, $18.99) August 2024</p>
-<p>It has been said that Irish fantasist Flann O’Brien had a penchant for involving the humble bicycle in his surreal fiction, until the vehicle became a kind of numinous totem or idiosyncratic symbol. A few other writers of fantasy have deployed such a technique—recurring enigmatic touchstone with multiple meanings—and now Al Hess joins their ranks,  <a href="https://locusmag.com/2024/09/paul-di-filippo-reviews-key-lime-sky-by-al-hess/" class="read-more">...Read More </a></p> 
-
-<https://locusmag.com/2024/09/paul-di-filippo-reviews-key-lime-sky-by-al-hess/>
 

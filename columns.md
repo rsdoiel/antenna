@@ -1,11 +1,307 @@
 ---
 title: columns
-updated: 2024-09-14 10:49:08
+updated: 2024-09-15 09:28:00
 ---
 
 # columns
 
-(date: 2024-09-14 10:49:08)
+(date: 2024-09-15 09:28:00)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-15, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/02/16/gaslight.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Something has changed in the twitterverse, it's grown new centers, for me, Bluesky, Mastodon, Threads and Twitter is still here, but I use it a lot less than I used to. Each of them acts as if they are alone, except for ActivityPub but that's more complicated than it may seem. As often is the case, the tech industry is depending on confusion. This may be a strategic mistake. I could cite a few examples where this didn't work, when an open ecosystem whose benefits were by then obvious to users, completely erased the ecosystem that came before, often with remarkable speed. Each of them is playing for all of it, wanting to control their users, make it so they only post to one system. And some people do. I think it's better if we, as users, remain diversified. 
+
+<http://scripting.com/2024/09/15.html#a155734>
+
+---
+
+## Ignore polls
+
+date: 2024-09-15, from: Dave Winer's Scripting News
+
+<p>You'll never see an article in the NYT saying how wrong polls have been in every presidential election because then they'd have to fire half their political reporters. </p>
+<p>If you want a better idea of how it's going, look at where the ad dollars are going, and where the candidates are campaigning. </p>
+<p>And make sure all your friends know that you're voting and who you're voting for. I think that makes a difference. </p>
+<p>I'm voting straight Democratic party line.</p>
+ 
+
+<http://scripting.com/2024/09/15/155121.html?title=ignorePolls>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-15, from: Dave Winer's Scripting News)
+
+I find that a lot of my posts on my blog are just like the tweets I post on Bluesky, Mastodon, Threads and Twitter. I used to have an icon in my outliner that tweeted the text of the bar cursor headline. 
+
+<http://scripting.com/2024/09/15.html#a141148>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-15, from: Dave Winer's Scripting News)
+
+If ChatGPT had a simple, non-AI scrapbook, like the old Mac OS had, where you could just throw something over your shoulder so you can find it later with a text search, that would make it a lot more useful for retaining practices that work. It's a shame to work something out, come up with the answer that worked, and then to have to do it all over again 23 months later when you encounter the same problem. 
+
+<http://scripting.com/2024/09/15.html#a140952>
+
+---
+
+## Michael Bublé
+
+date: 2024-09-15, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<https://steady.substack.com/p/michael-buble>
+
+---
+
+## Let’s bring back browsing
+
+date: 2024-09-15, from: Chris Heilmann's blog
+
+When the web started one of the best parts about it was the naming of things. To &#8220;surf the web&#8221; implied fun and adventure and to &#8220;browse&#8221; implied serendipity. And we seem to have lost that. Let&#8217;s go back. When I discovered the internet it was pretty much just taking off. I didn&#8217;t go to [&#8230;] 
+
+<https://christianheilmann.com/2024/09/15/lets-bring-back-browsing/>
+
+---
+
+## Caption contest: The news
+
+date: 2024-09-15, from: Robert Reich's blog
+
+And last week&#8217;s winner 
+
+<https://robertreich.substack.com/p/caption-contest-news>
+
+---
+
+## September 14, 2024
+
+date: 2024-09-15, from: Heather Cox Richardson blog
+
+Five years ago, on September 15, 2019, after about a six-week hiatus during the summer, I wrote a Facebook post that started: 
+
+<https://heathercoxrichardson.substack.com/p/september-14-2024>
+
+---
+
+## Hibiclens
+
+date: 2024-09-14, from: Dave Rupert blog
+
+<p>Every two-to-four years my body chemistry changes and my armpits start to reject my deodorant with an intense itch. All that aluminum has gunked up the works I guess. Usually cycling out deodorants works fine, but this time it didn’t work because my armpits were overpowering all the other deodorants.</p>
+<p>I tried a tactical reset and took the  “<a href="https://daverupert.com/2024/06/vibe-check-33/">No deodorant challenge</a>”, the legend –which I remember my hippie step-brother Nik telling me about thirty years ago– that if you stop using deodorant for two weeks the oils in your body naturally recalibrate and you stops smelling… but this urban legend very much did not work. I smelled horrible all the time.</p>
+<p>I casually mentioned this issue to my dermatologist and he was quick to recommend this homely teal bottle of over-the-counter 1970s logotype, <a href="https://hibiclens.com/">Hibiclens</a>.</p>
+<picture>
+  <source srcset="https://cdn.daverupert.com/posts/2024/hibiclens-landscape.png" media="(orientation: landscape)"></source>
+  <img src="https://cdn.daverupert.com/posts/2024/hibiclens.png" alt="A teal blue bottle of medicinal looking antiseptic cleaner">
+</picture>
+<p>I like to think the “hibi” part of Hibiclens stands for “hibiscus” because it’s a pink liquid (or foam) that you apply like soap and rinse off. It’s colored pink because it’s an anti-septic and hospitals like to color their liquids, but the reason it works –as my dermatologist explained– is that <a href="https://www.npr.org/sections/health-shots/2015/03/31/396573607/meet-the-bacteria-that-make-a-stink-in-your-pits">bacteria creates the odor in your armpits</a>. That was news to me. My prior understanding was that puberty causes teenagers to grow green stink lines that shoot out from their bodies. Guess the science there has evolved.</p>
+<p>I’m happy to report that Hibiclens works wonderfully and I’m pleased with the results. I don’t wear deodorant everyday anymore, my armpits aren’t irritated, and I only need to apply a squeeze of Hibiclens every three days or so (but even that timeline appears to be stretching out). I do sometimes wear deodorant when the stakes are high, but day-to-day working form home is <em>au naturale</em>. There’s a small satisfaction that the answer to my fragile-masculine deodorant FOR MEN problems is a pink liquid in a Tiffany blue teal bottle. Time will tell, however, if it really does solve my problems. I’ll follow up in two-to-four years to see if it still works.</p> 
+
+<https://daverupert.com/2024/09/hibiclens/>
+
+---
+
+## Dithering, and This Week’s Apple Event
+
+date: 2024-09-14, updated: 2024-09-14, from: Daring Fireball
+
+ 
+
+<https://dithering.fm/>
+
+---
+
+## September 13, 2024
+
+date: 2024-09-14, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-13-2024-631>
+
+---
+
+## Upcoming Speaking Engagements
+
+date: 2024-09-14, updated: 2024-09-14, from: Bruce Schneier blog
+
+<p>This is a current list of where and when I am scheduled to speak:</p>
+<ul>
+<li>I’m speaking at <a href="https://apwg.org/event/ecrime2024/">eCrime 2024</a> in Boston, Massachusetts, USA. The event runs from September 24 through 26, 2024, and my keynote is at 8:45 AM ET on the 24th.</li>
+<li>I’m briefly speaking at the <a href="https://epic.org/sept25/">EPIC Champion of Freedom Awards</a> in Washington, DC on September 25, 2024.</li>
+<li>I’m speaking at <a href="https://events.linuxfoundation.org/soss-fusion/">SOSS Fusion 2024</a> in Atlanta, Georgia, USA. The event will be held on October 22 and 23, 2024, and my talk is  at 9:15 AM ET on October 22, 2024.</li>
+</ul>
+<p>The list is maintained on <a href="https://www.schneier.com/events/">this page</a>.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/09/upcoming-speaking-engagements-40.html>
+
+---
+
+## The 14" K&M Krusher: Rock Dust on Demand
+
+date: 2024-09-14, updated: 2024-09-14, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<https://www.sevarg.net/2024/09/14/km-krusher-rock-dust-chain-flail/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-14, from: Dave Winer's Scripting News)
+
+BTW the <a href="https://en.wikipedia.org/wiki/MetaWeblog">Wikipedia page</a> for the MetaWeblog positions it as a replacement for the Blogger API, but it's an extension of it. You could use MetaWeblog to publish to Blogger sites, but it also supported features that Blogger didn't have, that were in our blogging software, Manila. 
+
+<http://scripting.com/2024/09/14.html#a141548>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-14, from: Dave Winer's Scripting News)
+
+Could we agree that ChatGPT can ingest everything that's in Wikipedia? I particularly want the images. I'd like to ask for a picture of <a href="https://en.wikipedia.org/wiki/Chuck_Berry">Chuck Berry</a>, and get something nice and be able to put him in a scene with the <a href="https://www.google.com/search?q=site%3Ascripting.com+%22wordle+kitty%22">Wordle Kitty</a>. That seems pretty harmless. And the news industry could hardly object, they didn't invent Chuck Berry, or own the copyright of the picture of him in Wikipedia. 
+
+<http://scripting.com/2024/09/14.html#a141042>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-14, from: Dave Winer's Scripting News)
+
+I'm searching for some common ground between the twitter-like systems, a basis for interop, a common API even. We had that for the blogging layer of this onion, something called the <a href="https://xmlrpc.com/metaweblog">MetaWeblog API</a>.  All the popular blogging software supported it. And that meant you could write once and publish to many places. And you could write the script that did that in an afternoon or two. We started out with simple systems and the best of intentions. There's no technical barrier. And we could do it in a few weeks at most if there was a will to do it 
+
+<http://scripting.com/2024/09/14.html#a140503>
+
+---
+
+## Hecklers
+
+date: 2024-09-14, from: Dave Winer's Scripting News
+
+<p><a href="https://www.threads.net/@davew/post/C_5i0bLpwNe">Hecklers</a> at last night's rally in Greensboro, couldn't hear what they were angry about, but it had something to do with Gaza.</p>
+<p>The US isn't doing the killing there, the issue is with Netanyahu who is part of the same political party as Trump. So you can be pretty sure the killing won't stop there at least until after our election. One way to be sure the killing continues is to elect Trump.</p>
+ 
+
+<http://scripting.com/2024/09/14/140401.html?title=hecklers>
+
+---
+
+## It's good to laugh
+
+date: 2024-09-14, from: Dave Winer's Scripting News
+
+<p>It's wonderful that we're laughing at Trump now.</p>
+<p>What a joke to think that after all he took us through, there are 47% of the people in the country who want more of that! </p>
+<p>OMG we must be crazy. What else are you going to do but laugh. </p>
+ 
+
+<http://scripting.com/2024/09/14/140115.html?title=itsGoodToLaugh>
+
+---
+
+## 2024-08-25 GoToSocial problems
+
+date: 2024-09-14, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-25-gotosocial-problems">2024-08-25 GoToSocial problems</h1>
+
+<p>So you&rsquo;re considering self-hosting? You heard good things about <a href="https://github.com/superseriousbusiness/gotosocial">GoToSocial</a>? I like it. I use it. This post is about the problems you should be expecting at the moment.</p>
+
+<p>It&rsquo;s not surprising, after all. This is a very prominent sentence in their README:</p>
+
+<blockquote>
+<p>GoToSocial is still ALPHA SOFTWARE.</p>
+</blockquote>
+
+<p>But what are the exact problems? Sometimes alpha software is good enough, right?</p>
+
+<p><a class="tag" href="/search/?q=%23Social_Media">#Social Media</a> <a class="tag" href="/search/?q=%23GoToSocial">#GoToSocial</a></p>
+
+<h2 id="major-annoyances">Major annoyances</h2>
+
+<p><strong>No post editing</strong>. I hope you can handle your own typos. All you have is &ldquo;Delete and Redraft&rdquo;. But that orphans all replies, undoes all boosts, forgets all likes and removes posts from bookmarks. &ldquo;Delete and Redraft&rdquo; is a sledge hammer. &ldquo;Edit post&rdquo; is a delicate quill. And you don&rsquo;t get to have it. YOLO! (You only live once.)</p>
+
+<p><strong>No filtering</strong>. You can mute and block and all that, but when everybody is posting about Monsterdon, the European Song Contest, the US elections, Caturday or Wordle, you can&rsquo;t filter those hashtags. You must endure the enthusiasm of the people you are following. (I think the developers are implementing things, but it does not seem to have an effect in the front-ends I use, so who knows.)</p>
+
+<p><strong>Limited federation</strong>. This one is hard to spot. You want to follow this account and that account and it all seems to work until you go back and find that for one account, your follow request seems to hang in limbo, waiting. You cancel, and follow again. It seems to work. Come back later, back in limbo again, waiting. If you check the log, you&rsquo;ll find errors about signatures failing and what not. I have no idea. There are currently <a href="https://github.com/superseriousbusiness/gotosocial/issues?q=is%3Aissue+is%3Aopen+signature">8 open issues containing the word &lsquo;signature&rsquo;</a>. Something is not working and you&rsquo;ll have to have an alt (a separate account) on a different server that doesn&rsquo;t have this issue. That makes me sad. 😥</p>
+
+<h2 id="minor-annoyances">Minor annoyances</h2>
+
+<p><strong>No automatic post expiry</strong>. And you cannot use <a href="https://src.alexschroeder.ch/mastodon-archive.git/">Mastodon Archive</a> because of some version number check the Python Mastodon library refuses to work.</p>
+
+<h2 id="no-problem">No problem</h2>
+
+<p><strong>No front-end</strong>. There is no front-end. I use apps like <a href="https://mastodon.social/@tootapp">Toot!</a> on my phone and <a href="https://semaphore.social/">Semaphore</a> on the web. I don&rsquo;t need anything fancy. And for the non-fancy options, I have <a href="https://codeberg.org/martianh/mastodon.el">mastodon.el</a> for Emacs, <a href="https://github.com/ihabunek/toot">toot</a> for the command-line, <a href="https://tuba.geopjr.dev/">tuba</a> for Gnome, <a href="https://src.alexschroeder.ch/bitlbee-mastodon.git/">bitlbee-mastodon</a> for IRC, and so on. There are plenty of options.</p>
+
+<h2 id="the-good-stuff">The good stuff</h2>
+
+<p><strong>Markdown</strong> in your posts. I like my code blocks.</p>
+
+<p><strong>SQLite</strong> on the server. It&rsquo;s currently 8.4G. The media stuff is 11G.</p>
+
+<p><strong>Memory footprint</strong>. I use Monit to monitor processes and this process uses 185.6 MB.</p>
+
+<p><strong>No admin</strong>. I haven&rsquo;t had to run any administration task. Not once. ❤️</p>
+
+<p><strong>2024-09-14</strong>. <a class="account" href="https://hey.hagelb.org/@technomancy" title="@technomancy@hey.hagelb.org">@technomancy</a> wrote about his GoToSocial setup:</p>
+
+<blockquote>
+<p>So what&rsquo;s it like to set up your own GotoSocial server? Well, I can walk you thru what I used for my setup. Yours might be different; that&rsquo;s OK! I made these up-front choices to simplify the operational overhead because I didn&rsquo;t want this to be a hassle and I don&rsquo;t need the extra engineering that comes from trying for nine nines of uptime … It&rsquo;s fine. – <a href="https://technomancy.us/201">in which social media can be put in your own hands</a></p>
+</blockquote> 
+
+<https://alexschroeder.ch/view/2024-08-25-gotosocial>
+
+---
+
+## The Trump Wreck: The Coffee Klatch for September 14, 2024
+
+date: 2024-09-14, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly 
+
+<https://robertreich.substack.com/p/trumps-in-trouble-the-coffee-klatch>
+
+---
+
+## September 13, 2024 
+
+date: 2024-09-14, from: Heather Cox Richardson blog
+
+After bomb threats today, officials had to evacuate two elementary schools in Springfield, Ohio, and move the students to a different location. 
+
+<https://heathercoxrichardson.substack.com/p/september-13-2024>
+
+---
+
+## History Extra for September 13, 2024
+
+date: 2024-09-14, from: Heather Cox Richardson blog
+
+Americans began to use the term &#8220;Bourbon Democrat&#8221; in 1871 to represent those white men standing against the rights of the Black workers white southerners claimed were radical revolutionaries. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-september-13-2024>
+
+---
+
+## Getting accommodations at work shouldn’t be so hard
+
+date: 2024-09-14, from: Tracy Durnell Blog
+
+via Universal design for work? by Meredith Farkas Unfortunately, [the ADA accommodation process is] also a dehumanizing process. This was definitely my experience with the ADA accommodations process, the stress of which then exacerbated my issues. Admitting to having needs and asking for help is hard enough without enduring intrusive self-justification. If I hadn&#8217;t already [&#8230;] 
+
+<https://tracydurnell.com/2024/09/13/getting-accommodations-at-work-shouldnt-be-so-hard/>
+
+---
+
+## Weeknotes: Sept. 7-13, 2024
+
+date: 2024-09-14, from: Tracy Durnell Blog
+
+Win of the week: signed the contract for a new job 🙌 Looking forward to: bookstore adventure day with friends Stuff I did: 9.5 hours consulting 1.75 hours business development / admin 45 minutes writing &#8212; my hand is still bothering me so I have remapped my keyboard to swap the left control key with my [&#8230;] 
+
+<https://tracydurnell.com/2024/09/13/weeknotes-sept-7-13-2024/>
 
 ---
 
@@ -1374,7 +1670,7 @@ date: 2024-09-09, updated: 2024-09-09, from: Liam Proven's articles at the Regis
 
 ## Australia Threatens to Force Companies to Break Encryption
 
-date: 2024-09-09, updated: 2024-09-09, from: Bruce Schneier blog
+date: 2024-09-09, updated: 2024-09-15, from: Bruce Schneier blog
 
 <p>In 2018, Australia passed the Assistance and Access Act, which&#8212;among other things&#8212;gave the government the <a href="https://www.upguard.com/blog/australias-assistance-and-access-act">power</a> to force companies to break their own encryption.</p>
 <blockquote><p>The Assistance and Access Act includes key components that outline investigatory powers between government and industry. These components include:</p>
@@ -1517,123 +1813,4 @@ date: 2024-09-08, from: Tracy Durnell Blog
 Supplements are a Rising Cause of Liver Failure by Dr. Jen Gunther &#8230;the risk of supplement-related liver injury and liver injury severe enough that liver transplantation is needed has increased dramatically over the past 20 years. Some estimates suggest supplements may cause up to 43% of drug-induced liver injury in the United States and 19% [&#8230;] 
 
 <https://tracydurnell.com/2024/09/07/whats-in-your-pills/>
-
----
-
-## September 6, 2024
-
-date: 2024-09-07, from: Heather Cox Richardson blog
-
- 
-
-<https://heathercoxrichardson.substack.com/p/september-6-2024-9fc>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-09-07, from: Dave Winer's Scripting News)
-
-Do you think you've ever had an online chat with an AI impersonating a human without you knowing? Have you had such an experience with someone you know? If no, when do you think you will have such a conversation? Would you mind if a friend used an AI to front for them, so they could do other things while they were "chatting" with you? Would you be liable for anything your avatar did or said? 
-
-<http://scripting.com/2024/09/07.html#a152059>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-09-07, from: Dave Winer's Scripting News)
-
-Also, <a href="https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall">when the Berlin Wall came down</a> there were no blogs or podcasts. We got what we were given by the news networks and NYT and WSJ. 
-
-<http://scripting.com/2024/09/07.html#a144247>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-09-07, from: Dave Winer's Scripting News)
-
-It's a fascinating moment, somewhat like when the Berlin Wall came down. When it happened, we were all in kind of a daze. That wall had been there my entire life. No one knew, for many years, what its disappearance would mean. Same with the wall betw the Democratic and Republican parties. It was still the same US when one or the other was in power, there were constants that didn't change. There was an agreement that politics ends at the border. But now, are there two parties? What became of the one we call Republican? 
-
-<http://scripting.com/2024/09/07.html#a144133>
-
----
-
-## Jony Made a Button
-
-date: 2024-09-07, from: Om Malik blog
-
-TLDR: Jony Ive&#8217;s design agency LoveFrom has reimagined the humble button for Moncler, once again proving that for Sir Jony, everything is up for reinterpretation. It&#8217;s a reminder that innovation often lies in refining the familiar, not just inventing the new. Source: Jony Ive’s LoveFrom Reinvents a Button With Moncler Key Points: Moncler is a &#8230; 
-
-<https://om.co/2024/09/07/jony-made-a-button/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-09-07, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/09/07/ipod.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The next in the series of <a href="https://shownotes.scripting.com/podcast0/2024/09/07/furtherDrivingInCanadaHeadingWest.html">podcasts from 2004</a>. This one was done driving from Banff to Kelowna, on the way to Seattle. 
-
-<http://scripting.com/2024/09/07.html#a141701>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-09-07, from: Dave Winer's Scripting News)
-
-I found a bug in <a href="https://github.com/scripting/opmlPackage/blob/main/worknotes.md#9724-95957-am-by-dw">opml.visitAll</a> in the OPML package I use in various software including Drummer and FeedLand. Had to fix it, even though there's a slight chance of breakage. 
-
-<http://scripting.com/2024/09/07.html#a140727>
-
----
-
-## Kunai Corne V3
-
-date: 2024-09-07, from: mrusme blog
-
-This is a follow-up build log on the [Corne V3](/corne-v3/) post, in which I
-finalize the Kunai case. 
-
-<https://xn--gckvb8fzb.com/kunai-corne-v3/>
-
----
-
-**@John's World Wide Wall Display** (date: 2024-09-07, from: John's World Wide Wall Display)
-
-things to consider 
-
-<https://johnjohnston.info/blog/bookmark-how-can-i-help-autistic-pupils-develop-more-independence-in-learning-tasks/>
-
----
-
-## The Upcoming Great Debate: The Coffee Klatch | September 7, 2024
-
-date: 2024-09-07, from: Robert Reich's blog
-
-With Heather Lofthouse and Yours Truly 
-
-<https://robertreich.substack.com/p/the-upcoming-great-debate-the-coffee>
-
----
-
-## Weeknotes: Aug. 31-Sept. 6, 2024
-
-date: 2024-09-07, from: Tracy Durnell Blog
-
-Win of the week: just waiting on the DocuSign for a new project! Going to be helping a city communicate new construction &#38; demolition waste reporting requirements to developers  Looking forward to: fall food! (I made oatmeal this morning even though it got up to 88F 😄) Stuff I did: 5.75 hours writing &#8212; alas, I [&#8230;] 
-
-<https://tracydurnell.com/2024/09/06/weeknotes-aug-31-sept-6-2024/>
-
----
-
-## September 6, 2024 
-
-date: 2024-09-07, from: Heather Cox Richardson blog
-
-One of the things that came to light on Wednesday, in the paperwork the Justice Department unveiled to explain its seizure of 32 internet domains being used by Russian agents in foreign malign influence campaigns, was that the six right-wing U.S. 
-
-<https://heathercoxrichardson.substack.com/p/september-6-2024>
-
----
-
-## Election Countdown, 59 Days to Go: Nippon Steel vs. the Electoral College.
-
-date: 2024-09-07, from: James Fallows, Substack
-
-Why is Joe Biden preparing to block the sale of US Steel? For 19 reasons: Pennsylvania's 19 electoral votes. That logic may be irrefutable in an election year. But it has real costs. 
-
-<https://fallows.substack.com/p/election-countdown-59-days-to-go>
 

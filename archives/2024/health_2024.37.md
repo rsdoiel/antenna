@@ -1,11 +1,23 @@
 ---
 title: health
-updated: 2024-09-14 10:49:15
+updated: 2024-09-15 09:28:07
 ---
 
 # health
 
-(date: 2024-09-14 10:49:15)
+(date: 2024-09-15 09:28:07)
+
+---
+
+## Can Stress Cause Kidney Stones?
+
+date: 2024-09-14, from: The Kidney Dietitian
+
+<p>Your emotional health is equally important to your physical health. The &#8220;mind-body&#8221; connection doesn&#8217;t get as much credit as it should. Stress is rampant in our lives and contributes to a host of health conditions, including kidney stones. As you may already know, stress can also impact your eating habits. Whether you find yourself drinking [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/kidney-stones-and-stress/">Can Stress Cause Kidney Stones?</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<https://www.thekidneydietitian.org/kidney-stones-and-stress/>
 
 ---
 

@@ -1,11 +1,85 @@
 ---
 title: food
-updated: 2024-09-14 10:49:16
+updated: 2024-09-15 09:28:08
 ---
 
 # food
 
-(date: 2024-09-14 10:49:16)
+(date: 2024-09-15 09:28:08)
+
+---
+
+## Saving Pepper Seeds: What You Need To Know
+
+date: 2024-09-15, from: Pepper Scale
+
+Saving pepper seeds is straightforward in principle — leave a pepper on the tree until it gets very ripe. Once it ripens, you cut it open and store the seeds until you are ready to plant again. Simple, right? The truth is that, while it&#8217;s ... <p class="read-more-container"><a title="Saving Pepper Seeds: What You Need To Know" class="read-more button" href="https://pepperscale.com/saving-pepper-seeds/#more-56653" aria-label="Read more about Saving Pepper Seeds: What You Need To Know">Read more</a></p> 
+
+<https://pepperscale.com/saving-pepper-seeds/>
+
+---
+
+## Pico De Gallo Powder
+
+date: 2024-09-15, from: Pepper Scale
+
+Pico de gallo powder is a quick way to add a salty fire to your favorite salsa, whether a tomato-based pico de gallo or your favorite tropical fruit salsa. The heat comes in many forms, from a little simmer of sweet paprika to a more ... <p class="read-more-container"><a title="Pico De Gallo Powder" class="read-more button" href="https://pepperscale.com/pico-de-gallo-powder/#more-16551" aria-label="Read more about Pico De Gallo Powder">Read more</a></p> 
+
+<https://pepperscale.com/pico-de-gallo-powder/>
+
+---
+
+## Hands Burning From Peppers? Relief Step By Step
+
+date: 2024-09-15, from: Pepper Scale
+
+It&#8217;s not only your mouth that can catch fire with spicy chilies. Your hands, your eyes, really anywhere you have skin, can suffer from chili burn. But hands, of course, are the most common, and they can transfer the pain elsewhere if not remedied quickly. ... <p class="read-more-container"><a title="Hands Burning From Peppers? Relief Step By Step" class="read-more button" href="https://pepperscale.com/hands-burning-from-peppers/#more-1891" aria-label="Read more about Hands Burning From Peppers? Relief Step By Step">Read more</a></p> 
+
+<https://pepperscale.com/hands-burning-from-peppers/>
+
+---
+
+## Spicy Cucumber Relish
+
+date: 2024-09-15, from: Pepper Scale
+
+Our spicy cucumber relish just isn&#8217;t about the heat. There&#8217;s a touch of sweetness here, too, making it a flavorful foil to all sorts of fried or barbecued meats. It&#8217;s tasty served as a side to steak or simply sprinkled atop a hot dog. But ... <p class="read-more-container"><a title="Spicy Cucumber Relish" class="read-more button" href="https://pepperscale.com/spicy-cucumber-relish/#more-92153" aria-label="Read more about Spicy Cucumber Relish">Read more</a></p> 
+
+<https://pepperscale.com/spicy-cucumber-relish/>
+
+---
+
+## What’s A Good Aji Panca Substitute?
+
+date: 2024-09-15, from: Pepper Scale
+
+Aji panca is a favorite for Peruvian cuisine, and with its berry-like smoky flavor, it&#8217;s easy to see why. Aji panca is typically found in paste or powder form; in both forms, they are simple to purchase online. But what if you need a substitute ... <p class="read-more-container"><a title="What’s A Good Aji Panca Substitute?" class="read-more button" href="https://pepperscale.com/aji-panca-substitute/#more-8182" aria-label="Read more about What’s A Good Aji Panca Substitute?">Read more</a></p> 
+
+<https://pepperscale.com/aji-panca-substitute/>
+
+---
+
+## 50+ Late Summer Recipes
+
+date: 2024-09-15, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/09/50-Late-Summer-Recipes.jpg"/></div>
+<p>50+ quick and easy recipes ideas to enjoy some late summer produce including tomatoes, eggplant, squash, corn, grapes, cauliflower, etc. Summer is winding down and there is still plenty of time to enjoy some late summer produce including some of my favourites like tomatoes, eggplant, red peppers, corn, cauliflower, broccoli and green beans. In addition...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/50-late-summer-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/50-late-summer-recipes/">50+ Late Summer Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<https://www.closetcooking.com/50-late-summer-recipes/>
+
+---
+
+## Traeger Pro 575 Review: Our Favorite Budget-Friendly Pellet Grill
+
+date: 2024-09-14, from: Taste of Home
+
+Learn why the Traeger Pro 575 earned our top budget pick after testing multiple pellet grills 
+
+<https://www.tasteofhome.com/article/traeger-pro-575-review/>
 
 ---
 
@@ -862,54 +936,4 @@ date: 2024-09-08, from: Taste of Home
 If you're looking for a pellet grill with plenty of special features, the Traeger Timberline is it. Read why we found it to be worth the splurge in our tests. 
 
 <https://www.tasteofhome.com/article/traeger-timberline-review/>
-
----
-
-## Spicy Mixed Nuts: A Cocktail-Hour Treat
-
-date: 2024-09-07, from: Pepper Scale
-
-Once you start, it’s hard to stop. To say spicy mixed nuts done just the right way are moreish doesn’t do them justice. Addictive is a better moniker. Serve them as an appetizer with drinks, then lock them away. And hide the key. They’re that ... <p class="read-more-container"><a title="Spicy Mixed Nuts: A Cocktail-Hour Treat" class="read-more button" href="https://pepperscale.com/spicy-mixed-nuts/#more-80549" aria-label="Read more about Spicy Mixed Nuts: A Cocktail-Hour Treat">Read more</a></p> 
-
-<https://pepperscale.com/spicy-mixed-nuts/>
-
----
-
-## Sriracha Fried Rice
-
-date: 2024-09-07, from: Pepper Scale
-
-Sure, fried rice is already a&#160;dish often full of strong flavors, but who denies the Sriracha gods when the perfect use comes around? Sriracha&#8217;s delicious heat, and&#160;lack of vinegary aftertaste, make it a perfect addition to&#160;this dish to deliver some extra oomph. The touch of ... <p class="read-more-container"><a title="Sriracha Fried Rice" class="read-more button" href="https://pepperscale.com/sriracha-fried-rice/#more-6697" aria-label="Read more about Sriracha Fried Rice">Read more</a></p> 
-
-<https://pepperscale.com/sriracha-fried-rice/>
-
----
-
-## Hearty Tom Yum Soup
-
-date: 2024-09-07, from: Pepper Scale
-
-This hearty take on tom yum soup may be one of the best soups you’ll ever make. It might not be ‘authentically’ like a serving in Thailand, its home country. But finish a big bowl and don’t be surprised if you’re desperately hoping for another ... <p class="read-more-container"><a title="Hearty Tom Yum Soup" class="read-more button" href="https://pepperscale.com/tom-yum-soup/#more-79880" aria-label="Read more about Hearty Tom Yum Soup">Read more</a></p> 
-
-<https://pepperscale.com/tom-yum-soup/>
-
----
-
-## Turkey and Stuffing Meatballs
-
-date: 2024-09-07, from: Bon Appetet
-
-A holiday on a sheet pan—with green beans, potatoes, and cranberry sauce. 
-
-<https://www.bonappetit.com/recipe/turkey-stuffing-meatballs>
-
----
-
-## The Secret to Great Turkey Meatballs? Stuffing Mix
-
-date: 2024-09-07, from: Bon Appetet
-
-Once you try this brilliant breadcrumb swap, you’ll never go back. 
-
-<https://www.bonappetit.com/story/meatball-breadcrumb-swap-stuffing-mix>
 

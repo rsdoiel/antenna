@@ -1,11 +1,103 @@
 ---
 title: going electric
-updated: 2024-09-14 10:49:15
+updated: 2024-09-15 09:28:07
 ---
 
 # going electric
 
-(date: 2024-09-14 10:49:15)
+(date: 2024-09-15 09:28:07)
+
+---
+
+## China's Micro EV Used To Outsell The Tesla Model Y. Now There's A New One
+
+date: 2024-09-15, from: Inside EVs News
+
+The next-generation Wuling Hongguang Mini EV was exposed by Chinese regulators. 
+
+<https://insideevs.com/news/733743/wuling-hongguang-mini-ev-new/>
+
+---
+
+## 'Existential Threat': How China Forced Ford To Get Serious On EVs
+
+date: 2024-09-15, from: Inside EVs News
+
+Ford's recent decision to push back new EVs is seen as a retreat. But maybe it's a regrouping and reloading instead. Can it work in time? 
+
+<https://insideevs.com/news/733777/ford-china-evs-wsj/>
+
+---
+
+## FedEx orders 15 more Workhorse W56 electric delivery vans
+
+date: 2024-09-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/WK-Fedex_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>After a successful pilot program, <a href="https://electrek.co/guides/fedex/">FedEx</a> is expanding its electric delivery fleet with the purchase of 15 Workhorse W56 electric step vans.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,fedex,workhorse" data-layer-viewtype="unknown" data-post-id="379938" href="https://electrek.co/2024/09/15/fedex-orders-15-more-workhorse-w56-electric-delivery-vans/#more-379938" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/15/fedex-orders-15-more-workhorse-w56-electric-delivery-vans/>
+
+---
+
+## There are now more electric cars than gas cars on Norway’s roads
+
+date: 2024-09-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/01/norway-charging-lead.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Sometime this month, Norway will have more electric cars on its roads than petrol-only vehicles, according to an analysis of Norwegian government data.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="norway" data-layer-viewtype="unknown" data-post-id="379930" href="https://electrek.co/2024/09/14/there-are-now-more-electric-cars-than-gas-cars-on-norways-roads/#more-379930" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/14/there-are-now-more-electric-cars-than-gas-cars-on-norways-roads/>
+
+---
+
+## Tesla Model Y, Model 3 With $0 Down Is The Hottest EV Deal This Month
+
+date: 2024-09-14, from: Inside EVs News
+
+These are arguably some of the best financing offers on the Model 3 and Model Y we've ever seen. 
+
+<https://insideevs.com/news/733775/tesla-model-3-model-y-deal/>
+
+---
+
+## Tesla Model 3 Performance Holds Its Own Racing BMW M3 CS, Mercedes C63 PHEV
+
+date: 2024-09-14, from: Inside EVs News
+
+The Tesla is the cheapest out of the three cars and the quickest to accelerate without using launch control. 
+
+<https://insideevs.com/news/733662/model3-m3-c63-drag-race/>
+
+---
+
+## Two Tesla Cybertrucks Drove 11,000 Miles From Florida To Arctic Ocean And Back
+
+date: 2024-09-14, from: Inside EVs News
+
+No generators were involved in the trek, and–better yet–six new Tesla Level 2 chargers were installed on Canada’s Dempster Highway. 
+
+<https://insideevs.com/news/733505/tesla-cybertruck-arctic-ocean-11000-miles/>
+
+---
+
+## Gogoro CEO resigns amid accusations of subsidy fraud
+
+date: 2024-09-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/05/gogoro-korea-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Horace Luke, the founder and CEO of the world’s leading electric vehicle battery-swapping company <a href="http://gogoro.com">Gogoro</a>, just announced his resignation. The move comes during a period of growing financial losses for the company and follows accusations of potential subsidy fraud in its domestic market of Taiwan.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="gogoro" data-layer-viewtype="unknown" data-post-id="379917" href="https://electrek.co/2024/09/14/gogoro-ceo-resigns-amid-accusations-of-subsidy-fraud/#more-379917" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/14/gogoro-ceo-resigns-amid-accusations-of-subsidy-fraud/>
 
 ---
 
@@ -1854,104 +1946,4 @@ date: 2024-09-08, from: Electrek Feed
  <a data-layer-pagetype="post" data-layer-postcategory="ebikes,fire,talaria" data-layer-viewtype="unknown" data-post-id="378880" href="https://electrek.co/2024/09/07/in-first-ever-documented-case-talaria-electric-dirt-bike-goes-up-in-flames-in-us/#more-378880" class="more-link">more…</a> 
 
 <https://electrek.co/2024/09/07/in-first-ever-documented-case-talaria-electric-dirt-bike-goes-up-in-flames-in-us/>
-
----
-
-## Automakers whine about €15B fine they knew they’d risk for pushing gas cars
-
-date: 2024-09-07, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/349255589_01bef0cea5_k-e1725742439218.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Renault CEO Luca de Meo said today that automakers collectively may need to pay ~€15B in fines if they miss 2025 emissions targets, as they’ve failed to ramp up efficient vehicle production in line with EU guidance – even as consumer EV demand continues to rise in Europe.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="co2-emissions,europe" data-layer-viewtype="unknown" data-post-id="378878" href="https://electrek.co/2024/09/07/automakers-whine-about-e15b-fine-they-knew-theyd-risk-for-pushing-gas-cars/#more-378878" class="more-link">more…</a> 
-
-<https://electrek.co/2024/09/07/automakers-whine-about-e15b-fine-they-knew-theyd-risk-for-pushing-gas-cars/>
-
----
-
-## Maserati GranTurismo EV Review: Great To Drive, With Lousy Software
-
-date: 2024-09-07, from: Inside EVs News
-
-Out of Spec drives the $200,000 electric Maserati convertible.  
-
-<https://insideevs.com/news/732722/maserati-granturismo-ev/>
-
----
-
-## Tesla reveals its wireless home EV charging station in patent filings
-
-date: 2024-09-07, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/06/Tesla-Wireless-charger-hero.jpg?quality=82&#038;strip=all&#038;w=1047" /></div><p>Several new patent applications have revealed Tesla’s upcoming wireless home EV charging station.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="378871" href="https://electrek.co/2024/09/07/tesla-reveals-wireless-home-ev-charging-station-patent-filings/#more-378871" class="more-link">more…</a> 
-
-<https://electrek.co/2024/09/07/tesla-reveals-wireless-home-ev-charging-station-patent-filings/>
-
----
-
-## Mercedes Isn't Retreating From China. Its Doubling Down
-
-date: 2024-09-07, from: Inside EVs News
-
-The brand is investing $2 Billion into cars that are meant to take on China's homegrown EV startups.  
-
-<https://insideevs.com/news/732707/mercedes-benz-china-investment-2025/>
-
----
-
-## Two Ford F-150 Lightning Owners Review Their Trucks: ‘Zero Issues In Two Years’
-
-date: 2024-09-07, from: Inside EVs News
-
-Two nearly identical 2022 F-150 Lightning EVs were driven for two years by two very different people. No maintenance was needed. 
-
-<https://insideevs.com/news/732681/ford-f150-lightning-two-owners-review-zero-issues/>
-
----
-
-## Bollinger adds 20 West Coast dealers, TCD to its commercial EV sales network
-
-date: 2024-09-07, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/bollinger-b4-start-production.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s been a big week for Bollinger and its Class 4 commercial EVs as the upstart electric box truck brand picked up twenty new TEC dealers and scored a strategic solution partnership with Texas consulting firm, TCD.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="bollinger-motors,commercial-evs,electric-trucks" data-layer-viewtype="unknown" data-post-id="378849" href="https://electrek.co/2024/09/07/bollinger-adds-20-west-coast-dealers-tcd-to-its-commercial-ev-sales-network/#more-378849" class="more-link">more…</a> 
-
-<https://electrek.co/2024/09/07/bollinger-adds-20-west-coast-dealers-tcd-to-its-commercial-ev-sales-network/>
-
----
-
-## E-quipment highlight: Komatsu autonomous, electric, amphibious dozer
-
-date: 2024-09-07, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/amphibious_komatsu-2.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Co-developed by Japanese construction giant Komatsu and the Asunaro Aoki Construction Co., this autonomous electric dozer is built with the underwater construction jobs of the future in mind.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,electric-heavy-machinery,komatsu" data-layer-viewtype="unknown" data-post-id="378834" href="https://electrek.co/2024/09/07/e-quipment-highlight-komatsu-autonomous-electric-amphibious-dozer/#more-378834" class="more-link">more…</a> 
-
-<https://electrek.co/2024/09/07/e-quipment-highlight-komatsu-autonomous-electric-amphibious-dozer/>
-
----
-
-## 1,070 hp, AWD electric Dodge Hornet R/T goes from 0-60 in 1.4 sec. (!)
-
-date: 2024-09-07, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/DodgeEntersNitrocross_Feature.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Packing four electric motors pushing more than 1,000 hp through all four of its Yokohama Advan racing tires, the new Dodge Hornet R/T FC1-X can blast from 0-60 in just 1.4 seconds!</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="dodge,motorsports" data-layer-viewtype="unknown" data-post-id="378813" href="https://electrek.co/2024/09/07/1070-hp-awd-electric-dodge-hornet-r-t-goes-from-0-60-in-1-4-sec/#more-378813" class="more-link">more…</a> 
-
-<https://electrek.co/2024/09/07/1070-hp-awd-electric-dodge-hornet-r-t-goes-from-0-60-in-1-4-sec/>
 

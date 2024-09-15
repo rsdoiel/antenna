@@ -1,11 +1,81 @@
 ---
 title: games
-updated: 2024-09-14 10:49:11
+updated: 2024-09-15 09:28:02
 ---
 
 # games
 
-(date: 2024-09-14 10:49:11)
+(date: 2024-09-15 09:28:02)
+
+---
+
+## 7 great games under 5 hours long to play this weekend
+
+date: 2024-09-15, updated: 2024-09-13, from: Polygon Website
+
+There are only so many hours in a day. As best as one might try, it can be difficult to keep up with the deluge of new titles that are released every month, let alone the latest hundred-hour action RPG or always-online service game. Luckily, there’s just as many fun — and most importantly, short [&#8230;] 
+
+<https://www.polygon.com/what-to-play/450384/best-short-games-nintendo-switch-windows-pc>
+
+---
+
+## An oral history of the action classic Blood and Bone
+
+date: 2024-09-15, updated: 2024-09-15, from: Polygon Website
+
+One fateful college weekend, ActionMax, the genre spinoff of Cinemax, programmed three down-and-dirty action films in a back-to-back marathon of cable curation that would change my life. First was Universal Soldier: Day of Reckoning, a one-in-a-million blend of science fiction, horror, and R-rated action. Then Undisputed II: Last Man Standing, a milestone moment for the [&#8230;] 
+
+<https://www.polygon.com/action/450051/blood-and-bone-oral-history>
+
+---
+
+## The Killer’s Game director J.J. Perry wants to be Dave Bautista &#8216;so bad it makes my damn teeth hurt&#8217;
+
+date: 2024-09-14, updated: 2024-09-13, from: Polygon Website
+
+It’s not much of a stretch to say that legendary stunt performer and action director J.J. Perry helped shape most of the significant action movies and franchises that have come out this century. He’s worked in the biggest modern movie universes imaginable — Marvel, DC, Avatar, Fast and Furious, John Wick. He designed the action [&#8230;] 
+
+<https://www.polygon.com/action/450970/the-killers-game-dave-bautista-movie-director-jj-perry-interview>
+
+---
+
+## Dress to Impress is invading IRL fashion looks
+
+date: 2024-09-14, updated: 2024-09-13, from: Polygon Website
+
+Every week is fashion week in Dress to Impress on Roblox. Thanks to streamers, the multiplayer dress-up game has become a breakout hit online. Now, the game is inspiring fashion in the real world. On social media platforms like TikTok, Dress to Impress has inspired a recent trend where people use the game’s audio to [&#8230;] 
+
+<https://www.polygon.com/culture/451404/dress-to-impress-fashion-roblox-tiktok-trend>
+
+---
+
+## The best thrillers to watch on Netflix this September
+
+date: 2024-09-14, updated: 2024-09-13, from: Polygon Website
+
+The fall movie season has begun, and on Netflix it’s been heralded by the outstanding new movie Rebel Ridge. The new movie from the director of Green Room is already a standout candidate for one of the best movies of the year, but it’s also just one of the many great thrillers on Netflix in [&#8230;] 
+
+<https://www.polygon.com/what-to-watch/451107/best-thriller-movies-netflix-watch-september-2024>
+
+---
+
+## 2001’s Black &#038; White is finally playable again (kind of)
+
+date: 2024-09-14, updated: 2024-09-13, from: Polygon Website
+
+For many years, Peter Molyneux’s eccentric god game Black &#38; White, released in 2001, has quite literally been unplayable. While there are workarounds to play the game on modern systems, the now-ancient game engine is simply unsupported by modern hardware and won’t run natively, meaning if anyone wanted to build anything off the existing engine, [&#8230;] 
+
+<https://www.polygon.com/impressions/448593/black-white-2001-playable-game-preservation>
+
+---
+
+## Pokémon Go Ponyta and Galarian Ponyta Community Day guide
+
+date: 2024-09-14, updated: 2024-09-13, from: Polygon Website
+
+Pokémon Go is having a Ponyta Community Day event on Saturday, Sept. 14, from 2-5 p.m.in your local time. As expected with a Community Day event, both Ponyta and Galarian Ponyta will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve [&#8230;] 
+
+<https://www.polygon.com/pokemon-go-guide/448417/ponyta-community-day-galarian-shiny-rapidash>
 
 ---
 
@@ -586,54 +656,4 @@ date: 2024-09-08, updated: 2024-09-08, from: Polygon Website
 Inside the cavernous Kings Theatre in Brooklyn, New York, the crowd started shouting in anticipation of the concert that was set to begin, but one lone voice cut through the roar: “Yaaaaaagoooooooooo!”&#160; The event was Hololive’s Breaking Dimensions concert on Aug. 24, a show where digital performers known as Vtubers sing and dance live onstage [&#8230;] 
 
 <https://www.polygon.com/q-and-a/448035/vtubers-cover-yagoo-interview>
-
----
-
-## Rebel Ridge needed ‘sloppy, awkward’ action, says director Jeremy Saulnier
-
-date: 2024-09-07, updated: 2024-09-06, from: Polygon Website
-
-Jeremy Saulnier’s supremely tense new Netflix movie Rebel Ridge sits firmly in the action category. But where stylized hit actioners like the John Wick series or the HiGH&#38;LOW movies get their mileage from over-the-top action stunts, the throwdowns in Rebel Ridge are simple and streamlined enough to feel entirely believable. Previous standout Saulnier movies like [&#8230;] 
-
-<https://www.polygon.com/movies/449003/rebel-ridge-behind-the-scenes-sloppy-action>
-
----
-
-## Grid&#8217;s tastefully destroyed Game Boys make for great art, and they&#8217;re 40% off now
-
-date: 2024-09-07, updated: 2024-09-06, from: Polygon Website
-
-Grid, the makers of awesome, shadowbox-style pieces made from bygone gadgets and gaming accessories, is currently celebrating its fourth anniversary. To mark the occasion, Grid is offering its framed Classic Game Boy for its lowest price ever. Typically, this masterpiece costs $299, but you can currently hang one on your wall for just $179 while [&#8230;] 
-
-<https://www.polygon.com/good-deals/449005/grid-gameboy-anniversary-gaming-deal-sale>
-
----
-
-## Closer the Distance replicates grief so well that I couldn’t finish playing it
-
-date: 2024-09-07, updated: 2024-09-06, from: Polygon Website
-
-In Closer the Distance, my first inclination is to console Conny. She just lost her sister, Angie, to a tragic accident — a few hours after a nasty fight with her mother, Pia. At the same time that Pia was decrying her daughter’s terrible life decisions, Angie was taking her last breaths. All I can [&#8230;] 
-
-<https://www.polygon.com/review/449133/closer-distance-grief-life-sim>
-
----
-
-## The best movies new to streaming this September
-
-date: 2024-09-07, updated: 2024-09-06, from: Polygon Website
-
-August is finally over, and you know what that means: Summer is almost over! Before we can start putting away our swimsuits and busting out our finest fall-themed sweaters, however, we’ll have to make it through September first. There’s a ton of exciting new releases coming to theaters this month, including Beetlejuice Beetlejuice and Megalopolis, [&#8230;] 
-
-<https://www.polygon.com/what-to-watch/447029/best-new-movies-netflix-amazon-prime-max-hulu-september-2024>
-
----
-
-## Monster Hunter Wilds made me a believer in its ecosystem
-
-date: 2024-09-07, updated: 2024-09-07, from: Polygon Website
-
-As Capcom’s Monster Hunter series has grown in scope and popularity over the past 20 years, so too have the game’s worlds. They’ve gone from discrete zones to massive open-world environments populated with smarter, more believable creatures. Monster Hunter Wilds continues that evolution, with an emphasis on its ecosystem, an ever-changing climate, and wildlife that [&#8230;] 
-
-<https://www.polygon.com/preview/449206/monster-hunter-wilds-ecosystem-preview>
 
