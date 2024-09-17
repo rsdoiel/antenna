@@ -1,11 +1,215 @@
 ---
 title: food
-updated: 2024-09-16 08:53:31
+updated: 2024-09-17 07:45:45
 ---
 
 # food
 
-(date: 2024-09-16 08:53:31)
+(date: 2024-09-17 07:45:45)
+
+---
+
+## Blackout Chocolate Banana Bread
+
+date: 2024-09-17, from: Bon Appetet
+
+Chocolate lovers, come get your new all-time favorite banana bread. 
+
+<https://www.bonappetit.com/recipe/chocolate-banana-bread>
+
+---
+
+## Ember And Bean Roasting Co. Glows In Hudson, WI
+
+date: 2024-09-17, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Ember and Bean Roasting Co In Hudson, Wisconsin. 
+
+<https://sprudge.com/ember-and-bean-roasting-co-glows-in-hudson-wi-252221.html>
+
+---
+
+## Starbucks North America CEO Michael Conway Retiring After Five Months
+
+date: 2024-09-17, from: Daily Coffee News
+
+<div><img width="620" height="477" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1-620x477.jpg" class="attachment-large size-large wp-post-image" alt="Starbucks" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1-620x477.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1-300x231.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1-150x115.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1-768x591.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Starbucks announced that North American CEO Michael Conway is retiring.&#160; The move comes just five months after Conway&#8217;s appointment to the position, which was part of a broader corporate leadership... 
+
+<https://dailycoffeenews.com/2024/09/17/starbucks-north-america-ceo-michael-conway-retiring-after-five-months/>
+
+---
+
+## Australia’s Caffe Assist Rolls Out the Legato Plus, Legato Rinser And App
+
+date: 2024-09-17, from: Daily Coffee News
+
+<div><img width="620" height="472" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1-620x472.jpg" class="attachment-large size-large wp-post-image" alt="Caffe Assist Legato 4" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1-620x472.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1-300x228.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1-150x114.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1-768x584.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Australian commercial equipment maker Caffe Assist recently unveiled the Legato Plus, an upgraded version its patented automatic milk steaming system for cafes. At the Fine Food Australia event earlier this... 
+
+<https://dailycoffeenews.com/2024/09/17/australias-caffe-assist-rolls-out-the-legato-plus-legato-rinser-and-app/>
+
+---
+
+## Mill City Roasters Moving Into Massive New HQ in NE Minneapolis
+
+date: 2024-09-17, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Mill-City-Roasters-NE-Minneapolis-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Mill City Roasters NE Minneapolis" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Mill-City-Roasters-NE-Minneapolis-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Mill-City-Roasters-NE-Minneapolis-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Mill-City-Roasters-NE-Minneapolis-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Mill-City-Roasters-NE-Minneapolis-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Mill-City-Roasters-NE-Minneapolis.jpg 882w" sizes="(max-width: 620px) 100vw, 620px" /></div>Minnesota-based roasting equipment maker Mill City Roasters is prepping for a significant expansion this fall, with plans to expand to a nearly 40,000-square-foot-building in Norheast Minneapolis.&#160; The one-story 1950s office... 
+
+<https://dailycoffeenews.com/2024/09/17/mill-city-roasters-moving-into-massive-new-hq-in-ne-minneapolis/>
+
+---
+
+## Kickstarter: The Grinista Is A New Grinder With Lots Of Bells And Whistles
+
+date: 2024-09-17, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Grinista is on Kickstarter now. 
+
+<https://sprudge.com/kickstarter-the-grinista-is-a-new-grinder-with-lots-of-bells-and-whistles-255119.html>
+
+---
+
+## Spicy Beer Cheese Dip
+
+date: 2024-09-17, from: Pepper Scale
+
+Party time and a good dip go hand in hand. And, if you&#8217;re like us, a spicy dip is always the best, especially when paired with cheese. This spicy beer cheese dip checks those boxes and more, with that malty beer twist added to the ... <p class="read-more-container"><a title="Spicy Beer Cheese Dip" class="read-more button" href="https://pepperscale.com/spicy-beer-cheese-dip/#more-34642" aria-label="Read more about Spicy Beer Cheese Dip">Read more</a></p> 
+
+<https://pepperscale.com/spicy-beer-cheese-dip/>
+
+---
+
+## Sizzling Sriracha Meatballs
+
+date: 2024-09-17, from: Pepper Scale
+
+There is Rooster Sauce times two in this deliciously spicy Sriracha meatballs recipe. Not only does the glaze for these meatballs contain Sriracha, but the meatballs also kick things up a notch, too. The heat is balanced with fresh ginger, honey, soy sauce, and sesame ... <p class="read-more-container"><a title="Sizzling Sriracha Meatballs" class="read-more button" href="https://pepperscale.com/sriracha-meatballs/#more-6822" aria-label="Read more about Sizzling Sriracha Meatballs">Read more</a></p> 
+
+<https://pepperscale.com/sriracha-meatballs/>
+
+---
+
+## Pumpkin Mole Sauce
+
+date: 2024-09-17, from: Pepper Scale
+
+Pumpkin season means pumpkins are&#8230;well in everything. Soups, drinks, desserts, and yes&#8230;sauces. They are particularly good with Mexican sauces like mole. And it makes sense. Mole sauce is already deliciously earthy and sweet, making pumpkin, a vegetable native to Mexico, a perfect addition to the mix. ... <p class="read-more-container"><a title="Pumpkin Mole Sauce" class="read-more button" href="https://pepperscale.com/pumpkin-mole-sauce/#more-34312" aria-label="Read more about Pumpkin Mole Sauce">Read more</a></p> 
+
+<https://pepperscale.com/pumpkin-mole-sauce/>
+
+---
+
+## Casa Firelli Hot Sauce Review
+
+date: 2024-09-17, from: Pepper Scale
+
+What a name for an Italian hot sauce. Made in Parma, Italy, Casa Firelli Hot Sauce brings some Mediterranean fire to authentic Italian flavors. Balsamic vinegar and a mix of roasted red peppers and Calabrian chilies star, and the flavors are pretty special. But how ... <p class="read-more-container"><a title="Casa Firelli Hot Sauce Review" class="read-more button" href="https://pepperscale.com/casa-firelli-hot-sauce/#more-84971" aria-label="Read more about Casa Firelli Hot Sauce Review">Read more</a></p> 
+
+<https://pepperscale.com/casa-firelli-hot-sauce/>
+
+---
+
+## Truff Hot Sauce Review
+
+date: 2024-09-17, from: Pepper Scale
+
+Truff Hot Sauce may look like a classic hot sauce on the first pour, but you soon get a good whiff of its unique selling point: truffles. You definitely notice the truffle smell right away and might assume it will overpower the spice, but you’d ... <p class="read-more-container"><a title="Truff Hot Sauce Review" class="read-more button" href="https://pepperscale.com/truff-hot-sauce/#more-60006" aria-label="Read more about Truff Hot Sauce Review">Read more</a></p> 
+
+<https://pepperscale.com/truff-hot-sauce/>
+
+---
+
+## Breakfast Tacos
+
+date: 2024-09-17, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/breakfast-tacos/"><img title="breakfast-tacos-small-5" src="https://www.isabeleats.com/wp-content/uploads/2024/09/breakfast-tacos-small-5-400x600.jpg" alt="Breakfast Tacos on a plate with chorizo, potatoes, and eggs." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Start off your day with delicious and satisfying breakfast tacos. Made with fluffy eggs, savory chorizo, and creamy potatoes, these breakfast tacos are filling and packed with flavor. Simple to make and easily customizable!  Tacos for breakfast? Sign me up! Mornings are usually pretty hectic for me trying to get myself and my toddler out [&#8230;] 
+
+<https://www.isabeleats.com/breakfast-tacos/>
+
+---
+
+## RecTeq Pellet Grill Review: Our Product Testing Team’s Favorite Smoker
+
+date: 2024-09-16, from: Taste of Home
+
+See why the RecTeq Pellet Grill topped our list of the best pellet grills, thanks to its superb results and extra-large cooking space 
+
+<https://www.tasteofhome.com/article/recteq-pellet-grill-review/>
+
+---
+
+## Pit Boss Pellet Grill Review: An Easy-To-Use Option at a Modest Price Point
+
+date: 2024-09-16, from: Taste of Home
+
+This Pit Boss Pellet Grill is a solid pellet grill that is easy to use and offers a wide amount of grilling versatility 
+
+<https://www.tasteofhome.com/article/pit-boss-pellet-grill-review/>
+
+---
+
+## Travel with Bon Appétit on a Culinary Getaway to Thailand
+
+date: 2024-09-16, from: Bon Appetet
+
+Come with Nok Suntaranon, chef-owner of Kalaya in Philadelphia, on a nine-day tour through colorful markets, idyllic landscapes, and hands-on cooking experiences. 
+
+<https://www.bonappetit.com/story/culinary-getaway-thailand>
+
+---
+
+## The Best Zojirushi Rice Cookers for Every Home Cook
+
+date: 2024-09-16, from: Bon Appetet
+
+The official rice cooker of the Bon Appétit test kitchen is a Zojirushi. Which model is right for you? 
+
+<https://www.bonappetit.com/story/zojirushi-rice-cooker>
+
+---
+
+## The Rancilio Group Extraction Lab Presents Two Videos On Coffee Extraction Technology
+
+date: 2024-09-16, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Two videos on coffee extraction by the Rancilio Group. 
+
+<https://sprudge.com/the-rancilio-group-extraction-lab-presents-two-videos-on-coffee-extraction-technology-255125.html>
+
+---
+
+## You’ll Never Find Green Peppers in the Bell Pepper Multipacks—Here’s Why
+
+date: 2024-09-16, from: Taste of Home
+
+The bell pepper trio packs are super convenient when you're grocery shopping, but you won't usually find green peppers in the mix. 
+
+<https://www.tasteofhome.com/article/green-bell-peppers/>
+
+---
+
+## Does Burning Coffee Grounds Keep Mosquitoes Away?
+
+date: 2024-09-16, from: Taste of Home
+
+How does burning coffee for mosquitoes work? Is this an effective way to stop the swarm? Here's what mosquito magnets need to know. 
+
+<https://www.tasteofhome.com/article/burning-coffee-for-mosquitoes/>
+
+---
+
+## W&P Porter's Clean Kitchen Storage Set, Tested & Reviewed
+
+date: 2024-09-16, from: Bon Appetet
+
+I’ll never buy another cheap plastic container. 
+
+<https://www.bonappetit.com/story/wp-porter-kitchen-storage-review>
 
 ---
 
@@ -43,7 +247,7 @@ date: 2024-09-16, from: The Sprudge
 
 date: 2024-09-16, from: Daily Coffee News
 
-<div><img width="620" height="436" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffeewomple-roastery-1-620x436.jpg" class="attachment-large size-large wp-post-image" alt="Coffeewomple roastery" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffeewomple-roastery-1-620x436.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffeewomple-roastery-1-300x211.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffeewomple-roastery-1-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffeewomple-roastery-1-768x540.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffeewomple-roastery-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A roasting company in Northeast Minneapolis called Coffeewomple recently embarked on a journey towards high-quality and environmentally conscious coffee, opening a new roastery with an all-electric 15-kilo Giesen roaster at... 
+<div><img width="620" height="436" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffeewomple-roastery-1-620x436.jpg" class="attachment-large size-large wp-post-image" alt="Coffeewomple roastery" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffeewomple-roastery-1-620x436.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffeewomple-roastery-1-300x211.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffeewomple-roastery-1-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffeewomple-roastery-1-768x540.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffeewomple-roastery-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A roasting company in Northeast Minneapolis called Coffeewomple recently embarked on a journey towards high-quality and environmentally conscious coffee, opening a new roastery with an all-electric 15-kilo Giesen roaster at... 
 
 <https://dailycoffeenews.com/2024/09/16/minneapolis-roaster-coffeewomple-embraces-the-sustainability-journey/>
 
@@ -53,7 +257,7 @@ date: 2024-09-16, from: Daily Coffee News
 
 date: 2024-09-16, from: Daily Coffee News
 
-<div><img width="620" height="449" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Crafters-Valenta-3-controls-1-620x449.jpg" class="attachment-large size-large wp-post-image" alt="Coffee Crafters Valenta 3 controls" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Crafters-Valenta-3-controls-1-620x449.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Crafters-Valenta-3-controls-1-300x217.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Crafters-Valenta-3-controls-1-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Crafters-Valenta-3-controls-1-768x556.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Crafters-Valenta-3-controls-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Idaho-based roasting equipment company Coffee Crafters last month rolled out the next machine in its Valenta line of all-electric fluid-bed roasters, the Valenta 3. The 3-pound-capacity Valenta 3 launched for... 
+<div><img width="620" height="449" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Crafters-Valenta-3-controls-1-620x449.jpg" class="attachment-large size-large wp-post-image" alt="Coffee Crafters Valenta 3 controls" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Crafters-Valenta-3-controls-1-620x449.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Crafters-Valenta-3-controls-1-300x217.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Crafters-Valenta-3-controls-1-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Crafters-Valenta-3-controls-1-768x556.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Crafters-Valenta-3-controls-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Idaho-based roasting equipment company Coffee Crafters last month rolled out the next machine in its Valenta line of all-electric fluid-bed roasters, the Valenta 3. The 3-pound-capacity Valenta 3 launched for... 
 
 <https://dailycoffeenews.com/2024/09/16/coffee-crafters-launches-the-valenta-3-electric-roaster/>
 

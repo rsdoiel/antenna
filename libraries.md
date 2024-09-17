@@ -1,11 +1,35 @@
 ---
 title: libraries
-updated: 2024-09-16 08:53:27
+updated: 2024-09-17 07:45:41
 ---
 
 # libraries
 
-(date: 2024-09-16 08:53:27)
+(date: 2024-09-17 07:45:41)
+
+---
+
+## Mental Health Awareness Mondays — Ask the Mental Health Editors: Part Two
+
+date: 2024-09-17, from: Scholarly Kitchen
+
+<p>Part Two in this series of posts where editors within the mental health and psychiatry sector offer their thoughts on the current landscape of scholarly publishing and how it is impacting our discussions and actions around mental health.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/09/17/mental-health-awareness-mondays-ask-the-mental-health-editors-part-two/">Mental Health Awareness Mondays &#8212; Ask the Mental Health Editors: Part Two</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/09/17/mental-health-awareness-mondays-ask-the-mental-health-editors-part-two/>
+
+---
+
+## Day in Review (September 16–19)
+
+date: 2024-09-16, from: Association of Research Libraries News
+
+<p>Last Updated on September 16, 2024, 3:27 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 17 &#124; Wednesday, September 18 &#124; Thursday, September 19 Monday, September 16...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-16-19/">Day in Review (September 16–19)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/day-in-review/day-in-review-september-16-19/>
 
 ---
 

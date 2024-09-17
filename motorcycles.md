@@ -1,11 +1,101 @@
 ---
 title: motorcycles
-updated: 2024-09-16 08:53:29
+updated: 2024-09-17 07:45:43
 ---
 
 # motorcycles
 
-(date: 2024-09-16 08:53:29)
+(date: 2024-09-17 07:45:43)
+
+---
+
+## Yamaha’s YZF-R15M Is So Loaded With Tech, Makes Bigger Siblings Look Bad
+
+date: 2024-09-17, from: Ride Apart, Electric Motorcycle News
+
+The pint-sized sportbike is now sportier and techier with built-in navigation.  
+
+<https://www.rideapart.com/news/733831/2025-yamaha-yzf-r15m-loaded-with-tech/>
+
+---
+
+## 2025 Triumph Speed Twin 1200 RS Headlines A Full Family Refresh
+
+date: 2024-09-17, from: Ride Apart, Electric Motorcycle News
+
+Upgrades, restyling, and a new, sporty RS version coming soon to showrooms everywhere. 
+
+<https://www.rideapart.com/news/734006/triumph-speed-twin-1200-2025/>
+
+---
+
+## Messing Up an EV-Swapped ATV Will Cost You, Like a Lot
+
+date: 2024-09-17, from: Ride Apart, Electric Motorcycle News
+
+Even if you don't mess it up, the tires alone would bankrupt me.  
+
+<https://www.rideapart.com/news/733736/stark-varg-swapped-yamaha-raptor/>
+
+---
+
+## Researchers Discover New Battery Recycling Method, Could Change the Game
+
+date: 2024-09-17, from: Ride Apart, Electric Motorcycle News
+
+Researchers at Rice University have found a way to extract raw materials from depleted EV batteries.  
+
+<https://www.rideapart.com/news/733828/rice-university-researchers-new-battery-recycling/>
+
+---
+
+## Kawasaki Got Hacked, Personal Data May Be Getting Ransomed
+
+date: 2024-09-17, from: Ride Apart, Electric Motorcycle News
+
+Kawasaki says the hack was "not successful," though. 
+
+<https://www.rideapart.com/news/733982/kawasaki-europe-hacked-ransomhub-cyber-attack/>
+
+---
+
+## MotoGP Phenom Pedro Acosta Goes Karting With F1's Oscar Piastri, Hijinks Ensue
+
+date: 2024-09-17, from: Ride Apart, Electric Motorcycle News
+
+The MotoGP and F1 racers meet up for a crossover shifter kart challenge, but does Piastri have the upper hand? 
+
+<https://www.rideapart.com/news/733976/acosta-piastri-go-kart-race/>
+
+---
+
+## Three Old Dirt Bikes Were Hanging From the Rafters, They're Finally Getting Restored
+
+date: 2024-09-17, from: Ride Apart, Electric Motorcycle News
+
+We can’t wait to see these things restored to their former glory.  
+
+<https://www.rideapart.com/news/733829/bearded-mechanic-vintage-dirtbike-restoration-project/>
+
+---
+
+## Ex-WWE Star Dave Bautista Loves Harley-Davidsons, Has a Bunch in His Collection
+
+date: 2024-09-17, from: Ride Apart, Electric Motorcycle News
+
+You and I have more in common with Bautista than we thought.  
+
+<https://www.rideapart.com/news/733809/bautista-harley-davidson-collection/>
+
+---
+
+## The Hells Angels Are for Hire, and Apparently Doing the Bidding of Iran
+
+date: 2024-09-17, from: Ride Apart, Electric Motorcycle News
+
+Who knew you could just hire the MC? 
+
+<https://www.rideapart.com/news/733977/hells-angels-hired-allegedly-iran/>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2024-09-16 08:53:22
+updated: 2024-09-17 07:45:36
 ---
 
 # ham radio
 
-(date: 2024-09-16 08:53:22)
+(date: 2024-09-17 07:45:36)
+
+---
+
+## Experimenting with a modern solar cell
+
+date: 2024-09-17, from: EDN Blog
+
+<img width="3072" height="4080" src="https://www.edn.com/wp-content/uploads/legacy-cell.jpg?fit=3072%2C4080" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/legacy-cell.jpg?w=3072 3072w, https://www.edn.com/wp-content/uploads/legacy-cell.jpg?w=226 226w, https://www.edn.com/wp-content/uploads/legacy-cell.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/legacy-cell.jpg?w=771 771w, https://www.edn.com/wp-content/uploads/legacy-cell.jpg?w=1157 1157w, https://www.edn.com/wp-content/uploads/legacy-cell.jpg?w=1542 1542w, https://www.edn.com/wp-content/uploads/legacy-cell.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/legacy-cell.jpg?w=2850 2850w" sizes="(max-width: 3072px) 100vw, 3072px" /><p>Solar cell technology’s progression and adoption were initially modest, but recent trends reflect an explosion in both supply and demand.</p>
+<p>The post <a href="https://www.edn.com/experimenting-with-a-modern-solar-cell/" data-wpel-link="internal">Experimenting with a modern solar cell</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/experimenting-with-a-modern-solar-cell/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2024-09-16 08:53:22
 
 date: 2024-09-16, from: EDN Blog
 
-<img width="601" height="631" src="https://www.edn.com/wp-content/uploads/PulseMode_Figure1.png?fit=601%2C631" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PulseMode_Figure1.png?w=601 601w, https://www.edn.com/wp-content/uploads/PulseMode_Figure1.png?w=286 286w" sizes="(max-width: 601px) 100vw, 601px" /><p>A switch mode thermostat efficiently heats melded copper wire sensor/heater that runs from half the supply voltage and needs no heatsink.</p>
+<img width="601" height="631" src="https://www.edn.com/wp-content/uploads/PulseMode_Figure1.png?fit=601%2C631" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/PulseMode_Figure1.png?w=601 601w, https://www.edn.com/wp-content/uploads/PulseMode_Figure1.png?w=286 286w" sizes="(max-width: 601px) 100vw, 601px" /><p>A switch mode thermostat efficiently heats melded copper wire sensor/heater that runs from half the supply voltage and needs no heatsink.</p>
 <p>The post <a href="https://www.edn.com/switch-mode-hotwire-thermostat/" data-wpel-link="internal">Switch mode hotwire thermostat</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

@@ -1,11 +1,231 @@
 ---
 title: columns
-updated: 2024-09-16 08:53:24
+updated: 2024-09-17 07:45:37
 ---
 
 # columns
 
-(date: 2024-09-16 08:53:24)
+(date: 2024-09-17 07:45:37)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-17, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/05/21/stillAVirgin.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I theorized why <a href="https://en.wikipedia.org/wiki/Jack_Dorsey">Jack Dorsey</a> is disappointed with Bluesky <a href="https://bsky.app/profile/scripting.com/post/3l4e2ismckd2l">on Bluesky</a>. I did the same on Threads and heard people say ugly personal things about Dorsey. This really pissed me off, because he's a human being who made a large contribution to the technology we use, and I think his heart has been in the right place. Nobody is purely good or bad. If my <a href="https://bsky.app/profile/scripting.com/post/3l4e2ismckd2l">theory</a> is right about why Dorsey is disappointed, it's a valid point, Bluesky was started with its prime mission as creating a distributed system. The more they dig in on nice-to-have features that have nothing to do with being distributed, the more they go down the same path as Twitter did. Jack was openly talking about turning Twitter into a developer platform as early as 2007. Had they realized the system he talked about, basically making a global object storage system with real financial backing, we'd be much further along with the web as an operating system. We're paradoxically so close to that now, but so far, for a reason I don't understand. We should start having a public discussion about this. It can't hurt to talk about what-if's instead of barrelling down the same ridiculous cul de sac as we did in the 00's. I've been writing about this since 1994, the loop we refuse to break out of. Well let's start talking about how we break out, because it's not going to "just happen" organically. 
+
+<http://scripting.com/2024/09/17.html#a135505>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-17, from: Dave Winer's Scripting News)
+
+I look forward to the day when I can link to a topic I've written about on my blog without having to depend on Google. I don't think they know I have a blog or have any respect for it. Actually I know they don't have any respect for it. That's why depending on them for access to it seems too flimsy to build on. 
+
+<http://scripting.com/2024/09/17.html#a135253>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-17, from: Dave Winer's Scripting News)
+
+I look forward to the day when I can ask a question on my blog and get an answer, on the blog, from a trusted member of my karass. 
+
+<http://scripting.com/2024/09/17.html#a135144>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-17, from: Dave Winer's Scripting News)
+
+When will ChatGPT be able to do a transcript of an audio file? 
+
+<http://scripting.com/2024/09/17.html#a135125>
+
+---
+
+## Python Developers Targeted with Malware During Fake Job Interviews
+
+date: 2024-09-17, updated: 2024-09-17, from: Bruce Schneier blog
+
+<p>Interesting social engineering attack: luring potential job applicants with fake recruiting pitches, trying to <a href="https://www.reversinglabs.com/blog/fake-recruiter-coding-tests-target-devs-with-malicious-python-packages">convince them</a> to download malware. From a <a href="https://www.tomshardware.com/tech-industry/cyber-security/python-developers-targeted-by-north-korean-lazarus-group-with-fake-jobs-and-malware-disguised-as-coding-tests">news article</a></p>
+<blockquote><p>These particular attacks from North Korean state-funded hacking team Lazarus Group are new, but the overall malware campaign against the Python development community has been running since at least August of 2023, when a number of popular open source Python tools were maliciously duplicated with added malware. Now, though, there are also attacks involving &#8220;coding tests&#8221; that only exist to get the end user to install hidden malware on their system (cleverly hidden with Base64 encoding) that allows remote execution once present. The capacity for exploitation at that point is pretty much unlimited, due to the flexibility of Python and how it interacts with the underlying OS...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/09/python-developers-targeted-with-malware-during-fake-job-interviews.html>
+
+---
+
+## The key to what should be (and hopefully will be) Kamalanomics 
+
+date: 2024-09-17, from: Robert Reich's blog
+
+A family policy for the working class 
+
+<https://robertreich.substack.com/p/the-key-to-what-should-be-and-hopefully>
+
+---
+
+## September 16, 2024 
+
+date: 2024-09-17, from: Heather Cox Richardson blog
+
+In the week since Trump&#8217;s disastrous debate with Vice President Kamala Harris, MAGA Republicans appear to be melting down. 
+
+<https://heathercoxrichardson.substack.com/p/september-16-2024>
+
+---
+
+## Recipe as story structure
+
+date: 2024-09-17, from: Tracy Durnell Blog
+
+This is a fun thought. &#160; See also: Recipes as a score for improvisation 
+
+<https://tracydurnell.com/2024/09/16/recipe-as-story-structure/>
+
+---
+
+##  The Vance Dance
+
+date: 2024-09-16, from: Dan Rather's Steady
+
+The VP candidate has morphed into a dangerous MAGA extremist 
+
+<https://steady.substack.com/p/the-vance-dance>
+
+---
+
+## Why do blogging and fiction writing use different creative energy?
+
+date: 2024-09-16, from: Tracy Durnell Blog
+
+Both blogs and books are written for an audience, but blogs are a dialogue, while fiction is a narrative. I use blogging as a tool for thinking and making meaning. Fiction writing is not itself a sense-making process for me, but told out of &#8212; after &#8212; sense-making. Blog posts construct an argument as they [&#8230;] 
+
+<https://tracydurnell.com/2024/09/16/why-do-blogging-and-fiction-writing-use-different-creative-energy/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-16, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/06/20/bouquet.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've been re-watching <a href="https://en.wikipedia.org/wiki/The_Bear_(TV_series)">The Bear</a> and am now totally thinking of my job as a chef. I started out that way 40+ years ago, and somewhere along the line I stopped thinking that way. If you can, watch <a href="https://www.fxnetworks.com/shows/the-bear/video-extras/video/64beaaa830c49e0001e758d8">S02 E07</a> to see what I mean. It's about service, the connection between the staff and the people who come to eat, and the medium is the food. It's the same idea. There's so much cynicism around tech, and I hate that. We've rarely seen it as a human thing both by the people who make the meals and the people who love great food. The world thinks of it as billionaires and influencers and lying fascist politicians. But it should be much more than that. 
+
+<http://scripting.com/2024/09/16.html#a230435>
+
+---
+
+## [Sponsor] WorkOS
+
+date: 2024-09-16, updated: 2024-09-16, from: Daring Fireball
+
+ 
+
+<https://workos.com/?utm_source=daringfireball&utm_medium=display&utm_campaign=q12024>
+
+---
+
+## Ten Years of Six Colors
+
+date: 2024-09-16, updated: 2024-09-16, from: Daring Fireball
+
+ 
+
+<https://sixcolors.com/post/2024/09/ten/>
+
+---
+
+## Apple Watch’s Sleep Apnea Detection Feature Now Available in More Than 150 Countries
+
+date: 2024-09-16, updated: 2024-09-16, from: Daring Fireball
+
+ 
+
+<https://www.macrumors.com/2024/09/16/apple-watch-sleep-apnea-feature-150-countries/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-16, from: Dave Winer's Scripting News)
+
+Has it ever been suggested that journalists take an oath, similar to the one <a href="https://constitution.congress.gov/browse/essay/artII-S1-C8-1/ALDE_00001126/">the President takes</a> to: "preserve, protect and defend the Constitution of the United States." Could be voluntary. Sports reporters might take a different oath.
+ 
+
+<http://scripting.com/2024/09/16.html#a195217>
+
+---
+
+##  Holy moly, William Peterson set a new Fastest Known Time on Vermont&#8217;s... 
+
+date: 2024-09-16, updated: 2024-09-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045285-holy-moly-william-peterso>
+
+---
+
+## ★ The Things They Carried
+
+date: 2024-09-16, updated: 2024-09-16, from: Daring Fireball
+
+Keynotes as a proxy for reflecting on Apple as a whole. 
+
+<https://daringfireball.net/2024/09/the_things_they_carried>
+
+---
+
+##  Gamebaby is an iPhone Pro Max case that doubles as a gaming... 
+
+date: 2024-09-16, updated: 2024-09-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045284-gamebaby-is-an-iphone-pro>
+
+---
+
+##  A Fun Taxonomy of Bread Tags 
+
+date: 2024-09-16, updated: 2024-09-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/a-fun-taxonomy-of-bread-tags>
+
+---
+
+##  How journalists can stop sanewashing Trump and other politicians. &#8220;Sanewashing is the... 
+
+date: 2024-09-16, updated: 2024-09-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045282-how-journalists-can-stop->
+
+---
+
+##  A recent dating fad in Spain involves available singles cruising the aisles... 
+
+date: 2024-09-16, updated: 2024-09-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045281-a-recent-dating-fad-in>
+
+---
+
+## Thierry Breton Resigns, Forced Out by the European Commission President
+
+date: 2024-09-16, updated: 2024-09-16, from: Daring Fireball
+
+ 
+
+<https://x.com/thierrybreton/status/1835565206639972734?s=46>
+
+---
+
+##  Recent research indicates that Europeans have been coked up for hundreds of... 
+
+date: 2024-09-16, updated: 2024-09-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045280-recent-research-indicates>
 
 ---
 
@@ -81,7 +301,7 @@ date: 2024-09-16, from: Dave Winer's Scripting News
 
 date: 2024-09-16, from: Doc Searls (at Harvard), New Old Blog
 
-In the late &#8217;70s, I worked for a while at the Psychical Research Foundation, which then occupied a couple of houses on Duke University property and did scientific research into the possibility of life after death. My time there was a lever that has lifted my life on Earth ever since, including many deep and [&#8230;] 
+In the late &#8217;70s, I worked for a while at the Psychical Research Foundation, which occupied a couple of houses on Duke University property and did scientific research into the possibility of life after death. My time there was a lever that has lifted my life on Earth ever since, including many deep and enduring [&#8230;] 
 
 <https://doc.searls.com/2024/09/16/remembering-iris-harrelson/>
 

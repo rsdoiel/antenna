@@ -1,11 +1,105 @@
 ---
 title: socal north
-updated: 2024-09-16 08:53:20
+updated: 2024-09-17 07:45:33
 ---
 
 # socal north
 
-(date: 2024-09-16 08:53:20)
+(date: 2024-09-17 07:45:33)
+
+---
+
+## Temperatures below normal this week
+
+date: 2024-09-17, updated: 2024-09-17, from: The LAist
+
+That means another cool day for the Southland. 
+
+<https://laist.com/news/climate-environment/below-normal-temps-weekend-warmup>
+
+---
+
+## Thousands in California’s jails have the right to vote — but here’s why many won’t
+
+date: 2024-09-17, updated: 2024-09-17, from: The LAist
+
+While incarcerated Californians who aren’t serving felony sentences are eligible to vote, most county jails don’t make it very easy. A bill on Gov. Newsom’s desk would test in-person voting in jails in three counties. 
+
+<https://laist.com/news/politics/thousands-in-californias-jails-have-the-right-to-vote-but-heres-why-many-wont>
+
+---
+
+## What we now know about the mountain lion that injured boy at Malibu Creek State Park
+
+date: 2024-09-16, updated: 2024-09-17, from: The LAist
+
+The 5-year-old boy had to be airlifted to the hospital for non-life threatening injuries earlier this month. 
+
+<https://laist.com/news/climate-environment/mountain-lion-that-attacked-boy-at-malibu-creek-state-park-was-young-and-underweight>
+
+---
+
+## Formerly incarcerated people speak out about forced labor; support for Prop. 6
+
+date: 2024-09-16, updated: 2024-09-16, from: The LAist
+
+Prop. 6 would ban forced labor in California prisons, while still allowing people in prison to work to earn good-time credits. 
+
+<https://laist.com/news/politics/forced-labor-prison-prop-6>
+
+---
+
+## Activist ‘Sweet’ Alice Harris honored in Watts
+
+date: 2024-09-16, updated: 2024-09-16, from: The LAist
+
+Part of a Watts street has been named after Harris to celebrate her work in the community. 
+
+<https://laist.com/news/politics/activist-sweet-alice-harris-honored-in-watts>
+
+---
+
+## Reform bills inspired by LAist investigation signed into law by Newsom
+
+date: 2024-09-16, updated: 2024-09-17, from: The LAist
+
+Legislation will go into effect on Jan. 1st, 2025 and will increase transparency in how government contracts are awarded. 
+
+<https://laist.com/news/politics/reform-bills-inspired-laist-investigation-signed-law-gov-newsom>
+
+---
+
+## Last Chance to Register for the 29th Annual River Rally Cleanup and Environmental Expo!
+
+date: 2024-09-16, from: City of Santa Clarita
+
+<p>All Volunteers Must Pre-Register by Friday, September 20 A reminder that volunteer registration is open for the 29th Annual River Rally Cleanup and Environmental Expo scheduled for next Saturday, September 21, from 8:00 to 11:00 a.m. at the William S. Hart Pony Baseball and Softball Complex, 23780 Auto Center Drive, Santa Clarita, CA 91355. This [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/16/last-chance-to-register-for-the-29th-annual-river-rally-cleanup-and-environmental-expo/">Last Chance to Register for the 29th Annual River Rally Cleanup and Environmental Expo!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/16/last-chance-to-register-for-the-29th-annual-river-rally-cleanup-and-environmental-expo/>
+
+---
+
+## Join Us for Make a Difference Day and Help Better Our Community
+
+date: 2024-09-16, from: City of Santa Clarita
+
+<p>Volunteer and Make a Difference! The City of Santa Clarita is hosting Make A Difference Day on Saturday, October 26 and is looking for enthusiastic residents to volunteer for various projects that benefit local nonprofits, as well as the City. Make A Difference Day is a fantastic opportunity for volunteers ages five and up to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/16/join-us-for-make-a-difference-day-and-help-better-our-community-2/">Join Us for Make a Difference Day and Help Better Our Community</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/16/join-us-for-make-a-difference-day-and-help-better-our-community-2/>
+
+---
+
+## Arraignment delayed for man arrested on suspicion of arson in Line Fire
+
+date: 2024-09-16, updated: 2024-09-16, from: The LAist
+
+The Line Fire has burned more than 38,000 acres in San Bernardino County. More than 73,000 structures — including homes and businesses — have been threatened. 
+
+<https://laist.com/news/climate-environment/line-fire-san-bernardino-county-suspect-arraignnment>
 
 ---
 

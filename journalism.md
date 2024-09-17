@@ -1,11 +1,187 @@
 ---
 title: journalism
-updated: 2024-09-16 08:53:27
+updated: 2024-09-17 07:45:40
 ---
 
 # journalism
 
-(date: 2024-09-16 08:53:27)
+(date: 2024-09-17 07:45:40)
+
+---
+
+## Classifieds – September 17, 2024
+
+date: 2024-09-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/17/classifieds-september-17-2024/">Classifieds &#8211; September 17, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/17/classifieds-september-17-2024/>
+
+---
+
+## Read self-help books with a grain of salt
+
+date: 2024-09-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Literature such as “Atomic Habits” can often result in unintended consequences.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/17/read-self-help-books-with-a-grain-of-salt/">Read self-help books with a grain of salt</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/17/read-self-help-books-with-a-grain-of-salt/>
+
+---
+
+## Glass Animals touch down at the Kia Forum
+
+date: 2024-09-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The indie rock band brought their extraterrestrial “TOUR OF EARTH” to life in Inglewood Saturday night.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/17/glass-animals-touch-down-at-the-kia-forum/">Glass Animals touch down at the Kia Forum</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/17/glass-animals-touch-down-at-the-kia-forum/>
+
+---
+
+## Interactive media is high art’s summit
+
+date: 2024-09-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Film, music and theater are highly esteemed in the critical and creative worlds, so why aren’t games?</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/17/interactive-media-is-high-arts-summit/">Interactive media is high art’s summit</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/17/interactive-media-is-high-arts-summit/>
+
+---
+
+## The Trojan defense has a new leader front and center
+
+date: 2024-09-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Easton Mascarenas-Arnold is new to SoCal, but he has already made his mark.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/17/the-trojan-defense-has-a-new-leader-front-and-center/">The Trojan defense has a new leader front and center</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/17/the-trojan-defense-has-a-new-leader-front-and-center/>
+
+---
+
+## Trojans sweep at home, stay unbeaten
+
+date: 2024-09-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The high energy at Uytengsu this weekend propelled the Trojans to three more wins.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/17/trojans-sweep-at-home-stay-unbeaten/">Trojans sweep at home, stay unbeaten</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/17/trojans-sweep-at-home-stay-unbeaten/>
+
+---
+
+## Libraries cut hours, pause new acquisitions
+
+date: 2024-09-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Eight libraries have reduced weekday hours and closed during weekends amid a pause in library material acquisitions.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/17/libraries-cut-hours-pause-new-acquisitions/">Libraries cut hours, pause new acquisitions</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/17/libraries-cut-hours-pause-new-acquisitions/>
+
+---
+
+## USAC recap – Sept. 3
+
+date: 2024-09-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its first meeting of the month Sept. 3.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<https://dailybruin.com/2024/09/16/usac-recap-sept-3-2/>
+
+---
+
+## Editorial Cartoon: “Quarter System Blues”
+
+date: 2024-09-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<https://dailybruin.com/2024/09/16/editorial-cartoon-quarter-system-blues/>
+
+---
+
+## Gallery: UCLA falls in first Big Ten conference game, home opener to Indiana Hoosiers
+
+date: 2024-09-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+In its first home game of the season and first conference matchup since joining the Big Ten, UCLA football (1-1, 0-1 Big Ten) was handed a resounding 42-13 defeat by Indiana (3-0, 1-0). 
+
+<https://dailybruin.com/2024/09/16/gallery-ucla-falls-in-first-big-ten-conference-game-home-opener-to-indiana-hoosiers/>
+
+---
+
+## Chiles, Barbosu, Maneca-Voinea each deserve an Olympic bronze medal
+
+date: 2024-09-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Like any other Olympic athlete, Team USA gymnast Jordan Chiles has worked her whole life to place on the podium of the world&#8217;s most elite sporting event. 
+
+<https://dailybruin.com/2024/09/16/chiles-barbosu-maneca-voinea-each-deserve-an-olympic-bronze-medal/>
+
+---
+
+## Five Things: UCLA vs. Indiana
+
+date: 2024-09-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA football (1-1, 0-1 Big Ten) fell 42-13 to Indiana (3-0, 1-0) in its Big Ten opener Saturday evening at the Rose Bowl. Assistant Sports editor Connor Dullinger gives his five main takeaways from the Bruins&#8217; duel with the Hoosiers. 
+
+<https://dailybruin.com/2024/09/16/five-things-ucla-vs-indiana/>
+
+---
+
+## Bruins prioritize rest, relaxation en route to 2nd Big Ten match on the road
+
+date: 2024-09-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+For the sixth time this season, the Bruins will face a ranked opponent after recovery and relaxation on the road.
+UCLA men&#8217;s soccer (3-1-2, 1-0 Big Ten) will face No. 
+
+<https://dailybruin.com/2024/09/16/bruins-prioritize-rest-relaxation-en-route-to-2nd-big-ten-match-on-the-road/>
+
+---
+
+## $4 for one week? $7? $10? The Washington Post tests “flexible payments”
+
+date: 2024-09-16, from: Nieman Journalism Lab
+
+Washington Post readers who fear the commitment of a recurring credit card charge have a new option: A week-long site pass that doesn&#8217;t renew automatically and that, in our casual testing, cost between $4 and $10. Back in May, Washington Post CEO Will Lewis told employees the paper was losing money and, as part of... 
+
+<https://www.niemanlab.org/2024/09/4-for-one-week-7-10-the-washington-post-tests-flexible-payments/>
+
+---
+
+## How to Optimize Your Vacation Rental Listing for Search Engines
+
+date: 2024-09-16, from: The Sundail (CSUN Student Newspaper)
+
+In the world of vacation rentals, getting your listing to stand out among the crowd can be tough. With so many properties vying for attention, understanding how to make your... 
+
+<https://sundial.csun.edu/184869/sundialbrandstudio/sundial-marketplace/how-to-optimize-your-vacation-rental-listing-for-search-engines/>
+
+---
+
+## The Puente News Collaborative expands to report on the entire U.S.–Mexico border
+
+date: 2024-09-16, from: Nieman Journalism Lab
+
+In February, seasoned immigration and border reporter Alfredo Corchado took on a new challenge: covering his home. Corchado, a native of El Paso, Texas, is now the executive editor of the Puente News Collaborative, a bilingual nonprofit journalism initiative funded by the El Paso Community Foundation to report (and fund reporting) on both sides of... 
+
+<https://www.niemanlab.org/2024/09/the-puente-news-collaborative-expands-to-report-on-the-entire-u-s-mexico-border/>
 
 ---
 
@@ -42,6 +218,18 @@ date: 2024-09-16, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/09/16/womens-tennis-battles-in-bay-to-begin-season/>
+
+---
+
+## Community and culture  harmonize at ‘All Hail’
+
+date: 2024-09-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Nine campus A Capella groups performed at a the fun, collaborative showcase. </p>
+<p>The post <a href="https://dailytrojan.com/2024/09/16/community-and-culture-harmonize-at-all-hail/">Community and culture  harmonize at ‘All Hail’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/16/community-and-culture-harmonize-at-all-hail/>
 
 ---
 
