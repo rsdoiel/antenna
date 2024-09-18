@@ -1,11 +1,140 @@
 ---
 title: central coast
-updated: 2024-09-17 07:45:36
+updated: 2024-09-18 07:28:30
 ---
 
 # central coast
 
-(date: 2024-09-17 07:45:36)
+(date: 2024-09-18 07:28:30)
+
+---
+
+## Hummingbird Respite
+
+date: 2024-09-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/050521-POD-Goodwin.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A hummingbird pauses for a rest at the San Marcos Foothills Preserve." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/050521-POD-Goodwin.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/050521-POD-Goodwin.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/050521-POD-Goodwin.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/050521-POD-Goodwin.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/050521-POD-Goodwin.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/050521-POD-Goodwin.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/050521-POD-Goodwin.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/050521-POD-Goodwin.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/050521-POD-Goodwin.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/050521-POD-Goodwin.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/050521-POD-Goodwin.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/050521-POD-Goodwin.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/050521-POD-Goodwin.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/hummingbird-respite/">Hummingbird Respite</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/hummingbird-respite/>
+
+---
+
+## Attention Shifts from Cars to E-Bikes at Santa Barbara Council Meeting
+
+date: 2024-09-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="696" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-State-Street-Meagan-Harmon-1-JM-e1726650325706.jpg?fit=1024%2C696&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara Councilwoman Meagan Harmon says the city&#039;s plan for State Street represents the interests of the community." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-State-Street-Meagan-Harmon-1-JM-e1726650325706.jpg?w=1553&amp;ssl=1 1553w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-State-Street-Meagan-Harmon-1-JM-e1726650325706.jpg?resize=300%2C204&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-State-Street-Meagan-Harmon-1-JM-e1726650325706.jpg?resize=1024%2C696&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-State-Street-Meagan-Harmon-1-JM-e1726650325706.jpg?resize=768%2C522&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-State-Street-Meagan-Harmon-1-JM-e1726650325706.jpg?resize=1536%2C1044&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-State-Street-Meagan-Harmon-1-JM-e1726650325706.jpg?resize=1200%2C816&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-State-Street-Meagan-Harmon-1-JM-e1726650325706.jpg?resize=400%2C272&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-State-Street-Meagan-Harmon-1-JM-e1726650325706.jpg?resize=706%2C480&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-State-Street-Meagan-Harmon-1-JM-e1726650325706.jpg?fit=1024%2C696&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Going forward, it&#8217;s all about the bikes. The Santa Barbara City Council on Tuesday night swerved away from reopening part of State Street to vehicles and instead shifted focus to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-council-shifts-away-from-reopening-state-street-to-cars/">Attention Shifts from Cars to E-Bikes at Santa Barbara Council Meeting</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-council-shifts-away-from-reopening-state-street-to-cars/>
+
+---
+
+## Reflecting on the 1824 Chumash Uprising in History and Conversation
+
+date: 2024-09-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="575" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/family-pond-sun-3.jpg?fit=1024%2C575&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/family-pond-sun-3.jpg?w=2244&amp;ssl=1 2244w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/family-pond-sun-3.jpg?resize=300%2C168&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/family-pond-sun-3.jpg?resize=1024%2C575&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/family-pond-sun-3.jpg?resize=768%2C431&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/family-pond-sun-3.jpg?resize=1536%2C862&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/family-pond-sun-3.jpg?resize=2048%2C1150&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/family-pond-sun-3.jpg?resize=1200%2C674&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/family-pond-sun-3.jpg?resize=1568%2C880&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/family-pond-sun-3.jpg?resize=2000%2C1123&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/family-pond-sun-3.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/family-pond-sun-3.jpg?resize=706%2C396&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/family-pond-sun-3.jpg?fit=1024%2C575&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>In February 1824, Chumash people at three local missions took up arms against soldiers and missionaries, kicking off a regionwide struggle that took months to resolve and claimed the lives [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/reflecting-on-the-1824-chumash-uprising-in-history-and-conversation/">Reflecting on the 1824 Chumash Uprising in History and Conversation </a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/reflecting-on-the-1824-chumash-uprising-in-history-and-conversation/>
+
+---
+
+## Santa Barbara Girls Volleyball Battles to Four-Set Rivalry Win Over Dos Pueblos
+
+date: 2024-09-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-dp-volley.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-dp-volley.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-dp-volley.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-dp-volley.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-dp-volley.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-dp-volley.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-dp-volley.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-dp-volley.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-dp-volley.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-dp-volley.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-dp-volley.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A complete team effort powered Santa Barbara High girls volleyball to a four-set win over crosstown rival Dos Pueblos on Tuesday night in Sovine Gym, 25-22, 25-23, 14-25, 25-23. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-girls-volleyball-battles-to-four-set-rivalry-win-over-dos-pueblos/">Santa Barbara Girls Volleyball Battles to Four-Set Rivalry Win Over Dos Pueblos</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-girls-volleyball-battles-to-four-set-rivalry-win-over-dos-pueblos/>
+
+---
+
+## Nicole Schuetz, Sophie Otte Add More Punch to Bishop Diego Attack
+
+date: 2024-09-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="823" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Bishop-Roof.jpg?fit=1024%2C823&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Bishop-Roof.jpg?w=1700&amp;ssl=1 1700w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Bishop-Roof.jpg?resize=300%2C241&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Bishop-Roof.jpg?resize=1024%2C823&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Bishop-Roof.jpg?resize=768%2C618&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Bishop-Roof.jpg?resize=1536%2C1235&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Bishop-Roof.jpg?resize=1200%2C965&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Bishop-Roof.jpg?resize=1568%2C1261&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Bishop-Roof.jpg?resize=400%2C322&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Bishop-Roof.jpg?resize=706%2C568&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Bishop-Roof.jpg?fit=1024%2C823&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>They played together as high school sophomores on a club volleyball team and won a national championship in 2022. Two years later, Nicole Schuetz and Eliana Urzua are together again [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/nicole-schuetz-sophie-otte-add-more-punch-to-bishop-diego-attack/">Nicole Schuetz, Sophie Otte Add More Punch to Bishop Diego Attack</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/nicole-schuetz-sophie-otte-add-more-punch-to-bishop-diego-attack/>
+
+---
+
+## Ted Baum of Carpinteria, 1929-2024
+
+date: 2024-09-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="975" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Ted-Baum-obituary-crop.jpg?fit=1024%2C975&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Ted-Baum-obituary-crop.jpg?w=2517&amp;ssl=1 2517w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Ted-Baum-obituary-crop.jpg?resize=300%2C286&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Ted-Baum-obituary-crop.jpg?resize=1024%2C975&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Ted-Baum-obituary-crop.jpg?resize=768%2C731&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Ted-Baum-obituary-crop.jpg?resize=1536%2C1463&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Ted-Baum-obituary-crop.jpg?resize=2048%2C1950&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Ted-Baum-obituary-crop.jpg?resize=1200%2C1143&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Ted-Baum-obituary-crop.jpg?resize=1568%2C1493&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Ted-Baum-obituary-crop.jpg?resize=2000%2C1905&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Ted-Baum-obituary-crop.jpg?resize=400%2C381&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Ted-Baum-obituary-crop.jpg?resize=706%2C672&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Ted-Baum-obituary-crop.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Ted-Baum-obituary-crop.jpg?fit=1024%2C975&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Dr. Frederic Wells Baum (Ted) of Carpinteria, California, passed away on September 9, 2024, at age 95. He died peacefully in his own home, surrounded by his family. Ted was [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ted-baum-of-carpinteria-1929-2024/">Ted Baum of Carpinteria, 1929-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ted-baum-of-carpinteria-1929-2024/>
+
+---
+
+## Prep Girls Volleyball Roundup: Local Squads Come Away with Victories
+
+date: 2024-09-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/prep-vball-917.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/prep-vball-917.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/prep-vball-917.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/prep-vball-917.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/prep-vball-917.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/prep-vball-917.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/prep-vball-917.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/prep-vball-917.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/prep-vball-917.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/prep-vball-917.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/prep-vball-917.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>An impressive 22-kill performance by junior Oyin Opawumi led Cate girls volleyball to a four-set win over Foothill Tech on Tuesday, 25-21, 21-25, 25-14, 25-22. The Rams jumped out to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-volleyball-roundup-local-squads-come-away-with-victories/">Prep Girls Volleyball Roundup: Local Squads Come Away with Victories</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-volleyball-roundup-local-squads-come-away-with-victories/>
+
+---
+
+## County Agrees to Allow Berry Processing at Cooler Facility Near Santa Maria
+
+date: 2024-09-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Arctic-Cold1-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A new ag cooler on East Bettervia Road near Santa Maria has been cleared to add berry processing to its activities." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Arctic-Cold1-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Arctic-Cold1-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Arctic-Cold1-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Arctic-Cold1-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Arctic-Cold1-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Arctic-Cold1-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Arctic-Cold1-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Arctic-Cold1-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Arctic-Cold1-js.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091724-Arctic-Cold1-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Believed to be the biggest project in Santa Barbara County, a behemoth ag cooler east of Santa Maria can add extensive processing to its activities, but it must alter shifts [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/county-agrees-to-allow-berry-processing-at-cooler-facility-near-santa-maria/">County Agrees to Allow Berry Processing at Cooler Facility Near Santa Maria</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/county-agrees-to-allow-berry-processing-at-cooler-facility-near-santa-maria/>
+
+---
+
+## Prep Girls Golf Roundup: San Marcos Bests Dos Pueblos in Rivalry Matchup
+
+date: 2024-09-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-golf-917.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-golf-917.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-golf-917.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-golf-917.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-golf-917.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-golf-917.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-golf-917.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-golf-917.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-golf-917.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-golf-917.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-golf-917.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>San Marcos and Dos Pueblos collided for a girls golf showdown at Sandpiper Golf Course on Tuesday, with the Royals coming out on top over their rival. In the win, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-golf-roundup-san-marcos-bests-dos-pueblos-in-rivalry-matchup/">Prep Girls Golf Roundup: San Marcos Bests Dos Pueblos in Rivalry Matchup</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-golf-roundup-san-marcos-bests-dos-pueblos-in-rivalry-matchup/>
+
+---
+
+## Mexican Independence Day Comes to Old Town Goleta
+
+date: 2024-09-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2_Pinata-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2_Pinata-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2_Pinata-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2_Pinata-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2_Pinata-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2_Pinata-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2_Pinata-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2_Pinata-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2_Pinata-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2_Pinata-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2_Pinata-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2_Pinata-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2_Pinata-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2_Pinata-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2_Pinata-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2_Pinata-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2_Pinata-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Happy Mexican Independence Day from the city of Goleta! The community had a celebration on Saturday. Close to 1,000 people throughout the course of the seven-hour event attended a Mexican [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/mexican-independence-day-comes-to-old-town-goleta/">Mexican Independence Day Comes to Old Town Goleta</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/mexican-independence-day-comes-to-old-town-goleta/>
 
 ---
 

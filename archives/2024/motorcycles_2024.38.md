@@ -1,11 +1,71 @@
 ---
 title: motorcycles
-updated: 2024-09-17 07:45:43
+updated: 2024-09-18 07:28:36
 ---
 
 # motorcycles
 
-(date: 2024-09-17 07:45:43)
+(date: 2024-09-18 07:28:36)
+
+---
+
+## Yamaha’s Researching Flax Fibers, Displayed Rad PWC Made Of The Stuff
+
+date: 2024-09-18, from: Ride Apart, Electric Motorcycle News
+
+Yamaha hopes that flax fiber could eventually be a sustainable alternative to fiberglass and carbon fiber.  
+
+<https://www.rideapart.com/news/734024/yamaha-flax-fiber-pwc-research/>
+
+---
+
+## People Are Confused About Colorado's Lane Filtering Law, and It's a Problem
+
+date: 2024-09-18, from: Ride Apart, Electric Motorcycle News
+
+The new law went into effect in August, but drivers are puzzled by the specifics. 
+
+<https://www.rideapart.com/news/734166/colorado-lane-filtering-flummoxes-drivers/>
+
+---
+
+## Garmin's Life-Saving InReach Gets an Upgrade, Can Send Photos and Voice Messages
+
+date: 2024-09-18, from: Ride Apart, Electric Motorcycle News
+
+It just became a lot easier to stay in touch without cell service.  
+
+<https://www.rideapart.com/news/734134/garmin-inreach-messenger-plus-voice-photos-sos-backcountry/>
+
+---
+
+## This Scooter Is Pretending to Be a Vespa, It Absolutely Isn’t
+
+date: 2024-09-18, from: Ride Apart, Electric Motorcycle News
+
+If you squint hard enough, you might not be able to tell the difference.  
+
+<https://www.rideapart.com/news/734014/morbidelli-sc125re-retro-themed-scooter/>
+
+---
+
+## Utah Wants to Seize Public Land You Use to Camp and Ride, Likely to Sell to Big Oil
+
+date: 2024-09-18, from: Ride Apart, Electric Motorcycle News
+
+Get it right, this is not for the good of Utahans.  
+
+<https://www.rideapart.com/news/734150/utah-blm-land-case-supreme-court/>
+
+---
+
+## Quick-Thinking Riders Saved Everyone From a Rogue Tire, Pushed It Off to the Side
+
+date: 2024-09-18, from: Ride Apart, Electric Motorcycle News
+
+Two riders in Singapore rolled out to save the day. 
+
+<https://www.rideapart.com/news/734155/singapore-rogue-tire-rider-rescue/>
 
 ---
 

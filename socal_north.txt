@@ -29,11 +29,6 @@ https://thecatalinaislander.com/feed/ "~Catalina Islander"
 https://laconservancy.tumblr.com/rss "~L.A. Conservancy Blog"
 
 #
-# Research Libraries and organizations
-https://libcal.caltech.edu/rss.php?m=month&iid=3271&cid=3754 "~Caltech Library Events"
-https://library.csun.edu/blogs/cited/feed/ "~CSUN Library Blog, Cited"
-
-#
 # Government sites
 #
 https://santaclarita.gov/feed/ "~City of Santa Clarita"

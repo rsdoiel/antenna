@@ -1,11 +1,111 @@
 ---
 title: games
-updated: 2024-09-17 07:45:40
+updated: 2024-09-18 07:28:33
 ---
 
 # games
 
-(date: 2024-09-17 07:45:40)
+(date: 2024-09-18 07:28:33)
+
+---
+
+## The Ark is a perfect throwback to an age when sci-fi didn&#8217;t have to be so serious
+
+date: 2024-09-18, updated: 2024-09-17, from: Polygon Website
+
+During the last few years, space epics have ruled streaming and the small screen. Shows like The Expanse, For All Mankind, and Foundation have won awards, provoked profound conversations, and made sci-fi fans out of skeptics. Building on the legacies of earlier series like the critically acclaimed 2004 reboot of Battlestar Galactica, these space operas [&#8230;] 
+
+<https://www.polygon.com/tv/452455/the-ark-sci-fi-tv-show-review-watch>
+
+---
+
+## Horizon Zero Dawn remaster coming to PS5, PC
+
+date: 2024-09-18, updated: 2024-09-18, from: Polygon Website
+
+Sony Interactive Entertainment will release Horizon Zero Dawn Remastered for PlayStation 5 and Windows PC, according to a new rating from the Entertainment Software Ratings Board, which detailed the unannounced game. The ESRB description of Horizon Zero Dawn Remastered is identical to the original Horizon Zero Dawn that first launched on PlayStation 4 in 2017. [&#8230;] 
+
+<https://www.polygon.com/playstation/452732/horizon-zero-dawn-remaster-ps5-pc>
+
+---
+
+## Everything we know about ‘Switch 2,’ Nintendo’s next-gen console
+
+date: 2024-09-18, updated: 2024-09-18, from: Polygon Website
+
+Nintendo, notoriously secretive, has so far said almost nothing on the record about its next game console. As the Nintendo Switch celebrated its seventh birthday in March 2024, questions about how much longer it will last are natural: Seven years is a typical lifespan for a console generation, Switch sales are falling fast, and the [&#8230;] 
+
+<https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games>
+
+---
+
+## UFO 50 was terrible to review but incredible to play
+
+date: 2024-09-18, updated: 2024-09-17, from: Polygon Website
+
+The issue I had reviewing UFO 50 is not the issue you will have playing it. Presenting itself as an anthology of all 50 games developed by UFO Soft, a fictional game studio active from 1982-89, UFO 50 is all about breadth and variety. The player is presented with the entire catalog of games from [&#8230;] 
+
+<https://www.polygon.com/review/452079/ufo-50-review-pc>
+
+---
+
+## Wild Indigo Ranch balances cozy ranching with cowboy action
+
+date: 2024-09-18, updated: 2024-09-17, from: Polygon Website
+
+Wild Indigo Ranch is built out of two great concepts: a chill, Stardew Valley-esque ranch simulator, and the core gameplay loop of survival sandbox games. The player arrives on the Western frontier to collect their inheritance from a mysteriously deceased uncle. Turns out that inheritance is Wild Indigo Ranch, a run-down shack on a patch [&#8230;] 
+
+<https://www.polygon.com/review/452385/wild-indigo-ranch-pc-review>
+
+---
+
+## Can Wobbuffet be shiny in Pokémon Go?
+
+date: 2024-09-18, updated: 2024-09-09, from: Polygon Website
+
+Wobbuffet, the patient Pokémon from Johto, can be found in the wild in Pokémon Go. Yes, Wobbuffet can be shiny in Pokémon Go! Neither Wynaut nor Wobbuffet see use in PvP or PvE, but it does sport a great pink shiny. Notably, female Wobbuffet have lipstick on (which you can see in the lead image) [&#8230;] 
+
+<https://www.polygon.com/pokemon-go-guide/447836/can-wobbuffet-be-shiny-wynaut>
+
+---
+
+## Bong Joon-ho kills off so many Robert Pattinson clones in the Mickey 17 trailer
+
+date: 2024-09-18, updated: 2024-09-18, from: Polygon Website
+
+Robert Pattinson loves to play a weirdo, so it’s no surprise that he jumped at the chance to play more than a dozen of them in his new movie Mickey 17. The first trailer for the sci-fi comedy directed by Parasite’s Bong Joon-ho arrived on Tuesday and it’s exactly as strange, funny, and gruesome as [&#8230;] 
+
+<https://www.polygon.com/movies/452316/mickey-17-trailer-release-date-robert-pattinson-bong-joon-ho>
+
+---
+
+## Project Rene isn’t The Sims 5
+
+date: 2024-09-17, updated: 2024-09-17, from: Polygon Website
+
+The Sims franchise is moving beyond linear, sequential video game releases, according to franchise vice president and general manager Kate Gorman Revelli. Instead of moving on to The Sims 5, replacing The Sims 4, Electronic Arts and developer Maxis will continue to support The Sims 4, adding onto the franchise by developing next to it, [&#8230;] 
+
+<https://www.polygon.com/the-sims/452618/project-rene-5-replacement-announcement>
+
+---
+
+## The Ghostbusters and other spooky additions are coming to Magic: The Gathering
+
+date: 2024-09-17, updated: 2024-09-17, from: Polygon Website
+
+The next Secret Lair for Magic: The Gathering arrives on Sept. 30. Just in time for the spoopiest time of the year, collectors will have the opportunity to purchase a pair of new Secret Lair drops celebrating New York’s favorite paranormal investigators and eliminators, the Ghostbusters. While the new drops feature depictions of Winston, Ray, [&#8230;] 
+
+<https://www.polygon.com/pre-order/452303/magic-the-gathering-mtg-ghostbusters-slimer-chucky-secret-lair>
+
+---
+
+## Daggerheart, the new TTRPG from Critical Role, is available to pre-order
+
+date: 2024-09-17, updated: 2024-09-17, from: Polygon Website
+
+The anticipated TTRPG system from Darrington Press, Daggerheart, is now available to pre-order. The new system — penned in part by Matthew Mercer of Critical Role — is finally heading to the presses following a free open beta period. Darrington Press hasn’t announced an exact release date yet, but has landed on a Spring 2025 [&#8230;] 
+
+<https://www.polygon.com/pre-order/452482/daggerheart-ttrpg-critical-role-where-to-buy-darrington-press>
 
 ---
 

@@ -1,11 +1,509 @@
 ---
 title: pacific
-updated: 2024-09-17 07:45:35
+updated: 2024-09-18 07:28:28
 ---
 
 # pacific
 
-(date: 2024-09-17 07:45:35)
+(date: 2024-09-18 07:28:28)
+
+---
+
+## How AI, QAnon and falsehoods are reshaping the presidential race
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>This year&#8217;s presidential election has been polluted with rumors, conspiracy theories and a wave of artificial intelligence imagery. Former President Donald Trump has continued to sow doubts about election integrity as his allies across the country have taken steps to make election denial a fixture of the balloting process.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/nation-world-news/how-ai-qanon-and-falsehoods-are-reshaping-the-presidential-race/>
+
+---
+
+## Bruised by fresh loss, Canada’s Trudeau shows no sign of stepping down
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>OTTAWA &#8212; Doubts about the leadership of Canadian Prime Minister Justin Trudeau intensified after his ruling Liberal Party suffered a second humiliating loss in a special election, but the unpopular leader is determined to cling to office ahead of a looming national vote. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/nation-world-news/bruised-by-fresh-loss-canadas-trudeau-shows-no-sign-of-stepping-down/>
+
+---
+
+## Lava erupts from Napau Crater: Fountains are reportedly as high as 30 feet
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>Lava returned to the remote Napau Crater in Hawaiian Volcanoes National Park for the first time in nearly 30 years Tuesday as Kilauea&#8217;s latest eruption continues.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/hawaii-news/lava-erupts-from-napau-crater-fountains-are-reportedly-as-high-as-30-feet/>
+
+---
+
+## Fake Kamala hit-and-run story is the work of Russian propaganda group, Microsoft says
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>A false claim circulating on social media that Democratic presidential candidate Kamala Harris left a 13-year-old girl paralyzed after an alleged hit-and-run in San Francisco in 2011 is the work of a covert Russian disinformation operation, according to new research by Microsoft. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/nation-world-news/fake-kamala-hit-and-run-story-is-the-work-of-russian-propaganda-group-microsoft-says/>
+
+---
+
+## Alaska Airlines’ acquisition of Hawaiian Airlines cleared by regulator
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Transportation Department said Tuesday that it would allow Alaska Airlines to close its $1.9 billion acquisition of Hawaiian Airlines, clearing the way for the first major U.S. airline merger in nearly a decade.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/nation-world-news/alaska-airlines-acquisition-of-hawaiian-airlines-cleared-by-regulator/>
+
+---
+
+## Nation and world news in brief for September 18
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>Senate IVF bill fails after Republicans block it, despite Trump support</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/nation-world-news/nation-and-world-news-in-brief-for-september-18/>
+
+---
+
+## Hawaii Radiologic Associates shut down by ‘security incident’
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Radiologic Associates has canceled all patient appointments for medical imaging services since late August due to what it called &#8220;a security incident that affected some of our systems.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/hawaii-news/hawaii-radiologic-associates-shut-down-by-security-incident/>
+
+---
+
+## Work to replace Pauahi Street Bridge on schedule
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>Construction on the Pauahi Street Bridge is on schedule, according to the Hawaii County Department of Public Works.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/hawaii-news/work-to-replace-pauahi-street-bridge-on-schedule/>
+
+---
+
+## Dodgers can’t blame awful run of starting pitching injuries solely on misfortune
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>The party line for the Los Angeles Dodgers is that there is not one way to win a World Series. The 2023 Texas Rangers became champions pitching Max Scherzer at less than full strength in Game 3 and Andrew Heaney in Game 4. The 2021 Atlanta Braves did it going with bullpen games in Games 4 and 5.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/sports/dodgers-cant-blame-awful-run-of-starting-pitching-injuries-solely-on-misfortune/>
+
+---
+
+## NFL and Dolphins need to ensure Tagovailoa doesn’t sustain another concussion in 2024
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>MIAMI &#8212; Tua Tagovailoa being placed on the Miami Dolphins&#8217; injured reserve list wasn&#8217;t just the smart thing for the franchise to do.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/sports/nfl-and-dolphins-need-to-ensure-tagovailoa-doesnt-sustain-another-concussion-in-2024/>
+
+---
+
+## UH-H athletics: Reigning PacWest POYs take Player of the Week honors; Vulcan Challenge information
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>A big week for UH-Hilo women&#8217;s soccer ended with sweeping the Pacific West Conference weekly awards for Player of the Week, Defender of the Week and Team of the Week. Reigning PacWest Conference Player of the Year Teani Arakawa and reigning PacWest Conference Goalkeeper of the Year Phoebe Barnes were announced Monday afternoon as recipients of the weekly individual accolades after going 1-0-1 with a scoreless draw against Cal State San Bernardino and a key 4-0 victory over No. 8 Seattle Pacific.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/sports/uh-h-athletics-reigning-pacwest-poys-take-player-of-the-week-honors-vulcan-challenge-information/>
+
+---
+
+## Warriors, Ka Makani and ‘Riders cruise to victories
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>Another week of Big Island Interscholastic Federation (BIIF) girls volleyball games kicked off Monday across the isle.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/sports/warriors-ka-makani-and-riders-cruise-to-victories/>
+
+---
+
+## Frenchman admits to mass rape of his wife, says acts were ‘an addiction’
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>AVIGNON, France &#8212; Dominique Pelicot admitted to drugging his wife and recruiting dozens of strangers to rape her over nearly a decade, begging for his family&#8217;s forgiveness, as he told a French court on Tuesday: &#8220;I am a rapist.&#8221; </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/nation-world-news/frenchman-admits-to-mass-rape-of-his-wife-says-acts-were-an-addiction/>
+
+---
+
+## Sean ‘Diddy’ Combs pleads not guilty to sex trafficking; judge denies bail
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Sean &#8220;Diddy&#8221; Combs used his fame as one of hip-hop&#8217;s biggest names to coerce women into demeaning sexual acts as part of a long-running scheme of sex trafficking and racketeering, prosecutors said on Tuesday in bringing three criminal charges against him. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/nation-world-news/sean-diddy-combs-pleads-not-guilty-to-sex-trafficking-judge-denies-bail/>
+
+---
+
+## Obituaries for September 18
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>Andrea Nohealani Avenue, 58, of Kailua-Kona died May 9 in Kealakekua. She was the county Parks and Recreation maintenance supervisor for North and South Kona. Celebration of life 11 a.m. Saturday, Oct. 5, Ke Ola Pu&#8216;uhonua, 95-5462 Mamalahoa Hwy. in Naalehu. Survived by husband, Leonard Avenue of Kailua-Kona; daughter, Torie (Kamaki) Merola of Ocean View; son, Bronson Avenue of Kailua-Kona; brother, Demetrius Oliveira of Ka&#8216;u; sisters, Norma (Paul Book) Oliveira of Ocean View and Lovelyn (Patrick) Alapai of Kailua-Kona; eight grandchildren; nephews, nieces and cousins. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/obituaries/obituaries-for-september-18-10/>
+
+---
+
+## Ohio governor sending state police to Springfield after rash of bomb scares
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>Children across Springfield, Ohio, arrived at school Tuesday morning to the sight of state troopers, deployed by the governor after a wave of bomb scares rattled the community.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/nation-world-news/ohio-governor-sending-state-police-to-springfield-after-rash-of-bomb-scares/>
+
+---
+
+## Harris calls for end to war in Gaza, no Israeli reoccupation
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>PHILADELPHIA &#8212; U.S. Democratic presidential candidate Kamala Harris called on Tuesday for an end to the Israel-Gaza war and said that Israel must not reoccupy the Palestinian enclave once the nearly year-old conflict comes to an end. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/nation-world-news/harris-calls-for-end-to-war-in-gaza-no-israeli-reoccupation/>
+
+---
+
+## Hezbollah vows to punish Israel after pager blasts kill nine, injure thousands across Lebanon
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT &#8212; Militant group Hezbollah promised to retaliate against Israel after accusing it of detonating pagers across Lebanon on Tuesday, killing nine people and wounding nearly 3,000 others who included fighters and Iran&#8217;s envoy to Beirut. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/nation-world-news/hezbollah-vows-to-punish-israel-after-pager-blasts-kill-nine-injure-thousands-across-lebanon/>
+
+---
+
+## Instagram rolls out teen accounts with privacy, parental controls as scrutiny mounts
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; Meta Platforms is rolling out enhanced privacy and parental controls for Instagram accounts of users under 18 in a significant overhaul aimed at addressing growing concerns around the negative effects of social media. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/nation-world-news/instagram-rolls-out-teen-accounts-with-privacy-parental-controls-as-scrutiny-mounts/>
+
+---
+
+## Peace Day Festival in Honokaa on Saturday
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>HONOKAA &#8212; The International Day of Peace is celebrated every year on Sept. 21.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/community/peace-day-festival-in-honokaa-on-saturday/>
+
+---
+
+## Free tire collection event in Keaau
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>A free tire collection event will be held between 8 a.m. and 1 p.m. on Saturday at the Keaau Middle School parking lot at 16-565 Keaau-Pahoa Road.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/community/free-tire-collection-event-in-keaau/>
+
+---
+
+## ‘Ukulele master Kris Fuchigami to perform Friday with special guests at the Palace Theater
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>Kris Fuchigami&#8217;s musical journey began at age 13 with an old, beat-up &#8216;ukulele and a dream to become a master of the instrument.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/entertainment/ukulele-master-kris-fuchigami-to-perform-friday-with-special-guests-at-the-palace-theater/>
+
+---
+
+## Groundwork for violence: The danger of the pet-eating migrant lies of Vance and Trump
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>At last week&#8217;s presidential debate, Donald Trump brought up a chilling scene: Haitian migrants roaming the city of Springfield, Ohio, terrorizing the local population and eating their pets. It was a message previously spread by his vice presidential candidate, JD Vance, and other prominent GOP politicians.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/opinion/groundwork-for-violence-the-danger-of-the-pet-eating-migrant-lies-of-vance-and-trump/>
+
+---
+
+## UH webinar series explores religious diversity, counteracting bias
+
+date: 2024-09-18, from: University of Hawaiʻi News
+
+<p>The series is available to the students, faculty and staff to the 10-campus system.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/17/religious-diversity-counteracting-bias-webinar-series/"><abbr>UH</abbr> webinar series explores religious diversity, counteracting bias</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/17/religious-diversity-counteracting-bias-webinar-series/>
+
+---
+
+## Hawaiian Word of the Week: ʻEke
+
+date: 2024-09-18, from: University of Hawaiʻi News
+
+<p>&#699;Eke&#8212;Sack, pocket, bag, basket.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/17/hawaiian-word-of-the-week-eke/">Hawaiian Word of the Week: ʻEke</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/17/hawaiian-word-of-the-week-eke/>
+
+---
+
+## Joshua “Baba” Tavares: From Broadway to Hawaiian theatre
+
+date: 2024-09-18, from: University of Hawaiʻi News
+
+<p>Joshua &#8220;Baba&#8221; Tavares returned to <span aria-label="Hawaii">Hawai&#699;i</span> after nearly nine years of living in New York City and performing in the Broadway musical <em>RENT</em>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/17/tavares-from-broadway-to-hawaiian-theatre/">Joshua “Baba” Tavares: From Broadway to Hawaiian theatre</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/17/tavares-from-broadway-to-hawaiian-theatre/>
+
+---
+
+## Public forums for UH Presidential candidates set to start
+
+date: 2024-09-18, from: University of Hawaiʻi News
+
+<p>The finalists, Wendy F. Hensel and Julian Vasquez Heilig, will attend an open house and a moderated public forum in each of the four counties.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/17/public-forums-next/">Public forums for <abbr>UH</abbr> Presidential candidates set to start</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/17/public-forums-next/>
+
+---
+
+## QB Schager named to prestigious AFCA Good Works Team, Wuerffel Trophy semifinalist
+
+date: 2024-09-18, from: University of Hawaiʻi News
+
+<p>Brayden Schager has been recognized for his exceptional community service and volunteerism off the field.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/17/schager-afca-good-works-team/"><abbr>QB</abbr> Schager named to prestigious <abbr>AFCA</abbr> Good Works Team, Wuerffel Trophy semifinalist</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/17/schager-afca-good-works-team/>
+
+---
+
+## Damacion secures second Freshman of the Week honor
+
+date: 2024-09-18, from: University of Hawaiʻi News
+
+<p>Nalani Damacion fired off four shot attempts in her eighth consecutive start.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/17/damacion-secures-2nd-freshman-of-the-week/">Damacion secures second Freshman of the Week honor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/17/damacion-secures-2nd-freshman-of-the-week/>
+
+---
+
+## UH Hilo women’s soccer sweeps three PacWest weekly awards
+
+date: 2024-09-18, from: University of Hawaiʻi News
+
+<p>The Vulcans were named Team of the Week, Teani Arakawa was honored as Player of the Week and Phoebe Barnes earned Defender of the Week.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/17/hilo-womens-3-pacwest-weekly-awards/"><abbr>UH</abbr> Hilo women’s soccer sweeps three PacWest weekly awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/17/hilo-womens-3-pacwest-weekly-awards/>
+
+---
+
+## Rainbow Wahine volleyball claims three Big West weekly honors
+
+date: 2024-09-18, from: University of Hawaiʻi News
+
+<p>Caylen Alexander was named Player of the Week, Miliana Sylvester earned Freshman of the Week, and Kate Lang received Setter of the Week honors.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/17/wahine-vb-claims-3-bw-honors/">Rainbow Wahine volleyball claims three Big West weekly honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/17/wahine-vb-claims-3-bw-honors/>
+
+---
+
+## USP leads in promoting women’s access to higher education
+
+date: 2024-09-18, from: University of the South Pacific (Fiji)
+
+<p>A recent report by the Asian Development Bank (ADB) highlighted that women in the Solomon...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-leads-in-promoting-womens-access-to-higher-education/">USP leads in promoting women’s access to higher education</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-leads-in-promoting-womens-access-to-higher-education/>
+
+---
+
+## Tropical medicine professor named immunization champion
+
+date: 2024-09-17, from: University of Hawaiʻi News
+
+<p>Sandra Chang was named <span aria-label="Hawaii">Hawai&#699;i</span>ʻs 2024 Immunization Champion by the Association of Immunization Managers.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/17/sandra-chang-immunization-champ/">Tropical medicine professor named immunization champion</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/17/sandra-chang-immunization-champ/>
+
+---
+
+## National Award for Kapiʻolani CC student blending Hawaiian culture, math
+
+date: 2024-09-17, from: University of Hawaiʻi News
+
+<p>Moani Pomare’s award-winning research project examined math embedded in traditional Hawaiian tattoos.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/17/national-award-for-moani-pomare/">National Award for Kapiʻolani <abbr>CC</abbr> student blending Hawaiian culture, math</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/17/national-award-for-moani-pomare/>
+
+---
+
+## Red flags at 9 Saipan sites
+
+date: 2024-09-17, updated: 2024-09-18, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan's west coast recreational beaches and storm drainages every week. 
+
+<https://www.mvariety.com/news/local/red-flags-at-9-saipan-sites/article_a3e1b258-74f0-11ef-85a3-1b0e20ad77dd.html>
+
+---
+
+## Sinner adds former Djokovic trainer, physio to coaching team
+
+date: 2024-09-17, updated: 2024-09-18, from: Marianas Variety
+
+(Reuters) — World number one Jannik Sinner has added fitness coach Marco Panichi and physiotherapist Ulises Badio to his staff following the dismissal of two members after he escaped a doping ban despite failing two drug tests in March. 
+
+<https://www.mvariety.com/sports/nationalsports/sinner-adds-former-djokovic-trainer-physio-to-coaching-team/article_12283cde-74ea-11ef-ac5e-87757eb19847.html>
+
+---
+
+## US gymnast Chiles appeals decision that stripped her of bronze medal
+
+date: 2024-09-17, updated: 2024-09-18, from: Marianas Variety
+
+(Reuters) — U.S. gymnast Jordan Chiles on Monday filed an appeal in the Federal Supreme Court of Switzerland to overturn a decision that stripped her of her Olympic bronze medal in the women's floor event at the Paris Games. 
+
+<https://www.mvariety.com/sports/nationalsports/us-gymnast-chiles-appeals-decision-that-stripped-her-of-bronze-medal/article_6d2b305a-74ea-11ef-ac83-c71c6b993a52.html>
+
+---
+
+## MLB roundup: Mets edge Nats in 10th for 11th walk-off win
+
+date: 2024-09-17, updated: 2024-09-18, from: Marianas Variety
+
+(Reuters) — Starling Marte hit a game-ending single with one out in the 10th inning as the New York Mets earned a 2-1 victory over the visiting Washington Nationals on Monday. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-mets-edge-nats-in-10th-for-11th-walk-off-win/article_0986adf8-74eb-11ef-86bd-27039e7bd6a7.html>
+
+---
+
+## Barkley’s pivotal drop late in 4th quarter burns Eagles in 22-21 loss to Atlanta Falcons
+
+date: 2024-09-17, updated: 2024-09-18, from: Marianas Variety
+
+PHILADELPHIA (AP) — Saquon Barkley had at least a first down, maybe even a touchdown, in his grasp that would have sealed the Eagles’ win in their home opener. 
+
+<https://www.mvariety.com/sports/nationalsports/barkley-s-pivotal-drop-late-in-4th-quarter-burns-eagles-in-22-21-loss-to/article_9677a668-74eb-11ef-a5ac-b71a23038675.html>
+
+---
+
+## US strategy for anti-ship weapons to counter China: plentiful, mobile, deadly
+
+date: 2024-09-17, updated: 2024-09-18, from: Marianas Variety
+
+SINGAPORE (Reuters) — The United States is amassing an arsenal of abundant and easily made anti-ship weapons as part of American efforts to deter China in the Indo-Pacific region and gear up U.S. forces there. 
+
+<https://www.mvariety.com/news/regional_world/us-strategy-for-anti-ship-weapons-to-counter-china-plentiful-mobile-deadly/article_401737b0-74ec-11ef-8ac4-4b27b9ca2ee7.html>
+
+---
+
+## Boeing freezes hiring, weighs furloughs as strike enters fourth day
+
+date: 2024-09-17, updated: 2024-09-18, from: Marianas Variety
+
+SEATTLE (Reuters) — Boeing is freezing hiring and weighing temporary furloughs to cut costs as a strike by more than 30,000 workers entered its fourth day on Monday. 
+
+<https://www.mvariety.com/business/business_news/boeing-freezes-hiring-weighs-furloughs-as-strike-enters-fourth-day/article_108a44f0-74ed-11ef-9aec-5f7628395934.html>
+
+---
+
+## Kanoa, Latte lead Women's League
+
+date: 2024-09-17, updated: 2024-09-18, from: Marianas Variety
+
+KANOA and Latte football clubs notched victories in the opening games on Sunday to lead Division A of the NMI Football Association's Dove Women's League at the NMI Soccer Training Center in Koblerville. 
+
+<https://www.mvariety.com/sports/localsports/kanoa-latte-lead-womens-league/article_4cc143ba-74d9-11ef-90ce-57b390718b9e.html>
+
+---
+
+## ‘In Vogue: The 90s’ series looks back at 1990s fashion power
+
+date: 2024-09-17, updated: 2024-09-18, from: Marianas Variety
+
+LONDON (Reuters) — Fashionistas took a break from the London catwalk shows on Monday to gather for the screening of new documentary series "In Vogue: The 90s," which looks back at one of fashion's most exciting decades and how it influenced mainstream culture. 
+
+<https://www.mvariety.com/lifestyle/in-vogue-the-90s-series-looks-back-at-1990s-fashion-power/article_5f5bd164-74ef-11ef-bcb9-f7ac8c422bec.html>
+
+---
+
+## Thai baby hippo internet star draws thousands to her zoo
+
+date: 2024-09-17, updated: 2024-09-18, from: Marianas Variety
+
+CHONBURI, Thailand (Reuters) — Thailand's latest internet celebrity, baby hippo "Moo Deng," is challenging her keepers with the unexpectedly big crowds she is drawing to her zoo, two hours south of the capital Bangkok. 
+
+<https://www.mvariety.com/lifestyle/thai-baby-hippo-internet-star-draws-thousands-to-her-zoo/article_ad5b3b2a-74ef-11ef-b31f-e79f2bc700b9.html>
 
 ---
 
@@ -246,6 +744,30 @@ date: 2024-09-17, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/09/17/opinion/want-cheaper-grocery-bills-give-kids-free-school-meals/>
+
+---
+
+## Washington couple apparently drowns in Maui waters
+
+date: 2024-09-17, from: Hawaii Tribune Harold
+
+
+				<p>Ilya and Sophia Tsaruk were vacationing on Maui from Washington state when they apparently drowned Saturday while swimming and possibly snorkeling in waters off the Ahihi-Kinau Natural Area Reserve in the southwest corner of Maui.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/17/hawaii-news/washington-couple-apparently-drowns-in-maui-waters/>
+
+---
+
+## Lava erupts from fissures in Napau Crater in Hawaii Volcanoes National Park
+
+date: 2024-09-17, from: Hawaii Tribune Harold
+
+
+				<p>Kilauea is once again erupting in Hawaii Volcanoes National Park.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/17/hawaii-news/kilauea-eruption-resumes-after-brief-pause-monday/>
 
 ---
 

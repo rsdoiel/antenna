@@ -1,11 +1,64 @@
 ---
 title: libraries
-updated: 2024-09-17 07:45:41
+updated: 2024-09-18 07:28:34
 ---
 
 # libraries
 
-(date: 2024-09-17 07:45:41)
+(date: 2024-09-18 07:28:34)
+
+---
+
+## New tool to assess equity in scholarly communication models
+
+date: 2024-09-18, from: SciELO in Perspective
+
+<p>The “How Equitable Is It” tool, launched at the OASPA 2024 conference, was developed by a multi-stakeholder Working Group convened by cOAlition S, Jisc and PLOS, with the goal to provide a framework for evaluating scholarly communication models and arrangements on the axis of equity. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://www.coalition-s.org/new-tool-to-assess-equity-in-scholarly-communication-models/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://www.coalition-s.org/new-tool-to-assess-equity-in-scholarly-communication-models/#new_tab">New tool to assess equity in scholarly communication models</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://www.coalition-s.org/new-tool-to-assess-equity-in-scholarly-communication-models/#new_tab>
+
+---
+
+## Ask the Community — Thoughts on a Class Action Lawsuit Brought Against Scholarly Publishers
+
+date: 2024-09-18, from: Scholarly Kitchen
+
+<p>Antitrust litigation has been filed against six major scholarly publishers. We reached out to the community for their thoughts.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/09/18/ask-the-community-thoughts-on-a-class-action-lawsuit-brought-against-scholarly-publishers/">Ask the Community &#8212; Thoughts on a Class Action Lawsuit Brought Against Scholarly Publishers</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/09/18/ask-the-community-thoughts-on-a-class-action-lawsuit-brought-against-scholarly-publishers/>
+
+---
+
+## High Speed Plasmonic Modulators for Future Space Communications
+
+date: 2024-09-18, from: ETH Zurich, recently added
+
+Kulmer, Laurenz; Blatter, Tobias; Destraz, Marcel; Baeuerle, Benedikt; Horst, Yannik; Koepfli, Stefan M.; Leuthold, Juerg 
+
+<http://hdl.handle.net/20.500.11850/694646>
+
+---
+
+## Plasmonic BTO-on-SiN Modulators for High-Speed Optical Communication
+
+date: 2024-09-18, from: ETH Zurich, recently added
+
+Kohli, Manuel; Filice, Davide; Chelladurai, Daniel; Kulmer, Laurenz; Keller, Killian; Blatter, Tobias; Buriakova, Tatiana; Zervas, Michael; Convertino, Clarissa; Eltes, Felix; Fedoryshyn, Yuriy; Koch, Ueli; Leuthold, Juerg 
+
+<http://hdl.handle.net/20.500.11850/694643>
+
+---
+
+## Impact of Multi-Band Transmission on Optical Signal-to-Noise Ratio Measurements
+
+date: 2024-09-18, from: ETH Zurich, recently added
+
+Emmerich, Robert 
+
+<http://hdl.handle.net/20.500.11850/694637>
 
 ---
 
@@ -25,7 +78,7 @@ date: 2024-09-17, from: Scholarly Kitchen
 
 date: 2024-09-16, from: Association of Research Libraries News
 
-<p>Last Updated on September 16, 2024, 3:27 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 17 &#124; Wednesday, September 18 &#124; Thursday, September 19 Monday, September 16...</p>
+<p>Last Updated on September 17, 2024, 2:14 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 17 &#124; Wednesday, September 18 &#124; Thursday, September 19 Monday, September 16...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-16-19/">Day in Review (September 16–19)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

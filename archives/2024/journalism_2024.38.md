@@ -1,11 +1,99 @@
 ---
 title: journalism
-updated: 2024-09-17 07:45:40
+updated: 2024-09-18 07:28:34
 ---
 
 # journalism
 
-(date: 2024-09-17 07:45:40)
+(date: 2024-09-18 07:28:34)
+
+---
+
+## CSUN Alumni shine at Paralympics, bring Home Gold on Global Stage
+
+date: 2024-09-18, from: The Sundail (CSUN Student Newspaper)
+
+After securing a third consecutive gold medal for Team USA in sitting volleyball and a fifth-place finish in the women&#8217;s C1-3 race, CSUN alumni, Katie Holloway Bridge and Jamie Whitmore... 
+
+<https://sundial.csun.edu/184985/sports/csun-alumni-shine-at-paralympics-bring-home-gold-on-global-stage/>
+
+---
+
+## USC, Viterbi inaugurate Ginsburg Hall
+
+date: 2024-09-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The building is designed to provide collaboration space without classroom space.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/18/usc-viterbi-inaugurate-ginsburg-hall/">USC, Viterbi inaugurate Ginsburg Hall</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/18/usc-viterbi-inaugurate-ginsburg-hall/>
+
+---
+
+## RSO representatives speak at USG senate, air complaints.
+
+date: 2024-09-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Open forum spanned more than two hours, allowing students' voices to be heard.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/18/rso-representatives-speak-at-usg-senate-air-complaints/">RSO representatives speak at USG senate, air complaints. </a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/18/rso-representatives-speak-at-usg-senate-air-complaints/>
+
+---
+
+## Shiekh T-shirt causes backlash online, on campus
+
+date: 2024-09-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The T-shirt illustrated the Palestinian flag over Israel and the State of Palestine.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/18/shiekh-t-shirt-causes-backlash-online-on-campus/">Shiekh T-shirt causes backlash online, on campus</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/18/shiekh-t-shirt-causes-backlash-online-on-campus/>
+
+---
+
+## Gallery: Glass Animals electrify and inspire at sold out Kia Forum
+
+date: 2024-09-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Glass Animals stopped in Los Angeles on Saturday night as a part of their space-themed world tour “Human Musical Group Sensations Glass Animals: Tour of Earth.” Blondshell and Eyedress opened for the group, providing flowing vocals. 
+
+<https://dailybruin.com/2024/09/17/gallery-glass-animals-electrify-and-inspire-at-sold-out-kia-forum/>
+
+---
+
+## Faculty express developmental course concerns at Academic Senate
+
+date: 2024-09-17, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Faculty public commenters opened the Sept. 9 Academic Senate Meeting in Building 600—the first of the fall semester—with concerns over a decrease of student placements</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/17/faculty-express-developmental-course-concerns-at-academic-senate/">Faculty express developmental course concerns at Academic Senate</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/17/faculty-express-developmental-course-concerns-at-academic-senate/?utm_source=rss&utm_medium=rss&utm_campaign=faculty-express-developmental-course-concerns-at-academic-senate>
+
+---
+
+## Local journalists try new methods to reach, serve, and build trust with audiences
+
+date: 2024-09-17, from: Nieman Journalism Lab
+
+Chicago — At the Independent News Sustainability Summit in the Windy City this month, hosted by Local Independent Online News Publishers, news entrepreneurs from across the U.S. and beyond swapped strategies on the nuts and bolts of making the business of local news work in 2024. LION recognized the winners of its annual Sustainability Awards,... 
+
+<https://www.niemanlab.org/2024/09/local-journalists-try-new-methods-to-reach-serve-and-build-trust-with-audiences/>
+
+---
+
+## We know why journalists leave the profession. A new study looks at why they stay
+
+date: 2024-09-17, from: Nieman Journalism Lab
+
+&#8220;Joy&#8221; may not be the first word that comes to mind when you think about journalism. In some ways, that makes sense: Journalists report emotionally exhausting stories, manage the at-times hostile audience members, and navigate long working hours. Recent academic research has explored much of that. But we’re missing something essential in all of that... 
+
+<https://www.niemanlab.org/2024/09/we-know-why-journalists-leave-the-profession-a-new-study-looks-at-why-they-stay/>
 
 ---
 

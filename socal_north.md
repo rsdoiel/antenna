@@ -1,11 +1,74 @@
 ---
 title: socal north
-updated: 2024-09-17 07:45:33
+updated: 2024-09-18 07:28:27
 ---
 
 # socal north
 
-(date: 2024-09-17 07:45:33)
+(date: 2024-09-18 07:28:27)
+
+---
+
+## These college students want to save the world. There's an internship for that
+
+date: 2024-09-18, updated: 2024-09-18, from: The LAist
+
+A group of local community college students spent the summer learning about climate change — and what they can do to take on the issue professionally. 
+
+<https://laist.com/news/education/west-los-angeles-college-climate-paid-internship>
+
+---
+
+## George Gascón opens up about his record and regrets as LA's DA
+
+date: 2024-09-18, updated: 2024-09-18, from: The LAist
+
+In Episode 3 of Imperfect Paradise: District Attorney Gascón, the L.A. County district attorney talks about his record, and family members of victims of crime offer their own views. 
+
+<https://laist.com/news/shows/imperfectparadise/george-gascon-los-angeles-district-attorney-record-regrets>
+
+---
+
+## Combs Charged with Sex Trafficking, Racketeering in Indictment
+
+date: 2024-09-17, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="632" height="747" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Diddy.jpg?fit=632%2C747&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Diddy.jpg?w=632&amp;ssl=1 632w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Diddy.jpg?resize=254%2C300&amp;ssl=1 254w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Diddy.jpg?resize=400%2C473&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Diddy.jpg?fit=632%2C747&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; Nearly six months after his homes in Holmby Hills and Florida were raided simultaneously by federal agents, Grammy winner Sean &#8220;Diddy&#8221; Combs was accused in an [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/17/combs-charged-with-sex-trafficking-racketeering-in-indictment/">Combs Charged with Sex Trafficking, Racketeering in Indictment</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/17/combs-charged-with-sex-trafficking-racketeering-in-indictment/>
+
+---
+
+## Orange County remains far behind when it comes to planning for climate change
+
+date: 2024-09-17, updated: 2024-09-17, from: The LAist
+
+But there has been modest progress for some cities and the county. 
+
+<https://laist.com/news/climate-environment/orange-county-far-behind-planning-climate-change>
+
+---
+
+## Fighting staff shortages with scholarships, California bill aims to boost mental health courts
+
+date: 2024-09-17, updated: 2024-09-17, from: The LAist
+
+A proposal to offer scholarships for mental health workers in California’s new court-ordered treatment program sparks debate. 
+
+<https://laist.com/news/politics/fighting-staff-shortages-with-scholarships-california-bill-aims-to-boost-mental-health-courts>
+
+---
+
+## Power shutoffs extend into Rolling Hills because of land movement on Palos Verdes Peninsula
+
+date: 2024-09-17, updated: 2024-09-18, from: The LAist
+
+240 residents on the Peninsula are now without power. 
+
+<https://laist.com/news/climate-environment/power-shut-offs-extend-into-rolling-hills-because-of-land-movement-on-palos-verdes-peninsula>
 
 ---
 

@@ -1,11 +1,51 @@
 ---
 title: retro computing
-updated: 2024-09-17 07:45:43
+updated: 2024-09-18 07:28:37
 ---
 
 # retro computing
 
-(date: 2024-09-17 07:45:43)
+(date: 2024-09-18 07:28:37)
+
+---
+
+## WROCC Newsletter Volume 41:12 reviewed
+
+date: 2024-09-18, from: Icon Bar, RISC OS News
+
+The delayed March release of WROCC magazine has now been sent out to all members.  This is the monthly 'mini' magazine all members receive as one of the club benefits. It is your monthly RISC OS mini-magazine in PDF format! I have really missed it so great have you back. 
+
+<http://www.iconbar.com/comments/rss/news2103.html>
+
+---
+
+## b.log 2024/09/17 - Sometimes I impress myself, Carte gris?, Dehumidifier redux, Rescuing the rose, Potatoes, Outside.
+
+date: 2024-09-17, from: Richard Murray's blog
+
+Sometimes I impress myself, Carte gris?, Dehumidifier redux, Rescuing the rose, Potatoes, Outside. 
+
+<https://heyrick.eu/blog/index.php?diary=20240917>
+
+---
+
+## AlmaLinux Unveils New Hardware Certification Process
+
+date: 2024-09-17, from: Linux Magazine
+
+<p>The AlmaLinux Hardware Certification Program run by the Certification Special Interest Group (SIG) aims to ensure seamless compatibility between AlmaLinux and a wide range of hardware configurations.</p> 
+
+<http://www.linux-magazine.com/Online/News/AlmaLinux-Unveils-New-Hardware-Certification-Process>
+
+---
+
+## Wind River Introduces eLxr Pro Linux Solution
+
+date: 2024-09-17, from: Linux Magazine
+
+<p>eLxr Pro offers an end-to-end Linux solution backed by expert commercial support.</p> 
+
+<http://www.linux-magazine.com/Online/News/Wind-River-Introduces-eLxr-Pro-Linux-Solution>
 
 ---
 

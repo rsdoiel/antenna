@@ -1,11 +1,257 @@
 ---
 title: home
-updated: 2024-09-17 07:45:41
+updated: 2024-09-18 07:28:35
 ---
 
 # home
 
-(date: 2024-09-17 07:45:41)
+(date: 2024-09-18 07:28:35)
+
+---
+
+## Why Does My Dog Follow Me to the Bathroom?
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>Why Does My Dog Follow Me Into the Bathroom?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/why-does-my-dog-follow-me-into-the-bathroom/">Why Does My Dog Follow Me to the Bathroom?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/why-does-my-dog-follow-me-into-the-bathroom/>
+
+---
+
+## The Halloween Decor That Will Get Your House Ready for Spooky Season
+
+date: 2024-09-18, from: Sunset Magazine - Living in the West
+
+It's time to decorate your space with some spooky finds. These Halloween home decor pieces will add some seasonal flair to your space. 
+
+<https://www.sunset.com/home-garden/design/halloween-home-decor>
+
+---
+
+## Should You Paint Your Lawn Green? What to Know About This Trend
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>Is this recent trend going to kill your lawn? A turf specialist weighs in.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/lawn-painting/">Should You Paint Your Lawn Green? What to Know About This Trend</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/lawn-painting/>
+
+---
+
+## This Easy DIY Natural Wasp Killer Hack Will Kill Wasps Quickly
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>That nest won't know what hit it!</p>
+<p>The post <a href="https://www.familyhandyman.com/article/natural-wasp-killer/">This Easy DIY Natural Wasp Killer Hack Will Kill Wasps Quickly</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/natural-wasp-killer/>
+
+---
+
+## The 6 Best Garage Door Insulation Kits for Temperature Control
+
+date: 2024-09-17, from: Family Handyman Blog
+
+<p>We researched garage door insulation kits and found the best ones based on quality, value and ease of installation.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/garage-door-insulation-kits/">The 6 Best Garage Door Insulation Kits for Temperature Control</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/list/garage-door-insulation-kits/>
+
+---
+
+## A Guide to Fire Season: Everything to Know
+
+date: 2024-09-17, from: Family Handyman Blog
+
+<p>Fire season may be coming, but we've got you covered with our handy, expert-informed guide to the safety basics.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/fire-season-guide/">A Guide to Fire Season: Everything to Know</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/fire-season-guide/>
+
+---
+
+## 2025 Colors of the Year, and How to Use Them
+
+date: 2024-09-17, from: Family Handyman Blog
+
+<p>From bold browns to vibrant blues, here's our rundown of the bold and beautiful 2025 colors of the year.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/colors-of-the-year-2025/">2025 Colors of the Year, and How to Use Them</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/list/colors-of-the-year-2025/>
+
+---
+
+## How to Replace Side View Mirror Glass
+
+date: 2024-09-17, from: Family Handyman Blog
+
+<p> Buy a precut mirror and fix the broken one on your car. The fix costs less than $20 for parts and supplies and takes only 10 minutes to complete.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/replace-side-view-mirror-glass/">How to Replace Side View Mirror Glass</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/project/replace-side-view-mirror-glass/>
+
+---
+
+## How to Replace a Doorknob In 6 Steps
+
+date: 2024-09-17, from: Family Handyman Blog
+
+<p>Like many things in your home, doorknobs eventually break and need to be replaced. This can happen in a few ways, but the most common is failure of the spring inside the latch mechanism. When this spring breaks, the latch can no longer engage with the strike plate and keep the door closed. If one of your doors has this issue and you're wondering how to change a doorknob, read this step-by-step guide and learn the whole process.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-replace-a-doorknob/">How to Replace a Doorknob In 6 Steps</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/project/how-to-replace-a-doorknob/>
+
+---
+
+## How to Silence a Squeaky Door Hinge
+
+date: 2024-09-17, from: Family Handyman Blog
+
+<p>When a door hinge develops a squeak due to wear or settling, instead of reaching for a messy spray lubricant, try this traditional, non-toxic, non-staining lubricant.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-silence-a-squeaking-hinge/">How to Silence a Squeaky Door Hinge</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/project/how-to-silence-a-squeaking-hinge/>
+
+---
+
+## How to Get Rid of Buckthorn
+
+date: 2024-09-17, from: Family Handyman Blog
+
+<p>Eliminating buckthorn is all about gaining the upper hand and keeping it. Here's how to identify and get rid of it.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-get-rid-of-buckthorn/">How to Get Rid of Buckthorn</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/how-to-get-rid-of-buckthorn/>
+
+---
+
+## Tesla Cybertrucks Are Rusting Despite Being Stainless Steel: Here’s Why
+
+date: 2024-09-17, from: Family Handyman Blog
+
+<p>Tesla started shipping the Cybertruck in 2023, and owners are already discovering rust on the body. Find out how big of a problem this actually is.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/can-stainless-steel-rust/">Tesla Cybertrucks Are Rusting Despite Being Stainless Steel: Here&#8217;s Why</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/can-stainless-steel-rust/>
+
+---
+
+## How to Paint Windows: Techniques That Save Time and Energy
+
+date: 2024-09-17, from: Family Handyman Blog
+
+<p>All of the advice for a long-lasting paint job on woodwork also applies to windows, but windows present a few unique challenges. There's the glass to avoid slopping on, as well as all sorts of hardware and weather stripping. Window paint is subjected to large temperature fluctuations and moisture from condensation. And, windows have to move freely when you're all done. In this article, we'll show you tips on how to get the best paint job on windows with the least amount of time and effort.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/techniques-for-painting-windows-that-will-save-you-time-and-energy/">How to Paint Windows: Techniques That Save Time and Energy</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/list/techniques-for-painting-windows-that-will-save-you-time-and-energy/>
+
+---
+
+## This Hotel Has the Wildest Plant Design — Here’s How to Get the Look at Home
+
+date: 2024-09-17, from: Sunset Magazine - Living in the West
+
+The plant experts behind 1 Hotel's dizzying array of greenery share inspo on how to mimic their biophillic San Francisco space. 
+
+<https://www.sunset.com/home-garden/flowers-plants/houseplant-care-tips-1hotel-san-francisco>
+
+---
+
+## In Belgium, a Wooden Home Nestled in the Dunes Is Thoughtfully Restored
+
+date: 2024-09-17, from: Dwell
+
+OYO architects didn't just bring a dwelling that survived bombing during World War II back to life—they made it sustainable. 
+
+<https://www.dwell.com/article/in-belgium-a-wooden-home-nestled-in-the-dunes-is-thoughtfully-restored-efac308f>
+
+---
+
+## This $975K Off-Grid Prefab in Northern California Comes With Nearly 65 Acres
+
+date: 2024-09-17, from: Dwell
+
+Designed by Linda Taalman, the hilltop home has walls of glass, rooftop solar panels, and a detached guesthouse. 
+
+<https://www.dwell.com/article/off-grid-prefab-home-linda-taalman-clear-lake-northern-california-real-estate-1d18cf71>
+
+---
+
+## Hunger Action Month — CDFA volunteers at Sacramento Food Bank
+
+date: 2024-09-17, from: Calfifornia Dept. Aggriculture blog
+
+Several CDFA employees volunteered yesterday at the&#160;Sacramento Food Bank and Family Services,&#160; helping to bag fresh produce and sort non-perishable food items. September is Hunger Action Month, and CDFA is proud to join forces in the fight against hunger in &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28197">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28197>
+
+---
+
+## How to Grow and Care for Zebra Haworthia
+
+date: 2024-09-17, from: The Gardener's Path
+
+<p>If you’re looking for a succulent plant that’s easy to care for, takes up little room, and has a funky appearance, zebra haworthia is sure to please. With striking white stripes on dark green foliage this small plant is eye-catching but undemanding. Learn more about growing and caring for zebra haworthia in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/grow-zebra-haworthia/">How to Grow and Care for Zebra Haworthia</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/succulents/grow-zebra-haworthia/>
+
+---
+
+## From Baja to Hawaii, These Are Our Favorite Coastal Retreats
+
+date: 2024-09-17, from: Sunset Magazine - Living in the West
+
+From a Baja resort to an Oregon lodge, these are the Coastal Gems winners of The 2024 Sunset Travel Awards. 
+
+<https://www.sunset.com/travel/best-beach-resorts-2024>
+
+---
+
+## Check in, Learn to Surf: These Beach Hotels Will Teach You How on Your Next Vacation
+
+date: 2024-09-17, from: Sunset Magazine - Living in the West
+
+Check in and learn how to surf. New programming at surf hotels in the West gives surfers of all skill levels a chance to learn. 
+
+<https://www.sunset.com/travel/outdoor-adventure/surf-hotels-laguna-surf-lodge>
+
+---
+
+## The Ultimate Carmel, California Itinerary
+
+date: 2024-09-17, from: Sunset Magazine - Living in the West
+
+Carmel is a charming seaside hamlet on Monterey Peninsula that's a must-visit. A local shares the best things to do in Carmel. 
+
+<https://www.sunset.com/travel/insider-guides/things-to-do-in-carmel>
+
+---
+
+## The New Laguna Surf Lodge Will Fulfill Your ‘Endless Summer’ Fantasy
+
+date: 2024-09-17, from: Sunset Magazine - Living in the West
+
+The new Laguna Surf Lodge is the coastal California stay we need this summer. It includes a dawn patrol experience with a surf pro. 
+
+<https://www.sunset.com/travel/laguna-surf-lodge-review>
 
 ---
 
@@ -34,7 +280,7 @@ date: 2024-09-17, from: Family Handyman Blog
 
 ---
 
-## How They Pulled It Off: a Faux Skylight and Fireplace in the Middle of a Duplex Apartment
+## How They Pulled It Off: A Faux Skylight and Fireplace in the Middle of a Duplex Apartment
 
 date: 2024-09-17, from: Dwell
 
@@ -51,6 +297,96 @@ date: 2024-09-17, from: Dwell
 Love them or hate them, can lights have taken over the ceilings of both new builds and renovations alike—and there's a surprising reason why. 
 
 <https://www.dwell.com/article/why-do-homes-these-days-have-so-much-recessed-lighting-a36ec784>
+
+---
+
+## Culinary Travel
+
+date: 2024-09-17, from: Sunset Magazine - Living in the West
+
+Amazing restaurants and more culinary travel experiences in the West. 
+
+<https://www.sunset.com/travel/culinary-travel>
+
+---
+
+## Hotels, Inns, and More
+
+date: 2024-09-17, from: Sunset Magazine - Living in the West
+
+Staying in the right hotels can make or break a vacation. Get our recommendations for great bargains, most unique sleeps, coastal stays, and more Western accommodations. 
+
+<https://www.sunset.com/travel/hotels>
+
+---
+
+## Outdoor Adventure
+
+date: 2024-09-17, from: Sunset Magazine - Living in the West
+
+Plan an outdoor adventure in the West with our insider tips on national parks, the best campgrounds, amazing hikes, and bike trips. 
+
+<https://www.sunset.com/travel/outdoor-adventure>
+
+---
+
+## Wine Country
+
+date: 2024-09-17, from: Sunset Magazine - Living in the West
+
+The West is home to the country's best wine regions. Explore them all and taste their best offerings, from the cult cabs of Napa to the Pinots of Willamette Valley. 
+
+<https://www.sunset.com/travel/wine-country>
+
+---
+
+## WildLands
+
+date: 2024-09-17, from: Sunset Magazine - Living in the West
+
+The adventures and reporting of J.D. Simkins as he roams the remaining "wild lands" of the West. 
+
+<https://www.sunset.com/travel/wildlands>
+
+---
+
+## Travel the West
+
+date: 2024-09-17, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Wellness
+
+date: 2024-09-17, from: Sunset Magazine - Living in the West
+
+Everyday inspiration for balanced, healthy living. 
+
+<https://www.sunset.com/lifestyle/wellness>
+
+---
+
+## Gifts & Shopping
+
+date: 2024-09-17, from: Sunset Magazine - Living in the West
+
+One-of-a-kind gifts to spread holiday cheer, including picks for everyone on your list, from gardeners and travelers to parents and pets. 
+
+<https://www.sunset.com/lifestyle/shopping>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-09-17, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -508,16 +844,6 @@ Delicious recipes, food and wine pairings, and more ways to savor the West.
 
 ---
 
-## Sunset.com Home Page
-
-date: 2024-09-16, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
-
----
-
 ## The Secret Behind This Malibu Home’s Hard Concrete Shell? Air.
 
 date: 2024-09-16, from: Dwell
@@ -569,16 +895,6 @@ date: 2024-09-16, from: Family Handyman Blog
  
 
 <https://www.familyhandyman.com/list/how-to-unclog-a-toilet/>
-
----
-
-## From Baja to Hawaii, These Are Our Favorite Coastal Retreats
-
-date: 2024-09-16, from: Sunset Magazine - Living in the West
-
-From a Baja resort to an Oregon lodge, these are the Coastal Gems winners of The 2024 Sunset Travel Awards. 
-
-<https://www.sunset.com/travel/best-beach-resorts-2024>
 
 ---
 

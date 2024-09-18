@@ -1,5 +1,7 @@
+
+#
+# Library and Archives organizations
 https://www.arl.org/feed/ "~Association of Research Libraries News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-#https://journal.code4lib.org/feed "~Cod4Lib Journal" curl/8.5.0 curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 http://feeds.feedburner.com/c4lj "~Cod4Lib Journal" curl/8.5.0 curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://scholarlykitchen.sspnet.org/feed/ "~Scholarly Kitchen" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://theparachute.blogspot.com/feeds/posts/default?alt=rss "~Parachute blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
@@ -11,9 +13,12 @@ https://jon-e.net/blog/feed.xml "~Jonny Saunders blog"
 https://standardebooks.org/feeds/rss/new-releases "~Standard Ebooks, new releaases" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://blog.arxiv.org/feed/ "~arXiv blog"
 https://collectionsasdata.github.io/atom.xml "~Collections Data blog"
+
 #
-# Software Research (Acedemic and Industrial)
+# Research Libraries
 #
+https://libcal.caltech.edu/rss.php?m=month&iid=3271&cid=3754 "~Caltech Library Events"
+https://library.csun.edu/blogs/cited/feed/ "~CSUN Library Blog, Cited"
 https://www.research-collection.ethz.ch/feed/rss_2.0/site "~ETH Zurich, recently added"
 
 #
