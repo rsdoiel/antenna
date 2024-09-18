@@ -1,11 +1,53 @@
 ---
 title: socal north
-updated: 2024-09-18 07:28:27
+updated: 2024-09-18 14:12:29
 ---
 
 # socal north
 
-(date: 2024-09-18 07:28:27)
+(date: 2024-09-18 14:12:29)
+
+---
+
+## Recycling Company Owner Allegedly Received Stolen Metal from Cities
+
+date: 2024-09-18, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ANGELES (CNS) &#8211; The owner of a San Fernando Valley recycling company has been arrested for allegedly receiving stolen property in connection with the theft of thousands of pounds [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/18/recycling-company-owner-allegedly-received-stolen-metal-from-cities/">Recycling Company Owner Allegedly Received Stolen Metal from Cities</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/18/recycling-company-owner-allegedly-received-stolen-metal-from-cities/>
+
+---
+
+## Midwife training options dwindle even as California searches for answers to maternity crisis
+
+date: 2024-09-18, updated: 2024-09-18, from: The LAist
+
+Only two state university programs train nurse-midwives, and only one is accepting admissions. Advocates say that will only lead to more barriers to getting more midwives into the workforce at a time they’re critically needed. 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/midwife-training-cal-state-fullerton-ucsf-training-programs>
+
+---
+
+## How you can help owls, foxes and more animals displaced or injured by wildfires
+
+date: 2024-09-18, updated: 2024-09-18, from: The LAist
+
+Look out for wildlife with burnt paws, or singed feathers. And call the authorities if you spot anything. 
+
+<https://laist.com/news/climate-environment/airport-fire-injured-wildlife>
+
+---
+
+## Cool weather brings chance of rain and thunderstorms for the next few days
+
+date: 2024-09-18, updated: 2024-09-18, from: The LAist
+
+Santa Barbara and Ventura counties could see thunderstorms Thursday. 
+
+<https://laist.com/news/climate-environment/cool-weather-chance-of-rain-thunderstorms>
 
 ---
 
@@ -33,7 +75,7 @@ In Episode 3 of Imperfect Paradise: District Attorney Gascón, the L.A. County d
 
 date: 2024-09-17, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="632" height="747" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Diddy.jpg?fit=632%2C747&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Diddy.jpg?w=632&amp;ssl=1 632w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Diddy.jpg?resize=254%2C300&amp;ssl=1 254w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Diddy.jpg?resize=400%2C473&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Diddy.jpg?fit=632%2C747&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="632" height="747" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Diddy.jpg?fit=632%2C747&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Diddy.jpg?w=632&amp;ssl=1 632w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Diddy.jpg?resize=254%2C300&amp;ssl=1 254w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Diddy.jpg?resize=400%2C473&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Diddy.jpg?fit=632%2C747&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>LOS ANGELES (CNS) &#8211; Nearly six months after his homes in Holmby Hills and Florida were raided simultaneously by federal agents, Grammy winner Sean &#8220;Diddy&#8221; Combs was accused in an [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/17/combs-charged-with-sex-trafficking-racketeering-in-indictment/">Combs Charged with Sex Trafficking, Racketeering in Indictment</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

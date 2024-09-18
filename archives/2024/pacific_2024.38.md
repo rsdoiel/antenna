@@ -1,11 +1,178 @@
 ---
 title: pacific
-updated: 2024-09-18 07:28:28
+updated: 2024-09-18 14:12:29
 ---
 
 # pacific
 
-(date: 2024-09-18 07:28:28)
+(date: 2024-09-18 14:12:29)
+
+---
+
+## UH Mānoa units team up to open new aquaculture center
+
+date: 2024-09-18, from: University of Hawaiʻi News
+
+<p>The Tuahine Aquaculture Research and Education Center was recently completed as a new aquaculture facility at <abbr>UH</abbr> M&#257;noa.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/18/new-aquaculture-center/"><abbr>UH</abbr> Mānoa units team up to open new aquaculture center</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/18/new-aquaculture-center/>
+
+---
+
+## Preserving Cambodian Indigenous history focus of $126K federal grant
+
+date: 2024-09-18, from: University of Hawaiʻi News
+
+<p>Starting January 2025, the team will conduct ethnographic and archaeological fieldwork in five Kuy communities.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/18/preserving-cambodian-indigenous-history/">Preserving Cambodian Indigenous history focus of $126<abbr>K</abbr> federal grant</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/18/preserving-cambodian-indigenous-history/>
+
+---
+
+## Students talk tuna jobs
+
+date: 2024-09-18, from: Marshal Islands Journal
+
+<p>WILMER JOEL Around 47 participants from Life Skills Academy, Assumption High School, Marshall Islands High School and local residents participated in an industry dialogue organized by FISH4ACP, Marshall Islands Marine Resources Authority, and Alele Museum at Marshall Islands Resort’s Lomalo Room last week. The discussion focused on youth employment opportunities, fishing, and Marshallese culture. Presenters [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/students-talk-tuna-jobs/">Students talk tuna jobs</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/students-talk-tuna-jobs/>
+
+---
+
+## Search process for UH president inclusive and thorough
+
+date: 2024-09-18, from: University of Hawaiʻi News
+
+<p>This editorial by <abbr>UH</abbr> Board of Regent Chair Gabriel Lee and Vice Chair Laurie Tochiki first appeared in the September 18 edition of the <em>Honolulu Star-Advertiser</em>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/18/search-process-for-uh-president-inclusive-and-thorough/">Search process for <abbr>UH</abbr> president inclusive and thorough</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/18/search-process-for-uh-president-inclusive-and-thorough/>
+
+---
+
+## Image of the Week: Bamboo conversation
+
+date: 2024-09-18, from: University of Hawaiʻi News
+
+<p>This week's image is from <abbr>UH</abbr> Mānoa's Kayla Jones.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/18/image-of-the-week-bamboo-conversation/">Image of the Week: Bamboo conversation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/18/image-of-the-week-bamboo-conversation/>
+
+---
+
+## UH Mānoa exceeds 20K students for the first time in over a decade
+
+date: 2024-09-18, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa is also welcoming a record high 3,123 first-time freshmen in fall 2024, the 3rd straight year, the university has reached 3,000 or more freshmen.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/18/uh-manoa-exceeds-20k-enrollment/"><abbr>UH</abbr> Mānoa exceeds 20K students for the first time in over a decade</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/18/uh-manoa-exceeds-20k-enrollment/>
+
+---
+
+## Palau faces growing drug crisis
+
+date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) — The Palau Senate Judiciary and Governmental Affairs Committee conducted a public hearing on Wednesday, Sept. 11 2024, to address the island nation’s escalating drug crisis. 
+
+<https://www.mvariety.com/news/regional_world/palau-faces-growing-drug-crisis/article_bc6f1d3c-7582-11ef-95d1-275c530e2ecd.html>
+
+---
+
+## OPINION ǀ The UN should not leave Taiwan behind
+
+date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
+
+WHEN Taiwanese visit Guam and North Mariana Islands for vacations, they are warmly welcomed and enjoy the convenience that visa waiver programs offer them. You probably cannot believe that Taiwan passport holders are prohibited from entering United Nations premises while many people around the world enjoy the freedom of visiting there. 
+
+<https://www.mvariety.com/views/columnists/opinion-the-un-should-not-leave-taiwan-behind/article_22cb29a4-7588-11ef-9f1c-0303e8ad98e4.html>
+
+---
+
+## US House ties government funding to voting bill as shutdown deadline nears
+
+date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
+
+WASHINGTON (Reuters) — The Republican-controlled U.S. House of Representatives will vote on legislation on Wednesday that pairs a must-pass spending bill with tighter voting rules, setting up an election year clash with the Democratic-majority Senate that risks a partial government shutdown. 
+
+<https://www.mvariety.com/news/national/us-house-ties-government-funding-to-voting-bill-as-shutdown-deadline-nears/article_d174e400-75b9-11ef-a91c-2fd1530ced7c.html>
+
+---
+
+## With Fed’s rate cut at hand, debate swirls over how big a move
+
+date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
+
+WASHINGTON (Reuters) — The Federal Reserve on Wednesday will lower interest rates for the first time in more than four years as the U.S. central bank starts to reverse the restrictive conditions it imposed to beat back inflation, but whether policymakers opt for a half-percentage-point cut or smaller move remains up in the air. 
+
+<https://www.mvariety.com/business/business_news/with-fed-s-rate-cut-at-hand-debate-swirls-over-how-big-a-move/article_dbf4832e-75bc-11ef-ac48-2b41a56d9fb2.html>
+
+---
+
+## Delegate candidates discuss economy, tourism, other issues
+
+date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
+
+AT the Saipan Chamber of Commerce delegate debate, the five candidates shared their ideas on how to solve the pressing issues facing the CNMI’s tourism industry, healthcare services, and other keys concerns. 
+
+<https://www.mvariety.com/news/local/delegate-candidates-discuss-economy-tourism-other-issues/article_56a8c8e6-759a-11ef-aad9-77b9987d263f.html>
+
+---
+
+## JEMCO acquires two more Mobil gas stations
+
+date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
+
+JEMCO Ltd. has acquired the Mobil gas stations in Susupe and San Vicente, JEMCO operator Ed Flores said. 
+
+<https://www.mvariety.com/news/local/jemco-acquires-two-more-mobil-gas-stations/article_45a62a52-7559-11ef-8eb1-e356ddf010ec.html>
+
+---
+
+## Judiciary: Budget cuts will affect ‘impartiality and efficiency’ of courts
+
+date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
+
+THE CNMI Judiciary has raised “serious concerns” about the proposed budget cuts, specifically Section 703(e) of the fiscal year 2025 government appropriation bill. 
+
+<https://www.mvariety.com/news/local/judiciary-budget-cuts-will-affect-impartiality-and-efficiency-of-courts/article_201e62c6-7569-11ef-8c88-2f9534cf85a3.html>
+
+---
+
+## Velleza slips past Beto, 82-75 in Destroyers friendly game
+
+date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
+
+ELMER Esdrelon, Jorge De Guzman, and brothers Ramil and Dane Tibayan surged in the final half to help Velleza zoom past Beto in a Destroyers Basketball Club Friendly Game at the Tan Siu Lin Sports Center in Gualo Rai on Tuesday. 
+
+<https://www.mvariety.com/sports/localsports/velleza-slips-past-beto-82-75-in-destroyers-friendly-game/article_407e2374-759d-11ef-8ad6-8f78a989e842.html>
+
+---
+
+## No dumping signs being ignored at CK cemetery.
+
+date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
+
+DESPITE the “No Dumping” signs prominently displayed in the area, trash continues to be dumped at the Chalan Kanoa cemetery, community volunteer Max Aguon said. 
+
+<https://www.mvariety.com/news/local/no-dumping-signs-being-ignored-at-ck-cemetery/article_5224a94e-755d-11ef-b734-e3319b7de4d7.html>
+
+---
+
+## Community urged to take action against animal neglect and abandonment
+
+date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
+
+(SHS) — Saipan Humane Society is urging the community to take steps in preventing animal cruelty following several recent cases of extreme neglect. One case involved Gouda, a Pit Bull mix who was left behind by an owner who moved off-island. She was found by a Good Samaritan starving and in desperate need of medical attention. Fortunately, the Saipan Dog Control Program staff were able to rescue her. Gouda captured the heart of Saipan Humane Society staff, and is now recovering at their clinic. She will soon be available for adoption. 
+
+<https://www.mvariety.com/news/local/community-urged-to-take-action-against-animal-neglect-and-abandonment/article_f26bfed0-75c0-11ef-9873-9f5cd66bd8ea.html>
 
 ---
 
@@ -285,6 +452,30 @@ date: 2024-09-18, from: Hawaii Tribune Harold
 
 ---
 
+## Kilauea’s eruption at Napau Crater continues
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>Kilauea&#8217;s eruption at the remote Napau Crater continues this morning, with lava still confined to the crater floor.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/hawaii-news/kilaueas-eruption-at-napau-crater-continues/>
+
+---
+
+## Search underway for missing Wailuku River swimmer
+
+date: 2024-09-18, from: Hawaii Tribune Harold
+
+
+				<p>Police have opened a missing person investigation in connection with a swimmer last seen in the Wailuku River on Tuesday afternoon at Boiling Pots State Park in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/18/hawaii-news/search-underway-for-missing-wailuku-river-swimmer/>
+
+---
+
 ## UH webinar series explores religious diversity, counteracting bias
 
 date: 2024-09-18, from: University of Hawaiʻi News
@@ -307,23 +498,23 @@ The post <a href="https://www.hawaii.edu/news/2024/09/17/hawaiian-word-of-the-we
 
 ---
 
-## Joshua “Baba” Tavares: From Broadway to Hawaiian theatre
+## Joshua ‘Baba’ Tavares: From Broadway to Hawaiian theatre
 
 date: 2024-09-18, from: University of Hawaiʻi News
 
 <p>Joshua &#8220;Baba&#8221; Tavares returned to <span aria-label="Hawaii">Hawai&#699;i</span> after nearly nine years of living in New York City and performing in the Broadway musical <em>RENT</em>.</p>
-The post <a href="https://www.hawaii.edu/news/2024/09/17/tavares-from-broadway-to-hawaiian-theatre/">Joshua “Baba” Tavares: From Broadway to Hawaiian theatre</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2024/09/17/tavares-from-broadway-to-hawaiian-theatre/">Joshua ‘Baba’ Tavares: From Broadway to Hawaiian theatre</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/09/17/tavares-from-broadway-to-hawaiian-theatre/>
 
 ---
 
-## Public forums for UH Presidential candidates set to start
+## Public forums for UH Presidential candidates set to begin
 
 date: 2024-09-18, from: University of Hawaiʻi News
 
 <p>The finalists, Wendy F. Hensel and Julian Vasquez Heilig, will attend an open house and a moderated public forum in each of the four counties.</p>
-The post <a href="https://www.hawaii.edu/news/2024/09/17/public-forums-next/">Public forums for <abbr>UH</abbr> Presidential candidates set to start</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2024/09/17/public-forums-next/">Public forums for <abbr>UH</abbr> Presidential candidates set to begin</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/09/17/public-forums-next/>
 

@@ -1,17 +1,336 @@
 ---
 title: columns
-updated: 2024-09-18 07:28:31
+updated: 2024-09-18 14:12:31
 ---
 
 # columns
 
-(date: 2024-09-18 07:28:31)
+(date: 2024-09-18 14:12:31)
+
+---
+
+##  Serena Rios McRae makes hand-carved stamps out of pink erasers and recently... 
+
+date: 2024-09-18, updated: 2024-09-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045294-serena-rios-mcrae-makes-h>
+
+---
+
+## Apple Intelligence Will Come to More Languages, Including German and Italian, Next Year (But Don’t Hold Your Breath for iPhones and iPads)
+
+date: 2024-09-18, updated: 2024-09-18, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/2024/9/18/24247839/apple-intelligence-language-support-german-italian>
+
+---
+
+## September 17, 2024
+
+date: 2024-09-18, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-17-2024-882>
+
+---
+
+##  Mickey 17, a New Film From Bong Joon-ho 
+
+date: 2024-09-18, updated: 2024-09-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/mickey-17-a-new-film-from-bong-joon-ho>
+
+---
+
+## 2024-09-18 Emacs Wiki and China
+
+date: 2024-09-18, from: Alex Schroeder's Blog
+
+<h1 id="2024-09-18-emacs-wiki-and-china">2024-09-18 Emacs Wiki and China</h1>
+
+<p><strong>2024-09-14</strong>. I&rsquo;m somewhere in the Italian-speaking parts of Switzerland with my wife. There is a lot of running, hiking, hugging, kissing, eating and drinking involved. 🥰</p>
+
+<p><strong>2024-09-15</strong>. Still on the trip but late at night I spent more than an hour trying to figure out why my server had a load of nearly 40. 💻</p>
+
+<p>All I discovered is that load went down when I shut down Emacs Wiki. See also <a href="https://www.emacswiki.org/emacs/2024-09-16">2024-09-16</a> on Emacs Wiki.</p>
+
+<p>Well, I needed to sleep and I‘ve got plans for the next few days so I shut it down while I slept hoping that the misconfigured spider is fixed or the inept programmer discovers their mistake. Just another day in the Butlerian Jihad. Some misguided soul probably wanted to download it all and wrote a broken web crawler and when that got blocked they bought some nice scaling infrastructure from Amazon, Hetzner, OHV or Alibaba Cloud or whatever they are called, allowing them to use a gazillion different IP numbers that will eventually lead me to implement some sort of cloud service provider block.</p>
+
+<p><img loading="lazy" src="2024-09-15-emacs-china.png" alt="Load shoots up to nearly 40 around midnight. The graph is for an entire week so the peaks are not shown. It just goes up to 30 multiple times." /></p>
+
+<p><strong>2024-09-16</strong>. Switched Emacs Wiki back on after a few hours of sleep and it did fine. But then it restarted again&hellip; at 18:00, 19:00, 21:00, 22:00&hellip; and so I switched Emacs Wiki off again. Time to ban some networks!</p>
+
+<p>Anybody interested in my banning of IP ranges and possibly interested in me reverting any of these, take a look at <a href="/admin/ban-cidr">ban-cidr</a> &hellip; from a network that isn&rsquo;t banned, I guess. 😏</p>
+
+<p><strong>2024-09-17</strong>. This continues to keep me busy and angry every evening. Too bad I don&rsquo;t have a real fast <a href="/admin/network-lookup">network-lookup</a> to firewall ban pipeline. I&rsquo;m using this script instead of carefully checking IP numbers and networks. I&rsquo;m also sick and tired of the same networks popping up again and again.</p>
+
+<p>I added over a hundred Chinese networks to the firewall rules and I&rsquo;m seriously considering blocking the whole country for a week. It seems that most of the offenders are networks run by China Telecoms and China Mobile.</p>
+
+<p><strong>2024-09-18</strong>. So far, so good. Load stays below two.</p>
+
+<h2 id="example">Example</h2>
+
+<p>Here&rsquo;s example usage for <code>network-lookup</code>, filtering for Emacs Wiki and a URL parameter used when requesting recent changes or a RSS feed for a single page only. That would count as suspicious misbehaving crawler behaviour in my book.</p>
+
+<pre><code>Made 16 DNS requests.
+4 cache hits.
+</code></pre>
+
+<table>
+<thead>
+<tr>
+<th align="right">Range</th>
+<th align="right">Hits</th>
+<th>Org</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="right">34.32.128.0/17</td>
+<td align="right">3</td>
+<td>Google LLC / GOOGL-2</td>
+</tr>
+
+<tr>
+<td align="right">113.0.0.0/13</td>
+<td align="right">3</td>
+<td>UNICOM-HL / CNC Group CHINA169 Heilongjiang Province Network</td>
+</tr>
+
+<tr>
+<td align="right">14.208.0.0/12</td>
+<td align="right">1</td>
+<td>CHINANET-GD / China Telecom</td>
+</tr>
+
+<tr>
+<td align="right">39.64.0.0/11</td>
+<td align="right">1</td>
+<td>China Unicom Shandong Province Network / UNICOM-SD</td>
+</tr>
+
+<tr>
+<td align="right">111.36.192.0/20</td>
+<td align="right">1</td>
+<td>China Mobile communications corporation / China Mobile / CMNET / ORG-CM1-AP</td>
+</tr>
+
+<tr>
+<td align="right">223.167.0.0/16</td>
+<td align="right">1</td>
+<td>UNICOM-SH / China Unicom Shanghai Province Network</td>
+</tr>
+
+<tr>
+<td align="right">39.184.0.0/18</td>
+<td align="right">1</td>
+<td>Internet Service Provider in China / CMNET / ORG-CM1-AP / China Mobile</td>
+</tr>
+
+<tr>
+<td align="right">111.18.128.0/20</td>
+<td align="right">1</td>
+<td>China Mobile / ORG-CM1-AP / CMNET / China Mobile communications corporation</td>
+</tr>
+
+<tr>
+<td align="right">27.38.200.0/24</td>
+<td align="right">1</td>
+<td>UNICOM-GDSZ / China Unicom</td>
+</tr>
+
+<tr>
+<td align="right">112.47.128.0/18</td>
+<td align="right">1</td>
+<td>China Mobile communications corporation / China Mobile Communications Corporation / ORG-CMCC1-AP / CMNET</td>
+</tr>
+
+<tr>
+<td align="right">218.71.0.0/16</td>
+<td align="right">1</td>
+<td>CHINANET-ZJ-WZ / Zhejiang Telecom</td>
+</tr>
+
+<tr>
+<td align="right">39.130.48.0/20</td>
+<td align="right">1</td>
+<td>CMNET / ORG-CM1-AP / China Mobile / Internet Service Provider in China</td>
+</tr>
+
+<tr>
+<td align="right">222.90.0.0/16</td>
+<td align="right">1</td>
+<td>CHINANET-SN / Beijing 100088</td>
+</tr>
+
+<tr>
+<td align="right">223.81.240.0/20</td>
+<td align="right">1</td>
+<td>ORG-CM1-AP / CMNET / China Mobile / China Mobile communications corporation</td>
+</tr>
+
+<tr>
+<td align="right">218.107.192.0/19</td>
+<td align="right">1</td>
+<td>CNCGROUP-FJ-XIAMEN-MAN / CNCGroup CHINA169 FuJian province network</td>
+</tr>
+
+<tr>
+<td align="right">219.128.0.0/13</td>
+<td align="right">1</td>
+<td>CHINANET-GD / China Telecom</td>
+</tr>
+</tbody>
+</table>
+
+<pre><code>34.32.128.0/17 Google LLC / GOOGL-2
+34.32.172.122 34.32.172.122 34.32.172.122
+34.32.128.0/17 | 34.32.172.122 | 18/Sep/2024:18:02:12 +0200 | GET /cgi-bin/emacs?action=rss;rcidonly=RssExclude;days=1;all=1;showedit=1;full=1 HTTP/1.1 | Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+34.32.128.0/17 | 34.32.172.122 | 18/Sep/2024:18:02:12 +0200 | GET /cgi-bin/emacs?action=rss;rcidonly=RssExclude;days=1;all=1;showedit=1;full=1 HTTP/1.1 | Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+34.32.128.0/17 | 34.32.172.122 | 18/Sep/2024:18:02:12 +0200 | GET /emacs?action=rss;rcidonly=RssExclude;days=1;all=1;showedit=1;full=1 HTTP/1.1 | Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+ipset add banlist 34.32.128.0/17
+
+113.0.0.0/13 UNICOM-HL / CNC Group CHINA169 Heilongjiang Province Network
+113.2.156.201 113.2.184.52 113.1.92.78
+113.0.0.0/13 | 113.2.156.201 | 18/Sep/2024:18:02:11 +0200 | GET /emacs?action=rc&amp;all=1&amp;days=14&amp;rcidonly=tzhelp.el&amp;showedit=0 HTTP/1.1 | Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 ADG/11.0.2566 AOLBUILD/11.0.2566 Safari/537.36
+113.0.0.0/13 | 113.2.184.52 | 18/Sep/2024:18:02:16 +0200 | GET /emacs?action=rc&amp;all=1&amp;days=7&amp;rcidonly=WriteRoom&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/88.0.4324.152 Safari/537.36
+113.0.0.0/13 | 113.1.92.78 | 18/Sep/2024:18:02:21 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1&amp;rcidonly=screen-term.el&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.63 Safari/537.36
+ipset add banlist 113.0.0.0/13
+
+14.208.0.0/12 CHINANET-GD / China Telecom
+14.216.128.162
+14.208.0.0/12 | 14.216.128.162 | 18/Sep/2024:18:02:27 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1&amp;rcidonly=SyncBBDB&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+ipset add banlist 14.208.0.0/12
+
+39.64.0.0/11 China Unicom Shandong Province Network / UNICOM-SD
+39.76.103.29
+39.64.0.0/11 | 39.76.103.29 | 18/Sep/2024:18:02:17 +0200 | GET /emacs?action=rc&amp;all=1&amp;days=1&amp;rcidonly=FinderMode&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+ipset add banlist 39.64.0.0/11
+
+111.36.192.0/20 China Mobile communications corporation / China Mobile / CMNET / ORG-CM1-AP
+111.36.200.78
+111.36.192.0/20 | 111.36.200.78 | 18/Sep/2024:18:01:50 +0200 | GET /emacs?action=rc&amp;all=1&amp;days=28&amp;rcidonly=DiredPlusMarkMenu&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+ipset add banlist 111.36.192.0/20
+
+223.167.0.0/16 UNICOM-SH / China Unicom Shanghai Province Network
+223.167.74.168
+223.167.0.0/16 | 223.167.74.168 | 18/Sep/2024:18:01:39 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1726266329&amp;rcidonly=etagsselect&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+ipset add banlist 223.167.0.0/16
+
+39.184.0.0/18 Internet Service Provider in China / CMNET / ORG-CM1-AP / China Mobile
+39.184.45.222
+39.184.0.0/18 | 39.184.45.222 | 18/Sep/2024:18:02:28 +0200 | GET /emacs?action=rss&amp;all=1&amp;days=14&amp;rcidonly=BufferMenuPlus&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/81.0.4044.122 Safari/537.36
+ipset add banlist 39.184.0.0/18
+
+111.18.128.0/20 China Mobile / ORG-CM1-AP / CMNET / China Mobile communications corporation
+111.18.142.15
+111.18.128.0/20 | 111.18.142.15 | 18/Sep/2024:18:02:00 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1&amp;rcidonly=orgfold-separate-file.el&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+ipset add banlist 111.18.128.0/20
+
+27.38.200.0/24 UNICOM-GDSZ / China Unicom
+27.38.200.210
+27.38.200.0/24 | 27.38.200.210 | 18/Sep/2024:18:01:57 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1723764629&amp;rcidonly=AnselmHelbig&amp;showedit=1&amp;upto=1724974229 HTTP/1.1 | Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+ipset add banlist 27.38.200.0/24
+
+112.47.128.0/18 China Mobile communications corporation / China Mobile Communications Corporation / ORG-CMCC1-AP / CMNET
+112.47.136.104
+112.47.128.0/18 | 112.47.136.104 | 18/Sep/2024:18:01:28 +0200 | GET /emacs?action=rc&amp;all=0&amp;days=14&amp;rcidonly=RubyEvalRegion&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+ipset add banlist 112.47.128.0/18
+
+218.71.0.0/16 CHINANET-ZJ-WZ / Zhejiang Telecom
+218.71.59.116
+218.71.0.0/16 | 218.71.59.116 | 18/Sep/2024:18:01:55 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1726412272&amp;rcidonly=AnilTappetla&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36
+ipset add banlist 218.71.0.0/16
+
+39.130.48.0/20 CMNET / ORG-CM1-AP / China Mobile / Internet Service Provider in China
+39.130.50.65
+39.130.48.0/20 | 39.130.50.65 | 18/Sep/2024:18:02:28 +0200 | GET /emacs?action=rc&amp;all=1&amp;days=7&amp;rcidonly=CarlMikkelsen&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+ipset add banlist 39.130.48.0/20
+
+222.90.0.0/16 CHINANET-SN / Beijing 100088
+222.90.194.237
+222.90.0.0/16 | 222.90.194.237 | 18/Sep/2024:18:01:57 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1&amp;rcidonly=AnIntroductionToTheEmacsEditor&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36
+ipset add banlist 222.90.0.0/16
+
+223.81.240.0/20 ORG-CM1-AP / CMNET / China Mobile / China Mobile communications corporation
+223.81.249.112
+223.81.240.0/20 | 223.81.249.112 | 18/Sep/2024:18:01:43 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1726333566&amp;rcidonly=iclects_-_search_search_commands,_overview&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.9999.0 Safari/537.36
+ipset add banlist 223.81.240.0/20
+
+218.107.192.0/19 CNCGROUP-FJ-XIAMEN-MAN / CNCGroup CHINA169 FuJian province network
+218.107.204.27
+218.107.192.0/19 | 218.107.204.27 | 18/Sep/2024:18:01:57 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1&amp;rcidonly=DiredPlusPopupRegionRemoveRectMenu&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/88.0.4324.152 Safari/537.36
+ipset add banlist 218.107.192.0/19
+
+219.128.0.0/13 CHINANET-GD / China Telecom
+219.133.249.75
+219.128.0.0/13 | 219.133.249.75 | 18/Sep/2024:18:02:11 +0200 | GET /emacs?action=rc&amp;all=1&amp;days=1&amp;rcidonly=Categor%C3%ADaHerramientasOnline&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+ipset add banlist 219.128.0.0/13
+</code></pre>
+
+<p>As far as I am concerned, all deserve to be banned. Over-banning? Maybe. What do you think?</p>
+
+<p>For demonstration purposes, this is what I ran:</p>
+
+<pre><code>ssh sibirocobombus.root grep '&quot;^www.emacswiki.org.*rcidonly&quot;' /var/log
+/apache2/access.log \
+| tail -n 20 \
+| ssh sibirocobombus.root bin/admin/network-lookup \
+| wl-copy
+</code></pre>
+
+<p>So now I&rsquo;m ready to ban them all:</p>
+
+<pre><code>wl-paste | grep ipset
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23Emacs">#Emacs</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Administration">#Administration</a></p> 
+
+<https://alexschroeder.ch/view/2024-09-15-emacs-china>
+
+---
+
+##  The newest season of the Slow Burn podcast is about the rise... 
+
+date: 2024-09-18, updated: 2024-09-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045293-the-newest-season-of-the>
+
+---
+
+##  Every webpage deserves to be a place. Matt Webb&#8217;s cursor party feature... 
+
+date: 2024-09-18, updated: 2024-09-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045292-every-webpage-deserves-to>
+
+---
+
+##  Huge study from The Economist about car bloat in the US. &#8220;For... 
+
+date: 2024-09-18, updated: 2024-09-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045291-huge-study-from-the-econo>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2024-09-18, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2023/05/13/modernTimes.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Interesting <a href="https://www.threads.net/@davew/post/DADxZ6UpyMW">thread</a> on a simple upgrade for any podcasting client that would create a network of tools people could use for subscribing and listening. I've tried to get people who make podcast clients to listen. Yes I am a user, but I also designed the technology, and did the first implementations, so I <i>know</i> what's possible. The medium could work so much better if they simply adopted the interests of their users. I never want to lock users into my products, I want them to choose them because they're the best. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/05/13/modernTimes.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Interesting <a href="https://www.threads.net/@davew/post/DADxZ6UpyMW">thread</a> on a simple upgrade for any podcasting client that would create a network of tools people could use for subscribing and listening. I've tried to get people who make podcast clients to listen. Yes I am a user, but I also designed the technology, and did the first implementations, so I <i>know</i> what's possible. 
 
 <http://scripting.com/2024/09/18.html#a133316>
 
@@ -168,7 +487,7 @@ date: 2024-09-17, from: Heather Cox Richardson blog
 
 ## Remotely Exploding Pagers
 
-date: 2024-09-17, updated: 2024-09-17, from: Bruce Schneier blog
+date: 2024-09-17, updated: 2024-09-18, from: Bruce Schneier blog
 
 <p><a href="https://www.cnn.com/world/live-news/lebanon-pagers-attack-hezbollah/index.html">Wow</a>.</p>
 <p>It seems they all exploded simultaneously, which means they were triggered.</p>

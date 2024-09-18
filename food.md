@@ -1,11 +1,71 @@
 ---
 title: food
-updated: 2024-09-18 07:28:38
+updated: 2024-09-18 14:12:37
 ---
 
 # food
 
-(date: 2024-09-18 07:28:38)
+(date: 2024-09-18 14:12:37)
+
+---
+
+## The Best Food Storage Containers (2023) for Leftovers, Meal Prep, and Bulk Goods
+
+date: 2024-09-18, from: Bon Appetet
+
+Our favorite ways to repackage food and keep it fresher, longer. 
+
+<https://www.bonappetit.com/story/best-food-storage-containers>
+
+---
+
+## Vitamix Ascent X Review: The New High-End Blender Might Be Their Best Yet
+
+date: 2024-09-18, from: Bon Appetet
+
+Nut butter’s no problem in this thing. 
+
+<https://www.bonappetit.com/story/vitamix-ascent-x5-review>
+
+---
+
+## Gilda Salsa
+
+date: 2024-09-18, from: Bon Appetet
+
+Inspired by the Basque pintxo, this great-on-anything salsa packs a punch. 
+
+<https://www.bonappetit.com/recipe/gilda-salsa>
+
+---
+
+## Homecourt by Courtney Cox, Tested & Reviewed
+
+date: 2024-09-18, from: Bon Appetet
+
+Plus, our thoughts on other luxury home cleaning products. 
+
+<https://www.bonappetit.com/story/luxury-home-cleaning-products-homecourt-courtney-cox>
+
+---
+
+## Fair Trade USA Founder Paul Rice Resigning as CEO
+
+date: 2024-09-18, from: Daily Coffee News
+
+<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png" class="attachment-large size-large wp-post-image" alt="Fair-Trade-certified" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-300x218.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-150x109.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-768x557.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>An influential figure in the fair trade movement over the past quarter century, Paul Rice is resigning as CEO of Fair Trade USA. In an announcement last week, Rice said... 
+
+<https://dailycoffeenews.com/2024/09/18/fair-trade-usa-founder-paul-rice-resigning-as-ceo/>
+
+---
+
+## Design Details: White in Black at We Coffee in São Paolo
+
+date: 2024-09-18, from: Daily Coffee News
+
+<div><img width="620" height="423" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1-620x423.jpg" class="attachment-large size-large wp-post-image" alt="We Coffee Sao Paolo 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1-620x423.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1-300x205.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1-768x524.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+
+<https://dailycoffeenews.com/2024/09/18/design-details-white-in-black-at-we-coffee-in-sao-paolo/>
 
 ---
 
@@ -33,7 +93,7 @@ Like a sparkling bourbon cocktail, a chocolate-rosemary tea cake, and juicy-cris
 
 date: 2024-09-18, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-620x413.jpg" class="attachment-large size-large wp-post-image" alt="side view landscape" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>After building a devoted following for its original April Brewer, Danish coffee company April Coffee is launching a sibling device called the April Hybrid.&#160; Designed by roaster, competitive barista and... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-620x413.jpg" class="attachment-large size-large wp-post-image" alt="side view landscape" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>After building a devoted following for its original April Brewer, Danish coffee company April Coffee is launching a sibling device called the April Hybrid.&#160; Designed by roaster, competitive barista and... 
 
 <https://dailycoffeenews.com/2024/09/18/the-april-hybrid-brewer-springing-forth-this-fall/>
 
@@ -133,6 +193,18 @@ It's like eating a pumpkin-spiced cloud.
 
 ---
 
+## Taco Bell’s Nacho Fries Are Back on the Menu Right Now
+
+date: 2024-09-17, from: Taste of Home
+
+<p>This is not a test—we were able to order Taco Bell Nacho Fries at a location in Los Angeles.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/nacho-fries-back-at-taco-bell/">Taco Bell&#8217;s Nacho Fries Are Back on the Menu Right Now</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/nacho-fries-back-at-taco-bell/>
+
+---
+
 ## The Best Cutting Boards (2024) Reviewed by Our Experts
 
 date: 2024-09-17, from: Bon Appetet
@@ -187,7 +259,7 @@ date: 2024-09-17, from: The Sprudge
 
 date: 2024-09-17, from: Daily Coffee News
 
-<div><img width="620" height="477" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1-620x477.jpg" class="attachment-large size-large wp-post-image" alt="Starbucks" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1-620x477.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1-300x231.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1-150x115.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1-768x591.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Starbucks announced that North American CEO Michael Conway is retiring.&#160; The move comes just five months after Conway&#8217;s appointment to the position, which was part of a broader corporate leadership... 
+<div><img width="620" height="477" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1-620x477.jpg" class="attachment-large size-large wp-post-image" alt="Starbucks" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1-620x477.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1-300x231.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1-150x115.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1-768x591.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Starbucks-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Starbucks announced that North American CEO Michael Conway is retiring.&#160; The move comes just five months after Conway&#8217;s appointment to the position, which was part of a broader corporate leadership... 
 
 <https://dailycoffeenews.com/2024/09/17/starbucks-north-america-ceo-michael-conway-retiring-after-five-months/>
 
@@ -197,7 +269,7 @@ date: 2024-09-17, from: Daily Coffee News
 
 date: 2024-09-17, from: Daily Coffee News
 
-<div><img width="620" height="472" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1-620x472.jpg" class="attachment-large size-large wp-post-image" alt="Caffe Assist Legato 4" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1-620x472.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1-300x228.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1-150x114.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1-768x584.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Australian commercial equipment maker Caffe Assist recently unveiled the Legato Plus, an upgraded version of its patented automatic milk steaming system for cafes. At the Fine Food Australia event earlier... 
+<div><img width="620" height="472" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1-620x472.jpg" class="attachment-large size-large wp-post-image" alt="Caffe Assist Legato 4" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1-620x472.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1-300x228.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1-150x114.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1-768x584.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Caffe-Assist-Legato-4-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Australian commercial equipment maker Caffe Assist recently unveiled the Legato Plus, an upgraded version of its patented automatic milk steaming system for cafes. At the Fine Food Australia event earlier... 
 
 <https://dailycoffeenews.com/2024/09/17/australias-caffe-assist-rolls-out-the-legato-plus-legato-rinser-and-app/>
 

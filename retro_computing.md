@@ -1,11 +1,21 @@
 ---
 title: retro computing
-updated: 2024-09-18 07:28:37
+updated: 2024-09-18 14:12:35
 ---
 
 # retro computing
 
-(date: 2024-09-18 07:28:37)
+(date: 2024-09-18 14:12:35)
+
+---
+
+## Fedora 41 Beta Available with Some Interesting Additions
+
+date: 2024-09-18, from: Linux Magazine
+
+<p>If you're a Fedora fan, you'll be excited to hear the beta version of the latest release is now available for testing and includes plenty of updates.</p> 
+
+<http://www.linux-magazine.com/Online/News/Fedora-41-Beta-Available-with-Some-Interesting-Additions>
 
 ---
 

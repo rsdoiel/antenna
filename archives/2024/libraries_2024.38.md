@@ -1,11 +1,31 @@
 ---
 title: libraries
-updated: 2024-09-18 07:28:34
+updated: 2024-09-18 14:12:33
 ---
 
 # libraries
 
-(date: 2024-09-18 07:28:34)
+(date: 2024-09-18 14:12:33)
+
+---
+
+## The Splendid Spur, by Arthur Quiller-Couch
+
+date: 2024-09-18, from: Standard Ebooks, new releaases
+
+Events force a young man to act for the Royalist side in the English Civil War, bringing many adventures in consequence. 
+
+<https://standardebooks.org/ebooks/arthur-quiller-couch/the-splendid-spur>
+
+---
+
+## The Libation Bearers, by Aeschylus
+
+date: 2024-09-18, from: Standard Ebooks, new releaases
+
+A man is ordered by a god to avenge his father’s murder by killing his mother and her lover. 
+
+<https://standardebooks.org/ebooks/aeschylus/the-libation-bearers/gilbert-murray>
 
 ---
 
@@ -78,7 +98,7 @@ date: 2024-09-17, from: Scholarly Kitchen
 
 date: 2024-09-16, from: Association of Research Libraries News
 
-<p>Last Updated on September 17, 2024, 2:14 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 17 &#124; Wednesday, September 18 &#124; Thursday, September 19 Monday, September 16...</p>
+<p>Last Updated on September 18, 2024, 3:37 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 17 &#124; Wednesday, September 18 &#124; Thursday, September 19 Monday, September 16...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-16-19/">Day in Review (September 16–19)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

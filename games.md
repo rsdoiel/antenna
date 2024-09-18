@@ -1,11 +1,121 @@
 ---
 title: games
-updated: 2024-09-18 07:28:33
+updated: 2024-09-18 14:12:32
 ---
 
 # games
 
-(date: 2024-09-18 07:28:33)
+(date: 2024-09-18 14:12:32)
+
+---
+
+## Avatar fans should check out Aang’s Destiny, the new deck-building game
+
+date: 2024-09-18, updated: 2024-09-18, from: Polygon Website
+
+Fans of Avatar: The Last Airbender should bend their attention toward a new board game that’s available for purchase. Aang’s Destiny from The Op Games is a cooperative deck-building title that sees up to four players (ages 10 and up) battling through the events of Aang’s story, as seen in the acclaimed Nickelodeon animated series. [&#8230;] 
+
+<https://www.polygon.com/deals/453077/avatar-last-airbender-aangs-destiny-tabletop-board-deck-game-buy>
+
+---
+
+## Humble&#8217;s $18 Warhammer 40K book bundle is the perfect chaser for Space Marine 2
+
+date: 2024-09-18, updated: 2024-09-18, from: Polygon Website
+
+If your time spent with Warhammer 40,000: Space Marine 2 has left you thirsty for more lore surrounding the Warhammer 40K universe, Humble is happy to abide. You can get a bundle of 24 books recounting the deeds of some of the most venerated chapters of the Adeptus Astartes (also known as Space Marines) for [&#8230;] 
+
+<https://www.polygon.com/good-deals/452668/space-marine-book-black-library-humble-bundle-sale>
+
+---
+
+## Rogue Class build guide for Dungeons &#038; Dragons 5e 2024
+
+date: 2024-09-18, updated: 2024-09-18, from: Polygon Website
+
+Rogue is one of the 12 classes you can choose from in Dungeons &#38; Dragons 2024’s revised Player’s Handbook (previously known as One D&#38;D, 5.5e, and a few other names). Rogues are sneakiness-focused characters, and their primary Ability is Dexterity. Before we get started, a quick disclaimer: There’s no “best” anything in D&#38;D. Classes tend [&#8230;] 
+
+<https://www.polygon.com/dungeons-and-dragons-dnd-guide/452935/rogue-class-build-guide>
+
+---
+
+## How a Twitch streamer helped bring NASA to the livestreaming community
+
+date: 2024-09-18, updated: 2024-09-18, from: Polygon Website
+
+The atmosphere of Halo’s arid planet Sanghelios or the science of Valorant’s Alpha Earth aren’t the only explorations of space you’ll find on Twitch. The livestreaming platform is best known as a hub for games like League of Legends, Valorant, or Minecraft, but today, it’s also a place for people to learn: about science, space, [&#8230;] 
+
+<https://www.polygon.com/twitch/452754/science-streamer-moohoodles-interview-nasa-twitchcon>
+
+---
+
+## With a Star Wars Jedi threequel coming, does this mean Cal Kestis… must die?
+
+date: 2024-09-18, updated: 2024-09-18, from: Polygon Website
+
+Fans of the Star Wars Jedi games, including yours truly, got some good news out of an EA investor relations presentation Tuesday about the future of the series. According to Video Games Chronicle, the company has a third game in the works, intended to be “the final chapter of this thrilling story” after Star Wars [&#8230;] 
+
+<https://www.polygon.com/star-wars/453056/with-a-star-wars-jedi-threequel-coming-does-this-mean-cal-kestis-must-die>
+
+---
+
+## Dan Da Dan’s creators were just as worried about doing the manga justice as you were
+
+date: 2024-09-18, updated: 2024-09-18, from: Polygon Website
+
+Dan Da Dan has the romance of the ages: Boy meets girl. Boy believes in aliens. Girl believes in ghosts. Boy goes to a haunted tunnel and has an occult encounter where he gets his penis stolen by a ghost named Turbo Granny.&#160; This absurd premise is the inspiration for the upcoming anime from Science [&#8230;] 
+
+<https://www.polygon.com/anime/452633/dan-da-dan-adaptation-interview-manga-style-approach>
+
+---
+
+## Get a pair of Pokémon Squishmallows for their lowest price ever
+
+date: 2024-09-18, updated: 2024-09-18, from: Polygon Website
+
+Polygon loves Pokémon Squishmallows, and while some versions of the adorable, plush pocket monsters can be incredibly rare, right now, you can pick up two of our personal faves for their lowest price ever. For today only, Best Buy has discounted the 14-inch versions of Dragonite and Marill to just $19.99 each (was $29.99). These [&#8230;] 
+
+<https://www.polygon.com/good-deals/452793/pokemon-squishmallows-best-buy-sale>
+
+---
+
+## The entire SteamWorld library, including SteamWorld Heist 2, is on sale at GOG
+
+date: 2024-09-18, updated: 2024-09-18, from: Polygon Website
+
+The SteamWorld series is one of my favorites in gaming today, a loosely connected collection of titles that each take a popular genre and add their own spin on it. Thunderful is having a publishing sale at GOG, and the headline deal here is SteamWorld Heist 2, which debuted last month and is on sale [&#8230;] 
+
+<https://www.polygon.com/good-deals/452837/steamworld-heist-2-sale-build-quest-dig>
+
+---
+
+## Race becomes species in D&#038;D, but that’s not the only change in the new Player’s Handbook
+
+date: 2024-09-18, updated: 2024-09-17, from: Polygon Website
+
+The concept of race has been removed from Dungeons &#38; Dragons’ new Player’s Handbook (2024). The popular role-playing game now makes use of the more scientific concept of species instead. It’s something that has been in the works for years now, one of many changes to the character creation section in the newly revised PHB, [&#8230;] 
+
+<https://www.polygon.com/dnd-dungeons-dragons/452438/new-players-handbook-uses-species-not-race>
+
+---
+
+## One Piece season 2’s behind the scenes trailer is mysterious but still looks great
+
+date: 2024-09-18, updated: 2024-09-18, from: Polygon Website
+
+Production for season 2 of Netflix’s live-action One Piece is well underway, but probably still quite a ways off. Despite that fact, the streaming service did have a few details to share about the new season during its Geeked Week presentation, including a behind-the-scenes teaser that it released on Wednesday. The teaser is hosted by [&#8230;] 
+
+<https://www.polygon.com/entertainment/452889/one-piece-season-2-netflix-live-action-trailer-teaser-bts>
+
+---
+
+## The best action movies of the year so far
+
+date: 2024-09-18, updated: 2024-09-18, from: Polygon Website
+
+The action genre had a fantastic 2023, with strong new entries in banner franchises and exciting one-off movies from creators established and upcoming alike. 2024 is picking up where its predecessor left off. Nations around the globe have contributed stellar entries to the genre, with big-budget spectacle and clinical low-budget projects alike providing the joys [&#8230;] 
+
+<https://www.polygon.com/24091121/best-action-movies-2024-watch>
 
 ---
 

@@ -1,11 +1,273 @@
 ---
 title: home
-updated: 2024-09-18 07:28:35
+updated: 2024-09-18 14:12:34
 ---
 
 # home
 
-(date: 2024-09-18 07:28:35)
+(date: 2024-09-18 14:12:34)
+
+---
+
+## Can I Spray Alcohol on My Bed To Disinfect?
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>Asking if you can do something is not the same as asking if you should. A leading health expert answers our questions about disinfecting with alcohol.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/can-i-spray-alcohol-on-my-bed-to-disinfect/">Can I Spray Alcohol on My Bed To Disinfect?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/can-i-spray-alcohol-on-my-bed-to-disinfect/>
+
+---
+
+## What To Know About Waterproofing a Concrete Basement Floor
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>A dry basement is a comfortable basement, and waterproofing the floor helps keep it that way. It's a fairly simple project you can do yourself.​</p>
+<p>The post <a href="https://www.familyhandyman.com/article/what-to-know-about-waterproofing-a-concrete-basement-floor/">What To Know About Waterproofing a Concrete Basement Floor</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/what-to-know-about-waterproofing-a-concrete-basement-floor/>
+
+---
+
+## How to Ground an Ungrounded Outlet
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>Improve electrical safety in your home by grounding or replacing old two-prong ungrounded outlets.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/ungrounded-outlet/">How to Ground an Ungrounded Outlet</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/ungrounded-outlet/>
+
+---
+
+## Getting Rid of a Sewer Smell in the Basement
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>Sewer smells in the basement are a nightmare. If you have a smelly basement and can't locate the source, we'll show you the five most likely culprits. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-eliminate-basement-odor-and-sewer-smells/">Getting Rid of a Sewer Smell in the Basement</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/how-to-eliminate-basement-odor-and-sewer-smells/>
+
+---
+
+## How To Fix Spalling Concrete in Your Driveway
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>What is concrete spalling and how do you fix concrete spalling? Don't replace your driveway, patio or basement floor—just resurface it.  </p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-fix-spalling-concrete-in-your-driveway/">How To Fix Spalling Concrete in Your Driveway</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/how-to-fix-spalling-concrete-in-your-driveway/>
+
+---
+
+## How to Soundproof a Basement Ceiling
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>Have plans to finish your basement? Noise through the ceiling is a common complaint. Avoid trouble and learn how to soundproof your basement ceiling.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-soundproof-a-basement-ceiling/">How to Soundproof a Basement Ceiling</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/how-to-soundproof-a-basement-ceiling/>
+
+---
+
+## 10 Best Stand-On Mowers of 2024, According to a Lawncare Expert
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>The best stand-on mowers provide the deck size and performance of sit-down models with a superior line of sight and compact footprint</p>
+<p>The post <a href="https://www.familyhandyman.com/list/best-stand-on-mower/">10 Best Stand-On Mowers of 2024, According to a Lawncare Expert</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/list/best-stand-on-mower/>
+
+---
+
+## How to Build an Inexpensive DIY Shed
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>Modular construction and inexpensive materials make this shed easy to build and easy to afford. </p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-build-a-cheap-storage-shed/">How to Build an Inexpensive DIY Shed</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/project/how-to-build-a-cheap-storage-shed/>
+
+---
+
+## How To Decorate a Small Living Room
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>Check out these expert-approved decorating ideas so you can live large in your limited space.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/small-living-room-decorating-ideas/">How To Decorate a Small Living Room</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/small-living-room-decorating-ideas/>
+
+---
+
+## LG WashTower Review: We Tried It, Here’s Everything You Need to Know
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>We tried one of the most popular stacked washer-dryers, the LG WashTower. Here’s how it went, from installation to months of use.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/lg-washtower-review/">LG WashTower Review: We Tried It, Here’s Everything You Need to Know</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/lg-washtower-review/>
+
+---
+
+## Budget Breakdown: Here’s What it Cost to Build Two ADUs on the Same Bay Area Block
+
+date: 2024-09-18, from: Dwell
+
+In Berkeley, California, Type Five builds a pair of backyard houses—for $196K and $229K—for separate families within 100 feet of each other. 
+
+<https://www.dwell.com/article/budget-breakdown-type-five-adus-multifamily-backyard-house-berkeley-california-71f3fe90>
+
+---
+
+## How To Get Rid of Aphids on Houseplants
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>Pests ruining your indoor garden? Learn how to get rid of aphids on houseplants using our simple methods to keep your plants healthy.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/remove-aphids-on-houseplants/">How To Get Rid of Aphids on Houseplants</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/project/remove-aphids-on-houseplants/>
+
+---
+
+## Edge a Flower Bed or Walkway in 5 Steps
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>Transform your garden with this project on how to edge a flower bed using metal edging. A polished landscape is just a few steps away.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-edge-a-flower-bed/">Edge a Flower Bed or Walkway in 5 Steps</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/project/how-to-edge-a-flower-bed/>
+
+---
+
+## Billy Goat Leaf Vacuum Review
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>We tried the Billy Goat Lawn &#038; Litter Vacuum, and we're confident we'll have the most pristine lawn all season long.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/billy-goat-leaf-vacuum-review/">Billy Goat Leaf Vacuum Review</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/billy-goat-leaf-vacuum-review/>
+
+---
+
+## The 5 Best Outdoor Saunas, Editor-Tested and Reviewed
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>A home sauna makes your outdoor space feel like a luxurious day at the spa. Our editors tested a few outdoor saunas—here’s our list of the best.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/best-outdoor-saunas/">The 5 Best Outdoor Saunas, Editor-Tested and Reviewed</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/list/best-outdoor-saunas/>
+
+---
+
+## John Denver’s Music Studio and Guesthouse List to the Tune of $8.5M
+
+date: 2024-09-18, from: Dwell
+
+Perched on a pristine, five-acre lot, the updated 1975 residence inspired the hit song "Starwood in Aspen." 
+
+<https://www.dwell.com/article/john-denver-music-studio-guesthouse-starwood-aspen-real-estate-b7eed96d>
+
+---
+
+## A Builder Striving to Make Sustainable Homes Accessible Gets Into Prefab
+
+date: 2024-09-18, from: Dwell
+
+Based in British Columbia, Hewing Haus utilizes clean construction methods and sources materials from responsibly managed local forests. 
+
+<https://www.dwell.com/article/a-builder-striving-to-make-sustainable-homes-accessible-gets-into-prefab-f8e67644>
+
+---
+
+## When and How to Winterize Blackberries
+
+date: 2024-09-18, from: The Gardener's Path
+
+<p>Blackberries are generally tough and adaptable, and they can be pretty easy to forget about while you focus on the more fussy plants in the garden. These brambles can still benefit from some preparation ahead of the cold months to ensure they come back strong in spring. Learn how to winterize blackberries in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit/winterize-blackberries/">When and How to Winterize Blackberries</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/fruit/winterize-blackberries/>
+
+---
+
+## Naturepedic Mattress Review: We Tested this Customizable Non-Toxic Bed
+
+date: 2024-09-18, from: Family Handyman Blog
+
+<p>This Naturepedic mattress is certified non-toxic and organic by Global Organic Textile Standard (GOTS). Each side has customizable firmness.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/naturepedic-mattress-review/">Naturepedic Mattress Review: We Tested this Customizable Non-Toxic Bed</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/naturepedic-mattress-review/>
+
+---
+
+## Proven Impact: New Report Highlights Economic and Environmental Benefits of CDFA Farm to School Incubator Grant Program
+
+date: 2024-09-18, from: Calfifornia Dept. Aggriculture blog
+
+CDFA’s California Farm to School Incubator Grant Program brings proven economic and environmental benefits to California food producers and communities, according to a new report authored by researchers from UC Agriculture and Natural Resources, UC Berkeley, the Food Insight Group, &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28221">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28221>
+
+---
+
+## This Hotel Has the Wildest Plant Design—Here’s How to Get the Look at Home
+
+date: 2024-09-18, from: Sunset Magazine - Living in the West
+
+The plant experts behind 1 Hotel's dizzying array of greenery share inspo on how to mimic their biophillic San Francisco space. 
+
+<https://www.sunset.com/home-garden/flowers-plants/houseplant-care-tips-1hotel-san-francisco>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-09-18, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
+
+---
+
+## The Halloween Decor That Will Get Your House Ready for Spooky Season
+
+date: 2024-09-18, from: Sunset Magazine - Living in the West
+
+It's time to decorate your space with some spooky finds. These Halloween home decor pieces will add some seasonal flair to your space. 
+
+<https://www.sunset.com/home-garden/design/halloween-home-decor>
 
 ---
 
@@ -18,16 +280,6 @@ date: 2024-09-18, from: Family Handyman Blog
  
 
 <https://www.familyhandyman.com/article/why-does-my-dog-follow-me-into-the-bathroom/>
-
----
-
-## The Halloween Decor That Will Get Your House Ready for Spooky Season
-
-date: 2024-09-18, from: Sunset Magazine - Living in the West
-
-It's time to decorate your space with some spooky finds. These Halloween home decor pieces will add some seasonal flair to your space. 
-
-<https://www.sunset.com/home-garden/design/halloween-home-decor>
 
 ---
 
@@ -163,21 +415,11 @@ date: 2024-09-17, from: Family Handyman Blog
 
 ---
 
-## This Hotel Has the Wildest Plant Design — Here’s How to Get the Look at Home
-
-date: 2024-09-17, from: Sunset Magazine - Living in the West
-
-The plant experts behind 1 Hotel's dizzying array of greenery share inspo on how to mimic their biophillic San Francisco space. 
-
-<https://www.sunset.com/home-garden/flowers-plants/houseplant-care-tips-1hotel-san-francisco>
-
----
-
 ## In Belgium, a Wooden Home Nestled in the Dunes Is Thoughtfully Restored
 
 date: 2024-09-17, from: Dwell
 
-OYO architects didn't just bring a dwelling that survived bombing during World War II back to life—they made it sustainable. 
+OYO Architects didn't just bring a dwelling that survived bombing during World War II back to life—they made it sustainable. 
 
 <https://www.dwell.com/article/in-belgium-a-wooden-home-nestled-in-the-dunes-is-thoughtfully-restored-efac308f>
 
@@ -268,12 +510,12 @@ date: 2024-09-17, from: Yard Life blog
 
 ---
 
-## I Tried Out the Wagner FLEXiO 3500 Paint Sprayer and the Results Were Flawless
+## I Tried Out the Wagner Flexio 3500 Paint Sprayer and the Results Were Flawless
 
 date: 2024-09-17, from: Family Handyman Blog
 
 <p>We reviewed the Wagner Flexio 3500 Electric HVLP Paint Sprayer. Discover how it made painting a breeze with a smooth, professional finish.</p>
-<p>The post <a href="https://www.familyhandyman.com/article/wagner-paint-sprayer-review/">I Tried Out the Wagner FLEXiO 3500 Paint Sprayer and the Results Were Flawless</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/wagner-paint-sprayer-review/">I Tried Out the Wagner Flexio 3500 Paint Sprayer and the Results Were Flawless</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
  
 
 <https://www.familyhandyman.com/article/wagner-paint-sprayer-review/>
@@ -377,16 +619,6 @@ date: 2024-09-17, from: Sunset Magazine - Living in the West
 One-of-a-kind gifts to spread holiday cheer, including picks for everyone on your list, from gardeners and travelers to parents and pets. 
 
 <https://www.sunset.com/lifestyle/shopping>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-09-17, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
 
 ---
 

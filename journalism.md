@@ -1,21 +1,164 @@
 ---
 title: journalism
-updated: 2024-09-18 07:28:34
+updated: 2024-09-18 14:12:33
 ---
 
 # journalism
 
-(date: 2024-09-18 07:28:34)
+(date: 2024-09-18 14:12:33)
 
 ---
 
-## CSUN Alumni shine at Paralympics, bring Home Gold on Global Stage
+## Second Take: YouTuber Nikocado Avocado’s transformation breaks illusion of audience familiarity
+
+date: 2024-09-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Nikocado Avocado has stirred the YouTube pot, demonstrating the inauthenticity of micro-celebrity culture with a spicy revelation.
+On Sep. 6, YouTuber Nicholas Perry released a mukbang video, slurping up noodles and making small talk in his iconic red shirt. 
+
+<https://dailybruin.com/2024/09/18/second-take-youtuber-nikocado-avocados-transformation-breaks-illusion-of-audience-familiarity/>
+
+---
+
+## Occidental’s Child Development Center provides  service to faculty and staff
+
+date: 2024-09-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Just a stroll up from The Wallis Annenberg President&#8217;s House on Gilman Road, The Occidental College Child Development Center (CDC) is a preschool that serves families of Occidental College employees and the adjacent community, caring for their children aged two to five. Open Monday through Friday, the CDC provides a hands-on curriculum focused on exploration and readiness for kindergarten. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/09/18/occidentals-child-development-center-provides-service-to-faculty-and-staff/2912792">Occidental&#8217;s Child Development Center provides  service to faculty and staff</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/09/18/occidentals-child-development-center-provides-service-to-faculty-and-staff/2912792>
+
+---
+
+## Selena Gomez visits Eagle Rock High School to launch mental health initiative
+
+date: 2024-09-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>On the first day of class this fall, Eagle Rock High School (ERHS) English teacher Aileen Gendrano Adao had a new student in class: Selena Gomez. Yes, that Selena Gomez. The billionaire, pop star, actor and philanthropist Selena Gomez. According to Adao, Gomez’s appearance was part of the launch of a student mental health initiative [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/09/18/selena-gomez-visits-eagle-rock-high-school-to-launch-mental-health-initiative/2912820">Selena Gomez visits Eagle Rock High School to launch mental health initiative</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/community/2024/09/18/selena-gomez-visits-eagle-rock-high-school-to-launch-mental-health-initiative/2912820>
+
+---
+
+## Marketplace sustains more than just hunger
+
+date: 2024-09-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>From the Solar Array on Mount Fiji to the missing trash cans at the Marketplace, Occidental&#8217;s sustainability efforts are visible campus-wide. Isa Merel ‘23, the Assistant Sustainability Coordinator in the Office of Sustainability, said the Marketplace replaced traditional waste bins with a sorting system from the conveyor belt behind the scenes. “I know some students [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/09/18/marketplace-sustains-more-than-just-hunger/2912774">Marketplace sustains more than just hunger</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/culture/2024/09/18/marketplace-sustains-more-than-just-hunger/2912774>
+
+---
+
+## Which witches came to Oxy? Guillermo Gómez-Peña and Balitrónica Gómez bring two shows and ‘Zen the octopus’ to campus
+
+date: 2024-09-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>A hand projected on a screen in Thorne Hall auditorium placed a black, cross-less rosary over two teddy bear keychains that were lying face-up, head to head, on a table. The hand belonged to performer Balitrónica Gómez, a core member of the performance troupe La Pocha Nostra. According to the troupe&#8217;s website, “Balitrónica [Gómez] is a cyborg-feminist poet, performance [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/09/18/which-witches-came-to-oxy-guillermo-gomez-pena-and-balitronica-gomez-bring-two-shows-and-zen-the-octopus-to-campus/2912769">Which witches came to Oxy? Guillermo Gómez-Peña and Balitrónica Gómez bring two shows and ‘Zen the octopus’ to campus</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/culture/2024/09/18/which-witches-came-to-oxy-guillermo-gomez-pena-and-balitronica-gomez-bring-two-shows-and-zen-the-octopus-to-campus/2912769>
+
+---
+
+## ’24 hours can be so devastating’: Eagle Rock’s heat-related power outage
+
+date: 2024-09-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>With the onset of a record-breaking Sept. 6 heat wave in LA, power outages in Eagle Rock homes forced residents to endure heat exhaustion and temporary displacement. One resident Valerie Ozeta said that she was hospitalized after her power went out in the afternoon. “By the time I realized, I already had heat exhaustion just [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/09/18/24-hours-can-be-so-devastating-eagle-rocks-heat-related-power-outage/2912812">&#8217;24 hours can be so devastating&#8217;: Eagle Rock&#8217;s heat-related power outage</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/community/2024/09/18/24-hours-can-be-so-devastating-eagle-rocks-heat-related-power-outage/2912812>
+
+---
+
+## ‘It just feels like hanging out’: Monday night comedy show at Señor Fish
+
+date: 2024-09-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Señor Fish — a Mexican restaurant on Eagle Rock Boulevard — has added weekly stand-up comedy to their Monday-night menu. According to Occidental student Ian Terell (junior), he and his friends attended “The Monday Show” regularly over the summer while they were on campus for research and internships. “We saw the sign for Monday night [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/09/18/it-just-feels-like-hanging-out-monday-night-comedy-show-at-senor-fish/2912808">&#8216;It just feels like hanging out&#8217;: Monday night comedy show at Señor Fish</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/community/2024/09/18/it-just-feels-like-hanging-out-monday-night-comedy-show-at-senor-fish/2912808>
+
+---
+
+## ‘Speak No Evil’ screening brings arts nonprofits together
+
+date: 2024-09-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Nonprofit arts organizations Vidiots and KCRW hosted an advance screening of the newly released film “Speak No Evil” Sept. 9 at The Eagle Theater. “Speak No Evil” is a psychological horror movie about an American family invited to spend the weekend at the English-countryside estate of a British family they met on vacation. Starring BAFTA-winning [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/09/18/speak-no-evil-screening-brings-arts-nonprofits-together/2912805">&#8216;Speak No Evil&#8217; screening brings arts nonprofits together</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/community/2024/09/18/speak-no-evil-screening-brings-arts-nonprofits-together/2912805>
+
+---
+
+## Opinion: Complacency amidst Harris’ sudden rise could hand Trump the White House
+
+date: 2024-09-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>For the first time in months, many at Occidental are feeling optimistic about the Presidential election. Gone is the old man who couldn’t form a sentence against Donald Trump. In his place is Vice President Kamala Harris, making a 34-time convicted felon sweat like only a District Attorney can. Optimism in Harris&#8217;s potential victory is appealing, but [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/opinions/2024/09/18/opinion-complacency-amidst-harris-sudden-rise-could-hand-trump-the-white-house/2912783">Opinion: Complacency amidst Harris&#8217; sudden rise could hand Trump the White House</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/opinions/2024/09/18/opinion-complacency-amidst-harris-sudden-rise-could-hand-trump-the-white-house/2912783>
+
+---
+
+## Fantastiprov sparks creativity and community on campus
+
+date: 2024-09-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Fantastiprov is Occidental’s on-campus improv group, which allows students to tap into their improvisational skills through acting games and performances in a tight-knit and encouraging environment, according to co-president Sammy Levy (senior). Run by Levy and Sean Vargas (junior), the club currently consists of 11 members, with representation from each year. They had their first [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/09/18/fantastiprov-sparks-creativity-and-community-on-campus/2912770">Fantastiprov sparks creativity and community on campus</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/culture/2024/09/18/fantastiprov-sparks-creativity-and-community-on-campus/2912770>
+
+---
+
+## Eagle Rock native Lindsey Garcia ready to take water polo teams to a new level as head coach
+
+date: 2024-09-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>This summer, Occidental announced that Lindsey Garcia, an Eagle Rock native and former assistant coach at Cal Tech, will be the new coach for men’s and women’s water polo. Garcia said she started playing water polo after trying swimming, then joined a team at the Rose Bowl Aquatic Center just six miles from Occidental. “I [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/09/18/eagle-rock-native-lindsey-garcia-ready-to-take-water-polo-teams-to-a-new-level-as-head-coach/2912754">Eagle Rock native Lindsey Garcia ready to take water polo teams to a new level as head coach</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/sports/2024/09/18/eagle-rock-native-lindsey-garcia-ready-to-take-water-polo-teams-to-a-new-level-as-head-coach/2912754>
+
+---
+
+## CSUN Alumni shine at Paralympics, brought home Gold on Global Stage
 
 date: 2024-09-18, from: The Sundail (CSUN Student Newspaper)
 
 After securing a third consecutive gold medal for Team USA in sitting volleyball and a fifth-place finish in the women&#8217;s C1-3 race, CSUN alumni, Katie Holloway Bridge and Jamie Whitmore... 
 
 <https://sundial.csun.edu/184985/sports/csun-alumni-shine-at-paralympics-bring-home-gold-on-global-stage/>
+
+---
+
+## Classifieds – September 18, 2024
+
+date: 2024-09-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/18/classifieds-september-18-2024/">Classifieds &#8211; September 18, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/18/classifieds-september-18-2024/>
 
 ---
 
@@ -31,15 +174,75 @@ date: 2024-09-18, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## RSO representatives speak at USG senate, air complaints.
+## RSO representatives speak at USG senate, air complaints
 
 date: 2024-09-18, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Open forum spanned more than two hours, allowing students' voices to be heard.</p>
-<p>The post <a href="https://dailytrojan.com/2024/09/18/rso-representatives-speak-at-usg-senate-air-complaints/">RSO representatives speak at USG senate, air complaints. </a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/18/rso-representatives-speak-at-usg-senate-air-complaints/">RSO representatives speak at USG senate, air complaints</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2024/09/18/rso-representatives-speak-at-usg-senate-air-complaints/>
+
+---
+
+## Women’s volleyball eyes three-game homestand
+
+date: 2024-09-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Head Coach Brad Keller and the Trojans will host three tricky opponents this week.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/18/215377/">Women&#8217;s volleyball eyes three-game homestand</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/18/215377/>
+
+---
+
+## USC soccer looks to Purdue after Big Ten debut win
+
+date: 2024-09-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans aim to remain unbeaten in Big Ten play, defeat the Boilermakers.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/18/usc-soccer-looks-to-purdue-after-big-ten-debut-win/">USC soccer looks to Purdue after Big Ten debut win</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/18/usc-soccer-looks-to-purdue-after-big-ten-debut-win/>
+
+---
+
+## Finding solace in my two-toned outfit
+
+date: 2024-09-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p> It’s okay to not understand style because style never had to be understood to begin with.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/18/finding-solace-in-my-two-toned-outfit/">Finding solace in my two-toned outfit</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/18/finding-solace-in-my-two-toned-outfit/>
+
+---
+
+## Formula 1 has a new rising star
+
+date: 2024-09-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Oscar Piastri is shaping up to be an F1 world champion.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/18/formula-1-has-a-new-rising-star/">Formula 1 has a new rising star</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/18/formula-1-has-a-new-rising-star/>
+
+---
+
+## You don’t have to be the Monica to your roommate’s Rachel
+
+date: 2024-09-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>I have learned the importance of setting boundaries with my roommate and not sacrificing my mental health. </p>
+<p>The post <a href="https://dailytrojan.com/2024/09/18/you-dont-have-to-be-the-monica-to-your-roommates-rachel/">You don’t have to be the Monica to your roommate’s Rachel</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/18/you-dont-have-to-be-the-monica-to-your-roommates-rachel/>
 
 ---
 
@@ -52,6 +255,30 @@ date: 2024-09-18, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/09/18/shiekh-t-shirt-causes-backlash-online-on-campus/>
+
+---
+
+## We are rapidly losing access to information
+
+date: 2024-09-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Internet Archive's defeat signals a new era of restricted knowledge.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/18/we-are-rapidly-losing-access-to-information/">We are rapidly losing access to information</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/18/we-are-rapidly-losing-access-to-information/>
+
+---
+
+## Meghan Chen stands out from the crowd
+
+date: 2024-09-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The talented junior artist speaks to the heart with her EP “Cynic in the Making.”</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/18/meghan-chen-stands-out-from-the-crowd/">Meghan Chen stands out from the crowd</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/18/meghan-chen-stands-out-from-the-crowd/>
 
 ---
 

@@ -1,11 +1,195 @@
 ---
 title: going electric
-updated: 2024-09-18 07:28:38
+updated: 2024-09-18 14:12:36
 ---
 
 # going electric
 
-(date: 2024-09-18 07:28:38)
+(date: 2024-09-18 14:12:36)
+
+---
+
+## Range Energy’s electric trailer helps egg farm improve mpg by ‘up to 70%’
+
+date: 2024-09-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Screenshot-2024-09-18-at-1.56.07PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Range Energy’s electric trailer, which allows fleets to effectively hybridize by adding a battery and motor to the trailer, has been put into service by Petaluma Egg Farm to improve efficiency of its diesel shipping fleet by 50-70%.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="380336" href="https://electrek.co/2024/09/18/range-energys-electric-trailer-helps-egg-farm-improve-mpg-by-up-to-70/#more-380336" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/18/range-energys-electric-trailer-helps-egg-farm-improve-mpg-by-up-to-70/>
+
+---
+
+## Tesla Cybertruck Engineer: Don’t Even Think About Using Supercharger Extension Cords
+
+date: 2024-09-18, from: Inside EVs News
+
+Tesla’s Cybertruck engineer issued a stern warning: using extension cords at Superchargers isn’t just risky—it’s a recipe for disaster. 
+
+<https://insideevs.com/news/734336/tesla-nacs-extension-cable-cybertruck/>
+
+---
+
+## Volvo C40 Recharge: One-Year-Old Models Going For $35,000 Off
+
+date: 2024-09-18, from: Inside EVs News
+
+Want a stylish, sporty, Swedish EV for less money than a new entry-level Ford Escape? Hertz has you covered.  
+
+<https://insideevs.com/news/734338/volvo-c40-used-value/>
+
+---
+
+## BYD’s $10,000 Seagull EV was the top-selling car in China last month
+
+date: 2024-09-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/BYD-cheapest-electric-car.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD’s cheapest electric car, the Seagull, was the top-selling car in China last month, with nearly 41,000 models sold. Starting at under $10,000, the <a href="https://electrek.co/guides/byd/">BYD</a> Seagull even has US automakers worried.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="380318" href="https://electrek.co/2024/09/18/byds-10k-seagull-ev-top-selling-car-china-last-month/#more-380318" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/18/byds-10k-seagull-ev-top-selling-car-china-last-month/>
+
+---
+
+## 'Face ID For Your Car': The Latest Fix For Crappy EV Charging
+
+date: 2024-09-18, from: Inside EVs News
+
+NYC's Revel is adding AI-powered cameras to its charging stations to create a more seamless charging experience.  
+
+<https://insideevs.com/news/734331/revel-ev-charging-juice-ai/>
+
+---
+
+## Tesla Semi partner PepsiCo says electric truck helps with driver retention
+
+date: 2024-09-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/12/Tesla-Semi-PepsiCo-truck-uTutrifor.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>PepsiCo, Tesla’s first customer for the Tesla Semi electric truck, gave an update on how its deployment of the electric truck is going and it is going “smoother than expected”.</p>
+
+
+
+<p>It even helps with driver retention.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-semi" data-layer-viewtype="unknown" data-post-id="380282" href="https://electrek.co/2024/09/18/tesla-semi-partner-pepsico-says-electric-truck-helps-with-driver-retention/#more-380282" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/18/tesla-semi-partner-pepsico-says-electric-truck-helps-with-driver-retention/>
+
+---
+
+## Rare $1,090 bundle discount on Xtracycle Stoker off-road cargo e-bike, Anker SOLIX C800 $399 low, Segway Max G30LP, more
+
+date: 2024-09-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Xtracycle-Stoker-Off-Road-Cargo-e-bike.webp?w=1200" /></div><p>We’ve got another day of low prices on popular Green Deals, with EVs and the means to keep them juiced for riding – especially if you’re away from home on trips. Leading the group is a rare $1,090 bundle discount on <a href="https://9to5toys.com/2024/09/18/save-a-rare-500-on-xtracycles-stoker-off-road-cargo-e-bike-with-590-in-free-gear-at-3999/">Xtracycle’s Stoker Off-Road Cargo e-bike</a> that is down at <a href="https://9to5toys.com/2024/09/18/save-a-rare-500-on-xtracycles-stoker-off-road-cargo-e-bike-with-590-in-free-gear-at-3999/">$3,999</a>. We have a new low price on <a href="https://9to5toys.com/2024/09/17/ankers-solix-c800-portable-power-station-hits-new-399-low-in-time-for-fall-trips-200-off-more-from-449/">Anker’s C800 Portable Power Station</a>. The only scooter in today’s lineup, <a href="https://9to5toys.com/2024/09/18/segways-ninebot-max-g30lp-foldable-electric-scooter-with-regenerative-braking-returns-to-500-low-reg-700/">Segway’s Ninebot Max G30LP Foldable Electric Scooter</a> is back down at <a href="https://9to5toys.com/2024/09/18/segways-ninebot-max-g30lp-foldable-electric-scooter-with-regenerative-braking-returns-to-500-low-reg-700/">$500</a>, while <a href="https://9to5toys.com/2024/09/18/goal-zeros-yeti-6000x-is-ready-to-support-you-through-autumn-at-new-2489-low-reg-2999/">Goal Zero’s Yeti 6000X Portable Power Station</a> prepares for autumn adventures at <a href="https://9to5toys.com/2024/09/18/goal-zeros-yeti-6000x-is-ready-to-support-you-through-autumn-at-new-2489-low-reg-2999/">$2,489</a>. At the tail-end we have Amazon’s best price on the <a href="https://9to5toys.com/2024/09/17/get-up-to-28-miles-of-travel-on-gotraxs-ebe1-folding-e-bike-at-return-540-amazon-low/">GoTrax EBE1 16-inch Folding Electric Bike for $540</a>. Plus, all the other hangover Green Deals in the links at the bottom of the page, like yesterday’s exclusive discount on the <a href="https://9to5toys.com/2024/09/17/save-an-exclusive-350-on-bugattis-upgraded-10-max-electric-scooter-and-cruise-the-town-in-style-at-1249/">Bugatti 10 Max Electric Scooter</a>, and more.  </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="380289" href="https://electrek.co/2024/09/18/xtracycle-stoker-e-bike-solix-c800-segway-max-g30lp-more/#more-380289" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/18/xtracycle-stoker-e-bike-solix-c800-segway-max-g30lp-more/>
+
+---
+
+## Revel just added Juice’s ‘face ID for EVs’ to its DC fast chargers
+
+date: 2024-09-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Revel-DC-fast-charger-Bed-Stuy-NYC.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Revel has added Juice’s groundbreaking AI and computer vision-powered automatic charging and payments system to its DC fast charging stations in New York City.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,ev-chargers,new-york,revel" data-layer-viewtype="unknown" data-post-id="380286" href="https://electrek.co/2024/09/18/revel-just-added-juices-face-id-for-evs-to-its-dc-fast-chargers/#more-380286" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/18/revel-just-added-juices-face-id-for-evs-to-its-dc-fast-chargers/>
+
+---
+
+## The Kia EV9 Has Motors Unlike Any Other EV
+
+date: 2024-09-18, from: Inside EVs News
+
+These unique dual-stage motors maximize low-speed efficiency or deliver more power while improving efficiency at higher speeds. 
+
+<https://insideevs.com/news/734320/kia-ev9-dual-stage-motor/>
+
+---
+
+## Volkswagen to halt ID.4 production in the US following nearly 100,000 vehicle recall
+
+date: 2024-09-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Volkswagen-halt-ID.4-production.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volkswagen plans to temporarily halt <a href="https://electrek.co/guides/vw-id-4/">ID.4</a> production at its Chattanooga, TN, plant following a nationwide recall involving nearly 100,000 models. According to a VW statement, roughly 200 workers will be furloughed at the plant.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,volkswagen-id-4,vw-id-4" data-layer-viewtype="unknown" data-post-id="380276" href="https://electrek.co/2024/09/18/volkswagen-halt-us-id-4-production-100k-vehicle-recall/#more-380276" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/18/volkswagen-halt-us-id-4-production-100k-vehicle-recall/>
+
+---
+
+## Volkswagen weighs another plant closure, this time in China as domestic EVs take control
+
+date: 2024-09-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/11/Volkswagen-ID.7-pre-orders-China.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/volkswagen/">Volkswagen</a> is facing another possible plant closure, this time in China, the company’s largest market. Although China is VW’s biggest market, domestic EV makers, like <a href="https://electrek.co/guides/byd/">BYD</a>, are squeezing out the competition.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,vw" data-layer-viewtype="unknown" data-post-id="380250" href="https://electrek.co/2024/09/18/volkswagen-weighs-another-plant-closure/#more-380250" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/18/volkswagen-weighs-another-plant-closure/>
+
+---
+
+## NIO begins revamped EL8 SUV deliveries in Europe, despite imposed tariffs
+
+date: 2024-09-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/NIO-SUV-Europe-EL8-family.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Three months after opening up sales of its ES8 SUV in Europe, <a href="https://electrek.co/guides/nio/">NIO</a> has begun customer deliveries. The refreshed all-electric SUV, renamed the EL8 for the European market, is the sixth NIO model to enter Europe, and the Chinese automaker is showing no signs of slowing down, even as the EU Commission imposed tariffs on imports.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="europe,nio,nio-es8,tariffs" data-layer-viewtype="unknown" data-post-id="380252" href="https://electrek.co/2024/09/18/nio-begins-revamped-el8-suv-deliveries-in-europe-despite-imposed-tariffs/#more-380252" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/18/nio-begins-revamped-el8-suv-deliveries-in-europe-despite-imposed-tariffs/>
+
+---
+
+## Tesla throws cold water on Supercharger extension cords
+
+date: 2024-09-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/Tesla-supercharger-extension-cable.png?w=1456" /></div><p>A Tesla engineer is throwing cold water on Supercharger extension cords – an idea that is gaining traction to solve the charge port location issues as Tesla onboard other EVs on the Suercharger network.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="380258" href="https://electrek.co/2024/09/18/tesla-throws-cold-water-on-supercharger-extension-cords/#more-380258" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/18/tesla-throws-cold-water-on-supercharger-extension-cords/>
+
+---
+
+## Chinese EVs Can Undercut American EVs Even With Tariffs
+
+date: 2024-09-18, from: Inside EVs News
+
+We also discuss how fast wireless charging is moving forward and why Stellantis is facing heat from UAW. 
+
+<https://insideevs.com/news/734298/cheaper-chinese-evs-cm-tariff/>
 
 ---
 
@@ -37,11 +221,11 @@ date: 2024-09-18, from: Electrek Feed
 
 ---
 
-## Chevy Bolt Owners Need Dealer Service To Use Tesla Chargers
+## Some Chevy Bolt Owners Need Dealer Service To Use Tesla Chargers (Updated)
 
 date: 2024-09-18, from: Inside EVs News
 
-While newer GM owners only need to order their adapters, Bolt owners have to make an extra stop. 
+While newer GM owners only need to order their adapters, some Bolt owners have to make an extra stop. 
 
 <https://insideevs.com/news/734169/chevy-bolt-supercharging-dealer-service/>
 

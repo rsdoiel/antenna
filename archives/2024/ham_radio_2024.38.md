@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2024-09-18 07:28:29
+updated: 2024-09-18 14:12:30
 ---
 
 # ham radio
 
-(date: 2024-09-18 07:28:29)
+(date: 2024-09-18 14:12:30)
+
+---
+
+## Electric vehicles, my perspective
+
+date: 2024-09-18, from: EDN Blog
+
+<img width="592" height="446" src="https://www.edn.com/wp-content/uploads/Electric-Vehicles-1.png?fit=592%2C446" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Electric-Vehicles-1.png?w=592 592w, https://www.edn.com/wp-content/uploads/Electric-Vehicles-1.png?w=300 300w" sizes="(max-width: 592px) 100vw, 592px" /><p>Present day EVs have many shortcomings and while there are great efforts being made toward overcoming these, we ain’t there yet.</p>
+<p>The post <a href="https://www.edn.com/electric-vehicles-my-perspective/" data-wpel-link="internal">Electric vehicles, my perspective</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/electric-vehicles-my-perspective/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2024-09-18 07:28:29
 
 date: 2024-09-18, from: EDN Blog
 
-<img width="1920" height="730" src="https://www.edn.com/wp-content/uploads/Hero-image-BMS-LG.png?fit=1920%2C730" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-BMS-LG.png?w=1920 1920w, https://www.edn.com/wp-content/uploads/Hero-image-BMS-LG.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-BMS-LG.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-BMS-LG.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-BMS-LG.png?w=1536 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /><p>Here is a sneak peek at some noticeable developments in battery management system (BMS) hardware and software.</p>
+<img width="1920" height="730" src="https://www.edn.com/wp-content/uploads/Hero-image-BMS-LG.png?fit=1920%2C730" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-BMS-LG.png?w=1920 1920w, https://www.edn.com/wp-content/uploads/Hero-image-BMS-LG.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-BMS-LG.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-BMS-LG.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-BMS-LG.png?w=1536 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /><p>Here is a sneak peek at some noticeable developments in battery management system (BMS) hardware and software.</p>
 <p>The post <a href="https://www.edn.com/new-design-frontiers-in-bms-hardware-and-software/" data-wpel-link="internal">New design frontiers in BMS hardware and software</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

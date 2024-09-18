@@ -1,11 +1,47 @@
 ---
 title: writing
-updated: 2024-09-18 07:28:32
+updated: 2024-09-18 14:12:32
 ---
 
 # writing
 
-(date: 2024-09-18 07:28:32)
+(date: 2024-09-18 14:12:32)
+
+---
+
+## Selling a script, but holding on to the characters
+
+date: 2024-09-18, from: Interesting, a blog on writing
+
+What's so special about special terms? 
+
+<https://inneresting.substack.com/p/selling-a-script-but-holding-on-to>
+
+---
+
+## Isabel Allende Barbie Doll
+
+date: 2024-09-18, from: Locus Magazine
+
+<p>Mattel Creations has added a Barbie doll based on author Isabel Allende to their &#8220;Inspiring Women&#8221; line.</p>
+<p>On the Mattel site, the doll is shown holding a miniature of Allende&#8217;s novel <strong>La casa de los espíritus </strong>[The House of the Spirits] (1982).</p>
+<p>The doll is designed by Suim Noh and is available on the site for $35.</p>
+
+<p><strong>While you are here,</strong> please take a moment to support Locus with a  <a href="https://locusmag.com/2024/09/isabel-allende-barbie-doll/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/isabel-allende-barbie-doll/>
+
+---
+
+## Children of Anguish and Anarchy by Tomi Adeyemi: Review by Eugen M. Bacon
+
+date: 2024-09-18, from: Locus Magazine
+
+<p><strong>Children of Anguish and Anarchy</strong>, Tomi Ad­eyemi (Henry Holt 978-1250171016, $22.99, 356pp, tp) June 2024.</p>
+<p>As a reader new to Tomi Adeyemi, I hadn’t read the first two books in the Legacy of Orïsha trilogy, before approaching <strong>Chil­dren of Anguish and Anarchy</strong>. I don’t believe it affected my reading experience, because the novel, while part of a trilogy, clearly allows for new readers.</p>
+<p>An eye-catching cover paves the  <a href="https://locusmag.com/2024/09/eugen-m-bacon-reviews-children-of-anguish-and-anarchy-by-tomi-adeyemi/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/eugen-m-bacon-reviews-children-of-anguish-and-anarchy-by-tomi-adeyemi/>
 
 ---
 
