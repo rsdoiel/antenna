@@ -1,11 +1,61 @@
 ---
 title: columns
-updated: 2024-09-18 14:12:31
+updated: 2024-09-19 06:28:23
 ---
 
 # columns
 
-(date: 2024-09-18 14:12:31)
+(date: 2024-09-19 06:28:23)
+
+---
+
+## Why the American economy isn’t working for most Americans in the age of shareholder capitalism
+
+date: 2024-09-19, from: Robert Reich's blog
+
+The inevitable logic of CEOs, private equity, and &#8220;activist investors&#8221; 
+
+<https://robertreich.substack.com/p/icahn>
+
+---
+
+## September 18, 2024 
+
+date: 2024-09-19, from: Heather Cox Richardson blog
+
+Today, at a White House reception in celebration of Hispanic Heritage Month, President Joe Biden said: "We don't demonize immigrants. 
+
+<https://heathercoxrichardson.substack.com/p/september-18-2024>
+
+---
+
+## trurl 0.16
+
+date: 2024-09-19, from: Daniel Stenberg Blog
+
+(Download trurl here) Release presentation At 08:00 UTC I will do a live-streamed release presentation of trurl 0.16 on Twitch. Bump I decided to bump the minor version number again because there is a new option: --qtrim. This is the old --trim option made simpler and specialized for query components only. When we added originally &#8230; <a href="https://daniel.haxx.se/blog/2024/09/19/trurl-0-16/" class="more-link">Continue reading <span class="screen-reader-text">trurl 0.16</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/09/19/trurl-0-16/>
+
+---
+
+## ★ The iPhones 16
+
+date: 2024-09-19, updated: 2024-09-19, from: Daring Fireball
+
+What more proof of the camera’s singular importance to the iPhone would one need than the ever-growing block of camera lenses on the back of each year’s new models, or the “Shot on iPhone” ad campaign? A dedicated hardware button? 
+
+<https://daringfireball.net/2024/09/the_iphones_16>
+
+---
+
+## Aesthetic fascism
+
+date: 2024-09-19, from: Tracy Durnell Blog
+
+Aesthetics seem to come before functionality in tech now&#8230; My husband and I both have new old Pixel phones (6a and 7a), which we both *hate* in comparison to the 3a we had previously. The new phones are exceedingly slippery, sliding off of seemingly flat surfaces constantly. They&#8217;re too large to comfortably hold, for either [&#8230;] 
+
+<https://tracydurnell.com/2024/09/18/aesthetic-fascism/>
 
 ---
 

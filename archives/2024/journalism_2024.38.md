@@ -1,11 +1,85 @@
 ---
 title: journalism
-updated: 2024-09-18 14:12:33
+updated: 2024-09-19 06:28:26
 ---
 
 # journalism
 
-(date: 2024-09-18 14:12:33)
+(date: 2024-09-19 06:28:26)
+
+---
+
+## USC Soccer and football take on the Big Ten
+
+date: 2024-09-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/09/18/usc-soccer-football-talkin-troy/">USC Soccer and football take on the Big Ten</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/18/usc-soccer-football-talkin-troy/>
+
+---
+
+## Beating Boredom
+
+date: 2024-09-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/09/18/beating-boredom/>
+
+---
+
+## What is your MBTI?
+
+date: 2024-09-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/09/18/what-is-your-mbti/>
+
+---
+
+## UCLA women’s volleyball returns for in-state play
+
+date: 2024-09-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+After three straight series in the South, the Bruins get to enjoy an in-state getaway this weekend.
+UCLA women&#8217;s volleyball (5-2) is set for an action-packed weekend, first taking a trip up to Davis, California, to face UC Davis (4-4) on Thursday. 
+
+<https://dailybruin.com/2024/09/18/ucla-womens-volleyball-returns-for-in-state-play/>
+
+---
+
+## USAC passes resolution calling on UC to revoke encampment ban
+
+date: 2024-09-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council passed a resolution calling on the UC to rescind its ban of encampments on all of its campuses Tuesday.
+The resolution, which passed with a 10-1 vote during the council&#8217;s final summer meeting, states that USAC will continue to support the demands of the first Palestine solidarity encampment at UCLA, including the divestment of UC funds from companies tied to the Israeli military and an academic boycott of Israeli universities. 
+
+<https://dailybruin.com/2024/09/18/usac-passes-resolution-calling-on-uc-to-revoke-encampment-ban/>
+
+---
+
+## Gallery: Sightseeing through La Jolla for 24 hours
+
+date: 2024-09-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+As the summer comes to a close, Daily Bruin photographer Brianna Carlson documents one last adventure – a day trip to La Jolla. From picturesque scenery overlooking the ocean to people watching, exploring the city and visiting UC San Diego, Brianna highlights the beauty within an active yet easygoing coastline culture. 
+
+<https://dailybruin.com/2024/09/18/gallery-sightseeing-through-la-jolla-for-24-hours/>
+
+---
+
+## UCLA women’s soccer continues on the road, looks ahead to opponents in Indiana
+
+date: 2024-09-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Big Ten contention is in full swing &#8211; but the Bruins have yet to face a longtime conference foe.
+Following a 2-1 win in its Big Ten debut against Oregon, UCLA women&#8217;s soccer (6-2-1, 1-0 Big Ten) will face Indiana (5-1-1, 0-1) and Purdue (5-2-1, 1-0) this weekend. 
+
+<https://dailybruin.com/2024/09/18/ucla-womens-soccer-continues-on-the-road-looks-ahead-to-opponents-in-indiana/>
 
 ---
 
@@ -13,8 +87,8 @@ updated: 2024-09-18 14:12:33
 
 date: 2024-09-18, from: The Daily Bruin (UCLA Student Newspaper)
 
-Nikocado Avocado has stirred the YouTube pot, demonstrating the inauthenticity of micro-celebrity culture with a spicy revelation.
-On Sep. 6, YouTuber Nicholas Perry released a mukbang video, slurping up noodles and making small talk in his iconic red shirt. 
+<em>This post was updated Sept. 18 at 2:32 p.m.</em>
+Nikocado Avocado has stirred the YouTube pot, demonstrating the inauthenticity of micro-celebrity culture with a spicy revelation. 
 
 <https://dailybruin.com/2024/09/18/second-take-youtuber-nikocado-avocados-transformation-breaks-illusion-of-audience-familiarity/>
 

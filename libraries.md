@@ -1,11 +1,33 @@
 ---
 title: libraries
-updated: 2024-09-18 14:12:33
+updated: 2024-09-19 06:28:27
 ---
 
 # libraries
 
-(date: 2024-09-18 14:12:33)
+(date: 2024-09-19 06:28:27)
+
+---
+
+## Sex and the Serious Reader
+
+date: 2024-09-19, from: Scholarly Kitchen
+
+<p>No, we're not advocating anything lascivious. But a reading experience requires a degree of engagement that one essayist overlooks.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/09/19/sex-and-the-serious-reader/">Sex and the Serious Reader</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/09/19/sex-and-the-serious-reader/>
+
+---
+
+## NAC guides a ribosomal multienzyme complex for nascent protein processing
+
+date: 2024-09-19, from: ETH Zurich, recently added
+
+Lentzsch, Alfred M.; Yudin, Denis; Gamerdinger, Martin; Chandrasekar, Sowmya; Rabl, Laurenz; Scaiola, Alain; Deuerling, Elke; Ban, Nenad; Shan, Shu-ou 
+
+<http://hdl.handle.net/20.500.11850/693967>
 
 ---
 

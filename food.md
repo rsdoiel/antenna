@@ -1,11 +1,169 @@
 ---
 title: food
-updated: 2024-09-18 14:12:37
+updated: 2024-09-19 06:28:31
 ---
 
 # food
 
-(date: 2024-09-18 14:12:37)
+(date: 2024-09-19 06:28:31)
+
+---
+
+## In America, The Indonesian Coffee Bar Is Ready For Its Close-Up
+
+date: 2024-09-19, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Indonesian coffee drinks are having a moment. 
+
+<https://sprudge.com/in-america-the-indonesian-coffee-bar-is-ready-for-its-close-up-250920.html>
+
+---
+
+## Mill City Roasters Expands Operations In Northeast Minneapolis
+
+date: 2024-09-19, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The coffee roaster manufacturer is moving into a new 40,000-square-foot facility. 
+
+<https://sprudge.com/mill-city-roasters-expands-operations-in-northeast-minneapolis-255300.html>
+
+---
+
+## Spicy Pork Stew
+
+date: 2024-09-19, from: Pepper Scale
+
+Rich, fiery, and meaty, this spicy pork stew is 100% a soup that eats like a meal. It&#8217;s chock full of onions, peppers, beans, peas, and of course, pork. Lots of pork. And best of all, outside of a little initial stirring, this is a ... <p class="read-more-container"><a title="Spicy Pork Stew" class="read-more button" href="https://pepperscale.com/spicy-pork-stew/#more-88838" aria-label="Read more about Spicy Pork Stew">Read more</a></p> 
+
+<https://pepperscale.com/spicy-pork-stew/>
+
+---
+
+## What’s A Good Guajillo Pepper Substitute?
+
+date: 2024-09-19, from: Pepper Scale
+
+A Mexican cuisine staple, the guajillo pepper is gaining in culinary popularity worldwide. More and more recipes are calling for this sweet and smoky pepper. And they are part of the &#8220;Holy Trinity&#8221; of Mexican chilies used in mole sauce. But they can still be tricky to find ... <p class="read-more-container"><a title="What&#8217;s A Good Guajillo Pepper Substitute?" class="read-more button" href="https://pepperscale.com/guajillo-pepper-substitute/#more-6169" aria-label="Read more about What&#8217;s A Good Guajillo Pepper Substitute?">Read more</a></p> 
+
+<https://pepperscale.com/guajillo-pepper-substitute/>
+
+---
+
+## Cxffeeblack Is Bringing Baristas From Africa To America For The Barista Exchange Program
+
+date: 2024-09-19, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The final phase of the two-year project is kicking off. 
+
+<https://sprudge.com/cxffeeblack-is-bringing-baristas-from-africa-to-america-for-the-barista-exchange-program-255204.html>
+
+---
+
+## Spicy Apple Chips
+
+date: 2024-09-19, from: Pepper Scale
+
+Fruity sweet, crisp, and spicy &#8211; spicy apple chips are a real healthy treat, especially if you&#8217;re the &#8220;on the go&#8221; type. Put a handful into a Ziploc bag and go! They are perfect for lunches and afternoon snacks. The recipe mixes cinnamon and cayenne ... <p class="read-more-container"><a title="Spicy Apple Chips" class="read-more button" href="https://pepperscale.com/spicy-apple-chips/#more-17873" aria-label="Read more about Spicy Apple Chips">Read more</a></p> 
+
+<https://pepperscale.com/spicy-apple-chips/>
+
+---
+
+## Cheese and Jalapeño Muffin Tray Bake
+
+date: 2024-09-19, from: Pepper Scale
+
+Unbelievably simple and with flavors you just can’t get enough of, this cheese and jalapeño muffin tray bake is exactly like its individual muffin counterparts, but with more bang! This is a perfect comfort food side. Fiery and cheesy just can&#8217;t be beat. As to ... <p class="read-more-container"><a title="Cheese and Jalapeño Muffin Tray Bake" class="read-more button" href="https://pepperscale.com/cheese-and-jalapeno-muffin-tray-bake/#more-58837" aria-label="Read more about Cheese and Jalapeño Muffin Tray Bake">Read more</a></p> 
+
+<https://pepperscale.com/cheese-and-jalapeno-muffin-tray-bake/>
+
+---
+
+## Spicy Moroccan Lamb Stew
+
+date: 2024-09-19, from: Pepper Scale
+
+Moroccan lamb stew is a fragrant, fruity, and sweet stew from Northern Africa. It can be enjoyed with lamb, beef, or even goat meat with a little more cooking time. And there are a lot of flavors here. With the addition of fruits and nuts, ... <p class="read-more-container"><a title="Spicy Moroccan Lamb Stew" class="read-more button" href="https://pepperscale.com/spicy-moroccan-lamb-stew/#more-80772" aria-label="Read more about Spicy Moroccan Lamb Stew">Read more</a></p> 
+
+<https://pepperscale.com/spicy-moroccan-lamb-stew/>
+
+---
+
+## Korean Fire Chicken Sandwich
+
+date: 2024-09-19, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2024/09/Korean-Fire-Chicken-Sandwich-1200-9011.jpg"/></div>
+<p>Spicy Korean fire chicken smothered in melted cheese and sweet corn in a sandwich! Korean Fire Chicken Sandwiches Prep Time: 10 minutes Total Time: 10 minutes Servings: 4 Spicy Korean fire chicken smothered in melted cheese and sweet corn in a sandwich! Print Recipe ingredients 4 buns/rolls (gluten-free for gluten-free) 4 tablespoon mayo 1 batch...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/korean-fire-chicken-sandwich/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/korean-fire-chicken-sandwich/">Korean Fire Chicken Sandwich</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<https://www.closetcooking.com/korean-fire-chicken-sandwich/>
+
+---
+
+## Korean Fire Chicken (Buldak) with Cheese and Corn
+
+date: 2024-09-19, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2024/09/Korean-Fire-Chicken-with-Cheese-and-Corn-1200-8991.jpg"/></div>
+<p>Spicy hot Korean chicken covered in mellowing melted cheese and sweet corn, the perfect balance of spicy, sweet and savoury! Buldak, aka Korean fire chicken, is a Korean style chicken in a tasty sauce that includes gochujang, a fermented chili paste. Fire chicken is often served topped with melted cheese which helps to tame, or...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/korean-fire-chicken-buldak-with-cheese-and-corn/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/korean-fire-chicken-buldak-with-cheese-and-corn/">Korean Fire Chicken (Buldak) with Cheese and Corn</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<https://www.closetcooking.com/korean-fire-chicken-buldak-with-cheese-and-corn/>
+
+---
+
+## Stuffed Zucchini Boats
+
+date: 2024-09-19, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/chipotle-turkey-zucchini-boats/"><img title="Stuffed Zucchini Boats" src="https://www.isabeleats.com/wp-content/uploads/2024/09/mexican-zucchini-boats-small-6-400x600.jpg" alt="Stuffed zucchini boats filled with black beans, corn, cheese, and salsa." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	These stuffed zucchini boats are a delicious, healthy, Mexican-inspired recipe, perfect for dinner or meal prepping. Made from seasoned ground beef, black beans, corn, chopped veggies, and plenty of cheese make this recipe healthy without skimping on flavor.  I make these stuffed zucchini boats ALL the time, especially when I’m looking for a lower-carb dinner [&#8230;] 
+
+<https://www.isabeleats.com/chipotle-turkey-zucchini-boats/>
+
+---
+
+## Cuisinart Pellet Grill Review: A Modest Option for Beginner Pitmasters
+
+date: 2024-09-19, from: Taste of Home
+
+<p>The Cuisinart Pellet Grill is relatively affordable and compact, good for small spaces and new grillers</p>
+<p>The post <a href="https://www.tasteofhome.com/article/cuisinart-pellet-grill-review/">Cuisinart Pellet Grill Review: A Modest Option for Beginner Pitmasters</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/cuisinart-pellet-grill-review/>
+
+---
+
+## Yoder Pellet Grill Review: A Compact (Yet Powerful) Smoker
+
+date: 2024-09-18, from: Taste of Home
+
+<p>Discover why the Yoder was named one of the best pellet grills we tested out and whether or not it's worth the investment</p>
+<p>The post <a href="https://www.tasteofhome.com/article/yoder-pellet-grill-review/">Yoder Pellet Grill Review: A Compact (Yet Powerful) Smoker</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/yoder-pellet-grill-review/>
+
+---
+
+## Raise a Glass for the 5 Best Beer of the Month Clubs
+
+date: 2024-09-18, from: Taste of Home
+
+<p>Our resident beer fans tested five different beer of the month club options. Here's everything we learned after trying over 20 flavors.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-beer-of-the-month-clubs/">Raise a Glass for the 5 Best Beer of the Month Clubs</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/collection/best-beer-of-the-month-clubs/>
 
 ---
 
@@ -93,9 +251,21 @@ Like a sparkling bourbon cocktail, a chocolate-rosemary tea cake, and juicy-cris
 
 date: 2024-09-18, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-620x413.jpg" class="attachment-large size-large wp-post-image" alt="side view landscape" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>After building a devoted following for its original April Brewer, Danish coffee company April Coffee is launching a sibling device called the April Hybrid.&#160; Designed by roaster, competitive barista and... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-620x413.jpg" class="attachment-large size-large wp-post-image" alt="side view landscape" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>After building a devoted following for its original April Brewer, Danish coffee company April Coffee is launching a sibling device called the April Hybrid. Designed by roaster, competitive barista and... 
 
 <https://dailycoffeenews.com/2024/09/18/the-april-hybrid-brewer-springing-forth-this-fall/>
+
+---
+
+## Starbucks Just Dropped a Pecan Crunch Oatmilk Latte That Tastes Like Fall in the ’90s
+
+date: 2024-09-18, from: Taste of Home
+
+<p>I tried the new Starbucks Pecan Crunch Oatmilk Latte and, sorry PSL-lovers, but this brew is even better.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/starbucks-pecan-crunch-oatmilk-latte/">Starbucks Just Dropped a Pecan Crunch Oatmilk Latte That Tastes Like Fall in the &#8217;90s</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/starbucks-pecan-crunch-oatmilk-latte/>
 
 ---
 

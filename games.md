@@ -1,11 +1,91 @@
 ---
 title: games
-updated: 2024-09-18 14:12:32
+updated: 2024-09-19 06:28:26
 ---
 
 # games
 
-(date: 2024-09-18 14:12:32)
+(date: 2024-09-19 06:28:26)
+
+---
+
+## Microsoft Flight Simulator 2024 stuns in first hands-on experience
+
+date: 2024-09-19, updated: 2024-09-19, from: Polygon Website
+
+When the reboot of Microsoft Flight Simulator launched in the summer of 2020, I called it the most remarkable new game in a generation. By combining data from Bing Maps with a next-generation physics-based flight model, real-world weather data, and live air traffic, Xbox Game Studios and its partners at Asobo Studio succeeded in creating [&#8230;] 
+
+<https://www.polygon.com/gaming/453235/microsoft-flight-simulator-2024-preview-grand-canyon>
+
+---
+
+## Pokémon Trading Card Game Pocket is for the art sickos
+
+date: 2024-09-19, updated: 2024-09-18, from: Polygon Website
+
+Opening physical Pokémon card packs is a thrill. There’s the crackle of the plastic-like foil packaging, the weight of the cards in your hand, the feeling of excitement when the pad of your finger catches the brief sensation of a textured holographic card nestled behind all the common cards. Replicating this digitally is an impossible [&#8230;] 
+
+<https://www.polygon.com/pokemon/453190/trading-card-game-pocket-tcg-preview>
+
+---
+
+## How Pokémon TCG Pocket replicates the feel of opening a physical card pack
+
+date: 2024-09-19, updated: 2024-09-18, from: Polygon Website
+
+Pokémon Trading Card Game Pocket, announced in February and out in late October, whittles the Pokémon franchise down to its simplest form: collection. Instead of catching creatures themselves, as in Pokémon Go or any of the franchise’s mainline games, Pokémon TCG Pocket is focused only on cards — creatures on cards, but cards nonetheless. And [&#8230;] 
+
+<https://www.polygon.com/pokemon/452814/pokemon-trading-card-game-pocket-opening-pack-feel>
+
+---
+
+## Nintendo and Pokémon Co. sue Palworld for patent infringement
+
+date: 2024-09-19, updated: 2024-09-19, from: Polygon Website
+
+Nintendo and The Pokémon&#160;Company have filed a lawsuit against Pocketpair, the developer of Palworld, for patent infringement. In response, Pocketpair has said that it is “unaware” of the patents it is accused of infringing and will begin its own legal proceeding to investigate. Late on Wednesday, Nintendo issued a joint press release with The Pokémon&#160;Company [&#8230;] 
+
+<https://www.polygon.com/news/453369/nintendo-pokemon-co-palworld-lawsuit>
+
+---
+
+## Agatha All Along’s unnamed ‘Teen’ is probably this familiar Marvel Comics character
+
+date: 2024-09-19, updated: 2024-09-18, from: Polygon Website
+
+What’s a witch without her dark magical secrets? Marvel’s Agatha All Along miniseries has one front and center. The starring turn for Kathryn Hahn’s diabolical Agatha Harkness, last seen in 2021’s WandaVision, features a plucky young witchy wannabe initially only as “Teen,” and played by Heartstopper’s Joe Locke. The character’s real name has not yet [&#8230;] 
+
+<https://www.polygon.com/marvel/453241/who-is-teen-in-agatha-all-along>
+
+---
+
+## Agatha All Along brews together WandaVision, Doctor Strange, and Darkhold lore
+
+date: 2024-09-19, updated: 2024-09-18, from: Polygon Website
+
+[Ed. note: This post contains end spoilers for Doctor Strange in the Multiverse of Madness and WandaVision, and setup spoilers for Agatha All Along’s premiere episodes.] When Disney Plus’ new Marvel Cinematic Universe show Agatha All Along picks up the story WandaVision started, protagonist Agatha Harkness (Kathryn Hahn) isn’t quite in reality —&#160;or even the [&#8230;] 
+
+<https://www.polygon.com/marvel/453203/agatha-all-along-darkhold-scarlet-witch-where-dead-body-who>
+
+---
+
+## Wizard Class build guide for Dungeons &#038; Dragons 5e 2024
+
+date: 2024-09-18, updated: 2024-09-18, from: Polygon Website
+
+Wizard is one of the 12 classes you can choose from in 2024’s revised Dungeon’s &#38; Dragon’s Player’s Handbook (also known as One D&#38;D, 5.5e, and a few other names). Wizards are (literally) by-the-book spellcasters, and their primary Ability is Intelligence. Before we get started, a quick disclaimer: There’s no “best” anything in D&#38;D. Classes [&#8230;] 
+
+<https://www.polygon.com/dungeons-and-dragons-dnd-guide/452996/wizard-class-build-guide>
+
+---
+
+## Cleric Class build guide for Dungeons &#038; Dragons 5e 2024
+
+date: 2024-09-18, updated: 2024-09-18, from: Polygon Website
+
+Cleric is one of the 12 classes you can choose from in 2024’s revised Dungeons &#38; Dragon’s Player’s Handbook (also known as One D&#38;D, 5.5e, and a few other names). Clerics are divine spellcasters, and their primary Ability is Wisdom. Before we get started, a quick disclaimer: There’s no “best” anything in D&#38;D. Classes tend [&#8230;] 
+
+<https://www.polygon.com/dungeons-and-dragons-dnd-guide/452995/cleric-class-build-guide>
 
 ---
 

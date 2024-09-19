@@ -1,11 +1,135 @@
 ---
 title: central coast
-updated: 2024-09-18 14:12:30
+updated: 2024-09-19 06:28:22
 ---
 
 # central coast
 
-(date: 2024-09-18 14:12:30)
+(date: 2024-09-19 06:28:22)
+
+---
+
+## Chihuly Garden and Glass
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/082921-POD-Cirincione.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Chihuly Garden and Glass display in Seattle." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/082921-POD-Cirincione.jpg?w=2016&amp;ssl=1 2016w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/082921-POD-Cirincione.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/082921-POD-Cirincione.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/082921-POD-Cirincione.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/082921-POD-Cirincione.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/082921-POD-Cirincione.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/082921-POD-Cirincione.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/082921-POD-Cirincione.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/082921-POD-Cirincione.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/082921-POD-Cirincione.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/082921-POD-Cirincione.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/chihuly-garden-and-glass/">Chihuly Garden and Glass</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/chihuly-garden-and-glass/>
+
+---
+
+## Police Searching for Suspect in Non-Fatal Santa Maria Shooting
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Police were searching for the suspect in a shooting that occurred Wednesday night in Santa Maria. Shortly before 8:30 p.m., officers responded to a report of a man down, with [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/police-searching-for-suspect-in-non-fatal-santa-maria-shooting/">Police Searching for Suspect in Non-Fatal Santa Maria Shooting</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/police-searching-for-suspect-in-non-fatal-santa-maria-shooting/>
+
+---
+
+## Santa Barbara Airport Hears From Public On What to Do with Hangars
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Hanger-Open-House-DG-01.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Michelle Leiphardt, a Santa Barbara resident and pilot, places a sticker on a board asking community members how they want the General Western Aero Hangars near the Santa Barbara Airport to be used." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Hanger-Open-House-DG-01.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Hanger-Open-House-DG-01.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Hanger-Open-House-DG-01.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Hanger-Open-House-DG-01.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Hanger-Open-House-DG-01.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Hanger-Open-House-DG-01.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Hanger-Open-House-DG-01.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Hanger-Open-House-DG-01.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Hanger-Open-House-DG-01.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Hanger-Open-House-DG-01.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>What do you do when you have two buildings that are falling apart, but the community wants to save them? That is what the Santa Barbara Airport is trying to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-airport-hears-from-public-on-what-to-do-with-historic-hangars/">Santa Barbara Airport Hears From Public On What to Do with Hangars</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-airport-hears-from-public-on-what-to-do-with-historic-hangars/>
+
+---
+
+## Dos Pueblos Flag Football Struggles in Second Half, Falls to First-Place Ventura, 31-13
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-ventura-flag-918.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-ventura-flag-918.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-ventura-flag-918.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-ventura-flag-918.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-ventura-flag-918.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-ventura-flag-918.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-ventura-flag-918.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-ventura-flag-918.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-ventura-flag-918.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-ventura-flag-918.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-ventura-flag-918.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Three weeks ago, the Dos Pueblos girls flag football squad led a game-winning drive in the final minutes to take down Ventura High at the Ventura County Kickoff Tournament. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dos-pueblos-flag-football-struggles-in-second-half-falls-to-first-place-ventura-31-13/">Dos Pueblos Flag Football Struggles in Second Half, Falls to First-Place Ventura, 31-13</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dos-pueblos-flag-football-struggles-in-second-half-falls-to-first-place-ventura-31-13/>
+
+---
+
+## Sheriff, Santa Barbara Police & Schools Issue Statement on Social Media Threats
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>An extraordinarily high number of social media-based threats have been reported across the nation since the middle of last week. Some such threats have been made to schools in the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/sheriff-santa-barbara-police-schools-issue-statement-on-social-media-threats/">Sheriff, Santa Barbara Police &amp; Schools Issue Statement on Social Media Threats</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sheriff-santa-barbara-police-schools-issue-statement-on-social-media-threats/>
+
+---
+
+## Late Surge Powers Santa Barbara High Flag Football to 33-19 Senior Night Win
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-918.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-918.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-918.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-918.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-918.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-918.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-918.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-918.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-918.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-918.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-flag-918.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara High girls flag football celebrated Senior Night with a 33-19 victory over Oxnard High on Wednesday night at Peabody Stadium. The Dons have now won four games in [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/late-surge-powers-santa-barbara-high-flag-football-to-33-19-senior-night-win/">Late Surge Powers Santa Barbara High Flag Football to 33-19 Senior Night Win</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/late-surge-powers-santa-barbara-high-flag-football-to-33-19-senior-night-win/>
+
+---
+
+## San Marcos Flag Football Races Past Pacifica for 33-0 Road Win
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>San Marcos girls flag football took care of business with a 33-0 road win over Pacifica on Wednesday night. With the win, the Royals advanced to 10-1 on the season [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/san-marcos-flag-football-races-past-pacifica-for-33-0-road-win/">San Marcos Flag Football Races Past Pacifica for 33-0 Road Win</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/san-marcos-flag-football-races-past-pacifica-for-33-0-road-win/>
+
+---
+
+## Goleta Council Considers Bringing Nearby Areas Into Sphere of Influence
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Goleta-sphere-3-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Goleta City Councilman Kyle Richards speaks during a discussion about the city&#039;s sphere of influence, saying the city should start by focusing on the map in the city’s General Plan and then focus on specific properties." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Goleta-sphere-3-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Goleta-sphere-3-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Goleta-sphere-3-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Goleta-sphere-3-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Goleta-sphere-3-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Goleta-sphere-3-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Goleta-sphere-3-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Goleta-sphere-3-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Goleta-sphere-3-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-Goleta-sphere-3-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Goleta City Council on Tuesday considered designating certain areas outside city boundaries to be under the city’s sphere of influence, allowing the city to have a say in potential [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-council-considers-bringing-neighboring-areas-into-its-sphere-of-influence/">Goleta Council Considers Bringing Nearby Areas Into Sphere of Influence</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-council-considers-bringing-neighboring-areas-into-its-sphere-of-influence/>
+
+---
+
+## 500 Block of State Street Hosts ‘Locals’ Night’ Block Party Thursday
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The owners of Holdren’s, Red Piano, and The Cruisery, in collaboration with the Downtown Organization, are excited to invite the community to a special &#8220;Locals’ Night&#8221; block party onThursday, September [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/500-block-of-state-street-hosts-locals-night-block-party-thursday/">500 Block of State Street Hosts &#8216;Locals&#8217; Night&#8217; Block Party Thursday</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/500-block-of-state-street-hosts-locals-night-block-party-thursday/>
+
+---
+
+## Santa Barbara Golf Club to Host SB Senior Open Championship this Weekend
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Annual Santa Barbara Senior Open Golf Championship will tee off on Thursday and Friday this week at the Santa Barbara Golf Club. The 36-hole stroke play tournament will be [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-golf-club-to-host-sb-senior-open-championship-this-weekend/">Santa Barbara Golf Club to Host SB Senior Open Championship this Weekend</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-golf-club-to-host-sb-senior-open-championship-this-weekend/>
 
 ---
 

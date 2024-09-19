@@ -1,15 +1,63 @@
 ---
 title: going electric
-updated: 2024-09-18 14:12:36
+updated: 2024-09-19 06:28:31
 ---
 
 # going electric
 
-(date: 2024-09-18 14:12:36)
+(date: 2024-09-19 06:28:31)
 
 ---
 
-## Range Energy’s electric trailer helps egg farm improve mpg by ‘up to 70%’
+## Here’s how to find all the free money you qualify for when you buy an EV
+
+date: 2024-09-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/EVSE_Garage_Charging_Cabinet-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A new tool is out that lets you search for EV incentives in your area, covering not just the federal $7,500 incentive, but any other local incentives to help you save money when buying an EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="380222" href="https://electrek.co/2024/09/19/heres-how-to-find-all-the-free-money-you-qualify-for-when-you-buy-an-ev/#more-380222" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/19/heres-how-to-find-all-the-free-money-you-qualify-for-when-you-buy-an-ev/>
+
+---
+
+## China’s Maxus eTerron 9 Goes To Europe To Do What Toyota Couldn’t
+
+date: 2024-09-19, from: Inside EVs News
+
+A mid-size all-electric four-wheel drive pickup with an LFP battery sounds like a winner. 
+
+<https://insideevs.com/news/734405/maxus-eterron-9-electric-pickup-europe/>
+
+---
+
+## Volkswagen Halts ID.4 Production To Find A Fix For Doors That Won’t Stay Closed
+
+date: 2024-09-19, from: Inside EVs News
+
+The company issued a stop-sale for U.S.-built ID.4s following a recall that involves nearly 100,000 units. 
+
+<https://insideevs.com/news/734369/vw-id4-production-halt-chattanooga/>
+
+---
+
+## Kia EV5 shows promise in the world’s largest EV market as brand sales top 20,000 again
+
+date: 2024-09-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/Kia-EV5-video.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia is growing in China as most foreign automakers are rapidly losing market share. Foreign automakers like Toyota, Volkswagen, and GM are struggling to keep up with aggressive price cuts and an influx of new competition. After launching its new low-cost electric SUV, the EV5, <a href="https://electrek.co/guides/kia/">Kia</a> is already seeing the results, as brand sales in China topped 20,000 for the third straight month in August.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev5" data-layer-viewtype="unknown" data-post-id="380346" href="https://electrek.co/2024/09/18/kia-ev5-shows-promise-china-brand-sales-top-20000-again/#more-380346" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/18/kia-ev5-shows-promise-china-brand-sales-top-20000-again/>
+
+---
+
+## Range Energy’s electric trailer helps CA egg farm improve mpg by ‘up to 70%’
 
 date: 2024-09-18, from: Electrek Feed
 
@@ -241,7 +289,7 @@ Welcome to the world of Tesla Supercharging, Chevy and Cadillac drivers. Here's 
 
 ---
 
-## Rivian R1S, R1T Available As Certified Pre-Owned EVs For As Low As $62,000
+## Rivian R1S, R1T Available As Pre-Owned EVs For As Low As $62,000
 
 date: 2024-09-18, from: Inside EVs News
 

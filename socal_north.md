@@ -1,11 +1,148 @@
 ---
 title: socal north
-updated: 2024-09-18 14:12:29
+updated: 2024-09-19 06:28:19
 ---
 
 # socal north
 
-(date: 2024-09-18 14:12:29)
+(date: 2024-09-19 06:28:19)
+
+---
+
+## La Ceremonia de El Grito en Los Ángeles es el Inicio del Mes de la Herencia Latina
+
+date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Miles de personas celebraron el Día de la Independencia de México en el Ayuntamiento de Los Ángeles el domingo 15 de septiembre. El concejal Hugo Soto-Martínez fue el padrino de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/18/la-ceremonia-de-el-grito-en-los-angeles-es-el-inicio-del-mes-de-la-herencia-latina/">La Ceremonia de El Grito en Los Ángeles es el Inicio del Mes de la Herencia Latina</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/18/la-ceremonia-de-el-grito-en-los-angeles-es-el-inicio-del-mes-de-la-herencia-latina/>
+
+---
+
+## Panorama City Community Plaza Celebra por Primera Vez Bien el Mes de la Herencia Latina
+
+date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>En el primer día del Mes de la Herencia Latina, una época en la que varios países latinoamericanos celebran sus días de independencia, más de un centenar de personas llegaron [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/18/panorama-city-community-plaza-celebra-por-primera-vez-bien-el-mes-de-la-herencia-latina/">Panorama City Community Plaza Celebra por Primera Vez Bien el Mes de la Herencia Latina</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/18/panorama-city-community-plaza-celebra-por-primera-vez-bien-el-mes-de-la-herencia-latina/>
+
+---
+
+## Horóscopo
+
+date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Las relaciones tienden a ir viento en popa. Esta semana, te compartirás a ti mismo de manera más [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/18/horoscopo-181/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/18/horoscopo-181/>
+
+---
+
+## EVENTOS Locales – Semana de 19 de septiembre, 2024
+
+date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Septiembre 20 Fin de Semana del 3er Aniversario de Shadow Grove Brewing Shadow Grove Brewing 1116 2nd St. San Fernando 12 p.m. – 12 a.m. ¡3 años ya! ¡Únase [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/18/eventos-locales-semana-de-19-de-septiembre-2024/">EVENTOS Locales &#8211; Semana de 19 de septiembre, 2024 </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/18/eventos-locales-semana-de-19-de-septiembre-2024/>
+
+---
+
+## Por Fin, un Mural en Honor a Gabriel Fernández está en Marcha
+
+date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="705" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?fit=1024%2C705&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?w=1424&amp;ssl=1 1424w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=300%2C206&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=1024%2C705&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=768%2C529&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=1200%2C826&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=400%2C275&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=706%2C486&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?fit=1024%2C705&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Ha tardado tres años. Después de encontrar muchos obstáculos burocráticos y puertas cerradas, se ha encontrado un lugar cerca de casa, con un propietario que no dudó en decir “Sí”, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/18/por-fin-un-mural-en-honor-a-gabriel-fernandez-esta-en-marcha/">Por Fin, un Mural en Honor a Gabriel Fernández está en Marcha</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/18/por-fin-un-mural-en-honor-a-gabriel-fernandez-esta-en-marcha/>
+
+---
+
+## Los Eventos para el Mes de la Herencia Latina Continuarán
+
+date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="803" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?fit=803%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?resize=235%2C300&amp;ssl=1 235w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?resize=803%2C1024&amp;ssl=1 803w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?resize=768%2C979&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?resize=400%2C510&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?resize=706%2C900&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?fit=803%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Una exposición especial de arte que vale la pena recorrer hasta el Ayuntamiento del centro de la ciudad ahora está en exhibición para celebrar el Mes de la Herencia Latina. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/18/los-eventos-para-el-mes-de-la-herencia-latina-continuaran/">Los Eventos para el Mes de la Herencia Latina Continuarán</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/18/los-eventos-para-el-mes-de-la-herencia-latina-continuaran/>
+
+---
+
+## Millas de Carril Bici Protegido Completado a lo Largo de San Fernando Road en Sun Valley
+
+date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=1366%2C2048&amp;ssl=1 1366w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=1200%2C1800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=1568%2C2352&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>San Fernando Road en el Este del Valle de San Fernando ganó 4.75 millas adicionales de carril bici protegido, creando casi 10 millas de ciclismo continuo fuera de la calle [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/18/millas-de-carril-bici-protegido-completado-a-lo-largo-de-san-fernando-road-en-sun-valley/">Millas de Carril Bici Protegido Completado a lo Largo de San Fernando Road en Sun Valley</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/18/millas-de-carril-bici-protegido-completado-a-lo-largo-de-san-fernando-road-en-sun-valley/>
+
+---
+
+## LAUSD Pagará $24 Millones en Acuerdo a Presuntas Víctimas de Agresión Sexual en la Escuela Primaria Langdon Avenue
+
+date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La junta del Distrito Escolar Unificado de Los Ángeles (LAUSD, por sus siglas en inglés) acordó pagar a tres ex alumnas de la Escuela Primaria Langdon Avenue en North Hills [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/18/lausd-pagara-24-millones-en-acuerdo-a-presuntas-victimas-de-agresion-sexual-en-la-escuela-primaria-langdon-avenue/">LAUSD Pagará $24 Millones en Acuerdo a Presuntas Víctimas de Agresión Sexual en la Escuela Primaria Langdon Avenue</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/18/lausd-pagara-24-millones-en-acuerdo-a-presuntas-victimas-de-agresion-sexual-en-la-escuela-primaria-langdon-avenue/>
+
+---
+
+## La Falta de Espacios Públicos y Estacionamiento Entre las Preocupaciones de la Comunidad en el Centro de San Fernando Plan Maestro
+
+date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="601" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?fit=1024%2C601&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=300%2C176&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=1024%2C601&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=768%2C450&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=1536%2C901&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=1200%2C704&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=1568%2C920&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=400%2C235&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=706%2C414&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?fit=1024%2C601&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Más de un año después de que el Concejo Municipal de San Fernando aprobara un plan de alcance comunitario para recibir comentarios sobre un plan maestro para el centro de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/18/la-falta-de-espacios-publicos-y-estacionamiento-entre-las-preocupaciones-de-la-comunidad-en-el-centro-de-san-fernando-plan-maestro/">La Falta de Espacios Públicos y Estacionamiento Entre las Preocupaciones de la Comunidad en el Centro de San Fernando Plan Maestro</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/18/la-falta-de-espacios-publicos-y-estacionamiento-entre-las-preocupaciones-de-la-comunidad-en-el-centro-de-san-fernando-plan-maestro/>
+
+---
+
+## Dengue Fever Llega a Los Ángeles: Cómo el Calentamiento Global está Afectando la Salud
+
+date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>En medio de la reciente ola de calor récord en el sur de California y los incendios forestales que avanzan rápidamente, los funcionarios de salud pública informaron el tercer caso [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/18/dengue-fever-llega-a-los-angeles-como-el-calentamiento-global-esta-afectando-la-salud/">Dengue Fever Llega a Los Ángeles: Cómo el Calentamiento Global está Afectando la Salud</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/18/dengue-fever-llega-a-los-angeles-como-el-calentamiento-global-esta-afectando-la-salud/>
+
+---
+
+## In race for LA County DA, one candidate is out-fundraising the other — by far
+
+date: 2024-09-18, updated: 2024-09-19, from: The LAist
+
+Challenger Nathan Hochman has raised five times more money so far than incumbent District Attorney George Gascón. 
+
+<https://laist.com/news/politics/la-county-district-attorney-fundraising>
 
 ---
 

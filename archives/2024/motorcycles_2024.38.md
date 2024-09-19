@@ -1,11 +1,81 @@
 ---
 title: motorcycles
-updated: 2024-09-18 14:12:35
+updated: 2024-09-19 06:28:29
 ---
 
 # motorcycles
 
-(date: 2024-09-18 14:12:35)
+(date: 2024-09-19 06:28:29)
+
+---
+
+## What's It Like To Do Red Bull Romaniacs For The First Time?
+
+date: 2024-09-19, from: Ride Apart, Electric Motorcycle News
+
+As insane as you expect it to be, it's like ten times more. 
+
+<https://www.rideapart.com/news/734316/red-bull-romaniacs-firsttime-video/>
+
+---
+
+## Polaris Just Patented 360-Cameras for Its RZR UTV, Will Be Dope For Rock Crawling
+
+date: 2024-09-19, from: Ride Apart, Electric Motorcycle News
+
+I can see...everything! 
+
+<https://www.rideapart.com/news/734184/polaris-360-camera-patent-rzr-utv/>
+
+---
+
+## Can-Am’s Working On A New Helmet, Gets Comms, Lights, and Heated Visor
+
+date: 2024-09-19, from: Ride Apart, Electric Motorcycle News
+
+Are smart helmets really necessary, and do they really pave the way to the future?  
+
+<https://www.rideapart.com/news/734199/can-am-new-smart-helmet-patent/>
+
+---
+
+## Husqvarna Goes Retro With 2025 Heritage Dirtbikes
+
+date: 2024-09-19, from: Ride Apart, Electric Motorcycle News
+
+A total of 10 bikes, including MX, enduros, and two strokes, get the Heritage treatment.  
+
+<https://www.rideapart.com/news/734198/2025-husqvarna-heritage-dirtbikes/>
+
+---
+
+## Can This Seized Vintage Honda Run Again For Next To Zero Dollars?
+
+date: 2024-09-19, from: Ride Apart, Electric Motorcycle News
+
+Meticulous restorations are cool, but can these guys resurrect a Dream for less than the cost of a cup of coffee? 
+
+<https://www.rideapart.com/news/734189/honda-dream-will-it-run/>
+
+---
+
+## Idiot Car Drivers Pass on Blind Corners, Nearly Kills Motorcyclist
+
+date: 2024-09-19, from: Ride Apart, Electric Motorcycle News
+
+The canyons aren't a racetrack.  
+
+<https://www.rideapart.com/news/734177/idiot-car-driver-nearly-kills-motorcyclist-passing-blind-curve/>
+
+---
+
+## Yamaha R1 and R1M Get Biggest Updates in a Decade, Finally Giving Us What We Want
+
+date: 2024-09-19, from: Ride Apart, Electric Motorcycle News
+
+We've been asking for a while, so thank you, Yamaha. It's lovely when an OEM listens.  
+
+<https://www.rideapart.com/news/734343/2025-yamaha-r1-r1m/>
 
 ---
 

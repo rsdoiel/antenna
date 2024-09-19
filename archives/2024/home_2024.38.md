@@ -1,11 +1,36 @@
 ---
 title: home
-updated: 2024-09-18 14:12:34
+updated: 2024-09-19 06:28:27
 ---
 
 # home
 
-(date: 2024-09-18 14:12:34)
+(date: 2024-09-19 06:28:27)
+
+---
+
+## 39 Yellow and Black Stripe Bug Species (Pictures, Identification)
+
+date: 2024-09-19, from: Yard Life blog
+
+<p>The term &#8220;yellow and black stripe bug&#8221; encompasses a variety of insects known for their distinctive coloration and striking patterns. ... </p>
+<p class="read-more-container"><a title="39 Yellow and Black Stripe Bug Species (Pictures, Identification)" class="read-more button" href="https://ownyardlife.com/39-yellow-and-black-stripe-bug-species-pictures-identification/#more-19395" aria-label="Read more about 39 Yellow and Black Stripe Bug Species (Pictures, Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/39-yellow-and-black-stripe-bug-species-pictures-identification/">39 Yellow and Black Stripe Bug Species (Pictures, Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/39-yellow-and-black-stripe-bug-species-pictures-identification/>
+
+---
+
+## How to Apply Polyurethane
+
+date: 2024-09-19, from: Family Handyman Blog
+
+<p>Getting a smooth, blemish-free finish with oil-based polyurethane is within your grasp if you follow the steps in this article. Oil-based polyurethane varnish brings out wood's natural beauty and grain. Our 8-step approach shows you how to apply the varnish successfully. A good-quality natural-bristle brush, a reasonably dust-free, well-ventilated space and some patience are all you need.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-apply-polyurethane/">How to Apply Polyurethane</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/project/how-to-apply-polyurethane/>
 
 ---
 
@@ -194,6 +219,36 @@ date: 2024-09-18, from: Dwell
 Perched on a pristine, five-acre lot, the updated 1975 residence inspired the hit song "Starwood in Aspen." 
 
 <https://www.dwell.com/article/john-denver-music-studio-guesthouse-starwood-aspen-real-estate-b7eed96d>
+
+---
+
+## A 1930s Cottage Hadn’t Been Touched for 50 Years—See How It Was Modernized
+
+date: 2024-09-18, from: Sunset Magazine - Living in the West
+
+This charming cottage in Los Angeles was in good condition but hadn't been updated in 50 years. One designer gave it a modern makeover. 
+
+<https://www.sunset.com/home-garden/home-tours/glenoaks-canyon-cottage-makeover>
+
+---
+
+## These Chic Home Decor Finds Will Get You in the Mood for Fall
+
+date: 2024-09-18, from: Sunset Magazine - Living in the West
+
+A new season means it might be time to update your space. It's a great time to shop since many stores have launched fall home decor lines. 
+
+<https://www.sunset.com/home-garden/design/fall-home-decor>
+
+---
+
+## Renewing Your Passport Just Got a Lot Easier Thanks to This New Change
+
+date: 2024-09-18, from: Sunset Magazine - Living in the West
+
+The digital system for US passport renewal, which was first introduced in a pilot program in 2022, is officially ready for traveler use. 
+
+<https://www.sunset.com/travel/online-passport-renewal>
 
 ---
 
@@ -619,16 +674,6 @@ date: 2024-09-17, from: Sunset Magazine - Living in the West
 One-of-a-kind gifts to spread holiday cheer, including picks for everyone on your list, from gardeners and travelers to parents and pets. 
 
 <https://www.sunset.com/lifestyle/shopping>
-
----
-
-## These Chic Home Decor Finds Will Get You in the Mood for Fall
-
-date: 2024-09-17, from: Sunset Magazine - Living in the West
-
-A new season means it might be time to update your space. It's a great time to shop since many stores have launched fall home decor lines. 
-
-<https://www.sunset.com/home-garden/design/fall-home-decor>
 
 ---
 

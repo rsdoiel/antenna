@@ -1,11 +1,310 @@
 ---
 title: pacific
-updated: 2024-09-18 14:12:29
+updated: 2024-09-19 06:28:21
 ---
 
 # pacific
 
-(date: 2024-09-18 14:12:29)
+(date: 2024-09-19 06:28:21)
+
+---
+
+## Alaska Airlines chief plans more routes after a deal with Hawaiian
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>The CEO of Alaska Airlines, Ben Minicucci, has big plans. Now, he has a second airline to help achieve them. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/business/alaska-airlines-chief-plans-more-routes-after-a-deal-with-hawaiian/>
+
+---
+
+## Merger touted as customer-friendly; new Hawaiian Airlines CEO says deal gives airline ‘a global reach’
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>New Hawaiian Airlines CEO Joe Sprague told Neighbor Island reporters in a virtual press conference Wednesday that Alaska Airlines&#8217; $1.9 billion acquisition of Hawaiian will provide &#8220;a tremendous boost to the utility that our airline will be able to deliver.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/hawaii-news/merger-touted-as-customer-friendly-new-hawaiian-airlines-ceo-says-deal-gives-airline-a-global-reach/>
+
+---
+
+## Nation and world news in brief for September 19
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>Teamsters will &#0010;not endorse &#0010;Trump or Harris</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/nation-world-news/nation-and-world-news-in-brief-for-september-19/>
+
+---
+
+## Land next to Pololu Trailhead donated to state
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>Land adjacent to the Pololu Trailhead on the Kohala Coast is being donated to the state by a private donor.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/hawaii-news/land-next-to-pololu-trailhead-donated-to-state/>
+
+---
+
+## Discovery of burial site halts work on HPP mailbox project
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>The discovery of a Native Hawaiian burial site in Hawaiian Paradise Park has some residents concerned.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/hawaii-news/discovery-of-burial-site-halts-work-on-hpp-mailbox-project/>
+
+---
+
+## The Fed makes a large rate cut and forecasts more to come
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Federal Reserve cut interest rates Wednesday by half a percentage point, an unusually large move and a clear signal that central bankers think they are winning their war against inflation and are turning their attention to protecting the job market. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/nation-world-news/the-fed-makes-a-large-rate-cut-and-forecasts-more-to-come/>
+
+---
+
+## Tables turn in Vegas as Wahine lose in five sets to UNLV
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>LAS VEGAS &#8212; In a city known for sports gambling, the Hawaii women&#8217;s volleyball team going five sets on Tuesday was a lock.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/sports/tables-turn-in-vegas-as-wahine-lose-in-five-sets-to-unlv/>
+
+---
+
+## Bears, Colts eager to define identity growing pains for young QBs
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>If pressure makes diamonds, the Bears can speak in absolutes when referring to rookie quarterback Caleb Williams as a gem.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/sports/bears-colts-eager-to-define-identity-growing-pains-for-young-qbs/>
+
+---
+
+## Ohtani says ‘no pressure’ as he closes in on 50-50 season
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Shohei Ohtani moved closer to becoming the first player in Major League Baseball (MLB) history to hit 50 home runs and snatch 50 stolen bases in a single season with a monster shot over the right field wall in Miami on Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/sports/ohtani-says-no-pressure-as-he-closes-in-on-50-50-season/>
+
+---
+
+## BIIF volleyball:   Warriors and Dragons sweep competition
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>The Big Island Interscholastic Federation (BIIF) girls volleyball season continued Tuesday across the isle. Teams are approaching the midway point of the regular season slate before island playoffs begin in October.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/sports/biif-volleyball-warriors-and-dragons-sweep-competition/>
+
+---
+
+## US seeks damages from ship operator in Baltimore bridge collapse
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Biden administration launched a court fight Wednesday against the owners and operators of the ship that caused the deadly Francis Scott Key Bridge collapse in Baltimore earlier this year, arguing the companies ignored problems with the MV Dali&#8217;s systems that led to the crash.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/nation-world-news/us-seeks-damages-from-ship-operator-in-baltimore-bridge-collapse/>
+
+---
+
+## Tupperware files for bankruptcy as its colorful containers lose relevance
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>Tupperware Brands filed for bankruptcy protection in Delaware late on Tuesday, succumbing to mounting losses due to poor demand for its once popular colorful food storage containers. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/nation-world-news/tupperware-files-for-bankruptcy-as-its-colorful-containers-lose-relevance/>
+
+---
+
+## Mind and body — New mental health parity rules will keep us all healthier
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>Last week, President Joe Biden and the Departments of Labor, Health and Human Services and the Treasury issued new rules meant to ensure that insurance coverage for mental health conditions and substance abuse disorder has parity with the level of services available for physical health.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/opinion/mind-and-body-new-mental-health-parity-rules-will-keep-us-all-healthier/>
+
+---
+
+## Ukraine’s Zelenskyy says ‘victory plan’ is ready
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; President Volodymyr Zelenskyy said on Wednesday that his &#8220;Victory Plan,&#8221; intended to bring peace to Ukraine while keeping the country strong an avoiding all &#8220;frozen conflicts,&#8221; was now complete after much consultation. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/nation-world-news/ukraines-zelenskyy-says-victory-plan-is-ready/>
+
+---
+
+## Deep links between alcohol and cancer are described in new report
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>Adults younger than 50 have been developing breast cancer and colorectal cancer at increasingly higher rates over the last few decades, and alcohol use may be one factor driving the trend, according to a scientific report published Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/nation-world-news/deep-links-between-alcohol-and-cancer-are-described-in-new-report/>
+
+---
+
+## America’s oil country increasingly runs on renewables
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>HOUSTON &#8212; During the scorching summer of 2023, the Texas energy grid wobbled as surging demand for electricity threatened to exceed supply. Several times, officials called on residents to conserve energy to avoid a grid failure.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/nation-world-news/americas-oil-country-increasingly-runs-on-renewables/>
+
+---
+
+## House defeats Johnson’s spending plan with shutdown looming
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The House on Wednesday defeated a $1.6 trillion stopgap spending bill to extend current government funding into March and impose new proof-of-citizenship requirements on voter registration, as Republicans and Democrats alike rejected Speaker Mike Johnson&#8217;s proposal to avert a shutdown at the end of the month. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/nation-world-news/house-defeats-johnsons-spending-plan-with-shutdown-looming/>
+
+---
+
+## Motivation is a mystery in apparent Israeli electronic devices attacks
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>TEL AVIV, Israel &#8212; Of all the mysteries surrounding a sophisticated and startling attack against an avowed adversary of Israel, one question stands out: Why?</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/nation-world-news/motivation-is-a-mystery-in-apparent-israeli-electronic-devices-attacks/>
+
+---
+
+## TV show to examine threat of hurricanes to Hawaii
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>A one-hour paid television program, &#8220;The New Hurricane Threat for Hawaii,&#8221; will air today and Saturday and feature local experts on why Hawaii is increasingly vulnerable to hurricanes and warn of its dire impacts on its people.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/hawaii-news/tv-show-to-examine-threat-of-hurricanes-to-hawaii/>
+
+---
+
+## Sean ‘Diddy’ Combs’ denied bail on NY federal sex trafficking charges, will stay at Brooklyn MDC
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Embattled hip hop mogul Sean &#8216;Diddy&#8217; Combs&#8217; was denied ball Wednesday in Manhattan Federal Court on NY federal sex trafficking charges and will stay at the Brooklyn MDC lockup.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/nation-world-news/sean-diddy-combs-denied-bail-on-ny-federal-sex-trafficking-charges-will-stay-at-brooklyn-mdc/>
+
+---
+
+## Redefining America’s political lingua franca
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>A seismic shift has occurred in America&#8217;s race, identity and power discourse. Like tectonic plates beneath the Earth&#8217;s surface, long-held assumptions are adjusting and giving way to a reimagined lingua franca for civic engagement. This revived language of liberation redefines the terms of debate. It empowers us to reclaim and reinvigorate words once weaponized principally against marginalized communities.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/opinion/redefining-americas-political-lingua-franca/>
+
+---
+
+## 111 former GOP officials back Harris, calling Trump ‘unfit to serve’
+
+date: 2024-09-19, from: Hawaii Tribune Harold
+
+
+				<p>&#8212; More than 100 former national security officials from Republican administrations and former Republican members of Congress endorsed Vice President Kamala Harris on Wednesday after concluding that their party&#8217;s nominee, Donald Trump, is &#8220;unfit to serve again as president.&#8221; </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/19/nation-world-news/111-former-gop-officials-back-harris-calling-trump-unfit-to-serve/>
+
+---
+
+## Jiba’s legacy for Arno
+
+date: 2024-09-19, from: Marshal Islands Journal
+
+<p>EVE BURNS Christmas came early for Arno last weekend. Last Saturday the newest non-government organization called Jibandrik donated four playground sets with the support of Australia’s Direct Aid Program for the NGO’s project “Expanding Childhood Learning Through Active Play.” Jibandrik started out last year by joining in Arno&#8217;s Christmas parade. It followed up that event [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/jibas-legacy-for-arno/">Jiba’s legacy for Arno</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/jibas-legacy-for-arno/>
+
+---
+
+## Farewell to Rev. Jori
+
+date: 2024-09-19, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Funeral services in celebration of the life of late United Church of Christ Reverend Jori Lokboj began this week following the initial wake at the UCC headquarters in Uliga Monday. In the service, Reverend Josen Teico praised Rev. Jori and his family for his lifelong service to the faith. “He even reached to [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/farewell-to-rev-jori/">Farewell to Rev. Jori</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/farewell-to-rev-jori/>
+
+---
+
+## Vulcan milestone: UH Hilo men’s soccer makes history with top 25 ranking
+
+date: 2024-09-19, from: University of Hawaiʻi News
+
+<p>The Vulcans were the only team from the Pacific West Conference ranked in the top 25.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/18/uh-hilo-mens-soccer-top-25-ranking/">Vulcan milestone: <abbr>UH</abbr> Hilo men’s soccer makes history with top 25 ranking</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/18/uh-hilo-mens-soccer-top-25-ranking/>
 
 ---
 
@@ -76,19 +375,9 @@ The post <a href="https://www.hawaii.edu/news/2024/09/18/uh-manoa-exceeds-20k-en
 
 ---
 
-## Palau faces growing drug crisis
-
-date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
-
-KOROR (Island Times/Pacnews) — The Palau Senate Judiciary and Governmental Affairs Committee conducted a public hearing on Wednesday, Sept. 11 2024, to address the island nation’s escalating drug crisis. 
-
-<https://www.mvariety.com/news/regional_world/palau-faces-growing-drug-crisis/article_bc6f1d3c-7582-11ef-95d1-275c530e2ecd.html>
-
----
-
 ## OPINION ǀ The UN should not leave Taiwan behind
 
-date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
+date: 2024-09-18, updated: 2024-09-19, from: Marianas Variety
 
 WHEN Taiwanese visit Guam and North Mariana Islands for vacations, they are warmly welcomed and enjoy the convenience that visa waiver programs offer them. You probably cannot believe that Taiwan passport holders are prohibited from entering United Nations premises while many people around the world enjoy the freedom of visiting there. 
 
@@ -98,7 +387,7 @@ WHEN Taiwanese visit Guam and North Mariana Islands for vacations, they are warm
 
 ## US House ties government funding to voting bill as shutdown deadline nears
 
-date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
+date: 2024-09-18, updated: 2024-09-19, from: Marianas Variety
 
 WASHINGTON (Reuters) — The Republican-controlled U.S. House of Representatives will vote on legislation on Wednesday that pairs a must-pass spending bill with tighter voting rules, setting up an election year clash with the Democratic-majority Senate that risks a partial government shutdown. 
 
@@ -108,7 +397,7 @@ WASHINGTON (Reuters) — The Republican-controlled U.S. House of Representatives
 
 ## With Fed’s rate cut at hand, debate swirls over how big a move
 
-date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
+date: 2024-09-18, updated: 2024-09-19, from: Marianas Variety
 
 WASHINGTON (Reuters) — The Federal Reserve on Wednesday will lower interest rates for the first time in more than four years as the U.S. central bank starts to reverse the restrictive conditions it imposed to beat back inflation, but whether policymakers opt for a half-percentage-point cut or smaller move remains up in the air. 
 
@@ -118,11 +407,71 @@ WASHINGTON (Reuters) — The Federal Reserve on Wednesday will lower interest ra
 
 ## Delegate candidates discuss economy, tourism, other issues
 
-date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
+date: 2024-09-18, updated: 2024-09-19, from: Marianas Variety
 
 AT the Saipan Chamber of Commerce delegate debate, the five candidates shared their ideas on how to solve the pressing issues facing the CNMI’s tourism industry, healthcare services, and other keys concerns. 
 
 <https://www.mvariety.com/news/local/delegate-candidates-discuss-economy-tourism-other-issues/article_56a8c8e6-759a-11ef-aad9-77b9987d263f.html>
+
+---
+
+## Judiciary: Budget cuts will affect ‘impartiality and efficiency’ of courts
+
+date: 2024-09-18, updated: 2024-09-19, from: Marianas Variety
+
+THE CNMI Judiciary has raised “serious concerns” about the proposed budget cuts, specifically Section 703(e) of the fiscal year 2025 government appropriation bill. 
+
+<https://www.mvariety.com/news/local/judiciary-budget-cuts-will-affect-impartiality-and-efficiency-of-courts/article_201e62c6-7569-11ef-8c88-2f9534cf85a3.html>
+
+---
+
+## Velleza slips past Beto, 82-75 in Destroyers friendly game
+
+date: 2024-09-18, updated: 2024-09-19, from: Marianas Variety
+
+ELMER Esdrelon, Jorge De Guzman, and brothers Ramil and Dane Tibayan surged in the final half to help Velleza zoom past Beto in a Destroyers Basketball Club Friendly Game at the Tan Siu Lin Sports Center in Gualo Rai on Tuesday. 
+
+<https://www.mvariety.com/sports/localsports/velleza-slips-past-beto-82-75-in-destroyers-friendly-game/article_407e2374-759d-11ef-8ad6-8f78a989e842.html>
+
+---
+
+## Dolphins place Tua Tagovailoa on injured reserve after latest concussion
+
+date: 2024-09-18, updated: 2024-09-19, from: Marianas Variety
+
+MIAMI GARDENS, Fla. (AP) — The Miami Dolphins placed Tua Tagovailoa on injured reserve Tuesday after the quarterback was diagnosed with his third concussion in two years. 
+
+<https://www.mvariety.com/sports/nationalsports/dolphins-place-tua-tagovailoa-on-injured-reserve-after-latest-concussion/article_4edfe34c-75c2-11ef-a17d-fbd94c49112e.html>
+
+---
+
+## ‘Agatha All Along’ crafts a witch coven community run by women
+
+date: 2024-09-18, updated: 2024-09-19, from: Marianas Variety
+
+LOS ANGELES (Reuters) — Actor Kathryn Hahn met with a person she describes as a real-life witch every week to help her further embrace her role as the witch Agatha Harkness in the show "Agatha All Along." 
+
+<https://www.mvariety.com/lifestyle/agatha-all-along-crafts-a-witch-coven-community-run-by-women/article_0b890460-75c3-11ef-adfb-2754a944ea46.html>
+
+---
+
+## Netflix says ‘Baby Reindeer’ clearly involved dramatization
+
+date: 2024-09-18, updated: 2024-09-19, from: Marianas Variety
+
+LONDON (Reuters) — "Baby Reindeer" clearly involved dramatization, Netflix said on Tuesday, in response to concerns over its compliance standards sparked by online speculation about the real-life people behind the characters in its hit mini-series. 
+
+<https://www.mvariety.com/lifestyle/netflix-says-baby-reindeer-clearly-involved-dramatization/article_5018dae2-75c3-11ef-8f51-3b7ec877cf42.html>
+
+---
+
+## Palau faces growing drug crisis
+
+date: 2024-09-18, updated: 2024-09-19, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) — The Palau Senate Judiciary and Governmental Affairs Committee conducted a public hearing on Wednesday, Sept. 11 2024, to address the island nation’s escalating drug crisis. 
+
+<https://www.mvariety.com/news/regional_world/palau-faces-growing-drug-crisis/article_bc6f1d3c-7582-11ef-95d1-275c530e2ecd.html>
 
 ---
 
@@ -133,26 +482,6 @@ date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
 JEMCO Ltd. has acquired the Mobil gas stations in Susupe and San Vicente, JEMCO operator Ed Flores said. 
 
 <https://www.mvariety.com/news/local/jemco-acquires-two-more-mobil-gas-stations/article_45a62a52-7559-11ef-8eb1-e356ddf010ec.html>
-
----
-
-## Judiciary: Budget cuts will affect ‘impartiality and efficiency’ of courts
-
-date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
-
-THE CNMI Judiciary has raised “serious concerns” about the proposed budget cuts, specifically Section 703(e) of the fiscal year 2025 government appropriation bill. 
-
-<https://www.mvariety.com/news/local/judiciary-budget-cuts-will-affect-impartiality-and-efficiency-of-courts/article_201e62c6-7569-11ef-8c88-2f9534cf85a3.html>
-
----
-
-## Velleza slips past Beto, 82-75 in Destroyers friendly game
-
-date: 2024-09-18, updated: 2024-09-18, from: Marianas Variety
-
-ELMER Esdrelon, Jorge De Guzman, and brothers Ramil and Dane Tibayan surged in the final half to help Velleza zoom past Beto in a Destroyers Basketball Club Friendly Game at the Tan Siu Lin Sports Center in Gualo Rai on Tuesday. 
-
-<https://www.mvariety.com/sports/localsports/velleza-slips-past-beto-82-75-in-destroyers-friendly-game/article_407e2374-759d-11ef-8ad6-8f78a989e842.html>
 
 ---
 
@@ -457,7 +786,7 @@ date: 2024-09-18, from: Hawaii Tribune Harold
 date: 2024-09-18, from: Hawaii Tribune Harold
 
 
-				<p>Kilauea&#8217;s eruption at the remote Napau Crater continues this morning, with lava still confined to the crater floor.</p>
+				<p><strong>UPDATED 3:20 p.m.</strong></p>
 			 
 
 <https://www.hawaiitribune-herald.com/2024/09/18/hawaii-news/kilaueas-eruption-at-napau-crater-continues/>
