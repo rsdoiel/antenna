@@ -1,11 +1,71 @@
 ---
 title: food
-updated: 2024-09-19 06:28:31
+updated: 2024-09-19 17:12:42
 ---
 
 # food
 
-(date: 2024-09-19 06:28:31)
+(date: 2024-09-19 17:12:42)
+
+---
+
+## Staub Vs Le Creuset: Which Is Better?
+
+date: 2024-09-19, from: Bon Appetet
+
+After years of testing, the Dutch oven duel is a bit of a stalemate. 
+
+<https://www.bonappetit.com/story/staub-or-le-creuset-which-is-better>
+
+---
+
+## The Best Chocolate Gifts (2024)
+
+date: 2024-09-19, from: Bon Appetet
+
+Whether you’re looking for classic truffles, artisanal bonbons, or the gooiest chocolate chip cookies—we’ve got you covered. 
+
+<https://www.bonappetit.com/story/the-best-chocolate-gifts-2024>
+
+---
+
+## The Best Hot Sauce, According to Bon Appétit Editors
+
+date: 2024-09-19, from: Bon Appetet
+
+No matter your spice preference, these sauces bring on the flavor and heat. 
+
+<https://www.bonappetit.com/story/best-hot-sauce>
+
+---
+
+## Everything Is Just Sew At Short Sleeves Coffee In Swannanoa, NC
+
+date: 2024-09-19, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Short Sleeves Coffee in Swannanoa, North Carolina. 
+
+<https://sprudge.com/everything-is-just-sew-at-short-sleeves-coffee-in-swannanoa-nc-252437.html>
+
+---
+
+## Study: People Using Coffee to Self-Treat Parkinson’s But Not Talking to Their Doctors
+
+date: 2024-09-19, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="coffee and Parkinsons" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new study shows that coffee is among the most commonly used natural health products used by people with Parkinson&#8217;s disease to self-manage symptoms. The study, which focused on other... 
+
+<https://dailycoffeenews.com/2024/09/19/study-people-using-coffee-to-self-treat-parkinsons-but-not-talking-to-their-doctors/>
+
+---
+
+## Design Details: The Art of Affogato in Mumbai
+
+date: 2024-09-19, from: Daily Coffee News
+
+<div><img width="620" height="479" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1-620x479.jpg" class="attachment-large size-large wp-post-image" alt="Affogato cafe 4" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1-620x479.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1-300x232.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1-150x116.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1-768x593.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+
+<https://dailycoffeenews.com/2024/09/19/design-details-the-art-of-affogato-in-mumbai/>
 
 ---
 
@@ -197,7 +257,7 @@ Inspired by the Basque pintxo, this great-on-anything salsa packs a punch.
 
 ---
 
-## Homecourt by Courtney Cox, Tested & Reviewed
+## Homecourt by Courteney Cox, Tested & Reviewed
 
 date: 2024-09-18, from: Bon Appetet
 
@@ -211,7 +271,7 @@ Plus, our thoughts on other luxury home cleaning products.
 
 date: 2024-09-18, from: Daily Coffee News
 
-<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png" class="attachment-large size-large wp-post-image" alt="Fair-Trade-certified" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-300x218.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-150x109.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-768x557.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>An influential figure in the fair trade movement over the past quarter century, Paul Rice is resigning as CEO of Fair Trade USA. In an announcement last week, Rice said... 
+<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png" class="attachment-large size-large wp-post-image" alt="Fair-Trade-certified" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-300x218.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-150x109.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-768x557.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>An influential figure in the fair trade movement over the past quarter century, Paul Rice is resigning as CEO of Fair Trade USA. In an announcement last week, Rice said... 
 
 <https://dailycoffeenews.com/2024/09/18/fair-trade-usa-founder-paul-rice-resigning-as-ceo/>
 
@@ -221,7 +281,7 @@ date: 2024-09-18, from: Daily Coffee News
 
 date: 2024-09-18, from: Daily Coffee News
 
-<div><img width="620" height="423" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1-620x423.jpg" class="attachment-large size-large wp-post-image" alt="We Coffee Sao Paolo 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1-620x423.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1-300x205.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1-768x524.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+<div><img width="620" height="423" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1-620x423.jpg" class="attachment-large size-large wp-post-image" alt="We Coffee Sao Paolo 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1-620x423.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1-300x205.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1-768x524.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/We-Coffee-Sao-Paolo-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
 
 <https://dailycoffeenews.com/2024/09/18/design-details-white-in-black-at-we-coffee-in-sao-paolo/>
 
@@ -251,7 +311,7 @@ Like a sparkling bourbon cocktail, a chocolate-rosemary tea cake, and juicy-cris
 
 date: 2024-09-18, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-620x413.jpg" class="attachment-large size-large wp-post-image" alt="side view landscape" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>After building a devoted following for its original April Brewer, Danish coffee company April Coffee is launching a sibling device called the April Hybrid. Designed by roaster, competitive barista and... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-620x413.jpg" class="attachment-large size-large wp-post-image" alt="side view landscape" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/side-view-landscape.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>After building a devoted following for its original April Brewer, Danish coffee company April Coffee is launching a sibling device called the April Hybrid. Designed by roaster, competitive barista and... 
 
 <https://dailycoffeenews.com/2024/09/18/the-april-hybrid-brewer-springing-forth-this-fall/>
 

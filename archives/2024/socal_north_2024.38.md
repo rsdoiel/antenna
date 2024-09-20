@@ -1,11 +1,97 @@
 ---
 title: socal north
-updated: 2024-09-19 06:28:19
+updated: 2024-09-19 17:12:33
 ---
 
 # socal north
 
-(date: 2024-09-19 06:28:19)
+(date: 2024-09-19 17:12:33)
+
+---
+
+## Once again, this summer is likely to be warmest on record
+
+date: 2024-09-19, updated: 2024-09-19, from: The LAist
+
+California is one of five states that had their warmest summers on record. 
+
+<https://laist.com/news/climate-environment/summer-warmest-on-record>
+
+---
+
+## Relief at last! Highland Park woman gets free A/C unit after all
+
+date: 2024-09-19, updated: 2024-09-19, from: The LAist
+
+There’s a rising need for air conditioning amid global heating. Older people are particularly at risk when it comes to worsening heat. 
+
+<https://laist.com/news/climate-environment/relief-highland-park-woman-free-ac-unit>
+
+---
+
+## We have the details on some upcoming debates for LA's CD14 and LA County DA
+
+date: 2024-09-19, updated: 2024-09-19, from: The LAist
+
+The election is getting close. For folks still making up their minds, we highlight some chances to hear directly from the candidates. 
+
+<https://laist.com/news/politics/la-city-council-district-14-debate>
+
+---
+
+## Huntington Beach sues the state over parental notification ban
+
+date: 2024-09-19, updated: 2024-09-19, from: The LAist
+
+Proponents of parental notification policies say parents have the right to know. Opponents say these policies endanger vulnerable young people. 
+
+<https://laist.com/news/education/huntington-beach-sues-the-state-over-parental-notification-ban>
+
+---
+
+## Braddon Mendelson to Present “Provenance” at The MAIN
+
+date: 2024-09-19, from: City of Santa Clarita
+
+<p>Travel Through Time to Experience the Stories of a Louis XV Handcrafted Table Prepare for an enthralling journey through the ages as award-winning playwright Braddon Mendelson unveils &#8220;Provenance.” Co-produced by Olive Branch Theatricals and Noisivision Studios, this intriguing play brings to life centuries-old tales imbued in the essence of a Louis XV handcrafted table, as [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/19/braddon-mendelson-to-present-provenance-at-the-main/">Braddon Mendelson to Present &#8220;Provenance&#8221; at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/19/braddon-mendelson-to-present-provenance-at-the-main/>
+
+---
+
+## Community Invited to David March Park Expansion Groundbreaking Ceremony
+
+date: 2024-09-19, from: City of Santa Clarita
+
+<p>GROUNDBREAKING CEREMONY One of our community’s most cherished parks is set to expand, offering even more amenities for residents to enjoy. Join us for the groundbreaking event on September 26, at 10:00 a.m., at David March Park (28310 North Via Joyce Drive) as we officially begin construction to add eight acres to the park’s footprint, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/19/community-invited-to-david-march-park-expansion-groundbreaking-ceremony/">Community Invited to David March Park Expansion Groundbreaking Ceremony</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/19/community-invited-to-david-march-park-expansion-groundbreaking-ceremony/>
+
+---
+
+## Santa Clarita Arts: A Journey Through Local Creativity
+
+date: 2024-09-19, from: City of Santa Clarita
+
+<p>By Mayor Pro Tem Bill Miranda As my wife, Virginia, and I stroll through our magnificent City, we admire the beautiful paseos and the expansive open spaces, but what really catches our eye, is the diverse works of art at every turn. As some of you may know, Virginia is a talented artist, and whether [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/19/santa-clarita-arts-a-journey-through-local-creativity/">Santa Clarita Arts: A Journey Through Local Creativity</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/19/santa-clarita-arts-a-journey-through-local-creativity/>
+
+---
+
+## Patchy drizzle, cooler weather for Southern California. Thunderstorms likely in Ventura, Santa Barbara
+
+date: 2024-09-19, updated: 2024-09-19, from: The LAist
+
+Thunderstorms likely for Ventura and Santa Barbara counties. 
+
+<https://laist.com/news/climate-environment/patchy-drizzle-cloudy-cool>
 
 ---
 

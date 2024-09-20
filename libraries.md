@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-09-19 06:28:27
+updated: 2024-09-19 17:12:38
 ---
 
 # libraries
 
-(date: 2024-09-19 06:28:27)
+(date: 2024-09-19 17:12:38)
 
 ---
 
@@ -120,7 +120,7 @@ date: 2024-09-17, from: Scholarly Kitchen
 
 date: 2024-09-16, from: Association of Research Libraries News
 
-<p>Last Updated on September 18, 2024, 3:37 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 17 &#124; Wednesday, September 18 &#124; Thursday, September 19 Monday, September 16...</p>
+<p>Last Updated on September 19, 2024, 11:57 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 17 &#124; Wednesday, September 18 &#124; Thursday, September 19 Monday, September 16...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-16-19/">Day in Review (September 16–19)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

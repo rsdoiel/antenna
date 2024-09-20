@@ -1,11 +1,21 @@
 ---
 title: retro computing
-updated: 2024-09-19 06:28:29
+updated: 2024-09-19 17:12:40
 ---
 
 # retro computing
 
-(date: 2024-09-19 06:28:29)
+(date: 2024-09-19 17:12:40)
+
+---
+
+## ProHance Technologies' Power Mouse
+
+date: 2024-09-19, from: Computer ads from the Past
+
+Even A Totally Souped up PC Is A Dog Without PowerMouse 
+
+<https://computeradsfromthepast.substack.com/p/prohance-technologies-power-mouse>
 
 ---
 

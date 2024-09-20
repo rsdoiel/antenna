@@ -1,11 +1,137 @@
 ---
 title: central coast
-updated: 2024-09-19 06:28:22
+updated: 2024-09-19 17:12:35
 ---
 
 # central coast
 
-(date: 2024-09-19 06:28:22)
+(date: 2024-09-19 17:12:35)
+
+---
+
+## Santa Barbara Public Library Celebrates Hispanic Heritage Month with “Raíces y Sueños”!
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="529" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/PR_Raices-y-Suenos.png?fit=1024%2C529&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/PR_Raices-y-Suenos.png?w=1488&amp;ssl=1 1488w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/PR_Raices-y-Suenos.png?resize=300%2C155&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/PR_Raices-y-Suenos.png?resize=1024%2C529&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/PR_Raices-y-Suenos.png?resize=768%2C396&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/PR_Raices-y-Suenos.png?resize=1200%2C619&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/PR_Raices-y-Suenos.png?resize=400%2C206&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/PR_Raices-y-Suenos.png?resize=706%2C364&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/PR_Raices-y-Suenos.png?fit=1024%2C529&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Santa Barbara Public Library is pleased to announce a special series of events for Hispanic Heritage Month titled “Raíces y Sueños: Celebrating Hispanic Immigrant Culture.” The programming planning process [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-public-library-celebrates-hispanic-heritage-month-with-raices-y-suenos/">Santa Barbara Public Library Celebrates Hispanic Heritage Month with “Raíces y Sueños”!</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-public-library-celebrates-hispanic-heritage-month-with-raices-y-suenos/>
+
+---
+
+## SpaceX Plans Falcon Rocket Launch Near Sunrise Friday at Vandenberg SFB
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A Falcon 9 rocket launch near sunrise Friday could end the work week while delivering a new set of Starlink satellites into orbit from Vandenberg Space Force Base.  The two-stage [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/spacex-plans-falcon-rocket-launch-near-sunrise-friday-at-vandenberg-sfb/">SpaceX Plans Falcon Rocket Launch Near Sunrise Friday at Vandenberg SFB</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/spacex-plans-falcon-rocket-launch-near-sunrise-friday-at-vandenberg-sfb/>
+
+---
+
+## Captain’s Log: GWA: A Great Opportunity for Kids to Learn Wrestling
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Wrestling is a popular sport that teaches kids physical and mental skillsets and teamwork. It is a physically demanding sport that is highly regarded and respected. The Santa Barbara and [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/captains-log-gwa-a-great-opportunity-for-kids-to-learn-wrestling/">Captain&#8217;s Log: GWA: A Great Opportunity for Kids to Learn Wrestling</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/captains-log-gwa-a-great-opportunity-for-kids-to-learn-wrestling/>
+
+---
+
+## Lompoc Police Arrest 2 Men After Investigating Pair of Shootings
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A Lompoc resident has been arrested in connection with two shootings earlier this week in the city and the investigation landed a second man in custody for weapons-related charges. At [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lompoc-police-arrest-2-men-after-investigating-pair-of-shootings/">Lompoc Police Arrest 2 Men After Investigating Pair of Shootings</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/lompoc-police-arrest-2-men-after-investigating-pair-of-shootings/>
+
+---
+
+## Fire Damages Building With 2 Lompoc Businesses
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A structure fire Wednesday afternoon caused major damage to two businesses in Lompoc, Battalion Chief Scott Nunez said Thursday.&#160; Personnel from the Lompoc Fire Department responded at approximately 1 p.m. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/fire-damages-building-with-2-lompoc-businesses/">Fire Damages Building With 2 Lompoc Businesses</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/fire-damages-building-with-2-lompoc-businesses/>
+
+---
+
+## Friday Night Lights Week 4: San Marcos Hosts Santa Barbara High for 64th Big Game
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Friday-Night-Lights-919.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Friday-Night-Lights-919.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Friday-Night-Lights-919.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Friday-Night-Lights-919.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Friday-Night-Lights-919.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Friday-Night-Lights-919.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Friday-Night-Lights-919.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Friday-Night-Lights-919.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Friday-Night-Lights-919.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Friday-Night-Lights-919.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Friday-Night-Lights-919.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Santa Barbara High Dons and San Marcos Royals have clashed on the gridiron as crosstown rivals for decades, and this year they will do it as non-league opponents. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/friday-night-lights-week-4-san-marcos-hosts-santa-barbara-high-for-64th-big-game/">Friday Night Lights Week 4: San Marcos Hosts Santa Barbara High for 64th Big Game</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/friday-night-lights-week-4-san-marcos-hosts-santa-barbara-high-for-64th-big-game/>
+
+---
+
+## Pink Lounge Gala to Honor Dr. Fred Kass, Raise Funds for Breast Cancer Support Services
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="819" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/BCRC_ThePinkLounge-141-of-252-1.jpg?fit=1024%2C819&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/BCRC_ThePinkLounge-141-of-252-1.jpg?w=1600&amp;ssl=1 1600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/BCRC_ThePinkLounge-141-of-252-1.jpg?resize=300%2C240&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/BCRC_ThePinkLounge-141-of-252-1.jpg?resize=1024%2C819&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/BCRC_ThePinkLounge-141-of-252-1.jpg?resize=768%2C614&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/BCRC_ThePinkLounge-141-of-252-1.jpg?resize=1536%2C1229&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/BCRC_ThePinkLounge-141-of-252-1.jpg?resize=1200%2C960&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/BCRC_ThePinkLounge-141-of-252-1.jpg?resize=1568%2C1254&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/BCRC_ThePinkLounge-141-of-252-1.jpg?resize=400%2C320&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/BCRC_ThePinkLounge-141-of-252-1.jpg?resize=706%2C565&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/BCRC_ThePinkLounge-141-of-252-1.jpg?fit=1024%2C819&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Breast Cancer Resource Center of Santa Barbara (BCRC) kicks off Breast Cancer Awareness month with its annual Pink Lounge Gala on Friday, Sept. 27, at the stunning Rosewood Miramar Beach. This glamorous [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/pink-lounge-gala-to-honor-dr-fred-kass-raise-funds-for-breast-cancer-support-services/">Pink Lounge Gala to Honor Dr. Fred Kass, Raise Funds for Breast Cancer Support Services</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/pink-lounge-gala-to-honor-dr-fred-kass-raise-funds-for-breast-cancer-support-services/>
+
+---
+
+## Collin Harmon: Spice Up Your Fall Brunch with This Easy Shakshuka Recipe
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Shakshuka-ch.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="North African-inspired shakshuka is rich with fall flavors, thanks to the roasted red peppers and warm spices." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Shakshuka-ch.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Shakshuka-ch.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Shakshuka-ch.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Shakshuka-ch.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Shakshuka-ch.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Shakshuka-ch.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Shakshuka-ch.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Shakshuka-ch.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Shakshuka-ch.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Shakshuka-ch.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Shakshuka-ch.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Shakshuka-ch.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Shakshuka-ch.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Here’s a quick and easy recipe for a North African-inspired shakshuka (pronounced shack-shoo-kah), perfect for starting off the fall season: Ingredients Instructions This shakshuka is rich with fall flavors, thanks to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/collin-harmon-spice-up-your-fall-brunch-with-this-easy-shakshuka-recipe/">Collin Harmon: Spice Up Your Fall Brunch with This Easy Shakshuka Recipe</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/collin-harmon-spice-up-your-fall-brunch-with-this-easy-shakshuka-recipe/>
+
+---
+
+## Nobel Prize-Winning Biochemist Dr. Jennifer Doudna to Speak at UCSB
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="672" height="630" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Doudna.jpg?fit=672%2C630&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Doudna.jpg?w=672&amp;ssl=1 672w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Doudna.jpg?resize=300%2C281&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Doudna.jpg?resize=400%2C375&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Doudna.jpg?fit=672%2C630&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>UCSB Arts &#38; Lectures&#160;and the Cancer Foundation of Santa Barbara co-present&#160;Dr. Jennifer Doudna,&#160;CRISPR Gene Editing and the Future of Human Health&#160;on Tuesday, Oct. 22, at 7:30 p.m. at The Granada [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/nobel-prize-winning-biochemist-dr-jennifer-doudna-to-speak-at-ucsb/">Nobel Prize-Winning Biochemist Dr. Jennifer Doudna to Speak at UCSB</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/nobel-prize-winning-biochemist-dr-jennifer-doudna-to-speak-at-ucsb/>
+
+---
+
+## Debra & Brad Vidro Transform Santa Ynez Valley Through Spirited Volunteerism
+
+date: 2024-09-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Debra-and-Brad-Vidro-jb.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Debra and Brad Vidro have made a major impact in Los Alamos, where one of their bigger joint projects was the transformation of an old building into a new library." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Debra-and-Brad-Vidro-jb.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Debra-and-Brad-Vidro-jb.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Debra-and-Brad-Vidro-jb.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Debra-and-Brad-Vidro-jb.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Debra-and-Brad-Vidro-jb.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Debra-and-Brad-Vidro-jb.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Debra-and-Brad-Vidro-jb.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Debra-and-Brad-Vidro-jb.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Debra-and-Brad-Vidro-jb.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Debra-and-Brad-Vidro-jb.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Debra-and-Brad-Vidro-jb.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Debra-and-Brad-Vidro-jb.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Debra-and-Brad-Vidro-jb.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>[Noozhawk’s note: One in a series on the Santa Ynez Valley Foundation’s 2024 Champions of the Valley who will be honored for their volunteerism and community service Oct. 13 at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/debra-brad-vidro-transform-santa-ynez-valley-through-spirited-volunteerism/">Debra &amp; Brad Vidro Transform Santa Ynez Valley Through Spirited Volunteerism</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/debra-brad-vidro-transform-santa-ynez-valley-through-spirited-volunteerism/>
 
 ---
 

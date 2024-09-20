@@ -1,11 +1,192 @@
 ---
 title: columns
-updated: 2024-09-19 06:28:23
+updated: 2024-09-19 17:12:35
 ---
 
 # columns
 
-(date: 2024-09-19 06:28:23)
+(date: 2024-09-19 17:12:35)
+
+---
+
+## News Trump Doesn’t Want You to Hear
+
+date: 2024-09-19, from: Dan Rather's Steady
+
+Stocks soar, interest rates fall. Will it help Harris? 
+
+<https://steady.substack.com/p/news-trump-doesnt-want-you-to-hear>
+
+---
+
+## History Extra for September 18, 2024
+
+date: 2024-09-19, from: Heather Cox Richardson blog
+
+On September 18, 1850, Congress passed the Fugitive Slave Act as one of the five laws that made up the Compromise of 1850. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-september-18-2024>
+
+---
+
+##  A Tour of Antarctica by Drone 
+
+date: 2024-09-19, updated: 2024-09-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/a-tour-of-antarctica-by-drone>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-19, from: Dave Winer's Scripting News)
+
+<a href="https://abcnews.go.com/US/huckabee-sanders-harris-lacks-humility-raising-biological-children/story?id=113800656">Sarah Huckabee Sanders</a> forced us to think of her as a mom. I don't think that works out very well in her favor, probably best not to go there. 
+
+<http://scripting.com/2024/09/19.html#a210043>
+
+---
+
+## Apple Seeds First Public Betas of iOS 18.1 and macOS 15.1 Sequoia With Apple Intelligence
+
+date: 2024-09-19, updated: 2024-09-19, from: Daring Fireball
+
+ 
+
+<https://www.macrumors.com/2024/09/19/apple-seeds-first-ios-18-1-public-beta/>
+
+---
+
+## The truth about private equity
+
+date: 2024-09-19, from: Robert Reich's blog
+
+Friends, 
+
+<https://robertreich.substack.com/p/the-truth-about-private-equity>
+
+---
+
+##  Visualizing Ship Movements with AIS Data. &#8220;Explore the beautiful, intricate paths of... 
+
+date: 2024-09-19, updated: 2024-09-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045305-visualizing-ship-movement>
+
+---
+
+## September 18, 2024
+
+date: 2024-09-19, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-18-2024-15f>
+
+---
+
+##  A famous lecture given in 1982 by computer science pioneer Grace Hopper,... 
+
+date: 2024-09-19, updated: 2024-09-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045300-a-famous-lecture-given-in>
+
+---
+
+##  Horndog, a rotating hot dog robot that scrolls photos of bread on... 
+
+date: 2024-09-19, updated: 2024-09-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045296-horndog-a-rotating-hot-do>
+
+---
+
+##  Double Trio 
+
+date: 2024-09-19, updated: 2024-09-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/double-trio>
+
+---
+
+##  Monopoly, But COMMUNIST? No Rolls Barred, a YouTube Channel about board games,... 
+
+date: 2024-09-19, updated: 2024-09-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045301-monopoly-but-communist-no>
+
+---
+
+## FBI Shuts Down Chinese Botnet
+
+date: 2024-09-19, updated: 2024-09-19, from: Bruce Schneier blog
+
+<p>The FBI has <a href="https://gizmodo.com/fbi-shuts-down-botnet-run-by-beijing-backed-hackers-that-hijacked-over-200000-devices-2000500627">shut down</a> a botnet run by Chinese hackers:</p>
+<blockquote><p>The botnet malware infected a number of different types of internet-connected devices around the world, including home routers, cameras, digital video recorders, and NAS drives. Those devices were used to help infiltrate sensitive networks related to universities, government agencies, telecommunications providers, and media organizations&#8230;. The botnet was launched in mid-2021, according to the FBI, and infected roughly 260,000 devices as of June 2024.</p>
+<p>The operation to dismantle the botnet was coordinated by the FBI, the NSA, and the Cyber National Mission Force (CNMF), according to a press release dated ...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/09/fbi-shuts-down-chinese-botnet.html>
+
+---
+
+##  Ian Bogost on the death of the &#8220;perfect vehicle&#8221;, the minivan. &#8220;It... 
+
+date: 2024-09-19, updated: 2024-09-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045303-ian-bogost-on-the-death>
+
+---
+
+##  Oh hey, a new book from Oliver Burkeman coming out soon: Meditations... 
+
+date: 2024-09-19, updated: 2024-09-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045297-oh-hey-a-new-book>
+
+---
+
+##  &#8220;The Kidnapping I Can&#8217;t Escape&#8221; 
+
+date: 2024-09-19, updated: 2024-09-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/the-kidnapping-i-cant-escape>
+
+---
+
+## Driving on a mountain road
+
+date: 2024-09-19, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2019/06/03/tinaTheBearNurseFromBojackHorseman.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I was driving on a mountain road yesterday to pick up a pizza in a nearby town. I drive it fairly regularly, and I have a car that handles well so I drive at the speed limit or a little above. </p>
+<p>Still, what often happens on this road is some asshole tailgates, getting so close that if I hit the brakes suddenly they would have no time to react, and would slam into the rear of my car. And you do sometimes have to hit the brakes because animals appear on the road, deer, turkeys are common. Sometimes even bears. </p>
+<p>I've never hit an animal, but I have come close.  </p>
+<p>There's no way to pass on this road. </p>
+<p>I've been in the other driver's place when a tourist is driving 30 in a 45 mph zone, and what do you do? Keep your distance and don't freak out. It's perfectly legal to go 30 in a 45 mph zone. </p>
+<p>Anyway I slow down, to send a signal to the other driver, and also to mitigate damage if there is an accident. This asshole leans on their horn. I slow down more. </p>
+<p>And when I come to a stop sign I come to a full stop and pause, thinking okay they'll pass me now, and I'll get a chance to see who this asshole is. They stayed behind and leaned on the horn again.  </p>
+<p>When we come to the next stop sign, it's the end of the road and you can go left or right. I'm going right, they're going left, and the road is wide so the asshole pulls up to the left of me and I look over and see a middle-aged woman, could be a teacher or a nurse. I was amazed. The last kind of person I would expect to make such a scene. </p>
+<p>If I had a chance I would have asked what the hell they were doing. </p>
+<p>BTW, I don't speed on these roads because I like driving them, I love the mountains, and the fresh air, and I wasn't in any kind of a hurry. It's not uncommon to get a tailgater but usually they take the hint when I slow down and add a few car lengths between us. </p>
+<p>One of the reasons I have a blog is so I have a place to write these stories. <span class="spOldSchoolEmoji">😄</span></p>
+ 
+
+<http://scripting.com/2024/09/19/131438.html?title=drivingOnAMountainRoad>
 
 ---
 

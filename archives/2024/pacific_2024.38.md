@@ -1,11 +1,212 @@
 ---
 title: pacific
-updated: 2024-09-19 06:28:21
+updated: 2024-09-19 17:12:34
 ---
 
 # pacific
 
-(date: 2024-09-19 06:28:21)
+(date: 2024-09-19 17:12:34)
+
+---
+
+## Federal advisors gain insights to oceans with UH experts
+
+date: 2024-09-19, from: University of Hawaiʻi News
+
+<p>Members of the Ocean Research Advisory Panel visited <abbr>HIMB</abbr> in September.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/19/himb-ocean-research-advisory-panel/">Federal advisors gain insights to oceans with <abbr>UH</abbr> experts</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/19/himb-ocean-research-advisory-panel/>
+
+---
+
+## UH Cancer Center’s Wu nominated for State Employee of the Year
+
+date: 2024-09-19, from: University of Hawaiʻi News
+
+<p>Lang Wu is the founding director of the <abbr>UH</abbr> Pacific Center for Genome Research.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/19/wu-nominated-state-employee-of-the-year/"><abbr>UH</abbr> Cancer Center’s Wu nominated for State Employee of the Year</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/19/wu-nominated-state-employee-of-the-year/>
+
+---
+
+## Users gain easier access to more historic videos, films at ʻUluʻulu
+
+date: 2024-09-19, from: University of Hawaiʻi News
+
+<p>The <span aria-label="Uluulu">&#699;Ulu&#699;ulu</span> moving image archive has a powerful new way to search for video.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/19/users-gain-easier-access-to-uluulu/">Users gain easier access to more historic videos, films at <span aria-label="Uluulu">ʻUluʻulu</span></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/19/users-gain-easier-access-to-uluulu/>
+
+---
+
+## Jail rocking since 1987!
+
+date: 2024-09-19, from: Marshal Islands Journal
+
+<p>Journal 9/18/1987 P1 Jailhouse rocks!One of the most colorful local spots on Majuro happens to be the jailhouse, and its potential as a tourist attraction should not be overlooked. We’ve had reporters down at the jail who were entertained to see nubile young girls on exhibition just off the main lobby, girls with endowments that [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/jail-rocking-since-1987/">Jail rocking since 1987!</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/jail-rocking-since-1987/>
+
+---
+
+## Q&A: UH climate-smart agriculture project prepares for next phase
+
+date: 2024-09-19, from: University of Hawaiʻi News
+
+<p><abbr>CTAHR</abbr> researchers are leading a diverse coalition of partners that is also aiming to establish stronger markets for locally produced, healthy food and forest products.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/19/climate-smart-agriculture/">Q&A: <abbr>UH</abbr> climate-smart agriculture project prepares for next phase</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/19/climate-smart-agriculture/>
+
+---
+
+## Hawaii County Council – District 5 and District 9
+
+date: 2024-09-19, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Two General Election races for the Hawaii County Council are runoffs...</p>
+<p>The post <a href="https://www.pbshawaii.org/hawaii-county-council-district-5-and-district-9/">Hawaii County Council &#8211; District 5 and District 9</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/hawaii-county-council-district-5-and-district-9/>
+
+---
+
+## $4.3M grant for first UH transfer center at Kauaʻi CC
+
+date: 2024-09-19, from: University of Hawaiʻi News
+
+<p>The <span aria-label="Kauai">Kaua&#699;i</span> <abbr>CC</abbr> Transfer Center will have onsite representatives from <abbr>UH</abbr> M&#257;noa, <abbr>UH</abbr> Hilo and <abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/19/first-uh-transfer-center-at-kauai-cc/">$4.3M grant for first <abbr>UH</abbr> transfer center at Kauaʻi <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/19/first-uh-transfer-center-at-kauai-cc/>
+
+---
+
+## KoES, SIS, Brilliant Star, KagES prevail in inter-scholastic soccer
+
+date: 2024-09-19, updated: 2024-09-19, from: Marianas Variety
+
+KOBLERVILLE Elementary School, Saipan International School and Brilliant Star prevailed in their respective matches in the NMI Football Association's Inter-Scholastic Soccer League at the NMI Soccer Training Center in Koblerville on Wednesday. 
+
+<https://www.mvariety.com/sports/localsports/koes-sis-brilliant-star-kages-prevail-in-inter-scholastic-soccer/article_e3be64aa-766e-11ef-b2bf-b7e877381285.html>
+
+---
+
+## Panthers coach: Bryce Young isn't being shopped
+
+date: 2024-09-19, updated: 2024-09-19, from: Marianas Variety
+
+(Reuters) — Bryce Young is no longer Carolina's starting quarterback, but the Panthers aren't ready to send him packing. 
+
+<https://www.mvariety.com/sports/nationalsports/panthers-coach-bryce-young-isnt-being-shopped/article_4c5b6d7a-768b-11ef-ba33-bfffdea53c28.html>
+
+---
+
+## MLB roundup: Brewers win NL Central, then walk off Phillies
+
+date: 2024-09-19, updated: 2024-09-19, from: Marianas Variety
+
+(Reuters) — Jake Bauers lined a bases-loaded, walk-off single in the ninth inning, giving Milwaukee a 2-1 victory over the visiting Philadelphia Phillies in the finale of a three-game series between division leaders after the Brewers clinched the National League Central earlier on Wednesday. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-brewers-win-nl-central-then-walk-off-phillies/article_c1475bea-768a-11ef-8732-1b2f01541b62.html>
+
+---
+
+## US keeps missile system in Philippines as China tensions rise, tests wartime deployment
+
+date: 2024-09-19, updated: 2024-09-19, from: Marianas Variety
+
+MANILA (Reuters) — The United States has no immediate plans to withdraw a mid-range missile system deployed in the Philippines, despite Chinese demands, and is testing the feasibility of its use in a regional conflict, sources with knowledge of the matter told Reuters. 
+
+<https://www.mvariety.com/news/regional_world/us-keeps-missile-system-in-philippines-as-china-tensions-rise-tests-wartime-deployment/article_56ec5122-768c-11ef-8b9d-c30cc06cba64.html>
+
+---
+
+## US says Iran emailed stolen Trump campaign material to Biden camp
+
+date: 2024-09-19, updated: 2024-09-19, from: Marianas Variety
+
+(Reuters) — Iranian hackers sent emails containing stolen material from Republican former President Donald Trump's campaign to people involved in Democratic President Joe Biden's then re-election campaign, part of an alleged broader effort by Tehran to influence the U.S. election, U.S. agencies said on Wednesday. 
+
+<https://www.mvariety.com/news/national/us-says-iran-emailed-stolen-trump-campaign-material-to-biden-camp/article_76639374-768e-11ef-8b7e-47c1f72ba3b3.html>
+
+---
+
+## Gauff and Gilbert part company as coach looks ahead to ‘next chapter’
+
+date: 2024-09-19, updated: 2024-09-19, from: Marianas Variety
+
+NEW YORK (Reuters) — World No. 6 Coco Gauff and coach Brad Gilbert are parting company after the player suffered a frustrating fourth-round exit from the U.S. Open, Gilbert said on Wednesday, adding that he was looking forward to the next chapter of his career. 
+
+<https://www.mvariety.com/sports/nationalsports/gauff-and-gilbert-part-company-as-coach-looks-ahead-to-next-chapter/article_a1d124ca-768b-11ef-ba20-b7900e4c6579.html>
+
+---
+
+## Hell of the Marianas Century Cycle on Dec. 7
+
+date: 2024-09-19, updated: 2024-09-19, from: Marianas Variety
+
+(MVA) — The Hell of the Marianas, one of the toughest cycling events in the Pacific region, is set to return on Dec. 7, 2024, and registration is now open at www.hellofthemarianas.com/. 
+
+<https://www.mvariety.com/sports/localsports/hell-of-the-marianas-century-cycle-on-dec-7/article_f1dcac50-768b-11ef-bc01-6f9cad193999.html>
+
+---
+
+## Over one-third of Guam adults classified obese, CDC reveals
+
+date: 2024-09-19, updated: 2024-09-19, from: Marianas Variety
+
+HAGÅTÑA (Pacific Island Times/Pacnews) — Guam has joined the ranks of U.S states and territories where adult obesity rates exceed 35%, according to the latest data released last week by the U.S Centers for Disease Control and Prevention. 
+
+<https://www.mvariety.com/news/regional_world/over-one-third-of-guam-adults-classified-obese-cdc-reveals/article_3783c936-768d-11ef-b4fe-db221ecb478f.html>
+
+---
+
+## Remengesau disputes claims of military base proposal in 2020
+
+date: 2024-09-19, updated: 2024-09-19, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) — Former Palau President Tommy E. Remengesau Jr., who is running for president again, has denied claims that his 2020 letter to then-U.S. Secretary of Defense Mark Esper included a request for the construction of U.S. military bases in Palau. 
+
+<https://www.mvariety.com/news/regional_world/remengesau-disputes-claims-of-military-base-proposal-in-2020/article_99ae0748-768d-11ef-b9a4-67bdcca413dc.html>
+
+---
+
+## Crowne Plaza Resort Saipan is SAIPANTASTIC!
+
+date: 2024-09-19, updated: 2024-09-19, from: Marianas Variety
+
+(Special Advertising Feature) — Crowne Plaza Resort Saipan is excited to announce a range of new updates and special promotions that will elevate your dining experience, whether you're a local or just visiting. From new culinary leadership to exciting menu offerings and new specials, there's something for everyone! 
+
+<https://www.mvariety.com/lifestyle/crowne-plaza-resort-saipan-is-saipantastic/article_a3876644-7690-11ef-b304-d3132c1b2ea7.html>
+
+---
+
+## The Limbo
+
+date: 2024-09-19, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Zach Murphy The cicadas are extremely loud this summer, and so are my mother’s outfits. The leopard print high-heels, the oversized sunglasses, and the hat with the pink floral arrangement on its brim are some of the more understated &#8230; <a href="https://hawaiipacificreview.org/2024/09/19/the-limbo/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/09/19/the-limbo/>
+
+---
+
+## Story telling at media workshop
+
+date: 2024-09-19, from: Marshal Islands Journal
+
+<p>Twenty-five journalists, students and government public information officers, participated in the Telling Your Pacific Story media workshop held at Palau Community College from September 9-13, 2024. A panel presentation, “The future of tourism in Palau: The key issues,” was a highlight of the workshop and provided information that was used by participants to create articles, [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/story-telling-at-media-workshop/">Story telling at media workshop</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/story-telling-at-media-workshop/>
 
 ---
 
@@ -273,6 +474,16 @@ date: 2024-09-19, from: Hawaii Tribune Harold
 
 ---
 
+## Feds seek to develop off-shore wind energy infrastructure for  Guam
+
+date: 2024-09-19, from: Pacific Island Times
+
+By Pacific Island Times News Staff The U.S. government is exploring the possibility of developing offshore wind turbines in Guam as part... 
+
+<https://www.pacificislandtimes.com/post/feds-seek-to-develop-off-shore-wind-energy-infrastructure-for-guam>
+
+---
+
 ## Jiba’s legacy for Arno
 
 date: 2024-09-19, from: Marshal Islands Journal
@@ -282,6 +493,16 @@ date: 2024-09-19, from: Marshal Islands Journal
  
 
 <https://marshallislandsjournal.com/jibas-legacy-for-arno/>
+
+---
+
+## FSM, Fiji advocate regional solidarity
+
+date: 2024-09-19, from: Pacific Island Times
+
+By Pacific Island Times News Staff The leaders of the Federated States of Micronesia and Fiji have stressed the importance of regional... 
+
+<https://www.pacificislandtimes.com/post/fsm-fiji-advocate-regional-solidarity>
 
 ---
 
@@ -305,6 +526,26 @@ date: 2024-09-19, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/09/18/uh-hilo-mens-soccer-top-25-ranking/">Vulcan milestone: <abbr>UH</abbr> Hilo men’s soccer makes history with top 25 ranking</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/09/18/uh-hilo-mens-soccer-top-25-ranking/>
+
+---
+
+## Guam airport sells $67.8 million in municipal bonds
+
+date: 2024-09-19, from: Pacific Island Times
+
+By Pacific Island Times News Staff Bolstered by strong investor demand and continued improvement in financial metrics, the Guam... 
+
+<https://www.pacificislandtimes.com/post/guam-airport-sells-67-8-million-in-municipal-bonds>
+
+---
+
+## Expert highlights growth of Spanish language in the Pacific
+
+date: 2024-09-18, from: Pacific Island Times
+
+By Myracle S. Mugol   The use of the Spanish language in the Pacific region is more prevalent now than it was when the islands were under... 
+
+<https://www.pacificislandtimes.com/post/expert-highlights-growth-of-spanish-language-in-the-pacific>
 
 ---
 
@@ -1393,7 +1634,7 @@ date: 2024-09-17, from: Island Times
 
 date: 2024-09-17, from: Island Times
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72551" data-permalink="https://islandtimes.org/palau-high-school-students-visit-palau-national-aquaculture-center-to-learn-renewable-energy-application/phs_solar_pv_04/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PHS_Solar_PV_04" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?fit=780%2C585&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72551" data-permalink="https://islandtimes.org/palau-high-school-students-visit-palau-national-aquaculture-center-to-learn-renewable-energy-application/phs_solar_pv_04/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PHS_Solar_PV_04" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PHS_Solar_PV_04.jpg?fit=780%2C585&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>A renewable energy promotion event was successfully held at the Palau National Aquaculture Center in Koror&#160;on September 11, 2024.&#160;&#160;The event, attended by 30 students and teachers from Palau High School (PHS), was jointly organized by the Taiwan Technical Mission (TTM) in Palau and Tatung Forever Energy Company. The purpose of the event was to introduce [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/palau-high-school-students-visit-palau-national-aquaculture-center-to-learn-renewable-energy-application/">Palau High School Students Visit Palau National Aquaculture Center to learn Renewable Energy Application</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1406,7 +1647,7 @@ date: 2024-09-17, from: Island Times
 
 date: 2024-09-17, from: Island Times
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72549" data-permalink="https://islandtimes.org/u-s-coast-guard-forces-micronesia-sector-guam-cnmi-agencies-successfully-conduct-2024-search-and-rescue-exercise/us-coast-guard-forces-micronesia/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="US Coast Guard Forces Micronesia" data-image-description="" data-image-caption="&lt;p&gt;Photo By Chief Petty Officer Richard Hofschneider | Lt. Chelsea Garcia, of the response department and a search and rescue mission coordinator, discusses search fundamentals as U.S. Coast Guard Forces Micronesia/Sector Guam and Station Apra Harbor personnel team up with local rescue units and enforcement officers from the Commonwealth of the Northern Mariana Islands for an intensive three-day Search and Rescue Exercise (SAREx) in Saipan from Sept. 10-12, 2024. The event began with visits to critical facilities, including the Emergency Operations Center at Homeland Security and Emergency Management, the Customs and Biosecurity Office, and the Division of Fish and Wildlife, where U.S. Coast Guard personnel conducted walkthroughs of search and rescue assets, discussed routine operations and procedures, and engaged in meet-and-greets with new leadership, including the Emergency Management and Communications Chiefs. (U.S. Coast Guard photo by Chief Petty Officer Richard Hofschneider) &lt;/p&gt;
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72549" data-permalink="https://islandtimes.org/u-s-coast-guard-forces-micronesia-sector-guam-cnmi-agencies-successfully-conduct-2024-search-and-rescue-exercise/us-coast-guard-forces-micronesia/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="US Coast Guard Forces Micronesia" data-image-description="" data-image-caption="&lt;p&gt;Photo By Chief Petty Officer Richard Hofschneider | Lt. Chelsea Garcia, of the response department and a search and rescue mission coordinator, discusses search fundamentals as U.S. Coast Guard Forces Micronesia/Sector Guam and Station Apra Harbor personnel team up with local rescue units and enforcement officers from the Commonwealth of the Northern Mariana Islands for an intensive three-day Search and Rescue Exercise (SAREx) in Saipan from Sept. 10-12, 2024. The event began with visits to critical facilities, including the Emergency Operations Center at Homeland Security and Emergency Management, the Customs and Biosecurity Office, and the Division of Fish and Wildlife, where U.S. Coast Guard personnel conducted walkthroughs of search and rescue assets, discussed routine operations and procedures, and engaged in meet-and-greets with new leadership, including the Emergency Management and Communications Chiefs. (U.S. Coast Guard photo by Chief Petty Officer Richard Hofschneider) &lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/US-Coast-Guard-Forces-Micronesia-.jpg?fit=780%2C585&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>GARAPAN, NORTHERN MARIANA ISLANDS \Story by Chief Warrant Officer Sara Muir&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; U.S. Coast Guard Forces Micronesia / Sector Guam&#160; GARAPAN, Saipan, Commonwealth of the Northern Mariana Islands — U.S. Coast Guard Forces Micronesia/Sector Guam and Station Apra Harbor personnel teamed up with local rescue units and enforcement officers from the CNMI for an intensive three-day [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/u-s-coast-guard-forces-micronesia-sector-guam-cnmi-agencies-successfully-conduct-2024-search-and-rescue-exercise/">U.S. Coast Guard Forces Micronesia Sector Guam, CNMI agencies successfully conduct 2024 search and rescue exercise</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>

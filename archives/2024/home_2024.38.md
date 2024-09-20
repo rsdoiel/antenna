@@ -1,11 +1,121 @@
 ---
 title: home
-updated: 2024-09-19 06:28:27
+updated: 2024-09-19 17:12:39
 ---
 
 # home
 
-(date: 2024-09-19 06:28:27)
+(date: 2024-09-19 17:12:39)
+
+---
+
+## We Tried the Ninja Woodfire 8-in-1 Outdoor Oven—Here’s What We Thought
+
+date: 2024-09-19, from: Family Handyman Blog
+
+<p>The Ninja Woodfire outdoor oven is an 8-in-1 appliance that lets you bake, roast, smoke and more, so you have the ultimate family meals.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/ninja-woodfire-outdoor-oven/">We Tried the Ninja Woodfire 8-in-1 Outdoor Oven—Here&#8217;s What We Thought</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/ninja-woodfire-outdoor-oven/>
+
+---
+
+## Best Portable and Compact Washer and Dryer Combo for Apartments
+
+date: 2024-09-19, from: Family Handyman Blog
+
+<p>Having an apartment washer and dryer is a game changer. No more schlepping to and paying for each load at the communal machines.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/washer-and-dryer-for-apartment/">Best Portable and Compact Washer and Dryer Combo for Apartments</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/list/washer-and-dryer-for-apartment/>
+
+---
+
+## We Tested the Outland Living Fire Pit, and It’s the Camping Luxury of Our Dreams
+
+date: 2024-09-19, from: Family Handyman Blog
+
+<p>We tested the Outland Living Fire Pit, and it's the camping luxury of our dreams.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/outland-living-fire-pit-review/">We Tested the Outland Living Fire Pit, and It&#8217;s the Camping Luxury of Our Dreams</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/outland-living-fire-pit-review/>
+
+---
+
+## A Glass Staircase and Striking Rear Facade Define This Family Home in Minnesota
+
+date: 2024-09-19, from: Dwell
+
+A hillside home appears modest on approach—but opens out to a dramatic two-story design that embraces views of the surrounding wetlands. 
+
+<https://www.dwell.com/article/hillside-resort-style-home-kolbe-windows-and-doors-beb1c7b8>
+
+---
+
+## After a Complete Revamp, a Charles Du Bois Midcentury Seeks $2.5M in L.A.
+
+date: 2024-09-19, from: Dwell
+
+Designed in 1961, the single-story home has walls of stone, exposed beams, and a cozy living area with a double-sided fireplace. 
+
+<https://www.dwell.com/article/midcentury-home-renovation-charles-du-bois-los-angeles-real-estate-60012374>
+
+---
+
+## Do No-Drill Curtain Rod Brackets Actually Work?
+
+date: 2024-09-19, from: Family Handyman Blog
+
+<p>No-drill curtain rod hangers are easy to install, even easier to remove, and they don't leave a trace. But do they work? Two design experts weigh in.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/no-drill-curtain-rod-brackets/">Do No-Drill Curtain Rod Brackets Actually Work?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/no-drill-curtain-rod-brackets/>
+
+---
+
+## Forget "Fridgescaping"—It’s Okay for Your Refrigerator to Be a Place of Chaos
+
+date: 2024-09-19, from: Dwell
+
+I tried the viral TikTok trend to find out if it’s really worth putting beauty first in the ice box. 
+
+<https://www.dwell.com/article/fridgescaping-tiktok-trend-declutter-organize-refrigerator-5c539678>
+
+---
+
+## All Leaves and No Flowers: Why Amaryllis May Fail to Bloom
+
+date: 2024-09-19, from: The Gardener's Path
+
+<p>Amaryllis (Hippeastrum) are forced to bloom during the winter months, bringing color to the holiday season. But what happens if your bulbs are producing lots of foliage but no flowers? Learn about seven common reasons amaryllis bulbs may fail to flower and what to do about it in this comprehensive guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/amaryllis-not-blooming/">All Leaves and No Flowers: Why Amaryllis May Fail to Bloom</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/flowers/amaryllis-not-blooming/>
+
+---
+
+## CDFA celebrates Guide Dog Awareness Month
+
+date: 2024-09-19, from: Calfifornia Dept. Aggriculture blog
+
+In recognition of  September as Guide Dog Awareness Month, CDFA’s Disability Advisory Committee has been welcoming furry, trained canine guests to agency headquarters. A recent event was a collaboration with the California Association of Guide Dog Users, a division of the National &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28230">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28230>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-09-19, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -154,7 +264,7 @@ date: 2024-09-18, from: Family Handyman Blog
 
 ---
 
-## Budget Breakdown: Here’s What it Cost to Build Two ADUs on the Same Bay Area Block
+## Budget Breakdown: Here’s What It Cost to Build Two ADUs on the Same Bay Area Block
 
 date: 2024-09-18, from: Dwell
 
@@ -303,16 +413,6 @@ date: 2024-09-18, from: Sunset Magazine - Living in the West
 The plant experts behind 1 Hotel's dizzying array of greenery share inspo on how to mimic their biophillic San Francisco space. 
 
 <https://www.sunset.com/home-garden/flowers-plants/houseplant-care-tips-1hotel-san-francisco>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-09-18, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -988,6 +1088,17 @@ date: 2024-09-16, from: Family Handyman Blog
  
 
 <https://www.familyhandyman.com/list/granite-like-countertops/>
+
+---
+
+## Growing Food, Community, and Native Plants in Residential Spaces: Part 1
+
+date: 2024-09-16, from: Urban Ag blog
+
+<a href="http://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=60623&utm_source=RSS&utm_medium=RSS&utm_campaign=RSS%2BFeed"><img src="https://ucanr.edu/blogs/UrbanAg/blogfiles/108791small.png" align="left" border="0"></a>A community can bolster its &amp;lsquo;resiliency&apos; by addressing vulnerabilities (e.g., minimizing susceptibility to harm or risk) and building adaptive capacity (e.g., expanding capability in managing, anticipating, or responding to shocks). For example, a community can build resiliency by improving access to fresh, nutrient dense, and culturally relevant food in underserved communities and by expanding urban tree canopy and shade in anticipation of warmer temperatures.
+Limited access to land...<br clear="all"> 
+
+<http://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=60623&utm_source=RSS&utm_medium=RSS&utm_campaign=RSS%2BFeed>
 
 ---
 

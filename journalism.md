@@ -1,11 +1,287 @@
 ---
 title: journalism
-updated: 2024-09-19 06:28:26
+updated: 2024-09-19 17:12:38
 ---
 
 # journalism
 
-(date: 2024-09-19 06:28:26)
+(date: 2024-09-19 17:12:38)
+
+---
+
+## Your CSUN Self-care Resources
+
+date: 2024-09-20, from: The Sundail (CSUN Student Newspaper)
+
+As we begin the new semester here at CSUN, we leave behind the relaxation of summer break into the beast that is more coursework. Amidst the demands of a heavy... 
+
+<https://sundial.csun.edu/185007/news/your-csun-self-care-resources/>
+
+---
+
+## Regents approve allocation of tear gas, drones, less-than-lethal weapons to UCPD
+
+date: 2024-09-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Sept. 19 at 3:24 p.m.</em>
+The UC Board of Regents’ Compliance and Audit Committee approved the allocation of drones, tear gas and less-than-lethal weapons to UCPD on Thursday. 
+
+<https://dailybruin.com/2024/09/19/regents-approve-allocation-of-tear-gas-drones-less-than-lethal-weapons-to-ucpd/>
+
+---
+
+## Enhancing Inclusivity with Innovative Tech Solutions in Academia
+
+date: 2024-09-19, from: The Sundail (CSUN Student Newspaper)
+
+Source &#8211; Unsplash Young people don’t leave everything they know behind to travel hundreds of miles, if not more, just to feel left out. Inclusivity is part of the deal.... 
+
+<https://sundial.csun.edu/185034/sundialbrandstudio/sundial-marketplace/enhancing-inclusivity-with-innovative-tech-solutions-in-academia/>
+
+---
+
+## 5 Emerging Trends That Are Transforming Online Graduate Education in 2024
+
+date: 2024-09-19, from: The Sundail (CSUN Student Newspaper)
+
+Image: pexels The world of online graduate education is evolving fast. You might find yourself surprised by the new trends shaping your learning experience in 2024. From AI-driven lessons to... 
+
+<https://sundial.csun.edu/185028/sundialbrandstudio/sundial-marketplace/5-emerging-trends-transforming-online-graduate-education-2024/>
+
+---
+
+## 4 Ways Volunteering in School Can Boost Your Employment Chances
+
+date: 2024-09-19, from: The Sundail (CSUN Student Newspaper)
+
+Nowadays, it’s standard practice for employers to choose applicants with a certain level of experience over those with just grades to show. This is because experience is all the proof... 
+
+<https://sundial.csun.edu/185023/sundialbrandstudio/sundial-marketplace/4-ways-volunteering-in-school-can-boost-your-employment-chances/>
+
+---
+
+## UCLA men’s soccer recognizes room for growth following loss against Wisconsin
+
+date: 2024-09-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Monday was a night to forget for the Bruins.
+In its second Big Ten conference game, UCLA men&#8217;s soccer (3-2-2, 1-1 Big Ten) suffered a 4-1 loss to No. 
+
+<https://dailybruin.com/2024/09/19/ucla-mens-soccer-recognizes-room-for-growth-following-loss-against-wisconsin/>
+
+---
+
+## Color, cosmology, & technology – Upcoming exhibits combining art & science at LACMA.
+
+date: 2024-09-19, from: The Sundail (CSUN Student Newspaper)
+
+The Los Angeles County Museum of Art (LACMA) invited The Sundial for a preview of its latest installations and upcoming exhibitions, set to open in the upcoming weeks. PST ART... 
+
+<https://sundial.csun.edu/184995/arts-entertainment/color-cosmology-technology-upcoming-exhibits-combing-art-science-at-lacma/>
+
+---
+
+## Template
+
+date: 2024-09-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Standard blurb (in italics) about Daily Bruin covering breaking news events relevant to campus as they happen and how this page is updated as things progress
+
+LIVE FEED:
+XX:XX x.m. 
+
+<https://dailybruin.com/2024/09/19/template/>
+
+---
+
+## Faculty associations announce unfair labor practice charge against UC
+
+date: 2024-09-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Sept. 19 at 2:57 p.m.</em>
+UC employees rallied Thursday to announce the filing of an unfair labor practice charge against the UC for its treatment of faculty during pro-Palestine protests. 
+
+<https://dailybruin.com/2024/09/19/faculty-associations-announce-unfair-labor-practice-charge-against-uc/>
+
+---
+
+## Football takes first loss of the season
+
+date: 2024-09-19, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Pierce College Brahmas kicked off their game against the Chaffey College Panthers—the second game of the season—and were the first to score in the</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/19/football-takes-first-loss-of-the-season/">Football takes first loss of the season</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/19/football-takes-first-loss-of-the-season/?utm_source=rss&utm_medium=rss&utm_campaign=football-takes-first-loss-of-the-season>
+
+---
+
+## Brahmas defend their home field
+
+date: 2024-09-19, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Brahmas’ strong start to the season continues on. Pierce College women’s soccer defeated East Los Angeles College on Sept. 13 with a 5-1 victory</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/19/brahmas-defend-their-home-field/">Brahmas defend their home field</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/19/brahmas-defend-their-home-field/?utm_source=rss&utm_medium=rss&utm_campaign=brahmas-defend-their-home-field>
+
+---
+
+## It’s time to join the club
+
+date: 2024-09-19, from: The Round Up (Pierce College Student Newspaper)
+
+<p>With the start of each semester comes an array of new and long-standing student organizations, ready to recruit members at Club Rush. The Associated Student</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/19/its-time-to-join-the-club/">It&#8217;s time to join the club</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/19/its-time-to-join-the-club/?utm_source=rss&utm_medium=rss&utm_campaign=its-time-to-join-the-club>
+
+---
+
+## Weather station tracks recent heat wave
+
+date: 2024-09-19, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce College’s weather station used its variety of high-tech instruments to track the weather as record-breaking heat swept through the San Fernando Valley this month,</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/19/weather-station-tracks-recent-heat-wave/">Weather station tracks recent heat wave</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/19/weather-station-tracks-recent-heat-wave/?utm_source=rss&utm_medium=rss&utm_campaign=weather-station-tracks-recent-heat-wave>
+
+---
+
+## Discovering the wonder of astronomy
+
+date: 2024-09-19, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce College students and local astronomy enthusiasts gazed at the vast night sky on Sept. 12, as part of the first Telescope Night of the</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/19/discovering-the-wonder-of-astronomy/">Discovering the wonder of astronomy</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/19/discovering-the-wonder-of-astronomy/?utm_source=rss&utm_medium=rss&utm_campaign=discovering-the-wonder-of-astronomy>
+
+---
+
+## Classifieds – September 19, 2024
+
+date: 2024-09-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/19/classifieds-september-19-2024/">Classifieds &#8211; September 19, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/19/classifieds-september-19-2024/>
+
+---
+
+## Women’s tennis heads to ITA Championships
+
+date: 2024-09-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The quest for several Trojans to win an NCAA individual title begins this Saturday.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/19/womens-tennis-heads-to-ita-championships/">Women’s tennis heads to ITA Championships</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/19/womens-tennis-heads-to-ita-championships/>
+
+---
+
+## USC orgs, nonprofits register new voters
+
+date: 2024-09-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The turnout rate for those aged 18 to 29 rose to 50% in 2020, up from 39% in 2016.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/19/usc-orgs-nonprofits-register-new-voters/">USC orgs, nonprofits register new voters</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/19/usc-orgs-nonprofits-register-new-voters/>
+
+---
+
+## No. 3 Men’s water polo dives into MPSF Invitational
+
+date: 2024-09-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans will travel to Berkeley for the eight-team tournament with top teams.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/19/no-3-mens-water-polo-dives-into-mpsf-invitational/">No. 3 Men’s water polo dives into MPSF Invitational</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/19/no-3-mens-water-polo-dives-into-mpsf-invitational/>
+
+---
+
+## K-BBQ fuels any meat lover’s cravings
+
+date: 2024-09-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>BBQ All You Can Eat serves one of the cheapest endless meat options in Los Angeles. </p>
+<p>The post <a href="https://dailytrojan.com/2024/09/19/k-bbq-fuels-any-meat-lovers-cravings/">K-BBQ fuels any meat lover’s cravings</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/19/k-bbq-fuels-any-meat-lovers-cravings/>
+
+---
+
+## Yes, chess is pretty much the same as football
+
+date: 2024-09-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The USC chess community discusses how players use chess in a football game.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/19/yes-chess-is-pretty-much-the-same-as-football/">Yes, chess is pretty much the same as football</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/19/yes-chess-is-pretty-much-the-same-as-football/>
+
+---
+
+## Football reels in five-star receiver to its big 2025 class
+
+date: 2024-09-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Jerome Myles is the fifth-ranked reciever in the entire country, a huge get for Riley.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/19/football-reels-in-five-star-receiver-to-its-big-2025-class/">Football reels in five-star receiver to its big 2025 class</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/19/football-reels-in-five-star-receiver-to-its-big-2025-class/>
+
+---
+
+## A pickleball pandemonium hits USC
+
+date: 2024-09-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The sport continues thriving despite the lack of campus space to harbor its growth.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/19/a-pickleball-pandemonium-hits-usc/">A pickleball pandemonium hits USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/19/a-pickleball-pandemonium-hits-usc/>
+
+---
+
+## IYA, Marshall announce joint degree program
+
+date: 2024-09-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The business and innovation degree will first be offered to USC students in Fall 2025.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/19/iya-marshall-announce-joint-degree-program/">IYA, Marshall announce joint degree program</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/19/iya-marshall-announce-joint-degree-program/>
+
+---
+
+## Onion Skins animates collaboration, creativity
+
+date: 2024-09-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Take a look into the artistry and community of USC’s eccentric animation club.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/19/onion-skins-animates-collaboration-creativity/">Onion Skins animates collaboration, creativity</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/19/onion-skins-animates-collaboration-creativity/>
 
 ---
 

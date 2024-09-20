@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2024-09-19 06:28:29
+updated: 2024-09-19 17:12:40
 ---
 
 # motorcycles
 
-(date: 2024-09-19 06:28:29)
+(date: 2024-09-19 17:12:40)
 
 ---
 
@@ -69,7 +69,7 @@ The canyons aren't a racetrack.
 
 ---
 
-## Yamaha R1 and R1M Get Biggest Updates in a Decade, Finally Giving Us What We Want
+## Yamaha Finally Updates the Aging R1 and R1M, Gives Riders What We Want
 
 date: 2024-09-19, from: Ride Apart, Electric Motorcycle News
 

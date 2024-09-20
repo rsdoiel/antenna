@@ -1,11 +1,63 @@
 ---
 title: writing
-updated: 2024-09-19 06:28:25
+updated: 2024-09-19 17:12:37
 ---
 
 # writing
 
-(date: 2024-09-19 06:28:25)
+(date: 2024-09-19 17:12:37)
+
+---
+
+## Nota Bene Prize Shortlist Announced
+
+date: 2024-09-19, from: Locus Magazine
+
+<p>The Nota Bene Prize has announced its shortlist for 2024, including the following works of genre interest.</p>
+<ul>
+<li><strong>Disturbance</strong>, Jenna Clake (Norton)</li>
+<li><strong>Chrysalis</strong>, Anna Metcalfe (Random House)</li>
+<li><strong>The Centre</strong>, Ayesha Manazir Siddiqi (Zando)</li>
+</ul>
+<p>The Nota Bene Prize honors &#8220;thought-provoking, accessible and relatable reads that engage diverse topics.&#8221; The Prize is run by marketing agency Agile Ideas. The winner receives £1,500.</p>
+
+<p><strong>While you are here,</strong> please take a moment  <a href="https://locusmag.com/2024/09/nota-bene-prize-shortlist-announced/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/nota-bene-prize-shortlist-announced/>
+
+---
+
+## F&SF Goes Quarterly
+
+date: 2024-09-19, from: Locus Magazine
+
+<p style="text-align: left;">In the newly released Summer 2024 issue of The Magazine of Fantasy &#38; Science Fiction, publisher Gordon van Gelder explains that &#8220;Ongoing production problems have led us to skip the Spring issue and to switch to a quarterly schedule.&#8221;</p>
+<p>He apologized to &#8220;disappointed readers&#8221; and assured subscribers that they would not be shorted any issues. &#8220;Thank you for bearing with us during this rough stretch.&#8221;</p>
+<p>The magazine, edited by Sheree  <a href="https://locusmag.com/2024/09/fsf-goes-quarterly/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/fsf-goes-quarterly/>
+
+---
+
+## New Books Releases This Week! Video is up for 9/17/24
+
+date: 2024-09-19, from: Locus Magazine
+
+<p>We&#8217;ve got this week&#8217;s top SF, fantasy, and horror new releases over on our YouTube channel! Give us a few minutes and find out the next addition to your TBR pile! Don&#8217;t forget to like and subscribe to support what we do!</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2024/09/new-books-releases-this-week-video-is-up-for-9-17-24/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/09/new-books-releases-this-week-video-is-up-for-9-17-24/>
+
+---
+
+## A Sorceress Comes to Call by T. Kingfisher: Review by Liz Bourke
+
+date: 2024-09-19, from: Locus Magazine
+
+<p><strong>A Sorceress Comes to Call</strong>, T. Kingfisher (Tor 978-1-250-24407-9, $27.99, 336pp, hc ) August 2024. Cover by Christina Mrozik.</p>
+<p><strong>A Sorceress Comes to Call </strong>is the latest novel from the pen of award-winning fantasy and horror writer T. Kingfisher, also known as Ursula Vernon. The humour and compassion of Kingfisher’s early work has borne comparison to Terry Pratchett, and in recent years she’s gone from strength to strength, with  <a href="https://locusmag.com/2024/09/liz-bourke-reviews-a-sorceress-comes-to-call-by-t-kingfisher/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/liz-bourke-reviews-a-sorceress-comes-to-call-by-t-kingfisher/>
 
 ---
 
