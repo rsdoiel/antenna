@@ -1,11 +1,111 @@
 ---
 title: games
-updated: 2024-09-19 17:12:37
+updated: 2024-09-20 08:12:04
 ---
 
 # games
 
-(date: 2024-09-19 17:12:37)
+(date: 2024-09-20 08:12:04)
+
+---
+
+## Transformers One has a spark the live-action films are missing
+
+date: 2024-09-20, updated: 2024-09-19, from: Polygon Website
+
+After seven live-action Transformers films of — I’ll say generously — varying quality, to call Transformers One the best film in the franchise may be damning with faint praise. But even I went into the animated Transformers One with low expectations. After all, I was in the midst of watching all five Michael Bay-directed Transformers movies [&#8230;] 
+
+<https://www.polygon.com/review/453823/transformers-one-movie-chris-hemsworth>
+
+---
+
+## First trailer for Netflix’s Devil May Cry captures the glee of Dante’s demon hunting
+
+date: 2024-09-20, updated: 2024-09-20, from: Polygon Website
+
+After brief teases and a behind-the-scenes peek at Netflix’s animated adaptation of the Devil May Cry video games, we finally have our first extended look at demon hunter Dante in action. Devil May Cry, created by showrunner Adi Shankar (Castlevania, Captain Laserhawk) and animated by Studio Mir, looks like a hell of a lot of fun [&#8230;] 
+
+<https://www.polygon.com/trailer/454063/devil-may-cry-netflix-anime-release-date-trailer>
+
+---
+
+## 8BitDo’s wireless controller with Hall effect sticks is just $40
+
+date: 2024-09-20, updated: 2024-09-20, from: Polygon Website
+
+Amazon’s latest batch of Lightning Deals includes an excellent controller — three colors of it, in fact. The 8BitDo Ultimate 2.4G wireless controller is $39.99 in its purple, white, or black color schemes until the deal expires in a handful of hours. Either one is a stellar choice for Steam Deck, Windows PC, as well [&#8230;] 
+
+<https://www.polygon.com/good-deals/454072/8bitdo-wireless-hall-effect-sticks-controller-sale-deal-amazon>
+
+---
+
+## Crime Scene Cleaner is, ironically, my zen game of choice
+
+date: 2024-09-20, updated: 2024-09-20, from: Polygon Website
+
+Games like PowerWash Simulator and House Flipper are invitations to relax; they’re all about creating order from chaos. It’s enjoyable to see a trashed house or a messy garage and restore it to its former glory. But what if there were higher stakes? What if instead of getting rid of an old, rusted-out vehicle, I [&#8230;] 
+
+<https://www.polygon.com/impressions/448666/crime-scene-cleaner-is-ironically-my-zen-game-of-choice>
+
+---
+
+## The best Modern Warfare 3 guns to use in Season 6
+
+date: 2024-09-20, updated: 2024-09-20, from: Polygon Website
+
+It&#8217;s here folks: Modern Warfare 3’s Season 6 is the final season before the launch of Black Ops 6 in Oct. 2024, which means it&#8217;s time for new weapons to level up and unlock attachments for. But do they find a place in our list of the best guns in Modern Warfare 3? The DTIR [&#8230;] 
+
+<https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3>
+
+---
+
+## Tom Bombadil is powerful enough to expose the problems with The Rings of Power
+
+date: 2024-09-20, updated: 2024-09-19, from: Polygon Website
+
+Tom Bombadil isn’t wholly knowable. That’s how he was introduced to me, someone who read the Lord of the Rings books a long time ago as a kid, and has since mostly fielded Bombadilisms via friends better versed in the world of Tolkien. But what I knew about him I loved: an appreciator of wit [&#8230;] 
+
+<https://www.polygon.com/lotr-rings-of-power/452426/trop-tom-bombadil-wrong-lore-idk-man>
+
+---
+
+## New Cyberpunk anime coming from Netflix and CD Projekt Red
+
+date: 2024-09-20, updated: 2024-09-20, from: Polygon Website
+
+Netflix and CD Projekt Red are returning to Night City for a new Cyberpunk animated series, the two companies announced Thursday at Netflix’s Geeked Week event. Details on the untitled project are scant, but what Netflix and CDPR haven’t said about the new anime is perhaps telling. The new animation project does not mention Cyberpunk: [&#8230;] 
+
+<https://www.polygon.com/anime/454036/netflix-new-cyberpunk-anime-announcement-cd-projekt-red>
+
+---
+
+## The top 5 horror films to pair with Magic: The Gathering’s new set, Duskmourn
+
+date: 2024-09-20, updated: 2024-09-19, from: Polygon Website
+
+The upcoming release of Magic: The Gathering’s new set, Duskmourn, introduces players to a brand-new plane of the multiverse contained entirely within a sprawling haunted house. Filled with untold horrors, personified phobias, and ragtag human survivors, the set captures the spirit of Halloween and gamifies the spooky season. Looking through the new cards from the [&#8230;] 
+
+<https://www.polygon.com/mtg-magic-the-gathering/453618/duskmourn-horror-movie-inspiration>
+
+---
+
+## The next Like a Dragon game is a wild pirate-themed spinoff, and it’s out soon
+
+date: 2024-09-20, updated: 2024-09-20, from: Polygon Website
+
+Sega and the wildly prolific Ryu Ga Gotoku Studio have announced the next game in the Like a Dragon (formerly Yakuza) series — and given it a release date of Feb. 28, 2025, barely more than a year after the release of the epic Like a Dragon: Infinite Wealth. The game is titled Like a [&#8230;] 
+
+<https://www.polygon.com/news/454009/like-a-dragon-pirate-yakuza-in-hawaii-trailer-release-date>
+
+---
+
+## Best Kastov LSW loadout, class build in Modern Warfare 3
+
+date: 2024-09-20, updated: 2024-09-20, from: Polygon Website
+
+The Kastov LSW, introduced in Modern Warfare 3 Season 6 (alongside the DTIR 30-06), has a &#8220;best-in-class fire rate and Tac Stance accuracy&#8221; amongst the other LMGs (light machine guns) in the game. However, to make the most of this LMG that can &#8220;tear through enemies at short to medium range&#8221;, you need to use [&#8230;] 
+
+<https://www.polygon.com/modern-warfare-3-guides/453996/best-kastov-lsw-loadout-class-build-mw3>
 
 ---
 

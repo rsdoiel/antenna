@@ -1,11 +1,144 @@
 ---
 title: home
-updated: 2024-09-19 17:12:39
+updated: 2024-09-20 08:12:06
 ---
 
 # home
 
-(date: 2024-09-19 17:12:39)
+(date: 2024-09-20 08:12:06)
+
+---
+
+## The Ultimate Guide to Life Estates
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>Learn about this estate planning option that streamlines transfer of property upon your death.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/life-estates/">The Ultimate Guide to Life Estates</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/life-estates/>
+
+---
+
+## Removing Water Stains With Mayo: How To Do It
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>Rather than throwing out that old furniture, turn to your pantry for a quick solution.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/remove-water-stains-with-mayonnaise/">Removing Water Stains With Mayo: How To Do It</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/remove-water-stains-with-mayonnaise/>
+
+---
+
+## Samsung Recalls Slide-In Electric Ranges Due to Fire Hazard
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>Check to see if your appliances are impacted by the Samsung slide-in electric ranges recall.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/samsung-slide-in-electric-range-recall/">Samsung Recalls Slide-In Electric Ranges Due to Fire Hazard</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/samsung-slide-in-electric-range-recall/>
+
+---
+
+## Popular Kids’ Gardening Set Sold at Costco Recalled Over Lead Poisoning Hazard
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>A critical recall may affect you if you recently bought your child the Stanley Jr. Kids 7-piece Garden Set from Costco.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/red-toolbox-stanley-jr-kids-garden-set-recall/">Popular Kids&#8217; Gardening Set Sold at Costco Recalled Over Lead Poisoning Hazard</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/red-toolbox-stanley-jr-kids-garden-set-recall/>
+
+---
+
+## 55 Oklahoma Snakes (Snakes in Oklahoma, Pictures, Identification)
+
+date: 2024-09-20, from: Yard Life blog
+
+<p>Oklahoma, with its diverse landscapes ranging from lush green grasslands to rugged hills, is home to many unique snake species. ... </p>
+<p class="read-more-container"><a title="55 Oklahoma Snakes (Snakes in Oklahoma, Pictures, Identification)" class="read-more button" href="https://ownyardlife.com/55-oklahoma-snakes-snakes-in-oklahoma-pictures-identification/#more-19448" aria-label="Read more about 55 Oklahoma Snakes (Snakes in Oklahoma, Pictures, Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/55-oklahoma-snakes-snakes-in-oklahoma-pictures-identification/">55 Oklahoma Snakes (Snakes in Oklahoma, Pictures, Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/55-oklahoma-snakes-snakes-in-oklahoma-pictures-identification/>
+
+---
+
+## This Terracotta Heater DIY Hack Could Be Dangerous for Your Home
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>This terracotta heater TikTok hack might look harmless, but it's a dangerous way to heat your home. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/terracotta-heater/">This Terracotta Heater DIY Hack Could Be Dangerous for Your Home</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/terracotta-heater/>
+
+---
+
+## Everything to Know About Olefin Carpets
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>Olefin carpet is the most popular carpet material after nylon. Here's what it is and why so many homeowners are choosing olefin carpet.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/what-to-know-about-olefin-carpets/">Everything to Know About Olefin Carpets</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/what-to-know-about-olefin-carpets/>
+
+---
+
+## Where Do Hummingbirds Live In the Winter?
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>Learn more about where hummingbirds spend their winters and their migration patterns on the Family Handyman.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/where-do-hummingbirds-live-in-the-winter/">Where Do Hummingbirds Live In the Winter?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/where-do-hummingbirds-live-in-the-winter/>
+
+---
+
+## Shou Sugi Ban: The Art of Japanese Wood Burning
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>Follow the steps below and watch the video tutorial to master this technique yourself!</p>
+<p>The post <a href="https://www.familyhandyman.com/project/shou-sugi-ban-how-to/">Shou Sugi Ban: The Art of Japanese Wood Burning</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/project/shou-sugi-ban-how-to/>
+
+---
+
+## 6 Ways to Dispose of Yard Waste
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>Yardwork accumulates piles of grass, leaves and twigs. Get rid of them for a clutter-free yard.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-dispose-of-yard-waste/">6 Ways to Dispose of Yard Waste</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/how-to-dispose-of-yard-waste/>
+
+---
+
+## Everything You Need To Know About Undermount Bathtubs
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>The elegance of an undermount tub elevates the bathing experience. But is it right for you? Read on!</p>
+<p>The post <a href="https://www.familyhandyman.com/article/undermount-bathtubs/">Everything You Need To Know About Undermount Bathtubs</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/undermount-bathtubs/>
 
 ---
 
@@ -45,6 +178,16 @@ date: 2024-09-19, from: Family Handyman Blog
 
 ---
 
+## Sunset.com Home Page
+
+date: 2024-09-19, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
+
+---
+
 ## A Glass Staircase and Striking Rear Facade Define This Family Home in Minnesota
 
 date: 2024-09-19, from: Dwell
@@ -52,6 +195,26 @@ date: 2024-09-19, from: Dwell
 A hillside home appears modest on approach—but opens out to a dramatic two-story design that embraces views of the surrounding wetlands. 
 
 <https://www.dwell.com/article/hillside-resort-style-home-kolbe-windows-and-doors-beb1c7b8>
+
+---
+
+## Fire Season Is Now Year-Round. Here’s How to Protect Your Home with a Safer Garden.
+
+date: 2024-09-19, from: Sunset Magazine - Living in the West
+
+Fire season is now year-round. Here's everything you need to know about firescaping and fire defensive landscapes. 
+
+<https://www.sunset.com/home-garden/landscaping/firescaping-fire-defensive-tips>
+
+---
+
+## This Airport Is the Secret to Seamless Travel (and It Was Just Named the Best in the U.S.)
+
+date: 2024-09-19, from: Sunset Magazine - Living in the West
+
+John Wayne Airport in Orange County, California has been recognized as one of the best large airports according to latest J.D. Power. 
+
+<https://www.sunset.com/travel/john-wayne-airport-best-airport-in-the-us>
 
 ---
 
@@ -106,16 +269,6 @@ date: 2024-09-19, from: Calfifornia Dept. Aggriculture blog
 In recognition of  September as Guide Dog Awareness Month, CDFA’s Disability Advisory Committee has been welcoming furry, trained canine guests to agency headquarters. A recent event was a collaboration with the California Association of Guide Dog Users, a division of the National &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28230">Continue reading <span class="meta-nav">&#8594;</span></a> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28230>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-09-19, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -459,6 +612,16 @@ date: 2024-09-18, from: Family Handyman Blog
  
 
 <https://www.familyhandyman.com/article/natural-wasp-killer/>
+
+---
+
+## These Are the Most Anticipated Books of Fall 2024
+
+date: 2024-09-17, from: Sunset Magazine - Living in the West
+
+Fall is the perfect time to curl up with a good book. Goodreads shared their list of the most anticipaited new books of fall 2024. 
+
+<https://www.sunset.com/lifestyle/culture/fall-new-book-releases-2024>
 
 ---
 

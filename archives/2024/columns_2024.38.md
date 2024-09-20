@@ -1,11 +1,121 @@
 ---
 title: columns
-updated: 2024-09-19 17:12:35
+updated: 2024-09-20 08:12:02
 ---
 
 # columns
 
-(date: 2024-09-19 17:12:35)
+(date: 2024-09-20 08:12:02)
+
+---
+
+##  The Breakthrough That Could Unlock Ocean Carbon Removal. &#8220;How Equatic solved seawater&#8217;s... 
+
+date: 2024-09-20, updated: 2024-09-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045308-the-breakthrough-that-cou>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-20, from: Dave Winer's Scripting News)
+
+I keep discovering uses for ChatGPT. I think you could use it very effectively to learn a language, for example. I know how to say this in English, could you explain to me, in English, how to say it in French. I bet it's very good at that. I am using it to learn to write SQL code that takes advantage of all the arcane features they've added over the years to handle cases that come up in real database work. It's anything but a new language, and efficiency is everything -- so I think they pretty much have all the cases covered. I remember how frustrating it was to learn Algol when all I knew before that was Fortran and Basic. It would have been great to have ChatGPT to coach me on it. 
+
+<http://scripting.com/2024/09/20.html#a144001>
+
+---
+
+## Sipeed NanoKVM: A RISC-V stick-on
+
+date: 2024-09-20, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Sipeed NanoKVM: A RISC-V stick-on</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/sipeed-nanokvm-box-contents.jpeg" alt="Sipeed NanoKVM"></p>
+
+<p>This is the <a href="https://wiki.sipeed.com/hardware/en/kvm/NanoKVM/introduction.html">Sipeed NanoKVM</a>. You stick it on your computer, plug in HDMI, USB, and the power button, and you get full remote control over the network—even if your computer locks up.</p>
+
+<p>How did Sipeed make it so small, and so cheap? The 'full' kit above is about $50, while the cheapest competitors running PiKVM are closer to <a href="https://www.aliexpress.us/item/3256805673100994.html">$200</a> and up!</p>
+
+<p><em>This blog post is a lightly-edited transcript of the following video on my YouTube channel:</em></p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-09-20T09:00:42-05:00" title="Friday, September 20, 2024 - 09:00" class="datetime">September 20, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/sipeed-nanokvm-risc-v-stick-on>
+
+---
+
+## September 19, 2024
+
+date: 2024-09-20, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-19-2024-343>
+
+---
+
+## Friday 20 September, 2024
+
+date: 2024-09-20, from: John Naughton's online diary
+
+Lakeview Lough Gartan seen from the grounds of Glenveagh Castle, Co. Donegal Quote of the Day ”There is something majestic in the bad taste of Italy; it is not the bad taste of a country which knows no better; it &#8230; <a href="https://memex.naughtons.org/friday-20-september-2024/39881/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-20-september-2024/39881/>
+
+---
+
+## While HashiCorp plays license roulette, Virter rolls out to rescue FOSS VM testing
+
+date: 2024-09-20, updated: 2024-09-20, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Open Source Summit Europe 2024</span> BSL shenanigans continue to make waves</h4>
+      <p>Virter is a useful little tool if you often create – and then remove – VMs to try stuff. It's arguably carried on the ripples from HashiCorp dropping the BSL into the FOSS pond.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/09/20/virter_simpler_test_vms/>
+
+---
+
+## September 19, 2024
+
+date: 2024-09-20, from: Heather Cox Richardson blog
+
+Yesterday morning, NPR reported that U.S. 
+
+<https://heathercoxrichardson.substack.com/p/september-19-2024>
+
+---
+
+## A sincere “thank you,” after three years
+
+date: 2024-09-20, from: Robert Reich's blog
+
+Friends, 
+
+<https://robertreich.substack.com/p/a-sincere-thank-you-after-three-years>
+
+---
+
+## Long live hypertext!
+
+date: 2024-09-20, from: Tracy Durnell Blog
+
+Quoted from: Podcast: Google and Meta Are A Threat to Journalism (Matt Pearce and Paris Marx) Elsewhere, Pearce expands: Following hyperlinks in search of accurate information is annoying, inefficient and increasingly filled with scammy clutter. On the fenced-in internet of tomorrow, AI-powered portals controlled by a small handful of powerful international companies will treat us [&#8230;] 
+
+<https://tracydurnell.com/2024/09/19/long-live-hypertext/>
+
+---
+
+## Yes, you can have exactly-once delivery
+
+date: 2024-09-20, updated: 2024-09-20, from: Ron Garret
+
+IntroductionThis post is ostensibly about an obscure technical issue in distributed systems, but it's really about human communications, and how disagreements that on the surface appear to be about technical issues can sometimes turn out to actually be disagreements about the meanings of words.&nbsp; I'm taking the time to write a fairly extensive post about this for two reasons.&nbsp; First, I'm 
+
+<https://blog.rongarret.info/2024/09/yes-you-can-have-exactly-once-delivery.html>
 
 ---
 

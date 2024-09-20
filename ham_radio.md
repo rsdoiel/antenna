@@ -1,11 +1,21 @@
 ---
 title: ham radio
-updated: 2024-09-19 17:12:34
+updated: 2024-09-20 08:12:00
 ---
 
 # ham radio
 
-(date: 2024-09-19 17:12:34)
+(date: 2024-09-20 08:12:00)
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-09-20, from: Amateur Radio Relay League News
+
+<p>Solar activity was quiet over the past week, but geomagnetic numbers<br />were way, way up.<br /><br />Average daily sunspot numbers dropped from 178.4 to 120, and average<br />daily solar flux from 223.7 to 175.7.<br /><br />Average daily planetary A index rocketed from 7.9 to 35.7, and<br />middle latitude numbers from 11.1 to 23.4.<br /><br />Six new sunspot groups emerged over the past week; one each on<br />September 13 and 14, two on September 16,...</p> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-846>
 
 ---
 
@@ -41,12 +51,12 @@ date: 2024-09-19, from: EDN Blog
 
 ---
 
-## MathWorks improves MATLAB and SIMULINK
+## MathWorks improves MATLAB and Simulink
 
 date: 2024-09-19, from: EDN Blog
 
-<img width="800" height="257" src="https://www.edn.com/wp-content/uploads/MathWorks-R2024b.jpg?fit=800%2C257" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/MathWorks-R2024b.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/MathWorks-R2024b.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/MathWorks-R2024b.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>MathWorks’ MATLAB and SIMULINK Release 2024b simplifies development for wireless communication and digital signal processing.</p>
-<p>The post <a href="https://www.edn.com/mathworks-improves-matlab-and-simulink/" data-wpel-link="internal">MathWorks improves MATLAB and SIMULINK</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+<img width="800" height="257" src="https://www.edn.com/wp-content/uploads/MathWorks-R2024b.jpg?fit=800%2C257" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/MathWorks-R2024b.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/MathWorks-R2024b.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/MathWorks-R2024b.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>MathWorks’ MATLAB and Simulink Release 2024b simplifies development for wireless communication and digital signal processing.</p>
+<p>The post <a href="https://www.edn.com/mathworks-improves-matlab-and-simulink/" data-wpel-link="internal">MathWorks improves MATLAB and Simulink</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
 <https://www.edn.com/mathworks-improves-matlab-and-simulink/>

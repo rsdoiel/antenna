@@ -1,11 +1,189 @@
 ---
 title: journalism
-updated: 2024-09-19 17:12:38
+updated: 2024-09-20 08:12:05
 ---
 
 # journalism
 
-(date: 2024-09-19 17:12:38)
+(date: 2024-09-20 08:12:05)
+
+---
+
+## UCLA to become first California university to offer ChatGPT Enterprise accounts
+
+date: 2024-09-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA will become the first university in California to implement OpenAI’s ChatGPT Enterprise.
+With a limited number of accounts, UCLA will offer students, faculty and staff access to ChatGPT Enterprise – an artificial intelligence tool designed to streamline the teaching and research processes – according to a press release. 
+
+<https://dailybruin.com/2024/09/20/ucla-to-become-first-california-university-to-offer-chatgpt-enterprise-accounts/>
+
+---
+
+## Classifieds – September 20, 2024
+
+date: 2024-09-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/20/classifieds-september-20-2024/">Classifieds &#8211; September 20, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/20/classifieds-september-20-2024/>
+
+---
+
+## ‘Submerged Luminaries’ is an exploration of the mind
+
+date: 2024-09-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Yukin Zhang's exhibition opened Wednesday at the Helen Lindhurst Fine Arts Gallery.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/20/submerged-luminaries-is-an-exploration-of-the-mind/">&#8216;Submerged Luminaries’ is an exploration of the mind</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/20/submerged-luminaries-is-an-exploration-of-the-mind/>
+
+---
+
+## Ganadores, perdedores y estrellas en la histórica Copa América 2024
+
+date: 2024-09-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>El torneo se dio en Estados Unidos este pasado verano, para el deleite de muchos.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/20/ganadores-perdedores-y-estrellas-en-la-historica-copa-america-2024/">Ganadores, perdedores y estrellas en la histórica Copa América 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/20/ganadores-perdedores-y-estrellas-en-la-historica-copa-america-2024/>
+
+---
+
+## Weekly Frame II: Autumn
+
+date: 2024-09-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>With the season changing just around the corner, this week’s “Weekly Frame” decided to prepare for — in the words of Earth, Wind &#038; Fire — “the 21st night of September” as Autumn is upon us.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/20/weekly-frame-ii-autumn/">Weekly Frame II: Autumn</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/20/weekly-frame-ii-autumn/>
+
+---
+
+## ‘Clavos en el tiempo’ gana su público
+
+date: 2024-09-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>La Culpa mantiene su racha de álbumes impresionantes en su tercera producción.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/20/clavos-en-el-tiempo-gana-su-publico/">‘Clavos en el tiempo’ gana su público</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/20/clavos-en-el-tiempo-gana-su-publico/>
+
+---
+
+## Charly García desafía la lógica con ‘La Lógica’
+
+date: 2024-09-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>La leyenda de rock argentina brinda otro vistazo a su genio incandescente.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/20/charly-garcia-desafia-la-logica-con-la-logica/">Charly García desafía la lógica con ‘La Lógica’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/20/charly-garcia-desafia-la-logica-con-la-logica/>
+
+---
+
+## Uncovering truth behind talent
+
+date: 2024-09-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The battle for your mental health is not linear. </p>
+<p>The post <a href="https://dailytrojan.com/2024/09/20/uncovering-truth-behind-talent/">Uncovering truth behind talent</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/20/uncovering-truth-behind-talent/>
+
+---
+
+## La CASA y su nuevo espacio: un año después
+
+date: 2024-09-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Líderes estudiantiles muestran entusiasmo sobre la transición de locales.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/20/la-casa-y-su-nuevo-espacio-un-ano-despues/">La CASA y su nuevo espacio: un año después</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/20/la-casa-y-su-nuevo-espacio-un-ano-despues/>
+
+---
+
+## El impacto del voto en las vidas de los indocumentados
+
+date: 2024-09-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>La participación electoral en noviembre tiene un gran efecto para los inmigrantes.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/20/el-impacto-del-voto-en-las-vidas-de-los-indocumentados/">El impacto del voto en las vidas de los indocumentados</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/20/el-impacto-del-voto-en-las-vidas-de-los-indocumentados/>
+
+---
+
+## Football begins Big Ten play at Michigan
+
+date: 2024-09-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Facing a new quarterback, the Trojan defense aims to win big at the Big House.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/20/football-begins-big-ten-play-at-michigan/">Football begins Big Ten play at Michigan</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/20/football-begins-big-ten-play-at-michigan/>
+
+---
+
+## Students, faculty react to Brightspace
+
+date: 2024-09-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The USC community did not prefer Brightspace to Blackboard in online survey.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/20/student-faculty-reaction-to-brightspace-mixed/">Students, faculty react to Brightspace</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/20/student-faculty-reaction-to-brightspace-mixed/>
+
+---
+
+## ¿Qué significa ser suficientemente latina?
+
+date: 2024-09-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Ser latino en redes sociales representa retos que no existen en la vida real.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/20/que-significa-ser-suficientemente-latina/">¿Qué significa ser suficientemente latina?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/20/que-significa-ser-suficientemente-latina/>
+
+---
+
+## Transplant central: Nobody in LA is from LA
+
+date: 2024-09-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Has L.A. become the shiny playground for transplants, or is all its magic evergreen?</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/20/transplant-central-nobody-in-la-is-from-la/">Transplant central: Nobody in LA is from LA</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/20/transplant-central-nobody-in-la-is-from-la/>
+
+---
+
+## UCLA football plans to sharpen execution, establish itself ahead of LSU game
+
+date: 2024-09-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Coach DeShaun Foster said the Bruins&#8217; pitfall wasn&#8217;t coaching, play calling or effort in Saturday&#8217;s loss to Indiana &#8211; it was execution.
+But if the team finds a way to execute anytime soon, it&#8217;ll have to come against some of the best teams in the country. 
+
+<https://dailybruin.com/2024/09/19/ucla-football-plans-to-sharpen-execution-establish-itself-ahead-of-lsu-game/>
 
 ---
 

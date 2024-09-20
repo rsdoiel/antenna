@@ -1,11 +1,117 @@
 ---
 title: going electric
-updated: 2024-09-19 17:12:41
+updated: 2024-09-20 08:12:09
 ---
 
 # going electric
 
-(date: 2024-09-19 17:12:41)
+(date: 2024-09-20 08:12:09)
+
+---
+
+## NIO’s (NIO) new low-cost electric SUV paves the way for a ‘brand revival’ analyst claims
+
+date: 2024-09-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/NIOs-new-low-cost-SUV-back.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>NIO’s (NIO) new Onvo L60, starting at just $21,200, paves the way for a “brand revival,” according to Deutsche Bank analyst Wang Bin’s team. The new low-cost electric SUV is crucial as <a href="https://electrek.co/guides/nio/">NIO</a> takes aim at market leaders like Tesla and BYD.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nio,nio-onvo" data-layer-viewtype="unknown" data-post-id="380546" href="https://electrek.co/2024/09/20/nios-new-low-cost-electric-suv-paves-way-brand-revival/#more-380546" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/20/nios-new-low-cost-electric-suv-paves-way-brand-revival/>
+
+---
+
+## The Feds Are Targeting Giant Vehicles. What Does It Mean For EVs?
+
+date: 2024-09-20, from: Inside EVs News
+
+U.S. regulators may finally address the size and weight problem of new cars. Plus, Europe's EV woes put investors in a foul mood. 
+
+<https://insideevs.com/news/734577/ev-federal-safety-weight/>
+
+---
+
+## ZEEKR launches 7X SUV in China for $32,500 after nabbing close to 60,000 pre-orders
+
+date: 2024-09-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/ZEEKR-7X-EV-water.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Less than a month after its public unveiling, ZEEKR has officially launched its new family-friendly 7X SUV in China before it makes its way to global markets. Today, we also learned <a href="https://electrek.co/guides/zeekr-7x/">the 7X’</a>s starting pricing, which comes in at RMB 229,900, or about $32,500.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="zeekr,zeekr-7x" data-layer-viewtype="unknown" data-post-id="380547" href="https://electrek.co/2024/09/20/zeekr-launches-7x-suv-china-for-32500-60000-pre-orders/#more-380547" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/20/zeekr-launches-7x-suv-china-for-32500-60000-pre-orders/>
+
+---
+
+## Russian warlord claims Tesla Cybertruck used in combat was remotely disabled by Elon Musk
+
+date: 2024-09-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Tesla-Cybertruck-machine-gun.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Chechen leader and self-proclaimed “Putin’s foot solider” Ramzan Kadyrov claimed that his Tesla Cybertruck used in combat in Ukraine was remotely disabled by Elon Musk.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="380545" href="https://electrek.co/2024/09/20/russian-warlord-tesla-cybertruck-used-in-combat-was-remotely-disabled-elon-musk/#more-380545" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/20/russian-warlord-tesla-cybertruck-used-in-combat-was-remotely-disabled-elon-musk/>
+
+---
+
+## Remember Bollinger? It’s Building A Class 4 Electric Truck Now
+
+date: 2024-09-20, from: Inside EVs News
+
+Production of the Bollinger B4 started this week in Michigan. 
+
+<https://insideevs.com/news/734576/bolligner-motors-truck-production/>
+
+---
+
+## Are Insurers Treating Higher-Power Dual-Motor EVs As High-Risk?
+
+date: 2024-09-20, from: Inside EVs News
+
+Dual motor EVs' blend of more power, more weight and higher repair costs than combustion vehicles is only part of the story. 
+
+<https://insideevs.com/news/734567/insurance-premium-higher-dual-motor/>
+
+---
+
+## Wheel-E Podcast: Ride1Up Roadster V3, Talaria fire, and more
+
+date: 2024-09-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time that includes new e-bikes from Ride1Up, new e-scooters from NIU, Ted Cruz’s war against safer e-bike batteries, Talaria MX5 fire, Gogoro’s CEO resigning, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="380534" href="https://electrek.co/2024/09/20/wheel-e-podcast-ride1up-roadster-v3-talaria-fire-and-more/#more-380534" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/20/wheel-e-podcast-ride1up-roadster-v3-talaria-fire-and-more/>
+
+---
+
+## 2025 Rivian R1S And R1T Tri-Motor Now Shipping With 371 Miles Of Range
+
+date: 2024-09-20, from: Inside EVs News
+
+It’s the first time Rivian has offered a tri-motor configuration on its flagship EVs. 
+
+<https://insideevs.com/news/734554/2025-rivian-r1s-r1t-tri-motor-deliveries-underway/>
+
+---
+
+## EV Registrations Dropped Again In The EU In August, But There’s More To The Story
+
+date: 2024-09-20, from: Inside EVs News
+
+Just one powertrain type saw a modest increase in registrations last month. 
+
+<https://insideevs.com/news/734519/ev-sales-eu-down-august-2024/>
 
 ---
 
@@ -301,7 +407,7 @@ date: 2024-09-19, from: Electrek Feed
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="380222" href="https://electrek.co/2024/09/19/heres-how-to-find-all-the-free-money-you-qualify-for-when-you-buy-an-ev/#more-380222" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-incentives" data-layer-viewtype="unknown" data-post-id="380222" href="https://electrek.co/2024/09/19/heres-how-to-find-all-the-free-money-you-qualify-for-when-you-buy-an-ev/#more-380222" class="more-link">more…</a> 
 
 <https://electrek.co/2024/09/19/heres-how-to-find-all-the-free-money-you-qualify-for-when-you-buy-an-ev/>
 

@@ -1,11 +1,47 @@
 ---
 title: libraries
-updated: 2024-09-19 17:12:38
+updated: 2024-09-20 08:12:05
 ---
 
 # libraries
 
-(date: 2024-09-19 17:12:38)
+(date: 2024-09-20 08:12:05)
+
+---
+
+## ARL Libraries Celebrate Banned Books Week 2024
+
+date: 2024-09-20, from: Association of Research Libraries News
+
+<p>Last Updated on September 20, 2024, 10:38 am ET Banned Books Week celebrates the freedom to read and draws attention to the harms of censorship by spotlighting current and historical...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-libraries-celebrate-banned-books-week-2024/">ARL Libraries Celebrate Banned Books Week 2024</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/blog/arl-libraries-celebrate-banned-books-week-2024/>
+
+---
+
+## New Directions Seminar: Don’t Miss this Fall’s Best Industry Event!
+
+date: 2024-09-20, from: Scholarly Kitchen
+
+<p>Whether you choose to attend virtually or in person, do not miss this year's New Directions in Scholarly Publishing seminar!</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/09/20/new-directions-seminar-dont-miss-this-falls-best-industry-event/">New Directions Seminar: Don&#8217;t Miss this Fall&#8217;s Best Industry Event!</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/09/20/new-directions-seminar-dont-miss-this-falls-best-industry-event/>
+
+---
+
+## Peer Review Week 2024: Ask the Chefs
+
+date: 2024-09-20, from: Scholarly Kitchen
+
+<p>Leading into Peer Review Week 2024, we ask the Chefs: What is, or would be, the most valuable innovation in peer review for your community?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/09/20/peer-review-week-2024-ask-the-chefs/">Peer Review Week 2024: Ask the Chefs</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/09/20/peer-review-week-2024-ask-the-chefs/>
 
 ---
 
@@ -113,6 +149,17 @@ date: 2024-09-17, from: Scholarly Kitchen
  
 
 <https://scholarlykitchen.sspnet.org/2024/09/17/mental-health-awareness-mondays-ask-the-mental-health-editors-part-two/>
+
+---
+
+## Integrative teaching and learning
+
+date: 2024-09-17, from: ETH Zurich, recently added
+
+Vienni Baptista, Bianca; Hoffmann, Sabine
+Szostak, Rick 
+
+<http://hdl.handle.net/20.500.11850/695303>
 
 ---
 

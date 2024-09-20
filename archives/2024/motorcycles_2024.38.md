@@ -1,11 +1,81 @@
 ---
 title: motorcycles
-updated: 2024-09-19 17:12:40
+updated: 2024-09-20 08:12:07
 ---
 
 # motorcycles
 
-(date: 2024-09-19 17:12:40)
+(date: 2024-09-20 08:12:07)
+
+---
+
+## Honda’s New Electric Scooter Wants To Charge Up Your Daily Commute
+
+date: 2024-09-20, from: Ride Apart, Electric Motorcycle News
+
+The EM1 e: is Honda’s answer to urban mobility, and it’s ready to charge up the streets of the Philippines.  
+
+<https://www.rideapart.com/news/734351/honda-em1-e-launch-philippines/>
+
+---
+
+## Polaris Just Teamed Up With Pro Armor, Check Out This Limited Edition RZR Pro R
+
+date: 2024-09-20, from: Ride Apart, Electric Motorcycle News
+
+Available in both 2- and 4-seat configurations, only 500 total units will be made. 
+
+<https://www.rideapart.com/news/734495/polaris-rzr-pro-r-le/>
+
+---
+
+## Scorpion’s New Kids Helmet Gets ECE 22.06 Certification, Tons Of Features
+
+date: 2024-09-20, from: Ride Apart, Electric Motorcycle News
+
+It’s rocking features you’d expect to find on fancy grown-up helmets.  
+
+<https://www.rideapart.com/news/734352/scorpion-exo-jnr-air-kids-helmet-ece-2206/>
+
+---
+
+## Ducati Updates Multistrada V4 Family, Gets Some Rider-Centric Upgrades
+
+date: 2024-09-20, from: Ride Apart, Electric Motorcycle News
+
+How do you feel about an automatic lowering device, extended rear cylinder deactivation, and bump detection? 
+
+<https://www.rideapart.com/news/734470/ducati-multistrada-v4-2025-update/>
+
+---
+
+## Watch a Cop Car Race an ATV, and Lose
+
+date: 2024-09-20, from: Ride Apart, Electric Motorcycle News
+
+I fought the law and...I won? 
+
+<https://www.rideapart.com/news/734490/cop-car-drag-race-atv-lose-video/>
+
+---
+
+## What Do You Think, Is Putting A 3D Printer In Your Garage A Good Idea?
+
+date: 2024-09-20, from: Ride Apart, Electric Motorcycle News
+
+Depends on the 3D printer, and also what you like to do in your garage. 
+
+<https://www.rideapart.com/news/734325/3d-printer-useful-garage-tool/>
+
+---
+
+## This Crazy Panigale-Swapped Honda Grom Gets A Bunch Of Blingy Upgrades
+
+date: 2024-09-20, from: Ride Apart, Electric Motorcycle News
+
+It wants to do nothing but turn heads no matter where it goes.  
+
+<https://www.rideapart.com/news/734208/panigale-swapped-honda-grom-upgrades/>
 
 ---
 

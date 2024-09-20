@@ -1,11 +1,133 @@
 ---
 title: central coast
-updated: 2024-09-19 17:12:35
+updated: 2024-09-20 08:12:01
 ---
 
 # central coast
 
-(date: 2024-09-19 17:12:35)
+(date: 2024-09-20 08:12:01)
+
+---
+
+## Sunset from the Condor Express
+
+date: 2024-09-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-POD-Joy-Gilles.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara sunset from the Condor Express." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-POD-Joy-Gilles.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-POD-Joy-Gilles.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-POD-Joy-Gilles.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-POD-Joy-Gilles.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-POD-Joy-Gilles.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-POD-Joy-Gilles.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-POD-Joy-Gilles.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-POD-Joy-Gilles.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-POD-Joy-Gilles.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-POD-Joy-Gilles.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-POD-Joy-Gilles.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-POD-Joy-Gilles.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-POD-Joy-Gilles.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/sunset-from-the-condor-express/">Sunset from the Condor Express</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sunset-from-the-condor-express/>
+
+---
+
+## Jessica Carlton Nets Game-Winning Goal as UCSB Women’s Soccer Defeats Cal Poly, 1-0
+
+date: 2024-09-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/ucsb-w-soc-919.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/ucsb-w-soc-919.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/ucsb-w-soc-919.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/ucsb-w-soc-919.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/ucsb-w-soc-919.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/ucsb-w-soc-919.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/ucsb-w-soc-919.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/ucsb-w-soc-919.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/ucsb-w-soc-919.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/ucsb-w-soc-919.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/ucsb-w-soc-919.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A 79th-minute goal by senior midfield Jessica Carlton lifted UCSB women’s soccer to a 1-0 victory over Cal Poly in the Big West opener and Blue-Green Rivalry matchup on Thursday [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/jessica-carlton-nets-game-winning-goal-as-ucsb-womens-soccer-defeats-cal-poly-1-0/">Jessica Carlton Nets Game-Winning Goal as UCSB Women&#8217;s Soccer Defeats Cal Poly, 1-0</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/jessica-carlton-nets-game-winning-goal-as-ucsb-womens-soccer-defeats-cal-poly-1-0/>
+
+---
+
+## David Garbe Leads Championship Flight of Santa Barbara Senior Open After Day 1
+
+date: 2024-09-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The 2024 Santa Barbara Senior Open Championship wrapped up the first of two days of action on Thursday at the Santa Barbara Golf Course. Following one day of play, River [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/david-garbe-leads-championship-flight-of-santa-barbara-senior-open-after-day-1/">David Garbe Leads Championship Flight of Santa Barbara Senior Open After Day 1</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/david-garbe-leads-championship-flight-of-santa-barbara-senior-open-after-day-1/>
+
+---
+
+## Prep Girls Tennis Roundup: Dos Pueblos Battles to Rivalry Win Over Santa Barbara
+
+date: 2024-09-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Dos Pueblos and Santa Barbara High girls tennis clashed for a rivalry matchup on Thursday and it came down to the wire, with the Chargers narrowly escaping with the win. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-tennis-roundup-dos-pueblos-squeaks-past-santa-barbara-high-for-rivalry-win/">Prep Girls Tennis Roundup: Dos Pueblos Battles to Rivalry Win Over Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-tennis-roundup-dos-pueblos-squeaks-past-santa-barbara-high-for-rivalry-win/>
+
+---
+
+## BizHawk: Santa Barbara’s Harbor Restaurant Ready to Return to Its ‘Glory Days’
+
+date: 2024-09-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-BizHawk-Harbor-Restaurant-1-Courtesy.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The Harbor Restaurant has a view of the ocean and the Santa Barbara Harbor. It is set to reopen on Wednesday." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-BizHawk-Harbor-Restaurant-1-Courtesy.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-BizHawk-Harbor-Restaurant-1-Courtesy.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-BizHawk-Harbor-Restaurant-1-Courtesy.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-BizHawk-Harbor-Restaurant-1-Courtesy.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-BizHawk-Harbor-Restaurant-1-Courtesy.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-BizHawk-Harbor-Restaurant-1-Courtesy.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-BizHawk-Harbor-Restaurant-1-Courtesy.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-BizHawk-Harbor-Restaurant-1-Courtesy.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-BizHawk-Harbor-Restaurant-1-Courtesy.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-BizHawk-Harbor-Restaurant-1-Courtesy.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>One of Santa Barbara&#8217;s most iconic restaurants is coming back — and at one of Santa Barbara&#8217;s most beautiful locations. The Harbor Restaurant on Stearns Wharf is set to reopen [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-santa-barbaras-harbor-restaurant-ready-to-return-to-its-glory-days/">BizHawk: Santa Barbara&#8217;s Harbor Restaurant Ready to Return to Its &#8216;Glory Days&#8217;</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bizhawk-santa-barbaras-harbor-restaurant-ready-to-return-to-its-glory-days/>
+
+---
+
+## Prep Girls Volleyball Roundup: Local Teams Sweep League Opponents
+
+date: 2024-09-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Laguna Blanca girls volleyball improved as the night went on and earned a sweep of Thacher on Thursday night, 25-18, 25-16, 25-9. The Owls are now 6-7 overall this season [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-volleyball-roundup-local-teams-sweep-league-opponents/">Prep Girls Volleyball Roundup: Local Teams Sweep League Opponents</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-volleyball-roundup-local-teams-sweep-league-opponents/>
+
+---
+
+## Goleta Candidate Forum Planned for Sept. 21 in the Heart of Old Town
+
+date: 2024-09-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>There will be an open-microphone forum for Goleta residents to ask candidates questions on Saturday, Sept. 21, from 6-8 p.m. at the Goleta Community Center Auditorium, 5679 Hollister Ave. Doors [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-candidate-forum-planned-for-sept-21-in-the-heart-of-old-town/">Goleta Candidate Forum Planned for Sept. 21 in the Heart of Old Town</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-candidate-forum-planned-for-sept-21-in-the-heart-of-old-town/>
+
+---
+
+## Emma McDermott, Angie Dentoni Spark UCSB Volleyball Past Kansas State
+
+date: 2024-09-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Outside hitter Emma McDermott equaled her career high with 16 digs and defensive specialist Angie Dentoni picked up a career-best 19 digs to lead the UC Santa Barbara women’s volleyball [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/emma-mcdermott-angie-dentoni-spark-ucsb-volleyball-past-kansas-state/">Emma McDermott, Angie Dentoni Spark UCSB Volleyball Past Kansas State</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/emma-mcdermott-angie-dentoni-spark-ucsb-volleyball-past-kansas-state/>
+
+---
+
+## UCSB Men’s Soccer Strikes Early, Beats Utah Valley, 4-1
+
+date: 2024-09-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>OREM, Utah — Four different players scored goals for the No. 22 UC Santa Barbara men’s soccer team in 4-1 win at Utah Valley on Thursday. Nemo Philipp and Alexis [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-mens-soccer-strikes-early-beats-utah-valley-4-1/">UCSB Men&#8217;s Soccer Strikes Early, Beats Utah Valley, 4-1</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-mens-soccer-strikes-early-beats-utah-valley-4-1/>
+
+---
+
+## Prep Girls Golf Roundup: Dos Pueblos, San Marcos Pick Up Wins
+
+date: 2024-09-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Dos Pueblos girls golf pulled out a tight Channel League victory on Thursday, sneaking past Ventura for the win. Sagarika Manian was the top golfer of the match, shooting a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-golf-roundup-dos-pueblos-san-marcos-pick-up-wins/">Prep Girls Golf Roundup: Dos Pueblos, San Marcos Pick Up Wins</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-golf-roundup-dos-pueblos-san-marcos-pick-up-wins/>
 
 ---
 

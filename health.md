@@ -1,11 +1,51 @@
 ---
 title: health
-updated: 2024-09-19 17:12:41
+updated: 2024-09-20 08:12:08
 ---
 
 # health
 
-(date: 2024-09-19 17:12:41)
+(date: 2024-09-20 08:12:08)
+
+---
+
+## Non-classical roles of bacterial siderophores in pathogenesis
+
+date: 2024-09-20, from: Frontiers in Cellular and Infection Microbiology
+
+Within host environments, iron availability is limited, which instigates competition for this essential trace element. In response, bacteria produce siderophores, secondary metabolites that scavenge iron and deliver it to bacterial cells via specific receptors. This role in iron acquisition contributes significantly to bacterial pathogenesis, thereby designating siderophores as virulence factors. While prior research has primarily focused on unravelling the molecular mechanisms underlying siderophore biosynthesis, uptake, and iron sequestration, recent investigations have unveiled additional non-iron chelating functions of siderophores. These emerging roles are being consistently shown to support bacterial pathogenesis. In this review, we present the current understanding of siderophores in various roles: acquiring non-iron metal ions, supporting tolerance to metal-induced and reactive oxygen species (ROS)-induced stresses, mediating siderophore signalling, inducing ROS formation, and functioning in class IIb microcins. By integrating recent findings, this review aims to provide an overview of the diverse roles of siderophores in bacterial pathogenesis. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1465719>
+
+---
+
+## Editorial: Effects of pathogen parasitism on host metabolism in aquaculture animals
+
+date: 2024-09-20, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1467352>
+
+---
+
+## The emerging roles of microbiome and short-chain fatty acids in the pathogenesis of bronchopulmonary dysplasia
+
+date: 2024-09-20, from: Frontiers in Cellular and Infection Microbiology
+
+Bronchopulmonary dysplasia (BPD) is a chronic lung disease that affects premature infants and leads to long-term pulmonary complications. The pathogenesis of BPD has not been fully elucidated yet. In recent years, the microbiome and its metabolites, especially short-chain fatty acids (SCFAs), in the gut and lungs have been demonstrated to be involved in the development and progression of the disease. This review aims to summarize the current knowledge on the potential involvement of the microbiome and SCFAs, especially the latter, in the development and progression of BPD. First, we introduce the gut-lung axis, the production and functions of SCFAs, and the role of SCFAs in lung health and diseases. We then discuss the evidence supporting the involvement of the microbiome and SCFAs in BPD. Finally, we elaborate on the potential mechanisms of the microbiome and SCFAs in BPD, including immune modulation, epigenetic regulation, enhancement of barrier function, and modulation of surfactant production and the gut microbiome. This review could advance our understanding of the microbiome and SCFAs in the pathogenesis of BPD, which also helps identify new therapeutic targets and facilitate new drug development. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1434687>
+
+---
+
+## Corrigendum: Study on the effects of intestinal flora on gouty arthritis
+
+date: 2024-09-20, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1483349>
 
 ---
 

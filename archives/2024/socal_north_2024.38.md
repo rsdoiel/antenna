@@ -1,11 +1,71 @@
 ---
 title: socal north
-updated: 2024-09-19 17:12:33
+updated: 2024-09-20 08:11:58
 ---
 
 # socal north
 
-(date: 2024-09-19 17:12:33)
+(date: 2024-09-20 08:11:58)
+
+---
+
+## Chance of showers, thunderstorms for the Southland. Weekend warmup ahead.
+
+date: 2024-09-20, updated: 2024-09-20, from: The LAist
+
+Chances of thunderstorms and rain greater for San Bernardino and San Gabriel mountains. 
+
+<https://laist.com/news/climate-environment/showers-thunderstorms-weekend-warmup>
+
+---
+
+## Santa Ana Measure FF: Pay raises for council members
+
+date: 2024-09-20, updated: 2024-09-20, from: The LAist
+
+Santa Ana is asking voters whether they want to give a hefty pay raises to city council members. 
+
+<https://laist.com/news/politics/2024-election-california-general-santa-ana-measure-ff>
+
+---
+
+## Who is who? How to follow the unfolding fraud allegations in Orange County
+
+date: 2024-09-20, updated: 2024-09-20, from: The LAist
+
+Who is Andrew Do? Why is his 23-year-old daughter involved? What does a county supervisor even do? We explain the saga playing out in O.C. 
+
+<https://laist.com/news/politics/andrew-do-explained-fraud-allegations-viet-america-society>
+
+---
+
+## Ants 🐜 ants 🐜 ants and more 🐜 are inside your home. You are not alone
+
+date: 2024-09-20, updated: 2024-09-20, from: The LAist
+
+'Tis the year for out-of-control ant infestations. Everywhere there are ants. 
+
+<https://laist.com/news/climate-environment/los-angeles-ants-are-everywhere-what-gives>
+
+---
+
+## How LA's first playgrounds brought respite to working class children
+
+date: 2024-09-20, updated: 2024-09-20, from: The LAist
+
+Los Angeles established the country's first Playground Department Commission 120 years ago. 
+
+<https://laist.com/news/la-history/los-angeles-first-public-playground>
+
+---
+
+## 10 tons of trash were found in LA beaches. You can help clean it up on Saturday
+
+date: 2024-09-20, updated: 2024-09-20, from: The LAist
+
+This Saturday, September 21, you can volunteer to help clean up hundreds of thousands of pounds of trash and debris from California's beaches and rivers. 
+
+<https://laist.com/news/climate-environment/10-tons-of-trash-were-found-in-la-beaches-you-can-help-clean-up-this-saturday>
 
 ---
 

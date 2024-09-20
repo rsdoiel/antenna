@@ -1,11 +1,147 @@
 ---
 title: food
-updated: 2024-09-19 17:12:42
+updated: 2024-09-20 08:12:10
 ---
 
 # food
 
-(date: 2024-09-19 17:12:42)
+(date: 2024-09-20 08:12:10)
+
+---
+
+## How Celsius Became the King of Energy Drinks
+
+date: 2024-09-20, from: Bon Appetet
+
+We’ve entered a new, jittery era of energy drinks. 
+
+<https://www.bonappetit.com/story/how-celsius-became-the-king-of-energy-drinks-gen-z>
+
+---
+
+## Weekly Coffee News: More EUDR Concerns + Best of Rwanda
+
+date: 2024-09-20, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="unsplash coffee roasting" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Reuters: ICO Head Nogueira Says Meeting EUDR Date &#8220;Not... 
+
+<https://dailycoffeenews.com/2024/09/20/weekly-coffee-news-more-eudr-concerns-best-of-rwanda/>
+
+---
+
+## Pan-Fried Calamari With Rich Chili Jelly
+
+date: 2024-09-20, from: Pepper Scale
+
+The truly great thing about this pan-fried calamari recipe is that it’s so easy to cook outstandingly well. Hot and fast is the key to this simple, elegant starter. Serve it with our first-class chili jelly for that touch of pop that makes things even ... <p class="read-more-container"><a title="Pan-Fried Calamari With Rich Chili Jelly" class="read-more button" href="https://pepperscale.com/pan-fried-calamari-with-rich-chili-jelly/#more-80937" aria-label="Read more about Pan-Fried Calamari With Rich Chili Jelly">Read more</a></p> 
+
+<https://pepperscale.com/pan-fried-calamari-with-rich-chili-jelly/>
+
+---
+
+## Kiwi And Jalapeño Salsa
+
+date: 2024-09-20, from: Pepper Scale
+
+Kiwi and jalapeño salsa is a fruity appetizer or side with a delicious Mexican-style flavor (and kick!) It’s healthy, too, and quick to make. So if you’re looking for something quick to whip up that’s beyond your basic salsa — give this one a go. ... <p class="read-more-container"><a title="Kiwi And Jalapeño Salsa" class="read-more button" href="https://pepperscale.com/kiwi-and-jalapeno-salsa/#more-84950" aria-label="Read more about Kiwi And Jalapeño Salsa">Read more</a></p> 
+
+<https://pepperscale.com/kiwi-and-jalapeno-salsa/>
+
+---
+
+## Jalapeño Lemon Drizzle Cake
+
+date: 2024-09-20, from: Pepper Scale
+
+There is no shortage of lemon drizzle cake recipes around, but how many feature the bright flavor of jalapeño pepper?&#160;This is not your everyday drizzle cake &#8211; this one tickles those taste buds in totally different ways than the norm. That said, this jalapeño lemon ... <p class="read-more-container"><a title="Jalapeño Lemon Drizzle Cake" class="read-more button" href="https://pepperscale.com/jalapeno-lemon-drizzle-cake/#more-76717" aria-label="Read more about Jalapeño Lemon Drizzle Cake">Read more</a></p> 
+
+<https://pepperscale.com/jalapeno-lemon-drizzle-cake/>
+
+---
+
+## Coffee Consumption Outside The Home Is Back To Pre-Pandemic Levels
+
+date: 2024-09-20, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The National Coffee Association details their findings as part of the Fall 2024 National Coffee Data Trends. 
+
+<https://sprudge.com/coffee-consumption-outside-the-home-is-back-to-pre-pandemic-levels-255314.html>
+
+---
+
+## Jalapeño Varieties Are Many: Meet The Most Popular
+
+date: 2024-09-20, from: Pepper Scale
+
+Jalapeño peppers are the most popular chilies on the planet. Its very eatable low-medium heat and bright, grassy flavor make the chili very versatile in the kitchen. But, unless you&#8217;re a gardener with a penchant for spicy food, you may not know that there are ... <p class="read-more-container"><a title="Jalapeño Varieties Are Many: Meet The Most Popular" class="read-more button" href="https://pepperscale.com/jalapeno-varieties/#more-51981" aria-label="Read more about Jalapeño Varieties Are Many: Meet The Most Popular">Read more</a></p> 
+
+<https://pepperscale.com/jalapeno-varieties/>
+
+---
+
+## Tabasco Family Reserve Pepper Sauce Review
+
+date: 2024-09-20, from: Pepper Scale
+
+Meet the deeper shade of Tabasco. That’s right, the McIlhenny family (the makers of Tabasco) go for a richer flavor with its small-batch, barrel-aged Tabasco Family Reserve Pepper Sauce. How different is it from Tabasco Original Red? How well is it balanced in terms of ... <p class="read-more-container"><a title="Tabasco Family Reserve Pepper Sauce Review" class="read-more button" href="https://pepperscale.com/tabasco-family-reserve-pepper-sauce/#more-89967" aria-label="Read more about Tabasco Family Reserve Pepper Sauce Review">Read more</a></p> 
+
+<https://pepperscale.com/tabasco-family-reserve-pepper-sauce/>
+
+---
+
+## New Product: Peace Coffee’s Premium Concentrate Balances Speed and Craft
+
+date: 2024-09-20, from: The Fresh Cup
+
+<p>Peace Coffee’s Premium Concentrate is a versatile, sustainable option for cold coffee drinks. Here’s how it works.</p>
+<p>The post <a href="https://freshcup.com/new-product-peace-coffees-premium-concentrate-balances-speed-and-craft/">New Product: Peace Coffee’s Premium Concentrate Balances Speed and Craft</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<https://freshcup.com/new-product-peace-coffees-premium-concentrate-balances-speed-and-craft/>
+
+---
+
+## One-Pot Salmon Rice and More Recipes We Made This Week
+
+date: 2024-09-20, from: Bon Appetet
+
+Like white bean stew and banana bread. 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-september-2024>
+
+---
+
+## Homemade Taco Sauce Recipe
+
+date: 2024-09-20, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/taco-sauce/" title="Homemade Taco Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2023/12/Taco-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Taco Sauce Recipe" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2023/12/Taco-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2023/12/Taco-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2023/12/Taco-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2023/12/Taco-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2023/12/Taco-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2023/12/Taco-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2023/12/Taco-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This easy taco sauce is better than store bought, ready to add tanginess, spicy zing and flavor to your tacos, burritos, nachos and so much more.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/taco-sauce/">Homemade Taco Sauce Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<https://www.chilipeppermadness.com/chili-pepper-recipes/taco-sauce/>
+
+---
+
+## Dunkin’ Munchkins Buckets Are Making a Comeback for Halloween
+
+date: 2024-09-19, from: Taste of Home
+
+<p>You're never too old for this spooky-cute bucket of doughnuts.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/dunkin-munchkins-bucket/">Dunkin&#8217; Munchkins Buckets Are Making a Comeback for Halloween</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/dunkin-munchkins-bucket/>
+
+---
+
+## Copycat Little Debbie Cosmic Brownies
+
+date: 2024-09-19, from: Taste of Home
+
+Our copycat Little Debbie Cosmic Brownies taste just like everyone's favorite '90s snack cake. 
+
+<https://www.tasteofhome.com/recipes/copycat-little-debbie-cosmic-brownies/>
 
 ---
 
@@ -26,6 +162,18 @@ date: 2024-09-19, from: Bon Appetet
 Whether you’re looking for classic truffles, artisanal bonbons, or the gooiest chocolate chip cookies—we’ve got you covered. 
 
 <https://www.bonappetit.com/story/the-best-chocolate-gifts-2024>
+
+---
+
+## Taste of Home Party in a Pinch Contest (#318) Official Rules
+
+date: 2024-09-19, from: Taste of Home
+
+<p>1. Eligibility: This Contest is open to legal U.S. residents residing in one of the 50 United States or District</p>
+<p>The post <a href="https://www.tasteofhome.com/taste-of-home-party-in-a-pinch-contest-318-official-rules/">Taste of Home Party in a Pinch Contest (#318) Official Rules</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/taste-of-home-party-in-a-pinch-contest-318-official-rules/>
 
 ---
 
@@ -53,7 +201,7 @@ date: 2024-09-19, from: The Sprudge
 
 date: 2024-09-19, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="coffee and Parkinsons" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new study shows that coffee is among the most commonly used natural health products used by people with Parkinson&#8217;s disease to self-manage symptoms. The study, which focused on other... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="coffee and Parkinsons" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/coffee-and-Parkinsons-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new study shows that coffee is among the most commonly used natural health products used by people with Parkinson&#8217;s disease to self-manage symptoms. The study, which focused on other... 
 
 <https://dailycoffeenews.com/2024/09/19/study-people-using-coffee-to-self-treat-parkinsons-but-not-talking-to-their-doctors/>
 
@@ -271,7 +419,7 @@ Plus, our thoughts on other luxury home cleaning products.
 
 date: 2024-09-18, from: Daily Coffee News
 
-<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png" class="attachment-large size-large wp-post-image" alt="Fair-Trade-certified" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-300x218.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-150x109.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-768x557.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>An influential figure in the fair trade movement over the past quarter century, Paul Rice is resigning as CEO of Fair Trade USA. In an announcement last week, Rice said... 
+<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png" class="attachment-large size-large wp-post-image" alt="Fair-Trade-certified" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-300x218.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-150x109.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-768x557.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>An influential figure in the fair trade movement over the past quarter century, Paul Rice is resigning as CEO of Fair Trade USA. In an announcement last week, Rice said... 
 
 <https://dailycoffeenews.com/2024/09/18/fair-trade-usa-founder-paul-rice-resigning-as-ceo/>
 
@@ -373,7 +521,7 @@ Here&#8217;s a quick and easy spicy red pepper jam recipe from our community mem
 
 date: 2024-09-18, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/vegan-chili/" title="Vegan Chili Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Vegan-Chili-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of Vegan Chili, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Vegan-Chili-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Vegan-Chili-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Vegan-Chili-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Vegan-Chili-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Vegan-Chili-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Vegan-Chili-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Vegan-Chili-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This hearty vegan chili is packed with rich roasted bell peppers, beans, and spices, a delicious plant-based dish bursting with smoky, savory flavors.</p>
+<a href="https://www.chilipeppermadness.com/recipes/vegan-chili/" title="Vegan Chili Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Vegan-Chili-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of Vegan Chili, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Vegan-Chili-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Vegan-Chili-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Vegan-Chili-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Vegan-Chili-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Vegan-Chili-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Vegan-Chili-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Vegan-Chili-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This hearty vegan chili is packed with rich roasted bell peppers, beans, and spices, a delicious plant-based dish bursting with smoky, savory flavors.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/vegan-chili/">Vegan Chili Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
