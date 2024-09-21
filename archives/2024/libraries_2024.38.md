@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-09-20 08:12:05
+updated: 2024-09-21 11:20:04
 ---
 
 # libraries
 
-(date: 2024-09-20 08:12:05)
+(date: 2024-09-21 11:20:04)
 
 ---
 
@@ -13,7 +13,7 @@ updated: 2024-09-20 08:12:05
 
 date: 2024-09-20, from: Association of Research Libraries News
 
-<p>Last Updated on September 20, 2024, 10:38 am ET Banned Books Week celebrates the freedom to read and draws attention to the harms of censorship by spotlighting current and historical...</p>
+<p>Last Updated on September 20, 2024, 1:28 pm ET Banned Books Week celebrates the freedom to read and draws attention to the harms of censorship by spotlighting current and historical...</p>
 <p>The post <a href="https://www.arl.org/blog/arl-libraries-celebrate-banned-books-week-2024/">ARL Libraries Celebrate Banned Books Week 2024</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

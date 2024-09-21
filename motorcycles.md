@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2024-09-20 08:12:07
+updated: 2024-09-21 11:20:06
 ---
 
 # motorcycles
 
-(date: 2024-09-20 08:12:07)
+(date: 2024-09-21 11:20:06)
 
 ---
 
@@ -396,4 +396,14 @@ date: 2024-09-15, from: Kickin the Tires blog
 By Cole Cusumano, Staff Writer AVONDALE, Ariz. – The NASCAR Championship Ignition Luncheon made its annual return to Arizona, where Phoenix Raceway’s track president Latasha Causey chose to change up&#8230;  
 
 <https://kickinthetires.net/nascar/phoenix-raceway-hosts-blaney-nascar-championship-ignition-luncheon-for-new-cause/>
+
+---
+
+## Yamaha Might Be Killing Its MotoGP Engine, Will The R1's Engine Be Next
+
+date: 2024-09-14, from: Ride Apart, Electric Motorcycle News
+
+Is the street crossplane next? 
+
+<https://www.rideapart.com/news/733708/yamaha-crossplane-engine-motogp-death/>
 

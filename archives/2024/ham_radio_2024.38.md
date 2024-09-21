@@ -1,11 +1,43 @@
 ---
 title: ham radio
-updated: 2024-09-20 08:12:00
+updated: 2024-09-21 11:19:59
 ---
 
 # ham radio
 
-(date: 2024-09-20 08:12:00)
+(date: 2024-09-21 11:19:59)
+
+---
+
+## ARRL Section Managers Gather for Training at Headquarters
+
+date: 2024-09-20, from: Amateur Radio Relay League News
+
+<p>The ARRL Field Organization is divided geographically into 71 sections. A key volunteer that members in each section elect is the Section Manager. These ARRL member-volunteers take a critical role in being the front line of the organization to members. </p><p></p><p>On Saturday, September 15, 2024, 13 ARRL Section Managers gathered at ARRL Headquarters in Newington, Connecticut, for training. ARRL staff memb...</p> 
+
+<http://www.arrl.org/news/view/arrl-section-managers-gather-for-training-at-headquarters>
+
+---
+
+## National Preparedness Month - Station Readiness
+
+date: 2024-09-20, from: Amateur Radio Relay League News
+
+<p>As ARRL continues the September series on National Preparedness Month, we turn to a critical element for radio amateurs and especially Amateur Radio Emergency Service® (ARES®) volunteers: their station. </p><p>Many hams have a home station from which we operate on a regular basis.  Is your station set up to operate or have the ability to operate off the grid or on alternate power sources?  There are m...</p> 
+
+<http://www.arrl.org/news/view/national-preparedness-month-station-readiness>
+
+---
+
+## Nano-batteries may enable mega possibilities
+
+date: 2024-09-20, from: EDN Blog
+
+<img width="900" height="600" src="https://www.edn.com/wp-content/uploads/Power-Points-blog163_MIT-nano-battery_eye-candy.png?fit=900%2C600" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Power-Points-blog163_MIT-nano-battery_eye-candy.png?w=900 900w, https://www.edn.com/wp-content/uploads/Power-Points-blog163_MIT-nano-battery_eye-candy.png?w=300 300w, https://www.edn.com/wp-content/uploads/Power-Points-blog163_MIT-nano-battery_eye-candy.png?w=768 768w" sizes="(max-width: 900px) 100vw, 900px" /><p>While larger batteries are getting most of the coverage, there are developments at the other end of the physical and energy scale.</p>
+<p>The post <a href="https://www.edn.com/nano-batteries-may-enable-mega-possibilities/" data-wpel-link="internal">Nano-batteries may enable mega possibilities</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/nano-batteries-may-enable-mega-possibilities/>
 
 ---
 
@@ -43,7 +75,7 @@ date: 2024-09-19, from: Amateur Radio Relay League News
 
 date: 2024-09-19, from: EDN Blog
 
-<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/ST-ST33KTPM.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/ST-ST33KTPM.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/ST-ST33KTPM.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/ST-ST33KTPM.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>ST’s STSAFE-TPM cryptographic modules for PCs, servers, and embedded systems are among the first to receive FIPS 140-3 certification.</p>
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/ST-ST33KTPM.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/ST-ST33KTPM.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/ST-ST33KTPM.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/ST-ST33KTPM.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>ST’s STSAFE-TPM cryptographic modules for PCs, servers, and embedded systems are among the first to receive FIPS 140-3 certification.</p>
 <p>The post <a href="https://www.edn.com/crypto-modules-gain-the-latest-fips-certification/" data-wpel-link="internal">Crypto modules gain the latest FIPS certification</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

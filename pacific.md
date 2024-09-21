@@ -1,11 +1,41 @@
 ---
 title: pacific
-updated: 2024-09-20 08:11:59
+updated: 2024-09-21 11:19:58
 ---
 
 # pacific
 
-(date: 2024-09-20 08:11:59)
+(date: 2024-09-21 11:19:58)
+
+---
+
+## Nuevos tratamientos avanzados ofrecen alivio para el eczema grave
+
+date: 2024-09-20, updated: 2024-09-20, from: Marianas Variety
+
+(BPT) - ¿Tiene la piel escamosa, picazón intensa, e inflamación durante ciertas épocas del año o en ciertas condiciones? ¿La picazón empeora hasta tal punto que le impide dormir? ¿Rascarse incesantemente hace que la piel se agriete, supure o se infecte? 
+
+<https://www.mvariety.com/online_features/espanol/nuevos-tratamientos-avanzados-ofrecen-alivio-para-el-eczema-grave/article_45f3c3db-ae31-5072-8d17-c35323356bc6.html>
+
+---
+
+## Finding relief for severe eczema: new advanced treatments
+
+date: 2024-09-20, updated: 2024-09-20, from: Marianas Variety
+
+(BPT) - Do you have intensely itchy, flaky skin that flares up during certain times of the year or in certain conditions? Does the itching get so bad it interrupts your sleep? Does your incessant scratching cause skin to crack, ooze or become infected? 
+
+<https://www.mvariety.com/online_features/health_and_wellness/finding-relief-for-severe-eczema-new-advanced-treatments/article_a1a42371-e815-5d6a-b603-2d702a512c89.html>
+
+---
+
+## Expert tips to help you overcome chronic pain
+
+date: 2024-09-20, updated: 2024-09-20, from: Marianas Variety
+
+(BPT) - Chronic pain is defined as pain that persists for three months or longer. According to the Centers for Disease Control and Prevention (CDC), approximately 100 million Americans live with chronic pain, highlighting the widespread nature of this condition. 
+
+<https://www.mvariety.com/online_features/senior_living/expert-tips-to-help-you-overcome-chronic-pain/article_ade16180-48e1-50c5-b1f7-2ce1438cd516.html>
 
 ---
 
@@ -249,6 +279,30 @@ date: 2024-09-20, from: Hawaii Tribune Harold
 
 ---
 
+## Searchers find body of missing swimmer
+
+date: 2024-09-20, from: Hawaii Tribune Harold
+
+
+				<p>Searchers have found the body of a man who was last seen in the Wailuku River at Boiling Pots above Hilo on Tuesday afternoon.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/20/hawaii-news/searchers-find-body-of-missing-swimmer/>
+
+---
+
+## UPDATE: Eruption at Napau Crater has stopped
+
+date: 2024-09-20, from: Hawaii Tribune Harold
+
+
+				<p><strong>UPDATED at 10:33 a.m.</strong></p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/20/hawaii-news/eruption-cooling-off-reports-hvo/>
+
+---
+
 ## Lagging Maui recovery, slower overall Hawaiʻi growth, UHERO forecasts
 
 date: 2024-09-20, from: University of Hawaiʻi News
@@ -465,6 +519,26 @@ date: 2024-09-20, from: Island Times
 
 ---
 
+## Our Marketing Director is better Than Yours at LKPFM Corp
+
+date: 2024-09-20, updated: 2024-09-20, from: Marianas Variety
+
+(Peter M Fiorillo) - Choosing The Right Marketing Agency, 
+
+<https://www.mvariety.com/online_features/business_and_careers/our-marketing-director-is-better-than-yours-at-lkpfm-corp/article_db09bfc7-dbdc-584a-9e4c-0280f6095a8a.html>
+
+---
+
+## “MINECRAFT EXPERIENCE: VILLAGER RESCUE” REVEALS EXCLUSIVE IN-GAME CAPE FOR ALL ATTENDEES
+
+date: 2024-09-20, updated: 2024-09-20, from: Marianas Variety
+
+(NewsUSA) - After Mining, Crafting, and Battling Through the In-Person, Immersive Minecraft Adventure, Each Guest Receives a Limited-Edition Half-Zombie, Half-Villager Cape World Premiere Set For Dallas October 18; Tickets On Sale Now 
+
+<https://www.mvariety.com/online_features/family_living/minecraft-experience-villager-rescue-reveals-exclusive-in-game-cape-for-all-attendees/article_22cc27c8-c9c3-512a-9d59-9475b87ff965.html>
+
+---
+
 ## 3 UH Mānoa tennis players head to top national tourney
 
 date: 2024-09-20, from: University of Hawaiʻi News
@@ -473,6 +547,16 @@ date: 2024-09-20, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/09/19/uh-tennis-players-to-top-national-tourney/">3 <abbr>UH</abbr> Mānoa tennis players head to top national tourney</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/09/19/uh-tennis-players-to-top-national-tourney/>
+
+---
+
+## Taking steps to prevent falls
+
+date: 2024-09-20, updated: 2024-09-21, from: Marianas Variety
+
+(BPT) - When you’re young, an injury from a fall may sideline you for a few days or weeks, but a full recovery is usually quick. As you get older, the consequences of falls are more serious, setting up a sequence of events that can have longstanding implications on independence and health. 
+
+<https://www.mvariety.com/online_features/senior_living/taking-steps-to-prevent-falls/article_ea93c153-c8f9-56ae-ba95-93ba3732527d.html>
 
 ---
 
@@ -3147,4 +3231,357 @@ date: 2024-09-15, from: Pacific Island Times
 By Mar-Vic Cagurangan   The planned establishment of a 3D printing facility on Guam is envisioned to position the island as a... 
 
 <https://www.pacificislandtimes.com/post/3d-printing-and-guam-s-emerging-role-in-aukus>
+
+---
+
+## When political memes take on a lie of their own
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>By the time the Arizona Republican Party&#8217;s digital billboards urging Phoenix residents to &#8220;EAT LESS KITTENS&#8221; and &#8220;Vote Republican!&#8221; went up on Tuesday, the story they referred to had already been widely debunked.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/when-political-memes-take-on-a-lie-of-their-own/>
+
+---
+
+## Biden slams Trump over false story of pet-eating immigrants: ‘This has to stop’
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden angrily denounced former President Donald Trump on Friday for continuing to traffic in false rumors about Haitian immigrants eating cats and dogs, unfounded tales that have roiled a community in Ohio and inflamed the presidential campaign.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/biden-slams-trump-over-false-story-of-pet-eating-immigrants-this-has-to-stop/>
+
+---
+
+## Will Taylor Swift’s Harris endorsement influence the U.S. election?
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>Global pop star Taylor Swift&#8217;s support for Kamala Harris may have boosted the Democratic vice president&#8217;s hopes of attracting young voters, but the question remains: Will the celebrity endorsement make a difference on Election Day? </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/will-taylor-swifts-harris-endorsement-influence-the-u-s-election/>
+
+---
+
+## Threats unnerve Ohio city after Trump’s false claims
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The dogs and cats of Springfield, Ohio, appear to be perfectly safe, but many of its people are finding their lives upended this week by political rumormongering that has resulted in multiple bomb threats, school closures and a decision to dispatch the FBI.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/threats-unnerve-ohio-city-after-trumps-false-claims/>
+
+---
+
+## In the heart and the head, no tackle is ever routine
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>MIAMI GARDENS, Fla. &#8212; Damar Hamlin doesn&#8217;t want to be the spokesperson for football mortality.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/sports/in-the-heart-and-the-head-no-tackle-is-ever-routine/>
+
+---
+
+## Biden administration ratchets up tariffs on Chinese goods
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Biden administration on Friday announced measures that will add tariffs to Chinese products worth tens of billions of dollars, a move intended to protect U.S. factories and project a tough-on-China approach before the presidential election.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/biden-administration-ratchets-up-tariffs-on-chinese-goods/>
+
+---
+
+## The big city is vibrant. Birds there may be getting less so.
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>Some popular city dwellers appear to be losing their colorful allure, and not just the dirty birds.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/the-big-city-is-vibrant-birds-there-may-be-getting-less-so/>
+
+---
+
+## Pope says both Trump and Harris are ‘against life’
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>Asked his advice to Catholic voters in the coming U.S. presidential election, Pope Francis said they must choose the &#8220;lesser of two evils&#8221; because &#8220;both are against life&#8221; &#8212; Kamala Harris for her support for abortion rights, and Donald Trump for closing the door to immigrants.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/pope-says-both-trump-and-harris-are-against-life/>
+
+---
+
+## China raises retirement age for the first time since the 1950s
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>BEIJING &#8212; The Chinese government on Friday approved a plan to raise the country&#8217;s statutory retirement age, currently among the lowest in the world, in a long-awaited but broadly unpopular effort to address the challenge of its rapidly aging population.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/china-raises-retirement-age-for-the-first-time-since-the-1950s/>
+
+---
+
+## BIIF sports: Cougars rout Warriors; KSH, Parker stay unbeaten
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>KEA&#8216;AU &#8212; The Cougars football team displayed its best performance of the season yet on Thursday night at Kea&#8216;au High School.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/sports/biif-sports-cougars-rout-warriors-ksh-parker-stays-unbeaten/>
+
+---
+
+## Tua concussed again: What’s next in his career?
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>It was the scene none of us wanted to see: Tua Tagovailoa incapacitated on the football field after another collision and blow to the head.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/sports/tua-concussed-again-whats-next-in-his-career/>
+
+---
+
+## Advertising logo to be added to MLB helmets in postseason
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>The thing about baseball, and it&#8217;s always been this way, is that the game itself is so enchanting, riveting and charmingly ridiculous that the people who run it know you&#8217;ll keep coming back, no matter what they do to it.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/sports/advertising-logo-to-be-added-to-mlb-helmets-in-postseason/>
+
+---
+
+## Harris visits red areas of Pennsylvania, hoping to cut into Trump’s edge
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>JOHNSTOWN, Pa. &#8212; Vice President Kamala Harris campaigned through Pennsylvania&#8217;s conservative interior Friday, aiming to shave a few percentage points off former President Donald Trump&#8217;s winning margins in parts of the state where he remains popular.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/harris-visits-red-areas-of-pennsylvania-hoping-to-cut-into-trumps-edge/>
+
+---
+
+## Boeing’s strike halts airplane production at key plants
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>Thousands of Boeing workers went on strike Friday after overwhelmingly rejecting a contract their union negotiated, a potentially costly disruption to the aerospace giant as it tries to recover from a series of safety crises.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/boeings-strike-halts-airplane-production-at-key-plants/>
+
+---
+
+## Boar’s Head shuts down Virginia plant tied to listeria deaths
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>Boar&#8217;s Head announced Friday that it would indefinitely shut down the troubled Virginia deli meat plant that it acknowledged had caused a deadly listeria outbreak, killing nine people and sickening dozens more in 18 states.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/boars-head-shuts-down-virginia-plant-tied-to-listeria-deaths/>
+
+---
+
+## How Kamala Harris de-normalized Trump in less than 2 hours
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>In Tuesday night&#8217;s presidential debate, Vice President Kamala Harris may or may not have increased her chances of becoming the 47th president. But she did what so many have tried, and failed, to do.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/opinion/how-kamala-harris-de-normalized-trump-in-less-than-2-hours/>
+
+---
+
+## Not a value ad: Google’s ad services monopoly needs to end
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>This week began the federal antitrust trial against Google for alleged monopolistic practices when it comes to the online advertising space, with the Justice Department contending that the company has outsize dominion over what is a lifeline for industries including online publishing. Google, of course, doesn&#8217;t see it that way.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/opinion/not-a-value-ad-googles-ad-services-monopoly-needs-to-end/>
+
+---
+
+## U.S. team’s Day 1 dominance lifted entire vibe of this Solheim Cup
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>GAINESVILLE, Va. &#8212; If one thing could lift the Solheim Cup mood after a logistical disaster plagued the day&#8217;s highly anticipated start, it was the No. 1 player in the world throwing darts.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/sports/u-s-teams-day-1-dominance-lifted-entire-vibe-of-this-solheim-cup/>
+
+---
+
+## Man charged in deaths of Johnny, Matthew Gaudreau to stay in jail as case plays out
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>The man accused of killing Columbus Blue Jackets star Johnny Gaudreau and his brother, Matthew, in a drunken driving crash will remain in jail while the case plays out in court, a New Jersey judge ruled Friday morning.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/sports/man-charged-in-deaths-of-johnny-matthew-gaudreau-to-stay-in-jail-as-case-plays-out/>
+
+---
+
+## Starliner astronauts say what they’ll miss during extended stay in space
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>Nineteen astronauts across three spacecraft are in orbit around Earth &#8212; a record in the history of human spaceflight. Two of them, Suni Williams and Butch Wilmore of NASA, were not originally scheduled to be up there at this time.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/starliner-astronauts-say-what-theyll-miss-during-extended-stay-in-space/>
+
+---
+
+## Japan tries to reclaim its clout as a global tech leader
+
+date: 2024-09-14, from: Hawaii Tribune Harold
+
+
+				<p>China&#8217;s envy-inducing success in using industrial policy to expand its economy and finance green manufacturing has helped kick off a fevered scrimmage among nations to develop and protect their own hometown businesses.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/14/features/japan-tries-to-reclaim-its-clout-as-a-global-tech-leader/>
+
+---
+
+## Guåhan Sustainable Culture to host immersive CHamoru language garden tours
+
+date: 2024-09-14, from: Guam Daily Post
+
+Guåhan Sustainable Culture for CHamoru language will be conducting garden tours under the Pineksai project, where visitors will explore culturally significant plants that are vital to Guam's history and heritage. Participants will discover deep-rooted farming traditions, learn how to utilize… 
+
+<https://www.postguam.com/news/local/gu-han-sustainable-culture-to-host-immersive-chamoru-language-garden-tours/article_eb505714-7173-11ef-a26e-4f4f48cf5341.html>
+
+---
+
+## New book shares untold WWII stories of Guam’s Nikkei
+
+date: 2024-09-14, from: Guam Daily Post
+
+It’s been 80 years since World War II and now new perspectives of what it was like experiencing World War II on Guam have come to light with the launch of “A Borrowed Land,” a book written by Peter Onedera… 
+
+<https://www.postguam.com/news/local/new-book-shares-untold-wwii-stories-of-guam-s-nikkei/article_f7e5973e-723e-11ef-be32-435d00163a53.html>
+
+---
+
+## UOG, GWA partner to expand internship, job opportunities for students
+
+date: 2024-09-14, from: Guam Daily Post
+
+An agreement between the University of Guam and the Guam Waterworks Authority will help build the island’s workforce and give students more hands-on experience before diving into a career. 
+
+<https://www.postguam.com/news/local/uog-gwa-partner-to-expand-internship-job-opportunities-for-students/article_328f0be4-7182-11ef-b271-b7d00d75a528.html>
+
+---
+
+## Public input sought for facilities replacement project at Ritidian refuge
+
+date: 2024-09-14, from: Guam Daily Post
+
+Members of the public had the opportunity to speak with military and federal officials and provide input on a proposal to build replacement facilities at the Ritidian Unit Guam National Wildlife Refuge during an information meeting at the Dededo Community… 
+
+<https://www.postguam.com/news/local/public-input-sought-for-facilities-replacement-project-at-ritidian-refuge/article_0c3d249c-7170-11ef-972c-c37af4095471.html>
+
+---
+
+## Nurse examiners board extends GMTC’s probationary status
+
+date: 2024-09-14, from: Guam Daily Post
+
+There aren’t many choices when it comes to nursing education on Guam, according to the Guam Board of Nurse Examiners, which made the decision to keep one of the programs on probation giving them more time to come into compliance… 
+
+<https://www.postguam.com/news/local/nurse-examiners-board-extends-gmtc-s-probationary-status/article_6bdc7822-718d-11ef-a35a-3fcf55e5fbfe.html>
+
+---
+
+## Ex-Navy sailor sentenced to nearly six years for child pornography charges
+
+date: 2024-09-14, from: Guam Daily Post
+
+A former U.S. Navy electronic technician will serve nearly six years in prison for child pornography charges. 
+
+<https://www.postguam.com/news/local/ex-navy-sailor-sentenced-to-nearly-six-years-for-child-pornography-charges/article_446acd4a-718b-11ef-8846-271c377d984c.html>
+
+---
+
+## Hundreds of people still in need of pandemic relief
+
+date: 2024-09-14, from: Guam Daily Post
+
+It’s been over two years since the end of the public health emergency in response to the COVID-19 pandemic, but people are still in need of assistance, according to the Emergency Rental Assistance program officials who received 2,577 applications for… 
+
+<https://www.postguam.com/news/local/hundreds-of-people-still-in-need-of-pandemic-relief/article_6cf6859c-723a-11ef-a9fa-6fd520b8ea79.html>
+
+---
+
+## Man accused of assault stabbed by victim in self-defense
+
+date: 2024-09-14, from: Guam Daily Post
+
+A man was charged in connection to assaulting an unknown man at the Micronesia Mall two weeks ago. 
+
+<https://www.postguam.com/news/local/man-accused-of-assault-stabbed-by-victim-in-self-defense/article_15c96034-7189-11ef-bb31-6f3547e658d0.html>
+
+---
+
+## Forum spotlights living with lupus and importance of care
+
+date: 2024-09-14, from: Guam Daily Post
+
+On Saturday, Dr. Evan Vista took the stage in front of a crowd of people - all with a vested interest in the “Living with Lupus" forum” at the Guam Museum in Hagåtña. The rheumatologist and internist led the discussion… 
+
+<https://www.postguam.com/news/local/forum-spotlights-living-with-lupus-and-importance-of-care/article_b9bf27b6-724f-11ef-9818-c3647b00b05d.html>
+
+---
+
+## New UH Mānoa student-athletes start strong, support community
+
+date: 2024-09-14, from: University of Hawaiʻi News
+
+<p>The Summer Bridge program includes lessons and group activities on transitioning to college life, utilizing university resources and <span aria-label="Hawaii">Hawai&#699;i</span>’s unique culture.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/13/student-athletes-start-strong-support-community/">New <abbr>UH</abbr> Mānoa student-athletes start strong, support community</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/13/student-athletes-start-strong-support-community/>
 

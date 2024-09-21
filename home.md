@@ -1,11 +1,256 @@
 ---
 title: home
-updated: 2024-09-20 08:12:06
+updated: 2024-09-21 11:20:05
 ---
 
 # home
 
-(date: 2024-09-20 08:12:06)
+(date: 2024-09-21 11:20:05)
+
+---
+
+## Rare Plant of the Month: Showy raillardella
+
+date: 2024-09-20, from: California Native Plants Society
+
+<p>September's Rare Plant of the Month is showy raillardella, an orange-flowered beauty found in the Klamath Ranges bioregion of Siskiyou and Trinity counties.</p>
+<p>The post <a href="https://www.cnps.org/rare-plants/rare-plant-of-the-month-showy-raillardella-40364">Rare Plant of the Month: Showy raillardella</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/rare-plants/rare-plant-of-the-month-showy-raillardella-40364>
+
+---
+
+## Friday Links: September 20, 2024
+
+date: 2024-09-20, from: California Native Plants Society
+
+<p>Let's answer the big questions like "What is a tree?" and "What has the Saint's Daisy been up to for the past 50 years?" and "Do people really know how cute bats are?" </p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-september-20-2024-40342">Friday Links: September 20, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-september-20-2024-40342>
+
+---
+
+## The Basics of Dado Joints
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>Dado joints are easy to make and useful for bookshelves, drawer dividers and other woodworking projects.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/the-basics-of-dado-joints/">The Basics of Dado Joints</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/the-basics-of-dado-joints/>
+
+---
+
+## Hammer Drill vs. Impact Driver: What’s the Difference?
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>As a DIYer, have you wondered about whether to use or rent a hammer drill vs an impact driver? Here we explain how to easily make that decision.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/hammer-drill-vs-impact-driver/">Hammer Drill vs. Impact Driver: What&#8217;s the Difference?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/hammer-drill-vs-impact-driver/>
+
+---
+
+## Lawn Sweepers: Worth It or Waste of Space?
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>This machine can basically replace your rake, as it can sweep up leaves, acorns, grass clippings and other debris.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/what-is-a-lawn-sweeper/">Lawn Sweepers: Worth It or Waste of Space?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/what-is-a-lawn-sweeper/>
+
+---
+
+## What You Need to Know About Romex Wiring
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>Wondering where to use Romex cable in your home? How about where you can't? We've got the details below.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/romex-wiring/">What You Need to Know About Romex Wiring</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/romex-wiring/>
+
+---
+
+## Our Favorite Editor-Tested Merrell Hiking Shoes for Every Type of Terrain
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>Here are the best Merrell hiking shoes, tested and reviewed by experts.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/merrell-hiking-shoes/">Our Favorite Editor-Tested Merrell Hiking Shoes for Every Type of Terrain</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/list/merrell-hiking-shoes/>
+
+---
+
+## LoCo SmartTemp Griddle Review: Is It Better Than Blackstone?
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>Looking for a new outdoor gas griddle? This LoCo flat top grill is the smart gas griddle upgrade you didn’t know you needed.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/loco-flat-top-grill-review/">LoCo SmartTemp Griddle Review: Is It Better Than Blackstone?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/loco-flat-top-grill-review/>
+
+---
+
+## Make Raking Leaves a Breeze: 7 of the Best Leaf Rakes Reviewed
+
+date: 2024-09-20, from: The Gardener's Path
+
+<p>Fall is here and the garden is festooned with leaves, covering your lawn and making their way into every crevice. But what should you look for when choosing a leaf rake to make short work of this less-than-glamorous garden chore? Check out this guide for reviews and recommendations on how to choose the best leaf rake.</p>
+<p>The post <a href="https://gardenerspath.com/gear/tools-and-supplies/best-leaf-rake/">Make Raking Leaves a Breeze: 7 of the Best Leaf Rakes Reviewed</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/gear/tools-and-supplies/best-leaf-rake/>
+
+---
+
+## What To Do If Your Lawn Mower Won’t Start
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>Lawn maintenance can be a bit of drudgery. Add in a lawn mower that won't start, and it's a downright drag. But if you're in that situation, temper your frustration for a second because it might be something as simple as bad gas or a clogged carburetor or filter.</p>
+<p>If it is a straightforward problem, here are the steps to diagnose it. And in the future, follow these lawn mower <a href="https://www.familyhandyman.com/article/you-need-to-winterize-your-lawn-mower-heres-how/" rel="noopener noreferrer">winterizing</a> and <a href="https://www.familyhandyman.com/article/fall-spring-lawn-mower-maintenance/" rel="noopener noreferrer">maintenance</a> steps to prolong the life of your mower and prevent breakdowns.</p>
+<h2>When Should You Call a Pro?</h2>
+<p>Anytime you don't feel comfortable with your safety, or after you've gone through these steps and it's still not working, it might be time to call a pro. "It's important to understand that lawn mowers are heavy pieces of machinery with sharp blades, and you should never push yourself beyond your skill set and ability or you could end up getting hurt," says Angie Hicks, co-founder of <a href="https://www.angi.com" target="_blank" rel="noopener noreferrer">Angi</a>.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/lawn-mower-won-t-start/">What To Do If Your Lawn Mower Won&#8217;t Start</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/project/lawn-mower-won-t-start/>
+
+---
+
+## Best Crawl Space Dehumidifiers for Drier, Healthier Small & Large Spaces
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>Determine the best crawl space dehumidifier for your needs to eliminate damaging moisture from one of your home's most vulnerable areas.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/crawl-space-dehumidifier/">Best Crawl Space Dehumidifiers for Drier, Healthier Small &#038; Large Spaces</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/list/crawl-space-dehumidifier/>
+
+---
+
+## Rotary Drill vs. Hammer Drill: What’s the Difference?
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>Learn how to drill into concrete faster. With a good hammer drill and concrete drill bits, making holes in concrete is almost as easy as drilling in wood.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/drilling-into-concrete-tools-rotary-hammers-and-hammer-drills/">Rotary Drill vs. Hammer Drill: What&#8217;s the Difference?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/drilling-into-concrete-tools-rotary-hammers-and-hammer-drills/>
+
+---
+
+## 20 Antique Woodworking Tools That Are Worth Big Bucks
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>Check out some of the priciest old tools out there</p>
+<p>The post <a href="https://www.familyhandyman.com/list/these-20-old-tools-are-worth-big-bucks/">20 Antique Woodworking Tools That Are Worth Big Bucks</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/list/these-20-old-tools-are-worth-big-bucks/>
+
+---
+
+## California continues streak of slashing climate pollution while growing economy
+
+date: 2024-09-20, from: Calfifornia Dept. Aggriculture blog
+
+News Release from Governor Newsom&#8217;s office What you need to know:&#160;A new report shows California greenhouse gas emissions declined across most sectors in 2022 – and declined a whopping 20% since 2000. The decrease in emissions took place even as &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28239">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28239>
+
+---
+
+## An Award-Winning Home in the English Countryside Asks £550K
+
+date: 2024-09-20, from: Dwell
+
+The gleaming dwelling by Chance de Silva has full-height glazing, a lofted living area, and a contemporary kitchen—and it’s just an hour’s train ride from London. 
+
+<https://www.dwell.com/article/skyline-home-chance-de-silva-oxfordshire-england-real-estate-3fd4d38e>
+
+---
+
+## Budget Breakdown: This Remote Prefab Hideaway Built From Shipping Containers Cost $300K
+
+date: 2024-09-20, from: Dwell
+
+How Anthrop Abbott Architects designed four modules—complete with a hot tub and cantilevered deck—for a rocky outcrop in South Africa’s Karoo. 
+
+<https://www.dwell.com/article/budget-breakdown-this-remote-prefab-hideaway-built-from-shipping-containers-cost-dollar300k-14f0fab1>
+
+---
+
+## One Night in Sweden’s Internet-Famous Arctic Bath Hotel
+
+date: 2024-09-20, from: Dwell
+
+The floating structure with a cold plunge pool at its center went viral before it even opened. But does it live up to the hype? 
+
+<https://www.dwell.com/article/one-night-in-swedens-internet-famous-arctic-bath-hotel-cold-plunge-pool-sauna-443e1ecf>
+
+---
+
+## Easy Fire Cider Recipe: How to Make Homemade Fire Cider
+
+date: 2024-09-20, from: Homestead and Chil
+
+<p>Come learn how to make traditional fire cider with our easy step-by-step recipe, plus extra optional ingredients to kick it up a notch! Full of healthy plants and herbs, homemade fire cider naturally supports your immune system to keep you healthy during the cold and flu season.</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-make-fire-cider-for-immune-health/">Easy Fire Cider Recipe: How to Make Homemade Fire Cider</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<https://homesteadandchill.com/how-to-make-fire-cider-for-immune-health/>
+
+---
+
+## How to Prepare Daylilies for Winter
+
+date: 2024-09-20, from: The Gardener's Path
+
+<p>Daylilies are easy-care plants that provide reliable color in the landscape. In some regions, these plants can be left in the ground all winter. But if you live in an area with wet winters or outside of their hardiness range, you can dig up and store the tubers. Learn how to winterize daylilies in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/winterize-daylily/">How to Prepare Daylilies for Winter</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/flowers/winterize-daylily/>
+
+---
+
+## These Attractions Will Ensure Your Next Trip Will Be Far from Boring
+
+date: 2024-09-20, from: Sunset Magazine - Living in the West
+
+In the West there are plenty of things to do and explore. From aquariums to national parks to botanic gardens, here's where to visit. 
+
+<https://www.sunset.com/travel/best-adventure-trips-in-west-2024>
+
+---
+
+## How To Cut Sheet Metal
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p>Learn how to cut sheet metal with our step-by-step guide showing multiple techniques for precise, safe cuts for your DIY projects.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-cut-sheet-metal/">How To Cut Sheet Metal</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/project/how-to-cut-sheet-metal/>
 
 ---
 
@@ -30,6 +275,16 @@ date: 2024-09-20, from: Family Handyman Blog
  
 
 <https://www.familyhandyman.com/article/remove-water-stains-with-mayonnaise/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-09-20, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -67,6 +322,18 @@ date: 2024-09-20, from: Yard Life blog
  
 
 <https://ownyardlife.com/55-oklahoma-snakes-snakes-in-oklahoma-pictures-identification/>
+
+---
+
+## How to Properly Mix Concrete
+
+date: 2024-09-20, from: Family Handyman Blog
+
+<p> How to hand mix concrete so it delivers maximum strength and durability. Mixing isn&#039;t complicated and when done well, the concrete should last a lifetime.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-properly-mix-concrete/">How to Properly Mix Concrete</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/project/how-to-properly-mix-concrete/>
 
 ---
 
@@ -175,16 +442,6 @@ date: 2024-09-19, from: Family Handyman Blog
  
 
 <https://www.familyhandyman.com/article/outland-living-fire-pit-review/>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-09-19, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -1517,4 +1774,30 @@ date: 2024-09-15, from: Yard Life blog
  
 
 <https://ownyardlife.com/50-snakes-in-arkansas-arkansas-snakes-pictures-identification/>
+
+---
+
+## 72 California Spiders (Spiders in California, Pictures, Identification)
+
+date: 2024-09-14, from: Yard Life blog
+
+<p>California is home to a diverse array of spiders, with the state&#8217;s varied ecosystems providing ideal habitats for numerous species. ... </p>
+<p class="read-more-container"><a title="72 California Spiders (Spiders in California, Pictures, Identification)" class="read-more button" href="https://ownyardlife.com/72-california-spiders-spiders-in-california-pictures-identification/#more-19172" aria-label="Read more about 72 California Spiders (Spiders in California, Pictures, Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/72-california-spiders-spiders-in-california-pictures-identification/">72 California Spiders (Spiders in California, Pictures, Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/72-california-spiders-spiders-in-california-pictures-identification/>
+
+---
+
+## 12 Woodpeckers in Florida (Pictures and Identification)
+
+date: 2024-09-14, from: Yard Life blog
+
+<p>Woodpeckers in Florida are a remarkable feature of the state&#8217;s natural landscape, offering both beauty and ecological benefits. The array ... </p>
+<p class="read-more-container"><a title="12 Woodpeckers in Florida (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/12-woodpeckers-in-florida-pictures-and-identification/#more-19152" aria-label="Read more about 12 Woodpeckers in Florida (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/12-woodpeckers-in-florida-pictures-and-identification/">12 Woodpeckers in Florida (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/12-woodpeckers-in-florida-pictures-and-identification/>
 

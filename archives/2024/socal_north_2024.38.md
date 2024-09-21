@@ -1,11 +1,81 @@
 ---
 title: socal north
-updated: 2024-09-20 08:11:58
+updated: 2024-09-21 11:19:56
 ---
 
 # socal north
 
-(date: 2024-09-20 08:11:58)
+(date: 2024-09-21 11:19:56)
+
+---
+
+## Measure US: LAUSD Facilities Bond
+
+date: 2024-09-20, updated: 2024-09-20, from: The LAist
+
+The Los Angeles Unified School District is asking voters to approve a historic $9 billion bond through increased property taxes. 
+
+<https://laist.com/news/politics/2024-election-california-general-lausd-facilities-bond>
+
+---
+
+## More Than Pink Avalon joins cancer fight
+
+date: 2024-09-20, from: Catalina Islander
+
+For the second year, Islanders and visitors joined to support Cancer awareness and cures in partnership with the Susan G. Komen Foundation. Avalon hosted a “Walk &#38; Paddle” beginning at noon on Saturday Sept. 14, adjacent to Wrigley Stage. Over 40 people joined the walk which went from the waterfront to Casino, to Cabrillo Mole [&#8230;] 
+
+<https://thecatalinaislander.com/more-than-pink-avalon-joins-cancer-fight/>
+
+---
+
+## Council has conversation about recreational cannabis
+
+date: 2024-09-20, from: Catalina Islander
+
+The Avalon City Council discussed the feasibility of allowing recreational cannabis during the Sept. 17 meeting. The conversation took about two hours. The council took no action. Councilmember Mary Schickling argued that recreational cannabis would be a source of revenue for the city. However, the federal government forbids transporting recreational cannabis through federal waters. Background [&#8230;] 
+
+<https://thecatalinaislander.com/council-has-conversation-about-recreational-cannabis/>
+
+---
+
+## Catalina Island Health Auxiliary to close White Buffalo Thrift Store
+
+date: 2024-09-20, from: Catalina Islander
+
+Catalina Island Health Auxiliary would like to thank the Catalina Island community and its visitors for their donations and support of the White Buffalo Thrift Store over the years. Unfortunately, due to ongoing struggles to keep the store viable, the Auxiliary has decided to close the store by the end of this month. The Auxiliary [&#8230;] 
+
+<https://thecatalinaislander.com/catalina-island-health-auxiliary-to-close-white-buffalo-thrift-store/>
+
+---
+
+## Eight Orange County firefighters battling Airport Fire injured in rollover crash
+
+date: 2024-09-20, updated: 2024-09-21, from: The LAist
+
+The chief says firefighters have a “tough road ahead.” All who were injured were members of two hand crews that had been battling the Airport Fire since it ignited Sept. 9. 
+
+<https://laist.com/news/8-orange-county-firefighters-battling-airport-fire-injured-in-rollover-crash>
+
+---
+
+## Avalon’s Rotary, Lions Clubs Join Forces for Chili Cook-off
+
+date: 2024-09-20, from: Catalina Islander
+
+Courtesy Avalon Rotary Avalon’s Rotary and Lions Clubs Join Forces for 8th Annual Chili Cook-off and 1st Corn Hole Tournament Avalon’s two major service clubs are joining forces to make the 8th Annual Chili Cook-off bigger and better with the addition of a Corn Hole Tournament. Back for the 8th year, Avalon Rotary is presenting [&#8230;] 
+
+<https://thecatalinaislander.com/avalons-rotary-lions-clubs-join-forces-for-chili-cook-off/>
+
+---
+
+## USC Sea Grant receives nearly $2 million for novel technology
+
+date: 2024-09-20, from: Catalina Islander
+
+Courtesy USC Sea Grant The University of Southern California (USC) Sea Grant Program was awarded nearly $2 million from the National Oceanic and Atmospheric Administration (NOAA) to develop a disruptive and sustainable method for upcycling ocean-bound plastic waste across Southern California waterways, and to investigate the psychology behind eco-conscious choices. The multi-disciplinary project team, which [&#8230;] 
+
+<https://thecatalinaislander.com/usc-sea-grant-receives-nearly-2-million-for-novel-technology/>
 
 ---
 
@@ -16,6 +86,16 @@ date: 2024-09-20, updated: 2024-09-20, from: The LAist
 Chances of thunderstorms and rain greater for San Bernardino and San Gabriel mountains. 
 
 <https://laist.com/news/climate-environment/showers-thunderstorms-weekend-warmup>
+
+---
+
+## US Representative In Southern California: Who's running and why it matters
+
+date: 2024-09-20, updated: 2024-09-20, from: The LAist
+
+Representatives are elected to two-year terms without term limits, so they're on your ballot a lot. Here's a look the candidates in Los Angeles and Orange counties. 
+
+<https://laist.com/news/politics/2024-election-california-general-us-representative-los-angeles-county-orange-county>
 
 ---
 
@@ -159,7 +239,7 @@ Thunderstorms likely for Ventura and Santa Barbara counties.
 
 date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/IMG_0245.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Miles de personas celebraron el Día de la Independencia de México en el Ayuntamiento de Los Ángeles el domingo 15 de septiembre. El concejal Hugo Soto-Martínez fue el padrino de [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/18/la-ceremonia-de-el-grito-en-los-angeles-es-el-inicio-del-mes-de-la-herencia-latina/">La Ceremonia de El Grito en Los Ángeles es el Inicio del Mes de la Herencia Latina</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -172,7 +252,7 @@ date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240915_232425387_elsol.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>En el primer día del Mes de la Herencia Latina, una época en la que varios países latinoamericanos celebran sus días de independencia, más de un centenar de personas llegaron [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/18/panorama-city-community-plaza-celebra-por-primera-vez-bien-el-mes-de-la-herencia-latina/">Panorama City Community Plaza Celebra por Primera Vez Bien el Mes de la Herencia Latina</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -209,7 +289,7 @@ date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="705" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?fit=1024%2C705&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?w=1424&amp;ssl=1 1424w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=300%2C206&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=1024%2C705&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=768%2C529&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=1200%2C826&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=400%2C275&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=706%2C486&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?fit=1024%2C705&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="705" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?fit=1024%2C705&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?w=1424&amp;ssl=1 1424w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=300%2C206&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=1024%2C705&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=768%2C529&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=1200%2C826&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=400%2C275&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?resize=706%2C486&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Gabriel-Fernandez-Mural_SN_13-e1726716544764.jpeg?fit=1024%2C705&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Ha tardado tres años. Después de encontrar muchos obstáculos burocráticos y puertas cerradas, se ha encontrado un lugar cerca de casa, con un propietario que no dudó en decir “Sí”, [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/18/por-fin-un-mural-en-honor-a-gabriel-fernandez-esta-en-marcha/">Por Fin, un Mural en Honor a Gabriel Fernández está en Marcha</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -222,7 +302,7 @@ date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="803" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?fit=803%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?resize=235%2C300&amp;ssl=1 235w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?resize=803%2C1024&amp;ssl=1 803w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?resize=768%2C979&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?resize=400%2C510&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?resize=706%2C900&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?fit=803%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="803" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?fit=803%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?resize=235%2C300&amp;ssl=1 235w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?resize=803%2C1024&amp;ssl=1 803w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?resize=768%2C979&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?resize=400%2C510&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?resize=706%2C900&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/May2018coverFluryweb_elsol.jpg?fit=803%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Una exposición especial de arte que vale la pena recorrer hasta el Ayuntamiento del centro de la ciudad ahora está en exhibición para celebrar el Mes de la Herencia Latina. [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/18/los-eventos-para-el-mes-de-la-herencia-latina-continuaran/">Los Eventos para el Mes de la Herencia Latina Continuarán</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -235,7 +315,7 @@ date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=1366%2C2048&amp;ssl=1 1366w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=1200%2C1800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=1568%2C2352&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=1366%2C2048&amp;ssl=1 1366w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=1200%2C1800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=1568%2C2352&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Bike-Path_SN_14-scaled.jpeg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>San Fernando Road en el Este del Valle de San Fernando ganó 4.75 millas adicionales de carril bici protegido, creando casi 10 millas de ciclismo continuo fuera de la calle [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/18/millas-de-carril-bici-protegido-completado-a-lo-largo-de-san-fernando-road-en-sun-valley/">Millas de Carril Bici Protegido Completado a lo Largo de San Fernando Road en Sun Valley</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -248,7 +328,7 @@ date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Langdon-Elementary_SN_01-1-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>La junta del Distrito Escolar Unificado de Los Ángeles (LAUSD, por sus siglas en inglés) acordó pagar a tres ex alumnas de la Escuela Primaria Langdon Avenue en North Hills [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/18/lausd-pagara-24-millones-en-acuerdo-a-presuntas-victimas-de-agresion-sexual-en-la-escuela-primaria-langdon-avenue/">LAUSD Pagará $24 Millones en Acuerdo a Presuntas Víctimas de Agresión Sexual en la Escuela Primaria Langdon Avenue</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -261,7 +341,7 @@ date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="601" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?fit=1024%2C601&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=300%2C176&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=1024%2C601&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=768%2C450&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=1536%2C901&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=1200%2C704&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=1568%2C920&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=400%2C235&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=706%2C414&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?fit=1024%2C601&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="601" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?fit=1024%2C601&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=300%2C176&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=1024%2C601&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=768%2C450&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=1536%2C901&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=1200%2C704&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=1568%2C920&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=400%2C235&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?resize=706%2C414&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240918_181337693-scaled-e1726715960354.jpg?fit=1024%2C601&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Más de un año después de que el Concejo Municipal de San Fernando aprobara un plan de alcance comunitario para recibir comentarios sobre un plan maestro para el centro de [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/18/la-falta-de-espacios-publicos-y-estacionamiento-entre-las-preocupaciones-de-la-comunidad-en-el-centro-de-san-fernando-plan-maestro/">La Falta de Espacios Públicos y Estacionamiento Entre las Preocupaciones de la Comunidad en el Centro de San Fernando Plan Maestro</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -561,4 +641,143 @@ The Big Ten&#8217;s newest entrant picked up their first conference win and let 
 UCLA men&#8217;s soccer (3-1-2) buried an early goal to beat No. 
 
 <https://dailybruin.com/2024/09/14/ucla-mens-soccer-takes-road-victory-not-slowed-by-first-big-ten-opponent/>
+
+---
+
+## Emmys 2024: The Daily Bruin casts predictions for 76th Primetime Emmy Awards
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Television&#8217;s most illustrious night is returning in glistening gold with the annual Emmy awards.
+On Sunday, the Emmys will honor its 76th year of commendation at Los Angeles’ Peacock Theater. 
+
+<https://dailybruin.com/2024/09/14/emmys-2024-the-daily-bruin-casts-predictions-for-76th-primetime-emmy-awards/>
+
+---
+
+## Emmys 2024: ‘Mr. and Mrs. Smith’ writer Adamma Ebo on creative inspiration and directing rise
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+From Westwood to the writing room, Adamma Ebo has proven herself to be one to watch.
+The alumnus of UCLA’s School of Theater, Film and Television is one of the creative voices behind the Amazon Prime Video series “Mr. 
+
+<https://dailybruin.com/2024/09/14/emmys-2024-mr-and-mrs-smith-writer-adamma-ebo-on-creative-inspiration-and-directing-rise/>
+
+---
+
+## Emmys 2024: ‘Abbot Elementary’ writer and TFT alumnus Justin Tan reflects on career
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Sept. 14 at 7:46 p.m.</em>
+After transferring from BuzzFeed shorts to Willard R. Abbott Public School, Justin Tan is chasing more than views now – he’s chasing Emmys. 
+
+<https://dailybruin.com/2024/09/14/emmys-2024-abbot-elementary-writer-and-tft-alumnus-justin-tan-reflects-on-career/>
+
+---
+
+## Secure Your Spot for the 29th Annual River Rally!
+
+date: 2024-09-14, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin The City of Santa Clarita is gearing up for our most environmentally friendly event: The River Rally and Environmental Expo. Every year, over a thousand dedicated residents come together to make a difference by cleaning up the Santa Clara Riverbed. This beloved annual tradition not only helps preserve our local [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/14/secure-your-spot-for-the-29th-annual-river-rally/">Secure Your Spot for the 29th Annual River Rally!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/14/secure-your-spot-for-the-29th-annual-river-rally/>
+
+---
+
+## Gameday predictions: UCLA vs Indiana
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+After two years of high anticipation, the Bruins are facing their first Big Ten opponent in a conference matchup. UCLA football (1-0) will enter the Rose Bowl for the first time this season on Saturday to meet Indiana (2-0) for an inaugural matchup between the programs. 
+
+<https://dailybruin.com/2024/09/14/gameday-predictions-ucla-vs-indiana/>
+
+---
+
+## Gallery: UCLA football scrapes by Hawaiʻi in season opener
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Bruins narrowly avoided defeat by the University of Hawaiʻi Rainbow Warriors last Saturday. The Bruins snuck a field goal in during the last minute of the fourth quarter to win with a score of 16 to 13. 
+
+<https://dailybruin.com/2024/09/14/gallery-ucla-football-scrapes-by-hawai%ca%bbi-in-season-opener-2/>
+
+---
+
+## Evacuations lifted or downgraded as firefighters make progress on 3 big SoCal fires
+
+date: 2024-09-14, updated: 2024-09-15, from: The LAist
+
+Cool weather and a marine layer are expected to continue helping firefighters. 
+
+<https://laist.com/news/climate-environment/wildfires-southern-california-bridge-fire-airport-fire-line-fire-los-angeles-orange-county-wkend>
+
+---
+
+## Want to start composting, but worried about space, materials and stink? Here’s how to get started
+
+date: 2024-09-14, updated: 2024-09-14, from: The LAist
+
+If you have a green bin — and if you rent in the city of L.A., you should — it will probably cost you $0 and a little freezer space to start composting. 
+
+<https://laist.com/news/climate-environment/composting-how-to-get-started>
+
+---
+
+## Scouting report: UCLA football vs. Indiana
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+It&#8217;s been two years since the news of the Bruins&#8217; Pac-12 departure broke – and it&#8217;s finally time for them to debut in the Big Ten. 
+
+<https://dailybruin.com/2024/09/13/scouting-report-ucla-football-vs-indiana/>
+
+---
+
+## No. 1 UCLA men’s water polo faces off against No. 9 UC Irvine on Friday
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Following a tournament sweep, the Bruins will face the opportunity to continue their perfect season.
+No. 1 UCLA men&#8217;s water polo (4-0) is set for competition this week as it faces off against No. 
+
+<https://dailybruin.com/2024/09/13/no-1-ucla-mens-water-polo-faces-off-against-no-9-uc-irvine-on-friday/>
+
+---
+
+## Mixed success results in a sixth place finish for UCLA women’s golf
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Alicia Um Holmes&#8217; second campaign has begun.
+Last season, Um Holmes was named Golfweek Women&#8217;s Coach of the Year, narrowly missed out on a national championship and secured the third-best scoring average in program history in only her first season with the Bruins. 
+
+<https://dailybruin.com/2024/09/13/mixed-success-results-in-a-sixth-place-finish-for-ucla-womens-golf/>
+
+---
+
+## Women’s soccer will officially start the Big Ten against Oregon on Saturday
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+The wait is almost over.
+While the Bruins became official members of the Big Ten at the beginning of August, Saturday&#8217;s game will mark the team&#8217;s conference debut. 
+
+<https://dailybruin.com/2024/09/13/womens-soccer-will-officially-start-the-big-ten-against-oregon-on-saturday/>
+
+---
+
+## Students struggle to keep cool as heatwave hits Westwood
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA students have tried to keep cool amid a blazing heat wave in Los Angeles.
+Southern California experienced extreme temperatures for nearly a full week after a heat wave arrived in Los Angeles last Tuesday. 
+
+<https://dailybruin.com/2024/09/13/students-struggle-to-keep-cool-as-heatwave-hits-westwood/>
 

@@ -1,11 +1,11 @@
 ---
 title: central coast
-updated: 2024-09-20 08:12:01
+updated: 2024-09-21 11:20:00
 ---
 
 # central coast
 
-(date: 2024-09-20 08:12:01)
+(date: 2024-09-21 11:20:00)
 
 ---
 
@@ -1012,4 +1012,127 @@ date: 2024-09-15, from: Newshawk, the freshest news in Santa Barbara County
  
 
 <https://www.noozhawk.com/county-increases-staff-for-mental-health-crisis-calls/>
+
+---
+
+## Jim Langley: Going Through the Valley of Despair
+
+date: 2024-09-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>We all will face challenges as we go through life! Going through the valley of despair may sound somewhat morbid, but those words depict quite well what many of us [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/jim-langley-going-through-the-valley-of-despair/">Jim Langley: Going Through the Valley of Despair</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/jim-langley-going-through-the-valley-of-despair/>
+
+---
+
+## Making an Entrance
+
+date: 2024-09-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-POD-Frank-DiMarco.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Entrance Hall at the Santa Barbara Museum of Art." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-POD-Frank-DiMarco.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-POD-Frank-DiMarco.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-POD-Frank-DiMarco.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-POD-Frank-DiMarco.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-POD-Frank-DiMarco.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-POD-Frank-DiMarco.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-POD-Frank-DiMarco.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-POD-Frank-DiMarco.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-POD-Frank-DiMarco.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-POD-Frank-DiMarco.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-POD-Frank-DiMarco.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-POD-Frank-DiMarco.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090524-POD-Frank-DiMarco.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/making-an-entrance/">Making an Entrance</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/making-an-entrance/>
+
+---
+
+## Kai Mault’s Big Night Vaults Santa Barbara Football to 28-21 Win Over Moorpark
+
+date: 2024-09-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-football-913.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-football-913.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-football-913.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-football-913.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-football-913.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-football-913.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-football-913.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-football-913.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-football-913.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-football-913.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-football-913.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A jaw-dropping three-touchdown performance by senior Kai Mault lifted Santa Barbara High football to a 28-21 win over Moorpark on Friday night at Peabody Stadium. Both teams came into the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/kai-maults-big-night-vaults-santa-barbara-football-to-28-21-win-over-moorpark/">Kai Mault&#8217;s Big Night Vaults Santa Barbara Football to 28-21 Win Over Moorpark</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/kai-maults-big-night-vaults-santa-barbara-football-to-28-21-win-over-moorpark/>
+
+---
+
+## Kaleb Williams Leads Dos Pueblos Football to First Win of Season Over Viewpoint, 38-7
+
+date: 2024-09-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-football.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-football.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-football.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-football.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-football.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-football.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-football.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-football.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-football.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-football.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-football.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It was a slow start to the season for the Dos Pueblos High football team, but on Friday night, the Chargers raced out to a lead and never looked back. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/kaleb-williams-leads-dos-pueblos-football-to-first-win-of-season-over-viewpoint-38-7/">Kaleb Williams Leads Dos Pueblos Football to First Win of Season Over Viewpoint, 38-7</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/kaleb-williams-leads-dos-pueblos-football-to-first-win-of-season-over-viewpoint-38-7/>
+
+---
+
+## San Marcos Football Has Comeback Fall Short in 21-20 Loss to Buena
+
+date: 2024-09-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>San Marcos football’s fourth-quarter comeback effort fell just short in a 21-20 loss to Buena on the road on Friday. The Bulldogs had control of the first three quarters of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/san-marcos-football-has-comeback-fall-short-in-21-20-loss-to-buena/">San Marcos Football Has Comeback Fall Short in 21-20 Loss to Buena</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/san-marcos-football-has-comeback-fall-short-in-21-20-loss-to-buena/>
+
+---
+
+## Santa Barbara Council to Consider Short-Term Changes to State Street
+
+date: 2024-09-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-State-Street-Changes-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The Santa Barbara City Council on Tuesday will consider several changes to State Street as part of a short-term action plan." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-State-Street-Changes-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-State-Street-Changes-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-State-Street-Changes-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-State-Street-Changes-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-State-Street-Changes-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-State-Street-Changes-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-State-Street-Changes-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-State-Street-Changes-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-State-Street-Changes-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-State-Street-Changes-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Santa Barbara City Council on Tuesday will consider making several changes to State Street, including reopening three more blocks to one-way traffic. The city staff has proposed a &#8220;short-term [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-council-to-consider-short-term-changes-to-state-street/">Santa Barbara Council to Consider Short-Term Changes to State Street</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-council-to-consider-short-term-changes-to-state-street/>
+
+---
+
+## Week 3 Local Prep Football Scores
+
+date: 2024-09-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara County Santa Barbara High 28, Moorpark 21 Dos Pueblos 38, Viewpoint 7 Buena 21, San Marcos 20 Mission Prep 30, Santa Ynez 13 Ventura County Pacifica 28, Rio [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/week-3-local-prep-football-scores/">Week 3 Local Prep Football Scores</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/week-3-local-prep-football-scores/>
+
+---
+
+## San Marcos Boys Water Polo Sweeps Doubleheader at South Coast Tournament
+
+date: 2024-09-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>San Marcos boys water polo picked up a pair of wins on the second day of the South Coast Tournament on Friday, defeating Murrieta Valley, 15-5, and San Juan High, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/san-marcos-boys-water-polo-sweeps-doubleheader-at-south-coast-tournament/">San Marcos Boys Water Polo Sweeps Doubleheader at South Coast Tournament</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/san-marcos-boys-water-polo-sweeps-doubleheader-at-south-coast-tournament/>
+
+---
+
+## UCSB Men’s Soccer Ends in Scoreless Draw with New Hampshire
+
+date: 2024-09-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Six games into the 2024 season, the UC Santa Barbara Men&#8217;s Soccer team has already surpassed its shutout total from 2023. The Gauchos earned their third clean sheet of the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-mens-soccer-ends-in-scoreless-draw-with-new-hampshire/">UCSB Men&#8217;s Soccer Ends in Scoreless Draw with New Hampshire</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-mens-soccer-ends-in-scoreless-draw-with-new-hampshire/>
+
+---
+
+## Prep Girls Tennis Roundup: Laguna Blanca, Carpinteria High Win Matchups
+
+date: 2024-09-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Laguna Blanca girls tennis captured a 6-3 victory over Cabrillo High on the road on Friday. The Owls dominated doubles play, as the three Laguna Blanca teams went undefeated en [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-tennis-roundup-laguna-blanca-carpinteria-high-win-matchups/">Prep Girls Tennis Roundup: Laguna Blanca, Carpinteria High Win Matchups</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-tennis-roundup-laguna-blanca-carpinteria-high-win-matchups/>
 

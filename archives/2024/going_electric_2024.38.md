@@ -1,11 +1,207 @@
 ---
 title: going electric
-updated: 2024-09-20 08:12:09
+updated: 2024-09-21 11:20:08
 ---
 
 # going electric
 
-(date: 2024-09-20 08:12:09)
+(date: 2024-09-21 11:20:08)
+
+---
+
+## Italian DC fast charger maker Alpitronic enters the US market [video]
+
+date: 2024-09-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Seite-1-KeyVisual_alpitronic_2hypercharger-scaled-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><em>Electrek</em>‘s Seth Weintraub went to Alpitronic America’s new HQ to speak with CEO Mike Doucleff about its plans to roll out its <a href="https://www.alpitronic.it/us/">ultra-fast chargers</a> across the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="alpitronic,dc-fast-charging,italy,north-carolina" data-layer-viewtype="unknown" data-post-id="380763" href="https://electrek.co/2024/09/20/italian-dc-fast-charger-maker-alpitronic-enters-the-us-market-video/#more-380763" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/20/italian-dc-fast-charger-maker-alpitronic-enters-the-us-market-video/>
+
+---
+
+## Volvo CE rolls out some new hotness at Volvo Days 2024 [part 1]
+
+date: 2024-09-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/IMG_3231.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>This week, Volvo Group held its once-every-three-years “Volvo Days” event in Shippensburg, PA for the first time since the pandemic, showing off tons (literally!) of new equipment, new trucks, and new concepts – including a couple of “world’s first” debuts.</p>
+
+
+
+<p>What is Volvo Days? That might require a bit of background …</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,volvo" data-layer-viewtype="unknown" data-post-id="380741" href="https://electrek.co/2024/09/20/volvo-ce-rolls-out-some-new-hotness-at-volvo-days-2024-part-1/#more-380741" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/20/volvo-ce-rolls-out-some-new-hotness-at-volvo-days-2024-part-1/>
+
+---
+
+## Lucid opens Detroit hub to tap into US legacy auto talent pool
+
+date: 2024-09-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Lucids-first-Gravity.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>EV maker <a href="https://electrek.co/guides/lucid-motors/">Lucid Motors</a> (LCID) opened its new office in Detroit this week, hoping to attract engineers from “one of the biggest talent pools in the Western world.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="380704" href="https://electrek.co/2024/09/20/lucid-opens-detroit-hub-us-legacy-auto-talent-pool/#more-380704" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/20/lucid-opens-detroit-hub-us-legacy-auto-talent-pool/>
+
+---
+
+## Automakers Have Backtracked On Their EV Goals By Millions Of Cars
+
+date: 2024-09-20, from: Inside EVs News
+
+Slowing down is a risky move given the momentum behind China's BYD and Tesla, BloombergNEF analysts say. 
+
+<https://insideevs.com/news/734616/automaker-ev-targets-bnef-study/>
+
+---
+
+## House GOP pass bill that would kill thousands, increase fuel costs $100B/yr
+
+date: 2024-09-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Capitol_Building_Full_View-public-domain-e1713472940371.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>House Republicans have passed a bill attempting to block <a href="https://electrek.co/2024/03/20/epa-softens-rule-that-would-save-you-billions-and-big-auto-is-still-mad-about-it/">new emissions standards</a> that will save thousands of lives and reduce fuel, health and climate costs for Americans by $100 billion per year. Thankfully, however, the bill will likely die in the Senate, and will be vetoed even if it doesn’t.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="epa,republican-party-united-states" data-layer-viewtype="unknown" data-post-id="380692" href="https://electrek.co/2024/09/20/house-republicans-vote-to-kill-thousands-increase-fuel-costs-100b-yr/#more-380692" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/20/house-republicans-vote-to-kill-thousands-increase-fuel-costs-100b-yr/>
+
+---
+
+## Ford F-150 Lightning and Kia’s new EV9 are the most popular EVs on Cars.com
+
+date: 2024-09-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Kia-EV9-sales-first-year.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As new electric vehicles hit the market, discounts continue piling up as automakers fight for sales. According to new research, the most popular EVs on <em>Cars.com</em> right now are the Ford F-150 Lightning, Mustang Mach-E, and <a href="https://electrek.co/guides/kia-ev9/">Kia EV9</a>, all of which feature massive incentives this month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford-f-150-lightning,kia-ev9" data-layer-viewtype="unknown" data-post-id="380690" href="https://electrek.co/2024/09/20/ford-lightning-kia-ev9-most-popular-evs-cars-com/#more-380690" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/20/ford-lightning-kia-ev9-most-popular-evs-cars-com/>
+
+---
+
+## $10,000 BYD Seagull EV Outsold All Other Cars In China Last Month
+
+date: 2024-09-20, from: Inside EVs News
+
+It’s not hard to see why these exceedingly affordable yet fully featured electric city cars are flying out of showrooms. 
+
+<https://insideevs.com/news/734623/byd-seagull-best-selling-china/>
+
+---
+
+## ENGWE EP-2 PRO e-bike at exclusive $599 low, save $3,217 with DELTA Pro bundle, new Blix Sol X Comfort e-bike special, more
+
+date: 2024-09-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/ENGWE-EP-2-PRO-Electric-Bike.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>We’re bringing you another jam-packed day of Green Deals to close out the week, with another exclusive discount for our readers leading the pack, dropping the <a href="https://9to5toys.com/2024/09/19/9to5toys-readers-can-now-get-an-exclusive-250-off-engwes-ep-2-pro-class-3-electric-bike-at-new-599-low/">ENGWE EP-2 PRO Electric Bike</a> down to a <a href="https://9to5toys.com/2024/09/19/9to5toys-readers-can-now-get-an-exclusive-250-off-engwes-ep-2-pro-class-3-electric-bike-at-new-599-low/">new $599 low</a>. Next, we’re highlighting EcoFlow’s bundle on the <a href="https://9to5toys.com/2024/09/19/bundle-ecoflows-delta-pro-3600wh-power-station-with-a-400w-panel-at-3099-and-get-1000-in-free-gear/">DELTA Pro Portable Power Station with a 400W solar panel for $3,099</a> that also gives you an additional $1,000 in free gear, as well as Blix launching its latest <a href="https://9to5toys.com/2024/09/20/blix-expands-new-e-bike-series-with-sol-x-1799-launch-special-and-bonus-gift-reg-1988-value/">Sol X Comfort e-bike at a $1,799</a> special with a free gift. You’ll also find the lowest prices on <a href="https://9to5toys.com/2024/09/20/segways-2nd-gen-ninebot-s2-smart-self-balancing-scooter-falls-to-new-494-amazon-low-reg-550/">Segway’s Ninebot S2 Smart Self-Balancing Scooter</a>, and three tool deals from <a href="https://9to5toys.com/2024/09/19/second-chance-at-scoring-the-greenworks-pro-tier-3000-psi-electric-pressure-washer-at-its-290-low-reg-450/">Greenworks</a>, <a href="https://9to5toys.com/2024/09/19/goal-zeros-versatile-500-lumen-torch-light-doubles-as-a-5200mah-solar-power-bank-at-new-30-low/">Goal Zero</a>, and <a href="https://9to5toys.com/2024/09/20/save-space-time-and-money-with-worxs-20v-12-inch-trimmer-edger-mini-mower-at-100-today-only/">Worx</a> (lasting just for today). Plus, all the other hangover Green Deals in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2024/09/19/rad-powers-radrover-6-plus-step-thru-e-bike-hits-new-1299-low-in-latest-sale-300-off-more/">Rad Power e-bike sale</a>, or the new <a href="https://9to5toys.com/2024/09/19/bluettis-latest-ac50b-448wh-lifepo4-portable-power-station-now-starts-from-the-279-low-reg-399/">Bluetti AC50B power station low</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="380680" href="https://electrek.co/2024/09/20/engwe-ep-2-pro-e-bike-delta-pro-bundle-blix-sol-x-comfort-e-bike-special-more/#more-380680" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/20/engwe-ep-2-pro-e-bike-delta-pro-bundle-blix-sol-x-comfort-e-bike-special-more/>
+
+---
+
+## Volvo EX30 continues sales surge as Europe’s second best-selling EV in August
+
+date: 2024-09-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/Volvo-first-EX30-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Despite its small size, Volvo’s cheapest EV continued its dominant run last month in Europe. The <a href="https://electrek.co/guides/volvo-ex30/">Volvo EX30</a> was Europe’s second-best-selling EV, behind only the Tesla Model Y, as sales continued surging.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo,volvo-ex30" data-layer-viewtype="unknown" data-post-id="380665" href="https://electrek.co/2024/09/20/volvo-ex30-europes-second-best-selling-ev-august/#more-380665" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/20/volvo-ex30-europes-second-best-selling-ev-august/>
+
+---
+
+## The feds give NanoGraf $60M to build a huge EV battery materials factory in Michigan
+
+date: 2024-09-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/NanoGraf-EV-charging.jpg?quality=82&#038;strip=all&#038;w=1440" /></div><p>Chicago-based <a href="http://nanograf.com/">NanoGraf</a> will build a $175 million factory to produce 2,500 tons of silicon anode material to support up to 1.5 million EVs per year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="380577" href="https://electrek.co/2024/09/20/the-feds-give-nanograf-60m-to-build-a-huge-ev-battery-materials-factory-in-michigan/#more-380577" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/20/the-feds-give-nanograf-60m-to-build-a-huge-ev-battery-materials-factory-in-michigan/>
+
+---
+
+## Podcast: Alpitronic interview, Tesla Semi update, GM goes NACS, and more
+
+date: 2024-09-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we interview Alpitronic CEO Mike Doucleff,  we discuss a Tesla Semi update, GM going NACS, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Electrek_9-20-24.mp3"></audio></figure>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="380657" href="https://electrek.co/2024/09/20/podcast-alpitronic-interview-tesla-semi-update-gm-goes-nacs-and-more/#more-380657" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/20/podcast-alpitronic-interview-tesla-semi-update-gm-goes-nacs-and-more/>
+
+---
+
+## Volkswagen Polo production ends in Europe to prep for smaller, more affordable EVs
+
+date: 2024-09-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/VW-ID.-2all.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After 40 years, <a href="https://electrek.co/guides/volkswagen/">Volkswagen</a> is no longer building Polo models in Europe. VW has ended Polo production in Europe as it shifts focus to smaller, more affordable EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,vw" data-layer-viewtype="unknown" data-post-id="380580" href="https://electrek.co/2024/09/20/vw-polo-production-ends-europe-prep-affordable-evs/#more-380580" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/20/vw-polo-production-ends-europe-prep-affordable-evs/>
+
+---
+
+## U.S. To Supercharge Battery Production With New $3 Billion Push
+
+date: 2024-09-20, from: Inside EVs News
+
+Check out what the 25 battery companies will do with millions of dollars of federal grants. 
+
+<https://insideevs.com/news/734612/biden-harris-administration-3-billion-battery-production/>
+
+---
+
+## Lightyear nabs 10M euros in funding as it looks to reincarnate as a solar systems provider
+
+date: 2024-09-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Lightyear-solar-logo.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lightyear, yes, Lightyear (remember them?), is reemerging from the ashes of a failed solar electric vehicle venture and has just secured 10 million euros to boost its operation of developing and providing other OEMs with advanced solar systems. This isn’t the <a href="https://electrek.co/guides/lightyear/">Lightyear </a>you remember, but it is fighting on in its original quest to bring more sustainable energy to the automotive industry.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lightyear,solar-panel" data-layer-viewtype="unknown" data-post-id="380573" href="https://electrek.co/2024/09/20/lightyear-nabs-10m-euros-in-funding-as-solar-systems-provider/#more-380573" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/20/lightyear-nabs-10m-euros-in-funding-as-solar-systems-provider/>
 
 ---
 
@@ -86,6 +282,10 @@ Dual motor EVs' blend of more power, more weight and higher repair costs than co
 date: 2024-09-20, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time that includes new e-bikes from Ride1Up, new e-scooters from NIU, Ted Cruz’s war against safer e-bike batteries, Talaria MX5 fire, Gogoro’s CEO resigning, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Wheel-E_9-20-24.mp3"></audio></figure>
 
 
 
@@ -1268,4 +1468,62 @@ date: 2024-09-15, from: Electrek Feed
  <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,fedex,workhorse" data-layer-viewtype="unknown" data-post-id="379938" href="https://electrek.co/2024/09/15/fedex-orders-15-more-workhorse-w56-electric-delivery-vans/#more-379938" class="more-link">more…</a> 
 
 <https://electrek.co/2024/09/15/fedex-orders-15-more-workhorse-w56-electric-delivery-vans/>
+
+---
+
+## There are now more electric cars than gas cars on Norway’s roads
+
+date: 2024-09-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/01/norway-charging-lead.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Sometime this month, Norway will have more electric cars on its roads than petrol-only vehicles, according to an analysis of Norwegian government data.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="norway" data-layer-viewtype="unknown" data-post-id="379930" href="https://electrek.co/2024/09/14/there-are-now-more-electric-cars-than-gas-cars-on-norways-roads/#more-379930" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/14/there-are-now-more-electric-cars-than-gas-cars-on-norways-roads/>
+
+---
+
+## Tesla Model Y, Model 3 With $0 Down Is The Hottest EV Deal This Month
+
+date: 2024-09-14, from: Inside EVs News
+
+These are arguably some of the best financing offers on the Model 3 and Model Y we've ever seen. 
+
+<https://insideevs.com/news/733775/tesla-model-3-model-y-deal/>
+
+---
+
+## Tesla Model 3 Performance Holds Its Own Racing BMW M3 CS, Mercedes C63 PHEV
+
+date: 2024-09-14, from: Inside EVs News
+
+The Tesla is the cheapest out of the three cars and the quickest to accelerate without using launch control. 
+
+<https://insideevs.com/news/733662/model3-m3-c63-drag-race/>
+
+---
+
+## Two Tesla Cybertrucks Drove 11,000 Miles From Florida To Arctic Ocean And Back
+
+date: 2024-09-14, from: Inside EVs News
+
+No generators were involved in the trek, and–better yet–six new Tesla Level 2 chargers were installed on Canada’s Dempster Highway. 
+
+<https://insideevs.com/news/733505/tesla-cybertruck-arctic-ocean-11000-miles/>
+
+---
+
+## Gogoro CEO resigns amid accusations of subsidy fraud
+
+date: 2024-09-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/05/gogoro-korea-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Horace Luke, the founder and CEO of the world’s leading electric vehicle battery-swapping company <a href="http://gogoro.com">Gogoro</a>, just announced his resignation. The move comes during a period of growing financial losses for the company and follows accusations of potential subsidy fraud in its domestic market of Taiwan.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="gogoro" data-layer-viewtype="unknown" data-post-id="379917" href="https://electrek.co/2024/09/14/gogoro-ceo-resigns-amid-accusations-of-subsidy-fraud/#more-379917" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/14/gogoro-ceo-resigns-amid-accusations-of-subsidy-fraud/>
 

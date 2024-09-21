@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2024-09-20 08:12:05
+updated: 2024-09-21 11:20:04
 ---
 
 # journalism
 
-(date: 2024-09-20 08:12:05)
+(date: 2024-09-21 11:20:04)
+
+---
+
+## Football makes Big Ten debut at the Big House
+
+date: 2024-09-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>In this episode of “Talkin' Troy”, host Marcus Partida, Jackson Smith and Charlie Kayne analyze how the Trojan offense and defense match up against the Wolverines, and score predictions heading into Saturday.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/20/football-makes-big-ten-debut-at-the-big-house/">Football makes Big Ten debut at the Big House</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/20/football-makes-big-ten-debut-at-the-big-house/>
 
 ---
 
@@ -340,6 +352,16 @@ date: 2024-09-19, from: The Round Up (Pierce College Student Newspaper)
  
 
 <https://theroundupnews.com/2024/09/19/discovering-the-wonder-of-astronomy/?utm_source=rss&utm_medium=rss&utm_campaign=discovering-the-wonder-of-astronomy>
+
+---
+
+## Matadors struggle in season opener at Palouse Collegiate
+
+date: 2024-09-19, from: The Sundail (CSUN Student Newspaper)
+
+The Matadors teed off with the season opener on Sept. 10, finishing last at the Palouse Collegiate. This was their first visit to the Palouse Ridge Golf Club, where they... 
+
+<https://sundial.csun.edu/185004/sports/matadors-struggle-in-season-opener-at-palouse-collegiate/>
 
 ---
 
@@ -1209,4 +1231,121 @@ The Big Ten&#8217;s newest entrant picked up their first conference win and let 
 UCLA men&#8217;s soccer (3-1-2) buried an early goal to beat No. 
 
 <https://dailybruin.com/2024/09/14/ucla-mens-soccer-takes-road-victory-not-slowed-by-first-big-ten-opponent/>
+
+---
+
+## Emmys 2024: The Daily Bruin casts predictions for 76th Primetime Emmy Awards
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Television&#8217;s most illustrious night is returning in glistening gold with the annual Emmy awards.
+On Sunday, the Emmys will honor its 76th year of commendation at Los Angeles’ Peacock Theater. 
+
+<https://dailybruin.com/2024/09/14/emmys-2024-the-daily-bruin-casts-predictions-for-76th-primetime-emmy-awards/>
+
+---
+
+## Emmys 2024: ‘Mr. and Mrs. Smith’ writer Adamma Ebo on creative inspiration and directing rise
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+From Westwood to the writing room, Adamma Ebo has proven herself to be one to watch.
+The alumnus of UCLA’s School of Theater, Film and Television is one of the creative voices behind the Amazon Prime Video series “Mr. 
+
+<https://dailybruin.com/2024/09/14/emmys-2024-mr-and-mrs-smith-writer-adamma-ebo-on-creative-inspiration-and-directing-rise/>
+
+---
+
+## Emmys 2024: ‘Abbot Elementary’ writer and TFT alumnus Justin Tan reflects on career
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Sept. 14 at 7:46 p.m.</em>
+After transferring from BuzzFeed shorts to Willard R. Abbott Public School, Justin Tan is chasing more than views now – he’s chasing Emmys. 
+
+<https://dailybruin.com/2024/09/14/emmys-2024-abbot-elementary-writer-and-tft-alumnus-justin-tan-reflects-on-career/>
+
+---
+
+## Gameday predictions: UCLA vs Indiana
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+After two years of high anticipation, the Bruins are facing their first Big Ten opponent in a conference matchup. UCLA football (1-0) will enter the Rose Bowl for the first time this season on Saturday to meet Indiana (2-0) for an inaugural matchup between the programs. 
+
+<https://dailybruin.com/2024/09/14/gameday-predictions-ucla-vs-indiana/>
+
+---
+
+## Gallery: UCLA football scrapes by Hawaiʻi in season opener
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Bruins narrowly avoided defeat by the University of Hawaiʻi Rainbow Warriors last Saturday. The Bruins snuck a field goal in during the last minute of the fourth quarter to win with a score of 16 to 13. 
+
+<https://dailybruin.com/2024/09/14/gallery-ucla-football-scrapes-by-hawai%ca%bbi-in-season-opener-2/>
+
+---
+
+## Gallery: UCLA football scrapes by Hawaiʻi in season opener
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Bruins narrowly avoided defeat by the University of Hawaiʻi Rainbow Warriors last Saturday. The Bruins snuck a field goal in during the last minute of the fourth quarter to win with a score of 16 to 13. 
+
+<https://dailybruin.com/2024/09/14/gallery-ucla-football-scrapes-by-hawaii-in-season-opener-2>
+
+---
+
+## Scouting report: UCLA football vs. Indiana
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+It&#8217;s been two years since the news of the Bruins&#8217; Pac-12 departure broke – and it&#8217;s finally time for them to debut in the Big Ten. 
+
+<https://dailybruin.com/2024/09/13/scouting-report-ucla-football-vs-indiana/>
+
+---
+
+## No. 1 UCLA men’s water polo faces off against No. 9 UC Irvine on Friday
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Following a tournament sweep, the Bruins will face the opportunity to continue their perfect season.
+No. 1 UCLA men&#8217;s water polo (4-0) is set for competition this week as it faces off against No. 
+
+<https://dailybruin.com/2024/09/13/no-1-ucla-mens-water-polo-faces-off-against-no-9-uc-irvine-on-friday/>
+
+---
+
+## Mixed success results in a sixth place finish for UCLA women’s golf
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Alicia Um Holmes&#8217; second campaign has begun.
+Last season, Um Holmes was named Golfweek Women&#8217;s Coach of the Year, narrowly missed out on a national championship and secured the third-best scoring average in program history in only her first season with the Bruins. 
+
+<https://dailybruin.com/2024/09/13/mixed-success-results-in-a-sixth-place-finish-for-ucla-womens-golf/>
+
+---
+
+## Women’s soccer will officially start the Big Ten against Oregon on Saturday
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+The wait is almost over.
+While the Bruins became official members of the Big Ten at the beginning of August, Saturday&#8217;s game will mark the team&#8217;s conference debut. 
+
+<https://dailybruin.com/2024/09/13/womens-soccer-will-officially-start-the-big-ten-against-oregon-on-saturday/>
+
+---
+
+## Students struggle to keep cool as heatwave hits Westwood
+
+date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA students have tried to keep cool amid a blazing heat wave in Los Angeles.
+Southern California experienced extreme temperatures for nearly a full week after a heat wave arrived in Los Angeles last Tuesday. 
+
+<https://dailybruin.com/2024/09/13/students-struggle-to-keep-cool-as-heatwave-hits-westwood/>
 

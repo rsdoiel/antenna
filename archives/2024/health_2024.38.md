@@ -1,11 +1,11 @@
 ---
 title: health
-updated: 2024-09-20 08:12:08
+updated: 2024-09-21 11:20:07
 ---
 
 # health
 
-(date: 2024-09-20 08:12:08)
+(date: 2024-09-21 11:20:07)
 
 ---
 
@@ -216,4 +216,16 @@ date: 2024-09-17, from: Frontiers in Cellular and Infection Microbiology
 BackgroundThe relationship between dysbiosis of the gastrointestinal microbiota and gastric cancer (GC) has been extensively studied. However, microbiota alterations in GC patients vary widely across studies, and reproducible diagnostic biomarkers for early GC are still lacking in multiple populations. Thus, this study aimed to characterize the gastrointestinal microbial communities involved in gastric carcinogenesis through a meta-analysis of multiple published and open datasets.MethodsWe analyzed 16S rRNA sequencing data from 1,642 gastric biopsy samples and 394 stool samples across 11 independent studies. VSEARCH, QIIME and R packages such as vegan, phyloseq, cooccur, and random forest were used for data processing and analysis. PICRUSt software was employed to predict functions.ResultsThe α-diversity results indicated significant differences in the intratumoral microbiota of cancer patients compared to non-cancer patients, while no significant differences were observed in the fecal microbiota. Network analysis showed that the positive correlation with GC-enriched bacteria increased, and the positive correlation with GC-depleted bacteria decreased compared to healthy individuals. Functional analyses indicated that pathways related to carbohydrate metabolism were significantly enriched in GC, while biosynthesis of unsaturated fatty acids was diminished. Additionally, we investigated non-Helicobacter pylori (HP) commensals, which are crucial in both HP-negative and HP-positive GC. Random forest models, constructed using specific taxa associated with GC identified from the LEfSe analysis, revealed that the combination of Lactobacillus and Streptococcus included alone could effectively discriminate between GC patients and healthy individuals in fecal samples (area under the curve (AUC) = 0.7949). This finding was also validated in an independent cohort (AUC = 0.7712).ConclusionsThis study examined the intratumoral and fecal microbiota of GC patients from a dual microecological perspective and identified Lactobacillus, Streptococcus, Roseburia, Faecalibacterium and Phascolarctobacterium as intratumoral and intestinal-specific co-differential bacteria. Furthermore, it confirmed the validity of the combination of Lactobacillus and Streptococcus as GC-specific microbial markers across multiple populations, which may aid in the early non-invasive diagnosis of GC. 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2024.1397466>
+
+---
+
+## Can Stress Cause Kidney Stones?
+
+date: 2024-09-14, from: The Kidney Dietitian
+
+<p>Your emotional health is equally important to your physical health. The &#8220;mind-body&#8221; connection doesn&#8217;t get as much credit as it should. Stress is rampant in our lives and contributes to a host of health conditions, including kidney stones. As you may already know, stress can also impact your eating habits. Whether you find yourself drinking [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/kidney-stones-and-stress/">Can Stress Cause Kidney Stones?</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<https://www.thekidneydietitian.org/kidney-stones-and-stress/>
 

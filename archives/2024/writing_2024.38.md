@@ -1,11 +1,80 @@
 ---
 title: writing
-updated: 2024-09-20 08:12:04
+updated: 2024-09-21 11:20:02
 ---
 
 # writing
 
-(date: 2024-09-20 08:12:04)
+(date: 2024-09-21 11:20:02)
+
+---
+
+## ⌚️ #218 - The Time is Right (Now)
+
+date: 2024-09-20, from: Interesting, a blog on writing
+
+When waiting until you're ready means waiting forever. 
+
+<https://inneresting.substack.com/p/218-the-time-is-right-now>
+
+---
+
+## Featured Friday: Organized Crime
+
+date: 2024-09-20, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at the operatic conflicts and power struggles of organized crime stories, what makes their anti-heroes so compelling, and why as far back as we can remember we always wanted to be a [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-organized-crime">Featured Friday: Organized Crime</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/featured-friday-organized-crime>
+
+---
+
+## Locus Bestsellers, September
+
+date: 2024-09-20, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+
+<strong>The Locus Bestsellers for May include top titles: The Familiar by Leigh Bardugo (Flatiron), Dune by Frank Herbert (Ace), </strong><strong>A Court of Frost and Starlight by Sarah J. Maas (Bloomsbury US), and Warhammer 40,000: Eisenhorn: The Omnibus by Dan Abnett (Black Library).</strong>
+
+</div>
+<p></p>
+<div class="postcontent">
+
+
+
+
+HARDCOVERS
+Months
+on list
+Last
+month
+
+
+1)
+<strong>I’m Afraid You’ve Got Dragons</strong>, Peter S. Beagle (Saga)
+2
+2
+
+
+2)
+ <strong>Iron Flame</strong>, Rebecca Yarros (Red Tower)
+8
+</div> <a href="https://locusmag.com/2024/09/locus-bestsellers-september-4/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/09/locus-bestsellers-september-4/>
+
+---
+
+## Gabino Iglesias Reviews Incidents Around the House by Josh Malerman
+
+date: 2024-09-20, from: Locus Magazine
+
+<p><strong>Incidents Around the House, </strong>Josh Malerman (Del Rey 978-0-59372-312-8, $28.00, 384pp, hc) June 2024.</p>
+<p>After so many great novels – <strong>Bird Box</strong>, <strong>Goblin</strong>, <strong>Black Mad Wheel</strong>, <strong>Daphne </strong>– perhaps the most impressive thing about Josh Malerman is that he seems to be getting better with each new novel. That’s certainly the case with <strong>Incidents Around the House</strong>, which is the author’s fastest, sharpest, creepiest novel to  <a href="https://locusmag.com/2024/09/gabino-iglesias-reviews-incidents-around-the-house-by-josh-malerman/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/gabino-iglesias-reviews-incidents-around-the-house-by-josh-malerman/>
 
 ---
 
@@ -320,4 +389,47 @@ date: 2024-09-15, from: Locus Magazine
 <p><strong>KATHRYN </strong> <a href="https://locusmag.com/2024/09/people-publishing-roundup-september-2024/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/09/people-publishing-roundup-september-2024/>
+
+---
+
+## 🧟 #217 - We're not using the "Z" word.
+
+date: 2024-09-14, from: Interesting, a blog on writing
+
+Do we know what kind of story we're in, and will it matter? 
+
+<https://inneresting.substack.com/p/217-were-not-using-the-z-word>
+
+---
+
+## Mouth by Puloma Ghosh: Review by Ian Mond
+
+date: 2024-09-14, from: Locus Magazine
+
+<p><strong>Mouth</strong>, Puloma Ghosh (Astra House 978-1-66260-247-4, $26.00, 224pp, hc) June 2024.</p>
+<p>Reading Puloma Ghosh’s debut collection, <strong>Mouth</strong>, brought me back to the pandemic and the months spent in lockdown. To be clear, not one of the eleven stories in the book takes place during or refers to COVID, but isolation and loneliness are so central to Ghosh’s work, her protagonist’s aching for intimacy, that my thoughts were cast  <a href="https://locusmag.com/2024/09/ian-mond-reviews-mouth-by-puloma-ghosh/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/ian-mond-reviews-mouth-by-puloma-ghosh/>
+
+---
+
+## The Top New SFF Books for the Week of 9/10/24
+
+date: 2024-09-14, from: Locus Magazine
+
+<p>You love to know what books are coming out right now? We&#8217;ve got you!</p>
+<p>Check out our weekly update for SF, fantasy, and horror books with Amelia over at our YouTube channel. Don&#8217;t forget to hit the thumb&#8217;s up and subscribe so you know when a new video goes up!</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2024/09/the-top-new-sff-books-for-the-week-of-9-10-24/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/09/the-top-new-sff-books-for-the-week-of-9-10-24/>
+
+---
+
+## Beetlejuice Beetlejuice: Sequel Magic or Missed Opportunity? A Movie Review by Erin Underwood
+
+date: 2024-09-14, from: Locus Magazine
+
+<p>Tim Burton returns to direct <strong>Beetlejuice 2</strong> (2024), also known as <strong>Beetlejuice Beetlejuice</strong>, in this wickedly wild sequel that takes on the 1988 classic, starring Michael Keaton, Winona Ryder, and Jenna Ortega. Since so many remakes and sequels this year have fallen flat, despite media buzz and excitement, it was easy to be skeptical about this film. Could it live up to the original? With Tim Burton, most of  <a href="https://locusmag.com/2024/09/beetlejuice-beetlejuice-sequel-magic-or-missed-opportunity-a-movie-review-by-erin-underwood/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/beetlejuice-beetlejuice-sequel-magic-or-missed-opportunity-a-movie-review-by-erin-underwood/>
 

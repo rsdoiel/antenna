@@ -1,11 +1,222 @@
 ---
 title: columns
-updated: 2024-09-20 08:12:02
+updated: 2024-09-21 11:20:01
 ---
 
 # columns
 
-(date: 2024-09-20 08:12:02)
+(date: 2024-09-21 11:20:01)
+
+---
+
+## Guest post: "Some thoughts on computers", by Chris da Kiwi
+
+date: 2024-09-20, from: Liam on Linux
+
+<em>A friend of mine via the Ubuntu mailing list for the last couple of decades, Chris is bedbound now and tells me he's in his final weeks of life. He shared with me a piece he's written. I've lightly edited it before sharing it, and if he's feeling up to it, there is some more he wants to say. We would welcome thoughts and comments on it.<br /><br /></em><span><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 12pt; font-family: &quot;Liberation Serif&quot;; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some thoughts on Computers</span></p><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;">&nbsp;</p></span><span><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">The basic design of computers hasn't changed much since the mechanical one, the Difference Engine, invented by Charles Babbage in 1822 &ndash; but not built until 1991. Alan Turing invented computer science, and the ENIAC in 1945 was arguably the first electronic general-purpose digital computer. It filled a room. The</span><a href="https://en.wikipedia.org/wiki/Micral" style="text-decoration-line: none;"><span style="font-size: 14pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"> </span><span style="font-size: 14pt; font-family: Arial, sans-serif; color: rgb(17, 85, 204); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;">Micral N</span></a><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"> was the world's first &ldquo;personal computer,&rdquo; in 1973.</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">&nbsp;</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Since then, the basic design has changed little, other than to become smaller, faster, and on occasions, less useful.</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">&nbsp;</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">The current trend to lighter, smaller gadget-style toys &ndash; like cell phones, watches, headsets of various types, and other consumer toys &ndash; is an indication that the industry has fallen into the clutches of mainstream profiteering, with very little real innovation now at all.</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">&nbsp;</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">I was recently looking for a new computer for my wife and headed into one of the main laptop suppliers only to be met with row upon row of identical machines, at various price points arrived at by that mysterious breed known as &quot;marketers&quot;. In fact, the only difference in the plastic on display was how much drive space had the engineers fitted in, and how much RAM did they have. Was the case a pretty colour, that appealed to the latest 10-year-old-girl, or a rugged he-man, who was hoping to make the school whatever team? In other words, rows of blah.</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">&nbsp;</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Where was the excitement of the early Radio Shack &quot;do-it-yourself&quot; range: the Sinclair ZX80, the Commodore 8-bits (PET and VIC-20), later followed by the C64? What has happened to all the excitement and innovation? My answer is simple: the great big clobbering machine known as &quot;Big Tech&quot;.</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">&nbsp;</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><a style="text-decoration-line: none;"><span style="font-size: 14pt; font-family: Arial, sans-serif; color: rgb(17, 85, 204); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;">Intel released its first 8080 processor in 1972 and later followed up with variations on a theme</span></a><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"> [PDF], eventually leading to the 80286, the 80386, the 80486 (getting useful), and so on. All of these variations needed an operating system which basically was a variation of MS-DOS, or more flexibly, PC DOS. Games started to appear, and some of them were quite good. But the main driver of the computer was software.</span></p><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">In particular, word-processors and spreadsheets.&nbsp;</span></p><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">At the time, my lost computer soul had found a niche in CP/M, which on looking back was a lovely little operating system &ndash; but quietly disappeared into the badlands of marketing.&nbsp;</span></p><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Lost and lonely I wandered the computerverse until I hooked up with Sanyo &ndash; itself now long gone the way of the velociraptor and other lost prehistoric species.</span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"><br /></span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">&nbsp;</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">The Sanyo bought build quality, the so-called &quot;lotus card&quot; to make it fully compatible with the IBM PC, and later, an RGB colour monitor and a 10 gig hard drive. The basic model was still two 5&frac14;&quot; floppy drives, which they pushed up to 720kB, and later the 3.&frac12;&quot; 1.25MB floppy drives. Ahead of its time, it too went the way of the dinosaur.</span></p><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">These led to the Sanyo AT-286, which became a mainstay, along with the Commodore 64. A pharmaceutical company had developed a software system for pharmacies that included stock control, ordering, and sales systems. I vaguely remember that machine and software bundle was about NZ$ 15,000, which was far too rich for most.</span></p><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Then the computer landscape began to level out, as the component manufacturers began to settle on the IBM PC-AT as a compatible, open-market model of computer that met the Intel and DOS standards. Thus, the gradual slide into 100 versions of mediocrity.</span></p><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">The consumer demand was for bigger and more powerful machines, whereas the industry wanted to make more profits. A conflict to which the basic computer scientists hardly seemed to give a thought.</span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"><br /><br /></span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">I was reminded of Carl Jung's dictum: that &ldquo;greed would destroy the West.&rdquo;&nbsp;</span></p><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">A thousand firms sprang up, all selling the same little boxes, whilst the marketing voices kept trumpeting the bigger/better/greater theme&hellip; and the costs kept coming down, as businesses became able to afford these machines, and head offices began to control their outlying branches through the mighty computer.&nbsp;</span></p><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">I headed overseas, to escape the bedlam, and found a spot in New Guinea &ndash; only to be overrun by a mainframe run from Australia, which was going to run my branch &ndash; for which I was responsible, but without any control.</span></p><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Which side of the fence was I going to land on? The question was soon answered by the Tropical Diseases Institute in Darwin, which diagnosed dengue fever&hellip; and so I returned to NZ.</span></p><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">For months I battled this recurring malady, until I was strong enough to attend a few hardware and programming courses at the local Polytechnic, eventually setting up my own small computer business, building up 386 machines for resale, followed by 486 and eventually a Texas Instrument laptop agency.</span></p><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">These ran well enough, but had little battery life, and although they were rechargeable, they needed to be charged every two or three hours. At least the WiFi worked pretty consistently, and for the road warrior, gave a point of distinction.</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: &quot;Liberation Serif&quot;; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">[I think Chris is getting his time periods mixed up here. &mdash;Ed.]</span></p><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Then the famous 686 arrived, and by the use of various technologies, RAM began to climb up to 256MB, and in some machines 512MB.</span></p><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Was innovation happening? </span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">No &ndash;</span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"> just more marketing changes. As in, some machines came bundled with software, printers or other peripherals, such as modems.</span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"><br /><br /></span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">As we ended the 20th century, we bought bigger and more powerful machines. The desktop was being chased by the laptop, until I stood at a long row of shiny boxes that were basically all the same, wondering which one my wife would like&hellip; knowing that it would have to connect to the so-called &quot;internet&quot;, and in doing so, make all sorts of decisions inevitable.</span></p><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Eventually I chose a smaller Asus, with 16GB of main RAM and an nVidia card, and retreating to my cottage, collapsed in despair. Fifty years of computing and wasted innovation left her with a black box that, when she opened, it said &ldquo;HELLO&rdquo; against a big blue background that promised the world &ndash; but only offered more of the same.&nbsp; As in, a constant trickle of hackers, viruses, Trojans and barely anything useful &ndash; but now included a new perversion called a chat-bot or &ldquo;AI&rdquo;.</span></p><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">I retired to my room in defeat.</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">&nbsp;</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">We have had <a href="https://en.wikipedia.org/wiki/List_of_Intel_processors#All_processors">incremental developments</a>, until we have today's latest chips from Intel and AMD based on the 64-bit architecture first introduced around April 2003.</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">&nbsp;</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">So where is the 128-bit architecture &ndash; or the 256 or the 512-bit?</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">&nbsp;</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">What would happen if we got </span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">really</span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"> innovative? I still remember Bill Gates saying &quot;Nobody will ever need more than 640k of RAM.&quot; And yet, it is common now to buy machines with 8 or 16 or 32GB of RAM, because the poor quality of operating systems fills the memory with poorly-written garbage that causes memory leaks, stack-overflow errors and other memory issues.</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">&nbsp;</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Then there is Unix &ndash; or since the advent of Richard Stallman and Linus Torvalds, GNU/Linux. A solid, basic series of operating systems, by various vendors, that simply do what they are asked.&nbsp;</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">I wonder where all this could head, if computer manufacturers climbed onboard and developed, for example, a laptop with an HDMI screen, a rugged case with a removable battery, a decent sound system, with a good-quality keyboard, backlit with per-key colour selection. Enough RAM slots to boost the main memory up to say 256GB, and video RAM to 64GB, allowing high speed draws to the screen output.</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">&nbsp;</span></p><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Throw away the useless touch pads. With the advent of Bluetooth mice, they are no longer needed. Instead, include an 8TB NVMe drive, then include a decent set of controllable fans and heatpipes that actually kept the internal temperatures down, so as to not stress the RAM and processors.</span></p><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">I am sure this could be done, given that some manufacturers, such as Tuxedo, are already showing some innovation in this area.&nbsp;</span></p><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Will it happen? I doubt it. The clobbering machine will strike again.</span></p><br /><br /><p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Friday September 20</span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"><span style="font-size:0.6em;vertical-align:super;">th</span></span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"> 2024&nbsp;</span></p></span><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=91759" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<https://liam-on-linux.dreamwidth.org/91759.html>
+
+---
+
+## 2024-09-21 Getting started with that open table
+
+date: 2024-09-20, from: Alex Schroeder's Blog
+
+<h1 id="2024-09-21-getting-started-with-that-open-table">2024-09-21 Getting started with that open table</h1>
+
+<p>It‘s not that easy, unfortunately.</p>
+
+<p>We used a dedicated channel where referees post game dates, and when people say they want to play on that day, the announcement is updated to include their name. If not enough people sign up, the game is cancelled.</p>
+
+<p>There is a social channel that provides community and prevents the server from falling away into ignored-land. Not sure how important that is.</p>
+
+<p>We keep signing up and chat about the game in a separate channel so that the “next games” channel sticks out.</p>
+
+<p>If the pool of players is small, offer a role to people interested and tag it in the announcements.</p>
+
+<p>That‘s all I got.</p>
+
+<p>Going from “referee proposes a date and players sign up” to “players ask me for available dates and recruit fellow players to the expedition” took me <a href="2024-09-05-player-organized">45 sessions</a>…</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
+
+<https://alexschroeder.ch/view/2024-09-21-get-started>
+
+---
+
+## Danny Boyle’s ‘28 Years Later’, a $75 Million Feature Film, Was Shot Using iPhone 15 Pro Max
+
+date: 2024-09-20, updated: 2024-09-20, from: Daring Fireball
+
+ 
+
+<https://www.wired.com/story/28-years-later-danny-boyles-new-zombie-flick-was-shot-on-an-iphone-15/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-20, from: Dave Winer's Scripting News)
+
+Has anyone attempted to make a higher level language on top of SQL? It's taken me a few iterations over years to finally (I hope) figure out how to design a table to take advantage of the features that evolved into making SQL efficient for the applications people really deploy. If this were machine language, it would be time to start thinking about the HLL that it inspires. Actually long past time imho. 
+
+<http://scripting.com/2024/09/20.html#a212332>
+
+---
+
+## SQL translation from Postgres to SQLite and DuckDB
+
+date: 2024-09-20, from: Jonudell blog
+
+Powerpipe dashboards can now connect not only to Steampipe but also to SQLite and DuckDB. This creates a combinatorial explosion of possibilities, including dashboards that use SQL to visualize large datasets read from Parquet files by DuckDB. SQL Translation From Postgres to SQLite and DuckDB Part of the LLM series at The New Stack. 
+
+<https://blog.jonudell.net/2024/09/20/sql-translation-from-postgres-to-sqlite-and-duckdb/>
+
+---
+
+## Austin Mann’s iPhone 16 Pro Camera Review: Kenya
+
+date: 2024-09-20, updated: 2024-09-20, from: Daring Fireball
+
+ 
+
+<https://www.austinmann.com/trek/iphone-16-pro-camera-review-kenya>
+
+---
+
+## Shohei Ohtani’s Game for the Ages
+
+date: 2024-09-20, updated: 2024-09-20, from: Daring Fireball
+
+ 
+
+<https://www.mlb.com/news/shohei-ohtani-reaches-50-homers-50-steals>
+
+---
+
+##  What impacted the Earth 66 million years ago at Chicxulub and caused... 
+
+date: 2024-09-20, updated: 2024-09-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045304-what-impacted-the-earth-6>
+
+---
+
+## Elon Musk, Useful Idiot
+
+date: 2024-09-20, updated: 2024-09-20, from: Daring Fireball
+
+ 
+
+<https://futurism.com/the-byte/elon-musk-shared-putin-propaganda-meme>
+
+---
+
+## Cards Against Humanity Sues Elon Musk (SpaceX) for $15 Million
+
+date: 2024-09-20, updated: 2024-09-20, from: Daring Fireball
+
+ 
+
+<https://www.elonowesyou100dollars.com/>
+
+---
+
+##  Which Came First? A quiz from Google Arts & Culture in which... 
+
+date: 2024-09-20, updated: 2024-09-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045298-which-came-first-a-quiz>
+
+---
+
+## European Commission Opens ‘Specification Proceedings’, Ostensibly to Tell Apple Exactly What to Do
+
+date: 2024-09-20, updated: 2024-09-20, from: Daring Fireball
+
+ 
+
+<https://ec.europa.eu/commission/presscorner/detail/en/ip_24_4761>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-20, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/01/runner.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">This is a test. For the next sixty seconds this station will conduct a test of a new server app that combines the functionality of several apps I used to run as separate servers. The goal is to be able to integrate the functionality of all the components. It's time to invest in blogging in a real way. The <a href="http://scripting.com/2017/05/05/iWantMyOldBlogBack.html">2017 corner-turn</a> was about getting back to the foundation I had before trying to co-exist with Twitter, Facebook, Medium. All three are now no longer high value targets for interop. So while I wasted a lot of time trying to <a href="http://scripting.com/2024/09/08/152655.html">peer</a> with them, I did finally get off the horse and I had a decent setup while developed <a href="http://drummer.land/">Drummer</a> and <a href="https://feedland.com/">FeedLand</a> and in doing so learned how to do scalable server apps with <a href="https://en.wikipedia.org/wiki/SQL">SQL</a>. I've wasted so much time trying to be compatible with apps that didn't want us. I have a feeling that none of the current targets really want us either. So let's get back to the <a href="http://scripting.com/2015/06/24/keyConceptOfTheOpenWebWorkingTogether.html">Open Web</a>, which gave us much hope before. I think we can do a lot with feeds and <a href="http://opml.org/">OPML</a>. They're to open systems what <a href="https://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> is to open source. You don't get to be half-committed to being open, you have to be all-in or you can't play. (Same idea as <a href="https://www.google.com/search?q=site%3Ascripting.com+podcasting">podcasting</a>, which of course is just an instance of <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a>.) You don't have to deal with a lot of confusion to find the interop. You just have to be willing to look in that direction. This started out as a test post and look what it has become. 
+
+<http://scripting.com/2024/09/20.html#a172012>
+
+---
+
+##  London&#8217;s clean air zone was meant to reduce car pollution but also... 
+
+date: 2024-09-20, updated: 2024-09-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045311-londons-clean-air-zone-wa>
+
+---
+
+##  The Toll of America&#8217;s Anti-Trans War. &#8220;Anti-transgender legislation and rhetoric is reshaping... 
+
+date: 2024-09-20, updated: 2024-09-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045306-the-toll-of-americas-anti>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-20, from: Dave Winer's Scripting News)
+
+Note to self: When the phone doesn't ring, go to Settings - Sound & vibration - Do Not Disturb. It was on for some reason. I'm sure I didn't set this. I'm pretty sure I've been here before. Here's the <a href="https://chatgpt.com/share/66eda2dd-b8a4-8012-91b3-849a70920a38">ChatGPT log</a> and <a href="https://imgs.scripting.com/2024/09/20/donotdisturb.png">screen shot</a>. 
+
+<http://scripting.com/2024/09/20.html#a162708>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-20, from: Dave Winer's Scripting News)
+
+My Pixel 9 Pro keeps giving me tips on using it when I bring it up, as I'm trying to read an important message, or change something at a red light. I'm always distracted when I use the phone, and by adding more distractions to sell me on something, that's not their right. I paid $1300 for this new phone. And also I can't figure out how to get the phone to ring when I get a call. I keep missing important calls. 
+
+<http://scripting.com/2024/09/20.html#a161044>
+
+---
+
+##  &#8220;A previously unknown piece of music composed by Wolfgang Amadeus Mozart when... 
+
+date: 2024-09-20, updated: 2024-09-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045310-a-previously-unknown-piec>
+
+---
+
+## Clever Social Engineering Attack Using Captchas
+
+date: 2024-09-20, updated: 2024-09-20, from: Bruce Schneier blog
+
+<p><a href="https://isc.sans.edu/diary/rss/31282">This</a> is really interesting.</p>
+<p>It&#8217;s a phishing attack targeting GitHub users, tricking them to solve a fake Captcha that actually runs a script that is copied to the command line.</p>
+<p>Clever.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/09/clever-social-engineering-attack-using-captchas.html>
+
+---
+
+##  The newest season of The Great British Bake Off premieres on Netflix... 
+
+date: 2024-09-20, updated: 2024-09-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045309-the-newest-season-of-the->
 
 ---
 
@@ -21,7 +232,7 @@ date: 2024-09-20, updated: 2024-09-20, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-09-20, from: Dave Winer's Scripting News)
 
-I keep discovering uses for ChatGPT. I think you could use it very effectively to learn a language, for example. I know how to say this in English, could you explain to me, in English, how to say it in French. I bet it's very good at that. I am using it to learn to write SQL code that takes advantage of all the arcane features they've added over the years to handle cases that come up in real database work. It's anything but a new language, and efficiency is everything -- so I think they pretty much have all the cases covered. I remember how frustrating it was to learn Algol when all I knew before that was Fortran and Basic. It would have been great to have ChatGPT to coach me on it. 
+I keep discovering uses for ChatGPT. I think it would be very useful to learn a language, for example. I know how to say this in English, could you explain to me, in English, how to say it in French. I bet it's very good at that. I am using it to learn to write SQL code that takes advantage of all the arcane features they've added over the years to handle cases that come up in real database work. It's anything but a new language, and efficiency is everything -- so I think they pretty much have all the cases covered. I remember how frustrating it was to learn Algol when all I knew before that was Fortran and Basic. It would have been great to have ChatGPT to coach me on it. 
 
 <http://scripting.com/2024/09/20.html#a144001>
 
@@ -332,7 +543,7 @@ date: 2024-09-19, from: Daniel Stenberg Blog
 
 ## ★ The iPhones 16
 
-date: 2024-09-19, updated: 2024-09-19, from: Daring Fireball
+date: 2024-09-19, updated: 2024-09-20, from: Daring Fireball
 
 What more proof of the camera’s singular importance to the iPhone would one need than the ever-growing block of camera lenses on the back of each year’s new models, or the “Shot on iPhone” ad campaign? A dedicated hardware button? 
 
@@ -1388,4 +1599,239 @@ date: 2024-09-15, updated: 2024-09-15, from: Anil Dash blog
  
 
 <https://anildash.com/2024/09/15/anna-delvey-pitch/>
+
+---
+
+## Hibiclens
+
+date: 2024-09-14, from: Dave Rupert blog
+
+<p>Every two-to-four years my body chemistry changes and my armpits start to reject my deodorant with an intense itch. All that aluminum has gunked up the works I guess. Usually cycling out deodorants works fine, but this time it didn’t work because my armpits were overpowering all the other deodorants.</p>
+<p>I tried a tactical reset and took the  “<a href="https://daverupert.com/2024/06/vibe-check-33/">No deodorant challenge</a>”, the legend –which I remember my hippie step-brother Nik telling me about thirty years ago– that if you stop using deodorant for two weeks the oils in your body naturally recalibrate and you stops smelling… but this urban legend very much did not work. I smelled horrible all the time.</p>
+<p>I casually mentioned this issue to my dermatologist and he was quick to recommend this homely teal bottle of over-the-counter 1970s logotype, <a href="https://hibiclens.com/">Hibiclens</a>.</p>
+<picture>
+  <source srcset="https://cdn.daverupert.com/posts/2024/hibiclens-landscape.png" media="(orientation: landscape)"></source>
+  <img src="https://cdn.daverupert.com/posts/2024/hibiclens.png" alt="A teal blue bottle of medicinal looking antiseptic cleaner">
+</picture>
+<p>I like to think the “hibi” part of Hibiclens stands for “hibiscus” because it’s a pink liquid (or foam) that you apply like soap and rinse off. It’s colored pink because it’s an anti-septic and hospitals like to color their liquids, but the reason it works –as my dermatologist explained– is that <a href="https://www.npr.org/sections/health-shots/2015/03/31/396573607/meet-the-bacteria-that-make-a-stink-in-your-pits">bacteria creates the odor in your armpits</a>. That was news to me. My prior understanding was that puberty causes teenagers to grow green stink lines that shoot out from their bodies. Guess the science there has evolved.</p>
+<p>I’m happy to report that Hibiclens works wonderfully and I’m pleased with the results. I don’t wear deodorant everyday anymore, my armpits aren’t irritated, and I only need to apply a squeeze of Hibiclens every three days or so (but even that timeline appears to be stretching out). I do sometimes wear deodorant when the stakes are high, but day-to-day working form home is <em>au naturale</em>. There’s a small satisfaction that the answer to my fragile-masculine deodorant FOR MEN problems is a pink liquid in a Tiffany blue teal bottle. Time will tell, however, if it really does solve my problems. I’ll follow up in two-to-four years to see if it still works.</p> 
+
+<https://daverupert.com/2024/09/hibiclens/>
+
+---
+
+## Dithering, and This Week’s Apple Event
+
+date: 2024-09-14, updated: 2024-09-16, from: Daring Fireball
+
+ 
+
+<https://dithering.fm/>
+
+---
+
+## September 13, 2024
+
+date: 2024-09-14, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-13-2024-631>
+
+---
+
+## Upcoming Speaking Engagements
+
+date: 2024-09-14, updated: 2024-09-14, from: Bruce Schneier blog
+
+<p>This is a current list of where and when I am scheduled to speak:</p>
+<ul>
+<li>I’m speaking at <a href="https://apwg.org/event/ecrime2024/">eCrime 2024</a> in Boston, Massachusetts, USA. The event runs from September 24 through 26, 2024, and my keynote is at 8:45 AM ET on the 24th.</li>
+<li>I’m briefly speaking at the <a href="https://epic.org/sept25/">EPIC Champion of Freedom Awards</a> in Washington, DC on September 25, 2024.</li>
+<li>I’m speaking at <a href="https://events.linuxfoundation.org/soss-fusion/">SOSS Fusion 2024</a> in Atlanta, Georgia, USA. The event will be held on October 22 and 23, 2024, and my talk is  at 9:15 AM ET on October 22, 2024.</li>
+</ul>
+<p>The list is maintained on <a href="https://www.schneier.com/events/">this page</a>.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/09/upcoming-speaking-engagements-40.html>
+
+---
+
+## The 14" K&M Krusher: Rock Dust on Demand
+
+date: 2024-09-14, updated: 2024-09-14, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<https://www.sevarg.net/2024/09/14/km-krusher-rock-dust-chain-flail/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-14, from: Dave Winer's Scripting News)
+
+BTW the <a href="https://en.wikipedia.org/wiki/MetaWeblog">Wikipedia page</a> for the MetaWeblog positions it as a replacement for the Blogger API, but it's an extension of it. You could use MetaWeblog to publish to Blogger sites, but it also supported features that Blogger didn't have, that were in our blogging software, Manila. 
+
+<http://scripting.com/2024/09/14.html#a141548>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-14, from: Dave Winer's Scripting News)
+
+Could we agree that ChatGPT can ingest everything that's in Wikipedia? I particularly want the images. I'd like to ask for a picture of <a href="https://en.wikipedia.org/wiki/Chuck_Berry">Chuck Berry</a>, and get something nice and be able to put him in a scene with the <a href="https://www.google.com/search?q=site%3Ascripting.com+%22wordle+kitty%22">Wordle Kitty</a>. That seems pretty harmless. And the news industry could hardly object, they didn't invent Chuck Berry, or own the copyright of the picture of him in Wikipedia. 
+
+<http://scripting.com/2024/09/14.html#a141042>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-14, from: Dave Winer's Scripting News)
+
+I'm searching for some common ground between the twitter-like systems, a basis for interop, a common API even. We had that for the blogging layer of this onion, something called the <a href="https://xmlrpc.com/metaweblog">MetaWeblog API</a>.  All the popular blogging software supported it. And that meant you could write once and publish to many places. And you could write the script that did that in an afternoon or two. We started out with simple systems and the best of intentions. There's no technical barrier. And we could do it in a few weeks at most if there was a will to do it 
+
+<http://scripting.com/2024/09/14.html#a140503>
+
+---
+
+## Hecklers
+
+date: 2024-09-14, from: Dave Winer's Scripting News
+
+<p><a href="https://www.threads.net/@davew/post/C_5i0bLpwNe">Hecklers</a> at last night's rally in Greensboro, couldn't hear what they were angry about, but it had something to do with Gaza.</p>
+<p>The US isn't doing the killing there, the issue is with Netanyahu who is part of the same political party as Trump. So you can be pretty sure the killing won't stop there at least until after our election. One way to be sure the killing continues is to elect Trump.</p>
+ 
+
+<http://scripting.com/2024/09/14/140401.html?title=hecklers>
+
+---
+
+## It's good to laugh
+
+date: 2024-09-14, from: Dave Winer's Scripting News
+
+<p>It's wonderful that we're laughing at Trump now.</p>
+<p>What a joke to think that after all he took us through, there are 47% of the people in the country who want more of that! </p>
+<p>OMG we must be crazy. What else are you going to do but laugh. </p>
+ 
+
+<http://scripting.com/2024/09/14/140115.html?title=itsGoodToLaugh>
+
+---
+
+## 2024-08-25 GoToSocial problems
+
+date: 2024-09-14, from: Alex Schroeder's Blog
+
+<h1 id="2024-08-25-gotosocial-problems">2024-08-25 GoToSocial problems</h1>
+
+<p>So you&rsquo;re considering self-hosting? You heard good things about <a href="https://github.com/superseriousbusiness/gotosocial">GoToSocial</a>? I like it. I use it. This post is about the problems you should be expecting at the moment.</p>
+
+<p>It&rsquo;s not surprising, after all. This is a very prominent sentence in their README:</p>
+
+<blockquote>
+<p>GoToSocial is still ALPHA SOFTWARE.</p>
+</blockquote>
+
+<p>But what are the exact problems? Sometimes alpha software is good enough, right?</p>
+
+<p><a class="tag" href="/search/?q=%23Social_Media">#Social Media</a> <a class="tag" href="/search/?q=%23GoToSocial">#GoToSocial</a></p>
+
+<h2 id="major-annoyances">Major annoyances</h2>
+
+<p><strong>No post editing</strong>. I hope you can handle your own typos. All you have is &ldquo;Delete and Redraft&rdquo;. But that orphans all replies, undoes all boosts, forgets all likes and removes posts from bookmarks. &ldquo;Delete and Redraft&rdquo; is a sledge hammer. &ldquo;Edit post&rdquo; is a delicate quill. And you don&rsquo;t get to have it. YOLO! (You only live once.)</p>
+
+<p><strong>No filtering</strong>. You can mute and block and all that, but when everybody is posting about Monsterdon, the European Song Contest, the US elections, Caturday or Wordle, you can&rsquo;t filter those hashtags. You must endure the enthusiasm of the people you are following. (I think the developers are implementing things, but it does not seem to have an effect in the front-ends I use, so who knows.)</p>
+
+<p><strong>Limited federation</strong>. This one is hard to spot. You want to follow this account and that account and it all seems to work until you go back and find that for one account, your follow request seems to hang in limbo, waiting. You cancel, and follow again. It seems to work. Come back later, back in limbo again, waiting. If you check the log, you&rsquo;ll find errors about signatures failing and what not. I have no idea. There are currently <a href="https://github.com/superseriousbusiness/gotosocial/issues?q=is%3Aissue+is%3Aopen+signature">8 open issues containing the word &lsquo;signature&rsquo;</a>. Something is not working and you&rsquo;ll have to have an alt (a separate account) on a different server that doesn&rsquo;t have this issue. That makes me sad. 😥</p>
+
+<h2 id="minor-annoyances">Minor annoyances</h2>
+
+<p><strong>No automatic post expiry</strong>. And you cannot use <a href="https://src.alexschroeder.ch/mastodon-archive.git/">Mastodon Archive</a> because of some version number check the Python Mastodon library refuses to work.</p>
+
+<h2 id="no-problem">No problem</h2>
+
+<p><strong>No front-end</strong>. There is no front-end. I use apps like <a href="https://mastodon.social/@tootapp">Toot!</a> on my phone and <a href="https://semaphore.social/">Semaphore</a> on the web. I don&rsquo;t need anything fancy. And for the non-fancy options, I have <a href="https://codeberg.org/martianh/mastodon.el">mastodon.el</a> for Emacs, <a href="https://github.com/ihabunek/toot">toot</a> for the command-line, <a href="https://tuba.geopjr.dev/">tuba</a> for Gnome, <a href="https://src.alexschroeder.ch/bitlbee-mastodon.git/">bitlbee-mastodon</a> for IRC, and so on. There are plenty of options.</p>
+
+<h2 id="the-good-stuff">The good stuff</h2>
+
+<p><strong>Markdown</strong> in your posts. I like my code blocks.</p>
+
+<p><strong>SQLite</strong> on the server. It&rsquo;s currently 8.4G. The media stuff is 11G.</p>
+
+<p><strong>Memory footprint</strong>. I use Monit to monitor processes and this process uses 185.6 MB.</p>
+
+<p><strong>No admin</strong>. I haven&rsquo;t had to run any administration task. Not once. ❤️</p>
+
+<p><strong>2024-09-14</strong>. <a class="account" href="https://hey.hagelb.org/@technomancy" title="@technomancy@hey.hagelb.org">@technomancy</a> wrote about his GoToSocial setup:</p>
+
+<blockquote>
+<p>So what&rsquo;s it like to set up your own GotoSocial server? Well, I can walk you thru what I used for my setup. Yours might be different; that&rsquo;s OK! I made these up-front choices to simplify the operational overhead because I didn&rsquo;t want this to be a hassle and I don&rsquo;t need the extra engineering that comes from trying for nine nines of uptime … It&rsquo;s fine. – <a href="https://technomancy.us/201">in which social media can be put in your own hands</a></p>
+</blockquote> 
+
+<https://alexschroeder.ch/view/2024-08-25-gotosocial>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-09-14, from: Jessica Smith's blog)
+
+<p>Aaaaand finished! Finally! It&rsquo;s done! Gidget seems pretty well convinced it&rsquo;s a shrine/throne combination for her, because of course she is 🤣</p>
+<img src="https://www.jayeless.net/media/2024/09/gidget-on-changing-table.jpeg" alt="A changing table, largely white with pinewood-patterned accents, with a shelf partitioned into two compartments below the change table surface and two full-width drawers below the shelves. A smug-looking tabby cat is loafing on top of the changing table." class="u-photo"> 
+
+<https://www.jayeless.net/2024/09/completed-change-table.html>
+
+---
+
+## The Trump Wreck: The Coffee Klatch for September 14, 2024
+
+date: 2024-09-14, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly 
+
+<https://robertreich.substack.com/p/trumps-in-trouble-the-coffee-klatch>
+
+---
+
+## September 13, 2024 
+
+date: 2024-09-14, from: Heather Cox Richardson blog
+
+After bomb threats today, officials had to evacuate two elementary schools in Springfield, Ohio, and move the students to a different location. 
+
+<https://heathercoxrichardson.substack.com/p/september-13-2024>
+
+---
+
+## History Extra for September 13, 2024
+
+date: 2024-09-14, from: Heather Cox Richardson blog
+
+Americans began to use the term &#8220;Bourbon Democrat&#8221; in 1871 to represent those white men standing against the rights of the Black workers white southerners claimed were radical revolutionaries. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-september-13-2024>
+
+---
+
+## Getting accommodations at work shouldn’t be so hard
+
+date: 2024-09-14, from: Tracy Durnell Blog
+
+via Universal design for work? by Meredith Farkas Unfortunately, [the ADA accommodation process is] also a dehumanizing process. This was definitely my experience with the ADA accommodations process, the stress of which then exacerbated my issues. Admitting to having needs and asking for help is hard enough without enduring intrusive self-justification. If I hadn&#8217;t already [&#8230;] 
+
+<https://tracydurnell.com/2024/09/13/getting-accommodations-at-work-shouldnt-be-so-hard/>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-09-14, from: Jessica Smith's blog)
+
+<p>Attempt 2 at assembling the changing table this afternoon. It&rsquo;s going better than attempt 1, even though the kit is missing piece 7 (it has an extra piece 17 instead), a couple of pieces clearly have the screw holes drilled into them in the wrong spot, and Gidget keeps trying to eat my wood filler 😑 But it hasn&rsquo;t broken apart catastrophically today, so I&rsquo;m counting my blessings.</p> 
+
+<https://www.jayeless.net/2024/09/attempt-2-assembling-change-table.html>
+
+---
+
+## Weeknotes: Sept. 7-13, 2024
+
+date: 2024-09-14, from: Tracy Durnell Blog
+
+Win of the week: signed the contract for a new job 🙌 Looking forward to: bookstore adventure day with friends Stuff I did: 9.5 hours consulting 1.75 hours business development / admin 45 minutes writing &#8212; my hand is still bothering me so I have remapped my keyboard to swap the left control key with my [&#8230;] 
+
+<https://tracydurnell.com/2024/09/13/weeknotes-sept-7-13-2024/>
 

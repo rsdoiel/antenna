@@ -1,11 +1,133 @@
 ---
 title: food
-updated: 2024-09-20 08:12:10
+updated: 2024-09-21 11:20:09
 ---
 
 # food
 
-(date: 2024-09-20 08:12:10)
+(date: 2024-09-21 11:20:09)
+
+---
+
+## Fun-Size Halloween Cupcakes
+
+date: 2024-09-20, from: Bon Appetet
+
+Decorate these mini pumpkin cupcakes with a team of costumed kiddos (or all by your spooky self). 
+
+<https://www.bonappetit.com/recipe/pumpkin-halloween-cupcakes>
+
+---
+
+## Five Guys Secret Menu: 7 Things You’re Going to Want to Try
+
+date: 2024-09-20, from: Taste of Home
+
+<p>Ordering off the Five Guys secret menu lets you get a little more creative with your favorite fast-food chain. Here's what to ask for (and what to skip) next time you go. </p>
+<p>The post <a href="https://www.tasteofhome.com/collection/five-guys-secret-menu/">Five Guys Secret Menu: 7 Things You&#8217;re Going to Want to Try</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/collection/five-guys-secret-menu/>
+
+---
+
+## The Best Food Subscription Gifts in 2024
+
+date: 2024-09-20, from: Bon Appetet
+
+Win gifting season with these gifts that keep on giving. 
+
+<https://www.bonappetit.com/story/best-subscription-gifts>
+
+---
+
+## We’re Looking For The Most Beautiful Coffee Photo Of The Year
+
+date: 2024-09-20, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Submissions are open now through October 11th! 
+
+<https://sprudge.com/were-looking-for-the-most-beautiful-coffee-photo-of-the-year-255351.html>
+
+---
+
+## What Is Cotija Cheese? Ingredients, Substitutes, and Recipes
+
+date: 2024-09-20, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/cotija-cheese-101/"><img title="Crumbled Cotija Cheese" src="https://www.isabeleats.com/wp-content/uploads/2019/04/cotija-cheese-101-small-1-400x600.jpg" alt="Crumbled cotija cheese on a gray stone plate." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Cotjia cheese is a popular salty and crumbly cheese used in many Mexican recipes to enhance savory dishes. Try it on tacos, enchiladas, tostadas, and soups! If you like a good salty, crumbly cheese, then you&#8217;ll love the popular Mexican cotija cheese! I use it all the time in my recipes, and it&#8217;s one of [&#8230;] 
+
+<https://www.isabeleats.com/cotija-cheese-101/>
+
+---
+
+## The Best Trader Joe’s Fall Treats, Ranked
+
+date: 2024-09-20, from: Taste of Home
+
+<p>I nearly swooned at the sight of Trader Joe's fall treats! This time of year, there's pumpkin, apple and cranberry galore. </p>
+<p>The post <a href="https://www.tasteofhome.com/collection/trader-joes-fall-2024/">The Best Trader Joe&#8217;s Fall Treats, Ranked</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/collection/trader-joes-fall-2024/>
+
+---
+
+## The Best Gifts for Coffee Lovers (2024)
+
+date: 2024-09-20, from: Bon Appetet
+
+Beans, burr grinders, mugs, and everything else you need for the perfect brew. 
+
+<https://www.bonappetit.com/story/gifts-for-coffee-lovers>
+
+---
+
+## Beautiful by Drew Just Launched the Prettiest Kitchen Appliances We’ve Ever Seen
+
+date: 2024-09-20, from: Taste of Home
+
+<p>Say hello to Wildflower. These dreamy kitchen appliances are pretty and practical. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/beautiful-by-drew-wildflower/">Beautiful by Drew Just Launched the Prettiest Kitchen Appliances We&#8217;ve Ever Seen</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/beautiful-by-drew-wildflower/>
+
+---
+
+## The Fall Fast-Food Items to Order, According to a Snack Expert
+
+date: 2024-09-20, from: Taste of Home
+
+<p>Here's the seasonal fast food to find before pumpkin everything disappears from menus.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/fall-fast-food-items/">The Fall Fast-Food Items to Order, According to a Snack Expert</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/collection/fall-fast-food-items/>
+
+---
+
+## V60 Maker Hario Launches the Suiren Brewer and Polaris Scale
+
+date: 2024-09-20, from: Daily Coffee News
+
+<div><img width="620" height="480" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/VDSU-Blue-2-620x480.jpg" class="attachment-large size-large wp-post-image" alt="VDSU Blue 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/VDSU-Blue-2-620x480.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/VDSU-Blue-2-300x232.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/VDSU-Blue-2-150x116.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/VDSU-Blue-2-768x595.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/VDSU-Blue-2.jpg 1043w" sizes="(max-width: 620px) 100vw, 620px" /></div>Japanese coffee equipment manufacturer Hario recently launched a whimsical version of its V60 dripper called the Suiren, as well as a new digital pourover brewing scale called the Polaris. Hario... 
+
+<https://dailycoffeenews.com/2024/09/20/v60-maker-hario-launches-the-suiren-brewer-and-polaris-scale/>
+
+---
+
+## How to Downsize Your Kitchen for a Move
+
+date: 2024-09-20, from: Bon Appetet
+
+My lower cabinets were like culinary clown cars. 
+
+<https://www.bonappetit.com/story/how-to-downsize-a-kitchen>
 
 ---
 
@@ -23,7 +145,7 @@ We’ve entered a new, jittery era of energy drinks.
 
 date: 2024-09-20, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="unsplash coffee roasting" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Reuters: ICO Head Nogueira Says Meeting EUDR Date &#8220;Not... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="unsplash coffee roasting" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/unsplash-coffee-roasting-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Reuters: ICO Head Nogueira Says Meeting EUDR Date &#8220;Not... 
 
 <https://dailycoffeenews.com/2024/09/20/weekly-coffee-news-more-eudr-concerns-best-of-rwanda/>
 
@@ -211,7 +333,7 @@ date: 2024-09-19, from: Daily Coffee News
 
 date: 2024-09-19, from: Daily Coffee News
 
-<div><img width="620" height="479" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1-620x479.jpg" class="attachment-large size-large wp-post-image" alt="Affogato cafe 4" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1-620x479.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1-300x232.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1-150x116.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1-768x593.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+<div><img width="620" height="479" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1-620x479.jpg" class="attachment-large size-large wp-post-image" alt="Affogato cafe 4" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1-620x479.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1-300x232.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1-150x116.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1-768x593.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Affogato-cafe-4-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
 
 <https://dailycoffeenews.com/2024/09/19/design-details-the-art-of-affogato-in-mumbai/>
 
@@ -1082,4 +1204,16 @@ date: 2024-09-15, from: Closet Cooking
  
 
 <https://www.closetcooking.com/50-late-summer-recipes/>
+
+---
+
+## Traeger Pro 575 Review: Our Favorite Budget-Friendly Pellet Grill
+
+date: 2024-09-14, from: Taste of Home
+
+<p>Learn why the Traeger Pro 575 earned our top budget pick after testing multiple pellet grills</p>
+<p>The post <a href="https://www.tasteofhome.com/article/traeger-pro-575-review/">Traeger Pro 575 Review: Our Favorite Budget-Friendly Pellet Grill</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/traeger-pro-575-review/>
 
