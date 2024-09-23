@@ -1,11 +1,53 @@
 ---
 title: food
-updated: 2024-09-23 07:12:21
+updated: 2024-09-23 16:49:37
 ---
 
 # food
 
-(date: 2024-09-23 07:12:21)
+(date: 2024-09-23 16:49:37)
+
+---
+
+## Smoked Beef Short Ribs
+
+date: 2024-09-23, from: Taste of Home
+
+<span style="font-weight: 400;">These smoked beef short ribs will be a standout at any cookout. The nice part? You only need four ingredients, which you likely have in your kitchen, to make this recipe.</span> 
+
+<https://www.tasteofhome.com/recipes/smoked-beef-short-ribs/>
+
+---
+
+## Celebrate National Coffee Day Sustainably With Terracycle’s Recycling Programs
+
+date: 2024-09-23, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Leading Coffee Brands Team Up With TerraCycle to Recycle Coffee Bags, Capsules and Cups. 
+
+<https://sprudge.com/celebrate-national-coffee-day-sustainably-with-terracycles-recycling-programs-255587.html>
+
+---
+
+## Georgia’s Three Tree Coffee Branches Out with Roastery and Studio
+
+date: 2024-09-23, from: Daily Coffee News
+
+<div><img width="620" height="412" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6-620x412.jpg" class="attachment-large size-large wp-post-image" alt="Three Tree Coffee Roasting Statesboro GA 6" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6-620x412.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6-300x199.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6-768x510.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>With roots established for more than a decade in Statesboro, Georgia, Three Tree Coffee&#160;recently cut the ribbon on a trio of new facilities, including a roastery, training center and podcast... 
+
+<https://dailycoffeenews.com/2024/09/23/georgias-three-tree-coffee-branches-out-with-roastery-and-studio/>
+
+---
+
+## Coffee News Club: Week of September 23rd
+
+date: 2024-09-23, from: The Fresh Cup
+
+<p>Scroll down to read a happy unionizing story. That plus tipping and heart health—here's the coffee news for the week of September 23rd. </p>
+<p>The post <a href="https://freshcup.com/coffee-news-club-week-of-september-23rd/">Coffee News Club: Week of September 23rd</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<https://freshcup.com/coffee-news-club-week-of-september-23rd/>
 
 ---
 
@@ -16,6 +58,26 @@ date: 2024-09-23, from: The Sprudge
 <strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Tokyo Coffee: Grinding in the Pandemic: The Sprudge Review. 
 
 <https://sprudge.com/the-oddly-compelling-nostalgia-of-tokyo-coffee-grinding-in-the-pandemic-253264.html>
+
+---
+
+## How Malört Survived Decades of Obscurity to Become a Chicago Rite of Passage
+
+date: 2024-09-23, from: Bon Appetet
+
+Jeppson's Malört’s backstory has always been the stuff of speculation, but a new book pulls back the veil on Chicago's favorite spirit. 
+
+<https://www.bonappetit.com/story/how-malort-survived-decades-of-obscurity-to-become-a-chicago-rite-of-passage>
+
+---
+
+## Report: US Out-of-Home Coffee Drinking Highest Since Pre Pandemic
+
+date: 2024-09-23, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home-620x413.jpg" class="attachment-large size-large wp-post-image" alt="coffee out of home" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee consumption outside the home has reached its highest level since January 2020, according to the latest edition of the United States National Coffee Association&#8216;s biannual consumer trends report. Based... 
+
+<https://dailycoffeenews.com/2024/09/23/report-us-out-of-home-coffee-drinking-highest-since-pre-pandemic/>
 
 ---
 

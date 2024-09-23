@@ -1,11 +1,273 @@
 ---
 title: journalism
-updated: 2024-09-23 07:12:16
+updated: 2024-09-23 16:49:32
 ---
 
 # journalism
 
-(date: 2024-09-23 07:12:16)
+(date: 2024-09-23 16:49:32)
+
+---
+
+## ‘It all came to fruition’ for Eagle Rock artist Andrew Schoultz
+
+date: 2024-09-23, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Muralist, painter and illustrator Andrew Schoultz stood on a ladder outside Guerrero Gallery in Eagle Rock, painting a mural in preparation for two of his exhibits: “Artificial Horizons, in Real Time,” a solo showcase, and “Domestic Views in F Sharp,” a collaborative work with artists Brad Bernhardt, a sculptor and painter, and Alejandro DePass, a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/09/23/it-all-came-to-fruition-for-eagle-rock-artist-andrew-schoultz/2912846">&#8216;It all came to fruition&#8217; for Eagle Rock artist Andrew Schoultz</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/community/2024/09/23/it-all-came-to-fruition-for-eagle-rock-artist-andrew-schoultz/2912846>
+
+---
+
+## CSUN women’s volleyball fails to overcome late comeback in fifth set
+
+date: 2024-09-23, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN women’s volleyball team is coming off an impressive sweep over California Baptist University on Tuesday morning in their home debut. Continuing their second home game against the Cougars... 
+
+<https://sundial.csun.edu/185190/sports/csun-womens-volleyball-fails-to-overcome-late-comeback-in-fifth-set/>
+
+---
+
+## The Burden of Birth Control
+
+date: 2024-09-23, from: The Sundail (CSUN Student Newspaper)
+
+Have you ever stopped to wonder why there are only two forms of male birth control, while there are 12 options for women? This is because men continue to place... 
+
+<https://sundial.csun.edu/185184/opinions/the-burden-of-birth-control/>
+
+---
+
+## Astro Bot review: shining with creativity and nostalgia
+
+date: 2024-09-23, from: The Sundail (CSUN Student Newspaper)
+
+Astro Bot splash screen. Captured on PS5 Astro Bot for the PlayStation 5 is a remarkable 3D platformer. From the ingenuity of the power-ups and bosses, to the countless iconic... 
+
+<https://sundial.csun.edu/185175/arts-entertainment/astro-bot-review-shining-with-creativity-and-nostalgia/>
+
+---
+
+## Warhammer 40,000: Space Marine 2 – A Bloody Good Time
+
+date: 2024-09-23, from: The Sundail (CSUN Student Newspaper)
+
+“My pledge is eternal service.” &#8211; Demetrian Titus “Warhammer 40,000: Space Marine II” is a blast and sure to be regarded as a classic for both long-dedicated fans and newcomers... 
+
+<https://sundial.csun.edu/185164/arts-entertainment/warhammer-40000-space-marine-2-a-bloody-good-time/>
+
+---
+
+## Reggie Bush sues NCAA, Pac-12, USC
+
+date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Heisman Trophy winner and former Trojan running back is seeking compensation for the use of his name, image and likeness without permission.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/23/reggie-bush-sues/">Reggie Bush sues NCAA, Pac-12, USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/23/reggie-bush-sues/>
+
+---
+
+## Q&A: Tokyo Police Club guitarist Josh Hook on final tour, future projects
+
+date: 2024-09-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+Tokyo Police Club is reflecting on the past two decades of music with one final tour.
+The band &#8211; consisting of Dave Monks, Graham Wright, Greg Alsop and Josh Hook &#8211; was formed in Ontario, Canada. 
+
+<https://dailybruin.com/2024/09/23/qa-tokyo-police-club-guitarist-josh-hook-on-final-tour-future-projects/>
+
+---
+
+## Native American community gathers for Cultural Welcome event
+
+date: 2024-09-23, from: The Sundail (CSUN Student Newspaper)
+
+The USU held their last Cultural Welcome event, Native American Welcome, at the American Indian Studies Cultural Center from 4 p.m. to 6 p.m. on Thursday, Sept. 19. This event... 
+
+<https://sundial.csun.edu/185155/arts-entertainment/native-american-community-gathers-for-cultural-welcome-event/>
+
+---
+
+## The San Fernando Valley goes to college
+
+date: 2024-09-23, from: The Round Up (Pierce College Student Newspaper)
+
+<p>As high school graduates and community college transfers ponder their next big decision, university representatives across the United States came to Pierce College to pitch</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/23/the-san-fernando-valley-goes-to-college/">The San Fernando Valley goes to college</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/23/the-san-fernando-valley-goes-to-college/?utm_source=rss&utm_medium=rss&utm_campaign=the-san-fernando-valley-goes-to-college>
+
+---
+
+## Board of Trustees talks student opportunities, contracts
+
+date: 2024-09-23, from: The Round Up (Pierce College Student Newspaper)
+
+<p>During the Sept. 11 LACCD Board of Trustees meeting, SEIU (Service Employees International Union) Local 99 representative Christzann Ozann was among those giving representative reports</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/23/board-of-trustees-talks-student-opportunities-contracts/">Board of Trustees talks student opportunities, contracts</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/23/board-of-trustees-talks-student-opportunities-contracts/?utm_source=rss&utm_medium=rss&utm_campaign=board-of-trustees-talks-student-opportunities-contracts>
+
+---
+
+## Con: Don’t alienate Latin Americans by using “Latinx”
+
+date: 2024-09-23, from: The Round Up (Pierce College Student Newspaper)
+
+<p>In an effort to include everyone, almost an entire demographic feels excluded. This is the case with the word Latinx, which ironically isolates the group</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/23/con-dont-alienate-latin-americans-by-using-latinx/">Con: Don’t alienate Latin Americans by using &#8220;Latinx&#8221;</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/23/con-dont-alienate-latin-americans-by-using-latinx/?utm_source=rss&utm_medium=rss&utm_campaign=con-dont-alienate-latin-americans-by-using-latinx>
+
+---
+
+## Pro: A gender-neutral term to connect the community
+
+date: 2024-09-23, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The way people think and interact with each other often comes down to language. By continuing to use gender terms like Latino or Latina, it</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/23/pro-a-gender-neutral-term-to-connect-the-community/">Pro: A gender-neutral term to connect the community</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/23/pro-a-gender-neutral-term-to-connect-the-community/?utm_source=rss&utm_medium=rss&utm_campaign=pro-a-gender-neutral-term-to-connect-the-community>
+
+---
+
+## UCLA men’s golf prepares to enter Big Ten with seasoned veterans, new generation
+
+date: 2024-09-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+As one sun sets, the next offers opportunities across the greens.
+Starting on Monday, UCLA men&#8217;s golf will enter its new chapter in the Big Ten at The Tindall, which will take place at Aldarra Golf Club in Sammamish, Washington. 
+
+<https://dailybruin.com/2024/09/23/ucla-mens-golf-prepares-to-enter-big-ten-with-seasoned-veterans-new-generation/>
+
+---
+
+## How Medical Support Enables Effective Student Wellbeing
+
+date: 2024-09-23, from: The Sundail (CSUN Student Newspaper)
+
+Image Source: Pexels When it comes to student wellbeing, both mental and physical health matter. It’s a reflection of the fact that college life brings stress and new experiences, so... 
+
+<https://sundial.csun.edu/185143/sundialbrandstudio/sundial-marketplace/how-medical-support-enables-effective-student-wellbeing/>
+
+---
+
+## Classifieds – September 23, 2024
+
+date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/23/classifieds-september-23-2024/">Classifieds &#8211; September 23, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/23/classifieds-september-23-2024/>
+
+---
+
+## Long Covid United brings together survivors
+
+date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A Long Covid survivor used his experience as impetus to support medical innovation.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/23/long-covid-united-brings-together-survivors/">Long Covid United brings together survivors</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/23/long-covid-united-brings-together-survivors/>
+
+---
+
+## ‘Omni Loop’ takes a bit too much on its plate
+
+date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The recent release starring Mary-Louise Parker and Ayo Edebiri creates more questions</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/23/omni-loop-takes-a-bit-too-much-on-its-plate/">‘Omni Loop’ takes a bit too much on its plate</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/23/omni-loop-takes-a-bit-too-much-on-its-plate/>
+
+---
+
+## USC drops sharply in free speech ranking
+
+date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Survey by a free speech organization reports reduced confidence in free speech protections on campus.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/23/usc-drops-sharply-in-free-speech-ranking/">USC drops sharply in free speech ranking</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/23/usc-drops-sharply-in-free-speech-ranking/>
+
+---
+
+## ‘Ghostly Labor’ shines a light on immigrant stories
+
+date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>La Mezcla showcased the unsung labor of immigrants in its Los Angeles debut.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/23/ghostly-labor-shines-a-light-on-immigrant-stories/">&#8216;Ghostly Labor&#8217; shines a light on immigrant stories</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/23/ghostly-labor-shines-a-light-on-immigrant-stories/>
+
+---
+
+## ‘Storm Cloud’ blows into The Huntington
+
+date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A new exhibition highlights the change of discussions on climate from 1780 to 1930.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/23/storm-cloud-blows-into-the-huntington/">‘Storm Cloud’ blows into The Huntington</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/23/storm-cloud-blows-into-the-huntington/>
+
+---
+
+## Debates debase politics into mindless dispute
+
+date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Presidential debates enable candidates to use issues like ping pongs in their game.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/23/debates-debase-politics-into-mindless-dispute/">Debates debase politics into mindless dispute</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/23/debates-debase-politics-into-mindless-dispute/>
+
+---
+
+## Trojans triumph over Tritons
+
+date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC Women’s volleyball prevailed after a tight start in last match before Big Ten.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/23/trojans-triumph-over-tritons/">Trojans triumph over Tritons</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/23/trojans-triumph-over-tritons/>
+
+---
+
+## Football’s Big Ten debut blemished by defending national champions
+
+date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC couldn’t overcome the Wolverines’ last-minute touchdown in Ann Arbor.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/23/footballs-big-ten-debut-blemished-by-defending-national-champions/">Football’s Big Ten debut blemished by defending national champions</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/23/footballs-big-ten-debut-blemished-by-defending-national-champions/>
 
 ---
 

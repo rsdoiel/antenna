@@ -1,11 +1,135 @@
 ---
 title: central coast
-updated: 2024-09-23 07:12:12
+updated: 2024-09-23 16:49:28
 ---
 
 # central coast
 
-(date: 2024-09-23 07:12:12)
+(date: 2024-09-23 16:49:28)
+
+---
+
+## Round Table Luncheon: Anastasia Brunner Earns Dos Pueblos’ Phil Womble Award
+
+date: 2024-09-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-923.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-923.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-923.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-923.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-923.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-923.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-923.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-923.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-923.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-923.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-923.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Dos Pueblos soccer and softball standout Anastasia Brunner was honored as the school’s Phil Womble Ethics in Sports Award recipient to headline Monday’s busy Santa Barbara Athletic Round Table Luncheon. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/round-table-luncheon-anastasia-brunner-earns-dos-pueblos-phil-womble-award/">Round Table Luncheon: Anastasia Brunner Earns Dos Pueblos&#8217; Phil Womble Award</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/round-table-luncheon-anastasia-brunner-earns-dos-pueblos-phil-womble-award/>
+
+---
+
+## Santa Barbara Talks: Alejandra Gutierrez vs. Wendy Santamaria—What’s at Stake for Council Race?
+
+date: 2024-09-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara City Council contest between incumbent Alejandra Gutierrez and challenger Wendy Santamaria is the talk of the town. Who is best to represent Santa Barbara&#8217;s Eastside? Gutierrez is [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-talks-alejandra-gutierrez-vs-wendy-santamaria-whats-at-stake-for-council-race/">Santa Barbara Talks: Alejandra Gutierrez vs. Wendy Santamaria—What&#8217;s at Stake for Council Race?</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-talks-alejandra-gutierrez-vs-wendy-santamaria-whats-at-stake-for-council-race/>
+
+---
+
+## 2 Arrested After Allegedly Trying to Rob Ag Workers Near Buellton
+
+date: 2024-09-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A pair of Santa Maria residents have been arrested after allegedly demanding money from farm workers in a field near Buellton and firing gunshots after being denied.&#160; Just before 9 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/2-arrested-after-allegedly-trying-to-rob-ag-workers-near-buellton/">2 Arrested After Allegedly Trying to Rob Ag Workers Near Buellton</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/2-arrested-after-allegedly-trying-to-rob-ag-workers-near-buellton/>
+
+---
+
+## Laurie Jervis: Megan Bravo Joins Alma Rosa Winery as Business Director
+
+date: 2024-09-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Courtesy-Megan-Bravo-Alma-Rosa.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Megan Bravo is Alma Rosa Winery’s new director of business development." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Courtesy-Megan-Bravo-Alma-Rosa.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Courtesy-Megan-Bravo-Alma-Rosa.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Courtesy-Megan-Bravo-Alma-Rosa.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Courtesy-Megan-Bravo-Alma-Rosa.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Courtesy-Megan-Bravo-Alma-Rosa.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Courtesy-Megan-Bravo-Alma-Rosa.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Courtesy-Megan-Bravo-Alma-Rosa.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Courtesy-Megan-Bravo-Alma-Rosa.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Courtesy-Megan-Bravo-Alma-Rosa.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Courtesy-Megan-Bravo-Alma-Rosa.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Megan Bravo, a Santa Barbara County native with 20 years of wine industry experience, joined Alma Rosa Winery in August as the director of business development. In her new role, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/laurie-jervis-megan-bravo-joins-alma-rosa-winery-as-business-director/">Laurie Jervis: Megan Bravo Joins Alma Rosa Winery as Business Director</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/laurie-jervis-megan-bravo-joins-alma-rosa-winery-as-business-director/>
+
+---
+
+## Athletes of the Week 9/23
+
+date: 2024-09-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="670" height="622" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Screenshot-2024-09-23-at-2.41.10-PM.png?fit=670%2C622&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Screenshot-2024-09-23-at-2.41.10-PM.png?w=670&amp;ssl=1 670w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Screenshot-2024-09-23-at-2.41.10-PM.png?resize=300%2C279&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Screenshot-2024-09-23-at-2.41.10-PM.png?resize=400%2C371&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Screenshot-2024-09-23-at-2.41.10-PM.png?fit=670%2C622&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Click here for the full story on this week&#8217;s Athletes of the Week.</p>
+<p>The post <a href="https://www.noozhawk.com/athletes-of-the-week-9-23/">Athletes of the Week 9/23</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/athletes-of-the-week-9-23/>
+
+---
+
+## Cate’s Oyin Opawumi, Santa Barbara High’s Carter Debusk Named Athletes of the Week
+
+date: 2024-09-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara High football’s Carter Debusk and Cate volleyball’s Oyin Opawumi turned in strong performances last week and were rewarded with the Santa Barbara Athletic Round Table Athlete of the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/cates-oyin-opawumi-santa-barbara-highs-carter-debusk-named-athletes-of-the-week/">Cate&#8217;s Oyin Opawumi, Santa Barbara High&#8217;s Carter Debusk Named Athletes of the Week</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/cates-oyin-opawumi-santa-barbara-highs-carter-debusk-named-athletes-of-the-week/>
+
+---
+
+## UCSB Arts & Lectures Presents Khan Academy Founder
+
+date: 2024-09-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>UCSB Arts &#38; Lectures presents Salman Khan, Brave New Words: How AI Will Revolutionize Education (and Why That’s a Good Thing), on Saturday, Oct. 5, at 4 p.m. at the Arlington Theatre.  The visionary [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-arts-lectures-presents-khan-academy-founder/">UCSB Arts &amp; Lectures Presents Khan Academy Founder</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-arts-lectures-presents-khan-academy-founder/>
+
+---
+
+## Women’s Economic Ventures Announces Appointment of New Board Members
+
+date: 2024-09-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Women’s Economic Ventures (WEV), a leading local organization dedicated to the economic empowerment of women, is pleased to announce the appointment of five new members to its Board of Directors. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/womens-economic-ventures-announces-appointment-of-new-board-members/">Women&#8217;s Economic Ventures Announces Appointment of New Board Members</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/womens-economic-ventures-announces-appointment-of-new-board-members/>
+
+---
+
+## Santa Barbara Women’s Political Committee Announces Endorsements
+
+date: 2024-09-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara Women’s Political Committee has announced the endorsement of these candidates and ballot measures ahead of the Nov. 5, 2024, General Election in California. All candidates were interviewed [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-womens-political-committee-announces-endorsements/">Santa Barbara Women’s Political Committee Announces Endorsements</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-womens-political-committee-announces-endorsements/>
+
+---
+
+## Charlotte Dicke Becerra at Heart of Santa Ynez Valley’s Community Spirit
+
+date: 2024-09-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Charlotte-Becerra-jb.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Charlotte Dicke Becerra brings creativity, thoroughness and a genuine passion for making a difference to her volunteerism." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Charlotte-Becerra-jb.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Charlotte-Becerra-jb.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Charlotte-Becerra-jb.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Charlotte-Becerra-jb.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Charlotte-Becerra-jb.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Charlotte-Becerra-jb.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Charlotte-Becerra-jb.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Charlotte-Becerra-jb.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Charlotte-Becerra-jb.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Charlotte-Becerra-jb.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Charlotte-Becerra-jb.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Charlotte-Becerra-jb.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2500-Charlotte-Becerra-jb.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>[Noozhawk’s note: One in a series on the Santa Ynez Valley Foundation’s 2024 Champions of the Valley who will be honored for their volunteerism and community service Oct. 13 at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/charlotte-dicke-becerra-at-heart-of-santa-ynez-valleys-community-spirit/">Charlotte Dicke Becerra at Heart of Santa Ynez Valley’s Community Spirit</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/charlotte-dicke-becerra-at-heart-of-santa-ynez-valleys-community-spirit/>
 
 ---
 

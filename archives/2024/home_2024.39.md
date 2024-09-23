@@ -1,11 +1,101 @@
 ---
 title: home
-updated: 2024-09-23 07:12:17
+updated: 2024-09-23 16:49:33
 ---
 
 # home
 
-(date: 2024-09-23 07:12:17)
+(date: 2024-09-23 16:49:33)
+
+---
+
+## We Found the Best Mini Fridge With Freezer After 4 Weeks of Testing
+
+date: 2024-09-23, from: Family Handyman Blog
+
+<p>We found the best mini fridges with freezers to add to your office, home or dorm room.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/best-mini-fridge-with-freezer/">We Found the Best Mini Fridge With Freezer After 4 Weeks of Testing</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/list/best-mini-fridge-with-freezer/>
+
+---
+
+## Smeg Refrigerator Review: Is This Vintage-Inspired Appliance More Than Just a Pretty Face?
+
+date: 2024-09-23, from: Family Handyman Blog
+
+<p>Is a Smeg refrigerator the coolest (hehe, get it?) choice for you? Find out what I really think after two months of testing.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/smeg-refrigerator-review/">Smeg Refrigerator Review: Is This Vintage-Inspired Appliance More Than Just a Pretty Face?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/smeg-refrigerator-review/>
+
+---
+
+## In Tasmania, a "Japandi" Home Clad in Charred Timber Lists for $2M
+
+date: 2024-09-23, from: Dwell
+
+Designed by Crump Architects, the hilltop property pairs moody interiors with sweeping views of Port Cygnet. 
+
+<https://www.dwell.com/article/huon-valley-home-crump-architects-cygnet-tasmania-real-estate-1611d6c0>
+
+---
+
+## A Lake House in Chilean Patagonia Takes Inspiration from Japanese Pagodas
+
+date: 2024-09-23, from: Dwell
+
+Owned by a family of naturalists, the glass-walled vacation home employs a wraparound deck with panoramic views of its picturesque setting. 
+
+<https://www.dwell.com/article/casa-rupanco-mas-fernandez-arquitectura-lake-house-chilean-patagonia-inspiration-japanese-pagodas-9d044b62>
+
+---
+
+## Organic Materials and Earthy Tones Recast a Former Concrete Pig Shed
+
+date: 2024-09-23, from: Dwell
+
+Located just outside of London, a 700-square-foot room is elegantly designed to fit a sunken bath, oversized chimney, and separate bedroom zone. 
+
+<https://www.dwell.com/article/organic-materials-and-earthy-tones-recast-a-former-concrete-pig-shed-1a6dcb29>
+
+---
+
+## 6 Surprising Places You Should Be Checking for Mice
+
+date: 2024-09-23, from: Family Handyman Blog
+
+<p>Some of the places where mice are hiding are just what you'd expect, but mice can startle you by turning up in unexpected and surprising places.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/places-mice-hide/">6 Surprising Places You Should Be Checking for Mice</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/list/places-mice-hide/>
+
+---
+
+## How to Propagate Aloe from Seed
+
+date: 2024-09-23, from: The Gardener's Path
+
+<p>Aloe is a genus of flowering succulents, suitable for outdoor cultivation in Zones 9 to 11, and popular as easy-care houseplants. The plants feature basal rosettes of fleshy, pointed leaves and long flower stalks bearing tubular blossoms. If you want to try your hand at propagating aloes from seed, this guide can help.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/propagate-aloe-seed/">How to Propagate Aloe from Seed</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/succulents/propagate-aloe-seed/>
+
+---
+
+## Tiki Fire Pit Review: This Versatile Heater Gets Even Better with Smart Accessories
+
+date: 2024-09-23, from: Family Handyman Blog
+
+<p>Want a fire pit that's also a table and a patio heater? Say hello to the Tiki fire pit. We tested this versatile product, and we're obsessed.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/tiki-fire-pit-review/">Tiki Fire Pit Review: This Versatile Heater Gets Even Better with Smart Accessories</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/tiki-fire-pit-review/>
 
 ---
 
@@ -19,6 +109,16 @@ date: 2024-09-23, from: Yard Life blog
  
 
 <https://ownyardlife.com/50-types-of-begonias-begonia-varieties-with-pictures/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-09-23, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
 
 ---
 

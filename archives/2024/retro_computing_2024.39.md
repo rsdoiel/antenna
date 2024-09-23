@@ -1,11 +1,31 @@
 ---
 title: retro computing
-updated: 2024-09-23 07:12:19
+updated: 2024-09-23 16:49:35
 ---
 
 # retro computing
 
-(date: 2024-09-23 07:12:19)
+(date: 2024-09-23 16:49:35)
+
+---
+
+## Flash Sale and a Slight Change to Subscriptions
+
+date: 2024-09-23, from: Computer ads from the Past
+
+Time for a little business 
+
+<https://computeradsfromthepast.substack.com/p/flash-sale-and-a-slight-change-to>
+
+---
+
+## OSI and LPI Form Strategic Alliance
+
+date: 2024-09-23, from: Linux Magazine
+
+<p>With a goal of strengthening Linux and open source communities, this new alliance aims to nurture the growth of more highly skilled professionals.</p> 
+
+<http://www.linux-magazine.com/Online/News/OSI-and-LPI-Form-Strategic-Alliance>
 
 ---
 

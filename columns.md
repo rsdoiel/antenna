@@ -1,11 +1,343 @@
 ---
 title: columns
-updated: 2024-09-23 07:12:13
+updated: 2024-09-23 16:49:29
 ---
 
 # columns
 
-(date: 2024-09-23 07:12:13)
+(date: 2024-09-23 16:49:29)
+
+---
+
+## Patriotism, Politics & Plastic
+
+date: 2024-09-23, from: Dan Rather's Steady
+
+Trump 2.0 would be &#8220;game over for climate progress&#8221; 
+
+<https://steady.substack.com/p/patriotism-politics-and-plastic>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-23, from: Dave Winer's Scripting News)
+
+I wish my father had lived to use ChatGPT. He would have been so thrilled. My uncle would have lost his shit. 
+
+<http://scripting.com/2024/09/23.html#a221615>
+
+---
+
+##  Master Blacksmith Forges a Beautiful Knife 
+
+date: 2024-09-23, updated: 2024-09-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/master-blacksmith-forges-a-beautiful-knife-1>
+
+---
+
+## Dewayne Hendricks RIP
+
+date: 2024-09-23, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi75OpvYqA0ZrtZEjdZzkGxRNWiZttumgU2nUO0G2rEiZVCZwwBBevzVGFylqlP6y32I_EV72Wp7W55jKNNoq2PACsbJPrzWSF1dSmktkGxkZ0gJCllSrPosaTfJ2648YYKCL4d1GGWZWCAgEGHD-JJ-8NvjLo3BcK3OUnWVzIWrHO-gHwJjlsJsFmz56lY/s540/140305-DLHbyGwennSeemel.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="540" data-original-width="360" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi75OpvYqA0ZrtZEjdZzkGxRNWiZttumgU2nUO0G2rEiZVCZwwBBevzVGFylqlP6y32I_EV72Wp7W55jKNNoq2PACsbJPrzWSF1dSmktkGxkZ0gJCllSrPosaTfJ2648YYKCL4d1GGWZWCAgEGHD-JJ-8NvjLo3BcK3OUnWVzIWrHO-gHwJjlsJsFmz56lY/w133-h200/140305-DLHbyGwennSeemel.jpg" width="133" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://web.stanford.edu/class/ee380/Abstracts/140305.html">Source</a></td></tr></tbody></table>
+Dewayne Hendricks, my friend of nearly four decades, passed away last Friday at age 74. His <a href="https://ee380.stanford.edu/Abstracts/140305-slides.pdf">mentors</a> were <a href="https://en.wikipedia.org/wiki/Buckminster_Fuller">Buckminster Fuller</a> and <a href="https://en.wikipedia.org/wiki/Paul_Baran">Paul Baran</a>. He was a pioneer of wireless Internet connectivity, a serial entrepreneur, curator of an influential e-mail list, and for the last 30 years on the organizing committee of the <a href="https://amw.org">Asilomar Microcomputer Workshop</a>.<br />
+<br />
+For someone of his remarkable achievements he has left very little impression on the Web. An example is his <a href="https://www.linkedin.com/in/dewayne-hendricks-b118">Linkedin profile</a>. Below the fold I collect the pieces of his story that I know or have been able to find from his other friends. If I can find more I will update this post. Please feel free to add information in the comments.<br />
+<span><a name='more'></a></span>
+<h3>Wayne State University</h3>
+Dewayne was a student at <a href="https://en.wikipedia.org/wiki/Wayne_State_University">Wayne State</a>, where he got into systems programming for the IBM 370. They ran the <a href="https://en.wikipedia.org/wiki/Michigan_Terminal_System">Michigan Terminal System</a> on a 512K 370/155. He tried to run the <a href="https://en.wikipedia.org/wiki/University_of_Newcastle_upon_Tyne">University of Newcastle</a>'s CMTS, an experimental version of MTS that didn't use dynamic address translation, and ran into performance problems. He worked with Larry Chace at the University of Illinois to get it running on their 1+2M 360/75. After Chace rewrote it to swap pages to their 2301 drum storage it ran well.<br />
+<h3>Southern Illinois University</h3>
+While at <a href="https://en.wikipedia.org/wiki/Southern_Illinois_University">Southern Illinois Univerity</a> in the '70s he worked for <a href="https://en.wikipedia.org/wiki/Buckminster_Fuller">Buckminster Fuller</a> and continued his involvement in IBM systems programming, now for <a href="https://en.wikipedia.org/wiki/VM_(operating_system)">VM/370</a>.  Melinda Varian, historian of that era of IBM's groundbreaking <a href="https://en.wikipedia.org/wiki/SHARE_(computing)">SHARE</a> user group, wrote in <a href="https://www.leeandmelindavarian.com/Melinda/25paper.pdf"><i>VM and the VM Community: Past, Present, and Future</i></a>:<br />
+<blockquote>
+Dewayne Hendricks reported at SHARE XLII, in March, 1974, that he had successfully implemented MVT-CP handshaking for page faulting, so that when MVT running under VM took a page fault, CP would allow MVT to dispatch another task while CP brought in the page.  At the following SHARE, Dewayne did a presentation on further modifications, including support for SIOF and a memory-mapped job queue. With these changes, his system would allow multi-tasking guests actually to multi-task when running in a virtual machine. Significantly, his modifications were available on the Waterloo Tape.<br />
+<br />
+Dewayne became the chairman of the Operating Systems Committee of the SHARE VM Project.  Under his guidance, the Committee prepared several detailed requirements for improvements to allow guest systems to perform better. At SHARE XLV, in 1975, the Committee presented IBM with a White Paper entitled Operating Systems Under VM/370, which discussed the performance problems of guests under VM and the solutions that customers had found for these problems. Many of the solutions that Dewayne and others had found, such as PAGEX, made their way into VM fairly quickly, apparently as the result of customers’ persistence in documenting them. By SHARE 49, Dewayne was able to state that, “It is now generally understood that either MFT or MVT can run under VM/370 with relative batch throughput greater than 1.” That is to say, they had both been made to run significantly faster under VM than on the bare hardware. Dewayne and others did similar work to improve the performance of DOS under VM.
+</blockquote>
+<h3>Amateur Radio</h3>
+Dewayne was a major figure in developing and sustaining the use of <a href="http://www.warpspeed.com/Public/DLH_Bio.html">amateur packet radio</a>:<br />
+<blockquote>
+He has been involved with radio since receiving his amateur radio operator's license as a teen. He currently holds official positions in several national non-profit amateur radio organizations and is a director of the Wireless Communications Alliance, an industry group representing manufacturers in the unlicensed radio industry.
+</blockquote>
+In <a href="http://www.warpspeed.com/Public/DLH_Bio.html">particular</a>:<br />
+<blockquote>
+Back in 1986, he ported the popular KA9Q Internet Protocol package to the Macintosh, allowing the Macintosh platform to be used in packet radio networks. Today, thousands of amateur radio operators worldwide use the NET/Mac system he developed to participate in the global packet radio Internet. This system continues to be developed and deployed by the amateur radio service.
+</blockquote>
+Dewayne was a member of the <a href="https://www.ardc.net/about/who-we-are/">Amateur Radio Digital Communications Grants Evaluation Team</a> from 2021 to his death. ARDC grants around <a href="https://www.ardc.net/about/">$5M/year</a>:<br />
+<blockquote>
+ARDC makes grants to projects and organizations that are experimenting with new ways to advance both amateur radio and digital communication science. Experimentation by amateur radio operators has benefited society in many ways, including the development of the mobile phone and wireless internet technology. ARDC envisions a world where all such technology is available through open source hardware and software, and where anyone has the ability to innovate upon it. To see examples of the types of grants we make, go to <a href="https://www.ardc.net/grants/">https://www.ardc.net/grants/</a>. 
+</blockquote>
+<h3>Tetherless Access</h3>
+One of the many ahead-of-their-time companies Dewayne started was Tetherless Access. He co-founded it with Charlie Brown in 1990 to develop wireless Metropolitan Access Networks. It went public in 1996 on NASDAQ and folded two years later. The idea was to use the 900MHz unlicensed spectrum to distribute Internet connectivity from a base station via point-to-point links, in contrast to Metricom's <a href="https://en.wikipedia.org/wiki/Ricochet_(Internet_service)">Ricochet</a> service, started by Dewayne's mentor Paul Baran, which four years later used mesh network technology in the same spectrum.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRv1AYAOTz2UTzygueI8OEF3qcqERaobAw_XpbgGXTaYBQ4XhQ3drlkIGK-E2B6E2kX3lWB6pRSaEPVNsx8sTXix9huXfTNXJ_gj7MgkdCZ2Y1GOPPOxD29OUNlsQB49zoe24Wy3CUptpB3r26IwHMH4k5vH_a8Mhyphenhyphen73kibomPEXjgnWSmE7Nwi_WIq40D/s1092/SouthBayTestBed.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="754" data-original-width="1092" height="138" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRv1AYAOTz2UTzygueI8OEF3qcqERaobAw_XpbgGXTaYBQ4XhQ3drlkIGK-E2B6E2kX3lWB6pRSaEPVNsx8sTXix9huXfTNXJ_gj7MgkdCZ2Y1GOPPOxD29OUNlsQB49zoe24Wy3CUptpB3r26IwHMH4k5vH_a8Mhyphenhyphen73kibomPEXjgnWSmE7Nwi_WIq40D/w200-h138/SouthBayTestBed.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="http://dandin.com/pdf/EE380.pdf">Source</a></td></tr></tbody></table>
+Tetherless Access launched a testbed network <a href="http://dandin.com/pdf/EE380.pdf">which</a>:<br />
+<blockquote>
+<ul>
+<li>Started in Fall ‘96</li>
+<li>Covered 35 mi area in south bay</li>
+<li>Delivered from ISDN to 30 Mbps bandwidth</li>
+<li>Used both licensed and unlicensed equipment (Part 15 and 97)</li>
+</ul>
+</blockquote>
+<h3>NSF Projects</h3>
+Dewayne was involved in a number of NSF funded experiments in using wireless to <a href="http://www.warpspeed.com/Public/DLH_Bio.html">connect remote communities</a>:<br />
+<blockquote>
+Prior to forming Dandin Group, he was the General Manager of the Wireless Business Unit for Com21, Inc. He joined Com21 following an opportunity to participate as the Co-Principal Investigator in the National Science Foundation’s Wireless Field Tests for Education project. The project sucessfully connected remote educational institutions to the Internet. The test sites ranged from rural primary schools in Colorado, USA to a University in Ulaan Bataar, Mongolia.
+</blockquote>
+Com21 was founded by Dewayne's mentor Paul Baran.<br />
+<br />
+The PI for connecting Mongolia to the Internet for the first time in 1996 was the "<a href="https://cyberplayground.org/2021/10/19/rip-rip-colonel-dave-hughes-aka-the-cursor-cowboy-has-passed-on/">Cursor Cowboy</a>" Colonel Dave Hughes, an equally remarkable character who was a pioneer of bulletin boards starting in 1981!. The NSF funded a 256Kbit/s satellite dish, the State Department shipped it to the US embassy in Ulan Bator via the "diplomatic pouch", and Dewayne and Glenn Tenney travelled via Beijing to deploy 900MHz links across the city.<br />
+<br />
+The Dandin Group, Dewayne's next company <a href="https://web.archive.org/web/20000301193938/http://www.dandin.com/projects.html">was</a>:<br />
+<blockquote>
+a partner in the Advanced Networking Project with Minority Serving Institutions (AN-MSI) an EDUCAUSE project funded by the National Science Foundation. The project's purpose is to provide improved communication services, including Internet access, to underserved minority and tribal-nation institutions. Because these institutions are frequently in remote locations which currently lack communication infrastructures, Internet-linked services delivered by wireless networks offer the most appropriate and cost-effective approach to connecting their communities to the world and to each other. 
+</blockquote>
+The project description is <a href="https://web.archive.org/web/20000709165341/http://www.dandin.com/pdf/AN-MSI_Project_Description.pdf">here</a>. <a href="https://web.archive.org/web/20000711102526/http://www.dandin.com/pdf/EDUCAUSEPR110199.pdf"><i>NSF Awards $6 Million to Help Minority Schools Prepare for Advanced Computer Networks</i></a> is EDUCAUSE's press release:<br />
+<blockquote>
+National Science Foundation (NSF) Director Rita Colwell announced last week at EDUCAUSE '99 that the foundation has awarded almost $6 million over four years to help institutions of higher learning that traditionally serve minority communities prepare for the next generation of information technology and computer networks. The grant will be administered by EDUCAUSE.
+</blockquote>
+<h3>Developing Countries</h3>
+Dewayne was not just active in getting Internet service to under-served communities with the NSF. The <a href="http://www.warpspeed.com/Public/DLH_Bio.html">bio on his website</a> states:<br />
+<blockquote>
+Tetherless Access was one of the first companies to develop and deploy Part 15 unlicensed wireless metropolitan area data networks using the TCP/IP protocols. He has participated in the installation of these networks in other parts of the world including: Kenya, Tonga, Mexico, Canada and Mongolia.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg08A_9p5KyiF-f3ahT9dgBOhaynnvorrXR1AKIEAddJQLNxHg8z21fzPy_AxXzBCwn8YMvaAJZH73E-KyTyIf_BKgklOcxeu-78u-VJ2ZyiuuGrtdIREHYDGF2G3zRBFcINBQv3uP86KeLOvXqriU-ZDZLyT3zwuzZYIovvLyjOPgxhw6rkD0R01Yti21Z/s1151/TongaNetwork.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="690" data-original-width="1151" height="120" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg08A_9p5KyiF-f3ahT9dgBOhaynnvorrXR1AKIEAddJQLNxHg8z21fzPy_AxXzBCwn8YMvaAJZH73E-KyTyIf_BKgklOcxeu-78u-VJ2ZyiuuGrtdIREHYDGF2G3zRBFcINBQv3uP86KeLOvXqriU-ZDZLyT3zwuzZYIovvLyjOPgxhw6rkD0R01Yti21Z/w200-h120/TongaNetwork.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="http://dandin.com/pdf/EE380.pdf">Source</a></td></tr></tbody></table>
+Amara Angelica reported that <a href="https://web.archive.org/web/20000307045638/http://www.techweek.com/articles/8-23-99/wireless.htm"><i>Tonga first to go wireless for telecommunications</i></a>:<br />
+<blockquote>
+"We’re replacing the entire existing telecom infrastructure with a wireless IP [Internet protocol] network," says Dewayne Hendricks, CEO of Fremont-based Dandin Group and former general manager of Com21’s wireless business unit. "Since the country is a monarchy, there was only one guy to convince, Crown Prince Tupouto’a, and then we just went for it."<br />
+<br />
+Hendricks’ firm plans to replace Tonga Telecom’s aging landline system—which still uses mechanical relays—with a broadband wireless network for data, video and telephony (using voice over IP). It will run at 30Mbps with user access at 2Mbps and 10Mbps by the end of next year. "We can get all the spectrum we want," Hendricks says.<br />
+<br />
+The prince’s objective, Hendricks says, is to convert the country’s largely agricultural workforce, which has an astonishing 95 percent literacy rate, into knowledge workers, such as programmers. The government launched the Royal School of Science for Distance Learning last year, using Internet connections to allow students to take courses at international universities. There are just fewer than 100,000 people in Tonga scattered across 170 islands.<br />
+<br />
+"We’re going to an Internet-style mesh network," says Hendricks. MMDS, which some carriers are using to deliver broadband services, won’t scale well for an IP network, he says. Hendricks, a technical advisor to the FCC on ultrawideband (UWB) technology, is considering UWB for the network.
+</blockquote>
+<a href="http://dandin.com/pdf/EE380.pdf">Tonga had</a> about 11,000 households and 6,500 phone customers, with an 8-year wait to get a phone. The goals of the project were to deliver 30Mbit/s IP to each home for a customer end budget of $450.<br />
+<br />
+<h3>FCC Technological Advisory Council</h3>
+Dewayne was one of the inaugural members of the <a href="https://web.archive.org/web/20000818002106/http://www.fcc.gov/oet/tac/members.html">Federal Communications Commission's Technological Advisory Council</a>, launched on April 30<sup>th</sup> 1999, together with luminaries such as <a href="https://en.wikipedia.org/wiki/Vint_Cerf">Vint Cerf</a>, AT&amp;T CTO <a href="https://en.wikipedia.org/wiki/David_Nagel">David Nagel</a>, CERFnet founder <a href="https://en.wikipedia.org/wiki/Susan_Estrada">Susan Estrada</a> and many others. He remained a member through the <a href="https://web.archive.org/web/20070930050129/http://www.fcc.gov/oet/tac/Confirmed_Members_and_Affiliations_10.20.05.pdf">fourth TAC</a> formed in 2005.<br />
+<h3>Wired Article</h3>
+In the January 2002 edition of <i>Wired</i>, Brent Hurtig's <a href="https://www.wired.com/2002/01/hendricks/"><i>Digital Cowboy</i></a> focused on Dewayne's work on the reservation:<br />
+<blockquote>
+At Turtle Mountain Chippewa Reservation in North Dakota, he's installing a wireless network. In its initial form, the system will meet FCC requirements governing frequency, power, and transmission technology. But not for long. Hendricks' mission is to build the best system possible - even if it's illegal - and he intends to use every tool at his disposal. Should the FCC crack down, the tribal leaders will hoist the flag of Native American sovereignty, asserting that they can do whatever they want with the sky above their reservation.
+</blockquote>
+Dewayne's work on the reservation, in Tonga and elsewhere was an attempt to demonstrate the problems with the obsolete US <a href="https://www.wired.com/2002/01/hendricks/">spectrum allocation policy</a>:<br />
+<blockquote>
+There's no sensible reason why Americans shouldn't have inexpensive, ubiquitous, high-performance broadband access, Hendricks says. Using technologies that are already available or in fast-track development, everyone could enjoy reliable, fully symmetrical wireless at T1 speed or better. No more digital divide. No more last-mile problem. No more compromises. The only things standing in the way are the FCC, Congress, and "other people who just don't get it."
+</blockquote>
+<h3>EE380 Talks</h3>
+Dewayne gave three talks to Stanford's EE380 symposium. The first one was apparently "in the ‘90s on wireless MANs" of which I have so far found no record.<br />
+<br />
+The second was on 3<sup>rd</sup> May 2000 entitled <a href="https://web.stanford.edu/class/ee380/Abstracts/000503.html"><i>Wiring Tonga: From the Ground Up and the Sky Down</i></a>. The abstract was:<br />
+<blockquote>
+One of the biggest barriers today standing in the way of deployment of advanced wireless communications systems turns out not to be the technology, but restrictions related to regulatory policies. This presentation will discuss the nature of these barriers and how they have affected the development of wireless data systems over the years.<br />
+<br />
+The speaker will also discuss on-going work in which he is involved to use advanced wireless technology to deploy multiservice IP systems as part of infrastructure-development projects in the Kingdom of Tonga and with Native American groups in the US, and how such projects are able to deal with the limitations imposed by conventional regulatory barriers.
+</blockquote>
+The slides are <a href="http://dandin.com/pdf/EE380.pdf">here</a>.<br />
+<br />
+The third was on 5<sup>th</sup> March 2014 and entitled <a href="https://web.stanford.edu/class/ee380/Abstracts/140305.html"><i>Inventing a New Internet: Learning from Icarus</i></a>. The abstract read:<br />
+<blockquote>
+From a future historical perspective, are we descendants of Icarus? Is our Internet like Icarus' wings? Are our protocols, ciphers and codes, brilliant capabilities built on immature engineering, which like Icarus' wax and feathers, are capable of taking us to great heights, but systematically flawed? For a brief historical moment, humanity has flown high like Icarus, on a vulnerable first generation Internet platform. Which as been used for securing and using distributed ideas, arts, media science, commerce, and machines. Promising brilliant futures with the arrival of networked things, autonomous personalized services and immersive media. But, now our first generation Internet , built on a fragile global network of vulnerable codes and protocols, is falling apart, like Icarus' wings, through a triple shock from:<br />
+<ul>
+<li>Massive dotcom data stalker economy built on mining of terabytes personal data.</li>
+<li>Ubiquitous criminal penetration of financial and identity networks, on our devices, in the cloud.</li>
+<li>Pervasive state intruders at all levels and every encrypted hardware and software node.</li>
+</ul>
+Humans eventually conquered the barriers to flight and learned to build durable and resilient aircraft. Similarly, humans must learn to build a more reliable, private and secure Internet for communications, innovation and commerce. We will share our thoughts on how we might go about the design of a more durable and resilient Internet:<br />
+<ul>
+<li>How prepared is the Internet for future human benefit?</li>
+<li>What are the attributes of a future more durable internet?</li>
+<li>What are the existing assets that could be harnessed?</li>
+<li>What needs to be developed?</li>
+</ul>
+</blockquote>
+Dewayne's slides for this talk are <a href="http://ee380.stanford.edu/Abstracts/140305-slides.pdf">here</a>.  Video of the talk is on <a href="https://www.youtube.com/watch?v=yzUjFyQowT0">YouTube</a>
+<h3>dewayne-net</h3>
+For many years Dewayne with impeccable taste curated dewayne-net, an e-mail list to which he sent links, most he found but some contributed by his friends. A typical e-mail would have the title of the linked post, a link, and enough of the content to encourage recipients to read the whole thing. The last e-mails were two on 19<sup>th</sup> August, as it happens both links that I had sent him earlier. I have been one of the more frequent contributors, although only perhaps 20% of my contributions passed the curatorial filter. Prof. Dave Farber's <a href="https://ip.topicbox.com/groups/ip">IP list</a> is a similar and I believe even longer-standing list; he and Dewayne exchanged links fairly often.<br />
+<br />
+As an example of the list in full flow, lets take April 2022. That month he sent 66 e-mails, many about the COVID pandemic and the war in Ukraine, obviously both top of mind at the time. But they included topics including satellite tracking of commercial aircraft, the Kessler syndrome, the problems of the US patent system, cybercrime, microplastics, banned math textbooks in Florida, and Elon Musk's purchase of Twitter. I am already greatly missing this window into Dewayne's eclectic set of interests.<br />
+<br /> 
+
+<https://blog.dshr.org/2024/09/dewayne-hendricks-rip.html>
+
+---
+
+##  How to Decarbonize Your Life. &#8220;Trying to zero out your personal carbon... 
+
+date: 2024-09-23, updated: 2024-09-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045330-how-to-decarbonize-your-l>
+
+---
+
+##  Wes Anderson Is Museum Bound 
+
+date: 2024-09-23, updated: 2024-09-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/wes-anderson-is-museum-bound>
+
+---
+
+##  Reader survey: &#8220;Upon discovering that an item they want to buy is... 
+
+date: 2024-09-23, updated: 2024-09-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045328-reader-survey-upon-discov>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-23, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2021/09/17/simpsonsBeeGuy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">This is what it <a href="https://imgs.scripting.com/2024/09/23/lostCase.png">looks like</a> when UPS loses a package. It's a case for the new Google Pixel 9 Pro. It was shipped on Sept 6, at this point that's 17 days go. It was hell to just tell Google that the case was lost. I expected at that point they'd apologize and refund the money. That was a week ago. Just got an email saying want me to return the case when it arrives. It's never going to arrive. Luckily this is a cheap product, just $38. If it had happened with the $1316 phone that would be a pretty big problem. It's amazing that a company the size and age of Google doesn't have a procedure for dealing with products that are lost (or more likely stolen) in transit. I've been through this with Amazon, they knew what to do. Anyway I have a fairly large credit with Google. I don't dare use it to purchase anything else from them, given how incompetent they are at dealing with fairly common customer problems. 
+
+<http://scripting.com/2024/09/23.html#a185701>
+
+---
+
+##  Gorgeous Lego animation of Caleb Holonko doing a 360 drop on a... 
+
+date: 2024-09-23, updated: 2024-09-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045318-gorgeous-lego-animation-o>
+
+---
+
+##  Departure Mono 
+
+date: 2024-09-23, updated: 2024-09-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/departure-mono>
+
+---
+
+## The second and final part of Chris' personal history with Linux
+
+date: 2024-09-23, from: Liam on Linux
+
+<span><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">This is the second, and I very much fear the last, part of my friend Chris &quot;da Kiwi&quot; Thomas' recollections about PCs, Linux, and more. <a href="https://liam-on-linux.dreamwidth.org/91759.html">I shared the first part a few days ago</a>. <br /><br />Having found that I could not purchase a suitable machine for my needs, I discovered the Asus ROG Windows 7 model, in about 2004. It was able to have a RAM upgrade, which I duly carried out, with 2 </span><span style="font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(31, 31, 31); font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">&times;</span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"> 8</span><span style="font-size: 12pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">GB SO-DIMMs, plus </span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">4GB of SDDR2 video RAM, and 2</span><span style="font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(31, 31, 31); font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">&times;</span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">500GB WD 7200RPM hard drives. This was beginning to look more like a </span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">computer</span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">. Over the time I used it, I was able to replace the spinning-rust drives with 500GB Samsung SSDs, and as larger sticks of RAM became available, increased that to the limit as well. I ran that machine, which was Tux-compatible </span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">[&ldquo;Tux&rdquo; being Chris&rsquo;s nickname for Linux. &ndash; Ed.],</span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"> throwing away the BSOD </span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">[Blue Screen Of Death &ndash; that is, Microsoft Windows. &ndash; Ed.]</span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"> and putting one of the earliest versions of Ubuntu with GNOME on it. It was computing heaven: everything just worked, and I dragged that poor beast around the world with me.</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">While in San Diego, I attended Scripps and lectured on cot death for three months as a guest. Scripps at the time was involved with IBM in developing a line-of-sight optical network, which worked brilliantly on campus. It was confined to a couple of experimental computer labs, but you had to keep your fingers off the mouse or keyboard, or your machine would overload with web pages if browsing. I believe it never made it into the world of computers for ordinary users, as the machines of the day could not keep up.</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">There was also talk around the labs of so-called </span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">quantum computing,</span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"> which had been talked about since the 1960s on and off, but <a href="https://en.wikipedia.org/wiki/Timeline_of_quantum_computing_and_communication">some developments appeared in 1968</a>.</span><br /><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"><br />The whole idea sounds great &ndash; </span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">if</span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"> it could be made to work at a practicable user level.&nbsp; But in the back of my mind, I had a suspicion that these ideas would just hinder investment and development of what was now a standard of motherboards and BIOS-based systems. Meanwhile, my Tux machine just did what was asked of it.</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Thank you, Ian and Debra Murdoch, <a href="https://www.debian.org/doc/manuals/project-history/intro.en.html#begining">who developed the Debian</a> version of Tux &ndash; on which Ubuntu was based.</span><br /><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"><br />I dragged that poor Asus around the Americas, both North and South, refurbishing it as I went. I found Fry's, the major technology shop in San Diego, where I could purchase portable hard drives and so on at a fraction of the cost of elsewhere in the world.</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Eventually, I arrived in Canada, where I had a speaking engagement at Calgary University &ndash; which also had a strong Tux club &ndash; and I spent some time happily looking at a few other distros. Distrowatch had been founded about 2001, which made it easy to keep up with Linux news, new versions of Tux, and what system they were based on. Gentoo seemed to be </span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">the</span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"> distro for those with the knowledge to compile and tweak every little aspect of their software.</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Arch attracted me at times. But eventually, I always went back to Ubuntu &ndash;&nbsp; until I learned of <a href="https://ubuntu-mate.org/">Ubuntu MATE</a>. The University had a pre-release copy of Ubuntu MATE 14.10, along with a podcast from Alan Pope and Martin Wimpress, and before I could turn around I had it on my Asus. It was simple, everything worked, and it removed the horrors of GNOME 3.</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">I flew happily back to New Zealand and my little country cottage.</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Late in 2015, my wife became very unwell after a shopping trip. Getting in touch with some medical friends, they were concerned she&rsquo;d had a heart attack. This was near the mark: she had contracted a virus which had destroyed a third of her heart muscle. It took her a few years to die, and a miserable time it was for her and for us both. After the funeral, I had rented out my house and bought a Toyota motorhome, and I began traveling around the country. I ran my Asus through a solar panel hooked up to an inverter, a system which worked well and kept the beast going.</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">After a couple of years, I decided to have a look around Australia. My grandfather on my father's side was Australian, and had fascinated us with tales of the outback, where he worked as a drover in the 1930s and &rsquo;40s.</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">And so, I moved to Perth, where my brother had been living since the 1950s.&nbsp;</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">There, I discovered an amazing thing: a configurable laptop based on a <a href="https://en.wikipedia.org/wiki/Clevo">Clevo</a> motherboard &ndash; and not only that, <a href="https://www.metabox.com.au/">their factory</a> was just up the road in Fremantle.</span></p><br /><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Hastily, I logged on to their website, and in a state of disbelief, browsed happily for hours at all the combinations I could put together. These were all variations on a theme by Windows 7, and there were no listing of ACPI records or other BIOS information.</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">I looked at my battered old faithful, my many-times-rebuilt Asus, and decided the time had come. I started building. Maximum RAM and video RAM, latest nVidia card, two SSDs, their top-of-the-line WiFi and Bluetooth chipsets, sound cards, etc. Then, I got it sent to New Zealand, as I was due back the next day.</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">That was the first of four Metabox machines I have built, and is still running flawlessly using Ubuntu MATE.&nbsp;</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">My next Metabox was described as a Windows 10 machine, but I knew that it would run Tux beautifully &ndash; and so it did. A few tweaks around the ACPI subsystem and it computed away merrily, with not a BSOD in sight. A friend of mine who had popped in for a visit was so impressed with it that he ordered one too, and that arrived about three months later. A quick wipe of the hard drive (thank you, Gparted!), both these machines are still running happily, with not a cloud on the horizon.</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">One, I gave to my stepson about three months back, and he has taken it back with him to the Philippines, where he reports it is running fine in the tropical heat.</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">My new Metabox arrived about six weeks ago, and I decided &ndash; just out of curiosity &ndash; to leave Windows 11 on it. A most stupid decision, but as my wife was running Windows 11 and had already blown it up once, needing a full reset (which, to my surprise, worked), I proceeded to charge it for the recommended 24 hours, and next day, switched it on. &ldquo;Hello&rdquo; it said, in big white letters, and then the nonsense began&hellip; a torrent of unwanted software proceeded to fill up one of my 8TB NVMe drives, culminating after many reboots with a Chatbot, an AI &ldquo;assistant&rdquo;, and something called &ldquo;Co-pilot&rdquo;.&nbsp;</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">&ldquo;No!&rdquo; I cried, &ldquo;not in a million years!&rdquo; &ndash; and hastily plugging in my Ventoy stick, I rebooted it into Gparted, and partitioned my hard drive for Ubuntu MATE.</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">So far, the beast seems most appreciative, and it hums along with just a gentle puff of warm air out of the ports. I needed to do a little tweaking, as the latest nVidia cards don&rsquo;t seem to like Wayland as a graphics server, and the addition to GRUB of&nbsp; </span><span style="font-size: 14pt; font-family: &quot;Roboto Mono&quot;, monospace; color: rgb(24, 128, 56); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">acpi=off</span><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">, and another flawless computer is on the road.</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Now, if only I could persuade Metabox to move to a 128-bit system, and can get delivery of that on the other side of the great divide, my future will be in computer heaven.</span></p><br /><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Oh, if you&rsquo;re wondering what happened to the Asus? It is still on the kitchen table in our house in the Philippines, in pieces, where I have no doubt it is waiting for another rebuild!&nbsp;</span></p><br /><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Chris Thomas</span></p><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 12pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">In Requiem&nbsp;</span></p><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">03/05/1942 &mdash; 02/10/2024&nbsp;</span></p></span>&nbsp;<br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=92138" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<https://liam-on-linux.dreamwidth.org/92138.html>
+
+---
+
+## LoveFrom Now Has a Mascot: Montgomery the Bear
+
+date: 2024-09-23, updated: 2024-09-23, from: Daring Fireball
+
+ 
+
+<https://www.fastcompany.com/91195233/jony-ive-love-from-logo-building-post-apple-brand>
+
+---
+
+##  Exactly Why Are Friendship Breakups So Brutal? &#8220;So much about friendship goes... 
+
+date: 2024-09-23, updated: 2024-09-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045312-exactly-why-are-friendshi>
+
+---
+
+## Tripp Mickle Profiles Jony Ive and LoveFrom, Confirms OpenAI Partnership for Device
+
+date: 2024-09-23, updated: 2024-09-23, from: Daring Fireball
+
+ 
+
+<https://www.nytimes.com/2024/09/21/technology/jony-ive-apple-lovefrom.html?smid=nytcore-ios-share&referringSource=articleShare&ngrp=mnp&pvid=2D87E4C1-1429-49ED-9B2A-558595007065>
+
+---
+
+## iOS 18 Messages Bug, Triggered When Sharing an Apple Watch Face, Causes Crash and Data Loss
+
+date: 2024-09-23, updated: 2024-09-23, from: Daring Fireball
+
+ 
+
+<https://9to5mac.com/2024/09/18/ios-18-messages-app-crash/>
+
+---
+
+##  Online street maps and satellite views of China don&#8217;t align because the... 
+
+date: 2024-09-23, updated: 2024-09-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045314-online-street-maps-and-sa>
+
+---
+
+## This is a test
+
+date: 2024-09-23, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2022/10/28/test.png"></center>Please ignore.</div></p>
+ 
+
+<http://scripting.com/2024/09/23/161723.html?title=thisIsATest>
+
+---
+
+## Hacking the “Bike Angels” System for Moving Bikeshares
+
+date: 2024-09-23, updated: 2024-09-23, from: Bruce Schneier blog
+
+<p>I always like a good hack. And <a href="https://www.nytimes.com/2024/09/19/nyregion/citi-bike-scam-nyc.html?smid=nytcore-android-share">this story</a> delivers. Basically, the New York City bikeshare program has a system to reward people who move bicycles from full stations to empty ones. By deliberately moving bikes to create artificial problems, and exploiting exactly how the system calculates rewards, some people are making a lot of money.</p>
+<blockquote><p>At 10 a.m. on a Tuesday last month, seven Bike Angels descended on the docking station at Broadway and 53rd Street, across from the Ed Sullivan Theater. Each rider used his own special blue key -­- a reward from Citi Bike&#8212;­ to unlock a bike. He rode it one block east, to Seventh Avenue. He docked, ran back to Broadway, unlocked another bike and made the trip again...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/09/hacking-the-bike-angels-system-for-moving-bikeshares.html>
+
+---
+
+##  Legalizing Sports Gambling Was a Huge Mistake. &#8220;The rise of sports gambling... 
+
+date: 2024-09-23, updated: 2024-09-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045326-legalizing-sports-gamblin>
+
+---
+
+## Enough twitter
+
+date: 2024-09-23, from: Dave Winer's Scripting News
+
+<p>BTW, to be clear, I have no interest in working on twitter-like systems.</p>
+<p>It's been like a prison to writers, we're stuck with this huge divide, with crap on both sides.  </p>
+<p>These things exist, they have a jumble of APIs and ways to integrate. </p>
+<p>And we've been playing by the rules laid down by Twitter (ev, biz and jack) for 18 freaking years. That's enough. </p>
+<p>This will never get sorted out until people realize it needs sorting out.</p>
+<p>Not expecting much more to happen there. </p>
+ 
+
+<http://scripting.com/2024/09/23/150840.html?title=enoughTwitter>
+
+---
+
+##  The Joyful Utility of Yeeting Pufflings Off Cliffs 
+
+date: 2024-09-23, updated: 2024-09-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/the-joyful-utility-of-yeeting-pufflings-off-cliffs>
 
 ---
 
@@ -51,16 +383,6 @@ date: 2024-09-23, from: Robert Reich's blog
 &#8220;Hate&#8221; has become his signature utterance 
 
 <https://robertreich.substack.com/p/trumps-hate>
-
----
-
-## September 21, 2024
-
-date: 2024-09-23, from: Heather Cox Richardson blog
-
- 
-
-<https://heathercoxrichardson.substack.com/p/september-21-2024-4a5>
 
 ---
 
@@ -156,13 +478,27 @@ On Thursday, September 19, the day after the Federal Reserve began to lower inte
 
 ---
 
+## September 21, 2024
+
+date: 2024-09-22, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-21-2024-4a5>
+
+---
+
 ## They stole my voice with AI
 
 date: 2024-09-22, from: Jeff Geerling blog
 
 <span class="field field--name-title field--type-string field--label-hidden">They stole my voice with AI</span>
 
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Listen to <a href="https://www.youtube.com/watch?v=WHfPH-Kr9XU">this clip</a>:</p>
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><blockquote>
+  <p><strong>UPDATE 9/23</strong>: The CEO of Elecrow <a href="https://x.com/geerlingguy/status/1838220595420418124">responded</a>. I'll have more thoughts soon.</p>
+</blockquote>
+
+<p>Listen to <a href="https://www.youtube.com/watch?v=WHfPH-Kr9XU">this clip</a>:</p>
 
 <div>
 
@@ -171,9 +507,7 @@ date: 2024-09-22, from: Jeff Geerling blog
 
 </div>
 
-<p>I don't know about you, but that sounds <a href="https://www.youtube.com/watch?v=UMofZIT9FcQ">pretty familiar</a>. I mean I <em>would</em> like you to subscribe to my YouTube channel. But that's the <a href="https://www.youtube.com/c/JeffGeerling">Jeff Geerling channel</a>, not <a href="https://www.youtube.com/watch?v=WHfPH-Kr9XU">Elecrow</a>, where the clip above is from. I never said the words that are in that video.</p>
-
-<p>Someone emailed me a link to Elecrow's video and said it sounded <em>off</em>. I'm guessing at least some of the thousands of people who watched the video thought I agreed to voice some Elecrow videos, since I talk about some of the same topics on my channel.</p></div>
+<p>I don't know about you, but that sounds <a href="https://www.youtube.com/watch?v=UMofZIT9FcQ">pretty familiar</a>. I mean I <em>would</em> like you to subscribe to my YouTube channel. But that's the <a href="https://www.youtube.com/c/JeffGeerling">Jeff Geerling channel</a>, not <a href="https://www.youtube.com/watch?v=WHfPH-Kr9XU">Elecrow</a>, where the clip above is from. I never said the words that are in that video.</p></div>
       <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
 <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-09-21T22:01:58-05:00" title="Saturday, September 21, 2024 - 22:01" class="datetime">September 21, 2024</time>
 </span> 

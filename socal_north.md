@@ -1,11 +1,85 @@
 ---
 title: socal north
-updated: 2024-09-23 07:12:09
+updated: 2024-09-23 16:49:25
 ---
 
 # socal north
 
-(date: 2024-09-23 07:12:09)
+(date: 2024-09-23 16:49:25)
+
+---
+
+## Some areas burned in the Bridge Fire will be closed for over a year
+
+date: 2024-09-23, updated: 2024-09-23, from: The LAist
+
+Angeles National Forest officials say the land needs time to recover. 
+
+<https://laist.com/news/climate-environment/some-areas-burned-in-the-bridge-fire-will-be-closed-for-over-a-year>
+
+---
+
+## Congratulations to 2024 Sidewalk Poetry Winners
+
+date: 2024-09-23, from: City of Santa Clarita
+
+<p>Sidewalk Poetry Dedication Ceremony to Honor Winners at The MAIN The City of Santa Clarita is proud to announce the Sidewalk Poetry winners for 2024. This year’s contest brought together talented poets from across the community, each contributing their unique voice and perspective to the beloved civic art initiative of Sidewalk Poetry. The winning poems [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/23/congratulations-to-2024-sidewalk-poetry-winners/">Congratulations to 2024 Sidewalk Poetry Winners</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/23/congratulations-to-2024-sidewalk-poetry-winners/>
+
+---
+
+## OC supervisors are set to vote on censure of Andrew Do and transparency reforms
+
+date: 2024-09-23, updated: 2024-09-23, from: The LAist
+
+The new votes come a week after the board removed Do from his committee assignments. 
+
+<https://laist.com/news/politics/oc-supervisors-are-set-to-vote-on-censure-of-andrew-do-and-transparency-reforms>
+
+---
+
+## “Weathering the Storm” by Susan Karhroody and Melissa Reischman
+
+date: 2024-09-23, from: City of Santa Clarita
+
+<p>Explore the Intersection of Nature and Climate Change The City of Santa Clarita is excited to announce &#8220;Weathering the Storm,&#8221; an exhibition that will be on view at The MAIN (24266 Main Street) from Tuesday, October 1 through Monday, December 2. This exhibition features the work of artists Susan Karhroody and Melissa Reischman, who examine [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/23/weathering-the-storm-by-susan-karhroody-and-melissa-reischman/">“Weathering the Storm” by Susan Karhroody and Melissa Reischman</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/23/weathering-the-storm-by-susan-karhroody-and-melissa-reischman/>
+
+---
+
+## These are the 2024 California bills Gavin Newsom has signed into law, and the ones he has vetoed
+
+date: 2024-09-23, updated: 2024-09-23, from: The LAist
+
+Many more bills are still on the governor's desk. We're tracking as he makes his decisions. 
+
+<https://laist.com/news/politics/these-are-the-2024-california-bills-gavin-newsom-has-signed-into-law-and-the-ones-he-has-vetoed>
+
+---
+
+## Critics say lawmakers watered down California’s lemon car law after secret lobbyist negotiations
+
+date: 2024-09-23, updated: 2024-09-23, from: The LAist
+
+The Legislature hastily passed the complicated bill, which auto manufacturers and attorneys drafted in secret. Did lawmakers even have time to read it? 
+
+<https://laist.com/news/politics/california-lemon-car-law-secret-lobbyist-negotiations>
+
+---
+
+## Fall kicks off with warm, dry weather
+
+date: 2024-09-23, updated: 2024-09-23, from: The LAist
+
+After a cooldown, expect warm weather through the week. 
+
+<https://laist.com/news/climate-environment/fall-warm-dry-weather>
 
 ---
 

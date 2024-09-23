@@ -1,11 +1,66 @@
 ---
 title: pacific
-updated: 2024-09-23 07:12:11
+updated: 2024-09-23 16:49:27
 ---
 
 # pacific
 
-(date: 2024-09-23 07:12:11)
+(date: 2024-09-23 16:49:27)
+
+---
+
+## L&L founder donates $100K to Mini-Med School on Healthy Aging
+
+date: 2024-09-23, from: University of Hawaiʻi News
+
+<p>Eddie and Elaine Flores say the Mini-Med School on Healthy Aging is a tremendous asset to the community.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/23/100k-gift-to-mini-med-school/"><abbr>L</abbr>&<abbr>L</abbr> founder donates $100<abbr>K </abbr>to Mini-Med School on Healthy Aging</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/23/100k-gift-to-mini-med-school/>
+
+---
+
+## UHERO: Simple change could boost SNAP benefits statewide
+
+date: 2024-09-23, from: University of Hawaiʻi News
+
+<p>The report suggests that eliminating the net income limit for <abbr>SNAP</abbr> could extend benefits to an additional 13,000 to 14,000 households by 2025.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/23/uhero-boost-snap-benefits-statewide/"><abbr>UHERO</abbr>: Simple change could boost <abbr>SNAP</abbr> benefits statewide</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/23/uhero-boost-snap-benefits-statewide/>
+
+---
+
+## Climate scientist recognized for contributions to Earth, space science
+
+date: 2024-09-23, from: University of Hawaiʻi News
+
+<p>Malte Stuecker won the James B. Macelwane Medal from the American Geophysical Union for his significant contributions to Earth and space science.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/23/agu-medal-malte-stuecker/">Climate scientist recognized for contributions to Earth, space science</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/23/agu-medal-malte-stuecker/>
+
+---
+
+## Meet Dr. Penny Becker, Island Conservation’s CEO
+
+date: 2024-09-23, from: Island Conservation News
+
+<p>Dr. Penny Becker answers some questions to help you get to know her!</p>
+<p>The post <a href="https://www.islandconservation.org/meet-dr-penny-becker-island-conservations-ceo/">Meet Dr. Penny Becker, Island Conservation&#8217;s CEO</a> appeared first on <a href="https://www.islandconservation.org">Island Conservation</a>.</p>
+ 
+
+<https://www.islandconservation.org/meet-dr-penny-becker-island-conservations-ceo/>
+
+---
+
+## Night Poem
+
+date: 2024-09-23, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by George Freek I stare into the lake, where the moon is reflected like a shrunken pear. The stars seem like tiny boats, drifting in an inviting sea to almost anywhere; then giving way to despair. My hopes seem to &#8230; <a href="https://hawaiipacificreview.org/2024/09/23/night-poem/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/09/23/night-poem/>
 
 ---
 
@@ -186,6 +241,18 @@ date: 2024-09-23, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/09/23/opinion/trumps-welcome-salt-switch-restore-the-tax-break-back-to-what-it-was/>
+
+---
+
+## Body recovered from riverbed below waterfall in Ninole
+
+date: 2024-09-23, from: Hawaii Tribune Harold
+
+
+				<p>Police have recovered the body of a man who was last seen sitting on the edge of an 80-foot waterfall in Ninole on Saturday afternoon.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/23/hawaii-news/body-recovered-from-riverbed-below-waterfall-in-ninole/>
 
 ---
 

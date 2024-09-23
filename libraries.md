@@ -1,11 +1,21 @@
 ---
 title: libraries
-updated: 2024-09-23 07:12:17
+updated: 2024-09-23 16:49:33
 ---
 
 # libraries
 
-(date: 2024-09-23 07:12:17)
+(date: 2024-09-23 16:49:33)
+
+---
+
+## The Eumenides, by Aeschylus
+
+date: 2024-09-23, from: Standard Ebooks, new releaases
+
+A man is pursued by wrathful goddesses for avenging his father’s murder, and finds refuge in Athens where a trial determines his fate. 
+
+<https://standardebooks.org/ebooks/aeschylus/the-eumenides/gilbert-murray>
 
 ---
 
