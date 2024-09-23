@@ -1,11 +1,79 @@
 ---
 title: home
-updated: 2024-09-21 11:20:05
+updated: 2024-09-22 16:58:20
 ---
 
 # home
 
-(date: 2024-09-21 11:20:05)
+(date: 2024-09-22 16:58:20)
+
+---
+
+## How to Grow and Care for English Stonecrop
+
+date: 2024-09-22, from: The Gardener's Path
+
+<p>English stonecrop is a pretty creeping sedum that features colorful foliage, starry flowers in pink to white, and grow into attractive spreading mats. These highly drought-tolerant plants make an excellent choice for ground covers, rockeries, or in any low water setting. Learn how to grow English stonecrop in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/grow-english-stonecrop/">How to Grow and Care for English Stonecrop</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/succulents/grow-english-stonecrop/>
+
+---
+
+## 60 Florida Moths (Moths in Florida with Pictures, Identification)
+
+date: 2024-09-22, from: Yard Life blog
+
+<p>Florida Moths are a diverse and fascinating group of insects, showcasing a wide range of colors, sizes, and behaviors. From ... </p>
+<p class="read-more-container"><a title="60 Florida Moths (Moths in Florida with Pictures, Identification)" class="read-more button" href="https://ownyardlife.com/60-florida-moths-moths-in-florida-with-pictures-identification/#more-19513" aria-label="Read more about 60 Florida Moths (Moths in Florida with Pictures, Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/60-florida-moths-moths-in-florida-with-pictures-identification/">60 Florida Moths (Moths in Florida with Pictures, Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/60-florida-moths-moths-in-florida-with-pictures-identification/>
+
+---
+
+## 5 Must-Visit Markets and Bakeries in the West
+
+date: 2024-09-21, from: Sunset Magazine - Living in the West
+
+These are the best bakeries and markets for picking up a snack or an edible souvenir in the West. Shop there on your next trip. 
+
+<https://www.sunset.com/travel/best-markets-and-bakeries-in-west-2024>
+
+---
+
+## Immerse Yourself in Nature at These Camps, Lodges, and Hotels
+
+date: 2024-09-21, from: Sunset Magazine - Living in the West
+
+Fans of the outdoors and even those who aren't will appreciate a stay at these amazing nature resorts and hotels in the West. 
+
+<https://www.sunset.com/travel/best-nature-resorts-hotels-2024>
+
+---
+
+## This Airport Is the Secret to Seamless Travel (and It Was Just Named the Best in the U.S.)
+
+date: 2024-09-21, from: Sunset Magazine - Living in the West
+
+John Wayne Airport in Orange County, California has been recognized as one of the best large airports according to latest J.D. Power. 
+
+<https://www.sunset.com/travel/john-wayne-airport-best-airport-in-the-us>
+
+---
+
+## 13 California Toads (Toads in California with Pictures, Identification)
+
+date: 2024-09-21, from: Yard Life blog
+
+<p>California toads are a diverse group of amphibians that inhabit various ecosystems across the state, from coastal regions to arid ... </p>
+<p class="read-more-container"><a title="13 California Toads (Toads in California with Pictures, Identification)" class="read-more button" href="https://ownyardlife.com/13-california-toads-toads-in-california-with-pictures-identification/#more-19488" aria-label="Read more about 13 California Toads (Toads in California with Pictures, Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/13-california-toads-toads-in-california-with-pictures-identification/">13 California Toads (Toads in California with Pictures, Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/13-california-toads-toads-in-california-with-pictures-identification/>
 
 ---
 
@@ -182,7 +250,7 @@ News Release from Governor Newsom&#8217;s office What you need to know:&#160;A n
 
 date: 2024-09-20, from: Dwell
 
-The gleaming dwelling by Chance de Silva has full-height glazing, a lofted living area, and a contemporary kitchen—and it’s just an hour’s train ride from London. 
+Set an hour by train from London, the gleaming dwelling by Chance de Silva has full-height glazing, a lofted living area, and a contemporary kitchen. 
 
 <https://www.dwell.com/article/skyline-home-chance-de-silva-oxfordshire-england-real-estate-3fd4d38e>
 
@@ -462,16 +530,6 @@ date: 2024-09-19, from: Sunset Magazine - Living in the West
 Fire season is now year-round. Here's everything you need to know about firescaping and fire defensive landscapes. 
 
 <https://www.sunset.com/home-garden/landscaping/firescaping-fire-defensive-tips>
-
----
-
-## This Airport Is the Secret to Seamless Travel (and It Was Just Named the Best in the U.S.)
-
-date: 2024-09-19, from: Sunset Magazine - Living in the West
-
-John Wayne Airport in Orange County, California has been recognized as one of the best large airports according to latest J.D. Power. 
-
-<https://www.sunset.com/travel/john-wayne-airport-best-airport-in-the-us>
 
 ---
 
@@ -1706,16 +1764,6 @@ date: 2024-09-16, from: Family Handyman Blog
 
 ---
 
-## 5 Must-Visit Markets and Bakeries in the West
-
-date: 2024-09-16, from: Sunset Magazine - Living in the West
-
-These are the best bakeries and markets for picking up a snack or an edible souvenir in the West. Shop there on your next trip. 
-
-<https://www.sunset.com/travel/best-markets-and-bakeries-in-west-2024>
-
----
-
 ## This Washington Craftsman Was Big on Charm, But Tight on Space—See How It Was Renovated
 
 date: 2024-09-16, from: Sunset Magazine - Living in the West
@@ -1774,30 +1822,4 @@ date: 2024-09-15, from: Yard Life blog
  
 
 <https://ownyardlife.com/50-snakes-in-arkansas-arkansas-snakes-pictures-identification/>
-
----
-
-## 72 California Spiders (Spiders in California, Pictures, Identification)
-
-date: 2024-09-14, from: Yard Life blog
-
-<p>California is home to a diverse array of spiders, with the state&#8217;s varied ecosystems providing ideal habitats for numerous species. ... </p>
-<p class="read-more-container"><a title="72 California Spiders (Spiders in California, Pictures, Identification)" class="read-more button" href="https://ownyardlife.com/72-california-spiders-spiders-in-california-pictures-identification/#more-19172" aria-label="Read more about 72 California Spiders (Spiders in California, Pictures, Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/72-california-spiders-spiders-in-california-pictures-identification/">72 California Spiders (Spiders in California, Pictures, Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<https://ownyardlife.com/72-california-spiders-spiders-in-california-pictures-identification/>
-
----
-
-## 12 Woodpeckers in Florida (Pictures and Identification)
-
-date: 2024-09-14, from: Yard Life blog
-
-<p>Woodpeckers in Florida are a remarkable feature of the state&#8217;s natural landscape, offering both beauty and ecological benefits. The array ... </p>
-<p class="read-more-container"><a title="12 Woodpeckers in Florida (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/12-woodpeckers-in-florida-pictures-and-identification/#more-19152" aria-label="Read more about 12 Woodpeckers in Florida (Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/12-woodpeckers-in-florida-pictures-and-identification/">12 Woodpeckers in Florida (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<https://ownyardlife.com/12-woodpeckers-in-florida-pictures-and-identification/>
 

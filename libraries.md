@@ -1,11 +1,21 @@
 ---
 title: libraries
-updated: 2024-09-21 11:20:04
+updated: 2024-09-22 16:58:19
 ---
 
 # libraries
 
-(date: 2024-09-21 11:20:04)
+(date: 2024-09-22 16:58:19)
+
+---
+
+## Exploring Neuronal Function and Disease Mechanisms Through Advanced Electrophysiological Phenotyping with High-Density Microelectrode Arrays
+
+date: 2024-09-21, from: ETH Zurich, recently added
+
+Hornauer, Philipp 
+
+<http://hdl.handle.net/20.500.11850/695348>
 
 ---
 

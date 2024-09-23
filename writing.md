@@ -1,11 +1,33 @@
 ---
 title: writing
-updated: 2024-09-21 11:20:02
+updated: 2024-09-22 16:58:17
 ---
 
 # writing
 
-(date: 2024-09-21 11:20:02)
+(date: 2024-09-22 16:58:17)
+
+---
+
+## Clarkesworld: Short Fiction Reviews by A.C. Wise
+
+date: 2024-09-22, from: Locus Magazine
+
+<p>Clarkesworld 6/24</p>
+<p><strong>“Twenty-Four Hours” </strong>by <strong>H.H. Pak </strong>starts off the June issue of Clarkesworld on a high note. The story is beautiful and heartbreaking as a mother spends a final twenty-four hours with a programmed version of her recently deceased daughter in an effort to gain closure. The story does a wonderful job of portraying grief in its various stages and capturing the feeling of wanting to spend just a  <a href="https://locusmag.com/2024/09/clarkesworld-short-fiction-reviews-by-a-c-wise/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/clarkesworld-short-fiction-reviews-by-a-c-wise/>
+
+---
+
+## Track Changes by Abigail Nussbaum: Review by Ian Mond
+
+date: 2024-09-21, from: Locus Magazine
+
+<p><strong>Track Changes</strong>, Abigail Nussbaum (Briardene 978-1-73856-170-4, £15.00, 448pp, tp) August 2024.</p>
+<p>In March, Abigail Nussbaum, on her blog Asking the Wrong Questions, reviewed Francis Spuf­ford’s <strong>Cahokia Jazz</strong>, one of my favourite novels of 2024. It’s a review that encapsulates everything magnificent about Nussbaum, a well-deserved Hugo winner. First, there’s the sheer artistry, the way the review is crafted like a mystery (fitting for a noirish novel), raising questions  <a href="https://locusmag.com/2024/09/track-changes-by-abigail-nussbaum-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/track-changes-by-abigail-nussbaum-review-by-ian-mond/>
 
 ---
 
@@ -389,47 +411,4 @@ date: 2024-09-15, from: Locus Magazine
 <p><strong>KATHRYN </strong> <a href="https://locusmag.com/2024/09/people-publishing-roundup-september-2024/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/09/people-publishing-roundup-september-2024/>
-
----
-
-## 🧟 #217 - We're not using the "Z" word.
-
-date: 2024-09-14, from: Interesting, a blog on writing
-
-Do we know what kind of story we're in, and will it matter? 
-
-<https://inneresting.substack.com/p/217-were-not-using-the-z-word>
-
----
-
-## Mouth by Puloma Ghosh: Review by Ian Mond
-
-date: 2024-09-14, from: Locus Magazine
-
-<p><strong>Mouth</strong>, Puloma Ghosh (Astra House 978-1-66260-247-4, $26.00, 224pp, hc) June 2024.</p>
-<p>Reading Puloma Ghosh’s debut collection, <strong>Mouth</strong>, brought me back to the pandemic and the months spent in lockdown. To be clear, not one of the eleven stories in the book takes place during or refers to COVID, but isolation and loneliness are so central to Ghosh’s work, her protagonist’s aching for intimacy, that my thoughts were cast  <a href="https://locusmag.com/2024/09/ian-mond-reviews-mouth-by-puloma-ghosh/" class="read-more">...Read More </a></p> 
-
-<https://locusmag.com/2024/09/ian-mond-reviews-mouth-by-puloma-ghosh/>
-
----
-
-## The Top New SFF Books for the Week of 9/10/24
-
-date: 2024-09-14, from: Locus Magazine
-
-<p>You love to know what books are coming out right now? We&#8217;ve got you!</p>
-<p>Check out our weekly update for SF, fantasy, and horror books with Amelia over at our YouTube channel. Don&#8217;t forget to hit the thumb&#8217;s up and subscribe so you know when a new video goes up!</p>
-<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2024/09/the-top-new-sff-books-for-the-week-of-9-10-24/" class="read-more">...Read More </a> 
-
-<https://locusmag.com/2024/09/the-top-new-sff-books-for-the-week-of-9-10-24/>
-
----
-
-## Beetlejuice Beetlejuice: Sequel Magic or Missed Opportunity? A Movie Review by Erin Underwood
-
-date: 2024-09-14, from: Locus Magazine
-
-<p>Tim Burton returns to direct <strong>Beetlejuice 2</strong> (2024), also known as <strong>Beetlejuice Beetlejuice</strong>, in this wickedly wild sequel that takes on the 1988 classic, starring Michael Keaton, Winona Ryder, and Jenna Ortega. Since so many remakes and sequels this year have fallen flat, despite media buzz and excitement, it was easy to be skeptical about this film. Could it live up to the original? With Tim Burton, most of  <a href="https://locusmag.com/2024/09/beetlejuice-beetlejuice-sequel-magic-or-missed-opportunity-a-movie-review-by-erin-underwood/" class="read-more">...Read More </a></p> 
-
-<https://locusmag.com/2024/09/beetlejuice-beetlejuice-sequel-magic-or-missed-opportunity-a-movie-review-by-erin-underwood/>
 

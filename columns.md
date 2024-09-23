@@ -1,11 +1,264 @@
 ---
 title: columns
-updated: 2024-09-21 11:20:01
+updated: 2024-09-22 16:58:16
 ---
 
 # columns
 
-(date: 2024-09-21 11:20:01)
+(date: 2024-09-22 16:58:16)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-22, from: Dave Winer's Scripting News)
+
+Instead of just fact-checking the candidates, and presenting "both sides," how about recording the number of times the candidate threatens specific races, genders, lifestyles, religions and of course individual people. Keep a page where you tally the groups he <i>doesn't</i> threaten with expulsion or worse. That would be very revealing, and in line with the true issue of this election. Time for you all to get in sync with the actual American history that's being made. 
+
+<http://scripting.com/2024/09/22.html#a202804>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-22, from: Dave Winer's Scripting News)
+
+It's around this time of year that I start thinking about my <a href="https://www.google.com/search?q=site%3Ascripting.com+boty">BOTY</a>. I should give out a plaque or a statue or something. Someday! Anyway almost immediately I had my answer. The announcement will wait till December of course, sometimes early January. 
+
+<http://scripting.com/2024/09/22.html#a202442>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-22, from: Dave Winer's Scripting News)
+
+Social networks are condemned when they carry lies from race-hate, misogyny and worse, but the major news orgs do it all the time. It's ridiculous that there are two standards. 
+
+<http://scripting.com/2024/09/22.html#a202309>
+
+---
+
+## Article pairing: demonizing protestors
+
+date: 2024-09-22, from: Tracy Durnell Blog
+
+Rich countries silencing climate protest while preaching about rights elsewhere, says study by Matthew Taylor (The Guardian) + Homeland Security Admits It Tried to Manufacture Fake Terrorists for Trump by Dell Cameron (Gizmodo) The report describes attempts by top officials to link protesters to an imaginary terrorist plot in an apparent effort to boost Trump’s reelection [&#8230;] 
+
+<https://tracydurnell.com/2024/09/22/article-pairing-demonizing-protestors/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-22, from: Dave Winer's Scripting News)
+
+To my programmer friends, how long would it have taken to answer <a href="https://chatgpt.com/share/66f038e3-7218-8012-a294-05bb7afa9b97">this question</a> using Google and StackExchange. There was a bug in this one line of code, a call to <i>new Date ()</i> in JavaScript, that was behaving as if months were not 0-based, which they are known to be. The problem: I was specifying the day as 0 and month, correctly, but the day had to be 1 in order for it to work and without thinking I had specified it as 0. 
+
+<http://scripting.com/2024/09/22.html#a153409>
+
+---
+
+## ‘The West Wing‘
+
+date: 2024-09-22, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<https://steady.substack.com/p/the-west-wing>
+
+---
+
+## Caption contest: Trump-Vance
+
+date: 2024-09-22, from: Robert Reich's blog
+
+And last week&#8217;s winner 
+
+<https://robertreich.substack.com/p/caption-contest-springfield>
+
+---
+
+## September 21, 2024
+
+date: 2024-09-22, from: Heather Cox Richardson blog
+
+On Thursday, September 19, the day after the Federal Reserve began to lower interest rates two and a half years after it began to raise them to get inflation under control, President Joe Biden spoke to the Economic Club of Washington, D.C., a nonprofit, nonpartisan forum where leaders from around the world can speak to larger questions about the global economy. 
+
+<https://heathercoxrichardson.substack.com/p/september-21-2024>
+
+---
+
+## They stole my voice with AI
+
+date: 2024-09-22, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">They stole my voice with AI</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Listen to <a href="https://www.youtube.com/watch?v=WHfPH-Kr9XU">this clip</a>:</p>
+
+<div>
+
+  
+  Your browser does not support the video tag.
+
+</div>
+
+<p>I don't know about you, but that sounds <a href="https://www.youtube.com/watch?v=UMofZIT9FcQ">pretty familiar</a>. I mean I <em>would</em> like you to subscribe to my YouTube channel. But that's the <a href="https://www.youtube.com/c/JeffGeerling">Jeff Geerling channel</a>, not <a href="https://www.youtube.com/watch?v=WHfPH-Kr9XU">Elecrow</a>, where the clip above is from. I never said the words that are in that video.</p>
+
+<p>Someone emailed me a link to Elecrow's video and said it sounded <em>off</em>. I'm guessing at least some of the thousands of people who watched the video thought I agreed to voice some Elecrow videos, since I talk about some of the same topics on my channel.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-09-21T22:01:58-05:00" title="Saturday, September 21, 2024 - 22:01" class="datetime">September 21, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai>
+
+---
+
+## Podcast on "The Nature of Intelligence"
+
+date: 2024-09-21, from: Melanie Mitchell, AI Guide for Human Thinking
+
+I never thought I would be a podcast host, but&#8230;Abha Eli Phoboo, the director of communications at the Santa Fe Institute, recently relaunched SFI&#8217;s official podcast, Complexity, and proposed that each season, an SFI faculty member co-host the podcast with her for six episodes on a topic of their choice. 
+
+<https://aiguide.substack.com/p/podcast-on-the-nature-of-intelligence>
+
+---
+
+##  It&#8217;s my unfortunate duty to inform you that, once again, It&#8217;s Decorative... 
+
+date: 2024-09-21, updated: 2024-09-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045321-its-my-unfortunate-duty-t>
+
+---
+
+## Health is nothing to screw with
+
+date: 2024-09-21, from: Dave Winer's Scripting News
+
+<p>Since I'm about to turn 70 (next May), and because my body is getting old in ways it never has before (of course) -- I've become a more active participant in the health care system. </p>
+<p>One thing I've learned is it can be hard to get the attention of the doctors. And once you see your GP about a problem it's almost certain they're going to send you to a specialist. So you go to the specialist and it's pretty random as to whether they put the effort into understanding your situation in full. And they aren't trying to solve all your problems, just the ones they deal in. </p>
+<p>An aside, a couple of years ago I had a condition that ChatGPT diagnosed in a second but it took the doctors who weren't paying much attention (my primary care doctor had retired and I was being shuffled between NPs and MDs until they could find someone to be my new main doctor) so they were all sending me to the wrong specialists, all of whom said there was no problem, yet I still had the symptoms which were getting worse. On the fourth try, someone sent me to the right specialist and they instantly diagnosed what ChatGPT had diagnosed at the outset. So when people say AI could hurt medical care, I don't think so, it would probably be a good idea to have an AI looking over their shoulders and asking if they've considered the Occam's Razor specialist. </p>
+<p>So you have to be alert, and push to get them to pay attention. </p>
+<p>And communicating with the system is ridiculous. Almost everything has to be done over the phone. They have email, but if you want to set up an appointment, you have to call. And wait on hold. And wait and wait. And then it's a dice roll as to who you get connected to. There are some people you talk to who seem to be trying to be annoying. It's a total pain in the ass, but you have to do it. (And since they have to ask for your birthdate to identify you they know how old you are and treat you accordingly.)</p>
+<p>All the health care for a person my age seems to be directed at finding the thing that's going to kill you and treating it. That's good, and that's a shift in perspective from someone who until recently had a young body which basically took care of itself. Or so it seemed (I did have emergency heart surgery at 47 that saved my life, although that's a fairly distant memory now).</p>
+<p>So right now I have a thing that needs to be looked into because it might be one of those serious things. And it's really hard to get the system to respond quickly, because if it's serious it's one of those things that you want to deal with asap. I don't think it is, but you have to act as if it might be. And it can be humiliating to say the least. </p>
+<p>But there's no law saying the doctor, or any of the others in the system, could go to jail or lose their license if they treat any illness I might have. I can now for the first time really understand what it might be like to have to deal with that in addition to all the other <i>serious</i> stuff you have to deal with. </p>
+<p>That's the point of this post. Throwing a wrench into the already broken wheels of our medical system is the crime. They should go to prison for doing this, the six Supreme Court justices and other Republican assholes who stick their noses where they don't belong. There should be a penalty for what they're doing, they should have the fear they're putting women through. They should worry about what happens when their decision is overturned. </p>
+<p>Perhaps they should lose their medical care as should all the members of their families. Then they might get an idea of how sinful they have been.</p>
+<p><i>The first draft of this post appeared <a href="https://www.facebook.com/dave.winer.12/posts/pfbid02emJvNBVscbSVgUsRaxg6tCWPYcZnfsJy7W2Tp6WU6iKfNtLVgKU8Nh69z8vmkGf8l">on Facebook</a>. </i></p>
+ 
+
+<http://scripting.com/2024/09/21/141315.html?title=healthIsNothingToScrewWith>
+
+---
+
+##  The FDA has approved a nasal flu vaccine that people can administer... 
+
+date: 2024-09-21, updated: 2024-09-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045320-the-fda-has-approved-a>
+
+---
+
+## September 20, 2024
+
+date: 2024-09-21, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-20-2024-837>
+
+---
+
+##  Did Shohei Ohtani just play the single greatest baseball game ever? &#8220;He... 
+
+date: 2024-09-21, updated: 2024-09-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045319-did-shohei-ohtani-just-pl>
+
+---
+
+## 
+                <code>mkfs.fat</code> on Linux vs. OS/2 2.1
+            
+
+date: 2024-09-21, updated: 2024-09-21, from: Uninformative blog
+
+ 
+
+<https://www.uninformativ.de/blog/postings/2024-09-21/0/POSTING-en.html>
+
+---
+
+## How Low Will Trump Go? The Coffee Klatch, September 21, 2024
+
+date: 2024-09-21, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly, Robert Reich 
+
+<https://robertreich.substack.com/p/how-low-will-trump-go-the-coffee>
+
+---
+
+## September 20, 2024 
+
+date: 2024-09-21, from: Heather Cox Richardson blog
+
+On September 16, CNN senior data reporter Harry Enten wrote that while it&#8217;s &#8220;[p]retty clear that [Democratic candidate Vice President Kamala] Harris is ahead nationally right now&#8230; [h]er advantage in the battlegrounds is basically nil. 
+
+<https://heathercoxrichardson.substack.com/p/september-20-2024>
+
+---
+
+## deo absente deum culpa
+
+date: 2024-09-21, from: Jonudell blog
+
+On a recent trip I saw this pair of Latin phrases tattooed on the back of a flight attendant&#8217;s arms: Left: Deo absente. Right: Deum culpa. I took Latin in middle school, and could guess what the combination might mean. It&#8217;s not a common construction, and a search seems to confirm my guess. Both Google &#8230; <a href="https://blog.jonudell.net/2024/09/20/deo-absente-deum-culpa/" class="more-link">Continue reading <span class="screen-reader-text">deo absente deum culpa</span></a> 
+
+<https://blog.jonudell.net/2024/09/20/deo-absente-deum-culpa/>
+
+---
+
+## Listened to Cake – Frank Sinatra
+
+date: 2024-09-21, from: Tracy Durnell Blog
+
+That hat reads so 90s to me. 
+
+<https://tracydurnell.com/2024/09/20/listened-to-cake-frank-sinatra/>
+
+---
+
+## Weeknotes: Sept. 14-20, 2024
+
+date: 2024-09-21, from: Tracy Durnell Blog
+
+I&#8217;m trying to learn to flex my schedule and let myself relax when project work is at a lull. (Especially since my hand is still bugging me so I&#8217;m not writing fiction.) It&#8217;s hard! But I caught up on a lot of library books this week. Highlight of the week: went to an unveiling of [&#8230;] 
+
+<https://tracydurnell.com/2024/09/20/weeknotes-sept-14-20-2024/>
+
+---
+
+## Friday Squid Blogging: Squid Game Season Two Teaser
+
+date: 2024-09-21, updated: 2024-09-21, from: Bruce Schneier blog
+
+<p>The <a href="https://www.hollywoodreporter.com/tv/tv-news/squid-game-season-2-trailer-lee-jung-jae-1236007425/">teaser</a> for <i>Squid Game</i> Season Two dropped.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/09/friday-squid-blogging-squid-game-season-two-teaser.html>
+
+---
+
+## Qualcomm Is Trying to Acquire Intel
+
+date: 2024-09-21, updated: 2024-09-21, from: Daring Fireball
+
+ 
+
+<https://www.wsj.com/business/deals/qualcomm-approached-intel-about-a-takeover-in-recent-days-fa114f9d>
 
 ---
 
@@ -135,7 +388,7 @@ date: 2024-09-20, updated: 2024-09-20, from: Jason Kittke's blog
 
 ## European Commission Opens ‘Specification Proceedings’, Ostensibly to Tell Apple Exactly What to Do
 
-date: 2024-09-20, updated: 2024-09-20, from: Daring Fireball
+date: 2024-09-20, updated: 2024-09-21, from: Daring Fireball
 
  
 
@@ -322,7 +575,7 @@ Quoted from: Podcast: Google and Meta Are A Threat to Journalism (Matt Pearce an
 
 ## Yes, you can have exactly-once delivery
 
-date: 2024-09-20, updated: 2024-09-20, from: Ron Garret
+date: 2024-09-20, updated: 2024-09-22, from: Ron Garret
 
 IntroductionThis post is ostensibly about an obscure technical issue in distributed systems, but it's really about human communications, and how disagreements that on the surface appear to be about technical issues can sometimes turn out to actually be disagreements about the meanings of words.&nbsp; I'm taking the time to write a fairly extensive post about this for two reasons.&nbsp; First, I'm 
 
@@ -543,7 +796,7 @@ date: 2024-09-19, from: Daniel Stenberg Blog
 
 ## ★ The iPhones 16
 
-date: 2024-09-19, updated: 2024-09-20, from: Daring Fireball
+date: 2024-09-19, updated: 2024-09-21, from: Daring Fireball
 
 What more proof of the camera’s singular importance to the iPhone would one need than the ever-growing block of camera lenses on the back of each year’s new models, or the “Shot on iPhone” ad campaign? A dedicated hardware button? 
 
@@ -1599,239 +1852,4 @@ date: 2024-09-15, updated: 2024-09-15, from: Anil Dash blog
  
 
 <https://anildash.com/2024/09/15/anna-delvey-pitch/>
-
----
-
-## Hibiclens
-
-date: 2024-09-14, from: Dave Rupert blog
-
-<p>Every two-to-four years my body chemistry changes and my armpits start to reject my deodorant with an intense itch. All that aluminum has gunked up the works I guess. Usually cycling out deodorants works fine, but this time it didn’t work because my armpits were overpowering all the other deodorants.</p>
-<p>I tried a tactical reset and took the  “<a href="https://daverupert.com/2024/06/vibe-check-33/">No deodorant challenge</a>”, the legend –which I remember my hippie step-brother Nik telling me about thirty years ago– that if you stop using deodorant for two weeks the oils in your body naturally recalibrate and you stops smelling… but this urban legend very much did not work. I smelled horrible all the time.</p>
-<p>I casually mentioned this issue to my dermatologist and he was quick to recommend this homely teal bottle of over-the-counter 1970s logotype, <a href="https://hibiclens.com/">Hibiclens</a>.</p>
-<picture>
-  <source srcset="https://cdn.daverupert.com/posts/2024/hibiclens-landscape.png" media="(orientation: landscape)"></source>
-  <img src="https://cdn.daverupert.com/posts/2024/hibiclens.png" alt="A teal blue bottle of medicinal looking antiseptic cleaner">
-</picture>
-<p>I like to think the “hibi” part of Hibiclens stands for “hibiscus” because it’s a pink liquid (or foam) that you apply like soap and rinse off. It’s colored pink because it’s an anti-septic and hospitals like to color their liquids, but the reason it works –as my dermatologist explained– is that <a href="https://www.npr.org/sections/health-shots/2015/03/31/396573607/meet-the-bacteria-that-make-a-stink-in-your-pits">bacteria creates the odor in your armpits</a>. That was news to me. My prior understanding was that puberty causes teenagers to grow green stink lines that shoot out from their bodies. Guess the science there has evolved.</p>
-<p>I’m happy to report that Hibiclens works wonderfully and I’m pleased with the results. I don’t wear deodorant everyday anymore, my armpits aren’t irritated, and I only need to apply a squeeze of Hibiclens every three days or so (but even that timeline appears to be stretching out). I do sometimes wear deodorant when the stakes are high, but day-to-day working form home is <em>au naturale</em>. There’s a small satisfaction that the answer to my fragile-masculine deodorant FOR MEN problems is a pink liquid in a Tiffany blue teal bottle. Time will tell, however, if it really does solve my problems. I’ll follow up in two-to-four years to see if it still works.</p> 
-
-<https://daverupert.com/2024/09/hibiclens/>
-
----
-
-## Dithering, and This Week’s Apple Event
-
-date: 2024-09-14, updated: 2024-09-16, from: Daring Fireball
-
- 
-
-<https://dithering.fm/>
-
----
-
-## September 13, 2024
-
-date: 2024-09-14, from: Heather Cox Richardson blog
-
- 
-
-<https://heathercoxrichardson.substack.com/p/september-13-2024-631>
-
----
-
-## Upcoming Speaking Engagements
-
-date: 2024-09-14, updated: 2024-09-14, from: Bruce Schneier blog
-
-<p>This is a current list of where and when I am scheduled to speak:</p>
-<ul>
-<li>I’m speaking at <a href="https://apwg.org/event/ecrime2024/">eCrime 2024</a> in Boston, Massachusetts, USA. The event runs from September 24 through 26, 2024, and my keynote is at 8:45 AM ET on the 24th.</li>
-<li>I’m briefly speaking at the <a href="https://epic.org/sept25/">EPIC Champion of Freedom Awards</a> in Washington, DC on September 25, 2024.</li>
-<li>I’m speaking at <a href="https://events.linuxfoundation.org/soss-fusion/">SOSS Fusion 2024</a> in Atlanta, Georgia, USA. The event will be held on October 22 and 23, 2024, and my talk is  at 9:15 AM ET on October 22, 2024.</li>
-</ul>
-<p>The list is maintained on <a href="https://www.schneier.com/events/">this page</a>.</p>
- 
-
-<https://www.schneier.com/blog/archives/2024/09/upcoming-speaking-engagements-40.html>
-
----
-
-## The 14" K&M Krusher: Rock Dust on Demand
-
-date: 2024-09-14, updated: 2024-09-14, from: Russell Graves, Syonyk's Project Blog
-
- 
-
-<https://www.sevarg.net/2024/09/14/km-krusher-rock-dust-chain-flail/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-09-14, from: Dave Winer's Scripting News)
-
-BTW the <a href="https://en.wikipedia.org/wiki/MetaWeblog">Wikipedia page</a> for the MetaWeblog positions it as a replacement for the Blogger API, but it's an extension of it. You could use MetaWeblog to publish to Blogger sites, but it also supported features that Blogger didn't have, that were in our blogging software, Manila. 
-
-<http://scripting.com/2024/09/14.html#a141548>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-09-14, from: Dave Winer's Scripting News)
-
-Could we agree that ChatGPT can ingest everything that's in Wikipedia? I particularly want the images. I'd like to ask for a picture of <a href="https://en.wikipedia.org/wiki/Chuck_Berry">Chuck Berry</a>, and get something nice and be able to put him in a scene with the <a href="https://www.google.com/search?q=site%3Ascripting.com+%22wordle+kitty%22">Wordle Kitty</a>. That seems pretty harmless. And the news industry could hardly object, they didn't invent Chuck Berry, or own the copyright of the picture of him in Wikipedia. 
-
-<http://scripting.com/2024/09/14.html#a141042>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-09-14, from: Dave Winer's Scripting News)
-
-I'm searching for some common ground between the twitter-like systems, a basis for interop, a common API even. We had that for the blogging layer of this onion, something called the <a href="https://xmlrpc.com/metaweblog">MetaWeblog API</a>.  All the popular blogging software supported it. And that meant you could write once and publish to many places. And you could write the script that did that in an afternoon or two. We started out with simple systems and the best of intentions. There's no technical barrier. And we could do it in a few weeks at most if there was a will to do it 
-
-<http://scripting.com/2024/09/14.html#a140503>
-
----
-
-## Hecklers
-
-date: 2024-09-14, from: Dave Winer's Scripting News
-
-<p><a href="https://www.threads.net/@davew/post/C_5i0bLpwNe">Hecklers</a> at last night's rally in Greensboro, couldn't hear what they were angry about, but it had something to do with Gaza.</p>
-<p>The US isn't doing the killing there, the issue is with Netanyahu who is part of the same political party as Trump. So you can be pretty sure the killing won't stop there at least until after our election. One way to be sure the killing continues is to elect Trump.</p>
- 
-
-<http://scripting.com/2024/09/14/140401.html?title=hecklers>
-
----
-
-## It's good to laugh
-
-date: 2024-09-14, from: Dave Winer's Scripting News
-
-<p>It's wonderful that we're laughing at Trump now.</p>
-<p>What a joke to think that after all he took us through, there are 47% of the people in the country who want more of that! </p>
-<p>OMG we must be crazy. What else are you going to do but laugh. </p>
- 
-
-<http://scripting.com/2024/09/14/140115.html?title=itsGoodToLaugh>
-
----
-
-## 2024-08-25 GoToSocial problems
-
-date: 2024-09-14, from: Alex Schroeder's Blog
-
-<h1 id="2024-08-25-gotosocial-problems">2024-08-25 GoToSocial problems</h1>
-
-<p>So you&rsquo;re considering self-hosting? You heard good things about <a href="https://github.com/superseriousbusiness/gotosocial">GoToSocial</a>? I like it. I use it. This post is about the problems you should be expecting at the moment.</p>
-
-<p>It&rsquo;s not surprising, after all. This is a very prominent sentence in their README:</p>
-
-<blockquote>
-<p>GoToSocial is still ALPHA SOFTWARE.</p>
-</blockquote>
-
-<p>But what are the exact problems? Sometimes alpha software is good enough, right?</p>
-
-<p><a class="tag" href="/search/?q=%23Social_Media">#Social Media</a> <a class="tag" href="/search/?q=%23GoToSocial">#GoToSocial</a></p>
-
-<h2 id="major-annoyances">Major annoyances</h2>
-
-<p><strong>No post editing</strong>. I hope you can handle your own typos. All you have is &ldquo;Delete and Redraft&rdquo;. But that orphans all replies, undoes all boosts, forgets all likes and removes posts from bookmarks. &ldquo;Delete and Redraft&rdquo; is a sledge hammer. &ldquo;Edit post&rdquo; is a delicate quill. And you don&rsquo;t get to have it. YOLO! (You only live once.)</p>
-
-<p><strong>No filtering</strong>. You can mute and block and all that, but when everybody is posting about Monsterdon, the European Song Contest, the US elections, Caturday or Wordle, you can&rsquo;t filter those hashtags. You must endure the enthusiasm of the people you are following. (I think the developers are implementing things, but it does not seem to have an effect in the front-ends I use, so who knows.)</p>
-
-<p><strong>Limited federation</strong>. This one is hard to spot. You want to follow this account and that account and it all seems to work until you go back and find that for one account, your follow request seems to hang in limbo, waiting. You cancel, and follow again. It seems to work. Come back later, back in limbo again, waiting. If you check the log, you&rsquo;ll find errors about signatures failing and what not. I have no idea. There are currently <a href="https://github.com/superseriousbusiness/gotosocial/issues?q=is%3Aissue+is%3Aopen+signature">8 open issues containing the word &lsquo;signature&rsquo;</a>. Something is not working and you&rsquo;ll have to have an alt (a separate account) on a different server that doesn&rsquo;t have this issue. That makes me sad. 😥</p>
-
-<h2 id="minor-annoyances">Minor annoyances</h2>
-
-<p><strong>No automatic post expiry</strong>. And you cannot use <a href="https://src.alexschroeder.ch/mastodon-archive.git/">Mastodon Archive</a> because of some version number check the Python Mastodon library refuses to work.</p>
-
-<h2 id="no-problem">No problem</h2>
-
-<p><strong>No front-end</strong>. There is no front-end. I use apps like <a href="https://mastodon.social/@tootapp">Toot!</a> on my phone and <a href="https://semaphore.social/">Semaphore</a> on the web. I don&rsquo;t need anything fancy. And for the non-fancy options, I have <a href="https://codeberg.org/martianh/mastodon.el">mastodon.el</a> for Emacs, <a href="https://github.com/ihabunek/toot">toot</a> for the command-line, <a href="https://tuba.geopjr.dev/">tuba</a> for Gnome, <a href="https://src.alexschroeder.ch/bitlbee-mastodon.git/">bitlbee-mastodon</a> for IRC, and so on. There are plenty of options.</p>
-
-<h2 id="the-good-stuff">The good stuff</h2>
-
-<p><strong>Markdown</strong> in your posts. I like my code blocks.</p>
-
-<p><strong>SQLite</strong> on the server. It&rsquo;s currently 8.4G. The media stuff is 11G.</p>
-
-<p><strong>Memory footprint</strong>. I use Monit to monitor processes and this process uses 185.6 MB.</p>
-
-<p><strong>No admin</strong>. I haven&rsquo;t had to run any administration task. Not once. ❤️</p>
-
-<p><strong>2024-09-14</strong>. <a class="account" href="https://hey.hagelb.org/@technomancy" title="@technomancy@hey.hagelb.org">@technomancy</a> wrote about his GoToSocial setup:</p>
-
-<blockquote>
-<p>So what&rsquo;s it like to set up your own GotoSocial server? Well, I can walk you thru what I used for my setup. Yours might be different; that&rsquo;s OK! I made these up-front choices to simplify the operational overhead because I didn&rsquo;t want this to be a hassle and I don&rsquo;t need the extra engineering that comes from trying for nine nines of uptime … It&rsquo;s fine. – <a href="https://technomancy.us/201">in which social media can be put in your own hands</a></p>
-</blockquote> 
-
-<https://alexschroeder.ch/view/2024-08-25-gotosocial>
-
----
-
-**@Jessica Smith's blog** (date: 2024-09-14, from: Jessica Smith's blog)
-
-<p>Aaaaand finished! Finally! It&rsquo;s done! Gidget seems pretty well convinced it&rsquo;s a shrine/throne combination for her, because of course she is 🤣</p>
-<img src="https://www.jayeless.net/media/2024/09/gidget-on-changing-table.jpeg" alt="A changing table, largely white with pinewood-patterned accents, with a shelf partitioned into two compartments below the change table surface and two full-width drawers below the shelves. A smug-looking tabby cat is loafing on top of the changing table." class="u-photo"> 
-
-<https://www.jayeless.net/2024/09/completed-change-table.html>
-
----
-
-## The Trump Wreck: The Coffee Klatch for September 14, 2024
-
-date: 2024-09-14, from: Robert Reich's blog
-
-With Heather Lofthouse and Yours Truly 
-
-<https://robertreich.substack.com/p/trumps-in-trouble-the-coffee-klatch>
-
----
-
-## September 13, 2024 
-
-date: 2024-09-14, from: Heather Cox Richardson blog
-
-After bomb threats today, officials had to evacuate two elementary schools in Springfield, Ohio, and move the students to a different location. 
-
-<https://heathercoxrichardson.substack.com/p/september-13-2024>
-
----
-
-## History Extra for September 13, 2024
-
-date: 2024-09-14, from: Heather Cox Richardson blog
-
-Americans began to use the term &#8220;Bourbon Democrat&#8221; in 1871 to represent those white men standing against the rights of the Black workers white southerners claimed were radical revolutionaries. 
-
-<https://heathercoxrichardson.substack.com/p/history-extra-for-september-13-2024>
-
----
-
-## Getting accommodations at work shouldn’t be so hard
-
-date: 2024-09-14, from: Tracy Durnell Blog
-
-via Universal design for work? by Meredith Farkas Unfortunately, [the ADA accommodation process is] also a dehumanizing process. This was definitely my experience with the ADA accommodations process, the stress of which then exacerbated my issues. Admitting to having needs and asking for help is hard enough without enduring intrusive self-justification. If I hadn&#8217;t already [&#8230;] 
-
-<https://tracydurnell.com/2024/09/13/getting-accommodations-at-work-shouldnt-be-so-hard/>
-
----
-
-**@Jessica Smith's blog** (date: 2024-09-14, from: Jessica Smith's blog)
-
-<p>Attempt 2 at assembling the changing table this afternoon. It&rsquo;s going better than attempt 1, even though the kit is missing piece 7 (it has an extra piece 17 instead), a couple of pieces clearly have the screw holes drilled into them in the wrong spot, and Gidget keeps trying to eat my wood filler 😑 But it hasn&rsquo;t broken apart catastrophically today, so I&rsquo;m counting my blessings.</p> 
-
-<https://www.jayeless.net/2024/09/attempt-2-assembling-change-table.html>
-
----
-
-## Weeknotes: Sept. 7-13, 2024
-
-date: 2024-09-14, from: Tracy Durnell Blog
-
-Win of the week: signed the contract for a new job 🙌 Looking forward to: bookstore adventure day with friends Stuff I did: 9.5 hours consulting 1.75 hours business development / admin 45 minutes writing &#8212; my hand is still bothering me so I have remapped my keyboard to swap the left control key with my [&#8230;] 
-
-<https://tracydurnell.com/2024/09/13/weeknotes-sept-7-13-2024/>
 

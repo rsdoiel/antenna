@@ -1,11 +1,55 @@
 ---
 title: socal north
-updated: 2024-09-21 11:19:56
+updated: 2024-09-22 16:58:11
 ---
 
 # socal north
 
-(date: 2024-09-21 11:19:56)
+(date: 2024-09-22 16:58:11)
+
+---
+
+## Shaping Our Community’s Future Through Santa Clarita 2025
+
+date: 2024-09-21, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin &#8220;Keep your eyes on the stars, and your feet on the ground&#8221; – Theodore Roosevelt This quote by Theodore Roosevelt reflects the guiding principles behind the Santa Clarita 2025 Strategic Plan. This mindset has driven our City&#8217;s efforts to balance aspirations with practical steps, ensuring that the goals we set [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/21/shaping-our-communitys-future-through-santa-clarita-2025/">Shaping Our Community’s Future Through Santa Clarita 2025</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/21/shaping-our-communitys-future-through-santa-clarita-2025/>
+
+---
+
+## San Bernardino Mountains got a nice layer of frosting Saturday morning. It's called graupel
+
+date: 2024-09-21, updated: 2024-09-21, from: The LAist
+
+It's not snow. It's not hail. It's graupel. 
+
+<https://laist.com/news/climate-environment/san-bernardino-mountains-got-a-nice-layer-of-frosting-this-morning-its-called-graupel>
+
+---
+
+## Silver Alert Issue For Woman Last Seen in Mission Hills
+
+date: 2024-09-21, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>MISSION HILLS (CNS) &#8211; A Silver Alert was issued today for a 74-year-old woman who was last seen in Mission Hills. Cathy Fujimoto was last seen at 7 a.m. Thursday [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/21/silver-alert-issue-for-woman-last-seen-in-mission-hills/">Silver Alert Issue For Woman Last Seen in Mission Hills</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/21/silver-alert-issue-for-woman-last-seen-in-mission-hills/>
+
+---
+
+## Popular Chantry Flat hiking area to reopen years after Bobcat Fire. Here’s what to know
+
+date: 2024-09-21, updated: 2024-09-21, from: The LAist
+
+The Bobcat Fire destroyed more than 115,000 acres in and around the Angeles National Forest four years ago, and forced the closure of the Big Santa Anita Canyon and other areas. Now portions of that land will reopen on Oct. 2. 
+
+<https://laist.com/news/climate-environment/popular-chantry-flat-hiking-area-to-reopen-years-after-bobcat-fire-heres-what-to-know>
 
 ---
 
@@ -49,9 +93,9 @@ Catalina Island Health Auxiliary would like to thank the Catalina Island communi
 
 ---
 
-## Eight Orange County firefighters battling Airport Fire injured in rollover crash
+## Fundraiser created for injured OC firefighters in rollover crash following Airport Fire
 
-date: 2024-09-20, updated: 2024-09-21, from: The LAist
+date: 2024-09-20, updated: 2024-09-22, from: The LAist
 
 The chief says firefighters have a “tough road ahead.” All who were injured were members of two hand crews that had been battling the Airport Fire since it ignited Sept. 9. 
 
@@ -641,143 +685,4 @@ The Big Ten&#8217;s newest entrant picked up their first conference win and let 
 UCLA men&#8217;s soccer (3-1-2) buried an early goal to beat No. 
 
 <https://dailybruin.com/2024/09/14/ucla-mens-soccer-takes-road-victory-not-slowed-by-first-big-ten-opponent/>
-
----
-
-## Emmys 2024: The Daily Bruin casts predictions for 76th Primetime Emmy Awards
-
-date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
-
-Television&#8217;s most illustrious night is returning in glistening gold with the annual Emmy awards.
-On Sunday, the Emmys will honor its 76th year of commendation at Los Angeles’ Peacock Theater. 
-
-<https://dailybruin.com/2024/09/14/emmys-2024-the-daily-bruin-casts-predictions-for-76th-primetime-emmy-awards/>
-
----
-
-## Emmys 2024: ‘Mr. and Mrs. Smith’ writer Adamma Ebo on creative inspiration and directing rise
-
-date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
-
-From Westwood to the writing room, Adamma Ebo has proven herself to be one to watch.
-The alumnus of UCLA’s School of Theater, Film and Television is one of the creative voices behind the Amazon Prime Video series “Mr. 
-
-<https://dailybruin.com/2024/09/14/emmys-2024-mr-and-mrs-smith-writer-adamma-ebo-on-creative-inspiration-and-directing-rise/>
-
----
-
-## Emmys 2024: ‘Abbot Elementary’ writer and TFT alumnus Justin Tan reflects on career
-
-date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Sept. 14 at 7:46 p.m.</em>
-After transferring from BuzzFeed shorts to Willard R. Abbott Public School, Justin Tan is chasing more than views now – he’s chasing Emmys. 
-
-<https://dailybruin.com/2024/09/14/emmys-2024-abbot-elementary-writer-and-tft-alumnus-justin-tan-reflects-on-career/>
-
----
-
-## Secure Your Spot for the 29th Annual River Rally!
-
-date: 2024-09-14, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin The City of Santa Clarita is gearing up for our most environmentally friendly event: The River Rally and Environmental Expo. Every year, over a thousand dedicated residents come together to make a difference by cleaning up the Santa Clara Riverbed. This beloved annual tradition not only helps preserve our local [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2024/09/14/secure-your-spot-for-the-29th-annual-river-rally/">Secure Your Spot for the 29th Annual River Rally!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<https://santaclarita.gov/blog/2024/09/14/secure-your-spot-for-the-29th-annual-river-rally/>
-
----
-
-## Gameday predictions: UCLA vs Indiana
-
-date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
-
-After two years of high anticipation, the Bruins are facing their first Big Ten opponent in a conference matchup. UCLA football (1-0) will enter the Rose Bowl for the first time this season on Saturday to meet Indiana (2-0) for an inaugural matchup between the programs. 
-
-<https://dailybruin.com/2024/09/14/gameday-predictions-ucla-vs-indiana/>
-
----
-
-## Gallery: UCLA football scrapes by Hawaiʻi in season opener
-
-date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
-
-The UCLA Bruins narrowly avoided defeat by the University of Hawaiʻi Rainbow Warriors last Saturday. The Bruins snuck a field goal in during the last minute of the fourth quarter to win with a score of 16 to 13. 
-
-<https://dailybruin.com/2024/09/14/gallery-ucla-football-scrapes-by-hawai%ca%bbi-in-season-opener-2/>
-
----
-
-## Evacuations lifted or downgraded as firefighters make progress on 3 big SoCal fires
-
-date: 2024-09-14, updated: 2024-09-15, from: The LAist
-
-Cool weather and a marine layer are expected to continue helping firefighters. 
-
-<https://laist.com/news/climate-environment/wildfires-southern-california-bridge-fire-airport-fire-line-fire-los-angeles-orange-county-wkend>
-
----
-
-## Want to start composting, but worried about space, materials and stink? Here’s how to get started
-
-date: 2024-09-14, updated: 2024-09-14, from: The LAist
-
-If you have a green bin — and if you rent in the city of L.A., you should — it will probably cost you $0 and a little freezer space to start composting. 
-
-<https://laist.com/news/climate-environment/composting-how-to-get-started>
-
----
-
-## Scouting report: UCLA football vs. Indiana
-
-date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
-
-It&#8217;s been two years since the news of the Bruins&#8217; Pac-12 departure broke – and it&#8217;s finally time for them to debut in the Big Ten. 
-
-<https://dailybruin.com/2024/09/13/scouting-report-ucla-football-vs-indiana/>
-
----
-
-## No. 1 UCLA men’s water polo faces off against No. 9 UC Irvine on Friday
-
-date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
-
-Following a tournament sweep, the Bruins will face the opportunity to continue their perfect season.
-No. 1 UCLA men&#8217;s water polo (4-0) is set for competition this week as it faces off against No. 
-
-<https://dailybruin.com/2024/09/13/no-1-ucla-mens-water-polo-faces-off-against-no-9-uc-irvine-on-friday/>
-
----
-
-## Mixed success results in a sixth place finish for UCLA women’s golf
-
-date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
-
-Alicia Um Holmes&#8217; second campaign has begun.
-Last season, Um Holmes was named Golfweek Women&#8217;s Coach of the Year, narrowly missed out on a national championship and secured the third-best scoring average in program history in only her first season with the Bruins. 
-
-<https://dailybruin.com/2024/09/13/mixed-success-results-in-a-sixth-place-finish-for-ucla-womens-golf/>
-
----
-
-## Women’s soccer will officially start the Big Ten against Oregon on Saturday
-
-date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
-
-The wait is almost over.
-While the Bruins became official members of the Big Ten at the beginning of August, Saturday&#8217;s game will mark the team&#8217;s conference debut. 
-
-<https://dailybruin.com/2024/09/13/womens-soccer-will-officially-start-the-big-ten-against-oregon-on-saturday/>
-
----
-
-## Students struggle to keep cool as heatwave hits Westwood
-
-date: 2024-09-14, from: The Daily Bruin (UCLA Student Newspaper)
-
-UCLA students have tried to keep cool amid a blazing heat wave in Los Angeles.
-Southern California experienced extreme temperatures for nearly a full week after a heat wave arrived in Los Angeles last Tuesday. 
-
-<https://dailybruin.com/2024/09/13/students-struggle-to-keep-cool-as-heatwave-hits-westwood/>
 

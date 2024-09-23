@@ -1,11 +1,169 @@
 ---
 title: going electric
-updated: 2024-09-21 11:20:08
+updated: 2024-09-22 16:58:24
 ---
 
 # going electric
 
-(date: 2024-09-21 11:20:08)
+(date: 2024-09-22 16:58:24)
+
+---
+
+## Tesla Supercharger Extension Cable Maker Addresses Cybertruck Engineer's Warning
+
+date: 2024-09-22, from: Inside EVs News
+
+According to the ccompany, there are some built-in safety measures to prevent thermal failures. 
+
+<https://insideevs.com/news/734672/cybertruck-engineer-supercharger-extension-cable/>
+
+---
+
+## The McMurtry Speirling Is 'Not So Much A Car As It Is A Cheat Code'
+
+date: 2024-09-22, from: Inside EVs News
+
+Driving the Speirling on track is a perception-altering experience that will make you reassess driving. 
+
+<https://insideevs.com/news/734674/mcmurtry-speirling-top-gear-track/>
+
+---
+
+## Home Hardware adds Volvo VNR Electric semi trucks to its fleet
+
+date: 2024-09-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Home-Hardware-electric-trucks-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Canadian home improvement chain picked up a pair of Volvo VNR Electric semi trucks, and it’s putting them to work on last-mile delivery routes in the Greater Toronto Area.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="canada,electric-semi-truck,volvo-trucks" data-layer-viewtype="unknown" data-post-id="380956" href="https://electrek.co/2024/09/22/home-hardware-adds-volvo-vnr-electric-semi-trucks-to-its-fleet/#more-380956" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/22/home-hardware-adds-volvo-vnr-electric-semi-trucks-to-its-fleet/>
+
+---
+
+## Lion Electric delivers the first electric tow truck in North America
+
+date: 2024-09-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/LIon5-Truck_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The newest edition to the CAA-Quebec roadside fleet is a fully electric Lion5 flatbed – and the CAA says it’s the first 100% <em>electrique</em> tow truck in service in North America!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="canada,commercial-evs,the-lion-electric-co" data-layer-viewtype="unknown" data-post-id="380931" href="https://electrek.co/2024/09/22/lion-electric-delivers-the-first-electric-tow-truck-in-north-america/#more-380931" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/22/lion-electric-delivers-the-first-electric-tow-truck-in-north-america/>
+
+---
+
+## IVECO announces new electric cargo van, will it come to US as a Nikola?
+
+date: 2024-09-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Iveco-eMoovy-Electric-LCV_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://electrek.co/2024/03/27/its-electric-metallica-summer-tour-hits-the-road-with-iveco-electric-power/">Best known in the US as the OEM behind Nikola</a>, Italian truck brand IVECO entered the 2.5 to 3.5 ton medium duty commercial van segment at this week’s IAA Transportation conference with this: <strong>the eMoovy electric chassis cab</strong>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,hyundai,iveco" data-layer-viewtype="unknown" data-post-id="380913" href="https://electrek.co/2024/09/22/iveco-announces-new-electric-cargo-van-will-it-come-to-us-as-a-nikola/#more-380913" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/22/iveco-announces-new-electric-cargo-van-will-it-come-to-us-as-a-nikola/>
+
+---
+
+## Volvo EX30 Is Crushing It in Europe: Is the U.S. Next?
+
+date: 2024-09-21, from: Inside EVs News
+
+Can Volvo repeat its success in America next year? 
+
+<https://insideevs.com/news/734676/volvo-ex-30-crushing-europe/>
+
+---
+
+## 2024 Cadillac LYRIQ buyers could score $10,500 in discounts
+
+date: 2024-09-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Cadillac-Lyric-EV_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The all-electric Cadillac LYRIQ was an <em>Electrek</em> favorite when it first made its debut two years ago. Now, LYRIQ buyers who have been waiting for a deal can score more than $10,500 in discounts on the Ultium-based Caddy.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="cadillac,ev-deals" data-layer-viewtype="unknown" data-post-id="380889" href="https://electrek.co/2024/09/21/2024-cadillac-lyriq-buyers-could-score-10500-in-discounts/#more-380889" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/21/2024-cadillac-lyriq-buyers-could-score-10500-in-discounts/>
+
+---
+
+## Volvo CE rolls out autonomous equipment at Volvo Days 2024 [part 2]
+
+date: 2024-09-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/ta15_MAIN.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/2024/09/20/volvo-ce-rolls-out-some-new-hotness-at-volvo-days-2024-part-1/">Volvo Days 2024 packed a lot of innovative new products into a few short days</a>, but the company’s autonomous construction robots still managed to stand out.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous,electric-construction-equipment,volvo" data-layer-viewtype="unknown" data-post-id="380854" href="https://electrek.co/2024/09/21/volvo-ce-rolls-out-autonomous-equipment-at-volvo-days-2024-part-2/#more-380854" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/21/volvo-ce-rolls-out-autonomous-equipment-at-volvo-days-2024-part-2/>
+
+---
+
+## This Transforming Chinese EV Pickup Is The Tesla Cybertruck Done Right
+
+date: 2024-09-21, from: Inside EVs News
+
+The Changan Nevo E07 has earned the nickname "Chinese Cybertruck." I'd totally buy one.  
+
+<https://insideevs.com/news/734641/changan-nevo-e07-tesla-cybertruck/>
+
+---
+
+## This Crossover Will Help You Break A Window If You're Drowning
+
+date: 2024-09-21, from: Inside EVs News
+
+The Zeekr 7X comes standard with a mechanical window breaker integrated into driver's door.  
+
+<https://insideevs.com/news/734637/zeekr-7x-window-breaking-flooding/>
+
+---
+
+## Six-Year-Old Tesla Model 3 Ownership Costs: $375 To Drive 16,000 Miles
+
+date: 2024-09-21, from: Inside EVs News
+
+That’s just over 2 cents per mile, which is crazy low. Try matching that with a gas sedan. 
+
+<https://insideevs.com/news/734297/2018-tesla-model-3-ownership-costs/>
+
+---
+
+## JB Hunt launches first electric aftermarket semi truck route in Arizona
+
+date: 2024-09-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/jb-hunt_daimler.png?w=1400" /></div><p>Following successful inbound implementations in the Pacific Northwest, North Carolina, and <a href="https://electrek.co/2024/04/20/first-ever-electric-semi-truck-rides-into-mexico-with-sdge/">Mexico</a>, Daimler Trucks North America (DTNA) is expanding the reach of its electric semi fleet into Arizona with long-time associate JB Hunt.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="daimler-trucks,electric-semi-truck,freightliner" data-layer-viewtype="unknown" data-post-id="380837" href="https://electrek.co/2024/09/21/jb-hunt-launches-first-electric-aftermarket-semi-truck-route-in-arizona/#more-380837" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/21/jb-hunt-launches-first-electric-aftermarket-semi-truck-route-in-arizona/>
+
+---
+
+## Mitsubishi Fuso cleans up, putting 89 electric garbage trucks to work in Greece
+
+date: 2024-09-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/fuso_e-canter.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Greek cities of Athens and Thessaloniki are popular tourist spots, and those tourists are about to breathe a little bit easier – literally! – thanks to nearly 90 new electric garbage trucks from Mitsubishi Fuso.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-garbage-truck,mitsubishi-fuso" data-layer-viewtype="unknown" data-post-id="380823" href="https://electrek.co/2024/09/21/mitsubishi-fuso-cleans-up-putting-89-electric-garbage-trucks-to-work-in-greece/#more-380823" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/21/mitsubishi-fuso-cleans-up-putting-89-electric-garbage-trucks-to-work-in-greece/>
 
 ---
 
@@ -1468,62 +1626,4 @@ date: 2024-09-15, from: Electrek Feed
  <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,fedex,workhorse" data-layer-viewtype="unknown" data-post-id="379938" href="https://electrek.co/2024/09/15/fedex-orders-15-more-workhorse-w56-electric-delivery-vans/#more-379938" class="more-link">more…</a> 
 
 <https://electrek.co/2024/09/15/fedex-orders-15-more-workhorse-w56-electric-delivery-vans/>
-
----
-
-## There are now more electric cars than gas cars on Norway’s roads
-
-date: 2024-09-14, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/01/norway-charging-lead.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Sometime this month, Norway will have more electric cars on its roads than petrol-only vehicles, according to an analysis of Norwegian government data.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="norway" data-layer-viewtype="unknown" data-post-id="379930" href="https://electrek.co/2024/09/14/there-are-now-more-electric-cars-than-gas-cars-on-norways-roads/#more-379930" class="more-link">more…</a> 
-
-<https://electrek.co/2024/09/14/there-are-now-more-electric-cars-than-gas-cars-on-norways-roads/>
-
----
-
-## Tesla Model Y, Model 3 With $0 Down Is The Hottest EV Deal This Month
-
-date: 2024-09-14, from: Inside EVs News
-
-These are arguably some of the best financing offers on the Model 3 and Model Y we've ever seen. 
-
-<https://insideevs.com/news/733775/tesla-model-3-model-y-deal/>
-
----
-
-## Tesla Model 3 Performance Holds Its Own Racing BMW M3 CS, Mercedes C63 PHEV
-
-date: 2024-09-14, from: Inside EVs News
-
-The Tesla is the cheapest out of the three cars and the quickest to accelerate without using launch control. 
-
-<https://insideevs.com/news/733662/model3-m3-c63-drag-race/>
-
----
-
-## Two Tesla Cybertrucks Drove 11,000 Miles From Florida To Arctic Ocean And Back
-
-date: 2024-09-14, from: Inside EVs News
-
-No generators were involved in the trek, and–better yet–six new Tesla Level 2 chargers were installed on Canada’s Dempster Highway. 
-
-<https://insideevs.com/news/733505/tesla-cybertruck-arctic-ocean-11000-miles/>
-
----
-
-## Gogoro CEO resigns amid accusations of subsidy fraud
-
-date: 2024-09-14, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/05/gogoro-korea-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Horace Luke, the founder and CEO of the world’s leading electric vehicle battery-swapping company <a href="http://gogoro.com">Gogoro</a>, just announced his resignation. The move comes during a period of growing financial losses for the company and follows accusations of potential subsidy fraud in its domestic market of Taiwan.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="gogoro" data-layer-viewtype="unknown" data-post-id="379917" href="https://electrek.co/2024/09/14/gogoro-ceo-resigns-amid-accusations-of-subsidy-fraud/#more-379917" class="more-link">more…</a> 
-
-<https://electrek.co/2024/09/14/gogoro-ceo-resigns-amid-accusations-of-subsidy-fraud/>
 

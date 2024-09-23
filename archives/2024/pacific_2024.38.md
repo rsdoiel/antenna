@@ -1,11 +1,637 @@
 ---
 title: pacific
-updated: 2024-09-21 11:19:58
+updated: 2024-09-22 16:58:13
 ---
 
 # pacific
 
-(date: 2024-09-21 11:19:58)
+(date: 2024-09-22 16:58:13)
+
+---
+
+## Warrior football bounces back with dominant win over UNI
+
+date: 2024-09-22, from: University of Hawaiʻi News
+
+<p>Quarterback Brayden Schager matched a career-high with four touchdown passes and completed 35-of-43 passes for 374 yards.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/22/warrior-football-win-over-uni/">Warrior football bounces back with dominant win over <abbr>UNI</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/22/warrior-football-win-over-uni/>
+
+---
+
+## Taking Hawaiʻi’s food to the ‘next level’ at the Culinary Institute of the Pacific
+
+date: 2024-09-22, from: University of Hawaiʻi News
+
+<p>Cooks and chefs learned about <span aria-label="Aina">&#699;&#256;ina</span>-based Mediterranean Cooking from the Culinary Institute of America.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/22/taking-hawaiis-food-to-the-next-level-at-cip/">Taking Hawaiʻi’s food to the ‘next level’ at the Culinary Institute of the Pacific</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/22/taking-hawaiis-food-to-the-next-level-at-cip/>
+
+---
+
+## Amata with Peace Corps director
+
+date: 2024-09-22, updated: 2024-09-22, from: Marianas Variety
+
+U.S. Congresswoman Aumua Amata of American Samoa met with Peace Corps Director Carol Spahn on Thursday. In Congress, Amata has supported the important efforts of the Peace Corps, including their much-needed work in the Pacific region, which they discussed in the meeting. Amata served as a Peace Corps staffer many years ago, and her daughter is a Returned Peace Corps Volunteer, who served in Bulgaria. Amata has worked for and cosponsored the reauthorization of the Peace Corps, including a boost in their budget for regional expansion. 
+
+<https://www.mvariety.com/news/regional_world/amata-with-peace-corps-director/article_d12beb10-7898-11ef-86cb-735e2fae6aea.html>
+
+---
+
+## BC’s Tales of the Pacific ǀ A story ‘too good to check’
+
+date: 2024-09-22, updated: 2024-09-22, from: Marianas Variety
+
+JOURNALISTS have a saying that if a story is guaranteed to get attention and it fits the narrative they are pushing, it is “too good to check.” 
+
+<https://www.mvariety.com/views/columnists/bc-s-tales-of-the-pacific-a-story-too-good-to-check/article_75d464e4-7894-11ef-a03a-cf8465a45fae.html>
+
+---
+
+## Hafa Adai/Tirow to the people of the CNMI
+
+date: 2024-09-22, updated: 2024-09-22, from: Marianas Variety
+
+TODAY I write to you to advocate for a candidate who embodies the values of dedicated service and unwavering commitment to the people of our great Commonwealth.  Mrs. Kimberlyn King-Hinds is not just a name on the ballot; she is a beacon of hope for those seeking representation at the highest levels of government. 
+
+<https://www.mvariety.com/views/letters_to_editor/hafa-adai-tirow-to-the-people-of-the-cnmi/article_9b1196de-78a1-11ef-b01e-bb2ce371f2c8.html>
+
+---
+
+## Versace's Milan show aims for ‘optimism and joy’ with colorful prints
+
+date: 2024-09-22, updated: 2024-09-22, from: Marianas Variety
+
+MILAN (Reuters) — Presenting a playful and colorful collection of mismatched prints, Italian designer Donatella Versace said she had set out to bring "optimism and joy" to the catwalk with her show at Milan Fashion Week. 
+
+<https://www.mvariety.com/lifestyle/versaces-milan-show-aims-for-optimism-and-joy-with-colorful-prints/article_cee5aaf6-78e5-11ef-a6d3-0fbd51929df2.html>
+
+---
+
+## Cardinals, Padres to vie for SBL title
+
+date: 2024-09-22, updated: 2024-09-22, from: Marianas Variety
+
+THE pennant winners, the Falcons, and the runners-up, the Bandits, were eliminated by their respective foes, the No. 3 Padres and the No. 4 Cardinals, in the weather-delayed semi-final round of the 2024 Tan Holdings Saipan Baseball League. 
+
+<https://www.mvariety.com/sports/localsports/cardinals-padres-to-vie-for-sbl-title/article_f66050b2-78b4-11ef-944b-97f41d8e796d.html>
+
+---
+
+## ‘Champion of the CNMI people’
+
+date: 2024-09-22, updated: 2024-09-22, from: Marianas Variety
+
+THE 23rd CNMI Senate on Wednesday honored U.S. Congressman Gregorio Kilili Camacho Sablan by unanimously adopting Senate Joint Resolution 23-9, which describes him as a vocal advocate who has consistently championed the interests of the CNMI people. 
+
+<https://www.mvariety.com/news/local/champion-of-the-cnmi-people/article_e0fa1afa-7896-11ef-8ab8-d766ae578607.html>
+
+---
+
+## ‘Thank you NMI delegate candidates & Saipan Chamber of Commerce’
+
+date: 2024-09-22, updated: 2024-09-22, from: Marianas Variety
+
+THE NMI Democratic Party of the Northern Mariana Islands would like to thank the Saipan Chamber of Commerce, the 2024 candidates for NMI U.S. delegate, along with everyone that made the debate a success this past Tuesday night. 
+
+<https://www.mvariety.com/news/local/thank-you-nmi-delegate-candidates-saipan-chamber-of-commerce/article_977d6132-78de-11ef-94b8-9f955c16a810.html>
+
+---
+
+## Saipan participates in International Coastal Cleanup
+
+date: 2024-09-22, updated: 2024-09-22, from: Marianas Variety
+
+LOCAL businesses and island residents participated in the International Coastal Cleanup on Saturday, Sept. 21. 
+
+<https://www.mvariety.com/news/local/saipan-participates-in-international-coastal-cleanup/article_00cfbe14-78a8-11ef-9300-67cef6232986.html>
+
+---
+
+## PDO asks court to set aside jury’s verdict in rape case
+
+date: 2024-09-22, updated: 2024-09-22, from: Marianas Variety
+
+SEVEN days after its client’s conviction, the Public Defender's Office filed a motion for judgment of acquittal in a rape case, requesting the Superior Court to set aside the jury’s verdict. 
+
+<https://www.mvariety.com/news/local/pdo-asks-court-to-set-aside-jury-s-verdict-in-rape-case/article_eab19d50-78b6-11ef-b562-fb88d569e129.html>
+
+---
+
+## Tinian named WWII Heritage City
+
+date: 2024-09-22, updated: 2024-09-22, from: Marianas Variety
+
+(Office of the CNMI Congressional Delegate) — The Municipality of Tinian and Aguiguan has been designated as an American World War II Heritage City, the National Park Service announced Tuesday. 
+
+<https://www.mvariety.com/news/local/tinian-named-wwii-heritage-city/article_3cd3e2f4-789f-11ef-83f6-775ab360c642.html>
+
+---
+
+## Your Views for September 22
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>Concerns about water&#0010;at Onekahakaha park</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/opinion/your-views-for-september-22-7/>
+
+---
+
+## Bid for overhaul of Hilo wastewater plant could be approved next month
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County next month could approve a bid for contractors to begin the long-awaited overhaul of the Hilo Wastewater Treatment Plant.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/hawaii-news/bid-for-overhaul-of-hilo-wastewater-plant-could-be-approved-next-month/>
+
+---
+
+## Roth, Alameda face off: Mayoral candidates spar while fielding questions during forum
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County&#8217;s two remaining mayoral candidates took potshots at each other in between setting out their own policy plans at a forum on Saturday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/hawaii-news/roth-alameda-face-off-mayoral-candidates-spar-while-fielding-questions-during-forum/>
+
+---
+
+## Police seek witnesses to robbery, assault at Hilo mall
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>Police are requesting the public&#8217;s assistance regarding a robbery that occurred Friday, Aug. 30, at approximately 2:30 p.m. at a clothing store in the Prince Kuhio Plaza in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/hawaii-news/police-seek-witnesses-to-robbery-assault-at-hilo-mall/>
+
+---
+
+## Council approves ohana regulation changes
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Council last week approved changes to the county&#8217;s regulations regarding ohana housing.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/hawaii-news/council-approves-ohana-regulation-changes/>
+
+---
+
+## Shipman Business Park expands
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>W.H. Shipman Ltd. broke ground Sept. 4 on an expansion of Shipman Business Park.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/hawaii-news/shipman-business-park-expands/>
+
+---
+
+## Police seek suspects in downtown Hilo assault
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>Police detectives are requesting the public&#8217;s assistance with identifying suspects of an assault which occurred on Friday, Sept. 6, in downtown Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/hawaii-news/police-seek-suspects-in-downtown-hilo-assault/>
+
+---
+
+## CFB roundup: Michigan hands USC its 1st Big Ten loss
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>Kalel Mullings rushed for 159 yards and two touchdowns, including a go-ahead score on fourth down with 37 seconds remaining, and No. 18 Michigan held off No. 11 Southern California, 27-24, on Saturday in Ann Arbor, Mich., in the Big Ten Conference opener for both teams.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/sports/cfb-roundup-michigan-hands-usc-its-1st-big-ten-loss/>
+
+---
+
+## MLB roundup: Despite loss, Guardians clinch AL Central title
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>Ivan Herrera hit a three-run homer and scored twice as the St. Louis Cardinals held off the visiting Cleveland Guardians for a 6-5 win on Saturday night.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/sports/mlb-roundup-despite-loss-guardians-clinch-al-central-title/>
+
+---
+
+## Dubois demolishes Joshua to retain IBF heavyweight belt
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>LONDON (Reuters) &#8212; Britain&#8217;s Daniel Dubois destroyed Anthony Joshua&#8217;s dream of becoming a three times heavyweight world champion with a fifth-round knockout to retain his IBF belt at a packed Wembley Stadium on Saturday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/sports/dubois-demolishes-joshua-to-retain-ibf-heavyweight-belt/>
+
+---
+
+## Ohtani creates category all his own with performance like no other
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>MIAMI &#8212; The Champagne had been poured and the commemorative T-shirts handed out. Only then, once there had been time for it all to sink in, could his awestruck teammates fully comprehend the latest demonstration of greatness by Shohei Ohtani. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/sports/ohtani-creates-category-all-his-own-with-performance-like-no-other/>
+
+---
+
+## Walker Buehler has another rocky start as Dodgers’ NL West lead shrinks to 3
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; The Walker Buehler who retired 11 of 12 batters with six strikeouts from the second through fifth innings Saturday night could play in a postseason rotation for the Los Angeles Dodgers.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/sports/walker-buehler-has-another-rocky-start-as-dodgers-nl-west-lead-shrinks-to-3/>
+
+---
+
+## Trump stresses importance of winning N.C., avoids mentioning Robinson scandal at rally
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>WILMINGTON, N.C. &#8212; Former President Donald Trump returned to North Carolina for a weekend rally, telling several thousand cheering supporters the state is crucial to his presidential campaign.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/nation-world-news/trump-stresses-importance-of-winning-n-c-avoids-mentioning-robinson-scandal-at-rally/>
+
+---
+
+## Israel’s strike on Beirut killed 37, Lebanon says
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT/JERUSALEM &#8212; Rescue workers in Beirut searched on Saturday for people still missing in rubble after an Israeli airstrike targeting Hezbollah commanders the previous day killed at least 37 people in a suburb of the Lebanese capital, according to authorities.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/nation-world-news/israels-strike-on-beirut-killed-37-lebanon-says/>
+
+---
+
+## Ukraine hits 2 more Russian munition depots, seeking to disrupt war effort
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Ukraine said Saturday that it had struck two large ammunition depots deep inside Russia overnight. It was the second such attack in less than a week as Kyiv seeks to escalate hits on Russian military bases and warehouses to try to disrupt Moscow&#8217;s military logistics and slow its troops&#8217; advance on the battlefield.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/nation-world-news/ukraine-hits-2-more-russian-munition-depots-seeking-to-disrupt-war-effort/>
+
+---
+
+## Harris agrees to a second debate, but Trump declines
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>Vice President Kamala Harris said Saturday that she had accepted an invitation from CNN to participate in a second presidential debate next month, putting pressure on former President Donald Trump to join her for a rematch.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/nation-world-news/harris-agrees-to-a-second-debate-but-trump-declines/>
+
+---
+
+## Obituaries for September 22
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>Abbie &#8220;Miss Abbie&#8221; Leilani Ako, 87, of Kailua-Kona died Sept. 15 at home. Born in Honolulu, she was a homemaker and member of Lanakila Congregational Church. Visitation 9-10 a.m. Saturday, Oct. 5, at Lanakila Congregational Church in Kainaliu. Funeral service at 10 a.m. Burial to follow in church cemetery. Casual attire; flowers welcome. Survived by sons, Daniel (Leslie) Ako of Kealakekua, Alexander (Candace) Ako of California and Eric Ako of Kailua-Kona; daughter, Lisa (Ronnie) Aukai of Kailua-Kona; sister, Patricia Onaga of Hilo; six grandchildren and 11 great-grandchildren. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/obituaries/obituaries-for-september-22-12/>
+
+---
+
+## Restraint, respect needed from those who aspire to lead
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>Politics can be a rough-and-tumble enterprise, a dominion where those with thick skin, steel jaws and bare knuckles thrive. Nobody expects the candidates competing in hotly contested races to resolve their differences with pillow fights.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/opinion/restraint-respect-needed-from-those-who-aspire-to-lead/>
+
+---
+
+## Volcano Watch: A new Kilauea eruption
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>Anew Kilauea eruption began in a remote area of Hawai&#8216;i Volcanoes National Park on Sunday, Sept. 15. This is the first eruption on Kilauea&#8217;s middle East Rift Zone (MERZ) since 2018 and it poses no immediate threat to life or infrastructure. The USGS Hawaiian Volcano Observatory is closely monitoring this eruption.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/community/volcano-watch-a-new-kilauea-eruption/>
+
+---
+
+## Visit artsy, urban Antwerp
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>Belgium&#8217;s capital, Brussels, is undeniably a great place to get a feel for modern-day Europe. But as the capital of the EU it&#8217;s an international hub that doesn&#8217;t give you a sense of Belgium per se. My favorite place to feel the pulse of modern Belgium is Antwerp, the port city north of Brussels. It&#8217;s an honest, what-you-see-is-what-you-get place with a true sense of local identity.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/features/visit-artsy-urban-antwerp/>
+
+---
+
+## Biden hosts a final ‘Quad summit’ at his Delaware home
+
+date: 2024-09-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden is hosting the leaders of Australia, India and Japan at his home in Wilmington, Delaware, this weekend, seeking to use his fourth and final &#8220;Quad summit&#8221; to cement the alliance between the United States and Indo-Pacific nations and to counter China&#8217;s rising influence in the region.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/22/nation-world-news/biden-hosts-a-final-quad-summit-at-his-delaware-home/>
+
+---
+
+## It’s surreal when the lie machine comes for your hometown
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>Whether it&#8217;s TikTok or Instagram or Snapchat or some yet-to-be-released app sure to enrapture its users, it&#8217;s pretty clear &#8212; to us, at least &#8212; that too many young people are now spending too much of their time falling all the way down shallow-yet-deep online rabbit holes designed by profit-hungry companies to draw them in.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/opinion/its-surreal-when-the-lie-machine-comes-for-your-hometown/>
+
+---
+
+## Nation and world news in brief for September 21
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>Six weeks from &#0010;Election Day, &#0010;some in-person &#0010;voting begins</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/nation-and-world-news-in-brief-for-september-21/>
+
+---
+
+## Democrats seize on Robinson scandal, hoping to sink Trump in a key state
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>A scandal engulfing Lt. Gov. Mark Robinson of North Carolina, the Republican nominee for governor, has Democrats feeling even more optimistic about Vice President Kamala Harris&#8217; chances of winning a pivotal swing state. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/democrats-seize-on-robinson-scandal-hoping-to-sink-trump-in-a-key-state/>
+
+---
+
+## Georgia Election Board orders hand-counting of ballots
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>The Georgia State Election Board voted Friday to force counties to hand-count all ballots cast on Election Day, a move critics say could significantly delay the reporting of results in the battleground state and inject chaos into the postelection period.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/georgia-election-board-orders-hand-counting-of-ballots/>
+
+---
+
+## A concert celebrates Jimmy Carter’s 100th birthday, with music and thanks
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA &#8212; The night included gospel hymns and &#8220;America the Beautiful&#8221; and the B-52s lighting up the Fox Theater, one of the oldest auditoriums in Atlanta, with a performance of &#8220;Love Shack.&#8221; In one moment, the crowd was on its feet as Ang&#0233;lique Kidjo, the acclaimed Beninese musician, sang and danced. In another, they shimmied and sang along to a cover of &#8220;Ramblin&#8217; Man.&#8221; </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/a-concert-celebrates-jimmy-carters-100th-birthday-with-music-and-thanks/>
+
+---
+
+## Three Mile Island plans to reopen as demand for nuclear power grows
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>In a striking sign of renewed interest in nuclear power, Constellation Energy said Friday that it plans to reopen the shuttered Three Mile Island nuclear plant in Pennsylvania, the site of the worst reactor accident in United States history. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/three-mile-island-plans-to-reopen-as-demand-for-nuclear-power-grows/>
+
+---
+
+## Biden, ‘Quad’ leaders to talk maritime security as China tensions grow
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Tensions brewing in Asia&#8217;s trade-rich waters top the agenda as U.S. President Joe Biden welcomes leaders from Australia, India and Japan to his Delaware hometown for a diplomatic push to counter China in the waning months of his presidency. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/biden-quad-leaders-to-talk-maritime-security-as-china-tensions-grow/>
+
+---
+
+## Kentucky town is shaken after local sheriff is charged with killing judge
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>WHITESBURG, Ky. &#8212; When Judge Kevin Mullins and Sheriff Shawn Stines, two longtime officials in a rural eastern Kentucky county, were seen getting ready to go to lunch Thursday, there was no obvious indication of ill will. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/kentucky-town-is-shaken-after-local-sheriff-is-charged-with-killing-judge/>
+
+---
+
+## 76ers sign Joel Embiid to three-year, $193M extension
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>Joel Embiid signed a max-level extension with the Philadelphia 76ers on Friday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/sports/76ers-sign-joel-embiid-to-three-year-193m-extension/>
+
+---
+
+## ‘Matlock’ review: Kathy Bates stars, but this is not your grandparents’ legal drama
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>The original &#8220;Matlock,&#8221; which aired from 1986 to 1995, was a reimagining of the long-running &#8220;Perry Mason&#8221; legal drama. But instead of a hardnosed attorney at the center of its case-of-the-week format, &#8220;Matlock&#8221; leveraged star Andy Griffith&#8217;s ability to play deceptively unthreatening, and then, in a climatic courtroom showdown, remarkably effective, even lacerating. With the new version of &#8220;Matlock&#8221; on CBS, it&#8217;s best to go into it understanding that it&#8217;s not a reboot so much as a show with a tenuous connection to the intellectual property of its title. But nothing gets green-lit today unless it&#8217;s IP, so here we are.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/entertainment/matlock-review-kathy-bates-stars-but-this-is-not-your-grandparents-legal-drama/>
+
+---
+
+## A safer ‘net for kids: The Kids Online Safety Act is worth passing
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>Whether it&#8217;s TikTok or Instagram or Snapchat or some yet-to-be-released app sure to enrapture its users, it&#8217;s pretty clear &#8212; to us, at least &#8212; that too many young people are now spending too much of their time falling all the way down shallow-yet-deep online rabbit holes designed by profit-hungry companies to draw them in.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/opinion/a-safer-net-for-kids-the-kids-online-safety-act-is-worth-passing/>
+
+---
+
+## Challenge to US drug price negotiation program revived by appeals court
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>A U.S. appeals court revived a lawsuit on Friday by healthcare and drug industry groups challenging the first-ever U.S. law requiring pharmaceutical companies to negotiate drug prices with the government&#8217;s Medicare health insurance program that covers 66 million people. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/challenge-to-us-drug-price-negotiation-program-revived-by-appeals-court/>
+
+---
+
+## The power of a smaller breast
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>The women walk into the surgeons&#8217; offices with photos cued up on their phones. Miley Cyrus. Keira Knightley. Bella Hadid. &#8220;I want my breasts to look like this,&#8221; they say. They&#8217;ve already spent hours on YouTube watching plastic surgeons&#8217; infomercials; on Instagram poring over before-and-afters; and on TikTok, where an army of ordinary women post about their breast reductions. &#8220;Ask me,&#8221; they say &#8212; whether their nipple sensation has changed, what their boyfriends said, whether they cared. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/features/the-power-of-a-smaller-breast/>
+
+---
+
+## FTC sues drug middlemen over manipulating insulin market
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Federal Trade Commission sued units of CVS Health Corp., Cigna Group and UnitedHealth Group Inc. on Friday, accusing the drug middlemen of engaging in illegal rebate programs that drove up the price of insulin.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/ftc-sues-drug-middlemen-over-manipulating-insulin-market/>
+
+---
+
+## US Supreme Court declines to restore Green Party to Nevada ballot
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Supreme Court declined on Friday to restore the Green Party to the Nevada ballot, cementing a bid by Democrats to keep the party and its presidential candidate Jill Stein from competing in this battleground state in the Nov. 5 election. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/us-supreme-court-declines-to-restore-green-party-to-nevada-ballot/>
+
+---
+
+## Top Hezbollah commander among 14 killed in Israeli strike on Beirut
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT/JERUSALEM &#8212; Israel killed a top Hezbollah commander and other senior figures in the Lebanese movement in an airstrike on Beirut on Friday, vowing to press on with a new military campaign until it is able to secure the area around the Lebanese border.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/top-hezbollah-commander-among-14-killed-in-israeli-strike-on-beirut/>
+
+---
+
+## What the Dolphins final injury report reveals. And encouraging development on Tagovailoa
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>The Dolphins listed running back Raheem Mostert and receiver Malik Washington as doubtful for Sunday&#8217;s game at Seattle (4:05 p.m., CBS). </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/sports/what-the-dolphins-final-injury-report-reveals-and-encouraging-development-on-tagovailoa/>
+
+---
+
+## Sports briefs: BIIF seeking coaches
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>Kohala seeking coaches</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/sports/sports-briefs-biif-seeking-coaches/>
+
+---
+
+## UHH soccer: Men win thriller, women blank competition
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>SEASIDE, California &#8211; No. 21 UH-Hilo man&#8217;s soccer pulled the rabbit out of the hat with back-to-back scores late in the waning minutes to complete an epic comeback in a 3-2 victory over Cal State Monterey Bay Thursday evening at Cardinale Stadium.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/sports/uhh-soccer-men-win-thriller-women-blank-competition/>
+
+---
+
+## BIIF football:   ‘Riders fall to visiting Sabers; HPA routs Pahoa
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p>KEALAKEHE &#8212; Maui football flew to the Big Island on Thursday evening for a non-conference matchup against Kealakehe. In a game filled with turnovers and minor injuries, the Sabers left the Waverider Stadium with a 39-7 win &#8212; their second of 2024.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/sports/biif-football-riders-fall-to-visiting-sabers-hpa-routs-pahoa/>
+
+---
+
+## Week 3 NFL capsules
+
+date: 2024-09-21, from: Hawaii Tribune Harold
+
+
+				<p><strong>SAN FRANCISCO 49ERS (1-1) AT LOS ANGELES RAMS (0-2) </strong></p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/21/sports/week-3-nfl-capsules/>
 
 ---
 
@@ -3231,357 +3857,4 @@ date: 2024-09-15, from: Pacific Island Times
 By Mar-Vic Cagurangan   The planned establishment of a 3D printing facility on Guam is envisioned to position the island as a... 
 
 <https://www.pacificislandtimes.com/post/3d-printing-and-guam-s-emerging-role-in-aukus>
-
----
-
-## When political memes take on a lie of their own
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>By the time the Arizona Republican Party&#8217;s digital billboards urging Phoenix residents to &#8220;EAT LESS KITTENS&#8221; and &#8220;Vote Republican!&#8221; went up on Tuesday, the story they referred to had already been widely debunked.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/when-political-memes-take-on-a-lie-of-their-own/>
-
----
-
-## Biden slams Trump over false story of pet-eating immigrants: ‘This has to stop’
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; President Joe Biden angrily denounced former President Donald Trump on Friday for continuing to traffic in false rumors about Haitian immigrants eating cats and dogs, unfounded tales that have roiled a community in Ohio and inflamed the presidential campaign.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/biden-slams-trump-over-false-story-of-pet-eating-immigrants-this-has-to-stop/>
-
----
-
-## Will Taylor Swift’s Harris endorsement influence the U.S. election?
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>Global pop star Taylor Swift&#8217;s support for Kamala Harris may have boosted the Democratic vice president&#8217;s hopes of attracting young voters, but the question remains: Will the celebrity endorsement make a difference on Election Day? </p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/will-taylor-swifts-harris-endorsement-influence-the-u-s-election/>
-
----
-
-## Threats unnerve Ohio city after Trump’s false claims
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The dogs and cats of Springfield, Ohio, appear to be perfectly safe, but many of its people are finding their lives upended this week by political rumormongering that has resulted in multiple bomb threats, school closures and a decision to dispatch the FBI.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/threats-unnerve-ohio-city-after-trumps-false-claims/>
-
----
-
-## In the heart and the head, no tackle is ever routine
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>MIAMI GARDENS, Fla. &#8212; Damar Hamlin doesn&#8217;t want to be the spokesperson for football mortality.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/sports/in-the-heart-and-the-head-no-tackle-is-ever-routine/>
-
----
-
-## Biden administration ratchets up tariffs on Chinese goods
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The Biden administration on Friday announced measures that will add tariffs to Chinese products worth tens of billions of dollars, a move intended to protect U.S. factories and project a tough-on-China approach before the presidential election.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/biden-administration-ratchets-up-tariffs-on-chinese-goods/>
-
----
-
-## The big city is vibrant. Birds there may be getting less so.
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>Some popular city dwellers appear to be losing their colorful allure, and not just the dirty birds.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/the-big-city-is-vibrant-birds-there-may-be-getting-less-so/>
-
----
-
-## Pope says both Trump and Harris are ‘against life’
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>Asked his advice to Catholic voters in the coming U.S. presidential election, Pope Francis said they must choose the &#8220;lesser of two evils&#8221; because &#8220;both are against life&#8221; &#8212; Kamala Harris for her support for abortion rights, and Donald Trump for closing the door to immigrants.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/pope-says-both-trump-and-harris-are-against-life/>
-
----
-
-## China raises retirement age for the first time since the 1950s
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>BEIJING &#8212; The Chinese government on Friday approved a plan to raise the country&#8217;s statutory retirement age, currently among the lowest in the world, in a long-awaited but broadly unpopular effort to address the challenge of its rapidly aging population.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/china-raises-retirement-age-for-the-first-time-since-the-1950s/>
-
----
-
-## BIIF sports: Cougars rout Warriors; KSH, Parker stay unbeaten
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>KEA&#8216;AU &#8212; The Cougars football team displayed its best performance of the season yet on Thursday night at Kea&#8216;au High School.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/sports/biif-sports-cougars-rout-warriors-ksh-parker-stays-unbeaten/>
-
----
-
-## Tua concussed again: What’s next in his career?
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>It was the scene none of us wanted to see: Tua Tagovailoa incapacitated on the football field after another collision and blow to the head.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/sports/tua-concussed-again-whats-next-in-his-career/>
-
----
-
-## Advertising logo to be added to MLB helmets in postseason
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>The thing about baseball, and it&#8217;s always been this way, is that the game itself is so enchanting, riveting and charmingly ridiculous that the people who run it know you&#8217;ll keep coming back, no matter what they do to it.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/sports/advertising-logo-to-be-added-to-mlb-helmets-in-postseason/>
-
----
-
-## Harris visits red areas of Pennsylvania, hoping to cut into Trump’s edge
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>JOHNSTOWN, Pa. &#8212; Vice President Kamala Harris campaigned through Pennsylvania&#8217;s conservative interior Friday, aiming to shave a few percentage points off former President Donald Trump&#8217;s winning margins in parts of the state where he remains popular.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/harris-visits-red-areas-of-pennsylvania-hoping-to-cut-into-trumps-edge/>
-
----
-
-## Boeing’s strike halts airplane production at key plants
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>Thousands of Boeing workers went on strike Friday after overwhelmingly rejecting a contract their union negotiated, a potentially costly disruption to the aerospace giant as it tries to recover from a series of safety crises.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/boeings-strike-halts-airplane-production-at-key-plants/>
-
----
-
-## Boar’s Head shuts down Virginia plant tied to listeria deaths
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>Boar&#8217;s Head announced Friday that it would indefinitely shut down the troubled Virginia deli meat plant that it acknowledged had caused a deadly listeria outbreak, killing nine people and sickening dozens more in 18 states.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/boars-head-shuts-down-virginia-plant-tied-to-listeria-deaths/>
-
----
-
-## How Kamala Harris de-normalized Trump in less than 2 hours
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>In Tuesday night&#8217;s presidential debate, Vice President Kamala Harris may or may not have increased her chances of becoming the 47th president. But she did what so many have tried, and failed, to do.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/opinion/how-kamala-harris-de-normalized-trump-in-less-than-2-hours/>
-
----
-
-## Not a value ad: Google’s ad services monopoly needs to end
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>This week began the federal antitrust trial against Google for alleged monopolistic practices when it comes to the online advertising space, with the Justice Department contending that the company has outsize dominion over what is a lifeline for industries including online publishing. Google, of course, doesn&#8217;t see it that way.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/opinion/not-a-value-ad-googles-ad-services-monopoly-needs-to-end/>
-
----
-
-## U.S. team’s Day 1 dominance lifted entire vibe of this Solheim Cup
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>GAINESVILLE, Va. &#8212; If one thing could lift the Solheim Cup mood after a logistical disaster plagued the day&#8217;s highly anticipated start, it was the No. 1 player in the world throwing darts.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/sports/u-s-teams-day-1-dominance-lifted-entire-vibe-of-this-solheim-cup/>
-
----
-
-## Man charged in deaths of Johnny, Matthew Gaudreau to stay in jail as case plays out
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>The man accused of killing Columbus Blue Jackets star Johnny Gaudreau and his brother, Matthew, in a drunken driving crash will remain in jail while the case plays out in court, a New Jersey judge ruled Friday morning.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/sports/man-charged-in-deaths-of-johnny-matthew-gaudreau-to-stay-in-jail-as-case-plays-out/>
-
----
-
-## Starliner astronauts say what they’ll miss during extended stay in space
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>Nineteen astronauts across three spacecraft are in orbit around Earth &#8212; a record in the history of human spaceflight. Two of them, Suni Williams and Butch Wilmore of NASA, were not originally scheduled to be up there at this time.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/nation-world-news/starliner-astronauts-say-what-theyll-miss-during-extended-stay-in-space/>
-
----
-
-## Japan tries to reclaim its clout as a global tech leader
-
-date: 2024-09-14, from: Hawaii Tribune Harold
-
-
-				<p>China&#8217;s envy-inducing success in using industrial policy to expand its economy and finance green manufacturing has helped kick off a fevered scrimmage among nations to develop and protect their own hometown businesses.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/14/features/japan-tries-to-reclaim-its-clout-as-a-global-tech-leader/>
-
----
-
-## Guåhan Sustainable Culture to host immersive CHamoru language garden tours
-
-date: 2024-09-14, from: Guam Daily Post
-
-Guåhan Sustainable Culture for CHamoru language will be conducting garden tours under the Pineksai project, where visitors will explore culturally significant plants that are vital to Guam's history and heritage. Participants will discover deep-rooted farming traditions, learn how to utilize… 
-
-<https://www.postguam.com/news/local/gu-han-sustainable-culture-to-host-immersive-chamoru-language-garden-tours/article_eb505714-7173-11ef-a26e-4f4f48cf5341.html>
-
----
-
-## New book shares untold WWII stories of Guam’s Nikkei
-
-date: 2024-09-14, from: Guam Daily Post
-
-It’s been 80 years since World War II and now new perspectives of what it was like experiencing World War II on Guam have come to light with the launch of “A Borrowed Land,” a book written by Peter Onedera… 
-
-<https://www.postguam.com/news/local/new-book-shares-untold-wwii-stories-of-guam-s-nikkei/article_f7e5973e-723e-11ef-be32-435d00163a53.html>
-
----
-
-## UOG, GWA partner to expand internship, job opportunities for students
-
-date: 2024-09-14, from: Guam Daily Post
-
-An agreement between the University of Guam and the Guam Waterworks Authority will help build the island’s workforce and give students more hands-on experience before diving into a career. 
-
-<https://www.postguam.com/news/local/uog-gwa-partner-to-expand-internship-job-opportunities-for-students/article_328f0be4-7182-11ef-b271-b7d00d75a528.html>
-
----
-
-## Public input sought for facilities replacement project at Ritidian refuge
-
-date: 2024-09-14, from: Guam Daily Post
-
-Members of the public had the opportunity to speak with military and federal officials and provide input on a proposal to build replacement facilities at the Ritidian Unit Guam National Wildlife Refuge during an information meeting at the Dededo Community… 
-
-<https://www.postguam.com/news/local/public-input-sought-for-facilities-replacement-project-at-ritidian-refuge/article_0c3d249c-7170-11ef-972c-c37af4095471.html>
-
----
-
-## Nurse examiners board extends GMTC’s probationary status
-
-date: 2024-09-14, from: Guam Daily Post
-
-There aren’t many choices when it comes to nursing education on Guam, according to the Guam Board of Nurse Examiners, which made the decision to keep one of the programs on probation giving them more time to come into compliance… 
-
-<https://www.postguam.com/news/local/nurse-examiners-board-extends-gmtc-s-probationary-status/article_6bdc7822-718d-11ef-a35a-3fcf55e5fbfe.html>
-
----
-
-## Ex-Navy sailor sentenced to nearly six years for child pornography charges
-
-date: 2024-09-14, from: Guam Daily Post
-
-A former U.S. Navy electronic technician will serve nearly six years in prison for child pornography charges. 
-
-<https://www.postguam.com/news/local/ex-navy-sailor-sentenced-to-nearly-six-years-for-child-pornography-charges/article_446acd4a-718b-11ef-8846-271c377d984c.html>
-
----
-
-## Hundreds of people still in need of pandemic relief
-
-date: 2024-09-14, from: Guam Daily Post
-
-It’s been over two years since the end of the public health emergency in response to the COVID-19 pandemic, but people are still in need of assistance, according to the Emergency Rental Assistance program officials who received 2,577 applications for… 
-
-<https://www.postguam.com/news/local/hundreds-of-people-still-in-need-of-pandemic-relief/article_6cf6859c-723a-11ef-a9fa-6fd520b8ea79.html>
-
----
-
-## Man accused of assault stabbed by victim in self-defense
-
-date: 2024-09-14, from: Guam Daily Post
-
-A man was charged in connection to assaulting an unknown man at the Micronesia Mall two weeks ago. 
-
-<https://www.postguam.com/news/local/man-accused-of-assault-stabbed-by-victim-in-self-defense/article_15c96034-7189-11ef-bb31-6f3547e658d0.html>
-
----
-
-## Forum spotlights living with lupus and importance of care
-
-date: 2024-09-14, from: Guam Daily Post
-
-On Saturday, Dr. Evan Vista took the stage in front of a crowd of people - all with a vested interest in the “Living with Lupus" forum” at the Guam Museum in Hagåtña. The rheumatologist and internist led the discussion… 
-
-<https://www.postguam.com/news/local/forum-spotlights-living-with-lupus-and-importance-of-care/article_b9bf27b6-724f-11ef-9818-c3647b00b05d.html>
-
----
-
-## New UH Mānoa student-athletes start strong, support community
-
-date: 2024-09-14, from: University of Hawaiʻi News
-
-<p>The Summer Bridge program includes lessons and group activities on transitioning to college life, utilizing university resources and <span aria-label="Hawaii">Hawai&#699;i</span>’s unique culture.</p>
-The post <a href="https://www.hawaii.edu/news/2024/09/13/student-athletes-start-strong-support-community/">New <abbr>UH</abbr> Mānoa student-athletes start strong, support community</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/09/13/student-athletes-start-strong-support-community/>
 

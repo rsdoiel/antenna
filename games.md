@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2024-09-21 11:20:03
+updated: 2024-09-22 16:58:18
 ---
 
 # games
 
-(date: 2024-09-21 11:20:03)
+(date: 2024-09-22 16:58:18)
+
+---
+
+## We got a peek at the cozy Hobbit life sim game and it understands the damn brief
+
+date: 2024-09-22, updated: 2024-09-20, from: Polygon Website
+
+We’re living in the middle of a bounty of Middle-earth media. Last year’s wretched Gollum game, 2026’s apparent Gollum duology, The Rings of Power’s elven kings, War of the Rohirrim’s horse maidens, and more video games of various scope and subject reportedly still on the way.  And yet none of the above is giving the [&#8230;] 
+
+<https://www.polygon.com/lord-of-the-rings/454592/hobbit-life-sim-game-tales-shire-impressions>
+
+---
+
+## This little sci-fi movie takes time loops on a new track
+
+date: 2024-09-22, updated: 2024-09-20, from: Polygon Website
+
+In Groundhog Day, some unexplained force — maybe celestial, certainly moral — traps misanthropic weatherman Bill Murray in a single, repeated day until he sheds his attitude and becomes a better person. In Palm Springs, shiftless wedding guests Andy Samberg and Cristin Milioti fall into a time-loop vortex, a freak of astrophysics, in a cave. [&#8230;] 
+
+<https://www.polygon.com/movies/454713/omni-loop-review-time-loop-films>
+
+---
+
+## My Old Ass director says Aubrey Plaza didn’t need to look like her time-traveling younger self to be perfect
+
+date: 2024-09-21, updated: 2024-09-20, from: Polygon Website
+
+In the new time-travel comedy My Old Ass, Maisy Stella and Aubrey Plaza play two versions of the same character, Elliott: One is a young, confident teenager, and the other is her older self. The two actors don’t really look like picture-perfect matches. But My Old Ass director Megan Park said that she was looking [&#8230;] 
+
+<https://www.polygon.com/movies/453868/my-old-ass-aubrey-plaza-director-interview>
+
+---
+
+## Zack Snyder’s new Netflix show is his take on The Boys
+
+date: 2024-09-21, updated: 2024-09-20, from: Polygon Website
+
+“Fuck the gods” is a sentiment that feels like it’s everywhere right now, from the more literal interpretation of Netflix’s Kaos to the variety of “eat the rich” narratives tapping into the simmering anger at the present growing inequality. Ragnarök, the mythological end of many of the gods in a fit of brutal battle and [&#8230;] 
+
+<https://www.polygon.com/animation-cartoons/453927/snyder-netflix-animated-show-twilight-gods-review>
+
+---
+
+## The best sci-fi movies to watch on Netflix this September
+
+date: 2024-09-21, updated: 2024-09-20, from: Polygon Website
+
+We’re more than halfway through September, and the release calendar is finally starting to heat up, especially for sci-fi fans. Transformers One, the animated prequel from director Josh Cooley (Toy Story 4), comes out this weekend alongside The Substance, the new body horror film starring Demi Moore and Margaret Qualley. That’s not even mentioning Megalopolis, [&#8230;] 
+
+<https://www.polygon.com/what-to-watch/452423/best-sci-fi-movies-watch-netflix-september-2024>
+
+---
+
+## Hades is unmatched when it comes to video game storytelling
+
+date: 2024-09-21, updated: 2024-09-20, from: Polygon Website
+
+I’m often let down by game stories. With rare exceptions —&#160;Half-Life, Shadow of the Colossus, games that knew when to shut the hell up —&#160;I’ve found them tiresome, forgettable, and frustratingly aping film and television stories. Bad writing isn’t to blame. There are many smart, well-crafted stories in video games lessened by the need to [&#8230;] 
+
+<https://www.polygon.com/analysis/454550/hades-best-video-game-story>
 
 ---
 
@@ -716,54 +776,4 @@ date: 2024-09-15, updated: 2024-09-15, from: Polygon Website
 One fateful college weekend, ActionMax, the genre spinoff of Cinemax, programmed three down-and-dirty action films in a back-to-back marathon of cable curation that would change my life. First was Universal Soldier: Day of Reckoning, a one-in-a-million blend of science fiction, horror, and R-rated action. Then Undisputed II: Last Man Standing, a milestone moment for the [&#8230;] 
 
 <https://www.polygon.com/action/450051/blood-and-bone-oral-history>
-
----
-
-## The Killer’s Game director J.J. Perry wants to be Dave Bautista &#8216;so bad it makes my damn teeth hurt&#8217;
-
-date: 2024-09-14, updated: 2024-09-13, from: Polygon Website
-
-It’s not much of a stretch to say that legendary stunt performer and action director J.J. Perry helped shape most of the significant action movies and franchises that have come out this century. He’s worked in the biggest modern movie universes imaginable — Marvel, DC, Avatar, Fast and Furious, John Wick. He designed the action [&#8230;] 
-
-<https://www.polygon.com/action/450970/the-killers-game-dave-bautista-movie-director-jj-perry-interview>
-
----
-
-## Dress to Impress is invading IRL fashion looks
-
-date: 2024-09-14, updated: 2024-09-13, from: Polygon Website
-
-Every week is fashion week in Dress to Impress on Roblox. Thanks to streamers, the multiplayer dress-up game has become a breakout hit online. Now, the game is inspiring fashion in the real world. On social media platforms like TikTok, Dress to Impress has inspired a recent trend where people use the game’s audio to [&#8230;] 
-
-<https://www.polygon.com/culture/451404/dress-to-impress-fashion-roblox-tiktok-trend>
-
----
-
-## The best thrillers to watch on Netflix this September
-
-date: 2024-09-14, updated: 2024-09-13, from: Polygon Website
-
-The fall movie season has begun, and on Netflix it’s been heralded by the outstanding new movie Rebel Ridge. The new movie from the director of Green Room is already a standout candidate for one of the best movies of the year, but it’s also just one of the many great thrillers on Netflix in [&#8230;] 
-
-<https://www.polygon.com/what-to-watch/451107/best-thriller-movies-netflix-watch-september-2024>
-
----
-
-## 2001’s Black &#038; White is finally playable again (kind of)
-
-date: 2024-09-14, updated: 2024-09-13, from: Polygon Website
-
-For many years, Peter Molyneux’s eccentric god game Black &#38; White, released in 2001, has quite literally been unplayable. While there are workarounds to play the game on modern systems, the now-ancient game engine is simply unsupported by modern hardware and won’t run natively, meaning if anyone wanted to build anything off the existing engine, [&#8230;] 
-
-<https://www.polygon.com/impressions/448593/black-white-2001-playable-game-preservation>
-
----
-
-## Pokémon Go Ponyta and Galarian Ponyta Community Day guide
-
-date: 2024-09-14, updated: 2024-09-13, from: Polygon Website
-
-Pokémon Go is having a Ponyta Community Day event on Saturday, Sept. 14, from 2-5 p.m.in your local time. As expected with a Community Day event, both Ponyta and Galarian Ponyta will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve [&#8230;] 
-
-<https://www.polygon.com/pokemon-go-guide/448417/ponyta-community-day-galarian-shiny-rapidash>
 

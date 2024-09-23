@@ -1,11 +1,101 @@
 ---
 title: motorcycles
-updated: 2024-09-21 11:20:06
+updated: 2024-09-22 16:58:21
 ---
 
 # motorcycles
 
-(date: 2024-09-21 11:20:06)
+(date: 2024-09-22 16:58:21)
+
+---
+
+## Triumph’s Just Teased a 450 Motocross Dirt Bike, Will Soon Be Unveiled
+
+date: 2024-09-22, from: Ride Apart, Electric Motorcycle News
+
+What can we say? Triumph is sticking to its word.  
+
+<https://www.rideapart.com/news/734485/triumph-teases-450-motocross-bike/>
+
+---
+
+## Haiden Deegan Earns Second 250 SuperMotocross World Championship Over Vialle and Brown
+
+date: 2024-09-22, from: Kickin the Tires blog
+
+Haiden Deegan finishes second overall at Las Vegas in the 250SMX class but collected enough points to win his second world championship title. After Fort Worth, Deegan held a 19-point&#8230;  
+
+<https://kickinthetires.net/ama/supermotocross/haiden-deegan-earns-second-250-supermotocross-world-championship-over-vialle-and-brown/>
+
+---
+
+## Lawrence Brothers Claim Top Honors in 2024 SuperMotocross 450 World Championship
+
+date: 2024-09-22, from: Kickin the Tires blog
+
+The Lawrence brothers didn’t just set the bar for the 2024 postseason. They owned it. Both Jett and Hunter Lawrence swept all three rounds of the SuperMotocross World Championship Finals&#8230;  
+
+<https://kickinthetires.net/ama/supermotocross/lawrence-brothers-claim-top-honors-in-2024-supermotocross-450-world-championship/>
+
+---
+
+## Chase Sexton Out for Moto 2 in Las Vegas from Hand Injury
+
+date: 2024-09-22, from: Kickin the Tires blog
+
+Chase Sexton entered the final round at Las Vegas as one of the three contenders in a winner-take-all scenario for the World Championship. Unfortunately, a collision with Justin Barcia in&#8230;  
+
+<https://kickinthetires.net/ama/supermotocross/chase-sexton-out-for-moto-2-in-las-vegas-from-hand-injury/>
+
+---
+
+## Denny Hamlin ‘Slowly But Surely’ Advances to Round of 12
+
+date: 2024-09-22, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer Following back-to-back accidents to start the Round of 16, Denny Hamlin&#8216;s title shot was in the red entering Bristol Motor Speedway Saturday night. Despite the&#8230;  
+
+<https://kickinthetires.net/other/denny-hamlin-slowly-but-surely-advances-to-round-of-12/>
+
+---
+
+## Best of the Rest: Bubba Wallace Scores 3rd in Bristol
+
+date: 2024-09-22, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer In a night owned and operated by Kyle Larson, who led 462 of 500 laps Saturday at Bristol Motor Speedway, the non-playoff standout was by&#8230;  
+
+<https://kickinthetires.net/nascar/best-of-the-rest-bubba-wallace-scores-3rd-in-bristol/>
+
+---
+
+## Parker Kligerman: ‘It’s a Big Achievement to Make Playoffs’
+
+date: 2024-09-21, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor BRISTOL, Tenn – Despite drifting through the corner mid-race at Bristol Motor Speedway, Parker Kligerman clinched a spot in the NASCAR Xfinity Series Playoffs for&#8230;  
+
+<https://kickinthetires.net/nascar/parker-kligerman-its-a-big-achievement-to-make-playoffs/>
+
+---
+
+## Ryan Truex Ends Part-Time Season ‘With a Bang’; Top 5 in Bristol
+
+date: 2024-09-21, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer Ryan Truex&#8216;s 10-race run with Joe Gibbs Racing in the 2024 Xfinity Series season is over. And in his words, it ended with a bang.&#8230;  
+
+<https://kickinthetires.net/nascar/ryan-truex-ends-part-time-season-with-a-bang-top-5-in-bristol/>
+
+---
+
+## Wait, Why Is The Standard Shifter on BMW's R 1300 GS Plastic?
+
+date: 2024-09-21, from: Ride Apart, Electric Motorcycle News
+
+Why yes, it did break immediately.  
+
+<https://www.rideapart.com/news/734474/bmw-r1300-gs-plastic-shifter-broken/>
 
 ---
 
@@ -396,14 +486,4 @@ date: 2024-09-15, from: Kickin the Tires blog
 By Cole Cusumano, Staff Writer AVONDALE, Ariz. – The NASCAR Championship Ignition Luncheon made its annual return to Arizona, where Phoenix Raceway’s track president Latasha Causey chose to change up&#8230;  
 
 <https://kickinthetires.net/nascar/phoenix-raceway-hosts-blaney-nascar-championship-ignition-luncheon-for-new-cause/>
-
----
-
-## Yamaha Might Be Killing Its MotoGP Engine, Will The R1's Engine Be Next
-
-date: 2024-09-14, from: Ride Apart, Electric Motorcycle News
-
-Is the street crossplane next? 
-
-<https://www.rideapart.com/news/733708/yamaha-crossplane-engine-motogp-death/>
 

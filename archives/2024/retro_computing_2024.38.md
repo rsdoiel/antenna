@@ -1,11 +1,32 @@
 ---
 title: retro computing
-updated: 2024-09-21 11:20:07
+updated: 2024-09-22 16:58:22
 ---
 
 # retro computing
 
-(date: 2024-09-21 11:20:07)
+(date: 2024-09-22 16:58:22)
+
+---
+
+## A metric tonne of RISC OS improvements
+
+date: 2024-09-22, from: RiscOS Open
+
+<p>This is one for the all developers out there! We love celebrating significant <a href="/news/articles/2014/04/15/birthday-celebration">anniversaries</a> and <a href="/news/articles/2014/05/01/happy-birthday-basic">milestones</a>, so it didn&#8217;t escape our notice that the <a href="https://gitlab.riscosopen.org/RiscOS">source code to <span class="caps">RISC</span> OS</a> has just reached one thousand accepted merge requests since being migrated to be <a href="/news/articles/2019/10/10/were-throwing-open-the-doors-to-our-lab">held in Git</a> back in 2019.</p>
+<p style="float:right;"><img src="/images/risc_os_open/screenshots/git1000.png" title="Reaching 1000 merged merge requests" alt="Reaching 1000 merged merge requests" /></p> 
+
+<http://www.riscosopen.org/news/articles/2024/09/22/a-metric-tonne-of-risc-os-improvements>
+
+---
+
+## b.log 2024/09/21 - Autumn Equinox, Silvercrest SIKP 2200 B1 Induction Hob.
+
+date: 2024-09-21, from: Richard Murray's blog
+
+Autumn Equinox, Silvercrest SIKP 2200 B1 Induction Hob. 
+
+<https://heyrick.eu/blog/index.php?diary=20240921>
 
 ---
 
@@ -105,7 +126,7 @@ date: 2024-09-17, from: Low-tech magazine
 </div>
 <h2 id="is-bathing-unsustainable">Is Bathing Unsustainable?</h2>
 <p>Modern bathing practices are a textbook example of an unsustainable lifestyle based on fossil fuels. Hot water production is the second largest energy use in many homes (after space heating and/or cooling), and much of it is used for bathing or showering. <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> The modern bathroom also uses a lot of water and adds extra energy use through space heating and waste-water treatment. Building and renovating bathrooms requires resources, too.</p>
-<p>Sustainability advocates follow two strategies to address these problems. The first strategy concentrates on technological solutions, such as low-flow showerheads, water boilers heated by solar collectors, waste-water heat recovery systems, and greywater recycling. The second strategy counts on behavioral or social changes by questioning modern standards of cleanliness: bathing or showering shorter and less frequently, taking cold showers, or doing a cat wash at the sink. <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup><sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></p>
+<p>Sustainability advocates follow two strategies to address these problems. The first strategy concentrates on technological solutions, such as <a href="https://solar.lowtechmagazine.com/2019/10/mist-showers-sustainable-decadence/">low-flow showerheads</a>, water boilers heated by solar collectors, waste-water heat recovery systems, and greywater recycling. The second strategy counts on behavioral or social changes by questioning modern standards of cleanliness: bathing or showering shorter and less frequently, taking cold showers, or doing a cat wash at the sink. <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup><sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></p>
 <p>These strategies are unlikely to bring much results. Many technological fixes are difficult or impossible to install in existing buildings, especially in cities. For example, as the number of floors increases, an apartment building quickly runs out of roof space to install solar collectors for all residents. On the other hand, promoting discomfort as a sacrifice for sustainability is unlikely to engage broader environmental practices. <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup><sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup></p>
 <blockquote>
 <p>Communal bathing makes it easier to disconnect bathing practices from fossil fuels.</p>
@@ -230,7 +251,7 @@ date: 2024-09-17, from: Low-tech magazine
 </div>
 <h2 id="the-fuel-use-of-roman-bathhouses">The Fuel Use of Roman Bathhouses</h2>
 <p>How sustainable was that communal luxury? Most research about the energy use of bathhouses concerns Ancient Roman baths. Historians have sometimes faulted the large bathhouses from the Empire for their wastefulness, arguing that their widespread use caused deforestation. <sup id="fnref:33"><a href="#fn:33" class="footnote-ref" role="doc-noteref">33</a></sup><sup id="fnref:34"><a href="#fn:34" class="footnote-ref" role="doc-noteref">34</a></sup><sup id="fnref:35"><a href="#fn:35" class="footnote-ref" role="doc-noteref">35</a></sup> However, in recent years, archeological research, thermal analysis, and heat transfer studies have made it increasingly clear that Ancient Roman bathhouses, in spite of their opulence, were remarkably energy-efficient buildings. <sup id="fnref:36"><a href="#fn:36" class="footnote-ref" role="doc-noteref">36</a></sup><sup id="fnref1:33"><a href="#fn:33" class="footnote-ref" role="doc-noteref">33</a></sup></p>
-<p>The first reason was the hypocaust system. It consisted of one or more underground furnaces that distributed hot air under the floor and into the hollow walls (some baths had heated ceilings, too). Because of the large radiant surfaces, the spaces in the building could be heated at a lower temperature, saving energy. Although the water for the pools was reheated periodically in an insulated boiler close to the furnace, the heat in the floors and the walls helped to keep it warm for an extended period. <sup id="fnref1:36"><a href="#fn:36" class="footnote-ref" role="doc-noteref">36</a></sup><sup id="fnref2:33"><a href="#fn:33" class="footnote-ref" role="doc-noteref">33</a></sup></p>
+<p>The first reason was the <a href="https://solar.lowtechmagazine.com/2017/03/heat-storage-hypocausts-air-heating-in-the-middle-ages/">hypocaust system</a>. It consisted of one or more underground furnaces that distributed hot air under the floor and into the hollow walls (some baths had heated ceilings, too). Because of the large radiant surfaces, the spaces in the building could be heated at a lower temperature, saving energy. Although the water for the pools was reheated periodically in an insulated boiler close to the furnace, the heat in the floors and the walls helped to keep it warm for an extended period. <sup id="fnref1:36"><a href="#fn:36" class="footnote-ref" role="doc-noteref">36</a></sup><sup id="fnref2:33"><a href="#fn:33" class="footnote-ref" role="doc-noteref">33</a></sup></p>
 <p>A study of the Stabian Baths, one of the oldest surviving thermae, shows a fuel consumption of between 5 and 8 kg of firewood per hour, depending on the season. <sup id="fnref2:36"><a href="#fn:36" class="footnote-ref" role="doc-noteref">36</a></sup><sup id="fnref:37"><a href="#fn:37" class="footnote-ref" role="doc-noteref">37</a></sup> That corresponds to a wood supply of slightly more than 60 ash trees per year, which was unlikely to cause deforestation. <sup id="fnref3:36"><a href="#fn:36" class="footnote-ref" role="doc-noteref">36</a></sup> Firewood consumption was probably even lower because Roman baths routinely supplemented wood with other locally available fuels, often waste products: reeds, harvest by-products (olive pits, orchard trimmings, chaff), and animal wastes (dung and bones). <sup id="fnref3:33"><a href="#fn:33" class="footnote-ref" role="doc-noteref">33</a></sup></p>
 <blockquote>
 <p>Many Roman baths were heated almost exclusively by solar energy on sunny days.</p>
@@ -372,7 +393,7 @@ date: 2024-09-17, from: Low-tech magazine
 <p>Any plea for reviving public baths will also have to deal with the fear of contagious disease. For example, a &ldquo;lockdown&rdquo; of society, as many governments applied during the coronavirus pandemic in 2020 and 2021, is incompatible with public bathhouses. Such a measure only works when everybody has a private bathroom. <sup id="fnref:60"><a href="#fn:60" class="footnote-ref" role="doc-noteref">60</a></sup> The link between communal bathing and health is complex. Science has confirmed many of the health benefits of cold, hot, and steam baths and has also shown the importance of social interaction. However, bringing people together will always raise health risks, too.</p>
 <h2 id="how-to-build-a-low-tech-bathhouse">How to Build a Low-tech Bathhouse?</h2>
 <p>There&rsquo;s another distinction between bathhouses built before and after the Industrial Revolution: preindustrial baths worked with renewable fuels, while industrial baths ran on fossil fuels. Many modern bathhouses had an on-site coal power plant, which heated the space and the water and provided electricity for lighting. Fossil fuel-powered bathhouses are more energy efficient than fossil fuel-powered private bathrooms, but we can do better than that.</p>
-<p>A large bathhouse heated by a hypocaust system and large windows is still hard to beat as a carbon neutral technology, at least based on sustainable wood production. <sup id="fnref:61"><a href="#fn:61" class="footnote-ref" role="doc-noteref">61</a></sup><sup id="fnref:62"><a href="#fn:62" class="footnote-ref" role="doc-noteref">62</a></sup> However, biomass combustion creates air pollution, while we could also power a bathhouse with renewable energy sources that don&rsquo;t have that problem. The most apparent solution for space and water heating is flat plate solar collectors in which the sun heats water. Heat-generating windmills are a low-tech alternative to solar thermal collectors in less sunny climates. <sup id="fnref:63"><a href="#fn:63" class="footnote-ref" role="doc-noteref">63</a></sup> Other potential heat sources are geothermal energy and factory waste heat.</p>
+<p>A large bathhouse heated by a hypocaust system and large windows is still hard to beat as a carbon neutral technology, at least based on sustainable wood production. <sup id="fnref:61"><a href="#fn:61" class="footnote-ref" role="doc-noteref">61</a></sup><sup id="fnref:62"><a href="#fn:62" class="footnote-ref" role="doc-noteref">62</a></sup> However, biomass combustion creates air pollution, while we could also power a bathhouse with renewable energy sources that don&rsquo;t have that problem. The most apparent solution for space and water heating is flat plate solar collectors in which the sun heats water. <a href="https://solar.lowtechmagazine.com/2019/02/heat-your-house-with-a-mechanical-windmill/">Heat-generating windmills</a> are a low-tech alternative to solar thermal collectors in less sunny climates. <sup id="fnref:63"><a href="#fn:63" class="footnote-ref" role="doc-noteref">63</a></sup> Other potential heat sources are geothermal energy and factory waste heat.</p>
 <blockquote>
 <p>Fossil fuel-powered bathhouses are more energy efficient than fossil fuel-powered private bathrooms, but we can do better than that.</p>
 </blockquote>
@@ -387,7 +408,7 @@ date: 2024-09-17, from: Low-tech magazine
 </figcaption>
 </div>
 </div>
-<p>However, a public bathhouse also fits the more high-tech vision of a centralized energy infrastructure based on solar PV panels and wind turbines that provide electricity. In such a configuration, public bathhouses could absorb excess electricity during abundantly sunny or windy days. Rather than curtailing the electricity from surplus solar and wind power, we could use it to power electric heat pumps and store the heat in the thermal mass of public baths. <sup id="fnref:66"><a href="#fn:66" class="footnote-ref" role="doc-noteref">66</a></sup> While this approach is less resource-efficient than off-grid bathhouses operating without electricity, it still beats a scenario in which a centralized renewable power grid supplies energy to many private bathrooms.</p>
+<p>However, a public bathhouse also fits the more high-tech vision of a centralized energy infrastructure based on solar PV panels and wind turbines that provide electricity. In such a configuration, public bathhouses could absorb excess electricity during abundantly sunny or windy days. Rather than <a href="https://solar.lowtechmagazine.com/2017/09/how-not-to-run-a-modern-society-on-solar-and-wind-power-alone/">curtailing the electricity from surplus solar and wind power</a>, we could use it to power electric heat pumps and store the heat in the thermal mass of public baths. <sup id="fnref:66"><a href="#fn:66" class="footnote-ref" role="doc-noteref">66</a></sup> While this approach is less resource-efficient than off-grid bathhouses operating without electricity, it still beats a scenario in which a centralized renewable power grid supplies energy to many private bathrooms.</p>
 <p>Kris De Decker</p>
 <p>Many thanks to Jonas Görgen and Elizabeth Shove for their feedback on an earlier version of this article.</p>
 <p>Marie Verdeil and Roel Roscam Abbing contributed to the selection of images.</p>
@@ -619,54 +640,4 @@ date: 2024-09-15, from: Richard Murray's blog
 Larder v0.06, Winter is coming, Dead dehumidifier, Videos. 
 
 <https://heyrick.eu/blog/index.php?diary=20240915>
-
----
-
-## b.log 2024/09/14 - AI will be harmful, Mowing.
-
-date: 2024-09-14, from: Richard Murray's blog
-
-AI will be harmful, Mowing. 
-
-<https://heyrick.eu/blog/index.php?diary=20240914>
-
----
-
-## Upgrading PowerMac G5 with 2 TB HDD
-
-date: 2024-09-14, from: Happy Macs site
-
-I recently pgraded my PowerMac G5 DP 2.3 GHz with a WD Blue 2 TB HDD (spinner, not SSD). I had not planned to post about it, but the results were impressive enough that I thought I should pass them on. Upgrading an HDD is a fairly low impact way to achieve significant performance improvements. [&#8230;] 
-
-<https://happymacs.wordpress.com/2024/09/14/upgrading-powermac-g5-with-2-tb-hdd/>
-
----
-
-## G5, Sorbet Leopard and AquaFox – A Winning Combination
-
-date: 2024-09-14, from: Happy Macs site
-
-Post Body: In a recent post, I introduced AquaFox, a revived TenFourFox-based PPC web browser. In my initial testing of it, AquaFox looked very promising indeed and so I decided to put it to the ultimate test – accessing a banking web site. This may sound like a very ordinary task, but banking web sites [&#8230;] 
-
-<https://happymacs.wordpress.com/2024/09/14/g5-sorbet-leopard-and-aquafox-a-winning-combination/>
-
----
-
-## Apps To Deploy on Sorbet Leopard
-
-date: 2024-09-14, from: Happy Macs site
-
-Previous posts have detailed how to install Sorbet Leopard and explained why it is superior to the base Leopard release itself. So, with Sorbet Leopard now installed and operational, what can you DO with it? Well, it turns out that you can do a LOT! The lineup of applications deployed on a machine reveals much [&#8230;] 
-
-<https://happymacs.wordpress.com/2024/09/14/apps-to-deploy-on-sorbet-leopard/>
-
----
-
-## AquaFox, A Great New G3, G4, G5 Browser
-
-date: 2024-09-14, from: Happy Macs site
-
-In the 17 years since Apple stopped sales of the last PowerPC Macintoshes in favor of Intel equivalents, PowerMac enthusiasts have kept the platform alive with regular software updates, new apps and more. A classic example of this was TenFourFox, a G4/G5-targeted version of Mozilla Firefox. Cameron Kaiser kept TenFourFox current for a great many [&#8230;] 
-
-<https://happymacs.wordpress.com/2024/09/14/aquafox-a-new-g4-g5-browser/>
 
