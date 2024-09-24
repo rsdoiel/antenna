@@ -1,11 +1,65 @@
 ---
 title: journalism
-updated: 2024-09-23 16:49:32
+updated: 2024-09-24 07:27:53
 ---
 
 # journalism
 
-(date: 2024-09-23 16:49:32)
+(date: 2024-09-24 07:27:53)
+
+---
+
+## Five Things: UCLA vs. LSU
+
+date: 2024-09-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA football (1-2, 0-1 Big Ten) fell 34-17 to LSU (3-1, 1-0 SEC) in its second nonconference contest Saturday in Baton Rouge, Louisiana. Contributor Noah Massey gives his five main takeaways from the Bruins&#8217; contest against the Tigers. 
+
+<https://dailybruin.com/2024/09/23/five-things-ucla-vs-lsu-2/>
+
+---
+
+## Op-ed: UCLA’s expansion of police arsenal is unnecessary, shameful
+
+date: 2024-09-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+Like many members of the Bruin community, I was alarmed to discover that UCLA intends to significantly expand its police arsenal prior to the 2024-2025 academic year. 
+
+<https://dailybruin.com/2024/09/23/op-ed-uclas-expansion-of-police-arsenal-is-unnecessary-shameful/>
+
+---
+
+## Intersection of Jefferson, Hoover reopened after vehicle collision
+
+date: 2024-09-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A motorcyclist was seriously injured and the Los Angeles Police Department is conducting a traffic collision investigation.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/23/intersection-of-jefferson-hoover-closed-after-vehicle-collision/">Intersection of Jefferson, Hoover reopened after vehicle collision</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/23/intersection-of-jefferson-hoover-closed-after-vehicle-collision/>
+
+---
+
+## UCLA women’s soccer fires up in second half to win 2-0 against Purdue
+
+date: 2024-09-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+Turning up the heat in the second half, the Bruins overcame a lackluster start against the Boilermakers on Sunday.
+&#8220;First half was very, very, very boring,&#8221; said coach Margueritte Aozasa. 
+
+<https://dailybruin.com/2024/09/23/ucla-womens-soccer-fires-up-in-second-half-to-win-2-0-against-purdue/>
+
+---
+
+## UCLA ranks as nation’s No. 1 public university for 8th year running
+
+date: 2024-09-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA was ranked as the No. 1 public university in the United States by U.S. News &#38; World Report for an eighth consecutive year.
+U.S. News &#38; World Report releases annual rankings of U.S. 
+
+<https://dailybruin.com/2024/09/23/ucla-ranks-as-nations-no-1-public-university-for-8th-year-running/>
 
 ---
 
@@ -199,6 +253,18 @@ date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
+## Sampaio’s sorcery is soccer uncensored
+
+date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans’ three-year starter may have scored the NCAA goal of the year.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/23/sampaios-sorcery-is-soccer-uncensored/">Sampaio’s sorcery is soccer uncensored</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/23/sampaios-sorcery-is-soccer-uncensored/>
+
+---
+
 ## USC drops sharply in free speech ranking
 
 date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
@@ -220,6 +286,18 @@ date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/09/23/ghostly-labor-shines-a-light-on-immigrant-stories/>
+
+---
+
+## Men’s water polo can’t best No. 1 UCLA
+
+date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The No. 3 Trojans fell just short of a perfect weekend at the MPSF Invitational.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/23/mens-water-polo-cant-best-no-1-ucla/">Men’s water polo can’t best No. 1 UCLA</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/23/mens-water-polo-cant-best-no-1-ucla/>
 
 ---
 
@@ -268,6 +346,18 @@ date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/09/23/footballs-big-ten-debut-blemished-by-defending-national-champions/>
+
+---
+
+## USC shuts out Indiana in Bloomington
+
+date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The No. 9 Trojans handed the Hoosiers a 2-0 loss for their seventh win of the fall.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/23/usc-shuts-out-indiana-in-bloomington/">USC shuts out Indiana in Bloomington</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/23/usc-shuts-out-indiana-in-bloomington/>
 
 ---
 

@@ -1,11 +1,51 @@
 ---
 title: games
-updated: 2024-09-23 16:49:32
+updated: 2024-09-24 07:27:52
 ---
 
 # games
 
-(date: 2024-09-23 16:49:32)
+(date: 2024-09-24 07:27:52)
+
+---
+
+## Everything we know about how Nintendo sunsets last-gen consoles before the Switch 2
+
+date: 2024-09-24, updated: 2024-09-23, from: Polygon Website
+
+While a new Nintendo console might be looming on the horizon, that doesn’t mean people are done with the Nintendo Switch. The hybrid handheld console has an incredible library of games that includes indie classics and big name AAA titles alike. It has become one of the most popular Nintendo consoles ever created with more [&#8230;] 
+
+<https://www.polygon.com/explained/455419/everything-we-know-nintendo-sunset-last-gen-consoles-switch-2>
+
+---
+
+## Legacy of Kain: Soul Reaver remasters leak ahead of Sony’s State of Play
+
+date: 2024-09-24, updated: 2024-09-24, from: Polygon Website
+
+Two of Crystal Dynamics’ early Legacy of Kain games are getting remastered in a new collection called Legacy of Kain: Soul Reaver 1 and 2 Remastered, according to new details leaked via Sony’s PlayStation Network. The collection, co-developed by Aspyr, was previously outed at San Diego Comic-Con this summer thanks to some statues. Legacy of [&#8230;] 
+
+<https://www.polygon.com/news/455491/legacy-of-kain-soul-reaver-remasters-leak>
+
+---
+
+## You can learn to speak Elvish — just not J.R.R. Tolkien’s Elvish
+
+date: 2024-09-24, updated: 2024-09-24, from: Polygon Website
+
+On Nov. 29, 1931, J.R.R. Tolkien introduced the world to Middle-earth — the most important part of it, anyway. The Hobbit wouldn’t be published for six more years. The Lord of the Rings was still decades away. But on that autumn night, when the renowned philologist presented a paper titled “A Secret Vice,” he revealed [&#8230;] 
+
+<https://www.polygon.com/lord-of-the-rings/455300/how-to-speak-elvish-tolkien-lotr>
+
+---
+
+## What time does Zelda: Echoes of Wisdom release?
+
+date: 2024-09-24, updated: 2024-09-23, from: Polygon Website
+
+We are now less than 48 hours away from the release of The Legend of Zelda: Echoes of Wisdom on Nintendo Switch. If you are purchasing a digital copy from the Nintendo eShop, preloads are now available, meaning you can download the game ahead of time and start playing as soon as it’s available. As [&#8230;] 
+
+<https://www.polygon.com/zelda-echoes-wisdom-guides/455018/release-time-us-east-coast-west-coast-uk-europe-preload>
 
 ---
 

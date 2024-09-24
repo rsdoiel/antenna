@@ -1,11 +1,80 @@
 ---
 title: columns
-updated: 2024-09-23 16:49:29
+updated: 2024-09-24 07:27:50
 ---
 
 # columns
 
-(date: 2024-09-23 16:49:29)
+(date: 2024-09-24 07:27:50)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-24, from: Dave Winer's Scripting News)
+
+It would be great if we could make voting a party, a celebration, something to look forward to, not something you have to make time for. That would probably do more to improve the lives of all Americans than any other single thing. It's like the SuperBowl, the NBA Finals, Coachella or the Oscars, only better -- because we are the stars. 
+
+<http://scripting.com/2024/09/24.html#a122441>
+
+---
+
+## Israel’s Pager Attacks and Supply Chain Vulnerabilities
+
+date: 2024-09-24, updated: 2024-09-24, from: Bruce Schneier blog
+
+<p>Israel&#8217;s brazen attacks on Hezbollah last week, in which hundreds of pagers and two-way radios exploded and killed at least 37 people, graphically illustrated a threat that cybersecurity experts have been warning about for years: Our international supply chains for computerized equipment leave us vulnerable. And we have no good means to defend ourselves.</p>
+<p>Though the deadly operations were stunning, none of the elements used to carry them out were particularly new. The tactics employed by Israel, which has neither confirmed nor denied any role, to hijack an international supply chain and embed plastic explosives in Hezbollah devices have been used for years. What&#8217;s new is that Israel put them together in such a devastating and extravagantly public fashion, bringing into stark relief what the future of great power competition will look like&#8212;in peacetime, wartime and the ever expanding ...</p> 
+
+<https://www.schneier.com/blog/archives/2024/09/israels-pager-attacks.html>
+
+---
+
+## Buying back CHIPS
+
+date: 2024-09-24, from: Robert Reich's blog
+
+The only way to stop public money from being siphoned off to shareholders and top executives 
+
+<https://robertreich.substack.com/p/buying-back-chips>
+
+---
+
+## September 23, 2024 
+
+date: 2024-09-24, from: Heather Cox Richardson blog
+
+&#8220;There&#8217;s nothing sadder than an aging salesman trying to close one last deal,&#8221; MSNBC&#8217;s Ryan Teague Beckwith wrote on September 21. 
+
+<https://heathercoxrichardson.substack.com/p/september-23-2024>
+
+---
+
+## Election Countdown, 43 Days to Go: ‘Are You Better Off?’
+
+date: 2024-09-24, from: James Fallows, Substack
+
+We'll hear the question more and more in these remaining days. Here are some facts for a response. 
+
+<https://fallows.substack.com/p/election-countdown-43-days-to-go>
+
+---
+
+## [Sponsor] Method
+
+date: 2024-09-24, updated: 2024-09-24, from: Daring Fireball
+
+ 
+
+<https://methodfi.com/>
+
+---
+
+## Nilay Patel’s iPhone 16 Pro Review Addresses the Nilay-Patel-iest of Questions: What Is a Photo?
+
+date: 2024-09-24, updated: 2024-09-24, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/24247538/apple-iphone-16-pro-review>
 
 ---
 
@@ -197,7 +266,7 @@ date: 2024-09-23, updated: 2024-09-23, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-09-23, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2021/09/17/simpsonsBeeGuy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">This is what it <a href="https://imgs.scripting.com/2024/09/23/lostCase.png">looks like</a> when UPS loses a package. It's a case for the new Google Pixel 9 Pro. It was shipped on Sept 6, at this point that's 17 days go. It was hell to just tell Google that the case was lost. I expected at that point they'd apologize and refund the money. That was a week ago. Just got an email saying want me to return the case when it arrives. It's never going to arrive. Luckily this is a cheap product, just $38. If it had happened with the $1316 phone that would be a pretty big problem. It's amazing that a company the size and age of Google doesn't have a procedure for dealing with products that are lost (or more likely stolen) in transit. I've been through this with Amazon, they knew what to do. Anyway I have a fairly large credit with Google. I don't dare use it to purchase anything else from them, given how incompetent they are at dealing with fairly common customer problems. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2021/09/17/simpsonsBeeGuy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">This is what it <a href="https://imgs.scripting.com/2024/09/23/lostCase.png">looks like</a> when UPS loses a package. It's a <a href="https://store.google.com/us/product/pixel_9_pro_phone_case">case</a> for the new <a href="https://store.google.com/us/product/pixel_9_pro">Pixel 9 Pro</a>. It shipped 17 days go. It was hell to just tell Google that the case was lost. I expected at that point they'd apologize and refund the money. That was a week ago. Just got an email saying want me to return the case when it arrives. It's never going to arrive. Luckily this is a cheap product, just $38. If it had happened with the $1300 phone, that would be a pretty big problem. It's amazing that a company the size and age of Google doesn't have a procedure for dealing with products that are lost (or more likely stolen) in transit. I've been through this with Amazon, they knew what to do, because UPS does lose packages, esp ones that look like they have phones in them. Anyway I have a fairly large credit with Google. I don't dare use it to purchase anything else, given how incompetent they are at dealing with fairly common customer problems. 
 
 <http://scripting.com/2024/09/23.html#a185701>
 

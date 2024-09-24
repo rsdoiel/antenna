@@ -1,11 +1,81 @@
 ---
 title: motorcycles
-updated: 2024-09-23 16:49:35
+updated: 2024-09-24 07:27:55
 ---
 
 # motorcycles
 
-(date: 2024-09-23 16:49:35)
+(date: 2024-09-24 07:27:55)
+
+---
+
+## Aprilia's RSV4 X ex3ma Is Nearly a MotoGP Bike, But With a Terrible Name
+
+date: 2024-09-24, from: Ride Apart, Electric Motorcycle News
+
+You’ll have to move fast, though, as only 30 of these race-derived machines are being produced.  
+
+<https://www.rideapart.com/news/734740/2024-aprilia-rsv4-x-ex3ma-launch/>
+
+---
+
+## Racer Danilo Petrucci Just Became The Only Rider In History To Do This
+
+date: 2024-09-24, from: Ride Apart, Electric Motorcycle News
+
+His hat trick of wins at the first-ever Cremona WSBK round also carved his name deeply into the history books. 
+
+<https://www.rideapart.com/news/734857/danilo-petrucci-wsbk-cremona-winner/>
+
+---
+
+## Jack Miller Makes The Switch To Yamaha, But Stays in MotoGP
+
+date: 2024-09-24, from: Ride Apart, Electric Motorcycle News
+
+Not quite in time for the V4-powered M1, but he’ll surely have a hand in the bike’s development.  
+
+<https://www.rideapart.com/news/734741/jack-miller-prima-pramac-yamaha-factory-team-2025/>
+
+---
+
+## Motorcycle Legend Jesse James is Getting Sued, But It's Because of His Dogs
+
+date: 2024-09-24, from: Ride Apart, Electric Motorcycle News
+
+His former assistant filed the complaint.  
+
+<https://www.rideapart.com/news/734842/jesse-james-choppers-lawsuit-dog-attack/>
+
+---
+
+## Can These Dirt-Cheap Facebook Marketplace Scooters Do ADV Trails? Maybe
+
+date: 2024-09-24, from: Ride Apart, Electric Motorcycle News
+
+In this corner, we have a 50cc Honda Express SR. And in the other corner, a UM Matrix 150 commuter. How does it go? 
+
+<https://www.rideapart.com/news/734854/facebook-marketplace-scooter-adv-challenge/>
+
+---
+
+## Marvel Debuts 'Thunderbolts' Trailer, Dubs Sportbike Sounds Over a Harley-Davidson
+
+date: 2024-09-24, from: Ride Apart, Electric Motorcycle News
+
+So why does that Harley Pan America sound like a GSX-R? 
+
+<https://www.rideapart.com/news/734837/harley-davidson-pan-america-sportbike-noise-marvel-thunderbolts-trailer/>
+
+---
+
+## Paul Sr Squashes Pretend Beef, Collabs With YouTubers Who Called OCC Bikes Trash
+
+date: 2024-09-24, from: Ride Apart, Electric Motorcycle News
+
+A build-off might be coming soon, but don’t expect chairs to go flying.  
+
+<https://www.rideapart.com/news/734725/paul-senior-occ-american-chopper-bikes-and-beards-pretend-beef/>
 
 ---
 

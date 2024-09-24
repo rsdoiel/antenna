@@ -1,11 +1,136 @@
 ---
 title: central coast
-updated: 2024-09-23 16:49:28
+updated: 2024-09-24 07:27:49
 ---
 
 # central coast
 
-(date: 2024-09-23 16:49:28)
+(date: 2024-09-24 07:27:49)
+
+---
+
+## Chimney Rock
+
+date: 2024-09-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/060424-POD-Melissa-Marsted.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Chimney Rock National Monument, New Mexico." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/060424-POD-Melissa-Marsted.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/060424-POD-Melissa-Marsted.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/060424-POD-Melissa-Marsted.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/060424-POD-Melissa-Marsted.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/060424-POD-Melissa-Marsted.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/060424-POD-Melissa-Marsted.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/060424-POD-Melissa-Marsted.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/060424-POD-Melissa-Marsted.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/060424-POD-Melissa-Marsted.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/060424-POD-Melissa-Marsted.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/060424-POD-Melissa-Marsted.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/060424-POD-Melissa-Marsted.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/060424-POD-Melissa-Marsted.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/chimney-rock/">Chimney Rock</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/chimney-rock/>
+
+---
+
+## Construction Shifts to Santa Barbara Portion of Highway 101
+
+date: 2024-09-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-Highway-101-Santa-Barbara-DG-01.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Highway 101 in Santa Barbara." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-Highway-101-Santa-Barbara-DG-01.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-Highway-101-Santa-Barbara-DG-01.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-Highway-101-Santa-Barbara-DG-01.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-Highway-101-Santa-Barbara-DG-01.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-Highway-101-Santa-Barbara-DG-01.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-Highway-101-Santa-Barbara-DG-01.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-Highway-101-Santa-Barbara-DG-01.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-Highway-101-Santa-Barbara-DG-01.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-Highway-101-Santa-Barbara-DG-01.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091924-Highway-101-Santa-Barbara-DG-01.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The construction making its way along Highway 101 arrived in Santa Barbara last week as the project enters the next stage. This fourth phase of the Highway 101 construction project [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/construction-begins-on-santa-barbara-portion-of-highway-101/">Construction Shifts to Santa Barbara Portion of Highway 101</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/construction-begins-on-santa-barbara-portion-of-highway-101/>
+
+---
+
+## Lompoc Valley Medical Center Achieves Bariatric Accreditation
+
+date: 2024-09-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Taglia-Robotic-surgery-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Taglia-Robotic-surgery-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Taglia-Robotic-surgery-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Taglia-Robotic-surgery-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Taglia-Robotic-surgery-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Taglia-Robotic-surgery-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Taglia-Robotic-surgery-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Taglia-Robotic-surgery-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Taglia-Robotic-surgery-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Taglia-Robotic-surgery-scaled.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Taglia-Robotic-surgery-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Taglia-Robotic-surgery-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Taglia-Robotic-surgery-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/Taglia-Robotic-surgery-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Lompoc Valley Medical Center has achieved reaccreditation from the nationally recognized Metabolic and Bariatric Surgery Accreditation and Quality Improvement Program as a “Comprehensive Center with Obesity Medicine Qualifications.” Following a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lompoc-valley-medical-center-achieves-bariatric-accreditation/">Lompoc Valley Medical Center Achieves Bariatric Accreditation</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/lompoc-valley-medical-center-achieves-bariatric-accreditation/>
+
+---
+
+## City Receives $364,000 Safe Streets and Roads for All Grant
+
+date: 2024-09-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The city of Goleta is pleased to share that it has received a Planning and Demonstration Activities grant for $364,000 from the Fiscal Year 2024 Safe Streets and Roads for All [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/city-receives-364000-safe-streets-and-roads-for-all-grant/">City Receives $364,000 Safe Streets and Roads for All Grant</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/city-receives-364000-safe-streets-and-roads-for-all-grant/>
+
+---
+
+## ‘Day of Hope’ Raises More Than $409,000 for Cancer Center
+
+date: 2024-09-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="853" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2024-Day-of-Hope-Celebration-01-scaled.jpeg?fit=1024%2C853&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2024-Day-of-Hope-Celebration-01-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2024-Day-of-Hope-Celebration-01-scaled.jpeg?resize=300%2C250&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2024-Day-of-Hope-Celebration-01-scaled.jpeg?resize=1024%2C853&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2024-Day-of-Hope-Celebration-01-scaled.jpeg?resize=768%2C640&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2024-Day-of-Hope-Celebration-01-scaled.jpeg?resize=1536%2C1280&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2024-Day-of-Hope-Celebration-01-scaled.jpeg?resize=2048%2C1707&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2024-Day-of-Hope-Celebration-01-scaled.jpeg?resize=1200%2C1000&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2024-Day-of-Hope-Celebration-01-scaled.jpeg?resize=1568%2C1307&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2024-Day-of-Hope-Celebration-01-scaled.jpeg?resize=2000%2C1667&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2024-Day-of-Hope-Celebration-01-scaled.jpeg?resize=400%2C333&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2024-Day-of-Hope-Celebration-01-scaled.jpeg?resize=706%2C588&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2024-Day-of-Hope-Celebration-01-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/2024-Day-of-Hope-Celebration-01-scaled.jpeg?fit=1024%2C853&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Marian Regional Medical Center Foundation and the Arroyo Grande Community Hospital Foundation announced that the 11th annual Day of Hope event raised a total of $409,013 in support of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/day-of-hope-raises-more-than-409000-for-cancer-center/">‘Day of Hope’ Raises More Than $409,000 for Cancer Center</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/day-of-hope-raises-more-than-409000-for-cancer-center/>
+
+---
+
+## Scholarship Foundation of Santa Barbara to Beta Test New FAFSA
+
+date: 2024-09-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Scholarship Foundation of Santa Barbara is one of only six organizations nationwide selected by the U.S. Department of Education to conduct initial testing of the latest Free Application for [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/scholarship-foundation-of-santa-barbara-to-beta-test-new-fafsa/">Scholarship Foundation of Santa Barbara to Beta Test New FAFSA</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/scholarship-foundation-of-santa-barbara-to-beta-test-new-fafsa/>
+
+---
+
+## Free QPR Suicide Prevention Workshops Announced
+
+date: 2024-09-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Family Service Agency (FSA) of Santa Barbara County and Youthwell are pleased to announce a new slate of suicide prevention workshops called QPR that will teach participants three steps to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/free-qpr-suicide-prevention-workshops-announced/">Free QPR Suicide Prevention Workshops Announced</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/free-qpr-suicide-prevention-workshops-announced/>
+
+---
+
+## Santa Barbara Families File Claim Alleging School Failed to Protect Students
+
+date: 2024-09-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="984" height="578" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-steven-schapansky-fresno-county-sheriff-photos.jpg?fit=984%2C578&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Steven Schapansky" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-steven-schapansky-fresno-county-sheriff-photos.jpg?w=984&amp;ssl=1 984w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-steven-schapansky-fresno-county-sheriff-photos.jpg?resize=300%2C176&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-steven-schapansky-fresno-county-sheriff-photos.jpg?resize=768%2C451&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-steven-schapansky-fresno-county-sheriff-photos.jpg?resize=400%2C235&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-steven-schapansky-fresno-county-sheriff-photos.jpg?resize=706%2C415&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091324-steven-schapansky-fresno-county-sheriff-photos.jpg?fit=984%2C578&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Two Santa Barbara families have petitioned Santa Barbara County Superintendent of Schools Susan Salcido, Santa Barbara Charter School and the Santa Barbara Unified School District to submit a plan for [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/families-file-claim-alleging-school-failed-to-protect-students-from-secret-recordings/">Santa Barbara Families File Claim Alleging School Failed to Protect Students</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/families-file-claim-alleging-school-failed-to-protect-students-from-secret-recordings/>
+
+---
+
+## Santa Barbara Foundation Hosts Toast to the Nonprofit Community
+
+date: 2024-09-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/SBF9-5-2024-1221-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/SBF9-5-2024-1221-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/SBF9-5-2024-1221-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/SBF9-5-2024-1221-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/SBF9-5-2024-1221-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/SBF9-5-2024-1221-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/SBF9-5-2024-1221-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/SBF9-5-2024-1221-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/SBF9-5-2024-1221-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/SBF9-5-2024-1221-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/SBF9-5-2024-1221-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/SBF9-5-2024-1221-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/SBF9-5-2024-1221-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/SBF9-5-2024-1221-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>In gratitude for all the nonprofit community does to improve life throughout Santa Barbara County, the Santa Barbara Foundation (SBF) hosted “Toast to the Nonprofit Community” on Sept. 5 at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-foundation-hosts-toast-to-the-nonprofit-community/">Santa Barbara Foundation Hosts Toast to the Nonprofit Community</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-foundation-hosts-toast-to-the-nonprofit-community/>
+
+---
+
+## Santa Maria Man Accused of Lewd Acts Involving Girls at Orcutt Store
+
+date: 2024-09-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A 20-year-old man has been arrested on suspicion of committing lewd acts on at least three girls in an Orcutt store. On Aug. 21, deputies responded to the Dollar Tree [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-man-accused-of-lewd-acts-involving-girls-at-orcutt-store/">Santa Maria Man Accused of Lewd Acts Involving Girls at Orcutt Store</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-maria-man-accused-of-lewd-acts-involving-girls-at-orcutt-store/>
 
 ---
 

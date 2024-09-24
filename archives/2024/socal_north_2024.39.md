@@ -1,11 +1,41 @@
 ---
 title: socal north
-updated: 2024-09-23 16:49:25
+updated: 2024-09-24 07:27:46
 ---
 
 # socal north
 
-(date: 2024-09-23 16:49:25)
+(date: 2024-09-24 07:27:46)
+
+---
+
+## Inspector general blasts LA County sheriff’s new policy on deputy gangs
+
+date: 2024-09-24, updated: 2024-09-24, from: The LAist
+
+Inspector General Max Huntsman says the new policy is unlikely to pierce a code of silence surrounding the gangs. 
+
+<https://laist.com/news/politics/sheriffs-department-gang-policy-reaction>
+
+---
+
+## Lawmakers want to let workers apply early for paid family leave. Now it’s up to Gov. Newsom
+
+date: 2024-09-24, updated: 2024-09-24, from: The LAist
+
+Currently, workers cannot apply for benefits until their first day of leave, and can go weeks without pay. 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/lawmakers-apply-early-paid-family-leave-gavin-newsom>
+
+---
+
+## LA County fire official says Apollo Fire erupted after mulch spontaneously combusted
+
+date: 2024-09-23, updated: 2024-09-24, from: The LAist
+
+The fire burned 800 acres in the Antelope Valley. The L.A. County Fire official says there have been about 70 mulch-related fires this calendar year. 
+
+<https://laist.com/news/climate-environment/apollo-fire-cause-mulch-lancaster-la-county>
 
 ---
 

@@ -1,11 +1,51 @@
 ---
 title: home
-updated: 2024-09-23 16:49:33
+updated: 2024-09-24 07:27:54
 ---
 
 # home
 
-(date: 2024-09-23 16:49:33)
+(date: 2024-09-24 07:27:54)
+
+---
+
+## The Flowers You Should Be Adding to Your Fall DIY Arrangements
+
+date: 2024-09-24, from: Sunset Magazine - Living in the West
+
+Fall is a beautiful time for blooms. We asked a florist what the best flowers are to transition from summer to fall. 
+
+<https://www.sunset.com/home-garden/flowers-plants/best-fall-flowers-for-arrangements>
+
+---
+
+## Here’s Where to Eat in the West Right Now
+
+date: 2024-09-24, from: Sunset Magazine - Living in the West
+
+On your next trip, book a table at these restaurants in destinations from Alaska to Baja. These are the winners of the Sunset Travel Awards. 
+
+<https://www.sunset.com/travel/best-restaurants-in-west-2024>
+
+---
+
+## This Hotel Has the Wildest Plant Design—Here’s How to Get the Look at Home
+
+date: 2024-09-24, from: Sunset Magazine - Living in the West
+
+The plant experts behind 1 Hotel's dizzying array of greenery share inspo on how to mimic their biophillic San Francisco space. 
+
+<https://www.sunset.com/home-garden/flowers-plants/houseplant-care-tips-1hotel-san-francisco>
+
+---
+
+## Book These Historic Hotels to Experience Next-Level Nostalgia
+
+date: 2024-09-23, from: Sunset Magazine - Living in the West
+
+For your next getaway, book a stay at a hotel with lots of history and culture. These are the best historic hotels in the West. 
+
+<https://www.sunset.com/travel/best-historic-hotels-in-the-west-2024>
 
 ---
 
@@ -96,6 +136,16 @@ date: 2024-09-23, from: Family Handyman Blog
  
 
 <https://www.familyhandyman.com/article/tiki-fire-pit-review/>
+
+---
+
+## Yosemite’s Historic Hotel Will Close Indefinitely
+
+date: 2024-09-23, from: Sunset Magazine - Living in the West
+
+The history Wawona Hotel property in Yosemite National Park will close for restoration on December 2. It was first established in 1856. 
+
+<https://www.sunset.com/travel/national-parks/yosemite-historic-hotel-will-close-indefinitely>
 
 ---
 

@@ -1,11 +1,89 @@
 ---
 title: going electric
-updated: 2024-09-23 16:49:37
+updated: 2024-09-24 07:27:57
 ---
 
 # going electric
 
-(date: 2024-09-23 16:49:37)
+(date: 2024-09-24 07:27:57)
+
+---
+
+## Pulling The Plug On EVs? The Wild Fight Over Ending Subsidies
+
+date: 2024-09-24, from: Inside EVs News
+
+Plus, Stellantis begins the hunt for a new CEO and Cruise heads back to California. 
+
+<https://insideevs.com/news/734863/governments-begin-ending-ev-subsidies/>
+
+---
+
+## It Turns Out Charging Stations Are Cash Cows For Nearby Businesses
+
+date: 2024-09-24, from: Inside EVs News
+
+Local businesses are cashing in on charging station wait times. 
+
+<https://insideevs.com/news/734705/ev-chargers-cash-cow-nearby/>
+
+---
+
+## KIA shares a timeline for rolling out free NACS adapters to new EV6 and EV9 owners
+
+date: 2024-09-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Kia-NACS-Hyundai-Tesla.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Just about a year after Hyundai Motor Group announced plans to adopt the <a href="https://electrek.co/guides/north-american-charging-standard-nacs/">North American Charging Standard</a> (NACS), Kia America sits on the cusp of sending plug adapters out to its current customers while its umbrella company works to implement the universal charging inlets on new models.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev6,kia-ev9,nacs,north-american-charging-standard-nacs" data-layer-viewtype="unknown" data-post-id="381151" href="https://electrek.co/2024/09/24/kia-shares-timeline-rolling-out-free-nacs-adapters-to-new-ev6-ev9-owners/#more-381151" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/24/kia-shares-timeline-rolling-out-free-nacs-adapters-to-new-ev6-ev9-owners/>
+
+---
+
+## Thor’s New Extended Range RV Packs Off-Grid Power For Days, 500 Miles Of Range
+
+date: 2024-09-24, from: Inside EVs News
+
+It’s like a Ram 1500 Ramcharger, only you can sleep, make dinner and take a shower in it. 
+
+<https://insideevs.com/news/734936/thor-harbinger-erev-rv/>
+
+---
+
+## Kia EVs Will Get Tesla Supercharger Access Early Next Year
+
+date: 2024-09-24, from: Inside EVs News
+
+Some Kia EV6 and EV9 buyers will get a free adapter. Others will have to pay for it. 
+
+<https://insideevs.com/news/734928/kia-ev-tesla-supercharger-2025-adapter/>
+
+---
+
+## New low-cost electric cargo bike promises 200+ mile range and fast charging
+
+date: 2024-09-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/engwe-LE20-cargo-e-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Which would you rather have, a fast-charging e-bike or one with 217 miles (350 km) of range? With the new Engwe LE20 electric cargo bike, apparently you can have both.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="381142" href="https://electrek.co/2024/09/24/new-low-cost-electric-cargo-bike-promises-200-mile-range-and-fast-charging/#more-381142" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/24/new-low-cost-electric-cargo-bike-promises-200-mile-range-and-fast-charging/>
+
+---
+
+## Kia EV9 Recalled For Faulty Remote Parking Assist That May Not Brake Properly
+
+date: 2024-09-24, from: Inside EVs News
+
+Over 12,000 EV9 SUVs will need a visit to the dealer to fix the issue. 
+
+<https://insideevs.com/news/734883/kia-ev9-recall-parking-assist/>
 
 ---
 

@@ -1,37 +1,104 @@
 ---
 title: weather
-updated: 2024-09-23 16:49:31
+updated: 2024-09-24 07:27:51
 ---
 
 # weather
 
-(date: 2024-09-23 16:49:31)
+(date: 2024-09-24 07:27:51)
 
 ---
 
-## SPC - No watches are valid as of Mon Sep 23 23:20:07 UTC 2024
+## SPC - No watches are valid as of Tue Sep 24 12:54:02 UTC 2024
 
-date: 2024-09-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-09-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Mon Sep 23 23:20:07 UTC 2024. 
+No watches are valid as of Tue Sep 24 12:54:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Mon Sep 23 23:20:07 UTC 2024
+## SPC - No MDs are in effect as of Tue Sep 24 12:54:02 UTC 2024
 
-date: 2024-09-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-09-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Mon Sep 23 23:20:07 UTC 2024. 
+No Mesoscale Discussions are in effect as of Tue Sep 24 12:54:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/md/>
 
 ---
 
+## SPC Sep 24, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-09-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0742 AM CDT Tue Sep 24 2024
+
+Valid 241300Z - 251200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM CENTRAL
+KENTUCKY INTO SOUTHERN OHIO AND WEST VIRGINIA...
+
+...SUMMARY...
+Isolated to scattered severe thunderstorms are possible mainly this
+afternoon across portions of the Ohio and Tennessee Valleys into the
+central/southern Appalachians.  A few strong/severe storms are also
+possible across portions of the southern Plains.
+
+...Ohio and Tennessee Valleys to southern Appalachians...
+Water-vapor imagery this morning shows a mid-level vorticity maximum
+moving across the middle MS Valley and into the OH Valley.  A belt
+of moderate to strong southwesterly 500-mb flow (25-50 kt) will
+overspread KY and the surrounding states, with the strongest flow
+generally within the Slight Risk bounds.  Bands of showers/weak
+thunderstorms are ongoing this morning from middle TN into OH, and
+in a separate area over eastern IL immediately ahead of the surface
+low.  This low will migrate east-northeast into southern Lower MI by
+early evening with a frontal zone extending south-southwest into the
+Mid South.  In wake of the early morning convection, some cloud
+breaks/destabilization is forecast with upwards of 750-2000 J/kg
+MLCAPE from the southern Great Lakes into the southern Appalachian
+states.  Ample deep-layer speed shear (via mostly southwesterly flow
+through the troposphere) will aid in storm organization into
+organized multicells and probably several supercells.  Only notable
+change this outlook update was to include portions of the southern
+Great Lakes in low-severe probabilities for potential activity
+near/ahead of the surface low.  The primary concern across the
+general region will likely be damaging winds with the stronger
+storms.
+
+...OK vicinity...
+An amplifying large-scale trough over the MS Valley will feature a
+60-kt 500mb speed max moving southward into the central Great Plains
+by early evening on the backside of the upper trough.  Left exit
+region of this feature will encourage large-scale ascent, and a weak
+surface wave/low should evolve over southwest KS/northwest OK by
+early afternoon.  Strong heating will contribute to 750-1250 J/kg
+MLCAPE by mid afternoon across OK with flow veering and
+strengthening with height.  Elongated hodographs will support the
+potential for hail growth with a few of the stronger/sustained
+updrafts that evolve.  An isolated threat for large hail (1 to 1.75
+inches in diameter) and/or severe gusts (60-70 mph) will probably
+peak during the 23z-03z period before storms weaken during the late
+evening.
+
+..Smith/Broyles.. 09/24/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
 ## NHC Atlantic Outlook
 
-date: 2024-09-23, from: Graphical Tropical Weather Outlooks
+date: 2024-09-24, from: Graphical Tropical Weather Outlooks
 
 
 <br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
@@ -40,30 +107,543 @@ date: 2024-09-23, from: Graphical Tropical Weather Outlooks
 <img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
 <br /><br />
 <div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 PM EDT Mon Sep 23 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Potential <br>Tropical Cyclone Nine, located over the northwestern Caribbean Sea.<br>* Formation chance through 48 hours...high...90 percent. <br>* Formation chance through 7 days...high...90 percent.<br><br>1. Eastern and Central Tropical Atlantic:<br>A tropical wave near the Cabo Verde Islands is producing <br>disorganized shower and thunderstorm activity. Environmental <br>conditions appear generally favorable for gradual development of <br>this system, and a tropical depression is likely to form during the <br>middle to latter part of this week while it moves westward to <br>west-northwestward across the eastern and central tropical Atlantic.<br>* Formation chance through 48 hours...low...20 percent. <br>* Formation chance through 7 days...high...70 percent.<br><br />
-<br>Public Advisories on Potential Tropical Cyclone Nine are issued <br>under WMO header WTNT34 KNHC and under AWIPS header MIATCPAT4.<br>Forecast/Advisories on Potential Tropical Cyclone Nine are issued <br>under WMO header WTNT24 KNHC and under AWIPS header MIATCMAT4.<br><br>Forecaster Kelly<br></div></div><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Tue Sep 24 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Potential <br>Tropical Cyclone Nine, located over the northwestern Caribbean Sea.<br>* Formation chance through 48 hours...high...near 100 percent. <br>* Formation chance through 7 days...high...near 100 percent.<br><br>1. Eastern and Central Tropical Atlantic:<br>Shower and thunderstorm activity continues to show signs of <br>organization in association with a tropical wave located near the <br>Cabo Verde Islands. Environmental conditions appear favorable for <br>gradual development of this system, and a tropical depression is <br>likely to form in a few days while it moves westward to <br>west-northwestward across the eastern and central tropical Atlantic.<br>* Formation chance through 48 hours...medium...40 percent. <br>* Formation chance through 7 days...high...80 percent.<br><br />
+<br>Public Advisories on Potential Tropical Cyclone Nine are issued <br>under WMO header WTNT34 KNHC and under AWIPS header MIATCPAT4.<br>Forecast/Advisories on Potential Tropical Cyclone Nine are issued <br>under WMO header WTNT24 KNHC and under AWIPS header MIATCMAT4.<br><br>Forecaster Bucci<br></div></div><br />
  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
-## NHC Eastern North Pacific Outlook
+## Central North Pacific Tropical Weather Outlook
 
-date: 2024-09-23, from: Graphical Tropical Weather Outlooks
+date: 2024-09-24, from: Central Pacific Basin Tropical Cyclones
 
 
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_2d0_resize.gif" alt="Eastern North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_7d0_resize.gif" alt="Eastern North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOEP ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>500 PM PDT Mon Sep 23 2024<br><br>For the eastern North Pacific...east of 140 degrees west longitude:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Hurricane <br>John, located near the coast of southern Mexico. <br><br>1. East-Central Portion of the East Pacific:<br>A trough of low pressure located several hundred miles southwest of <br>southwestern Mexico is producing disorganized showers and <br>thunderstorms. Development of this system is no longer expected as <br>it moves eastward towards the coast of southern Mexico the next few <br>days.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...low...near 0 percent.<br><br />
-<br>Forecaster Kelly<br></div></div><br />
+<br/>
+000<br/>
+ACPN50 PHFO 241159<br/>
+TWOCP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS Central Pacific Hurricane Center Honolulu HI<br/>
+200 AM HST Tue Sep 24 2024<br/>
+<br/>
+For the central North Pacific...between 140W and 180W:<br/>
+<br/>
+Approximately 750 miles southeast of Hilo, Hawaii:<br/>
+Thunderstorms have decreased in coverage northwest of a broad trough <br/>
+of low pressure located far southeast of Hawaii. Environmental <br/>
+conditions are expected to remain unfavorable for the development of <br/>
+this system.<br/>
+* Formation chance through 48 hours...low...near 0 percent.<br/>
+* Formation chance through 7 days...low...near 0 percent.<br/>
+<br/>
+Approximately 950 miles southwest of Honolulu, Hawaii:<br/>
+Numerous showers and enhanced thunderstorms are in association with <br/>
+an area of broad low pressure located far southwest of the Hawaiian <br/>
+Islands. As the low moves northwest the next couple of days, <br/>
+environmental conditions may become marginally conducive for the <br/>
+development of this system. <br/>
+* Formation chance through 48 hours...low...10 percent.<br/>
+* Formation chance through 7 days...low...10 percent.<br/>
+<br/>
+$$<br/>
+Forecaster Blood<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2024-09-24, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ABPZ20 KNHC 241153<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+500 AM PDT Tue Sep 24 2024<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on Tropical <br/>
+Storm John, located just inland near the coast of southern Mexico.<br/>
+<br/>
+Tropical cyclone formation is not expected over the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Bucci<br/>
  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## Advisory #008A Forecast Track [kmz] - Tropical Storm John (EP5/EP102024)
+
+date: 2024-09-24, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Tue, 24 Sep 2024 11:52:40 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP102024_008Aadv_TRACK.kmz>
+
+---
+
+## Advisory #008A Watches/Warnings [kmz] - Tropical Storm John (EP5/EP102024)
+
+date: 2024-09-24, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Tue, 24 Sep 2024 11:52:38 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP102024_008Aadv_WW.kmz>
+
+---
+
+## Advisory #008 Wind Field [shp] - Tropical Storm John (EP5/EP102024)
+
+date: 2024-09-24, from: Eastern Pacific Basin GIS Data
+
+Initial and Forecast Surface Winds. Shapefile last updated Tue, 24 Sep 2024 11:52:14 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep102024_fcst_008.zip>
+
+---
+
+## Preliminary Best Track [shp] - Tropical Storm John (EP5/EP102024)
+
+date: 2024-09-24, from: Eastern Pacific Basin GIS Data
+
+Track, Points, and Wind Swath. Shapefile last updated Tue, 24 Sep 2024 11:52:06 GMT 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep102024_best_track.zip>
+
+---
+
+## Preliminary Best Track Points [kmz] - Tropical Storm John (EP5/EP102024)
+
+date: 2024-09-24, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Tue, 24 Sep 2024 11:52:06 GMT 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep102024_best_track.kmz>
+
+---
+
+## Advisory #008A Cone of Uncertainty [kmz] - Tropical Storm John (EP5/EP102024)
+
+date: 2024-09-24, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Tue, 24 Sep 2024 11:52:03 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP102024_008Aadv_CONE.kmz>
+
+---
+
+## Advisory #008A Forecast [shp] - Tropical Storm John (EP5/EP102024)
+
+date: 2024-09-24, from: Eastern Pacific Basin GIS Data
+
+Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Tue, 24 Sep 2024 11:51:56 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep102024_5day_008A.zip>
+
+---
+
+## Tropical Storm John Graphics
+
+date: 2024-09-24, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep5+shtml/115131.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP10/EP102024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm John 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Tue, 24 Sep 2024 11:51:31 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep5+shtml/115131.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP10/EP102024_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm John 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Tue, 24 Sep 2024 09:29:09 GMT
+ 
+
+<https://www.nhc.noaa.gov/refresh/graphics_ep5+shtml/115131.shtml?cone>
+
+---
+
+## Tropical Storm John Public Advisory Number 8A
+
+date: 2024-09-24, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPZ35 KNHC 241146
+TCPEP5
+ 
+BULLETIN
+Tropical Storm John Intermediate Advisory Number 8A
+NWS National Hurricane Center Miami FL       EP102024
+600 AM CST Tue Sep 24 2024
+ 
+...LIFE-THREATENING FLASH FLOODING POSSIBLE ACROSS PORTIONS OF 
+SOUTHERN MEXICO DURING THE NEXT FEW DAYS...
+ 
+ 
+SUMMARY OF 600 AM CST...1200 UTC...INFORMATION
+----------------------------------------------
+LOCATION...17.7N 100.3W
+ABOUT 60 MI...100 KM NNW OF ACAPULCO MEXICO
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...NW OR 305 DEGREES AT 8 MPH...13 KM/H
+MINIMUM CENTRAL PRESSURE...999 MB...29.50 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The government of Mexico has adjusted the Tropical Storm
+Warning westward from Punta Maldonado to Zihuatanejo.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Punta Maldonado to Zihuatanejo
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, in this case over the
+next few hours.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 600 AM CST (1200 UTC), the center of Tropical Storm John was
+located near latitude 17.7 North, longitude 100.3 West. John is
+moving toward the northwest near 8 mph (13 km/h). A slow 
+westward motion is expected during the next few days.
+ 
+Maximum sustained winds are near 50 mph (85 km/h) with higher
+gusts.  Continued rapid weakening is anticipated, and John is
+expected to become a tropical depression later today.
+ 
+Tropical-storm-force winds extend outward up to 45 miles (75 km)
+from the center.
+ 
+The estimated minimum central pressure is 999 mb (29.50 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key Messages for John can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDEP5 and WMO header WTPZ45 KNHC
+and on the web at hurricanes.gov/text/MIATCDEP5.shtml
+ 
+RAINFALL: Through Thursday, Tropical Storm John is expected to
+produce 6 to 12 inches of rain with isolated totals around 15 inches
+across the coastal areas of Chiapas. In areas along and near the
+Oaxaca coast to southeast Guerrero, between 10 and 20 inches of rain
+with isolated totals near 30 inches can be expected through
+Thursday.
+ 
+For a complete depiction of forecast rainfall associated with 
+Tropical Storm John, please see the National Weather Service Storm 
+Total Rainfall Graphic, available at 
+hurricanes.gov/graphics_ep5.shtml?rainqpf
+ 
+WIND:  Tropical storm conditions are ongoing within portions of the
+tropical storm warning area and should continue for the next few
+hours. Wind speeds atop and on the windward sides of hills and
+mountains are often up to 30 percent stronger than the near-surface
+winds indicated in this advisory, and in some elevated locations
+could be even greater.
+ 
+SURF:  Swells associated with John are forecast to continue
+affecting the coast of southern Mexico during the next day or so, 
+with the potential for dangerous surf and rip currents.  Please see 
+local statements for more information.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 900 AM CST.
+ 
+$$
+Forecaster Cangialosi
+ 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/241146.shtml>
+
+---
+
+## ATCF XML Prototype [xml] - Tropical Storm John (EP5/EP102024)
+
+date: 2024-09-24, from: Eastern Pacific Basin GIS Data
+
+Issued at  Tue, 24 Sep 2024 11:46:18 GMT. This is only a prototype and the file format may change without notice. 
+
+<https://www.nhc.noaa.gov/storm_graphics/EP10/atcf-ep102024.xml>
+
+---
+
+## 120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins
+
+date: 2024-09-24, from: Eastern Pacific Basin GIS Data
+
+Shapefile last updated Tue, 24 Sep 2024 09:23:35 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip>
+
+---
+
+## Tropical Storm John Forecast Discussion Number 8
+
+date: 2024-09-24, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+523 
+WTPZ45 KNHC 240852
+TCDEP5
+ 
+Tropical Storm John Discussion Number   8
+NWS National Hurricane Center Miami FL       EP102024
+300 AM CST Tue Sep 24 2024
+ 
+John moved inland at around 0315 UTC as a 105 kt Category 3 
+Hurricane. Since that time, the the storm has apparently turned more 
+leftward and remains just inland, skirting the southern coast of 
+Mexico. While surface observations have been sparse, my best guess 
+is that the storm recently passed just to the north of Acapulco, 
+where the airport earlier reported tropical-storm-force wind gusts 
+and west winds as the pressure dropped to 998 mb. Assuming the 
+small core has continued to quickly weaken, John is being 
+downgraded to a tropical storm, and the initial intensity is 60 kt 
+this advisory.
+ 
+Following fixes from earlier microwave and more recent geostationary 
+satellite imagery, John now appears to be moving northwestward at 
+310/7 kt. The track forecast, which has been problematic with John 
+from the start, is just as difficult now. John has continued to 
+deviate westward of the previous forecast track and is now moving 
+roughly parallel to the coast of Mexico. To make matters worse, a 
+decent chunk of the of the global models guidance (ECMWF, UKMET) and 
+hurricane regional models (HWRF, HMON) suggest the circulation could 
+continue turning westward and attempt to re-emerge over the Eastern 
+Pacific. Even the GFS and CMC solutions, which appear to dissipate 
+the surface circulation inland over Mexico, show the mid-level 
+circulation persisting and drifting back offshore, leading to the 
+development of a new low-level circulation. Because it is becoming 
+distinctly possible that John does not move far enough inland to 
+dissipate entirely, and the aforementioned continued leftward 
+trends, the latest NHC track forecast is altered quite a bit form 
+the prior forecast, and now shows the possibility that John, albeit 
+as a tropical depression, moving back offshore as it becomes tangled 
+in the larger monsoonal flow. By 72 h, most of the track guidance 
+shows the system moving back inland. The updated track forecast is 
+roughly in between the HCCA and ECMWF trackers, and is of very low 
+confidence given John's track history. It also remains possible the 
+system could dissipate later today if it moves further inland.
+ 
+Intensity-wise, John should continue to rapidly weaken as long as
+it remains onshore, and the NHC intensity forecast shows the
+tropical cyclone weakening to a tropical depression later today.
+However, the new NHC forecast now maintains the system as a
+depression and does not show dissipation beyond 24 h given the
+latest track forecast taking the system along the coast of Mexico
+and not far enough inland to completely dissipate. Some of the
+models (notably the ECMWF) attempt to also re-intensify John as it
+gets far enough back offshore, but given the large changes made on
+this forecast cycle, the NHC intensity will not show that solution
+quite yet.
+ 
+Even if John remains inland, larger-scale moist monsoonal 
+southeasterly flow will persist along the southern coast of Mexico, 
+likely contributing to catastrophic rainfall both along the coast 
+and inland over the up-slope portion of the mountainous terrain. 
+This is a very dangerous life-threatening flooding scenario.
+ 
+ 
+KEY MESSAGES:
+ 
+1. Tropical Storm John could still producing tropical storm 
+conditions for the next few hours in the tropical storm warning 
+area.
+ 
+2. Slow-moving John will bring very heavy rainfall to coastal
+portions of southwest Mexico through the upcoming week. This heavy
+rainfall will likely cause significant and possibly catastrophic,
+life-threatening flash flooding and mudslides to the Mexican States
+of Chiapas, Oaxaca, and southeast Guerrero, particularly in areas
+near the coast and along the up-slope portion of areas of higher
+terrain.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  24/0900Z 17.3N 100.0W   60 KT  70 MPH...INLAND
+ 12H  24/1800Z 17.4N 100.8W   30 KT  35 MPH...INLAND
+ 24H  25/0600Z 17.0N 101.0W   30 KT  35 MPH...OVER WATER
+ 36H  25/1800Z 16.7N 100.9W   30 KT  35 MPH
+ 48H  26/0600Z 16.9N 100.6W   30 KT  35 MPH
+ 60H  26/1800Z 17.4N 100.7W   25 KT  30 MPH...INLAND
+ 72H  27/0600Z 18.1N 101.3W   20 KT  25 MPH...POST-TROP/REMNT LOW
+ 96H  28/0600Z...DISSIPATED
+ 
+$$
+Forecaster Papin
+ 
+
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCDEP5+shtml/240852.shtml>
+
+---
+
+## Tropical Storm John Wind Speed Probabilities Number 8
+
+date: 2024-09-24, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+FOPZ15 KNHC 240850
+PWSEP5
+                                                                    
+TROPICAL STORM JOHN WIND SPEED PROBABILITIES NUMBER   8             
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP102024               
+0900 UTC TUE SEP 24 2024                                            
+                                                                    
+AT 0900Z THE CENTER OF TROPICAL STORM JOHN WAS LOCATED NEAR LATITUDE
+17.3 NORTH...LONGITUDE 100.0 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 
+60 KTS...70 MPH...110 KM/H.                                         
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z TUE AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z TUE 18Z TUE 06Z WED 18Z WED 06Z THU 06Z FRI 06Z SAT
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z TUE 06Z WED 18Z WED 06Z THU 06Z FRI 06Z SAT 06Z SUN
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+ZIHUATANEJO    34  1   2( 3)   1( 4)   1( 5)   1( 6)   X( 6)   X( 6)
+ 
+ACAPULCO       34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ACAPULCO       50 66   X(66)   X(66)   1(67)   X(67)   X(67)   X(67)
+ 
+$$                                                                  
+FORECASTER PAPIN                                                    
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIAPWSEP5+shtml/240850.shtml>
+
+---
+
+## Tropical Storm John Forecast Advisory Number 8
+
+date: 2024-09-24, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPZ25 KNHC 240849
+TCMEP5
+ 
+TROPICAL STORM JOHN FORECAST/ADVISORY NUMBER   8
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP102024
+0900 UTC TUE SEP 24 2024
+ 
+TROPICAL STORM CENTER LOCATED NEAR 17.3N 100.0W AT 24/0900Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTHWEST OR 310 DEGREES AT   7 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  990 MB
+MAX SUSTAINED WINDS  60 KT WITH GUSTS TO  75 KT.
+50 KT.......  0NE  20SE  20SW   0NW.
+34 KT....... 30NE  40SE  40SW  30NW.
+12 FT SEAS.. 10NE  90SE  60SW  10NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 17.3N 100.0W AT 24/0900Z
+AT 24/0600Z CENTER WAS LOCATED NEAR 16.9N  99.3W
+ 
+FORECAST VALID 24/1800Z 17.4N 100.8W...INLAND
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 25/0600Z 17.0N 101.0W...OVER WATER
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 25/1800Z 16.7N 100.9W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 26/0600Z 16.9N 100.6W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 26/1800Z 17.4N 100.7W...INLAND
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 27/0600Z 18.1N 101.3W...POST-TROP/REMNT LOW
+MAX WIND  20 KT...GUSTS  30 KT.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 28/0600Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 17.3N 100.0W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT35 KNHC/MIATCPEP5...AT 24/1200Z
+ 
+NEXT ADVISORY AT 24/1500Z
+ 
+$$
+FORECASTER PAPIN
+ 
+ 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/240849.shtml>
 
 ---
 
@@ -111,16 +691,6 @@ precludes any significant fire weather concerns.
 
 ---
 
-## 120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins
-
-date: 2024-09-23, from: Eastern Pacific Basin GIS Data
-
-Shapefile last updated Mon, 23 Sep 2024 21:23:37 GMT 
-
-<https://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip>
-
----
-
 ## Advisory #006 Forecast Track [kmz] - Hurricane John (EP5/EP102024)
 
 date: 2024-09-23, from: Eastern Pacific Basin GIS Data
@@ -148,26 +718,6 @@ date: 2024-09-23, from: Eastern Pacific Basin GIS Data
 Initial and Forecast Surface Winds. Shapefile last updated Mon, 23 Sep 2024 20:51:01 GMT 
 
 <https://www.nhc.noaa.gov/gis/forecast/archive/ep102024_fcst_006.zip>
-
----
-
-## Preliminary Best Track [shp] - Hurricane John (EP5/EP102024)
-
-date: 2024-09-23, from: Eastern Pacific Basin GIS Data
-
-Track, Points, and Wind Swath. Shapefile last updated Mon, 23 Sep 2024 20:50:54 GMT 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep102024_best_track.zip>
-
----
-
-## Preliminary Best Track Points [kmz] - Hurricane John (EP5/EP102024)
-
-date: 2024-09-23, from: Eastern Pacific Basin GIS Data
-
-KMZ last updated Mon, 23 Sep 2024 20:50:54 GMT 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep102024_best_track.kmz>
 
 ---
 
@@ -369,16 +919,6 @@ FORECASTER HAGEN
 </pre> 
 
 <https://www.nhc.noaa.gov/text/refresh/MIAPWSEP5+shtml/232048.shtml>
-
----
-
-## ATCF XML Prototype [xml] - Hurricane John (EP5/EP102024)
-
-date: 2024-09-23, from: Eastern Pacific Basin GIS Data
-
-Issued at  Mon, 23 Sep 2024 20:48:07 GMT. This is only a prototype and the file format may change without notice. 
-
-<https://www.nhc.noaa.gov/storm_graphics/EP10/atcf-ep102024.xml>
 
 ---
 
@@ -603,43 +1143,6 @@ withhold low tornado probabilities.
 
 ---
 
-## CPHC Central North Pacific Outlook
-
-date: 2024-09-23, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC HFOTWOCP ALL<br />
-TTAA00 PHFO DDHHMM<br />
-<br />
-Tropical Weather Outlook<br />
-NWS Central Pacific Hurricane Center Honolulu HI<br />
-800 AM HST Mon Sep 23 2024<br />
-<br />
-For the central North Pacific...between 140W and 180W:<br />
-<br />
-1. Approximately 1000 miles southeast of Hilo, Hawaii:<br />
-A broad area of low pressure located far southeast of Hawaii <br />
-continues to produce disorganized showers and thunderstorms. Upper <br />
-level winds are becoming increasingly unfavorable for further <br />
-development of this system as it moves westward at 5 to 10 mph.<br />
-* Formation chance through 48 hours...low...30 percent.<br />
-* Formation chance through 7 days...low...30 percent.<br />
-<br />
-Forecaster Kino<br />
-<br />
-</div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
 ## Summary - Hurricane John (EP5/EP102024)
 
 date: 2024-09-23, from: Eastern Pacific Basin GIS Data
@@ -697,61 +1200,6 @@ Forecaster Brown
 </pre> 
 
 <https://www.nhc.noaa.gov/text/refresh/MIATCUEP5+shtml/231342.shtml>
-
----
-
-## SPC Sep 23, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-09-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0735 AM CDT Mon Sep 23 2024
-
-Valid 231300Z - 241200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM THE OZARKS
-TO THE OHIO/TENNESSEE VALLEYS REGION...
-
-...SUMMARY...
-Isolated strong to severe thunderstorms are possible mainly this
-afternoon into the early evening from the Ozarks into parts of the
-Tennessee and lower Ohio Valleys.
-
-...Ozarks into TN/OH Valleys and southern Appalachians...
-Water-vapor imagery this morning shows a digging trough over eastern
-MT with it forecast to move into the Dakotas this afternoon.  A
-positive-tilt mid-level trough over the central Plains will move
-east and deamplify over the MS Valley overnight. This evolution is
-expected to aid weak surface wave/low development along the synoptic
-front over the Ozarks before moving to the IL/IN border by early
-Tuesday morning.  Ongoing showers/thunderstorms over southeast MO
-will continue east into the lower OH Valley this morning and temper
-destabilization through at least midday.  In its wake, models
-indicate MLCAPE in excess of 1000 J/kg developing from AR into
-western KY/TN, coincident with modest 0-6km bulk shear.  The surface
-boundary will serve as the focus for scattered convection later
-today with some of the stronger storms potentially capable of a
-localized severe threat.  This activity is expected to diminish
-during the evening.
-
-Farther east, isolated to scattered thunderstorms will probably
-develop near the ridge tops of the southern Appalachians and
-adjacent parts of the Carolinas Piedmont this afternoon.  Moist low
-levels coupled with heating will result in around 1000 J/kg MLCAPE. 
-Some modest multicell organization may occur due to adequately
-strong upper-level westerly flow.  However, weak flow in the lowest
-5 km and modest lapse rates will probably temper the overall
-potential for localized strong gusts (40-55 mph).
-
-..Smith/Broyles.. 09/23/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
