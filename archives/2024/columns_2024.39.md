@@ -1,11 +1,251 @@
 ---
 title: columns
-updated: 2024-09-24 07:27:50
+updated: 2024-09-25 05:50:29
 ---
 
 # columns
 
-(date: 2024-09-24 07:27:50)
+(date: 2024-09-25 05:50:29)
+
+---
+
+## New Windows Malware Locks Computer in Kiosk Mode
+
+date: 2024-09-25, updated: 2024-09-24, from: Bruce Schneier blog
+
+<p><a href="https://www.bleepingcomputer.com/news/security/malware-locks-browser-in-kiosk-mode-to-steal-google-credentials/">Clever</a>:</p>
+<blockquote><p>A malware campaign uses the unusual method of locking users in their browser&#8217;s kiosk mode to annoy them into entering their Google credentials, which are then stolen by information-stealing malware.</p>
+<p>Specifically, the malware &#8220;locks&#8221; the user&#8217;s browser on Google&#8217;s login page with no obvious way to close the window, as the malware also blocks the &#8220;ESC&#8221; and &#8220;F11&#8221; keyboard keys. The goal is to frustrate the user enough that they enter and save their Google credentials in the browser to &#8220;unlock&#8221; the computer.</p>
+<p>Once credentials are saved, the StealC information-stealing malware steals them from the credential store and sends them back to the attacker...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/09/new-windows-malware-locks-computer-in-kiosk-mode.html>
+
+---
+
+## Office Hours: How can it possibly be that Trump is running neck-and-neck with Harris, if not ahead?
+
+date: 2024-09-25, from: Robert Reich's blog
+
+Several theories 
+
+<https://robertreich.substack.com/p/office-hours-how-can-it-possibly>
+
+---
+
+## September 24, 2024 
+
+date: 2024-09-25, from: Heather Cox Richardson blog
+
+This morning, President Joe Biden spoke to the United Nations General Assembly in New York City. 
+
+<https://heathercoxrichardson.substack.com/p/september-24-2024>
+
+---
+
+## Talk: Keeping the world from Burning
+
+date: 2024-09-25, from: Daniel Stenberg Blog
+
+On Monday this week, I did a talk at the Nordic Software Security Summit conference in Stockholm Sweden. I titled it CVEMITRECVSSNVDCNAOSS WTF with the subtitle &#8220;Keeping the world from Burning&#8221;. The talk was well received and I think it added something to the conversation. Almost every other talk during the rest of the conference &#8230; <a href="https://daniel.haxx.se/blog/2024/09/25/talk-keeping-the-world-from-burning/" class="more-link">Continue reading <span class="screen-reader-text">Talk: Keeping the world from Burning</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/09/25/talk-keeping-the-world-from-burning/>
+
+---
+
+## History Extra for September 23, 2024
+
+date: 2024-09-25, from: Heather Cox Richardson blog
+
+On September 23, 1779, the American Continental Navy ship Bonhomme Richard engaged the British frigate Serapis off the east coast of England. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-september-23-2024>
+
+---
+
+## Wednesday 25 September, 2024
+
+date: 2024-09-24, from: John Naughton's online diary
+
+Always on(line) Provence, Summer 2023 Quote of the Day ”Profit models are not philosophies, and should not be gussied up as such, festooned with purloined intellectual gew-gaws and other pirate fineries. Serious thinkers should not be pressed into service merely &#8230; <a href="https://memex.naughtons.org/wednesday-25-september-2024/39893/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-25-september-2024/39893/>
+
+---
+
+## Juli Clover Limited Her iPhone 15 Pro Max to the 80 Percent Charging Limit for an Entire Year
+
+date: 2024-09-24, updated: 2024-09-24, from: Daring Fireball
+
+ 
+
+<https://www.macrumors.com/2024/09/24/iphone-80-percent-charging-test/>
+
+---
+
+## “The aesthetic is liquidity.”
+
+date: 2024-09-24, from: Tracy Durnell Blog
+
+It goes back to housing as an investment. Speaking very macro, property, since the 1980s, has far eclipsed wages&#8230; And that—and leverage—define our economy now. This makes design important, but downstream, and in a narrower context than we think. Furniture must reflect… the investment value a house has. For these types of houses, the design’s [&#8230;] 
+
+<https://tracydurnell.com/2024/09/24/the-aesthetic-is-liquidity/>
+
+---
+
+## iPhone 16 Models Now Use an Electrically-Released Adhesive
+
+date: 2024-09-24, updated: 2024-09-24, from: Daring Fireball
+
+ 
+
+<https://hackaday.com/2024/09/22/hands-on-with-new-iphones-electrically-released-adhesive/>
+
+---
+
+##  Tipping Point is a three-part podcast on The Limits to Growth, a... 
+
+date: 2024-09-24, updated: 2024-09-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045334-tipping-point-is-a-three->
+
+---
+
+## Open-Source Journalism
+
+date: 2024-09-24, from: Doc Searls (at Harvard), New Old Blog
+
+Fourteenth in the News Commons series. The main work of journalism is producing stories. Questions following that statement might begin with prepositions: on what, of what, about what. But the preposition that matters most is with what. Ideally, that would be with facts. Of course, facts aren&#8217;t always available in the pure form that researchers call data. [&#8230;] 
+
+<https://doc.searls.com/2024/09/24/open-source-journalism/>
+
+---
+
+##  Foliage season is ramping up here in New England — here&#8217;s this... 
+
+date: 2024-09-24, updated: 2024-09-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045336-foliage-season-is-ramping>
+
+---
+
+## September 23, 2024
+
+date: 2024-09-24, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-23-2024-c40>
+
+---
+
+##  Radio Shack Catalog Archive (1939-2011) 
+
+date: 2024-09-24, updated: 2024-09-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/radio-shack-catalog-archive-1939-2011>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-24, from: Dave Winer's Scripting News)
+
+Now that ActivityPub is <a href="https://socialwebfoundation.org/2024/09/24/launch/">claiming</a> to be the <a href="https://en.wikipedia.org/wiki/Social_web">Social Web</a>, I feel like Lloyd Bentsen at the <a href="https://en.wikipedia.org/wiki/Senator,_you%27re_no_Jack_Kennedy">debate</a> with Dan Quayle. ActivityPub is not the web any more than Dan Quayle was Jack Kennedy. The web is simple. That was hard to do. Very little since then lives up to that standard of simplicity, definitely not ActivityPub. The web is the web is the web is the web etc. Pick another more humble name. If it ever does achieve the utility of the web does we can take another look. 
+
+<http://scripting.com/2024/09/24.html#a181508>
+
+---
+
+##  Don&#8217;t ever hand your phone to the cops. &#8220;Handing your phone to... 
+
+date: 2024-09-24, updated: 2024-09-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045335-dont-ever-hand-your-phone>
+
+---
+
+## A Hello World for Bluesky?
+
+date: 2024-09-24, from: Dave Winer's Scripting News
+
+<p>First, a couple of examples/case studies.</p>
+<p>1. About ten years ago I was trying to figure out how to get started with Node.js. I knew a little JavaScript, but nothing I read about Node made it click. It's server software, so there must be a way to write an HTTP server? From there, I read all the details about the power it has, but what I needed was a Hello World script. <a href="https://www.google.com/search?q=site%3Ascripting.com+%22brent+simmons%22">Brent Simmons</a> gave me the script, and step by step <a href="https://inessential.com/2013/12/09/getting_started_with_web_services_using_.html">instructions</a> on how to write it. </p>
+<p>I followed his steps, and it worked, and of course I wrote a <a href="http://scripting.com/2014/01/29/imBecomingANodejsDeveloper.html">blog post</a> about it.  That was the key I needed that unlocked what Node is, and helped me see what I could do with it. The first thing I did was factor out some of the bits so I could make it even simpler and then I built. I just wanted a few lines of code that created a server and responded to requests. All I needed was a Hello World to get me going. </p>
+<p>Now Brent knew that I knew the basics of HTTP servers, we both worked together on a huge app that had as a small part of it a full HTTP server, thanks to <a href="https://www.google.com/search?q=site%3Ascripting.com+%22wes+felter%22">Wes Felter</a> who wrote it, no one asked him to, one day he showed up with a server that ran in <a href="http://frontier.userland.com">Frontier</a>. I was ecstatic. That's the key. If you have something that isn't truly new, that might have some analogies in other worlds, if you want people in those other worlds to know how to get started, give them the beginning. The first step.</p>
+<p>2. Another example. How I learned to create and edit a website. It was 1994. I loved the web the way I love ChatGPT today. I knew how to use it, but I didn't know how to make it. Everyone told me it was really simple and they sent me links to all the docs, but they made no sense, because they talked about things I didn't understand. What I really needed was a way to make a web page that was as simple as the one Brent provided for Node-based HTTP servers, with tools and concepts I knew how to use. I found one, a service provided by <a href="http://scripting.com/2014/04/07/howIDoNewThings.html">Ohio State University</a>. You emailed a message to them and they put it "on the web" and sent you back a link to the page. Click the link and there's what you typed. I tried <i>Hello World</i> and got back a link to a page that said Hello World. So I tried something more complicated, I did a view source of Hotwired.com's home page, and copy and pasted it into an email. That worked too (with broken images because the urls were relative). </p>
+<p>Everything I've ever learned how to do required me to first understand it at this level.</p>
+<p>Okay here we are in 2024, and I want to understand what Bluesky is. I know how to use it, but I don't know how to <i>make</i> it. But I would be surprised if it is any more complicated that writing a web content management system that uses feeds, something I've done many times. I know the components of a message, have iterated over it for the last thirty years. I even wrote the spec that defines them in RSS 2.0. We're all doing the same thing over and over and Bluesky is no different. I hear there's some nice design for the protocol, but right now I don't care. I want my Hello World. The minimal code I need to add a node to the network defined by Bluesky and I want to see what it can do with the same kind of aha moment I had with the web. I want it to work when I try it, and I want it to reveal what Bluesky is beyond what I can see from using it. I want to begin to understand the opportunities for interop. </p>
+<p>Why do I ask? For one, I'm a student of this stuff, and I want to understand. But I also am very active in this area, and <a href="http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop">interop is my product</a> (really read that piece, I mean it, and I think it's Bluesky's product too). I'm into <a href="http://scripting.com/2024/04/16/140810.html">working together</a> -- it happens so infrequently. So here I'm also trying to show not just you how to explain what you do for a curious but time-limited developer, but I want to make this a this.how document that explains how to do it for everyone, hoping that we as an art and industry start explaining ourselves better to each other, because we absolutely need to do this much better imho, ymmv, mmlm, etc. </p>
+<p>To summarize -- assume I know how the web works. I've worked with the structures and protocols for systems that are very much like Bluesky. Don't try to explain the design of the protocol, just use it to solve a problem that I will understand because I use the product and I have developed lots of stuff like it. It should be possible to show us, to teach us, what your product does. </p>
+<p>PS: It could take a few days to put a Hello World together. Because once you do the first iteration, you may think of a more direct way to illustrate the idea, and you should do it, iterate until it works, until you can't make it any simpler. </p>
+<p>PPS: And if you don't want to do it, that's okay too. I just thought it was worth the effort to explain what's needed to foster a greater understanding of what you're doing and what the opportunities for interop are. </p>
+ 
+
+<http://scripting.com/2024/09/24/165831.html?title=aHelloWorldForBluesky>
+
+---
+
+##  &#8220;Google is serving AI-generated images of mushrooms when users search for some... 
+
+date: 2024-09-24, updated: 2024-09-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045338-google-is-serving-ai-gene>
+
+---
+
+## On Intelligence
+
+date: 2024-09-24, from: Doc Searls (at Harvard), New Old Blog
+
+Now that AI is a huge thing, it&#8217;s worth visiting what intelligence is, and how we mismeasure it—for example, by trying to measure it at all. I&#8217;ve been on this case for a while now, mostly by answering questions ab0ut IQ on Quora. My answer with the most upvotes is this one, to the question [&#8230;] 
+
+<https://doc.searls.com/2024/09/24/on-intelligence/>
+
+---
+
+##  Out today: Sally Rooney&#8217;s new novel Intermezzo. I&#8217;m actually gonna grab this... 
+
+date: 2024-09-24, updated: 2024-09-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045332-out-today-sally-rooneys-n>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-24, from: Dave Winer's Scripting News)
+
+<a class="anchorRightMargin" href="https://en.wikipedia.org/wiki/The_Carey_Treatment"><img class="imgRightMargin" src="https://imgs.scripting.com/2024/09/24/careyTreatment.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"></a>Imagine no doctor would treat you for a serious illness until you got a court order saying it was due to rape, incest or the life of the mother. Judges with the power of life and death. In some states with the death penalty judges have the power to sentence people to death, but not for having a well-accepted medical procedure. But that's the situation women with a troubled pregnancy are in, if they live in the wrong state. From the patient's point of view, I have a slight inkling about what this is like because twice in my life I've needed health care to save me from imminent death. The health care system never hesitated to help. But what if they had said "we can't admit you until a judge rules that we can." In the new USA, abortion is like a pardon, something only the government can grant. Forget about juries of our peers. It raises so many questions. If a woman is about to miscarry are they even allowed to admit her to the hospital, or does she have to wait until she is actually dying? If you can check her in, what are the limits of the treatment they can provide? Aspirin? Blood? Oxygen? Surgery? And btw, medicine has advanced a <i>lot</i> since before Roe v Wade. Whatever practices they had for avoiding abortion can't apply now. This is the kind of thing no society should change the way we changed it as an edict handed down by judges who are subject to corruption. We are learning about a serious flaw in our system of government. 
+
+<http://scripting.com/2024/09/24.html#a154033>
+
+---
+
+##  Astronomy Photographer of the Year for 2024 
+
+date: 2024-09-24, updated: 2024-09-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/astronomy-photographer-of-the-year-for-2024>
+
+---
+
+##  The International Space Station is scheduled to reach the end of its... 
+
+date: 2024-09-24, updated: 2024-09-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045316-international-space-stati>
 
 ---
 
@@ -110,7 +350,7 @@ date: 2024-09-23, updated: 2024-09-23, from: Jason Kittke's blog
 
 date: 2024-09-23, from: David Rosenthal's blog
 
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi75OpvYqA0ZrtZEjdZzkGxRNWiZttumgU2nUO0G2rEiZVCZwwBBevzVGFylqlP6y32I_EV72Wp7W55jKNNoq2PACsbJPrzWSF1dSmktkGxkZ0gJCllSrPosaTfJ2648YYKCL4d1GGWZWCAgEGHD-JJ-8NvjLo3BcK3OUnWVzIWrHO-gHwJjlsJsFmz56lY/s540/140305-DLHbyGwennSeemel.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="540" data-original-width="360" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi75OpvYqA0ZrtZEjdZzkGxRNWiZttumgU2nUO0G2rEiZVCZwwBBevzVGFylqlP6y32I_EV72Wp7W55jKNNoq2PACsbJPrzWSF1dSmktkGxkZ0gJCllSrPosaTfJ2648YYKCL4d1GGWZWCAgEGHD-JJ-8NvjLo3BcK3OUnWVzIWrHO-gHwJjlsJsFmz56lY/w133-h200/140305-DLHbyGwennSeemel.jpg" width="133" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://web.stanford.edu/class/ee380/Abstracts/140305.html">Source</a></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi75OpvYqA0ZrtZEjdZzkGxRNWiZttumgU2nUO0G2rEiZVCZwwBBevzVGFylqlP6y32I_EV72Wp7W55jKNNoq2PACsbJPrzWSF1dSmktkGxkZ0gJCllSrPosaTfJ2648YYKCL4d1GGWZWCAgEGHD-JJ-8NvjLo3BcK3OUnWVzIWrHO-gHwJjlsJsFmz56lY/s540/140305-DLHbyGwennSeemel.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="540" data-original-width="360" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi75OpvYqA0ZrtZEjdZzkGxRNWiZttumgU2nUO0G2rEiZVCZwwBBevzVGFylqlP6y32I_EV72Wp7W55jKNNoq2PACsbJPrzWSF1dSmktkGxkZ0gJCllSrPosaTfJ2648YYKCL4d1GGWZWCAgEGHD-JJ-8NvjLo3BcK3OUnWVzIWrHO-gHwJjlsJsFmz56lY/w133-h200/140305-DLHbyGwennSeemel.jpg" width="133" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://web.stanford.edu/class/ee380/Abstracts/140305.html">Source</a></td></tr></tbody></table>
 Dewayne Hendricks, my friend of nearly four decades, passed away last Friday at age 74. His <a href="https://ee380.stanford.edu/Abstracts/140305-slides.pdf">mentors</a> were <a href="https://en.wikipedia.org/wiki/Buckminster_Fuller">Buckminster Fuller</a> and <a href="https://en.wikipedia.org/wiki/Paul_Baran">Paul Baran</a>. He was a pioneer of wireless Internet connectivity, a serial entrepreneur, curator of an influential e-mail list, and for the last 30 years on the organizing committee of the <a href="https://amw.org">Asilomar Microcomputer Workshop</a>.<br />
 <br />
 For someone of his remarkable achievements he has left very little impression on the Web. An example is his <a href="https://www.linkedin.com/in/dewayne-hendricks-b118">Linkedin profile</a>. Below the fold I collect the pieces of his story that I know or have been able to find from his other friends. If I can find more I will update this post. Please feel free to add information in the comments.<br />
@@ -140,7 +380,7 @@ ARDC makes grants to projects and organizations that are experimenting with new 
 <h3>Tetherless Access</h3>
 One of the many ahead-of-their-time companies Dewayne started was Tetherless Access. He co-founded it with Charlie Brown in 1990 to develop wireless Metropolitan Access Networks. It went public in 1996 on NASDAQ and folded two years later. The idea was to use the 900MHz unlicensed spectrum to distribute Internet connectivity from a base station via point-to-point links, in contrast to Metricom's <a href="https://en.wikipedia.org/wiki/Ricochet_(Internet_service)">Ricochet</a> service, started by Dewayne's mentor Paul Baran, which four years later used mesh network technology in the same spectrum.<br />
 <br />
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRv1AYAOTz2UTzygueI8OEF3qcqERaobAw_XpbgGXTaYBQ4XhQ3drlkIGK-E2B6E2kX3lWB6pRSaEPVNsx8sTXix9huXfTNXJ_gj7MgkdCZ2Y1GOPPOxD29OUNlsQB49zoe24Wy3CUptpB3r26IwHMH4k5vH_a8Mhyphenhyphen73kibomPEXjgnWSmE7Nwi_WIq40D/s1092/SouthBayTestBed.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="754" data-original-width="1092" height="138" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRv1AYAOTz2UTzygueI8OEF3qcqERaobAw_XpbgGXTaYBQ4XhQ3drlkIGK-E2B6E2kX3lWB6pRSaEPVNsx8sTXix9huXfTNXJ_gj7MgkdCZ2Y1GOPPOxD29OUNlsQB49zoe24Wy3CUptpB3r26IwHMH4k5vH_a8Mhyphenhyphen73kibomPEXjgnWSmE7Nwi_WIq40D/w200-h138/SouthBayTestBed.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="http://dandin.com/pdf/EE380.pdf">Source</a></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRv1AYAOTz2UTzygueI8OEF3qcqERaobAw_XpbgGXTaYBQ4XhQ3drlkIGK-E2B6E2kX3lWB6pRSaEPVNsx8sTXix9huXfTNXJ_gj7MgkdCZ2Y1GOPPOxD29OUNlsQB49zoe24Wy3CUptpB3r26IwHMH4k5vH_a8Mhyphenhyphen73kibomPEXjgnWSmE7Nwi_WIq40D/s1092/SouthBayTestBed.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="754" data-original-width="1092" height="138" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRv1AYAOTz2UTzygueI8OEF3qcqERaobAw_XpbgGXTaYBQ4XhQ3drlkIGK-E2B6E2kX3lWB6pRSaEPVNsx8sTXix9huXfTNXJ_gj7MgkdCZ2Y1GOPPOxD29OUNlsQB49zoe24Wy3CUptpB3r26IwHMH4k5vH_a8Mhyphenhyphen73kibomPEXjgnWSmE7Nwi_WIq40D/w200-h138/SouthBayTestBed.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="http://dandin.com/pdf/EE380.pdf">Source</a></td></tr></tbody></table>
 Tetherless Access launched a testbed network <a href="http://dandin.com/pdf/EE380.pdf">which</a>:<br />
 <blockquote>
 <ul>
@@ -157,6 +397,7 @@ Prior to forming Dandin Group, he was the General Manager of the Wireless Busine
 </blockquote>
 Com21 was founded by Dewayne's mentor Paul Baran.<br />
 <br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgchSXtNLI3n2T54tfG6clwQR3InEN3EbIR3-wNphnUnEKkTssAneT3VXHLZzjwMSTO1_BwraREiI3CWGUPjMsqh45Y1WJRKV0WWfDgAuTrUmO00hfwe1lXxZVjMh_rrgy3N6AldfCb20pWXudqV3NgOFjJ3-l58YWM3q_cckgkn0gGZ0e_hgN7UbhoBFC/s691/IMG_0895.jpeg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="422" data-original-width="691" height="122" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgchSXtNLI3n2T54tfG6clwQR3InEN3EbIR3-wNphnUnEKkTssAneT3VXHLZzjwMSTO1_BwraREiI3CWGUPjMsqh45Y1WJRKV0WWfDgAuTrUmO00hfwe1lXxZVjMh_rrgy3N6AldfCb20pWXudqV3NgOFjJ3-l58YWM3q_cckgkn0gGZ0e_hgN7UbhoBFC/w200-h122/IMG_0895.jpeg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><small>Ulan Bator rooftop<br />Courtesy Glenn Tenny</small></td></tr></tbody></table>
 The PI for connecting Mongolia to the Internet for the first time in 1996 was the "<a href="https://cyberplayground.org/2021/10/19/rip-rip-colonel-dave-hughes-aka-the-cursor-cowboy-has-passed-on/">Cursor Cowboy</a>" Colonel Dave Hughes, an equally remarkable character who was a pioneer of bulletin boards starting in 1981!. The NSF funded a 256Kbit/s satellite dish, the State Department shipped it to the US embassy in Ulan Bator via the "diplomatic pouch", and Dewayne and Glenn Tenney travelled via Beijing to deploy 900MHz links across the city.<br />
 <br />
 The Dandin Group, Dewayne's next company <a href="https://web.archive.org/web/20000301193938/http://www.dandin.com/projects.html">was</a>:<br />
@@ -172,7 +413,7 @@ Dewayne was not just active in getting Internet service to under-served communit
 <blockquote>
 Tetherless Access was one of the first companies to develop and deploy Part 15 unlicensed wireless metropolitan area data networks using the TCP/IP protocols. He has participated in the installation of these networks in other parts of the world including: Kenya, Tonga, Mexico, Canada and Mongolia.
 </blockquote>
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg08A_9p5KyiF-f3ahT9dgBOhaynnvorrXR1AKIEAddJQLNxHg8z21fzPy_AxXzBCwn8YMvaAJZH73E-KyTyIf_BKgklOcxeu-78u-VJ2ZyiuuGrtdIREHYDGF2G3zRBFcINBQv3uP86KeLOvXqriU-ZDZLyT3zwuzZYIovvLyjOPgxhw6rkD0R01Yti21Z/s1151/TongaNetwork.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="690" data-original-width="1151" height="120" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg08A_9p5KyiF-f3ahT9dgBOhaynnvorrXR1AKIEAddJQLNxHg8z21fzPy_AxXzBCwn8YMvaAJZH73E-KyTyIf_BKgklOcxeu-78u-VJ2ZyiuuGrtdIREHYDGF2G3zRBFcINBQv3uP86KeLOvXqriU-ZDZLyT3zwuzZYIovvLyjOPgxhw6rkD0R01Yti21Z/w200-h120/TongaNetwork.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="http://dandin.com/pdf/EE380.pdf">Source</a></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg08A_9p5KyiF-f3ahT9dgBOhaynnvorrXR1AKIEAddJQLNxHg8z21fzPy_AxXzBCwn8YMvaAJZH73E-KyTyIf_BKgklOcxeu-78u-VJ2ZyiuuGrtdIREHYDGF2G3zRBFcINBQv3uP86KeLOvXqriU-ZDZLyT3zwuzZYIovvLyjOPgxhw6rkD0R01Yti21Z/s1151/TongaNetwork.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="690" data-original-width="1151" height="120" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg08A_9p5KyiF-f3ahT9dgBOhaynnvorrXR1AKIEAddJQLNxHg8z21fzPy_AxXzBCwn8YMvaAJZH73E-KyTyIf_BKgklOcxeu-78u-VJ2ZyiuuGrtdIREHYDGF2G3zRBFcINBQv3uP86KeLOvXqriU-ZDZLyT3zwuzZYIovvLyjOPgxhw6rkD0R01Yti21Z/w200-h120/TongaNetwork.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="http://dandin.com/pdf/EE380.pdf">Source</a></td></tr></tbody></table>
 Amara Angelica reported that <a href="https://web.archive.org/web/20000307045638/http://www.techweek.com/articles/8-23-99/wireless.htm"><i>Tonga first to go wireless for telecommunications</i></a>:<br />
 <blockquote>
 "We’re replacing the entire existing telecom infrastructure with a wireless IP [Internet protocol] network," says Dewayne Hendricks, CEO of Fremont-based Dandin Group and former general manager of Com21’s wireless business unit. "Since the country is a monarchy, there was only one guy to convince, Crown Prince Tupouto’a, and then we just went for it."<br />
@@ -228,7 +469,15 @@ Dewayne's slides for this talk are <a href="http://ee380.stanford.edu/Abstracts/
 For many years Dewayne with impeccable taste curated dewayne-net, an e-mail list to which he sent links, most he found but some contributed by his friends. A typical e-mail would have the title of the linked post, a link, and enough of the content to encourage recipients to read the whole thing. The last e-mails were two on 19<sup>th</sup> August, as it happens both links that I had sent him earlier. I have been one of the more frequent contributors, although only perhaps 20% of my contributions passed the curatorial filter. Prof. Dave Farber's <a href="https://ip.topicbox.com/groups/ip">IP list</a> is a similar and I believe even longer-standing list; he and Dewayne exchanged links fairly often.<br />
 <br />
 As an example of the list in full flow, lets take April 2022. That month he sent 66 e-mails, many about the COVID pandemic and the war in Ukraine, obviously both top of mind at the time. But they included topics including satellite tracking of commercial aircraft, the Kessler syndrome, the problems of the US patent system, cybercrime, microplastics, banned math textbooks in Florida, and Elon Musk's purchase of Twitter. I am already greatly missing this window into Dewayne's eclectic set of interests.<br />
-<br /> 
+<br />
+<h3>Dewayne on YouTube</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=uDyIe0KQT94"><i>Towards Open Spectrum</i></a> was a keynote to ABC2 Conference at Cisco's EMEA HQ in January 2004.</li>
+<li><a href="https://www.youtube.com/watch?v=7WiWmarKFAI"><i>Dewayne Hendricks on The Internet of Things: Extended Interview</i></a> 8<sup>th</sup> January, 2009.</li>
+<li><a href="https://web.stanford.edu/class/ee380/Abstracts/140305.html"><i>Inventing a New Internet: Learning from Icarus</i></a> 5<sup>th</sup> March 2014.</li>
+<li><a href="https://www.youtube.com/watch?v=bJNbgPHekAw"><i>Dewayne Hendricks (WA8DZP) on creating abundant bandwidth</i></a> 2012.</li>
+<li><a href="https://www.youtube.com/watch?v=688VyvZJG88"><i>Second Curve Internet</i></a> 31<sup>st</sup> March, 2015.</li>
+</ul> 
 
 <https://blog.dshr.org/2024/09/dewayne-hendricks-rip.html>
 
@@ -324,7 +573,7 @@ date: 2024-09-23, updated: 2024-09-23, from: Jason Kittke's blog
 
 ## Tripp Mickle Profiles Jony Ive and LoveFrom, Confirms OpenAI Partnership for Device
 
-date: 2024-09-23, updated: 2024-09-23, from: Daring Fireball
+date: 2024-09-23, updated: 2024-09-24, from: Daring Fireball
 
  
 
@@ -472,6 +721,16 @@ date: 2024-09-22, from: John Naughton's online diary
 Summer house Lovely little arbour in the gardens of Muckross House, Killarney. Quote of the Day ”Where error is irreparable, repentance is useless.” Edward Gibbon Musical alternative to the morning’s radio news Billy Strayhorn &#124; Lotus Blossom &#124; Duke Ellington &#8230; <a href="https://memex.naughtons.org/monday-23-september-2024/39886/">Continue reading <span class="meta-nav">&#8594;</span></a> 
 
 <https://memex.naughtons.org/monday-23-september-2024/39886/>
+
+---
+
+##  Ross Anderson on The Secret Code of Pickup Basketball. &#8220;It allows a... 
+
+date: 2024-09-22, updated: 2024-09-22, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045325-ross-anderson-on-the-secr>
 
 ---
 

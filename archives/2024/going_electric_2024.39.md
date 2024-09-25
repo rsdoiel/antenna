@@ -1,11 +1,293 @@
 ---
 title: going electric
-updated: 2024-09-24 07:27:57
+updated: 2024-09-25 05:50:36
 ---
 
 # going electric
 
-(date: 2024-09-24 07:27:57)
+(date: 2024-09-25 05:50:36)
+
+---
+
+## New Rivian EVs Come With A Tesla Charging Adapter
+
+date: 2024-09-25, from: Inside EVs News
+
+Buyers won’t have to figure out a way to get the NACS adapter after getting the vehicle delivered. 
+
+<https://insideevs.com/news/735069/2025-rivian-r1s-r1t-nacs-adapter-included/>
+
+---
+
+## Rare earth element recycler Cyclic Materials to expand after $53M Series B funding round
+
+date: 2024-09-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Rare-earth-element-Cyclic-Materials.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A Canadian company called Cyclic Materials is working to create a circular supply chain for rare earth elements (REEs) using <a href="https://electrek.co/guides/battery-recycling/">advanced recycling processes</a>. The company just secured $53 million via a Series B equity round to accelerate its global expansion and recycling infrastructure.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-recycling,cyclic-materials" data-layer-viewtype="unknown" data-post-id="381206" href="https://electrek.co/2024/09/25/rare-earth-element-recycler-cyclic-materials-expand-53m-series-b-funding/#more-381206" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/rare-earth-element-recycler-cyclic-materials-expand-53m-series-b-funding/>
+
+---
+
+## Tesla Full Self-Driving 'Occasionally Dangerously Inept' In 1,000-Mile Independent Test
+
+date: 2024-09-25, from: Inside EVs News
+
+"Getting close to foolproof, yet falling short, creates an insidious and unsafe operator complacency issue." 
+
+<https://insideevs.com/news/735038/tesla-fsd-occasionally-dangerously-inept-independent-test/>
+
+---
+
+## Tripling renewables globally by 2030 is doable, says new IEA report
+
+date: 2024-09-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/1619px-Solar_farm_in_Gallup_NM.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>A new International Energy Agency (IEA) report roadmaps how it’s feasible to triple renewables and double energy efficiency globally by 2030 “with the right enabling conditions.” </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,electrical-grid,solar,grid,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="381325" href="https://electrek.co/2024/09/24/tripling-renewables-globally-by-2030-is-doable-says-new-iea-report/#more-381325" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/24/tripling-renewables-globally-by-2030-is-doable-says-new-iea-report/>
+
+---
+
+## Bollinger production starts, Fred calls FSD dangerous, and Model Y goes for the gold
+
+date: 2024-09-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/24SEP_UNED.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s energizing episode of <em><a href="https://www.youtube.com/@ElectrekDaily">Quick Charge</a></em>, Fred Lambert takes the latest Tesla Full Self Driving software for a spin in Quebec, Model Y sales threaten to take the top spot on the US sales charts, and we interview Bollinger Motor’s chief revenue officer, Jim Connelly.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bollinger-motors,quick-charge,tesla-full-self-driving" data-layer-viewtype="unknown" data-post-id="381319" href="https://electrek.co/2024/09/24/bollinger-production-starts-fred-calls-fsd-dangerous-and-model-y-goes-for-the-gold/#more-381319" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/24/bollinger-production-starts-fred-calls-fsd-dangerous-and-model-y-goes-for-the-gold/>
+
+---
+
+## Kia is recalling 12,400 EV9 SUVs over faulty remote parking assist that may not stop
+
+date: 2024-09-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/Kia-EV9-reservations.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia issued a recall for 12,400 <a href="https://electrek.co/guides/kia-ev9/">EV9</a> models due to a software glitch that could cause the remote smart parking feature to fail to stop as intended.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev9" data-layer-viewtype="unknown" data-post-id="381302" href="https://electrek.co/2024/09/24/kia-recall-12400-ev9-suvs-faulty-remote-parking-assist/#more-381302" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/24/kia-recall-12400-ev9-suvs-faulty-remote-parking-assist/>
+
+---
+
+## Rivian R1S now available for rent in the UK ahead of planned overseas expansion
+
+date: 2024-09-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Rivian-R1S-UK.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rivian’s electric SUV is headed overseas. The <a href="https://electrek.co/guides/rivian-r1s/">Rivian R1S</a> electric SUV is now available to rent in the UK. Although Rivian does not sell vehicles in Europe (not yet, anyway), the brand already has a growing presence overseas.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r1s" data-layer-viewtype="unknown" data-post-id="381264" href="https://electrek.co/2024/09/24/rivian-r1s-now-available-rent-uk/#more-381264" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/24/rivian-r1s-now-available-rent-uk/>
+
+---
+
+## It begins: Bollinger B4 medium duty EV enters series production
+
+date: 2024-09-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/bollinger_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week marks the birth of a new American OEM as Bollinger Motors’ B4 medium duty electric truck begins series production and customer-ready vehicles roll off the line.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bollinger-motors,commercial-evs,electric-trucks" data-layer-viewtype="unknown" data-post-id="381269" href="https://electrek.co/2024/09/24/it-begins-bollinger-b4-medium-duty-ev-enters-series-production/#more-381269" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/24/it-begins-bollinger-b4-medium-duty-ev-enters-series-production/>
+
+---
+
+## Best lease-to-own EV deals
+
+date: 2024-09-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/Honda-first-electric-SUV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Still think that buying a new car is always much cheaper than leasing if you’re playing for keeps? Not true, particularly when it comes to electric vehicles. We found that current factory lease offers on 22 different EV models dispel that myth with terms that pass the entire <a href="https://www.cnbc.com/2024/07/18/loophole-may-get-you-a-7500-tax-credit-for-leasing-an-ev.html">commercial clean vehicle Federal tax credit</a> to the lessee, enabling the lessee to eventually own the vehicle for thousands of dollars less than paying cash upfront or taking out a loan.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="381124" href="https://electrek.co/2024/09/24/best-lease-to-own-ev-deals/#more-381124" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/24/best-lease-to-own-ev-deals/>
+
+---
+
+## Used Tesla Model 3 Prices Have Biggest One-Year Drop
+
+date: 2024-09-24, from: Inside EVs News
+
+The Tesla Model 3 and Jeep Grand Cherokee are the two biggest losers from 2023 to 2024 among the most popular cars.  
+
+<https://insideevs.com/news/734989/tesla-model-3-used-price-drop/>
+
+---
+
+## Rare EVOLV Terra e-scooter discount to $1,079, Save $3,300 on 6,128Wh Jackery bundle ahead of Prime Day, Hiboy, more
+
+date: 2024-09-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/EVOLV-Terra-Electric-Scooter.png?w=1600" /></div><p>Leading today’s Green Deals is a rare chance at savings on <a href="https://9to5toys.com/2024/09/24/rare-chance-to-save-on-evolvs-terra-full-suspension-electric-scooter-at-new-1079-low-reg-1229/">EVOLV’s full-suspension Terra Electric Scooter at a new $1,079 low</a>. Right behind it is Jackery’s pre-Prime Day sale that has cut 50% off its <a href="https://9to5toys.com/2024/09/24/jackerys-early-prime-sale-takes-50-off-6128-4wh-lifepo4-explorer-2000-plus-bundle-at-new-3299-low/">Explorer 2,000 Plus Portable Power Station</a> which comes bundled with two extra batteries and two 200W solar panels for a <a href="https://9to5toys.com/2024/09/24/jackerys-early-prime-sale-takes-50-off-6128-4wh-lifepo4-explorer-2000-plus-bundle-at-new-3299-low/">new $3,299 low</a>, among others. We also spotted some more budget-friendly e-mobility solutions in the form of <a href="https://9to5toys.com/2024/09/23/hiboy-s2r-plus-e-scooter-with-regenerative-braking-returns-to-400-low-50-off-more-evs-from-280/">Hiboy’s S2R Plus e-scooter</a> with regenerative braking back at its <a href="https://9to5toys.com/2024/09/23/hiboy-s2r-plus-e-scooter-with-regenerative-braking-returns-to-400-low-50-off-more-evs-from-280/">$400 low</a>, while <a href="https://9to5toys.com/2024/09/24/hoverfly-offers-beginner-friendly-h3-foldable-e-bike-at-return-425-low-bonus-add-ons-reg-530/">Hoverfly’s H3/Nephele Foldable e-bike</a> is down during its fleeting sale at <a href="https://9to5toys.com/2024/09/24/hoverfly-offers-beginner-friendly-h3-foldable-e-bike-at-return-425-low-bonus-add-ons-reg-530/">$425</a>. Plus, all the other hangover Green Deals in the links at the bottom of the page, like yesterday’s multiple discounts on the <a href="https://9to5toys.com/2024/09/23/save-up-to-850-on-ecoflows-new-delta-3-power-station-in-early-prime-day-sale-from-649/">new EcoFlow DELTA 3 Portable Power Station</a> and its bundles, as well as <a href="https://9to5toys.com/2024/09/23/lectric-flash-sale-offers-554-off-e-bike-bundles-for-your-next-tailgate-party-starting-from-1299/">Lectric’s tailgating e-bike flash sale</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="381232" href="https://electrek.co/2024/09/24/evolv-terra-e-scooter-1079-jackery-bundle-hiboy-more/#more-381232" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/24/evolv-terra-e-scooter-1079-jackery-bundle-hiboy-more/>
+
+---
+
+## You can score $14,000 off the 2024 Hyundai IONIQ 5 with a new lease cash incentive
+
+date: 2024-09-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Hyundai-IONIQ-5-lease-cheapest.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With a new lease cash incentive in September, Hyundai offers up to $14,000 in savings on the 2024 IONIQ 5. With leases starting under $199 a month, the <a href="https://electrek.co/guides/hyundai-ioniq-5/">IONIQ 5</a> is one of the most affordable electric cars in the US. Perhaps even more important, it has a range of over 300 miles and can fast charge in 18 minutes.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="381233" href="https://electrek.co/2024/09/24/hyundai-offers-14000-off-2024-ioniq-5-new-lease-cash/#more-381233" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/24/hyundai-offers-14000-off-2024-ioniq-5-new-lease-cash/>
+
+---
+
+## Lyft partners with Smartcar to help its EV drivers work without range anxiety
+
+date: 2024-09-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Lyft-EV-tool.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/lyft/">Lyft</a> continues to empower its gig economy drivers by tackling a significant pain point for its current base of EV drivers: range anxiety. With the help of the API platform Smartcar, Lyft has introduced a new feature that only enables ride requests within a driver’s available EV range. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lyft,ridesharing,smartcar" data-layer-viewtype="unknown" data-post-id="381227" href="https://electrek.co/2024/09/24/lyft-partners-with-smartcar-to-help-its-ev-drivers-work-without-range-anxiety/#more-381227" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/24/lyft-partners-with-smartcar-to-help-its-ev-drivers-work-without-range-anxiety/>
+
+---
+
+## Tesla Model Y has a shot at becoming best-selling car in the US
+
+date: 2024-09-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/07/Model-Y-Hero-2021.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla Model Y has a real shot at becoming the best-selling passenger vehicle of 2024 in the US. Only the Toyota Rav4 stands in its way.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="381220" href="https://electrek.co/2024/09/24/tesla-model-y-shot-best-selling-car-us/#more-381220" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/24/tesla-model-y-shot-best-selling-car-us/>
+
+---
+
+## Xpeng Is Gearing Up To Launch Two Super Efficient Electric Sedans
+
+date: 2024-09-24, from: Inside EVs News
+
+The P7+ has a claimed efficiency figure of 11 kWh/100 km, which works out to 5.65 miles/kWh. 
+
+<https://insideevs.com/news/734961/xpeng-electric-sedans-great-efficiency/>
+
+---
+
+## Kia secures a new partner to sell its first electric PBV vans in another key overseas market
+
+date: 2024-09-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Kias-first-electric-van-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia is taking its electric PBV vans to a new overseas market after securing a local sales contract in Japan. The fit-for-purpose EV vans are part of <a href="https://electrek.co/guides/kia/">Kia’s</a> plans to become a leading total mobility solutions provider. Kia’s first electric PBV van was recently spotted in the wild ahead of its official launch.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-pbv" data-layer-viewtype="unknown" data-post-id="381203" href="https://electrek.co/2024/09/24/kia-secures-partner-sell-electric-vans-another-overseas-market/#more-381203" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/24/kia-secures-partner-sell-electric-vans-another-overseas-market/>
+
+---
+
+## Sublue Vapor electric seascooter review: Silently cruises above and below the water
+
+date: 2024-09-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/sublueleadimage-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I’ve always enjoyed electric watersports devices, and have a long history with everything from <a href="https://electrek.co/2022/08/31/wildest-electric-vehicles-i-tested-summer/">electric surfboards to electric boats</a>. But it’s the category of electric sea scooters that likely offers the most accessiblity to the average person, providing fast and fun water excitement without the larger upfront cost and complexity of larger vessels. The Sublue Vapor is the latest in a string of electric sea scooters I’ve tested over the years, and it’s the fanciest one yet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-watercraft,review" data-layer-viewtype="unknown" data-post-id="381129" href="https://electrek.co/2024/09/24/sublue-vapor-electric-seascooter-review-silently-cruises-above-and-below-the-water/#more-381129" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/24/sublue-vapor-electric-seascooter-review-silently-cruises-above-and-below-the-water/>
+
+---
+
+## Tesla Full Self-Driving v12.5 first impression: more natural but still dangerous
+
+date: 2024-09-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Tesla-FSD-v12.5.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I finally got a chance to test out Tesla Full Self-Driving (supervised) v12.5 myself, and my first impression is that the system drives more naturally, but it is still dangerous.</p>
+
+
+
+<p>Vigilance is paramount.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="381168" href="https://electrek.co/2024/09/24/tesla-full-self-driving-v12-5-first-impression-more-natural-dangerous/#more-381168" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/24/tesla-full-self-driving-v12-5-first-impression-more-natural-dangerous/>
+
+---
+
+## Jeep’s Wrangler-inspired Recon EV spotted for the first time in transit
+
+date: 2024-09-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/Jeep-cheapest-vehicle-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With deliveries of its first all-electric SUV in the US right around the corner, <a href="https://electrek.co/guides/jeep/">Jeep’s</a> second EV is almost ready for its official debut. The upcoming Recon EV, inspired by the legendary Wrangler, was spotted in transit for the first time. At first, the electric SUV looks a bit like a Ford Bronco Sport or a Toyota Land Cruiser.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-jeep,jeep" data-layer-viewtype="unknown" data-post-id="381154" href="https://electrek.co/2024/09/24/jeeps-wrangler-inspired-recon-ev-spotted-in-transit-first-time/#more-381154" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/24/jeeps-wrangler-inspired-recon-ev-spotted-in-transit-first-time/>
+
+---
+
+## Xiaomi To Woo Tesla Model Y Buyers In China With Ferrari-Inspired Crossover
+
+date: 2024-09-24, from: Inside EVs News
+
+The upcoming Xiaomi MX11 wants to challenge the Tesla Model Y in China with a performance-focused approach and aesthetic. 
+
+<https://insideevs.com/news/734931/xiaomi-mx11-electric-crossover/>
+
+---
+
+## REE kicks off US production of its P7 electric trucks with Roush as its contract manufacturer
+
+date: 2024-09-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/REE-US-production.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Fresh off of news of a global manufacturing agreement that includes a new investment of tens of millions of dollars, <a href="https://electrek.co/guides/ree-automotive/">REE Automotive</a> has kicked off plans for US production this year with the help of contract manufacturer Roush Industries.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,ree-automotive,ree-automotive-p7-c,roush-industries" data-layer-viewtype="unknown" data-post-id="381166" href="https://electrek.co/2024/09/24/ree-kicks-off-us-production-p7-electric-trucks-roush-contract-manufacturer/#more-381166" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/24/ree-kicks-off-us-production-p7-electric-trucks-roush-contract-manufacturer/>
 
 ---
 

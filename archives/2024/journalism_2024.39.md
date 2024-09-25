@@ -1,11 +1,454 @@
 ---
 title: journalism
-updated: 2024-09-24 07:27:53
+updated: 2024-09-25 05:50:32
 ---
 
 # journalism
 
-(date: 2024-09-24 07:27:53)
+(date: 2024-09-25 05:50:32)
+
+---
+
+## Senators chosen in USG special election
+
+date: 2024-09-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students cast 987 votes, up from the 674 votes cast in the prior special election.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/25/senators-chosen-in-usg-special-election/">Senators chosen in USG special election</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/25/senators-chosen-in-usg-special-election/>
+
+---
+
+## Classifieds – September 25, 2024
+
+date: 2024-09-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/25/classifieds-september-25-2024/">Classifieds &#8211; September 25, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/25/classifieds-september-25-2024/>
+
+---
+
+## Women’s soccer is on a roll
+
+date: 2024-09-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans have won three straight in Big Ten play by way of shutouts.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/25/womens-soccer-is-on-a-roll/">Women&#8217;s soccer is on a roll</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/25/womens-soccer-is-on-a-roll/>
+
+---
+
+## ‘Intermezzo’ marks a high for Sally Rooney
+
+date: 2024-09-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Irish author’s latest novel is yet another literary triumph.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/25/intermezzo-marks-a-high-for-sally-rooney/">‘Intermezzo’ marks a high for Sally Rooney</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/25/intermezzo-marks-a-high-for-sally-rooney/>
+
+---
+
+## Western feminism is isolating
+
+date: 2024-09-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The U.S. feminist movement fails in its efforts to improve the well-being of all women.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/25/western-feminism-is-isolating/">Western feminism is isolating</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/25/western-feminism-is-isolating/>
+
+---
+
+## Intermezzo Review
+
+date: 2024-09-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/09/25/intermezzo-review/">Intermezzo Review</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/25/intermezzo-review/>
+
+---
+
+## Get ‘closeup’ and personal with USC’s APIDA community
+
+date: 2024-09-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Asian Pacific Cinema Association recently started a new media program. curating meaningful content.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/25/get-closeup-and-personal-with-uscs-apida-community/">Get ‘closeup’ and personal with USC’s APIDA community</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/25/get-closeup-and-personal-with-uscs-apida-community/>
+
+---
+
+## Women’s lacrosse welcomes Japanese university for scrimmage
+
+date: 2024-09-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC started its preseason campaign on a heartwarming note with a visit from Keio University.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/25/216468/">Women’s lacrosse welcomes Japanese university for scrimmage</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/25/216468/>
+
+---
+
+## Get up in my business
+
+date: 2024-09-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Fashion week has declared a period of minute details — ones you need to get up close and personal to see. </p>
+<p>The post <a href="https://dailytrojan.com/2024/09/25/get-up-in-my-business/">Get up in my business</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/25/get-up-in-my-business/>
+
+---
+
+## Trump’s rhetoric endangers immigrant communities
+
+date: 2024-09-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Although easy to joke about, Trump’s claims can intensify anti-immigrant sentiment.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/25/216403/">Trump’s rhetoric endangers immigrant communities</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/25/216403/>
+
+---
+
+## All the vintage things you’ll see
+
+date: 2024-09-25, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Pierce College campus buzzed with shoppers of a variety of generations as they perused vintage clothing and antiques on Sept. 22. The Topanga Vintage</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/24/all-the-vintage-things-youll-see/">All the vintage things you&#8217;ll see</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/24/all-the-vintage-things-youll-see/?utm_source=rss&utm_medium=rss&utm_campaign=all-the-vintage-things-youll-see>
+
+---
+
+## Just Friends’ Brianda Goyos León channels her Mexican roots with her music
+
+date: 2024-09-24, from: The Sundail (CSUN Student Newspaper)
+
+Bay Area-based funk rock band Just Friends is changing the game of what traditional rock looks like by mixing different genres and languages in their music. For co-vocalist Brianda ‘Brond’... 
+
+<https://sundial.csun.edu/184872/arts-entertainment/brianda-goyos-leon-interview/>
+
+---
+
+## Book review: Sally Rooney castles grief, recaptures sociopolitical love in ‘Intermezzo’
+
+date: 2024-09-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+In a literary game of chess, Sally Rooney deftly achieves an expected checkmate, yet not without facing several stalemates in the process.
+Hitting bookshelves on Sept. 
+
+<https://dailybruin.com/2024/09/24/book-review-sally-rooney-castles-grief-recaptures-sociopolitical-love-in-intermezzo/>
+
+---
+
+## CSUN gives up late goal in draw vs. CSUF
+
+date: 2024-09-24, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN women’s soccer team was 15 minutes away from kicking off their Big West campaign with three points and a win over the defending conference champions in Cal State... 
+
+<https://sundial.csun.edu/185213/sports/csun-gives-up-late-goal-in-draw-vs-csuf/>
+
+---
+
+## Fall Colors and Their Emotions
+
+date: 2024-09-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/09/24/fall-colors-and-their-emotions/>
+
+---
+
+## World silver medalist Ana Padurariu leaves UCLA gymnastics for Utah
+
+date: 2024-09-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+Former UCLA gymnastics standout Ana Padurariu has transferred to Utah, the rising junior announced Tuesday via Instagram.
+The 2018 World Championships silver medalist chose to continue her NCAA career with the Bruins’ former Pac-12 rival. 
+
+<https://dailybruin.com/2024/09/24/world-silver-medalist-ana-padurariu-leaves-ucla-gymnastics-for-utah/>
+
+---
+
+## Women’s Basketball release 2024-25 Schedule
+
+date: 2024-09-24, from: The Sundail (CSUN Student Newspaper)
+
+The 2024-25 CSUN women&#8217;s basketball schedule was released this past week highlighting 14 games at the Premier America Credit Union Arena for students and spectators to attend. After finishing the... 
+
+<https://sundial.csun.edu/185310/sports/womens-basketball-release-2024-25-schedule/>
+
+---
+
+## Matadors hold off Santa Clara in a close 2-1 victory
+
+date: 2024-09-24, from: The Sundail (CSUN Student Newspaper)
+
+The Matadors (1-2-3) defeated Santa Clara University (3-3-1) at home on Sunday. CSUN notched a much needed 2-1 win against the Broncos, and bounced back after the 0-1 loss last... 
+
+<https://sundial.csun.edu/185203/sports/matadors-hold-off-santa-clara-in-a-close-2-1-victory/>
+
+---
+
+## Climate Change @ huntington
+
+date: 2024-09-24, from: California Tech (Caltech Student Newspaper)
+
+“Storm Cloud: Picturing the Origins of Our Climate Crisis,” an exhibition at The Huntington Library, Art Museum, and Botanical Gardens, opened on September 14. 
+
+<https://tech.caltech.edu/2024/09/24/climate-change/>
+
+---
+
+## Club Spotlight: Caltech Rugby Club
+
+date: 2024-09-24, from: California Tech (Caltech Student Newspaper)
+
+I’ve always said that playing rugby in America is like being a humanities student at Caltech (we’d know, our interim club Treasurer is an Economist). 
+
+<https://tech.caltech.edu/2024/09/24/club-spotlight-caltech-rugby-club/>
+
+---
+
+## Edan Lepucki: A Perspective on Writing, Motherhood, and Teaching at Caltech.
+
+date: 2024-09-24, from: California Tech (Caltech Student Newspaper)
+
+Edan Lepucki is the rare member of the Caltech community who is better known off-campus than on. Off-campus, she is a New York Times bestselling author who has published five books and counting. 
+
+<https://tech.caltech.edu/2024/09/24/a-perspective-on-writing-motherhood-and-teaching-at-caltech/>
+
+---
+
+## Guiding the world’s students through Caltech with Laura Flower Kim.
+
+date: 2024-09-24, from: California Tech (Caltech Student Newspaper)
+
+When Laura Flower Kim, now Associate Director at International Student Programs at Caltech, took over the office on the second floor of the Center for Student Services sixteen years ago, most of it was occupied by one giant red file-cabinet filled to the brim with immigration paperwork for international undergraduate and graduate students. 
+
+<https://tech.caltech.edu/2024/09/24/guiding-the-world-caltech-with-laura-flower/>
+
+---
+
+## In Pasadena, A New Way Of Flipping Burgers.
+
+date: 2024-09-24, from: California Tech (Caltech Student Newspaper)
+
+Embedded in the story of food is the story of people: in modern society, the people who grow and harvest it, the people who distribute it, the people who cook it, and if we are at a restaurant, the people who serve it. 
+
+<https://tech.caltech.edu/2024/09/24/in-pasadena-a-new-way-of-flipping-burgers/>
+
+---
+
+## Lamentation of A Sandwich.
+
+date: 2024-09-24, from: California Tech (Caltech Student Newspaper)
+
+There’s a good sandwich, nay, a great sandwich at Broad Café. Quite honestly, this sandwich is glorious. This sandwich is there to pick you up when you are down. It fills you up when you are empty. 
+
+<https://tech.caltech.edu/2024/09/24/lamentation-of-a-sandwich/>
+
+---
+
+## Man Vs Manion (Man edition)
+
+date: 2024-09-24, from: California Tech (Caltech Student Newspaper)
+
+<strong>TL;DR:</strong> Gus’s is a fantastic BBQ restaurant not far from campus. 
+
+<https://tech.caltech.edu/2024/09/24/man-vs-manionman-edition/>
+
+---
+
+## Man Vs Manion (Manion edition)
+
+date: 2024-09-24, from: California Tech (Caltech Student Newspaper)
+
+The first time I felt an overwhelming sense of hopelessness and loneliness at Caltech, I had yet to hear the Fleming cannon fire even once. 
+
+<https://tech.caltech.edu/2024/09/24/man-vs-manionmanion-edition/>
+
+---
+
+## Mental Health At Caltech
+
+date: 2024-09-24, from: California Tech (Caltech Student Newspaper)
+
+The first time I felt an overwhelming sense of hopelessness and loneliness at Caltech, I had yet to hear the Fleming cannon fire even once. 
+
+<https://tech.caltech.edu/2024/09/24/mental-health-at-caltech/>
+
+---
+
+## SLEC Announcement
+
+date: 2024-09-24, from: California Tech (Caltech Student Newspaper)
+
+The Associated Students of the California Institute of Technology (ASCIT) Board of Directors (BoD) has announced that, for the first time, both the Student Faculty Conference (SFC) and the newly established Student Life and Experience Conference (SLEC) will take place in April 2025. 
+
+<https://tech.caltech.edu/2024/09/24/slec-announcement/>
+
+---
+
+## Songs to Survive a Heatwave To
+
+date: 2024-09-24, from: California Tech (Caltech Student Newspaper)
+
+The academic year is here, and with it, a playlist to remind you why you can be glad summer is over! As many of you may be aware (some of you probably much more than you’d like to be), numerous parts of the world experienced intense heat waves over the past few months. 
+
+<https://tech.caltech.edu/2024/09/24/song-to-survice-heatwave/>
+
+---
+
+## The end of the summer.
+
+date: 2024-09-24, from: California Tech (Caltech Student Newspaper)
+
+Many people question what the end of summer may mean. The end of an era of relaxation? The dawn of a new stick season? Or the letter ‘r’? 
+
+<https://tech.caltech.edu/2024/09/24/end-of-summer/>
+
+---
+
+## Classifieds – September 24, 2024
+
+date: 2024-09-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/24/classifieds-september-24-2024/">Classifieds &#8211; September 24, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/24/classifieds-september-24-2024/>
+
+---
+
+## Star Wars dubbed in the Ojibwe and Navajo languages
+
+date: 2024-09-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Indigenous language activists fought for equal access to Star Wars.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/24/star-wars-dubbed-in-the-ojibwe-and-navajo-languages/">Star Wars dubbed in the Ojibwe and Navajo languages</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/24/star-wars-dubbed-in-the-ojibwe-and-navajo-languages/>
+
+---
+
+## Sampaio’s sorcery is soccer uncensored
+
+date: 2024-09-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans’ three-year starter may have scored the NCAA goal of the year.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/24/sampaios-sorcery-is-soccer-uncensored/">Sampaio’s sorcery is soccer uncensored</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/24/sampaios-sorcery-is-soccer-uncensored/>
+
+---
+
+## The situationship is ruining romance
+
+date: 2024-09-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>We are all screwed.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/24/216297/">The situationship is ruining romance</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/24/216297/>
+
+---
+
+## Men’s water polo can’t best No. 1 UCLA
+
+date: 2024-09-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The No. 3 Trojans fell just short of a perfect weekend at the MPSF Invitational.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/24/mens-water-polo-cant-best-no-1-ucla/">Men’s water polo can’t best No. 1 UCLA</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/24/mens-water-polo-cant-best-no-1-ucla/>
+
+---
+
+## Stand-up comedy has yet to reach gender parity
+
+date: 2024-09-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>"Hannah Gadsby’s Gender Agenda" is only one small step toward fixing a broken industry.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/24/stand-up-comedy-has-yet-to-reach-gender-parity/">Stand-up comedy has yet to reach gender parity</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/24/stand-up-comedy-has-yet-to-reach-gender-parity/>
+
+---
+
+## FAFSA racked with technical difficulties
+
+date: 2024-09-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Incoming first-year students continue to struggle with delayed application process.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/24/fafsa-delays-continue-to-strike/">FAFSA racked with technical difficulties</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/24/fafsa-delays-continue-to-strike/>
+
+---
+
+## USC shuts out Indiana in Bloomington
+
+date: 2024-09-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The No. 9 Trojans handed the Hoosiers a 2-0 loss for their seventh win of the fall.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/24/usc-shuts-out-indiana-in-bloomington/">USC shuts out Indiana in Bloomington</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/24/usc-shuts-out-indiana-in-bloomington/>
+
+---
+
+## ‘Madame Butterfly’ gets Hollywood treatment
+
+date: 2024-09-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>L.A. Opera begins its highly anticipated season with a new take on the classic tale.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/24/madame-butterfly-gets-hollywood-treatment/">‘Madame Butterfly’ gets Hollywood treatment</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/24/madame-butterfly-gets-hollywood-treatment/>
+
+---
+
+## USG special election candidate disqualified from senate race
+
+date: 2024-09-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Tanisha Saraff eliminated after violating campaign expenditures sanctions.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/24/usg-special-election-candidate-disqualified-from-senate-race/">USG special election candidate disqualified from senate race</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/24/usg-special-election-candidate-disqualified-from-senate-race/>
 
 ---
 
@@ -99,7 +542,7 @@ Have you ever stopped to wonder why there are only two forms of male birth contr
 
 date: 2024-09-23, from: The Sundail (CSUN Student Newspaper)
 
-Astro Bot splash screen. Captured on PS5 Astro Bot for the PlayStation 5 is a remarkable 3D platformer. From the ingenuity of the power-ups and bosses, to the countless iconic... 
+Astro Bot for the PlayStation 5 is a remarkable 3D platformer. From the ingenuity of the power-ups and bosses, to the countless iconic PlayStation character cameos, Astro Bot delivers a... 
 
 <https://sundial.csun.edu/185175/arts-entertainment/astro-bot-review-shining-with-creativity-and-nostalgia/>
 

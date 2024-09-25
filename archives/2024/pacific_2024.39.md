@@ -1,11 +1,439 @@
 ---
 title: pacific
-updated: 2024-09-24 07:27:47
+updated: 2024-09-25 05:50:26
 ---
 
 # pacific
 
-(date: 2024-09-24 07:27:47)
+(date: 2024-09-25 05:50:26)
+
+---
+
+## Details, please: Barnett hits governor's ‘backdoor deals’ on governor’s new hospital project
+
+date: 2024-09-25, from: Pacific Island Times
+
+By Pacific Island Times News Staff   Caught off-guard by Gov. Lou Leon Guerrero’s scanty announcement about plans to build a new hospital... 
+
+<https://www.pacificislandtimes.com/post/details-please-barnett-hits-governor-s-backdoor-deals-on-governor-s-new-hospital-project>
+
+---
+
+## Brett Favre reveals he has Parkinson’s disease
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Brett Favre, the former NFL quarterback accused of diverting millions of dollars in federal money away from welfare recipients, said Tuesday that he had been diagnosed with Parkinson&#8217;s disease.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/sports/brett-favre-reveals-he-has-parkinsons-disease/>
+
+---
+
+## UH-H sports: Vulcans counter Chaminade; women’s golf open season
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8212; UH-Hilo women&#8217;s soccer closed out the non-conference slate of the season with a 1-0 victory over Chaminade Saturday afternoon at the Saint Louis School Field.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/sports/uh-h-sports-vulcans-counter-chaminade-womens-golf-open-season/>
+
+---
+
+## New chief gets good review: Moszkowicz’s performance in first year ‘commendable’
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>The Police Commission on Friday gave Hawaii Police Department Chief Benjamin Moskowicz a positive review for his first year as the Big Island&#8217;s top cop, but said in his evaluation letter it is &#8220;crucial&#8221; the chief &#8220;enhances his transparency&#8221; with the commission, &#8220;particularly in areas where the commission holds oversight authorities.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/hawaii-news/new-chief-gets-good-review-moszkowiczs-performance-in-first-year-commendable/>
+
+---
+
+## Waimea meat processing company wins $1.6M grant
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>A Waimea business has been awarded a $1.6 million grant from the U.S. Department of Agriculture.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/hawaii-news/waimea-meat-processing-company-wins-1-6m-grant/>
+
+---
+
+## US accuses Visa of monopoly in debit cards
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>The Justice Department filed an antitrust lawsuit against Visa on Tuesday, accusing the financial giant of unfairly stifling competition in debit cards, the latest in a string of cases aimed at deterring monopolistic behavior by big companies. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/nation-world-news/us-accuses-visa-of-monopoly-in-debit-cards/>
+
+---
+
+## BIIF seeking head coaches
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>Honoka&#8216;a seeking &#0010;coaches</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/sports/biif-seeking-head-coaches/>
+
+---
+
+## UH president finalist puts emphasis on AI
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>The first of two final candidates to replace the University of Hawaii&#8217;s president promised an AI-driven future during a forum Tuesday at UH-Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/hawaii-news/uh-president-finalist-puts-emphasis-on-ai/>
+
+---
+
+## Public urged to ‘keep an eye out’ for beetle
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>After an adult coconut rhinoceros beetle was found in Waikoloa last week, Big Island residents are once again urged to be vigilant when dealing with mulch and compost products.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/hawaii-news/public-urged-to-keep-an-eye-out-for-beetle/>
+
+---
+
+## Harris to more fully detail economic plans
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Vice President Kamala Harris is set to ramp up her economic message this week, with a speech reframing her policy vision and a lengthy new document describing her approach in more detail.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/nation-world-news/harris-to-more-fully-detail-economic-plans/>
+
+---
+
+## Obituaries for September 25
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>Jeffrey Bopes, 64, of Hawaii Island died Sept. 2. No services. No known family. Survivors are asked to call Hilo Benioff Medical Center at (808) 932-3500, option 4.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/obituaries/obituaries-for-september-25-11/>
+
+---
+
+## BIIF volleyball: Vikings, Warriors and Dragons sweep
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; The Hilo Vikings girls volleyball team made quick work of the visiting Laupahoehoe Seasiders on Monday night in Hilo town.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/sports/biif-volleyball-vikings-warriors-and-dragons-sweep/>
+
+---
+
+## NAMIWalks Big Island slated for Oct. 12
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>The 6th Annual NAMIWalks Big Island event will be held from 9 a.m. to noon on Saturday, Oct. 12, at Wailoa River State Recreation Area in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/community/namiwalks-big-island-slated-for-oct-12/>
+
+---
+
+## ‘Hello, I’m Johnny Cash’: Statue of the ‘Man in Black’ unveiled at the Capitol
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Among the white marble statesmen and bronze war heroes who stand silent sentinel through the halls of the Capitol, a musician arrived Tuesday. It was Johnny Cash, the &#8220;Man in Black&#8221; who built his fame singing about, and for, outlaws and the things love and cocaine will do to a man. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/nation-world-news/hello-im-johnny-cash-statue-of-the-man-in-black-unveiled-at-the-capitol/>
+
+---
+
+## The U.S. News college rankings are out. Cue the rage and obsession
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>After months of tumult on American college campuses, relative stability in one realm returned Tuesday, when U.S. News &#038; World Report published its oft-disparaged but nevertheless closely watched rankings. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/nation-world-news/the-u-s-news-college-rankings-are-out-cue-the-rage-and-obsession/>
+
+---
+
+## Israel kills Hezbollah commander in Beirut, vows more airstrikes
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT/JERUSALEM &#8212; An Israeli airstrike on Beirut killed a senior Hezbollah commander on Tuesday as cross-border rocket attacks by both sides increased fears of a full-fledged war in the Middle East. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/nation-world-news/israel-kills-hezbollah-commander-in-beirut-vows-more-airstrikes/>
+
+---
+
+## At UN for last time, Biden seeks to calm Mideast tension
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; U.S. President Joe Biden addressed world leaders at the United Nations for the final time on Tuesday, declaring that Russia&#8217;s war in Ukraine has failed and that a diplomatic solution between Israel and Lebanon&#8217;s Hezbollah was still possible.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/nation-world-news/at-un-for-last-time-biden-seeks-to-calm-mideast-tension/>
+
+---
+
+## UH Hilo gets high marks for diversity, social mobility
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>The University of Hawaii at Hilo continues to lead in creating an inclusive campus environment and helping students succeed, placing it among the top universities in the nation in the latest U.S. News &#38;World Report College Rankings.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/community/uh-hilo-gets-high-marks-for-diversity-social-mobility/>
+
+---
+
+## ‘Tango Extravaganza’ in Waimea
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>WAIMEA &#8212; Back by popular demand, Hawaii Symphony Orchestra concertmaster and celebrated violinist Iggy Jang returns to Kahilu Theatre at 7 p.m. on Saturday with his electrifying dance and music performance, &#8220;Tango Extravaganza.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/community/tango-extravaganza-in-waimea/>
+
+---
+
+## Don’t underestimate threats of violence from Proud Boys and other right-wing groups
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>Remember during the 2020 presidential race when Donald Trump refused to disown right-wing violent extremists, instead telling the Proud Boys to &#8220;stand back and stand by&#8221;? We might now know what they&#8217;ve been standing by for.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/opinion/dont-underestimate-threats-of-violence-from-proud-boys-and-other-right-wing-groups/>
+
+---
+
+## ‘Heathers: The Musical’ opens Friday
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>A spin-off of a cult classic film will be introduced to a new generation with the run of &#8220;Heathers: The Musical&#8221; beginning Friday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/hawaii-news/heathers-the-musical-opens-friday/>
+
+---
+
+## Abortion bans are killing women. The GOP keeps doubling down
+
+date: 2024-09-25, from: Hawaii Tribune Harold
+
+
+				<p>It was always inevitable, and now it&#8217;s official: The new era of relentless political intrusion into personal medical decisions is killing women.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/25/opinion/abortion-bans-are-killing-women-the-gop-keeps-doubling-down/>
+
+---
+
+## Peace Corps signs new MOU with Palau to advance education priorities
+
+date: 2024-09-25, from: Pacific Island Times
+
+By Mar-Vic Cagurangan    The Peace Corps office today announced it has signed a new memorandum of understanding with Palau to collaborate... 
+
+<https://www.pacificislandtimes.com/post/peace-corps-signs-new-mou-with-palau-to-advance-education-priorities>
+
+---
+
+## China launches missile test into Pacific Ocean
+
+date: 2024-09-25, from: Pacific Island Times
+
+By Pacific Island Times News Staff The People's Liberation Army Rocket Force  launched an intercontinental ballistic missile earlier... 
+
+<https://www.pacificislandtimes.com/post/china-launches-missile-test-into-pacific-ocean>
+
+---
+
+## Leaders Discuss Sustainable Development Pathways at USP Panel Event
+
+date: 2024-09-25, from: University of the South Pacific (Fiji)
+
+<p>Over a hundred students, staff, and stakeholders filled the Postgraduate Lecture Theatre at The University...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/leaders-discuss-sustainable-development-pathways-at-usp-panel-event/">Leaders Discuss Sustainable Development Pathways at USP Panel Event</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/leaders-discuss-sustainable-development-pathways-at-usp-panel-event/>
+
+---
+
+## Public events for 2nd UH President finalist start Monday
+
+date: 2024-09-25, from: University of Hawaiʻi News
+
+<p>Julian Vasquez Heilig will attend an open house and take questions at a moderated public forum on Maui, <span aria-label="Kauai">Kaua&#699;i</span>, <span aria-label="Hawaii">Hawai&#699;i</span> Island and <span aria-label="Oahu">O&#699;ahu</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/24/public-events-2nd-uh-president-finalist/">Public events for 2nd <abbr>UH</abbr> President finalist start Monday</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/24/public-events-2nd-uh-president-finalist/>
+
+---
+
+## Maui fires: UH Maui College culinary team fed community, taught life lessons
+
+date: 2024-09-25, from: University of Hawaiʻi News
+
+<p>The <abbr>UH</abbr> Maui College culinary team has earned the Governor’s Award for Distinguished State Service.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/24/uh-maui-college-culinary-team-fed-community-taught-life-lessons/">Maui fires: <abbr>UH</abbr> Maui College culinary team fed community, taught life lessons</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/24/uh-maui-college-culinary-team-fed-community-taught-life-lessons/>
+
+---
+
+## New Book – “Raising Trees & Livelihoods” – Offers In-Depth Insight into Smallholder Forestry
+
+date: 2024-09-25, from: University of the South Pacific (Fiji)
+
+<p>Suva, Fiji — The University of the South Pacific (USP) and the Australian Centre for...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/new-book-raising-trees-livelihoods-offers-in-depth-insight-into-smallholder-forestry/">New Book – &#8220;Raising Trees &amp; Livelihoods&#8221; – Offers In-Depth Insight into Smallholder Forestry</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/new-book-raising-trees-livelihoods-offers-in-depth-insight-into-smallholder-forestry/>
+
+---
+
+## USP ready to welcome thousands of students during Open Day
+
+date: 2024-09-25, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) has established itself as a leading provider of...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-ready-to-welcome-thousands-of-students-during-open-day/">USP ready to welcome thousands of students during Open Day</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-ready-to-welcome-thousands-of-students-during-open-day/>
+
+---
+
+## Lassner, van Der Lee honored with workforce development awards
+
+date: 2024-09-25, from: University of Hawaiʻi News
+
+<p>The Workforce Development Hero Awards honor key contributors to workforce excellence across the islands.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/24/2024-dlir-workforce-development-awards/">Lassner, van Der Lee honored with workforce development awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/24/2024-dlir-workforce-development-awards/>
+
+---
+
+## UH Mānoa alums help to revive Okinawan language
+
+date: 2024-09-25, from: University of Hawaiʻi News
+
+<p>Shoichi Iwasaki and Rumiko Shinzato published a first of its kind Okinawan language textbook for English speakers.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/24/uh-manoa-alums-help-revive-okinawan-language/"><abbr>UH</abbr> Mānoa alums help to revive Okinawan language</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/24/uh-manoa-alums-help-revive-okinawan-language/>
+
+---
+
+## Med student’s quest to improve Native Hawaiian Pacific Islander data
+
+date: 2024-09-25, from: University of Hawaiʻi News
+
+<p>Witnessing cancer in his Hawaiian family members drives Ryan Shontell to make a difference.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/24/shontell-improving-nhpi-data/">Med student’s quest to improve Native Hawaiian Pacific Islander data</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/24/shontell-improving-nhpi-data/>
+
+---
+
+## Alexander sweeps up another Big West Offensive Player of the Week
+
+date: 2024-09-25, from: University of Hawaiʻi News
+
+<p>Caylen Alexander averaged 4.69 kills per set over the week to secure another Big West weekly award.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/24/alexander-big-west-offensive-player-week/">Alexander sweeps up another Big West Offensive Player of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/24/alexander-big-west-offensive-player-week/>
+
+---
+
+## Damacion claims back-to-back Big West Freshman of the Week honors
+
+date: 2024-09-25, from: University of Hawaiʻi News
+
+<p>Nalani Damacion leads all freshmen nationally with four game-winning goals of the season.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/24/damacion-big-west-freshman-of-the-week/">Damacion claims back-to-back Big West Freshman of the Week honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/24/damacion-big-west-freshman-of-the-week/>
+
+---
+
+## UH Cancer Center hosts its first breast cancer community event
+
+date: 2024-09-24, from: University of Hawaiʻi News
+
+<p><span aria-label="Ohana">&#699;Ohana</span> Pink is a free event that will be held on October 6.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/24/ohana-pink-event/"><abbr>UH</abbr> Cancer Center hosts its first breast cancer community event</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/24/ohana-pink-event/>
+
+---
+
+## UH 4-year universities high on U.S. News and World Report rankings
+
+date: 2024-09-24, from: University of Hawaiʻi News
+
+<p>All three campuses placed in the top 10 for ethnic diversity.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/24/us-news-best-colleges-2025/"><abbr>UH</abbr> 4-year universities high on U.S. News and World Report rankings</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/24/us-news-best-colleges-2025/>
+
+---
+
+## UH Alumni: Elise Inouye, press secretary for U.S. Sen. Mazie K. Hirono
+
+date: 2024-09-24, from: University of Hawaiʻi News
+
+<p>Hirono Press Secretary Elise Inouye said <abbr>UH</abbr> Hilo prepared her for this role.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/24/uh-alumni-elise-inouye/"><abbr>UH</abbr> Alumni: Elise Inouye, press secretary for U.S. Sen. Mazie K. Hirono</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/24/uh-alumni-elise-inouye/>
 
 ---
 
@@ -283,6 +711,18 @@ date: 2024-09-24, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/09/24/opinion/your-views-for-september-24-6/>
+
+---
+
+## Rule change will increase food aid for Hawaii families
+
+date: 2024-09-24, from: Hawaii Tribune Harold
+
+
+				<p>An internal rule change at the state Department of Human Serv&#173;ices will mean 13,000 to 14,000 Hawaii households will be eligible for another $40 million to $45 million &#8212; or an average of $3,200 a year &#8212; in SNAP benefits, commonly known as food stamps.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/24/hawaii-news/rule-change-will-increase-food-aid-for-hawaii-families/>
 
 ---
 
@@ -691,6 +1131,16 @@ date: 2024-09-23, updated: 2024-09-24, from: Marianas Variety
 (Reuters) — Jake Bauers delivered a go-ahead RBI single in the bottom of the eighth as the host Milwaukee Brewers overcame an eight-run deficit to earn a stunning 10-9 win against the Arizona Diamondbacks on Sunday afternoon. 
 
 <https://www.mvariety.com/sports/nationalsports/mlb-roundup-brewers-erase-8-run-deficit-stun-d-backs/article_709ee312-7977-11ef-b270-bbcae49ed752.html>
+
+---
+
+## Governor says new Guam hospital will be built in Mangilao
+
+date: 2024-09-23, from: Pacific Island Times
+
+By Mar-Vic Cagurangan Springing a surprise announcement, Gov. Lou Leon Guerrero today said a new hospital will be built in Mangilao,... 
+
+<https://www.pacificislandtimes.com/post/new-hospital-will-be-built-in-mangilao>
 
 ---
 

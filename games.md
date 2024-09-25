@@ -1,11 +1,111 @@
 ---
 title: games
-updated: 2024-09-24 07:27:52
+updated: 2024-09-25 05:50:31
 ---
 
 # games
 
-(date: 2024-09-24 07:27:52)
+(date: 2024-09-25 05:50:31)
+
+---
+
+## Hurry and pre-order this Outer Wilds art book
+
+date: 2024-09-25, updated: 2024-09-24, from: Polygon Website
+
+I’ve rarely felt as targeted as I did today, when I opened my inbox and the following words spilled out from across a sea of email subject lines and splashed into my brain: “Outer Wilds: Design Works announced.” I can’t remember the last time I clicked an email this fast. “Lost In Cult is exceptionally proud to unveil [&#8230;] 
+
+<https://www.polygon.com/books/455772/outer-wilds-art-book-pre-order-gimme>
+
+---
+
+## The rod is mightier than the sword in The Legend of Zelda: Echoes of Wisdom
+
+date: 2024-09-25, updated: 2024-09-23, from: Polygon Website
+
+Zelda games — that is, games in The Legend of Zelda franchise fronted by Link — have always had a puzzle-y element to them, up to and including the open world Breath of the Wild and Tears of the Kingdom. There are always keys to find, abilities to hone, and tools to unlock that open [&#8230;] 
+
+<https://www.polygon.com/review/455289/legend-of-zelda-echoes-of-wisdom-review-nintendo-switch>
+
+---
+
+## What is the Fortnite Crew Pack skin for October 2024?
+
+date: 2024-09-25, updated: 2024-09-25, from: Polygon Website
+
+Fortnite Crew is a monthly subscription service for Fortnite. Members who subscribe to Fortnite Crew receive access to the current Battle Pass, a top up of V-Bucks to their account, and perhaps most importantly, exclusive cosmetics through the Fortnite Crew Pack. As an additional incentive to keep subscribing, you also receive bonus Legacy Styles for [&#8230;] 
+
+<https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin>
+
+---
+
+## PS5 Pro games list, including all confirmed first- and third-party upgrades
+
+date: 2024-09-25, updated: 2024-09-25, from: Polygon Website
+
+Knowing which PS5 Pro games are coming to the console is a decisive factor in whether the $700 mid-generation refresh is worth buying over a base PlayStation 5 when it arrives on Nov. 7. First, know the PS5 Pro will have no exclusive games or accessories, and that everything released on PS5 will work on [&#8230;] 
+
+<https://www.polygon.com/guides/449724/ps5-pro-games-list>
+
+---
+
+## PlayStation Plus October 2024 games include Dead Space scares and WWE slams
+
+date: 2024-09-24, updated: 2024-09-25, from: Polygon Website
+
+PlayStation Plus subscribers’ free Essential games for October are Dead Space, WWE 2K24, and Doki Doki Literature Club, Sony Interactive Entertainment announced Tuesday during a State of Play livestream. Players can download the trio of games beginning Oct. 1. Dead Space is Electronic Arts and Motive Studio’s excellent remake of the 2008 sci-fi horror adventure game. As [&#8230;] 
+
+<https://www.polygon.com/news/455170/playstation-plus-october-2024-games-list>
+
+---
+
+## Every big announcement from PlayStation’s new State of Play
+
+date: 2024-09-24, updated: 2024-09-24, from: Polygon Website
+
+Sony’s latest State of Play livestream was full of game announcements and updates for all things PlayStation 5 and PlayStation VR 2. PlayStation fans got a look at multiple new remasters, including updated versions of Horizon Zero Dawn and a pair of Soul Reaver games. And there was new content in there too, including a sequel [&#8230;] 
+
+<https://www.polygon.com/news/455279/playstation-state-of-play-news-trailers-september-2024>
+
+---
+
+## Palworld surprise launches on PlayStation 5, in spite of Pokémon lawsuit
+
+date: 2024-09-24, updated: 2024-09-24, from: Polygon Website
+
+Palworld is out now on PlayStation 5, Sony Interactive Entertainment and developer Pocketpair announced during Tuesday’s State of Play broadcast. It’s somewhat awkward timing for the creature catching, open world survival game, closely following a Japanese lawsuit filed recently by The Pokémon Company. Previously, there was no announcement suggesting that Palworld would come to PlayStation [&#8230;] 
+
+<https://www.polygon.com/gaming/455993/palworld-playstation-5-ps5-release-date>
+
+---
+
+## The MrBeast controversy era continues, with lunch packs and a lawsuit
+
+date: 2024-09-24, updated: 2024-09-24, from: Polygon Website
+
+The MrBeast brand, and its creator Jimmy Donaldson, has been embroiled in controversy throughout the summer, with the outrage coming from several angles. Donaldson, who runs the most subscribed-to channel on YouTube, remains under fire over previous allegations regarding his channel and his large-scale reality TV collaboration with Amazon, but the conversation has been complicated [&#8230;] 
+
+<https://www.polygon.com/culture/455739/mrbeast-controversy-continues-lunchly-lunch-packs>
+
+---
+
+## PlayStation State of Play for September 2024
+
+date: 2024-09-24, updated: 2024-09-24, from: Polygon Website
+
+Following close on the heels of Sony’s PS5 Pro reveal, the publisher has announced a new State of Play event that it says will feature “more than 20 upcoming PS5 and PS VR2 games from studios around the world.” We’ve got some decent guesses as to what might appear — glimpses of the company’s remaining [&#8230;] 
+
+<https://www.polygon.com/gaming/455708/playstation-state-of-play-september-2024-news>
+
+---
+
+## The SAG-AFTRA strike will now impact League of Legends — here&#8217;s why
+
+date: 2024-09-24, updated: 2024-09-24, from: Polygon Website
+
+The Screen Actors Guild-American Federation of Television and Radio Artists announced Tuesday that it’s adding Riot Games’ League of Legends as a struck game — meaning union voice actors currently working on the game must stop. SAG-AFTRA is also filing an unfair labor practice charge against sound company Formosa Interactive over what it alleged was [&#8230;] 
+
+<https://www.polygon.com/gaming/455786/sag-aftra-strike-league-of-legends-formosa>
 
 ---
 

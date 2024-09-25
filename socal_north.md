@@ -1,11 +1,81 @@
 ---
 title: socal north
-updated: 2024-09-24 07:27:46
+updated: 2024-09-25 05:50:24
 ---
 
 # socal north
 
-(date: 2024-09-24 07:27:46)
+(date: 2024-09-25 05:50:24)
+
+---
+
+## Undocumented students rethinking college futures after Newsom's veto of campus jobs bill
+
+date: 2024-09-24, updated: 2024-09-24, from: The LAist
+
+Lawmakers want to open campus jobs to thousands of undocumented students. Some students say the lack of opportunity may push them out of college. 
+
+<https://laist.com/news/education/undocumented-students-college-futures-governor-newsom-veto-jobs-bill>
+
+---
+
+## Los Angeles, Orange County Water Agencies
+
+date: 2024-09-24, updated: 2024-09-24, from: The LAist
+
+Water in California is complicated and governing water use is arguably even more complicated. Here's what you need to know when water agencies show up on the ballot. 
+
+<https://laist.com/news/politics/2024-election-california-general-water-agencies>
+
+---
+
+## A new California law will scrub most medical debt from credit reports
+
+date: 2024-09-24, updated: 2024-09-24, from: The LAist
+
+About 4 in 10 Californians are believed to be carrying medical debt, which can harm their chances of landing a mortgage or an apartment if it shows up on credit reports. 
+
+<https://laist.com/news/politics/california-law-will-scrub-most-medical-debt-from-credit-reports>
+
+---
+
+## Indian consulate coming to LA after year-long campaign to open location
+
+date: 2024-09-24, updated: 2024-09-25, from: The LAist
+
+Prime Minister Narendra Modi made the announcement this week. 
+
+<https://laist.com/news/politics/indian-consulate-la>
+
+---
+
+## OC supervisors vote to censure colleague Andrew Do amid fraud allegations
+
+date: 2024-09-24, updated: 2024-09-24, from: The LAist
+
+The moves comes months after LAist uncovered more than $13 million in public funds directed by Do to Viet America Society without him disclosing that his daughter worked as a leader there. 
+
+<https://laist.com/news/politics/oc-supervisors-censure-vote-andrew-do>
+
+---
+
+## Dense fog this morning followed by the warmest temperatures of the week
+
+date: 2024-09-24, updated: 2024-09-24, from: The LAist
+
+This afternoon we'll see mostly sunny skies across the Southland except for partly cloudy skies along the coast. 
+
+<https://laist.com/news/climate-environment/dense-fog-warm-temps>
+
+---
+
+## California may soon let workers apply early for paid family leave
+
+date: 2024-09-24, updated: 2024-09-24, from: The LAist
+
+Currently, workers cannot apply for benefits until their first day of leave, and can go weeks without pay. 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/lawmakers-apply-early-paid-family-leave-gavin-newsom>
 
 ---
 
@@ -16,16 +86,6 @@ date: 2024-09-24, updated: 2024-09-24, from: The LAist
 Inspector General Max Huntsman says the new policy is unlikely to pierce a code of silence surrounding the gangs. 
 
 <https://laist.com/news/politics/sheriffs-department-gang-policy-reaction>
-
----
-
-## Lawmakers want to let workers apply early for paid family leave. Now it’s up to Gov. Newsom
-
-date: 2024-09-24, updated: 2024-09-24, from: The LAist
-
-Currently, workers cannot apply for benefits until their first day of leave, and can go weeks without pay. 
-
-<https://laist.com/news/education/early-childhood-education-pre-k/lawmakers-apply-early-paid-family-leave-gavin-newsom>
 
 ---
 

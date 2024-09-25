@@ -1,11 +1,131 @@
 ---
 title: food
-updated: 2024-09-24 07:27:58
+updated: 2024-09-25 05:50:37
 ---
 
 # food
 
-(date: 2024-09-24 07:27:58)
+(date: 2024-09-25 05:50:37)
+
+---
+
+## Consumer Demand Study Finds Folks Are Going For Whole Bean Coffee
+
+date: 2024-09-25, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. the demand for whole bean coffee has skyrocketed since this time last year. 
+
+<https://sprudge.com/consumer-demand-study-finds-folks-are-going-for-whole-bean-coffee-255722.html>
+
+---
+
+## I Need Weeknight Vegetarian Recipes
+
+date: 2024-09-25, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris and Shilpa brainstorm vegetarian recipes that are quick and easy to follow. 
+
+<https://www.bonappetit.com/story/i-need-weeknight-vegetarian-recipes>
+
+---
+
+## Should You Add a Food Program to Your Cafe?
+
+date: 2024-09-25, from: The Fresh Cup
+
+<p>Looking to add a food program to your cafe? Unfortunately, it’s not as easy as just choosing to stock everything bagels and butter croissants.</p>
+<p>The post <a href="https://freshcup.com/should-you-add-a-food-program-to-your-cafe/">Should You Add a Food Program to Your Cafe?</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<https://freshcup.com/should-you-add-a-food-program-to-your-cafe/>
+
+---
+
+## Shredded Chicken
+
+date: 2024-09-25, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/easy-shredded-chicken-recipe/"><img title="shredded-chicken-small-6" src="https://www.isabeleats.com/wp-content/uploads/2024/09/shredded-chicken-small-6-400x600.jpg" alt="Shredded chicken in a bowl ready to be used in recipes." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Easy and delicious shredded chicken is the perfect simple and versatile recipe. Use it in nachos, enchiladas, tostadas, salads, soups, and much more! This recipe includes stovetop, slow cooker, and Instant Pot pressure cooker instructions. Have you ever looked at a recipe that called for cooked shredded chicken as an ingredient, but it didn’t actually tell [&#8230;] 
+
+<https://www.isabeleats.com/easy-shredded-chicken-recipe/>
+
+---
+
+## Red Beans and Rice Recipe
+
+date: 2024-09-25, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/red-beans-and-rice/" title="Red Beans and Rice Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of Red Beans and Rice, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Red beans and rice is a classic dish from Louisiana with creamy beans simmered slowly in a pot with smoked ham, andouille sausage, and lots of spices.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/red-beans-and-rice/">Red Beans and Rice Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<https://www.chilipeppermadness.com/recipes/red-beans-and-rice/>
+
+---
+
+## 22 Best Prime Day Deals Under $25 for Your Kitchen and Home (2024)
+
+date: 2024-09-25, from: Bon Appetet
+
+Kitchen upgrades for less than a decent bottle of pét-nat. 
+
+<https://www.bonappetit.com/story/best-early-prime-day-deals-october>
+
+---
+
+## Best Prime Day Espresso Machine Deals 2024
+
+date: 2024-09-25, from: Bon Appetet
+
+Why go to the coffee shop for espresso when the espresso can come to you? 
+
+<https://www.bonappetit.com/story/amazon-prime-espresso-maker-deals-fall-2024>
+
+---
+
+## How to Cut Butternut Squash
+
+date: 2024-09-24, from: Taste of Home
+
+<p>Don't risk losing a finger! Learn how to cut butternut squash safely by rocking the vegetable back and forth.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/how-to-cut-butternut-squash/">How to Cut Butternut Squash</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/how-to-cut-butternut-squash/>
+
+---
+
+## Tucson’s Colibri & Renard Coffee Conjures Its First Cafe at the Celestia Collective
+
+date: 2024-09-24, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Celestia Collective Coffee Tucson inside" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Arizona-based roasting company Colibri &#38; Renard Coffee recently established its first brick-and-mortar location in Tucson, offering beans and brews inside a new collaborative business called the Celestia Collective. Operated by... 
+
+<https://dailycoffeenews.com/2024/09/24/tucsons-colibri-renard-coffee-conjures-its-first-cafe-at-the-celestia-collective/>
+
+---
+
+## 2025 National Coffee Association Convention Heading to Houston
+
+date: 2024-09-24, from: Daily Coffee News
+
+<div><img width="620" height="390" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo-620x390.jpg" class="attachment-large size-large wp-post-image" alt="Marriott Marquis press photo" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo-620x390.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo-300x189.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo-150x94.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo-768x483.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo.jpg 1190w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Registration just opened for the 2025 United States National Coffee Association annual convention, which is taking place at the Marriott Marquis in Houston next March 6-8. The trade association... 
+
+<https://dailycoffeenews.com/2024/09/24/2025-national-coffee-association-convention-heading-to-houston/>
+
+---
+
+## On The Menu: The Colococo Float At The Caffè In Oakland
+
+date: 2024-09-24, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Colococo Float by The Caffe in Oakland, California. 
+
+<https://sprudge.com/on-the-menu-the-colococo-float-at-the-caffe-in-oakland-255619.html>
 
 ---
 
@@ -16,6 +136,16 @@ date: 2024-09-24, from: The Sprudge
 <strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Daylily Coffee in Sioux Falls, South Dakota. 
 
 <https://sprudge.com/delicious-coffee-blooms-at-daylily-coffee-in-sioux-falls-sd-255140.html>
+
+---
+
+## Column: Don’t Buy Too Much Coffee
+
+date: 2024-09-24, from: Daily Coffee News
+
+<div><img width="620" height="466" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2-620x466.jpeg" class="attachment-large size-large wp-post-image" alt="green coffee warehouse 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2-620x466.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2-300x225.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2-150x113.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2-768x577.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>An importer will never tell you this, but don’t buy too much coffee. Most importers view trading as a zero-sum game where the objective is simple: win as much business... 
+
+<https://dailycoffeenews.com/2024/09/24/column-dont-buy-too-much-coffee/>
 
 ---
 
@@ -105,7 +235,7 @@ date: 2024-09-23, from: The Sprudge
 
 date: 2024-09-23, from: Daily Coffee News
 
-<div><img width="620" height="412" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6-620x412.jpg" class="attachment-large size-large wp-post-image" alt="Three Tree Coffee Roasting Statesboro GA 6" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6-620x412.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6-300x199.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6-768x510.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>With roots established for more than a decade in Statesboro, Georgia, Three Tree Coffee&#160;recently cut the ribbon on a trio of new facilities, including a roastery, training center and podcast... 
+<div><img width="620" height="412" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6-620x412.jpg" class="attachment-large size-large wp-post-image" alt="Three Tree Coffee Roasting Statesboro GA 6" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6-620x412.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6-300x199.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6-768x510.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Three-Tree-Coffee-Roasting-Statesboro-GA-6.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>With roots established for more than a decade in Statesboro, Georgia, Three Tree Coffee&#160;recently cut the ribbon on a trio of new facilities, including a roastery, training center and podcast... 
 
 <https://dailycoffeenews.com/2024/09/23/georgias-three-tree-coffee-branches-out-with-roastery-and-studio/>
 
@@ -147,7 +277,7 @@ Jeppson's Malört’s backstory has always been the stuff of speculation, but a 
 
 date: 2024-09-23, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home-620x413.jpg" class="attachment-large size-large wp-post-image" alt="coffee out of home" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee consumption outside the home has reached its highest level since January 2020, according to the latest edition of the United States National Coffee Association&#8216;s biannual consumer trends report. Based... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home-620x413.jpg" class="attachment-large size-large wp-post-image" alt="coffee out of home" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-out-of-home.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee consumption outside the home has reached its highest level since January 2020, according to the latest edition of the United States National Coffee Association&#8216;s biannual consumer trends report. Based... 
 
 <https://dailycoffeenews.com/2024/09/23/report-us-out-of-home-coffee-drinking-highest-since-pre-pandemic/>
 
@@ -235,7 +365,7 @@ date: 2024-09-23, from: Isebel Eats
 
 date: 2024-09-23, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/garlic-parmesan-sauce/" title="Garlic Parmesan Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Garlic-Parmesan-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Garlic Parmesan Sauce Recipe for Wings in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Garlic-Parmesan-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Garlic-Parmesan-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Garlic-Parmesan-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Garlic-Parmesan-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Garlic-Parmesan-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Garlic-Parmesan-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Garlic-Parmesan-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This garlic parmesan sauce is easy to make with a buttery base, savory parmesan cheese, fresh garlic and spices, perfect for chicken wings and other dishes.</p>
+<a href="https://www.chilipeppermadness.com/recipes/garlic-parmesan-sauce/" title="Garlic Parmesan Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Garlic-Parmesan-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Garlic Parmesan Sauce Recipe for Wings in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Garlic-Parmesan-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Garlic-Parmesan-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Garlic-Parmesan-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Garlic-Parmesan-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Garlic-Parmesan-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Garlic-Parmesan-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Garlic-Parmesan-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This garlic parmesan sauce is easy to make with a buttery base, savory parmesan cheese, fresh garlic and spices, perfect for chicken wings and other dishes.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/garlic-parmesan-sauce/">Garlic Parmesan Sauce Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

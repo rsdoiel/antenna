@@ -1,11 +1,136 @@
 ---
 title: central coast
-updated: 2024-09-24 07:27:49
+updated: 2024-09-25 05:50:28
 ---
 
 # central coast
 
-(date: 2024-09-24 07:27:49)
+(date: 2024-09-25 05:50:28)
+
+---
+
+## Reflections at Devereux Slough
+
+date: 2024-09-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-POD-Frank-DiMarco.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Reflections at Devereux Slough." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-POD-Frank-DiMarco.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-POD-Frank-DiMarco.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-POD-Frank-DiMarco.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-POD-Frank-DiMarco.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-POD-Frank-DiMarco.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-POD-Frank-DiMarco.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-POD-Frank-DiMarco.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-POD-Frank-DiMarco.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-POD-Frank-DiMarco.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-POD-Frank-DiMarco.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-POD-Frank-DiMarco.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-POD-Frank-DiMarco.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-POD-Frank-DiMarco.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/reflections-at-devereux-slough/">Reflections at Devereux Slough</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/reflections-at-devereux-slough/>
+
+---
+
+## Santa Barbara High Girls Volleyball Falters Late in Four-Set Loss to Ventura
+
+date: 2024-09-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-volley-924.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-volley-924.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-volley-924.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-volley-924.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-volley-924.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-volley-924.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-volley-924.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-volley-924.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-volley-924.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sb-volley-924.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara High girls volleyball started strong but couldn’t keep it going in a four-set loss to Ventura on Tuesday inside JR Richards Gym, 25-23, 23-25, 17-25, 25-18. The Dons [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-high-girls-volleyball-falters-late-in-four-set-loss-to-ventura/">Santa Barbara High Girls Volleyball Falters Late in Four-Set Loss to Ventura</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-high-girls-volleyball-falters-late-in-four-set-loss-to-ventura/>
+
+---
+
+## SpaceX Falcon Rocket Launch Marks Fourth in September From Vandenberg
+
+date: 2024-09-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>For the fourth time in September, a Falcon 9 rocket blasted off Tuesday night from Vandenberg Space Force Base, where dense fog shrouded the vehicle. The SpaceX-manufactured rocket’s departure occurred [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/spacex-rocket-launch-marks-fourth-in-september-from-vandenberg/">SpaceX Falcon Rocket Launch Marks Fourth in September From Vandenberg</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/spacex-rocket-launch-marks-fourth-in-september-from-vandenberg/>
+
+---
+
+## Prep Girls Volleyball Roundup: Local Teams Sweep League Opponents
+
+date: 2024-09-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>San Marcos girls volleyball kicked off the second half of Channel League play with a road sweep of the Buena Bulldogs on Tuesday, 25-9, 25-14, 25-23. Reese Paskin was efficient [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-volleyball-roundup-local-teams-sweep-league-opponents-2/">Prep Girls Volleyball Roundup: Local Teams Sweep League Opponents</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-volleyball-roundup-local-teams-sweep-league-opponents-2/>
+
+---
+
+## Prep Girls Golf Roundup: San Marcos, Santa Barbara Earn Wins Ahead of Rivalry Matchup
+
+date: 2024-09-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/g-golf-roundup-924.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/g-golf-roundup-924.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/g-golf-roundup-924.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/g-golf-roundup-924.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/g-golf-roundup-924.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/g-golf-roundup-924.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/g-golf-roundup-924.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/g-golf-roundup-924.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/g-golf-roundup-924.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/g-golf-roundup-924.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>San Marcos girls golf put together a strong team performance in a league win over Rio Mesa on Tuesday at Sterling Hills’ par 35 course. &#8220;We had a great day [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-golf-roundup-san-marcos-santa-barbara-earn-wins-ahead-of-rivalry-matchup/">Prep Girls Golf Roundup: San Marcos, Santa Barbara Earn Wins Ahead of Rivalry Matchup</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-golf-roundup-san-marcos-santa-barbara-earn-wins-ahead-of-rivalry-matchup/>
+
+---
+
+## Santa Barbara to Lose State Funding for Homelessness as Numbers Rise
+
+date: 2024-09-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-Homeless-Santa-Barbara-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Homelessness in Santa Barbara is on the rise." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-Homeless-Santa-Barbara-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-Homeless-Santa-Barbara-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-Homeless-Santa-Barbara-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-Homeless-Santa-Barbara-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-Homeless-Santa-Barbara-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-Homeless-Santa-Barbara-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-Homeless-Santa-Barbara-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-Homeless-Santa-Barbara-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-Homeless-Santa-Barbara-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Homelessness in Santa Barbara is on the rise — the first year-over-year increase since 2020. And the outlook doesn&#8217;t look much better. The State of California has cut the city&#8217;s [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-to-lose-state-funding-for-homelessness-as-numbers-rise/">Santa Barbara to Lose State Funding for Homelessness as Numbers Rise</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-to-lose-state-funding-for-homelessness-as-numbers-rise/>
+
+---
+
+## Prep Girls Tennis Roundup: Cate Races Past Laguna Blanca to Remain Undefeated
+
+date: 2024-09-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Cate girls tennis kept their undefeated season alive with a 16-2 win over Laguna Blanca on Tuesday afternoon. All 11 of the Rams who competed on Tuesday earned at least [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-tennis-roundup-cate-races-past-laguna-blanca-to-remain-undefeated/">Prep Girls Tennis Roundup: Cate Races Past Laguna Blanca to Remain Undefeated</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-tennis-roundup-cate-races-past-laguna-blanca-to-remain-undefeated/>
+
+---
+
+## Carpinteria High Boys Water Polo Dominates Nordhoff in 20-8 Win
+
+date: 2024-09-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>An offensive outburst powered Carpinteria High boys water polo to a 20-8 win over Nordhoff on Tuesday. It was a balanced attack for the Warriors, who had every player find [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/carpinteria-high-boys-water-polo-dominates-nordhoff-in-20-8-win/">Carpinteria High Boys Water Polo Dominates Nordhoff in 20-8 Win</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/carpinteria-high-boys-water-polo-dominates-nordhoff-in-20-8-win/>
+
+---
+
+## From Student to Superintendent: Mary Kahn Feels at Home in Goleta District
+
+date: 2024-09-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092024-Mary-Kahn-1-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="As a child attending Kellogg Elementary School in Goleta, Mary Kahn knew she wanted to be a teacher. Now, she&#039;s superintendent of the Goleta Union School District, the same district where she grew up." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092024-Mary-Kahn-1-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092024-Mary-Kahn-1-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092024-Mary-Kahn-1-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092024-Mary-Kahn-1-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092024-Mary-Kahn-1-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092024-Mary-Kahn-1-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092024-Mary-Kahn-1-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092024-Mary-Kahn-1-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092024-Mary-Kahn-1-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>As a student at Kellogg Elementary School in Goleta, Mary Kahn knew she wanted to grow up to be just like her teachers. She remembers taking chalk home and playing [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/from-student-to-superintendent-mary-kahn-feels-at-home-in-goleta-district/">From Student to Superintendent: Mary Kahn Feels at Home in Goleta District</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/from-student-to-superintendent-mary-kahn-feels-at-home-in-goleta-district/>
+
+---
+
+## Buellton’s Measure C2024 Sets Sights on Urban Growth Boundary
+
+date: 2024-09-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Buellton-Urban-Growth-Boundary-Measure-cont.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="With the current Buellton city limits in gray, the map shows three sites proposed for possible future inclusion in the city. Voters will decide Nov. 5 on Measure C2024, with the existing boundary, adopted in 2008, set to expire at the end of 2025." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Buellton-Urban-Growth-Boundary-Measure-cont.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Buellton-Urban-Growth-Boundary-Measure-cont.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Buellton-Urban-Growth-Boundary-Measure-cont.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Buellton-Urban-Growth-Boundary-Measure-cont.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Buellton-Urban-Growth-Boundary-Measure-cont.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Buellton-Urban-Growth-Boundary-Measure-cont.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Buellton-Urban-Growth-Boundary-Measure-cont.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Buellton-Urban-Growth-Boundary-Measure-cont.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090624-Buellton-Urban-Growth-Boundary-Measure-cont.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Voters in Buellton will determine where the city should — and should not — potentially grow when casting ballots in the Nov. 5 election on a measure that leaders say [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/buelltons-measure-c2024-sets-sights-on-urban-growth-boundary/">Buellton&#8217;s Measure C2024 Sets Sights on Urban Growth Boundary</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/buelltons-measure-c2024-sets-sights-on-urban-growth-boundary/>
 
 ---
 

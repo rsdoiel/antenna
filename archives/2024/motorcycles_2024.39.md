@@ -1,11 +1,81 @@
 ---
 title: motorcycles
-updated: 2024-09-24 07:27:55
+updated: 2024-09-25 05:50:34
 ---
 
 # motorcycles
 
-(date: 2024-09-24 07:27:55)
+(date: 2024-09-25 05:50:34)
+
+---
+
+## Could Soft Carbon Batteries Change The EV Game, As Well As Be Less Fire Prone?
+
+date: 2024-09-25, from: Ride Apart, Electric Motorcycle News
+
+These fast-charging batteries are designed to be integrated into battery-swapping systems.  
+
+<https://www.rideapart.com/news/734869/cpc-soft-carbon-battery-swapping-infrastructure/>
+
+---
+
+## Japan's Biggest Motorcycle Retailer Just Got Bought By Bain Capital, Oh Great
+
+date: 2024-09-25, from: Ride Apart, Electric Motorcycle News
+
+The company started with just one location in 1972, and now has over 300 nationwide in 2024. 
+
+<https://www.rideapart.com/news/734997/red-baron-japan-bain-capital-private-equity/>
+
+---
+
+## Honda CB300 and CB350 Models Get Massive Recall
+
+date: 2024-09-25, from: Ride Apart, Electric Motorcycle News
+
+Speed sensor and camshaft issues could cause widespread headaches.  
+
+<https://www.rideapart.com/news/734864/2024-honda-cb300-cb350-recall-india-speed-sensor-camshaft/>
+
+---
+
+## Snowmobiler Who Crashed Into a Black Hawk Helicopter Wins Case, Gets $3.3 Million
+
+date: 2024-09-25, from: Ride Apart, Electric Motorcycle News
+
+The judge, however, criticized the rider for riding reckless. 
+
+<https://www.rideapart.com/news/734987/jeff-smith-snowmobile-accident-black-hawk-helicopter-crash-lawsuit/>
+
+---
+
+## Kawasaki’s Z500 Sugomi Edition Wants To Turn Heads, At Least In France
+
+date: 2024-09-25, from: Ride Apart, Electric Motorcycle News
+
+It gets an aggressive livery, but pretty much nothing else.  
+
+<https://www.rideapart.com/news/734724/kawasaki-z500-sugomi-edition-france/>
+
+---
+
+## Back in the Rhythm: Caruth carrying podium finish into Kansas cutoff
+
+date: 2024-09-24, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer Rajah Caruth was forced to wrestle with the aftermath of a lackluster showing in the NASCAR Craftsman Truck Series playoff opener for over three weeks&#8230;  
+
+<https://kickinthetires.net/nascar/back-in-the-rhythm-caruth-carrying-podium-finish-into-kansas-cutoff/>
+
+---
+
+## Can-Am’s Pulse Is a City’s Worst Nightmare, but Needs Work
+
+date: 2024-09-24, from: Ride Apart, Electric Motorcycle News
+
+The Pulse can save you from becoming that guy riding a Streetfighter solely within the city limits—if Can-Am makes a few changes. 
+
+<https://www.rideapart.com/news/734865/can-am-pulse-electric-motorcycle-review/>
 
 ---
 

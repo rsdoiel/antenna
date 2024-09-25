@@ -1,31 +1,133 @@
 ---
 title: weather
-updated: 2024-09-24 07:27:51
+updated: 2024-09-25 05:50:30
 ---
 
 # weather
 
-(date: 2024-09-24 07:27:51)
+(date: 2024-09-25 05:50:30)
 
 ---
 
-## SPC - No watches are valid as of Tue Sep 24 12:54:02 UTC 2024
+## SPC - No watches are valid as of Wed Sep 25 12:41:02 UTC 2024
 
-date: 2024-09-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-09-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Sep 24 12:54:02 UTC 2024. 
+No watches are valid as of Wed Sep 25 12:41:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Tue Sep 24 12:54:02 UTC 2024
+## SPC - No MDs are in effect as of Wed Sep 25 12:41:02 UTC 2024
 
-date: 2024-09-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-09-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Tue Sep 24 12:54:02 UTC 2024. 
+No Mesoscale Discussions are in effect as of Wed Sep 25 12:41:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/md/>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-09-25, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Wed, 25 Sep 2024 12:36:45 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## CPHC Central North Pacific Outlook
+
+date: 2024-09-25, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>200 AM HST Wed Sep 25 2024<br><br>For the central North Pacific...between 140W and 180W:<br><br>1. Approximately 600 miles southeast of Hilo, Hawaii:<br>A broad low pressure system southeast of Hawaii is producing <br>disorganized showers and thunderstorms. Enviromental conditions are <br>not expected to be conducive for further development of this system <br>as it moves westward at 10 mph during the next several days.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...10 percent.<br><br />
+<br />
+<br>Forecaster Almanza<br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-09-25, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Wed Sep 25 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Tropical <br>Storm Helene, located over the northwestern Caribbean Sea.<br><br>1. Eastern and Central Tropical Atlantic (AL98):<br>A broad low pressure system associated with a tropical wave located <br>west of the Cabo Verde Islands continues to produce disorganized <br>shower and thunderstorm activity. Environmental conditions appear <br>favorable for gradual development of this system, and a tropical <br>depression is likely to form in a few days while it moves westward <br>to west-northwestward across the eastern and central tropical <br>Atlantic.<br>* Formation chance through 48 hours...medium...50 percent. <br>* Formation chance through 7 days...high...80 percent.<br><br />
+2. Central Subtropical Atlantic (AL99): <br>A non-tropical area of low pressure is currently located several <br>hundred miles to the northeast of Bermuda. The system is currently <br>producing winds up to storm force, and environmental conditions <br>could support some subtropical or tropical development over the next <br>several days as the system moves generally eastward, remaining over <br>the open waters of central Subtropical Atlantic. Additional <br>information on this system, including storm warnings, can be found <br>in High Seas Forecasts issued by the National Weather Service.<br>* Formation chance through 48 hours...low...10 percent. <br>* Formation chance through 7 days...low...20 percent.<br><br />
+<br>High Seas Forecasts issued by the National Weather Service<br>can be found under AWIPS header NFDHSFAT1, WMO header FZNT01 <br>KWBC, and online at ocean.weather.gov/shtml/NFDHSFAT1.php<br><br>Forecaster Kelly<br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## NHC Eastern North Pacific Outlook
+
+date: 2024-09-25, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_2d0_resize.gif" alt="Eastern North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_7d0_resize.gif" alt="Eastern North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOEP ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>500 AM PDT Wed Sep 25 2024<br><br>For the eastern North Pacific...east of 140 degrees west longitude:<br><br>1. Offshore of Southern Mexico (EP95): <br>Showers and thunderstorms continue to increase and become better <br>organized this morning in association with an area of low pressure, <br>partially associated with the remnants of John, located offshore of <br>southern Mexico. Ship observations in the area also depict pressure <br>falling within the area the last several hours. If these trends <br>continue, advisories will likely be initiated later this morning, <br>with watches and warnings likely issued for portions of Mexico. <br>Interests in southern Mexico should closely monitor the progress of <br>this system as it is expected to produce heavy rainfall with the <br>potential for flash flooding and mudslides over a large portion of <br>southern Mexico through this week. <br>* Formation chance through 48 hours...high...near 100 percent.<br>* Formation chance through 7 days...high...near 100 percent.<br><br />
+<br>Forecaster Kelly<br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2024-09-25, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0143 AM CDT Wed Sep 25 2024
+
+Valid 261200Z - 271200Z
+
+...NO CRITICAL AREAS...
+
+...Synopsis...
+Fire weather concerns are expected to be low on Thursday. Hurricane
+Helene will be absorbed into the upper-level flow across the eastern
+US with widespread rainfall anticipated. Across the central and
+western US, a ridge of high pressure will remain in place with
+generally light winds. As such, no overlap of critically dry fuels
+with Elevated/Critical conditions is expected.
+
+..Thornton.. 09/25/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -93,96 +195,6 @@ evening.
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-09-24, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Tue Sep 24 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Potential <br>Tropical Cyclone Nine, located over the northwestern Caribbean Sea.<br>* Formation chance through 48 hours...high...near 100 percent. <br>* Formation chance through 7 days...high...near 100 percent.<br><br>1. Eastern and Central Tropical Atlantic:<br>Shower and thunderstorm activity continues to show signs of <br>organization in association with a tropical wave located near the <br>Cabo Verde Islands. Environmental conditions appear favorable for <br>gradual development of this system, and a tropical depression is <br>likely to form in a few days while it moves westward to <br>west-northwestward across the eastern and central tropical Atlantic.<br>* Formation chance through 48 hours...medium...40 percent. <br>* Formation chance through 7 days...high...80 percent.<br><br />
-<br>Public Advisories on Potential Tropical Cyclone Nine are issued <br>under WMO header WTNT34 KNHC and under AWIPS header MIATCPAT4.<br>Forecast/Advisories on Potential Tropical Cyclone Nine are issued <br>under WMO header WTNT24 KNHC and under AWIPS header MIATCMAT4.<br><br>Forecaster Bucci<br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2024-09-24, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ACPN50 PHFO 241159<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-200 AM HST Tue Sep 24 2024<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-Approximately 750 miles southeast of Hilo, Hawaii:<br/>
-Thunderstorms have decreased in coverage northwest of a broad trough <br/>
-of low pressure located far southeast of Hawaii. Environmental <br/>
-conditions are expected to remain unfavorable for the development of <br/>
-this system.<br/>
-* Formation chance through 48 hours...low...near 0 percent.<br/>
-* Formation chance through 7 days...low...near 0 percent.<br/>
-<br/>
-Approximately 950 miles southwest of Honolulu, Hawaii:<br/>
-Numerous showers and enhanced thunderstorms are in association with <br/>
-an area of broad low pressure located far southwest of the Hawaiian <br/>
-Islands. As the low moves northwest the next couple of days, <br/>
-environmental conditions may become marginally conducive for the <br/>
-development of this system. <br/>
-* Formation chance through 48 hours...low...10 percent.<br/>
-* Formation chance through 7 days...low...10 percent.<br/>
-<br/>
-$$<br/>
-Forecaster Blood<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2024-09-24, from: Eastern Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ABPZ20 KNHC 241153<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 AM PDT Tue Sep 24 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Active Systems:<br/>
-The National Hurricane Center is issuing advisories on Tropical <br/>
-Storm John, located just inland near the coast of southern Mexico.<br/>
-<br/>
-Tropical cyclone formation is not expected over the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Bucci<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 
@@ -1864,41 +1876,4 @@ FORECASTER REINHART
 </pre> 
 
 <https://www.nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/222049.shtml>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2024-09-22, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0223 PM CDT Sun Sep 22 2024
-
-Valid 231200Z - 241200Z
-
-...NO CRITICAL AREAS...
-
-No changes. Fire weather concerns remain minimal on Monday.
-
-..Bentley.. 09/22/2024
-
-.PREV DISCUSSION... /ISSUED 0151 AM CDT Sun Sep 22 2024/
-
-...Synopsis...
-Fire weather concerns will be low on Monday across the CONUS. Across
-the central US, cool and wet conditions continue beneath mid-level
-troughing. Ridging will begin building across the western US with
-warming conditions. Though some dry conditions are expected to
-continue across the southwest, generally light winds will keep fire
-concerns low.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
