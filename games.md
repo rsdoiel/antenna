@@ -1,11 +1,111 @@
 ---
 title: games
-updated: 2024-09-25 05:50:31
+updated: 2024-09-26 06:50:41
 ---
 
 # games
 
-(date: 2024-09-25 05:50:31)
+(date: 2024-09-26 06:50:41)
+
+---
+
+## How to get in line to buy PlayStation’s 30th anniversary console bundles
+
+date: 2024-09-26, updated: 2024-09-26, from: Polygon Website
+
+The original PlayStation made its debut in Japan back in Dec. of 1994, meaning that very soon, the Sony console will be 30 years old. To celebrate, Sony is rolling out 30th anniversary editions of its current generation of hardware, including the PlayStation 5 Pro and regular PlayStation 5, all sporting the grey colors of [&#8230;] 
+
+<https://www.polygon.com/pre-order/456457/playstation-30th-anniversary-pro-bundle-controller-where-to-buy>
+
+---
+
+## What’s going to win Best Ongoing Game at The Game Awards?
+
+date: 2024-09-26, updated: 2024-09-26, from: Polygon Website
+
+One issue with handing out annual awards for games, and naming a game of the year, is that some of the most played games on the planet don’t slot neatly into an annual schedule at all. Many are enjoyed well past their year of release; in fact, many don’t reach their peak of quality or [&#8230;] 
+
+<https://www.polygon.com/awards/456638/ongoing-game-game-awards-predictions>
+
+---
+
+## Pokémon Go ‘Legendary Heroes’ choose a path quest steps: Sword Path or Shield Path?
+
+date: 2024-09-26, updated: 2024-09-26, from: Polygon Website
+
+“Legendary Heroes” is a Sword and Shield-themed Timed Research quest running until the start of Oct. 2024 in Pokémon Go. There is a choice to be made as part of this branching quest — the Sword Path or Shield Path — which impacts both the Collection Challenges and Incensed Pokémon you encounter during the event. [&#8230;] 
+
+<https://www.polygon.com/pokemon-go-guide/456648/legendary-heroes-choose-a-path-sword-path-shield-path>
+
+---
+
+## The StarCraft series is coming to Game Pass
+
+date: 2024-09-26, updated: 2024-09-26, from: Polygon Website
+
+During its Xbox Tokyo Game Show 2024 broadcast, Microsoft announced that it’s bringing some of the best real-time strategy campaigns of all time to Game Pass. StarCraft Remastered and StarCraft 2: Campaign Collection will be added to the subscription service on Nov. 5. StarCraft will be the second classic Blizzard franchise to join the Game [&#8230;] 
+
+<https://www.polygon.com/news/456659/starcraft-game-pass-release-date>
+
+---
+
+## Zelda: Echoes of Wisdom guides, tips and tricks
+
+date: 2024-09-26, updated: 2024-09-26, from: Polygon Website
+
+At first glance, The Legend of Zelda: Echoes of Wisdom looks like a straightforward successor to 2019’s Link’s Awakening remake, with its top-down perspective and toy aesthetic, but there’s a pretty significant twist that sets it apart from this, and other games in the series: this time, you’re playing as Zelda. The long-awaited change of [&#8230;] 
+
+<https://www.polygon.com/zelda-echoes-wisdom-guides/455052/tips-tricks-walkthroughs>
+
+---
+
+## An early hands-on with Like a Dragon: Pirate Yakuza in Hawaii was absurd and delightful
+
+date: 2024-09-26, updated: 2024-09-26, from: Polygon Website
+
+Waves crash against the hull of a ship that looks like it could be ripped right from the 17th century, gulls cry overhead, and at the helm is a figure dressed in a Hawaiian print shirt. It isn’t how you’d expect to be introduced to Goro Majima, perhaps one of the most popular characters in [&#8230;] 
+
+<https://www.polygon.com/impressions/456484/an-early-hands-on-with-like-a-dragon-pirate-yakuza-in-hawaii-was-absurd-and-delightful>
+
+---
+
+## Zelda: Echoes of Wisdom main story walkthrough
+
+date: 2024-09-25, updated: 2024-09-25, from: Polygon Website
+
+The Legend of Zelda: Echoes of Wisdom is a fairly linear game, with the quest marker instructing you where to go next constantly, like a glowing yellow beacon in a fog. That said, there are some split paths in the game where you have to decide which region to tackle first. The specific choices you [&#8230;] 
+
+<https://www.polygon.com/zelda-echoes-wisdom-guides/452120/main-story-walkthrough-best-order-eow>
+
+---
+
+## Jabul Ruins walkthrough in Zelda: Echoes of Wisdom
+
+date: 2024-09-25, updated: 2024-09-25, from: Polygon Website
+
+In The Legend of Zelda: Echoes of Wisdom, you’ll need to cleanse the Jabul Waters from the rifts opening up. After reuniting the River and Sea Zora and helping them fix the Stilled Upper Zora River, you’ll need to venture into the Jabul Ruins to settle things once and for all. This is either the [&#8230;] 
+
+<https://www.polygon.com/zelda-echoes-wisdom-guides/452417/jabul-ruins-walkthrough-dungeon-stilled-jabul-waters>
+
+---
+
+## Gerudo Sanctum walkthrough in Zelda: Echoes of Wisdom
+
+date: 2024-09-25, updated: 2024-09-25, from: Polygon Website
+
+After sorting out some issues in Gerudo Valley in The Legend of Zelda: Echoes of Wisdom, you’ll be able to jump straight into the rift, taking you to the Gerudo Sanctum. This is either the first or second non-tutorial dungeon you’ll run on your journey (either coming second to or being followed by the Zora’s [&#8230;] 
+
+<https://www.polygon.com/zelda-echoes-wisdom-guides/451934/gerudo-sanctum-walkthrough-chests-dungeon-map>
+
+---
+
+## Hyrule Castle Underground jail walkthrough in Zelda: Echoes of Wisdom
+
+date: 2024-09-25, updated: 2024-09-25, from: Polygon Website
+
+Hyrule Castle Underground is arguably the first dungeon of The Legend of Zelda: Echoes of Wisdom. Essentially the tutorial, you’ll assume control of Zelda, go through a crash course with the Tri Rod, and acquire several elementary echoes, the core mechanic of the game. Still, getting out of jail is never easy. Our Legend of [&#8230;] 
+
+<https://www.polygon.com/zelda-echoes-wisdom-guides/451075/hyrule-castle-underground-walkthrough-escape-jail>
 
 ---
 

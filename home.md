@@ -1,11 +1,140 @@
 ---
 title: home
-updated: 2024-09-25 05:50:33
+updated: 2024-09-26 06:50:42
 ---
 
 # home
 
-(date: 2024-09-25 05:50:33)
+(date: 2024-09-26 06:50:42)
+
+---
+
+## How to Get Rid of Aphids: 23 Easy and Natural Ways
+
+date: 2024-09-26, from: Yard Life blog
+
+<p>Aphids are small, sap-sucking insects that can wreak havoc on your garden, feeding on the tender leaves and stems of ... </p>
+<p class="read-more-container"><a title="How to Get Rid of Aphids: 23 Easy and Natural Ways" class="read-more button" href="https://ownyardlife.com/how-to-get-rid-of-aphids-23-easy-and-natural-ways/#more-19728" aria-label="Read more about How to Get Rid of Aphids: 23 Easy and Natural Ways">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-to-get-rid-of-aphids-23-easy-and-natural-ways/">How to Get Rid of Aphids: 23 Easy and Natural Ways</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/how-to-get-rid-of-aphids-23-easy-and-natural-ways/>
+
+---
+
+## This Cozy Black A-Frame Is Mountain Retreat Goals
+
+date: 2024-09-25, from: Sunset Magazine - Living in the West
+
+This Crestline, California, A-Frame has a moody and stylish design and is the quintessential California getaway. 
+
+<https://www.sunset.com/home-garden/home-tours/crestline-black-a-frame>
+
+---
+
+## Climate Week NYC — Secretary Ross discusses climate resilience through agriculture
+
+date: 2024-09-25, from: Calfifornia Dept. Aggriculture blog
+
+CDFA Secretary Karen Ross is at Climate Week NYC and participated today in a panel discussion co-hosted by Food Tank and the Natural Resources Defense Council. The discussion, &#8220;Building Healthy Soils, Reducing Food Waste, and Protecting Pollinators from Pesticides,&#8221; touched &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28244">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28244>
+
+---
+
+## Gladiator Garage Cabinets Review: We Tested This Tough Storage Unit for One Year
+
+date: 2024-09-25, from: Family Handyman Blog
+
+<p>Looking for a new garage storage system? We tested the Gladiator Flex Cabinet System IV for an entire year.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/gladiator-garage-cabinets-review/">Gladiator Garage Cabinets Review: We Tested This Tough Storage Unit for One Year</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/gladiator-garage-cabinets-review/>
+
+---
+
+## These Ridiculously Delicious Yakitori Recipes Will Have You Grilling This Fall
+
+date: 2024-09-25, from: Sunset Magazine - Living in the West
+
+Tsubaki, one of the West's best izakayas, cooks a California-inflected Japanese grilled feast with recipes fit for fall. 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/tsubaki-yakitori-japanese-grilling>
+
+---
+
+## Dehydrating Apples: How to Make Apple Chips in a Dehydrator, Oven or Air Fryer
+
+date: 2024-09-25, from: Homestead and Chil
+
+<p>Come learn how easy it is to dry apples in a dehydrator, oven or air fryer to create crispy apple chips - or soft chewy apple rings! These naturally-sweetened dried apples are a perfect healthy snack, and a great way to preserve your homegrown apple harvests.</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-make-apple-chips/">Dehydrating Apples: How to Make Apple Chips in a Dehydrator, Oven or Air Fryer</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<https://homesteadandchill.com/how-to-make-apple-chips/>
+
+---
+
+## Rental Revamp: This Designer Couple’s Vibrant Berlin Apartment Is Constantly Evolving
+
+date: 2024-09-25, from: Dwell
+
+The founders of Jäll & Tofta swap paint colors and bedroom arrangements on the regular as they reinvent their 1,076-square-foot Kreuzberg flat for their family of four. 
+
+<https://www.dwell.com/article/rental-revamp-jall-and-tofta-kreuzberg-apartment-renovation-berlin-8b2cfc6f>
+
+---
+
+## Alexander Girard’s Legendary Santa Fe Home Is on the Market for $3M
+
+date: 2024-09-25, from: Dwell
+
+The famed architect, designer, and artist’s pueblo revival–style home welcomed visits from Charles & Ray Eames and Georgia O’Keeffe. 
+
+<https://www.dwell.com/article/alexander-girard-home-santa-fe-new-mexico-real-estate-92eca5cb>
+
+---
+
+## How to Prepare Azaleas for Winter
+
+date: 2024-09-25, from: The Gardener's Path
+
+<p>Winter can be a challenging time for many plant species, including azaleas. Drying winds, repeated freezing and thawing, or extreme changes in temperature can cause significant damage or even kill your shrubs. Learn how to prepare your azaleas for winter to protect them from the cold weather in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/winterize-azaleas/">How to Prepare Azaleas for Winter</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/ornamentals/winterize-azaleas/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-09-25, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
+
+---
+
+## Disneyland’s Iconic It’s a Small World Ride Is Closing for Months
+
+date: 2024-09-25, from: Sunset Magazine - Living in the West
+
+Disneyland California's It's a Small World ride will close for upgrades and repairs, as well as preparations for the holiday season. 
+
+<https://www.sunset.com/travel/disneylands-its-a-small-world-ride-closure>
+
+---
+
+## Yosemite’s Historic Hotel Will Close Indefinitely
+
+date: 2024-09-25, from: Sunset Magazine - Living in the West
+
+The history Wawona Hotel property in Yosemite National Park will close for restoration on December 2. It was first established in 1856. 
+
+<https://www.sunset.com/travel/national-parks/yosemite-historic-hotel-will-close-indefinitely>
 
 ---
 
@@ -351,16 +480,6 @@ date: 2024-09-24, from: The Gardener's Path
 
 ---
 
-## Sunset.com Home Page
-
-date: 2024-09-24, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
-
----
-
 ## This Hotel Has the Wildest Plant Design—Here’s How to Get the Look at Home
 
 date: 2024-09-24, from: Sunset Magazine - Living in the West
@@ -498,16 +617,6 @@ date: 2024-09-23, from: Family Handyman Blog
  
 
 <https://www.familyhandyman.com/article/tiki-fire-pit-review/>
-
----
-
-## Yosemite’s Historic Hotel Will Close Indefinitely
-
-date: 2024-09-23, from: Sunset Magazine - Living in the West
-
-The history Wawona Hotel property in Yosemite National Park will close for restoration on December 2. It was first established in 1856. 
-
-<https://www.sunset.com/travel/national-parks/yosemite-historic-hotel-will-close-indefinitely>
 
 ---
 

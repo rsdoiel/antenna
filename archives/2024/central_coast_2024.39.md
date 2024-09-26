@@ -1,11 +1,139 @@
 ---
 title: central coast
-updated: 2024-09-25 05:50:28
+updated: 2024-09-26 06:50:37
 ---
 
 # central coast
 
-(date: 2024-09-25 05:50:28)
+(date: 2024-09-26 06:50:37)
+
+---
+
+## Moonlight Delight
+
+date: 2024-09-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-POD-Ruth-Lane.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Moonlight delight at Lane Farms near Santa Barbara." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-POD-Ruth-Lane.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-POD-Ruth-Lane.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-POD-Ruth-Lane.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-POD-Ruth-Lane.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-POD-Ruth-Lane.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-POD-Ruth-Lane.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-POD-Ruth-Lane.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-POD-Ruth-Lane.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-POD-Ruth-Lane.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-POD-Ruth-Lane.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-POD-Ruth-Lane.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-POD-Ruth-Lane.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091824-POD-Ruth-Lane.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/moonlight-delight/">Moonlight Delight</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/moonlight-delight/>
+
+---
+
+## County Panel to Decide Miramar Project, Skipping Montecito Planning Commission
+
+date: 2024-09-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Miramar-Housing-Rendering-Courtesy-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Affordable and market-rate housing units are planned at the site of the Rosewood Miramar Beach luxury hotel at 1555 S. Jameson Lane in Montecito." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Miramar-Housing-Rendering-Courtesy-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Miramar-Housing-Rendering-Courtesy-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Miramar-Housing-Rendering-Courtesy-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Miramar-Housing-Rendering-Courtesy-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Miramar-Housing-Rendering-Courtesy-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Miramar-Housing-Rendering-Courtesy-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Miramar-Housing-Rendering-Courtesy-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Miramar-Housing-Rendering-Courtesy-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Miramar-Housing-Rendering-Courtesy-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Thanks, but no thanks. The Montecito Planning Commission, your services are not needed. In a surprise, 11th-hour announcement, Lisa Plowman, director of Planning &#38; Development for Santa Barbara County, said [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/miramar-housing-project-headed-to-county-planning-commission-skipping-montecito-panel/">County Panel to Decide Miramar Project, Skipping Montecito Planning Commission</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/miramar-housing-project-headed-to-county-planning-commission-skipping-montecito-panel/>
+
+---
+
+## Carpinteria High Boys Water Polo Pulls Out 7-6 Win Over Santa Barbara High
+
+date: 2024-09-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-sb-water-polo-925.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-sb-water-polo-925.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-sb-water-polo-925.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-sb-water-polo-925.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-sb-water-polo-925.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-sb-water-polo-925.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-sb-water-polo-925.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-sb-water-polo-925.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-sb-water-polo-925.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-sb-water-polo-925.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Carpinteria High outlasted Santa Barbara High for a 7-6 victory in a local boys&#8217; water polo battle on Wednesday afternoon in Santa Barbara. The Warriors and Dons were evenly matched [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/carpinteria-high-boys-water-polo-pulls-out-7-6-win-over-santa-barbara-high/">Carpinteria High Boys Water Polo Pulls Out 7-6 Win Over Santa Barbara High</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/carpinteria-high-boys-water-polo-pulls-out-7-6-win-over-santa-barbara-high/>
+
+---
+
+## Planning Commission Tables Decision on Enrollment Increase at Laguna Blanca School
+
+date: 2024-09-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Laguna-Blanca-Laura-Bridley-DG-02JPG.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Laura Bridley, vice chair of the Santa Barbara Planning Commission, listens to Wednesday&#039;s discussion about Laguna Blanca School&#039;s application to increase its student enrollment. Bridley expressed her support for the plan." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Laguna-Blanca-Laura-Bridley-DG-02JPG.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Laguna-Blanca-Laura-Bridley-DG-02JPG.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Laguna-Blanca-Laura-Bridley-DG-02JPG.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Laguna-Blanca-Laura-Bridley-DG-02JPG.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Laguna-Blanca-Laura-Bridley-DG-02JPG.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Laguna-Blanca-Laura-Bridley-DG-02JPG.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Laguna-Blanca-Laura-Bridley-DG-02JPG.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Laguna-Blanca-Laura-Bridley-DG-02JPG.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-Laguna-Blanca-Laura-Bridley-DG-02JPG.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Santa Barbara County Planning Commission decided not to approve Laguna Blanca School&#8216;s request to increase its number of students after hearing resistance from neighbors in Hope Ranch. The Planning [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/county-planning-commission-tables-decision-on-enrollment-increase-at-laguna-blanca-school/">Planning Commission Tables Decision on Enrollment Increase at Laguna Blanca School</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/county-planning-commission-tables-decision-on-enrollment-increase-at-laguna-blanca-school/>
+
+---
+
+## Prep Flag Football Roundup: San Marcos Cruises to 31-0 Win Over Buena
+
+date: 2024-09-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/flag-roundup-925.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/flag-roundup-925.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/flag-roundup-925.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/flag-roundup-925.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/flag-roundup-925.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/flag-roundup-925.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/flag-roundup-925.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/flag-roundup-925.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/flag-roundup-925.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/flag-roundup-925.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A four-touchdown performance by Rio Chesluk fueled San Marcos girls flag football to a 31-0 road win over Buena on Wednesday night. With starting quarterback Victoria Aldana injured, the Royals [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-flag-football-roundup-san-marcos-cruises-to-31-0-win-over-buena/">Prep Flag Football Roundup: San Marcos Cruises to 31-0 Win Over Buena</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-flag-football-roundup-san-marcos-cruises-to-31-0-win-over-buena/>
+
+---
+
+## Sagarika Manian Powers Dos Pueblos Girls Golf to Win Over Righetti
+
+date: 2024-09-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-girls-golf-925.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-girls-golf-925.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-girls-golf-925.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-girls-golf-925.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-girls-golf-925.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-girls-golf-925.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-girls-golf-925.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-girls-golf-925.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-girls-golf-925.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/dp-girls-golf-925.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Dos Pueblos girls golf captured a non-league victory over Righetti on Wednesday afternoon at Glen Annie Golf Course. The Chargers combined for a team score of 231 while Righetti ended [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/sagarika-manian-powers-dos-pueblos-girls-golf-to-win-over-righetti/">Sagarika Manian Powers Dos Pueblos Girls Golf to Win Over Righetti</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sagarika-manian-powers-dos-pueblos-girls-golf-to-win-over-righetti/>
+
+---
+
+## Providence Girls Volleyball Sweeps Oak Grove in League Matchup
+
+date: 2024-09-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Providence girls volleyball kept their undefeated league season alive with a sweep of Oak Grove on Wednesday, 25-7, 25-14, 25-17. The Patriots, now 3-0 in league, got a strong offensive [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/providence-girls-volleyball-sweeps-oak-grove-in-league-matchup/">Providence Girls Volleyball Sweeps Oak Grove in League Matchup</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/providence-girls-volleyball-sweeps-oak-grove-in-league-matchup/>
+
+---
+
+## Man Wearing Body Armor Arrested in Santa Maria Courthouse Explosion
+
+date: 2024-09-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-Court-Bomb-scene-3-js.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Law enforcement officers and court staff stand outside the Santa Maria Court Complex building where an improved explosive device was detonated Wednesday morning, injuring six people." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-Court-Bomb-scene-3-js.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-Court-Bomb-scene-3-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-Court-Bomb-scene-3-js.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-Court-Bomb-scene-3-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-Court-Bomb-scene-3-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-Court-Bomb-scene-3-js.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-Court-Bomb-scene-3-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-Court-Bomb-scene-3-js.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-Court-Bomb-scene-3-js.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-Court-Bomb-scene-3-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-Court-Bomb-scene-3-js.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A man wearing body armor is accused of throwing an explosive device at the Santa Maria courthouse security entrance on Wednesday, the day he was scheduled to be arraigned on [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/man-wearing-body-armor-arrested-in-santa-maria-courthouse-explosion/">Man Wearing Body Armor Arrested in Santa Maria Courthouse Explosion</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/man-wearing-body-armor-arrested-in-santa-maria-courthouse-explosion/>
+
+---
+
+## Goleta Lemon Festival Squeezes In Fun to Celebrate City’s Zesty History
+
+date: 2024-09-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-Lemon-Festival-Pie-Eating-Contest-credit-SCCC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Pie-eating contests will be served up starting at noon Saturday and Sunday at the Goleta Lemon Festival at Girsh Park. Arrive early to see adults and kids vie to be chosen as contestants." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-Lemon-Festival-Pie-Eating-Contest-credit-SCCC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-Lemon-Festival-Pie-Eating-Contest-credit-SCCC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-Lemon-Festival-Pie-Eating-Contest-credit-SCCC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-Lemon-Festival-Pie-Eating-Contest-credit-SCCC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-Lemon-Festival-Pie-Eating-Contest-credit-SCCC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-Lemon-Festival-Pie-Eating-Contest-credit-SCCC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-Lemon-Festival-Pie-Eating-Contest-credit-SCCC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-Lemon-Festival-Pie-Eating-Contest-credit-SCCC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/1-Lemon-Festival-Pie-Eating-Contest-credit-SCCC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Had things worked out differently, the festival to be held in Goleta this weekend might have honored tobacco, walnuts or even lima beans. But tangy yellow lemons are touted as [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-lemon-festival-squeezes-in-fun-to-celebrate-citys-zesty-history/">Goleta Lemon Festival Squeezes In Fun to Celebrate City&#8217;s Zesty History</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-lemon-festival-squeezes-in-fun-to-celebrate-citys-zesty-history/>
+
+---
+
+## Bertrand George ‘Bert’ Morrow of Santa Maria, 1933-2024
+
+date: 2024-09-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="300" height="300" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/300-Bert-Morrow.jpg?fit=300%2C300&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Bert Morrow was an accomplished golfer, a Rancho Maria Men’s Golf Club member and a proud member of American Legion Post 0534 in Orcutt." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/300-Bert-Morrow.jpg?w=300&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/300-Bert-Morrow.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/300-Bert-Morrow.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/300-Bert-Morrow.jpg?fit=300%2C300&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/300-Bert-Morrow.jpg?fit=300%2C300&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Bertrand George “Bert” Morrow of Santa Maria, California, died peacefully in his home Sunday morning, September 15, 2024. He was 91. Bert was born September 4, 1933, in Los Angeles [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bertrand-george-bert-morrow-of-santa-maria-1933-2024/">Bertrand George ‘Bert’ Morrow of Santa Maria, 1933-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bertrand-george-bert-morrow-of-santa-maria-1933-2024/>
 
 ---
 

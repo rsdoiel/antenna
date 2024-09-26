@@ -1,11 +1,229 @@
 ---
 title: food
-updated: 2024-09-25 05:50:37
+updated: 2024-09-26 06:50:47
 ---
 
 # food
 
-(date: 2024-09-25 05:50:37)
+(date: 2024-09-26 06:50:47)
+
+---
+
+## New Law Requires More Kona To Be In Your Kona Coffee. Will It Hurt Farmers?
+
+date: 2024-09-26, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A new law requires Kona coffee to contain at least 51% Kona, but some worry the producers may suffer the brunt. 
+
+<https://sprudge.com/new-law-requires-more-kona-to-be-in-your-kona-coffee-will-it-hurt-farmers-255772.html>
+
+---
+
+## Spicy Beef Taco Salad
+
+date: 2024-09-26, from: Pepper Scale
+
+Spicy beef taco salad is one of those recipes that gets everyone in the family excited for meal time. It’s a mix of hot and cold: jalapeños (green or red) to kick start that fire and a cooling yogurt sauce to mellow it out again. ... <p class="read-more-container"><a title="Spicy Beef Taco Salad" class="read-more button" href="https://pepperscale.com/spicy-beef-taco-salad/#more-77937" aria-label="Read more about Spicy Beef Taco Salad">Read more</a></p> 
+
+<https://pepperscale.com/spicy-beef-taco-salad/>
+
+---
+
+## Spiced Pumpkin Rice Pudding
+
+date: 2024-09-26, from: Pepper Scale
+
+Rice pudding is a classic family favorite &#8211; a perfect fall and winter recipe that&#8217;s as feel-good as it is flavorful. And with the addition of cayenne pepper, we can add fantastically fiery to that list, too. Spiced pumpkin rice pudding brings all of this ... <p class="read-more-container"><a title="Spiced Pumpkin Rice Pudding" class="read-more button" href="https://pepperscale.com/spiced-pumpkin-rice-pudding/#more-92595" aria-label="Read more about Spiced Pumpkin Rice Pudding">Read more</a></p> 
+
+<https://pepperscale.com/spiced-pumpkin-rice-pudding/>
+
+---
+
+## Spicy Chipotle Baked Pumpkin
+
+date: 2024-09-26, from: Pepper Scale
+
+There&#8217;s nothing more warming than pumpkin in fall, that is until you add some chipotle of course! Spicy chipotle baked pumpkin offers a healthy side of smoky spice to go alongside your favorite meat dish. If you prefer a little less heat, you can hold back ... <p class="read-more-container"><a title="Spicy Chipotle Baked Pumpkin" class="read-more button" href="https://pepperscale.com/spicy-chipotle-baked-pumpkin/#more-57438" aria-label="Read more about Spicy Chipotle Baked Pumpkin">Read more</a></p> 
+
+<https://pepperscale.com/spicy-chipotle-baked-pumpkin/>
+
+---
+
+## Spicy Cinnamon Rolls
+
+date: 2024-09-26, from: Pepper Scale
+
+Now, this is a decadent dessert with just enough spice to warm the palate and enough sweetness to keep you coming back for more. Dare I say it? This simple spicy cinnamon rolls recipe results in a cinnamon bun even better than your favorite fast-food ... <p class="read-more-container"><a title="Spicy Cinnamon Rolls" class="read-more button" href="https://pepperscale.com/spicy-cinnamon-rolls/#more-78578" aria-label="Read more about Spicy Cinnamon Rolls">Read more</a></p> 
+
+<https://pepperscale.com/spicy-cinnamon-rolls/>
+
+---
+
+## Piri Piri Candied Bacon With Cheese
+
+date: 2024-09-26, from: Pepper Scale
+
+Piri piri candied bacon with cheese will send your favorite meat and spice lovers crazy. This is one decadent dish: creamy, sweet, spicy, salty, rich, meaty, and smooth. I could keep going with adjectives to describe this recipe, but the one word to sum it ... <p class="read-more-container"><a title="Piri Piri Candied Bacon With Cheese" class="read-more button" href="https://pepperscale.com/piri-piri-candied-bacon-with-cheese/#more-76490" aria-label="Read more about Piri Piri Candied Bacon With Cheese">Read more</a></p> 
+
+<https://pepperscale.com/piri-piri-candied-bacon-with-cheese/>
+
+---
+
+## Greek Chicken Meatballs and Orzo
+
+date: 2024-09-26, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2024/09/Greek-Chicken-Meatballs-and-Orzo-1200-6282.jpg"/></div>
+<p>Tasty Greek style chicken meatballs served over a Mediterranean orzo! Greek meatballs are one of my favourites and this is a chicken version that&#8217;s nice served over a Mediterranean style pasta. These chicken meatballs are filled with fresh mint, dill, parsley, lemon zest, oregano, and feta before being roasted in the oven. The pasta is...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/greek-chicken-meatballs-and-orzo/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/greek-chicken-meatballs-and-orzo/">Greek Chicken Meatballs and Orzo</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<https://www.closetcooking.com/greek-chicken-meatballs-and-orzo/>
+
+---
+
+## We Tried 5 of the Best Manual Coffee Grinders—These Are the 3 We Recommend
+
+date: 2024-09-25, from: Taste of Home
+
+<p>The best manual coffee grinder is great to take along on a trip or use at home for consistent grounds—no electricity required!</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-manual-coffee-grinders/">We Tried 5 of the Best Manual Coffee Grinders—These Are the 3 We Recommend</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/collection/best-manual-coffee-grinders/>
+
+---
+
+## Chili And Zucchini Bake
+
+date: 2024-09-25, from: Pepper Scale
+
+This chili and zucchini bake is a perfect summer side dish for all sorts of barbecue. Plus, it’s a great way to use up all those extra tomatoes and zucchini from the garden. The recipe calls for both chili powder (100% pepper, not the blend) ... <p class="read-more-container"><a title="Chili And Zucchini Bake" class="read-more button" href="https://pepperscale.com/chili-and-zucchini-bake/#more-78736" aria-label="Read more about Chili And Zucchini Bake">Read more</a></p> 
+
+<https://pepperscale.com/chili-and-zucchini-bake/>
+
+---
+
+## Spicy Smoky Pulled Chicken
+
+date: 2024-09-25, from: Pepper Scale
+
+The perfect topping for nachos, potato wedges, or even just in a bread bun, this smoky pulled chicken is a moist and flavorful dish with a very eatable level of heat. Any Mexican or Tex-Mex dish is made better with smoky pulled chicken. It&#8217;s a ... <p class="read-more-container"><a title="Spicy Smoky Pulled Chicken" class="read-more button" href="https://pepperscale.com/spicy-smoky-pulled-chicken/#more-77510" aria-label="Read more about Spicy Smoky Pulled Chicken">Read more</a></p> 
+
+<https://pepperscale.com/spicy-smoky-pulled-chicken/>
+
+---
+
+## Spicy Soy Sauce
+
+date: 2024-09-25, from: Pepper Scale
+
+Turn up that soy! Sure, soy sauce with a little wasabi thrown in adds some tasty heat to sushi, pot stickers, and other Asian dippables. But how about going the hot pepper route? It&#8217;s easy to do, and the heat hits in a totally different ... <p class="read-more-container"><a title="Spicy Soy Sauce" class="read-more button" href="https://pepperscale.com/spicy-soy-sauce/#more-6349" aria-label="Read more about Spicy Soy Sauce">Read more</a></p> 
+
+<https://pepperscale.com/spicy-soy-sauce/>
+
+---
+
+## Thanks To These Products, I Have an Actual Knife Care Routine
+
+date: 2024-09-25, from: Bon Appetet
+
+Plus a pepper grinder that revolutionized my late night cacio e pepe. 
+
+<https://www.bonappetit.com/story/knife-sharpener-pepper-grinder>
+
+---
+
+## Cumulus Cold Coffee Machine Review: Chilled Cold Brew in Seconds, No Ice Necessary
+
+date: 2024-09-25, from: Bon Appetet
+
+Face it: There is no cold-brew season any more. 
+
+<https://www.bonappetit.com/story/cumulus-cold-coffee-machine-review>
+
+---
+
+## Prismatic Christmas Decor Is Here! Where To Get Dazzling Iridescent Decorations in 2024
+
+date: 2024-09-25, from: Taste of Home
+
+<p>Prismatic Christmas decor is 2024's hottest holiday trend. Here's where to find the most dazzling iridescent decor.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/prismatic-christmas-decor/">Prismatic Christmas Decor Is Here! Where To Get Dazzling Iridescent Decorations in 2024</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/collection/prismatic-christmas-decor/>
+
+---
+
+## Best Air Fryer Deals to Shop if You Can't Wait for Prime Day
+
+date: 2024-09-25, from: Bon Appetet
+
+Amazon’s October 2024 Prime Day is coming, but we’ve scouted some early deals from our favorite brands like Instant, Ninja, and Cosori. 
+
+<https://www.bonappetit.com/story/amazon-prime-day-best-air-fryer-deals-october>
+
+---
+
+## ProfilePrint Signs AI Analysis Deal with Major Brazilian Coffee Exporters
+
+date: 2024-09-25, from: Daily Coffee News
+
+<div><img width="620" height="464" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1-620x464.jpg" class="attachment-large size-large wp-post-image" alt="ProfilePrint Orca with ingredients" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1-620x464.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1-300x224.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1-768x574.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Singapore-based coffee analysis provider ProfilePrint says it has signed agreements with two of the largest coffee exporters in Brazil, Cooxupé and Minasul. The group also rolled out its newest green... 
+
+<https://dailycoffeenews.com/2024/09/25/profileprint-signs-ai-analysis-deal-with-major-brazilian-coffee-exporters/>
+
+---
+
+## 29 Best Pumpkin Desserts to Bake This Fall
+
+date: 2024-09-25, from: Bon Appetet
+
+Like plush pumpkin bread, silky pumpkin chiffon pie, and nutty pumpkin-pecan chocolate chip cookies. 
+
+<https://www.bonappetit.com/gallery/best-pumpkin-desserts>
+
+---
+
+## Build-Outs Of Coffee: Sightsee In Charleston, SC
+
+date: 2024-09-25, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Sightsee in Charleston, South Carolina. 
+
+<https://sprudge.com/build-outs-of-coffee-sightsee-in-charleston-sc-255400.html>
+
+---
+
+## Design Details: Calming Grids at WatchHouse Coffee in London
+
+date: 2024-09-25, from: Daily Coffee News
+
+<div><img width="620" height="466" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1-620x466.jpg" class="attachment-large size-large wp-post-image" alt="WatchHouse Coffee London 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1-620x466.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1-768x577.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+
+<https://dailycoffeenews.com/2024/09/25/design-details-calming-grids-at-watchhouse-coffee-in-london/>
+
+---
+
+## The Scottish Play: Go Inside The Brand New Origin Coffee In Edinburgh
+
+date: 2024-09-25, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Origin Coffee in Edinburgh, Scotland. 
+
+<https://sprudge.com/the-scottish-play-go-inside-the-brand-new-origin-coffee-in-edinburgh-255130.html>
+
+---
+
+## Dice Coffee Ice Cubes are Coming in Hot
+
+date: 2024-09-25, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Dice Coffee Ice Cubes 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A Los Angeles-based startup called Dice Provisions is betting on consumer trends towards cold coffee and convenience with the launch of Dice Coffee Ice Cubes.&#160; Designed to keep cold coffee... 
+
+<https://dailycoffeenews.com/2024/09/25/dice-coffee-ice-cubes-are-coming-in-hot/>
 
 ---
 
@@ -38,6 +256,16 @@ date: 2024-09-25, from: The Fresh Cup
  
 
 <https://freshcup.com/should-you-add-a-food-program-to-your-cafe/>
+
+---
+
+## Brooklyn Beckham Has a New Hot Sauce
+
+date: 2024-09-25, from: Bon Appetet
+
+From pasta cook-offs with his soccer star dad to the launch of his hot sauce brand, Beckham is focusing on a career driven by his love of food. 
+
+<https://www.bonappetit.com/story/brooklyn-beckham-interview-hot-sauce>
 
 ---
 
@@ -103,7 +331,7 @@ date: 2024-09-24, from: Taste of Home
 
 date: 2024-09-24, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Celestia Collective Coffee Tucson inside" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Arizona-based roasting company Colibri &#38; Renard Coffee recently established its first brick-and-mortar location in Tucson, offering beans and brews inside a new collaborative business called the Celestia Collective. Operated by... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Celestia Collective Coffee Tucson inside" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Celestia-Collective-Coffee-Tucson-inside.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Arizona-based roasting company Colibri &#38; Renard Coffee recently established its first brick-and-mortar location in Tucson, offering beans and brews inside a new collaborative business called the Celestia Collective. Operated by... 
 
 <https://dailycoffeenews.com/2024/09/24/tucsons-colibri-renard-coffee-conjures-its-first-cafe-at-the-celestia-collective/>
 
@@ -113,7 +341,7 @@ date: 2024-09-24, from: Daily Coffee News
 
 date: 2024-09-24, from: Daily Coffee News
 
-<div><img width="620" height="390" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo-620x390.jpg" class="attachment-large size-large wp-post-image" alt="Marriott Marquis press photo" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo-620x390.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo-300x189.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo-150x94.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo-768x483.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo.jpg 1190w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Registration just opened for the 2025 United States National Coffee Association annual convention, which is taking place at the Marriott Marquis in Houston next March 6-8. The trade association... 
+<div><img width="620" height="390" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo-620x390.jpg" class="attachment-large size-large wp-post-image" alt="Marriott Marquis press photo" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo-620x390.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo-300x189.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo-150x94.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo-768x483.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Marriott-Marquis-press-photo.jpg 1190w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Registration just opened for the 2025 United States National Coffee Association annual convention, which is taking place at the Marriott Marquis in Houston next March 6-8. The trade association... 
 
 <https://dailycoffeenews.com/2024/09/24/2025-national-coffee-association-convention-heading-to-houston/>
 
@@ -143,7 +371,7 @@ date: 2024-09-24, from: The Sprudge
 
 date: 2024-09-24, from: Daily Coffee News
 
-<div><img width="620" height="466" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2-620x466.jpeg" class="attachment-large size-large wp-post-image" alt="green coffee warehouse 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2-620x466.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2-300x225.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2-150x113.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2-768x577.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>An importer will never tell you this, but don’t buy too much coffee. Most importers view trading as a zero-sum game where the objective is simple: win as much business... 
+<div><img width="620" height="466" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2-620x466.jpeg" class="attachment-large size-large wp-post-image" alt="green coffee warehouse 2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2-620x466.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2-300x225.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2-150x113.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2-768x577.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/green-coffee-warehouse-2.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>An importer will never tell you this, but don’t buy too much coffee. Most importers view trading as a zero-sum game where the objective is simple: win as much business... 
 
 <https://dailycoffeenews.com/2024/09/24/column-dont-buy-too-much-coffee/>
 

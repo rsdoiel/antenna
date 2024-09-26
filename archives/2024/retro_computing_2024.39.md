@@ -1,11 +1,34 @@
 ---
 title: retro computing
-updated: 2024-09-25 05:50:35
+updated: 2024-09-26 06:50:44
 ---
 
 # retro computing
 
-(date: 2024-09-25 05:50:35)
+(date: 2024-09-26 06:50:44)
+
+---
+
+## Hacker Successfully Runs Linux on a CPU from the Early ‘70s
+
+date: 2024-09-25, from: Linux Magazine
+
+<p>From the office of &quot;Look what I can do,&quot; Dmitry Grinberg was able to get Linux running on a processor that was created in 1971.</p> 
+
+<http://www.linux-magazine.com/Online/News/Hacker-Successfully-Runs-Linux-on-a-CPU-from-the-Early-70s>
+
+---
+
+## Amazon Parrot, Mister Blossom
+
+date: 2024-09-25, from: Lispmachine-org blog
+
+<p>My parrot, &#8220;Mister Blossom&#8221;, I have had since 2019 when his owner, my older sister, passed away suddenly.  I have taken care of Mr B (and my elderly father) since then.   My dad passed away this past February, leaving the parrot as my last family obligation.   I know that my sister had the bird for &#8230; </p>
+<p class="link-more"><a href="https://lisp-machine.org/amazon-parrot-mister-blossom/" class="more-link">Continue reading<span class="screen-reader-text"> "Amazon Parrot, Mister Blossom"</span></a></p>
+<p>The post <a href="https://lisp-machine.org/amazon-parrot-mister-blossom/">Amazon Parrot, Mister Blossom</a> appeared first on <a href="https://lisp-machine.org">LispMachine</a>.</p>
+ 
+
+<https://lisp-machine.org/amazon-parrot-mister-blossom/>
 
 ---
 

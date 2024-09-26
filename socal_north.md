@@ -1,11 +1,179 @@
 ---
 title: socal north
-updated: 2024-09-25 05:50:24
+updated: 2024-09-26 06:50:34
 ---
 
 # socal north
 
-(date: 2024-09-25 05:50:24)
+(date: 2024-09-26 06:50:34)
+
+---
+
+## California Proposition 35: Extending a tax to fund health care
+
+date: 2024-09-26, updated: 2024-09-26, from: The LAist
+
+The state measure would make a tax on medical providers permanent and would guarantee funding for some Medi-Cal services. 
+
+<https://laist.com/news/politics/2024-election-california-general-proposition-35>
+
+---
+
+## Habla el Dueño de la Casa de San Fernando Donde Fue el Lugar del Tiroteo en Mayo
+
+date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La mañana del 25 de mayo, Anahí Díaz, de San Fernando, se despertó ansiosa por terminar los preparativos para la fiesta de cumpleaños número 30 de su pareja. Esperaban a [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/25/habla-el-dueno-de-la-casa-de-san-fernando-donde-fue-el-lugar-del-tiroteo-en-mayo/">Habla el Dueño de la Casa de San Fernando Donde Fue el Lugar del Tiroteo en Mayo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/25/habla-el-dueno-de-la-casa-de-san-fernando-donde-fue-el-lugar-del-tiroteo-en-mayo/>
+
+---
+
+## Sobrevivientes del Tiroteo en la Ciudad de San Fernando Relatan la Traumática Experiencia
+
+date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Lo que se esperaba que fuera una noche divertida para una familia en la ciudad de San Fernando se convirtió en una experiencia desgarradora cuando un vecino de repente abrió [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/25/sobrevivientes-del-tiroteo-en-la-ciudad-de-san-fernando-relatan-la-traumatica-experiencia/">Sobrevivientes del Tiroteo en la Ciudad de San Fernando Relatan la Traumática Experiencia</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/25/sobrevivientes-del-tiroteo-en-la-ciudad-de-san-fernando-relatan-la-traumatica-experiencia/>
+
+---
+
+## Horóscopo
+
+date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Te has acostumbrado tanto a cuidar de las personas que no siempre eres consciente del sacrificio que implica. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/25/horoscopo-182/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/25/horoscopo-182/>
+
+---
+
+## EVENTOS Locales – Semana de 26 de septiembre, 2024
+
+date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Septiembre 27 Afterglow Mercado al Aire Libre Lawless Brewing Co. 5275 Craner Ae. North Hollywood 1 p.m. – 12 p.m. Únase a 25+ vendedores, artistas y creativos locales para [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/25/eventos-locales-semana-de-26-de-septiembre-2024/">EVENTOS Locales &#8211; Semana de 26 de septiembre, 2024 </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/25/eventos-locales-semana-de-26-de-septiembre-2024/>
+
+---
+
+## Homefulness, una Solución Comunitaria para la Falta de Vivienda, Llega a Los Ángeles
+
+date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>En todo California, grupos de personas que han experimentado la falta de vivienda se están alejando de la ayuda organizada por el estado para crear sus propias soluciones a la [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/25/homefulness-una-solucion-comunitaria-para-la-falta-de-vivienda-llega-a-los-angeles/">Homefulness, una Solución Comunitaria para la Falta de Vivienda, Llega a Los Ángeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/25/homefulness-una-solucion-comunitaria-para-la-falta-de-vivienda-llega-a-los-angeles/>
+
+---
+
+## Se Promulgó la Ley de Responsabilidad de Transparencia y Financiamiento para las Personas sin Hogar
+
+date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>La Ley de Responsabilidad de Transparencia y Financiamiento para las Personas sin Hogar de la asambleísta Luz Rivas, Proyecto de Ley de la Asamblea (AB) 799, fue promulgada por el [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/25/se-promulgo-la-ley-de-responsabilidad-de-transparencia-y-financiamiento-para-las-personas-sin-hogar/">Se Promulgó la Ley de Responsabilidad de Transparencia y Financiamiento para las Personas sin Hogar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/25/se-promulgo-la-ley-de-responsabilidad-de-transparencia-y-financiamiento-para-las-personas-sin-hogar/>
+
+---
+
+## Profesor de Música Reincorporado Después de Protesta Estudiantil en Daniel Pearl Magnet High School
+
+date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?w=1950&amp;ssl=1 1950w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los cánticos de “Los necesitamos de vuelta”, “Los estudiantes merecen aprender” y “La escuela en línea no es la escuela” resonaron afuera de las oficinas del Distrito Escolar Unificado de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/25/profesor-de-musica-reincorporado-despues-de-protesta-estudiantil-en-daniel-pearl-magnet-high-school/">Profesor de Música Reincorporado Después de Protesta Estudiantil en Daniel Pearl Magnet High School</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/25/profesor-de-musica-reincorporado-despues-de-protesta-estudiantil-en-daniel-pearl-magnet-high-school/>
+
+---
+
+## La Ópera de Los Ángeles Regresa a Sylmar con la Presentación de “Madame Butterfly” en la Noche de Apertura
+
+date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="585" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?fit=1024%2C585&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=300%2C171&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=1024%2C585&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=768%2C439&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=1536%2C878&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=1200%2C686&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=1568%2C896&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=400%2C229&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=706%2C403&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?fit=1024%2C585&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Cuando la gente piensa en la ópera, puede verse estereotipadamente como un entretenimiento reservado para la clase alta, para aquellos con trajes y vestidos caros que asisten a un teatro [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/25/la-opera-de-los-angeles-regresa-a-sylmar-con-la-presentacion-de-madame-butterfly-en-la-noche-de-apertura/">La Ópera de Los Ángeles Regresa a Sylmar con la Presentación de “Madame Butterfly” en la Noche de Apertura</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/25/la-opera-de-los-angeles-regresa-a-sylmar-con-la-presentacion-de-madame-butterfly-en-la-noche-de-apertura/>
+
+---
+
+## LA Opera Presenta Drácula en Español con Orquesta en Vivo en The United Theater on Broadway
+
+date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="803" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?fit=1024%2C803&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=300%2C235&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=1024%2C803&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=768%2C602&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=1536%2C1204&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=2048%2C1606&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=1200%2C941&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=1568%2C1229&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=2000%2C1568&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=400%2C314&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=706%2C554&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?fit=1024%2C803&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>(Los Ángeles) 23 de septiembre de 2024 — Este Halloween, la enormemente popular celebración anual de terror y música en vivo de LA Opera en el extraordinario United Theater on [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/25/la-opera-presenta-dracula-en-espanol-con-orquesta-en-vivo-en-the-united-theater-on-broadway/">LA Opera Presenta Drácula en Español con Orquesta en Vivo en The United Theater on Broadway</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/25/la-opera-presenta-dracula-en-espanol-con-orquesta-en-vivo-en-the-united-theater-on-broadway/>
+
+---
+
+## El Poder Curativo de la Comida Mexicana y Latina
+
+date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="682" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Chef-Nicole-Lee.jpg?fit=682%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Chef-Nicole-Lee.jpg?w=1706&amp;ssl=1 1706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Chef-Nicole-Lee.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Chef-Nicole-Lee.jpg?resize=682%2C1024&amp;ssl=1 682w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Chef-Nicole-Lee.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Chef-Nicole-Lee.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Chef-Nicole-Lee.jpg?resize=1365%2C2048&amp;ssl=1 1365w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Chef-Nicole-Lee.jpg?resize=1200%2C1801&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Chef-Nicole-Lee.jpg?resize=1568%2C2353&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Chef-Nicole-Lee.jpg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Chef-Nicole-Lee.jpg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Chef-Nicole-Lee.jpg?fit=682%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La gastronomía de México y otros países latinoamericanos es vasta. Los platos más tradicionales tienen raíces indígenas de miles de años de antigüedad, elaborados con alimentos integrales llenos de nutrientes. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/25/el-poder-curativo-de-la-comida-mexicana-y-latina/">El Poder Curativo de la Comida Mexicana y Latina</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/25/el-poder-curativo-de-la-comida-mexicana-y-latina/>
+
+---
+
+## ‘Old Glory’ oak tree now a LA County Historic Landmark
+
+date: 2024-09-25, updated: 2024-09-25, from: The LAist
+
+The tree, believed to be older than the United States itself, lives in Pico Canyon Park in Stevenson Ranch. 
+
+<https://laist.com/news/climate-environment/old-glory-oak-tree-now-a-la-county-historic-landmark>
+
+---
+
+## City of Santa Clarita Begins Upgrades at Old Orchard Park
+
+date: 2024-09-25, from: City of Santa Clarita
+
+<p>The City of Santa Clarita is excited to announce the start of construction for the upgrades and enhancements to Old Orchard Park in Valencia. Join the Santa Clarita City Council for the groundbreaking ceremony on Wednesday, October 2 at 10:00 a.m. at Old Orchard Park, located at 25023 Avenida Rotella. Originally developed in 1968 as [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/25/city-of-santa-clarita-begins-upgrades-at-old-orchard-park/">City of Santa Clarita Begins Upgrades at Old Orchard Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/25/city-of-santa-clarita-begins-upgrades-at-old-orchard-park/>
+
+---
+
+## Temperatures below normal with more fog this morning
+
+date: 2024-09-25, updated: 2024-09-25, from: The LAist
+
+It'll be warm, but still below normal for this time of year. 
+
+<https://laist.com/news/climate-environment/temperatures-below-normal-with-more-fog-this-morning>
 
 ---
 
@@ -21,7 +189,7 @@ Lawmakers want to open campus jobs to thousands of undocumented students. Some s
 
 ## Los Angeles, Orange County Water Agencies
 
-date: 2024-09-24, updated: 2024-09-24, from: The LAist
+date: 2024-09-24, updated: 2024-09-25, from: The LAist
 
 Water in California is complicated and governing water use is arguably even more complicated. Here's what you need to know when water agencies show up on the ballot. 
 

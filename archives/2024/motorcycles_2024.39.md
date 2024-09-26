@@ -1,11 +1,111 @@
 ---
 title: motorcycles
-updated: 2024-09-25 05:50:34
+updated: 2024-09-26 06:50:44
 ---
 
 # motorcycles
 
-(date: 2024-09-25 05:50:34)
+(date: 2024-09-26 06:50:44)
+
+---
+
+## I'm Convinced, the Leonart Lobo 450 Is the Bonneville 450 We’d Been Hoping For
+
+date: 2024-09-26, from: Ride Apart, Electric Motorcycle News
+
+Dapper styling that goes all in on the retro look.  
+
+<https://www.rideapart.com/news/735017/leonart-lobo-450-mini-triumph-bonneville/>
+
+---
+
+## Quit Being a Coward, Join The Honda X-ADV Scooter Revolution
+
+date: 2024-09-26, from: Ride Apart, Electric Motorcycle News
+
+Looks both badass and practical, but there's just one little problem... 
+
+<https://www.rideapart.com/news/735143/honda-xadv-2025-refresh-europe/>
+
+---
+
+## RedBull's Insane Romaniacs Race Will Have an EV Class Next Year, Now's My Time
+
+date: 2024-09-26, from: Ride Apart, Electric Motorcycle News
+
+I'm not the most skilled enduro rider, but an EV might help level the playing field. 
+
+<https://www.rideapart.com/news/735134/redbull-romaniacs-off-road-race-ev-adventure-classes/>
+
+---
+
+## Can the EV Stark Varg Handle the Hardest Off-Road Trail in the US?
+
+date: 2024-09-26, from: Ride Apart, Electric Motorcycle News
+
+Matt Spears is at it again with his crazy off-road shenanigans.  
+
+<https://www.rideapart.com/news/735018/stark-varg-hardest-trail-usa-video/>
+
+---
+
+## So MotoGP's Indian Round Isn't Happening Again, At Least Not Next Year
+
+date: 2024-09-26, from: Ride Apart, Electric Motorcycle News
+
+Dorna's now saying it'll happen in 2026. Yep, totally happening. 
+
+<https://www.rideapart.com/news/735136/motogp-indian-gp-buddh-circuit-2026-maybe/>
+
+---
+
+## Can-Am’s New Origin EV Is the Rivian R1S of Motorcycles, At Least I Think So
+
+date: 2024-09-26, from: Ride Apart, Electric Motorcycle News
+
+Let yourself be lured into a dystopian future where the roads are dirty, and your commute isn't too far.  
+
+<https://www.rideapart.com/news/735146/can-am-origin-electric-motorcycle-review/>
+
+---
+
+## Honda’s CB1000 Hornet Is Coming Soon, Might Be A Game Changer
+
+date: 2024-09-26, from: Ride Apart, Electric Motorcycle News
+
+Could this be the high-performance naked bike we’ve been waiting for from Honda?  
+
+<https://www.rideapart.com/news/735019/honda-cb1000-hornet-entering-production/>
+
+---
+
+## The Perfect Two Vehicle Garage is a New Royal Enfield Himalayan, and a 1970s Truck
+
+date: 2024-09-26, from: Ride Apart, Electric Motorcycle News
+
+Mice made me realize I don't want modernity. 
+
+<https://www.rideapart.com/news/734984/royal-enfield-himalayan-450-ford-f100-1974-perfect-garage/>
+
+---
+
+## Happy 10th Anniversary, NASCAR Playoff Format
+
+date: 2024-09-26, from: Kickin the Tires blog
+
+By Randy Covitz, Special to Kickin&#8217; the Tires NASCAR is celebrating an anniversary of sorts this season. It’s the 10th anniversary of its elimination-rounds playoff system and Kansas Speedway will&#8230;  
+
+<https://kickinthetires.net/nascar/happy-10th-anniversary-nascar-playoff-format/>
+
+---
+
+## You (Yes, You) Can Lift That Heavy Bike, And Here's How
+
+date: 2024-09-25, from: Ride Apart, Electric Motorcycle News
+
+If you're a smaller rider, you might think you can't do this. Nail the technique and you totally can! 
+
+<https://www.rideapart.com/news/735002/how-to-lift-your-motorcycle/>
 
 ---
 

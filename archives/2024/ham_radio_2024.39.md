@@ -1,11 +1,43 @@
 ---
 title: ham radio
-updated: 2024-09-25 05:50:27
+updated: 2024-09-26 06:50:37
 ---
 
 # ham radio
 
-(date: 2024-09-25 05:50:27)
+(date: 2024-09-26 06:50:37)
+
+---
+
+## Helene - Storm Updates
+
+date: 2024-09-26, from: Amateur Radio Relay League News
+
+<p><strong>Thursday, September 26, 2024, 9:00 AM Eastern Update:</strong></p><p>Hurricane Helene has been upgraded to a Category 2 storm by the National Hurricane Center. It is expected to strengthen and bring catastrophic winds and storm surge to the northeastern Gulf coast. At 8:00 AM Thursday morning, Helene was located about 320 miles from Tampa, Florida, with winds of 100 miles per hour (mph). </p><p>The storm is moving to...</p> 
+
+<http://www.arrl.org/news/view/helene-storm-updates>
+
+---
+
+## ARRL Systems Service Disruption
+
+date: 2024-09-25, from: Amateur Radio Relay League News
+
+<p><b>Updated 9/25/24</b></p><p><b></b></p><b></b><p>Two major systems that have not been returned to service include DXCC and our accounting system. Most other systems have returned to full service, and we are working to clean up the stragglers.</p><p></p><p><b>DXCC</b>®<b> System</b></p><p><b></b></p><b></b><p>Our DXCC software was written some 20 years ago.  Although an attempt was made 8 years ago to reprogram it to function in a newer environment, that effort was unsuccessful, so t...</p> 
+
+<http://www.arrl.org/news/view/arrl-systems-service-disruption>
+
+---
+
+## Diagnosing and resuscitating a set of DJI drone batteries
+
+date: 2024-09-25, from: EDN Blog
+
+<img width="1300" height="1027" src="https://www.edn.com/wp-content/uploads/image2.jpeg?fit=1300%2C1027" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/image2.jpeg?w=1300 1300w, https://www.edn.com/wp-content/uploads/image2.jpeg?w=300 300w, https://www.edn.com/wp-content/uploads/image2.jpeg?w=768 768w, https://www.edn.com/wp-content/uploads/image2.jpeg?w=1024 1024w" sizes="(max-width: 1300px) 100vw, 1300px" /><p>Do you remember to regularly recharge the batteries for your devices? No? Then sooner or later, they’re destined to turn into “bricks”.</p>
+<p>The post <a href="https://www.edn.com/diagnosing-and-resuscitating-a-set-of-dji-drone-batteries/" data-wpel-link="internal">Diagnosing and resuscitating a set of DJI drone batteries</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/diagnosing-and-resuscitating-a-set-of-dji-drone-batteries/>
 
 ---
 
@@ -23,7 +55,7 @@ date: 2024-09-24, from: Amateur Radio Relay League News
 
 date: 2024-09-24, from: EDN Blog
 
-<img width="2700" height="1800" src="https://www.edn.com/wp-content/uploads/Hero-iamge-Sehat-Sutarja.jpg?fit=2700%2C1800" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-iamge-Sehat-Sutarja.jpg?w=2700 2700w, https://www.edn.com/wp-content/uploads/Hero-iamge-Sehat-Sutarja.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-iamge-Sehat-Sutarja.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-iamge-Sehat-Sutarja.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-iamge-Sehat-Sutarja.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-iamge-Sehat-Sutarja.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Hero-iamge-Sehat-Sutarja.jpg?w=1900 1900w" sizes="(max-width: 2700px) 100vw, 2700px" /><p>Sehat Sutardja, co-founder of Marvell and Silicon Box and backer of several semiconductor startups, passed away on 18 September 2024.</p>
+<img width="2700" height="1800" src="https://www.edn.com/wp-content/uploads/Hero-iamge-Sehat-Sutarja.jpg?fit=2700%2C1800" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-iamge-Sehat-Sutarja.jpg?w=2700 2700w, https://www.edn.com/wp-content/uploads/Hero-iamge-Sehat-Sutarja.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-iamge-Sehat-Sutarja.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-iamge-Sehat-Sutarja.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-iamge-Sehat-Sutarja.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-iamge-Sehat-Sutarja.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Hero-iamge-Sehat-Sutarja.jpg?w=1900 1900w" sizes="(max-width: 2700px) 100vw, 2700px" /><p>Sehat Sutardja, co-founder of Marvell and Silicon Box and backer of several semiconductor startups, passed away on 18 September 2024.</p>
 <p>The post <a href="https://www.edn.com/the-life-and-chip-works-of-marvell-co-founder-sehat-sutardja/" data-wpel-link="internal">The life and chip works of Marvell co-founder Sehat Sutardja</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

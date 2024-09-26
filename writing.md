@@ -1,11 +1,92 @@
 ---
 title: writing
-updated: 2024-09-25 05:50:31
+updated: 2024-09-26 06:50:40
 ---
 
 # writing
 
-(date: 2024-09-25 05:50:31)
+(date: 2024-09-26 06:50:40)
+
+---
+
+## 2024 Prix Aurora-Boréal Winners
+
+date: 2024-09-25, from: Locus Magazine
+
+<p></p>
+<p>Winners of the French-language Prix Aurora-Boréal were awarded on May 22, 2024 at the Congrès Boréal in Québec City, Canada.</p>
+<p><strong>Best Novel</strong></p>
+<ul>
+<li><strong>WINNER: La Voie de l’apprenti</strong>, Jean-Sébastien Drouin (Nux &#38; Nox)</li>
+</ul>
+<ul>
+<li><strong>Dissident</strong>, Jean-Pierre Gorkynian (mémoire d’encrier)</li>
+<li><strong>Inmortem</strong>, Mireille LaCombe (Luzerne Rousse)</li>
+<li><strong>Sombre Chaos</strong>, Jennifer Pelletier (Édiligne)</li>
+<li><strong>Couleur de l&#8217;obscurité</strong>, Maxim Poulin and Frédéric St-Jean (Luzerne Rousse)</li>
+</ul>
+<p><strong>Best Short Story
+</strong></p>
+<ul>
+<li><strong>WINNER:</strong> &#8220;Ce qu’on laisse derrière&#8221;, </li></ul> <a href="https://locusmag.com/2024/09/2024-prix-aurora-boreal-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/09/2024-prix-aurora-boreal-winners/>
+
+---
+
+## Screenwriting Role Models: John Carpenter & Debra Hill
+
+date: 2024-09-25, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/screenwriting-role-models-john-carpenter-debra-hill" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Debra%20Hill.jpg" alt="Debra Hill on Halloween set" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span style="color: #000000;">Many horror fans associate the name John Carpenter with the</span><em><span style="color: #000000;"> Halloween </span></em><span style="color: #000000;">franchise and are well aware of his numerous duties on his classic films as a director, screenwriter, music composer and producer.&nbsp;</span></p> 
+
+<https://blog.finaldraft.com/screenwriting-role-models-john-carpenter-debra-hill>
+
+---
+
+## Inaugural Andromeda Award
+
+date: 2024-09-25, from: Locus Magazine
+
+<p>The United Talent Agency (UTA) and Conville &#38; Walsh (C&#38;W) have announced the inaugural Andromeda Award. The contest aims to &#8220;seek out and support the best new emerging science fiction and fantasy writers.&#8221;</p>
+<p>The contest is open to anyone based in the UK or USA with a full length SF/F novel. The first-place author will be awarded $5,000, second place $3,000 and a spot in Curtis Brown Creative’s nine-week Writing  <a href="https://locusmag.com/2024/09/inaugural-andromeda-award/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/inaugural-andromeda-award/>
+
+---
+
+## 🐣 The sky is not falling
+
+date: 2024-09-25, from: Interesting, a blog on writing
+
+Numbers and the stories told about the numbers. 
+
+<https://inneresting.substack.com/p/the-sky-is-not-falling>
+
+---
+
+## A Song to Drown Rivers by Ann Liang: Review by Archita Mittra
+
+date: 2024-09-25, from: Locus Magazine
+
+<p><strong>A Song to Drown Rivers</strong>, Ann Liang (St. Martin’s Press 978-1-25028-946-9, $32.00, 336pp, hc) October 2024.</p>
+<p>Inspired by ancient Chinese legends, <strong>A Song to Drown Rivers </strong>by Ann Liang is an intrigu­ing historical fantasy novel that tempers the logic of trope-driven storytelling with a mature understanding of the futility of war. As a folkloric retelling of the tragic story of Xi Shi, one of the ‘‘Four Great Beauties’’ of  <a href="https://locusmag.com/2024/09/a-song-to-drown-rivers-by-ann-liang-review-by-archita-mittra/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/a-song-to-drown-rivers-by-ann-liang-review-by-archita-mittra/>
+
+---
+
+## New & Notable
+
+date: 2024-09-25, from: Locus Magazine
+
+<p></p>
+<p>Paolo Bacigalupi, <strong>Navola </strong>(Knopf 7/24) Bacigalupi returns with his first new novel in seven years, this time an epic fantasy inspired by Renaissance Flor­ence, first in a duology about a young man from a powerful family attempting to navigate cutthroat politics and affairs of the heart. “It’s undeniably new territory for Bacigalupi, and it’s a pleasure to report that his most impressive narrative strengths have ported over intact.” [Gary K.  <a href="https://locusmag.com/2024/09/new-notable-2/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/new-notable-2/>
 
 ---
 
@@ -31,6 +112,20 @@ date: 2024-09-24, from: Locus Magazine
 <p>Writing judges were Valerie Valdes and C.L. Polk, and art judges were </p></div> <a href="https://locusmag.com/2024/09/2024-dream-foundry-award-winners/" class="read-more">...Read More </a> 
 
 <https://locusmag.com/2024/09/2024-dream-foundry-award-winners/>
+
+---
+
+## Screenwriter Spotlight: Writing Horror with Peter Dukes
+
+date: 2024-09-24, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/screenwriter-spotlight-writing-horror-with-peter-dukes" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Peter%20Dukes.jpg" alt="Screenwriter Spotlight: Writing Horror with Peter Dukes" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p style="font-weight: bold;"><span style="color: #000000; font-family: Helvetica, Arial, sans-serif;">Being a successful screenwriter means working hard, and Peter Dukes is testament to this. The writer of several horror movies including<em> The Memory of the Heart</em>, <em>Portal</em>, <em>Escape Room</em> and <em>Tales of Horror&nbsp;</em>shares his advice for how to break through in your career and most importantly stay in the game.</span></p> 
+<p style="font-weight: bold;">How did your career get started?</p> 
+
+<https://blog.finaldraft.com/screenwriter-spotlight-writing-horror-with-peter-dukes>
 
 ---
 

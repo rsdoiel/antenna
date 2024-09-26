@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2024-09-25 05:50:32
+updated: 2024-09-26 06:50:42
 ---
 
 # libraries
 
-(date: 2024-09-25 05:50:32)
+(date: 2024-09-26 06:50:42)
+
+---
+
+## Innovation and Technology in Peer Review: Some User Perspectives
+
+date: 2024-09-26, from: Scholarly Kitchen
+
+<p>In today’s Peer Review Week post we hear perspectives on innovation and technology in peer review from a diverse group of users from different countries and disciplines.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/09/26/innovation-and-technology-in-peer-review-some-user-perspectives/">Innovation and Technology in Peer Review: Some User Perspectives</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/09/26/innovation-and-technology-in-peer-review-some-user-perspectives/>
 
 ---
 
@@ -37,7 +49,7 @@ date: 2024-09-24, from: Association of Research Libraries News
 
 date: 2024-09-24, from: Association of Research Libraries News
 
-<p>Last Updated on September 24, 2024, 9:01 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 24 &#124; Wednesday, September 25 &#124; Thursday,...</p>
+<p>Last Updated on September 25, 2024, 12:14 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 24 &#124; Wednesday, September 25 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-23-26/">Day in Review (September 23–26)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

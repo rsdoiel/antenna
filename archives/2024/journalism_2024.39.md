@@ -1,11 +1,372 @@
 ---
 title: journalism
-updated: 2024-09-25 05:50:32
+updated: 2024-09-26 06:50:41
 ---
 
 # journalism
 
-(date: 2024-09-25 05:50:32)
+(date: 2024-09-26 06:50:41)
+
+---
+
+## Classifieds – September 26, 2024
+
+date: 2024-09-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/26/classifieds-september-26-2024/">Classifieds &#8211; September 26, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/26/classifieds-september-26-2024/>
+
+---
+
+## It doesn’t matter who pays on the first date
+
+date: 2024-09-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>If you’re testing whether or not he foots the bill, you’re missing the point entirely.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/26/it-doesnt-matter-who-pays-on-the-first-date/">It doesn’t matter who pays on the first date</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/26/it-doesnt-matter-who-pays-on-the-first-date/>
+
+---
+
+## Joker, meet Overton
+
+date: 2024-09-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p> 'Joker: Folie à Deux' is the furthest thing from a normal blockbuster — and that’s a very good sign for Hollywood.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/26/joker-meet-overton/">Joker, meet Overton</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/26/joker-meet-overton/>
+
+---
+
+## Art, activism, espresso shine at ‘Grounds for Change’
+
+date: 2024-09-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC’s Arts in Action event hosted talks with renowned communicators and artists.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/26/art-activism-espresso-shine-at-grounds-for-change/">Art, activism, espresso shine at ‘Grounds for Change’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/26/art-activism-espresso-shine-at-grounds-for-change/>
+
+---
+
+## ‘SoCal Asian’ TikTok is more than just cringe
+
+date: 2024-09-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Social media perpetuating tired monolithic stereotypes does more harm than good.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/26/socal-asian-tiktok-is-more-than-just-cringe/">‘SoCal Asian’ TikTok is more than just cringe</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/26/socal-asian-tiktok-is-more-than-just-cringe/>
+
+---
+
+## Software access issues impact Viterbi students
+
+date: 2024-09-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A licensing issue with the design program Siemens NX disrupted mechanical engineering classes and projects.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/26/software-access-issues-impact-viterbi-students/">Software access issues impact Viterbi students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/26/software-access-issues-impact-viterbi-students/>
+
+---
+
+## Soccer hopes to rewrite history against Big Ten foes
+
+date: 2024-09-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans host Minnesota and Wisconsin in new bitter rival Midwestern battles.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/26/soccer-hopes-to-rewrite-history-against-big-ten-foes/">Soccer hopes to rewrite history against Big Ten foes</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/26/soccer-hopes-to-rewrite-history-against-big-ten-foes/>
+
+---
+
+## Student Health promotes immunizations before flu season
+
+date: 2024-09-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Vaccinations are available at the health centers, USC Pharmacies and pop-up clinics on campus.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/26/student-health-promotes-immunizations-before-flu-season/">Student Health promotes immunizations before flu season</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/26/student-health-promotes-immunizations-before-flu-season/>
+
+---
+
+## D’Anton Lynn’s defense gives me hope
+
+date: 2024-09-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC football’s new defensive coordinator has elevated the unit in ways unseen in past years.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/26/danton-lynns-defense-gives-me-hope/">D’Anton Lynn’s defense gives me hope</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/26/danton-lynns-defense-gives-me-hope/>
+
+---
+
+## UCLA women’s soccer returns to Westwood for series of Big Ten faceoffs
+
+date: 2024-09-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Sept. 26 at 12:41 a.m.</em>
+A Big Ten kickoff on home turf is just around the corner.
+No. 18 UCLA women’s soccer (8-2-1, 3-0, Big Ten) arrives in Westwood for a series of home matches at Wallis Annenberg Stadium against Wisconsin (5-2-2, 1-1-1, Big Ten) on Thursday and Minnesota (8-1-1, 2-1-0, Big Ten) on Sunday. 
+
+<https://dailybruin.com/2024/09/25/ucla-womens-soccer-returns-to-westwood-for-series-of-big-ten-faceoffs/>
+
+---
+
+## Q&A: Darnell Hunt discusses campus protests, challenges facing students
+
+date: 2024-09-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Sept. 26 at 12:03 a.m.</em>
+Interim Chancellor Darnell Hunt answered questions Friday about UCLA’s response to protests, leadership transitions and the move to the Big Ten. 
+
+<https://dailybruin.com/2024/09/25/qa-darnell-hunt-discusses-campus-protests-challenges-facing-students/>
+
+---
+
+## Multiple Bruins score debut goals in UCLA men’s soccer’s Westmont win
+
+date: 2024-09-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+It was anyone can cook night at Wallis Annenberg Stadium.
+In UCLA men&#8217;s soccer&#8217;s (4-2-3, 1-1-1 Big Ten) victory over Westmont (3-1-3) on Tuesday night, it used 21 different players &#8211; the most this season. 
+
+<https://dailybruin.com/2024/09/25/multiple-bruins-score-debut-goals-in-ucla-mens-soccers-westmont-win/>
+
+---
+
+## Despite historically late kickoff, football is undeterred by ‘Big Ten After Dark’
+
+date: 2024-09-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Sept. 26 at 12:37 a.m.</em>
+The Bruins will have their latest start time on the West Coast in 34 years Saturday.
+And at Spaulding Field, UCLA football is using this week to prepare for its 8 p.m. 
+
+<https://dailybruin.com/2024/09/25/despite-historically-late-kickoff-football-is-undeterred-by-big-ten-after-dark/>
+
+---
+
+## UCLA women’s volleyball to begin Big Ten campaign with matchup against Nebraska
+
+date: 2024-09-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Sept. 26 at 12:33 a.m.</em>
+Big Ten volleyball is finally here – and the Bruins are traveling into the belly of the beast. 
+
+<https://dailybruin.com/2024/09/25/ucla-womens-volleyball-to-begin-big-ten-campaign-with-matchup-against-nebraska/>
+
+---
+
+## Former men’s volleyball coach John Speraw departs UCLA after making history
+
+date: 2024-09-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Sept. 26 at 12:28 a.m.</em>
+Former UCLA men’s volleyball head coach John Speraw departed from the program, leaving UCLA to take on the role as the next CEO and president of USA Volleyball. 
+
+<https://dailybruin.com/2024/09/25/former-mens-volleyball-coach-john-speraw-departs-ucla-after-making-history/>
+
+---
+
+## A Matador Night to Remember
+
+date: 2024-09-25, from: The Sundail (CSUN Student Newspaper)
+
+The University Student Union’s Matador Nights took place on Friday, Sept. 13, highlighted by electrifying DJ sets and a fast time on the Round Up ride. The anticipated students-only event... 
+
+<https://sundial.csun.edu/185336/news/a-matador-night-to-remember/>
+
+---
+
+## How to Keep Your Bikes, Scooters and Boards Secure Amidst a Trend of Thefts on Campus
+
+date: 2024-09-25, from: The Sundail (CSUN Student Newspaper)
+
+Between Sunday, August 25, and Thursday, August 29, five bicycles and one electric scooter were stolen on campus. Some students have begun posting to Reddit to share their experiences with... 
+
+<https://sundial.csun.edu/185321/news/how-to-keep-your-bikes-scooters-and-boards-secure-amidst-a-trend-of-thefts-on-campus/>
+
+---
+
+## UCPD searches for suspect of reported arson, aggravated assault near Medical Plaza
+
+date: 2024-09-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Sept. 25 at 12:59 p.m.</em>
+UCPD is searching for an individual suspected of arson and aggravated assault in UCLA’s Medical Plaza early Wednesday morning. 
+
+<https://dailybruin.com/2024/09/25/ucpd-searches-for-suspect-of-reported-arson-aggravated-assault-near-medical-plaza/>
+
+---
+
+## Historic Wallis Annenberg House has a new resident
+
+date: 2024-09-25, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Encompassed by a thick wall of trees, President Tom Stritikus stood before his emerald green side door wearing orange-and-black-striped Adidas. Stritikus is the eighth of Occidental’s 17 presidents to live at Occidental’s Wallis Annenberg House, according to Publications Editor of Occidental Magazine, Dick Anderson. The Monterey Revival style house was built in 1932 by architect Myron Hunt, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/features/2024/09/25/historic-wallis-annenberg-house-has-a-new-resident/2912920">Historic Wallis Annenberg House has a new resident</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/features/2024/09/25/historic-wallis-annenberg-house-has-a-new-resident/2912920>
+
+---
+
+## Max Chun ’19 wins Pulitzer for community-focused coverage of Santa Cruz storms
+
+date: 2024-09-25, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>This year, Lookout Santa Cruz, a local online news outlet in Santa Cruz with only 14 employees, including general-assignment correspondent and Occidental alumni Max Chun &#8217;19, won journalism’s most coveted award — the Pulitzer Prize — for Breaking News Reporting. Chun said winning a Pulitzer only five years after completing his undergraduate degree was no easy feat and that during college, he had [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/09/25/max-chun-19-wins-pulitzer-for-community-focused-coverage-of-santa-cruz-storms/2912983">Max Chun &#8217;19 wins Pulitzer for community-focused coverage of Santa Cruz storms</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/09/25/max-chun-19-wins-pulitzer-for-community-focused-coverage-of-santa-cruz-storms/2912983>
+
+---
+
+## Fraternities and sororities open rush to Fall first years
+
+date: 2024-09-25, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>As of this academic year, first-year students at Occidental College can now rush fraternities and sororities during their first semester of college. This move comes with other structural changes to fraternities and sororities on campus. Assistant Director of Student Involvement Steve Eulenberg, who works with Greek-affiliated organizations, said the change was made in order to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/09/25/fraternities-and-sororities-open-rush-to-fall-first-years/2912974">Fraternities and sororities open rush to Fall first years</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/09/25/fraternities-and-sororities-open-rush-to-fall-first-years/2912974>
+
+---
+
+## Opinion: Finding balance in a culture of substance use
+
+date: 2024-09-25, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Many of us grew up watching our parents order a glass of wine at a restaurant or sit down with a bottle of beer at the end of a long day. Drinking is not only normal — it’s expected. The use of alcohol and other substances such as marijuana have been integrated into our society, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/opinions/2024/09/25/opinion-finding-balance-in-a-culture-of-substance-use/2912925">Opinion: Finding balance in a culture of substance use</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/opinions/2024/09/25/opinion-finding-balance-in-a-culture-of-substance-use/2912925>
+
+---
+
+## Mahjong Club provides students an opportunity to immerse themselves in Chinese culture
+
+date: 2024-09-25, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Mahjong, the Chinese tile game from the 19th century, has made its way to campus. Kelly Shen (sophomore) and Alison Wong (senior) said they decided to start Mahjong Club as a way to bring their community closer together. “After coming to Occidental, I met a group of friends who liked board games, so I thought it would [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/09/25/mahjong-club-provides-students-an-opportunity-to-immerse-themselves-in-chinese-culture/2912938">Mahjong Club provides students an opportunity to immerse themselves in Chinese culture</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/culture/2024/09/25/mahjong-club-provides-students-an-opportunity-to-immerse-themselves-in-chinese-culture/2912938>
+
+---
+
+## Wolak and Greene tee off Occidental’s golf season with strong rounds
+
+date: 2024-09-25, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Owen Wolak Occidental’s men’s and women’s golf team kicked off the 2024-2025 season Sept. 9-10 by competing in the ​​California State Intercollegiate tournament hosted by California Lutheran University at Olivia Links Country Club. The men’s team placed third and the women’s team placed seventh. Men’s team member Owen Wolak (sophomore) individually placed ninth, shooting one [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/09/25/wolak-and-greene-tee-off-occidentals-golf-season-with-strong-rounds/2912953">Wolak and Greene tee off Occidental’s golf season with strong rounds</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/sports/2024/09/25/wolak-and-greene-tee-off-occidentals-golf-season-with-strong-rounds/2912953>
+
+---
+
+## Feast Garden focuses on sustainability and community at Occidental
+
+date: 2024-09-25, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Tucked away on Occidental’s campus is an organic garden, a brood of chickens and a dedication to community and sustainability. This green space is the Food, Energy and Sustainability Team (FEAST) Garden, located below Occidental’s Urban and Environmental Planning (UEP) House. Frankie Vega (senior) is the director of FEAST as well as the organization&#8217;s Associated [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/09/25/feast-garden-focuses-on-sustainability-and-community-at-occidental/2912948">Feast Garden focuses on sustainability and community at Occidental</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/culture/2024/09/25/feast-garden-focuses-on-sustainability-and-community-at-occidental/2912948>
+
+---
+
+## SEIU Local 721, college admin and ROSE representatives respond to FAQs on student union negotiations
+
+date: 2024-09-25, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Last semester, Occidental student workers voted in an election to join Service Employees International Union (SEIU) Local 721, with pro-union votes of 85% in one unit and 87% in the other. The Occidental asked questions to SEIU Local 721 via email; Nora Kahn, the College’s general counsel via email; organizing committee members of Rising Occidental Student Employees (ROSE) Emma Galbraith (senior) and Siena Cawrse [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/09/25/seiu-local-721-college-admin-and-rose-representatives-respond-to-faqs-on-student-union-negotiations/2912985">SEIU Local 721, college admin and ROSE representatives respond to FAQs on student union negotiations</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/09/25/seiu-local-721-college-admin-and-rose-representatives-respond-to-faqs-on-student-union-negotiations/2912985>
+
+---
+
+## Basketball roots run deep throughout Occidental coaching staff
+
+date: 2024-09-25, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Kebu Stewart Assistant Basketball Coach, Recruiting Coordinator and Assistant Strength and Conditioning Coach Kebu Stewart used to be an NBA player. He has been coaching basketball since 2018 and coaching for the Occidental men’s basketball team since 2021. Before his career as a coach, he played professionally for the Philadelphia 76ers and the Dallas Mavericks. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/09/25/basketball-roots-run-deep-throughout-occidental-coaching-staff/2912956">Basketball roots run deep throughout Occidental coaching staff</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/sports/2024/09/25/basketball-roots-run-deep-throughout-occidental-coaching-staff/2912956>
+
+---
+
+## Local restaurant Joy gives back to the community through cookie partnership program
+
+date: 2024-09-25, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Joy, a Taiwanese restaurant on York Boulevard, donates the proceeds from its Mexican wedding cookies to local nonprofits in Highland Park and NELA each month. According to Joy founder Vivian Ku, the restaurant&#8217;s building was previously occupied by Elsa&#8217;s Bakery, a small business that operated for 40 years. Ku said that Elsa’s was a central [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/09/25/local-restaurant-joy-gives-back-to-the-community-through-cookie-partnership-program/2912976">Local restaurant Joy gives back to the community through cookie partnership program</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/community/2024/09/25/local-restaurant-joy-gives-back-to-the-community-through-cookie-partnership-program/2912976>
+
+---
+
+## Women’s soccer coach reflects on team’s 500th game
+
+date: 2024-09-25, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Coach Adolfo Perez and the Pierce College women’s soccer team hit a milestone of playing their 500th game — and reaching their 333rd win —</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/25/womens-soccer-coach-reflects-on-teams-500th-game/">Women’s soccer coach reflects on team’s 500th game</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/25/womens-soccer-coach-reflects-on-teams-500th-game/?utm_source=rss&utm_medium=rss&utm_campaign=womens-soccer-coach-reflects-on-teams-500th-game>
+
+---
+
+## Private company hired to enforce parking
+
+date: 2024-09-25, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The parking lots at Pierce College are once again bustling during the school week, now that more students are coming to campus post-pandemic. With the</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/25/private-company-hired-to-enforce-parking/">Private company hired to enforce parking</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/25/private-company-hired-to-enforce-parking/?utm_source=rss&utm_medium=rss&utm_campaign=private-company-hired-to-enforce-parking>
+
+---
+
+## Women’s Golf Clinch first Tournament win since 2014
+
+date: 2024-09-25, from: The Sundail (CSUN Student Newspaper)
+
+The women’s golf team won its first team tournament title since 2014 this past monday at the Eagle Invitational at Circling Raven Golf Course. The Matadors won the tournament by... 
+
+<https://sundial.csun.edu/185305/sports/womens-golf-clinch-first-tournament-win-since-2014/>
 
 ---
 
@@ -84,7 +445,7 @@ date: 2024-09-25, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-09-25, from: The Daily Trojan (USC Student Newspaper)
 
-<p>The Asian Pacific Cinema Association recently started a new media program. curating meaningful content.</p>
+<p>The Asian Pacific Cinema Association recently started a new media program.</p>
 <p>The post <a href="https://dailytrojan.com/2024/09/25/get-closeup-and-personal-with-uscs-apida-community/">Get ‘closeup’ and personal with USC’s APIDA community</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
@@ -154,8 +515,8 @@ Bay Area-based funk rock band Just Friends is changing the game of what traditio
 
 date: 2024-09-24, from: The Daily Bruin (UCLA Student Newspaper)
 
-In a literary game of chess, Sally Rooney deftly achieves an expected checkmate, yet not without facing several stalemates in the process.
-Hitting bookshelves on Sept. 
+<em>This post was updated Sept. 25 at 11:04 p.m.</em>
+In a literary game of chess, Sally Rooney deftly achieves an expected checkmate, yet not without facing several stalemates in the process. 
 
 <https://dailybruin.com/2024/09/24/book-review-sally-rooney-castles-grief-recaptures-sociopolitical-love-in-intermezzo/>
 
@@ -456,7 +817,8 @@ date: 2024-09-24, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-09-24, from: The Daily Bruin (UCLA Student Newspaper)
 
-UCLA football (1-2, 0-1 Big Ten) fell 34-17 to LSU (3-1, 1-0 SEC) in its second nonconference contest Saturday in Baton Rouge, Louisiana. Contributor Noah Massey gives his five main takeaways from the Bruins&#8217; contest against the Tigers. 
+<em>This post was updated Sept. 26 at 12:45 a.m.</em>
+UCLA football (1-2, 0-1 Big Ten) fell 34-17 to LSU (3-1, 1-0 SEC) in its second nonconference contest Saturday in Baton Rouge, Louisiana. 
 
 <https://dailybruin.com/2024/09/23/five-things-ucla-vs-lsu-2/>
 
@@ -466,6 +828,7 @@ UCLA football (1-2, 0-1 Big Ten) fell 34-17 to LSU (3-1, 1-0 SEC) in its second 
 
 date: 2024-09-24, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Sept. 25 at 8:55 p.m.</em>
 Like many members of the Bruin community, I was alarmed to discover that UCLA intends to significantly expand its police arsenal prior to the 2024-2025 academic year. 
 
 <https://dailybruin.com/2024/09/23/op-ed-uclas-expansion-of-police-arsenal-is-unnecessary-shameful/>
@@ -830,8 +1193,8 @@ UCLA women&#8217;s volleyball (6-3) traveled to Davis and Berkeley to wrap up it
 
 date: 2024-09-22, from: The Daily Bruin (UCLA Student Newspaper)
 
-California Governor Gavin Newsom vetoed a bill Sunday that would have allowed undocumented students to hold campus jobs at California’s public universities.
-In the veto message, Newsom stated that he opposed the bill due to its potential to put state employees in violation of a federal law that bans employees from hiring undocumented immigrants. 
+<em>This post was updated Sept. 25 at 11:36 p.m.</em>
+California Governor Gavin Newsom vetoed a bill Sunday that would have allowed undocumented students to hold campus jobs at California’s public universities. 
 
 <https://dailybruin.com/2024/09/22/newsom-vetoes-bill-that-would-allow-undocumented-students-to-hold-campus-jobs/>
 

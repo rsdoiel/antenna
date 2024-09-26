@@ -1,15 +1,444 @@
 ---
 title: pacific
-updated: 2024-09-25 05:50:26
+updated: 2024-09-26 06:50:36
 ---
 
 # pacific
 
-(date: 2024-09-25 05:50:26)
+(date: 2024-09-26 06:50:36)
 
 ---
 
-## Details, please: Barnett hits governor's ‘backdoor deals’ on governor’s new hospital project
+## UN report highlights scars of US nuclear testing in Marshall Islands
+
+date: 2024-09-26, from: Pacific Island Times
+
+US told it must consider an apology and remedy its violation of human rights By Harry Pearl (Benar News) - - The United States must... 
+
+<https://www.pacificislandtimes.com/post/un-report-highlights-scars-of-us-nuclear-testing-in-marshall-islands>
+
+---
+
+## Port Authority of Guam seeks to outsource fuel facility operations
+
+date: 2024-09-26, from: Pacific Island Times
+
+By Pacific Island Times News Staff   The Port Authority of Guam’s board of directors today greenlighted the port administration’s plan to... 
+
+<https://www.pacificislandtimes.com/post/port-authority-of-guam-seeks-to-outsource-fuel-facility-operations>
+
+---
+
+## Investment company buys industrial land in Kona
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>Ula Kapa Moe LLC, a local real estate investment company led by Duane and Robert Kurisu, have announced the purchase of a 54-property industrial area in Kailua-Kona from Lili&#699;uokalani Trust.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/hawaii-news/investment-company-buys-industrial-land-in-kona/>
+
+---
+
+## Police seek ‘armed and dangerous’ Puna man
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>Police are seeking the public&#8217;s assistance in locating a 31-year-old Puna man they say is known to be &#8220;armed and dangerous.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/hawaii-news/police-seek-armed-and-dangerous-puna-man/>
+
+---
+
+## ‘Cat ladies’ vs. ‘weird’: Vance, Walz to square off in sole VP debate
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>One vice presidential candidate is a best-selling author who coined the term &#8220;childless cat ladies&#8221; to disparage Democrats and latched onto a made-up story about immigrants eating pets.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/nation-world-news/cat-ladies-vs-weird-vance-walz-to-square-off-in-sole-vp-debate/>
+
+---
+
+## Republicans’ Electoral College edge, once seen as ironclad, looks to be fading
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>Ever since Donald Trump&#8217;s stunning victory in 2016 &#8212; when he lost the popular vote by almost 3 million votes but still triumphed with over 300 electoral votes &#8212; many who follow politics have believed Republicans hold an intractable advantage in the Electoral College.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/nation-world-news/republicans-electoral-college-edge-once-seen-as-ironclad-looks-to-be-fading/>
+
+---
+
+## Hurricane Helene may hit Florida as a ‘catastrophic’ Category 4 storm
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>Hurricane Helene is forecast to rapidly strengthen and could hit Florida on Thursday as a Category 4 storm, producing &#8220;catastrophic&#8221; winds of up to 156 miles per hour (251 km per hour), forecasters said.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/nation-world-news/hurricane-helene-may-hit-florida-as-a-catastrophic-category-4-storm/>
+
+---
+
+## New affordable housing project slated for Waikoloa Village
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>A groundbreaking ceremony was held Tuesday for Na Hale Makoa, a new affordable workforce rental housing development in Waikoloa Village.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/hawaii-news/new-affordable-housing-project-slated-for-waikoloa-village/>
+
+---
+
+## County receives large donation of animal control equipment
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Council approved a resolution earlier this month accepting a donation of equipment worth $144,595 for the county&#8217;s Animal Control and Protection Agency.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/hawaii-news/county-receives-large-donation-of-animal-control-equipment/>
+
+---
+
+## Court: No STVRs on ag land
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>Short-term vacation rentals do not belong on farm lots, the Hawaii Supreme Court ruled Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/hawaii-news/court-no-stvrs-on-ag-land/>
+
+---
+
+## Target: Hezbollah: A measure of justice for terrorists who massacred 241 US Marines
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>Friday was a bad day for bad guys, as Hezbollah terrorists had two of its top gangsters offed in a targeted Israeli airstrike in Beirut that also took out more than a dozen other Hezbollah cutthroats. Now dead is Ibrahim Aqil, wanted for killing Americans. As U.S. National Security Advisor Jake Sullivan said, &#8220;Any time a terrorist who has murdered Americans is brought to justice, we believe that that is a good outcome.&#8221; Agreed.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/opinion/target-hezbollah-a-measure-of-justice-for-terrorists-who-massacred-241-us-marines/>
+
+---
+
+## The silliest ways Republicans in NC and beyond have avoided condemning Mark Robinson
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>As North Carolina Lt. Gov. Mark Robinson finds himself under fire for lewd and racist comments he allegedly made on a pornography website more than a decade ago, Republicans have gone to great lengths to avoid condemning him.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/opinion/the-silliest-ways-republicans-in-nc-and-beyond-have-avoided-condemning-mark-robinson/>
+
+---
+
+## Bananas, cars, and clothes: US port labor dispute threatens range of products
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; Some 45,000 union workers could walk off the job at seaports on the U.S. East and Gulf Coasts on Oct 1, cutting off vital trade arteries just weeks ahead of the nation&#8217;s presidential election. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/nation-world-news/bananas-cars-and-clothes-us-port-labor-dispute-threatens-range-of-products/>
+
+---
+
+## US prepares $8 billion in arms aid packages for Zelenskyy visit, sources say
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The United States plans to announce more than $8 billion worth of military assistance for Ukraine on Thursday during Ukrainian President Volodymyr Zelenskyy&#8217;s visit to Washington, two U.S. officials said on Wednesday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/nation-world-news/us-prepares-8-billion-in-arms-aid-packages-for-zelenskyy-visit-sources-say/>
+
+---
+
+## Congress passes stopgap spending bill to avert government shutdown
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Congress passed a stopgap bill on Wednesday to avert a partial government shutdown beginning next week, even as a large number of House Republicans revolted against their leadership for failing to achieve new federal spending cuts. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/nation-world-news/congress-passes-stopgap-spending-bill-to-avert-government-shutdown/>
+
+---
+
+## US leads new effort to end hostilities in Lebanon and Gaza, sources say
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT/NEW YORK &#8212; The United States is spearheading a new diplomatic effort to end hostilities between Israel and Hezbollah in Lebanon, sources familiar with the matter said on Wednesday, hoping progress on that front could help rekindle stalled Gaza peace talks.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/nation-world-news/us-leads-new-effort-to-end-hostilities-in-lebanon-and-gaza-sources-say/>
+
+---
+
+## BIIF volleyball: Kona completes sweep with third-set thriller; Ka‘u and Kohala rout competition
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>KEALAKEHE &#8212; Despite being up 2-0, Konawaena girls volleyball faced a problem in the third set.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/sports/biif-volleyball-kona-completes-sweep-with-third-set-thriller-kau-and-kohala-rout-competition/>
+
+---
+
+## Starting QB Matthew Sluka leaves UNLV, says commitments ‘not upheld’
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>UNLV starting quarterback Matthew Sluka announced late Tuesday night on social media he will not play in any more games this season.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/sports/starting-qb-matthew-sluka-leaves-unlv-says-commitments-not-upheld/>
+
+---
+
+## Warriors’ backup QBs Alejado, Sagapolutele remain ready
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>Every Friday practice during the season, the Hawaii football team works on its end game.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/sports/warriors-backup-qbs-alejado-sagapolutele-remain-ready/>
+
+---
+
+## Your Views for September 26
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>Support for the&#0010;HPP park project</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/opinion/your-views-for-september-26-6/>
+
+---
+
+## US holiday spending on buy now, pay later to hit record due to debt-laden shoppers
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; U.S. shoppers are expected to spend a record $18.5 billion using third-party buy now, pay later (BNPL) services for holiday purchases in the last quarter of the year, according to projections by data firm Adobe Analytics released on Wednesday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/nation-world-news/us-holiday-spending-on-buy-now-pay-later-to-hit-record-due-to-debt-laden-shoppers/>
+
+---
+
+## Harris promises tax breaks, investments for manufacturers
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>PITTSBURGH &#8212; U.S. Vice President Kamala Harris said on Wednesday she would offer tax credits to domestic manufacturers and invest in sectors that will &#8220;define the next century&#8221;, as she detailed her economic plan to boost the U.S. middle class. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/nation-world-news/harris-promises-tax-breaks-investments-for-manufacturers/>
+
+---
+
+## Obituaries for September 26
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>Iris Noelani Eggers, 64, of Mountain View died Aug. 31 at Hilo Benioff Medical Center. Born in Hilo, she was a homemaker and a member of Kauaha&#8216;ao Congregational Church. Private services held. Survived by husband, Ronald Eggers of Mountain View; sons, Preston (April) Kekoa of Naalehu, Ka&#8216;eo (Marie) Eggers of Pahoa and Ka&#8216;u (Keani) Eggers of Ewa, Oahu; daughters, Brenda Kekoa of Naalehu, Loke Gali of Keaau and Elsie Eggers of Mountain View; brothers, Calvin (Sarah) Gali of Kailua-Kona and Conley (Kari) Gali of Santa Clara, Utah; sisters, Colleen (Bill) Gundaker of Discovery Harbour, Misty (Joe) Puna of Naalehu and Dossi (Wale) Tavaiqia of Pittsburgh; 23 grandchildren and four great grandchildren; aunts, uncles, cousins, nieces and nephews. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/obituaries/obituaries-for-september-26-9/>
+
+---
+
+## Anti-aging enthusiasts are taking a pill to extend their lives. Will it work?
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>In March, Robert Berger, 69, a self-proclaimed &#8220;better-living-through-chemistry type of person,&#8221; started taking a small dose of rapamycin once a week with the goal of increasing his &#8220;health span&#8221; &#8212; the amount of time he might live without serious disease.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/nation-world-news/anti-aging-enthusiasts-are-taking-a-pill-to-extend-their-lives-will-it-work/>
+
+---
+
+## Trudeau survives vote of confidence in Canadian parliament, new threat looms
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>OTTAWA &#8212; Canadian Prime Minister Justin Trudeau easily survived a vote of confidence on Wednesday after his main political rival failed to muster enough support to end nine years of Liberal Party rule. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/nation-world-news/trudeau-survives-vote-of-confidence-in-canadian-parliament-new-threat-looms/>
+
+---
+
+## Meta unveils new smart glasses and headsets in pursuit of the metaverse
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; Mark Zuckerberg has spent billions of dollars, hired thousands of employees and worked for roughly a quarter of his life in pursuit of a vision: a future in which the physical and digital worlds are interwoven to connect people around the globe. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/nation-world-news/meta-unveils-new-smart-glasses-and-headsets-in-pursuit-of-the-metaverse/>
+
+---
+
+## Nation and world news in brief for September 26
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>White supremacist receives prison &#0010;in plot to target &#0010;Md. power grid</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/nation-world-news/nation-and-world-news-in-brief-for-september-26/>
+
+---
+
+## ‘I Talk of Dreams’
+
+date: 2024-09-26, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON Four Marshallese young people are featured in a new book published last month. I Talk of Dreams is the latest book of Dartmouth Professor Emeritus Andrew Garrod, who after 20 years of directing theater productions in Majuro needs little introduction. The book features a collection of articles by people whose lives he has [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/i-talk-of-dreams/">‘I Talk of Dreams’</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/i-talk-of-dreams/>
+
+---
+
+## UOG scientists discover gene for climate change resilience in soft corals
+
+date: 2024-09-26, from: Pacific Island Times
+
+By Pacific Island Times News Staff A researcher at the University of Guam Marine Laboratory led a team of scientists who discovered how a... 
+
+<https://www.pacificislandtimes.com/post/uog-scientists-discover-gene-for-climate-change-resilience-in-soft-corals>
+
+---
+
+## China's latest missile test stirs congressional candidates' discussion on security threats to Guam
+
+date: 2024-09-26, from: Pacific Island Times
+
+By Mar-Vic Cagurangan Security threats posed by China have emerged as a key talking point for Guam’s congressional candidates... 
+
+<https://www.pacificislandtimes.com/post/china-s-latest-missile-test-prompts-congressional-candidates-discussion-on-security-threats-to-guam>
+
+---
+
+## Task force pushes new air links
+
+date: 2024-09-26, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON One thing that has been demonstrated by the work of RMI’s Aviation Task Force is that increasing airline connections needs start-up funding to make possible new service on often thinly traveled routes. Pre-Covid, the Aviation Task Force’s discussions with Nauru Airlines led to an agreement to launch new service connecting Majuro to Brisbane, [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/task-force-pushes-new-air-links/">Task force pushes new air links</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/task-force-pushes-new-air-links/>
+
+---
+
+## Giving 100: UH Bands top fundraising goals for anniversary
+
+date: 2024-09-25, from: University of Hawaiʻi News
+
+<p>The funds will be used to purchase much-needed instruments and repair equipment, as well as other items for the program.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/25/uh-bands-top-fundraising-goals-anniversary/">Giving 100: <abbr>UH</abbr> Bands top fundraising goals for anniversary</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/25/uh-bands-top-fundraising-goals-anniversary/>
+
+---
+
+## ADB’s biggest grant to RMI
+
+date: 2024-09-25, from: Marshal Islands Journal
+
+<p>The Asian Development Bank and the RMI government signed off last week on the bank’s largest-ever grant to the Marshall Islands. The $52.5 million grant will be focused on fresh water, sanitation and solid waste management improvements on both Majuro and Ebeye. The largest portion of the grant will be directed toward Majuro Water and [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/adbs-biggest-grant-to-rmi/">ADB’s biggest grant to RMI</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/adbs-biggest-grant-to-rmi/>
+
+---
+
+## Saving corals requires cutting carbon emissions, study finds
+
+date: 2024-09-25, from: University of Hawaiʻi News
+
+<p>Researchers identified scenarios under which eight of the most common species of coral found in <span aria-label="Hawaii">Hawai&#699;i</span> can adapt to and survive ocean warming and acidification.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/25/saving-corals-study/">Saving corals requires cutting carbon emissions, study finds</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/25/saving-corals-study/>
+
+---
+
+## Image of the Week: Aloha Festivals
+
+date: 2024-09-25, from: University of Hawaiʻi News
+
+<p>This week's image is from <abbr>UH</abbr> Mānoa's Shen Ran.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/25/image-of-the-week-aloha-festivals/">Image of the Week: Aloha Festivals</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/25/image-of-the-week-aloha-festivals/>
+
+---
+
+## Who shortchanged Guam Memorial Hospital? Speaker says executive branch was responsible for budget cut
+
+date: 2024-09-25, from: Pacific Island Times
+
+By Pacific Island Times News Staff   The administration has itself to blame for Guam Memorial Hospital’s funding shortfall, Speaker... 
+
+<https://www.pacificislandtimes.com/post/who-shortchanged-guam-memorial-hospital-speaker-says-executive-branch-was-responsible-for-budget-cu>
+
+---
+
+## Council delegate says American Samoa not getting sufficient protection from Coast Guard
+
+date: 2024-09-25, from: Pacific Island Times
+
+By Pacific Island Times News Staff   The U.S. Coast Guard’s response to illegal activities around the waters of American Samoa leaves... 
+
+<https://www.pacificislandtimes.com/post/council-delegate-says-american-samoa-not-getting-sufficient-protection-from-coast-guard>
+
+---
+
+## Details, please: Barnett hits ‘backdoor deals’ on governor’s new hospital project
 
 date: 2024-09-25, from: Pacific Island Times
 
@@ -271,11 +700,11 @@ date: 2024-09-25, from: Hawaii Tribune Harold
 
 ---
 
-## Peace Corps signs new MOU with Palau to advance education priorities
+## Peace Corps to prioritize education as the mission gears up for return to Palau 
 
 date: 2024-09-25, from: Pacific Island Times
 
-By Mar-Vic Cagurangan    The Peace Corps office today announced it has signed a new memorandum of understanding with Palau to collaborate... 
+By Mar-Vic Cagurangan   The Peace Corps office today announced it has signed a new memorandum of understanding with Palau to collaborate... 
 
 <https://www.pacificislandtimes.com/post/peace-corps-signs-new-mou-with-palau-to-advance-education-priorities>
 
@@ -780,7 +1209,7 @@ date: 2024-09-24, from: Island Times
 
 date: 2024-09-24, from: Island Times
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72689" data-permalink="https://islandtimes.org/?attachment_id=72689" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;6.3&quot;,&quot;credit&quot;:&quot;Manu San F\u00e9lix\/National Geograp&quot;,&quot;camera&quot;:&quot;Canon EOS R3&quot;,&quot;caption&quot;:&quot;Palau - 2024\/02\/09: Anemone and clownfish. \r\rNational Geographic Pristine Seas, invited by the Government of Palau, returned to the island nation, from February to March of 2024, to conduct surveys of the marine environment and fill in data gaps in Palau\u2019s marine spatial planning efforts.&quot;,&quot;created_timestamp&quot;:&quot;1707462547&quot;,&quot;copyright&quot;:&quot;\u00a9Manu San F\u00e9lix\/National Geographic Pristine Seas&quot;,&quot;focal_length&quot;:&quot;30&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.01&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Pristine Seas Palau" data-image-description="" data-image-caption="&lt;p&gt;Palau &#8211; 2024/02/09: Anemone and clownfish. &lt;/p&gt;
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72689" data-permalink="https://islandtimes.org/?attachment_id=72689" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;6.3&quot;,&quot;credit&quot;:&quot;Manu San F\u00e9lix\/National Geograp&quot;,&quot;camera&quot;:&quot;Canon EOS R3&quot;,&quot;caption&quot;:&quot;Palau - 2024\/02\/09: Anemone and clownfish. \r\rNational Geographic Pristine Seas, invited by the Government of Palau, returned to the island nation, from February to March of 2024, to conduct surveys of the marine environment and fill in data gaps in Palau\u2019s marine spatial planning efforts.&quot;,&quot;created_timestamp&quot;:&quot;1707462547&quot;,&quot;copyright&quot;:&quot;\u00a9Manu San F\u00e9lix\/National Geographic Pristine Seas&quot;,&quot;focal_length&quot;:&quot;30&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.01&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Pristine Seas Palau" data-image-description="" data-image-caption="&lt;p&gt;Palau &#8211; 2024/02/09: Anemone and clownfish. &lt;/p&gt;
 &lt;p&gt;National Geographic Pristine Seas, invited by the Government of Palau, returned to the island nation, from February to March of 2024, to conduct surveys of the marine environment and fill in data gaps in Palau’s marine spatial planning efforts.&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Pristine-Seas-Palau.jpg?fit=780%2C520&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>A recent research expedition by National Geographic Pristine Seas, in collaboration with MAFE, PICRC, and OneReef, has revealed remarkable findings about Palau’s marine life. Conducted in February and March 2024, the expedition explored the Southwest Islands and offshore habitats of Palau. The goal was to contribute valuable biodiversity data that Palau could use for its [&#8230;]</p>
@@ -807,7 +1236,7 @@ date: 2024-09-24, from: Island Times
 
 date: 2024-09-24, from: Island Times
 
-<figure><img width="889" height="688" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?fit=889%2C688&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?w=889&amp;ssl=1 889w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?resize=300%2C232&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?resize=768%2C594&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?resize=400%2C310&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?resize=706%2C546&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?fit=889%2C688&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72687" data-permalink="https://islandtimes.org/tnc-partners-with-the-development-banks-in-fsm-and-rmi-to-establish-the-blue-economy-accelerator-fund-to-support-reef-positive-businesses-in-micronesia/tnc-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?fit=889%2C688&amp;ssl=1" data-orig-size="889,688" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="TNC" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?fit=300%2C232&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?fit=780%2C604&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="889" height="688" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?fit=889%2C688&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?w=889&amp;ssl=1 889w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?resize=300%2C232&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?resize=768%2C594&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?resize=400%2C310&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?resize=706%2C546&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?fit=889%2C688&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72687" data-permalink="https://islandtimes.org/tnc-partners-with-the-development-banks-in-fsm-and-rmi-to-establish-the-blue-economy-accelerator-fund-to-support-reef-positive-businesses-in-micronesia/tnc-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?fit=889%2C688&amp;ssl=1" data-orig-size="889,688" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="TNC" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?fit=300%2C232&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/TNC.jpg?fit=780%2C604&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>The Marshall Islands Development Bank (MIDB), the Federated States of Micronesia Development Bank (FSMDB), and The Nature Conservancy, Micronesia and Polynesia, have joined forces to support reef positive businesses in Marshall Islands and FSM.&#160; Together, they’ve agreed to establish the Blue Economy Accelerator Fund, which will bring funding from the banks and technical and financial [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/tnc-partners-with-the-development-banks-in-fsm-and-rmi-to-establish-the-blue-economy-accelerator-fund-to-support-reef-positive-businesses-in-micronesia/">TNC partners with the development banks in FSM and RMI to establish the Blue Economy Accelerator Fund to support reef-positive businesses in Micronesia</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -820,7 +1249,7 @@ date: 2024-09-24, from: Island Times
 
 date: 2024-09-24, from: Island Times
 
-<figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72408" data-permalink="https://islandtimes.org/cleaning-house/wc1-17/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?fit=524%2C522&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72408" data-permalink="https://islandtimes.org/cleaning-house/wc1-17/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/WC1.jpg?fit=524%2C522&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>“God doesn’t call the qualified; He qualifies the called.” -Unknown You don’t have to feel qualified for what’s ahead. God doesn’t ask you to figure out how it’s going to happen, He just asks you to trust Him. Trust Him with what you do have, with what’s within your reach. Maybe you’re looking at your [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/he-calling/">HE CALLING</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -917,7 +1346,7 @@ date: 2024-09-24, from: Island Times
 
 date: 2024-09-24, from: Island Times
 
-<figure><img width="611" height="307" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/open-water-swim.jpg?fit=611%2C307&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/open-water-swim.jpg?w=611&amp;ssl=1 611w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/open-water-swim.jpg?resize=300%2C151&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/open-water-swim.jpg?resize=400%2C201&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/open-water-swim.jpg?fit=611%2C307&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72664" data-permalink="https://islandtimes.org/open-water-swim-celebrating-independence-day/open-water-swim/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/open-water-swim.jpg?fit=611%2C307&amp;ssl=1" data-orig-size="611,307" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="open water swim" data-image-description="" data-image-caption="&lt;p&gt;Swimmers participating in the 2023 Independence Day Open Water Swim.&lt;/p&gt;
+<figure><img width="611" height="307" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/open-water-swim.jpg?fit=611%2C307&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/open-water-swim.jpg?w=611&amp;ssl=1 611w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/open-water-swim.jpg?resize=300%2C151&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/open-water-swim.jpg?resize=400%2C201&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/open-water-swim.jpg?fit=611%2C307&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72664" data-permalink="https://islandtimes.org/open-water-swim-celebrating-independence-day/open-water-swim/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/open-water-swim.jpg?fit=611%2C307&amp;ssl=1" data-orig-size="611,307" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="open water swim" data-image-description="" data-image-caption="&lt;p&gt;Swimmers participating in the 2023 Independence Day Open Water Swim.&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/open-water-swim.jpg?fit=300%2C151&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/open-water-swim.jpg?fit=611%2C307&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>Palau Aquatics invites the community to celebrate Palau’s 30th Independence Day with an open water swim at Skojio (Meyuns ramp) on Saturday, September 28. The event features 3 individual swim events (3 kilometer, 500 meter, 250 meter) and a mixed relay event. The relay involves a 4-person team with each swimmer doing 500 meters. Each [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/open-water-swim-celebrating-independence-day/">OPEN WATER SWIM Celebrating Independence Day</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
@@ -927,7 +1356,7 @@ date: 2024-09-24, from: Island Times
 
 ---
 
-## Palau President Whipps Jr." 'Only strength can ensure peace’
+## Palau President Whipps Jr.:  'Only strength can ensure peace’
 
 date: 2024-09-24, from: Pacific Island Times
 

@@ -1,11 +1,51 @@
 ---
 title: health
-updated: 2024-09-25 05:50:36
+updated: 2024-09-26 06:50:45
 ---
 
 # health
 
-(date: 2024-09-25 05:50:36)
+(date: 2024-09-26 06:50:45)
+
+---
+
+## Clinical and genomic characterization of carbapenem-resistant Enterobacterales bloodstream infections in patients with hematologic malignancies
+
+date: 2024-09-26, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundCarbapenem-resistant Enterobacterales (CRE) bloodstream infections (BSIs) pose a significant risk to patients with hematologic malignancies, yet the distinct features and outcomes of these infections are not thoroughly understood.MethodsThis retrospective study examined the characteristics and clinical outcomes of patients with Enterobacterales BSIs at the Hematology Department of Fujian Medical University Union Hospital from 2018 to 2022. Whole-genome sequencing was conducted on 45 consecutive CRE BSI isolates during this period.ResultsA total of 301 patients with Enterobacterales BSIs were included, with 65 (21.6%) cases of CRE and 236 (78.4%) cases of carbapenem-susceptible Enterobacterales (CSE). CRE infections accounted for 16.9% to 26.9% of all Enterobacterales BSIs, and carbapenem-resistant Klebsiella pneumoniae (CRKP) was the predominant strain. The most frequent sequence type (ST) and carbapenemase among CRKP were ST11 (68.6%) and blaKPC-2 (80.0%), respectively. Perianal infections, multiple infection foci, and a history of multiple hospitalizations, ICU stays, and prior CRE infections were identified as risk factors for CRE BSIs. Patients in the CRE group experienced significantly higher proportions of infection-related septic shock (43.1% vs. 19.9%, P < 0.0003) and 30-day all-cause mortality (56.9% vs. 24.6%, P < 0.0001) compared to those in the CSE group. Patient’s age and disease subtypes, strain subtypes, and antimicrobial treatment regimens significantly influenced survival in patients with CRE BSIs.ConclusionsCRE BSIs are a frequent complication in patients with hematological malignancies undergoing treatment and are associated with poor survival rates. A comprehensive understanding of risk factors and ongoing surveillance of prevalent strains are essential for the effective management of these infections. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1471477>
+
+---
+
+## The gut microbiota: emerging biomarkers and potential treatments for infertility-related diseases
+
+date: 2024-09-26, from: Frontiers in Cellular and Infection Microbiology
+
+Infertility is a disease of impaired fertility. With socioeconomic development, changes in human lifestyles, and increased environmental pollution, the problem of low human fertility has become increasingly prominent. The incidence of global infertility is increasing every year. Many factors lead to infertility, and common female factors include tubal factors, ovulation disorders, endometriosis, and immune factors. The gut microbiota is involved in many physiological processes, such as nutrient absorption, intestinal mucosal growth, glycolipid metabolism, and immune system regulation. An altered gut flora is associated with female infertility disorders such as polycystic ovary syndrome (PCOS), endometriosis (EMs), and premature ovarian failure (POF). Dysbiosis of the gut microbiota directly or indirectly contributes to the development of female infertility disorders, which also affect the homeostasis of the gut microbiota. Identifying the etiology and pathogenesis of infertility in patients is the focus of reproductive medicine physicians. We studied the developmental mechanism between the gut microbiota and PCOS, EMs, and POF from a new perspective, providing new ideas for diagnosing and treating female infertility diseases and specific reference values for eugenics. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1450310>
+
+---
+
+## Progress in the study of the correlation between sepsis and intestinal microecology
+
+date: 2024-09-26, from: Frontiers in Cellular and Infection Microbiology
+
+Sepsis, a disease with high incidence, mortality, and treatment costs, has a complex interaction with the gut microbiota. With advances in high-throughput sequencing technology, the relationship between sepsis and intestinal dysbiosis has become a new research focus. However, owing to the intricate interplay between critical illness and clinical interventions, it is challenging to establish a causal relationship between sepsis and intestinal microbiota imbalance. In this review, the correlation between intestinal microecology and sepsis was summarized, and new therapies for sepsis intervention based on microecological target therapy were proposed, and the shortcomings of bacterial selection and application timing in clinical practice were addressed. In conclusion, current studies on metabolomics, genomics and other aspects aimed at continuously discovering potential probiotics are all providing theoretical basis for restoring intestinal flora homeostasis for subsequent treatment of sepsis. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1357178>
+
+---
+
+## Approved drugs successfully repurposed against Leishmania based on machine learning predictions
+
+date: 2024-09-26, from: Frontiers in Cellular and Infection Microbiology
+
+Drug repurposing is a promising approach towards the discovery of novel treatments against Neglected Tropical Diseases, such as Leishmaniases, presenting the advantage of reducing both costs and duration of the drug discovery process. In previous work, our group developed a Machine Learning pipeline for the repurposing of FDA-approved drugs against Leishmania parasites. The present study is focused on an in vitro validation of this approach by assessing the antileishmanial effects of 10 predicted drug candidates. First, we evaluated the drugs’ activity against promastigotes from two strains of L. infantum and one of L. major, which caused distinct clinical manifestations, using an MTT assay. The standard anti-Leishmania drug Amphotericin B was used as a positive control. Five molecules demonstrated anti-Leishmania effects, out of which Acebutolol, Prilocaine and Phenylephrine are described herein for the first time. When tested on promastigote growth, Acebutolol displayed IC50 values ranging from 69.28 to 145.53 µg/mL. Prilocaine exhibited IC50 values between 33.10 and 45.81 µg/mL. Phenylephrine, on the other hand, presented IC50 values >200 µg/mL. The two remaining drugs, Dibucaine and Domperidone, exhibited significantly low IC50 values varying between 0.58 and 1.05 µg/mL, and 6.30 and 8.17 µg/mL, respectively. Both compounds were previously described as anti-Leishmania agents in vivo. All five compounds demonstrated no notable cytotoxic effects on THP-1-derived macrophages at the IC50 concentrations, allowing for their testing on the intracellular form of L. major and L. infantum parasites. Interestingly, all compounds exhibited antileishmanial activity on amastigotes with enhanced IC50 values compared to the corresponding promastigotes. Noticeably, Dibucaine and Domperidone displayed IC50 values of at most 1.99 µg/mL. Acebutolol, Prilocaine and Phenylephrine showed IC50 values ranging from 13.84 to 66.81 µg/mL. Our previously published Computer-Aided repositioning pipelines of FDA-approved drugs as antileishmanial agents identified Dibucaine and Domperidone as candidates in support of previous in vivo studies. This study consolidates such findings through the in vitro validation against 2 Leishmania species, highly prevalent in Africa and Middle East, and reveals Acebutolol, Prilocaine, and Phenylephrine as novel anti-Leishmania effectors, confirming the relevance of our approach and calling for further investigations. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1403589>
 
 ---
 
@@ -39,6 +79,16 @@ Osteoporosis (OP) is characterized by decreased bone mineral density (BMD) and i
 
 ---
 
+## Corrigendum: Antibiotic resistance: One Health One World outlook
+
+date: 2024-09-25, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1488430>
+
+---
+
 ## Comprehensive insights into UTIs: from pathophysiology to precision diagnosis and management
 
 date: 2024-09-24, from: Frontiers in Cellular and Infection Microbiology
@@ -66,6 +116,26 @@ date: 2024-09-24, from: Frontiers in Cellular and Infection Microbiology
 IntroductionGenitourinary syndrome of menopause (GSM) describes the symptoms and signs resulting from the effect of estrogen deficiency on the female genitourinary tract, including genital, urinary, and sexual symptoms. However, besides estrogen deficiency, little is known about the etiology of GSM. The objective of this study was to investigate the effects of vaginal microbiota dysbiosis on the occurrence and development of GSM in perimenopausal and postmenopausal women.MethodsIn total, 96 women were enrolled in this cross-sectional study and clinical data were collected. GSM symptoms were divided into three types: genital, urological, and sexual symptoms. Full-length 16S rRNA gene sequencing using the third-generation PacBio sequencing technology was performed to analyze the vaginal microbiome using vaginal swabs of non-GSM and GSM women with different types of GSM symptoms. Live Lactobacillus Capsule for Vaginal Use (LLCVU) treatment was used to verify the effects of Lactobacillus on GSM symptoms.ResultsWe found that 83.58% (56/67) of women experienced GSM symptoms in the perimenopausal and postmenopausal stages. Among these women with GSM, 23.21% (13/56), 23.21% (13/56), and 53.57% (30/56) had one type, two types, and three types of GSM symptoms, respectively. The richness and diversity of vaginal microbiota gradually increased from reproductive to postmenopausal women. There were significant differences in vaginal microbial community among non-GSM women and GSM women with different types of symptoms. Lactobacillus was found to be negatively associated with the onset, severity, and type of GSM while some bacteria, such as Escherichia-shigella, Anaerococcus, Finegoldia, Enterococcus, Peptoniphilus_harei, and Streptococcus, were found to be positively associated with these aspects of GSM, and these bacteria were especially associated with the types of genital and sexual symptoms in GSM women. LLCVU significantly relieved genital symptoms and improved the sexual life of GSM women in shortterm observation.ConclusionsThe onset, severity, and type of GSM symptoms may be associated with changes in vaginal microbiota in perimenopausal and postmenopausal women. Vaginal microbiota dysbiosis probably contributes to the occurrence and development of GSMsymptoms, especially vaginal and sexual symptoms. Lactobacillus used in the vagina may be a possible option for non-hormonal treatment of GSM women with genital and sexual symptoms.Clinical Trial Registrationhttps://www.chictr.org.cn/indexEN.html, identifier ChiCTR2100044237. 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2024.1402389>
+
+---
+
+## Causal relationship between gut microbiota and insulin-like growth factor 1: a bidirectional two-sample Mendelian randomization study
+
+date: 2024-09-24, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe causal relationship between gut microbiota and insulin-like growth factor 1 (IGF-1) remains unclear. The purpose of this study was to explore the causal relationship between gut microbiota and IGF-1 in men and women.MethodsSingle-nucleotide polymorphisms (SNPs) related to gut microbiota were derived from pooled statistics from large genome-wide association studies (GWASs) published by the MiBioGen consortium. Pooled data for IGF-1 were obtained from a large published GWAS. We conducted Mendelian randomization (MR) analysis, primarily using the inverse variance weighted (IVW) method. Additionally, we performed sensitivity analyses to enhance the robustness of our results, focusing on assessing heterogeneity and pleiotropy.ResultsIn forward MR analysis, 11 bacterial taxa were found to have a causal effect on IGF-1 in men; 14 bacterial taxa were found to have a causal effect on IGF-1 in women (IVW, all P < 0.05). After false discovery rate (FDR) correction, all bacterial traits failed to pass the FDR correction. In reverse MR analysis, IGF-1 had a causal effect on nine bacterial taxa in men and two bacterial taxa in women respectively (IVW, all P < 0.05). After FDR correction, the causal effect of IGF-1 on order Actinomycetales (PFDR= 0.049) remains in men. The robustness of the IVW results was further confirmed after heterogeneity and pleiotropy analysis.ConclusionOur study demonstrates a bidirectional causal link between the gut microbiota and IGF-1, in both men and women. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1406132>
+
+---
+
+## Electrochemical biosensors on microfluidic chips as promising tools to study microbial biofilms: a review
+
+date: 2024-09-24, from: Frontiers in Cellular and Infection Microbiology
+
+Microbial biofilms play a pivotal role in microbial infections and antibiotic resistance due to their unique properties, driving the urgent need for advanced methodologies to study their behavior comprehensively across varied environmental contexts. While electrochemical biosensors have demonstrated success in understanding the dynamics of biofilms, scientists are now synergistically merging these biosensors with microfluidic technology. This combined approach offers heightened precision, sensitivity, and real-time monitoring capabilities, promising a more comprehensive understanding of biofilm behavior and its implications. Our review delves into recent advancements in electrochemical biosensors on microfluidic chips, specifically tailored for investigating biofilm dynamics, virulence, and properties. Through a critical examination of these advantages, properties and applications of these devices, the review highlights the transformative potential of this technology in advancing our understanding of microbial biofilms in different settings. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1419570>
 
 ---
 

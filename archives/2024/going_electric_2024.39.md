@@ -1,11 +1,367 @@
 ---
 title: going electric
-updated: 2024-09-25 05:50:36
+updated: 2024-09-26 06:50:46
 ---
 
 # going electric
 
-(date: 2024-09-25 05:50:36)
+(date: 2024-09-26 06:50:46)
+
+---
+
+## Volvo Waves The White Flag On Cheap EVs
+
+date: 2024-09-26, from: Inside EVs News
+
+Plus, Tesla's Robotaxi event is two weeks away and GM is building a hydrogen fuel cell plant. 
+
+<https://insideevs.com/news/735148/volvo-cheap-ev-china-declines/>
+
+---
+
+## Faraday Future Somehow Wants To Make A $20,000 EV
+
+date: 2024-09-26, from: Inside EVs News
+
+The startup is known for its $300,000 FF 91 2.0 Future Alliance luxury EV. Or rather, it would be if it had sold more than 10 cars. 
+
+<https://insideevs.com/news/735210/faraday-future-cheap-ev/>
+
+---
+
+## Get all your EV questions answered during Drive Electric Week, Sep 27-Oct 6
+
+date: 2024-09-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/2468-e1727225870138.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Drive Electric Week kicks off this Saturday with <a href="https://driveelectricweek.org/attend">nearly 200 online and in-person events</a> celebrating electric vehicles. Events will be held for the next two weekends, from September 27 through October 6, in the US, Canada, and one in Guadalajara, Mexico.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="national-drive-electric-week" data-layer-viewtype="unknown" data-post-id="381313" href="https://electrek.co/2024/09/26/get-all-your-ev-questions-answered-at-drive-electric-week-sep-27-oct-6/#more-381313" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/26/get-all-your-ev-questions-answered-at-drive-electric-week-sep-27-oct-6/>
+
+---
+
+## The Hyundai Ioniq 5 Doesn’t Have A Rear Wiper. This Gadget Fixes That
+
+date: 2024-09-26, from: Inside EVs News
+
+It’s called the GeckoWiper and it can be fitted to just about any car out there that doesn’t have a rear window wiper. 
+
+<https://insideevs.com/news/735174/hyundai-ioniq-5-add-on-rear-wiper/>
+
+---
+
+## Here’s how the Fed’s interest rate cut is going to help you go solar
+
+date: 2024-09-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/02/pexels-photo-16148900.jpeg?quality=82&#038;strip=all&#038;w=1500" /></div><p>The Federal Reserve cut interest rates, and while it’s meant to support the broader economy, here’s how it helps homeowners go solar.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,interest,rooftop-solar,solar-power" data-layer-viewtype="unknown" data-post-id="380525" href="https://electrek.co/2024/09/25/heres-how-the-feds-rate-cut-helps-homeowners-go-solar/#more-380525" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/heres-how-the-feds-rate-cut-helps-homeowners-go-solar/>
+
+---
+
+## The Porsche Macan EV just got free Electrify America charging for a year
+
+date: 2024-09-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Large-1186-ElectrifyAmericaExpandsCustomerChargingCollaborationwithPorscheCarsNorthAmericatoIncludetheNewMacanElectric.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Owners of the new 2025 Porsche Macan Electric, which lands at US dealers <a href="https://electrek.co/2024/09/12/porsche-macan-ev-hits-us-dealers-sep-30-epa-range-just-certified-at-308mi/" target="_blank" rel="noreferrer noopener">this month</a>, will get one year of free 30-minute Electrify America charging sessions.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="381500" href="https://electrek.co/2024/09/25/porsche-macan-ev-free-electrify-america-charging-for-a-year/#more-381500" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/porsche-macan-ev-free-electrify-america-charging-for-a-year/>
+
+---
+
+## The number 1 electric car brand, Ford trains dealers, and Hyundai gets to work
+
+date: 2024-09-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/BYD-Han-blue-exterior-right-side-pc.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s gigantic episode of <a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a>, the world’s number 1 electric car brand celebrates its 9 millionth NEV with a new, 1,200 hp hypercar and a massive ocean liner big enough to fit 7,000 new electric cars!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,ev-sales,hyundai,quick-charge" data-layer-viewtype="unknown" data-post-id="381492" href="https://electrek.co/2024/09/25/the-number-1-electric-car-brand-ford-trains-dealers-and-hyundai-gets-to-work/#more-381492" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/the-number-1-electric-car-brand-ford-trains-dealers-and-hyundai-gets-to-work/>
+
+---
+
+## Tesla sends out invites to Robotaxi unveiling: ‘we, robot’
+
+date: 2024-09-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Tesla-we-robot-rotaxi-unveiling-event.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has started sending out invites to its Robotaxi unveiling event next month with the tagline: “we, robot.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="381483" href="https://electrek.co/2024/09/25/tesla-invites-robotaxi-unveiling-we-robot/#more-381483" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/tesla-invites-robotaxi-unveiling-we-robot/>
+
+---
+
+## Here’s how Kia’s range-topping EV9 GT interior compares to the current GT-Line [Video]
+
+date: 2024-09-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Kias-EV9-GT-interior.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A more powerful, sportier <a href="https://electrek.co/guides/kia-ev9/">EV9</a> electric SUV is coming soon. The range-topping Kia EV9 GT will feature several upgrades over the current GT-Line model, including a new interior design. Check out the video below to see how the inside of the upcoming GT model compares to the current GT-line.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev9" data-layer-viewtype="unknown" data-post-id="381462" href="https://electrek.co/2024/09/25/kias-range-topping-ev9-gt-interior-vs-current-gt-line-video/#more-381462" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/kias-range-topping-ev9-gt-interior-vs-current-gt-line-video/>
+
+---
+
+## BYD launches popular Dolphin, Seal, and Atto 3 EVs in Kenya with local Toyota dealer
+
+date: 2024-09-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/BYD-EVs-Kenya.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kenya just got a new EV competitor. <span style="margin: 0px; padding: 0px;">On Wednesday, <a href="https://electrek.co/guides/byd/" target="_blank" rel="noopener">BYD</a> launched t</span>hree of its top-selling EVs, the Dolphin, Seal, and Atto 3, in Kenya. The electric vehicles will be sold by local dealer Loxea, which sells Toyota and other gas-powered models. BYD’s new partnership is another significant milestone as it takes on new markets.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="381446" href="https://electrek.co/2024/09/25/byd-launches-top-selling-evs-kenya-local-toyota-dealer/#more-381446" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/byd-launches-top-selling-evs-kenya-local-toyota-dealer/>
+
+---
+
+## Polestar Launches Electric Mountain Bike To Match Its SUVs
+
+date: 2024-09-25, from: Inside EVs News
+
+Moving more into micromobility seems like a natural step as automakers transition to becoming mobility provides. 
+
+<https://insideevs.com/news/735125/polestar-electric-mountain-bike/>
+
+---
+
+## EAST OAK 21-inch smokeless fire pit at new $146 low, Rare Electric Bike Co. and Lectric price cuts, Bluetti units 47% off, more
+
+date: 2024-09-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/EAST-OAK-21-inch-smokeless-fire-pit.webp?w=1200" /></div><p>Today’s Green Deals are full of new lows, rare opportunities, and short-term deals alike, with <a href="https://9to5toys.com/2024/09/24/enjoy-autumn-gatherings-around-east-oaks-21-inch-smokeless-wood-burning-fire-pit-at-new-146-low-reg-270/">EAST OAK’s 21-inch Smokeless Fire Pit</a> hitting a new <a href="https://9to5toys.com/2024/09/24/enjoy-autumn-gatherings-around-east-oaks-21-inch-smokeless-wood-burning-fire-pit-at-new-146-low-reg-270/">$146 low</a> ahead of outdoor autumn gatherings. We have two exciting and rare EV deals too, with Electric Bike Company taking <a href="https://9to5toys.com/2024/09/24/electric-bike-co-e-bike-bundles-now-up-to-500-off-with-bonus-promotion-options-starting-from-1899/">up to $500 off seven e-bike bundles that start from $1,899</a>, along with bonus promotional options too, while <a href="https://9to5toys.com/2024/09/25/lectric-offers-rare-price-cuts-on-xpeak-off-road-e-bikes-with-227-in-bonus-gear-at-1299-low/">Lectric’s XPeak Off-Road e-bikes</a> are receiving a $100 price cut for the rest of the month to its pre-tariff <a href="https://9to5toys.com/2024/09/25/lectric-offers-rare-price-cuts-on-xpeak-off-road-e-bikes-with-227-in-bonus-gear-at-1299-low/">$1,299 low</a>. There’s also <a href="https://9to5toys.com/2024/09/25/bluettis-short-term-power-week-sale-is-taking-up-to-47-off-home-and-on-the-go-backup-solutions-from-299/">Bluetti’s short-term Power Week Sale</a> that is taking up to 47% off power stations and bundles, as well as a one-day sale on <a href="https://9to5toys.com/2024/09/25/go-ice-free-with-ankers-53l-everfrost-dual-zone-portable-electric-cooler-50-at-699-for-the-rest-of-the-day-save-250/">Anker’s 53L EverFrost Dual-Zone Portable Electric Cooler 50</a>. Plus, all the other hangover Green Deals in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2024/09/24/rare-chance-to-save-on-evolvs-terra-full-suspension-electric-scooter-at-new-1079-low-reg-1229/">EVOLV Terra Electric Scooter</a> discount, the <a href="https://9to5toys.com/2024/09/24/jackerys-early-prime-sale-takes-50-off-6128-4wh-lifepo4-explorer-2000-plus-bundle-at-new-3299-low/">pre-Prime Day sale from Jackery</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="381422" href="https://electrek.co/2024/09/25/east-oak-fire-pit-rare-electric-bike-co-and-lectric-cuts-bluetti-more/#more-381422" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/east-oak-fire-pit-rare-electric-bike-co-and-lectric-cuts-bluetti-more/>
+
+---
+
+## Chevy Silverado EVs Already Selling For Cut-Rate Prices From Hertz
+
+date: 2024-09-25, from: Inside EVs News
+
+The rental giant has been trimming its EV fleet, and the Silverado EV is its latest victim. 
+
+<https://insideevs.com/news/735122/chevy-silverado-ev-hertz/>
+
+---
+
+## Tesla calls to certify energy installers as it winds down its solar installations
+
+date: 2024-09-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Tesla-certified-installer-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is calling for more energy installers to be certified on its products as the company winds down its own solar installations.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="381420" href="https://electrek.co/2024/09/25/tesla-calls-certify-energy-installers-as-it-winds-down-solar-installations/#more-381420" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/tesla-calls-certify-energy-installers-as-it-winds-down-solar-installations/>
+
+---
+
+## Hyundai launches its first Chassis Cab electric work truck in Korea for $42,000
+
+date: 2024-09-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Hyundai-first-electric-work-truck-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/hyundai/">Hyundai</a> launched its first small electric work truck in Korea on Wednesday, starting at around $42,000 (55.95 million won). The Chassis Cab EV work truck was launched alongside a new Special High-Top Model, rounding out Hyundai’s ST1 lineup.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="381413" href="https://electrek.co/2024/09/25/hyundai-launches-first-electric-work-truck-for-42000/#more-381413" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/hyundai-launches-first-electric-work-truck-for-42000/>
+
+---
+
+## The Denza Z9 GT Is Coming To Europe To Undercut The Porsche Taycan
+
+date: 2024-09-25, from: Inside EVs News
+
+Denza owner BYD has announced its plan to bring the Z9 GT to Europe, where it will be a cheaper alternative to its main rivals. 
+
+<https://insideevs.com/news/735062/denza-z9-gt-taycan-rival/>
+
+---
+
+## UrbanLink inks another electric aircraft purchase, committing to 27 Seagliders from REGENT Craft
+
+date: 2024-09-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Electric-seaglider-REGENT-Urbanlink.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Advanced air mobility (AAM) operator <a href="https://electrek.co/guides/urbanlink/">UrbanLink</a> has just signed a new purchase agreement to bring even more electric aircraft to the Southeastern United States. Its latest purchase includes 27 all-electric Seagliders from REGENT Craft – a sustainable air mobility developer.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-planes,florida,regent-craft,urbanlink" data-layer-viewtype="unknown" data-post-id="381401" href="https://electrek.co/2024/09/25/urbanlink-electric-aircraft-purchase-27-seagliders-regent-craft/#more-381401" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/urbanlink-electric-aircraft-purchase-27-seagliders-regent-craft/>
+
+---
+
+## Volvo has no plans to challenge low-cost EVs in China as a price war intensifies
+
+date: 2024-09-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Volvo-EX30-orders-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/volvo/">Volvo</a> has no plans to challenge low-cost EVs in China as the ongoing price war intensifies. The EX30, Volvo’s cheapest EV, starts at around $28,000 (200,800 yuan), but that’s as low as the company will go.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo" data-layer-viewtype="unknown" data-post-id="381371" href="https://electrek.co/2024/09/25/volvo-no-plans-challenge-low-cost-evs-china/#more-381371" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/volvo-no-plans-challenge-low-cost-evs-china/>
+
+---
+
+## BYD rolls 9 millionth NEV off its assembly lines with 1 million built in last 3 months alone
+
+date: 2024-09-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/BYD-NEV-9-million.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Yes, you read that correctly. Nine million new energy vehicles (NEVs) built. Chinese automaker <a href="https://electrek.co/guides/byd/">Build Your Dreams</a> (BYD) continues to gain momentum as a globally recognized brand, having built three million NEVs in the past three months, bringing its cumulative total to nine million.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,byd-yangwang,china" data-layer-viewtype="unknown" data-post-id="381376" href="https://electrek.co/2024/09/25/byd-9-millionth-nev-1-million-built-in-last-3-months/#more-381376" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/byd-9-millionth-nev-1-million-built-in-last-3-months/>
+
+---
+
+## Getting Fisker Oceans Fixed Just Got Way Easier
+
+date: 2024-09-25, from: Inside EVs News
+
+New service locations are open for business and are equipped with Fisker's diagnostic tool, the Fisker Owners Association said.  
+
+<https://insideevs.com/news/735084/fisker-ocean-service-centers-fast/>
+
+---
+
+## Tesla (TSLA) sees higher expectations from Wall Street ahead of delivery results
+
+date: 2024-09-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/Tesla-extended-warranty-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) is going to have to deliver as Wall Street is raising expectations in vehicle deliveries for the electric automaker ahead of the results coming next week.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="381370" href="https://electrek.co/2024/09/25/tesla-tsla-sees-higher-expectations-from-wall-street-ahead-of-delivery-results/#more-381370" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/tesla-tsla-sees-higher-expectations-from-wall-street-ahead-of-delivery-results/>
+
+---
+
+## Anti-China EV Policies Won't Protect America Forever
+
+date: 2024-09-25, from: Inside EVs News
+
+Or rather, America's auto industry, experts say. For now, tariffs buy time. "Then the question is, what will we do with our time?" 
+
+<https://insideevs.com/news/735092/china-tariff-panel-critical-materials/>
+
+---
+
+## Audi Q6 E-Tron Starts At $65,095, Has Up To 321 Miles Of Range
+
+date: 2024-09-25, from: Inside EVs News
+
+Three variants are available, and the base rear-wheel drive model with the ‘Ultra Package’ provides the most range. 
+
+<https://insideevs.com/news/735091/audi-q6-etron-us-pricing/>
+
+---
+
+## XPeng launches a new variant of its X9 MPV complete with two LiDARs and XNGP capabilities
+
+date: 2024-09-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/XPeng-X9-MPV-610-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>XPeng Motors has just launched a new advanced version of its X9 MPV, featuring LiDAR, XNGP ADAS, and 610km of all-electric range. This long-range variant is now on sale in China, and <a href="https://electrek.co/guides/xpeng/">XPeng</a> is offering a limited-time discount for customers who buy early.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="xpeng,xpeng-motors,xpeng-x9" data-layer-viewtype="unknown" data-post-id="381345" href="https://electrek.co/2024/09/25/xpeng-launches-new-variant-x9-mpv-two-lidars-xngp-capabilities/#more-381345" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/xpeng-launches-new-variant-x9-mpv-two-lidars-xngp-capabilities/>
+
+---
+
+## Ford exec says most drivers don’t realize the major perks of EVs like charging at home
+
+date: 2024-09-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Ford-UAW-Discount-2025.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/ford/">Ford’s</a> Marin Gjaja explained that most drivers don’t realize the major perks of driving an EV. Not only is it more efficient, but it also offers extra benefits like skipping the lines at the gas station with the ability to charge at home.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="381340" href="https://electrek.co/2024/09/25/ford-drivers-dont-realize-ev-perks-charging-at-home/#more-381340" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/ford-drivers-dont-realize-ev-perks-charging-at-home/>
+
+---
+
+## Tesla progresses on Giga Berlin expansion, workers snuck in the middle of the night with police
+
+date: 2024-09-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/12/Tesla-Gigafactory-Berlin-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Workers have reportedly snuck with police in the middle of the night in the forest around Gigafactory Berlin to cut trees for Tesla’s expansion.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="381341" href="https://electrek.co/2024/09/25/tesla-progresses-on-giga-berlin-expansion-workers-snuck-in-the-middle-of-the-night-with-police/#more-381341" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/tesla-progresses-on-giga-berlin-expansion-workers-snuck-in-the-middle-of-the-night-with-police/>
+
+---
+
+## Fisker Owners May Have To Pay For Recalls Out Of Pocket After All
+
+date: 2024-09-25, from: Inside EVs News
+
+The failed EV startup flip-flopped again on whether customers will need to foot the bill for recall repairs. Now it says they will. 
+
+<https://insideevs.com/news/735072/fisker-owners-pay-for-recall/>
+
+---
+
+## Stellantis-backed Leapmotor teases new B10 SUV before it launches in EU markets
+
+date: 2024-09-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Leapmotor-SUV-B10-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chinese EV automaker Leapmotor is teasing its latest SUV model and the first to arrive on its new “B Platform” architecture. The company posted initial images of its B10 compact SUV before the new EV model makes its debut at the Paris Auto Show alongside joint venture partner <a href="https://electrek.co/guides/stellantis/">Stellantis</a>. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="leap-motor,leapmotor-b10,leapmotor-international,stellantis" data-layer-viewtype="unknown" data-post-id="381333" href="https://electrek.co/2024/09/25/stellantis-leapmotor-teases-new-b10-suv-before-it-launches-in-eu/#more-381333" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/25/stellantis-leapmotor-teases-new-b10-suv-before-it-launches-in-eu/>
 
 ---
 
