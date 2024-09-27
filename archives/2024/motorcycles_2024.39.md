@@ -1,11 +1,111 @@
 ---
 title: motorcycles
-updated: 2024-09-26 06:50:44
+updated: 2024-09-27 07:36:22
 ---
 
 # motorcycles
 
-(date: 2024-09-26 06:50:44)
+(date: 2024-09-27 07:36:22)
+
+---
+
+## NASCAR Driver Martin Truex Jr. bids farewell to Kansas Speedway where he once dominated
+
+date: 2024-09-27, from: Kickin the Tires blog
+
+By Randy Covitz, Special to Kickin’ the Tires Martin Truex Jr. may have a difficult time saying goodbye to Kansas Speedway this weekend. Truex, who is retiring from full-time NASCAR&#8230;  
+
+<https://kickinthetires.net/nascar/nascar-driver-martin-truex-jr-bids-farewell-to-kansas-speedway-where-he-once-dominated/>
+
+---
+
+## This Mojave Desert Tour May Be The Perfect Getaway, Just Don't Die
+
+date: 2024-09-27, from: Ride Apart, Electric Motorcycle News
+
+Explore the Mojave Desert and take just two days off? Count me in!  
+
+<https://www.rideapart.com/news/735151/eaglerider-yamaha-mojave-desert-tour-october-2024/>
+
+---
+
+## Oh My God, the Honda Dax Is Really, Actually, FINALLY Coming To the US
+
+date: 2024-09-27, from: Ride Apart, Electric Motorcycle News
+
+Took you long enough, Honda. But thanks! 
+
+<https://www.rideapart.com/news/735265/honda-dax-us-release-2025/>
+
+---
+
+## Tesla's Dumb Cybertruck Can't Handle a Motorcycle Carrier, Will Snap Right Off
+
+date: 2024-09-27, from: Ride Apart, Electric Motorcycle News
+
+Just the longest sigh in existence.  
+
+<https://www.rideapart.com/news/735259/tesla-cybertruck-two-weight-motorcycle-carrier/>
+
+---
+
+## Two-Up at MotoAmerica Is the Closest You’ll Feel to a MotoGP Rider
+
+date: 2024-09-27, from: Ride Apart, Electric Motorcycle News
+
+Show me another two-up ride that's this intense and this accessible, please. 
+
+<https://www.rideapart.com/news/735284/two-up-motoamerica-riding-experience-review/>
+
+---
+
+## India’s First Few Ultraviolette F77 Set To Change EV Motorcycle Game, In Europe
+
+date: 2024-09-27, from: Ride Apart, Electric Motorcycle News
+
+The first batch of F77 EV motorcycles has landed in Europe.  
+
+<https://www.rideapart.com/news/735150/india-ultraviolette-f77-electric-motorcycle-export-europe/>
+
+---
+
+## Harley Recalls Nearly 42,000 Road Glides, Street Glides That Could Short Out
+
+date: 2024-09-27, from: Ride Apart, Electric Motorcycle News
+
+What's the one thing you don't want to do with your wiring harness?  
+
+<https://www.rideapart.com/news/735144/harley-2024-glide-short-recall/>
+
+---
+
+## Kawasaki Ninja 7 and Z7 Hybrids Get Stop Sale, ECU Issue to Blame
+
+date: 2024-09-27, from: Ride Apart, Electric Motorcycle News
+
+Both of Kawasaki's Hybrids have a programming issue that needs to be fixed. 
+
+<https://www.rideapart.com/news/735250/kawasaki-hybrids-neutral-software-recall/>
+
+---
+
+## As Layne Riggs Rises, a Cup Champion is Taking Notice
+
+date: 2024-09-27, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer Layne Riggs is going for a third consecutive win in the Craftsman Truck Series this weekend at Kansas Speedway. It&#8217;s a mark rarely achieved by&#8230;  
+
+<https://kickinthetires.net/nascar/as-layne-riggs-rises-a-cup-champion-is-taking-notice/>
+
+---
+
+## ARCA Menards West Series: 2024 Madera Race Preview
+
+date: 2024-09-26, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires This Saturday, September 28, 2024, the ARCA Menards West Series returns to action after a month and a half break. The ninth&#8230;  
+
+<https://kickinthetires.net/nascar/arca-menards-west-series-2024-madera-race-preview/>
 
 ---
 

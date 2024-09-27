@@ -1,11 +1,324 @@
 ---
 title: journalism
-updated: 2024-09-26 06:50:41
+updated: 2024-09-27 07:36:19
 ---
 
 # journalism
 
-(date: 2024-09-26 06:50:41)
+(date: 2024-09-27 07:36:19)
+
+---
+
+## The dark side of NIL
+
+date: 2024-09-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>NIL is supposed to help support student-athletes, but why is it instead exploiting women?</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/27/the-dark-side-of-nil/">The dark side of NIL</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/27/the-dark-side-of-nil/>
+
+---
+
+## B1G transfers make big impacts
+
+date: 2024-09-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Some say the Trojans’ glory days are over, but transfers are rewriting the narrative.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/27/b1g-transfers-make-big-impacts/">B1G transfers make big impacts</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/27/b1g-transfers-make-big-impacts/>
+
+---
+
+## Men’s water polo heads home from Berkeley
+
+date: 2024-09-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans hope to tack on to the win column Friday when they host Cal Baptist.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/27/mens-water-polo-heads-home-from-berkeley/">Men’s water polo heads home from Berkeley</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/27/mens-water-polo-heads-home-from-berkeley/>
+
+---
+
+## Miller Moss’ first three starts matched up with USC’s best QBs
+
+date: 2024-09-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans’ newest signal caller is starting out better than some of USC’s greatest.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/27/miller-moss-first-three-starts-matched-up-with-uscs-best-qbs/">Miller Moss’ first three starts matched up with USC’s best QBs</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/27/miller-moss-first-three-starts-matched-up-with-uscs-best-qbs/>
+
+---
+
+## Football plans bounce back against Wisconsin
+
+date: 2024-09-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC will vie for their first Big Ten win this week after stumbling at the Big House.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/27/football-plans-bounce-back-against-wisconsin/">Football plans bounce back against Wisconsin</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/27/football-plans-bounce-back-against-wisconsin/>
+
+---
+
+## Classifieds – September 27, 2024
+
+date: 2024-09-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/27/classifieds-september-27-2024/">Classifieds &#8211; September 27, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/27/classifieds-september-27-2024/>
+
+---
+
+## Weekly Frame II: Animals
+
+date: 2024-09-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>This week for “The Weekly Frame,” staff photographers Bryce Dechert, Teo Gonzales and Fin Liu and were tasked with capturing animals in and around campus.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/27/weekly-frame-ii-animals/">Weekly Frame II: Animals</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/27/weekly-frame-ii-animals/>
+
+---
+
+## Faye Webster rouses the Greek Theatre
+
+date: 2024-09-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The alternative artist gave her Los Angeles crowd an unforgettable performance.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/27/faye-webster-rouses-the-greek-theatre/">Faye Webster rouses the Greek Theatre</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/27/faye-webster-rouses-the-greek-theatre/>
+
+---
+
+## Financial aid’s limitations on out-of-state undocumented students
+
+date: 2024-09-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>University support should extend to all undocumented, not just in-state students.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/27/financial-aids-limitations-on-out-of-state-undocumented-students/">Financial aid’s limitations on out-of-state undocumented students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/27/financial-aids-limitations-on-out-of-state-undocumented-students/>
+
+---
+
+## Los Angeles flea markets offer one-of-a-kind finds
+
+date: 2024-09-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Seven local flea markets to check out with you friends throughout the next month.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/27/los-angeles-flea-markets-offer-one-of-a-kind-finds/">Los Angeles flea markets offer one-of-a-kind finds</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/27/los-angeles-flea-markets-offer-one-of-a-kind-finds/>
+
+---
+
+## Multiple USC buildings may need earthquake retrofits
+
+date: 2024-09-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC said four structures were retrofitted out of nine reported potentially unsafe.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/27/multiple-usc-buildings-may-need-earthquake-retrofits/">Multiple USC buildings may need earthquake retrofits</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/27/multiple-usc-buildings-may-need-earthquake-retrofits/>
+
+---
+
+## UCLA men’s soccer become hopeful ahead of first-time match against Michigan State
+
+date: 2024-09-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+After a 5-1 rout &#8211; their largest victory of the season &#8211; the Bruins will gear up for a second Big Ten clash this week.
+On Friday, UCLA men&#8217;s soccer (4-2-3, 1-1-1 Big Ten) continues conference play, hosting Michigan State (2-4-2, 1-1 Big Ten) at Wallis Annenberg Stadium. 
+
+<https://dailybruin.com/2024/09/26/ucla-mens-soccer-become-hopeful-ahead-of-first-time-match-against-michigan-state/>
+
+---
+
+## Scouting report: UCLA women’s volleyball vs. Nebraska
+
+date: 2024-09-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA women&#8217;s volleyball (6-3) is gearing up for a showdown against No. 2 Nebraska (10-1) to kick off Big Ten play Friday at the Bob Devaney Sports Center. 
+
+<https://dailybruin.com/2024/09/26/scouting-report-ucla-womens-volleyball-vs-nebraska/>
+
+---
+
+## Class of 2025 main commencement moved to Los Angeles Memorial Coliseum
+
+date: 2024-09-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC cited the commencement's size and experience hosting Fall 2024 Convocation and three school commencements at the Coliseum in Spring 2024 to explain the change.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/26/class-of-2025-main-commencement-moved-to-los-angeles-memorial-coliseum/">Class of 2025 main commencement moved to Los Angeles Memorial Coliseum</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/26/class-of-2025-main-commencement-moved-to-los-angeles-memorial-coliseum/>
+
+---
+
+## Religion on Campus: Bruin Hindus
+
+date: 2024-09-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+On this episode of &#8220;Religion on Campus,&#8221; sisters Lauren Miller and Olivia Miller sit down with the internal vice president of Bruin Hindus, Keshav Shukla, to explore UCLA&#8217;s Hindu student organization. 
+
+<https://dailybruin.com/2024/09/26/religion-on-campus-bruin-hindus/>
+
+---
+
+## UCLA baseball stadium ordered to close until land is used to serve veterans
+
+date: 2024-09-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Sept. 26 at 6:08 p.m.</em>
+The Jackie Robinson Baseball Stadium was locked Thursday afternoon in accordance with a federal ruling.
+Judge David O. 
+
+<https://dailybruin.com/2024/09/26/ucla-baseball-stadium-ordered-to-close-until-land-is-used-to-serve-veterans/>
+
+---
+
+## Concert review: Usher leads audiences through triumphant ‘Past Present Future’ celebration of R&B
+
+date: 2024-09-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Thirty years into his career, Usher proves that his impact will continue into R&#38;B&#8217;s future.
+The singer-songwriter electrified his last of four sold-out shows at Inglewood&#8217;s Intuit Dome on Wednesday night. 
+
+<https://dailybruin.com/2024/09/26/concert-review-usher-leads-audiences-through-triumphant-past-present-future-celebration-of-rb/>
+
+---
+
+## Why Do the Number of Bicycle Accidents Keep Rising?
+
+date: 2024-09-26, from: The Sundail (CSUN Student Newspaper)
+
+Image source: Pexels Cycling is a fantastic way to exercise, explore your surroundings, and reduce your carbon footprint. However, a concerning trend is emerging: the number of bicycle accident injuries... 
+
+<https://sundial.csun.edu/185446/sundialbrandstudio/sundial-marketplace/why-do-the-number-of-bicycle-accidents-keep-rising/>
+
+---
+
+## Fatal Car Accident: The Financial and Emotional Impact the Surviving Family Might Face
+
+date: 2024-09-26, from: The Sundail (CSUN Student Newspaper)
+
+Image source A fatal car accident is a highly distressing event that has a significant financial and emotional impact on the relatives of the victims in addition to the immediate... 
+
+<https://sundial.csun.edu/185433/sundialbrandstudio/sundial-marketplace/fatal-car-accident-the-financial-and-emotional-impact-the-surviving-family-might-face/>
+
+---
+
+## How Virtual Currencies Are Changing the Football Gaming Landscape
+
+date: 2024-09-26, from: The Sundail (CSUN Student Newspaper)
+
+Football is not just a game anymore; it is a worldwide phenomenon that has surpassed the barriers of physical stadiums and is now taking over the digital space as we... 
+
+<https://sundial.csun.edu/185429/sundialbrandstudio/sundial-marketplace/how-virtual-currencies-are-changing-the-football-gaming-landscape/>
+
+---
+
+## 7 Careers in Sustainability for All Environmental Lovers
+
+date: 2024-09-26, from: The Sundail (CSUN Student Newspaper)
+
+Sustainability has become a hotly debated topic in the corporate world. The growing public interest in environmental and social responsibility has led many companies to invest in such initiatives. Furthermore,... 
+
+<https://sundial.csun.edu/185415/sundialbrandstudio/sundial-marketplace/7-careers-in-sustainability-for-all-environmental-lovers/>
+
+---
+
+## Q&A: ‘Turning Red’ star Rosalie Chiang widens lens of Asian representation
+
+date: 2024-09-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Through her passion for acting, Rosalie Chiang is bringing Asian American coming-of-age stories to the screen.
+The second-year communication student is best known for voicing the lead role of Meilin Lee in Pixar&#8217;s 2022 animated film, &#8220;Turning Red,&#8221; as well as the voice of Chika Amabe in the Japanese fantasy adventure film &#8220;Suzume&#8221; and Suzy Nakamura in the Disney+ series &#8220;American Born Chinese.&#8221; At UCLA, Chiang continues to pursue acting alongside her studies in communication. 
+
+<https://dailybruin.com/2024/09/26/qturning-red-star-rosalie-chiang-widens-lens-of-asian-representation/>
+
+---
+
+## Theater review: ‘Dragon Lady’ lights up stage with expressive multi-generational tale
+
+date: 2024-09-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+With “Dragon Lady,” Sara Porkalob has created a fiery theatrical supernova.
+The one-woman show is the first of three plays in “The Dragon Cycle,” a series that also includes “Dragon Mama” and the upcoming “Dragon Baby,” all written and performed by the Filipina American playwright. 
+
+<https://dailybruin.com/2024/09/26/theater-review-dragon-lady-lights-up-stage-with-expressive-multi-generational-tale/>
+
+---
+
+## How campus involvement can earn students priority registration
+
+date: 2024-09-26, from: The Sundail (CSUN Student Newspaper)
+
+Priority registration is an academic advantage that allows some students to register for classes earlier than other students. This can help students to secure their preferred classes before they fill... 
+
+<https://sundial.csun.edu/185393/news/how-campus-involvement-can-earn-students-priority-registration/>
+
+---
+
+## Men’s water polo to rematch Santa Barbara in hopes of remaining undefeated
+
+date: 2024-09-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins have a chance at staying undefeated as they prepare for a rematch.
+No.1 UCLA men&#8217;s water polo (10-0) is set to compete against No. 
+
+<https://dailybruin.com/2024/09/26/mens-water-polo-to-rematch-santa-barbara-in-hopes-of-remaining-undefeated/>
+
+---
+
+## BREAKING: Stolen vehicle pursuit ends in vehicle collision
+
+date: 2024-09-26, from: The Sundail (CSUN Student Newspaper)
+
+A police pursuit ended in a crash on the corner of Lindley Avenue and Halsted Street at 10:35 a.m. this morning as students were arriving on campus. According to the... 
+
+<https://sundial.csun.edu/185389/news/breaking-stolen-vehicle-pursuit-ends-in-vehicle-collision/>
+
+---
+
+## With eyes on the postseason, cross country heads to first season invitational
+
+date: 2024-09-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+First-meet jitters are no longer an excuse.
+But the Bruins&#8217; upcoming road trip presents a new set of lingering challenges.
+UCLA cross country will compete in its second seasonal meet, the Gans Creek Classic, in Columbia, Missouri, on Friday. 
+
+<https://dailybruin.com/2024/09/26/with-eyes-on-the-postseason-cross-country-heads-to-first-season-invitational/>
+
+---
+
+## Ride Smart: Discover CSUN’s Transportation Services
+
+date: 2024-09-26, from: The Sundail (CSUN Student Newspaper)
+
+CSUN offers different transportation services for students to commute to school. These services are located throughout Los Angeles County and are accessible to anyone. It provides a fast and convenient... 
+
+<https://sundial.csun.edu/185349/news/ride-smart-discover-csuns-transportation-services/>
 
 ---
 
@@ -364,7 +677,7 @@ date: 2024-09-25, from: The Round Up (Pierce College Student Newspaper)
 
 date: 2024-09-25, from: The Sundail (CSUN Student Newspaper)
 
-The women’s golf team won its first team tournament title since 2014 this past monday at the Eagle Invitational at Circling Raven Golf Course. The Matadors won the tournament by... 
+The women’s golf team won its first team tournament title since 2014 this past Monday at the Eagle Invitational at Circling Raven Golf Course. The Matadors won the tournament by... 
 
 <https://sundial.csun.edu/185305/sports/womens-golf-clinch-first-tournament-win-since-2014/>
 

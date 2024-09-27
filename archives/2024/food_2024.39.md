@@ -1,11 +1,235 @@
 ---
 title: food
-updated: 2024-09-26 06:50:47
+updated: 2024-09-27 07:36:25
 ---
 
 # food
 
-(date: 2024-09-26 06:50:47)
+(date: 2024-09-27 07:36:25)
+
+---
+
+## Listen To The 15th Anniversary Coffee Sprudgecast Spectacular!
+
+date: 2024-09-27, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. 15 years of Sprudge dot com! 
+
+<https://sprudge.com/listen-to-the-15th-anniversary-coffee-sprudgecast-spectacular-255564.html>
+
+---
+
+## Chili And Rosemary Bread Balls
+
+date: 2024-09-27, from: Pepper Scale
+
+These chili and rosemary bread balls are a delicious alternative to bread rolls, and perfect as a side for pasta, soups, and red meats. The heat comes from serrano pepper in this recipe (medium-heat, 10,000 to 23,000 Scoville heat units), but you could opt to ... <p class="read-more-container"><a title="Chili And Rosemary Bread Balls" class="read-more button" href="https://pepperscale.com/chili-and-rosemary-bread-balls/#more-91064" aria-label="Read more about Chili And Rosemary Bread Balls">Read more</a></p> 
+
+<https://pepperscale.com/chili-and-rosemary-bread-balls/>
+
+---
+
+## Lavazza’s New Ad Campaign Makes Me Deeply Uncomfortable
+
+date: 2024-09-27, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Lavazza thinks that "Pleasure Makes Us Human." But does that include robots? 
+
+<https://sprudge.com/lavazzas-new-ad-campaign-makes-me-deeply-uncomfortable-255849.html>
+
+---
+
+## Stuffed Poblano Peppers Recipe
+
+date: 2024-09-27, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/stuffed-poblano-peppers/" title="Stuffed Poblano Peppers Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Stuffed-Poblano-Peppers-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="3 Cheesy Stuffed Poblano Peppers on a plate, topped with fresh chopped parsley and chili flakes" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Stuffed-Poblano-Peppers-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Stuffed-Poblano-Peppers-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Stuffed-Poblano-Peppers-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Stuffed-Poblano-Peppers-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Stuffed-Poblano-Peppers-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Stuffed-Poblano-Peppers-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Stuffed-Poblano-Peppers-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>These stuffed poblano peppers are loaded with seasoned ground beef, black beans, corn, and fire roasted tomatoes, then topped with melty cheese, so good!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/stuffed-poblano-peppers/">Stuffed Poblano Peppers Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<https://www.chilipeppermadness.com/recipes/stuffed-poblano-peppers/>
+
+---
+
+## Habanero Morning Marmalade (No Pectin)
+
+date: 2024-09-27, from: Pepper Scale
+
+If you need a strong kick in the morning to wake you up, forget the coffee and make some spicy habanero morning marmalade instead. Sticky, sweet, and zesty with just the right amount of spice, this recipe is a great way to use up any ... <p class="read-more-container"><a title="Habanero Morning Marmalade (No Pectin)" class="read-more button" href="https://pepperscale.com/habanero-morning-marmalade/#more-76583" aria-label="Read more about Habanero Morning Marmalade (No Pectin)">Read more</a></p> 
+
+<https://pepperscale.com/habanero-morning-marmalade/>
+
+---
+
+## What’s A Good Nam Prik Pao Substitute?﻿
+
+date: 2024-09-27, from: Pepper Scale
+
+Nam prik pao is sometimes called Thai chili jam and is a spicy, savory condiment traditionally served with fresh vegetables. You will need it to get that authentic taste in many Thai-style recipes for soups and stir-fried dishes, but it is not yet a common ... <p class="read-more-container"><a title="What&#8217;s A Good Nam Prik Pao Substitute?﻿" class="read-more button" href="https://pepperscale.com/nam-prik-pao-substitute/#more-35512" aria-label="Read more about What&#8217;s A Good Nam Prik Pao Substitute?﻿">Read more</a></p> 
+
+<https://pepperscale.com/nam-prik-pao-substitute/>
+
+---
+
+## Black Sheep Coffee is Counting On Texas with First US Location
+
+date: 2024-09-27, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Black-Sheep-Coffee-Plano-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Black Sheep Coffee Plano 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Black-Sheep-Coffee-Plano-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Black-Sheep-Coffee-Plano-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Black-Sheep-Coffee-Plano-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Black-Sheep-Coffee-Plano-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Black-Sheep-Coffee-Plano-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The newest member of UK-based Black Sheep Coffee&#8216;s growing flock of cafes is now open in Plano, Texas. With a modern Texan industrial vibe, the first United States location for... 
+
+<https://dailycoffeenews.com/2024/09/27/black-sheep-coffee-is-counting-on-texas-with-first-us-location/>
+
+---
+
+## Weekly Coffee News: The Cost of EUDR + A Link Roaster ‘Roastshow’
+
+date: 2024-09-27, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-drying-620x413.jpg" class="attachment-large size-large wp-post-image" alt="coffee drying" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-drying-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-drying-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-drying-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-drying-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-drying.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Fairtrade Senior Climate Advisor: EUDR Compliance Costs Unbearable to... 
+
+<https://dailycoffeenews.com/2024/09/27/weekly-coffee-news-the-cost-of-eudr-a-link-roaster-roastshow/>
+
+---
+
+## Qishan Saozi Mian (Qishan-Style Noodles)
+
+date: 2024-09-27, from: Pepper Scale
+
+Fiery, fragrant, slightly sweet, and nicely sour, these Qishan-style noodles are wonderfully warming and superbly satisfying. Ladled over noodles, the contrasting flavors come from a broth full of pork belly, cayenne peppers, Chinese five-spice, ginger, vinegar, mushrooms, carrots, and potatoes. The powerful appeal of this ... <p class="read-more-container"><a title="Qishan Saozi Mian (Qishan-Style Noodles)" class="read-more button" href="https://pepperscale.com/qishan-saozi-mian-qishan-style-noodles/#more-94232" aria-label="Read more about Qishan Saozi Mian (Qishan-Style Noodles)">Read more</a></p> 
+
+<https://pepperscale.com/qishan-saozi-mian-qishan-style-noodles/>
+
+---
+
+## Lime And Jalapeño Baked Salmon
+
+date: 2024-09-27, from: Pepper Scale
+
+A healthy and zingy dinner option, lime and jalapeño baked salmon is full of flavor with just a little heat.&#160;Baking the salmon with butter results in moist fish with the flavor deliciously locked in. If you have time, we recommend marinating overnight to achieve the ... <p class="read-more-container"><a title="Lime And Jalapeño Baked Salmon" class="read-more button" href="https://pepperscale.com/lime-and-jalapeno-baked-salmon/#more-77157" aria-label="Read more about Lime And Jalapeño Baked Salmon">Read more</a></p> 
+
+<https://pepperscale.com/lime-and-jalapeno-baked-salmon/>
+
+---
+
+## Designing a Good Coffee Bag Is Harder Than You’d Think
+
+date: 2024-09-27, from: The Fresh Cup
+
+<p>Great design can get a coffee bag noticed, but the details are what really connect with customers. So how should roasters decide which information matters most on a bag of coffee?</p>
+<p>The post <a href="https://freshcup.com/designing-a-good-coffee-bag-is-harder-than-youd-think/">Designing a Good Coffee Bag Is Harder Than You&#8217;d Think</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<https://freshcup.com/designing-a-good-coffee-bag-is-harder-than-youd-think/>
+
+---
+
+## Palak Paneer and More Recipes We Made This Week
+
+date: 2024-09-27, from: Bon Appetet
+
+Like pasta alla vodka and plum snack cake. 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-september-2024>
+
+---
+
+## Epazote – All About The Mexican Herb
+
+date: 2024-09-27, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/epazote/"><img title="All about Epazote, the popular Mexican herb" src="https://www.isabeleats.com/wp-content/uploads/2022/03/epazote-small-1-400x600.jpg" alt="Fresh epazote on a cutting board." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Epazote is a popular Mexican aromatic herb known for its distinct smell and taste. It&#8217;s the perfect finishing touch to your favorite Mexican beans, soups, and stews! What Is Epazote? Epazote (pronounced eh-pah-ZOH-teh)&#160;is a large and leafy aromatic herb that’s used in Mexican cooking, particularly in central and southern Mexico. It’s often used to add [&#8230;] 
+
+<https://www.isabeleats.com/epazote/>
+
+---
+
+## The Dangerous Mistake You Could Be Making with Enameled Cast Iron
+
+date: 2024-09-26, from: Taste of Home
+
+<p>Dutch ovens, like a Le Creuset or a Lodge, will last forever—as long as you know how to treat them.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/can-you-preheat-enameled-cast-iron/">The Dangerous Mistake You Could Be Making with Enameled Cast Iron</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/can-you-preheat-enameled-cast-iron/>
+
+---
+
+## I Tried Air-Fryer Twinkies, and It’s By Far the Best Way to Eat This Snack
+
+date: 2024-09-26, from: Taste of Home
+
+<p>If regular Twinkies aren't enough, make air-fryer Twinkies for a crispy take on the Hostess snack cakes.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/air-fryer-twinkies/">I Tried Air-Fryer Twinkies, and It&#8217;s By Far the Best Way to Eat This Snack</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/air-fryer-twinkies/>
+
+---
+
+## What a 41-Year-Old Single Parent of Three Eats on $145K in Upstate New York
+
+date: 2024-09-26, from: Bon Appetet
+
+The kids have different allergies and food restrictions, so they prep dinners such as a make-your-own noodle bar and grilled meat and veggies alike (and the occasional takeout). 
+
+<https://www.bonappetit.com/story/food-diary-single-parent-upstate-new-york>
+
+---
+
+## Burger King Is Bringing Us an Addams Family Menu for Halloween
+
+date: 2024-09-26, from: Taste of Home
+
+<p>No one does Halloween better than this spooky family! Here's what we know about the Burger King Addams Family menu.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/burger-king-addams-family-menu-2024/">Burger King Is Bringing Us an Addams Family Menu for Halloween</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/burger-king-addams-family-menu-2024/>
+
+---
+
+## 10 Food Advent Calendars to Buy Before They Sell Out (2024)
+
+date: 2024-09-26, from: Bon Appetet
+
+From cookies and chocolates to wine and cheese, these are the best food advent calendars to buy in 2024. 
+
+<https://www.bonappetit.com/story/best-food-advent-calendars>
+
+---
+
+## Coffee and Content Creation Combined at NYC’s Coffee Check
+
+date: 2024-09-26, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Check-Greenpoint-Brooklyn-2-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Coffee Check Greenpoint Brooklyn 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Check-Greenpoint-Brooklyn-2-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Check-Greenpoint-Brooklyn-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Check-Greenpoint-Brooklyn-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Check-Greenpoint-Brooklyn-2-768x511.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Coffee-Check-Greenpoint-Brooklyn-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A Brooklyn, New York-based consumer tech vlogger went from shooting videos inside coffee shops to opening a coffee shop of his own called Coffee Check. The approximately 2,500-square-foot cafe that... 
+
+<https://dailycoffeenews.com/2024/09/26/coffee-and-content-creation-combined-at-nycs-coffee-check/>
+
+---
+
+## A Stellar Coffee Experience At Belux Coffee Roasters In Roswell, GA
+
+date: 2024-09-26, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Belux Coffee Roasters in Roswell, Georgia. 
+
+<https://sprudge.com/a-stellar-coffee-experience-at-belux-coffee-roasters-in-roswell-ga-254124.html>
+
+---
+
+## All the Reasons a Cup of Coffee Really Can be Good for You
+
+date: 2024-09-26, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/drinking-coffee-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="drinking coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/drinking-coffee-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/drinking-coffee-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/drinking-coffee-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/drinking-coffee-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/drinking-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Consuming too much caffeine is definitely bad for your health, and there may be good reasons why some people want to&#160;quit it altogether. But if you despair at the idea... 
+
+<https://dailycoffeenews.com/2024/09/26/all-the-reasons-a-cup-of-coffee-really-can-be-good-for-you/>
 
 ---
 
@@ -83,6 +307,16 @@ date: 2024-09-26, from: Closet Cooking
 
 ---
 
+## Shrimp Mei Fun
+
+date: 2024-09-26, from: Taste of Home
+
+Our classic shrimp mei fun recipe tosses seared shrimp with rice vermicelli, tender vegetables and mushrooms. 
+
+<https://www.tasteofhome.com/recipes/shrimp-mei-fun/>
+
+---
+
 ## We Tried 5 of the Best Manual Coffee Grinders—These Are the 3 We Recommend
 
 date: 2024-09-25, from: Taste of Home
@@ -125,11 +359,11 @@ Turn up that soy! Sure, soy sauce with a little wasabi thrown in adds some tasty
 
 ---
 
-## Thanks To These Products, I Have an Actual Knife Care Routine
+## Thanks to These Products, I Have an Actual Knife-Care Routine
 
 date: 2024-09-25, from: Bon Appetet
 
-Plus a pepper grinder that revolutionized my late night cacio e pepe. 
+Plus a pepper grinder that revolutionized my late-night cacio e pepe. 
 
 <https://www.bonappetit.com/story/knife-sharpener-pepper-grinder>
 
@@ -171,7 +405,7 @@ Amazon’s October 2024 Prime Day is coming, but we’ve scouted some early deal
 
 date: 2024-09-25, from: Daily Coffee News
 
-<div><img width="620" height="464" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1-620x464.jpg" class="attachment-large size-large wp-post-image" alt="ProfilePrint Orca with ingredients" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1-620x464.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1-300x224.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1-768x574.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Singapore-based coffee analysis provider ProfilePrint says it has signed agreements with two of the largest coffee exporters in Brazil, Cooxupé and Minasul. The group also rolled out its newest green... 
+<div><img width="620" height="464" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1-620x464.jpg" class="attachment-large size-large wp-post-image" alt="ProfilePrint Orca with ingredients" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1-620x464.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1-300x224.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1-768x574.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/ProfilePrint-Orca-with-ingredients-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Singapore-based coffee analysis provider ProfilePrint says it has signed agreements with two of the largest coffee exporters in Brazil, Cooxupé and Minasul. The group also rolled out its newest green... 
 
 <https://dailycoffeenews.com/2024/09/25/profileprint-signs-ai-analysis-deal-with-major-brazilian-coffee-exporters/>
 
@@ -201,7 +435,7 @@ date: 2024-09-25, from: The Sprudge
 
 date: 2024-09-25, from: Daily Coffee News
 
-<div><img width="620" height="466" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1-620x466.jpg" class="attachment-large size-large wp-post-image" alt="WatchHouse Coffee London 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1-620x466.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1-768x577.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+<div><img width="620" height="466" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1-620x466.jpg" class="attachment-large size-large wp-post-image" alt="WatchHouse Coffee London 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1-620x466.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1-768x577.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/WatchHouse-Coffee-London-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
 
 <https://dailycoffeenews.com/2024/09/25/design-details-calming-grids-at-watchhouse-coffee-in-london/>
 
@@ -221,7 +455,7 @@ date: 2024-09-25, from: The Sprudge
 
 date: 2024-09-25, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Dice Coffee Ice Cubes 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A Los Angeles-based startup called Dice Provisions is betting on consumer trends towards cold coffee and convenience with the launch of Dice Coffee Ice Cubes.&#160; Designed to keep cold coffee... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Dice Coffee Ice Cubes 2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Dice-Coffee-Ice-Cubes-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A Los Angeles-based startup called Dice Provisions is betting on consumer trends towards cold coffee and convenience with the launch of Dice Coffee Ice Cubes.&#160; Designed to keep cold coffee... 
 
 <https://dailycoffeenews.com/2024/09/25/dice-coffee-ice-cubes-are-coming-in-hot/>
 
@@ -287,7 +521,7 @@ date: 2024-09-25, from: Isebel Eats
 
 date: 2024-09-25, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/red-beans-and-rice/" title="Red Beans and Rice Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of Red Beans and Rice, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Red beans and rice is a classic dish from Louisiana with creamy beans simmered slowly in a pot with smoked ham, andouille sausage, and lots of spices.</p>
+<a href="https://www.chilipeppermadness.com/recipes/red-beans-and-rice/" title="Red Beans and Rice Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of Red Beans and Rice, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2022/07/Red-Beans-and-Rice-Recipe3.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Red beans and rice is a classic dish from Louisiana with creamy beans simmered slowly in a pot with smoked ham, andouille sausage, and lots of spices.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/red-beans-and-rice/">Red Beans and Rice Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

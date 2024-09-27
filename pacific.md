@@ -1,11 +1,782 @@
 ---
 title: pacific
-updated: 2024-09-26 06:50:36
+updated: 2024-09-27 07:36:14
 ---
 
 # pacific
 
-(date: 2024-09-26 06:50:36)
+(date: 2024-09-27 07:36:14)
+
+---
+
+## Hawaiian Electric: Do not post signs on utility poles
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>Hawaiian Electric reminds the public that attaching signs to utility poles is illegal and poses a safety hazard for utility workers.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/hawaii-news/hawaiian-electric-do-not-post-signs-on-utility-poles/>
+
+---
+
+## DOE to restore two more Pahoa school bus routes Monday
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Education on Thursday announced it will restore two previously suspended school bus routes in East Hawaii starting Monday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/hawaii-news/doe-to-restore-two-more-pahoa-school-bus-routes-monday/>
+
+---
+
+## Can the Earth survive after the sun dies? New discovery sheds light on the possibility
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>While the poet Robert Frost wrote that &#8220;Some say the world will end in fire/ Some say in ice,&#8221; earthlings may take cold comfort from a newly published discovery that suggests the latter is more likely than previously believed.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/hawaii-news/can-the-earth-survive-after-the-sun-dies-new-discovery-sheds-light-on-the-possibility/>
+
+---
+
+## Hurricane Helene slams into Florida, fears of widespread damage, deaths
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>Hurricane Helene made landfall in Florida&#8217;s Big Bend region late Thursday as one of the most powerful storms to hit the state, raising fears of deaths, widespread damage and even worse floods than the severe deluge which had preceded its arrival. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/nation-world-news/hurricane-helene-slams-into-florida-fears-of-widespread-damage-deaths/>
+
+---
+
+## Democrats, Republicans battle over election rules in Harris-Trump face off
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) &#8212; The U.S. presidential contest between Democrat Kamala Harris and Republican Donald Trump features an array of legal battles over how the votes are cast and counted that are likely to last beyond Election Day on Nov. 5. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/nation-world-news/democrats-republicans-battle-over-election-rules-in-harris-trump-face-off/>
+
+---
+
+## More funding in the works to battle ROD
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>Additional federal funding to combat Rapid &#8216;Ohi&#8216;a Death has strong support in Congress after a bill by Hawaii lawmakers unanimously passed the House of Representatives this week.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/hawaii-news/more-funding-in-the-works-to-battle-rod/>
+
+---
+
+## UH-Hilo to get $21M to spruce up facilities
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green has released $21 million in capital improvement project funds to cover four construction and rehabilitation projects at the University of Hawaii at Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/hawaii-news/uh-hilo-to-get-21m-to-spruce-up-facilities/>
+
+---
+
+## Cevallos featured at League of Women Voters event
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>The League of Women Voters of Hawaii County invites the public to attend Principal Dean Cevallos&#8217; presentation, &#8220;Civic Education at Keaau High School, this Saturday in Keaau.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/community/cevallos-featured-at-league-of-women-voters-event/>
+
+---
+
+## Nation and world news in brief for September 27
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>Multiple Iranians indicted over Trump campaign hack: Politico</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/nation-world-news/nation-and-world-news-in-brief-for-september-27/>
+
+---
+
+## World’s first 3D-printed hotel takes shape in Texas
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>MARFA, Texas &#8212; It looks like any other 3D printer &#8212; except it&#8217;s the size of a crane and is, layer by layer, building a hotel in the Texan desert. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/nation-world-news/worlds-first-3d-printed-hotel-takes-shape-in-texas/>
+
+---
+
+## A’s close out 57-year tenure at Oakland Coliseum with win
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>OAKLAND, Calif. &#8212; For the final time in history, the A&#8217;s won a ballgame at the Oakland Coliseum.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/sports/as-close-out-57-year-tenure-at-oakland-coliseum-with-win/>
+
+---
+
+## Israel rejects US-backed Lebanon ceasefire plan, hits Beirut again
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT/JERUSALEM &#8212; Israel rejected global calls on Thursday for a ceasefire with the Hezbollah movement, defying its biggest ally in Washington and pressing ahead with strikes that have killed hundreds in Lebanon and heightened fears of an all-out regional war. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/nation-world-news/israel-rejects-us-backed-lebanon-ceasefire-plan-hits-beirut-again/>
+
+---
+
+## Obituaries for September 27
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>Jane K. Alamani Gray, 80, of Volcano died Sept. 21 at home. She was born in Anahola, Kauai. Services on Kauai at a later date. Online condolences: homelanimemorialpark.com. Survived by companion, Ben Vicente; son, Malcom Smith; daughter, Pam Chock; grandchildren and great-grandchildren. Arrangements by Homelani Memorial Park.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/obituaries/obituaries-for-september-27-10/>
+
+---
+
+## Newsmax settles Smartmatic defamation suit over 2020 false election claims
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>WILMINGTON, Delaware &#8212; Newsmax Media reached a confidential settlement of a lawsuit by Smartmatic, the voting machine maker that had alleged it was defamed by the news outlet&#8217;s false claims that its machines were rigged to help steal the 2020 U.S. presidential election from Donald Trump, the companies said on Thursday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/nation-world-news/newsmax-settles-smartmatic-defamation-suit-over-2020-false-election-claims/>
+
+---
+
+## Hawaii Concert Society unveils 63rd season
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Concert Society has announced its 2024-2025 season of classical music and dance.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/community/hawaii-concert-society-unveils-63rd-season/>
+
+---
+
+## ‘Fill a Cruiser Food Drive’ deemed a success
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Police Department&#8217;s Kona Community Policing Section would like to thank the community for making its fourth annual &#8220;Fill a Cruiser Food Drive&#8221; a resounding success.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/community/fill-a-cruiser-food-drive-deemed-a-success/>
+
+---
+
+## Public invited to join ‘World’s Largest Pet Walk’ on Saturday
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>WAIMEA &#8211; Employees from Queen&#8217;s North Hawaii Community Hospital are joining thousands of people and their pets around the world for the &#8220;World&#8217;s Largest Pet Walk&#8221; this Saturday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/community/public-invited-to-join-worlds-largest-pet-walk-on-saturday/>
+
+---
+
+## Celebrating Hawaii’s therapeutic foster parents
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>As we observe Childcare Provider Appreciation Month this September, it&#8217;s an opportune time to highlight the invaluable role that therapeutic foster parents play in our community.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/opinion/celebrating-hawaiis-therapeutic-foster-parents/>
+
+---
+
+## On the Second Amendment, Harris shoots herself in the foot — again
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>It&#8217;s hard to reconcile Vice President Kamala Harris&#8217;s friendly overtures to gun owners with the footage that recently emerged of a 2007 press conference in which the then-district attorney of San Francisco said cops could conduct random home inspections to enforce compliance with the city&#8217;s new &#8220;safe storage&#8221; laws.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/opinion/on-the-second-amendment-harris-shoots-herself-in-the-foot-again/>
+
+---
+
+## TV comedies face hurdles as Hollywood cuts back
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Looking for laughs? New gut-busting comedies are getting harder to find on today&#8217;s television. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/nation-world-news/tv-comedies-face-hurdles-as-hollywood-cuts-back/>
+
+---
+
+## New York Mayor Adams charged in Turkey bribery, fraud scheme
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; U.S. prosecutors on Thursday charged New York City Mayor Eric Adams with accepting illegal campaign contributions and luxury travel from Turkish nationals seeking to influence him, capping an investigation that has sent the largest U.S. city&#8217;s government into turmoil. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/nation-world-news/new-york-mayor-adams-charged-in-turkey-bribery-fraud-scheme/>
+
+---
+
+## Sick of the Electoral College? Stop whining
+
+date: 2024-09-27, from: Hawaii Tribune Harold
+
+
+				<p>D<strong>ear Help Person,</strong> </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/27/opinion/sick-of-the-electoral-college-stop-whining/>
+
+---
+
+## UH astronomers: Our cosmic neighborhood may be 10x larger
+
+date: 2024-09-27, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> astronomers helped gather data that reflects our cosmic neighborhood is 10 times larger in volume.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/27/cosmic-neighborhood-may-be-10x-larger/"><abbr>UH</abbr> astronomers: Our cosmic neighborhood may be 10x larger</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/27/cosmic-neighborhood-may-be-10x-larger/>
+
+---
+
+## US Coast Guard teams up with Guam, CNMI forces to boost maritime patrol 
+
+date: 2024-09-27, from: Pacific Island Times
+
+By Sara Muir (USCG) Maritime Safety and Security Team (MSST) Honolulu completed quarterly surge operations in support of the U.S. Coast... 
+
+<https://www.pacificislandtimes.com/post/us-coast-guard-teams-up-with-guam-cnmi-forces-to-boost-maritime-patrol>
+
+---
+
+## OEK Conference committees reach compromise on 2025 Budget
+
+date: 2024-09-27, from: Island Times
+
+<figure><img width="1024" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/OEK.jpg?fit=1024%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/OEK.jpg?w=1272&amp;ssl=1 1272w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/OEK.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/OEK.jpg?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/OEK.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/OEK.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/OEK.jpg?resize=1200%2C1200&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/OEK.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/OEK.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/OEK.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/OEK.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/OEK.jpg?fit=1024%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="64826" data-permalink="https://islandtimes.org/additional-funding-requested-to-hire-more-nurses/oek-11/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/OEK.jpg?fit=1272%2C1272&amp;ssl=1" data-orig-size="1272,1272" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="OEK" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/OEK.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/OEK.jpg?fit=780%2C780&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau – The Conference Committees of the Olbiil Era Kelulau (OEK) have reached a compromise on the budget for the fiscal year 2025, finalizing several key provisions. Under Senate Committee Report 11-12 for Senate Bill 11-11 SD4 HD5, compromises were made to address various budget items. The allocation for preparing [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/oek-conference-committees-reach-compromise-on-2025-budget/">OEK Conference committees reach compromise on 2025 Budget</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/oek-conference-committees-reach-compromise-on-2025-budget/>
+
+---
+
+## Boat Race revamped in 2024 with guaranteed funding and clear communication
+
+date: 2024-09-27, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/boat1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/boat1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/boat1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/boat1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/boat1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/boat1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/boat1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/boat1.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/boat1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72819" data-permalink="https://islandtimes.org/boat-race-revamped-in-2024-with-guaranteed-funding-and-clear-communication/boat1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/boat1.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="boat1" data-image-description="" data-image-caption="&lt;p&gt;Boat racing from past years Independence Day celebrations. Top picture: Baret Ridep, bottom photo: Ulu Sbal  and last photo spectators. (Credit: Palau Boating Association Facebook)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/boat1.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/boat1.jpg?fit=780%2C520&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>BY: Eustoria Marie Borja Palau&#8217;s annual boat race faces a promising transformation in 2024, following last year’s tumultuous planning and funding issues. In 2023, boat owners teetered on the brink of a boycott over inadequate prize money—$1,000 for larger engines and $800 for smaller ones—and the controversial decision to shift the Independence Day celebration from [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/boat-race-revamped-in-2024-with-guaranteed-funding-and-clear-communication/">Boat Race revamped in 2024 with guaranteed funding and clear communication</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/boat-race-revamped-in-2024-with-guaranteed-funding-and-clear-communication/>
+
+---
+
+## Vendors prepare for 30th Belau Independence Day Market on Sunday
+
+date: 2024-09-27, from: Island Times
+
+<p>By: Eustoria Marie Borja Airai, Palau – Vendors are set to showcase their goods and talents at the 30th Belau Independence Day Market on September 29 at Renrak Park, Airai Side. This event coincides with the 24th Olechotel Belau Fair and is themed “A rechad a otil a keremelel a Belau – Our Culture, Our [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/vendors-prepare-for-30th-belau-independence-day-market-on-sunday/">Vendors prepare for 30th Belau Independence Day Market on Sunday</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/vendors-prepare-for-30th-belau-independence-day-market-on-sunday/>
+
+---
+
+## Palauan Travelers to the UK to obtain Electronic Travel Authorization Before January 2025
+
+date: 2024-09-27, from: Island Times
+
+<p>Palauans, classified as eligible non-Europeans, currently do not require a visa to enter the United Kingdom. However, beginning January 8, 2025, they will need to obtain an electronic travel authorization (ETA) under the UK’s new immigration policy. In a move aimed at digitizing its border and immigration system, the UK government announced that all visitors [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauan-travelers-to-the-uk-to-obtain-electronic-travel-authorization-before-january-2025/">Palauan Travelers to the UK to obtain Electronic Travel Authorization Before January 2025</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palauan-travelers-to-the-uk-to-obtain-electronic-travel-authorization-before-january-2025/>
+
+---
+
+## Public reactions highlight candidates’ performances in Presidential Debate
+
+date: 2024-09-27, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau – The presidential debate between candidates Whipps and Remengesau continues to ignite discussion among the public more than a week after it aired. Social media is abuzz with posts that fact-check the candidates, address public issues, and share personal opinions on the two candidates’ debate performances. The day following [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/public-reactions-highlight-candidates-performances-in-presidential-debate/">Public reactions highlight candidates’ performances in Presidential Debate</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/public-reactions-highlight-candidates-performances-in-presidential-debate/>
+
+---
+
+## Ngardmau State Primary Election:
+
+date: 2024-09-27, from: Island Times
+
+<p>Ngiraiwet and Kumangai Advance to General Election By Eustoria Marie Borja Ngardmau, Palau — Jennifer Ngiraiwet and Bradley O. Kumangai have emerged as the top candidates in Ngardmau State’s 2nd Gubernatorial Primary Election held on September 24, 2024. Ngiraiwet received 94 votes, while Kumangai followed closely with 84 votes, according to unofficial results from the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngardmau-state-primary-election/">Ngardmau State Primary Election:</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ngardmau-state-primary-election/>
+
+---
+
+## Vehicle Fire at T-Dock raises concerns as witnesses expressed worry for owners safety
+
+date: 2024-09-27, from: Island Times
+
+<figure><img width="992" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/burning.jpg?fit=992%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/burning.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/burning.jpg?resize=291%2C300&amp;ssl=1 291w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/burning.jpg?resize=992%2C1024&amp;ssl=1 992w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/burning.jpg?resize=768%2C793&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/burning.jpg?resize=1200%2C1238&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/burning.jpg?resize=400%2C413&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/burning.jpg?resize=706%2C729&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/burning.jpg?fit=992%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72804" data-permalink="https://islandtimes.org/vehicle-fire-at-t-dock-raises-concerns-as-witnesses-expressed-worry-for-owners-safety/burning/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/burning.jpg?fit=1249%2C1289&amp;ssl=1" data-orig-size="1249,1289" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="burning" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/burning.jpg?fit=291%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/burning.jpg?fit=780%2C805&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By Samantha Iyar Koror, Palau – On Thursday, September 26, 2024, fire and rescue teams rushed to T-Dock Btelulechang Ongiall after witnesses reported seeing a grey van covered in smoke and flames. The vehicle, recognized by onlookers as belonging to local resident Lisa Sandei, drew immediate concern. Witnesses at the scene identified a man, Tablau, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/vehicle-fire-at-t-dock-raises-concerns-as-witnesses-expressed-worry-for-owners-safety/">Vehicle Fire at T-Dock raises concerns as witnesses expressed worry for owners safety</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/vehicle-fire-at-t-dock-raises-concerns-as-witnesses-expressed-worry-for-owners-safety/>
+
+---
+
+## Financial constraints biggest threat to Pacific Media Freedoms inaugural Pacific Islands Media Freedom Index finds
+
+date: 2024-09-27, from: Island Times
+
+<figure><img width="1024" height="780" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/p3-scaled.jpg?fit=1024%2C780&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/p3-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/p3-scaled.jpg?resize=300%2C228&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/p3-scaled.jpg?resize=1024%2C780&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/p3-scaled.jpg?resize=768%2C585&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/p3-scaled.jpg?resize=1536%2C1170&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/p3-scaled.jpg?resize=2048%2C1560&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/p3-scaled.jpg?resize=1200%2C914&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/p3-scaled.jpg?resize=1568%2C1194&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/p3-scaled.jpg?resize=2000%2C1523&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/p3-scaled.jpg?resize=400%2C305&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/p3-scaled.jpg?resize=706%2C538&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/p3-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/p3-scaled.jpg?fit=1024%2C780&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72801" data-permalink="https://islandtimes.org/financial-constraints-biggest-threat-to-pacific-media-freedoms-inaugural-pacific-islands-media-freedom-index-finds/p3-16/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/p3-scaled.jpg?fit=2560%2C1949&amp;ssl=1" data-orig-size="2560,1949" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1727088549&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="p3" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/p3-scaled.jpg?fit=300%2C228&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/p3-scaled.jpg?fit=780%2C594&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Monday 23 September, PMS 2024, Alofi, Niue- Economic and financial constraints, followed closely by social, cultural, and political pressures, pose the greatest threats to media freedom in the Pacific, according to the inaugural Pacific Islands Media Freedom Index (PIMFI) report, For Us, By Us, About Us.   Published by the Pacific Freedom Forum (PFF), a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/financial-constraints-biggest-threat-to-pacific-media-freedoms-inaugural-pacific-islands-media-freedom-index-finds/">Financial constraints biggest threat to Pacific Media Freedoms inaugural Pacific Islands Media Freedom Index finds</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/financial-constraints-biggest-threat-to-pacific-media-freedoms-inaugural-pacific-islands-media-freedom-index-finds/>
+
+---
+
+## Summit Meeting held between PM Kishida and President Whipps for the 3rd time this year
+
+date: 2024-09-27, from: Island Times
+
+<figure><img width="1024" height="742" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Summit-Meeting.jpg?fit=1024%2C742&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Summit-Meeting.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Summit-Meeting.jpg?resize=300%2C217&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Summit-Meeting.jpg?resize=1024%2C742&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Summit-Meeting.jpg?resize=768%2C556&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Summit-Meeting.jpg?resize=1200%2C869&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Summit-Meeting.jpg?resize=400%2C290&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Summit-Meeting.jpg?resize=706%2C512&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Summit-Meeting.jpg?fit=1024%2C742&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72796" data-permalink="https://islandtimes.org/summit-meeting-held-between-pm-kishida-and-president-whipps-for-the-3rd-time-this-year/summit-meeting/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Summit-Meeting.jpg?fit=1249%2C905&amp;ssl=1" data-orig-size="1249,905" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Summit Meeting" data-image-description="" data-image-caption="&lt;p&gt;Photo: Cabinet Public Affairs Office&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Summit-Meeting.jpg?fit=300%2C217&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Summit-Meeting.jpg?fit=780%2C565&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>On September 22, for approximately 35 minutes, Mr. KISHIDA Fumio, Prime Minister of Japan, who is visiting New York to attend the 79th United Nations General Assembly, held a Japan-Palau summit meeting with H.E. Mr. Surangel S. Whipps, Jr., President of the Republic of Palau. The overview of the meeting is as follows: Prime Minister [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/summit-meeting-held-between-pm-kishida-and-president-whipps-for-the-3rd-time-this-year/">Summit Meeting held between PM Kishida and President Whipps for the 3rd time this year</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/summit-meeting-held-between-pm-kishida-and-president-whipps-for-the-3rd-time-this-year/>
+
+---
+
+## Peace Corps returns to Palau with New Volunteer Program
+
+date: 2024-09-27, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau – A memorandum of understanding (MOU) was signed on Tuesday, September 24, in New York City, to reinstate the Peace Corps program in Palau. The agreement was formalized between Minister Caleb Udui Jr. and U.S. Peace Corps Director Carol Spahn during the United Nations General Assembly, where President Surangel [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/peace-corps-returns-to-palau-with-new-volunteer-program/">Peace Corps returns to Palau with New Volunteer Program</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/peace-corps-returns-to-palau-with-new-volunteer-program/>
+
+---
+
+## Researchers join capacity building workshop on Fisheries Science and Marine Protected Areas
+
+date: 2024-09-27, from: Island Times
+
+<figure><img width="1024" height="776" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR-_-Photo-1-MPA-workshop1.jpg?fit=1024%2C776&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR-_-Photo-1-MPA-workshop1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR-_-Photo-1-MPA-workshop1.jpg?resize=300%2C227&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR-_-Photo-1-MPA-workshop1.jpg?resize=1024%2C776&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR-_-Photo-1-MPA-workshop1.jpg?resize=768%2C582&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR-_-Photo-1-MPA-workshop1.jpg?resize=1200%2C909&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR-_-Photo-1-MPA-workshop1.jpg?resize=400%2C303&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR-_-Photo-1-MPA-workshop1.jpg?resize=706%2C535&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR-_-Photo-1-MPA-workshop1.jpg?fit=1024%2C776&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72789" data-permalink="https://islandtimes.org/researchers-join-capacity-building-workshop-on-fisheries-science-and-marine-protected-areas/pr-_-photo-1-mpa-workshop1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR-_-Photo-1-MPA-workshop1.jpg?fit=1249%2C946&amp;ssl=1" data-orig-size="1249,946" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4.5&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;ILCE-6400&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1725628054&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;25&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.00625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PR _ Photo 1 MPA workshop1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR-_-Photo-1-MPA-workshop1.jpg?fit=300%2C227&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/PR-_-Photo-1-MPA-workshop1.jpg?fit=780%2C591&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Researchers from the Palau International Coral Reef Center (PICRC) along with staff from the Coral Reef Research Foundation (CRRF) attended a workshop on fisheries science and marine protected areas (MPAs) led by Dr. Alyssa Marshell and Dr. Nils Krueck from the University of Tasmania. The workshop provided attendees with valuable knowledge and skills to contribute [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/researchers-join-capacity-building-workshop-on-fisheries-science-and-marine-protected-areas/">Researchers join capacity building workshop on Fisheries Science and Marine Protected Areas</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/researchers-join-capacity-building-workshop-on-fisheries-science-and-marine-protected-areas/>
+
+---
+
+## Roberts to attend JICA KCCP Training
+
+date: 2024-09-27, from: Island Times
+
+<figure><img width="1024" height="589" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Roberts.jpg?fit=1024%2C589&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Roberts.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Roberts.jpg?resize=300%2C173&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Roberts.jpg?resize=1024%2C589&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Roberts.jpg?resize=768%2C442&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Roberts.jpg?resize=1200%2C691&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Roberts.jpg?resize=400%2C230&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Roberts.jpg?resize=706%2C406&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Roberts.jpg?fit=1024%2C589&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72785" data-permalink="https://islandtimes.org/roberts-to-attend-jica-kccp-training/roberts-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Roberts.jpg?fit=1249%2C719&amp;ssl=1" data-orig-size="1249,719" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Roberts" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Roberts.jpg?fit=300%2C173&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Roberts.jpg?fit=780%2C449&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Koror State Government’s Glass Craft Operator, Nyssa Roberts has been accepted to JICA’s Knowledge Co-Creation Program Training in Okinawa called Sustainable Solid Waste Management in Island Areas. The training aims to provide understanding the necessity and techniques of sustainable solid waste management in island and utilize it for planning and implementation. The term of the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/roberts-to-attend-jica-kccp-training/">Roberts to attend JICA KCCP Training</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/roberts-to-attend-jica-kccp-training/>
+
+---
+
+## Ngiralmau and Gordon to attend JICA KCCP training
+
+date: 2024-09-27, from: Island Times
+
+<figure><img width="1024" height="575" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Ngiralmau-and-Gordon.jpg?fit=1024%2C575&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Ngiralmau-and-Gordon.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Ngiralmau-and-Gordon.jpg?resize=300%2C168&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Ngiralmau-and-Gordon.jpg?resize=1024%2C575&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Ngiralmau-and-Gordon.jpg?resize=768%2C431&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Ngiralmau-and-Gordon.jpg?resize=1200%2C673&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Ngiralmau-and-Gordon.jpg?resize=400%2C224&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Ngiralmau-and-Gordon.jpg?resize=706%2C396&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Ngiralmau-and-Gordon.jpg?fit=1024%2C575&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72781" data-permalink="https://islandtimes.org/ngiralmau-and-gordon-to-attend-jica-kccp-training/ngiralmau-and-gordon/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Ngiralmau-and-Gordon.jpg?fit=1249%2C701&amp;ssl=1" data-orig-size="1249,701" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Ngiralmau and Gordon" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Ngiralmau-and-Gordon.jpg?fit=300%2C168&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Ngiralmau-and-Gordon.jpg?fit=780%2C438&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Police Sergent, Allen L. Ngiralmau, of the Division of Marine Security and Media Manager, Spis Gordon, of Belau National Museum have been accepted to JICA’s Knowledge Co-Creation Program in Japan. Ngiralmau will be attending the Maritime Search and Rescue, Maritime Disaster Prevention and Marine Environment Protection for Coast Guard Officials.&#160; The program aims to create [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngiralmau-and-gordon-to-attend-jica-kccp-training/">Ngiralmau and Gordon to attend JICA KCCP training</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ngiralmau-and-gordon-to-attend-jica-kccp-training/>
+
+---
+
+## Enhancing bilateral cooperation through the Japan-Palau Policy Consultation on International Cooperation
+
+date: 2024-09-27, from: Island Times
+
+<figure><img width="1024" height="480" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Group-Photo-Minister-Aitaro.jpg?fit=1024%2C480&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Group-Photo-Minister-Aitaro.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Group-Photo-Minister-Aitaro.jpg?resize=300%2C141&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Group-Photo-Minister-Aitaro.jpg?resize=1024%2C480&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Group-Photo-Minister-Aitaro.jpg?resize=768%2C360&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Group-Photo-Minister-Aitaro.jpg?resize=1200%2C563&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Group-Photo-Minister-Aitaro.jpg?resize=400%2C188&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Group-Photo-Minister-Aitaro.jpg?resize=706%2C331&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Group-Photo-Minister-Aitaro.jpg?fit=1024%2C480&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72777" data-permalink="https://islandtimes.org/enhancing-bilateral-cooperation-through-the-japan-palau-policy-consultation-on-international-cooperation/group-photo-minister-aitaro/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Group-Photo-Minister-Aitaro.jpg?fit=1249%2C586&amp;ssl=1" data-orig-size="1249,586" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.6&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 12&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1726833005&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.2&quot;,&quot;iso&quot;:&quot;160&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Group Photo &#8211; Minister Aitaro" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Group-Photo-Minister-Aitaro.jpg?fit=300%2C141&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/09/Group-Photo-Minister-Aitaro.jpg?fit=780%2C366&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>On 20 September 2024, the Japan-Palau Policy Consultation on International Cooperation was held at the Embassy of Japan in Koror to commemorate the 30th anniversary of the establishment of diplomatic relations between Japan and the Republic of Palau. The Japanese delegation was represented by His Excellency ORIKASA Hiroyuki, Ambassador of Japan to Palau; Mr. ENOSHITA [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/enhancing-bilateral-cooperation-through-the-japan-palau-policy-consultation-on-international-cooperation/">Enhancing bilateral cooperation through the Japan-Palau Policy Consultation on International Cooperation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/enhancing-bilateral-cooperation-through-the-japan-palau-policy-consultation-on-international-cooperation/>
+
+---
+
+## With growing tension in the strait, Taiwan needs to be in the UN
+
+date: 2024-09-27, from: Island Times
+
+<p>By Lin Chia-lung &#160; (PACNEWS) NEW YORK/TAIPEI (THE STRATEGIST)&#8212;It is long past time for Taiwan again to be included in the United Nations. Reasons include the need to address growing military tensions in the Taiwan Strait and to acknowledged Taiwan’s thriving democracy and economic importance.  That economic importance includes Taiwan’s enormous role in global supply [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/with-growing-tension-in-the-strait-taiwan-needs-to-be-in-the-un-2/">With growing tension in the strait, Taiwan needs to be in the UN</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/with-growing-tension-in-the-strait-taiwan-needs-to-be-in-the-un-2/>
+
+---
+
+## Letter to the Editor
+
+date: 2024-09-27, from: Island Times
+
+<p>Dear Editor, I’m writing to address the misleading information our government is spreading about the PGST and its impact on our community. As grassroots consumers, we feel it’s crucial to clarify the facts. The government claims that PGST businesses are paying more taxes now than they did before. This isn’t true. Businesses can either claim [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/letter-to-the-editor-12/">Letter to the Editor</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/letter-to-the-editor-12/>
+
+---
+
+## LET THE LIGHTS IN
+
+date: 2024-09-27, from: Island Times
+
+<figure><img width="400" height="378" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="65054" data-permalink="https://islandtimes.org/intimacy-gone-bad-2/womens-corner-1-7/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" data-orig-size="400,378" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>There’s a crack in everything,  that&#8217;s how lights gets in. &#8212;-Unknown One of the most well known Proverbs quotes is from chapter 18, verse 2: &#8220;A fool takes no pleasure in understanding, but only in expressing his opinion.&#8221; This is what is meant by &#8216;A fool thinks himself to be wise&#8217;. This Shakespeare quote means [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/let-the-lights-in/">LET THE LIGHTS IN</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/let-the-lights-in/>
+
+---
+
+## Pacific journalists tackle integrity to boost media freedom & corruption reporting
+
+date: 2024-09-27, from: Island Times
+
+<p>ALOFI (TALANOAOTONGA)&#8212;Members of the Pacific Anti-Corruption Journalists Network (PACJN) have renewed their call for greater Right to Information in the region to strengthen anti-corruption reporting. At a Dialogue on Media Freedom through Integrity – Codes of Conduct &#38; Reporting Corruption as part of this week’s Pacific Media Conference being held in Niue, regional journalists took [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-journalists-tackle-integrity-to-boost-media-freedom-corruption-reporting/">Pacific journalists tackle integrity to boost media freedom &amp; corruption reporting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/pacific-journalists-tackle-integrity-to-boost-media-freedom-corruption-reporting/>
+
+---
+
+## Nauru uses high-profile UN address to press case for sea-bed mining
+
+date: 2024-09-27, from: Island Times
+
+<p>NEW YORK(BENAR NEWS)&#8212;Nauru’s President David Adeang declared in a speech to the United Nations that the international community must not let “fear and misinformation” block the exploitation of sea-bed minerals that could be critical to the global energy transition. &#160;Adeang used Tuesday&#8217;s address to the UN General Assembly(UNGA) to warn about the perils of inaction [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/nauru-uses-high-profile-un-address-to-press-case-for-sea-bed-mining/">Nauru uses high-profile UN address to press case for sea-bed mining</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/nauru-uses-high-profile-un-address-to-press-case-for-sea-bed-mining/>
+
+---
+
+## PNG Judge: No special treatment for non-citizens caught in drug trafficking
+
+date: 2024-09-27, from: Island Times
+
+<p>PORT MORESBY&#160; (THE NATIONAL)&#8212;A Papua New Guinea judge has warned non-citizens involved in drug trafficking that if caught, there will be deterrent penalties imposed by the courts despite their medical conditions. Justice Panuel Mogish said: “Do not flout the laws of this country especially if you have underlying medical conditions like Carlos D’Attanasio and John [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/png-judge-no-special-treatment-for-non-citizens-caught-in-drug-trafficking/">PNG Judge: No special treatment for non-citizens caught in drug trafficking</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/png-judge-no-special-treatment-for-non-citizens-caught-in-drug-trafficking/>
+
+---
+
+## Fishery council forms Indigenous panel
+
+date: 2024-09-27, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Western Pacific Regional Fishery Management Council this week concluded its 200th meeting with the... 
+
+<https://www.pacificislandtimes.com/post/fishery-council-forms-indigenous-panel>
+
+---
+
+## USP Open Day celebrates Pacific Stories
+
+date: 2024-09-27, from: University of the South Pacific (Fiji)
+
+<p>Over 14,000 students attended The University of the South Pacific’s (USP) Vodafone Fiji Open Day...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-open-day-celebrates-pacific-stories/">USP Open Day celebrates Pacific Stories</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-open-day-celebrates-pacific-stories/>
+
+---
+
+## House passes bill to cut shipping cost of adaptive vehicles for Guam veterans
+
+date: 2024-09-27, from: Pacific Island Times
+
+By Pacific Island Times News Staff  The U.S.  House  of Representatives  on Wednesday passed H.R. 522, titled "Deliver for Veterans Act,"... 
+
+<https://www.pacificislandtimes.com/post/house-passes-bill-to-cut-shipping-cost-of-adaptive-vehicles-for-guam-veterans>
+
+---
+
+## Tropical Condition III for Pagan, Alamagan, Agrihan
+
+date: 2024-09-27, updated: 2024-09-27, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/news/local/tropical-condition-iii-for-pagan-alamagan-agrihan/article_f3e74210-7c64-11ef-85c7-432c90d80f04.html>
+
+---
+
+## UH, other Mountain West schools sign MOU affirming commitment to conference
+
+date: 2024-09-26, from: University of Hawaiʻi News
+
+<p>The conference and the institutions have also formally agreed to execute a Grant of Media Rights from the member institutions to the conference.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/26/mountain-west-mou/"><abbr>UH</abbr>, other Mountain West schools sign <abbr>MOU</abbr> affirming commitment to conference</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/26/mountain-west-mou/>
+
+---
+
+## New UH manufacturing technique makes wearable health sensors more affordable
+
+date: 2024-09-26, from: University of Hawaiʻi News
+
+<p>Wearable sensors are crucial in continuously monitoring vital signs and other health indicators.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/26/health-sensor-manufacturing-tech/">New <abbr>UH</abbr> manufacturing technique makes wearable health sensors more affordable</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/26/health-sensor-manufacturing-tech/>
+
+---
+
+## Marine debris removal benefits Hawaiian monk seals, ecosystems
+
+date: 2024-09-26, from: University of Hawaiʻi News
+
+<p>Endangered Hawaiian monk seals and other marine life have benefitted from 25 years of large-scale marine debris removal in the Northwestern Hawaiian Islands according to the cover story in the current issue of <em>Science</em>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/26/marine-debris-removal-benefits-hawaiian-monk-seals-ecosystems/">Marine debris removal benefits Hawaiian monk seals, ecosystems</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/26/marine-debris-removal-benefits-hawaiian-monk-seals-ecosystems/>
+
+---
+
+## Crowd pack the ECC gym
+
+date: 2024-09-26, from: Marshal Islands Journal
+
+<p>Journal 9/25/1987 P7 Book of figures finishedThe Republic of the Marshall Islands has completed publication of the Marshall Islands Statistical Abstract 1986, the second annual publication of the data source. The publication is largely the work of statistician Marty Jekkein, who is created by Chief Secretary Oscar deBrum with doing the actual compilation work. Journal [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/crowd-pack-the-ecc-gym/">Crowd pack the ECC gym</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/crowd-pack-the-ecc-gym/>
+
+---
+
+## Black hole jets stretch 140x wider than Milky Way
+
+date: 2024-09-26, from: University of Hawaiʻi News
+
+<p>Using the Keck Observatory on Maunakea, astronomers uncovered the largest pair of black hole jets ever observed.</p>
+The post <a href="https://www.hawaii.edu/news/2024/09/26/black-hole-jets-stretch/">Black hole jets stretch 140x wider than Milky Way</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/09/26/black-hole-jets-stretch/>
+
+---
+
+## Invasive Species Removal Should Be Part of Climate Adaptation Policy
+
+date: 2024-09-26, from: Island Conservation News
+
+<p>Climate adaptation policy often overlooks one key element: invasive species. Read on to find out how they should be incorporated!</p>
+<p>The post <a href="https://www.islandconservation.org/invasive-species-removal-should-be-part-of-climate-adaptation-policy/">Invasive Species Removal Should Be Part of Climate Adaptation Policy </a> appeared first on <a href="https://www.islandconservation.org">Island Conservation</a>.</p>
+ 
+
+<https://www.islandconservation.org/invasive-species-removal-should-be-part-of-climate-adaptation-policy/>
+
+---
+
+## Amendment Proposals
+
+date: 2024-09-26, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Our Election 2024 coverage continues with other options before voters...</p>
+<p>The post <a href="https://www.pbshawaii.org/amendment-proposals/">Amendment Proposals</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/amendment-proposals/>
+
+---
+
+## Royalty
+
+date: 2024-09-26, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Franz Neumann My parents naming me Royalty wasn’t enough. My praised voice and songwriting, and all the gigs—not enough. I needed to gild myself with an origin story to break through. I needed Touch Ferguson, music executive, to discover &#8230; <a href="https://hawaiipacificreview.org/2024/09/26/royalty/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/09/26/royalty/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2024-09-26, updated: 2024-09-26, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## OPINION ǀ  Notch on your belt (‘Masawan Omw Fa’)
+
+date: 2024-09-26, updated: 2024-09-26, from: Marianas Variety
+
+IT isn’t often that I get to participate in a debate between candidates for a seat in U.S. Congress; in fact, I’ve only ever done it once and that was just recently (a little over a week ago) in the U.S. Delegate Debate hosted by the Saipan Chamber of Commerce.  Overall, I think the audience got what one might expect from a highly publicized exercise in rigid speed-dating with bachelors and bachelorettes (numbers one through five) trying to win the hearts and minds of the CNMI people through a series of timed responses meant to gauge our respective hearts and minds for the people of the CNMI. 
+
+<https://www.mvariety.com/views/columnists/opinion-notch-on-your-belt-masawan-omw-fa/article_5749dda6-7bc3-11ef-b794-3399b8094ee9.html>
+
+---
+
+## Business financing unlocked: Working your way toward loan approval success!
+
+date: 2024-09-26, updated: 2024-09-26, from: Marianas Variety
+
+(SBDC) — The Rota Small Business Development Center at the Northern Marianas College Rota Center, in collaboration with Bank of Guam, is excited to announce an upcoming workshop focused on commercial and business loans. This informative session will take place on Oct.18, 2024, from 10 a.m. to 12 noon at the Rota NMC Center, Room A1. 
+
+<https://www.mvariety.com/business/business_news/business-financing-unlocked-working-your-way-toward-loan-approval-success/article_fbb3aeb8-7bcc-11ef-9c17-3fc5503242b6.html>
+
+---
+
+## Hågat crash results in 9th traffic fatality of year
+
+date: 2024-09-26, updated: 2024-09-26, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — The death of a 22-year-old man, who was involved in a car crash Wednesday evening, marks the ninth traffic fatality of 2024. 
+
+<https://www.mvariety.com/news/regional_world/h-gat-crash-results-in-9th-traffic-fatality-of-year/article_e467806c-7c04-11ef-942c-9f4d971a62e7.html>
+
+---
+
+## New York Mayor Adams’ residence searched after criminal charges filed
+
+date: 2024-09-26, updated: 2024-09-26, from: Marianas Variety
+
+NEW YORK (Reuters) — Federal agents searched New York City Mayor Eric Adams’ residence on Thursday morning, after he was indicted on criminal charges following a long-running investigation that has sent the largest U.S. city's government into turmoil. 
+
+<https://www.mvariety.com/news/national/new-york-mayor-adams-residence-searched-after-criminal-charges-filed/article_850b7d38-7c06-11ef-97f4-8b94a6476493.html>
+
+---
+
+## Marianas Tourism Golf Cup Classic postponed
+
+date: 2024-09-26, updated: 2024-09-26, from: Marianas Variety
+
+(MVA) — The Marianas Tourism Golf Cup Classic scheduled for Oct. 12, 2024, has been postponed. A new date will be announced shortly. Registered players will be issued a refund from their venue of registration (original credit card required, if registered with card). For more information, contact Marianas Visitors Authority Community Project Specialist Jack Aranda at jaranda@mymarianas.com or (670) 664-3200. 
+
+<https://www.mvariety.com/sports/localsports/marianas-tourism-golf-cup-classic-postponed/article_1d0013c0-7bca-11ef-92e7-d79930969db7.html>
+
+---
+
+## Cardinals clobber Padres to lead SBL finals
+
+date: 2024-09-26, updated: 2024-09-26, from: Marianas Variety
+
+FROM a four-run deficit after three innings, the Cardinals rallied in the fourth to beat the Padres, 17-8, in the first game of the 2024 Tan Holdings Saipan Baseball League’s best-of-three championship series at the Francisco “Tan Ko” Palacios Baseball Field Wednesday night. 
+
+<https://www.mvariety.com/sports/localsports/cardinals-clobber-padres-to-lead-sbl-finals/article_a18d6354-7bbb-11ef-a51e-67b2a095d150.html>
+
+---
+
+## World's first 3D-printed hotel takes shape in Texas
+
+date: 2024-09-26, updated: 2024-09-26, from: Marianas Variety
+
+MARFA, Texas (Reuters) — It looks like any other 3D printer — except it's the size of a crane and is, layer by layer, building a hotel in the Texan desert. 
+
+<https://www.mvariety.com/lifestyle/worlds-first-3d-printed-hotel-takes-shape-in-texas/article_e7962f3e-7c06-11ef-912e-efc1eec2cbc0.html>
+
+---
+
+## SIS, DMS shutout foes in middle school interscholastic football
+
+date: 2024-09-26, updated: 2024-09-26, from: Marianas Variety
+
+THE Saipan International School Geckos and the Dandan Middle School Tottots showed no mercy to their respective foes in the middle school girls division of the NMI Football Association Interscholastic Soccer League at the NMI Soccer Training Center in Koblerville on Thursday. 
+
+<https://www.mvariety.com/sports/localsports/sis-dms-shutout-foes-in-middle-school-interscholastic-football/article_0c725d0e-7bdb-11ef-9a75-8be165a4b301.html>
+
+---
+
+## Students shine for Culture Week
+
+date: 2024-09-26, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Grandmothers across the islands were extra busy Sunday evening weaving leis and floral necklaces needed for the observation of culture week starting the next day. Manit Week offered students the opportunity to showcase local fashion trends while learning the history of the Marshallese culture. Specific days called for specific displays of local handicrafts, [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/students-shine-for-culture-week/">Students shine for Culture Week</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/students-shine-for-culture-week/>
 
 ---
 
@@ -326,6 +1097,18 @@ date: 2024-09-26, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/09/26/nation-world-news/nation-and-world-news-in-brief-for-september-26/>
+
+---
+
+## Police ID Ninole waterfall drowning victim
+
+date: 2024-09-26, from: Hawaii Tribune Harold
+
+
+				<p>Police have identified a man whose deceased body was recovered Sunday from a riverbed below a waterfall in Ninole as 35-year-old Andrew Jeffrey Salonia, of Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/26/hawaii-news/police-id-ninole-waterfall-drowning-victim/>
 
 ---
 

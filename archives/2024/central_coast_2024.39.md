@@ -1,11 +1,136 @@
 ---
 title: central coast
-updated: 2024-09-26 06:50:37
+updated: 2024-09-27 07:36:15
 ---
 
 # central coast
 
-(date: 2024-09-26 06:50:37)
+(date: 2024-09-27 07:36:15)
+
+---
+
+## September Night Sky Light
+
+date: 2024-09-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092124-POD-Daniel-Tangney.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="September night sky light in Santa Barbara." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092124-POD-Daniel-Tangney.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092124-POD-Daniel-Tangney.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092124-POD-Daniel-Tangney.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092124-POD-Daniel-Tangney.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092124-POD-Daniel-Tangney.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092124-POD-Daniel-Tangney.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092124-POD-Daniel-Tangney.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092124-POD-Daniel-Tangney.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092124-POD-Daniel-Tangney.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092124-POD-Daniel-Tangney.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092124-POD-Daniel-Tangney.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092124-POD-Daniel-Tangney.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092124-POD-Daniel-Tangney.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/september-night-sky-light/">September Night Sky Light</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/september-night-sky-light/>
+
+---
+
+## San Marcos Shakes Off First-Set Loss, Takes Down Dos Pueblos in Girls Volleyball Rivalry Match
+
+date: 2024-09-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-volley-926-cover.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-volley-926-cover.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-volley-926-cover.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-volley-926-cover.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-volley-926-cover.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-volley-926-cover.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-volley-926-cover.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-volley-926-cover.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-volley-926-cover.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-volley-926-cover.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>San Marcos and Dos Pueblos clashed on Thursday night for a crosstown girls volleyball battle, and the Royals came away victorious in four sets inside Sovine Gym. The Chargers (13-6, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/san-marcos-shakes-off-first-set-loss-takes-down-dos-pueblos-in-girls-volleyball-rivalry-match/">San Marcos Shakes Off First-Set Loss, Takes Down Dos Pueblos in Girls Volleyball Rivalry Match</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/san-marcos-shakes-off-first-set-loss-takes-down-dos-pueblos-in-girls-volleyball-rivalry-match/>
+
+---
+
+## BizHawk: Santa Playa Mariscos Restaurant Serves Up Seafood in Santa Barbara
+
+date: 2024-09-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-BizHawk-Jonathan-Yona-Estrada-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Playa Mariscos has opened on State Street in Santa Barbara. Owner Yona Estrada also has moved his restaurant Yona Redz from the 500 block to the 1200 block." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-BizHawk-Jonathan-Yona-Estrada-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-BizHawk-Jonathan-Yona-Estrada-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-BizHawk-Jonathan-Yona-Estrada-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-BizHawk-Jonathan-Yona-Estrada-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-BizHawk-Jonathan-Yona-Estrada-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-BizHawk-Jonathan-Yona-Estrada-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-BizHawk-Jonathan-Yona-Estrada-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-BizHawk-Jonathan-Yona-Estrada-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-BizHawk-Jonathan-Yona-Estrada-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Change is in the air for Jonathan &#8220;Yona&#8221; Estrada. The entrepreneur opened his new, much-talked-about restaurant, Santa Playa Mariscos, this week at 1230 State St. in Santa Barbara. It&#8217;s a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-santa-playa-mariscos-restaurant-serves-up-seafood-in-santa-barbara/">BizHawk: Santa Playa Mariscos Restaurant Serves Up Seafood in Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bizhawk-santa-playa-mariscos-restaurant-serves-up-seafood-in-santa-barbara/>
+
+---
+
+## Prep Girls Golf Roundup: San Marcos Takes Down Santa Barbara in Crosstown Matchup
+
+date: 2024-09-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-g-golf-926.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-g-golf-926.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-g-golf-926.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-g-golf-926.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-g-golf-926.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-g-golf-926.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-g-golf-926.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-g-golf-926.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-g-golf-926.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sm-g-golf-926.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>San Marcos girls golf came out on top in a rivalry matchup against Santa Barbara High on Thursday at Santa Barbara Golf Club’s par 37 course. The Royals shot a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-golf-roundup-san-marcos-takes-down-santa-barbara-in-crosstown-matchup/">Prep Girls Golf Roundup: San Marcos Takes Down Santa Barbara in Crosstown Matchup</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-golf-roundup-san-marcos-takes-down-santa-barbara-in-crosstown-matchup/>
+
+---
+
+## Investigation Leads to Federal Charge in Santa Maria Courthouse Explosion
+
+date: 2024-09-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Court-Bomb-Damage1a-horizontal-cont.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The exterior of Department 9 at the Santa Maria Court Complex has a burn scar and fire extinguisher remnants after an improvised explosive device detonated Wednesday." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Court-Bomb-Damage1a-horizontal-cont.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Court-Bomb-Damage1a-horizontal-cont.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Court-Bomb-Damage1a-horizontal-cont.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Court-Bomb-Damage1a-horizontal-cont.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Court-Bomb-Damage1a-horizontal-cont.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Court-Bomb-Damage1a-horizontal-cont.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Court-Bomb-Damage1a-horizontal-cont.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Court-Bomb-Damage1a-horizontal-cont.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Court-Bomb-Damage1a-horizontal-cont.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A 20-year-old Santa Maria man has been charged in federal court with maliciously damaging a building by means of an explosive, according to legal documents that spell out the suspected [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/investigation-cleanup-continue-after-santa-maria-courthouse-explosion/">Investigation Leads to Federal Charge in Santa Maria Courthouse Explosion</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/investigation-cleanup-continue-after-santa-maria-courthouse-explosion/>
+
+---
+
+## Prep Boys Water Polo Roundup: San Marcos, Santa Barbara High Earn Road Wins
+
+date: 2024-09-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>San Marcos boys water polo came away with a 10-6 road victory over La Serna on Thursday. The Royals never trailed throughout the matchup and used a dominant first half [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-boys-water-polo-roundup-san-marcos-santa-barbara-high-earn-road-wins/">Prep Boys Water Polo Roundup: San Marcos, Santa Barbara High Earn Road Wins</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-boys-water-polo-roundup-san-marcos-santa-barbara-high-earn-road-wins/>
+
+---
+
+## Prep Girls Tennis Roundup: Carpinteria, Santa Barbara High Pull Out 18-0 Wins
+
+date: 2024-09-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Carpinteria High girls tennis came away with a dominant 18-0 victory over Fillmore on Thursday. “We adjusted our lineup a bit today and the girls really stepped up with a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-tennis-roundup-carpinteria-santa-barbara-high-pull-out-18-0-wins/">Prep Girls Tennis Roundup: Carpinteria, Santa Barbara High Pull Out 18-0 Wins</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-tennis-roundup-carpinteria-santa-barbara-high-pull-out-18-0-wins/>
+
+---
+
+## Prep Girls Volleyball Roundup: Santa Barbara High Sweeps Rio Mesa
+
+date: 2024-09-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara High girls volleyball turned in a strong all-around performance en route to a sweep of Rio Mesa on Thursday night, 25-12, 25-6, 25-14. The outside duo of Blake [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-volleyball-roundup-santa-barbara-high-sweeps-rio-mesa/">Prep Girls Volleyball Roundup: Santa Barbara High Sweeps Rio Mesa</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-volleyball-roundup-santa-barbara-high-sweeps-rio-mesa/>
+
+---
+
+## San Marcos Girls Flag Football Routs Fillmore in Non-League Matchup, 38-0
+
+date: 2024-09-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>San Marcos girls flag football picked up another shutout victory over Fillmore by a score of 38-0 on Thursday night at Warkentin Stadium. The Royals’ defense set the tone early [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/san-marcos-girls-flag-football-routs-fillmore-in-non-league-matchup-38-0/">San Marcos Girls Flag Football Routs Fillmore in Non-League Matchup, 38-0</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/san-marcos-girls-flag-football-routs-fillmore-in-non-league-matchup-38-0/>
+
+---
+
+## Santa Maria District 1, 2 City Council Candidates Face Off at Forum
+
+date: 2024-09-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Council-Candidates-Forum1-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Maria City Council candidates listen as moderator Virginia Perry Souza explains the guidelines for the forum. From left are District 1 incumbent Carlos Escobedo, District 1 challenger Maria Salguero, District 2 challengers Benjamin Ortiz and Gloria Flores, and incumbent Mike Cordero." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Council-Candidates-Forum1-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Council-Candidates-Forum1-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Council-Candidates-Forum1-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Council-Candidates-Forum1-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Council-Candidates-Forum1-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Council-Candidates-Forum1-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Council-Candidates-Forum1-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Council-Candidates-Forum1-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092624-SM-Council-Candidates-Forum1-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Two Santa Maria City Council incumbents and three challengers seeking to unseat them faced off Tuesday night in a candidate forum where topics included budget, traffic, homelessness, affordable housing, rent [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-district-1-2-council-candidates-face-off-at-forum/">Santa Maria District 1, 2 City Council Candidates Face Off at Forum</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-maria-district-1-2-council-candidates-face-off-at-forum/>
 
 ---
 

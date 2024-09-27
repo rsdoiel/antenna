@@ -1,11 +1,21 @@
 ---
 title: retro computing
-updated: 2024-09-26 06:50:44
+updated: 2024-09-27 07:36:23
 ---
 
 # retro computing
 
-(date: 2024-09-26 06:50:44)
+(date: 2024-09-27 07:36:23)
+
+---
+
+## September 2024 News Summary
+
+date: 2024-09-27, from: Icon Bar, RISC OS News
+
+Some things we noticed this month. What did you see? 
+
+<http://www.iconbar.com/comments/rss/news2101.html>
 
 ---
 

@@ -1,21 +1,117 @@
 ---
 title: ham radio
-updated: 2024-09-26 06:50:37
+updated: 2024-09-27 07:36:15
 ---
 
 # ham radio
 
-(date: 2024-09-26 06:50:37)
+(date: 2024-09-27 07:36:15)
+
+---
+
+## EMC: How to write a good benchtop test report
+
+date: 2024-09-27, from: EDN Blog
+
+<img width="3340" height="1488" src="https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?fit=3340%2C1488" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=3340 3340w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=768 768w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=1900 1900w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=2850 2850w" sizes="(max-width: 3340px) 100vw, 3340px" /><p>Here is a step-by-step guide to good engineering practices for performing EMC testing and troubleshooting.</p>
+<p>The post <a href="https://www.edn.com/emc-how-to-write-a-good-benchtop-test-report/" data-wpel-link="internal">EMC: How to write a good benchtop test report</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/emc-how-to-write-a-good-benchtop-test-report/>
 
 ---
 
 ## Helene - Storm Updates
 
-date: 2024-09-26, from: Amateur Radio Relay League News
+date: 2024-09-27, from: Amateur Radio Relay League News
 
-<p><strong>Thursday, September 26, 2024, 9:00 AM Eastern Update:</strong></p><p>Hurricane Helene has been upgraded to a Category 2 storm by the National Hurricane Center. It is expected to strengthen and bring catastrophic winds and storm surge to the northeastern Gulf coast. At 8:00 AM Thursday morning, Helene was located about 320 miles from Tampa, Florida, with winds of 100 miles per hour (mph). </p><p>The storm is moving to...</p> 
+<p><strong><span>Thursday, September 26, 2024, 9:30 PM Eastern Update:</span></strong></p><p><span>Hurricane Helene is now a Category 4 storm with sustained winds of 130 MPH. Amateur Radio volunteers with groups such as the ARRL® Amateur Radio Emergency Service® (ARES®) are activated throughout the area being impacted. ARES members are embedded in emergency operations centers across Florida, providing critical communications to served agen...</span></p> 
 
 <http://www.arrl.org/news/view/helene-storm-updates>
+
+---
+
+## Software eases embedded GUI development
+
+date: 2024-09-26, from: EDN Blog
+
+<img width="800" height="444" src="https://www.edn.com/wp-content/uploads/Microchip-MGS.jpg?fit=800%2C444" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Microchip-MGS.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Microchip-MGS.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Microchip-MGS.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The complimentary Microchip Graphics Suite (MGS) lets designers create sophisticated embedded GUIs for 32-bit MCUs and MPUs.</p>
+<p>The post <a href="https://www.edn.com/software-eases-embedded-gui-development/" data-wpel-link="internal">Software eases embedded GUI development</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/software-eases-embedded-gui-development/>
+
+---
+
+## SiC MOSFETs target EV traction inverters
+
+date: 2024-09-26, from: EDN Blog
+
+<img width="800" height="457" src="https://www.edn.com/wp-content/uploads/STMicro-Gen-4-SiC.jpg?fit=800%2C457" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/STMicro-Gen-4-SiC.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/STMicro-Gen-4-SiC.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/STMicro-Gen-4-SiC.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>ST has launched its fourth-generation STPOWER SiC MOSFETs, offering smaller size and greater efficiency for future EV traction inverters.</p>
+<p>The post <a href="https://www.edn.com/sic-mosfets-target-ev-traction-inverters/" data-wpel-link="internal">SiC MOSFETs target EV traction inverters</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/sic-mosfets-target-ev-traction-inverters/>
+
+---
+
+## VNA boasts four independent RF sources
+
+date: 2024-09-26, from: EDN Blog
+
+<img width="800" height="467" src="https://www.edn.com/wp-content/uploads/Keysight-NA520xA.jpg?fit=800%2C467" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Keysight-NA520xA.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Keysight-NA520xA.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Keysight-NA520xA.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Keysight’s NA520xA vector network analyzer integrates up to four RF sources, two combiners, and two low-noise receivers. </p>
+<p>The post <a href="https://www.edn.com/vna-boasts-four-independent-rf-sources/" data-wpel-link="internal">VNA boasts four independent RF sources</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/vna-boasts-four-independent-rf-sources/>
+
+---
+
+## Arduino Cloud launches on AWS Marketplace
+
+date: 2024-09-26, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Arduino-Cloud-AWS.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Arduino-Cloud-AWS.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Arduino-Cloud-AWS.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Arduino-Cloud-AWS.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Amazon Web Services (AWS) customers can now access Arduino Cloud directly through the AWS Marketplace, streamlining IoT project development. </p>
+<p>The post <a href="https://www.edn.com/arduino-cloud-launches-on-aws-marketplace/" data-wpel-link="internal">Arduino Cloud launches on AWS Marketplace</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/arduino-cloud-launches-on-aws-marketplace/>
+
+---
+
+## SoC simplifies smart home connectivity
+
+date: 2024-09-26, from: EDN Blog
+
+<img width="800" height="462" src="https://www.edn.com/wp-content/uploads/Qorvo-QPG6200L.jpg?fit=800%2C462" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Qorvo-QPG6200L.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Qorvo-QPG6200L.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Qorvo-QPG6200L.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Leveraging Qorvo’s ConcurrentControl technology, the QPG6200L SoC supports Matter, Zigbee, and Bluetooth LE networks.</p>
+<p>The post <a href="https://www.edn.com/soc-simplifies-smart-home-connectivity/" data-wpel-link="internal">SoC simplifies smart home connectivity</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/soc-simplifies-smart-home-connectivity/>
+
+---
+
+## The Colpitts oscillator
+
+date: 2024-09-26, from: EDN Blog
+
+<img width="561" height="562" src="https://www.edn.com/wp-content/uploads/Colpitts-5.png?fit=561%2C562" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Colpitts-5.png?w=561 561w, https://www.edn.com/wp-content/uploads/Colpitts-5.png?w=150 150w, https://www.edn.com/wp-content/uploads/Colpitts-5.png?w=300 300w" sizes="(max-width: 561px) 100vw, 561px" /><p>An analysis of a Colpitts oscillator with node analysis on its passive R-L-C network and SPICE simulation results. </p>
+<p>The post <a href="https://www.edn.com/the-colpitts-oscillator/" data-wpel-link="internal">The Colpitts oscillator</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/the-colpitts-oscillator/>
+
+---
+
+## The power of practical positive feedback to perfect PRTDs
+
+date: 2024-09-26, from: EDN Blog
+
+<img width="501" height="412" src="https://www.edn.com/wp-content/uploads/PosPRT_Figure3.png?fit=501%2C412" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/PosPRT_Figure3.png?w=501 501w, https://www.edn.com/wp-content/uploads/PosPRT_Figure3.png?w=300 300w" sizes="(max-width: 501px) 100vw, 501px" /><p>PRTD linearization with positive feedback linearizes temperature readings, making the thermometer accurate to +/-0.1oC.</p>
+<p>The post <a href="https://www.edn.com/the-power-of-practical-positive-feedback-to-perfect-prtds/" data-wpel-link="internal">The power of practical positive feedback to perfect PRTDs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/the-power-of-practical-positive-feedback-to-perfect-prtds/>
 
 ---
 
@@ -33,7 +129,7 @@ date: 2024-09-25, from: Amateur Radio Relay League News
 
 date: 2024-09-25, from: EDN Blog
 
-<img width="1300" height="1027" src="https://www.edn.com/wp-content/uploads/image2.jpeg?fit=1300%2C1027" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/image2.jpeg?w=1300 1300w, https://www.edn.com/wp-content/uploads/image2.jpeg?w=300 300w, https://www.edn.com/wp-content/uploads/image2.jpeg?w=768 768w, https://www.edn.com/wp-content/uploads/image2.jpeg?w=1024 1024w" sizes="(max-width: 1300px) 100vw, 1300px" /><p>Do you remember to regularly recharge the batteries for your devices? No? Then sooner or later, they’re destined to turn into “bricks”.</p>
+<img width="1300" height="1027" src="https://www.edn.com/wp-content/uploads/image2.jpeg?fit=1300%2C1027" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/image2.jpeg?w=1300 1300w, https://www.edn.com/wp-content/uploads/image2.jpeg?w=300 300w, https://www.edn.com/wp-content/uploads/image2.jpeg?w=768 768w, https://www.edn.com/wp-content/uploads/image2.jpeg?w=1024 1024w" sizes="(max-width: 1300px) 100vw, 1300px" /><p>Do you remember to regularly recharge the batteries for your devices? No? Then sooner or later, they’re destined to turn into “bricks”.</p>
 <p>The post <a href="https://www.edn.com/diagnosing-and-resuscitating-a-set-of-dji-drone-batteries/" data-wpel-link="internal">Diagnosing and resuscitating a set of DJI drone batteries</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

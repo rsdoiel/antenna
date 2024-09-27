@@ -1,11 +1,70 @@
 ---
 title: writing
-updated: 2024-09-26 06:50:40
+updated: 2024-09-27 07:36:18
 ---
 
 # writing
 
-(date: 2024-09-26 06:50:40)
+(date: 2024-09-27 07:36:18)
+
+---
+
+## Casati Wins 2024 Glass Bell Award
+
+date: 2024-09-27, from: Locus Magazine
+
+<p><strong>Clytemnestra </strong>by Costanza Casati (Penguin Michael Joseph) won the 2024 Goldsboro Books Glass Bell Award, honoring a novel in any genre &#8220;with brilliant characterization and a distinct voice that is confidently written and assuredly realized.&#8221; The winner receives a handmade glass bell and a cash prize of £2,000.</p>
+<p>The awards are decided by team members from Goldsboro Books. For more information, see the Goldsboro Books website and announcement at The  <a href="https://locusmag.com/2024/09/casati-wins-2024-glass-bell-award/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/casati-wins-2024-glass-bell-award/>
+
+---
+
+## Douglas Barbour Award 2024
+
+date: 2024-09-26, from: Locus Magazine
+
+<p>The Alberta Book Publishing Awards have announced that Guy Immega’s novel <strong>Super-Earth Mother: The AI that Engineered a Brave New World</strong> (EDGE) is the winner of the 2024 Douglas Barbour Award for Speculative Fiction.</p>
+<p>The Alberta Book Publishing Awards were created by the Book Publishers Association of Alberta to &#8220;celebrate the essential role Alberta book publishers play in supporting authors.&#8221; The Douglas Barbour award honors the late Canadian science fiction  <a href="https://locusmag.com/2024/09/douglas-barbour-award-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/douglas-barbour-award-2024/>
+
+---
+
+## SFWA Special Election Candidates Announced
+
+date: 2024-09-26, from: Locus Magazine
+
+<p>The Science Fiction and Fantasy Writers Association (SFWA) has finalized the candidates for its upcoming special election for the roles of president and secretary.</p>
+<ul>
+<li>Candidates for president are Jennifer Brozek, Kate Ristau, and Christine Taylor-Butler.</li>
+<li>The candidate for secretary is Matthew Reardon aka JRH Lawless.</li>
+</ul>
+<p>A voting link will be posted and optional paper ballots will be mailed on October 9, 2024. Ballots will be counted after October 23, 2024.  <a href="https://locusmag.com/2024/09/sfwa-special-election-candidates-announced/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/sfwa-special-election-candidates-announced/>
+
+---
+
+## New Books Video Is Up for 9/24/24!
+
+date: 2024-09-26, from: Locus Magazine
+
+<p>Another week of the top SF, fantasy, and horror releases on our YouTube channel! Come by and give it a watch so you can keep up to date on all these fantastic new books! We really do appreciate when you show us your support by liking and subscribing! And if you&#8217;d like to find the titles, we have them all up at our Bookshop.org page: Bookshop.org/shop/locusmag!</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2024/09/new-books-video-is-up-for-9-24-24/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/09/new-books-video-is-up-for-9-24-24/>
+
+---
+
+## New Adventures in Space Opera edited by Jonathan Strahan : Review by Gary K. Wolfe
+
+date: 2024-09-26, from: Locus Magazine
+
+<p><strong>New Adventures in Space Opera</strong>, Jonathan Stra­han, ed. (Tachyon 978-1-61696-420-7, $18.95, 336pp, tp) August 2024.</p>
+<p>Dating back more than 80 years, space opera is almost certainly the longest-running term in con­tinuous use for a particular kind of SF – though we’ll probably never finish arguing over whether it’s a mode, a subgenre, a theme, or (in the eyes of some) a mistake. In 2003, Locus ran a special issue  <a href="https://locusmag.com/2024/09/new-adventures-in-space-opera-edited-by-jonathan-strahan-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/new-adventures-in-space-opera-edited-by-jonathan-strahan-review-by-gary-k-wolfe/>
 
 ---
 

@@ -1,11 +1,55 @@
 ---
 title: libraries
-updated: 2024-09-26 06:50:42
+updated: 2024-09-27 07:36:20
 ---
 
 # libraries
 
-(date: 2024-09-26 06:50:42)
+(date: 2024-09-27 07:36:20)
+
+---
+
+## Guest Post:  Behind Every Paper is a Person – Reviewer Comments Matter
+
+date: 2024-09-27, from: Scholarly Kitchen
+
+<p>IOP Publishing offers a short video that draws attention to the importance of professional and constructive peer reviews.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/09/27/behind-every-paper-is-a-person-reviewer-comments-matter/">Guest Post:  Behind Every Paper is a Person – Reviewer Comments Matter</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/09/27/behind-every-paper-is-a-person-reviewer-comments-matter/>
+
+---
+
+## Embracing Innovation: Insights from Peer Review Leaders on Managing Technological Change
+
+date: 2024-09-27, from: Scholarly Kitchen
+
+<p>The real challenge in implementing new peer review technologies lies in managing the human and organizational changes required to make these innovations stick. Three experts share their insights into how they are leading their teams through these transformative processes.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/09/27/embracing-innovation-insights-from-peer-review-leaders-on-managing-technological-change/">Embracing Innovation: Insights from Peer Review Leaders on Managing Technological Change</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/09/27/embracing-innovation-insights-from-peer-review-leaders-on-managing-technological-change/>
+
+---
+
+## Zuni Folktales, by Frank Hamilton Cushing
+
+date: 2024-09-26, from: Standard Ebooks, new releaases
+
+A collection of folktales from the Zuni culture. 
+
+<https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales>
+
+---
+
+## Rachel Ray, by Anthony Trollope
+
+date: 2024-09-26, from: Standard Ebooks, new releaases
+
+The attractions of a young woman provoke both admiration and antipathy in her local town. 
+
+<https://standardebooks.org/ebooks/anthony-trollope/rachel-ray>
 
 ---
 
@@ -49,7 +93,7 @@ date: 2024-09-24, from: Association of Research Libraries News
 
 date: 2024-09-24, from: Association of Research Libraries News
 
-<p>Last Updated on September 25, 2024, 12:14 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 24 &#124; Wednesday, September 25 &#124; Thursday,...</p>
+<p>Last Updated on September 26, 2024, 4:18 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 24 &#124; Wednesday, September 25 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-23-26/">Day in Review (September 23–26)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

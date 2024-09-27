@@ -1,11 +1,285 @@
 ---
 title: going electric
-updated: 2024-09-26 06:50:46
+updated: 2024-09-27 07:36:24
 ---
 
 # going electric
 
-(date: 2024-09-26 06:50:46)
+(date: 2024-09-27 07:36:24)
+
+---
+
+## Kia officially opens its first EV-only plant to build low-cost EV3, EV4 electric vehicles
+
+date: 2024-09-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Kias-first-EV-only-plant-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/kia/">Kia</a> held an opening ceremony for its first EV-only plant, “EVO,” as it looks to establish itself as a leading electric vehicle maker. Kia’s new low-cost EV3 and EV4 models are the first electric cars scheduled for mass production. The new facility will kick off a new era for Kia, with the capacity to build 150,000 EVs annually.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai-motor-group,kia,kia-ev3,kia-ev4" data-layer-viewtype="unknown" data-post-id="381674" href="https://electrek.co/2024/09/27/kia-officially-opens-first-ev-only-plant-to-build-low-cost-ev3-ev4/#more-381674" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/27/kia-officially-opens-first-ev-only-plant-to-build-low-cost-ev3-ev4/>
+
+---
+
+## Thor electric RV concept packs a 140 kWh battery and 500 mile range
+
+date: 2024-09-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/THOR_Hybrid_Class_A_Test_Vehicle_3_4.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The latest electric RV concept from Thor is a Class A motorhome with big batteries, electric drive, and a range-extending generator. Will this PHERV (?) make it to production?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-rv,phev" data-layer-viewtype="unknown" data-post-id="381656" href="https://electrek.co/2024/09/27/thor-electric-rv-concept-packs-a-140-kwh-battery-and-500-mile-range/#more-381656" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/27/thor-electric-rv-concept-packs-a-140-kwh-battery-and-500-mile-range/>
+
+---
+
+## Porsche Macan Gets One Year Of Free Charging On Electrify America
+
+date: 2024-09-27, from: Inside EVs News
+
+The new electric crossover also supports Plug&Charge at Electrify America stations, so recharging is as easy as pie. 
+
+<https://insideevs.com/news/735344/porsche-macan-electric-free-electrify-america-charging/>
+
+---
+
+## Volkswagen Dealers Will Get ‘One Or Two’ ID. Buzz EVs At Launch
+
+date: 2024-09-27, from: Inside EVs News
+
+The electric van, which is Volkswagen’s most expensive U.S. model, will be easier to find at dealers who sell a lot of ID.4s. 
+
+<https://insideevs.com/news/735310/volkswagen-dealers-id-buzz-allocation/>
+
+---
+
+## Ford BlueCruise 1.4 Hands-Free ADAS Dramatically Minimizes Disengagements
+
+date: 2024-09-27, from: Inside EVs News
+
+The company said BlueCruise will now stay engaged in hands-free driving mode for up to eight times longer than version 1.0. 
+
+<https://insideevs.com/news/735298/ford-bluecruise-1-4-improvements/>
+
+---
+
+## Tesla gets an intervention, Hyundai drives down prices, and California upgrades
+
+date: 2024-09-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/intervention.jpg?quality=82&#038;strip=all&#038;w=1428" /></div><p>On today’s emotionally energized episode of <em><a href="https://www.youtube.com/@ElectrekDaily">Quick Charge</a></em>, an independent test show that the latest Tesla Full Self Driving requires an intervention every 13 miles. Meanwhile, Hyundai, Kia, and California are making EVs better, AND more affordable.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,hyundai,quick-charge,tesla-full-self-driving" data-layer-viewtype="unknown" data-post-id="381646" href="https://electrek.co/2024/09/26/tesla-gets-an-intervention-hyundai-drives-down-prices-and-california-upgrades/#more-381646" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/26/tesla-gets-an-intervention-hyundai-drives-down-prices-and-california-upgrades/>
+
+---
+
+## Kia’s EV charging service now has access to over 800,000 chargers across Europe
+
+date: 2024-09-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Kias-EV-charging-Europe-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/kia/">Kia</a> continues to make it easier for EV drivers to charge. Its EV charging service, Kia Charge, now has over 800,000 charging points across 28 European countries, an increase of 39% from last year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia" data-layer-viewtype="unknown" data-post-id="381631" href="https://electrek.co/2024/09/26/kias-charging-service-800000-ev-chargers-europe/#more-381631" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/26/kias-charging-service-800000-ev-chargers-europe/>
+
+---
+
+## Rivians Just Got Some Cool Software Updates
+
+date: 2024-09-26, from: Inside EVs News
+
+Rivian R1T and R1S owners get fancy new headlights, tri-zone climate control and a live security camera feed.  
+
+<https://insideevs.com/news/735257/rivian-ota-software-update-2024/>
+
+---
+
+## New CA smart grid law will help solar and fix the grid by… simply replacing wires
+
+date: 2024-09-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/01/Ten-West-Link.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>California Governor Gavin Newsom signed a new law directing the state to upgrade its electrical transmission system through use of new smart grid technologies and by replacing old wires with newer, high-tech ones in order to get the state ready for increased renewable electricity generation.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrical-grid,renewable-energy,solar-power" data-layer-viewtype="unknown" data-post-id="381614" href="https://electrek.co/2024/09/26/new-ca-smart-grid-law-will-help-solar-and-fix-the-grid-by-simply-replacing-wires/#more-381614" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/26/new-ca-smart-grid-law-will-help-solar-and-fix-the-grid-by-simply-replacing-wires/>
+
+---
+
+## Hyundai’s new Georgia EV plant adds its 18th supplier as an extensive US network unfolds
+
+date: 2024-09-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Hyundais-EV-plant-supplier.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/hyundai/">Hyundai’s</a> $7.6 billion EV plant in Georgia gained its 18th supplier as the automaker builds an extensive US supply chain. The plant, slated to open as early as next month, will produce US-made Hyundai electric vehicles, starting with its updated 2025 IONIQ 5.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="381612" href="https://electrek.co/2024/09/26/hyundais-massive-new-georgia-ev-plant-adds-18th-supplier/#more-381612" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/26/hyundais-massive-new-georgia-ev-plant-adds-18th-supplier/>
+
+---
+
+## EV Charging Is Finally Improving In America's Worst City For Driving
+
+date: 2024-09-26, from: Inside EVs News
+
+Ride hail start-up Revel opened Manhattan’s first public fast-charging station that will be open round the clock. 
+
+<https://insideevs.com/news/735258/nyc-ev-charging-improves-revel-manhattan-chargers/>
+
+---
+
+## Revel opens the first 24/7 public charging station in Manhattan featuring 320kW fast chargers
+
+date: 2024-09-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Revel-charging-station-Manhattan.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>All-electric rideshare EV charging infrastructure provider <a href="https://electrek.co/guides/revel/">Revel</a> made good on previously announced plans to expand its network of fast charging stations around New York City. This afternoon, Revel officially opened a 24/7 public charging station at Pier 36 in Manhattan, the first of its kind in the NYC borough.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="381425" href="https://electrek.co/2024/09/26/revel-opens-first-24-7-public-charging-station-manhattan-320kw-fast-chargers/#more-381425" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/26/revel-opens-first-24-7-public-charging-station-manhattan-320kw-fast-chargers/>
+
+---
+
+## Exclusive $200 price drops on VMAX R40/R55 Pro full-suspension e-scooters, Anker SOLIX AC 90,000mAh station $200, more
+
+date: 2024-09-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/VMAX-R40-Pro-Electric-Scooter.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Leading the charge in today’s Green Deals is the exclusive discount our readers can get on the <a href="https://9to5toys.com/2024/09/26/save-an-exclusive-200-on-vmaxs-r40-pro-and-r55-pro-full-suspension-e-scooters-with-regen-brakes-from-899/">VMAX R40 Pro Electric Scooter and R55 Pro Electric Scooter</a> that start from a <a href="https://9to5toys.com/2024/09/26/save-an-exclusive-200-on-vmaxs-r40-pro-and-r55-pro-full-suspension-e-scooters-with-regen-brakes-from-899/">$899 low</a>. We also spotted <a href="https://9to5toys.com/2024/09/25/ankers-new-solix-c300-ac-90000mah-portable-power-station-hits-200-amazon-low-ahead-of-your-next-fall-outing/">Anker’s new SOLIX C300 AC 90,000mAh Power Station</a> dropping down to a <a href="https://9to5toys.com/2024/09/25/ankers-new-solix-c300-ac-90000mah-portable-power-station-hits-200-amazon-low-ahead-of-your-next-fall-outing/">$200 Amazon low</a>, while a one-day sale from Best Buy has <a href="https://9to5toys.com/2024/09/26/get-on-the-go-backup-with-jackerys-explorer-290-portable-power-station-at-new-160-low-reg-250-today-only/">Jackery’s Explorer 290 Power Station</a> hitting a <a href="https://9to5toys.com/2024/09/26/get-on-the-go-backup-with-jackerys-explorer-290-portable-power-station-at-new-160-low-reg-250-today-only/">new $160 low</a>. We’ve also got a new low price on <a href="https://9to5toys.com/2024/09/25/aerogardens-9-plant-bounty-elite-indoor-hydroponic-system-falls-to-new-191-low-reg-260/">AeroGarden’s 9-plant Bounty Elite Indoor Hydroponic System</a>, with more low-price opportunities on <a href="https://9to5toys.com/2024/09/26/prep-for-firewood-needs-with-greenworks-40v-14-inch-cordless-electric-chainsaw-at-new-140-low-reg-200/">Greenworks</a> and <a href="https://9to5toys.com/2024/09/26/worx-600-cfm-trivac-3-in-1-blower-vac-mulcher-with-universal-collection-system-and-bag-hits-110-today-only/">Worx</a> tools that will help you out before fall and winter properly settle in. Bringing up the rear is <a href="https://9to5toys.com/2024/09/25/murfs-new-accessory-sale-kits-out-your-e-bike-at-up-to-25-off-racks-baskets-seats-koozies-trailers-more/">Murf’s e-bike accessory sale</a> that can deck out your ride at up to 25% off. Plus, all the other hangover Green Deals in the links at the bottom of the page, like yesterday’s rare <a href="https://9to5toys.com/2024/09/24/electric-bike-co-e-bike-bundles-now-up-to-500-off-with-bonus-promotion-options-starting-from-1899/">Electric Bike Co.</a> and <a href="https://9to5toys.com/2024/09/25/lectric-offers-rare-price-cuts-on-xpeak-off-road-e-bikes-with-227-in-bonus-gear-at-1299-low/">Lectric</a> price cuts, and much more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="381574" href="https://electrek.co/2024/09/26/vmax-r40-r50-pro-full-suspension-electric-scooter-anker-solix-ac-station-more/#more-381574" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/26/vmax-r40-r50-pro-full-suspension-electric-scooter-anker-solix-ac-station-more/>
+
+---
+
+## Jeep just launched its first EV in Japan to take on Toyota’s home turf
+
+date: 2024-09-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Jeep-first-EV-Japan.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The rugged SUV maker wants a bigger share of the global market. <a href="https://electrek.co/guides/jeep/">Jeep</a> launched its first EV, the Avenger electric SUV, in Toyota-dominated Japan. Toyota’s home market has mostly shunned imports, but foreign EVs are starting to crack the code.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="jeep" data-layer-viewtype="unknown" data-post-id="381572" href="https://electrek.co/2024/09/26/jeep-just-launched-first-ev-japan-take-on-toyota/#more-381572" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/26/jeep-just-launched-first-ev-japan-take-on-toyota/>
+
+---
+
+## Tesla Sales Slump Won't Stop Record U.S. EV Sales In Q3
+
+date: 2024-09-26, from: Inside EVs News
+
+Tesla Model 3 and Model Y sales are sinking. Despite that, nearly 340,000 EVs are expected to be sold in Q3.  
+
+<https://insideevs.com/news/735231/ev-sales-q3-2024-tesla/>
+
+---
+
+## Ford to reopen Chennai plant for EV exports to spearhead its global comeback
+
+date: 2024-09-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Fords-first-all-electric-Explorer-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After a three-year break, <a href="https://electrek.co/guides/ford/">Ford</a> is set to reopen its Chennai plant in India. However, This time, Ford will focus on EVs as it faces a global comeback.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="381555" href="https://electrek.co/2024/09/26/ford-eyes-global-return-plans-reopen-chennai-plant-evs/#more-381555" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/26/ford-eyes-global-return-plans-reopen-chennai-plant-evs/>
+
+---
+
+## Tesla Full Self-Driving third-party testing shows ridiculous 13 miles between interventions
+
+date: 2024-09-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla Full Self-Driving was tested by third-party testing firm AMCI and the result was a ridiculous 13 miles between interventions.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="381554" href="https://electrek.co/2024/09/26/tesla-full-self-driving-third-party-testing-13-miles-between-interventions/#more-381554" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/26/tesla-full-self-driving-third-party-testing-13-miles-between-interventions/>
+
+---
+
+## SAIC-GM and CATL just launched an LFP battery that can charge 200km range in 5 mins
+
+date: 2024-09-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/GM-CATL-battery-logos.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Two current titans in the electric mobility industry have utilized an existing joint venture to deliver a fresh battery technology to help EV drivers eventually go farther faster. Today, SAIC-GM and CATL launched a new lithium-iron-phosphate (LFP) battery cell with a 6C multiplier, enabling recharge rates of up to 200km in just five minutes, making it the <a href="https://electrek.co/guides/ev-batteries">fastest charging battery cell</a> in China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="catl,ev-batteries,gm,saic-gm-wuling" data-layer-viewtype="unknown" data-post-id="381527" href="https://electrek.co/2024/09/26/saic-gm-catl-launch-lfp-battery-charge-200km-range-in-5-mins/#more-381527" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/26/saic-gm-catl-launch-lfp-battery-charge-200km-range-in-5-mins/>
+
+---
+
+## Audi unveils pricing and specs for 2025 Q6 e-tron, featuring new range-leading RWD model
+
+date: 2024-09-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Audi-Q6-e-tron-hero-drive-impressions.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Audi of America has officially announced the pricing and specifications for its all-new 2025 Q6 e-tron model line, and it came with a surprise.</p>
+
+
+
+<p>Among the lineup is a new rear-wheel-drive (RWD) entry model, designed to offer the longest range of any Audi battery-electric vehicle (BEV) to date. Starting at $63,800, the RWD Q6 e-tron promises an impressive EPA-estimated range of 321 miles when equipped with the ultra package.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="audi,audi-q6-e-tron" data-layer-viewtype="unknown" data-post-id="381533" href="https://electrek.co/2024/09/26/audi-unveils-pricing-and-specs-for-2025-q6-e-tron-featuring-new-range-leading-rwd-model/#more-381533" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/26/audi-unveils-pricing-and-specs-for-2025-q6-e-tron-featuring-new-range-leading-rwd-model/>
+
+---
+
+## Hyundai and Kia launch new LFP battery project for lower-priced EVs
+
+date: 2024-09-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Kia-EV4-Europe.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>South Korea’s leading automakers are doubling down on their efforts to cut EV costs with new battery tech. <a href="https://electrek.co/guides/hyundai/">Hyundai</a> and Kia are teaming up to develop LFP battery materials to power up lower-priced EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,kia" data-layer-viewtype="unknown" data-post-id="381519" href="https://electrek.co/2024/09/26/hyundai-kia-launch-new-lfp-battery-project-cheaper-evs/#more-381519" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/26/hyundai-kia-launch-new-lfp-battery-project-cheaper-evs/>
+
+---
+
+## Yes, EVs Really Do Make The Air Cleaner
+
+date: 2024-09-26, from: Inside EVs News
+
+California and New York witness huge emissions reductions as EV adoption rises. 
+
+<https://insideevs.com/news/735141/new-york-california-evs-cleaner-air-emissions-reduction/>
 
 ---
 

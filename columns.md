@@ -1,11 +1,301 @@
 ---
 title: columns
-updated: 2024-09-26 06:50:38
+updated: 2024-09-27 07:36:16
 ---
 
 # columns
 
-(date: 2024-09-26 06:50:38)
+(date: 2024-09-27 07:36:16)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-27, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/11/23/simonBarSinister.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">When markets have dominant products, evolution freezes. Google search, for example. I should have great search for my blog by now, powered by Google. It has been here for 26 years. They should have been doing R&D on how they can be part of a better reading environment on the web. But reading on the web has just gotten worse over the years. It's why we don't like clicking on links, usually what we find at the other end of the link is obnoxious. To get some peace and quiet we had to go to Twitter of all places, but now that's gotten ridiculous too. The only corner of the web where there's real exciting innovation is ChatGPT. And what's tragic about that is we've never made search work on the web, and search is valuable too, not just the digested version of what was said that ChatGPT produces. Guy Kawasaki just sent a <a href="https://imgs.scripting.com/2024/09/27/kawasakiGPT.png?nodialog=true">summary of my career</a> created by his new chatbot. Very flattering, but it has no nutritional value. I'd like some of my writing to survive the Great Ingestion. Writing matters, how humans express themselves matters. In other words we still have work to do in search, AI does <i>not</i> fill that need. 
+
+<http://scripting.com/2024/09/27.html#a135558>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-27, from: Dave Winer's Scripting News)
+
+An idea for a news org. I want a for-pay site where I can ask a question about the news and get the most up-to-date answer. I'd like to link to that page from a blog post, and have it either be frozen, to document where we were on that day, or dynamic, so that it changes over time. I'm sure this product will be here soon, so obvious. 
+
+<http://scripting.com/2024/09/27.html#a132404>
+
+---
+
+## NIST Recommends Some Common-Sense Password Rules
+
+date: 2024-09-27, updated: 2024-09-27, from: Bruce Schneier blog
+
+<p>NIST&#8217;s second draft of its &#8220;<a href="https://pages.nist.gov/800-63-4/sp800-63b.html">SP 800-63-4</a>&#8220;&#8212;its digital identify guidelines&#8212;finally contains some really good rules about passwords:</p>
+<blockquote><p>The following requirements apply to passwords:</p>
+<ol>
+<li>lVerifiers and CSPs SHALL require passwords to be a minimum of eight characters in length and SHOULD require passwords to be a minimum of 15 characters in length.
+<li>Verifiers and CSPs SHOULD permit a maximum password length of at least 64 characters.
+<li>Verifiers and CSPs SHOULD accept all printing ASCII [RFC20] characters and the space character in passwords.
+<li>Verifiers and CSPs SHOULD accept Unicode [ISO/ISC 10646] characters in passwords. Each Unicode code point SHALL be counted as a signgle character when evaluating password length.
+...</li></li></li></li></ol></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/09/nist-recommends-some-common-sense-password-rules.html>
+
+---
+
+## Fedora 41 beta arrives, neck-and-neck with Ubuntu – but with a different focus
+
+date: 2024-09-27, updated: 2024-09-27, from: Liam Proven's articles at the Register
+
+<h4>Text Edit emerges, plus tinted terminal title bar when it's time to tread tactfully</h4>
+      <p>For those on the RPM side of the fence, Fedora 41 has hit beta, and works better in VirtualBox than ever if you're curious to try it.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/09/27/fedora_41_beta/>
+
+---
+
+## Election 2024 Video of the Week: Trump’s Bonkers Economic Plan
+
+date: 2024-09-27, from: Robert Reich's blog
+
+Video #4 
+
+<https://robertreich.substack.com/p/election-2024-video-of-the-week-trumps>
+
+---
+
+## September 26, 2024
+
+date: 2024-09-27, from: Heather Cox Richardson blog
+
+Today, President Joe Biden signed the continuing resolution Congress passed yesterday to fund the government until December 20. 
+
+<https://heathercoxrichardson.substack.com/p/september-26-2024>
+
+---
+
+##  &#8220;As of late September 2024, residential households in the U.S. are eligible... 
+
+date: 2024-09-27, updated: 2024-09-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045353-as-of-late-september-2024>
+
+---
+
+## X Blocks Links to Stolen J.D. Vance Dossier
+
+date: 2024-09-27, updated: 2024-09-27, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/2024/9/26/24255298/elon-musk-x-blocks-jd-vance-dossier>
+
+---
+
+##  Old photos of basketball games and boxing matches often have a pleasing... 
+
+date: 2024-09-26, updated: 2024-09-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045313-old-photos-of-basketball->
+
+---
+
+## Friday 27 September, 2024
+
+date: 2024-09-26, from: John Naughton's online diary
+
+Waiting for dinner Cote d’Azur, 2010. Quote of the Day ”The world is full of magical things patiently waiting for our wits to grow sharper. “ Bertrand Russell Thanks to John Seeley for spotting it. Musical alternative to the morning’s &#8230; <a href="https://memex.naughtons.org/friday-27-september-2024/39899/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-27-september-2024/39899/>
+
+---
+
+##  I appreciate this no-nonsense flight safety video from Emirates. All the jokey... 
+
+date: 2024-09-26, updated: 2024-09-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045317-i-appreciate-the-new-no-n>
+
+---
+
+## The Real Threat He Poses
+
+date: 2024-09-26, from: Dan Rather's Steady
+
+And why we must keep talking about it 
+
+<https://steady.substack.com/p/the-real-threat-he-poses>
+
+---
+
+##  In the late 19th century, hotels started building fully outfitted darkrooms for... 
+
+date: 2024-09-26, updated: 2024-09-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045337-in-the-late-19th-century>
+
+---
+
+##  Kodak and the Invention of Popular Photography 
+
+date: 2024-09-26, updated: 2024-09-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/kodak-and-the-invention-of-popular-photography>
+
+---
+
+## The Talk Show: ‘The Dynamic Paradox’
+
+date: 2024-09-26, updated: 2024-09-26, from: Daring Fireball
+
+ 
+
+<https://daringfireball.net/thetalkshow/2024/09/26/ep-409>
+
+---
+
+## CTO Mira Murati Abruptly Leaves OpenAI, Which Is Now Set to Become a For-Profit Company
+
+date: 2024-09-26, updated: 2024-09-26, from: Daring Fireball
+
+ 
+
+<https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639>
+
+---
+
+## LG Smart TVs, Including OLEDs, Now Show Screensaver Ads
+
+date: 2024-09-26, updated: 2024-09-26, from: Daring Fireball
+
+ 
+
+<https://www.flatpanelshd.com/news.php?subaction=showfull&id=1727255253>
+
+---
+
+## History Extra for September 25, 2024
+
+date: 2024-09-26, from: Heather Cox Richardson blog
+
+Conspiracy theorist Alex Jones rose to prominence following the 1993 events at Waco, Texas. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-september-25-2024>
+
+---
+
+## iMore Closes Down
+
+date: 2024-09-26, updated: 2024-09-26, from: Daring Fireball
+
+ 
+
+<https://www.imore.com/apple/one-more-thing-goodbye-from-imore>
+
+---
+
+## September 25, 2024
+
+date: 2024-09-26, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-25-2024-f06>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-26, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/09/bowHunter.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Why do I care about what <a href="https://oursocialweb.org/">social web</a> means? Because I plan to add functionality to this space. I'm tired of all the stupid limits these products have. Titles or no titles. 300 character limits. No links, etc etc and on and on. Where did they get the idea that taking features out of writing was something they could do. What a wrong turn we took there. And now that once we have a chance to erase the limits, maybe -- none of the companies running their products are doing it. I don't want the way they do it to be the only way, the products are <i>deliberately</i> incompatible. Social web is the best name for what I'm working on. So I need to reserve this space. They didn't ask for my opinion, the first I heard of it was a press release. When I ship my thing I want to point back at this and say look -- I did tell you this was going to be a problem. 
+
+<http://scripting.com/2024/09/26.html#a175120>
+
+---
+
+##  Fun little word game: Alphaguess. &#8220;Guess the word of the day. Each... 
+
+date: 2024-09-26, updated: 2024-09-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045344-fun-little-word-game-alph>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-26, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/04/feedlandLogoPossible.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The <a href="https://www.threads.net/@davew/post/DAYZWUXpEyJ">question</a> came up on Threads as to whether the ActivityPub support in Ghost will be a full two-way presence in the fedisphere, and apparently the <a href="https://www.threads.net/@quillmatiq/post/DALtxZ_PiiX">answer</a> is yes. They are working on a feed reader that also hooks into AP. That's how I would have done it. Really feeds and tweets should always have been peers. If you want to know the history, blame Google Reader for that disconnect. Also it highlights the need for a <a href="https://www.threads.net/@davew/post/DAYm3v5JLLe">news-zine</a> focused on the <a href="https://oursocialweb.org/">social web</a>. When the PC first came out there was PC Mag and PC World and then PC Week. Same for the Mac. And there was InfoWorld that covered everything. Now we're basically using smoke signals between users. A few really interested users could bootstrap a blog to keep track of what's going on, and share what you learn publicly. That was the advice I gave <a href="site:scripting.com arrington">Mike Arrington</a> and he started TechCrunch and that acted as the glue that hooked together the early blogosphere, feeds and ultimately twitter and its offspring. We need it again. Users and developers party together has never been more needed as now. 
+
+<http://scripting.com/2024/09/26.html#a161419>
+
+---
+
+##  The Pudding has collected satellite imagery of all 59,507 outdoor basketball courts... 
+
+date: 2024-09-26, updated: 2024-09-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045339-the-pudding-has-collected>
+
+---
+
+##  The Williamsburg Bridge Riders 
+
+date: 2024-09-26, updated: 2024-09-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/the-williamsburg-bridge-riders>
+
+---
+
+## Updates 2024/Q3
+
+date: 2024-09-26, from: mrusme blog
+
+Project updates from the current consecutive three-month period, with info on
+the current status of my projects and next steps. You might find this
+interesting in case you're using any of my open source tools. 
+
+<https://xn--gckvb8fzb.com/updates-2024-q3/>
+
+---
+
+##  Dark Matter Could Be Hiding Out as Atom-Sized Black Holes. &#8220;Black holes... 
+
+date: 2024-09-26, updated: 2024-09-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045349-dark-matter-could-be-hidi>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-26, from: Dave Winer's Scripting News)
+
+<a href="https://oursocialweb.org/">oursocialweb.org</a>: You don't have to give it any money or come to any meetings. Just know that someone else believes in users and developers. And let's work together to make it great, as soon as we can, without waiting for the big companies. 
+
+<http://scripting.com/2024/09/26.html#a141434>
+
+---
+
+##  The Return of Ta-Nehisi Coates, a lengthy profile of the writer on... 
+
+date: 2024-09-26, updated: 2024-09-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045351-the-return-of-ta-nehisi-c>
 
 ---
 

@@ -1,11 +1,111 @@
 ---
 title: games
-updated: 2024-09-26 06:50:41
+updated: 2024-09-27 07:36:19
 ---
 
 # games
 
-(date: 2024-09-26 06:50:41)
+(date: 2024-09-27 07:36:19)
+
+---
+
+## Zelda: Echoes of Wisdom walkthrough for the main story, including best region order
+
+date: 2024-09-27, updated: 2024-09-27, from: Polygon Website
+
+The Legend of Zelda: Echoes of Wisdom is a fairly linear game, with the quest marker instructing you where to go next constantly, like a glowing yellow beacon in a fog. That said, there are some split paths in the game where you have to decide which region to tackle first. The specific choices you [&#8230;] 
+
+<https://www.polygon.com/zelda-echoes-wisdom-guides/452120/main-story-walkthrough-best-order-eow>
+
+---
+
+## How to get past the guards in Hyrule Castle’s Underground jail in Zelda: Echoes of Wisdom
+
+date: 2024-09-27, updated: 2024-09-27, from: Polygon Website
+
+Hyrule Castle Underground is arguably the first dungeon of The Legend of Zelda: Echoes of Wisdom. Essentially the tutorial, you’ll assume control of Zelda, go through a crash course with the Tri Rod, and acquire several elementary echoes, the core mechanic of the game. Still, getting out of jail is never easy. Our Legend of [&#8230;] 
+
+<https://www.polygon.com/zelda-echoes-wisdom-guides/451075/hyrule-castle-underground-walkthrough-escape-jail>
+
+---
+
+## The Wild Robot should be the future of animation 
+
+date: 2024-09-27, updated: 2024-09-26, from: Polygon Website
+
+In late 2022, Puss in Boots: The Last Wish came as a complete surprise. Instead of a tired Shrek spinoff using the same overdone style of the previous five Shrek-related movies, DreamWorks delivered a gorgeously animated and poignant story that harkened back to the actual meaningful themes of the original Shrek, before the franchise became [&#8230;] 
+
+<https://www.polygon.com/movies/456807/the-wild-robot-review-dreamworks>
+
+---
+
+## League of Legends turns 15, and Riot is still experimenting with its flagship title
+
+date: 2024-09-27, updated: 2024-09-26, from: Polygon Website
+
+League of Legends is 15 years old, and Riot Games is gearing up to celebrate the momentous occasion. Season 2 of Arcane, the popular and acclaimed Netflix show, will be released in November. The annual esports tournament known as the World Championship is approaching soon, accompanied by a rock anthem by Linkin Park. And Teemo, [&#8230;] 
+
+<https://www.polygon.com/gaming/457196/league-of-legends-15-years-future-development>
+
+---
+
+## New California law means digital stores can’t imply you’re buying a game when you’re merely licensing it
+
+date: 2024-09-26, updated: 2024-09-27, from: Polygon Website
+
+When you turn on your Xbox Series X, open the Microsoft Store, and buy Farming Simulator 22, you might think you own the game, but you’d be wrong. You actually paid for a license to play the game — not to own it. Companies can revoke the license at any time. It doesn’t happen all [&#8230;] 
+
+<https://www.polygon.com/news/457071/new>
+
+---
+
+## Creep’s Mark Duplass has a plan for zero-exploitation nudity in horror movies
+
+date: 2024-09-26, updated: 2024-09-26, from: Polygon Website
+
+This report comes from Fantastic Fest 2024, the annual genre film festival in Austin, Texas. Audiences at Austin’s annual genre festival Fantastic Fest got an eyeful on Sept. 25 at a preview screening of The Creep Tapes, Shudder’s upcoming horror series about a serial killer who tricks people into shooting footage of their own murders. [&#8230;] 
+
+<https://www.polygon.com/horror/456967/creep-tapes-mark-duplass-nudity>
+
+---
+
+## Heart piece locations in Zelda: Echoes of Wisdom
+
+date: 2024-09-26, updated: 2024-09-26, from: Polygon Website
+
+Heart pieces are a collectible in The Legend of Zelda: Echoes of Wisdom, and essential for increasing your total health. Note that heart pieces are not the same as the full heart containers you get for completing boss fights. Heart pieces are items you’ll find scattered throughout the map. Collecting four of them will get [&#8230;] 
+
+<https://www.polygon.com/zelda-echoes-wisdom-guides/457000/heart-piece-locations-all-where-to-find>
+
+---
+
+## In Grotesquerie, Ryan Murphy does Seven and… it kinda works?
+
+date: 2024-09-26, updated: 2024-09-26, from: Polygon Website
+
+For better or worse, there is no new season of American Horror Story this spooky season. But don’t for a moment think that’s because Ryan Murphy is out of ideas. Not at all. In addition to the second season of his true crime series Monster on Netflix and the upcoming fourth season of micro anthology [&#8230;] 
+
+<https://www.polygon.com/tv/457024/grotesquerie-ryan-murphy-review-ahs-hotel-seven-hulu>
+
+---
+
+## Space Marine 2 adds ultrawide support and a sparring arena in new patch
+
+date: 2024-09-26, updated: 2024-09-26, from: Polygon Website
+
+While you can wrap up the Warhammer 40K: Space Marine 2 campaign up in about twelve hours, but there are still Operations and Eternal War as game modes, and Saber Interactive is providing post-launch support for both. On Thursday, Saber announced the newest patch for Space Marine 2, which includes ultrawide support, private lobbies, and [&#8230;] 
+
+<https://www.polygon.com/news/457050/auto-draft>
+
+---
+
+## All Fairy Bottles in Zelda: Echoes of Wisdom
+
+date: 2024-09-26, updated: 2024-09-26, from: Polygon Website
+
+In The Legend of Zelda: Echoes of Wisdom, you’ll want to nab Fairy Bottles, a key item that allows you to store a tiny fairy inside. These are extremely useful, as when you fall in battle, the fairies will revive you, allowing you to keep going. There are four Fairy Bottles throughout Hyrule, spread out [&#8230;] 
+
+<https://www.polygon.com/zelda-echoes-wisdom-guides/456925/fairy-bottle-locations-all-where-to-find>
 
 ---
 
@@ -69,16 +169,6 @@ Waves crash against the hull of a ship that looks like it could be ripped right 
 
 ---
 
-## Zelda: Echoes of Wisdom main story walkthrough
-
-date: 2024-09-25, updated: 2024-09-25, from: Polygon Website
-
-The Legend of Zelda: Echoes of Wisdom is a fairly linear game, with the quest marker instructing you where to go next constantly, like a glowing yellow beacon in a fog. That said, there are some split paths in the game where you have to decide which region to tackle first. The specific choices you [&#8230;] 
-
-<https://www.polygon.com/zelda-echoes-wisdom-guides/452120/main-story-walkthrough-best-order-eow>
-
----
-
 ## Jabul Ruins walkthrough in Zelda: Echoes of Wisdom
 
 date: 2024-09-25, updated: 2024-09-25, from: Polygon Website
@@ -96,16 +186,6 @@ date: 2024-09-25, updated: 2024-09-25, from: Polygon Website
 After sorting out some issues in Gerudo Valley in The Legend of Zelda: Echoes of Wisdom, you’ll be able to jump straight into the rift, taking you to the Gerudo Sanctum. This is either the first or second non-tutorial dungeon you’ll run on your journey (either coming second to or being followed by the Zora’s [&#8230;] 
 
 <https://www.polygon.com/zelda-echoes-wisdom-guides/451934/gerudo-sanctum-walkthrough-chests-dungeon-map>
-
----
-
-## Hyrule Castle Underground jail walkthrough in Zelda: Echoes of Wisdom
-
-date: 2024-09-25, updated: 2024-09-25, from: Polygon Website
-
-Hyrule Castle Underground is arguably the first dungeon of The Legend of Zelda: Echoes of Wisdom. Essentially the tutorial, you’ll assume control of Zelda, go through a crash course with the Tri Rod, and acquire several elementary echoes, the core mechanic of the game. Still, getting out of jail is never easy. Our Legend of [&#8230;] 
-
-<https://www.polygon.com/zelda-echoes-wisdom-guides/451075/hyrule-castle-underground-walkthrough-escape-jail>
 
 ---
 

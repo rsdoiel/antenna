@@ -1,11 +1,93 @@
 ---
 title: socal north
-updated: 2024-09-26 06:50:34
+updated: 2024-09-27 07:36:12
 ---
 
 # socal north
 
-(date: 2024-09-26 06:50:34)
+(date: 2024-09-27 07:36:12)
+
+---
+
+## Gavin Newsom is vetoing 1 of every 5 bills. Here’s why
+
+date: 2024-09-27, updated: 2024-09-27, from: The LAist
+
+The governor blocks a sizable chunk of bills passed by the Legislature. He cites a few common reasons why they shouldn’t become law in California. 
+
+<https://laist.com/news/politics/gavin-newsom-is-vetoing-1-of-every-5-bills-heres-why>
+
+---
+
+## How did a 22-year-old law student afford a $1 million home at the center of civil fraud allegations?
+
+date: 2024-09-27, updated: 2024-09-27, from: The LAist
+
+The home is owned by O.C. Supervisor Andrew Do’s daughter, Rhiannon Do, who is among four individuals named as defendants in Orange County’s civil lawsuit alleging embezzlement of millions in public funds. LAist investigated the purchase. 
+
+<https://laist.com/news/politics/rhiannon-do-home-purchase-supervisor-andrew-do-orange-county-civil-fraud-lawsuit>
+
+---
+
+## Anaheim is latest city to end contract with once-lauded OC mental health provider
+
+date: 2024-09-27, updated: 2024-09-27, from: The LAist
+
+The nonprofit Mind OC has lost three contracts for mental health services in the past month. 
+
+<https://laist.com/news/anaheim-contract-be-well-oc-mobile-crisis-response>
+
+---
+
+## Santa Ana City Council
+
+date: 2024-09-26, updated: 2024-09-26, from: The LAist
+
+Pay raises for city councilmembers. Rent control. Noncitizen voting rights. These are just a few of the topics being tackled by the Santa Ana City Council. 
+
+<https://laist.com/news/politics/2024-election-california-general-santa-ana-city-council>
+
+---
+
+## New California law will speed cleanup of idle oil wells. What this means for the Inglewood Oil Field
+
+date: 2024-09-26, updated: 2024-09-26, from: The LAist
+
+Three new oil well laws come after the Newsom administration delayed enforcement of an existing law protecting communities near wells. 
+
+<https://laist.com/news/climate-environment/new-california-law-will-speed-cleanup-of-idle-oil-wells-the-inglewood-oil-field>
+
+---
+
+## Wonder who’s behind those nurse assistant training signs all over town? They said to call, so we called
+
+date: 2024-09-26, updated: 2024-09-26, from: The LAist
+
+A local for-profit college is making a hard sell to prospective students. But it’s always a good idea to explore your options. 
+
+<https://laist.com/news/education/nurse-assistant-training-program-fliers-los-angeles>
+
+---
+
+## David March Park is Expanding!
+
+date: 2024-09-26, from: City of Santa Clarita
+
+<p>By Councilwoman Marsha McLean One of the most beloved and meaningful parks in our community is about to expand, offering some exciting new amenities to our residents. Located at 28310 Via Joyce Drive in Saugus, 91350, the David March Park expansion is officially in construction, adding another eight acres to its footprint, along with countless [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/26/david-march-park-is-expanding/">David March Park is Expanding!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/26/david-march-park-is-expanding/>
+
+---
+
+## A slow warm up for the Southland over the next few days
+
+date: 2024-09-26, updated: 2024-09-26, from: The LAist
+
+Forecasters say expect warmer weather through the weekend. 
+
+<https://laist.com/news/climate-environment/slow-warm-up-southland>
 
 ---
 
