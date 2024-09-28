@@ -1,11 +1,114 @@
 ---
 title: socal north
-updated: 2024-09-27 07:36:12
+updated: 2024-09-28 07:41:59
 ---
 
 # socal north
 
-(date: 2024-09-27 07:36:12)
+(date: 2024-09-28 07:41:59)
+
+---
+
+## Behind the scenes of statewide propositions: How to find the big players
+
+date: 2024-09-27, updated: 2024-09-27, from: The LAist
+
+Let’s peer behind the campaign spending curtain to get a sense of those behind-the-scenes battles and the power players funding them. 
+
+<https://laist.com/news/politics/behind-the-scenes-battles-prop-34>
+
+---
+
+## Health Officials Report LA County’s First West Nile Death of the Year
+
+date: 2024-09-27, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="680" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Culexquinquefasciatus.jpeg?fit=1024%2C680&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Culexquinquefasciatus.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Culexquinquefasciatus.jpeg?resize=300%2C199&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Culexquinquefasciatus.jpeg?resize=1024%2C680&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Culexquinquefasciatus.jpeg?resize=768%2C510&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Culexquinquefasciatus.jpeg?resize=1536%2C1021&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Culexquinquefasciatus.jpeg?resize=1200%2C797&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Culexquinquefasciatus.jpeg?resize=1568%2C1042&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Culexquinquefasciatus.jpeg?resize=400%2C266&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Culexquinquefasciatus.jpeg?resize=706%2C469&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Culexquinquefasciatus.jpeg?fit=1024%2C680&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; Los Angeles County health officials are reporting today the county’s first West Nile virus death of 2024. The patient, a resident of the San Fernando Valley, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/27/health-officials-report-la-countys-first-west-nile-death-of-the-year/">Health Officials Report LA County’s First West Nile Death of the Year</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/27/health-officials-report-la-countys-first-west-nile-death-of-the-year/>
+
+---
+
+## Irvine Mayor
+
+date: 2024-09-27, updated: 2024-09-28, from: The LAist
+
+There are seven candidates vying to be Irvine's next mayor, replacing the outgoing mayor Farrah Khan. 
+
+<https://laist.com/news/politics/2024-election-california-general-irvine-mayor>
+
+---
+
+## Dreary weather doesn’t dampen swim
+
+date: 2024-09-27, from: Catalina Islander
+
+It was dreary, overcast and it nearly looked like it might drizzle when forty-four swimmers gathered at 6:45 a.m. for the 2024 Annual Pancreatic Swim fund raiser on Saturday morning. However, the atmosphere was festive, very festive, with swimmers chatting and welcoming swimmers who had made the trek to Avalon for the event. When asked [&#8230;] 
+
+<https://thecatalinaislander.com/dreary-weather-doesnt-dampen-swim/>
+
+---
+
+## Hispanic Heritage Celebration in Avalon
+
+date: 2024-09-27, from: Catalina Islander
+
+The City of Avalon and Love Catalina joined forces to commemorate Mexican Independence Day on Sept. 16 with a vibrant celebration. The event honored the country’s struggle for independence, sparked by Father Miguel Hidalgo y Costilla’s “Grito de Dolores” in 1810. The festivities kicked off with a mass at St. Catherine Church, led by Father [&#8230;] 
+
+<https://thecatalinaislander.com/hispanic-heritage-celebration-in-avalon/>
+
+---
+
+## Cruise ship fees to rise to $7.50 a passenger
+
+date: 2024-09-27, from: Catalina Islander
+
+Last week the Avalon City Council unanimously adopted new wharfage fees for cruise ships that visit Catalina Island. The new rate of $7.50 per passenger aboard each cruise ship will go into effect Jan. 1, 2026. The council also ended the marketing incentive in the Municipal Code that returned 50% of wharfage fees collected for [&#8230;] 
+
+<https://thecatalinaislander.com/cruise-ship-fees-to-rise-to-7-50-a-passenger/>
+
+---
+
+## LA Community College District Board of Trustees
+
+date: 2024-09-27, updated: 2024-09-27, from: The LAist
+
+A number of incumbents will ask voters to trust them through choppy waters. 
+
+<https://laist.com/news/politics/2024-election-california-general-laccd-board-of-trustees>
+
+---
+
+## Sheriff’s Log: Sept. 19 to Sept. 25, 2024
+
+date: 2024-09-27, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Sept. 19 to Sept. 25, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<https://thecatalinaislander.com/sheriffs-log-sept-19-to-sept-25-2024/>
+
+---
+
+## Catalina Film Festival to honor Marcia Gay Harden, Emmanuelle Chriqui
+
+date: 2024-09-27, from: Catalina Islander
+
+Catalina Film Festival (CFF) announced the 2024 honorees for the 14th annual celebration and will be presenting Academy Award-winning actress Marcia Gay Harden (The Morning Show, Pollock) with the Avalon Award and actress/philanthropist Emmanuelle Chriqui (Entourage) with the Champion of Challenge Award at the Red Carpet &#38; Awards Ceremony on Saturday, Sept. 28, at 7 [&#8230;] 
+
+<https://thecatalinaislander.com/catalina-film-festival-to-honor-marcia-gay-harden-emmanuelle-chriqui/>
+
+---
+
+## High temperatures for the Inland Empire and deserts
+
+date: 2024-09-27, updated: 2024-09-27, from: The LAist
+
+An excessive heat warning kicks in at 10 a.m. today for the Coachella Valley. 
+
+<https://laist.com/news/climate-environment/hot-temps-inland-empire-deserts-excessive-heat>
 
 ---
 
@@ -21,11 +124,21 @@ The governor blocks a sizable chunk of bills passed by the Legislature. He cites
 
 ## How did a 22-year-old law student afford a $1 million home at the center of civil fraud allegations?
 
-date: 2024-09-27, updated: 2024-09-27, from: The LAist
+date: 2024-09-27, updated: 2024-09-28, from: The LAist
 
 The home is owned by O.C. Supervisor Andrew Do’s daughter, Rhiannon Do, who is among four individuals named as defendants in Orange County’s civil lawsuit alleging embezzlement of millions in public funds. LAist investigated the purchase. 
 
 <https://laist.com/news/politics/rhiannon-do-home-purchase-supervisor-andrew-do-orange-county-civil-fraud-lawsuit>
+
+---
+
+## Orange County Board of Supervisors, District 1: Who's running on Nov. 5 and why it matters
+
+date: 2024-09-27, updated: 2024-09-27, from: The LAist
+
+The winner of District 1 will join a five-member board that oversees a county of about 3 million residents with an annual budget of about $9 billion. 
+
+<https://laist.com/news/politics/2024-election-california-general-orange-county-supervisors-district-1>
 
 ---
 
@@ -105,7 +218,7 @@ The state measure would make a tax on medical providers permanent and would guar
 
 date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/House-Party_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>La mañana del 25 de mayo, Anahí Díaz, de San Fernando, se despertó ansiosa por terminar los preparativos para la fiesta de cumpleaños número 30 de su pareja. Esperaban a [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/25/habla-el-dueno-de-la-casa-de-san-fernando-donde-fue-el-lugar-del-tiroteo-en-mayo/">Habla el Dueño de la Casa de San Fernando Donde Fue el Lugar del Tiroteo en Mayo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -154,7 +267,7 @@ date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/Homefulness_elsol.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>En todo California, grupos de personas que han experimentado la falta de vivienda se están alejando de la ayuda organizada por el estado para crear sus propias soluciones a la [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/25/homefulness-una-solucion-comunitaria-para-la-falta-de-vivienda-llega-a-los-angeles/">Homefulness, una Solución Comunitaria para la Falta de Vivienda, Llega a Los Ángeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -179,7 +292,7 @@ date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?w=1950&amp;ssl=1 1950w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?w=1950&amp;ssl=1 1950w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/DPMHS-Walkout_SN_10_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Los cánticos de “Los necesitamos de vuelta”, “Los estudiantes merecen aprender” y “La escuela en línea no es la escuela” resonaron afuera de las oficinas del Distrito Escolar Unificado de [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/25/profesor-de-musica-reincorporado-despues-de-protesta-estudiantil-en-daniel-pearl-magnet-high-school/">Profesor de Música Reincorporado Después de Protesta Estudiantil en Daniel Pearl Magnet High School</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -192,7 +305,7 @@ date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="585" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?fit=1024%2C585&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=300%2C171&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=1024%2C585&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=768%2C439&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=1536%2C878&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=1200%2C686&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=1568%2C896&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=400%2C229&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=706%2C403&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?fit=1024%2C585&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="585" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?fit=1024%2C585&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=300%2C171&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=1024%2C585&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=768%2C439&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=1536%2C878&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=1200%2C686&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=1568%2C896&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=400%2C229&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?resize=706%2C403&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/PXL_20240922_013151560-scaled-e1727326565978.jpg?fit=1024%2C585&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Cuando la gente piensa en la ópera, puede verse estereotipadamente como un entretenimiento reservado para la clase alta, para aquellos con trajes y vestidos caros que asisten a un teatro [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/25/la-opera-de-los-angeles-regresa-a-sylmar-con-la-presentacion-de-madame-butterfly-en-la-noche-de-apertura/">La Ópera de Los Ángeles Regresa a Sylmar con la Presentación de “Madame Butterfly” en la Noche de Apertura</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -205,7 +318,7 @@ date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-09-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="803" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?fit=1024%2C803&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=300%2C235&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=1024%2C803&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=768%2C602&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=1536%2C1204&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=2048%2C1606&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=1200%2C941&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=1568%2C1229&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=2000%2C1568&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=400%2C314&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=706%2C554&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?fit=1024%2C803&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="803" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?fit=1024%2C803&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=300%2C235&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=1024%2C803&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=768%2C602&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=1536%2C1204&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=2048%2C1606&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=1200%2C941&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=1568%2C1229&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=2000%2C1568&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=400%2C314&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?resize=706%2C554&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/09/spanish-dracula_2_pr-scaled.jpg?fit=1024%2C803&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>(Los Ángeles) 23 de septiembre de 2024 — Este Halloween, la enormemente popular celebración anual de terror y música en vivo de LA Opera en el extraordinario United Theater on [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/09/25/la-opera-presenta-dracula-en-espanol-con-orquesta-en-vivo-en-the-united-theater-on-broadway/">LA Opera Presenta Drácula en Español con Orquesta en Vivo en The United Theater on Broadway</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -470,4 +583,48 @@ date: 2024-09-23, updated: 2024-09-23, from: The LAist
 A new study reveals mercury levels in melting Arctic permafrost that pose disproportionate dangers for Indigenous peoples. 
 
 <https://laist.com/news/climate-environment/alaskan-permafrost-mercury-scientists>
+
+---
+
+## Shaping Our Community’s Future Through Santa Clarita 2025
+
+date: 2024-09-21, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin &#8220;Keep your eyes on the stars, and your feet on the ground&#8221; – Theodore Roosevelt This quote by Theodore Roosevelt reflects the guiding principles behind the Santa Clarita 2025 Strategic Plan. This mindset has driven our City&#8217;s efforts to balance aspirations with practical steps, ensuring that the goals we set [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/21/shaping-our-communitys-future-through-santa-clarita-2025/">Shaping Our Community’s Future Through Santa Clarita 2025</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/21/shaping-our-communitys-future-through-santa-clarita-2025/>
+
+---
+
+## San Bernardino Mountains got a nice layer of frosting Saturday morning. It's called graupel
+
+date: 2024-09-21, updated: 2024-09-21, from: The LAist
+
+It's not snow. It's not hail. It's graupel. 
+
+<https://laist.com/news/climate-environment/san-bernardino-mountains-got-a-nice-layer-of-frosting-this-morning-its-called-graupel>
+
+---
+
+## Silver Alert Issue For Woman Last Seen in Mission Hills
+
+date: 2024-09-21, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>MISSION HILLS (CNS) &#8211; A Silver Alert was issued today for a 74-year-old woman who was last seen in Mission Hills. Cathy Fujimoto was last seen at 7 a.m. Thursday [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/09/21/silver-alert-issue-for-woman-last-seen-in-mission-hills/">Silver Alert Issue For Woman Last Seen in Mission Hills</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/09/21/silver-alert-issue-for-woman-last-seen-in-mission-hills/>
+
+---
+
+## Popular Chantry Flat hiking area to reopen years after Bobcat Fire. Here’s what to know
+
+date: 2024-09-21, updated: 2024-09-21, from: The LAist
+
+The Bobcat Fire destroyed more than 115,000 acres in and around the Angeles National Forest four years ago, and forced the closure of the Big Santa Anita Canyon and other areas. Now portions of that land will reopen on Oct. 2. 
+
+<https://laist.com/news/climate-environment/popular-chantry-flat-hiking-area-to-reopen-years-after-bobcat-fire-heres-what-to-know>
 

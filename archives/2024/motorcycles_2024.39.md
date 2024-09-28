@@ -1,11 +1,21 @@
 ---
 title: motorcycles
-updated: 2024-09-27 07:36:22
+updated: 2024-09-28 07:42:10
 ---
 
 # motorcycles
 
-(date: 2024-09-27 07:36:22)
+(date: 2024-09-28 07:42:10)
+
+---
+
+## Muniz eager for Kansas, aims to make most of limited Truck Series opportunities
+
+date: 2024-09-27, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer After months of anticipation and preparation, former child actor with realized aspirations of becoming a professional stock car driver Frankie Muniz will get to live&#8230;  
+
+<https://kickinthetires.net/nascar/muniz-eager-for-kansas-aims-to-make-most-of-limited-truck-series-opportunities/>
 
 ---
 
@@ -486,4 +496,34 @@ date: 2024-09-22, from: Kickin the Tires blog
 By: Zach Catanzareti, Staff Writer In a night owned and operated by Kyle Larson, who led 462 of 500 laps Saturday at Bristol Motor Speedway, the non-playoff standout was by&#8230;  
 
 <https://kickinthetires.net/nascar/best-of-the-rest-bubba-wallace-scores-3rd-in-bristol/>
+
+---
+
+## Parker Kligerman: ‘It’s a Big Achievement to Make Playoffs’
+
+date: 2024-09-21, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor BRISTOL, Tenn – Despite drifting through the corner mid-race at Bristol Motor Speedway, Parker Kligerman clinched a spot in the NASCAR Xfinity Series Playoffs for&#8230;  
+
+<https://kickinthetires.net/nascar/parker-kligerman-its-a-big-achievement-to-make-playoffs/>
+
+---
+
+## Ryan Truex Ends Part-Time Season ‘With a Bang’; Top 5 in Bristol
+
+date: 2024-09-21, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer Ryan Truex&#8216;s 10-race run with Joe Gibbs Racing in the 2024 Xfinity Series season is over. And in his words, it ended with a bang.&#8230;  
+
+<https://kickinthetires.net/nascar/ryan-truex-ends-part-time-season-with-a-bang-top-5-in-bristol/>
+
+---
+
+## Wait, Why Is The Standard Shifter on BMW's R 1300 GS Plastic?
+
+date: 2024-09-21, from: Ride Apart, Electric Motorcycle News
+
+Why yes, it did break immediately.  
+
+<https://www.rideapart.com/news/734474/bmw-r1300-gs-plastic-shifter-broken/>
 

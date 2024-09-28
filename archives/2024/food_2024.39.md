@@ -1,11 +1,89 @@
 ---
 title: food
-updated: 2024-09-27 07:36:25
+updated: 2024-09-28 07:42:12
 ---
 
 # food
 
-(date: 2024-09-27 07:36:25)
+(date: 2024-09-28 07:42:12)
+
+---
+
+## 7Up Just Revealed This Shirley Temple-Inspired Soda for the Holidays
+
+date: 2024-09-27, from: Taste of Home
+
+<p>7-year-old me is going crazy for this sparkling new 7Up flavor!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/7up-shirley-temple/">7Up Just Revealed This Shirley Temple-Inspired Soda for the Holidays</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/7up-shirley-temple/>
+
+---
+
+## How to Pick the Best Apples at the Orchard or Grocery Store
+
+date: 2024-09-27, from: Taste of Home
+
+<p>It's peak season for apple picking, and these expert tips will help you select the best apples for snacking or baking.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/how-to-pick-the-best-apples/">How to Pick the Best Apples at the Orchard or Grocery Store</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/how-to-pick-the-best-apples/>
+
+---
+
+## 15 Of Our Favorite Coffee Stories For 15 Years Of Sprudge
+
+date: 2024-09-27, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. What a wild ride these 15 years have been. 
+
+<https://sprudge.com/15-of-our-favorite-coffee-stories-for-15-years-of-sprudge-255410.html>
+
+---
+
+## What's The Deal With Dirty Soda?
+
+date: 2024-09-27, from: Bon Appetet
+
+A mainstay in Utah for over a decade, dirty soda is going mainstream, thanks to the recent premiere of Hulu’s The Secret Lives of Mormon Wives. 
+
+<https://www.bonappetit.com/story/what-is-dirty-soda>
+
+---
+
+## You Need This Halloween Stanley Cup for Spooky Season
+
+date: 2024-09-27, from: Taste of Home
+
+<p>Trust us—it will sell out. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/halloween-stanley-cup/">You Need This Halloween Stanley Cup for Spooky Season</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/halloween-stanley-cup/>
+
+---
+
+## Here’s Why You Should Be Buying Your Ice at Sonic
+
+date: 2024-09-27, from: Taste of Home
+
+<p>You can order 10-pound bags of Sonic's perfect ice!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/bags-of-ice-at-sonic/">Here&#8217;s Why You Should Be Buying Your Ice at Sonic</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/bags-of-ice-at-sonic/>
+
+---
+
+## How to Order Wine in a Restaurant
+
+date: 2024-09-27, from: Bon Appetet
+
+Expert sommeliers give us tips on how to ask better questions and pick out the perfect bottle. (Hint: Price isn't everything.) 
+
+<https://www.bonappetit.com/story/how-to-talk-to-sommelier>
 
 ---
 
@@ -938,4 +1016,84 @@ date: 2024-09-22, from: Closet Cooking
  
 
 <https://www.closetcooking.com/20-minute-meals/>
+
+---
+
+## Roasted Green Vegetable Medley
+
+date: 2024-09-21, from: Taste of Home
+
+Roasting vegetables such as broccoli, green beans and Brussels sprouts is a fantastic way to serve them, and almost any veggie combo works. — Suzan Crouch, Grand Prairie, Texas 
+
+<https://www.tasteofhome.com/recipes/roasted-green-vegetable-medley/>
+
+---
+
+## Mac and Cheese with Cream Cheese
+
+date: 2024-09-21, from: Taste of Home
+
+Yes, it's a recipe for mac and cheese with cream cheese. And regular cheese. And it's a dish that you're going to make again and again, soon with your own favorite variations. 
+
+<https://www.tasteofhome.com/recipes/company-mac-and-cheese/>
+
+---
+
+## Porterhouse Steak
+
+date: 2024-09-21, from: Taste of Home
+
+This basic but superlative porterhouse steak recipe will have you skipping the steakhouse dinner for home-cooked meals with this thick, tasty cut of meat. Serve it with classic sides: potatoes and a green vegetable. 
+
+<https://www.tasteofhome.com/recipes/porterhouse-steak/>
+
+---
+
+## Deep-Fried Jalapeño Cream Cheese Bread Rolls
+
+date: 2024-09-21, from: Pepper Scale
+
+We&#8217;ll say it upfront — this is not a healthy recipe in any way. But these deep-fried jalapeño cream cheese bread rolls are quick to make and deliciously creamy and fiery. They make an excellent fast snack and are a great way to use up ... <p class="read-more-container"><a title="Deep-Fried Jalapeño Cream Cheese Bread Rolls  " class="read-more button" href="https://pepperscale.com/deep-fried-jalapeno-cream-cheese-bread-rolls/#more-92660" aria-label="Read more about Deep-Fried Jalapeño Cream Cheese Bread Rolls  ">Read more</a></p> 
+
+<https://pepperscale.com/deep-fried-jalapeno-cream-cheese-bread-rolls/>
+
+---
+
+## Rich And Spicy Oxtail Stew
+
+date: 2024-09-21, from: Pepper Scale
+
+Once regarded as little more than an off-cut, oxtail now sells for much the same money as high-end sirloin. Cook it our way, and you’ll realize why. Spicy oxtail stew is one of the world’s truly great, slow-cooked, one-pot dishes. We also provide an easy ... <p class="read-more-container"><a title="Rich And Spicy Oxtail Stew" class="read-more button" href="https://pepperscale.com/spicy-oxtail-stew/#more-80799" aria-label="Read more about Rich And Spicy Oxtail Stew">Read more</a></p> 
+
+<https://pepperscale.com/spicy-oxtail-stew/>
+
+---
+
+## Sriracha And Cauliflower Cheese Soup
+
+date: 2024-09-21, from: Pepper Scale
+
+For those cheese fans out there that also love some spicy food (we know you’re out there in droves!), this is a recipe for you. Sriracha and cauliflower cheese soup is creamy and filling, with plenty of Rooster Sauce bite. Plus, it’s a really simple ... <p class="read-more-container"><a title="Sriracha And Cauliflower Cheese Soup" class="read-more button" href="https://pepperscale.com/sriracha-and-cauliflower-cheese-soup/#more-84882" aria-label="Read more about Sriracha And Cauliflower Cheese Soup">Read more</a></p> 
+
+<https://pepperscale.com/sriracha-and-cauliflower-cheese-soup/>
+
+---
+
+## Taverna-Style Mussels Saganaki
+
+date: 2024-09-21, from: Pepper Scale
+
+Rich and warming with a nice fiery bite, this mussels saganaki recipe is an exceptional winter dish, but delicious any time of year. Unmistakably Greek, it’s one of those rare starters that is equally outstanding when served as an elegantly simple main course. It really ... <p class="read-more-container"><a title="Taverna-Style Mussels Saganaki" class="read-more button" href="https://pepperscale.com/taverna-style-mussels-saganaki/#more-82214" aria-label="Read more about Taverna-Style Mussels Saganaki">Read more</a></p> 
+
+<https://pepperscale.com/taverna-style-mussels-saganaki/>
+
+---
+
+## Bunny Chow: Spicy, Red, And Hot In Bread
+
+date: 2024-09-21, from: Pepper Scale
+
+Some great, hand-held foods come packed in bread — burgers and hot dogs are two treasures that spring straight to mind. For curry lovers, there’s a fistful of food with a seriously spicy, red-hot centerpiece. It’s called bunny chow, conceived in the big sea pot ... <p class="read-more-container"><a title="Bunny Chow: Spicy, Red, And Hot In Bread" class="read-more button" href="https://pepperscale.com/bunny-chow/#more-84829" aria-label="Read more about Bunny Chow: Spicy, Red, And Hot In Bread">Read more</a></p> 
+
+<https://pepperscale.com/bunny-chow/>
 

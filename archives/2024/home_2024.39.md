@@ -1,11 +1,133 @@
 ---
 title: home
-updated: 2024-09-27 07:36:21
+updated: 2024-09-28 07:42:08
 ---
 
 # home
 
-(date: 2024-09-27 07:36:21)
+(date: 2024-09-28 07:42:08)
+
+---
+
+## CDFA Participates in the 57th Annual California Native American Day at the State Capitol
+
+date: 2024-09-27, from: Calfifornia Dept. Aggriculture blog
+
+CDFA joined in celebrating the 57th annual California Native American Day at the State Capitol today, where attendees gathered to honor the contributions and culture of California&#8217;s Native American communities. This year’s theme, “Recognizing 100 Years of Citizenship and the &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28273">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28273>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-09-27, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
+
+---
+
+## 8 Outdoor Plants to Get Ready for the Fall
+
+date: 2024-09-27, from: Family Handyman Blog
+
+<p>Consider putting these flowers, bushes and trees on your fall planting list.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/outdoor-plants-for-the-fall/">8 Outdoor Plants to Get Ready for the Fall</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/list/outdoor-plants-for-the-fall/>
+
+---
+
+## The Best Hiking Gear, According to a Hiking Enthusiast and Coach
+
+date: 2024-09-27, from: Family Handyman Blog
+
+<p>A hiking enthusiast and hiking strength coach shares her gear closet favorites in this guide to the best hiking gear.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/best-hiking-gear/">The Best Hiking Gear, According to a Hiking Enthusiast and Coach</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/list/best-hiking-gear/>
+
+---
+
+## Home Electrical Wiring Tips and Safety
+
+date: 2024-09-27, from: Family Handyman Blog
+
+<p>Wire better, faster and neater with these pro tips.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/electrical-wiring/">Home Electrical Wiring Tips and Safety</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/electrical-wiring/>
+
+---
+
+## Friday Links: September 27, 2024
+
+date: 2024-09-27, from: California Native Plants Society
+
+<p>What is extreme botany? What kind of gardening does Ed Ruscha do? Can one person make a difference for climate change? Get the answers and see the fearsome teddy bear cholla in action.</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-september-27-2024-40411">Friday Links: September 27, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-september-27-2024-40411>
+
+---
+
+## Before & After: In Merida, A Remodeled Concrete Bungalow Honors Tradition
+
+date: 2024-09-27, from: Dwell
+
+FMT Estudio refashions a 1928 home with custom wooden windows, modern ironwork, and a serene courtyard pool. 
+
+<https://www.dwell.com/article/before-and-after-in-merida-a-remodeled-concrete-bungalow-honors-tradition-8480521b>
+
+---
+
+## Summer Never Ends at This $6K Ibiza-Inspired ADU Rental in Los Angeles
+
+date: 2024-09-27, from: Dwell
+
+The newly built home has a crisp, white exterior and a sun-kissed living area that opens to a pergola-topped balcony. 
+
+<https://www.dwell.com/article/ibiza-inspired-adu-rental-phil-kudelka-los-angeles-real-estate-3a382d0e>
+
+---
+
+## Things to Consider When You Put a Bed in Front of a Window
+
+date: 2024-09-27, from: Family Handyman Blog
+
+<p>Placing a bed in front of a window can work if you use these creative design tips.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/bed-front-of-window/">Things to Consider When You Put a Bed in Front of a Window</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/bed-front-of-window/>
+
+---
+
+## How to Grow and Care for Pachyveria Succulents
+
+date: 2024-09-27, from: The Gardener's Path
+
+<p>Pachyverias are intergeneric succulent plants with chunky or faceted leaves with a blueish-green hue. These low-maintenance plants are a cross between echeverias and pachyphytums and are ideal for growing as houseplants or as an addition to your outdoor succulent garden. Learn how to grow pachyverias in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/grow-pachyveria/">How to Grow and Care for Pachyveria Succulents</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/succulents/grow-pachyveria/>
+
+---
+
+## Secretary Ross at Climate Week NYC — Farm to School and discussions of nature-based solutions, climate resiliency, food security, and sustainability
+
+date: 2024-09-27, from: Calfifornia Dept. Aggriculture blog
+
+Climate Week NYC continues this week with a wide range of activities, and CDFA Secretary Karen Ross has made appearances to speak about California&#8217;s innovative Farm to School programming as well as challenges and opportunities with climate adaptation. Secretary Ross &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28255">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28255>
 
 ---
 
@@ -31,6 +153,36 @@ date: 2024-09-27, from: Family Handyman Blog
  
 
 <https://www.familyhandyman.com/article/how-to-paint-kitchen-countertops/>
+
+---
+
+## Announcing the 2025 Sunset Western Home & Design Awards—Enter Today!
+
+date: 2024-09-27, from: Sunset Magazine - Living in the West
+
+Sunset is launching the Western Home & Design Awards to honor the people and studios evolving the designs that define living well in the West. 
+
+<https://www.sunset.com/home-garden/2025-sunset-western-home-design-awards>
+
+---
+
+## Sip, Savor, Celebrate: Coffee Recipes for National Coffee Day (and Every Day)
+
+date: 2024-09-27, from: Sunset Magazine - Living in the West
+
+Coffee lovers rejoice: delicious recipes you didn’t know you needed. 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/don-francisco-national-coffee-day-recipes>
+
+---
+
+## Your Home Could Use a Refresh with Fall’s Hottest Color Palette—Here’s How to Do It
+
+date: 2024-09-27, from: Sunset Magazine - Living in the West
+
+Pinterest just named blues and greens as the colors of fall. Interior designers share how to incorpoate the hues into your home this fall. 
+
+<https://www.sunset.com/home-garden/design/pinterest-fall-2024-color-palette>
 
 ---
 
@@ -197,46 +349,6 @@ date: 2024-09-26, from: The Gardener's Path
 
 ---
 
-## Your Home Could Use a Refresh with Fall’s Hottest Color Palette—Here’s How to Do
-
-date: 2024-09-26, from: Sunset Magazine - Living in the West
-
-Pinterest just named blues and greens as the colors of fall. Interior designers share how to incorpoate the hues into your home this fall. 
-
-<https://www.sunset.com/home-garden/design/pinterest-fall-2024-color-palette>
-
----
-
-## Sip, Savor, Celebrate: Coffee Recipes for National Coffee Day (and Every Day)
-
-date: 2024-09-26, from: Sunset Magazine - Living in the West
-
-Coffee lovers rejoice: delicious recipes you didn’t know you needed. 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/don-francisco-national-coffee-day-recipes>
-
----
-
-## Announcing the 2025 Sunset Western Home & Design Awards—Enter Today!
-
-date: 2024-09-26, from: Sunset Magazine - Living in the West
-
-Sunset is launching the Western Home & Design Awards to honor the people and studios evolving the designs that define living well in the West. 
-
-<https://www.sunset.com/home-garden/2025-sunset-western-home-design-awards>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-09-26, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
-
----
-
 ## How to Get Rid of Aphids: 23 Easy and Natural Ways
 
 date: 2024-09-26, from: Yard Life blog
@@ -301,6 +413,18 @@ date: 2024-09-25, from: Homestead and Chil
  
 
 <https://homesteadandchill.com/how-to-make-apple-chips/>
+
+---
+
+## Dehydrating Apples: How to Make Apple Chips in a Dehydrator, Oven or Air Fryer
+
+date: 2024-09-25, from: Homestead and Chil
+
+<p>Come learn how easy it is to dry apples in a dehydrator, oven or air fryer to create crispy apple chips - or soft chewy apple rings! These naturally-sweetened dried apples are a perfect healthy snack, and a great way to preserve your homegrown apple harvests.</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-make-dried-apple-chips/">Dehydrating Apples: How to Make Apple Chips in a Dehydrator, Oven or Air Fryer</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<https://homesteadandchill.com/how-to-make-dried-apple-chips/>
 
 ---
 
@@ -873,4 +997,57 @@ date: 2024-09-22, from: Yard Life blog
  
 
 <https://ownyardlife.com/60-florida-moths-moths-in-florida-with-pictures-identification/>
+
+---
+
+## What to Do on Oahu, According to a Local Surfer
+
+date: 2024-09-21, from: Sunset Magazine - Living in the West
+
+Expert advice on the best spots to visit to Oahu, Hawaii's North Shore, from a shave ice spot to surf lessons to a feel-good cafe. 
+
+<https://www.sunset.com/travel/insider-guides/north-shore-oahu-things-to-do>
+
+---
+
+## 5 Must-Visit Markets and Bakeries in the West
+
+date: 2024-09-21, from: Sunset Magazine - Living in the West
+
+These are the best bakeries and markets for picking up a snack or an edible souvenir in the West. Shop there on your next trip. 
+
+<https://www.sunset.com/travel/best-markets-and-bakeries-in-west-2024>
+
+---
+
+## Immerse Yourself in Nature at These Camps, Lodges, and Hotels
+
+date: 2024-09-21, from: Sunset Magazine - Living in the West
+
+Fans of the outdoors and even those who aren't will appreciate a stay at these amazing nature resorts and hotels in the West. 
+
+<https://www.sunset.com/travel/best-nature-resorts-hotels-2024>
+
+---
+
+## This Airport Is the Secret to Seamless Travel (and It Was Just Named the Best in the U.S.)
+
+date: 2024-09-21, from: Sunset Magazine - Living in the West
+
+John Wayne Airport in Orange County, California has been recognized as one of the best large airports according to latest J.D. Power. 
+
+<https://www.sunset.com/travel/john-wayne-airport-best-airport-in-the-us>
+
+---
+
+## 13 California Toads (Toads in California with Pictures, Identification)
+
+date: 2024-09-21, from: Yard Life blog
+
+<p>California toads are a diverse group of amphibians that inhabit various ecosystems across the state, from coastal regions to arid ... </p>
+<p class="read-more-container"><a title="13 California Toads (Toads in California with Pictures, Identification)" class="read-more button" href="https://ownyardlife.com/13-california-toads-toads-in-california-with-pictures-identification/#more-19488" aria-label="Read more about 13 California Toads (Toads in California with Pictures, Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/13-california-toads-toads-in-california-with-pictures-identification/">13 California Toads (Toads in California with Pictures, Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/13-california-toads-toads-in-california-with-pictures-identification/>
 

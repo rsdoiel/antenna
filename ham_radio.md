@@ -1,23 +1,21 @@
 ---
 title: ham radio
-updated: 2024-09-27 07:36:15
+updated: 2024-09-28 07:42:02
 ---
 
 # ham radio
 
-(date: 2024-09-27 07:36:15)
+(date: 2024-09-28 07:42:02)
 
 ---
 
-## EMC: How to write a good benchtop test report
+## Volunteers – The Heart and Soul of ARRL Headquarters
 
-date: 2024-09-27, from: EDN Blog
+date: 2024-09-27, from: Amateur Radio Relay League News
 
-<img width="3340" height="1488" src="https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?fit=3340%2C1488" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=3340 3340w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=768 768w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=1900 1900w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=2850 2850w" sizes="(max-width: 3340px) 100vw, 3340px" /><p>Here is a step-by-step guide to good engineering practices for performing EMC testing and troubleshooting.</p>
-<p>The post <a href="https://www.edn.com/emc-how-to-write-a-good-benchtop-test-report/" data-wpel-link="internal">EMC: How to write a good benchtop test report</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
-<https://www.edn.com/emc-how-to-write-a-good-benchtop-test-report/>
+<http://www.arrl.org/news/view/volunteers-the-heart-and-soul-of-arrl-headquarters>
 
 ---
 
@@ -25,9 +23,73 @@ date: 2024-09-27, from: EDN Blog
 
 date: 2024-09-27, from: Amateur Radio Relay League News
 
-<p><strong><span>Thursday, September 26, 2024, 9:30 PM Eastern Update:</span></strong></p><p><span>Hurricane Helene is now a Category 4 storm with sustained winds of 130 MPH. Amateur Radio volunteers with groups such as the ARRL® Amateur Radio Emergency Service® (ARES®) are activated throughout the area being impacted. ARES members are embedded in emergency operations centers across Florida, providing critical communications to served agen...</span></p> 
+<p><strong>Friday, September 27, 2024, 12:00 PM Eastern Update:</strong></p><p>Hurricane Helene made landfall near Perry, Florida, on Thursday evening as a Category 4 storm. With winds of 140 miles per hour it’s the strongest hurricane on record to slam into Florida’s Big Bend. </p><p>More than 2.2 million customers don’t have power across Florida, Georgia, and the Carolinas, according to PowerOutage.US.</p><p>The National Hurricane C...</p> 
 
 <http://www.arrl.org/news/view/helene-storm-updates>
+
+---
+
+## Amateur Radio and Robot Play Ball!
+
+date: 2024-09-27, from: Amateur Radio Relay League News
+
+<p>The Staten Island Technical High School Robotics Team, in Staten Island, New York,  took its knowledge and skills to the baseball diamond.</p><p>The team created a robot that was capable of throwing a ceremonial first pitch and, in early September, the members were invited to showcase and execute their robot at a Staten Island FerryHawks minor league game. But Everton Henriques, KD2ZZT, engineering an...</p> 
+
+<http://www.arrl.org/news/view/amateur-radio-and-robot-play-ball>
+
+---
+
+## Changes in the ARRL West Texas Section
+
+date: 2024-09-27, from: Amateur Radio Relay League News
+
+<p>Dale Durham, W5WI, has announced that he is retiring from the position of Section Manager of the ARRL West Texas Section. Dale has served in this role since July 1st, 2017. He has also served as the Section Emergency Coordinator, a Field Instructor, and as an Official Observer.</p><p>David Overton, W5JDO, has been appointed to fill the remainder of the current term which will end on June 30th, 2025. D...</p> 
+
+<http://www.arrl.org/news/view/changes-in-the-arrl-west-texas-section>
+
+---
+
+## National Preparedness Month - Get Involved
+
+date: 2024-09-27, from: Amateur Radio Relay League News
+
+<p>All September, the ARRL® Amateur Radio Emergency Service® (ARES®) has been promoting readiness and resilience for National Preparedness Month. As we come to the end of the month, a hurricane is churning in the Gulf of Mexico, with forecasts of up to 20 feet of storm surge expected to impact large portions of Florida.</p><p>This underscores the need to be prepared. Even experienced hams and those who h...</p> 
+
+<http://www.arrl.org/news/view/national-preparedness-month-get-involved>
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-09-27, from: Amateur Radio Relay League News
+
+<p>Seven sunspot groups emerged this week. The first was on September<br />19, three on September 20, one each on September 22 and 23, and the<br />last on September 25.<br /><br />Average daily sunspot numbers increased from 120 to 137.2, and<br />average daily solar flux shifted from 175.7 to 164.3.<br /><br />Geomagnetic numbers were much quieter. Average daily planetary A<br />index changed from 35.7 to 14.3, and middle latitude A index fro...</p> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-847>
+
+---
+
+## Cracking the case of a smartphone and its unfairly crack-accused case
+
+date: 2024-09-27, from: EDN Blog
+
+<img width="540" height="768" src="https://www.edn.com/wp-content/uploads/Crack-reminiscent-of-Dipert-Pixel-7-crack.png?fit=540%2C768" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Crack-reminiscent-of-Dipert-Pixel-7-crack.png?w=540 540w, https://www.edn.com/wp-content/uploads/Crack-reminiscent-of-Dipert-Pixel-7-crack.png?w=211 211w" sizes="(max-width: 540px) 100vw, 540px" /><p>When a Pixel 7 develops a crack in its glass-based “bar” back, its owner must have dropped it, right? Not exactly…not even close, actually.</p>
+<p>The post <a href="https://www.edn.com/cracking-the-case-of-a-smartphone-and-its-unfairly-crack-accused-case/" data-wpel-link="internal">Cracking the case of a smartphone and its unfairly crack-accused case</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/cracking-the-case-of-a-smartphone-and-its-unfairly-crack-accused-case/>
+
+---
+
+## EMC: How to write a good benchtop test report
+
+date: 2024-09-27, from: EDN Blog
+
+<img width="3340" height="1488" src="https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?fit=3340%2C1488" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=3340 3340w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=768 768w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=1900 1900w, https://www.edn.com/wp-content/uploads/Figure-4-DUT-setup.png?w=2850 2850w" sizes="(max-width: 3340px) 100vw, 3340px" /><p>Here is a step-by-step guide to good engineering practices for performing EMC testing and troubleshooting.</p>
+<p>The post <a href="https://www.edn.com/emc-how-to-write-a-good-benchtop-test-report/" data-wpel-link="internal">EMC: How to write a good benchtop test report</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/emc-how-to-write-a-good-benchtop-test-report/>
 
 ---
 

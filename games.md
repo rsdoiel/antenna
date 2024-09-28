@@ -1,11 +1,81 @@
 ---
 title: games
-updated: 2024-09-27 07:36:19
+updated: 2024-09-28 07:42:06
 ---
 
 # games
 
-(date: 2024-09-27 07:36:19)
+(date: 2024-09-28 07:42:06)
+
+---
+
+## Inside Out 2, Wolfs, Netflix’s Will &#038; Harper, and every movie new to streaming this week
+
+date: 2024-09-27, updated: 2024-09-27, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Inside Out 2, starring Amy Poehler and Maya Hawke, finally comes to streaming on Disney Plus after its VOD premiere back in August. There’s [&#8230;] 
+
+<https://www.polygon.com/entertainment/455026/new-movies-watch-inside-out-2-netflix-incoming-will-harper>
+
+---
+
+## All stamp locations in Zelda: Echoes of Wisdom
+
+date: 2024-09-27, updated: 2024-09-27, from: Polygon Website
+
+Stamps are a collectible in The Legend of Zelda: Echoes of Wisdom. It’s kind of an unwritten side quest that you’ll have in the background throughout the entire game. As you wander, you’ll find Stamp Stands — touristy stands where you can pick up a stamp for an NPC named, creatively, Stamp Guy. Our Zelda: [&#8230;] 
+
+<https://www.polygon.com/zelda-echoes-wisdom-guides/456335/stamps-stand-locations-all-where-to-find-rally>
+
+---
+
+## I wish that I had several thousand dollars to splurge on the new Sailor Moon x Jimmy Choo collection 
+
+date: 2024-09-27, updated: 2024-09-27, from: Polygon Website
+
+If you have a spare $3,000 or so laying around and you’re looking for a little pick me up, you should absolutely buy something from the newest Jimmy Choo and Sailor Moon collaboration. This is the second line of Jimmy Choo x Sailor Moon products, and according to original author, Naoko Takeuchi the original pink [&#8230;] 
+
+<https://www.polygon.com/anime/457593/sailor-moon-jimmy-choo-shoe-collection-2024>
+
+---
+
+## The trusty Xbox wireless controller is $20 off at Woot
+
+date: 2024-09-27, updated: 2024-09-27, from: Polygon Website
+
+Microsoft’s Xbox wireless controller is the preferred gamepad for millions of gamers. It’s comfortable, a joy to use, and it’s entirely possible for one of them to last you years, depending on how heavily you use it. Not to mention, it’s one of Polygon’s favorite controllers for PC gaming thanks to its built-in Bluetooth connectivity [&#8230;] 
+
+<https://www.polygon.com/good-deals/457657/xbox-wireless-controller-usbc-woot-sale>
+
+---
+
+## How to unlock all automatons in Zelda: Echoes of Wisdom
+
+date: 2024-09-27, updated: 2024-09-27, from: Polygon Website
+
+There are six automatons in The Legend of Zelda: Echoes of Wisdom, optional little robots you can have assist you in combat. For the most part, automatons are completely skippable, though they are somewhat useful in taking down swarms of enemies at once. You can clear the whole game without them, as the only thing [&#8230;] 
+
+<https://www.polygon.com/zelda-echoes-wisdom-guides/457398/automatons-all-how-to-get>
+
+---
+
+## Valve removes arbitration from its Steam agreements — here’s what that means for you
+
+date: 2024-09-27, updated: 2024-09-27, from: Polygon Website
+
+Millions of Steam users woke up this morning with a notice from Valve: The multi-faceted gaming company updated its Steam Subscriber Agreement to remove a requirement that disputes go to arbitration as opposed to court. Now, if you have a dispute, you’re required to take the company to federal or state court in King County, [&#8230;] 
+
+<https://www.polygon.com/explained/457557/valve-arbitration-steam-subscriber-agreements>
+
+---
+
+## How to get a horse in Zelda: Echoes of Wisdom
+
+date: 2024-09-27, updated: 2024-09-27, from: Polygon Website
+
+Horses show up in The Legend of Zelda: Echoes of Wisdom. Riding one will speed up your travel, but before you can take them out for a spin, you’ll have to complete a couple side quests first: “Runaway Horse” and then “Impa’s Gift.” Our Zelda: Echoes of Wisdom guide will tell you where to find [&#8230;] 
+
+<https://www.polygon.com/zelda-echoes-wisdom-guides/457257/horse-how-to-get-hyrule-ranch-location>
 
 ---
 
@@ -506,4 +576,44 @@ date: 2024-09-22, updated: 2024-09-20, from: Polygon Website
 In Groundhog Day, some unexplained force — maybe celestial, certainly moral — traps misanthropic weatherman Bill Murray in a single, repeated day until he sheds his attitude and becomes a better person. In Palm Springs, shiftless wedding guests Andy Samberg and Cristin Milioti fall into a time-loop vortex, a freak of astrophysics, in a cave. [&#8230;] 
 
 <https://www.polygon.com/movies/454713/omni-loop-review-time-loop-films>
+
+---
+
+## My Old Ass director says Aubrey Plaza didn’t need to look like her time-traveling younger self to be perfect
+
+date: 2024-09-21, updated: 2024-09-20, from: Polygon Website
+
+In the new time-travel comedy My Old Ass, Maisy Stella and Aubrey Plaza play two versions of the same character, Elliott: One is a young, confident teenager, and the other is her older self. The two actors don’t really look like picture-perfect matches. But My Old Ass director Megan Park said that she was looking [&#8230;] 
+
+<https://www.polygon.com/movies/453868/my-old-ass-aubrey-plaza-director-interview>
+
+---
+
+## Zack Snyder’s new Netflix show is his take on The Boys
+
+date: 2024-09-21, updated: 2024-09-20, from: Polygon Website
+
+“Fuck the gods” is a sentiment that feels like it’s everywhere right now, from the more literal interpretation of Netflix’s Kaos to the variety of “eat the rich” narratives tapping into the simmering anger at the present growing inequality. Ragnarök, the mythological end of many of the gods in a fit of brutal battle and [&#8230;] 
+
+<https://www.polygon.com/animation-cartoons/453927/snyder-netflix-animated-show-twilight-gods-review>
+
+---
+
+## The best sci-fi movies to watch on Netflix this September
+
+date: 2024-09-21, updated: 2024-09-20, from: Polygon Website
+
+We’re more than halfway through September, and the release calendar is finally starting to heat up, especially for sci-fi fans. Transformers One, the animated prequel from director Josh Cooley (Toy Story 4), comes out this weekend alongside The Substance, the new body horror film starring Demi Moore and Margaret Qualley. That’s not even mentioning Megalopolis, [&#8230;] 
+
+<https://www.polygon.com/what-to-watch/452423/best-sci-fi-movies-watch-netflix-september-2024>
+
+---
+
+## Hades is unmatched when it comes to video game storytelling
+
+date: 2024-09-21, updated: 2024-09-20, from: Polygon Website
+
+I’m often let down by game stories. With rare exceptions —&#160;Half-Life, Shadow of the Colossus, games that knew when to shut the hell up —&#160;I’ve found them tiresome, forgettable, and frustratingly aping film and television stories. Bad writing isn’t to blame. There are many smart, well-crafted stories in video games lessened by the need to [&#8230;] 
+
+<https://www.polygon.com/analysis/454550/hades-best-video-game-story>
 

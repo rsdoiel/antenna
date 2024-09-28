@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-09-27 07:36:20
+updated: 2024-09-28 07:42:07
 ---
 
 # libraries
 
-(date: 2024-09-27 07:36:20)
+(date: 2024-09-28 07:42:07)
 
 ---
 
@@ -142,4 +142,14 @@ date: 2024-09-23, from: Scholarly Kitchen
  
 
 <https://scholarlykitchen.sspnet.org/2024/09/23/some-thoughts-on-the-promise-and-pitfalls-of-innovation-and-technology-in-peer-review/>
+
+---
+
+## Exploring Neuronal Function and Disease Mechanisms Through Advanced Electrophysiological Phenotyping with High-Density Microelectrode Arrays
+
+date: 2024-09-21, from: ETH Zurich, recently added
+
+Hornauer, Philipp 
+
+<http://hdl.handle.net/20.500.11850/695348>
 

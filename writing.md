@@ -1,11 +1,56 @@
 ---
 title: writing
-updated: 2024-09-27 07:36:18
+updated: 2024-09-28 07:42:06
 ---
 
 # writing
 
-(date: 2024-09-27 07:36:18)
+(date: 2024-09-28 07:42:06)
+
+---
+
+## On My Motorbike
+
+date: 2024-09-27, from: Margaret Atwoods Substack
+
+I haven't been sitting on my hands... 
+
+<https://margaretatwood.substack.com/p/on-my-motorbike>
+
+---
+
+## What Francis Ford Coppola Can Teach Us
+
+date: 2024-09-27, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/what-francis-ford-coppola-can-teach-us" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/megalopolis.jpg" alt="Megalopolis" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>At the 79<sup>th</sup> Academy Awards, three directors stood on stage ready to reveal the Best Director Oscar. The three directors all came up in the 1970s, stretching the limits of what film could be and dazzling audiences. Those three directors were Steven Spielberg, George Lucas and Francis Ford Coppola.&nbsp;</p> 
+
+<https://blog.finaldraft.com/what-francis-ford-coppola-can-teach-us>
+
+---
+
+## Featured Friday: Vampires
+
+date: 2024-09-27, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at at the many blood-draining Vampire stories to see how a sub-genre can continually reinvent itself in order to stay immortal. Our collection includes: Blade by David S. Goyer Buffy the Vampire [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-vampires">Featured Friday: Vampires</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/featured-friday-vampires>
+
+---
+
+## Egypt + 100 edited by Ahmed Naji : Review by Niall Harrison
+
+date: 2024-09-27, from: Locus Magazine
+
+<p><strong>Egypt + 100</strong>, Ahmed Naji ed. (Comma Press 9781912697700, 160pp, £9.99, tp) July 2024.</p>
+<p>From the point of view of a science fiction reviewer, <strong>Egypt + 100 </strong>marks an interesting development in Comma Press’s “Futures Past” series of SWANA-focused anthologies: it is the first in the series to emerge from an ac­tive and substantial science fiction tradition. In the introduction to <strong>Iraq + 100</strong>, Hassan Blassim lamented the  <a href="https://locusmag.com/2024/09/egypt-100-edited-by-ahmed-naji-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/egypt-100-edited-by-ahmed-naji-review-by-niall-harrison/>
 
 ---
 
@@ -331,4 +376,15 @@ date: 2024-09-22, from: Locus Magazine
 <p><strong>“Twenty-Four Hours” </strong>by <strong>H.H. Pak </strong>starts off the June issue of Clarkesworld on a high note. The story is beautiful and heartbreaking as a mother spends a final twenty-four hours with a programmed version of her recently deceased daughter in an effort to gain closure. The story does a wonderful job of portraying grief in its various stages and capturing the feeling of wanting to spend just a  <a href="https://locusmag.com/2024/09/clarkesworld-short-fiction-reviews-by-a-c-wise/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/09/clarkesworld-short-fiction-reviews-by-a-c-wise/>
+
+---
+
+## Track Changes by Abigail Nussbaum: Review by Ian Mond
+
+date: 2024-09-21, from: Locus Magazine
+
+<p><strong>Track Changes</strong>, Abigail Nussbaum (Briardene 978-1-73856-170-4, £15.00, 448pp, tp) August 2024.</p>
+<p>In March, Abigail Nussbaum, on her blog Asking the Wrong Questions, reviewed Francis Spuf­ford’s <strong>Cahokia Jazz</strong>, one of my favourite novels of 2024. It’s a review that encapsulates everything magnificent about Nussbaum, a well-deserved Hugo winner. First, there’s the sheer artistry, the way the review is crafted like a mystery (fitting for a noirish novel), raising questions  <a href="https://locusmag.com/2024/09/track-changes-by-abigail-nussbaum-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/track-changes-by-abigail-nussbaum-review-by-ian-mond/>
 

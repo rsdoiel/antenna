@@ -1,17 +1,117 @@
 ---
 title: columns
-updated: 2024-09-27 07:36:16
+updated: 2024-09-28 07:42:04
 ---
 
 # columns
 
-(date: 2024-09-27 07:36:16)
+(date: 2024-09-28 07:42:04)
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2024-09-27, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2020/11/23/simonBarSinister.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">When markets have dominant products, evolution freezes. Google search, for example. I should have great search for my blog by now, powered by Google. It has been here for 26 years. They should have been doing R&D on how they can be part of a better reading environment on the web. But reading on the web has just gotten worse over the years. It's why we don't like clicking on links, usually what we find at the other end of the link is obnoxious. To get some peace and quiet we had to go to Twitter of all places, but now that's gotten ridiculous too. The only corner of the web where there's real exciting innovation is ChatGPT. And what's tragic about that is we've never made search work on the web, and search is valuable too, not just the digested version of what was said that ChatGPT produces. Guy Kawasaki just sent a <a href="https://imgs.scripting.com/2024/09/27/kawasakiGPT.png?nodialog=true">summary of my career</a> created by his new chatbot. Very flattering, but it has no nutritional value. I'd like some of my writing to survive the Great Ingestion. Writing matters, how humans express themselves matters. In other words we still have work to do in search, AI does <i>not</i> fill that need. 
+Guy Kawasaki sent a <a href="https://imgs.scripting.com/2024/09/27/kawasakiGPT.png?nodialog=true">summary of my career</a> created by his new chatbot. Very flattering. :-) 
+
+<http://scripting.com/2024/09/27.html#a214205>
+
+---
+
+## Squid Fishing in Japan
+
+date: 2024-09-27, updated: 2024-09-24, from: Bruce Schneier blog
+
+<p>Fishermen are catching <a href="https://www.japantimes.co.jp/news/2024/09/12/japan/japan-saury-fishing/">more squid</a> as other fish are depleted.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/09/squid-fishing-in-japan.html>
+
+---
+
+## History Extra for September 26, 2024
+
+date: 2024-09-27, from: Heather Cox Richardson blog
+
+On September 26, 1777, British troops occupied Philadelphia, Pennsylvania, where the Second Continental Congress had been meeting. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-september-26-2024>
+
+---
+
+## September 26, 2024
+
+date: 2024-09-27, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-26-2024-580>
+
+---
+
+## Nestedly Recursive Functions
+
+date: 2024-09-27, from: Stephen Wolfram blog
+
+<span class="thumbnail"><img width="128" height="108" src="https://content.wolfram.com/sites/43/2024/09/swblog-recursive-icon.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></span>Yet Another Ruliological Surprise Integers. Addition. Subtraction. Maybe multiplication. Surely that’s not enough to be able to generate any serious complexity. In the early 1980s I had made the very surprising discovery that very simple programs based on cellular automata could generate great complexity. But how widespread was this phenomenon? At the beginning of the [&#8230;] 
+
+<https://writings.stephenwolfram.com/2024/09/nestedly-recursive-functions/>
+
+---
+
+## Harris <i>could</i> win, but..
+
+date: 2024-09-27, from: Dave Winer's Scripting News
+
+<p>I've had the same thought as <a href="https://presswatchers.org/2024/09/what-if-the-media-has-the-election-all-wrong/">Dan Froomkin</a>, of course -- esp given how much voodoo is in weighting various things, the polls are junk. </p>
+<p>But, she <i>could</i> be winning much bigger than the polls say. And wouldn't that be nice. <span class="spOldSchoolEmoji">❤️</span> </p>
+<p>But do you remember part of the 2016 postmortem was that yeah it was a problem for the racists among us that we elected a black president, and now they want a woman president. Many of us thought this is the price we're paying for the euphoria we felt in 2008.</p>
+<p>All he says about Harris is true. She's a dream candidate, she had my vote at "Hello." How could anyone <i>not</i> see what's so obvious, here's someone who organized her party's support in the blink of an eye, and she was ready to run, all the pieces were in place in record time. Such competence, drive, humor, did I say drive? :-)</p>
+<p>I worry that maybe all that was enough to get her even with Trump because now we're pressing the race and gender button again, and they still don't buy the idea of a non-white-male, Christian president.</p>
+<p>Oh and btw her husband is Jewish, and... all the childless bullshit. </p>
+<p>So I worry that we may be borderline fucked again. Pray. Pray, even if you don't believe.</p>
+ 
+
+<http://scripting.com/2024/09/27/170029.html?title=harrisCouldWinBut>
+
+---
+
+## iA Writer’s Android App Is Frozen in Carbonite
+
+date: 2024-09-27, updated: 2024-09-27, from: Daring Fireball
+
+ 
+
+<https://ia.net/topics/our-android-app-is-frozen-in-carbonite>
+
+---
+
+## AVerMedia Live Gamer Portable 2 Plus - Can't record to microSD
+
+date: 2024-09-27, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">AVerMedia Live Gamer Portable 2 Plus - Can't record to microSD</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>I recently purchased an <a href="https://amzn.to/3TMeYv8">AVerMedia Live Gamer Portable 2 Plus</a> to help record screens on devices I test at my desk.</p>
+
+<p>It's claim to fame is being able to record to a microSD card standalone (at resolutions up to 1080p60), without having a separate computer attached.</p>
+
+<p>For my 4K cameras, I typically use an <a href="https://amzn.to/4elL8pA">Atomos Ninja V</a>, since it can record in full 4K resolution, but that thing is $700—the Live Gamer Portable is $120, and runs a lot cooler (and quieter).</p>
+
+<p>I don't enjoy dealing with microSD cards, but it's more convenient than having to use OBS or some other recording software on my main computer just to capture the HDMI output of another device. Especially since I can't pass through the HD or 4K signal through my little Elgato USB capture card (they do make a few models that do this, but I digress).</p>
+
+<p><em>Anyway</em>, what brings me to this post is the fact I spent way too long trying to figure out the magical microSD card format required to be able to record on the device.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-09-27T09:36:42-05:00" title="Friday, September 27, 2024 - 09:36" class="datetime">September 27, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/avermedia-live-gamer-portable-2-plus-cant-record-microsd>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-27, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/11/23/simonBarSinister.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">When markets have dominant products, evolution freezes. Google search, for example. I should have great search for my blog by now, powered by Google. It has been here for 26 years. They should have been doing R&D on how they can be part of a better reading environment on the web. But reading on the web has just gotten worse over the years. It's why we don't like clicking on links, usually what we find at the other end of the link is obnoxious. To get some peace and quiet we had to go to Twitter of all places, but now that's gotten ridiculous too. The only corner of the web where there's real exciting innovation is ChatGPT. And what's tragic about that is we've never made search work on the web, and search is valuable too, not just the digested version of what was said that ChatGPT produces. But I'd like some of my writing to survive the Great Ingestion. Writing matters, how humans express themselves matters. In other words we still have work to do in search, AI does not fill that need, at least not yet. 
 
 <http://scripting.com/2024/09/27.html#a135558>
 
@@ -22,6 +122,16 @@ updated: 2024-09-27 07:36:16
 An idea for a news org. I want a for-pay site where I can ask a question about the news and get the most up-to-date answer. I'd like to link to that page from a blog post, and have it either be frozen, to document where we were on that day, or dynamic, so that it changes over time. I'm sure this product will be here soon, so obvious. 
 
 <http://scripting.com/2024/09/27.html#a132404>
+
+---
+
+## Some Go web dev notes
+
+date: 2024-09-27, updated: 2024-09-27, from: Julia Evans blog
+
+ 
+
+<https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/>
 
 ---
 
@@ -1403,4 +1513,159 @@ date: 2024-09-22, from: Jeff Geerling blog
 </span> 
 
 <https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai>
+
+---
+
+## Podcast on "The Nature of Intelligence"
+
+date: 2024-09-21, from: Melanie Mitchell, AI Guide for Human Thinking
+
+I never thought I would be a podcast host, but&#8230;Abha Eli Phoboo, the director of communications at the Santa Fe Institute, recently relaunched SFI&#8217;s official podcast, Complexity, and proposed that each season, an SFI faculty member co-host the podcast with her for six episodes on a topic of their choice. 
+
+<https://aiguide.substack.com/p/podcast-on-the-nature-of-intelligence>
+
+---
+
+##  It&#8217;s my unfortunate duty to inform you that, once again, It&#8217;s Decorative... 
+
+date: 2024-09-21, updated: 2024-09-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045321-its-my-unfortunate-duty-t>
+
+---
+
+## Health is nothing to screw with
+
+date: 2024-09-21, from: Dave Winer's Scripting News
+
+<p>Since I'm about to turn 70 (next May), and because my body is getting old in ways it never has before (of course) -- I've become a more active participant in the health care system. </p>
+<p>One thing I've learned is it can be hard to get the attention of the doctors. And once you see your GP about a problem it's almost certain they're going to send you to a specialist. So you go to the specialist and it's pretty random as to whether they put the effort into understanding your situation in full. And they aren't trying to solve all your problems, just the ones they deal in. </p>
+<p>An aside, a couple of years ago I had a condition that ChatGPT diagnosed in a second but it took the doctors who weren't paying much attention (my primary care doctor had retired and I was being shuffled between NPs and MDs until they could find someone to be my new main doctor) so they were all sending me to the wrong specialists, all of whom said there was no problem, yet I still had the symptoms which were getting worse. On the fourth try, someone sent me to the right specialist and they instantly diagnosed what ChatGPT had diagnosed at the outset. So when people say AI could hurt medical care, I don't think so, it would probably be a good idea to have an AI looking over their shoulders and asking if they've considered the Occam's Razor specialist. </p>
+<p>So you have to be alert, and push to get them to pay attention. </p>
+<p>And communicating with the system is ridiculous. Almost everything has to be done over the phone. They have email, but if you want to set up an appointment, you have to call. And wait on hold. And wait and wait. And then it's a dice roll as to who you get connected to. There are some people you talk to who seem to be trying to be annoying. It's a total pain in the ass, but you have to do it. (And since they have to ask for your birthdate to identify you they know how old you are and treat you accordingly.)</p>
+<p>All the health care for a person my age seems to be directed at finding the thing that's going to kill you and treating it. That's good, and that's a shift in perspective from someone who until recently had a young body which basically took care of itself. Or so it seemed (I did have emergency heart surgery at 47 that saved my life, although that's a fairly distant memory now).</p>
+<p>So right now I have a thing that needs to be looked into because it might be one of those serious things. And it's really hard to get the system to respond quickly, because if it's serious it's one of those things that you want to deal with asap. I don't think it is, but you have to act as if it might be. And it can be humiliating to say the least. </p>
+<p>But there's no law saying the doctor, or any of the others in the system, could go to jail or lose their license if they treat any illness I might have. I can now for the first time really understand what it might be like to have to deal with that in addition to all the other <i>serious</i> stuff you have to deal with. </p>
+<p>That's the point of this post. Throwing a wrench into the already broken wheels of our medical system is the crime. They should go to prison for doing this, the six Supreme Court justices and other Republican assholes who stick their noses where they don't belong. There should be a penalty for what they're doing, they should have the fear they're putting women through. They should worry about what happens when their decision is overturned. </p>
+<p>Perhaps they should lose their medical care as should all the members of their families. Then they might get an idea of how sinful they have been.</p>
+<p><i>The first draft of this post appeared <a href="https://www.facebook.com/dave.winer.12/posts/pfbid02emJvNBVscbSVgUsRaxg6tCWPYcZnfsJy7W2Tp6WU6iKfNtLVgKU8Nh69z8vmkGf8l">on Facebook</a>. </i></p>
+ 
+
+<http://scripting.com/2024/09/21/141315.html?title=healthIsNothingToScrewWith>
+
+---
+
+##  The FDA has approved a nasal flu vaccine that people can administer... 
+
+date: 2024-09-21, updated: 2024-09-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045320-the-fda-has-approved-a>
+
+---
+
+## September 20, 2024
+
+date: 2024-09-21, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-20-2024-837>
+
+---
+
+##  Did Shohei Ohtani just play the single greatest baseball game ever? &#8220;He... 
+
+date: 2024-09-21, updated: 2024-09-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/09/0045319-did-shohei-ohtani-just-pl>
+
+---
+
+## 
+                <code>mkfs.fat</code> on Linux vs. OS/2 2.1
+            
+
+date: 2024-09-21, updated: 2024-09-21, from: Uninformative blog
+
+ 
+
+<https://www.uninformativ.de/blog/postings/2024-09-21/0/POSTING-en.html>
+
+---
+
+## How Low Will Trump Go? The Coffee Klatch, September 21, 2024
+
+date: 2024-09-21, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly, Robert Reich 
+
+<https://robertreich.substack.com/p/how-low-will-trump-go-the-coffee>
+
+---
+
+## September 20, 2024 
+
+date: 2024-09-21, from: Heather Cox Richardson blog
+
+On September 16, CNN senior data reporter Harry Enten wrote that while it&#8217;s &#8220;[p]retty clear that [Democratic candidate Vice President Kamala] Harris is ahead nationally right now&#8230; [h]er advantage in the battlegrounds is basically nil. 
+
+<https://heathercoxrichardson.substack.com/p/september-20-2024>
+
+---
+
+## deo absente deum culpa
+
+date: 2024-09-21, from: Jonudell blog
+
+On a recent trip I saw this pair of Latin phrases tattooed on the back of a flight attendant&#8217;s arms: Left: Deo absente. Right: Deum culpa. I took Latin in middle school, and could guess what the combination might mean. It&#8217;s not a common construction, and a search seems to confirm my guess. Both Google &#8230; <a href="https://blog.jonudell.net/2024/09/20/deo-absente-deum-culpa/" class="more-link">Continue reading <span class="screen-reader-text">deo absente deum culpa</span></a> 
+
+<https://blog.jonudell.net/2024/09/20/deo-absente-deum-culpa/>
+
+---
+
+## Listened to Cake – Frank Sinatra
+
+date: 2024-09-21, from: Tracy Durnell Blog
+
+That hat reads so 90s to me. 
+
+<https://tracydurnell.com/2024/09/20/listened-to-cake-frank-sinatra/>
+
+---
+
+## Weeknotes: Sept. 14-20, 2024
+
+date: 2024-09-21, from: Tracy Durnell Blog
+
+I&#8217;m trying to learn to flex my schedule and let myself relax when project work is at a lull. (Especially since my hand is still bugging me so I&#8217;m not writing fiction.) It&#8217;s hard! But I caught up on a lot of library books this week. Highlight of the week: went to an unveiling of [&#8230;] 
+
+<https://tracydurnell.com/2024/09/20/weeknotes-sept-14-20-2024/>
+
+---
+
+## Friday Squid Blogging: Squid Game Season Two Teaser
+
+date: 2024-09-21, updated: 2024-09-21, from: Bruce Schneier blog
+
+<p>The <a href="https://www.hollywoodreporter.com/tv/tv-news/squid-game-season-2-trailer-lee-jung-jae-1236007425/">teaser</a> for <i>Squid Game</i> Season Two dropped.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/09/friday-squid-blogging-squid-game-season-two-teaser.html>
+
+---
+
+## Qualcomm Is Trying to Acquire Intel
+
+date: 2024-09-21, updated: 2024-09-21, from: Daring Fireball
+
+ 
+
+<https://www.wsj.com/business/deals/qualcomm-approached-intel-about-a-takeover-in-recent-days-fa114f9d>
 

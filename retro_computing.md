@@ -1,11 +1,31 @@
 ---
 title: retro computing
-updated: 2024-09-27 07:36:23
+updated: 2024-09-28 07:42:10
 ---
 
 # retro computing
 
-(date: 2024-09-27 07:36:23)
+(date: 2024-09-28 07:42:10)
+
+---
+
+## b.log 2024/09/27 - Mom's Death Day.
+
+date: 2024-09-27, from: Richard Murray's blog
+
+Mom's Death Day. 
+
+<https://heyrick.eu/blog/index.php?diary=20240927>
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2024-09-27, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 15: The Pacific Crossing 
+
+<https://www.filfre.net/2024/09/this-week-on-the-analog-antiquarian/>
 
 ---
 
@@ -90,4 +110,14 @@ date: 2024-09-22, from: RiscOS Open
 <p style="float:right;"><img src="/images/risc_os_open/screenshots/git1000.png" title="Reaching 1000 merged merge requests" alt="Reaching 1000 merged merge requests" /></p> 
 
 <http://www.riscosopen.org/news/articles/2024/09/22/a-metric-tonne-of-risc-os-improvements>
+
+---
+
+## b.log 2024/09/21 - Autumn Equinox, Silvercrest SIKP 2200 B1 Induction Hob.
+
+date: 2024-09-21, from: Richard Murray's blog
+
+Autumn Equinox, Silvercrest SIKP 2200 B1 Induction Hob. 
+
+<https://heyrick.eu/blog/index.php?diary=20240921>
 
