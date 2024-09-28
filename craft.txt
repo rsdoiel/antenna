@@ -1,0 +1,5 @@
+#
+# Craft is a list of hand oriented craft and technology
+# Do we really need all those power tools?
+#
+https://blog.lostartpress.com/feed/ "~Lost Arg Press blog"

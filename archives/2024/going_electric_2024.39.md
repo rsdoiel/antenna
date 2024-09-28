@@ -1,11 +1,11 @@
 ---
 title: going electric
-updated: 2024-09-28 07:42:12
+updated: 2024-09-28 10:43:16
 ---
 
 # going electric
 
-(date: 2024-09-28 07:42:12)
+(date: 2024-09-28 10:43:16)
 
 ---
 
@@ -66,6 +66,10 @@ Customers in the U.S. don't want to wait four to five weeks for a car, and Poles
 date: 2024-09-27, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss our first drives in Tesla FSD v12.5, a new Tesla prototype, 2025 Chevy Blazer EV and Audi Q6, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Electrek_9-27-24.mp3"></audio></figure>
 
 
 

@@ -18,6 +18,7 @@ Collection                                Description of Posts                  
 [Libraries](libraries.html)               Libraries, Archives and Museums                                    [libraries.txt](libraries.txt)
 [Student Journalism](journalism.html)     Student Journalism and the 4th estate                              [journalism.txt](journalism.txt)
 [Motorcycles](motorcycles.html)           Electric motorcycle and related                                    [motorcycles.txt](motorcycles.txt)
+[Craft](craft.html)                       Craft and Design                                                   [craft.txt](craft.txt)
 [Writing](writing.html)                   Writing and Writing Tools                                          [writing.txt](writing.txt)
 [Weather](weather.html)                   [NOAA's](https://noaa.gov) and [weather.gov](https://weather.gov)  [weather.txt](weather.txt)
 [Snapshots](snapshots/)                   A Sometimes daily aggregation                                      [snapshots/news.txt](snapshots/news.txt)
