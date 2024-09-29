@@ -1,11 +1,212 @@
 ---
 title: journalism
-updated: 2024-09-28 10:43:13
+updated: 2024-09-29 07:50:43
 ---
 
 # journalism
 
-(date: 2024-09-28 10:43:13)
+(date: 2024-09-29 07:50:43)
+
+---
+
+## Oregon makes sitting ducks of UCLA football as Bruins suffer 3rd straight loss
+
+date: 2024-09-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Sept. 29 at 12:36 a.m.</em>
+Oregon quarterback Dillon Gabriel tossed a lackluster pass toward wide receiver Tez Johnson with the ball on UCLA’s 6-yard line and 23 seconds remaining in the first half. 
+
+<https://dailybruin.com/2024/09/29/oregon-makes-sitting-ducks-of-ucla-football-as-bruins-suffer-3rd-straight-loss/>
+
+---
+
+## Academic Senate discusses budget deficit
+
+date: 2024-09-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce College Vice President of Administrative Services Rolf Schleicher discussed his focus on the facilities master plan and dealing with budget cuts at the Academic</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/28/academic-senate-discusses-budget-deficit/">Academic Senate discusses budget deficit</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/28/academic-senate-discusses-budget-deficit/?utm_source=rss&utm_medium=rss&utm_campaign=academic-senate-discusses-budget-deficit>
+
+---
+
+## Lancers score over Brahmas, beat Pierce 3-0
+
+date: 2024-09-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Pasadena City College Lancers beat out the Pierce College Brahmas 3-0 in their Sept. 17 game, scoring twice in the first half and once</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/28/lancers-score-over-brahmas-beat-pierce-3-0/">Lancers score over Brahmas, beat Pierce 3-0</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/28/lancers-score-over-brahmas-beat-pierce-3-0/?utm_source=rss&utm_medium=rss&utm_campaign=lancers-score-over-brahmas-beat-pierce-3-0>
+
+---
+
+## Pierce hosts Hispanic Heritage Month discussion and book signing
+
+date: 2024-09-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Angel Aviles was once known by many as Sad Girl, but they don’t say that to her anymore. Pierce College’s Movimiento Estudiantil Chicano de Aztlán</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/28/pierce-hosts-hispanic-heritage-month-discussion-and-book-signing/">Pierce hosts Hispanic Heritage Month discussion and book signing</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/28/pierce-hosts-hispanic-heritage-month-discussion-and-book-signing/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-hosts-hispanic-heritage-month-discussion-and-book-signing>
+
+---
+
+## Pierce Democrats club knocks on doors in Nevada
+
+date: 2024-09-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Pierce College Democrats club went on a trip to Reno, Nevada from Sept. 20 to 22 in hopes of convincing locals to vote for</p>
+<p>The post <a href="https://theroundupnews.com/2024/09/28/pierce-democrats-club-knocks-on-doors-in-nevada/">Pierce Democrats club knocks on doors in Nevada</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/09/28/pierce-democrats-club-knocks-on-doors-in-nevada/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-democrats-club-knocks-on-doors-in-nevada>
+
+---
+
+## UCLA women’s volleyball falls to powerhouse Nebraska in Big Ten opener
+
+date: 2024-09-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Nebraska coach John Cook&#8217;s 700th career win with the Cornhuskers meant the Bruins&#8217; third loss in four games.
+In its first conference match Friday night, UCLA women&#8217;s volleyball (6-4, 0-1 Big Ten) was welcomed to the Big Ten with a 3-1 defeat at the hands of No. 
+
+<https://dailybruin.com/2024/09/28/ucla-womens-volleyball-falls-to-powerhouse-nebraska-in-big-ten-opener/>
+
+---
+
+## UC Regents discuss operating budget, approve salary increases at September meeting
+
+date: 2024-09-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Three UC Board of Regents committees discussed the University&#8217;s 2025-2026 operating budget, salary increases for top-level University employees and the past year&#8217;s fiscal performance at their September meeting. 
+
+<https://dailybruin.com/2024/09/28/uc-regents-discuss-operating-budget-approve-salary-increases-at-september-meeting/>
+
+---
+
+## New, returning runners lead UCLA cross country at Gans Creek Classic
+
+date: 2024-09-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Rise and shine, Bruins &#8211; and don&#8217;t press snooze.
+UCLA cross country&#8217;s journey to the Gans Creek Classic in Columbia, Missouri, was highlighted by early mornings thanks to the two-hour time change. 
+
+<https://dailybruin.com/2024/09/28/new-returning-runners-lead-ucla-cross-country-at-gans-creek-classic/>
+
+---
+
+## USC vs. Wisconsin – live updates
+
+date: 2024-09-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Henry Mode reports live from Los Angeles Memorial Coliseum.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/28/usc-vs-wisconsin-live-updates/">USC vs. Wisconsin &#8211; live updates</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/28/usc-vs-wisconsin-live-updates/>
+
+---
+
+## Espresso Chronicles: With overpriced food and mediocre drinks, Sipp Coffee House fails to satisfy
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+The newest boho chic coffee shop allured me with its stylish character yet released me with its costly prices and awkward seating.
+When visiting Sipp Coffee House, a recently opened establishment in Westwood, I entered with high expectations because of the area&#8217;s prodigious coffee scene. 
+
+<https://dailybruin.com/2024/09/28/espresso-chronicles-with-overpriced-food-and-mediocre-drinks-sipp-coffee-house-fails-to-satisfy/>
+
+---
+
+## Gameday predictions: UCLA vs. Oregon
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA football (1-2, 0-1 Big Ten) is returning to the Rose Bowl for its second Big Ten matchup of the season – and a familiar Pac-12 clash – facing No. 
+
+<https://dailybruin.com/2024/09/28/gameday-predictions-ucla-vs-oregon-5/>
+
+---
+
+## Pablo Ereño ties for first at The Tindall, leading UCLA men’s golf to fifth place
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+It could take years for the shoe to drop.
+But for Pablo Ere&#241;o, he dropped his with a bang.
+The senior and other members of UCLA men&#8217;s golf competed at The Tindall, a three-round tournament at Aldarra Golf Club in Sammamish, Washington, on Tuesday. 
+
+<https://dailybruin.com/2024/09/27/pablo-ereo-ties-for-first-at-the-tindall-leading-ucla-mens-golf-to-fifth-place/>
+
+---
+
+## Op-ed: UC expansion creates demand that neglects fair wages, housing of frontline workers
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Sept. 27 at 9:17 p.m.</em>
+In recent months, thousands of University of California employees and their allies have repeatedly taken to the streets to protest for higher wages and housing assistance. 
+
+<https://dailybruin.com/2024/09/27/uc-expansion-creates-demand-that-neglects-fair-wages-housing-of-frontline-workers/>
+
+---
+
+## Enormous Activities Fair displays range of UCLA student interests, opportunities
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+From performing Shakespeare to beekeeping to organized wiffle ball &#8211; if you can think of it, UCLA has a club for it.
+Approximately 15,000 students attended the Enormous Activities Fair on Tuesday, where over 800 registered campus organizations recruited members in Dickson Plaza and Wilson Plaza, according to a written statement from the office of Student Organizations, Leadership and Engagement. 
+
+<https://dailybruin.com/2024/09/27/enormous-activities-fair-displays-range-of-ucla-student-interests-opportunities/>
+
+---
+
+## Arushi Avachat fuses Bollywood, rom-com inspirations into debut novel
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+Arushi Avachat is bringing Bollywood extravagance to young adult romance.
+The recent graduate and former Daily Bruin contributor published her debut novel, “Arya Khanna’s Bollywood Moment,” earlier this year while completing her bachelor’s degrees in English and political science with a minor in South Asian studies. 
+
+<https://dailybruin.com/2024/09/27/arushi-avachat-fuses-bollywood-rom-com-inspirations-into-debut-novel/>
+
+---
+
+## UCLA women’s soccer hosts Wisconsin for scoreless home opener
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+Fall quarter is underway &#8211; and though the Bruins and Badgers stayed mute between the goalposts, UCLA students ensured the stands were anything but. 
+&#8220;We are starting school up, so it&#8217;s awesome to have the fans back,&#8221; said senior defender Lilly Reale. 
+
+<https://dailybruin.com/2024/09/27/ucla-womens-soccer-hosts-wisconsin-for-scoreless-home-opener/>
+
+---
+
+## Scouting report: UCLA football vs. Oregon
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA football (1-2, 0-1 Big Ten) is heading back to the Rose Bowl to face a familiar foe &#8211; No. 8 Oregon (3-0). With the Ducks and Bruins now part of the Big Ten, one team will walk away with its first conference win Saturday night. 
+
+<https://dailybruin.com/2024/09/27/scouting-report-ucla-football-vs-oregon-2/>
+
+---
+
+## UCLA football faces offensive challenge ahead of Saturday’s matchup against Oregon
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Big Ten cast novelty on all fronts for the Bruins – locations, opponents, travel and so forth.
+But Saturday’s battle will reintroduce familiarity after a 96-year legacy in the Pac-12 melted. 
+
+<https://dailybruin.com/2024/09/27/ucla-football-face-offensive-challenge-ahead-of-saturdays-matchup-against-oregon/>
 
 ---
 
@@ -28,6 +229,16 @@ Ackerman Union and Kerckhoff Hall closed Friday morning due to a power outage.
 ASUCLA announced the closure of both buildings in an Instagram story post Friday morning. 
 
 <https://dailybruin.com/2024/09/27/ackerman-union-kerckhoff-hall-closed-due-to-power-outage/>
+
+---
+
+## Pivot to video 2.0, Reddit’s rise, and what comes after pageviews: Our notes from ONA 2024
+
+date: 2024-09-27, from: Nieman Journalism Lab
+
+Last week, six of us attended the Online News Association&#8217;s 2024 conference in Atlanta. We wrote up two full panels — one on The National Trust for Local News, one on Google Discover and Chartbeat&#8217;s newest traffic stats — but lots of interesting stuff remained in our notes. Here it is (along with the most useful social... 
+
+<https://www.niemanlab.org/2024/09/pivot-to-video-2-0-reddits-rise-and-what-comes-after-pageviews-our-notes-from-ona-2024/>
 
 ---
 
@@ -341,6 +552,16 @@ date: 2024-09-26, from: The Sundail (CSUN Student Newspaper)
 CSUN offers different transportation services for students to commute to school. These services are located throughout Los Angeles County and are accessible to anyone. It provides a fast and convenient... 
 
 <https://sundial.csun.edu/185349/news/ride-smart-discover-csuns-transportation-services/>
+
+---
+
+## The National Trust for Local News keeps buying local newspapers. Here’s what they’ve learned.
+
+date: 2024-09-26, from: Nieman Journalism Lab
+
+Atlanta — When newspaper veteran Ross McDuffie became the first-ever chief portfolio officer for the National Trust for Local News, the nonprofit organization owned two dozen newspapers in Colorado and generated around $5 million in earned revenue. A little more than a year and a half later, the Trust has grown rapidly by nearly every... 
+
+<https://www.niemanlab.org/2024/09/the-national-trust-for-local-news-keeps-buying-local-newspapers-heres-what-theyve-learned/>
 
 ---
 
@@ -671,6 +892,16 @@ date: 2024-09-25, from: The Occidental News (Occidental College Student Newspape
 
 ---
 
+## What would Project 2025 do for (or to) journalism?
+
+date: 2024-09-25, from: Nieman Journalism Lab
+
+Has there ever been a more talked-about 922-page policy document than Mandate for Leadership: The Conservative Promise? Oh — perhaps you know it better under the name of the group that produced it, Project 2025. The Heritage Foundation, America&#8217;s top conservative think tank, pulled together a bunch of Trump administration veterans to create a blueprint... 
+
+<https://www.niemanlab.org/2024/09/what-would-project-2025-do-for-or-to-journalism/>
+
+---
+
 ## Women’s soccer coach reflects on team’s 500th game
 
 date: 2024-09-25, from: The Round Up (Pierce College Student Newspaper)
@@ -877,6 +1108,26 @@ date: 2024-09-24, from: The Daily Bruin (UCLA Student Newspaper)
 
 ---
 
+## Google Discover is sending U.S. news publishers much more traffic. (Social? Still falling.)
+
+date: 2024-09-24, from: Nieman Journalism Lab
+
+Atlanta — If you are a U.S. news publisher, you likely know that your traffic from social media has fallen — the question is just how much. Social analytics platform Chartbeat has some answers. Social&#8217;s share of traffic to the 700 U.S. news sites that are Chartbeat clients has dropped by a third since January 2023,... 
+
+<https://www.niemanlab.org/2024/09/google-discover-is-sending-u-s-news-publishers-much-more-traffic-as-social-media-referrals-continue-to-fall/>
+
+---
+
+## With help from Denmark’s Zetland, Finland will get a member-supported news outlet in 2025
+
+date: 2024-09-24, from: Nieman Journalism Lab
+
+The public has spoken: Finland will get a new news outlet next year. Uusi Juttu, which means “new thing” in Finnish, will launch as a digital news outlet covering the country in January, with the support of more than 5,000 paying members. On September 17, the site&#8217;s founders launched a campaign that aimed to attract... 
+
+<https://www.niemanlab.org/2024/09/with-help-from-denmarks-zetland-finland-will-get-a-member-supported-news-outlet-in-2025/>
+
+---
+
 ## World silver medalist Ana Padurariu leaves UCLA gymnastics for Utah
 
 date: 2024-09-24, from: The Daily Bruin (UCLA Student Newspaper)
@@ -908,7 +1159,7 @@ The Matadors (1-2-3) defeated Santa Clara University (3-3-1) at home on Sunday. 
 
 ---
 
-## Climate Change @ huntington
+## New Huntington Exhibition Examines the Environment Through a Historical Lens
 
 date: 2024-09-24, from: California Tech (Caltech Student Newspaper)
 
@@ -1025,6 +1276,26 @@ date: 2024-09-24, from: California Tech (Caltech Student Newspaper)
 Many people question what the end of summer may mean. The end of an era of relaxation? The dawn of a new stick season? Or the letter ‘r’? 
 
 <https://tech.caltech.edu/2024/09/24/end-of-summer/>
+
+---
+
+## Man Vs Mannion (Man edition)
+
+date: 2024-09-24, from: California Tech (Caltech Student Newspaper)
+
+<strong>TL;DR:</strong> Gus’s is a fantastic BBQ restaurant not far from campus. 
+
+<https://tech.caltech.edu/2024/09/24/man-vs-mannionman-edition/>
+
+---
+
+## Man Vs Mannion (Mannion edition)
+
+date: 2024-09-24, from: California Tech (Caltech Student Newspaper)
+
+Gus’s Barbecue has been in South Pasadena since 1946. The menu offers a broad choice of classic southern favorites. Parking is available adjacent to the restaurant as well as on nearby streets&hellip; 
+
+<https://tech.caltech.edu/2024/09/24/man-vs-mannionmannion-edition/>
 
 ---
 
@@ -1358,6 +1629,16 @@ Image Source: Pexels When it comes to student wellbeing, both mental and physica
 
 ---
 
+## A courts reporter wrote about a few trials. Then an AI decided he was actually the culprit.
+
+date: 2024-09-23, from: Nieman Journalism Lab
+
+When German journalist Martin Bernklau typed his name and location into Microsoft&#8217;s Copilot to see how his articles would be picked up by the chatbot, the answers horrified him. Copilot&#8217;s results asserted that Bernklau was an escapee from a psychiatric institution, a convicted child abuser, and a conman preying on widowers. For years, Bernklau had... 
+
+<https://www.niemanlab.org/2024/09/a-courts-reporter-wrote-about-a-few-trials-then-an-ai-decided-he-was-actually-the-culprit/>
+
+---
+
 ## Classifieds – September 23, 2024
 
 date: 2024-09-23, from: The Daily Trojan (USC Student Newspaper)
@@ -1598,290 +1879,4 @@ BATON ROUGE – It was a tale of two halves in Tigerland.
 Evidenced by their 24.5-point underdog designation, the Bruins weren’t expected to be even relatively competitive in Saturday’s game – let alone departing from “Death Valley” far from dismantled. 
 
 <https://dailybruin.com/2024/09/21/ucla-football-blanked-in-second-half-succumbs-to-34-17-loss-against-lsu/>
-
----
-
-## USC comes back but can’t hold on in loss to Michigan
-
-date: 2024-09-21, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Trojans fall at the Big House in their inaugural contest for their new conference.</p>
-<p>The post <a href="https://dailytrojan.com/2024/09/21/usc-comes-back-but-cant-hold-on-in-loss-to-michigan/">USC comes back but can’t hold on in loss to Michigan</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2024/09/21/usc-comes-back-but-cant-hold-on-in-loss-to-michigan/>
-
----
-
-## Music Video Roundup: As sun sets on summer, season’s best music videos still shine bright
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-Before the season changes to fall, it is time to look back on summer 2024.
-To accompany the releases of their songs – whether they be singles from new projects or hits from older bodies of work – several artists across various genres released entertaining music videos this summer. 
-
-<https://dailybruin.com/2024/09/21/music-video-roundup-as-sun-sets-on-summer-seasons-best-music-videos-still-shine-bright/>
-
----
-
-## Deaf CSUNians present “Introduction to Deaf Culture 101” for Deaf Awareness Month
-
-date: 2024-09-21, from: The Sundail (CSUN Student Newspaper)
-
-The Deaf CSUNians Club is hosting their Introduction to Deaf Culture 101 event on Tuesday, Sept. 24 from 5:30 p.m. to 7:30 p.m. at the University Student Union Theater. Admission... 
-
-<https://sundial.csun.edu/185064/news/deaf-csunians-present-introduction-to-deaf-culture-101-for-deaf-awareness-month/>
-
----
-
-## Registration Issue 2024: Blooming Beginnings
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
- 
-
-<https://features.dailybruin.com/2024/registration-issue-2024/#interactive>
-
----
-
-## Gameday predictions: UCLA vs. LSU
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-In the first of a three-game gauntlet of ranked opponents, UCLA football (1-1, 0-1 Big Ten) is traveling to Baton Rouge, Louisiana, to face No. 16 LSU (2-1, 1-0 SEC) on Saturday. 
-
-<https://dailybruin.com/2024/09/21/gameday-predictions-ucla-vs-lsu-2/>
-
----
-
-## USC vs. Michigan — as it happened
-
-date: 2024-09-21, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Leila MacKenzie and Dana Hammerstrom report live from Michigan Stadium.</p>
-<p>The post <a href="https://dailytrojan.com/2024/09/21/usc-vs-michigan-live-updates/">USC vs. Michigan — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2024/09/21/usc-vs-michigan-live-updates/>
-
----
-
-## Navigating EAF
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
- 
-
-<https://dailybruin.com/2024/09/20/navigating-eaf/>
-
----
-
-## How printing works at UCLA
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
- 
-
-<https://dailybruin.com/2024/09/20/how-printing-works-at-ucla/>
-
----
-
-## How to keep your Google Drive organized for the school year
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
- 
-
-<https://dailybruin.com/2024/09/20/how-to-keep-your-google-drive-organized-for-the-school-year/>
-
----
-
-## Analyzing Chancellor-designate Julio Frenk’s leadership at University of Miami
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-Following his presidency at the University of Miami, Julio Frenk will assume the role of UCLA chancellor Jan. 1, 2025, bringing experiences that may shape his leadership approach and values. 
-
-<https://dailybruin.com/2024/09/20/analyzing-chancellor-designate-julio-frenks-leadership-at-university-of-miami/>
-
----
-
-## Gallery: Highlighting less-visited study spots on UCLA’s campus
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-For new Bruins arriving on campus, Powell Library and the Charles E. Young Research Library may be the only study spots they’ve heard of. Daily Bruin Photo provides a guide of places for Bruins to study that get less use than the staples. 
-
-<https://dailybruin.com/2024/09/20/gallery-highlighting-less-visited-study-spots-on-uclas-campus/>
-
----
-
-## Logistics of applying to, participating in UCLA study abroad programs
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-As the academic year approaches, many Bruins are eager to study abroad and immerse themselves in a different culture for a quarter or semester.
-UCLA offers three main study abroad opportunities: global internships, travel studies and exchange programs. 
-
-<https://dailybruin.com/2024/09/20/logistics-of-applying-to-participating-in-ucla-study-abroad-programs/>
-
----
-
-## For nonmusic students, music performance serves as source of respite and growth
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-Music performance is a significant aspect of the college experience for many Bruins, with many nonmusic students actively engaging in interdisciplinary passions through various creative communities at UCLA. 
-
-<https://dailybruin.com/2024/09/20/for-nonmusic-students-music-performance-serves-as-source-of-respite-and-growth/>
-
----
-
-## A look inside how students interact with UCLA’s meal swipe system
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-UCLA’s meal plan system provides Bruins with access to a variety of dining options: food trucks, dining halls and on-campus restaurants. At the beginning of each school year, students living on the Hill choose between six distinct plans differentiated by amount and flexibility. 
-
-<https://dailybruin.com/2024/09/20/a-look-inside-how-students-interact-with-uclas-meal-swipe-system/>
-
----
-
-## UCLA’s Cozy Corners
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-The return to campus can bring nervousness and anticipation, but there are innumerable quiet and secluded cozy corners around campus to take a break and decompress. 
-
-<https://dailybruin.com/2024/09/20/uclas-cozy-corners/>
-
----
-
-## Despite national accolades, UCLA club artistic swimming lacks Division I status
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-Artistic swimming at UCLA has sought the Division I stage for three years now. 
-UCLA&#8217;s historic artistic swimming medal at the 2024 Paris Olympics could be the catalyst for sending the program to the next level. 
-
-<https://dailybruin.com/2024/09/20/despite-national-accolades-ucla-club-artistic-swimming-lacks-division-i-status/>
-
----
-
-## Battle of the Editors: Which Westwood coach will win out?
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-Westwood’s coaches are often the last to earn deserved glory – it’s easy to overlook their legacies and impact. After a summer of coaches leading teams to international glory or devoting their summer to leading training on campus, Daily Bruin Sports editors discuss the coaches who will have the biggest impact in 2024. 
-
-<https://dailybruin.com/2024/09/20/battle-of-the-editors-which-westwood-coach-will-win-out/>
-
----
-
-## Aaron’s Answers: How Jordan Chiles’ return to UCLA gymnastics is the perfect setup for LA 2028
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-Jordan Chiles has been to the Olympics twice.
-And her most recent venture &#8211; in Paris this summer &#8211; was after two years training with UCLA gymnastics. 
-
-<https://dailybruin.com/2024/09/20/aarons-answers-how-jordan-chiles-return-to-ucla-gymnastics-is-the-perfect-setup-for-la-2028/>
-
----
-
-## How UCLA gymnastics’ Chae Campbell became a viral meme
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-Chae (verb).
-To land short or trip and cover it up with choreography from Chae Campbell&#8217;s 2021 floor routine. 
-Following Campbell&#8217;s freshman season with UCLA gymnastics, the graduate student never expected to become the face of a meme. 
-
-<https://dailybruin.com/2024/09/20/how-ucla-gymnastics-chae-campbell-became-a-viral-meme/>
-
----
-
-## A look into businesses that have arrived and departed Westwood Village this summer
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-Summer brought significant change to Westwood, as several businesses were welcomed to the community, while others said their temporary and permanent farewells.
-While many undergraduate students were away, Westwood saw the openings of Danny Boy&#8217;s Pizza, a New York-style pizza restaurant, as well as Le Phant Milk Tea Co., a specialty milk tea shop. 
-
-<https://dailybruin.com/2024/09/20/a-look-into-businesses-that-have-arrived-and-departed-westwood-village-this-summer/>
-
----
-
-## Luke Beall blurs lines between authenticity and artifice in film ‘Fatal Exposure’
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-Despite setbacks, &#8220;Fatal Exposure&#8221; not only resonates with audiences but also chills them.
-Helmed by fourth-year physics student Luke Beall, the Film &#38; Photography Society&#8217;s self-described most ambitious film yet follows a young actress as she is stalked throughout a shoot while navigating modern-day girlhood. 
-
-<https://dailybruin.com/2024/09/20/luke-beall-blurs-lines-between-authenticity-and-artifice-in-film-fatal-exposure/>
-
----
-
-## The Color Box spotlights stories of underrepresented communities in theater
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-Blending vibrant productions, compelling stories and diverse casts, The Color Box Production Company colors outside the lines of traditional theater.
-Founded in 2017, The Color Box  is a student-run theater production company that spotlights diverse communities and their stories. 
-
-<https://dailybruin.com/2024/09/20/the-color-box-spotlights-stories-of-underrepresented-communities-in-theater/>
-
----
-
-## Student-led production company Newland Pictures builds hands-on experience
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-Newland Pictures is uplifting student voices in a brand new way.
-Founded in 2023, the student-run production company provides opportunities and guidance to those wanting to break into the film industry. 
-
-<https://dailybruin.com/2024/09/20/student-led-production-company-newland-pictures-builds-hands-on-experience/>
-
----
-
-## High Note Foundation at UCLA bridges music, community throughout LA
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-For High Note Foundation, looking on the bright side through music is paramount.
-The club, which doubles as a service organization, was founded last year and now numbers about 40 members. 
-
-<https://dailybruin.com/2024/09/20/high-note-foundation-at-ucla-bridges-music-community-throughout-la/>
-
----
-
-## Mia Przybus polishes her artistry, curates community through @ucnailsinla
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-Mia Przybus&#8217; dedication has guided her to grow a campus community in artistry.
-The third-year civil engineering student said she has always been an artist and has spent many years exploring the business side by offering different creative services. 
-
-<https://dailybruin.com/2024/09/20/mia-przybus-polishes-her-artistry-curates-community-through-ucnailsinla/>
-
----
-
-## Q&A: Sonya Brooks aims to be ‘voice for the voiceless’ as student regent
-
-date: 2024-09-21, from: The Daily Bruin (UCLA Student Newspaper)
-
-Sonya Brooks, the 2025-2026 UC student regent, sat down with the Daily Bruin&#8217;s national news and higher education editor, Alexandra Crosnoe, to discuss Brooks&#8217; background and goals for her tenure. 
-
-<https://dailybruin.com/2024/09/20/qvoice-for-the-voiceless-as-student-regent/>
-
----
-
-## USU Kicks off Hispanic Heritage Month with “Bienvenida” cultural welcome
-
-date: 2024-09-21, from: The Sundail (CSUN Student Newspaper)
-
-The University Student Union hosted their second cultural welcome event, Bienvenida, to kick off the celebration of Hispanic Heritage Month on Sept. 17 from 4:30 p.m. to 6:45 p.m. The... 
-
-<https://sundial.csun.edu/185054/arts-entertainment/usu-kicks-off-hispanic-heritage-month-with-bienvenida-cultural-welcome/>
 

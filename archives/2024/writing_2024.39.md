@@ -1,11 +1,32 @@
 ---
 title: writing
-updated: 2024-09-28 10:43:12
+updated: 2024-09-29 07:50:42
 ---
 
 # writing
 
-(date: 2024-09-28 10:43:12)
+(date: 2024-09-29 07:50:42)
+
+---
+
+## OK Kids, You Get to Vote
+
+date: 2024-09-28, from: Margaret Atwoods Substack
+
+Right here on this website. But not for President. 
+
+<https://margaretatwood.substack.com/p/ok-kids-you-get-to-vote>
+
+---
+
+## One of Our Kind by Nicola Yoon: Review by Alex Brown
+
+date: 2024-09-28, from: Locus Magazine
+
+<p><strong>One of Our Kind</strong>, Nicola Yoon (Knopf 978-0-59347-067-1, $28.00. 272pp, hc) June 2024.</p>
+<p>Jasmyn, her husband Kingston, and their young son Kamau are excited to move to the new all-Black community of Liberty, just outside Los Angeles in Nicola Yoon’s <strong>One of Our Kind</strong>. King’s new job and higher income landed them a sprawl­ing home in a luxury community where everyone from the retail workers to the cops  <a href="https://locusmag.com/2024/09/one-of-our-kind-by-nicola-yoon-review-by-alex-brown/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/one-of-our-kind-by-nicola-yoon-review-by-alex-brown/>
 
 ---
 
@@ -376,15 +397,4 @@ date: 2024-09-22, from: Locus Magazine
 <p><strong>“Twenty-Four Hours” </strong>by <strong>H.H. Pak </strong>starts off the June issue of Clarkesworld on a high note. The story is beautiful and heartbreaking as a mother spends a final twenty-four hours with a programmed version of her recently deceased daughter in an effort to gain closure. The story does a wonderful job of portraying grief in its various stages and capturing the feeling of wanting to spend just a  <a href="https://locusmag.com/2024/09/clarkesworld-short-fiction-reviews-by-a-c-wise/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/09/clarkesworld-short-fiction-reviews-by-a-c-wise/>
-
----
-
-## Track Changes by Abigail Nussbaum: Review by Ian Mond
-
-date: 2024-09-21, from: Locus Magazine
-
-<p><strong>Track Changes</strong>, Abigail Nussbaum (Briardene 978-1-73856-170-4, £15.00, 448pp, tp) August 2024.</p>
-<p>In March, Abigail Nussbaum, on her blog Asking the Wrong Questions, reviewed Francis Spuf­ford’s <strong>Cahokia Jazz</strong>, one of my favourite novels of 2024. It’s a review that encapsulates everything magnificent about Nussbaum, a well-deserved Hugo winner. First, there’s the sheer artistry, the way the review is crafted like a mystery (fitting for a noirish novel), raising questions  <a href="https://locusmag.com/2024/09/track-changes-by-abigail-nussbaum-review-by-ian-mond/" class="read-more">...Read More </a></p> 
-
-<https://locusmag.com/2024/09/track-changes-by-abigail-nussbaum-review-by-ian-mond/>
 

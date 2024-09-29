@@ -1,11 +1,253 @@
 ---
 title: columns
-updated: 2024-09-28 10:43:10
+updated: 2024-09-29 07:50:40
 ---
 
 # columns
 
-(date: 2024-09-28 10:43:10)
+(date: 2024-09-29 07:50:40)
+
+---
+
+## 2024-09-29 Configuring Oddµ via environment variables
+
+date: 2024-09-29, from: Alex Schroeder's Blog
+
+<h1 id="2024-09-29-configuring-oddµ-via-environment-variables">2024-09-29 Configuring Oddµ via environment variables</h1>
+
+<p><a href="Odd%C2%B5">Oddµ</a> replaced <a href="Oddmuse">Oddmuse</a> as my preferred wiki software.</p>
+
+<p>It&rsquo;s a <strong>wiki</strong> – a website that can be edited on the web, using a regular web browser on my phone, for example; it&rsquo;s a <strong>static site generator</strong> (SSG) so that I write a bunch of Markdown files locally, run Oddµ and upload the result to the web; and it reacts to changes made as it runs, so I can edit the Markdown files remotely, using ssh and my favourite editor, and the pages Oddµ serves reflect those changes.</p>
+
+<p>It&rsquo;s also a program that doesn&rsquo;t take a config file. Oddmuse, its predecessor, was famously hackable. You could hook into the parser and add new rules, add new actions, add new meta data, and on and on. The drawback was an incredible lock-in. After twenty years, I started to feel it: it was hard to remove features for any specific wiki because its pages used all a markup that was incompatible with everything else. Some of my Oddmuse wikis used the old UseMod markup that was used by MediaWiki, too. Some of my Oddmuse wikis used the newer Wiki Creole markup that some wiki engine authors wanted to push <a href="2006-09-04_Wiki_Creole">back in 2006</a>. Some of my Oddmuse wikis used their own eclectic mix. Some of my Oddmuse wikis used Markdown. For a while I even added <a href="Gemtext">Gemtext</a> to the mix! I didn&rsquo;t like this incompatibility between sites and sometimes even between old and new pages on the same site. This is why Oddµ only does Markdown with three minimal extensions: hashtags, wiki links and fedi account links.</p>
+
+<p>Over time, however, I did add a few configuration options to Oddµ. The happen via environment variables.</p>
+
+<p>When stdin is a socket, getListener returns a listener that listens on
+the socket passed as stdin. This allows systemd-style socket
+activation. Otherwise, getListener returns a net.Listener listening on
+the address from <strong>ODDMU_ADDRESS</strong> and the port from <strong>ODDMU_PORT</strong>.
+ODDMU_ADDRESS may be either an IPV4 address or an IPv6 address. If
+ODDMU_ADDRESS is unspecified, then the listener listens on all
+available unicast addresses, both IPv4 and IPv6.
+See <a href="oddmu/oddmu.1">oddmu(1)</a> and <a href="oddmu/oddmu.service.5">oddmu.service(5)</a>
+for more.</p>
+
+<p>By default, Oddmu tries to identify the language used on every page in
+order to allow a style sheet to enable hyphenation for the correct
+language. This is important for multi-lingual sites. The library used
+detects over 70 languages. This takes memory and time. <strong>ODDMU_LANGUAGES</strong>
+allows admins to reduce the number of languages taken into account.
+This site, for example, only considers English and German.
+See <a href="oddmu/oddmu.1">oddmu(1)</a> and <a href="oddmu/oddmu-templates.5">oddmu-templates(5)</a>
+for more.</p>
+
+<p>A pretty hairy feature is activated using <strong>ODDMU_FILTER</strong>.
+Sometimes, subdirectories are separate sites. If you do not want to
+include those sites in searches or archives of the whole site, you
+need to identify them. The way to do this is via the environment
+variable ODDMU_FILTER. It&rsquo;s value is a regular expression matching
+separate sites. On this site, my dad&rsquo;s old site resides in such a subdirectory.
+I use this environment variable to exclude &ldquo;his&rdquo; pages from searches made on
+&ldquo;my&rdquo; pages.
+See <a href="oddmu/oddmu-filter.7">oddmu-filter(7)</a> for more.</p>
+
+<p>And finally, since linking to fediverse accounts involves an outgoing Webfinger
+lookup, this feature is disabled by default. You can switch it on by setting
+<strong>ODDMU_WEBFINGER</strong> to &ldquo;1&rdquo;.
+See <a href="oddmu/oddmu.5">oddmu(5)</a> for more.</p>
+
+<p><a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a></p> 
+
+<https://alexschroeder.ch/view/2024-09-29-env-variables>
+
+---
+
+## Linda Ronstadt
+
+date: 2024-09-29, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<https://steady.substack.com/p/linda-ronstadt>
+
+---
+
+## 
+                A “hello world” program in machine code on DOS
+            
+
+date: 2024-09-29, updated: 2024-09-29, from: Uninformative blog
+
+ 
+
+<https://www.uninformativ.de/blog/postings/2024-09-29/0/POSTING-en.html>
+
+---
+
+## Caption contest: VP debate
+
+date: 2024-09-29, from: Robert Reich's blog
+
+And last week&#8217;s winner 
+
+<https://robertreich.substack.com/p/caption-contest-vp-debate>
+
+---
+
+## September 28, 2024 
+
+date: 2024-09-29, from: Heather Cox Richardson blog
+
+When I travel, Buddy often sends me pictures from his morning that he considers throwaway, but I loved this one, not least because he stopped in the middle of hauling a trap to catch it. 
+
+<https://heathercoxrichardson.substack.com/p/september-28-2024>
+
+---
+
+## Article pairing: restoring rivers
+
+date: 2024-09-29, from: Tracy Durnell Blog
+
+As of Today, the Klamath River is Flowing Free for the First Time in More Than a Century (Lost Coast Outpost) Discussions about the potential for Klamath River dam removal began in earnest more than 20 years ago, shortly after an estimated 70,000 adult salmon died in the lower river before they could spawn. Collective [&#8230;] 
+
+<https://tracydurnell.com/2024/09/28/article-pairing-restoring-rivers/>
+
+---
+
+## Listened to Zydeco Gumbo
+
+date: 2024-09-29, from: Tracy Durnell Blog
+
+Growing up, we had a tape with Home Cookin&#8217;s earlier self titled album and it was a favorite for the drive to Tahoe, along with a Ray Charles mix tape. &#8216;Little Joe from Chicago&#8216; was a favorite track on that one &#8212; on this album there&#8217;s a sick organ solo on &#8216;Five O&#8217;clock Blues.&#8217; 
+
+<https://tracydurnell.com/2024/09/28/listened-to-zydeco-gumbo/>
+
+---
+
+## Lessons from MKBHD’s App Brouhaha
+
+date: 2024-09-29, from: Om Malik blog
+
+If you have a long career in media and writing in public like I have, you’re likely to make some mistakes. And you’re going to have some regrets. One of those was a story I wrote about Path, a company started by Dave Morin. I was critical, harsh and unkind to the company and its &#8230; 
+
+<https://om.co/2024/09/28/lessons-from-mkbhds-app-brouhaha/>
+
+---
+
+## Relay for St. Jude Is Approaching $1 Million
+
+date: 2024-09-28, updated: 2024-09-28, from: Daring Fireball
+
+ 
+
+<https://relay.experience.stjude.org/>
+
+---
+
+## Election Countdown, 38 Days to Go: What Is Wrong With Our Leading Paper?
+
+date: 2024-09-28, from: James Fallows, Substack
+
+A view of public life as political circus. And the ongoing damage that view does. 
+
+<https://fallows.substack.com/p/election-countdown-38-days-to-go>
+
+---
+
+## Tom’s Guide iPhone 16 Battery Life Testing Shows Impressive Year-Over-Year Gains
+
+date: 2024-09-28, updated: 2024-09-28, from: Daring Fireball
+
+ 
+
+<https://www.tomsguide.com/phones/iphones/iphone-16-battery-life-results-are-in-and-we-can-hardly-believe-our-eyes>
+
+---
+
+## WSJ: ‘Apple Is No Longer in Talks to Join OpenAI Investment Round’
+
+date: 2024-09-28, updated: 2024-09-28, from: Daring Fireball
+
+ 
+
+<https://www.wsj.com/tech/apple-no-longer-in-talks-to-join-openai-investment-round-e3be3e66>
+
+---
+
+## September 27, 2024
+
+date: 2024-09-28, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-27-2024-aab>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-28, from: Dave Winer's Scripting News)
+
+I should put a dollar in a jar every time ChatGPT saves my ass. I thought I had boxed myself into a corner regarding the hash value for a web page, then I asked a question I wasn't sure there was an answer to. "In JS in the browser, I have the name of an anchor element and I want the browser to vertically scroll to it," to which it said: "Here's an example." 
+
+<http://scripting.com/2024/09/28.html#a151322>
+
+---
+
+## Making the social web really work
+
+date: 2024-09-28, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2019/11/14/weTryHarder.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Molly White wrote a <a href="https://www.citationneeded.news/posse/">great piece</a> on the problem we're all facing now that so many of us are trying to maintain a presence on a few different social web sites. She describes a situation I've been writing about since the mid-late 00s, with the inception of Twitter and Google Reader, two phenoms that had very different ideas of what writing on the web should be. That's where the problems started.</p>
+<p>Before that we had a cross-posting API that was broadly supported and really worked, based on <a href="https://cyber.harvard.edu/rss/rss.html#hrelementsOfLtitemgt">RSS 2.0's idea</a> of what a post is. It's called the <a href="https://xmlrpc.com/metaweblog">Metaweblog API</a>, and it's still supported by <a href="https://codex.wordpress.org/XML-RPC_MetaWeblog_API">WordPress</a> and probably a few other social web sites (I take a broad view of what the social web is and definitely include WordPress and other blogging tools. Based on Molly's piece, I expect she would see it that way too.)</p>
+<p>The first approach I took to this problem was to cross-post as Molly describes, to work around the limits in software. But the limits will creep into your writing, since you know that people who read your stuff on Bluesky, Threads or Twitter won't see the links, you'll be reluctant to them in your writing. I encountered this problem in the mid-teens when I was trying to cross-post to Medium and Facebook, one supported links and basic HTML, the other didn't. Eventually before <a href="http://scripting.com/2017/05/05/iWantMyOldBlogBack.html">giving up</a> on the POSSE approach in 2017, I was barely using links at all. I was trying to keep four pieces of software happy and doing so made my writing suck.</p>
+<p>To get a handle on the problem, I created a list of features I felt all social web platforms should support and published it at <a href="https://textcasting.org/">textcasting.org</a>. Ultimately I think we're going to have to make a platform that implements a reasonable subset of this functionality, if only as a demo for the social web companies to show them what we want. There already are Mastodon forks that support some of the features (no character limit, Markdown support). </p>
+<p>I <a href="https://github.com/scripting/textcasting">published the code</a> I use to cross-post for my linkblog, that much does work quite well across the different platforms, and I'd be happy to operate a server for people to experiment with. The <a href="https://github.com/scripting/textcasting/blob/main/textcasting.js">server software</a> runs in Node.js, is already open source. It has a simple <a href="https://github.com/scripting/textcasting/tree/main/plugins/platforms">plug-in architecture</a> so support for new platforms can be added without modifying the server. </p>
+<p>But my main point is this -- let's <a href="http://scripting.com/2024/04/16/140810.html">work together</a>. We really aren't very good in tech at building on each others' work, that's why we get so stuck. I have a lot to say about that too, I've been writing about it on my blog for many many years. </p>
+<p>And thanks for picking up this thread. It's one of the two big threads -- along with AI -- how are we going to make writing on the web work.</p>
+<p>PS: I started writing this in Mastodon, but obviously I had to fall back to my blog, because there was no room and I needed to use links or why bother. ;-)</p>
+ 
+
+<http://scripting.com/2024/09/28/132152.html?title=makingTheSocialWebReallyWork>
+
+---
+
+## 37 Days Left in the Garden of Good and Evil: The Coffee Klatch for September 28, 2024
+
+date: 2024-09-28, from: Robert Reich's blog
+
+With Michael Lahanas-Calder&#243;n and Yours Truly Robert Reich 
+
+<https://robertreich.substack.com/p/the-home-s-t-r-e-t-c-h-the-coffee>
+
+---
+
+## September 27, 2024
+
+date: 2024-09-28, from: Heather Cox Richardson blog
+
+Last night, at about 11:10 local time, Hurricane Helene made landfall in the Big Bend area of Florida, where the state&#8217;s panhandle curves down toward the peninsula. 
+
+<https://heathercoxrichardson.substack.com/p/september-27-2024>
+
+---
+
+## Weeknotes: Sept. 21-27, 2024
+
+date: 2024-09-28, from: Tracy Durnell Blog
+
+Win of the week: finally got the contract for my new project, and got my insurance updated! Looking forward to: starting the project! Stuff I did: 3.5 hours consulting 3 hours business development and admin 45 minutes writing took one cat to the vet, always a stressful outing for the whole household 😑 more art [&#8230;] 
+
+<https://tracydurnell.com/2024/09/27/weeknotes-sept-21-27-2024/>
+
+---
+
+## The Great American Road Trip
+
+date: 2024-09-28, from: Tracy Durnell Blog
+
+A mention of electrifying &#8220;the great American road trip&#8221; threw me for a mental loop: does road tripping happen significantly more in America than other countries? 🤔 I could potentially see that being so, given our lack of long distance public transit, large geographic size spanning vast wild spaces, pretty extensive system of national parks, [&#8230;] 
+
+<https://tracydurnell.com/2024/09/27/the-great-american-road-trip/>
 
 ---
 
@@ -285,7 +527,7 @@ date: 2024-09-26, updated: 2024-09-26, from: Daring Fireball
 
 ## LG Smart TVs, Including OLEDs, Now Show Screensaver Ads
 
-date: 2024-09-26, updated: 2024-09-26, from: Daring Fireball
+date: 2024-09-26, updated: 2024-09-28, from: Daring Fireball
 
  
 
@@ -1513,159 +1755,4 @@ date: 2024-09-22, from: Jeff Geerling blog
 </span> 
 
 <https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai>
-
----
-
-## Podcast on "The Nature of Intelligence"
-
-date: 2024-09-21, from: Melanie Mitchell, AI Guide for Human Thinking
-
-I never thought I would be a podcast host, but&#8230;Abha Eli Phoboo, the director of communications at the Santa Fe Institute, recently relaunched SFI&#8217;s official podcast, Complexity, and proposed that each season, an SFI faculty member co-host the podcast with her for six episodes on a topic of their choice. 
-
-<https://aiguide.substack.com/p/podcast-on-the-nature-of-intelligence>
-
----
-
-##  It&#8217;s my unfortunate duty to inform you that, once again, It&#8217;s Decorative... 
-
-date: 2024-09-21, updated: 2024-09-21, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/09/0045321-its-my-unfortunate-duty-t>
-
----
-
-## Health is nothing to screw with
-
-date: 2024-09-21, from: Dave Winer's Scripting News
-
-<p>Since I'm about to turn 70 (next May), and because my body is getting old in ways it never has before (of course) -- I've become a more active participant in the health care system. </p>
-<p>One thing I've learned is it can be hard to get the attention of the doctors. And once you see your GP about a problem it's almost certain they're going to send you to a specialist. So you go to the specialist and it's pretty random as to whether they put the effort into understanding your situation in full. And they aren't trying to solve all your problems, just the ones they deal in. </p>
-<p>An aside, a couple of years ago I had a condition that ChatGPT diagnosed in a second but it took the doctors who weren't paying much attention (my primary care doctor had retired and I was being shuffled between NPs and MDs until they could find someone to be my new main doctor) so they were all sending me to the wrong specialists, all of whom said there was no problem, yet I still had the symptoms which were getting worse. On the fourth try, someone sent me to the right specialist and they instantly diagnosed what ChatGPT had diagnosed at the outset. So when people say AI could hurt medical care, I don't think so, it would probably be a good idea to have an AI looking over their shoulders and asking if they've considered the Occam's Razor specialist. </p>
-<p>So you have to be alert, and push to get them to pay attention. </p>
-<p>And communicating with the system is ridiculous. Almost everything has to be done over the phone. They have email, but if you want to set up an appointment, you have to call. And wait on hold. And wait and wait. And then it's a dice roll as to who you get connected to. There are some people you talk to who seem to be trying to be annoying. It's a total pain in the ass, but you have to do it. (And since they have to ask for your birthdate to identify you they know how old you are and treat you accordingly.)</p>
-<p>All the health care for a person my age seems to be directed at finding the thing that's going to kill you and treating it. That's good, and that's a shift in perspective from someone who until recently had a young body which basically took care of itself. Or so it seemed (I did have emergency heart surgery at 47 that saved my life, although that's a fairly distant memory now).</p>
-<p>So right now I have a thing that needs to be looked into because it might be one of those serious things. And it's really hard to get the system to respond quickly, because if it's serious it's one of those things that you want to deal with asap. I don't think it is, but you have to act as if it might be. And it can be humiliating to say the least. </p>
-<p>But there's no law saying the doctor, or any of the others in the system, could go to jail or lose their license if they treat any illness I might have. I can now for the first time really understand what it might be like to have to deal with that in addition to all the other <i>serious</i> stuff you have to deal with. </p>
-<p>That's the point of this post. Throwing a wrench into the already broken wheels of our medical system is the crime. They should go to prison for doing this, the six Supreme Court justices and other Republican assholes who stick their noses where they don't belong. There should be a penalty for what they're doing, they should have the fear they're putting women through. They should worry about what happens when their decision is overturned. </p>
-<p>Perhaps they should lose their medical care as should all the members of their families. Then they might get an idea of how sinful they have been.</p>
-<p><i>The first draft of this post appeared <a href="https://www.facebook.com/dave.winer.12/posts/pfbid02emJvNBVscbSVgUsRaxg6tCWPYcZnfsJy7W2Tp6WU6iKfNtLVgKU8Nh69z8vmkGf8l">on Facebook</a>. </i></p>
- 
-
-<http://scripting.com/2024/09/21/141315.html?title=healthIsNothingToScrewWith>
-
----
-
-##  The FDA has approved a nasal flu vaccine that people can administer... 
-
-date: 2024-09-21, updated: 2024-09-21, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/09/0045320-the-fda-has-approved-a>
-
----
-
-## September 20, 2024
-
-date: 2024-09-21, from: Heather Cox Richardson blog
-
- 
-
-<https://heathercoxrichardson.substack.com/p/september-20-2024-837>
-
----
-
-##  Did Shohei Ohtani just play the single greatest baseball game ever? &#8220;He... 
-
-date: 2024-09-21, updated: 2024-09-21, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/09/0045319-did-shohei-ohtani-just-pl>
-
----
-
-## 
-                <code>mkfs.fat</code> on Linux vs. OS/2 2.1
-            
-
-date: 2024-09-21, updated: 2024-09-21, from: Uninformative blog
-
- 
-
-<https://www.uninformativ.de/blog/postings/2024-09-21/0/POSTING-en.html>
-
----
-
-## How Low Will Trump Go? The Coffee Klatch, September 21, 2024
-
-date: 2024-09-21, from: Robert Reich's blog
-
-With Heather Lofthouse and Yours Truly, Robert Reich 
-
-<https://robertreich.substack.com/p/how-low-will-trump-go-the-coffee>
-
----
-
-## September 20, 2024 
-
-date: 2024-09-21, from: Heather Cox Richardson blog
-
-On September 16, CNN senior data reporter Harry Enten wrote that while it&#8217;s &#8220;[p]retty clear that [Democratic candidate Vice President Kamala] Harris is ahead nationally right now&#8230; [h]er advantage in the battlegrounds is basically nil. 
-
-<https://heathercoxrichardson.substack.com/p/september-20-2024>
-
----
-
-## deo absente deum culpa
-
-date: 2024-09-21, from: Jonudell blog
-
-On a recent trip I saw this pair of Latin phrases tattooed on the back of a flight attendant&#8217;s arms: Left: Deo absente. Right: Deum culpa. I took Latin in middle school, and could guess what the combination might mean. It&#8217;s not a common construction, and a search seems to confirm my guess. Both Google &#8230; <a href="https://blog.jonudell.net/2024/09/20/deo-absente-deum-culpa/" class="more-link">Continue reading <span class="screen-reader-text">deo absente deum culpa</span></a> 
-
-<https://blog.jonudell.net/2024/09/20/deo-absente-deum-culpa/>
-
----
-
-## Listened to Cake – Frank Sinatra
-
-date: 2024-09-21, from: Tracy Durnell Blog
-
-That hat reads so 90s to me. 
-
-<https://tracydurnell.com/2024/09/20/listened-to-cake-frank-sinatra/>
-
----
-
-## Weeknotes: Sept. 14-20, 2024
-
-date: 2024-09-21, from: Tracy Durnell Blog
-
-I&#8217;m trying to learn to flex my schedule and let myself relax when project work is at a lull. (Especially since my hand is still bugging me so I&#8217;m not writing fiction.) It&#8217;s hard! But I caught up on a lot of library books this week. Highlight of the week: went to an unveiling of [&#8230;] 
-
-<https://tracydurnell.com/2024/09/20/weeknotes-sept-14-20-2024/>
-
----
-
-## Friday Squid Blogging: Squid Game Season Two Teaser
-
-date: 2024-09-21, updated: 2024-09-21, from: Bruce Schneier blog
-
-<p>The <a href="https://www.hollywoodreporter.com/tv/tv-news/squid-game-season-2-trailer-lee-jung-jae-1236007425/">teaser</a> for <i>Squid Game</i> Season Two dropped.</p>
-<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
- 
-
-<https://www.schneier.com/blog/archives/2024/09/friday-squid-blogging-squid-game-season-two-teaser.html>
-
----
-
-## Qualcomm Is Trying to Acquire Intel
-
-date: 2024-09-21, updated: 2024-09-21, from: Daring Fireball
-
- 
-
-<https://www.wsj.com/business/deals/qualcomm-approached-intel-about-a-takeover-in-recent-days-fa114f9d>
 

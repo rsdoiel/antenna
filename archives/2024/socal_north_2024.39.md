@@ -1,11 +1,55 @@
 ---
 title: socal north
-updated: 2024-09-28 10:43:08
+updated: 2024-09-29 07:50:36
 ---
 
 # socal north
 
-(date: 2024-09-28 10:43:08)
+(date: 2024-09-29 07:50:36)
+
+---
+
+## GOING BANANAS AT PORT OF HUENEME!
+
+date: 2024-09-28, from: Port Hueneme
+
+<p>11th Annual BananaFest Celebrating a Diverse Working Port Themed “Charging Forward to a Zero Emission Future” &#160; Download Press Release Contact: Letitia Austin Public and Gov’t Relations Manager Laustin@Portofh.org &#160;&#8230;</p>
+<p>The post <a href="https://www.portofhueneme.org/banana-festival-2024/">GOING BANANAS AT PORT OF HUENEME!</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
+ 
+
+<https://www.portofhueneme.org/banana-festival-2024/>
+
+---
+
+## Active Living in Santa Clarita
+
+date: 2024-09-28, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin “Exercise is the key, not only to physical health, but to peace of mind.” – Nelson Mandela After opening Skyline Ranch Park earlier this year, and having our official groundbreaking ceremonies for the future Rink Sports Pavilion and upgrades to David March Park, there are so many recreational opportunities in [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/28/active-living-in-santa-clarita/">Active Living in Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/28/active-living-in-santa-clarita/>
+
+---
+
+## Angelenos take on the (seemingly) impossible task of controlling Tree of Heaven
+
+date: 2024-09-28, updated: 2024-09-28, from: The LAist
+
+Earlier this month, we did a story on the die-hard Tree of Heaven with surprising resonance. 
+
+<https://laist.com/news/climate-environment/angelenos-take-on-the-seemingly-impossible-task-of-controlling-tree-of-heaven>
+
+---
+
+## Here’s how the ‘Old Glory’ oak tree historic landmark came to be
+
+date: 2024-09-28, updated: 2024-09-28, from: The LAist
+
+The roughly 400-year-old tree was slated to be removed for a proposed housing development more than 20 years ago. 
+
+<https://laist.com/news/climate-environment/heres-how-the-old-glory-oak-tree-historic-landmark-came-to-be>
 
 ---
 
@@ -109,6 +153,16 @@ date: 2024-09-27, updated: 2024-09-27, from: The LAist
 An excessive heat warning kicks in at 10 a.m. today for the Coachella Valley. 
 
 <https://laist.com/news/climate-environment/hot-temps-inland-empire-deserts-excessive-heat>
+
+---
+
+## With a Monday deadline, Gavin Newsom is vetoing 1 of every 6 bills. Here’s why
+
+date: 2024-09-27, updated: 2024-09-28, from: The LAist
+
+The governor blocks a sizable chunk of bills passed by the Legislature. He cites a few common reasons why they shouldn’t become law in California. 
+
+<https://laist.com/news/politics/gavin-newsom-is-vetoing-1-of-every-6-bills-heres-why>
 
 ---
 
@@ -372,6 +426,16 @@ It'll be warm, but still below normal for this time of year.
 
 ---
 
+## Gascón vs. Hochman: Very different takes on what LA's district attorney should do
+
+date: 2024-09-25, updated: 2024-09-28, from: The LAist
+
+Incumbent DA George Gascón and challenger Nathan Hochman offer their philosophies on the criminal justice system. 
+
+<https://laist.com/news/criminal-justice/gascon-vs-hochman-very-different-takes-on-what-las-district-attorney-should-do>
+
+---
+
 ## Undocumented students rethinking college futures after Newsom's veto of campus jobs bill
 
 date: 2024-09-24, updated: 2024-09-24, from: The LAist
@@ -508,7 +572,7 @@ date: 2024-09-23, from: City of Santa Clarita
 
 ## These are the 2024 California bills Gavin Newsom has signed into law, and the ones he has vetoed
 
-date: 2024-09-23, updated: 2024-09-23, from: The LAist
+date: 2024-09-23, updated: 2024-09-28, from: The LAist
 
 Many more bills are still on the governor's desk. We're tracking as he makes his decisions. 
 
@@ -583,48 +647,4 @@ date: 2024-09-23, updated: 2024-09-23, from: The LAist
 A new study reveals mercury levels in melting Arctic permafrost that pose disproportionate dangers for Indigenous peoples. 
 
 <https://laist.com/news/climate-environment/alaskan-permafrost-mercury-scientists>
-
----
-
-## Shaping Our Community’s Future Through Santa Clarita 2025
-
-date: 2024-09-21, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin &#8220;Keep your eyes on the stars, and your feet on the ground&#8221; – Theodore Roosevelt This quote by Theodore Roosevelt reflects the guiding principles behind the Santa Clarita 2025 Strategic Plan. This mindset has driven our City&#8217;s efforts to balance aspirations with practical steps, ensuring that the goals we set [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2024/09/21/shaping-our-communitys-future-through-santa-clarita-2025/">Shaping Our Community’s Future Through Santa Clarita 2025</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<https://santaclarita.gov/blog/2024/09/21/shaping-our-communitys-future-through-santa-clarita-2025/>
-
----
-
-## San Bernardino Mountains got a nice layer of frosting Saturday morning. It's called graupel
-
-date: 2024-09-21, updated: 2024-09-21, from: The LAist
-
-It's not snow. It's not hail. It's graupel. 
-
-<https://laist.com/news/climate-environment/san-bernardino-mountains-got-a-nice-layer-of-frosting-this-morning-its-called-graupel>
-
----
-
-## Silver Alert Issue For Woman Last Seen in Mission Hills
-
-date: 2024-09-21, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
-
-<p>MISSION HILLS (CNS) &#8211; A Silver Alert was issued today for a 74-year-old woman who was last seen in Mission Hills. Cathy Fujimoto was last seen at 7 a.m. Thursday [&#8230;]</p>
-<p>The post <a href="https://sanfernandosun.com/2024/09/21/silver-alert-issue-for-woman-last-seen-in-mission-hills/">Silver Alert Issue For Woman Last Seen in Mission Hills</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
- 
-
-<https://sanfernandosun.com/2024/09/21/silver-alert-issue-for-woman-last-seen-in-mission-hills/>
-
----
-
-## Popular Chantry Flat hiking area to reopen years after Bobcat Fire. Here’s what to know
-
-date: 2024-09-21, updated: 2024-09-21, from: The LAist
-
-The Bobcat Fire destroyed more than 115,000 acres in and around the Angeles National Forest four years ago, and forced the closure of the Big Santa Anita Canyon and other areas. Now portions of that land will reopen on Oct. 2. 
-
-<https://laist.com/news/climate-environment/popular-chantry-flat-hiking-area-to-reopen-years-after-bobcat-fire-heres-what-to-know>
 

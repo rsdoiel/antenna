@@ -1,11 +1,171 @@
 ---
 title: food
-updated: 2024-09-28 10:43:17
+updated: 2024-09-29 07:50:49
 ---
 
 # food
 
-(date: 2024-09-28 10:43:17)
+(date: 2024-09-29 07:50:49)
+
+---
+
+## We Think You’ll Love These Delicious Specialty Coffee Selections
+
+date: 2024-09-29, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. We get asked by friends and family where to buy coffee a lot. It&#8217;s a tough question! It&#8217;s easy to lose track of just how many incredible, fresh, vibrant coffees [&#8230;] 
+
+<https://sprudge.com/we-think-youll-love-these-delicious-specialty-coffee-selections-255893.html>
+
+---
+
+## The Cheapest Meal Delivery Services That Are Actually Worth Ordering 2024
+
+date: 2024-09-28, from: Bon Appetet
+
+According to Bon Appetit editors and contributors who’ve tried them at home. 
+
+<https://www.bonappetit.com/story/the-cheapest-meal-delivery-services>
+
+---
+
+## Adobo de Chanco: Pepper-Powered Peruvian Pork
+
+date: 2024-09-28, from: Pepper Scale
+
+“Don’t spoil it with cutlery. This is party pork!” That’s the advice from a beaming buddy of mine about adobo de chanco — slow braised pork shoulder, served with ladles of bread-dunking, fiery sauce, and buttered corn. “This Peruvian pork is for pure pleasure, please, ... <p class="read-more-container"><a title="Adobo de Chanco: Pepper-Powered Peruvian Pork" class="read-more button" href="https://pepperscale.com/adobo-de-chanco/#more-85923" aria-label="Read more about Adobo de Chanco: Pepper-Powered Peruvian Pork">Read more</a></p> 
+
+<https://pepperscale.com/adobo-de-chanco/>
+
+---
+
+## Algerian Spicy Chicken And Chickpea Tagine
+
+date: 2024-09-28, from: Pepper Scale
+
+Hotly spiced with dersa, this Algerian spicy chicken and chickpea tagine is a good-looking, sunshiny treat that’s surprisingly easy to make. Dersa? That’s an Algerian, hot-as-you-like combo of ground bird’s eye chili, paprika, cumin, and black pepper. It’s all mixed together with garlic, lemon juice, ... <p class="read-more-container"><a title="Algerian Spicy Chicken And Chickpea Tagine" class="read-more button" href="https://pepperscale.com/algerian-spicy-chicken-and-chickpea-tagine/#more-84990" aria-label="Read more about Algerian Spicy Chicken And Chickpea Tagine">Read more</a></p> 
+
+<https://pepperscale.com/algerian-spicy-chicken-and-chickpea-tagine/>
+
+---
+
+## 31 Chocolate Cookie Recipes, Emphasis on Chocolate
+
+date: 2024-09-28, from: Bon Appetet
+
+Like low-fuss slice-and-bakes, chocolate-filled macaroons, cheesecake brownie cookies, and more. 
+
+<https://www.bonappetit.com/gallery/types-of-chocolate-cookie-recipes>
+
+---
+
+## Bobotie: Cape Town’s Savory, Spicy Specialty
+
+date: 2024-09-28, from: Pepper Scale
+
+Fired with chilies, generously spiced ground beef gets sweetened with raisins, chutney, and almonds, and baked beneath a custardy, egg-and-milk topping. That’s bobotie. This unusual, richly flavored delight is a mega South African favorite that’s grand for special occasions and celebrations. If you’re Italian, this ... <p class="read-more-container"><a title="Bobotie: Cape Town’s Savory, Spicy Specialty" class="read-more button" href="https://pepperscale.com/bobotie/#more-86293" aria-label="Read more about Bobotie: Cape Town’s Savory, Spicy Specialty">Read more</a></p> 
+
+<https://pepperscale.com/bobotie/>
+
+---
+
+## Spicy Chestnut Soup
+
+date: 2024-09-28, from: Pepper Scale
+
+What could be more perfect on a cold winter evening than a large bowl of spicy chestnut soup? This is a hearty bowl, with delicious chunky pieces of chestnut and the salty delight that is crushed bacon bits. It&#8217;s earthy, meaty, nutty, and fiery all ... <p class="read-more-container"><a title="Spicy Chestnut Soup" class="read-more button" href="https://pepperscale.com/spicy-chestnut-soup/#more-86081" aria-label="Read more about Spicy Chestnut Soup">Read more</a></p> 
+
+<https://pepperscale.com/spicy-chestnut-soup/>
+
+---
+
+## Easy Pico De Gallo
+
+date: 2024-09-28, from: Pepper Scale
+
+Here&#8217;s an easy pico de gallo recipe that takes no time at all to make — from prep to table in under 20 minutes. That&#8217;s a lot of flavor in a little time. We love this salsa fresca as a spicy side (a great alternative to ... <p class="read-more-container"><a title="Easy Pico De Gallo" class="read-more button" href="https://pepperscale.com/easy-pico-de-gallo/#more-3767" aria-label="Read more about Easy Pico De Gallo">Read more</a></p> 
+
+<https://pepperscale.com/easy-pico-de-gallo/>
+
+---
+
+## Chipotle Cocktail Sauce
+
+date: 2024-09-28, from: Pepper Scale
+
+Like a little smoky edge to your sauces? Don&#8217;t ignore what chipotle peppers can quickly bring to the table, particularly in simple ketchup-based sauces like cocktail sauce. This chipotle cocktail sauce brings plenty of horseradish spiciness but adds an earthy, smoky zip via chipotle in ... <p class="read-more-container"><a title="Chipotle Cocktail Sauce" class="read-more button" href="https://pepperscale.com/chipotle-cocktail-sauce/#more-32938" aria-label="Read more about Chipotle Cocktail Sauce">Read more</a></p> 
+
+<https://pepperscale.com/chipotle-cocktail-sauce/>
+
+---
+
+## Bloody Mary Ketchup
+
+date: 2024-09-28, from: Pepper Scale
+
+This one is a no-brainer for Bloody Mary fans. Turn your classic ketchup into a zesty condiment version of the popular cocktail! It&#8217;s tangy, peppery, and fiery — like a good spicy Bloody Mary should be. This is a delicious traditional ketchup alternative for french ... <p class="read-more-container"><a title="Bloody Mary Ketchup" class="read-more button" href="https://pepperscale.com/bloody-mary-ketchup/#more-34563" aria-label="Read more about Bloody Mary Ketchup">Read more</a></p> 
+
+<https://pepperscale.com/bloody-mary-ketchup/>
+
+---
+
+## The Most Popular Recipes of September 2024
+
+date: 2024-09-28, from: Bon Appetet
+
+One-pan salmon, pumpkin chiffon pie and more. 
+
+<https://www.bonappetit.com/gallery/most-popular-recipes-september-2024>
+
+---
+
+## Microwave Mashed Potatoes
+
+date: 2024-09-28, from: Taste of Home
+
+Perfect for busy weeknights or whenever you're craving comfort food without the fuss, these microwave mashed potatoes are quick, easy, and perfectly delicious. 
+
+<https://www.tasteofhome.com/recipes/microwave-mashed-potatoes/>
+
+---
+
+## White Chocolate Ganache
+
+date: 2024-09-28, from: Taste of Home
+
+Using just two simple ingredients, this decadent white chocolate ganache is ideal for enjoying over fresh pastries, drizzled on top of your favorite cakes or pies or using as a dipping sauce when the mood strikes. 
+
+<https://www.tasteofhome.com/recipes/white-chocolate-ganache/>
+
+---
+
+## Bison Burger
+
+date: 2024-09-28, from: Taste of Home
+
+This bison burger recipe have all of the flavor of your typical ground beef burger, but they're lighter and leaner. This recipe tops juicy ground bison with caramelized onions and melted Swiss cheese. 
+
+<https://www.tasteofhome.com/recipes/bison-burger/>
+
+---
+
+## Lemon Zucchini Bread
+
+date: 2024-09-28, from: Taste of Home
+
+When you've got too much zucchini, it's time to make this lemon zucchini bread recipe. This produces two loaves that will feed several people, and the loaves freeze well, too. 
+
+<https://www.tasteofhome.com/recipes/lemon-zucchini-bread/>
+
+---
+
+## Smoked Gouda Mac and Cheese
+
+date: 2024-09-28, from: Taste of Home
+
+Elevate your typical mac and cheese with this smoked gouda mac and cheese recipe. Made with three types of cheeses, a creamy milk roux and plenty of spices for added flavor, this recipe is a total winner. 
+
+<https://www.tasteofhome.com/recipes/smoked-gouda-mac-and-cheese/>
 
 ---
 
@@ -1016,84 +1176,4 @@ date: 2024-09-22, from: Closet Cooking
  
 
 <https://www.closetcooking.com/20-minute-meals/>
-
----
-
-## Roasted Green Vegetable Medley
-
-date: 2024-09-21, from: Taste of Home
-
-Roasting vegetables such as broccoli, green beans and Brussels sprouts is a fantastic way to serve them, and almost any veggie combo works. — Suzan Crouch, Grand Prairie, Texas 
-
-<https://www.tasteofhome.com/recipes/roasted-green-vegetable-medley/>
-
----
-
-## Mac and Cheese with Cream Cheese
-
-date: 2024-09-21, from: Taste of Home
-
-Yes, it's a recipe for mac and cheese with cream cheese. And regular cheese. And it's a dish that you're going to make again and again, soon with your own favorite variations. 
-
-<https://www.tasteofhome.com/recipes/company-mac-and-cheese/>
-
----
-
-## Porterhouse Steak
-
-date: 2024-09-21, from: Taste of Home
-
-This basic but superlative porterhouse steak recipe will have you skipping the steakhouse dinner for home-cooked meals with this thick, tasty cut of meat. Serve it with classic sides: potatoes and a green vegetable. 
-
-<https://www.tasteofhome.com/recipes/porterhouse-steak/>
-
----
-
-## Deep-Fried Jalapeño Cream Cheese Bread Rolls
-
-date: 2024-09-21, from: Pepper Scale
-
-We&#8217;ll say it upfront — this is not a healthy recipe in any way. But these deep-fried jalapeño cream cheese bread rolls are quick to make and deliciously creamy and fiery. They make an excellent fast snack and are a great way to use up ... <p class="read-more-container"><a title="Deep-Fried Jalapeño Cream Cheese Bread Rolls  " class="read-more button" href="https://pepperscale.com/deep-fried-jalapeno-cream-cheese-bread-rolls/#more-92660" aria-label="Read more about Deep-Fried Jalapeño Cream Cheese Bread Rolls  ">Read more</a></p> 
-
-<https://pepperscale.com/deep-fried-jalapeno-cream-cheese-bread-rolls/>
-
----
-
-## Rich And Spicy Oxtail Stew
-
-date: 2024-09-21, from: Pepper Scale
-
-Once regarded as little more than an off-cut, oxtail now sells for much the same money as high-end sirloin. Cook it our way, and you’ll realize why. Spicy oxtail stew is one of the world’s truly great, slow-cooked, one-pot dishes. We also provide an easy ... <p class="read-more-container"><a title="Rich And Spicy Oxtail Stew" class="read-more button" href="https://pepperscale.com/spicy-oxtail-stew/#more-80799" aria-label="Read more about Rich And Spicy Oxtail Stew">Read more</a></p> 
-
-<https://pepperscale.com/spicy-oxtail-stew/>
-
----
-
-## Sriracha And Cauliflower Cheese Soup
-
-date: 2024-09-21, from: Pepper Scale
-
-For those cheese fans out there that also love some spicy food (we know you’re out there in droves!), this is a recipe for you. Sriracha and cauliflower cheese soup is creamy and filling, with plenty of Rooster Sauce bite. Plus, it’s a really simple ... <p class="read-more-container"><a title="Sriracha And Cauliflower Cheese Soup" class="read-more button" href="https://pepperscale.com/sriracha-and-cauliflower-cheese-soup/#more-84882" aria-label="Read more about Sriracha And Cauliflower Cheese Soup">Read more</a></p> 
-
-<https://pepperscale.com/sriracha-and-cauliflower-cheese-soup/>
-
----
-
-## Taverna-Style Mussels Saganaki
-
-date: 2024-09-21, from: Pepper Scale
-
-Rich and warming with a nice fiery bite, this mussels saganaki recipe is an exceptional winter dish, but delicious any time of year. Unmistakably Greek, it’s one of those rare starters that is equally outstanding when served as an elegantly simple main course. It really ... <p class="read-more-container"><a title="Taverna-Style Mussels Saganaki" class="read-more button" href="https://pepperscale.com/taverna-style-mussels-saganaki/#more-82214" aria-label="Read more about Taverna-Style Mussels Saganaki">Read more</a></p> 
-
-<https://pepperscale.com/taverna-style-mussels-saganaki/>
-
----
-
-## Bunny Chow: Spicy, Red, And Hot In Bread
-
-date: 2024-09-21, from: Pepper Scale
-
-Some great, hand-held foods come packed in bread — burgers and hot dogs are two treasures that spring straight to mind. For curry lovers, there’s a fistful of food with a seriously spicy, red-hot centerpiece. It’s called bunny chow, conceived in the big sea pot ... <p class="read-more-container"><a title="Bunny Chow: Spicy, Red, And Hot In Bread" class="read-more button" href="https://pepperscale.com/bunny-chow/#more-84829" aria-label="Read more about Bunny Chow: Spicy, Red, And Hot In Bread">Read more</a></p> 
-
-<https://pepperscale.com/bunny-chow/>
 

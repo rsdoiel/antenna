@@ -1,11 +1,23 @@
 ---
 title: health
-updated: 2024-09-28 10:43:16
+updated: 2024-09-29 07:50:47
 ---
 
 # health
 
-(date: 2024-09-28 10:43:16)
+(date: 2024-09-29 07:50:47)
+
+---
+
+## Does Soda Cause Kidney Stones?
+
+date: 2024-09-28, from: The Kidney Dietitian
+
+<p>Is this true? Can drinking soda cause kidney stones? Are dark sodas worse than others? Unfortunately, yes. Drinks that are sweetened with sugar, such as soda, are associated with an increased risk of kidney stones. Diet cola may also cause stone formation. However, non-cola diet soda may have some beneficial ingredients. Read on to learn [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/does-soda-cause-kidney-stones/">Does Soda Cause Kidney Stones?</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<https://www.thekidneydietitian.org/does-soda-cause-kidney-stones/>
 
 ---
 

@@ -1,11 +1,41 @@
 ---
 title: motorcycles
-updated: 2024-09-28 10:43:15
+updated: 2024-09-29 07:50:46
 ---
 
 # motorcycles
 
-(date: 2024-09-28 10:43:15)
+(date: 2024-09-29 07:50:46)
+
+---
+
+## Can Sunday’s Hollywood Casino 400 match the finish of the last NASCAR race at Kansas Speedway?
+
+date: 2024-09-29, from: Kickin the Tires blog
+
+By Randy Covitz, Special to Kickin&#8217; the Tires During its 24-year history, Kansas Speedway has been the site of some of NASCAR’s most dramatic moments. Who can forget Carl Edwards’&#8230;  
+
+<https://kickinthetires.net/nascar/can-sundays-hollywood-casino-400-match-the-finish-of-the-last-nascar-race-at-kansas-speedway/>
+
+---
+
+## Chandler Smith’s Short-Run Speed Leaves Him Third at Kansas
+
+date: 2024-09-29, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor The short-run speed that Chandler Smith had in the NASCAR Xfinity Series race at Kansas Speedway wasn’t enough to hold off the competition in the&#8230;  
+
+<https://kickinthetires.net/nascar/chandler-smiths-short-run-speed-leaves-him-third-at-kansas/>
+
+---
+
+## Let The Paul Sr Vs Bearded Mechanic Vs Bikes & Beards Build-Off Begin!
+
+date: 2024-09-28, from: Ride Apart, Electric Motorcycle News
+
+It's all in good fun this time around, and they even have a chair-throwing contest. 
+
+<https://www.rideapart.com/news/735425/paul-sr-bikes-bearded-mechanic/>
 
 ---
 
@@ -496,34 +526,4 @@ date: 2024-09-22, from: Kickin the Tires blog
 By: Zach Catanzareti, Staff Writer In a night owned and operated by Kyle Larson, who led 462 of 500 laps Saturday at Bristol Motor Speedway, the non-playoff standout was by&#8230;  
 
 <https://kickinthetires.net/nascar/best-of-the-rest-bubba-wallace-scores-3rd-in-bristol/>
-
----
-
-## Parker Kligerman: ‘It’s a Big Achievement to Make Playoffs’
-
-date: 2024-09-21, from: Kickin the Tires blog
-
-By Seth Eggert, Associate Editor BRISTOL, Tenn – Despite drifting through the corner mid-race at Bristol Motor Speedway, Parker Kligerman clinched a spot in the NASCAR Xfinity Series Playoffs for&#8230;  
-
-<https://kickinthetires.net/nascar/parker-kligerman-its-a-big-achievement-to-make-playoffs/>
-
----
-
-## Ryan Truex Ends Part-Time Season ‘With a Bang’; Top 5 in Bristol
-
-date: 2024-09-21, from: Kickin the Tires blog
-
-By: Zach Catanzareti, Staff Writer Ryan Truex&#8216;s 10-race run with Joe Gibbs Racing in the 2024 Xfinity Series season is over. And in his words, it ended with a bang.&#8230;  
-
-<https://kickinthetires.net/nascar/ryan-truex-ends-part-time-season-with-a-bang-top-5-in-bristol/>
-
----
-
-## Wait, Why Is The Standard Shifter on BMW's R 1300 GS Plastic?
-
-date: 2024-09-21, from: Ride Apart, Electric Motorcycle News
-
-Why yes, it did break immediately.  
-
-<https://www.rideapart.com/news/734474/bmw-r1300-gs-plastic-shifter-broken/>
 

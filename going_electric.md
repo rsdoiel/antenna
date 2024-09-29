@@ -1,11 +1,125 @@
 ---
 title: going electric
-updated: 2024-09-28 10:43:16
+updated: 2024-09-29 07:50:48
 ---
 
 # going electric
 
-(date: 2024-09-28 10:43:16)
+(date: 2024-09-29 07:50:48)
+
+---
+
+## E-quipment highlight: Haulotte E MAX rough terrain electric scissor lifts [video]
+
+date: 2024-09-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/haulotte-us-HS5390-E-PRO-img3.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The new HS18 E MAX (called “HS5390” E MAX in the US, <a href="https://www.youtube.com/watch?v=digUCKigSh4">because we don’t know what meters are</a>) rough terrain electric scissor lift from Haulotte can drive around your job site at full height, and with a full load.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="381926" href="https://electrek.co/2024/09/29/e-quipment-highlight-haulotte-e-max-rough-terrain-electric-scissor-lifts-video/#more-381926" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/29/e-quipment-highlight-haulotte-e-max-rough-terrain-electric-scissor-lifts-video/>
+
+---
+
+## Mazda EZ-6 EV goes on sale with a starting price under $25,000
+
+date: 2024-09-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/MazdaEZ-6.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Mazda officially opened the order books on its new Mazda EZ-6 EV and EREV versions of the car in China yesterday. And the starting price? It’s under $25,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,erev,mazda" data-layer-viewtype="unknown" data-post-id="381945" href="https://electrek.co/2024/09/29/mazda-ez-6-ev-goes-on-sale-with-a-starting-price-under-25000/#more-381945" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/29/mazda-ez-6-ev-goes-on-sale-with-a-starting-price-under-25000/>
+
+---
+
+## Bidirectional charging may be required on EVs soon due to new CA law
+
+date: 2024-09-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/2024-silverado-ev-gm-energy-products-01.jpg?quality=82&#038;strip=all&#038;w=1497" /></div><p>It’s an exciting week for grid resiliency-lovers in California, as Governor Gavin Newsom followed up his earlier <a href="https://electrek.co/2024/09/26/new-ca-smart-grid-law-will-help-solar-and-fix-the-grid-by-simply-replacing-wires/">smart grid law</a> and signed another law this week which may require bidirectional charging on EVs in the future – though the law has no hard timeline attached, so it may be a while before we see this happen.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bidirectional-charging,vehicle-to-grid" data-layer-viewtype="unknown" data-post-id="381963" href="https://electrek.co/2024/09/28/bidirectional-charging-may-be-required-on-evs-soon-due-to-new-ca-law/#more-381963" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/28/bidirectional-charging-may-be-required-on-evs-soon-due-to-new-ca-law/>
+
+---
+
+## Industry first: Komatsu reveals power agnostic 320 ton haul truck
+
+date: 2024-09-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/komatsu_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Japanese equipment giant Komatsu dropped its new, 320-ton Power Agnostic 930E mining truck at MinsExpo trade show in Las Vegas, calling it a future-ready solution that can run on diesel, hydrogen, or pure electric power.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,komatsu,mining" data-layer-viewtype="unknown" data-post-id="381912" href="https://electrek.co/2024/09/28/industry-first-komatsu-reveals-power-agnostic-320-ton-haul-truck/#more-381912" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/28/industry-first-komatsu-reveals-power-agnostic-320-ton-haul-truck/>
+
+---
+
+## Rivian CEO RJ Scaringe Wishes NACS Ramp Up Was Faster
+
+date: 2024-09-28, from: Inside EVs News
+
+Scaringe said there was no ‘tension’ with Tesla and that the two companies are partners that work well together. 
+
+<https://insideevs.com/news/735427/rivian-ceo-rj-scaringe-wishes-nacs-rollout-was-faster/>
+
+---
+
+## Score a sporty new Fiat 500e at more than 30% off MSRP
+
+date: 2024-09-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/FT024_093FHgj57mujijlkdp6sieg0qn5vk4.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s no Ferrari, but owning a sporty little Fiat 500e is about as close to putting a <em>cavallino rampante</em> in the garage as most of us will ever get. And if we act soon, we could do just that for 30% less money than before.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,fiat" data-layer-viewtype="unknown" data-post-id="381885" href="https://electrek.co/2024/09/28/score-a-sporty-new-fiat-500e-at-more-than-30-off-msrp/#more-381885" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/28/score-a-sporty-new-fiat-500e-at-more-than-30-off-msrp/>
+
+---
+
+## Hyundai's Plan For Underground EV Fires: This Firefighting Robot
+
+date: 2024-09-28, from: Inside EVs News
+
+The Hyundai Motor Group is not messing around when it comes to the threat of parking garage EV fires. 
+
+<https://insideevs.com/news/735443/hyundai-ev-fire-robot/>
+
+---
+
+## Mahle CEO Arnd Franz says hydrogen will fail without fossil fuels
+
+date: 2024-09-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/mahle_wasserstoffmotor_auf_dem_pruefstand.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Echoing the words of hydrogen critics everywhere, Mahle Chairman Arnd Franz says that building out a hydrogen infrastructure won’t be possible without “blue” H made from fossil fuels.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,hydrogen" data-layer-viewtype="unknown" data-post-id="381868" href="https://electrek.co/2024/09/28/mahle-ceo-arnd-franz-says-hydrogen-will-fail-without-fossil-fuels/#more-381868" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/28/mahle-ceo-arnd-franz-says-hydrogen-will-fail-without-fossil-fuels/>
+
+---
+
+## Dead Fisker Ocean Bought For $10,000, Rebuilt For Chump Change
+
+date: 2024-09-28, from: Inside EVs News
+
+How’s that for depreciation? 
+
+<https://insideevs.com/news/735348/fisker-ocean-cheap-repair-charge-port/>
 
 ---
 
@@ -1598,100 +1712,4 @@ date: 2024-09-22, from: Electrek Feed
  <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,hyundai,iveco" data-layer-viewtype="unknown" data-post-id="380913" href="https://electrek.co/2024/09/22/iveco-announces-new-electric-cargo-van-will-it-come-to-us-as-a-nikola/#more-380913" class="more-link">more…</a> 
 
 <https://electrek.co/2024/09/22/iveco-announces-new-electric-cargo-van-will-it-come-to-us-as-a-nikola/>
-
----
-
-## Volvo EX30 Is Crushing It in Europe: Is the U.S. Next?
-
-date: 2024-09-21, from: Inside EVs News
-
-Can Volvo repeat its success in America next year? 
-
-<https://insideevs.com/news/734676/volvo-ex-30-crushing-europe/>
-
----
-
-## 2024 Cadillac LYRIQ buyers could score $10,500 in discounts
-
-date: 2024-09-21, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Cadillac-Lyric-EV_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The all-electric Cadillac LYRIQ was an <em>Electrek</em> favorite when it first made its debut two years ago. Now, LYRIQ buyers who have been waiting for a deal can score more than $10,500 in discounts on the Ultium-based Caddy.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="cadillac,ev-deals" data-layer-viewtype="unknown" data-post-id="380889" href="https://electrek.co/2024/09/21/2024-cadillac-lyriq-buyers-could-score-10500-in-discounts/#more-380889" class="more-link">more…</a> 
-
-<https://electrek.co/2024/09/21/2024-cadillac-lyriq-buyers-could-score-10500-in-discounts/>
-
----
-
-## Volvo CE rolls out autonomous equipment at Volvo Days 2024 [part 2]
-
-date: 2024-09-21, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/ta15_MAIN.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/2024/09/20/volvo-ce-rolls-out-some-new-hotness-at-volvo-days-2024-part-1/">Volvo Days 2024 packed a lot of innovative new products into a few short days</a>, but the company’s autonomous construction robots still managed to stand out.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="autonomous,electric-construction-equipment,volvo" data-layer-viewtype="unknown" data-post-id="380854" href="https://electrek.co/2024/09/21/volvo-ce-rolls-out-autonomous-equipment-at-volvo-days-2024-part-2/#more-380854" class="more-link">more…</a> 
-
-<https://electrek.co/2024/09/21/volvo-ce-rolls-out-autonomous-equipment-at-volvo-days-2024-part-2/>
-
----
-
-## This Transforming Chinese EV Pickup Is The Tesla Cybertruck Done Right
-
-date: 2024-09-21, from: Inside EVs News
-
-The Changan Nevo E07 has earned the nickname "Chinese Cybertruck." I'd totally buy one.  
-
-<https://insideevs.com/news/734641/changan-nevo-e07-tesla-cybertruck/>
-
----
-
-## This Crossover Will Help You Break A Window If You're Drowning
-
-date: 2024-09-21, from: Inside EVs News
-
-The Zeekr 7X comes standard with a mechanical window breaker integrated into driver's door.  
-
-<https://insideevs.com/news/734637/zeekr-7x-window-breaking-flooding/>
-
----
-
-## Six-Year-Old Tesla Model 3 Ownership Costs: $375 To Drive 16,000 Miles
-
-date: 2024-09-21, from: Inside EVs News
-
-That’s just over 2 cents per mile, which is crazy low. Try matching that with a gas sedan. 
-
-<https://insideevs.com/news/734297/2018-tesla-model-3-ownership-costs/>
-
----
-
-## JB Hunt launches first electric aftermarket semi truck route in Arizona
-
-date: 2024-09-21, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/jb-hunt_daimler.png?w=1400" /></div><p>Following successful inbound implementations in the Pacific Northwest, North Carolina, and <a href="https://electrek.co/2024/04/20/first-ever-electric-semi-truck-rides-into-mexico-with-sdge/">Mexico</a>, Daimler Trucks North America (DTNA) is expanding the reach of its electric semi fleet into Arizona with long-time associate JB Hunt.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="daimler-trucks,electric-semi-truck,freightliner" data-layer-viewtype="unknown" data-post-id="380837" href="https://electrek.co/2024/09/21/jb-hunt-launches-first-electric-aftermarket-semi-truck-route-in-arizona/#more-380837" class="more-link">more…</a> 
-
-<https://electrek.co/2024/09/21/jb-hunt-launches-first-electric-aftermarket-semi-truck-route-in-arizona/>
-
----
-
-## Mitsubishi Fuso cleans up, putting 89 electric garbage trucks to work in Greece
-
-date: 2024-09-21, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/fuso_e-canter.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Greek cities of Athens and Thessaloniki are popular tourist spots, and those tourists are about to breathe a little bit easier – literally! – thanks to nearly 90 new electric garbage trucks from Mitsubishi Fuso.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="electric-garbage-truck,mitsubishi-fuso" data-layer-viewtype="unknown" data-post-id="380823" href="https://electrek.co/2024/09/21/mitsubishi-fuso-cleans-up-putting-89-electric-garbage-trucks-to-work-in-greece/#more-380823" class="more-link">more…</a> 
-
-<https://electrek.co/2024/09/21/mitsubishi-fuso-cleans-up-putting-89-electric-garbage-trucks-to-work-in-greece/>
 

@@ -1,11 +1,599 @@
 ---
 title: pacific
-updated: 2024-09-28 10:43:09
+updated: 2024-09-29 07:50:37
 ---
 
 # pacific
 
-(date: 2024-09-28 10:43:09)
+(date: 2024-09-29 07:50:37)
+
+---
+
+## Underfunded, understaffed and oft-criticized Guam Memorial Hospital earns multiple awards this year
+
+date: 2024-09-29, from: Pacific Island Times
+
+By Ron Rocky Coloma Guam Memorial Hospital recently received a Bronze medal award from Health Quality Innovators (HQI) through the Health... 
+
+<https://www.pacificislandtimes.com/post/underfunded-understaffed-and-oft-criticized-guam-memorial-hospital-earns-multiple-awards-this-year>
+
+---
+
+## Guam secures federal grant for coral reef protection 
+
+date: 2024-09-29, from: Pacific Island Times
+
+By Pacific Island Times News Staff Guam has received $841,357 in federal funds aimed at preserving and restoring coral reefs and other... 
+
+<https://www.pacificislandtimes.com/post/guam-secures-federal-grant-for-coral-reef-protection>
+
+---
+
+## US southeast faces daunting cleanup from Helene as death toll rises
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA &#8212; Authorities across the southeastern U.S. faced the daunting task on Saturday of cleaning up from Hurricane Helene, one of the most powerful and perhaps costliest storms to hit the country, as the death toll continued to rise.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/nation-world-news/us-southeast-faces-daunting-cleanup-from-helene-as-death-toll-rises/>
+
+---
+
+## ‘This is a disaster’: Western North Carolina reels from Helene
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>ASHEVILLE, N.C. &#8212; Abandoned vehicles caked with mud. Mountainous rural roads and slices of highways washed away into rivers. Parking lots filled with people desperately searching for cellphone service, trying to tell loved ones they are OK &#8212; or wanting to find out who is not.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/nation-world-news/this-is-a-disaster-western-north-carolina-reels-from-helene/>
+
+---
+
+## FDA approves first new schizophrenia drug in decades
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>The Food and Drug Administration on Thursday approved the first novel antipsychotic treatment in decades, a drug developed to treat schizophrenia without disabling side effects like weight gain.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/nation-world-news/fda-approves-first-new-schizophrenia-drug-in-decades/>
+
+---
+
+## Appeals court tosses conviction of Kona man
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>The state Intermediate Court of Appeals has vacated the 2022 conviction and 20-year prison sentence of a Kailua-Kona man for the alleged sexual assault of a minor girl.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/hawaii-news/appeals-court-tosses-conviction-of-kona-man/>
+
+---
+
+## SpaceX launches mission to bring back Starliner astronauts
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>Lifted by a SpaceX Falcon 9 rocket, two astronauts left Earth on Saturday afternoon, headed to the International Space Station.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/nation-world-news/spacex-launches-mission-to-bring-back-starliner-astronauts/>
+
+---
+
+## Trump takes attacks on Harris to a new low, calling her ‘mentally disabled’
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>PRAIRIE DU CHIEN, Wis. &#8212; The day after Vice President Kamala Harris visited the southern border and pledged to crack down on asylum and beef up security, former President Donald Trump unleashed a string of sharply personal attacks on her at a rally Saturday, expressing contempt for her intelligence and calling her &#8220;mentally disabled.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/nation-world-news/trump-takes-attacks-on-harris-to-a-new-low-calling-her-mentally-disabled/>
+
+---
+
+## Nepal floods and landslides kill at least 66 people, 69 missing
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>KATHMANDU &#8212; At least 66 people have been killed in Nepal since early on Friday as persistent downpours triggered flooding and landslides, closing major roads and disrupting domestic air travel, officials said on Saturday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/nation-world-news/nepal-floods-and-landslides-kill-at-least-66-people-69-missing/>
+
+---
+
+## Viewfinders make fall foliage pop for the colorblind in Virginia
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>Like so many other leaf-peeping enthusiasts, Tim Yates ventured out to Virginia&#8217;s Smith Mountain Lake State Park late this summer to see the early whispers of the fall foliage, which would soon give way to bright bursts of orange and red.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/features/viewfinders-make-fall-foliage-pop-for-the-colorblind-in-virginia/>
+
+---
+
+## Hezbollah chief killed in Israel’s torrent of airstrikes on Lebanon
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>Hezbollah, the Lebanese militia, on Saturday confirmed the death of Hassan Nasrallah, its longtime leader, in a strike marking a major escalation of Israel&#8217;s campaign against Iran&#8217;s proxies in the Middle East that could shake up the regional order.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/nation-world-news/hezbollah-chief-killed-in-israels-torrent-of-airstrikes-on-lebanon/>
+
+---
+
+## Before debate, Walz is viewed more favorably than Vance in Midwest, polls find
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>In the contest between Minnesota dad energy and &#8220;Hillbilly Elegy&#8221; energy, Midwestern voters appear to have a clear preference.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/sports/before-debate-walz-is-viewed-more-favorably-than-vance-in-midwest-polls-find/>
+
+---
+
+## Hulihia Ke Ola: A pathway to recovery
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>Big Island Substance Abuse Council&#8217;s Hulihia Ke Ola program on the Big Island is changing the landscape of substance abuse treatment.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/opinion/hulihia-ke-ola-a-pathway-to-recovery/>
+
+---
+
+## Decency in a minefield of hate
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>On Sept. 10, the same day that former President Donald Trump alleged on the debate stage that Haitian immigrants in Springfield, Ohio, have been eating their neighbors&#8217; dogs and cats, a much greater man spoke before the Springfield City Council.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/opinion/decency-in-a-minefield-of-hate/>
+
+---
+
+## The unfair Electoral College: The Nebraska and Maine plan would be better provided every state divided their votes
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>Nebraska has long counted its electoral votes in presidential elections differently than almost every other state in the union. Forty-eight states are winner-take-all, meaning that the candidate who gets the most popular votes gets all of that state&#8217;s electoral votes. A single-vote victory in California or Texas or Florida or New York yields all those states&#8217; 54 or 40 or 30 or 28 electoral votes, putting a candidate well on their way to the 270 electoral votes needed to win the election. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/opinion/the-unfair-electoral-college-the-nebraska-and-maine-plan-would-be-better-provided-every-state-divided-their-votes/>
+
+---
+
+## Obituaries for September 29
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>Gary Marzan Aquino, 51, of Keaau, died Sept. 13 at home. Born in Pangasinan in the Philippines, he was a guest runner with the Hilton Waikoloa Village and a member of the Tagalog Ministry of the Paradise Park Congregation of Jehovah&#8217;s Witnesses. Vistation to be held 9-10 a.m. Friday, Oct. 4 at the Dodo Mortuary Chapel, with funeral at 10 a.m. and burial to follow at the Homelani Memorial Park. Casual attire. Survived by wife Fedeline Aquino of Keaau; sons Gabriel Aquino and Gary Aquino, Jr. of Keaau; stepsons Jaune Jose and J. C. Jose of Keaau; brothers Arnulfo (Noemi) Aquino and Carlito (Leny) Aquino of the Philippines; sisters Lalaine (Loreto) Manipon, Margi Aquino and Edna (Herbin) Navarro of the Philippines; brother-in-law Joseph Umaging of the Philippines; and numerous cousins, nieces and nephews. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/obituaries/obituaries-for-september-29-12/>
+
+---
+
+## Volcano Watch: Understanding magma storage and migration in Kilauea’s active East Rift Zone
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>Kilauea is one of the most active volcanoes in the world with eruptions common both at its summit caldera and within its two rift zones. Frequent earthquakes associated with volcanic activity can help us understand the magma structures below and the East Rift Zone (ERZ) of Kilauea has proven to be a perfect laboratory recently.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/community/volcano-watch-understanding-magma-storage-and-migration-in-kilaueas-active-east-rift-zone/>
+
+---
+
+## Steves: Iceland’s rugged beauty comes from within
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>Iceland&#8217;s remote location and harsh climate aren&#8217;t exactly welcoming. But its striking scenery, draped with glaciers and punctuated by craggy peaks and steamy geysers, makes this destination increasingly attractive to nature-loving travelers.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/features/steves-icelands-rugged-beauty-comes-from-within/>
+
+---
+
+## US grabs 11-7 lead over International team at Presidents Cup
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>The Presidents Cup is tight going into the final day of competition after a long Saturday at Royal Montreal Golf Club.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/sports/us-grabs-11-7-lead-over-international-team-at-presidents-cup/>
+
+---
+
+## Travis Hunter strikes a Heisman pose in Colorado’s blowout win at UCF
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>Travis Hunter is not the betting favorite to win this year&#8217;s Heisman Trophy. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/sports/travis-hunter-strikes-a-heisman-pose-in-colorados-blowout-win-at-ucf/>
+
+---
+
+## Huntley named Dolphins’ starting QB for Monday. And Armstead, Fuller out.
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>MIAMI &#8212; Hometown hero Tyler Huntley will become the Dolphins&#8217; third starting quarterback in three weeks.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/sports/huntley-named-dolphins-starting-qb-for-monday-and-armstead-fuller-out/>
+
+---
+
+## No. 2 Alabama outlasts No. 4 Georgia in second-half thriller
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>TUSCALOOSA, Ala. &#8212; A couple of powerful lessons were learned here at Bryant-Denny Stadium on Saturday night. One, Alabama is still a reckoning force in the SEC under first-year coach Kalen DeBoer. Two, games are 60 minutes long, and the second 30 is just as important as the first.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/sports/no-2-alabama-outlasts-no-4-georgia-in-second-half-thriller/>
+
+---
+
+## White Sox lose 121 games in a season, making history
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>DETROIT &#8212; Friday night in Detroit, as people bought hats and ate hot dogs and sang along to rock anthems, the Chicago White Sox pulled off a staggering feat. They lost their 121st game of the season, vaulting themselves into modern baseball history by breaking the record for most losses, one previously held by the 1962 New York Mets.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/29/sports/white-sox-lose-121-games-in-a-season-making-history/>
+
+---
+
+## Hawaii, six other schools commit to Mountain West
+
+date: 2024-09-29, from: Hawaii Tribune Harold
+
+
+				<p>With limited options, the University of Hawaii signed a pledge of allegiance Thursday to keep its football team in the Mountain West Conference through at least June 30, 2032.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/sports/hawaii-six-other-schools-commit-to-mountain-west/>
+
+---
+
+## Hezbollah confirms Nasrallah is killed after Israeli strike
+
+date: 2024-09-28, updated: 2024-09-28, from: Marianas Variety
+
+JERUSALEM/BEIRUT (Reuters) — Hezbollah leader Sayyed Hassan Nasrallah has been killed, the Iran-backed group said on Saturday, confirming his death after the Israeli military said it had eliminated him in an airstrike in Beirut the day before. 
+
+<https://www.mvariety.com/news/regional_world/hezbollah-confirms-nasrallah-is-killed-after-israeli-strike/article_68a1d710-7d9a-11ef-9dbe-7778d8464ff2.html>
+
+---
+
+## All clear
+
+date: 2024-09-28, updated: 2024-09-28, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/news/local/all-clear/article_e4552a12-7d89-11ef-a9c4-27bdf4ecbc48.html>
+
+---
+
+## This fish evolved legs that it uses to taste stuff on the seafloor
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>The sea robin has fascinated scientists for decades. It has the body of a fish, the wings of a bird and the legs of a crab.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/features/this-fish-evolved-legs-that-it-uses-to-taste-stuff-on-the-seafloor/>
+
+---
+
+## A pygmy hippo is stealing hearts (and biting zookeepers)
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>Defiant, sassy, slippery, chubby, loves to scream. We can all relate.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/features/a-pygmy-hippo-is-stealing-hearts-and-biting-zookeepers/>
+
+---
+
+## Israeli airstrikes rock Beirut, Hezbollah command center hit
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT/JERUSALEM &#8212; A wave of air raids hit Beirut&#8217;s southern suburbs early on Saturday as Israel stepped up attacks on Hezbollah, after a massive strike on the Iran-backed movement&#8217;s command centre that apparently targeted leader Hassan Nasrallah.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/israeli-airstrikes-rock-beirut-hezbollah-command-center-hit/>
+
+---
+
+## Dow hits record after US inflation data
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Treasury yields and the dollar fell while the Dow registered a record closing high on Friday as a subdued U.S. inflation report lifted expectations of an outsized interest rate cut at the Federal Reserve&#8217;s November policy meeting.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/dow-hits-record-after-us-inflation-data/>
+
+---
+
+## Trump, Harris step up efforts to woo Mormon voters
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>Both presidential campaigns have stepped up efforts to court an unlikely group of potential swing voters: Mormons.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/trump-harris-step-up-efforts-to-woo-mormon-voters/>
+
+---
+
+## Mayor Eric Adams pleads not guilty as New Yorkers contemplate what comes next
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A muted but defiant Mayor Eric Adams, in back-to-back appearances inside a federal courthouse in Manhattan and outside its granite facade Friday, professed his innocence of criminal charges including bribery and fraud and stood by as his lawyer railed against the evidence in a case that threatens to topple his embattled administration.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/mayor-eric-adams-pleads-not-guilty-as-new-yorkers-contemplate-what-comes-next/>
+
+---
+
+## Kamala Harris’ campaign thinks she can win on the economy. Here’s how.
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>For many months, it has been an undisputed and durable fact of the 2024 race that former President Donald Trump held a strong political advantage on the most pressing issue to the most voters: the economy.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/kamala-harris-campaign-thinks-she-can-win-on-the-economy-heres-how/>
+
+---
+
+## Maggie Smith, grand dame of stage and screen, dies at 89
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>Maggie Smith, one of the finest British stage and screen actors of her generation, whose award-winning roles ranged from a freethinking Scottish schoolteacher in &#8220;The Prime of Miss Jean Brodie&#8221; to the acid-tongued dowager countess on &#8220;Downton Abbey,&#8221; died Friday in London. She was 89.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/maggie-smith-grand-dame-of-stage-and-screen-dies-at-89/>
+
+---
+
+## US charges Iranians with hacking Trump campaign
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A federal grand jury in Washington has indicted three members of a cyberespionage unit associated with Iran&#8217;s Revolutionary Guard for mounting wide-ranging attacks targeting politicians, officials and journalists that led to the hacking of the Trump campaign this summer.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/us-charges-iranians-with-hacking-trump-campaign/>
+
+---
+
+## Hurricane Helene leaves huge swaths of damage in its wake
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>STEINHATCHEE, Fla. &#8212; Hurricane Helene forged a devastating path of floods and wind damage after slamming into Florida&#8217;s Big Bend region Thursday night, submerging much of the state&#8217;s Gulf Coast before continuing its destructive march through Georgia and into the mountains of Appalachia. More than 40 people were reported dead in four states as the huge storm spawned flash floods and landslides on its way north.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/hurricane-helene-leaves-huge-swaths-of-damage-in-its-wake/>
+
+---
+
+## Biden officials stave off sticker shock on Medicare drug premiums
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>The Biden administration Friday announced that older Americans next year would face lower average monthly premiums for their prescription drugs, a feat achieved by pouring billions of dollars into subsidies for insurers. The move avoided a potential minefield of higher costs affecting the nation&#8217;s most stalwart voters weeks before the presidential election.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/biden-officials-stave-off-sticker-shock-on-medicare-drug-premiums/>
+
+---
+
+## Board projects new Aloha Stadium’s completion for 2028 season
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>The state will likely miss a self-imposed deadline Monday, but Stadium Authority board members said at Thursday&#8217;s monthly meeting they don&#8217;t see it affecting the overall timeline that still has a new Aloha Stadium in Halawa built in time for the 2028 football season.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/sports/board-projects-new-aloha-stadiums-completion-for-2028-season/>
+
+---
+
+## The Fed’s preferred inflation gauge cooled in August
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>Inflation cooled in August, the latest sign of progress in the Federal Reserve&#8217;s yearslong fight to bring rapid price increases back under control.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/the-feds-preferred-inflation-gauge-cooled-in-august/>
+
+---
+
+## Anti-Doping agency lost track of open cases and test results before Olympics
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>Just weeks before this summer&#8217;s Olympics in Paris, officials at the headquarters of the World Anti-Doping Agency got some startling news.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/sports/anti-doping-agency-lost-track-of-open-cases-and-test-results-before-olympics/>
+
+---
+
+## Caitlin Clark wins Rookie of the Year, Napheesa Collier DPOY
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>Indiana Fever superstar Caitlin Clark is the WNBA&#8217;s Rookie of the Year, The Athletic reported Friday night.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/sports/caitlin-clark-wins-rookie-of-the-year-napheesa-collier-dpoy/>
+
+---
+
+## Taylor Swift encouraged us to do election research. But how?
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>I&#8217;m an independent who has voted for Democrats and Republicans over the years, and what I appreciated most about Taylor Swift&#8217;s presidential endorsement was that she didn&#8217;t tell people what to think or who to vote for. What she did do was outline a thoughtful process and share where she came out.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/opinion/taylor-swift-encouraged-us-to-do-election-research-but-how/>
+
+---
+
+## Trump’s crypto grift is the last thing America needs
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>In such a dispiriting campaign season, it&#8217;s tempting to tune out each new outrage. Even so, former President Donald Trump&#8217;s continued promotion of a sketchy new crypto project mere weeks before the presidential election merits comment. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/opinion/trumps-crypto-grift-is-the-last-thing-america-needs/>
+
+---
+
+## DPW not double charging GDOE for bus operations
+
+date: 2024-09-28, from: Guam Daily Post
+
+The Department of Public Works cleared up confusion regarding services it provides to the Guam Department of Education busing students to and from school, specifically pertaining to payment and funding for those services. 
+
+<https://www.postguam.com/news/local/dpw-not-double-charging-gdoe-for-bus-operations/article_c0b74d22-7d31-11ef-b8e6-33d819493b89.html>
+
+---
+
+## UOG’s Peralta wins Cayuse productivity award
+
+date: 2024-09-28, from: Guam Daily Post
+
+Pamela Peralta, interim vice provost of research and sponsored programs and director of grants and contracts at the University of Guam, was recently awarded a Productivity Award from Cayuse, a research software company whose programs track and manage research grants… 
+
+<https://www.postguam.com/news/local/uog-s-peralta-wins-cayuse-productivity-award/article_7322903a-7c7d-11ef-983f-83aa9d1c3c03.html>
+
+---
+
+## $2.7M awarded to enhance support for victims of family violence, sexual assault
+
+date: 2024-09-28, from: Guam Daily Post
+
+The effort to combat family violence and sexual assault is now backed by $2.7 million in grants that will bring about enhanced support for those who have been victimized. 
+
+<https://www.postguam.com/news/local/2-7m-awarded-to-enhance-support-for-victims-of-family-violence-sexual-assault/article_832c3a9a-7d30-11ef-967f-d74d8ea94e3e.html>
+
+---
+
+## Panthers gel, drop Warriors in 4 sets
+
+date: 2024-09-28, from: Guam Daily Post
+
+At the start of the Independent Interscholastic Athletic Association of Guam 2024-2025 girls varsity volleyball season, the Guam High School Panthers were loaded with talent but lacked experience as a cohesive unit. But several weeks into the season, the team… 
+
+<https://www.postguam.com/sports/local/panthers-gel-drop-warriors-in-4-sets/article_196f8288-7d21-11ef-be4d-dbbf8247f6b3.html>
+
+---
+
+## SHS inspection continues, IMS, Chief Brodie to be inspected this week
+
+date: 2024-09-28, from: Guam Daily Post
+
+The Guam Department of Education has three schools that are still closed pending the completion and passing of sanitary inspections, according to education officials on Friday. 
+
+<https://www.postguam.com/news/local/shs-inspection-continues-ims-chief-brodie-to-be-inspected-this-week/article_81d4d4e4-7d31-11ef-abd6-0b49f4413194.html>
+
+---
+
+## UOG marine lab scientists discover gene for climate change resilience in soft corals
+
+date: 2024-09-28, from: Guam Daily Post
+
+A researcher at the University of Guam marine laboratory led a team of scientists who discovered a unique gene found in soft corals that helps them recover from the stress of climate change, according to a press release from UOG. 
+
+<https://www.postguam.com/news/local/uog-marine-lab-scientists-discover-gene-for-climate-change-resilience-in-soft-corals/article_3751a766-7c83-11ef-9dcc-cf50a07d4a74.html>
+
+---
+
+## Inmate allegedly found with shank in cell
+
+date: 2024-09-28, from: Guam Daily Post
+
+An inmate housed in maximum security at the Department of Corrections in Mangilao allegedly had contraband hidden in his cell, according to a magistrate's complaint filed in the Superior Court of Guam on Thursday. 
+
+<https://www.postguam.com/news/local/inmate-allegedly-found-with-shank-in-cell/article_3a81bc4c-7c5a-11ef-810f-a77a032e87db.html>
+
+---
+
+## Governor cancels tropical storm conditions
+
+date: 2024-09-28, updated: 2024-09-28, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/news/local/governor-cancels-tropical-storm-conditions/article_1de505c4-7d47-11ef-8d91-6f01971c11e0.html>
 
 ---
 
@@ -3520,276 +4108,4 @@ date: 2024-09-22, from: Guam Daily Post
 A magistrate's complaint filed in the Superior Court of Guam against Marvin Pagaduan Abella accuses him of tossing drugs out of his car while fleeing Guam Police Department officers who were attempting to pull him over on Thursday. 
 
 <https://www.postguam.com/news/local/man-allegedly-tossed-meth-eluded-police/article_6eafa8a8-77af-11ef-83be-f3d5391d825f.html>
-
----
-
-## It’s surreal when the lie machine comes for your hometown
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>Whether it&#8217;s TikTok or Instagram or Snapchat or some yet-to-be-released app sure to enrapture its users, it&#8217;s pretty clear &#8212; to us, at least &#8212; that too many young people are now spending too much of their time falling all the way down shallow-yet-deep online rabbit holes designed by profit-hungry companies to draw them in.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/opinion/its-surreal-when-the-lie-machine-comes-for-your-hometown/>
-
----
-
-## Nation and world news in brief for September 21
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>Six weeks from &#0010;Election Day, &#0010;some in-person &#0010;voting begins</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/nation-and-world-news-in-brief-for-september-21/>
-
----
-
-## Democrats seize on Robinson scandal, hoping to sink Trump in a key state
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>A scandal engulfing Lt. Gov. Mark Robinson of North Carolina, the Republican nominee for governor, has Democrats feeling even more optimistic about Vice President Kamala Harris&#8217; chances of winning a pivotal swing state. </p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/democrats-seize-on-robinson-scandal-hoping-to-sink-trump-in-a-key-state/>
-
----
-
-## Georgia Election Board orders hand-counting of ballots
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>The Georgia State Election Board voted Friday to force counties to hand-count all ballots cast on Election Day, a move critics say could significantly delay the reporting of results in the battleground state and inject chaos into the postelection period.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/georgia-election-board-orders-hand-counting-of-ballots/>
-
----
-
-## A concert celebrates Jimmy Carter’s 100th birthday, with music and thanks
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>ATLANTA &#8212; The night included gospel hymns and &#8220;America the Beautiful&#8221; and the B-52s lighting up the Fox Theater, one of the oldest auditoriums in Atlanta, with a performance of &#8220;Love Shack.&#8221; In one moment, the crowd was on its feet as Ang&#0233;lique Kidjo, the acclaimed Beninese musician, sang and danced. In another, they shimmied and sang along to a cover of &#8220;Ramblin&#8217; Man.&#8221; </p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/a-concert-celebrates-jimmy-carters-100th-birthday-with-music-and-thanks/>
-
----
-
-## Three Mile Island plans to reopen as demand for nuclear power grows
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>In a striking sign of renewed interest in nuclear power, Constellation Energy said Friday that it plans to reopen the shuttered Three Mile Island nuclear plant in Pennsylvania, the site of the worst reactor accident in United States history. </p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/three-mile-island-plans-to-reopen-as-demand-for-nuclear-power-grows/>
-
----
-
-## Biden, ‘Quad’ leaders to talk maritime security as China tensions grow
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Tensions brewing in Asia&#8217;s trade-rich waters top the agenda as U.S. President Joe Biden welcomes leaders from Australia, India and Japan to his Delaware hometown for a diplomatic push to counter China in the waning months of his presidency. </p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/biden-quad-leaders-to-talk-maritime-security-as-china-tensions-grow/>
-
----
-
-## Kentucky town is shaken after local sheriff is charged with killing judge
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>WHITESBURG, Ky. &#8212; When Judge Kevin Mullins and Sheriff Shawn Stines, two longtime officials in a rural eastern Kentucky county, were seen getting ready to go to lunch Thursday, there was no obvious indication of ill will. </p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/kentucky-town-is-shaken-after-local-sheriff-is-charged-with-killing-judge/>
-
----
-
-## 76ers sign Joel Embiid to three-year, $193M extension
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>Joel Embiid signed a max-level extension with the Philadelphia 76ers on Friday. </p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/sports/76ers-sign-joel-embiid-to-three-year-193m-extension/>
-
----
-
-## ‘Matlock’ review: Kathy Bates stars, but this is not your grandparents’ legal drama
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>The original &#8220;Matlock,&#8221; which aired from 1986 to 1995, was a reimagining of the long-running &#8220;Perry Mason&#8221; legal drama. But instead of a hardnosed attorney at the center of its case-of-the-week format, &#8220;Matlock&#8221; leveraged star Andy Griffith&#8217;s ability to play deceptively unthreatening, and then, in a climatic courtroom showdown, remarkably effective, even lacerating. With the new version of &#8220;Matlock&#8221; on CBS, it&#8217;s best to go into it understanding that it&#8217;s not a reboot so much as a show with a tenuous connection to the intellectual property of its title. But nothing gets green-lit today unless it&#8217;s IP, so here we are.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/entertainment/matlock-review-kathy-bates-stars-but-this-is-not-your-grandparents-legal-drama/>
-
----
-
-## A safer ‘net for kids: The Kids Online Safety Act is worth passing
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>Whether it&#8217;s TikTok or Instagram or Snapchat or some yet-to-be-released app sure to enrapture its users, it&#8217;s pretty clear &#8212; to us, at least &#8212; that too many young people are now spending too much of their time falling all the way down shallow-yet-deep online rabbit holes designed by profit-hungry companies to draw them in.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/opinion/a-safer-net-for-kids-the-kids-online-safety-act-is-worth-passing/>
-
----
-
-## Challenge to US drug price negotiation program revived by appeals court
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>A U.S. appeals court revived a lawsuit on Friday by healthcare and drug industry groups challenging the first-ever U.S. law requiring pharmaceutical companies to negotiate drug prices with the government&#8217;s Medicare health insurance program that covers 66 million people. </p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/challenge-to-us-drug-price-negotiation-program-revived-by-appeals-court/>
-
----
-
-## The power of a smaller breast
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>The women walk into the surgeons&#8217; offices with photos cued up on their phones. Miley Cyrus. Keira Knightley. Bella Hadid. &#8220;I want my breasts to look like this,&#8221; they say. They&#8217;ve already spent hours on YouTube watching plastic surgeons&#8217; infomercials; on Instagram poring over before-and-afters; and on TikTok, where an army of ordinary women post about their breast reductions. &#8220;Ask me,&#8221; they say &#8212; whether their nipple sensation has changed, what their boyfriends said, whether they cared. </p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/features/the-power-of-a-smaller-breast/>
-
----
-
-## FTC sues drug middlemen over manipulating insulin market
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>The U.S. Federal Trade Commission sued units of CVS Health Corp., Cigna Group and UnitedHealth Group Inc. on Friday, accusing the drug middlemen of engaging in illegal rebate programs that drove up the price of insulin.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/ftc-sues-drug-middlemen-over-manipulating-insulin-market/>
-
----
-
-## US Supreme Court declines to restore Green Party to Nevada ballot
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The U.S. Supreme Court declined on Friday to restore the Green Party to the Nevada ballot, cementing a bid by Democrats to keep the party and its presidential candidate Jill Stein from competing in this battleground state in the Nov. 5 election. </p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/us-supreme-court-declines-to-restore-green-party-to-nevada-ballot/>
-
----
-
-## Top Hezbollah commander among 14 killed in Israeli strike on Beirut
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>BEIRUT/JERUSALEM &#8212; Israel killed a top Hezbollah commander and other senior figures in the Lebanese movement in an airstrike on Beirut on Friday, vowing to press on with a new military campaign until it is able to secure the area around the Lebanese border.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/nation-world-news/top-hezbollah-commander-among-14-killed-in-israeli-strike-on-beirut/>
-
----
-
-## What the Dolphins final injury report reveals. And encouraging development on Tagovailoa
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>The Dolphins listed running back Raheem Mostert and receiver Malik Washington as doubtful for Sunday&#8217;s game at Seattle (4:05 p.m., CBS). </p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/sports/what-the-dolphins-final-injury-report-reveals-and-encouraging-development-on-tagovailoa/>
-
----
-
-## Sports briefs: BIIF seeking coaches
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>Kohala seeking coaches</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/sports/sports-briefs-biif-seeking-coaches/>
-
----
-
-## UHH soccer: Men win thriller, women blank competition
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>SEASIDE, California &#8211; No. 21 UH-Hilo man&#8217;s soccer pulled the rabbit out of the hat with back-to-back scores late in the waning minutes to complete an epic comeback in a 3-2 victory over Cal State Monterey Bay Thursday evening at Cardinale Stadium.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/sports/uhh-soccer-men-win-thriller-women-blank-competition/>
-
----
-
-## BIIF football:   ‘Riders fall to visiting Sabers; HPA routs Pahoa
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p>KEALAKEHE &#8212; Maui football flew to the Big Island on Thursday evening for a non-conference matchup against Kealakehe. In a game filled with turnovers and minor injuries, the Sabers left the Waverider Stadium with a 39-7 win &#8212; their second of 2024.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/sports/biif-football-riders-fall-to-visiting-sabers-hpa-routs-pahoa/>
-
----
-
-## Week 3 NFL capsules
-
-date: 2024-09-21, from: Hawaii Tribune Harold
-
-
-				<p><strong>SAN FRANCISCO 49ERS (1-1) AT LOS ANGELES RAMS (0-2) </strong></p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/21/sports/week-3-nfl-capsules/>
-
----
-
-## Two Kanaks shot dead by French police in New Caledonia decried as ‘assassinations’
-
-date: 2024-09-21, from: Pacific Island Times
-
-Tensions are high ahead of the 171st anniversary of French colonial occupation of New Caledonia next week By Stefan Armbruster and Harry... 
-
-<https://www.pacificislandtimes.com/post/two-kanaks-shot-dead-by-french-police-in-new-caledonia-decried-as-assassinations>
-
----
-
-## Fijian pottery: Once-functional household items turned knick-knacks for tourists
-
-date: 2024-09-21, from: Pacific Island Times
-
-Pottery making has existed in Fiji for 3,000 years as part of its cultural tradition, but tourism has changed the production of Fijian... 
-
-<https://www.pacificislandtimes.com/post/fijian-pottery-once-functional-household-items-turned-knick-knacks-for-tourists>
 

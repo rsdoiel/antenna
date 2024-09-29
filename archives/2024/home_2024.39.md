@@ -1,11 +1,123 @@
 ---
 title: home
-updated: 2024-09-28 10:43:14
+updated: 2024-09-29 07:50:44
 ---
 
 # home
 
-(date: 2024-09-28 10:43:14)
+(date: 2024-09-29 07:50:44)
+
+---
+
+## 18 Types of Hickory Trees (Pictures and Leaves Identification)
+
+date: 2024-09-29, from: Yard Life blog
+
+<p>Hickory trees, known for their strength and resilience, belong to the genus Carya and are native to North America and ... </p>
+<p class="read-more-container"><a title="18 Types of Hickory Trees (Pictures and Leaves Identification)" class="read-more button" href="https://ownyardlife.com/18-types-of-hickory-trees-pictures-and-leaves-identification/#more-19927" aria-label="Read more about 18 Types of Hickory Trees (Pictures and Leaves Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/18-types-of-hickory-trees-pictures-and-leaves-identification/">18 Types of Hickory Trees (Pictures and Leaves Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/18-types-of-hickory-trees-pictures-and-leaves-identification/>
+
+---
+
+## 19 Types of Walnut Trees (Pictures and Leaves Identification)
+
+date: 2024-09-29, from: Yard Life blog
+
+<p>Walnut trees are not only celebrated for their delicious nuts but also for their stunning beauty and diverse characteristics. With ... </p>
+<p class="read-more-container"><a title="19 Types of Walnut Trees (Pictures and Leaves Identification)" class="read-more button" href="https://ownyardlife.com/19-types-of-walnut-trees-pictures-and-identification/#more-19892" aria-label="Read more about 19 Types of Walnut Trees (Pictures and Leaves Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/19-types-of-walnut-trees-pictures-and-identification/">19 Types of Walnut Trees (Pictures and Leaves Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/19-types-of-walnut-trees-pictures-and-identification/>
+
+---
+
+## 24 Types of Poplar Trees (Pictures and Leaves Identification)
+
+date: 2024-09-28, from: Yard Life blog
+
+<p>Poplar trees are a diverse group of fast-growing deciduous trees found across various regions of the world. Known for their ... </p>
+<p class="read-more-container"><a title="24 Types of Poplar Trees (Pictures and Leaves Identification)" class="read-more button" href="https://ownyardlife.com/24-types-of-poplar-trees-pictures-and-leaves-identification/#more-19850" aria-label="Read more about 24 Types of Poplar Trees (Pictures and Leaves Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/24-types-of-poplar-trees-pictures-and-leaves-identification/">24 Types of Poplar Trees (Pictures and Leaves Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/24-types-of-poplar-trees-pictures-and-leaves-identification/>
+
+---
+
+## The Smart Details That Turned This Kitchen into a Family-Friendly Space
+
+date: 2024-09-28, from: Sunset Magazine - Living in the West
+
+This kitchen had been recently remodeled, but was in need of a revamp for a growing family. A designer gave it family-friendly details. 
+
+<https://www.sunset.com/home-garden/home-tours/silver-lake-kitchen-before-after>
+
+---
+
+## The Owners Changed All 51 Windows in This Mid-Century Modern Home
+
+date: 2024-09-28, from: Sunset Magazine - Living in the West
+
+This Buff & Hensman house was originally falling apart, but had good bones. The owners restored it to its original beauty. 
+
+<https://www.sunset.com/home-garden/home-tours/buff-hensman-pasadena-house>
+
+---
+
+## This Dramatic Home Makeover Is Proof You Don’t Need to Do a Full Demo
+
+date: 2024-09-28, from: Sunset Magazine - Living in the West
+
+Sometimes you don’t need to a full-blown, down-to-the-studs renovation. This Berkeley Hills house was updated with smart design choices. 
+
+<https://www.sunset.com/home-garden/home-tours/berkeley-hills-no-demo-makeover>
+
+---
+
+## From a Natural Wine Bar to a Historic Saloon, Here’s Where to Drink in the West Right Now
+
+date: 2024-09-28, from: Sunset Magazine - Living in the West
+
+From the oldest bar in Nevada to a natural wine bar, these are the best places to enjoy a drink in the West. 
+
+<https://www.sunset.com/travel/best-bars-in-west-2024>
+
+---
+
+## These Ridiculously Delicious Yakitori Recipes Will Have You Grilling This Fall
+
+date: 2024-09-28, from: Sunset Magazine - Living in the West
+
+Tsubaki, one of the West's best izakayas, cooks a California-inflected Japanese grilled feast with recipes fit for fall. 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/tsubaki-yakitori-japanese-grilling>
+
+---
+
+## This Is the Biggest Trend in Luxury Travel—And It May Help You Live Longer
+
+date: 2024-09-28, from: Sunset Magazine - Living in the West
+
+Spa retreats and weight-loss focussed detox programs are so passé. A new trend in longevity tourism is taking over the world of travel. 
+
+<https://www.sunset.com/travel/longevity-retreats-travel-trend>
+
+---
+
+## In-Depth Peperomia Plant Care and Cultivation Guide
+
+date: 2024-09-28, from: Yard Life blog
+
+<p>Peperomia plants have gained popularity among indoor gardening enthusiasts for their unique foliage, diverse varieties, and low-maintenance care requirements. With ... </p>
+<p class="read-more-container"><a title="In-Depth Peperomia Plant Care and Cultivation Guide" class="read-more button" href="https://ownyardlife.com/in-depth-peperomia-plant-care-and-cultivation-guide/#more-19831" aria-label="Read more about In-Depth Peperomia Plant Care and Cultivation Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/in-depth-peperomia-plant-care-and-cultivation-guide/">In-Depth Peperomia Plant Care and Cultivation Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/in-depth-peperomia-plant-care-and-cultivation-guide/>
 
 ---
 
@@ -394,16 +506,6 @@ date: 2024-09-25, from: Family Handyman Blog
 
 ---
 
-## These Ridiculously Delicious Yakitori Recipes Will Have You Grilling This Fall
-
-date: 2024-09-25, from: Sunset Magazine - Living in the West
-
-Tsubaki, one of the West's best izakayas, cooks a California-inflected Japanese grilled feast with recipes fit for fall. 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/tsubaki-yakitori-japanese-grilling>
-
----
-
 ## Dehydrating Apples: How to Make Apple Chips in a Dehydrator, Oven or Air Fryer
 
 date: 2024-09-25, from: Homestead and Chil
@@ -766,16 +868,6 @@ Designed in 1958, the L-shaped home pairs red masonry with weathered wood and fl
 
 ---
 
-## This Is the Biggest Trend in Luxury Travel—And It May Help You Live Longer
-
-date: 2024-09-24, from: Sunset Magazine - Living in the West
-
-Spa retreats and weight-loss focussed detox programs are so passé. A new trend in longevity tourism is taking over the world of travel. 
-
-<https://www.sunset.com/travel/longevity-retreats-travel-trend>
-
----
-
 ## What the Paint Colors of 2025 Tell Us About Where Interior Design Is Headed
 
 date: 2024-09-24, from: Family Handyman Blog
@@ -997,57 +1089,4 @@ date: 2024-09-22, from: Yard Life blog
  
 
 <https://ownyardlife.com/60-florida-moths-moths-in-florida-with-pictures-identification/>
-
----
-
-## What to Do on Oahu, According to a Local Surfer
-
-date: 2024-09-21, from: Sunset Magazine - Living in the West
-
-Expert advice on the best spots to visit to Oahu, Hawaii's North Shore, from a shave ice spot to surf lessons to a feel-good cafe. 
-
-<https://www.sunset.com/travel/insider-guides/north-shore-oahu-things-to-do>
-
----
-
-## 5 Must-Visit Markets and Bakeries in the West
-
-date: 2024-09-21, from: Sunset Magazine - Living in the West
-
-These are the best bakeries and markets for picking up a snack or an edible souvenir in the West. Shop there on your next trip. 
-
-<https://www.sunset.com/travel/best-markets-and-bakeries-in-west-2024>
-
----
-
-## Immerse Yourself in Nature at These Camps, Lodges, and Hotels
-
-date: 2024-09-21, from: Sunset Magazine - Living in the West
-
-Fans of the outdoors and even those who aren't will appreciate a stay at these amazing nature resorts and hotels in the West. 
-
-<https://www.sunset.com/travel/best-nature-resorts-hotels-2024>
-
----
-
-## This Airport Is the Secret to Seamless Travel (and It Was Just Named the Best in the U.S.)
-
-date: 2024-09-21, from: Sunset Magazine - Living in the West
-
-John Wayne Airport in Orange County, California has been recognized as one of the best large airports according to latest J.D. Power. 
-
-<https://www.sunset.com/travel/john-wayne-airport-best-airport-in-the-us>
-
----
-
-## 13 California Toads (Toads in California with Pictures, Identification)
-
-date: 2024-09-21, from: Yard Life blog
-
-<p>California toads are a diverse group of amphibians that inhabit various ecosystems across the state, from coastal regions to arid ... </p>
-<p class="read-more-container"><a title="13 California Toads (Toads in California with Pictures, Identification)" class="read-more button" href="https://ownyardlife.com/13-california-toads-toads-in-california-with-pictures-identification/#more-19488" aria-label="Read more about 13 California Toads (Toads in California with Pictures, Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/13-california-toads-toads-in-california-with-pictures-identification/">13 California Toads (Toads in California with Pictures, Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<https://ownyardlife.com/13-california-toads-toads-in-california-with-pictures-identification/>
 

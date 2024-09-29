@@ -1,11 +1,81 @@
 ---
 title: games
-updated: 2024-09-28 10:43:12
+updated: 2024-09-29 07:50:43
 ---
 
 # games
 
-(date: 2024-09-28 10:43:12)
+(date: 2024-09-29 07:50:43)
+
+---
+
+## 5 Walking Dead universe characters Daryl Dixon wasn’t romantically involved with — and 1 he was
+
+date: 2024-09-29, updated: 2024-09-27, from: Polygon Website
+
+The love life of Daryl Dixon is a maddening series of might-have-beens, whether you’re watching from the sidelines or championing your OTP of choice. His journey is still unfolding on The Walking Dead: Daryl Dixon – The Book of Carol, but it’s difficult to imagine him getting attached to anyone after so many dead ends.&#160; [&#8230;] 
+
+<https://www.polygon.com/tv/457630/twd-daryl-dixon-carol-ship-romance-where-who-walking-dead>
+
+---
+
+## Living alt-history election dreams — and nightmares — in The Campaign Trail
+
+date: 2024-09-29, updated: 2024-09-27, from: Polygon Website
+
+It’s 1971. Your top aide approaches you in the Oval Office. “As president,” he says, “you have authorized numerous dirty tricks straight out of the White House, like wiretapping and break-ins. Much of this stemmed from your paranoia over leaks of the secret bombing of Cambodia. Among those targeted by the White House ‘Plumbers’ have [&#8230;] 
+
+<https://www.polygon.com/gaming/457588/living-alt-history-election-dreams-and-nightmares-in-the-campaign-trail>
+
+---
+
+## Nier: Automata Ver1.1a is the sleeper hit of the anime season
+
+date: 2024-09-28, updated: 2024-09-27, from: Polygon Website
+
+After being left feeling deflated by the first episode of Nier: Automata Ver1.1a, an adaptation of the outstanding video game from Yoko Taro and PlatinumGames, I didn’t think I’d return to it. It played like what a cynic would expect: an almost one-to-one recreation but with uglier 3D animation; it felt like it was missing [&#8230;] 
+
+<https://www.polygon.com/anime/457315/nier-automata-ver1-1a-review-good-actually>
+
+---
+
+## Sleep turns sleepwalking into a supernatural slasher — and it’s wicked fun
+
+date: 2024-09-28, updated: 2024-09-27, from: Polygon Website
+
+Train to Busan, The Wailing, A Tale of Two Sisters, I Saw the Devil — the Korean horror movies that have crossed over and popped in the States have been intense, often sprawling films that teeter on the edge of thriller. Their nightmares linger. So Sleep, now in U.S. theaters, was an immediate surprise, simply [&#8230;] 
+
+<https://www.polygon.com/movies/457288/sleep-movie-2024-review>
+
+---
+
+## What is Alan Tudyk&#8217;s secret role in Superman?
+
+date: 2024-09-28, updated: 2024-09-27, from: Polygon Website
+
+Even as a diehard Man of Steel advocate, I am excited for James Gunn’s new take on Superman. It’s the DCU’s first major project since Gunn was named co-CEO of DC Studios, offering a reset on the DC Universe and a chance for a fresh new face in the iconic red and blue. David Corenswet [&#8230;] 
+
+<https://www.polygon.com/dc/457411/alan-tudyk-superman-movie-role-casting-who>
+
+---
+
+## The best movies leaving Netflix, Max, and Prime at the end of September 2024
+
+date: 2024-09-28, updated: 2024-09-28, from: Polygon Website
+
+We’re almost to the end of the month, and that means a lot of coming and going on every major streaming platform. And while plenty of exciting movies are on the way in October, with plenty of great spooky options to choose from, we’re here to make sure you don’t miss the gems leaving at [&#8230;] 
+
+<https://www.polygon.com/what-to-watch/455795/best-movies-netflix-amazon-hulu-leaving-september-2024>
+
+---
+
+## I started building my neighborhood in The Sims and now I feel like a creep 
+
+date: 2024-09-28, updated: 2024-09-27, from: Polygon Website
+
+In the opening scene of Alfred Hitchcock’s Rear Window, a panning camera shows the outside of buildings and gives the viewer a glimpse inside the apartments. From the floating vantage point, you can see the ongoings of neighbors as they start their days. The view of the camera helps set the scene for the movie, [&#8230;] 
+
+<https://www.polygon.com/gaming/457097/sims-4-recreating-neighborhoood>
 
 ---
 
@@ -576,44 +646,4 @@ date: 2024-09-22, updated: 2024-09-20, from: Polygon Website
 In Groundhog Day, some unexplained force — maybe celestial, certainly moral — traps misanthropic weatherman Bill Murray in a single, repeated day until he sheds his attitude and becomes a better person. In Palm Springs, shiftless wedding guests Andy Samberg and Cristin Milioti fall into a time-loop vortex, a freak of astrophysics, in a cave. [&#8230;] 
 
 <https://www.polygon.com/movies/454713/omni-loop-review-time-loop-films>
-
----
-
-## My Old Ass director says Aubrey Plaza didn’t need to look like her time-traveling younger self to be perfect
-
-date: 2024-09-21, updated: 2024-09-20, from: Polygon Website
-
-In the new time-travel comedy My Old Ass, Maisy Stella and Aubrey Plaza play two versions of the same character, Elliott: One is a young, confident teenager, and the other is her older self. The two actors don’t really look like picture-perfect matches. But My Old Ass director Megan Park said that she was looking [&#8230;] 
-
-<https://www.polygon.com/movies/453868/my-old-ass-aubrey-plaza-director-interview>
-
----
-
-## Zack Snyder’s new Netflix show is his take on The Boys
-
-date: 2024-09-21, updated: 2024-09-20, from: Polygon Website
-
-“Fuck the gods” is a sentiment that feels like it’s everywhere right now, from the more literal interpretation of Netflix’s Kaos to the variety of “eat the rich” narratives tapping into the simmering anger at the present growing inequality. Ragnarök, the mythological end of many of the gods in a fit of brutal battle and [&#8230;] 
-
-<https://www.polygon.com/animation-cartoons/453927/snyder-netflix-animated-show-twilight-gods-review>
-
----
-
-## The best sci-fi movies to watch on Netflix this September
-
-date: 2024-09-21, updated: 2024-09-20, from: Polygon Website
-
-We’re more than halfway through September, and the release calendar is finally starting to heat up, especially for sci-fi fans. Transformers One, the animated prequel from director Josh Cooley (Toy Story 4), comes out this weekend alongside The Substance, the new body horror film starring Demi Moore and Margaret Qualley. That’s not even mentioning Megalopolis, [&#8230;] 
-
-<https://www.polygon.com/what-to-watch/452423/best-sci-fi-movies-watch-netflix-september-2024>
-
----
-
-## Hades is unmatched when it comes to video game storytelling
-
-date: 2024-09-21, updated: 2024-09-20, from: Polygon Website
-
-I’m often let down by game stories. With rare exceptions —&#160;Half-Life, Shadow of the Colossus, games that knew when to shut the hell up —&#160;I’ve found them tiresome, forgettable, and frustratingly aping film and television stories. Bad writing isn’t to blame. There are many smart, well-crafted stories in video games lessened by the need to [&#8230;] 
-
-<https://www.polygon.com/analysis/454550/hades-best-video-game-story>
 
