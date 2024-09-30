@@ -1,11 +1,41 @@
 ---
 title: food
-updated: 2024-09-29 07:50:49
+updated: 2024-09-29 21:08:29
 ---
 
 # food
 
-(date: 2024-09-29 07:50:49)
+(date: 2024-09-29 21:08:29)
+
+---
+
+## Strawberry Cheesecake Tacos
+
+date: 2024-09-30, from: Taste of Home
+
+Sweet, creamy and crunchy, these strawberry cheesecake tacos are a fun twist on a classic dessert. 
+
+<https://www.tasteofhome.com/recipes/strawberry-cheesecake-tacos/>
+
+---
+
+## French Onion Chicken Casserole
+
+date: 2024-09-29, from: Taste of Home
+
+Besides being warm and wonderful on a chilly day, a casserole is fun to make because it all comes together in one pan. This French onion chicken casserole is the perfect example; it uses cream of mushroom soup, French onion dip and a little Dijon mustard to create a tasty sauce for the chicken within it. 
+
+<https://www.tasteofhome.com/recipes/french-onion-chicken-casserole/>
+
+---
+
+## Baked Peaches
+
+date: 2024-09-29, from: Taste of Home
+
+A dessert that looks great on the plate and tastes even better, these easy baked peaches are a must when this favorite stone fruit is in season. 
+
+<https://www.tasteofhome.com/recipes/baked-peaches-2/>
 
 ---
 
@@ -16,6 +46,32 @@ date: 2024-09-29, from: The Sprudge
 <strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. We get asked by friends and family where to buy coffee a lot. It&#8217;s a tough question! It&#8217;s easy to lose track of just how many incredible, fresh, vibrant coffees [&#8230;] 
 
 <https://sprudge.com/we-think-youll-love-these-delicious-specialty-coffee-selections-255893.html>
+
+---
+
+## 31 Perfect Pumpkin Recipes
+
+date: 2024-09-29, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/09/31-Perfect-Pumpkin-Recipes.jpg"/></div>
+<p>31 easy pumpkin recipes for October, one for each day in the month of pumpkins! Whether you roast your own pumpkin or use canned pumpkin puree these pumpkin recipes are perfect! Pumpkins are everywhere and it&#8217;s the perfect time to take advantage of them because they won&#8217;t last long. Although pumpkin pie seems to get...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/31-pumpkin-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/31-pumpkin-recipes/">31 Perfect Pumpkin Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<https://www.closetcooking.com/31-pumpkin-recipes/>
+
+---
+
+## Our Favorite Ceramic Cookware Brand, GreenPan, Just Teamed Up with Bobby Flay
+
+date: 2024-09-29, from: Taste of Home
+
+<p>Pretty, meet practical. Here's why we love this new Bobby Flay cookware line from GreenPan. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/bobby-flay-greenpan-cookware/">Our Favorite Ceramic Cookware Brand, GreenPan, Just Teamed Up with Bobby Flay</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/bobby-flay-greenpan-cookware/>
 
 ---
 

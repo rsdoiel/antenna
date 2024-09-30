@@ -1,11 +1,31 @@
 ---
 title: motorcycles
-updated: 2024-09-29 07:50:46
+updated: 2024-09-29 21:08:27
 ---
 
 # motorcycles
 
-(date: 2024-09-29 07:50:46)
+(date: 2024-09-29 21:08:27)
+
+---
+
+## Chase Elliott Overcomes Pre-Race Engine Woes for Kansas Top-10
+
+date: 2024-09-30, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor Engine issues at the start of the Hollywood Casino 400 race weekend forced Chase Elliott to rally throughout the first race of the Round of&#8230;  
+
+<https://kickinthetires.net/nascar/chase-elliott-overcomes-pre-race-engine-woes-for-kansas-top-10/>
+
+---
+
+## Honda To Update Rebel 1100 Cruiser, Could Get New Touring Variant
+
+date: 2024-09-29, from: Ride Apart, Electric Motorcycle News
+
+It’s expected to break cover at EICMA and Intermot later this year.  
+
+<https://www.rideapart.com/news/735149/2025-rebel-1100-updates-coming-soon/>
 
 ---
 

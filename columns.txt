@@ -13,6 +13,7 @@ https://medium.com/feed/@dsearls "~Doc Searls on Medium"
 https://economicsfromthetopdown.com/feed/ "~Economics from the Top-Down"
 https://jvns.ca/atom.xml "~Julia Evans blog"
 https://liam-on-linux.dreamwidth.org/data/rss "~Liam on Linux"
+https://lproven.dreamwidth.org/data/rss "~Liam Proven blog"
 https://om.co/feed/ "~Om Malik blog"
 https://ptsefton.com/feed/atom "~Peter Sefton's Blog"
 https://daniel.haxx.se/blog/feed/ "~Daniel Stenberg Blog"
@@ -43,10 +44,15 @@ https://www.schneier.com/feed/atom/ "~Bruce Schneier blog"
 https://waitbutwhy.com/feed "~Wait but why blog"
 https://heathercoxrichardson.substack.com/feed "~Heather Cox Richardson blog"
 https://shadycharacters.co.uk/feed/ "~Shady Characters blog"
+https://margaretatwood.substack.com/feed "~Margaret Atwood's substack"
+https://tirania.org/blog/miguel.rss2 "~Miguel de Icaza's blog"
+https://mastodon.social/@Migueldeicaza.rss "~Miguel de Icaza Mastondon feed"
+https://daniel.haxx.se/blog/feed/ "~Daniel Stenberg Blog"
 
 #
 # People Blogs, from news.txt, evaluate and prune
 #
+https://benhoyt.com/writings/rss.xml "~Ben Hoyt's Tech Writing"
 https://val.demar.in/feed/ "~Paolo Valdemarin's blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://yihui.org/en/index.xml "~YiHui Xie blog"
 https://writings.stephenwolfram.com/feed/ "~Stephen Wolfram blog"

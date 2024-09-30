@@ -1,11 +1,11 @@
 ---
 title: socal north
-updated: 2024-09-29 07:50:36
+updated: 2024-09-29 21:08:17
 ---
 
 # socal north
 
-(date: 2024-09-29 07:50:36)
+(date: 2024-09-29 21:08:17)
 
 ---
 
@@ -35,7 +35,7 @@ date: 2024-09-28, from: City of Santa Clarita
 
 ## Angelenos take on the (seemingly) impossible task of controlling Tree of Heaven
 
-date: 2024-09-28, updated: 2024-09-28, from: The LAist
+date: 2024-09-28, updated: 2024-09-30, from: The LAist
 
 Earlier this month, we did a story on the die-hard Tree of Heaven with surprising resonance. 
 
@@ -158,7 +158,7 @@ An excessive heat warning kicks in at 10 a.m. today for the Coachella Valley.
 
 ## With a Monday deadline, Gavin Newsom is vetoing 1 of every 6 bills. Here’s why
 
-date: 2024-09-27, updated: 2024-09-28, from: The LAist
+date: 2024-09-27, updated: 2024-09-29, from: The LAist
 
 The governor blocks a sizable chunk of bills passed by the Legislature. He cites a few common reasons why they shouldn’t become law in California. 
 
@@ -570,9 +570,9 @@ date: 2024-09-23, from: City of Santa Clarita
 
 ---
 
-## These are the 2024 California bills Gavin Newsom has signed into law, and the ones he has vetoed
+## The 2024 California bills Gavin Newsom has signed into law, and the ones he has vetoed
 
-date: 2024-09-23, updated: 2024-09-28, from: The LAist
+date: 2024-09-23, updated: 2024-09-29, from: The LAist
 
 Many more bills are still on the governor's desk. We're tracking as he makes his decisions. 
 

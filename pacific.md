@@ -1,11 +1,131 @@
 ---
 title: pacific
-updated: 2024-09-29 07:50:37
+updated: 2024-09-29 21:08:19
 ---
 
 # pacific
 
-(date: 2024-09-29 07:50:37)
+(date: 2024-09-29 21:08:19)
+
+---
+
+##  Nauru defends deep-sea mining plans: ‘The greatest risk is failing to seize the opportunity'
+
+date: 2024-09-30, from: Pacific Island Times
+
+By Mar-Vic Cagurangan    Amid the Pacific island leaders’ growing call for a moratorium on deep-sea mining in the region, Nauru appealed... 
+
+<https://www.pacificislandtimes.com/post/nauru-defends-deep-sea-mining-plans-the-greatest-risk-is-failing-to-seize-the-opportunity>
+
+---
+
+## Japan’s incoming prime minister calls for establishment of Japanese military base on Guam
+
+date: 2024-09-30, from: Pacific Island Times
+
+By Mar-Vic Cagurangan Shigeru Ishiba, the incoming prime minister of Japan, is seeking the presence of Japanese forces on Guam, saying it... 
+
+<https://www.pacificislandtimes.com/post/japan-s-incoming-pm-calls-for-establishment-of-japanese-military-base-on-guam>
+
+---
+
+## Don’t miss out on the Saipan Chamber of Commerce’s October general membership meeting! RSVP now!
+
+date: 2024-09-29, updated: 2024-09-29, from: Marianas Variety
+
+(SCC) — Hafa Adai yan Tirow from the Saipan Chamber of Commerce! SCC is excited to host its October general membership meeting on Wednesday, October 2, 2024 from 11:30 a.m. to 1 p.m. at a chamber member establishment,  Crowne Plaza Resort, Hibiscus Hall 
+
+<https://www.mvariety.com/business/business_news/don-t-miss-out-on-the-saipan-chamber-of-commerce-s-october-general-membership-meeting/article_248d6574-7e28-11ef-9eab-a7d8921968ab.html>
+
+---
+
+## 2024 TEK Art Contest
+
+date: 2024-09-29, updated: 2024-09-29, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/lifestyle/2024-tek-art-contest/article_b5b60808-7e28-11ef-8787-eb7566661a38.html>
+
+---
+
+## Making tourism our business: Marianas Youth Welcome All Visitors Enthusiastically
+
+date: 2024-09-29, updated: 2024-09-29, from: Marianas Variety
+
+WHEN I was a young student, tourism was the last thing on my mind. 
+
+<https://www.mvariety.com/views/columnists/making-tourism-our-business-marianas-youth-welcome-all-visitors-enthusiastically/article_6bc16fcc-7e22-11ef-93b7-03da9adba42e.html>
+
+---
+
+## BC’s Tales of the Pacific ǀ Saipan’s boonie dogs made the news
+
+date: 2024-09-29, updated: 2024-09-29, from: Marianas Variety
+
+IT is not often when Saipan makes the international news cycle.  Julian Assange passed through a little while back, that caught headlines. The military’s plans to re-open the airfields on Tinian got attention. But other than the occasional typhoon, Saipan quietly goes about its business away from the spotlight. 
+
+<https://www.mvariety.com/views/columnists/bc-s-tales-of-the-pacific-saipan-s-boonie-dogs-made-the-news/article_895f00de-7e1e-11ef-a49c-4fa74442d971.html>
+
+---
+
+## MCS, GES, SIS, WSR beat foes in interscholastic soccer
+
+date: 2024-09-29, updated: 2024-09-29, from: Marianas Variety
+
+MOUNT Carmel School Team 2, Garapan Elementary School, Saipan International School and William S. Reyes Elementary School's Team 1 dominated their respective opponents in the elementary coed games of the NMI Football Association Interscholastic Soccer League at the NMI Soccer Training Center in Koblerville on Wednesday. 
+
+<https://www.mvariety.com/sports/localsports/mcs-ges-sis-wsr-beat-foes-in-interscholastic-soccer/article_5b537ed0-7e47-11ef-b8d3-4fd8a0c43387.html>
+
+---
+
+## MLB roundup: Yanks fall to Pirates, still land AL's No. 1 seed
+
+date: 2024-09-29, updated: 2024-09-29, from: Marianas Variety
+
+(Reuters) — Yasmani Grandal hit the first of the Pirates' five homers on Saturday, and Pittsburgh never trailed in a 9-4 win over the host New York Yankees, who saw Aaron Judge strike out five times. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-yanks-fall-to-pirates-still-land-als-no-1-seed/article_95a80204-7e6a-11ef-8b7d-7b1bea9d533d.html>
+
+---
+
+## Taiwan on alert over ‘multiple waves’ of missile firing in inland China
+
+date: 2024-09-29, updated: 2024-09-29, from: Marianas Variety
+
+TAIPEI (Reuters) — Taiwan's Defense Ministry said on Sunday it was on alert after detecting "multiple waves" of missile firing deep in inland China, days after Beijing said it had carried out a successful test launch of an intercontinental ballistic missile. 
+
+<https://www.mvariety.com/news/regional_world/taiwan-on-alert-over-multiple-waves-of-missile-firing-in-inland-china/article_d74a715e-7e6c-11ef-976e-4362361ec190.html>
+
+---
+
+## Woman admits to running brothel network that catered to politicians, execs
+
+date: 2024-09-29, updated: 2024-09-29, from: Marianas Variety
+
+BOSTON (Reuters) — A Massachusetts woman pleaded guilty on Friday to running a high-end brothel network in the greater Boston area and the suburbs of Washington that served wealthy and well-connected clientele including politicians, corporate executives, lawyers and military officers. 
+
+<https://www.mvariety.com/news/national/woman-admits-to-running-brothel-network-that-catered-to-politicians-execs/article_3062d4de-7e6d-11ef-b9e2-3b392957e556.html>
+
+---
+
+## Sicilian Cathedral’s stunning mosaics regain golden luster
+
+date: 2024-09-29, updated: 2024-09-29, from: Marianas Variety
+
+MONREALE, Italy (Reuters) — The mosaics of a mediaeval cathedral in Sicily, built by the island's last Norman king, are set to regain their golden luster thanks to careful restoration work and new lighting. 
+
+<https://www.mvariety.com/lifestyle/sicilian-cathedral-s-stunning-mosaics-regain-golden-luster/article_895c7ebc-7e6f-11ef-aa11-072df9793b6f.html>
+
+---
+
+## Mats on Fire: Bryan Delen Guerrero tops two divisions; ‘Pirate’ Gandy wins gold
+
+date: 2024-09-29, updated: 2024-09-29, from: Marianas Variety
+
+AT the Trench Tech Mats on Fire Brazilian Jiu Jitsu tournament on Saturday, Sept. 28, at the Garapan Round House, Saipan Submission's head honcho Bryan Deleon Guerrero ruled the lightweight and heavyweight divisions. 
+
+<https://www.mvariety.com/sports/localsports/mats-on-fire-bryan-delen-guerrero-tops-two-divisions-pirate-gandy-wins-gold/article_aa2781a0-7e33-11ef-a8a1-7714add88116.html>
 
 ---
 

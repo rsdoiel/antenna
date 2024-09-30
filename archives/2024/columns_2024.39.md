@@ -1,11 +1,45 @@
 ---
 title: columns
-updated: 2024-09-29 07:50:40
+updated: 2024-09-29 21:08:22
 ---
 
 # columns
 
-(date: 2024-09-29 07:50:40)
+(date: 2024-09-29 21:08:22)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-30, from: Dave Winer's Scripting News)
+
+If you want to help the open web, when you write something you’re proud of on a social web site like Bluesky or Mastodon, also post it to your blog. Not a huge deal but every little bit helps. 
+
+<http://scripting.com/2024/09/29.html#a003937>
+
+---
+
+## Monday 30 September, 2024
+
+date: 2024-09-29, from: John Naughton's online diary
+
+Mellow fruitfulness Our small vineyard is coming along nicely. Quote of the Day &#8220;Even the most perfect reproduction of a work of art is lacking in one element: Its presence in time and space, its unique existence at the place &#8230; <a href="https://memex.naughtons.org/monday-30-september-2024/39905/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/monday-30-september-2024/39905/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-29, from: Miguel de Icaza Mastondon feed)
+
+<p>Also the temperature reporting is a nice touch</p> 
+
+<https://mastodon.social/@Migueldeicaza/113222979643113676>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-29, from: Miguel de Icaza Mastondon feed)
+
+<p>watchOS 11 is a major upgrade in terms of precision for pool laps.  It used to miss or skip a few.</p> 
+
+<https://mastodon.social/@Migueldeicaza/113222958754220861>
 
 ---
 
@@ -17,19 +51,32 @@ date: 2024-09-29, from: Alex Schroeder's Blog
 
 <p><a href="Odd%C2%B5">Oddµ</a> replaced <a href="Oddmuse">Oddmuse</a> as my preferred wiki software.</p>
 
-<p>It&rsquo;s a <strong>wiki</strong> – a website that can be edited on the web, using a regular web browser on my phone, for example; it&rsquo;s a <strong>static site generator</strong> (SSG) so that I write a bunch of Markdown files locally, run Oddµ and upload the result to the web; and it reacts to changes made as it runs, so I can edit the Markdown files remotely, using ssh and my favourite editor, and the pages Oddµ serves reflect those changes.</p>
+<ol>
+<li>Oddµ is a <strong>wiki</strong> – a website that can be edited on the web, using a regular web browser on my phone, for example. Only I get to edit the wiki these days and there is no way to leave a comment. Send me an email, instead. I love getting email! 😍</li>
+<li>Oddµ is a <strong>static site generator</strong> (SSG) so that I can in theory write a bunch of Markdown files locally, run Oddµ and upload the result to the web. The reason I don&rsquo;t use it like that is that this disables online search. If you don&rsquo;t need online search or you&rsquo;re using some other software to handle it, static files are a great option. Static files are also a great option if you need to archive or export the whole site for offline viewing. Anybody will be able to browse the HTML files offline.</li>
+</ol>
 
-<p>It&rsquo;s also a program that doesn&rsquo;t take a config file. Oddmuse, its predecessor, was famously hackable. You could hook into the parser and add new rules, add new actions, add new meta data, and on and on. The drawback was an incredible lock-in. After twenty years, I started to feel it: it was hard to remove features for any specific wiki because its pages used all a markup that was incompatible with everything else. Some of my Oddmuse wikis used the old UseMod markup that was used by MediaWiki, too. Some of my Oddmuse wikis used the newer Wiki Creole markup that some wiki engine authors wanted to push <a href="2006-09-04_Wiki_Creole">back in 2006</a>. Some of my Oddmuse wikis used their own eclectic mix. Some of my Oddmuse wikis used Markdown. For a while I even added <a href="Gemtext">Gemtext</a> to the mix! I didn&rsquo;t like this incompatibility between sites and sometimes even between old and new pages on the same site. This is why Oddµ only does Markdown with three minimal extensions: hashtags, wiki links and fedi account links.</p>
+<p>Oddµ reacts to changes made as it runs, so I can edit the Markdown files remotely, using ssh and my favourite editor or I can edit the Markdown files locally and sync them with the server and the pages Oddµ serves reflect those changes immediately, no restart required. Earlier versions required a restart so that Oddµ would update its in-memory indexes of page names and titles.</p>
 
-<p>Over time, however, I did add a few configuration options to Oddµ. The happen via environment variables.</p>
+<p>Oddµ is also a program that doesn&rsquo;t take a config file. Oddmuse, its predecessor, was famously hackable. There were a gazillion options to set. You could hook into the parser and add new rules, add new actions, add new meta data, and on and on. The drawback was an incredible lock-in. After twenty years, I started to feel it: it was hard to remove features for any specific wiki because its pages used all a markup that was incompatible with everything else. Some of my Oddmuse wikis used the old UseMod markup that was used by MediaWiki, too. Some of my Oddmuse wikis used the newer Wiki Creole markup that some wiki engine authors wanted to push <a href="2006-09-04_Wiki_Creole">back in 2006</a>. Some of my Oddmuse wikis used their own eclectic mix. Some of my Oddmuse wikis used Markdown. For a while I even added <a href="Gemtext">Gemtext</a> to the mix! I didn&rsquo;t like this incompatibility between sites and sometimes even between old and new pages on the same site. This is why Oddµ only does Markdown with three minimal extensions: hashtags, wiki links and fedi account links.</p>
 
-<p>When stdin is a socket, getListener returns a listener that listens on
-the socket passed as stdin. This allows systemd-style socket
-activation. Otherwise, getListener returns a net.Listener listening on
+<p>Oddµ generates HTML using templates so there is no need for options to control the HTML output. If you want it changed, edit the templates.
+See <a href="oddmu/oddmu-templates.5">oddmu-templates(5)</a> for more.</p>
+
+<p>Oddµ doesn&rsquo;t know anything about users, passwords and permissions. If you want authentication and authorization (which you do, if your wiki is public), then you need to configure your webserver to ask for passwords and restrict access accordingly.
+See <a href="oddmu/oddmu-apache.5">oddmu-apache(5)</a> and <a href="oddmu/oddmu-nginx.5">oddmu-nginx(5)</a> for more.</p>
+
+<p>Over time, however, I did add a few configuration options to Oddµ.
+This happens via environment variables.</p>
+
+<p>When stdin is a socket, Oddµ reads requests from it instead of listening
+on port. This allows for systemd-style socket activation. This is what
+I use at the moment. Otherwise, it listens on
 the address from <strong>ODDMU_ADDRESS</strong> and the port from <strong>ODDMU_PORT</strong>.
 ODDMU_ADDRESS may be either an IPV4 address or an IPv6 address. If
 ODDMU_ADDRESS is unspecified, then the listener listens on all
-available unicast addresses, both IPv4 and IPv6.
+available unicast addresses, both IPv4 and IPv6. If ODDMU_PORT is
+unspecified, it listens on port 8080.
 See <a href="oddmu/oddmu.1">oddmu(1)</a> and <a href="oddmu/oddmu.service.5">oddmu.service(5)</a>
 for more.</p>
 
@@ -54,12 +101,152 @@ See <a href="oddmu/oddmu-filter.7">oddmu-filter(7)</a> for more.</p>
 
 <p>And finally, since linking to fediverse accounts involves an outgoing Webfinger
 lookup, this feature is disabled by default. You can switch it on by setting
-<strong>ODDMU_WEBFINGER</strong> to &ldquo;1&rdquo;.
+<strong>ODDMU_WEBFINGER</strong> to &ldquo;1&rdquo;. It&rsquo;s what I do.
 See <a href="oddmu/oddmu.5">oddmu(5)</a> for more.</p>
 
-<p><a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a></p> 
+<p><a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a></p>
+
+<p><strong>2024-09-29</strong>. I really love the fact that I picked Markdown. If I miss something, I can just write HTML directly. And with the decision to use Markdown, all the Markdown writing from years on GitHub use stays relevant. There&rsquo;s no need to tinker with the code. That still surprises me.</p> 
 
 <https://alexschroeder.ch/view/2024-09-29-env-variables>
+
+---
+
+## 2024-09-29 How do I feel about the MNT Pocket Reform?
+
+date: 2024-09-29, from: Alex Schroeder's Blog
+
+<h1 id="2024-09-29-how-do-i-feel-about-the-mnt-pocket-reform">2024-09-29 How do I feel about the MNT Pocket Reform?</h1>
+
+<p>SpaceLizard asked: <a href="https://community.mnt.re/t/what-brought-you-to-the-mnt-community/2132">What brought you to the MNT community</a>?
+Well, actually there were three questions:</p>
+
+<blockquote>
+<ol>
+<li>How did you first find out about MNT Reform and/or what brought you here?</li>
+<li>What do you do / want to do with your Reform Laptop most?</li>
+<li>Are cats or dogs better, (or robots)?</li>
+</ol>
+</blockquote>
+
+<p>Here&rsquo;s what I said:</p>
+
+<p>I learned about MNT Reform on fedi. I had bought a Purism laptop <a href="2017-12-23_New_Laptop">in 2017</a> and <a href="2018-06-08_Librem_13_by_Purism_Mini_Review">I wasn’t happy</a>. On a blog post <a href="2021-08-26_New_laptop%2C_again%E2%80%BD">in 2021</a> I mentioned the MNT Reform laptop for the first time. I mentioned the MNT Pocket Reform in 2022, <a href="2020-11-20_Small_computer">on a blog post from 2020</a>.</p>
+
+<p>I still use the Purism laptop as my main laptop, but one of its hinges broke in 2021 and I needed something else to take on trips. That’s why I started looking for an extra small laptop. I wanted something that was energy efficient, that would allow me to use all my Debian stable tools for system administration, to write Perl code, to use Emacs, to browse the web using Firefox, to ssh into my server and do maintenance work from hotel rooms and the like. The MNT Pocket Reform landed on the list.</p>
+
+<p>As it stands right now, I’m still using Debian testing but I’d love to make that switch to Debian stable one day. My secret idea is that I just have to wait and one day I’d be able to do it using /etc/apt/sources.list sorcery. I managed to switch from PureOS to Debian stable doing that, so I don’t doubt that there is a way to do it from Debian testing to Debian stable. Painfully, maybe, but doable.</p>
+
+<p>I’d love for battery and wifi to be no problem. Right now, battery life is good enough for my evening sessions if I have to move to the couch, and wifi seems to be working fine now that summer is over. I have an ethernet connection for the Pocket Reform, however, and that’s very nice. The cable is 3m long or something. But in a hotel, wifi still works, as I said.</p>
+
+<p>I recently had some emergency sysadmin stuff to do in the evenings while on holidays and the Pocket Reform did exactly what I needed it to do.</p>
+
+<p>Finally, cats are bird murderers and dogs are our best friends. No question, dogs are better! But also, I don’t have time in my life for a dog, so I think I’ll vote for little Internet people in my computers, on forums, IRC, Discord, Fedi, newsgroups and elsewhere.</p>
+
+<p>Luckily, <a class="account" href="https://floss.social/@josch" title="@josch@floss.social">@josch</a> had some answers for me!</p>
+
+<blockquote>
+<p>Instead of doing <code>/etc/apt/sources.list</code> sorcery in the future, you could replace “testing” by “trixie” today. That way, at the point in time where “testing” becomes “stable” you do not need to edit your <code>/etc/apt/sources.list</code>. The updates and security mirrors also exist already for trixie but are of course empty but this means that you can also add those today already and have things set up for the future:</p>
+
+<pre><code>deb http://deb.debian.org/debian trixie main
+deb http://deb.debian.org/debian trixie-updates main
+deb http://security.debian.org/debian-security trixie-security main
+</code></pre>
+
+<p>The one point of pain may be that after the trixie release, the MNT repositories will continue to build packages for unstable which will work for a while but will break after new uploads of glibc and friends. So in the future, you might want to switch out the MNT repo for the Debian stable repositories on <code>reform.debian.net</code> which are currently only serving packages for bookworm and not trixie.</p>
+</blockquote>
+
+<p>This sounds like great advice.</p>
+
+<p><a class="tag" href="/search/?q=%23Reform">#Reform</a></p> 
+
+<https://alexschroeder.ch/view/2024-09-29-pocket-status>
+
+---
+
+## ‘Meta and Apple: Same Game, Different Rules’
+
+date: 2024-09-29, updated: 2024-09-29, from: Daring Fireball
+
+ 
+
+<https://sixcolors.com/post/2024/09/meta-and-apple-same-game-different-rules/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-29, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@davew/post/DAgMFyyNYbX">Thread</a>: Much easier than struggling with ActivityPub, would be a set of functionally equivalent APIs and a common understanding of what a “post” is among various social web systems. This how we created solid interop in the blogging world, and it would work here too.
+ 
+
+<http://scripting.com/2024/09/29.html#a175514>
+
+---
+
+## The welcome application of good sense to AI hype
+
+date: 2024-09-29, from: Enlightenment Economics blog
+
+Summer over in a flash, autumn wind and rain outside &#8211; perhaps cosy evenings will speed up both my reading and review-posting. I just finished AI Snake Oil by Arvind Narayanan and Sayash Kapoor, having long been a fan of &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/09/the-welcome-application-of-good-sense-to-ai-hype/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2024/09/the-welcome-application-of-good-sense-to-ai-hype/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-29, from: Dave Winer's Scripting News)
+
+This blog has been running for: 29 years, 11 months, 22 days, 20 hours, 43 minutes, 55 seconds. <i>Still diggin!</i>
+ 
+
+<http://scripting.com/2024/09/29.html#a154401>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-29, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2017/06/03/wiredWebIsDeadFreeGift.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">BTW, I haven't mentioned this before, but I'm working on the reading interface for my blog. What you see when you go to scripting.com. I'm putting the same kind of attention into it that I did for the <a href="http://scripting.com/2024/03/13/010313.html">blogroll</a> feed reader earlier this year. There are a few unreleased products that use the same approach. The way we read the web hasn't received enough attention, we've been so focused on the twitter-like interfaces, forgetting that reading on a full page is important too. We've settled for a pretty awful way of reading. I want to fix writing too, and have plans for this, but I thought I should do some work on reading as well. I wish I could show you all the new ideas, but I'm saving that for a big reveal at some point. 
+
+<http://scripting.com/2024/09/29.html#a152704>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-29, from: Dave Winer's Scripting News)
+
+New <a href="https://shownotes.scripting.com/podcast0/2024/09/29/mySideOfANewsInterview.html">episode</a> from the Podcast0 <a href="http://scripting.com/podcast0/rss.xml">feed</a> about a new Yahoo RSS reader. 
+
+<http://scripting.com/2024/09/29.html#a152403>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-29, from: Miguel de Icaza Mastondon feed)
+
+<p>“unchecked @Sendable” or as the teens are calling it “rawdogging concurrency”</p> 
+
+<https://mastodon.social/@Migueldeicaza/113221381066953960>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-29, from: Miguel de Icaza Mastondon feed)
+
+<p>One of the rushed fixes was to slap a “DispatchQueue.main.async” to invoke a <span class="h-card" translate="no"><a href="https://mastodon.social/@MainActor" class="u-url mention">@<span>MainActor</span></a></span> method from the URLSession.didFinishDownloadingTo - but this method deletes the file upon return, so my file was gone by the time the method was called.  But took a week to catch the regression.</p> 
+
+<https://mastodon.social/@Migueldeicaza/113221343787241164>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-29, from: Miguel de Icaza Mastondon feed)
+
+<p>Some observations on swift concurrency:</p><p>- it has caught a bunch of mistakes I made<br />- I made a couple of mistakes trying to speed run fixes<br />- some of the solutions to the problems are harder to grasp than I hoped.  I still google a lot.<br />- wish there was a “sure you are correct, but I can guarantee this ain’t ever going to happen, let me do it”</p><p>That said, I forgot how many times I used “foo!.bar” because I knew “this is never going to happen” and found it a few months later on the crash logs.</p> 
+
+<https://mastodon.social/@Migueldeicaza/113221250820232066>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-29, from: Miguel de Icaza Mastondon feed)
+
+<p>Good morning pineapple.</p> 
+
+<https://mastodon.social/@Migueldeicaza/113221032826610098>
 
 ---
 
@@ -135,6 +322,30 @@ If you have a long career in media and writing in public like I have, you’re l
 
 ---
 
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-28, from: Miguel de Icaza Mastondon feed)
+
+<p>Part 3</p> 
+
+<https://mastodon.social/@Migueldeicaza/113217537697420676>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-28, from: Miguel de Icaza Mastondon feed)
+
+<p>Part 2</p> 
+
+<https://mastodon.social/@Migueldeicaza/113217532360330739>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-28, from: Miguel de Icaza Mastondon feed)
+
+<p>Some observations from Twitter:</p> 
+
+<https://mastodon.social/@Migueldeicaza/113217525459817345>
+
+---
+
 ## Relay for St. Jude Is Approaching $1 Million
 
 date: 2024-09-28, updated: 2024-09-28, from: Daring Fireball
@@ -172,6 +383,16 @@ date: 2024-09-28, updated: 2024-09-28, from: Daring Fireball
  
 
 <https://www.wsj.com/tech/apple-no-longer-in-talks-to-join-openai-investment-round-e3be3e66>
+
+---
+
+## OK Kids, You Get to Vote
+
+date: 2024-09-28, from: Margaret Atwood's substack
+
+Right here on this website. But not for President. 
+
+<https://margaretatwood.substack.com/p/ok-kids-you-get-to-vote>
 
 ---
 
@@ -251,6 +472,24 @@ A mention of electrifying &#8220;the great American road trip&#8221; threw me fo
 
 ---
 
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-27, from: Miguel de Icaza Mastondon feed)
+
+<p>Update for the weekend:</p><p>- Limited preview: 24 bugs</p><p>- Public testflight: 50</p><p>- Public launch/AppStore: 31</p> 
+
+<https://mastodon.social/@Migueldeicaza/113212055082918025>
+
+---
+
+## On My Motorbike
+
+date: 2024-09-27, from: Margaret Atwood's substack
+
+I haven't been sitting on my hands... 
+
+<https://margaretatwood.substack.com/p/on-my-motorbike>
+
+---
+
 **@Dave Winer's Scripting News** (date: 2024-09-27, from: Dave Winer's Scripting News)
 
 Guy Kawasaki sent a <a href="https://imgs.scripting.com/2024/09/27/kawasakiGPT.png?nodialog=true">summary of my career</a> created by his new chatbot. Very flattering. :-) 
@@ -298,6 +537,22 @@ date: 2024-09-27, from: Stephen Wolfram blog
 <span class="thumbnail"><img width="128" height="108" src="https://content.wolfram.com/sites/43/2024/09/swblog-recursive-icon.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></span>Yet Another Ruliological Surprise Integers. Addition. Subtraction. Maybe multiplication. Surely that’s not enough to be able to generate any serious complexity. In the early 1980s I had made the very surprising discovery that very simple programs based on cellular automata could generate great complexity. But how widespread was this phenomenon? At the beginning of the [&#8230;] 
 
 <https://writings.stephenwolfram.com/2024/09/nestedly-recursive-functions/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-27, from: Miguel de Icaza Mastondon feed)
+
+<p>Don’t know about you folks, but every algorithmic-based platform for me is a non-stop stream of Arabs being blown up day after day in large volumes.</p><p>It’s been a year of this, and the only thing that has improved is the contrived language used to justify it.</p> 
+
+<https://mastodon.social/@Migueldeicaza/113210735280950383>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-27, from: Miguel de Icaza Mastondon feed)
+
+<p>The US is providing the targets for Israel to bomb Lebanon:</p> 
+
+<https://mastodon.social/@Migueldeicaza/113210693853105333>
 
 ---
 
@@ -651,6 +906,22 @@ date: 2024-09-26, updated: 2024-09-26, from: Jason Kittke's blog
 
 ---
 
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-26, from: Miguel de Icaza Mastondon feed)
+
+<p>They got Eric Adams over bribery, not for his flex to shoot New Yorkers commuting.</p> 
+
+<https://mastodon.social/@Migueldeicaza/113204059087055193>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-26, from: Miguel de Icaza Mastondon feed)
+
+<p>I am too tied up to do a .net version currently, but we could use this as a blueprint:</p><p><a href="https://mastodon.social/@ktoso/113203507192283649" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@ktoso/1132035</span><span class="invisible">07192283649</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/113203806804461450>
+
+---
+
 ## An Analysis of the EU’s Cyber Resilience Act
 
 date: 2024-09-26, updated: 2024-09-24, from: Bruce Schneier blog
@@ -776,6 +1047,22 @@ Prophetiae Sibyllarum.</p>
 <p>I saw the third flutist sitting around a lot and not playing the flute and when the volume went up he covered his ears. Poor lad. Did he just play five notes early in the performance and then he had to wait until the end? How strange!</p> 
 
 <https://alexschroeder.ch/view/2024-09-22-holidays-at-home>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-25, from: Miguel de Icaza Mastondon feed)
+
+<p>Good talk from John Mearsheimer on Gaza:<br /> <br /><a href="https://youtu.be/jqPQ5dUfSTw?si=zUDFVwQKfBFrib3v" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">youtu.be/jqPQ5dUfSTw?si=zUDFVw</span><span class="invisible">QKfBFrib3v</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/113200604434748933>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-25, from: Miguel de Icaza Mastondon feed)
+
+<p>Israel executed the largest terrorist attack on this planet since 2001 and we treated it like a football team scoring a touchdown.</p><p>Maybe a small blip compared to slaughtering 14,000 children, but I still think it is quite significant.</p><p>My thread on Twitter collecting the descent of a society into madness:</p><p><a href="https://x.com/migueldeicaza/status/1801376224457199915" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">x.com/migueldeicaza/status/180</span><span class="invisible">1376224457199915</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/113200585528621129>
 
 ---
 
@@ -965,6 +1252,22 @@ date: 2024-09-25, from: Dave Winer's Scripting News
  
 
 <http://scripting.com/2024/09/25/133351.html?title=howTheyDivideUs>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-25, from: Miguel de Icaza Mastondon feed)
+
+<p>I did check as soon as I remembered and Gtk+ last release is only a day old:</p> 
+
+<https://mastodon.social/@Migueldeicaza/113198203789567831>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-25, from: Miguel de Icaza Mastondon feed)
+
+<p>Last night I had a nightmare that Gtk+ had not been maintained by 7 years and that Owen Taylor had moved on to a secret Red Had project on social media and I was running frantically trying to get a new release out.</p> 
+
+<https://mastodon.social/@Migueldeicaza/113198186889123351>
 
 ---
 
@@ -1259,7 +1562,7 @@ We'll hear the question more and more in these remaining days. Here are some fac
 
 ## [Sponsor] Method
 
-date: 2024-09-24, updated: 2024-09-24, from: Daring Fireball
+date: 2024-09-24, updated: 2024-09-29, from: Daring Fireball
 
  
 
@@ -1568,6 +1871,14 @@ date: 2024-09-23, from: Dave Winer's Scripting News
  
 
 <http://scripting.com/2024/09/23/161723.html?title=thisIsATest>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-23, from: Miguel de Icaza Mastondon feed)
+
+<p>Seasonal avatar</p> 
+
+<https://mastodon.social/@Migueldeicaza/113187679035850997>
 
 ---
 

@@ -1,11 +1,49 @@
 ---
 title: going electric
-updated: 2024-09-29 07:50:48
+updated: 2024-09-29 21:08:29
 ---
 
 # going electric
 
-(date: 2024-09-29 07:50:48)
+(date: 2024-09-29 21:08:29)
+
+---
+
+## Tesla has finally enabled FSD on (some) Cybertrucks
+
+date: 2024-09-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/05/Tesla-Cybertruck-hero-shareholder-meeting.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Some Cybertrucks can finally use Tesla’s Supervised Full Self-Driving software, almost exactly ten months after the vehicle was first released.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="full-self-driving-fsd,tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="381992" href="https://electrek.co/2024/09/29/tesla-has-finally-enabled-fsd-on-some-cybertrucks/#more-381992" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/29/tesla-has-finally-enabled-fsd-on-some-cybertrucks/>
+
+---
+
+## The UK officially closes its last remaining coal power plant
+
+date: 2024-09-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Ratcliffe-on-Soar_Power_Station_with_coal_train_26th_March_2007.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The UK has marked a historic moment in its energy transition by shuttering the Ratcliffe-on-Soar Power Station in Nottinghamshire, its last remaining coal power plant. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="coal,egeb,energy-brief,solar,uk" data-layer-viewtype="unknown" data-post-id="381807" href="https://electrek.co/2024/09/29/uk-officially-closes-its-last-remaining-coal-power-plant/#more-381807" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/29/uk-officially-closes-its-last-remaining-coal-power-plant/>
+
+---
+
+## Lucid Air Sapphire Seen On The Nurburgring, Possibly Out For EV Lap Record
+
+date: 2024-09-29, from: Inside EVs News
+
+This Air Sapphire was wearing a light camo wrap and had racing seats inside. 
+
+<https://insideevs.com/news/735469/lucid-air-sapphire-nurburgring-lap/>
 
 ---
 

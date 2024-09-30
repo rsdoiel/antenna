@@ -1,11 +1,213 @@
 ---
 title: home
-updated: 2024-09-29 07:50:44
+updated: 2024-09-29 21:08:26
 ---
 
 # home
 
-(date: 2024-09-29 07:50:44)
+(date: 2024-09-29 21:08:26)
+
+---
+
+## Hotels, Inns, and More
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+Staying in the right hotels can make or break a vacation. Get our recommendations for great bargains, most unique sleeps, coastal stays, and more Western accommodations. 
+
+<https://www.sunset.com/travel/hotels>
+
+---
+
+## National Parks
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+Whether you're a first-time visitor or a national parks veteran, you'll find everything you need here to plan the perfect adventure. 
+
+<https://www.sunset.com/travel/national-parks>
+
+---
+
+## Insider Guides: Places We Love
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+Use our Insider Guides to browse the hidden gems we love, as featured in Sunset magazine, plus exclusive recommendations from our editors. 
+
+<https://www.sunset.com/travel/insider-guides>
+
+---
+
+## Travel the West
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Gifts & Shopping
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+One-of-a-kind gifts to spread holiday cheer, including picks for everyone on your list, from gardeners and travelers to parents and pets. 
+
+<https://www.sunset.com/lifestyle/shopping>
+
+---
+
+## Wellness
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+Everyday inspiration for balanced, healthy living. 
+
+<https://www.sunset.com/lifestyle/wellness>
+
+---
+
+## 23 of the Best Mugo Pine Varieties
+
+date: 2024-09-29, from: The Gardener's Path
+
+<p>Mugo pines add texture and year-round interest to the garden, and they come in a wide range of sizes, shapes, and colors. Some have needles that change color with the seasons and there are diminutive ground cover types and those that grow into large trees. Learn about 23 of the best mugo pines in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/best-mugo-pines/">23 of the Best Mugo Pine Varieties</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/landscape-trees/best-mugo-pines/>
+
+---
+
+## Lifestyle
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+Lifestyle ideas and inspiration for every life stage, from gift guides and gear recommendations to wedding planning, living with kids and pets, and saving for home remodels. 
+
+<https://www.sunset.com/lifestyle>
+
+---
+
+## Edible Gardening
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+Our expert gardening tips help you choose and grow the perfect fruits and vegetables for your backyard garden 
+
+<https://www.sunset.com/home-garden/edible-gardening>
+
+---
+
+## Flowers & Plants
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+The very best flowers and plants for your garden's climate zone. 
+
+<https://www.sunset.com/home-garden/plants>
+
+---
+
+## Landscaping
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+Get landscaping ideas and inspiration from our gardening experts to design your own backyard or garden oasis. 
+
+<https://www.sunset.com/home-garden/landscaping>
+
+---
+
+## Garden Basics
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+Learn how to start your own home garden with our gardening experts&apos; tips and tutorials 
+
+<https://www.sunset.com/home-garden/garden-basics>
+
+---
+
+## Decorating & Design
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+Transform your home with our decorating tips, including ideas for small spaces, DIY projects, home design, and more. 
+
+<https://www.sunset.com/home-garden/design>
+
+---
+
+## Home Tours
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses 
+
+<https://www.sunset.com/home-garden/home-tours>
+
+---
+
+## Home & Garden
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine. 
+
+<https://www.sunset.com/home-garden>
+
+---
+
+## Wine & Drinks
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+Pair wine like a pro with our wine guide. Find the best wine for every meal, including burgers, pizza, steak, and more 
+
+<https://www.sunset.com/food-wine/wine-pairings>
+
+---
+
+## Restaurants
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+ 
+
+<https://www.sunset.com/food-wine/restaurants>
+
+---
+
+## Recipes
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+Search Sunset's collection of great recipes for every occasion. From quick weekday meals to indulgent holiday menus, we share the best in Western cooking. 
+
+<https://www.sunset.com/food-wine/kitchen-assistant>
+
+---
+
+## Food and Drink
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+Delicious recipes, food and wine pairings, and more ways to savor the West. 
+
+<https://www.sunset.com/food-wine>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-09-29, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -128,16 +330,6 @@ date: 2024-09-27, from: Calfifornia Dept. Aggriculture blog
 CDFA joined in celebrating the 57th annual California Native American Day at the State Capitol today, where attendees gathered to honor the contributions and culture of California&#8217;s Native American communities. This year’s theme, “Recognizing 100 Years of Citizenship and the &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28273">Continue reading <span class="meta-nav">&#8594;</span></a> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28273>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-09-27, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
 
 ---
 
