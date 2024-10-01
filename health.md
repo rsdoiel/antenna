@@ -1,11 +1,11 @@
 ---
 title: health
-updated: 2024-10-01 05:46:01
+updated: 2024-10-01 08:39:51
 ---
 
 # health
 
-(date: 2024-10-01 05:46:01)
+(date: 2024-10-01 08:39:51)
 
 ---
 
@@ -76,6 +76,16 @@ date: 2024-10-01, from: Frontiers in Cellular and Infection Microbiology
  
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2024.1423081>
+
+---
+
+## In silico testing to identify compounds that inhibit ClfA and ClfB binding to the host for the formulation of future drugs against Staphylococcus aureus colonization and infection
+
+date: 2024-10-01, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionStaphylococcus aureus is a highly resistant pathogen. It has multiple virulence factors, which makes it one of the most pathogenic bacteria for humankind. The vast increase in antibiotic resistance in these bacteria is a warning of existing healthcare policies. Most of the available antibiotics are ineffective due to resistance; this situation requires the development of drugs that target specific proteins and are not susceptible to resistance.MethodsIn this study, we identified a compound that acts as an antagonist of ClfA and ClfB by inhibiting their binding to host cells.ResultsThe shortlisted compound’s binding activity was tested by docking and molecular dynamics during its interaction with proteins. The identified compound has excellent binding energy with both ClfA (-10.11 kcal/mol) and ClfB (-11.11 kcal/mol).DiscussionThe molecular dynamics of the protein and compound were stable and promising for further in vitro and in vivo tests. The performance of our compound was tested and compared with that of the control molecule allantodapsone, which was reported in a previous study as a pan inhibitor of the clumping factor. An ADMET study of our selected compound revealed its reliable drug likeliness. This compound is an ideal candidate for in vitro studies. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1422500>
 
 ---
 

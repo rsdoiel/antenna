@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2024-10-01 05:45:58
+updated: 2024-10-01 08:39:47
 ---
 
 # libraries
 
-(date: 2024-10-01 05:45:58)
+(date: 2024-10-01 08:39:47)
+
+---
+
+## September 2024
+
+date: 2024-10-01, from: Association of Research Libraries News
+
+<p>Last Updated on October 1, 2024, 9:24 am ET ARL Public Policy Briefing (September 2024) This issue includes: Accessibility Policy ARL Hosts Community Call on ADA Title II and Research...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/september-2024/">September 2024</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/september-2024/>
 
 ---
 
@@ -129,6 +141,16 @@ date: 2024-10-01, from: ETH Zurich, recently added
 Ashfield IV, William; Polito, Vanessa; Yu, Sijie; Collier, Hannah; Hayes, Laura A. 
 
 <http://hdl.handle.net/20.500.11850/697085>
+
+---
+
+## Low-Power WALTZ Decoupling under Magic-Angle Spinning
+
+date: 2024-10-01, from: ETH Zurich, recently added
+
+Ernst, Matthias 
+
+<http://hdl.handle.net/20.500.11850/697267>
 
 ---
 

@@ -1,11 +1,45 @@
 ---
 title: home
-updated: 2024-10-01 05:45:58
+updated: 2024-10-01 08:39:48
 ---
 
 # home
 
-(date: 2024-10-01 05:45:58)
+(date: 2024-10-01 08:39:48)
+
+---
+
+## The DR Leaf and Lawn Vacuum is as Convenient as it is Efficient
+
+date: 2024-10-01, from: Family Handyman Blog
+
+<p>We tried the DR Leaf and Lawn Vacuum, and it's the fastest, most convenient way to keep your yard free from debris all season long.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/dr-leaf-and-lawn-vacuum-review/">The DR Leaf and Lawn Vacuum is as Convenient as it is Efficient</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/dr-leaf-and-lawn-vacuum-review/>
+
+---
+
+## 3 Ways To Boost Your Cell Phone Signal at Home
+
+date: 2024-10-01, from: Family Handyman Blog
+
+<p>Lousy cell phone coverage in your house? Don't despair. Boost that signal!</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-boost-cell-phone-signal/">3 Ways To Boost Your Cell Phone Signal at Home</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/how-to-boost-cell-phone-signal/>
+
+---
+
+## 25 Years, According to Dwell
+
+date: 2024-10-01, from: Dwell
+
+We go back into the archives to revisit a quarter century of covering cutting-edge design in response to the cultural moment. 
+
+<https://www.dwell.com/article/25-years-according-to-dwell-magazine-anniversary-timeline-origin-story-e6266422-e8c1b119-01a8dde5>
 
 ---
 
@@ -106,7 +140,7 @@ date: 2024-09-30, from: Family Handyman Blog
 
 date: 2024-09-30, from: Dwell
 
-Designed for an Egyptian Australian and Danish duo, YSG Studio seamlessly combine hygge and bold sensibilities. 
+Designed for an Egyptian Australian and Danish duo, YSG Studio seamlessly combines hygge and bold sensibilities. 
 
 <https://www.dwell.com/article/a-melbourne-renovation-marries-a-couples-drastically-different-tastes-9d2d0553>
 

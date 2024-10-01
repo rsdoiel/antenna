@@ -1,11 +1,41 @@
 ---
 title: food
-updated: 2024-10-01 05:46:02
+updated: 2024-10-01 08:39:52
 ---
 
 # food
 
-(date: 2024-10-01 05:46:02)
+(date: 2024-10-01 08:39:52)
+
+---
+
+## Klatch Coffee Announces New Blend Empire
+
+date: 2024-10-01, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The new coffee pays homage to California’s Inland Empire region. 
+
+<https://sprudge.com/klatch-coffee-announces-new-blend-empire-255693.html>
+
+---
+
+## World Coffee Innovation Summit in London Oct. 16-17
+
+date: 2024-10-01, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="World Coffee Innovation Summit" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A high-level coffee event focused on climate and finance in the coffee sector called the World Coffee Innovation Summit is coming to the Queen Elizabeth II Centre (QEII) in London... 
+
+<https://dailycoffeenews.com/2024/10/01/world-coffee-innovation-summit-in-london-oct-16-17/>
+
+---
+
+## Fairtrade International Celebrates Golden Cup Winners
+
+date: 2024-10-01, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Fairtrade Golden Cup and quality in Honduras" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Fairtrade International rang in the October 1 International Coffee Day by celebrating the winners of its annual Golden Cup green coffee competitions. With the Latin American and Caribbean Network of... 
+
+<https://dailycoffeenews.com/2024/10/01/fairtrade-international-celebrates-golden-cup-winners/>
 
 ---
 
@@ -178,7 +208,7 @@ A Momofuku comeback in New York, a celebrated Chicago chef’s new bar, and plen
 
 date: 2024-09-30, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Pink Cloud Coffee 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The forecast is looking sunny for Southern California-based Pink Cloud Coffee, which recently moved from shared roasting facility and into a private roastery of its own.&#160; At the center of... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Pink Cloud Coffee 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The forecast is looking sunny for Southern California-based Pink Cloud Coffee, which recently moved from shared roasting facility and into a private roastery of its own.&#160; At the center of... 
 
 <https://dailycoffeenews.com/2024/09/30/with-new-roastery-the-sky-is-clear-for-pink-cloud-coffee-in-la/>
 
@@ -188,7 +218,7 @@ date: 2024-09-30, from: Daily Coffee News
 
 date: 2024-09-30, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Ethiopia Coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Ever since European legislators put their stamp on the final draft of the new EU deforestation-free supply chain law (EUDR) in December 2022, organizations in and around the coffee industry... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Ethiopia Coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Ever since European legislators put their stamp on the final draft of the new EU deforestation-free supply chain law (EUDR) in December 2022, organizations in and around the coffee industry... 
 
 <https://dailycoffeenews.com/2024/09/30/report-ethiopian-coffee-producers-facing-green-squeeze-from-eudr/>
 

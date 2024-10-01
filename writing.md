@@ -1,11 +1,47 @@
 ---
 title: writing
-updated: 2024-10-01 05:45:56
+updated: 2024-10-01 08:39:46
 ---
 
 # writing
 
-(date: 2024-10-01 05:45:56)
+(date: 2024-10-01 08:39:46)
+
+---
+
+## Escape Pod, Lightspeed, and Baffling,: Short Fiction Reviews by Charles Payseur
+
+date: 2024-10-01, from: Locus Magazine
+
+<p>Escape Pod 7/11/24
+Lightspeed 7/24
+Baffling 7/24</p>
+<p><strong>Brian Hugenbruch </strong>features in the July Escape Pod with the rather charming “<strong>A Foundational Model for Talking to Girls</strong>”. The story unfolds with a backdrop of the ruined Earth, humans surviving in orbit of their home and living very different lives. But social awkwardness is still definitely a thing, which the narrator can at­test to, as he finds himself unable to  <a href="https://locusmag.com/2024/10/escape-pod-lightspeed-and-baffling-short-fiction-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/escape-pod-lightspeed-and-baffling-short-fiction-reviews-by-charles-payseur/>
+
+---
+
+## Buckling Down (Encore)
+
+date: 2024-10-01, from: John August blog
+
+John and Craig are on opposite sides of the world this week, so they’re revisiting an episode from 2016 to look at the many psychological barriers facing writers tackling big projects, and offer practical strategies for actually getting the work done. They also discuss the then-upcoming election (same as it ever was), and answer a [&#8230;]
+The post <a href="https://johnaugust.com/2024/buckling-down-encore">Buckling Down (Encore)</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/buckling-down-encore>
+
+---
+
+## New Books, 1 October 2024
+
+date: 2024-10-01, from: Locus Magazine
+
+<p>Ajram, Sofia: <b>Coup de Grâce</b>
+(Titan Books 9781803369624, $19.99, 144pp, formats: hardcover, ebook, 10/01/2024)</p>
+<p>Experimental horror novel in the form of a sort of CYOA novel. Vicken has a plan: throw himself into the Saint Lawrence River in Montreal and end it all for good, believing it to be the only way out for him after a lifetime of depression and pain. But, stepping off the subway, he finds himself  <a href="https://locusmag.com/2024/10/new-books-1-october-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/new-books-1-october-2024/>
 
 ---
 

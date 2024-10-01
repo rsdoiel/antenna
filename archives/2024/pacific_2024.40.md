@@ -1,11 +1,31 @@
 ---
 title: pacific
-updated: 2024-10-01 05:45:51
+updated: 2024-10-01 08:39:41
 ---
 
 # pacific
 
-(date: 2024-10-01 05:45:51)
+(date: 2024-10-01 08:39:41)
+
+---
+
+## No alliance, but caretaking!
+
+date: 2024-10-01, from: Pacific Island Times
+
+Let us first clarify the popular misconception about the relationship between the United States and Israel as an “alliance."  If we... 
+
+<https://www.pacificislandtimes.com/post/no-alliance-but-caretaking>
+
+---
+
+## In the shadow of global conflicts, Nauru and FSM appeal for world peace
+
+date: 2024-10-01, from: Pacific Island Times
+
+Wesley Simina seeks Security Council membership for small island states By Mar-Vic Cagurangan   Leaders of the Federated States of... 
+
+<https://www.pacificislandtimes.com/post/in-the-shadow-of-global-conflicts-nauru-and-fsm-appeal-for-world-peace>
 
 ---
 
@@ -691,6 +711,106 @@ date: 2024-09-30, from: Hawai'i Pacific Review (HPU Literary Magazine)
  by Alison Amato Mom always told me to be home before two a.m.&#8211; All the drunks are on the road after that. And there we were, a pair of young drunks, minutes shy of three a.m., using our loud whispers &#8230; <a href="https://hawaiipacificreview.org/2024/09/30/young-drunks/">Continue reading <span class="meta-nav">&#8594;</span></a> 
 
 <https://hawaiipacificreview.org/2024/09/30/young-drunks/>
+
+---
+
+## MLB roundup: Dodgers beat Rockies, spoil Blackmon’s farewell
+
+date: 2024-09-30, updated: 2024-10-01, from: Marianas Variety
+
+(Reuters) — Shohei Ohtani fell short in his bid to become the first National League Triple Crown winner since 1937, but Chris Taylor's home run helped power the Los Angeles Dodgers to a 2-1 win over the Colorado Rockies on Sunday in Denver to spoil Charlie Blackmon's final game. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-dodgers-beat-rockies-spoil-blackmon-s-farewell/article_9052fad4-7f32-11ef-972d-274ea401c5b0.html>
+
+---
+
+## NMC eyes renewable energy sources for new campus
+
+date: 2024-09-30, updated: 2024-10-01, from: Marianas Variety
+
+Northern Marianas College Vice President for Administration and Advancement Frankie Eliptico, left, recently met with Commonwealth Utilities Corporation Executive Director Kevin Watson regarding the NMC’s planned activities to incorporate solar energy and other renewable energy sources into its new campus. NMC intends to apply for Leadership in Energy and Environmental Design or LEED certification for its buildings. The meeting was also attended by NMC Capital Improvement Projects Director Rachel Fusco, NMC Grants Coordinator Rita Duan, and CUC Renewable Energy Engineer Adrian Reyes. 
+
+<https://www.mvariety.com/news/local/nmc-eyes-renewable-energy-sources-for-new-campus/article_da933d94-7f36-11ef-85f1-df7b9300e305.html>
+
+---
+
+## Man accused of tossing urine into air conditioner
+
+date: 2024-09-30, updated: 2024-10-01, from: Marianas Variety
+
+SUPERIOR Court Clerk of Court Patric Diaz has issued a penal summons against Larry B. Lacson, who has been accused of throwing urine into an air conditioning unit of another person. 
+
+<https://www.mvariety.com/news/local/man-accused-of-tossing-urine-into-air-conditioner/article_97a4989c-7ee2-11ef-b47f-e76b25b52d8e.html>
+
+---
+
+## ‘Joker’ sequel ‘Joker: Folie a Deux’ dives deep into identity
+
+date: 2024-09-30, updated: 2024-10-01, from: Marianas Variety
+
+LOS ANGELES (Reuters) — When Joaquin Phoenix reprised his role as the Joker in the new movie sequel about the DC Comics villain he learned that the filmmakers wanted to focus on music in a new way. 
+
+<https://www.mvariety.com/lifestyle/joker-sequel-joker-folie-a-deux-dives-deep-into-identity/article_4505c4ec-7f39-11ef-9d6b-a7886f13b6c9.html>
+
+---
+
+## China holds military drills in South China Sea after talks with US
+
+date: 2024-09-30, updated: 2024-10-01, from: Marianas Variety
+
+BEIJING (Reuters) — Chinese air and naval forces are conducting maneuvers in a disputed area of the South China Sea, the military said on Saturday, hours after the country's top diplomat discussed ways of reducing regional tension with his U.S. counterpart. 
+
+<https://www.mvariety.com/news/regional_world/china-holds-military-drills-in-south-china-sea-after-talks-with-us/article_7136f3ee-7f37-11ef-b584-7f9be40690f9.html>
+
+---
+
+## Kate Winslet melds into a model turned war photographer in ‘Lee’
+
+date: 2024-09-30, updated: 2024-10-01, from: Marianas Variety
+
+LOS ANGELES (Reuters) — Kate Winslet felt a deep connection to her role as the real-life World War Two photographer Elizabeth “Lee” Miller in the film “Lee.” 
+
+<https://www.mvariety.com/lifestyle/kate-winslet-melds-into-a-model-turned-war-photographer-in-lee/article_7193a7c6-7f3a-11ef-94d1-8770afe25f38.html>
+
+---
+
+## Broadening gains in US stock market underscore optimism on economy
+
+date: 2024-09-30, updated: 2024-10-01, from: Marianas Variety
+
+NEW YORK (Reuters) — More stocks are participating in the S&amp;P 500’s latest march to record highs, easing concerns over a rally that has been concentrated in a handful of giant technology names for much of 2024. 
+
+<https://www.mvariety.com/business/business_news/broadening-gains-in-us-stock-market-underscore-optimism-on-economy/article_44fd5b7a-7f3b-11ef-aaf6-7bc7806016bd.html>
+
+---
+
+## Refaluwasch community gathers on Managaha to honor Chief Aghurubw
+
+date: 2024-09-30, updated: 2024-10-01, from: Marianas Variety
+
+MEMBERS of the Refaluwasch community on Saturday gathered on Managaha to honor their ancestor, Chief Aghurubw of Satawal. 
+
+<https://www.mvariety.com/news/local/refaluwasch-community-gathers-on-managaha-to-honor-chief-aghurubw/article_aee7a946-7ef0-11ef-90a0-37e28b988e76.html>
+
+---
+
+## Update on 2023 tax refund status
+
+date: 2024-09-30, updated: 2024-10-01, from: Marianas Variety
+
+(DRT) — The Division of Revenue and Taxation would like to inform taxpayers of the current status and expected timelines for their 2023 tax refunds.  As of September 2024, the majority of tax refunds have been processed, but some are still pending. 
+
+<https://www.mvariety.com/news/local/update-on-2023-tax-refund-status/article_2bc68766-7f37-11ef-82d7-9b19e5f0c4b7.html>
+
+---
+
+## Hurricane Helene kills at least 90; homes and memories washed away
+
+date: 2024-09-30, updated: 2024-10-01, from: Marianas Variety
+
+FLAT ROCK, North Carolina (Reuters) — The Southeastern U.S. began a huge cleanup and recovery effort on Sunday and the death toll climbed towards 100 after Hurricane Helene knocked out power for millions, destroyed roads and bridges and caused dramatic flooding from Florida to Virginia. 
+
+<https://www.mvariety.com/news/national/hurricane-helene-kills-at-least-90-homes-and-memories-washed-away/article_da017e58-7f37-11ef-a4ca-3fe6c2d597b0.html>
 
 ---
 

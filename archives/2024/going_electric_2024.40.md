@@ -1,11 +1,87 @@
 ---
 title: going electric
-updated: 2024-10-01 05:46:02
+updated: 2024-10-01 08:39:52
 ---
 
 # going electric
 
-(date: 2024-10-01 05:46:02)
+(date: 2024-10-01 08:39:52)
+
+---
+
+## Tesla’s Robotaxi Unveiling: Is it the Biggest Bait-and-Switch?
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is set to unveil a vehicle specifically designed to be a robotaxi, all while it is still selling its long-standing promise that its consumer vehicles would transform into self-driving taxis through software updates. </p>
+
+
+
+<p>Some wonder if this is a bait-and-switch.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="382231" href="https://electrek.co/2024/10/01/teslas-robotaxi-unveiling-is-it-the-biggest-bait-and-switch/#more-382231" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/teslas-robotaxi-unveiling-is-it-the-biggest-bait-and-switch/>
+
+---
+
+## Hyundai IONIQ 5 sales top 30,000 in the US for 2024 after ‘strong demand’ in Q3
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Hyundai-IONIQ-5-sales-May.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/hyundai/">Hyundai</a> set a new third-quarter retail sales record in the US, partially driven by “strong demand” for the all-electric IONIQ 5. The IONIQ 5 remains one of the best-selling EVs, with over 30,000 models sold in 2024.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="382239" href="https://electrek.co/2024/10/01/hyundai-ioniq-5-sales-top-30k-us-2024-strong-q3/#more-382239" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/hyundai-ioniq-5-sales-top-30k-us-2024-strong-q3/>
+
+---
+
+## The 'EV Slowdown' Comes For Gas Cars
+
+date: 2024-10-01, from: Inside EVs News
+
+Plus, Tesla beats FSD lawsuit, and ultra-luxury brands are being really weird about electrification. 
+
+<https://insideevs.com/news/735648/ev-slowdown-comes-for-gas/>
+
+---
+
+## Kia’s EV sales skyrocket in the US in September, driven by the hot new EV9 SUV
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/Kia-EV9-price.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Who said electric vehicle sales are slowing? <a href="https://electrek.co/guides/kia/">Kia</a> is on a hot streak as EV sales in the US continued to surge in September. New SUVs, including the three-row <a href="https://electrek.co/guides/kia-ev9/">electric EV9</a>, drove the record-setting performance.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev6" data-layer-viewtype="unknown" data-post-id="382226" href="https://electrek.co/2024/10/01/kia-ev-sales-skyrocket-september-hot-new-ev9-suv-rolls-out/#more-382226" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/kia-ev-sales-skyrocket-september-hot-new-ev9-suv-rolls-out/>
+
+---
+
+## Mazda EZ-6 Electric Sedan Costs Under $23,000 In China
+
+date: 2024-10-01, from: Inside EVs News
+
+The Volkswagen ID.7 rival from Mazda is also available as a range-extender EV. 
+
+<https://insideevs.com/news/735633/mada-ez-6-china-pricing/>
+
+---
+
+## That Cheap Chevy Silverado EV You Want From Hertz Can’t Use Tesla Superchargers
+
+date: 2024-10-01, from: Inside EVs News
+
+Neither the Silverado EV Work Truck nor the BrightDrop electric van can use Tesla’s DC fast charging network. Here's why. 
+
+<https://insideevs.com/news/735665/chevrolet-silverado-ev-wt-tesla-supercharger/>
 
 ---
 

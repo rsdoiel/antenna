@@ -1,11 +1,130 @@
 ---
 title: weather
-updated: 2024-10-01 05:45:55
+updated: 2024-10-01 08:39:45
 ---
 
 # weather
 
-(date: 2024-10-01 05:45:55)
+(date: 2024-10-01 08:39:45)
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-10-01, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Tue, 01 Oct 2024 15:24:14 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-10-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1022 AM CDT Tue Oct 01 2024
+
+Valid 011700Z - 021200Z
+
+...CRITICAL FIRE WEATHER AREA FOR FAR EASTERN MONTANA INTO WESTERN
+NORTH DAKOTA...
+
+The previous forecast remains on track with surface observations
+showing strengthening winds across central MT and parts of western
+ND as a surface low begins to deepen across southern SK. This trend
+will continue as the low deepens further across the southern
+Canadian Prairies this afternoon. Both the Elevated and Critical
+risk areas were expanded eastward with this update based on recent
+12 UTC guidance, which suggests the axis of stronger 925-850 mb
+winds (and by extension the corridor with the strongest surface
+gusts) may be displaced slightly further east than previously
+anticipated and centered over the western to central Dakotas by peak
+heating. The 12 UTC GGW sounding sampled these stronger winds just
+above the nocturnal inversion; elevated to critical fire weather
+conditions should begin by around 18 UTC as this inversion is mixed
+out. See the previous discussion below for additional details.
+
+..Moore.. 10/01/2024
+
+.PREV DISCUSSION... /ISSUED 0153 AM CDT Tue Oct 01 2024/
+
+...Synopsis...
+A strong area of high pressure will initially dominate the pattern
+across the western 2/3rds of the CONUS for the first half of the day
+today. However, by midday lee troughing will start to strengthen
+across Alberta. This will tighten the pressure gradient across the
+northern Rockies and northern High Plains and result in gusty winds
+across Montana, the western Dakotas, and into the Nebraska
+Panhandle/northeast Colorado. The greatest confidence in 20+ mph
+sustained winds and low relative humidity, in the vicinity of dry
+fuels, is across eastern Montana and western North Dakota where the
+Critical delineation is present. Some strong winds are also possible
+across north-central Montana where relative humidity is expected to
+be in the low 20s. However, despite conditions that will likely meet
+Critical criteria, fuels are not that dry across this region and
+thus, an Elevated area is likely sufficient for the threat. 
+
+An additional area of dry and breezy conditions is present across
+southern Wyoming, where winds of 15 to 20 mph are possible with
+single digit relative humidity. 
+
+Finally, quite substantial dry and breezy conditions, meeting
+Critical criteria, are expected across southwest New Mexico and
+southeast Arizona. However, fuels in this region are not dry enough
+to support a significant fire threat. Therefore, no Elevated or
+Critical areas are warranted.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## SPC - No watches are valid as of Tue Oct  1 15:24:01 UTC 2024
+
+date: 2024-10-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Tue Oct  1 15:24:01 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Tue Oct  1 15:24:01 UTC 2024
+
+date: 2024-10-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Tue Oct  1 15:24:01 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-10-01, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Tue Oct 1 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Tropical <br>Storm Kirk, located over the central tropical Atlantic Ocean.<br><br>1. Northwestern Caribbean Sea and Gulf of Mexico:<br>Disorganized showers and thunderstorms located over the southwestern <br>Caribbean Sea are associated with a trough of low pressure. <br>Environmental conditions could support some gradual development of <br>this system, and a tropical depression could form towards the end of <br>this week or this weekend while it moves generally northwestward <br>over the northwestern Caribbean Sea and into the Gulf of Mexico. <br>Interests along the U.S. Gulf Coast should continue to monitor the <br>progress of this system.<br>* Formation chance through 48 hours...low...10 percent. <br>* Formation chance through 7 days...medium...40 percent.<br><br />
+2. Eastern Tropical Atlantic (AL91):<br>Showers and thunderstorms continue to show signs organization in <br>association with a broad area of low pressure located a few hundred <br>miles south-southwest of the Cabo Verde Islands.  Environmental <br>conditions appear conducive for further development of this system, <br>and a tropical depression is expected to form during the next <br>couple of days while it moves slowly westward over the eastern <br>tropical Atlantic.<br>* Formation chance through 48 hours...high...80 percent. <br>* Formation chance through 7 days...high...90 percent.<br><br />
+<br>Forecaster Papin/Mora<br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
@@ -52,56 +171,6 @@ within a band of convection over parts of the eastern Great Lakes.
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC - No watches are valid as of Tue Oct  1 12:30:02 UTC 2024
-
-date: 2024-10-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Tue Oct  1 12:30:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Tue Oct  1 12:30:02 UTC 2024
-
-date: 2024-10-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Tue Oct  1 12:30:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-10-01, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Tue, 01 Oct 2024 11:53:10 GMT 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-10-01, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Tue Oct 1 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Tropical <br>Storm Kirk, located over the central tropical Atlantic Ocean.<br><br>1. Northwestern Caribbean Sea and Gulf of Mexico:<br>Disorganized showers and thunderstorms located over the southwestern <br>Caribbean Sea are associated with a trough of low pressure. <br>Environmental conditions could support some gradual development of <br>this system, and a tropical depression could form towards the end of <br>this week or this weekend while it moves generally northwestward <br>over the northwestern Caribbean Sea and into the Gulf of Mexico. <br>Interests along the U.S. Gulf Coast should continue to monitor the <br>progress of this system.<br>* Formation chance through 48 hours...low...10 percent. <br>* Formation chance through 7 days...medium...40 percent.<br><br />
-2. Eastern Tropical Atlantic (AL91):<br>Showers and thunderstorms continue to show signs organization in <br>association with a broad area of low pressure located a few hundred <br>miles south-southwest of the Cabo Verde Islands.  Environmental <br>conditions appear conducive for further development of this system, <br>and a tropical depression is expected to form during the next <br>couple of days while it moves slowly westward over the eastern <br>tropical Atlantic.<br>* Formation chance through 48 hours...high...80 percent. <br>* Formation chance through 7 days...high...90 percent.<br><br />
-<br>Forecaster Papin/Mora<br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 

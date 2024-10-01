@@ -1,11 +1,93 @@
 ---
 title: columns
-updated: 2024-10-01 05:45:54
+updated: 2024-10-01 08:39:44
 ---
 
 # columns
 
-(date: 2024-10-01 05:45:54)
+(date: 2024-10-01 08:39:44)
+
+---
+
+##  The humble hyperlink, the backbone of the entire internet, is increasingly endangered.... 
+
+date: 2024-10-01, updated: 2024-10-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045356-the-humble-hyperlink-the->
+
+---
+
+## Podcasts, Wallcasts, and Paycasts
+
+date: 2024-10-01, from: Doc Searls (at Harvard), New Old Blog
+
+Would a blog be a blog if it went behind a paywall, or if you needed a subscription to read it? Of course not. Blogs are on the open Web, and tend to stay there so long as they don&#8217;t move away from their original location. Same should go for podcasts. &#8220;Wherever you get your [&#8230;] 
+
+<https://doc.searls.com/2024/10/01/podcasts-wallcasts-and-paycasts/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-01, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2021/06/14/strongman.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm still waiting for the podcast client that can subscribe to OPML lists, so I can subscribe to shows from my desktop, even automate it. If one of them did, we could start curated lists of feeds put together by smart people and influencers. The first podcast client that did this would open up the market, and stand out from the pack. I've been <a href="http://scripting.com/stories/2012/06/29/twoSuggestionsForPodcastCl.html">asking</a> for this from the inception of podcasting twenty years ago. I had it in my first podcatcher. It would be great if one of the popular clients of today adopted the idea. Happy to help. 
+
+<http://scripting.com/2024/10/01.html#a145535>
+
+---
+
+##  Evidence of &#8216;Negative Time&#8217; Found in Quantum Physics Experiment. &#8220;Another oddball quantum... 
+
+date: 2024-10-01, updated: 2024-10-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045358-evidence-of-negative-time>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-01, from: Miguel de Icaza Mastondon feed)
+
+<p>Also binary payloads for Linux and windows.</p> 
+
+<https://mastodon.social/@Migueldeicaza/113232557671509809>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-01, from: Dave Winer's Scripting News)
+
+Here is the monthly <a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2024/09.opml">archive</a> for <a href="http://scripting.com/">Scripting News</a> in OPML, for September. I've been systematically creating <a href="https://github.com/scripting/Scripting-News/tree/master/blog/opml">this archive</a> since May 2017. And also have been able to <a href="https://github.com/scripting/Scripting-News/tree/master/blog/opmlOtherSources">reconstruct</a> the archive for most of Scripting News going back to 1994.  I've been doing a lot of work with the contents of this archive in the last month. 
+
+<http://scripting.com/2024/10/01.html#a140106>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-01, from: Miguel de Icaza Mastondon feed)
+
+<p>All I want from Swift is for Swift-syntax to be compiled without optimization when building my project in release mode.</p> 
+
+<https://mastodon.social/@Migueldeicaza/113232510961310488>
+
+---
+
+##  Status Update 
+
+date: 2024-10-01, updated: 2024-10-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/status-update>
+
+---
+
+##  Thom Yorke is reworking Radiohead&#8217;s Hail to the Thief for a production... 
+
+date: 2024-10-01, updated: 2024-10-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045354-thom-yorke-is-reworking-r>
 
 ---
 

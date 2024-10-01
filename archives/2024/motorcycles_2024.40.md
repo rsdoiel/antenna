@@ -1,11 +1,31 @@
 ---
 title: motorcycles
-updated: 2024-10-01 05:46:00
+updated: 2024-10-01 08:39:49
 ---
 
 # motorcycles
 
-(date: 2024-10-01 05:46:00)
+(date: 2024-10-01 08:39:49)
+
+---
+
+## Yamaha XSR900 Start Drooling, You're Getting These Flashy Upgrades From Y’s Gear
+
+date: 2024-10-01, from: Ride Apart, Electric Motorcycle News
+
+Yamaha’s very own Y’s Gear has rolled out a whole selection of goodies for the brand’s flagship neo-retro roadster.  
+
+<https://www.rideapart.com/news/735492/2024-yamaha-xsr900-ys-gear-upgrades/>
+
+---
+
+## New Motorcycle YouTube Adventure Series Wants to Rival 'Long Way' Documentary
+
+date: 2024-10-01, from: Ride Apart, Electric Motorcycle News
+
+I don't want to jump the gun, but if it's between this and the Long Way Up, I'm leaning toward this. 
+
+<https://www.rideapart.com/news/735623/klim-ride-to-the-end-series-youtube/>
 
 ---
 

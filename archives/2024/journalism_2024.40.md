@@ -1,11 +1,21 @@
 ---
 title: journalism
-updated: 2024-10-01 05:45:57
+updated: 2024-10-01 08:39:47
 ---
 
 # journalism
 
-(date: 2024-10-01 05:45:57)
+(date: 2024-10-01 08:39:47)
+
+---
+
+## You might discover a conspiracy theory on social media — but you’re more likely to believe it if you hear it from a friend
+
+date: 2024-10-01, from: Nieman Journalism Lab
+
+Want to find some new conspiracy theories? Social media is a great place to find them. But will it make you believe them? That&#8217;s the question asked by a new working paper looking at conspiracy theories surrounding the Donald Trump assassination attempt on July 13. (Gotta love it when academia moves quickly!) It suggests that,... 
+
+<https://www.niemanlab.org/2024/10/you-might-discover-a-conspiracy-theory-on-social-media-but-youre-more-likely-to-believe-it-if-you-hear-it-from-a-friend/>
 
 ---
 

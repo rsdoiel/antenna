@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2024-10-01 05:45:52
+updated: 2024-10-01 08:39:42
 ---
 
 # ham radio
 
-(date: 2024-10-01 05:45:52)
+(date: 2024-10-01 08:39:42)
+
+---
+
+## Lightning strikes…thrice???!!!
+
+date: 2024-10-01, from: EDN Blog
+
+<img width="1400" height="782" src="https://www.edn.com/wp-content/uploads/Old-control-panel-harness-1.jpg?fit=1400%2C782" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Old-control-panel-harness-1.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/Old-control-panel-harness-1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Old-control-panel-harness-1.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Old-control-panel-harness-1.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Zap me once, shame on you. Zap me twice, shame on me. Zap me three times…time to move? </p>
+<p>The post <a href="https://www.edn.com/lightning-strikesthrice/" data-wpel-link="internal">Lightning strikes…thrice???!!!</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/lightning-strikesthrice/>
 
 ---
 
@@ -33,7 +45,7 @@ date: 2024-09-30, from: Amateur Radio Relay League News
 
 date: 2024-09-30, from: EDN Blog
 
-<img width="564" height="483" src="https://www.edn.com/wp-content/uploads/Figure2_16-stage-TLVR.png?fit=564%2C483" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure2_16-stage-TLVR.png?w=564 564w, https://www.edn.com/wp-content/uploads/Figure2_16-stage-TLVR.png?w=300 300w" sizes="(max-width: 564px) 100vw, 564px" /><p>A simple measurement that you can use to estimate actual leakage inductance in the TLVR secondary loop and optimize performance</p>
+<img width="564" height="483" src="https://www.edn.com/wp-content/uploads/Figure2_16-stage-TLVR.png?fit=564%2C483" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure2_16-stage-TLVR.png?w=564 564w, https://www.edn.com/wp-content/uploads/Figure2_16-stage-TLVR.png?w=300 300w" sizes="(max-width: 564px) 100vw, 564px" /><p>A simple measurement that you can use to estimate actual leakage inductance in the TLVR secondary loop and optimize performance</p>
 <p>The post <a href="https://www.edn.com/power-tips-133-measuring-the-total-leakage-inductance-in-a-tlvr-to-optimize-performance/" data-wpel-link="internal">Power Tips #133: Measuring the total leakage inductance in a TLVR to optimize performance</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

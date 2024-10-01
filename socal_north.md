@@ -1,11 +1,31 @@
 ---
 title: socal north
-updated: 2024-10-01 05:45:50
+updated: 2024-10-01 08:39:39
 ---
 
 # socal north
 
-(date: 2024-10-01 05:45:50)
+(date: 2024-10-01 08:39:39)
+
+---
+
+## Rancho Palos Verdes residents can only watch as massive landslide rips homes and dreams apart
+
+date: 2024-10-01, updated: 2024-10-01, from: The LAist
+
+Residents have been forced to decide whether to move or stay as an unrelenting landside forces power and gas shutoffs. 
+
+<https://laist.com/news/climate-environment/rancho-palos-verdes-landslide-rips-homes-and-dreams-apart>
+
+---
+
+## Triple digit highs expected for valleys, triggers excessive heat warnings
+
+date: 2024-10-01, updated: 2024-10-01, from: The LAist
+
+Excessive heat warnings kick in for some LA county valleys and the Inland Empire. 
+
+<https://laist.com/news/climate-environment/triple-digit-highs-valleys-excessive-heat-warnings>
 
 ---
 
