@@ -1,11 +1,196 @@
 ---
 title: food
-updated: 2024-09-30 07:51:27
+updated: 2024-10-01 05:46:02
 ---
 
 # food
 
-(date: 2024-09-30 07:51:27)
+(date: 2024-10-01 05:46:02)
+
+---
+
+## Spiced Coffee Cake
+
+date: 2024-10-01, from: Pepper Scale
+
+Now this is a cake you’ll be tempted to have a second slice of right after the first! Spiced coffee cake is so tasty, even if you aren’t a coffee fan. The caramel frosting tames the coffee flavor just right, like a caramel latte in ... <p class="read-more-container"><a title="Spiced Coffee Cake" class="read-more button" href="https://pepperscale.com/spiced-coffee-cake/#more-82305" aria-label="Read more about Spiced Coffee Cake">Read more</a></p> 
+
+<https://pepperscale.com/spiced-coffee-cake/>
+
+---
+
+## Jalapeño Corn Casserole
+
+date: 2024-10-01, from: Pepper Scale
+
+A corn casserole is one of those dishes that works well as either a filling meal or as tasty side. And for us, of course, it&#8217;s even better when it&#8217;s spiced up! It adds an edge to this feel-good food. This is one very versatile ... <p class="read-more-container"><a title="Jalapeño Corn Casserole" class="read-more button" href="https://pepperscale.com/jalapeno-corn-casserole/#more-4578" aria-label="Read more about Jalapeño Corn Casserole">Read more</a></p> 
+
+<https://pepperscale.com/jalapeno-corn-casserole/>
+
+---
+
+## Chipotle Chicken Fajitas
+
+date: 2024-10-01, from: Pepper Scale
+
+Fun, flavorful, and fast. That&#8217;s chipotle chicken fajitas. They are a triple threat come meal time. Smoky, fiery, and spiced just right—and they take just 30 minutes to make. This is a fun option for families who enjoy a little fieriness in their meals. The ... <p class="read-more-container"><a title="Chipotle Chicken Fajitas" class="read-more button" href="https://pepperscale.com/chipotle-chicken-fajitas/#more-97116" aria-label="Read more about Chipotle Chicken Fajitas">Read more</a></p> 
+
+<https://pepperscale.com/chipotle-chicken-fajitas/>
+
+---
+
+## Peruvian Parihuela With Tiger’s Milk
+
+date: 2024-10-01, from: Pepper Scale
+
+Here’s a lavish but simple showstopper. A variety of seafood is lightly poached in a chili-fired consommé that’s spiced with cumin and cilantro. Yellow pepper, red onion, and garlic add depths of flavor to this Peruvian Parihuela that are spot lit by a vividly tangy ... <p class="read-more-container"><a title="Peruvian Parihuela With Tiger’s Milk" class="read-more button" href="https://pepperscale.com/parihuela-with-tigers-milk/#more-86479" aria-label="Read more about Peruvian Parihuela With Tiger’s Milk">Read more</a></p> 
+
+<https://pepperscale.com/parihuela-with-tigers-milk/>
+
+---
+
+## Do Peppers Need To Be Refrigerated?
+
+date: 2024-10-01, from: Pepper Scale
+
+Fresh fruits and vegetables are among the most perishable food items, so do peppers need to be refrigerated to keep them at their peak? The quick answer: No, they don’t, within reason. Let&#8217;s break down why that is and what impact refrigeration does have on ... <p class="read-more-container"><a title="Do Peppers Need To Be Refrigerated?" class="read-more button" href="https://pepperscale.com/do-peppers-need-to-be-refrigerated/#more-86393" aria-label="Read more about Do Peppers Need To Be Refrigerated?">Read more</a></p> 
+
+<https://pepperscale.com/do-peppers-need-to-be-refrigerated/>
+
+---
+
+## Instant Pot Lentil Soup
+
+date: 2024-10-01, from: Taste of Home
+
+<span style="font-weight: 400;">This Instant Pot lentil soup is an easy way, hands-off way to get your comfort food fix. Make it at the start of the week for a cozy meal-prep lunch.</span> 
+
+<https://www.tasteofhome.com/recipes/instant-pot-lentil-soup/>
+
+---
+
+## Kofta Kabob
+
+date: 2024-09-30, from: Taste of Home
+
+An Italian spin on the classic kofta kabob, these cheesy meatballs are air-fried and served with a creamy tomato pesto sauce. 
+
+<https://www.tasteofhome.com/recipes/kofta-kabob/>
+
+---
+
+## The 6 Best Burr Coffee Grinders for Every Brew Style, Budget and Bean
+
+date: 2024-09-30, from: Taste of Home
+
+<p>We tried over 20 options to find the best burr coffee grinder for every latte lover. From espressos to pour-overs, these picks are perfect!</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-burr-coffee-grinders/">The 6 Best Burr Coffee Grinders for Every Brew Style, Budget and Bean</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/collection/best-burr-coffee-grinders/>
+
+---
+
+## Buffalo Chicken Soup
+
+date: 2024-09-30, from: Taste of Home
+
+Your next game day spread will be even more scrumptious than usual when you add this Buffalo chicken soup! 
+
+<https://www.tasteofhome.com/recipes/buffalo-chicken-soup/>
+
+---
+
+## arbol chile salsa
+
+date: 2024-09-30, from: Taste of Home
+
+Tired of the salsa recipe you always use? Chile de arbol salsa takes just 25 minutes to make and everyone loves it. 
+
+<https://www.tasteofhome.com/recipes/arbol-chile-salsa/>
+
+---
+
+## Black Beans and Rice
+
+date: 2024-09-30, from: Taste of Home
+
+One-pan meals are delightful in so many ways: There's less mess to clean up and only one pan to watch on the stove. This black beans and rice recipe is incredibly easy to make, as it uses canned black beans and ingredients you likely already have on hand. The entire dish is ready in around 30 minutes so it's ideal for a busy day. 
+
+<https://www.tasteofhome.com/recipes/black-beans-and-rice-2/>
+
+---
+
+## How to Pick a Good Spaghetti Squash
+
+date: 2024-09-30, from: Taste of Home
+
+<p>To find a ripe spaghetti squash in the garden or at the market, here's what to look for.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/how-to-pick-spaghetti-squash/">How to Pick a Good Spaghetti Squash</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/how-to-pick-spaghetti-squash/>
+
+---
+
+## National Coffee Day Could Be So Much Better
+
+date: 2024-09-30, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. What exactly are we even supposed to be celebrating? 
+
+<https://sprudge.com/national-coffee-day-could-be-so-much-better-256024.html>
+
+---
+
+## Roasted Pumpkin Seeds
+
+date: 2024-09-30, from: Taste of Home
+
+Roasting pumpkin seeds is easier than it seems. Just hollow out a pumpkin, spice the seeds and bake them for a fun snack. —Dawn Fagerstrom, Warren, Minnesota 
+
+<https://www.tasteofhome.com/recipes/roasted-pumpkin-seeds/>
+
+---
+
+## Mini Pineapple Upside-Down Cakes
+
+date: 2024-09-30, from: Taste of Home
+
+<p style="margin: 0in; background: white;"><span style="color: #1f1f1f;">With just 30 minutes of prep time, you'll have two dozen super-cute mini pineapple upside-down cakes before you know it!</span></p>
+<p style="margin: 0in; background: white;"><span style="color: #1f1f1f;"> </span></p> 
+
+<https://www.tasteofhome.com/recipes/mini-pineapple-upside-down-cakes/>
+
+---
+
+## The 9 Must-Visit New Restaurants of Fall 2024
+
+date: 2024-09-30, from: Bon Appetet
+
+A Momofuku comeback in New York, a celebrated Chicago chef’s new bar, and plenty more new restaurants to check out this season. 
+
+<https://www.bonappetit.com/story/best-new-restaurant-openings-fall-2024>
+
+---
+
+## With New Roastery, the Sky is Clear for Pink Cloud Coffee in LA
+
+date: 2024-09-30, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Pink Cloud Coffee 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The forecast is looking sunny for Southern California-based Pink Cloud Coffee, which recently moved from shared roasting facility and into a private roastery of its own.&#160; At the center of... 
+
+<https://dailycoffeenews.com/2024/09/30/with-new-roastery-the-sky-is-clear-for-pink-cloud-coffee-in-la/>
+
+---
+
+## Report: Ethiopian Coffee Producers Facing ‘Green Squeeze’ from EUDR
+
+date: 2024-09-30, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Ethiopia Coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Ethiopia-Coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Ever since European legislators put their stamp on the final draft of the new EU deforestation-free supply chain law (EUDR) in December 2022, organizations in and around the coffee industry... 
+
+<https://dailycoffeenews.com/2024/09/30/report-ethiopian-coffee-producers-facing-green-squeeze-from-eudr/>
 
 ---
 

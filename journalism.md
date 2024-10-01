@@ -1,11 +1,315 @@
 ---
 title: journalism
-updated: 2024-09-30 07:51:21
+updated: 2024-10-01 05:45:57
 ---
 
 # journalism
 
-(date: 2024-09-30 07:51:21)
+(date: 2024-10-01 05:45:57)
+
+---
+
+## Classifieds – October 1, 2024
+
+date: 2024-10-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/classifieds-october-1-2024/">Classifieds &#8211; October 1, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/classifieds-october-1-2024/>
+
+---
+
+## Campus housing isn’t safe for the next heat wave
+
+date: 2024-10-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>How long can students be expected to last in dorms without air conditioning?</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/campus-housing-isnt-safe-for-the-next-heat-wave/">Campus housing isn’t safe for the next heat wave</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/campus-housing-isnt-safe-for-the-next-heat-wave/>
+
+---
+
+## Is Logan Sargeant IndyCar bound?
+
+date: 2024-10-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Formula 1’s Sargeant could be bringing it back to the States.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/is-logan-sargeant-indycar-bound/">Is Logan Sargeant IndyCar bound?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/is-logan-sargeant-indycar-bound/>
+
+---
+
+## Volleyball ends first Midwest venture
+
+date: 2024-10-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC battled Ohio State at home and Nebraska away in its first Big Ten matchups.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/volleyball-ends-first-midwest-venture/">Volleyball ends first Midwest venture</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/volleyball-ends-first-midwest-venture/>
+
+---
+
+## Keck Hospital ranks 14 out of 115 for accountability, quality
+
+date: 2024-10-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Healthcare performance company awards hospital for second time since 2022.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/keck-hospital-ranks-14-out-of-115-for-accountability-quality/">Keck Hospital ranks 14 out of 115 for accountability, quality</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/keck-hospital-ranks-14-out-of-115-for-accountability-quality/>
+
+---
+
+## Crimes decrease around UPC
+
+date: 2024-10-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Department of Public Safety report a showed 6.8% drop in crimes reported. </p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/crimes-decrease-around-usc-campus/">Crimes decrease around UPC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/crimes-decrease-around-usc-campus/>
+
+---
+
+## Gov. Newsom signs bill to ban legacy, donor admission
+
+date: 2024-10-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Legacy students made up 14% of the Class of 2028, in USC’s admission data.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/gov-newsom-signs-bill-to-ban-legacy-donor-admission/">Gov. Newsom signs bill to ban legacy, donor admission</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/gov-newsom-signs-bill-to-ban-legacy-donor-admission/>
+
+---
+
+## ‘In The Gray’ demolishes social binaries
+
+date: 2024-10-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students Brian Bouffard and Scout Brodsky spearheaded a noir horror short film.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/in-the-gray-film-profile/">‘In The Gray’ demolishes social binaries</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/in-the-gray-film-profile/>
+
+---
+
+## Student video game fosters collaboration, creativity
+
+date: 2024-10-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The team behind acclaimed game “The WereCleaner” spoke about their process.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/student-video-game-fosters-collaboration-creativity/">Student video game fosters collaboration, creativity</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/student-video-game-fosters-collaboration-creativity/>
+
+---
+
+## What makes a planet?: UCLA professor seeks to fill the space in the definition
+
+date: 2024-10-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+There are eight recognized planets, according to the International Astronomical Union&#8217;s current definition of the term &#8211; but a new proposal could change that.
+The proposal &#8211; co-written by Jean-Luc Margot, a professor in the Departments of Earth, Planetary and Space Sciences as well as Physics and Astronomy &#8211; was submitted to the IAU to be considered at its 2024 General Assembly, which occurred in August. 
+
+<https://dailybruin.com/2024/09/30/what-makes-a-planet-ucla-professor-seeks-to-fill-the-space-in-the-definition/>
+
+---
+
+## Community members comment on campus antisemitism, UC funding at regents meeting
+
+date: 2024-10-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Board of Regents heard public comment from community members Sept. 18 and 19, with people calling for stronger action against campus antisemitism and others urging a shift in UC funding priorities. 
+
+<https://dailybruin.com/2024/09/30/community-members-comment-on-campus-antisemitism-uc-funding-at-regents-meeting/>
+
+---
+
+## Guide to Hispanic Heritage Events
+
+date: 2024-09-30, from: The Sundail (CSUN Student Newspaper)
+
+Queer Night Market, Malflora Mixer &#38; Mercado Thursday, Oct. 3 at 6 p.m. LA Plaza de Cultura y Artes Malflora (bad flower), a historically offensive term, is now reclaimed by... 
+
+<https://sundial.csun.edu/184862/arts-entertainment/guide-to-hispanic-heritage-events/>
+
+---
+
+## UCLA women’s volleyball claims first conference play win in Pauley Pavilion
+
+date: 2024-09-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Nothing beats the taste of victory on your home court.
+After 10 away matches, UCLA women&#8217;s volleyball (7-4, 1-1, Big Ten) continued conference play with a clash against Ohio State (7-5 , 0-2). 
+
+<https://dailybruin.com/2024/09/30/ucla-womens-volleyball-claims-first-conference-play-win-in-pauley-pavilion/>
+
+---
+
+## How to decorate your room for fall
+
+date: 2024-09-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/09/30/how-to-decorate-your-room-for-fall/>
+
+---
+
+## M.E.Ch.A de CSUN persists in its mission of building unity and empowerment for its community
+
+date: 2024-09-30, from: The Sundail (CSUN Student Newspaper)
+
+On campus, one motto connects a group of students to a greater cause: “La unión hace la fuerza.” This is the motto for student organization M.E.Ch.A (Movimiento Estudiantil Chicano de... 
+
+<https://sundial.csun.edu/184855/arts-entertainment/m-e-ch-a-de-csun-persists-in-its-mission-of-building-unity-and-empowerment-for-its-community/>
+
+---
+
+## Cantando/Matador Marquee
+
+date: 2024-09-30, from: The Sundail (CSUN Student Newspaper)
+
+Cantando 5th Dimension Just Friends Merging the classic pop punk style with Spanish lyrics in its chorus, Just Friends create a powerful statement track with “5th Dimension”. The lead vocals... 
+
+<https://sundial.csun.edu/184828/arts-entertainment/cantando-matador-marquee/>
+
+---
+
+## Women’s Soccer shows heritage on the field
+
+date: 2024-09-30, from: The Sundail (CSUN Student Newspaper)
+
+Historically, soccer has been a male-dominated sport in Latin American countries but, in recent years it has grown with women’s participation especially, at CSUN. With an already rich history of... 
+
+<https://sundial.csun.edu/185249/print-editions/womens-soccer-shows-heritage-on-the-field/>
+
+---
+
+## Newsom signs bill banning legacy, donor admissions
+
+date: 2024-09-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Last year, 14.5% of USC's admits were either legacy or donor applicants.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/30/newsom-signs-bill-banning-legacy-donor-admissions/">Newsom signs bill banning legacy, donor admissions</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/30/newsom-signs-bill-banning-legacy-donor-admissions/>
+
+---
+
+## UCLA women’s soccer wins 3-1 against Oregon, alters formation to secure more shots
+
+date: 2024-09-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Three players, three goals.
+No. 18 UCLA women&#8217;s soccer (9-2-2, 4-0-1 Big Ten) hosted Minnesota (8-2-2, 2-2-1) on Sunday for its second conference game at Wallis Annenberg Stadium. 
+
+<https://dailybruin.com/2024/09/30/ucla-womens-soccer-wins-3-1-against-oregon-alters-formation-to-secure-more-shots/>
+
+---
+
+## Breaking News Test Article
+
+date: 2024-09-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Test breaking news article content. This article was created for the purpose of testing the new breaking news category. Test breaking news article content. Test breaking news article content. 
+
+<https://dailybruin.com/2024/09/30/breaking-news-test-slug/>
+
+---
+
+## Hermanas Unidas Elevates Latinas
+
+date: 2024-09-30, from: The Sundail (CSUN Student Newspaper)
+
+Hermanas Unidas de CSUN is a nonprofit organization on campus that is dedicated to helping Latina students and providing a space for academics, networking, and community service. This is one... 
+
+<https://sundial.csun.edu/184824/arts-entertainment/hermanas-unidas-elevates-latinas/>
+
+---
+
+## Matador Madness returns: CSUN basketball teams shine in electrifying comeback event
+
+date: 2024-09-30, from: The Sundail (CSUN Student Newspaper)
+
+CSUN Atheltic’s Matador Madness made its return after seven years hiatus, giving students the opportunity to meet and cheer on their very own 2024-25 men’s and women’s basketball players in... 
+
+<https://sundial.csun.edu/185600/sports/matador-madness-returns-csun-basketball-teams-shine-in-electrifying-comeback-event/>
+
+---
+
+## Why does the Wichita Beacon keep losing reporters?
+
+date: 2024-09-30, from: Nieman Journalism Lab
+
+Three summers ago, nonprofit news organization The Beacon launched its second newsroom in Wichita, Kansas, expanding from its first newsroom in Kansas City, Missouri. On paper, the organization seemed to be on solid footing for that kind of growth: almost $4 million in the bank before launch, including $1.1 million from the Wichita Foundation and... 
+
+<https://www.niemanlab.org/2024/09/why-does-the-wichita-beacon-keep-losing-reporters/>
+
+---
+
+## UCLA women’s golf prepares for double-header in Illinois
+
+date: 2024-09-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins are headed into seemingly unknown territory.
+Despite winning the Windy City Collegiate Classic last year, the course is now completely unfamiliar to the Bruins. 
+
+<https://dailybruin.com/2024/09/30/ucla-womens-golf-prepares-for-double-header-in-illinois/>
+
+---
+
+## Deep Roots and Vibrant Steps
+
+date: 2024-09-30, from: The Sundail (CSUN Student Newspaper)
+
+Each swirl of a vibrant skirt and rhythmic steps of the feet by Ballet Folklórico Aztlán de CSUN carries the weight of centuries old traditions, forging a connection to indigenous... 
+
+<https://sundial.csun.edu/185357/print-editions/print-stories/deep-roots-and-vibrant-steps/>
+
+---
+
+## Review: Megalopolis – A Convoluted Vanity Project With a Few Redeeming Qualities
+
+date: 2024-09-30, from: The Sundail (CSUN Student Newspaper)
+
+“Megalopolis” is the latest dramatic “fable” from director, writer and producer Franics Ford Coppola. Renowned for iconic films such as “Apocalypse Now” (1979) and The Godfather series, Coppola returns with... 
+
+<https://sundial.csun.edu/185592/arts-entertainment/review-megalopolis-a-convoluted-vanity-project-with-a-few-redeeming-qualities/>
+
+---
+
+## Sweet Success: ChilOSO Gummy Bear
+
+date: 2024-09-30, from: The Sundail (CSUN Student Newspaper)
+
+Tucked inside a small shopping center just 10 minutes from CSUN is the “Original Chile Gummy Bear Candy” store. The graffiti art  across the main wall and fully stocked shelves... 
+
+<https://sundial.csun.edu/185364/print-editions/print-stories/sweet-success-chiloso-gummy-bear/>
+
+---
+
+## Letter From Editor
+
+date: 2024-09-30, from: The Sundail (CSUN Student Newspaper)
+
+Dear Sundial readers, This second issue of Sundial’s magazine highlights Hispanic Heritage Month. From Sept. 15 to Oct. 15 is a time to celebrate and recognize the rich cultural contributions,... 
+
+<https://sundial.csun.edu/184859/print-editions/letter-from-editor/>
 
 ---
 
@@ -153,7 +457,7 @@ The committee invited winners of the UC Grad Slam to present research during the
 
 date: 2024-09-29, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Sept. 29 at 7:28 p.m.</em>
+<em>This post was updated Sept. 30 at 2:11 p.m.</em>
 Residents of the Laurel apartment building lost water access Sunday afternoon.
 According to an email to Laurel residents at 12:40 p.m. 
 

@@ -1,11 +1,275 @@
 ---
 title: going electric
-updated: 2024-09-30 07:51:26
+updated: 2024-10-01 05:46:02
 ---
 
 # going electric
 
-(date: 2024-09-30 07:51:26)
+(date: 2024-10-01 05:46:02)
+
+---
+
+## SWITCH-ON project has 70 Volvo VNR Electric trucks headed to California
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/volvo_vnr.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>SWITCH-ON is a $21.5M funding project supported by the Environmental Protection Agency (EPA) and the South Coast Air Quality Management District (South Coast AQMD) that will see more than <a href="https://electrek.co/2024/09/22/home-hardware-adds-volvo-vnr-electric-semi-trucks-to-its-fleet/">70 of Volvo’s VNR Electric delivered to customers</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,electric-semi-truck,volvo-trucks" data-layer-viewtype="unknown" data-post-id="382189" href="https://electrek.co/2024/10/01/switch-on-project-has-70-volvo-vnr-electric-trucks-headed-to-california/#more-382189" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/switch-on-project-has-70-volvo-vnr-electric-trucks-headed-to-california/>
+
+---
+
+## Serve Robotics and Wing partner up to begin testing autonomous robot-to-drone food deliveries [Video]
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/drone-deliveries-Serve-wing.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Autonomous sidewalk delivery provider <a href="https://electrek.co/guides/serve-robotics/">Serve Robotics </a>has partnered with on-demand drone delivery provider Wing Aviation to pilot food transportation options that will “redefine last-mile delivery.” Together, the new partners will start testing autonomous robot-to-drone deliveries to customers several miles away.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous-deliveries,drone,serve-robotics,wing" data-layer-viewtype="unknown" data-post-id="382152" href="https://electrek.co/2024/10/01/serve-robotics-wing-partner-autonomous-robot-to-drone-food-deliveries-video/#more-382152" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/serve-robotics-wing-partner-autonomous-robot-to-drone-food-deliveries-video/>
+
+---
+
+## E1 electric boat racing series reveals first Grand Prix location for its second season in 2025
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/E1-racing-2025.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The UIM E1 World Championship<span style="margin: 0px; padding: 0px;">, an electric boat racing series approaching the end of its inaugural season, is already looking ahead to season two in 2025. The <a href="https://electrek.co/guides/e1/" target="_blank" rel="noopener">E1 Series</a> unveiled its first location, Qatar, where it will race its 100% electric boat</span>s.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="e1,e1-series,electric-boat-racing,uim-e1-world-championship" data-layer-viewtype="unknown" data-post-id="382208" href="https://electrek.co/2024/10/01/e1-electric-boat-racing-reveals-first-grand-prix-location-second-season-2025/#more-382208" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/e1-electric-boat-racing-reveals-first-grand-prix-location-second-season-2025/>
+
+---
+
+## Urban Arrow launches updated Bosch-powered electric cargo bikes in the US
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/urban-arrow-cargo-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://urbanarrow.com/en-na/">Urban Arrow</a>, a major player in the premium electric cargo bike market, has unveiled its newly updated Family Line of eCargo bikes featuring the Bosch Smart System. The cargo bike company, known for its practical and family-friendly front loader design, aims to provide a powerful, sustainable alternative to cars with this launch, targeting families who want to embrace urban mobility with a premium ride.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="382207" href="https://electrek.co/2024/10/01/urban-arrow-launches-updated-bosch-powered-electric-cargo-bikes-in-the-us/#more-382207" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/urban-arrow-launches-updated-bosch-powered-electric-cargo-bikes-in-the-us/>
+
+---
+
+## Jeep Recalls 194,000 Plug-In Hybrid SUVs Over Battery Fire Risk
+
+date: 2024-10-01, from: Inside EVs News
+
+Certain Wrangler 4xe and Grand Cherokee 4xe models are affected, with the vast majority being U.S.-market vehicles. 
+
+<https://insideevs.com/news/735661/jeep-recall-wrangler-grand-cherokee-phev-battery-fire-risk/>
+
+---
+
+## $25,000 electric Mazda, Tesla FSD v12.5 data dive, and a big, BIG crane
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/ez6_25000.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.youtube.com/@ElectrekDaily"></a></p>
+
+
+
+<p>On today’s heavy episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we check out the world’s largest electric crane, analyze the crowd sourced Tesla FSD driving data for v12.5, and check out the all-new $25,000 EV from Mazda (that just went on sale).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mazda,quick-charge,tesla-full-self-driving" data-layer-viewtype="unknown" data-post-id="382176" href="https://electrek.co/2024/09/30/25000-electric-mazda-tesla-fsd-v12-5-data-dive-and-a-big-big-crane/#more-382176" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/30/25000-electric-mazda-tesla-fsd-v12-5-data-dive-and-a-big-big-crane/>
+
+---
+
+## Aquaculture is going electric in Maine with the help of Aqua superPower and the US DOE
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Maine-electric-Aquaculture.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Leading marine charging network <a href="https://electrek.co/guides/aqua-superpower/">Aqua </a><span style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px;"><a href="https://electrek.co/guides/aqua-superpower/" target="_blank" rel="noopener">SuperPower</a>, along with the United States Department of Energy, is helping bring more sustainability to Maine’s waters</span>. Aquaculture specialist and oyster cultivator Maine Ocean Farms has received a grant from the government to deploy custom-built electric boats that will be recharged by Aqua superPower fast chargers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aqua-superpower,electric-boat,electric-boats,maine,united-states-department-of-energy,vita" data-layer-viewtype="unknown" data-post-id="382166" href="https://electrek.co/2024/09/30/aquaculture-going-electric-maine-aqua-superpower-us-doe/#more-382166" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/30/aquaculture-going-electric-maine-aqua-superpower-us-doe/>
+
+---
+
+## Enel signs a PPA with Tate & Lyle for Texas wind
+
+date: 2024-09-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/enel-ranchland_wind-texas.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Enel North America has signed a 12-year power purchase agreement (PPA) with food and beverage giant Tate &amp; Lyle North America for clean power from Texas wind. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,enel,solar,texas,wind-power" data-layer-viewtype="unknown" data-post-id="382146" href="https://electrek.co/2024/09/30/enel-ppa-with-tate-lyle-texas-wind-storage/#more-382146" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/30/enel-ppa-with-tate-lyle-texas-wind-storage/>
+
+---
+
+## Volvo’s cheapest EV just hit a major milestone as sales surge
+
+date: 2024-09-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Volvos-cheapest-EV-milestone-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volvo’s cheapest EV, <a href="https://electrek.co/guides/volvo-ex30/">the EX30</a>, has already crossed a significant milestone. The 100,000th Volvo EX30 rolled off the assembly line on September 30 as demand for the low-cost electric SUV continues rising.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo,volvo-ex30" data-layer-viewtype="unknown" data-post-id="382127" href="https://electrek.co/2024/09/30/volvos-cheapest-ev-major-milestone-sales-surge/#more-382127" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/30/volvos-cheapest-ev-major-milestone-sales-surge/>
+
+---
+
+## Why Hurricane Floods Can Cause EV Battery Fires
+
+date: 2024-09-30, from: Inside EVs News
+
+In the wake of Hurricane Helene, authorities are warning EV owners that batteries and salt water are a bad combination. 
+
+<https://insideevs.com/news/735638/ev-fire-after-flood/>
+
+---
+
+## Tesla Drivers Aren't Happy With GM Owners Learning To Use Superchargers
+
+date: 2024-09-30, from: Inside EVs News
+
+GM EVs now have access to the Tesla Supercharging network and some Tesla owners aren't happy about it. 
+
+<https://insideevs.com/news/735634/tesla-gm-supercharger-access-parking/>
+
+---
+
+## Would you pay extra for bidirectional charging?
+
+date: 2024-09-30, from: Electrek Feed
+
+To limit power outages and make your home more resilient, consider going solar with a battery storage system. In order... 
+
+<https://electrek.co/poll-post/would-you-pay-extra-for-bidirectional-charging/>
+
+---
+
+## Big discounts are coming for Jeep, Dodge as US sales crash ahead of first EV launches
+
+date: 2024-09-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Jeeps-first-EV-delayed-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/jeep/">Jeep</a> and Dodge’s parent company, Stellantis, will offer hefty discounts and reduce output as it looks to reverse plunging US sales. Stellantis warned of significantly lower profits this year as US sales fall. It’s also facing rising low-cost competition from China globally.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dodge,jeep,stellantis" data-layer-viewtype="unknown" data-post-id="382090" href="https://electrek.co/2024/09/30/big-discounts-jeep-dodge-us-sales-crash/#more-382090" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/30/big-discounts-jeep-dodge-us-sales-crash/>
+
+---
+
+## The $35,000 Chevrolet Equinox EV LT Is Here
+
+date: 2024-09-30, from: Inside EVs News
+
+The Chevy Equinox EV LT has begun arriving at dealerships. With tax credits, you can grab one for as low as $27,000. 
+
+<https://insideevs.com/news/735628/2025-chevy-equinox-ev-lt/>
+
+---
+
+## Segway x260 electric dirt bike $975 off, Anker SOLIX early fall Prime Day sale offers $4,134 in savings, BMX e-bike low, more
+
+date: 2024-09-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Segway-x260-Electric-Dirt-Bike.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>We’re kicking off this week’s Green Deals in a higher gear, with <a href="https://9to5toys.com/2024/09/30/save-975-on-segways-x260-electric-dirt-bike-that-hits-47-mph-and-travels-up-to-75-miles-at-5525/">Segway’s x260 Electric Dirt Bike</a> taking the lead at <a href="https://9to5toys.com/2024/09/30/save-975-on-segways-x260-electric-dirt-bike-that-hits-47-mph-and-travels-up-to-75-miles-at-5525/">$5,525</a>. Anker has launched its <a href="https://9to5toys.com/2024/09/30/run-anything-with-ankers-solix-f2000-power-station-from-1199-save-800-in-early-fall-prime-day-sale/">early fall Prime Day sale</a> that will be ending right along with the upcoming 2-day event and has the <a href="https://9to5toys.com/2024/09/30/run-anything-with-ankers-solix-f2000-power-station-from-1199-save-800-in-early-fall-prime-day-sale/">SOLIX F2000 Portable Power Station starting from $1,199</a>, with plenty of discounted bundle and extra savings options too. Offering you more choice for your commute, we have the return of <a href="https://9to5toys.com/2024/09/30/second-chance-to-score-hypers-jet-fuel-step-over-bmx-e-bike-at-600-low-reg-1000/">Hyper’s Jet Fuel BMX e-bike to its $600 low</a> for a longer-term period, as well as <a href="https://9to5toys.com/2024/09/30/okais-ranger-e-bike-carries-you-through-streets-and-trails-alike-at-1500-reg-2000/">OKAI’s Ranger All-Terrain e-bike down at $1,500</a>. Bringing up the rear today is a one-day low price on the popular <a href="https://9to5toys.com/2024/09/30/clear-your-yard-this-fall-with-greenworks-80v-730-cfm-cordless-handheld-blower-at-170-low-reg-250-today-only/">Greenworks 80V 730 CFM Cordless Handheld Blower at $170</a>. Plus, all the other hangover Green Deals in the links at the bottom of the page, like last week’s  ongoing EV sales from <a href="https://9to5toys.com/2024/09/27/score-velotrics-2024-discover-1-plus-commuter-e-bike-at-1199-and-get-102-in-free-gear-1701-value-more/">Velotric</a>, <a href="https://9to5toys.com/2024/09/26/radwagon-cargo-e-bikes-and-the-brands-new-folding-model-are-now-up-to-309-off-deals-from-1299/">Rad Power</a>, and <a href="https://9to5toys.com/2024/09/26/juiced-offers-additional-sitewide-10-off-discount-with-e-bikes-starting-from-1349/">Juiced Bikes</a>, and plenty more.  </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="382073" href="https://electrek.co/2024/09/30/segway-x260-electric-dirt-bike-anker-solix-prime-day-sale-bmx-e-bike-more/#more-382073" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/30/segway-x260-electric-dirt-bike-anker-solix-prime-day-sale-bmx-e-bike-more/>
+
+---
+
+## NIO (NIO) stock climbs after securing huge $470 million cash injection
+
+date: 2024-09-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/NIO-stock-cash-investment-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s <a href="https://electrek.co/guides/nio/">NIO</a> (NIO) just received a $470 million cash investment as it prepares for its next growth stage. With the new funding and the launch of its low-cost Onvo brand, NIO is laying the groundwork to accelerate sales.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nio" data-layer-viewtype="unknown" data-post-id="382057" href="https://electrek.co/2024/09/30/nio-nio-stock-climbs-after-securing-470-million-cash-injection/#more-382057" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/30/nio-nio-stock-climbs-after-securing-470-million-cash-injection/>
+
+---
+
+## Tesla supplier CATL had a fire at its battery factory, says impact on production is minimal
+
+date: 2024-09-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/CATL-battery-fire.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>CATL, the world’s largest battery supplier for electric vehicles and one of Tesla’s critical suppliers, had an important fire that raged for hours at one of its main Chinese battery factory.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="catl,tesla" data-layer-viewtype="unknown" data-post-id="382056" href="https://electrek.co/2024/09/30/tesla-supplier-catl-had-a-fire-at-its-battery-factory-says-impact-on-production-is-minimal/#more-382056" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/30/tesla-supplier-catl-had-a-fire-at-its-battery-factory-says-impact-on-production-is-minimal/>
+
+---
+
+## BYD is recalling nearly 100,000 Dolphin and Yuan Plus models, two top-selling EVs in China
+
+date: 2024-09-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/BYD-largest-automaker-RD-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/byd/">BYD</a> has issued a recall for nearly 100,000 Dolphin and Yuan Plus models, two of China’s top-selling EVs. The recall is due to a faulty steering control unit that could lead to a vehicle fire.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,byd-dolphin" data-layer-viewtype="unknown" data-post-id="382035" href="https://electrek.co/2024/09/30/byd-recall-nearly-100000-top-selling-evs/#more-382035" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/30/byd-recall-nearly-100000-top-selling-evs/>
+
+---
+
+## Bosch announces its new e-bike  motor and bigger batteries
+
+date: 2024-09-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/bosch-electric-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Bosch has long been a leader in the <a href="https://electrek.co/2024/07/31/edirtysixer-is-the-biggest-bosch-electric-bike-in-the-world/">premium electric bicycle drivetrain market</a> and now looks to further build on its strong foundation with the launch of several new products. Electric mountain bikes (eMTBs), which are a staple of Bosch’s e-bike prowess, are likely to benefit most from the new motor and larger battery options.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bosch,ebikes" data-layer-viewtype="unknown" data-post-id="382039" href="https://electrek.co/2024/09/30/bosch-announces-its-new-e-bike-motor-and-bigger-batteries/#more-382039" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/30/bosch-announces-its-new-e-bike-motor-and-bigger-batteries/>
+
+---
+
+## China’s Leapmotor Arrives In Europe With Two Affordable EVs
+
+date: 2024-09-30, from: Inside EVs News
+
+The Stellantis partner is bringing the smaller T03 to production in Poland soon to avoid anti-China tariffs, and the C10 crossover is next. 
+
+<https://insideevs.com/news/735572/leapmotor-t03-c10-debut-europe/>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2024-09-30 07:51:22
+updated: 2024-10-01 05:45:58
 ---
 
 # libraries
 
-(date: 2024-09-30 07:51:22)
+(date: 2024-10-01 05:45:58)
+
+---
+
+## Guest Post — Equitable Scholarly Communication: Realistic or Idealistic?
+
+date: 2024-10-01, from: Scholarly Kitchen
+
+<p>Daniel Dollar offers an update on the work being done by Research4Life and a call for action.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/01/guest-post-equitable-scholarly-communication-realistic-or-idealistic/">Guest Post &#8212; Equitable Scholarly Communication: Realistic or Idealistic?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/10/01/guest-post-equitable-scholarly-communication-realistic-or-idealistic/>
 
 ---
 
@@ -107,6 +119,28 @@ date: 2024-10-01, from: ETH Zurich, recently added
 Du, Yao; Qi, Yuxuan; Zeng, Qiang; Zhan, Liangtong; Wang, Jiyang; Zhang, Zhidong 
 
 <http://hdl.handle.net/20.500.11850/696794>
+
+---
+
+## Nonthermal Observations of a Flare Loop-top Using IRIS Fe XXI: Implications for Turbulence and Electron Acceleration
+
+date: 2024-10-01, from: ETH Zurich, recently added
+
+Ashfield IV, William; Polito, Vanessa; Yu, Sijie; Collier, Hannah; Hayes, Laura A. 
+
+<http://hdl.handle.net/20.500.11850/697085>
+
+---
+
+## Day in Review (September 30–October 3)
+
+date: 2024-09-30, from: Association of Research Libraries News
+
+<p>Last Updated on September 30, 2024, 4:47 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 1 &#124; Wednesday, October 2 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-30-october-3/">Day in Review (September 30–October 3)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/day-in-review/day-in-review-september-30-october-3/>
 
 ---
 

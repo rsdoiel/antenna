@@ -1,11 +1,200 @@
 ---
 title: home
-updated: 2024-09-30 07:51:22
+updated: 2024-10-01 05:45:58
 ---
 
 # home
 
-(date: 2024-09-30 07:51:22)
+(date: 2024-10-01 05:45:58)
+
+---
+
+## 13 Tips on How to Get Rid of Flying Termites (Natural Ways)
+
+date: 2024-10-01, from: Yard Life blog
+
+<p>Flying termites, also known as swarmers, are a clear indication that a termite colony is either nearby or already inside ... </p>
+<p class="read-more-container"><a title="13 Tips on How to Get Rid of Flying Termites (Natural Ways)" class="read-more button" href="https://ownyardlife.com/13-tips-on-how-to-get-rid-of-flying-termites/#more-20037" aria-label="Read more about 13 Tips on How to Get Rid of Flying Termites (Natural Ways)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/13-tips-on-how-to-get-rid-of-flying-termites/">13 Tips on How to Get Rid of Flying Termites (Natural Ways)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/13-tips-on-how-to-get-rid-of-flying-termites/>
+
+---
+
+## The Danby Mini Fridge Works Like a Charm in Any Space
+
+date: 2024-10-01, from: Family Handyman Blog
+
+<p>The Danby mini fridge provides ample storage and a reliable performance, making it one of our favorite small appliances.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/danby-mini-fridge-review/">The Danby Mini Fridge Works Like a Charm in Any Space</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/danby-mini-fridge-review/>
+
+---
+
+## The Toro Ultra Blower Vac Is the Budget-Friendly Tool to Keep Your Yard Clean All Season
+
+date: 2024-10-01, from: Family Handyman Blog
+
+<p>The Toro Ultra Blower Vac is an affordable, efficient way to keep your yard clean all year long. Read our Product Testing Team's review.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/toro-ultra-blower-vac-review/">The Toro Ultra Blower Vac Is the Budget-Friendly Tool to Keep Your Yard Clean All Season</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/toro-ultra-blower-vac-review/>
+
+---
+
+## What the Fed Rate Cut Means for Housing and Home Buyers
+
+date: 2024-09-30, from: Family Handyman Blog
+
+<p>Here's how the Fed slashing interest rates by half a percent could change the housing market in the United States.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/fed-rate-cut-impact-on-housing-2024/">What the Fed Rate Cut Means for Housing and Home Buyers</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/fed-rate-cut-impact-on-housing-2024/>
+
+---
+
+## The Recipes You Should Be Cooking in October
+
+date: 2024-09-30, from: Sunset Magazine - Living in the West
+
+Fall is in full swing in October, so it's time to take advantage of all the seasonal produce. We've got the fall recipes to make this month. 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/october-recipes-2024>
+
+---
+
+## Worx Leaf Vaccum Review: Does This Three-in-One Blower/Vacuum/Mulcher Beat the Competition?
+
+date: 2024-09-30, from: Family Handyman Blog
+
+<p>The Worx Leaf Vacuum is one of the most talked about leaf cleaning tools on the market, but does it deserve the hype? We tested it to find out.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/worx-leaf-vaccum-review/">Worx Leaf Vaccum Review: Does This Three-in-One Blower/Vacuum/Mulcher Beat the Competition?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/worx-leaf-vaccum-review/>
+
+---
+
+## Food and Drink
+
+date: 2024-09-30, from: Sunset Magazine - Living in the West
+
+Delicious recipes, food and wine pairings, and more ways to savor the West. 
+
+<https://www.sunset.com/food-wine>
+
+---
+
+## We Tried the Mila Air Purifier and Our House Has Never Smelled So Fresh
+
+date: 2024-09-30, from: Family Handyman Blog
+
+<p>The Mila Air Purifier is a smart device that can be customized to suit each home's specific air quality issues.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/mila-air-purifier-review/">We Tried the Mila Air Purifier and Our House Has Never Smelled So Fresh</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/mila-air-purifier-review/>
+
+---
+
+## A Melbourne Renovation Marries a Couple’s Drastically Different Tastes
+
+date: 2024-09-30, from: Dwell
+
+Designed for an Egyptian Australian and Danish duo, YSG Studio seamlessly combine hygge and bold sensibilities. 
+
+<https://www.dwell.com/article/a-melbourne-renovation-marries-a-couples-drastically-different-tastes-9d2d0553>
+
+---
+
+## Budget Breakdown: A Designer Embraces the Hippie Vibes in Her Portland Kitchen for $45K
+
+date: 2024-09-30, from: Dwell
+
+Stephanie Dyer and her husband, Samuel, celebrate the quirks, handicraft, and patchwork of wood in their 1898 home. 
+
+<https://www.dwell.com/article/budget-breakdown-little-sur-kitchen-remodel-dyer-studio-inc-portland-oregon-1b770125>
+
+---
+
+## In Upstate New York, a Myron Goldfinger Masterpiece Seeks $1.5M
+
+date: 2024-09-30, from: Dwell
+
+Perched on nearly six acres, the 1979 home has an angular roofline, 24-foot-tall ceilings, and massive glass sliders that open to the surrounding woods. 
+
+<https://www.dwell.com/article/myron-goldfinger-home-bedford-upstate-new-york-real-estate-44ba82d0>
+
+---
+
+## When and How to Fertilize Aloe
+
+date: 2024-09-30, from: The Gardener's Path
+
+<p>Aloes are handsome, low-maintenance succulents popular as houseplants and in water-wise landscape designs. And while these plants have few care requirements, regular feeding helps to produce strong, healthy plants with uniform growth. Learn when and how to fertilize aloe plants in this guide. Read more now.  </p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/fertilize-aloe/">When and How to Fertilize Aloe</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/succulents/fertilize-aloe/>
+
+---
+
+## CDFA Farm Equity Office publishes report and recommendations following Tribal Listening Sessions
+
+date: 2024-09-30, from: Calfifornia Dept. Aggriculture blog
+
+CDFA is pleased to announce the publication of a California Native American Tribe Listening Session Report. The report can be found on the CDFA Farm Equity homepage. The report is the result of a two-year collaboration with the Intertribal Agriculture &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28242">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28242>
+
+---
+
+## Your Must-Have Tool This Winter: 7 of the Best Snow Shovels
+
+date: 2024-09-30, from: The Gardener's Path
+
+<p>Here comes winter, with a vengeance! Read our reviews of 7 popular snow shovels that will help you to clear your property in time for nature’s next onslaught. Did you know that some are for pushing, and others, for lifting? In addition, we cover how to use equipment properly and stay safe. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/gear/tools-and-supplies/best-snow-shovels/">Your Must-Have Tool This Winter: 7 of the Best Snow Shovels</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/gear/tools-and-supplies/best-snow-shovels/>
+
+---
+
+## The Earth Now Has Two Moons—Here’s How to See Them
+
+date: 2024-09-30, from: Sunset Magazine - Living in the West
+
+For about two months, our planet will have a second moon the size of a school bus orbiting us. Here is how you can see it. 
+
+<https://www.sunset.com/travel/earth-two-moons>
+
+---
+
+## 10 Things You Need to Do in Your Garden This Fall
+
+date: 2024-09-30, from: Sunset Magazine - Living in the West
+
+It’s time to embrace the cooler months and tackle the fall garden tasks that will set you up for success in the seasons ahead. 
+
+<https://www.sunset.com/home-garden/garden-basics/fall-garden-tasks>
+
+---
+
+## The Right Tool for Chopping Firewood: 11 of the Best Mauls and Splitting Axes
+
+date: 2024-09-30, from: The Gardener's Path
+
+<p>If you enjoy splitting your own wood for the fireplace or backyard fire pit, join us in an exploration of the best tool for the job: the splitting maul. Different in design and function from an axe, this is a tool meant to divide wood along the grain with the least amount of effort. Read along as we take a closer look at the features that make this tool so effective, and discover our favorites for the task.</p>
+<p>The post <a href="https://gardenerspath.com/gear/tools-and-supplies/best-splitting-mauls/">The Right Tool for Chopping Firewood: 11 of the Best Mauls and Splitting Axes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/gear/tools-and-supplies/best-splitting-mauls/>
 
 ---
 
@@ -19,6 +208,46 @@ date: 2024-09-30, from: Yard Life blog
  
 
 <https://ownyardlife.com/42-best-terrarium-plants-for-open-or-closed-glass-with-pictures/>
+
+---
+
+## Coffee Lovers Rejoice: Delicious Recipes You Didn’t Know You Needed
+
+date: 2024-09-30, from: Sunset Magazine - Living in the West
+
+Coffee lovers rejoice: delicious recipes you didn’t know you needed. 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/don-francisco-national-coffee-day-recipes>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-09-30, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
+
+---
+
+## This Dramatic Home Makeover Is Proof You Don’t Need to Do a Full Demo
+
+date: 2024-09-30, from: Sunset Magazine - Living in the West
+
+Sometimes you don’t need to a full-blown, down-to-the-studs renovation. This Berkeley Hills house was updated with smart design choices. 
+
+<https://www.sunset.com/home-garden/home-tours/berkeley-hills-no-demo-makeover>
+
+---
+
+## These Ridiculously Delicious Yakitori Recipes Will Have You Grilling This Fall
+
+date: 2024-09-30, from: Sunset Magazine - Living in the West
+
+Tsubaki, one of the West's best izakayas, cooks a California-inflected Japanese grilled feast with recipes fit for fall. 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/tsubaki-yakitori-japanese-grilling>
 
 ---
 
@@ -214,26 +443,6 @@ date: 2024-09-29, from: Sunset Magazine - Living in the West
 Search Sunset's collection of great recipes for every occasion. From quick weekday meals to indulgent holiday menus, we share the best in Western cooking. 
 
 <https://www.sunset.com/food-wine/kitchen-assistant>
-
----
-
-## Food and Drink
-
-date: 2024-09-29, from: Sunset Magazine - Living in the West
-
-Delicious recipes, food and wine pairings, and more ways to savor the West. 
-
-<https://www.sunset.com/food-wine>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-09-29, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
 
 ---
 

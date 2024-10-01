@@ -1,11 +1,31 @@
 ---
 title: retro computing
-updated: 2024-09-30 07:51:24
+updated: 2024-10-01 05:46:00
 ---
 
 # retro computing
 
-(date: 2024-09-30 07:51:24)
+(date: 2024-10-01 05:46:00)
+
+---
+
+## b.log 2024/09/30 - My 8 hour days started well, HP's dodgy cartridges?, Satellite channels.
+
+date: 2024-09-30, from: Richard Murray's blog
+
+My 8 hour days started well, HP's dodgy cartridges?, Satellite channels. 
+
+<https://heyrick.eu/blog/index.php?diary=20240930>
+
+---
+
+## Valve and Arch Linux Announce Collaboration
+
+date: 2024-09-30, from: Linux Magazine
+
+<p>Valve and Arch have come together for two projects that will have a serious impact on the Linux distribution.</p> 
+
+<http://www.linux-magazine.com/Online/News/Valve-and-Arch-Linux-Announce-Collaboration>
 
 ---
 

@@ -1,11 +1,81 @@
 ---
 title: health
-updated: 2024-09-30 07:51:25
+updated: 2024-10-01 05:46:01
 ---
 
 # health
 
-(date: 2024-09-30 07:51:25)
+(date: 2024-10-01 05:46:01)
+
+---
+
+## Recombinant adenoviruses expressing HPV16/18 E7 upregulate the HDAC6 and DNMT3B genes in C33A cells
+
+date: 2024-10-01, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveHigh-risk human papillomavirus (HPV) is a carcinogenic virus associated with nearly all cases of cervical cancer, as well as an increasing number of anal and oral cancers. The two carcinogenic proteins of HPV, E6 and E7, can immortalize keratinocytes and are essential for HPV-related cellular transformation. Currently, the global regulatory effects of these oncogenic proteins on the host proteome are not fully understood, and further exploration of the functions and carcinogenic mechanisms of E6 and E7 proteins is needed.MethodsWe used a previously established platform in our laboratory for constructing recombinant adenoviral plasmids expressing the HPV16 E7 gene to further construct recombinant virus particles expressing HPV16/18 E6, E7, and both E6 and E7 genes. These recombinant viruses were used to infect C33A cells to achieve sustained expression of the HPV16/18 E6/E7 genes. Subsequently, total RNA was extracted and RNA-Seq technology was employed for transcriptome sequencing to identify differentially expressed genes associated with HPV infection in cervical cancer.ResultsRNA-Seq analysis revealed that overexpression of the HPV16/18 E6/E7 genes upregulated GP6, CD36, HDAC6, ESPL1, and DNMT3B among the differentially expressed genes (DEGs) associated with cervical cancer. Spearman correlation analysis revealed a statistically significant correlation between the HDAC6 and DNMT3B genes and key pathways, including DNA replication, tumor proliferation signature, G2M checkpoint, p53 pathways, and PI3K/AKT/mTOR signaling pathways. Further, qRT-PCR and Western blot analyses indicated that both HPV16/18 E7 can upregulate the expression of HDAC6 and DNMT3B, genes associated with HPV infection-related cervical cancer.ConclusionThe successful expression of HPV16/18 E6/E7 in cells indicates that the recombinant viruses retain the replication and infection capabilities of Ad4. Furthermore, the recombinant viruses expressing HPV16/18 E7 can upregulate the HDAC6 and DNMT3B genes involved in cervical cancer pathways, thereby influencing the cell cycle. Additionally, HDAC6 and DNMT3B are emerging as important therapeutic targets for cancer. This study lays the foundation for further exploration of the oncogenic mechanisms of HPV E6/E7 and may provide new directions for the treatment of HPV-related cancers. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1459572>
+
+---
+
+## Lipoprotein transport system Lol may be a selective target for Gram-negative bacteria
+
+date: 2024-10-01, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1463316>
+
+---
+
+## Distribution characteristics of integrons and correlation analysis of antibiotic resistance in urine isolated Enterobacter cloacae
+
+date: 2024-10-01, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveThis study aims to understand the distribution of integrons among Enterobacter cloacae isolated from clinical urine specimens in our hospital, as well as the molecular characteristics of the variable region resistance gene cassette of integron-positive strains and its relationship with drug resistance.MethodsWe collected a total of 80 strains of Enterobacter cloacae isolated from urine specimens of hospitalized patients in our hospital between August 2019 and July 2023, and conducted drug sensitivity testing on them. Polymerase Chain Reaction (PCR) technology was employed to screen these strains for Class 1, 2, and 3 integrons. Following this, the promoter and variable regions of integron-positive strains were amplified and sequenced. Additionally, Enterobacterial Repetitive Intergenic Consensus PCR (ERIC-PCR) was utilized for homology analysis of integron-positive strains.ResultsAmong the 80 clinical strains, Class 1 integrons were detected in 31 (38.8%) strains, and the following resistance gene cassettes were identified: aadA2, aadA1, aadB, aac(6’), and catB8. Three types of variable region promoters were observed: PcS (4 strains), PcW (7 strains), and PcH1 (17 strains), with consistently inactive downstream P2 promoters. Additionally, Class 2 integrons were detected in 5 (6.3%) strains, carrying the variable region resistance gene cassette dfrA1-sat2-aadA1. The promoters for Class 2 integrons were uniformly of the Pc2D-Pc2A-Pc2B-Pc2C type. No Class 3 integrons were detected. The strains containing integrons showed significantly higher resistance rates to ciprofloxacin, compound sulfamethoxazole, levofloxacin, gentamicin, amikacin, and tobramycin compared to those without integrons (P<0.05). 35 strains of Enterobacter cloacae carrying integrons are primarily classified into three genotypes: A, B, and C. These genotypes are mainly distributed in the urology department and Intensive Care Unit (ICU). The distribution of variable region gene boxes and promoter types is relatively concentrated in the same genotype.ConclusionOur study confirmed that Enterobacter cloacae isolated from urine samples predominantly carries Class 1 integrons with an extended array of antibiotic-resistant genes. For future research, it is recommended to explore additional resistance mechanisms and evaluate the effectiveness of new therapeutic strategies. Clinicians should be vigilant about the possibility of clonal dissemination and implement enhanced infection control measures in hospital settings. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1462742>
+
+---
+
+## Gut microbiota dysbiosis in ankylosing spondylitis: a systematic review and meta-analysis
+
+date: 2024-10-01, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundAnkylosing spondylitis (AS) is a connective tissue disease that primarily affects spinal joints, peripheral joints, and paravertebral soft tissues, leading to joint stiffness and spinal deformity. Growing evidence has implicated gut microbiota in the regulation of AS, though the underlying mechanisms remain poorly understood.MethodsWe conducted a comprehensive search of PubMed, Embase, Web of Science, the Cochrane Library, MEDLINE, Wanfang Data, China Science and Technology Journal Database (VIP), and China National Knowledge Internet (CNKI) databases from the time the databases were created until 30 July 2023. To evaluate changes in α-diversity and the abundance of certain microbiota families in AS, standardized mean difference (SMD) and 95% confidence interval (CI) calculations were made. Meta-analyses were performed using STATA 12.0 and the quality of the literature was assessed by following systematic review guidelines.ResultsThis systematic review and meta-analysis included 47 studies, providing insights into the gut microbiota composition in patients with AS compared to healthy controls (HCs). Our findings indicate a significant reduction in gut microbial diversity in patients with AS, as evidenced by a decrease in both richness and evenness. Specifically, the Shannon index showed a moderate decrease (SMD = -0.27, 95% CI: -0.49, -0.04; P < 0.001), suggesting a less diverse microbial ecosystem in patients with AS. The Chao1 index further confirmed this trend, with a larger effect size (SMD = -0.44, 95% CI: -0.80, -0.07; P < 0.001), indicating a lower species richness. The Simpson index also reflected a significant reduction in evenness (SMD = -0.30, 95% CI: -0.53, -0.06; P < 0.001). Additionally, patients with AS who received anti-rheumatic combination treatment exhibited a more pronounced reduction in α-diversity compared to untreated patients, highlighting the potential impact of this treatment on gut microbiota balance. In terms of specific microbial families, we observed a significant decrease in the abundance of Bifidobacterium (SMD = -0.42, 95% CI: -2.37, 1.52; P < 0.001), which is known for its beneficial effects on gut health. Conversely, an increase in the abundance of Bacteroidetes was noted (SMD = 0.42, 95% CI: -0.93, 1.76; P < 0.001), suggesting a possible shift in the gut microbiota composition that may be associated with AS pathophysiology.ConclusionOur analysis revealed changes in α-diversity and the relative abundance of specific bacteria in AS. This suggests that targeting the gut microbiota could provide new therapeutic opportunities for treating AS.Systematic review registrationhttps://www.crd.york.ac.uk./PROSPERO/, identifier CRD42023450028. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1376525>
+
+---
+
+## Detection of dengue virus serotype 4 in Panama after 23 years without circulation
+
+date: 2024-10-01, from: Frontiers in Cellular and Infection Microbiology
+
+Panama is a country with endemic Dengue virus (DENV) transmission since its reintroduction in 1993. The four serotypes have circulated in the country and the region of the Americas, however, DENV-4 confirmed autochthonous cases have not been identified since 2000, despite its circulation in neighboring countries. Here, we report DENV-4 detection in Panama in the last four-month period of 2023 with co-circulation of the other serotypes, this was associated with a peak of dengue cases during the dry season even though most dengue outbreaks are described in the rainy season. Complete genomes of DENV-4 allowed us to determine that cases were caused by DENV-4 genotype IIb, the same genotype as 23 years ago, with high similarity to DENV-4 sequences circulating in Nicaragua and El Salvador during 2023. This report shows the importance of maintaining serotype and genotype surveillance for early detection of new variants circulating in the country. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1467465>
+
+---
+
+## RipE expression correlates with high ATP levels in Ehrlichia, which confers resistance during the extracellular stage to facilitate a new cycle of infection
+
+date: 2024-10-01, from: Frontiers in Cellular and Infection Microbiology
+
+Ehrlichiosis is a potentially life-threatening disease caused by infection with the obligatory intracellular bacteria Ehrlichia species. Ehrlichia japonica infection of mice provides an animal model of ehrlichiosis as it recapitulates full-spectrum and lethal ehrlichiosis in humans. The E. japonica transposon mutant of EHF0962, which encodes a previously uncharacterized hypothetical protein, is attenuated in both infection and virulence in mice. EHF0962 was hence named here as resistance-inducing protein of Ehrlichia (RipE). Using this ΔripE mutant, we studied how RipE protein contributes to Ehrlichia pathogenesis. Ehrlichia species have an intracellular developmental cycle and a brief extracellular stage to initiate a new cycle of infection. Majority of RipE proteins were expressed on the surface of the smaller infectious dense-core stage of bacteria. Extracellular ΔripE E. japonica contained significantly less adenosine triphosphate (ATP) and lost infectivity more rapidly in culture compared with wild-type (WT) E. japonica. Genetic complementation in the ΔripE mutant or overexpression of ripE in WT E. japonica significantly increased bacterial ATP levels, and RipE-overexpressing E. japonica was more virulent in mice than WT E. japonica. RipE is conserved among Ehrlichia species. Immunization of mice with recombinant RipE induced an in vitro infection-neutralizing antibody, significantly prolonged survival time after a lethal dose of E. japonica challenge, and cross-protected mice from infection by Ehrlichia chaffeensis, the agent of human monocytic ehrlichiosis. Our findings shed light on the extracellular stage of Ehrlichia, highlighting the importance of RipE and ATP levels in Ehrlichia for extracellular resistance and the next cycle of infection. Thus, RipE is a critical Ehrlichia protein for infection as such can be a potential vaccine target for ehrlichiosis. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1416577>
+
+---
+
+## Tuberculosis morbidity and mortality during the COVID-19 pandemic: a life-threatening complex challenge
+
+date: 2024-10-01, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1423081>
 
 ---
 
@@ -106,4 +176,24 @@ date: 2024-09-30, from: Frontiers in Cellular and Infection Microbiology
  
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2024.1466495>
+
+---
+
+## Trends and hotspots on the relationship between gut microbiota and Parkinson’s Disease: a bibliometric analysis
+
+date: 2024-09-30, from: Frontiers in Cellular and Infection Microbiology
+
+Parkinson’s disease (PD) is a neurodegenerative disorder that significantly impacts patients’ quality of life. Recent evidence has highlighted a complex relationship between the gut microbiota (GM) and PD. Understanding this relationship is crucial for potentially targeting GM in PD treatment and expanding therapeutic options. This study aimed to comprehensively analyze the global landscape, trends, and research focus on GM and PD using bibliometric analysis. Utilizing publications from the Web of Science Core Collection (WsSCC), bibliometric tools such as the R package ‘Bibliometrix,’ VOS viewer, and CiteSpace software were employed to assess parameters like yearly publications, countries/regions, institutions, and authors. Research trends and hotspots were identified through keyword analysis. The results revealed 1,161 articles published between 2013-2023, with China leading in publications (n=352, 30.31% of total), while the United States had a higher influence (H-index=58). The University of California System was the top institution in terms of publications (n=35), with the National Natural Science Foundation of China funding the most projects (n=172). Keshavarzian A and Sampson TR were the authors with the highest publication and co-citation counts, respectively. The International Journal of Molecular Sciences had the most articles published (n=48). Keyword analysis identified parkinson’s disease, gut microbiota, short-chain fatty acids, inflammation, and probiotics as main research topics. Biomarkers, ketogenic diet, and NF-κB were recent research hotspots and trends (2021-2023). The current study conducts an objective and comprehensive analysis of these publications, identifying trends and hotspots in the field of research. The findings offer valuable insights to scholars globally and in-vestigate potential therapeutic strategies for Parkinson’s Disease. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1421270>
+
+---
+
+## Characterization of pathological features and immune microenvironment in hepatic tuberculosis and pulmonary tuberculosis
+
+date: 2024-09-30, from: Frontiers in Cellular and Infection Microbiology
+
+Hepatic tuberculosis (HTB) is rare extrapulmonary tuberculosis that is clinically similar to liver malignancy, making it difficult for correct diagnoses. Pathology is the gold standard for tuberculosis diagnosis. However, there are few reports on the pathological features of HTB. A total of 32 HTB cases were considered and the differences in pathological features and drug resistance were analyzed and compared with those for pulmonary tuberculosis (PTB). Enhanced CT scans showed ring-shaped delayed enhancement during the arterial, venous, and delayed phases. Most HTB cases were single lesions, with the highest incidence in the right lobe, and the average lesion volume was smaller than that of PTB. The frequency of granuloma in pathological changes, the overall share of the lesion area in the HTB group, and the number of foxp3+ cells were significantly higher than in the PTB group. However, no statistically significant differences were observed between the two groups’ other pathological features and immune cell numbers. The immune microenvironment of the normal tissues surrounding the lesion was further analyzed. The findings showed that the number of macrophages and foxp3+ cells in the HTB group was significantly higher than in the PTB group. No significant difference in drug resistance was detected between the HTB and PTB groups. In conclusion, there are substantial differences in the characterization of pathological feature and immune microenvironment between HTB and PTB. The frequency of granuloma and subsequent overall share of the lesion area was significantly higher in HTB compared to PTB. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1418225>
 

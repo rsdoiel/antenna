@@ -1,11 +1,136 @@
 ---
 title: central coast
-updated: 2024-09-30 07:51:17
+updated: 2024-10-01 05:45:53
 ---
 
 # central coast
 
-(date: 2024-09-30 07:51:17)
+(date: 2024-10-01 05:45:53)
+
+---
+
+## Pink Hibiscus
+
+date: 2024-10-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091424-POD-Michael-Diamant.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Pink hibiscus in Santa Barbara." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091424-POD-Michael-Diamant.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091424-POD-Michael-Diamant.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091424-POD-Michael-Diamant.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091424-POD-Michael-Diamant.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091424-POD-Michael-Diamant.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091424-POD-Michael-Diamant.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091424-POD-Michael-Diamant.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091424-POD-Michael-Diamant.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091424-POD-Michael-Diamant.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091424-POD-Michael-Diamant.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091424-POD-Michael-Diamant.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091424-POD-Michael-Diamant.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091424-POD-Michael-Diamant.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/pink-hibiscus/">Pink Hibiscus</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/pink-hibiscus/>
+
+---
+
+## 1 Person Killed in Fiery Crash on Highway 154 Near Lake Cachuma
+
+date: 2024-10-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/093024-Highway-154-Fatal-Crash-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="One person was killed late Monday night in a vehicle crash on Highway 154 near Lake Cachuma." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/093024-Highway-154-Fatal-Crash-sbcfd-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/093024-Highway-154-Fatal-Crash-sbcfd-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/093024-Highway-154-Fatal-Crash-sbcfd-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/093024-Highway-154-Fatal-Crash-sbcfd-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/093024-Highway-154-Fatal-Crash-sbcfd-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/093024-Highway-154-Fatal-Crash-sbcfd-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/093024-Highway-154-Fatal-Crash-sbcfd-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/093024-Highway-154-Fatal-Crash-sbcfd-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/093024-Highway-154-Fatal-Crash-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>One person was killed late Monday night in a fiery crash on Highway 154 near Lake Cachuma, according to the Santa Barbara County Fire Department. Firefighters and other emergency personnel [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/1-person-killed-in-fiery-crash-on-highway-154-near-lake-cachuma/">1 Person Killed in Fiery Crash on Highway 154 Near Lake Cachuma</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/1-person-killed-in-fiery-crash-on-highway-154-near-lake-cachuma/>
+
+---
+
+## Santa Maria Courthouse Bombing Leads to Increased Security at Council Meetings
+
+date: 2024-10-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-court-bomb-scene-js-4-file.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The Santa Maria Court Complex reopened Monday. In the aftermath of the Sept. 25 bombing, the nearby Santa Maria City Hall is implementing bag searches and court staff are reviewing their security protocols." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-court-bomb-scene-js-4-file.jpg?w=2160&amp;ssl=1 2160w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-court-bomb-scene-js-4-file.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-court-bomb-scene-js-4-file.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-court-bomb-scene-js-4-file.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-court-bomb-scene-js-4-file.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-court-bomb-scene-js-4-file.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-court-bomb-scene-js-4-file.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-court-bomb-scene-js-4-file.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-court-bomb-scene-js-4-file.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-court-bomb-scene-js-4-file.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092524-SM-court-bomb-scene-js-4-file.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The reverberations from the bomb tossed into the Santa Maria Court Complex building last week will lead to a new security measure for those attending City Council meetings nearby. Starting [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-courthouse-bombing-leads-to-increased-security-at-city-council-meetings/">Santa Maria Courthouse Bombing Leads to Increased Security at Council Meetings</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-maria-courthouse-bombing-leads-to-increased-security-at-city-council-meetings/>
+
+---
+
+## UCSB Students Protest UC System’s  Encampment Ban, Masking Rules
+
+date: 2024-10-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-UCSB-rally-3-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-UCSB-rally-3-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-UCSB-rally-3-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-UCSB-rally-3-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-UCSB-rally-3-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-UCSB-rally-3-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-UCSB-rally-3-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-UCSB-rally-3-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-UCSB-rally-3-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-UCSB-rally-3-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>In their first week of fall-term classes, UC Santa Barbara students held a rally and march Friday to protest policies banning encampments and masking to hide identities. About 30 people [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-students-protest-uc-systems-encampment-ban-masking-rules/">UCSB Students Protest UC System&#8217;s  Encampment Ban, Masking Rules</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-students-protest-uc-systems-encampment-ban-masking-rules/>
+
+---
+
+## 11-Year-Old Santa Maria Girl Dies After Highway 1 Crash
+
+date: 2024-10-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>An 11-year-old Santa Maria girl died after being critically injured in a two-vehicle crash on Highway 1 between Lompoc and Vandenberg Space Force Base, California Highway Patrol officers confirmed Monday. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/11-year-old-santa-maria-girl-dies-after-highway-1-crash/">11-Year-Old Santa Maria Girl Dies After Highway 1 Crash</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/11-year-old-santa-maria-girl-dies-after-highway-1-crash/>
+
+---
+
+## Anomaly Leads to Longer Delay of SpaceX Falcon Rocket Launch at Vandenberg
+
+date: 2024-10-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A Falcon 9 rocket launch from Vandenberg Space Force Base has been delayed for slightly more than a week because of an abnormality spotted following a Florida flight. The West [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/anomaly-leads-to-longer-delay-of-spacex-falcon-rocket-launch-at-vandenberg/">Anomaly Leads to Longer Delay of SpaceX Falcon Rocket Launch at Vandenberg</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/anomaly-leads-to-longer-delay-of-spacex-falcon-rocket-launch-at-vandenberg/>
+
+---
+
+## County Cancels Evacuation Warnings as Ridge Fire Containment Rises to 75%
+
+date: 2024-10-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-Ridge-Fire-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Fire burns in a remote area along a ridge on Hollister Ranch on Sunday morning." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-Ridge-Fire-sbcfd-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-Ridge-Fire-sbcfd-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-Ridge-Fire-sbcfd-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-Ridge-Fire-sbcfd-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-Ridge-Fire-sbcfd-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-Ridge-Fire-sbcfd-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-Ridge-Fire-sbcfd-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-Ridge-Fire-sbcfd-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-Ridge-Fire-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara County officials canceled evacuation warnings for the area near Alegria Canyon and Hollister Ranch as containment of the Ridge Fire increased to 75% on Monday. County Fire Capt. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/county-cancels-evacuation-warnings-as-ridge-fire-containment-rises-to-30/">County Cancels Evacuation Warnings as Ridge Fire Containment Rises to 75%</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/county-cancels-evacuation-warnings-as-ridge-fire-containment-rises-to-30/>
+
+---
+
+## SBART Luncheon: Sarah Monroy Earns Providence Scholar-Athlete of the Year Award
+
+date: 2024-09-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-930.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-930.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-930.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-930.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-930.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-930.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-930.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-930.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-930.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/sbart-luncheon-930.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Santa Barbara Athletic Round Table handed out a pair of awards in front of a packed house at the SBART Press Luncheon on Monday at Harry’s Plaza Cafe. Providence [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/sbart-luncheon-sarah-monroy-earns-providence-scholar-athlete-of-the-year-award/">SBART Luncheon: Sarah Monroy Earns Providence Scholar-Athlete of the Year Award</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sbart-luncheon-sarah-monroy-earns-providence-scholar-athlete-of-the-year-award/>
+
+---
+
+## Santa Barbara Talks: Buellton Mayor Dave King Wants to Slow Traffic on Highway 246
+
+date: 2024-09-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Dave King said he wants to reopen a movie theater, build a disc golf course and slow down traffic on Highway 246 if re-elected as mayor of Buellton. King appears [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-talks-buellton-mayor-dave-king-wants-to-slow-traffic-on-highway-246/">Santa Barbara Talks: Buellton Mayor Dave King Wants to Slow Traffic on Highway 246</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-talks-buellton-mayor-dave-king-wants-to-slow-traffic-on-highway-246/>
+
+---
+
+## Karen Telleen-Lawton: Journalism and AI; a Story for Cub Reporter ‘Claude’
+
+date: 2024-09-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>In August, LA Times writer Laurel Rosenhall reported on California lawmakers reaching a five-year deal with Google regarding AI (Artificial Intelligence). In exchange for shelving legislation requiring Google to pay [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/karen-telleen-lawton-journalism-and-ai-a-story-for-cub-reporter-claude/">Karen Telleen-Lawton: Journalism and AI; a Story for Cub Reporter &#8216;Claude&#8217;</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/karen-telleen-lawton-journalism-and-ai-a-story-for-cub-reporter-claude/>
 
 ---
 
