@@ -1,11 +1,101 @@
 ---
 title: home
-updated: 2024-10-01 08:39:48
+updated: 2024-10-01 18:18:22
 ---
 
 # home
 
-(date: 2024-10-01 08:39:48)
+(date: 2024-10-01 18:18:22)
+
+---
+
+## Here’s What Waffle House Closures Say About Storm Severity
+
+date: 2024-10-01, from: Family Handyman Blog
+
+<p>By taking stock of which Waffle House locations are open, locals can gain valuable insight about storm damage in the area.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/waffle-house-index/">Here&#8217;s What Waffle House Closures Say About Storm Severity</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/waffle-house-index/>
+
+---
+
+## Don’t Try To Unclog Your Toilet These Ways
+
+date: 2024-10-01, from: Family Handyman Blog
+
+<p>Unclogging toilet myths abound, but should you pay them any attention? We assembled a panel of service experts to weigh in.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/dont-try-to-unclog-your-toilet-these-ways/">Don&#8217;t Try To Unclog Your Toilet These Ways</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/list/dont-try-to-unclog-your-toilet-these-ways/>
+
+---
+
+## An Artful Oasis of Two San Francisco Designers Seeks $4.6M
+
+date: 2024-10-01, from: Dwell
+
+Lush greenery is hidden amidst stunning architecture. 
+
+<https://www.dwell.com/article/sothebys-international-april-sheldon-john-casado-san-francisco-real-estate-a11feb16>
+
+---
+
+## Pro Breeze Dehumidifier Review: My Honest Thoughts After a Year of Testing
+
+date: 2024-10-01, from: Family Handyman Blog
+
+<p>Although it's small, the Pro Breeze Dehumidifer can be a useful tool in battling excess moisture, according to one North Carolina homeowner.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/pro-breeze-dehumidifier-review/">Pro Breeze Dehumidifier Review: My Honest Thoughts After a Year of Testing</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/pro-breeze-dehumidifier-review/>
+
+---
+
+## Richard Neutra’s Adler House Just Hit the Market in L.A. for $3M
+
+date: 2024-10-01, from: Dwell
+
+Set high in the Crestwood Hills, the 1956 home has wide-open interiors and sweeping views of the ocean, the Getty, and Downtown L.A. 
+
+<https://www.dwell.com/article/richard-neutra-adler-house-midcentury-los-angeles-real-estate-e1b00386>
+
+---
+
+## Wayfair’s Way Day Is Back! This Weekend Is the Best Time to Buy a New Couch (or Hot Tub…or Mattress!)
+
+date: 2024-10-01, from: Family Handyman Blog
+
+<p>This Wayfair Way Day, enjoy savings up to 80% off on mattresses, hot tubs, chairs and so much more. But hurry, these deals won't last long.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/way-day-is-back-october-2024/">Wayfair&#8217;s Way Day Is Back! This Weekend Is the Best Time to Buy a New Couch (or Hot Tub&#8230;or Mattress!)</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/way-day-is-back-october-2024/>
+
+---
+
+## How to Propagate Yucca Plants
+
+date: 2024-10-01, from: The Gardener's Path
+
+<p>Yuccas are beautiful succulents grown for their handsome shapes, striking flower spikes, cold and heat resistance, and outstanding drought tolerance. Tough and resilient, they put up with most weather conditions and are easy to propagate for more plants. Learn how to propagate yuccas in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/propagate-yucca/">How to Propagate Yucca Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/succulents/propagate-yucca/>
+
+---
+
+## Collaboration is a superpower — opinion piece in Morning Ag Clips from CDFA secretary Karen Ross
+
+date: 2024-10-01, from: Calfifornia Dept. Aggriculture blog
+
+Leadership Insights is a monthly column from the&#160;California Agricultural Leadership Foundation&#160;in partnership with Morning Ag Clips. The series delves into the crucial facets of leadership within the agricultural sector, with academic and agricultural leaders offering valuable perspectives and strategies.&#160; Opinion &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28288">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28288>
 
 ---
 
@@ -43,6 +133,38 @@ We go back into the archives to revisit a quarter century of covering cutting-ed
 
 ---
 
+## The Home Depot’s Decor Days Sale Is Coming! Save Up to 60% On Mattresses and Furniture for the Whole House
+
+date: 2024-10-01, from: Family Handyman Blog
+
+<p>The Home Depot's Decor Days sale is happening October 3-7, featuring price slashes of up to 60% on furniture and decor for the whole home.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/home-depot-decor-days-sale/">The Home Depot&#8217;s Decor Days Sale Is Coming! Save Up to 60% On Mattresses and Furniture for the Whole House</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/home-depot-decor-days-sale/>
+
+---
+
+## The Gold Standard Bulbs That Everyone Should Plant in Fall
+
+date: 2024-10-01, from: Sunset Magazine - Living in the West
+
+Plant these fall bulbs for an effortless color show in spring. These fall-planted bulbs are the gold standard bulbs for any springtime garden. 
+
+<https://www.sunset.com/garden/flowers-plants/bulbs-to-plant-in-fall>
+
+---
+
+## How to Plant Bulbs in a Pot
+
+date: 2024-10-01, from: Sunset Magazine - Living in the West
+
+Get spring color right where you want it (and a great look right away). Julie Chai shows how 
+
+<https://www.sunset.com/garden/backyard-projects/plant-bulbs>
+
+---
+
 ## 13 Tips on How to Get Rid of Flying Termites (Natural Ways)
 
 date: 2024-10-01, from: Yard Life blog
@@ -53,6 +175,56 @@ date: 2024-10-01, from: Yard Life blog
  
 
 <https://ownyardlife.com/13-tips-on-how-to-get-rid-of-flying-termites/>
+
+---
+
+## Soon, You Can Live at Costco’s First Apartment Building
+
+date: 2024-10-01, from: Sunset Magazine - Living in the West
+
+Costco teamed up with a developer to created a mixed-use development that will feature 800 apartments and a brand new store. 
+
+<https://www.sunset.com/home-garden/costco-apartments-los-angeles>
+
+---
+
+## Disneyland’s Iconic It’s a Small World Ride Is Closing for Months
+
+date: 2024-10-01, from: Sunset Magazine - Living in the West
+
+Disneyland California's It's a Small World ride will close for upgrades and repairs, as well as preparations for the holiday season. 
+
+<https://www.sunset.com/travel/disneylands-its-a-small-world-ride-closure>
+
+---
+
+## 5 Wine Growing Regions Every Oenophile Should Visit
+
+date: 2024-10-01, from: Sunset Magazine - Living in the West
+
+The places to steal away to for prime wine tasting: These are the winners of the Sunset Travel Awards 2024 Wine Country Escapes category. 
+
+<https://www.sunset.com/travel/best-places-for-wine-tasting-2024>
+
+---
+
+## Your Home Could Use a Refresh with Fall’s Hottest Color Palette—Here’s How to Do It
+
+date: 2024-10-01, from: Sunset Magazine - Living in the West
+
+Pinterest just named blues and greens as the colors of fall. Interior designers share how to incorpoate the hues into your home this fall. 
+
+<https://www.sunset.com/home-garden/design/pinterest-fall-2024-color-palette>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-10-01, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -252,16 +424,6 @@ date: 2024-09-30, from: Sunset Magazine - Living in the West
 Coffee lovers rejoice: delicious recipes you didn’t know you needed. 
 
 <https://www.sunset.com/food-wine/kitchen-assistant/don-francisco-national-coffee-day-recipes>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-09-30, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
 
 ---
 

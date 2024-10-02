@@ -1,11 +1,75 @@
 ---
 title: socal north
-updated: 2024-10-01 08:39:39
+updated: 2024-10-01 18:18:13
 ---
 
 # socal north
 
-(date: 2024-10-01 08:39:39)
+(date: 2024-10-01 18:18:13)
+
+---
+
+## Vance and Walz debate in New York City tonight. Here’s what you need to know
+
+date: 2024-10-02, updated: 2024-10-02, from: The LAist
+
+The CBS News vice presidential debate will be the only time Ohio Sen. JD Vance and Minnesota Gov. Tim Walz get to face off ahead of the 2024 election. Here's what to expect. 
+
+<https://laist.com/news/politics/vance-and-walz-debate-in-new-york-city-tonight-heres-what-you-need-to-know>
+
+---
+
+## Safe drinking water: Honeywell will pay for cleaning up groundwater in San Fernando Valley
+
+date: 2024-10-02, updated: 2024-10-02, from: The LAist
+
+The agreement with the EPA is part of a broader cleanup effort to boost L.A.’s local water supply. 
+
+<https://laist.com/news/climate-environment/honeywell-cleaning-groundwater-san-fernando-valley>
+
+---
+
+## Vomiting, cramps and lethargy: As heat rises, California kids are sweltering in schools with no air conditioning
+
+date: 2024-10-01, updated: 2024-10-01, from: The LAist
+
+An estimated 1 in 5 schools has no air conditioning and another 10% need repair. 
+
+<https://laist.com/news/education/vomiting-cramps-and-lethargy-as-heat-rises-california-kids-are-sweltering-in-schools-with-no-air-conditioning>
+
+---
+
+## The City of Santa Clarita has Officially Launched its Spanish Social Media Pages on Instagram and Facebook!
+
+date: 2024-10-01, from: City of Santa Clarita
+
+<p>SPANISH SOCIAL MEDIA PAGES ON INSTAGRAM AND FACEBOOK! We are thrilled to announce the official launch of the City of Santa Clarita&#8217;s Spanish social media pages on Instagram and Facebook! Following a successful soft launch late last year, we are now ready to connect with our vibrant community in Spanish by inviting everyone to follow [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/10/01/the-city-of-santa-clarita-has-officially-launched-its-spanish-social-media-pages-on-instagram-and-facebook/">The City of Santa Clarita has Officially Launched its Spanish Social Media Pages on Instagram and Facebook!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/10/01/the-city-of-santa-clarita-has-officially-launched-its-spanish-social-media-pages-on-instagram-and-facebook/>
+
+---
+
+## Start the Conversation With Your Children About Drug Use With the 2024 Parenting for Prevention Program
+
+date: 2024-10-01, from: City of Santa Clarita
+
+<p>Would you like to learn effective ways to discuss drug and alcohol use with your children or students? Data provided by the Santa Clarita Valley Sheriff&#8217;s Department demonstrates the urgency of these conversations, with 33 local deaths attributed to fentanyl in 2022 and 19 in 2023. In addition, the CDC highlights that alcohol use during [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/10/01/start-the-conversation-with-your-children-about-drug-use-with-the-2024-parenting-for-prevention-program/">Start the Conversation With Your Children About Drug Use With the 2024 Parenting for Prevention Program</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/10/01/start-the-conversation-with-your-children-about-drug-use-with-the-2024-parenting-for-prevention-program/>
+
+---
+
+## California’s first graduate program in prison faces an uncertain future
+
+date: 2024-10-01, updated: 2024-10-01, from: The LAist
+
+The state agency that paid tuition for 31 students in an California State University, Dominguez Hills program says it may have made a mistake. 
+
+<https://laist.com/news/education/california-first-graduate-masters-program-in-prison-funding>
 
 ---
 
@@ -33,7 +97,7 @@ Excessive heat warnings kick in for some LA county valleys and the Inland Empire
 
 date: 2024-10-01, updated: 2024-10-01, from: The LAist
 
-People trust information more when it comes from sources or contexts they’re familiar with. Help counter misinformation in your community by having conversations with your friends and family. 
+People trust information more when it comes from sources or contexts they’re familiar with. 
 
 <https://laist.com/news/politics/to-combat-misinformation-start-with-connection-not-correction>
 

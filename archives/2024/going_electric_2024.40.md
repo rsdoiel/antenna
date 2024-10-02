@@ -1,11 +1,215 @@
 ---
 title: going electric
-updated: 2024-10-01 08:39:52
+updated: 2024-10-01 18:18:25
 ---
 
 # going electric
 
-(date: 2024-10-01 08:39:52)
+(date: 2024-10-01 18:18:25)
+
+---
+
+## Kwik Trip is installing DC fast chargers across the Midwest
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/kwik-trip.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Convenience store chain Kwik Trip is going to install DC fast chargers at “a number” of its stores across the Midwest. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-chargers,ev-charging-stations" data-layer-viewtype="unknown" data-post-id="382281" href="https://electrek.co/2024/10/01/kwik-trip-dc-fast-chargers-midwest/#more-382281" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/kwik-trip-dc-fast-chargers-midwest/>
+
+---
+
+## Costco Auto Program is offering a discount on Hummer EV pickups and SUVs through 2024
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Hummer-EV-discount-Costco-Auto-program.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/costco/">Costco Auto Program</a> is back with another exclusive EV deal for its members. Beginning this month through the rest of 2024, customers can take advantage of a member-only discount on the purchase or lease of a new GMC Hummer EV pickup or SUV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="costco,gmc-hummer-ev,gmc-hummer-ev-suv" data-layer-viewtype="unknown" data-post-id="382329" href="https://electrek.co/2024/10/01/costco-auto-program-offering-discount-hummer-ev-pickups-suvs-2024/#more-382329" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/costco-auto-program-offering-discount-hummer-ev-pickups-suvs-2024/>
+
+---
+
+## Hyundai’s IONIQ 9 SUV sheds camo, revealing sleek design [Images]
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Hyundai-IONIQ-9-camo-side.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s first three-row electric SUV is on its way. The IONIQ 9 was spotted with less camo, revealing new design details as <a href="https://electrek.co/guides/hyundai/">Hyundai</a> prepares for its official debut later this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="382308" href="https://electrek.co/2024/10/01/hyundai-ioniq-9-suv-sheds-camo-reveals-sleek-design-images/#more-382308" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/hyundai-ioniq-9-suv-sheds-camo-reveals-sleek-design-images/>
+
+---
+
+## BETA Technologies offers a glimpse at its passenger-focused ALIA eVTOL [Video]
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Passenger-eVTOL-Beta-ALIA.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Electric aircraft developer <a href="https://electrek.co/guides/beta-technologies/">BETA Technologies</a> may have plans to provide its technology to cargo and medical transport to begin, but its longer-term goal is to implement passenger travel in its flagship ALIA eVTOL. Recently, the company shared a look at what that five-passenger vessel will look like before it launches commercial operations in the future.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="beta-technologies,evtol" data-layer-viewtype="unknown" data-post-id="382222" href="https://electrek.co/2024/10/01/beta-technologies-offers-a-glimpse-at-its-passenger-focused-alia-evtol-video/#more-382222" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/beta-technologies-offers-a-glimpse-at-its-passenger-focused-alia-evtol-video/>
+
+---
+
+## Tesla is still dominant in Sweden despite dragging unionization battle
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/TEsla-TSLA-hero-23.jpg?quality=82&#038;strip=all&#038;w=1297" /></div><p>Tesla remains a dominant force in Sweden’s auto market despite a unionization battle that has been dragging on for almost a year now.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="382294" href="https://electrek.co/2024/10/01/tesla-is-still-dominant-in-sweden-despite-dragging-unionization-battle/#more-382294" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/tesla-is-still-dominant-in-sweden-despite-dragging-unionization-battle/>
+
+---
+
+## NIO delivered 832 Onvo L60 electric SUVs in just 3 days with a $21,000 starting price tag
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/NIOs-Model-Y-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s <a href="https://electrek.co/guides/nio/">NIO</a> (NYSE: NIO) delivered over 20,000 vehicles in September, its fifth straight month crossing the mark. In just three days, NIO sold 832 Onvo L60 electric SUVs, the first of its new low-cost EV brand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nio,nio-onvo" data-layer-viewtype="unknown" data-post-id="382280" href="https://electrek.co/2024/10/01/nio-delivers-832-onvo-l60-electric-suvs-3-days-starting-21k/#more-382280" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/nio-delivers-832-onvo-l60-electric-suvs-3-days-starting-21k/>
+
+---
+
+## Toyota's Hybrids Are Crushing It In The U.S.
+
+date: 2024-10-01, from: Inside EVs News
+
+With electrified cars making up nearly 50% of its sales in September, Toyota is well on its way to being a battery-powered car company. 
+
+<https://insideevs.com/news/735783/toyota-sales-september-2024-electrified/>
+
+---
+
+## Rare Tesla Wall Connector discounts from $420, Anker 90,000mAh station return lows, Juiced JetCurrent Pro e-bike $700 off, more
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Tesla-Universal-Wall-Connector-EV-Charger.jpg?quality=82&#038;strip=all&#038;w=1201" /></div><p>Leading today’s Green Deals is a rare discount on <a href="https://9to5toys.com/2024/10/01/teslas-universal-and-standard-wall-connector-ev-charging-stations-see-rare-price-cut-to-new-lows-from-420/">Tesla’s Universal and Standard Wall Connector EV charging stations</a> to new low prices, starting from <a href="https://9to5toys.com/2024/10/01/teslas-universal-and-standard-wall-connector-ev-charging-stations-see-rare-price-cut-to-new-lows-from-420/">$420</a>. Anker’s early fall Prime Day sale has also returned its <a href="https://9to5toys.com/2024/09/30/ankers-new-solix-c300-ac-90000mah-portable-power-station-hits-200-amazon-low-ahead-of-your-next-fall-outing/">new C300 90,000mAh Power Stations</a> to their lowest rates for the first time since launching, starting from <a href="https://9to5toys.com/2024/09/30/ankers-new-solix-c300-ac-90000mah-portable-power-station-hits-200-amazon-low-ahead-of-your-next-fall-outing/">$150</a>. Next, Juiced has dropped its latest <a href="http://juicedbikes.sjv.io/nLrado">JetCurrent Pro Foldable e-bike down to $2,099</a>, while <a href="https://9to5toys.com/2024/09/30/let-hiboys-ex6-step-thru-fat-tire-e-bike-carry-you-for-up-to-70-miles-at-return-800-low-reg-1580/">Hiboy’s EX6 Step-Thru Fat Tire e-bike</a> is back at its <a href="https://9to5toys.com/2024/09/30/let-hiboys-ex6-step-thru-fat-tire-e-bike-carry-you-for-up-to-70-miles-at-return-800-low-reg-1580/">$800 low</a>. We also have another EcoFlow flash sale that is offering the lowest prices we’ve tracked on bundles for the <a href="https://9to5toys.com/2024/10/01/ecoflow-flash-sale-offers-delta-pro-and-river-2-pro-power-station-bundles-from-599-lows-save-up-to-1800/">DELTA Pro and RIVER 2 Pro power stations</a> that will only last through the rest of the day, and bringing up the rear is <a href="https://9to5toys.com/2024/10/01/goal-zeros-78l-alta-80-dual-zone-portable-electric-fridge-freezer-keeps-things-cool-at-new-700-low-reg-1000/">Goal Zero’s Alta 80 Portable Electric Fridge and Freezer</a> at a new low price too. Plus, all the other hangover Green Deals in the links at the bottom of the page, like yesterday’s $975 discount on the <a href="https://9to5toys.com/2024/09/30/save-975-on-segways-x260-electric-dirt-bike-that-hits-47-mph-and-travels-up-to-75-miles-at-5525/">Segway x260 Electric Dirt Bike</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="382279" href="https://electrek.co/2024/10/01/rare-tesla-wall-connector-discounts-anker-90000mah-station-juiced-more/#more-382279" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/rare-tesla-wall-connector-discounts-anker-90000mah-station-juiced-more/>
+
+---
+
+## Consumer Reports Recommends The Tesla Cybertruck. For Now, At Least
+
+date: 2024-10-01, from: Inside EVs News
+
+Even with its quirks and concessions that favor design over practicality, the Cybertruck is still pretty good. 
+
+<https://insideevs.com/news/735758/consumer-reports-cybertruck-early-review/>
+
+---
+
+## General Motors Just Pulled Off A Major Electric Comeback
+
+date: 2024-10-01, from: Inside EVs News
+
+The Chevy Equinox EV has eclipsed the Cadillac Lyriq to become GM's best-selling EV in the U.S. 
+
+<https://insideevs.com/news/735766/gm-ev-sales-q3-2024/>
+
+---
+
+## Kia And Hyundai's EV And Hybrid Push Continues To Pay Off
+
+date: 2024-10-01, from: Inside EVs News
+
+The Korean duo posted record-breaking electric and hybrid sales in September and Q3 of 2024. Here's where the wins are.  
+
+<https://insideevs.com/news/735776/kia-hyundai-sales-sept-2024/>
+
+---
+
+## The VW ID. Buzz arrives in the US this fall, but finding one may be tricky
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/VW-ID.Buzz-production-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The VW ID. Buzz is launching in the US around Thanksgiving, but if you want one, you might have to hunt it down, as Volkswagen has been a bit stingy in allocating the electric van to dealers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,volkswagen-id-buzz,vw-id-buzz" data-layer-viewtype="unknown" data-post-id="382257" href="https://electrek.co/2024/10/01/the-vw-id-buzz-arrives-in-the-us-this-fall-but-finding-one-may-be-tricky/#more-382257" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/the-vw-id-buzz-arrives-in-the-us-this-fall-but-finding-one-may-be-tricky/>
+
+---
+
+## Tesla shifts its in-car music streaming strategy, crashing this stock in the process
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/11/Tesla-Apple-Music-app-integration-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla appears to be shifting its in-car music streaming strategy and it is crashing this stock in the process.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="382258" href="https://electrek.co/2024/10/01/tesla-shifts-in-car-music-streaming-strategy-crashing-this-stock-in-the-process/#more-382258" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/tesla-shifts-in-car-music-streaming-strategy-crashing-this-stock-in-the-process/>
+
+---
+
+## Rivian’s Electric Van Can’t Use Tesla Superchargers
+
+date: 2024-10-01, from: Inside EVs News
+
+Access to the expansive DC fast charging network is reserved for retail vehicles such as the R1S and R1T. 
+
+<https://insideevs.com/news/735669/rivian-electric-van-tesla-supercharger/>
+
+---
+
+## GM nears double-digit EV market share in the US after Q3 sales surged
+
+date: 2024-10-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/GM-EV-Q2-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/gm/">GM</a> is eyeing double-digit market share in the US EV market after sales surged 60% in Q3 compared to last year. With new models like the Chevy Blazer, Equinox, and Silverado EVs rolling out nationwide, GM looks to top rival Ford by the end of 2024.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="general-motors,gm" data-layer-viewtype="unknown" data-post-id="382251" href="https://electrek.co/2024/10/01/gm-nears-double-digit-ev-market-share-after-q3-sales-surge/#more-382251" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/gm-nears-double-digit-ev-market-share-after-q3-sales-surge/>
+
+---
+
+## LG Chem Just Solved Thermal Runaway In EV Batteries
+
+date: 2024-10-01, from: Inside EVs News
+
+Seen scary EV fires that seem impossible to douse? LG Chem says it has a breakthrough solution for that. 
+
+<https://insideevs.com/news/735745/lg-chem-solution-for-thermal-runaway/>
 
 ---
 

@@ -1,11 +1,50 @@
 ---
 title: writing
-updated: 2024-10-01 08:39:46
+updated: 2024-10-01 18:18:19
 ---
 
 # writing
 
-(date: 2024-10-01 08:39:46)
+(date: 2024-10-01 18:18:19)
+
+---
+
+## 2024 National Book Awards Finalists
+
+date: 2024-10-01, from: Locus Magazine
+
+<p></p>
+<p>Finalists for the National Book Awards (NBA) have been announced, including titles and authors of genre interest in multiple categories.</p>
+<p><strong>Fiction</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li><b>Ghostroots</b>, ’Pemi Aguda (Norton)</li>
+<li><strong>James</strong>, Percival Everett (Doubleday)</li>
+</ul>
+<p><strong>Nonfiction</strong></p>
+<ul>
+<li><strong>Knife: Meditations After an Attempted Murder</strong>, Salman Rushdie (Random House)</li>
+</ul>
+<p><strong>Young People&#8217;s Literature</strong></p>
+<ul>
+<li><strong>Buffalo Dreamer</strong>, Violet Duncan (Nancy Paulsen)</li>
+<li><strong>The First State of Being</strong>, Erin Entrada Kelly (Greenwillow)</li>
+</ul>
+<p><strong>Translated Literature</strong></p>
+<ul>
+<li><strong>The Book Censor’s Library</strong>, </li></ul></div> <a href="https://locusmag.com/2024/10/2024-national-book-awards-finalists/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/10/2024-national-book-awards-finalists/>
+
+---
+
+## 2024 MacArthur Fellowships
+
+date: 2024-10-01, from: Locus Magazine
+
+<p>The 22 MacArthur Foundation Fellows have been announced for 2024, including filmmaker Sterlin Harjo of feature <strong>Mekko </strong>(2015) and TV series <strong>Reservation Dogs</strong> (2021-2023); Ling Ma, author of <strong>Severance </strong>(2018) and <strong>Bliss Montage </strong>(2022); Jason Reynolds, author of the Stuntboy children&#8217;s superhero series and YA fantasy <strong>Long Way Down </strong>(2017); and writer and disability activist Alice Wong, who had an essay in Uncanny&#8217;s &#8220;Disabled People Destroy Science Fiction!&#8221; issue (2018). <a href="https://locusmag.com/2024/10/2024-macarthur-fellowships/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/2024-macarthur-fellowships/>
 
 ---
 
@@ -42,6 +81,19 @@ date: 2024-10-01, from: Locus Magazine
 <p>Experimental horror novel in the form of a sort of CYOA novel. Vicken has a plan: throw himself into the Saint Lawrence River in Montreal and end it all for good, believing it to be the only way out for him after a lifetime of depression and pain. But, stepping off the subway, he finds himself  <a href="https://locusmag.com/2024/10/new-books-1-october-2024/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/10/new-books-1-october-2024/>
+
+---
+
+## "Breaking into TV Writing" with Anton Schettini
+
+date: 2024-10-01, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/breaking-into-tv-writing-with-anton-schettini" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Breaking%20Into%20TV%20Writing.png" alt="Breaking into TV Writing with Anton Schettini" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Anton Schettini is a TV writer best known for writing sitcoms like <em>Happy Together</em> and <em>Superior Donuts</em> – and even a drama called <em>Snap</em>. But before he was an actual writer, he spent years working his way up the Hollywood ladder as a production assistant, writers’ assistant and script coordinator. Now Schettini has written a book about his journey to becoming a professional TV scribe where he demystifies the process of breaking into the biz and offers other writers his best advice at all stages of their careers.&nbsp;</p> 
+
+<https://blog.finaldraft.com/breaking-into-tv-writing-with-anton-schettini>
 
 ---
 

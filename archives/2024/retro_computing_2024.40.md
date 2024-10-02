@@ -1,11 +1,21 @@
 ---
 title: retro computing
-updated: 2024-10-01 08:39:50
+updated: 2024-10-01 18:18:24
 ---
 
 # retro computing
 
-(date: 2024-10-01 08:39:50)
+(date: 2024-10-01 18:18:24)
+
+---
+
+## b.log 2024/10/01 - The joy of working with others: Four Tales of Woe.
+
+date: 2024-10-01, from: Richard Murray's blog
+
+The joy of working with others: Four Tales of Woe. 
+
+<https://heyrick.eu/blog/index.php?diary=20241001>
 
 ---
 

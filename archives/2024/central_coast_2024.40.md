@@ -1,11 +1,137 @@
 ---
 title: central coast
-updated: 2024-10-01 08:39:43
+updated: 2024-10-01 18:18:17
 ---
 
 # central coast
 
-(date: 2024-10-01 08:39:43)
+(date: 2024-10-01 18:18:17)
+
+---
+
+## Fire Damages Empty Commercial Building in Santa Maria
+
+date: 2024-10-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="672" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-Santa-Maria-Fire1-cont.jpg?fit=1024%2C672&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A fire damages an empty commercial building in the 1900 block of South Broadway in Santa Maria early Tuesday morning." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-Santa-Maria-Fire1-cont.jpg?w=1737&amp;ssl=1 1737w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-Santa-Maria-Fire1-cont.jpg?resize=300%2C197&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-Santa-Maria-Fire1-cont.jpg?resize=1024%2C672&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-Santa-Maria-Fire1-cont.jpg?resize=768%2C504&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-Santa-Maria-Fire1-cont.jpg?resize=1536%2C1008&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-Santa-Maria-Fire1-cont.jpg?resize=1200%2C788&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-Santa-Maria-Fire1-cont.jpg?resize=1568%2C1029&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-Santa-Maria-Fire1-cont.jpg?resize=400%2C263&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-Santa-Maria-Fire1-cont.jpg?fit=1024%2C672&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Firefighters in Santa Maria battled a fully involved structure fire early Tuesday morning at a vacant commercial building and have launched an investigation into how it started. At 12:10 a.m., [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/fire-damages-empty-commercial-building-in-santa-maria/">Fire Damages Empty Commercial Building in Santa Maria</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/fire-damages-empty-commercial-building-in-santa-maria/>
+
+---
+
+## Ron Fink: Lompoc Unified School District and Bond Measure M2024
+
+date: 2024-10-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Lompoc Unified School District (LUSD) is trying to persuade voters to approve a $160 million bond measure to renovate the aging school buildings. If voters agree, the annual fee [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ron-fink-lompoc-unified-school-district-and-measure-m2024/">Ron Fink: Lompoc Unified School District and Bond Measure M2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ron-fink-lompoc-unified-school-district-and-measure-m2024/>
+
+---
+
+## Santa Barbara City Council Candidates Talk Rent Control at Election Forum
+
+date: 2024-10-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-League-women-voters-santa-barbara-council-Panel-1-JM.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Candidates for Santa Barbara City Council attended a League of Women Voters election forum Monday night." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-League-women-voters-santa-barbara-council-Panel-1-JM.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-League-women-voters-santa-barbara-council-Panel-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-League-women-voters-santa-barbara-council-Panel-1-JM.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-League-women-voters-santa-barbara-council-Panel-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-League-women-voters-santa-barbara-council-Panel-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-League-women-voters-santa-barbara-council-Panel-1-JM.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-League-women-voters-santa-barbara-council-Panel-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-League-women-voters-santa-barbara-council-Panel-1-JM.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-League-women-voters-santa-barbara-council-Panel-1-JM.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-League-women-voters-santa-barbara-council-Panel-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-League-women-voters-santa-barbara-council-Panel-1-JM.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara City Councilman Oscar Gutierrez said Monday night that the Westside needs more attention, but he&#8217;s been working to make that happen. &#8220;This isn&#8217;t like ordering a pizza,&#8221; Gutierrez [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-city-council-candidates-talk-rent-control-at-election-forum/">Santa Barbara City Council Candidates Talk Rent Control at Election Forum</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-city-council-candidates-talk-rent-control-at-election-forum/>
+
+---
+
+## Noozhawk’s Instagram Account Has Been Hacked, and We Need Your Help
+
+date: 2024-10-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="841" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-noozhawk-instagram-profile-page-crop-3.jpg?fit=1024%2C841&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-noozhawk-instagram-profile-page-crop-3.jpg?w=1160&amp;ssl=1 1160w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-noozhawk-instagram-profile-page-crop-3.jpg?resize=300%2C246&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-noozhawk-instagram-profile-page-crop-3.jpg?resize=1024%2C841&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-noozhawk-instagram-profile-page-crop-3.jpg?resize=768%2C631&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-noozhawk-instagram-profile-page-crop-3.jpg?resize=400%2C329&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-noozhawk-instagram-profile-page-crop-3.jpg?fit=1024%2C841&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It’s been more than a week since Noozhawk’s&#160;Instagram&#160;account was hacked and stolen, and we are asking for your help in getting it back. After gaining control of the @noozhawk account [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/noozhawks-instagram-account-has-been-hacked-and-we-need-your-help/">Noozhawk’s Instagram Account Has Been Hacked, and We Need Your Help</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/noozhawks-instagram-account-has-been-hacked-and-we-need-your-help/>
+
+---
+
+## District Attorney Charges Santa Maria Court Bombing Suspect With 10 Felonies
+
+date: 2024-10-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Bombing-Arraignment-cont-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Nathaniel James McGuire, 20, of Santa Maria has been charged in federal and local court for allegedly bombing the Santa Maria Court Complex last week and injuring at least five people." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Bombing-Arraignment-cont-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Bombing-Arraignment-cont-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Bombing-Arraignment-cont-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Bombing-Arraignment-cont-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Bombing-Arraignment-cont-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Bombing-Arraignment-cont-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Bombing-Arraignment-cont-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Bombing-Arraignment-cont-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Bombing-Arraignment-cont-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Already charged in federal court, the man accused of bombing Santa Maria Court Complex last week will face 10 criminal counts in Santa Barbara County including attempted murder, arson and [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/district-attorney-charges-santa-maria-court-bombing-suspect-with-10-felonies/">District Attorney Charges Santa Maria Court Bombing Suspect With 10 Felonies</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/district-attorney-charges-santa-maria-court-bombing-suspect-with-10-felonies/>
+
+---
+
+## Tracy Beckerman: The King of Cling Takes a Thong Turn
+
+date: 2024-10-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Not that I’m obsessive or anything, but years ago when my kids were little, I would carry entire kiddie wardrobes around with me so that when my kids got dirty, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/tracy-beckerman-the-king-of-cling-takes-a-thong-turn/">Tracy Beckerman: The King of Cling Takes a Thong Turn</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/tracy-beckerman-the-king-of-cling-takes-a-thong-turn/>
+
+---
+
+## Dr. Bonnie Franklin: The Ultimate Guide to Choosing the Best Dog Bowl
+
+date: 2024-10-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Choosing food and water bowls for your dog can be a big decision in both design and function. After all, your dog will be using that same bowl for a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dr-bonnie-franklin-the-ultimate-guide-to-choosing-the-best-dog-bowl/">Dr. Bonnie Franklin: The Ultimate Guide to Choosing the Best Dog Bowl</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dr-bonnie-franklin-the-ultimate-guide-to-choosing-the-best-dog-bowl/>
+
+---
+
+## David Crosby Transformed Music Education in Santa Ynez Valley
+
+date: 2024-10-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/1200-David-Crosby-syvf.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Among other Santa Ynez Valley initiatives, the late David Crosby and his wife, Jan, were deeply involved in the grassroots coalition Let There Be Music and the long-running Valley Music Festival concert series." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/1200-David-Crosby-syvf.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/1200-David-Crosby-syvf.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/1200-David-Crosby-syvf.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/1200-David-Crosby-syvf.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/1200-David-Crosby-syvf.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/1200-David-Crosby-syvf.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>[Noozhawk’s note: One in a series on the Santa Ynez Valley Foundation’s 2024 Champions of the Valley who will be honored for their volunteerism and community service Oct. 13 at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/david-crosby-transformed-music-education-in-santa-ynez-valley/">David Crosby Transformed Music Education in Santa Ynez Valley</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/david-crosby-transformed-music-education-in-santa-ynez-valley/>
+
+---
+
+## Mark Cromer: California’s Mass Migration Nightmare a Warning for America
+
+date: 2024-10-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>In the weeks since Vice President Kamala Harris and former President Donald Trump met on the debate stage, the national firefight over the impacts of mass migration has escalated to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/mark-cromer-californias-mass-migration-nightmare-a-warning-for-america/">Mark Cromer: California’s Mass Migration Nightmare a Warning for America</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/mark-cromer-californias-mass-migration-nightmare-a-warning-for-america/>
+
+---
+
+## SCE Warns of Possible Power Shutoffs Due to Hot Weather This Week
+
+date: 2024-10-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="699" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-nws-heat-map-2.jpg?fit=1024%2C699&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-nws-heat-map-2.jpg?w=1380&amp;ssl=1 1380w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-nws-heat-map-2.jpg?resize=300%2C205&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-nws-heat-map-2.jpg?resize=1024%2C699&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-nws-heat-map-2.jpg?resize=768%2C524&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-nws-heat-map-2.jpg?resize=1200%2C819&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-nws-heat-map-2.jpg?resize=400%2C273&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-nws-heat-map-2.jpg?fit=1024%2C699&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The heat is not done with the South Coast just yet. The National Weather Service issued a fire weather watch for parts of Santa Barbara County as temperatures rise later [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/sce-warns-of-possible-power-shutoffs-due-to-hot-weather-this-week/">SCE Warns of Possible Power Shutoffs Due to Hot Weather This Week</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sce-warns-of-possible-power-shutoffs-due-to-hot-weather-this-week/>
 
 ---
 

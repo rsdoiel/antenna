@@ -1,11 +1,175 @@
 ---
 title: food
-updated: 2024-10-01 08:39:52
+updated: 2024-10-01 18:18:26
 ---
 
 # food
 
-(date: 2024-10-01 08:39:52)
+(date: 2024-10-01 18:18:26)
+
+---
+
+## Cajun Mac and Cheese
+
+date: 2024-10-01, from: Taste of Home
+
+This Cajun mac and cheese recipe is the perfect combination of creamy, cheesy goodness, smoky sausage and a touch of heat. It's a fun twist on a comfort food classic. 
+
+<https://www.tasteofhome.com/recipes/cajun-mac-and-cheese/>
+
+---
+
+## Americano Cocktail
+
+date: 2024-10-01, from: Taste of Home
+
+Experience the perfect blend of bitterness and sweetness with an Americano cocktail. Campari, sweet vermouth and soda water create a harmonious, refreshing drink. 
+
+<https://www.tasteofhome.com/recipes/americano-cocktail/>
+
+---
+
+## Instant Pot Potato Salad
+
+date: 2024-10-01, from: Taste of Home
+
+This Instant Pot potato salad is savory and creamy and pairs well with so many different dishes that you'll make it again and again. 
+
+<https://www.tasteofhome.com/recipes/instant-pot-potato-salad/>
+
+---
+
+## Cherry Crumble
+
+date: 2024-10-01, from: Taste of Home
+
+This cherry crumble dessert is delicious and, once you get the crumble technique down, a total breeze to make. Serve it with a scoop of vanilla ice cream for full effect. 
+
+<https://www.tasteofhome.com/recipes/cherry-crumble/>
+
+---
+
+## Wayfair’s Way Day Is Back! Take Up to 80% Off Cookware, Rugs, Furniture and More
+
+date: 2024-10-01, from: Taste of Home
+
+<p>Just in time for holiday shopping, Wayfair is bringing back the iconic Way Day sale. Here's what sale items we're adding to our cart.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/way-day-is-back-october-2024/">Wayfair&#8217;s Way Day Is Back! Take Up to 80% Off Cookware, Rugs, Furniture and More</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/way-day-is-back-october-2024/>
+
+---
+
+## Can You Eat Acorn Squash Skin?
+
+date: 2024-10-01, from: Taste of Home
+
+<p>Is acorn squash skin safe to eat? First-hand experience says yes.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/can-you-eat-acorn-squash-skin/">Can You Eat Acorn Squash Skin?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/can-you-eat-acorn-squash-skin/>
+
+---
+
+## Mill City Roasters Activates Disaster Recovery Program
+
+date: 2024-10-01, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Mill City Roasters is waiving all fees for technical support time to help coffee professionals get their production equipment back into service. 
+
+<https://sprudge.com/mill-city-roasters-activates-disaster-recovery-program-256117.html>
+
+---
+
+## The Cheesy Orzotto My Toddler and I Can Both Have for Dinner
+
+date: 2024-10-01, from: Bon Appetet
+
+October’s Feel-Good Food Plan has parent-friendly recipes (plus stretchy pants). 
+
+<https://www.bonappetit.com/story/feel-good-food-plan-october-2024>
+
+---
+
+## Broccoli Cheddar Orzotto
+
+date: 2024-10-01, from: Bon Appetet
+
+A family-friendly dinner even the littlest ones will love. 
+
+<https://www.bonappetit.com/recipe/broccoli-cheddar-orzo-risotto>
+
+---
+
+## Clam Fritters
+
+date: 2024-10-01, from: Taste of Home
+
+Clam fritters are a summertime staple along the New England coast, and this savory recipe brings them straight to your dinner table. Enjoy them as an app, or make a whole boatload to enjoy as a main course. 
+
+<https://www.tasteofhome.com/recipes/clam-fritters/>
+
+---
+
+## Lamb Burgers
+
+date: 2024-10-01, from: Taste of Home
+
+Will these lamb burgers become your most-loved burger of all time? There's a very good chance that they will, especially with the homemade sauce you'll spread on top of them. 
+
+<https://www.tasteofhome.com/recipes/lamb-burgers/>
+
+---
+
+## Hurricane Helene Devastates Asheville Coffee Community
+
+date: 2024-10-01, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Over a third of the deaths caused by Hurricane Helene occurred in Buncombe County. 
+
+<https://sprudge.com/hurricane-helene-devastates-asheville-coffee-community-256104.html>
+
+---
+
+## Coffee Shines At The 10th Annual Welcome Conference In New York City
+
+date: 2024-10-01, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Looking back a the 10th Annual Welcome Conference in New York City, New York. 
+
+<https://sprudge.com/coffee-shines-at-the-10th-annual-welcome-conference-in-new-york-city-255386.html>
+
+---
+
+## VOCAL Alliance Launches, Urges EU Regulatory Compliance Over Pushback
+
+date: 2024-10-01, from: Daily Coffee News
+
+<div><img width="620" height="365" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee-620x365.jpg" class="attachment-large size-large wp-post-image" alt="VOCAL Coffee Alliance" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee-620x365.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee-300x177.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee-150x88.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee-768x453.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee.jpg 1330w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new consortium of civil society organizations under the acronym VOCAL (Voice of Organizations in Coffee Alliance) launched today, challenging the coffee industry&#8217;s prevailing positions on regulatory compliance. In its... 
+
+<https://dailycoffeenews.com/2024/10/01/vocal-alliance-launches-urges-eu-regulatory-compliance-over-pushback/>
+
+---
+
+## Tater Tot Hotdish
+
+date: 2024-10-01, from: Bon Appetet
+
+A fresh take on a Midwest staple, featuring homemade gravy and plenty of vegetables. 
+
+<https://www.bonappetit.com/recipe/tater-tot-hotdish-casserole>
+
+---
+
+## 12 Dos and Don’ts for Peak Chicken Parm
+
+date: 2024-10-01, from: Bon Appetet
+
+Chef Angie Rito shares her pro moves for chicken parm, from her favorite type of canned tomatoes to how she likes to season the breading for the chicken cutlets. 
+
+<https://www.bonappetit.com/story/chef-tips-for-chicken-parm>
 
 ---
 
@@ -23,7 +187,7 @@ date: 2024-10-01, from: The Sprudge
 
 date: 2024-10-01, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="World Coffee Innovation Summit" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A high-level coffee event focused on climate and finance in the coffee sector called the World Coffee Innovation Summit is coming to the Queen Elizabeth II Centre (QEII) in London... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="World Coffee Innovation Summit" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A high-level coffee event focused on climate and finance in the coffee sector called the World Coffee Innovation Summit is coming to the Queen Elizabeth II Centre (QEII) in London... 
 
 <https://dailycoffeenews.com/2024/10/01/world-coffee-innovation-summit-in-london-oct-16-17/>
 
@@ -208,7 +372,7 @@ A Momofuku comeback in New York, a celebrated Chicago chef’s new bar, and plen
 
 date: 2024-09-30, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Pink Cloud Coffee 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The forecast is looking sunny for Southern California-based Pink Cloud Coffee, which recently moved from shared roasting facility and into a private roastery of its own.&#160; At the center of... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Pink Cloud Coffee 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Pink-Cloud-Coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The forecast is looking sunny for Southern California-based Pink Cloud Coffee, which recently moved from shared roasting facility and into a private roastery of its own.&#160; At the center of... 
 
 <https://dailycoffeenews.com/2024/09/30/with-new-roastery-the-sky-is-clear-for-pink-cloud-coffee-in-la/>
 

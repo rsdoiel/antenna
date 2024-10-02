@@ -1,11 +1,852 @@
 ---
 title: columns
-updated: 2024-10-01 08:39:44
+updated: 2024-10-01 18:18:18
 ---
 
 # columns
 
-(date: 2024-10-01 08:39:44)
+(date: 2024-10-01 18:18:18)
+
+---
+
+## We Won’t Have Taylor Lorenz to Kick Around Anymore
+
+date: 2024-10-02, updated: 2024-10-02, from: Daring Fireball
+
+ 
+
+<https://apnews.com/article/taylor-lorenz-tech-journalism-washington-post-leave-028472143fb8b7d4fb21578403327981>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-01, from: Miguel de Icaza Mastondon feed)
+
+<p>Just happy that every build of mine consumes 8 minutes on Xcode Cloud to really optimize the speed at which my macros run, so instead of taking 3 milliseconds they take 2.8 milliseconds to run.</p><p>Doing my part to keep Big Data Center AC in business.</p> 
+
+<https://mastodon.social/@Migueldeicaza/113234814564073555>
+
+---
+
+## Wednesday 2 October, 2024
+
+date: 2024-10-01, from: John Naughton's online diary
+
+Colour Sometimes, B&#38;W just doesn’t cut it! Quote of the Day “I’m very careful to only predict things which have already happened.” Marshall McLuhan Great advice for anyone covering the tech industry. Musical alternative to the morning’s radio news The &#8230; <a href="https://memex.naughtons.org/wednesday-2-october-2024/39923/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-2-october-2024/39923/>
+
+---
+
+## I’m a professional
+
+date: 2024-10-01, from: Daniel Stenberg Blog
+
+I received this email today. tldr; I am not selling my soul. From: Microsoft Subject: Congratulations on your Microsoft MVP award You’ve been accepted to the Microsoft MVP program Daniel Stenberg, We’re pleased to welcome you to the Microsoft Most Valuable Professionals (MVP) program in recognition of your outstanding contributions to the community in following &#8230; <a href="https://daniel.haxx.se/blog/2024/10/02/im-a-professional/" class="more-link">Continue reading <span class="screen-reader-text">I&#8217;m a professional</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/10/02/im-a-professional/>
+
+---
+
+## How to share your access to media with family and simultaneously sweep the annual nerdy nephew of the year awards
+
+date: 2024-10-01, from: Matt Haughey blog
+
+<p>A couple months ago I was hanging out with my aunt, and she mentioned her cable+internet bill was around $250 per month. I thought that was <strong><em>insane</em></strong> and that I should do something about it. She&apos;s a 75 year old retiree that watches baseball and the hallmark</p> 
+
+<https://a.wholelottanothing.org/how-to-share-your-access-to-media-with-family-and-simultaneously-sweep-the-annual-nerdy-nephew-of-the-year-awards/>
+
+---
+
+## Modernizing the Original ADB Keyboard From the Apple IIGS
+
+date: 2024-10-01, updated: 2024-10-01, from: Daring Fireball
+
+ 
+
+<https://www.youtube.com/watch?v=NW_LLVD3R3c>
+
+---
+
+## 2024_10_01 Postings
+
+date: 2024-10-01, from: Doc Searls (at Harvard), New Old Blog
+
+A radio item Over on my blog about infrastructure, I put up a brief post about WART, volunteer-powered community radio station with studios in a railroad caboose, that was lost in the flood that just devastated Marshall, North Carolina. Write once, publish everywhere Dave turned me on to Croissant today. Looks good. I&#8217;d even be [&#8230;] 
+
+<https://doc.searls.com/2024/10/01/2024_10_01-postings/>
+
+---
+
+##  A Murmuration of Starlings 
+
+date: 2024-10-01, updated: 2024-10-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/a-murmuration-of-starlings-1>
+
+---
+
+## Tonight’s Vice Presidential Debate watch-along
+
+date: 2024-10-01, from: Robert Reich's blog
+
+Please join me and Michael Lahanas-Calder&#243;n right here, starting at 8:45 ET/5:45 PT &#8212; as we provide you context, clarity, and company. 
+
+<https://robertreich.substack.com/p/tonights-vice-presidential-debate>
+
+---
+
+## 2024-09-18 Emacs Wiki and China
+
+date: 2024-10-01, from: Alex Schroeder's Blog
+
+<h1 id="2024-09-18-emacs-wiki-and-china">2024-09-18 Emacs Wiki and China</h1>
+
+<p><strong>2024-09-14</strong>. I&rsquo;m somewhere in the Italian-speaking parts of Switzerland with my wife. There is a lot of running, hiking, hugging, kissing, eating and drinking involved. 🥰</p>
+
+<p><strong>2024-09-15</strong>. Still on the trip but late at night I spent more than an hour trying to figure out why my server had a load of nearly 40. 💻</p>
+
+<p>All I discovered is that load went down when I shut down Emacs Wiki. See also <a href="https://www.emacswiki.org/emacs/2024-09-16">2024-09-16</a> on Emacs Wiki.</p>
+
+<p>Well, I needed to sleep and I‘ve got plans for the next few days so I shut it down while I slept hoping that the misconfigured spider is fixed or the inept programmer discovers their mistake. Just another day in the Butlerian Jihad. Some misguided soul probably wanted to download it all and wrote a broken web crawler and when that got blocked they bought some nice scaling infrastructure from Amazon, Hetzner, OHV or Alibaba Cloud or whatever they are called, allowing them to use a gazillion different IP numbers that will eventually lead me to implement some sort of cloud service provider block.</p>
+
+<p><img loading="lazy" src="2024-09-15-emacs-china.png" alt="Load shoots up to nearly 40 around midnight. The graph is for an entire week so the peaks are not shown. It just goes up to 30 multiple times." /></p>
+
+<p><strong>2024-09-16</strong>. Switched Emacs Wiki back on after a few hours of sleep and it did fine. But then it restarted again&hellip; at 18:00, 19:00, 21:00, 22:00&hellip; and so I switched Emacs Wiki off again. Time to ban some networks!</p>
+
+<p>Anybody interested in my banning of IP ranges and possibly interested in me reverting any of these, take a look at <a href="/admin/ban-cidr">ban-cidr</a> &hellip; from a network that isn&rsquo;t banned, I guess. 😏</p>
+
+<p><strong>2024-09-17</strong>. This continues to keep me busy and angry every evening. Too bad I don&rsquo;t have a real fast <a href="/admin/network-lookup">network-lookup</a> to firewall ban pipeline. I&rsquo;m using this script instead of carefully checking IP numbers and networks. I&rsquo;m also sick and tired of the same networks popping up again and again.</p>
+
+<p>I added over a hundred Chinese networks to the firewall rules and I&rsquo;m seriously considering blocking the whole country for a week. It seems that most of the offenders are networks run by China Telecoms and China Mobile.</p>
+
+<p><strong>2024-09-18</strong>. So far, so good. Load stays below two.</p>
+
+<h2 id="example">Example</h2>
+
+<p>Here&rsquo;s example usage for <code>network-lookup</code>, filtering for Emacs Wiki and a URL parameter used when requesting recent changes or a RSS feed for a single page only. That would count as suspicious misbehaving crawler behaviour in my book.</p>
+
+<pre><code>Made 16 DNS requests.
+4 cache hits.
+</code></pre>
+
+<table>
+<thead>
+<tr>
+<th align="right">Range</th>
+<th align="right">Hits</th>
+<th>Org</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="right">34.32.128.0/17</td>
+<td align="right">3</td>
+<td>Google LLC / GOOGL-2</td>
+</tr>
+
+<tr>
+<td align="right">113.0.0.0/13</td>
+<td align="right">3</td>
+<td>UNICOM-HL / CNC Group CHINA169 Heilongjiang Province Network</td>
+</tr>
+
+<tr>
+<td align="right">14.208.0.0/12</td>
+<td align="right">1</td>
+<td>CHINANET-GD / China Telecom</td>
+</tr>
+
+<tr>
+<td align="right">39.64.0.0/11</td>
+<td align="right">1</td>
+<td>China Unicom Shandong Province Network / UNICOM-SD</td>
+</tr>
+
+<tr>
+<td align="right">111.36.192.0/20</td>
+<td align="right">1</td>
+<td>China Mobile communications corporation / China Mobile / CMNET / ORG-CM1-AP</td>
+</tr>
+
+<tr>
+<td align="right">223.167.0.0/16</td>
+<td align="right">1</td>
+<td>UNICOM-SH / China Unicom Shanghai Province Network</td>
+</tr>
+
+<tr>
+<td align="right">39.184.0.0/18</td>
+<td align="right">1</td>
+<td>Internet Service Provider in China / CMNET / ORG-CM1-AP / China Mobile</td>
+</tr>
+
+<tr>
+<td align="right">111.18.128.0/20</td>
+<td align="right">1</td>
+<td>China Mobile / ORG-CM1-AP / CMNET / China Mobile communications corporation</td>
+</tr>
+
+<tr>
+<td align="right">27.38.200.0/24</td>
+<td align="right">1</td>
+<td>UNICOM-GDSZ / China Unicom</td>
+</tr>
+
+<tr>
+<td align="right">112.47.128.0/18</td>
+<td align="right">1</td>
+<td>China Mobile communications corporation / China Mobile Communications Corporation / ORG-CMCC1-AP / CMNET</td>
+</tr>
+
+<tr>
+<td align="right">218.71.0.0/16</td>
+<td align="right">1</td>
+<td>CHINANET-ZJ-WZ / Zhejiang Telecom</td>
+</tr>
+
+<tr>
+<td align="right">39.130.48.0/20</td>
+<td align="right">1</td>
+<td>CMNET / ORG-CM1-AP / China Mobile / Internet Service Provider in China</td>
+</tr>
+
+<tr>
+<td align="right">222.90.0.0/16</td>
+<td align="right">1</td>
+<td>CHINANET-SN / Beijing 100088</td>
+</tr>
+
+<tr>
+<td align="right">223.81.240.0/20</td>
+<td align="right">1</td>
+<td>ORG-CM1-AP / CMNET / China Mobile / China Mobile communications corporation</td>
+</tr>
+
+<tr>
+<td align="right">218.107.192.0/19</td>
+<td align="right">1</td>
+<td>CNCGROUP-FJ-XIAMEN-MAN / CNCGroup CHINA169 FuJian province network</td>
+</tr>
+
+<tr>
+<td align="right">219.128.0.0/13</td>
+<td align="right">1</td>
+<td>CHINANET-GD / China Telecom</td>
+</tr>
+</tbody>
+</table>
+
+<pre><code>34.32.128.0/17 Google LLC / GOOGL-2
+34.32.172.122 34.32.172.122 34.32.172.122
+34.32.128.0/17 | 34.32.172.122 | 18/Sep/2024:18:02:12 +0200 | GET /cgi-bin/emacs?action=rss;rcidonly=RssExclude;days=1;all=1;showedit=1;full=1 HTTP/1.1 | Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+34.32.128.0/17 | 34.32.172.122 | 18/Sep/2024:18:02:12 +0200 | GET /cgi-bin/emacs?action=rss;rcidonly=RssExclude;days=1;all=1;showedit=1;full=1 HTTP/1.1 | Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+34.32.128.0/17 | 34.32.172.122 | 18/Sep/2024:18:02:12 +0200 | GET /emacs?action=rss;rcidonly=RssExclude;days=1;all=1;showedit=1;full=1 HTTP/1.1 | Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+ipset add banlist 34.32.128.0/17
+
+113.0.0.0/13 UNICOM-HL / CNC Group CHINA169 Heilongjiang Province Network
+113.2.156.201 113.2.184.52 113.1.92.78
+113.0.0.0/13 | 113.2.156.201 | 18/Sep/2024:18:02:11 +0200 | GET /emacs?action=rc&amp;all=1&amp;days=14&amp;rcidonly=tzhelp.el&amp;showedit=0 HTTP/1.1 | Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 ADG/11.0.2566 AOLBUILD/11.0.2566 Safari/537.36
+113.0.0.0/13 | 113.2.184.52 | 18/Sep/2024:18:02:16 +0200 | GET /emacs?action=rc&amp;all=1&amp;days=7&amp;rcidonly=WriteRoom&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/88.0.4324.152 Safari/537.36
+113.0.0.0/13 | 113.1.92.78 | 18/Sep/2024:18:02:21 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1&amp;rcidonly=screen-term.el&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.63 Safari/537.36
+ipset add banlist 113.0.0.0/13
+
+14.208.0.0/12 CHINANET-GD / China Telecom
+14.216.128.162
+14.208.0.0/12 | 14.216.128.162 | 18/Sep/2024:18:02:27 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1&amp;rcidonly=SyncBBDB&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+ipset add banlist 14.208.0.0/12
+
+39.64.0.0/11 China Unicom Shandong Province Network / UNICOM-SD
+39.76.103.29
+39.64.0.0/11 | 39.76.103.29 | 18/Sep/2024:18:02:17 +0200 | GET /emacs?action=rc&amp;all=1&amp;days=1&amp;rcidonly=FinderMode&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+ipset add banlist 39.64.0.0/11
+
+111.36.192.0/20 China Mobile communications corporation / China Mobile / CMNET / ORG-CM1-AP
+111.36.200.78
+111.36.192.0/20 | 111.36.200.78 | 18/Sep/2024:18:01:50 +0200 | GET /emacs?action=rc&amp;all=1&amp;days=28&amp;rcidonly=DiredPlusMarkMenu&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+ipset add banlist 111.36.192.0/20
+
+223.167.0.0/16 UNICOM-SH / China Unicom Shanghai Province Network
+223.167.74.168
+223.167.0.0/16 | 223.167.74.168 | 18/Sep/2024:18:01:39 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1726266329&amp;rcidonly=etagsselect&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+ipset add banlist 223.167.0.0/16
+
+39.184.0.0/18 Internet Service Provider in China / CMNET / ORG-CM1-AP / China Mobile
+39.184.45.222
+39.184.0.0/18 | 39.184.45.222 | 18/Sep/2024:18:02:28 +0200 | GET /emacs?action=rss&amp;all=1&amp;days=14&amp;rcidonly=BufferMenuPlus&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/81.0.4044.122 Safari/537.36
+ipset add banlist 39.184.0.0/18
+
+111.18.128.0/20 China Mobile / ORG-CM1-AP / CMNET / China Mobile communications corporation
+111.18.142.15
+111.18.128.0/20 | 111.18.142.15 | 18/Sep/2024:18:02:00 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1&amp;rcidonly=orgfold-separate-file.el&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+ipset add banlist 111.18.128.0/20
+
+27.38.200.0/24 UNICOM-GDSZ / China Unicom
+27.38.200.210
+27.38.200.0/24 | 27.38.200.210 | 18/Sep/2024:18:01:57 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1723764629&amp;rcidonly=AnselmHelbig&amp;showedit=1&amp;upto=1724974229 HTTP/1.1 | Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+ipset add banlist 27.38.200.0/24
+
+112.47.128.0/18 China Mobile communications corporation / China Mobile Communications Corporation / ORG-CMCC1-AP / CMNET
+112.47.136.104
+112.47.128.0/18 | 112.47.136.104 | 18/Sep/2024:18:01:28 +0200 | GET /emacs?action=rc&amp;all=0&amp;days=14&amp;rcidonly=RubyEvalRegion&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+ipset add banlist 112.47.128.0/18
+
+218.71.0.0/16 CHINANET-ZJ-WZ / Zhejiang Telecom
+218.71.59.116
+218.71.0.0/16 | 218.71.59.116 | 18/Sep/2024:18:01:55 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1726412272&amp;rcidonly=AnilTappetla&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36
+ipset add banlist 218.71.0.0/16
+
+39.130.48.0/20 CMNET / ORG-CM1-AP / China Mobile / Internet Service Provider in China
+39.130.50.65
+39.130.48.0/20 | 39.130.50.65 | 18/Sep/2024:18:02:28 +0200 | GET /emacs?action=rc&amp;all=1&amp;days=7&amp;rcidonly=CarlMikkelsen&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+ipset add banlist 39.130.48.0/20
+
+222.90.0.0/16 CHINANET-SN / Beijing 100088
+222.90.194.237
+222.90.0.0/16 | 222.90.194.237 | 18/Sep/2024:18:01:57 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1&amp;rcidonly=AnIntroductionToTheEmacsEditor&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36
+ipset add banlist 222.90.0.0/16
+
+223.81.240.0/20 ORG-CM1-AP / CMNET / China Mobile / China Mobile communications corporation
+223.81.249.112
+223.81.240.0/20 | 223.81.249.112 | 18/Sep/2024:18:01:43 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1726333566&amp;rcidonly=iclects_-_search_search_commands,_overview&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.9999.0 Safari/537.36
+ipset add banlist 223.81.240.0/20
+
+218.107.192.0/19 CNCGROUP-FJ-XIAMEN-MAN / CNCGroup CHINA169 FuJian province network
+218.107.204.27
+218.107.192.0/19 | 218.107.204.27 | 18/Sep/2024:18:01:57 +0200 | GET /emacs?action=rc&amp;all=1&amp;from=1&amp;rcidonly=DiredPlusPopupRegionRemoveRectMenu&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/88.0.4324.152 Safari/537.36
+ipset add banlist 218.107.192.0/19
+
+219.128.0.0/13 CHINANET-GD / China Telecom
+219.133.249.75
+219.128.0.0/13 | 219.133.249.75 | 18/Sep/2024:18:02:11 +0200 | GET /emacs?action=rc&amp;all=1&amp;days=1&amp;rcidonly=Categor%C3%ADaHerramientasOnline&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+ipset add banlist 219.128.0.0/13
+</code></pre>
+
+<p>As far as I am concerned, all deserve to be banned. Over-banning? Maybe. What do you think?</p>
+
+<p>For demonstration purposes, this is what I ran:</p>
+
+<pre><code>ssh sibirocobombus.root grep '&quot;^www.emacswiki.org.*rcidonly&quot;' /var/log
+/apache2/access.log \
+| tail -n 20 \
+| ssh sibirocobombus.root bin/admin/network-lookup \
+| wl-copy
+</code></pre>
+
+<p>So now I&rsquo;m ready to ban them all:</p>
+
+<pre><code>wl-paste | grep ipset
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23Emacs">#Emacs</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Administration">#Administration</a></p>
+
+<p><strong>2024-10-01</strong>. Today I came back to the server with load at 40. Again! Here&rsquo;s me filtering the log for requests that got a server error status code (500–509).</p>
+
+<pre><code>root@sibirocobombus ~# tail -n 20000 /var/log/apache2/access.log \
+| grep -v ^social \
+| grep &quot; 50[0-9] &quot; \
+| tail -n 50 \
+| bin/admin/network-lookup
+Made 44 DNS requests.
+6 cache hits.
+</code></pre>
+
+<p>I think the only one I didn&rsquo;t ban was the unknown one, Gwene and Bing (Microsoft).</p>
+
+<table>
+<thead>
+<tr>
+<th align="right">Range</th>
+<th align="right">Hits</th>
+<th>Org</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="right">1.56.0.0/13</td>
+<td align="right">3</td>
+<td>UNICOM-HL / China Unicom Heilongjiang Province Network</td>
+</tr>
+
+<tr>
+<td align="right">221.208.0.0/14</td>
+<td align="right">3</td>
+<td>UNICOM-HL / CNC Group CHINA169 Heilongjiang Province Network</td>
+</tr>
+
+<tr>
+<td align="right">112.224.0.0/11</td>
+<td align="right">2</td>
+<td>China Unicom CHINA169 Shandong Province Network / UNICOM-SD</td>
+</tr>
+
+<tr>
+<td align="right">39.184.104.0/21</td>
+<td align="right">2</td>
+<td>China Mobile / CMNET / Internet Service Provider in China / ORG-CM1-AP</td>
+</tr>
+
+<tr>
+<td align="right">unknown</td>
+<td align="right">2</td>
+<td>?</td>
+</tr>
+
+<tr>
+<td align="right">36.132.172.0/22</td>
+<td align="right">1</td>
+<td>China Mobile Communications Corporation / China Mobile Communications Corporation / CMNET / ORG-CMCC1-AP</td>
+</tr>
+
+<tr>
+<td align="right">113.248.0.0/14</td>
+<td align="right">1</td>
+<td>China Telecom / CHINANET-CQ</td>
+</tr>
+
+<tr>
+<td align="right">221.5.0.0/17</td>
+<td align="right">1</td>
+<td>CNC Group CHINA169 Guangdong Province Network / UNICOM-GD</td>
+</tr>
+
+<tr>
+<td align="right">111.36.240.0/20</td>
+<td align="right">1</td>
+<td>China Mobile / China Mobile communications corporation / CMNET / ORG-CM1-AP</td>
+</tr>
+
+<tr>
+<td align="right">223.88.64.0/19</td>
+<td align="right">1</td>
+<td>CMNET / China Mobile communications corporation / ORG-CM1-AP / China Mobile</td>
+</tr>
+
+<tr>
+<td align="right">111.16.32.0/20</td>
+<td align="right">1</td>
+<td>China Mobile communications corporation / CMNET / ORG-CM1-AP / China Mobile</td>
+</tr>
+
+<tr>
+<td align="right">111.34.144.0/20</td>
+<td align="right">1</td>
+<td>China Mobile / ORG-CM1-AP / CMNET / China Mobile communications corporation</td>
+</tr>
+
+<tr>
+<td align="right">182.32.0.0/12</td>
+<td align="right">1</td>
+<td>CHINANET-SD / Beijing 100032</td>
+</tr>
+
+<tr>
+<td align="right">183.92.0.0/14</td>
+<td align="right">1</td>
+<td>UNICOM-HB / China Unicom Hubei Province Network</td>
+</tr>
+
+<tr>
+<td align="right">60.218.0.0/15</td>
+<td align="right">1</td>
+<td>CNC Group CHINA169 Heilongjiang Province Network / UNICOM-HL</td>
+</tr>
+
+<tr>
+<td align="right">114.216.20.0/23</td>
+<td align="right">1</td>
+<td>CHINANET-JS / Beijing 100032</td>
+</tr>
+
+<tr>
+<td align="right">139.227.0.0/16</td>
+<td align="right">1</td>
+<td>China Unicom / UNICOM-SH</td>
+</tr>
+
+<tr>
+<td align="right">119.176.0.0/12</td>
+<td align="right">1</td>
+<td>UNICOM-SD / CNC Group CHINA169 Shandong Province Network</td>
+</tr>
+
+<tr>
+<td align="right">119.96.0.0/13</td>
+<td align="right">1</td>
+<td>China Telecom / CHINANET-HB</td>
+</tr>
+
+<tr>
+<td align="right">115.48.0.0/12</td>
+<td align="right">1</td>
+<td>UNICOM-HA / CNC Group CHINA169 Henan Province Network</td>
+</tr>
+
+<tr>
+<td align="right">42.100.0.0/15</td>
+<td align="right">1</td>
+<td>CHINANET-HL / NO.178 Zhongshan Road,Haerbin,Heilongjiang 150040</td>
+</tr>
+
+<tr>
+<td align="right">60.255.0.0/16</td>
+<td align="right">1</td>
+<td>SCN / China Unicom China169 Network</td>
+</tr>
+
+<tr>
+<td align="right">157.55.0.0/16</td>
+<td align="right">1</td>
+<td>Microsoft Corporation / MSFT-GFS</td>
+</tr>
+
+<tr>
+<td align="right">116.202.0.0/16</td>
+<td align="right">1</td>
+<td>Transferred to the RIPE region on 2018-08-28T00:42:30Z. / STUB-116-202SLASH15</td>
+</tr>
+
+<tr>
+<td align="right">111.37.176.0/20</td>
+<td align="right">1</td>
+<td>CMNET / China Mobile communications corporation / ORG-CM1-AP / China Mobile</td>
+</tr>
+
+<tr>
+<td align="right">117.179.28.0/22</td>
+<td align="right">1</td>
+<td>China Mobile / China Mobile communications corporation / CMNET / ORG-CM1-AP</td>
+</tr>
+
+<tr>
+<td align="right">58.21.0.0/16</td>
+<td align="right">1</td>
+<td>CNC Group CHINA169 Jilin Province Network / UNICOM-JL</td>
+</tr>
+
+<tr>
+<td align="right">27.8.0.0/13</td>
+<td align="right">1</td>
+<td>UNICOM-CQ / China Unicom Chongqing Province Network</td>
+</tr>
+
+<tr>
+<td align="right">65.19.128.0/18</td>
+<td align="right">1</td>
+<td>Hurricane Electric LLC / HURRICANE-4</td>
+</tr>
+
+<tr>
+<td align="right">223.94.208.0/20</td>
+<td align="right">1</td>
+<td>China Mobile / China Mobile communications corporation / CMNET / ORG-CM1-AP</td>
+</tr>
+
+<tr>
+<td align="right">111.37.224.0/19</td>
+<td align="right">1</td>
+<td>ORG-CM1-AP / China Mobile communications corporation / CMNET / China Mobile</td>
+</tr>
+
+<tr>
+<td align="right">183.64.0.0/13</td>
+<td align="right">1</td>
+<td>CHINANET-CQ / China Telecom</td>
+</tr>
+
+<tr>
+<td align="right">1.188.0.0/14</td>
+<td align="right">1</td>
+<td>UNICOM-HL / China Unicom Heilongjiang Province Network</td>
+</tr>
+
+<tr>
+<td align="right">112.36.80.0/20</td>
+<td align="right">1</td>
+<td>China Mobile Communications Corporation / CMNET / China Mobile communications corporation / ORG-CMCC1-AP</td>
+</tr>
+
+<tr>
+<td align="right">163.125.191.0/24</td>
+<td align="right">1</td>
+<td>UNICOM-GD / China Unicom Guangdong Province Network</td>
+</tr>
+
+<tr>
+<td align="right">36.143.23.0/24</td>
+<td align="right">1</td>
+<td>China Mobile Communications Corporation / ORG-CMCC1-AP / China Mobile Communications Corporation / CMNET</td>
+</tr>
+
+<tr>
+<td align="right">61.162.0.0/16</td>
+<td align="right">1</td>
+<td>CNC Group CHINA169 Shandong Province Network / UNICOM-SD</td>
+</tr>
+
+<tr>
+<td align="right">27.152.0.0/13</td>
+<td align="right">1</td>
+<td>Fujian Province / QZCABID-QZ-FJ</td>
+</tr>
+
+<tr>
+<td align="right">222.136.0.0/13</td>
+<td align="right">1</td>
+<td>UNICOM-HA / CNC Group CHINA169 Henan Province Network</td>
+</tr>
+
+<tr>
+<td align="right">36.132.191.0/24</td>
+<td align="right">1</td>
+<td>China Mobile Communications Corporation / CMNET / ORG-CMCC1-AP / China Mobile Communications Corporation</td>
+</tr>
+
+<tr>
+<td align="right">58.19.0.0/16</td>
+<td align="right">1</td>
+<td>UNICOM-HB / CNCGroup HuBei province network</td>
+</tr>
+
+<tr>
+<td align="right">139.226.0.0/16</td>
+<td align="right">1</td>
+<td>China Unicom / UNICOM-SH</td>
+</tr>
+
+<tr>
+<td align="right">118.86.0.0/16</td>
+<td align="right">1</td>
+<td>JCOM-NET / Jupiter Telecommunications Co., Ltd.</td>
+</tr>
+</tbody>
+</table>
+<p>Load is now at around 31.</p>
+
+<p><strong>2024-10-01</strong>. Getting lazier…
+Pick a suspicious pattern and check for China…</p>
+
+<pre><code>root@sibirocobombus ~# tail -n 500 /var/log/apache2/access.log \
+ | grep -v ^social \
+ | grep &quot;action=browse&amp;id=&quot; \
+ | tail -n 50 \
+ | bin/admin/network-lookup &gt; result.log
+root@sibirocobombus ~# grep ipset result.log 
+ipset add banlist 27.16.0.0/12 # CHINANET-HB / China Telecom
+ipset add banlist 219.145.0.0/16 # CHINANET-SN / Beijing 100032
+ipset add banlist 116.179.0.0/16 # UNICOM / China Unicom CHINA169 Network
+ipset add banlist 221.219.0.0/18 # China Unicom Beijing Province Network / UNICOM-BJ
+ipset add banlist 119.128.0.0/12 # China Telecom / CHINANET-GD
+ipset add banlist 124.234.0.0/15 # CHINANET-JL / China Telecom
+ipset add banlist 101.80.0.0/13 # Beijing 100032 / CHINANET-SH
+ipset add banlist 111.41.128.0/17 # China Mobile communications corporation / CMNET / China Mobile / ORG-CM1-AP
+ipset add banlist 111.14.0.0/20 # ORG-CM1-AP / China Mobile / CMNET / China Mobile communications corporation
+ipset add banlist 110.176.0.0/13 # shanxi telecom linfen branch ip node links to customer ip address / sxlfbas
+ipset add banlist 221.232.0.0/14 # Beijing 100088 / CHINANET-HB
+ipset add banlist 116.4.0.0/14 # Beijing 100032 / CHINANET-GD
+ipset add banlist 111.41.16.0/22 # ORG-CM1-AP / China Mobile / China Mobile communications corporation / CMNET
+ipset add banlist 36.44.0.0/15 # CHINANET-SN / Beijing 100032
+ipset add banlist 112.10.192.0/18 # China Mobile communications corporation / CMNET / ORG-CMCC1-AP / China Mobile Communications Corporation
+ipset add banlist 117.154.240.0/20 # China Mobile / ORG-CM1-AP / CMNET / China Mobile communications corporation
+ipset add banlist 111.43.58.0/23 # China Mobile communications corporation / CMNET / ORG-CM1-AP / China Mobile
+ipset add banlist 111.19.0.0/17 # China Mobile communications corporation / CMNET / ORG-CM1-AP / China Mobile
+ipset add banlist 183.229.0.0/16 # ORG-CMCC1-AP / China Mobile Communications Corporation / CMNET / China Mobile communications corporation
+ipset add banlist 223.89.128.0/18 # CMNET / China Mobile communications corporation / ORG-CM1-AP / China Mobile
+ipset add banlist 42.184.0.0/16 # NO.178 Zhongshan Road,Haerbin,Heilongjiang 150040 / CHINANET-HL
+ipset add banlist 60.162.0.0/15 # CHINANET-ZJ-TZ / Zhejiang Telecom
+ipset add banlist 112.8.32.0/19 # China Mobile communications corporation / CMNET / ORG-CMCC1-AP / China Mobile Communications Corporation
+ipset add banlist 39.129.248.0/21 # Internet Service Provider in China / CMNET / ORG-CM1-AP / China Mobile
+ipset add banlist 36.46.0.0/16 # CHINANET-SN / Beijing 100032
+ipset add banlist 125.76.128.0/17 # From Shanxi(CHINANET-SN) Network of ChinaTelecom / CHINANET-SN
+ipset add banlist 123.121.128.0/18 # China Unicom Beijing Province Network / UNICOM-BJ
+ipset add banlist 140.75.0.0/16 # CHINANET-SD / Beijing 100032
+ipset add banlist 112.88.0.0/13 # UNICOM-GD / China Unicom CHINA169 Guangdong Province Network
+ipset add banlist 112.49.192.0/18 # ORG-CMCC1-AP / China Mobile Communications Corporation / CMNET / China Mobile communications corporation
+ipset add banlist 113.204.0.0/14 # UNICOM-CQ / CNC Group CHINA169 Chongqing Province Network
+ipset add banlist 123.149.0.0/16 # CHINANET-HA / Beijing 100032
+ipset add banlist 60.14.0.0/15 # CNC Group CHINA169 Heilongjiang Province Network / UNICOM-HL
+ipset add banlist 114.92.0.0/17 # Beijing 100032 / CHINANET-SH
+ipset add banlist 1.56.0.0/13 # China Unicom Heilongjiang Province Network / UNICOM-HL
+ipset add banlist 111.14.64.0/21 # ORG-CM1-AP / China Mobile / CMNET / China Mobile communications corporation
+ipset add banlist 123.128.0.0/13 # CNC Group CHINA169 Shandong Province Network / UNICOM-SD
+ipset add banlist 119.120.0.0/13 # China Telecom / CHINANET-GD
+ipset add banlist 222.68.0.0/16 # CHINANET-SH / Beijing 100032
+ipset add banlist 36.248.0.0/14 # UNICOM-FJ-QUANZHOU-MAN / China Unicom Fujian Province Network
+ipset add banlist 221.0.0.0/15 # UNICOM-SD / CNC Group CHINA169 Shandong Province Network
+ipset add banlist 113.56.0.0/15 # CNC Group CHINA169 Hubei Province Network / UNICOM-HB
+ipset add banlist 223.78.192.0/18 # China Mobile / China Mobile communications corporation / CMNET / ORG-CM1-AP
+ipset add banlist 112.2.128.0/19 # ORG-CMCC1-AP / CMNET / China Mobile communications corporation / China Mobile Communications Corporation
+ipset add banlist 183.227.0.0/16 # CMNET / ORG-CMCC1-AP / China Mobile Communications Corporation / China Mobile communications corporation
+ipset add banlist 106.46.0.0/16 # CHINANET henan province network / CHINANET-HA
+ipset add banlist 123.8.0.0/13 # CNC Group CHINA169 Henan Province Network / UNICOM-HA
+ipset add banlist 219.136.0.0/15 # CHINANET-GD / China Telecom
+ipset add banlist 111.172.0.0/14 # CHINANET-HB / Beijing 100032
+ipset add banlist 118.112.0.0/13 # Beijing 100088 / CHINANET-SC
+ipset add banlist 27.148.0.0/14 # Beijing 100032 / CHINANET-FJ
+ipset add banlist 153.101.0.0/16 # UNICOM-JS / China Unicom Jiangsu Province Network
+ipset add banlist 221.237.0.0/16 # CHINANET-SC / Beijing 100088
+ipset add banlist 121.28.0.0/15 # UNICOM-HE / CNC Group CHINA169 Hebei Province Network
+ipset add banlist 61.241.192.0/19 # UNICOM / Beijing 100140 ,P.R.China
+ipset add banlist 114.86.128.0/17 # CHINANET-SH / Beijing 100032
+ipset add banlist 223.67.32.0/19 # CMNET / ORG-CM1-AP / China Mobile / China Mobile communications corporation
+ipset add banlist 122.136.0.0/13 # UNICOM-JL / CNC Group CHINA169 Jilin Province Network
+ipset add banlist 27.36.0.0/14 # China Unicom Guangdong Province Network / UNICOM-GDDG
+ipset add banlist 117.147.0.0/17 # China Mobile / China Mobile communications corporation / ORG-CM1-AP / CMNET
+ipset add banlist 153.3.0.0/16 # UNICOM-JS / China Unicom Jiangsu Province Network
+ipset add banlist 14.112.0.0/12 # China Telecom / CHINANET-GD
+ipset add banlist 183.253.0.0/19 # China Mobile Communications Corporation / China Mobile Communications Corporation / ORG-CMCC1-AP / CMNET
+ipset add banlist 183.228.0.0/16 # China Mobile communications corporation / China Mobile Communications Corporation / ORG-CMCC1-AP / CMNET
+ipset add banlist 221.196.0.0/15 # UNICOM-TJ / CNC Group CHINA169 Tianjin Province Network
+ipset add banlist 111.196.192.0/18 # UNICOM-BJ / China Unicom Beijing Province Network
+ipset add banlist 14.107.172.0/22 # CHINANET-CQ / China Telecom
+ipset add banlist 114.216.66.0/23 # Beijing 100032 / CHINANET-JS
+ipset add banlist 112.1.32.0/19 # China Mobile communications corporation / China Mobile Communications Corporation / CMNET / ORG-CMCC1-AP
+ipset add banlist 221.182.0.0/18 # China Mobile communications corporation / China Mobile / CMNET / ORG-CM1-AP
+ipset add banlist 118.72.0.0/13 # CNC Group CHINA169 Shanxi Province Network / sxyc-yongji-BAS
+ipset add banlist 58.59.0.0/17 # No.999,Shunhua road,Jinan,Shandong / CHINANET-SD
+ipset add banlist 111.1.96.0/20 # China Mobile / China Mobile communications corporation / ORG-CM1-AP / CMNET
+ipset add banlist 36.104.0.0/16 # China Telecom / CHINANET-ZJ
+ipset add banlist 117.151.16.0/20 # China Mobile / China Mobile communications corporation / CMNET / ORG-CM1-AP
+ipset add banlist 119.34.128.0/17 # GZPRBNET / GuangDong, China 510010
+ipset add banlist 112.0.192.0/19 # China Mobile Communications Corporation / China Mobile communications corporation / ORG-CMCC1-AP / CMNET
+ipset add banlist 111.1.192.0/19 # CMNET / ORG-CM1-AP / China Mobile / China Mobile communications corporation
+ipset add banlist 183.225.0.0/19 # CMNET / ORG-CMCC1-AP / China Mobile communications corporation / China Mobile Communications Corporation
+ipset add banlist 58.60.0.0/14 # Beijing 100032 / CHINANET-GD
+ipset add banlist 117.24.0.0/13 # CHINANET-FJ / 7,East Street ,Fuzhou ,Fujian ,PRC
+ipset add banlist 112.24.224.0/19 # CMNET / ORG-CMCC1-AP / China Mobile Communications Corporation / China Mobile communications corporation
+ipset add banlist 39.130.64.0/19 # Internet Service Provider in China / China Mobile / CMNET / ORG-CM1-AP
+ipset add banlist 119.164.0.0/14 # UNICOM-SD / CNC Group CHINA169 Shandong Province Network
+ipset add banlist 39.190.96.0/21 # China Mobile / Internet Service Provider in China / CMNET / ORG-CM1-AP
+ipset add banlist 111.224.0.0/14 # Beijing 100032 / CHINANET-HE
+ipset add banlist 112.0.128.0/19 # China Mobile Communications Corporation / China Mobile communications corporation / CMNET / ORG-CMCC1-AP
+ipset add banlist 211.103.72.0/21 # China Mobile / CMNET / ORG-CM1-AP / China Mobile
+ipset add banlist 1.202.0.0/17 # CHINANET-BJ / CHINANET Beijing Province Network
+ipset add banlist 39.149.80.0/20 # CMNET / Internet Service Provider in China / ORG-CM1-AP / China Mobile
+ipset add banlist 218.10.0.0/16 # UNICOM-HL / CNC Group CHINA169 Heilongjiang Province Network
+ipset add banlist 36.143.46.0/23 # CMNET / China Mobile Communications Corporation / ORG-CMCC1-AP / China Mobile Communications Corporation
+ipset add banlist 223.97.160.0/19 # ORG-CM1-AP / CMNET / China Mobile communications corporation / China Mobile
+ipset add banlist 111.14.96.0/19 # China Mobile / ORG-CM1-AP / CMNET / China Mobile communications corporation
+ipset add banlist 122.240.0.0/13 # CHINANET-ZJ-WZ / Zhejiang Telecom
+ipset add banlist 120.80.0.0/13 # UNICOM-GD / CNC Group CHINA169 Guangdong Province Network
+ipset add banlist 120.85.182.0/23 # China Unicom / GuangZhou-unicom
+ipset add banlist 171.43.0.0/16 # China Telecom / CHINANET-HB
+ipset add banlist 117.144.0.0/16 # CMNET-shanghai / China Mobile communications corporation
+ipset add banlist 117.179.107.0/24 # China Mobile communications corporation / CMNET / ORG-CM1-AP / China Mobile
+ipset add banlist 117.179.122.0/23 # CMNET / China Mobile communications corporation / ORG-CM1-AP / China Mobile
+ipset add banlist 112.20.224.0/19 # CMNET / China Mobile communications corporation / ORG-CMCC1-AP / China Mobile Communications Corporation
+ipset add banlist 111.35.224.0/20 # China Mobile communications corporation / CMNET / ORG-CM1-AP / China Mobile
+ipset add banlist 223.106.128.0/18 # CMNET / China Mobile communications corporation / ORG-CM1-AP / China Mobile
+ipset add banlist 61.156.0.0/16 # UNICOM-CN / CNC Group CHINA169 Shandong Province Network
+ipset add banlist 111.48.77.0/24 # China Mobile / CMNET / China Mobile communications corporation / ORG-CM1-AP
+ipset add banlist 36.40.0.0/14 # CHINANET-SN / Beijing 100032
+</code></pre>
+
+<p><img loading="lazy" src="2024-09-15-emacs-china-1.jpg" alt="" /></p> 
+
+<https://alexschroeder.ch/view/2024-09-15-emacs-china>
+
+---
+
+##  Great interview by Jia Tolentino of Dr. Warren Hern, one of the... 
+
+date: 2024-10-01, updated: 2024-10-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045364-great-interview-by-jia-to>
+
+---
+
+##  What&#8217;s the Fastest Way to Alphabetize Your Bookshelf? 
+
+date: 2024-10-01, updated: 2024-10-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/whats-the-fastest-way-to-alphabetize-your-bookshelf>
+
+---
+
+## Cross-posting
+
+date: 2024-10-01, from: Dave Winer's Scripting News
+
+<p>Cross-posting is here now. I am not surprised <a href="https://techcrunch.com/2024/10/01/croissant-debuts-a-cross-posting-app-for-threads-bluesky-and-mastodon/">Croissant</a> is getting such a positive reception. </p>
+<p>That is where the fediverse will be defined imho, in the intersection between the competing social web services. </p>
+<p>You'll know it's working when they feel they have to match each others' features because with cross-posting their difference in character limits, titles, styling, links etc will be much more visible. </p>
+<p>Activitypub is too much. Cross-posting is exactly right and here now.</p>
+ 
+
+<http://scripting.com/2024/10/01/192207.html?title=crossposting>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-01, from: Dave Winer's Scripting News)
+
+I asked Google Trends about <a href="https://trends.google.com/trends/explore?q=textcasting">textcasting</a>. No data. 
+
+<http://scripting.com/2024/10/01.html#a191721>
+
+---
+
+## September 30, 2024
+
+date: 2024-10-01, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-30-2024-848>
+
+---
+
+##  The Absolute Best Butter For Every Occasion, After Taste-Testing, Cooking And Baking... 
+
+date: 2024-10-01, updated: 2024-10-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045360-the-absolute-best-butter->
+
+---
+
+##  &#8220;The Work of a Madman&#8221; 
+
+date: 2024-10-01, updated: 2024-10-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/the-work-of-a-madman>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-01, from: Dave Winer's Scripting News)
+
+I had a dream last night with many of my dead relatives present. We were at some kind of social event. My grandfather had a new wife or girlfriend, but he didn't recognize me, though he pretended to. My mother was far off in the distance taking pictures. I wonder what that means. Some of them <i>were</i> dead and gone. I had to remind myself of that. Meanwhile both my parents were alive and being themselves. (Heh.) My subconscious has a clear idea of who they are/were, only it doesn't register that some of them are gone. 
+
+<http://scripting.com/2024/10/01.html#a170423>
+
+---
+
+##  The most common adjectives ending in &#8220;-y&#8221; used in the NYT Cooking... 
+
+date: 2024-10-01, updated: 2024-10-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045342-the-most-common-adjective>
+
+---
+
+##  Examples of a book cover design trend: multi-panel illustrations or &#8220;bento books&#8221;.... 
+
+date: 2024-10-01, updated: 2024-10-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045359-an-examination-of-a-book>
 
 ---
 

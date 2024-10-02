@@ -1,11 +1,204 @@
 ---
 title: journalism
-updated: 2024-10-01 08:39:47
+updated: 2024-10-01 18:18:21
 ---
 
 # journalism
 
-(date: 2024-10-01 08:39:47)
+(date: 2024-10-01 18:18:21)
+
+---
+
+## USC on film
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>For a special Daily Trojan Magazine photo essay, staff photographers, Jake Berg, Bryce Dechert, Tai Lyn Sandhu and Mallory Snyder, took it old-school with physical media, a roll of film.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/usc-on-film/">USC on film</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/usc-on-film/>
+
+---
+
+## Found
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>For everyone who has — or is — lost...</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/for-anyone-who-has-or-is-lost/">Found</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/for-anyone-who-has-or-is-lost/>
+
+---
+
+## A new type of scary: The evolution of Halloween
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A story of emerging holiday anxiety as a college student. </p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/a-new-type-of-scary-the-evolution-of-halloween/">A new type of scary: The evolution of Halloween</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/a-new-type-of-scary-the-evolution-of-halloween/>
+
+---
+
+## The age of the vanilla DJ
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>This is not a tribute. It’s an autopsy.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/the-age-of-the-vanilla-dj/">The age of the vanilla DJ</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/the-age-of-the-vanilla-dj/>
+
+---
+
+## Letters to strangers
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>While these are all letters about strangers, there is at least some truth in every single entry.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/letters-to-strangers/">Letters to strangers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/letters-to-strangers/>
+
+---
+
+## Car community pulls up to Pierce
+
+date: 2024-10-02, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The smell of motor oil and gasoline filled Parking Lot 7, as well as spectators and various types of cars ranging from vintage to modern</p>
+<p>The post <a href="https://theroundupnews.com/2024/10/01/car-community-pulls-up-to-pierce/">Car community pulls up to Pierce</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/10/01/car-community-pulls-up-to-pierce/?utm_source=rss&utm_medium=rss&utm_campaign=car-community-pulls-up-to-pierce>
+
+---
+
+## ASUCLA Board of Directors recap – Sept. 27
+
+date: 2024-10-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+The ASUCLA Board of Directors held its third meeting of the 2024-2025 term Sept. 27.
+The board, composed of a student majority, has financial oversight over ASUCLA entities, including the Undergraduate Students Association Council, the Graduate Student Association and the ASUCLA Communications Board – which oversees UCLA Student Media. 
+
+<https://dailybruin.com/2024/10/01/asucla-board-of-directors-recap-sept-27/>
+
+---
+
+## Indulge in self care at the Oasis Wellness Center
+
+date: 2024-10-01, from: The Sundail (CSUN Student Newspaper)
+
+The Oasis Wellness Center celebrated its nine-year anniversary on Sept. 25 showcasing “Welcome to Wellness: Daydream Delights” to inform more students of the services offered at the center and other... 
+
+<https://sundial.csun.edu/185771/arts-entertainment/indulge-in-self-care-at-the-oasis-wellness-center/>
+
+---
+
+## Glow-up for Less: Affordable Skin Care at the Oasis Wellness Center
+
+date: 2024-10-01, from: The Sundail (CSUN Student Newspaper)
+
+Farmhouse Fresh and Beekman 1802 are the latest additions to the Oasis Wellness Center’s Well-Being Pro Shop, offering students access to luxury skincare products at affordable prices. The shop features... 
+
+<https://sundial.csun.edu/185779/arts-entertainment/glow-up-for-less-affordable-skin-care-at-the-oasis-wellness-center/>
+
+---
+
+## “Deaf culture saved my life”: Deaf CSUNians share their culture with CSUN community
+
+date: 2024-10-01, from: The Sundail (CSUN Student Newspaper)
+
+Emphasizing the importance of inclusion, education and building connections between the Deaf and Hard of Hearing communities on campus, the Deaf Studies Association and Deaf CSUNians Club hosted an “Introduction... 
+
+<https://sundial.csun.edu/185700/news/deaf-culture-saved-my-life-deaf-csunians-share-their-culture-with-csun-community/>
+
+---
+
+## CSUN Falls to Cal Poly in Straight Sets in Big West Opener
+
+date: 2024-10-01, from: The Sundail (CSUN Student Newspaper)
+
+After impressive back-to-back wins against Portland last week, the CSUN women’s volleyball opened Big West conference play on Friday night but struggled to get daylight against the Mustangs of Cal... 
+
+<https://sundial.csun.edu/185689/sports/csun-falls-to-cal-poly-in-straight-sets-in-big-west-opener/>
+
+---
+
+## The UC must revise its handling of free speech, student protests to promote trust
+
+date: 2024-10-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+After a spring quarter with a deep level of civil unrest, division and traumatic events, many incoming and returning UCLA students feel anxious about traveling back to campus. 
+
+<https://dailybruin.com/2024/10/01/the-uc-must-revise-its-handling-of-free-speech-student-protests-to-promote-trust/>
+
+---
+
+## Going back to the well: CNN.com, the most popular news site in the U.S., is putting up a paywall
+
+date: 2024-10-01, from: Nieman Journalism Lab
+
+CNN has pulled the trigger on its paywall — previewed back in July, teased in September, and now debuted in October. Here&#8217;s freshly returned CNN media reporter Brian Stelter: A few stray thoughts on a potentially significant moment in digital news: The ghost of CNN+: CNN has a ton of readers online. Measured by monthly... 
+
+<https://www.niemanlab.org/2024/10/going-back-to-the-well-cnn-com-the-most-popular-news-site-in-the-u-s-is-putting-up-a-paywall/>
+
+---
+
+## The New York Times redesigns its app to highlight a universe beyond just news
+
+date: 2024-10-01, from: Nieman Journalism Lab
+
+I’ve had the New York Times app on my phone for pretty much as long as I’ve had a smartphone, and my experience of it has remained mostly the same over the years. A main tab served up the news of the moment, and a few other buttons existed for tabs that I rarely used,... 
+
+<https://www.niemanlab.org/2024/10/the-new-york-times-redesigns-its-app-to-highlight-a-universe-beyond-just-news/>
+
+---
+
+## September 2024 – Volume 65 Issue 2
+
+date: 2024-10-01, from: The Sundail (CSUN Student Newspaper)
+
+Letter from the Editor: Issue 2 Volume 65 Latina Business Spotlight Deep Roots and Vibrant Steps Women’s Soccer shows heritage on the field Building Unity and Empowerment Media Querencia Cantando/... 
+
+<https://sundial.csun.edu/185677/uncategorized/september-2024-volume-65-issue-2/>
+
+---
+
+## August 2024 – Volume 65 Issue 1
+
+date: 2024-10-01, from: The Sundail (CSUN Student Newspaper)
+
+Letter from the Editor: Issue 1 Volume 65 Finding Your Village Introducing DISRUPT: Advocating for Inclusion and Social Justice at CSUN Safety At Parties CSUN Study Spots Media Querencia Cantando... 
+
+<https://sundial.csun.edu/185652/print-editions/august-2024-volume-65-issue-1/>
+
+---
+
+## Barbra Wyre Lights Up University Library with drag queen Lotería
+
+date: 2024-10-01, from: The Sundail (CSUN Student Newspaper)
+
+The tension was rising in the Ferman Presentation room as the Lotería cards were being called out one by one, “La dama! El Mundo! Las Escaleras!” Hoping to get four... 
+
+<https://sundial.csun.edu/185615/arts-entertainment/barbra-wyre-lights-up-university-library-with-drag-queen-loteria/>
+
+---
+
+## Column: Matadors on the rise in Big West play
+
+date: 2024-10-01, from: The Sundail (CSUN Student Newspaper)
+
+After nearly securing three points in a 1-1 draw against Cal State Fullerton in their Big West opener, followed by 1-0 road victory over Long Beach State, the CSUN women&#8217;s... 
+
+<https://sundial.csun.edu/185617/sports/columnmatadors-on-the-rise-in-big-west-play/>
 
 ---
 
@@ -13,7 +206,7 @@ updated: 2024-10-01 08:39:47
 
 date: 2024-10-01, from: Nieman Journalism Lab
 
-Want to find some new conspiracy theories? Social media is a great place to find them. But will it make you believe them? That&#8217;s the question asked by a new working paper looking at conspiracy theories surrounding the Donald Trump assassination attempt on July 13. (Gotta love it when academia moves quickly!) It suggests that,... 
+Want to check out some new conspiracy theories? Social media is a great place to find them. But will it make you believe them? That&#8217;s the question asked by a new working paper looking at conspiracy theories surrounding the Donald Trump assassination attempt on July 13. (Gotta love it when academia moves quickly!) It suggests... 
 
 <https://www.niemanlab.org/2024/10/you-might-discover-a-conspiracy-theory-on-social-media-but-youre-more-likely-to-believe-it-if-you-hear-it-from-a-friend/>
 
@@ -124,6 +317,36 @@ date: 2024-10-01, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/10/01/student-video-game-fosters-collaboration-creativity/>
+
+---
+
+## ‘Everything about him was just warmth’: Remembering Scott Enright (‘91)
+
+date: 2024-10-01, from: Laloyolan (LMU Student Newspaper)
+
+Scott Enright, who passed at 54 years old from angiosarcoma, found a home in Los Angeles at LMU and stayed connected to the Bluff throughout his life. 
+
+<https://www.laloyolan.com/news/everything-about-him-was-just-warmth-remembering-scott-enright-91/article_ba7a7607-a29e-544a-aa90-13ab94d54120.html>
+
+---
+
+## How do professors get tenure?
+
+date: 2024-10-01, from: Laloyolan (LMU Student Newspaper)
+
+With fewer tenure-track positions available over the past few decades, non-tenure track professors began working to get similar benefits — but how do tenured professors receive tenure in the first place? 
+
+<https://www.laloyolan.com/news/how-do-professors-get-tenure/article_cfbadc3b-96db-53f3-9306-3ffead194dcb.html>
+
+---
+
+## Community members question safety amidst rise in Westchester crime
+
+date: 2024-10-01, from: Laloyolan (LMU Student Newspaper)
+
+LMU's surrounding Westchester area is home to several students, but after a noticeable increase in the neighborhood's crime — such as break-ins and vandalism — some are beginning to express safety concerns. 
+
+<https://www.laloyolan.com/news/crime/community-members-question-safety-amidst-rise-in-westchester-crime/article_3292ddd3-469a-5bc8-8111-3ff90a92df5f.html>
 
 ---
 
@@ -266,7 +489,7 @@ CSUN Atheltic’s Matador Madness made its return after seven years hiatus, givi
 
 date: 2024-09-30, from: Nieman Journalism Lab
 
-Three summers ago, nonprofit news organization The Beacon launched its second newsroom in Wichita, Kansas, expanding from its first newsroom in Kansas City, Missouri. On paper, the organization seemed to be on solid footing for that kind of growth: almost $4 million in the bank before launch, including $1.1 million from the Wichita Foundation and... 
+Three summers ago, nonprofit news organization The Beacon launched its second newsroom in Wichita, Kansas, expanding from its first newsroom in Kansas City, Missouri. On paper, the organization seemed to be on solid footing for that kind of growth: almost $4 million raised before the Wichita launch, including $1.1 million from the Wichita Foundation and... 
 
 <https://www.niemanlab.org/2024/09/why-does-the-wichita-beacon-keep-losing-reporters/>
 
@@ -492,8 +715,8 @@ But ultimately, the Bruins met defeat.
 
 date: 2024-09-29, from: The Daily Bruin (UCLA Student Newspaper)
 
-The Bruins&#8217; weekend consisted of wins and personal bests.
-No. 1 UCLA men&#8217;s water polo (13-0) secured three victories this weekend at Spieker Aquatics Center. The Bruins faced off against No. 
+The Bruins’ weekend consisted of wins and personal bests.
+No. 1 UCLA men’s water polo (13-0) secured three victories this weekend at Spieker Aquatics Center. The Bruins faced off against No. 
 
 <https://dailybruin.com/2024/09/29/ucla-mens-water-polo-sees-new-personal-records-following-three-win-weekend/>
 
@@ -585,7 +808,7 @@ In its first conference match Friday night, UCLA women&#8217;s volleyball (6-4, 
 
 date: 2024-09-29, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Sept. 29 at 11:50 p.m.</em>
+<em>This post was updated Oct. 1 at 10:48 a.m.</em>
 Three UC Board of Regents committees discussed the University’s 2025-2026 operating budget, salary increases for top-level University employees and the past year’s fiscal performance at its September meeting. 
 
 <https://dailybruin.com/2024/09/28/uc-regents-discuss-operating-budget-approve-salary-increases-at-september-meeting/>

@@ -1,11 +1,32 @@
 ---
 title: libraries
-updated: 2024-10-01 08:39:47
+updated: 2024-10-01 18:18:21
 ---
 
 # libraries
 
-(date: 2024-10-01 08:39:47)
+(date: 2024-10-01 18:18:21)
+
+---
+
+## Hacking the Cosmos: Cyber operations against the space sector
+
+date: 2024-10-03, from: ETH Zurich, recently added
+
+Poirier, Clémence
+Soesanto, Stefan 
+
+<http://hdl.handle.net/20.500.11850/697348>
+
+---
+
+## The Pickwick Papers, by Charles Dickens
+
+date: 2024-10-02, from: Standard Ebooks, new releaases
+
+An elderly gentleman and his friends travel around Britain and have a series of comic adventures. 
+
+<https://standardebooks.org/ebooks/charles-dickens/the-pickwick-papers>
 
 ---
 
@@ -154,11 +175,21 @@ Ernst, Matthias
 
 ---
 
+## Supporting data for Field validation of the superelevation method for debris-flow velocity estimation using high-resolution lidar and UAV data
+
+date: 2024-10-01, from: ETH Zurich, recently added
+
+Åberg, Amanda; Aaron, Jordan 
+
+<http://hdl.handle.net/20.500.11850/697351>
+
+---
+
 ## Day in Review (September 30–October 3)
 
 date: 2024-09-30, from: Association of Research Libraries News
 
-<p>Last Updated on September 30, 2024, 4:47 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 1 &#124; Wednesday, October 2 &#124; Thursday,...</p>
+<p>Last Updated on October 1, 2024, 4:21 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 1 &#124; Wednesday, October 2 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-30-october-3/">Day in Review (September 30–October 3)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

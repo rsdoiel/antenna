@@ -1,11 +1,99 @@
 ---
 title: pacific
-updated: 2024-10-01 08:39:41
+updated: 2024-10-01 18:18:15
 ---
 
 # pacific
 
-(date: 2024-10-01 08:39:41)
+(date: 2024-10-01 18:18:15)
+
+---
+
+## Heine: 80 years of contamination from nuke tests and Marshall Islands has not received an apology
+
+date: 2024-10-02, from: Pacific Island Times
+
+By Jayvee Vallejera   Marshall Islands President Dr. Hilda C. Heine brought an urgent appeal to the Human Rights Council in Geneva to... 
+
+<https://www.pacificislandtimes.com/post/heine-80-years-of-contamination-from-nuke-tests-and-marshall-islands-has-not-received-an-apology>
+
+---
+
+## Kaʻana Manaʻo By Lui Hokoana: Looking Forward
+
+date: 2024-10-02, from: University of Hawaiʻi News
+
+<p>Column by <abbr>UH</abbr> Maui College Chancellor Lui Hokoana was published by <em>The Maui News</em> on September 24, 2024.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/01/kaana-manao-by-lui-hokoana/">Kaʻana Manaʻo By Lui Hokoana: Looking Forward</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/01/kaana-manao-by-lui-hokoana/>
+
+---
+
+## USP completes Digital Governance workshop in Solomon Islands
+
+date: 2024-10-02, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) completed a four-day workshop in September at the...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-completes-digital-governance-workshop-in-solomon-islands/">USP completes Digital Governance workshop in Solomon Islands</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-completes-digital-governance-workshop-in-solomon-islands/>
+
+---
+
+## Maui Wildfire Exposure Study draws 1,000+ to wellness fest
+
+date: 2024-10-01, from: University of Hawaiʻi News
+
+<p>The event served as a platform to share study findings, sign up new participants and bring the Maui community together for a day of fun and wellness.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/01/maui-wes-wellness-fest/">Maui Wildfire Exposure Study draws 1,000+ to wellness fest</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/01/maui-wes-wellness-fest/>
+
+---
+
+## Honoring Ryuzo Yanagimachi’s legacy through oral history
+
+date: 2024-10-01, from: University of Hawaiʻi News
+
+<p>Ryuzo Yanagimachi’s legacy in reproductive science was honored through a tribute speech from <abbr>IBR</abbr> Director Steven Ward.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/01/honoring-yanagimachi-oral-history/">Honoring Ryuzo Yanagimachi’s legacy through oral history</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/01/honoring-yanagimachi-oral-history/>
+
+---
+
+## Shidler College, TIM School student-spaces revitalized
+
+date: 2024-10-01, from: University of Hawaiʻi News
+
+<p>These newly refreshed areas were redesigned to enhance student experiences and create collaborative environments.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/01/shidler-tim-school-spaces-revitalized/">Shidler College, <abbr>TIM</abbr> School student-spaces revitalized</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/01/shidler-tim-school-spaces-revitalized/>
+
+---
+
+## Personal tragedy fuels HIFF film on Maui community resilience, disaster preparedness
+
+date: 2024-10-01, from: University of Hawaiʻi News
+
+<p>A teen disaster preparedness training program is part of the film <em>Healing Lahaina</em>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/01/healing-lahaina-film/">Personal tragedy fuels <abbr>HIFF</abbr> film on Maui community resilience, disaster preparedness</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/01/healing-lahaina-film/>
+
+---
+
+## UH Mānoa student residents snatch up new eco-friendly food containers
+
+date: 2024-10-01, from: University of Hawaiʻi News
+
+<p>Students can purchase a durable, microwavable three-compartment container at one of the dining halls for an annual fee.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/01/new-eco-friendly-containers/"><abbr>UH</abbr> Mānoa student residents snatch up new eco-friendly food containers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/01/new-eco-friendly-containers/>
 
 ---
 

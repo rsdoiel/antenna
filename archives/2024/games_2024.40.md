@@ -1,11 +1,111 @@
 ---
 title: games
-updated: 2024-10-01 08:39:46
+updated: 2024-10-01 18:18:20
 ---
 
 # games
 
-(date: 2024-10-01 08:39:46)
+(date: 2024-10-01 18:18:20)
+
+---
+
+## The Valheim board game smashes crowdfunding goals on first day
+
+date: 2024-10-01, updated: 2024-10-01, from: Polygon Website
+
+Valheim is a fun crafting survival game to play with a group of pals set in the Viking afterlife, and the board game adaptation is off to a great start. On Tuesday, a crowdfunding campaign for Valheim: The Board Game went live on Gamefound, and it already hit 300% funding. There are no stretch goals [&#8230;] 
+
+<https://www.polygon.com/gaming/459047/valheim-board-game-crowdfunder-gamefound>
+
+---
+
+## Nintendo Switch emulator Ryujinx taken offline
+
+date: 2024-10-01, updated: 2024-10-01, from: Polygon Website
+
+The makers of the Nintendo Switch emulator Ryujinx pulled the open-source project offline after being contacted by Nintendo, one of its developer announced Tuesday on Discord. If you’re counting, that’s the second Nintendo Switch emulator to be pulled offline in 2024; Nintendo sued the makers of popular open source emulator Yuzu in February before settling [&#8230;] 
+
+<https://www.polygon.com/gaming/458905/nintendo-switch-emulator-ryujinx-offline>
+
+---
+
+## Eternal Forest walkthrough in Zelda: Echoes of Wisdom
+
+date: 2024-10-01, updated: 2024-10-01, from: Polygon Website
+
+The Eternal Forest is one of the later areas in The Legend of Zelda: Echoes of Wisdom, but you can visit it early in the game if you’re feeling adventurous. There are a few things to know if you’re in the Eternal Forest and wondering, “What’s going on in here?” For one, is the area [&#8230;] 
+
+<https://www.polygon.com/zelda-echoes-wisdom-guides/458630/eternal-forest-walkthrough-orb-puzzle-solution>
+
+---
+
+## How to unlock all Dampé’s automatons in Zelda: Echoes of Wisdom
+
+date: 2024-10-01, updated: 2024-10-01, from: Polygon Website
+
+Dampé is an engineer who builds robots called automatons in The Legend of Zelda: Echoes of Wisdom. These are optional little robots you can have assist you in combat, but you’ll need to find Dampé before you can make them. For the most part, automatons are completely skippable, though they are somewhat useful in taking [&#8230;] 
+
+<https://www.polygon.com/zelda-echoes-wisdom-guides/457398/automatons-all-how-to-get>
+
+---
+
+## Apartment Story is a short, dramatic thriller with life sim elements
+
+date: 2024-10-01, updated: 2024-10-01, from: Polygon Website
+
+Apartment Story is a short, cinematic game on Steam that feels at first like a life simulator, but corrupts the domestic fantasy with a threat, an intruder, and a gun. It starts out all fun and games as I assume the role of Arthur, a guy with no plans for the day and no money [&#8230;] 
+
+<https://www.polygon.com/impressions/458766/apartment-story-narrative-thriller-game-pc>
+
+---
+
+## The best early Prime Day deals you can shop right now
+
+date: 2024-10-01, updated: 2024-10-01, from: Polygon Website
+
+It’s October, which in the world of shopping means that we’re getting awfully close to the avalanche of savings that come with Black Friday and Cyber Monday — but before that, however, Amazon is celebrating the start of fall with October Prime Day, a tradition from the past few years that gives shoppers a taste of [&#8230;] 
+
+<https://www.polygon.com/amazon-prime-day/458471/best-early-deals-board-games-toys>
+
+---
+
+## Inscryption, Polygon’s 2021 game of the year, heads to Game Pass
+
+date: 2024-10-01, updated: 2024-10-01, from: Polygon Website
+
+Game Pass is clearly celebrating October in style by teeing up a creepy old Polygon favorite, Inscryption, to be released on the platform on Oct. 10. Inscryption is not your typical horror game — it doesn’t exactly have jump scares — but the far-reaching tendrils of its fictional premise definitely filled me with unease when [&#8230;] 
+
+<https://www.polygon.com/news/458736/inscryption-xbox-pc-game-pass-october-10>
+
+---
+
+## A brief history of Nintendo not letting you play as Zelda
+
+date: 2024-10-01, updated: 2024-10-01, from: Polygon Website
+
+The Legend of Zelda: Echoes of Wisdom is a big deal for the franchise because it’s finally the first mainline game where you get to play as Princess Zelda. Yes, despite her name being the dang title of the series, she’s never been the main character in a mainline Zelda game until Echoes of Wisdom [&#8230;] 
+
+<https://www.polygon.com/zelda/458224/a-brief-history-of-nintendo-not-letting-you-play-as-zelda>
+
+---
+
+## My Favorite Anime: Studio Ghibli animator Akihiko Yamatsura on the anime that changed his life
+
+date: 2024-10-01, updated: 2024-09-30, from: Polygon Website
+
+Akihiko Yamashita, who’s worked on titles as wide reaching as The Big O and Evangelion 2.0, has quite the anime resume. Since 2001, he’s been working with Studio Ghibli, having done work on Spirited Away all the way through The Boy and the Heron.  Yamashita’s foray into anime came a bit slowly.&#160; “As a child, [&#8230;] 
+
+<https://www.polygon.com/anime/458153/studio-ghibli-miyazaki-yamashita-lupin-3rd-favorite>
+
+---
+
+## Somebody made the video game equivalent of It Follows and it looks awesome
+
+date: 2024-10-01, updated: 2024-10-01, from: Polygon Website
+
+It’s October, which means you’re likely getting in the mood for Halloween later this month by watching, reading, or playing any number of horror or horror-adjacent media right now. In addition to all the exciting (and terrifying) movies released this year, there are also plenty of terrific horror games to choose from like Hollowbody or [&#8230;] 
+
+<https://www.polygon.com/horror/458703/crowded-followed-survival-horror-game-it-follows>
 
 ---
 
