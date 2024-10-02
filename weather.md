@@ -1,31 +1,465 @@
 ---
 title: weather
-updated: 2024-10-01 18:18:19
+updated: 2024-10-02 07:38:35
 ---
 
 # weather
 
-(date: 2024-10-01 18:18:19)
+(date: 2024-10-02 07:38:35)
 
 ---
 
-## SPC - No watches are valid as of Wed Oct  2 00:54:01 UTC 2024
+## Tropical Depression Eleven-E Forecast Discussion Number 4
+
+date: 2024-10-02, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+ZCZC MIATCDEP1 ALL
+TTAA00 KNHC DDHHMM
+ 
+Tropical Depression Eleven-E Discussion Number   4
+NWS National Hurricane Center Miami FL       EP112024
+900 AM CST Wed Oct 02 2024
+ 
+First light visible imagery and a GMI microwave overpass during the 
+night show that the center of Tropical Depression Eleven-E is again 
+a little to the southwest of the previous track.  While the system 
+is part of a large area of convection, the convection is generally 
+poorly organized, and there has been little change in the various 
+satellite intensity estimates since the last advisory.  Based on 
+this, the initial intensity remains 30 kt.
+
+The track forecast is of low confidence. Satellite imagery and model 
+analyses indicate that the depression is currently absorbing or 
+merging with the vorticity of the EP97 disturbance, and this has 
+resulted in the system center moving slowly southwestward during the 
+past 6-12 h.  The models have diverse solutions for the subsequent 
+track, with the GFS and Canadian taking the cyclone northward into 
+eastern Mexico, while the UKMET forecasts a west-northwestward 
+motion offshore parallel to the coast and the ECMWF forecasting the 
+system to dissipate over water.  The new forecast track is a 
+compromise between the the GFS and UKMET forecast and shows the 
+center making landfall between 36-48 h in the current Tropical Storm 
+Warning area.  This forecast has some significant changes in 
+direction and speed from the previous forecast, and additional 
+adjustments may be necessary later today and tonight.
+
+Regardless of exactly where the cyclone tracks, it is expected to 
+be in an environment of moderate to strong easterly shear through 
+at least 48 h.  This should limit the intensification, and the 
+forecast peak intensity of 40 kt remains at the upper edge of the 
+intensity guidance.  The main impact from this system is expected 
+to be heavy rainfall, which could lead to flooding and mudslides 
+over portions of southern Mexico and western Guatemala.
+ 
+ 
+KEY MESSAGES:
+ 
+1. The depression is forecast to become a tropical storm before it
+reaches the coast of southern or southeastern Mexico.  A Tropical
+Storm Warning remains in effect for portions of the southern coast
+of Mexico.
+ 
+2. Tropical Depression Eleven-E will likely bring heavy rainfall to 
+portions of southern Mexico and Guatemala this week. Flooding and 
+mudslides, especially in areas of steep terrain, are possible, 
+especially from western Guatemala into portions of the Mexican 
+states of Chiapas, Oaxaca, Veracruz, Tabasco and coastal Guerrero.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  02/1500Z 14.9N  95.8W   30 KT  35 MPH
+ 12H  03/0000Z 14.8N  96.1W   35 KT  40 MPH
+ 24H  03/1200Z 14.9N  96.6W   40 KT  45 MPH
+ 36H  04/0000Z 15.3N  97.0W   40 KT  45 MPH
+ 48H  04/1200Z 16.0N  97.5W   30 KT  35 MPH...INLAND
+ 60H  05/0000Z 16.4N  98.0W   20 KT  25 MPH...POST-TROP/REMNT LOW
+ 72H  05/1200Z...DISSIPATED
+ 
+$$
+Forecaster Beven
+ 
+NNNN
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCDEP1+shtml/DDHHMM.shtml>
+
+---
+
+## Summary - Tropical Depression Eleven-E (EP1/EP112024)
+
+date: 2024-10-02, from: Eastern Pacific Basin GIS Data
+
+...POORLY ORGANIZED DEPRESSION NOW MEANDERING SOUTH OF THE COAST OF MEXICO...
+ As of 9:00 AM CST Wed Oct 2
+ the center of Eleven-E was located near 14.9, -95.8
+ with movement SW at 2 mph.
+ The minimum central pressure was 1005 mb
+ with maximum sustained winds of about 35 mph. 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/021435.shtml>
+
+---
+
+## Tropical Depression Eleven-E Forecast Advisory Number 4
+
+date: 2024-10-02, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPZ21 KNHC 021435
+TCMEP1
+ 
+TROPICAL DEPRESSION ELEVEN-E FORECAST/ADVISORY NUMBER   4
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP112024
+1500 UTC WED OCT 02 2024
+ 
+TROPICAL DEPRESSION CENTER LOCATED NEAR 14.9N  95.8W AT 02/1500Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE SOUTHWEST OR 225 DEGREES AT   2 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1005 MB
+MAX SUSTAINED WINDS  30 KT WITH GUSTS TO  40 KT.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 14.9N  95.8W AT 02/1500Z
+AT 02/1200Z CENTER WAS LOCATED NEAR 15.1N  95.7W
+ 
+FORECAST VALID 03/0000Z 14.8N  96.1W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 30NE  30SE   0SW  30NW.
+ 
+FORECAST VALID 03/1200Z 14.9N  96.6W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 30NE  40SE  30SW  20NW.
+ 
+FORECAST VALID 04/0000Z 15.3N  97.0W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 30NE  40SE  30SW  20NW.
+ 
+FORECAST VALID 04/1200Z 16.0N  97.5W...INLAND
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 05/0000Z 16.4N  98.0W...POST-TROP/REMNT LOW
+MAX WIND  20 KT...GUSTS  30 KT.
+ 
+FORECAST VALID 05/1200Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 14.9N  95.8W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT31 KNHC/MIATCPEP1...AT 02/1800Z
+ 
+NEXT ADVISORY AT 02/2100Z
+ 
+$$
+FORECASTER BEVEN
+ 
+ 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCMEP1+shtml/021435.shtml>
+
+---
+
+## Tropical Depression Eleven-E Wind Speed Probabilities Number 4
+
+date: 2024-10-02, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+ZCZC MIAPWSEP1 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL DEPRESSION ELEVEN-E WIND SPEED PROBABILITIES NUMBER   4    
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP112024               
+1500 UTC WED OCT 02 2024                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL DEPRESSION ELEVEN-E WAS LOCATED NEAR
+LATITUDE 14.9 NORTH...LONGITUDE 95.8 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 30 KTS...35 MPH...55 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z WED 00Z THU 12Z THU 00Z FRI 12Z FRI 12Z SAT 12Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z THU 12Z THU 00Z FRI 12Z FRI 12Z SAT 12Z SUN 12Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+P MALDONADO    34  X   1( 1)   2( 3)   3( 6)   2( 8)   X( 8)   X( 8)
+ 
+P ANGEL        34  5  13(18)   5(23)   1(24)   1(25)   X(25)   X(25)
+P ANGEL        50  X   2( 2)   X( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+HUATULCO       34  1   2( 3)   2( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+15N 95W        34  4   3( 7)   2( 9)   X( 9)   X( 9)   X( 9)   X( 9)
+ 
+$$                                                                  
+FORECASTER BEVEN                                                    
+NNNN                                                                
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIAPWSEP1+shtml/DDHHMM.shtml>
+
+---
+
+## ATCF XML Prototype [xml] - Tropical Depression Eleven-E (EP1/EP112024)
+
+date: 2024-10-02, from: Eastern Pacific Basin GIS Data
+
+Issued at  Wed, 02 Oct 2024 14:35:25 GMT. This is only a prototype and the file format may change without notice. 
+
+<https://www.nhc.noaa.gov/storm_graphics/EP11/atcf-ep112024.xml>
+
+---
+
+## SPC - No watches are valid as of Wed Oct  2 13:35:02 UTC 2024
 
 date: 2024-10-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Wed Oct  2 00:54:01 UTC 2024. 
+No watches are valid as of Wed Oct  2 13:35:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Wed Oct  2 00:54:01 UTC 2024
+## SPC - No MDs are in effect as of Wed Oct  2 13:35:02 UTC 2024
 
 date: 2024-10-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Wed Oct  2 00:54:01 UTC 2024. 
+No Mesoscale Discussions are in effect as of Wed Oct  2 13:35:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Oct 2, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-10-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0733 AM CDT Wed Oct 02 2024
+
+Valid 021300Z - 031200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected through tonight.
+
+...Synopsis/Discussion...
+The mid/upper-level pattern will be characterized by a belt of
+gently difluent, west-northwesterly northern-stream flow from the
+Pacific Northwest to the Great Lakes.  This flow will weaken
+considerably and become much more difluent over the Ohio Valley, mid
+Mississippi Valley and Appalachians.  The strongest flow aloft will
+be well-displaced from any substantial low-level moisture/theta-e,
+which is expected to remain along and south of a quasistationary
+front draped across north-central FL.  
+
+Scattered daytime thunderstorms are expected to form along FL East
+and West Coast sea breezes, shifting inland as the boundaries
+(including outflows from the first generation of convection nearer
+the coasts) merge.  Weak deep-layer flow and lack of shear will
+preclude organized severe potential.  Localized strong gusts are
+possible in wet downbursts with enhanced lift along colliding
+boundaries, 1500-2000 J/kg preconvective MLCAPE, and rich inflow-
+layer moisture (surface dewpoints 70s F and PW commonly over 2
+inches).  Elsewhere, very isolated/brief lightning may occur near
+the AZ/NM border and Mogollon Rim, but with barely enough moisture
+for convection, coverage is expected to be too small for a 10% area.
+
+..Edwards/Dean.. 10/02/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2024-10-02, from: Eastern Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ABPZ20 KNHC 021144<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 500 AM PDT Wed Oct 2 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ The National Hurricane Center is issuing advisories on Tropical <br />
+ Depression Eleven-E, located near the coast of southeastern <br />
+ Mexico.<br />
+ <br />
+ Offshore of Southern Mexico (EP97):<br />
+ An area of low pressure is located a few hundred miles <br />
+ south-southeast of Acapulco, in close proximity to Tropical <br />
+ Depression Eleven-E. Recent microwave imagery and satellite-wind <br />
+ data suggests these two features have moved closer together and are <br />
+ interacting. Given their proximity, it is becoming increasingly <br />
+ possible that EP97 will merge with the tropical depression. Thus, <br />
+ this system's chances for tropical cyclone development are <br />
+ decreasing. However, if this system is able to survive, it is <br />
+ forecast to begin moving slowly west-northwestward later this week, <br />
+ parallel to the coast of Mexico when conditions could become more <br />
+ favorable for development. Regardless, this system is expected to <br />
+ add to heavy rainfall across portions of the southwestern coast of <br />
+ Mexico that were already adversely affected by substantial rainfall <br />
+ last week, and interests there should monitor the progress of this <br />
+ system along with Tropical Depression Eleven-E.<br />
+ * Formation chance through 48 hours...low...30 percent. <br />
+ * Formation chance through 7 days...medium...50 percent.<br />
+ <br />
+ &&<br />
+ Public Advisories on Tropical Depression Eleven-E are issued under <br />
+ WMO header WTPZ31 KNHC and under AWIPS header MIATCPEP1. <br />
+ Forecast/Advisories on Tropical Depression Eleven-E are issued <br />
+ under WMO header WTPZ21 KNHC and under AWIPS header MIATCMEP1.<br />
+ <br />
+ $$<br />
+ Forecaster Papin<br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-10-02, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Wed Oct 2 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Hurricane <br>Kirk, located over the central tropical Atlantic Ocean.<br><br>1. Northwestern Caribbean Sea and Gulf of Mexico:<br>A broad trough of low pressure is producing a large area of <br>disorganized showers and thunderstorms from the southwestern <br>Caribbean Sea into the southern Gulf of Mexico. Environmental <br>conditions could support some gradual development of this system, <br>and a tropical depression could form over the weekend as the broader <br>disturbance moves fully into the Gulf of Mexico. Interests along the <br>U.S. Gulf Coast should continue to monitor the progress of this <br>system.<br>* Formation chance through 48 hours...low...near 0 percent. <br>* Formation chance through 7 days...medium...40 percent.<br><br />
+2. Eastern Tropical Atlantic (AL91):<br>Showers and thunderstorms continue to show signs of organization in <br>association with an area of low pressure located a few hundred miles <br>south-southwest of the Cabo Verde Islands.  Environmental conditions <br>appear conducive for further development of this system, and a <br>tropical depression is expected to form during the next day or so <br>while it moves slowly westward over the eastern tropical Atlantic.<br>* Formation chance through 48 hours...high...90 percent. <br>* Formation chance through 7 days...high...90 percent.<br><br />
+<br>Forecaster Beven<br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Preliminary Best Track [shp] - Tropical Depression Eleven-E (EP1/EP112024)
+
+date: 2024-10-02, from: Eastern Pacific Basin GIS Data
+
+Track, Points, and Wind Swath. Shapefile last updated Wed, 02 Oct 2024 11:33:47 GMT 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep112024_best_track.zip>
+
+---
+
+## Preliminary Best Track Points [kmz] - Tropical Depression Eleven-E (EP1/EP112024)
+
+date: 2024-10-02, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Wed, 02 Oct 2024 11:33:47 GMT 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep112024_best_track.kmz>
+
+---
+
+## Tropical Depression Eleven-E Graphics
+
+date: 2024-10-02, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/113301.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP11/EP112024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Depression Eleven-E 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Wed, 02 Oct 2024 11:33:01 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/113301.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP11/EP112024_wind_probs_34_F120_sm2.png"
+alt="Tropical Depression Eleven-E 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Wed, 02 Oct 2024 09:28:33 GMT
+ 
+
+<https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/113301.shtml?cone>
+
+---
+
+## Central North Pacific Tropical Weather Outlook
+
+date: 2024-10-02, from: Central Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ACPN50 PHFO 021111<br/>
+TWOCP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS Central Pacific Hurricane Center Honolulu HI<br/>
+200 AM HST Wed Oct 2 2024<br/>
+<br/>
+For the central North Pacific...between 140W and 180W:<br/>
+<br/>
+No tropical cyclones are expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Blood<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## 120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins
+
+date: 2024-10-02, from: Eastern Pacific Basin GIS Data
+
+Shapefile last updated Wed, 02 Oct 2024 09:23:20 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip>
 
 ---
 
@@ -69,31 +503,6 @@ international border.
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2024-10-01, from: Central Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ACPN50 PHFO 012342<br />
- TWOCP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS Central Pacific Hurricane Center Honolulu HI<br />
- 200 PM HST Tue Oct 1 2024<br />
- <br />
- For the central North Pacific...between 140W and 180W:<br />
- <br />
- No tropical cyclones are expected during the next 7 days.<br />
- <br />
- $$<br />
- Forecaster Birchard/Bedal<br />
-  
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
 
 ---
 
@@ -147,26 +556,6 @@ Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Tu
 
 ---
 
-## Preliminary Best Track [shp] - Tropical Depression Eleven-E (EP1/EP112024)
-
-date: 2024-10-01, from: Eastern Pacific Basin GIS Data
-
-Track, Points, and Wind Swath. Shapefile last updated Tue, 01 Oct 2024 23:36:37 GMT 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep112024_best_track.zip>
-
----
-
-## Preliminary Best Track Points [kmz] - Tropical Depression Eleven-E (EP1/EP112024)
-
-date: 2024-10-01, from: Eastern Pacific Basin GIS Data
-
-KMZ last updated Tue, 01 Oct 2024 23:36:37 GMT 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep112024_best_track.kmz>
-
----
-
 ## Tropical Depression Eleven-E Graphics
 
 date: 2024-10-01, from: Eastern Pacific Basin Tropical Cyclones
@@ -200,95 +589,6 @@ date: 2024-10-01, from: Eastern Pacific Basin GIS Data
  with maximum sustained winds of about 35 mph. 
 
 <https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/012334.shtml>
-
----
-
-## ATCF XML Prototype [xml] - Tropical Depression Eleven-E (EP1/EP112024)
-
-date: 2024-10-01, from: Eastern Pacific Basin GIS Data
-
-Issued at  Tue, 01 Oct 2024 23:33:40 GMT. This is only a prototype and the file format may change without notice. 
-
-<https://www.nhc.noaa.gov/storm_graphics/EP11/atcf-ep112024.xml>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-10-01, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 PM EDT Tue Oct 1 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on recently <br>upgraded Hurricane Kirk, located over the central tropical Atlantic <br>Ocean.<br><br>1. Northwestern Caribbean Sea and Gulf of Mexico:<br>A broad trough of low pressure is producing a large area of <br>disorganized showers and thunderstorms from the southwestern <br>Caribbean Sea into the southern Gulf of Mexico. Environmental <br>conditions could support some gradual development of this system, <br>and a tropical depression could form towards the end of the week or <br>over the weekend as the broader disturbance moves fully into the <br>Gulf of Mexico. Interests along the U.S. Gulf Coast should continue <br>to monitor the progress of this system.<br>* Formation chance through 48 hours...low...near 0 percent. <br>* Formation chance through 7 days...medium...40 percent.<br><br />
-2. Eastern Tropical Atlantic (AL91):<br>Showers and thunderstorms continue in association with an area of <br>low pressure located a few hundred miles south-southwest of the Cabo <br>Verde Islands.  Environmental conditions appear conducive for <br>further development of this system, and a tropical depression is <br>expected to form during the next day or two while it moves slowly <br>westward over the eastern tropical Atlantic.<br>* Formation chance through 48 hours...high...90 percent. <br>* Formation chance through 7 days...high...90 percent.<br><br />
-<br>Forecaster Bucci<br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2024-10-01, from: Eastern Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ABPZ20 KNHC 012326<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 500 PM PDT Tue Oct 1 2024<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- The National Hurricane Center is issuing advisories on newly formed <br />
- Tropical Depression Eleven-E, located near the coast of southeastern <br />
- Mexico.<br />
- <br />
- Offshore of Southern Mexico (EP97):<br />
- An area of low pressure located a few hundred miles south-southeast <br />
- of Acapulco continues to produce disorganized showers and <br />
- thunderstorms.  While environmental conditions are generally <br />
- conducive for development, the close proximity of Tropical <br />
- Depression Eleven-E could limit development during the next day or <br />
- two. Late this week, the system is forecast to begin moving slowly <br />
- west-northwestward, parallel to the coast of Mexico, and gradual <br />
- development seems likely. This system is expected to contribute to <br />
- heavy rainfall across portions of the southwestern coast of Mexico <br />
- that were already adversely affected by substantial rainfall last <br />
- week, and interests there should monitor the progress of this <br />
- system.<br />
- * Formation chance through 48 hours...medium...50 percent. <br />
- * Formation chance through 7 days...high...80 percent.<br />
- <br />
- &&<br />
- Public Advisories on Tropical Depression Eleven-E are issued under <br />
- WMO header WTPZ31 KNHC and under AWIPS header MIATCPEP1. <br />
- Forecast/Advisories on Tropical Depression Eleven-E are issued <br />
- under WMO header WTPZ21 KNHC and under AWIPS header MIATCMEP1.<br />
- <br />
- $$<br />
- Forecaster Cangialosi<br />
-  
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## 120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins
-
-date: 2024-10-01, from: Eastern Pacific Basin GIS Data
-
-Shapefile last updated Tue, 01 Oct 2024 21:23:35 GMT 
-
-<https://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip>
 
 ---
 
@@ -644,52 +944,6 @@ Critical areas are warranted.
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
-
----
-
-## SPC Oct 1, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-10-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0725 AM CDT Tue Oct 01 2024
-
-Valid 011300Z - 021200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not expected today.
-
-...Synopsis...
-In mid/upper levels, the main belt of westerlies is expected to
-remain near the Canadian border through the period, extending across
-more of the Great Lakes with time.  That will occur as a synoptic-
-scale trough -- evident in moisture-channel imagery from a low over
-westernmost parts of Hudson Bay across northwestern ON to the upper
-Mississippi Valley -- ejects northeastward over northern ON, and
-James and Hudson Bays, through the period.  This stronger flow will
-remain well poleward of thunder potential today near a weakening/
-ejecting trough over the Tidewater region, south of a weak front
-over FL, and under or south of a weakening synoptic ridge over parts
-of CO/NM/AZ.  Vertical shear and lapse rates aloft will be too weak
-in any of those areas to support organized severe potential. 
-Locally strong gusts may accompany the high-based convection in AZ,
-with a deep/well-mixed subcloud layer, but only modest (5-15 kt)
-midlevel easterlies.  A cold front sweeping across the Great Lakes,
-Ohio Valley, lower Mississippi Valley, and southern Plains, should
-encounter a marginally moist/unstable airmass for isolated thunder,
-within a band of convection over parts of the eastern Great Lakes.
-
-..Edwards/Dean.. 10/01/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 

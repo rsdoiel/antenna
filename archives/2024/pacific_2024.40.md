@@ -1,11 +1,399 @@
 ---
 title: pacific
-updated: 2024-10-01 18:18:15
+updated: 2024-10-02 07:38:31
 ---
 
 # pacific
 
-(date: 2024-10-01 18:18:15)
+(date: 2024-10-02 07:38:31)
+
+---
+
+## Palau receives $80M in COFA grants
+
+date: 2024-10-02, from: Pacific Island Times
+
+By Pacific Island Times News Staff Koror—  On its 30th anniversary of independence on Oct. 1, Palau received the $80.4 million U.S. funds... 
+
+<https://www.pacificislandtimes.com/post/palau-receives-80m-in-cofa-grants>
+
+---
+
+## A tense, policy-heavy debate ends with clash over democracy
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Sen. JD Vance of Ohio and Gov. Tim Walz of Minnesota clashed on Tuesday in a vice presidential debate in which Vance&#8217;s well-honed, television-friendly style came up against an aw-shucks approach from Walz that was at times nervous and halting.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/nation-world-news/a-tense-policy-heavy-debate-ends-with-clash-over-democracy/>
+
+---
+
+## Trump’s consistent message online and onstage: Be afraid
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>Former President Donald Trump swings wildly from topic to topic at his rallies, veering from tariffs to immigration policy to the problems with electric vehicles. But he tends to return to the same apocalyptic message.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/nation-world-news/trumps-consistent-message-online-and-onstage-be-afraid/>
+
+---
+
+## Second finalist for UH president attends forum in Hilo
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>The second of two final candidates for the position of University of Hawaii president emphasized respect for Hawaiian culture during a forum Tuesday at UH-Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/hawaii-news/second-finalist-for-uh-president-attends-forum-in-hilo/>
+
+---
+
+## Volcano man indicted again for allegedly beating an elderly woman at a Hilo bar
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>A 41-year-old Volcano man has been arrested and charged for a third time for the brutal beating of an elderly woman outside a Hilo bar 3 1/2 years ago.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/hawaii-news/volcano-man-indicted-again-for-allegedly-beating-an-elderly-woman-at-a-hilo-bar/>
+
+---
+
+## Takamine appointed to state labor board
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green has appointed Dwight Takamine &#8212; a former state legislator, Department of Labor and Industrial Relations director and lawyer &#8212; to the Hawaii Labor Relations Board.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/hawaii-news/takamine-appointed-to-state-labor-board/>
+
+---
+
+## Iran says attack on Israel is over as fears grow of wider conflict
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM/BEIRUT &#8212; Iran said early on Wednesday that its missile attack on Israel was over barring further provocation, while Israel and the U.S. promised to retaliate against Tehran as fears of a wider war intensified.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/nation-world-news/iran-says-attack-on-israel-is-over-as-fears-grow-of-wider-conflict/>
+
+---
+
+## Argentine town battles a parrot invasion
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>HILARIO ASCASUBI, Argentina &#8212; The town of Hilario Ascasubi near Argentina&#8217;s eastern Atlantic coast has a parrot problem. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/nation-world-news/argentine-town-battles-a-parrot-invasion/>
+
+---
+
+## School bus blaze in Thailand kills at least 23
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>BANGKOK &#8212; A bus filled with schoolchildren and teachers caught fire just outside Bangkok, the capital of Thailand, on Tuesday, killing at least 23 people.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/nation-world-news/school-bus-blaze-in-thailand-kills-at-least-23/>
+
+---
+
+## Port workers strike on East and Gulf Coasts
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>For the first time in nearly 50 years, dockworkers on the East and Gulf Coasts went on strike Tuesday, a move that will cut off most trade through some of the busiest U.S. ports and could send a chill through the economy.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/nation-world-news/port-workers-strike-on-east-and-gulf-coasts/>
+
+---
+
+## Mexico’s first female president takes office
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>MEXICO CITY &#8212; Claudia Sheinbaum took office Tuesday, the first woman and Jewish person to lead Mexico in the country&#8217;s more than 200-year history as an independent nation.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/nation-world-news/mexicos-first-female-president-takes-office/>
+
+---
+
+## Breast cancer continues to rise among younger women, study finds
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>Rates of breast cancer &#8212; the second leading cause of cancer deaths in U.S. women &#8212; climbed 1% a year from 2012 to 2021, and even more sharply among women younger than 50 and among Asian American/Pacific Islander women of all ages, according to an American Cancer Society report published Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/nation-world-news/breast-cancer-continues-to-rise-among-younger-women-study-finds/>
+
+---
+
+## Conditions at Georgia prisons violate constitution, Justice Dept. says
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A Justice Department investigation into Georgia&#8217;s state prison system found conditions that violate the Constitution, including rampant violence, sexual assault, drug smuggling and gang activity, according to a report released Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/nation-world-news/conditions-at-georgia-prisons-violate-constitution-justice-dept-says/>
+
+---
+
+## Rescuers push through Helene debris to find people and restore power
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>Rescuers fanned out across the mountains of southern Appalachia on Tuesday, scouring the region for missing people and rushing supplies to communities still in dire need of food, water and power after Hurricane Helene.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/nation-world-news/rescuers-push-through-helene-debris-to-find-people-and-restore-power/>
+
+---
+
+## Tarik Skubal shuts down Astros as Tigers take Game 1
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>HOUSTON &#8212; Tarik Skubal twirled six shutout innings as the bottom of the order sparked an early rally that carried the Detroit Tigers to a 3-1 victory over the Houston Astros in Game 1 of the American League wild-card series on Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/sports/tarik-skubal-shuts-down-astros-as-tigers-take-game-1/>
+
+---
+
+## BIIF volleyball: Trojans, Cowgirls sweep
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>Ka&#8216;u 3, LCPCS 0</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/sports/biif-volleyball-trojans-cowgirls-sweep/>
+
+---
+
+## UH-H sports:   Vulcans win on road; soccer opens conference play
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>SAN RAFAEL, Calif. &#8212; Highlighted by a thundering Set 2 comeback, the UH-Hilo women&#8217;s volleyball team opened a four-match Northern California road trip with a straight-sets victory over Dominican in Pacific West Conference play Sunday afternoon at the Conlan Center.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/sports/uh-h-sports-vulcans-win-on-road-soccer-opens-conference-play/>
+
+---
+
+## PHOTO: Pilipa‘a Volleyball plays in Florida
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>The Pilipa&#8216;a Volleyball Club traveled from Hilo to Orlando, Florida, in July to compete in the 18 Club Division at the AAU Boys&#8217; Junior National Championships.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/sports/photo-pilipaa-volleyball-plays-in-florida/>
+
+---
+
+## Royals hold off Orioles 1-0 in first playoff game since 2015
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>BALTIMORE &#8212; Cole Ragans used to watch Cole Hamels carve up opposing lineups during the Philadelphia Phillies&#8217; deep postseason runs more than a decade ago.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/sports/royals-hold-off-orioles-1-0-in-first-playoff-game-since-2015/>
+
+---
+
+## Hawaii-grown flowers in the spotlight: New variety of anthurium presented at event
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>Floral lovers of all types recently spent a weekend learning about Hawaii&#8217;s tropical flowers and how to make them even more beautiful.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/hawaii-news/hawaii-grown-flowers-in-the-spotlight-new-variety-of-anthurium-presented-at-event/>
+
+---
+
+## ‘(re)imaging Homelands’: Performance at UH-Hilo uses dance, music to explore ancestral memories
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>A performance coming to the University of Hawaii at Hilo Performing Arts Center this week melds traditional dance and music with the contemporary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/hawaii-news/reimaging-homelands-performance-at-uh-hilo-uses-dance-music-to-explore-ancestral-memories/>
+
+---
+
+## Puna Strong grants available to nonprofits: Application deadline is Oct. 10
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County and the Hawaii Community Foundation are inviting nonprofit organizations serving the Puna area to apply for Puna Strong Collaboration Grants.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/community/puna-strong-grants-available-to-nonprofits-application-deadline-is-oct-10/>
+
+---
+
+## Don’t worry, ladies, the GOP will protect you from your pretty little selves
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>Little ladies of America, put down your sewing kits and listen up: Donald Trump and the Republican Party have your cute little backs. They&#8217;re going to protect you &#8212; from making your own choices about reproduction, from deciding whether to own a cat, maybe even from traveling between states.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/opinion/dont-worry-ladies-the-gop-will-protect-you-from-your-pretty-little-selves/>
+
+---
+
+## Trending news in brief for October 2
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>John Amos, star of TV&#8217;s &#8216;Good Times&#8217; and &#8216;Roots,&#8217; dies at 84</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/entertainment/trending-news-in-brief-for-october-2/>
+
+---
+
+## What to stream: Sample ‘House of Spoils’ and more culinary horror
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>The new culinary horror film &#8220;House of Spoils,&#8221; starring Ariana DeBose, premieres on Prime Video Thursday, Oct. 3. This spooky, witchy movie follows an ambitious fine-dining chef (DeBose) as she starts a new restaurant venture at a farm in rural upstate New York, and encounters the threatening spirits of the cooks who inhabited the gardens and kitchen before her.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/entertainment/what-to-stream-sample-house-of-spoils-and-more-culinary-horror/>
+
+---
+
+## California takes a big step toward fair college admissions
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>Every time California takes a big step on education, you have to brace yourself: Is this going to lead the country in the right direction, as it did with eliminating racial preferences in college admissions in the &#8217;90s? Or will this send education in the rest of the country over a cliff, as with the whole language fiasco of the &#8217;80s? </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/opinion/california-takes-a-big-step-toward-fair-college-admissions/>
+
+---
+
+## Take Trump seriously or literally? Or both?
+
+date: 2024-10-02, from: Hawaii Tribune Harold
+
+
+				<p>Salena Zito, writing for The Atlantic in September 2016, may have been the first to describe, in a triumph of pithy efficiency, why Donald Trump is able to survive and thrive despite provocative statements that would endanger the career of nearly any other politician: &#8220;When he makes claims like this, the press takes him literally, but not seriously; his supporters take him seriously, but not literally.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/02/opinion/take-trump-seriously-or-literally-or-both/>
+
+---
+
+## Regents on track to select next UH President in late October
+
+date: 2024-10-02, from: University of Hawaiʻi News
+
+<p>The regents are asking all stakeholders and the public to provide feedback on the finalists.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/01/regents-on-track-to-select-next-uh-president/">Regents on track to select next <abbr>UH</abbr> President in late October</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/01/regents-on-track-to-select-next-uh-president/>
+
+---
+
+## Hawaiian Word of the Week: ʻOkakopa
+
+date: 2024-10-02, from: University of Hawaiʻi News
+
+<p>&#699;Okakopa&#8212;October.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/01/hawaiian-word-of-the-week-okakopa/">Hawaiian Word of the Week: ʻOkakopa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/01/hawaiian-word-of-the-week-okakopa/>
+
+---
+
+## Share your UH-mazing holiday recipe
+
+date: 2024-10-02, from: University of Hawaiʻi News
+
+<p>Share a favorite recipe with our <abbr>UH</abbr> &#6998;ohana.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/01/share-your-uh-mazing-holiday-recipe/">Share your UH-mazing holiday recipe</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/01/share-your-uh-mazing-holiday-recipe/>
+
+---
+
+## $1.2M to develop culturally responsive math teachers
+
+date: 2024-10-02, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> and <abbr>UH</abbr> Mānoa’s College of Education will provide scholarships and support to eligible students to eventually teach in high-need areas.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/01/culturally-responsive-math-teachers/">$1.2<abbr>M</abbr> to develop culturally responsive math teachers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/01/culturally-responsive-math-teachers/>
+
+---
+
+## Indigenous educators engage in ʻāina, ʻike at UH Mānoa
+
+date: 2024-10-02, from: University of Hawaiʻi News
+
+<p><span aria-label="Hawaiinuiakea">Hawai&#699;inui&#257;kea</span> hosted the <abbr>WINHEC</abbr> 2024 conference,a global effort to advance Indigenous studies in higher education.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/01/indigenous-educators-engage-in-aina-ike/">Indigenous educators engage in ʻāina, ʻike at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/01/indigenous-educators-engage-in-aina-ike/>
+
+---
+
+## Schuessler takes 1st at women’s sailing championship
+
+date: 2024-10-02, from: University of Hawaiʻi News
+
+<p>Schuessler finished first in nine out of 10 total races.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/01/schuessler-1st-championship/">Schuessler takes 1st at women’s sailing championship</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/01/schuessler-1st-championship/>
 
 ---
 
@@ -94,6 +482,106 @@ date: 2024-10-01, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/10/01/new-eco-friendly-containers/"><abbr>UH</abbr> Mānoa student residents snatch up new eco-friendly food containers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/10/01/new-eco-friendly-containers/>
+
+---
+
+## FEATURE ǀ Building lifelong connections: The strength of compassion and community in the digital and physical classroom
+
+date: 2024-10-01, updated: 2024-10-02, from: Marianas Variety
+
+AS a teacher, I often caught up in lesson planning and evaluating student work, and I didn’t take the time to appreciate the special moments I shared with them. However, in 2019, I decided to make a change and saw an opportunity to create something extraordinary with my students — a virtual diary of our experiences and memories that we could all cherish for years. So, I started a Google Site where I could document every moment, big and small, and make it a part of our shared history. 
+
+<https://www.mvariety.com/views/columnists/feature-building-lifelong-connections-the-strength-of-compassion-and-community-in-the-digital-and-physical/article_4b727f94-7fb8-11ef-a9d0-2ffa3a27fb44.html>
+
+---
+
+## Cardinals repeat as SBL champions
+
+date: 2024-10-01, updated: 2024-10-02, from: Marianas Variety
+
+THE Cardinals successfully defended their Tan Holdings Saipan Baseball League title with a 4-2 victory over the Padres in the second game of the best-of-three championship series on Monday at the Francisco “Tan Ko” Palacios Baseball Field. 
+
+<https://www.mvariety.com/sports/localsports/cardinals-repeat-as-sbl-champions/article_0a9b96d8-7fa7-11ef-be2a-3f0d55cb441f.html>
+
+---
+
+## Yamigishi, Diaz and others win big at grappling tournament
+
+date: 2024-10-01, updated: 2024-10-02, from: Marianas Variety
+
+JAKE Yamagishi emerged as the top grappler in the 141-150-pound featherweight division in the Trench Tech Mats on Fire Brazilian jiu jitsu tournament at the Garapan Round House on Saturday, Sept. 28. 
+
+<https://www.mvariety.com/sports/localsports/yamigishi-diaz-and-others-win-big-at-grappling-tournament/article_cb47d6fe-7fce-11ef-8505-6b8df48badf8.html>
+
+---
+
+## Rescuers scour North Carolina mountains for survivors cut off by Hurricane Helene
+
+date: 2024-10-01, updated: 2024-10-02, from: Marianas Variety
+
+(Reuters) — North Carolina resumed search and rescue operations on Tuesday, intent on delivering aid and making contact with hundreds of people cut off by washed-out roads and damaged cellphone towers in following Hurricane Helene. 
+
+<https://www.mvariety.com/news/national/rescuers-scour-north-carolina-mountains-for-survivors-cut-off-by-hurricane-helene/article_050e8534-7ffe-11ef-9a47-7f817909367b.html>
+
+---
+
+## Lions ride Jared Goff's perfect game to win over Seahawks
+
+date: 2024-10-01, updated: 2024-10-02, from: Marianas Variety
+
+(Reuters) — Jared Goff completed all 18 of his pass attempts, two for touchdowns, and also scored his first career receiving touchdown as the host Detroit Lions defeated the Seattle Seahawks 42-29 on Monday night. 
+
+<https://www.mvariety.com/sports/nationalsports/lions-ride-jared-goffs-perfect-game-to-win-over-seahawks/article_d8cc3358-7ff9-11ef-9cdc-9b5c13e47269.html>
+
+---
+
+## Court dismisses encroachment lawsuit
+
+date: 2024-10-01, updated: 2024-10-02, from: Marianas Variety
+
+SAYING that the lawsuit was filed prematurely and the plaintiff has not exhausted available administrative remedy, Superior Court Associate Judge Joseph N. Camacho dismissed the complaint of Su Ung Tae, who has accused Freddy Cataluna and Five Star Builders of “encroachment, trespass, and nuisance.” 
+
+<https://www.mvariety.com/news/local/court-dismisses-encroachment-lawsuit/article_083bba72-7fc9-11ef-9440-c70e7162dc4e.html>
+
+---
+
+## Atalig seeks $200K settlement after court ruling
+
+date: 2024-10-01, updated: 2024-10-02, from: Marianas Variety
+
+FOLLOWING the Superior Court’s order reversing the Civil Service Commission’s dismissal of his complaint against the Department of Public Works, Felipe Q. Atalig, the former public information officer for DPW, is now seeking a $200,000 settlement. 
+
+<https://www.mvariety.com/news/local/atalig-seeks-200k-settlement-after-court-ruling/article_945ccfac-7fae-11ef-b49c-3fb8bdeca5ff.html>
+
+---
+
+## DPL advisory board now organized
+
+date: 2024-10-01, updated: 2024-10-02, from: Marianas Variety
+
+THE newly organized Public Land Advisory Board is ready to work with Department of Public Lands Secretary Teresita Santos to ensure proper management of public lands. 
+
+<https://www.mvariety.com/news/local/dpl-advisory-board-now-organized/article_2683e112-7fc9-11ef-a5dd-b318602700db.html>
+
+---
+
+## Early voting starts on Oct. 29
+
+date: 2024-10-01, updated: 2024-10-02, from: Marianas Variety
+
+THE early voting period for Rota, Tinian, and Saipan and the Northern Islands will start on Oct. 29 and end on Nov. 4, the Commonwealth Election Commission said. 
+
+<https://www.mvariety.com/news/local/early-voting-starts-on-oct-29/article_c85a8b38-7fda-11ef-9ec9-7f156c0e6b0c.html>
+
+---
+
+## LB has no funds for operations
+
+date: 2024-10-01, updated: 2024-10-02, from: Marianas Variety
+
+DUE to a lack of funding in the new fiscal year budget, the Legislative Bureau “will be unable to sustain the basic operations necessary to support our legislative work,” LB Director Perry John P. Tenorio said in a memorandum on Tuesday. 
+
+<https://www.mvariety.com/news/local/lb-has-no-funds-for-operations/article_f15d5b7e-7fc0-11ef-8457-5bab2baa4cfb.html>
 
 ---
 

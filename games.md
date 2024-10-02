@@ -1,11 +1,61 @@
 ---
 title: games
-updated: 2024-10-01 18:18:20
+updated: 2024-10-02 07:38:37
 ---
 
 # games
 
-(date: 2024-10-01 18:18:20)
+(date: 2024-10-02 07:38:37)
+
+---
+
+## Nintendo Switch emulator Ryujinx taken offline
+
+date: 2024-10-02, updated: 2024-10-02, from: Polygon Website
+
+The makers of the Nintendo Switch emulator Ryujinx pulled the open-source project offline after being contacted by Nintendo, one of its developer announced Tuesday on Discord. If you’re counting, that’s the second Nintendo Switch emulator to be pulled offline in 2024; Nintendo sued the makers of popular open source emulator Yuzu in February before settling [&#8230;] 
+
+<https://www.polygon.com/gaming/458905/nintendo-switch-emulator-ryujinx-offline>
+
+---
+
+## The Halloween Countdown: 31 days of horror to watch
+
+date: 2024-10-02, updated: 2024-10-02, from: Polygon Website
+
+Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
+
+<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
+
+---
+
+## Zelda: Echoes of Wisdom players are already cheesing their way through the game
+
+date: 2024-10-02, updated: 2024-10-01, from: Polygon Website
+
+The Legend of Zelda: Echoes of Wisdom sports an enormous toolkit. Using the Tri Rod, players can summon copies of more than 100 world items and beasts called “echoes.” With the flick of a wand, Zelda can spawn anything from a bed to an Octorok. Just like in Tears of the Kingdom, this system allows [&#8230;] 
+
+<https://www.polygon.com/zelda/458049/loz-echoes-wisdom-players-cheesing>
+
+---
+
+## How Blizzard’s canceled MMO Titan fell apart
+
+date: 2024-10-02, updated: 2024-10-02, from: Polygon Website
+
+In 2014, Blizzard revealed in an interview with Polygon that it had canceled its ambitious MMO project known as Titan, a follow-up to the massively successful World of Warcraft. A month and a half later, it became clear why Blizzard had been eager to break the news, as it was getting ready to announce its [&#8230;] 
+
+<https://www.polygon.com/excerpt/458330/why-blizzard-mmo-titan-was-cancelled>
+
+---
+
+## In face of Nintendo lawsuit, Palworld marches onto mobile
+
+date: 2024-10-02, updated: 2024-10-02, from: Polygon Website
+
+Despite facing a patent infringement lawsuit in Japan from Nintendo and The Pokémon&#160;Company, indie developer Pocketpair is pushing ahead with capitalizing on the runaway success of its creature-collecting survival game Palworld. After surprise-launching the game on PlayStation 5 in September (everywhere but Japan), Pocketpair has entered into an agreement with Korean publisher Krafton to develop [&#8230;] 
+
+<https://www.polygon.com/news/459122/palworld-mobile-pubg-studios>
 
 ---
 
@@ -16,16 +66,6 @@ date: 2024-10-01, updated: 2024-10-01, from: Polygon Website
 Valheim is a fun crafting survival game to play with a group of pals set in the Viking afterlife, and the board game adaptation is off to a great start. On Tuesday, a crowdfunding campaign for Valheim: The Board Game went live on Gamefound, and it already hit 300% funding. There are no stretch goals [&#8230;] 
 
 <https://www.polygon.com/gaming/459047/valheim-board-game-crowdfunder-gamefound>
-
----
-
-## Nintendo Switch emulator Ryujinx taken offline
-
-date: 2024-10-01, updated: 2024-10-01, from: Polygon Website
-
-The makers of the Nintendo Switch emulator Ryujinx pulled the open-source project offline after being contacted by Nintendo, one of its developer announced Tuesday on Discord. If you’re counting, that’s the second Nintendo Switch emulator to be pulled offline in 2024; Nintendo sued the makers of popular open source emulator Yuzu in February before settling [&#8230;] 
-
-<https://www.polygon.com/gaming/458905/nintendo-switch-emulator-ryujinx-offline>
 
 ---
 

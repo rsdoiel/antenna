@@ -1,11 +1,101 @@
 ---
 title: motorcycles
-updated: 2024-10-01 18:18:23
+updated: 2024-10-02 07:38:40
 ---
 
 # motorcycles
 
-(date: 2024-10-01 18:18:23)
+(date: 2024-10-02 07:38:40)
+
+---
+
+## ARCA Menards Series West: 2024 Madera Race Review
+
+date: 2024-10-02, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires A month and a half of waiting between the eighth and ninth races of the 2024 ARCA Menards West Series season. That’s&#8230;  
+
+<https://kickinthetires.net/nascar/arca-menards-series-west-2024-madera-race-review/>
+
+---
+
+## KTM's New Motorcycles Will Come With Fancy Radar Tech, Whether You Want It or Not
+
+date: 2024-10-02, from: Ride Apart, Electric Motorcycle News
+
+Bosch and KTM are implementing a wide range of active rider assistance features for 2025.  
+
+<https://www.rideapart.com/news/735647/bosch-ktm-advanced-radar-assistance-systems-2025/>
+
+---
+
+## Holy Hallelujah, Kawasaki Is Bringing the Best Color Z900RS Cafe To the US
+
+date: 2024-10-02, from: Ride Apart, Electric Motorcycle News
+
+The regular Z900RS and Z900RS SE get some choice colorways for 2025, too. 
+
+<https://www.rideapart.com/news/735798/kawasaki-z900rs-cafe-2025-usa/>
+
+---
+
+## Shimano Thinks We Need AI-Powered Bicycle Drivetrains, But Do We Really?
+
+date: 2024-10-02, from: Ride Apart, Electric Motorcycle News
+
+Shimano’s Q’Auto learns from your riding habits and adjusts gear ratios accordingly.  
+
+<https://www.rideapart.com/news/735652/shimano-ai-powered-gear-shifter/>
+
+---
+
+## Warner Bros Sued for On-Set Motorcycle Accident, Happened During 'Batgirl' Filming
+
+date: 2024-10-02, from: Ride Apart, Electric Motorcycle News
+
+It's hard to imagine someone not getting compensation when you hear about the injuries sustained.  
+
+<https://www.rideapart.com/news/735784/warner-bros-motorcycle-accident-lawsuit/>
+
+---
+
+## Check Out This 1919 British Army Motorcycle, Complete with a Machine Gun Sidecar
+
+date: 2024-10-02, from: Ride Apart, Electric Motorcycle News
+
+But who made it? 
+
+<https://www.rideapart.com/news/735787/british-sidecar-motorcycle-army-1919-technical-machine-gun/>
+
+---
+
+## You Have To Watch This Drag Race Between a Ducati Panigale, and an EV Audi RS
+
+date: 2024-10-02, from: Ride Apart, Electric Motorcycle News
+
+It’ll leave your jaw on the floor and prove just how insane motorcycles can be.  
+
+<https://www.rideapart.com/news/735646/drag-race-ducati-panigale-vs-audi-rs/>
+
+---
+
+## BTS' Suga Fined $11,500 for E-Scooter DUI, Highlight's US' Penalty Disparity
+
+date: 2024-10-02, from: Ride Apart, Electric Motorcycle News
+
+Are DUI penalties in the US too slack or is this too severe? 
+
+<https://www.rideapart.com/news/735644/k-pop-e-scooter-drunk-driving-fine/>
+
+---
+
+## Dock Workers On Strike, How Will It Affect US Motorcycle Shipments?
+
+date: 2024-10-02, from: Ride Apart, Electric Motorcycle News
+
+We reached out to multiple powersports manufacturers to find out, and here's what they told us. 
+
+<https://www.rideapart.com/news/735801/east-coast-dockworkers-strike-motorcycle-manufacturers-honda-bmw/>
 
 ---
 

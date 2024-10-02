@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-10-01 18:18:21
+updated: 2024-10-02 07:38:38
 ---
 
 # libraries
 
-(date: 2024-10-01 18:18:21)
+(date: 2024-10-02 07:38:38)
 
 ---
 
@@ -17,6 +17,28 @@ Poirier, Clémence
 Soesanto, Stefan 
 
 <http://hdl.handle.net/20.500.11850/697348>
+
+---
+
+## Guest Post: Time to Rethink Usage Analytics
+
+date: 2024-10-02, from: Scholarly Kitchen
+
+<p>Users (human and machine) are accessing scholarly content in new ways, challenging traditional usage analytics models. In this guest post, Tim Lloyd outlines the challenges ahead in quantifying usage. </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/02/guest-post-time-to-rethink-usage-analytics/">Guest Post: Time to Rethink Usage Analytics</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/10/02/guest-post-time-to-rethink-usage-analytics/>
+
+---
+
+## The House of the Seven Gables, by Nathaniel Hawthorne
+
+date: 2024-10-02, from: Standard Ebooks, new releaases
+
+A dignified but poor woman and her young relative open a shop in a room of a house with a dark history. 
+
+<https://standardebooks.org/ebooks/nathaniel-hawthorne/the-house-of-the-seven-gables>
 
 ---
 
@@ -182,6 +204,16 @@ date: 2024-10-01, from: ETH Zurich, recently added
 Åberg, Amanda; Aaron, Jordan 
 
 <http://hdl.handle.net/20.500.11850/697351>
+
+---
+
+## Untimely destruction: pestilence, war, and accumulation in the long run
+
+date: 2024-10-01, from: ETH Zurich, recently added
+
+Bell, Clive; Gersbach, Hans; Komarov, Evgenij 
+
+<http://hdl.handle.net/20.500.11850/655873>
 
 ---
 

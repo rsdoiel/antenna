@@ -1,11 +1,223 @@
 ---
 title: journalism
-updated: 2024-10-01 18:18:21
+updated: 2024-10-02 07:38:37
 ---
 
 # journalism
 
-(date: 2024-10-01 18:18:21)
+(date: 2024-10-02 07:38:37)
+
+---
+
+## Congress fights to keep AM radio in cars
+
+date: 2024-10-02, from: Nieman Journalism Lab
+
+A lament about the demise of AM radio has been rising in the halls of Congress. Several automakers, most notably Tesla and Ford, have decided to stop putting AM radios in their electric vehicles. They claim their electric motors interfere with the audio quality of the signal and insist that FM and satellite radio are enough. Given that people... 
+
+<https://www.niemanlab.org/2024/10/congress-fights-to-keep-am-radio-in-cars/>
+
+---
+
+## Classifieds – October 2, 2024
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/02/classifieds-october-2-2024/">Classifieds &#8211; October 2, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/02/classifieds-october-2-2024/>
+
+---
+
+## Bottom-of-the-barrel rankings motivate UCLA football to take accountability
+
+date: 2024-10-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Passion leaked through Ikaika Malloe&#8217;s tears Tuesday morning.
+Bound by accountability, the defensive coordinator vowed to match his players&#8217; resolve with an unyielding commitment of his own. 
+
+<https://dailybruin.com/2024/10/02/bottom-of-the-barrel-rankings-motivate-ucla-football-to-take-accountability/>
+
+---
+
+## Admissions scandal parents sue University
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>John Wilson claimed USC committed fraud and deceit related to his 2014 donation.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/02/admissions-scandal-parents-sue-university/">Admissions scandal parents sue University</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/02/admissions-scandal-parents-sue-university/>
+
+---
+
+## USG recognizes Disability Awareness Month
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Senate measure called for President Folt to celebrate Trojans with disabilities. </p>
+<p>The post <a href="https://dailytrojan.com/2024/10/02/usg-recognizes-disability-awareness-month/">USG recognizes Disability Awareness Month</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/02/usg-recognizes-disability-awareness-month/>
+
+---
+
+## Women’s tennis prepares for Women of Troy Invite
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans hope to build on their strong start to the season at home this week.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/02/womens-tennis-prepares-for-women-of-troy-invite/">Women’s tennis prepares for Women of Troy Invite</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/02/womens-tennis-prepares-for-women-of-troy-invite/>
+
+---
+
+## Hasan Piker rallies a generation of change
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The streamer spoke with Tara McPherson in a Q&#038;A at Bovard Auditorium.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/02/217310/">Hasan Piker rallies a generation of change</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/02/217310/>
+
+---
+
+## Tyrah Ariail is still here and shining
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans’ redshirt junior middle blocker will be instrumental in their first Big Ten campaign.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/02/tyrah-ariail-is-still-here-and-shining/">Tyrah Ariail is still here and shining</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/02/tyrah-ariail-is-still-here-and-shining/>
+
+---
+
+## Cartoon of the Month: October
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Reporter Annenberg is on the scene, covering the USC Schools (as personified stereotypes) as they compete to take home the title of Pumpkin Carving Champion.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/02/cartoon-of-the-month-september-2/">Cartoon of the Month: October</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/02/cartoon-of-the-month-september-2/>
+
+---
+
+## The Democratic Party will not save you
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Democratic Party's "saving democracy" rhetoric fails to deliver meaningful change.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/02/the-democratic-party-will-not-save-you/">The Democratic Party will not save you</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/02/the-democratic-party-will-not-save-you/>
+
+---
+
+## You need to get over your regrets
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>We should stop repenting for all our missed opportunities in college.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/02/we-should-stop-repenting-for-all-our-missed-opportunities-in-college/">You need to get over your regrets</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/02/we-should-stop-repenting-for-all-our-missed-opportunities-in-college/>
+
+---
+
+## Men’s water polo ready for huge weekend
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>No. 2 Trojans prepare for fierce battles with rivals No. 6 Cal and No. 3 Stanford this week.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/02/mens-water-polo-ready-for-huge-weekend/">Men’s water polo ready for huge weekend</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/02/mens-water-polo-ready-for-huge-weekend/>
+
+---
+
+## UCLA professor Cecilia Menjívar receives 2 awards for sociology work
+
+date: 2024-10-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Cecilia Menj&#237;var, a UCLA sociology professor, received two prestigious awards from the American Sociological Association during its annual meeting in August.
+The ASA, comprising around 10,000 members, distributes eight major awards each year, honoring scholars whose contributions have significantly impacted the discipline. 
+
+<https://dailybruin.com/2024/10/01/ucla-professor-cecilia-menjvar-receives-2-awards-for-sociology-work/>
+
+---
+
+## The age of the vanilla DJ
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>This is not a tribute. It’s an autopsy.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/the-age-of-the-vanilla-dj/">The age of the vanilla DJ</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/the-age-of-the-vanilla-dj/>
+
+---
+
+## Women’s volleyball loses close  match against Antelope Valley
+
+date: 2024-10-02, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The women’s volleyball team faced off against Antelope Valley College at the South Gym on Sept. 25, with the Marauders securing a narrow 3-2 victory</p>
+<p>The post <a href="https://theroundupnews.com/2024/10/01/womens-volleyball-loses-close-match-against-antelope-valley/">Women’s volleyball loses close  match against Antelope Valley</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/10/01/womens-volleyball-loses-close-match-against-antelope-valley/?utm_source=rss&utm_medium=rss&utm_campaign=womens-volleyball-loses-close-match-against-antelope-valley>
+
+---
+
+## Pierce College Council talks construction
+
+date: 2024-10-02, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Members of the design and project team revealed their ideas moving forward for a master plan to enhance campus life and student convenience at the</p>
+<p>The post <a href="https://theroundupnews.com/2024/10/01/pierce-college-council-talks-construction/">Pierce College Council talks construction</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/10/01/pierce-college-council-talks-construction/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-college-council-talks-construction>
+
+---
+
+## Clubs persist despite setbacks
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Student organizations discuss challenges with Campus Activities.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/clubs-persist-despite-setbacks/">Clubs persist despite setbacks</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/clubs-persist-despite-setbacks/>
+
+---
+
+## A license plate a day keeps the homesickness away
+
+date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Why plates from fifty(-one) states make me feel closer to my family in D.C.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/a-license-plate-a-day-keeps-the-homesickness-away/">A license plate a day keeps the homesickness away</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/a-license-plate-a-day-keeps-the-homesickness-away/>
 
 ---
 
@@ -45,30 +257,6 @@ date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## The age of the vanilla DJ
-
-date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
-
-<p>This is not a tribute. It’s an autopsy.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/01/the-age-of-the-vanilla-dj/">The age of the vanilla DJ</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2024/10/01/the-age-of-the-vanilla-dj/>
-
----
-
-## Letters to strangers
-
-date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
-
-<p>While these are all letters about strangers, there is at least some truth in every single entry.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/01/letters-to-strangers/">Letters to strangers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2024/10/01/letters-to-strangers/>
-
----
-
 ## Car community pulls up to Pierce
 
 date: 2024-10-02, from: The Round Up (Pierce College Student Newspaper)
@@ -85,6 +273,7 @@ date: 2024-10-02, from: The Round Up (Pierce College Student Newspaper)
 
 date: 2024-10-02, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct. 1 at 9:42 p.m.</em>
 The ASUCLA Board of Directors held its third meeting of the 2024-2025 term Sept. 27.
 The board, composed of a student majority, has financial oversight over ASUCLA entities, including the Undergraduate Students Association Council, the Graduate Student Association and the ASUCLA Communications Board – which oversees UCLA Student Media. 
 
@@ -248,6 +437,18 @@ date: 2024-10-01, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
+## Letters to strangers
+
+date: 2024-10-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>While these are all letters about strangers, there is at least some truth in every single entry.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/letters-to-strangers/">Letters to strangers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/letters-to-strangers/>
+
+---
+
 ## Volleyball ends first Midwest venture
 
 date: 2024-10-01, from: The Daily Trojan (USC Student Newspaper)
@@ -293,6 +494,18 @@ date: 2024-10-01, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/10/01/gov-newsom-signs-bill-to-ban-legacy-donor-admission/>
+
+---
+
+## From the Editor — October 2024
+
+date: 2024-10-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Invite a little extra joy into your life and read the latest edition of the Daily Trojan Magazine. </p>
+<p>The post <a href="https://dailytrojan.com/2024/10/01/from-the-editor-october-2024/">From the Editor — October 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/01/from-the-editor-october-2024/>
 
 ---
 
@@ -354,8 +567,8 @@ LMU's surrounding Westchester area is home to several students, but after a noti
 
 date: 2024-10-01, from: The Daily Bruin (UCLA Student Newspaper)
 
-There are eight recognized planets, according to the International Astronomical Union&#8217;s current definition of the term &#8211; but a new proposal could change that.
-The proposal &#8211; co-written by Jean-Luc Margot, a professor in the Departments of Earth, Planetary and Space Sciences as well as Physics and Astronomy &#8211; was submitted to the IAU to be considered at its 2024 General Assembly, which occurred in August. 
+<em>This post was updated Oct. 1 at 10:01 p.m.</em>
+There are eight recognized planets, according to the International Astronomical Union’s current definition of the term – but a new proposal could change that. 
 
 <https://dailybruin.com/2024/09/30/what-makes-a-planet-ucla-professor-seeks-to-fill-the-space-in-the-definition/>
 
@@ -385,8 +598,9 @@ Queer Night Market, Malflora Mixer &#38; Mercado Thursday, Oct. 3 at 6 p.m. LA P
 
 date: 2024-09-30, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct. 2 at 12:01 a.m.</em>
 Nothing beats the taste of victory on your home court.
-After 10 away matches, UCLA women&#8217;s volleyball (7-4, 1-1, Big Ten) continued conference play with a clash against Ohio State (7-5 , 0-2). 
+After 10 away matches, UCLA women’s volleyball (7-4, 1-1, Big Ten) continued conference play with a clash against Ohio State (7-5, 0-2). 
 
 <https://dailybruin.com/2024/09/30/ucla-womens-volleyball-claims-first-conference-play-win-in-pauley-pavilion/>
 
@@ -452,6 +666,18 @@ Three players, three goals.
 No. 18 UCLA women&#8217;s soccer (9-2-2, 4-0-1 Big Ten) hosted Minnesota (8-2-2, 2-2-1) on Sunday for its second conference game at Wallis Annenberg Stadium. 
 
 <https://dailybruin.com/2024/09/30/ucla-womens-soccer-wins-3-1-against-oregon-alters-formation-to-secure-more-shots/>
+
+---
+
+## UCLA women’s soccer wins 3-1 against Minnesota, alters formation to secure more shots
+
+date: 2024-09-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 2 at 12:06 a.m.</em>
+Three players, three goals.
+No. 18 UCLA women’s soccer (9-2-2, 4-0-1 Big Ten) hosted Minnesota (8-2-2, 2-2-1) on Sunday for its second conference game at Wallis Annenberg Stadium. 
+
+<https://dailybruin.com/2024/09/30/ucla-womens-soccer-wins-3-1-against-minnesota-alters-formation-to-secure-more-shots/>
 
 ---
 
@@ -715,8 +941,9 @@ But ultimately, the Bruins met defeat.
 
 date: 2024-09-29, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct. 2 at 12:14 a.m.</em>
 The Bruins’ weekend consisted of wins and personal bests.
-No. 1 UCLA men’s water polo (13-0) secured three victories this weekend at Spieker Aquatics Center. The Bruins faced off against No. 
+No. 1 UCLA men’s water polo (13-0) secured three victories this weekend at Spieker Aquatics Center. 
 
 <https://dailybruin.com/2024/09/29/ucla-mens-water-polo-sees-new-personal-records-following-three-win-weekend/>
 

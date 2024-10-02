@@ -1,11 +1,21 @@
 ---
 title: health
-updated: 2024-10-01 18:18:25
+updated: 2024-10-02 07:38:41
 ---
 
 # health
 
-(date: 2024-10-01 18:18:25)
+(date: 2024-10-02 07:38:41)
+
+---
+
+## Campylobacter coli of porcine origin exhibits an open pan-genome within a single clonal complex: insights from comparative genomic analysis
+
+date: 2024-10-02, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionAlthough Campylobacter spp., including Campylobacter coli, have emerged as important zoonotic foodborne pathogens globally, the understanding of the genomic epidemiology of C. coli of porcine origin is limited.MethodsAs pigs are an important reservoir of C. coli, we analyzed C. coli genomes that were isolated (n = 3) from pigs and sequenced (this study) them along with all other C. coli genomes for which pig intestines, pig feces, and pigs were mentioned as sources in the NCBI database up to January 6, 2023. In this paper, we report the pan-genomic features, the multi-locus sequence types, the resistome, virulome, and mobilome, and the phylogenomic analysis of these organisms that were obtained from pigs.Results and discussionOur analysis revealed that, in addition to having an open pan-genome, majority (63%) of the typeable isolates of C. coli of pig origin belonged to a single clonal complex, ST-828. The resistome of these C. coli isolates was predominated by the genes tetO (53%), blaOXA-193 (49%), and APH (3′)-IIIa (21%); however, the virulome analysis revealed a core set of 37 virulence genes. Analysis of the mobile genetic elements in the genomes revealed wide diversity of the plasmids and bacteriophages, while 30 transposons were common to all genomes of C. coli of porcine origin. Phylogenomic analysis showed two discernible clusters comprising isolates originating from Japan and another set of isolates comprising mostly copies of a type strain stored in three different culture collections. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1449856>
 
 ---
 

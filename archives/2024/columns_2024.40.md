@@ -1,105 +1,210 @@
 ---
 title: columns
-updated: 2024-10-01 18:18:18
+updated: 2024-10-02 07:38:34
 ---
 
 # columns
 
-(date: 2024-10-01 18:18:18)
+(date: 2024-10-02 07:38:34)
 
 ---
 
-## We Won’t Have Taylor Lorenz to Kick Around Anymore
+##  Over 33,000 sounds are available for free download from the BBC&#8217;s sound... 
 
-date: 2024-10-02, updated: 2024-10-02, from: Daring Fireball
+date: 2024-10-02, updated: 2024-10-02, from: Jason Kittke's blog
 
  
 
-<https://apnews.com/article/taylor-lorenz-tech-journalism-washington-post-leave-028472143fb8b7d4fb21578403327981>
+<https://kottke.org/24/10/0045355-over-33000-sounds-are-ava>
 
 ---
 
-**@Miguel de Icaza Mastondon feed** (date: 2024-10-01, from: Miguel de Icaza Mastondon feed)
+## Snapdragon Dev Kit for Windows - the fastest X Elite, tested
 
-<p>Just happy that every build of mine consumes 8 minutes on Xcode Cloud to really optimize the speed at which my macros run, so instead of taking 3 milliseconds they take 2.8 milliseconds to run.</p><p>Doing my part to keep Big Data Center AC in business.</p> 
+date: 2024-10-02, from: Jeff Geerling blog
 
-<https://mastodon.social/@Migueldeicaza/113234814564073555>
+<span class="field field--name-title field--type-string field--label-hidden">Snapdragon Dev Kit for Windows - the fastest X Elite, tested</span>
 
----
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/snapdragon-x-elite-dev-kit-for-windows-hero.jpeg" alt="Snapdragon Dev Kit for Windows - Snapdragon X Elite"></p>
 
-## Wednesday 2 October, 2024
+<p>I have mixed feelings publishing this post: many developers who are <em>actively trying to port their Windows software to Arm</em> are <a href="https://www.reddit.com/r/snapdragon/comments/1ftrsp4/additional_delivery_update_on_snapdragon/">still awaiting shipment</a> of their own Snapdragon Dev Kits, and I seem to be one of the first few people to receive one.</p>
 
-date: 2024-10-01, from: John Naughton's online diary
+<p>Everyone I've been in contact with <em>also</em> ordered the Dev Kit on July 16, but <a href="https://www.jeffgeerling.com/blog/2024/where-qualcomms-snapdragon-x-elite-dev-kit">we've all been waiting for it to ship—for months</a>.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-10-02T09:02:17-05:00" title="Wednesday, October 2, 2024 - 09:02" class="datetime">October 2, 2024</time>
+</span> 
 
-Colour Sometimes, B&#38;W just doesn’t cut it! Quote of the Day “I’m very careful to only predict things which have already happened.” Marshall McLuhan Great advice for anyone covering the tech industry. Musical alternative to the morning’s radio news The &#8230; <a href="https://memex.naughtons.org/wednesday-2-october-2024/39923/">Continue reading <span class="meta-nav">&#8594;</span></a> 
-
-<https://memex.naughtons.org/wednesday-2-october-2024/39923/>
-
----
-
-## I’m a professional
-
-date: 2024-10-01, from: Daniel Stenberg Blog
-
-I received this email today. tldr; I am not selling my soul. From: Microsoft Subject: Congratulations on your Microsoft MVP award You’ve been accepted to the Microsoft MVP program Daniel Stenberg, We’re pleased to welcome you to the Microsoft Most Valuable Professionals (MVP) program in recognition of your outstanding contributions to the community in following &#8230; <a href="https://daniel.haxx.se/blog/2024/10/02/im-a-professional/" class="more-link">Continue reading <span class="screen-reader-text">I&#8217;m a professional</span> <span class="meta-nav">&#8594;</span></a> 
-
-<https://daniel.haxx.se/blog/2024/10/02/im-a-professional/>
+<https://www.jeffgeerling.com/blog/2024/snapdragon-dev-kit-windows-fastest-x-elite-tested>
 
 ---
 
-## How to share your access to media with family and simultaneously sweep the annual nerdy nephew of the year awards
+**@Dave Winer's Scripting News** (date: 2024-10-02, from: Dave Winer's Scripting News)
 
-date: 2024-10-01, from: Matt Haughey blog
+It has been pointed out that this blog will be 30 years old on October 7, not October 10, as I had previously reported. The clock at the bottom of story pages is correct. It currently reads: 29 years, 11 months, 25 days, 19 hours, 1 minute, 34 seconds. 
 
-<p>A couple months ago I was hanging out with my aunt, and she mentioned her cable+internet bill was around $250 per month. I thought that was <strong><em>insane</em></strong> and that I should do something about it. She&apos;s a 75 year old retiree that watches baseball and the hallmark</p> 
-
-<https://a.wholelottanothing.org/how-to-share-your-access-to-media-with-family-and-simultaneously-sweep-the-annual-nerdy-nephew-of-the-year-awards/>
+<http://scripting.com/2024/10/02.html#a135946>
 
 ---
 
-## Modernizing the Original ADB Keyboard From the Apple IIGS
+**@Dave Winer's Scripting News** (date: 2024-10-02, from: Dave Winer's Scripting News)
 
-date: 2024-10-01, updated: 2024-10-01, from: Daring Fireball
+Trade Secrets Radio: <a href="http://secrets.scripting.com/whatIsPodcasting">What is podcasting?</a> This is the exact moment, 9/24/2004, that podcasting got its name and its definition. It's pretty short. We knew what we were doing. We loved what RSS did for news. Now we were doing the same for radio. Not just talking about it, but finally -- doing it. It worked, pretty freaking well. There's a podcast episode to go with it, coming out shortly. 
 
+<http://scripting.com/2024/10/02.html#a135117>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-02, from: Miguel de Icaza Mastondon feed)
+
+<p>This is also lucid reporting by friend of the show Jeremy Scahill:</p><p><a href="https://www.dropsitenews.com/p/escalate-to-de-escalate-what-led" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">dropsitenews.com/p/escalate-to</span><span class="invisible">-de-escalate-what-led</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/113238052749986506>
+
+---
+
+## Pod-catching-up
+
+date: 2024-10-02, from: Dave Winer's Scripting News
+
+<p>I have a lot of podcast catching up to do today.</p>
+<ul>
+<li>A Trade Secrets <a href="https://shownotes.scripting.com/podcast0/2024/10/02/howCanIMissYouWhenYouWontGoAway.html">cast</a> from <a href="http://scripting.com/2004/10/01.html">Oct 1, 2004</a>. </li>
+<li>A <a href="https://shownotes.scripting.com/podcast0/2024/10/02/tradeSecrets.html">Trade Secrets cast</a> with Adam and myself from <a href="http://scripting.com/2004/09/28.html">Sept 28, 2004</a>.</li>
+<li>An Morning Coffee Notes <a href="https://shownotes.scripting.com/podcast0/2024/10/02/bloglinesApiAndOtherTopics.html">episode</a> from the <a href="http://scripting.com/2004/09/28.html">same day</a>, about Bloglines, an early feed reader, the commons and fair compensation for centralized commons. </li>
+</ul>
  
 
-<https://www.youtube.com/watch?v=NW_LLVD3R3c>
+<http://scripting.com/2024/10/02/125133.html?title=podcatchingup>
 
 ---
 
-## 2024_10_01 Postings
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-02, from: Miguel de Icaza Mastondon feed)
 
-date: 2024-10-01, from: Doc Searls (at Harvard), New Old Blog
+<p>Jesús fucking Christ<br /><a href="https://mamot.fr/@pluralistic/113237780216406333" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">mamot.fr/@pluralistic/11323778</span><span class="invisible">0216406333</span></a></p> 
 
-A radio item Over on my blog about infrastructure, I put up a brief post about WART, volunteer-powered community radio station with studios in a railroad caboose, that was lost in the flood that just devastated Marshall, North Carolina. Write once, publish everywhere Dave turned me on to Croissant today. Looks good. I&#8217;d even be [&#8230;] 
-
-<https://doc.searls.com/2024/10/01/2024_10_01-postings/>
+<https://mastodon.social/@Migueldeicaza/113237844117086283>
 
 ---
 
-##  A Murmuration of Starlings 
+## 2024-10-02 Control the ssh login messages
 
-date: 2024-10-01, updated: 2024-10-01, from: Jason Kittke's blog
+date: 2024-10-02, from: Alex Schroeder's Blog
 
+<h1 id="2024-10-02-control-the-ssh-login-messages">2024-10-02 Control the ssh login messages</h1>
+
+<p>I found that the settings in <code>/etc/ssh/sshd_config</code> had no effect.
+Namely, <code>PrintLastLog no</code> and <code>PrintMotd no</code>.</p>
+
+<p>Instead, what helped was to edit <code>/etc/pam.d/sshd</code> and comment the first line (to get rid of the <code>uname -a</code> stuff identifying the system). I kept the second line because <code>/etc/motd</code> just says &ldquo;This is the server.&rdquo;</p>
+
+<pre><code># session    optional     pam_motd.so  motd=/run/motd.dynamic                                                          
+session    optional     pam_motd.so noupdate
+</code></pre>
+
+<p>I got rid of the <code>fish</code> greeting by using <code>set -U fish_greeting &quot;&quot;</code> – although using <code>set -U fish_greeting &quot;🐟&quot;</code> would be a cute alternative. 😄</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a></p> 
+
+<https://alexschroeder.ch/view/2024-10-02-ssh-login>
+
+---
+
+## After 27 years, Tcl/Tk 9 finally arrives with 64-bit power and Zip file magic
+
+date: 2024-10-02, updated: 2024-10-02, from: Liam Proven's articles at the Register
+
+<h4>Now that's the kind of stability we like</h4>
+      <p>Tcl/Tk 9.0 has moved to Unicode and 64-bit data structures, and can now access compressed files as if they were file systems. It has been worth the considerable wait.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/10/02/tcltk_version_9/>
+
+---
+
+## 2024-10-02 Copy from ssh session
+
+date: 2024-10-02, from: Alex Schroeder's Blog
+
+<h1 id="2024-10-02-copy-from-ssh-session">2024-10-02 Copy from ssh session</h1>
+
+<p>I wrote myself the following <code>fish</code> function that uses <a href="https://jdhao.github.io/2021/01/05/nvim_copy_from_remote_via_osc52/">OSC 52 as explained by jdhao</a> in order to copy text from within a <code>ssh</code> session into the local (client-side) clipboard.
+OSC stands for <a href="https://en.wikipedia.org/wiki/ANSI_escape_code#OSC">Operating System Command</a>.</p>
+
+<pre><code>function ssh-copy --description 'Copy text to the local clipboard'
+    read -z -l input
+    printf &quot;\033]52;c;&quot;
+    printf &quot;%s&quot; $input | base64
+    printf &quot;\a&quot;
+end
+</code></pre>
+
+<p>I need to install this for every remote account, of course, because it has to exist on the remote end.
+Use <code>funced --save ssh-copy</code> to do it.</p>
+
+<p>Here&rsquo;s an example of how to use it:</p>
+
+<pre><code>alex@melanobombus ~&gt; ssh sibirocobombus
+This is the server.
+You have new mail.
+alex@sibirocobombus ~&gt; echo hello | ssh-copy
+alex@sibirocobombus ~&gt; exit
+Connection to alexschroeder.ch closed.
+alex@melanobombus ~&gt; wl-paste
+hello
+
+</code></pre>
+
+<p><code>wl-paste</code> and <code>wl-copy</code> are from the <code>wl-clipboard</code> package for Wayland.</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a></p> 
+
+<https://alexschroeder.ch/view/2024-10-02-ssh-copy>
+
+---
+
+## California AI Safety Bill Vetoed
+
+date: 2024-10-02, updated: 2024-10-02, from: Bruce Schneier blog
+
+<p>Governor Newsom has <a href="https://arstechnica.com/ai/2024/09/california-governor-vetoes-controversial-ai-safety-bill/">vetoed</a> the state&#8217;s AI safety bill.</p>
+<p>I have mixed feelings about the <a href="https://arstechnica.com/information-technology/2024/07/from-sci-fi-to-state-law-californias-plan-to-prevent-ai-catastrophe/">bill</a>. There&#8217;s a lot to like about it, and I want governments to regulate in this space. But, for now, it&#8217;s all <a href="https://artificialintelligenceact.eu/">EU</a>.</p>
+<p>(Related, the Council of Europe <a href="https://rm.coe.int/1680afae3c">treaty on AI</a> is <a href="https://www.coe.int/en/web/portal/-/council-of-europe-opens-first-ever-global-treaty-on-ai-for-signature">ready for signature</a>. It&#8217;ll be legally binding when signed, and it&#8217;s a big deal.)</p>
  
 
-<https://kottke.org/24/10/a-murmuration-of-starlings-1>
+<https://www.schneier.com/blog/archives/2024/10/california-ai-safety-bill-vetoed.html>
 
 ---
 
-## Tonight’s Vice Presidential Debate watch-along
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-02, from: Miguel de Icaza Mastondon feed)
 
-date: 2024-10-01, from: Robert Reich's blog
+<p>More journalism like this:</p><p><a href="https://www.normalisland.co.uk/p/iran-launches-unprovoked-attack-at" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">normalisland.co.uk/p/iran-laun</span><span class="invisible">ches-unprovoked-attack-at</span></a></p> 
 
-Please join me and Michael Lahanas-Calder&#243;n right here, starting at 8:45 ET/5:45 PT &#8212; as we provide you context, clarity, and company. 
+<https://mastodon.social/@Migueldeicaza/113237412243069579>
 
-<https://robertreich.substack.com/p/tonights-vice-presidential-debate>
+---
+
+## Office Hours: Last night’s vice-presidential debate
+
+date: 2024-10-02, from: Robert Reich's blog
+
+Who won and why? 
+
+<https://robertreich.substack.com/p/office-hours-last-nights-vice-presidential>
+
+---
+
+## October 1, 2024 
+
+date: 2024-10-02, from: Heather Cox Richardson blog
+
+More than 45,000 U.S. 
+
+<https://heathercoxrichardson.substack.com/p/october-1-2024>
 
 ---
 
 ## 2024-09-18 Emacs Wiki and China
 
-date: 2024-10-01, from: Alex Schroeder's Blog
+date: 2024-10-02, from: Alex Schroeder's Blog
 
 <h1 id="2024-09-18-emacs-wiki-and-china">2024-09-18 Emacs Wiki and China</h1>
 
@@ -744,9 +849,164 @@ ipset add banlist 111.48.77.0/24 # China Mobile / CMNET / China Mobile communica
 ipset add banlist 36.40.0.0/14 # CHINANET-SN / Beijing 100032
 </code></pre>
 
-<p><img loading="lazy" src="2024-09-15-emacs-china-1.jpg" alt="" /></p> 
+<p><img loading="lazy" src="2024-09-15-emacs-china-1.jpg" alt="" /></p>
+
+<p><strong>2024-10-02</strong>. The situation is under control again, but since I&rsquo;m vindictive, I&rsquo;ll block some more.</p>
+
+<pre><code>tail -n 500 /var/log/apache2/access.log \
+ | grep -v ^social \
+ | grep &quot;rcidonly=&quot; \
+ | tail -n 50 \
+ | bin/admin/network-lookup &gt; result.log
+grep ipset result.log
+ipset add banlist 101.16.0.0/12 # CNCGROUP-HE / China Unicom Hebei Province Network
+ipset add banlist 111.18.32.0/20 # China Mobile / CMNET / China Mobile communications corporation / ORG-CM1-AP
+ipset add banlist 36.16.0.0/12 # CHINANET-ZJ-TZ / Zhejiang Telecom
+ipset add banlist 112.20.96.0/19 # CMNET / China Mobile communications corporation / ORG-CMCC1-AP / China Mobile Communications Corporation
+ipset add banlist 223.67.224.0/19 # China Mobile communications corporation / CMNET / ORG-CM1-AP / China Mobile
+ipset add banlist 36.132.168.0/22 # China Mobile Communications Corporation / CMNET / China Mobile Communications Corporation / ORG-CMCC1-AP
+ipset add banlist 123.120.0.0/18 # China Unicom Beijing Province Network / UNICOM-BJ
+ipset add banlist 111.43.144.0/24 # ORG-CM1-AP / CMNET / China Mobile communications corporation / China Mobile
+ipset add banlist 116.231.0.0/16 # Beijing 100032 / CHINANET-SH
+ipset add banlist 39.149.0.0/20 # ORG-CM1-AP / CMNET / Internet Service Provider in China / China Mobile
+ipset add banlist 223.73.84.0/22 # ORG-CM1-AP / CMNET / China Mobile communications corporation / China Mobile
+ipset add banlist 218.8.0.0/15 # UNICOM-HL / CNC Group CHINA169 Heilongjiang Province Network
+ipset add banlist 36.132.166.0/23 # China Mobile Communications Corporation / ORG-CMCC1-AP / China Mobile Communications Corporation / CMNET
+ipset add banlist 58.22.0.0/15 # CNCGROUP-FJ-XIAMEN-MAN / CNCGroup FuJian province network
+ipset add banlist 117.143.52.0/22 # China Mobile communications corporation / CMNET-shanghai
+ipset add banlist 111.41.34.0/24 # ORG-CM1-AP / China Mobile communications corporation / CMNET / China Mobile
+ipset add banlist 125.40.0.0/13 # UNICOM-HA / CNC Group CHINA169 Henan Province Network
+ipset add banlist 171.40.0.0/15 # China Telecom / CHINANET-HB
+ipset add banlist 112.64.0.0/17 # Addresses from APNIC / UNICOM-SH
+ipset add banlist 117.179.181.0/24 # ORG-CM1-AP / CMNET / China Mobile communications corporation / China Mobile
+ipset add banlist 223.66.192.0/19 # China Mobile / ORG-CM1-AP / CMNET / China Mobile communications corporation
+ipset add banlist 111.33.0.0/17 # China Mobile / CMNET / China Mobile communications corporation / ORG-CM1-AP
+ipset add banlist 101.44.160.0/20 # Huawei-Cloud-SG / HUAWEI INTERNATIONAL PTE. LTD.
+ipset add banlist 36.106.148.0/23 # CHINANET TIANJIN PROVINCE NETWORK / CHINANET-TJ
+ipset add banlist 117.179.33.0/24 # ORG-CM1-AP / CMNET / China Mobile communications corporation / China Mobile
+ipset add banlist 124.114.0.0/16 # Beijing 100088 / CHINANET-SN
+ipset add banlist 223.89.192.0/18 # ORG-CM1-AP / China Mobile communications corporation / CMNET / China Mobile
+ipset add banlist 118.248.0.0/13 # Beijing 100032 / CHINANET-HN
+ipset add banlist 223.81.128.0/19 # China Mobile / ORG-CM1-AP / CMNET / China Mobile communications corporation
+ipset add banlist 223.74.216.0/22 # China Mobile communications corporation / CMNET / ORG-CM1-AP / China Mobile
+ipset add banlist 111.41.14.0/23 # ORG-CM1-AP / CMNET / China Mobile communications corporation / China Mobile
+ipset add banlist 223.74.103.0/24 # China Mobile / ORG-CM1-AP / CMNET / China Mobile communications corporation
+ipset add banlist 223.74.72.0/21 # CMNET / China Mobile communications corporation / ORG-CM1-AP / China Mobile
+ipset add banlist 39.130.96.0/19 # China Mobile / CMNET / Internet Service Provider in China / ORG-CM1-AP
+ipset add banlist 221.228.192.0/20 # CHINANET-JS / Beijing 100088
+ipset add banlist 180.175.0.0/16 # CHINANET-SH / Beijing 100032
+ipset add banlist 112.100.0.0/14 # NO.178 Zhongshan Road,Haerbin,Heilongjiang 150040 / CHINANET-HL
+ipset add banlist 223.95.192.0/19 # China Mobile / China Mobile communications corporation / CMNET / ORG-CM1-AP
+ipset add banlist 111.34.192.0/20 # China Mobile communications corporation / CMNET / ORG-CM1-AP / China Mobile
+ipset add banlist 111.36.160.0/20 # ORG-CM1-AP / CMNET / China Mobile communications corporation / China Mobile
+ipset add banlist 111.17.64.0/19 # ORG-CM1-AP / China Mobile communications corporation / CMNET / China Mobile
+ipset add banlist 101.69.0.0/16 # UNICOM-ZJ / China Unicom Zhejiang Province Network
+ipset add banlist 112.116.0.0/15 # CHINANET-YN / Beijing 100032
+ipset add banlist 111.14.144.0/20 # China Mobile / ORG-CM1-AP / China Mobile communications corporation / CMNET
+ipset add banlist 111.18.0.0/16 # China Mobile / ORG-CM1-AP / CMNET / China Mobile communications corporation
+ipset add banlist 220.192.0.0/18 # China Unicom Network / UNICOM
+ipset add banlist 123.118.0.0/18 # China Unicom Beijing Province Network / UNICOM-BJ
+</code></pre> 
 
 <https://alexschroeder.ch/view/2024-09-15-emacs-china>
+
+---
+
+## History Extra for September 30, 2024 
+
+date: 2024-10-02, from: Heather Cox Richardson blog
+
+On Saturday, September 8, 1900, a hurricane hit low-lying Galveston, Texas. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-september-30-2024>
+
+---
+
+## We Won’t Have Taylor Lorenz to Kick Around Anymore
+
+date: 2024-10-02, updated: 2024-10-02, from: Daring Fireball
+
+ 
+
+<https://apnews.com/article/taylor-lorenz-tech-journalism-washington-post-leave-028472143fb8b7d4fb21578403327981>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-01, from: Miguel de Icaza Mastondon feed)
+
+<p>Just happy that every build of mine consumes 8 minutes on Xcode Cloud to really optimize the speed at which my macros run, so instead of taking 3 milliseconds they take 2.8 milliseconds to run.</p><p>Doing my part to keep Big Data Center AC in business.</p> 
+
+<https://mastodon.social/@Migueldeicaza/113234814564073555>
+
+---
+
+## Wednesday 2 October, 2024
+
+date: 2024-10-01, from: John Naughton's online diary
+
+Colour Sometimes, B&#38;W just doesn’t cut it! Quote of the Day “I’m very careful to only predict things which have already happened.” Marshall McLuhan Great advice for anyone covering the tech industry. Musical alternative to the morning’s radio news The &#8230; <a href="https://memex.naughtons.org/wednesday-2-october-2024/39923/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-2-october-2024/39923/>
+
+---
+
+## I’m a professional
+
+date: 2024-10-01, from: Daniel Stenberg Blog
+
+I received this email today. tldr; I am not selling my soul. From: Microsoft Subject: Congratulations on your Microsoft MVP award You’ve been accepted to the Microsoft MVP program Daniel Stenberg, We’re pleased to welcome you to the Microsoft Most Valuable Professionals (MVP) program in recognition of your outstanding contributions to the community in following &#8230; <a href="https://daniel.haxx.se/blog/2024/10/02/im-a-professional/" class="more-link">Continue reading <span class="screen-reader-text">I&#8217;m a professional</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/10/02/im-a-professional/>
+
+---
+
+## How to share your access to media with family and simultaneously sweep the annual nerdy nephew of the year awards
+
+date: 2024-10-01, from: Matt Haughey blog
+
+<p>A couple months ago I was hanging out with my aunt, and she mentioned her cable+internet bill was around $250 per month. I thought that was <strong><em>insane</em></strong> and that I should do something about it. She&apos;s a 75 year old retiree that watches baseball and the hallmark</p> 
+
+<https://a.wholelottanothing.org/how-to-share-your-access-to-media-with-family-and-simultaneously-sweep-the-annual-nerdy-nephew-of-the-year-awards/>
+
+---
+
+## Modernizing the Original ADB Keyboard From the Apple IIGS
+
+date: 2024-10-01, updated: 2024-10-01, from: Daring Fireball
+
+ 
+
+<https://www.youtube.com/watch?v=NW_LLVD3R3c>
+
+---
+
+## 2024_10_01 Postings
+
+date: 2024-10-01, from: Doc Searls (at Harvard), New Old Blog
+
+A radio item Over on my blog about infrastructure, I put up a brief post about WART, volunteer-powered community radio station with studios in a railroad caboose, that was lost in the flood that just devastated Marshall, North Carolina. Write once, publish everywhere Dave turned me on to Croissant today. Looks good. I&#8217;d even be [&#8230;] 
+
+<https://doc.searls.com/2024/10/01/2024_10_01-postings/>
+
+---
+
+##  A Murmuration of Starlings 
+
+date: 2024-10-01, updated: 2024-10-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/a-murmuration-of-starlings-1>
+
+---
+
+## Tonight’s vice presidential debate watch-along
+
+date: 2024-10-01, from: Robert Reich's blog
+
+Please join me and Michael Lahanas-Calder&#243;n right here, starting at 8:45 ET/5:45 PT &#8212; as we provide you context, clarity, and company. 
+
+<https://robertreich.substack.com/p/tonights-vice-presidential-debate>
 
 ---
 

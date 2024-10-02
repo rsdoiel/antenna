@@ -1,11 +1,21 @@
 ---
 title: retro computing
-updated: 2024-10-01 18:18:24
+updated: 2024-10-02 07:38:41
 ---
 
 # retro computing
 
-(date: 2024-10-01 18:18:24)
+(date: 2024-10-02 07:38:41)
+
+---
+
+## Plus Post: Epson HC-88 (PX-8)
+
+date: 2024-10-02, from: Computer ads from the Past
+
+Utilizing the latest technology, we have condensed all of our functionality into an A4 size document. 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-epson-hc-88-px-8>
 
 ---
 

@@ -1,11 +1,141 @@
 ---
 title: going electric
-updated: 2024-10-01 18:18:25
+updated: 2024-10-02 07:38:42
 ---
 
 # going electric
 
-(date: 2024-10-01 18:18:25)
+(date: 2024-10-02 07:38:42)
+
+---
+
+## Tesla cancels its cheapest electric car
+
+date: 2024-10-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla_Model_3_2024.jpg?quality=82&#038;strip=all&#038;w=1536" /></div><p>Tesla has discontinued its cheapest electric car model: the Model 3 Standard Range Rear-Wheel-Drive.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-3" data-layer-viewtype="unknown" data-post-id="382374" href="https://electrek.co/2024/10/02/tesla-cancels-its-cheapest-electric-car/#more-382374" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/02/tesla-cancels-its-cheapest-electric-car/>
+
+---
+
+## These Are All The Non-Tesla EVs That Can Use Tesla Superchargers
+
+date: 2024-10-02, from: Inside EVs News
+
+We’ve gone from just a handful of cars to dozens. And the list keeps getting longer every month. 
+
+<https://insideevs.com/news/735724/non-tesla-ev-tesla-supercharger-access/>
+
+---
+
+## Volvo EX30 sparks growth in September as EV sales share nears 25%
+
+date: 2024-10-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Volvo-EX30-EV-sales.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volvo’s cheapest electric SUV is proving to be the growth driver the brand hoped for. In September, the <a href="https://electrek.co/guides/volvo-ex30/">EX30</a> was the third best-selling Volvo model as EVs approached a quarter of global sales.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo,volvo-ex30" data-layer-viewtype="unknown" data-post-id="382367" href="https://electrek.co/2024/10/02/volvo-ex30-sparks-sept-sales-growth-ev-share-nears-25/#more-382367" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/02/volvo-ex30-sparks-sept-sales-growth-ev-share-nears-25/>
+
+---
+
+## Tesla Powerwall goes vertical
+
+date: 2024-10-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla_Powerwall_Hero_UK.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla Powerwall installations are going vertical based on the latest data released by the company. There are now 750,000 Powerwall installed worldwide.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="382335" href="https://electrek.co/2024/10/02/tesla-powerwall-goes-vertical/#more-382335" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/02/tesla-powerwall-goes-vertical/>
+
+---
+
+## Tesla Q3 2024 Sales Rebound Over Q2, Beat Q3 2023
+
+date: 2024-10-02, from: Inside EVs News
+
+Tesla sales rebounded in Q3, besting the automaker's Q2 result by approximately 20,000. 
+
+<https://insideevs.com/news/735485/tesla-q3-2024-sales-production/>
+
+---
+
+## Tesla (TSLA) releases Q3 deliveries: just shy of expectations
+
+date: 2024-10-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/12/Tesla-all-casrs-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) has released its official deliveries and production results for the third quarter of 2024. The automaker confirmed that it delivered just short of 463,000 vehicles, which was Wall Street’s expectations.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="382363" href="https://electrek.co/2024/10/02/tesla-tsla-releases-q3-deliveries-just-shy-of-expectations/#more-382363" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/02/tesla-tsla-releases-q3-deliveries-just-shy-of-expectations/>
+
+---
+
+## Dead: Cheapest Tesla Model 3 Discontinued In U.S.
+
+date: 2024-10-02, from: Inside EVs News
+
+The LFP-powered EV is gone from the U.S., most likely due to the increased tariffs on Chinese-made electric vehicles and batteries. 
+
+<https://insideevs.com/news/735884/tesla-model-3-rwd-lfp-discontinued/>
+
+---
+
+## The Skoda Elroq Is The VW Group’s Cheapest Electric Crossover
+
+date: 2024-10-02, from: Inside EVs News
+
+This is one of the longest-range electric Skoda models and it starts at €33,000 ($36,500) in some European markets. 
+
+<https://insideevs.com/news/735860/skoda-elroq-electric-crossover-revealed/>
+
+---
+
+## The 2024 Porsche Macan Electric Tops Out At $150,000
+
+date: 2024-10-02, from: Inside EVs News
+
+Deliveries of the all-electric crossover are now underway in the United States. How would you configure yours? 
+
+<https://insideevs.com/news/735840/porsche-macan-deliveries-price/>
+
+---
+
+## Ford’s BlueCruise Hands-Free ADAS Is Now Cheaper
+
+date: 2024-10-02, from: Inside EVs News
+
+Owners of compatible vehicles can also buy BlueCruise to use forever, an option that was not previously available. 
+
+<https://insideevs.com/news/735828/ford-blue-cruise-cheap-pricing/>
+
+---
+
+## Halloween kickoff, record EV sales, and healthier oysters
+
+date: 2024-10-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/record-sales2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s Halloween-y episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we’ve got record EV sales from GM, Hyundai, Kia, and more! We’ve also got big trucks and fat oysters and ALL of it is powered by electric!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-boats,ev-sales,volvo-trucks" data-layer-viewtype="unknown" data-post-id="382353" href="https://electrek.co/2024/10/01/halloween-kickoff-record-ev-sales-and-healthier-oysters/#more-382353" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/01/halloween-kickoff-record-ev-sales-and-healthier-oysters/>
 
 ---
 
@@ -279,7 +409,7 @@ The Volkswagen ID.7 rival from Mazda is also available as a range-extender EV.
 
 ---
 
-## That Cheap Chevy Silverado EV You Want From Hertz Can’t Use Tesla Superchargers
+## That Cheap Chevy Silverado EV You Want From Hertz Might Not Charge At Tesla Superchargers (Updated)
 
 date: 2024-10-01, from: Inside EVs News
 

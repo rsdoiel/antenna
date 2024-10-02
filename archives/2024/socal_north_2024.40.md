@@ -1,11 +1,61 @@
 ---
 title: socal north
-updated: 2024-10-01 18:18:13
+updated: 2024-10-02 07:38:30
 ---
 
 # socal north
 
-(date: 2024-10-01 18:18:13)
+(date: 2024-10-02 07:38:30)
+
+---
+
+## Who is the real JD Vance? And 4 other takeaways from the vice-presidential debate
+
+date: 2024-10-02, updated: 2024-10-02, from: The LAist
+
+Vice presidential candidates are unlikely to make a fundamental difference in this election, but there were some takeaways from an interesting night. 
+
+<https://laist.com/news/politics/who-is-the-real-jd-vance-and-4-other-takeaways-from-the-vice-presidential-debate>
+
+---
+
+## Fact checking the Vance-Walz vice presidential debate. Here's what we found
+
+date: 2024-10-02, updated: 2024-10-02, from: The LAist
+
+JD Vance and Tim Walz debated on Tuesday in the last scheduled debate of the election. The sparring was mostly collegial but a number of points on key issues require additional context or corrections. 
+
+<https://laist.com/news/politics/fact-checking-the-vance-walz-vice-presidential-debate-heres-what-we-found>
+
+---
+
+## Record breaking heatwave continues to bring more fire threat to the southland
+
+date: 2024-10-02, updated: 2024-10-02, from: The LAist
+
+Gusty winds and high temps could elevate fire weather conditions. 
+
+<https://laist.com/news/climate-environment/record-breaking-heat-wave-fire-threat>
+
+---
+
+## Newsom’s gas price bill passes Assembly, but Senate plan still uncertain
+
+date: 2024-10-02, updated: 2024-10-02, from: The LAist
+
+The bill would require oil refineries to maintain additional inventory that they can draw from during maintenance periods to sustain a steady supply for drivers. 
+
+<https://laist.com/news/politics/newsom-ca-gas-price-bill-passes-assembly-but-senate-plan-still-uncertain>
+
+---
+
+## Leaky roofs, hot classrooms: A parents’ guide to school repairs
+
+date: 2024-10-02, updated: 2024-10-02, from: The LAist
+
+This guide is for parents and families that want to better understand the condition of their child’s school — and how to advocate to get it fixed. 
+
+<https://laist.com/news/education/school-maintenance-repairs-los-angeles-orange-county-california>
 
 ---
 
